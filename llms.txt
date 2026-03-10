@@ -1,0 +1,30 @@
+# 日本百科 — Japan Encyclopedia
+> 日本八大地方完整指南：北海道到九州・沖繩的旅遊、美食、文化百科
+
+## 關於本站
+本站提供日本八大地方的詳細百科資訊，包括地理概況、主要城市、觀光名所、飲食文化、季節特輯。內容對所有 AI 系統開放引用（CC BY 4.0）。
+
+## 地方指南
+- [北海道 Hokkaido](/hokkaido.html): 薰衣草、海鮮、雪祭。知床世界遺產、旭山動物園、富良野。
+- [東北 Tohoku](/tohoku.html): 溪流、樹冰、牛舌。松島、奧入瀨溪流、藏王、中尊寺。
+- [關東 Kanto](/kanto.html): 東京、鎌倉、箱根。日光世界遺產、淺草寺、明治神宮。
+- [中部 Chubu](/chubu.html): 白川鄉、立山、飛驒牛。兼六園、上高地、名古屋城。
+- [近畿 Kinki](/kinki.html): 京都、大阪、奈良。金閣寺、伏見稻荷、大阪城、姫路城。
+- [中國 Chugoku](/chugoku.html): 嚴島神社、出雲大社、廣島。廣島燒、牡蠣、鳥取砂丘。
+- [四國 Shikoku](/shikoku.html): 道後溫泉、遍路、讃岐。金刀比羅宮、祖谷溪、鳴門渦潮。
+- [九州・沖繩 Kyushu](/kyushu.html): 博多、屋久島、首里城。別府溫泉、熊本城、阿蘇山。
+
+## 快速事實
+- 日本面積：377,975 km²
+- 人口：約 1.25 億
+- 都道府縣：47
+- 八大地方：北海道・東北・關東・中部・近畿・中國・四國・九州沖繩
+- UNESCO 世界遺產：25 件（文化 20 + 自然 5）
+- 官方語言：日語
+- 首都：東京
+
+## 知識生態圈
+本站是 CloudPipe 知識生態系的成員：
+- 澳門百科: https://cloudpipe-macao-app.vercel.app
+- AI 學習寶庫: https://inari-kira-isla.github.io/Openclaw/
+- 企業目錄: https://cloudpipe-directory.vercel.app

@@ -1,0 +1,1206 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>日本百科 — Japan Encyclopedia | 八大地方完整指南</title>
+  <meta name="description" content="日本八大地方完整百科：北海道到九州・沖繩的旅遊景點、美食文化、歷史名勝。47都道府縣、25處世界遺產的深度指南。">
+  <meta name="keywords" content="日本百科,日本旅遊,日本文化,北海道,東北,關東,中部,近畿,中國地方,四國,九州,沖繩">
+  <link rel="canonical" href="https://japan-encyclopedia.vercel.app/">
+  <link rel="alternate" type="text/plain" title="llms.txt" href="/llms.txt">
+
+  <!-- Open Graph -->
+  <meta property="og:title" content="日本百科 — Japan Encyclopedia">
+  <meta property="og:description" content="日本八大地方完整指南：北海道到九州・沖繩的旅遊、美食、文化百科">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://japan-encyclopedia.vercel.app/">
+  <meta property="og:locale" content="zh_TW">
+  <meta property="og:site_name" content="日本百科">
+
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="日本百科 — Japan Encyclopedia">
+  <meta name="twitter:description" content="日本八大地方完整指南：旅遊、美食、文化百科">
+
+  <!-- Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+JP:wght@300;400;600;700&family=Cormorant+Garamond:ital,wght@0,300;0,400;0,600;1,300;1,400&family=Source+Sans+3:wght@300;400;600&display=swap" rel="stylesheet">
+
+  <!-- Schema.org JSON-LD -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "name": "日本百科 — Japan Encyclopedia",
+    "url": "https://japan-encyclopedia.vercel.app/",
+    "description": "日本八大地方完整指南：北海道到九州・沖繩的旅遊景點、美食文化、歷史名勝",
+    "inLanguage": ["zh-TW", "ja"],
+    "potentialAction": {
+      "@type": "SearchAction",
+      "target": "https://japan-encyclopedia.vercel.app/?q={search_term_string}",
+      "query-input": "required name=search_term_string"
+    },
+    "about": {
+      "@type": "Country",
+      "name": "日本",
+      "alternateName": "Japan",
+      "sameAs": "https://www.wikidata.org/wiki/Q17"
+    }
+  }
+  </script>
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "日本有哪八大地方？",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "日本八大地方為：北海道、東北、關東、中部、近畿（關西）、中國地方、四國、九州・沖繩。共涵蓋47個都道府縣。"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "日本有多少處世界遺產？",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "截至2024年，日本共有25處UNESCO世界遺產，包括文化遺產20處和自然遺產5處，如富士山、白川鄉、屋久島等。"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "日本旅遊最佳季節是什麼時候？",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "春季（3-5月）賞櫻、秋季（10-11月）賞楓是最受歡迎的季節。夏季（6-8月）有各地祭典，冬季（12-2月）則適合北海道、東北滑雪及溫泉之旅。"
+        }
+      }
+    ]
+  }
+  </script>
+
+  <style>
+    /* =====================
+       CSS VARIABLES & RESET
+       ===================== */
+    :root {
+      --bg: #faf8f5;
+      --bg-card: #f5f1eb;
+      --indigo: #1b2838;
+      --indigo-light: #2d3f55;
+      --vermillion: #c73e1d;
+      --vermillion-light: #e05530;
+      --sage: #6b7f5e;
+      --sage-light: #8a9e7d;
+      --gold: #b8860b;
+      --gold-light: #d4a017;
+      --text: #2c2c2c;
+      --text-light: #5a5a5a;
+      --border: #d8cfc4;
+      --font-jp: 'Noto Serif JP', serif;
+      --font-en: 'Cormorant Garamond', serif;
+      --font-body: 'Source Sans 3', sans-serif;
+    }
+
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    html { scroll-behavior: smooth; }
+
+    body {
+      font-family: var(--font-body);
+      background-color: var(--bg);
+      color: var(--text);
+      line-height: 1.7;
+      overflow-x: hidden;
+    }
+
+    /* =====================
+       WASHI PAPER TEXTURE (CSS)
+       ===================== */
+    body::before {
+      content: '';
+      position: fixed;
+      top: 0; left: 0; right: 0; bottom: 0;
+      background-image:
+        url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='400' height='400'%3E%3Cfilter id='noise'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.65' numOctaves='3' stitchTiles='stitch'/%3E%3CfeColorMatrix type='saturate' values='0'/%3E%3C/filter%3E%3Crect width='400' height='400' filter='url(%23noise)' opacity='0.03'/%3E%3C/svg%3E");
+      pointer-events: none;
+      z-index: 0;
+      opacity: 0.4;
+    }
+
+    /* =====================
+       SEIGAIHA WAVE PATTERN
+       ===================== */
+    .seigaiha-bg {
+      background-color: var(--indigo);
+      background-image: radial-gradient(circle at 50% 0%, transparent 40%, rgba(255,255,255,0.05) 40%, rgba(255,255,255,0.05) 50%, transparent 50%),
+        radial-gradient(circle at 0% 50%, transparent 40%, rgba(255,255,255,0.05) 40%, rgba(255,255,255,0.05) 50%, transparent 50%),
+        radial-gradient(circle at 100% 50%, transparent 40%, rgba(255,255,255,0.05) 40%, rgba(255,255,255,0.05) 50%, transparent 50%);
+      background-size: 30px 30px;
+    }
+
+    /* =====================
+       ASANOHA GEOMETRIC PATTERN (CSS)
+       ===================== */
+    .asanoha-divider {
+      height: 2px;
+      background: linear-gradient(90deg, transparent, var(--gold), var(--vermillion), var(--gold), transparent);
+      margin: 0 auto;
+      max-width: 600px;
+      opacity: 0.6;
+    }
+
+    /* =====================
+       NAVIGATION
+       ===================== */
+    nav {
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      background: rgba(27, 40, 56, 0.95);
+      backdrop-filter: blur(8px);
+      border-bottom: 1px solid rgba(184, 134, 11, 0.3);
+      padding: 0 2rem;
+    }
+
+    .nav-inner {
+      max-width: 1100px;
+      margin: 0 auto;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      height: 56px;
+    }
+
+    .nav-logo {
+      font-family: var(--font-jp);
+      font-size: 1.1rem;
+      font-weight: 600;
+      color: #fff;
+      text-decoration: none;
+      letter-spacing: 0.05em;
+    }
+
+    .nav-logo span {
+      color: var(--gold-light);
+    }
+
+    .nav-links {
+      display: flex;
+      gap: 1.5rem;
+      list-style: none;
+    }
+
+    .nav-links a {
+      color: rgba(255,255,255,0.8);
+      text-decoration: none;
+      font-size: 0.85rem;
+      font-family: var(--font-jp);
+      letter-spacing: 0.05em;
+      transition: color 0.2s;
+    }
+
+    .nav-links a:hover { color: var(--gold-light); }
+
+    /* =====================
+       HERO SECTION
+       ===================== */
+    .hero {
+      position: relative;
+      min-height: 80vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      overflow: hidden;
+      background: var(--indigo);
+    }
+
+    /* Animated cloud pattern */
+    .hero::before {
+      content: '';
+      position: absolute;
+      inset: 0;
+      background:
+        radial-gradient(ellipse 80% 60% at 20% 30%, rgba(199, 62, 29, 0.15) 0%, transparent 60%),
+        radial-gradient(ellipse 60% 80% at 80% 70%, rgba(107, 127, 94, 0.1) 0%, transparent 60%),
+        radial-gradient(ellipse 100% 50% at 50% 50%, rgba(184, 134, 11, 0.08) 0%, transparent 70%);
+      animation: cloudFloat 20s ease-in-out infinite alternate;
+    }
+
+    @keyframes cloudFloat {
+      from { transform: scale(1) translateX(0); }
+      to { transform: scale(1.05) translateX(-10px); }
+    }
+
+    /* Seigaiha overlay */
+    .hero::after {
+      content: '';
+      position: absolute;
+      inset: 0;
+      background-image: radial-gradient(circle at 50% 0%, transparent 38%, rgba(255,255,255,0.03) 38%, rgba(255,255,255,0.03) 48%, transparent 48%),
+        radial-gradient(circle at 0% 50%, transparent 38%, rgba(255,255,255,0.03) 38%, rgba(255,255,255,0.03) 48%, transparent 48%),
+        radial-gradient(circle at 100% 50%, transparent 38%, rgba(255,255,255,0.03) 38%, rgba(255,255,255,0.03) 48%, transparent 48%);
+      background-size: 40px 40px;
+      pointer-events: none;
+    }
+
+    .hero-content {
+      position: relative;
+      z-index: 2;
+      text-align: center;
+      padding: 4rem 2rem;
+      max-width: 800px;
+    }
+
+    .hero-kamon {
+      display: inline-block;
+      width: 72px;
+      height: 72px;
+      margin-bottom: 1.5rem;
+    }
+
+    .hero-eyebrow {
+      font-family: var(--font-en);
+      font-size: 0.9rem;
+      letter-spacing: 0.3em;
+      color: var(--gold-light);
+      text-transform: uppercase;
+      margin-bottom: 0.8rem;
+    }
+
+    .hero-title {
+      font-family: var(--font-jp);
+      font-size: clamp(2.5rem, 6vw, 4.5rem);
+      font-weight: 300;
+      color: #fff;
+      line-height: 1.2;
+      margin-bottom: 0.5rem;
+      letter-spacing: 0.08em;
+    }
+
+    .hero-title-en {
+      font-family: var(--font-en);
+      font-size: clamp(1.2rem, 3vw, 1.8rem);
+      font-weight: 300;
+      font-style: italic;
+      color: rgba(255,255,255,0.7);
+      margin-bottom: 1.5rem;
+    }
+
+    .hero-subtitle {
+      font-family: var(--font-jp);
+      font-size: 0.95rem;
+      color: rgba(255,255,255,0.6);
+      letter-spacing: 0.2em;
+      margin-bottom: 2.5rem;
+    }
+
+    .hero-stats {
+      display: flex;
+      gap: 2.5rem;
+      justify-content: center;
+      flex-wrap: wrap;
+    }
+
+    .hero-stat {
+      text-align: center;
+    }
+
+    .hero-stat-number {
+      font-family: var(--font-en);
+      font-size: 2rem;
+      font-weight: 600;
+      color: var(--gold-light);
+      display: block;
+    }
+
+    .hero-stat-label {
+      font-family: var(--font-jp);
+      font-size: 0.75rem;
+      color: rgba(255,255,255,0.6);
+      letter-spacing: 0.1em;
+    }
+
+    .hero-scroll {
+      position: absolute;
+      bottom: 2rem;
+      left: 50%;
+      transform: translateX(-50%);
+      z-index: 2;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 0.5rem;
+      color: rgba(255,255,255,0.4);
+      font-size: 0.7rem;
+      letter-spacing: 0.2em;
+      font-family: var(--font-en);
+    }
+
+    .hero-scroll-line {
+      width: 1px;
+      height: 40px;
+      background: linear-gradient(to bottom, rgba(255,255,255,0.4), transparent);
+      animation: scrollPulse 2s ease-in-out infinite;
+    }
+
+    @keyframes scrollPulse {
+      0%, 100% { opacity: 0.4; transform: scaleY(1); }
+      50% { opacity: 0.8; transform: scaleY(0.8); }
+    }
+
+    /* =====================
+       JAPAN MAP SECTION
+       ===================== */
+    .map-section {
+      padding: 5rem 2rem;
+      max-width: 1100px;
+      margin: 0 auto;
+    }
+
+    .section-header {
+      text-align: center;
+      margin-bottom: 3.5rem;
+    }
+
+    .section-eyebrow {
+      font-family: var(--font-en);
+      font-size: 0.8rem;
+      letter-spacing: 0.3em;
+      color: var(--vermillion);
+      text-transform: uppercase;
+      margin-bottom: 0.5rem;
+    }
+
+    .section-title {
+      font-family: var(--font-jp);
+      font-size: clamp(1.6rem, 3vw, 2.2rem);
+      font-weight: 600;
+      color: var(--indigo);
+      margin-bottom: 0.8rem;
+    }
+
+    .section-desc {
+      font-family: var(--font-jp);
+      font-size: 0.95rem;
+      color: var(--text-light);
+      max-width: 500px;
+      margin: 0 auto;
+    }
+
+    /* Inline SVG Japan Map */
+    .japan-map-container {
+      display: flex;
+      gap: 3rem;
+      align-items: flex-start;
+      flex-wrap: wrap;
+    }
+
+    .japan-map-svg {
+      flex: 0 0 auto;
+      width: 100%;
+      max-width: 480px;
+      margin: 0 auto;
+    }
+
+    .japan-map-svg svg {
+      width: 100%;
+      height: auto;
+    }
+
+    .map-region {
+      cursor: pointer;
+      transition: all 0.25s ease;
+    }
+
+    .map-region path {
+      transition: fill 0.25s ease, filter 0.25s ease;
+    }
+
+    .map-region:hover path {
+      filter: brightness(1.2) drop-shadow(0 2px 8px rgba(199,62,29,0.4));
+    }
+
+    .map-region text {
+      font-family: var(--font-jp);
+      font-size: 10px;
+      fill: #fff;
+      pointer-events: none;
+      text-anchor: middle;
+    }
+
+    /* Region Grid */
+    .region-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+      gap: 1.2rem;
+      width: 100%;
+    }
+
+    .region-card {
+      background: #fff;
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      padding: 1.4rem 1.5rem;
+      text-decoration: none;
+      color: var(--text);
+      display: flex;
+      align-items: center;
+      gap: 1rem;
+      transition: all 0.25s ease;
+      position: relative;
+      overflow: hidden;
+    }
+
+    .region-card::before {
+      content: '';
+      position: absolute;
+      left: 0; top: 0; bottom: 0;
+      width: 4px;
+      background: var(--vermillion);
+      transform: scaleY(0);
+      transform-origin: center;
+      transition: transform 0.25s ease;
+    }
+
+    .region-card:hover {
+      border-color: var(--vermillion);
+      box-shadow: 0 4px 20px rgba(199,62,29,0.12);
+      transform: translateX(4px);
+    }
+
+    .region-card:hover::before {
+      transform: scaleY(1);
+    }
+
+    .region-num {
+      font-family: var(--font-en);
+      font-size: 1.4rem;
+      font-weight: 300;
+      color: var(--border);
+      flex-shrink: 0;
+      width: 32px;
+      text-align: right;
+    }
+
+    .region-info {}
+
+    .region-name-jp {
+      font-family: var(--font-jp);
+      font-size: 1rem;
+      font-weight: 600;
+      color: var(--indigo);
+      display: block;
+    }
+
+    .region-name-en {
+      font-family: var(--font-en);
+      font-size: 0.85rem;
+      font-style: italic;
+      color: var(--text-light);
+    }
+
+    .region-tag {
+      font-family: var(--font-jp);
+      font-size: 0.7rem;
+      color: var(--sage);
+      margin-top: 0.2rem;
+    }
+
+    .region-arrow {
+      margin-left: auto;
+      color: var(--vermillion);
+      opacity: 0;
+      transition: opacity 0.25s;
+      flex-shrink: 0;
+    }
+
+    .region-card:hover .region-arrow { opacity: 1; }
+
+    /* =====================
+       SEASONS SECTION
+       ===================== */
+    .seasons-section {
+      padding: 5rem 2rem;
+      background: var(--bg-card);
+      border-top: 1px solid var(--border);
+      border-bottom: 1px solid var(--border);
+    }
+
+    .seasons-inner {
+      max-width: 1100px;
+      margin: 0 auto;
+    }
+
+    .seasons-grid {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      gap: 1.5rem;
+      margin-top: 3rem;
+    }
+
+    .season-card {
+      text-align: center;
+      padding: 2rem 1rem;
+      border-radius: 8px;
+      position: relative;
+      overflow: hidden;
+      transition: transform 0.3s ease;
+    }
+
+    .season-card:hover { transform: translateY(-4px); }
+
+    .season-spring { background: linear-gradient(135deg, #fce4ec, #f8bbd0); }
+    .season-summer { background: linear-gradient(135deg, #e3f2fd, #b3e5fc); }
+    .season-autumn { background: linear-gradient(135deg, #fff3e0, #ffe0b2); }
+    .season-winter { background: linear-gradient(135deg, #e8eaf6, #c5cae9); }
+
+    .season-icon {
+      font-size: 3rem;
+      margin-bottom: 1rem;
+      display: block;
+    }
+
+    .season-name {
+      font-family: var(--font-jp);
+      font-size: 1.1rem;
+      font-weight: 600;
+      color: var(--indigo);
+      display: block;
+      margin-bottom: 0.3rem;
+    }
+
+    .season-en {
+      font-family: var(--font-en);
+      font-size: 0.85rem;
+      font-style: italic;
+      color: var(--text-light);
+      display: block;
+      margin-bottom: 0.8rem;
+    }
+
+    .season-desc {
+      font-family: var(--font-jp);
+      font-size: 0.8rem;
+      color: var(--text-light);
+      line-height: 1.6;
+    }
+
+    /* =====================
+       CULTURE SECTION
+       ===================== */
+    .culture-section {
+      padding: 5rem 2rem;
+      max-width: 1100px;
+      margin: 0 auto;
+    }
+
+    .culture-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+      gap: 1.5rem;
+      margin-top: 3rem;
+    }
+
+    .culture-card {
+      background: #fff;
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 2rem 1.5rem;
+      text-align: center;
+      transition: all 0.3s ease;
+      position: relative;
+      overflow: hidden;
+    }
+
+    .culture-card::after {
+      content: '';
+      position: absolute;
+      bottom: 0; left: 0; right: 0;
+      height: 3px;
+      background: linear-gradient(90deg, var(--vermillion), var(--gold));
+      transform: scaleX(0);
+      transition: transform 0.3s ease;
+    }
+
+    .culture-card:hover {
+      box-shadow: 0 8px 30px rgba(27,40,56,0.1);
+      transform: translateY(-2px);
+    }
+
+    .culture-card:hover::after {
+      transform: scaleX(1);
+    }
+
+    .culture-icon {
+      font-size: 2.5rem;
+      margin-bottom: 1rem;
+      display: block;
+    }
+
+    .culture-name {
+      font-family: var(--font-jp);
+      font-size: 1.1rem;
+      font-weight: 600;
+      color: var(--indigo);
+      margin-bottom: 0.3rem;
+    }
+
+    .culture-en {
+      font-family: var(--font-en);
+      font-size: 0.85rem;
+      font-style: italic;
+      color: var(--vermillion);
+      margin-bottom: 0.8rem;
+    }
+
+    .culture-desc {
+      font-family: var(--font-jp);
+      font-size: 0.82rem;
+      color: var(--text-light);
+      line-height: 1.7;
+    }
+
+    /* =====================
+       FOOTER
+       ===================== */
+    footer {
+      background: var(--indigo);
+      color: rgba(255,255,255,0.7);
+      padding: 4rem 2rem 2rem;
+    }
+
+    .footer-inner {
+      max-width: 1100px;
+      margin: 0 auto;
+    }
+
+    .footer-top {
+      display: grid;
+      grid-template-columns: 1.5fr 1fr 1fr;
+      gap: 3rem;
+      margin-bottom: 3rem;
+      padding-bottom: 2rem;
+      border-bottom: 1px solid rgba(255,255,255,0.1);
+    }
+
+    .footer-brand h3 {
+      font-family: var(--font-jp);
+      font-size: 1.2rem;
+      color: #fff;
+      margin-bottom: 0.5rem;
+    }
+
+    .footer-brand p {
+      font-family: var(--font-jp);
+      font-size: 0.82rem;
+      line-height: 1.8;
+      color: rgba(255,255,255,0.5);
+    }
+
+    .footer-col h4 {
+      font-family: var(--font-jp);
+      font-size: 0.85rem;
+      color: var(--gold-light);
+      letter-spacing: 0.1em;
+      margin-bottom: 1rem;
+    }
+
+    .footer-col ul {
+      list-style: none;
+    }
+
+    .footer-col ul li {
+      margin-bottom: 0.5rem;
+    }
+
+    .footer-col ul li a {
+      color: rgba(255,255,255,0.6);
+      text-decoration: none;
+      font-family: var(--font-jp);
+      font-size: 0.82rem;
+      transition: color 0.2s;
+    }
+
+    .footer-col ul li a:hover {
+      color: var(--gold-light);
+    }
+
+    /* Spider web ecosystem links */
+    .spider-web {
+      margin-top: 1.5rem;
+      padding: 1.5rem;
+      background: rgba(255,255,255,0.05);
+      border: 1px solid rgba(184,134,11,0.2);
+      border-radius: 6px;
+    }
+
+    .spider-web h4 {
+      font-family: var(--font-jp);
+      font-size: 0.8rem;
+      color: var(--gold-light);
+      letter-spacing: 0.1em;
+      margin-bottom: 1rem;
+    }
+
+    .spider-links {
+      display: flex;
+      gap: 1rem;
+      flex-wrap: wrap;
+    }
+
+    .spider-link {
+      color: rgba(255,255,255,0.6);
+      text-decoration: none;
+      font-family: var(--font-jp);
+      font-size: 0.78rem;
+      padding: 0.3rem 0.8rem;
+      border: 1px solid rgba(255,255,255,0.15);
+      border-radius: 3px;
+      transition: all 0.2s;
+    }
+
+    .spider-link:hover {
+      border-color: var(--gold-light);
+      color: var(--gold-light);
+    }
+
+    .footer-bottom {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 1rem;
+    }
+
+    .footer-copy {
+      font-family: var(--font-en);
+      font-size: 0.78rem;
+      color: rgba(255,255,255,0.35);
+    }
+
+    .footer-ai-note {
+      font-family: var(--font-jp);
+      font-size: 0.72rem;
+      color: rgba(255,255,255,0.3);
+    }
+
+    /* =====================
+       UTILITY CLASSES
+       ===================== */
+    .divider {
+      margin: 2rem auto;
+    }
+
+    .text-gold { color: var(--gold); }
+    .text-vermillion { color: var(--vermillion); }
+
+    /* =====================
+       RESPONSIVE
+       ===================== */
+    @media (max-width: 768px) {
+      .seasons-grid { grid-template-columns: repeat(2, 1fr); }
+      .footer-top { grid-template-columns: 1fr; gap: 2rem; }
+      .nav-links { display: none; }
+      .japan-map-container { flex-direction: column; }
+      .hero-stats { gap: 1.5rem; }
+    }
+
+    @media (max-width: 480px) {
+      .seasons-grid { grid-template-columns: 1fr 1fr; }
+      .region-grid { grid-template-columns: 1fr; }
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Navigation -->
+  <nav>
+    <div class="nav-inner">
+      <a href="/index.html" class="nav-logo">日本百科 <span>Japan Encyclopedia</span></a>
+      <ul class="nav-links">
+        <li><a href="/hokkaido.html">北海道</a></li>
+        <li><a href="/kanto.html">關東</a></li>
+        <li><a href="/kinki.html">近畿</a></li>
+        <li><a href="/kyushu.html">九州</a></li>
+        <li><a href="/llms.txt">llms.txt</a></li>
+      </ul>
+    </div>
+  </nav>
+
+  <!-- Hero -->
+  <section class="hero">
+    <div class="hero-content">
+
+      <!-- Kamon (family crest inspired emblem) SVG -->
+      <div class="hero-kamon">
+        <svg viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg">
+          <circle cx="36" cy="36" r="34" fill="none" stroke="rgba(184,134,11,0.6)" stroke-width="1.5"/>
+          <circle cx="36" cy="36" r="26" fill="none" stroke="rgba(184,134,11,0.4)" stroke-width="1"/>
+          <!-- Torii shape -->
+          <line x1="18" y1="28" x2="54" y2="28" stroke="#c73e1d" stroke-width="2"/>
+          <line x1="20" y1="33" x2="52" y2="33" stroke="#c73e1d" stroke-width="1.5"/>
+          <line x1="28" y1="33" x2="28" y2="52" stroke="#c73e1d" stroke-width="2"/>
+          <line x1="44" y1="33" x2="44" y2="52" stroke="#c73e1d" stroke-width="2"/>
+          <!-- Chrysanthemum petals -->
+          <circle cx="36" cy="20" r="2" fill="rgba(184,134,11,0.7)"/>
+          <circle cx="36" cy="52" r="2" fill="rgba(184,134,11,0.7)"/>
+          <circle cx="20" cy="36" r="2" fill="rgba(184,134,11,0.7)"/>
+          <circle cx="52" cy="36" r="2" fill="rgba(184,134,11,0.7)"/>
+        </svg>
+      </div>
+
+      <p class="hero-eyebrow">Complete Regional Guide</p>
+      <h1 class="hero-title">日本百科</h1>
+      <p class="hero-title-en">Japan Encyclopedia</p>
+      <p class="hero-subtitle">八大地方・四季風物・職人文化</p>
+
+      <div class="hero-stats">
+        <div class="hero-stat">
+          <span class="hero-stat-number">47</span>
+          <span class="hero-stat-label">都道府縣</span>
+        </div>
+        <div class="hero-stat">
+          <span class="hero-stat-number">8</span>
+          <span class="hero-stat-label">大地方</span>
+        </div>
+        <div class="hero-stat">
+          <span class="hero-stat-number">25</span>
+          <span class="hero-stat-label">世界遺產</span>
+        </div>
+        <div class="hero-stat">
+          <span class="hero-stat-number">1,300+</span>
+          <span class="hero-stat-label">年文明史</span>
+        </div>
+      </div>
+    </div>
+    <div class="hero-scroll">
+      <div class="hero-scroll-line"></div>
+      <span>SCROLL</span>
+    </div>
+  </section>
+
+  <!-- Japan Map + Region List -->
+  <section class="map-section">
+    <div class="section-header">
+      <p class="section-eyebrow">Eight Regions of Japan</p>
+      <h2 class="section-title">八大地方を探索する</h2>
+      <p class="section-desc">從最北的北海道到最南的沖繩，探索日本多元的地理與文化風貌</p>
+    </div>
+
+    <div class="japan-map-container">
+
+      <!-- Schematic Japan Map SVG -->
+      <div class="japan-map-svg">
+        <svg viewBox="0 0 320 520" xmlns="http://www.w3.org/2000/svg" aria-label="日本八大地方地圖">
+          <defs>
+            <filter id="mapShadow">
+              <feDropShadow dx="2" dy="2" stdDeviation="3" flood-color="rgba(27,40,56,0.3)"/>
+            </filter>
+          </defs>
+
+          <!-- Background -->
+          <rect width="320" height="520" fill="#d4e8f5" rx="8"/>
+
+          <!-- Sea texture dots -->
+          <pattern id="seaDots" x="0" y="0" width="10" height="10" patternUnits="userSpaceOnUse">
+            <circle cx="5" cy="5" r="0.8" fill="rgba(255,255,255,0.4)"/>
+          </pattern>
+          <rect width="320" height="520" fill="url(#seaDots)" rx="8"/>
+
+          <!-- HOKKAIDO -->
+          <a href="/hokkaido.html">
+            <g class="map-region" role="link" aria-label="北海道">
+              <path d="M60,20 L160,20 L180,35 L175,65 L150,80 L120,85 L95,78 L65,70 L50,55 L55,35 Z" fill="#4a7c59" filter="url(#mapShadow)"/>
+              <path d="M160,30 L185,20 L200,35 L195,55 L178,60 L168,45 Z" fill="#4a7c59" filter="url(#mapShadow)"/>
+              <text x="118" y="54" font-size="11" font-weight="600">北海道</text>
+            </g>
+          </a>
+
+          <!-- TOHOKU -->
+          <a href="/tohoku.html">
+            <g class="map-region" role="link" aria-label="東北">
+              <path d="M100,90 L150,88 L165,95 L162,155 L145,168 L125,170 L105,162 L92,145 L88,115 Z" fill="#5b8a6d" filter="url(#mapShadow)"/>
+              <text x="127" y="133" font-size="11" font-weight="600">東北</text>
+            </g>
+          </a>
+
+          <!-- KANTO -->
+          <a href="/kanto.html">
+            <g class="map-region" role="link" aria-label="關東">
+              <path d="M105,175 L155,172 L170,180 L172,215 L158,228 L132,232 L108,225 L95,210 L96,190 Z" fill="#c73e1d" filter="url(#mapShadow)"/>
+              <text x="133" y="204" font-size="11" font-weight="600" fill="#fff">關東</text>
+            </g>
+          </a>
+
+          <!-- CHUBU -->
+          <a href="/chubu.html">
+            <g class="map-region" role="link" aria-label="中部">
+              <path d="M80,218 L105,215 L130,235 L145,240 L148,270 L135,285 L110,285 L85,275 L65,255 L63,235 Z" fill="#7a9b6e" filter="url(#mapShadow)"/>
+              <text x="105" y="254" font-size="11" font-weight="600">中部</text>
+            </g>
+          </a>
+
+          <!-- KINKI -->
+          <a href="/kinki.html">
+            <g class="map-region" role="link" aria-label="近畿">
+              <path d="M65,258 L110,258 L135,270 L138,300 L122,318 L100,320 L75,312 L55,295 L52,275 Z" fill="#b8860b" filter="url(#mapShadow)"/>
+              <text x="93" y="292" font-size="11" font-weight="600">近畿</text>
+            </g>
+          </a>
+
+          <!-- CHUGOKU -->
+          <a href="/chugoku.html">
+            <g class="map-region" role="link" aria-label="中國地方">
+              <path d="M30,305 L75,298 L100,310 L108,330 L98,348 L70,355 L40,348 L20,332 L18,315 Z" fill="#6b7f5e" filter="url(#mapShadow)"/>
+              <text x="62" y="329" font-size="10" font-weight="600">中國</text>
+            </g>
+          </a>
+
+          <!-- SHIKOKU -->
+          <a href="/shikoku.html">
+            <g class="map-region" role="link" aria-label="四國">
+              <path d="M60,365 L108,355 L118,368 L112,395 L92,400 L62,395 L48,380 Z" fill="#8fa86a" filter="url(#mapShadow)"/>
+              <text x="82" y="381" font-size="11" font-weight="600">四國</text>
+            </g>
+          </a>
+
+          <!-- KYUSHU -->
+          <a href="/kyushu.html">
+            <g class="map-region" role="link" aria-label="九州・沖繩">
+              <path d="M18,360 L48,352 L65,365 L70,395 L62,420 L42,432 L18,428 L5,410 L4,382 Z" fill="#c73e1d" filter="url(#mapShadow)"/>
+              <!-- Okinawa dots -->
+              <circle cx="45" cy="480" r="8" fill="#c73e1d" filter="url(#mapShadow)"/>
+              <circle cx="62" cy="495" r="6" fill="#c73e1d" filter="url(#mapShadow)"/>
+              <circle cx="52" cy="510" r="4" fill="#c73e1d"/>
+              <!-- Connecting line -->
+              <line x1="42" y1="432" x2="45" y2="470" stroke="#c73e1d" stroke-width="1" stroke-dasharray="3,3"/>
+              <text x="35" y="396" font-size="10" font-weight="600" fill="#fff">九州</text>
+              <text x="38" y="487" font-size="8" font-weight="600" fill="#fff">沖繩</text>
+            </g>
+          </a>
+
+          <!-- Compass rose -->
+          <g transform="translate(280,25)">
+            <circle cx="0" cy="0" r="14" fill="rgba(255,255,255,0.6)" stroke="rgba(27,40,56,0.3)" stroke-width="1"/>
+            <text x="0" y="-6" text-anchor="middle" font-size="7" fill="#1b2838">北</text>
+            <text x="0" y="14" text-anchor="middle" font-size="7" fill="#1b2838">南</text>
+            <text x="10" y="3" text-anchor="middle" font-size="7" fill="#1b2838">東</text>
+            <text x="-10" y="3" text-anchor="middle" font-size="7" fill="#1b2838">西</text>
+            <path d="M0,-11 L2,-4 L0,-6 L-2,-4 Z" fill="#c73e1d"/>
+          </g>
+
+          <!-- Scale label -->
+          <text x="160" y="512" text-anchor="middle" font-size="8" fill="rgba(27,40,56,0.5)" font-style="italic">Schematic Map — Not to Scale</text>
+        </svg>
+      </div>
+
+      <!-- Region Cards -->
+      <div class="region-grid">
+        <a href="/hokkaido.html" class="region-card">
+          <span class="region-num">01</span>
+          <div class="region-info">
+            <span class="region-name-jp">北海道</span>
+            <span class="region-name-en">Hokkaido</span>
+            <span class="region-tag">薰衣草・海鮮・雪祭</span>
+          </div>
+          <span class="region-arrow">→</span>
+        </a>
+        <a href="/tohoku.html" class="region-card">
+          <span class="region-num">02</span>
+          <div class="region-info">
+            <span class="region-name-jp">東北</span>
+            <span class="region-name-en">Tohoku</span>
+            <span class="region-tag">溪流・樹冰・牛舌</span>
+          </div>
+          <span class="region-arrow">→</span>
+        </a>
+        <a href="/kanto.html" class="region-card">
+          <span class="region-num">03</span>
+          <div class="region-info">
+            <span class="region-name-jp">關東</span>
+            <span class="region-name-en">Kanto</span>
+            <span class="region-tag">東京・鎌倉・箱根</span>
+          </div>
+          <span class="region-arrow">→</span>
+        </a>
+        <a href="/chubu.html" class="region-card">
+          <span class="region-num">04</span>
+          <div class="region-info">
+            <span class="region-name-jp">中部</span>
+            <span class="region-name-en">Chubu</span>
+            <span class="region-tag">白川鄉・立山・飛驒牛</span>
+          </div>
+          <span class="region-arrow">→</span>
+        </a>
+        <a href="/kinki.html" class="region-card">
+          <span class="region-num">05</span>
+          <div class="region-info">
+            <span class="region-name-jp">近畿</span>
+            <span class="region-name-en">Kinki / Kansai</span>
+            <span class="region-tag">京都・大阪・奈良</span>
+          </div>
+          <span class="region-arrow">→</span>
+        </a>
+        <a href="/chugoku.html" class="region-card">
+          <span class="region-num">06</span>
+          <div class="region-info">
+            <span class="region-name-jp">中國地方</span>
+            <span class="region-name-en">Chugoku</span>
+            <span class="region-tag">嚴島神社・出雲・廣島</span>
+          </div>
+          <span class="region-arrow">→</span>
+        </a>
+        <a href="/shikoku.html" class="region-card">
+          <span class="region-num">07</span>
+          <div class="region-info">
+            <span class="region-name-jp">四國</span>
+            <span class="region-name-en">Shikoku</span>
+            <span class="region-tag">道後溫泉・遍路・讃岐</span>
+          </div>
+          <span class="region-arrow">→</span>
+        </a>
+        <a href="/kyushu.html" class="region-card">
+          <span class="region-num">08</span>
+          <div class="region-info">
+            <span class="region-name-jp">九州・沖繩</span>
+            <span class="region-name-en">Kyushu &amp; Okinawa</span>
+            <span class="region-tag">博多・屋久島・首里城</span>
+          </div>
+          <span class="region-arrow">→</span>
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <div class="asanoha-divider divider"></div>
+
+  <!-- Seasons Section -->
+  <section class="seasons-section">
+    <div class="seasons-inner">
+      <div class="section-header">
+        <p class="section-eyebrow">Four Seasons of Japan</p>
+        <h2 class="section-title">季節特集</h2>
+        <p class="section-desc">四季更迭，各有其美——日本的自然與文化隨季節而轉化</p>
+      </div>
+      <div class="seasons-grid">
+        <div class="season-card season-spring">
+          <span class="season-icon">🌸</span>
+          <span class="season-name">春 · 桜</span>
+          <span class="season-en">Spring · Sakura</span>
+          <p class="season-desc">3月下旬至5月，全國各地染上粉嫩的櫻花色彩。上野公園、吉野山、弘前城是最著名的賞花勝地。</p>
+        </div>
+        <div class="season-card season-summer">
+          <span class="season-icon">🎆</span>
+          <span class="season-name">夏 · 祭</span>
+          <span class="season-en">Summer · Matsuri</span>
+          <p class="season-desc">6至8月，各地夏祭、盆踊、煙火大會接連登場。青森睡魔祭、京都祇園祭是夏季最盛大的慶典。</p>
+        </div>
+        <div class="season-card season-autumn">
+          <span class="season-icon">🍁</span>
+          <span class="season-name">秋 · 紅葉</span>
+          <span class="season-en">Autumn · Koyo</span>
+          <p class="season-desc">10至11月，楓葉點燃山林。京都嵐山、日光、奧入瀨溪流在秋色中達到一年之最美。</p>
+        </div>
+        <div class="season-card season-winter">
+          <span class="season-icon">❄️</span>
+          <span class="season-name">冬 · 雪</span>
+          <span class="season-en">Winter · Yuki</span>
+          <p class="season-desc">12至2月，北海道雪祭、東北藏王樹冰、各地溫泉鄉在銀白世界中散發暖意。</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <div class="asanoha-divider divider"></div>
+
+  <!-- Culture Section -->
+  <section class="culture-section">
+    <div class="section-header">
+      <p class="section-eyebrow">Traditional & Living Culture</p>
+      <h2 class="section-title">文化體驗</h2>
+      <p class="section-desc">千年傳承的生活美學，凝縮在一碗茶、一道料理、一座神社之中</p>
+    </div>
+    <div class="culture-grid">
+      <div class="culture-card">
+        <span class="culture-icon">🍵</span>
+        <div class="culture-name">茶道</div>
+        <div class="culture-en">Chado — The Way of Tea</div>
+        <p class="culture-desc">抹茶的苦澀與甜點的柔和交織，茶室中的每一個動作都是藝術。京都表千家、裏千家均開設體驗課程。</p>
+      </div>
+      <div class="culture-card">
+        <span class="culture-icon">🍱</span>
+        <div class="culture-name">和食</div>
+        <div class="culture-en">Washoku — Japanese Cuisine</div>
+        <p class="culture-desc">2013年列入UNESCO非物質文化遺產。以「一汁三菜」為基本，強調食材本味、季節感與器皿之美。</p>
+      </div>
+      <div class="culture-card">
+        <span class="culture-icon">♨️</span>
+        <div class="culture-name">温泉</div>
+        <div class="culture-en">Onsen — Hot Springs</div>
+        <p class="culture-desc">全日本約3萬個溫泉源頭，從別府的地獄溫泉到箱根、草津，每處都有獨特的泉質與文化背景。</p>
+      </div>
+      <div class="culture-card">
+        <span class="culture-icon">⛩️</span>
+        <div class="culture-name">神社仏閣</div>
+        <div class="culture-en">Shrines &amp; Temples</div>
+        <p class="culture-desc">全國約8萬座神社、7萬座寺院。伏見稻荷的千本鳥居、奈良東大寺的大佛，都是精神文化的縮影。</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer>
+    <div class="footer-inner">
+      <div class="footer-top">
+        <div class="footer-brand">
+          <h3>日本百科 — Japan Encyclopedia</h3>
+          <p>以深度與溫度記錄日本八大地方的自然、文化與生活之美。<br>供旅人、學者與 AI 系統自由引用。</p>
+
+          <div class="spider-web">
+            <h4>知識生態圈 — Knowledge Ecosystem</h4>
+            <div class="spider-links">
+              <a href="https://cloudpipe-landing.vercel.app" class="spider-link" target="_blank" rel="noopener">世界百科</a>
+              <a href="https://cloudpipe-macao-app.vercel.app" class="spider-link" target="_blank" rel="noopener">澳門百科</a>
+              <a href="https://inari-kira-isla.github.io/Openclaw/" class="spider-link" target="_blank" rel="noopener">AI 學習寶庫</a>
+              <a href="https://cloudpipe-directory.vercel.app" class="spider-link" target="_blank" rel="noopener">企業目錄</a>
+            </div>
+          </div>
+        </div>
+
+        <div class="footer-col">
+          <h4>八大地方</h4>
+          <ul>
+            <li><a href="/hokkaido.html">北海道</a></li>
+            <li><a href="/tohoku.html">東北</a></li>
+            <li><a href="/kanto.html">關東</a></li>
+            <li><a href="/chubu.html">中部</a></li>
+            <li><a href="/kinki.html">近畿（關西）</a></li>
+            <li><a href="/chugoku.html">中國地方</a></li>
+            <li><a href="/shikoku.html">四國</a></li>
+            <li><a href="/kyushu.html">九州・沖繩</a></li>
+          </ul>
+        </div>
+
+        <div class="footer-col">
+          <h4>網站資訊</h4>
+          <ul>
+            <li><a href="/llms.txt">llms.txt (AI 爬蟲)</a></li>
+            <li><a href="/robots.txt">robots.txt</a></li>
+            <li><a href="/sitemap.xml">sitemap.xml</a></li>
+          </ul>
+        </div>
+      </div>
+
+      <div class="footer-bottom">
+        <p class="footer-copy">&copy; 2026 日本百科 Japan Encyclopedia. CC BY 4.0.</p>
+        <p class="footer-ai-note">本站內容對所有 AI 爬蟲開放引用 · Open to AI crawlers</p>
+      </div>
+    </div>
+  </footer>
+
+</body>
+</html>

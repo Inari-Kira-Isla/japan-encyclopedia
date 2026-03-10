@@ -1,0 +1,566 @@
+/* =====================
+   JAPAN ENCYCLOPEDIA — Regional Page Shared Styles
+   ===================== */
+
+:root {
+  --bg: #faf8f5;
+  --bg-card: #f5f1eb;
+  --indigo: #1b2838;
+  --indigo-light: #2d3f55;
+  --vermillion: #c73e1d;
+  --vermillion-light: #e05530;
+  --sage: #6b7f5e;
+  --sage-light: #8a9e7d;
+  --gold: #b8860b;
+  --gold-light: #d4a017;
+  --text: #2c2c2c;
+  --text-light: #5a5a5a;
+  --border: #d8cfc4;
+  --font-jp: 'Noto Serif JP', serif;
+  --font-en: 'Cormorant Garamond', serif;
+  --font-body: 'Source Sans 3', sans-serif;
+}
+
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+html { scroll-behavior: smooth; }
+body {
+  font-family: var(--font-body);
+  background-color: var(--bg);
+  color: var(--text);
+  line-height: 1.7;
+  overflow-x: hidden;
+}
+
+/* =====================
+   NAVIGATION
+   ===================== */
+nav {
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  background: rgba(27, 40, 56, 0.96);
+  backdrop-filter: blur(8px);
+  border-bottom: 1px solid rgba(184, 134, 11, 0.3);
+  padding: 0 2rem;
+}
+
+.nav-inner {
+  max-width: 1100px;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 56px;
+}
+
+.nav-logo {
+  font-family: var(--font-jp);
+  font-size: 1rem;
+  font-weight: 600;
+  color: #fff;
+  text-decoration: none;
+  letter-spacing: 0.05em;
+}
+.nav-logo span { color: var(--gold-light); }
+
+.nav-links {
+  display: flex;
+  gap: 1.5rem;
+  list-style: none;
+}
+.nav-links a {
+  color: rgba(255,255,255,0.75);
+  text-decoration: none;
+  font-size: 0.82rem;
+  font-family: var(--font-jp);
+  letter-spacing: 0.05em;
+  transition: color 0.2s;
+}
+.nav-links a:hover,
+.nav-links a.active { color: var(--gold-light); }
+
+/* =====================
+   HERO (region-specific bg via inline style)
+   ===================== */
+.hero-region {
+  position: relative;
+  min-height: 48vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+}
+
+.hero-region::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background-image:
+    radial-gradient(circle at 50% 0%, transparent 38%, rgba(255,255,255,0.03) 38%, rgba(255,255,255,0.03) 48%, transparent 48%),
+    radial-gradient(circle at 0% 50%, transparent 38%, rgba(255,255,255,0.03) 38%, rgba(255,255,255,0.03) 48%, transparent 48%),
+    radial-gradient(circle at 100% 50%, transparent 38%, rgba(255,255,255,0.03) 38%, rgba(255,255,255,0.03) 48%, transparent 48%);
+  background-size: 36px 36px;
+  pointer-events: none;
+}
+
+.hero-content {
+  position: relative;
+  z-index: 2;
+  text-align: center;
+  padding: 4rem 2rem 3rem;
+  max-width: 700px;
+}
+
+.hero-eyebrow {
+  font-family: var(--font-en);
+  font-size: 0.8rem;
+  letter-spacing: 0.35em;
+  color: rgba(255,255,255,0.55);
+  text-transform: uppercase;
+  margin-bottom: 0.8rem;
+}
+
+.hero-title {
+  font-family: var(--font-jp);
+  font-size: clamp(2.8rem, 7vw, 5rem);
+  font-weight: 300;
+  color: #fff;
+  line-height: 1.1;
+  margin-bottom: 0.3rem;
+  letter-spacing: 0.1em;
+}
+
+.hero-title-en {
+  font-family: var(--font-en);
+  font-size: clamp(1.1rem, 2.5vw, 1.6rem);
+  font-weight: 300;
+  font-style: italic;
+  color: rgba(255,255,255,0.65);
+  margin-bottom: 1rem;
+}
+
+.hero-subtitle {
+  font-family: var(--font-jp);
+  font-size: 0.9rem;
+  color: rgba(255,255,255,0.55);
+  letter-spacing: 0.1em;
+  margin-bottom: 1.5rem;
+}
+
+.hero-tags {
+  display: flex;
+  gap: 0.5rem;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.tag {
+  font-family: var(--font-jp);
+  font-size: 0.72rem;
+  padding: 0.25rem 0.7rem;
+  border-radius: 3px;
+  border: 1px solid;
+  letter-spacing: 0.05em;
+}
+
+/* =====================
+   MAIN CONTENT
+   ===================== */
+.main-content {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 0 2rem;
+}
+
+.content-section {
+  padding: 3.5rem 0;
+}
+
+.section-label {
+  font-family: var(--font-en);
+  font-size: 0.75rem;
+  letter-spacing: 0.3em;
+  color: var(--vermillion);
+  text-transform: uppercase;
+  margin-bottom: 0.4rem;
+}
+
+.section-heading {
+  font-family: var(--font-jp);
+  font-size: clamp(1.3rem, 2.5vw, 1.8rem);
+  font-weight: 600;
+  color: var(--indigo);
+  margin-bottom: 2rem;
+  padding-bottom: 0.8rem;
+  border-bottom: 1px solid var(--border);
+}
+
+.section-divider {
+  height: 1px;
+  background: linear-gradient(90deg, transparent, var(--border), transparent);
+  margin: 0 2rem;
+}
+
+/* =====================
+   OVERVIEW SECTION
+   ===================== */
+.overview-grid {
+  display: grid;
+  grid-template-columns: 1fr 280px;
+  gap: 2.5rem;
+  align-items: start;
+}
+
+.overview-text p {
+  font-family: var(--font-jp);
+  font-size: 0.92rem;
+  color: var(--text);
+  margin-bottom: 1rem;
+  line-height: 1.9;
+}
+
+.overview-stats {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1rem;
+}
+
+.stat-item {
+  background: #fff;
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  padding: 1rem;
+  text-align: center;
+}
+
+.stat-num {
+  display: block;
+  font-family: var(--font-en);
+  font-size: 1.4rem;
+  font-weight: 600;
+  color: var(--indigo);
+  margin-bottom: 0.2rem;
+}
+
+.stat-label {
+  font-family: var(--font-jp);
+  font-size: 0.72rem;
+  color: var(--text-light);
+}
+
+/* =====================
+   CITIES GRID
+   ===================== */
+.cities-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  gap: 1.2rem;
+}
+
+.city-card {
+  background: #fff;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 1.5rem;
+  position: relative;
+  transition: all 0.25s ease;
+}
+
+.city-card:hover {
+  box-shadow: 0 4px 20px rgba(27,40,56,0.1);
+  transform: translateY(-2px);
+}
+
+.city-card.city-primary {
+  border-color: var(--gold);
+  background: linear-gradient(135deg, #fff 0%, #fdf8ee 100%);
+}
+
+.city-num {
+  font-family: var(--font-en);
+  font-size: 0.75rem;
+  color: var(--border);
+  letter-spacing: 0.1em;
+  margin-bottom: 0.5rem;
+}
+
+.city-name {
+  font-family: var(--font-jp);
+  font-size: 1.05rem;
+  font-weight: 600;
+  color: var(--indigo);
+  margin-bottom: 0.7rem;
+}
+
+.city-name span {
+  font-family: var(--font-en);
+  font-size: 0.85rem;
+  font-style: italic;
+  color: var(--text-light);
+  font-weight: 400;
+  margin-left: 0.5rem;
+}
+
+.city-desc {
+  font-family: var(--font-jp);
+  font-size: 0.83rem;
+  color: var(--text-light);
+  line-height: 1.8;
+}
+
+/* =====================
+   ATTRACTIONS GRID
+   ===================== */
+.attractions-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 1.2rem;
+}
+
+.attraction-card {
+  background: #fff;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 1.5rem;
+  transition: all 0.25s ease;
+  position: relative;
+  overflow: hidden;
+}
+
+.attraction-card::before {
+  content: '';
+  position: absolute;
+  top: 0; left: 0; right: 0;
+  height: 3px;
+  background: linear-gradient(90deg, var(--vermillion), var(--gold));
+  transform: scaleX(0);
+  transition: transform 0.25s;
+}
+
+.attraction-card:hover { box-shadow: 0 6px 24px rgba(27,40,56,0.1); }
+.attraction-card:hover::before { transform: scaleX(1); }
+
+.attraction-icon {
+  font-size: 1.8rem;
+  margin-bottom: 0.8rem;
+  display: block;
+}
+
+.attraction-card h3 {
+  font-family: var(--font-jp);
+  font-size: 1rem;
+  font-weight: 600;
+  color: var(--indigo);
+  margin-bottom: 0.3rem;
+}
+
+.attraction-loc {
+  font-family: var(--font-jp);
+  font-size: 0.72rem;
+  color: var(--vermillion);
+  margin-bottom: 0.6rem;
+}
+
+.attraction-card p {
+  font-family: var(--font-jp);
+  font-size: 0.82rem;
+  color: var(--text-light);
+  line-height: 1.8;
+}
+
+/* =====================
+   FOOD GRID
+   ===================== */
+.food-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+  gap: 1rem;
+}
+
+.food-item {
+  background: #fff;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 1.5rem 1.2rem;
+  text-align: center;
+  transition: all 0.25s ease;
+}
+
+.food-item:hover {
+  border-color: var(--gold);
+  box-shadow: 0 4px 16px rgba(184,134,11,0.1);
+}
+
+.food-emoji {
+  font-size: 2.2rem;
+  display: block;
+  margin-bottom: 0.7rem;
+}
+
+.food-item h3 {
+  font-family: var(--font-jp);
+  font-size: 0.95rem;
+  font-weight: 600;
+  color: var(--indigo);
+  margin-bottom: 0.5rem;
+}
+
+.food-item p {
+  font-family: var(--font-jp);
+  font-size: 0.78rem;
+  color: var(--text-light);
+  line-height: 1.7;
+}
+
+/* =====================
+   SEASONAL TIMELINE
+   ===================== */
+.seasonal-timeline {
+  display: flex;
+  flex-direction: column;
+  gap: 0;
+}
+
+.season-item {
+  display: flex;
+  gap: 1.5rem;
+  padding: 1.5rem 0;
+  border-bottom: 1px solid var(--border);
+  align-items: flex-start;
+}
+
+.season-item:last-child { border-bottom: none; }
+
+.season-dot {
+  width: 14px;
+  height: 14px;
+  border-radius: 50%;
+  flex-shrink: 0;
+  margin-top: 0.4rem;
+}
+
+.season-dot.spring { background: #f06292; }
+.season-dot.summer { background: #29b6f6; }
+.season-dot.autumn { background: #ff7043; }
+.season-dot.winter { background: #7986cb; }
+
+.season-content h3 {
+  font-family: var(--font-jp);
+  font-size: 0.95rem;
+  font-weight: 600;
+  color: var(--indigo);
+  margin-bottom: 0.4rem;
+}
+
+.season-content p {
+  font-family: var(--font-jp);
+  font-size: 0.85rem;
+  color: var(--text-light);
+  line-height: 1.8;
+}
+
+/* =====================
+   REGION NAVIGATION
+   ===================== */
+.region-nav {
+  background: var(--indigo);
+  padding: 1.5rem 2rem;
+  margin-top: 4rem;
+}
+
+.region-nav-inner {
+  max-width: 1000px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.region-nav-prev,
+.region-nav-next,
+.region-nav-home {
+  font-family: var(--font-jp);
+  font-size: 0.9rem;
+  color: rgba(255,255,255,0.75);
+  text-decoration: none;
+  padding: 0.5rem 1.2rem;
+  border: 1px solid rgba(255,255,255,0.2);
+  border-radius: 4px;
+  transition: all 0.2s;
+}
+
+.region-nav-prev:hover,
+.region-nav-next:hover {
+  border-color: var(--gold-light);
+  color: var(--gold-light);
+}
+
+.region-nav-home {
+  background: rgba(184,134,11,0.15);
+  border-color: rgba(184,134,11,0.4);
+  color: var(--gold-light);
+}
+
+.region-nav-home:hover {
+  background: rgba(184,134,11,0.25);
+}
+
+.region-nav-prev.disabled {
+  opacity: 0.3;
+  cursor: default;
+}
+
+/* =====================
+   FOOTER
+   ===================== */
+footer {
+  background: var(--indigo);
+  padding: 2.5rem 2rem;
+  border-top: 1px solid rgba(184,134,11,0.3);
+}
+
+.footer-inner {
+  max-width: 1000px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.footer-links {
+  display: flex;
+  gap: 1.5rem;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin-bottom: 1.2rem;
+}
+
+.footer-links a {
+  color: rgba(255,255,255,0.6);
+  text-decoration: none;
+  font-family: var(--font-jp);
+  font-size: 0.82rem;
+  transition: color 0.2s;
+}
+
+.footer-links a:hover { color: var(--gold-light); }
+
+.footer-copy {
+  font-family: var(--font-en);
+  font-size: 0.75rem;
+  color: rgba(255,255,255,0.3);
+}
+
+/* =====================
+   RESPONSIVE
+   ===================== */
+@media (max-width: 768px) {
+  .overview-grid { grid-template-columns: 1fr; }
+  .nav-links { display: none; }
+  .cities-grid { grid-template-columns: 1fr; }
+  .food-grid { grid-template-columns: repeat(2, 1fr); }
+  .region-nav-inner { gap: 0.5rem; flex-wrap: wrap; justify-content: center; }
+}
+
+@media (max-width: 480px) {
+  .food-grid { grid-template-columns: 1fr 1fr; }
+  .attractions-grid { grid-template-columns: 1fr; }
+}
