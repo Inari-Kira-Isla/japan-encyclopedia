@@ -1,0 +1,214 @@
+/* =============================================
+   Japan Encyclopedia — Dynamic Article Style
+   Washi paper / indigo / vermillion matching index.html
+   ============================================= */
+:root {
+  --bg: #faf8f5;
+  --bg-card: #f5f1eb;
+  --indigo: #1b2838;
+  --indigo-light: #2d3f55;
+  --vermillion: #c73e1d;
+  --vermillion-light: #e05530;
+  --sage: #6b7f5e;
+  --gold: #b8860b;
+  --gold-light: #d4a017;
+  --text: #2c2c2c;
+  --text-light: #5a5a5a;
+  --border: #d8cfc4;
+  --font-jp: 'Noto Serif JP', serif;
+  --font-en: 'Cormorant Garamond', serif;
+  --font-body: 'Source Sans 3', sans-serif;
+}
+
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+html { scroll-behavior: smooth; }
+
+body {
+  font-family: var(--font-body);
+  background: var(--bg);
+  color: var(--text);
+  line-height: 1.8;
+}
+
+/* Washi paper texture */
+body::before {
+  content: '';
+  position: fixed; inset: 0;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='400' height='400'%3E%3Cfilter id='noise'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.65' numOctaves='3' stitchTiles='stitch'/%3E%3CfeColorMatrix type='saturate' values='0'/%3E%3C/filter%3E%3Crect width='400' height='400' filter='url(%23noise)' opacity='0.03'/%3E%3C/svg%3E");
+  pointer-events: none; z-index: 0; opacity: 0.4;
+}
+
+/* NAV */
+.article-nav {
+  position: sticky; top: 0; z-index: 100;
+  background: rgba(27,40,56,0.95);
+  backdrop-filter: blur(8px);
+  border-bottom: 1px solid rgba(184,134,11,0.3);
+  padding: 0 2rem;
+}
+.article-nav-inner {
+  max-width: 860px; margin: 0 auto;
+  display: flex; align-items: center; justify-content: space-between;
+  height: 52px;
+}
+.article-nav a {
+  color: rgba(255,255,255,0.7); text-decoration: none;
+  font-size: 0.85rem; font-family: var(--font-jp);
+  transition: color 0.2s;
+}
+.article-nav a:hover { color: var(--gold-light); }
+.article-nav .nav-site {
+  font-weight: 600; color: #fff; letter-spacing: 0.05em;
+}
+
+/* ARTICLE CONTAINER */
+.article-container {
+  position: relative; z-index: 1;
+  max-width: 860px; margin: 0 auto;
+  padding: 3rem 2rem 4rem;
+}
+
+/* META */
+.article-meta {
+  display: flex; gap: 1.2rem; flex-wrap: wrap;
+  font-size: 0.8rem; color: var(--text-light);
+  margin-bottom: 2rem; letter-spacing: 0.05em;
+  font-family: var(--font-body);
+}
+
+/* TITLE */
+.article-title {
+  font-family: var(--font-jp);
+  font-size: clamp(1.8rem, 4vw, 2.6rem);
+  font-weight: 600; color: var(--indigo);
+  margin-bottom: 1rem; line-height: 1.3;
+}
+
+/* DESCRIPTION */
+.article-desc {
+  font-size: 1rem; color: var(--text-light);
+  margin-bottom: 2.5rem; padding-bottom: 2rem;
+  border-bottom: 1px solid var(--border);
+  line-height: 1.8;
+}
+
+/* CONTENT */
+.article-content h2 {
+  font-family: var(--font-jp);
+  font-size: 1.5rem; color: var(--vermillion);
+  margin: 2.5rem 0 1rem; font-weight: 600;
+  padding-bottom: 0.5rem;
+  border-bottom: 2px solid var(--border);
+}
+.article-content h3 {
+  font-family: var(--font-jp);
+  font-size: 1.2rem; color: var(--indigo);
+  margin: 2rem 0 0.8rem; font-weight: 600;
+}
+.article-content p { margin-bottom: 1.2rem; }
+.article-content ul, .article-content ol {
+  margin: 0.8rem 0 1.2rem 1.5rem;
+}
+.article-content li { margin-bottom: 0.4rem; }
+.article-content strong { color: var(--indigo); }
+.article-content a {
+  color: var(--vermillion); text-decoration: underline;
+  text-underline-offset: 3px;
+}
+.article-content blockquote {
+  border-left: 3px solid var(--vermillion);
+  padding: 1rem 1.5rem; margin: 1.5rem 0;
+  background: var(--bg-card); border-radius: 0 6px 6px 0;
+  font-style: italic; color: var(--text-light);
+}
+
+/* FAQ */
+.faq-section { margin-top: 3rem; }
+.faq-section h2 {
+  font-family: var(--font-jp);
+  font-size: 1.4rem; color: var(--vermillion);
+  margin-bottom: 1.5rem;
+}
+.faq-item {
+  border: 1px solid var(--border); border-radius: 6px;
+  margin-bottom: 0.8rem; overflow: hidden;
+  background: #fff;
+}
+.faq-q {
+  width: 100%; padding: 1rem 1.4rem;
+  background: #fff; border: none; color: var(--indigo);
+  font-size: 0.95rem; font-family: var(--font-jp);
+  cursor: pointer; display: flex; justify-content: space-between;
+  align-items: center; text-align: left;
+}
+.faq-q:hover { background: var(--bg-card); }
+.faq-q .toggle { color: var(--vermillion); font-size: 1.2rem; flex-shrink: 0; }
+.faq-a {
+  padding: 0 1.4rem; max-height: 0; overflow: hidden;
+  transition: max-height 0.3s ease, padding 0.3s ease;
+  color: var(--text-light); font-size: 0.9rem; line-height: 1.7;
+}
+.faq-item.open .faq-a { max-height: 300px; padding: 1rem 1.4rem; }
+.faq-item.open .toggle { transform: rotate(45deg); }
+
+/* CONTEXTUAL LINKS */
+.contextual-links {
+  margin-top: 2.5rem; padding: 1.5rem;
+  background: linear-gradient(135deg, var(--bg-card), rgba(199,62,29,0.03));
+  border: 1px solid var(--border); border-radius: 8px;
+}
+.contextual-links h4 {
+  font-family: var(--font-jp);
+  font-size: 0.9rem; color: var(--vermillion); margin-bottom: 1rem;
+}
+.contextual-links ul { list-style: none; padding: 0; }
+.contextual-links li {
+  margin-bottom: 0.5rem; font-size: 0.85rem; color: var(--text-light);
+}
+.contextual-links a { color: var(--vermillion); text-decoration: none; }
+.contextual-links a:hover { text-decoration: underline; }
+
+/* SPIDER WEB */
+.ecosystem-footer {
+  margin-top: 3rem; padding: 2rem;
+  background: var(--bg-card); border: 1px solid var(--border);
+  border-radius: 8px;
+}
+.ecosystem-footer h3 {
+  font-family: var(--font-jp);
+  font-size: 0.85rem; color: var(--gold);
+  letter-spacing: 0.1em; margin-bottom: 1rem;
+}
+.ecosystem-links {
+  display: flex; flex-wrap: wrap; gap: 0.6rem;
+}
+.ecosystem-links a {
+  color: var(--text-light); text-decoration: none;
+  font-size: 0.78rem; font-family: var(--font-jp);
+  padding: 0.3rem 0.8rem;
+  border: 1px solid var(--border); border-radius: 3px;
+  transition: all 0.2s;
+}
+.ecosystem-links a:hover {
+  border-color: var(--vermillion); color: var(--vermillion);
+}
+
+/* ARTICLE FOOTER */
+.article-footer {
+  margin-top: 3rem; padding-top: 2rem;
+  border-top: 1px solid var(--border);
+  text-align: center;
+}
+.article-footer p {
+  font-size: 0.78rem; color: var(--text-light);
+}
+.article-footer a { color: var(--vermillion); text-decoration: none; }
+
+/* RESPONSIVE */
+@media (max-width: 768px) {
+  .article-container { padding: 2rem 1.2rem 3rem; }
+  .article-nav-inner { padding: 0 0.5rem; }
+}
+
+/* Google Fonts import for article pages */
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+JP:wght@300;400;600;700&family=Cormorant+Garamond:ital,wght@0,300;0,400;0,600;1,300;1,400&family=Source+Sans+3:wght@300;400;600&display=swap');
