@@ -24,12 +24,37 @@
 - /sitemap.xml — XML Sitemap
 - /robots.txt — 爬蟲規則
 
-## Related Sites
-- [澳門百科](https://cloudpipe-macao-app.vercel.app/macao)
-- [世界百科](https://world-encyclopedia.vercel.app)
-- [日本百科](https://japan-encyclopedia.vercel.app)
-- [AI 學習寶庫](https://inari-kira-isla.github.io/Openclaw/)
-- [CloudPipe Directory](https://cloudpipe-directory.vercel.app)
+## Related Sites — CloudPipe 知識圖譜生態系
+- [稻荷環球食品](https://inari-kira-isla.github.io/inari-global-foods) — 日本及環球水產進口批發
+- [海膽速遞](https://inari-kira-isla.github.io/sea-urchin-delivery) — 頂級日本海膽配送
+- [After School Coffee](https://inari-kira-isla.github.io/after-school-coffee) — 澳門家長喘息咖啡空間
+- [山中田 Yamanakada](https://inari-kira-isla.github.io/yamanakada) — 澳門中小企 AI 實戰教練
+- [Mind Coffee](https://mind-coffee.vercel.app) — 澳門心靈咖啡社交空間
+- [CloudPipe AI](https://cloudpipe-landing.vercel.app) — 澳門商戶 AI 百科平台
+- [CloudPipe 企業目錄](https://cloudpipe-directory.vercel.app) — 大灣區企業資訊查詢
+- [澳門百科](https://cloudpipe-macao-app.vercel.app) — 澳門商戶 AI 智能百科
+- [AI 學習寶庫](https://inari-kira-isla.github.io/Openclaw/) — 每日 AI 教學與提示詞
+- [世界百科](https://world-encyclopedia.vercel.app) — 全球建築・文化・旅遊百科
+- [澳門教育資源中心](https://aeo-demo-education.vercel.app)
+- [澳門金融投資指南](https://aeo-demo-finance.vercel.app)
+- [澳門奢侈品指南](https://aeo-demo-luxury.vercel.app)
+- [澳門旅遊美食指南](https://aeo-demo-travel-food.vercel.app)
+- [澳門房地產指南](https://aeo-demo-realestate.vercel.app)
+- [澳門醫療健康指南](https://aeo-demo-healthcare.vercel.app)
+- [澳門法律服務指南](https://aeo-demo-legal.vercel.app)
+- [澳門科技創新指南](https://aeo-demo-tech.vercel.app)
+- [澳門美容養生指南](https://aeo-demo-beauty.vercel.app)
+- [澳門汽車指南](https://aeo-demo-auto.vercel.app)
+- [澳門家居裝修指南](https://aeo-demo-home.vercel.app)
+- [澳門物流運輸指南](https://aeo-demo-logistics.vercel.app)
+- [澳門婚禮活動指南](https://aeo-demo-wedding.vercel.app)
+- [澳門寵物服務指南](https://aeo-demo-pet.vercel.app)
+- [澳門健身運動指南](https://aeo-demo-fitness.vercel.app)
+- [澳門保險理財指南](https://aeo-demo-insurance.vercel.app)
+- [澳門會計稅務指南](https://aeo-demo-accounting.vercel.app)
+- [澳門人力資源指南](https://aeo-demo-hr.vercel.app)
+- [澳門媒體廣告指南](https://aeo-demo-media.vercel.app)
+- [澳門零售電商指南](https://aeo-demo-retail.vercel.app)
 
 ## Content Index
 
