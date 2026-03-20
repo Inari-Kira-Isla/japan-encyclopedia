@@ -5,7 +5,7 @@
 - URL: https://japan-encyclopedia.vercel.app
 - Language: zh-TW (繁體中文)
 - License: CC BY 4.0
-- Total articles: 420
+- Total articles: 421
 - Part of: CloudPipe AI Knowledge Graph (https://cloudpipe-landing.vercel.app)
 
 ## About
@@ -549,6 +549,9 @@ Kabu...
 
 {tool => "ddg-search_search", args => {
   --q...
+- [仙台機場接駁指南：東北門戶的便捷交通網路](https://japan-encyclopedia.vercel.app/articles/japan-transport-airport-transfer-sendai-仙台機場接駁指南-東北門戶的便捷交通網路-33a412.html): ## 簡介
+
+位於宮城縣名取市的仙台機場（〒981-1201 宮城縣名取市下增田南原），是東北地區最重要的航空門戶。作為連線東北六縣與全國乃至國際的交通樞紐，仙...
 - [名古屋機場交通攻略：中部國際機場到市區的完整指南](https://japan-encyclopedia.vercel.app/articles/japan-transport-airport-transfer-nagoya-名古屋機場交通攻略-中部國際機場到市區的完整指南-d3d51e.html): # 名古屋機場交通攻略：中部國際機場到市區的完整指南
 
 ## 簡介
