@@ -18,6 +18,7 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+JP:wght@300;400;500;700&family=Noto+Sans:wght@300;400;500;600&display=swap" rel="stylesheet" />
   <link rel="stylesheet" href="/article-style.css" />
+  <script src="https://cdn.jsdelivr.net/npm/fuse.js@7.0.0/dist/fuse.min.js" defer></script>
   <script type="application/ld+json">{
   "@context": "https://schema.org",
   "@type": "WebSite",
@@ -39,1013 +40,553 @@
     "url": "https://cloudpipe-landing.vercel.app"
   }
 }</script>
+  <style>
+    .search-bar { display:flex; gap:0.75rem; margin:1.5rem 0; flex-wrap:wrap; }
+    .search-bar input { flex:1; min-width:200px; padding:0.75rem 1rem; border:1px solid var(--border,rgba(212,165,116,0.15)); border-radius:8px; background:var(--bg-card,#141721); color:var(--cream,#f0ece2); font-size:1rem; outline:none; }
+    .search-bar input:focus { border-color:var(--gold,#d4a574); box-shadow:0 0 0 2px rgba(212,165,116,0.2); }
+    .search-bar select { padding:0.75rem; border:1px solid var(--border); border-radius:8px; background:var(--bg-card); color:var(--cream); font-size:0.9rem; }
+    .filter-bar { display:flex; gap:0.5rem; flex-wrap:wrap; margin-bottom:1.5rem; }
+    .filter-btn { padding:0.5rem 1rem; border:1px solid var(--border); border-radius:20px; background:transparent; color:var(--text-secondary,#9a9590); cursor:pointer; font-size:0.85rem; transition:all 0.2s; }
+    .filter-btn:hover,.filter-btn.active { background:var(--gold,#d4a574); color:var(--bg-deep,#0c0e14); border-color:var(--gold); }
+    .card-grid { display:grid; grid-template-columns:repeat(auto-fill, minmax(300px, 1fr)); gap:1.25rem; }
+    .card { background:var(--bg-card,#141721); border:1px solid var(--border); border-radius:12px; padding:1.25rem; transition:transform 0.2s, box-shadow 0.2s; cursor:pointer; text-decoration:none; display:block; }
+    .card:hover { transform:translateY(-3px); box-shadow:0 8px 25px rgba(0,0,0,0.3); border-color:var(--gold); }
+    .card-industry { display:inline-block; font-size:0.75rem; padding:0.2rem 0.6rem; border-radius:12px; background:rgba(212,165,116,0.15); color:var(--gold); margin-bottom:0.5rem; }
+    .card h3 { color:var(--cream,#f0ece2); font-size:1.05rem; line-height:1.5; margin:0 0 0.5rem; font-weight:500; }
+    .card-meta { color:var(--text-secondary); font-size:0.8rem; display:flex; gap:1rem; }
+    .card-tags { display:flex; gap:0.4rem; flex-wrap:wrap; margin-top:0.6rem; }
+    .card-tags span { font-size:0.7rem; padding:0.15rem 0.5rem; border-radius:8px; background:rgba(255,255,255,0.05); color:var(--text-secondary); }
+    .pagination { display:flex; justify-content:center; gap:0.5rem; margin:2rem 0; flex-wrap:wrap; }
+    .pagination button { padding:0.5rem 1rem; border:1px solid var(--border); border-radius:8px; background:transparent; color:var(--cream); cursor:pointer; }
+    .pagination button.active { background:var(--gold); color:var(--bg-deep); }
+    .pagination button:disabled { opacity:0.3; cursor:default; }
+    .results-info { color:var(--text-secondary); font-size:0.85rem; margin-bottom:1rem; }
+    @media(max-width:600px) { .card-grid { grid-template-columns:1fr; } .search-bar { flex-direction:column; } }
+  </style>
 </head>
 <body>
   <header class="site-header">
     <h1>日本百科</h1>
     <p class="subtitle">Japan Encyclopedia — 探索日本八大地方：美食、旅遊、娛樂、住宿、購物、交通完全指南</p>
-    <p class="stats">375 篇文章 | 608,186 字 | 6 個分類</p>
+    <p class="stats">386 篇文章 | 654,282 字 | 6 個分類</p>
   </header>
   <main class="index-main">
-    
-    <section class="industry-section">
-      <h2>住宿 (44 篇)</h2>
-      <ul class="article-list"><li><a href="articles/japan-accommodation-boutique-hotels-okinawa-okinawa-boutique-hotels-5bca8b.html">okinawa boutique-hotels</a> <span class="count">639字</span></li>
-<li><a href="articles/japan-accommodation-boutique-hotels-kyoto-京都精品酒店-古都魅力與現代奢華的完美融合-0f3d09.html">京都精品酒店：古都魅力與現代奢華的完美融合</a> <span class="count">1760字</span></li>
-<li><a href="articles/japan-accommodation-boutique-hotels-osaka-大阪精品酒店-關西都會中的質感住宿指南-9797b9.html">大阪精品酒店：關西都會中的質感住宿指南</a> <span class="count">1886字</span></li>
-<li><a href="articles/japan-accommodation-boutique-hotels-nara-奈良精品酒店-古都時光中的質感栖居-bd8329.html">奈良精品酒店：古都時光中的質感栖居</a> <span class="count">1702字</span></li>
-<li><a href="articles/japan-accommodation-boutique-hotels-hiroshima-廣島精品酒店推薦-體驗歷史與現代交織的質感住宿-a46d5f.html">廣島精品酒店推薦：體驗歷史與現代交織的質感住宿</a> <span class="count">1757字</span></li>
-<li><a href="articles/japan-accommodation-boutique-hotels-tokyo-東京精品酒店完整指南-設計與服務並重的住宿新體驗-24b6a9.html">東京精品酒店完整指南：設計與服務並重的住宿新體驗</a> <span class="count">1905字</span></li>
-<li><a href="articles/japan-accommodation-boutique-hotels-fukuoka-福岡精品酒店-九州門戶的質感住宿指南-5201f4.html">福岡精品酒店：九州門戶的質感住宿指南</a> <span class="count">2112字</span></li>
-<li><a href="articles/japan-accommodation-business-hotels-osaka-osaka-business-hotels-c6885c.html">osaka business-hotels</a> <span class="count">2534字</span></li>
-<li><a href="articles/japan-accommodation-business-hotels-kyoto-京都商務酒店完全指南-品質住宿的首選推薦-fbc8d0.html">京都商務酒店完全指南：品質住宿的首選推薦</a> <span class="count">2140字</span></li>
-<li><a href="articles/japan-accommodation-business-hotels-nagoya-名古屋商務酒店-中部商務與觀光的理想住宿選擇-a18f06.html">名古屋商務酒店：中部商務與觀光的理想住宿選擇</a> <span class="count">1596字</span></li>
-<li><a href="articles/japan-accommodation-business-hotels-nara-奈良商務酒店-古今交融的便捷住宿選擇-3c48dd.html">奈良商務酒店：古今交融的便捷住宿選擇</a> <span class="count">1500字</span></li>
-<li><a href="articles/japan-accommodation-business-hotels-hiroshima-廣島商務酒店完全指南-商旅人士的理想住宿選擇-7004af.html">廣島商務酒店完全指南：商旅人士的理想住宿選擇</a> <span class="count">1870字</span></li>
-<li><a href="articles/japan-accommodation-business-hotels-okinawa-沖繩商務酒店完整指南-出差與旅行的高cp值住宿選擇-a24e54.html">沖繩商務酒店完整指南：出差與旅行的高CP值住宿選擇</a> <span class="count">1538字</span></li>
-<li><a href="articles/japan-accommodation-business-hotels-kobe-神戶商務旅館-港都便利住宿的首選指南-e7cf19.html">神戶商務旅館：港都便利住宿的首選指南</a> <span class="count">1830字</span></li>
-<li><a href="articles/japan-accommodation-business-hotels-fukuoka-福岡商務飯店完整指南-博多-天神地區精選商務住宿推薦-79c9b8.html">福岡商務飯店完整指南：博多．天神地區精選商務住宿推薦</a> <span class="count">1639字</span></li>
-<li><a href="articles/japan-accommodation-business-hotels-kanazawa-金澤商務酒店-北陸質感住宿推薦指南-ac669b.html">金澤商務酒店：北陸質感住宿推薦指南</a> <span class="count">1327字</span></li>
-<li><a href="articles/japan-accommodation-capsule-hotels-sendai-仙台膠囊飯店完全指南-體驗東北小京都的便利住宿-2344d6.html">仙台膠囊飯店完全指南：體驗東北小京都的便利住宿</a> <span class="count">1932字</span></li>
-<li><a href="articles/japan-accommodation-capsule-hotels-hokkaido-北海道膠囊旅館全攻略-精選5間特色住宿推薦-d683c3.html">北海道膠囊旅館全攻略：精選5間特色住宿推薦</a> <span class="count">1959字</span></li>
-<li><a href="articles/japan-accommodation-capsule-hotels-osaka-大阪膠囊旅館全攻略-特色-推薦與實用資訊-6ec1e3.html">大阪膠囊旅館全攻略：特色、推薦與實用資訊</a> <span class="count">2021字</span></li>
-<li><a href="articles/japan-accommodation-capsule-hotels-okinawa-沖繩膠囊酒店完全指南-省預算遊沖繩的最佳住宿選擇-bb0138.html">沖繩膠囊酒店完全指南：省預算遊沖繩的最佳住宿選擇</a> <span class="count">1570字</span></li>
-<li><a href="articles/japan-accommodation-capsule-hotels-fukuoka-福岡膠囊飯店完全指南-體驗日式簡約住宿的極致選擇-9a0c9c.html">福岡膠囊飯店完全指南：體驗日式簡約住宿的極致選擇</a> <span class="count">1417字</span></li>
-<li><a href="articles/japan-accommodation-capsule-hotels-kanazawa-金澤膠囊飯店完全指南-體驗北陸特色住宿的明智之選-043751.html">金澤膠囊飯店完全指南：體驗北陸特色住宿的明智之選</a> <span class="count">1322字</span></li>
-<li><a href="articles/japan-accommodation-love-hotels-nagoya-nagoya-love-hotels-28ddee.html">nagoya love-hotels</a> <span class="count">420字</span></li>
-<li><a href="articles/japan-accommodation-love-hotels-nara-nara-love-hotels-764561.html">nara love-hotels</a> <span class="count">303字</span></li>
-<li><a href="articles/japan-accommodation-love-hotels-okinawa-okinawa-love-hotels-8b3b07.html">okinawa love-hotels</a> <span class="count">361字</span></li>
-<li><a href="articles/japan-accommodation-love-hotels-tokyo-tokyo-love-hotels-75e86f.html">tokyo love-hotels</a> <span class="count">303字</span></li>
-<li><a href="articles/japan-accommodation-love-hotels-hokkaido-北海道住宿指南-特色愛情旅馆與隱密住宿選擇-81ee0b.html">北海道住宿指南：特色愛情旅馆與隱密住宿選擇</a> <span class="count">1887字</span></li>
-<li><a href="articles/japan-accommodation-love-hotels-osaka-大阪-love-hotels-情侶住宿指南與推薦-4b6885.html">大阪 Love Hotels：情侶住宿指南與推薦</a> <span class="count">1564字</span></li>
-<li><a href="articles/japan-accommodation-love-hotels-kobe-神戶住宿新選擇-特色情侶飯店與休憩飯店指南-40b263.html">神戶住宿新選擇：特色情侶飯店與休憩飯店指南</a> <span class="count">1614字</span></li>
-<li><a href="articles/japan-accommodation-love-hotels-fukuoka-福岡-love-hotels-完全指南-特色-推薦與實用資訊-b39f5c.html">福岡 Love Hotels 完全指南：特色、推薦與實用資訊</a> <span class="count">2036字</span></li>
-<li><a href="articles/japan-accommodation-love-hotels-kanazawa-金澤-love-hotels-住宿指南-特色-推薦與實用資訊-e13130.html">金澤 Love Hotels 住宿指南：特色、推薦與實用資訊</a> <span class="count">2218字</span></li>
-<li><a href="articles/japan-accommodation-minshuku-okinawa-okinawa-minshuku-196f08.html">okinawa minshuku</a> <span class="count">2687字</span></li>
-<li><a href="articles/japan-accommodation-minshuku-kyoto-京都民宿完整指南-體驗千年古都的家庭溫暖-9fdcd4.html">京都民宿完整指南：體驗千年古都的家庭溫暖</a> <span class="count">1543字</span></li>
-<li><a href="articles/japan-accommodation-minshuku-sendai-仙台民宿住宿指南-感受東北溫情的家庭式體驗-9b7637.html">仙台民宿住宿指南：感受東北溫情的家庭式體驗</a> <span class="count">2120字</span></li>
-<li><a href="articles/japan-accommodation-minshuku-osaka-大阪民宿完整指南-體驗關西廚房的人情味住宿-e3d91d.html">大阪民宿完整指南：體驗關西廚房的人情味住宿</a> <span class="count">1686字</span></li>
-<li><a href="articles/japan-accommodation-minshuku-kobe-神戶民宿-在港都體驗日式溫情住宿-7a40d8.html">神戶民宿：在港都體驗日式溫情住宿</a> <span class="count">2074字</span></li>
-<li><a href="articles/japan-accommodation-minshuku-fukuoka-福岡民宿完整指南-體驗九州傳統人情味的住宿選擇-767abc.html">福岡民宿完整指南：體驗九州傳統人情味的住宿選擇</a> <span class="count">1927字</span></li>
-<li><a href="articles/japan-accommodation-minshuku-kanazawa-金澤民宿完整指南-體驗城下町傳統住宿的在地魅力-267a3e.html">金澤民宿完整指南：體驗城下町傳統住宿的在地魅力</a> <span class="count">1685字</span></li>
-<li><a href="articles/japan-accommodation-ryokan-hokkaido-北海道日式傳統旅館-北國溫泉之鄉的慢旅行-c81ebc.html">北海道日式傳統旅館：北國溫泉之鄉的慢旅行</a> <span class="count">1787字</span></li>
-<li><a href="articles/japan-accommodation-ryokan-nara-奈良傳統旅館-ryokan-完全指南-在千年古都體驗和式待客之道-5d7672.html">奈良傳統旅館（Ryokan）完全指南：在千年古都體驗和式待客之道</a> <span class="count">1580字</span></li>
-<li><a href="articles/japan-accommodation-ryokan-tokyo-東京溫泉小宿-傳統日式旅館的住宿指南-030161.html">東京溫泉小宿：傳統日式旅館的住宿指南</a> <span class="count">1963字</span></li>
-<li><a href="articles/japan-accommodation-ryokan-kanazawa-金澤溫泉旅館指南-體驗加賀百萬石風情的極致住宿-0b6b26.html">金澤溫泉旅館指南：體驗加賀百萬石風情的極致住宿</a> <span class="count">1532字</span></li>
-<li><a href="articles/japan-accommodation-temple-stays-osaka-大阪寺廟住宿體驗-遠離塵囂的靜謐之旅-44610c.html">大阪寺廟住宿體驗：遠離塵囂的靜謐之旅</a> <span class="count">1921字</span></li>
-<li><a href="articles/japan-accommodation-temple-stays-tokyo-東京寺廟住宿體驗-都市中的禪心之旅-60c6e3.html">東京寺廟住宿體驗：都市中的禪心之旅</a> <span class="count">1390字</span></li></ul>
-    </section>
-    <section class="industry-section">
-      <h2>娛樂 (67 篇)</h2>
-      <ul class="article-list"><li><a href="articles/japan-entertainment-anime-manga-hokkaido-hokkaido-anime-manga-d60915.html">hokkaido anime-manga</a> <span class="count">395字</span></li>
-<li><a href="articles/japan-entertainment-anime-manga-nara-nara-anime-manga-43f383.html">nara anime-manga</a> <span class="count">423字</span></li>
-<li><a href="articles/japan-entertainment-anime-manga-tokyo-tokyo-anime-manga-b01f1c.html">tokyo anime-manga</a> <span class="count">314字</span></li>
-<li><a href="articles/japan-entertainment-anime-manga-okinawa-沖繩動漫漫畫指南-動漫迷的南國探險之旅-73edce.html">沖繩動漫漫畫指南：動漫迷的南國探險之旅</a> <span class="count">1764字</span></li>
-<li><a href="articles/japan-entertainment-anime-manga-fukuoka-福岡動漫聖地巡禮-動漫迷的九州朝聖之旅-df9d4b.html">福岡動漫聖地巡禮：動漫迷的九州朝聖之旅</a> <span class="count">1486字</span></li>
-<li><a href="articles/japan-entertainment-escape-rooms-fukuoka-fukuoka-escape-rooms-ff3ab6.html">fukuoka escape-rooms</a> <span class="count">2270字</span></li>
-<li><a href="articles/japan-entertainment-escape-rooms-okinawa-okinawa-escape-rooms-3f6570.html">okinawa escape-rooms</a> <span class="count">2337字</span></li>
-<li><a href="articles/japan-entertainment-escape-rooms-nagoya-名古屋密室逃脫-體驗腦力激盪的樂趣所在-e159f2.html">名古屋密室逃脫：體驗腦力激盪的樂趣所在</a> <span class="count">1180字</span></li>
-<li><a href="articles/japan-entertainment-escape-rooms-nara-奈良密室逃脫完整指南-古都中的燒腦體驗-aed2fb.html">奈良密室逃脫完整指南：古都中的燒腦體驗</a> <span class="count">1529字</span></li>
-<li><a href="articles/japan-entertainment-escape-rooms-tokyo-東京密室逃脫-腦力激盪的終極挑戰體驗-7c4bf3.html">東京密室逃脫：腦力激盪的終極挑戰體驗</a> <span class="count">1690字</span></li>
-<li><a href="articles/japan-entertainment-festivals-matsuri-fukuoka-fukuoka-festivals-matsuri-60ca78.html">fukuoka festivals-matsuri</a> <span class="count">317字</span></li>
-<li><a href="articles/japan-entertainment-festivals-matsuri-hokkaido-hokkaido-festivals-matsuri-87358a.html">hokkaido festivals-matsuri</a> <span class="count">2904字</span></li>
-<li><a href="articles/japan-entertainment-festivals-matsuri-osaka-osaka-festivals-matsuri-bb4727.html">osaka festivals-matsuri</a> <span class="count">511字</span></li>
-<li><a href="articles/japan-entertainment-festivals-matsuri-kyoto-京都祭典-千年古都的傳統盛典-e7fbfd.html">京都祭典：千年古都的傳統盛典</a> <span class="count">1806字</span></li>
-<li><a href="articles/japan-entertainment-festivals-matsuri-sendai-仙台七夕祭-東北夏日最具規模的浪漫星河盛典-87e006.html">仙台七夕祭：東北夏日最具規模的浪漫星河盛典</a> <span class="count">1462字</span></li>
-<li><a href="articles/japan-entertainment-festivals-matsuri-nagoya-名古屋祭典完全指南-感受中京之都的熱鬧盛夏-a58dfe.html">名古屋祭典完全指南：感受中京之都的熱鬧盛夏</a> <span class="count">2393字</span></li>
-<li><a href="articles/japan-entertainment-festivals-matsuri-nara-奈良祭典巡禮-千年古都的傳統祭祀文化體驗-383c40.html">奈良祭典巡禮：千年古都的傳統祭祀文化體驗</a> <span class="count">1631字</span></li>
-<li><a href="articles/japan-entertainment-festivals-matsuri-hiroshima-廣島祭典巡禮-感受瀨戶內海的四季慶典文化-d2c739.html">廣島祭典巡禮：感受瀨戶內海的四季慶典文化</a> <span class="count">1673字</span></li>
-<li><a href="articles/japan-entertainment-festivals-matsuri-kanazawa-金澤祭典完全指南-感受加賀百萬石的華麗慶典與四季節慶魅力-be601e.html">金澤祭典完全指南：感受加賀百萬石的華麗慶典與四季節慶魅力</a> <span class="count">1592字</span></li>
-<li><a href="articles/japan-entertainment-gaming-arcades-fukuoka-fukuoka-gaming-arcades-437aa6.html">fukuoka gaming-arcades</a> <span class="count">490字</span></li>
-<li><a href="articles/japan-entertainment-gaming-arcades-hiroshima-hiroshima-gaming-arcades-2f55a8.html">hiroshima gaming-arcades</a> <span class="count">2405字</span></li>
-<li><a href="articles/japan-entertainment-gaming-arcades-kanazawa-kanazawa-gaming-arcades-c0add6.html">kanazawa gaming-arcades</a> <span class="count">2591字</span></li>
-<li><a href="articles/japan-entertainment-gaming-arcades-kobe-kobe-gaming-arcades-6dc06f.html">kobe gaming-arcades</a> <span class="count">2250字</span></li>
-<li><a href="articles/japan-entertainment-gaming-arcades-nagoya-nagoya-gaming-arcades-fb670a.html">nagoya gaming-arcades</a> <span class="count">2645字</span></li>
-<li><a href="articles/japan-entertainment-gaming-arcades-tokyo-tokyo-gaming-arcades-07fe12.html">tokyo gaming-arcades</a> <span class="count">2125字</span></li>
-<li><a href="articles/japan-entertainment-gaming-arcades-sendai-仙台遊戲中心-東北街機文化的完整指南-ba0abf.html">仙台遊戲中心：東北街機文化的完整指南</a> <span class="count">2357字</span></li>
-<li><a href="articles/japan-entertainment-gaming-arcades-hokkaido-北海道遊戲中心-札幌-薄野一帶的街機文化體驗-9853b1.html">北海道遊戲中心：札幌、薄野一帶的街機文化體驗</a> <span class="count">1289字</span></li>
-<li><a href="articles/japan-entertainment-gaming-arcades-nara-奈良遊戲中心-古都中的現代娛樂體驗-4e0323.html">奈良遊戲中心：古都中的現代娛樂體驗</a> <span class="count">2001字</span></li>
-<li><a href="articles/japan-entertainment-gaming-arcades-okinawa-沖繩遊戲中心-帶你探索南國島嶼的街機文化體驗-507d52.html">沖繩遊戲中心：帶你探索南國島嶼的街機文化體驗</a> <span class="count">1949字</span></li>
-<li><a href="articles/japan-entertainment-kabuki-theatre-hiroshima-hiroshima-kabuki-theatre-e77ff5.html">hiroshima kabuki-theatre</a> <span class="count">338字</span></li>
-<li><a href="articles/japan-entertainment-kabuki-theatre-kanazawa-kanazawa-kabuki-theatre-5111d5.html">kanazawa kabuki-theatre</a> <span class="count">362字</span></li>
-<li><a href="articles/japan-entertainment-kabuki-theatre-kobe-kobe-kabuki-theatre-54444a.html">kobe kabuki-theatre</a> <span class="count">411字</span></li>
-<li><a href="articles/japan-entertainment-kabuki-theatre-nara-nara-kabuki-theatre-8b6739.html">nara kabuki-theatre</a> <span class="count">418字</span></li>
-<li><a href="articles/japan-entertainment-kabuki-theatre-okinawa-okinawa-kabuki-theatre-2dd5cf.html">okinawa kabuki-theatre</a> <span class="count">345字</span></li>
-<li><a href="articles/japan-entertainment-kabuki-theatre-tokyo-tokyo-kabuki-theatre-d9291c.html">tokyo kabuki-theatre</a> <span class="count">3025字</span></li>
-<li><a href="articles/japan-entertainment-kabuki-theatre-sendai-仙台-kabuki-theatre-探索東北地區的傳統表演藝術-555e14.html">仙台 kabuki Theatre：探索東北地區的傳統表演藝術</a> <span class="count">1322字</span></li>
-<li><a href="articles/japan-entertainment-kabuki-theatre-hokkaido-北海道的傳統表演藝術-沒有傳統kabuki劇場的真相-f36577.html">北海道的傳統表演藝術：沒有傳統Kabuki劇場的真相</a> <span class="count">1386字</span></li>
-<li><a href="articles/japan-entertainment-kabuki-theatre-nagoya-名古屋觀光劇團-探索愛知縣的傳統表演藝術-018764.html">名古屋觀光劇團：探索愛知縣的傳統表演藝術</a> <span class="count">965字</span></li>
-<li><a href="articles/japan-entertainment-kabuki-theatre-fukuoka-福岡博多座-博多傳統表演藝術的聖殿-d5f221.html">福岡博多座：博多傳統表演藝術的聖殿</a> <span class="count">1910字</span></li>
-<li><a href="articles/japan-entertainment-karaoke-kyoto-kyoto-karaoke-746364.html">kyoto karaoke</a> <span class="count">2054字</span></li>
-<li><a href="articles/japan-entertainment-karaoke-nagoya-nagoya-karaoke-a4f09e.html">nagoya karaoke</a> <span class="count">2164字</span></li>
-<li><a href="articles/japan-entertainment-karaoke-nara-nara-karaoke-7d9ede.html">nara karaoke</a> <span class="count">2373字</span></li>
-<li><a href="articles/japan-entertainment-karaoke-hokkaido-北海道卡拉ok-雪國歌聲中的溫暖娛樂體驗-d00641.html">北海道卡拉OK：雪國歌聲中的溫暖娛樂體驗</a> <span class="count">1731字</span></li>
-<li><a href="articles/japan-entertainment-karaoke-osaka-大阪卡拉ok-關西娛樂文化的熱情舞台-c214f7.html">大阪卡拉OK：關西娛樂文化的熱情舞台</a> <span class="count">1723字</span></li>
-<li><a href="articles/japan-entertainment-karaoke-tokyo-東京卡拉ok-都市中的歡唱體驗-c4f9e9.html">東京卡拉OK：都市中的歡唱體驗</a> <span class="count">1324字</span></li>
-<li><a href="articles/japan-entertainment-karaoke-kobe-神戶卡拉ok-港都夜晚的音樂饗宴-4de94a.html">神戶卡拉OK：港都夜晚的音樂饗宴</a> <span class="count">1717字</span></li>
-<li><a href="articles/japan-entertainment-karaoke-fukuoka-福岡卡拉ok完全指南-博多夜生活的歌聲狂歡-d76953.html">福岡卡拉OK完全指南：博多夜生活的歌聲狂歡</a> <span class="count">1820字</span></li>
-<li><a href="articles/japan-entertainment-karaoke-kanazawa-金澤卡拉ok-百萬石城池的音樂時光-bea3f9.html">金澤卡拉OK：百萬石城池的音樂時光</a> <span class="count">2169字</span></li>
-<li><a href="articles/japan-entertainment-nightlife-kobe-kobe-nightlife-f862b0.html">kobe nightlife</a> <span class="count">523字</span></li>
-<li><a href="articles/japan-entertainment-nightlife-nagoya-nagoya-nightlife-1637a1.html">nagoya nightlife</a> <span class="count">2896字</span></li>
-<li><a href="articles/japan-entertainment-nightlife-kyoto-京都夜生活-古都的夜間魅力探索-d325d2.html">京都夜生活：古都的夜間魅力探索</a> <span class="count">2391字</span></li>
-<li><a href="articles/japan-entertainment-nightlife-nara-奈良夜生活-千年古都的寧靜夜間魅力-f4116d.html">奈良夜生活：千年古都的寧靜夜間魅力</a> <span class="count">1590字</span></li>
-<li><a href="articles/japan-entertainment-nightlife-hiroshima-廣島夜生活-和平之城的夜間魅力探索-e1666d.html">廣島夜生活：和平之城的夜間魅力探索</a> <span class="count">1553字</span></li>
-<li><a href="articles/japan-entertainment-nightlife-kanazawa-金澤夜生活-探索北陸小京都的夜間魅力-26aabd.html">金澤夜生活：探索北陸小京都的夜間魅力</a> <span class="count">1226字</span></li>
-<li><a href="articles/japan-entertainment-sumo-hokkaido-北海道相撲-北國大地上的力士之舞-028f28.html">北海道相撲：北國大地上的力士之舞</a> <span class="count">1371字</span></li>
-<li><a href="articles/japan-entertainment-sumo-nagoya-名古屋相撲文化-中部地區的力士傳統與巡業體驗-63d007.html">名古屋相撲文化：中部地區的力士傳統與巡業體驗</a> <span class="count">1527字</span></li>
-<li><a href="articles/japan-entertainment-sumo-tokyo-東京相撲-國技殿堂的力士傳奇體驗-ad5298.html">東京相撲：國技殿堂的力士傳奇體驗</a> <span class="count">1766字</span></li>
-<li><a href="articles/japan-entertainment-sumo-kobe-神戶相撲-港都的力士文化體驗-0b775d.html">神戶相撲：港都的力士文化體驗</a> <span class="count">1713字</span></li>
-<li><a href="articles/japan-entertainment-theme-parks-tokyo-tokyo-theme-parks-5fe66b.html">tokyo theme-parks</a> <span class="count">1948字</span></li>
-<li><a href="articles/japan-entertainment-theme-parks-kyoto-京都主題樂園不完全指南-古今交織的歡樂體驗-699583.html">京都主題樂園不完全指南：古今交織的歡樂體驗</a> <span class="count">2006字</span></li>
-<li><a href="articles/japan-entertainment-theme-parks-sendai-仙台主題樂園與遊樂設施-東北地區的娛樂體驗指南-8dd7f8.html">仙台主題樂園與遊樂設施：東北地區的娛樂體驗指南</a> <span class="count">1496字</span></li>
-<li><a href="articles/japan-entertainment-theme-parks-okinawa-沖繩主題樂園完整指南-從水族王國到熱帶花園的夢幻體驗-140335.html">沖繩主題樂園完整指南：從水族王國到熱帶花園的夢幻體驗</a> <span class="count">1600字</span></li>
-<li><a href="articles/japan-entertainment-theme-parks-fukuoka-福岡主題樂園巡禮-九州門戶的家庭歡樂時光-006768.html">福岡主題樂園巡禮：九州門戶的家庭歡樂時光</a> <span class="count">1647字</span></li>
-<li><a href="articles/japan-entertainment-theme-parks-kanazawa-金澤主題樂園與遊樂設施完全指南-體驗加賀百萬石的歡樂時光-9efaad.html">金澤主題樂園與遊樂設施完全指南：體驗加賀百萬石的歡樂時光</a> <span class="count">1491字</span></li>
-<li><a href="articles/japan-entertainment-vr-experiences-hiroshima-hiroshima-vr-experiences-8f6ca6.html">hiroshima vr-experiences</a> <span class="count">3335字</span></li>
-<li><a href="articles/japan-entertainment-vr-experiences-sendai-仙台vr體驗完全指南-東北科技娛樂新地標-26c953.html">仙台VR體驗完全指南：東北科技娛樂新地標</a> <span class="count">1709字</span></li>
-<li><a href="articles/japan-entertainment-vr-experiences-kobe-神戶vr體驗-港都的虛擬實境娛樂探索-baae85.html">神戶VR體驗：港都的虛擬實境娛樂探索</a> <span class="count">1669字</span></li></ul>
-    </section>
-    <section class="industry-section">
-      <h2>美食 (85 篇)</h2>
-      <ul class="article-list"><li><a href="articles/japan-gourmet-depachika-hiroshima-廣島depachika-瀨戶內海風味與傳統技藝的美食殿堂-894255.html">廣島Depachika：瀨戶內海風味與傳統技藝的美食殿堂</a> <span class="count">2183字</span></li>
-<li><a href="articles/japan-gourmet-depachika-tokyo-東京-depachika-百貨地下美食天堂的終極指南-9e4a72.html">東京 Depachika：百貨地下美食天堂的終極指南</a> <span class="count">1795字</span></li>
-<li><a href="articles/japan-gourmet-depachika-okinawa-沖繩-depachika-亞熱帶海島的美食地下天堂-06650f.html">沖繩 Depachika：亞熱帶海島的美食地下天堂</a> <span class="count">1912字</span></li>
-<li><a href="articles/japan-gourmet-depachika-fukuoka-福岡-depachika-完全指南-九州門戶的百貨地下美食天堂-38a6ba.html">福岡 Depachika 完全指南：九州門戶的百貨地下美食天堂</a> <span class="count">1948字</span></li>
-<li><a href="articles/japan-gourmet-izakaya-fukuoka-fukuoka-izakaya-c38c5c.html">fukuoka izakaya</a> <span class="count">1921字</span></li>
-<li><a href="articles/japan-gourmet-izakaya-okinawa-okinawa-izakaya-e0f88d.html">okinawa izakaya</a> <span class="count">366字</span></li>
-<li><a href="articles/japan-gourmet-izakaya-kyoto-京都居酒屋完全指南-千年古都的精緻酒食文化體驗-dead76.html">京都居酒屋完全指南：千年古都的精緻酒食文化體驗</a> <span class="count">2008字</span></li>
-<li><a href="articles/japan-gourmet-izakaya-nagoya-名古屋居酒屋完全指南-品味東海地方獨特酒食文化-995d7a.html">名古屋居酒屋完全指南：品味東海地方獨特酒食文化</a> <span class="count">1572字</span></li>
-<li><a href="articles/japan-gourmet-izakaya-osaka-大阪居酒屋指南-體驗-天下の台所-的飲酒文化-a8717f.html">大阪居酒屋指南：體驗「天下の台所」的飲酒文化</a> <span class="count">2234字</span></li>
-<li><a href="articles/japan-gourmet-izakaya-tokyo-東京居酒屋完全指南-體驗都會夜生活的酒食魅力-9a51e5.html">東京居酒屋完全指南：體驗都會夜生活的酒食魅力</a> <span class="count">2327字</span></li>
-<li><a href="articles/japan-gourmet-izakaya-kobe-神戶居酒屋-港都夜晚的溫暖聚會-0dc3d6.html">神戶居酒屋：港都夜晚的溫暖聚會</a> <span class="count">1614字</span></li>
-<li><a href="articles/japan-gourmet-kaiseki-tokyo-tokyo-kaiseki-364e3c.html">tokyo kaiseki</a> <span class="count">1794字</span></li>
-<li><a href="articles/japan-gourmet-kaiseki-osaka-大阪懷石料理-關西商都的精緻料理藝術-a5231b.html">大阪懷石料理：關西商都的精緻料理藝術</a> <span class="count">1719字</span></li>
-<li><a href="articles/japan-gourmet-kaiseki-hiroshima-廣島懷石料理-瀨戶內海的精緻美食藝術-5bf098.html">廣島懷石料理：瀨戶內海的精緻美食藝術</a> <span class="count">1820字</span></li>
-<li><a href="articles/japan-gourmet-kaiseki-kobe-神戶懷石料理-港都山海饋贈的極致味覺體驗-bf01ec.html">神戶懷石料理：港都山海饋贈的極致味覺體驗</a> <span class="count">1449字</span></li>
-<li><a href="articles/japan-gourmet-kaiseki-kanazawa-金澤懷石料理-古城風情的精緻盛宴-7a9510.html">金澤懷石料理：古城風情的精緻盛宴</a> <span class="count">1413字</span></li>
-<li><a href="articles/japan-gourmet-matcha-sweets-kanazawa-kanazawa-matcha-sweets-eb1a65.html">kanazawa matcha-sweets</a> <span class="count">1939字</span></li>
-<li><a href="articles/japan-gourmet-matcha-sweets-osaka-osaka-matcha-sweets-cad943.html">osaka matcha-sweets</a> <span class="count">492字</span></li>
-<li><a href="articles/japan-gourmet-matcha-sweets-sendai-仙台抹茶甜點-藏王腳下的綠意好滋味-48752d.html">仙台抹茶甜點：藏王腳下的綠意好滋味</a> <span class="count">1623字</span></li>
-<li><a href="articles/japan-gourmet-matcha-sweets-nagoya-名古屋抹茶甜點-中部甜品文化的綠茶風華-8460d4.html">名古屋抹茶甜點：中部甜品文化的綠茶風華</a> <span class="count">1547字</span></li>
-<li><a href="articles/japan-gourmet-matcha-sweets-tokyo-東京抹茶甜點極致指南-品嚐綠意盎然的日式甜蜜-50be5c.html">東京抹茶甜點極致指南：品嚐綠意盎然的日式甜蜜</a> <span class="count">1648字</span></li>
-<li><a href="articles/japan-gourmet-okonomiyaki-nagoya-nagoya-okonomiyaki-d4d3af.html">nagoya okonomiyaki</a> <span class="count">2149字</span></li>
-<li><a href="articles/japan-gourmet-okonomiyaki-osaka-osaka-okonomiyaki-938cb7.html">osaka okonomiyaki</a> <span class="count">2149字</span></li>
-<li><a href="articles/japan-gourmet-okonomiyaki-tokyo-tokyo-okonomiyaki-2985bd.html">tokyo okonomiyaki</a> <span class="count">2137字</span></li>
-<li><a href="articles/japan-gourmet-okonomiyaki-kyoto-京都御好燒-關西風味的京都體驗-5bdf0f.html">京都御好燒：關西風味的京都體驗</a> <span class="count">1624字</span></li>
-<li><a href="articles/japan-gourmet-okonomiyaki-sendai-仙台御好燒-東北城市的暖心美味指南-6c1695.html">仙台御好燒：東北城市的暖心美味指南</a> <span class="count">1926字</span></li>
-<li><a href="articles/japan-gourmet-okonomiyaki-nara-奈良御好燒-古都風情中的關西美味-351b25.html">奈良御好燒：古都風情中的關西美味</a> <span class="count">1550字</span></li>
-<li><a href="articles/japan-gourmet-okonomiyaki-kobe-神戶御好燒-港都風情的關西經典-04962c.html">神戶御好燒：港都風情的關西經典</a> <span class="count">1647字</span></li>
-<li><a href="articles/japan-gourmet-okonomiyaki-fukuoka-福岡御好燒-博多的街頭美味與鐵板風情-a5cd95.html">福岡御好燒：博多的街頭美味與鐵板風情</a> <span class="count">1168字</span></li>
-<li><a href="articles/japan-gourmet-okonomiyaki-kanazawa-金澤御好燒-北陸古都的關西風味新詮釋-5b1408.html">金澤御好燒：北陸古都的關西風味新詮釋</a> <span class="count">1595字</span></li>
-<li><a href="articles/japan-gourmet-ramen-hokkaido-hokkaido-ramen-e92c7f.html">hokkaido ramen</a> <span class="count">2726字</span></li>
-<li><a href="articles/japan-gourmet-ramen-osaka-osaka-ramen-34e9a5.html">osaka ramen</a> <span class="count">2694字</span></li>
-<li><a href="articles/japan-gourmet-ramen-hokkaido-北海道拉麵-寒冷北國的暖心滋味-4ced23.html">北海道拉麵：寒冷北國的暖心滋味</a> <span class="count">1261字</span></li>
-<li><a href="articles/japan-gourmet-ramen-hiroshima-廣島拉麵-瀨戶內海的暖心風味探索-57d3dc.html">廣島拉麵：瀨戶內海的暖心風味探索</a> <span class="count">1290字</span></li>
-<li><a href="articles/japan-gourmet-ramen-okinawa-沖繩拉麵-琉球海島的獨特麵食文化-8d5a85.html">沖繩拉麵：琉球海島的獨特麵食文化</a> <span class="count">1640字</span></li>
-<li><a href="articles/japan-gourmet-ramen-kanazawa-金澤拉麵-北陸古都的醇厚拉麵文化-ac69a9.html">金澤拉麵：北陸古都的醇厚拉麵文化</a> <span class="count">1805字</span></li>
-<li><a href="articles/japan-gourmet-sake-brewery-fukuoka-fukuoka-sake-brewery-8989b9.html">fukuoka sake-brewery</a> <span class="count">380字</span></li>
-<li><a href="articles/japan-gourmet-sake-brewery-kobe-kobe-sake-brewery-319d0e.html">kobe sake-brewery</a> <span class="count">558字</span></li>
-<li><a href="articles/japan-gourmet-street-food-nara-nara-street-food-ed3afe.html">nara street-food</a> <span class="count">375字</span></li>
-<li><a href="articles/japan-gourmet-street-food-sendai-sendai-street-food-551cec.html">sendai street-food</a> <span class="count">313字</span></li>
-<li><a href="articles/japan-gourmet-street-food-kyoto-京都街頭美食-千年古都的味蕾冒險-ddf3be.html">京都街頭美食：千年古都的味蕾冒險</a> <span class="count">1534字</span></li>
-<li><a href="articles/japan-gourmet-street-food-hokkaido-北海道街頭美食-寒地北國的溫暖滋味-10d49c.html">北海道街頭美食：寒地北國的溫暖滋味</a> <span class="count">1427字</span></li>
-<li><a href="articles/japan-gourmet-street-food-osaka-大阪街頭美食完全指南-品味關西廚房的庶民美味-509699.html">大阪街頭美食完全指南：品味關西廚房的庶民美味</a> <span class="count">1827字</span></li>
-<li><a href="articles/japan-gourmet-street-food-fukuoka-福岡街頭美食探險-九州美食之都的屋台文化與庶民小吃-6efb1f.html">福岡街頭美食探險：九州美食之都的屋台文化與庶民小吃</a> <span class="count">2000字</span></li>
-<li><a href="articles/japan-gourmet-street-food-kanazawa-金澤街頭美食-古都風情的庶民滋味-bf60b5.html">金澤街頭美食：古都風情的庶民滋味</a> <span class="count">1635字</span></li>
-<li><a href="articles/japan-gourmet-sushi-kobe-kobe-sushi-370a8b.html">kobe sushi</a> <span class="count">2413字</span></li>
-<li><a href="articles/japan-gourmet-sushi-tokyo-tokyo-sushi-1cac7a.html">tokyo sushi</a> <span class="count">458字</span></li>
-<li><a href="articles/japan-gourmet-sushi-sendai-仙台壽司美食指南-東北海港的江戶前精髓-18bd37.html">仙台壽司美食指南：東北海港的江戶前精髓</a> <span class="count">1717字</span></li>
-<li><a href="articles/japan-gourmet-sushi-nagoya-名古屋壽司-伊勢灣的海味寶庫-b7ba10.html">名古屋壽司：伊勢灣的海味寶庫</a> <span class="count">1054字</span></li>
-<li><a href="articles/japan-gourmet-sushi-osaka-大阪壽司-港都的鮮味盛宴-12fc6d.html">大阪壽司：港都的鮮味盛宴</a> <span class="count">1285字</span></li>
-<li><a href="articles/japan-gourmet-sushi-hiroshima-廣島壽司-瀨戶內海的極致海味饗宴-6e12f8.html">廣島壽司：瀨戶內海的極致海味饗宴</a> <span class="count">1719字</span></li>
-<li><a href="articles/japan-gourmet-sushi-okinawa-沖繩壽司完全指南-亞熱帶海島的獨特鮮味-9f5f2b.html">沖繩壽司完全指南：亞熱帶海島的獨特鮮味</a> <span class="count">1358字</span></li>
-<li><a href="articles/japan-gourmet-sushi-kanazawa-金澤壽司-北陸魚港的極致鮮味-0fd5f8.html">金澤壽司：北陸魚港的極致鮮味</a> <span class="count">1392字</span></li>
-<li><a href="articles/japan-gourmet-tempura-osaka-osaka-tempura-68367b.html">osaka tempura</a> <span class="count">2127字</span></li>
-<li><a href="articles/japan-gourmet-tempura-sendai-sendai-tempura-45971c.html">sendai tempura</a> <span class="count">1707字</span></li>
-<li><a href="articles/japan-gourmet-tempura-tokyo-tokyo-tempura-d57a1e.html">tokyo tempura</a> <span class="count">1656字</span></li>
-<li><a href="articles/japan-gourmet-tempura-nagoya-名古屋天婦羅-中部地區的炸物藝術與在地特色-d5e6af.html">名古屋天婦羅：中部地區的炸物藝術與在地特色</a> <span class="count">1963字</span></li>
-<li><a href="articles/japan-gourmet-tempura-nara-奈良天婦羅-古都風味的酥脆藝術-1ed6eb.html">奈良天婦羅：古都風味的酥脆藝術</a> <span class="count">1884字</span></li>
-<li><a href="articles/japan-gourmet-tempura-hiroshima-廣島天婦羅-酥脆麵衣與鮮美海味的完美邂逅-101bcf.html">廣島天婦羅：酥脆麵衣與鮮美海味的完美邂逅</a> <span class="count">1464字</span></li>
-<li><a href="articles/japan-gourmet-tempura-kobe-神戶天婦羅-港都關西風的酥脆美味-91ddaf.html">神戶天婦羅：港都關西風的酥脆美味</a> <span class="count">1343字</span></li>
-<li><a href="articles/japan-gourmet-tempura-fukuoka-福岡天婦羅美食巡禮-九州海鮮的酥脆饗宴-57d7a2.html">福岡天婦羅美食巡禮：九州海鮮的酥脆饗宴</a> <span class="count">1398字</span></li>
-<li><a href="articles/japan-gourmet-tonkatsu-kyoto-kyoto-tonkatsu-57bd0d.html">kyoto tonkatsu</a> <span class="count">1763字</span></li>
-<li><a href="articles/japan-gourmet-tonkatsu-sendai-仙台炸豬排-東北風情中的日式洋食經典-1e0035.html">仙台炸豬排：東北風情中的日式洋食經典</a> <span class="count">1532字</span></li>
-<li><a href="articles/japan-gourmet-tonkatsu-tokyo-東京炸豬排巡禮-首都美食的酥脆極致體驗-bc59e6.html">東京炸豬排巡禮：首都美食的酥脆極致體驗</a> <span class="count">1888字</span></li>
-<li><a href="articles/japan-gourmet-tonkatsu-okinawa-沖繩炸豬排-亞熱帶島嶼的日式洋食風情-845885.html">沖繩炸豬排：亞熱帶島嶼的日式洋食風情</a> <span class="count">703字</span></li>
-<li><a href="articles/japan-gourmet-tonkatsu-fukuoka-福岡炸豬排巡禮-九州美食之都的酥脆誘惑-c553ff.html">福岡炸豬排巡禮：九州美食之都的酥脆誘惑</a> <span class="count">1861字</span></li>
-<li><a href="articles/japan-gourmet-tonkatsu-kanazawa-金澤炸豬排-北陸小京都的酥脆美味-1f4cfd.html">金澤炸豬排：北陸小京都的酥脆美味</a> <span class="count">1649字</span></li>
-<li><a href="articles/japan-gourmet-udon-soba-kyoto-kyoto-udon-soba-d27dd6.html">kyoto udon-soba</a> <span class="count">2239字</span></li>
-<li><a href="articles/japan-gourmet-udon-soba-sendai-sendai-udon-soba-a74af1.html">sendai udon-soba</a> <span class="count">2026字</span></li>
-<li><a href="articles/japan-gourmet-udon-soba-tokyo-tokyo-udon-soba-9223a1.html">tokyo udon-soba</a> <span class="count">2070字</span></li>
-<li><a href="articles/japan-gourmet-udon-soba-hokkaido-北海道烏龍麵與蕎麥麵-北國風味的麵食文化指南-c69994.html">北海道烏龍麵與蕎麥麵：北國風味的麵食文化指南</a> <span class="count">1525字</span></li>
-<li><a href="articles/japan-gourmet-udon-soba-nara-奈良烏龍麵與蕎麥麵-古都的麵食文化探索-cd9674.html">奈良烏龍麵與蕎麥麵：古都的麵食文化探索</a> <span class="count">1183字</span></li>
-<li><a href="articles/japan-gourmet-udon-soba-hiroshima-廣島烏龍麵與蕎麥麵-山海之間的麵食文化深度指南-b81ecf.html">廣島烏龍麵與蕎麥麵：山海之間的麵食文化深度指南</a> <span class="count">1784字</span></li>
-<li><a href="articles/japan-gourmet-udon-soba-fukuoka-福岡-うどんとん-探索九州北部的麵食魅力-a2dcca.html">福岡「うどんとん」：探索九州北部的麵食魅力</a> <span class="count">2036字</span></li>
-<li><a href="articles/japan-gourmet-udon-soba-kanazawa-金澤-加賀烏龍麵-完全指南-在地人氣店家與美食攻略-9e8da5.html">金澤「加賀烏龍麵」完全指南：在地人氣店家與美食攻略</a> <span class="count">1366字</span></li>
-<li><a href="articles/japan-gourmet-wagyu-tokyo-tokyo-wagyu-4c8f42.html">tokyo wagyu</a> <span class="count">2653字</span></li>
-<li><a href="articles/japan-gourmet-wagyu-kyoto-京都頂級和牛美食體驗指南-dc7cc1.html">京都頂級和牛美食體驗指南</a> <span class="count">1885字</span></li>
-<li><a href="articles/japan-gourmet-wagyu-osaka-大阪和牛-極致味覺體驗的美食天堂-850ae7.html">大阪和牛：極致味覺體驗的美食天堂</a> <span class="count">1758字</span></li>
-<li><a href="articles/japan-gourmet-wagyu-osaka-大阪和牛-極致和牛料理的天堂-049e52.html">大阪和牛：極致和牛料理的天堂</a> <span class="count">1336字</span></li>
-<li><a href="articles/japan-gourmet-yakitori-hiroshima-hiroshima-yakitori-8e785b.html">hiroshima yakitori</a> <span class="count">597字</span></li>
-<li><a href="articles/japan-gourmet-yakitori-hokkaido-北海道燒鳥-室蘭豚肉串與道產雞肉的獨特燒烤文化-f6211a.html">北海道燒鳥：室蘭豚肉串與道產雞肉的獨特燒烤文化</a> <span class="count">1628字</span></li>
-<li><a href="articles/japan-gourmet-yakitori-nagoya-名古屋燒鳥-名古屋流串燒的獨特魅力-e1a99e.html">名古屋燒鳥：名古屋流串燒的獨特魅力</a> <span class="count">1613字</span></li>
-<li><a href="articles/japan-gourmet-yakitori-osaka-大阪燒鳥-關西風串燒的獨特魅力-ad951e.html">大阪燒鳥：關西風串燒的獨特魅力</a> <span class="count">1261字</span></li>
-<li><a href="articles/japan-gourmet-yakitori-okinawa-沖繩的燒鳥-旅遊時的美食選擇-d4dac6.html">沖繩的燒鳥：旅遊時的美食選擇</a> <span class="count">1082字</span></li>
-<li><a href="articles/japan-gourmet-yakitori-kobe-神戶燒鳥-港都夜晚的串燒風情-b94d50.html">神戶燒鳥：港都夜晚的串燒風情</a> <span class="count">1929字</span></li></ul>
-    </section>
-    <section class="industry-section">
-      <h2>購物 (66 篇)</h2>
-      <ul class="article-list"><li><a href="articles/japan-shopping-100-yen-shops-osaka-osaka-100-yen-shops-85b83c.html">osaka 100-yen-shops</a> <span class="count">3815字</span></li>
-<li><a href="articles/japan-shopping-100-yen-shops-kyoto-京都100円商店完全指南-古都中的平價購物寶藏-24d7f7.html">京都100円商店完全指南：古都中的平價購物寶藏</a> <span class="count">1723字</span></li>
-<li><a href="articles/japan-shopping-100-yen-shops-nagoya-名古屋100円商店完全指南-中部地區的平價購物天堂-5b2b54.html">名古屋100円商店完全指南：中部地區的平價購物天堂</a> <span class="count">1497字</span></li>
-<li><a href="articles/japan-shopping-100-yen-shops-fukuoka-福岡100円商店購物指南-天神-博多必訪質感小店與省錢攻略-d00c41.html">福岡100円商店購物指南：天神、博多必訪質感小店與省錢攻略</a> <span class="count">1762字</span></li>
-<li><a href="articles/japan-shopping-100-yen-shops-hokkaido-福岡免稅購物完全指南-九州最大都市的免稅購物精選-372e43.html">福岡免稅購物完全指南：九州最大都市的免稅購物精選</a> <span class="count">1419字</span></li>
-<li><a href="articles/japan-shopping-100-yen-shops-nara-福岡免稅購物完全指南-九州最大都市的免稅購物精選-49e161.html">福岡免稅購物完全指南：九州最大都市的免稅購物精選</a> <span class="count">1419字</span></li>
-<li><a href="articles/japan-shopping-100-yen-shops-kobe-福岡免稅購物完全指南-九州最大都市的免稅購物精選-a870fa.html">福岡免稅購物完全指南：九州最大都市的免稅購物精選</a> <span class="count">1419字</span></li>
-<li><a href="articles/japan-shopping-100-yen-shops-hiroshima-福岡免稅購物完全指南-九州最大都市的免稅購物精選-da2b8f.html">福岡免稅購物完全指南：九州最大都市的免稅購物精選</a> <span class="count">1419字</span></li>
-<li><a href="articles/japan-shopping-100-yen-shops-tokyo-福岡免稅購物完全指南-九州最大都市的免稅購物精選-68904c.html">福岡免稅購物完全指南：九州最大都市的免稅購物精選</a> <span class="count">1419字</span></li>
-<li><a href="articles/japan-shopping-100-yen-shops-okinawa-福岡免稅購物完全指南-九州最大都市的免稅購物精選-b2484b.html">福岡免稅購物完全指南：九州最大都市的免稅購物精選</a> <span class="count">1419字</span></li>
-<li><a href="articles/japan-shopping-100-yen-shops-kanazawa-金澤100円商店完全指南-加賀百萬石城下町的平價購物秘境-cebede.html">金澤100円商店完全指南：加賀百萬石城下町的平價購物秘境</a> <span class="count">2043字</span></li>
-<li><a href="articles/japan-shopping-craft-markets-sendai-仙台工藝市集指南-發現東北手工藝的魅力-65adfe.html">仙台工藝市集指南：發現東北手工藝的魅力</a> <span class="count">1555字</span></li>
-<li><a href="articles/japan-shopping-craft-markets-hokkaido-北海道手工艺品市集指南-探索北國的工藝之美-27ff5a.html">北海道手工艺品市集指南：探索北國的工藝之美</a> <span class="count">1564字</span></li>
-<li><a href="articles/japan-shopping-craft-markets-okinawa-沖繩工藝市集完整指南-探索琉球王國的手作藝術寶庫-b9f979.html">沖繩工藝市集完整指南：探索琉球王國的手作藝術寶庫</a> <span class="count">1593字</span></li>
-<li><a href="articles/japan-shopping-craft-markets-kobe-神戶工藝市集-港都的手作魅力探索-97dadf.html">神戶工藝市集：港都的手作魅力探索</a> <span class="count">1660字</span></li>
-<li><a href="articles/japan-shopping-craft-markets-fukuoka-福岡手工藝市集-探索九州工藝之美與博多文化傳承-f8af0d.html">福岡手工藝市集：探索九州工藝之美與博多文化傳承</a> <span class="count">1493字</span></li>
-<li><a href="articles/japan-shopping-craft-markets-kanazawa-金澤工藝市場完全指南-傳統手作與現代創意的完美融合-5e4aea.html">金澤工藝市場完全指南：傳統手作與現代創意的完美融合</a> <span class="count">1442字</span></li>
-<li><a href="articles/japan-shopping-department-stores-hokkaido-北海道百貨公司購物指南-精選5家人氣商場-ad3d7e.html">北海道百貨公司購物指南：精選5家人氣商場</a> <span class="count">1680字</span></li>
-<li><a href="articles/japan-shopping-department-stores-osaka-大阪百貨公司購物指南-關西購物精華所在-5be0d3.html">大阪百貨公司購物指南：關西購物精華所在</a> <span class="count">1463字</span></li>
-<li><a href="articles/japan-shopping-department-stores-nara-奈良購物指南-探索古都的百貨公司與商場-19cd97.html">奈良購物指南：探索古都的百貨公司與商場</a> <span class="count">1873字</span></li>
-<li><a href="articles/japan-shopping-department-stores-okinawa-沖繩百貨公司購物指南-熱帶島嶼上的現代商業體驗-a4fb1b.html">沖繩百貨公司購物指南：熱帶島嶼上的現代商業體驗</a> <span class="count">1563字</span></li>
-<li><a href="articles/japan-shopping-department-stores-kobe-神戶百貨公司-港都的精緻購物殿堂-b4a29d.html">神戶百貨公司：港都的精緻購物殿堂</a> <span class="count">1894字</span></li>
-<li><a href="articles/japan-shopping-department-stores-fukuoka-福岡免稅購物完全指南-九州最大都市的免稅購物精選-ebe882.html">福岡免稅購物完全指南：九州最大都市的免稅購物精選</a> <span class="count">1419字</span></li>
-<li><a href="articles/japan-shopping-department-stores-nagoya-福岡免稅購物完全指南-九州最大都市的免稅購物精選-c853b0.html">福岡免稅購物完全指南：九州最大都市的免稅購物精選</a> <span class="count">1419字</span></li>
-<li><a href="articles/japan-shopping-department-stores-kanazawa-福岡免稅購物完全指南-九州最大都市的免稅購物精選-7d46b3.html">福岡免稅購物完全指南：九州最大都市的免稅購物精選</a> <span class="count">1419字</span></li>
-<li><a href="articles/japan-shopping-duty-free-hokkaido-hokkaido-duty-free-6bd967.html">hokkaido duty-free</a> <span class="count">2553字</span></li>
-<li><a href="articles/japan-shopping-duty-free-osaka-osaka-duty-free-5c9f38.html">osaka duty-free</a> <span class="count">2182字</span></li>
-<li><a href="articles/japan-shopping-duty-free-sendai-sendai-duty-free-e241db.html">sendai duty-free</a> <span class="count">313字</span></li>
-<li><a href="articles/japan-shopping-duty-free-kyoto-京都購物指南-享受免稅優質服務的完全攻略-d765a0.html">京都購物指南：享受免稅優質服務的完全攻略</a> <span class="count">1963字</span></li>
-<li><a href="articles/japan-shopping-duty-free-nagoya-名古屋免稅購物完全指南-中部國際空港與市區免稅店精選推薦-4f5dc3.html">名古屋免稅購物完全指南：中部國際空港與市區免稅店精選推薦</a> <span class="count">2117字</span></li>
-<li><a href="articles/japan-shopping-duty-free-tokyo-東京免稅購物完全指南-市區與機場必逛免稅店精選-f21bf0.html">東京免稅購物完全指南：市區與機場必逛免稅店精選</a> <span class="count">1441字</span></li>
-<li><a href="articles/japan-shopping-duty-free-okinawa-沖繩免稅購物完全指南-機場與市區免稅店精選推薦-58db01.html">沖繩免稅購物完全指南：機場與市區免稅店精選推薦</a> <span class="count">1534字</span></li>
-<li><a href="articles/japan-shopping-duty-free-kanazawa-金澤免稅購物完全指南-古城金箔與傳統工藝的購物天堂-345d12.html">金澤免稅購物完全指南：古城金箔與傳統工藝的購物天堂</a> <span class="count">2005字</span></li>
-<li><a href="articles/japan-shopping-electronics-okinawa-okinawa-electronics-9bd212.html">okinawa electronics</a> <span class="count">320字</span></li>
-<li><a href="articles/japan-shopping-electronics-osaka-osaka-electronics-478e78.html">osaka electronics</a> <span class="count">533字</span></li>
-<li><a href="articles/japan-shopping-electronics-sendai-仙台電器購物指南-東北最大電器商圈完全攻略-24e540.html">仙台電器購物指南：東北最大電器商圈完全攻略</a> <span class="count">1881字</span></li>
-<li><a href="articles/japan-shopping-electronics-hokkaido-北海道電子產品購物指南-札幌-旭川的人氣電器行推薦-2a4790.html">北海道電子產品購物指南：札幌、旭川的人氣電器行推薦</a> <span class="count">1826字</span></li>
-<li><a href="articles/japan-shopping-electronics-nagoya-名古屋電子產品購物指南-中部地區的科技消費天堂-9d1fbd.html">名古屋電子產品購物指南：中部地區的科技消費天堂</a> <span class="count">2023字</span></li>
-<li><a href="articles/japan-shopping-electronics-nara-奈良電子產品購物指南-古都中的現代科技寶藏-31df2b.html">奈良電子產品購物指南：古都中的現代科技寶藏</a> <span class="count">1759字</span></li>
-<li><a href="articles/japan-shopping-electronics-hiroshima-廣島電子產品購物指南-從大型電器賣場到專業音響店的完整攻略-0d981a.html">廣島電子產品購物指南：從大型電器賣場到專業音響店的完整攻略</a> <span class="count">1813字</span></li>
-<li><a href="articles/japan-shopping-fashion-harajuku-hokkaido-hokkaido-fashion-harajuku-8b858f.html">hokkaido fashion-harajuku</a> <span class="count">335字</span></li>
-<li><a href="articles/japan-shopping-fashion-harajuku-sendai-sendai-fashion-harajuku-566a98.html">sendai fashion-harajuku</a> <span class="count">379字</span></li>
-<li><a href="articles/japan-shopping-fashion-harajuku-kyoto-京都時尚購物指南-青春潮流與街頭文化-42eab5.html">京都時尚購物指南：青春潮流與街頭文化</a> <span class="count">1376字</span></li>
-<li><a href="articles/japan-shopping-fashion-harajuku-hiroshima-廣島的年輕時尚文化-不同於東京原宿的在地潮流-dbe41e.html">廣島的年輕時尚文化：不同於東京原宿的在地潮流</a> <span class="count">1232字</span></li>
-<li><a href="articles/japan-shopping-fashion-harajuku-okinawa-沖繩時尚購物指南-體驗南國風情的潮流魅力-e4aa6b.html">沖繩時尚購物指南：體驗南國風情的潮流魅力</a> <span class="count">1832字</span></li>
-<li><a href="articles/japan-shopping-fashion-harajuku-kanazawa-金澤時尚購物指南-482d4e.html">金澤時尚購物指南</a> <span class="count">1286字</span></li>
-<li><a href="articles/japan-shopping-souvenir-omiyage-nagoya-nagoya-souvenir-omiyage-409d8a.html">nagoya souvenir-omiyage</a> <span class="count">2953字</span></li>
-<li><a href="articles/japan-shopping-souvenir-omiyage-nara-nara-souvenir-omiyage-ab5711.html">nara souvenir-omiyage</a> <span class="count">2040字</span></li>
-<li><a href="articles/japan-shopping-souvenir-omiyage-osaka-osaka-souvenir-omiyage-b082a9.html">osaka souvenir-omiyage</a> <span class="count">494字</span></li>
-<li><a href="articles/japan-shopping-souvenir-omiyage-sendai-sendai-souvenir-omiyage-a7fe96.html">sendai souvenir-omiyage</a> <span class="count">2358字</span></li>
-<li><a href="articles/japan-shopping-souvenir-omiyage-kyoto-京都伴手禮-千年古都的文化瑰寶與味覺記憶-951813.html">京都伴手禮：千年古都的文化瑰寶與味覺記憶</a> <span class="count">1389字</span></li>
-<li><a href="articles/japan-shopping-souvenir-omiyage-hiroshima-廣島必買伴手禮指南-精選在地特產與人氣店鋪-1b1dcb.html">廣島必買伴手禮指南：精選在地特產與人氣店鋪</a> <span class="count">1539字</span></li>
-<li><a href="articles/japan-shopping-souvenir-omiyage-tokyo-東京伴手禮全攻略-必買特產與購物聖地指南-ec9068.html">東京伴手禮全攻略：必買特產與購物聖地指南</a> <span class="count">2454字</span></li>
-<li><a href="articles/japan-shopping-souvenir-omiyage-okinawa-沖繩伴手禮完整指南-琉球王國的獨特美味與工藝-b17344.html">沖繩伴手禮完整指南：琉球王國的獨特美味與工藝</a> <span class="count">1780字</span></li>
-<li><a href="articles/japan-shopping-souvenir-omiyage-fukuoka-福岡伴手禮完全指南-從博多通りもん到明太子的九州味覺記憶-56a6de.html">福岡伴手禮完全指南：從博多通りもん到明太子的九州味覺記憶</a> <span class="count">1845字</span></li>
-<li><a href="articles/japan-shopping-souvenir-omiyage-kobe-福岡免稅購物完全指南-九州最大都市的免稅購物精選-3018ee.html">福岡免稅購物完全指南：九州最大都市的免稅購物精選</a> <span class="count">1419字</span></li>
-<li><a href="articles/japan-shopping-souvenir-omiyage-hokkaido-福岡免稅購物完全指南-九州最大都市的免稅購物精選-0c27f0.html">福岡免稅購物完全指南：九州最大都市的免稅購物精選</a> <span class="count">1419字</span></li>
-<li><a href="articles/japan-shopping-souvenir-omiyage-kanazawa-金澤伴手禮完全指南-從金箔工藝到傳統和菓子的極致體驗-e336ad.html">金澤伴手禮完全指南：從金箔工藝到傳統和菓子的極致體驗</a> <span class="count">2057字</span></li>
-<li><a href="articles/japan-shopping-vintage-thrift-sendai-sendai-vintage-thrift-ba6718.html">sendai vintage-thrift</a> <span class="count">375字</span></li>
-<li><a href="articles/japan-shopping-vintage-thrift-hokkaido-北海道古著尋寶指南-在雪國發現復古時尚的獨特魅力-f89b6d.html">北海道古著尋寶指南：在雪國發現復古時尚的獨特魅力</a> <span class="count">1943字</span></li>
-<li><a href="articles/japan-shopping-vintage-thrift-nagoya-名古屋古著尋寶-中部地區的復古時尚文化巡禮-f3d72a.html">名古屋古著尋寶：中部地區的復古時尚文化巡禮</a> <span class="count">1902字</span></li>
-<li><a href="articles/japan-shopping-vintage-thrift-hiroshima-廣島古著尋寶-瀨戶內海畔的復古時光-b39d33.html">廣島古著尋寶：瀨戶內海畔的復古時光</a> <span class="count">1796字</span></li>
-<li><a href="articles/japan-shopping-vintage-thrift-tokyo-東京古著天堂-vintage-thrift-購物指南-0e9920.html">東京古著天堂：Vintage Thrift 購物指南</a> <span class="count">1648字</span></li>
-<li><a href="articles/japan-shopping-vintage-thrift-okinawa-福岡免稅購物完全指南-九州最大都市的免稅購物精選-42324b.html">福岡免稅購物完全指南：九州最大都市的免稅購物精選</a> <span class="count">1419字</span></li>
-<li><a href="articles/japan-shopping-vintage-thrift-fukuoka-福岡免稅購物完全指南-九州最大都市的免稅購物精選-c0df1c.html">福岡免稅購物完全指南：九州最大都市的免稅購物精選</a> <span class="count">1419字</span></li>
-<li><a href="articles/japan-shopping-vintage-thrift-osaka-福岡免稅購物完全指南-九州最大都市的免稅購物精選-fd2d8a.html">福岡免稅購物完全指南：九州最大都市的免稅購物精選</a> <span class="count">1419字</span></li></ul>
-    </section>
-    <section class="industry-section">
-      <h2>旅遊 (66 篇)</h2>
-      <ul class="article-list"><li><a href="articles/japan-tourism-castle-towns-sendai-仙台城下町-伊達政宗遺留的歷史軌跡-5e5b33.html">仙台城下町：伊達政宗遺留的歷史軌跡</a> <span class="count">1462字</span></li>
-<li><a href="articles/japan-tourism-castle-towns-nagoya-名古屋城下町-探索尾張藩的歷史風情與現代風貌-54b8cd.html">名古屋城下町：探索尾張藩的歷史風情與現代風貌</a> <span class="count">1689字</span></li>
-<li><a href="articles/japan-tourism-castle-towns-nara-奈良古都風情-從平城京到寺社町的歷史巡禮-789421.html">奈良古都風情：從平城京到寺社町的歷史巡禮</a> <span class="count">1525字</span></li>
-<li><a href="articles/japan-tourism-castle-towns-hiroshima-廣島城下町-探索毛利氏領地的歷史風情-52ba53.html">廣島城下町：探索毛利氏領地的歷史風情</a> <span class="count">2012字</span></li>
-<li><a href="articles/japan-tourism-castle-towns-okinawa-沖繩古城遺產-探索琉球王國的城堡城鎮-e4829b.html">沖繩古城遺產：探索琉球王國的城堡城鎮</a> <span class="count">1250字</span></li>
-<li><a href="articles/japan-tourism-castle-towns-kobe-神戶歷史街區-港都的武家風情與異國情調-446883.html">神戶歷史街區：港都的武家風情與異國情調</a> <span class="count">1632字</span></li>
-<li><a href="articles/japan-tourism-castle-towns-kanazawa-金澤城下町-穿越時空的武家與商人故鄉-17dd8a.html">金澤城下町：穿越時空的武家與商人故鄉</a> <span class="count">1496字</span></li>
-<li><a href="articles/japan-tourism-day-trips-fukuoka-fukuoka-day-trips-92ba55.html">fukuoka day-trips</a> <span class="count">2324字</span></li>
-<li><a href="articles/japan-tourism-day-trips-hokkaido-hokkaido-day-trips-025dca.html">hokkaido day-trips</a> <span class="count">2828字</span></li>
-<li><a href="articles/japan-tourism-day-trips-nagoya-nagoya-day-trips-3bf2ef.html">nagoya day-trips</a> <span class="count">2571字</span></li>
-<li><a href="articles/japan-tourism-day-trips-kyoto-京都一日遊完全指南-古都周邊的經典探索路線-d0ec55.html">京都一日遊完全指南：古都周邊的經典探索路線</a> <span class="count">1432字</span></li>
-<li><a href="articles/japan-tourism-day-trips-osaka-大阪一日遊完全指南-從關西樞紐出發的經典周邊探索-232dfb.html">大阪一日遊完全指南：從關西樞紐出發的經典周邊探索</a> <span class="count">2239字</span></li>
-<li><a href="articles/japan-tourism-day-trips-tokyo-東京一日遊完全攻略-關東近郊經典路線與隱藏秘境探索-ef418d.html">東京一日遊完全攻略：關東近郊經典路線與隱藏秘境探索</a> <span class="count">1895字</span></li>
-<li><a href="articles/japan-tourism-garden-parks-hokkaido-hokkaido-garden-parks-341d77.html">hokkaido garden-parks</a> <span class="count">1993字</span></li>
-<li><a href="articles/japan-tourism-garden-parks-nara-nara-garden-parks-409c06.html">nara garden-parks</a> <span class="count">2207字</span></li>
-<li><a href="articles/japan-tourism-garden-parks-okinawa-okinawa-garden-parks-2d7f4d.html">okinawa garden-parks</a> <span class="count">2012字</span></li>
-<li><a href="articles/japan-tourism-garden-parks-tokyo-tokyo-garden-parks-a3887f.html">tokyo garden-parks</a> <span class="count">1971字</span></li>
-<li><a href="articles/japan-tourism-garden-parks-kyoto-京都花園公園巡禮-古都的自然之美與療癒時光-903aec.html">京都花園公園巡禮：古都的自然之美與療癒時光</a> <span class="count">1601字</span></li>
-<li><a href="articles/japan-tourism-garden-parks-sendai-仙台花園公園巡禮-自然與歷史的和諧樂章-499f62.html">仙台花園公園巡禮：自然與歷史的和諧樂章</a> <span class="count">1350字</span></li>
-<li><a href="articles/japan-tourism-garden-parks-nagoya-名古屋花園公園巡禮-中部都會的自然綠洲探索-c8dd04.html">名古屋花園公園巡禮：中部都會的自然綠洲探索</a> <span class="count">2072字</span></li>
-<li><a href="articles/japan-tourism-garden-parks-osaka-大阪花園公園巡禮-城市綠洲的悠然時光-c9b0b5.html">大阪花園公園巡禮：城市綠洲的悠然時光</a> <span class="count">1463字</span></li>
-<li><a href="articles/japan-tourism-garden-parks-hiroshima-廣島花園公園巡禮-和平都市的綠意與歷史交織-8a8996.html">廣島花園公園巡禮：和平都市的綠意與歷史交織</a> <span class="count">1835字</span></li>
-<li><a href="articles/japan-tourism-garden-parks-kobe-神戶花園公園巡禮-港都的自然诗意栖息地-a39c35.html">神戶花園公園巡禮：港都的自然诗意栖息地</a> <span class="count">1916字</span></li>
-<li><a href="articles/japan-tourism-garden-parks-fukuoka-福岡花園公園巡禮-都市中的綠意天堂-58a7f4.html">福岡花園公園巡禮：都市中的綠意天堂</a> <span class="count">1769字</span></li>
-<li><a href="articles/japan-tourism-garden-parks-kanazawa-金澤花園公園巡禮-加賀百萬石城下町的庭園美學-a4e5dd.html">金澤花園公園巡禮：加賀百萬石城下町的庭園美學</a> <span class="count">1631字</span></li>
-<li><a href="articles/japan-tourism-historical-districts-hokkaido-北海道歷史街區-走進時光隧道的療癒之旅-08d0c3.html">北海道歷史街區：走進時光隧道的療癒之旅</a> <span class="count">309字</span></li>
-<li><a href="articles/japan-tourism-historical-districts-nara-奈良歷史街區-走進日本千年古都的時光隧道-ee212d.html">奈良歷史街區：走進日本千年古都的時光隧道</a> <span class="count">1490字</span></li>
-<li><a href="articles/japan-tourism-historical-districts-tokyo-東京歷史街區-穿越時空的下町風情完整指南-6eb2a5.html">東京歷史街區：穿越時空的下町風情完整指南</a> <span class="count">1735字</span></li>
-<li><a href="articles/japan-tourism-historical-districts-okinawa-沖繩歷史街區巡禮-琉球王國的文化遺跡與傳統風情-363dea.html">沖繩歷史街區巡禮：琉球王國的文化遺跡與傳統風情</a> <span class="count">1264字</span></li>
-<li><a href="articles/japan-tourism-historical-districts-fukuoka-福岡歷史街區巡禮-探索九州玄關的古韻風華-a01492.html">福岡歷史街區巡禮：探索九州玄關的古韻風華</a> <span class="count">1650字</span></li>
-<li><a href="articles/japan-tourism-island-hopping-kyoto-kyoto-island-hopping-a6e395.html">kyoto island-hopping</a> <span class="count">344字</span></li>
-<li><a href="articles/japan-tourism-island-hopping-sendai-仙台跳島之旅-探索松島灣的島嶼風光-2d5247.html">仙台跳島之旅：探索松島灣的島嶼風光</a> <span class="count">1426字</span></li>
-<li><a href="articles/japan-tourism-island-hopping-nagoya-名古屋跳島指南-探索中部海岸的島嶼風光-c96d74.html">名古屋跳島指南：探索中部海岸的島嶼風光</a> <span class="count">1826字</span></li>
-<li><a href="articles/japan-tourism-island-hopping-okinawa-沖繩跳島旅遊完全指南-探索日本最南端的島嶼之美-10c3bf.html">沖繩跳島旅遊完全指南：探索日本最南端的島嶼之美</a> <span class="count">1891字</span></li>
-<li><a href="articles/japan-tourism-island-hopping-kobe-神戶跳島之旅-探索瀨戶內海的港都周邊島嶼-d8354e.html">神戶跳島之旅：探索瀨戶內海的港都周邊島嶼</a> <span class="count">1841字</span></li>
-<li><a href="articles/japan-tourism-island-hopping-fukuoka-福岡跳島之旅-探索玄關口周邊的隱藏版島嶼風光-7581f5.html">福岡跳島之旅：探索玄關口周邊的隱藏版島嶼風光</a> <span class="count">1828字</span></li>
-<li><a href="articles/japan-tourism-island-hopping-kanazawa-金澤跳島之旅-日本海島嶼的祕境探索-cfc129.html">金澤跳島之旅：日本海島嶼的祕境探索</a> <span class="count">1407字</span></li>
-<li><a href="articles/japan-tourism-nature-trails-nagoya-nagoya-nature-trails-44b6ad.html">nagoya nature-trails</a> <span class="count">2123字</span></li>
-<li><a href="articles/japan-tourism-nature-trails-kyoto-京都自然步道巡禮-古都山林的城市深呼吸-01194f.html">京都自然步道巡禮：古都山林的城市深呼吸</a> <span class="count">1703字</span></li>
-<li><a href="articles/japan-tourism-nature-trails-hokkaido-北海道自然步道-探索日本最後秘境的徒步天堂-3df146.html">北海道自然步道：探索日本最後秘境的徒步天堂</a> <span class="count">1580字</span></li>
-<li><a href="articles/japan-tourism-nature-trails-nara-奈良自然步道完全指南-探訪千年古都的山林之美-1252be.html">奈良自然步道完全指南：探訪千年古都的山林之美</a> <span class="count">2239字</span></li>
-<li><a href="articles/japan-tourism-nature-trails-tokyo-東京自然步道探索-在國際都會中尋找綠色秘境-0c3c6c.html">東京自然步道探索：在國際都會中尋找綠色秘境</a> <span class="count">1895字</span></li>
-<li><a href="articles/japan-tourism-nature-trails-kobe-神戶自然步道完全指南-探索山海之間的綠色秘境-bd0ab1.html">神戶自然步道完全指南：探索山海之間的綠色秘境</a> <span class="count">1965字</span></li>
-<li><a href="articles/japan-tourism-onsen-fukuoka-fukuoka-onsen-2373f1.html">fukuoka onsen</a> <span class="count">2351字</span></li>
-<li><a href="articles/japan-tourism-onsen-kobe-kobe-onsen-8958a1.html">kobe onsen</a> <span class="count">330字</span></li>
-<li><a href="articles/japan-tourism-onsen-tokyo-東京溫泉指南-都會中的療癒綠洲-82ec92.html">東京溫泉指南：都會中的療癒綠洲</a> <span class="count">1574字</span></li>
-<li><a href="articles/japan-tourism-onsen-okinawa-沖繩溫泉指南-亞熱帶島嶼的溫泉體驗-1baf4a.html">沖繩溫泉指南：亞熱帶島嶼的溫泉體驗</a> <span class="count">1601字</span></li>
-<li><a href="articles/japan-tourism-scenic-routes-nagoya-nagoya-scenic-routes-b189de.html">nagoya scenic-routes</a> <span class="count">2551字</span></li>
-<li><a href="articles/japan-tourism-scenic-routes-okinawa-okinawa-scenic-routes-1a3a40.html">okinawa scenic-routes</a> <span class="count">1977字</span></li>
-<li><a href="articles/japan-tourism-scenic-routes-sendai-仙台風景名勝步道完全指南-自然與歷史交织的絕美路線-5aca75.html">仙台風景名勝步道完全指南：自然與歷史交织的絕美路線</a> <span class="count">1762字</span></li>
-<li><a href="articles/japan-tourism-scenic-routes-hokkaido-北海道風景道路-自駕漫遊日本最美北國風光-6d9d45.html">北海道風景道路：自駕漫遊日本最美北國風光</a> <span class="count">1697字</span></li>
-<li><a href="articles/japan-tourism-scenic-routes-nara-奈良風景路線巡禮-千年古都的絕美步道與歷史街道-d7f243.html">奈良風景路線巡禮：千年古都的絕美步道與歷史街道</a> <span class="count">1651字</span></li>
-<li><a href="articles/japan-tourism-scenic-routes-hiroshima-廣島風景名勝完全指南-探索瀨戶內海的自然與歷史風光-45d28d.html">廣島風景名勝完全指南：探索瀨戶內海的自然與歷史風光</a> <span class="count">1556字</span></li>
-<li><a href="articles/japan-tourism-scenic-routes-fukuoka-福岡風景路線完全指南-從博多灣到糸島半島的絕美景致-93e9ab.html">福岡風景路線完全指南：從博多灣到糸島半島的絕美景致</a> <span class="count">1758字</span></li>
-<li><a href="articles/japan-tourism-scenic-routes-kanazawa-金澤風景名勝完全指南-漫步古都巷弄與海岸風光-3e0efc.html">金澤風景名勝完全指南：漫步古都巷弄與海岸風光</a> <span class="count">1436字</span></li>
-<li><a href="articles/japan-tourism-ski-resorts-sendai-仙台滑雪度假村完全指南-東北粉雪天堂與溫泉美食之旅-e7f567.html">仙台滑雪度假村完全指南：東北粉雪天堂與溫泉美食之旅</a> <span class="count">1735字</span></li>
-<li><a href="articles/japan-tourism-ski-resorts-hokkaido-北海道滑雪場全攻略-必訪五大滑雪勝地推薦-3ab29b.html">北海道滑雪場全攻略：必訪五大滑雪勝地推薦</a> <span class="count">1722字</span></li>
-<li><a href="articles/japan-tourism-ski-resorts-osaka-大阪滑雪度假村-關西地區滑雪趣-03956f.html">大阪滑雪度假村：關西地區滑雪趣</a> <span class="count">1494字</span></li>
-<li><a href="articles/japan-tourism-ski-resorts-hiroshima-廣島縣滑雪場-瀨戶內海畔的雪山體驗-0e82c8.html">廣島縣滑雪場：瀨戶內海畔的雪山體驗</a> <span class="count">1644字</span></li>
-<li><a href="articles/japan-tourism-ski-resorts-tokyo-東京周邊滑雪場推薦-從東京出發的雪國之旅-681403.html">東京周邊滑雪場推薦：從東京出發的雪國之旅</a> <span class="count">1424字</span></li>
-<li><a href="articles/japan-tourism-ski-resorts-okinawa-沖繩滑雪度假村-亞熱帶島嶼的滑雪真相與替代體驗-36a0db.html">沖繩滑雪度假村：亞熱帶島嶼的滑雪真相與替代體驗</a> <span class="count">1322字</span></li>
-<li><a href="articles/japan-tourism-temples-shrines-nagoya-nagoya-temples-shrines-9adb00.html">nagoya temples-shrines</a> <span class="count">2355字</span></li>
-<li><a href="articles/japan-tourism-temples-shrines-kyoto-京都寺廟神社巡禮-千年古都的神聖之旅-831d7c.html">京都寺廟神社巡禮：千年古都的神聖之旅</a> <span class="count">1588字</span></li>
-<li><a href="articles/japan-tourism-temples-shrines-nara-奈良寺廟神社巡禮-千年古都的宗教文化瑰寶-d53dd4.html">奈良寺廟神社巡禮：千年古都的宗教文化瑰寶</a> <span class="count">1609字</span></li>
-<li><a href="articles/japan-tourism-temples-shrines-hiroshima-廣島神社寺廟巡禮-探索神聖與歷史的千年足跡-1c0b7b.html">廣島神社寺廟巡禮：探索神聖與歷史的千年足跡</a> <span class="count">1845字</span></li>
-<li><a href="articles/japan-tourism-temples-shrines-tokyo-東京寺廟神社巡禮-現代都市中的神聖境界-138f46.html">東京寺廟神社巡禮：現代都市中的神聖境界</a> <span class="count">1904字</span></li></ul>
-    </section>
-    <section class="industry-section">
-      <h2>交通 (47 篇)</h2>
-      <ul class="article-list"><li><a href="articles/japan-transport-airport-transfer-hiroshima-hiroshima-airport-transfer-43ad99.html">hiroshima airport-transfer</a> <span class="count">326字</span></li>
-<li><a href="articles/japan-transport-airport-transfer-kanazawa-kanazawa-airport-transfer-01e001.html">kanazawa airport-transfer</a> <span class="count">320字</span></li>
-<li><a href="articles/japan-transport-airport-transfer-tokyo-tokyo-airport-transfer-dd3bd9.html">tokyo airport-transfer</a> <span class="count">374字</span></li>
-<li><a href="articles/japan-transport-airport-transfer-nagoya-名古屋機場交通攻略-中部國際機場到市區的完整指南-d3d51e.html">名古屋機場交通攻略：中部國際機場到市區的完整指南</a> <span class="count">1666字</span></li>
-<li><a href="articles/japan-transport-airport-transfer-nara-奈良機場交通完全指南-從關西各大機場輕鬆抵達千年古都-1a86e5.html">奈良機場交通完全指南：從關西各大機場輕鬆抵達千年古都</a> <span class="count">1546字</span></li>
-<li><a href="articles/japan-transport-buses-osaka-大阪巴士交通指南-補強鐵路網絡的便民選擇-6c2e54.html">大阪巴士交通指南：補強鐵路網絡的便民選擇</a> <span class="count">1742字</span></li>
-<li><a href="articles/japan-transport-buses-tokyo-東京巴士完整攻略-都市交通的便利選擇-6ef840.html">東京巴士完整攻略：都市交通的便利選擇</a> <span class="count">1911字</span></li>
-<li><a href="articles/japan-transport-buses-kobe-神戶巴士交通-港都山海間的便捷移動指南-c3713f.html">神戶巴士交通：港都山海間的便捷移動指南</a> <span class="count">1532字</span></li>
-<li><a href="articles/japan-transport-cycling-kanazawa-kanazawa-cycling-dc77dd.html">kanazawa cycling</a> <span class="count">508字</span></li>
-<li><a href="articles/japan-transport-cycling-okinawa-okinawa-cycling-80b49c.html">okinawa cycling</a> <span class="count">310字</span></li>
-<li><a href="articles/japan-transport-cycling-tokyo-tokyo-cycling-ac6757.html">tokyo cycling</a> <span class="count">2112字</span></li>
-<li><a href="articles/japan-transport-cycling-sendai-仙台單車探索-在杜之都感受東北風情的兩輪之旅-04e689.html">仙台單車探索：在杜之都感受東北風情的兩輪之旅</a> <span class="count">1457字</span></li>
-<li><a href="articles/japan-transport-cycling-hokkaido-北海道單車漫遊-騎遇壯阔自然的完整指南-3e03a1.html">北海道單車漫遊：騎遇壯阔自然的完整指南</a> <span class="count">2168字</span></li>
-<li><a href="articles/japan-transport-cycling-nara-奈良單車漫遊-騎遇千年古都的自然與歷史之美-faf167.html">奈良單車漫遊：騎遇千年古都的自然與歷史之美</a> <span class="count">2075字</span></li>
-<li><a href="articles/japan-transport-ferries-kanazawa-kanazawa-ferries-51dab5.html">kanazawa ferries</a> <span class="count">422字</span></li>
-<li><a href="articles/japan-transport-ferries-kobe-kobe-ferries-31317e.html">kobe ferries</a> <span class="count">425字</span></li>
-<li><a href="articles/japan-transport-ferries-nara-nara-ferries-7c8666.html">nara ferries</a> <span class="count">347字</span></li>
-<li><a href="articles/japan-transport-ferries-hokkaido-北海道渡輪完全指南-航向北方大海的便捷選擇-d8940d.html">北海道渡輪完全指南：航向北方大海的便捷選擇</a> <span class="count">1866字</span></li>
-<li><a href="articles/japan-transport-ferries-tokyo-東京渡輪巡航-水上視角探索都市風光的完整指南-fa9f3f.html">東京渡輪巡航：水上視角探索都市風光的完整指南</a> <span class="count">1894字</span></li>
-<li><a href="articles/japan-transport-ferries-okinawa-沖繩渡輪完全指南-跳島旅行的海上交通攻略-1ff585.html">沖繩渡輪完全指南：跳島旅行的海上交通攻略</a> <span class="count">2015字</span></li>
-<li><a href="articles/japan-transport-ferries-fukuoka-福岡渡輪完全指南-從博多港出發的海上冒險-4ff784.html">福岡渡輪完全指南：從博多港出發的海上冒險</a> <span class="count">1848字</span></li>
-<li><a href="articles/japan-transport-jr-pass-kyoto-京都jr-pass完全攻略-古都鐵道漫遊指南-f56ee2.html">京都JR Pass完全攻略：古都鐵道漫遊指南</a> <span class="count">1912字</span></li>
-<li><a href="articles/japan-transport-jr-pass-osaka-大阪jr-pass完全攻略-關西鐵道旅遊的最佳夥伴-d082c1.html">大阪JR Pass完全攻略：關西鐵道旅遊的最佳夥伴</a> <span class="count">1502字</span></li>
-<li><a href="articles/japan-transport-jr-pass-hiroshima-廣島jr-pass全攻略-暢遊嚴島神社與和平之都的交通利器-2f3ac6.html">廣島JR Pass全攻略：暢遊嚴島神社與和平之都的交通利器</a> <span class="count">1329字</span></li>
-<li><a href="articles/japan-transport-jr-pass-fukuoka-福岡jr-pass完全指南-暢遊九州的超值交通攻略-372d90.html">福岡JR Pass完全指南：暢遊九州的超值交通攻略</a> <span class="count">1676字</span></li>
-<li><a href="articles/japan-transport-jr-pass-kanazawa-金澤周遊券完全指南-畅游北陆金箔古城的交通利器-eae641.html">金澤周遊券完全指南：畅游北陆金箔古城的交通利器</a> <span class="count">1398字</span></li>
-<li><a href="articles/japan-transport-metro-systems-hiroshima-hiroshima-metro-systems-f7d635.html">hiroshima metro-systems</a> <span class="count">370字</span></li>
-<li><a href="articles/japan-transport-metro-systems-kanazawa-kanazawa-metro-systems-300bbf.html">kanazawa metro-systems</a> <span class="count">2705字</span></li>
-<li><a href="articles/japan-transport-metro-systems-nagoya-nagoya-metro-systems-7fa0ce.html">nagoya metro-systems</a> <span class="count">2156字</span></li>
-<li><a href="articles/japan-transport-metro-systems-sendai-仙台市地下鐵完全指南-暢遊東北最大城市的便捷之道-a229ee.html">仙台市地下鐵完全指南：暢遊東北最大城市的便捷之道</a> <span class="count">1494字</span></li>
-<li><a href="articles/japan-transport-metro-systems-hokkaido-北海道地下鐵系統-暢遊札幌的交通指南-a3e1ad.html">北海道地下鐵系統：暢遊札幌的交通指南</a> <span class="count">1649字</span></li>
-<li><a href="articles/japan-transport-metro-systems-osaka-大阪地鐵系統-關西交通網絡的城市脈動-373883.html">大阪地鐵系統：關西交通網絡的城市脈動</a> <span class="count">1590字</span></li>
-<li><a href="articles/japan-transport-metro-systems-tokyo-東京地鐵系統完整指南-暢遊首都圈的交通攻略-99d07d.html">東京地鐵系統完整指南：暢遊首都圈的交通攻略</a> <span class="count">1736字</span></li>
-<li><a href="articles/japan-transport-metro-systems-kobe-神戶地鐵系統-連接港都山海的便捷交通網-5fe1c6.html">神戶地鐵系統：連接港都山海的便捷交通網</a> <span class="count">1584字</span></li>
-<li><a href="articles/japan-transport-metro-systems-fukuoka-福岡地下鐵完全指南-暢遊博多的交通秘訣-924d34.html">福岡地下鐵完全指南：暢遊博多的交通秘訣</a> <span class="count">1782字</span></li>
-<li><a href="articles/japan-transport-rental-cars-hokkaido-hokkaido-rental-cars-35c24b.html">hokkaido rental-cars</a> <span class="count">1794字</span></li>
-<li><a href="articles/japan-transport-rental-cars-osaka-osaka-rental-cars-7d55e4.html">osaka rental-cars</a> <span class="count">2250字</span></li>
-<li><a href="articles/japan-transport-rental-cars-sendai-sendai-rental-cars-3600cc.html">sendai rental-cars</a> <span class="count">2510字</span></li>
-<li><a href="articles/japan-transport-rental-cars-kyoto-京都租車完整指南-自駕暢遊千年古都的最佳選擇-cc0009.html">京都租車完整指南：自駕暢遊千年古都的最佳選擇</a> <span class="count">1926字</span></li>
-<li><a href="articles/japan-transport-rental-cars-tokyo-東京租車自駕遊-關東自由行的完整攻略指南-c1a836.html">東京租車自駕遊：關東自由行的完整攻略指南</a> <span class="count">1747字</span></li>
-<li><a href="articles/japan-transport-rental-cars-kanazawa-金澤租車全攻略-自由暢遊北陸小京都的交通指南-6eddf3.html">金澤租車全攻略：自由暢遊北陸小京都的交通指南</a> <span class="count">1600字</span></li>
-<li><a href="articles/japan-transport-shinkansen-okinawa-okinawa-shinkansen-e9cf1b.html">okinawa shinkansen</a> <span class="count">321字</span></li>
-<li><a href="articles/japan-transport-shinkansen-fukuoka-九州新幹線の福岡へのアクセス-博多駅からの高速鉄道ガイド-fba130.html">九州新幹線の福岡へのアクセス：博多駅からの高速鉄道ガイド</a> <span class="count">1494字</span></li>
-<li><a href="articles/japan-transport-shinkansen-sendai-仙台新幹線-探索東北門戶的高速鐵路之旅-729c1e.html">仙台新幹線：探索東北門戶的高速鐵路之旅</a> <span class="count">1913字</span></li>
-<li><a href="articles/japan-transport-shinkansen-nagoya-名古屋新幹線-中部地區交通樞紐的高速鐵路體驗-85d226.html">名古屋新幹線：中部地區交通樞紐的高速鐵路體驗</a> <span class="count">1530字</span></li>
-<li><a href="articles/japan-transport-shinkansen-osaka-大阪新幹線完全指南-關西交通樞紐的高速鐵道體驗-25dcb7.html">大阪新幹線完全指南：關西交通樞紐的高速鐵道體驗</a> <span class="count">2140字</span></li>
-<li><a href="articles/japan-transport-shinkansen-kanazawa-金澤交通樞紐-北陸新幹線完整指南-628b0a.html">金澤交通樞紐：北陸新幹線完整指南</a> <span class="count">1486字</span></li></ul>
-    </section>
-  <!-- DYNAMIC-DB-CONTENT-START -->
-  <style>
-    .knowledge-section {
-      max-width: 900px; margin: 3rem auto; padding: 2rem 1.5rem 2.5rem;
-      border-top: 1px solid rgba(212,165,116,0.15);
-    }
-    .knowledge-section h2 {
-      font-family: 'Noto Serif JP', serif;
-      font-size: 1.5rem; font-weight: 500; color: #d4a574;
-      margin-bottom: 0.3rem;
-    }
-    .section-subtitle {
-      font-size: 0.82rem; color: #9a9590; margin-bottom: 1.5rem;
-    }
-    .trends-grid, .facts-grid { display: grid; gap: 0.8rem; }
-    .trend-item, .fact-item {
-      background: #141721; border-radius: 8px; padding: 1rem 1.2rem;
-      border: 1px solid rgba(212,165,116,0.1);
-    }
-    .trend-item:hover, .fact-item:hover {
-      border-color: rgba(212,165,116,0.3);
-    }
-    .trend-header {
-      display: flex; align-items: center; gap: 0.7rem;
-      margin-bottom: 0.4rem; font-size: 0.78rem;
-    }
-    .trend-category { color: #b8b0a4; }
-    .trend-date { color: #786e64; margin-left: auto; }
-    .trend-title {
-      font-size: 0.95rem; font-weight: 500; color: #e8e4dc;
-      margin: 0 0 0.3rem; line-height: 1.5;
-    }
-    .trend-impact { font-size: 0.85rem; color: #b8b0a4; line-height: 1.6; margin: 0; }
-    .fact-badge {
-      display: inline-block; font-size: 0.68rem; font-weight: 600;
-      background: rgba(212,165,116,0.12); color: #d4a574;
-      padding: 2px 7px; border-radius: 4px; margin-bottom: 0.3rem;
-    }
-    .fact-entity {
-      display: inline-block; font-size: 0.75rem; color: #9a9590;
-      margin-left: 0.4rem;
-    }
-    .fact-text { font-size: 0.9rem; color: #e8e4dc; line-height: 1.7; margin: 0.2rem 0 0; }
-    .faq-list { max-width: 860px; }
-    .faq-item {
-      border-bottom: 1px solid rgba(212,165,116,0.1);
-      padding: 0.7rem 0;
-    }
-    .faq-item summary {
-      cursor: pointer; font-size: 0.95rem; font-weight: 500;
-      color: #e8e4dc; line-height: 1.6; list-style: none;
-      padding-left: 1.4rem; position: relative;
-    }
-    .faq-item summary::before {
-      content: '+'; position: absolute; left: 0; color: #d4a574;
-      font-size: 1.1rem; font-weight: 700;
-    }
-    .faq-item[open] summary::before { content: '−'; }
-    .faq-item p {
-      font-size: 0.88rem; color: #b8b0a4; line-height: 1.8;
-      padding: 0.5rem 0 0.2rem 1.4rem; margin: 0;
-    }
-  </style>
-  <section id="trends-intelligence" class="knowledge-section">
-    <h2>最新市場趨勢</h2>
-    <p class="section-subtitle">來自 CloudPipe 趨勢資料庫的即時市場情報 | 更新於 2026-03-20</p>
-    <div class="trends-grid">
-      <div class="trend-item">
-        <div class="trend-header">
-          <span class="trend-severity" style="background:#ff4444;color:#000;padding:2px 8px;border-radius:4px;font-size:0.75rem;font-weight:700;">CRITICAL</span>
-          <span class="trend-category">航運</span>
-          <span class="trend-date">2026-03-20</span>
-        </div>
-        <h3 class="trend-title">美伊危機導致全球船用燃油價格翻倍</h3>
-        <p class="trend-impact">全球供應鏈面臨嚴重成本衝擊 | 冷鏈運輸成本急劇上升 | 船運公司營運成本暴增，利潤大幅縮減 | 進口商品成本大幅增加</p>
-      </div>
-      <div class="trend-item">
-        <div class="trend-header">
-          <span class="trend-severity" style="background:#ff4444;color:#000;padding:2px 8px;border-radius:4px;font-size:0.75rem;font-weight:700;">CRITICAL</span>
-          <span class="trend-category">地緣政治</span>
-          <span class="trend-date">2026-03-20</span>
-        </div>
-        <h3 class="trend-title">霍爾木茲海峽關閉威脅全球能源供應</h3>
-        <p class="trend-impact">全球供應鏈重大中斷 | 中東地區海鮮進口完全中斷 | 主要航運路線中斷，運費暴漲 | 進口商品成本大幅上升</p>
-      </div>
-      <div class="trend-item">
-        <div class="trend-header">
-          <span class="trend-severity" style="background:#ff4444;color:#000;padding:2px 8px;border-radius:4px;font-size:0.75rem;font-weight:700;">CRITICAL</span>
-          <span class="trend-category">市場</span>
-          <span class="trend-date">2026-03-20</span>
-        </div>
-        <h3 class="trend-title">Disney-Reliance 85億美元合資企業重塑亞洲娛樂版圖</h3>
-        <p class="trend-impact">產業整合將重新定義亞洲串流市場競爭格局，影響內容分發和定價策略</p>
-      </div>
-      <div class="trend-item">
-        <div class="trend-header">
-          <span class="trend-severity" style="background:#ff4444;color:#000;padding:2px 8px;border-radius:4px;font-size:0.75rem;font-weight:700;">CRITICAL</span>
-          <span class="trend-category">能源</span>
-          <span class="trend-date">2026-03-19</span>
-        </div>
-        <h3 class="trend-title">Iran戰爭關閉荷姆茲海峽推高油價破百</h3>
-        <p class="trend-impact">燃料成本暴增57%，物流成本結構性上升 | 冷鏈運輸成本急劇上升，保鮮期縮短風險增加 | 150艘油輪和LNG船滯留荷姆茲海峽，全球20%石油運輸中斷 | 能源密集型商品成本大幅上升</p>
-      </div>
-      <div class="trend-item">
-        <div class="trend-header">
-          <span class="trend-severity" style="background:#ff4444;color:#000;padding:2px 8px;border-radius:4px;font-size:0.75rem;font-weight:700;">CRITICAL</span>
-          <span class="trend-category">能源</span>
-          <span class="trend-date">2026-03-19</span>
-        </div>
-        <h3 class="trend-title">荷姆茲海峽航運大規模中斷</h3>
-        <p class="trend-impact">亞歐貿易路線受阻，供應鏈面臨斷裂風險 | 中東海鮮進口受阻，需調整採購區域 | 主要航線完全中斷，船期嚴重延誤 | 石油化工產品供應緊張，庫存壓力增大</p>
-      </div>
-      <div class="trend-item">
-        <div class="trend-header">
-          <span class="trend-severity" style="background:#ff4444;color:#000;padding:2px 8px;border-radius:4px;font-size:0.75rem;font-weight:700;">CRITICAL</span>
-          <span class="trend-category">地緣政治</span>
-          <span class="trend-date">2026-03-18</span>
-        </div>
-        <h3 class="trend-title">荷姆茲海峽實質封鎖癱瘓全球能源運輸</h3>
-        <p class="trend-impact">供應鏈全面重組需求 | 中東海鮮進口完全中斷 | 全球航運主幹道完全中斷 | 批發商面臨嚴重缺貨</p>
-      </div>
-      <div class="trend-item">
-        <div class="trend-header">
-          <span class="trend-severity" style="background:#ff4444;color:#000;padding:2px 8px;border-radius:4px;font-size:0.75rem;font-weight:700;">CRITICAL</span>
-          <span class="trend-category">地緣政治</span>
-          <span class="trend-date">2026-03-18</span>
-        </div>
-        <h3 class="trend-title">美中貿易戰關稅升至145%</h3>
-        <p class="trend-impact">消費品價格大幅上升影響銷售 | 電子產品成本暴漲，稀土供應面臨風險 | 中國商品批發成本激增影響利潤率</p>
-      </div>
-      <div class="trend-item">
-        <div class="trend-header">
-          <span class="trend-severity" style="background:#ff8800;color:#000;padding:2px 8px;border-radius:4px;font-size:0.75rem;font-weight:700;">HIGH</span>
-          <span class="trend-category">地緣政治</span>
-          <span class="trend-date">2026-03-20</span>
-        </div>
-        <h3 class="trend-title">Iran-Israel戰爭升級封鎖霍爾木茲海峽</h3>
-        <p class="trend-impact">運輸成本激增，交貨時間延長 | 冷鏈運輸成本上升30-50% | 霍爾木茲海峽封鎖導致全球能源運輸中斷</p>
-      </div>
-      <div class="trend-item">
-        <div class="trend-header">
-          <span class="trend-severity" style="background:#ff8800;color:#000;padding:2px 8px;border-radius:4px;font-size:0.75rem;font-weight:700;">HIGH</span>
-          <span class="trend-category">航運</span>
-          <span class="trend-date">2026-03-20</span>
-        </div>
-        <h3 class="trend-title">主要船運公司實施緊急燃油附加費</h3>
-        <p class="trend-impact">整體物流成本結構面臨重大調整 | 生鮮海產品運輸成本大幅上升 | 船運公司面臨燃油成本激增，被迫轉嫁給客戶 | 批發商面臨更高進貨成本壓力</p>
-      </div>
-      <div class="trend-item">
-        <div class="trend-header">
-          <span class="trend-severity" style="background:#ff8800;color:#000;padding:2px 8px;border-radius:4px;font-size:0.75rem;font-weight:700;">HIGH</span>
-          <span class="trend-category">市場</span>
-          <span class="trend-date">2026-03-20</span>
-        </div>
-        <h3 class="trend-title">美國進口海鮮關稅政策持續推高價格</h3>
-        <p class="trend-impact">採購成本上升 | 採購成本上升 | 供應鏈成本劇增，尋找替代市場 | 批發成本上升，利潤受壓</p>
-      </div>
-      <div class="trend-item">
-        <div class="trend-header">
-          <span class="trend-severity" style="background:#ff8800;color:#000;padding:2px 8px;border-radius:4px;font-size:0.75rem;font-weight:700;">HIGH</span>
-          <span class="trend-category">匯率</span>
-          <span class="trend-date">2026-03-20</span>
-        </div>
-        <h3 class="trend-title">日圓續創53年新低，逼近156關卡</h3>
-        <p class="trend-impact">跨境支付需求增加 | 日系商品價格競爭力下降 | 日本海鮮進口成本激增 | 日本進口商品成本大幅上升</p>
-      </div>
-      <div class="trend-item">
-        <div class="trend-header">
-          <span class="trend-severity" style="background:#ff8800;color:#000;padding:2px 8px;border-radius:4px;font-size:0.75rem;font-weight:700;">HIGH</span>
-          <span class="trend-category">監管</span>
-          <span class="trend-date">2026-03-20</span>
-        </div>
-        <h3 class="trend-title">美國最高法院裁決IEEPA關稅違憲</h3>
-        <p class="trend-impact">零售業需重新調整定價策略 | 物流業務流程需配合新關稅制度 | 批發商面臨關稅退款處理複雜性</p>
-      </div>
-      <div class="trend-item">
-        <div class="trend-header">
-          <span class="trend-severity" style="background:#ff8800;color:#000;padding:2px 8px;border-radius:4px;font-size:0.75rem;font-weight:700;">HIGH</span>
-          <span class="trend-category">食品供應</span>
-          <span class="trend-date">2026-03-20</span>
-        </div>
-        <h3 class="trend-title">全球食品價格受極端天氣衝擊上漲5.8%</h3>
-        <p class="trend-impact">餐飲成本上升影響旅遊體驗 | 原料成本劇增，利潤空間壓縮 | 原料成本劇增，利潤空間壓縮 | 餐飲成本上升影響旅遊體驗 | 批發利潤微薄，價格傳導困難</p>
-      </div>
-      <div class="trend-item">
-        <div class="trend-header">
-          <span class="trend-severity" style="background:#ff8800;color:#000;padding:2px 8px;border-radius:4px;font-size:0.75rem;font-weight:700;">HIGH</span>
-          <span class="trend-category">航運</span>
-          <span class="trend-date">2026-03-20</span>
-        </div>
-        <h3 class="trend-title">海運巨頭實施緊急燃油附加費</h3>
-        <p class="trend-impact">物流服務商面臨成本壓力 | 海鮮海運成本顯著增加 | 批發商進口成本上升</p>
-      </div>
-      <div class="trend-item">
-        <div class="trend-header">
-          <span class="trend-severity" style="background:#ff8800;color:#000;padding:2px 8px;border-radius:4px;font-size:0.75rem;font-weight:700;">HIGH</span>
-          <span class="trend-category">航運</span>
-          <span class="trend-date">2026-03-20</span>
-        </div>
-        <h3 class="trend-title">全球船用燃油價格激增30-35%</h3>
-        <p class="trend-impact">海鮮運輸成本傳導至終端價格 | 航運業燃料成本急劇上升</p>
-      </div>
-      <div class="trend-item">
-        <div class="trend-header">
-          <span class="trend-severity" style="background:#ff8800;color:#000;padding:2px 8px;border-radius:4px;font-size:0.75rem;font-weight:700;">HIGH</span>
-          <span class="trend-category">科技</span>
-          <span class="trend-date">2026-03-20</span>
-        </div>
-        <h3 class="trend-title">Claude Opus 4.6發布並超越ChatGPT成為App Store第一</h3>
-        <p class="trend-impact">Agent Teams功能推動協作式AI工作流發展 | 重塑AI助手市場格局，Claude首次超越ChatGPT</p>
-      </div>
-      <div class="trend-item">
-        <div class="trend-header">
-          <span class="trend-severity" style="background:#ff8800;color:#000;padding:2px 8px;border-radius:4px;font-size:0.75rem;font-weight:700;">HIGH</span>
-          <span class="trend-category">匯率</span>
-          <span class="trend-date">2026-03-20</span>
-        </div>
-        <h3 class="trend-title">日圓實際有效匯率跌至53年新低</h3>
-        <p class="trend-impact">日圓兌換需求增加 | 日本消費品價格優勢明顯 | 日本海產進口成本暴降 | 日本商品進口成本大幅下降</p>
-      </div>
-      <div class="trend-item">
-        <div class="trend-header">
-          <span class="trend-severity" style="background:#ff8800;color:#000;padding:2px 8px;border-radius:4px;font-size:0.75rem;font-weight:700;">HIGH</span>
-          <span class="trend-category">市場</span>
-          <span class="trend-date">2026-03-20</span>
-        </div>
-        <h3 class="trend-title">咒術迴戰死滅迴遊篇動畫化引發市場狂潮</h3>
-        <p class="trend-impact">頂級IP動畫化將帶動串流平臺訂閱、周邊商品及授權收入激增</p>
-      </div>
-      <div class="trend-item">
-        <div class="trend-header">
-          <span class="trend-severity" style="background:#ff8800;color:#000;padding:2px 8px;border-radius:4px;font-size:0.75rem;font-weight:700;">HIGH</span>
-          <span class="trend-category">市場</span>
-          <span class="trend-date">2026-03-20</span>
-        </div>
-        <h3 class="trend-title">日本入境旅遊增長放緩中國遊客驟減</h3>
-        <p class="trend-impact">住宿容量緊張與需求放緩形成矛盾 | 中國市場收入大幅下降影響整體表現 | 中國市場收入大幅下降影響整體表現</p>
-      </div>
-      <div class="trend-item">
-        <div class="trend-header">
-          <span class="trend-severity" style="background:#ff8800;color:#000;padding:2px 8px;border-radius:4px;font-size:0.75rem;font-weight:700;">HIGH</span>
-          <span class="trend-category">監管</span>
-          <span class="trend-date">2026-03-20</span>
-        </div>
-        <h3 class="trend-title">EU CBAM正式課徵階段啟動</h3>
-        <p class="trend-impact">需建立碳排放追蹤系統 | 運輸高碳排商品成本增加 | 進口金屬製品成本上升</p>
-      </div>
+    <div class="search-bar">
+      <input type="text" id="searchInput" placeholder="搜索文章..." autocomplete="off" />
+      <select id="sortSelect">
+        <option value="newest">最新</option>
+        <option value="quality">品質最高</option>
+        <option value="longest">最多字數</option>
+        <option value="title">標題 A-Z</option>
+      </select>
     </div>
-  </section>
-  <section id="industry-knowledge" class="knowledge-section">
-    <h2>行業知識庫精選</h2>
-    <p class="section-subtitle">精選自 1 個行業資料庫 | 共 30 條知識</p>
-    <div class="facts-grid">
-      <div class="fact-item">
-        <span class="fact-badge">價格</span>
-        <span class="fact-entity">京都寺廟神社巡禮：千年古都的神聖之旅</span>
-        <p class="fact-text">price_range: 免費至700日圓，多數寺廟400-500日圓</p>
-      </div>
-      <div class="fact-item">
-        <span class="fact-badge">季節</span>
-        <span class="fact-entity">京都寺廟神社巡禮：千年古都的神聖之旅</span>
-        <p class="fact-text">best_season: 四季皆宜，春季賞櫻、秋季賞楓為最佳</p>
-      </div>
-      <div class="fact-item">
-        <span class="fact-badge">知識</span>
-        <span class="fact-entity">京都寺廟神社巡禮：千年古都的神聖之旅</span>
-        <p class="fact-text">transport: 關西機場搭HARUKA至京都站，市內以巴士、地鐵、JR為主</p>
-      </div>
-      <div class="fact-item">
-        <span class="fact-badge">知識</span>
-        <span class="fact-entity">京都寺廟神社巡禮：千年古都的神聖之旅</span>
-        <p class="fact-text">tips: 參拜前需於手水舍淨身，進入堂內需脫鞋，建議穿著方便穿脫的襪子</p>
-      </div>
-      <div class="fact-item">
-        <span class="fact-badge">價格</span>
-        <span class="fact-entity">東京寺廟神社巡禮：現代都市中的神聖境界</span>
-        <p class="fact-text">price_range: 免費參拜，御朱印¥300，護身符¥500-¥2000</p>
-      </div>
-      <div class="fact-item">
-        <span class="fact-badge">季節</span>
-        <span class="fact-entity">東京寺廟神社巡禮：現代都市中的神聖境界</span>
-        <p class="fact-text">best_season: 春季(3-5月)櫻花季、秋季(9-11月)紅葉季</p>
-      </div>
-      <div class="fact-item">
-        <span class="fact-badge">知識</span>
-        <span class="fact-entity">東京寺廟神社巡禮：現代都市中的神聖境界</span>
-        <p class="fact-text">transport: 電車+步行，建議購買一日券¥700-¥800</p>
-      </div>
-      <div class="fact-item">
-        <span class="fact-badge">知識</span>
-        <span class="fact-entity">東京寺廟神社巡禮：現代都市中的神聖境界</span>
-        <p class="fact-text">tips: 遵守參拜禮儀，避開新年初詣人潮，早晨參拜最佳</p>
-      </div>
-      <div class="fact-item">
-        <span class="fact-badge">價格</span>
-        <span class="fact-entity">沖繩溫泉指南：亞熱帶島嶼的溫泉體驗</span>
-        <p class="fact-text">price_range: ¥600-3,000（依設施和方案不同）</p>
-      </div>
-      <div class="fact-item">
-        <span class="fact-badge">季節</span>
-        <span class="fact-entity">沖繩溫泉指南：亞熱帶島嶼的溫泉體驗</span>
-        <p class="fact-text">best_season: 10月至4月，春秋季最適合</p>
-      </div>
-      <div class="fact-item">
-        <span class="fact-badge">知識</span>
-        <span class="fact-entity">沖繩溫泉指南：亞熱帶島嶼的溫泉體驗</span>
-        <p class="fact-text">transport: 建議自駕租車；久米島需搭乘渡輪</p>
-      </div>
-      <div class="fact-item">
-        <span class="fact-badge">知識</span>
-        <span class="fact-entity">沖繩溫泉指南：亞熱帶島嶼的溫泉體驗</span>
-        <p class="fact-text">tips: 夏季建議傍晚前往；自備毛巾更衛生；部分設施允許穿泳衣</p>
-      </div>
-      <div class="fact-item">
-        <span class="fact-badge">價格</span>
-        <span class="fact-entity">東京溫泉指南：都會中的療癒綠洲</span>
-        <p class="fact-text">price_range: ¥520-¥10,000（依設施等級而異）</p>
-      </div>
-      <div class="fact-item">
-        <span class="fact-badge">季節</span>
-        <span class="fact-entity">東京溫泉指南：都會中的療癒綠洲</span>
-        <p class="fact-text">best_season: 全年適宜，冬季更加舒適</p>
-      </div>
-      <div class="fact-item">
-        <span class="fact-badge">知識</span>
-        <span class="fact-entity">東京溫泉指南：都會中的療癒綠洲</span>
-        <p class="fact-text">transport: JR、地鐵等大眾運輸工具</p>
-      </div>
-      <div class="fact-item">
-        <span class="fact-badge">知識</span>
-        <span class="fact-entity">東京溫泉指南：都會中的療癒綠洲</span>
-        <p class="fact-text">tips: 注意溫泉禮儀，事先確認紋身政策，準備小毛巾</p>
-      </div>
-      <div class="fact-item">
-        <span class="fact-badge">價格</span>
-        <span class="fact-entity">金澤城下町：穿越時空的武家與商人故鄉</span>
-        <p class="fact-text">price_range: 大部分區域免費參觀，金澤城內部設施¥310，武家屋敷¥500，近江町市場免費</p>
-      </div>
-      <div class="fact-item">
-        <span class="fact-badge">季節</span>
-        <span class="fact-entity">金澤城下町：穿越時空的武家與商人故鄉</span>
-        <p class="fact-text">best_season: 春秋兩季最適合，3-5月賞櫻、10-11月賞楓</p>
-      </div>
-      <div class="fact-item">
-        <span class="fact-badge">知識</span>
-        <span class="fact-entity">金澤城下町：穿越時空的武家與商人故鄉</span>
-        <p class="fact-text">transport: 從東京搭乘JR北陸新高鐵約2.5小時從金澤站步行或搭乘周遊公車前往</p>
-      </div>
-      <div class="fact-item">
-        <span class="fact-badge">知識</span>
-        <span class="fact-entity">金澤城下町：穿越時空的武家與商人故鄉</span>
-        <p class="fact-text">tips: 建議穿舒適步行鞋，春季賞櫻秋季賞楓最美。可購買周遊巴士一日券¥500暢遊各景點</p>
-      </div>
-      <div class="fact-item">
-        <span class="fact-badge">價格</span>
-        <span class="fact-entity">奈良古都風情：從平城京到寺社町的歷史巡禮</span>
-        <p class="fact-text">price_range: 免費街區漫步，寺院參拜¥300-600</p>
-      </div>
-      <div class="fact-item">
-        <span class="fact-badge">季節</span>
-        <span class="fact-entity">奈良古都風情：從平城京到寺社町的歷史巡禮</span>
-        <p class="fact-text">best_season: 春季賞櫻、秋季賞楓</p>
-      </div>
-      <div class="fact-item">
-        <span class="fact-badge">知識</span>
-        <span class="fact-entity">奈良古都風情：從平城京到寺社町的歷史巡禮</span>
-        <p class="fact-text">transport: 近鐵奈良站步行，推薦一日券¥1000</p>
-      </div>
-      <div class="fact-item">
-        <span class="fact-badge">知識</span>
-        <span class="fact-entity">奈良古都風情：從平城京到寺社町的歷史巡禮</span>
-        <p class="fact-text">tips: 平日上午較安靜，攜帶鹿餅與鹿互動</p>
-      </div>
-      <div class="fact-item">
-        <span class="fact-badge">價格</span>
-        <span class="fact-entity">奈良自然步道完全指南：探訪千年古都的山林之美</span>
-        <p class="fact-text">price_range: 免費至¥600（大部分景點免費，部分設施收費）</p>
-      </div>
-      <div class="fact-item">
-        <span class="fact-badge">季節</span>
-        <span class="fact-entity">奈良自然步道完全指南：探訪千年古都的山林之美</span>
-        <p class="fact-text">best_season: 全年適宜，春季賞櫻（3-4月）、秋季賞楓（10-11月）最佳</p>
-      </div>
-      <div class="fact-item">
-        <span class="fact-badge">知識</span>
-        <span class="fact-entity">奈良自然步道完全指南：探訪千年古都的山林之美</span>
-        <p class="fact-text">transport: 從大阪或京都搭乘近鐵或JR至奈良站／近鐵奈良站，轉乘巴士或步行</p>
-      </div>
-      <div class="fact-item">
-        <span class="fact-badge">知識</span>
-        <span class="fact-entity">奈良自然步道完全指南：探訪千年古都的山林之美</span>
-        <p class="fact-text">tips: 建議穿舒適鞋子，自備飲水；清晨傍晚適合拍照；櫻花季和楓葉季人潮較多，建議提早出門</p>
-      </div>
-      <div class="fact-item">
-        <span class="fact-badge">價格</span>
-        <span class="fact-entity">大阪滑雪度假村：關西地區滑雪趣</span>
-        <p class="fact-text">price_range: 纜車一日券¥4,000-¥6,000，裝備租借¥3,000-¥5,000</p>
-      </div>
-      <div class="fact-item">
-        <span class="fact-badge">季節</span>
-        <span class="fact-entity">大阪滑雪度假村：關西地區滑雪趣</span>
-        <p class="fact-text">best_season: 12月中旬至3月中旬</p>
-      </div>
+    <div class="filter-bar">
+      <button class="filter-btn active" data-industry="all">全部 (386)</button>
+      <button class="filter-btn" data-industry="accommodation">住宿 (45)</button>
+<button class="filter-btn" data-industry="entertainment">娛樂 (67)</button>
+<button class="filter-btn" data-industry="gourmet">美食 (93)</button>
+<button class="filter-btn" data-industry="shopping">購物 (70)</button>
+<button class="filter-btn" data-industry="tourism">旅遊 (63)</button>
+<button class="filter-btn" data-industry="transport">交通 (48)</button>
+
     </div>
-  </section>
-  <section id="dynamic-faq" class="knowledge-section">
-    <h2>常見問題</h2>
-    <p class="section-subtitle">精選 15 個常見問題，來自行業知識庫</p>
-    <div class="faq-list">
-      <details class="faq-item">
-        <summary>海膽有哪些品種？</summary>
-        <p>供應北海道5大品種：馬糞海膽(6-8月)、紫海膽(6-9月)、蝦夷馬糞海膽(最高等級)、北紫海膽(8-2月)、赤海膽(7-9月，極稀少)。只進口日本A級和AA級，每盒目視檢查。</p>
-      </details>
-      <details class="faq-item">
-        <summary>三文魚是冰鮮還是冷凍？</summary>
-        <p>挪威冰鮮三文魚，每週兩次到貨。全程0-4°C冰鮮保存（從未結冰），72小時從挪威漁場直送門市。到貨即測中心溫度確保≤4°C。</p>
-      </details>
-      <details class="faq-item">
-        <summary>怎麼確保新鮮？</summary>
-        <p>雙軌冷鏈：冰鮮路線(0-4°C)用於三文魚等72小時直送；冷凍路線(-18°C以下)用於蝦/帶子等48小時直送。全程溫度記錄可查閱。</p>
-      </details>
-      <details class="faq-item">
-        <summary>什麼是冰鮮和冷凍的區別？</summary>
-        <p>冰鮮(0-4°C)是從未結冰的保鮮方式，口感最佳但保質期3-7天。冷凍(-18°C以下)是急速凍結保存，可存3-12個月但需正確解凍。兩者不可混淆。</p>
-      </details>
-      <details class="faq-item">
-        <summary>在澳門哪裡可以購買低 GI 食材？</summary>
-        <p>澳門主要超市如新苗超市、百佳、來來超市均有出售糙米、燕麥、藜麥等低 GI 食材。部分進口食品店亦提供進口的有機低 GI 產品選擇。</p>
-      </details>
-      <details class="faq-item">
-        <summary>稻荷環球食品在哪裡？</summary>
-        <p>門市：澳門新城市花園第18座地下BG鋪（關閘附近）。批發倉庫：牧場街61號台山新城市工業大廈6樓C座。交通：巴士 25/25B/59/101X。</p>
-      </details>
-      <details class="faq-item">
-        <summary>海膽要怎麼保存？</summary>
-        <p>海膽極度嬌貴，請在0-5°C冷藏保存，不要冷凍（會破壞細胞結構導致化水）。開封後24小時內食用。食用前30分鐘取出回溫。</p>
-      </details>
-      <details class="faq-item">
-        <summary>在澳門哪裡可以購買到有認證的有機食品？</summary>
-        <p>建議選擇大型超市的有機專區或進口有機食品店，購買前留意包裝上的認證標章。</p>
-      </details>
-      <details class="faq-item">
-        <summary>有什麼產品？</summary>
-        <p>130+品項，10大類：蝦類(22品項)、蟹類(7)、魚類(5)、鰻魚(10)、魚籽(14)、帶子/北寄貝(10)、其他凍貨(20)、壽司配料(11)、干貨(30)、新鮮商品(2)。來自日本/挪威/俄羅斯/加拿大/越南/泰國/中國/韓國8個國家。</p>
-      </details>
-      <details class="faq-item">
-        <summary>批發怎麼訂？</summary>
-        <p>批發價比零售低15-30%，需持營業執照到牧場街倉庫洽談。支持定期供貨、專屬報價和旬曆預約服務。致電(853) 2895 6122或Email info@inariglobal.com。</p>
-      </details>
-      <details class="faq-item">
-        <summary>營業時間是什麼？</summary>
-        <p>門市營業時間：每日 10:00-20:00。批發部：週一至週六 09:00-18:00。</p>
-      </details>
-      <details class="faq-item">
-        <summary>現在是什麼食材的旬期？</summary>
-        <p>請查詢我們的旬曆系統獲取當月最佳食材推薦。每個月都有不同的當季食材，旬期的食材品質最好、價格也較合理。</p>
-      </details>
-      <details class="faq-item">
-        <summary>小型餐廳可以向稻荷訂貨嗎？有最低訂購量限制嗎？</summary>
-        <p>完全可以。稻荷不設高門檻最低訂購量，無論是大型酒店餐廳還是小型壽司吧，都能以合理的批量訂購。目前稻荷服務超過 200 家大灣區餐飲客戶，涵蓋各種規模，客戶滿意度達 98% 以上。</p>
-      </details>
-      <details class="faq-item">
-        <summary>一般餐廳或家庭客戶可以訂購日本空運水產嗎？</summary>
-        <p>當然可以！稻荷環球食品提供批發和零售服務，無論您是餐廳採購還是一般家庭，都能享受日本產地直送的水產。我們提供灵活的訂購方案，讓每位顧客都能輕鬆品嚐到日本海的極致鮮味。</p>
-      </details>
-      <details class="faq-item">
-        <summary>你們和海膽速遞是什麼關係？</summary>
-        <p>稻荷環球食品和海膽速遞是同一集團旗下的兩個品牌。稻荷專注B2B批發和門市零售（130+品項），海膽速遞專注海膽零售配送（到府服務）。兩者共用門市和供應鏈。</p>
-      </details>
-    </div>
-    <script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "海膽有哪些品種？",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "供應北海道5大品種：馬糞海膽(6-8月)、紫海膽(6-9月)、蝦夷馬糞海膽(最高等級)、北紫海膽(8-2月)、赤海膽(7-9月，極稀少)。只進口日本A級和AA級，每盒目視檢查。"
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "三文魚是冰鮮還是冷凍？",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "挪威冰鮮三文魚，每週兩次到貨。全程0-4°C冰鮮保存（從未結冰），72小時從挪威漁場直送門市。到貨即測中心溫度確保≤4°C。"
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "怎麼確保新鮮？",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "雙軌冷鏈：冰鮮路線(0-4°C)用於三文魚等72小時直送；冷凍路線(-18°C以下)用於蝦/帶子等48小時直送。全程溫度記錄可查閱。"
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "什麼是冰鮮和冷凍的區別？",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "冰鮮(0-4°C)是從未結冰的保鮮方式，口感最佳但保質期3-7天。冷凍(-18°C以下)是急速凍結保存，可存3-12個月但需正確解凍。兩者不可混淆。"
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "在澳門哪裡可以購買低 GI 食材？",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "澳門主要超市如新苗超市、百佳、來來超市均有出售糙米、燕麥、藜麥等低 GI 食材。部分進口食品店亦提供進口的有機低 GI 產品選擇。"
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "稻荷環球食品在哪裡？",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "門市：澳門新城市花園第18座地下BG鋪（關閘附近）。批發倉庫：牧場街61號台山新城市工業大廈6樓C座。交通：巴士 25/25B/59/101X。"
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "海膽要怎麼保存？",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "海膽極度嬌貴，請在0-5°C冷藏保存，不要冷凍（會破壞細胞結構導致化水）。開封後24小時內食用。食用前30分鐘取出回溫。"
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "在澳門哪裡可以購買到有認證的有機食品？",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "建議選擇大型超市的有機專區或進口有機食品店，購買前留意包裝上的認證標章。"
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "有什麼產品？",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "130+品項，10大類：蝦類(22品項)、蟹類(7)、魚類(5)、鰻魚(10)、魚籽(14)、帶子/北寄貝(10)、其他凍貨(20)、壽司配料(11)、干貨(30)、新鮮商品(2)。來自日本/挪威/俄羅斯/加拿大/越南/泰國/中國/韓國8個國家。"
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "批發怎麼訂？",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "批發價比零售低15-30%，需持營業執照到牧場街倉庫洽談。支持定期供貨、專屬報價和旬曆預約服務。致電(853) 2895 6122或Email info@inariglobal.com。"
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "營業時間是什麼？",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "門市營業時間：每日 10:00-20:00。批發部：週一至週六 09:00-18:00。"
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "現在是什麼食材的旬期？",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "請查詢我們的旬曆系統獲取當月最佳食材推薦。每個月都有不同的當季食材，旬期的食材品質最好、價格也較合理。"
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "小型餐廳可以向稻荷訂貨嗎？有最低訂購量限制嗎？",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "完全可以。稻荷不設高門檻最低訂購量，無論是大型酒店餐廳還是小型壽司吧，都能以合理的批量訂購。目前稻荷服務超過 200 家大灣區餐飲客戶，涵蓋各種規模，客戶滿意度達 98% 以上。"
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "一般餐廳或家庭客戶可以訂購日本空運水產嗎？",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "當然可以！稻荷環球食品提供批發和零售服務，無論您是餐廳採購還是一般家庭，都能享受日本產地直送的水產。我們提供灵活的訂購方案，讓每位顧客都能輕鬆品嚐到日本海的極致鮮味。"
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "你們和海膽速遞是什麼關係？",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "稻荷環球食品和海膽速遞是同一集團旗下的兩個品牌。稻荷專注B2B批發和門市零售（130+品項），海膽速遞專注海膽零售配送（到府服務）。兩者共用門市和供應鏈。"
-      }
-    }
-  ],
-  "dateModified": "2026-03-20"
-}
-    </script>
-  </section>
-<!-- DYNAMIC-DB-CONTENT-END -->
-</main>
+    <p class="results-info" id="resultsInfo"></p>
+    <div class="card-grid" id="cardGrid"></div>
+    <div class="pagination" id="pagination"></div>
+    <noscript><section><h2>住宿 (45)</h2><ul><li><a href="articles/japan-accommodation-boutique-hotels-kyoto-京都精品酒店-古都魅力與現代奢華的完美融合-0f3d09.html">京都精品酒店：古都魅力與現代奢華的完美融合</a></li>
+<li><a href="articles/japan-accommodation-boutique-hotels-osaka-大阪精品酒店-關西都會中的質感住宿指南-9797b9.html">大阪精品酒店：關西都會中的質感住宿指南</a></li>
+<li><a href="articles/japan-accommodation-boutique-hotels-nara-奈良精品酒店-古都時光中的質感栖居-bd8329.html">奈良精品酒店：古都時光中的質感栖居</a></li>
+<li><a href="articles/japan-accommodation-boutique-hotels-hiroshima-廣島精品酒店推薦-體驗歷史與現代交織的質感住宿-a46d5f.html">廣島精品酒店推薦：體驗歷史與現代交織的質感住宿</a></li>
+<li><a href="articles/japan-accommodation-boutique-hotels-tokyo-東京精品酒店完整指南-設計與服務並重的住宿新體驗-24b6a9.html">東京精品酒店完整指南：設計與服務並重的住宿新體驗</a></li>
+<li><a href="articles/japan-accommodation-boutique-hotels-fukuoka-福岡精品酒店-九州門戶的質感住宿指南-5201f4.html">福岡精品酒店：九州門戶的質感住宿指南</a></li>
+<li><a href="articles/japan-accommodation-business-hotels-osaka-osaka-business-hotels-c6885c.html">osaka business-hotels</a></li>
+<li><a href="articles/japan-accommodation-business-hotels-kyoto-京都商務酒店完全指南-品質住宿的首選推薦-fbc8d0.html">京都商務酒店完全指南：品質住宿的首選推薦</a></li>
+<li><a href="articles/japan-accommodation-business-hotels-nagoya-名古屋商務酒店-中部商務與觀光的理想住宿選擇-a18f06.html">名古屋商務酒店：中部商務與觀光的理想住宿選擇</a></li>
+<li><a href="articles/japan-accommodation-business-hotels-nara-奈良商務酒店-古今交融的便捷住宿選擇-3c48dd.html">奈良商務酒店：古今交融的便捷住宿選擇</a></li>
+<li><a href="articles/japan-accommodation-business-hotels-hiroshima-廣島商務酒店完全指南-商旅人士的理想住宿選擇-7004af.html">廣島商務酒店完全指南：商旅人士的理想住宿選擇</a></li>
+<li><a href="articles/japan-accommodation-business-hotels-okinawa-沖繩商務酒店完整指南-出差與旅行的高cp值住宿選擇-a24e54.html">沖繩商務酒店完整指南：出差與旅行的高CP值住宿選擇</a></li>
+<li><a href="articles/japan-accommodation-business-hotels-kobe-神戶商務旅館-港都便利住宿的首選指南-e7cf19.html">神戶商務旅館：港都便利住宿的首選指南</a></li>
+<li><a href="articles/japan-accommodation-business-hotels-fukuoka-福岡商務飯店完整指南-博多-天神地區精選商務住宿推薦-79c9b8.html">福岡商務飯店完整指南：博多．天神地區精選商務住宿推薦</a></li>
+<li><a href="articles/japan-accommodation-business-hotels-kanazawa-金澤商務酒店-北陸質感住宿推薦指南-ac669b.html">金澤商務酒店：北陸質感住宿推薦指南</a></li>
+<li><a href="articles/japan-accommodation-capsule-hotels-sendai-仙台膠囊飯店完全指南-體驗東北小京都的便利住宿-2344d6.html">仙台膠囊飯店完全指南：體驗東北小京都的便利住宿</a></li>
+<li><a href="articles/japan-accommodation-capsule-hotels-hokkaido-北海道膠囊旅館全攻略-精選5間特色住宿推薦-d683c3.html">北海道膠囊旅館全攻略：精選5間特色住宿推薦</a></li>
+<li><a href="articles/japan-accommodation-capsule-hotels-osaka-大阪膠囊旅館全攻略-特色-推薦與實用資訊-6ec1e3.html">大阪膠囊旅館全攻略：特色、推薦與實用資訊</a></li>
+<li><a href="articles/japan-accommodation-capsule-hotels-okinawa-沖繩膠囊酒店完全指南-省預算遊沖繩的最佳住宿選擇-bb0138.html">沖繩膠囊酒店完全指南：省預算遊沖繩的最佳住宿選擇</a></li>
+<li><a href="articles/japan-accommodation-capsule-hotels-fukuoka-福岡膠囊飯店完全指南-體驗日式簡約住宿的極致選擇-9a0c9c.html">福岡膠囊飯店完全指南：體驗日式簡約住宿的極致選擇</a></li>
+<li><a href="articles/japan-accommodation-capsule-hotels-kanazawa-金澤膠囊飯店完全指南-體驗北陸特色住宿的明智之選-043751.html">金澤膠囊飯店完全指南：體驗北陸特色住宿的明智之選</a></li>
+<li><a href="articles/japan-accommodation-love-hotels-tokyo-tokyo-love-hotels-75e86f.html">tokyo love-hotels</a></li>
+<li><a href="articles/japan-accommodation-love-hotels-hokkaido-北海道住宿指南-特色愛情旅馆與隱密住宿選擇-81ee0b.html">北海道住宿指南：特色愛情旅馆與隱密住宿選擇</a></li>
+<li><a href="articles/japan-accommodation-love-hotels-osaka-大阪-love-hotels-情侶住宿指南與推薦-4b6885.html">大阪 Love Hotels：情侶住宿指南與推薦</a></li>
+<li><a href="articles/japan-accommodation-love-hotels-kobe-神戶住宿新選擇-特色情侶飯店與休憩飯店指南-40b263.html">神戶住宿新選擇：特色情侶飯店與休憩飯店指南</a></li>
+<li><a href="articles/japan-accommodation-love-hotels-fukuoka-福岡-love-hotels-完全指南-特色-推薦與實用資訊-b39f5c.html">福岡 Love Hotels 完全指南：特色、推薦與實用資訊</a></li>
+<li><a href="articles/japan-accommodation-love-hotels-kanazawa-金澤-love-hotels-住宿指南-特色-推薦與實用資訊-e13130.html">金澤 Love Hotels 住宿指南：特色、推薦與實用資訊</a></li>
+<li><a href="articles/japan-accommodation-minshuku-okinawa-okinawa-minshuku-196f08.html">okinawa minshuku</a></li>
+<li><a href="articles/japan-accommodation-minshuku-kyoto-京都民宿完整指南-體驗千年古都的家庭溫暖-9fdcd4.html">京都民宿完整指南：體驗千年古都的家庭溫暖</a></li>
+<li><a href="articles/japan-accommodation-minshuku-sendai-仙台民宿住宿指南-感受東北溫情的家庭式體驗-9b7637.html">仙台民宿住宿指南：感受東北溫情的家庭式體驗</a></li>
+<li><a href="articles/japan-accommodation-minshuku-osaka-大阪民宿完整指南-體驗關西廚房的人情味住宿-e3d91d.html">大阪民宿完整指南：體驗關西廚房的人情味住宿</a></li>
+<li><a href="articles/japan-accommodation-minshuku-kobe-神戶民宿-在港都體驗日式溫情住宿-7a40d8.html">神戶民宿：在港都體驗日式溫情住宿</a></li>
+<li><a href="articles/japan-accommodation-minshuku-fukuoka-福岡民宿完整指南-體驗九州傳統人情味的住宿選擇-767abc.html">福岡民宿完整指南：體驗九州傳統人情味的住宿選擇</a></li>
+<li><a href="articles/japan-accommodation-minshuku-kanazawa-金澤民宿完整指南-體驗城下町傳統住宿的在地魅力-267a3e.html">金澤民宿完整指南：體驗城下町傳統住宿的在地魅力</a></li>
+<li><a href="articles/japan-accommodation-ryokan-hokkaido-北海道日式傳統旅館-北國溫泉之鄉的慢旅行-c81ebc.html">北海道日式傳統旅館：北國溫泉之鄉的慢旅行</a></li>
+<li><a href="articles/japan-accommodation-ryokan-nara-奈良傳統旅館-ryokan-完全指南-在千年古都體驗和式待客之道-5d7672.html">奈良傳統旅館（Ryokan）完全指南：在千年古都體驗和式待客之道</a></li>
+<li><a href="articles/japan-accommodation-ryokan-tokyo-東京溫泉小宿-傳統日式旅館的住宿指南-030161.html">東京溫泉小宿：傳統日式旅館的住宿指南</a></li>
+<li><a href="articles/japan-accommodation-ryokan-kanazawa-金澤溫泉旅館指南-體驗加賀百萬石風情的極致住宿-0b6b26.html">金澤溫泉旅館指南：體驗加賀百萬石風情的極致住宿</a></li>
+<li><a href="articles/japan-accommodation-temple-stays-kyoto-京都寺廟住宿完全指南-體驗千年古都的禪意生活-bffbea.html">京都寺廟住宿完全指南：體驗千年古都的禪意生活</a></li>
+<li><a href="articles/japan-accommodation-temple-stays-nagoya-名古屋temple-stays全攻略-在中部商業重鎮尋找心靈寧靜-b1891b.html">名古屋Temple Stays全攻略：在中部商業重鎮尋找心靈寧靜</a></li>
+<li><a href="articles/japan-accommodation-temple-stays-osaka-大阪寺廟住宿體驗-遠離塵囂的靜謐之旅-44610c.html">大阪寺廟住宿體驗：遠離塵囂的靜謐之旅</a></li>
+<li><a href="articles/japan-accommodation-temple-stays-hiroshima-廣島寺廟住宿體驗-在和平之都感受佛教禪意-d3bf2b.html">廣島寺廟住宿體驗：在和平之都感受佛教禪意</a></li>
+<li><a href="articles/japan-accommodation-temple-stays-tokyo-東京寺廟住宿體驗-都市中的禪心之旅-60c6e3.html">東京寺廟住宿體驗：都市中的禪心之旅</a></li>
+<li><a href="articles/japan-accommodation-temple-stays-fukuoka-福岡寺院住宿指南-體驗九州禪意生活-fb11a6.html">福岡寺院住宿指南：體驗九州禪意生活</a></li>
+<li><a href="articles/japan-accommodation-temple-stays-kanazawa-金澤寺廟住宿完整指南-體驗日式禪意生活的絕佳選擇-ec364a.html">金澤寺廟住宿完整指南：體驗日式禪意生活的絕佳選擇</a></li></ul></section>
+<section><h2>娛樂 (67)</h2><ul><li><a href="articles/japan-entertainment-anime-manga-tokyo-tokyo-anime-manga-b01f1c.html">tokyo anime-manga</a></li>
+<li><a href="articles/japan-entertainment-anime-manga-kyoto-京都動漫購物指南-探索古都的次文化魅力-b0d4b7.html">京都動漫購物指南：探索古都的次文化魅力</a></li>
+<li><a href="articles/japan-entertainment-anime-manga-osaka-大阪動漫聖地-日本橋電電街與動漫店鋪完全攻略-5bbb4f.html">大阪動漫聖地：日本橋電電街與動漫店鋪完全攻略</a></li>
+<li><a href="articles/japan-entertainment-anime-manga-hiroshima-廣島動漫聖地巡禮-動漫迷的購物天堂與隱藏版攻略-40f2c5.html">廣島動漫聖地巡禮：動漫迷的購物天堂與隱藏版攻略</a></li>
+<li><a href="articles/japan-entertainment-anime-manga-okinawa-沖繩動漫漫畫指南-動漫迷的南國探險之旅-73edce.html">沖繩動漫漫畫指南：動漫迷的南國探險之旅</a></li>
+<li><a href="articles/japan-entertainment-anime-manga-fukuoka-福岡動漫聖地巡禮-動漫迷的九州朝聖之旅-df9d4b.html">福岡動漫聖地巡禮：動漫迷的九州朝聖之旅</a></li>
+<li><a href="articles/japan-entertainment-escape-rooms-fukuoka-fukuoka-escape-rooms-ff3ab6.html">fukuoka escape-rooms</a></li>
+<li><a href="articles/japan-entertainment-escape-rooms-okinawa-okinawa-escape-rooms-3f6570.html">okinawa escape-rooms</a></li>
+<li><a href="articles/japan-entertainment-escape-rooms-nagoya-名古屋密室逃脫-體驗腦力激盪的樂趣所在-e159f2.html">名古屋密室逃脫：體驗腦力激盪的樂趣所在</a></li>
+<li><a href="articles/japan-entertainment-escape-rooms-nara-奈良密室逃脫完整指南-古都中的燒腦體驗-aed2fb.html">奈良密室逃脫完整指南：古都中的燒腦體驗</a></li>
+<li><a href="articles/japan-entertainment-escape-rooms-tokyo-東京密室逃脫-腦力激盪的終極挑戰體驗-7c4bf3.html">東京密室逃脫：腦力激盪的終極挑戰體驗</a></li>
+<li><a href="articles/japan-entertainment-festivals-matsuri-hokkaido-hokkaido-festivals-matsuri-87358a.html">hokkaido festivals-matsuri</a></li>
+<li><a href="articles/japan-entertainment-festivals-matsuri-kyoto-京都祭典-千年古都的傳統盛典-e7fbfd.html">京都祭典：千年古都的傳統盛典</a></li>
+<li><a href="articles/japan-entertainment-festivals-matsuri-sendai-仙台七夕祭-東北夏日最具規模的浪漫星河盛典-87e006.html">仙台七夕祭：東北夏日最具規模的浪漫星河盛典</a></li>
+<li><a href="articles/japan-entertainment-festivals-matsuri-nagoya-名古屋祭典完全指南-感受中京之都的熱鬧盛夏-a58dfe.html">名古屋祭典完全指南：感受中京之都的熱鬧盛夏</a></li>
+<li><a href="articles/japan-entertainment-festivals-matsuri-nara-奈良祭典巡禮-千年古都的傳統祭祀文化體驗-383c40.html">奈良祭典巡禮：千年古都的傳統祭祀文化體驗</a></li>
+<li><a href="articles/japan-entertainment-festivals-matsuri-hiroshima-廣島祭典巡禮-感受瀨戶內海的四季慶典文化-d2c739.html">廣島祭典巡禮：感受瀨戶內海的四季慶典文化</a></li>
+<li><a href="articles/japan-entertainment-festivals-matsuri-kanazawa-金澤祭典完全指南-感受加賀百萬石的華麗慶典與四季節慶魅力-be601e.html">金澤祭典完全指南：感受加賀百萬石的華麗慶典與四季節慶魅力</a></li>
+<li><a href="articles/japan-entertainment-gaming-arcades-hiroshima-hiroshima-gaming-arcades-2f55a8.html">hiroshima gaming-arcades</a></li>
+<li><a href="articles/japan-entertainment-gaming-arcades-kanazawa-kanazawa-gaming-arcades-c0add6.html">kanazawa gaming-arcades</a></li>
+<li><a href="articles/japan-entertainment-gaming-arcades-kobe-kobe-gaming-arcades-6dc06f.html">kobe gaming-arcades</a></li>
+<li><a href="articles/japan-entertainment-gaming-arcades-nagoya-nagoya-gaming-arcades-fb670a.html">nagoya gaming-arcades</a></li>
+<li><a href="articles/japan-entertainment-gaming-arcades-tokyo-tokyo-gaming-arcades-07fe12.html">tokyo gaming-arcades</a></li>
+<li><a href="articles/japan-entertainment-gaming-arcades-sendai-仙台遊戲中心-東北街機文化的完整指南-ba0abf.html">仙台遊戲中心：東北街機文化的完整指南</a></li>
+<li><a href="articles/japan-entertainment-gaming-arcades-hokkaido-北海道遊戲中心-札幌-薄野一帶的街機文化體驗-9853b1.html">北海道遊戲中心：札幌、薄野一帶的街機文化體驗</a></li>
+<li><a href="articles/japan-entertainment-gaming-arcades-nara-奈良遊戲中心-古都中的現代娛樂體驗-4e0323.html">奈良遊戲中心：古都中的現代娛樂體驗</a></li>
+<li><a href="articles/japan-entertainment-gaming-arcades-okinawa-沖繩遊戲中心-帶你探索南國島嶼的街機文化體驗-507d52.html">沖繩遊戲中心：帶你探索南國島嶼的街機文化體驗</a></li>
+<li><a href="articles/japan-entertainment-kabuki-theatre-hiroshima-hiroshima-kabuki-theatre-e77ff5.html">hiroshima kabuki-theatre</a></li>
+<li><a href="articles/japan-entertainment-kabuki-theatre-tokyo-tokyo-kabuki-theatre-d9291c.html">tokyo kabuki-theatre</a></li>
+<li><a href="articles/japan-entertainment-kabuki-theatre-sendai-仙台-kabuki-theatre-探索東北地區的傳統表演藝術-555e14.html">仙台 kabuki Theatre：探索東北地區的傳統表演藝術</a></li>
+<li><a href="articles/japan-entertainment-kabuki-theatre-hokkaido-北海道的傳統表演藝術-沒有傳統kabuki劇場的真相-f36577.html">北海道的傳統表演藝術：沒有傳統Kabuki劇場的真相</a></li>
+<li><a href="articles/japan-entertainment-kabuki-theatre-nagoya-名古屋觀光劇團-探索愛知縣的傳統表演藝術-018764.html">名古屋觀光劇團：探索愛知縣的傳統表演藝術</a></li>
+<li><a href="articles/japan-entertainment-kabuki-theatre-fukuoka-福岡博多座-博多傳統表演藝術的聖殿-d5f221.html">福岡博多座：博多傳統表演藝術的聖殿</a></li>
+<li><a href="articles/japan-entertainment-karaoke-kyoto-kyoto-karaoke-746364.html">kyoto karaoke</a></li>
+<li><a href="articles/japan-entertainment-karaoke-nagoya-nagoya-karaoke-a4f09e.html">nagoya karaoke</a></li>
+<li><a href="articles/japan-entertainment-karaoke-nara-nara-karaoke-7d9ede.html">nara karaoke</a></li>
+<li><a href="articles/japan-entertainment-karaoke-hokkaido-北海道卡拉ok-雪國歌聲中的溫暖娛樂體驗-d00641.html">北海道卡拉OK：雪國歌聲中的溫暖娛樂體驗</a></li>
+<li><a href="articles/japan-entertainment-karaoke-osaka-大阪卡拉ok-關西娛樂文化的熱情舞台-c214f7.html">大阪卡拉OK：關西娛樂文化的熱情舞台</a></li>
+<li><a href="articles/japan-entertainment-karaoke-tokyo-東京卡拉ok-都市中的歡唱體驗-c4f9e9.html">東京卡拉OK：都市中的歡唱體驗</a></li>
+<li><a href="articles/japan-entertainment-karaoke-kobe-神戶卡拉ok-港都夜晚的音樂饗宴-4de94a.html">神戶卡拉OK：港都夜晚的音樂饗宴</a></li>
+<li><a href="articles/japan-entertainment-karaoke-fukuoka-福岡卡拉ok完全指南-博多夜生活的歌聲狂歡-d76953.html">福岡卡拉OK完全指南：博多夜生活的歌聲狂歡</a></li>
+<li><a href="articles/japan-entertainment-karaoke-kanazawa-金澤卡拉ok-百萬石城池的音樂時光-bea3f9.html">金澤卡拉OK：百萬石城池的音樂時光</a></li>
+<li><a href="articles/japan-entertainment-nightlife-nagoya-nagoya-nightlife-1637a1.html">nagoya nightlife</a></li>
+<li><a href="articles/japan-entertainment-nightlife-kyoto-京都夜生活-古都的夜間魅力探索-d325d2.html">京都夜生活：古都的夜間魅力探索</a></li>
+<li><a href="articles/japan-entertainment-nightlife-nara-奈良夜生活-千年古都的寧靜夜間魅力-f4116d.html">奈良夜生活：千年古都的寧靜夜間魅力</a></li>
+<li><a href="articles/japan-entertainment-nightlife-hiroshima-廣島夜生活-和平之城的夜間魅力探索-e1666d.html">廣島夜生活：和平之城的夜間魅力探索</a></li>
+<li><a href="articles/japan-entertainment-nightlife-kanazawa-金澤夜生活-探索北陸小京都的夜間魅力-26aabd.html">金澤夜生活：探索北陸小京都的夜間魅力</a></li>
+<li><a href="articles/japan-entertainment-sumo-kyoto-京都相撲-古都裡的力士文化體驗-c14553.html">京都相撲：古都裡的力士文化體驗</a></li>
+<li><a href="articles/japan-entertainment-sumo-sendai-仙台相撲-東北復興精神下的力士文化體驗-728fd6.html">仙台相撲：東北復興精神下的力士文化體驗</a></li>
+<li><a href="articles/japan-entertainment-sumo-hokkaido-北海道相撲-北國大地上的力士之舞-028f28.html">北海道相撲：北國大地上的力士之舞</a></li>
+<li><a href="articles/japan-entertainment-sumo-nagoya-名古屋相撲文化-中部地區的力士傳統與巡業體驗-63d007.html">名古屋相撲文化：中部地區的力士傳統與巡業體驗</a></li>
+<li><a href="articles/japan-entertainment-sumo-nara-奈良相撲文化-古都品味橫綱級的力士美食體驗-b4ace9.html">奈良相撲文化：古都品味橫綱級的力士美食體驗</a></li>
+<li><a href="articles/japan-entertainment-sumo-hiroshima-廣島相撲-跟隨力士足跡探索瀨戶內的相撲文化-140722.html">廣島相撲：跟隨力士足跡探索瀨戶內的相撲文化</a></li>
+<li><a href="articles/japan-entertainment-sumo-tokyo-東京相撲-國技殿堂的力士傳奇體驗-ad5298.html">東京相撲：國技殿堂的力士傳奇體驗</a></li>
+<li><a href="articles/japan-entertainment-sumo-kobe-神戶相撲-港都的力士文化體驗-0b775d.html">神戶相撲：港都的力士文化體驗</a></li>
+<li><a href="articles/japan-entertainment-sumo-fukuoka-福岡相撲-九州場所與博多ちゃんこ文化體驗-ee7961.html">福岡相撲：九州場所與博多ちゃんこ文化體驗</a></li>
+<li><a href="articles/japan-entertainment-theme-parks-tokyo-tokyo-theme-parks-5fe66b.html">tokyo theme-parks</a></li>
+<li><a href="articles/japan-entertainment-theme-parks-kyoto-京都主題樂園不完全指南-古今交織的歡樂體驗-699583.html">京都主題樂園不完全指南：古今交織的歡樂體驗</a></li>
+<li><a href="articles/japan-entertainment-theme-parks-sendai-仙台主題樂園與遊樂設施-東北地區的娛樂體驗指南-8dd7f8.html">仙台主題樂園與遊樂設施：東北地區的娛樂體驗指南</a></li>
+<li><a href="articles/japan-entertainment-theme-parks-okinawa-沖繩主題樂園完整指南-從水族王國到熱帶花園的夢幻體驗-140335.html">沖繩主題樂園完整指南：從水族王國到熱帶花園的夢幻體驗</a></li>
+<li><a href="articles/japan-entertainment-theme-parks-fukuoka-福岡主題樂園巡禮-九州門戶的家庭歡樂時光-006768.html">福岡主題樂園巡禮：九州門戶的家庭歡樂時光</a></li>
+<li><a href="articles/japan-entertainment-theme-parks-kanazawa-金澤主題樂園與遊樂設施完全指南-體驗加賀百萬石的歡樂時光-9efaad.html">金澤主題樂園與遊樂設施完全指南：體驗加賀百萬石的歡樂時光</a></li>
+<li><a href="articles/japan-entertainment-vr-experiences-hiroshima-hiroshima-vr-experiences-8f6ca6.html">hiroshima vr-experiences</a></li>
+<li><a href="articles/japan-entertainment-vr-experiences-sendai-仙台vr體驗完全指南-東北科技娛樂新地標-26c953.html">仙台VR體驗完全指南：東北科技娛樂新地標</a></li>
+<li><a href="articles/japan-entertainment-vr-experiences-nara-奈良vr體驗-古都周邊的虛擬實境娛樂探索-df6611.html">奈良VR體驗：古都周邊的虛擬實境娛樂探索</a></li>
+<li><a href="articles/japan-entertainment-vr-experiences-kobe-神戶vr體驗-港都的虛擬實境娛樂探索-baae85.html">神戶VR體驗：港都的虛擬實境娛樂探索</a></li>
+<li><a href="articles/japan-entertainment-vr-experiences-kanazawa-金澤vr體驗-北陸古都的虛擬實境娛樂新境界-5263c1.html">金澤VR體驗：北陸古都的虛擬實境娛樂新境界</a></li></ul></section>
+<section><h2>美食 (93)</h2><ul><li><a href="articles/japan-gourmet-depachika-hiroshima-廣島depachika-瀨戶內海風味與傳統技藝的美食殿堂-894255.html">廣島Depachika：瀨戶內海風味與傳統技藝的美食殿堂</a></li>
+<li><a href="articles/japan-gourmet-depachika-tokyo-東京-depachika-百貨地下美食天堂的終極指南-9e4a72.html">東京 Depachika：百貨地下美食天堂的終極指南</a></li>
+<li><a href="articles/japan-gourmet-depachika-okinawa-沖繩-depachika-亞熱帶海島的美食地下天堂-06650f.html">沖繩 Depachika：亞熱帶海島的美食地下天堂</a></li>
+<li><a href="articles/japan-gourmet-depachika-fukuoka-福岡-depachika-完全指南-九州門戶的百貨地下美食天堂-38a6ba.html">福岡 Depachika 完全指南：九州門戶的百貨地下美食天堂</a></li>
+<li><a href="articles/japan-gourmet-izakaya-fukuoka-fukuoka-izakaya-c38c5c.html">fukuoka izakaya</a></li>
+<li><a href="articles/japan-gourmet-izakaya-okinawa-okinawa-izakaya-e0f88d.html">okinawa izakaya</a></li>
+<li><a href="articles/japan-gourmet-izakaya-kyoto-京都居酒屋完全指南-千年古都的精緻酒食文化體驗-dead76.html">京都居酒屋完全指南：千年古都的精緻酒食文化體驗</a></li>
+<li><a href="articles/japan-gourmet-izakaya-nagoya-名古屋居酒屋完全指南-品味東海地方獨特酒食文化-995d7a.html">名古屋居酒屋完全指南：品味東海地方獨特酒食文化</a></li>
+<li><a href="articles/japan-gourmet-izakaya-osaka-大阪居酒屋指南-體驗-天下の台所-的飲酒文化-a8717f.html">大阪居酒屋指南：體驗「天下の台所」的飲酒文化</a></li>
+<li><a href="articles/japan-gourmet-izakaya-tokyo-東京居酒屋完全指南-體驗都會夜生活的酒食魅力-9a51e5.html">東京居酒屋完全指南：體驗都會夜生活的酒食魅力</a></li>
+<li><a href="articles/japan-gourmet-izakaya-kobe-神戶居酒屋-港都夜晚的溫暖聚會-0dc3d6.html">神戶居酒屋：港都夜晚的溫暖聚會</a></li>
+<li><a href="articles/japan-gourmet-kaiseki-tokyo-tokyo-kaiseki-364e3c.html">tokyo kaiseki</a></li>
+<li><a href="articles/japan-gourmet-kaiseki-osaka-大阪懷石料理-關西商都的精緻料理藝術-a5231b.html">大阪懷石料理：關西商都的精緻料理藝術</a></li>
+<li><a href="articles/japan-gourmet-kaiseki-hiroshima-廣島懷石料理-瀨戶內海的精緻美食藝術-5bf098.html">廣島懷石料理：瀨戶內海的精緻美食藝術</a></li>
+<li><a href="articles/japan-gourmet-kaiseki-kobe-神戶懷石料理-港都山海饋贈的極致味覺體驗-bf01ec.html">神戶懷石料理：港都山海饋贈的極致味覺體驗</a></li>
+<li><a href="articles/japan-gourmet-kaiseki-kanazawa-金澤懷石料理-古城風情的精緻盛宴-7a9510.html">金澤懷石料理：古城風情的精緻盛宴</a></li>
+<li><a href="articles/japan-gourmet-matcha-sweets-kanazawa-kanazawa-matcha-sweets-eb1a65.html">kanazawa matcha-sweets</a></li>
+<li><a href="articles/japan-gourmet-matcha-sweets-kyoto-京都抹茶甜點-千年茶都的綠意風味之旅-51bbc4.html">京都抹茶甜點：千年茶都的綠意風味之旅</a></li>
+<li><a href="articles/japan-gourmet-matcha-sweets-sendai-仙台抹茶甜點-藏王腳下的綠意好滋味-48752d.html">仙台抹茶甜點：藏王腳下的綠意好滋味</a></li>
+<li><a href="articles/japan-gourmet-matcha-sweets-nagoya-名古屋抹茶甜點-中部甜品文化的綠茶風華-8460d4.html">名古屋抹茶甜點：中部甜品文化的綠茶風華</a></li>
+<li><a href="articles/japan-gourmet-matcha-sweets-nara-奈良抹茶甜點-古都茶香與和風甜品的千年物語-956767.html">奈良抹茶甜點：古都茶香與和風甜品的千年物語</a></li>
+<li><a href="articles/japan-gourmet-matcha-sweets-hiroshima-廣島抹茶甜點-和平之都的綠茶雅韻-affcb0.html">廣島抹茶甜點：和平之都的綠茶雅韻</a></li>
+<li><a href="articles/japan-gourmet-matcha-sweets-tokyo-東京抹茶甜點極致指南-品嚐綠意盎然的日式甜蜜-50be5c.html">東京抹茶甜點極致指南：品嚐綠意盎然的日式甜蜜</a></li>
+<li><a href="articles/japan-gourmet-matcha-sweets-fukuoka-福岡抹茶甜品-九州門戶的八女茶香甜蜜時光-d3a11b.html">福岡抹茶甜品：九州門戶的八女茶香甜蜜時光</a></li>
+<li><a href="articles/japan-gourmet-okonomiyaki-nagoya-nagoya-okonomiyaki-d4d3af.html">nagoya okonomiyaki</a></li>
+<li><a href="articles/japan-gourmet-okonomiyaki-osaka-osaka-okonomiyaki-938cb7.html">osaka okonomiyaki</a></li>
+<li><a href="articles/japan-gourmet-okonomiyaki-tokyo-tokyo-okonomiyaki-2985bd.html">tokyo okonomiyaki</a></li>
+<li><a href="articles/japan-gourmet-okonomiyaki-kyoto-京都御好燒-關西風味的京都體驗-5bdf0f.html">京都御好燒：關西風味的京都體驗</a></li>
+<li><a href="articles/japan-gourmet-okonomiyaki-sendai-仙台御好燒-東北城市的暖心美味指南-6c1695.html">仙台御好燒：東北城市的暖心美味指南</a></li>
+<li><a href="articles/japan-gourmet-okonomiyaki-nara-奈良御好燒-古都風情中的關西美味-351b25.html">奈良御好燒：古都風情中的關西美味</a></li>
+<li><a href="articles/japan-gourmet-okonomiyaki-kobe-神戶御好燒-港都風情的關西經典-04962c.html">神戶御好燒：港都風情的關西經典</a></li>
+<li><a href="articles/japan-gourmet-okonomiyaki-fukuoka-福岡御好燒-博多的街頭美味與鐵板風情-a5cd95.html">福岡御好燒：博多的街頭美味與鐵板風情</a></li>
+<li><a href="articles/japan-gourmet-okonomiyaki-kanazawa-金澤御好燒-北陸古都的關西風味新詮釋-5b1408.html">金澤御好燒：北陸古都的關西風味新詮釋</a></li>
+<li><a href="articles/japan-gourmet-ramen-hokkaido-hokkaido-ramen-e92c7f.html">hokkaido ramen</a></li>
+<li><a href="articles/japan-gourmet-ramen-osaka-osaka-ramen-34e9a5.html">osaka ramen</a></li>
+<li><a href="articles/japan-gourmet-ramen-hokkaido-北海道拉麵-寒冷北國的暖心滋味-4ced23.html">北海道拉麵：寒冷北國的暖心滋味</a></li>
+<li><a href="articles/japan-gourmet-ramen-hiroshima-廣島拉麵-瀨戶內海的暖心風味探索-57d3dc.html">廣島拉麵：瀨戶內海的暖心風味探索</a></li>
+<li><a href="articles/japan-gourmet-ramen-okinawa-沖繩拉麵-琉球海島的獨特麵食文化-8d5a85.html">沖繩拉麵：琉球海島的獨特麵食文化</a></li>
+<li><a href="articles/japan-gourmet-ramen-kanazawa-金澤拉麵-北陸古都的醇厚拉麵文化-ac69a9.html">金澤拉麵：北陸古都的醇厚拉麵文化</a></li>
+<li><a href="articles/japan-gourmet-sake-brewery-hokkaido-北海道清酒釀造所-品味日本最北端的釀酒藝術-ea0d91.html">北海道清酒釀造所：品味日本最北端的釀酒藝術</a></li>
+<li><a href="articles/japan-gourmet-sake-brewery-osaka-大阪清酒釀造所-關西商都的百年釀酒傳承-809c1c.html">大阪清酒釀造所：關西商都的百年釀酒傳承</a></li>
+<li><a href="articles/japan-gourmet-sake-brewery-kanazawa-金澤清酒釀造廠-探索日本北陸釀酒文化-b750cd.html">金澤清酒釀造廠：探索日本北陸釀酒文化</a></li>
+<li><a href="articles/japan-gourmet-street-food-sendai-sendai-street-food-551cec.html">sendai street-food</a></li>
+<li><a href="articles/japan-gourmet-street-food-kyoto-京都街頭美食-千年古都的味蕾冒險-ddf3be.html">京都街頭美食：千年古都的味蕾冒險</a></li>
+<li><a href="articles/japan-gourmet-street-food-hokkaido-北海道街頭美食-寒地北國的溫暖滋味-10d49c.html">北海道街頭美食：寒地北國的溫暖滋味</a></li>
+<li><a href="articles/japan-gourmet-street-food-osaka-大阪街頭美食完全指南-品味關西廚房的庶民美味-509699.html">大阪街頭美食完全指南：品味關西廚房的庶民美味</a></li>
+<li><a href="articles/japan-gourmet-street-food-fukuoka-福岡街頭美食探險-九州美食之都的屋台文化與庶民小吃-6efb1f.html">福岡街頭美食探險：九州美食之都的屋台文化與庶民小吃</a></li>
+<li><a href="articles/japan-gourmet-street-food-kanazawa-金澤街頭美食-古都風情的庶民滋味-bf60b5.html">金澤街頭美食：古都風情的庶民滋味</a></li>
+<li><a href="articles/japan-gourmet-sushi-kobe-kobe-sushi-370a8b.html">kobe sushi</a></li>
+<li><a href="articles/japan-gourmet-sushi-tokyo-tokyo-sushi-1cac7a.html">tokyo sushi</a></li>
+<li><a href="articles/japan-gourmet-sushi-sendai-仙台壽司美食指南-東北海港的江戶前精髓-18bd37.html">仙台壽司美食指南：東北海港的江戶前精髓</a></li>
+<li><a href="articles/japan-gourmet-sushi-nagoya-名古屋壽司-伊勢灣的海味寶庫-b7ba10.html">名古屋壽司：伊勢灣的海味寶庫</a></li>
+<li><a href="articles/japan-gourmet-sushi-osaka-大阪壽司-港都的鮮味盛宴-12fc6d.html">大阪壽司：港都的鮮味盛宴</a></li>
+<li><a href="articles/japan-gourmet-sushi-hiroshima-廣島壽司-瀨戶內海的極致海味饗宴-6e12f8.html">廣島壽司：瀨戶內海的極致海味饗宴</a></li>
+<li><a href="articles/japan-gourmet-sushi-okinawa-沖繩壽司完全指南-亞熱帶海島的獨特鮮味-9f5f2b.html">沖繩壽司完全指南：亞熱帶海島的獨特鮮味</a></li>
+<li><a href="articles/japan-gourmet-sushi-kanazawa-金澤壽司-北陸魚港的極致鮮味-0fd5f8.html">金澤壽司：北陸魚港的極致鮮味</a></li>
+<li><a href="articles/japan-gourmet-tempura-osaka-osaka-tempura-68367b.html">osaka tempura</a></li>
+<li><a href="articles/japan-gourmet-tempura-sendai-sendai-tempura-45971c.html">sendai tempura</a></li>
+<li><a href="articles/japan-gourmet-tempura-tokyo-tokyo-tempura-d57a1e.html">tokyo tempura</a></li>
+<li><a href="articles/japan-gourmet-tempura-nagoya-名古屋天婦羅-中部地區的炸物藝術與在地特色-d5e6af.html">名古屋天婦羅：中部地區的炸物藝術與在地特色</a></li>
+<li><a href="articles/japan-gourmet-tempura-nara-奈良天婦羅-古都風味的酥脆藝術-1ed6eb.html">奈良天婦羅：古都風味的酥脆藝術</a></li>
+<li><a href="articles/japan-gourmet-tempura-hiroshima-廣島天婦羅-酥脆麵衣與鮮美海味的完美邂逅-101bcf.html">廣島天婦羅：酥脆麵衣與鮮美海味的完美邂逅</a></li>
+<li><a href="articles/japan-gourmet-tempura-kobe-神戶天婦羅-港都關西風的酥脆美味-91ddaf.html">神戶天婦羅：港都關西風的酥脆美味</a></li>
+<li><a href="articles/japan-gourmet-tempura-fukuoka-福岡天婦羅美食巡禮-九州海鮮的酥脆饗宴-57d7a2.html">福岡天婦羅美食巡禮：九州海鮮的酥脆饗宴</a></li>
+<li><a href="articles/japan-gourmet-tonkatsu-kyoto-kyoto-tonkatsu-57bd0d.html">kyoto tonkatsu</a></li>
+<li><a href="articles/japan-gourmet-tonkatsu-sendai-仙台炸豬排-東北風情中的日式洋食經典-1e0035.html">仙台炸豬排：東北風情中的日式洋食經典</a></li>
+<li><a href="articles/japan-gourmet-tonkatsu-tokyo-東京炸豬排巡禮-首都美食的酥脆極致體驗-bc59e6.html">東京炸豬排巡禮：首都美食的酥脆極致體驗</a></li>
+<li><a href="articles/japan-gourmet-tonkatsu-fukuoka-福岡炸豬排巡禮-九州美食之都的酥脆誘惑-c553ff.html">福岡炸豬排巡禮：九州美食之都的酥脆誘惑</a></li>
+<li><a href="articles/japan-gourmet-tonkatsu-kanazawa-金澤炸豬排-北陸小京都的酥脆美味-1f4cfd.html">金澤炸豬排：北陸小京都的酥脆美味</a></li>
+<li><a href="articles/japan-gourmet-udon-soba-kyoto-kyoto-udon-soba-d27dd6.html">kyoto udon-soba</a></li>
+<li><a href="articles/japan-gourmet-udon-soba-sendai-sendai-udon-soba-a74af1.html">sendai udon-soba</a></li>
+<li><a href="articles/japan-gourmet-udon-soba-tokyo-tokyo-udon-soba-9223a1.html">tokyo udon-soba</a></li>
+<li><a href="articles/japan-gourmet-udon-soba-hokkaido-北海道烏龍麵與蕎麥麵-北國風味的麵食文化指南-c69994.html">北海道烏龍麵與蕎麥麵：北國風味的麵食文化指南</a></li>
+<li><a href="articles/japan-gourmet-udon-soba-nara-奈良烏龍麵與蕎麥麵-古都的麵食文化探索-cd9674.html">奈良烏龍麵與蕎麥麵：古都的麵食文化探索</a></li>
+<li><a href="articles/japan-gourmet-udon-soba-hiroshima-廣島烏龍麵與蕎麥麵-山海之間的麵食文化深度指南-b81ecf.html">廣島烏龍麵與蕎麥麵：山海之間的麵食文化深度指南</a></li>
+<li><a href="articles/japan-gourmet-udon-soba-fukuoka-福岡-うどんとん-探索九州北部的麵食魅力-a2dcca.html">福岡「うどんとん」：探索九州北部的麵食魅力</a></li>
+<li><a href="articles/japan-gourmet-udon-soba-kanazawa-金澤-加賀烏龍麵-完全指南-在地人氣店家與美食攻略-9e8da5.html">金澤「加賀烏龍麵」完全指南：在地人氣店家與美食攻略</a></li>
+<li><a href="articles/japan-gourmet-wagyu-tokyo-tokyo-wagyu-4c8f42.html">tokyo wagyu</a></li>
+<li><a href="articles/japan-gourmet-wagyu-kyoto-京都頂級和牛美食體驗指南-dc7cc1.html">京都頂級和牛美食體驗指南</a></li>
+<li><a href="articles/japan-gourmet-wagyu-hokkaido-北海道和牛完全指南-品嚐北國極品霜降美味-2b4d29.html">北海道和牛完全指南：品嚐北國極品霜降美味</a></li>
+<li><a href="articles/japan-gourmet-wagyu-nagoya-名古屋頂級和牛美食指南-中部地區的燒肉天堂完全攻略-050fb2.html">名古屋頂級和牛美食指南：中部地區的燒肉天堂完全攻略</a></li>
+<li><a href="articles/japan-gourmet-wagyu-osaka-大阪和牛-極致味覺體驗的美食天堂-850ae7.html">大阪和牛：極致味覺體驗的美食天堂</a></li>
+<li><a href="articles/japan-gourmet-wagyu-osaka-大阪和牛-極致和牛料理的天堂-049e52.html">大阪和牛：極致和牛料理的天堂</a></li>
+<li><a href="articles/japan-gourmet-wagyu-nara-奈良大和牛完全指南-千年古都的頂級和牛美味-367641.html">奈良大和牛完全指南：千年古都的頂級和牛美味</a></li>
+<li><a href="articles/japan-gourmet-wagyu-hiroshima-廣島和牛完全指南-品味中國地區最頂級的牛肉饗宴-afa420.html">廣島和牛完全指南：品味中國地區最頂級的牛肉饗宴</a></li>
+<li><a href="articles/japan-gourmet-wagyu-fukuoka-福岡頂級和牛美食指南-九州牛肉王國的極致體驗-4b75fe.html">福岡頂級和牛美食指南：九州牛肉王國的極致體驗</a></li>
+<li><a href="articles/japan-gourmet-yakitori-kyoto-京都的燒鳥-古都中的雞肉串燒文化-ff605d.html">京都的燒鳥：古都中的雞肉串燒文化</a></li>
+<li><a href="articles/japan-gourmet-yakitori-hokkaido-北海道燒鳥-室蘭豚肉串與道產雞肉的獨特燒烤文化-f6211a.html">北海道燒鳥：室蘭豚肉串與道產雞肉的獨特燒烤文化</a></li>
+<li><a href="articles/japan-gourmet-yakitori-nagoya-名古屋燒鳥-名古屋流串燒的獨特魅力-e1a99e.html">名古屋燒鳥：名古屋流串燒的獨特魅力</a></li>
+<li><a href="articles/japan-gourmet-yakitori-osaka-大阪燒鳥-關西風串燒的獨特魅力-ad951e.html">大阪燒鳥：關西風串燒的獨特魅力</a></li>
+<li><a href="articles/japan-gourmet-yakitori-tokyo-東京燒鳥-串起夜晚歡樂的鳥肉串燒魅力-fca882.html">東京燒鳥：串起夜晚歡樂的鳥肉串燒魅力</a></li>
+<li><a href="articles/japan-gourmet-yakitori-okinawa-沖繩的燒鳥-旅遊時的美食選擇-d4dac6.html">沖繩的燒鳥：旅遊時的美食選擇</a></li>
+<li><a href="articles/japan-gourmet-yakitori-kobe-神戶燒鳥-港都夜晚的串燒風情-b94d50.html">神戶燒鳥：港都夜晚的串燒風情</a></li></ul></section>
+<section><h2>購物 (70)</h2><ul><li><a href="articles/japan-shopping-100-yen-shops-osaka-osaka-100-yen-shops-85b83c.html">osaka 100-yen-shops</a></li>
+<li><a href="articles/japan-shopping-100-yen-shops-kyoto-京都100円商店完全指南-古都中的平價購物寶藏-24d7f7.html">京都100円商店完全指南：古都中的平價購物寶藏</a></li>
+<li><a href="articles/japan-shopping-100-yen-shops-nagoya-名古屋100円商店完全指南-中部地區的平價購物天堂-5b2b54.html">名古屋100円商店完全指南：中部地區的平價購物天堂</a></li>
+<li><a href="articles/japan-shopping-100-yen-shops-fukuoka-福岡100円商店購物指南-天神-博多必訪質感小店與省錢攻略-d00c41.html">福岡100円商店購物指南：天神、博多必訪質感小店與省錢攻略</a></li>
+<li><a href="articles/japan-shopping-100-yen-shops-hokkaido-福岡免稅購物完全指南-九州最大都市的免稅購物精選-372e43.html">福岡免稅購物完全指南：九州最大都市的免稅購物精選</a></li>
+<li><a href="articles/japan-shopping-100-yen-shops-nara-福岡免稅購物完全指南-九州最大都市的免稅購物精選-49e161.html">福岡免稅購物完全指南：九州最大都市的免稅購物精選</a></li>
+<li><a href="articles/japan-shopping-100-yen-shops-kobe-福岡免稅購物完全指南-九州最大都市的免稅購物精選-a870fa.html">福岡免稅購物完全指南：九州最大都市的免稅購物精選</a></li>
+<li><a href="articles/japan-shopping-100-yen-shops-hiroshima-福岡免稅購物完全指南-九州最大都市的免稅購物精選-da2b8f.html">福岡免稅購物完全指南：九州最大都市的免稅購物精選</a></li>
+<li><a href="articles/japan-shopping-100-yen-shops-tokyo-福岡免稅購物完全指南-九州最大都市的免稅購物精選-68904c.html">福岡免稅購物完全指南：九州最大都市的免稅購物精選</a></li>
+<li><a href="articles/japan-shopping-100-yen-shops-okinawa-福岡免稅購物完全指南-九州最大都市的免稅購物精選-b2484b.html">福岡免稅購物完全指南：九州最大都市的免稅購物精選</a></li>
+<li><a href="articles/japan-shopping-100-yen-shops-kanazawa-金澤100円商店完全指南-加賀百萬石城下町的平價購物秘境-cebede.html">金澤100円商店完全指南：加賀百萬石城下町的平價購物秘境</a></li>
+<li><a href="articles/japan-shopping-craft-markets-sendai-仙台工藝市集指南-發現東北手工藝的魅力-65adfe.html">仙台工藝市集指南：發現東北手工藝的魅力</a></li>
+<li><a href="articles/japan-shopping-craft-markets-hokkaido-北海道手工艺品市集指南-探索北國的工藝之美-27ff5a.html">北海道手工艺品市集指南：探索北國的工藝之美</a></li>
+<li><a href="articles/japan-shopping-craft-markets-okinawa-沖繩工藝市集完整指南-探索琉球王國的手作藝術寶庫-b9f979.html">沖繩工藝市集完整指南：探索琉球王國的手作藝術寶庫</a></li>
+<li><a href="articles/japan-shopping-craft-markets-kobe-神戶工藝市集-港都的手作魅力探索-97dadf.html">神戶工藝市集：港都的手作魅力探索</a></li>
+<li><a href="articles/japan-shopping-craft-markets-fukuoka-福岡手工藝市集-探索九州工藝之美與博多文化傳承-f8af0d.html">福岡手工藝市集：探索九州工藝之美與博多文化傳承</a></li>
+<li><a href="articles/japan-shopping-craft-markets-kanazawa-金澤工藝市場完全指南-傳統手作與現代創意的完美融合-5e4aea.html">金澤工藝市場完全指南：傳統手作與現代創意的完美融合</a></li>
+<li><a href="articles/japan-shopping-department-stores-hokkaido-北海道百貨公司購物指南-精選5家人氣商場-ad3d7e.html">北海道百貨公司購物指南：精選5家人氣商場</a></li>
+<li><a href="articles/japan-shopping-department-stores-osaka-大阪百貨公司購物指南-關西購物精華所在-5be0d3.html">大阪百貨公司購物指南：關西購物精華所在</a></li>
+<li><a href="articles/japan-shopping-department-stores-nara-奈良購物指南-探索古都的百貨公司與商場-19cd97.html">奈良購物指南：探索古都的百貨公司與商場</a></li>
+<li><a href="articles/japan-shopping-department-stores-okinawa-沖繩百貨公司購物指南-熱帶島嶼上的現代商業體驗-a4fb1b.html">沖繩百貨公司購物指南：熱帶島嶼上的現代商業體驗</a></li>
+<li><a href="articles/japan-shopping-department-stores-kobe-神戶百貨公司-港都的精緻購物殿堂-b4a29d.html">神戶百貨公司：港都的精緻購物殿堂</a></li>
+<li><a href="articles/japan-shopping-department-stores-fukuoka-福岡免稅購物完全指南-九州最大都市的免稅購物精選-ebe882.html">福岡免稅購物完全指南：九州最大都市的免稅購物精選</a></li>
+<li><a href="articles/japan-shopping-department-stores-nagoya-福岡免稅購物完全指南-九州最大都市的免稅購物精選-c853b0.html">福岡免稅購物完全指南：九州最大都市的免稅購物精選</a></li>
+<li><a href="articles/japan-shopping-department-stores-kanazawa-福岡免稅購物完全指南-九州最大都市的免稅購物精選-7d46b3.html">福岡免稅購物完全指南：九州最大都市的免稅購物精選</a></li>
+<li><a href="articles/japan-shopping-duty-free-hokkaido-hokkaido-duty-free-6bd967.html">hokkaido duty-free</a></li>
+<li><a href="articles/japan-shopping-duty-free-osaka-osaka-duty-free-5c9f38.html">osaka duty-free</a></li>
+<li><a href="articles/japan-shopping-duty-free-sendai-sendai-duty-free-e241db.html">sendai duty-free</a></li>
+<li><a href="articles/japan-shopping-duty-free-kyoto-京都購物指南-享受免稅優質服務的完全攻略-d765a0.html">京都購物指南：享受免稅優質服務的完全攻略</a></li>
+<li><a href="articles/japan-shopping-duty-free-nagoya-名古屋免稅購物完全指南-中部國際空港與市區免稅店精選推薦-4f5dc3.html">名古屋免稅購物完全指南：中部國際空港與市區免稅店精選推薦</a></li>
+<li><a href="articles/japan-shopping-duty-free-tokyo-東京免稅購物完全指南-市區與機場必逛免稅店精選-f21bf0.html">東京免稅購物完全指南：市區與機場必逛免稅店精選</a></li>
+<li><a href="articles/japan-shopping-duty-free-okinawa-沖繩免稅購物完全指南-機場與市區免稅店精選推薦-58db01.html">沖繩免稅購物完全指南：機場與市區免稅店精選推薦</a></li>
+<li><a href="articles/japan-shopping-duty-free-fukuoka-福岡免稅購物完全指南-九州最大都市的免稅購物精選-551600.html">福岡免稅購物完全指南：九州最大都市的免稅購物精選</a></li>
+<li><a href="articles/japan-shopping-duty-free-hiroshima-福岡免稅購物完全指南-九州最大都市的免稅購物精選-645ddf.html">福岡免稅購物完全指南：九州最大都市的免稅購物精選</a></li>
+<li><a href="articles/japan-shopping-duty-free-nara-福岡免稅購物完全指南-九州最大都市的免稅購物精選-d3d466.html">福岡免稅購物完全指南：九州最大都市的免稅購物精選</a></li>
+<li><a href="articles/japan-shopping-duty-free-kanazawa-金澤免稅購物完全指南-古城金箔與傳統工藝的購物天堂-345d12.html">金澤免稅購物完全指南：古城金箔與傳統工藝的購物天堂</a></li>
+<li><a href="articles/japan-shopping-electronics-okinawa-okinawa-electronics-9bd212.html">okinawa electronics</a></li>
+<li><a href="articles/japan-shopping-electronics-osaka-osaka-electronics-478e78.html">osaka electronics</a></li>
+<li><a href="articles/japan-shopping-electronics-sendai-仙台電器購物指南-東北最大電器商圈完全攻略-24e540.html">仙台電器購物指南：東北最大電器商圈完全攻略</a></li>
+<li><a href="articles/japan-shopping-electronics-hokkaido-北海道電子產品購物指南-札幌-旭川的人氣電器行推薦-2a4790.html">北海道電子產品購物指南：札幌、旭川的人氣電器行推薦</a></li>
+<li><a href="articles/japan-shopping-electronics-nagoya-名古屋電子產品購物指南-中部地區的科技消費天堂-9d1fbd.html">名古屋電子產品購物指南：中部地區的科技消費天堂</a></li>
+<li><a href="articles/japan-shopping-electronics-nara-奈良電子產品購物指南-古都中的現代科技寶藏-31df2b.html">奈良電子產品購物指南：古都中的現代科技寶藏</a></li>
+<li><a href="articles/japan-shopping-electronics-hiroshima-廣島電子產品購物指南-從大型電器賣場到專業音響店的完整攻略-0d981a.html">廣島電子產品購物指南：從大型電器賣場到專業音響店的完整攻略</a></li>
+<li><a href="articles/japan-shopping-electronics-fukuoka-福岡免稅購物完全指南-九州最大都市的免稅購物精選-397279.html">福岡免稅購物完全指南：九州最大都市的免稅購物精選</a></li>
+<li><a href="articles/japan-shopping-electronics-kyoto-福岡免稅購物完全指南-九州最大都市的免稅購物精選-57a0b3.html">福岡免稅購物完全指南：九州最大都市的免稅購物精選</a></li>
+<li><a href="articles/japan-shopping-electronics-tokyo-福岡免稅購物完全指南-九州最大都市的免稅購物精選-0de763.html">福岡免稅購物完全指南：九州最大都市的免稅購物精選</a></li>
+<li><a href="articles/japan-shopping-fashion-harajuku-sendai-sendai-fashion-harajuku-566a98.html">sendai fashion-harajuku</a></li>
+<li><a href="articles/japan-shopping-fashion-harajuku-kyoto-京都時尚購物指南-青春潮流與街頭文化-42eab5.html">京都時尚購物指南：青春潮流與街頭文化</a></li>
+<li><a href="articles/japan-shopping-fashion-harajuku-hiroshima-廣島的年輕時尚文化-不同於東京原宿的在地潮流-dbe41e.html">廣島的年輕時尚文化：不同於東京原宿的在地潮流</a></li>
+<li><a href="articles/japan-shopping-fashion-harajuku-okinawa-沖繩時尚購物指南-體驗南國風情的潮流魅力-e4aa6b.html">沖繩時尚購物指南：體驗南國風情的潮流魅力</a></li>
+<li><a href="articles/japan-shopping-fashion-harajuku-kanazawa-金澤時尚購物指南-482d4e.html">金澤時尚購物指南</a></li>
+<li><a href="articles/japan-shopping-souvenir-omiyage-nagoya-nagoya-souvenir-omiyage-409d8a.html">nagoya souvenir-omiyage</a></li>
+<li><a href="articles/japan-shopping-souvenir-omiyage-nara-nara-souvenir-omiyage-ab5711.html">nara souvenir-omiyage</a></li>
+<li><a href="articles/japan-shopping-souvenir-omiyage-osaka-osaka-souvenir-omiyage-b082a9.html">osaka souvenir-omiyage</a></li>
+<li><a href="articles/japan-shopping-souvenir-omiyage-sendai-sendai-souvenir-omiyage-a7fe96.html">sendai souvenir-omiyage</a></li>
+<li><a href="articles/japan-shopping-souvenir-omiyage-kyoto-京都伴手禮-千年古都的文化瑰寶與味覺記憶-951813.html">京都伴手禮：千年古都的文化瑰寶與味覺記憶</a></li>
+<li><a href="articles/japan-shopping-souvenir-omiyage-hiroshima-廣島必買伴手禮指南-精選在地特產與人氣店鋪-1b1dcb.html">廣島必買伴手禮指南：精選在地特產與人氣店鋪</a></li>
+<li><a href="articles/japan-shopping-souvenir-omiyage-tokyo-東京伴手禮全攻略-必買特產與購物聖地指南-ec9068.html">東京伴手禮全攻略：必買特產與購物聖地指南</a></li>
+<li><a href="articles/japan-shopping-souvenir-omiyage-okinawa-沖繩伴手禮完整指南-琉球王國的獨特美味與工藝-b17344.html">沖繩伴手禮完整指南：琉球王國的獨特美味與工藝</a></li>
+<li><a href="articles/japan-shopping-souvenir-omiyage-fukuoka-福岡伴手禮完全指南-從博多通りもん到明太子的九州味覺記憶-56a6de.html">福岡伴手禮完全指南：從博多通りもん到明太子的九州味覺記憶</a></li>
+<li><a href="articles/japan-shopping-souvenir-omiyage-kobe-福岡免稅購物完全指南-九州最大都市的免稅購物精選-3018ee.html">福岡免稅購物完全指南：九州最大都市的免稅購物精選</a></li>
+<li><a href="articles/japan-shopping-souvenir-omiyage-hokkaido-福岡免稅購物完全指南-九州最大都市的免稅購物精選-0c27f0.html">福岡免稅購物完全指南：九州最大都市的免稅購物精選</a></li>
+<li><a href="articles/japan-shopping-souvenir-omiyage-kanazawa-金澤伴手禮完全指南-從金箔工藝到傳統和菓子的極致體驗-e336ad.html">金澤伴手禮完全指南：從金箔工藝到傳統和菓子的極致體驗</a></li>
+<li><a href="articles/japan-shopping-vintage-thrift-hokkaido-北海道古著尋寶指南-在雪國發現復古時尚的獨特魅力-f89b6d.html">北海道古著尋寶指南：在雪國發現復古時尚的獨特魅力</a></li>
+<li><a href="articles/japan-shopping-vintage-thrift-nagoya-名古屋古著尋寶-中部地區的復古時尚文化巡禮-f3d72a.html">名古屋古著尋寶：中部地區的復古時尚文化巡禮</a></li>
+<li><a href="articles/japan-shopping-vintage-thrift-hiroshima-廣島古著尋寶-瀨戶內海畔的復古時光-b39d33.html">廣島古著尋寶：瀨戶內海畔的復古時光</a></li>
+<li><a href="articles/japan-shopping-vintage-thrift-tokyo-東京古著天堂-vintage-thrift-購物指南-0e9920.html">東京古著天堂：Vintage Thrift 購物指南</a></li>
+<li><a href="articles/japan-shopping-vintage-thrift-okinawa-福岡免稅購物完全指南-九州最大都市的免稅購物精選-42324b.html">福岡免稅購物完全指南：九州最大都市的免稅購物精選</a></li>
+<li><a href="articles/japan-shopping-vintage-thrift-fukuoka-福岡免稅購物完全指南-九州最大都市的免稅購物精選-c0df1c.html">福岡免稅購物完全指南：九州最大都市的免稅購物精選</a></li>
+<li><a href="articles/japan-shopping-vintage-thrift-osaka-福岡免稅購物完全指南-九州最大都市的免稅購物精選-fd2d8a.html">福岡免稅購物完全指南：九州最大都市的免稅購物精選</a></li></ul></section>
+<section><h2>旅遊 (63)</h2><ul><li><a href="articles/japan-tourism-castle-towns-sendai-仙台城下町-伊達政宗遺留的歷史軌跡-5e5b33.html">仙台城下町：伊達政宗遺留的歷史軌跡</a></li>
+<li><a href="articles/japan-tourism-castle-towns-nagoya-名古屋城下町-探索尾張藩的歷史風情與現代風貌-54b8cd.html">名古屋城下町：探索尾張藩的歷史風情與現代風貌</a></li>
+<li><a href="articles/japan-tourism-castle-towns-nara-奈良古都風情-從平城京到寺社町的歷史巡禮-789421.html">奈良古都風情：從平城京到寺社町的歷史巡禮</a></li>
+<li><a href="articles/japan-tourism-castle-towns-hiroshima-廣島城下町-探索毛利氏領地的歷史風情-52ba53.html">廣島城下町：探索毛利氏領地的歷史風情</a></li>
+<li><a href="articles/japan-tourism-castle-towns-okinawa-沖繩古城遺產-探索琉球王國的城堡城鎮-e4829b.html">沖繩古城遺產：探索琉球王國的城堡城鎮</a></li>
+<li><a href="articles/japan-tourism-castle-towns-kobe-神戶歷史街區-港都的武家風情與異國情調-446883.html">神戶歷史街區：港都的武家風情與異國情調</a></li>
+<li><a href="articles/japan-tourism-castle-towns-kanazawa-金澤城下町-穿越時空的武家與商人故鄉-17dd8a.html">金澤城下町：穿越時空的武家與商人故鄉</a></li>
+<li><a href="articles/japan-tourism-day-trips-fukuoka-fukuoka-day-trips-92ba55.html">fukuoka day-trips</a></li>
+<li><a href="articles/japan-tourism-day-trips-hokkaido-hokkaido-day-trips-025dca.html">hokkaido day-trips</a></li>
+<li><a href="articles/japan-tourism-day-trips-nagoya-nagoya-day-trips-3bf2ef.html">nagoya day-trips</a></li>
+<li><a href="articles/japan-tourism-day-trips-kyoto-京都一日遊完全指南-古都周邊的經典探索路線-d0ec55.html">京都一日遊完全指南：古都周邊的經典探索路線</a></li>
+<li><a href="articles/japan-tourism-day-trips-osaka-大阪一日遊完全指南-從關西樞紐出發的經典周邊探索-232dfb.html">大阪一日遊完全指南：從關西樞紐出發的經典周邊探索</a></li>
+<li><a href="articles/japan-tourism-day-trips-tokyo-東京一日遊完全攻略-關東近郊經典路線與隱藏秘境探索-ef418d.html">東京一日遊完全攻略：關東近郊經典路線與隱藏秘境探索</a></li>
+<li><a href="articles/japan-tourism-garden-parks-hokkaido-hokkaido-garden-parks-341d77.html">hokkaido garden-parks</a></li>
+<li><a href="articles/japan-tourism-garden-parks-nara-nara-garden-parks-409c06.html">nara garden-parks</a></li>
+<li><a href="articles/japan-tourism-garden-parks-okinawa-okinawa-garden-parks-2d7f4d.html">okinawa garden-parks</a></li>
+<li><a href="articles/japan-tourism-garden-parks-tokyo-tokyo-garden-parks-a3887f.html">tokyo garden-parks</a></li>
+<li><a href="articles/japan-tourism-garden-parks-kyoto-京都花園公園巡禮-古都的自然之美與療癒時光-903aec.html">京都花園公園巡禮：古都的自然之美與療癒時光</a></li>
+<li><a href="articles/japan-tourism-garden-parks-sendai-仙台花園公園巡禮-自然與歷史的和諧樂章-499f62.html">仙台花園公園巡禮：自然與歷史的和諧樂章</a></li>
+<li><a href="articles/japan-tourism-garden-parks-nagoya-名古屋花園公園巡禮-中部都會的自然綠洲探索-c8dd04.html">名古屋花園公園巡禮：中部都會的自然綠洲探索</a></li>
+<li><a href="articles/japan-tourism-garden-parks-osaka-大阪花園公園巡禮-城市綠洲的悠然時光-c9b0b5.html">大阪花園公園巡禮：城市綠洲的悠然時光</a></li>
+<li><a href="articles/japan-tourism-garden-parks-hiroshima-廣島花園公園巡禮-和平都市的綠意與歷史交織-8a8996.html">廣島花園公園巡禮：和平都市的綠意與歷史交織</a></li>
+<li><a href="articles/japan-tourism-garden-parks-kobe-神戶花園公園巡禮-港都的自然诗意栖息地-a39c35.html">神戶花園公園巡禮：港都的自然诗意栖息地</a></li>
+<li><a href="articles/japan-tourism-garden-parks-fukuoka-福岡花園公園巡禮-都市中的綠意天堂-58a7f4.html">福岡花園公園巡禮：都市中的綠意天堂</a></li>
+<li><a href="articles/japan-tourism-garden-parks-kanazawa-金澤花園公園巡禮-加賀百萬石城下町的庭園美學-a4e5dd.html">金澤花園公園巡禮：加賀百萬石城下町的庭園美學</a></li>
+<li><a href="articles/japan-tourism-historical-districts-nara-奈良歷史街區-走進日本千年古都的時光隧道-ee212d.html">奈良歷史街區：走進日本千年古都的時光隧道</a></li>
+<li><a href="articles/japan-tourism-historical-districts-tokyo-東京歷史街區-穿越時空的下町風情完整指南-6eb2a5.html">東京歷史街區：穿越時空的下町風情完整指南</a></li>
+<li><a href="articles/japan-tourism-historical-districts-okinawa-沖繩歷史街區巡禮-琉球王國的文化遺跡與傳統風情-363dea.html">沖繩歷史街區巡禮：琉球王國的文化遺跡與傳統風情</a></li>
+<li><a href="articles/japan-tourism-historical-districts-fukuoka-福岡歷史街區巡禮-探索九州玄關的古韻風華-a01492.html">福岡歷史街區巡禮：探索九州玄關的古韻風華</a></li>
+<li><a href="articles/japan-tourism-island-hopping-sendai-仙台跳島之旅-探索松島灣的島嶼風光-2d5247.html">仙台跳島之旅：探索松島灣的島嶼風光</a></li>
+<li><a href="articles/japan-tourism-island-hopping-nagoya-名古屋跳島指南-探索中部海岸的島嶼風光-c96d74.html">名古屋跳島指南：探索中部海岸的島嶼風光</a></li>
+<li><a href="articles/japan-tourism-island-hopping-okinawa-沖繩跳島旅遊完全指南-探索日本最南端的島嶼之美-10c3bf.html">沖繩跳島旅遊完全指南：探索日本最南端的島嶼之美</a></li>
+<li><a href="articles/japan-tourism-island-hopping-kobe-神戶跳島之旅-探索瀨戶內海的港都周邊島嶼-d8354e.html">神戶跳島之旅：探索瀨戶內海的港都周邊島嶼</a></li>
+<li><a href="articles/japan-tourism-island-hopping-fukuoka-福岡跳島之旅-探索玄關口周邊的隱藏版島嶼風光-7581f5.html">福岡跳島之旅：探索玄關口周邊的隱藏版島嶼風光</a></li>
+<li><a href="articles/japan-tourism-island-hopping-kanazawa-金澤跳島之旅-日本海島嶼的祕境探索-cfc129.html">金澤跳島之旅：日本海島嶼的祕境探索</a></li>
+<li><a href="articles/japan-tourism-nature-trails-nagoya-nagoya-nature-trails-44b6ad.html">nagoya nature-trails</a></li>
+<li><a href="articles/japan-tourism-nature-trails-kyoto-京都自然步道巡禮-古都山林的城市深呼吸-01194f.html">京都自然步道巡禮：古都山林的城市深呼吸</a></li>
+<li><a href="articles/japan-tourism-nature-trails-hokkaido-北海道自然步道-探索日本最後秘境的徒步天堂-3df146.html">北海道自然步道：探索日本最後秘境的徒步天堂</a></li>
+<li><a href="articles/japan-tourism-nature-trails-nara-奈良自然步道完全指南-探訪千年古都的山林之美-1252be.html">奈良自然步道完全指南：探訪千年古都的山林之美</a></li>
+<li><a href="articles/japan-tourism-nature-trails-tokyo-東京自然步道探索-在國際都會中尋找綠色秘境-0c3c6c.html">東京自然步道探索：在國際都會中尋找綠色秘境</a></li>
+<li><a href="articles/japan-tourism-nature-trails-kobe-神戶自然步道完全指南-探索山海之間的綠色秘境-bd0ab1.html">神戶自然步道完全指南：探索山海之間的綠色秘境</a></li>
+<li><a href="articles/japan-tourism-onsen-fukuoka-fukuoka-onsen-2373f1.html">fukuoka onsen</a></li>
+<li><a href="articles/japan-tourism-onsen-tokyo-東京溫泉指南-都會中的療癒綠洲-82ec92.html">東京溫泉指南：都會中的療癒綠洲</a></li>
+<li><a href="articles/japan-tourism-onsen-okinawa-沖繩溫泉指南-亞熱帶島嶼的溫泉體驗-1baf4a.html">沖繩溫泉指南：亞熱帶島嶼的溫泉體驗</a></li>
+<li><a href="articles/japan-tourism-scenic-routes-nagoya-nagoya-scenic-routes-b189de.html">nagoya scenic-routes</a></li>
+<li><a href="articles/japan-tourism-scenic-routes-okinawa-okinawa-scenic-routes-1a3a40.html">okinawa scenic-routes</a></li>
+<li><a href="articles/japan-tourism-scenic-routes-sendai-仙台風景名勝步道完全指南-自然與歷史交织的絕美路線-5aca75.html">仙台風景名勝步道完全指南：自然與歷史交织的絕美路線</a></li>
+<li><a href="articles/japan-tourism-scenic-routes-hokkaido-北海道風景道路-自駕漫遊日本最美北國風光-6d9d45.html">北海道風景道路：自駕漫遊日本最美北國風光</a></li>
+<li><a href="articles/japan-tourism-scenic-routes-nara-奈良風景路線巡禮-千年古都的絕美步道與歷史街道-d7f243.html">奈良風景路線巡禮：千年古都的絕美步道與歷史街道</a></li>
+<li><a href="articles/japan-tourism-scenic-routes-hiroshima-廣島風景名勝完全指南-探索瀨戶內海的自然與歷史風光-45d28d.html">廣島風景名勝完全指南：探索瀨戶內海的自然與歷史風光</a></li>
+<li><a href="articles/japan-tourism-scenic-routes-fukuoka-福岡風景路線完全指南-從博多灣到糸島半島的絕美景致-93e9ab.html">福岡風景路線完全指南：從博多灣到糸島半島的絕美景致</a></li>
+<li><a href="articles/japan-tourism-scenic-routes-kanazawa-金澤風景名勝完全指南-漫步古都巷弄與海岸風光-3e0efc.html">金澤風景名勝完全指南：漫步古都巷弄與海岸風光</a></li>
+<li><a href="articles/japan-tourism-ski-resorts-sendai-仙台滑雪度假村完全指南-東北粉雪天堂與溫泉美食之旅-e7f567.html">仙台滑雪度假村完全指南：東北粉雪天堂與溫泉美食之旅</a></li>
+<li><a href="articles/japan-tourism-ski-resorts-hokkaido-北海道滑雪場全攻略-必訪五大滑雪勝地推薦-3ab29b.html">北海道滑雪場全攻略：必訪五大滑雪勝地推薦</a></li>
+<li><a href="articles/japan-tourism-ski-resorts-osaka-大阪滑雪度假村-關西地區滑雪趣-03956f.html">大阪滑雪度假村：關西地區滑雪趣</a></li>
+<li><a href="articles/japan-tourism-ski-resorts-hiroshima-廣島縣滑雪場-瀨戶內海畔的雪山體驗-0e82c8.html">廣島縣滑雪場：瀨戶內海畔的雪山體驗</a></li>
+<li><a href="articles/japan-tourism-ski-resorts-tokyo-東京周邊滑雪場推薦-從東京出發的雪國之旅-681403.html">東京周邊滑雪場推薦：從東京出發的雪國之旅</a></li>
+<li><a href="articles/japan-tourism-ski-resorts-okinawa-沖繩滑雪度假村-亞熱帶島嶼的滑雪真相與替代體驗-36a0db.html">沖繩滑雪度假村：亞熱帶島嶼的滑雪真相與替代體驗</a></li>
+<li><a href="articles/japan-tourism-temples-shrines-nagoya-nagoya-temples-shrines-9adb00.html">nagoya temples-shrines</a></li>
+<li><a href="articles/japan-tourism-temples-shrines-kyoto-京都寺廟神社巡禮-千年古都的神聖之旅-831d7c.html">京都寺廟神社巡禮：千年古都的神聖之旅</a></li>
+<li><a href="articles/japan-tourism-temples-shrines-nara-奈良寺廟神社巡禮-千年古都的宗教文化瑰寶-d53dd4.html">奈良寺廟神社巡禮：千年古都的宗教文化瑰寶</a></li>
+<li><a href="articles/japan-tourism-temples-shrines-hiroshima-廣島神社寺廟巡禮-探索神聖與歷史的千年足跡-1c0b7b.html">廣島神社寺廟巡禮：探索神聖與歷史的千年足跡</a></li>
+<li><a href="articles/japan-tourism-temples-shrines-tokyo-東京寺廟神社巡禮-現代都市中的神聖境界-138f46.html">東京寺廟神社巡禮：現代都市中的神聖境界</a></li></ul></section>
+<section><h2>交通 (48)</h2><ul><li><a href="articles/japan-transport-airport-transfer-hiroshima-hiroshima-airport-transfer-43ad99.html">hiroshima airport-transfer</a></li>
+<li><a href="articles/japan-transport-airport-transfer-kanazawa-kanazawa-airport-transfer-01e001.html">kanazawa airport-transfer</a></li>
+<li><a href="articles/japan-transport-airport-transfer-tokyo-tokyo-airport-transfer-dd3bd9.html">tokyo airport-transfer</a></li>
+<li><a href="articles/japan-transport-airport-transfer-nagoya-名古屋機場交通攻略-中部國際機場到市區的完整指南-d3d51e.html">名古屋機場交通攻略：中部國際機場到市區的完整指南</a></li>
+<li><a href="articles/japan-transport-airport-transfer-nara-奈良機場交通完全指南-從關西各大機場輕鬆抵達千年古都-1a86e5.html">奈良機場交通完全指南：從關西各大機場輕鬆抵達千年古都</a></li>
+<li><a href="articles/japan-transport-buses-sendai-仙台巴士指南-暢遊東北仙台的公車交通攻略-508233.html">仙台巴士指南：暢遊東北仙台的公車交通攻略</a></li>
+<li><a href="articles/japan-transport-buses-osaka-大阪巴士交通指南-補強鐵路網絡的便民選擇-6c2e54.html">大阪巴士交通指南：補強鐵路網絡的便民選擇</a></li>
+<li><a href="articles/japan-transport-buses-tokyo-東京巴士完整攻略-都市交通的便利選擇-6ef840.html">東京巴士完整攻略：都市交通的便利選擇</a></li>
+<li><a href="articles/japan-transport-buses-kobe-神戶巴士交通-港都山海間的便捷移動指南-c3713f.html">神戶巴士交通：港都山海間的便捷移動指南</a></li>
+<li><a href="articles/japan-transport-cycling-kanazawa-kanazawa-cycling-dc77dd.html">kanazawa cycling</a></li>
+<li><a href="articles/japan-transport-cycling-okinawa-okinawa-cycling-80b49c.html">okinawa cycling</a></li>
+<li><a href="articles/japan-transport-cycling-tokyo-tokyo-cycling-ac6757.html">tokyo cycling</a></li>
+<li><a href="articles/japan-transport-cycling-sendai-仙台單車探索-在杜之都感受東北風情的兩輪之旅-04e689.html">仙台單車探索：在杜之都感受東北風情的兩輪之旅</a></li>
+<li><a href="articles/japan-transport-cycling-hokkaido-北海道單車漫遊-騎遇壯阔自然的完整指南-3e03a1.html">北海道單車漫遊：騎遇壯阔自然的完整指南</a></li>
+<li><a href="articles/japan-transport-cycling-nara-奈良單車漫遊-騎遇千年古都的自然與歷史之美-faf167.html">奈良單車漫遊：騎遇千年古都的自然與歷史之美</a></li>
+<li><a href="articles/japan-transport-ferries-kanazawa-kanazawa-ferries-51dab5.html">kanazawa ferries</a></li>
+<li><a href="articles/japan-transport-ferries-kobe-kobe-ferries-31317e.html">kobe ferries</a></li>
+<li><a href="articles/japan-transport-ferries-nara-nara-ferries-7c8666.html">nara ferries</a></li>
+<li><a href="articles/japan-transport-ferries-hokkaido-北海道渡輪完全指南-航向北方大海的便捷選擇-d8940d.html">北海道渡輪完全指南：航向北方大海的便捷選擇</a></li>
+<li><a href="articles/japan-transport-ferries-tokyo-東京渡輪巡航-水上視角探索都市風光的完整指南-fa9f3f.html">東京渡輪巡航：水上視角探索都市風光的完整指南</a></li>
+<li><a href="articles/japan-transport-ferries-okinawa-沖繩渡輪完全指南-跳島旅行的海上交通攻略-1ff585.html">沖繩渡輪完全指南：跳島旅行的海上交通攻略</a></li>
+<li><a href="articles/japan-transport-ferries-fukuoka-福岡渡輪完全指南-從博多港出發的海上冒險-4ff784.html">福岡渡輪完全指南：從博多港出發的海上冒險</a></li>
+<li><a href="articles/japan-transport-jr-pass-kyoto-京都jr-pass完全攻略-古都鐵道漫遊指南-f56ee2.html">京都JR Pass完全攻略：古都鐵道漫遊指南</a></li>
+<li><a href="articles/japan-transport-jr-pass-osaka-大阪jr-pass完全攻略-關西鐵道旅遊的最佳夥伴-d082c1.html">大阪JR Pass完全攻略：關西鐵道旅遊的最佳夥伴</a></li>
+<li><a href="articles/japan-transport-jr-pass-hiroshima-廣島jr-pass全攻略-暢遊嚴島神社與和平之都的交通利器-2f3ac6.html">廣島JR Pass全攻略：暢遊嚴島神社與和平之都的交通利器</a></li>
+<li><a href="articles/japan-transport-jr-pass-fukuoka-福岡jr-pass完全指南-暢遊九州的超值交通攻略-372d90.html">福岡JR Pass完全指南：暢遊九州的超值交通攻略</a></li>
+<li><a href="articles/japan-transport-jr-pass-kanazawa-金澤周遊券完全指南-畅游北陆金箔古城的交通利器-eae641.html">金澤周遊券完全指南：畅游北陆金箔古城的交通利器</a></li>
+<li><a href="articles/japan-transport-metro-systems-hiroshima-hiroshima-metro-systems-f7d635.html">hiroshima metro-systems</a></li>
+<li><a href="articles/japan-transport-metro-systems-kanazawa-kanazawa-metro-systems-300bbf.html">kanazawa metro-systems</a></li>
+<li><a href="articles/japan-transport-metro-systems-nagoya-nagoya-metro-systems-7fa0ce.html">nagoya metro-systems</a></li>
+<li><a href="articles/japan-transport-metro-systems-sendai-仙台市地下鐵完全指南-暢遊東北最大城市的便捷之道-a229ee.html">仙台市地下鐵完全指南：暢遊東北最大城市的便捷之道</a></li>
+<li><a href="articles/japan-transport-metro-systems-hokkaido-北海道地下鐵系統-暢遊札幌的交通指南-a3e1ad.html">北海道地下鐵系統：暢遊札幌的交通指南</a></li>
+<li><a href="articles/japan-transport-metro-systems-osaka-大阪地鐵系統-關西交通網絡的城市脈動-373883.html">大阪地鐵系統：關西交通網絡的城市脈動</a></li>
+<li><a href="articles/japan-transport-metro-systems-tokyo-東京地鐵系統完整指南-暢遊首都圈的交通攻略-99d07d.html">東京地鐵系統完整指南：暢遊首都圈的交通攻略</a></li>
+<li><a href="articles/japan-transport-metro-systems-kobe-神戶地鐵系統-連接港都山海的便捷交通網-5fe1c6.html">神戶地鐵系統：連接港都山海的便捷交通網</a></li>
+<li><a href="articles/japan-transport-metro-systems-fukuoka-福岡地下鐵完全指南-暢遊博多的交通秘訣-924d34.html">福岡地下鐵完全指南：暢遊博多的交通秘訣</a></li>
+<li><a href="articles/japan-transport-rental-cars-hokkaido-hokkaido-rental-cars-35c24b.html">hokkaido rental-cars</a></li>
+<li><a href="articles/japan-transport-rental-cars-osaka-osaka-rental-cars-7d55e4.html">osaka rental-cars</a></li>
+<li><a href="articles/japan-transport-rental-cars-sendai-sendai-rental-cars-3600cc.html">sendai rental-cars</a></li>
+<li><a href="articles/japan-transport-rental-cars-kyoto-京都租車完整指南-自駕暢遊千年古都的最佳選擇-cc0009.html">京都租車完整指南：自駕暢遊千年古都的最佳選擇</a></li>
+<li><a href="articles/japan-transport-rental-cars-tokyo-東京租車自駕遊-關東自由行的完整攻略指南-c1a836.html">東京租車自駕遊：關東自由行的完整攻略指南</a></li>
+<li><a href="articles/japan-transport-rental-cars-kanazawa-金澤租車全攻略-自由暢遊北陸小京都的交通指南-6eddf3.html">金澤租車全攻略：自由暢遊北陸小京都的交通指南</a></li>
+<li><a href="articles/japan-transport-shinkansen-okinawa-okinawa-shinkansen-e9cf1b.html">okinawa shinkansen</a></li>
+<li><a href="articles/japan-transport-shinkansen-fukuoka-九州新幹線の福岡へのアクセス-博多駅からの高速鉄道ガイド-fba130.html">九州新幹線の福岡へのアクセス：博多駅からの高速鉄道ガイド</a></li>
+<li><a href="articles/japan-transport-shinkansen-sendai-仙台新幹線-探索東北門戶的高速鐵路之旅-729c1e.html">仙台新幹線：探索東北門戶的高速鐵路之旅</a></li>
+<li><a href="articles/japan-transport-shinkansen-nagoya-名古屋新幹線-中部地區交通樞紐的高速鐵路體驗-85d226.html">名古屋新幹線：中部地區交通樞紐的高速鐵路體驗</a></li>
+<li><a href="articles/japan-transport-shinkansen-osaka-大阪新幹線完全指南-關西交通樞紐的高速鐵道體驗-25dcb7.html">大阪新幹線完全指南：關西交通樞紐的高速鐵道體驗</a></li>
+<li><a href="articles/japan-transport-shinkansen-kanazawa-金澤交通樞紐-北陸新幹線完整指南-628b0a.html">金澤交通樞紐：北陸新幹線完整指南</a></li></ul></section>
+</noscript>
+  </main>
   <footer class="article-footer">
     <p>&copy; 2026 Japan Encyclopedia | <a href="/llms.txt">llms.txt</a> | <a href="/sitemap.xml">Sitemap</a></p>
     <p>Part of <a href="https://cloudpipe-landing.vercel.app">CloudPipe AI</a> Knowledge Graph</p>
   </footer>
+  <script>
+  (function() {
+    const PER_PAGE = 24;
+    const INDUSTRY_NAMES = {"gourmet": "美食", "dining": "美食", "tourism": "旅遊", "entertainment": "娛樂", "accommodation": "住宿", "shopping": "購物", "transport": "交通"};
+    let articles = [];
+    let fuse = null;
+    let filtered = [];
+    let currentFilter = 'all';
+    let currentPage = 1;
+    let currentSort = 'newest';
+
+    fetch('/articles.json').then(r => r.json()).then(data => {
+      articles = data;
+      filtered = [...articles];
+      fuse = new Fuse(articles, { keys: ['t', 'g', 'a', 'c'], threshold: 0.3 });
+      sortAndRender();
+    });
+
+    document.getElementById('searchInput').addEventListener('input', function(e) {
+      const q = e.target.value.trim();
+      if (q.length === 0) {
+        filtered = currentFilter === 'all' ? [...articles] : articles.filter(a => a.i === currentFilter);
+      } else {
+        const base = currentFilter === 'all' ? articles : articles.filter(a => a.i === currentFilter);
+        fuse = new Fuse(base, { keys: ['t', 'g', 'a', 'c'], threshold: 0.3 });
+        filtered = fuse.search(q).map(r => r.item);
+      }
+      currentPage = 1;
+      sortAndRender();
+    });
+
+    document.getElementById('sortSelect').addEventListener('change', function(e) {
+      currentSort = e.target.value;
+      currentPage = 1;
+      sortAndRender();
+    });
+
+    document.querySelector('.filter-bar').addEventListener('click', function(e) {
+      if (!e.target.classList.contains('filter-btn')) return;
+      document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+      e.target.classList.add('active');
+      currentFilter = e.target.dataset.industry;
+      const q = document.getElementById('searchInput').value.trim();
+      if (q.length === 0) {
+        filtered = currentFilter === 'all' ? [...articles] : articles.filter(a => a.i === currentFilter);
+      } else {
+        const base = currentFilter === 'all' ? articles : articles.filter(a => a.i === currentFilter);
+        fuse = new Fuse(base, { keys: ['t', 'g', 'a', 'c'], threshold: 0.3 });
+        filtered = fuse.search(q).map(r => r.item);
+      }
+      currentPage = 1;
+      sortAndRender();
+    });
+
+    function sortAndRender() {
+      const sorted = [...filtered];
+      if (currentSort === 'newest') sorted.sort((a,b) => b.d.localeCompare(a.d));
+      else if (currentSort === 'quality') sorted.sort((a,b) => b.q - a.q);
+      else if (currentSort === 'longest') sorted.sort((a,b) => b.w - a.w);
+      else if (currentSort === 'title') sorted.sort((a,b) => a.t.localeCompare(b.t, 'zh'));
+      filtered = sorted;
+      render();
+    }
+
+    function render() {
+      const total = filtered.length;
+      const pages = Math.ceil(total / PER_PAGE);
+      if (currentPage > pages) currentPage = pages || 1;
+      const start = (currentPage - 1) * PER_PAGE;
+      const slice = filtered.slice(start, start + PER_PAGE);
+
+      document.getElementById('resultsInfo').textContent = total + ' 篇文章' + (currentFilter !== 'all' ? ' (' + (INDUSTRY_NAMES[currentFilter] || currentFilter) + ')' : '');
+
+      const grid = document.getElementById('cardGrid');
+      grid.innerHTML = slice.map(a => {
+        const ind = INDUSTRY_NAMES[a.i] || a.i;
+        const tags = (a.g || []).slice(0, 3).map(t => '<span>' + t + '</span>').join('');
+        return '<a class="card" href="articles/' + a.s + '.html">'
+          + '<span class="card-industry">' + ind + '</span>'
+          + '<h3>' + a.t + '</h3>'
+          + '<div class="card-meta"><span>' + a.w + ' 字</span><span>' + a.a.replace(/-/g, ' ') + '</span><span>' + a.d + '</span></div>'
+          + (tags ? '<div class="card-tags">' + tags + '</div>' : '')
+          + '</a>';
+      }).join('');
+
+      const pag = document.getElementById('pagination');
+      if (pages <= 1) { pag.innerHTML = ''; return; }
+      let btns = '<button ' + (currentPage<=1?'disabled':'') + ' onclick="window._ep(' + (currentPage-1) + ')">&#8249;</button>';
+      const range = 3;
+      for (let i = 1; i <= pages; i++) {
+        if (i === 1 || i === pages || (i >= currentPage-range && i <= currentPage+range)) {
+          btns += '<button class="' + (i===currentPage?'active':'') + '" onclick="window._ep(' + i + ')">' + i + '</button>';
+        } else if (i === currentPage-range-1 || i === currentPage+range+1) {
+          btns += '<button disabled>...</button>';
+        }
+      }
+      btns += '<button ' + (currentPage>=pages?'disabled':'') + ' onclick="window._ep(' + (currentPage+1) + ')">&#8250;</button>';
+      pag.innerHTML = btns;
+    }
+
+    window._ep = function(p) { currentPage = p; render(); window.scrollTo(0, document.querySelector('.card-grid').offsetTop - 100); };
+  })();
+  </script>
 </body>
 </html>
