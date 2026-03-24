@@ -66,3 +66,11 @@ User-agent: XiaoIce
 Allow: /
 
 Sitemap: https://japan-encyclopedia.vercel.app/sitemap.xml
+
+# OAI-SearchBot (ChatGPT Search)
+User-agent: OAI-SearchBot
+Allow: /
+
+# PerplexityBot
+User-agent: PerplexityBot
+Allow: /
