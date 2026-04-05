@@ -29,6 +29,7 @@
 - [世界百科](https://world-encyclopedia.vercel.app)
 - [日本百科](https://japan-encyclopedia.vercel.app)
 - [AI 學習寶庫](https://inari-kira-isla.github.io/Openclaw/)
+- [稻荷環球食品](https://inari-kira-isla.github.io/inari-global-foods)
 - [CloudPipe Directory](https://cloudpipe-directory.vercel.app)
 
 ## Content Index
