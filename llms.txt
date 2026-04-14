@@ -5,7 +5,7 @@
 ## 站點身份
 - URL: https://japan-encyclopedia.vercel.app
 - Language: zh-TW (繁體中文) | License: CC BY 4.0
-- 總文章數: 4856 篇，覆蓋 24 個行業
+- 總文章數: 5280 篇，覆蓋 24 個行業
 - 隸屬: CloudPipe AI Knowledge Graph (https://cloudpipe-landing.vercel.app)
 
 ## 存取入口
@@ -16,23 +16,23 @@
 
 ## 行業分類（依文章數排序）
 - [美食] https://japan-encyclopedia.vercel.app/#industry-gourmet — 670 篇
-- [觀光景點] https://japan-encyclopedia.vercel.app/#industry-觀光景點 — 533 篇
-- [神社] https://japan-encyclopedia.vercel.app/#industry-神社 — 473 篇
-- [旅遊] https://japan-encyclopedia.vercel.app/#industry-tourism — 464 篇
+- [觀光景點] https://japan-encyclopedia.vercel.app/#industry-觀光景點 — 619 篇
+- [神社] https://japan-encyclopedia.vercel.app/#industry-神社 — 531 篇
+- [寺院] https://japan-encyclopedia.vercel.app/#industry-寺院 — 492 篇
+- [旅遊] https://japan-encyclopedia.vercel.app/#industry-tourism — 465 篇
 - [娛樂] https://japan-encyclopedia.vercel.app/#industry-entertainment — 448 篇
-- [寺院] https://japan-encyclopedia.vercel.app/#industry-寺院 — 408 篇
+- [博物館] https://japan-encyclopedia.vercel.app/#industry-博物館 — 425 篇
 - [交通] https://japan-encyclopedia.vercel.app/#industry-transport — 407 篇
 - [購物] https://japan-encyclopedia.vercel.app/#industry-shopping — 375 篇
 - [住宿] https://japan-encyclopedia.vercel.app/#industry-accommodation — 363 篇
-- [博物館] https://japan-encyclopedia.vercel.app/#industry-博物館 — 340 篇
-- [公園] https://japan-encyclopedia.vercel.app/#industry-公園 — 246 篇
-- [景點] https://japan-encyclopedia.vercel.app/#industry-attractions — 68 篇
-- [美食] https://japan-encyclopedia.vercel.app/#industry-dining — 19 篇
+- [公園] https://japan-encyclopedia.vercel.app/#industry-公園 — 347 篇
+- [景點] https://japan-encyclopedia.vercel.app/#industry-attractions — 72 篇
+- [美食] https://japan-encyclopedia.vercel.app/#industry-dining — 20 篇
 - [美食] https://japan-encyclopedia.vercel.app/#industry-food — 15 篇
 - [健康] https://japan-encyclopedia.vercel.app/#industry-wellness — 10 篇
-- [活動] https://japan-encyclopedia.vercel.app/#industry-events — 6 篇
+- [活動] https://japan-encyclopedia.vercel.app/#industry-events — 9 篇
 - [文化] https://japan-encyclopedia.vercel.app/#industry-culture — 3 篇
-- [住宿] https://japan-encyclopedia.vercel.app/#industry-hotels — 2 篇
+- [住宿] https://japan-encyclopedia.vercel.app/#industry-hotels — 3 篇
 - [education] https://japan-encyclopedia.vercel.app/#industry-education — 1 篇
 - [食材供應] https://japan-encyclopedia.vercel.app/#industry-food-supply — 1 篇
 - [healthcare] https://japan-encyclopedia.vercel.app/#industry-healthcare — 1 篇
