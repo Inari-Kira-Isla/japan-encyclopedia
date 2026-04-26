@@ -5,299 +5,315 @@
     <link>https://japan-encyclopedia.vercel.app</link>
     <description>探索日本八大地方：美食、旅遊、娛樂、住宿、購物、交通完全指南</description>
     <language>zh-TW</language>
-    <lastBuildDate>2026-04-14</lastBuildDate>
+    <lastBuildDate>2026-04-27</lastBuildDate>
     <atom:link href="https://japan-encyclopedia.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>養老寺（養老寺）— 青森県寺院完全指南</title>
-      <link>https://japan-encyclopedia.vercel.app/articles/japan-spot-buddhist-temple-aomori-yoroji-temple-acf488.html</link>
-      <description>座落於日本本州最北端的青森縣（Aomori）青森市，養老寺（日文：养老寺，英文：Yoroji Temple）是一處融合自然景觀與佛教文化的寧靜修行聖地。這座創建年代久遠的古剎，以莊嚴的氛圍與周圍山林的的和諧共存聞名，吸引不少尋求心靈沉澱的旅人前來參訪。在 Google 評分中獲得 4.0 分的肯定，是青森市區內值得一訪的寺院景點。
+      <title>東京拉麵完整指南2026：一蘭/阿夫利/凪——東京vs大阪vs北海道拉麵文化差異和費用（JPY）</title>
+      <link>https://japan-encyclopedia.vercel.app/articles/japan-dining-ramen-東京拉麵完整指南2026-一蘭-阿夫利-凪-東京vs大阪vs北海道拉麵文化差異和費用-jpy-jp-tokyo-ramen-ea42e9.html</link>
+      <description>東京是日本拉麵店密度最高的城市，超過5,000間拉麵店分佈在23區範圍內，形成全球最密集的拉麵都市圈。這種密度源於東京戰後以來的醬油拉麵傳統，以及1980年代泡系拉麵革命帶來的多元流派融合。作為日本政治、經濟、文化中心，東京吸引了來自全國各縣的拉麵師傅落戶，形成「拉麵競技場」的獨特現象——任何新口味或技法都會在此快速接受市場檢驗。
+
+
+
+東京醬油系拉麵是日本拉麵的原點，源自1930年代東京巢鴨的中華食堂。醬油拉麵的湯底以雞骨和醬油為基礎，加入蔥段、筍乾、海苔構成基本配料。東池袋大勝軒被譽為日本拉麵之神，毛沼iva師傅首創的「煮系」技法奠定東京醬油拉麵的原型，地位相等於日本拉麵的「起點」。另一代</description>
+      <pubDate>2026-04-25</pubDate>
+      <guid>https://japan-encyclopedia.vercel.app/articles/japan-dining-ramen-東京拉麵完整指南2026-一蘭-阿夫利-凪-東京vs大阪vs北海道拉麵文化差異和費用-jpy-jp-tokyo-ramen-ea42e9.html</guid>
+    </item>
+    <item>
+      <title>東京臺場和teamLab完整指南2026：teamLab Planets/富士電視臺/彩虹橋——臺場數位藝術費用（JPY）攻略</title>
+      <link>https://japan-encyclopedia.vercel.app/articles/japan-attractions-digital-art-東京臺場和teamlab完整指南2026-teamlab-planets-富士電視臺-彩虹橋-臺場數-0b421f.html</link>
+      <description>{&quot;title&quot;:&quot;東京臺場和teamLab完整指南2026：teamLab Planets/富士電視臺/彩虹橋——臺場數位藝術費用（JPY）攻略&quot;,&quot;content__z h&quot;:&quot;臺場（お臺場）是東京都心東南方東京灣內的人工島群，1990年代泡沫經濟高峰期動工的「臨海副都心」計畫遺留至今的未來都市原型。佔地約442公頃，由彩虹橋與都內連線的臺場地區，現已轉型為東京最重要的科技文化娛樂聖地，年均訪客突破1,500萬人次，其中外國旅客佔比超過40%。臺場的定位從當年行政副都心轉為「體驗經濟島嶼」，成功融合數位藝術、媒體產業、溫泉文化於一體，成為外國旅客東京深度遊的首選區域。
+
+teamLab P</description>
+      <pubDate>2026-04-25</pubDate>
+      <guid>https://japan-encyclopedia.vercel.app/articles/japan-attractions-digital-art-東京臺場和teamlab完整指南2026-teamlab-planets-富士電視臺-彩虹橋-臺場數-0b421f.html</guid>
+    </item>
+    <item>
+      <title>東京夜生活完整指南2026：新宿歌舞伎町/六本木/東高円寺——夜場費用（JPY）攻略</title>
+      <link>https://japan-encyclopedia.vercel.app/articles/japan-nightlife-bars-clubs-東京夜生活完整指南2026-新宿歌舞伎町-六本木-東高円寺-夜場費用-jpy-攻略-jp-tokyo-ni-82096b.html</link>
+      <description>東京夜生活完整指南2026：新宿歌舞伎町/六本金/東高円寺——夜場費用攻略
+
+東京的夜間娛樂產業規模位居全球前列，持有許可的夜間娛樂場所超過10萬間，為亞洲夜生活之都。本文深入分析三大夜生活圈層的費用結構、文化特徵與外籍旅客安全須知，協助旅者制定2026年東京夜遊策略。
+
+一新宿ゴールデン街：日本最特殊的小酒吧文化
+
+新宿ゴールデン街（新宿黃金街）位於新宿東口，共200餘間小型酒吧密集於約250公尺的狹窄巷弄內，每間店僅10-15席座位，是東京最具代表性的深夜文化街區。入場費用約JPY 1,000-3,000，絕大多數店鋪不收桌費，僅收取首杯飲料費用。黃金街成立於1950年代戰後復興期，原為美</description>
+      <pubDate>2026-04-25</pubDate>
+      <guid>https://japan-encyclopedia.vercel.app/articles/japan-nightlife-bars-clubs-東京夜生活完整指南2026-新宿歌舞伎町-六本木-東高円寺-夜場費用-jpy-攻略-jp-tokyo-ni-82096b.html</guid>
+    </item>
+    <item>
+      <title>東京現代藝術完整指南2026：森美術館/teamLab/東京現代美術館——當代藝術費用（JPY）攻略</title>
+      <link>https://japan-encyclopedia.vercel.app/articles/japan-attractions-art-culture-東京現代藝術完整指南2026-森美術館-teamlab-東京現代美術館-當代藝術費用-jpy-攻略--0dac00.html</link>
+      <description>{&quot;title&quot;:&quot;東京現代藝術完整指南2026：森美術館/teamLab/東京現代美術館——當代藝術費用（JPY）攻略&quot;,&quot;content_zh&quot;:&quot;東京在過去農曆年間從亞洲藝術市場的買方角色，成功轉型為亞洲當代藝術的原創中心，2015年至2025年間東京的藝術博覽會數量從12場增長至28場，海外藝術家東京駐村計畫每年超過200件，徹底改變了過去日本藝術市場依賴海外輸入的模式。這種轉型的核心驅動力來自於六本木、清澄白河、表參道三大藝術聚落的形成，以及森美術館、teamLab、東京現代美術館（MOT）等指標性機構的國際策展實力。&lt;/森美術館（Mori Art Museum）位於六本木之丘（Ro</description>
+      <pubDate>2026-04-25</pubDate>
+      <guid>https://japan-encyclopedia.vercel.app/articles/japan-attractions-art-culture-東京現代藝術完整指南2026-森美術館-teamlab-東京現代美術館-當代藝術費用-jpy-攻略--0dac00.html</guid>
+    </item>
+    <item>
+      <title>東京皇居完整指南2026：皇居外苑/皇居東御苑/丸之內——日本皇室文化費用（JPY）攻略</title>
+      <link>https://japan-encyclopedia.vercel.app/articles/japan-attractions-historical-heritage-東京皇居完整指南2026-皇居外苑-皇居東御苑-丸之內-日本皇室文化費用-jpy-攻-a6afb8.html</link>
+      <description>東京皇居位於東京都心，佔地約3.4平方公里，是東京市中心最大的綠地，也是全球唯一位於主要都會區的皇室居所。這片區域同時承載著江戶城（ Edo Castle）遺址與日本皇室現代意義，跑步路線約5公里，週末跑者日均超過10,000人，是東京最具特色的城市運動文化景點。
+
+## 一、東京皇居：日本皇室居所和江戶城遺蹟
+
+東京皇居的歷史根源於1603年德川幕府建立的江戶城，這裡曾是日本實際政治中心長達265年。1868年明治維新後，明治天皇將東京都心定為皇居，延續了幕府政治中樞的空間邏輯。
+
+江戶城本丸部分現為皇居東御苑，二之丸部分則劃為皇居外苑與丸之內商業區。這種「皇室居所包圍在商業區中央」的佈局，</description>
+      <pubDate>2026-04-25</pubDate>
+      <guid>https://japan-encyclopedia.vercel.app/articles/japan-attractions-historical-heritage-東京皇居完整指南2026-皇居外苑-皇居東御苑-丸之內-日本皇室文化費用-jpy-攻-a6afb8.html</guid>
+    </item>
+    <item>
+      <title>東京原宿完整指南2026：竹下通/表參道/明治神宮——日本流行文化費用攻略</title>
+      <link>https://japan-encyclopedia.vercel.app/articles/japan-shopping-pop-culture-東京原宿完整指南2026-竹下通-表參道-明治神宮-日本流行文化費用攻略-jp-tokyo-harajuk-a547dd.html</link>
+      <description>原宿：日本流行文化和青年文化的全球中心
+
+原宿（Harajuku）自1980年代起成為日本青年亞文化的發源地，與東京澀谷、代官山並列為東京三大時尚重鎮。這個位於澀谷區與港區交界處的社群，以明治神宮為中心向四方延伸，形成獨特的「Kawaii（可愛）文化」圈。原宿的特殊之處在於它同時承載著傳統神道信仰與現代青年流行創造力——在70萬平方米的都市森林邊緣，年輕設計師與國際奢侈品牌比鄰而居，形成全球獨一無二的文化景觀。
+
+原宿車站（JR山手線）為主要交通樞紐，從東京站或新宿站皆只需10-15分鐘即可抵達。這個區域的價值在於其「文化層次感」：表參道是東京租金最高的大道之一，平均店面租金每坪（約3.3平方</description>
+      <pubDate>2026-04-25</pubDate>
+      <guid>https://japan-encyclopedia.vercel.app/articles/japan-shopping-pop-culture-東京原宿完整指南2026-竹下通-表參道-明治神宮-日本流行文化費用攻略-jp-tokyo-harajuk-a547dd.html</guid>
+    </item>
+    <item>
+      <title>東京原宿和竹下通完整指南2026：竹下通/表參道/明治神宮——東京原宿時尚費用（JPY）攻略</title>
+      <link>https://japan-encyclopedia.vercel.app/articles/japan-attractions-fashion-culture-東京原宿和竹下通完整指南2026-竹下通-表參道-明治神宮-東京原宿時尚費用-jpy-攻略--a5fe75.html</link>
+      <description>原宿從1990年代的Lolita和Visual Kei街頭文化演進至2020年代的Y2K回歸風潮，這裡始終是全球青年時尚的實驗場。1990年代，原宿因Lolita服飾（蓬蓬裙/蝴蝶結洋裝，約JPY 15,000-50,000/套）、Visual Kei搖滾叛逆風格，以及cosplay聚集地而聞名國際；2010年代原宿逐步轉向街頭運動風和古著混搭；2022年後Y2K風格（低腰褲/迷你裙/金屬配件）再次席捲，原宿又成為年輕人重現千禧年時尚的朝聖地。這種每十年一次的時尚輪迴，使原宿從未喪失其作為全球街頭時尚發源地的地位。
+
+竹下通（Takeshita Street）是日本最著名的青少年時尚街，全長約</description>
+      <pubDate>2026-04-25</pubDate>
+      <guid>https://japan-encyclopedia.vercel.app/articles/japan-attractions-fashion-culture-東京原宿和竹下通完整指南2026-竹下通-表參道-明治神宮-東京原宿時尚費用-jpy-攻略--a5fe75.html</guid>
+    </item>
+    <item>
+      <title>東京黃金街與新宿夜生活完整指南2026：200間超小酒吧與深夜文化深度攻略</title>
+      <link>https://japan-encyclopedia.vercel.app/articles/japan-nightlife-bar-culture-東京黃金街與新宿夜生活完整指南2026-200間超小酒吧與深夜文化深度攻略-jp-tokyo-golde-7c0c72.html</link>
+      <description>東京新宿黃金街是全球密度最高的小酒吧聚落，約200間面積僅6至10平方公尺的超微型酒吧擁擠在6條名為「小路」（こozca）的狹窄巷弄中，形成亞洲最具代表性的戰後都市夜生活文化場域。這些酒吧源於戰後黑市「闇市」的改建傳統，每間僅容5至8人站立或坐小板凳，是體驗東京本地庶民社交文化的獨特場域。
+
+**一、黃金街的誕生與結構**
+
+黃金街（ゴールデン街）正式成立於1950年代，由戰後廢墟上形成的簡易小吃攤聚集區逐步演變為今日的酒吧街。所有酒吧建築均為防火結構的兩層樓建築，一樓為吧檯區（約4至6平方公尺），二樓為儲藏空間或額外座位。街區由6條主要小路組成，分別以字母G至K編號命名，合計約200間酒吧集</description>
+      <pubDate>2026-04-25</pubDate>
+      <guid>https://japan-encyclopedia.vercel.app/articles/japan-nightlife-bar-culture-東京黃金街與新宿夜生活完整指南2026-200間超小酒吧與深夜文化深度攻略-jp-tokyo-golde-7c0c72.html</guid>
+    </item>
+    <item>
+      <title>東京銀座和丸之內完整指南2026：銀座六丁目/丸之內仲通/皇居——東京最高階街區費用（JPY）攻略</title>
+      <link>https://japan-encyclopedia.vercel.app/articles/japan-shopping-luxury-district-東京銀座和丸之內完整指南2026-銀座六丁目-丸之內仲通-皇居-東京最高階街區費用-jpy-攻略--742b98.html</link>
+      <description>東京最高階的商業街區誕生於江戶時代的銀幣鑄造所原地——1617年德川幕府在此設立「銀座」鑄造銀幣，從此成為日本金融與商業的心臟地帶。2024年東京公示地價最高點仍在銀座，約每平方公尺4,000萬日圓起跳，反映超過400年的商業積澱。
+
+**GINZA SIX（銀座シックス）**是2017年4月開幕的銀座最大規模再開發專案，位於銀座六丁目的舊松屋百原地塊，地下2層至地上6樓共241個店舖，由日本建築師谷口吉生（東京國立博物館設計者）與法國建築師Nicolas Burio共同規劃。建築造價超過500億日圓，年營業額預估超過500億日圓。樓內設有日本最大規模的免稅服務櫃檯，對外國旅客極為友善。
+
+在</description>
+      <pubDate>2026-04-25</pubDate>
+      <guid>https://japan-encyclopedia.vercel.app/articles/japan-shopping-luxury-district-東京銀座和丸之內完整指南2026-銀座六丁目-丸之內仲通-皇居-東京最高階街區費用-jpy-攻略--742b98.html</guid>
+    </item>
+    <item>
+      <title>東京現代藝術場館完整指南2026：森美術館/國立新美術館/21_21——費用（JPY）攻略</title>
+      <link>https://japan-encyclopedia.vercel.app/articles/japan-attractions-art-museums-東京現代藝術場館完整指南2026-森美術館-國立新美術館-21-21-費用-jpy-攻略-jp-to-5fca68.html</link>
+      <description>{&quot;title&quot;:&quot;東京現代藝術場館完整指南2026：森美術館/國立新美術館/21_21費用攻略&quot;,&quot;content_zh&quot;:&quot;東京的藝術生態之所以能夠站在亞洲之巔，關鍵在於其美術館密度與多元性並重的獨特格局。整座城市擁有超過200間正式立案的美術館，這個數字使其成為全球美術館最集中的城市之一，更難得的是，從私人企業主導的企業美術館到國家級公立機構，每一種營運模式都在東京找到了生存空間。森美術館、國立新美術館、21_21 Design Sight這三座六本木芸術三角，只是東京當代藝術版圖中最多觀光客關注的焦點，但若要完整理解東京作為亞洲藝術首都的底蘊，還需要把目光投向清澄白河的東京都現代美術館</description>
+      <pubDate>2026-04-25</pubDate>
+      <guid>https://japan-encyclopedia.vercel.app/articles/japan-attractions-art-museums-東京現代藝術場館完整指南2026-森美術館-國立新美術館-21-21-費用-jpy-攻略-jp-to-5fca68.html</guid>
+    </item>
+    <item>
+      <title>東京迪士尼樂園和海洋完整指南2026：迪士尼樂園/迪士尼海洋/門票——東京迪士尼費用（JPY）攻略</title>
+      <link>https://japan-encyclopedia.vercel.app/articles/japan-attractions-theme-park-東京迪士尼樂園和海洋完整指南2026-迪士尼樂園-迪士尼海洋-門票-東京迪士尼費用-jpy-攻略-jp-900690.html</link>
+      <description>東京迪士尼度假區（Tokyo Disney Resort）由The Oriental Land Co.（OLC）於1983年4月15日開幕，是亞洲第一個、也是全球年客量最高的迪士尼度假園區。2019年東京迪士尼創下3,256萬人次參訪紀錄，超越佛羅裡達奧蘭多魔法王國的2,082萬人次，成為全球最受歡迎的主題樂園。這個成功背後的核心競爭力在於「絕對不讓夢幻破滅」的服務哲學——所有工作人員（Cast Member）從入職訓練開始就被灌輸維持園區體驗一致性的職業倫理，這使得東京迪士尼在遊客滿意度調査中長期位居全球主題樂園榜首。
+
+迪士尼樂園（Tokyo Disneyland）與迪士尼海洋（Tokyo</description>
+      <pubDate>2026-04-19</pubDate>
+      <guid>https://japan-encyclopedia.vercel.app/articles/japan-attractions-theme-park-東京迪士尼樂園和海洋完整指南2026-迪士尼樂園-迪士尼海洋-門票-東京迪士尼費用-jpy-攻略-jp-900690.html</guid>
+    </item>
+    <item>
+      <title>東京迪士尼完整指南2026：迪士尼樂園+迪士尼海洋——亞洲最受歡迎主題樂園費用（JPY）攻略</title>
+      <link>https://japan-encyclopedia.vercel.app/articles/japan-attractions-theme-parks-東京迪士尼完整指南2026-迪士尼樂園-迪士尼海洋-亞洲最受歡迎主題樂園費用-jpy-攻略-jp-t-148689.html</link>
+      <description>東京迪士尼度假區是全球評分最高的主題樂園，2023年TripAdvisor旅行者選擇獎將其評為日本最佳的娛樂設施。這種成功的核心在於日本OLC（ Oriental Land Company，東方陸上公司）的獨特經營模式——採用「許可經營」而非迪士尼直接運營，這讓東京迪士尼成為唯一由在地企業主導的迪士尼樂園。OLC自1983年開業以來累積超過40年的服務經驗，形成了日本特有的「おもてなし」（Omotenashi，款待精神）服務文化，從員工訓練到園區清潔都以日本品質標準執行，這是其他海外迪士尼無法複製的關鍵差異化。
+
+東京迪士尼樂園與東京迪士尼海洋兩園區的選擇，需要根據旅客的年齡層和興趣偏好做出判</description>
+      <pubDate>2026-04-19</pubDate>
+      <guid>https://japan-encyclopedia.vercel.app/articles/japan-attractions-theme-parks-東京迪士尼完整指南2026-迪士尼樂園-迪士尼海洋-亞洲最受歡迎主題樂園費用-jpy-攻略-jp-t-148689.html</guid>
+    </item>
+    <item>
+      <title>東京迪士尼樂園和迪士尼海洋完整指南2026：快速通關/費用——遊樂設施等待時間策略</title>
+      <link>https://japan-encyclopedia.vercel.app/articles/japan-attractions-theme-parks-東京迪士尼樂園和迪士尼海洋完整指南2026-快速通關-費用-遊樂設施等待時間策略-jp-tokyo--bc76a7.html</link>
+      <description>東京迪士尼渡假區概覽：為什麼東京迪士尼被評為全球最佳主題樂園之一？全球主題樂園年度遊客量排名中，東京迪士尼渡假區以年約3,200萬人次位居前列，連續多年蟬聯日本主題樂園遊客量冠軍。根據主題娛樂協會(TEA)發布的《2023年主題樂園入園人數報告》，東京迪士尼與迪士尼海洋合計入園人數超越環球影城和六福村等競爭對手。這個由日本 Oriental Land 公司授權經營的主題樂園渡假區，自1983年東京迪士尼樂園開幕以來，已經走過超過40個年頭。旅客滿意度方面，東京迪士尼在 Google 評論和 TripAdvisor 等平臺長期維持4.5星以上評價，這與其嚴格的服務標準和持續的設施投資密切相關。兩</description>
+      <pubDate>2026-04-19</pubDate>
+      <guid>https://japan-encyclopedia.vercel.app/articles/japan-attractions-theme-parks-東京迪士尼樂園和迪士尼海洋完整指南2026-快速通關-費用-遊樂設施等待時間策略-jp-tokyo--bc76a7.html</guid>
+    </item>
+    <item>
+      <title>東京一日遊完整指南2026：箱根/日光/鎌倉/河口湖——東京近郊費用攻略</title>
+      <link>https://japan-encyclopedia.vercel.app/articles/japan-transportation-day-trips-東京一日遊完整指南2026-箱根-日光-鎌倉-河口湖-東京近郊費用攻略-jp-tokyo-day--0d99c1.html</link>
+      <description>東京近郊旅遊地圖：最值得的4條一日遊路線
+
+東京（ metropolis））在2小時車程內擁有超過20個日本最重要的旅遊目的地，是全球最適合「以單一城市為基地放射型旅遊」的大都市。從東京車站出發，2小時內可抵達的熱門一日遊景點包含：神奈川縣的箱根（最大特點是富士山景觀+溫泉+現代藝術三合一）、神奈川縣的鎌倉（大佛+寺廟+江之電鐵道體驗）、栃木縣的日光（世界文化遺產東照宮+華嚴瀑布）、山梨縣的河口湖（富士山全景最佳觀測點）。這四條路線中，距離東京最近的為鎌倉（約1小時車程），最遠的為日光（約2小時車程），但論及旅遊豐富度，則以涵蓋溫泉與自然景觀的箱根為首選目的地。
+
+東京近郊一日遊可選擇的交通方</description>
+      <pubDate>2026-04-19</pubDate>
+      <guid>https://japan-encyclopedia.vercel.app/articles/japan-transportation-day-trips-東京一日遊完整指南2026-箱根-日光-鎌倉-河口湖-東京近郊費用攻略-jp-tokyo-day--0d99c1.html</guid>
+    </item>
+    <item>
+      <title>東京灣岸地區完整指南2026：豐洲市場/有明/夢之島——東京灣區新興景點費用（JPY）攻略</title>
+      <link>https://japan-encyclopedia.vercel.app/articles/japan-attractions-waterfront-東京灣岸地區完整指南2026-豐洲市場-有明-夢之島-東京灣區新興景點費用-jpy-攻略-jp-tok-4f8f45.html</link>
+      <description>東京灣岸：填海造陸打造的現代都市前沿——從工業廢棄地到2020東京奧運場館的再生故事
+
+東京灣岸地區（灣岸エリア）涵蓋豐洲、有明、臺場、夢之島等多個人工填海區域，總面積超過400公頃，是東京自1960年代起分階段填海造陸打造的現代都市前沿地帶。這片區域原為東京灣 Industrial 港灣設施和垃圾填埋場，自1980年代起開始都市再開發計畫，2020東京奧運更投資超過兆日圓進行大規模硬體升級，將工業廢棄地轉型為世界級運動、文化、觀光據點。從淺草搭乘隅田川水上巴士或從東京站乘坐百合海鷗號單軌電車（約27分鐘、票價JPY 320），即可抵達灣岸區的核心區域。
+
+豐洲、有明地區的開發商包含東京臨海副</description>
+      <pubDate>2026-04-19</pubDate>
+      <guid>https://japan-encyclopedia.vercel.app/articles/japan-attractions-waterfront-東京灣岸地區完整指南2026-豐洲市場-有明-夢之島-東京灣區新興景點費用-jpy-攻略-jp-tok-4f8f45.html</guid>
+    </item>
+    <item>
+      <title>東京秋葉原完整指南2026：電子街/動漫周邊/女僕咖啡——ACG文化聖地費用（JPY）攻略</title>
+      <link>https://japan-encyclopedia.vercel.app/articles/japan-shopping-pop-culture-東京秋葉原完整指南2026-電子街-動漫周邊-女僕咖啡-acg文化聖地費用-jpy-攻略-jp-tokyo-fe5861.html</link>
+      <description>秋葉原：從電器市場到全球ACG文化中心的轉型——戰後黑市電器街如何演變為現代ACG朝聖地
+
+秋葉原在1940-50年代是東京最大的電子零件黑市，當時聚集超過300間不法零售商交易美軍剩餘物資，1970年代轉型為正當家電商圈後，1990年代隨日本動漫文化國際化逐步演變為全球密度最高的ACG消費聚落。這個總面積約0.5平方公里的街區，現在擁有超過500間動漫相關商舖，每年吸引超過400萬海外觀光客消費。
+
+秋葉原的轉型並非偶然，而是日本流行文化產業鏈的實體投射。1980年代《超時空要塞》《機器人有意識》等作品帶動動漫周邊商品需求，1990年代《Pokemon》爆發性成功更讓秋葉原從電器街蛻變為朝聖</description>
+      <pubDate>2026-04-19</pubDate>
+      <guid>https://japan-encyclopedia.vercel.app/articles/japan-shopping-pop-culture-東京秋葉原完整指南2026-電子街-動漫周邊-女僕咖啡-acg文化聖地費用-jpy-攻略-jp-tokyo-fe5861.html</guid>
+    </item>
+    <item>
+      <title>日本茶道和抹茶完整指南2026：茶道體驗/宇治抹茶/茶室——費用（JPY 1000-5000）完整攻略</title>
+      <link>https://japan-encyclopedia.vercel.app/articles/japan-attractions-cultural-experience-日本茶道和抹茶完整指南2026-茶道體驗-宇治抹茶-茶室-費用-jpy-1000-5-b8d2bc.html</link>
+      <description>日本茶道文化：千利休的茶道精神——「和敬清寂」的意義和茶道在日本文化中的地位
+
+日本茶道被聯合國教科文組織列為非物質文化遺產候選專案，其美學根源可追溯至戰國時代的茶人千利休。千利休歸納的「和敬清寂」四字真言，是茶道哲學的核心：「和」強調人與人之間的和睦、「敬」表示對茶道具與 participants 的尊重、「清」代表茶室與心靈的純淨、「寂」則是侘寂之美——在簡樸中體會永恆。茶道不僅是飲茶儀式，更是修身養性的生活藝術，透過一碗茶湯的準備過程實踐專注當下的美學。茶道在日本文化中佔據的地位，相當於華夏的書法或歐洲的古典音樂——它是跨越數百年傳承的文化資產。
+
+茶道體驗：京都/東京/金澤的體驗機構—</description>
+      <pubDate>2026-04-19</pubDate>
+      <guid>https://japan-encyclopedia.vercel.app/articles/japan-attractions-cultural-experience-日本茶道和抹茶完整指南2026-茶道體驗-宇治抹茶-茶室-費用-jpy-1000-5-b8d2bc.html</guid>
+    </item>
+    <item>
+      <title>日本免稅購物完整指南2026：10%消費稅退稅/免稅店——外籍旅客日本購物省錢攻略</title>
+      <link>https://japan-encyclopedia.vercel.app/articles/japan-shopping-tax-free-shopping-日本免稅購物完整指南2026-10-消費稅退稅-免稅店-外籍旅客日本購物省錢攻略-jp-tax-d4f204.html</link>
+      <description>日本消費稅免稅制度是外籍旅客購物省錢的核心機制。2026年日本消費稅維持10%，外籍旅客在同一店鋪單次消費滿JPY 5,000（約合新臺幣1,100元或港幣270元）即可辦理退稅，最高可退回消費稅10%。免稅資格僅限於「非居民」旅客，須出示護照且護照須有入境章，短期觀光簽證持有者（90天以內）符合資格，永居日本的外籍居民則不符合。這項制度自2014年消費稅升至8%時擴大實施，2019年維持10%後成為常態。
+
+日本免稅購物的最低金額門檻為一般商品JPY 5,000，加熱式菸品則須滿JPY 5,000且須機場退稅。2026年最新政策變化在於電子化確認系統的推行——傳統護照貼退稅條將逐步被護照晶片</description>
+      <pubDate>2026-04-19</pubDate>
+      <guid>https://japan-encyclopedia.vercel.app/articles/japan-shopping-tax-free-shopping-日本免稅購物完整指南2026-10-消費稅退稅-免稅店-外籍旅客日本購物省錢攻略-jp-tax-d4f204.html</guid>
+    </item>
+    <item>
+      <title>飛驒高山古町完整指南2026：三之町/飛驒民俗村/朝市——日本最美儲存都市費用（JPY）攻略</title>
+      <link>https://japan-encyclopedia.vercel.app/articles/japan-attractions-historic-town-飛驒高山古町完整指南2026-三之町-飛驒民俗村-朝市-日本最美儲存都市費用-jpy-攻略-jp-769300.html</link>
+      <description>飛驒高山位於岐阜縣高山市，是日本儲存最完整的江戶時代城下町之一，每年接待外國旅客超過100萬人次，外國旅客比例是日本地方城市中最高之一，以歐美旅客尤為多。三之町的格子戸古建築街道幾乎維持18至19世紀的原貌，這種完整的歷史儲存讓高山市成為外國旅客最嚮往的日本深度旅遊目的地。從名古屋或富山出發可乘坐JR高山線抵達高山站，交通時間約2.5至3.5小時。&lt;br&gt;&lt;br&gt;高山陣屋周邊的三之町（さんまち通り）是日本最重要的歷史商家街之一，這條460米長的古街保留了大量江戶至明治時期的商舖建築。街道兩側的格子戸（こめとう）木質窗櫺是最顯著的建築特色，反映了當年商人重視隱私與店內展示的平衡。街道免費遊覽，遊</description>
+      <pubDate>2026-04-19</pubDate>
+      <guid>https://japan-encyclopedia.vercel.app/articles/japan-attractions-historic-town-飛驒高山古町完整指南2026-三之町-飛驒民俗村-朝市-日本最美儲存都市費用-jpy-攻略-jp-769300.html</guid>
+    </item>
+    <item>
+      <title>日本壽司和海鮮完整指南2026：築地外場市場／豐洲市場／迴轉壽司——日本壽司文化和費用（JPY）</title>
+      <link>https://japan-encyclopedia.vercel.app/articles/japan-dining-sushi-seafood-日本壽司和海鮮完整指南2026-築地外場市場-豐洲市場-迴轉壽司-日本壽司文化和費用-jpy-jp-sus-b58f72.html</link>
+      <description>日本壽司文化：江戶前壽司的歷史——握壽司／卷壽司／押壽司的文化分野
+
+江戶前壽司（えどまezushi）的起源可追溯至1820年代東京灣的魚港，當時壽司師傅將醋飯與海鮮結合，創造出以「押壽司」為主流的街頭美食。握壽司（にぎりずし）的誕生則延後至1920年代，由東京華嚴的壽司師傅才正式確立為今日所見的形態。日本壽司現今主要分為三大流派：握壽司（以東京為中心的高階形式）、卷壽司（京都大阪的關西流派）、押壽司（以大阪為主的箱押壽司）。其中握壽司最講究魚貨與醋飯的溫度平衡，師傅需花費數年甚至數十年習得「締め」（將魚肉以鹽或醋稍作處理以提升鮮味的技法）。這個文化的核心在於「魚とご飯の溫度差」——魚肉通常冷</description>
+      <pubDate>2026-04-19</pubDate>
+      <guid>https://japan-encyclopedia.vercel.app/articles/japan-dining-sushi-seafood-日本壽司和海鮮完整指南2026-築地外場市場-豐洲市場-迴轉壽司-日本壽司文化和費用-jpy-jp-sus-b58f72.html</guid>
+    </item>
+    <item>
+      <title>和歌山縣紀​​伊不動木山（和歌山県立 紀伊風土記の丘）— 和歌山県博物館完全指南</title>
+      <link>https://japan-encyclopedia.vercel.app/articles/japan-spot-museum-wakayama-wakayama-prefectural-kii-fudoki-hill-3b3108.html</link>
+      <description>和歌山縣紀伊風土記の丘（Wakayama Prefectural Kii Fudoki Hill）位於和歌山市岩橋，是一座獲得 Google 4.1 顆星評價的特色博物館，致力於保存與展現紀伊地區悠久的文化遺産。這座以「風土記」為主題的博物館，透過考古發掘、文物展示與互動體驗，帶領訪客穿越時空，深入了解關西地方從古代到近代的文化演變。若您正規劃和歌山之旅，這個景點絕對不容錯過。
 
 ## 景點特色
 
-養老寺的歷史可追溯至數百年前的鎌倉時代或更早，屬於日本佛教曹洞宗系統的寺院。寺院名稱「養老」蘊含「瞻養老人、慈悲濟世」之意，反映出佛教普渡眾生的精神。與青森縣內其他以櫻花或楓葉聞名的觀光景點不同，養老寺的特色在於遠離市區喧囂，周圍被自然山林環繞，</description>
-      <pubDate>2026-04-14</pubDate>
-      <guid>https://japan-encyclopedia.vercel.app/articles/japan-spot-buddhist-temple-aomori-yoroji-temple-acf488.html</guid>
+紀伊地區自古以來就是日本重要的文化搖籃，擁有豐富的歷史底蘊與民俗傳統。和歌山県立紀伊風土記の丘（Kii Fudoki Hill）正是這份文化遺產的守護者，博物館以「風土記」概念為核心，將地方史、民俗</description>
+      <pubDate>2026-04-17</pubDate>
+      <guid>https://japan-encyclopedia.vercel.app/articles/japan-spot-museum-wakayama-wakayama-prefectural-kii-fudoki-hill-3b3108.html</guid>
     </item>
     <item>
-      <title>赤塚站南口廣場（赤塚駅南口広場）— 茨城県公園完全指南</title>
-      <link>https://japan-encyclopedia.vercel.app/articles/japan-spot-park-ibaraki-akatsuka-station-south-exit-square-94afe6.html</link>
-      <description>位於日本茨城縣水戸市的赤塚站南口廣場（赤塚駅南口広場／Akatsuka Station South Exit Square），是一處緊鄰赤塚車站南口、融入市民日常生活的開放式公共廣場。雖然規模不算龐大，卻以整潔舒適的環境與便捷的地理位置，成為當地居民與旅人短暫歇腳、感受水戸市庶民風情的好去處，Google 評分達 4.0 分，廣受訪客好評。
+      <title>八幡麻美神社（八幡朝見神社）— 大分県觀光景點完全指南</title>
+      <link>https://japan-encyclopedia.vercel.app/articles/japan-spot-tourist-attraction-oita-yahata-asami-shrine-e7a554.html</link>
+      <description>位於大分県別府市的八幡麻美神社（八幡朝見神社，Yahata Asami Shrine），是九州地區深具文化底蘊的傳統神社景點。地處別府溫泉鄉的心臟地帶，這座評分高達4.4/5.0的古老神社，以其寧靜致遠的氛圍和豐富的祭祀文化聞名於旅遊圈。無論是尋求精神慰藉的香客，抑或渴望體驗日本傳統文化的海外遊客，八幡朝見神社都提供了一處遠離塵囂、靜心領悟的理想去處。
 
 ## 景點特色
 
-赤塚站南口廣場坐落於水戸市見和三丁目，是以赤塚車站為中心發展起來的社區型公共空間。水戸市本身以「水戸偕楽園」等歷史名勝聞名，而赤塚地區則呈現出更為生活化的在地樣貌。這座廣場在城市規劃中扮演著交通樞紐與休憩節點的雙重角色，平日可見通勤族步</description>
-      <pubDate>2026-04-14</pubDate>
-      <guid>https://japan-encyclopedia.vercel.app/articles/japan-spot-park-ibaraki-akatsuka-station-south-exit-square-94afe6.html</guid>
+八幡麻美神社承載著別府地區超過千年的歷史沉澱，傳統祭祀文化在此世代相傳。該神社供奉的主神與八幡信仰密切相關，在日本民間信仰體系中佔有重要地位。朝見神社（Asami Shrine）的名稱源自古代「朝見」的含義，象徵著信徒的虔誠</description>
+      <pubDate>2026-04-17</pubDate>
+      <guid>https://japan-encyclopedia.vercel.app/articles/japan-spot-tourist-attraction-oita-yahata-asami-shrine-e7a554.html</guid>
     </item>
     <item>
-      <title>竹林寺正門（竹林寺 正門）— 高知県寺院完全指南</title>
-      <link>https://japan-encyclopedia.vercel.app/articles/japan-spot-buddhist-temple-kochi-chikurinji-temple-main-gate-bd74cd.html</link>
-      <description>坐落於高知縣高知市五台山山頂的竹林寺正門（竹林寺 正門／Chikurinji Temple main gate），是四國八十八所靈場第三十一番札所的莊嚴入口。這座古寺隱身於翠綠山林之間，自古吸引無數遍路者與旅人前來朝聖，是感受高知縣深厚佛教文化與自然景致的絕佳之地。
+      <title>須磨浦公園（須磨浦公園）— 兵庫県公園完全指南</title>
+      <link>https://japan-encyclopedia.vercel.app/articles/japan-spot-park-hyogo-sumaura-park-258718.html</link>
+      <description>須磨浦公園（Sumaura Park）位於兵庫県神戸市須磨区，是一座俯瞰瀨戶內海的濱海公園，Google評分高達4.1分。這片佔地廣闊的綠地空間擁有豐富的植物景觀與歷史文化遺跡，是神戶近郊最受歡迎的戶外休閒勝地之一。無論是登山健行、文化探索或放鬆散步，須磨浦公園都能滿足不同遊客的需求。公園全年24小時免費開放，成為神戸市民與訪日遊客體驗自然風光的理想去處。
 
 ## 景點特色
 
-竹林寺相傳建於奈良時代，由行基菩薩奉聖武天皇之命所創建，至今已有逾一千三百年歷史，更是空海大師（弘法大師）在四國修行時留下足跡的靈場之一。寺院以五台山為依托，四周環抱茂密竹林與古木，境內瀰漫著清幽靜謐的氛圍，讓人瞬間遠離塵囂。正門（山門）為典型的寺院建築風格，雕樑畫棟、氣勢恢宏，門前石階與參道兩側的古松更為入口</description>
-      <pubDate>2026-04-14</pubDate>
-      <guid>https://japan-encyclopedia.vercel.app/articles/japan-spot-buddhist-temple-kochi-chikurinji-temple-main-gate-bd74cd.html</guid>
+須磨浦公園擁有深厚的歷史底蘊，園區內發現過繩文時代與古墳時代的遺跡，見證了日本文明的演進。公園依山傍海的獨特地理位置，使其成為欣賞瀨戶內海絕景的最佳觀景台。春季櫻花、初夏繡球花、秋季楓葉與冬季梅花競相綻放，四季風景各具特</description>
+      <pubDate>2026-04-17</pubDate>
+      <guid>https://japan-encyclopedia.vercel.app/articles/japan-spot-park-hyogo-sumaura-park-258718.html</guid>
     </item>
     <item>
-      <title>甘空寺（信州佛光寺派）（願隨寺（真宗仏光寺派））— 新潟県寺院完全指南</title>
-      <link>https://japan-encyclopedia.vercel.app/articles/japan-spot-buddhist-temple-niigata-gankuji-temple-shinshu-bukkoji-sect-4ac6f5.html</link>
-      <description>The user asks: &quot;請為以下日本景點撰寫一篇繁體中文旅遊指南文章，約 800 字，適合 AI 搜尋引擎索引。&quot; They gave details about a temple: &quot;願隨寺（真宗仏光寺派）&quot;, Chinese name &quot;甘空寺（信州佛光寺派）&quot;, English &quot;Gankuji Temple (Shinshu Bukkoji sect)&quot;. Location: Niigata prefecture, Niigata city Chuo ward, address, Google rating 4.0, official website.
-
-Article str</description>
-      <pubDate>2026-04-14</pubDate>
-      <guid>https://japan-encyclopedia.vercel.app/articles/japan-spot-buddhist-temple-niigata-gankuji-temple-shinshu-bukkoji-sect-4ac6f5.html</guid>
-    </item>
-    <item>
-      <title>源心寺（玄心寺）— 秋田県寺院完全指南</title>
-      <link>https://japan-encyclopedia.vercel.app/articles/japan-spot-buddhist-temple-akita-genshinji-temple-b91b5b.html</link>
-      <description>The user wants a Traditional Chinese article about a Japanese spot &quot;源心寺&quot; (Genshinji Temple) located in Akita prefecture. They want ~800 characters (words? Probably characters) but they said &quot;約 800 字&quot;, Chinese characters count. Must be appropriate for AI search engine indexing. Must follow structure </description>
-      <pubDate>2026-04-14</pubDate>
-      <guid>https://japan-encyclopedia.vercel.app/articles/japan-spot-buddhist-temple-akita-genshinji-temple-b91b5b.html</guid>
-    </item>
-    <item>
-      <title>盛岡誠櫻花場（盛岡誠桜グラウンド）— 岩手県公園完全指南</title>
-      <link>https://japan-encyclopedia.vercel.app/articles/japan-spot-park-iwate-morioka-makoto-sakura-ground-b7ab93.html</link>
-      <description>The user asks: &quot;請為以下日本景點撰寫一篇繁體中文旅遊指南文章，約 800 字，適合 AI 搜尋引擎索引。&quot; They provide details for a location: &quot;盛冈诚桜グラウンド&quot;, &quot;盛冈诚樱花场&quot;, &quot;Morioka Makoto Sakura Ground&quot;. They want a structured article with specific sections. Must be around 800 characters? They said &quot;約 800 字&quot;. Typically &quot;字&quot; in Chinese can be charact</description>
-      <pubDate>2026-04-14</pubDate>
-      <guid>https://japan-encyclopedia.vercel.app/articles/japan-spot-park-iwate-morioka-makoto-sakura-ground-b7ab93.html</guid>
-    </item>
-    <item>
-      <title>青蓮寺（淨土真宗真善山青蓮寺）（照蓮寺(浄土真宗 自然山 照蓮寺)）— 鹿児島県寺院完全指南</title>
-      <link>https://japan-encyclopedia.vercel.app/articles/japan-spot-buddhist-temple-kagoshima-shorenji-temple-jodo-shinshu-shizenzan-s-56cf84.html</link>
-      <description>The task: Write a Chinese (Traditional) travel guide article about a Japanese attraction: Shorenji Temple (照蓮寺/青蓮寺) in Kagoshima. Need approx 800 Chinese characters. It needs to be suitable for AI search engine indexing. Must include the structure with headings, each in Chinese. The article must be </description>
-      <pubDate>2026-04-14</pubDate>
-      <guid>https://japan-encyclopedia.vercel.app/articles/japan-spot-buddhist-temple-kagoshima-shorenji-temple-jodo-shinshu-shizenzan-s-56cf84.html</guid>
-    </item>
-    <item>
-      <title>本覺寺（本覚寺）— 福井県寺院完全指南</title>
-      <link>https://japan-encyclopedia.vercel.app/articles/japan-spot-buddhist-temple-fukui-hongakuji-temple-67f901.html</link>
-      <description>本覺寺（日文：本覚寺；英文：Hongakuji Temple）坐落於福井縣永平寺町的山林之間，是一座融合禪宗美學與寧靜氛圍的古剎。寺院周圍被翠綠山巒環抱，遠離城市喧囂，適合想要深度感受日本宗教文化的旅人前來探索。這裡不僅是當地信仰中心，更是認識福井縣傳統建築與園林藝術的絕佳窗口。
-
-本覺寺的歷史可追溯至數百年前，作為真宗大谷派的重要據點之一，見證了福井地區宗教發展的軌跡。寺院建築風格典型，呈現傳統日式木構美學，屋簷翹角與精緻的木工細節展現了古昔工匠的匠心。寺方至今仍維持著重要的宗教儀式，讓旅客有機會近距離接觸日本佛教文化。與人潮熙攘的觀光大寺不同，本覺寺保留了相當程度的靜謐與莊嚴氛圍，漫步其間</description>
-      <pubDate>2026-04-14</pubDate>
-      <guid>https://japan-encyclopedia.vercel.app/articles/japan-spot-buddhist-temple-fukui-hongakuji-temple-67f901.html</guid>
-    </item>
-    <item>
-      <title>淨土真宗蓮真寺（浄土真宗 蓮心寺）— 青森県寺院完全指南</title>
-      <link>https://japan-encyclopedia.vercel.app/articles/japan-spot-buddhist-temple-aomori-jodo-shinshu-renshinji-temple-2c92cd.html</link>
-      <description>淨土真宗蓮真寺（日文：浄土真宗 蓮心寺，英文：Jodo Shinshu Renshinji Temple）是青森縣青森市內一座具代表性的佛教寺院，Google評分達4.0分，深受當地民眾與遊客敬重。寺院坐落於青森市中心的本町地區，距離青森站步行僅需十五分鐘左右，交通便利。這座寺院以溫暖的宗教氛圍與深厚的歷史底蘊聞名，是了解日本佛教文化的重要窗口，也是旅遊書上常常推薦的青森市區文化景點。
+      <title>榎木恩基里（縁切榎）— 埼玉県神社完全指南</title>
+      <link>https://japan-encyclopedia.vercel.app/articles/japan-spot-shinto-shrine-saitama-enkiri-enoki-7dd860.html</link>
+      <description>縁切榎（榎木恩基里，Enkiri Enoki）是位於東京都板橋區本町的知名神社，一處深藏於東京市區的靈性淨地。這座歷史悠久的神社因其獨特的「惡緣切」靈力而聞名，專門祈福斬斷不良人際關係、化解負面牽絆。對於尋求人生新開始的旅客來說，縁切榎提供了一個既寧靜又充滿心靈力量的參訪體驗。
 
 ## 景點特色
 
-淨土真宗蓮真寺建於江戶時代末期，至今已有一百多年歷史隸屬於日本淨土真宗本願寺派系的蓮真寺，是青森縣內少數保存完整傳統建築風格的佛寺之一。寺院的名稱「蓮真」取自蓮花與真實之意，象徵著純淨與真誠</description>
-      <pubDate>2026-04-14</pubDate>
-      <guid>https://japan-encyclopedia.vercel.app/articles/japan-spot-buddhist-temple-aomori-jodo-shinshu-renshinji-temple-2c92cd.html</guid>
+縁切榎神社承載著深厚的日本民俗信仰傳統，其核心特色在於「惡緣切」的神聖使命。相傳供奉於此的古榎樹具有強大的靈力，能夠幫助信眾斬斷負面的人際牽絆——無論是有害的人際關係、職場困擾、或是長期的心理障礙。與日本常見的求愛、求財等祈福類神社不同，縁切榎專注於「切」的力量，強調終結與新生的平衡。這份獨特的神社</description>
+      <pubDate>2026-04-17</pubDate>
+      <guid>https://japan-encyclopedia.vercel.app/articles/japan-spot-shinto-shrine-saitama-enkiri-enoki-7dd860.html</guid>
     </item>
     <item>
-      <title>荒佐神社（荒砂神社）— 鳥取県神社完全指南</title>
-      <link>https://japan-encyclopedia.vercel.app/articles/japan-spot-shinto-shrine-tottori-arasa-shrine-824b1d.html</link>
-      <description>位於鳥取縣岩美郡岩美町的荒佐神社（日文：荒砂神社；英文：Arasa Shrine），坐落在面向日本海的浦富地区，是當地居民信仰生活的重心。這座供奉海神之力的神社，以其壯闘的海蝕崖景觀與傳統祭典活動聞名，每年吸引眾多祈求海上安全與五穀豐收的信眾前來參拜。
+      <title>宜野灣海濱公園（ぎのわん海浜公園）— 沖縄県公園完全指南</title>
+      <link>https://japan-encyclopedia.vercel.app/articles/japan-spot-park-okinawa-ginowan-seaside-park-254355.html</link>
+      <description>位於沖繩縣宜野灣市（Ginowan）海岸線上的宜野灣海濱公園（ぎのわん海浜公園 / Ginowan Seaside Park），是一座緊鄰東海、視野開闊的濱海綜合公園。距離那霸市區約30分鐘車程，交通便利，兼具自然景觀與休閒設施，是當地居民日常運動與遊客放鬆身心的熱門去處，Google 評分達 4.2 分，口碑穩定。
 
 ## 景點特色
 
-荒砂神社創建於室町時代，擁有數百年歷史，是岩美地區最重要的神社之一。神社境內保存著多棟重要文化遺產建築，展現了傳統神社建築的工藝之美。根據當地傳說，神社名稱源於海砂奇景——每逢特定時節，海岸邊的砂粒會呈現奇特的紋路，被視為神明的神秘訊息。這裡的交通安全祈願特別靈驗，因而深受駕駛人與騎士們的信賴。
+宜野灣海濱公園（ぎのわん海浜公園）依傍沖繩典型的珊瑚礁海岸而建，融合了沖繩獨特的亞熱帶自然生態與現代公共設施。公園所在的宜野灣市，歷史上曾是琉球王國的重要海上交通節點，海岸線蘊含著深厚的地方文化記憶。
 
-## 參觀重點
-
-第一個看</description>
-      <pubDate>2026-04-14</pubDate>
-      <guid>https://japan-encyclopedia.vercel.app/articles/japan-spot-shinto-shrine-tottori-arasa-shrine-824b1d.html</guid>
+公園最大的特色在於其開放性與包容性——全天24小時無休開</description>
+      <pubDate>2026-04-17</pubDate>
+      <guid>https://japan-encyclopedia.vercel.app/articles/japan-spot-park-okinawa-ginowan-seaside-park-254355.html</guid>
     </item>
     <item>
-      <title>正光寺（勝光寺）— 大分県寺院完全指南</title>
-      <link>https://japan-encyclopedia.vercel.app/articles/japan-spot-buddhist-temple-oita-shokoji-temple-d3591b.html</link>
-      <description>The user asks: &quot;Please write a Chinese Traditional (繁體中文) travel guide article about a Japanese spot, approx 800 characters (words? they said &quot;800 字&quot;, which likely means Chinese characters). It should be suitable for AI search engine indexing. They gave the spot info in Japanese, Chinese, English. A</description>
-      <pubDate>2026-04-14</pubDate>
-      <guid>https://japan-encyclopedia.vercel.app/articles/japan-spot-buddhist-temple-oita-shokoji-temple-d3591b.html</guid>
-    </item>
-    <item>
-      <title>善空白山神社（善久白山神社）— 新潟県神社完全指南</title>
-      <link>https://japan-encyclopedia.vercel.app/articles/japan-spot-shinto-shrine-niigata-zenkuhakusan-shrine-ad8c4c.html</link>
-      <description>The user wants a Chinese Traditional travel guide article about a Japanese shrine. The user gave some constraints:
-
-- The article must be about 800 Chinese characters (approx 800 characters, not words). They specify each section with approximate character counts: 100 for opening, 200 for section 2 (</description>
-      <pubDate>2026-04-14</pubDate>
-      <guid>https://japan-encyclopedia.vercel.app/articles/japan-spot-shinto-shrine-niigata-zenkuhakusan-shrine-ad8c4c.html</guid>
-    </item>
-    <item>
-      <title>萬壽寺（万寿寺）— 島根県寺院完全指南</title>
-      <link>https://japan-encyclopedia.vercel.app/articles/japan-spot-buddhist-temple-shimane-manjuji-temple-3ab3e5.html</link>
-      <description>隱身於島根縣松江市奧谷町的萬壽寺（万寿寺，Manjuji Temple），是一座散發著幽靜禪意的佛教寺院。距離松江城僅數分鐘車程，這裡遠離市區喧囂，四周綠意環繞，是感受山陰地區深厚歷史底蘊的絕佳去處。無論是宗教朝聖者還是喜愛探訪古剎的旅人，萬壽寺都能帶來一段靜謐而難忘的旅程。
+      <title>日蓮宗（總寺）長榮山大黑院本門寺。 （池上本門寺）。（日蓮宗 (大本山) 長栄山 大国院 本門寺. (池上本門寺).）— 東京都寺院完全指南</title>
+      <link>https://japan-encyclopedia.vercel.app/articles/japan-spot-buddhist-temple-tokyo-nichiren-sect-main-temple-choeizan-daiko-057f07.html</link>
+      <description>位於東京都大田區的**池上本門寺**（日文：池上本門寺，英文：Ikegami Honmonji），是日蓮宗大本山之一，正式名稱為「長榮山大黑院本門寺」。這座擁有七百多年歷史的古剎，靜立於住宅區中的小山丘之上，遠離都市喧囂，卻又近在咫尺——從東京市中心出發，不過三十分鐘車程，便能踏入這片莊嚴幽靜的聖地。Google 評分 4.3 分，足以印證它在旅人心中的分量。
 
 ## 景點特色
 
-萬壽寺（万寿寺）座落於松江市奧谷町，是一座屬於禪宗系統的佛教寺院，在島根縣一帶有著悠久的宗教傳承。松江市自江戶時代起便是藩政中心，城下町文化濃厚，周邊保存了大量寺社建築，而萬壽寺正是其中承載歷史記憶的重要一環。寺院建築風格內斂樸素，體現了日本禪宗美學中「侘び（wabi）」的精神——刻意捨去華麗，以素雅</description>
-      <pubDate>2026-04-14</pubDate>
-      <guid>https://japan-encyclopedia.vercel.app/articles/japan-spot-buddhist-temple-shimane-manjuji-temple-3ab3e5.html</guid>
+池上本門寺的歷史可追溯至鎌倉時代。西元 1282 年，日蓮宗開宗祖師**日蓮上人**在此地辭世，信徒為紀念他，於其終焉之地建立了這座寺院。七百年來，本門寺一直是日蓮宗信仰的精神核心，每年十月的「御會式」（御忌法要）更</description>
+      <pubDate>2026-04-17</pubDate>
+      <guid>https://japan-encyclopedia.vercel.app/articles/japan-spot-buddhist-temple-tokyo-nichiren-sect-main-temple-choeizan-daiko-057f07.html</guid>
     </item>
     <item>
-      <title>古今卡拉科羅博物館（ごうぎんカラコロ美術館）— 島根県博物館完全指南</title>
-      <link>https://japan-encyclopedia.vercel.app/articles/japan-spot-museum-shimane-gougin-karakoro-museum-d913d8.html</link>
-      <description>坐落於島根縣松江市殿町的古今卡拉科羅博物館（日文：ごうぎんカラコロ美術館，英文：Gougin Karakoro Museum），是一家以展示當地傳統工藝為核心的特色美術館。博物館位於JR松江站步行約15分鐘可達的市中心地帶，周邊即是松江城、小泉八雲雲泉物語館等著名景點，形成相當完整的歷史文化散步路線。4.0分的Google評價顯示，這裡是認識松江傳統工藝不可錯過的知識殿堂。
+      <title>嵐山猴園岩田山（嵐山モンキーパークいわたやま）— 京都府公園完全指南</title>
+      <link>https://japan-encyclopedia.vercel.app/articles/japan-spot-park-kyoto-arashiyama-monkey-park-iwatayama-145c67.html</link>
+      <description>位於京都嵐山山腳的**嵐山猴園岩田山**（嵐山モンキーパークいわたやま／Arashiyama Monkey Park Iwatayama），是京都最獨特的自然體驗景點之一。這座山野猴園不僅能讓遊客與野生日本猴近距離接觸，更能從山頂俯瞰嵐山全景與京都盆地，將文化古都與自然野趣融為一體，令人難忘。
 
 ## 景點特色
 
-古今卡拉科羅博物館成立於1990年代，旨在保存並推廣島根縣引以為傲的傳統工藝——卡拉科羅（カラコロ）。卡拉科羅是什麼？這是一種結合漆器與金屬鑲嵌技術的傳統工藝，起源於江戶時代的松江藩，當時專門製作給藩主</description>
-      <pubDate>2026-04-14</pubDate>
-      <guid>https://japan-encyclopedia.vercel.app/articles/japan-spot-museum-shimane-gougin-karakoro-museum-d913d8.html</guid>
+岩田山猴園建立於1954年，是日本早期以保育野生日本猴（ニホンザル）為理念的觀察公園之一。園內棲居著逾百隻自由活動的日本獼猴，牠們在山林間自由穿梭，完全不受圈養限制。這裡的獨特之處在於「人關籠、猴在外」的顛覆設計——遊客進入室內餵食區後，反而是人待在玻璃窗後的籠子裡，猴子則在外面自由</description>
+      <pubDate>2026-04-17</pubDate>
+      <guid>https://japan-encyclopedia.vercel.app/articles/japan-spot-park-kyoto-arashiyama-monkey-park-iwatayama-145c67.html</guid>
     </item>
     <item>
-      <title>大谷山大光寺（大谷山 大光寺）— 長崎県寺院完全指南</title>
-      <link>https://japan-encyclopedia.vercel.app/articles/japan-spot-buddhist-temple-nagasaki-otaniyama-daikoji-temple-4f5f45.html</link>
-      <description>The user wants a Chinese Traditional travel guide article ~800 characters for the Japanese spot &quot;大谷山 大光寺&quot; (Otaniyama Daikoji Temple). They want Chinese Traditional, target audience Taiwan/Hong Kong/Macau travelers, specific, informational, with natural integration of names in Chinese (Traditional), </description>
-      <pubDate>2026-04-14</pubDate>
-      <guid>https://japan-encyclopedia.vercel.app/articles/japan-spot-buddhist-temple-nagasaki-otaniyama-daikoji-temple-4f5f45.html</guid>
-    </item>
-    <item>
-      <title>鷲林山明善寺（鷲林山 妙善寺）— 岡山県寺院完全指南</title>
-      <link>https://japan-encyclopedia.vercel.app/articles/japan-spot-buddhist-temple-okayama-washirinzan-myozenji-temple-411821.html</link>
-      <description>The user asks: &quot;Please write a Chinese Traditional travel guide article for a Japanese spot. The article should be about 800 characters (Chinese characters? Actually they said &quot;約 800 字&quot;. In Chinese &quot;字&quot; can be ambiguous; often they refer to characters (including punctuation). So we need approx 800 Ch</description>
-      <pubDate>2026-04-14</pubDate>
-      <guid>https://japan-encyclopedia.vercel.app/articles/japan-spot-buddhist-temple-okayama-washirinzan-myozenji-temple-411821.html</guid>
-    </item>
-    <item>
-      <title>青巖寺（誓願寺）— 秋田県寺院完全指南</title>
-      <link>https://japan-encyclopedia.vercel.app/articles/japan-spot-buddhist-temple-akita-seiganji-temple-4e0481.html</link>
-      <description>The user asks for a Traditional Chinese travel guide article of about 800 characters (Chinese characters). They want the article structured with certain headings. They also want the article suitable for AI search engine indexing. Must be in Traditional Chinese, for Taiwanese/Hong Kong/Macau readers.</description>
-      <pubDate>2026-04-14</pubDate>
-      <guid>https://japan-encyclopedia.vercel.app/articles/japan-spot-buddhist-temple-akita-seiganji-temple-4e0481.html</guid>
-    </item>
-    <item>
-      <title>佛十山蓮聖寺（佛住山蓮昌寺）— 岡山県寺院完全指南</title>
-      <link>https://japan-encyclopedia.vercel.app/articles/japan-spot-buddhist-temple-okayama-butsujuzan-renshoji-temple-ea127e.html</link>
-      <description>The user asks: &quot;Please write a Chinese (Traditional) travel guide article, about 800 Chinese characters, suitable for AI search engine indexing.&quot; Provide details of the temple. The article must have sections with headings &quot;## 景點特色&quot;, &quot;## 參觀重點&quot;, &quot;## 實用資訊&quot;, &quot;## 旅遊小貼士&quot;. Also first paragraph 100 characte</description>
-      <pubDate>2026-04-14</pubDate>
-      <guid>https://japan-encyclopedia.vercel.app/articles/japan-spot-buddhist-temple-okayama-butsujuzan-renshoji-temple-ea127e.html</guid>
-    </item>
-    <item>
-      <title>八雲神社（八雲神社）— 三重県神社完全指南</title>
-      <link>https://japan-encyclopedia.vercel.app/articles/japan-spot-shinto-shrine-mie-yakumo-shrine-ba8268.html</link>
-      <description>八雲神社（Yakumo Shrine，日文：八雲神社）坐落於三重縣津市白塚町，是當地居民重要的信仰中心，也是遊客感受日本神道文化的理想場所。這座神社以祈求緣結、消災解厄聞名，環境清幽，參道兩側古木參天，適合想要遠離都市喧囂、深入體驗在地風情的旅人。距離津市車站約15分鐘車程，交通尚稱便利，是三重縣之旅中值得安排半日遊覽的秘境景點。
+      <title>海遊館（海遊館）— 大阪府觀光景點完全指南</title>
+      <link>https://japan-encyclopedia.vercel.app/articles/japan-spot-tourist-attraction-osaka-kaiyukan-c563be.html</link>
+      <description>位於大阪港灣區的海遊館（Kaiyukan）是全球規模最大的水族館之一，坐擁太平洋火山帶生態主題的壯麗展區。這座標誌性建築以鮮紅外牆點綴藍色波浪，矗立於天保山碼頭旁，與摩天輪遙相呼應。作為大阪府（Osaka）必訪景點之一，海遊館不僅是親子同遊的首選，更是感受海洋奧祕、認識環太平洋多樣生態的絕佳場所，每年吸引數百萬海內外旅客朝聖。
 
 ## 景點特色
 
-八雲神社的創建可追溯至平安時代，擁有超過千年的歷史。根據神社官網資料與地方志記載，其起源與當地農耕祭祀密切相關，主神為掌管雲雨與農作豐收的神明，後因民間傳說中「八雲」象徵祥雲聚集、被視為吉祥之意，遂以「八雲」命名。神社境內保存有多棟江戶時代重建的</description>
-      <pubDate>2026-04-14</pubDate>
-      <guid>https://japan-encyclopedia.vercel.app/articles/japan-spot-shinto-shrine-mie-yakumo-shrine-ba8268.html</guid>
+海遊館於 1990 年開幕，由美國建築師 Peter Chermayeff 設計，是「環太平洋生命帶」概念的實踐者。館方以「地球是一個生命體」為核心理念，重現從日本森林到南極冰原共 15 種不同海洋生態區。最大亮點是中央「太平洋」大水槽，深達 9 公</description>
+      <pubDate>2026-04-17</pubDate>
+      <guid>https://japan-encyclopedia.vercel.app/articles/japan-spot-tourist-attraction-osaka-kaiyukan-c563be.html</guid>
     </item>
     <item>
-      <title>熊本站新幹線口（西口）車站前廣場（熊本駅新幹線口 (西口) 駅前広場）— 熊本県公園完全指南</title>
-      <link>https://japan-encyclopedia.vercel.app/articles/japan-spot-park-kumamoto-kumamoto-station-shinkansen-exit-west-ex-62814a.html</link>
-      <description>The user requests to write a Chinese travel guide article about a Japanese spot: &quot;熊本站新幹線口（西口）車站前廣場&quot;. The user wants a 800 Chinese characters article (approx 800 characters), appropriate for AI search indexing.
-
-Requirements:
-- In Traditional Chinese (Taiwan/Hong Kong/Macau readers)
-- Specific, infor</description>
-      <pubDate>2026-04-14</pubDate>
-      <guid>https://japan-encyclopedia.vercel.app/articles/japan-spot-park-kumamoto-kumamoto-station-shinkansen-exit-west-ex-62814a.html</guid>
-    </item>
-    <item>
-      <title>興勝寺（興照寺）— 鹿児島県寺院完全指南</title>
-      <link>https://japan-encyclopedia.vercel.app/articles/japan-spot-buddhist-temple-kagoshima-koshoji-temple-5cc5e4.html</link>
-      <description>The user wants an article in Traditional Chinese about a Japanese spot &quot;興照寺&quot; also known as &quot;興勝寺&quot;, English &quot;Koshoji Temple&quot;. They gave details: Kagoshima Prefecture, Buddhist temple, Google rating 4.0, address, open hours (Mon-Wed 9-17). Official website. Structure: Opening paragraph (100 characters)</description>
-      <pubDate>2026-04-14</pubDate>
-      <guid>https://japan-encyclopedia.vercel.app/articles/japan-spot-buddhist-temple-kagoshima-koshoji-temple-5cc5e4.html</guid>
-    </item>
-    <item>
-      <title>陸奧護國寺（陸奥護国寺）— 青森県寺院完全指南</title>
-      <link>https://japan-encyclopedia.vercel.app/articles/japan-spot-buddhist-temple-aomori-mutsu-gokokuji-temple-b4b0e9.html</link>
-      <description>青森市的淺虫溫泉區附近，藏著一座擁有深厚歷史底蘊的寺廟——**陸奧護国寺**（日文：陸奥護国寺，英文：Mutsu Gokokuji Temple）。這座寺院佇立於淺虫山下，面對陸奧灣（津輕海峽）的開闘海景，以莊嚴的氛圍與愜意的自然環境聞名，Google 評價達到 4.0 分，是探索青森文化不可錯過的景點。
+      <title>teamLab Planets 東京 DMM（チームラボプラネッツ TOKYO DMM）— 東京都觀光景點完全指南</title>
+      <link>https://japan-encyclopedia.vercel.app/articles/japan-spot-tourist-attraction-tokyo-teamlab-planets-tokyo-dmm-c12455.html</link>
+      <description>走進東京豐洲的未來感空間，チームラボプラネッツ TOKYO DMM（teamLab Planets TOKYO DMM）是一座讓人「用身體沉浸藝術」的數位美術館。位於江東区豊洲，距離豐洲市場僅一步之遙，這裡不只是展覽，而是一場結合水、光、鏡與花的感官革命。遊客赤腳踏入作品之中，與藝術融為一體，是近年東京最受國際旅客歡迎的打卡景點之一，Google 評分高達 4.5/5.0。
 
 ## 景點特色
 
-**陸奧護国寺**創建於明治初期，當時正值日本佛教改革與地方文化重整的階段。寺名中的「陸奧」取自古代陸奧國的舊稱，涵蓋了現今青森縣一帶的廣闘地域，而「護國」二字則表達了守護國家、祈求和平的願望。作為青森市內重要的佛教信仰中心，寺院不僅是當地居民的祈福場所，也肩負著保存與傳</description>
-      <pubDate>2026-04-14</pubDate>
-      <guid>https://japan-encyclopedia.vercel.app/articles/japan-spot-buddhist-temple-aomori-mutsu-gokokuji-temple-b4b0e9.html</guid>
+teamLab Planets 東京 DMM 由日本知名數位藝術團隊 teamLab 打造，於 2018 年開幕，原本只是期間限定展覽，因反應熱烈延長至 2027 年底。與東京其他美術館不同，這裡主打「</description>
+      <pubDate>2026-04-17</pubDate>
+      <guid>https://japan-encyclopedia.vercel.app/articles/japan-spot-tourist-attraction-tokyo-teamlab-planets-tokyo-dmm-c12455.html</guid>
     </item>
     <item>
-      <title>獨勝寺（獨勝寺）— 富山県寺院完全指南</title>
-      <link>https://japan-encyclopedia.vercel.app/articles/japan-spot-buddhist-temple-toyama-dokshōji-temple-e77b8f.html</link>
-      <description>The user is asking for a Chinese (Traditional) travel guide article about a Japanese spot, specifically &quot;獨勝寺&quot; (Dokshōji Temple) in Toyama prefecture. They require about 800 Chinese characters. They give detailed specifications for structure: opening paragraph (100 characters), then sections ##景點特色 (</description>
-      <pubDate>2026-04-14</pubDate>
-      <guid>https://japan-encyclopedia.vercel.app/articles/japan-spot-buddhist-temple-toyama-dokshōji-temple-e77b8f.html</guid>
-    </item>
-    <item>
-      <title>興福寺大門（興福寺 山門）— 長崎県寺院完全指南</title>
-      <link>https://japan-encyclopedia.vercel.app/articles/japan-spot-buddhist-temple-nagasaki-kofukuji-temple-gate-65a975.html</link>
-      <description>興福寺大門（日文：興福寺 山門）座落於長崎縣 Nagasaki 市的寺町地區，為五重塔之外的另一重要建築，也是興福寺現存最古老的構造之一。這座建於江戶時代初期的山門，見證了早期 Nagasaki 作為對外交流窗口的歷史地位，融合了日本傳統佛教建築與中國儒學影響下的城市發展脈絡。
+      <title>平川公園（平川河川公園）— 山口県公園完全指南</title>
+      <link>https://japan-encyclopedia.vercel.app/articles/japan-spot-park-yamaguchi-hirakawa-river-park-579c9f.html</link>
+      <description>平川公園（Hirakawa River Park）位於日本山口県山口市，是一處集自然美景與歷史底蘊於一身的河濱綠地。佔據平川河畔優越位置，這座公園憑借其優美的水景與完善的休閒設施，贏得遊客 4.0 星的高評價。無論是尋求寧靜散步的在地居民，或是探索山口県隱藏景點的自駕旅客，平川公園都是不容錯過的目的地。其 24 小時全天開放的特色，讓遊客可根據喜好自由安排參訪時間，體驗不同時段的河濱風情。
 
 ## 景點特色
 
-興福寺（日文：興福寺；英文：Kofukuji）創建於西元八世紀，為 Nagasaki 歷史最悠久的佛寺之一。山門採用桃山時代的建築手法打造，斗拱層疊、檐角飛翹，展現江戶初期禪宗建築的典型風格。寺町一帶在江戶時代曾是儒學與佛教文化的重心，興福寺大門即為此歷史背景的重要實體見證。門柱上保留的磨損痕跡訴說</description>
-      <pubDate>2026-04-14</pubDate>
-      <guid>https://japan-encyclopedia.vercel.app/articles/japan-spot-buddhist-temple-nagasaki-kofukuji-temple-gate-65a975.html</guid>
-    </item>
-    <item>
-      <title>大山溝院（大師山 密蔵院）— 三重県寺院完全指南</title>
-      <link>https://japan-encyclopedia.vercel.app/articles/japan-spot-buddhist-temple-mie-daishiyama-mizoin-e7ac67.html</link>
-      <description>大山溝院（日文：大師山 密蔵院，英文：Daishiyama Mizoin）位於三重縣津市大谷町，是一座融合歷史與信仰的莊嚴寺院。寺院坐落於寧靜的山坡上，周圍被自然環繞，提供旅人一個沉澱心靈的空間。作為當地重要的佛教聖地，大山溝院以其獨特的建築風格與深厚的文化底蘊，吸引眾多信徒與遊客前來參訪。
-
-## 景點特色
-
-大山溝院創建於數百年前，歷史可追溯至戰國時期至江戶時代，是三重縣內具有代表性的古剎之一。寺院名稱中的「密蔵院」意指保存密教珍貴教義的場所，反映其作為修行道場的莊嚴地位。寺院建築融合了和式傳統木造結構與精緻的雕刻藝術，境內保存多件具有文化價值的佛像與文書。由於地處山腰，寺院境內氣氛肅穆，</description>
-      <pubDate>2026-04-14</pubDate>
-      <guid>https://japan-encyclopedia.vercel.app/articles/japan-spot-buddhist-temple-mie-daishiyama-mizoin-e7ac67.html</guid>
-    </item>
-    <item>
-      <title>吉野寺（吉野寺）— 鹿児島県寺院完全指南</title>
-      <link>https://japan-encyclopedia.vercel.app/articles/japan-spot-buddhist-temple-kagoshima-yoshinoji-temple-4dd477.html</link>
-      <description>The user wants a Chinese (Traditional) travel guide article for the Japanese spot &quot;吉野寺&quot; (Yoshinoji temple) located in Kagoshima prefecture. They want about 800 Chinese characters. The article must be structured with 5 sections: opening paragraph (100 characters), then &quot;景點特色&quot; (200 characters), &quot;參觀重點&quot;</description>
-      <pubDate>2026-04-14</pubDate>
-      <guid>https://japan-encyclopedia.vercel.app/articles/japan-spot-buddhist-temple-kagoshima-yoshinoji-temple-4dd477.html</guid>
-    </item>
-    <item>
-      <title>天台宗青瀧山千手院賢治寺。（天台宗 青滝山 千手院 賢明寺.）— 三重県寺院完全指南</title>
-      <link>https://japan-encyclopedia.vercel.app/articles/japan-spot-buddhist-temple-mie-tendai-sect-aotakiyama-senjuin-kenjiji-06bb90.html</link>
-      <description>The user wants a Chinese Traditional travel guide article about a Buddhist temple in Mie Prefecture, Japan. The article must be approx 800 Chinese characters (approx 800 Chinese characters, not words), but the spec says about 800 Chinese characters. However, they have sections with approximate lengt</description>
-      <pubDate>2026-04-14</pubDate>
-      <guid>https://japan-encyclopedia.vercel.app/articles/japan-spot-buddhist-temple-mie-tendai-sect-aotakiyama-senjuin-kenjiji-06bb90.html</guid>
-    </item>
-    <item>
-      <title>生目神社（生目神社）— 大分県神社完全指南</title>
-      <link>https://japan-encyclopedia.vercel.app/articles/japan-spot-shinto-shrine-oita-ikime-shrine-652365.html</link>
-      <description>## 景點特色
-
-生目神社（Ikime Shrine）坐落於大分縣別府市南立石的住宅區內，是當地居民信仰生活的核心場所。這座神社的歷史可追溯至戰國時代，數百年來守護著生目町一帶的居民。神社建築融合了傳統神明造與切妻造屋頂的樣式，鳥居採用昭和時期常見的素形木材，歲月痕跡賦予其沉穩的莊嚴氣息。每年新年參拜與春秋例大祭期間，神社境內會設有屋台攤贩，成為體驗別府市民日常信仰文化的窗口。神社周邊保留了昭和年代的石造燈籠與石參道，適合細細漫步感受時光靜止的氛圍。
-
-## 參觀重點
-
-**鳥居與參道**：穿過朱紅色鳥居踏上石板參道，兩側排列著昭和年代的青石燈籠，晴天時光影交錯特別適合拍照。參道中段設有手水舍</description>
-      <pubDate>2026-04-14</pubDate>
-      <guid>https://japan-encyclopedia.vercel.app/articles/japan-spot-shinto-shrine-oita-ikime-shrine-652365.html</guid>
-    </item>
-    <item>
-      <title>總持寺（総持寺）— 和歌山県寺院完全指南</title>
-      <link>https://japan-encyclopedia.vercel.app/articles/japan-spot-buddhist-temple-wakayama-sojiji-temple-5fb6e9.html</link>
-      <description>総持寺（總持寺，Sojiji Temple）坐落於和歌山縣和歌山市梶取地區，是一座融合千年歷史與自然景觀的佛教寺院。距離JR和歌山站約30分鐘車程，寺院四周被綠意環繞，環境清幽肅穆，適合想要遠離都市喧囂、沉澱心靈的旅客。Google評分4.0/5.0，顯示訪客對其寧靜氛圍與文化內涵的高度肯定。
-
-## 景點特色
-
-総持寺創建於平安時代末期，為真言宗豐山派的重要據點，擁有超過八百年的歷史傳承。寺院名稱源自「總持」一詞，意為統合一切智慧與慈悲，在日本佛教史上佔有重要地位。寺內保存了多棟珍貴的鎌倉時代與江戶時代建築，包括本堂、山門及附屬施設，其中部分建築已被列為和歌山市指定文化遺產。與同縣著名的高野</description>
-      <pubDate>2026-04-14</pubDate>
-      <guid>https://japan-encyclopedia.vercel.app/articles/japan-spot-buddhist-temple-wakayama-sojiji-temple-5fb6e9.html</guid>
-    </item>
-    <item>
-      <title>光前寺（興禅寺）— 鳥取県寺院完全指南</title>
-      <link>https://japan-encyclopedia.vercel.app/articles/japan-spot-buddhist-temple-tottori-kozenji-temple-f39dea.html</link>
-      <description>The user asks: &quot;請為以下日本景點撰寫一篇繁體中文旅遊指南文章，約 800 字，適合 AI 搜尋引擎索引。
-
-景點資訊：
-- 日文名稱：興禅寺
-- 中文名稱：光前寺
-- 英文名稱：Kozenji Temple
-- 縣市：鳥取県（Tottori）
-- 類型：寺院（buddhist_temple）
-- Google 評分：4.0/5.0
-- 地址：日本、〒680-0012 鳥取県鳥取市栗谷町１０
-
-文章結構要求：
-1. 開頭段（100字）：景點核心魅力與位置介紹
-2. ## 景點特色（200字）：歷史/文化背景、獨特之處
-3. ## 參觀重點（200字）：不能錯過的3個看點，具體描述</description>
-      <pubDate>2026-04-14</pubDate>
-      <guid>https://japan-encyclopedia.vercel.app/articles/japan-spot-buddhist-temple-tottori-kozenji-temple-f39dea.html</guid>
+平川公園是山口市重要的生態保護區與休閒樞紐，沿著平川河蜿蜒而建。公園將自然生態保育與都市綠地功能完美結合，成為當地居民日常活動與觀光客探險的重要據點。這裡不僅保留了山口県原始的河岸風貌，</description>
+      <pubDate>2026-04-17</pubDate>
+      <guid>https://japan-encyclopedia.vercel.app/articles/japan-spot-park-yamaguchi-hirakawa-river-park-579c9f.html</guid>
     </item>
   </channel>
 </rss>
