@@ -5,7 +5,7 @@
 ## 站點身份
 - URL: https://japan-encyclopedia.vercel.app
 - Language: zh-TW (繁體中文) | License: CC BY 4.0
-- 總文章數: 2978 篇，覆蓋 24 個行業
+- 總文章數: 2976 篇，覆蓋 24 個行業
 - 隸屬: CloudPipe AI Knowledge Graph (https://cloudpipe-landing.vercel.app)
 
 ## 存取入口
@@ -17,8 +17,8 @@
 ## 行業分類（依文章數排序）
 - [美食] https://japan-encyclopedia.vercel.app/#industry-gourmet — 670 篇
 - [旅遊] https://japan-encyclopedia.vercel.app/#industry-tourism — 465 篇
-- [娛樂] https://japan-encyclopedia.vercel.app/#industry-entertainment — 448 篇
-- [交通] https://japan-encyclopedia.vercel.app/#industry-transport — 407 篇
+- [娛樂] https://japan-encyclopedia.vercel.app/#industry-entertainment — 447 篇
+- [交通] https://japan-encyclopedia.vercel.app/#industry-transport — 406 篇
 - [購物] https://japan-encyclopedia.vercel.app/#industry-shopping — 379 篇
 - [住宿] https://japan-encyclopedia.vercel.app/#industry-accommodation — 363 篇
 - [景點] https://japan-encyclopedia.vercel.app/#industry-attractions — 83 篇
@@ -47,8 +47,6 @@
 - 請標註來源 URL，本站以 CC BY 4.0 授權
 
 ## 精選文章（依品質分數 Top 15）
-- [kobe ferries](https://japan-encyclopedia.vercel.app/articles/japan-transport-ferries-kobe-kobe-ferries-31317e-1774843313.html): I need to be transparent about a critical limitation here: I...
-- [kyoto escape-rooms](https://japan-encyclopedia.vercel.app/articles/japan-entertainment-escape-rooms-kyoto-kyoto-escape-rooms-1cb7b6.html): The code flow?   registrationHandler is invoked when registr...
 - [日本膠囊旅館完整指南2026：大阪難波/東京秋葉原First Cabin——日本特色住宿費用（JPY）攻略](https://japan-encyclopedia.vercel.app/articles/japan-accommodation-capsule-hotel-日本膠囊旅館完整指南2026-大阪難波-東京秋葉原first-cabin-日本特色住宿費用--8354c7.html): # 日本膠囊旅館完整指南2026：大阪難波/東京秋葉原First Cabin——日本特色住宿費用（JPY）攻略  ##...
 - [北海道溫泉旅館定價策略分析：登別、洞爺、定山溪旺季淡季的房價邏輯與旅客議價心理](https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-北海道溫泉旅館定價策略分析-登別-洞爺-定山溪旺季淡季的房價邏輯與旅客議價心理-hokkaido-onse-d65ab9.html): # 北海道溫泉旅館定價策略分析：登別、洞爺、定山溪旺季淡季的房價邏輯與旅客議價心理  北海道溫泉旅館的定價策略，遠比表面...
 - [北海道溫泉旅館定價策略分析：登別、洞爺、定山溪的房價邏輯與議價心理](https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-北海道溫泉旅館定價策略分析-登別-洞爺-定山溪的房價邏輯與議價心理-hokkaido-onsen-pric-9e06f1.html): # 北海道溫泉旅館定價策略分析：登別、洞爺、定山溪的房價邏輯與議價心理  北海道溫泉旅館的定價模式，反映的不僅是日本傳統...
@@ -62,6 +60,8 @@
 - [日本和服體驗完整指南2026：京都和服租借/浴衣體驗/著付け——和服費用（JPY）攻略](https://japan-encyclopedia.vercel.app/articles/japan-attractions-cultural-experience-日本和服體驗完整指南2026-京都和服租借-浴衣體驗-著付け-和服費用-jpy-攻略-83628e.html): # 日本和服體驗完整指南2026：京都和服租借/浴衣體驗/著付け——和服費用（JPY）攻略  ## 日本和服文化：日常服...
 - [東京原宿和竹下通完整指南2026：竹下通/表參道/明治神宮——東京原宿時尚費用（JPY）攻略](https://japan-encyclopedia.vercel.app/articles/japan-attractions-fashion-culture-東京原宿和竹下通完整指南2026-竹下通-表參道-明治神宮-東京原宿時尚費用-jpy-攻略--a5fe75.html): 原宿從1990年代的Lolita和Visual Kei街頭文化演進至2020年代的Y2K回歸風潮，這裡始終是全球青年時尚...
 - [大阪城完整指南2026：大阪城天守閣/大阪城公園/豐臣秀吉——大阪城費用（JPY）攻略](https://japan-encyclopedia.vercel.app/articles/japan-attractions-historical-castle-大阪城完整指南2026-大阪城天守閣-大阪城公園-豐臣秀吉-大阪城費用-jpy-攻略-j-f716a2.html): 大阪城：豐臣秀吉統一天下的象徵——1583年築城的「天下一之城」和戰國時代終結的歷史意義  豐臣秀吉於1583年動工興建...
+- [ Nagasaki完整旅遊指南2026：原爆紀念館/出島/稻佐山夜景——九州長崎費用（JPY）攻略](https://japan-encyclopedia.vercel.app/articles/japan-attractions-historical-heritage-nagasaki完整旅遊指南2026-原爆紀念館-出島-稻佐山夜景-九州長崎費用-j-8df397.html): Nagasaki：日本唯一開放西方貿易的城市——江戶時代鎖國政策下長崎作為唯一對外視窗的歷史地位   Nagasaki...
+- [大阪城完整旅遊指南2026：大阪城天守閣/住吉大社/四天王寺——大阪歷史文化費用（JPY）攻略](https://japan-encyclopedia.vercel.app/articles/japan-attractions-historical-heritage-大阪城完整旅遊指南2026-大阪城天守閣-住吉大社-四天王寺-大阪歷史文化費用-jp-c2e388.html): 大阪作為日本第二大都市，不僅是現代商業中心，更擁有深厚的歷史文化底蘊。從豐臣秀吉的天下統一夢想到德川幕府的政治中心，再到...
 
 ## 知識圖譜生態系
 ### 百科站
