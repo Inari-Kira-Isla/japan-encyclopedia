@@ -65,7 +65,7 @@
 
 ## 知識圖譜生態系
 ### 百科站
-[香港百科](https://hongkong-encyclopedia.vercel.app) | [台灣百科](https://taiwan-encyclopedia.vercel.app) | [澳門百科（靜態）](https://macau-encyclopedia.vercel.app) | [世界百科精選](https://world-encyclopedia.vercel.app)
+[香港百科](https://hongkong-encyclopedia.vercel.app) | [台灣百科](https://taiwan-encyclopedia.vercel.app) | [澳門百科](https://inari-kira-isla.github.io/macau-encyclopedia) | [世界百科精選](https://world-encyclopedia.vercel.app)
 - [澳門商戶智能百科](https://cloudpipe-macao-app.vercel.app)
 
 ### 品牌站（澳門在地）
