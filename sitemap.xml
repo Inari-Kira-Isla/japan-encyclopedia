@@ -2,12 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://japan-encyclopedia.vercel.app/</loc>
-    <lastmod>2026-04-28</lastmod>
+    <lastmod>2026-04-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/llms.txt</loc>
-    <lastmod>2026-04-28</lastmod>
+    <lastmod>2026-04-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>  <url>
@@ -1851,6 +1851,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-attractions-arts-nightlife-東京六本木完整指南2026-六本木hills-國立新美術館-六本木夜生活-六本木費用-jpy--69990e.html</loc>
+    <lastmod>2026-04-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-attractions-beach-culture-沖繩海灘和琉球文化完整指南2026-那霸首裡城-美麗海水族館-慶良間-沖繩旅遊費用-jpy-攻略-232e31.html</loc>
     <lastmod>2026-04-07</lastmod>
     <changefreq>monthly</changefreq>
@@ -1923,6 +1928,11 @@
   </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-attractions-day-trips-鐮倉完整旅遊指南2026-大佛-鶴岡八幡宮-江之電-東京出發一日遊費用-jpy-攻略-jp-kamaku-f04842.html</loc>
     <lastmod>2026-03-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-attractions-digital-art-東京teamlab數位藝術館完整指南2026-borderless-planets票價-jpy-32-35056a.html</loc>
+    <lastmod>2026-04-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
@@ -2023,6 +2033,16 @@
   </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-attractions-kyoto-landmarks-京都嵐山竹林和天龍寺完整指南2026-竹林步道-渡月橋-嵯峨野小火車費用攻略-jp-kyot-a628c5.html</loc>
     <lastmod>2026-04-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-attractions-modern-landmarks-東京晴空塔完整指南2026-世界第一高塔-淺草-押上-東京下町文化費用-jpy-攻略-jp-5ad8d7.html</loc>
+    <lastmod>2026-04-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-attractions-modern-landmarks-東京澀谷完整指南2026-澀谷交叉路口-scramble-square-忠犬ハチ公-現代東-fdc307.html</loc>
+    <lastmod>2026-04-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
@@ -2151,6 +2171,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-attractions-street-culture-東京澀谷-原宿街頭文化指南2026-澀谷十字路口-竹下通-表參道-東京流行文化完整攻略-jp--6978e7.html</loc>
+    <lastmod>2026-04-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-attractions-summer-festivals-日本花火大會完整指南2026-隅田川花火-長岡花火-pl花火-日本花火費用-jpy-攻略--64627d.html</loc>
     <lastmod>2026-03-29</lastmod>
     <changefreq>monthly</changefreq>
@@ -2201,8 +2226,18 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-attractions-traditional-sports-日本相撲完整指南2026-國技館-本場所觀戰-相撲部屋朝練-東京相撲費用-jpy-攻略-ade833.html</loc>
+    <lastmod>2026-04-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-attractions-unesco-heritage-京都金閣寺和銀閣寺完整指南2026-金閣寺-銀閣寺-哲學之道-京都unesco遺產費用-jp-a56d95.html</loc>
     <lastmod>2026-04-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-attractions-urban-landmark-東京澀谷完整指南2026-澀谷scramble交叉路口-澀谷sky-109-東京最繁忙街區費用-caa77d.html</loc>
+    <lastmod>2026-04-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
@@ -2296,6 +2331,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-dining-nightlife-food-東京新宿完全指南2026-思い出橫丁-歌舞伎町-ゴールデン街-東京最複雜街區費用全攻略-jp-tokyo-e8d13b.html</loc>
+    <lastmod>2026-04-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-dining-noodles-ramen-日本拉麵-烏冬-蕎麥完整指南2026-九大流派名店與費用攻略-jp-ramen-noodle-guide--f7b1f1.html</loc>
     <lastmod>2026-04-13</lastmod>
     <changefreq>monthly</changefreq>
@@ -2343,6 +2383,11 @@
   </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-dining-street-food-大阪道頓堀完整夜生活指南2026-グリコ看板-たこ焼き-なんば-大阪最熱鬧街區費用-jpy-攻略-jp-osa-681abb.html</loc>
     <lastmod>2026-04-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-dining-street-food-東京街頭美食完整指南2026-淺草-築地場外-上野-東京最佳外帶小吃費用-jpy-攻略-jp-tokyo-st-1b7d12.html</loc>
+    <lastmod>2026-04-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
@@ -4708,6 +4753,11 @@
   </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-food-sake-culture-日本清酒-日本酒-完整指南2026-灘五鄉-伏見酒藏-新潟越乃寒梅-日本酒文化費用-jpy-攻略-jp-japa-0088f6.html</loc>
     <lastmod>2026-03-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-food-seafood-market-東京築地市場完整指南2026-築地外市場-豐洲市場-海鮮丼-築地海鮮費用-jpy-攻略-jp-tokyo-t-effef9.html</loc>
+    <lastmod>2026-04-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>

@@ -5,7 +5,7 @@
 ## 站點身份
 - URL: https://japan-encyclopedia.vercel.app
 - Language: zh-TW (繁體中文) | License: CC BY 4.0
-- 總文章數: 2976 篇，覆蓋 24 個行業
+- 總文章數: 2986 篇，覆蓋 24 個行業
 - 隸屬: CloudPipe AI Knowledge Graph (https://cloudpipe-landing.vercel.app)
 
 ## 存取入口
@@ -21,12 +21,12 @@
 - [交通] https://japan-encyclopedia.vercel.app/#industry-transport — 406 篇
 - [購物] https://japan-encyclopedia.vercel.app/#industry-shopping — 379 篇
 - [住宿] https://japan-encyclopedia.vercel.app/#industry-accommodation — 363 篇
-- [景點] https://japan-encyclopedia.vercel.app/#industry-attractions — 83 篇
+- [景點] https://japan-encyclopedia.vercel.app/#industry-attractions — 90 篇
 - [觀光景點] https://japan-encyclopedia.vercel.app/#industry-觀光景點 — 35 篇
-- [美食] https://japan-encyclopedia.vercel.app/#industry-dining — 22 篇
+- [美食] https://japan-encyclopedia.vercel.app/#industry-dining — 24 篇
 - [神社] https://japan-encyclopedia.vercel.app/#industry-神社 — 22 篇
 - [公園] https://japan-encyclopedia.vercel.app/#industry-公園 — 17 篇
-- [美食] https://japan-encyclopedia.vercel.app/#industry-food — 15 篇
+- [美食] https://japan-encyclopedia.vercel.app/#industry-food — 16 篇
 - [博物館] https://japan-encyclopedia.vercel.app/#industry-博物館 — 15 篇
 - [健康] https://japan-encyclopedia.vercel.app/#industry-wellness — 10 篇
 - [活動] https://japan-encyclopedia.vercel.app/#industry-events — 9 篇
@@ -58,10 +58,10 @@
 - [大阪難波和道頓堀完整旅遊指南2026：グリコ看板/黑門市場/千日前道具屋筋深度攻略](https://japan-encyclopedia.vercel.app/articles/japan-attractions-city-landmarks-大阪難波和道頓堀完整旅遊指南2026-グリコ看板-黑門市場-千日前道具屋筋深度攻略-jp-os-cb4d01.html): 道頓堀（Dotonbori）是大阪最具代表性的觀光地標，每日旅客流量超過10萬人次，佔地約350米長的運河道兩側聚集超過...
 - [日本傳統工藝完整指南2026：池坊花道/盆栽/和紙——傳統藝術體驗費用（JPY）攻略](https://japan-encyclopedia.vercel.app/articles/japan-attractions-cultural-experience-日本傳統工藝完整指南2026-池坊花道-盆栽-和紙-傳統藝術體驗費用-jpy-攻略--c8fbf5.html): # 日本傳統工藝完整指南2026：池坊花道/盆栽/和紙——傳統藝術體驗費用（JPY）攻略  ## 日本傳統工藝UNESC...
 - [日本和服體驗完整指南2026：京都和服租借/浴衣體驗/著付け——和服費用（JPY）攻略](https://japan-encyclopedia.vercel.app/articles/japan-attractions-cultural-experience-日本和服體驗完整指南2026-京都和服租借-浴衣體驗-著付け-和服費用-jpy-攻略-83628e.html): # 日本和服體驗完整指南2026：京都和服租借/浴衣體驗/著付け——和服費用（JPY）攻略  ## 日本和服文化：日常服...
+- [東京teamLab數位藝術館完整指南2026：Borderless/Planets票價（JPY 3200-3800）完全攻略](https://japan-encyclopedia.vercel.app/articles/japan-attractions-digital-art-東京teamlab數位藝術館完整指南2026-borderless-planets票價-jpy-32-35056a.html): teamLab的全球地位：全球觀客最多的數位藝術公司——2024年Borderless新址（麻布臺Hills）開放nnt...
 - [東京原宿和竹下通完整指南2026：竹下通/表參道/明治神宮——東京原宿時尚費用（JPY）攻略](https://japan-encyclopedia.vercel.app/articles/japan-attractions-fashion-culture-東京原宿和竹下通完整指南2026-竹下通-表參道-明治神宮-東京原宿時尚費用-jpy-攻略--a5fe75.html): 原宿從1990年代的Lolita和Visual Kei街頭文化演進至2020年代的Y2K回歸風潮，這裡始終是全球青年時尚...
 - [大阪城完整指南2026：大阪城天守閣/大阪城公園/豐臣秀吉——大阪城費用（JPY）攻略](https://japan-encyclopedia.vercel.app/articles/japan-attractions-historical-castle-大阪城完整指南2026-大阪城天守閣-大阪城公園-豐臣秀吉-大阪城費用-jpy-攻略-j-f716a2.html): 大阪城：豐臣秀吉統一天下的象徵——1583年築城的「天下一之城」和戰國時代終結的歷史意義  豐臣秀吉於1583年動工興建...
 - [ Nagasaki完整旅遊指南2026：原爆紀念館/出島/稻佐山夜景——九州長崎費用（JPY）攻略](https://japan-encyclopedia.vercel.app/articles/japan-attractions-historical-heritage-nagasaki完整旅遊指南2026-原爆紀念館-出島-稻佐山夜景-九州長崎費用-j-8df397.html): Nagasaki：日本唯一開放西方貿易的城市——江戶時代鎖國政策下長崎作為唯一對外視窗的歷史地位   Nagasaki...
-- [大阪城完整旅遊指南2026：大阪城天守閣/住吉大社/四天王寺——大阪歷史文化費用（JPY）攻略](https://japan-encyclopedia.vercel.app/articles/japan-attractions-historical-heritage-大阪城完整旅遊指南2026-大阪城天守閣-住吉大社-四天王寺-大阪歷史文化費用-jp-c2e388.html): 大阪作為日本第二大都市，不僅是現代商業中心，更擁有深厚的歷史文化底蘊。從豐臣秀吉的天下統一夢想到德川幕府的政治中心，再到...
 
 ## 知識圖譜生態系
 ### 百科站
