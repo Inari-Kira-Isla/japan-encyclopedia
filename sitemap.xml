@@ -2,12 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://japan-encyclopedia.vercel.app/</loc>
-    <lastmod>2026-05-01</lastmod>
+    <lastmod>2026-05-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/llms.txt</loc>
-    <lastmod>2026-05-01</lastmod>
+    <lastmod>2026-05-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>  <url>
@@ -1876,6 +1876,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-attractions-cultural-experience-日本禪宗和坐禪體驗完整指南2026-永平寺-南禪寺-建仁寺-坐禪費用-jpy-完全攻-f9d084.html</loc>
+    <lastmod>2026-05-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-attractions-cultural-experience-日本茶道和抹茶完整指南2026-茶道體驗-宇治抹茶-茶室-費用-jpy-1000-5-b8d2bc.html</loc>
     <lastmod>2026-04-19</lastmod>
     <changefreq>monthly</changefreq>
@@ -1911,6 +1916,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-attractions-day-trips-橫濱中華街和未來港完整指南2026-全球最大中華街-摩天輪-橫濱旅遊費用-jpy-攻略-jp-yokoh-402d44.html</loc>
+    <lastmod>2026-05-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-attractions-day-trips-鐮倉完整旅遊指南2026-大佛-鶴岡八幡宮-江之電-東京出發一日遊費用-jpy-攻略-jp-kamaku-f04842.html</loc>
     <lastmod>2026-03-31</lastmod>
     <changefreq>monthly</changefreq>
@@ -1933,6 +1943,16 @@
   </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-attractions-fashion-culture-東京原宿和竹下通完整指南2026-竹下通-表參道-明治神宮-東京原宿時尚費用-jpy-攻略--a5fe75.html</loc>
     <lastmod>2026-04-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-attractions-food-markets-東京築地場外市場完整指南2026-2024年新場地-海鮮試吃-刀具費用完全攻略-jp-tokyo--ae5bde.html</loc>
+    <lastmod>2026-05-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-attractions-food-markets-豐洲市場完整指南2026-鮪魚拍賣見學-海鮮餐廳-費用-jpy-完整攻略-jp-toyosu-fi-c11396.html</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
@@ -2046,6 +2066,16 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-attractions-nature-culture-鳥取砂丘和松江山陰完整旅遊指南2026-日本最大沙丘-松江城-山陰旅遊費用-jpy-攻略-jp-c97896.html</loc>
+    <lastmod>2026-05-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-attractions-nature-ecotourism-屋久島完整旅遊指南2026-7-200年屋久杉・縄文杉トレッキング-unesco世界遺產-06c2cb.html</loc>
+    <lastmod>2026-05-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-attractions-nature-hiking-富士山攀登和周邊旅遊完整指南2026-登山路線-費用-箱根-富士五湖-2024新規定攻略-jp--fb6500.html</loc>
     <lastmod>2026-04-05</lastmod>
     <changefreq>monthly</changefreq>
@@ -2078,6 +2108,11 @@
   </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-attractions-port-city-函館完整指南2026-函館山夜景-函館朝市-五稜郭-北海道最迷人的港口城市旅遊攻略-jp-hakodat-3c163d.html</loc>
     <lastmod>2026-03-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-attractions-port-culture-橫濱中華街和港口完整指南2026-橫濱中華街-山下公園-三溪園-橫濱費用-jpy-攻略-jp-yo-c2c33a.html</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
@@ -2173,6 +2208,11 @@
   </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-attractions-temple-shrine-日本神社和寺廟禮儀完整指南2026-お參り-手水舍-御朱印-外國旅客必知的神社參拜禮儀-jp-s-f981d6.html</loc>
     <lastmod>2026-04-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-attractions-theme-park-大阪環球影城完整指南2026-哈利波特-超級任天堂世界-門票-usj費用-jpy-攻略-jp-usj--903720.html</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
@@ -2308,6 +2348,11 @@
   </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-dining-japanese-cuisine-日本咖哩完整文化指南2026-coco壱番屋-歐風カレー-カレーうどん-日本咖哩費用-jpy-攻略--df0645.html</loc>
     <lastmod>2026-03-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-dining-japanese-cuisine-東京壽司完整指南2026-高階壽司割烹-迴轉壽司-場外市場-東京壽司費用-jpy-攻略-jp-tok-700623.html</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
@@ -8123,6 +8168,11 @@
   </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-nightlife-dining-nightlife-京都祇園和木屋町夜生活完整指南2026-居酒屋-先鬥町-鴨川河邊-京都夜間費用-jpy-攻略--599a38.html</loc>
     <lastmod>2026-04-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-services-digital-connectivity-日本網路和sim卡完整指南2026-口袋wifi-預付sim-免費wifi-日本上網費用-56d4c4.html</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>

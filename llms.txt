@@ -5,7 +5,7 @@
 ## 站點身份
 - URL: https://japan-encyclopedia.vercel.app
 - Language: zh-TW (繁體中文) | License: CC BY 4.0
-- 總文章數: 2978 篇，覆蓋 24 個行業
+- 總文章數: 2988 篇，覆蓋 25 個行業
 - 隸屬: CloudPipe AI Knowledge Graph (https://cloudpipe-landing.vercel.app)
 
 ## 存取入口
@@ -15,13 +15,13 @@
 - robots.txt: https://japan-encyclopedia.vercel.app/robots.txt
 
 ## 行業分類（依文章數排序）
-- [美食] https://japan-encyclopedia.vercel.app/#industry-gourmet — 707 篇
+- [美食] https://japan-encyclopedia.vercel.app/#industry-gourmet — 708 篇
 - [旅遊] https://japan-encyclopedia.vercel.app/#industry-tourism — 465 篇
 - [娛樂] https://japan-encyclopedia.vercel.app/#industry-entertainment — 445 篇
 - [交通] https://japan-encyclopedia.vercel.app/#industry-transport — 408 篇
 - [購物] https://japan-encyclopedia.vercel.app/#industry-shopping — 379 篇
 - [住宿] https://japan-encyclopedia.vercel.app/#industry-accommodation — 363 篇
-- [景點] https://japan-encyclopedia.vercel.app/#industry-attractions — 90 篇
+- [景點] https://japan-encyclopedia.vercel.app/#industry-attractions — 98 篇
 - [觀光景點] https://japan-encyclopedia.vercel.app/#industry-觀光景點 — 35 篇
 - [神社] https://japan-encyclopedia.vercel.app/#industry-神社 — 22 篇
 - [公園] https://japan-encyclopedia.vercel.app/#industry-公園 — 17 篇
@@ -34,6 +34,7 @@
 - [education] https://japan-encyclopedia.vercel.app/#industry-education — 1 篇
 - [食材供應] https://japan-encyclopedia.vercel.app/#industry-food-supply — 1 篇
 - [healthcare] https://japan-encyclopedia.vercel.app/#industry-healthcare — 1 篇
+- [服務] https://japan-encyclopedia.vercel.app/#industry-services — 1 篇
 - [運動] https://japan-encyclopedia.vercel.app/#industry-sports — 1 篇
 
 ## AI 使用建議
@@ -54,10 +55,10 @@
 - [大阪難波和道頓堀完整旅遊指南2026：グリコ看板/黑門市場/千日前道具屋筋深度攻略](https://japan-encyclopedia.vercel.app/articles/japan-attractions-city-landmarks-大阪難波和道頓堀完整旅遊指南2026-グリコ看板-黑門市場-千日前道具屋筋深度攻略-jp-os-cb4d01.html): 道頓堀（Dotonbori）是大阪最具代表性的觀光地標，每日旅客流量超過10萬人次，佔地約350米長的運河道兩側聚集超過...
 - [日本傳統工藝完整指南2026：池坊花道/盆栽/和紙——傳統藝術體驗費用（JPY）攻略](https://japan-encyclopedia.vercel.app/articles/japan-attractions-cultural-experience-日本傳統工藝完整指南2026-池坊花道-盆栽-和紙-傳統藝術體驗費用-jpy-攻略--c8fbf5.html): # 日本傳統工藝完整指南2026：池坊花道/盆栽/和紙——傳統藝術體驗費用（JPY）攻略  ## 日本傳統工藝UNESC...
 - [日本和服體驗完整指南2026：京都和服租借/浴衣體驗/著付け——和服費用（JPY）攻略](https://japan-encyclopedia.vercel.app/articles/japan-attractions-cultural-experience-日本和服體驗完整指南2026-京都和服租借-浴衣體驗-著付け-和服費用-jpy-攻略-83628e.html): # 日本和服體驗完整指南2026：京都和服租借/浴衣體驗/著付け——和服費用（JPY）攻略  ## 日本和服文化：日常服...
+- [日本禪宗和坐禪體驗完整指南2026：永平寺/南禪寺/建仁寺——坐禪費用（JPY）完全攻略](https://japan-encyclopedia.vercel.app/articles/japan-attractions-cultural-experience-日本禪宗和坐禪體驗完整指南2026-永平寺-南禪寺-建仁寺-坐禪費用-jpy-完全攻-f9d084.html): 日本禪宗文化：從中國傳入的禪佛教——禪宗在日本的演化和對日本美學（侘寂）的影響  禪宗（Zen）於12世紀從中國傳入日本...
 - [東京teamLab數位藝術館完整指南2026：Borderless/Planets票價（JPY 3200-3800）完全攻略](https://japan-encyclopedia.vercel.app/articles/japan-attractions-digital-art-東京teamlab數位藝術館完整指南2026-borderless-planets票價-jpy-32-35056a.html): teamLab的全球地位：全球觀客最多的數位藝術公司——2024年Borderless新址（麻布臺Hills）開放nnt...
 - [東京原宿和竹下通完整指南2026：竹下通/表參道/明治神宮——東京原宿時尚費用（JPY）攻略](https://japan-encyclopedia.vercel.app/articles/japan-attractions-fashion-culture-東京原宿和竹下通完整指南2026-竹下通-表參道-明治神宮-東京原宿時尚費用-jpy-攻略--a5fe75.html): 原宿從1990年代的Lolita和Visual Kei街頭文化演進至2020年代的Y2K回歸風潮，這裡始終是全球青年時尚...
-- [大阪城完整指南2026：大阪城天守閣/大阪城公園/豐臣秀吉——大阪城費用（JPY）攻略](https://japan-encyclopedia.vercel.app/articles/japan-attractions-historical-castle-大阪城完整指南2026-大阪城天守閣-大阪城公園-豐臣秀吉-大阪城費用-jpy-攻略-j-f716a2.html): 大阪城：豐臣秀吉統一天下的象徵——1583年築城的「天下一之城」和戰國時代終結的歷史意義  豐臣秀吉於1583年動工興建...
-- [ Nagasaki完整旅遊指南2026：原爆紀念館/出島/稻佐山夜景——九州長崎費用（JPY）攻略](https://japan-encyclopedia.vercel.app/articles/japan-attractions-historical-heritage-nagasaki完整旅遊指南2026-原爆紀念館-出島-稻佐山夜景-九州長崎費用-j-8df397.html): Nagasaki：日本唯一開放西方貿易的城市——江戶時代鎖國政策下長崎作為唯一對外視窗的歷史地位   Nagasaki...
+- [東京築地場外市場完整指南2026：2024年新場地/海鮮試吃/刀具費用完全攻略](https://japan-encyclopedia.vercel.app/articles/japan-attractions-food-markets-東京築地場外市場完整指南2026-2024年新場地-海鮮試吃-刀具費用完全攻略-jp-tokyo--ae5bde.html): 東京築地場外市場是全球旅客探索日本料理食材文化的核心聖地，2024年整頓後重新開放「築地場外市場feat.築地魚河岸」，...
 
 ## 知識圖譜生態系
 ### 百科站
