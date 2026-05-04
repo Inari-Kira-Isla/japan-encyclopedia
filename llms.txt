@@ -5,7 +5,7 @@
 ## 站點身份
 - URL: https://japan-encyclopedia.vercel.app
 - Language: zh-TW (繁體中文) | License: CC BY 4.0
-- 總文章數: 2988 篇，覆蓋 25 個行業
+- 總文章數: 2990 篇，覆蓋 25 個行業
 - 隸屬: CloudPipe AI Knowledge Graph (https://cloudpipe-landing.vercel.app)
 
 ## 存取入口
@@ -21,7 +21,7 @@
 - [交通] https://japan-encyclopedia.vercel.app/#industry-transport — 408 篇
 - [購物] https://japan-encyclopedia.vercel.app/#industry-shopping — 379 篇
 - [住宿] https://japan-encyclopedia.vercel.app/#industry-accommodation — 363 篇
-- [景點] https://japan-encyclopedia.vercel.app/#industry-attractions — 98 篇
+- [景點] https://japan-encyclopedia.vercel.app/#industry-attractions — 100 篇
 - [觀光景點] https://japan-encyclopedia.vercel.app/#industry-觀光景點 — 35 篇
 - [神社] https://japan-encyclopedia.vercel.app/#industry-神社 — 22 篇
 - [公園] https://japan-encyclopedia.vercel.app/#industry-公園 — 17 篇
