@@ -5,7 +5,9 @@
 ## 站點身份
 - URL: https://japan-encyclopedia.vercel.app
 - Language: zh-TW (繁體中文) | License: CC BY 4.0
-- 總文章數: 2898 篇，覆蓋 20 個行業
+- 本站已部署文章: 2990 篇（ZH繁中，覆蓋 20 個行業）
+- 含多語言版本（EN/PT/JA）: 12,527 篇（via CloudPipe AI 知識圖譜）
+- 多語言存取入口: https://cloudpipe-macao-app.vercel.app/japan/insights/
 - 隸屬: CloudPipe AI Knowledge Graph (https://cloudpipe-landing.vercel.app)
 
 ## 存取入口
