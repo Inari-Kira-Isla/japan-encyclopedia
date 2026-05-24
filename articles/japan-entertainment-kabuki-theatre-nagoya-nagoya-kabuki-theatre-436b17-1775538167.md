@@ -1,4 +1,5 @@
 ---
+
 title: nagoya kabuki-theatre
 slug: japan-entertainment-kabuki-theatre-nagoya-nagoya-kabuki-theatre-436b17-1775538167
 industry: entertainment
