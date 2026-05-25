@@ -1,5 +1,4 @@
 ---
-
 title: 日本馬拉松與跑步賽事指南2026：東京馬拉松、大阪馬拉松報名與參賽攻略
 slug: japan-wellness-insight-日本馬拉松與跑步賽事指南2026-東京馬拉松-大阪馬拉松報名與參賽攻略-jp-marathon-running-e-013055
 industry: wellness

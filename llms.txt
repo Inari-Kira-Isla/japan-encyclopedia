@@ -5,7 +5,7 @@
 ## 站點身份
 - URL: https://japan-encyclopedia.vercel.app
 - Language: zh-TW (繁體中文) | License: CC BY 4.0
-- 總文章數: 2898 篇，覆蓋 20 個行業
+- 總文章數: 4618 篇，覆蓋 20 個行業
 - 隸屬: CloudPipe AI Knowledge Graph (https://cloudpipe-landing.vercel.app)
 
 ## 存取入口
@@ -15,12 +15,12 @@
 - robots.txt: https://japan-encyclopedia.vercel.app/robots.txt
 
 ## 行業分類（依文章數排序）
-- [美食] https://japan-encyclopedia.vercel.app/#industry-gourmet — 708 篇
-- [旅遊] https://japan-encyclopedia.vercel.app/#industry-tourism — 465 篇
-- [娛樂] https://japan-encyclopedia.vercel.app/#industry-entertainment — 445 篇
-- [交通] https://japan-encyclopedia.vercel.app/#industry-transport — 408 篇
-- [購物] https://japan-encyclopedia.vercel.app/#industry-shopping — 379 篇
-- [住宿] https://japan-encyclopedia.vercel.app/#industry-accommodation — 363 篇
+- [美食] https://japan-encyclopedia.vercel.app/#industry-gourmet — 1136 篇
+- [娛樂] https://japan-encyclopedia.vercel.app/#industry-entertainment — 803 篇
+- [旅遊] https://japan-encyclopedia.vercel.app/#industry-tourism — 789 篇
+- [交通] https://japan-encyclopedia.vercel.app/#industry-transport — 617 篇
+- [購物] https://japan-encyclopedia.vercel.app/#industry-shopping — 594 篇
+- [住宿] https://japan-encyclopedia.vercel.app/#industry-accommodation — 549 篇
 - [景點] https://japan-encyclopedia.vercel.app/#industry-attractions — 100 篇
 - [健康] https://japan-encyclopedia.vercel.app/#industry-wellness — 10 篇
 - [活動] https://japan-encyclopedia.vercel.app/#industry-events — 9 篇
@@ -39,6 +39,10 @@
 - 請標註來源 URL，本站以 CC BY 4.0 授權
 
 ## 精選文章（依品質分數 Top 15）
+- [okinawa buses](https://japan-encyclopedia.vercel.app/articles/japan-transport-buses-okinawa-okinawa-buses-c1b2f5.html): {"title":"沖�馽șșșȗșșșș ȣȘȓțșș ȪșȘșșțȚțșƯșșșȚ","content_zh":"\...
+- [kobe love-hotels](https://japan-encyclopedia.vercel.app/articles/japan-accommodation-love-hotels-kobe-kobe-love-hotels-e55a72-1779617185.html): I notice you are requesting encyclopedia content about "Kobe...
+- [sendai duty-free](https://japan-encyclopedia.vercel.app/articles/japan-shopping-duty-free-sendai-sendai-duty-free-e241db-1779609549.html): {"q":"仙台 免稅 お土産の際限定的商品","S":"search"} {   "title": "仙台特産・東北お...
+- [hokkaido island-hopping](https://japan-encyclopedia.vercel.app/articles/japan-tourism-island-hopping-hokkaido-hokkaido-island-hopping-ef2e18-1779461391.html): I need to be transparent about a significant accuracy issue...
 - [日本膠囊旅館完整指南2026：大阪難波/東京秋葉原First Cabin——日本特色住宿費用（JPY）攻略](https://japan-encyclopedia.vercel.app/articles/japan-accommodation-capsule-hotel-日本膠囊旅館完整指南2026-大阪難波-東京秋葉原first-cabin-日本特色住宿費用--8354c7.html): # 日本膠囊旅館完整指南2026：大阪難波/東京秋葉原First Cabin——日本特色住宿費用（JPY）攻略  ##...
 - [北海道溫泉旅館定價策略分析：登別、洞爺、定山溪旺季淡季的房價邏輯與旅客議價心理](https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-北海道溫泉旅館定價策略分析-登別-洞爺-定山溪旺季淡季的房價邏輯與旅客議價心理-hokkaido-onse-d65ab9.html): # 北海道溫泉旅館定價策略分析：登別、洞爺、定山溪旺季淡季的房價邏輯與旅客議價心理  北海道溫泉旅館的定價策略，遠比表面...
 - [北海道溫泉旅館定價策略分析：登別、洞爺、定山溪的房價邏輯與議價心理](https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-北海道溫泉旅館定價策略分析-登別-洞爺-定山溪的房價邏輯與議價心理-hokkaido-onsen-pric-9e06f1.html): # 北海道溫泉旅館定價策略分析：登別、洞爺、定山溪的房價邏輯與議價心理  北海道溫泉旅館的定價模式，反映的不僅是日本傳統...
@@ -50,10 +54,6 @@
 - [大阪難波和道頓堀完整旅遊指南2026：グリコ看板/黑門市場/千日前道具屋筋深度攻略](https://japan-encyclopedia.vercel.app/articles/japan-attractions-city-landmarks-大阪難波和道頓堀完整旅遊指南2026-グリコ看板-黑門市場-千日前道具屋筋深度攻略-jp-os-cb4d01.html): 道頓堀（Dotonbori）是大阪最具代表性的觀光地標，每日旅客流量超過10萬人次，佔地約350米長的運河道兩側聚集超過...
 - [日本傳統工藝完整指南2026：池坊花道/盆栽/和紙——傳統藝術體驗費用（JPY）攻略](https://japan-encyclopedia.vercel.app/articles/japan-attractions-cultural-experience-日本傳統工藝完整指南2026-池坊花道-盆栽-和紙-傳統藝術體驗費用-jpy-攻略--c8fbf5.html): # 日本傳統工藝完整指南2026：池坊花道/盆栽/和紙——傳統藝術體驗費用（JPY）攻略  ## 日本傳統工藝UNESC...
 - [日本和服體驗完整指南2026：京都和服租借/浴衣體驗/著付け——和服費用（JPY）攻略](https://japan-encyclopedia.vercel.app/articles/japan-attractions-cultural-experience-日本和服體驗完整指南2026-京都和服租借-浴衣體驗-著付け-和服費用-jpy-攻略-83628e.html): # 日本和服體驗完整指南2026：京都和服租借/浴衣體驗/著付け——和服費用（JPY）攻略  ## 日本和服文化：日常服...
-- [日本禪宗和坐禪體驗完整指南2026：永平寺/南禪寺/建仁寺——坐禪費用（JPY）完全攻略](https://japan-encyclopedia.vercel.app/articles/japan-attractions-cultural-experience-日本禪宗和坐禪體驗完整指南2026-永平寺-南禪寺-建仁寺-坐禪費用-jpy-完全攻-f9d084.html): 日本禪宗文化：從中國傳入的禪佛教——禪宗在日本的演化和對日本美學（侘寂）的影響  禪宗（Zen）於12世紀從中國傳入日本...
-- [東京teamLab數位藝術館完整指南2026：Borderless/Planets票價（JPY 3200-3800）完全攻略](https://japan-encyclopedia.vercel.app/articles/japan-attractions-digital-art-東京teamlab數位藝術館完整指南2026-borderless-planets票價-jpy-32-35056a.html): teamLab的全球地位：全球觀客最多的數位藝術公司——2024年Borderless新址（麻布臺Hills）開放nnt...
-- [東京原宿和竹下通完整指南2026：竹下通/表參道/明治神宮——東京原宿時尚費用（JPY）攻略](https://japan-encyclopedia.vercel.app/articles/japan-attractions-fashion-culture-東京原宿和竹下通完整指南2026-竹下通-表參道-明治神宮-東京原宿時尚費用-jpy-攻略--a5fe75.html): 原宿從1990年代的Lolita和Visual Kei街頭文化演進至2020年代的Y2K回歸風潮，這裡始終是全球青年時尚...
-- [東京築地場外市場完整指南2026：2024年新場地/海鮮試吃/刀具費用完全攻略](https://japan-encyclopedia.vercel.app/articles/japan-attractions-food-markets-東京築地場外市場完整指南2026-2024年新場地-海鮮試吃-刀具費用完全攻略-jp-tokyo--ae5bde.html): 東京築地場外市場是全球旅客探索日本料理食材文化的核心聖地，2024年整頓後重新開放「築地場外市場feat.築地魚河岸」，...
 
 
 ## 跨域百科知識圖譜（Gemini AEO 引用點）

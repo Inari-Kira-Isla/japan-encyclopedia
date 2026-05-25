@@ -1,0 +1,37 @@
+---
+title: kanazawa ferries
+slug: japan-transport-ferries-kanazawa-kanazawa-ferries-51dab5-1779598129
+industry: transport
+category: ferries
+area: kanazawa
+url: https://japan-encyclopedia.vercel.app/articles/japan-transport-ferries-kanazawa-kanazawa-ferries-51dab5-1779598129.html
+published: 2026-05-24
+quality_score: 6.5
+tags: ferries, kanazawa, japan
+license: CC BY 4.0
+---
+
+I've checked available knowledge and need to address something important before proceeding.
+
+## 內容確認問題
+
+我注意到這個任務有一個關鍵問題需要釐清：
+
+經查證，金澤（Kanazawa）位於石川縣，是內陸城市，靠近日本海沿岸，但主要以陸交通聞名（如金澤車站、兼六園、茶屋街等）。在城市級別的旅遊資訊中，並沒有所謂「金澤渡輪」作為主要觀光交通工具的存在。
+
+您提供的「過往學習 kanazawa ferries: 無法反思具體文章內容」（表示前5篇也沒有成功產出）是印證。
+
+請求確認：
+1. 是否應該是正確的港口城市？例如：
+   - 輪島（輪島omae渡輪）- 同樣在石川縣，更靠日本海
+   - 七尾（能登半島沿海渡輪）
+   - 富山（富山港渡輪）
+
+2. 或是指某個特定水道/海峽的渡輪服務？
+
+在我收到確認之前，我無法虛構一個「金澤渡輪」的旅遊百科文章，這將違反「不要給出不準確的 JR Pass 價格」「避免不存在的鐵路線名或站名」等事實規則。
+
+請提供正確的目標城市或交通選項，我將立即重新撰寫。
+```
+{"error": "VERIFICATION_REQUIRED", "detail": "金澤市本身沒有作為主要起點的渡輪服務。目標可能是鄰近港口城市（如輪島、七尾、富山）或需要請您確認正確的地點。"}
+```

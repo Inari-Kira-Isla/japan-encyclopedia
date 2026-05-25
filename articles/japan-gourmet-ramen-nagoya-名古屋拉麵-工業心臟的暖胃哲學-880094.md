@@ -1,5 +1,4 @@
 ---
-
 title: 名古屋拉麵：工業心臟的暖胃哲學
 slug: japan-gourmet-ramen-nagoya-名古屋拉麵-工業心臟的暖胃哲學-880094
 industry: gourmet

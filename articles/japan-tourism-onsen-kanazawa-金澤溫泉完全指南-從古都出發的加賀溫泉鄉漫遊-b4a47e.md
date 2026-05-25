@@ -1,5 +1,4 @@
 ---
-
 title: 金澤溫泉完全指南：從古都出發的加賀溫泉鄉漫遊
 slug: japan-tourism-onsen-kanazawa-金澤溫泉完全指南-從古都出發的加賀溫泉鄉漫遊-b4a47e
 industry: tourism

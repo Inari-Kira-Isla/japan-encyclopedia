@@ -1,5 +1,4 @@
 ---
-
 title: 神戶溫泉旅館深度探索：在有馬溫泉體驗關西最古老的溫泉魅力
 slug: japan-accommodation-ryokan-kobe-神戶溫泉旅館完全指南-在有馬溫泉體驗關西最古老的溫泉魅力-21ff00
 industry: accommodation

@@ -1,5 +1,4 @@
 ---
-
 title: 神戶牛肉和港口城市完整指南2026：神戶牛鐵板燒/北野異人館/美麗華港灣——阪神都市圈費用（JPY）攻略
 slug: japan-dining-premium-food-神戶牛肉和港口城市完整指南2026-神戶牛鐵板燒-北野異人館-美麗華港灣-阪神都市圈費用-jpy-攻略-jp-4d48f0
 industry: dining

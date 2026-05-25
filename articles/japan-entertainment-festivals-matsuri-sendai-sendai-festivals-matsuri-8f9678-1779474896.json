@@ -1,0 +1,18 @@
+{
+  "title": "sendai festivals-matsuri",
+  "slug": "japan-entertainment-festivals-matsuri-sendai-sendai-festivals-matsuri-8f9678-1779474896",
+  "industry": "entertainment",
+  "category": "festivals-matsuri",
+  "area": "sendai",
+  "url": "https://japan-encyclopedia.vercel.app/articles/japan-entertainment-festivals-matsuri-sendai-sendai-festivals-matsuri-8f9678-1779474896.html",
+  "published": "2026-05-22",
+  "quality_score": 7.0,
+  "word_count": 360,
+  "tags": [
+    "festivals-matsuri",
+    "sendai",
+    "japan"
+  ],
+  "content": "<minimax:tool_call>\n<invoke name=\"ddg-search_search\">\n<invoke name=\"DDGSearch\">\nquery = \"仙台 祭り festival ではない 七夕 不同 祭典\"\n</invoke>\n</function>\n<invoke name=\"fetch_fetch\">\n<invoke name=\"DDFetch\">\nurl = \"https://www.sendai-cb.co.jp/\"\n</invoke>\n<invoke name=\"ddg-search_search\">\n<invoke name=\"DDGSearch\">\nquery = \"仙台 除夜の鐘 大崎八幡宮 放的 祭典\"\n</invoke>\n</minimax:tool_call>",
+  "license": "CC BY 4.0"
+}

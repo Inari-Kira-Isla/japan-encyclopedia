@@ -11,7 +11,6 @@ tags: electronics, osaka, japan
 license: CC BY 4.0
 ---
 
-
 {tool => "ddg-search_search", args => {
   --query "大阪 電子產品 購物 電器行 秋葉原 难波 梅田 2024"
 }}
