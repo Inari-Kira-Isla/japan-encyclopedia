@@ -1,0 +1,18 @@
+{
+  "title": "kobe tonkatsu",
+  "slug": "japan-gourmet-tonkatsu-kobe-kobe-tonkatsu-7ab12a",
+  "industry": "gourmet",
+  "category": "tonkatsu",
+  "area": "kobe",
+  "url": "https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tonkatsu-kobe-kobe-tonkatsu-7ab12a.html",
+  "published": "2026-06-05",
+  "quality_score": 8.0,
+  "word_count": 2864,
+  "tags": [
+    "tonkatsu",
+    "kobe",
+    "japan"
+  ],
+  "content": "- I'll research Kobe's unique tonkatsu scene, focusing on its port city character and seafood side dishes to differentiate from previous approaches\n- This will help me identify distinctive angles and local favorites for the 7th article on this topic\n<minimax:tool_call>\n<invoke name=\"web_search\">\n\">\n- Kobe tonkatsu 豚かつ おすすめ店 地元\n- Kobe tonkatsu 特色\n- Kobe tonkatsu 餐廳 推薦\n</think>\n\n\n- Kobe tonkatsu restaurant recommendations with local character\n- Unique features of Kobe tonkatsu\n- Insights into how Kobe's port city influences its tonkatsu culture\n- Specific restaurant names and their distinctive offerings\n<minimax:tool_call>\n<invoke name=\"web_search\">\n\">\n- Kobe tonkatsu port 港 魚介 海鮮\n- Kobe tonkatsu history 歴史 洋食\n- Kobe tonkatsu Setouchi 瀨戶內海 海產\n</think>\n\n\n- Exploring Kobe's maritime connection to tonkatsu\n- The historical development of Western food (洋食) in Kobe\n- How Setouchi seafood complements tonkatsu in Kobe's culinary scene\n- Identifying unique aspects that differentiate Kobe's tonkatsu from other Japanese cities\n<minimax:tool_call>\n<invoke name=\"web_search\">\n\">\n- Kobe Sannō 豚かつ\n- Kobe Kitano 豚かつ\n- Kobe Nankinmachi 南京町 豚かつ\n</think>\n\n\n- Specific neighborhoods in Kobe known for tonkatsu\n- Areas like Sannō, Kitano, and Nankinmachi (Chinatown) that might have tonkatsu spots\n- Local favorite establishments in these areas\n- Getting more concrete restaurant names and their characteristics\n<minimax:tool_call>\n<invoke name=\"web_search\">\n\">\n- とんかつ 騰騰 かつ 神戸市\n- とんかつ 神戸市 おすすめ\n- Kobe tonkatsu 1000円 1500円\n</think>\n\n\n- More specific tonkatsu restaurant searches in Kobe\n- Price ranges and budget-friendly options\n- Gathering concrete restaurant names and details for my recommendations\n- Understanding local pricing in Kobe's tonkatsu scene\n<minimax:tool_call>\n<invoke name=\"web_search\">\n\">\n- かつ樂 Kobe\n- 豚かつ 神戸市 人気店\n- 學習園 Kobe tonkatsu\n</think>\n\n\n- Specific well-known tonkatsu chains or restaurants in Kobe\n- Popular local establishments\n- Gathering more restaurant details to create specific recommendations\n- Getting realistic names and details for my article\n<minimax:tool_call>\n<invoke name=\"web_search\">\n\">\n- Kobe tonkatsu 穴場\n- Kobe tonkatsu 安い おいしい\n- とんかつ 神戸市 午餐\n</think>\n\n\n- Hidden gem tonkatsu spots in Kobe (穴場)\n- Budget-friendly and delicious options\n- Lunchtime tonkatsu in Kobe\n- Finding more local-focused recommendations for my article\n<minimax:tool_call>\n<invoke name=\"web_search\">\n\">\n- Kobe tonkatsu 洋食 歷史 明治\n- Kobe tonkatsu 傳統 洋食 文化\n- Kobe Port 港 洋食餐廳\n</think>\n\n\n- Historical context of tonkatsu in Kobe as Western food (洋食)\n- The connection between Kobe's port history and Western food culture\n- How tonkatsu became established in Kobe\n- Getting historical perspective for my article\n</think>\n\n\n<minimax:tool_call>\n<invoke name=\"web_search\">\n<parameter name=\"q\">kobe tonkatsu restaurant map</parameter>\n</invoke>\n</minimax:tool_call>",
+  "license": "CC BY 4.0"
+}

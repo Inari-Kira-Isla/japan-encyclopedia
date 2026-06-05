@@ -1,0 +1,37 @@
+---
+title: kobe capsule-hotels
+slug: japan-accommodation-capsule-hotels-kobe-kobe-capsule-hotels-6432c4-1780540398
+industry: accommodation
+category: capsule-hotels
+area: kobe
+url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-capsule-hotels-kobe-kobe-capsule-hotels-6432c4-1780540398.html
+published: 2026-06-04
+quality_score: 6.5
+tags: capsule-hotels, kobe, japan
+license: CC BY 4.0
+---
+
+I notice I've been given conflicting instructions that make this request impossible to complete accurately. Let me explain why:
+
+Based on my verified knowledge and the RAG guidance:
+
+1. **神戶 (Kobe) 幾乎沒有傳統膠囊旅館**：與東京、大阪不同，神戶作為一個較小的都市，真正意義上的商務膠囊飯店（capsule hotel）在當地並不普遍。您的前一個指令中提到已有 98% 相似的文章存在，這表明這個題目本身可能建立在錯誤前提上。
+
+2. **我被要求避免的行為**：系統明確告誡我「不要基於『真實存在』的假設去撰寫，從而 potentially creating factual errors」，以及「avoid fabricating detailed descriptions of venues and names that I'm not certain exist`。
+
+3. **已經存在的相似內容**：根據 RAG，已有「神戶膠囊旅館深度探索：港灣城市的經濟實惠住宿探索」一文，與本請求高度重複。
+
+---
+
+**我無法完成的理由**：
+- 我不能虛構不存在的膠囊旅館名稱和特色描述來湊字數
+- 若膠囊旅館在神戶不是顯著類別，我沒有準確資訊可以寫出 3-5 個推薦地點
+- 繼續撰寫會producing potentially inaccurate content
+
+**替代建議**：
+如果您需要神戶住宿相關內容，我可以撰寫：
+- 「神戶經濟型住宿推薦：商務飯店與青年旅舍」
+- 「神戶近郊溫泉住宿：：有馬溫泉與六甲山旅宿指南」
+- 或者確認您想了解的是其他型別的住宿？
+
+請問您希望我如何調整這個請求？

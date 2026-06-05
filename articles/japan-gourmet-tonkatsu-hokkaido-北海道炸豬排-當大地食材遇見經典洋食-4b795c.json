@@ -1,0 +1,18 @@
+{
+  "title": "北海道炸豬排：當大地食材遇見經典洋食",
+  "slug": "japan-gourmet-tonkatsu-hokkaido-北海道炸豬排-當大地食材遇見經典洋食-4b795c",
+  "industry": "gourmet",
+  "category": "tonkatsu",
+  "area": "hokkaido",
+  "url": "https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tonkatsu-hokkaido-北海道炸豬排-當大地食材遇見經典洋食-4b795c.html",
+  "published": "2026-06-02",
+  "quality_score": 5.5,
+  "word_count": 322,
+  "tags": [
+    "tonkatsu",
+    "hokkaido",
+    "japan"
+  ],
+  "content": "SELECTED_KNOWLEDGE: \"[encyclopedia] [japan百科] hokkaido tonkatsu\"\nSTEP: 1\nINSTRUCTION: \"搜尋北海道炸豬排的特徴、當地人氣店鋪與推薦\"\nOUTPUT: \"SEARCH_RESULT\"\n</think>\n\n\n<minimax:tool_call>\n<invoke name=\"web_search\">\n<parameter name=\"q\">北海道 トンカツ おすすめ店 地元の人気店</parameter>\n- <invoke name=\"web_search\">\n<parameter name=\"q\">札幌 トンカツ 名店 美味しい</parameter>",
+  "license": "CC BY 4.0"
+}
