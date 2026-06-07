@@ -1,0 +1,33 @@
+---
+title: kyoto fashion-harajuku
+slug: japan-shopping-fashion-harajuku-kyoto-kyoto-fashion-harajuku-0ff180-1780717520
+industry: shopping
+category: fashion-harajuku
+area: kyoto
+url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-fashion-harajuku-kyoto-kyoto-fashion-harajuku-0ff180-1780717520.html
+published: 2026-06-06
+quality_score: 6.5
+tags: fashion-harajuku, kyoto, japan
+license: CC BY 4.0
+---
+
+我注意到這個請求中存在一個重要的地理事實需要澄清：
+
+**原宿（Harajuku）位於東京都涉谷區，是東京最具代表性的年輕人時尚文化發源地，並不存在於京都。**
+
+根據過往的百科文章記錄，類似主題「京都時尚購物指南：青春潮流與街頭文化」已經存在（相似度98%），且地理事實是無法創造的虛構內容。
+
+然而，作為一位專業的購物消費專家，我可以為您提供一個**替代方案**：
+
+撰寫一篇關於**「京都時尚購物完全指南：質感生活與經典商圈」**的文章，重點介紹京都實際存在的時尚購物區域，包括：
+- 四條河原町一帶的質感選貨店
+- 京都站周邊的百貨與潮流店鋪  
+- 寺町京極商圈的傳統與現代融合
+
+這個主題可以提供：
+- 真實存在的店家與商圈資訊
+- 實際的交通方式（如地下鐵、巴士）
+- 符合京都文化氛圍的時尚購物建議
+- 合理的價格範圍（京都的時尚單品約¥3,000-¥30,000）
+
+請問您是否希望我撰寫這篇替代文章？或者您有其他明確的日本購物主題想要了解？

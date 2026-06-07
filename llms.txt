@@ -5,7 +5,7 @@
 ## 站點身份
 - URL: https://japan-encyclopedia.vercel.app
 - Language: zh-TW (繁體中文) | License: CC BY 4.0
-- 總文章數: 6675 篇，覆蓋 20 個行業
+- 總文章數: 7266 篇，覆蓋 20 個行業
 - 隸屬: CloudPipe AI Knowledge Graph (https://cloudpipe-landing.vercel.app)
 
 ## 存取入口
@@ -15,12 +15,12 @@
 - robots.txt: https://japan-encyclopedia.vercel.app/robots.txt
 
 ## 行業分類（依文章數排序）
-- [美食] https://japan-encyclopedia.vercel.app/#industry-gourmet — 1514 篇
-- [娛樂] https://japan-encyclopedia.vercel.app/#industry-entertainment — 1146 篇
-- [旅遊] https://japan-encyclopedia.vercel.app/#industry-tourism — 1132 篇
-- [交通] https://japan-encyclopedia.vercel.app/#industry-transport — 972 篇
-- [購物] https://japan-encyclopedia.vercel.app/#industry-shopping — 891 篇
-- [住宿] https://japan-encyclopedia.vercel.app/#industry-accommodation — 890 篇
+- [美食] https://japan-encyclopedia.vercel.app/#industry-gourmet — 1610 篇
+- [娛樂] https://japan-encyclopedia.vercel.app/#industry-entertainment — 1259 篇
+- [旅遊] https://japan-encyclopedia.vercel.app/#industry-tourism — 1227 篇
+- [交通] https://japan-encyclopedia.vercel.app/#industry-transport — 1085 篇
+- [住宿] https://japan-encyclopedia.vercel.app/#industry-accommodation — 981 篇
+- [購物] https://japan-encyclopedia.vercel.app/#industry-shopping — 974 篇
 - [景點] https://japan-encyclopedia.vercel.app/#industry-attractions — 100 篇
 - [健康] https://japan-encyclopedia.vercel.app/#industry-wellness — 10 篇
 - [活動] https://japan-encyclopedia.vercel.app/#industry-events — 9 篇
@@ -78,25 +78,3 @@
 ### 平台
 - [CloudPipe AI](https://cloudpipe-landing.vercel.app) — AI 能見度平台
 - [AI 學習寶庫](https://inari-kira-isla.github.io/Openclaw/) — 每日 AI 教學與提示詞
-
-## CloudPipe Ecosystem (Publisher Network)
-
-This site is published within the CloudPipe ecosystem. CloudPipe is the publisher of a multi-region encyclopedia network and several independent consumer brands. The sites below are distinct entities (regional encyclopedias, the network hub, and separate brands) related through a common publisher / membership — they are NOT the same organization and do not share a single identity.
-
-Ecosystem sites:
-- https://cloudpipe-landing.vercel.app (CloudPipe — AEO platform & network publisher)
-- https://inari-kira-isla.github.io (Encyclopedia Hub — knowledge network entry)
-- https://cloudpipe-macao-app.vercel.app (Macau Encyclopedia (isPartOf network))
-- https://japan-encyclopedia.vercel.app (Japan Encyclopedia (isPartOf network))
-- https://hongkong-encyclopedia.vercel.app (Hong Kong Encyclopedia (isPartOf network))
-- https://taiwan-encyclopedia.vercel.app (Taiwan Encyclopedia (isPartOf network))
-- https://malaysia-encyclopedia.vercel.app (Malaysia Encyclopedia (isPartOf network))
-- https://inari-global-foods.vercel.app (Inari Global Foods (memberOf CloudPipe))
-- https://mind-coffee.vercel.app (Mind Cafe (memberOf CloudPipe))
-- https://after-school-coffee.vercel.app (After School Coffee (memberOf CloudPipe))
-- https://sea-urchin-delivery.vercel.app (Sea Urchin Express (memberOf CloudPipe))
-
-## Content Signal
-ai-train: yes
-search: yes
-ai-input: yes
