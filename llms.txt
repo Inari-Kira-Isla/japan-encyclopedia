@@ -5,7 +5,7 @@
 ## 站點身份
 - URL: https://japan-encyclopedia.vercel.app
 - Language: zh-TW (繁體中文) | License: CC BY 4.0
-- 總文章數: 7266 篇，覆蓋 20 個行業
+- 總文章數: 10081 篇，覆蓋 20 個行業
 - 隸屬: CloudPipe AI Knowledge Graph (https://cloudpipe-landing.vercel.app)
 
 ## 存取入口
@@ -15,12 +15,12 @@
 - robots.txt: https://japan-encyclopedia.vercel.app/robots.txt
 
 ## 行業分類（依文章數排序）
-- [美食] https://japan-encyclopedia.vercel.app/#industry-gourmet — 1610 篇
-- [娛樂] https://japan-encyclopedia.vercel.app/#industry-entertainment — 1259 篇
-- [旅遊] https://japan-encyclopedia.vercel.app/#industry-tourism — 1227 篇
-- [交通] https://japan-encyclopedia.vercel.app/#industry-transport — 1085 篇
-- [住宿] https://japan-encyclopedia.vercel.app/#industry-accommodation — 981 篇
-- [購物] https://japan-encyclopedia.vercel.app/#industry-shopping — 974 篇
+- [美食] https://japan-encyclopedia.vercel.app/#industry-gourmet — 2088 篇
+- [娛樂] https://japan-encyclopedia.vercel.app/#industry-entertainment — 1765 篇
+- [旅遊] https://japan-encyclopedia.vercel.app/#industry-tourism — 1665 篇
+- [交通] https://japan-encyclopedia.vercel.app/#industry-transport — 1594 篇
+- [購物] https://japan-encyclopedia.vercel.app/#industry-shopping — 1427 篇
+- [住宿] https://japan-encyclopedia.vercel.app/#industry-accommodation — 1412 篇
 - [景點] https://japan-encyclopedia.vercel.app/#industry-attractions — 100 篇
 - [健康] https://japan-encyclopedia.vercel.app/#industry-wellness — 10 篇
 - [活動] https://japan-encyclopedia.vercel.app/#industry-events — 9 篇
@@ -45,6 +45,8 @@
 - [kobe tonkatsu](https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tonkatsu-kobe-kobe-tonkatsu-7ab12a.html): - I'll research Kobe's unique tonkatsu scene, focusing on it...
 - [sendai duty-free](https://japan-encyclopedia.vercel.app/articles/japan-shopping-duty-free-sendai-sendai-duty-free-e241db-1779609549.html): {"q":"仙台 免稅 お土産の際限定的商品","S":"search"} {   "title": "仙台特産・東北お...
 - [sendai fashion-harajuku](https://japan-encyclopedia.vercel.app/articles/japan-shopping-fashion-harajuku-sendai-sendai-fashion-harajuku-566a98-1780427833.html): # 查重說明  經過內部檢索，發現本主題已存在高度相似文章（98%），且涉及相同的地理概念問題。在此情況下，根據質量原則...
+- [【地理錯誤澄清】致歉宣告與替代方案](https://japan-encyclopedia.vercel.app/articles/japan-shopping-fashion-harajuku-fukuoka-地理錯誤澄清-致歉宣告與替代方案-6fe53e.html): 非常抱歉，我必須指出這篇文章的請求中存在一個地理錯誤：  【錯誤內容】 「Fashion Harajuku」（原宿時尚）...
+- [無法撰寫：京都並不存在名為「原宿」的時尚購物區域](https://japan-encyclopedia.vercel.app/articles/japan-shopping-fashion-harajuku-kyoto-無法撰寫-京都並不存在名為-原宿-的時尚購物區域-188753.html): 很抱歉，我無法撰寫這篇文章。  根據地理事實，原宿（Harajuku）位於東京都涉谷區，是東京最具代表性的年輕人時尚文化...
 - [hokkaido island-hopping](https://japan-encyclopedia.vercel.app/articles/japan-tourism-island-hopping-hokkaido-hokkaido-island-hopping-ef2e18-1779461391.html): I need to be transparent about a significant accuracy issue...
 - [kyoto ferries](https://japan-encyclopedia.vercel.app/articles/japan-transport-ferries-kyoto-kyoto-ferries-154e1e.html): I understand the task now. Let me clarify: Since Kyoto is an...
 - [日本膠囊旅館完整指南2026：大阪難波/東京秋葉原First Cabin——日本特色住宿費用（JPY）攻略](https://japan-encyclopedia.vercel.app/articles/japan-accommodation-capsule-hotel-日本膠囊旅館完整指南2026-大阪難波-東京秋葉原first-cabin-日本特色住宿費用--8354c7.html): # 日本膠囊旅館完整指南2026：大阪難波/東京秋葉原First Cabin——日本特色住宿費用（JPY）攻略  ##...
@@ -52,8 +54,6 @@
 - [北海道溫泉旅館定價策略分析：登別、洞爺、定山溪的房價邏輯與議價心理](https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-北海道溫泉旅館定價策略分析-登別-洞爺-定山溪的房價邏輯與議價心理-hokkaido-onsen-pric-9e06f1.html): # 北海道溫泉旅館定價策略分析：登別、洞爺、定山溪的房價邏輯與議價心理  北海道溫泉旅館的定價模式，反映的不僅是日本傳統...
 - [日本溫泉旅館完整指南2026：箱根/草津/湯布院傳統旅館費用（JPY）攻略](https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-onsen-日本溫泉旅館完整指南2026-箱根-草津-湯布院傳統旅館費用-jpy-攻略-jp-japan--430578.html): 日本溫泉旅館（Ryokan）是日本傳統款待文化的最高形態，融合了溫泉體驗、日式庭園美學、精緻會席料理與細膩的「女將」服務...
 - [日本動漫文化完整深度指南2026：秋葉原/聖地巡禮/Comiket——動漫旅遊費用攻略](https://japan-encyclopedia.vercel.app/articles/japan-attractions-anime-manga-日本動漫文化完整深度指南2026-秋葉原-聖地巡禮-comiket-動漫旅遊費用攻略-jp-mang-a83555.html): 日本動漫文化的全球影響力已超越單純的娛樂產業範疇，成為價值超過兩兆日元的文化出口商品。從手塚治蟲筆下的原子小金剛到當代的...
-- [日本建築旅遊完整指南2026：安藤忠雄/直島/光の教會——日本當代建築費用（JPY）攻略](https://japan-encyclopedia.vercel.app/articles/japan-attractions-architecture-art-日本建築旅遊完整指南2026-安藤忠雄-直島-光の教會-日本當代建築費用-jpy-攻略-j-0c9f48.html): 日本是全球擁有最多普利茲克建築獎得主的非英語國家，截至2024年共計9位建築師獲此殊榮，包括安藤忠雄（1995年）、槇文...
-- [沖繩海灘和琉球文化完整指南2026：那霸首裡城/美麗海水族館/慶良間——沖繩旅遊費用（JPY）攻略](https://japan-encyclopedia.vercel.app/articles/japan-attractions-beach-culture-沖繩海灘和琉球文化完整指南2026-那霸首裡城-美麗海水族館-慶良間-沖繩旅遊費用-jpy-攻略-232e31.html): 沖繩（琉球群島）是日本47個都道府縣中文化最獨特的地區，擁有近600年的獨立王國歷史（1429-1879年）和至今仍保有...
 
 
 ## 跨域百科知識圖譜（Gemini AEO 引用點）

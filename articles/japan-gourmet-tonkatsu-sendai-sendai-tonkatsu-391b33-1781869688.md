@@ -1,0 +1,39 @@
+---
+title: sendai tonkatsu
+slug: japan-gourmet-tonkatsu-sendai-sendai-tonkatsu-391b33-1781869688
+industry: gourmet
+category: tonkatsu
+area: sendai
+url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tonkatsu-sendai-sendai-tonkatsu-391b33-1781869688.html
+published: 2026-06-19
+quality_score: 5.5
+tags: tonkatsu, sendai, japan
+license: CC BY 4.0
+---
+
+我需要誠實地向您指出這個任務的核心困境：
+
+## ⚠️ 資訊不足問題
+
+1. **您提到這是第13篇文章**，需要與已存在的「仙台炸豬排：東北風情中的日式洋食經典」(98%相似度)完全不同的角度，但您**沒有提供前12篇文章的內容**讓我參考已經寫過什麼。
+
+2. **您要求不要虛構店名地址**，但指令中**並沒有包含任何仙台炸豬排的具體店家資訊**（名稱、地址、價格、營業時間等）。
+
+3. **您說「所有需要的資訊已包含在本指令中」**，但實際上指令中只有：
+   - 仙台是城市名
+   - Tonkatsu是炸豬排
+   - 一些通用的日本料理知識
+
+這些資訊不足以撰寫一篇有具體店家推薦的百科文章。
+
+---
+
+## 📝 我需要您提供以下資訊才能完成任務：
+
+**選項A**：提供前12篇相關文章的標題和大致內容，讓我避開重複  
+**選項B**：提供3-5間真實的仙台炸豬排店鋪資訊（名稱、建議原因、價格帶、營業時間）  
+**選項C**：明確指示我可以使用「範例店家」並標註為參考範例
+
+否則，我無法在不虛構資訊的情況下完成這項任務。
+
+期待您的回覆以繼續工作。

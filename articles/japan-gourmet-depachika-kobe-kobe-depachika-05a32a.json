@@ -1,0 +1,18 @@
+{
+  "title": "kobe depachika",
+  "slug": "japan-gourmet-depachika-kobe-kobe-depachika-05a32a",
+  "industry": "gourmet",
+  "category": "depachika",
+  "area": "kobe",
+  "url": "https://japan-encyclopedia.vercel.app/articles/japan-gourmet-depachika-kobe-kobe-depachika-05a32a.html",
+  "published": "2026-06-14",
+  "quality_score": 5.5,
+  "word_count": 300,
+  "tags": [
+    "depachika",
+    "kobe",
+    "japan"
+  ],
+  "content": "我需要先搜尋神戶 depachika 的具體資訊，確保內容準確且有新角度。\n<minimax:tool_call>\n<invoke name=\"web_search\">\n<parameter name=\"q\">神戶 デパ地下 百貨店 地下食品 おすすめ 特産物\n</parameter>\n</invoke>\n<invoke name=\"web_search\">\n<parameter name=\"q\">Kobe depachika department store basement food specialty\n</parameter>\n</invoke>\n</minimax:tool_call>",
+  "license": "CC BY 4.0"
+}
