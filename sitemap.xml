@@ -2,12 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://japan-encyclopedia.vercel.app/</loc>
-    <lastmod>2026-07-10</lastmod>
+    <lastmod>2026-07-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/llms.txt</loc>
-    <lastmod>2026-07-10</lastmod>
+    <lastmod>2026-07-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>  <url>
@@ -68,6 +68,11 @@
   </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-kyoto-京都小眾街區的精品住宿-遠離人潮的私密度假選擇-8f2a2d.html</loc>
     <lastmod>2026-07-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-kyoto-京都工藝慢了時光-藏在精品旅宿裡的匠人精神-05dd83.html</loc>
+    <lastmod>2026-07-10</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
@@ -586,6 +591,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-osaka-大阪精品酒店完全指南-水都運河岸畔的設計寓所-e92243.html</loc>
+    <lastmod>2026-07-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-osaka-大阪精品酒店的味覺漫旅-從餐廳到房間的美食住宿體驗-3fdce6.html</loc>
     <lastmod>2026-06-09</lastmod>
     <changefreq>monthly</changefreq>
@@ -721,6 +731,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-nara-奈良精品酒店心靈修復指南-古都慢時光中的質感棲居-958708.html</loc>
+    <lastmod>2026-07-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-nara-奈良精品酒店深度指南-古都質樸之美・隱藏版特色住宿-ffcb93.html</loc>
     <lastmod>2026-06-21</lastmod>
     <changefreq>monthly</changefreq>
@@ -821,6 +836,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-hiroshima-廣島精品酒店-和平之城的質感住宿美學-c34d09.html</loc>
+    <lastmod>2026-07-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-hiroshima-廣島精品酒店-和平之城的質感棲居-瀨戶內藝術之旅的最佳根據地-1c20e6.html</loc>
     <lastmod>2026-06-27</lastmod>
     <changefreq>monthly</changefreq>
@@ -848,6 +868,11 @@
   </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-hiroshima-廣島精品酒店-從廢墟中盛開的設計美學-f3228c.html</loc>
     <lastmod>2026-06-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-hiroshima-廣島精品酒店-時間層疊中的質感棲居-66c354.html</loc>
+    <lastmod>2026-07-10</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
@@ -1063,6 +1088,11 @@
   </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-kobe-神戶精品酒店隱藏版指南-從有馬溫泉到港區碼頭的風格住宿提案-32a158.html</loc>
     <lastmod>2026-07-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-kobe-神戶精品酒店-不只是住宿的港都美學-36670f.html</loc>
+    <lastmod>2026-07-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
@@ -1468,6 +1498,11 @@
   </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-accommodation-business-hotels-nara-nara-business-hotels-3303f0.html</loc>
     <lastmod>2026-06-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-accommodation-business-hotels-nara-nara-business-hotels-3303f0-1783707342.html</loc>
+    <lastmod>2026-07-10</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
@@ -2238,6 +2273,11 @@
   </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-accommodation-business-hotels-hiroshima-廣島商務酒店完全攻略-國際商務客的住宿策略指南-a679da-1782521456.html</loc>
     <lastmod>2026-06-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-accommodation-business-hotels-hiroshima-廣島商務酒店完全攻略-國際商務客的住宿策略指南-a679da-1783757769.html</loc>
+    <lastmod>2026-07-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
@@ -3201,6 +3241,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-accommodation-capsule-hotels-sendai-仙台膠囊飯店全攻略-學生城市裡的省錢住宿密碼-e19f62.html</loc>
+    <lastmod>2026-07-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-accommodation-capsule-hotels-sendai-仙台膠囊飯店完全指南-商務與觀光的中繼站選擇-9ae1d8.html</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>monthly</changefreq>
@@ -3546,6 +3591,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-accommodation-capsule-hotels-osaka-大阪膠囊旅客的味覺根據地-從天王寺出發的美食中繼站-95d631.html</loc>
+    <lastmod>2026-07-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-accommodation-capsule-hotels-osaka-大阪膠囊旅館全攻略-特色-推薦與實用資訊-6ec1e3.html</loc>
     <lastmod>2026-03-16</lastmod>
     <changefreq>monthly</changefreq>
@@ -3618,6 +3668,11 @@
   </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-accommodation-capsule-hotels-nara-奈良單車慢旅膠囊住宿指南-古都漫騎驛站-5dfd6a.html</loc>
     <lastmod>2026-06-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-accommodation-capsule-hotels-nara-奈良單車與寺院參拜者的膠囊住宿指南-古都驛站的美學實踐-7dd5a9.html</loc>
+    <lastmod>2026-07-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
@@ -4341,6 +4396,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-accommodation-capsule-hotels-fukuoka-福岡膠囊飯店完全指南-國際門戶城市的住宿新選擇-63046e.html</loc>
+    <lastmod>2026-07-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-accommodation-capsule-hotels-fukuoka-福岡膠囊飯店完全指南-屋臺夜景後的溫暖歸處-12626b.html</loc>
     <lastmod>2026-06-21</lastmod>
     <changefreq>monthly</changefreq>
@@ -4616,6 +4676,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-accommodation-love-hotels-kyoto-京都love-hotels-古都巷弄中的隱密美學與住宿選擇-c7e19b.html</loc>
+    <lastmod>2026-07-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-accommodation-love-hotels-kyoto-京都love-hotels-古都情侶住宿的隱密選擇與文化體驗-b100bf.html</loc>
     <lastmod>2026-04-06</lastmod>
     <changefreq>monthly</changefreq>
@@ -4783,6 +4848,11 @@
   </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-accommodation-love-hotels-sendai-仙台商務人士的隱密休憩指南-love-hotels-的實用選擇-5fcc99.html</loc>
     <lastmod>2026-04-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-accommodation-love-hotels-sendai-仙台情侶住宿指南-東北都會的溫暖驛站-6a4a82.html</loc>
+    <lastmod>2026-07-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
@@ -5446,6 +5516,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-accommodation-love-hotels-hokkaido-沖繩商務飯店完全指南-會議獎勵旅遊與商務出差的專業選擇-9a2df1.html</loc>
+    <lastmod>2026-07-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-accommodation-love-hotels-nagoya-沖繩寺廟住宿完全指南-琉球佛教文化中的靜謐居所-e44561.html</loc>
     <lastmod>2026-06-30</lastmod>
     <changefreq>monthly</changefreq>
@@ -5511,8 +5586,18 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-accommodation-love-hotels-okinawa-沖繩戀愛旅宿指南-南國島嶼的私密浪漫時光-22a1a1.html</loc>
+    <lastmod>2026-07-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-accommodation-love-hotels-okinawa-沖繩戀愛飯店完全手冊-度假島嶼的獨特住宿邏輯-fac449.html</loc>
     <lastmod>2026-06-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-accommodation-love-hotels-okinawa-沖繩戀愛飯店完全指南-南國島嶼的浪漫住宿選擇-ac9137.html</loc>
+    <lastmod>2026-07-10</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
@@ -5676,6 +5761,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-accommodation-love-hotels-fukuoka-福岡住宿指南-情侶旅行的浪漫選擇-ba6c98.html</loc>
+    <lastmod>2026-07-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-accommodation-love-hotels-fukuoka-福岡住宿新選擇-商務飯店與膠囊旅館完全指南-90ae82.html</loc>
     <lastmod>2026-06-28</lastmod>
     <changefreq>monthly</changefreq>
@@ -5683,6 +5773,11 @@
   </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-accommodation-love-hotels-fukuoka-福岡住宿新選擇-特色湯宿與精品旅店-9c950f.html</loc>
     <lastmod>2026-06-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-accommodation-love-hotels-fukuoka-福岡住宿新體驗-特色love-hotels完全指南-701881.html</loc>
+    <lastmod>2026-07-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
@@ -5968,6 +6063,11 @@
   </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-kyoto-京都北邊山區民宿-比叡山-貴船-鞍馬的自然與修行文化住宿-3ba261.html</loc>
     <lastmod>2026-07-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-kyoto-京都宿坊完全指南-比叡山與大原的山嶽修行住宿-5b8e11.html</loc>
+    <lastmod>2026-07-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
@@ -6951,6 +7051,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-nara-沖繩商務飯店完全指南-會議獎勵旅遊與商務出差的專業選擇-d2a037.html</loc>
+    <lastmod>2026-07-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-okinawa-沖繩外島民宿指南-跳脫本島的亞熱帶島嶼生活-881120.html</loc>
     <lastmod>2026-06-29</lastmod>
     <changefreq>monthly</changefreq>
@@ -7591,6 +7696,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-okinawa-okinawa-ryokan-1696d3-1783701460.html</loc>
+    <lastmod>2026-07-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-osaka-osaka-ryokan-b59fb9.html</loc>
     <lastmod>2026-05-23</lastmod>
     <changefreq>monthly</changefreq>
@@ -7883,6 +7993,11 @@
   </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-hokkaido-北海道溫泉旅館的極致味覺巡禮-從食材認識北國溫泉旅宿的價值-446b0a.html</loc>
     <lastmod>2026-06-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-hokkaido-北海道溫泉旅館的極致食旅-從海膽到帝王蟹的味覺冒險-07bc26.html</loc>
+    <lastmod>2026-07-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
@@ -8246,8 +8361,18 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-nara-奈良登山健行與溫泉宿坊-大和高原的自然住宿體驗-4ed473.html</loc>
+    <lastmod>2026-07-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-nara-奈良秘湯巡禮-關西機場旁的隱藏版溫泉鄉與精品旅宿-c52928.html</loc>
     <lastmod>2026-07-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-nara-奈良精品旅宿-近距離感受千年古都的晨昏與鹿蹤-e3af79.html</loc>
+    <lastmod>2026-07-10</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
@@ -8503,6 +8628,11 @@
   </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-okinawa-沖繩傳統日式旅館-亞熱帶慢旅行的住宿美學-dbcad4.html</loc>
     <lastmod>2026-07-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-okinawa-沖繩商務飯店完全指南-會議獎勵旅遊與商務出差的專業選擇-d2daef.html</loc>
+    <lastmod>2026-07-10</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
@@ -8848,6 +8978,11 @@
   </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-kanazawa-金澤町家住宿提案-在加賀百萬石的巷弄中-過一日本地人的生活-ad0e6e.html</loc>
     <lastmod>2026-06-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-kanazawa-金澤町家住宿的美學沈浸-非溫泉傳統旅館的當代演繹-1343ac.html</loc>
+    <lastmod>2026-07-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
@@ -9401,6 +9536,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-accommodation-temple-stays-osaka-大阪出發關西寺廟住宿全攻略-作為宿坊探索中繼站的正確開啟方式-590666.html</loc>
+    <lastmod>2026-07-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-accommodation-temple-stays-osaka-大阪出發關西遊記-從大阪出發的寺廟住宿體驗指南-0fd9d0.html</loc>
     <lastmod>2026-05-22</lastmod>
     <changefreq>monthly</changefreq>
@@ -9516,6 +9656,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-accommodation-temple-stays-nara-奈良宿坊入門-古都邊緣的靜謐修行-56532d.html</loc>
+    <lastmod>2026-07-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-accommodation-temple-stays-nara-奈良宿坊完全攻略-古都周邊的隱藏版修行道場-4fd7e9.html</loc>
     <lastmod>2026-06-02</lastmod>
     <changefreq>monthly</changefreq>
@@ -9533,6 +9678,11 @@
   </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-accommodation-temple-stays-nara-奈良宿坊樞紐-作為關西寺院網路的心臟地帶-527fdb.html</loc>
     <lastmod>2026-06-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-accommodation-temple-stays-nara-奈良宿坊深度指南-避開人潮的隱藏修行體驗-0eb42e.html</loc>
+    <lastmod>2026-07-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
@@ -9693,6 +9843,11 @@
   </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-accommodation-temple-stays-hiroshima-廣島寺廟住宿體驗-在和平之都感受佛教禪意-d3bf2b.html</loc>
     <lastmod>2026-03-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-accommodation-temple-stays-hiroshima-廣島寺廟住宿-作為瀨戶內藝術跳點的禪歇處-3e8c4c.html</loc>
+    <lastmod>2026-07-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
@@ -9878,6 +10033,11 @@
   </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-accommodation-temple-stays-okinawa-沖繩傳統住宿完全指南-南國島嶼的慢節奏美學-d519fb-1781166817.html</loc>
     <lastmod>2026-06-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-accommodation-temple-stays-kyoto-沖繩商務飯店完全指南-會議獎勵旅遊與商務出差的專業選擇-ae2fdc.html</loc>
+    <lastmod>2026-07-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
@@ -10398,6 +10558,11 @@
   </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-accommodation-temple-stays-kanazawa-金澤寺廟住宿與溫泉禪修-加賀溫泉鄉的慢旅行提案-4b2221.html</loc>
     <lastmod>2026-06-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-accommodation-temple-stays-kanazawa-金澤寺廟住宿-作為北陸修行之旅的中繼樞紐-4c1786.html</loc>
+    <lastmod>2026-07-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
@@ -11651,6 +11816,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-nara-奈良動漫異次元-古都巷弄中的御宅文化探索-187114.html</loc>
+    <lastmod>2026-07-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-nara-奈良動漫聖地巡禮-穿越千年古都的動畫場景-03f205.html</loc>
     <lastmod>2026-06-06</lastmod>
     <changefreq>monthly</changefreq>
@@ -12496,6 +12666,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-entertainment-escape-rooms-kyoto-京都密室逃脫-古都巷弄中的沉浸式解謎體驗-906dc8.html</loc>
+    <lastmod>2026-07-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-entertainment-escape-rooms-kyoto-京都密室逃脫-古都氛圍中的燒腦挑戰-93ccb6.html</loc>
     <lastmod>2026-06-02</lastmod>
     <changefreq>monthly</changefreq>
@@ -12713,6 +12888,11 @@
   </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-entertainment-escape-rooms-sendai-仙台密室逃脫-東北玩家的燒腦首選-選擇指南與市場觀察-fe8fda.html</loc>
     <lastmod>2026-06-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-entertainment-escape-rooms-sendai-仙台密室逃脫-森林之都的沉浸式解謎冒險-9e5ebc.html</loc>
+    <lastmod>2026-07-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
@@ -13611,6 +13791,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-entertainment-escape-rooms-fukuoka-福岡密室逃脫完全攻略-選擇密室的五大決策關鍵與九州在地體驗-88c04b.html</loc>
+    <lastmod>2026-07-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-entertainment-escape-rooms-fukuoka-fukuoka-escape-rooms-ff3ab6.html</loc>
     <lastmod>2026-03-15</lastmod>
     <changefreq>monthly</changefreq>
@@ -14276,6 +14461,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-entertainment-festivals-matsuri-nara-奈良夜祭指南-提燈照亮千年古都的夢幻時刻-36fbc7.html</loc>
+    <lastmod>2026-07-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-entertainment-festivals-matsuri-nara-奈良夜間祭典完全攻略-提燈漫步與古都夜景的浪漫體驗-f6c365.html</loc>
     <lastmod>2026-06-25</lastmod>
     <changefreq>monthly</changefreq>
@@ -14643,6 +14833,11 @@
   </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-entertainment-festivals-matsuri-kobe-神戶夜景祭典-港都冬夜的光之饗宴與街巷美食地圖-83eada.html</loc>
     <lastmod>2026-06-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-entertainment-festivals-matsuri-kobe-神戶夜間祭典體驗-港都的霓虹慶典與夜色浪漫-9192ed.html</loc>
+    <lastmod>2026-07-10</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
@@ -15038,6 +15233,11 @@
   </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-entertainment-gaming-arcades-sendai-仙台遊戲中心深度指南-日圓低點的東北街機攻略-308aa2.html</loc>
     <lastmod>2026-07-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-entertainment-gaming-arcades-sendai-仙台遊戲中心省錢攻略-學生城市的人氣街機廳推薦-3d6adf.html</loc>
+    <lastmod>2026-07-10</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
@@ -15458,6 +15658,11 @@
   </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-entertainment-gaming-arcades-osaka-大阪遊戲中心-難波道頓堀周邊人氣店家推薦-9d5ba6.html</loc>
     <lastmod>2026-06-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-entertainment-gaming-arcades-osaka-大阪隱藏版遊戲中心-天王寺-新世界-吹田的在地向導-4e1d5c.html</loc>
+    <lastmod>2026-07-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
@@ -16048,6 +16253,16 @@
   </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-entertainment-gaming-arcades-fukuoka-福岡遊戲中心-邊吃邊玩的博多元場巡禮-897b3c.html</loc>
     <lastmod>2026-06-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-entertainment-gaming-arcades-fukuoka-福岡遊戲中心-隱藏版街機與在地生活風格的深度探索-41ddc9.html</loc>
+    <lastmod>2026-07-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-entertainment-gaming-arcades-fukuoka-福岡遊戲機廳-屋臺文化與街機熱血交織的夜間體驗-e28dca.html</loc>
+    <lastmod>2026-07-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
@@ -16966,6 +17181,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-entertainment-kabuki-theatre-tokyo-東京kabuki完全攻略-從新手到重度愛好者的劇場選擇指南-e98864.html</loc>
+    <lastmod>2026-07-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-entertainment-kabuki-theatre-tokyo-東京上班族下班後的直擊選擇-下班後直衝劇場看一場-livekabuki-f330a7.html</loc>
     <lastmod>2026-05-21</lastmod>
     <changefreq>monthly</changefreq>
@@ -17281,6 +17501,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-entertainment-kabuki-theatre-kanazawa-金澤表演藝術場館-傳統與創新的文化體驗指南-55a53e.html</loc>
+    <lastmod>2026-07-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-entertainment-kabuki-theatre-kanazawa-金澤表演藝術場館-傳統與創新的相遇-252e6c.html</loc>
     <lastmod>2026-07-06</lastmod>
     <changefreq>monthly</changefreq>
@@ -17438,6 +17663,11 @@
   </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-entertainment-karaoke-kyoto-京都卡拉ok-漫畫咖啡廳與學園文化的隱藏版歡唱地圖-14fd6d.html</loc>
     <lastmod>2026-06-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-entertainment-karaoke-kyoto-京都卡拉ok-町家老屋裡的復古歡唱時光-426301.html</loc>
+    <lastmod>2026-07-10</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
@@ -17841,6 +18071,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-entertainment-karaoke-osaka-大阪卡拉ok-本地人的深夜食堂式歡唱體驗-11d363.html</loc>
+    <lastmod>2026-07-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-entertainment-karaoke-osaka-大阪卡拉ok-甜品與歌聲的甜蜜結合-da1976.html</loc>
     <lastmod>2026-06-19</lastmod>
     <changefreq>monthly</changefreq>
@@ -17933,6 +18168,11 @@
   </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-entertainment-karaoke-nara-奈良卡拉ok-古都巷弄中的音樂秘境-當地人帶路的隱藏版歡唱攻略-44b172.html</loc>
     <lastmod>2026-06-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-entertainment-karaoke-nara-奈良卡拉ok-古都暮色的音樂時光-26a3f3.html</loc>
+    <lastmod>2026-07-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
@@ -18446,6 +18686,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-entertainment-karaoke-fukuoka-福岡卡拉ok-屋臺與歌聲交織的深夜食堂派對-7dc270.html</loc>
+    <lastmod>2026-07-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-entertainment-karaoke-fukuoka-福岡卡拉ok-屋臺與歌聲的深夜食堂-b10510.html</loc>
     <lastmod>2026-05-23</lastmod>
     <changefreq>monthly</changefreq>
@@ -18883,6 +19128,11 @@
   </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-hokkaido-北海道夜生活-非主流雪國體驗手冊-b28ef2.html</loc>
     <lastmod>2026-07-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-hokkaido-北海道深夜食堂-円山地區的隱藏版美食與在地酒館-d10603.html</loc>
+    <lastmod>2026-07-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
@@ -19441,6 +19691,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-okinawa-沖繩夜生活-夕陽漸沉後的微醺指南-165d43.html</loc>
+    <lastmod>2026-07-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-okinawa-沖繩夜生活-多元文化交融的星夜體驗-bc44c5.html</loc>
     <lastmod>2026-04-05</lastmod>
     <changefreq>monthly</changefreq>
@@ -19926,6 +20181,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-tokyo-tokyo-sumo-37fa4e.html</loc>
+    <lastmod>2026-07-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-kyoto-京都力士追蹤指南-在千年古都遇見相撲巨人-2e4458.html</loc>
     <lastmod>2026-03-28</lastmod>
     <changefreq>monthly</changefreq>
@@ -20103,6 +20363,11 @@
   </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-sendai-仙台相撲-東北復興精神下的力士文化體驗-728fd6.html</loc>
     <lastmod>2026-03-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-sendai-仙台相撲-牛舌與力士的隱藏版東北美食地圖-ac6dfa.html</loc>
+    <lastmod>2026-07-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
@@ -20546,6 +20811,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-nara-奈良相撲文化-古都尋訪力士足跡的深度文化之旅-1929ac.html</loc>
+    <lastmod>2026-07-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-nara-奈良相撲文化-古都小巷裡的橫綱足跡-408085.html</loc>
     <lastmod>2026-05-25</lastmod>
     <changefreq>monthly</changefreq>
@@ -20788,6 +21058,11 @@
   </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-okinawa-沖繩相撲遊記-從觀眾到力士一日體驗-2ee3b0.html</loc>
     <lastmod>2026-05-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-okinawa-沖繩相撲鍋-南國島嶼的力士火煱味蕾地圖-1d77e0.html</loc>
+    <lastmod>2026-07-10</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
@@ -21121,6 +21396,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-kanazawa-金澤相撲-加賀百萬石下的力士故鄉-fdfb0a.html</loc>
+    <lastmod>2026-07-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-kanazawa-金澤相撲-加賀百萬石城下町的力士傳承-16542c.html</loc>
     <lastmod>2026-03-29</lastmod>
     <changefreq>monthly</changefreq>
@@ -21371,6 +21651,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-entertainment-theme-parks-sendai-仙台四季戶外體驗樂園-東北自然的遊戲場-6c01c3.html</loc>
+    <lastmod>2026-07-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-entertainment-theme-parks-sendai-仙台娛樂體驗攻略-東北風情中的小而精緻玩樂指南-7579e4.html</loc>
     <lastmod>2026-03-27</lastmod>
     <changefreq>monthly</changefreq>
@@ -21493,6 +21778,11 @@
   </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-entertainment-theme-parks-hokkaido-北海道自然冒險體驗指南-非典型主題樂園的瘋狂玩法-1d3e33.html</loc>
     <lastmod>2026-03-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-entertainment-theme-parks-hokkaido-北海道親子主題樂園-全家同樂的自然體驗王國-96f677.html</loc>
+    <lastmod>2026-07-10</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
@@ -21756,6 +22046,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-entertainment-theme-parks-nara-奈良親子遊新選擇-古都裡的互動體驗樂園-41ee3c.html</loc>
+    <lastmod>2026-07-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-entertainment-theme-parks-nara-奈良親子遊樂指南-古都裡的家庭樂園與互動體驗-a78bf0.html</loc>
     <lastmod>2026-06-11</lastmod>
     <changefreq>monthly</changefreq>
@@ -21888,6 +22183,11 @@
   </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-entertainment-theme-parks-tokyo-東京體驗型主題樂園-超越遊樂設施的沉浸式樂趣-3110ca.html</loc>
     <lastmod>2026-07-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-entertainment-theme-parks-okinawa-沖繩diy體驗樂園-親手製作的旅行回憶-23427a.html</loc>
+    <lastmod>2026-07-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
@@ -22176,6 +22476,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-entertainment-theme-parks-kanazawa-金澤遊戲中心巡禮-復古電玩與-娛樂的時光隧道-916ad8.html</loc>
+    <lastmod>2026-07-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-entertainment-theme-parks-kanazawa-金澤遊戲中心探索-隱藏在巷弄裡的日式遊樂場-00eade.html</loc>
     <lastmod>2026-07-02</lastmod>
     <changefreq>monthly</changefreq>
@@ -22193,6 +22498,11 @@
   </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-entertainment-theme-parks-kanazawa-金澤遊戲中心與室內娛樂設施-隱藏版的加賀百萬石娛樂地圖-a5326b.html</loc>
     <lastmod>2026-07-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-entertainment-theme-parks-kanazawa-金澤遊戲中心與室內娛樂-隱藏在巷弄中的歡樂天地-f40846.html</loc>
+    <lastmod>2026-07-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
@@ -23191,6 +23501,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-entertainment-vr-experiences-kobe-神戶港都vr深度遊-從明治洋館到現代港口的虛實時空穿越-46794f.html</loc>
+    <lastmod>2026-07-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-entertainment-vr-experiences-kobe-神戶溫泉vr-港都養生系虛擬實境療癒提案-f518e6.html</loc>
     <lastmod>2026-05-21</lastmod>
     <changefreq>monthly</changefreq>
@@ -23228,6 +23543,11 @@
   </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-entertainment-vr-experiences-fukuoka-福岡vr體驗完全攻略-虛實融合的九州娛樂新風潮-d71342.html</loc>
     <lastmod>2026-05-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-entertainment-vr-experiences-fukuoka-福岡vr體驗-科技與九州文化的沉浸式冒險-54edaf.html</loc>
+    <lastmod>2026-07-10</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
@@ -24961,6 +25281,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-gourmet-izakaya-nara-奈良下班後-近鐵奈良站周邊的巷弄酒場與當地酒文化-97466c.html</loc>
+    <lastmod>2026-07-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-gourmet-izakaya-nara-奈良下町酒場-近鐵站周邊與舊城區的隱藏喝酒指南-60385d.html</loc>
     <lastmod>2026-06-11</lastmod>
     <changefreq>monthly</changefreq>
@@ -25548,6 +25873,11 @@
   </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-gourmet-kaiseki-kyoto-京都懷石料理-京野菜與季節山海的旬味旅程-e7bbe1.html</loc>
     <lastmod>2026-06-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-gourmet-kaiseki-kyoto-京都懷石料理-分割槽漫遊-從先鬥町到烏丸的料亭散步-9f39ba.html</loc>
+    <lastmod>2026-07-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
@@ -26711,6 +27041,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-gourmet-matcha-sweets-kyoto-京都抹茶甜點-旅人視角的限定體驗地圖-89e027.html</loc>
+    <lastmod>2026-07-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-gourmet-matcha-sweets-kyoto-京都抹茶甜點-晨間茶屋的寧靜綠意-1e93bc.html</loc>
     <lastmod>2026-07-05</lastmod>
     <changefreq>monthly</changefreq>
@@ -26763,6 +27098,11 @@
   </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-gourmet-matcha-sweets-sendai-仙台抹茶甜點-學府城市的綠色日常-492e93.html</loc>
     <lastmod>2026-07-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-gourmet-matcha-sweets-sendai-仙台抹茶甜點-學府與溫泉國度的綠色味覺地圖-4e3e27.html</loc>
+    <lastmod>2026-07-10</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
@@ -26863,6 +27203,11 @@
   </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-gourmet-matcha-sweets-hokkaido-北海道抹茶甜點-車站限定與鐵道伴手禮的綠色風景-a4a256.html</loc>
     <lastmod>2026-06-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-gourmet-matcha-sweets-hokkaido-北海道抹茶甜點-雪國戶外運動後的能量補給站-28ed2b.html</loc>
+    <lastmod>2026-07-10</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
@@ -28616,6 +28961,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-gourmet-ramen-okinawa-okinawa-ramen-5db071-1783769381.html</loc>
+    <lastmod>2026-07-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-gourmet-ramen-sendai-sendai-ramen-192ddb.html</loc>
     <lastmod>2026-06-18</lastmod>
     <changefreq>monthly</changefreq>
@@ -29333,6 +29683,11 @@
   </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-gourmet-ramen-okinawa-沖繩拉麵-觀光客與在地人的餐桌差距-ae300a.html</loc>
     <lastmod>2026-03-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-gourmet-ramen-okinawa-沖繩拉麵-跨海融合的島嶼滋味-a1df2e.html</loc>
+    <lastmod>2026-07-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
@@ -30246,8 +30601,18 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sake-brewery-okinawa-沖繩酒藏巡禮-泡盛蒸餾所與亞熱帶精品清酒釀造廠的全攻略-d50095.html</loc>
+    <lastmod>2026-07-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sake-brewery-okinawa-沖繩酒藏巡禮-泡盛釀造廠的品飲體驗與購物攻略-594827.html</loc>
     <lastmod>2026-05-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sake-brewery-okinawa-沖繩酒藏深度體驗-泡盛釀造廠的南國風土之旅-14d5b2.html</loc>
+    <lastmod>2026-07-10</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
@@ -30278,6 +30643,11 @@
   </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sake-brewery-kobe-神戶清酒釀造廠巡禮-港都風土與海鮮配對的完美演繹-675c11.html</loc>
     <lastmod>2026-04-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sake-brewery-kobe-神戶清酒釀造廠工藝之旅-走進灘區百年釀酒職人與清酒風土-75c89f.html</loc>
+    <lastmod>2026-07-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
@@ -30501,6 +30871,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-gourmet-street-food-kyoto-京都巷弄的日常之味-祭祀與生活交織的街食風景-cbadcc.html</loc>
+    <lastmod>2026-07-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-gourmet-street-food-kyoto-京都巷弄限定-本地人的-時間差-美食散步地圖-9736b5.html</loc>
     <lastmod>2026-06-04</lastmod>
     <changefreq>monthly</changefreq>
@@ -30608,6 +30983,11 @@
   </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-gourmet-street-food-sendai-仙台朝市與深夜食堂-東北人的酒場溫暖味-0e6b32.html</loc>
     <lastmod>2026-06-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-gourmet-street-food-sendai-仙台朝市與隱藏巷弄-當地人的清晨味覺地圖-a5afd5.html</loc>
+    <lastmod>2026-07-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
@@ -30968,6 +31348,11 @@
   </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-gourmet-street-food-hiroshima-廣島b級美食-庶民味道的城市記憶-3345f6.html</loc>
     <lastmod>2026-07-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-gourmet-street-food-hiroshima-廣島土手燒與蔥的王國-在地人帶路的隱藏味覺地圖-3bbe0b.html</loc>
+    <lastmod>2026-07-10</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
@@ -31476,6 +31861,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-gourmet-street-food-kanazawa-金澤魚市場的清晨密碼-批發時段的庶民早餐-50e98c.html</loc>
+    <lastmod>2026-07-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sushi-fukuoka-fukuoka-sushi-3a63a3.html</loc>
     <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
@@ -31488,6 +31878,11 @@
   </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sushi-hiroshima-hiroshima-sushi-91ff87-1780382232.html</loc>
     <lastmod>2026-06-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sushi-kanazawa-kanazawa-sushi-261471.html</loc>
+    <lastmod>2026-07-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
@@ -31713,6 +32108,11 @@
   </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sushi-hokkaido-北海道壽司-札幌到小樽的在地魚市場味覺探險-d97ae8.html</loc>
     <lastmod>2026-06-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sushi-hokkaido-北海道壽司-港都與市場的旬之味-66bea9.html</loc>
+    <lastmod>2026-07-10</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
@@ -31968,6 +32368,11 @@
   </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sushi-hiroshima-廣島壽司-港口城市的水產食堂文化-13f9f6.html</loc>
     <lastmod>2026-06-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sushi-hiroshima-廣島壽司-港都漁師食堂的日常滋味-fd967b.html</loc>
+    <lastmod>2026-07-10</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
@@ -33126,6 +33531,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tempura-tokyo-東京天婦羅-巷弄裡的江戶滋味-5家內行人才知道的隱藏名店-24c7d4.html</loc>
+    <lastmod>2026-07-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tempura-tokyo-東京天婦羅-巷弄裡的酥脆日常-c1925d.html</loc>
     <lastmod>2026-06-26</lastmod>
     <changefreq>monthly</changefreq>
@@ -33228,6 +33638,11 @@
   </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tempura-okinawa-沖繩天婦羅-漁港到餐桌的鮮味瞬間-3d1cdb.html</loc>
     <lastmod>2026-06-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tempura-okinawa-沖繩天婦羅-琉球的炸物哲學-從王宮到巷口的老滋味-030246.html</loc>
+    <lastmod>2026-07-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
@@ -33438,6 +33853,11 @@
   </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tempura-kanazawa-金澤天婦羅-北陸海鮮的優雅炸法-5b8159.html</loc>
     <lastmod>2026-03-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tempura-kanazawa-金澤天婦羅-渤海新鮮直送的土地味-553f61.html</loc>
+    <lastmod>2026-07-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
@@ -34221,6 +34641,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tonkatsu-okinawa-沖繩炸豬排-島嶼食堂裡的日常滋味-147044.html</loc>
+    <lastmod>2026-07-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tonkatsu-okinawa-沖繩炸豬排-港澳臺旅客的平價美食天堂-d25020.html</loc>
     <lastmod>2026-04-05</lastmod>
     <changefreq>monthly</changefreq>
@@ -34323,6 +34748,16 @@
   </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tonkatsu-kobe-神戶豚戟-港都洋食文化中的英式炸豬排風情-ba6791.html</loc>
     <lastmod>2026-07-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tonkatsu-kobe-神戶豚戟-港都異國風情下的炸豬排美學-0e7cfe.html</loc>
+    <lastmod>2026-07-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tonkatsu-kobe-神戶豚戟-港都異國風情中的日式炸豬排-017cd5.html</loc>
+    <lastmod>2026-07-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
@@ -35231,6 +35666,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-gourmet-udon-soba-tokyo-東京烏龍麵-cbd裡的快速能量站與巷弄老舖的對話-75f5d8.html</loc>
+    <lastmod>2026-07-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-gourmet-udon-soba-tokyo-東京老舖的麵時間-根岸以北的烏龍麵蕎麥麵散步-22a5b6.html</loc>
     <lastmod>2026-06-28</lastmod>
     <changefreq>monthly</changefreq>
@@ -35791,6 +36231,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-gourmet-wagyu-nagoya-名古屋和牛供應鏈深度解密-當地人都在吃的燒肉店與食堂地圖-2c2c52.html</loc>
+    <lastmod>2026-07-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-gourmet-wagyu-nagoya-名古屋和牛供應鏈解密-三重縣桑名牛為何才是真正的-名古屋和牛-4c0214.html</loc>
     <lastmod>2026-04-05</lastmod>
     <changefreq>monthly</changefreq>
@@ -36186,6 +36631,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-gourmet-wagyu-tokyo-東京的和牛日常-庶民美食中的極致享受-64d23f.html</loc>
+    <lastmod>2026-07-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-gourmet-wagyu-okinawa-沖繩和牛完全解析-亞熱帶牧場孕育的琉球極品-ec50d2.html</loc>
     <lastmod>2026-06-25</lastmod>
     <changefreq>monthly</changefreq>
@@ -36363,6 +36813,11 @@
   </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-gourmet-wagyu-kobe-神戶和牛-超越傳說的頂級肉質密碼-6bc5c2.html</loc>
     <lastmod>2026-06-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-gourmet-wagyu-kobe-神戶牛不只有高階餐廳-內行人帶路的庶民和牛體驗-48820b.html</loc>
+    <lastmod>2026-07-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
@@ -36888,6 +37343,11 @@
   </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-gourmet-yakitori-nagoya-名古屋燒鳥-從-共榮市場-理解中部雞肉的流通美學-a7defb.html</loc>
     <lastmod>2026-05-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-gourmet-yakitori-nagoya-名古屋燒鳥-從味噌手羽先到在地人的深夜食堂-b58a41.html</loc>
+    <lastmod>2026-07-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
@@ -37438,6 +37898,11 @@
   </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-gourmet-yakitori-kanazawa-金澤燒鳥-古巷深處的串燒美學-c353c6.html</loc>
     <lastmod>2026-07-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-gourmet-yakitori-kanazawa-金澤燒鳥-古都巷弄中的串燒美學與百萬石風情-71587c.html</loc>
+    <lastmod>2026-07-10</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
@@ -38056,6 +38521,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-shopping-100-yen-shops-nagoya-名古屋車站週邊100円店商務採購指南-出差族的臨時補貨秘境-e91adc.html</loc>
+    <lastmod>2026-07-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-shopping-100-yen-shops-nagoya-商務差旅者的名古屋100円商店攻略-車站周邊與產業觀光購物指南-971d17.html</loc>
     <lastmod>2026-06-04</lastmod>
     <changefreq>monthly</changefreq>
@@ -38138,6 +38608,11 @@
   </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-shopping-100-yen-shops-osaka-大阪百元商店晨間攻略-開店前一小時的隱藏版購物秘笈-0761a4.html</loc>
     <lastmod>2026-06-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-shopping-100-yen-shops-osaka-大阪百元商店的隱藏版攻略-當地人帶路的巷弄挖寶地圖-594092.html</loc>
+    <lastmod>2026-07-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
@@ -38726,6 +39201,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-shopping-100-yen-shops-kobe-神戶100円商店購物指南-港都平價購物與異國風情探索-ef4f9d.html</loc>
+    <lastmod>2026-07-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-shopping-100-yen-shops-kobe-神戶100円商店購物指南-港都時尚平價購物精選-e1feb5.html</loc>
     <lastmod>2026-06-26</lastmod>
     <changefreq>monthly</changefreq>
@@ -38996,6 +39476,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-shopping-100-yen-shops-kanazawa-金澤100円商店購物指南-銀髮族與自助旅客的平價購物攻略-90831a.html</loc>
+    <lastmod>2026-07-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-shopping-100-yen-shops-kanazawa-金澤100円商店購物指南-銀髮族與自駕旅人的平價購物攻略-732b9c.html</loc>
     <lastmod>2026-06-29</lastmod>
     <changefreq>monthly</changefreq>
@@ -39258,6 +39743,11 @@
   </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-shopping-craft-markets-sendai-仙台工藝市集與在地生活-發現東北小鎮的創作日常-f7e4e1.html</loc>
     <lastmod>2026-06-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-shopping-craft-markets-sendai-仙台工藝教室與手作體驗-近距離接觸東北職人的深度之旅-aa5d1b.html</loc>
+    <lastmod>2026-07-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
@@ -39851,6 +40341,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-shopping-craft-markets-hiroshima-廣島手工商店散步-從港都產業到和平藝術的工藝之路-5594f5.html</loc>
+    <lastmod>2026-07-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-shopping-craft-markets-hiroshima-廣島手工藝品購買指南-和平之城的工藝探索與達人路線-7cb5b9.html</loc>
     <lastmod>2026-05-25</lastmod>
     <changefreq>monthly</changefreq>
@@ -39888,6 +40383,11 @@
   </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-shopping-craft-markets-okinawa-沖繩夜幕手作市集-日落後的工藝寶藏與在地體驗-115071.html</loc>
     <lastmod>2026-06-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-shopping-craft-markets-okinawa-沖繩工藝品購物指南-從價格視角解析在地職人的真材實料-f1054b.html</loc>
+    <lastmod>2026-07-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
@@ -40796,6 +41296,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-shopping-department-stores-nagoya-名古屋車站周邊購物完全指南-地下街串聯的隱藏版挖寶攻略-6b93d4.html</loc>
+    <lastmod>2026-07-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-shopping-department-stores-nagoya-名古屋-百貨公司裡的生活質感-實用導向的購物天堂-6138cb.html</loc>
     <lastmod>2026-06-15</lastmod>
     <changefreq>monthly</changefreq>
@@ -41153,6 +41658,16 @@
   </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-shopping-department-stores-tokyo-東京百貨公司深度指南-透析城市靈魂的購物地圖-2835ff.html</loc>
     <lastmod>2026-07-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-shopping-department-stores-tokyo-東京百貨公司深度攻略-從銀座到新宿-5種不同購物體驗的精選指南-308241.html</loc>
+    <lastmod>2026-07-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-shopping-department-stores-tokyo-東京百貨公司生活提案-5家體驗型商場的日常風景-12ac14.html</loc>
+    <lastmod>2026-07-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
@@ -41741,6 +42256,16 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-shopping-duty-free-kyoto-京都免稅購物不完全指南-從清水寺到河原町的散步購物地圖-c1ae37.html</loc>
+    <lastmod>2026-07-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-shopping-duty-free-kyoto-京都免稅購物友善指南-銀髮族省力購物首選-精選市區大型商場免稅攻略-39ce42.html</loc>
+    <lastmod>2026-07-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-shopping-duty-free-kyoto-京都免稅購物完全指南-銀髮族的古都慢遊採購攻略-1e1ca5.html</loc>
     <lastmod>2026-04-06</lastmod>
     <changefreq>monthly</changefreq>
@@ -41843,6 +42368,11 @@
   </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-shopping-duty-free-kyoto-京都車站周邊免稅購物全攻略-交通樞紐旁的便利選擇-dd806d.html</loc>
     <lastmod>2026-06-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-shopping-duty-free-kyoto-京都車站周邊免稅購物全攻略-出發前最後一站買好買滿-f66b3d.html</loc>
+    <lastmod>2026-07-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
@@ -42051,6 +42581,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-shopping-duty-free-hokkaido-北海道冬季限定免稅攻略-暴風雪巧克力與雪國特產的購物精選-bf0026.html</loc>
+    <lastmod>2026-07-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-shopping-duty-free-hokkaido-北海道新千歲機場免稅店攻略-冬季限定海鮮與特色伴手禮採購指南-e3fbf8.html</loc>
     <lastmod>2026-06-14</lastmod>
     <changefreq>monthly</changefreq>
@@ -42163,6 +42698,11 @@
   </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-shopping-duty-free-nagoya-名古屋免稅購物隱藏版攻略-中南部樞紐機場的轉機購物與銀髮族友善選擇-d59c0e.html</loc>
     <lastmod>2026-07-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-shopping-duty-free-nagoya-名古屋免稅購物隱藏版攻略-在地名產與工藝品的市區挖寶指南-b56333.html</loc>
+    <lastmod>2026-07-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
@@ -43031,6 +43571,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-shopping-duty-free-fukuoka-福岡銀髮族免稅購物攻略-九州門戶的溫度購物體驗-fb2172.html</loc>
+    <lastmod>2026-07-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-shopping-duty-free-kanazawa-金澤免稅購物完全指南-加賀茶道文化與工藝精品的購物聖地-473079.html</loc>
     <lastmod>2026-06-13</lastmod>
     <changefreq>monthly</changefreq>
@@ -43606,6 +44151,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-shopping-electronics-hokkaido-北海道電子產品購物指南-機場進出的便捷採購攻略-c032b9.html</loc>
+    <lastmod>2026-07-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-shopping-electronics-hokkaido-北海道電子產品購物攻略-新千歲機場免稅店與鐵路城鎮的隱藏版採購指南-6e31bb.html</loc>
     <lastmod>2026-06-16</lastmod>
     <changefreq>monthly</changefreq>
@@ -43693,6 +44243,11 @@
   </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-shopping-electronics-nagoya-名古屋電子零件與maker購物指南-中部地區的科技diy聖地-47ac28.html</loc>
     <lastmod>2026-06-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-shopping-electronics-nagoya-名古屋電子零件與車用電子採購指南-走進日本製造的核心供應鏈-279922.html</loc>
+    <lastmod>2026-07-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
@@ -43908,6 +44463,11 @@
   </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-shopping-electronics-hiroshima-廣島電子產品採購手冊-從和平紀念城市到瀨戶內海科技選購地圖-708079.html</loc>
     <lastmod>2026-07-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-shopping-electronics-hiroshima-廣島電子產品採購手冊-港口城市的進口科技與在地特色小店-e715a9.html</loc>
+    <lastmod>2026-07-10</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
@@ -44546,6 +45106,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-shopping-fashion-harajuku-hokkaido-hokkaido-fashion-harajuku-8b858f-1783703651.html</loc>
+    <lastmod>2026-07-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-shopping-fashion-harajuku-kyoto-kyoto-fashion-harajuku-0ff180-1779457667.html</loc>
     <lastmod>2026-05-22</lastmod>
     <changefreq>monthly</changefreq>
@@ -44558,6 +45123,11 @@
   </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-shopping-fashion-harajuku-kyoto-kyoto-fashion-harajuku-0ff180-1780717520.html</loc>
     <lastmod>2026-06-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-shopping-fashion-harajuku-kyoto-kyoto-fashion-harajuku-0ff180-1783699717.html</loc>
+    <lastmod>2026-07-10</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
@@ -45451,6 +46021,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-shopping-fashion-harajuku-kyoto-無法撰寫-地理概念錯誤-64fa0b.html</loc>
+    <lastmod>2026-07-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-shopping-fashion-harajuku-fukuoka-福岡-小原宿-購物攻略-九州年輕人-時尚-文化聖地的隱藏版玩法-6468af.html</loc>
     <lastmod>2026-05-21</lastmod>
     <changefreq>monthly</changefreq>
@@ -45496,6 +46071,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-shopping-fashion-harajuku-fukuoka-福岡時尚購物完全指南-天神地區街頭潮流精華-0a3b02.html</loc>
+    <lastmod>2026-07-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-shopping-fashion-harajuku-fukuoka-福岡時尚購物完全指南-天神的街頭潮流與地下時尚文化-8411a0.html</loc>
     <lastmod>2026-06-27</lastmod>
     <changefreq>monthly</changefreq>
@@ -45511,6 +46091,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-shopping-fashion-harajuku-fukuoka-福岡時尚購物指南-天神地區的街頭潮流地圖-7421b4.html</loc>
+    <lastmod>2026-07-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-shopping-fashion-harajuku-fukuoka-福岡時尚購物指南-天神-博多地區的潮流聖地-0f8976.html</loc>
     <lastmod>2026-06-26</lastmod>
     <changefreq>monthly</changefreq>
@@ -45518,6 +46103,11 @@
   </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-shopping-fashion-harajuku-fukuoka-福岡時尚購物指南-天神-博多運河城周邊年輕人潮流聖地-b0ae91.html</loc>
     <lastmod>2026-04-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-shopping-fashion-harajuku-fukuoka-福岡時尚購物指南-天神-博多運河城周邊年輕人潮流聖地-b0ae91-1783722252.html</loc>
+    <lastmod>2026-07-10</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
@@ -46051,6 +46641,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-shopping-souvenir-omiyage-hokkaido-北海道伴手禮工廠直營攻略-自駕旅客的隱藏版採購指南-87e139.html</loc>
+    <lastmod>2026-07-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-shopping-souvenir-omiyage-hokkaido-北海道伴手禮必購清單-當地達人的私房採購指南-37a0cd.html</loc>
     <lastmod>2026-06-03</lastmod>
     <changefreq>monthly</changefreq>
@@ -46431,6 +47026,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-shopping-souvenir-omiyage-nara-奈良車站周邊極速伴手禮-趕行程也能買到的質感土產-d42cf7.html</loc>
+    <lastmod>2026-07-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-shopping-souvenir-omiyage-hiroshima-廣島伴手禮-攻略-和平紀念與地道美味的質感選擇-05bb46.html</loc>
     <lastmod>2026-05-23</lastmod>
     <changefreq>monthly</changefreq>
@@ -46453,6 +47053,11 @@
   </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-shopping-souvenir-omiyage-hiroshima-廣島伴手禮採購戰略指南-從產地直送到免稅攻略的省錢心法-576f09.html</loc>
     <lastmod>2026-04-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-shopping-souvenir-omiyage-hiroshima-廣島伴手禮效率採購指南-車站周邊5分鐘生活圈的聰明買法-3ba1b4.html</loc>
+    <lastmod>2026-07-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
@@ -46493,6 +47098,16 @@
   </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-shopping-souvenir-omiyage-hiroshima-廣島伴手禮高效採購指南-車站周邊5分鐘生活圈的非典型伴手禮提案-e79f95.html</loc>
     <lastmod>2026-07-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-shopping-souvenir-omiyage-hiroshima-廣島伴手禮高效採購攻略-行程緊湊者的5分鐘極限購物指南-e7fbe9.html</loc>
+    <lastmod>2026-07-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-shopping-souvenir-omiyage-hiroshima-廣島伴手禮高效採購攻略-車站周邊5分鐘生活圈指南-6b8eed.html</loc>
+    <lastmod>2026-07-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
@@ -46623,6 +47238,11 @@
   </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-shopping-souvenir-omiyage-tokyo-東京深夜與機場伴手禮攻略-紅眼航班與趕時間旅客的採購指南-ecbec8.html</loc>
     <lastmod>2026-06-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-shopping-souvenir-omiyage-kyoto-東京百貨公司美食戰場-地下美食街購物完全指南-2b53e7.html</loc>
+    <lastmod>2026-07-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
@@ -46846,6 +47466,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-shopping-souvenir-omiyage-fukuoka-福岡伴手禮採購攻略-天神-博多車站周邊的在地人推薦清單-ca8fa6.html</loc>
+    <lastmod>2026-07-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-shopping-souvenir-omiyage-fukuoka-福岡伴手禮採購策略-從機場到市中心的價格帶選擇與通路指南-9e0d81.html</loc>
     <lastmod>2026-06-04</lastmod>
     <changefreq>monthly</changefreq>
@@ -47003,6 +47628,11 @@
   </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-shopping-souvenir-omiyage-kanazawa-金澤伴手禮高效採購指南-車站周邊5分鐘可達的實用伴手禮地圖-2d13d3.html</loc>
     <lastmod>2026-07-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-shopping-souvenir-omiyage-kanazawa-金澤伴手禮高效採購攻略-車站周邊5分鐘內的必買選擇-f90692.html</loc>
+    <lastmod>2026-07-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
@@ -47556,6 +48186,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-shopping-vintage-thrift-osaka-大阪古著尋寶新攻略-天王寺到新世界的平價復古路徑-f3dcdd.html</loc>
+    <lastmod>2026-07-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-shopping-vintage-thrift-osaka-大阪古著尋寶-天王寺-新世界周邊的平價復古秘境-bca054.html</loc>
     <lastmod>2026-06-02</lastmod>
     <changefreq>monthly</changefreq>
@@ -47726,6 +48361,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-shopping-vintage-thrift-hiroshima-廣島古著散步-巷弄裡的平價復古時尚-18f7ed.html</loc>
+    <lastmod>2026-07-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-shopping-vintage-thrift-hiroshima-廣島古著散步-從和平紀念區到尾道老街的質感尋寶指南-909b4b.html</loc>
     <lastmod>2026-07-04</lastmod>
     <changefreq>monthly</changefreq>
@@ -47743,6 +48383,11 @@
   </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-shopping-vintage-thrift-hiroshima-廣島古著獵人潛攻略-從大學城到和平紀唸的二手時尚之路-8952fd.html</loc>
     <lastmod>2026-06-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-shopping-vintage-thrift-hiroshima-廣島古著脈動-從和平紀念城到學生社群的復古日常-51040c.html</loc>
+    <lastmod>2026-07-10</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
@@ -47828,6 +48473,11 @@
   </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-shopping-vintage-thrift-tokyo-東京古著獵人的隱藏版路線-下北澤-中野與高圓寺的巷弄發現-8e2a63.html</loc>
     <lastmod>2026-06-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-shopping-vintage-thrift-tokyo-東京古著進階攻略-藏在日常社群裡的質感選貨店-9d26de.html</loc>
+    <lastmod>2026-07-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
@@ -48183,6 +48833,11 @@
   </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-shopping-vintage-thrift-kanazawa-金澤古著投資指南-工藝之都的復古收藏價值挖掘-2f4758.html</loc>
     <lastmod>2026-04-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-shopping-vintage-thrift-kanazawa-金澤古著挖寶指南-工藝之都的復古文青小店-961897.html</loc>
+    <lastmod>2026-07-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
@@ -48678,6 +49333,11 @@
   </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-tourism-castle-towns-nagoya-名古屋周邊小鎮-尾張藩域的城下町微旅行-76095a.html</loc>
     <lastmod>2026-06-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-tourism-castle-towns-nagoya-名古屋城下町散步-從武家府邸到味噌美食的能量路線-d2a49e.html</loc>
+    <lastmod>2026-07-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
@@ -49611,6 +50271,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-sendai-仙台深度文化一日遊-工坊體驗與歷史散步的療癒之路-f8b287.html</loc>
+    <lastmod>2026-07-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-sendai-仙台療癒系一日遊-重建之路上的溫暖人情與在地美食-98597e.html</loc>
     <lastmod>2026-07-02</lastmod>
     <changefreq>monthly</changefreq>
@@ -50196,6 +50861,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-tokyo-東京深夜食堂之旅-從築地到月島的夜色美食探險-e3edf4.html</loc>
+    <lastmod>2026-07-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-tokyo-東京美食一日遊-從市區出發的米其林密度與在地麵食深度體驗-e65d77.html</loc>
     <lastmod>2026-06-12</lastmod>
     <changefreq>monthly</changefreq>
@@ -50596,6 +51266,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-kanazawa-kanazawa-garden-parks-6671f6-1783742115.html</loc>
+    <lastmod>2026-07-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-nagoya-nagoya-garden-parks-c6bac2.html</loc>
     <lastmod>2026-04-08</lastmod>
     <changefreq>monthly</changefreq>
@@ -50751,6 +51426,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-kyoto-京都茶道園林-跟隨茶聖足跡的散步美學-ebf900.html</loc>
+    <lastmod>2026-07-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-kyoto-京都郊區隱藏花園-當地人私藏的療癒綠境-43ab85.html</loc>
     <lastmod>2026-06-26</lastmod>
     <changefreq>monthly</changefreq>
@@ -50871,6 +51551,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-sendai-仙台花園深度遊-跟隨季節腳步的綠意散步提案-e05d69.html</loc>
+    <lastmod>2026-07-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-sendai-仙台花季散步地圖-杜之都的四季綠境-7cbb9f.html</loc>
     <lastmod>2026-07-05</lastmod>
     <changefreq>monthly</changefreq>
@@ -50926,6 +51611,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-hokkaido-北海道花園公園-四季旬味與自然美景的味覺視覺之旅-a4bbbd.html</loc>
+    <lastmod>2026-07-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-hokkaido-北海道花園公園-美食與自然的夏日邂逅-4a4ccc.html</loc>
     <lastmod>2026-06-14</lastmod>
     <changefreq>monthly</changefreq>
@@ -50943,6 +51633,11 @@
   </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-hokkaido-北海道花園四季之約-家族探險隊的賞花與自然教室指南-4f7468.html</loc>
     <lastmod>2026-03-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-hokkaido-北海道花園巡禮-味覺與視覺的北國田園詩篇-c0017a.html</loc>
+    <lastmod>2026-07-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
@@ -51411,6 +52106,16 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-tokyo-東京庭園散步-感受四季流轉的日本美學-5944bd.html</loc>
+    <lastmod>2026-07-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-tokyo-東京晨間花園-當地人的綠色覺醒日常-7cf731.html</loc>
+    <lastmod>2026-07-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-tokyo-東京晨間花園-都市上班族的綠意療癒提案-56c4cd.html</loc>
     <lastmod>2026-06-28</lastmod>
     <changefreq>monthly</changefreq>
@@ -51453,6 +52158,11 @@
   </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-tokyo-tokyo-garden-parks-a3887f.html</loc>
     <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-tokyo-東京花園公園-藝術與美食交織的沉浸式綠洲-2c5cae.html</loc>
+    <lastmod>2026-07-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
@@ -52071,6 +52781,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-nagoya-仙台城下町-穿越四百年的味覺散步-f4de47.html</loc>
+    <lastmod>2026-07-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-sendai-仙台歷史街區巡禮-穿越伊達政宗時代的時空漫步-15bfa0.html</loc>
     <lastmod>2026-06-01</lastmod>
     <changefreq>monthly</changefreq>
@@ -52658,6 +53373,11 @@
   </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-hiroshima-廣島歷史街區-從清晨到深夜的十二小時物語-d64536.html</loc>
     <lastmod>2026-06-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-hiroshima-廣島歷史街區-從港都產業脈動到和平記憶的深度探索-f42f7b.html</loc>
+    <lastmod>2026-07-10</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
@@ -54126,6 +54846,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-tourism-island-hopping-okinawa-沖繩跳島日落巡航-追逐日本最南端的星空與暮色-c88e0b.html</loc>
+    <lastmod>2026-07-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-tourism-island-hopping-okinawa-沖繩跳島深度指南-遠離人潮的在地島嶼生活-8d2074.html</loc>
     <lastmod>2026-06-26</lastmod>
     <changefreq>monthly</changefreq>
@@ -54248,6 +54973,11 @@
   </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-tourism-island-hopping-kobe-神戶跳島藝旅-瀨戶內海藝術島嶼的深度巡禮-1e2c07.html</loc>
     <lastmod>2026-06-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-tourism-island-hopping-fukuoka-福岡-島時間-生活提案-遠離觀光框架的日常島嶼-87e0ed.html</loc>
+    <lastmod>2026-07-10</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
@@ -54731,6 +55461,16 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-sendai-仙台自然步道-藏在森林裡的東北慢活美學-9c55b1.html</loc>
+    <lastmod>2026-07-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-sendai-仙台自然步道-走進-森林之都-的山林深呼吸-dad75e.html</loc>
+    <lastmod>2026-07-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-sendai-仙台輕健行完全攻略-從市區出發的半日山林深呼吸-24ba45.html</loc>
     <lastmod>2026-07-03</lastmod>
     <changefreq>monthly</changefreq>
@@ -55193,6 +55933,11 @@
   </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-hiroshima-廣島自然步道-山海重生的療癒之路遠離城市喧囂的山林深呼吸-50fc65.html</loc>
     <lastmod>2026-06-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-hiroshima-廣島自然步道-從廢墟重生的山林療癒之路-1d5894.html</loc>
+    <lastmod>2026-07-10</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
@@ -55718,6 +56463,11 @@
   </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-tourism-neighborhoods-東京各區完整指南2026-新宿-澀谷-原宿-淺草-秋葉原-第一次去東京的區域選擇-jp-tokyo-ne-a181b8-1774737096.html</loc>
     <lastmod>2026-03-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-tourism-onsen-hiroshima-hiroshima-onsen-隱藏在山海之間的秘湯王國-be86f8.html</loc>
+    <lastmod>2026-07-10</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
@@ -56351,6 +57101,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-tourism-onsen-tokyo-東京錢湯散步-都會裡的庶民溫泉美學-7cea99.html</loc>
+    <lastmod>2026-07-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-tourism-onsen-tokyo-東京錢湯文化-深入都會日常的庶民溫泉美學-421c04.html</loc>
     <lastmod>2026-06-21</lastmod>
     <changefreq>monthly</changefreq>
@@ -56591,6 +57346,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-tourism-onsen-fukuoka-福岡-都會溫泉-隱藏版指南-市中心就能泡的在地湯屋-4e8105.html</loc>
+    <lastmod>2026-07-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-tourism-onsen-fukuoka-福岡-錢湯-散步-巷弄裡的庶民溫泉美學-35a9f6.html</loc>
     <lastmod>2026-05-23</lastmod>
     <changefreq>monthly</changefreq>
@@ -56623,6 +57383,11 @@
   </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-tourism-onsen-fukuoka-福岡市區溫泉完整攻略-天神-博多的隱藏版錢湯與日歸溫泉-d92f4f.html</loc>
     <lastmod>2026-05-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-tourism-onsen-fukuoka-福岡溫泉一日遊-從博多站出發的療癒半日攻略-d06b8e.html</loc>
+    <lastmod>2026-07-10</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
@@ -56778,6 +57543,11 @@
   </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-hiroshima-hiroshima-scenic-routes-73ada6.html</loc>
     <lastmod>2026-05-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-nagoya-nagoya-scenic-routes-b189de-1783722142.html</loc>
+    <lastmod>2026-07-10</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
@@ -56973,6 +57743,11 @@
   </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-hokkaido-北海道四季風景線-從阿寒到知床的自然秘境-用公共交通環遊北國之美-c5fbb5.html</loc>
     <lastmod>2026-03-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-hokkaido-北海道景觀道路-豐饒國度的美食產地之旅-3f0fd2.html</loc>
+    <lastmod>2026-07-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
@@ -57243,6 +58018,11 @@
   </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-osaka-大阪港區夕陽夜景散步-從天保山到咲洲的水岸浪漫路線-9a51e7.html</loc>
     <lastmod>2026-06-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-osaka-大阪港區工業風光散步-從垃圾處理廠到摩天輪的另類水岸路線-5c2e12.html</loc>
+    <lastmod>2026-07-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
@@ -57531,6 +58311,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-tokyo-東京藝術迴廊-從六本木到臺場的數位與設計美學之路-d34509.html</loc>
+    <lastmod>2026-07-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-tokyo-東京設計散步-從六本木到表參道的藝術建築廊道-9f5056.html</loc>
     <lastmod>2026-07-04</lastmod>
     <changefreq>monthly</changefreq>
@@ -57548,6 +58333,11 @@
   </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-tokyo-東京高空展望與夜景步道-遠離地面視角的都市風光-a1bcf5.html</loc>
     <lastmod>2026-05-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-okinawa-沖繩不使用租車的風景道路-公車與單軌沿線的亞熱帶風光-fed8fb.html</loc>
+    <lastmod>2026-07-10</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
@@ -57853,6 +58643,11 @@
   </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-kanazawa-金澤攝影步道完全攻略-晨昏光影與隱藏視角的絕美取景指南-9561bd.html</loc>
     <lastmod>2026-06-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-kanazawa-金澤晨間散步美學-日出時分的絕美風景道路-27f29b.html</loc>
+    <lastmod>2026-07-10</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
@@ -58591,6 +59386,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-tourism-ski-resorts-hokkaido-從新千歲機場出發的滑雪一日遊-距離最近的四大滑雪場全攻略-2dd1f4.html</loc>
+    <lastmod>2026-07-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-tourism-ski-resorts-tokyo-東京一日滑雪來回-時間緊湊族的最佳滑雪場選擇指南-36b0c8.html</loc>
     <lastmod>2026-06-23</lastmod>
     <changefreq>monthly</changefreq>
@@ -58768,6 +59568,11 @@
   </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-tourism-ski-resorts-kobe-神戶周邊滑雪場-關西平價滑雪可行嗎-4c0e52.html</loc>
     <lastmod>2026-06-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-tourism-ski-resorts-kobe-神戶周邊滑雪場-關西都市人的隱藏雪國體驗-768450.html</loc>
+    <lastmod>2026-07-10</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
@@ -58998,6 +59803,11 @@
   </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-tourism-temples-shrines-hokkaido-hokkaido-temples-shrines-1ebc95-1783129840.html</loc>
     <lastmod>2026-07-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-tourism-temples-shrines-hokkaido-hokkaido-temples-shrines-1ebc95-1783752719.html</loc>
+    <lastmod>2026-07-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
@@ -59441,6 +60251,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-tourism-temples-shrines-osaka-大阪隱藏版神社巡禮-當地人不想告訴你的靈驗秘境-8b1fd5.html</loc>
+    <lastmod>2026-07-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-tourism-temples-shrines-osaka-大阪隱藏神社寺院ガイド-商都與食の聖地に見るもう一つの大阪-c9c770.html</loc>
     <lastmod>2026-06-04</lastmod>
     <changefreq>monthly</changefreq>
@@ -59518,6 +60333,11 @@
   </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-tourism-temples-shrines-nara-奈良神社寺廟參訪攻略-首次訪日的必訪聖地與實用指南-e4df0f.html</loc>
     <lastmod>2026-06-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-tourism-temples-shrines-nara-奈良神社寺廟晨間參拜-在地人推薦的靜謐古都-7a3241.html</loc>
+    <lastmod>2026-07-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
@@ -59748,6 +60568,11 @@
   </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-tourism-temples-shrines-tokyo-東京通勤族能量景點-車站周邊的微型信仰現場-9d909e.html</loc>
     <lastmod>2026-06-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-tourism-temples-shrines-tokyo-東京隱藏版神社散步-巷弄間的能量景點與當地信仰日常-41f118.html</loc>
+    <lastmod>2026-07-10</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
@@ -61866,6 +62691,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-transport-buses-hokkaido-北海道美食巴士線-搭公車吃遍北國好料的深度之旅-4908ce.html</loc>
+    <lastmod>2026-07-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-transport-buses-hokkaido-北海道美食巴士路線-搭公車吃遍北國三大鮮味聖地-5ed46c.html</loc>
     <lastmod>2026-06-05</lastmod>
     <changefreq>monthly</changefreq>
@@ -61963,6 +62793,16 @@
   </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-transport-buses-nagoya-名古屋郊區巴士完全攻略-搭巴士深入中部山嶽與溫泉勝地-fa611f.html</loc>
     <lastmod>2026-06-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-transport-buses-nagoya-名古屋郊區巴士遊-搭公車探索中部在地秘境-307f7e.html</loc>
+    <lastmod>2026-07-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-transport-buses-nagoya-名古屋高速巴士全攻略-直達中部秘境與關東關西的省錢首選-ac1b10.html</loc>
+    <lastmod>2026-07-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
@@ -62118,6 +62958,11 @@
   </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-transport-buses-nara-奈良巴士季節攻略-跟著花期與紅葉最佳化你的古都行程-84354f.html</loc>
     <lastmod>2026-04-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-transport-buses-nara-奈良巴士完全指南-分段票價怎麼搭最聰明-23f1bf.html</loc>
+    <lastmod>2026-07-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
@@ -62313,6 +63158,11 @@
   </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-transport-buses-hiroshima-廣島縣跨城高速巴士完全指南-無自駕暢遊瀨戶內濱海城鎮-174818.html</loc>
     <lastmod>2026-05-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-transport-buses-hiroshima-廣島跨城巴士完全攻略-往返宮島-尾道-吳市的人氣路線-4b67f1.html</loc>
+    <lastmod>2026-07-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
@@ -62881,6 +63731,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-transport-buses-kanazawa-金澤巴士系統-當地人教你避開人潮的搭乘攻略-4afefa.html</loc>
+    <lastmod>2026-07-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-transport-buses-kanazawa-金澤巴士系統-連線傳統與現代的文化觀光網路-ca5eb0.html</loc>
     <lastmod>2026-04-04</lastmod>
     <changefreq>monthly</changefreq>
@@ -63208,6 +64063,11 @@
   </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-hokkaido-北海道單車慢騎-五條適閤中等程度騎士的風景路線-643128.html</loc>
     <lastmod>2026-06-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-hokkaido-北海道單車深度行-海味之路與濕原風光的騎行探索-0a2d8a.html</loc>
+    <lastmod>2026-07-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
@@ -63703,6 +64563,11 @@
   </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-hiroshima-廣島單車漫遊-坡道之城與巷弄美食的深度探索-346943.html</loc>
     <lastmod>2026-07-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-hiroshima-廣島單車漫遊-坡道之城與海岸線的慢速探索-ffbf10.html</loc>
+    <lastmod>2026-07-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
@@ -64546,6 +65411,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-transport-ferries-sendai-仙台海上慢旅-搭船穿越松島灣的五大體驗理由-329581.html</loc>
+    <lastmod>2026-07-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-transport-ferries-sendai-仙台海上航線-從港口小鎮駛向藍色天堂的慢速浪漫-d59964.html</loc>
     <lastmod>2026-05-22</lastmod>
     <changefreq>monthly</changefreq>
@@ -65116,6 +65986,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-transport-ferries-hiroshima-廣島渡輪美食地圖-瀨戶內海的海鮮餐桌-dc8d93.html</loc>
+    <lastmod>2026-07-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-transport-ferries-hiroshima-廣島渡輪美食航線-搭船吃遍瀨戶內海的海鮮之旅-bbff83.html</loc>
     <lastmod>2026-06-04</lastmod>
     <changefreq>monthly</changefreq>
@@ -65138,6 +66013,11 @@
   </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-transport-ferries-hiroshima-廣島渡輪跳島藝術之旅-瀨戶內海航線的藝術交通指南-2ce70f.html</loc>
     <lastmod>2026-06-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-transport-ferries-hiroshima-廣島渡輪這樣玩-海上藝術走廊的移動美學-659015.html</loc>
+    <lastmod>2026-07-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
@@ -66296,8 +67176,18 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-transport-jr-pass-hokkaido-北海道jr-pass完全攻略-鐵道漫遊日本最北端的選擇邏輯-a91a64.html</loc>
+    <lastmod>2026-07-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-transport-jr-pass-hokkaido-北海道jr-pass完全攻略-鐵道漫遊與沿途風景的完美結合-911846.html</loc>
     <lastmod>2026-06-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-transport-jr-pass-hokkaido-北海道jr-pass完整攻略-破解覆蓋範圍迷思-鐵路環島最佳方案-f6f27f.html</loc>
+    <lastmod>2026-07-10</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
@@ -66468,6 +67358,11 @@
   </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-transport-jr-pass-osaka-大阪jr-pass決策完全手冊-關西交通費用的cost-benefit實戰分析-095dcf.html</loc>
     <lastmod>2026-05-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-transport-jr-pass-osaka-大阪jr-pass決策完全手冊-關西交通費用的cost-benefit實戰分析-095dcf-1783749489.html</loc>
+    <lastmod>2026-07-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
@@ -66881,13 +67776,28 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-transport-jr-pass-okinawa-沖繩交通完全指南-破解jr-pass迷思與在地交通攻略-d8a009.html</loc>
+    <lastmod>2026-07-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-transport-jr-pass-okinawa-沖繩交通完全攻略-沒有jr-pass的替代方案與縣內移動指南-d70c36.html</loc>
     <lastmod>2026-06-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-transport-jr-pass-okinawa-沖繩交通完整攻略-沒有jr-pass的替代方案與全縣周遊指南-50e1b9.html</loc>
+    <lastmod>2026-07-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-transport-jr-pass-okinawa-沖繩交通攻略-沒有jr-pass-當地人推薦的單軌電車周遊券-f48ff2.html</loc>
     <lastmod>2026-06-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-transport-jr-pass-okinawa-沖繩交通攻略-沒有jr也能玩的任性指南-a3dc57.html</loc>
+    <lastmod>2026-07-10</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
@@ -67371,6 +68281,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-kyoto-京都地下鐵的隱藏玩法-搭地鐵穿越古今的深度小旅行-0bdc02.html</loc>
+    <lastmod>2026-07-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-kyoto-京都地下鐵省錢攻略-第一次遊京都的交通精算師指南-e0d457.html</loc>
     <lastmod>2026-06-23</lastmod>
     <changefreq>monthly</changefreq>
@@ -67728,6 +68643,11 @@
   </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-osaka-大阪地下鐵完全攻略-從新手到通勤族的效率出行指南-33ed58.html</loc>
     <lastmod>2026-06-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-osaka-大阪地下鐵實用攻略-外國遊客必知的高速省錢交通術-1a20a3.html</loc>
+    <lastmod>2026-07-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
@@ -68111,6 +69031,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-tokyo-東京地下鐵的日常脈動-從通勤族視角探索東京生活圈-ed2c79.html</loc>
+    <lastmod>2026-07-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-tokyo-東京地下鐵的時空物語-從丸之內到人形町的百年足跡-de4072.html</loc>
     <lastmod>2026-07-03</lastmod>
     <changefreq>monthly</changefreq>
@@ -68128,6 +69053,11 @@
   </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-tokyo-東京地下鐵的通勤美學-上班族視角下的效率首都-595968.html</loc>
     <lastmod>2026-06-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-tokyo-東京地下鐵的都市探險-從車站出發的5條主題漫遊路徑-104391.html</loc>
+    <lastmod>2026-07-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
@@ -69051,6 +69981,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-hokkaido-北海道食材獵人租車指南-產地直送的美食自駕路線-8011d0.html</loc>
+    <lastmod>2026-07-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-nagoya-名古屋商務租車全攻略-中部產業之都的高效移動方案-71da64.html</loc>
     <lastmod>2026-05-23</lastmod>
     <changefreq>monthly</changefreq>
@@ -69271,6 +70206,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-osaka-大阪租車賞花攻略-關西春季自駕親子行推薦-0755b5.html</loc>
+    <lastmod>2026-07-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-osaka-大阪租車進階攻略-串聯關西周邊城市的自駕彈性學-312f45.html</loc>
     <lastmod>2026-07-09</lastmod>
     <changefreq>monthly</changefreq>
@@ -69298,6 +70238,11 @@
   </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-nara-奈良租車指南-探索大和古蹟與能量聖地的自駕深度遊-ac8bf4.html</loc>
     <lastmod>2026-07-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-nara-奈良租車策略-作為關西自駕樞紐的成本與動線優勢-aebec0.html</loc>
+    <lastmod>2026-07-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
@@ -69576,8 +70521,18 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-tokyo-東京租車全攻略-世界盃觀賽與周邊城市自駕彈性首選-c6ea40.html</loc>
+    <lastmod>2026-07-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-tokyo-東京租車反向思考-什麼情況下值得放棄地鐵改自駕-208604.html</loc>
     <lastmod>2026-07-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-tokyo-東京租車周邊自駕遊-從市區出發的關東放射狀深度旅遊攻略-26e844.html</loc>
+    <lastmod>2026-07-10</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
@@ -70671,6 +71626,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-kanazawa-北陸新幹綫沿線經濟學-從東京到金澤的站站經濟觀察-b9fceb.html</loc>
+    <lastmod>2026-07-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-kanazawa-北陸新幹線沿線之旅-以金澤為樞紐的跨城市美食與文化探索-57550a.html</loc>
     <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
@@ -71101,6 +72061,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-tokyo-從東京出發-新手必讀的新幹線搭乘體驗與目的地指南-798d81.html</loc>
+    <lastmod>2026-07-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-kobe-從神戶出發-關西西側旅遊的中樞基地-f8c768.html</loc>
     <lastmod>2026-06-16</lastmod>
     <changefreq>monthly</changefreq>
@@ -71123,6 +72088,11 @@
   </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-osaka-新大阪站完全攻略-抵達關西的第一哩路這樣走-b57127.html</loc>
     <lastmod>2026-06-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-osaka-新大阪站完全攻略-轉乘-美食與周邊住宿的站式指南-3ee981.html</loc>
+    <lastmod>2026-07-10</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
@@ -71281,6 +72251,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-kanazawa-東京至金澤交通攻略-北陸新幹綫時刻表-票價與座位選擇完全指南-b987f6.html</loc>
+    <lastmod>2026-07-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-tokyo-東京車站-新幹綫時代的心臟地帶與周邊漫遊指南-56de2f.html</loc>
     <lastmod>2026-06-26</lastmod>
     <changefreq>monthly</changefreq>
@@ -71366,6 +72341,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-okinawa-沖繩沒有新幹線の真相-達人解析沖繩交通網路與旅遊選擇-ab0792.html</loc>
+    <lastmod>2026-07-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-okinawa-沖繩沒有新幹線-交通達人帶你認識真實的島嶼鐵路系統-10d8a7.html</loc>
     <lastmod>2026-06-17</lastmod>
     <changefreq>monthly</changefreq>
@@ -71383,6 +72363,11 @@
   </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-okinawa-沖繩沒有新幹線-交通達人解析往返沖繩的最佳路徑-b2c884.html</loc>
     <lastmod>2026-06-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-okinawa-沖繩的新幹線-不存在但交通選擇比你想的更豐富-d1a742.html</loc>
+    <lastmod>2026-07-10</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
@@ -71453,6 +72438,11 @@
   </url>  <url>
     <loc>https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-kobe-神戶站的新幹線戰略-關西西部的隱藏樞紐-7d0720.html</loc>
     <lastmod>2026-07-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-kobe-神戶站鐵道樞紐完全指南-關西西側的效率中轉站-be2f0f.html</loc>
+    <lastmod>2026-07-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>  <url>
