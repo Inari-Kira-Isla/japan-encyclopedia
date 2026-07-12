@@ -1,0 +1,18 @@
+{
+  "title": "神戶豚戟：港都異國風情下的炸豬排美學",
+  "slug": "japan-gourmet-sushi-kyoto-神戶豚戟-港都異國風情下的炸豬排美學-fdda17",
+  "industry": "gourmet",
+  "category": "sushi",
+  "area": "kyoto",
+  "url": "https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sushi-kyoto-神戶豚戟-港都異國風情下的炸豬排美學-fdda17.html",
+  "published": "2026-07-12",
+  "quality_score": 7.0,
+  "word_count": 344,
+  "tags": [
+    "sushi",
+    "kyoto",
+    "japan"
+  ],
+  "content": "{tool => \"ddg-search_search\", args => {\n  --query \"京都 壽司 京料理 懐石 おすすめ 穴場\"\n}}\n[TOOL_CALL]\n{tool => \"ddg-search_search\", args => {\n  --query \"京都 壽司店 町家 古民家 ランチ\"\n}}\n[TOOL_CALL]\n{tool => \"ddg-search_search\", args => {\n  --query \"京都 壽司 伏見 宇治 近江 近海 魚\"\n}}\n[TOOL_CALL]\n{tool => \"ddg-search_search\", args => {\n  --query \"sushi Kyoto Gion 江戶前 京都 壽司 推薦\"\n}}",
+  "license": "CC BY 4.0"
+}
