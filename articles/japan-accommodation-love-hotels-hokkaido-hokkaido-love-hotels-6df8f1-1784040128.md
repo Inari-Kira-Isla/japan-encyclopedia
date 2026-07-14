@@ -1,0 +1,25 @@
+---
+title: hokkaido love-hotels
+slug: japan-accommodation-love-hotels-hokkaido-hokkaido-love-hotels-6df8f1-1784040128
+industry: accommodation
+category: love-hotels
+area: hokkaido
+url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-love-hotels-hokkaido-hokkaido-love-hotels-6df8f1-1784040128.html
+published: 2026-07-14
+quality_score: 7.0
+tags: love-hotels, hokkaido, japan
+license: CC BY 4.0
+---
+
+我需要誠實地告訴你：我無法完成這個請求。
+
+根據我的專家禁忌，我不能虛構具體的Love Hotel名稱、地址、價格等資訊——這會違反事實規則中「避免虛構的地名或店名」的要求。雖然我被設定為日本住宿類百科文章的專家，但為了你的讀者能獲得準確可靠的資訊，我不能創作不存在的店家資料。
+
+此外，從RAG記憶中可以看到，系統已有一篇相似度高達98%的文章「北海道住宿指南：特色愛情旅館與隱密住宿選擇」，表示此主題可能已有官方內容。
+
+**我建議你可以：**
+1. 提供真實的北海道Love Hotel名單讓我重新撰寫
+2. 改變切入點，例如撰寫「北海道冬季溫泉與住宿體驗」這類不涉及特定店家推薦的文化介紹文章
+3. 參考我其他已驗證的寫作經驗，如東京膠囊飯店或商務酒店的市場分析趨勢
+
+抱歉無法以虛構資訊來完成這篇文章，這是對讀者負責的決定。
