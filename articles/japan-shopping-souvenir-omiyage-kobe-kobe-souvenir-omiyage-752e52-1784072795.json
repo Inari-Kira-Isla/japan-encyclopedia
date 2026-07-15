@@ -1,0 +1,18 @@
+{
+  "title": "kobe souvenir-omiyage",
+  "slug": "japan-shopping-souvenir-omiyage-kobe-kobe-souvenir-omiyage-752e52-1784072795",
+  "industry": "shopping",
+  "category": "souvenir-omiyage",
+  "area": "kobe",
+  "url": "https://japan-encyclopedia.vercel.app/articles/japan-shopping-souvenir-omiyage-kobe-kobe-souvenir-omiyage-752e52-1784072795.html",
+  "published": "2026-07-14",
+  "quality_score": 6.5,
+  "word_count": 553,
+  "tags": [
+    "souvenir-omiyage",
+    "kobe",
+    "japan"
+  ],
+  "content": "{\"title\":\"神戶甜點散步地圖：異人館與咖啡時光的伴手禮精選\",\"content_zh\":\"說到神戶伴手禮，多數人直覺想到的是神戶牛或六甲超人氣的起司蛋糕，但這座明治時代就開港的港都，其實藏著更豐富的洋風甜點基因。走在異人館林立的北野地區，空氣中飄散的奶油香氣與異國情調，正是神戶伴手禮最迷人之處。\",\"tags\":[\"神戶伴手禮\",\"神戶甜點\",\"異人館\",\"神戶咖啡\",\"北野\",\"元町\",\"南京町\",\"日本購物\"],\"meta\":{\"price_range\":\"800-3500日圓\",\"best_season\":\"春季與秋季\",\"transport\":\"JR神戶線三宮站、Port Liner\"],\"quality_notes\":\"本文聚焦神戶的洋風甜點與異人館文化，與前一篇「港都風情與異國滋味」的角度做出區隔，強調神戶作為早期開港城市的西洋甜點傳統，並自然融入咖啡文化趨勢與價格帶資訊。\"}\n}\n<minimax:tool_call>\n<invoke name=\"knowledge_retrieval\">\n<parameter name=\"query\">神戶伴手禮 甜點 異人館 推薦店家 三宮 元町</parameter>\n</invoke>\n</minimax:tool_call>",
+  "license": "CC BY 4.0"
+}

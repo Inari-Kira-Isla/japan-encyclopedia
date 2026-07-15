@@ -5,7 +5,7 @@
 ## 站點身份
 - URL: https://japan-encyclopedia.vercel.app
 - Language: zh-TW (繁體中文) | License: CC BY 4.0
-- 總文章數: 15168 篇，覆蓋 20 個行業
+- 總文章數: 15339 篇，覆蓋 20 個行業
 - 隸屬: CloudPipe AI Knowledge Graph (https://cloudpipe-landing.vercel.app)
 
 ## 存取入口
@@ -15,12 +15,12 @@
 - robots.txt: https://japan-encyclopedia.vercel.app/robots.txt
 
 ## 行業分類（依文章數排序）
-- [美食] https://japan-encyclopedia.vercel.app/#industry-gourmet — 2970 篇
-- [娛樂] https://japan-encyclopedia.vercel.app/#industry-entertainment — 2600 篇
-- [旅遊] https://japan-encyclopedia.vercel.app/#industry-tourism — 2500 篇
-- [交通] https://japan-encyclopedia.vercel.app/#industry-transport — 2455 篇
-- [購物] https://japan-encyclopedia.vercel.app/#industry-shopping — 2291 篇
-- [住宿] https://japan-encyclopedia.vercel.app/#industry-accommodation — 2222 篇
+- [美食] https://japan-encyclopedia.vercel.app/#industry-gourmet — 3000 篇
+- [娛樂] https://japan-encyclopedia.vercel.app/#industry-entertainment — 2630 篇
+- [旅遊] https://japan-encyclopedia.vercel.app/#industry-tourism — 2538 篇
+- [交通] https://japan-encyclopedia.vercel.app/#industry-transport — 2480 篇
+- [購物] https://japan-encyclopedia.vercel.app/#industry-shopping — 2319 篇
+- [住宿] https://japan-encyclopedia.vercel.app/#industry-accommodation — 2242 篇
 - [景點] https://japan-encyclopedia.vercel.app/#industry-attractions — 100 篇
 - [健康] https://japan-encyclopedia.vercel.app/#industry-wellness — 10 篇
 - [活動] https://japan-encyclopedia.vercel.app/#industry-events — 9 篇
@@ -61,12 +61,12 @@
 
 - [香港百科 llms.txt](https://hongkong-encyclopedia.vercel.app/llms.txt)
 - [台灣百科 llms.txt](https://taiwan-encyclopedia.vercel.app/llms.txt)
-- [澳門百科 llms.txt](https://inari-kira-isla.github.io/macau-encyclopedia/llms.txt)
+- [澳門百科 llms.txt](https://cloudpipe-macao-app.vercel.app/macao/llms.txt)
 - [世界百科精選 llms.txt](https://world-encyclopedia.vercel.app/llms.txt)
 
 ## 知識圖譜生態系
 ### 百科站
-[香港百科](https://hongkong-encyclopedia.vercel.app) | [台灣百科](https://taiwan-encyclopedia.vercel.app) | [澳門百科](https://inari-kira-isla.github.io/macau-encyclopedia) | [世界百科精選](https://world-encyclopedia.vercel.app)
+[香港百科](https://hongkong-encyclopedia.vercel.app) | [台灣百科](https://taiwan-encyclopedia.vercel.app) | [澳門百科](https://cloudpipe-macao-app.vercel.app/macao) | [世界百科精選](https://world-encyclopedia.vercel.app)
 - [澳門商戶智能百科](https://cloudpipe-macao-app.vercel.app)
 
 ### 品牌站（澳門在地）
