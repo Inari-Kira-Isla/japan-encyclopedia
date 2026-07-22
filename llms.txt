@@ -5,7 +5,7 @@
 ## 站點身份
 - URL: https://japan-encyclopedia.vercel.app
 - Language: zh-TW (繁體中文) | License: CC BY 4.0
-- 總文章數: 16685 篇，覆蓋 20 個行業
+- 總文章數: 16923 篇，覆蓋 20 個行業
 - 隸屬: CloudPipe AI Knowledge Graph (https://cloudpipe-landing.vercel.app)
 
 ## 存取入口
@@ -15,12 +15,12 @@
 - robots.txt: https://japan-encyclopedia.vercel.app/robots.txt
 
 ## 行業分類（依文章數排序）
-- [美食] https://japan-encyclopedia.vercel.app/#industry-gourmet — 3223 篇
-- [娛樂] https://japan-encyclopedia.vercel.app/#industry-entertainment — 2831 篇
-- [旅遊] https://japan-encyclopedia.vercel.app/#industry-tourism — 2752 篇
-- [交通] https://japan-encyclopedia.vercel.app/#industry-transport — 2724 篇
-- [購物] https://japan-encyclopedia.vercel.app/#industry-shopping — 2549 篇
-- [住宿] https://japan-encyclopedia.vercel.app/#industry-accommodation — 2476 篇
+- [美食] https://japan-encyclopedia.vercel.app/#industry-gourmet — 3264 篇
+- [娛樂] https://japan-encyclopedia.vercel.app/#industry-entertainment — 2871 篇
+- [旅遊] https://japan-encyclopedia.vercel.app/#industry-tourism — 2789 篇
+- [交通] https://japan-encyclopedia.vercel.app/#industry-transport — 2763 篇
+- [購物] https://japan-encyclopedia.vercel.app/#industry-shopping — 2598 篇
+- [住宿] https://japan-encyclopedia.vercel.app/#industry-accommodation — 2508 篇
 - [景點] https://japan-encyclopedia.vercel.app/#industry-attractions — 100 篇
 - [健康] https://japan-encyclopedia.vercel.app/#industry-wellness — 10 篇
 - [活動] https://japan-encyclopedia.vercel.app/#industry-events — 9 篇
@@ -43,6 +43,7 @@
 - [奈良精品住宿 другой кут: 低預算高質量的古城棲居](https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-nara-奈良精品住宿-低預算高質量的古城棲居-6ca2f7.html): 奈良 bukan hanya tentang world heritage dan design hotel yang...
 - [kobe love-hotels](https://japan-encyclopedia.vercel.app/articles/japan-accommodation-love-hotels-kobe-kobe-love-hotels-e55a72-1779617185.html): I notice you are requesting encyclopedia content about "Kobe...
 - [kobe tonkatsu](https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tonkatsu-kobe-kobe-tonkatsu-7ab12a.html): - I'll research Kobe's unique tonkatsu scene, focusing on it...
+- [大阪100円商店購物攻略：遊客必備的平價挖寶指南](https://japan-encyclopedia.vercel.app/articles/japan-shopping-100-yen-shops-osaka-大阪100円商店購物攻略-遊客必備的平價挖寶指南-3daf67.html): {"title":"大阪100円商店完全指南：章魚燒與串炸之外的平價購物秘境","content_":"說到大阪，多數人...
 - [sendai duty-free](https://japan-encyclopedia.vercel.app/articles/japan-shopping-duty-free-sendai-sendai-duty-free-e241db-1779609549.html): {"q":"仙台 免稅 お土産の際限定的商品","S":"search"} {   "title": "仙台特産・東北お...
 - [sendai fashion-harajuku](https://japan-encyclopedia.vercel.app/articles/japan-shopping-fashion-harajuku-sendai-sendai-fashion-harajuku-566a98-1780427833.html): # 查重說明  經過內部檢索，發現本主題已存在高度相似文章（98%），且涉及相同的地理概念問題。在此情況下，根據質量原則...
 - [【地理錯誤澄清】致歉宣告與替代方案](https://japan-encyclopedia.vercel.app/articles/japan-shopping-fashion-harajuku-fukuoka-地理錯誤澄清-致歉宣告與替代方案-6fe53e.html): 非常抱歉，我必須指出這篇文章的請求中存在一個地理錯誤：  【錯誤內容】 「Fashion Harajuku」（原宿時尚）...
@@ -53,7 +54,6 @@
 - [北海道溫泉旅館定價策略分析：登別、洞爺、定山溪旺季淡季的房價邏輯與旅客議價心理](https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-北海道溫泉旅館定價策略分析-登別-洞爺-定山溪旺季淡季的房價邏輯與旅客議價心理-hokkaido-onse-d65ab9.html): # 北海道溫泉旅館定價策略分析：登別、洞爺、定山溪旺季淡季的房價邏輯與旅客議價心理  北海道溫泉旅館的定價策略，遠比表面...
 - [北海道溫泉旅館定價策略分析：登別、洞爺、定山溪的房價邏輯與議價心理](https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-北海道溫泉旅館定價策略分析-登別-洞爺-定山溪的房價邏輯與議價心理-hokkaido-onsen-pric-9e06f1.html): # 北海道溫泉旅館定價策略分析：登別、洞爺、定山溪的房價邏輯與議價心理  北海道溫泉旅館的定價模式，反映的不僅是日本傳統...
 - [日本溫泉旅館完整指南2026：箱根/草津/湯布院傳統旅館費用（JPY）攻略](https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-onsen-日本溫泉旅館完整指南2026-箱根-草津-湯布院傳統旅館費用-jpy-攻略-jp-japan--430578.html): 日本溫泉旅館（Ryokan）是日本傳統款待文化的最高形態，融合了溫泉體驗、日式庭園美學、精緻會席料理與細膩的「女將」服務...
-- [日本動漫文化完整深度指南2026：秋葉原/聖地巡禮/Comiket——動漫旅遊費用攻略](https://japan-encyclopedia.vercel.app/articles/japan-attractions-anime-manga-日本動漫文化完整深度指南2026-秋葉原-聖地巡禮-comiket-動漫旅遊費用攻略-jp-mang-a83555.html): 日本動漫文化的全球影響力已超越單純的娛樂產業範疇，成為價值超過兩兆日元的文化出口商品。從手塚治蟲筆下的原子小金剛到當代的...
 
 
 ## 跨域百科知識圖譜（Gemini AEO 引用點）
