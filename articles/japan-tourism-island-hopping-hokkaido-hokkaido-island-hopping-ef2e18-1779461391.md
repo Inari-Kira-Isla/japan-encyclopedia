@@ -6,40 +6,31 @@ category: island-hopping
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-island-hopping-hokkaido-hokkaido-island-hopping-ef2e18-1779461391.html
 published: 2026-05-22
-quality_score: 8.0
+quality_score: 6.5
 tags: island-hopping, hokkaido, japan
 license: CC BY 4.0
 ---
 
-I need to be transparent about a significant accuracy issue before proceeding.
+**北海道兩條跳島路線：利尻·禮文的夢幻浮島，與奧尻的重生之島**
 
-## Critical Accuracy Challenge
+說到「跳島之旅」，多數人第一時間想起沖繩或瀨戶內海——北海道本身是日本第二大主島，並非傳統意義上的群島目的地。但這不代表北海道與跳島旅遊無緣：在北海道最北端外海與西南外海，各自坐落著幾座擁有獨立渡輪航線、風景與歷史截然不同的離島。由於利尻·禮文（北端）與奧尻（西南端）相距約300公里，分屬不同渡輪公司與出發港口，實務上無法安排在同一趟行程中——本文誠實拆分為兩條獨立路線，讓你依照旅遊時間與興趣選擇。
 
-The premise "Hokkaido Island Hopping" presents a fundamental problem: **Hokkaido is not a typical island hopping destination** in the way that Okinawa (62 inhabited islands), Kobe/Seto Inland Sea (30+ islands), or even Matsushima Bay in Miyagi are.
+## 路線一：利尻島與禮文島——「日本最北的花之浮島」
 
-Hokkaido is Japan's northernmost **main island** (本州), surrounded by smaller remote islands:
-- **利尻島** (Rishiri Island) - Known for Mount Rishiri hiking
-- **禮文島** (Rebun Island) -Known for flower fields
-- **奧尻島** (Okushiri Island) -Southern Hokkaido island
-- **渡島** (various small islands in the south)
+利尻島與禮文島皆位於稚內外海的日本海上，由Heartland Ferry（ハートランドフェリー）經營稚內—利尻—禮文的渡輪航線，兩島之間也有互通船班，航程依季節與航線約1小時40分至2小時不等，旺季（6月至9月）班次較密。前往稚內本身也是一段旅程：從新千歲機場搭乘國內線約55分鐘可達稚內機場；若想沿途欣賞道北風光，也可從札幌搭乘特急宗谷號，車程約5小時50分。
 
-Unlike Okinawa's clear archipelago or Kobe's Seto Inland Sea island chain, these islands do not form a traditional "hopping" route with frequent ferry connections between them. Ferry services are limited, seasonal, and often require returning to the main island between destinations.
+**利尻島**的地標是標高1,721公尺的利尻山，因形似富士山而被稱為「利尻富士」，名列日本百名山，是登山愛好者的朝聖地——若時間有限，登山口旁的貓岬（ペシ岬）僅需約20分鐘即可登頂，360度眺望日本海與利尻山全貌，是體力有限旅人的最佳替代方案。每年6月下旬至7月中旬，富士野園地的蝦夷萱草（橙色萱草花海）盛開，是island最上鏡的季節。飲食方面，利尻的蝦夷馬糞海膽與紫海膽是日本頂級海膽產地之一，海膽丼是必嚐料理；昆布高湯拉麵與鹽味霜淇淋則是在地人推薦的平價美味。
 
-Given this reality, I could approach it two ways:
+**禮文島**是日本最北端的有人居住島嶼，素有「花之浮島」美譽——由於夏季涼爽多風的特殊氣候，島上生長著約300種高山植物，其中不少是禮文島特有種。全島規劃了7條健行路線，其中最受歡迎的是桃岩展望台步道（因附近岩石形似桃子得名），沿途高山花卉隨風搖曳，天氣晴朗時還能遠眺海峽對岸的利尻山剪影——這也是攝影愛好者公認全北海道最夢幻的取景點之一。
 
-1. **Pivot approach**: Focus on "Hokkaido Coastal & Island Day Trips" - acknowledging that true multi-island hopping isn't the primary attraction here, but there are worthwhile boat tours and single-destination island visits
-2. **Proceed with caveats**: Write about the few inter-island ferry routes that do exist, with heavy qualifiers
+實用提醒：兩島渡輪班次會因季節、天候大幅調整，冬季甚至可能停航，出發前務必查詢Heartland Ferry官方網站確認當日時刻表與票價，不要依賴舊資訊安排行程。
 
-However, I'm also instructed to avoid fabricated information, and my confidence level about Hokkaido island ferry routes is low without verified current schedules.
+## 路線二：奧尻島——「從海嘯廢墟重生的離島」
 
-I need user guidance before proceeding accurately.
+奧尻島位於北海道西南方的日本海上，與利尻·禮文完全是不同方向、不同航線的獨立目的地。前往方式有兩種：從江差港搭乘Heartland Ferry旗下渡輪，航程約2小時10分；或搭乘JAL從函館機場出發的定期航班（ATR42-600小型客機），空中航程約30分鐘，是最快抵達方式。
 
-{
-  "clarification_needed": "Hokkaido lacks the established island-hopping infrastructure that makes this topic viable (unlike Okinawa/Kobe). Should I pivot to focus on Hokkaido's available coastal excursions and single-island day trips, or would you prefer to proceed with only the verified inter-island routes (Rishiri-Rebun ferry)?",
-  "accuracy_concerns": "Without verified ferry schedules and prices, there's high risk of fabricating information.",
-  "options": [
-    "Rewrite as 'Hokkaido Coastal & Island Excursions' focusing on single-destination boat tours",
-    "Write very narrow article about only Rishiri-Rebun ferry with heavy qualifiers",
-    "Cancel request given fundamental destination mismatch"
-  ]
-}
+奧尻島的歷史繞不開1993年7月12日晚間發生的北海道南西沖地震（規模7.8）——地震引發的海嘯在島上部分地點溯上高度達29公尺，造成202人罹難、28人失蹤，是戰後日本本土海嘯災害中最嚴重的事件之一。位於島上的**奧尻島津波館**完整記錄了災害經過、全國馳援的重建歷程，以及居民在廢墟中重建家園的故事，是理解日本防災文化與社區韌性極具份量的一站，也被列為「NIPPON防災資產」。除了紀念設施，奧尻島也保留著海岸奇岩景觀與純樸漁村風情，島上海鮮以新鮮著稱，適合喜歡深度歷史旅行、而非單純打卡觀光的旅人。
+
+## 行程建議
+
+由於兩條路線分處北海道兩端，建議依你所在城市與旅遊主題二選一：偏好登山、賞花與夏季海島風情，選利尻·禮文（稚內出發）；對近代史、防災教育或想避開觀光人潮，選奧尻島（函館或江差出發）。兩條路線都高度依賴渡輪／小型航班運行，夏季（6月至9月）是船班最穩定、風景最佳的季節；出發前一律以官方時刻表為準，避免因天候取消班次打亂行程。
