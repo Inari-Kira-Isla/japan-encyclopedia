@@ -98470,4 +98470,18 @@
     <changefreq>weekly</changefreq>
     <priority>0.80</priority>
   </url>
+
+  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/2026-03-11_hokkaido-lavender.html</loc>
+    <lastmod>2026-08-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://japan-encyclopedia.vercel.app/articles/2026-03-11_kyoto-tea-ceremony.html</loc>
+    <lastmod>2026-08-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
 </urlset>
