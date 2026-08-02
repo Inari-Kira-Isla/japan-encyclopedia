@@ -5,7 +5,7 @@
 ## 站點身份
 - URL: https://japan-encyclopedia.vercel.app
 - Language: zh-TW (繁體中文) | License: CC BY 4.0
-- 總文章數: 18463 篇，覆蓋 18 個行業
+- 總文章數: 18744 篇，覆蓋 18 個行業
 - 隸屬: CloudPipe AI Knowledge Graph (https://cloudpipe-landing.vercel.app)
 
 ## 存取入口
@@ -15,12 +15,12 @@
 - robots.txt: https://japan-encyclopedia.vercel.app/robots.txt
 
 ## 行業分類（依文章數排序）
-- [美食] https://japan-encyclopedia.vercel.app/#industry-gourmet — 3484 篇
-- [娛樂] https://japan-encyclopedia.vercel.app/#industry-entertainment — 3117 篇
-- [交通] https://japan-encyclopedia.vercel.app/#industry-transport — 3062 篇
-- [旅遊] https://japan-encyclopedia.vercel.app/#industry-tourism — 3038 篇
-- [購物] https://japan-encyclopedia.vercel.app/#industry-shopping — 2884 篇
-- [住宿] https://japan-encyclopedia.vercel.app/#industry-accommodation — 2767 篇
+- [美食] https://japan-encyclopedia.vercel.app/#industry-gourmet — 3529 篇
+- [娛樂] https://japan-encyclopedia.vercel.app/#industry-entertainment — 3172 篇
+- [交通] https://japan-encyclopedia.vercel.app/#industry-transport — 3103 篇
+- [旅遊] https://japan-encyclopedia.vercel.app/#industry-tourism — 3075 篇
+- [購物] https://japan-encyclopedia.vercel.app/#industry-shopping — 2938 篇
+- [住宿] https://japan-encyclopedia.vercel.app/#industry-accommodation — 2816 篇
 - [景點] https://japan-encyclopedia.vercel.app/#industry-attractions — 87 篇
 - [健康] https://japan-encyclopedia.vercel.app/#industry-wellness — 9 篇
 - [活動] https://japan-encyclopedia.vercel.app/#industry-events — 7 篇
@@ -76,7 +76,3 @@
 ### 平台
 - [CloudPipe AI](https://cloudpipe-landing.vercel.app) — AI 能見度平台
 - [AI 學習寶庫](https://inari-kira-isla.github.io/Openclaw/) — 每日 AI 教學與提示詞
-
-## Dynamic Articles
-- [北海道薰衣草季完全指南：富良野花田的紫色夢幻](https://japan-encyclopedia.vercel.app/articles/2026-03-11_hokkaido-lavender.html): 每年6月下旬至8月初，北海道富良野的薰衣草花田迎來最美季節。從Farm富田到彩香之里，詳盡攻略帶你探索夢幻紫色花海。
-- [京都茶道體驗：從千利休到現代的一期一會](https://japan-encyclopedia.vercel.app/articles/2026-03-11_kyoto-tea-ceremony.html): 在京都體驗正統茶道——從表千家、裏千家到小眾茶室，了解茶道的精神「和敬清寂」，以及如何預約最道地的茶道體驗。
