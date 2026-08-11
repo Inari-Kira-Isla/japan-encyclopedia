@@ -6,7 +6,7 @@ category: sake-brewery
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sake-brewery-kanazawa-金澤清酒釀造廠-女性釀酒師與小批次釀造的革新時代-3cd29f.html
 published: 2026-07-04
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤清酒, 石川縣, 日本釀酒, 女性釀酒師, 精品清酒
 license: CC BY 4.0
 ---

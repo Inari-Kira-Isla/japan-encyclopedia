@@ -6,7 +6,7 @@ category: airport-transfer
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-airport-transfer-osaka-關西國際機場往返大阪交通全攻略-64b5ed.html
 published: 2026-06-01
-quality_score: 7.5
+quality_score: 8.7
 tags: 關西國際機場, 大阪交通, 機場接送, 南海電鐵, 關西機場巴士
 license: CC BY 4.0
 ---

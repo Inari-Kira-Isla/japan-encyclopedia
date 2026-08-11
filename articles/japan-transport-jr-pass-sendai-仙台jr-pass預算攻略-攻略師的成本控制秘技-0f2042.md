@@ -6,7 +6,7 @@ category: jr-pass
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-jr-pass-sendai-仙台jr-pass預算攻略-攻略師的成本控制秘技-0f2042.html
 published: 2026-04-05
-quality_score: 7.5
+quality_score: 8.3
 tags: 仙台, JR Pass, 東北旅遊, 交通攻略, 預算控制
 license: CC BY 4.0
 ---

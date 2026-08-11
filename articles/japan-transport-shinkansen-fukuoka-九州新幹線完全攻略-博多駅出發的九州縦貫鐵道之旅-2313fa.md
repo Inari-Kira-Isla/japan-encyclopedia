@@ -6,7 +6,7 @@ category: shinkansen
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-fukuoka-九州新幹線完全攻略-博多駅出發的九州縦貫鐵道之旅-2313fa.html
 published: 2026-06-19
-quality_score: 7.5
+quality_score: 8.6
 tags: 九州新幹線, 博多駅, 九州鐵道, 日本新幹線, 久留米
 license: CC BY 4.0
 ---

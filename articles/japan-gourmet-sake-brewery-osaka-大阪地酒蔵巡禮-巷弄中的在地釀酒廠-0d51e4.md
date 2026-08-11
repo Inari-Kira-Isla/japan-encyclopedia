@@ -6,7 +6,7 @@ category: sake-brewery
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sake-brewery-osaka-大阪地酒蔵巡禮-巷弄中的在地釀酒廠-0d51e4.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 8.6
 tags: 大阪清酒, 地酒蔵, 大阪美食, 日本釀酒, 關西旅遊
 license: CC BY 4.0
 ---

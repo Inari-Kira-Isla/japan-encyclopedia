@@ -6,7 +6,7 @@ category: historical-districts
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-sendai-仙台歷史街區-清晨六點的市井滋味與隱藏版老店地圖-378e14.html
 published: 2026-06-20
-quality_score: 6.5
+quality_score: 8.8
 tags: 仙台, 歷史街區, 市場, 老店, 在地美食
 license: CC BY 4.0
 ---

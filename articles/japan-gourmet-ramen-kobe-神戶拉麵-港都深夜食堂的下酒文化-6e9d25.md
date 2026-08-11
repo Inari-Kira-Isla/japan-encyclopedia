@@ -6,7 +6,7 @@ category: ramen
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-ramen-kobe-神戶拉麵-港都深夜食堂的下酒文化-6e9d25.html
 published: 2026-05-23
-quality_score: 6.5
+quality_score: 8.8
 tags: 神戶拉麵, 港都深夜食堂, 關西拉麵, 宿醉拉麵, 下酒拉麵
 license: CC BY 4.0
 ---

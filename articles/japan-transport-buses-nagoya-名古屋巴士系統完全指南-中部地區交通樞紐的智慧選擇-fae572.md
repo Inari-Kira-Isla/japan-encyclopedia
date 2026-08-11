@@ -6,7 +6,7 @@ category: buses
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-buses-nagoya-名古屋巴士系統完全指南-中部地區交通樞紐的智慧選擇-fae572.html
 published: 2026-04-04
-quality_score: 7.5
+quality_score: 8.4
 tags: 名古屋交通, 日本巴士, 中部地區, 觀光交通, 公共運輸
 license: CC BY 4.0
 ---

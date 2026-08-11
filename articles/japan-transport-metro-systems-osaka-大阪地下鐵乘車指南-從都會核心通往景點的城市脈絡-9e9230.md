@@ -6,7 +6,7 @@ category: metro-systems
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-osaka-大阪地下鐵乘車指南-從都會核心通往景點的城市脈絡-9e9230.html
 published: 2026-06-07
-quality_score: 7.5
+quality_score: 8.7
 tags: 大阪地下鐵, 大阪交通, 關西旅遊, 大阪市地下鐵, 大阪Metro
 license: CC BY 4.0
 ---

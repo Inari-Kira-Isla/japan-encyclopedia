@@ -6,7 +6,7 @@ category: anime-manga
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-hokkaido-北海道動漫生活提案-當地人的日常娛樂地圖-7c4665.html
 published: 2026-06-08
-quality_score: 6.5
+quality_score: 8.5
 tags: 北海道動漫, 札幌漫畫咖啡店, 旭川動漫, 北海道網咖, 漫畫出租店
 license: CC BY 4.0
 ---

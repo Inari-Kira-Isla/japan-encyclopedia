@@ -6,7 +6,7 @@ category: theme-parks
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-theme-parks-osaka-大阪主題樂園完全指南-臨海體驗與城市探險的雙重魅力-52a52b.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪主題樂園, 臨海公園, 海遊館, SpWorld, 天王寺動物園
 license: CC BY 4.0
 ---

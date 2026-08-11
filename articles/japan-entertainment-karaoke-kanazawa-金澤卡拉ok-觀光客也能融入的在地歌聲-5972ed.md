@@ -6,7 +6,7 @@ category: karaoke
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-karaoke-kanazawa-金澤卡拉ok-觀光客也能融入的在地歌聲-5972ed.html
 published: 2026-04-02
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤娛樂, 卡拉OK體驗, 石川縣夜生活
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: street-food
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-street-food-kyoto-京都車站周邊隱藏版街食-轉機與候車時的美味解方-e831eb.html
 published: 2026-07-01
-quality_score: 6.5
+quality_score: 8.8
 tags: 京都, 街頭美食, 車站周邊, 關西機場, 快速美食
 license: CC BY 4.0
 ---

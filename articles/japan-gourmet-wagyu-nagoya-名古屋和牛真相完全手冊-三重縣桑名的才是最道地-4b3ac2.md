@@ -6,7 +6,7 @@ category: wagyu
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-wagyu-nagoya-名古屋和牛真相完全手冊-三重縣桑名的才是最道地-4b3ac2.html
 published: 2026-05-24
-quality_score: 6.5
+quality_score: 8.6
 tags: 名古屋美食, 三重縣, 桑名, 和牛燒肉, 中部美食
 license: CC BY 4.0
 ---

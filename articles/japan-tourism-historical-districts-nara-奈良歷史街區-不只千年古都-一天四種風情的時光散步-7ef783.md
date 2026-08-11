@@ -6,7 +6,7 @@ category: historical-districts
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-nara-奈良歷史街區-不只千年古都-一天四種風情的時光散步-7ef783.html
 published: 2026-06-23
-quality_score: 6.5
+quality_score: 8.8
 tags: 奈良歷史街區, 日本古都, 時光散步, 一日四景, 深度旅遊
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: vr-experiences
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-vr-experiences-kanazawa-金澤vr體驗-古城小雨天的室內娛樂提案-f6a0c4.html
 published: 2026-07-04
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤VR體驗, 金澤室內活動, 金澤雨天備案, 金澤遊戲中心, 北陸VR
 license: CC BY 4.0
 ---

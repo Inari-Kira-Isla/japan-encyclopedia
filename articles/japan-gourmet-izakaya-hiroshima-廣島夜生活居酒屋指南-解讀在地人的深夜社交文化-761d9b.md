@@ -6,7 +6,7 @@ category: izakaya
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-izakaya-hiroshima-廣島夜生活居酒屋指南-解讀在地人的深夜社交文化-761d9b.html
 published: 2026-04-07
-quality_score: 6.5
+quality_score: 8.7
 tags: 廣島居酒屋, 日本夜生活, 瀨戶內海美食, 廣島文化, 日本酒文化
 license: CC BY 4.0
 ---

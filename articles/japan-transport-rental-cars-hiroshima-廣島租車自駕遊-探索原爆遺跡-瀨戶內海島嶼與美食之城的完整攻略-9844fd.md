@@ -6,7 +6,7 @@ category: rental-cars
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-hiroshima-廣島租車自駕遊-探索原爆遺跡-瀨戶內海島嶼與美食之城的完整攻略-9844fd.html
 published: 2026-03-21
-quality_score: 7.5
+quality_score: 8.5
 tags: 廣島, 租車自駕, 瀨戶內海, 宮島, 尾道
 license: CC BY 4.0
 ---

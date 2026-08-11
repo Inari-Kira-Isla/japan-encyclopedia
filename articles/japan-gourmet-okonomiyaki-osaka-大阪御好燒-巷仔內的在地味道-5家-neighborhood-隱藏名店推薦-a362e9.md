@@ -6,7 +6,7 @@ category: okonomiyaki
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-okonomiyaki-osaka-大阪御好燒-巷仔內的在地味道-5家-neighborhood-隱藏名店推薦-a362e9.html
 published: 2026-05-21
-quality_score: 6.5
+quality_score: 8.6
 tags: 大阪御好燒, 關西美食, Osaka okonomiyaki, 當地人推荐,  neighbourhood eateries
 license: CC BY 4.0
 ---

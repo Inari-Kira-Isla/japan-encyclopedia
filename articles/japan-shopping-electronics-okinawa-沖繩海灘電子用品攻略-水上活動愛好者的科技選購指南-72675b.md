@@ -6,7 +6,7 @@ category: electronics
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-electronics-okinawa-沖繩海灘電子用品攻略-水上活動愛好者的科技選購指南-72675b.html
 published: 2026-06-13
-quality_score: 7.5
+quality_score: 8.5
 tags: 沖繩電子用品, 水上運動電子產品, 防水相機, 海灘電子用品, 沖繩購物
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: temple-stays
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-temple-stays-nara-奈良寺廟住宿-古都禪行的低調奢華-84db27.html
 published: 2026-05-23
-quality_score: 6.5
+quality_score: 8.5
 tags: 奈良住宿, 寺廟住宿, 日本古都, 宿坊體驗, 關西旅行
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: department-stores
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-department-stores-kyoto-京都百貨公司完全攻略-車站樞紐與銀髮友善購物指南-71a39f.html
 published: 2026-03-29
-quality_score: 7.5
+quality_score: 8.6
 tags: 京都購物, 車站周邊, 銀髮友善, 地下美食街, 免稅攻略
 license: CC BY 4.0
 ---

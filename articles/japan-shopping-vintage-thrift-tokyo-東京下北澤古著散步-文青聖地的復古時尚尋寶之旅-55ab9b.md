@@ -6,7 +6,7 @@ category: vintage-thrift
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-vintage-thrift-tokyo-東京下北澤古著散步-文青聖地的復古時尚尋寶之旅-55ab9b.html
 published: 2026-06-17
-quality_score: 7.5
+quality_score: 8.8
 tags: 東京古著, 下北澤, 二手衣, 復古時尚, 古著散步
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: sushi
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sushi-hokkaido-北海道壽司的食材採購地圖-冷鏈時代的季節密碼-2b0525.html
 published: 2026-03-22
-quality_score: 6.5
+quality_score: 8.3
 tags: 北海道美食, 壽司文化, 海鮮食材, 季節飲食, 漁港體驗
 license: CC BY 4.0
 ---

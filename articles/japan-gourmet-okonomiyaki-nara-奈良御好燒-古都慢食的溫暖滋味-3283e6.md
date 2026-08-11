@@ -6,7 +6,7 @@ category: okonomiyaki
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-okonomiyaki-nara-奈良御好燒-古都慢食的溫暖滋味-3283e6.html
 published: 2026-06-06
-quality_score: 6.5
+quality_score: 8.8
 tags: 奈良美食, 御好燒, 古都慢食, 押麥, 奈良味噌
 license: CC BY 4.0
 ---

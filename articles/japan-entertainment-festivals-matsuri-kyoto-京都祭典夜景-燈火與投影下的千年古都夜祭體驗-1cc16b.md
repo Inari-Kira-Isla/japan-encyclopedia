@@ -6,7 +6,7 @@ category: festivals-matsuri
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-festivals-matsuri-kyoto-京都祭典夜景-燈火與投影下的千年古都夜祭體驗-1cc16b.html
 published: 2026-05-25
-quality_score: 6.5
+quality_score: 8.8
 tags: 京都祭典, 祇園祭, 夜景, 提燈, 日本祭典
 license: CC BY 4.0
 ---

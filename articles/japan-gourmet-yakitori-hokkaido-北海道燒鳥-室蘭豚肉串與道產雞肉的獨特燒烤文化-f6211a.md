@@ -6,7 +6,7 @@ category: yakitori
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-yakitori-hokkaido-北海道燒鳥-室蘭豚肉串與道產雞肉的獨特燒烤文化-f6211a.html
 published: 2026-03-15
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道美食, 室蘭燒鳥, 日式燒烤, 居酒屋文化, 道產雞肉
 license: CC BY 4.0
 ---

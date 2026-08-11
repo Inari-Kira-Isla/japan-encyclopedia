@@ -6,7 +6,7 @@ category: business-hotels
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-business-hotels-hokkaido-北海道商務酒店-雪國商旅的溫暖驛站-d462b1.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道, 商務酒店, 札幌, 小樽, 帶廣
 license: CC BY 4.0
 ---

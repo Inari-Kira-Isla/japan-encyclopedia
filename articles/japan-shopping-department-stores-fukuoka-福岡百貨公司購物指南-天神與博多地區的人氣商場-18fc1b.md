@@ -6,7 +6,7 @@ category: department-stores
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-department-stores-fukuoka-福岡百貨公司購物指南-天神與博多地區的人氣商場-18fc1b.html
 published: 2026-06-08
-quality_score: 7.5
+quality_score: 8.8
 tags: 福岡, 九州, 百貨公司, 購物, 天神
 license: CC BY 4.0
 ---

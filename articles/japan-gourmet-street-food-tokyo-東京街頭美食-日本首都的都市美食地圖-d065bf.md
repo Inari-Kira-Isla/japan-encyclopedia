@@ -6,7 +6,7 @@ category: street-food
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-street-food-tokyo-東京街頭美食-日本首都的都市美食地圖-d065bf.html
 published: 2026-03-23
-quality_score: 6.5
+quality_score: 8.8
 tags: 東京街頭美食, 日本美食旅遊, 庶民小吃, 筑地市場, 浅草
 license: CC BY 4.0
 ---

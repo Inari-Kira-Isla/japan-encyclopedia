@@ -6,7 +6,7 @@ category: onsen
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-onsen-hokkaido-北海道秘湯巡禮-雪國深處的極上溫泉體驗-f27df0.html
 published: 2026-05-21
-quality_score: 6.5
+quality_score: 8.5
 tags: 北海道溫泉, 定山溪溫泉, 登別溫泉, 洞爺湖溫泉, 雪國溫泉
 license: CC BY 4.0
 ---

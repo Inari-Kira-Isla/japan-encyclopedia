@@ -6,7 +6,7 @@ category: onsen
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-onsen-osaka-大阪錢湯文化手冊-都會深處的在地沐浴體驗-ba2897.html
 published: 2026-05-21
-quality_score: 6.5
+quality_score: 8.5
 tags: 大阪錢湯, 公共浴場, 關西溫泉, 日本泡湯, 大阪文化
 license: CC BY 4.0
 ---

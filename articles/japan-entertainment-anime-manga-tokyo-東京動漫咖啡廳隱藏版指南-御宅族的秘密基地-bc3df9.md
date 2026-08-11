@@ -6,7 +6,7 @@ category: anime-manga
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-tokyo-東京動漫咖啡廳隱藏版指南-御宅族的秘密基地-bc3df9.html
 published: 2026-06-18
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京動漫咖啡廳, 秋葉原動漫, 池袋動漫, 御宅族文化, 日本次文化
 license: CC BY 4.0
 ---

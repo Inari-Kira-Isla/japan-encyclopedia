@@ -6,7 +6,7 @@ category: souvenir-omiyage
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-souvenir-omiyage-osaka-大阪伴手禮採購指南-依物件與預算的聰明選購策略-52ebe1.html
 published: 2026-06-13
-quality_score: 7.5
+quality_score: 8.6
 tags: 大阪伴手禮, omiyage, 關西伴手禮, 日本伴手禮, 大阪購物
 license: CC BY 4.0
 ---

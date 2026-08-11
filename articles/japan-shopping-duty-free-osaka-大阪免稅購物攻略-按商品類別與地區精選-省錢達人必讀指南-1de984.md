@@ -6,7 +6,7 @@ category: duty-free
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-duty-free-osaka-大阪免稅購物攻略-按商品類別與地區精選-省錢達人必讀指南-1de984.html
 published: 2026-03-23
-quality_score: 7.5
+quality_score: 8.4
 tags: 大阪購物, 免稅購物, 日本消費, 省錢技巧, 地區購物指南
 license: CC BY 4.0
 ---

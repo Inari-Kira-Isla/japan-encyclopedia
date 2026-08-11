@@ -6,7 +6,7 @@ category: sushi
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sushi-kanazawa-金澤早壽司-清晨茶屋街的魚味人情-2498be.html
 published: 2026-07-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤壽司, 日本海鮮, 早寿司, 北陸美食, 金澤美食
 license: CC BY 4.0
 ---

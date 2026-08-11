@@ -6,7 +6,7 @@ category: craft-markets
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-craft-markets-sendai-仙台手工商全集-探索東北復活的手作魅力-1bfabe.html
 published: 2026-06-01
-quality_score: 7.5
+quality_score: 8.8
 tags: 仙台手工商, 東北工藝, 七夕市集, 日本手作, 仙台旅行
 license: CC BY 4.0
 ---

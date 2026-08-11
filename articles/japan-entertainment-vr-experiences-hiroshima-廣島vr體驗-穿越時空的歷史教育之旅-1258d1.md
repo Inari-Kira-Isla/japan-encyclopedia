@@ -6,7 +6,7 @@ category: vr-experiences
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-vr-experiences-hiroshima-廣島vr體驗-穿越時空的歷史教育之旅-1258d1.html
 published: 2026-06-04
-quality_score: 6.5
+quality_score: 8.7
 tags: 
 license: CC BY 4.0
 ---

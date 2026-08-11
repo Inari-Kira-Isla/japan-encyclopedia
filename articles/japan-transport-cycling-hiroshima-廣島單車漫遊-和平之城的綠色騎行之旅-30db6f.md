@@ -6,7 +6,7 @@ category: cycling
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-hiroshima-廣島單車漫遊-和平之城的綠色騎行之旅-30db6f.html
 published: 2026-03-21
-quality_score: 7.5
+quality_score: 8.6
 tags: 廣島, 自行車騎行, 宮島, 日本旅遊, 瀨戶內海
 license: CC BY 4.0
 ---

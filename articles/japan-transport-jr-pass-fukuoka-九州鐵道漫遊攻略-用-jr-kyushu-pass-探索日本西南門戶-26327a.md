@@ -6,7 +6,7 @@ category: jr-pass
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-jr-pass-fukuoka-九州鐵道漫遊攻略-用-jr-kyushu-pass-探索日本西南門戶-26327a.html
 published: 2026-06-02
-quality_score: 7.5
+quality_score: 8.7
 tags: JR Kyushu Pass, 九州鐵道, 九州自由行, 博多交通, 日本鐵道周遊券
 license: CC BY 4.0
 ---

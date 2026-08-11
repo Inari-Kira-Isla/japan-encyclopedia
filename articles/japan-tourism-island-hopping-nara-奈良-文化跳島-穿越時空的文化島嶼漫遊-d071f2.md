@@ -6,7 +6,7 @@ category: island-hopping
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-island-hopping-nara-奈良-文化跳島-穿越時空的文化島嶼漫遊-d071f2.html
 published: 2026-06-24
-quality_score: 6.5
+quality_score: 8.5
 tags: 奈良文化跳島, 日本深度旅遊, 奈良町, 吉野山, 洞川溫泉
 license: CC BY 4.0
 ---

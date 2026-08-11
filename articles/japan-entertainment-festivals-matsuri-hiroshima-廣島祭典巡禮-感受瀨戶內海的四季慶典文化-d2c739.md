@@ -6,7 +6,7 @@ category: festivals-matsuri
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-festivals-matsuri-hiroshima-廣島祭典巡禮-感受瀨戶內海的四季慶典文化-d2c739.html
 published: 2026-03-15
-quality_score: 6.5
+quality_score: 8.8
 tags: 廣島, 祭典, 日本文化, 宮島, 和平紀念
 license: CC BY 4.0
 ---

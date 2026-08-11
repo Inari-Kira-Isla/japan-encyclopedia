@@ -6,7 +6,7 @@ category: ramen
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-ramen-osaka-大阪深夜拉麵-不夜城的深夜美食文化-b174c8.html
 published: 2026-04-06
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪拉麵, 深夜美食, 關西美食, 日本拉麵文化, 大阪夜生活
 license: CC BY 4.0
 ---

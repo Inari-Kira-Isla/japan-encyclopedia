@@ -6,7 +6,7 @@ category: day-trips
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-sendai-仙台週邊一日遊-本地人私藏的在地體驗地圖-054de8.html
 published: 2026-06-18
-quality_score: 6.5
+quality_score: 8.6
 tags: 仙台一日遊, 東北日本, 松島海岸, 鳴子溫泉, 阿武隈高原
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: temples-shrines
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-temples-shrines-kobe-神戶信仰散步-港都山海的能量景點與在地人的參拜日常-7f6fe3.html
 published: 2026-06-20
-quality_score: 6.5
+quality_score: 8.5
 tags: 神戶, 神社, 寺院, 參拜, 日本宗教
 license: CC BY 4.0
 ---

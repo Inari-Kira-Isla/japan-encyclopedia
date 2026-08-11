@@ -6,7 +6,7 @@ category: jr-pass
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-jr-pass-hokkaido-北海道jr-pass完全攻略-從新千歲機場開始的鐵道之旅-34000e.html
 published: 2026-06-23
-quality_score: 7.5
+quality_score: 8.4
 tags: 北海道, JR Pass, 鐵路周遊券, 日本交通, 北海道鐵道
 license: CC BY 4.0
 ---

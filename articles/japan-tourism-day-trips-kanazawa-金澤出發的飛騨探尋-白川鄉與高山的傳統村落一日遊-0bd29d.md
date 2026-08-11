@@ -6,7 +6,7 @@ category: day-trips
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-kanazawa-金澤出發的飛騨探尋-白川鄉與高山的傳統村落一日遊-0bd29d.html
 published: 2026-03-24
-quality_score: 6.5
+quality_score: 8.9
 tags: 金澤, 飛騨, 白川鄉, 高山, 合掌造
 license: CC BY 4.0
 ---

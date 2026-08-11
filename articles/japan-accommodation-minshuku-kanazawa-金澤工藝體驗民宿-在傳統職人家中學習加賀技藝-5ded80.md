@@ -6,7 +6,7 @@ category: minshuku
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-kanazawa-金澤工藝體驗民宿-在傳統職人家中學習加賀技藝-5ded80.html
 published: 2026-04-04
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤民宿, 工藝體驗, 職人文化, 傳統技藝, 深度旅行
 license: CC BY 4.0
 ---

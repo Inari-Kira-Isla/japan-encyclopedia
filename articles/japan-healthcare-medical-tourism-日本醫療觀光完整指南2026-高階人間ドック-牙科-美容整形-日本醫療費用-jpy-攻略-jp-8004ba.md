@@ -6,7 +6,7 @@ category: medical-tourism
 area: japan
 url: https://japan-encyclopedia.vercel.app/articles/japan-healthcare-medical-tourism-日本醫療觀光完整指南2026-高階人間ドック-牙科-美容整形-日本醫療費用-jpy-攻略-jp-8004ba.html
 published: 2026-03-30
-quality_score: 7.1
+quality_score: 8.6
 tags: 日本醫療旅遊, 人間Docket, 日本牙科, 日本美容整形, 亞洲醫療
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: kabuki-theatre
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-kabuki-theatre-tokyo-東京-kabuki-劇場完全指南-預算與體驗需求的分層推薦-f53644.html
 published: 2026-05-31
-quality_score: 6.5
+quality_score: 8.8
 tags: 東京Kabuki, Kabuki劇場, 日本傳統表演, 東京娛樂, 國立劇場
 license: CC BY 4.0
 ---

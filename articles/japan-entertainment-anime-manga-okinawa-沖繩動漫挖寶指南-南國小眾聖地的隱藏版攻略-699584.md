@@ -6,7 +6,7 @@ category: anime-manga
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-okinawa-沖繩動漫挖寶指南-南國小眾聖地的隱藏版攻略-699584.html
 published: 2026-07-01
-quality_score: 6.5
+quality_score: 8.5
 tags: 沖繩動漫, 日本動漫聖地, 沖繩旅遊, 動漫挖寶, 南國動漫
 license: CC BY 4.0
 ---

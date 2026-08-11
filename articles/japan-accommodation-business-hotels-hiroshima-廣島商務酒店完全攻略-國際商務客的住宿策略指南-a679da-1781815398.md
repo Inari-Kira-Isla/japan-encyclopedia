@@ -6,7 +6,7 @@ category: business-hotels
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-business-hotels-hiroshima-廣島商務酒店完全攻略-國際商務客的住宿策略指南-a679da-1781815398.html
 published: 2026-06-18
-quality_score: 6.5
+quality_score: 8.9
 tags: 廣島商務酒店, 商務出差, 日本住宿, 中國地區, 八丁堀
 license: CC BY 4.0
 ---

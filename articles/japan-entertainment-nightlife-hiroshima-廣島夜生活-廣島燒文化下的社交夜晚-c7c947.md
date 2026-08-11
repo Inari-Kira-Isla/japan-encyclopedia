@@ -6,7 +6,7 @@ category: nightlife
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-hiroshima-廣島夜生活-廣島燒文化下的社交夜晚-c7c947.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.9
 tags: 廣島夜生活, 廣島燒文化, 美食社交, 日本夜間文化, 廣島旅遊
 license: CC BY 4.0
 ---

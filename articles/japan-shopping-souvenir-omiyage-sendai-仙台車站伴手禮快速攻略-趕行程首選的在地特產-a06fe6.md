@@ -6,7 +6,7 @@ category: souvenir-omiyage
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-souvenir-omiyage-sendai-仙台車站伴手禮快速攻略-趕行程首選的在地特產-a06fe6.html
 published: 2026-06-27
-quality_score: 7.5
+quality_score: 8.6
 tags: 仙台, 伴手禮, 東北伴手禮, 車站周邊, 趕行程
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: escape-rooms
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-escape-rooms-hiroshima-廣島密室逃脫-vr科技與歷史記憶的沉浸式冒險-160ab3.html
 published: 2026-06-24
-quality_score: 6.5
+quality_score: 8.5
 tags: 廣島密室逃脫, VR密室, 廣島旅遊, 沉浸式體驗, 日本娛樂
 license: CC BY 4.0
 ---

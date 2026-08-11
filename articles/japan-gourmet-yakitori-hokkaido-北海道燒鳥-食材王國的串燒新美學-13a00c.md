@@ -6,7 +6,7 @@ category: yakitori
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-yakitori-hokkaido-北海道燒鳥-食材王國的串燒新美學-13a00c.html
 published: 2026-07-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道燒鳥, 室蘭豚串, 道產食材, 海鮮燒鳥, 日本美食
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: street-food
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-street-food-kyoto-京都四季街食巡禮-跟著節氣品嚐古都的時令美味-8db686.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.5
 tags: 京都美食, 街頭小食, 季節限定, 日本文化, 美食巡禮
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: capsule-hotels
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-capsule-hotels-hiroshima-廣島膠囊飯店完全指南-原子彈轟炸下的重生城市-24f772.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 8.5
 tags: 廣島住宿, 日本膠囊飯店, 瀨戶內海, 日本背包客, budget travel
 license: CC BY 4.0
 ---

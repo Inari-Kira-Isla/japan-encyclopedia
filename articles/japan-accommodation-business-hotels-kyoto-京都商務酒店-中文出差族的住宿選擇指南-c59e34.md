@@ -6,7 +6,7 @@ category: business-hotels
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-business-hotels-kyoto-京都商務酒店-中文出差族的住宿選擇指南-c59e34.html
 published: 2026-03-22
-quality_score: 6.5
+quality_score: 8.7
 tags: 京都商務酒店, 商務出差, 中文旅客, 日本住宿, 出差指南
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: gaming-arcades
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-gaming-arcades-okinawa-沖繩遊戲中心-雨季限定的室內娛樂寶藏-a91fa5.html
 published: 2026-06-22
-quality_score: 6.5
+quality_score: 8.5
 tags: 沖繩, 遊戲中心, 梅雨季, 室內娛樂, 家庭旅遊
 license: CC BY 4.0
 ---

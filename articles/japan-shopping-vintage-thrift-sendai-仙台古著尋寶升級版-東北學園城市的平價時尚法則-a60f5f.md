@@ -6,7 +6,7 @@ category: vintage-thrift
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-vintage-thrift-sendai-仙台古著尋寶升級版-東北學園城市的平價時尚法則-a60f5f.html
 published: 2026-06-03
-quality_score: 7.5
+quality_score: 8.7
 tags: 仙台古著, 日本東北購物, 平價古著攻略, 學生購物指南, 仙台旅行
 license: CC BY 4.0
 ---

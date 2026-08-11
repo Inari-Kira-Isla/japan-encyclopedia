@@ -6,7 +6,7 @@ category: okonomiyaki
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-okonomiyaki-kobe-神戶御好燒-港都的海味升級版-2dac7c.html
 published: 2026-06-09
-quality_score: 6.5
+quality_score: 8.7
 tags: 神戶美食, 御好燒, 瀨戶內海, 關西料理, 神戶必吃
 license: CC BY 4.0
 ---

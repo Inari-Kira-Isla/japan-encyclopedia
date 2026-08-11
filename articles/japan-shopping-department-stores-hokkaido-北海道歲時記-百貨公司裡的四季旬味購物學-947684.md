@@ -6,7 +6,7 @@ category: department-stores
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-department-stores-hokkaido-北海道歲時記-百貨公司裡的四季旬味購物學-947684.html
 published: 2026-06-16
-quality_score: 7.5
+quality_score: 8.4
 tags: 北海道, 百货公司, 购物, 伴手礼, 美食
 license: CC BY 4.0
 ---

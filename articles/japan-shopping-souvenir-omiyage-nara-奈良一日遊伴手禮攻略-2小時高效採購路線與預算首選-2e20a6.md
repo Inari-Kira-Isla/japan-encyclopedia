@@ -6,7 +6,7 @@ category: souvenir-omiyage
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-souvenir-omiyage-nara-奈良一日遊伴手禮攻略-2小時高效採購路線與預算首選-2e20a6.html
 published: 2026-06-19
-quality_score: 7.5
+quality_score: 8.7
 tags: 奈良伴手禮, 奈良必買, 奈良土產, 奈良購物, 奈良一日遊
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: festivals-matsuri
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-festivals-matsuri-kyoto-京都祭典的屋臺美食與夏夜狂歡-當地人帶路的祭典體驗指南-8c16f7.html
 published: 2026-04-02
-quality_score: 6.5
+quality_score: 8.7
 tags: 京都祭典, 祇園祭, 屋台美食, 夏日祭典, 京都自由行
 license: CC BY 4.0
 ---

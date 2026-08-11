@@ -6,7 +6,7 @@ category: vintage-thrift
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-vintage-thrift-hokkaido-北海道古著尋寶-二世古與支笏湖周邊的冬季限定時尚-978aa3.html
 published: 2026-06-02
-quality_score: 7.5
+quality_score: 8.0
 tags: 北海道古著, 二世古挖寶, 支笏湖二手店, 雪國時尚, 日本古著攻略
 license: CC BY 4.0
 ---

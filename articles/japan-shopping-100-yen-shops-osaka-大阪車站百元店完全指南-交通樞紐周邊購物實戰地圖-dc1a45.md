@@ -6,7 +6,7 @@ category: 100-yen-shops
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-100-yen-shops-osaka-大阪車站百元店完全指南-交通樞紐周邊購物實戰地圖-dc1a45.html
 published: 2026-06-20
-quality_score: 7.5
+quality_score: 8.8
 tags: 大阪購物, 100円商店, 關西交通, 大阪車站, 平價購物
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: tempura
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tempura-kyoto-京都天婦羅-京料理出汁-隱藏在湯汁中的酥脆秘密-40ba11.html
 published: 2026-06-22
-quality_score: 6.5
+quality_score: 8.8
 tags: 京都天婦羅, 京料理, 出汁, 天婦羅推薦, 京都美食
 license: CC BY 4.0
 ---

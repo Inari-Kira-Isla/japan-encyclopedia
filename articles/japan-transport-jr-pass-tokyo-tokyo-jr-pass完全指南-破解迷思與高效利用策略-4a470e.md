@@ -6,7 +6,7 @@ category: jr-pass
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-jr-pass-tokyo-tokyo-jr-pass完全指南-破解迷思與高效利用策略-4a470e.html
 published: 2026-06-04
-quality_score: 7.5
+quality_score: 8.7
 tags: 東京交通, JR Pass教學, 東京自由行, 日光温泉, 富士山
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: sumo
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-sendai-仙台相撲-牛舌與相撲火鍋的東北味覺巡禮-f24b85.html
 published: 2026-06-09
-quality_score: 6.5
+quality_score: 8.7
 tags: 仙台相撲, 相撲火鍋, 東北美食, 仙台旅行, 日本文化體驗
 license: CC BY 4.0
 ---

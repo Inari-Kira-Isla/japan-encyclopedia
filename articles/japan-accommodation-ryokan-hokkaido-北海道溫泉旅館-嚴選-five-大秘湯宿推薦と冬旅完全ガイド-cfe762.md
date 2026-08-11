@@ -6,7 +6,7 @@ category: ryokan
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-hokkaido-北海道溫泉旅館-嚴選-five-大秘湯宿推薦と冬旅完全ガイド-cfe762.html
 published: 2026-06-03
-quality_score: 6.5
+quality_score: 8.5
 tags: 北海道溫泉, Ryokan推薦, 溫泉旅馆, 登別溫泉, 洞爺湖溫泉
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: buses
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-buses-fukuoka-福岡公車系統深度攻略-你想不到的在地移動方式-b4cc4a.html
 published: 2026-05-25
-quality_score: 7.5
+quality_score: 8.6
 tags: 福岡公車, 九州交通, 西鐵巴士, 太宰府交通, 柳川交通
 license: CC BY 4.0
 ---

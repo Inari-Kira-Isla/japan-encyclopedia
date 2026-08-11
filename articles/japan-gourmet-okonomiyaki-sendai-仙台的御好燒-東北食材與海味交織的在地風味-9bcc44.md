@@ -6,7 +6,7 @@ category: okonomiyaki
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-okonomiyaki-sendai-仙台的御好燒-東北食材與海味交織的在地風味-9bcc44.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 9.0
 tags: 仙台美食, 東北料理, 御好燒, 海鮮美食, 日本料理
 license: CC BY 4.0
 ---

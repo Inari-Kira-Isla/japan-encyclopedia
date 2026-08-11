@@ -6,7 +6,7 @@ category: shinkansen
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-hokkaido-北海道新幹線の現在與未來-聯絡日本本州的鐵道夢想-47a732.html
 published: 2026-06-01
-quality_score: 7.5
+quality_score: 8.7
 tags: 北海道, 新干线, 日本铁路, 铁道旅游, 北海道交通
 license: CC BY 4.0
 ---

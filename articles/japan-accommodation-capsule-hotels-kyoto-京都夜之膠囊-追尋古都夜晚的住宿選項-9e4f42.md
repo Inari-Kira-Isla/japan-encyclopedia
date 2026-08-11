@@ -6,7 +6,7 @@ category: capsule-hotels
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-capsule-hotels-kyoto-京都夜之膠囊-追尋古都夜晚的住宿選項-9e4f42.html
 published: 2026-07-03
-quality_score: 6.5
+quality_score: 8.6
 tags: 京都膠囊旅館, 京都住宿推薦, 古都夜遊, 京都自由行, 日本膠囊飯店
 license: CC BY 4.0
 ---

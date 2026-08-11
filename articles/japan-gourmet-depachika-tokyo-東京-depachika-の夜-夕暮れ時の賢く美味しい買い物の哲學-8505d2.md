@@ -6,7 +6,7 @@ category: depachika
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-depachika-tokyo-東京-depachika-の夜-夕暮れ時の賢く美味しい買い物の哲學-8505d2.html
 published: 2026-05-20
-quality_score: 6.5
+quality_score: 9.0
 tags: depachika, 新宿, 渋谷, 秋葉原, 東京美食
 license: CC BY 4.0
 ---

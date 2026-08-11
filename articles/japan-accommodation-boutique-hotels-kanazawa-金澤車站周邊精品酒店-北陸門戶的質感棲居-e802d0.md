@@ -6,7 +6,7 @@ category: boutique-hotels
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-kanazawa-金澤車站周邊精品酒店-北陸門戶的質感棲居-e802d0.html
 published: 2026-06-10
-quality_score: 6.5
+quality_score: 8.6
 tags: 金澤, 精品酒店, 北陸, 加賀百萬石, 金澤車站
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: sake-brewery
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sake-brewery-kanazawa-金澤釀酒地圖-從加賀百萬石到現代釀造-北陸清酒的在地風土學-f93321.html
 published: 2026-06-25
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤, 石川縣, 清酒, 釀造廠, 日本料理
 license: CC BY 4.0
 ---

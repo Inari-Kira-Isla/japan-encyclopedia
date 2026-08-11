@@ -6,7 +6,7 @@ category: tonkatsu
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tonkatsu-kanazawa-金澤炸豬排-不是名物卻意外美味的在地選擇-9db7b2.html
 published: 2026-05-31
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤美食, 金澤炸豬排, 石川縣美食, 日本海沿岸料理, 金澤餐廳推薦
 license: CC BY 4.0
 ---

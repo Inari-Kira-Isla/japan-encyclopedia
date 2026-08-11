@@ -6,7 +6,7 @@ category: craft-markets
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-craft-markets-kobe-神戶手作散步地圖-港都山海間的工藝小徑-42e7dc.html
 published: 2026-06-16
-quality_score: 7.5
+quality_score: 8.4
 tags: 神戶, craft-markets, 手作市集, 工藝, 日本購物
 license: CC BY 4.0
 ---

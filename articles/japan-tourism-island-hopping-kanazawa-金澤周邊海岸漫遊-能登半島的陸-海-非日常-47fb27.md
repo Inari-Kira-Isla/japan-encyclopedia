@@ -6,7 +6,7 @@ category: island-hopping
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-island-hopping-kanazawa-金澤周邊海岸漫遊-能登半島的陸-海-非日常-47fb27.html
 published: 2026-06-21
-quality_score: 6.5
+quality_score: 8.6
 tags: 金澤, 能登半島, 日本海, 輪島, 自駕
 license: CC BY 4.0
 ---

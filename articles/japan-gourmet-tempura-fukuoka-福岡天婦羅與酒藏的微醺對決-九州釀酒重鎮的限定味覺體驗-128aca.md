@@ -6,7 +6,7 @@ category: tempura
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tempura-fukuoka-福岡天婦羅與酒藏的微醺對決-九州釀酒重鎮的限定味覺體驗-128aca.html
 published: 2026-06-23
-quality_score: 6.5
+quality_score: 8.8
 tags: 福岡天婦羅, 九州清酒, 屋台文化, 博多元助, 天神美食
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: ski-resorts
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-ski-resorts-hokkaido-北海道滑雪場進階攻略-中高階滑雪者的私房路線與在地隱藏版-1a476f.html
 published: 2026-05-22
-quality_score: 6.5
+quality_score: 8.5
 tags: 北海道滑雪場, 中高級滑雪, 野雪指南, 在地推薦, 粉雪天堂
 license: CC BY 4.0
 ---

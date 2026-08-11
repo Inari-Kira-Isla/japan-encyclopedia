@@ -6,7 +6,7 @@ category: izakaya
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-izakaya-hokkaido-北海道居酒屋的深夜選擇-札幌薄野不為人知的酒場文化-ad062e.html
 published: 2026-06-06
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道居酒屋, 札幌薄野, 北海道美食, 日本酒吧, 札幌夜生活
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: boutique-hotels
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-hokkaido-北海道雪國之外的精品棲居-遠離人潮的在地住宿選擇-90f1d3.html
 published: 2026-06-08
-quality_score: 6.5
+quality_score: 8.5
 tags: 北海道精品酒店, 二世古住宿, 北海道自駕住宿, 北海道秘境溫泉, 日本滑雪度假村
 license: CC BY 4.0
 ---

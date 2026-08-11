@@ -6,7 +6,7 @@ category: kabuki-theatre
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-kabuki-theatre-hokkaido-北海道表演藝術場館完全攻略-沒有傳統kabuki也可以這樣玩-983a04.html
 published: 2026-05-22
-quality_score: 6.5
+quality_score: 8.9
 tags: Hokkaido, 表演藝術, 劇場, 日本文化, 旅遊Guide
 license: CC BY 4.0
 ---

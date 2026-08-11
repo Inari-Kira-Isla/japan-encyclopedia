@@ -6,7 +6,7 @@ category: depachika
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-depachika-fukuoka-福岡depachika的專業級美食探索-從食材供應鏈認識九州廚房的核心-719589.html
 published: 2026-07-02
-quality_score: 6.5
+quality_score: 8.9
 tags: 福岡Depachika, 九州食材, 博多美食, 地下商場, 明太子
 license: CC BY 4.0
 ---

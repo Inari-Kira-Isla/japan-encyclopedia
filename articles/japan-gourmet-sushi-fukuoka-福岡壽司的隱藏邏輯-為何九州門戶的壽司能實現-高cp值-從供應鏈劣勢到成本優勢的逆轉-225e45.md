@@ -6,7 +6,7 @@ category: sushi
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sushi-fukuoka-福岡壽司的隱藏邏輯-為何九州門戶的壽司能實現-高cp值-從供應鏈劣勢到成本優勢的逆轉-225e45.html
 published: 2026-06-29
-quality_score: 6.5
+quality_score: 8.7
 tags: 福岡壽司, 博多美食, 九州海鮮, 屋台文化, 日本美食
 license: CC BY 4.0
 ---

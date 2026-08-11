@@ -6,7 +6,7 @@ category: nature-trails
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-nagoya-名古屋周邊秘境車站輕健行-搭火車去尋找被時光遺忘的山徑-ca0072.html
 published: 2026-07-06
-quality_score: 6.5
+quality_score: 8.7
 tags: 名古屋自然步道, 秘境車站, 鐵道健行, 日本中部, 輕健行
 license: CC BY 4.0
 ---

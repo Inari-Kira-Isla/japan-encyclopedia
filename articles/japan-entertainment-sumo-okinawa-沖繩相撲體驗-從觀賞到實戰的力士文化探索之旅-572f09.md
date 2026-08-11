@@ -6,7 +6,7 @@ category: sumo
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-okinawa-沖繩相撲體驗-從觀賞到實戰的力士文化探索之旅-572f09.html
 published: 2026-04-06
-quality_score: 6.5
+quality_score: 8.6
 tags: 沖繩, 相撲, 體育體驗, 傳統文化, 親子活動
 license: CC BY 4.0
 ---

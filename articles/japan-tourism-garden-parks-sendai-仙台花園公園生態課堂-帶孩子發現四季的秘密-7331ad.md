@@ -6,7 +6,7 @@ category: garden-parks
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-sendai-仙台花園公園生態課堂-帶孩子發現四季的秘密-7331ad.html
 published: 2026-03-23
-quality_score: 6.5
+quality_score: 8.6
 tags: 仙台, 花園公園, 親子教育, 四季生態, 自然觀察
 license: CC BY 4.0
 ---

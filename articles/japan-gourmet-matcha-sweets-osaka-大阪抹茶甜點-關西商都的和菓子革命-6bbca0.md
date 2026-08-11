@@ -6,7 +6,7 @@ category: matcha-sweets
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-matcha-sweets-osaka-大阪抹茶甜點-關西商都的和菓子革命-6bbca0.html
 published: 2026-04-01
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪美食, 抹茶甜點, 和菓子, 關西文化, 日式甜品
 license: CC BY 4.0
 ---

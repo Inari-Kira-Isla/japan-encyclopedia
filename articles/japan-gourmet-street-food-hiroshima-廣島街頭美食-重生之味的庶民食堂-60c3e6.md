@@ -6,7 +6,7 @@ category: street-food
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-street-food-hiroshima-廣島街頭美食-重生之味的庶民食堂-60c3e6.html
 published: 2026-04-04
-quality_score: 6.5
+quality_score: 8.8
 tags: 廣島美食, 街頭小吃, 御好燒, 瀨戶內海, 屋台文化
 license: CC BY 4.0
 ---

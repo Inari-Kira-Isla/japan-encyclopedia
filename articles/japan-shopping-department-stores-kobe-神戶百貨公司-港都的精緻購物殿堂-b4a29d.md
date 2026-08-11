@@ -6,7 +6,7 @@ category: department-stores
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-department-stores-kobe-神戶百貨公司-港都的精緻購物殿堂-b4a29d.html
 published: 2026-03-15
-quality_score: 7.5
+quality_score: 8.5
 tags: 神戶購物, 百貨公司, 三宮, 元町, 關西旅遊
 license: CC BY 4.0
 ---

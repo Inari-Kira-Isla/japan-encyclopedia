@@ -6,7 +6,7 @@ category: yakitori
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-yakitori-kyoto-京都燒鳥-銘柄雞的千年古都對決-439e3f.html
 published: 2026-05-22
-quality_score: 6.5
+quality_score: 8.5
 tags: 京都燒鳥, 銘柄雞, 西陣, 先斗町, 京料理
 license: CC BY 4.0
 ---

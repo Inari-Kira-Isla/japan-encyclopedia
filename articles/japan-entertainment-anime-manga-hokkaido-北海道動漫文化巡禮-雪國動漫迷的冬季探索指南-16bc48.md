@@ -6,7 +6,7 @@ category: anime-manga
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-hokkaido-北海道動漫文化巡禮-雪國動漫迷的冬季探索指南-16bc48.html
 published: 2026-06-15
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道動漫, 札幌動漫店, 雪國動漫旅行, 北海道溫泉, 二世谷滑雪
 license: CC BY 4.0
 ---

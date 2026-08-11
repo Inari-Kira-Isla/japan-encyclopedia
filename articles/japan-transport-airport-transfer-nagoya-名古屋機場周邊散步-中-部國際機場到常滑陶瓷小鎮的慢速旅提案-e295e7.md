@@ -6,7 +6,7 @@ category: airport-transfer
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-airport-transfer-nagoya-名古屋機場周邊散步-中-部國際機場到常滑陶瓷小鎮的慢速旅提案-e295e7.html
 published: 2026-05-24
-quality_score: 7.5
+quality_score: 8.5
 tags: 名古屋機場交通, 中部國際機場, 常滑陶瓷, 知多半島旅遊, 機場周邊玩法
 license: CC BY 4.0
 ---

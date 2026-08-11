@@ -6,7 +6,7 @@ category: ferries
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-ferries-kanazawa-金澤日本海跳島航線-從金澤港出發的海上秘境探索-60184f.html
 published: 2026-06-07
-quality_score: 7.5
+quality_score: 8.6
 tags: 金澤交通, 能登半島, 日本海渡輪, 金澤港, 輪島
 license: CC BY 4.0
 ---

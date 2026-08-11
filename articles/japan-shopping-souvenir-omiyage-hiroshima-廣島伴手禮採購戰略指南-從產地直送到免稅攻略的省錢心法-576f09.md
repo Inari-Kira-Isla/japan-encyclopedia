@@ -6,7 +6,7 @@ category: souvenir-omiyage
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-souvenir-omiyage-hiroshima-廣島伴手禮採購戰略指南-從產地直送到免稅攻略的省錢心法-576f09.html
 published: 2026-04-05
-quality_score: 7.5
+quality_score: 8.7
 tags: 廣島購物, 伴手禮攻略, 免稅購物, 日本特產, 省錢策略
 license: CC BY 4.0
 ---

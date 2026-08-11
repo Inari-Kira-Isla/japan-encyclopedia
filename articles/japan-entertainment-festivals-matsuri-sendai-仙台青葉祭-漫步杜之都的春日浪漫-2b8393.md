@@ -6,7 +6,7 @@ category: festivals-matsuri
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-festivals-matsuri-sendai-仙台青葉祭-漫步杜之都的春日浪漫-2b8393.html
 published: 2026-07-02
-quality_score: 6.5
+quality_score: 8.7
 tags: 仙台祭典, 青葉祭, 日本春季祭典, 杜之都, 東北地方
 license: CC BY 4.0
 ---

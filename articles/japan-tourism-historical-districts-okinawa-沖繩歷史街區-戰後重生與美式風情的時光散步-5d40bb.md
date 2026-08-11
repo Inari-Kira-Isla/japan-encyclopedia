@@ -6,7 +6,7 @@ category: historical-districts
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-okinawa-沖繩歷史街區-戰後重生與美式風情的時光散步-5d40bb.html
 published: 2026-04-06
-quality_score: 6.5
+quality_score: 8.7
 tags: 沖繩, 歷史街區, 戰後重建, 那霸市, 琉球文化
 license: CC BY 4.0
 ---

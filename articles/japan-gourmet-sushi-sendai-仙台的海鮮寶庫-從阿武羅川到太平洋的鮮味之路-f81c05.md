@@ -6,7 +6,7 @@ category: sushi
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sushi-sendai-仙台的海鮮寶庫-從阿武羅川到太平洋的鮮味之路-f81c05.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 8.7
 tags: 仙台美食, 日本壽司, 東北必吃, 海鮮料理, 在地美食
 license: CC BY 4.0
 ---

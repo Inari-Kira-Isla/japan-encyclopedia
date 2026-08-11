@@ -6,7 +6,7 @@ category: vr-experiences
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-vr-experiences-kanazawa-金澤vr體驗-加賀百萬石的虛擬時空之旅-238a72.html
 published: 2026-05-20
-quality_score: 6.5
+quality_score: 8.5
 tags: 金澤VR, 加賀百万石, 金澤體驗, 石川縣vr, 日本vr體驗
 license: CC BY 4.0
 ---

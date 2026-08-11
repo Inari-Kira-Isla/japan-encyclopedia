@@ -6,7 +6,7 @@ category: historical-districts
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-hokkaido-北海道歷史街區-產業記憶與時代軌跡的深度旅遊-34a6d7.html
 published: 2026-06-13
-quality_score: 6.5
+quality_score: 8.5
 tags: 北海道, 歷史街區, 小樽, 札幌, 函館
 license: CC BY 4.0
 ---

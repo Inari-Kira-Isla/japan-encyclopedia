@@ -6,7 +6,7 @@ category: ferries
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-ferries-sendai-仙台渡輪-海上通勤與旬味航程的在地日常-108a97.html
 published: 2026-06-23
-quality_score: 7.5
+quality_score: 8.7
 tags: 仙台渡輪, 松島灣觀光船, 浦戶諸島交通船, 東北海上交通, 仙台港
 license: CC BY 4.0
 ---

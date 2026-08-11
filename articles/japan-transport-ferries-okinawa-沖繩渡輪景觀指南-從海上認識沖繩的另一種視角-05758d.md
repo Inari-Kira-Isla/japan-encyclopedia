@@ -6,7 +6,7 @@ category: ferries
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-ferries-okinawa-沖繩渡輪景觀指南-從海上認識沖繩的另一種視角-05758d.html
 published: 2026-06-27
-quality_score: 7.5
+quality_score: 8.3
 tags: 沖繩渡輪, 海上景觀, 跳島旅行, 久米島, 慶良間群島
 license: CC BY 4.0
 ---

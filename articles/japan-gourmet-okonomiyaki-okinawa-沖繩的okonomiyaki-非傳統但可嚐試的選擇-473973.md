@@ -6,7 +6,7 @@ category: okonomiyaki
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-okonomiyaki-okinawa-沖繩的okonomiyaki-非傳統但可嚐試的選擇-473973.html
 published: 2026-04-07
-quality_score: 6.5
+quality_score: 8.6
 tags: 沖繩美食, 御好燒, 那霸餐廳, 日本料理, 鐵板燒
 license: CC BY 4.0
 ---

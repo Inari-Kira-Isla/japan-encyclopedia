@@ -6,7 +6,7 @@ category: temples-shrines
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-temples-shrines-osaka-大阪商人信仰指南-在天下廚房探訪實用型寺廟神社-688129.html
 published: 2026-04-06
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪神社, 商人信仰, 都市寺廟, 庶民文化, 實用參拜
 license: CC BY 4.0
 ---

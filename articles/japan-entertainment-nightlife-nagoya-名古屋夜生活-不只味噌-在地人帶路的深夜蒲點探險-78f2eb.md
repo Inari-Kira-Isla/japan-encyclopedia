@@ -6,7 +6,7 @@ category: nightlife
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-nagoya-名古屋夜生活-不只味噌-在地人帶路的深夜蒲點探險-78f2eb.html
 published: 2026-05-24
-quality_score: 6.5
+quality_score: 8.5
 tags: 名古屋夜生活, 日本夜生活, 中部旅行, 居酒屋指南, 名古屋自由行
 license: CC BY 4.0
 ---

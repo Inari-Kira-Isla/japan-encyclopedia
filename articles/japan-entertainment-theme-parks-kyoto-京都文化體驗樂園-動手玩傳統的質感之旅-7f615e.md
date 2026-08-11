@@ -6,7 +6,7 @@ category: theme-parks
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-theme-parks-kyoto-京都文化體驗樂園-動手玩傳統的質感之旅-7f615e.html
 published: 2026-07-03
-quality_score: 6.5
+quality_score: 8.6
 tags: 京都主题乐园, 京都文化体验, 京都传统工艺, 京都和服体验, 京都亲子游
 license: CC BY 4.0
 ---

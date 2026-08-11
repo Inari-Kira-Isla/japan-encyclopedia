@@ -6,7 +6,7 @@ category: vintage-thrift
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-vintage-thrift-sendai-仙台古著市場潛規則-東北古城尋寶的內行人才知道的購物邏輯-7a6b3d.html
 published: 2026-06-20
-quality_score: 7.5
+quality_score: 8.7
 tags: 仙台古著, 日本東北購物, 二手古著, 復古時尚, 國分町
 license: CC BY 4.0
 ---

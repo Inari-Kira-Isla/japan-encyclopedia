@@ -6,7 +6,7 @@ category: theme-parks
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-theme-parks-sendai-仙台主題樂園隱藏版指南-東北在地人帶路的非主流玩樂體驗-1fac77.html
 published: 2026-06-25
-quality_score: 6.5
+quality_score: 8.5
 tags: 仙台主題樂園, 東北溫泉體驗, 日本遊戲中心, 仙台親子遊, 日本溫泉樂園
 license: CC BY 4.0
 ---

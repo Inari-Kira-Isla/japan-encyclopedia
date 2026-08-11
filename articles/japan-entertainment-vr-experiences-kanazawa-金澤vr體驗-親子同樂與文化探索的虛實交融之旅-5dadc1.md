@@ -6,7 +6,7 @@ category: vr-experiences
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-vr-experiences-kanazawa-金澤vr體驗-親子同樂與文化探索的虛實交融之旅-5dadc1.html
 published: 2026-06-17
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤VR, 親子活動, 日本虛擬實境, 北陸旅遊, 家庭同樂
 license: CC BY 4.0
 ---

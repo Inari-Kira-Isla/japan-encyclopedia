@@ -6,7 +6,7 @@ category: boutique-hotels
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-nagoya-名古屋精品住宿-體驗-產業之都-職人工精神的質感居所-0ab641.html
 published: 2026-06-08
-quality_score: 6.5
+quality_score: 8.8
 tags: 名古屋, 精品住宿, 產業之都, 職人精神, 設計旅宿
 license: CC BY 4.0
 ---

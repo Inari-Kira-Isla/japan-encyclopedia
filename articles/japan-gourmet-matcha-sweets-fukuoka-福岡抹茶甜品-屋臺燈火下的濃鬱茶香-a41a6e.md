@@ -6,7 +6,7 @@ category: matcha-sweets
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-matcha-sweets-fukuoka-福岡抹茶甜品-屋臺燈火下的濃鬱茶香-a41a6e.html
 published: 2026-06-30
-quality_score: 6.5
+quality_score: 8.6
 tags: 福岡抹茶甜品, 屋台文化, 八女茶, 天神美食, 九州甜點
 license: CC BY 4.0
 ---

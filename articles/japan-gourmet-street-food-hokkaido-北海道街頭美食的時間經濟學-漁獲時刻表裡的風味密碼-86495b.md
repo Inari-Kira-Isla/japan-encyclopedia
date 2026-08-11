@@ -6,7 +6,7 @@ category: street-food
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-street-food-hokkaido-北海道街頭美食的時間經濟學-漁獲時刻表裡的風味密碼-86495b.html
 published: 2026-06-16
-quality_score: 6.5
+quality_score: 8.8
 tags: 北海道, 街頭美食, 海鮮, 時間經濟學, 清晨市場
 license: CC BY 4.0
 ---

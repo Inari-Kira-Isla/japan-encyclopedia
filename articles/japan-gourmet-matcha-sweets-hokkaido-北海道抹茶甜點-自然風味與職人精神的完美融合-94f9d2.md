@@ -6,7 +6,7 @@ category: matcha-sweets
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-matcha-sweets-hokkaido-北海道抹茶甜點-自然風味與職人精神的完美融合-94f9d2.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 8.8
 tags: 北海道, 抹茶甜點, 札幌, 小樽, 旭川
 license: CC BY 4.0
 ---

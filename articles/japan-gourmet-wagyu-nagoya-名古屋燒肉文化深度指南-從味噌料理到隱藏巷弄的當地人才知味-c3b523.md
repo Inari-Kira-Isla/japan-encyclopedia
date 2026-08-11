@@ -6,7 +6,7 @@ category: wagyu
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-wagyu-nagoya-名古屋燒肉文化深度指南-從味噌料理到隱藏巷弄的當地人才知味-c3b523.html
 published: 2026-06-15
-quality_score: 6.5
+quality_score: 8.6
 tags: 名古屋燒肉, 和牛, 名古屋美食, 中部美食, 日本燒肉
 license: CC BY 4.0
 ---

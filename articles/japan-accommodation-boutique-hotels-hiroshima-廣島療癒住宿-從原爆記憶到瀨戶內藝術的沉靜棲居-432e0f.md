@@ -6,7 +6,7 @@ category: boutique-hotels
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-hiroshima-廣島療癒住宿-從原爆記憶到瀨戶內藝術的沉靜棲居-432e0f.html
 published: 2026-06-10
-quality_score: 6.5
+quality_score: 8.6
 tags: 廣島住宿, 精品飯店, 和平之旅, 宮島住宿, 瀨戶內藝術
 license: CC BY 4.0
 ---

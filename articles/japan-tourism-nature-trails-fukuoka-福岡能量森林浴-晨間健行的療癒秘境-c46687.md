@@ -6,7 +6,7 @@ category: nature-trails
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-fukuoka-福岡能量森林浴-晨間健行的療癒秘境-c46687.html
 published: 2026-06-23
-quality_score: 6.5
+quality_score: 8.6
 tags: 福岡自然步道, 晨間健行, 森林浴, 能量景點, 九州戶外
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: airport-transfer
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-airport-transfer-fukuoka-福岡機場深夜清晨交通攻略-紅眼航班與早班機的求生指南-c9b6f1.html
 published: 2026-06-19
-quality_score: 7.5
+quality_score: 8.4
 tags: 福岡機場交通, 紅眼航班, 清晨航班, 福岡機場深夜交通, 日本機場接送
 license: CC BY 4.0
 ---

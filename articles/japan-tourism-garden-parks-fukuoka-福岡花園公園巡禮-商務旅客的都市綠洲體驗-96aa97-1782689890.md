@@ -6,7 +6,7 @@ category: garden-parks
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-fukuoka-福岡花園公園巡禮-商務旅客的都市綠洲體驗-96aa97-1782689890.html
 published: 2026-06-28
-quality_score: 6.5
+quality_score: 8.8
 tags: 福岡, 花園公園, 商務旅行, 都市綠洲, 日本旅遊
 license: CC BY 4.0
 ---

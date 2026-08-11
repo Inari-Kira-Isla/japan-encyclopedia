@@ -6,7 +6,7 @@ category: airport-transfer
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-airport-transfer-nagoya-名古屋中部國際空港交通寶典-目的地導向的選線思維與實戰方案-6c0db7.html
 published: 2026-06-30
-quality_score: 7.5
+quality_score: 8.5
 tags: 名古屋機場交通, 中部國際空港, 名鐵μ-SKY, 利木津巴士, 名古屋交通指南
 license: CC BY 4.0
 ---

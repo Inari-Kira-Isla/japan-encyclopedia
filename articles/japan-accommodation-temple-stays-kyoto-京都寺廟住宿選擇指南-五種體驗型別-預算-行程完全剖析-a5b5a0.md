@@ -6,7 +6,7 @@ category: temple-stays
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-temple-stays-kyoto-京都寺廟住宿選擇指南-五種體驗型別-預算-行程完全剖析-a5b5a0.html
 published: 2026-03-23
-quality_score: 6.5
+quality_score: 8.3
 tags: 京都住宿, 寺廟體驗, 禪修旅遊, 日本文化體驗, 預訂指南
 license: CC BY 4.0
 ---

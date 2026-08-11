@@ -6,7 +6,7 @@ category: capsule-hotels
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-capsule-hotels-kyoto-京都膠囊旅館-體驗古都日常的經濟選擇-ba3151.html
 published: 2026-07-01
-quality_score: 6.5
+quality_score: 8.8
 tags: 京都, 膠囊旅館, 日本住宿, 京都旅遊, 經濟住宿
 license: CC BY 4.0
 ---

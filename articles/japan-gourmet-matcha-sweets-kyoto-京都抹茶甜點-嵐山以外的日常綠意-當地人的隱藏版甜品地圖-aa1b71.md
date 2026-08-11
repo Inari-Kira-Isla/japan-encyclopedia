@@ -6,7 +6,7 @@ category: matcha-sweets
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-matcha-sweets-kyoto-京都抹茶甜點-嵐山以外的日常綠意-當地人的隱藏版甜品地圖-aa1b71.html
 published: 2026-06-26
-quality_score: 6.5
+quality_score: 8.7
 tags: 京都美食, 抹茶甜點, 京都自由行, 在地推薦, 關西旅行
 license: CC BY 4.0
 ---

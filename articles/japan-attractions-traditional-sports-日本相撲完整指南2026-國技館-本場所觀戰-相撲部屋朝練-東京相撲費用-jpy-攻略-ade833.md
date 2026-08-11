@@ -6,7 +6,7 @@ category: traditional-sports
 area: japan
 url: https://japan-encyclopedia.vercel.app/articles/japan-attractions-traditional-sports-日本相撲完整指南2026-國技館-本場所觀戰-相撲部屋朝練-東京相撲費用-jpy-攻略-ade833.html
 published: 2026-04-28
-quality_score: 7.1
+quality_score: 8.5
 tags: 日本相撲, 國技館, 相撲本場所, ちゃんこ鍋, 兩國相撲
 license: CC BY 4.0
 ---

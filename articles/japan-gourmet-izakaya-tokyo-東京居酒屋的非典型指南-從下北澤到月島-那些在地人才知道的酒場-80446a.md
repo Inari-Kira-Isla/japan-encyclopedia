@@ -6,7 +6,7 @@ category: izakaya
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-izakaya-tokyo-東京居酒屋的非典型指南-從下北澤到月島-那些在地人才知道的酒場-80446a.html
 published: 2026-05-21
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京居酒屋, 下北澤美食, 月島文字燒, 神樂坂酒吧, 東京夜生活
 license: CC BY 4.0
 ---

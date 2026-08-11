@@ -6,7 +6,7 @@ category: izakaya
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-izakaya-osaka-大阪居酒屋完全指南-品味關西人的深夜食堂-dea85b.html
 published: 2026-04-07
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪居酒屋, 關西美食, 日本旅遊, 道地美食, 酒場文化
 license: CC BY 4.0
 ---

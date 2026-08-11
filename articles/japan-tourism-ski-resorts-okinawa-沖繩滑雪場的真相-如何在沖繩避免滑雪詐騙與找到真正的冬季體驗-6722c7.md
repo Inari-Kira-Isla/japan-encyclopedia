@@ -6,7 +6,7 @@ category: ski-resorts
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-ski-resorts-okinawa-沖繩滑雪場的真相-如何在沖繩避免滑雪詐騙與找到真正的冬季體驗-6722c7.html
 published: 2026-06-06
-quality_score: 6.5
+quality_score: 8.5
 tags: 沖繩滑雪真相, 冬季沖繩旅遊, 亞熱帶滑雪, 沖繩旅遊攻略, 日本滑雪替代方案
 license: CC BY 4.0
 ---

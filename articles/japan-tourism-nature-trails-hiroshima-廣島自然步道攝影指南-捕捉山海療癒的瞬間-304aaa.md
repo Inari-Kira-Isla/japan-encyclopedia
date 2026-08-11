@@ -6,7 +6,7 @@ category: nature-trails
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-hiroshima-廣島自然步道攝影指南-捕捉山海療癒的瞬間-304aaa.html
 published: 2026-06-30
-quality_score: 6.5
+quality_score: 8.5
 tags: 廣島自然步道, 廣島攝影, 廣島健行, 大步危峽谷, 日本自然寫真
 license: CC BY 4.0
 ---

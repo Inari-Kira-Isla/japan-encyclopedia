@@ -6,7 +6,7 @@ category: ramen
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-ramen-osaka-大阪拉麵-千元有找的巷弄庶民美味-d98a39.html
 published: 2026-06-17
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪拉麵, 關西拉麵, 日本拉麵, 大阪美食, 庶民美食
 license: CC BY 4.0
 ---

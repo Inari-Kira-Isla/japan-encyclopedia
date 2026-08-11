@@ -6,7 +6,7 @@ category: boutique-hotels
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-osaka-大阪平價精品酒店-吃遍天下廚房的住宿冒險-5e8bcd.html
 published: 2026-06-22
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪精品酒店, 大阪住宿, 關西自由行, 平價旅行, 日本橋住宿
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: castle-towns
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-castle-towns-sendai-仙台城堡小鎮的非典型探索-從武家料理到在地工房的日常風景-3794cc.html
 published: 2026-05-22
-quality_score: 6.5
+quality_score: 8.6
 tags: 仙台, 城堡小鎮, 非典型景點, 東北深度遊, 武家文化
 license: CC BY 4.0
 ---

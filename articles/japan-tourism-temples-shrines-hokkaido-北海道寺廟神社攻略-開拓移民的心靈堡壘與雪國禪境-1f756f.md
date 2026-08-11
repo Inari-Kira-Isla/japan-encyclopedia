@@ -6,7 +6,7 @@ category: temples-shrines
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-temples-shrines-hokkaido-北海道寺廟神社攻略-開拓移民的心靈堡壘與雪國禪境-1f756f.html
 published: 2026-04-07
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道寺廟, 神社參拜, 日本宗教文化, 開拓歷史, 雪國靈修
 license: CC BY 4.0
 ---

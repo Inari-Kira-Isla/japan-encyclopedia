@@ -6,7 +6,7 @@ category: sumo
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-hokkaido-北海道相撲-雪國大地上的力士之夢-55f3ef.html
 published: 2026-06-15
-quality_score: 6.5
+quality_score: 8.5
 tags: 北海道相撲, 雪國運動, 大學相撲, 相撲火鍋, 北海道體驗
 license: CC BY 4.0
 ---

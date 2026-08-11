@@ -6,7 +6,7 @@ category: sushi
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sushi-sendai-仙台壽司-冬季限定的極致鮮味-964bc9.html
 published: 2026-06-20
-quality_score: 6.5
+quality_score: 8.5
 tags: 仙台壽司, 三陸海岸, 冬季美食, 日本料理, 東北美食
 license: CC BY 4.0
 ---

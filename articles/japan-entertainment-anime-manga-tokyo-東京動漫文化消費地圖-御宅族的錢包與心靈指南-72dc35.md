@@ -6,7 +6,7 @@ category: anime-manga
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-tokyo-東京動漫文化消費地圖-御宅族的錢包與心靈指南-72dc35.html
 published: 2026-06-30
-quality_score: 6.5
+quality_score: 8.8
 tags: 東京動漫, 秋葉原御宅文化, 日本動漫消費, 池袋動漫咖啡廳, 新宿同人誌
 license: CC BY 4.0
 ---

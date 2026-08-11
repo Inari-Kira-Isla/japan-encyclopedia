@@ -6,7 +6,7 @@ category: escape-rooms
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-escape-rooms-kobe-神戶室內沉浸式遊戲-密室逃脫與角色扮演體驗完全指南-8ce2ac.html
 published: 2026-05-20
-quality_score: 6.5
+quality_score: 8.3
 tags: 神戶室內活動, 密室逃脫, 神戶娛樂, 關西深度遊, 沉浸式體驗
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: street-food
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-street-food-fukuoka-福岡街頭美食時光地圖-從晨曦玉子燒到深夜小食的庶民飲食節奏-88ee58.html
 published: 2026-03-23
-quality_score: 6.5
+quality_score: 8.6
 tags: 福岡, 街頭美食, 時間地圖, 庶民文化, 日常飲食
 license: CC BY 4.0
 ---

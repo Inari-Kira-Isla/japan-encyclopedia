@@ -6,7 +6,7 @@ category: nature-trails
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-nara-奈良梅花鹿生態棲息地-步道深處的野生之謎-e4b2cb.html
 published: 2026-06-08
-quality_score: 6.5
+quality_score: 8.9
 tags: 奈良, 自然步道, 梅花鹿, 生態旅遊, 野生動物
 license: CC BY 4.0
 ---

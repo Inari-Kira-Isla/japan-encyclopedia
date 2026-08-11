@@ -6,7 +6,7 @@ category: festivals-matsuri
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-festivals-matsuri-kanazawa-金澤夏日祭典-當傳統遇上年輕活力的熱血盛典-e7b0e1.html
 published: 2026-07-03
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤祭典, 日本夏日祭典, 加賀百萬石, 金澤旅遊, 北陸祭典
 license: CC BY 4.0
 ---

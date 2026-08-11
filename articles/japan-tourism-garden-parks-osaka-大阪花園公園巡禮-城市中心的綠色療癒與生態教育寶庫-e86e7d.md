@@ -6,7 +6,7 @@ category: garden-parks
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-osaka-大阪花園公園巡禮-城市中心的綠色療癒與生態教育寶庫-e86e7d.html
 published: 2026-04-08
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪花園, 大阪公園, 生態教育, 賞牡丹, 都市綠洲
 license: CC BY 4.0
 ---

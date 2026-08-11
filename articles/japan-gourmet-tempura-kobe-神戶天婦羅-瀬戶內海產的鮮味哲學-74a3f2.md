@@ -6,7 +6,7 @@ category: tempura
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tempura-kobe-神戶天婦羅-瀬戶內海產的鮮味哲學-74a3f2.html
 published: 2026-06-29
-quality_score: 6.5
+quality_score: 8.7
 tags: 神戶美食, 天婦羅, 瀨戶內海, 關西料理, 港都美食
 license: CC BY 4.0
 ---

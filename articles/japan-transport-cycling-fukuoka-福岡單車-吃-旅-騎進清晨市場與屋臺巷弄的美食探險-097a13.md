@@ -6,7 +6,7 @@ category: cycling
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-fukuoka-福岡單車-吃-旅-騎進清晨市場與屋臺巷弄的美食探險-097a13.html
 published: 2026-07-02
-quality_score: 7.5
+quality_score: 8.7
 tags: 福岡單車, 九州美食, 旦過市場, 屋台文化, 糸島半島
 license: CC BY 4.0
 ---

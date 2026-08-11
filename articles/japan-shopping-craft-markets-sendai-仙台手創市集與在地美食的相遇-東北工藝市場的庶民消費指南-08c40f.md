@@ -6,7 +6,7 @@ category: craft-markets
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-craft-markets-sendai-仙台手創市集與在地美食的相遇-東北工藝市場的庶民消費指南-08c40f.html
 published: 2026-06-14
-quality_score: 7.5
+quality_score: 8.5
 tags: 仙台, 手創市集, 東北, 日本, 手工藝
 license: CC BY 4.0
 ---

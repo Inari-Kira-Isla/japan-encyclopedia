@@ -6,7 +6,7 @@ category: izakaya
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-izakaya-kyoto-京都社群居酒屋巡禮-當地人的隱藏酒食指南-8b91df.html
 published: 2026-04-11
-quality_score: 6.5
+quality_score: 8.7
 tags: 京都居酒屋, 京都美食, 京都旅遊, 日本料理, 伏見清酒
 license: CC BY 4.0
 ---

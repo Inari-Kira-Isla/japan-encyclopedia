@@ -6,7 +6,7 @@ category: theme-parks
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-theme-parks-nagoya-名古屋都市娛樂新體驗-夜間主題樂園與成人遊樂指南-5da4ac.html
 published: 2026-03-28
-quality_score: 6.5
+quality_score: 8.7
 tags: 名古屋, 主題樂園, 夜間娛樂, 成人遊樂, 都市娛樂
 license: CC BY 4.0
 ---

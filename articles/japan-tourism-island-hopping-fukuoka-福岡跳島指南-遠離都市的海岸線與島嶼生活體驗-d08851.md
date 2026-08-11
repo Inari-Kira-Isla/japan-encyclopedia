@@ -6,7 +6,7 @@ category: island-hopping
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-island-hopping-fukuoka-福岡跳島指南-遠離都市的海岸線與島嶼生活體驗-d08851.html
 published: 2026-05-24
-quality_score: 6.5
+quality_score: 8.9
 tags: 福岡跳島, 九州海岸, 日本海, 非觀光化, 自行遊
 license: CC BY 4.0
 ---

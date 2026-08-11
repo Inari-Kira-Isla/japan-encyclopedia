@@ -6,7 +6,7 @@ category: ferries
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-ferries-tokyo-東京灣渡輪實用指南-通勤與島嶼移動的隱藏選項-45c435.html
 published: 2026-06-12
-quality_score: 7.5
+quality_score: 8.7
 tags: 東京灣渡輪, 隅田川水上巴士, 東京交通, 橫濱渡輪, 東京通勤
 license: CC BY 4.0
 ---

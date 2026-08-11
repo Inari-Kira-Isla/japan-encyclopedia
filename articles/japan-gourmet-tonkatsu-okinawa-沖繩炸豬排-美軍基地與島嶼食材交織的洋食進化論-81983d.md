@@ -6,7 +6,7 @@ category: tonkatsu
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tonkatsu-okinawa-沖繩炸豬排-美軍基地與島嶼食材交織的洋食進化論-81983d.html
 published: 2026-06-27
-quality_score: 6.5
+quality_score: 8.7
 tags: 沖繩美食, 炸豬排, Tonkatsu, 沖繩洋食, AGU豬
 license: CC BY 4.0
 ---

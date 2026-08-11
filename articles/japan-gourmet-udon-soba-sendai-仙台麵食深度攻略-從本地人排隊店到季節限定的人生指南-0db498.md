@@ -6,7 +6,7 @@ category: udon-soba
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-udon-soba-sendai-仙台麵食深度攻略-從本地人排隊店到季節限定的人生指南-0db498.html
 published: 2026-05-23
-quality_score: 6.5
+quality_score: 8.5
 tags: 仙台美食, 東北料理, 烏龍麵, 蕎麥麵, 日本自由行
 license: CC BY 4.0
 ---

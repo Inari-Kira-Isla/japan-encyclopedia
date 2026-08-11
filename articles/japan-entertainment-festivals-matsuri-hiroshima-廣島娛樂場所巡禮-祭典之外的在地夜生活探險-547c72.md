@@ -6,7 +6,7 @@ category: festivals-matsuri
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-festivals-matsuri-hiroshima-廣島娛樂場所巡禮-祭典之外的在地夜生活探險-547c72.html
 published: 2026-06-19
-quality_score: 6.5
+quality_score: 8.5
 tags: 廣島祭典, 廣島夜生活, 日本屋臺, 廣島娛樂, 卡拉OK
 license: CC BY 4.0
 ---

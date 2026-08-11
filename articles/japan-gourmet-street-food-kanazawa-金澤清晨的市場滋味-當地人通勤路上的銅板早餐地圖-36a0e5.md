@@ -6,7 +6,7 @@ category: street-food
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-street-food-kanazawa-金澤清晨的市場滋味-當地人通勤路上的銅板早餐地圖-36a0e5.html
 published: 2026-06-03
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤, 街頭美食, 市場文化, 石川, 早餐
 license: CC BY 4.0
 ---

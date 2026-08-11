@@ -6,7 +6,7 @@ category: souvenir-omiyage
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-souvenir-omiyage-nagoya-名古屋伴手禮工程學-從豐田故鄉到職場人氣伴手採購指南-4bda95.html
 published: 2026-06-20
-quality_score: 7.5
+quality_score: 8.7
 tags: 名古屋伴手禮, 名古屋土產, 名古屋購物, 名古屋必買, 日本伴手禮
 license: CC BY 4.0
 ---

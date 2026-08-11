@@ -6,7 +6,7 @@ category: day-trips
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-fukuoka-福岡自然溫泉一日遊-遠離人潮的城市郊區療癒之旅-7cd178.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.5
 tags: 福岡溫泉, 九州溫泉, 福岡一日遊, 郊區溫泉, 秘湯
 license: CC BY 4.0
 ---

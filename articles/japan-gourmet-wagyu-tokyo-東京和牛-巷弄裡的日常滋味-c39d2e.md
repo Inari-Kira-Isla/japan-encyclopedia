@@ -6,7 +6,7 @@ category: wagyu
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-wagyu-tokyo-東京和牛-巷弄裡的日常滋味-c39d2e.html
 published: 2026-05-24
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京美食, 和牛, 燒肉, 巷弄美食, 超市美食
 license: CC BY 4.0
 ---

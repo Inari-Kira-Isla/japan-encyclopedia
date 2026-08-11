@@ -6,7 +6,7 @@ category: electronics
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-electronics-kobe-神戶電子產品購物指南-港都神戶的科技購物精選-e25960.html
 published: 2026-07-04
-quality_score: 7.5
+quality_score: 8.7
 tags: 神戶電子產品, 神戶購物, 關西電器行, 神戶旅遊, 日本電器推薦
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: boutique-hotels
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-osaka-大阪味覺旅宿-精品酒店與美食王國的完美共生-61b9d6.html
 published: 2026-06-30
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪, 精品酒店, 美食住宿, 關西, 日本住宿
 license: CC BY 4.0
 ---

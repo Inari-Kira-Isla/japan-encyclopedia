@@ -6,7 +6,7 @@ category: nightlife
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-kobe-神戶夜生活消費指南-不同預算的完美夜間體驗-1c355d.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 神戶夜生活, 消費指南, 預算規劃, 餐飲推薦, 夜景體驗
 license: CC BY 4.0
 ---

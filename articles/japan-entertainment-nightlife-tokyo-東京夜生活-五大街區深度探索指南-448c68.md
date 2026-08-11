@@ -6,7 +6,7 @@ category: nightlife
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-tokyo-東京夜生活-五大街區深度探索指南-448c68.html
 published: 2026-04-02
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京夜生活, 新宿, 澀谷, 六本木, 上野
 license: CC BY 4.0
 ---

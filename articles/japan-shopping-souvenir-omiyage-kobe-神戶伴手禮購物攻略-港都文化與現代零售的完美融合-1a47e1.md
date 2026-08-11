@@ -6,7 +6,7 @@ category: souvenir-omiyage
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-souvenir-omiyage-kobe-神戶伴手禮購物攻略-港都文化與現代零售的完美融合-1a47e1.html
 published: 2026-04-05
-quality_score: 7.5
+quality_score: 8.7
 tags: 神戶, 伴手禮, 購物攻略, omiyage, 日本文化
 license: CC BY 4.0
 ---

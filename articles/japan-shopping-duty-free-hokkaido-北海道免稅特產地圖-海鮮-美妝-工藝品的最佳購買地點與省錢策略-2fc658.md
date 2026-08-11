@@ -6,7 +6,7 @@ category: duty-free
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-duty-free-hokkaido-北海道免稅特產地圖-海鮮-美妝-工藝品的最佳購買地點與省錢策略-2fc658.html
 published: 2026-03-23
-quality_score: 7.5
+quality_score: 8.5
 tags: 北海道, 免稅購物, 海鮮, 美妝, 工藝品
 license: CC BY 4.0
 ---

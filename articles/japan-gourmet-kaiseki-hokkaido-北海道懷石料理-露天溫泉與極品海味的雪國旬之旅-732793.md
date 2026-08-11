@@ -6,7 +6,7 @@ category: kaiseki
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-kaiseki-hokkaido-北海道懷石料理-露天溫泉與極品海味的雪國旬之旅-732793.html
 published: 2026-06-11
-quality_score: 6.5
+quality_score: 8.9
 tags: 北海道懷石, 溫泉料理, 札幌美食, 小樽海產, 日本東北
 license: CC BY 4.0
 ---

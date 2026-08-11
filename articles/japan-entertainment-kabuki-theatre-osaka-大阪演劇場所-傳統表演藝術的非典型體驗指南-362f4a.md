@@ -6,7 +6,7 @@ category: kabuki-theatre
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-kabuki-theatre-osaka-大阪演劇場所-傳統表演藝術的非典型體驗指南-362f4a.html
 published: 2026-05-25
-quality_score: 6.5
+quality_score: 8.5
 tags: 大阪, 表演藝術, 傳統藝術, 關西, 自助旅行
 license: CC BY 4.0
 ---

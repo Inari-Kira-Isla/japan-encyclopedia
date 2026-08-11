@@ -6,7 +6,7 @@ category: island-hopping
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-island-hopping-sendai-仙台跳島之旅-當陸奧灣遇見禪與海之味-fe7d86.html
 published: 2026-06-28
-quality_score: 6.5
+quality_score: 8.5
 tags: 仙台, 松島灣, 陸奧灣, 日本三景, 東北溫泉
 license: CC BY 4.0
 ---

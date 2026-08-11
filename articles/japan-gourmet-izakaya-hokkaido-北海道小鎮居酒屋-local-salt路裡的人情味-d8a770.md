@@ -6,7 +6,7 @@ category: izakaya
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-izakaya-hokkaido-北海道小鎮居酒屋-local-salt路裡的人情味-d8a770.html
 published: 2026-06-23
-quality_score: 6.5
+quality_score: 8.6
 tags: 北海道, 居酒屋, 帶廣, 釧路, 室蘭
 license: CC BY 4.0
 ---

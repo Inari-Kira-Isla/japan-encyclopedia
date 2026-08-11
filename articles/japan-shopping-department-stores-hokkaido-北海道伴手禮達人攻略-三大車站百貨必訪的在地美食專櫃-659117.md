@@ -6,7 +6,7 @@ category: department-stores
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-department-stores-hokkaido-北海道伴手禮達人攻略-三大車站百貨必訪的在地美食專櫃-659117.html
 published: 2026-06-04
-quality_score: 7.5
+quality_score: 8.6
 tags: 北海道, 札幌車站, 伴手禮, 日本百貨, 美食購物
 license: CC BY 4.0
 ---

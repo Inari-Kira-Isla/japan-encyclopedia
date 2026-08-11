@@ -6,7 +6,7 @@ category: beverages
 area: japan
 url: https://japan-encyclopedia.vercel.app/articles/japan-dining-beverages-日本酒-燒酎-威士忌完整指南2026-產地-酒廠-品嚐體驗-日本酒文化深度攻略-jp-sake-shochu-gu-fe10db.html
 published: 2026-03-28
-quality_score: 7.6
+quality_score: 8.3
 tags: 日本清酒, 日本威士忌, 余市蒸餾所, 日本酒廠, 灘五鄉
 license: CC BY 4.0
 ---

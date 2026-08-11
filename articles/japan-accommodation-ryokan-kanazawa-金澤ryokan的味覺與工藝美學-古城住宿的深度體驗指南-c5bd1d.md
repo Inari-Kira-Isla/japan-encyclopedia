@@ -6,7 +6,7 @@ category: ryokan
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-kanazawa-金澤ryokan的味覺與工藝美學-古城住宿的深度體驗指南-c5bd1d.html
 published: 2026-06-18
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤Ryokan, 加賀百萬石, 石川縣住宿, 古民宅住宿, 日本傳統旅館
 license: CC BY 4.0
 ---

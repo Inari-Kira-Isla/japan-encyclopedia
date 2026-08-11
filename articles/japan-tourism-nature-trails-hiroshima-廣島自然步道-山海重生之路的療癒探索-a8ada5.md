@@ -6,7 +6,7 @@ category: nature-trails
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-hiroshima-廣島自然步道-山海重生之路的療癒探索-a8ada5.html
 published: 2026-06-17
-quality_score: 6.5
+quality_score: 8.6
 tags: 廣島自然步道, 山林療癒, 入門步道, 祖谷溪, 比婆山
 license: CC BY 4.0
 ---

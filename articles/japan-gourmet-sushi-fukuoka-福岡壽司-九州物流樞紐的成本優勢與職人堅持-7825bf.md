@@ -6,7 +6,7 @@ category: sushi
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sushi-fukuoka-福岡壽司-九州物流樞紐的成本優勢與職人堅持-7825bf.html
 published: 2026-06-07
-quality_score: 6.5
+quality_score: 8.7
 tags: 福岡壽司, 博多名物, 九州海鮮, 壽司推薦, 天神站
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: historical-districts
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-osaka-大阪工商匠人街區-隱藏在巷弄間的職人盛世-5fade9.html
 published: 2026-06-19
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪歷史街區, 工商匠人街區, 道具屋筋, 日本橋電器街, 大阪深度旅遊
 license: CC BY 4.0
 ---

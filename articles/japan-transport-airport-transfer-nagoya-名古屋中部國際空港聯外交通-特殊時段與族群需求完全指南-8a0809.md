@@ -6,7 +6,7 @@ category: airport-transfer
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-airport-transfer-nagoya-名古屋中部國際空港聯外交通-特殊時段與族群需求完全指南-8a0809.html
 published: 2026-06-29
-quality_score: 7.5
+quality_score: 8.7
 tags: 名古屋機場交通, 中部國際空港, 名古屋交通攻略, 機場接送, 日本中部旅行
 license: CC BY 4.0
 ---

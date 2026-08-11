@@ -6,7 +6,7 @@ category: kaiseki
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-kaiseki-kobe-神戶會席料理-港都日常的溫暖味覺-925aa2.html
 published: 2026-06-29
-quality_score: 6.5
+quality_score: 8.6
 tags: 神戶會席, 港都美食, 神戶料亭, 六甲山, 瀨戶內海
 license: CC BY 4.0
 ---

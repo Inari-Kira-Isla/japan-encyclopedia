@@ -6,7 +6,7 @@ category: rental-cars
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-kyoto-京都租車自駕遊-以千年古都為樞紐的跨縣市深度漫遊策略-a2d2f3.html
 published: 2026-06-28
-quality_score: 7.5
+quality_score: 8.7
 tags: 京都租車, 關西自駕, 京都自由行, 丹後半島, 伊勢志摩
 license: CC BY 4.0
 ---

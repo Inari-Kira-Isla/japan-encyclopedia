@@ -6,7 +6,7 @@ category: fashion-harajuku
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-fashion-harajuku-sendai-仙台時尚購物指南-東北潮流新地標-8b636e.html
 published: 2026-06-19
-quality_score: 7.5
+quality_score: 9.0
 tags: 仙台購物, 日本東北, 時尚穿搭, 古著, 平價時尚
 license: CC BY 4.0
 ---

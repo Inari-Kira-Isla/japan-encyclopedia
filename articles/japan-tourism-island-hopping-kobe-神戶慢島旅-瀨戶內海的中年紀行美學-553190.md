@@ -6,7 +6,7 @@ category: island-hopping
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-island-hopping-kobe-神戶慢島旅-瀨戶內海的中年紀行美學-553190.html
 published: 2026-05-25
-quality_score: 6.5
+quality_score: 9.0
 tags: 神戶跳島, 瀨戶內海, 日本島嶼, 中年旅行, 慢旅行
 license: CC BY 4.0
 ---

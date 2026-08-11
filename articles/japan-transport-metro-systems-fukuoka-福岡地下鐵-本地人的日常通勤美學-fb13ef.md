@@ -6,7 +6,7 @@ category: metro-systems
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-fukuoka-福岡地下鐵-本地人的日常通勤美學-fb13ef.html
 published: 2026-03-24
-quality_score: 7.5
+quality_score: 8.6
 tags: 福岡地下鐵, 日本交通, 福岡通勤, 九州交通, 地下鐵一日券
 license: CC BY 4.0
 ---

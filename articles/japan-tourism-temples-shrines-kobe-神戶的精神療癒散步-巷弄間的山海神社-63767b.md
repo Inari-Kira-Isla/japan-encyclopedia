@@ -6,7 +6,7 @@ category: temples-shrines
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-temples-shrines-kobe-神戶的精神療癒散步-巷弄間的山海神社-63767b.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 8.7
 tags: 神戶神社, 神戶寺廟, 日本參道, 神戶自由行, 六甲山神社
 license: CC BY 4.0
 ---

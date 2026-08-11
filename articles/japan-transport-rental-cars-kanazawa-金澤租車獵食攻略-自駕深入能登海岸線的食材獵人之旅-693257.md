@@ -6,7 +6,7 @@ category: rental-cars
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-kanazawa-金澤租車獵食攻略-自駕深入能登海岸線的食材獵人之旅-693257.html
 published: 2026-06-17
-quality_score: 7.5
+quality_score: 8.9
 tags: 金澤租車, 能登半島自駕, 魚津港, 冰見漁港, 食材獵人
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: karaoke
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-karaoke-kanazawa-金澤卡拉ok-古城雪夜的暖心歡唱時光-cb7d92.html
 published: 2026-06-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤卡拉OK, 石川縣娛樂, 日本海沿岸, 冬季室內活動, 在地文化體驗
 license: CC BY 4.0
 ---

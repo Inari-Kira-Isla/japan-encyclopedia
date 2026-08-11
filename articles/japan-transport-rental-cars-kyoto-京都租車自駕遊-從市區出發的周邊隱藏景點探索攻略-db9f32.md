@@ -6,7 +6,7 @@ category: rental-cars
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-kyoto-京都租車自駕遊-從市區出發的周邊隱藏景點探索攻略-db9f32.html
 published: 2026-06-19
-quality_score: 7.5
+quality_score: 8.5
 tags: 京都租車, 關西自駕, 京都周邊景點, 日本租車攻略, 天橋立
 license: CC BY 4.0
 ---

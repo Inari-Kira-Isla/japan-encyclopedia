@@ -6,7 +6,7 @@ category: business-hotels
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-business-hotels-sendai-仙台商務住宿晨間指南-用清晨時光讀懂東北商務節奏-d5c1b0.html
 published: 2026-06-19
-quality_score: 6.5
+quality_score: 8.6
 tags: 仙台商務住宿, 東北商務旅行, 青葉通, 勾當台, 長町站
 license: CC BY 4.0
 ---

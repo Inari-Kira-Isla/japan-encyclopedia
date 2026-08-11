@@ -6,7 +6,7 @@ category: fashion-harajuku
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-fashion-harajuku-tokyo-東京原宿成熟時尚攻略-遠離竹下通的學生潮-發現代逛街的質感選擇-b6b5ec.html
 published: 2026-05-24
-quality_score: 7.5
+quality_score: 8.6
 tags: 東京購物, 原宿時尚, 成熟穿搭, 質感選物店, 貓通
 license: CC BY 4.0
 ---

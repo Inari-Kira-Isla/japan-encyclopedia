@@ -6,7 +6,7 @@ category: nightlife
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-fukuoka-福岡夜生活-屋臺與都會的深夜食堂之旅-caa46a.html
 published: 2026-03-31
-quality_score: 6.5
+quality_score: 8.8
 tags: 福岡夜生活, 九州夜生活, 屋台文化, 博多, 天神
 license: CC BY 4.0
 ---

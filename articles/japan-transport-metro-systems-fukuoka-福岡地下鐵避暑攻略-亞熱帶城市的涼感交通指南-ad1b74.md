@@ -6,7 +6,7 @@ category: metro-systems
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-fukuoka-福岡地下鐵避暑攻略-亞熱帶城市的涼感交通指南-ad1b74.html
 published: 2026-06-10
-quality_score: 7.5
+quality_score: 8.6
 tags: 福岡地下鐵, 博多交通, 九州自助, 日本地下鐵, 亞熱帶交通
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: rental-cars
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-kyoto-京都租車完全指南-自駕暢遊關西北部的實用攻略-c33f44.html
 published: 2026-03-29
-quality_score: 7.5
+quality_score: 8.7
 tags: 京都租車, 關西自駕, 京都周邊景點, 伊根町, 琵琶湖
 license: CC BY 4.0
 ---

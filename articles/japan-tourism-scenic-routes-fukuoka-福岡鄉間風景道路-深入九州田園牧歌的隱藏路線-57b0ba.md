@@ -6,7 +6,7 @@ category: scenic-routes
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-fukuoka-福岡鄉間風景道路-深入九州田園牧歌的隱藏路線-57b0ba.html
 published: 2026-07-04
-quality_score: 6.5
+quality_score: 8.5
 tags: 福岡景點, 九州自駕, 日本溫泉, 八女茶, 柳川水鄉
 license: CC BY 4.0
 ---

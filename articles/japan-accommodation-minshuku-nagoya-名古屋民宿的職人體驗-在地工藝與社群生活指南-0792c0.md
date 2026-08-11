@@ -6,7 +6,7 @@ category: minshuku
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-nagoya-名古屋民宿的職人體驗-在地工藝與社群生活指南-0792c0.html
 published: 2026-03-24
-quality_score: 6.5
+quality_score: 8.3
 tags: 名古屋, 民宿, 日本住宿, 工藝體驗, 熱田
 license: CC BY 4.0
 ---

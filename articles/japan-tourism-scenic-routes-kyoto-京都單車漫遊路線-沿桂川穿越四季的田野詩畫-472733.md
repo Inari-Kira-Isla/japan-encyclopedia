@@ -6,7 +6,7 @@ category: scenic-routes
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-kyoto-京都單車漫遊路線-沿桂川穿越四季的田野詩畫-472733.html
 published: 2026-06-07
-quality_score: 6.5
+quality_score: 9.0
 tags: 京都單車路線, 桂川流域, 美山茅葺聚落, 和紙體驗, 京都深度遊
 license: CC BY 4.0
 ---

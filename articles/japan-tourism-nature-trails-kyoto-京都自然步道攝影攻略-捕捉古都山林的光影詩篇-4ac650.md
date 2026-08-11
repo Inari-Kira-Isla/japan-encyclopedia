@@ -6,7 +6,7 @@ category: nature-trails
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-kyoto-京都自然步道攝影攻略-捕捉古都山林的光影詩篇-4ac650.html
 published: 2026-06-26
-quality_score: 6.5
+quality_score: 8.7
 tags: 京都自然步道, 京都攝影, 鞍馬山, 嵐山竹林, 伏見稻荷
 license: CC BY 4.0
 ---

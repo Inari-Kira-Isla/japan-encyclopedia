@@ -6,7 +6,7 @@ category: electronics
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-electronics-nagoya-名古屋電子零件與maker購物指南-中部地區的科技diy聖地-47ac28.html
 published: 2026-06-08
-quality_score: 7.5
+quality_score: 8.7
 tags: 名古屋電子零件, Maker購物, DIY電子, 名古屋購物, 中部日本電子產品
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: craft-markets
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-craft-markets-hiroshima-廣島工藝體驗不完全指南-在和平之城尋找手作的溫度-29816a.html
 published: 2026-05-21
-quality_score: 7.5
+quality_score: 8.6
 tags: 廣島工藝, 廣島DIY體驗, 宮島雕刻木, 廣島漆器, 日本工藝之旅
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: yakitori
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-yakitori-nagoya-名古屋燒鳥-味噌與醬油的在地對話-28e6ed.html
 published: 2026-06-13
-quality_score: 6.5
+quality_score: 8.7
 tags: 名古屋, 燒鳥, 名古屋燒鳥, 味噌, 日本料理
 license: CC BY 4.0
 ---

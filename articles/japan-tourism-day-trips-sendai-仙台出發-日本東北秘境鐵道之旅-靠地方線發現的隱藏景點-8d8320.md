@@ -6,7 +6,7 @@ category: day-trips
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-sendai-仙台出發-日本東北秘境鐵道之旅-靠地方線發現的隱藏景點-8d8320.html
 published: 2026-06-02
-quality_score: 6.5
+quality_score: 8.6
 tags: 仙台自由行, 日本東北, 秘境推薦, 鐵道之旅, 鳴子峽谷
 license: CC BY 4.0
 ---

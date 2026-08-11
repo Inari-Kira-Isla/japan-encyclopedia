@@ -6,7 +6,7 @@ category: minshuku
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-sendai-仙台市民宿完全指南-從牛舌到藏王-作為東北旅行根據地的住宿選擇-4bb327.html
 published: 2026-06-19
-quality_score: 6.5
+quality_score: 8.5
 tags: 仙台民宿, 東北旅行, minshuku, 日本住宿, 青葉區
 license: CC BY 4.0
 ---

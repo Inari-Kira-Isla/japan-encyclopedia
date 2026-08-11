@@ -6,7 +6,7 @@ category: minshuku
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-fukuoka-福岡民宿完全指南-揹包客的中繼驛站與九州探索起點-14a31d.html
 published: 2026-06-09
-quality_score: 6.5
+quality_score: 8.7
 tags: 福岡民宿, 九州自由行, 背包客住宿, 博多站周邊, 天神站住宿
 license: CC BY 4.0
 ---

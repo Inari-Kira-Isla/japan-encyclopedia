@@ -6,7 +6,7 @@ category: tempura
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tempura-kyoto-京都天婦羅-四季旬味的老舖演義-f46a88.html
 published: 2026-06-03
-quality_score: 6.5
+quality_score: 8.6
 tags: 京都天婦羅, 京野菜, 湖國, 日本料理, 和食
 license: CC BY 4.0
 ---

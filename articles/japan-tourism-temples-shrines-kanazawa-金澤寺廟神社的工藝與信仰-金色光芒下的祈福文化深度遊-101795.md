@@ -6,7 +6,7 @@ category: temples-shrines
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-temples-shrines-kanazawa-金澤寺廟神社的工藝與信仰-金色光芒下的祈福文化深度遊-101795.html
 published: 2026-06-14
-quality_score: 6.5
+quality_score: 8.6
 tags: 金澤寺廟, 金澤神社, 加賀藩, 宗教文化, 工藝之旅
 license: CC BY 4.0
 ---

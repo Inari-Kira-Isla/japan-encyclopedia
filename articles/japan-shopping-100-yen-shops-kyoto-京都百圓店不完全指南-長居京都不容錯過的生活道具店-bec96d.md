@@ -6,7 +6,7 @@ category: 100-yen-shops
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-100-yen-shops-kyoto-京都百圓店不完全指南-長居京都不容錯過的生活道具店-bec96d.html
 published: 2026-06-27
-quality_score: 7.5
+quality_score: 8.7
 tags: 京都百圓店, 京都購物, 京都自由行, 京都長住指南, 日本平價購物
 license: CC BY 4.0
 ---

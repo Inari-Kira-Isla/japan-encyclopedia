@@ -6,7 +6,7 @@ category: karaoke
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-karaoke-kanazawa-金澤卡拉ok-下町風情與茶屋街餘韻中的歌唱風景-5501a8.html
 published: 2026-05-24
-quality_score: 6.5
+quality_score: 8.9
 tags: 金澤卡拉OK, 金澤娛樂, 石川縣娛樂, 金澤下町, 金澤夜生活
 license: CC BY 4.0
 ---

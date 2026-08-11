@@ -6,7 +6,7 @@ category: tempura
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tempura-kanazawa-金澤天婦羅-加賀料理傳統的酥脆演繹-f78f13.html
 published: 2026-04-03
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤美食, 加賀料理, 天婦羅, 北陸美食, 傳統工藝
 license: CC BY 4.0
 ---

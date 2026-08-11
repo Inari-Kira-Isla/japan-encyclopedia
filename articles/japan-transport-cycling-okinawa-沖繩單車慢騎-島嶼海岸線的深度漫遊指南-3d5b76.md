@@ -6,7 +6,7 @@ category: cycling
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-okinawa-沖繩單車慢騎-島嶼海岸線的深度漫遊指南-3d5b76.html
 published: 2026-06-24
-quality_score: 7.5
+quality_score: 8.5
 tags: 沖繩單車, 島嶼騎行, 海岸線, 亞熱帶, 單車旅遊
 license: CC BY 4.0
 ---

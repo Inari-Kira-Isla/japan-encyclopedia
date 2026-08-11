@@ -6,7 +6,7 @@ category: buses
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-buses-hiroshima-廣島市區觀光巴士完全指南-暢遊和平與歷史之城-ad95e2.html
 published: 2026-03-20
-quality_score: 7.5
+quality_score: 8.7
 tags: 廣島巴士, 廣島觀光, 廣島交通, 和平紀念公園, 廣島城
 license: CC BY 4.0
 ---

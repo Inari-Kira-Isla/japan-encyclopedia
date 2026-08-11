@@ -6,7 +6,7 @@ category: vr-experiences
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-vr-experiences-hiroshima-廣島vr親子遊-雨天備案與家庭同樂的虛擬實境指南-1cbc37.html
 published: 2026-06-29
-quality_score: 6.5
+quality_score: 8.5
 tags: 廣島VR體驗, 廣島親子遊, 廣島雨天備案, 廣島家庭娛樂, 宮島VR
 license: CC BY 4.0
 ---

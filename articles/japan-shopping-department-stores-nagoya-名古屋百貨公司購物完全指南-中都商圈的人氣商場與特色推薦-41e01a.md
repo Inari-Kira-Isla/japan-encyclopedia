@@ -6,7 +6,7 @@ category: department-stores
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-department-stores-nagoya-名古屋百貨公司購物完全指南-中都商圈的人氣商場與特色推薦-41e01a.html
 published: 2026-06-06
-quality_score: 7.5
+quality_score: 8.7
 tags: 名古屋購物, 中部國際空港, 日本百貨公司, 榮商圈, 名鐵百貨
 license: CC BY 4.0
 ---

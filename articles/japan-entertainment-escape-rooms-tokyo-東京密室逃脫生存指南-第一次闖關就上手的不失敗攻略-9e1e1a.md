@@ -6,7 +6,7 @@ category: escape-rooms
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-escape-rooms-tokyo-東京密室逃脫生存指南-第一次闖關就上手的不失敗攻略-9e1e1a.html
 published: 2026-05-20
-quality_score: 6.5
+quality_score: 8.6
 tags: 東京密室逃脫, 東京室內活動, 東京團體旅遊, 密室逃脫教學, 東京夜生活
 license: CC BY 4.0
 ---

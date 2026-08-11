@@ -6,7 +6,7 @@ category: metro-systems
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-hiroshima-廣島路面電車-乘載戰後重生記憶的軌道日常-1cdecf.html
 published: 2026-06-12
-quality_score: 7.5
+quality_score: 8.6
 tags: 廣島交通, 路面電車, 廣島電鐵, 日本軌道交通, 廣島自由行
 license: CC BY 4.0
 ---

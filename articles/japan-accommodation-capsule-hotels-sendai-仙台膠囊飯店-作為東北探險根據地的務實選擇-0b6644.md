@@ -6,7 +6,7 @@ category: capsule-hotels
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-capsule-hotels-sendai-仙台膠囊飯店-作為東北探險根據地的務實選擇-0b6644.html
 published: 2026-06-14
-quality_score: 6.5
+quality_score: 8.5
 tags: 仙台, 膠囊飯店, 東北住宿, budget travel, 自助旅行
 license: CC BY 4.0
 ---

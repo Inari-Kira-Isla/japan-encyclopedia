@@ -6,7 +6,7 @@ category: depachika
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-depachika-kyoto-京都depachika-從清晨粥到深夜酒-京都人的三餐生活舞臺-682103.html
 published: 2026-05-24
-quality_score: 6.5
+quality_score: 8.6
 tags: 京都, Depachika, 地下街, 日本美食, 京料理
 license: CC BY 4.0
 ---

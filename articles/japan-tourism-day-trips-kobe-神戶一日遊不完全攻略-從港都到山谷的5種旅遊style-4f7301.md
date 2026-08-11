@@ -6,7 +6,7 @@ category: day-trips
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-kobe-神戶一日遊不完全攻略-從港都到山谷的5種旅遊style-4f7301.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 8.8
 tags: 神戶一日遊, 關西自由行, 港都旅遊, 灘五鄉清酒, 六甲山
 license: CC BY 4.0
 ---

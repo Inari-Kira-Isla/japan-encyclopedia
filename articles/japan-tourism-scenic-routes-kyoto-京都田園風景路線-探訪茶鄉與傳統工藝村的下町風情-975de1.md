@@ -6,7 +6,7 @@ category: scenic-routes
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-kyoto-京都田園風景路線-探訪茶鄉與傳統工藝村的下町風情-975de1.html
 published: 2026-03-24
-quality_score: 6.5
+quality_score: 8.9
 tags: 京都風景, 茶鄉之旅, 田園風光, 宇治抹茶, 丹波燒
 license: CC BY 4.0
 ---

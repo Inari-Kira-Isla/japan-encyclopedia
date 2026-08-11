@@ -6,7 +6,7 @@ category: fashion-harajuku
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-fashion-harajuku-hokkaido-北海道時尚購物攻略-札幌・旭川的潮流地圖-82720a.html
 published: 2026-06-04
-quality_score: 7.5
+quality_score: 8.7
 tags: 北海道購物, 札幌時尚, 日本平價時尚, 户外機能, 古著
 license: CC BY 4.0
 ---

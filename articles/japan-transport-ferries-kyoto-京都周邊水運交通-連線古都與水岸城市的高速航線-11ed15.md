@@ -6,7 +6,7 @@ category: ferries
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-ferries-kyoto-京都周邊水運交通-連線古都與水岸城市的高速航線-11ed15.html
 published: 2026-06-22
-quality_score: 7.5
+quality_score: 8.5
 tags: 京都交通, 關西渡輪, 琵琶湖, 保津川, 神戶港
 license: CC BY 4.0
 ---

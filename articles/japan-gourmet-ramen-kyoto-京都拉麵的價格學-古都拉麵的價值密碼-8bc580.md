@@ -6,7 +6,7 @@ category: ramen
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-ramen-kyoto-京都拉麵的價格學-古都拉麵的價值密碼-8bc580.html
 published: 2026-06-22
-quality_score: 6.5
+quality_score: 8.7
 tags: 京都拉麵, 京都美食, 京都料理, 拉麵推薦, 關西拉麵
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: temples-shrines
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-temples-shrines-sendai-仙台神社寺廟巡禮-探訪獨眼龍政宗守護的千年聖地-460a41.html
 published: 2026-05-31
-quality_score: 6.5
+quality_score: 8.7
 tags: 仙台, 神社, 寺廟, 伊達政宗, 瑞鳳殿
 license: CC BY 4.0
 ---

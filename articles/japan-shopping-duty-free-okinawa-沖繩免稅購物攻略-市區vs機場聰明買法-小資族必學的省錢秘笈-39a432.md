@@ -6,7 +6,7 @@ category: duty-free
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-duty-free-okinawa-沖繩免稅購物攻略-市區vs機場聰明買法-小資族必學的省錢秘笈-39a432.html
 published: 2026-06-15
-quality_score: 7.5
+quality_score: 8.9
 tags: 沖繩免稅, 沖繩購物, 小資族必看, 市區免稅店, 那霸購物
 license: CC BY 4.0
 ---

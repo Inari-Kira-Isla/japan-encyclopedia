@@ -6,7 +6,7 @@ category: ski-resorts
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-ski-resorts-osaka-大阪滑雪度假村-關西地區滑雪趣-03956f.html
 published: 2026-03-14
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪滑雪, 關西滑雪場, 琵琶湖谷滑雪場, 六甲山滑雪場, 日本滑雪
 license: CC BY 4.0
 ---

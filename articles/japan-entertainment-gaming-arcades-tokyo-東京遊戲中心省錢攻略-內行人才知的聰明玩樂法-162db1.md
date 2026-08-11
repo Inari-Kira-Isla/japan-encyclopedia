@@ -6,7 +6,7 @@ category: gaming-arcades
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-gaming-arcades-tokyo-東京遊戲中心省錢攻略-內行人才知的聰明玩樂法-162db1.html
 published: 2026-06-17
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京遊戲中心, 東京娛樂, 街機文化, 省錢攻略, 日本旅遊
 license: CC BY 4.0
 ---

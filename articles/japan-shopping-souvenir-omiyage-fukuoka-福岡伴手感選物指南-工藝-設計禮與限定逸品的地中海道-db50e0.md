@@ -6,7 +6,7 @@ category: souvenir-omiyage
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-souvenir-omiyage-fukuoka-福岡伴手感選物指南-工藝-設計禮與限定逸品的地中海道-db50e0.html
 published: 2026-06-05
-quality_score: 7.5
+quality_score: 8.7
 tags: 福岡, 伴手禮, 工藝品, 選物, 九州
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: yakitori
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-yakitori-kyoto-京都燒鳥-千年古都的匠人串燒藝術-93bed8.html
 published: 2026-04-06
-quality_score: 6.5
+quality_score: 8.8
 tags: 京都美食, 燒鳥, 京野菜, 匠人文化, 季節料理
 license: CC BY 4.0
 ---

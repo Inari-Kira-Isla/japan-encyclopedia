@@ -6,7 +6,7 @@ category: department-stores
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-department-stores-okinawa-沖繩親子購物指南-家庭友善百貨公司與渡假購物體驗-8aed20.html
 published: 2026-06-19
-quality_score: 7.5
+quality_score: 8.7
 tags: 沖繩購物, 親子旅遊, 家庭友善, 渡假購物, 免稅商店
 license: CC BY 4.0
 ---

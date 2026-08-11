@@ -6,7 +6,7 @@ category: island-hopping
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-island-hopping-nara-奈良跳島之旅的可行性分析-為何無法進行傳統意義的跳島體驗-f6d170.html
 published: 2026-06-18
-quality_score: 6.5
+quality_score: 8.6
 tags: 奈良旅遊, 日本關西, 文化跳島, 世界文化遺產, 奈良公園
 license: CC BY 4.0
 ---

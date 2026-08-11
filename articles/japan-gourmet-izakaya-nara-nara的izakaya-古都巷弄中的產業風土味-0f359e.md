@@ -6,7 +6,7 @@ category: izakaya
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-izakaya-nara-nara的izakaya-古都巷弄中的產業風土味-0f359e.html
 published: 2026-04-07
-quality_score: 6.5
+quality_score: 8.9
 tags: Nara, 居酒屋, 古都, 產業城市, 日本料理
 license: CC BY 4.0
 ---

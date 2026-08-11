@@ -6,7 +6,7 @@ category: tempura
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tempura-sendai-仙台天婦羅-四季食材的酥脆詩篇-8da594.html
 published: 2026-04-04
-quality_score: 6.5
+quality_score: 8.5
 tags: 仙台美食, 天婦羅, 東北料理, 季節料理, 在地美食
 license: CC BY 4.0
 ---

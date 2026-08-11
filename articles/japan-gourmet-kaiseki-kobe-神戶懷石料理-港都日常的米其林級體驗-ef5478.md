@@ -6,7 +6,7 @@ category: kaiseki
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-kaiseki-kobe-神戶懷石料理-港都日常的米其林級體驗-ef5478.html
 published: 2026-06-17
-quality_score: 6.5
+quality_score: 8.8
 tags: 神戶懷石, 神戶美食, 港都料理, 神戶米其林, 關西美食
 license: CC BY 4.0
 ---

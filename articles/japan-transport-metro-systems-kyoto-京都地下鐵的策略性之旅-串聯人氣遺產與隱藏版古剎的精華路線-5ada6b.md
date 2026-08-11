@@ -6,7 +6,7 @@ category: metro-systems
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-kyoto-京都地下鐵的策略性之旅-串聯人氣遺產與隱藏版古剎的精華路線-5ada6b.html
 published: 2026-05-22
-quality_score: 7.5
+quality_score: 8.5
 tags: 京都地下鐵, 京都交通, 烏丸線, 東西線, 京都一日券
 license: CC BY 4.0
 ---

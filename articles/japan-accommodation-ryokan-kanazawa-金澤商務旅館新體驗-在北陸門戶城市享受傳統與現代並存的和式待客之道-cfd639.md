@@ -6,7 +6,7 @@ category: ryokan
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-kanazawa-金澤商務旅館新體驗-在北陸門戶城市享受傳統與現代並存的和式待客之道-cfd639.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.8
 tags: 金澤旅館, 商務住宿, 北陸新幹線, 加賀文化, 溫泉
 license: CC BY 4.0
 ---

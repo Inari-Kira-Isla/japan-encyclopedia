@@ -6,7 +6,7 @@ category: sushi
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sushi-tokyo-東京深夜壽司-am過後的職人暗號與酒場文化-5fe712.html
 published: 2026-06-22
-quality_score: 6.5
+quality_score: 8.5
 tags: 東京壽司, 深夜美食, 東京美食, 壽司屋台, 江戶前壽司
 license: CC BY 4.0
 ---

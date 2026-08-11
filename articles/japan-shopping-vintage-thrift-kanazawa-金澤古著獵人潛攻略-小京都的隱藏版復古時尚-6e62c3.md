@@ -6,7 +6,7 @@ category: vintage-thrift
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-vintage-thrift-kanazawa-金澤古著獵人潛攻略-小京都的隱藏版復古時尚-6e62c3.html
 published: 2026-06-22
-quality_score: 7.5
+quality_score: 8.5
 tags: 金澤古著, 金澤購物, 北陸古著店, 日本復古時尚, 金澤自由行
 license: CC BY 4.0
 ---

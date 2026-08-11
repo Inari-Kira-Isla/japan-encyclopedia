@@ -6,7 +6,7 @@ category: shinkansen
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-kanazawa-金澤不完全交通攻略-從東京出發的北陸道上的時間美學-da8d1a.html
 published: 2026-06-22
-quality_score: 7.5
+quality_score: 8.4
 tags: 金澤, 北陸新幹綫, 石川縣, 日本鐵路, 城下町
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: vr-experiences
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-vr-experiences-nara-奈良周邊vr體驗-古都旅遊的現代科技延伸方案-ac590b.html
 published: 2026-06-04
-quality_score: 6.5
+quality_score: 8.7
 tags: 奈良VR體驗, 關西VR遊戲, 大阪VR, 京都VR, 奈良旅遊
 license: CC BY 4.0
 ---

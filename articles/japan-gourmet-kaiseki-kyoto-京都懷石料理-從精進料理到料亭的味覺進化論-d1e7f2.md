@@ -6,7 +6,7 @@ category: kaiseki
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-kaiseki-kyoto-京都懷石料理-從精進料理到料亭的味覺進化論-d1e7f2.html
 published: 2026-05-23
-quality_score: 6.5
+quality_score: 8.8
 tags: 京都, 懷石料理, 日本料理, 京料理, 精進料理
 license: CC BY 4.0
 ---

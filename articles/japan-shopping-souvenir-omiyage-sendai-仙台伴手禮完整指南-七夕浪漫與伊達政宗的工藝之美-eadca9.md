@@ -6,7 +6,7 @@ category: souvenir-omiyage
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-souvenir-omiyage-sendai-仙台伴手禮完整指南-七夕浪漫與伊達政宗的工藝之美-eadca9.html
 published: 2026-06-01
-quality_score: 7.5
+quality_score: 8.7
 tags: 仙台伴手禮, 七夕織物, 伊達政宗, 仙台漆器, 日本東北
 license: CC BY 4.0
 ---

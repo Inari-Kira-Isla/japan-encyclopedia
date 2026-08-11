@@ -6,7 +6,7 @@ category: yakitori
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-yakitori-okinawa-沖繩燒鳥-琉球風情下的串燒文化-85bade.html
 published: 2026-04-06
-quality_score: 6.5
+quality_score: 8.7
 tags: 沖繩美食, 琉球文化, 阿古豚, 泡盛配對, 島嶼燒鳥
 license: CC BY 4.0
 ---

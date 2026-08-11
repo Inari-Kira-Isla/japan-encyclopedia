@@ -6,7 +6,7 @@ category: 100-yen-shops
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-100-yen-shops-kyoto-京都100円商店的料理日常-廚房與手作愛好者的採購秘境-ef3510.html
 published: 2026-06-29
-quality_score: 7.5
+quality_score: 8.7
 tags: 京都100円商店, 京都購物, 京都廚房用品, 京都手作, 京都自由行
 license: CC BY 4.0
 ---

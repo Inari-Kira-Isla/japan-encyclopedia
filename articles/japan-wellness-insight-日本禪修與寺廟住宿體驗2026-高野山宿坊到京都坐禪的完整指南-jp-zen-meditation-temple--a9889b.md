@@ -6,7 +6,7 @@ category: insight
 area: japan
 url: https://japan-encyclopedia.vercel.app/articles/japan-wellness-insight-日本禪修與寺廟住宿體驗2026-高野山宿坊到京都坐禪的完整指南-jp-zen-meditation-temple--a9889b.html
 published: 2026-03-31
-quality_score: 7.6
+quality_score: 8.3
 tags: 日本, 禪修, 宿坊, 寺廟住宿, 冥想
 license: CC BY 4.0
 ---

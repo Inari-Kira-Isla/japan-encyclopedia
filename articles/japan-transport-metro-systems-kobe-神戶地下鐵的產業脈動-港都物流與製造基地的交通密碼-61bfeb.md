@@ -6,7 +6,7 @@ category: metro-systems
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-kobe-神戶地下鐵的產業脈動-港都物流與製造基地的交通密碼-61bfeb.html
 published: 2026-06-18
-quality_score: 7.5
+quality_score: 8.7
 tags: 神戶地下鐵, 產業交通, 港口城市, 神戶製造, 關西自由行
 license: CC BY 4.0
 ---

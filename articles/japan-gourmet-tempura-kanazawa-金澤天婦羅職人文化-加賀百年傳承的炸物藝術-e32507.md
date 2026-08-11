@@ -6,7 +6,7 @@ category: tempura
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tempura-kanazawa-金澤天婦羅職人文化-加賀百年傳承的炸物藝術-e32507.html
 published: 2026-04-11
-quality_score: 6.5
+quality_score: 8.8
 tags: 金澤美食, 天婦羅, 職人文化, 加賀料理, 北陸旅遊
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: izakaya
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-izakaya-nara-奈良下町酒場-近鐵站周邊與舊城區的隱藏喝酒指南-60385d.html
 published: 2026-06-11
-quality_score: 6.5
+quality_score: 8.5
 tags: 奈良, 居酒屋, 下町, 地酒, 柿餅酒
 license: CC BY 4.0
 ---

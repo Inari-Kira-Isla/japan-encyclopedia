@@ -6,7 +6,7 @@ category: duty-free
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-duty-free-kobe-神戶購物懶人包-cp值最高的免稅伴手禮這樣買-6d5ac9.html
 published: 2026-06-01
-quality_score: 7.5
+quality_score: 8.5
 tags: 神戶免稅, 神戶伴手禮, 神戶購物, 三宮逛街, 神戶OUTLET
 license: CC BY 4.0
 ---

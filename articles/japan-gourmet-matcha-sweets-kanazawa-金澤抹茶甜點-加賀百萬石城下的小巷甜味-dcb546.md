@@ -6,7 +6,7 @@ category: matcha-sweets
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-matcha-sweets-kanazawa-金澤抹茶甜點-加賀百萬石城下的小巷甜味-dcb546.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤, kanazawa, 抹茶甜點, 加賀料理, 日本美食
 license: CC BY 4.0
 ---

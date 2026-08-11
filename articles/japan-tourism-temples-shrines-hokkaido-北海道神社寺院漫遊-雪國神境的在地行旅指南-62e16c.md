@@ -6,7 +6,7 @@ category: temples-shrines
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-temples-shrines-hokkaido-北海道神社寺院漫遊-雪國神境的在地行旅指南-62e16c.html
 published: 2026-05-23
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道, 神社, 寺院, 札幌, 宗教旅行
 license: CC BY 4.0
 ---

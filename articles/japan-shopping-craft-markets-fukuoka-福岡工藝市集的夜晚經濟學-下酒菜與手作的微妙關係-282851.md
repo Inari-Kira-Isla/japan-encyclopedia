@@ -6,7 +6,7 @@ category: craft-markets
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-craft-markets-fukuoka-福岡工藝市集的夜晚經濟學-下酒菜與手作的微妙關係-282851.html
 published: 2026-06-14
-quality_score: 7.5
+quality_score: 8.9
 tags: 福岡工藝市集, 九州手作, 博多文化, 日本市集, 屋台文化
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: onsen
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-onsen-kanazawa-金澤周邊溫泉小旅行-從古都出發的加賀溫泉鄉探訪-d7e86e.html
 published: 2026-07-02
-quality_score: 6.5
+quality_score: 8.6
 tags: 金澤溫泉, 加賀溫泉鄉, 日本溫泉, 山中溫泉, 山代溫泉
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: temples-shrines
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-temples-shrines-fukuoka-福岡神社寺院-隱藏在港都日常的在地信仰散步-d83e0b.html
 published: 2026-06-24
-quality_score: 6.5
+quality_score: 8.9
 tags: 福岡神社, 博多信仰, 九州靈性之地, 太宰府天滿宮, 櫛田神社
 license: CC BY 4.0
 ---

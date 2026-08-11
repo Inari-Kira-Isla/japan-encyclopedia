@@ -6,7 +6,7 @@ category: department-stores
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-department-stores-hokkaido-北海道百貨公司購物攻略-四季商品輪替與客群差異化服務完整解析-1dc0da.html
 published: 2026-04-04
-quality_score: 7.5
+quality_score: 8.7
 tags: 北海道購物, 札幌百貨公司, 季節性商品, 免稅購物, 日本零售
 license: CC BY 4.0
 ---

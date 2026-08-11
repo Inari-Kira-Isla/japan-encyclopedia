@@ -6,7 +6,7 @@ category: capsule-hotels
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-capsule-hotels-nara-奈良膠囊旅館-古都祭典-跟著梅花鹿跑行程的節省住宿方案-197905.html
 published: 2026-06-16
-quality_score: 6.5
+quality_score: 8.7
 tags: 奈良膠囊旅館, 奈良住宿, 奈良自助旅行, 古都住宿推薦, 日本膠囊住宿
 license: CC BY 4.0
 ---

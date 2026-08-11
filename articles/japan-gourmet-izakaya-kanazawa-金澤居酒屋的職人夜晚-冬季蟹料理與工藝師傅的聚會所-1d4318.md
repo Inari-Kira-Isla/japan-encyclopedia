@@ -6,7 +6,7 @@ category: izakaya
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-izakaya-kanazawa-金澤居酒屋的職人夜晚-冬季蟹料理與工藝師傅的聚會所-1d4318.html
 published: 2026-04-11
-quality_score: 6.5
+quality_score: 8.8
 tags: 金澤居酒屋, 越前蟹, 職人文化, 冬季美食, 石川縣
 license: CC BY 4.0
 ---

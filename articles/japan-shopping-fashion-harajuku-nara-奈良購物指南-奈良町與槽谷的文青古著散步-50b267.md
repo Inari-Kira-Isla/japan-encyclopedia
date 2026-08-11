@@ -6,7 +6,7 @@ category: fashion-harajuku
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-fashion-harajuku-nara-奈良購物指南-奈良町與槽谷的文青古著散步-50b267.html
 published: 2026-06-23
-quality_score: 7.5
+quality_score: 8.7
 tags: 奈良購物, 古著, 奈良町, 關西購物, 日本二手衣
 license: CC BY 4.0
 ---

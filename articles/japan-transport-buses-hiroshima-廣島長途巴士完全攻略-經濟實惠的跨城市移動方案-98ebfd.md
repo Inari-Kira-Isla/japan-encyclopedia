@@ -6,7 +6,7 @@ category: buses
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-buses-hiroshima-廣島長途巴士完全攻略-經濟實惠的跨城市移動方案-98ebfd.html
 published: 2026-04-02
-quality_score: 7.5
+quality_score: 8.7
 tags: 廣島交通, 長途巴士, 夜間巴士, 經濟旅遊, 跨城市移動
 license: CC BY 4.0
 ---

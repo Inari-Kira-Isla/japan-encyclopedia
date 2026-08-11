@@ -6,7 +6,7 @@ category: sake-brewery
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sake-brewery-sendai-仙台清酒釀造廠-雪國釀酒工藝與冬日限定體驗-aa4ed9.html
 published: 2026-06-11
-quality_score: 6.5
+quality_score: 8.7
 tags: 仙台清酒, 東北釀酒, 日本清酒體驗, 宮城縣美食, 冬季限定
 license: CC BY 4.0
 ---

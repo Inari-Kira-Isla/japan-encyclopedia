@@ -6,7 +6,7 @@ category: matcha-sweets
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-matcha-sweets-kyoto-京都抹茶甜點-從-180到-5000的價值解讀手冊-8259d4.html
 published: 2026-06-09
-quality_score: 6.5
+quality_score: 8.7
 tags: 京都抹茶甜點, 京都美食, 抹茶甜點價格, 京都伴手禮, 京都自由行
 license: CC BY 4.0
 ---

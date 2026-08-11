@@ -6,7 +6,7 @@ category: temple-stays
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-temple-stays-sendai-仙台宿坊指南-東北山形寺院的三種修行體驗-2c959e.html
 published: 2026-06-03
-quality_score: 6.5
+quality_score: 8.6
 tags: 仙台宿坊, 山形寺廟, 東北禪修, 藏王修行, 密教體驗
 license: CC BY 4.0
 ---

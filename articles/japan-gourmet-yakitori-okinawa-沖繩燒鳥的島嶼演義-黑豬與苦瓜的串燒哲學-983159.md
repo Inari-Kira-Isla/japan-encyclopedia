@@ -6,7 +6,7 @@ category: yakitori
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-yakitori-okinawa-沖繩燒鳥的島嶼演義-黑豬與苦瓜的串燒哲學-983159.html
 published: 2026-05-31
-quality_score: 6.5
+quality_score: 8.7
 tags: 沖繩美食, 燒鳥, 沖繩黑豬肉, 沖繩自由行, 那霸美食
 license: CC BY 4.0
 ---

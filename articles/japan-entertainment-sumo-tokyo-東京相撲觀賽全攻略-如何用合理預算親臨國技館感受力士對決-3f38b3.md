@@ -6,7 +6,7 @@ category: sumo
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-tokyo-東京相撲觀賽全攻略-如何用合理預算親臨國技館感受力士對決-3f38b3.html
 published: 2026-05-21
-quality_score: 6.5
+quality_score: 8.5
 tags: 東京相撲, 國技館, 兩國, 相撲觀賽, 本場所
 license: CC BY 4.0
 ---

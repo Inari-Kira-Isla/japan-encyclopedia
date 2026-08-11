@@ -6,7 +6,7 @@ category: onsen
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-onsen-okinawa-沖繩溫泉-亞熱帶島嶼的養生假期-4dbd19-1781849597.html
 published: 2026-06-19
-quality_score: 6.5
+quality_score: 8.2
 tags: 沖繩溫泉, 亞熱帶溫泉, 海島溫泉,  Okinawa onsen, 日本溫泉
 license: CC BY 4.0
 ---

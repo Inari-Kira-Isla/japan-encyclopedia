@@ -6,7 +6,7 @@ category: tempura
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tempura-kanazawa-金澤天婦羅-能登半島海域的鮮味密碼-f8cc5a.html
 published: 2026-06-26
-quality_score: 6.5
+quality_score: 8.2
 tags: 金澤天婦羅, 能登半島, 日本海海產, 加賀料理, 季節限定
 license: CC BY 4.0
 ---

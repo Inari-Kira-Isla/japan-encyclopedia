@@ -6,7 +6,7 @@ category: 100-yen-shops
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-100-yen-shops-tokyo-東京100円商店另類攻略-都電荒川線沿線平價購物私房路線-4f3b98.html
 published: 2026-06-03
-quality_score: 7.5
+quality_score: 8.7
 tags: 東京100円商店, 都電荒川線, 下町購物, 平價日円商店, 東京深度旅遊
 license: CC BY 4.0
 ---

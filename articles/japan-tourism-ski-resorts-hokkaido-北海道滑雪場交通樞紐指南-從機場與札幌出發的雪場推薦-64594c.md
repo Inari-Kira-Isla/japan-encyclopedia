@@ -6,7 +6,7 @@ category: ski-resorts
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-ski-resorts-hokkaido-北海道滑雪場交通樞紐指南-從機場與札幌出發的雪場推薦-64594c.html
 published: 2026-06-21
-quality_score: 6.5
+quality_score: 8.6
 tags: 北海道滑雪, 新千歲機場滑雪, 札幌滑雪, 二世谷滑雪, 日本粉雪
 license: CC BY 4.0
 ---

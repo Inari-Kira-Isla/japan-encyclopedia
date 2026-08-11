@@ -6,7 +6,7 @@ category: sake-brewery
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sake-brewery-hiroshima-廣島清酒釀造廠-戰後重建中的技術革新聖地-d1ba32.html
 published: 2026-04-04
-quality_score: 6.5
+quality_score: 8.7
 tags: 廣島清酒, 清酒釀造, 西條, 牡蠣搭配, 軟水釀造
 license: CC BY 4.0
 ---

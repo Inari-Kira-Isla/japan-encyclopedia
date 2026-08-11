@@ -6,7 +6,7 @@ category: gaming-arcades
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-gaming-arcades-sendai-仙台遊戲中心-東北人情味與街機文化的相遇-8afbc2.html
 published: 2026-06-12
-quality_score: 6.5
+quality_score: 8.7
 tags: 仙台, 遊戲中心, 街機, 東北, 日本娛樂
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: izakaya
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-izakaya-osaka-大阪立ち飲み文化-站著喝的庶民酒場-體驗在地人的日常-cf6304.html
 published: 2026-07-01
-quality_score: 6.5
+quality_score: 8.8
 tags: 大阪美食, 居酒屋, 立ち飲み, 庶民美食, 日本橋
 license: CC BY 4.0
 ---

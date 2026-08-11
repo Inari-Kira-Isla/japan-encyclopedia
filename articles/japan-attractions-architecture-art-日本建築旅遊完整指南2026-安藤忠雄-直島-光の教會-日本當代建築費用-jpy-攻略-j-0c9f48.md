@@ -6,7 +6,7 @@ category: architecture-art
 area: japan
 url: https://japan-encyclopedia.vercel.app/articles/japan-attractions-architecture-art-日本建築旅遊完整指南2026-安藤忠雄-直島-光の教會-日本當代建築費用-jpy-攻略-j-0c9f48.html
 published: 2026-03-29
-quality_score: 7.6
+quality_score: 8.4
 tags: 直島建築, 安藤忠雄, 日本建築旅遊, 地中美術館, 日本當代藝術
 license: CC BY 4.0
 ---

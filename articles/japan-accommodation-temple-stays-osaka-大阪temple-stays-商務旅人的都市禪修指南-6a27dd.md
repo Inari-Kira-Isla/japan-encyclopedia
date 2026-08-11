@@ -6,7 +6,7 @@ category: temple-stays
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-temple-stays-osaka-大阪temple-stays-商務旅人的都市禪修指南-6a27dd.html
 published: 2026-03-28
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪寺廟住宿, 都市禪修, 商務旅行, 關西旅遊, 文化體驗
 license: CC BY 4.0
 ---

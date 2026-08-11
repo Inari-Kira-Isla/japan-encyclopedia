@@ -6,7 +6,7 @@ category: day-trips
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-hiroshima-廣島周邊一日遊-內涵深度遊與在地體驗的完全指南-e27a5c.html
 published: 2026-06-27
-quality_score: 6.5
+quality_score: 8.7
 tags: 廣島一日遊, 尾道自助行, 鞆之浦景點, 兔島大久野島, 廣島深度旅遊
 license: CC BY 4.0
 ---

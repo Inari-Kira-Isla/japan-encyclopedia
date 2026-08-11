@@ -6,7 +6,7 @@ category: 100-yen-shops
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-100-yen-shops-kyoto-京都百円商店另類探索-古都參道與生活道具的平價文化之旅-f3f2f8.html
 published: 2026-06-28
-quality_score: 7.5
+quality_score: 8.7
 tags: 京都百円店, 京都購物, 京都自由行, 古都伴手禮, 日本平價購物
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: kaiseki
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-kaiseki-sendai-仙台懷石料理-魚市場周邊的家庭式會席體驗-fc6e15.html
 published: 2026-05-24
-quality_score: 6.5
+quality_score: 8.5
 tags: 仙台美食, 東北料理, 會席料理, 日本海鮮, 在地美食
 license: CC BY 4.0
 ---

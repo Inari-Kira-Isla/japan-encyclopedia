@@ -6,7 +6,7 @@ category: anime-manga
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-osaka-大阪動漫創作重鎮-關西御宅族的創意產地與隱藏版工作室巡禮-8b832f.html
 published: 2026-06-18
-quality_score: 6.5
+quality_score: 8.8
 tags: 大阪動漫, 關西動漫產業, 漫才文化, 御宅族, 日本橋
 license: CC BY 4.0
 ---

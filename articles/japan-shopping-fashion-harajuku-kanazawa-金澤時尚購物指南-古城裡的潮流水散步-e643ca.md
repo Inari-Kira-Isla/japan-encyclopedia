@@ -6,7 +6,7 @@ category: fashion-harajuku
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-fashion-harajuku-kanazawa-金澤時尚購物指南-古城裡的潮流水散步-e643ca.html
 published: 2026-05-21
-quality_score: 7.5
+quality_score: 8.7
 tags: 金澤購物, 石川縣, 北陸旅行, 香林坊, 時尚散步
 license: CC BY 4.0
 ---

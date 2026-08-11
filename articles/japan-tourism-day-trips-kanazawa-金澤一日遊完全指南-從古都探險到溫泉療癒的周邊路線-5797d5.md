@@ -6,7 +6,7 @@ category: day-trips
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-kanazawa-金澤一日遊完全指南-從古都探險到溫泉療癒的周邊路線-5797d5.html
 published: 2026-03-21
-quality_score: 6.5
+quality_score: 8.6
 tags: 金澤一日遊, 加賀溫泉鄉, 日本傳統工藝, 北陸旅遊, 山代溫泉
 license: CC BY 4.0
 ---

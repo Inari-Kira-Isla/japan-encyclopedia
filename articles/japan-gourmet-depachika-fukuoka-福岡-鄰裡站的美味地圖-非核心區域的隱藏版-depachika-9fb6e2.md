@@ -6,7 +6,7 @@ category: depachika
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-depachika-fukuoka-福岡-鄰裡站的美味地圖-非核心區域的隱藏版-depachika-9fb6e2.html
 published: 2026-05-22
-quality_score: 6.5
+quality_score: 8.7
 tags: 福岡美食, depachika, 九州, 日本, 地下食品
 license: CC BY 4.0
 ---

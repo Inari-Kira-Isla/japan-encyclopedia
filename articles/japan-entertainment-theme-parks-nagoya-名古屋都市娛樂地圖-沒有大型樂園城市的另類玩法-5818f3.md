@@ -6,7 +6,7 @@ category: theme-parks
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-theme-parks-nagoya-名古屋都市娛樂地圖-沒有大型樂園城市的另類玩法-5818f3.html
 published: 2026-06-12
-quality_score: 6.5
+quality_score: 8.6
 tags: 名古屋, 主題樂園, 都市娛樂, 遊戲中心, 主題咖啡廳
 license: CC BY 4.0
 ---

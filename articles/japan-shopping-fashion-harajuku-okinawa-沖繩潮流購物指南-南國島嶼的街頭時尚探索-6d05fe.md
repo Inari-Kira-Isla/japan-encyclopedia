@@ -6,7 +6,7 @@ category: fashion-harajuku
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-fashion-harajuku-okinawa-沖繩潮流購物指南-南國島嶼的街頭時尚探索-6d05fe.html
 published: 2026-06-05
-quality_score: 7.5
+quality_score: 8.8
 tags: 沖繩購物, 美國村, 北谷, 古著, 美式時尚
 license: CC BY 4.0
 ---

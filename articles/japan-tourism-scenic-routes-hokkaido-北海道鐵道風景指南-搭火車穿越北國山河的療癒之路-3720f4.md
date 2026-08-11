@@ -6,7 +6,7 @@ category: scenic-routes
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-hokkaido-北海道鐵道風景指南-搭火車穿越北國山河的療癒之路-3720f4.html
 published: 2026-06-24
-quality_score: 6.5
+quality_score: 8.6
 tags: 北海道, 鐵道旅行, 風景名勝, 鐵路周遊券, 道北
 license: CC BY 4.0
 ---

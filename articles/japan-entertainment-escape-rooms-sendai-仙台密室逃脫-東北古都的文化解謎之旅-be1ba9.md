@@ -6,7 +6,7 @@ category: escape-rooms
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-escape-rooms-sendai-仙台密室逃脫-東北古都的文化解謎之旅-be1ba9.html
 published: 2026-04-06
-quality_score: 6.5
+quality_score: 8.8
 tags: 仙台娛樂, 密室逃脫, 文化體驗, 東北旅遊, 團隊活動
 license: CC BY 4.0
 ---

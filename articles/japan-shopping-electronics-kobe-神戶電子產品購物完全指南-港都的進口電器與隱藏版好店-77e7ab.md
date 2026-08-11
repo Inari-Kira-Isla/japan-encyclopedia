@@ -6,7 +6,7 @@ category: electronics
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-electronics-kobe-神戶電子產品購物完全指南-港都的進口電器與隱藏版好店-77e7ab.html
 published: 2026-06-03
-quality_score: 7.5
+quality_score: 8.4
 tags: 
 license: CC BY 4.0
 ---

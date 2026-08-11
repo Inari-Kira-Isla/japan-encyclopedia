@@ -6,7 +6,7 @@ category: cycling
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-tokyo-東京巷弄單車探索-從街角小店到社群生活的深度漫遊-f30cd6.html
 published: 2026-07-01
-quality_score: 7.5
+quality_score: 8.6
 tags: 東京單車, 巷弄探索, 下北沢, 神楽坂, 社區文化
 license: CC BY 4.0
 ---

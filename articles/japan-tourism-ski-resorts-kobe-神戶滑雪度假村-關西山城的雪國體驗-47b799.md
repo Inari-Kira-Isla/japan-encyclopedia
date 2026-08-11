@@ -6,7 +6,7 @@ category: ski-resorts
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-ski-resorts-kobe-神戶滑雪度假村-關西山城的雪國體驗-47b799.html
 published: 2026-06-29
-quality_score: 6.5
+quality_score: 8.6
 tags: 神戶滑雪, 關西滑雪, 六甲山滑雪, 但馬高原滑雪, 日本滑雪自由行
 license: CC BY 4.0
 ---

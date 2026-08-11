@@ -6,7 +6,7 @@ category: ryokan
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-sendai-仙台溫泉旅館美食指南-在東北廚房品味一泊二食的極致旬味-f3e81f.html
 published: 2026-05-22
-quality_score: 6.5
+quality_score: 8.2
 tags: 仙台溫泉, 溫泉美食, 一泊二食, 日本料理, 東北溫泉
 license: CC BY 4.0
 ---

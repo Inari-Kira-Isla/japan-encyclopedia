@@ -6,7 +6,7 @@ category: ryokan
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-tokyo-東京料亭旅宿-米其林星級料理與傳統宿的味覺邂逅-d50476.html
 published: 2026-06-25
-quality_score: 6.5
+quality_score: 8.6
 tags: 東京住宿, Ryokan推薦, 東京料亭, 東京美食, 一泊二食
 license: CC BY 4.0
 ---

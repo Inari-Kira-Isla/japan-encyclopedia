@@ -6,7 +6,7 @@ category: yakitori
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-yakitori-tokyo-東京燒鳥-串起夜晚歡樂的鳥肉串燒魅力-fca882.html
 published: 2026-03-19
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京燒鳥, 東京美食, 日本料理, 串燒, 東京夜生活
 license: CC BY 4.0
 ---

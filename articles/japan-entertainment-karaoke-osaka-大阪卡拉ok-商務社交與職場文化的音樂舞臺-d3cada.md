@@ -6,7 +6,7 @@ category: karaoke
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-karaoke-osaka-大阪卡拉ok-商務社交與職場文化的音樂舞臺-d3cada.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.9
 tags: 大阪娛樂, 卡拉OK, 商務文化, 職場社交, 關西體驗
 license: CC BY 4.0
 ---

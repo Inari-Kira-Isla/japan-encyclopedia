@@ -6,7 +6,7 @@ category: souvenir-omiyage
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-souvenir-omiyage-nara-奈良車站伴手禮高效採購指南-趕行程也能買齊的5分鐘商圈-d50ebc.html
 published: 2026-06-26
-quality_score: 7.5
+quality_score: 8.6
 tags: 奈良伴手禮, 奈良車站, 日本伴手禮, 近鐵奈良站, 柿葉壽司
 license: CC BY 4.0
 ---

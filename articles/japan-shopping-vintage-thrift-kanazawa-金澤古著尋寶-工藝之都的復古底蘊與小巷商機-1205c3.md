@@ -6,7 +6,7 @@ category: vintage-thrift
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-vintage-thrift-kanazawa-金澤古著尋寶-工藝之都的復古底蘊與小巷商機-1205c3.html
 published: 2026-06-24
-quality_score: 7.5
+quality_score: 8.8
 tags: 金澤古著, 金澤購物, 北陸古著, 日本復古, 金澤自由行
 license: CC BY 4.0
 ---

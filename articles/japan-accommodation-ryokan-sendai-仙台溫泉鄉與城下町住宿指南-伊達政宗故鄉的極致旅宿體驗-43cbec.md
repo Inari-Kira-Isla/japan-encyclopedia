@@ -6,7 +6,7 @@ category: ryokan
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-sendai-仙台溫泉鄉與城下町住宿指南-伊達政宗故鄉的極致旅宿體驗-43cbec.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 8.5
 tags: 仙台住宿, Ryokan推薦, 日本東北溫泉, 伊達政宗, 秋保溫泉
 license: CC BY 4.0
 ---

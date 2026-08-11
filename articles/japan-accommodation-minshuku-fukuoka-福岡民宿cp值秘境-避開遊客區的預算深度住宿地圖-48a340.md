@@ -6,7 +6,7 @@ category: minshuku
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-fukuoka-福岡民宿cp值秘境-避開遊客區的預算深度住宿地圖-48a340.html
 published: 2026-03-24
-quality_score: 6.5
+quality_score: 8.7
 tags: 福岡民宿, 日本旅遊, 預算住宿, 民宿體驗, 九州旅行
 license: CC BY 4.0
 ---

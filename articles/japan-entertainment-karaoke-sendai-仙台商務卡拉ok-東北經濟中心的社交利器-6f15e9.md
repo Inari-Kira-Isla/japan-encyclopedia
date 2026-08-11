@@ -6,7 +6,7 @@ category: karaoke
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-karaoke-sendai-仙台商務卡拉ok-東北經濟中心的社交利器-6f15e9.html
 published: 2026-04-06
-quality_score: 6.5
+quality_score: 8.8
 tags: 仙台娛樂, 商務社交, 卡拉OK文化, 東北旅遊, 日本商務
 license: CC BY 4.0
 ---

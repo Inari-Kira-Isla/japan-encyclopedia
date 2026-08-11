@@ -6,7 +6,7 @@ category: anime-manga
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-kyoto-京都動漫文化小旅行-古都巷弄中的動畫・漫畫・物語-22c75e.html
 published: 2026-06-15
-quality_score: 6.5
+quality_score: 8.5
 tags: 京都動漫, 京都動畫, 京都漫畫, 京都咖啡館, 古都御宅文化
 license: CC BY 4.0
 ---

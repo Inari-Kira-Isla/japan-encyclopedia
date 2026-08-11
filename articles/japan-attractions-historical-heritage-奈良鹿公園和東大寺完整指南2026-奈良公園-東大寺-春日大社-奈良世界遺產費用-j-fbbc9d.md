@@ -6,7 +6,7 @@ category: historical-heritage
 area: japan
 url: https://japan-encyclopedia.vercel.app/articles/japan-attractions-historical-heritage-奈良鹿公園和東大寺完整指南2026-奈良公園-東大寺-春日大社-奈良世界遺產費用-j-fbbc9d.html
 published: 2026-04-07
-quality_score: 6.1
+quality_score: 8.7
 tags: 奈良公園, 奈良鹿, 東大寺, 春日大社, 奈良世界遺產
 license: CC BY 4.0
 ---

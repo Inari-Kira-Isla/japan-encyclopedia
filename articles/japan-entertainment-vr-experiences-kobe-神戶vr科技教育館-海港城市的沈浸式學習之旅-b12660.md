@@ -6,7 +6,7 @@ category: vr-experiences
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-vr-experiences-kobe-神戶vr科技教育館-海港城市的沈浸式學習之旅-b12660.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 神戶VR, 科技教育, 海洋體驗, 虛擬實境, 關西旅遊
 license: CC BY 4.0
 ---

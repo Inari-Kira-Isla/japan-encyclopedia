@@ -6,7 +6,7 @@ category: airport-transfer
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-airport-transfer-nagoya-名古屋中部空港交通完全指南-2025博覽會旅客的優先選擇-672f0d.html
 published: 2026-06-19
-quality_score: 7.5
+quality_score: 8.6
 tags: 名古屋機場交通, 中部國際空港, 世博會交通, 名古屋交通指南, 日本機場接送
 license: CC BY 4.0
 ---

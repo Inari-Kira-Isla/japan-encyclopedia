@@ -6,7 +6,7 @@ category: temple-stays
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-temple-stays-tokyo-東京寺廟住宿-都市中的禪修體驗與周邊宿坊推薦-f9e87c.html
 published: 2026-06-07
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京住宿, 寺廟住宿, 禪修體驗, 關東旅遊, 宿坊推薦
 license: CC BY 4.0
 ---

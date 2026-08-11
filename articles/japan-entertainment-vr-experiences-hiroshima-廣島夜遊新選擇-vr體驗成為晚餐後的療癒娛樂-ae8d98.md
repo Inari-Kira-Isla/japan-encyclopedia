@@ -6,7 +6,7 @@ category: vr-experiences
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-vr-experiences-hiroshima-廣島夜遊新選擇-vr體驗成為晚餐後的療癒娛樂-ae8d98.html
 published: 2026-06-08
-quality_score: 6.5
+quality_score: 8.7
 tags: 廣島VR體驗, 廣島夜遊, 廣島和平教育, VR虛擬實境, 廣島自由行
 license: CC BY 4.0
 ---

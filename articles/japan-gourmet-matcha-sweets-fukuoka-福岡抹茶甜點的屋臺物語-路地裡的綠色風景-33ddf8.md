@@ -6,7 +6,7 @@ category: matcha-sweets
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-matcha-sweets-fukuoka-福岡抹茶甜點的屋臺物語-路地裡的綠色風景-33ddf8.html
 published: 2026-07-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 福岡美食, 抹茶甜點, 九州旅遊, 屋台文化, 八女茶
 license: CC BY 4.0
 ---

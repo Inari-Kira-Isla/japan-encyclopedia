@@ -6,7 +6,7 @@ category: tempura
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tempura-okinawa-沖繩天婦羅-亞熱帶海鮮的酥脆秘密-65e835.html
 published: 2026-03-24
-quality_score: 6.5
+quality_score: 8.7
 tags: 沖繩美食, 天婦羅, 日本海鮮, 琉球料理, 亞熱帶海鮮
 license: CC BY 4.0
 ---

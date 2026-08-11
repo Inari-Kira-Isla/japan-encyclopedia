@@ -6,7 +6,7 @@ category: rental-cars
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-tokyo-東京輕型車租車攻略-小組出遊的省錢自駕方案-019851.html
 published: 2026-06-16
-quality_score: 7.5
+quality_score: 8.5
 tags: 東京租車, 輕型車, 關東自駕, 小組出遊, 省錢旅遊
 license: CC BY 4.0
 ---

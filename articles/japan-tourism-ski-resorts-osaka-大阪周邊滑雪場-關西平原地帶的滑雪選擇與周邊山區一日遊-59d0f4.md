@@ -6,7 +6,7 @@ category: ski-resorts
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-ski-resorts-osaka-大阪周邊滑雪場-關西平原地帶的滑雪選擇與周邊山區一日遊-59d0f4.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 8.5
 tags: 大阪滑雪, 關西滑雪場, 六甲山滑雪, 比叡山滑雪, 大阪一日遊
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: scenic-routes
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-nagoya-名古屋產業風格之路-從工廠舊址到創意園區的工業美學散步-0d2d49.html
 published: 2026-06-15
-quality_score: 6.5
+quality_score: 8.6
 tags: 名古屋產業之旅, 工業遺產, 磁浮鐵道, 陶瓷小鎮, 產業散步
 license: CC BY 4.0
 ---

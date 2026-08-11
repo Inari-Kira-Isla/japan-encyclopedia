@@ -6,7 +6,7 @@ category: cycling
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-hiroshima-廣島單車日常-跟著當地人騎進巷弄裡的生活騎行-3a5279.html
 published: 2026-06-05
-quality_score: 7.5
+quality_score: 8.7
 tags: 廣島單車, 廣島自行車, 廣島 Cycling, 廣島日常, 廣島深度旅遊
 license: CC BY 4.0
 ---

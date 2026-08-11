@@ -6,7 +6,7 @@ category: scenic-routes
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-kobe-神戶夕暮風景線-從港灣夜景到山間溫泉的黃金時刻之旅-56db61.html
 published: 2026-06-30
-quality_score: 6.5
+quality_score: 8.7
 tags: 神戶風景, 夜景名勝, 六甲山, 有馬溫泉, 夕陽景點
 license: CC BY 4.0
 ---

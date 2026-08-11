@@ -6,7 +6,7 @@ category: fashion-harajuku
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-fashion-harajuku-okinawa-沖繩潮流地圖-新天堂通的街頭時尚秘境-32ec49.html
 published: 2026-05-21
-quality_score: 7.5
+quality_score: 8.6
 tags: 沖繩購物, 新天堂通, 街頭時尚, 南國潮流, 古著
 license: CC BY 4.0
 ---

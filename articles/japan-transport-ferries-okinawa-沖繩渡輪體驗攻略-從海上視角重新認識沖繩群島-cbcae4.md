@@ -6,7 +6,7 @@ category: ferries
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-ferries-okinawa-沖繩渡輪體驗攻略-從海上視角重新認識沖繩群島-cbcae4.html
 published: 2026-06-30
-quality_score: 7.5
+quality_score: 8.6
 tags: 沖繩渡輪, 跳島旅行, 石垣島, 宮古島, 西表島
 license: CC BY 4.0
 ---

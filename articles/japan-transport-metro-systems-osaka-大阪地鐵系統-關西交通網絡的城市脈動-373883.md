@@ -6,7 +6,7 @@ category: metro-systems
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-osaka-大阪地鐵系統-關西交通網絡的城市脈動-373883.html
 published: 2026-03-15
-quality_score: 7.5
+quality_score: 8.9
 tags: 大阪交通, 地鐵系統, 城市探索, 關西旅遊, 公共運輸
 license: CC BY 4.0
 ---

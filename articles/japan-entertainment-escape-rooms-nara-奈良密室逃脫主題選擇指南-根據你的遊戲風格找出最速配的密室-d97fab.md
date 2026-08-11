@@ -6,7 +6,7 @@ category: escape-rooms
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-escape-rooms-nara-奈良密室逃脫主題選擇指南-根據你的遊戲風格找出最速配的密室-d97fab.html
 published: 2026-06-20
-quality_score: 6.5
+quality_score: 8.4
 tags: 奈良密室逃脫, 奈良娛樂, 關西密室, 奈良旅遊, 密室逃脫攻略
 license: CC BY 4.0
 ---

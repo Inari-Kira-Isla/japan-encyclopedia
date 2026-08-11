@@ -6,7 +6,7 @@ category: izakaya
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-izakaya-fukuoka-福岡居酒屋的另一種選擇-從私房小區酒場說起-d8fc87.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 9.0
 tags: 福岡美食, 博多居酒屋, 九州料理, 水炊き, 屋台文化
 license: CC BY 4.0
 ---

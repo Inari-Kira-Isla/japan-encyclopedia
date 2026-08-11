@@ -6,7 +6,7 @@ category: ski-resorts
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-ski-resorts-osaka-大阪滑雪度假村-關西交通樞紐的雪場攻略-4b0e77.html
 published: 2026-04-06
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪滑雪, 關西雪場, 日本滑雪, 冬季運動, 溫泉滑雪
 license: CC BY 4.0
 ---

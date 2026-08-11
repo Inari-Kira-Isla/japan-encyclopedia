@@ -6,7 +6,7 @@ category: shinkansen
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-hiroshima-廣島單車漫遊-穿越時代記憶的古城騎行指南-f544a2.html
 published: 2026-06-30
-quality_score: 7.5
+quality_score: 8.7
 tags: 廣島單車, 日本古城, 和平紀念, 單車旅行, 山陽地區
 license: CC BY 4.0
 ---

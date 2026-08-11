@@ -6,7 +6,7 @@ category: castle-towns
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-castle-towns-nagoya-名古屋城下町-探索尾張藩的歷史風情與現代風貌-54b8cd.html
 published: 2026-03-15
-quality_score: 6.5
+quality_score: 8.7
 tags: 名古屋, 城下町, 城堡城鎮, 尾張藩, 名古屋城
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: ramen
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-ramen-sendai-仙台拉麵-港都魚市的清晨滋味-9d72cd.html
 published: 2026-06-23
-quality_score: 6.5
+quality_score: 8.8
 tags: 仙台拉麵, 東北拉麵, 魚介系拉麵, 港都美食, 在地人推薦
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: izakaya
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-izakaya-tokyo-東京23區隱藏版居酒屋-跟著在地人微醺的巷內地圖-f8ddd1.html
 published: 2026-06-08
-quality_score: 6.5
+quality_score: 8.6
 tags: 東京居酒屋, 東京美食, 下町文化, 隱藏美食, 東京夜生活
 license: CC BY 4.0
 ---

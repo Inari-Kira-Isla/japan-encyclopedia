@@ -6,7 +6,7 @@ category: udon-soba
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-udon-soba-hokkaido-北海道烏龍麵與蕎麥麵-北國風味的麵食文化指南-c69994.html
 published: 2026-03-18
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道美食, 烏龍麵, 蕎麥麵, 日本料理, 札幌
 license: CC BY 4.0
 ---

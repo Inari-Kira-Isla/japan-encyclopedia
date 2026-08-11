@@ -6,7 +6,7 @@ category: vintage-thrift
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-vintage-thrift-nagoya-名古屋二手挖寶攻略-製造之城的生活方式古著密藏-b65ed9.html
 published: 2026-06-03
-quality_score: 7.5
+quality_score: 9.0
 tags: nagoya, vintage, 古著, thrift, 名古屋購物
 license: CC BY 4.0
 ---

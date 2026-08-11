@@ -6,7 +6,7 @@ category: udon-soba
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-udon-soba-kyoto-京都-udon-soba-一堂價值1500日圓的京都人語言學-da5859.html
 published: 2026-06-02
-quality_score: 6.5
+quality_score: 8.9
 tags: 京都美食, 乌龙麵, 日本麵食文化, 京料理, 关西美食
 license: CC BY 4.0
 ---

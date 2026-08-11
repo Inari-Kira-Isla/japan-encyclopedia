@@ -6,7 +6,7 @@ category: cycling
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-sendai-仙台單車探索-在杜之都感受東北風情的兩輪之旅-04e689.html
 published: 2026-03-15
-quality_score: 7.5
+quality_score: 8.9
 tags: 仙台, 單車旅行, 東北旅遊, 廣瀨川, 青葉城跡
 license: CC BY 4.0
 ---

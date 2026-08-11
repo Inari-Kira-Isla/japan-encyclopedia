@@ -6,7 +6,7 @@ category: festivals-matsuri
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-festivals-matsuri-kobe-神戶祭典夜生活指南-年輕世代的港都狂歡社交地圖-2f2ba4.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 神戶祭典, 夜生活, 屋台美食, 社交文化, 年輕人旅遊
 license: CC BY 4.0
 ---

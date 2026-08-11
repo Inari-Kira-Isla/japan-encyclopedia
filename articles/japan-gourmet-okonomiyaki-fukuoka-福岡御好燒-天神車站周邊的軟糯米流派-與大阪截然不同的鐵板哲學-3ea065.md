@@ -6,7 +6,7 @@ category: okonomiyaki
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-okonomiyaki-fukuoka-福岡御好燒-天神車站周邊的軟糯米流派-與大阪截然不同的鐵板哲學-3ea065.html
 published: 2026-06-06
-quality_score: 6.5
+quality_score: 8.9
 tags: 福岡美食, 御好燒, 九州料理, 天神, 博多吃喝
 license: CC BY 4.0
 ---

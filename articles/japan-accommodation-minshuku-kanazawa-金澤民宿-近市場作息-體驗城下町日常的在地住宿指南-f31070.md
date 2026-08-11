@@ -6,7 +6,7 @@ category: minshuku
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-kanazawa-金澤民宿-近市場作息-體驗城下町日常的在地住宿指南-f31070.html
 published: 2026-06-22
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤民宿, 近江町市場, 淺橋商鋪街, 長町武家宅邸, 金澤住宿
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: street-food
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-street-food-kanazawa-金澤街頭美食-古都風情的庶民滋味-bf60b5.html
 published: 2026-03-16
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤街頭美食, 石川縣美食, 日本北陸, 金澤旅遊, 加賀料理
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: day-trips
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-kyoto-京都賞楓秘境一日遊-避開人潮的深秋限定路線-8c1fed.html
 published: 2026-07-02
-quality_score: 6.5
+quality_score: 8.8
 tags: 京都賞楓, 一日遊, 日本楓葉, 非主流景點, 深度旅遊
 license: CC BY 4.0
 ---

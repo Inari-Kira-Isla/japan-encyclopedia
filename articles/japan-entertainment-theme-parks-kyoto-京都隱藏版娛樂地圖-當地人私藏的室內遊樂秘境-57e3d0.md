@@ -6,7 +6,7 @@ category: theme-parks
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-theme-parks-kyoto-京都隱藏版娛樂地圖-當地人私藏的室內遊樂秘境-57e3d0.html
 published: 2026-06-20
-quality_score: 6.5
+quality_score: 8.6
 tags: 京都主題樂園, 京都娛樂, 京都室內活動, 京都自由行, 京都親子遊
 license: CC BY 4.0
 ---

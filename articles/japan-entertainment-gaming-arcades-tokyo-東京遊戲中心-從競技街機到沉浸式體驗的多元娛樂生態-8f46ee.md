@@ -6,7 +6,7 @@ category: gaming-arcades
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-gaming-arcades-tokyo-東京遊戲中心-從競技街機到沉浸式體驗的多元娛樂生態-8f46ee.html
 published: 2026-03-22
-quality_score: 6.5
+quality_score: 8.6
 tags: 東京娛樂, 遊戲中心, 街機文化, 秋葉原, 新宿池袋
 license: CC BY 4.0
 ---

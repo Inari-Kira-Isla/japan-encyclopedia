@@ -6,7 +6,7 @@ category: sake-brewery
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sake-brewery-kyoto-京都伏見清酒釀造所-探訪水鄉澤國的釀酒秘徑-17830c.html
 published: 2026-06-07
-quality_score: 6.5
+quality_score: 8.7
 tags: 京都, 伏見, 清酒, 釀酒廠, 日本料理
 license: CC BY 4.0
 ---

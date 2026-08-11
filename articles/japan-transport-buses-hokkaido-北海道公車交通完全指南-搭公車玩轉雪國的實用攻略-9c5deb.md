@@ -6,7 +6,7 @@ category: buses
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-buses-hokkaido-北海道公車交通完全指南-搭公車玩轉雪國的實用攻略-9c5deb.html
 published: 2026-06-01
-quality_score: 7.5
+quality_score: 8.5
 tags: 北海道公車, 北海道交通, 北海道自助旅行, 北海道觀光, 富良野公車
 license: CC BY 4.0
 ---

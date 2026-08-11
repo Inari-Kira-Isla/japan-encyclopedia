@@ -6,7 +6,7 @@ category: historical-districts
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-kanazawa-金澤歷史街區深度遊-從加賀百萬石到現代工藝之都的時空漫步-ad2356.html
 published: 2026-05-25
-quality_score: 6.5
+quality_score: 8.6
 tags: 金澤, 歷史街區, 加賀藩, 江戶時代, 武士住宅
 license: CC BY 4.0
 ---

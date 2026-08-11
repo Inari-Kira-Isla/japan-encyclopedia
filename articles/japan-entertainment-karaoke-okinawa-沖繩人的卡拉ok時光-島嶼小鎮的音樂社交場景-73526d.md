@@ -6,7 +6,7 @@ category: karaoke
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-karaoke-okinawa-沖繩人的卡拉ok時光-島嶼小鎮的音樂社交場景-73526d.html
 published: 2026-03-24
-quality_score: 6.5
+quality_score: 8.8
 tags: 沖繩, 卡拉OK, 夜生活, 本地文化, 社交娛樂
 license: CC BY 4.0
 ---

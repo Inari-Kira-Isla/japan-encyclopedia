@@ -6,7 +6,7 @@ category: onsen
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-onsen-kobe-神戶溫泉探索-港都附近的傷湯名所與近郊秘湯-45b01c.html
 published: 2026-05-22
-quality_score: 6.5
+quality_score: 8.8
 tags: 神戶溫泉, 有馬溫泉, 關西溫泉, 蘆屋溫泉, 兵庫溫泉
 license: CC BY 4.0
 ---

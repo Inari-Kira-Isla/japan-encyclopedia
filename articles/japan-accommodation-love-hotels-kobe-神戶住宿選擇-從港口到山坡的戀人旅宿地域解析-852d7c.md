@@ -6,7 +6,7 @@ category: love-hotels
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-love-hotels-kobe-神戶住宿選擇-從港口到山坡的戀人旅宿地域解析-852d7c.html
 published: 2026-06-18
-quality_score: 6.5
+quality_score: 8.9
 tags: 神戶住宿, 戀人旅宿, 神戶港都, 關西住宿指南, 神戶交通
 license: CC BY 4.0
 ---

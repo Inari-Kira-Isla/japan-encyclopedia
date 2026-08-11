@@ -6,7 +6,7 @@ category: ryokan
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-kyoto-金澤周邊禪修慢旅-能登半島與加賀溫泉鄉的寺院住宿體驗-d41b59.html
 published: 2026-06-03
-quality_score: 6.5
+quality_score: 8.8
 tags: 金澤寺廟住宿, 加賀溫泉鄉宿坊, 能登半島禪修, 北美文化體驗, 日本溫泉寺院
 license: CC BY 4.0
 ---

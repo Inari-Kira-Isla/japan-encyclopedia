@@ -6,7 +6,7 @@ category: sake-brewery
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sake-brewery-sendai-仙台清酒釀造廠-海味與地酒的相逢-濱海的釀造美學-b89f83.html
 published: 2026-05-22
-quality_score: 6.5
+quality_score: 8.9
 tags: 仙台清酒, 宮城釀造廠, 日本東北清酒, 海味搭配, 藏元參觀
 license: CC BY 4.0
 ---

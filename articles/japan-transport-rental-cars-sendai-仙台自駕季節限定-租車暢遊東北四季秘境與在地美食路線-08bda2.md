@@ -6,7 +6,7 @@ category: rental-cars
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-sendai-仙台自駕季節限定-租車暢遊東北四季秘境與在地美食路線-08bda2.html
 published: 2026-06-05
-quality_score: 7.5
+quality_score: 8.6
 tags: 仙台租車, 東北自駕遊, 日本租車, 春季旅遊, 夏季旅遊
 license: CC BY 4.0
 ---

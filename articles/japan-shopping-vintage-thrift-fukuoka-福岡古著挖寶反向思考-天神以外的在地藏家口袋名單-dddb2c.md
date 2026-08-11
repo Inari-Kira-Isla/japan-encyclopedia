@@ -6,7 +6,7 @@ category: vintage-thrift
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-vintage-thrift-fukuoka-福岡古著挖寶反向思考-天神以外的在地藏家口袋名單-dddb2c.html
 published: 2026-06-17
-quality_score: 7.5
+quality_score: 8.8
 tags: 福岡古著, 九州古著, 二手衣物, 天神古著, 藥院古著
 license: CC BY 4.0
 ---

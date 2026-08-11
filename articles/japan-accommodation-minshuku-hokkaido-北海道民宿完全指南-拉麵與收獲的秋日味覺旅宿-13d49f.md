@@ -6,7 +6,7 @@ category: minshuku
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-hokkaido-北海道民宿完全指南-拉麵與收獲的秋日味覺旅宿-13d49f.html
 published: 2026-06-06
-quality_score: 6.5
+quality_score: 8.4
 tags: 北海道民宿, 拉麵, 帶廣, 旭川, 札幌
 license: CC BY 4.0
 ---

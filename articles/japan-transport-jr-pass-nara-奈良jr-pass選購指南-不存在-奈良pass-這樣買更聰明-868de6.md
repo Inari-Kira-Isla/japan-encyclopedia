@@ -6,7 +6,7 @@ category: jr-pass
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-jr-pass-nara-奈良jr-pass選購指南-不存在-奈良pass-這樣買更聰明-868de6.html
 published: 2026-05-25
-quality_score: 7.5
+quality_score: 8.7
 tags: 
 license: CC BY 4.0
 ---

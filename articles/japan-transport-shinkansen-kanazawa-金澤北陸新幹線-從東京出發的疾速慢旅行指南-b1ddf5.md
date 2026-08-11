@@ -6,7 +6,7 @@ category: shinkansen
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-kanazawa-金澤北陸新幹線-從東京出發的疾速慢旅行指南-b1ddf5.html
 published: 2026-06-21
-quality_score: 7.5
+quality_score: 8.6
 tags: 金澤, 北陸新幹綫, 日本鐵道, 兼六園, 21世紀美術館
 license: CC BY 4.0
 ---

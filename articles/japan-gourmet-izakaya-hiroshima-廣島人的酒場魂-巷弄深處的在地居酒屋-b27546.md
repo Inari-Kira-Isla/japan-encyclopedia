@@ -6,7 +6,7 @@ category: izakaya
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-izakaya-hiroshima-廣島人的酒場魂-巷弄深處的在地居酒屋-b27546.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 8.7
 tags: 廣島美食, 廣島居酒屋, 日本旅行, 広島, Izakaya
 license: CC BY 4.0
 ---

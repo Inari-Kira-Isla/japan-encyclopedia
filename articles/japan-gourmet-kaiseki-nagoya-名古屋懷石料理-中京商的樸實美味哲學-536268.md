@@ -6,7 +6,7 @@ category: kaiseki
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-kaiseki-nagoya-名古屋懷石料理-中京商的樸實美味哲學-536268.html
 published: 2026-05-22
-quality_score: 6.5
+quality_score: 8.5
 tags: 名古屋懷石料理, 中部国际空港交通, 荣町美食, 名古屋、会席, 日本懷石
 license: CC BY 4.0
 ---

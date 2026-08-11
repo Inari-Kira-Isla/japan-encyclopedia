@@ -6,7 +6,7 @@ category: temple-stays
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-temple-stays-okinawa-沖繩寺廟住宿完全指南-琉球佛教文化中的山海禪境-f2e7e7.html
 published: 2026-06-06
-quality_score: 6.5
+quality_score: 8.5
 tags: 沖繩寺廟住宿, 琉球佛教,  Okinawa temple stay, 沖繩民宿,  minshuku
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: temple-stays
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-temple-stays-nagoya-名古屋寺院住宿-從商業重鎮出發的-一日禪修-中繼體驗-4aa406.html
 published: 2026-06-09
-quality_score: 6.5
+quality_score: 8.3
 tags: 名古屋寺廟住宿, 一日禪修, 比叡山, 高野山, 中部寺院
 license: CC BY 4.0
 ---

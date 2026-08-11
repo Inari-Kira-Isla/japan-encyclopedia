@@ -6,7 +6,7 @@ category: tonkatsu
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tonkatsu-kyoto-京都炸豬排職人工藝-古都匠心與洋食技法的完美融合-1a595d.html
 published: 2026-04-02
-quality_score: 6.5
+quality_score: 8.7
 tags: 京都美食, 炸豬排, 職人文化, 日式洋食, 美食工藝
 license: CC BY 4.0
 ---

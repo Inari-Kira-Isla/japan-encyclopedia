@@ -6,7 +6,7 @@ category: day-trips
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-kobe-神戶美食一日遊-從港口城市出發的在地味覺探索-0a1098.html
 published: 2026-03-29
-quality_score: 6.5
+quality_score: 8.5
 tags: 神戶, 美食一日遊, 日本和牛, 關西旅遊, 明石
 license: CC BY 4.0
 ---

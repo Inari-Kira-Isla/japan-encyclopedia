@@ -6,7 +6,7 @@ category: duty-free
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-duty-free-hokkaido-北海道新千歲機場免稅店攻略-冬季限定海鮮與特色伴手禮採購指南-e3fbf8.html
 published: 2026-06-14
-quality_score: 7.5
+quality_score: 8.5
 tags: 北海道免稅店, 新千歲機場, 冬季海鮮, 北海道伴手禮, 日本購物
 license: CC BY 4.0
 ---

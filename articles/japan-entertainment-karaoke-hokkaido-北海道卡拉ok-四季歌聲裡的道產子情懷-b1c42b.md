@@ -6,7 +6,7 @@ category: karaoke
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-karaoke-hokkaido-北海道卡拉ok-四季歌聲裡的道產子情懷-b1c42b.html
 published: 2026-04-03
-quality_score: 6.5
+quality_score: 8.8
 tags: 北海道, 卡拉OK, 札幌薄野, 函館, 小樽
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: garden-parks
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-nara-奈良禪意庭園-古都的靜謐修行之美-07538d.html
 published: 2026-06-28
-quality_score: 6.5
+quality_score: 8.7
 tags: 奈良庭園, 日本古都, 禪意景點, 關西旅遊, 靜謐之旅
 license: CC BY 4.0
 ---

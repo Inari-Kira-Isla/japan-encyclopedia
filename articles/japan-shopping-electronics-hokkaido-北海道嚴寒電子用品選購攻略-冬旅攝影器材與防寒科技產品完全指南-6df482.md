@@ -6,7 +6,7 @@ category: electronics
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-electronics-hokkaido-北海道嚴寒電子用品選購攻略-冬旅攝影器材與防寒科技產品完全指南-6df482.html
 published: 2026-06-04
-quality_score: 7.5
+quality_score: 8.7
 tags: 北海道電子產品, 雪地攝影器材, 防寒電子裝備, 札幌電器行, 小樽相机店
 license: CC BY 4.0
 ---

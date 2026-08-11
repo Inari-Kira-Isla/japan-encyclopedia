@@ -6,7 +6,7 @@ category: tempura
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tempura-osaka-大阪天婦羅-關西食材集散地的供應鏈優勢-c5c06b.html
 published: 2026-04-03
-quality_score: 6.5
+quality_score: 8.9
 tags: 大阪美食, 天婦羅, 供應鏈, 關西料理, 食材溯源
 license: CC BY 4.0
 ---

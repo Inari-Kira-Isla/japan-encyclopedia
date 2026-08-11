@@ -6,7 +6,7 @@ category: cycling
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-okinawa-沖繩單車旅遊完全指南-島嶼騎行的獨特魅力-caa451.html
 published: 2026-04-03
-quality_score: 7.5
+quality_score: 8.7
 tags: 沖繩單車, 島嶼騎行,  Okinawa Cycling, 渡嘉敷島, 古宇利大橋
 license: CC BY 4.0
 ---

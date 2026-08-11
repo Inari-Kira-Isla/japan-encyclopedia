@@ -6,7 +6,7 @@ category: depachika
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-depachika-kanazawa-金澤depachika的傍晚時光-當地職人的食材寶庫與折扣攻略-658482.html
 published: 2026-07-04
-quality_score: 6.5
+quality_score: 8.8
 tags: 金澤Depachika, 金澤美食, 近江町市場, 加賀野菜, 日本海產
 license: CC BY 4.0
 ---

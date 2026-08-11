@@ -6,7 +6,7 @@ category: udon-soba
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-udon-soba-kanazawa-金澤烏龍麵與蕎麥麵-加賀飲食文化的深厚底蘊-cd56ed.html
 published: 2026-06-07
-quality_score: 6.5
+quality_score: 8.9
 tags: 金澤美食, 加賀烏龍麵, 日本海沿岸, 金澤旅遊, 烏龍麵推薦
 license: CC BY 4.0
 ---

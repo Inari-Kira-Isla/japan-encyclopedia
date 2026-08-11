@@ -6,7 +6,7 @@ category: ferries
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-ferries-kobe-神戶出發-瀨戶內海隱藏版跳島航線-不在行程名單上的在地秘境-ffcbe4.html
 published: 2026-06-01
-quality_score: 7.5
+quality_score: 8.6
 tags: 神戶渡輪, 瀨戶內海跳島, 小豆島福田航線, 鳴門航線, 日本自由行
 license: CC BY 4.0
 ---

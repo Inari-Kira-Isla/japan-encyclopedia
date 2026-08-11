@@ -6,7 +6,7 @@ category: escape-rooms
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-escape-rooms-sendai-仙台密室逃脫新世代-科技融合的社交娛樂革命-047736.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.8
 tags: 仙台娛樂, 密室逃脫, 科技體驗, 團隊建設, AR遊戲
 license: CC BY 4.0
 ---

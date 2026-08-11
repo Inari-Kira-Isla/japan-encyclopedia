@@ -6,7 +6,7 @@ category: rental-cars
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-kyoto-京都租車戰略指南-以古都為樞紐的關西自駕中樞玩法-020206.html
 published: 2026-06-17
-quality_score: 7.5
+quality_score: 8.6
 tags: 京都租車, 關西自駕, 京都自由行, 日本租車攻略, 京都交通
 license: CC BY 4.0
 ---

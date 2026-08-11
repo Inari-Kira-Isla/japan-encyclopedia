@@ -6,7 +6,7 @@ category: street-food
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-street-food-kobe-神戶巷弄的國際味覺-港都隱藏版街頭小吃-009d70.html
 published: 2026-07-02
-quality_score: 6.5
+quality_score: 8.7
 tags: 神戶, 街頭美食, 港都, 南京町, 地下商場
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: ryokan
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-kyoto-京都巷弄隱藏版小旅宿-探索冷門街區的傳統溫泉與職人體驗-179d1d.html
 published: 2026-06-09
-quality_score: 6.5
+quality_score: 8.5
 tags: 京都Ryokan, 冷門街區, 隱藏版住宿, 西陣織, 鞍馬溫泉
 license: CC BY 4.0
 ---

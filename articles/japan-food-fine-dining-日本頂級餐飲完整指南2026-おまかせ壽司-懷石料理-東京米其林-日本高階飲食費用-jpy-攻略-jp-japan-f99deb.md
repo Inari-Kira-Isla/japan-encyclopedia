@@ -6,7 +6,7 @@ category: fine-dining
 area: japan
 url: https://japan-encyclopedia.vercel.app/articles/japan-food-fine-dining-日本頂級餐飲完整指南2026-おまかせ壽司-懷石料理-東京米其林-日本高階飲食費用-jpy-攻略-jp-japan-f99deb.html
 published: 2026-03-29
-quality_score: 7.6
+quality_score: 8.5
 tags: 日本おまかせ, 東京高端壽司, 日本米其林, 懷石料理, 日本頂級美食
 license: CC BY 4.0
 ---

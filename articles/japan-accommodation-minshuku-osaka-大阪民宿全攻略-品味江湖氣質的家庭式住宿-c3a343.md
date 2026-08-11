@@ -6,7 +6,7 @@ category: minshuku
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-osaka-大阪民宿全攻略-品味江湖氣質的家庭式住宿-c3a343.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪民宿, Minshuku背包客, 大阪住宿攻略, 關西自由行, budget travel Osaka
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: izakaya
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-izakaya-osaka-大阪-食都-的酒與料理對談-天王寺-阿倍野圈的在地面孔-6d24a1.html
 published: 2026-06-14
-quality_score: 6.5
+quality_score: 8.6
 tags: 大阪居酒屋, 天王寺美食, 阿倍野美食, 大阪下町, 大阪酒場
 license: CC BY 4.0
 ---

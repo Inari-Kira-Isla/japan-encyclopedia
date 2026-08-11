@@ -6,7 +6,7 @@ category: vintage-thrift
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-vintage-thrift-okinawa-金澤古著獵人潛攻略-工藝之都的復古時尚尋寶地圖-f3c895.html
 published: 2026-06-20
-quality_score: 7.5
+quality_score: 8.6
 tags: 金澤古著, 石川縣購物, 日本古著攻略, vintage thrift, 金澤自由行
 license: CC BY 4.0
 ---

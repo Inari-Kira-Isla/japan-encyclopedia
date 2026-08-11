@@ -6,7 +6,7 @@ category: okonomiyaki
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-okonomiyaki-kanazawa-金澤御好燒-加賀百萬石傳承的海味臺式魅力-c126f1.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤美食, 御好燒推荐, 加贺料理, 金泽旅游, 日本海海鲜
 license: CC BY 4.0
 ---

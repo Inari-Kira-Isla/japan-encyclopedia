@@ -6,7 +6,7 @@ category: rental-cars
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-kobe-神戶自駕遊別冊-從港都到山嶽溫泉的隱藏路線-adb6be.html
 published: 2026-07-01
-quality_score: 7.5
+quality_score: 8.7
 tags: 神戶租車, 神戶自駕, 有馬溫泉, 六甲山, 關西租車
 license: CC BY 4.0
 ---

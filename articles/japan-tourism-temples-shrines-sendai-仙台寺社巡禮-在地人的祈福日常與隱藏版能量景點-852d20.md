@@ -6,7 +6,7 @@ category: temples-shrines
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-temples-shrines-sendai-仙台寺社巡禮-在地人的祈福日常與隱藏版能量景點-852d20.html
 published: 2026-06-02
-quality_score: 6.5
+quality_score: 9.0
 tags: 仙台寺社, 東北能量景點, 榴岡神社, 在地人参拜, 伊達政宗
 license: CC BY 4.0
 ---

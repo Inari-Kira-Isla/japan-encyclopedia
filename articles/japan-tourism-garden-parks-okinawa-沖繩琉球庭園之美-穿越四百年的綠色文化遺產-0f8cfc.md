@@ -6,7 +6,7 @@ category: garden-parks
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-okinawa-沖繩琉球庭園之美-穿越四百年的綠色文化遺產-0f8cfc.html
 published: 2026-06-09
-quality_score: 6.5
+quality_score: 8.9
 tags: 沖繩庭園, 琉球文化, 自然療癒, 熱帶風情, 歷史巡禮
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: day-trips
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-nagoya-名古屋季節限定一日遊-中部自然與文化的微旅行提案-275594.html
 published: 2026-04-03
-quality_score: 6.5
+quality_score: 8.6
 tags: 名古屋一日遊, 中部日本, 香嵐溪, 犬山城, 溫泉
 license: CC BY 4.0
 ---

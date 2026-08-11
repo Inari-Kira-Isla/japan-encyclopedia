@@ -6,7 +6,7 @@ category: buses
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-buses-nara-仙台單車生活術-日常騎行的城市觀察學-7b3d3a.html
 published: 2026-06-19
-quality_score: 7.5
+quality_score: 8.6
 tags: 仙台單車, 杜之都, 廣瀨川, 東北單車, 日本單車生活
 license: CC BY 4.0
 ---

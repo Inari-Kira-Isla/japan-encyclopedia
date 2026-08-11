@@ -6,7 +6,7 @@ category: electronics
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-electronics-hiroshima-廣島電子產品購物指南-從大型電器賣場到專業音響店的完整攻略-0d981a-1780341976.html
 published: 2026-06-01
-quality_score: 7.5
+quality_score: 8.7
 tags: 廣島電子產品, 廣島電器行, 日本電器購物, 廣島自由行, 中國地方電子產品
 license: CC BY 4.0
 ---

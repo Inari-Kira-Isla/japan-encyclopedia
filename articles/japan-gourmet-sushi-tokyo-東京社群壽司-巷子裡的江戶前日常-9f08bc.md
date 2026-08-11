@@ -6,7 +6,7 @@ category: sushi
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sushi-tokyo-東京社群壽司-巷子裡的江戶前日常-9f08bc.html
 published: 2026-06-08
-quality_score: 6.5
+quality_score: 8.4
 tags: 東京壽司, 社區美食, 江戶前, 目黑, 神樂坂
 license: CC BY 4.0
 ---

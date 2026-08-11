@@ -6,7 +6,7 @@ category: nightlife
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-sendai-仙台夜生活-土灶爐邊的東北酒食人情-1696d1.html
 published: 2026-05-24
-quality_score: 6.5
+quality_score: 8.9
 tags: 仙台夜生活, 東北美食, 在地居酒屋, 牛タン, 仙台自由行
 license: CC BY 4.0
 ---

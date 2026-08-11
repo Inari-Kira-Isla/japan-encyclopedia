@@ -6,7 +6,7 @@ category: cycling
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-okinawa-沖繩單車秘境探險-遠離觀光人潮的在地騎行路線-155159.html
 published: 2026-06-30
-quality_score: 7.5
+quality_score: 8.7
 tags: 沖繩單車, 山原單車道,  Okinawa cycling, 沖繩秘境, 島嶼騎行
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: castle-towns
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-castle-towns-kyoto-京都的非典型城堡地帶-從港口倉庫到武家町家的另類古城路徑-9e9f9d.html
 published: 2026-05-24
-quality_score: 6.5
+quality_score: 8.5
 tags: 京都城堡城鎮, 京都古城, 伏見稻荷, 宇治茶乡, 非典型城堡遊
 license: CC BY 4.0
 ---

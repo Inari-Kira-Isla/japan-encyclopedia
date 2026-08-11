@@ -6,7 +6,7 @@ category: minshuku
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-kanazawa-金澤-minshuku-淺野川畔的散步住宿-發現城下了另一種可能-f6bda5.html
 published: 2026-06-03
-quality_score: 6.5
+quality_score: 8.5
 tags: 金澤民宿, 淺野川, 古民家住宿, 北陸旅行, 散步住宿
 license: CC BY 4.0
 ---

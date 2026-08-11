@@ -6,7 +6,7 @@ category: sake-brewery
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sake-brewery-hiroshima-廣島清酒釀造所-海幸山幸の餐桌搭配學-917876.html
 published: 2026-05-23
-quality_score: 6.5
+quality_score: 8.7
 tags: 廣島清酒, Sake Brewery, 西條, 酒藏通, 日本清酒
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: ramen
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-ramen-kobe-神戶拉麵-開港150年的國際化港都麵食進化-458fcd.html
 published: 2026-03-29
-quality_score: 6.5
+quality_score: 8.8
 tags: 神戶美食, 拉麵文化, 港都飲食, 關西料理, 國際化美食
 license: CC BY 4.0
 ---

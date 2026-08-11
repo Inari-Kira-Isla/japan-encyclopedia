@@ -6,7 +6,7 @@ category: craft-markets
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-craft-markets-kanazawa-金澤晨昏市集散步-跟著當地人湊熱鬧的時間學-8504ee.html
 published: 2026-06-30
-quality_score: 7.5
+quality_score: 8.9
 tags: 金澤市集, 晨間市集, 手作市集, 骨董市集, 加賀工藝
 license: CC BY 4.0
 ---

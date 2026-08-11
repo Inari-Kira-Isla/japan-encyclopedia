@@ -6,7 +6,7 @@ category: rental-cars
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-nara-奈良自駕遊完全指南-租車暢遊千年古都周邊的秘境攻略-56f184.html
 published: 2026-06-01
-quality_score: 7.5
+quality_score: 8.3
 tags: 奈良租車, 奈良自駕, 日本租车, 奈良旅游, 吉野山
 license: CC BY 4.0
 ---

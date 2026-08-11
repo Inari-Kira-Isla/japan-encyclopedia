@@ -6,7 +6,7 @@ category: scenic-routes
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-sendai-仙台絕景車道自駕指南-海岸線與高原的療癒風光之路-26c942.html
 published: 2026-05-21
-quality_score: 6.5
+quality_score: 8.5
 tags: 仙台自駕, 東北風景道路, 海岸線自駕, 藏王高原, 氣仙沼
 license: CC BY 4.0
 ---

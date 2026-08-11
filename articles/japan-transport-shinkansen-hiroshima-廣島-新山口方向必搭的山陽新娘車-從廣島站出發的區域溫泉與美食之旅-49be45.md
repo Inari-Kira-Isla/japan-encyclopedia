@@ -6,7 +6,7 @@ category: shinkansen
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-hiroshima-廣島-新山口方向必搭的山陽新娘車-從廣島站出發的區域溫泉與美食之旅-49be45.html
 published: 2026-06-25
-quality_score: 7.5
+quality_score: 8.6
 tags: 山陽新娘車, 廣島車站, 廣島溫泉, 廣島燒, 宮島溫泉
 license: CC BY 4.0
 ---

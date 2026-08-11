@@ -6,7 +6,7 @@ category: anime-manga
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-okinawa-沖繩動漫創作地圖-探訪在地創作者的工作室與創作空間-e22eee.html
 published: 2026-06-25
-quality_score: 6.5
+quality_score: 8.7
 tags: 沖繩動漫, 在地創作, 漫畫工作室, 獨立漫畫, 南國動漫文化
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: rental-cars
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-tokyo-東京租車實用指南-什麼情況該租車-熱門租車公司比較-13fc6a.html
 published: 2026-05-22
-quality_score: 7.5
+quality_score: 8.6
 tags: 東京租車, 東京自駕, 東京交通, 關東租車, 日本租車
 license: CC BY 4.0
 ---

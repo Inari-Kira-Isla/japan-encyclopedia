@@ -6,7 +6,7 @@ category: festivals-matsuri
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-festivals-matsuri-nara-奈良非主流祭典攻略-在地人帶路的隱藏版慶典與深度體驗-399dd5.html
 published: 2026-07-02
-quality_score: 6.5
+quality_score: 8.6
 tags: 奈良祭典, 日本祭典, 社區祭典, 非主流景點, 深度旅遊
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: temples-shrines
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-temples-shrines-okinawa-沖繩神社寺院祈願指南-依照目的選擇的能量景點-a4a39c.html
 published: 2026-04-08
-quality_score: 6.5
+quality_score: 8.7
 tags: 沖繩神社, 沖繩寺廟, 能量景點, 祈願指南, 琉球文化
 license: CC BY 4.0
 ---

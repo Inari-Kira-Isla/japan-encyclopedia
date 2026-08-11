@@ -6,7 +6,7 @@ category: department-stores
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-department-stores-nara-奈良百貨購物實戰指南-聰明買手的季節折扣與無障礙友善消費-120e0d.html
 published: 2026-03-24
-quality_score: 7.5
+quality_score: 8.7
 tags: 奈良購物, 百貨公司, 季節折扣, 免稅購物, 日本古都
 license: CC BY 4.0
 ---

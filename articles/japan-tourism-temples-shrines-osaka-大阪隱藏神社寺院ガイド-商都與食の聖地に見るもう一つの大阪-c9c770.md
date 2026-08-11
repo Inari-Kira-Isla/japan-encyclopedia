@@ -6,7 +6,7 @@ category: temples-shrines
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-temples-shrines-osaka-大阪隱藏神社寺院ガイド-商都與食の聖地に見るもう一つの大阪-c9c770.html
 published: 2026-06-04
-quality_score: 6.5
+quality_score: 8.9
 tags: 大阪神社, 大阪寺院, 穴場観光スポット, 隐藏景点, 能量景点
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: scenic-routes
 area: japan
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-富士山周邊旅遊供應鏈解構-河口湖-富士宮-吉田-富士五湖旅遊業的背後運作機制-fuji-supply-c-3a6808.html
 published: 2026-03-28
-quality_score: 7.6
+quality_score: 8.4
 tags: 富士山, 河口湖, 富士五湖, 日本旅遊, 供應鏈
 license: CC BY 4.0
 ---

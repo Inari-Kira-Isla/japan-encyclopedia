@@ -6,7 +6,7 @@ category: anime-manga
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-sendai-仙台動漫創作地圖-東北創作者的搖籃-464ff4.html
 published: 2026-05-21
-quality_score: 6.5
+quality_score: 8.7
 tags: 仙台, 東北日本, 動漫, 同人誌, 御宅文化
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: depachika
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-depachika-okinawa-沖繩-depachika-的另一種可能-遠離觀光區的在地食品賣場-aef21d.html
 published: 2026-05-20
-quality_score: 6.5
+quality_score: 8.9
 tags: 沖繩, 地下食品, depachika, 超市, 在地美食
 license: CC BY 4.0
 ---

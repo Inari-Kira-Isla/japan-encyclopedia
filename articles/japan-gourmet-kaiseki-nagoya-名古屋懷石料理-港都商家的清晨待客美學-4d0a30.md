@@ -6,7 +6,7 @@ category: kaiseki
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-kaiseki-nagoya-名古屋懷石料理-港都商家的清晨待客美學-4d0a30.html
 published: 2026-06-25
-quality_score: 6.5
+quality_score: 8.7
 tags: 名古屋懷石, 港都美食, 商業文化, 朝食體驗, 名古屋料亭
 license: CC BY 4.0
 ---

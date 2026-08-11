@@ -6,7 +6,7 @@ category: castle-towns
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-castle-towns-kyoto-京都城下町-隱藏在巷弄中的武家與町家故事-cf9761.html
 published: 2026-06-20
-quality_score: 6.5
+quality_score: 8.7
 tags: 京都城下町, 二條城, 武家町家, 圍棋神社, 伏見稻荷
 license: CC BY 4.0
 ---

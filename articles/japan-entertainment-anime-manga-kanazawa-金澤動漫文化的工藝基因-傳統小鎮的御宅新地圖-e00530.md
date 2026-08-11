@@ -6,7 +6,7 @@ category: anime-manga
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-kanazawa-金澤動漫文化的工藝基因-傳統小鎮的御宅新地圖-e00530.html
 published: 2026-06-15
-quality_score: 6.5
+quality_score: 8.9
 tags: 金澤動漫, 金澤御宅, 日本動漫聖地, 工藝系動漫, 金澤自由行
 license: CC BY 4.0
 ---

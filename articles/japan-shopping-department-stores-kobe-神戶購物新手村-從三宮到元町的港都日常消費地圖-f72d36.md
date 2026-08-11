@@ -6,7 +6,7 @@ category: department-stores
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-department-stores-kobe-神戶購物新手村-從三宮到元町的港都日常消費地圖-f72d36.html
 published: 2026-07-04
-quality_score: 7.5
+quality_score: 8.9
 tags: 神戶購物, 神戶百货公司, 三宮購物, 元町商圈, 關西購物
 license: CC BY 4.0
 ---

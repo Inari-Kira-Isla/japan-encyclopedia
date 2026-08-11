@@ -6,7 +6,7 @@ category: cycling
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-nagoya-名古屋都市騎行-共享單車與綠色通勤的新世代-82910f.html
 published: 2026-03-24
-quality_score: 7.5
+quality_score: 8.7
 tags: 名古屋自行車, 共享單車系統, 都市騎行, 綠色出行, 日本交通
 license: CC BY 4.0
 ---

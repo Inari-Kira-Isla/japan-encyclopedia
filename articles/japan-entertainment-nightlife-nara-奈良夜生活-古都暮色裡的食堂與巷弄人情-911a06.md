@@ -6,7 +6,7 @@ category: nightlife
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-nara-奈良夜生活-古都暮色裡的食堂與巷弄人情-911a06.html
 published: 2026-06-15
-quality_score: 6.5
+quality_score: 8.9
 tags: 奈良, 夜生活, 古都, 食堂, 居酒屋
 license: CC BY 4.0
 ---

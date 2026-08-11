@@ -6,7 +6,7 @@ category: fashion-harajuku
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-fashion-harajuku-sendai-仙台潮流購物指南-類原宿風格的年輕人時尚聖地-e42e39.html
 published: 2026-06-05
-quality_score: 7.5
+quality_score: 8.6
 tags: 仙台購物, 日本東北時尚, 年輕人潮流, 一番街, 古著
 license: CC BY 4.0
 ---

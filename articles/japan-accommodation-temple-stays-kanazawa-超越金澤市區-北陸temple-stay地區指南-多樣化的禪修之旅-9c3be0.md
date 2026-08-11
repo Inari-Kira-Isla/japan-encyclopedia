@@ -6,7 +6,7 @@ category: temple-stays
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-temple-stays-kanazawa-超越金澤市區-北陸temple-stay地區指南-多樣化的禪修之旅-9c3be0.html
 published: 2026-03-24
-quality_score: 6.5
+quality_score: 8.4
 tags: 金澤, 北陸, 寺廟住宿, 禪修體驗, 能登半島
 license: CC BY 4.0
 ---

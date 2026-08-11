@@ -6,7 +6,7 @@ category: shinkansen
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-kyoto-京都新幹綫完全指南-從各進出點進入古都的鐵道策略-f33a13.html
 published: 2026-06-09
-quality_score: 7.5
+quality_score: 8.7
 tags: 京都, 新幹綫, 關西, 交通, 鐵道
 license: CC BY 4.0
 ---

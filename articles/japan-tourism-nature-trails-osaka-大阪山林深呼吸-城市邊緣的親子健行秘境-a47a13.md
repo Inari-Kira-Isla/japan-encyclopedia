@@ -6,7 +6,7 @@ category: nature-trails
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-osaka-大阪山林深呼吸-城市邊緣的親子健行秘境-a47a13.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪自然步道, 親子健行, 關西戶外, 六甲山, 高野山
 license: CC BY 4.0
 ---

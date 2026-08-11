@@ -6,7 +6,7 @@ category: wagyu
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-wagyu-osaka-大阪人的日常和牛-隱藏在巷弄裡的親民燒肉名店-cf95eb.html
 published: 2026-07-03
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪美食, 和牛, 燒肉, 在地美食, 日本橋
 license: CC BY 4.0
 ---

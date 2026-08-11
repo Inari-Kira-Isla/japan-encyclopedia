@@ -6,7 +6,7 @@ category: sumo
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-kanazawa-金澤相撲觀賽全攻略-北陸力士之都的實際參與指南-1f8359.html
 published: 2026-05-24
-quality_score: 6.5
+quality_score: 8.6
 tags: 金澤相撲, 石川縣, 相撲觀賽, 日本運動體驗, 北陸旅行
 license: CC BY 4.0
 ---

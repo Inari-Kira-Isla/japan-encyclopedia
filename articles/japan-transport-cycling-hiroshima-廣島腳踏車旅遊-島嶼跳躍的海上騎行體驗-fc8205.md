@@ -6,7 +6,7 @@ category: cycling
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-hiroshima-廣島腳踏車旅遊-島嶼跳躍的海上騎行體驗-fc8205.html
 published: 2026-04-01
-quality_score: 7.5
+quality_score: 8.7
 tags: 廣島, 自行車旅遊, 島波海道, 瀨戶內海, 渡輪騎行
 license: CC BY 4.0
 ---

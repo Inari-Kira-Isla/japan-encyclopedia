@@ -6,7 +6,7 @@ category: boutique-hotels
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-kanazawa-金澤精品酒店-沉浸古都時光的質感棲居-985904.html
 published: 2026-05-22
-quality_score: 6.5
+quality_score: 8.6
 tags: 金澤精品酒店, 金澤住宿, 加賀百萬石, 日本溫泉, 北陸自由行
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: castle-towns
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-castle-towns-osaka-大阪城下町-太閤治下的商工業心臟與水運重鎮-f394b3.html
 published: 2026-06-24
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪, 城下町, 豐臣秀吉, 水運, 商業
 license: CC BY 4.0
 ---

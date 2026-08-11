@@ -6,7 +6,7 @@ category: electronics
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-electronics-kanazawa-金澤職人電子工具採購指南-傳統工藝背後的現代精密裝置-1fb222.html
 published: 2026-04-05
-quality_score: 7.5
+quality_score: 8.6
 tags: 金澤購物, 專業電子工具, 工藝設備, 職人文化, 日本製造
 license: CC BY 4.0
 ---

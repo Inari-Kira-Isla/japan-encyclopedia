@@ -6,7 +6,7 @@ category: temples-shrines
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-temples-shrines-nara-奈良寺社散步地圖-從奈良公園到郊區古剎的慢旅路線-5a14e8.html
 published: 2026-06-19
-quality_score: 6.5
+quality_score: 8.7
 tags: 奈良寺社, 奈良散步, 古都慢旅, 春日神社, 奈良公園周邊
 license: CC BY 4.0
 ---

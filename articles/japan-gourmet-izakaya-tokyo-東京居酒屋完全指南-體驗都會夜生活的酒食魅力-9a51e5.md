@@ -6,7 +6,7 @@ category: izakaya
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-izakaya-tokyo-東京居酒屋完全指南-體驗都會夜生活的酒食魅力-9a51e5.html
 published: 2026-03-15
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京居酒屋, 東京美食, 日本酒吧, 新宿美食, 澀谷美食
 license: CC BY 4.0
 ---

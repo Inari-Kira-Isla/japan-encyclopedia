@@ -6,7 +6,7 @@ category: gaming-arcades
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-gaming-arcades-kyoto-京都遊戲中心-古都裡的微醺遊戲屋與穿越體驗-c71b09.html
 published: 2026-05-23
-quality_score: 6.5
+quality_score: 8.5
 tags: 京都旅遊, 日本遊戲中心, 京都娛樂,  古都體驗, 關西自由行
 license: CC BY 4.0
 ---

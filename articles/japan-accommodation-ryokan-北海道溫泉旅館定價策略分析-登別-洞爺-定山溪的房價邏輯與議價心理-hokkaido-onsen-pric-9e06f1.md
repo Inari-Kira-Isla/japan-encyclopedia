@@ -6,7 +6,7 @@ category: ryokan
 area: japan
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-北海道溫泉旅館定價策略分析-登別-洞爺-定山溪的房價邏輯與議價心理-hokkaido-onsen-pric-9e06f1.html
 published: 2026-03-28
-quality_score: 7.6
+quality_score: 8.3
 tags: 北海道溫泉, 旅館定價, 登別溫泉, 洞爺湖溫泉, 定山溪溫泉
 license: CC BY 4.0
 ---

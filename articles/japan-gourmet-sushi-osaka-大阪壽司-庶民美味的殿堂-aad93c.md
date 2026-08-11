@@ -6,7 +6,7 @@ category: sushi
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sushi-osaka-大阪壽司-庶民美味的殿堂-aad93c.html
 published: 2026-06-04
-quality_score: 6.5
+quality_score: 8.5
 tags: 大阪壽司, 關西美食, 日本海鮮, 庶民美食, 壽司推薦
 license: CC BY 4.0
 ---

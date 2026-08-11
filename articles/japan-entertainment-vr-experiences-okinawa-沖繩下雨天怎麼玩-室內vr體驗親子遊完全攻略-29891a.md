@@ -6,7 +6,7 @@ category: vr-experiences
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-vr-experiences-okinawa-沖繩下雨天怎麼玩-室內vr體驗親子遊完全攻略-29891a.html
 published: 2026-06-15
-quality_score: 6.5
+quality_score: 8.5
 tags: 沖繩VR體驗, 下雨天備案, 親子遊沖繩, 室內娛樂沖繩, 沖繩雨天景點
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: theme-parks
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-theme-parks-hiroshima-廣島週邊體驗樂園-小眾玩樂與戶外探險的私房指南-b68eaa.html
 published: 2026-06-14
-quality_score: 6.5
+quality_score: 8.3
 tags: 廣島主題樂園, 廣島親子遊, 廣島戶外體驗, 廣島VR體驗, 廣島小眾景點
 license: CC BY 4.0
 ---

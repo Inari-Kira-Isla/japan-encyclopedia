@@ -6,7 +6,7 @@ category: rental-cars
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-hiroshima-廣島租車自駕遊-從備後路到石見銀山的山陰門戶攻略-090304.html
 published: 2026-06-28
-quality_score: 7.5
+quality_score: 8.5
 tags: 廣島租車, 山陰自駕, 石見銀山, 備後之路, 瀨戶內藝術
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: day-trips
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-kanazawa-金澤深度一日遊-工藝之都與海岸線的味蕾小旅行-dbf430.html
 published: 2026-03-24
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤一日遊, 石川縣旅行, 能登半島, 傳統工藝, 海鮮美食
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: kabuki-theatre
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-kabuki-theatre-tokyo-東京kabuki劇場完全指南-第一次看歌舞妓就上手的入門攻略-65ccc6.html
 published: 2026-06-19
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京Kabuki, 歌舞妓, 日本傳統表演, 東京文化體驗, 淺草觀光
 license: CC BY 4.0
 ---

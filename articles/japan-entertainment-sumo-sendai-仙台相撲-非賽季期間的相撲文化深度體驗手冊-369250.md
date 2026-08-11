@@ -6,7 +6,7 @@ category: sumo
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-sendai-仙台相撲-非賽季期間的相撲文化深度體驗手冊-369250.html
 published: 2026-06-13
-quality_score: 6.5
+quality_score: 8.6
 tags: 仙台相撲, 相撲文化體驗, 仙台美食, 日本傳統運動, 東北旅行
 license: CC BY 4.0
 ---

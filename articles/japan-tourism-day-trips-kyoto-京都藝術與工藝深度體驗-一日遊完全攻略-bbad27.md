@@ -6,7 +6,7 @@ category: day-trips
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-kyoto-京都藝術與工藝深度體驗-一日遊完全攻略-bbad27.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 8.8
 tags: 京都一日遊, 藝術工藝, 手作體驗, 西陣織, 清水燒
 license: CC BY 4.0
 ---

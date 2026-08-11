@@ -6,7 +6,7 @@ category: souvenir-omiyage
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-souvenir-omiyage-kyoto-京都伴手禮-景點周邊採購指南與送禮選擇-a4b547.html
 published: 2026-06-05
-quality_score: 7.5
+quality_score: 8.7
 tags: 京都伴手禮, 京都旅遊, 嵐山伴手禮, 清水寺參道, 京都車站
 license: CC BY 4.0
 ---

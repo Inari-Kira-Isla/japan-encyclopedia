@@ -6,7 +6,7 @@ category: castle-towns
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-castle-towns-kyoto-京都周邊古城物語-從宇治橋到伏見稻荷的武家遺產散步-3333d5.html
 published: 2026-05-22
-quality_score: 6.5
+quality_score: 8.8
 tags: 京都城堡城鎮, 宇治城下町, 伏見, 戰國歷史散步, 長岡京
 license: CC BY 4.0
 ---

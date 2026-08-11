@@ -6,7 +6,7 @@ category: souvenir-omiyage
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-souvenir-omiyage-sendai-仙台伴手禮完全攻略-時間策略-在地特產的聰明購物指南-fd06d0.html
 published: 2026-03-31
-quality_score: 7.5
+quality_score: 8.7
 tags: 仙台, 伴手禮, 日本東北, 牛舌, 毛豆
 license: CC BY 4.0
 ---

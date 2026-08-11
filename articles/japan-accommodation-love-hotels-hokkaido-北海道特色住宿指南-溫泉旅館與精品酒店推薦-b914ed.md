@@ -6,7 +6,7 @@ category: love-hotels
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-love-hotels-hokkaido-北海道特色住宿指南-溫泉旅館與精品酒店推薦-b914ed.html
 published: 2026-03-25
-quality_score: 6.5
+quality_score: 8.5
 tags: 
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: buses
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-buses-okinawa-沖繩巴士特色路線與體驗導覽-從都市通勤到離島探險-c10c1d.html
 published: 2026-03-23
-quality_score: 7.5
+quality_score: 8.7
 tags: 沖繩交通, 巴士指南, 沖繩旅遊, 大眾運輸, 島嶼交通
 license: CC BY 4.0
 ---

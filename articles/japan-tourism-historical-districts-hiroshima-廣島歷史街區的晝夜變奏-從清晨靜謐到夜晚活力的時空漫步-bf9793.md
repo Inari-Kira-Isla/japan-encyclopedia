@@ -6,7 +6,7 @@ category: historical-districts
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-hiroshima-廣島歷史街區的晝夜變奏-從清晨靜謐到夜晚活力的時空漫步-bf9793.html
 published: 2026-06-25
-quality_score: 6.5
+quality_score: 8.7
 tags: 廣島, 歷史街區, 和平紀念, 日本旅遊, 深度旅遊
 license: CC BY 4.0
 ---

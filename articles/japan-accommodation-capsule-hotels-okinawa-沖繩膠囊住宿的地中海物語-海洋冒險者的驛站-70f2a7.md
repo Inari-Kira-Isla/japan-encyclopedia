@@ -6,7 +6,7 @@ category: capsule-hotels
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-capsule-hotels-okinawa-沖繩膠囊住宿的地中海物語-海洋冒險者的驛站-70f2a7.html
 published: 2026-06-03
-quality_score: 6.5
+quality_score: 8.6
 tags: 沖繩膠囊住宿, 海洋冒險, 潛水旅行, 恩納村, 沖繩住宿指南
 license: CC BY 4.0
 ---

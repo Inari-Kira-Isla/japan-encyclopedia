@@ -6,7 +6,7 @@ category: metro-systems
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-kobe-神戶地下鐵的工程奇蹟-從受災重建到山城交通的技術物語-8b6fa9.html
 published: 2026-06-07
-quality_score: 7.5
+quality_score: 8.6
 tags: 神戶地下鐵, 神戶交通, 神戶地下鐵工程, 神戶地震重建, 神戶一日遊
 license: CC BY 4.0
 ---

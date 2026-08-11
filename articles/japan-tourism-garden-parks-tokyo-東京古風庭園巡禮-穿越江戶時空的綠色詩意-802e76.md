@@ -6,7 +6,7 @@ category: garden-parks
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-tokyo-東京古風庭園巡禮-穿越江戶時空的綠色詩意-802e76.html
 published: 2026-07-01
-quality_score: 6.5
+quality_score: 8.6
 tags: 東京庭園, 日式庭園, 江戶時代, 文化之旅, 賞楓
 license: CC BY 4.0
 ---

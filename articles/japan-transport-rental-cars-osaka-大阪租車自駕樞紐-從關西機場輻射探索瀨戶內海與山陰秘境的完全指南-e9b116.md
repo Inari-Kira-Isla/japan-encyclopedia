@@ -6,7 +6,7 @@ category: rental-cars
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-osaka-大阪租車自駕樞紐-從關西機場輻射探索瀨戶內海與山陰秘境的完全指南-e9b116.html
 published: 2026-06-15
-quality_score: 7.5
+quality_score: 8.8
 tags: 大阪租車, 關西自駕, 瀨戶內海, 高野山, 關西機場
 license: CC BY 4.0
 ---

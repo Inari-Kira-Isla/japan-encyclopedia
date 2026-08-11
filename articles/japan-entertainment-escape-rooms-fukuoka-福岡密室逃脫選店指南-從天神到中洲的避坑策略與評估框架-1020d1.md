@@ -6,7 +6,7 @@ category: escape-rooms
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-escape-rooms-fukuoka-福岡密室逃脫選店指南-從天神到中洲的避坑策略與評估框架-1020d1.html
 published: 2026-05-21
-quality_score: 6.5
+quality_score: 8.9
 tags: 福岡密室逃脫, 九州娛樂, 天神商圈, 中洲川端, 博多運河城
 license: CC BY 4.0
 ---

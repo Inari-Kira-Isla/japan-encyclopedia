@@ -6,7 +6,7 @@ category: electronics
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-electronics-osaka-大阪電子產品購物全攻略-關西樞紐的獨家議價與專業零件採購指南-59eb53.html
 published: 2026-06-08
-quality_score: 7.5
+quality_score: 8.7
 tags: 大阪電子產品, 日本橋電器街, 關西購物, 電子零件, 大阪議價
 license: CC BY 4.0
 ---

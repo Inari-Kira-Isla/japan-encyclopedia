@@ -6,7 +6,7 @@ category: buses
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-buses-osaka-大阪夜行巴士完全攻略-省錢過夜的獨特日本交通體驗-cb1e85.html
 published: 2026-06-19
-quality_score: 7.5
+quality_score: 8.7
 tags: 大阪交通, 夜行巴士, 日本巴士, 關西交通, Budget Travel
 license: CC BY 4.0
 ---

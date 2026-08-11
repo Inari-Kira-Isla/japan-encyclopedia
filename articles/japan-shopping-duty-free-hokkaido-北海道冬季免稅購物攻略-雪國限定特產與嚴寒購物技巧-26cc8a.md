@@ -6,7 +6,7 @@ category: duty-free
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-duty-free-hokkaido-北海道冬季免稅購物攻略-雪國限定特產與嚴寒購物技巧-26cc8a.html
 published: 2026-06-29
-quality_score: 7.5
+quality_score: 8.7
 tags: 北海道免稅購物, 冬季北海道, 新千歲機場, 札幌購物, 雪國特產
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: wagyu
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-wagyu-osaka-大阪和牛-極致味覺體驗的美食天堂-850ae7.html
 published: 2026-03-14
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪美食, 和牛, 燒肉, 日本和牛, 大阪旅遊
 license: CC BY 4.0
 ---

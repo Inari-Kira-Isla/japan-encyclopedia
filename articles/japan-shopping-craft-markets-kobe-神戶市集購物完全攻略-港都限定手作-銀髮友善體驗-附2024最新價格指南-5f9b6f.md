@@ -6,7 +6,7 @@ category: craft-markets
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-craft-markets-kobe-神戶市集購物完全攻略-港都限定手作-銀髮友善體驗-附2024最新價格指南-5f9b6f.html
 published: 2026-06-02
-quality_score: 7.5
+quality_score: 8.6
 tags: 神戶市集, 手芸市, 銀髮旅遊, 港都購物, 神戶必逛
 license: CC BY 4.0
 ---

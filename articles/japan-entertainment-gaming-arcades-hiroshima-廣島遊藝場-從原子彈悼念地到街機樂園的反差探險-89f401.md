@@ -6,7 +6,7 @@ category: gaming-arcades
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-gaming-arcades-hiroshima-廣島遊藝場-從原子彈悼念地到街機樂園的反差探險-89f401.html
 published: 2026-06-03
-quality_score: 6.5
+quality_score: 8.7
 tags: 廣島遊戲中心, 广島娱乐, 街机文化, 中国地方, 日本游艺场
 license: CC BY 4.0
 ---

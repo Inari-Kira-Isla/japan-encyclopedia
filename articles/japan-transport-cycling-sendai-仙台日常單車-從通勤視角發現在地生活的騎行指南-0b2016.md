@@ -6,7 +6,7 @@ category: cycling
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-sendai-仙台日常單車-從通勤視角發現在地生活的騎行指南-0b2016.html
 published: 2026-06-29
-quality_score: 7.5
+quality_score: 8.8
 tags: 仙台單車, 日常騎行, 在地體驗, 東北單車, 仙台自由行
 license: CC BY 4.0
 ---

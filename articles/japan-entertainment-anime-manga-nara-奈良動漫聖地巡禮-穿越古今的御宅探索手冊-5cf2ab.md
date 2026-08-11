@@ -6,7 +6,7 @@ category: anime-manga
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-nara-奈良動漫聖地巡禮-穿越古今的御宅探索手冊-5cf2ab.html
 published: 2026-06-25
-quality_score: 6.5
+quality_score: 8.6
 tags: 奈良動漫, 聖地巡禮, 關西動漫, 日本動漫, 古都文化
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: ski-resorts
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-ski-resorts-tokyo-東京一日滑雪提案-忙碌旅人的臨時出逃指南-0af663.html
 published: 2026-06-24
-quality_score: 6.5
+quality_score: 8.5
 tags: 東京滑雪, 一日遊, 臨時出遊, 東京周邊, 雪場推薦
 license: CC BY 4.0
 ---

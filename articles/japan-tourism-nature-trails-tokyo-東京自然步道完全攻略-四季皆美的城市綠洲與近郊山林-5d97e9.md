@@ -6,7 +6,7 @@ category: nature-trails
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-tokyo-東京自然步道完全攻略-四季皆美的城市綠洲與近郊山林-5d97e9.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.8
 tags: 東京自然步道, 東京戶外活動, 高尾山, 奧多摩, 森林浴
 license: CC BY 4.0
 ---

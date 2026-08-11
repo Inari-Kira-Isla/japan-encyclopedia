@@ -6,7 +6,7 @@ category: escape-rooms
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-escape-rooms-fukuoka-福岡密室逃脫-九州文化與解謎的完美融合-365416.html
 published: 2026-04-06
-quality_score: 6.5
+quality_score: 8.7
 tags: 福岡娛樂, 密室逃脫, 九州文化, 博多歷史, 團隊活動
 license: CC BY 4.0
 ---

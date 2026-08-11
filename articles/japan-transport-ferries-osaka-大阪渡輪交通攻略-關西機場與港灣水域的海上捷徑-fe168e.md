@@ -6,7 +6,7 @@ category: ferries
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-ferries-osaka-大阪渡輪交通攻略-關西機場與港灣水域的海上捷徑-fe168e.html
 published: 2026-06-30
-quality_score: 7.5
+quality_score: 8.5
 tags: 大阪, 渡輪, 關西機場, 交通, 大阪港
 license: CC BY 4.0
 ---

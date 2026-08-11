@@ -6,7 +6,7 @@ category: gaming-arcades
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-gaming-arcades-tokyo-東京遊戲中心-深夜玩家的遊戲聖地完全攻略-f1dfa2.html
 published: 2026-06-03
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京遊戲中心, 東京夜生活, 街機文化, 東京娛樂, 秋葉原
 license: CC BY 4.0
 ---

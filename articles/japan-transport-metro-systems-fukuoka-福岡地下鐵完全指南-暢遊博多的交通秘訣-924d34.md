@@ -6,7 +6,7 @@ category: metro-systems
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-fukuoka-福岡地下鐵完全指南-暢遊博多的交通秘訣-924d34.html
 published: 2026-03-16
-quality_score: 7.5
+quality_score: 8.5
 tags: 福岡地下鐵, 九州交通, 福岡Metro, 天神, 博多
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: anime-manga
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-fukuoka-福岡御宅文化深度遊-當地人帶路的動漫體驗地圖-a12caf.html
 published: 2026-06-15
-quality_score: 6.5
+quality_score: 8.7
 tags: 福岡動漫, 九州御宅文化, 天神動漫, 博多動漫商店, 漫畫咖啡廳
 license: CC BY 4.0
 ---

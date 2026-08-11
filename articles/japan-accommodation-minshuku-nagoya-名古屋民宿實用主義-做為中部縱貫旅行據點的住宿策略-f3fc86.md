@@ -6,7 +6,7 @@ category: minshuku
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-nagoya-名古屋民宿實用主義-做為中部縱貫旅行據點的住宿策略-f3fc86.html
 published: 2026-05-23
-quality_score: 6.5
+quality_score: 8.7
 tags: 名古屋民宿, 日本中部旅行, 名古屋住宿, 背包旅行, minshuku
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: kabuki-theatre
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-kabuki-theatre-hokkaido-北海道的歌舞妓體驗-沒有劇場的替代方案與當地獨有文化-e85495.html
 published: 2026-06-16
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道, 日本表演藝術, 歌舞妓替代, 札幌文化, 旭川戲劇
 license: CC BY 4.0
 ---

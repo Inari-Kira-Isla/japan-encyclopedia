@@ -6,7 +6,7 @@ category: department-stores
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-department-stores-osaka-大阪社群型百貨攻略-小規模商場的在地魅力與隱藏精品-14a4c2.html
 published: 2026-05-23
-quality_score: 7.5
+quality_score: 8.7
 tags: 大阪購物, 社區型商場, 大阪交通費, 大阪伴手禮, 大阪自由行
 license: CC BY 4.0
 ---

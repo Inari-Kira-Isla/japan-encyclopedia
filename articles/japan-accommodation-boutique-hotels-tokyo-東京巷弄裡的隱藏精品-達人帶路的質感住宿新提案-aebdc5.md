@@ -6,7 +6,7 @@ category: boutique-hotels
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-tokyo-東京巷弄裡的隱藏精品-達人帶路的質感住宿新提案-aebdc5.html
 published: 2026-06-18
-quality_score: 6.5
+quality_score: 8.5
 tags: 東京精品酒店, 下北澤住宿, 清澄白河, 谷中根津, 東京藝術住宿
 license: CC BY 4.0
 ---

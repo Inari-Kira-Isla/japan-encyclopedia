@@ -6,7 +6,7 @@ category: ryokan
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-nara-奈良藝術文化旅館-古都收藏家的私密住宿指南-530d7a.html
 published: 2026-04-06
-quality_score: 6.5
+quality_score: 8.7
 tags: 奈良, 藝術旅館, 文化收藏, 佛教藝術, 高端住宿
 license: CC BY 4.0
 ---

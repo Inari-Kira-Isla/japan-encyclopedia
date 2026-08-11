@@ -6,7 +6,7 @@ category: scenic-routes
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-nara-奈良自駕秘境朝聖之路-東部山區的隱藏版風景與療癒提案-eadae2.html
 published: 2026-06-06
-quality_score: 6.5
+quality_score: 8.7
 tags: 奈良自駕, 風景道路, 朝聖之旅, 療癒旅遊, 吉野山
 license: CC BY 4.0
 ---

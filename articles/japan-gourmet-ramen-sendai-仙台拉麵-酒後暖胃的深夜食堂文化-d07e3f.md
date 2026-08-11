@@ -6,7 +6,7 @@ category: ramen
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-ramen-sendai-仙台拉麵-酒後暖胃的深夜食堂文化-d07e3f.html
 published: 2026-06-30
-quality_score: 6.5
+quality_score: 8.7
 tags: 仙台拉麵, 日本東北拉麵, 深夜食堂, 二次會文化, 仙台美食
 license: CC BY 4.0
 ---

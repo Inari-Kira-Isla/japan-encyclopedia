@@ -6,7 +6,7 @@ category: rental-cars
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-nara-奈良租車自駕遊-關西樞紐的成本最佳化指南-b39a6b.html
 published: 2026-03-24
-quality_score: 7.5
+quality_score: 8.7
 tags: 奈良租車, 關西自駕遊, 租車成本優化, 跨城市自駕, 日本租車攻略
 license: CC BY 4.0
 ---

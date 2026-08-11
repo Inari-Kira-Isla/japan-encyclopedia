@@ -6,7 +6,7 @@ category: tonkatsu
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tonkatsu-tokyo-東京炸豬排-醬汁流派與洋食之都的深度解析-053609.html
 published: 2026-06-06
-quality_score: 6.5
+quality_score: 8.6
 tags: 東京炸豬排, 豚かつ, 東京美食, 洋食, 人形町
 license: CC BY 4.0
 ---

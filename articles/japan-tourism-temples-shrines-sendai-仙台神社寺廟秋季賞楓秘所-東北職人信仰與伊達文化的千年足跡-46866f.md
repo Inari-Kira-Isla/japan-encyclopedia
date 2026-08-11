@@ -6,7 +6,7 @@ category: temples-shrines
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-temples-shrines-sendai-仙台神社寺廟秋季賞楓秘所-東北職人信仰與伊達文化的千年足跡-46866f.html
 published: 2026-06-05
-quality_score: 6.5
+quality_score: 8.8
 tags: 仙台神社, 仙台寺廟, 東北賞楓, 伊達政宗, 日本東北自由行
 license: CC BY 4.0
 ---

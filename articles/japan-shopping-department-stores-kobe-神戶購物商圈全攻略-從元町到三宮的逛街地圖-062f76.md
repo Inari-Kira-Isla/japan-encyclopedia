@@ -6,7 +6,7 @@ category: department-stores
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-department-stores-kobe-神戶購物商圈全攻略-從元町到三宮的逛街地圖-062f76.html
 published: 2026-05-24
-quality_score: 7.5
+quality_score: 8.9
 tags: 神戶購物, 關西自由行, 南京町, 三宮站, 港都購物
 license: CC BY 4.0
 ---

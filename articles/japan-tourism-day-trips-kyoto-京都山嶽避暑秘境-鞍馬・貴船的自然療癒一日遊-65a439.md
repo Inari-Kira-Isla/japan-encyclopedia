@@ -6,7 +6,7 @@ category: day-trips
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-kyoto-京都山嶽避暑秘境-鞍馬・貴船的自然療癒一日遊-65a439.html
 published: 2026-06-19
-quality_score: 6.5
+quality_score: 8.6
 tags: 京都一日遊, 鞍馬山, 貴船, 自然步道, 夏季避暑
 license: CC BY 4.0
 ---

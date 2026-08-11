@@ -6,7 +6,7 @@ category: tonkatsu
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tonkatsu-okinawa-沖繩炸豬排的深夜食堂-島嶼夜生活的洋食風景-b13d3c.html
 published: 2026-06-05
-quality_score: 6.5
+quality_score: 8.8
 tags: 沖繩美食, 炸豬排, 深夜食堂, 沖繩洋食, 美軍基地文化
 license: CC BY 4.0
 ---

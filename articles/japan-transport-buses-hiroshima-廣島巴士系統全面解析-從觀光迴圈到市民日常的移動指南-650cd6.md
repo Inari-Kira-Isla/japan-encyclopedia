@@ -6,7 +6,7 @@ category: buses
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-buses-hiroshima-廣島巴士系統全面解析-從觀光迴圈到市民日常的移動指南-650cd6.html
 published: 2026-05-24
-quality_score: 7.5
+quality_score: 8.5
 tags: 广岛交通, 巴士系统, 高速巴士, 广岛移动, 巴士旅行
 license: CC BY 4.0
 ---

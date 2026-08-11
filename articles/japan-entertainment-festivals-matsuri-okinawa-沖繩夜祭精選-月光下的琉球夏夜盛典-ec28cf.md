@@ -6,7 +6,7 @@ category: festivals-matsuri
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-festivals-matsuri-okinawa-沖繩夜祭精選-月光下的琉球夏夜盛典-ec28cf.html
 published: 2026-05-24
-quality_score: 6.5
+quality_score: 8.7
 tags: 沖繩祭典, 夏日花火, 夜祭, 琉球文化,  Okinawa
 license: CC BY 4.0
 ---

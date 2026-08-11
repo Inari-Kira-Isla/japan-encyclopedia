@@ -6,7 +6,7 @@ category: wagyu
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-wagyu-osaka-大阪和牛-庶民燒肉殿堂的深夜食堂-d065c0.html
 published: 2026-06-27
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪和牛, 大阪燒肉, 關西美食, 庶民美食, 日本和牛
 license: CC BY 4.0
 ---

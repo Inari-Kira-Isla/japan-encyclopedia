@@ -6,7 +6,7 @@ category: tempura
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tempura-kanazawa-金澤天婦羅-加賀料理中的海味炸物-27252f.html
 published: 2026-06-07
-quality_score: 6.5
+quality_score: 8.6
 tags: 金澤美食, 天婦羅, 加賀料理, 能登半島海產, 日本料理
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: buses
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-buses-osaka-大阪巴士美食行動-搭公車深度巡禮關西食堂的省錢秘笈-8b903a.html
 published: 2026-06-05
-quality_score: 7.5
+quality_score: 8.5
 tags: 大阪美食, 巴士交通, 关西旅游, 自助旅行, 省钱攻略
 license: CC BY 4.0
 ---

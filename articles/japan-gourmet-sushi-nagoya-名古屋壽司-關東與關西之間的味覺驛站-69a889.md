@@ -6,7 +6,7 @@ category: sushi
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sushi-nagoya-名古屋壽司-關東與關西之間的味覺驛站-69a889.html
 published: 2026-05-22
-quality_score: 6.5
+quality_score: 8.6
 tags: 名古屋壽司, 名古屋美食, 中部地方料理, 伊勢灣海鮮, 日本壽司
 license: CC BY 4.0
 ---

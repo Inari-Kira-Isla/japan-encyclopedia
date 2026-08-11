@@ -6,7 +6,7 @@ category: tempura
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tempura-osaka-大阪天婦羅-早市與巷弄中的關西日常滋味-6d041f.html
 published: 2026-06-03
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪美食, 天婦羅, 關西料理, 黑門市場, 在地美食
 license: CC BY 4.0
 ---

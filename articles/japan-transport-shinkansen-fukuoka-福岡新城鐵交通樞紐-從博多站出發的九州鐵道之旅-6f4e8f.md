@@ -6,7 +6,7 @@ category: shinkansen
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-fukuoka-福岡新城鐵交通樞紐-從博多站出發的九州鐵道之旅-6f4e8f.html
 published: 2026-06-14
-quality_score: 7.5
+quality_score: 8.9
 tags: 福岡, 鐵道系統, 博多站, 九州鐵道, 日本鐵道
 license: CC BY 4.0
 ---

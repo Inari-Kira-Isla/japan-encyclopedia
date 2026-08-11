@@ -6,7 +6,7 @@ category: scenic-routes
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-kanazawa-大阪城周邊的城下町街區-從軍事要塞到商賈重鎮的時空探索-0b086d.html
 published: 2026-06-08
-quality_score: 6.5
+quality_score: 8.6
 tags: 大阪城, 城下町, 歷史街區, 大阪旅行, 商人之城
 license: CC BY 4.0
 ---

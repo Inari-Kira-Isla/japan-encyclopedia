@@ -6,7 +6,7 @@ category: wagyu
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-wagyu-nara-奈良大和牛採購指南-日本最稀有和牛的入手方式與市場分析-a0d338.html
 published: 2026-03-24
-quality_score: 6.5
+quality_score: 8.5
 tags: 奈良和牛, 日本和牛, 採購指南, 市場分析, 食材選購
 license: CC BY 4.0
 ---

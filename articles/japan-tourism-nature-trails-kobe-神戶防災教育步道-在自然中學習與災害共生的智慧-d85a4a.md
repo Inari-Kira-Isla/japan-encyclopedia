@@ -6,7 +6,7 @@ category: nature-trails
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-kobe-神戶防災教育步道-在自然中學習與災害共生的智慧-d85a4a.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 神戶, 防災教育, 自然步道, 阪神大震災, 登山健行
 license: CC BY 4.0
 ---

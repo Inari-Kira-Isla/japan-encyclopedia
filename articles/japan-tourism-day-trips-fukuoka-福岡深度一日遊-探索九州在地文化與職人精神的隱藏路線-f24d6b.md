@@ -6,7 +6,7 @@ category: day-trips
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-fukuoka-福岡深度一日遊-探索九州在地文化與職人精神的隱藏路線-f24d6b.html
 published: 2026-04-03
-quality_score: 6.5
+quality_score: 8.8
 tags: 福岡, 九州, 深度旅遊, 文化體驗, 一日遊
 license: CC BY 4.0
 ---

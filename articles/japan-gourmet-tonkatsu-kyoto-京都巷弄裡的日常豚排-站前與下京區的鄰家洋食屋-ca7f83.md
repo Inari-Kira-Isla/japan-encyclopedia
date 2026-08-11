@@ -6,7 +6,7 @@ category: tonkatsu
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tonkatsu-kyoto-京都巷弄裡的日常豚排-站前與下京區的鄰家洋食屋-ca7f83.html
 published: 2026-06-02
-quality_score: 6.5
+quality_score: 8.7
 tags: 京都炸豚排, 京都洋食, 京都下京区, 京都不rums, 日式豚排
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: island-hopping
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-island-hopping-okinawa-沖繩隱藏版跳島指南-探索在地人推薦的島民生活-56219f.html
 published: 2026-06-12
-quality_score: 6.5
+quality_score: 8.5
 tags: 沖繩跳島, 隱藏版島嶼, 島民生活, 渡嘉敷島, 座間味島
 license: CC BY 4.0
 ---

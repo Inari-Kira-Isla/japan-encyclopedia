@@ -6,7 +6,7 @@ category: boutique-hotels
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-kyoto-京都藝廊街區的隱蔽精品住宿-國際藝術博覽會時代的古都棲居-79dbf2.html
 published: 2026-05-23
-quality_score: 6.5
+quality_score: 8.9
 tags: 京都精品住宿, 河原町藝廊街, 岡崎藝術特區, 伏見酒藏住宿, 町家再生
 license: CC BY 4.0
 ---

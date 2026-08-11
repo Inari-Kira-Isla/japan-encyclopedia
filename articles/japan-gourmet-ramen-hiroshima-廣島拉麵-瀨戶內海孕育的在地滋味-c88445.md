@@ -6,7 +6,7 @@ category: ramen
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-ramen-hiroshima-廣島拉麵-瀨戶內海孕育的在地滋味-c88445.html
 published: 2026-06-29
-quality_score: 6.5
+quality_score: 8.7
 tags: 廣島拉麵, 瀨戶內海, 醬油拉麵, 日本拉麵, 廣島美食
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: airport-transfer
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-airport-transfer-tokyo-東京機場接駁-特殊需求旅客全攻略-大型行李-運動器材-寵物攜帶的安心方案-ac7b69.html
 published: 2026-06-16
-quality_score: 7.5
+quality_score: 8.3
 tags: 東京機場交通, 特殊需求旅客, 機場接送, 寵物同行, 無障礙旅遊
 license: CC BY 4.0
 ---

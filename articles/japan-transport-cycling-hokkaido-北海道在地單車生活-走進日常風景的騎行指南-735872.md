@@ -6,7 +6,7 @@ category: cycling
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-hokkaido-北海道在地單車生活-走進日常風景的騎行指南-735872.html
 published: 2026-06-19
-quality_score: 7.5
+quality_score: 8.5
 tags: 北海道單車, 在地騎行, 港灣城市, 農業風景, 生態騎行
 license: CC BY 4.0
 ---

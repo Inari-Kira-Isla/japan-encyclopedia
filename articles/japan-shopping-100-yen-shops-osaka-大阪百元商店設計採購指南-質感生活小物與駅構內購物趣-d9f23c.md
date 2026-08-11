@@ -6,7 +6,7 @@ category: 100-yen-shops
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-100-yen-shops-osaka-大阪百元商店設計採購指南-質感生活小物與駅構內購物趣-d9f23c.html
 published: 2026-06-12
-quality_score: 7.5
+quality_score: 8.7
 tags: 大阪, 百元商店, 設計, 質感生活, 駅構內
 license: CC BY 4.0
 ---

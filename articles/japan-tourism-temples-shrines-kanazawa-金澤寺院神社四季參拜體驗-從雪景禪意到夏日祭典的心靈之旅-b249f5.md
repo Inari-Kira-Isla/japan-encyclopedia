@@ -6,7 +6,7 @@ category: temples-shrines
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-temples-shrines-kanazawa-金澤寺院神社四季參拜體驗-從雪景禪意到夏日祭典的心靈之旅-b249f5.html
 published: 2026-04-01
-quality_score: 6.5
+quality_score: 8.5
 tags: 金澤, 寺廟, 神社, 四季, 參拜體驗
 license: CC BY 4.0
 ---

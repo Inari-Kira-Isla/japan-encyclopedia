@@ -6,7 +6,7 @@ category: boutique-hotels
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-osaka-大阪阿倍野-天王寺-遠離人潮的精品住宿新天地-fdbb47.html
 published: 2026-05-24
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪精品酒店, 阿倍野住宿, 天王寺飯店, 大阪平價住宿, 慢大阪旅行
 license: CC BY 4.0
 ---

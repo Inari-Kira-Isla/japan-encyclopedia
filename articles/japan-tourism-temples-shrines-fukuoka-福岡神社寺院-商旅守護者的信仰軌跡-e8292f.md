@@ -6,7 +6,7 @@ category: temples-shrines
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-temples-shrines-fukuoka-福岡神社寺院-商旅守護者的信仰軌跡-e8292f.html
 published: 2026-06-13
-quality_score: 6.5
+quality_score: 8.7
 tags: 福岡神社, 博多寺廟, 九州宗教, 商旅守護, 山笠祭
 license: CC BY 4.0
 ---

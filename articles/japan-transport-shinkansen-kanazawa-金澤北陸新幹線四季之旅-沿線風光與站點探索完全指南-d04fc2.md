@@ -6,7 +6,7 @@ category: shinkansen
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-kanazawa-金澤北陸新幹線四季之旅-沿線風光與站點探索完全指南-d04fc2.html
 published: 2026-06-10
-quality_score: 7.5
+quality_score: 8.5
 tags: 金澤, 北陸新股線, 日本鐵道, 四季旅遊, 沿線景點
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: izakaya
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-izakaya-hiroshima-廣島居酒屋的-慢飲み-哲學-在地人社群的深夜食堂-8fdfd1.html
 published: 2026-06-25
-quality_score: 6.5
+quality_score: 8.6
 tags: 廣島居酒屋, 廣島美食, 廣島下町, 瀨戶內海, 日本中國地方
 license: CC BY 4.0
 ---

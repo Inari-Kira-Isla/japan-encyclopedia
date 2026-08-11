@@ -6,7 +6,7 @@ category: temples-shrines
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-temples-shrines-nara-奈良寺廟神社-當地人的信仰生活與非主流探索路線-4d0d51.html
 published: 2026-07-03
-quality_score: 6.5
+quality_score: 8.6
 tags: 奈良, 寺廟, 神社, 深度旅遊, 非主流景點
 license: CC BY 4.0
 ---

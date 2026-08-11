@@ -6,7 +6,7 @@ category: department-stores
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-department-stores-osaka-大阪鐵路沿線購物攻略-搭乘jr與地下鐵暢遊五大百貨公司-fd3a3b.html
 published: 2026-06-24
-quality_score: 7.5
+quality_score: 8.8
 tags: 大阪購物, 大阪百貨公司, 關西購物, JR大阪站, 難波購物
 license: CC BY 4.0
 ---

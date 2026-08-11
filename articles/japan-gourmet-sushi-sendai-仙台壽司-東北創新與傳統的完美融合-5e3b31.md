@@ -6,7 +6,7 @@ category: sushi
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sushi-sendai-仙台壽司-東北創新與傳統的完美融合-5e3b31.html
 published: 2026-04-01
-quality_score: 6.5
+quality_score: 8.7
 tags: 仙台美食, 壽司文化, 東北料理, 職人技藝, 牡蠣料理
 license: CC BY 4.0
 ---

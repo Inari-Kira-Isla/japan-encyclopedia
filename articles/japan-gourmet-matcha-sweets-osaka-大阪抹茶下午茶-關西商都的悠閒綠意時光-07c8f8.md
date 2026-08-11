@@ -6,7 +6,7 @@ category: matcha-sweets
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-matcha-sweets-osaka-大阪抹茶下午茶-關西商都的悠閒綠意時光-07c8f8.html
 published: 2026-06-06
-quality_score: 6.5
+quality_score: 8.8
 tags: 大阪抹茶, 下午茶, 關西甜點, 大阪美食, 抹茶甜點
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: okonomiyaki
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-okonomiyaki-nara-奈良御好燒-千年古都的田野風味-d8053d.html
 published: 2026-06-24
-quality_score: 6.5
+quality_score: 8.8
 tags: 奈良美食, 關西御好燒, 奈良自由行, 日本料理, 古都美食
 license: CC BY 4.0
 ---

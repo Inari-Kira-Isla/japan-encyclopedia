@@ -6,7 +6,7 @@ category: tonkatsu
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tonkatsu-osaka-大阪炸豬排-關西洋食的酥脆靈魂-2741c5.html
 published: 2026-06-13
-quality_score: 6.5
+quality_score: 8.9
 tags: 大阪美食, 炸豬排, 關西洋食, 日式料理, 庶民美食
 license: CC BY 4.0
 ---

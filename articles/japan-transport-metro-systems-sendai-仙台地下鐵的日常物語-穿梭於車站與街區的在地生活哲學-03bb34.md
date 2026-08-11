@@ -6,7 +6,7 @@ category: metro-systems
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-sendai-仙台地下鐵的日常物語-穿梭於車站與街區的在地生活哲學-03bb34.html
 published: 2026-05-25
-quality_score: 7.5
+quality_score: 8.6
 tags: 仙台地下鐵, 東北交通, 日本鐵道, 自由行, 在地生活
 license: CC BY 4.0
 ---

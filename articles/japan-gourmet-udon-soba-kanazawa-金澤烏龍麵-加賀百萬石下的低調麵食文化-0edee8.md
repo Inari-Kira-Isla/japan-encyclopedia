@@ -6,7 +6,7 @@ category: udon-soba
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-udon-soba-kanazawa-金澤烏龍麵-加賀百萬石下的低調麵食文化-0edee8.html
 published: 2026-06-05
-quality_score: 6.5
+quality_score: 8.6
 tags: 金澤美食, 烏龍麵, 石川縣, 加賀料理, 日本烏龍麵
 license: CC BY 4.0
 ---

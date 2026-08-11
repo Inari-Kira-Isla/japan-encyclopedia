@@ -6,7 +6,7 @@ category: cycling
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-kyoto-京都單車省錢遊-騎出超值感的古都漫遊攻略-099a7b.html
 published: 2026-06-20
-quality_score: 7.5
+quality_score: 8.7
 tags: 京都單車, 京都省錢, 京都自由行, 京都交通, 京都自助
 license: CC BY 4.0
 ---

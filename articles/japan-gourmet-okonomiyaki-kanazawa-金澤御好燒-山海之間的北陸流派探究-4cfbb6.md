@@ -6,7 +6,7 @@ category: okonomiyaki
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-okonomiyaki-kanazawa-金澤御好燒-山海之間的北陸流派探究-4cfbb6.html
 published: 2026-06-18
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤美食, 御好燒, 石川縣, 北陸料理, 日本海鮮
 license: CC BY 4.0
 ---

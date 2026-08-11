@@ -6,7 +6,7 @@ category: sake-brewery
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sake-brewery-kanazawa-金澤清酒與加賀料理的味覺對話-釀酒廠內的餐酒體驗指南-d84f4f.html
 published: 2026-07-06
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤清酒, 加賀料理, 石川縣, 釀酒廠參觀, 日本料理搭配
 license: CC BY 4.0
 ---

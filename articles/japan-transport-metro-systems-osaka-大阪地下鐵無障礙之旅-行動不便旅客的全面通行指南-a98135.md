@@ -6,7 +6,7 @@ category: metro-systems
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-osaka-大阪地下鐵無障礙之旅-行動不便旅客的全面通行指南-a98135.html
 published: 2026-06-04
-quality_score: 7.5
+quality_score: 9.0
 tags: 大阪地下鐵, 無障礙旅遊, 关西交通, 行动不便旅客, 大阪世博会
 license: CC BY 4.0
 ---

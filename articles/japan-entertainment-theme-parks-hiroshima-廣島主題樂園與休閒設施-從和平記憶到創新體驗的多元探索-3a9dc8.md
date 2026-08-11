@@ -6,7 +6,7 @@ category: theme-parks
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-theme-parks-hiroshima-廣島主題樂園與休閒設施-從和平記憶到創新體驗的多元探索-3a9dc8.html
 published: 2026-06-27
-quality_score: 6.5
+quality_score: 8.8
 tags: 廣島主題樂園, 廣島和平紀念, 廣島休閒體驗, 廣島VR, 宮島水上活動
 license: CC BY 4.0
 ---

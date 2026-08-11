@@ -6,7 +6,7 @@ category: historical-districts
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-osaka-大阪歷史街區-從晨市到夜市的時間商魂-ed73d3.html
 published: 2026-06-05
-quality_score: 6.5
+quality_score: 9.0
 tags: 大阪, 歷史街區, 黑門市場, 日本橋, 通天閣
 license: CC BY 4.0
 ---

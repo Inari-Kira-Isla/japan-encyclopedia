@@ -6,7 +6,7 @@ category: souvenir-omiyage
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-souvenir-omiyage-hiroshima-廣島伴手禮的深度之旅-和平紀念與工藝體驗的質感採購指南-07566b.html
 published: 2026-06-16
-quality_score: 7.5
+quality_score: 8.8
 tags: 廣島伴手禮, 和平紀念, 日本購物, 廣島自由行, 質感伴手禮
 license: CC BY 4.0
 ---

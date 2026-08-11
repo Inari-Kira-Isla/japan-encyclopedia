@@ -6,7 +6,7 @@ category: world-heritage
 area: japan
 url: https://japan-encyclopedia.vercel.app/articles/japan-attractions-world-heritage-白川郷合掌造り完整指南2026-unesco世界遺產茅葺民家-飛驒高山-白川鄉費用-jpy-攻-12369a.html
 published: 2026-04-13
-quality_score: 7.1
+quality_score: 8.5
 tags: 白川郷合掌造价造, 飛驒高山, 日本世界遺產, 白川郷民宿, 岐阜旅遊
 license: CC BY 4.0
 ---

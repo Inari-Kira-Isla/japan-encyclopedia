@@ -6,7 +6,7 @@ category: matcha-sweets
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-matcha-sweets-kanazawa-金澤抹茶甜點-黃金與綠茶的相遇-3714df.html
 published: 2026-07-04
-quality_score: 6.5
+quality_score: 8.9
 tags: 金澤抹茶, 金箔甜點, 石川縣美食, 加賀百萬石, 日本抹茶地圖
 license: CC BY 4.0
 ---

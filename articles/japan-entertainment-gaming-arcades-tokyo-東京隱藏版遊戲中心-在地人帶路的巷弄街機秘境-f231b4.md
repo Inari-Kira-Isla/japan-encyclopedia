@@ -6,7 +6,7 @@ category: gaming-arcades
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-gaming-arcades-tokyo-東京隱藏版遊戲中心-在地人帶路的巷弄街機秘境-f231b4.html
 published: 2026-06-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京遊戲中心, 街機, 在地體驗, 隱藏版店家, 東京自由行
 license: CC BY 4.0
 ---

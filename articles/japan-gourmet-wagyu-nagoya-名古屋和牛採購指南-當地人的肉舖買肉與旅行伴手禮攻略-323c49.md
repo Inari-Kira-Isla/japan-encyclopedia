@@ -6,7 +6,7 @@ category: wagyu
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-wagyu-nagoya-名古屋和牛採購指南-當地人的肉舖買肉與旅行伴手禮攻略-323c49.html
 published: 2026-06-19
-quality_score: 6.5
+quality_score: 8.4
 tags: 名古屋和牛, 名古屋美食, 日本和牛, 名古屋採購, 中部地方美食
 license: CC BY 4.0
 ---

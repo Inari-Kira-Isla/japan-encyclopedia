@@ -6,7 +6,7 @@ category: festivals-matsuri
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-festivals-matsuri-hiroshima-廣島社群祭典深度遊-在地人帶路的隱藏版慶典體驗-2aa7b4.html
 published: 2026-06-15
-quality_score: 6.5
+quality_score: 8.4
 tags: 廣島祭典, 社區祭典, 日本夏日祭典, 在地體驗, 瀨戶內海
 license: CC BY 4.0
 ---

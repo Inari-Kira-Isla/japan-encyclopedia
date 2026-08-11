@@ -6,7 +6,7 @@ category: ramen
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-ramen-kobe-神戶拉麵-港都洋風洗練的深夜滋味-dd4967.html
 published: 2026-05-31
-quality_score: 6.5
+quality_score: 8.9
 tags: 神戶拉麵, 神戶美食, 兵庫縣拉麵, 港都拉麵, 日本拉麵
 license: CC BY 4.0
 ---

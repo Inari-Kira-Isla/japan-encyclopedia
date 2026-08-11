@@ -6,7 +6,7 @@ category: business-hotels
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-business-hotels-kanazawa-金澤工藝商務住宿-傳統產業出差者的特色住宿選擇-fa6ab9.html
 published: 2026-07-04
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤商務住宿, 日本工藝之旅, 石川縣出差, 金澤住宿推薦, 傳統產業商務
 license: CC BY 4.0
 ---

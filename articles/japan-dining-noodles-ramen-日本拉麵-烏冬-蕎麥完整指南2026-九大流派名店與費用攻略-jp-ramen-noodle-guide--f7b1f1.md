@@ -6,7 +6,7 @@ category: noodles-ramen
 area: japan
 url: https://japan-encyclopedia.vercel.app/articles/japan-dining-noodles-ramen-日本拉麵-烏冬-蕎麥完整指南2026-九大流派名店與費用攻略-jp-ramen-noodle-guide--f7b1f1.html
 published: 2026-04-13
-quality_score: 7.1
+quality_score: 8.7
 tags: 日本拉麵, 博多拉麵, 北海道拉麵, 日本烏冬, 日本蕎麥
 license: CC BY 4.0
 ---

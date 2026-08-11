@@ -6,7 +6,7 @@ category: karaoke
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-karaoke-kanazawa-金澤清晨卡拉ok-百萬石城池的早晨歌詠-692009.html
 published: 2026-07-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤卡拉OK, 清晨體驗, 北陸旅遊, 兼六園周邊, 近江町市場
 license: CC BY 4.0
 ---

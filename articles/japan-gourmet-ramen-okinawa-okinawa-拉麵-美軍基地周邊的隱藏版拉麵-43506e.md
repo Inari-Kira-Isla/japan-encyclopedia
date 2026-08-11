@@ -6,7 +6,7 @@ category: ramen
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-ramen-okinawa-okinawa-拉麵-美軍基地周邊的隱藏版拉麵-43506e.html
 published: 2026-06-07
-quality_score: 6.5
+quality_score: 8.5
 tags:  Okinawa 拉麵, 美軍基地, 沖繩美食, 隱藏版拉麵, 基地系拉麵
 license: CC BY 4.0
 ---

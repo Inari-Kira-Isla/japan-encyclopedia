@@ -6,7 +6,7 @@ category: matcha-sweets
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-matcha-sweets-kanazawa-金澤抹茶甜點-古都加賀百萬石風流的甘味物語-18bb08.html
 published: 2026-06-02
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤, 抹茶, 金箔, 加賀百萬石, 和果子
 license: CC BY 4.0
 ---

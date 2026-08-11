@@ -6,7 +6,7 @@ category: onsen
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-onsen-nara-奈良周邊溫泉與錢湯完全指南-古都周邊的泡湯秘境-f0554f.html
 published: 2026-06-04
-quality_score: 6.5
+quality_score: 8.5
 tags: 奈良溫泉, 關西溫泉, 雄琴溫泉, 近江八幡, 城崎溫泉
 license: CC BY 4.0
 ---

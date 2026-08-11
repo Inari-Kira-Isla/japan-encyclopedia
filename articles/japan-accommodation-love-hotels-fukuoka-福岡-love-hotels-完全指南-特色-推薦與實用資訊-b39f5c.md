@@ -6,7 +6,7 @@ category: love-hotels
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-love-hotels-fukuoka-福岡-love-hotels-完全指南-特色-推薦與實用資訊-b39f5c.html
 published: 2026-03-15
-quality_score: 6.5
+quality_score: 8.6
 tags: 福岡住宿, 九州旅遊, 日本住宿推薦, 博多住宿, 天神住宿
 license: CC BY 4.0
 ---

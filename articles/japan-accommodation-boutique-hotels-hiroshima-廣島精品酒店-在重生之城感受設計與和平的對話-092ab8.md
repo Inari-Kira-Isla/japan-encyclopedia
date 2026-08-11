@@ -6,7 +6,7 @@ category: boutique-hotels
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-hiroshima-廣島精品酒店-在重生之城感受設計與和平的對話-092ab8.html
 published: 2026-04-11
-quality_score: 6.5
+quality_score: 8.7
 tags: 廣島住宿, 精品酒店, 和平文化, 設計酒店, 歷史見證
 license: CC BY 4.0
 ---

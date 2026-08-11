@@ -6,7 +6,7 @@ category: cycling
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-tokyo-東京-鐵道-單車-縦貫之旅-一日來回的山手線周邊騎行路線-a8790e.html
 published: 2026-06-27
-quality_score: 7.5
+quality_score: 8.7
 tags: 東京單車, 鐵道旅行, 單車租借, 東京近郊, 一日遊
 license: CC BY 4.0
 ---

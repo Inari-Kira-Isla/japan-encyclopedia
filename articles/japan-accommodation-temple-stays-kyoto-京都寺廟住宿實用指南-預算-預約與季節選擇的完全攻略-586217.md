@@ -6,7 +6,7 @@ category: temple-stays
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-temple-stays-kyoto-京都寺廟住宿實用指南-預算-預約與季節選擇的完全攻略-586217.html
 published: 2026-06-23
-quality_score: 6.5
+quality_score: 8.6
 tags: 京都寺廟住宿, 宿坊體驗, 京都自助, 日本文化住宿, 京都世界遺產
 license: CC BY 4.0
 ---

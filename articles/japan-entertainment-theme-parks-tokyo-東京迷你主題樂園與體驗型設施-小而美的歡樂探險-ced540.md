@@ -6,7 +6,7 @@ category: theme-parks
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-theme-parks-tokyo-東京迷你主題樂園與體驗型設施-小而美的歡樂探險-ced540.html
 published: 2026-05-24
-quality_score: 6.5
+quality_score: 8.6
 tags: 東京主題樂園, 東京迷你樂園, teamLab, 吉卜力美術館, LEGOLAND
 license: CC BY 4.0
 ---

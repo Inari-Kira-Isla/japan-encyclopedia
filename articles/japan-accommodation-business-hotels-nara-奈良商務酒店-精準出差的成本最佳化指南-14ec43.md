@@ -6,7 +6,7 @@ category: business-hotels
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-business-hotels-nara-奈良商務酒店-精準出差的成本最佳化指南-14ec43.html
 published: 2026-03-24
-quality_score: 6.5
+quality_score: 8.7
 tags: 奈良, 商務酒店, 成本優化, 出差住宿, 關西旅行
 license: CC BY 4.0
 ---

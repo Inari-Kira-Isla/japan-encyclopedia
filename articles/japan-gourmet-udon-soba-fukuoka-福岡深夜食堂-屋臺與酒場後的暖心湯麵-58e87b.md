@@ -6,7 +6,7 @@ category: udon-soba
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-udon-soba-fukuoka-福岡深夜食堂-屋臺與酒場後的暖心湯麵-58e87b.html
 published: 2026-06-25
-quality_score: 6.5
+quality_score: 8.9
 tags: 福岡美食, 深夜食堂, 屋台文化, 九州清酒, 烏龍麵
 license: CC BY 4.0
 ---

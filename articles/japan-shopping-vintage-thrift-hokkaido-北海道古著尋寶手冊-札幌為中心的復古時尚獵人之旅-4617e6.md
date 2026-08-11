@@ -6,7 +6,7 @@ category: vintage-thrift
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-vintage-thrift-hokkaido-北海道古著尋寶手冊-札幌為中心的復古時尚獵人之旅-4617e6.html
 published: 2026-06-01
-quality_score: 7.5
+quality_score: 8.7
 tags: 北海道古著, 札幌古著店, 日本古著購物, 二手衣物, 北海道旅行
 license: CC BY 4.0
 ---

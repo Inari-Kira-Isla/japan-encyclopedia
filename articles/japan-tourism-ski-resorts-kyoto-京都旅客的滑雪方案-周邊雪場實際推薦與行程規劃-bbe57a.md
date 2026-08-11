@@ -6,7 +6,7 @@ category: ski-resorts
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-ski-resorts-kyoto-京都旅客的滑雪方案-周邊雪場實際推薦與行程規劃-bbe57a.html
 published: 2026-06-10
-quality_score: 6.5
+quality_score: 8.4
 tags: 京都滑雪, 關西滑雪場, 京都周邊, 滑雪推薦, 冬季日本
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: gaming-arcades
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-gaming-arcades-hiroshima-廣島遊戲中心-音樂遊戲與抓娃娃機愛好者的隱藏版寶藏-043e49.html
 published: 2026-06-04
-quality_score: 6.5
+quality_score: 8.6
 tags: 廣島, 遊戲中心, 街機, 音樂遊戲, 抓娃娃機
 license: CC BY 4.0
 ---

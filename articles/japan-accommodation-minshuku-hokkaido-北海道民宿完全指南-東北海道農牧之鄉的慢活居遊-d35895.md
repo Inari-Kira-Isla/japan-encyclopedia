@@ -6,7 +6,7 @@ category: minshuku
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-hokkaido-北海道民宿完全指南-東北海道農牧之鄉的慢活居遊-d35895.html
 published: 2026-06-05
-quality_score: 6.5
+quality_score: 8.6
 tags: 北海道民宿, 東北海道, 十勝民宿, 根室民宿, 酪農業體驗
 license: CC BY 4.0
 ---

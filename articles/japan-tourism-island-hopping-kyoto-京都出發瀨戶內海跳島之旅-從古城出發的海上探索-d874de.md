@@ -6,7 +6,7 @@ category: island-hopping
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-island-hopping-kyoto-京都出發瀨戶內海跳島之旅-從古城出發的海上探索-d874de.html
 published: 2026-07-04
-quality_score: 6.5
+quality_score: 8.6
 tags: 京都跳島, 瀨戶內海, 直島, 小豆島, 藝術跳島
 license: CC BY 4.0
 ---

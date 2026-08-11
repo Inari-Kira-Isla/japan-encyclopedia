@@ -6,7 +6,7 @@ category: festivals-matsuri
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-festivals-matsuri-osaka-大阪四大祭典完全指南-商都百年狂歡的熱血與浪漫-099358.html
 published: 2026-06-04
-quality_score: 6.5
+quality_score: 8.6
 tags: 大阪祭典, 天神祭, 岸和田花車祭, 住吉祭, 日本夏日祭典
 license: CC BY 4.0
 ---

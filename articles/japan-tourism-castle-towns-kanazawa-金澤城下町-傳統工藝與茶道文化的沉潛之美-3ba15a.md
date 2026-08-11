@@ -6,7 +6,7 @@ category: castle-towns
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-castle-towns-kanazawa-金澤城下町-傳統工藝與茶道文化的沉潛之美-3ba15a.html
 published: 2026-05-21
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤, 城下町, 傳統工藝, 金箔, 茶道
 license: CC BY 4.0
 ---

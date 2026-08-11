@@ -6,7 +6,7 @@ category: business-hotels
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-business-hotels-kanazawa-金澤商務酒店完全指南-傳統工藝與現代商務的完美交融-7a7fdf.html
 published: 2026-03-30
-quality_score: 6.5
+quality_score: 8.9
 tags: 金澤商務酒店, 石川縣商務住宿, 日本商務旅行
 license: CC BY 4.0
 ---

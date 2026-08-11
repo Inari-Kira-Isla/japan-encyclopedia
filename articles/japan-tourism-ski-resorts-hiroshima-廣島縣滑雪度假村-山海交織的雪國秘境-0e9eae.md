@@ -6,7 +6,7 @@ category: ski-resorts
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-ski-resorts-hiroshima-廣島縣滑雪度假村-山海交織的雪國秘境-0e9eae.html
 published: 2026-03-28
-quality_score: 6.5
+quality_score: 8.6
 tags: 廣島滑雪, 山海滑雪, 溫泉滑雪, 親子滑雪, 廣島旅遊
 license: CC BY 4.0
 ---

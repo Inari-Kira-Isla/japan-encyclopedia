@@ -6,7 +6,7 @@ category: kaiseki
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-kaiseki-fukuoka-福岡會席料理-博多漁港的旬味優勢與實惠選擇-78f9cc.html
 published: 2026-05-21
-quality_score: 6.5
+quality_score: 8.9
 tags: 福岡美食, 會席料理, 博多吃喝, 日本料理, 九州旅行
 license: CC BY 4.0
 ---

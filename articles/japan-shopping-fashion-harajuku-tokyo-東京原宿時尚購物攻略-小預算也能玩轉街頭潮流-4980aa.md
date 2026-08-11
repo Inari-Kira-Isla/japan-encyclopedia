@@ -6,7 +6,7 @@ category: fashion-harajuku
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-fashion-harajuku-tokyo-東京原宿時尚購物攻略-小預算也能玩轉街頭潮流-4980aa.html
 published: 2026-04-04
-quality_score: 7.5
+quality_score: 8.6
 tags: 原宿, 小預算購物, 街頭時尚, 二手古著, 省錢攻略
 license: CC BY 4.0
 ---

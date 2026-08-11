@@ -6,7 +6,7 @@ category: udon-soba
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-udon-soba-okinawa-沖繩-udon-soba-島嶼風土孕育的獨特麵食文化-663927.html
 published: 2026-04-07
-quality_score: 6.5
+quality_score: 9.0
 tags: 沖繩美食, 沖繩そば, 日本麵食, 沖繩自駕, 琉球文化
 license: CC BY 4.0
 ---

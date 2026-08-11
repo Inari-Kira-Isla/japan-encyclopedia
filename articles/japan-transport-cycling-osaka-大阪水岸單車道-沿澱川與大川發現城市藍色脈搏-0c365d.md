@@ -6,7 +6,7 @@ category: cycling
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-osaka-大阪水岸單車道-沿澱川與大川發現城市藍色脈搏-0c365d.html
 published: 2026-05-25
-quality_score: 7.5
+quality_score: 8.7
 tags: 大阪單車, 淀川單車道, 大川單車道, 河川騎行, 大阪水岸
 license: CC BY 4.0
 ---

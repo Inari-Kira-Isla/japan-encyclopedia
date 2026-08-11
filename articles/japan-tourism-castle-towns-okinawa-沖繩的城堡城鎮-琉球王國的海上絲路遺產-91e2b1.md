@@ -6,7 +6,7 @@ category: castle-towns
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-castle-towns-okinawa-沖繩的城堡城鎮-琉球王國的海上絲路遺產-91e2b1.html
 published: 2026-06-03
-quality_score: 6.5
+quality_score: 8.9
 tags: 沖繩, 城堡城鎮, 琉球王國, gusuku, 首里
 license: CC BY 4.0
 ---

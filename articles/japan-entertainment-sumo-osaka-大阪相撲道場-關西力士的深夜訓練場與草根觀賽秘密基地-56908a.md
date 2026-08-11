@@ -6,7 +6,7 @@ category: sumo
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-osaka-大阪相撲道場-關西力士的深夜訓練場與草根觀賽秘密基地-56908a.html
 published: 2026-05-25
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪相扑, 关西相扑, 道场, 业余相扑, 民间赛事
 license: CC BY 4.0
 ---

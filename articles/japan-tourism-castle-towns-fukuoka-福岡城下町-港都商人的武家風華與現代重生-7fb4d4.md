@@ -6,7 +6,7 @@ category: castle-towns
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-castle-towns-fukuoka-福岡城下町-港都商人的武家風華與現代重生-7fb4d4.html
 published: 2026-06-26
-quality_score: 6.5
+quality_score: 8.7
 tags: 福岡城下町, 博多商人, 黑田氏, 博多彩織, 博多祇園山笠
 license: CC BY 4.0
 ---

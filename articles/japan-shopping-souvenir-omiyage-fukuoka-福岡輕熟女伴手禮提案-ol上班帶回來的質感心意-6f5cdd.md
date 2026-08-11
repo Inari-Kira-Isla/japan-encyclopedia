@@ -6,7 +6,7 @@ category: souvenir-omiyage
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-souvenir-omiyage-fukuoka-福岡輕熟女伴手禮提案-ol上班帶回來的質感心意-6f5cdd.html
 published: 2026-06-03
-quality_score: 7.5
+quality_score: 8.7
 tags: 福岡伴手禮, 九州特產, OL送礼指南, 博多彩蛋糕, 唐津燒
 license: CC BY 4.0
 ---

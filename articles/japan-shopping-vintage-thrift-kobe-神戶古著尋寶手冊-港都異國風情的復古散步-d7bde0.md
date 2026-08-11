@@ -6,7 +6,7 @@ category: vintage-thrift
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-vintage-thrift-kobe-神戶古著尋寶手冊-港都異國風情的復古散步-d7bde0.html
 published: 2026-07-05
-quality_score: 7.5
+quality_score: 8.7
 tags: 神戶古著, 關西購物, 港都時尚, 日本二手, 異人館
 license: CC BY 4.0
 ---

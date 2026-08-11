@@ -6,7 +6,7 @@ category: temple-stays
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-temple-stays-osaka-大阪寺廟住宿-關西寺院網路的玄關口-5d498b.html
 published: 2026-06-26
-quality_score: 6.5
+quality_score: 8.5
 tags: 大阪住宿, 寺廟住宿, 關西旅遊, 高野山, 比叡山
 license: CC BY 4.0
 ---

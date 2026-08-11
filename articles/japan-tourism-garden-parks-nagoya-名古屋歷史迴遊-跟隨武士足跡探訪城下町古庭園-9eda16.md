@@ -6,7 +6,7 @@ category: garden-parks
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-nagoya-名古屋歷史迴遊-跟隨武士足跡探訪城下町古庭園-9eda16.html
 published: 2026-07-01
-quality_score: 6.5
+quality_score: 8.7
 tags: 名古屋, 歷史公園, 武家文化, 迴遊式庭園, 日本庭園
 license: CC BY 4.0
 ---

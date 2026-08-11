@@ -6,7 +6,7 @@ category: kaiseki
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-kaiseki-nagoya-名古屋懷石料理-伊勢灣旬味的海鮮寶庫-ac6bce.html
 published: 2026-05-22
-quality_score: 6.5
+quality_score: 8.7
 tags: 名古屋懷石, 伊勢灣海鮮, 愛知縣美食, 三重縣海產, 日本懷石料理
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: day-trips
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-fukuoka-福岡清晨出發-早鳥旅人的一日遊完美行程規劃-c419cf.html
 published: 2026-05-23
-quality_score: 6.5
+quality_score: 8.7
 tags: 福岡一日遊, 早鳥行程, 太宰府, 由布院, 柳川
 license: CC BY 4.0
 ---

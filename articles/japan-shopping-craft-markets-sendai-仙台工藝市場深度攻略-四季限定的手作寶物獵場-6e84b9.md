@@ -6,7 +6,7 @@ category: craft-markets
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-craft-markets-sendai-仙台工藝市場深度攻略-四季限定的手作寶物獵場-6e84b9.html
 published: 2026-03-29
-quality_score: 7.5
+quality_score: 8.7
 tags: 仙台, 工藝市場, 東北手作, 季節限定, 日本購物
 license: CC BY 4.0
 ---

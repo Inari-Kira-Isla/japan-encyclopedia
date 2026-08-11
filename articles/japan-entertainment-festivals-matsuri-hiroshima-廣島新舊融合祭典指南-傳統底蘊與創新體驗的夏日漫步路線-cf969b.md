@@ -6,7 +6,7 @@ category: festivals-matsuri
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-festivals-matsuri-hiroshima-廣島新舊融合祭典指南-傳統底蘊與創新體驗的夏日漫步路線-cf969b.html
 published: 2026-06-05
-quality_score: 6.5
+quality_score: 8.9
 tags: 
 license: CC BY 4.0
 ---

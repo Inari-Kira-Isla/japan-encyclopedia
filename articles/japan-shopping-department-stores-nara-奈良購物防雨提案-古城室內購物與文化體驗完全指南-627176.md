@@ -6,7 +6,7 @@ category: department-stores
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-department-stores-nara-奈良購物防雨提案-古城室內購物與文化體驗完全指南-627176.html
 published: 2026-06-20
-quality_score: 7.5
+quality_score: 8.6
 tags: 奈良購物, 奈良百货公司, 奈良室內景點, 奈良伴手禮, 奈良防雨
 license: CC BY 4.0
 ---

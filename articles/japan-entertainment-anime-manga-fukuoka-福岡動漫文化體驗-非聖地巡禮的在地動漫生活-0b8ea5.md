@@ -6,7 +6,7 @@ category: anime-manga
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-fukuoka-福岡動漫文化體驗-非聖地巡禮的在地動漫生活-0b8ea5.html
 published: 2026-06-28
-quality_score: 6.5
+quality_score: 8.5
 tags: 福岡動漫, 九州動漫文化, 福岡自由行, 日本動漫體驗, 天神地下街
 license: CC BY 4.0
 ---

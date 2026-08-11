@@ -6,7 +6,7 @@ category: ski-resorts
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-ski-resorts-fukuoka-冬季前往福岡該怎麼玩-九州的滑雪現況與替代體驗推薦-2226e7.html
 published: 2026-05-23
-quality_score: 6.5
+quality_score: 8.7
 tags: 福岡滑雪, 九州冬季旅遊, 福岡溫泉, 屋台料理, 九州溫泉推薦
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: fashion-harajuku
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-fashion-harajuku-okinawa-沖繩潮流購物地圖-國際通周邊的街頭時尚探索-5d39b6.html
 published: 2026-05-22
-quality_score: 7.5
+quality_score: 8.6
 tags: 沖繩購物, 街頭時尚, 日本古著, 國際通, 那霸
 license: CC BY 4.0
 ---

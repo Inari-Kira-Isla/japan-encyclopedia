@@ -6,7 +6,7 @@ category: budget-travel
 area: japan
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-budget-travel-日本揹包客住宿完整指南2026-青年旅社-民宿-膠囊旅館-jpy-2000-15000住宿費-61f959.html
 published: 2026-03-29
-quality_score: 7.1
+quality_score: 8.6
 tags: 日本背包客住宿, 東京青年旅社, 日本膠囊旅館, 日本民宿, 東京便宜住宿
 license: CC BY 4.0
 ---

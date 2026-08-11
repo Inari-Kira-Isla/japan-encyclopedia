@@ -6,7 +6,7 @@ category: day-trips
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-tokyo-東京騎行與自然一日遊-遠離人潮的山海秘境-92d82a.html
 published: 2026-04-02
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京一日遊, 騎行旅遊, 自然探索, 關東近郊, 戶外體驗
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: udon-soba
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-udon-soba-tokyo-東京下班後的溫暖一順位-深夜食堂的烏龍麵與蕎麥麵-68df09.html
 published: 2026-06-19
-quality_score: 6.5
+quality_score: 8.8
 tags: 東京美食, 深夜食堂, 烏龍麵, 蕎麥麵, 東京庶民美食
 license: CC BY 4.0
 ---

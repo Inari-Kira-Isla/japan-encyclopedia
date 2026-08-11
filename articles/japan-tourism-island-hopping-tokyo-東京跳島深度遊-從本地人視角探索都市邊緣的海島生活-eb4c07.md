@@ -6,7 +6,7 @@ category: island-hopping
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-island-hopping-tokyo-東京跳島深度遊-從本地人視角探索都市邊緣的海島生活-eb4c07.html
 published: 2026-06-16
-quality_score: 6.5
+quality_score: 8.8
 tags: 東京跳島, 火山諸島, 小笠原群島, 日本溫泉, 島嶼旅遊
 license: CC BY 4.0
 ---

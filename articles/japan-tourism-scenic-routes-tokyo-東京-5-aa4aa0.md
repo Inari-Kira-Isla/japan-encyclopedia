@@ -6,7 +6,7 @@ category: scenic-routes
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-tokyo-東京-5-aa4aa0.html
 published: 2026-06-03
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京,  метрографічні маршрути, 城市慢跑, 自行車, 庶民風光
 license: CC BY 4.0
 ---

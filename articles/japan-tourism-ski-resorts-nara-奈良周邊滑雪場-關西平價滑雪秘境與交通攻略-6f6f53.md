@@ -6,7 +6,7 @@ category: ski-resorts
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-ski-resorts-nara-奈良周邊滑雪場-關西平價滑雪秘境與交通攻略-6f6f53.html
 published: 2026-06-12
-quality_score: 6.5
+quality_score: 8.6
 tags: 奈良滑雪, 關西滑雪場, 六甲山滑雪, 一日遊, 平價滑雪
 license: CC BY 4.0
 ---

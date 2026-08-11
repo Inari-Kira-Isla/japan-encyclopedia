@@ -6,7 +6,7 @@ category: sumo
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-nagoya-名古屋觀相撲-從榮町到港區的觀賽體驗指南-46c460.html
 published: 2026-05-24
-quality_score: 6.5
+quality_score: 8.7
 tags: 名古屋相撲, 名古屋体育, 爱知県體育, 中部地區運動, 相扑观赛
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: buses
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-buses-hiroshima-廣島巴士美食探索-搭乘在地交通品嚐庶民味道-d9eeff.html
 published: 2026-04-05
-quality_score: 7.5
+quality_score: 8.7
 tags: 廣島巴士, 在地美食, 夜間交通, 海鮮料理, 好食燒
 license: CC BY 4.0
 ---

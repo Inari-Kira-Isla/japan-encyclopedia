@@ -6,7 +6,7 @@ category: business-hotels
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-business-hotels-nagoya-名古屋商務酒店市場分層指南-效率出差者的選擇策略-9b01e8.html
 published: 2026-03-21
-quality_score: 6.5
+quality_score: 8.5
 tags: 名古屋, 商務酒店, 出差指南, 日本旅居, 預算規劃
 license: CC BY 4.0
 ---

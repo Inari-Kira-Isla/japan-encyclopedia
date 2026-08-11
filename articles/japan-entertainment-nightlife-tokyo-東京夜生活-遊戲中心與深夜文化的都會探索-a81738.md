@@ -6,7 +6,7 @@ category: nightlife
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-tokyo-東京夜生活-遊戲中心與深夜文化的都會探索-a81738.html
 published: 2026-06-27
-quality_score: 6.5
+quality_score: 8.9
 tags: 東京夜生活, 遊戲中心, 卡拉OK, LIVE HOUSE, 深夜東京
 license: CC BY 4.0
 ---

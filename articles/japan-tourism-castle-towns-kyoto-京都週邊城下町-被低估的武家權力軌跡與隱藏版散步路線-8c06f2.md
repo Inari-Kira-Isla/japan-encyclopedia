@@ -6,7 +6,7 @@ category: castle-towns
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-castle-towns-kyoto-京都週邊城下町-被低估的武家權力軌跡與隱藏版散步路線-8c06f2.html
 published: 2026-07-06
-quality_score: 6.5
+quality_score: 8.9
 tags: 京都城下町, 伏見, 長岡京, 龜岡, 日本歷史散步
 license: CC BY 4.0
 ---

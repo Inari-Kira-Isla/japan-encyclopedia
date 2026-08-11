@@ -6,7 +6,7 @@ category: kaiseki
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-kaiseki-hokkaido-北海道會席料理-食材王國的豐盛旬味-f82e4b.html
 published: 2026-07-05
-quality_score: 6.5
+quality_score: 8.8
 tags: 北海道會席料理, 北海道美食, 札幌會席, 小樽海膽, 函館海鮮
 license: CC BY 4.0
 ---

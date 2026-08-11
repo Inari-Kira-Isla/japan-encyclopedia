@@ -6,7 +6,7 @@ category: capsule-hotels
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-capsule-hotels-kobe-神戶膠囊旅館完全指南-港灣都會的極簡住宿美學-2fb024.html
 published: 2026-06-07
-quality_score: 6.5
+quality_score: 8.6
 tags: 神戶膠囊旅館, 神戶住宿, 日本膠囊推薦, 神戶自助旅行, 神戶便宜住宿
 license: CC BY 4.0
 ---

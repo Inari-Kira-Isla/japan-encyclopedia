@@ -6,7 +6,7 @@ category: scenic-routes
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-kanazawa-金澤風景名勝完全指南-漫步古都巷弄與海岸風光-3e0efc.html
 published: 2026-03-18
-quality_score: 6.5
+quality_score: 8.8
 tags: 金澤景點, 石川縣旅遊, 日本風景名勝, 能登半島, 兼六園
 license: CC BY 4.0
 ---

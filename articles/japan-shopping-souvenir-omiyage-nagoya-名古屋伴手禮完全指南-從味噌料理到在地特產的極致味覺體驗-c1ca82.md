@@ -6,7 +6,7 @@ category: souvenir-omiyage
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-souvenir-omiyage-nagoya-名古屋伴手禮完全指南-從味噌料理到在地特產的極致味覺體驗-c1ca82.html
 published: 2026-06-05
-quality_score: 7.5
+quality_score: 8.7
 tags: 名古屋伴手禮, 名古屋土產, 味噌加工食品, 日本中部購物, 名古屋車站
 license: CC BY 4.0
 ---

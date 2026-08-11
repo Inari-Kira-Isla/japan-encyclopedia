@@ -6,7 +6,7 @@ category: metro-systems
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-hiroshima-廣島電車哲學-為什麼和平之城選擇地面軌道而非地下鐵-472c3c.html
 published: 2026-04-05
-quality_score: 7.5
+quality_score: 8.7
 tags: 廣島電車, 城市規劃, 交通系統, 戰後重建, 和平之城
 license: CC BY 4.0
 ---

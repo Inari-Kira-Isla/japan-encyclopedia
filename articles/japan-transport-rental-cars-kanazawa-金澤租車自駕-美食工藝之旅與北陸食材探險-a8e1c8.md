@@ -6,7 +6,7 @@ category: rental-cars
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-kanazawa-金澤租車自駕-美食工藝之旅與北陸食材探險-a8e1c8.html
 published: 2026-03-21
-quality_score: 7.5
+quality_score: 8.5
 tags: 金澤, 租車, 美食探險, 工藝體驗, 北陸自駕
 license: CC BY 4.0
 ---

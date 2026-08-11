@@ -6,7 +6,7 @@ category: street-food
 area: japan
 url: https://japan-encyclopedia.vercel.app/articles/japan-dining-street-food-東京街頭美食完整指南2026-淺草-築地場外-上野-東京最佳外帶小吃費用-jpy-攻略-jp-tokyo-st-1b7d12.html
 published: 2026-04-28
-quality_score: 7.6
+quality_score: 8.2
 tags: 東京街頭美食, 淺草仲見世, 築地場外市場, 上野阿美橫, 東京小吃
 license: CC BY 4.0
 ---

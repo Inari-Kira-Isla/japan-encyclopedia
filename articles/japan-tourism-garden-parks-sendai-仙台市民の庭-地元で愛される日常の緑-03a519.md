@@ -6,7 +6,7 @@ category: garden-parks
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-sendai-仙台市民の庭-地元で愛される日常の緑-03a519.html
 published: 2026-06-25
-quality_score: 6.5
+quality_score: 8.8
 tags: 仙台, 公園, 市民生活, 東北散步, 非觀光熱點
 license: CC BY 4.0
 ---

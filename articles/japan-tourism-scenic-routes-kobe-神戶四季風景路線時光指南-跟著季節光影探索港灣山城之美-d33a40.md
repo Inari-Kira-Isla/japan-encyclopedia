@@ -6,7 +6,7 @@ category: scenic-routes
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-kobe-神戶四季風景路線時光指南-跟著季節光影探索港灣山城之美-d33a40.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 神戶, 風景路線, 四季旅遊, 攝影景點, 港灣城市
 license: CC BY 4.0
 ---

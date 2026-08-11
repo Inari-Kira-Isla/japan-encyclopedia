@@ -6,7 +6,7 @@ category: anime-manga
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-osaka-大阪動漫咖啡廳與主題酒吧-御宅族的夜晚狂歡-0f0f9c.html
 published: 2026-03-29
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪動漫, 動漫咖啡廳, 主題酒吧, 日本橋, 御宅族文化
 license: CC BY 4.0
 ---

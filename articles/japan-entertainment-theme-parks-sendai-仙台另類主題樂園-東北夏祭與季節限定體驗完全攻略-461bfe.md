@@ -6,7 +6,7 @@ category: theme-parks
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-theme-parks-sendai-仙台另類主題樂園-東北夏祭與季節限定體驗完全攻略-461bfe.html
 published: 2026-06-15
-quality_score: 6.5
+quality_score: 8.7
 tags: 仙台主題樂園, 日本東北祭典, 仙台七夕祭, 仙台溫泉, 東北一日遊
 license: CC BY 4.0
 ---

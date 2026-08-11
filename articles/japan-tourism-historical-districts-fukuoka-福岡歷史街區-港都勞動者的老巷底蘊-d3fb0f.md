@@ -6,7 +6,7 @@ category: historical-districts
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-fukuoka-福岡歷史街區-港都勞動者的老巷底蘊-d3fb0f.html
 published: 2026-06-03
-quality_score: 6.5
+quality_score: 8.7
 tags: 福岡, 歷史街區, 港都, 漫步, 庶民文化
 license: CC BY 4.0
 ---

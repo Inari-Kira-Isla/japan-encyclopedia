@@ -6,7 +6,7 @@ category: udon-soba
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-udon-soba-kanazawa-金澤加賀烏龍麵-從近江町市場到武士餐桌的石川縣麵食文化-c6f6ea.html
 published: 2026-06-14
-quality_score: 6.5
+quality_score: 8.5
 tags: 金澤, 加賀烏龍麵, 石川縣, 日本烏龍麵, 美食文化
 license: CC BY 4.0
 ---

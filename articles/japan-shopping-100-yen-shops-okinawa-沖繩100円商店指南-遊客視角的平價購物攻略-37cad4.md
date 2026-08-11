@@ -6,7 +6,7 @@ category: 100-yen-shops
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-100-yen-shops-okinawa-沖繩100円商店指南-遊客視角的平價購物攻略-37cad4.html
 published: 2026-06-02
-quality_score: 7.5
+quality_score: 8.9
 tags: 沖繩100円商店, 那霸購物, 沖繩自由行, 日本百均店, 平價購物攻略
 license: CC BY 4.0
 ---

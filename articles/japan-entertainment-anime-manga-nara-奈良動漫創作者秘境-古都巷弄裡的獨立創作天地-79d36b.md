@@ -6,7 +6,7 @@ category: anime-manga
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-nara-奈良動漫創作者秘境-古都巷弄裡的獨立創作天地-79d36b.html
 published: 2026-06-24
-quality_score: 6.5
+quality_score: 8.7
 tags: 奈良動漫, 奈良漫畫, 關西動漫聖地, 同人誌, 獨立創作者
 license: CC BY 4.0
 ---

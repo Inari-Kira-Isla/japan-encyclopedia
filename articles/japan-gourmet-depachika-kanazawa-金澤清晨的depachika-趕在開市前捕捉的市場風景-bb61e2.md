@@ -6,7 +6,7 @@ category: depachika
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-depachika-kanazawa-金澤清晨的depachika-趕在開市前捕捉的市場風景-bb61e2.html
 published: 2026-05-25
-quality_score: 6.5
+quality_score: 8.3
 tags: 
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: castle-towns
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-castle-towns-kyoto-京都城堡城鎮-探訪隱藏在巷弄間的武家遺產與幕末歷史現場-3ac48a.html
 published: 2026-05-22
-quality_score: 6.5
+quality_score: 8.7
 tags: 京都城堡城鎮, 二條城, 城下町, 幕末歷史, 新選組
 license: CC BY 4.0
 ---

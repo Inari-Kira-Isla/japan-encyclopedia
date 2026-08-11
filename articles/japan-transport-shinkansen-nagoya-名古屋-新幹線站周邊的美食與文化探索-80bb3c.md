@@ -6,7 +6,7 @@ category: shinkansen
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-nagoya-名古屋-新幹線站周邊的美食與文化探索-80bb3c.html
 published: 2026-06-29
-quality_score: 7.5
+quality_score: 8.7
 tags: 名古屋新娘道, 名古屋美食, 味噌煮烏龍, 名古屋御好燒, 名古屋手羽先
 license: CC BY 4.0
 ---

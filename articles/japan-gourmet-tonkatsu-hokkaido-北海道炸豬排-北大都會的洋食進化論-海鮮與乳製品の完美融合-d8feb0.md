@@ -6,7 +6,7 @@ category: tonkatsu
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tonkatsu-hokkaido-北海道炸豬排-北大都會的洋食進化論-海鮮與乳製品の完美融合-d8feb0.html
 published: 2026-06-14
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道炸豬排, 札幌美食, 北海道洋食, 海鮮炸物, 帶廣美食
 license: CC BY 4.0
 ---

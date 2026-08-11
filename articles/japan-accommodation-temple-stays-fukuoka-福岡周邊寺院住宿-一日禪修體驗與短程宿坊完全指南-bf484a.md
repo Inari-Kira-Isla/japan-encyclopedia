@@ -6,7 +6,7 @@ category: temple-stays
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-temple-stays-fukuoka-福岡周邊寺院住宿-一日禪修體驗與短程宿坊完全指南-bf484a.html
 published: 2026-05-23
-quality_score: 6.5
+quality_score: 8.6
 tags: 九州寺院住宿, 福岡旅遊, 禪修體驗, 一日往返, 宿坊
 license: CC BY 4.0
 ---

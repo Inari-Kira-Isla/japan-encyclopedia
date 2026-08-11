@@ -6,7 +6,7 @@ category: temples-shrines
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-temples-shrines-tokyo-東京微型神社踏查-隱藏在日常街區的在地信仰現-5b7774.html
 published: 2026-06-27
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京寺廟神社, 東京自由行, 東京深度遊, 在地文化, 都市信仰
 license: CC BY 4.0
 ---

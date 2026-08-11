@@ -6,7 +6,7 @@ category: garden-parks
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-fukuoka-福岡綠地生活-當地人私藏的日常休憩提案-bc3f78.html
 published: 2026-07-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 福岡, 公園, 綠地, 日本九州, 在地體驗
 license: CC BY 4.0
 ---

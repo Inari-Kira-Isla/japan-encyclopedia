@@ -6,7 +6,7 @@ category: day-trips
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-osaka-大阪周邊美食探索一日遊-關西味蕾版圖的深度巡禮-a4dc01.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪, 關西美食, 一日遊, 神戶牛, 和菓子
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: depachika
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-depachika-sendai-仙台depachika完全指南-東北食材寶庫的伴手禮與熟食探索-de501c.html
 published: 2026-06-06
-quality_score: 6.5
+quality_score: 8.7
 tags: 仙台Depachika, 東北美食, 毛豆甜點, 牛舌伴手禮, 三角壽司
 license: CC BY 4.0
 ---

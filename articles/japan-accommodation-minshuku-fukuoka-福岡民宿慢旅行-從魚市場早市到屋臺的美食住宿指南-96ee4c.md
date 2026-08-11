@@ -6,7 +6,7 @@ category: minshuku
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-fukuoka-福岡民宿慢旅行-從魚市場早市到屋臺的美食住宿指南-96ee4c.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 8.7
 tags: 福岡民宿, 屋台文化, 魚市場, 美食慢旅, 九州住宿
 license: CC BY 4.0
 ---

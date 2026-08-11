@@ -6,7 +6,7 @@ category: temple-stays
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-temple-stays-kobe-神戶周邊寺廟住宿-從港都出發的關西禪修之旅-406680.html
 published: 2026-07-04
-quality_score: 6.5
+quality_score: 8.7
 tags: 神戶寺廟住宿, 關西宿坊, 高野山, 比叡山, 神戶溫泉
 license: CC BY 4.0
 ---

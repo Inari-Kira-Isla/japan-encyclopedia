@@ -6,7 +6,7 @@ category: ferries
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-ferries-hokkaido-北海道渡輪的不一樣玩法-從津獲海峽到流冰航線的全季節體驗指南-12f293.html
 published: 2026-06-03
-quality_score: 7.5
+quality_score: 8.5
 tags: 北海道自助旅行, 道南交通, 渡輪體驗, 北海道鐵路, 自助旅行攻略
 license: CC BY 4.0
 ---

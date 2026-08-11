@@ -6,7 +6,7 @@ category: garden-parks
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-kyoto-京都花園散步-四季旬彩與在地茶食的文化之旅-d50619.html
 published: 2026-06-06
-quality_score: 6.5
+quality_score: 8.6
 tags: 京都庭園, 日本文化體驗, 四季散步, 茶道體驗, 枯山水
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: love-hotels
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-love-hotels-nagoya-沖繩寺廟住宿完全指南-琉球佛教文化中的靜謐居所-e44561.html
 published: 2026-06-30
-quality_score: 6.5
+quality_score: 8.5
 tags: 沖繩寺廟住宿, 琉球佛教, Temple Stay,  Okinawa, 一泊二食
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: festivals-matsuri
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-festivals-matsuri-kyoto-京都夜晚祭典散步-感受古都夜色中的光與舞-feea55.html
 published: 2026-05-23
-quality_score: 6.5
+quality_score: 8.5
 tags: 京都祭典, 京都夜景, 日本传统文化, 深度旅游, 庙会活动
 license: CC BY 4.0
 ---

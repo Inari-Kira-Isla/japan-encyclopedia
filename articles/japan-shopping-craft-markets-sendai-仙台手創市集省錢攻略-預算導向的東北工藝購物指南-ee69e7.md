@@ -6,7 +6,7 @@ category: craft-markets
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-craft-markets-sendai-仙台手創市集省錢攻略-預算導向的東北工藝購物指南-ee69e7.html
 published: 2026-05-23
-quality_score: 7.5
+quality_score: 8.7
 tags: 仙台手創市集, 東北工藝, 省錢攻略, 預算優先, 日本市集
 license: CC BY 4.0
 ---

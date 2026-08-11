@@ -6,7 +6,7 @@ category: nature-trails
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-nara-奈良古道健行指南-走進千年物語的山徑時空-50cadb.html
 published: 2026-05-25
-quality_score: 6.5
+quality_score: 8.7
 tags: 奈良步道, 古道健行, 日本世界遗产, 大和古道, 修驗道
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: kaiseki
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-kaiseki-hokkaido-北海道懷石料理-非ritz而是道產子的海味胃-8e55f4.html
 published: 2026-05-21
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道怀石料理, 北海道路产子, 北海道海鲜, 马粪海胆, 帆立贝
 license: CC BY 4.0
 ---

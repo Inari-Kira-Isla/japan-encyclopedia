@@ -6,7 +6,7 @@ category: garden-parks
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-hiroshima-廣島花園公園巡禮-四季風情與在地生活的綠意日常-6b353f.html
 published: 2026-06-06
-quality_score: 6.5
+quality_score: 8.7
 tags: 廣島花園, 廣島公園, 春季賞櫻, 秋季賞楓, 平和紀念公園
 license: CC BY 4.0
 ---

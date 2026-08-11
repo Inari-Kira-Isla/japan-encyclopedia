@@ -6,7 +6,7 @@ category: izakaya
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-izakaya-kobe-神戶居酒屋的港都風情-從元町到ポートアイランド的夜間美食散步-804712.html
 published: 2026-06-12
-quality_score: 6.5
+quality_score: 8.8
 tags: 神戶, 居酒屋, 兵庫, 港都, 元町
 license: CC BY 4.0
 ---

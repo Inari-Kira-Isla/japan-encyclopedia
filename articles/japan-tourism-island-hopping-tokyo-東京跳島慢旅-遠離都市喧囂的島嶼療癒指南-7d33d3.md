@@ -6,7 +6,7 @@ category: island-hopping
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-island-hopping-tokyo-東京跳島慢旅-遠離都市喧囂的島嶼療癒指南-7d33d3.html
 published: 2026-06-22
-quality_score: 6.5
+quality_score: 8.5
 tags: 東京跳島, 伊勢群島, 小笠原群島, 八丈島溫泉, 日本島嶼旅遊
 license: CC BY 4.0
 ---

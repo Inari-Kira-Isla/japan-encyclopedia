@@ -6,7 +6,7 @@ category: ramen
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-ramen-hokkaido-北海道漁港拉麵-海鮮湯頭的季節變化與供應鏈故事-0c790c.html
 published: 2026-03-23
-quality_score: 6.5
+quality_score: 8.3
 tags: 北海道, 拉麵, 漁港美食, 海鮮湯頭, 季節限定
 license: CC BY 4.0
 ---

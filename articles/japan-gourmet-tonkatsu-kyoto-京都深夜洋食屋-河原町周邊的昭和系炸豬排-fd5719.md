@@ -6,7 +6,7 @@ category: tonkatsu
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tonkatsu-kyoto-京都深夜洋食屋-河原町周邊的昭和系炸豬排-fd5719.html
 published: 2026-06-16
-quality_score: 6.5
+quality_score: 8.6
 tags: 京都炸豬排, 河原町美食, 昭和洋食, 京都深夜食堂, 關西豚排
 license: CC BY 4.0
 ---

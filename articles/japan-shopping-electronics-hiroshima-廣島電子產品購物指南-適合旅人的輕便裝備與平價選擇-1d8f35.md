@@ -6,7 +6,7 @@ category: electronics
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-electronics-hiroshima-廣島電子產品購物指南-適合旅人的輕便裝備與平價選擇-1d8f35.html
 published: 2026-06-20
-quality_score: 7.5
+quality_score: 8.5
 tags: 廣島電子產品, 廣島購物, 廣島旅遊, 本通商圈, 電子產品推薦
 license: CC BY 4.0
 ---

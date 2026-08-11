@@ -6,7 +6,7 @@ category: day-trips
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-fukuoka-福岡美食尋味一日遊-清酒廠-鄉土料理與市場的味覺探索-acfb50.html
 published: 2026-06-18
-quality_score: 6.5
+quality_score: 8.7
 tags: 福岡, 一日遊, 美食, 清酒, 久留米
 license: CC BY 4.0
 ---

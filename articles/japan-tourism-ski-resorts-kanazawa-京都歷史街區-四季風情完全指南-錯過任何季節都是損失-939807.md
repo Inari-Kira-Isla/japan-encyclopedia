@@ -6,7 +6,7 @@ category: ski-resorts
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-ski-resorts-kanazawa-京都歷史街區-四季風情完全指南-錯過任何季節都是損失-939807.html
 published: 2026-06-29
-quality_score: 6.5
+quality_score: 8.7
 tags: 京都, 歷史街區, 四季, 賞櫻, 賞楓
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: tonkatsu
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tonkatsu-tokyo-東京豚illante的昭和記憶-從人形町到涉谷的職人之味-15b406.html
 published: 2026-06-02
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京美食, 豚カツ, 人形町, 洋食, 明治維新
 license: CC BY 4.0
 ---

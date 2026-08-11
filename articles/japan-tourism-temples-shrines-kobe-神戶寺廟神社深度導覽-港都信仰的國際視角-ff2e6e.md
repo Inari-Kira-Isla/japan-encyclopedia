@@ -6,7 +6,7 @@ category: temples-shrines
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-temples-shrines-kobe-神戶寺廟神社深度導覽-港都信仰的國際視角-ff2e6e.html
 published: 2026-06-05
-quality_score: 6.5
+quality_score: 8.8
 tags: 神戶寺廟神社, 神戶旅遊, 生田神社, 能福寺, 南京町媽祖廟
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: ferries
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-ferries-kanazawa-金澤冬季渡輪秘境-淡季海路的寧靜體驗與在地美味-aeec39.html
 published: 2026-06-16
-quality_score: 7.5
+quality_score: 8.8
 tags: 金澤交通, 冬季日本海, 渡輪慢遊, 能登半島, 在地海鮮
 license: CC BY 4.0
 ---

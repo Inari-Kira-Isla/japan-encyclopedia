@@ -6,7 +6,7 @@ category: theme-parks
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-theme-parks-sendai-仙台創意休閒場所推薦-非典型遊樂體驗提案-b56a26.html
 published: 2026-07-02
-quality_score: 6.5
+quality_score: 8.7
 tags: 仙台主題樂園, 東北旅遊, 家庭旅遊, 體驗型設施, 手作體驗
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: castle-towns
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-castle-towns-nara-奈良周邊的山城巡禮-未被發現的戰國防線與賞櫻秘境-a3695e.html
 published: 2026-06-30
-quality_score: 6.5
+quality_score: 8.7
 tags: 奈良山城, 日本戰國, 賞櫻秘境, 徒步旅行, 關西深度遊
 license: CC BY 4.0
 ---

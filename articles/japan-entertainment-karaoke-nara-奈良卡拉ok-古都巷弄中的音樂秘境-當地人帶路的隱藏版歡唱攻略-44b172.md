@@ -6,7 +6,7 @@ category: karaoke
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-karaoke-nara-奈良卡拉ok-古都巷弄中的音樂秘境-當地人帶路的隱藏版歡唱攻略-44b172.html
 published: 2026-06-22
-quality_score: 6.5
+quality_score: 8.7
 tags: 奈良卡拉OK, 奈良夜生活, 奈良自由行, 關西娛樂, 古都體驗
 license: CC BY 4.0
 ---

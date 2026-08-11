@@ -6,7 +6,7 @@ category: love-hotels
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-love-hotels-tokyo-東京love-hotels-傳統工藝美學與現代住宿設計-174c0d.html
 published: 2026-06-30
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京住宿, Love Hotel, 日本設計, 東京約會, 情侶出遊
 license: CC BY 4.0
 ---

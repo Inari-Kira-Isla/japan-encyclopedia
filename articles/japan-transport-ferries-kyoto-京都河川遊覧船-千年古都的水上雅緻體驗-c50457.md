@@ -6,7 +6,7 @@ category: ferries
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-ferries-kyoto-京都河川遊覧船-千年古都的水上雅緻體驗-c50457.html
 published: 2026-04-05
-quality_score: 7.5
+quality_score: 8.5
 tags: 京都, 河川遊覧, 保津川, 鴨川, 水上觀光
 license: CC BY 4.0
 ---

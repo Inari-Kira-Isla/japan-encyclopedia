@@ -6,7 +6,7 @@ category: ski-resorts
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-ski-resorts-fukuoka-福岡滑雪度假村-九州雪國體驗與溫泉美食之旅-bace94.html
 published: 2026-03-28
-quality_score: 6.5
+quality_score: 8.6
 tags: 福岡, 滑雪, 九州, 溫泉, 親子旅遊
 license: CC BY 4.0
 ---

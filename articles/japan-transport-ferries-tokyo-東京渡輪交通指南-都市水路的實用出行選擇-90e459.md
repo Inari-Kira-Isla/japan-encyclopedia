@@ -6,7 +6,7 @@ category: ferries
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-ferries-tokyo-東京渡輪交通指南-都市水路的實用出行選擇-90e459.html
 published: 2026-03-29
-quality_score: 7.5
+quality_score: 8.6
 tags: 東京交通, 渡輪, 水上巴士, 離島交通, 都市交通
 license: CC BY 4.0
 ---

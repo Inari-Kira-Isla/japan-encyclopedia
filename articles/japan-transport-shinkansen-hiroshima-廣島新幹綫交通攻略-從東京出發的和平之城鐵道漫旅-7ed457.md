@@ -6,7 +6,7 @@ category: shinkansen
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-hiroshima-廣島新幹綫交通攻略-從東京出發的和平之城鐵道漫旅-7ed457.html
 published: 2026-06-30
-quality_score: 7.5
+quality_score: 8.6
 tags: 廣島新幹綫, 山陽新幹綫, 廣島和平紀念, 宮島嚴島神社, 日本世界遺產
 license: CC BY 4.0
 ---

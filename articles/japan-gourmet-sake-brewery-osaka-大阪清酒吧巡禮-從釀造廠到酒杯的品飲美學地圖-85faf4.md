@@ -6,7 +6,7 @@ category: sake-brewery
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sake-brewery-osaka-大阪清酒吧巡禮-從釀造廠到酒杯的品飲美學地圖-85faf4.html
 published: 2026-06-23
-quality_score: 6.5
+quality_score: 8.8
 tags: 大阪清酒, 清酒吧, 大阪美食, 大阪旅遊, 關西清酒
 license: CC BY 4.0
 ---

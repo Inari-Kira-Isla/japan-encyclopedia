@@ -6,7 +6,7 @@ category: udon-soba
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-udon-soba-kyoto-京都烏龍麵與蕎麥麵-晨粥與精進料理的千年日常-97bc38.html
 published: 2026-04-08
-quality_score: 6.5
+quality_score: 8.7
 tags: 京都美食, 烏龍麵, 蕎麥麵, 日本料理, 京都旅遊
 license: CC BY 4.0
 ---

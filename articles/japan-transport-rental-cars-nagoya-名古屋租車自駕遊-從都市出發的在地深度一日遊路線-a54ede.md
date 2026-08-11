@@ -6,7 +6,7 @@ category: rental-cars
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-nagoya-名古屋租車自駕遊-從都市出發的在地深度一日遊路線-a54ede.html
 published: 2026-06-06
-quality_score: 7.5
+quality_score: 8.4
 tags: 名古屋租車, 中部日本自駕遊, 一日遊路線, 名古屋周邊景點, 伊勢志摩
 license: CC BY 4.0
 ---

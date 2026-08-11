@@ -6,7 +6,7 @@ category: festivals-matsuri
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-festivals-matsuri-okinawa-沖繩煙火盛典-夏日海岸線的絢麗夜空與在地文化體驗-03a527.html
 published: 2026-05-23
-quality_score: 6.5
+quality_score: 8.7
 tags: 沖繩煙火, 海灘祭典, 夏日活動, 那霸港煙火, 北谷美國村
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: fashion-harajuku
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-fashion-harajuku-tokyo-東京原宿古著尋寶指南-巷弄裡的復古時尚王國-cbb4c5.html
 published: 2026-06-12
-quality_score: 7.5
+quality_score: 8.7
 tags: 原宿古著, 東京購物, 古著尋寶, 街頭潮流, 復古時尚
 license: CC BY 4.0
 ---

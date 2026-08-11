@@ -6,7 +6,7 @@ category: minshuku
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-okinawa-沖繩外島民宿指南-跳脫本島的亞熱帶島嶼生活-881120.html
 published: 2026-06-29
-quality_score: 6.5
+quality_score: 8.7
 tags: 沖繩民宿, 外島住宿, 宮古島民宿, 石垣島民宿, 西表島民宿
 license: CC BY 4.0
 ---

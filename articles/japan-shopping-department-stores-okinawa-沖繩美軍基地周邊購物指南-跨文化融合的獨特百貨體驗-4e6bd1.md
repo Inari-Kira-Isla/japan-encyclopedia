@@ -6,7 +6,7 @@ category: department-stores
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-department-stores-okinawa-沖繩美軍基地周邊購物指南-跨文化融合的獨特百貨體驗-4e6bd1.html
 published: 2026-06-10
-quality_score: 7.5
+quality_score: 8.7
 tags: 沖繩購物, 美軍基地周邊, 跨文化體驗, 日本購物, 亞熱帶購物
 license: CC BY 4.0
 ---

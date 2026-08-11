@@ -6,7 +6,7 @@ category: nightlife
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-kyoto-京都夜生活-古都的夜間魅力探索-d325d2-1780358278.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 8.6
 tags: 京都夜生活, 祇園, 四条河原町, 京都站, 京大周邊
 license: CC BY 4.0
 ---

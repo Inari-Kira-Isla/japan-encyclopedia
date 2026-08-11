@@ -6,7 +6,7 @@ category: izakaya
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-izakaya-sendai-仙台居酒屋地域導覽-從一番町到廣瀨通的在地喝酒哲學-408773.html
 published: 2026-06-06
-quality_score: 6.5
+quality_score: 8.5
 tags: 仙台居酒屋, 東北美食, 一番町, 國分町橫丁, 廣瀨通
 license: CC BY 4.0
 ---

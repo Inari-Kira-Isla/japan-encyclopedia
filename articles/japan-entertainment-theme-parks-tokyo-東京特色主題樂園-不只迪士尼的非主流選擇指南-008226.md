@@ -6,7 +6,7 @@ category: theme-parks
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-theme-parks-tokyo-東京特色主題樂園-不只迪士尼的非主流選擇指南-008226.html
 published: 2026-05-22
-quality_score: 6.5
+quality_score: 8.5
 tags: 東京主題樂園, 東京旅遊, 花やしき, 三麗鷗彩虹樂園, teamLab Planets
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: metro-systems
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-nagoya-名古屋地下鐵沿線產業散步-從製造重鎮到味覺記憶的金屬城市-5a5d01.html
 published: 2026-06-12
-quality_score: 7.5
+quality_score: 8.8
 tags: 名古屋地下鐵, 產業散步, 製造之城, 名古屋交通, 日本中部
 license: CC BY 4.0
 ---

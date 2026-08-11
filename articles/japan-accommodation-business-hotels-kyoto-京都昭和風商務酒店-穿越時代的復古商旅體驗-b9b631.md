@@ -6,7 +6,7 @@ category: business-hotels
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-business-hotels-kyoto-京都昭和風商務酒店-穿越時代的復古商旅體驗-b9b631.html
 published: 2026-07-04
-quality_score: 6.5
+quality_score: 8.6
 tags: 京都商務酒店, 昭和風住宿, 京都旅遊, 商務出差, 复古酒店
 license: CC BY 4.0
 ---

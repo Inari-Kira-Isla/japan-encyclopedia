@@ -6,7 +6,7 @@ category: tonkatsu
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tonkatsu-kyoto-京都炸豬排-學生食堂與巷內洋食的平價美味-c53fc6.html
 published: 2026-06-09
-quality_score: 6.5
+quality_score: 8.7
 tags: 京都炸豬排, 京都美食, 關西洋食, 平價美食, 學生食堂
 license: CC BY 4.0
 ---

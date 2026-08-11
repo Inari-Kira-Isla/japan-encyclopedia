@@ -6,7 +6,7 @@ category: souvenir-omiyage
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-souvenir-omiyage-sendai-仙台購物達人帶路-從主流土產到隱藏版好物的深度探索-0e4d92.html
 published: 2026-06-04
-quality_score: 7.5
+quality_score: 8.9
 tags: 仙台購物, 伴手禮攻略, 東北免稅, 日本購物, 仙台自由行
 license: CC BY 4.0
 ---

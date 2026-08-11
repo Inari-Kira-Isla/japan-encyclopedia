@@ -6,7 +6,7 @@ category: day-trips
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-fukuoka-福岡周邊隱藏版一日遊-在地人私藏的九州秘境完全公開-3e4332.html
 published: 2026-06-08
-quality_score: 6.5
+quality_score: 8.7
 tags: 福岡一日遊, 九州秘境, 血池溫泉, 杵筑城下町, 糸島海岸
 license: CC BY 4.0
 ---

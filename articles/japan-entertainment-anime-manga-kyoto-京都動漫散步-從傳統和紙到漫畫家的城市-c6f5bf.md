@@ -6,7 +6,7 @@ category: anime-manga
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-kyoto-京都動漫散步-從傳統和紙到漫畫家的城市-c6f5bf.html
 published: 2026-05-31
-quality_score: 6.5
+quality_score: 8.6
 tags: 京都動漫, 京都漫畫, 日本動漫, 京都自由行, 動漫之旅
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: sushi
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sushi-kobe-神戶極上壽司-山海之間的獨特味覺-8e9210.html
 published: 2026-06-02
-quality_score: 6.5
+quality_score: 8.9
 tags: 神戶壽司, 神戶美食, 牛肉壽司, 神戶自由行, 日本壽司
 license: CC BY 4.0
 ---

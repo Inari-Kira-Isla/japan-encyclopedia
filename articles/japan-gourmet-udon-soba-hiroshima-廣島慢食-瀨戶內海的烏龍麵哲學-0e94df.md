@@ -6,7 +6,7 @@ category: udon-soba
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-udon-soba-hiroshima-廣島慢食-瀨戶內海的烏龍麵哲學-0e94df.html
 published: 2026-06-02
-quality_score: 6.5
+quality_score: 8.8
 tags: 廣島美食, 烏龍麵, 瀨戶內海, 日本料理, 在地美食
 license: CC BY 4.0
 ---

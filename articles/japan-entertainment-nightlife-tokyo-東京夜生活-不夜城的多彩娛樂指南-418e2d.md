@@ -6,7 +6,7 @@ category: nightlife
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-tokyo-東京夜生活-不夜城的多彩娛樂指南-418e2d.html
 published: 2026-03-21
-quality_score: 6.5
+quality_score: 8.6
 tags: 東京, 夜生活, 夜遊指南, 日本娛樂, 旅遊
 license: CC BY 4.0
 ---

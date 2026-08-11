@@ -6,7 +6,7 @@ category: boutique-hotels
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-fukuoka-福岡精品酒店-味覺與風土交織的質感棲居-3d7e18.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 8.4
 tags: 福岡, 精品酒店, boutique-hotel, 九州住宿, 博多
 license: CC BY 4.0
 ---

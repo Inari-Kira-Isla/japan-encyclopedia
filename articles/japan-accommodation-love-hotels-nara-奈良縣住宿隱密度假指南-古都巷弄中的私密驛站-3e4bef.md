@@ -6,7 +6,7 @@ category: love-hotels
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-love-hotels-nara-奈良縣住宿隱密度假指南-古都巷弄中的私密驛站-3e4bef.html
 published: 2026-05-25
-quality_score: 6.5
+quality_score: 8.7
 tags: 奈良縣, 戀人旅宿, 古都住宿, 私密空間, 法隆寺
 license: CC BY 4.0
 ---

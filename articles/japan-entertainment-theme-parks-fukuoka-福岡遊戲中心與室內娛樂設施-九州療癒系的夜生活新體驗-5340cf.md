@@ -6,7 +6,7 @@ category: theme-parks
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-theme-parks-fukuoka-福岡遊戲中心與室內娛樂設施-九州療癒系的夜生活新體驗-5340cf.html
 published: 2026-06-07
-quality_score: 6.5
+quality_score: 8.7
 tags: 福岡娛樂, 遊戲中心, 密室逃脫, VR體驗, 九州夜生活
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: kaiseki
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-kaiseki-hokkaido-北海道懷石料理-四季食材與創新傳統的完美融合-7d320c.html
 published: 2026-04-04
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道懷石, 季節料理, 日本海鮮, 溫泉美食, 札幌美食
 license: CC BY 4.0
 ---

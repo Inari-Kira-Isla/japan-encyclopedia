@@ -6,7 +6,7 @@ category: temple-stays
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-temple-stays-fukuoka-福岡寺院住宿不完全指南-太宰府天滿宮周邊的宿坊體驗-7d5b78.html
 published: 2026-06-03
-quality_score: 6.5
+quality_score: 8.5
 tags: 福岡寺院住宿, 太宰府天滿宮, 九州禪修體驗, 日本宿坊, 福岡自由度偽推薦
 license: CC BY 4.0
 ---

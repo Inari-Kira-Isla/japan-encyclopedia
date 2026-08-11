@@ -6,7 +6,7 @@ category: ryokan
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-osaka-大阪商旅型傳統旅館-在關西商都體驗進化版和式住宿-39d34f.html
 published: 2026-04-06
-quality_score: 6.5
+quality_score: 8.9
 tags: 大阪住宿, 商務旅館, 傳統旅館, 溫泉, 關西旅遊
 license: CC BY 4.0
 ---

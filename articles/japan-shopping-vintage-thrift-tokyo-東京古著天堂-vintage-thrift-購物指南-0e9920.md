@@ -6,7 +6,7 @@ category: vintage-thrift
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-vintage-thrift-tokyo-東京古著天堂-vintage-thrift-購物指南-0e9920.html
 published: 2026-03-15
-quality_score: 7.5
+quality_score: 8.8
 tags: 東京購物, 古著文化, 時尚, 二手服飾, 復古風格
 license: CC BY 4.0
 ---

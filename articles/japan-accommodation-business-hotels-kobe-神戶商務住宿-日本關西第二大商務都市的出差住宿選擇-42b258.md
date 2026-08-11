@@ -6,7 +6,7 @@ category: business-hotels
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-business-hotels-kobe-神戶商務住宿-日本關西第二大商務都市的出差住宿選擇-42b258.html
 published: 2026-06-08
-quality_score: 6.5
+quality_score: 8.6
 tags: 神戶商務住宿, 神戶出差, 關西商務飯店, 神戶港都, 商務旅行
 license: CC BY 4.0
 ---

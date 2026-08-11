@@ -6,7 +6,7 @@ category: theme-parks
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-theme-parks-kyoto-京都主題樂園療癒係指南-遠離人潮的慢活體驗王國-e738ae.html
 published: 2026-06-09
-quality_score: 6.5
+quality_score: 8.6
 tags: 京都主题乐园, 疗癒系体验, 茶文化乐园, 森林疗癒, 京都亲子游
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: shinkansen
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-tokyo-東京新娘道樞紐完全指南-從首都出發的日本鐵路網路解密-9f09a5.html
 published: 2026-06-28
-quality_score: 7.5
+quality_score: 8.6
 tags: 東京新娘道, 日本鐵路, 東京交通, 東北新娘道, 北陸新娘道
 license: CC BY 4.0
 ---

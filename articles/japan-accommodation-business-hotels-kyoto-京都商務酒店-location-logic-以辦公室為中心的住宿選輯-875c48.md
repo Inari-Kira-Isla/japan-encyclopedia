@@ -6,7 +6,7 @@ category: business-hotels
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-business-hotels-kyoto-京都商務酒店-location-logic-以辦公室為中心的住宿選輯-875c48.html
 published: 2026-06-23
-quality_score: 6.5
+quality_score: 8.7
 tags: 京都商務酒店, 關西出差住宿, 臨空城商務宿, 數位遊牧族京都, 京都微型公寓
 license: CC BY 4.0
 ---

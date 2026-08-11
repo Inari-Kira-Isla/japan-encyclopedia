@@ -6,7 +6,7 @@ category: nature-trails
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-nagoya-名古屋自然步道四季體驗-從春賞櫻到秋看紅葉的深度登山攻略-4857b7.html
 published: 2026-03-21
-quality_score: 6.5
+quality_score: 8.8
 tags: 名古屋, 自然步道, 登山, 秋季旅遊, 春季賞花
 license: CC BY 4.0
 ---

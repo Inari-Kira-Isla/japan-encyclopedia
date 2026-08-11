@@ -6,7 +6,7 @@ category: cycling
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-hokkaido-北海道冬日單車-雪國騎行的在地生活視角-6f0860.html
 published: 2026-06-06
-quality_score: 7.5
+quality_score: 8.5
 tags: 北海道單車, 冬季騎行, 雪國單車旅遊, 旭川單車, 札幌單車
 license: CC BY 4.0
 ---

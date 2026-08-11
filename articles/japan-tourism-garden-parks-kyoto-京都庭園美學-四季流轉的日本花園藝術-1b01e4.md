@@ -6,7 +6,7 @@ category: garden-parks
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-kyoto-京都庭園美學-四季流轉的日本花園藝術-1b01e4.html
 published: 2026-06-16
-quality_score: 6.5
+quality_score: 8.7
 tags: 京都庭園, 日本花園, 四季散步, 古都美学, 苔寺
 license: CC BY 4.0
 ---

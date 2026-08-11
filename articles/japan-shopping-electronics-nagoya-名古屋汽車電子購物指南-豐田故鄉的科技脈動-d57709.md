@@ -6,7 +6,7 @@ category: electronics
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-electronics-nagoya-名古屋汽車電子購物指南-豐田故鄉的科技脈動-d57709.html
 published: 2026-06-20
-quality_score: 7.5
+quality_score: 8.7
 tags: 名古屋電子產品, 汽車電子, Toyota供應鏈, 名古屋購物, 日本中部電子
 license: CC BY 4.0
 ---

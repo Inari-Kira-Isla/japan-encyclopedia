@@ -6,7 +6,7 @@ category: island-hopping
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-island-hopping-kobe-神戶溫泉跳島深度體驗-瀨戶內海島嶼湯治文化探訪-e3b1bd.html
 published: 2026-04-06
-quality_score: 6.5
+quality_score: 8.6
 tags: 神戶, 溫泉, 瀨戶內海, 跳島旅遊, 湯治文化
 license: CC BY 4.0
 ---

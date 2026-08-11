@@ -6,7 +6,7 @@ category: temple-stays
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-temple-stays-hiroshima-廣島寺廟住宿-從原爆記憶到宮島神域的靜謐之旅-62a011.html
 published: 2026-06-25
-quality_score: 6.5
+quality_score: 8.7
 tags: 廣島寺廟住宿, 宮島住宿, 廣島溫泉, 寺院住宿, 日本禅修體驗
 license: CC BY 4.0
 ---

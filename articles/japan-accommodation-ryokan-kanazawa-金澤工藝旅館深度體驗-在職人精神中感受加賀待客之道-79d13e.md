@@ -6,7 +6,7 @@ category: ryokan
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-kanazawa-金澤工藝旅館深度體驗-在職人精神中感受加賀待客之道-79d13e.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤旅館, 日式工藝, 加賀文化, 職人精神, 九谷燒
 license: CC BY 4.0
 ---

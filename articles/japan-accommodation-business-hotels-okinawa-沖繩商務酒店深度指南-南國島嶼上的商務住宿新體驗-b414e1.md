@@ -6,7 +6,7 @@ category: business-hotels
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-business-hotels-okinawa-沖繩商務酒店深度指南-南國島嶼上的商務住宿新體驗-b414e1.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.5
 tags: 沖繩, 商務酒店, 那霸, 商務旅行, 度假商務
 license: CC BY 4.0
 ---

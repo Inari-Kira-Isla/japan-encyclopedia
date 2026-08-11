@@ -6,7 +6,7 @@ category: jr-pass
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-jr-pass-hiroshima-廣島jr-pass-從廣島燒到山海小鎮的美食與文化漫遊指南-a7e28e.html
 published: 2026-03-24
-quality_score: 7.5
+quality_score: 8.6
 tags: 廣島美食, 日本小鎮, JR Pass, 廣島燒, 牡蠣季
 license: CC BY 4.0
 ---

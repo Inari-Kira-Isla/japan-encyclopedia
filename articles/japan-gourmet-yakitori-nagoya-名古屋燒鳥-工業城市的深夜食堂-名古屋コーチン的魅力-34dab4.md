@@ -6,7 +6,7 @@ category: yakitori
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-yakitori-nagoya-名古屋燒鳥-工業城市的深夜食堂-名古屋コーチン的魅力-34dab4.html
 published: 2026-06-17
-quality_score: 6.5
+quality_score: 8.6
 tags: 名古屋燒鳥, 名古屋コーチン, 中部國際機場, 榮區, 名古屋美食
 license: CC BY 4.0
 ---

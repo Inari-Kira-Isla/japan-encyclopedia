@@ -6,7 +6,7 @@ category: shinkansen
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-osaka-大阪新幹線商務攻略-效率最大化的高速鐵道實戰指南-496410.html
 published: 2026-04-05
-quality_score: 7.5
+quality_score: 8.6
 tags: 大阪新幹線, 商務旅行, 交通攻略, 關西交通, 高速鐵路
 license: CC BY 4.0
 ---

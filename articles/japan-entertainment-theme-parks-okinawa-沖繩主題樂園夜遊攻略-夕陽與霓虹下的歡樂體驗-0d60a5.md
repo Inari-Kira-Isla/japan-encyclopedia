@@ -6,7 +6,7 @@ category: theme-parks
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-theme-parks-okinawa-沖繩主題樂園夜遊攻略-夕陽與霓虹下的歡樂體驗-0d60a5.html
 published: 2026-03-31
-quality_score: 6.5
+quality_score: 8.7
 tags: 沖繩主題樂園, 夜遊推薦, 日本主題樂園, 沖繩自由行, 主題樂園攻略
 license: CC BY 4.0
 ---

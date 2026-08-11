@@ -6,7 +6,7 @@ category: street-food
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-street-food-tokyo-東京月島・佃島の路地裡滋味-深入兩個老江戶下町的街食散步-9a547d.html
 published: 2026-06-27
-quality_score: 6.5
+quality_score: 8.8
 tags: 東京, 街頭美食, 月島, 文字燒, 下町
 license: CC BY 4.0
 ---

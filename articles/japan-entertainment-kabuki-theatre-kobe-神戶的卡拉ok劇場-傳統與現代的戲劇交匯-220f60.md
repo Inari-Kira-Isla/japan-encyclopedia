@@ -6,7 +6,7 @@ category: kabuki-theatre
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-kabuki-theatre-kobe-神戶的卡拉ok劇場-傳統與現代的戲劇交匯-220f60.html
 published: 2026-05-31
-quality_score: 6.5
+quality_score: 8.7
 tags: 神戶, 卡拉OK劇場, 表演藝術, 日本傳統藝能, 關西旅遊
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: historical-districts
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-nagoya-名古屋歷史街區巡禮-走進尾張德川的時光隧道-08c232.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 8.6
 tags: 名古屋歷史街區, 尾張德川, 四間道, 大須觀音, 熱田神宮
 license: CC BY 4.0
 ---

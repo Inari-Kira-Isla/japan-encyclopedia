@@ -6,7 +6,7 @@ category: 100-yen-shops
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-100-yen-shops-osaka-大阪百元商店晨間攻略-開店前一小時的隱藏版購物秘笈-0761a4.html
 published: 2026-06-29
-quality_score: 7.5
+quality_score: 8.6
 tags: 大阪購物, 百元商店, 日本伴手禮, 晨間購物, 關西限定
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: ski-resorts
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-ski-resorts-tokyo-東京出發滑雪交通攻略-從首都圈直達雪場の實用指南-8ef821.html
 published: 2026-05-21
-quality_score: 6.5
+quality_score: 8.6
 tags: 東京滑雪, 東京周邊滑雪場, 日本滑雪攻略, 東京出發滑雪, 日光滑雪場
 license: CC BY 4.0
 ---

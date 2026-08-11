@@ -6,7 +6,7 @@ category: business-hotels
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-business-hotels-sendai-仙台商務酒店完全指南-早晨商務文化與在地美食的完美結合-b0fc4f.html
 published: 2026-06-04
-quality_score: 6.5
+quality_score: 8.7
 tags: 仙台, 商務酒店, 東北商旅, 日本商務住宿, 仙台早晨商務
 license: CC BY 4.0
 ---

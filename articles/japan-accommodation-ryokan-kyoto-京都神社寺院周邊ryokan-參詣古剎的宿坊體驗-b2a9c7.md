@@ -6,7 +6,7 @@ category: ryokan
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-kyoto-京都神社寺院周邊ryokan-參詣古剎的宿坊體驗-b2a9c7.html
 published: 2026-06-16
-quality_score: 6.5
+quality_score: 8.5
 tags: 京都Ryokan, 宿坊體驗, 祇園住宿, 銀閣寺周邊, 伏見稻荷
 license: CC BY 4.0
 ---

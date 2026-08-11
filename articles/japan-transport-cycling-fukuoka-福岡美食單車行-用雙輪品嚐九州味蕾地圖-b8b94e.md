@@ -6,7 +6,7 @@ category: cycling
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-fukuoka-福岡美食單車行-用雙輪品嚐九州味蕾地圖-b8b94e.html
 published: 2026-04-04
-quality_score: 7.5
+quality_score: 8.7
 tags: 福岡美食, 單車旅遊, 屋台文化, 九州料理, 夜間騎行
 license: CC BY 4.0
 ---

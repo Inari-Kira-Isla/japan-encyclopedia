@@ -6,7 +6,7 @@ category: theme-parks
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-theme-parks-hiroshima-廣島主題樂園廣角鏡-從和平紀唸到創意娛樂的多元體驗-e0c1c3.html
 published: 2026-04-07
-quality_score: 6.5
+quality_score: 8.6
 tags: 廣島主題樂園, 廣島娛樂, 廣島夜生活, 廣島旅遊, 瀨戶內海
 license: CC BY 4.0
 ---

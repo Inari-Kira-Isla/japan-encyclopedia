@@ -6,7 +6,7 @@ category: street-food
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-street-food-tokyo-東京上班族的味覺秘密-軌道沿線的清晨與深夜食堂-b348c2.html
 published: 2026-07-02
-quality_score: 6.5
+quality_score: 8.6
 tags: 東京, 街頭美食, 通勤美食, 下町, 清晨市場
 license: CC BY 4.0
 ---

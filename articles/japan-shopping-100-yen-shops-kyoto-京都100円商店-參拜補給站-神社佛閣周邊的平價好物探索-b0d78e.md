@@ -6,7 +6,7 @@ category: 100-yen-shops
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-100-yen-shops-kyoto-京都100円商店-參拜補給站-神社佛閣周邊的平價好物探索-b0d78e.html
 published: 2026-06-30
-quality_score: 7.5
+quality_score: 8.7
 tags: 京都100円商店, 京都參拜用品, 京都平價購物, 伏見稻荷大社, 京都自助
 license: CC BY 4.0
 ---

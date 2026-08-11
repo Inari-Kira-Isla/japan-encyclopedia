@@ -6,7 +6,7 @@ category: department-stores
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-department-stores-kyoto-京都駅・河原町筋で出會う名店百貨-古都の時間を感じる逛街購-物-bb43d1.html
 published: 2026-06-19
-quality_score: 7.5
+quality_score: 8.9
 tags: 京都購物, 京都車站, 河原町, 日本百货, 京都伴手禮
 license: CC BY 4.0
 ---

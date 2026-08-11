@@ -6,7 +6,7 @@ category: okonomiyaki
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-okonomiyaki-nagoya-名古屋御好燒-巷弄裡的日常味-f3f07d.html
 published: 2026-05-24
-quality_score: 6.5
+quality_score: 8.9
 tags: 名古屋美食, 御好燒, 關西廣島混合風, 昭和風酒場, 名古屋道地美食
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: ryokan
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-hokkaido-北海道日式傳統旅館完全指南-雪國溫泉的極致療愈-9a05f8.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道, 溫泉, Ryokan, 日式傳統旅館, 雪國溫泉
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: onsen
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-onsen-tokyo-東京錢湯手冊-都會巷弄裡的百年澡堂文化與周邊一日溫泉-21b981.html
 published: 2026-05-21
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京溫泉, 東京錢湯, 東京泡湯, 都內溫泉, 東京一日遊
 license: CC BY 4.0
 ---

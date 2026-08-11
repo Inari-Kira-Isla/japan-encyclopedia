@@ -6,7 +6,7 @@ category: nightlife
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-tokyo-東京夜生活-下町深夜食堂與隱藏版酒館的在地體驗-cbc4aa.html
 published: 2026-07-02
-quality_score: 6.5
+quality_score: 8.8
 tags: 東京夜生活, 下町, 深夜食堂, 在地體驗, 日本文化
 license: CC BY 4.0
 ---

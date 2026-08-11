@@ -6,7 +6,7 @@ category: day-trips
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-sendai-仙台療癒系一日遊-重建之路上的溫暖人情與在地美食-98597e.html
 published: 2026-07-02
-quality_score: 6.5
+quality_score: 8.9
 tags: 仙台一日遊, 東北溫泉, 仙台美食, 日本深度遊, 療癒之旅
 license: CC BY 4.0
 ---

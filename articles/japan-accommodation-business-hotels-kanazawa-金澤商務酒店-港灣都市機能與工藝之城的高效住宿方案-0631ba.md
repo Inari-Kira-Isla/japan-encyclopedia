@@ -6,7 +6,7 @@ category: business-hotels
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-business-hotels-kanazawa-金澤商務酒店-港灣都市機能與工藝之城的高效住宿方案-0631ba.html
 published: 2026-06-28
-quality_score: 6.5
+quality_score: 8.6
 tags: 金澤商務酒店, 石川縣住宿, 北陸出差, 商務旅行, 日本商務酒店
 license: CC BY 4.0
 ---

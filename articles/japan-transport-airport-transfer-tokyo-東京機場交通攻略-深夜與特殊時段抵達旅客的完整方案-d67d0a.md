@@ -6,7 +6,7 @@ category: airport-transfer
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-airport-transfer-tokyo-東京機場交通攻略-深夜與特殊時段抵達旅客的完整方案-d67d0a.html
 published: 2026-06-27
-quality_score: 7.5
+quality_score: 8.5
 tags: 東京機場交通, 深夜航班, 廉價航空, 成天機場, 關西機場
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: metro-systems
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-kobe-神戶地下鐵的港都深度遊-從山海鐵道看見日本近代化的起點-1d5464.html
 published: 2026-07-06
-quality_score: 7.5
+quality_score: 8.8
 tags: 神戶地下鐵, 神戶交通, 港都之旅, 關西自由行, 神戶美食
 license: CC BY 4.0
 ---

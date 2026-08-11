@@ -6,7 +6,7 @@ category: souvenir-omiyage
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-souvenir-omiyage-kyoto-京都伴手ierto完全指南-在地人帶路的質感伴手禮地圖-04542b.html
 published: 2026-05-24
-quality_score: 7.5
+quality_score: 8.6
 tags: 京都旅遊, 伴手禮推薦, 日本購物, 京都在地名產, 京都自由行
 license: CC BY 4.0
 ---

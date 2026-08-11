@@ -6,7 +6,7 @@ category: souvenir-omiyage
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-souvenir-omiyage-osaka-大阪平價伴手禮購買指南-500日圓以下的實用選擇-dec4f2.html
 published: 2026-06-01
-quality_score: 7.5
+quality_score: 8.7
 tags: 大阪, 伴手禮, 百圓商店, 平價, 省錢
 license: CC BY 4.0
 ---

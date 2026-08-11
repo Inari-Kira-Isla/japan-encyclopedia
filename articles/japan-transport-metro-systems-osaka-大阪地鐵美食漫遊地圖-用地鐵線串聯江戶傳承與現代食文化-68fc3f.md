@@ -6,7 +6,7 @@ category: metro-systems
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-osaka-大阪地鐵美食漫遊地圖-用地鐵線串聯江戶傳承與現代食文化-68fc3f.html
 published: 2026-03-22
-quality_score: 7.5
+quality_score: 8.6
 tags: 大阪地鐵, 美食文化, 交通導覽, 傳統工藝, 日本飲食
 license: CC BY 4.0
 ---

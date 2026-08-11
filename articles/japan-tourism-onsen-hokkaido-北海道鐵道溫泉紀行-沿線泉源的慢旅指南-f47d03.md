@@ -6,7 +6,7 @@ category: onsen
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-onsen-hokkaido-北海道鐵道溫泉紀行-沿線泉源的慢旅指南-f47d03.html
 published: 2026-07-05
-quality_score: 6.5
+quality_score: 8.6
 tags: 北海道溫泉, 鐵道旅行, JR北海道, 登別溫泉, 洞爺湖溫泉
 license: CC BY 4.0
 ---

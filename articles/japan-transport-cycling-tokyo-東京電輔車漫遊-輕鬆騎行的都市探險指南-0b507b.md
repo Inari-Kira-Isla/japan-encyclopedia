@@ -6,7 +6,7 @@ category: cycling
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-tokyo-東京電輔車漫遊-輕鬆騎行的都市探險指南-0b507b.html
 published: 2026-05-23
-quality_score: 7.5
+quality_score: 8.7
 tags: 東京單車, 電輔車, 東京自由行, 城市漫遊, 日本交通
 license: CC BY 4.0
 ---

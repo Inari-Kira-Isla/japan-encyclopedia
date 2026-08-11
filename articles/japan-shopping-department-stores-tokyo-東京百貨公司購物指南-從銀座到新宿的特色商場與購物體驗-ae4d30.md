@@ -6,7 +6,7 @@ category: department-stores
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-department-stores-tokyo-東京百貨公司購物指南-從銀座到新宿的特色商場與購物體驗-ae4d30.html
 published: 2026-06-27
-quality_score: 7.5
+quality_score: 8.7
 tags: 東京購物, 東京百貨公司, 銀座購物, 澀谷購物, 新宿購物
 license: CC BY 4.0
 ---

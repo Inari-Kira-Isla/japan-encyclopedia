@@ -6,7 +6,7 @@ category: karaoke
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-karaoke-kyoto-京都卡拉ok-學生街的青春歌聲與創意交融-0ca082.html
 published: 2026-04-01
-quality_score: 6.5
+quality_score: 8.7
 tags: 京都娛樂, 學生文化, 國際交流, 傳統與現代, 青春體驗
 license: CC BY 4.0
 ---

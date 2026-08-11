@@ -6,7 +6,7 @@ category: festivals-matsuri
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-festivals-matsuri-fukuoka-福岡冬季祭典-溫泉與燈飾的浪漫冬夜慶典-a92a64.html
 published: 2026-06-07
-quality_score: 6.5
+quality_score: 8.7
 tags: 福岡祭典, 冬季旅遊, 溫泉體驗, 燈飾祭, 九州自由行
 license: CC BY 4.0
 ---

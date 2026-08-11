@@ -6,7 +6,7 @@ category: karaoke
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-karaoke-hiroshima-廣島卡拉ok-和平都市的音樂療癒密碼-f86bf7.html
 published: 2026-07-02
-quality_score: 6.5
+quality_score: 8.8
 tags: 廣島卡拉OK, 廣島夜生活, 廣島娛樂, 日本卡拉OK, 廣島旅遊
 license: CC BY 4.0
 ---

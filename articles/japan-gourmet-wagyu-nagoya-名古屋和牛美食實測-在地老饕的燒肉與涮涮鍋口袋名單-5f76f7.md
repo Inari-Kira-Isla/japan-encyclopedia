@@ -6,7 +6,7 @@ category: wagyu
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-wagyu-nagoya-名古屋和牛美食實測-在地老饕的燒肉與涮涮鍋口袋名單-5f76f7.html
 published: 2026-06-05
-quality_score: 6.5
+quality_score: 8.6
 tags: 名古屋美食, 和牛燒肉, 名古屋餐廳推薦, 中部地方和牛, 在地美食
 license: CC BY 4.0
 ---

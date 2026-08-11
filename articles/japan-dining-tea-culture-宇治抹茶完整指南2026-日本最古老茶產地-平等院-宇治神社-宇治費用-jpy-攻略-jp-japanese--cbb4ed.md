@@ -6,7 +6,7 @@ category: tea-culture
 area: japan
 url: https://japan-encyclopedia.vercel.app/articles/japan-dining-tea-culture-宇治抹茶完整指南2026-日本最古老茶產地-平等院-宇治神社-宇治費用-jpy-攻略-jp-japanese--cbb4ed.html
 published: 2026-03-31
-quality_score: 6.1
+quality_score: 8.6
 tags: 宇治抹茶, 平等院鳳凰堂, 宇治旅遊, 日本抹茶文化, 京都近郊
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: onsen
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-onsen-osaka-大阪溫泉文化指南-都會中的療癒體驗-48a23b.html
 published: 2026-03-20
-quality_score: 6.5
+quality_score: 8.6
 tags: 大阪, 溫泉, 澡堂文化, 日本旅遊, SPA
 license: CC BY 4.0
 ---

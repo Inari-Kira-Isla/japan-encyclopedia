@@ -6,7 +6,7 @@ category: 100-yen-shops
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-100-yen-shops-hokkaido-北海道100円商店完全攻略-家庭親子與戶外運動族的平價購物天堂-4124d4.html
 published: 2026-03-31
-quality_score: 7.5
+quality_score: 8.7
 tags: 北海道, 100円商店, 家庭親子, 戶外運動, 平價購物
 license: CC BY 4.0
 ---

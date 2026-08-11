@@ -6,7 +6,7 @@ category: nightlife
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-fukuoka-福岡夜生活-年輕九州的活力夜間探索-81fdb3.html
 published: 2026-03-28
-quality_score: 6.5
+quality_score: 8.8
 tags: 福岡夜生活, 九州娛樂, 年輕文化, 遊戲中心, 夜市美食
 license: CC BY 4.0
 ---

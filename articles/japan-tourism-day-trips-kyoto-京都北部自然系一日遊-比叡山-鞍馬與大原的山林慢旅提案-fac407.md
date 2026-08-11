@@ -6,7 +6,7 @@ category: day-trips
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-kyoto-京都北部自然系一日遊-比叡山-鞍馬與大原的山林慢旅提案-fac407.html
 published: 2026-06-20
-quality_score: 6.5
+quality_score: 8.8
 tags: 京都一日遊, 比叡山, 鞍馬山, 大原, 叡山電鐵
 license: CC BY 4.0
 ---

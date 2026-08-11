@@ -6,7 +6,7 @@ category: ferries
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-ferries-fukuoka-福岡渡輪美食航線-搭船去吃現撈海鮮的移動美食攻略-26f8c5.html
 published: 2026-06-18
-quality_score: 7.5
+quality_score: 8.6
 tags: 福岡交通, 九州美食, 渡輪體驗, 海鮮料理, 日本海
 license: CC BY 4.0
 ---

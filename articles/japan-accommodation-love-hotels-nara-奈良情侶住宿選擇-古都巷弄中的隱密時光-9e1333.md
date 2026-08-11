@@ -6,7 +6,7 @@ category: love-hotels
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-love-hotels-nara-奈良情侶住宿選擇-古都巷弄中的隱密時光-9e1333.html
 published: 2026-07-02
-quality_score: 6.5
+quality_score: 8.5
 tags: 奈良住宿, 情侶旅馆, 古都之旅, 奈良公園, 隱密住宿
 license: CC BY 4.0
 ---

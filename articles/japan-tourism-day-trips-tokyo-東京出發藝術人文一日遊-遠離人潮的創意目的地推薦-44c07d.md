@@ -6,7 +6,7 @@ category: day-trips
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-tokyo-東京出發藝術人文一日遊-遠離人潮的創意目的地推薦-44c07d.html
 published: 2026-06-14
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京一日遊, 藝術之旅, 人文體驗, 關東近郊, 川越小江戶
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: cycling
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-kobe-神戶單車美食輕旅-騎行發現港都的隱藏味蕾-eb2798.html
 published: 2026-06-13
-quality_score: 7.5
+quality_score: 8.5
 tags: 神戶單車, 神戶美食, 神戶旅遊, 關西單車, 神戶自由行
 license: CC BY 4.0
 ---

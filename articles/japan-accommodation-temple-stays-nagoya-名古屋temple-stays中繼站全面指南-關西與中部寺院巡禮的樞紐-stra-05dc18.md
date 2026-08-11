@@ -6,7 +6,7 @@ category: temple-stays
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-temple-stays-nagoya-名古屋temple-stays中繼站全面指南-關西與中部寺院巡禮的樞紐-stra-05dc18.html
 published: 2026-06-03
-quality_score: 6.5
+quality_score: 8.5
 tags: 名古屋寺廟住宿, temple stay中繼站, 日本寺院巡禮, 關西中部寺院, 比叡山宿坊
 license: CC BY 4.0
 ---

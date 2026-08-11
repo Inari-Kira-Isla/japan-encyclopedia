@@ -6,7 +6,7 @@ category: love-hotels
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-love-hotels-kyoto-京都和服約會一日遊後的隱秘歸宿-祇園-河原町地區love-hotels完全指南-322c07.html
 published: 2026-06-04
-quality_score: 6.5
+quality_score: 8.9
 tags: 京都住宿, 祇园, 河原町, 和服约会, 情侣住宿
 license: CC BY 4.0
 ---

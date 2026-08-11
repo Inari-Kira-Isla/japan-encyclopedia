@@ -6,7 +6,7 @@ category: department-stores
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-department-stores-okinawa-沖繩百貨店智慧銀髮購物革命-當南國遇見適老化零售創新-deed95.html
 published: 2026-04-05
-quality_score: 7.5
+quality_score: 8.9
 tags: 沖繩購物, 銀髮友善, 適老化設計, 智慧零售, 百貨公司
 license: CC BY 4.0
 ---

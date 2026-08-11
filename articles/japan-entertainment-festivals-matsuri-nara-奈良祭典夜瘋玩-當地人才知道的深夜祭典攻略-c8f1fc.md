@@ -6,7 +6,7 @@ category: festivals-matsuri
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-festivals-matsuri-nara-奈良祭典夜瘋玩-當地人才知道的深夜祭典攻略-c8f1fc.html
 published: 2026-06-03
-quality_score: 6.5
+quality_score: 8.7
 tags: 奈良祭典, 日本祭典, 關西祭典, 夜間活動, 日本旅遊
 license: CC BY 4.0
 ---

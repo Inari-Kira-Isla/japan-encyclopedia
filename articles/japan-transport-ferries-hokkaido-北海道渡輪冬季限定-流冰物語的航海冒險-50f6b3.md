@@ -6,7 +6,7 @@ category: ferries
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-ferries-hokkaido-北海道渡輪冬季限定-流冰物語的航海冒險-50f6b3.html
 published: 2026-06-08
-quality_score: 7.5
+quality_score: 8.9
 tags: 北海道, 渡輪, 流冰, 冬季限定, 網走
 license: CC BY 4.0
 ---

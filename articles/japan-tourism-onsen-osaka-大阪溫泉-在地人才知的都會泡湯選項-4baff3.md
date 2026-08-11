@@ -6,7 +6,7 @@ category: onsen
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-onsen-osaka-大阪溫泉-在地人才知的都會泡湯選項-4baff3.html
 published: 2026-06-22
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪溫泉, 錢湯, 有馬溫泉, 關西溫泉, 大阪旅遊
 license: CC BY 4.0
 ---

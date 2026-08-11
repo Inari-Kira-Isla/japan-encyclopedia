@@ -6,7 +6,7 @@ category: anime-manga
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-kanazawa-金澤動漫文化的平成逆襲-從加賀傳統走向御宅系的微型革命-16edd8.html
 published: 2026-06-24
-quality_score: 6.5
+quality_score: 8.5
 tags: 金澤動漫, 金澤御宅, 石川縣動漫, 金澤小店, 日本動漫聖地
 license: CC BY 4.0
 ---

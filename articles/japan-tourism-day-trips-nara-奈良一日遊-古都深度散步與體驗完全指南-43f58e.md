@@ -6,7 +6,7 @@ category: day-trips
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-nara-奈良一日遊-古都深度散步與體驗完全指南-43f58e.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 8.7
 tags: 奈良一日遊, 關西自由行, 日本古都, 奈良公園, 法隆寺
 license: CC BY 4.0
 ---

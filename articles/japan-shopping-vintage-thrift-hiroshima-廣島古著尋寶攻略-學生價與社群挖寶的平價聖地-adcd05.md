@@ -6,7 +6,7 @@ category: vintage-thrift
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-vintage-thrift-hiroshima-廣島古著尋寶攻略-學生價與社群挖寶的平價聖地-adcd05.html
 published: 2026-05-22
-quality_score: 7.5
+quality_score: 8.7
 tags: 廣島古著, 広島 thrift, 古著購物, 日本二手店, budget shopping
 license: CC BY 4.0
 ---

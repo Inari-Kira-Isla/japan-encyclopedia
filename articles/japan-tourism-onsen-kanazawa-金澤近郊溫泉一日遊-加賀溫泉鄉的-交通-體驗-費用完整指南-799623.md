@@ -6,7 +6,7 @@ category: onsen
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-onsen-kanazawa-金澤近郊溫泉一日遊-加賀溫泉鄉的-交通-體驗-費用完整指南-799623.html
 published: 2026-06-14
-quality_score: 6.5
+quality_score: 8.6
 tags: 金澤溫泉, 加賀溫泉鄉, 石川縣溫泉, 山代溫泉, 片山津溫泉
 license: CC BY 4.0
 ---

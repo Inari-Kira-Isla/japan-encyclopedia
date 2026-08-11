@@ -6,7 +6,7 @@ category: depachika
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-depachika-hiroshima-廣島depachika的工程師味覺-地下鐵沿線的上班族的午餐廚房-1b1b27.html
 published: 2026-06-19
-quality_score: 6.5
+quality_score: 8.3
 tags: 廣島, depachika, 地下街, 瀨戶內海, 上班族的午餐
 license: CC BY 4.0
 ---

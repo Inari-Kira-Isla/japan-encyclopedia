@@ -6,7 +6,7 @@ category: buses
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-buses-osaka-大阪機場巴士全攻略-關西國際機場到市區的實用選擇-3a96ad.html
 published: 2026-06-27
-quality_score: 7.5
+quality_score: 8.5
 tags: 大阪巴士, 關西國際機場, 機場交通, 高速巴士, 大阪交通
 license: CC BY 4.0
 ---

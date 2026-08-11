@@ -6,7 +6,7 @@ category: capsule-hotels
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-capsule-hotels-nara-奈良膠囊旅館的朝聖之路-古都參拜住宿的心靈歇腳處-f0bab8.html
 published: 2026-05-25
-quality_score: 6.5
+quality_score: 8.7
 tags: 奈良胶囊旅馆, 奈良住宿, 古都住宿, 奈良旅游, 朝圣之旅
 license: CC BY 4.0
 ---

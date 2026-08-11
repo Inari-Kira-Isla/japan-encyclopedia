@@ -6,7 +6,7 @@ category: jr-pass
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-jr-pass-tokyo-東京jr-pass美食漫遊-用鐵路券遊走五大味蕾聖地-8008c2.html
 published: 2026-03-24
-quality_score: 7.5
+quality_score: 8.7
 tags: 東京美食, JR Pass, 日本交通, 美食旅遊, 拉麵
 license: CC BY 4.0
 ---

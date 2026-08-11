@@ -6,7 +6,7 @@ category: capsule-hotels
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-capsule-hotels-okinawa-沖繩膠囊旅館-亞熱帶度假小島的獨特住宿美學-acae01.html
 published: 2026-05-23
-quality_score: 5.5
+quality_score: 8.0
 tags: 沖繩, 膠囊旅館, 南國住宿, 亞熱帶, 那霸
 license: CC BY 4.0
 ---

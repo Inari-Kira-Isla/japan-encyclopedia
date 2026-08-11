@@ -6,7 +6,7 @@ category: gaming-arcades
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-gaming-arcades-nagoya-名古屋節奏遊戲聖地-音速小子與街機的熱血戰場-925133.html
 published: 2026-06-06
-quality_score: 6.5
+quality_score: 8.7
 tags: 名古屋遊戲中心, 節奏遊戲, 街機文化, 日本中部娛樂, DDR
 license: CC BY 4.0
 ---

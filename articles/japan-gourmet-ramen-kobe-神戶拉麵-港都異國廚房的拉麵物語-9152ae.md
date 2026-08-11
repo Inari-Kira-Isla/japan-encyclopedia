@@ -6,7 +6,7 @@ category: ramen
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-ramen-kobe-神戶拉麵-港都異國廚房的拉麵物語-9152ae.html
 published: 2026-06-13
-quality_score: 6.5
+quality_score: 8.3
 tags: 神戶拉麵, 關西拉麵, 港都拉麵, 神戶美食, 神戶旅遊
 license: CC BY 4.0
 ---

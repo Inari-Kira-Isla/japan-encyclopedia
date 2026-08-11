@@ -6,7 +6,7 @@ category: nature-trails
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-tokyo-東京自然步道探索-在國際都會中尋找綠色秘境-0c3c6c.html
 published: 2026-03-15
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京旅遊, 自然步道, 戶外活動, 健行登山, 都市綠地
 license: CC BY 4.0
 ---

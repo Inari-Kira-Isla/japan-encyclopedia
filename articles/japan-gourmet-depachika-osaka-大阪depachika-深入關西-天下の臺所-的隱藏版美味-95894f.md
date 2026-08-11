@@ -6,7 +6,7 @@ category: depachika
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-depachika-osaka-大阪depachika-深入關西-天下の臺所-的隱藏版美味-95894f.html
 published: 2026-06-23
-quality_score: 6.5
+quality_score: 8.9
 tags: 大阪Depachika, 關西美食, 大阪伴手禮, 大阪燒, 章魚燒
 license: CC BY 4.0
 ---

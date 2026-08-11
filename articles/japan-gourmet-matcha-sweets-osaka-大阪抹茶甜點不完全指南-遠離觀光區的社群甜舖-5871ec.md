@@ -6,7 +6,7 @@ category: matcha-sweets
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-matcha-sweets-osaka-大阪抹茶甜點不完全指南-遠離觀光區的社群甜舖-5871ec.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪抹茶甜點, 大阪甘味處, 社區老舖, 大阪茶行, 平價美食
 license: CC BY 4.0
 ---

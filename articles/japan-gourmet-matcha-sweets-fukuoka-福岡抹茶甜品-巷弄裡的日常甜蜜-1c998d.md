@@ -6,7 +6,7 @@ category: matcha-sweets
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-matcha-sweets-fukuoka-福岡抹茶甜品-巷弄裡的日常甜蜜-1c998d.html
 published: 2026-05-22
-quality_score: 6.5
+quality_score: 8.7
 tags: 福岡抹茶, 八女茶, 藥院, 抹茶善哉, 春吉
 license: CC BY 4.0
 ---

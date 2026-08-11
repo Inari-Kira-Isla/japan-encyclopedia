@@ -6,7 +6,7 @@ category: sumo
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-okinawa-沖繩相撲-南國祭典中的力與美-8530bd.html
 published: 2026-06-26
-quality_score: 6.5
+quality_score: 8.6
 tags: 沖繩相扑, 琉球文化, 南國祭典, 相扑體驗, 沖繩傳統
 license: CC BY 4.0
 ---

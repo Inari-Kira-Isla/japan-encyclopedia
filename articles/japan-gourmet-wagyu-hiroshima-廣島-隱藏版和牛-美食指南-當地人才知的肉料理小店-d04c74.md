@@ -6,7 +6,7 @@ category: wagyu
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-wagyu-hiroshima-廣島-隱藏版和牛-美食指南-當地人才知的肉料理小店-d04c74.html
 published: 2026-06-17
-quality_score: 6.5
+quality_score: 8.8
 tags: 廣島美食, 日本和牛, 廣島自由行, 隱藏版美食, 中國地方
 license: CC BY 4.0
 ---

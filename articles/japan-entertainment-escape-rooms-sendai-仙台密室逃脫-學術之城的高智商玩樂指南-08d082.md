@@ -6,7 +6,7 @@ category: escape-rooms
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-escape-rooms-sendai-仙台密室逃脫-學術之城的高智商玩樂指南-08d082.html
 published: 2026-05-31
-quality_score: 6.5
+quality_score: 8.9
 tags: 仙台, 密室逃脫, 東北旅遊, 團體活動, 室內景點
 license: CC BY 4.0
 ---

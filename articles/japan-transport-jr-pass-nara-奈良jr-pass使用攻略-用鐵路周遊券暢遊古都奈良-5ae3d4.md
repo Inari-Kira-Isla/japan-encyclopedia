@@ -6,7 +6,7 @@ category: jr-pass
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-jr-pass-nara-奈良jr-pass使用攻略-用鐵路周遊券暢遊古都奈良-5ae3d4.html
 published: 2026-04-02
-quality_score: 7.5
+quality_score: 8.7
 tags: 奈良, JR Pass, 關西旅遊, 世界遺產, 東大寺
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: day-trips
 area: japan
 url: https://japan-encyclopedia.vercel.app/articles/japan-attractions-day-trips-橫濱中華街和未來港完整指南2026-全球最大中華街-摩天輪-橫濱旅遊費用-jpy-攻略-jp-yokoh-402d44.html
 published: 2026-05-01
-quality_score: 7.1
+quality_score: 8.6
 tags: 橫濱中華街, 未來港橫濱, 橫濱景點, 横濱旅遊, 東京近郊旅遊
 license: CC BY 4.0
 ---

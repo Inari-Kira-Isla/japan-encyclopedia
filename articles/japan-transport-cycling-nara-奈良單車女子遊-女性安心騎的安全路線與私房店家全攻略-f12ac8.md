@@ -6,7 +6,7 @@ category: cycling
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-nara-奈良單車女子遊-女性安心騎的安全路線與私房店家全攻略-f12ac8.html
 published: 2026-05-24
-quality_score: 7.5
+quality_score: 8.7
 tags: 奈良單車, 女性安心騎, 大阪京都近郊, 古都慢遊, 自行車租借
 license: CC BY 4.0
 ---

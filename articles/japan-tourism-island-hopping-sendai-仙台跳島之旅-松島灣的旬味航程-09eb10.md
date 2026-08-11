@@ -6,7 +6,7 @@ category: island-hopping
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-island-hopping-sendai-仙台跳島之旅-松島灣的旬味航程-09eb10.html
 published: 2026-05-31
-quality_score: 6.5
+quality_score: 8.7
 tags: 仙台跳島, 松島灣, 日本三景, 牡蠣小屋, 田代島貓島
 license: CC BY 4.0
 ---

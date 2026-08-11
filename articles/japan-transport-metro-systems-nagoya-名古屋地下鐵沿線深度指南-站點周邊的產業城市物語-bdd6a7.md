@@ -6,7 +6,7 @@ category: metro-systems
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-nagoya-名古屋地下鐵沿線深度指南-站點周邊的產業城市物語-bdd6a7.html
 published: 2026-06-30
-quality_score: 7.5
+quality_score: 8.7
 tags: 名古屋地下鐵, 名古屋交通, 日本中部旅行, 產業城市探索, 2025大阪世博
 license: CC BY 4.0
 ---

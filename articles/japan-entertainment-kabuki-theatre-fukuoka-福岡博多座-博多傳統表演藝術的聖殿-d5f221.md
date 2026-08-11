@@ -6,7 +6,7 @@ category: kabuki-theatre
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-kabuki-theatre-fukuoka-福岡博多座-博多傳統表演藝術的聖殿-d5f221.html
 published: 2026-03-18
-quality_score: 6.5
+quality_score: 8.7
 tags: 福岡, 博多座, 博多人形劇, 博多芝居, 九州傳統藝術
 license: CC BY 4.0
 ---

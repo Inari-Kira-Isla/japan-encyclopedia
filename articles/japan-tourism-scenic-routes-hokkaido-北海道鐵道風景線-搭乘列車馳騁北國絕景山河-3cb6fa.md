@@ -6,7 +6,7 @@ category: scenic-routes
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-hokkaido-北海道鐵道風景線-搭乘列車馳騁北國絕景山河-3cb6fa.html
 published: 2026-06-22
-quality_score: 6.5
+quality_score: 8.5
 tags: 北海道, 鐵道旅遊, 風景道路, 日本鐵道, 北國風光
 license: CC BY 4.0
 ---

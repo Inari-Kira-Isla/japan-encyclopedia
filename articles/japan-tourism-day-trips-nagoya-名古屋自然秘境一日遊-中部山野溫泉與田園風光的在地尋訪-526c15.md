@@ -6,7 +6,7 @@ category: day-trips
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-nagoya-名古屋自然秘境一日遊-中部山野溫泉與田園風光的在地尋訪-526c15.html
 published: 2026-06-19
-quality_score: 6.5
+quality_score: 8.6
 tags: 名古屋一日遊, 下呂溫泉, 奧飛驒溫泉, 自然秘境, 溫泉旅遊
 license: CC BY 4.0
 ---

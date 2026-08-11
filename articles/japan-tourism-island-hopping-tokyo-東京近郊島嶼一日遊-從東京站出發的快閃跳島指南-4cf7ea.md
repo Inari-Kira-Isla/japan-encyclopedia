@@ -6,7 +6,7 @@ category: island-hopping
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-island-hopping-tokyo-東京近郊島嶼一日遊-從東京站出發的快閃跳島指南-4cf7ea.html
 published: 2026-06-20
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京跳島, 初島, 台場, 三宅島, 東京灣
 license: CC BY 4.0
 ---

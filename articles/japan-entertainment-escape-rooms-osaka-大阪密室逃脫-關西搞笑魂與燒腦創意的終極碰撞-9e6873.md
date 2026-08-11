@@ -6,7 +6,7 @@ category: escape-rooms
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-escape-rooms-osaka-大阪密室逃脫-關西搞笑魂與燒腦創意的終極碰撞-9e6873.html
 published: 2026-06-02
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪密室逃脫, 大阪室內活動, 關西娛樂, 心齋橋體驗, 梅田景點
 license: CC BY 4.0
 ---

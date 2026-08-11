@@ -6,7 +6,7 @@ category: gaming-arcades
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-gaming-arcades-nara-奈良遊戲中心-古都悠閒節奏下的街機樂趣-13f538.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 奈良, 遊戲中心, 街機, 娛樂, 古都
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: kaiseki
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-kaiseki-hiroshima-廣島懷石料理-海港城市的暖心滋味-3824d9.html
 published: 2026-05-23
-quality_score: 6.5
+quality_score: 8.8
 tags: 廣島美食, 懷石料理, 瀨戶內海, 日本料理, 廣島牡蠣
 license: CC BY 4.0
 ---

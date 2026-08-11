@@ -6,7 +6,7 @@ category: tonkatsu
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tonkatsu-nagoya-名古屋豚鰹-工業城市的味噌革新-6699c2.html
 published: 2026-06-30
-quality_score: 6.5
+quality_score: 8.8
 tags: 名古屋美食, 豚鰹, 味噌醬汁, 日式洋食, 名古屋推薦
 license: CC BY 4.0
 ---

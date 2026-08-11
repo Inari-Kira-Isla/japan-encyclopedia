@@ -6,7 +6,7 @@ category: buses
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-buses-kyoto-京都夜巴士完全指南-下班後的古都夜遊交通術-d7c5a6.html
 published: 2026-06-18
-quality_score: 7.5
+quality_score: 8.5
 tags: 京都巴士, 京都夜景, 京都交通, 古都夜遊, 京都市巴士
 license: CC BY 4.0
 ---

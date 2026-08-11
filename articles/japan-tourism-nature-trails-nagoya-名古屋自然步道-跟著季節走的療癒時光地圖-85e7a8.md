@@ -6,7 +6,7 @@ category: nature-trails
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-nagoya-名古屋自然步道-跟著季節走的療癒時光地圖-85e7a8.html
 published: 2026-06-05
-quality_score: 6.5
+quality_score: 8.6
 tags: 名古屋步道, 四季旅遊, 中部自然, 櫻花步道, 楓葉景點
 license: CC BY 4.0
 ---

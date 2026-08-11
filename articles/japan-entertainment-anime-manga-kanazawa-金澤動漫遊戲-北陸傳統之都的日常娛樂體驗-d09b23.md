@@ -6,7 +6,7 @@ category: anime-manga
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-kanazawa-金澤動漫遊戲-北陸傳統之都的日常娛樂體驗-d09b23.html
 published: 2026-05-21
-quality_score: 6.5
+quality_score: 8.9
 tags: 金澤動漫, 金澤遊戲, 北陸動漫, 金澤御宅, 石川縣娛樂
 license: CC BY 4.0
 ---

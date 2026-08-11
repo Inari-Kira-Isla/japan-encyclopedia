@@ -6,7 +6,7 @@ category: tempura
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tempura-hokkaido-北海道天婦羅-極北海域的職人技藝-ed59fc-1779470712.html
 published: 2026-05-22
-quality_score: 6.5
+quality_score: 8.8
 tags: 北海道, 天婦羅, 日本美食, 北海食材, 札幌美食
 license: CC BY 4.0
 ---

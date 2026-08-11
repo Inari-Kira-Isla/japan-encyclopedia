@@ -6,7 +6,7 @@ category: capsule-hotel
 area: japan
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-capsule-hotel-日本膠囊旅館完整指南2026-大阪難波-東京秋葉原first-cabin-日本特色住宿費用--8354c7.html
 published: 2026-03-29
-quality_score: 7.6
+quality_score: 8.4
 tags: 日本膠囊旅館, 東京便宜住宿, 大阪膠囊旅館, 日本住宿文化, First Cabin
 license: CC BY 4.0
 ---

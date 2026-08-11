@@ -6,7 +6,7 @@ category: 100-yen-shops
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-100-yen-shops-fukuoka-福岡百円商店-快閃購物-攻略-車站周邊5分鐘可達的便利據點-f1224b.html
 published: 2026-06-07
-quality_score: 7.5
+quality_score: 8.8
 tags: 福岡百円商店, 博多車站, 天神地下街, 快閃購物, 九州伴手禮
 license: CC BY 4.0
 ---

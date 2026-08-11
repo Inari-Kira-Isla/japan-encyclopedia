@@ -6,7 +6,7 @@ category: duty-free
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-duty-free-kanazawa-金澤免稅購物完全指南-抹茶甜點與加賀在地特產的購物攻略-86ca53.html
 published: 2026-06-22
-quality_score: 7.5
+quality_score: 8.5
 tags: 金澤免稅購物, 金澤抹茶甜點, 金澤伴手禮, 加賀茶點心, 石川縣購物
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: sake-brewery
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sake-brewery-hiroshima-廣島清酒釀造廠-酒藏建築美學與限定酒的探索之旅-962eb3.html
 published: 2026-05-24
-quality_score: 6.5
+quality_score: 8.7
 tags: 廣島清酒, 西條酒藏, 日本三大酒都, 釀酒廠參觀, 限定酒
 license: CC BY 4.0
 ---

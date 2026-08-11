@@ -6,7 +6,7 @@ category: department-stores
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-department-stores-fukuoka-福岡百貨公司購物指南-天神地區五大商場的特色與購物體驗-31e3eb.html
 published: 2026-06-16
-quality_score: 7.5
+quality_score: 8.8
 tags: 福岡購物, 天神商圈, 日本百货, 九州特產, 福岡自由行
 license: CC BY 4.0
 ---

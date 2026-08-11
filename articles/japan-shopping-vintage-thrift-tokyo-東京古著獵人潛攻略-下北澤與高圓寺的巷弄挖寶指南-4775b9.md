@@ -6,7 +6,7 @@ category: vintage-thrift
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-vintage-thrift-tokyo-東京古著獵人潛攻略-下北澤與高圓寺的巷弄挖寶指南-4775b9.html
 published: 2026-06-20
-quality_score: 7.5
+quality_score: 8.7
 tags: 東京古著, 下北澤古著, 高圓寺古著, 日暮里纖維, 日本二手衣
 license: CC BY 4.0
 ---

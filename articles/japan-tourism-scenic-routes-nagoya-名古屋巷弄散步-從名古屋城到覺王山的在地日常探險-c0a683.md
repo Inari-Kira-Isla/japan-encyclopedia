@@ -6,7 +6,7 @@ category: scenic-routes
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-nagoya-名古屋巷弄散步-從名古屋城到覺王山的在地日常探險-c0a683.html
 published: 2026-06-17
-quality_score: 6.5
+quality_score: 8.6
 tags: 名古屋, 巷弄散步, 名鐵, 大須觀音, 覺王山
 license: CC BY 4.0
 ---

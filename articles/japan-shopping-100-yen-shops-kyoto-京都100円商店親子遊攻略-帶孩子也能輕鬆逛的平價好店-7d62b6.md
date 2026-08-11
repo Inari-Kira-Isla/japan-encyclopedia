@@ -6,7 +6,7 @@ category: 100-yen-shops
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-100-yen-shops-kyoto-京都100円商店親子遊攻略-帶孩子也能輕鬆逛的平價好店-7d62b6.html
 published: 2026-06-28
-quality_score: 7.5
+quality_score: 8.8
 tags: 京都, 100円商店, 親子旅遊, 平價購物, 日本購物
 license: CC BY 4.0
 ---

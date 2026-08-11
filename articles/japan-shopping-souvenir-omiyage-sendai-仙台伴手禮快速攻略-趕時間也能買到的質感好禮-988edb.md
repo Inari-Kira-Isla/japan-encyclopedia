@@ -6,7 +6,7 @@ category: souvenir-omiyage
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-souvenir-omiyage-sendai-仙台伴手禮快速攻略-趕時間也能買到的質感好禮-988edb.html
 published: 2026-06-24
-quality_score: 7.5
+quality_score: 8.7
 tags: 仙台, 伴手禮, 東北, 日本購物, 駅弁
 license: CC BY 4.0
 ---

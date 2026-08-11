@@ -6,7 +6,7 @@ category: historical-districts
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-hiroshima-廣島歷史街區-從清晨到深夜的十二小時物語-d64536.html
 published: 2026-06-27
-quality_score: 6.5
+quality_score: 8.6
 tags: 廣島, 歷史街區, 元町通, 屋台村, 原爆紀念
 license: CC BY 4.0
 ---

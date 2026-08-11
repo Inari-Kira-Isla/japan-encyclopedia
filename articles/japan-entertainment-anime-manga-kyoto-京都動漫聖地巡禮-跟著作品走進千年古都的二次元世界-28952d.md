@@ -6,7 +6,7 @@ category: anime-manga
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-kyoto-京都動漫聖地巡禮-跟著作品走進千年古都的二次元世界-28952d.html
 published: 2026-03-28
-quality_score: 6.5
+quality_score: 8.8
 tags: 京都, 動漫聖地, 巡禮, 傳統文化, 二次元旅遊
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: ramen
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-ramen-hokkaido-北海道拉麵-港口城市的海味湯頭革命-00b330.html
 published: 2026-06-06
-quality_score: 6.5
+quality_score: 8.4
 tags: 北海道拉麵, 港口拉麵, 小樽拉麵, 室蘭拉麵, 釧路拉麵
 license: CC BY 4.0
 ---

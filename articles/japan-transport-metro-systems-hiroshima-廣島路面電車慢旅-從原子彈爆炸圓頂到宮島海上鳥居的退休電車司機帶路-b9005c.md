@@ -6,7 +6,7 @@ category: metro-systems
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-hiroshima-廣島路面電車慢旅-從原子彈爆炸圓頂到宮島海上鳥居的退休電車司機帶路-b9005c.html
 published: 2026-05-25
-quality_score: 7.5
+quality_score: 8.7
 tags: 廣島路面電車, 広島電鐵, 軌道交通, 日本電車, 廣島旅遊
 license: CC BY 4.0
 ---

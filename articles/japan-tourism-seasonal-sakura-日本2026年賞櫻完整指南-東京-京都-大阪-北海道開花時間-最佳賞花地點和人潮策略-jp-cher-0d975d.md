@@ -6,7 +6,7 @@ category: seasonal-sakura
 area: japan
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-seasonal-sakura-日本2026年賞櫻完整指南-東京-京都-大阪-北海道開花時間-最佳賞花地點和人潮策略-jp-cher-0d975d.html
 published: 2026-03-28
-quality_score: 7.6
+quality_score: 8.2
 tags: 日本賞櫻, 日本櫻花, 東京賞櫻, 京都賞櫻, 日本春天旅遊
 license: CC BY 4.0
 ---

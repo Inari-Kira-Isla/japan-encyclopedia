@@ -6,7 +6,7 @@ category: theme-parks
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-theme-parks-okinawa-沖繩主題樂園完整指南-從水族王國到熱帶花園的夢幻體驗-140335.html
 published: 2026-03-18
-quality_score: 6.5
+quality_score: 8.7
 tags: 沖繩主題樂園, 沖繩旅遊, 玉泉洞, 名護鳳梨園, BIOS之丘
 license: CC BY 4.0
 ---

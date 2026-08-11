@@ -6,7 +6,7 @@ category: izakaya
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-izakaya-fukuoka-福岡深夜酒場-從水炊到洋風-屬於成人的微醺散步-bb1a5a.html
 published: 2026-06-17
-quality_score: 6.5
+quality_score: 8.5
 tags: 福岡居酒屋, 博多屋台, 水炊き, 天神地下街, 九州美食
 license: CC BY 4.0
 ---

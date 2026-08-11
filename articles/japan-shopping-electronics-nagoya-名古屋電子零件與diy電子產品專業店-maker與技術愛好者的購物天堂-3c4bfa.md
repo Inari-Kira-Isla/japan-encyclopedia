@@ -6,7 +6,7 @@ category: electronics
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-electronics-nagoya-名古屋電子零件與diy電子產品專業店-maker與技術愛好者的購物天堂-3c4bfa.html
 published: 2026-06-23
-quality_score: 7.5
+quality_score: 8.6
 tags: 名古屋電子零件, DIY電子產品, Maker, 電子零件店, 名古屋購物
 license: CC BY 4.0
 ---

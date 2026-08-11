@@ -6,7 +6,7 @@ category: ramen
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-ramen-tokyo-東京拉麵-都會風土的味覺再詮釋-0dcb9d.html
 published: 2026-06-29
-quality_score: 6.5
+quality_score: 8.5
 tags: 東京拉麵, 東京美食, 日本拉麵, 新宿拉麵, 澀谷拉麵
 license: CC BY 4.0
 ---

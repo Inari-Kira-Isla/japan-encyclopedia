@@ -6,7 +6,7 @@ category: tonkatsu
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tonkatsu-kobe-神戶豚カツ-港都洋食文化中的關西炸豬派-aff3f8.html
 published: 2026-06-07
-quality_score: 6.5
+quality_score: 8.7
 tags: 神戶美食, 豚カツ, 炸豬排, 關西洋食, 神戶必吃
 license: CC BY 4.0
 ---

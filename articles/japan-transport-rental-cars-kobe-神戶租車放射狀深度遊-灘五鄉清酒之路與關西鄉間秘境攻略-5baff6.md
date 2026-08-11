@@ -6,7 +6,7 @@ category: rental-cars
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-kobe-神戶租車放射狀深度遊-灘五鄉清酒之路與關西鄉間秘境攻略-5baff6.html
 published: 2026-06-18
-quality_score: 7.5
+quality_score: 8.3
 tags: 神戶租車, 關西自駕, 灘五鄉, 清酒之旅, 放射狀路線
 license: CC BY 4.0
 ---

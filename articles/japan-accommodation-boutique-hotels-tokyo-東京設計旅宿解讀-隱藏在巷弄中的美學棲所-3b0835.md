@@ -6,7 +6,7 @@ category: boutique-hotels
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-tokyo-東京設計旅宿解讀-隱藏在巷弄中的美學棲所-3b0835.html
 published: 2026-06-15
-quality_score: 6.5
+quality_score: 8.5
 tags: 東京精品酒店, 設計旅宿, 東京住宿推薦, boutique hotel, 東京建築美學
 license: CC BY 4.0
 ---

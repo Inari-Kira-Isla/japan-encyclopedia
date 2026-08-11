@@ -6,7 +6,7 @@ category: fashion-harajuku
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-fashion-harajuku-hiroshima-地理修正-廣島沒有-原宿-正確理解日本年輕時尚文化發源地-dec694.html
 published: 2026-06-24
-quality_score: 7.5
+quality_score: 8.6
 tags: 原宿, 東京購物, 古著, 潮流時尚, 地理說明
 license: CC BY 4.0
 ---

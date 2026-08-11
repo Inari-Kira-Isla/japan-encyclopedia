@@ -6,7 +6,7 @@ category: tonkatsu
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tonkatsu-nara-奈良炸豬排-古都寺院旁的和風洋食體驗-c32804.html
 published: 2026-06-02
-quality_score: 6.5
+quality_score: 8.8
 tags: 奈良美食, 炸猪排, 日式洋食, 关西料理, 奈良观光
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: ferries
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-ferries-kanazawa-金澤港灣交通手冊-從金澤出發的海上航線與島嶼跳島攻略-411469.html
 published: 2026-06-27
-quality_score: 7.5
+quality_score: 8.5
 tags: 金澤交通, 日本海渡輪, 能登半島, 石川縣, 島嶼跳島
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: ramen
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-ramen-kyoto-京都拉麵-古都傳統與現代風味的交融-279750.html
 published: 2026-03-24
-quality_score: 6.5
+quality_score: 8.7
 tags: 京都美食, 拉麵, 日本傳統料理, 京都旅遊, 日本飲食文化
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: izakaya
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-izakaya-fukuoka-福岡居酒屋散步-藥院區的巷弄酒屋與深夜食堂-36ca46.html
 published: 2026-05-22
-quality_score: 6.5
+quality_score: 8.5
 tags: 福岡, 居酒屋, 藥院, 屋台, 博多吃喝
 license: CC BY 4.0
 ---

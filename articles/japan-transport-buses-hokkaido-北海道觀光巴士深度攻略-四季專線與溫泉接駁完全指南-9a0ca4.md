@@ -6,7 +6,7 @@ category: buses
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-buses-hokkaido-北海道觀光巴士深度攻略-四季專線與溫泉接駁完全指南-9a0ca4.html
 published: 2026-03-27
-quality_score: 7.5
+quality_score: 8.5
 tags: 北海道交通, 觀光巴士, 季節限定, 溫泉接駁, 機場交通
 license: CC BY 4.0
 ---

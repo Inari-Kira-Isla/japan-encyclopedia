@@ -6,7 +6,7 @@ category: boutique-hotels
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-tokyo-東京美食住宿指南-米其林密度背後的精品酒店美學-b9082e.html
 published: 2026-06-24
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京精品酒店, 米其林美食住宿, 東京設計酒店, 東京美食之旅,  boutique hotel Tokyo
 license: CC BY 4.0
 ---

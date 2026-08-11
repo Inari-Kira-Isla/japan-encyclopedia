@@ -6,7 +6,7 @@ category: garden-parks
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-tokyo-東京綠色教室-家庭生態遊樂園巡禮-827c2b.html
 published: 2026-03-23
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京, 庭園, 家庭遊樂園, 生態教育, 四季自然
 license: CC BY 4.0
 ---

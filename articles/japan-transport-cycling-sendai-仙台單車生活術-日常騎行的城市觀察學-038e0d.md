@@ -6,7 +6,7 @@ category: cycling
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-sendai-仙台單車生活術-日常騎行的城市觀察學-038e0d.html
 published: 2026-06-18
-quality_score: 7.5
+quality_score: 8.6
 tags: 仙台單車, 杜之都, 廣瀨川, 東北單車, 日本單車生活
 license: CC BY 4.0
 ---

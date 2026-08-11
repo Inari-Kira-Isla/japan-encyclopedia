@@ -6,7 +6,7 @@ category: day-trips
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-kobe-廣島城下町-二戰後重生的昭和懷舊與海軍咖哩探秘-218505.html
 published: 2026-06-04
-quality_score: 6.5
+quality_score: 8.6
 tags: 廣島, 城下町, 原爆圓頂, 海軍咖哩, 廣島燒
 license: CC BY 4.0
 ---

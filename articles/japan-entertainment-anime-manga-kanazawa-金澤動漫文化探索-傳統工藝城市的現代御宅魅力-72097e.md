@@ -6,7 +6,7 @@ category: anime-manga
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-kanazawa-金澤動漫文化探索-傳統工藝城市的現代御宅魅力-72097e.html
 published: 2026-06-29
-quality_score: 6.5
+quality_score: 8.8
 tags: 金澤動漫, 金澤漫畫店, 金澤同人誌, 石川縣動漫, 北陸動漫之旅
 license: CC BY 4.0
 ---

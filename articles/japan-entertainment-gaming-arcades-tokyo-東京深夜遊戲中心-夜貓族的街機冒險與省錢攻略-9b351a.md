@@ -6,7 +6,7 @@ category: gaming-arcades
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-gaming-arcades-tokyo-東京深夜遊戲中心-夜貓族的街機冒險與省錢攻略-9b351a.html
 published: 2026-06-28
-quality_score: 6.5
+quality_score: 8.6
 tags: 東京遊戲中心, 深夜景點, 街機文化, 省錢旅遊, 東京夜生活
 license: CC BY 4.0
 ---

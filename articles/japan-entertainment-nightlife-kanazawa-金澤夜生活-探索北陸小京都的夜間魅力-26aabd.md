@@ -6,7 +6,7 @@ category: nightlife
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-kanazawa-金澤夜生活-探索北陸小京都的夜間魅力-26aabd.html
 published: 2026-03-18
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤夜生活, 石川縣旅遊, 日本北陸, 金澤美食, 金澤酒吧
 license: CC BY 4.0
 ---

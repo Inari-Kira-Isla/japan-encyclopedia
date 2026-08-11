@@ -6,7 +6,7 @@ category: ski-resorts
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-ski-resorts-kyoto-京都出發滑雪一日遊-關西歷史古都周邊雪場完全指南-178765.html
 published: 2026-06-25
-quality_score: 6.5
+quality_score: 8.6
 tags: 京都滑雪, 關西滑雪場, 京都一日遊, 箱館山滑雪場, 奧琵琶湖滑雪場
 license: CC BY 4.0
 ---

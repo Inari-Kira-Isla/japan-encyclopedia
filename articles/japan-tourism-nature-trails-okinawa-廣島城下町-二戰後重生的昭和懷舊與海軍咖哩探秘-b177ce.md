@@ -6,7 +6,7 @@ category: nature-trails
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-okinawa-廣島城下町-二戰後重生的昭和懷舊與海軍咖哩探秘-b177ce.html
 published: 2026-06-04
-quality_score: 6.5
+quality_score: 8.6
 tags: 廣島, 城下町, 原爆圓頂, 海軍咖哩, 廣島燒
 license: CC BY 4.0
 ---

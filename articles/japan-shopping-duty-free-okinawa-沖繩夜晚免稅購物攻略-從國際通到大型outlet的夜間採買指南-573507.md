@@ -6,7 +6,7 @@ category: duty-free
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-duty-free-okinawa-沖繩夜晚免稅購物攻略-從國際通到大型outlet的夜間採買指南-573507.html
 published: 2026-06-24
-quality_score: 7.5
+quality_score: 8.7
 tags: 沖繩免稅, 夜晚購物, 國際通, 永旺夢樂城, 沖繩DFS
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: electronics
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-electronics-hokkaido-北海道電子產品購買指南-當地人日常生活中的科技採購美學-3662c7.html
 published: 2026-06-04
-quality_score: 7.5
+quality_score: 8.5
 tags: 北海道電子產品, 札幌電器行, 小樽購物, 旭川電器, 帶廣電子
 license: CC BY 4.0
 ---

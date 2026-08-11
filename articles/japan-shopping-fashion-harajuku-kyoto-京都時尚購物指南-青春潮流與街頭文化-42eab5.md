@@ -6,7 +6,7 @@ category: fashion-harajuku
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-fashion-harajuku-kyoto-京都時尚購物指南-青春潮流與街頭文化-42eab5.html
 published: 2026-03-16
-quality_score: 7.5
+quality_score: 8.7
 tags: 京都購物, 京都時尚, 古著店, 日本潮流, 京都自由行
 license: CC BY 4.0
 ---

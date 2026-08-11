@@ -6,7 +6,7 @@ category: rental-cars
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-sendai-仙台租車自駕-冬季雪國安全駕駛與暖心景點推薦-d17e5f.html
 published: 2026-06-09
-quality_score: 7.5
+quality_score: 8.3
 tags: 仙台租車, 東北自駕, 冬季溫泉, 雪國駕駛, 藏王溫泉
 license: CC BY 4.0
 ---

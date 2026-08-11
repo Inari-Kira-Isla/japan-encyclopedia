@@ -6,7 +6,7 @@ category: yakitori
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-yakitori-hokkaido-北海道燒鳥-大地食材與炭火的味覺冒險-95afe2.html
 published: 2026-06-10
-quality_score: 6.5
+quality_score: 8.8
 tags: 北海道燒鳥, 道產食材, 海鮮串燒, 札幌美食, 小樽美食
 license: CC BY 4.0
 ---

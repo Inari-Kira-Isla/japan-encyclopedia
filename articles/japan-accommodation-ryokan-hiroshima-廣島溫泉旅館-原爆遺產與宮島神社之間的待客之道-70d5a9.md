@@ -6,7 +6,7 @@ category: ryokan
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-hiroshima-廣島溫泉旅館-原爆遺產與宮島神社之間的待客之道-70d5a9.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 8.8
 tags: 廣島住宿, 宮島ryokan, 廣島旅遊, 日本傳統旅館, 瀨戶內海住宿
 license: CC BY 4.0
 ---

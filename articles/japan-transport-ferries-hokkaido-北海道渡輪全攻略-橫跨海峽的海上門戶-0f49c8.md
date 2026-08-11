@@ -6,7 +6,7 @@ category: ferries
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-ferries-hokkaido-北海道渡輪全攻略-橫跨海峽的海上門戶-0f49c8.html
 published: 2026-06-04
-quality_score: 7.5
+quality_score: 7.9
 tags: 北海道, 渡輪, 津輕海峽, 交通, 自助旅行
 license: CC BY 4.0
 ---

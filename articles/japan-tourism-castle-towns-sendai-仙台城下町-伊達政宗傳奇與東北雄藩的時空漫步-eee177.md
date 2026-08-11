@@ -6,7 +6,7 @@ category: castle-towns
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-castle-towns-sendai-仙台城下町-伊達政宗傳奇與東北雄藩的時空漫步-eee177.html
 published: 2026-06-02
-quality_score: 6.5
+quality_score: 8.7
 tags: 仙台城, 伊達政宗, 城下町, 東北溫泉, 日本城堡
 license: CC BY 4.0
 ---

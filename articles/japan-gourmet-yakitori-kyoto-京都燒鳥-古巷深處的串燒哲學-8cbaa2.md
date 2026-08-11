@@ -6,7 +6,7 @@ category: yakitori
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-yakitori-kyoto-京都燒鳥-古巷深處的串燒哲學-8cbaa2.html
 published: 2026-06-22
-quality_score: 6.5
+quality_score: 8.7
 tags: 京都燒鳥, 京都美食, 祇園, 京料理, 嵐山
 license: CC BY 4.0
 ---

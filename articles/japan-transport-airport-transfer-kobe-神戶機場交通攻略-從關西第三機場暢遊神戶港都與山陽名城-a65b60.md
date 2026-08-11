@@ -6,7 +6,7 @@ category: airport-transfer
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-airport-transfer-kobe-神戶機場交通攻略-從關西第三機場暢遊神戶港都與山陽名城-a65b60.html
 published: 2026-07-02
-quality_score: 7.5
+quality_score: 8.7
 tags: 神戶機場, 關西機場交通, Port Liner, 神戶港, 姬路城
 license: CC BY 4.0
 ---

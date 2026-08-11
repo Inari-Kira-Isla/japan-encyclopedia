@@ -6,7 +6,7 @@ category: gaming-arcades
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-gaming-arcades-fukuoka-福岡親子遊戲中心-家庭同樂的街機樂園與省錢攻略-fedcfa.html
 published: 2026-06-15
-quality_score: 6.5
+quality_score: 8.7
 tags: 福岡遊戲中心, 親子同樂, 街機文化, 九州娛樂, 家庭旅遊
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: duty-free
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-duty-free-kyoto-京都生活美學免稅購物-從日常餐具到設計選品的質感商店地圖-835b2e.html
 published: 2026-06-17
-quality_score: 7.5
+quality_score: 8.5
 tags: 京都免稅購物, 清水燒, 西陣織, 京都工藝品, 設計選品店
 license: CC BY 4.0
 ---

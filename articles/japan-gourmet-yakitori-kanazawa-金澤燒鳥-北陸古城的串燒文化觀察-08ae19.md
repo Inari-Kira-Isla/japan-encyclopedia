@@ -6,7 +6,7 @@ category: yakitori
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-yakitori-kanazawa-金澤燒鳥-北陸古城的串燒文化觀察-08ae19.html
 published: 2026-06-22
-quality_score: 6.5
+quality_score: 8.6
 tags: 金澤燒鳥, 石川縣美食, 北陸料理, 串燒, 日本料理
 license: CC BY 4.0
 ---

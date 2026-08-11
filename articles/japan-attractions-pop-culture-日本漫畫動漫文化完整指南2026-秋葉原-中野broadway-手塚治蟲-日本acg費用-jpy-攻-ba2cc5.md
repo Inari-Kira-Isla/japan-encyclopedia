@@ -6,7 +6,7 @@ category: pop-culture
 area: japan
 url: https://japan-encyclopedia.vercel.app/articles/japan-attractions-pop-culture-日本漫畫動漫文化完整指南2026-秋葉原-中野broadway-手塚治蟲-日本acg費用-jpy-攻-ba2cc5.html
 published: 2026-03-29
-quality_score: 7.6
+quality_score: 8.5
 tags: 日本動漫文化, 秋葉原ACG, 中野Broadway, Comic Market, 聖地巡禮
 license: CC BY 4.0
 ---

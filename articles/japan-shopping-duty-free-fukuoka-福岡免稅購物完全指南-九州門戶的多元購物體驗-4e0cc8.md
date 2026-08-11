@@ -6,7 +6,7 @@ category: duty-free
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-duty-free-fukuoka-福岡免稅購物完全指南-九州門戶的多元購物體驗-4e0cc8.html
 published: 2026-06-28
-quality_score: 7.5
+quality_score: 8.7
 tags: 福岡免稅, 九州購物, 博多吃喝, 天神商圈, 機場免稅
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: izakaya
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-izakaya-nara-奈良酒藏散步-深入縣廳與學園前-巷弄中的隱藏酒場-f69c6e.html
 published: 2026-06-26
-quality_score: 6.5
+quality_score: 8.7
 tags: 奈良居酒屋, 奈良美食, 奈良酒藏, 日本古城, 近鐵奈良
 license: CC BY 4.0
 ---

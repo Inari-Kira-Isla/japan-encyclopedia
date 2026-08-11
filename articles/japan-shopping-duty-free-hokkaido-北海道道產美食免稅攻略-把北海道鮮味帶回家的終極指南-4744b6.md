@@ -6,7 +6,7 @@ category: duty-free
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-duty-free-hokkaido-北海道道產美食免稅攻略-把北海道鮮味帶回家的終極指南-4744b6.html
 published: 2026-05-23
-quality_score: 7.5
+quality_score: 8.8
 tags: 北海道免稅, 北海道購物, 北海道伴手禮, 海膽, 帝王蟹
 license: CC BY 4.0
 ---

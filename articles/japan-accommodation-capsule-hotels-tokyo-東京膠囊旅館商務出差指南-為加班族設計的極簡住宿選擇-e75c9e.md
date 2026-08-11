@@ -6,7 +6,7 @@ category: capsule-hotels
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-capsule-hotels-tokyo-東京膠囊旅館商務出差指南-為加班族設計的極簡住宿選擇-e75c9e.html
 published: 2026-06-29
-quality_score: 6.5
+quality_score: 9.0
 tags: 東京膠囊旅館, 商務出差, 新宿住宿, 淺草橋, 秋葉原
 license: CC BY 4.0
 ---

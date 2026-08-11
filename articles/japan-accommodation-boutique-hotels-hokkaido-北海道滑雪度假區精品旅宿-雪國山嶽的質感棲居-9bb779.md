@@ -6,7 +6,7 @@ category: boutique-hotels
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-hokkaido-北海道滑雪度假區精品旅宿-雪國山嶽的質感棲居-9bb779.html
 published: 2026-06-17
-quality_score: 6.5
+quality_score: 8.6
 tags: 北海道, 精品旅宿, 滑雪, 二世古, 溫泉
 license: CC BY 4.0
 ---

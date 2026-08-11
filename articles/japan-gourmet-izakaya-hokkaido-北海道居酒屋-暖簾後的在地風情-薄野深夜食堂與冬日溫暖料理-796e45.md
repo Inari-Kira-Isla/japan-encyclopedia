@@ -6,7 +6,7 @@ category: izakaya
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-izakaya-hokkaido-北海道居酒屋-暖簾後的在地風情-薄野深夜食堂與冬日溫暖料理-796e45.html
 published: 2026-06-18
-quality_score: 6.5
+quality_score: 8.9
 tags: 北海道居酒屋, 薄野, 成吉思汗, 札幌美食, 冬季北海道
 license: CC BY 4.0
 ---

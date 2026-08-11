@@ -6,7 +6,7 @@ category: castle-towns
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-castle-towns-sendai-仙台城下町的溫泉療癒之旅-從歷史街道到現代水療-329072.html
 published: 2026-03-24
-quality_score: 6.5
+quality_score: 8.7
 tags: 仙台, 城下町, 溫泉, 療癒, 季節體驗
 license: CC BY 4.0
 ---

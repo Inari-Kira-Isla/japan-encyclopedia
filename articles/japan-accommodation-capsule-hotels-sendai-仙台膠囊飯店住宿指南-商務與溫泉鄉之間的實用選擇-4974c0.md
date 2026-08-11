@@ -6,7 +6,7 @@ category: capsule-hotels
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-capsule-hotels-sendai-仙台膠囊飯店住宿指南-商務與溫泉鄉之間的實用選擇-4974c0.html
 published: 2026-06-08
-quality_score: 6.5
+quality_score: 8.7
 tags: 仙台住宿, 膠囊飯店, 東北旅行, 仙台站, 低成本住宿
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: street-food
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-street-food-tokyo-東京通勤族的移動食堂-車站周邊的快速美味散步-06d5bd.html
 published: 2026-06-11
-quality_score: 6.5
+quality_score: 8.6
 tags: 東京, 街頭美食, 車站周邊, 通勤族, 快速美味
 license: CC BY 4.0
 ---

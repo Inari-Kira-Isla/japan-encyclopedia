@@ -6,7 +6,7 @@ category: temples-shrines
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-temples-shrines-nara-奈良寺廟神社省錢攻略-用預算限制找出高cp值參拜路徑-c90456.html
 published: 2026-06-03
-quality_score: 6.5
+quality_score: 8.8
 tags: 奈良自助遊, 省錢日本, 世界遺產, 寺廟參拜, 春日大社
 license: CC BY 4.0
 ---

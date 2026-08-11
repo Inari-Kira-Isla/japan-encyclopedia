@@ -6,7 +6,7 @@ category: rental-cars
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-hokkaido-北海道雪季租車自駕-冬季銀白世界的深度漫遊攻略-68561b.html
 published: 2026-06-08
-quality_score: 7.5
+quality_score: 8.7
 tags: 北海道租車, 雪季自駕, 冬季旅遊, 北海道自由行, 日本自駕遊
 license: CC BY 4.0
 ---

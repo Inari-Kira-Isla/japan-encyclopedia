@@ -6,7 +6,7 @@ category: depachika
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-depachika-nara-奈良depachika-體驗大和精神的古都美食地下殿堂-f28be4.html
 published: 2026-06-04
-quality_score: 6.5
+quality_score: 8.8
 tags: 奈良Depachika, 奈良美食, 大和文化, 日本地下食品, 奈良縣產
 license: CC BY 4.0
 ---

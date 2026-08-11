@@ -6,7 +6,7 @@ category: street-food
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-street-food-kyoto-京都日常味覺地圖-從清晨市集到夕暮小巷的在地美食路徑-e2c28e.html
 published: 2026-07-06
-quality_score: 6.5
+quality_score: 8.7
 tags: 京都, 街頭美食, 日本古都, 在地美食, 京都旅行
 license: CC BY 4.0
 ---

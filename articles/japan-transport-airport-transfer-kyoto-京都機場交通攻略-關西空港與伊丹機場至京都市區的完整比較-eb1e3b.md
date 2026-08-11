@@ -6,7 +6,7 @@ category: airport-transfer
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-airport-transfer-kyoto-京都機場交通攻略-關西空港與伊丹機場至京都市區的完整比較-eb1e3b.html
 published: 2026-06-02
-quality_score: 7.5
+quality_score: 8.6
 tags: 京都交通, 關西機場, 伊丹機場, JR HARUKA, 機場巴士
 license: CC BY 4.0
 ---

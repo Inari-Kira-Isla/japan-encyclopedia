@@ -6,7 +6,7 @@ category: sumo
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-nara-奈良相撲文化-古都神社的力士祈福與傳統儀式體驗-9c6484.html
 published: 2026-03-27
-quality_score: 6.5
+quality_score: 8.7
 tags: 奈良, 相撲, 神道, 傳統文化, 春日大社
 license: CC BY 4.0
 ---

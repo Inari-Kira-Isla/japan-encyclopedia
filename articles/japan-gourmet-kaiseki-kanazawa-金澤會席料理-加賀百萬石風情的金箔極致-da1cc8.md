@@ -6,7 +6,7 @@ category: kaiseki
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-kaiseki-kanazawa-金澤會席料理-加賀百萬石風情的金箔極致-da1cc8.html
 published: 2026-06-26
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤會席, 加賀百萬石, 金澤美食, 石川縣料理, 日本海側美食
 license: CC BY 4.0
 ---

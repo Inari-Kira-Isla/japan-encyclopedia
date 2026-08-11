@@ -6,7 +6,7 @@ category: island-hopping
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-island-hopping-kanazawa-金澤跳島之旅-乘船穿越日本海的文化斷層線-6b880b.html
 published: 2026-06-19
-quality_score: 6.5
+quality_score: 8.6
 tags: 金澤跳島, 日本海島嶼, 輪島漆器, 能登半島, 佐渡島
 license: CC BY 4.0
 ---

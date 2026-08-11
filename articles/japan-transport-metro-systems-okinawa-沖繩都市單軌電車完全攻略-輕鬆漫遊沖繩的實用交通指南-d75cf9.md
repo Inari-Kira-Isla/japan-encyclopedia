@@ -6,7 +6,7 @@ category: metro-systems
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-okinawa-沖繩都市單軌電車完全攻略-輕鬆漫遊沖繩的實用交通指南-d75cf9.html
 published: 2026-05-31
-quality_score: 7.5
+quality_score: 8.7
 tags: 沖繩交通, 單軌電車, 那霸自由行, 沖繩自助, 日本南九州
 license: CC BY 4.0
 ---

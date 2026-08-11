@@ -6,7 +6,7 @@ category: island-hopping
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-island-hopping-kobe-神戶跳島之旅-從港都出發的海上風光與在地美食-d98364.html
 published: 2026-05-22
-quality_score: 6.5
+quality_score: 8.6
 tags: 神戶, 跳島, 瀨戶內海, 海鮮美食, 夜景
 license: CC BY 4.0
 ---

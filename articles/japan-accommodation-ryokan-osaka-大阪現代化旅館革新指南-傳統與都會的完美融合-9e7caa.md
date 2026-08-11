@@ -6,7 +6,7 @@ category: ryokan
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-osaka-大阪現代化旅館革新指南-傳統與都會的完美融合-9e7caa.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪旅館, 現代化住宿, 日式服務, 都市溫泉, 商務旅行
 license: CC BY 4.0
 ---

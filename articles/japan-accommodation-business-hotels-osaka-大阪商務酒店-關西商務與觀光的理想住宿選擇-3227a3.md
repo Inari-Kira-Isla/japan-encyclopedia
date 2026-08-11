@@ -6,7 +6,7 @@ category: business-hotels
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-business-hotels-osaka-大阪商務酒店-關西商務與觀光的理想住宿選擇-3227a3.html
 published: 2026-06-29
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪, 商務酒店, 關西, 出差住宿, 梅田
 license: CC BY 4.0
 ---

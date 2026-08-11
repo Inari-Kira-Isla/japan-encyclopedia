@@ -6,7 +6,7 @@ category: boutique-hotels
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-kanazawa-金澤質感住宿-遠離人潮的在地社群型精選-0ab1db.html
 published: 2026-05-23
-quality_score: 6.5
+quality_score: 8.8
 tags: 金澤精品住宿, 加賀百萬石, 淺野川, 質感之旅, 北陸小旅行
 license: CC BY 4.0
 ---

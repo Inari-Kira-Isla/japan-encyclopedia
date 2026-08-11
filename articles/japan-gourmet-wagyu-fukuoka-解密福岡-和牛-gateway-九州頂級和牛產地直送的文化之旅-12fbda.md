@@ -6,7 +6,7 @@ category: wagyu
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-wagyu-fukuoka-解密福岡-和牛-gateway-九州頂級和牛產地直送的文化之旅-12fbda.html
 published: 2026-05-24
-quality_score: 6.5
+quality_score: 8.6
 tags: 和牛, 福岡美食, 九州旅遊, 美食文化, 燒肉
 license: CC BY 4.0
 ---

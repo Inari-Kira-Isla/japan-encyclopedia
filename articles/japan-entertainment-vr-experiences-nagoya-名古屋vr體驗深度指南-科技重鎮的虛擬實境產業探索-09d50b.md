@@ -6,7 +6,7 @@ category: vr-experiences
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-vr-experiences-nagoya-名古屋vr體驗深度指南-科技重鎮的虛擬實境產業探索-09d50b.html
 published: 2026-04-04
-quality_score: 6.5
+quality_score: 8.6
 tags: 名古屋VR, 虛擬實境娛樂, 科技體驗, 中部旅遊
 license: CC BY 4.0
 ---

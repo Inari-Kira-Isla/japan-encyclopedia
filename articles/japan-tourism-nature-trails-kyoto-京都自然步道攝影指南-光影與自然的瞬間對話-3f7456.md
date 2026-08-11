@@ -6,7 +6,7 @@ category: nature-trails
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-kyoto-京都自然步道攝影指南-光影與自然的瞬間對話-3f7456.html
 published: 2026-06-08
-quality_score: 6.5
+quality_score: 8.8
 tags: 京都自然步道, 攝影指南, 鞍馬山, 嵐山竹林, 貴船溪谷
 license: CC BY 4.0
 ---

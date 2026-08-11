@@ -6,7 +6,7 @@ category: boutique-hotels
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-kobe-神戶精品酒店-港都夜色與味覺體驗的質感棲居-402a2b.html
 published: 2026-06-07
-quality_score: 6.5
+quality_score: 8.8
 tags: 神戶精品酒店, 神戶住宿, 港都美食, 瀨戶內海, 神戶牛
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: department-stores
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-department-stores-nara-奈良小資購物攻略-學生族與預算旅人的平價商場精選-3fe3e1.html
 published: 2026-06-15
-quality_score: 7.5
+quality_score: 8.5
 tags: 奈良購物, 平價購物, 學生旅遊, 小資族, 日本購物
 license: CC BY 4.0
 ---

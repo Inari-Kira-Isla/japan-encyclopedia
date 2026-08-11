@@ -6,7 +6,7 @@ category: temples-shrines
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-temples-shrines-nagoya-名古屋工藝與信仰-探索陶瓷產地與產業神社的非主流文化密碼-3f1323.html
 published: 2026-05-23
-quality_score: 6.5
+quality_score: 8.7
 tags: 名古屋寺廟神社, 產業神社, 工藝產地, 常滑燒, 名古屋自由行
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: theme-parks
 area: japan
 url: https://japan-encyclopedia.vercel.app/articles/japan-attractions-theme-parks-東京迪士尼樂園和迪士尼海洋完整指南2026-快速通關-費用-遊樂設施等待時間策略-jp-tokyo--bc76a7.html
 published: 2026-04-19
-quality_score: 7.6
+quality_score: 8.5
 tags: 東京迪士尼, 東京迪士尼海洋, 東京迪士尼票價, 迪士尼攻略, Fantasy Springs
 license: CC BY 4.0
 ---

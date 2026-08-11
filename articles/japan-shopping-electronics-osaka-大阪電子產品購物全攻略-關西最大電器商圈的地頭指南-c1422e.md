@@ -6,7 +6,7 @@ category: electronics
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-electronics-osaka-大阪電子產品購物全攻略-關西最大電器商圈的地頭指南-c1422e.html
 published: 2026-06-22
-quality_score: 7.5
+quality_score: 8.5
 tags: 大阪電子產品, 關西電器行, 大阪購物, 日本橋電器街, 難波電子產品
 license: CC BY 4.0
 ---

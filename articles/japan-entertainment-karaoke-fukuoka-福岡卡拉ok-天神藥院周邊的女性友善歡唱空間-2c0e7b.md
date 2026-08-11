@@ -6,7 +6,7 @@ category: karaoke
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-karaoke-fukuoka-福岡卡拉ok-天神藥院周邊的女性友善歡唱空間-2c0e7b.html
 published: 2026-06-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 九州, 福岡, 卡拉OK, 博多年夜生活, 女性友善場所
 license: CC BY 4.0
 ---

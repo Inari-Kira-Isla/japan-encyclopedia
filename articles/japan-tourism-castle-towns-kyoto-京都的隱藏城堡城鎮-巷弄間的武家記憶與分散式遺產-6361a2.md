@@ -6,7 +6,7 @@ category: castle-towns
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-castle-towns-kyoto-京都的隱藏城堡城鎮-巷弄間的武家記憶與分散式遺產-6361a2.html
 published: 2026-06-07
-quality_score: 6.5
+quality_score: 8.7
 tags: 京都城堡城鎮, 武家歷史, 分散式遺產, 城下町探索, 非主流觀光
 license: CC BY 4.0
 ---

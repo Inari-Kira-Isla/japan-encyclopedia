@@ -6,7 +6,7 @@ category: escape-rooms
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-escape-rooms-fukuoka-福岡密室逃脫-外國遊客的九州燒腦體驗指南-b4ed51.html
 published: 2026-06-21
-quality_score: 6.5
+quality_score: 8.8
 tags: 福岡密室逃脫, 博多, 天神, 屋台文化, 玄界灘
 license: CC BY 4.0
 ---

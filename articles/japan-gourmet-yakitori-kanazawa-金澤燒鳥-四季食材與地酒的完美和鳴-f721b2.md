@@ -6,7 +6,7 @@ category: yakitori
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-yakitori-kanazawa-金澤燒鳥-四季食材與地酒的完美和鳴-f721b2.html
 published: 2026-03-28
-quality_score: 6.5
+quality_score: 8.8
 tags: 金澤美食, 燒鳥, 石川縣, 能登海鮮, 加賀蔬菜
 license: CC BY 4.0
 ---

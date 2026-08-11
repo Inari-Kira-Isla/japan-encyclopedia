@@ -6,7 +6,7 @@ category: temples-shrines
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-temples-shrines-fukuoka-福岡神社寺院參訪攻略-九州門戶的信仰日常與周邊玩法-f3167e.html
 published: 2026-05-22
-quality_score: 6.5
+quality_score: 8.7
 tags: 福岡神社, 九州宗教文化, 博多景點, 太宰府天滿宮, 日本参拜
 license: CC BY 4.0
 ---

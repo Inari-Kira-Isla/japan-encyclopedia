@@ -6,7 +6,7 @@ category: 100-yen-shops
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-100-yen-shops-osaka-大阪道頓堀百元店購物攻略-美食街周邊的平價伴手禮採買指南-c6e018.html
 published: 2026-06-19
-quality_score: 7.5
+quality_score: 8.5
 tags: 大阪百元店, 道頓堀購物, 大阪伴手禮, 平價購物, 日本自由行
 license: CC BY 4.0
 ---

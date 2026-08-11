@@ -6,7 +6,7 @@ category: vr-experiences
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-vr-experiences-kanazawa-金澤vr體驗-古城雨天備案與情侶約會提案-室內娛樂完全攻略-cf4f8e.html
 published: 2026-06-28
-quality_score: 6.5
+quality_score: 8.3
 tags: 金澤VR, 金澤室內活動, 金澤雨天備案, 金澤情侶約會, 北陸VR體驗
 license: CC BY 4.0
 ---

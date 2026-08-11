@@ -6,7 +6,7 @@ category: kaiseki
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-kaiseki-okinawa-沖繩懷石料理的平民化革命-從高不可攀到人人可享-afd8f7.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 沖繩美食, 懷石料理, 平民化, 性價比, 初學者友善
 license: CC BY 4.0
 ---

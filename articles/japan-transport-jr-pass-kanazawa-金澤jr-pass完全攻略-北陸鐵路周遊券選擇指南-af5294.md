@@ -6,7 +6,7 @@ category: jr-pass
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-jr-pass-kanazawa-金澤jr-pass完全攻略-北陸鐵路周遊券選擇指南-af5294.html
 published: 2026-05-31
-quality_score: 7.5
+quality_score: 8.9
 tags: 金澤JR PASS, 石川縣, 北陸鐵路, 金澤溫泉, 兼六園
 license: CC BY 4.0
 ---

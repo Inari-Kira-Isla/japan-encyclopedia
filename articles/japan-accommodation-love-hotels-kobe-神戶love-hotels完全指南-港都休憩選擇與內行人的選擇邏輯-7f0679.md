@@ -6,7 +6,7 @@ category: love-hotels
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-love-hotels-kobe-神戶love-hotels完全指南-港都休憩選擇與內行人的選擇邏輯-7f0679.html
 published: 2026-06-29
-quality_score: 6.5
+quality_score: 8.8
 tags: 神戶住宿, 神戶愛情旅館, 神戶休憩, 港都住宿, 關西住宿
 license: CC BY 4.0
 ---

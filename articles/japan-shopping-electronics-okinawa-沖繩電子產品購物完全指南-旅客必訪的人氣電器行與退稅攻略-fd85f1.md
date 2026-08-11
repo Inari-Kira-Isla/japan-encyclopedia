@@ -6,7 +6,7 @@ category: electronics
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-electronics-okinawa-沖繩電子產品購物完全指南-旅客必訪的人氣電器行與退稅攻略-fd85f1.html
 published: 2026-06-01
-quality_score: 7.5
+quality_score: 8.7
 tags: 沖繩電子產品, 沖繩電器行, 沖繩購物, 日本電子產品, 沖繩退稅
 license: CC BY 4.0
 ---

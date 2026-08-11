@@ -6,7 +6,7 @@ category: wagyu
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-wagyu-tokyo-東京日常和牛指南-上班族與小資族的銅板美味提案-2b0ef2.html
 published: 2026-06-05
-quality_score: 6.5
+quality_score: 8.5
 tags: 東京美食, 和牛燒肉, 東京日常, 銅板美食, 東京午餐
 license: CC BY 4.0
 ---

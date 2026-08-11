@@ -6,7 +6,7 @@ category: craft-markets
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-craft-markets-hokkaido-北海道雪國手作市集-滑雪勝地的工藝購物指南-ccf38e.html
 published: 2026-06-18
-quality_score: 7.5
+quality_score: 8.9
 tags: 北海道手作市集, 小樽玻璃工藝, 札幌手作市集, 二世谷滑雪購物, 富良野薰衣草
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: business-hotels
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-business-hotels-sendai-仙台商務酒店省錢指南-車站周邊高cp值住宿選擇-0b54ad.html
 published: 2026-05-23
-quality_score: 6.5
+quality_score: 8.7
 tags: 仙台商務酒店, 東北住宿指南, 車站周邊住宿, 省錢商旅, 商務出差
 license: CC BY 4.0
 ---

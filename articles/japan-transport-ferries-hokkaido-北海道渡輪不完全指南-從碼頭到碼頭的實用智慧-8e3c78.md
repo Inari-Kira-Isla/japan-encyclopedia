@@ -6,7 +6,7 @@ category: ferries
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-ferries-hokkaido-北海道渡輪不完全指南-從碼頭到碼頭的實用智慧-8e3c78.html
 published: 2026-06-03
-quality_score: 7.5
+quality_score: 8.6
 tags: 北海道渡輪, 鄂霍茨克海, 流冰, 北方領土, 根室
 license: CC BY 4.0
 ---

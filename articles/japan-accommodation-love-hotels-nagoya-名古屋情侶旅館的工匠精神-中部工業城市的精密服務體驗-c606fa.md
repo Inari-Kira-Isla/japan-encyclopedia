@@ -6,7 +6,7 @@ category: love-hotels
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-love-hotels-nagoya-名古屋情侶旅館的工匠精神-中部工業城市的精密服務體驗-c606fa.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 名古屋住宿, 情侶旅館, 商務住宿, 中部旅遊, 日本工業文化
 license: CC BY 4.0
 ---

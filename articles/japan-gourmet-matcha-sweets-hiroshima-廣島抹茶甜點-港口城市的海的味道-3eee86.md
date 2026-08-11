@@ -6,7 +6,7 @@ category: matcha-sweets
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-matcha-sweets-hiroshima-廣島抹茶甜點-港口城市的海的味道-3eee86.html
 published: 2026-06-02
-quality_score: 6.5
+quality_score: 8.9
 tags: 廣島美食, 抹茶甜點, 瀨戶內海, 港口城市, 牡蠣
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: ski-resorts
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-ski-resorts-hiroshima-廣島滑雪度假村-從關西出發的山嶽雪旅行動線-3e3c89.html
 published: 2026-05-22
-quality_score: 6.5
+quality_score: 8.6
 tags: 廣島滑雪場, 廣島縣滑雪, 三次市滑雪, 恐羅漢滑雪場, 三段峽溫泉滑雪
 license: CC BY 4.0
 ---

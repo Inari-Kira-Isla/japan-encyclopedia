@@ -6,7 +6,7 @@ category: karaoke
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-karaoke-okinawa-沖繩卡拉ok-跨文化的歌聲交匯廣場-353b1e.html
 published: 2026-06-21
-quality_score: 6.5
+quality_score: 8.2
 tags: 沖繩卡拉OK,  Okinawa卡拉OK, 美軍基地, 雙語歌單, 海島娛樂
 license: CC BY 4.0
 ---

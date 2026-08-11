@@ -6,7 +6,7 @@ category: shinkansen
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-tokyo-東京單車道漫遊-首都圈腳踏車生活提案-213db4.html
 published: 2026-06-08
-quality_score: 7.5
+quality_score: 8.7
 tags: 
 license: CC BY 4.0
 ---

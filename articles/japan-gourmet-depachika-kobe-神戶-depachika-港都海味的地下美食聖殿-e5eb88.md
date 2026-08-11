@@ -6,7 +6,7 @@ category: depachika
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-depachika-kobe-神戶-depachika-港都海味的地下美食聖殿-e5eb88.html
 published: 2026-06-30
-quality_score: 6.5
+quality_score: 8.8
 tags: 神戶美食, Depachika, 關西, 港都, 海鮮
 license: CC BY 4.0
 ---

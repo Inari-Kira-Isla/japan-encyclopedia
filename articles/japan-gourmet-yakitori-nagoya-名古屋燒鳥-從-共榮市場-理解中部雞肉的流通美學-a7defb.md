@@ -6,7 +6,7 @@ category: yakitori
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-yakitori-nagoya-名古屋燒鳥-從-共榮市場-理解中部雞肉的流通美學-a7defb.html
 published: 2026-05-22
-quality_score: 6.5
+quality_score: 8.5
 tags: 名古屋燒鳥, 日本燒烤, 中部美食, 愛知縣, 名古屋旅遊
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: sushi
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sushi-nagoya-名古屋壽司-超越-東京主流的在地滋味-bad589.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 8.5
 tags: 名古屋壽司, 日本美食, 在地美食, 迴轉壽司, 中部地方
 license: CC BY 4.0
 ---

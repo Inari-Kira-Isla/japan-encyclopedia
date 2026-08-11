@@ -6,7 +6,7 @@ category: island-hopping
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-island-hopping-tokyo-東京跳島慢旅-從都市節奏逃離到島嶼時間的質感生活-69945d.html
 published: 2026-07-05
-quality_score: 6.5
+quality_score: 8.5
 tags: 東京跳島, 東京 islands, 式根島, 小笠原群島, 神津島
 license: CC BY 4.0
 ---

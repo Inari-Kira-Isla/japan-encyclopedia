@@ -6,7 +6,7 @@ category: minshuku
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-okinawa-沖繩民宿-琉球工藝-住在職人創作現場合の住宿新美學-537001.html
 published: 2026-05-23
-quality_score: 6.5
+quality_score: 8.7
 tags: 沖繩民宿, 琉球工藝, minshuku, 石垣島, 沖繩自由行
 license: CC BY 4.0
 ---

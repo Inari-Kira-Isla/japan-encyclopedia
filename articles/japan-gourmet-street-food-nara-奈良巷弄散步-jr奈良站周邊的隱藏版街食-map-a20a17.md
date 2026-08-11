@@ -6,7 +6,7 @@ category: street-food
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-street-food-nara-奈良巷弄散步-jr奈良站周邊的隱藏版街食-map-a20a17.html
 published: 2026-04-07
-quality_score: 6.5
+quality_score: 8.7
 tags: 奈良, 街頭美食, 日本料理, 古都美食, 關西
 license: CC BY 4.0
 ---

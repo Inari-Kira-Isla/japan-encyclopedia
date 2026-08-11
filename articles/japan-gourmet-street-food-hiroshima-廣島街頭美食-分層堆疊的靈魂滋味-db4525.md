@@ -6,7 +6,7 @@ category: street-food
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-street-food-hiroshima-廣島街頭美食-分層堆疊的靈魂滋味-db4525.html
 published: 2026-03-23
-quality_score: 6.5
+quality_score: 8.6
 tags: 廣島街頭美食, 廣島燒, 日本御好燒, 牡蠣料理, 屋台文化
 license: CC BY 4.0
 ---

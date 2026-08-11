@@ -6,7 +6,7 @@ category: electronics
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-electronics-tokyo-東京專業影音裝置購物攻略-創作者與發燒友的朝聖地-ad196b.html
 published: 2026-06-12
-quality_score: 7.5
+quality_score: 8.6
 tags: 東京電子產品, 專業錄音設備, 高端耳機, 內容創作者, 影音器材
 license: CC BY 4.0
 ---

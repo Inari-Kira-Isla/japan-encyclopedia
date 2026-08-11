@@ -6,7 +6,7 @@ category: yakitori
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-yakitori-kanazawa-金澤燒鳥-加賀食材與地酒的完美搭配-0d20f3.html
 published: 2026-06-08
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤燒鳥, 加賀料理, 能登雞, 石川縣美食, 日本串燒
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: nature-trails
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-kyoto-京都步道四季指南-季節色彩中的修行之旅-727b84.html
 published: 2026-03-21
-quality_score: 6.5
+quality_score: 8.7
 tags: 京都, 自然步道, 四季體驗, 登山, 寺廟參道
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: sumo
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-nara-大阪隱藏版遊戲中心-巷弄裡的懷舊與個性店-ae1b16.html
 published: 2026-06-29
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪遊戲中心, 大阪自由行, 關西遊戲機廳, 大阪親子, 大阪懷舊
 license: CC BY 4.0
 ---

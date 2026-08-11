@@ -6,7 +6,7 @@ category: ferries
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-ferries-hiroshima-廣島渡輪美食航線-搭船吃遍瀨戶內海的海鮮之旅-bbff83.html
 published: 2026-06-04
-quality_score: 7.5
+quality_score: 8.6
 tags: 廣島渡輪, 瀨戶內海, 牡蠣美食, 宮島嚴島神社, 島嶼跳躍
 license: CC BY 4.0
 ---

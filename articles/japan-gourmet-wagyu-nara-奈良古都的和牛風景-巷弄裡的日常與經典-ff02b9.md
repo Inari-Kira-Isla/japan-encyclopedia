@@ -6,7 +6,7 @@ category: wagyu
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-wagyu-nara-奈良古都的和牛風景-巷弄裡的日常與經典-ff02b9.html
 published: 2026-06-15
-quality_score: 6.5
+quality_score: 8.6
 tags: 奈良和牛, 古都美食, 關西燒肉, 日本和牛, 奈良旅遊
 license: CC BY 4.0
 ---

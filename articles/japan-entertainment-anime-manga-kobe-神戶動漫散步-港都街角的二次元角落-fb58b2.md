@@ -6,7 +6,7 @@ category: anime-manga
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-kobe-神戶動漫散步-港都街角的二次元角落-fb58b2.html
 published: 2026-06-26
-quality_score: 6.5
+quality_score: 8.7
 tags: 神戶動漫, 神戶動漫店, 神戶二次元, 關西動漫, 神戶散步
 license: CC BY 4.0
 ---

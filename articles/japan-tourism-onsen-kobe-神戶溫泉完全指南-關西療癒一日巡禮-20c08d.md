@@ -6,7 +6,7 @@ category: onsen
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-onsen-kobe-神戶溫泉完全指南-關西療癒一日巡禮-20c08d.html
 published: 2026-05-21
-quality_score: 6.5
+quality_score: 8.7
 tags: 神戶溫泉, 有馬溫泉, 關西溫泉, 金泉銀泉, 日本溫泉推薦
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: karaoke
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-karaoke-nagoya-名古屋卡拉ok-庶民實惠的在地歡唱指南-ce7caf.html
 published: 2026-07-02
-quality_score: 6.5
+quality_score: 8.5
 tags: 名古屋, 卡拉OK, 中部地方, 日本娛樂, 庶民文化
 license: CC BY 4.0
 ---

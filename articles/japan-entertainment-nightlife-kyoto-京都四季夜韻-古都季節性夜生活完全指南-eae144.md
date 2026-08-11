@@ -6,7 +6,7 @@ category: nightlife
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-kyoto-京都四季夜韻-古都季節性夜生活完全指南-eae144.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 京都夜生活, 季節體驗, 川床料理, 夜櫻, 溫泉
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: yakitori
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-yakitori-okinawa-沖繩的燒鳥-旅遊時的美食選擇-d4dac6.html
 published: 2026-03-15
-quality_score: 6.5
+quality_score: 8.8
 tags: 沖繩美食, 燒鳥, 沖繩料理, 那霸美食, 日本旅遊
 license: CC BY 4.0
 ---

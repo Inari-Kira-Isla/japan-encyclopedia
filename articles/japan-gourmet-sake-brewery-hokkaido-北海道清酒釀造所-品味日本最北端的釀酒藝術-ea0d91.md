@@ -6,7 +6,7 @@ category: sake-brewery
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sake-brewery-hokkaido-北海道清酒釀造所-品味日本最北端的釀酒藝術-ea0d91.html
 published: 2026-03-20
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道, 清酒, 釀酒廠, 日本酒, 小樽
 license: CC BY 4.0
 ---

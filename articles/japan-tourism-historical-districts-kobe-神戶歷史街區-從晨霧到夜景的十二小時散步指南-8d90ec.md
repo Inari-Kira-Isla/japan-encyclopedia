@@ -6,7 +6,7 @@ category: historical-districts
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-kobe-神戶歷史街區-從晨霧到夜景的十二小時散步指南-8d90ec.html
 published: 2026-06-09
-quality_score: 6.5
+quality_score: 8.7
 tags: 神戶, 歷史街區, 北野異人館, 元町, 南京町
 license: CC BY 4.0
 ---

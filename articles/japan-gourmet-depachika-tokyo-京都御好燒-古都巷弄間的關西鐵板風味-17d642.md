@@ -6,7 +6,7 @@ category: depachika
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-depachika-tokyo-京都御好燒-古都巷弄間的關西鐵板風味-17d642.html
 published: 2026-06-16
-quality_score: 6.5
+quality_score: 8.6
 tags: 京都御好燒, 關西美食, 京都必吃, 鐵板料理, 京都旅遊
 license: CC BY 4.0
 ---

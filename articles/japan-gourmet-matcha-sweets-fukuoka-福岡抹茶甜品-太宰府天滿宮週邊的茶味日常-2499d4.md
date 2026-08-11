@@ -6,7 +6,7 @@ category: matcha-sweets
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-matcha-sweets-fukuoka-福岡抹茶甜品-太宰府天滿宮週邊的茶味日常-2499d4.html
 published: 2026-06-07
-quality_score: 6.5
+quality_score: 8.7
 tags: 福岡抹茶, 太宰府甜品, 八女茶, 久留米甜品, 九州抹茶
 license: CC BY 4.0
 ---

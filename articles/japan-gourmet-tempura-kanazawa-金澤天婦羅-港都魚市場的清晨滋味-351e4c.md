@@ -6,7 +6,7 @@ category: tempura
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tempura-kanazawa-金澤天婦羅-港都魚市場的清晨滋味-351e4c.html
 published: 2026-06-07
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤天婦羅, 加賀料理, 近江町市場, 日本海海鮮, 北路美食
 license: CC BY 4.0
 ---

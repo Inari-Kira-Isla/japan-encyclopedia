@@ -6,7 +6,7 @@ category: island-hopping
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-island-hopping-kanazawa-金澤跳島之旅-從加賀百萬石城下町航向日本海島嶼的文化小旅行-e15010.html
 published: 2026-06-11
-quality_score: 6.5
+quality_score: 8.6
 tags: 金澤跳島, 日本海島嶼, 能登半島, 輪島漆器, 佐渡島
 license: CC BY 4.0
 ---

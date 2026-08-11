@@ -6,7 +6,7 @@ category: nature-trails
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-hokkaido-北海道東部的野生動物觀察步道-濕原與海岸的生態攝影之路-afdbf8.html
 published: 2026-06-20
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道東部, 野生動物觀察, 濕原步道, 生態攝影, 釧路
 license: CC BY 4.0
 ---

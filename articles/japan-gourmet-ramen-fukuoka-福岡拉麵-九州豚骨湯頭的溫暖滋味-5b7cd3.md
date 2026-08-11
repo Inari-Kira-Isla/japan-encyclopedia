@@ -6,7 +6,7 @@ category: ramen
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-ramen-fukuoka-福岡拉麵-九州豚骨湯頭的溫暖滋味-5b7cd3.html
 published: 2026-03-23
-quality_score: 6.5
+quality_score: 8.5
 tags: 福岡, 博多拉麵, 豚骨湯, 屋台文化, 九州美食
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: temple-stays
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-temple-stays-hiroshima-廣島-祈福和平-寺廟住宿-從原爆記憶到禪意重生之旅-00d09f.html
 published: 2026-06-11
-quality_score: 6.5
+quality_score: 8.5
 tags: 廣島寺廟住宿, 和平之旅, 宮島住宿, 禪修體驗, 瀨戶內海
 license: CC BY 4.0
 ---

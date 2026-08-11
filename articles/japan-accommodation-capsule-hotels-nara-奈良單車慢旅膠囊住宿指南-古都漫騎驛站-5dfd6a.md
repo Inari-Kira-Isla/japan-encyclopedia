@@ -6,7 +6,7 @@ category: capsule-hotels
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-capsule-hotels-nara-奈良單車慢旅膠囊住宿指南-古都漫騎驛站-5dfd6a.html
 published: 2026-06-25
-quality_score: 6.5
+quality_score: 8.5
 tags: 奈良膠囊旅館, 奈良住宿, 單車旅行, 關西自助, 奈良古都
 license: CC BY 4.0
 ---

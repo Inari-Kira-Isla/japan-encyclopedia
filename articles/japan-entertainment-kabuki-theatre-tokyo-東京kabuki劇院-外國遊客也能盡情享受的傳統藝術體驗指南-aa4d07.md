@@ -6,7 +6,7 @@ category: kabuki-theatre
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-kabuki-theatre-tokyo-東京kabuki劇院-外國遊客也能盡情享受的傳統藝術體驗指南-aa4d07.html
 published: 2026-06-06
-quality_score: 6.5
+quality_score: 8.8
 tags: 東京Kabuki, 歌舞妓, 淺草座, 新宿座, 傳統表演藝術
 license: CC BY 4.0
 ---

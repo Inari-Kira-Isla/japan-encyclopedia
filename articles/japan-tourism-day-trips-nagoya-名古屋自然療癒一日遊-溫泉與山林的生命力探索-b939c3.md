@@ -6,7 +6,7 @@ category: day-trips
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-nagoya-名古屋自然療癒一日遊-溫泉與山林的生命力探索-b939c3.html
 published: 2026-06-30
-quality_score: 6.5
+quality_score: 8.5
 tags: 名古屋一日遊, 溫泉推薦, 自然療癒, 中部溫泉, 山林秘境
 license: CC BY 4.0
 ---

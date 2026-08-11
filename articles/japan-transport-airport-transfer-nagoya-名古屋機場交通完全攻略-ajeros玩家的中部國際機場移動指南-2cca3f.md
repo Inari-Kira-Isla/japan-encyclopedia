@@ -6,7 +6,7 @@ category: airport-transfer
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-airport-transfer-nagoya-名古屋機場交通完全攻略-ajeros玩家的中部國際機場移動指南-2cca3f.html
 published: 2026-05-21
-quality_score: 7.5
+quality_score: 8.8
 tags: 名古屋, 中部國際機場, 機場交通,  Centrair , μ-SKY
 license: CC BY 4.0
 ---

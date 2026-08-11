@@ -6,7 +6,7 @@ category: theme-parks
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-theme-parks-sendai-仙台室內娛樂達人指南-東北在地人的休日提案-1a3557.html
 published: 2026-06-15
-quality_score: 6.5
+quality_score: 8.7
 tags: 仙台娛樂, 仙台室內景點, 東北主題樂園, 日本溫泉, 仙台遊戲中心
 license: CC BY 4.0
 ---

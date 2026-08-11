@@ -6,7 +6,7 @@ category: matcha-sweets
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-matcha-sweets-nagoya-名古屋抹茶甜點-隱藏在港口城市裡的茶屋文化-34e066.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 8.9
 tags: 名古屋, 抹茶甜點, 日本美食, 中部地方, 茶屋
 license: CC BY 4.0
 ---

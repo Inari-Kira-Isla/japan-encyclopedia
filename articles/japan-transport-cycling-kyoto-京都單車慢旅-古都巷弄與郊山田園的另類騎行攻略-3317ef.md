@@ -6,7 +6,7 @@ category: cycling
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-kyoto-京都單車慢旅-古都巷弄與郊山田園的另類騎行攻略-3317ef.html
 published: 2026-07-06
-quality_score: 7.5
+quality_score: 8.7
 tags: 京都單車, 京都租車, 哲學之道, 伏見稻荷, 嵐山騎行
 license: CC BY 4.0
 ---

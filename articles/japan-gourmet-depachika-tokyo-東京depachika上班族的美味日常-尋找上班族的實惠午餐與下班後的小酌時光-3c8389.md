@@ -6,7 +6,7 @@ category: depachika
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-depachika-tokyo-東京depachika上班族的美味日常-尋找上班族的實惠午餐與下班後的小酌時光-3c8389.html
 published: 2026-07-04
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京Depachika, 日本地下美食, 東京午餐, 東京下班後, 東京通勤族
 license: CC BY 4.0
 ---

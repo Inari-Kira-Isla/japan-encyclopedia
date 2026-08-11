@@ -6,7 +6,7 @@ category: vr-experiences
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-vr-experiences-tokyo-東京vr體驗-從秋葉原到澀谷的虛擬實境娛樂地圖-46e716.html
 published: 2026-04-11
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京娛樂, VR體驗, 虛擬實境, 科技觀光, 遊戲中心
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: tonkatsu
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tonkatsu-tokyo-東京炸豬排-從西洋舶來品到庶民國民料理的百年演進-159d83.html
 published: 2026-04-04
-quality_score: 6.5
+quality_score: 9.0
 tags: 東京美食, 炸豬排, 老舖名店, 日式洋食, 銀座神保町
 license: CC BY 4.0
 ---

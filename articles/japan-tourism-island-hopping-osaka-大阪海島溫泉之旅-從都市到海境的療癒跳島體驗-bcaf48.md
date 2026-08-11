@@ -6,7 +6,7 @@ category: island-hopping
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-island-hopping-osaka-大阪海島溫泉之旅-從都市到海境的療癒跳島體驗-bcaf48.html
 published: 2026-03-27
-quality_score: 6.5
+quality_score: 8.6
 tags: 大阪, 跳島旅遊, 溫泉, 海島, 關西旅遊
 license: CC BY 4.0
 ---

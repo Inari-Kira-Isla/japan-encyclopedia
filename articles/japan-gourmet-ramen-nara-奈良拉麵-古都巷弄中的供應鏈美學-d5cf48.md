@@ -6,7 +6,7 @@ category: ramen
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-ramen-nara-奈良拉麵-古都巷弄中的供應鏈美學-d5cf48.html
 published: 2026-06-11
-quality_score: 6.5
+quality_score: 8.6
 tags: 奈良拉麵, 供應鏈視角, 古都美食, 日本拉麵, 在地食材
 license: CC BY 4.0
 ---

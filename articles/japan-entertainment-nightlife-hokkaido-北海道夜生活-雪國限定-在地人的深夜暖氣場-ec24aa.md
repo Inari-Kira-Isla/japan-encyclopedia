@@ -6,7 +6,7 @@ category: nightlife
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-hokkaido-北海道夜生活-雪國限定-在地人的深夜暖氣場-ec24aa.html
 published: 2026-06-19
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道夜生活, 札幌, 薄野, 爐端燒, 立飲店
 license: CC BY 4.0
 ---

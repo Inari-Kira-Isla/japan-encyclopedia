@@ -6,7 +6,7 @@ category: scenic-routes
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-kobe-神戶巷弄深度散步-從北野異國風到南京町的百年物語之路-c1ef22.html
 published: 2026-06-30
-quality_score: 6.5
+quality_score: 8.8
 tags: 神戶散步, 北野異國建築, 南京町中華街, 元町商圈, 神戶自由行
 license: CC BY 4.0
 ---

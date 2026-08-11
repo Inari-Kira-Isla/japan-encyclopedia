@@ -6,7 +6,7 @@ category: wagyu
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-wagyu-osaka-大阪和牛深度指南-從內臟到稀少部位-關西燒肉文化的精髓解析-7273f2.html
 published: 2026-06-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪和牛, 關西燒肉, 大阪美食, 日本和牛, 內臟料理
 license: CC BY 4.0
 ---

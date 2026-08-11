@@ -6,7 +6,7 @@ category: love-hotels
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-love-hotels-tokyo-東京情侶旅館科技體驗-智慧設施與未來住宿趨勢-1b4545.html
 published: 2026-04-04
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京住宿, 情侶旅館, 科技旅館, 智能設施, 日本文化
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: metro-systems
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-fukuoka-福岡地下鐵的日常觀察學-從駅ホーム看見的城市生活-a876f0.html
 published: 2026-06-04
-quality_score: 7.5
+quality_score: 8.7
 tags: 福岡地下鐵, 福岡交通, 九州旅行, 地下鐵系統, 福崗MRT
 license: CC BY 4.0
 ---

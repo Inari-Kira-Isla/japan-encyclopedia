@@ -6,7 +6,7 @@ category: regional-travel
 area: japan
 url: https://japan-encyclopedia.vercel.app/articles/japan-attractions-regional-travel-福岡和九州完整旅遊指南2026-博多拉麵-太宰府-別府溫泉-九州旅遊費用-jpy-攻略-jp-2103d9.html
 published: 2026-03-29
-quality_score: 7.6
+quality_score: 8.6
 tags: 福岡旅遊, 博多拉麵, 別府溫泉, 由布院, 九州旅遊
 license: CC BY 4.0
 ---

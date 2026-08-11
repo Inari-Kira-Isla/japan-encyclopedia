@@ -6,7 +6,7 @@ category: theme-parks
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-theme-parks-fukuoka-福岡娛樂設施與主題樂園-九州門戶的多元休閒體驗-91a995.html
 published: 2026-05-23
-quality_score: 6.5
+quality_score: 8.6
 tags: 福岡主題樂園, 福岡娛樂設施, 福岡遊戲中心, 九州親子遊, 福岡密室逃脫
 license: CC BY 4.0
 ---

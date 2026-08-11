@@ -6,7 +6,7 @@ category: business-hotels
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-business-hotels-kyoto-京都商務酒店-工作效率與文化體驗兼顧的出差住宿策略-ae5ff2.html
 published: 2026-06-07
-quality_score: 6.5
+quality_score: 8.6
 tags: 京都, 商務酒店, 出差住宿, 日本商務旅行, 關西商務飯店
 license: CC BY 4.0
 ---

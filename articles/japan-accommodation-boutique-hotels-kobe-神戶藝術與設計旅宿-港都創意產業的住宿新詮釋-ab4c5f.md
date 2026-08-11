@@ -6,7 +6,7 @@ category: boutique-hotels
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-kobe-神戶藝術與設計旅宿-港都創意產業的住宿新詮釋-ab4c5f.html
 published: 2026-06-29
-quality_score: 6.5
+quality_score: 8.7
 tags: 神戶精品酒店, 設計旅宿, 藝術住宿, 港都住宿, 神戶旅遊
 license: CC BY 4.0
 ---

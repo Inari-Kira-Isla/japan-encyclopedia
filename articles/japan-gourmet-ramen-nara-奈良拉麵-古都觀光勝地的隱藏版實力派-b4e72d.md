@@ -6,7 +6,7 @@ category: ramen
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-ramen-nara-奈良拉麵-古都觀光勝地的隱藏版實力派-b4e72d.html
 published: 2026-06-05
-quality_score: 6.5
+quality_score: 8.6
 tags: 奈良拉麵, 關西拉麵, 日本拉麵, 奈良美食, 平價拉麵
 license: CC BY 4.0
 ---

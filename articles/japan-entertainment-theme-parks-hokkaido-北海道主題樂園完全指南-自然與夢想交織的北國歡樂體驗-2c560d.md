@@ -6,7 +6,7 @@ category: theme-parks
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-theme-parks-hokkaido-北海道主題樂園完全指南-自然與夢想交織的北國歡樂體驗-2c560d.html
 published: 2026-03-21
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道, 主題樂園, 札幌, 登別, 旭川
 license: CC BY 4.0
 ---

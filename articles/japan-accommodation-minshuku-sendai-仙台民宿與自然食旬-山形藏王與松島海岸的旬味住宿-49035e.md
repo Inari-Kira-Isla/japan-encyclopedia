@@ -6,7 +6,7 @@ category: minshuku
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-sendai-仙台民宿與自然食旬-山形藏王與松島海岸的旬味住宿-49035e.html
 published: 2026-05-24
-quality_score: 6.5
+quality_score: 8.7
 tags: 仙台民宿, 松島海岸, 藏王溫泉, 山寺溫泉, 山形溫泉
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: tempura
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tempura-tokyo-東京天婦羅-季節感的極致追求-從春季海老到冬季鰤的旬味之旅-f7acae.html
 published: 2026-06-10
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京天婦羅, 季節食材, 江戸前天婦羅, 人形町美食, 東京美食推薦
 license: CC BY 4.0
 ---

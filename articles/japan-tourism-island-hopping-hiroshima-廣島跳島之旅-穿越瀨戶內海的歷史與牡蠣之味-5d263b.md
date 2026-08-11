@@ -6,7 +6,7 @@ category: island-hopping
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-island-hopping-hiroshima-廣島跳島之旅-穿越瀨戶內海的歷史與牡蠣之味-5d263b.html
 published: 2026-06-02
-quality_score: 6.5
+quality_score: 8.6
 tags: 瀨戶內海, 廣島自由行, 宮島跳島, 海上大鳥居, 日本島嶼旅行
 license: CC BY 4.0
 ---

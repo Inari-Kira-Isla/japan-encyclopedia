@@ -6,7 +6,7 @@ category: anime-manga
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-kanazawa-金澤動漫工藝之旅-傳統金箔技法與次文化的創意交集-08d7ad.html
 published: 2026-05-24
-quality_score: 6.5
+quality_score: 8.2
 tags: 金澤動漫, 金澤工藝, 金澤金箔, 日本動漫周邊, 石川縣旅遊
 license: CC BY 4.0
 ---

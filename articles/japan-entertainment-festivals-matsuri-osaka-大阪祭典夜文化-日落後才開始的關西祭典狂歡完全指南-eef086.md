@@ -6,7 +6,7 @@ category: festivals-matsuri
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-festivals-matsuri-osaka-大阪祭典夜文化-日落後才開始的關西祭典狂歡完全指南-eef086.html
 published: 2026-06-21
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪祭典, 天神祭, 屋臺文化, 日本夏日祭典, 關西祭典
 license: CC BY 4.0
 ---

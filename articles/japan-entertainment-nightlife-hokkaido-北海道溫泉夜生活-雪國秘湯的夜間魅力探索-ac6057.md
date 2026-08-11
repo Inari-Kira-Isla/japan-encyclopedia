@@ -6,7 +6,7 @@ category: nightlife
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-hokkaido-北海道溫泉夜生活-雪國秘湯的夜間魅力探索-ac6057.html
 published: 2026-03-24
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道夜生活, 溫泉之旅, 登別溫泉, 洞爺湖, 札幌溫泉
 license: CC BY 4.0
 ---

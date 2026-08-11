@@ -6,7 +6,7 @@ category: craft-markets
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-craft-markets-nagoya-名古屋工藝市集投資指南-傳統技法與現代價值的完美平衡-3eb0e9.html
 published: 2026-04-04
-quality_score: 7.5
+quality_score: 8.8
 tags: 名古屋購物, 日本工藝, 傳統手作, 收藏投資, 瀨戶燒
 license: CC BY 4.0
 ---

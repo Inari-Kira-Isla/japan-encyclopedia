@@ -6,7 +6,7 @@ category: craft-markets
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-craft-markets-osaka-大阪創意市集散步-在地創作人的秘密據點-3cdf4d.html
 published: 2026-05-25
-quality_score: 7.5
+quality_score: 8.6
 tags: 大阪工藝市集, 大阪手作, 關西山系市集, 創意市集推薦, 大阪自由行
 license: CC BY 4.0
 ---

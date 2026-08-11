@@ -6,7 +6,7 @@ category: ferries
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-ferries-tokyo-東京水上交通全攻略-從東京港出發的渡輪與郵輪體驗-90aefe.html
 published: 2026-06-19
-quality_score: 7.5
+quality_score: 8.5
 tags: 東京, 水上交通, 渡輪, 郵輪, 東京灣
 license: CC BY 4.0
 ---

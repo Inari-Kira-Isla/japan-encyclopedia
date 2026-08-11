@@ -6,7 +6,7 @@ category: cycling
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-nara-奈良單車深度遊-晨騎古都與秘境探索的完全指南-ddc1de.html
 published: 2026-07-06
-quality_score: 7.5
+quality_score: 8.7
 tags: 奈良單車, 奈良骑行, 奈良秘境, 古都慢旅, 晨騎體驗
 license: CC BY 4.0
 ---

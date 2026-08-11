@@ -6,7 +6,7 @@ category: capsule-hotels
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-capsule-hotels-hokkaido-北海道膠囊旅館鐵道之旅-作為溫泉區樞紐的住宿選擇指南-4b8e6e.html
 published: 2026-06-22
-quality_score: 6.5
+quality_score: 8.6
 tags: 北海道膠囊旅館, 札幌住宿, 北海道鐵道旅行, 登別溫泉, 日本溫泉之旅
 license: CC BY 4.0
 ---

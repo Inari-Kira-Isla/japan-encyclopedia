@@ -6,7 +6,7 @@ category: shinkansen
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-kobe-神戶新幹線商務樞紐-國際港都的高效通勤網路-7b02ef.html
 published: 2026-04-06
-quality_score: 7.5
+quality_score: 8.6
 tags: 神戶新幹線, 商務旅行, 交通樞紐, 企業通勤, 國際港都
 license: CC BY 4.0
 ---

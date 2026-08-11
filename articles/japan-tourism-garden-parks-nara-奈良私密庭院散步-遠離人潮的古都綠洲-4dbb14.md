@@ -6,7 +6,7 @@ category: garden-parks
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-nara-奈良私密庭院散步-遠離人潮的古都綠洲-4dbb14.html
 published: 2026-06-12
-quality_score: 6.5
+quality_score: 8.7
 tags: 奈良庭院, 日式花園, 古都散步, 私密景點, 非觀光
 license: CC BY 4.0
 ---

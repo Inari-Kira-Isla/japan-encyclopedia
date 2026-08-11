@@ -6,7 +6,7 @@ category: rental-cars
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-sendai-仙台租車自駕遊-放射狀路線規劃大解析-暢遊東北美食之都-b07648.html
 published: 2026-06-14
-quality_score: 7.5
+quality_score: 8.7
 tags: 仙台租車, 東北自駕遊, 日本三景松島, 鹽竈牡蠣, 氣仙沼海鮮
 license: CC BY 4.0
 ---

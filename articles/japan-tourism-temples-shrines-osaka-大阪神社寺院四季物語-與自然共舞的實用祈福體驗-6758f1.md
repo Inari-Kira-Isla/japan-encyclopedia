@@ -6,7 +6,7 @@ category: temples-shrines
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-temples-shrines-osaka-大阪神社寺院四季物語-與自然共舞的實用祈福體驗-6758f1.html
 published: 2026-06-30
-quality_score: 6.5
+quality_score: 8.6
 tags: 大阪神社, 大阪寺院, 大阪參拜, 大阪四季, 大阪旅遊
 license: CC BY 4.0
 ---

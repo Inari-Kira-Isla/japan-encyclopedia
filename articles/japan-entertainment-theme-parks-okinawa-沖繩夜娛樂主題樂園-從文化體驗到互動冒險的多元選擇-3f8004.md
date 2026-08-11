@@ -6,7 +6,7 @@ category: theme-parks
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-theme-parks-okinawa-沖繩夜娛樂主題樂園-從文化體驗到互動冒險的多元選擇-3f8004.html
 published: 2026-06-13
-quality_score: 6.5
+quality_score: 8.6
 tags: 沖繩主題樂園, 琉球文化體驗, 沖繩親子遊, 沖繩夜娛樂, 亞熱帶主題樂園
 license: CC BY 4.0
 ---

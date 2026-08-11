@@ -6,7 +6,7 @@ category: anime-manga
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-kyoto-京都動漫聖地巡禮-動漫故事的發生地輕旅行-e5a5f9.html
 published: 2026-05-23
-quality_score: 6.5
+quality_score: 8.9
 tags: 京都動漫, 聖地巡禮, 動漫取景地, 京都旅行, 動漫粉絲
 license: CC BY 4.0
 ---

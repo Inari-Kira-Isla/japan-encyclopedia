@@ -6,7 +6,7 @@ category: minshuku
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-sendai-仙台民宿美食指南-和牛舌-當地名酒與暖爐桌的東北味覺旅宿-b47f0e.html
 published: 2026-06-18
-quality_score: 6.5
+quality_score: 8.6
 tags: 仙台民宿, 牛舌, 東北美食, 溫泉住宿, 味覺之旅
 license: CC BY 4.0
 ---

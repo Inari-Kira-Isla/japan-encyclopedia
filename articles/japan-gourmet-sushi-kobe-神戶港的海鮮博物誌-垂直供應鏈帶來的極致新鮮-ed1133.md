@@ -6,7 +6,7 @@ category: sushi
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sushi-kobe-神戶港的海鮮博物誌-垂直供應鏈帶來的極致新鮮-ed1133.html
 published: 2026-03-24
-quality_score: 6.5
+quality_score: 8.8
 tags: 日本美食, 神戶壽司, 季節食材, 海鮮供應鏈, 兵庫縣
 license: CC BY 4.0
 ---

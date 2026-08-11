@@ -6,7 +6,7 @@ category: buses
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-buses-tokyo-東京巴士完整攻略-都市交通的便利選擇-6ef840.html
 published: 2026-03-15
-quality_score: 7.5
+quality_score: 8.7
 tags: 東京交通, 都營巴士, 日本旅遊, 公共運輸, 觀光巴士
 license: CC BY 4.0
 ---

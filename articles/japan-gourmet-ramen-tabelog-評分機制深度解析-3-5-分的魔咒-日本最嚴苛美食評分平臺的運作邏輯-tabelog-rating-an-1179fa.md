@@ -6,7 +6,7 @@ category: ramen
 area: japan
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-ramen-tabelog-評分機制深度解析-3-5-分的魔咒-日本最嚴苛美食評分平臺的運作邏輯-tabelog-rating-an-1179fa.html
 published: 2026-03-28
-quality_score: 7.6
+quality_score: 8.3
 tags: Tabelog, 日本美食評分, 食べログ, 日本餐廳, 美食平台
 license: CC BY 4.0
 ---

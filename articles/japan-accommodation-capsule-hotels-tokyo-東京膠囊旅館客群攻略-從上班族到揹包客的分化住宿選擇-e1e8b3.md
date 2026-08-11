@@ -6,7 +6,7 @@ category: capsule-hotels
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-capsule-hotels-tokyo-東京膠囊旅館客群攻略-從上班族到揹包客的分化住宿選擇-e1e8b3.html
 published: 2026-03-23
-quality_score: 6.5
+quality_score: 8.4
 tags: 東京住宿, 膠囊旅館, 經濟住宿, 背包客, 女性旅遊
 license: CC BY 4.0
 ---

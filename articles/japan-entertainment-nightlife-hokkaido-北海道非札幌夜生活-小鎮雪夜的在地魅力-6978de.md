@@ -6,7 +6,7 @@ category: nightlife
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-hokkaido-北海道非札幌夜生活-小鎮雪夜的在地魅力-6978de.html
 published: 2026-05-22
-quality_score: 6.5
+quality_score: 8.5
 tags: 北海道夜生活, 非札幌, 函館, 釧路, 旭川
 license: CC BY 4.0
 ---

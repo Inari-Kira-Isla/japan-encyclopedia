@@ -6,7 +6,7 @@ category: vr-experiences
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-vr-experiences-kanazawa-金澤親子vr遊戲指南-古城裡的科技樂園-家庭同樂的虛擬實境體驗-bef08b.html
 published: 2026-06-10
-quality_score: 6.5
+quality_score: 8.5
 tags: 金澤VR, 家庭親子, 日本遊戲中心, 金澤旅遊, 石川縣娛樂
 license: CC BY 4.0
 ---

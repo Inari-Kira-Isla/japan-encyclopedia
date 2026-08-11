@@ -6,7 +6,7 @@ category: craft-markets
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-craft-markets-kobe-神戶異人館周邊手作市集-北野散步道上的異國工藝寶藏-28f537.html
 published: 2026-06-20
-quality_score: 7.5
+quality_score: 8.5
 tags: 神戶手作市集, 神戶工藝, 北野異人館, 神戶購物, 神戶自由行
 license: CC BY 4.0
 ---

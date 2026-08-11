@@ -6,7 +6,7 @@ category: temples-shrines
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-temples-shrines-tokyo-東京寺廟神社四季參拜指南-跟著日本人的節慶節奏探訪神聖空間-d41909.html
 published: 2026-03-27
-quality_score: 6.5
+quality_score: 8.6
 tags: 東京神社, 寺廟參拜, 季節祭典, 日本文化體驗, 宗教觀光
 license: CC BY 4.0
 ---

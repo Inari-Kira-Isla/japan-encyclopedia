@@ -6,7 +6,7 @@ category: historical-districts
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-hiroshima-廣島歷史街區-巷弄裡的昭和風景與新生物語-0b0d1d.html
 published: 2026-06-15
-quality_score: 6.5
+quality_score: 8.6
 tags: 廣島, 歷史街區, 昭和, 產業遺產, 和平
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: ski-resorts
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-ski-resorts-hokkaido-北海道滑雪秘境-在地人推薦的小型滑雪場與粉雪寶藏-b8e189.html
 published: 2026-06-06
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道滑雪, 小型滑雪場, 日本滑雪推薦, 粉雪天堂, 在地滑雪體驗
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: festivals-matsuri
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-festivals-matsuri-kyoto-京都祭典當地人體驗-跟著本地人參加祇園祭的私房攻略-8c4bab.html
 published: 2026-05-24
-quality_score: 6.5
+quality_score: 8.5
 tags: 京都祭典, 祇園祭, 日本夏日祭典, 京都自由行, 深度旅游
 license: CC BY 4.0
 ---

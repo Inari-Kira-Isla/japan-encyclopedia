@@ -6,7 +6,7 @@ category: buses
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-buses-nara-奈良巴士完全指南-深入古都的生活交通美學-3fce46.html
 published: 2026-07-05
-quality_score: 7.5
+quality_score: 8.7
 tags: 奈良, 巴士, 交通, 日本自助旅行, 古都
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: ferries
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-ferries-hiroshima-廣島水上交通-當地人的日常渡輪與隱藏航線-093df2.html
 published: 2026-06-02
-quality_score: 7.5
+quality_score: 8.2
 tags: 廣島渡輪, 瀨戶內海, 地方交通, 日本自助旅行, 隱藏景點
 license: CC BY 4.0
 ---

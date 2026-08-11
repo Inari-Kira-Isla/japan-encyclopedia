@@ -6,7 +6,7 @@ category: craft-markets
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-craft-markets-hokkaido-北海道限定手工藝市集-雪國冬季創意盛的划算攻略-bb2bee.html
 published: 2026-05-25
-quality_score: 7.5
+quality_score: 8.7
 tags: 北海道市集,  手作小旅行, 北海道冬季, 札幌手工艺, 小樽手作
 license: CC BY 4.0
 ---

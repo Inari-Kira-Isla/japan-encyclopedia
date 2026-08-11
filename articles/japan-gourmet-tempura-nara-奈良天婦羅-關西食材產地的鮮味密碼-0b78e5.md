@@ -6,7 +6,7 @@ category: tempura
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tempura-nara-奈良天婦羅-關西食材產地的鮮味密碼-0b78e5.html
 published: 2026-06-18
-quality_score: 6.5
+quality_score: 8.7
 tags: 奈良天婦羅, 關西美食, 食材履歷, 大和高原, 奈良旅遊
 license: CC BY 4.0
 ---

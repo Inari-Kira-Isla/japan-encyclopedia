@@ -6,7 +6,7 @@ category: festivals-matsuri
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-festivals-matsuri-nara-奈良深夜祭典散步-跟著當地人走進古都的夜色祭儀-9fa264.html
 published: 2026-06-17
-quality_score: 6.5
+quality_score: 8.3
 tags: 奈良祭典, 古都祭祀, 深夜祭典, 日本文化體驗, 春日大社
 license: CC BY 4.0
 ---

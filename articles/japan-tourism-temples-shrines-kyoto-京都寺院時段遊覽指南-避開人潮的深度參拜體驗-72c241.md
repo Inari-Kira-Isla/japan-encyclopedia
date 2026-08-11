@@ -6,7 +6,7 @@ category: temples-shrines
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-temples-shrines-kyoto-京都寺院時段遊覽指南-避開人潮的深度參拜體驗-72c241.html
 published: 2026-06-06
-quality_score: 6.5
+quality_score: 8.7
 tags: 京都寺院, 神社寺廟, 日本宗教, 京都旅遊, 古都巡禮
 license: CC BY 4.0
 ---

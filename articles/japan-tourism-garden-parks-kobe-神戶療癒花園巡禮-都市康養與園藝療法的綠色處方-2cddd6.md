@@ -6,7 +6,7 @@ category: garden-parks
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-kobe-神戶療癒花園巡禮-都市康養與園藝療法的綠色處方-2cddd6.html
 published: 2026-04-06
-quality_score: 6.5
+quality_score: 8.8
 tags: 神戶, 療癒花園, 園藝療法, 都市康養, 森林浴
 license: CC BY 4.0
 ---

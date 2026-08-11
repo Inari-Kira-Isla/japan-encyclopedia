@@ -6,7 +6,7 @@ category: wagyu
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-wagyu-okinawa-沖繩和牛-亞熱帶牧場淬鍊的極品肉味的日常指南-2ec232.html
 published: 2026-06-30
-quality_score: 6.5
+quality_score: 8.8
 tags: 沖繩和牛, 琉球和牛, 石垣牛, 日本和牛, 沖繩美食
 license: CC BY 4.0
 ---

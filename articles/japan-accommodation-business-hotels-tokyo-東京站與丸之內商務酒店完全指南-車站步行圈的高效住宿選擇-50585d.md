@@ -6,7 +6,7 @@ category: business-hotels
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-business-hotels-tokyo-東京站與丸之內商務酒店完全指南-車站步行圈的高效住宿選擇-50585d.html
 published: 2026-07-03
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京商務酒店, 東京站住宿, 丸之內商務住宿, 商務旅行, 日本商務酒店
 license: CC BY 4.0
 ---

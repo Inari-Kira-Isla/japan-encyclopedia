@@ -6,7 +6,7 @@ category: jr-pass
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-jr-pass-hokkaido-北海道jr-pass窗景美學-從車窗看見日本最北鐵道的四季風光-a02463.html
 published: 2026-06-19
-quality_score: 7.5
+quality_score: 8.6
 tags: 北海道, JR Pass, 鐵道旅行, 窗景, 北海道鐵道
 license: CC BY 4.0
 ---

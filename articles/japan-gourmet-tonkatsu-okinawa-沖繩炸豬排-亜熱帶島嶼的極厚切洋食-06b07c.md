@@ -6,7 +6,7 @@ category: tonkatsu
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tonkatsu-okinawa-沖繩炸豬排-亜熱帶島嶼的極厚切洋食-06b07c.html
 published: 2026-05-23
-quality_score: 6.5
+quality_score: 8.8
 tags: 沖繩美食, Tonkatsu, 炸豬排, 亞熱帶, Agu豬
 license: CC BY 4.0
 ---

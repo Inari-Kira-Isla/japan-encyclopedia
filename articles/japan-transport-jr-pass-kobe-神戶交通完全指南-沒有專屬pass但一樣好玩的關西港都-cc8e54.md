@@ -6,7 +6,7 @@ category: jr-pass
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-jr-pass-kobe-神戶交通完全指南-沒有專屬pass但一樣好玩的關西港都-cc8e54.html
 published: 2026-06-30
-quality_score: 7.5
+quality_score: 8.6
 tags: 神戶交通, 關西JR Pass, 神戶景點, 北野異人館, 六甲山夜景
 license: CC BY 4.0
 ---

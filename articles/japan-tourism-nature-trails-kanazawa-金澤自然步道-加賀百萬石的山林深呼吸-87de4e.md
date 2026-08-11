@@ -6,7 +6,7 @@ category: nature-trails
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-kanazawa-金澤自然步道-加賀百萬石的山林深呼吸-87de4e.html
 published: 2026-06-15
-quality_score: 6.5
+quality_score: 8.8
 tags: 金澤自然步道, 石川縣登山, 加賀百萬石, 日本海海岸, 卯辰山公園
 license: CC BY 4.0
 ---

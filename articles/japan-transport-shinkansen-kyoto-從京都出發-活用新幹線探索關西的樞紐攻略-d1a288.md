@@ -6,7 +6,7 @@ category: shinkansen
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-kyoto-從京都出發-活用新幹線探索關西的樞紐攻略-d1a288.html
 published: 2026-06-03
-quality_score: 7.5
+quality_score: 8.9
 tags: 京都, 新干线, 关西, 交通枢纽, 日本旅行
 license: CC BY 4.0
 ---

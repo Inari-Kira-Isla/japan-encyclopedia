@@ -6,7 +6,7 @@ category: souvenir-omiyage
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-souvenir-omiyage-okinawa-沖繩伴手禮世代攻略-從年輕潮流到銀髮品味的完整購物指南-36fa4a.html
 published: 2026-04-01
-quality_score: 7.5
+quality_score: 8.8
 tags: 沖繩購物, 伴手禮, 世代消費, 琉球文化, 跨齡贈禮
 license: CC BY 4.0
 ---

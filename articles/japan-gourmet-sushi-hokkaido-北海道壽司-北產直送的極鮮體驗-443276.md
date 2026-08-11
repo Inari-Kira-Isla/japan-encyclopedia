@@ -6,7 +6,7 @@ category: sushi
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sushi-hokkaido-北海道壽司-北產直送的極鮮體驗-443276.html
 published: 2026-06-14
-quality_score: 6.5
+quality_score: 8.5
 tags: 北海道壽司, 北海道美食, 札幌壽司, 小樽壽司, 函館壽司
 license: CC BY 4.0
 ---

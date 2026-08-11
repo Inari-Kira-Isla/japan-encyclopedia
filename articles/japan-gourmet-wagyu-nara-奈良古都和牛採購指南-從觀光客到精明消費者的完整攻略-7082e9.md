@@ -6,7 +6,7 @@ category: wagyu
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-wagyu-nara-奈良古都和牛採購指南-從觀光客到精明消費者的完整攻略-7082e9.html
 published: 2026-03-28
-quality_score: 6.5
+quality_score: 8.8
 tags: 奈良美食, 和牛採購, 關西旅遊, 美食攻略, 性價比
 license: CC BY 4.0
 ---

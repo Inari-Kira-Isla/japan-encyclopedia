@@ -6,7 +6,7 @@ category: craft-markets
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-craft-markets-kanazawa-金澤工藝市場季節限定-guide-跟隨四季節奏的手作尋寶攻略-e6b2c0.html
 published: 2026-05-21
-quality_score: 7.5
+quality_score: 7.8
 tags: 金澤, 工藝市場, 手作市集, 加賀百萬石, 金澤箔
 license: CC BY 4.0
 ---

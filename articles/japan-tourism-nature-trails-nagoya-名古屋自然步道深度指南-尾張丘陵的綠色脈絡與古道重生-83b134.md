@@ -6,7 +6,7 @@ category: nature-trails
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-nagoya-名古屋自然步道深度指南-尾張丘陵的綠色脈絡與古道重生-83b134.html
 published: 2026-04-07
-quality_score: 6.5
+quality_score: 8.8
 tags: 名古屋, 自然步道, 古道, 健行, 能量景點
 license: CC BY 4.0
 ---

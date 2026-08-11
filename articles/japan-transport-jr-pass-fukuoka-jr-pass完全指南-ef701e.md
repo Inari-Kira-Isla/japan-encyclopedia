@@ -6,7 +6,7 @@ category: jr-pass
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-jr-pass-fukuoka-jr-pass完全指南-ef701e.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 7.1
 tags: jr_pass, 日本鐵路, 周遊券, 自助旅行
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: rental-cars
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-nagoya-名古屋租車自駕遊-中部日本山海道路的秘境探索-c4a8ee.html
 published: 2026-06-30
-quality_score: 7.5
+quality_score: 7.8
 tags: 名古屋租車, 中部日本自駕, 日本公路旅行, 名古屋周邊景點, 奧奧比道路
 license: CC BY 4.0
 ---

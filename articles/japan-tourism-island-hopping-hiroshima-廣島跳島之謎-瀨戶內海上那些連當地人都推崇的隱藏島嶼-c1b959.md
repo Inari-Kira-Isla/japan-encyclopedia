@@ -6,7 +6,7 @@ category: island-hopping
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-island-hopping-hiroshima-廣島跳島之謎-瀨戶內海上那些連當地人都推崇的隱藏島嶼-c1b959.html
 published: 2026-05-23
-quality_score: 6.5
+quality_score: 8.5
 tags: 廣島跳島, 瀨戶內海, 尾道, 藝術跳島, 島嶼旅遊
 license: CC BY 4.0
 ---

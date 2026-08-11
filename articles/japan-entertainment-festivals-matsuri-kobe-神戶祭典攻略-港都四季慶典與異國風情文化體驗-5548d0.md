@@ -6,7 +6,7 @@ category: festivals-matsuri
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-festivals-matsuri-kobe-神戶祭典攻略-港都四季慶典與異國風情文化體驗-5548d0.html
 published: 2026-03-20
-quality_score: 6.5
+quality_score: 8.7
 tags: 神戶祭典, 日本節慶, 港都文化, 異國風情, 神戶牛
 license: CC BY 4.0
 ---

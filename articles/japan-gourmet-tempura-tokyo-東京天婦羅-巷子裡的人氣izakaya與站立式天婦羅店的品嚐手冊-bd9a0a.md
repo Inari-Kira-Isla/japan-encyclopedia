@@ -6,7 +6,7 @@ category: tempura
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tempura-tokyo-東京天婦羅-巷子裡的人氣izakaya與站立式天婦羅店的品嚐手冊-bd9a0a.html
 published: 2026-06-03
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京天婦羅, 下北澤美食, 人形町天婦羅, 新橋站立式, 月島美食
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: nightlife
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-nara-奈良夜生活-從夕陽到星夜的古城物語-454705.html
 published: 2026-06-13
-quality_score: 6.5
+quality_score: 8.5
 tags: 奈良夜生活, 古城慢旅, 日本深度遊, 奈良美食, 夜遊日本
 license: CC BY 4.0
 ---

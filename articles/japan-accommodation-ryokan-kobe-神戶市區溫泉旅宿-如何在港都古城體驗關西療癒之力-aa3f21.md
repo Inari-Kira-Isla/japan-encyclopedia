@@ -6,7 +6,7 @@ category: ryokan
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-kobe-神戶市區溫泉旅宿-如何在港都古城體驗關西療癒之力-aa3f21.html
 published: 2026-06-19
-quality_score: 6.5
+quality_score: 8.6
 tags: 神戶 Ryokan, 神戶溫泉, 神戶住宿, 關西溫泉, 有馬溫泉
 license: CC BY 4.0
 ---

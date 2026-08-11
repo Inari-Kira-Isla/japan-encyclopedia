@@ -6,7 +6,7 @@ category: escape-rooms
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-escape-rooms-sendai-仙台密室逃脫親子攻略-帶小孩體驗東北智慧冒險-fe50b2.html
 published: 2026-05-21
-quality_score: 6.5
+quality_score: 8.7
 tags: 仙台, 密室逃脫, 親子旅遊, 東北自由行, 家庭娛樂
 license: CC BY 4.0
 ---

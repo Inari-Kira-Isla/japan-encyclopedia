@@ -6,7 +6,7 @@ category: minshuku
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-osaka-大阪民宿完全指南-千元預算的巷弄探險與城市漫遊-ef916c.html
 published: 2026-06-20
-quality_score: 6.5
+quality_score: 8.6
 tags: 大阪民宿, 大阪住宿, 關西自由行, Budget Travel, 日本背包客
 license: CC BY 4.0
 ---

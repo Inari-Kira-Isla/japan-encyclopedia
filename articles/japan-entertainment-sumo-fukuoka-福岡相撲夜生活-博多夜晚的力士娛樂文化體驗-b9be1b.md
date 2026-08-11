@@ -6,7 +6,7 @@ category: sumo
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-fukuoka-福岡相撲夜生活-博多夜晚的力士娛樂文化體驗-b9be1b.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 福岡夜生活, 相撲娛樂, 博多文化, 九州旅遊, 日式居酒屋
 license: CC BY 4.0
 ---

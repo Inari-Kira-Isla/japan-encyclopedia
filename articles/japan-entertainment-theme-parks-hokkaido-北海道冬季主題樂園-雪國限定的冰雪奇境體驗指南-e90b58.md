@@ -6,7 +6,7 @@ category: theme-parks
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-theme-parks-hokkaido-北海道冬季主題樂園-雪國限定的冰雪奇境體驗指南-e90b58.html
 published: 2026-06-24
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道主題樂園, 札幌雪祭, 冬季旅遊, 冰雪體驗, 層雲峽
 license: CC BY 4.0
 ---

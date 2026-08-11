@@ -6,7 +6,7 @@ category: historical-districts
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-osaka-大阪歷史街區-五感體驗的江戶風情散步-1ae20c.html
 published: 2026-03-31
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪, 歷史街區, 日本自助旅行, 道具屋筋, 新世界
 license: CC BY 4.0
 ---

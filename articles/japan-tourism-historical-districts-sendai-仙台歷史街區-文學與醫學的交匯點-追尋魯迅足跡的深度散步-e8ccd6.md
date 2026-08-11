@@ -6,7 +6,7 @@ category: historical-districts
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-sendai-仙台歷史街區-文學與醫學的交匯點-追尋魯迅足跡的深度散步-e8ccd6.html
 published: 2026-06-12
-quality_score: 6.5
+quality_score: 8.7
 tags: 仙台, 歷史街區, 魯迅, 日本近代醫學, 東北旅遊
 license: CC BY 4.0
 ---

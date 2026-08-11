@@ -6,7 +6,7 @@ category: festivals-matsuri
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-festivals-matsuri-fukuoka-福岡夜祭文化深度體驗-從博多山笠到屋臺巡禮的完美夜晚-0f1307.html
 published: 2026-04-06
-quality_score: 6.5
+quality_score: 8.6
 tags: 福岡祭典, 夜生活, 屋台文化, 博多祇園山笠, 清酒體驗
 license: CC BY 4.0
 ---

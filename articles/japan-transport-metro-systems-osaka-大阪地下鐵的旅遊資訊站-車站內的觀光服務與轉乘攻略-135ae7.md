@@ -6,7 +6,7 @@ category: metro-systems
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-osaka-大阪地下鐵的旅遊資訊站-車站內的觀光服務與轉乘攻略-135ae7.html
 published: 2026-05-23
-quality_score: 7.5
+quality_score: 8.9
 tags: 大阪地下鐵, 大阪交通, 關西旅遊,  Osaka Metro , 大阪自由行
 license: CC BY 4.0
 ---

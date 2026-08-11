@@ -6,7 +6,7 @@ category: jr-pass
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-jr-pass-hokkaido-北海道jr-pass美食鐵道指南-用一張pass暢遊北國鮮味之路-96ba8d.html
 published: 2026-05-25
-quality_score: 7.5
+quality_score: 8.8
 tags: 北海道JR Pass, JR北海道周遊券, 北海道鐵路, 北海道美食, 小樽美食
 license: CC BY 4.0
 ---

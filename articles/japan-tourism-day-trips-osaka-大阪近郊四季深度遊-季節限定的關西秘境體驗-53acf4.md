@@ -6,7 +6,7 @@ category: day-trips
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-osaka-大阪近郊四季深度遊-季節限定的關西秘境體驗-53acf4.html
 published: 2026-04-06
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪一日遊, 關西近郊, 季節旅行, 深度體驗, 溫泉文化
 license: CC BY 4.0
 ---

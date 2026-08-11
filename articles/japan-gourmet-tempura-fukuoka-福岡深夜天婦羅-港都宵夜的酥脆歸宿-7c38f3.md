@@ -6,7 +6,7 @@ category: tempura
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tempura-fukuoka-福岡深夜天婦羅-港都宵夜的酥脆歸宿-7c38f3.html
 published: 2026-04-07
-quality_score: 6.5
+quality_score: 8.7
 tags: 福岡天婦羅, 屋台文化, 九州海鮮, 深夜美食, 博多灣
 license: CC BY 4.0
 ---

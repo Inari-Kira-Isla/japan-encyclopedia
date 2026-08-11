@@ -6,7 +6,7 @@ category: vintage-thrift
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-vintage-thrift-nagoya-名古屋周邊古著秘境-大須・金山區的隱藏版復古寶藏-7a69aa.html
 published: 2026-06-24
-quality_score: 7.5
+quality_score: 8.9
 tags: 名古屋古著, 大須觀音, 金山古著, 中部古著, 日本古著推薦
 license: CC BY 4.0
 ---

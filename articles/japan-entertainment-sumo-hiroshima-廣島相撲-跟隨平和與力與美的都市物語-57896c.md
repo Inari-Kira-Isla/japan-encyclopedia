@@ -6,7 +6,7 @@ category: sumo
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-hiroshima-廣島相撲-跟隨平和與力與美的都市物語-57896c.html
 published: 2026-06-12
-quality_score: 6.5
+quality_score: 8.6
 tags: 廣島相撲, 廣島體驗, 瀨戶內文化, 和平紀念, 相撲美食
 license: CC BY 4.0
 ---

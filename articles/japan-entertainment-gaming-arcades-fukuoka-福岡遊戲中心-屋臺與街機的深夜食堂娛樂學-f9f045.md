@@ -6,7 +6,7 @@ category: gaming-arcades
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-gaming-arcades-fukuoka-福岡遊戲中心-屋臺與街機的深夜食堂娛樂學-f9f045.html
 published: 2026-06-05
-quality_score: 6.5
+quality_score: 8.6
 tags: 福岡, 遊戲中心, 街機, 屋台, 博多年輕人夜生活
 license: CC BY 4.0
 ---

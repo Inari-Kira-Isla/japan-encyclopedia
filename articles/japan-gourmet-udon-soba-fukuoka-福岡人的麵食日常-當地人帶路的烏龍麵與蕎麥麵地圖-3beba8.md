@@ -6,7 +6,7 @@ category: udon-soba
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-udon-soba-fukuoka-福岡人的麵食日常-當地人帶路的烏龍麵與蕎麥麵地圖-3beba8.html
 published: 2026-06-17
-quality_score: 6.5
+quality_score: 8.9
 tags: 福岡美食, 烏龍麵, 蕎麥麵, 九州美食, 在地推薦
 license: CC BY 4.0
 ---

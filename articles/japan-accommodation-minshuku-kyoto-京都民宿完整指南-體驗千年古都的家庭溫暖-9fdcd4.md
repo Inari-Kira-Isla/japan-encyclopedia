@@ -6,7 +6,7 @@ category: minshuku
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-kyoto-京都民宿完整指南-體驗千年古都的家庭溫暖-9fdcd4.html
 published: 2026-03-18
-quality_score: 6.5
+quality_score: 8.7
 tags: 京都民宿, 京都不動產, 日本住宿, 祇園住宿, 嵐山民宿
 license: CC BY 4.0
 ---

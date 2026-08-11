@@ -6,7 +6,7 @@ category: historical-districts
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-hiroshima-廣島歷史街區-從黎明到黃昏的十二時辰散步-f840e9.html
 published: 2026-06-25
-quality_score: 6.5
+quality_score: 8.7
 tags: 廣島, 歷史街區, 時間旅行, 八丁堀, 和平紀念
 license: CC BY 4.0
 ---

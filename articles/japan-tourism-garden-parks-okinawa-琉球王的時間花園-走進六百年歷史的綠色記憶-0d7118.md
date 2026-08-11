@@ -6,7 +6,7 @@ category: garden-parks
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-okinawa-琉球王的時間花園-走進六百年歷史的綠色記憶-0d7118.html
 published: 2026-05-23
-quality_score: 6.5
+quality_score: 8.7
 tags: 沖繩花園, 琉球王國, 世界遺產, 識名園, 和平祈念公园
 license: CC BY 4.0
 ---

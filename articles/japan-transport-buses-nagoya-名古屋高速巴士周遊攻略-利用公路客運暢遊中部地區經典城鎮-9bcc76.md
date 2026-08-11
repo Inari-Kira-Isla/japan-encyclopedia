@@ -6,7 +6,7 @@ category: buses
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-buses-nagoya-名古屋高速巴士周遊攻略-利用公路客運暢遊中部地區經典城鎮-9bcc76.html
 published: 2026-06-19
-quality_score: 7.5
+quality_score: 8.6
 tags: 名古屋巴士, 高速巴士, 中部地區, 一日遊, 名古屋交通
 license: CC BY 4.0
 ---

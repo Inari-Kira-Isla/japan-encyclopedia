@@ -6,7 +6,7 @@ category: karaoke
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-karaoke-osaka-大阪卡拉ok實惠攻略-關西職場人的歡唱經濟學-e8dc4f.html
 published: 2026-06-04
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪卡拉OK, 關西娛樂, 大阪自由行, 日本卡拉OK, 大阪 nightlife
 license: CC BY 4.0
 ---

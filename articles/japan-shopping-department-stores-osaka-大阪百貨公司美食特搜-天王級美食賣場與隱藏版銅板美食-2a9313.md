@@ -6,7 +6,7 @@ category: department-stores
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-department-stores-osaka-大阪百貨公司美食特搜-天王級美食賣場與隱藏版銅板美食-2a9313.html
 published: 2026-06-25
-quality_score: 7.5
+quality_score: 8.7
 tags: 大阪美食, 大阪購物, 大阪百貨公司, デパ地下, 關西美食
 license: CC BY 4.0
 ---

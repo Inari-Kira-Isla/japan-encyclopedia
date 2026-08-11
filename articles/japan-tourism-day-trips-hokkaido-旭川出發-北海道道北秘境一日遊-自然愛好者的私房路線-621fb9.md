@@ -6,7 +6,7 @@ category: day-trips
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-hokkaido-旭川出發-北海道道北秘境一日遊-自然愛好者的私房路線-621fb9.html
 published: 2026-06-10
-quality_score: 6.5
+quality_score: 8.6
 tags: 北海道一日遊, 旭川旅遊, 道北秘境, 層雲峽溫泉, 美瑛丘陵
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: depachika
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-depachika-tokyo-tokyo-depachika-新宿-澀谷-銀座三大站的地下美食殿堂-311c4f.html
 published: 2026-06-02
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京Depachika, 新宿地下食品, 澀谷地下商場, 銀座美食, 日本百货地下街
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: depachika
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-depachika-kyoto-京都depachika-發現千年古城的-廚房-哲學-54643f.html
 published: 2026-05-21
-quality_score: 6.5
+quality_score: 8.5
 tags: 京都, Depachika, 京料理, 地下美食街, 和果子
 license: CC BY 4.0
 ---

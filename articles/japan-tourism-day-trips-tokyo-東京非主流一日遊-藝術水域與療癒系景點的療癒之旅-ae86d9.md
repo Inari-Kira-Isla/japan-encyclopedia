@@ -6,7 +6,7 @@ category: day-trips
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-tokyo-東京非主流一日遊-藝術水域與療癒系景點的療癒之旅-ae86d9.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 8.8
 tags: 東京一日遊, teamLab, 川越, 藤澤, 江の島
 license: CC BY 4.0
 ---

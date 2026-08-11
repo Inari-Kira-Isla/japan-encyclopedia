@@ -6,7 +6,7 @@ category: electronics
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-electronics-nara-奈良電子產品購物另類指南-小而美的在地科技小店-0053e4.html
 published: 2026-06-13
-quality_score: 7.5
+quality_score: 8.2
 tags: 
 license: CC BY 4.0
 ---

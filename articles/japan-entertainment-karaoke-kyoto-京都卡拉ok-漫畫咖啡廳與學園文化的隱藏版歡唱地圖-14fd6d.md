@@ -6,7 +6,7 @@ category: karaoke
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-karaoke-kyoto-京都卡拉ok-漫畫咖啡廳與學園文化的隱藏版歡唱地圖-14fd6d.html
 published: 2026-06-09
-quality_score: 6.5
+quality_score: 8.6
 tags: 京都卡拉OK, 京都自由行, 關西娛樂, 漫畫咖啡廳複合式, 京都學生街
 license: CC BY 4.0
 ---

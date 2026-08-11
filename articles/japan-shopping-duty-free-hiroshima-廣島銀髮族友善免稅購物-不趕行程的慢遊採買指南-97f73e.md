@@ -6,7 +6,7 @@ category: duty-free
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-duty-free-hiroshima-廣島銀髮族友善免稅購物-不趕行程的慢遊採買指南-97f73e.html
 published: 2026-07-05
-quality_score: 7.5
+quality_score: 8.7
 tags: 廣島免稅, 銀髮族旅遊, 廣島購物, 日本免稅攻略, 廣島自由行
 license: CC BY 4.0
 ---

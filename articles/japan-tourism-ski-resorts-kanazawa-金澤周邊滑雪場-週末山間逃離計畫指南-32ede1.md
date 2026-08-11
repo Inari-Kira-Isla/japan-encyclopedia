@@ -6,7 +6,7 @@ category: ski-resorts
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-ski-resorts-kanazawa-金澤周邊滑雪場-週末山間逃離計畫指南-32ede1.html
 published: 2026-04-06
-quality_score: 6.5
+quality_score: 8.6
 tags: 金澤, 滑雪, 北陸, 週末旅行, 冬季運動
 license: CC BY 4.0
 ---

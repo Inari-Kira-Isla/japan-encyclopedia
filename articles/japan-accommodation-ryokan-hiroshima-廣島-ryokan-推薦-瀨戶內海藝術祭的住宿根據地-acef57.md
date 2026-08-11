@@ -6,7 +6,7 @@ category: ryokan
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-hiroshima-廣島-ryokan-推薦-瀨戶內海藝術祭的住宿根據地-acef57.html
 published: 2026-06-06
-quality_score: 6.5
+quality_score: 8.7
 tags: 廣島, Ryokan, 瀨戶內海, 藝術祭, 住宿推薦
 license: CC BY 4.0
 ---

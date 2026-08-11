@@ -6,7 +6,7 @@ category: castle-towns
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-castle-towns-kobe-神戶城堡城鎮-港都的武家風情與異國印象-98633d.html
 published: 2026-05-31
-quality_score: 6.5
+quality_score: 8.8
 tags: 神戶, 城堡城鎮, 異人館, 港都, 南京町
 license: CC BY 4.0
 ---

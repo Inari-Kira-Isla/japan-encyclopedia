@@ -6,7 +6,7 @@ category: electronics
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-electronics-osaka-大阪電子產品購物指南-技術達人的秘密基地-專門職人的在地推薦-d81f20.html
 published: 2026-06-26
-quality_score: 7.5
+quality_score: 8.5
 tags: 大阪電子產品, 大阪購物, 日本電器行, 關西電子, 大阪議價
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: kaiseki
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-kaiseki-hiroshima-廣島會席料理-瀨戶內海孕育的食材原味-4735e7.html
 published: 2026-06-29
-quality_score: 6.5
+quality_score: 8.5
 tags: 廣島會席料理, 瀨戶內海美食, 日本料理, 廣島美食推薦, fine dining
 license: CC BY 4.0
 ---

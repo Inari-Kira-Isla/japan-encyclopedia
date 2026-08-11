@@ -6,7 +6,7 @@ category: cycling
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-kanazawa-金澤單車-時間旅行-騎進加賀藩的四百年物語-5fa19b.html
 published: 2026-06-13
-quality_score: 7.5
+quality_score: 8.8
 tags: 金澤單車, 石川單車遊, 加賀藩歷史, 日本古城單車, 時間旅行騎行
 license: CC BY 4.0
 ---

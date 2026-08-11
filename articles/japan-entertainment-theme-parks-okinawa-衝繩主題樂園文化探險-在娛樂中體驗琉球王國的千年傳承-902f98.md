@@ -6,7 +6,7 @@ category: theme-parks
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-theme-parks-okinawa-衝繩主題樂園文化探險-在娛樂中體驗琉球王國的千年傳承-902f98.html
 published: 2026-03-27
-quality_score: 6.5
+quality_score: 8.7
 tags: 沖繩旅遊, 琉球文化, 主題樂園, 親子體驗, 文化探險
 license: CC BY 4.0
 ---

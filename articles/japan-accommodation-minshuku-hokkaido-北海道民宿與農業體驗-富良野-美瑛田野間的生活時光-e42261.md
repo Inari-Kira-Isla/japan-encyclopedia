@@ -6,7 +6,7 @@ category: minshuku
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-hokkaido-北海道民宿與農業體驗-富良野-美瑛田野間的生活時光-e42261.html
 published: 2026-05-24
-quality_score: 6.5
+quality_score: 8.5
 tags: 北海道民宿, 富良野住宿, 美瑛民宿, 農業體驗, 田園風光
 license: CC BY 4.0
 ---

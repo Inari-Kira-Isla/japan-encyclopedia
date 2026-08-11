@@ -6,7 +6,7 @@ category: 100-yen-shops
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-100-yen-shops-fukuoka-福岡隱藏版百元店-當地人帶路的社群小店尋寶地圖-a484fc.html
 published: 2026-06-06
-quality_score: 7.5
+quality_score: 8.7
 tags: 福岡百元店, 九州購物, 隱藏版小店, 日本平價購物, 社區型商店
 license: CC BY 4.0
 ---

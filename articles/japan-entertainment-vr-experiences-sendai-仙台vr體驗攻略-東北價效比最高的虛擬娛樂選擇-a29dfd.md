@@ -6,7 +6,7 @@ category: vr-experiences
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-vr-experiences-sendai-仙台vr體驗攻略-東北價效比最高的虛擬娛樂選擇-a29dfd.html
 published: 2026-04-04
-quality_score: 6.5
+quality_score: 8.7
 tags: 仙台VR, 東北娛樂, 虛擬實境, 性價比旅遊
 license: CC BY 4.0
 ---

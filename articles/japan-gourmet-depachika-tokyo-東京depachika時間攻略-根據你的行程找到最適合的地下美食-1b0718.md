@@ -6,7 +6,7 @@ category: depachika
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-depachika-tokyo-東京depachika時間攻略-根據你的行程找到最適合的地下美食-1b0718.html
 published: 2026-06-18
-quality_score: 6.5
+quality_score: 8.5
 tags: 東京美食, Depachika, 地下街, 日本超市, 東京旅遊
 license: CC BY 4.0
 ---

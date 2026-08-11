@@ -6,7 +6,7 @@ category: escape-rooms
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-escape-rooms-osaka-大阪密室逃脫-關西燒腦之旅的終極目的地-d58fa2.html
 published: 2026-07-02
-quality_score: 6.5
+quality_score: 8.8
 tags: 大阪密室逃脫, 關西娛樂, 大阪旅遊, 燒腦體驗, 團體活動
 license: CC BY 4.0
 ---

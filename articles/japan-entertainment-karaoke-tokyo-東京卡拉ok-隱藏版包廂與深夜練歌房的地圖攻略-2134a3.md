@@ -6,7 +6,7 @@ category: karaoke
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-karaoke-tokyo-東京卡拉ok-隱藏版包廂與深夜練歌房的地圖攻略-2134a3.html
 published: 2026-06-30
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京卡拉OK, 東京娛樂, 秋葉原卡拉OK, 一人卡拉OK, 東京夜生活
 license: CC BY 4.0
 ---

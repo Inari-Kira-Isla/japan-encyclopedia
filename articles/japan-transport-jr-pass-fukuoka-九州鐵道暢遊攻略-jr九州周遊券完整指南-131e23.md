@@ -6,7 +6,7 @@ category: jr-pass
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-jr-pass-fukuoka-九州鐵道暢遊攻略-jr九州周遊券完整指南-131e23.html
 published: 2026-06-15
-quality_score: 7.5
+quality_score: 8.7
 tags: JR九州周遊券, 九州鐵路, 由布院溫泉, 阿蘇火山, 門司港
 license: CC BY 4.0
 ---

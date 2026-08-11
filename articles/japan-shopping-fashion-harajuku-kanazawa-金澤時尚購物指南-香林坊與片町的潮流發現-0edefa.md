@@ -6,7 +6,7 @@ category: fashion-harajuku
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-fashion-harajuku-kanazawa-金澤時尚購物指南-香林坊與片町的潮流發現-0edefa.html
 published: 2026-06-13
-quality_score: 7.5
+quality_score: 8.7
 tags: 金澤購物, 香林坊, 片町, 石川縣, 日本購物
 license: CC BY 4.0
 ---

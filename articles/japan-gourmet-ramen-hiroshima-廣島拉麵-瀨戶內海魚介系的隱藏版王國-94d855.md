@@ -6,7 +6,7 @@ category: ramen
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-ramen-hiroshima-廣島拉麵-瀨戶內海魚介系的隱藏版王國-94d855.html
 published: 2026-07-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 廣島拉麵, 瀨戶內海, 魚介系, 醬油拉麵, 日本拉麵
 license: CC BY 4.0
 ---

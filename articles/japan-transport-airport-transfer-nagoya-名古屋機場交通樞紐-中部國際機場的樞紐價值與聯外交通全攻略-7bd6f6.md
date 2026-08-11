@@ -6,7 +6,7 @@ category: airport-transfer
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-airport-transfer-nagoya-名古屋機場交通樞紐-中部國際機場的樞紐價值與聯外交通全攻略-7bd6f6.html
 published: 2026-05-20
-quality_score: 7.5
+quality_score: 8.5
 tags: 中部國際機場, 名古屋機場, 機場交通, 知多半岛, 常滑陶瓷
 license: CC BY 4.0
 ---

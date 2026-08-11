@@ -6,7 +6,7 @@ category: tohoku
 area: japan
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-tohoku-仙台與東北-311震災後的旅遊復興邏輯-sendai-tohoku-region-bda588.html
 published: 2026-03-28
-quality_score: 7.6
+quality_score: 8.3
 tags: 仙台, 東北旅遊, 仙台牛舌, 松島, 七夕祭
 license: CC BY 4.0
 ---

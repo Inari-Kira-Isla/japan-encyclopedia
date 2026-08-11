@@ -6,7 +6,7 @@ category: department-stores
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-department-stores-okinawa-沖繩伴手禮達人帶路-機場與市區必訪百貨採購指南-de9d72.html
 published: 2026-06-18
-quality_score: 7.5
+quality_score: 8.6
 tags: 沖繩購物, 百貨公司, 伴手禮, 那霸, 機場免稅
 license: CC BY 4.0
 ---

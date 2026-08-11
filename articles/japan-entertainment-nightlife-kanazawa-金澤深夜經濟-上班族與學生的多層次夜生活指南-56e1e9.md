@@ -6,7 +6,7 @@ category: nightlife
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-kanazawa-金澤深夜經濟-上班族與學生的多層次夜生活指南-56e1e9.html
 published: 2026-03-21
-quality_score: 6.5
+quality_score: 8.6
 tags: 日本, 金澤, 夜生活, 居酒屋文化, 遊戲中心
 license: CC BY 4.0
 ---

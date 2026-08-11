@@ -6,7 +6,7 @@ category: ryokan
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-nara-奈良寺廟住宿完全攻略-入住古剎體驗日本佛教修行文化-5dfb91.html
 published: 2026-05-22
-quality_score: 6.5
+quality_score: 8.6
 tags: 奈良住宿, 寺廟宿坊, 日本修行體驗, 關西深度旅遊, 古都文化
 license: CC BY 4.0
 ---

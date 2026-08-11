@@ -6,7 +6,7 @@ category: capsule-hotels
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-capsule-hotels-kanazawa-金澤膠囊住宿-北陸小京都的省錢住宿方案與周邊延伸-35bff0.html
 published: 2026-06-20
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤住宿, 北路旅遊, 省錢住宿, 膠囊飯店, 自助旅行
 license: CC BY 4.0
 ---

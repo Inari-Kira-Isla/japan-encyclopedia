@@ -6,7 +6,7 @@ category: karaoke
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-karaoke-osaka-大阪卡拉ok-吃遍天王寺・通天閣的美食歡唱攻略-e5697f.html
 published: 2026-06-16
-quality_score: 6.5
+quality_score: 8.9
 tags: 大阪卡拉OK, 天王寺卡拉OK, 通天閣, 新世界, 大阪美食
 license: CC BY 4.0
 ---

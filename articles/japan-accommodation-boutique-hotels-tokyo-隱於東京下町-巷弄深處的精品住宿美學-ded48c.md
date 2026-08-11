@@ -6,7 +6,7 @@ category: boutique-hotels
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-tokyo-隱於東京下町-巷弄深處的精品住宿美學-ded48c.html
 published: 2026-07-02
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京精品酒店, 下町住宿, 墨田區, 藏前區, 人形町
 license: CC BY 4.0
 ---

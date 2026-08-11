@@ -6,7 +6,7 @@ category: 100-yen-shops
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-100-yen-shops-tokyo-東京百元店美食尋寶記-都會區平價食堂與街角美味指南-3ea6d8.html
 published: 2026-06-20
-quality_score: 7.5
+quality_score: 8.5
 tags: 東京百元店, Tokyo100円ショップ, 東京美食, 平價購物, 日本伴手禮
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: sumo
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-hokkaido-北海道相撲-北國大地上的力士之舞-028f28.html
 published: 2026-03-15
-quality_score: 6.5
+quality_score: 7.8
 tags: 北海道, 相撲, 日本文化, 札幌, 旭川
 license: CC BY 4.0
 ---

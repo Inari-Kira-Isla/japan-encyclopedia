@@ -6,7 +6,7 @@ category: ryokan
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-kanazawa-金澤傳統町家住宿-近江町市場旁的老屋新生-107cdf.html
 published: 2026-06-11
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤Ryokan, 金澤住宿, 加賀百萬石, 金澤市區住宿, 金澤老街
 license: CC BY 4.0
 ---

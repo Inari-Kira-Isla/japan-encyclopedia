@@ -6,7 +6,7 @@ category: rental-cars
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-hokkaido-北海道美食自駕獵人-租車探索北國隱藏版胃袋地圖-67e88d.html
 published: 2026-07-06
-quality_score: 7.5
+quality_score: 8.7
 tags: 北海道租車, 北海道美食, 自駕遊, 札幌拉麵, 小樽壽司
 license: CC BY 4.0
 ---

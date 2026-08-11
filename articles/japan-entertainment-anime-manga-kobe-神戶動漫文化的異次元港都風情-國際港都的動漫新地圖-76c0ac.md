@@ -6,7 +6,7 @@ category: anime-manga
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-kobe-神戶動漫文化的異次元港都風情-國際港都的動漫新地圖-76c0ac.html
 published: 2026-06-18
-quality_score: 6.5
+quality_score: 8.6
 tags: 神戶動漫, 神戶動漫咖啡廳, 神戶二手漫畫, 神戶動漫地圖, 關西動漫之旅
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: street-food
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-street-food-kyoto-京都清晨味覺地圖-錦市場以外的在地早市散步-b7a322.html
 published: 2026-07-02
-quality_score: 6.5
+quality_score: 8.8
 tags: 京都, 街頭美食, 早市, 在地美食, 庶民小吃
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: ferries
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-ferries-tokyo-東京水上交通完全攻略-隅田川-灣岸與離島航線實用指南-3db34d.html
 published: 2026-06-07
-quality_score: 7.5
+quality_score: 8.5
 tags: 東京交通, 隅田川, 水上巴士, 東京灣, 三宅島
 license: CC BY 4.0
 ---

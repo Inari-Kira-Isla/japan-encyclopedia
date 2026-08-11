@@ -6,7 +6,7 @@ category: scenic-routes
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-kobe-神戶風景道路完全指南-晨昏光影與四季色彩的山海之路-b4b00b.html
 published: 2026-04-06
-quality_score: 6.5
+quality_score: 8.6
 tags: 神戶景觀道路, 神戶夜景, 六甲山, 有馬溫泉, 神戶港
 license: CC BY 4.0
 ---

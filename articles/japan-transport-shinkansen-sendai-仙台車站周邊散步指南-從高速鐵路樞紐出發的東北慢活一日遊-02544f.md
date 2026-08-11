@@ -6,7 +6,7 @@ category: shinkansen
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-sendai-仙台車站周邊散步指南-從高速鐵路樞紐出發的東北慢活一日遊-02544f.html
 published: 2026-07-04
-quality_score: 7.5
+quality_score: 8.9
 tags: 仙台車站, 東北新政幹, 日本東北, 仙台旅遊, 交通樞紐
 license: CC BY 4.0
 ---

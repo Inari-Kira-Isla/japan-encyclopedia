@@ -6,7 +6,7 @@ category: anime-manga
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-fukuoka-福岡動漫漫畫-九州宅文化的日常進行式-4bf8d6.html
 published: 2026-05-22
-quality_score: 6.5
+quality_score: 8.7
 tags: 福岡, 動漫, 遊戲中心, 九州, 宅文化
 license: CC BY 4.0
 ---

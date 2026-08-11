@@ -6,7 +6,7 @@ category: anime-manga
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-kyoto-京都動漫文化交流據點-連結古都美學與御宅族的獨特空間-dae1d5.html
 published: 2026-05-20
-quality_score: 6.5
+quality_score: 8.7
 tags: 京都動漫, 京都動漫咖啡廳, 京都次文化, 京都御宅族, 京都不只好
 license: CC BY 4.0
 ---

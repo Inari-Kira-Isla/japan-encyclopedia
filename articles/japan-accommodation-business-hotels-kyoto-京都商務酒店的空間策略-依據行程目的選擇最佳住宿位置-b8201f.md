@@ -6,7 +6,7 @@ category: business-hotels
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-business-hotels-kyoto-京都商務酒店的空間策略-依據行程目的選擇最佳住宿位置-b8201f.html
 published: 2026-06-27
-quality_score: 6.5
+quality_score: 8.8
 tags: 京都商務酒店, 關西商務住宿, 京都出差, 京都交通, 商務旅行
 license: CC BY 4.0
 ---

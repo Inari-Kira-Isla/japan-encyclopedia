@@ -6,7 +6,7 @@ category: sushi
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sushi-nara-奈良壽司-古都寺院與酒藏的風土味覺-26b2f2.html
 published: 2026-06-21
-quality_score: 6.5
+quality_score: 8.7
 tags: 奈良壽司, 奈良美食, 大和川, 風土壽司, 奈良清酒
 license: CC BY 4.0
 ---

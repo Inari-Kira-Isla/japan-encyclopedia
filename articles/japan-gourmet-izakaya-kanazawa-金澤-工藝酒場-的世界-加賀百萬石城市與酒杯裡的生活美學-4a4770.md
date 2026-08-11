@@ -6,7 +6,7 @@ category: izakaya
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-izakaya-kanazawa-金澤-工藝酒場-的世界-加賀百萬石城市與酒杯裡的生活美學-4a4770.html
 published: 2026-06-26
-quality_score: 6.5
+quality_score: 8.6
 tags: 金澤居酒屋, 加賀料理, 九谷燒, 工藝酒場, 日本海沿岸
 license: CC BY 4.0
 ---

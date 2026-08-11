@@ -6,7 +6,7 @@ category: festivals-matsuri
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-festivals-matsuri-hokkaido-北海道祭典美食地圖-跟著道民吃遍四大祭典現場的人氣美味-b4ee81.html
 published: 2026-07-01
-quality_score: 6.5
+quality_score: 8.6
 tags: 北海道祭典, 小樽雪燈之路, 札幌雪祭, 旭川冬祭, 函館港祭
 license: CC BY 4.0
 ---

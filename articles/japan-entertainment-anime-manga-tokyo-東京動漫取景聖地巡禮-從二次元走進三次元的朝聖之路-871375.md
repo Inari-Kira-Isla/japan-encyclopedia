@@ -6,7 +6,7 @@ category: anime-manga
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-tokyo-東京動漫取景聖地巡禮-從二次元走進三次元的朝聖之路-871375.html
 published: 2026-07-03
-quality_score: 6.5
+quality_score: 8.4
 tags: 東京動漫, 取景地, 聖地巡禮, 秋葉原, 日本動漫
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: 100-yen-shops
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-100-yen-shops-hiroshima-廣島100日圓店購物指南-國際和平都市的平價購物體驗-1a8acd.html
 published: 2026-06-07
-quality_score: 7.5
+quality_score: 8.6
 tags: 廣島購物, 100日圓店, 日本平價購物, 廣島旅遊, 和平紀念
 license: CC BY 4.0
 ---

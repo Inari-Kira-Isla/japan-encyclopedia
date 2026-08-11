@@ -6,7 +6,7 @@ category: nature-trails
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-nagoya-名古屋步道美食地圖-自然健行與在地滋味的雙重探索-dfd2f0.html
 published: 2026-04-07
-quality_score: 6.5
+quality_score: 8.7
 tags: 名古屋步道, 自然健行, 美食之旅, 名古屋美食, 中部地方
 license: CC BY 4.0
 ---

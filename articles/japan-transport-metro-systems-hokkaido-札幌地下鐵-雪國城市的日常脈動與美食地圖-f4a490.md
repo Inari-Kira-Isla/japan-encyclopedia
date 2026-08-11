@@ -6,7 +6,7 @@ category: metro-systems
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-hokkaido-札幌地下鐵-雪國城市的日常脈動與美食地圖-f4a490.html
 published: 2026-03-24
-quality_score: 7.5
+quality_score: 9.0
 tags: 札幌地下鐵, 北海道交通, 札幌美食, 日本地下鐵, 冬季北海道
 license: CC BY 4.0
 ---

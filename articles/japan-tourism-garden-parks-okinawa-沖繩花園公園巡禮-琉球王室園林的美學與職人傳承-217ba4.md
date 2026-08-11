@@ -6,7 +6,7 @@ category: garden-parks
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-okinawa-沖繩花園公園巡禮-琉球王室園林的美學與職人傳承-217ba4.html
 published: 2026-06-02
-quality_score: 6.5
+quality_score: 8.7
 tags: 沖繩花園, 琉球文化, 首里城, 世界遗产冲绳, 冲绳旅游
 license: CC BY 4.0
 ---

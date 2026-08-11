@@ -6,7 +6,7 @@ category: buses
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-buses-tokyo-東京社群巴士-深入在地生活的隱藏交通寶典-e14cb7.html
 published: 2026-06-21
-quality_score: 7.5
+quality_score: 8.7
 tags: 東京交通, 社區巴士, 自由行攻略, 東京觀光, 東京深度遊
 license: CC BY 4.0
 ---

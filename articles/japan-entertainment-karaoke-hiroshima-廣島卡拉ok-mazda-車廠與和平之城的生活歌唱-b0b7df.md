@@ -6,7 +6,7 @@ category: karaoke
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-karaoke-hiroshima-廣島卡拉ok-mazda-車廠與和平之城的生活歌唱-b0b7df.html
 published: 2026-06-15
-quality_score: 6.5
+quality_score: 8.4
 tags: 廣島, 卡拉OK, 日本娛樂, 廣島美食, 產業城市夜生活
 license: CC BY 4.0
 ---

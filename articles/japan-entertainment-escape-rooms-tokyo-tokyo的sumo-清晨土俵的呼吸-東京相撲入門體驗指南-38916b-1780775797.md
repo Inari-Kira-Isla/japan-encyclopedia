@@ -6,7 +6,7 @@ category: escape-rooms
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-escape-rooms-tokyo-tokyo的sumo-清晨土俵的呼吸-東京相撲入門體驗指南-38916b-1780775797.html
 published: 2026-06-06
-quality_score: 6.5
+quality_score: 8.6
 tags: Tokyo相撲, 清晨訓練, 國技館, 墨區, 两國
 license: CC BY 4.0
 ---

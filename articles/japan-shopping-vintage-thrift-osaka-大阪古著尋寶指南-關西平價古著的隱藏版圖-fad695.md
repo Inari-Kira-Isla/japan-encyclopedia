@@ -6,7 +6,7 @@ category: vintage-thrift
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-vintage-thrift-osaka-大阪古著尋寶指南-關西平價古著的隱藏版圖-fad695.html
 published: 2026-06-22
-quality_score: 7.5
+quality_score: 8.9
 tags: 大阪古著, 關西購物, 二手衣物, 古著尋寶, 日本潮流
 license: CC BY 4.0
 ---

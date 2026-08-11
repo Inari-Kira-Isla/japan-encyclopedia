@@ -6,7 +6,7 @@ category: boutique-hotels
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-hiroshima-廣島精品酒店-從廢墟中盛開的設計美學-f3228c.html
 published: 2026-06-20
-quality_score: 6.5
+quality_score: 8.5
 tags: 廣島住宿, 精品酒店, 日本住宿, 平和紀念, 廣島旅遊
 license: CC BY 4.0
 ---

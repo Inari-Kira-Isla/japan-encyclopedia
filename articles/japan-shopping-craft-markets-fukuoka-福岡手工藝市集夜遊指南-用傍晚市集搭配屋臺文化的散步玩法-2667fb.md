@@ -6,7 +6,7 @@ category: craft-markets
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-craft-markets-fukuoka-福岡手工藝市集夜遊指南-用傍晚市集搭配屋臺文化的散步玩法-2667fb.html
 published: 2026-05-21
-quality_score: 7.5
+quality_score: 8.6
 tags: fukuoka, craft-markets, 的手工藝市集, 日本九州, 傍晚市集
 license: CC BY 4.0
 ---

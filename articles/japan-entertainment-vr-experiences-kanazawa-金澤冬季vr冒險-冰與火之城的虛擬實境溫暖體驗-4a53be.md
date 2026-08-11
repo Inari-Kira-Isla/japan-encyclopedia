@@ -6,7 +6,7 @@ category: vr-experiences
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-vr-experiences-kanazawa-金澤冬季vr冒險-冰與火之城的虛擬實境溫暖體驗-4a53be.html
 published: 2026-06-06
-quality_score: 6.5
+quality_score: 8.8
 tags: 金澤VR, 冬季體驗, 金澤親子, 北陸娛樂, 虛擬實境
 license: CC BY 4.0
 ---

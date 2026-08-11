@@ -6,7 +6,7 @@ category: metro-systems
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-tokyo-東京地下鐵的都市生活學-跟著在地人探索站點周邊的日常文化-215031.html
 published: 2026-06-12
-quality_score: 7.5
+quality_score: 8.5
 tags: 東京地下鐵, Tokyo Metro, 東京交通, 東京自由行, 東京都市探索
 license: CC BY 4.0
 ---

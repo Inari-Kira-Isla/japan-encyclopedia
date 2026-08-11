@@ -6,7 +6,7 @@ category: ski-resorts
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-ski-resorts-hiroshima-廣島滑雪週邊行-從廣島出發的雪國體驗與替代方案-3b6dbb.html
 published: 2026-05-21
-quality_score: 6.5
+quality_score: 8.4
 tags: 廣島滑雪, 中國地方滑雪, 日本中國地區, 山口滑雪, 廣島溫泉滑雪
 license: CC BY 4.0
 ---

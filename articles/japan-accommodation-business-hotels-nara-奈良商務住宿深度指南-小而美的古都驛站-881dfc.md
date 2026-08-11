@@ -6,7 +6,7 @@ category: business-hotels
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-business-hotels-nara-奈良商務住宿深度指南-小而美的古都驛站-881dfc.html
 published: 2026-06-18
-quality_score: 6.5
+quality_score: 8.7
 tags: 奈良商務住宿, 奈良出差, 近鐵奈良站, JR奈良站, 古都商務
 license: CC BY 4.0
 ---

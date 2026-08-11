@@ -6,7 +6,7 @@ category: garden-parks
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-osaka-大阪市民的花園日常-在地人的綠意生活美學-4f5fa0.html
 published: 2026-06-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪花園, 市民公園, 免費景點, 在地體驗, 休閒散步
 license: CC BY 4.0
 ---

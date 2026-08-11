@@ -6,7 +6,7 @@ category: ryokan
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-kyoto-京都洛西溫泉鄉-嵐山・嵯峨野一帶的傳統旅館隱世之美-dee800.html
 published: 2026-06-30
-quality_score: 6.5
+quality_score: 8.5
 tags: 京都住宿, 洛西溫泉, 嵐山旅館, 嵯峨野住宿, 日式傳統旅馆
 license: CC BY 4.0
 ---

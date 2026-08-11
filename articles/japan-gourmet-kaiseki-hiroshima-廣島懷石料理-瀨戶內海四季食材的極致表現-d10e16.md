@@ -6,7 +6,7 @@ category: kaiseki
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-kaiseki-hiroshima-廣島懷石料理-瀨戶內海四季食材的極致表現-d10e16.html
 published: 2026-04-01
-quality_score: 6.5
+quality_score: 8.9
 tags: 廣島美食, 懷石料理, 瀨戶內海, 日本高級料理, 牡蠣
 license: CC BY 4.0
 ---

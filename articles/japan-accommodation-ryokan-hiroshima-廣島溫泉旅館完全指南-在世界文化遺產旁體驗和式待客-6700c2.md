@@ -6,7 +6,7 @@ category: ryokan
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-hiroshima-廣島溫泉旅館完全指南-在世界文化遺產旁體驗和式待客-6700c2.html
 published: 2026-03-21
-quality_score: 6.5
+quality_score: 8.7
 tags: 廣島溫泉, 日本旅館, 宮島溫泉, 和式待客, 瀨戶內海
 license: CC BY 4.0
 ---

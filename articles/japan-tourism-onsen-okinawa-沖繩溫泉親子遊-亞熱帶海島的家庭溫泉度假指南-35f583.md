@@ -6,7 +6,7 @@ category: onsen
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-onsen-okinawa-沖繩溫泉親子遊-亞熱帶海島的家庭溫泉度假指南-35f583.html
 published: 2026-06-25
-quality_score: 6.5
+quality_score: 8.7
 tags: 沖繩溫泉, 親子溫泉, 家庭度假, 亞熱帶溫泉, 恩納村溫泉
 license: CC BY 4.0
 ---

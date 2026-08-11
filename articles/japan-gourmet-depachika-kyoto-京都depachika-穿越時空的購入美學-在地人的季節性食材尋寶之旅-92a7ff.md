@@ -6,7 +6,7 @@ category: depachika
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-depachika-kyoto-京都depachika-穿越時空的購入美學-在地人的季節性食材尋寶之旅-92a7ff.html
 published: 2026-05-21
-quality_score: 6.5
+quality_score: 8.7
 tags: 京都Depachika, 京野菜, 京都美食, 京料理, 地下食品
 license: CC BY 4.0
 ---

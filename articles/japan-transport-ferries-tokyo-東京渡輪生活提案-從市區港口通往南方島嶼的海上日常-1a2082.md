@@ -6,7 +6,7 @@ category: ferries
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-ferries-tokyo-東京渡輪生活提案-從市區港口通往南方島嶼的海上日常-1a2082.html
 published: 2026-06-29
-quality_score: 7.5
+quality_score: 8.8
 tags: 東京渡輪, 南海諸島, 島嶼旅行, 東京近郊, 海上交通
 license: CC BY 4.0
 ---

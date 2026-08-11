@@ -6,7 +6,7 @@ category: buses
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-buses-kobe-神戶巴士完全指南-串聯港都山海的名所交通攻略-1aec8f.html
 published: 2026-06-06
-quality_score: 7.5
+quality_score: 8.6
 tags: 神戶交通, 神戶巴士, 神戶觀光, 六甲山夜景, 有馬溫泉
 license: CC BY 4.0
 ---

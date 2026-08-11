@@ -6,7 +6,7 @@ category: shinkansen
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-hiroshima-廣島車站周邊攻略-從交通樞紐出發的高效率旅遊指南-b51c36.html
 published: 2026-06-05
-quality_score: 7.5
+quality_score: 8.9
 tags: 廣島駅, 山陽新政線, 廣島旅遊, 廣島美食, 日本鐵路
 license: CC BY 4.0
 ---

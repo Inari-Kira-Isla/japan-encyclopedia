@@ -6,7 +6,7 @@ category: ferries
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-ferries-osaka-大阪渡輪的海岸生活方式-從碼頭看見不同的關西-ed35a1.html
 published: 2026-06-04
-quality_score: 7.5
+quality_score: 8.5
 tags: 大阪交通, 渡輪, 瀨戶內海, 四國, 海上旅行
 license: CC BY 4.0
 ---

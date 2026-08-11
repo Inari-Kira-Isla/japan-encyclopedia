@@ -6,7 +6,7 @@ category: shinkansen
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-osaka-大阪新幹線完全指南-關西交通樞紐的高速鐵道體驗-25dcb7.html
 published: 2026-03-15
-quality_score: 7.5
+quality_score: 8.7
 tags: 新幹線, 大阪交通, 高速鐵道, 新大阪站, 日本鐵道
 license: CC BY 4.0
 ---

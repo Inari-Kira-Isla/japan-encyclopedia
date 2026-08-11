@@ -6,7 +6,7 @@ category: udon-soba
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-udon-soba-okinawa-沖繩麵食學-走進縣民日常的碳水王國-b8903a.html
 published: 2026-06-11
-quality_score: 6.5
+quality_score: 8.8
 tags: 沖繩美食, ソバ, 縣民美食, 在地文化, 碳水化合物
 license: CC BY 4.0
 ---

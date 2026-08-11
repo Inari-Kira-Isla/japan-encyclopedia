@@ -6,7 +6,7 @@ category: temple-stays
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-temple-stays-hokkaido-北海道寺廟參訪與禪修體驗-告別都市喧囂的靜謐之路-2d37cd.html
 published: 2026-06-20
-quality_score: 6.5
+quality_score: 8.6
 tags: 北海道, 寺廟參訪, 禪修體驗, 溫泉神社, 自然修行
 license: CC BY 4.0
 ---

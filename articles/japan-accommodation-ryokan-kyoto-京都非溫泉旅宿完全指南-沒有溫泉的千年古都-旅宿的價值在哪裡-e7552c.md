@@ -6,7 +6,7 @@ category: ryokan
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-kyoto-京都非溫泉旅宿完全指南-沒有溫泉的千年古都-旅宿的價值在哪裡-e7552c.html
 published: 2026-06-12
-quality_score: 6.5
+quality_score: 8.5
 tags: 京都旅宿, 京都Ryokan, 京都溫泉, 町家住宿, 京都自由行
 license: CC BY 4.0
 ---

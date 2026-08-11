@@ -6,7 +6,7 @@ category: kaiseki
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-kaiseki-kanazawa-金澤懷石料理-古城風情的精緻盛宴-7a9510.html
 published: 2026-03-15
-quality_score: 6.5
+quality_score: 8.9
 tags: 金澤懷石料理, 加賀料理, 石川縣美食, 日本料理, 金澤美食
 license: CC BY 4.0
 ---

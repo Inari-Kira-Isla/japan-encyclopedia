@@ -6,7 +6,7 @@ category: rental-cars
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-fukuoka-福岡租車自駕遊-從九州門戶輻射探索的全攻略-924c41.html
 published: 2026-06-07
-quality_score: 7.5
+quality_score: 8.7
 tags: 福岡租車, 九州自駕, 九州自由行, 福岡機場租車, 博多租車
 license: CC BY 4.0
 ---

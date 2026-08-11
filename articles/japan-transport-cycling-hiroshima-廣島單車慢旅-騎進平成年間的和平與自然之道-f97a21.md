@@ -6,7 +6,7 @@ category: cycling
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-hiroshima-廣島單車慢旅-騎進平成年間的和平與自然之道-f97a21.html
 published: 2026-06-01
-quality_score: 7.5
+quality_score: 8.7
 tags: 廣島單車旅行, 瀨戶內海骑行, 平和紀念公園, 日本夏日祭典, 尾道水道
 license: CC BY 4.0
 ---

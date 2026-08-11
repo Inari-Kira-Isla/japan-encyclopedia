@@ -6,7 +6,7 @@ category: minshuku
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-sendai-仙台民宿指南-森林城市裡的家庭溫暖-ffcd27.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 8.5
 tags: 仙台民宿, Minshuku, 日本住宿, 東北旅遊, 溫泉民宿
 license: CC BY 4.0
 ---

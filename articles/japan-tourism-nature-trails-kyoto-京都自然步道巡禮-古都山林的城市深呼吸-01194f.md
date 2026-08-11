@@ -6,7 +6,7 @@ category: nature-trails
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-kyoto-京都自然步道巡禮-古都山林的城市深呼吸-01194f.html
 published: 2026-03-15
-quality_score: 6.5
+quality_score: 8.8
 tags: 京都步道, 京都健行, 京都自然, 鞍馬山, 哲學之道
 license: CC BY 4.0
 ---

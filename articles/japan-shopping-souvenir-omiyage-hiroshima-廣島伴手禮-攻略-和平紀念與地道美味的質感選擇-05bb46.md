@@ -6,7 +6,7 @@ category: souvenir-omiyage
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-souvenir-omiyage-hiroshima-廣島伴手禮-攻略-和平紀念與地道美味的質感選擇-05bb46.html
 published: 2026-05-23
-quality_score: 7.5
+quality_score: 8.5
 tags: 廣島伴手禮, 廣島和平紀念, 楓葉饅頭, 廣島燒, 瀨戶內海牡蠣
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: boutique-hotels
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-kobe-神戶六甲山系-港都精品住宿的自然避世美學-04a34a.html
 published: 2026-06-04
-quality_score: 6.5
+quality_score: 8.6
 tags: 神戶, 精品住宿, 六甲山, 溫泉, 山岳住宿
 license: CC BY 4.0
 ---

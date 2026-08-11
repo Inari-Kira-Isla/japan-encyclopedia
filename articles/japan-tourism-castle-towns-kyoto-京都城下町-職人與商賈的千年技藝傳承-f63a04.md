@@ -6,7 +6,7 @@ category: castle-towns
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-castle-towns-kyoto-京都城下町-職人與商賈的千年技藝傳承-f63a04.html
 published: 2026-04-06
-quality_score: 6.5
+quality_score: 8.8
 tags: 京都城下町, 日本職人文化, 傳統工藝, 伏見酒造, 西陣織物
 license: CC BY 4.0
 ---

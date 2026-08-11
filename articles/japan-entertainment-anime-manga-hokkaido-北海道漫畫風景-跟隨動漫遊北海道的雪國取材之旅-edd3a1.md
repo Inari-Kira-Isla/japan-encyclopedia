@@ -6,7 +6,7 @@ category: anime-manga
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-hokkaido-北海道漫畫風景-跟隨動漫遊北海道的雪國取材之旅-edd3a1.html
 published: 2026-06-03
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道, 動漫, 雪國取材, 動漫旅行, 札幌
 license: CC BY 4.0
 ---

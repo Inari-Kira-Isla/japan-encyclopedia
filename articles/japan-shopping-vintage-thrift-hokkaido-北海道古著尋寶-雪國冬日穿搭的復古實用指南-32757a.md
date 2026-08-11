@@ -6,7 +6,7 @@ category: vintage-thrift
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-vintage-thrift-hokkaido-北海道古著尋寶-雪國冬日穿搭的復古實用指南-32757a.html
 published: 2026-06-12
-quality_score: 7.5
+quality_score: 8.8
 tags: 北海道古著, 札幌古著, 古著購物, 復古時尚, 日本購物
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: vr-experiences
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-vr-experiences-tokyo-東京vr體驗-科技與娛樂融合的沉浸式冒險-bafe82.html
 published: 2026-05-20
-quality_score: 6.5
+quality_score: 8.8
 tags: 東京VR體驗, 東京室內娛樂, 新宿VR, 秋葉原VR, 池袋VR
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: historical-districts
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-tokyo-東京歷史街區-穿越時空的下町風情完整指南-6eb2a5-1780344711.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 8.8
 tags: 東京自由行, 歷史街區, 下町風情, 谷中, 人形町
 license: CC BY 4.0
 ---

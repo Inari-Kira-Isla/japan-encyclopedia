@@ -6,7 +6,7 @@ category: street-food
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-street-food-hokkaido-北海道海鮮街頭美食-魚市場時間學與季節限定吃法-0d626b.html
 published: 2026-04-08
-quality_score: 6.5
+quality_score: 8.5
 tags: 北海道, 街頭美食, 海鮮, 日本料理, 魚市場
 license: CC BY 4.0
 ---

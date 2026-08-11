@@ -6,7 +6,7 @@ category: nature-trails
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-kyoto-京都晨攝步道-日出前後的古城山林攝影秘境-420ed4.html
 published: 2026-06-30
-quality_score: 6.5
+quality_score: 8.8
 tags: 京都, 自然步道, 攝影, 日出, 山林健行
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: boutique-hotels
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-osaka-大阪精品酒店的味覺漫旅-從餐廳到房間的美食住宿體驗-3fdce6.html
 published: 2026-06-09
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪精品酒店, 大阪美食住宿, 大阪boutique hotel, 關西住宿推薦, 大阪旅遊
 license: CC BY 4.0
 ---

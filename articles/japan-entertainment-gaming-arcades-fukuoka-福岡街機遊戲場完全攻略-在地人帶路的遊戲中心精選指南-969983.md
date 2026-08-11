@@ -6,7 +6,7 @@ category: gaming-arcades
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-gaming-arcades-fukuoka-福岡街機遊戲場完全攻略-在地人帶路的遊戲中心精選指南-969983.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 8.8
 tags: 福岡, 街機, 遊戲中心, 博多是當地的最大規模, 天神南
 license: CC BY 4.0
 ---

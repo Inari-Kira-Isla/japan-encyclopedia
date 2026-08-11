@@ -6,7 +6,7 @@ category: metro-systems
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-sendai-仙台地下鐵的在地生活圈-從車站出發的東北日常探索-f60025.html
 published: 2026-06-12
-quality_score: 7.5
+quality_score: 8.7
 tags: 仙台地下鐵, 東北交通, 杜之都, 仙台旅遊, 日本地下鐵
 license: CC BY 4.0
 ---

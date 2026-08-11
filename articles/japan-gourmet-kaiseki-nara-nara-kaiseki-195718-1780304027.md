@@ -6,7 +6,7 @@ category: kaiseki
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-kaiseki-nara-nara-kaiseki-195718-1780304027.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 8.7
 tags: kaiseki, nara, japan
 license: CC BY 4.0
 ---

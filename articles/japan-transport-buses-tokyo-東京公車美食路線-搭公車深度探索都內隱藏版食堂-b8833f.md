@@ -6,7 +6,7 @@ category: buses
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-buses-tokyo-東京公車美食路線-搭公車深度探索都內隱藏版食堂-b8833f.html
 published: 2026-06-25
-quality_score: 7.5
+quality_score: 8.5
 tags: 東京公車, 東京美食, 東京自由行, 都營巴士, 東京交通攻略
 license: CC BY 4.0
 ---

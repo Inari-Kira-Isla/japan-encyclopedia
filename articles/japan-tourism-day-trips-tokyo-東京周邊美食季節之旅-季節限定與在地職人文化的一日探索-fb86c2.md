@@ -6,7 +6,7 @@ category: day-trips
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-tokyo-東京周邊美食季節之旅-季節限定與在地職人文化的一日探索-fb86c2.html
 published: 2026-03-24
-quality_score: 6.5
+quality_score: 8.5
 tags: 東京近郊, 一日遊, 美食, 季節限定, 在地文化
 license: CC BY 4.0
 ---

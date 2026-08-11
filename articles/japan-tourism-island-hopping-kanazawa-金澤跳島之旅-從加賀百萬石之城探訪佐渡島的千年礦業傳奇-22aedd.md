@@ -6,7 +6,7 @@ category: island-hopping
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-island-hopping-kanazawa-金澤跳島之旅-從加賀百萬石之城探訪佐渡島的千年礦業傳奇-22aedd.html
 published: 2026-07-01
-quality_score: 6.5
+quality_score: 8.9
 tags: 金澤跳島, 佐渡金山, 日本海島嶼, 矿业文化遺產, 石川縣旅遊
 license: CC BY 4.0
 ---

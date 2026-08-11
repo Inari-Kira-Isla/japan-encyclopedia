@@ -6,7 +6,7 @@ category: arts-nightlife
 area: japan
 url: https://japan-encyclopedia.vercel.app/articles/japan-attractions-arts-nightlife-東京六本木完整指南2026-六本木hills-國立新美術館-六本木夜生活-六本木費用-jpy--69990e.html
 published: 2026-04-28
-quality_score: 6.1
+quality_score: 8.8
 tags: 東京六本木, 六本木Hills, 森美術館, 國立新美術館, 六本木藝術之夜
 license: CC BY 4.0
 ---

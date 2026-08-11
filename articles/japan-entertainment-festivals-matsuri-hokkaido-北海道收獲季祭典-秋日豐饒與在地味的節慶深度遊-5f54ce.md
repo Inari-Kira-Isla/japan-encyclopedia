@@ -6,7 +6,7 @@ category: festivals-matsuri
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-festivals-matsuri-hokkaido-北海道收獲季祭典-秋日豐饒與在地味的節慶深度遊-5f54ce.html
 published: 2026-05-25
-quality_score: 6.5
+quality_score: 8.5
 tags: 北海道祭典, 秋季祭典, 日本祭典, 札幌祭典, 旭川
 license: CC BY 4.0
 ---

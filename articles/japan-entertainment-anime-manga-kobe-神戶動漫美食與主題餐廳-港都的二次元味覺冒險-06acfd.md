@@ -6,7 +6,7 @@ category: anime-manga
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-kobe-神戶動漫美食與主題餐廳-港都的二次元味覺冒險-06acfd.html
 published: 2026-06-05
-quality_score: 6.5
+quality_score: 8.4
 tags: 神戶動漫, 主題餐廳, 神戶美食, 二次元, 動漫咖啡廳
 license: CC BY 4.0
 ---

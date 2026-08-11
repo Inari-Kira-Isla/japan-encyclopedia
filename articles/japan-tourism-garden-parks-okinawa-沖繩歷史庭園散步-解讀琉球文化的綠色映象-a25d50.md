@@ -6,7 +6,7 @@ category: garden-parks
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-okinawa-沖繩歷史庭園散步-解讀琉球文化的綠色映象-a25d50.html
 published: 2026-06-15
-quality_score: 6.5
+quality_score: 8.6
 tags: 沖繩, 花園, 公園, 世界遺產, 琉球文化
 license: CC BY 4.0
 ---

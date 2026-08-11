@@ -6,7 +6,7 @@ category: department-stores
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-department-stores-nara-奈良購物另類視角-3種旅人型別的百貨公司推薦指南-fb71e1.html
 published: 2026-05-22
-quality_score: 7.5
+quality_score: 8.7
 tags: 奈良購物, 日本中古都, 近鐵奈良站, 奈良特產, 銀髮友善
 license: CC BY 4.0
 ---

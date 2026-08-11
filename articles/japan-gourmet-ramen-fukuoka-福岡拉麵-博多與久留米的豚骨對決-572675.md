@@ -6,7 +6,7 @@ category: ramen
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-ramen-fukuoka-福岡拉麵-博多與久留米的豚骨對決-572675.html
 published: 2026-05-23
-quality_score: 6.5
+quality_score: 9.0
 tags: 博多拉麵, 久留米拉麵, 豚骨湯頭, 九州美食, 福岡豚骨
 license: CC BY 4.0
 ---

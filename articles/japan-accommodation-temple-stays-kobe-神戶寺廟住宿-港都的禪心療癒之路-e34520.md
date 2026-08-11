@@ -6,7 +6,7 @@ category: temple-stays
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-temple-stays-kobe-神戶寺廟住宿-港都的禪心療癒之路-e34520.html
 published: 2026-06-20
-quality_score: 6.5
+quality_score: 8.5
 tags: 神戶住宿, 寺廟住宿, 六甲山, 有馬溫泉, 禪修體驗
 license: CC BY 4.0
 ---

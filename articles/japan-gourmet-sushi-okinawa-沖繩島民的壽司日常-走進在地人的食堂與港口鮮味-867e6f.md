@@ -6,7 +6,7 @@ category: sushi
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sushi-okinawa-沖繩島民的壽司日常-走進在地人的食堂與港口鮮味-867e6f.html
 published: 2026-07-01
-quality_score: 6.5
+quality_score: 8.7
 tags: 沖繩壽司, 島壽司, 那霸美食, 沖繩必吃, 庶民壽司
 license: CC BY 4.0
 ---

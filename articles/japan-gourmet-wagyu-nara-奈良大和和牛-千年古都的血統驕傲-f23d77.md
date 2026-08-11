@@ -6,7 +6,7 @@ category: wagyu
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-wagyu-nara-奈良大和和牛-千年古都的血統驕傲-f23d77.html
 published: 2026-06-02
-quality_score: 6.5
+quality_score: 8.6
 tags: 日本和牛, 大和和牛, 奈良美食, 關西山陽, 燒肉
 license: CC BY 4.0
 ---

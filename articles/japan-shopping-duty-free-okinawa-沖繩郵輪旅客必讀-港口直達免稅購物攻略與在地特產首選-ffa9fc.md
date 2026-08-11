@@ -6,7 +6,7 @@ category: duty-free
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-duty-free-okinawa-沖繩郵輪旅客必讀-港口直達免稅購物攻略與在地特產首選-ffa9fc.html
 published: 2026-06-26
-quality_score: 7.5
+quality_score: 8.6
 tags: 沖繩免稅, 郵輪購物, 那霸港口, 日本退稅, 伴手禮推薦
 license: CC BY 4.0
 ---

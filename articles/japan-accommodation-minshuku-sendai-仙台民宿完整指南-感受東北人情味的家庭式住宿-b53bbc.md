@@ -6,7 +6,7 @@ category: minshuku
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-sendai-仙台民宿完整指南-感受東北人情味的家庭式住宿-b53bbc.html
 published: 2026-05-31
-quality_score: 6.5
+quality_score: 8.7
 tags: 仙台民宿, 東北住宿, 日本家庭式住宿, minshuku, 仙台旅行
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: historical-districts
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-kobe-神戶歷史街區-港都味覺的百年流轉-4f0386.html
 published: 2026-06-26
-quality_score: 6.5
+quality_score: 8.5
 tags: 神戶, 歷史街區, 南京町, 異人館, 神戶牛
 license: CC BY 4.0
 ---

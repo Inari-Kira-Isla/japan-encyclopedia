@@ -6,7 +6,7 @@ category: metro-systems
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-tokyo-東京地下鐵的通勤美學-上班族視角下的效率首都-595968.html
 published: 2026-06-30
-quality_score: 7.5
+quality_score: 8.7
 tags: 東京地下鐵, 東京Metro, 通勤, 首都圈交通, 日本鐵道
 license: CC BY 4.0
 ---

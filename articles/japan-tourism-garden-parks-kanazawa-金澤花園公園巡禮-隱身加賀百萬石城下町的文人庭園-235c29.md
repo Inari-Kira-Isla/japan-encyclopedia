@@ -6,7 +6,7 @@ category: garden-parks
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-kanazawa-金澤花園公園巡禮-隱身加賀百萬石城下町的文人庭園-235c29.html
 published: 2026-06-02
-quality_score: 6.5
+quality_score: 8.8
 tags: 金澤花園, 兼六園, 日本庭園, 加賀百萬石, 金澤旅遊
 license: CC BY 4.0
 ---

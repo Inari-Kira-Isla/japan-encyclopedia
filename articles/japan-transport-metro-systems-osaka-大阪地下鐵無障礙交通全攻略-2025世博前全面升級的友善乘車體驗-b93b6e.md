@@ -6,7 +6,7 @@ category: metro-systems
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-osaka-大阪地下鐵無障礙交通全攻略-2025世博前全面升級的友善乘車體驗-b93b6e.html
 published: 2026-06-28
-quality_score: 7.5
+quality_score: 8.9
 tags: 大阪地下鐵, 無障礙交通, 2025大阪世博, 通用設計, 關西交通
 license: CC BY 4.0
 ---

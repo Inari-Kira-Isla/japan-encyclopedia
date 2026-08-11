@@ -6,7 +6,7 @@ category: department-stores
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-department-stores-okinawa-沖繩免稅購物攻略-國際遊客的南國百貨消費指南-dff867.html
 published: 2026-06-06
-quality_score: 7.5
+quality_score: 8.5
 tags: 沖繩購物, 免稅購物, 國際遊客, 沖繩百货, 日本購物
 license: CC BY 4.0
 ---

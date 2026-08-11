@@ -6,7 +6,7 @@ category: boutique-hotels
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-kobe-神戶山手感居停宿-港都異國宅邸的慢遊居所-26078c.html
 published: 2026-05-22
-quality_score: 6.5
+quality_score: 8.6
 tags: 神戶精品住宿, 山手Guesthouse, 南京町周邊住宿, 神戶非主流住宿, 港都慢遊
 license: CC BY 4.0
 ---

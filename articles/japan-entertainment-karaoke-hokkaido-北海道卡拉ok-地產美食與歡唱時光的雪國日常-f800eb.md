@@ -6,7 +6,7 @@ category: karaoke
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-karaoke-hokkaido-北海道卡拉ok-地產美食與歡唱時光的雪國日常-f800eb.html
 published: 2026-06-12
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道, 卡拉OK, 札幌, 薄野, 雪國娛樂
 license: CC BY 4.0
 ---

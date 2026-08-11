@@ -6,7 +6,7 @@ category: business-hotels
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-business-hotels-osaka-大阪商務酒店-遠距工作時代的新型態住宿選擇-34e89a.html
 published: 2026-06-12
-quality_score: 6.5
+quality_score: 8.5
 tags: 大阪商務酒店, 關西商務住宿, 遠距工作住宿, 大阪出差, 長期住宿
 license: CC BY 4.0
 ---

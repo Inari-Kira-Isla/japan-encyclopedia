@@ -6,7 +6,7 @@ category: onsen
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-onsen-fukuoka-福岡溫泉住宿與周邊溫泉區-作為九州溫泉根據地的完全攻略-e749ed.html
 published: 2026-06-05
-quality_score: 6.5
+quality_score: 8.5
 tags: 福岡溫泉, 九州溫泉, 由布院溫泉, 別府溫泉, 黑川溫泉
 license: CC BY 4.0
 ---

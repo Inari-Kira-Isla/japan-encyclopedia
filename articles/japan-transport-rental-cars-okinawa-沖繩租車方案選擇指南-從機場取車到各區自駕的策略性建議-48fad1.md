@@ -6,7 +6,7 @@ category: rental-cars
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-okinawa-沖繩租車方案選擇指南-從機場取車到各區自駕的策略性建議-48fad1.html
 published: 2026-06-18
-quality_score: 7.5
+quality_score: 8.5
 tags: 沖繩租車, 自駕遊, Okinawa, 那霸機場, OTS租車
 license: CC BY 4.0
 ---

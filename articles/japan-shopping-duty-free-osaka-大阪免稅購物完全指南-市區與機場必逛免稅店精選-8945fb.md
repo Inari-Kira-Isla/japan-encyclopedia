@@ -6,7 +6,7 @@ category: duty-free
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-duty-free-osaka-大阪免稅購物完全指南-市區與機場必逛免稅店精選-8945fb.html
 published: 2026-04-06
-quality_score: 7.5
+quality_score: 8.7
 tags: 大阪免稅, 大阪購物, 關西空港免稅, 心齋橋藥妝, 泉州毛巾
 license: CC BY 4.0
 ---

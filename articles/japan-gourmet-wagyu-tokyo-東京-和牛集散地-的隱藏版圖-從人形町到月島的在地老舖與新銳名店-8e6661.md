@@ -6,7 +6,7 @@ category: wagyu
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-wagyu-tokyo-東京-和牛集散地-的隱藏版圖-從人形町到月島的在地老舖與新銳名店-8e6661.html
 published: 2026-06-29
-quality_score: 6.5
+quality_score: 8.5
 tags: 東京和牛, 人形町, 月島文字燒, 澀谷美食, 築地市場
 license: CC BY 4.0
 ---

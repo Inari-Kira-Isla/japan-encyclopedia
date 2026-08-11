@@ -6,7 +6,7 @@ category: karaoke
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-karaoke-kyoto-京都夜生活提案-卡拉ok與京都晚餐的完美攻略-87b9bd.html
 published: 2026-04-04
-quality_score: 6.5
+quality_score: 8.8
 tags: 京都夜生活, 京都卡拉OK, 河原町四条, 京都美食, 京都自由行
 license: CC BY 4.0
 ---

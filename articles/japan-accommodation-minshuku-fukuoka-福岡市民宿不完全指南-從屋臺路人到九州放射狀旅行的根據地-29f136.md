@@ -6,7 +6,7 @@ category: minshuku
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-fukuoka-福岡市民宿不完全指南-從屋臺路人到九州放射狀旅行的根據地-29f136.html
 published: 2026-06-21
-quality_score: 6.5
+quality_score: 8.7
 tags: 福岡民宿, 九州旅行, 屋台文化, Minshuku, 博多
 license: CC BY 4.0
 ---

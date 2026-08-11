@@ -6,7 +6,7 @@ category: ferries
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-ferries-kanazawa-金澤出發能登半島海上交通-航向日本海的秘境之旅-dce6e2.html
 published: 2026-07-06
-quality_score: 7.5
+quality_score: 8.6
 tags: 金澤交通, 能登半島, 日本海渡輪, 石川縣, 金澤周邊
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: duty-free
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-duty-free-kyoto-京都隱藏版免稅購物指南-當地人愛逛的老舖與職人小店-a04192.html
 published: 2026-05-25
-quality_score: 7.5
+quality_score: 8.8
 tags: 京都免稅, 京都購物, 京都自由行, 關西旅遊, 日本旅遊
 license: CC BY 4.0
 ---

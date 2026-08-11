@@ -6,7 +6,7 @@ category: scenic-routes
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-kyoto-京都文學散步小徑-跟隨俳句詩人與僧侶足跡的詩意路徑-686a1a.html
 published: 2026-06-12
-quality_score: 6.5
+quality_score: 8.7
 tags: 京都, 文學散步, 西行法師, 松尾芭蕉, 古道健行
 license: CC BY 4.0
 ---

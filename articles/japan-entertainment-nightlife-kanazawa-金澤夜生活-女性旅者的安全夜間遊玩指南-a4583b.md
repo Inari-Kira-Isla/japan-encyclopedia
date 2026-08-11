@@ -6,7 +6,7 @@ category: nightlife
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-kanazawa-金澤夜生活-女性旅者的安全夜間遊玩指南-a4583b.html
 published: 2026-06-07
-quality_score: 6.5
+quality_score: 8.6
 tags: 金澤夜生活, 女性旅遊, 北陸自助, 金澤美食, 安全旅遊
 license: CC BY 4.0
 ---

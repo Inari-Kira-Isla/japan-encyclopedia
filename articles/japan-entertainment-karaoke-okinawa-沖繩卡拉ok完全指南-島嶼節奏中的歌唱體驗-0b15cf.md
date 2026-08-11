@@ -6,7 +6,7 @@ category: karaoke
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-karaoke-okinawa-沖繩卡拉ok完全指南-島嶼節奏中的歌唱體驗-0b15cf.html
 published: 2026-06-02
-quality_score: 6.5
+quality_score: 8.4
 tags: 沖繩卡拉OK, 那霸国際通, 美國村, 島唄, 沖繩夜生活
 license: CC BY 4.0
 ---

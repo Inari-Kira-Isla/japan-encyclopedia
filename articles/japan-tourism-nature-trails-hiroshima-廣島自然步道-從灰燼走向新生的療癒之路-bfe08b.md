@@ -6,7 +6,7 @@ category: nature-trails
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-hiroshima-廣島自然步道-從灰燼走向新生的療癒之路-bfe08b.html
 published: 2026-07-02
-quality_score: 6.5
+quality_score: 8.7
 tags: 廣島自然步道, 廣島登山, 瀨戶內海步道, 宮島彌山, 廣島和平
 license: CC BY 4.0
 ---

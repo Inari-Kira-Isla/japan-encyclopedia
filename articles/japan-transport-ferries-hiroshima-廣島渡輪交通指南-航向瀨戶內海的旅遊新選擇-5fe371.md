@@ -6,7 +6,7 @@ category: ferries
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-ferries-hiroshima-廣島渡輪交通指南-航向瀨戶內海的旅遊新選擇-5fe371.html
 published: 2026-03-21
-quality_score: 7.5
+quality_score: 8.7
 tags: 廣島交通, 日本渡輪, 瀨戶內海, 宮島, 呉市
 license: CC BY 4.0
 ---

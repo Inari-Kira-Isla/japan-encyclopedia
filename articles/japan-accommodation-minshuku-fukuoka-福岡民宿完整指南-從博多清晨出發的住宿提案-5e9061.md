@@ -6,7 +6,7 @@ category: minshuku
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-fukuoka-福岡民宿完整指南-從博多清晨出發的住宿提案-5e9061.html
 published: 2026-06-03
-quality_score: 6.5
+quality_score: 8.5
 tags: 福岡民宿, 九州自由行, 博多的宿, Minshuku, 福岡住宿
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: shinkansen
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-sendai-仙台直通-從東京漫遊東北的高速鐵路體驗指南-1a6e7b.html
 published: 2026-06-26
-quality_score: 7.5
+quality_score: 8.7
 tags: 仙台新股, 東北新股, 日本東北旅遊, 東京到仙台, 仙台交通
 license: CC BY 4.0
 ---

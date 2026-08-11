@@ -6,7 +6,7 @@ category: day-trips
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-kanazawa-金澤文化藝術一日遊-從傳統工藝到當代美學的深度體驗-3b57aa.html
 published: 2026-03-28
-quality_score: 6.5
+quality_score: 8.8
 tags: 金澤, 文化藝術, 傳統工藝, 現代美術, 一日遊
 license: CC BY 4.0
 ---

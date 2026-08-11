@@ -6,7 +6,7 @@ category: ryokan
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-kanazawa-金澤溫泉旅館完全指南-在加賀百萬石城下體驗極致待客之道-1d5bd6.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 8.6
 tags: 金澤溫泉旅館, 加賀百萬石, 山代溫泉, 山中溫泉, 片山津溫泉
 license: CC BY 4.0
 ---

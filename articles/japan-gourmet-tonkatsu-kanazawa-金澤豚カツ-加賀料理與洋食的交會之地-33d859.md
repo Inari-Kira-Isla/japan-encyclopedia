@@ -6,7 +6,7 @@ category: tonkatsu
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tonkatsu-kanazawa-金澤豚カツ-加賀料理與洋食的交會之地-33d859.html
 published: 2026-06-06
-quality_score: 6.5
+quality_score: 8.6
 tags: 金澤美食, 石川縣, 豚かつ, 加賀料理, 洋食
 license: CC BY 4.0
 ---

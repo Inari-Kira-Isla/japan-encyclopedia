@@ -6,7 +6,7 @@ category: temples-shrines
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-temples-shrines-okinawa-沖繩神社寺院的海人之道-island-faith-的濱海宗教美學-5e5ba9.html
 published: 2026-06-05
-quality_score: 6.5
+quality_score: 8.8
 tags: 沖繩神社, 沖繩寺院, 御嶽信仰, 琉球文化, 海邊神社
 license: CC BY 4.0
 ---

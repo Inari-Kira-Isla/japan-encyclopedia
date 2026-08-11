@@ -6,7 +6,7 @@ category: castle-towns
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-castle-towns-tokyo-東京城堡城鎮-從江戶城堡到現代都市的歷史軌跡-cd905e.html
 published: 2026-05-22
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京城堡城镇, 江戶城, 皇居東御苑, 歷史散步, 武家遗迹
 license: CC BY 4.0
 ---

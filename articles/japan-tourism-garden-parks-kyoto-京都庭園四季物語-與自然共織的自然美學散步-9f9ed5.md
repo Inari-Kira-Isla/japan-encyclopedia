@@ -6,7 +6,7 @@ category: garden-parks
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-kyoto-京都庭園四季物語-與自然共織的自然美學散步-9f9ed5.html
 published: 2026-05-22
-quality_score: 6.5
+quality_score: 8.5
 tags: 京都庭園, 春季賞櫻, 夏季綠蔭, 秋季楓紅, 冬季雪景
 license: CC BY 4.0
 ---

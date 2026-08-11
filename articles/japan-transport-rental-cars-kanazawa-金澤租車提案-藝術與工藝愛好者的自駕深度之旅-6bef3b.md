@@ -6,7 +6,7 @@ category: rental-cars
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-kanazawa-金澤租車提案-藝術與工藝愛好者的自駕深度之旅-6bef3b.html
 published: 2026-06-05
-quality_score: 7.5
+quality_score: 8.3
 tags: 金澤租車, 石川縣自驾, 加賀友禪, 九谷燒, 金箔
 license: CC BY 4.0
 ---

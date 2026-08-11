@@ -6,7 +6,7 @@ category: rental-cars
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-sendai-仙台賞楓自駕遊-秋日東北的紅色公路旅行-344780.html
 published: 2026-06-05
-quality_score: 7.5
+quality_score: 8.5
 tags: 仙台租車, 東北賞楓, 日本自駕遊, 秋季日本, 鳴子峽谷
 license: CC BY 4.0
 ---

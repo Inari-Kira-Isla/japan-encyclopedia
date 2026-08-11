@@ -6,7 +6,7 @@ category: depachika
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-depachika-kobe-神戶-depachika-關西港都的百貨地下美食寶庫-c79119.html
 published: 2026-03-20
-quality_score: 6.5
+quality_score: 8.5
 tags: 神戶美食, Depachika, 百貨地下街, 神戶牛, 洋菓子
 license: CC BY 4.0
 ---

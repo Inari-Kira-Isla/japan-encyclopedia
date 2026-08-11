@@ -6,7 +6,7 @@ category: temples-shrines
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-temples-shrines-fukuoka-福岡神社寺院-九州門戶的港都信仰生活-941b0a.html
 published: 2026-06-29
-quality_score: 6.5
+quality_score: 8.6
 tags: 福岡, 神社, 寺院, 九州, 博多
 license: CC BY 4.0
 ---

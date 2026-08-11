@@ -6,7 +6,7 @@ category: nature-trails
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-hokkaido-北海道生態步道完全攻略-追蹤丹頂鶴與棕熊的野生觀察之旅-773c65.html
 published: 2026-04-07
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道, 自然步道, 生態旅遊, 丹頂鶴, 濕原
 license: CC BY 4.0
 ---

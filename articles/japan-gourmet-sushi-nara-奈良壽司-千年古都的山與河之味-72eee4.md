@@ -6,7 +6,7 @@ category: sushi
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sushi-nara-奈良壽司-千年古都的山與河之味-72eee4.html
 published: 2026-06-27
-quality_score: 6.5
+quality_score: 8.5
 tags: 奈良美食, 奈良壽司, 內陸壽司, 柿葉壽司, 日本古都美食
 license: CC BY 4.0
 ---

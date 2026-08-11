@@ -6,7 +6,7 @@ category: vintage-thrift
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-vintage-thrift-kobe-神戶古著小眾指南-從在地社群到設計師發現-3c5686.html
 published: 2026-03-22
-quality_score: 7.5
+quality_score: 8.6
 tags: 神戶古著, 日本購物, vintage thrift, 在地社群, 小眾景點
 license: CC BY 4.0
 ---

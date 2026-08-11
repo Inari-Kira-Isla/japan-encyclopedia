@@ -6,7 +6,7 @@ category: historical-districts
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-tokyo-東京歷史街區-活著的時空切片-七個未被遊客淹沒的下町散步徑-f90ba5.html
 published: 2026-05-23
-quality_score: 6.5
+quality_score: 8.6
 tags: 東京歷史街區, 下町散步, 谷中, 神樂坂, 合羽橋
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: karaoke
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-karaoke-kobe-神戶卡拉ok-港都山丘與夜景的歡唱時光-3b9a92.html
 published: 2026-06-13
-quality_score: 6.5
+quality_score: 8.7
 tags: 神戶卡拉OK, 神戶夜生活, 關西娛樂, 港都體驗, 神戶旅遊
 license: CC BY 4.0
 ---

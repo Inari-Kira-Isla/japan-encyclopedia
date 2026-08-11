@@ -6,7 +6,7 @@ category: festivals-matsuri
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-festivals-matsuri-hiroshima-廣島祭典職人之路-重建之城的技藝與和平文化融合慶典-55a4e9.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.8
 tags: 廣島祭典, 職人技藝, 和平文化, 傳統工藝, 文化體驗
 license: CC BY 4.0
 ---

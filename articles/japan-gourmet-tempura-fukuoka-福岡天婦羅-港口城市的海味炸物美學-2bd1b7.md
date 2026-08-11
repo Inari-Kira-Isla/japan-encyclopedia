@@ -6,7 +6,7 @@ category: tempura
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tempura-fukuoka-福岡天婦羅-港口城市的海味炸物美學-2bd1b7.html
 published: 2026-04-04
-quality_score: 6.5
+quality_score: 8.8
 tags: 福岡美食, 天婦羅, 九州料理, 博多是市場, 日本料理
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: okonomiyaki
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-okonomiyaki-sendai-仙台御好燒-東北風味的關西料理在地演繹-a82c3a.html
 published: 2026-06-16
-quality_score: 6.5
+quality_score: 8.7
 tags: 仙台美食, 御好燒, 日本東北, 鐵板料理, 仙台牛
 license: CC BY 4.0
 ---

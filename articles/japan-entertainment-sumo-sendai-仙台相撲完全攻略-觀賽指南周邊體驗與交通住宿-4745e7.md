@@ -6,7 +6,7 @@ category: sumo
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-sendai-仙台相撲完全攻略-觀賽指南周邊體驗與交通住宿-4745e7.html
 published: 2026-05-25
-quality_score: 6.5
+quality_score: 8.9
 tags: 仙台相撲, 日本觀賽攻略, 東北旅行, 相撲體驗, 仙台場所
 license: CC BY 4.0
 ---

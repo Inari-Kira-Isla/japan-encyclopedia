@@ -6,7 +6,7 @@ category: ryokan
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-nagoya-名古屋微型湯旅-限定版小型溫泉住宿的究極體驗-5a640e.html
 published: 2026-05-22
-quality_score: 6.5
+quality_score: 8.8
 tags: 名古屋Ryokan, 微型溫泉住宿, 中部地方泡湯, 名古屋溫泉推薦, 一泊二食
 license: CC BY 4.0
 ---

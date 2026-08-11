@@ -6,7 +6,7 @@ category: kaiseki
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-kaiseki-kanazawa-金澤會席料理-加賀百萬石之地的山海旬味-658f76.html
 published: 2026-06-25
-quality_score: 6.5
+quality_score: 8.9
 tags: 金澤美食, 會席料理, 加賀料理, 日本海側海鮮, 北陸旅行
 license: CC BY 4.0
 ---

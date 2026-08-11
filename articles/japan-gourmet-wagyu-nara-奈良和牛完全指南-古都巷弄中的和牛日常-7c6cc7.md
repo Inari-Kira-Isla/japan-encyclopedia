@@ -6,7 +6,7 @@ category: wagyu
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-wagyu-nara-奈良和牛完全指南-古都巷弄中的和牛日常-7c6cc7.html
 published: 2026-06-11
-quality_score: 6.5
+quality_score: 8.8
 tags: 奈良, 大和牛, 日本和牛, 燒肉, 近鐵奈良
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: shinkansen
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-kanazawa-金澤交通攻略-北陸新娘引領的石川慢旅-d998be.html
 published: 2026-06-01
-quality_score: 7.5
+quality_score: 8.8
 tags: 金澤, 北路新娘, 石川縣, 日本鐵道, 北陸地方
 license: CC BY 4.0
 ---

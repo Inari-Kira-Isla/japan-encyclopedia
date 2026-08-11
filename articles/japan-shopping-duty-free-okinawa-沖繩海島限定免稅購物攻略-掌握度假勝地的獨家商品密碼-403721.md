@@ -6,7 +6,7 @@ category: duty-free
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-duty-free-okinawa-沖繩海島限定免稅購物攻略-掌握度假勝地的獨家商品密碼-403721.html
 published: 2026-03-29
-quality_score: 7.5
+quality_score: 8.7
 tags: 沖繩購物, 免稅店, 海島限定, 泡盛, 度假購物
 license: CC BY 4.0
 ---

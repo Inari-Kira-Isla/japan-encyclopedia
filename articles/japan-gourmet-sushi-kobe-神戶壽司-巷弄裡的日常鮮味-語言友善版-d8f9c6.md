@@ -6,7 +6,7 @@ category: sushi
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sushi-kobe-神戶壽司-巷弄裡的日常鮮味-語言友善版-d8f9c6.html
 published: 2026-06-28
-quality_score: 6.5
+quality_score: 8.7
 tags: 神戶壽司, 神戶美食, 瀨戶內海, 關西壽司, 神戶自助旅行
 license: CC BY 4.0
 ---

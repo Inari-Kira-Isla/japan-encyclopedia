@@ -6,7 +6,7 @@ category: street-food
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-street-food-tokyo-tokyo下班後的味覺-salaryman通勤站的深夜食堂-682ae4.html
 published: 2026-05-22
-quality_score: 6.5
+quality_score: 8.9
 tags: 東京街頭美食, 通勤车站, 下班后食堂, SALARYMAN美食, 立吞拉麵
 license: CC BY 4.0
 ---

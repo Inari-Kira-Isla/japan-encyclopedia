@@ -6,7 +6,7 @@ category: duty-free
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-duty-free-kobe-神戶免稅購物完全指南-元町-三宮商圈與港都美食特產地圖-9d4060.html
 published: 2026-06-27
-quality_score: 7.5
+quality_score: 8.8
 tags: 神戶免稅購物, 元町商圈, 三宮地下街, 神戶牛, 灘五鄉清酒
 license: CC BY 4.0
 ---

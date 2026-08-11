@@ -6,7 +6,7 @@ category: electronics
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-electronics-fukuoka-福岡電子產品購物指南-從半導體聖地到數位生活提案-58d7a8.html
 published: 2026-06-13
-quality_score: 7.5
+quality_score: 8.2
 tags: 福岡電子產品, 九州半導體, 福岡購物, 博多大電器, 天神數位產品
 license: CC BY 4.0
 ---

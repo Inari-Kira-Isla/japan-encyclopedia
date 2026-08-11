@@ -6,7 +6,7 @@ category: department-stores
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-department-stores-kyoto-京都百貨公司購物指南-古都的現代消費體驗-29257b.html
 published: 2026-03-21
-quality_score: 7.5
+quality_score: 8.8
 tags: 京都, 百貨公司, 日本購物, 伴手禮, 免稅
 license: CC BY 4.0
 ---

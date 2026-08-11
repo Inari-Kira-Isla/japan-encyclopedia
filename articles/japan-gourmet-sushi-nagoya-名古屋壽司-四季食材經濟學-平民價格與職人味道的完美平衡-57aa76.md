@@ -6,7 +6,7 @@ category: sushi
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sushi-nagoya-名古屋壽司-四季食材經濟學-平民價格與職人味道的完美平衡-57aa76.html
 published: 2026-03-24
-quality_score: 6.5
+quality_score: 8.4
 tags: 日本美食, 名古屋, 壽司, 海鮮, 季節食材
 license: CC BY 4.0
 ---

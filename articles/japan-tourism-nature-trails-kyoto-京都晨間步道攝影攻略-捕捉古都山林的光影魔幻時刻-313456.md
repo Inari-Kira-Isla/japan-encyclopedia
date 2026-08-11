@@ -6,7 +6,7 @@ category: nature-trails
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-kyoto-京都晨間步道攝影攻略-捕捉古都山林的光影魔幻時刻-313456.html
 published: 2026-06-15
-quality_score: 6.5
+quality_score: 8.5
 tags: 京都自然步道, 晨間攝影, 古都光影, 日本秘境步道, 京都櫻花步道
 license: CC BY 4.0
 ---

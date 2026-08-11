@@ -6,7 +6,7 @@ category: garden-parks
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-sendai-仙台市民的私房綠陰-當地人日常走訪的庭院秘徑-982a62.html
 published: 2026-06-12
-quality_score: 6.5
+quality_score: 8.9
 tags: 仙台, 公園, 杜之都, 在地體驗, 東北散步
 license: CC BY 4.0
 ---

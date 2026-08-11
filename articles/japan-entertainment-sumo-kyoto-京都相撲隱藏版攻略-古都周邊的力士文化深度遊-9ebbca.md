@@ -6,7 +6,7 @@ category: sumo
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-kyoto-京都相撲隱藏版攻略-古都周邊的力士文化深度遊-9ebbca.html
 published: 2026-07-06
-quality_score: 6.5
+quality_score: 8.7
 tags: 京都相撲, 關西相撲, 相撲體驗, 大阪春季相撲, ちゃんこ火鍋
 license: CC BY 4.0
 ---

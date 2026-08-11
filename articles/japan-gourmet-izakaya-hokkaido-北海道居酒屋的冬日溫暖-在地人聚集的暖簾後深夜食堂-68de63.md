@@ -6,7 +6,7 @@ category: izakaya
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-izakaya-hokkaido-北海道居酒屋的冬日溫暖-在地人聚集的暖簾後深夜食堂-68de63.html
 published: 2026-06-22
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道居酒屋, 札幌美食, 小樽美食, 旭川美食, 日本冬季
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: metro-systems
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-okinawa-沖繩都市交通系統-沒有地鐵的南部軌道交通指南-ad92df.html
 published: 2026-06-02
-quality_score: 7.5
+quality_score: 8.5
 tags: 沖繩交通, 單軌電車, 那霸, 日本鐵道, 沖繩自助旅行
 license: CC BY 4.0
 ---

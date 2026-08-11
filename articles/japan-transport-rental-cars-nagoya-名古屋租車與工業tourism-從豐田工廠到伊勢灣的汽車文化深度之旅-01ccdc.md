@@ -6,7 +6,7 @@ category: rental-cars
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-nagoya-名古屋租車與工業tourism-從豐田工廠到伊勢灣的汽車文化深度之旅-01ccdc.html
 published: 2026-06-20
-quality_score: 7.5
+quality_score: 8.9
 tags: 名古屋租車, 豐田工廠參觀, ToyotaRent-a-Car, 中部國際機場租車, 伊勢灣自駕
 license: CC BY 4.0
 ---

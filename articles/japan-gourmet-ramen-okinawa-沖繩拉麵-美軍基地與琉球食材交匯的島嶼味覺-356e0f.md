@@ -6,7 +6,7 @@ category: ramen
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-ramen-okinawa-沖繩拉麵-美軍基地與琉球食材交匯的島嶼味覺-356e0f.html
 published: 2026-06-07
-quality_score: 6.5
+quality_score: 8.7
 tags: 沖繩拉麵,  Okinawa Ramen, 美軍基地, 苦瓜拉麵, 琉球食材
 license: CC BY 4.0
 ---

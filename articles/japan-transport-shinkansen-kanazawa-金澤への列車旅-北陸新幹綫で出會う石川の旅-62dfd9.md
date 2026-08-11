@@ -6,7 +6,7 @@ category: shinkansen
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-kanazawa-金澤への列車旅-北陸新幹綫で出會う石川の旅-62dfd9.html
 published: 2026-06-18
-quality_score: 7.5
+quality_score: 8.9
 tags: 金澤, 北陸新幹綫, 石川縣, 日本鐵道, 溫泉鐵道體驗
 license: CC BY 4.0
 ---

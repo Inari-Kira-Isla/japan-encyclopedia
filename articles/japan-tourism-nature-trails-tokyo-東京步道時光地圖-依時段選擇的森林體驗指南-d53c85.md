@@ -6,7 +6,7 @@ category: nature-trails
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-tokyo-東京步道時光地圖-依時段選擇的森林體驗指南-d53c85.html
 published: 2026-06-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京步道, 自然健行, 森林浴, 登山, 東京近郊
 license: CC BY 4.0
 ---

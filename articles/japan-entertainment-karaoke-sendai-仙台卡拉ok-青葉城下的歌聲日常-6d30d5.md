@@ -6,7 +6,7 @@ category: karaoke
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-karaoke-sendai-仙台卡拉ok-青葉城下的歌聲日常-6d30d5.html
 published: 2026-06-27
-quality_score: 6.5
+quality_score: 8.7
 tags: 仙台, 卡拉OK, 東北娛樂, 社區小店, 在地體驗
 license: CC BY 4.0
 ---

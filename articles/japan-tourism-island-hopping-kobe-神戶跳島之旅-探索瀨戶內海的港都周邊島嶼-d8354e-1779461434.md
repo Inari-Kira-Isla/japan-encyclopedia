@@ -6,7 +6,7 @@ category: island-hopping
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-island-hopping-kobe-神戶跳島之旅-探索瀨戶內海的港都周邊島嶼-d8354e-1779461434.html
 published: 2026-05-22
-quality_score: 6.5
+quality_score: 8.7
 tags: 神戶, 瀨戶內海, 跳島, 直島, 藝術旅遊
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: temples-shrines
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-temples-shrines-kyoto-京都寺院自然美學-四季庭院與隱藏版禪意空間-965c02.html
 published: 2026-06-07
-quality_score: 6.5
+quality_score: 8.6
 tags: 京都, 寺院, 神社, 自然美學, 枯山水
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: electronics
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-electronics-okinawa-okinawa-電子產品購物指南-熱帶島嶼的防護型電器選購攻略-d02af2.html
 published: 2026-05-23
-quality_score: 7.5
+quality_score: 8.5
 tags: 沖繩電子產品, 防潮電器, 熱帶島嶼購物, 日本電器選購, 沖繩旅遊攻略
 license: CC BY 4.0
 ---

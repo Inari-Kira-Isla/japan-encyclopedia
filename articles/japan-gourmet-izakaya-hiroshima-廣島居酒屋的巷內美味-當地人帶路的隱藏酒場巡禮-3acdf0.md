@@ -6,7 +6,7 @@ category: izakaya
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-izakaya-hiroshima-廣島居酒屋的巷內美味-當地人帶路的隱藏酒場巡禮-3acdf0.html
 published: 2026-06-08
-quality_score: 6.5
+quality_score: 8.6
 tags: 廣島居酒屋, 廣島美食, 瀨戶內海海鮮, 廣島燒, 日本酒吧
 license: CC BY 4.0
 ---

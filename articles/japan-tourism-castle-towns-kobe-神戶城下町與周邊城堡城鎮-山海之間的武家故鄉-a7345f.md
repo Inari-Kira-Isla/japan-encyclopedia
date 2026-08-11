@@ -6,7 +6,7 @@ category: castle-towns
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-castle-towns-kobe-神戶城下町與周邊城堡城鎮-山海之間的武家故鄉-a7345f.html
 published: 2026-06-29
-quality_score: 6.5
+quality_score: 8.5
 tags: 神戶, 城堡城鎮, 城下町, 姬路城, 日本城堡
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: ski-resorts
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-ski-resorts-sendai-北海道的-城堡城鎮-明治開拓時代的城下町風情-9f3216.html
 published: 2026-06-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道, 城下町, 歷史小鎮, 明治時代, 開拓
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: department-stores
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-department-stores-hokkaido-北海道季節限定購物指南-跟著在地人挖寶的百貨公司四季攻略-abc107.html
 published: 2026-06-25
-quality_score: 7.5
+quality_score: 9.0
 tags: 北海道購物, 札幌百货, 旭川購物, 小樽土產, 北海道手信
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: buses
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-buses-okinawa-沖繩巴士島際交通手冊-串聯160島的巴士-渡輪複合攻略-5ba861.html
 published: 2026-06-13
-quality_score: 7.5
+quality_score: 8.4
 tags: 沖繩巴士, 島際交通, 巴士渡輪攻略, 沖繩自助旅行, 渡輪碼頭
 license: CC BY 4.0
 ---

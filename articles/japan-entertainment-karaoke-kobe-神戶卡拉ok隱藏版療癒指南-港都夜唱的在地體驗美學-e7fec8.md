@@ -6,7 +6,7 @@ category: karaoke
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-karaoke-kobe-神戶卡拉ok隱藏版療癒指南-港都夜唱的在地體驗美學-e7fec8.html
 published: 2026-06-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 神戶, 卡拉OK, 關西, 夜生活, 日本娛樂
 license: CC BY 4.0
 ---

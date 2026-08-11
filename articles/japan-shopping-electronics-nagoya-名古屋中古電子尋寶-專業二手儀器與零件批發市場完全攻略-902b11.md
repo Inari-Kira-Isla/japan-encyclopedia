@@ -6,7 +6,7 @@ category: electronics
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-electronics-nagoya-名古屋中古電子尋寶-專業二手儀器與零件批發市場完全攻略-902b11.html
 published: 2026-06-23
-quality_score: 7.5
+quality_score: 8.4
 tags: 名古屋電子, 二手市場, 中古電器, 零件批發, 工業電子
 license: CC BY 4.0
 ---

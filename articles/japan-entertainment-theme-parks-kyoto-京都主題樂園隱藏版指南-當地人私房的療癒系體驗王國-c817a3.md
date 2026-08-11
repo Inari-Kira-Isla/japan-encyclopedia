@@ -6,7 +6,7 @@ category: theme-parks
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-theme-parks-kyoto-京都主題樂園隱藏版指南-當地人私房的療癒系體驗王國-c817a3.html
 published: 2026-06-24
-quality_score: 6.5
+quality_score: 8.6
 tags: 京都主題樂園, 京都文化體驗, 嵯峨野小火車, 東映太秦映畫村, 京都隱藏版景點
 license: CC BY 4.0
 ---

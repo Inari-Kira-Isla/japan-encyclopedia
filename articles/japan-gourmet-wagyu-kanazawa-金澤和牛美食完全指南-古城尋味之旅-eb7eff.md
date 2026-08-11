@@ -6,7 +6,7 @@ category: wagyu
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-wagyu-kanazawa-金澤和牛美食完全指南-古城尋味之旅-eb7eff.html
 published: 2026-06-17
-quality_score: 6.5
+quality_score: 8.8
 tags: 金澤, 和牛, 石川, 美食, 燒肉
 license: CC BY 4.0
 ---

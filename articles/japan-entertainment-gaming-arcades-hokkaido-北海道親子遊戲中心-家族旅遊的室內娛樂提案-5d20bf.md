@@ -6,7 +6,7 @@ category: gaming-arcades
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-gaming-arcades-hokkaido-北海道親子遊戲中心-家族旅遊的室內娛樂提案-5d20bf.html
 published: 2026-06-30
-quality_score: 6.5
+quality_score: 8.8
 tags: 北海道, 遊戲中心, 親子旅遊, 室內娛樂, 札幌
 license: CC BY 4.0
 ---

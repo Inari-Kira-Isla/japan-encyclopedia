@@ -6,7 +6,7 @@ category: ski-resorts
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-ski-resorts-kyoto-京都出發滑雪攻略-關西山城的滑雪可行性與周邊雪場推薦-a57321.html
 published: 2026-06-14
-quality_score: 6.5
+quality_score: 8.7
 tags: 京都滑雪, 關西滑雪場, 京都出發滑雪, 日本滑雪一日遊, 滋賀滑雪場
 license: CC BY 4.0
 ---

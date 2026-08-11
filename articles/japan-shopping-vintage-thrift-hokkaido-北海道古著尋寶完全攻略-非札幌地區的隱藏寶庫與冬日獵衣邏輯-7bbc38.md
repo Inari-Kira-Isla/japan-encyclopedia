@@ -6,7 +6,7 @@ category: vintage-thrift
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-vintage-thrift-hokkaido-北海道古著尋寶完全攻略-非札幌地區的隱藏寶庫與冬日獵衣邏輯-7bbc38.html
 published: 2026-05-24
-quality_score: 7.5
+quality_score: 8.6
 tags: 北海道, 古著, 二手市場, 旭川, 帶廣
 license: CC BY 4.0
 ---

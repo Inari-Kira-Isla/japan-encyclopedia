@@ -6,7 +6,7 @@ category: theme-parks
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-theme-parks-nagoya-名古屋主題樂園與家庭遊樂-中部地區的親子同樂提案-bfb428.html
 published: 2026-05-23
-quality_score: 6.5
+quality_score: 8.5
 tags: 名古屋主題樂園, 名古屋家庭旅遊, LEGOLAND Japan, 中部親子遊, 名古屋遊樂設施
 license: CC BY 4.0
 ---

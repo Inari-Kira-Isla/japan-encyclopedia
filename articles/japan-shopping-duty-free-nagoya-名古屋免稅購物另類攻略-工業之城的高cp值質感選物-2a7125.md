@@ -6,7 +6,7 @@ category: duty-free
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-duty-free-nagoya-名古屋免稅購物另類攻略-工業之城的高cp值質感選物-2a7125.html
 published: 2026-06-28
-quality_score: 7.5
+quality_score: 8.7
 tags: 名古屋免稅購物, 日本購物攻略, 中部國際空港, 名古屋自由行, 質感日貨
 license: CC BY 4.0
 ---

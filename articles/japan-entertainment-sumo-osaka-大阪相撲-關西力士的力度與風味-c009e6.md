@@ -6,7 +6,7 @@ category: sumo
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-osaka-大阪相撲-關西力士的力度與風味-c009e6.html
 published: 2026-05-24
-quality_score: 6.5
+quality_score: 8.8
 tags: 大阪相扑, 关西观光, 相扑体验, 力士料理, 大阪文化
 license: CC BY 4.0
 ---

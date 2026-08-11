@@ -6,7 +6,7 @@ category: nature-trails
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-kanazawa-金澤自然步道-遠離人潮的隠藏山林導覽-12bcd9.html
 published: 2026-06-02
-quality_score: 6.5
+quality_score: 8.5
 tags: 金澤自然步道, 金澤登山, 日本北陆健行, utatsuyama, 醫王山
 license: CC BY 4.0
 ---

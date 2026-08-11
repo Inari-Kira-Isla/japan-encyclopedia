@@ -6,7 +6,7 @@ category: street-food
 area: japan
 url: https://japan-encyclopedia.vercel.app/articles/japan-dining-street-food-大阪街頭美食和道頓堀完整指南2026-章魚燒-大阪燒-串炸-食い倒れ-大阪費用-jp-osaka-street-e06f51.html
 published: 2026-04-10
-quality_score: 7.6
+quality_score: 8.5
 tags: 大阪章魚燒, 道頓堀, 大阪美食, 大阪燒, 黑門市場
 license: CC BY 4.0
 ---

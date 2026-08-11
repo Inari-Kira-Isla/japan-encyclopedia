@@ -6,7 +6,7 @@ category: sake-brewery
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sake-brewery-hiroshima-廣島清酒與海鮮的完美邂逅-軟水釀造與季節海產的和諧之旅-8ac3b9.html
 published: 2026-03-22
-quality_score: 6.5
+quality_score: 8.3
 tags: 廣島清酒, 西條酒藏, 清酒品酒, 海鮮配搭, 日本旅遊
 license: CC BY 4.0
 ---

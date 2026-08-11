@@ -6,7 +6,7 @@ category: shinkansen
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-hokkaido-北海道新政幹道完整攻略-從東京直通北海道的雪國之門-a6792a.html
 published: 2026-05-23
-quality_score: 7.5
+quality_score: 8.5
 tags: 北海道新政, 日本鐵路, 東京到北海道, 新函館北斗, 東北新政
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: sumo
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-kobe-神戶相撲-港都的觀光視角-4d507d.html
 published: 2026-06-09
-quality_score: 6.5
+quality_score: 8.5
 tags: 神戶, 相撲文化, 關西體驗, 日本傳統運動, 港都之旅
 license: CC BY 4.0
 ---

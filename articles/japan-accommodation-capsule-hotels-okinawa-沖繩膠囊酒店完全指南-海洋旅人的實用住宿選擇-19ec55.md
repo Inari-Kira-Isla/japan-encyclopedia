@@ -6,7 +6,7 @@ category: capsule-hotels
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-capsule-hotels-okinawa-沖繩膠囊酒店完全指南-海洋旅人的實用住宿選擇-19ec55.html
 published: 2026-06-13
-quality_score: 6.5
+quality_score: 8.6
 tags: 沖繩住宿, 膠囊飯店, 海洋活動, 衝浪, 潛水
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: garden-parks
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-hokkaido-北海道花園公園-美食與自然的夏日邂逅-4a4ccc.html
 published: 2026-06-14
-quality_score: 6.5
+quality_score: 8.8
 tags: 北海道, 花園公園, 美食, 夏季旅遊, 自然體驗
 license: CC BY 4.0
 ---

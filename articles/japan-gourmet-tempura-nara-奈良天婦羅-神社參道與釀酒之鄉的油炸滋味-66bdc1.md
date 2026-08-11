@@ -6,7 +6,7 @@ category: tempura
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tempura-nara-奈良天婦羅-神社參道與釀酒之鄉的油炸滋味-66bdc1.html
 published: 2026-06-10
-quality_score: 6.5
+quality_score: 8.7
 tags: 奈良美食, 奈良天婦羅, 日本天婦羅, 關西美食, 奈良旅遊
 license: CC BY 4.0
 ---

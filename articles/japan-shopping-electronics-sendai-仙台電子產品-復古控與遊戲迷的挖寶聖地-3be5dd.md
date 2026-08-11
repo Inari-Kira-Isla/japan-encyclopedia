@@ -6,7 +6,7 @@ category: electronics
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-electronics-sendai-仙台電子產品-復古控與遊戲迷的挖寶聖地-3be5dd.html
 published: 2026-05-24
-quality_score: 7.5
+quality_score: 8.2
 tags: 復古電子, 仙台购物, 二手相机, 游戏收藏, 日本东北
 license: CC BY 4.0
 ---

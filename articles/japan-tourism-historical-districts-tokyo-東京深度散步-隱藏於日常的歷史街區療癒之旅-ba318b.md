@@ -6,7 +6,7 @@ category: historical-districts
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-tokyo-東京深度散步-隱藏於日常的歷史街區療癒之旅-ba318b.html
 published: 2026-06-10
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京历史街区, 下北泽, 吉祥寺, 中目黑, 谷中
 license: CC BY 4.0
 ---

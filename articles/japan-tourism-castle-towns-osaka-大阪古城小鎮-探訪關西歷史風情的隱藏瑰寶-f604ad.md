@@ -6,7 +6,7 @@ category: castle-towns
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-castle-towns-osaka-大阪古城小鎮-探訪關西歷史風情的隱藏瑰寶-f604ad.html
 published: 2026-05-25
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪, 古城小鎮, 城下町, 關西自由行, 歷史建築
 license: CC BY 4.0
 ---

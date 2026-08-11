@@ -6,7 +6,7 @@ category: craft-markets
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-craft-markets-kobe-神戶異國市集漫步-港口城市的多元文化手作天地-3237ab.html
 published: 2026-06-14
-quality_score: 7.5
+quality_score: 8.7
 tags: 神戶市集, 異國風情, 港口城市, 手作, 文化探索
 license: CC BY 4.0
 ---

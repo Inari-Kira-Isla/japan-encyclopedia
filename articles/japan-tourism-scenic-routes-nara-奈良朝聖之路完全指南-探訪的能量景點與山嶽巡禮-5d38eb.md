@@ -6,7 +6,7 @@ category: scenic-routes
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-nara-奈良朝聖之路完全指南-探訪的能量景點與山嶽巡禮-5d38eb.html
 published: 2026-04-07
-quality_score: 6.5
+quality_score: 8.7
 tags: 奈良, 朝聖之路, 能量景點, 熊野古道, 修行道
 license: CC BY 4.0
 ---

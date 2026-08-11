@@ -6,7 +6,7 @@ category: business-hotels
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-business-hotels-hokkaido-北海道商務飯店早餐地圖-從朝食認識北海道商務住宿的獨特價值-4d392f.html
 published: 2026-06-23
-quality_score: 6.5
+quality_score: 8.8
 tags: 北海道商務飯店, 札幌朝食, 商務住宿推薦, 北海道出差, 朝食ビジネスホテル
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: kaiseki
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-kaiseki-osaka-大阪懷石料理-港都海味的旬之盛宴-cb5c5c.html
 published: 2026-06-08
-quality_score: 6.5
+quality_score: 8.8
 tags: 大阪懷石, 關西美食, 日本料理, 港都料理, 懷石料理
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: theme-parks
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-theme-parks-hokkaido-北海道親子樂園攻略-四季遊樂與溫泉度假的完美結合-28b47d.html
 published: 2026-03-23
-quality_score: 6.5
+quality_score: 8.5
 tags: 北海道, 主題樂園, 親子遊, 季節體驗, 溫泉度假
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: karaoke
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-karaoke-okinawa-沖繩卡拉ok-國際遊客的日式歡唱體驗指南-df2f71.html
 published: 2026-06-13
-quality_score: 6.5
+quality_score: 8.4
 tags: 沖繩, 卡拉OK, 那霸, 恩納村, 國際旅客
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: karaoke
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-karaoke-kobe-神戶卡拉ok-港都紅酒香中的歌聲微醺-d7c77e.html
 published: 2026-06-30
-quality_score: 6.5
+quality_score: 8.7
 tags: 神戶卡拉OK, 港都夜景, 酒吧式卡拉OK, 神戶夜生活, 異人館街區
 license: CC BY 4.0
 ---

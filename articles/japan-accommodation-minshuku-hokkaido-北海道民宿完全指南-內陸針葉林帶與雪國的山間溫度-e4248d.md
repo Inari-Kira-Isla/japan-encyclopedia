@@ -6,7 +6,7 @@ category: minshuku
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-hokkaido-北海道民宿完全指南-內陸針葉林帶與雪國的山間溫度-e4248d.html
 published: 2026-06-12
-quality_score: 6.5
+quality_score: 8.5
 tags: 北海道民宿, 內陸針葉林帶, 雪國住宿, 弟子屈, 十勝酪農業
 license: CC BY 4.0
 ---

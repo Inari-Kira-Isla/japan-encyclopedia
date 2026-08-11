@@ -6,7 +6,7 @@ category: cycling
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-hokkaido-北海道慢騎漫遊-北國風土與溫泉美食的療癒之旅-9d5f34.html
 published: 2026-07-03
-quality_score: 7.5
+quality_score: 8.7
 tags: 北海道單車, 北海道骑行, 北海道溫泉, 北海道美食, 洞爺湖
 license: CC BY 4.0
 ---

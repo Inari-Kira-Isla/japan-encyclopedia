@@ -6,7 +6,7 @@ category: sumo
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-sendai-仙台相撲文化-遠野-酒與土俵的在地體驗-0ef4d0.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 8.7
 tags: 仙台相撲, 東北祭典, 在地文化體驗, 日本相撲非主流, 七夕祭
 license: CC BY 4.0
 ---

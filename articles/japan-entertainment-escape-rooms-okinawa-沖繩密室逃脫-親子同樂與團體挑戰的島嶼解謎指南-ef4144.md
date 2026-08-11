@@ -6,7 +6,7 @@ category: escape-rooms
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-escape-rooms-okinawa-沖繩密室逃脫-親子同樂與團體挑戰的島嶼解謎指南-ef4144.html
 published: 2026-06-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 沖繩室內娛樂, 密室逃脫, 家族旅行, 情侶約會, 團體活動
 license: CC BY 4.0
 ---

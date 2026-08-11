@@ -6,7 +6,7 @@ category: buses
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-buses-okinawa-沖繩巴士不完全指南-不上高速公路的沖繩人這樣移動-73eed3.html
 published: 2026-06-05
-quality_score: 7.5
+quality_score: 8.7
 tags: 沖繩交通, 巴士旅遊, 那霸交通, 不自駕遊沖繩, 沖繩公車時刻表
 license: CC BY 4.0
 ---

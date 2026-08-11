@@ -6,7 +6,7 @@ category: nature-trails
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-osaka-大阪森林浴步道-都會綠洲的健康深呼吸-f99981.html
 published: 2026-06-19
-quality_score: 6.5
+quality_score: 8.8
 tags: 大阪, 森林浴, 健康旅遊, 自然步道, 關西
 license: CC BY 4.0
 ---

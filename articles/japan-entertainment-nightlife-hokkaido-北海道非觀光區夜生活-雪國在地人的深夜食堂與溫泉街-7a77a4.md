@@ -6,7 +6,7 @@ category: nightlife
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-hokkaido-北海道非觀光區夜生活-雪國在地人的深夜食堂與溫泉街-7a77a4.html
 published: 2026-06-30
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道夜生活, 雪國美食, 溫泉街, 在地文化, 深夜食堂
 license: CC BY 4.0
 ---

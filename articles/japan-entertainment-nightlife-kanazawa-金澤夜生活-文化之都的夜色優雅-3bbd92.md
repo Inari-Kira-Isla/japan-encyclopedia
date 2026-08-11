@@ -6,7 +6,7 @@ category: nightlife
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-kanazawa-金澤夜生活-文化之都的夜色優雅-3bbd92.html
 published: 2026-05-24
-quality_score: 6.5
+quality_score: 8.6
 tags: 金澤夜生活, 石川縣旅遊, 北陸文化體驗, 日本深度之旅, 金澤美食
 license: CC BY 4.0
 ---

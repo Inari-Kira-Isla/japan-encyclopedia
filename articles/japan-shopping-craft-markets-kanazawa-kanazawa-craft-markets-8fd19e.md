@@ -6,7 +6,7 @@ category: craft-markets
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-craft-markets-kanazawa-kanazawa-craft-markets-8fd19e.html
 published: 2026-03-22
-quality_score: 6.5
+quality_score: 6.3
 tags: craft-markets, kanazawa, japan
 license: CC BY 4.0
 ---

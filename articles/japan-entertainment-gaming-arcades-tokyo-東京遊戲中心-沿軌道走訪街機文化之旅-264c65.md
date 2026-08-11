@@ -6,7 +6,7 @@ category: gaming-arcades
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-gaming-arcades-tokyo-東京遊戲中心-沿軌道走訪街機文化之旅-264c65.html
 published: 2026-05-25
-quality_score: 6.5
+quality_score: 8.8
 tags: 東京, 遊戲中心, 街機, 秋葉原, 新宿
 license: CC BY 4.0
 ---

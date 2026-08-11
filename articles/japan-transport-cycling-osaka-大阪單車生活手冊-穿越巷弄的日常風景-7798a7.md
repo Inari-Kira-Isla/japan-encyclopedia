@@ -6,7 +6,7 @@ category: cycling
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-osaka-大阪單車生活手冊-穿越巷弄的日常風景-7798a7.html
 published: 2026-05-23
-quality_score: 7.5
+quality_score: 8.7
 tags: 大阪單車, 大阪自助, 關西cycling, 大阪慢旅行, 大阪巷弄探險
 license: CC BY 4.0
 ---

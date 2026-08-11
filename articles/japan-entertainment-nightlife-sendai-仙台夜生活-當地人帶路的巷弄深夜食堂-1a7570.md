@@ -6,7 +6,7 @@ category: nightlife
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-sendai-仙台夜生活-當地人帶路的巷弄深夜食堂-1a7570.html
 published: 2026-06-10
-quality_score: 6.5
+quality_score: 8.7
 tags: 仙台夜生活, 東北美食, 牛舌, 居酒屋, 日本自由行
 license: CC BY 4.0
 ---

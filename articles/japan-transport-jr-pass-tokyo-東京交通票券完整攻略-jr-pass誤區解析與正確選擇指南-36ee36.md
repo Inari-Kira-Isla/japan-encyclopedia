@@ -6,7 +6,7 @@ category: jr-pass
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-jr-pass-tokyo-東京交通票券完整攻略-jr-pass誤區解析與正確選擇指南-36ee36.html
 published: 2026-06-14
-quality_score: 7.5
+quality_score: 8.7
 tags: 東京交通, JR Pass教學, 關東周遊券, 東京近郊, 日本鐵路攻略
 license: CC BY 4.0
 ---

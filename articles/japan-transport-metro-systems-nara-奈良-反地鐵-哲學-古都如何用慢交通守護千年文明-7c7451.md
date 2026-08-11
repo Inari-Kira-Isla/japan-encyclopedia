@@ -6,7 +6,7 @@ category: metro-systems
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-nara-奈良-反地鐵-哲學-古都如何用慢交通守護千年文明-7c7451.html
 published: 2026-04-05
-quality_score: 7.5
+quality_score: 8.8
 tags: 奈良交通, 慢旅行, 文化保護, 古都, 近鐵
 license: CC BY 4.0
 ---

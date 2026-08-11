@@ -6,7 +6,7 @@ category: day-trips
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-sendai-仙台一日遊交通攻略-東北樞紐出發的高效周邊探索-c1e638.html
 published: 2026-04-03
-quality_score: 6.5
+quality_score: 8.7
 tags: 仙台, 東北, 一日遊, 交通樞紐, 松島
 license: CC BY 4.0
 ---

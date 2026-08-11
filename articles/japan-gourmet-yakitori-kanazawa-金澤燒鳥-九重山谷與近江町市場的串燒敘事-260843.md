@@ -6,7 +6,7 @@ category: yakitori
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-yakitori-kanazawa-金澤燒鳥-九重山谷與近江町市場的串燒敘事-260843.html
 published: 2026-05-23
-quality_score: 6.5
+quality_score: 9.0
 tags: 金澤燒鳥, 金澤美食, 日本串燒, 近江町市場, 片町燒烤
 license: CC BY 4.0
 ---

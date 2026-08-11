@@ -6,7 +6,7 @@ category: udon-soba
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-udon-soba-fukuoka-福岡烏龍麵與蕎麥麵-清晨市場的在地滋味-c8ae10.html
 published: 2026-07-02
-quality_score: 6.5
+quality_score: 8.8
 tags: 福岡烏龍麵, 博多名物, 清晨美食, 旦過市場, 九州美食
 license: CC BY 4.0
 ---

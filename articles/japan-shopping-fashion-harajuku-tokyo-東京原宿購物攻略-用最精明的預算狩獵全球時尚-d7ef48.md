@@ -6,7 +6,7 @@ category: fashion-harajuku
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-fashion-harajuku-tokyo-東京原宿購物攻略-用最精明的預算狩獵全球時尚-d7ef48.html
 published: 2026-03-24
-quality_score: 7.5
+quality_score: 8.7
 tags: 東京購物, 原宿, 時尚消費, 免稅攻略, 預算規劃
 license: CC BY 4.0
 ---

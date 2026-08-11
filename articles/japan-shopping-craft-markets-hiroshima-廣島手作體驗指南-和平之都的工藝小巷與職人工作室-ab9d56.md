@@ -6,7 +6,7 @@ category: craft-markets
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-craft-markets-hiroshima-廣島手作體驗指南-和平之都的工藝小巷與職人工作室-ab9d56.html
 published: 2026-06-22
-quality_score: 7.5
+quality_score: 8.7
 tags: 廣島手作, 廣島工坊, 廣島自由行, 日本工藝市集, 廣島深度遊
 license: CC BY 4.0
 ---

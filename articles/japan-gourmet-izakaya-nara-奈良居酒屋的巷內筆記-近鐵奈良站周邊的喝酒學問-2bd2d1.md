@@ -6,7 +6,7 @@ category: izakaya
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-izakaya-nara-奈良居酒屋的巷內筆記-近鐵奈良站周邊的喝酒學問-2bd2d1.html
 published: 2026-05-23
-quality_score: 6.5
+quality_score: 8.9
 tags: 
 license: CC BY 4.0
 ---

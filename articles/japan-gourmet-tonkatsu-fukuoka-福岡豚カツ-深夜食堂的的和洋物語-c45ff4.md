@@ -6,7 +6,7 @@ category: tonkatsu
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tonkatsu-fukuoka-福岡豚カツ-深夜食堂的的和洋物語-c45ff4.html
 published: 2026-06-22
-quality_score: 6.5
+quality_score: 8.8
 tags: 福岡豚カツ, 九州美食, 博多區, 天神, 洋食
 license: CC BY 4.0
 ---

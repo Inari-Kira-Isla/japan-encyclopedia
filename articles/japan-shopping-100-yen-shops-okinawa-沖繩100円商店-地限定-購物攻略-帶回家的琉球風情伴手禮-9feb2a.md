@@ -6,7 +6,7 @@ category: 100-yen-shops
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-100-yen-shops-okinawa-沖繩100円商店-地限定-購物攻略-帶回家的琉球風情伴手禮-9feb2a.html
 published: 2026-06-18
-quality_score: 7.5
+quality_score: 8.7
 tags: 沖繩購物, 100均一店, 沖繩伴手禮, 琉球獅子, 那霸購物
 license: CC BY 4.0
 ---

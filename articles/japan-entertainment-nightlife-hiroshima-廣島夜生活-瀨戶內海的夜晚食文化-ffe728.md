@@ -6,7 +6,7 @@ category: nightlife
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-hiroshima-廣島夜生活-瀨戶內海的夜晚食文化-ffe728.html
 published: 2026-06-09
-quality_score: 6.5
+quality_score: 8.7
 tags: 廣島夜生活, 瀨戶內海, 啤酒花園, LIVE HOUSE, 日本酒吧
 license: CC BY 4.0
 ---

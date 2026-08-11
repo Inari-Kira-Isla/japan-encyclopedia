@@ -6,7 +6,7 @@ category: electronics
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-electronics-kyoto-京都電子產品購物完全指南-千年古都的科技與工藝融合之旅-37da44.html
 published: 2026-06-15
-quality_score: 7.5
+quality_score: 8.4
 tags: 京都電子產品, 京都購物, 日本電器, 京都自由行, 關西購物
 license: CC BY 4.0
 ---

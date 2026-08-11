@@ -6,7 +6,7 @@ category: historical-districts
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-kobe-神戶歷史街區-港都的立體史詩與五感散步-6604cd.html
 published: 2026-06-30
-quality_score: 6.5
+quality_score: 8.6
 tags: 神戶, 北野町, 南京町, 異人館, 港區
 license: CC BY 4.0
 ---

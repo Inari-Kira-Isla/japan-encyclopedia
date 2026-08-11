@@ -6,7 +6,7 @@ category: escape-rooms
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-escape-rooms-okinawa-沖繩密室逃脫-夜遊-雨中備案全攻略-軍旅・浪漫・親子三大主題推薦-8e3a10.html
 published: 2026-06-10
-quality_score: 6.5
+quality_score: 8.5
 tags: 沖繩密室逃脫, 南國冒險, 軍旅主題, 情侶約會, 親子友善
 license: CC BY 4.0
 ---

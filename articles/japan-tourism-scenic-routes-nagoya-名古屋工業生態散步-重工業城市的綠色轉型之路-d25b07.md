@@ -6,7 +6,7 @@ category: scenic-routes
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-nagoya-名古屋工業生態散步-重工業城市的綠色轉型之路-d25b07.html
 published: 2026-06-15
-quality_score: 6.5
+quality_score: 8.7
 tags: 名古屋景點, 工業城市散步, 生態旅遊, 城市再生, 名古屋深度遊
 license: CC BY 4.0
 ---

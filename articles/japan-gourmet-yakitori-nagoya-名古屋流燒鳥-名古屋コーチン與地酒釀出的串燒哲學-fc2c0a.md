@@ -6,7 +6,7 @@ category: yakitori
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-yakitori-nagoya-名古屋流燒鳥-名古屋コーチン與地酒釀出的串燒哲學-fc2c0a.html
 published: 2026-06-02
-quality_score: 6.5
+quality_score: 8.8
 tags: 名古屋燒鳥, 名古屋コーチン, 名古屋美食, 日本燒鳥, 名古屋，必食
 license: CC BY 4.0
 ---

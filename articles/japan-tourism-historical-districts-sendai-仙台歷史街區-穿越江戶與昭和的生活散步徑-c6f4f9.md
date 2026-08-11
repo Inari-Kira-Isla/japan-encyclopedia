@@ -6,7 +6,7 @@ category: historical-districts
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-sendai-仙台歷史街區-穿越江戶與昭和的生活散步徑-c6f4f9.html
 published: 2026-05-22
-quality_score: 6.5
+quality_score: 8.6
 tags: 仙台, 歷史街區, 散步, 和果子, 東北
 license: CC BY 4.0
 ---

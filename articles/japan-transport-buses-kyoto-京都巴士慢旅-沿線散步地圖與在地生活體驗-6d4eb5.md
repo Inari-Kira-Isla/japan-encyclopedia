@@ -6,7 +6,7 @@ category: buses
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-buses-kyoto-京都巴士慢旅-沿線散步地圖與在地生活體驗-6d4eb5.html
 published: 2026-06-12
-quality_score: 7.5
+quality_score: 8.5
 tags: 京都巴士, 京都交通, 京都散步, 洛東巴士, 京都一日券
 license: CC BY 4.0
 ---

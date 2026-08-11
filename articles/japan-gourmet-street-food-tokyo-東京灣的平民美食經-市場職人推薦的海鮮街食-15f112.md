@@ -6,7 +6,7 @@ category: street-food
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-street-food-tokyo-東京灣的平民美食經-市場職人推薦的海鮮街食-15f112.html
 published: 2026-03-23
-quality_score: 6.5
+quality_score: 8.5
 tags: 東京, 街頭美食, 海鮮, 豐洲市場, 築地
 license: CC BY 4.0
 ---

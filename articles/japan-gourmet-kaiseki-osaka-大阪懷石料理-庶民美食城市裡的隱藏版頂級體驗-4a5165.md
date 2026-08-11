@@ -6,7 +6,7 @@ category: kaiseki
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-kaiseki-osaka-大阪懷石料理-庶民美食城市裡的隱藏版頂級體驗-4a5165.html
 published: 2026-05-21
-quality_score: 6.5
+quality_score: 8.9
 tags: 大阪懷石料理, 關西美食, 大阪高級料理, 隱藏版餐廳, 日本美食推薦
 license: CC BY 4.0
 ---

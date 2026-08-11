@@ -6,7 +6,7 @@ category: day-trips
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-nara-奈良深度一日遊-避開人潮的古都文化體驗路線-30476f.html
 published: 2026-03-28
-quality_score: 6.5
+quality_score: 8.8
 tags: 奈良深度遊, 古寺巡禮, 文化體驗, 避開人潮, 奈良町
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: anime-manga
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-tokyo-東京動漫聖地巡禮-大人氣動畫聖地上的沉浸式體驗-d880f8.html
 published: 2026-06-02
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京動漫, 秋葉原, 池袋動漫, 動漫聖地巡禮, 御宅文化
 license: CC BY 4.0
 ---

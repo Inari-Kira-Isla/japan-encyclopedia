@@ -6,7 +6,7 @@ category: escape-rooms
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-escape-rooms-okinawa-沖繩密室逃脫-結合美式風情與琉球歷史的解謎冒險-c9e660.html
 published: 2026-07-04
-quality_score: 6.5
+quality_score: 8.8
 tags: 沖繩密室逃脫, 沖繩室內景點, 那霸密室, 沖繩雨天備案, 琉球王國體驗
 license: CC BY 4.0
 ---

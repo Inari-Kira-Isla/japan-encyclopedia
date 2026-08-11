@@ -6,7 +6,7 @@ category: vintage-thrift
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-vintage-thrift-tokyo-東京-vintage-thrift-實用攻略-從平價到精品的分級購物指南-045c01.html
 published: 2026-03-29
-quality_score: 7.5
+quality_score: 8.7
 tags: 東京古著, Vintage Thrift, 購物攻略, 日本旅遊, 時尚文化
 license: CC BY 4.0
 ---

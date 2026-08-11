@@ -6,7 +6,7 @@ category: buses
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-buses-tokyo-東京巴士深度體驗-融入當地人生活節奏的移動指南-e8afbc.html
 published: 2026-04-05
-quality_score: 7.5
+quality_score: 8.5
 tags: 東京交通, 巴士體驗, 在地生活, 深度旅遊, 日本文化
 license: CC BY 4.0
 ---

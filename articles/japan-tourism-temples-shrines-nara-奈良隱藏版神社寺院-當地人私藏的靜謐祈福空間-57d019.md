@@ -6,7 +6,7 @@ category: temples-shrines
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-temples-shrines-nara-奈良隱藏版神社寺院-當地人私藏的靜謐祈福空間-57d019.html
 published: 2026-06-06
-quality_score: 6.5
+quality_score: 8.6
 tags: 奈良神社, 奈良寺院, 日本古都, 隱藏版景點, 在地文化
 license: CC BY 4.0
 ---

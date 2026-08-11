@@ -6,7 +6,7 @@ category: vintage-thrift
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-vintage-thrift-kyoto-京都古著尋寶-遠離人潮的下町巷弄質感選品-317603.html
 published: 2026-07-02
-quality_score: 7.5
+quality_score: 8.7
 tags: 京都古著, 京都古著店推薦, 京都 Vintage, 京都 thrift store, 京都下町
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: sumo
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-hokkaido-北海道相撲-雪國冬祭的力士-熱湯與在地美食-3e59c5.html
 published: 2026-05-24
-quality_score: 6.5
+quality_score: 8.5
 tags: 北海道相撲, 大學相撲社團, 冬季北海道體驗, 札幌活動, 小樽溫泉相撲
 license: CC BY 4.0
 ---

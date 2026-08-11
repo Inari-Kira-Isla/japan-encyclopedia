@@ -6,7 +6,7 @@ category: shinkansen
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-kobe-神戶-關西西側的戦略據點-新幹線を軸心的深度漫遊-435026.html
 published: 2026-06-05
-quality_score: 7.5
+quality_score: 8.8
 tags: 神戶, 新神戸駅, 關西旅遊, JR鐵道, 住宿推薦
 license: CC BY 4.0
 ---

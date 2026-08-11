@@ -6,7 +6,7 @@ category: garden-parks
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-osaka-大阪庭園茶旅-抹茶與綠意的沉靜時光-0d3fac.html
 published: 2026-06-20
-quality_score: 6.5
+quality_score: 8.9
 tags: 大阪庭園, 抹茶甜品, 茶道體驗, 關西散步, 日本文化
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: boutique-hotels
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-nara-奈良住宿選擇完全指南-從世界遺產首都到質感旅宿體驗-42cf45.html
 published: 2026-06-16
-quality_score: 6.5
+quality_score: 8.6
 tags: 奈良住宿, 古都旅行, 世界遺產, 關西住宿, 奈良公園
 license: CC BY 4.0
 ---

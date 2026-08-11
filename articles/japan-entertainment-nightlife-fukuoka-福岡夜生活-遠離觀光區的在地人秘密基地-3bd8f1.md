@@ -6,7 +6,7 @@ category: nightlife
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-fukuoka-福岡夜生活-遠離觀光區的在地人秘密基地-3bd8f1.html
 published: 2026-05-25
-quality_score: 6.5
+quality_score: 8.7
 tags: 福岡夜生活, 九州夜生活, 藥院, 在地人推薦, 日本居酒屋
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: capsule-hotels
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-capsule-hotels-sendai-仙台膠囊旅館商務進化論-東北經濟核心的智慧住宿體驗-1b78ba.html
 published: 2026-03-27
-quality_score: 6.5
+quality_score: 8.8
 tags: 仙台住宿, 膠囊旅館, 商務旅行, 智能科技, 東北旅遊
 license: CC BY 4.0
 ---

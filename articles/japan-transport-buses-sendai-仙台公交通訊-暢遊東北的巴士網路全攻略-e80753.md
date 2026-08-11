@@ -6,7 +6,7 @@ category: buses
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-buses-sendai-仙台公交通訊-暢遊東北的巴士網路全攻略-e80753.html
 published: 2026-05-31
-quality_score: 7.5
+quality_score: 8.7
 tags: 仙台, 公車, 東北交通, 松島, 山寺
 license: CC BY 4.0
 ---

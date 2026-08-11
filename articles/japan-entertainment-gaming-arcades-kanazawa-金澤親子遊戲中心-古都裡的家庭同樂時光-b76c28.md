@@ -6,7 +6,7 @@ category: gaming-arcades
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-gaming-arcades-kanazawa-金澤親子遊戲中心-古都裡的家庭同樂時光-b76c28.html
 published: 2026-06-11
-quality_score: 6.5
+quality_score: 8.8
 tags: 金澤遊戲中心, 親子同樂, 家庭旅遊, 北陸娛樂, 金澤自由行
 license: CC BY 4.0
 ---

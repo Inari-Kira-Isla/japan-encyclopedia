@@ -6,7 +6,7 @@ category: shinkansen
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-sendai-仙台新娘生子全攻略-從東京通往東北的第一道大門-d98748.html
 published: 2026-05-25
-quality_score: 7.5
+quality_score: 9.0
 tags: 仙台新娘生子, 東北旅遊, 日本鐵道, 仙台交通, 東京至仙台
 license: CC BY 4.0
 ---

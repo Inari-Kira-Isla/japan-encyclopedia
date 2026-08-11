@@ -6,7 +6,7 @@ category: udon-soba
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-udon-soba-osaka-大阪烏龍麵與蕎麥麵-關西煮文化的基底-b74bd8.html
 published: 2026-05-25
-quality_score: 6.5
+quality_score: 8.6
 tags: 大阪美食, 關西烏龍麵, 關西蕎麥麵, 大阪庶民美食, 大阪食堂
 license: CC BY 4.0
 ---

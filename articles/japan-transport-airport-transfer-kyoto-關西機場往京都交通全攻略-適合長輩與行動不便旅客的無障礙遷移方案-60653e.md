@@ -6,7 +6,7 @@ category: airport-transfer
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-airport-transfer-kyoto-關西機場往京都交通全攻略-適合長輩與行動不便旅客的無障礙遷移方案-60653e.html
 published: 2026-05-23
-quality_score: 7.5
+quality_score: 8.6
 tags: 京都交通, 关西机场, 无障碍旅游, 长辈旅游, 京都自由行
 license: CC BY 4.0
 ---

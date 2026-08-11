@@ -6,7 +6,7 @@ category: cycling
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-nagoya-名古屋單車通勤遊-上班女子的週末輕騎秘境-a16ec6.html
 published: 2026-05-22
-quality_score: 7.5
+quality_score: 8.7
 tags: 名古屋單車, 名古屋骑行, 、爱知县单车, 日本自由行, 名古屋交通
 license: CC BY 4.0
 ---

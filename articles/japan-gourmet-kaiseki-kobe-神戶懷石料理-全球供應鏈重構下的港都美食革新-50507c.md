@@ -6,7 +6,7 @@ category: kaiseki
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-kaiseki-kobe-神戶懷石料理-全球供應鏈重構下的港都美食革新-50507c.html
 published: 2026-04-06
-quality_score: 6.5
+quality_score: 8.7
 tags: 神戶美食, 懷石料理, 在地食材, 日本料理, 港都文化
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: jr-pass
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-jr-pass-hiroshima-廣島jr-pass活用指南-中國地區秘境探訪的鐵道攻略-37c66a.html
 published: 2026-06-16
-quality_score: 7.5
+quality_score: 8.8
 tags: 廣島JR Pass, 中國地區, 山陰山陽, 鳥取砂丘, 出雲大社
 license: CC BY 4.0
 ---

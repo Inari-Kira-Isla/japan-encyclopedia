@@ -6,7 +6,7 @@ category: wagyu
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-wagyu-tokyo-東京和牛午餐攻略-旅人必訪的和牛定食名店地圖-363139.html
 published: 2026-05-25
-quality_score: 6.5
+quality_score: 8.9
 tags: 和牛, 東京美食, 燒肉定食, 新宿, 澀谷
 license: CC BY 4.0
 ---

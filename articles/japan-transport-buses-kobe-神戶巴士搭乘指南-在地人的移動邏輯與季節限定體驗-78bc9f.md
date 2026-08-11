@@ -6,7 +6,7 @@ category: buses
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-buses-kobe-神戶巴士搭乘指南-在地人的移動邏輯與季節限定體驗-78bc9f.html
 published: 2026-03-23
-quality_score: 7.5
+quality_score: 8.6
 tags: 神戶交通, 日本巴士, 在地文化, 季節旅遊, 交通攻略
 license: CC BY 4.0
 ---

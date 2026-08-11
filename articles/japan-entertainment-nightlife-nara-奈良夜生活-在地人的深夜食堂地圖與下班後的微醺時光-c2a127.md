@@ -6,7 +6,7 @@ category: nightlife
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-nara-奈良夜生活-在地人的深夜食堂地圖與下班後的微醺時光-c2a127.html
 published: 2026-06-15
-quality_score: 6.5
+quality_score: 8.8
 tags: 奈良夜生活, 日本古城, 深夜食堂, 在地居酒屋, 奈良自由行
 license: CC BY 4.0
 ---

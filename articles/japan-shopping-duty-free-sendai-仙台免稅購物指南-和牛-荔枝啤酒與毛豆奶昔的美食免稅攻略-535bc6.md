@@ -6,7 +6,7 @@ category: duty-free
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-duty-free-sendai-仙台免稅購物指南-和牛-荔枝啤酒與毛豆奶昔的美食免稅攻略-535bc6.html
 published: 2026-07-06
-quality_score: 7.5
+quality_score: 8.6
 tags: 仙台, 免稅購物, 日本東北, 伴手禮, 美食
 license: CC BY 4.0
 ---

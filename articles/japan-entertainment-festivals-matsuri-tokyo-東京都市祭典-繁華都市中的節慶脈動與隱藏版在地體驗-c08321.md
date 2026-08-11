@@ -6,7 +6,7 @@ category: festivals-matsuri
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-festivals-matsuri-tokyo-東京都市祭典-繁華都市中的節慶脈動與隱藏版在地體驗-c08321.html
 published: 2026-06-25
-quality_score: 6.5
+quality_score: 8.4
 tags: 東京祭典, 都市祭典, 東京夏日, 淺草三社祭, 下北澤
 license: CC BY 4.0
 ---

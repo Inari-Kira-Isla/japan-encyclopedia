@@ -6,7 +6,7 @@ category: tonkatsu
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tonkatsu-osaka-大阪豚かつ-洋食之都的深脈絡-036099.html
 published: 2026-05-22
-quality_score: 6.5
+quality_score: 8.8
 tags: 大阪美食, 洋食, 豚かつ, 炸豬排, 關西料理
 license: CC BY 4.0
 ---

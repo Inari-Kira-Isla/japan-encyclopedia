@@ -6,7 +6,7 @@ category: duty-free
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-duty-free-nara-奈良銀髮族友善購物攻略-古都慢遊中的免稅採購指南-3358f0.html
 published: 2026-06-24
-quality_score: 7.5
+quality_score: 8.7
 tags: 奈良免稅購物, 奈良伴手禮, 銀髮族旅遊, 古都購物, 奈良自由行
 license: CC BY 4.0
 ---

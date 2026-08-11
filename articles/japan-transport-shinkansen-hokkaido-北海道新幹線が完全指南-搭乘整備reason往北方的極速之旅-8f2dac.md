@@ -6,7 +6,7 @@ category: shinkansen
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-hokkaido-北海道新幹線が完全指南-搭乘整備reason往北方的極速之旅-8f2dac.html
 published: 2026-06-01
-quality_score: 7.5
+quality_score: 8.7
 tags: 北海道新幹線が, 鐵道旅行, 日本交通, 函館, 青函隧道
 license: CC BY 4.0
 ---

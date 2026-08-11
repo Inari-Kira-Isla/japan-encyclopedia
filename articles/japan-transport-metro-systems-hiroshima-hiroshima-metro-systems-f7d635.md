@@ -1,0 +1,40 @@
+---
+title: hiroshima metro-systems
+slug: japan-transport-metro-systems-hiroshima-hiroshima-metro-systems-f7d635
+industry: transport
+category: metro-systems
+area: hiroshima
+url: https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-hiroshima-hiroshima-metro-systems-f7d635.html
+published: 2026-03-24
+quality_score: 7.3
+tags: metro-systems, hiroshima, japan
+license: CC BY 4.0
+---
+
+我需要在撰文前澄清一個**關鍵的地理事實**：
+
+## ⚠️ 廣島沒有地鐵（Metro）系統
+
+廣島市**實際上沒有傳統的地下鐵或捷運系統**。廣島的公共交通由以下組成：
+
+- **廣島電鐵**（路面電車/Tram）— 8條路線，市中心主要交通動脈
+- **廣島巴士** — 多家營運商
+- **新幹線** — 長距離交通
+
+這點很重要，因為您的專家身份強調「不要推薦已廢止的路線或虛構線名」。寫「Hiroshima Metro Systems」可能會產生誤導。
+
+## 我的建議
+
+請選擇以下方向之一，我將以完全不同於「第1篇（產業樞紐視角）」的角度撰寫：
+
+**選項A：改題為「廣島電鐵完全指南」**
+- 新角度：戰後復興與交通系統發展的歷史敘事，而非日常生活脈動
+- 重點：電鐵在原爆後重建中的文化與技術意義
+
+**選項B：「廣島公共交通系統」**
+- 新角度：遊客/商務客視角的交通規劃，如何用電鐵+巴士+新幹線組合移動
+
+**選項C：維持當前主題但以我的理解來詮釋**
+- 我將寫成「廣島電鐵深度體驗」的百科文章，但會坦白說明廣島沒有地鐵
+
+您傾向哪個方向？或者您是否有不同的意圖？

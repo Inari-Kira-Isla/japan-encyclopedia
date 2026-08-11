@@ -6,7 +6,7 @@ category: fashion-harajuku
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-fashion-harajuku-nara-奈良時尚散步-古都巷弄中的設計師選品店與工藝市集-45907d.html
 published: 2026-06-16
-quality_score: 7.5
+quality_score: 9.0
 tags: 奈良購物, 日本古都, 設計師選品, 手做工藝, 關西自由行
 license: CC BY 4.0
 ---

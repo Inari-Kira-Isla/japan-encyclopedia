@@ -6,7 +6,7 @@ category: cycling
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-nara-奈良單車生活散步-巷弄山城裡的女性安心騎行指南-d30ddd.html
 published: 2026-05-25
-quality_score: 7.5
+quality_score: 8.8
 tags: 奈良单车, 骑行路线, 大和郡山, 女性安心指标, 在地生活体验
 license: CC BY 4.0
 ---

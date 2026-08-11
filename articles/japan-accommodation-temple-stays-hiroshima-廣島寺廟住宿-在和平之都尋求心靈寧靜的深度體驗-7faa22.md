@@ -6,7 +6,7 @@ category: temple-stays
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-temple-stays-hiroshima-廣島寺廟住宿-在和平之都尋求心靈寧靜的深度體驗-7faa22.html
 published: 2026-06-19
-quality_score: 6.5
+quality_score: 8.6
 tags: 廣島寺廟住宿, 日本宿坊體驗, 廣島和平之旅, 瀨戶內海文化, 日本佛教文化
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: anime-manga
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-nagoya-名古屋動漫漫畫-遠離東京人潮的在地動漫生活指南-48d2b2.html
 published: 2026-06-22
-quality_score: 6.5
+quality_score: 8.5
 tags: 名古屋, 動漫, 動漫漫畫, 日本中部, 動漫聖地
 license: CC BY 4.0
 ---

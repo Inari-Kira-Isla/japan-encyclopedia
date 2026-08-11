@@ -6,7 +6,7 @@ category: hot-spring-wellness
 area: japan
 url: https://japan-encyclopedia.vercel.app/articles/japan-attractions-hot-spring-wellness-別府溫泉完整指南2026-地獄巡遊-血の池地獄-坊主地獄-九州溫泉之都費用攻略-jp-c05d1c.html
 published: 2026-04-05
-quality_score: 7.1
+quality_score: 8.7
 tags: 別府溫泉, 別府地獄巡遊, 血の池地獄, 由布院, 九州溫泉
 license: CC BY 4.0
 ---

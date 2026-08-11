@@ -6,7 +6,7 @@ category: jr-pass
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-jr-pass-kanazawa-金澤交通樞紐-jr-pass暢遊北陸黃金之城的實用指南-9bd7e8.html
 published: 2026-06-18
-quality_score: 7.5
+quality_score: 8.7
 tags: 金澤交通, JR Pass教學, 北陸旅行, 關西廣域周遊券, 高山北陸周遊券
 license: CC BY 4.0
 ---

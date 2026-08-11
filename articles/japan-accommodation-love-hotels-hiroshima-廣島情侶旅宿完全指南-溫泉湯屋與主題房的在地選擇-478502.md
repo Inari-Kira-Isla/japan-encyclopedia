@@ -6,7 +6,7 @@ category: love-hotels
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-love-hotels-hiroshima-廣島情侶旅宿完全指南-溫泉湯屋與主題房的在地選擇-478502.html
 published: 2026-06-15
-quality_score: 6.5
+quality_score: 8.7
 tags: 廣島住宿, 情侶旅宿, 瀨戶內海溫泉, 藥研掘溫泉, 宮島住宿
 license: CC BY 4.0
 ---

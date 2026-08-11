@@ -6,7 +6,7 @@ category: vintage-thrift
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-vintage-thrift-sendai-仙台古著日常-學生與上班族的平價復古時尚生態-8e0abc.html
 published: 2026-04-11
-quality_score: 7.5
+quality_score: 8.8
 tags: 仙台, 古著, 復古時尚, 學生購物, 平價
 license: CC BY 4.0
 ---

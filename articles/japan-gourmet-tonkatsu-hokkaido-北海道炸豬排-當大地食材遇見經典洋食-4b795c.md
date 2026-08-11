@@ -6,7 +6,7 @@ category: tonkatsu
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tonkatsu-hokkaido-北海道炸豬排-當大地食材遇見經典洋食-4b795c.html
 published: 2026-06-02
-quality_score: 5.5
+quality_score: 6.8
 tags: tonkatsu, hokkaido, japan
 license: CC BY 4.0
 ---

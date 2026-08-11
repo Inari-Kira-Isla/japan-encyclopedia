@@ -6,7 +6,7 @@ category: island-hopping
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-island-hopping-fukuoka-福岡跳島深度遊-從玄界灘到有明海的島嶼生活指南-872b31.html
 published: 2026-06-28
-quality_score: 6.5
+quality_score: 8.6
 tags: 福岡跳島, 玄界灘, 小呂島, 相島, 對馬
 license: CC BY 4.0
 ---

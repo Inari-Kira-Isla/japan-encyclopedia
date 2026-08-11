@@ -6,7 +6,7 @@ category: escape-rooms
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-escape-rooms-fukuoka-福岡密室逃脫主題體驗深度解析-恐怖-科幻-推理三大主題全攻略-59c1e3.html
 published: 2026-04-02
-quality_score: 6.5
+quality_score: 8.7
 tags: 福岡娛樂, 密室逃脫, 主題體驗, 團體活動, 室內娛樂
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: tempura
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tempura-nagoya-名古屋天婦羅-港都魚市場的炸物風土學-e71875.html
 published: 2026-06-26
-quality_score: 6.5
+quality_score: 8.6
 tags: 名古屋天婦羅, 伊勢灣海產, 中部地方美食, 港都料理, 名古屋旅遊
 license: CC BY 4.0
 ---

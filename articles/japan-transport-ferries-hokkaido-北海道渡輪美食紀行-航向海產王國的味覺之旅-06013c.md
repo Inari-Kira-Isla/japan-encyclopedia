@@ -6,7 +6,7 @@ category: ferries
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-ferries-hokkaido-北海道渡輪美食紀行-航向海產王國的味覺之旅-06013c.html
 published: 2026-06-12
-quality_score: 7.5
+quality_score: 8.5
 tags: 北海道渡輪, 日本美食, 海產之旅, 津輕海峽, 津輕海峽渡輪
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: sushi
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sushi-kyoto-京都壽司-料亭美學延伸的壽司體驗-ca9132.html
 published: 2026-06-28
-quality_score: 6.5
+quality_score: 8.5
 tags: 京都壽司, 祇園美食, 懷石壽司, 京都美食推薦, 關西壽司
 license: CC BY 4.0
 ---

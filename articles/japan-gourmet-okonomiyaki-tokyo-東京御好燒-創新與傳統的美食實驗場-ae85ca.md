@@ -6,7 +6,7 @@ category: okonomiyaki
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-okonomiyaki-tokyo-東京御好燒-創新與傳統的美食實驗場-ae85ca.html
 published: 2026-04-04
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京美食, 御好燒, 庶民料理
 license: CC BY 4.0
 ---

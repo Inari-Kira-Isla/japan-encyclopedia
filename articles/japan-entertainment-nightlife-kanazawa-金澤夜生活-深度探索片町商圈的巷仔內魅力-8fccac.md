@@ -6,7 +6,7 @@ category: nightlife
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-kanazawa-金澤夜生活-深度探索片町商圈的巷仔內魅力-8fccac.html
 published: 2026-06-15
-quality_score: 6.5
+quality_score: 8.9
 tags: 金澤夜生活, 片町商圈, 加賀料理, 日本深夜食堂, 北陸旅遊
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: buses
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-buses-osaka-大阪夜間巴士攻略-深夜遊玩的安全交通指南-0cfad8.html
 published: 2026-05-23
-quality_score: 7.5
+quality_score: 8.7
 tags: 大阪交通, 夜間巴士, 大阪夜生活,  Osaka Night Bus , 關西機場交通
 license: CC BY 4.0
 ---

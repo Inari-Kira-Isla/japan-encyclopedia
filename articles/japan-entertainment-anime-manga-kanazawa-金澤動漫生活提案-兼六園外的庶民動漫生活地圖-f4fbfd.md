@@ -6,7 +6,7 @@ category: anime-manga
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-kanazawa-金澤動漫生活提案-兼六園外的庶民動漫生活地圖-f4fbfd.html
 published: 2026-05-22
-quality_score: 6.5
+quality_score: 8.6
 tags: 
 license: CC BY 4.0
 ---

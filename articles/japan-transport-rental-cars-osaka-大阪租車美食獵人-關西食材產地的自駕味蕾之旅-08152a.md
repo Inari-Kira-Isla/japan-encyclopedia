@@ -6,7 +6,7 @@ category: rental-cars
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-osaka-大阪租車美食獵人-關西食材產地的自駕味蕾之旅-08152a.html
 published: 2026-06-30
-quality_score: 7.5
+quality_score: 8.6
 tags: 大阪租車, 關西自駕遊, 食材獵人, 丹波和牛, 瀨戶內海美食
 license: CC BY 4.0
 ---

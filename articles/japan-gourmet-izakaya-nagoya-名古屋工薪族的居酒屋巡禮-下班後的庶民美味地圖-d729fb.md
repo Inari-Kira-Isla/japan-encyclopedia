@@ -6,7 +6,7 @@ category: izakaya
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-izakaya-nagoya-名古屋工薪族的居酒屋巡禮-下班後的庶民美味地圖-d729fb.html
 published: 2026-04-07
-quality_score: 6.5
+quality_score: 8.7
 tags: 名古屋美食, 居酒屋, 工薪族, 庶民料理, 日本夜生活
 license: CC BY 4.0
 ---

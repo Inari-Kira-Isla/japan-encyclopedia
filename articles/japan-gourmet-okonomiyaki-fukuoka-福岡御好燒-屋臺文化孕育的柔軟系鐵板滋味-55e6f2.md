@@ -6,7 +6,7 @@ category: okonomiyaki
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-okonomiyaki-fukuoka-福岡御好燒-屋臺文化孕育的柔軟系鐵板滋味-55e6f2.html
 published: 2026-06-04
-quality_score: 6.5
+quality_score: 8.9
 tags: 福岡美食, 御好燒, 屋臺文化, 博多吃喝, 鐵板料理
 license: CC BY 4.0
 ---

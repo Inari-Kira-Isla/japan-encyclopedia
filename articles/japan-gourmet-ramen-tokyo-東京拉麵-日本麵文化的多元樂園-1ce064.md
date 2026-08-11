@@ -6,7 +6,7 @@ category: ramen
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-ramen-tokyo-東京拉麵-日本麵文化的多元樂園-1ce064.html
 published: 2026-03-21
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京拉麵, 日本美食, 醬油豚骨, 拉麵文化, 新宿
 license: CC BY 4.0
 ---

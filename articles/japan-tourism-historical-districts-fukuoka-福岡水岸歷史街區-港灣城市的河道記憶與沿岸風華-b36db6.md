@@ -6,7 +6,7 @@ category: historical-districts
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-fukuoka-福岡水岸歷史街區-港灣城市的河道記憶與沿岸風華-b36db6.html
 published: 2026-06-27
-quality_score: 6.5
+quality_score: 8.5
 tags: 福岡, 歷史街區, 水岸城市, 港口, 河川
 license: CC BY 4.0
 ---

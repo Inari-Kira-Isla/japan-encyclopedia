@@ -6,7 +6,7 @@ category: vr-experiences
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-vr-experiences-tokyo-tokyo-vr體驗-東京虛擬實境娛樂完整指南-9e7d6e.html
 published: 2026-06-18
-quality_score: 6.5
+quality_score: 8.6
 tags: 東京VR, 東京虛擬實境, 東京科技娛樂, Tokyo VR, 日本VR體驗
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: yakitori
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-yakitori-nara-奈良的燒鳥-穿越千年古都的雞肉串燒路徑-6eaa5c.html
 published: 2026-05-22
-quality_score: 6.5
+quality_score: 8.7
 tags: 奈良燒鳥, 奈良美食, 古都日常, 串燒推薦, 近鐵奈良
 license: CC BY 4.0
 ---

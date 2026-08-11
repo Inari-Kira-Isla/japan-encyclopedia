@@ -6,7 +6,7 @@ category: udon-soba
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-udon-soba-kobe-神戶烏龍麵與蕎麥麵-港都重生的麵食文化-24313d.html
 published: 2026-03-29
-quality_score: 6.5
+quality_score: 8.5
 tags: 神戶美食, 烏龍麵, 蕎麥麵, 港都文化, 神戶牛
 license: CC BY 4.0
 ---

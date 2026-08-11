@@ -6,7 +6,7 @@ category: shinkansen
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-hokkaido-北海道新幹線最新指南-行程規劃與推薦路線-1f4bc7.html
 published: 2026-04-07
-quality_score: 7.5
+quality_score: 8.7
 tags: 北海道新政幹道, 日本交通, 新函館北斗車站, 北海道溫泉, 登別溫泉
 license: CC BY 4.0
 ---

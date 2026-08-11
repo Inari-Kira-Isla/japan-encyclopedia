@@ -6,7 +6,7 @@ category: historical-districts
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-tokyo-東京歷史街區-穿越時空的在下町風情與手做工藝-0f6689.html
 published: 2026-05-31
-quality_score: 6.5
+quality_score: 8.6
 tags: 東京歷史街區, 下町風情, 東京深度旅遊, 手做工藝, 佃島
 license: CC BY 4.0
 ---

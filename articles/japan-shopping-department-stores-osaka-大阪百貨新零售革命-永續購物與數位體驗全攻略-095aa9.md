@@ -6,7 +6,7 @@ category: department-stores
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-department-stores-osaka-大阪百貨新零售革命-永續購物與數位體驗全攻略-095aa9.html
 published: 2026-04-05
-quality_score: 7.5
+quality_score: 8.7
 tags: 大阪百貨, 永續購物, 數位零售, 環保消費, 智慧購物
 license: CC BY 4.0
 ---

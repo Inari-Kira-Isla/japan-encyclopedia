@@ -6,7 +6,7 @@ category: yakitori
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-yakitori-hiroshima-廣島燒鳥-瀨戶內海風味的串燒文化-64785a.html
 published: 2026-03-28
-quality_score: 6.5
+quality_score: 8.7
 tags: 廣島美食, 燒鳥, 瀨戶內海, 廣島和牛, 日式居酒屋
 license: CC BY 4.0
 ---

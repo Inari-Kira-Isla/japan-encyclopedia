@@ -6,7 +6,7 @@ category: business-hotels
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-business-hotels-kyoto-京都商務酒店新時代-長駐商務客與數位遊牧族的住宿策略-c34d70.html
 published: 2026-04-01
-quality_score: 6.5
+quality_score: 8.7
 tags: 京都商務酒店, 商務差旅, 長期住宿, 數位遊牧, 會展經濟
 license: CC BY 4.0
 ---

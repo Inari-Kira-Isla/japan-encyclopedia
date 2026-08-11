@@ -6,7 +6,7 @@ category: kaiseki
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-kaiseki-sendai-仙台會席料理-東北食材的慶祝日常-ab58b1.html
 published: 2026-06-30
-quality_score: 6.5
+quality_score: 8.5
 tags: 仙台美食, 會席料理, 日本海海鮮, 東北美食, 仙台旅遊
 license: CC BY 4.0
 ---

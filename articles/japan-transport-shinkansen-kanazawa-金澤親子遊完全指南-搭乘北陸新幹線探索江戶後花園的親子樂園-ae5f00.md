@@ -6,7 +6,7 @@ category: shinkansen
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-kanazawa-金澤親子遊完全指南-搭乘北陸新幹線探索江戶後花園的親子樂園-ae5f00.html
 published: 2026-06-05
-quality_score: 7.5
+quality_score: 8.9
 tags: 金澤親子遊, 北陸新娘線, 金澤21世紀美術館, 近江町市場, 日本鐵路通票
 license: CC BY 4.0
 ---

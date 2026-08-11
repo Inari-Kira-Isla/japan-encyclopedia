@@ -6,7 +6,7 @@ category: cycling
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-osaka-大阪美食騎行之旅-邊騎邊吃-探訪關西在地風味-2a5e82.html
 published: 2026-03-24
-quality_score: 7.5
+quality_score: 8.7
 tags: 大阪單車, 美食騎行, 自行車旅遊, 關西美食, 道頓堀
 license: CC BY 4.0
 ---

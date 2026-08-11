@@ -6,7 +6,7 @@ category: vintage-thrift
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-vintage-thrift-sendai-仙台古著獵人的秘密基地-東北在地復古尋寶不完全指南-468cbf.html
 published: 2026-06-04
-quality_score: 7.5
+quality_score: 8.8
 tags: 仙台古著, 東北購物, 日本二手店, 古著獵人, 復古時尚
 license: CC BY 4.0
 ---

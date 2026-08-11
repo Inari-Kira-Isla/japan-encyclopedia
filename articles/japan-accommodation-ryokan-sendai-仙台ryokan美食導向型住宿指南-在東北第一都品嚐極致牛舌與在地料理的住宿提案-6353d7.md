@@ -6,7 +6,7 @@ category: ryokan
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-sendai-仙台ryokan美食導向型住宿指南-在東北第一都品嚐極致牛舌與在地料理的住宿提案-6353d7.html
 published: 2026-06-07
-quality_score: 6.5
+quality_score: 8.9
 tags: 仙台住宿, Ryokan, 牛舌, 東北美食, 懷石料理
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: temple-stays
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-temple-stays-tokyo-東京周邊寺廟住宿交通指南-從首都出發的修行之旅-89637e.html
 published: 2026-05-22
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京寺廟住宿, 宿坊體驗, 修行之旅, 關東寺廟, 東京周邊旅遊
 license: CC BY 4.0
 ---

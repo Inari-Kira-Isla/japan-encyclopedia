@@ -6,7 +6,7 @@ category: metro-systems
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-hiroshima-廣島路面電車-城市散步學-tram-和平紀唸的慢遊視角-c19bb0.html
 published: 2026-05-23
-quality_score: 7.5
+quality_score: 8.6
 tags: 廣島軌道, 路面電車, 廣島自由行, 和平紀念, tram遊廣島
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: jr-pass
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-jr-pass-nara-奈良交通完全指南-沒有專用jr-pass-這樣玩最聰明-b44775.html
 published: 2026-06-11
-quality_score: 7.5
+quality_score: 8.7
 tags: 奈良交通, JR Pass替代方案, 關西周遊券, 奈良景點, 近鐵奈良
 license: CC BY 4.0
 ---

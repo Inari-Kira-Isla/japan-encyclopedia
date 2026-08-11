@@ -6,7 +6,7 @@ category: minshuku
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-kobe-神戶民宿完全指南-六甲山風與港都時光的住宿溫度-f97efb.html
 published: 2026-06-02
-quality_score: 6.5
+quality_score: 8.5
 tags: 神戶民宿, 六甲山, 港都住宿, 溫泉體驗, 神戶牛
 license: CC BY 4.0
 ---

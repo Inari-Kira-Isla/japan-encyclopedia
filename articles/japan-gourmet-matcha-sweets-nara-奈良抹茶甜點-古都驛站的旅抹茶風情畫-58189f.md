@@ -6,7 +6,7 @@ category: matcha-sweets
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-matcha-sweets-nara-奈良抹茶甜點-古都驛站的旅抹茶風情畫-58189f.html
 published: 2026-06-03
-quality_score: 6.5
+quality_score: 8.7
 tags: 奈良, 抹茶甜點, 關西美食, 日本甜品, 古都旅行
 license: CC BY 4.0
 ---

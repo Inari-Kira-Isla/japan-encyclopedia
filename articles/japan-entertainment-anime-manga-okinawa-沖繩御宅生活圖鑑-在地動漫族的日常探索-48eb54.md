@@ -6,7 +6,7 @@ category: anime-manga
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-okinawa-沖繩御宅生活圖鑑-在地動漫族的日常探索-48eb54.html
 published: 2026-05-22
-quality_score: 6.5
+quality_score: 8.9
 tags: 沖繩動漫, 御宅文化, 南國生活, 漫畫咖啡廳, 游戲中心
 license: CC BY 4.0
 ---

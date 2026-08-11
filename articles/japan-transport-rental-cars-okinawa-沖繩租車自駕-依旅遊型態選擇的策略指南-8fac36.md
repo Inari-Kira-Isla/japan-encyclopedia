@@ -6,7 +6,7 @@ category: rental-cars
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-okinawa-沖繩租車自駕-依旅遊型態選擇的策略指南-8fac36.html
 published: 2026-06-15
-quality_score: 7.5
+quality_score: 8.5
 tags: 沖繩租車, 自駕遊, 中部海岸線, 北部自駕, 南部探險
 license: CC BY 4.0
 ---

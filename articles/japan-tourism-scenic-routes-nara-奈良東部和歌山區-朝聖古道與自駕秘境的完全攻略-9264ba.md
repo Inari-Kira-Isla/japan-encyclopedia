@@ -6,7 +6,7 @@ category: scenic-routes
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-nara-奈良東部和歌山區-朝聖古道與自駕秘境的完全攻略-9264ba.html
 published: 2026-06-07
-quality_score: 6.5
+quality_score: 8.6
 tags: 奈良朝聖路線, 吉野山, 大和高原, Pilgrim Tourism, 自駕秘境
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: wagyu
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-wagyu-hokkaido-北海道和牛採購完全指南-在地達人的購物秘訣與郵購方案-2e32d1.html
 published: 2026-03-23
-quality_score: 6.5
+quality_score: 8.5
 tags: 北海道, 和牛, 採購指南, 郵購, 批發市場
 license: CC BY 4.0
 ---

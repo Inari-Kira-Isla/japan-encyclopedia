@@ -6,7 +6,7 @@ category: rental-cars
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-sendai-仙台租車美食攻略-自駕探索東北食文化的味蕾之旅-f91461.html
 published: 2026-06-06
-quality_score: 7.5
+quality_score: 8.6
 tags: 仙台租車, 東北美食, 自駕遊, 日本三景, 藏王溫泉
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: garden-parks
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-kyoto-京都社群花園-遠離人潮的在地綠意散步-043c02.html
 published: 2026-06-19
-quality_score: 6.5
+quality_score: 8.6
 tags: 京都花園, 社區公園, 在地推薦, 非觀光, 散步路線
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: day-trips
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-nara-奈良深度走讀-比東大寺更有故事的古都周邊秘境-167d9b.html
 published: 2026-06-07
-quality_score: 6.5
+quality_score: 8.6
 tags: 奈良一日遊, 法隆寺, 明日香村, 吉野山, 關西深度遊
 license: CC BY 4.0
 ---

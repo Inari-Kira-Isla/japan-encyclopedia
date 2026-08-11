@@ -6,7 +6,7 @@ category: food-retail
 area: japan
 url: https://japan-encyclopedia.vercel.app/articles/japan-food-food-retail-日本百貨公司地下食品賣場完整指南2026-伊勢丹-高島屋-三越地下食品街-百貨公司地下費用-jpy-攻略-jp-j-0b6a05.html
 published: 2026-03-29
-quality_score: 7.1
+quality_score: 8.5
 tags: 日本百貨地下, デパ地下, 伊勢丹新宿, 日本百貨公司, 日本食品購物
 license: CC BY 4.0
 ---

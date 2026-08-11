@@ -6,7 +6,7 @@ category: ski-resorts
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-ski-resorts-tokyo-東京周邊滑雪場推薦-從東京出發的雪國之旅-681403.html
 published: 2026-03-16
-quality_score: 6.5
+quality_score: 8.9
 tags: 東京滑雪, 日本滑雪, 東京近郊, 長野滑雪, 新潟滑雪
 license: CC BY 4.0
 ---

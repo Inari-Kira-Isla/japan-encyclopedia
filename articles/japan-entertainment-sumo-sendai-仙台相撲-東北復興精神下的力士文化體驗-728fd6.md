@@ -6,7 +6,7 @@ category: sumo
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-sendai-仙台相撲-東北復興精神下的力士文化體驗-728fd6.html
 published: 2026-03-20
-quality_score: 6.5
+quality_score: 8.8
 tags: 相撲文化, 仙台旅遊, 東北美食, 復興支援, 日本國技
 license: CC BY 4.0
 ---

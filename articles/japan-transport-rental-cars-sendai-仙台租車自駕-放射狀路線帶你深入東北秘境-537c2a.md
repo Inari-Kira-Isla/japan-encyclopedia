@@ -6,7 +6,7 @@ category: rental-cars
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-sendai-仙台租車自駕-放射狀路線帶你深入東北秘境-537c2a.html
 published: 2026-06-04
-quality_score: 7.5
+quality_score: 8.7
 tags: 仙台租車, 東北自駕, 放射狀路線, 鳴子峽谷, 松島海岸
 license: CC BY 4.0
 ---

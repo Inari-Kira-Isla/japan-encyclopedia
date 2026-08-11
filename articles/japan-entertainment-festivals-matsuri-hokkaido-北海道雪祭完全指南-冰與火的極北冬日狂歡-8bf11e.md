@@ -6,7 +6,7 @@ category: festivals-matsuri
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-festivals-matsuri-hokkaido-北海道雪祭完全指南-冰與火的極北冬日狂歡-8bf11e.html
 published: 2026-05-22
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道祭典, 冬季旅遊, 冰瀑布, 雪祭, 溫泉祭
 license: CC BY 4.0
 ---

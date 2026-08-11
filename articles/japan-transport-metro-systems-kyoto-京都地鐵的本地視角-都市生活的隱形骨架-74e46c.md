@@ -6,7 +6,7 @@ category: metro-systems
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-kyoto-京都地鐵的本地視角-都市生活的隱形骨架-74e46c.html
 published: 2026-03-24
-quality_score: 7.5
+quality_score: 8.6
 tags: 京都交通, 地鐵系統, 日本交通, 本地生活, 通勤
 license: CC BY 4.0
 ---

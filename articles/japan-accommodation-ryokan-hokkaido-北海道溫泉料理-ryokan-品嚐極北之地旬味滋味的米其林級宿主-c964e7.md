@@ -6,7 +6,7 @@ category: ryokan
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-hokkaido-北海道溫泉料理-ryokan-品嚐極北之地旬味滋味的米其林級宿主-c964e7.html
 published: 2026-06-03
-quality_score: 6.5
+quality_score: 8.4
 tags: 北海道, 溫泉旅館, 美食之旅, 北紫海膽, 一期一會
 license: CC BY 4.0
 ---

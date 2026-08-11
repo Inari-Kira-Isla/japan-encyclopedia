@@ -6,7 +6,7 @@ category: day-trips
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-kyoto-京都郊區鐵道慢旅-宇治・枚方・關西機場臨空城的非主流深度遊-1094e6.html
 published: 2026-07-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 京都一日遊, 宇治抹茶, 枚方公園, 臨空城outlet, 關西電鐵
 license: CC BY 4.0
 ---

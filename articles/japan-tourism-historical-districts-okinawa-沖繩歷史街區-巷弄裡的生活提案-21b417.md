@@ -6,7 +6,7 @@ category: historical-districts
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-okinawa-沖繩歷史街區-巷弄裡的生活提案-21b417.html
 published: 2026-05-25
-quality_score: 6.5
+quality_score: 8.8
 tags: 沖繩歷史街區, 琉球王國, 美軍基地, 社區小店, 非典型景點
 license: CC BY 4.0
 ---

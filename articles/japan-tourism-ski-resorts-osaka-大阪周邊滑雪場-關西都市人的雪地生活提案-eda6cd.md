@@ -6,7 +6,7 @@ category: ski-resorts
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-ski-resorts-osaka-大阪周邊滑雪場-關西都市人的雪地生活提案-eda6cd.html
 published: 2026-06-19
-quality_score: 6.5
+quality_score: 8.2
 tags: 大阪滑雪, 關西滑雪場, 神戶滑雪, 日本冬季, 一日滑雪
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: historical-districts
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-osaka-大阪歷史街區-隱藏在巷弄間的職人文明-61a500.html
 published: 2026-06-27
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪歷史街區, 職人文化, 深度大阪, 空堀通, 今橋道具街
 license: CC BY 4.0
 ---

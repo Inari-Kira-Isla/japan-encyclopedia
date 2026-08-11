@@ -6,7 +6,7 @@ category: electronics
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-electronics-hiroshima-廣島電子產品維修與二手挖寶指南-在地達人的隱藏版購物體驗-d900c8.html
 published: 2026-06-16
-quality_score: 7.5
+quality_score: 8.6
 tags: 廣島電子產品, 廣島購物, 二手電器, 維修文化, 日本中國地方
 license: CC BY 4.0
 ---

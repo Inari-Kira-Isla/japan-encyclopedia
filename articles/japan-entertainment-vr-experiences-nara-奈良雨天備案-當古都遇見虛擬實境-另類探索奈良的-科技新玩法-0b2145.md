@@ -6,7 +6,7 @@ category: vr-experiences
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-vr-experiences-nara-奈良雨天備案-當古都遇見虛擬實境-另類探索奈良的-科技新玩法-0b2145.html
 published: 2026-06-18
-quality_score: 6.5
+quality_score: 8.6
 tags: 奈良, VR體驗, 虛擬實境, 奈良旅遊, 雨天備案
 license: CC BY 4.0
 ---

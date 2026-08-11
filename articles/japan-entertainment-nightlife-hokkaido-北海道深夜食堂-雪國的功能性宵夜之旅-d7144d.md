@@ -6,7 +6,7 @@ category: nightlife
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-hokkaido-北海道深夜食堂-雪國的功能性宵夜之旅-d7144d.html
 published: 2026-06-18
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道夜生活, 札幌拉麵, 二條市場, 小樽運河, 日本拉麵
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: festivals-matsuri
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-festivals-matsuri-nara-奈良夜景祭典-深入奈良公園與春日大社的夜間祭儀體驗-94bdc1.html
 published: 2026-06-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 奈良祭典, 日本祭典, 夜景, 春日大社, 萬燈籠
 license: CC BY 4.0
 ---

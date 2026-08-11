@@ -6,7 +6,7 @@ category: gaming-arcades
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-gaming-arcades-osaka-大阪遊戲中心-巷弄裡的在地遊戲文化-d174be.html
 published: 2026-06-05
-quality_score: 6.5
+quality_score: 8.4
 tags: 大阪遊戲中心, 大阪娛樂, 大阪下町, 關西街機, 日本遊戲中心
 license: CC BY 4.0
 ---

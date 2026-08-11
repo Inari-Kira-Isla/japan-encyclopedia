@@ -6,7 +6,7 @@ category: day-trips
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-fukuoka-福岡週日慢旅行-遠離人潮的在地生活圈探索-4c5d42.html
 published: 2026-05-25
-quality_score: 6.5
+quality_score: 8.9
 tags: 福岡一日遊, 久留米美食, 在地導覽, 周日旅行, 九州鐵道
 license: CC BY 4.0
 ---

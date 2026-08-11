@@ -6,7 +6,7 @@ category: craft-markets
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-craft-markets-kyoto-京都手工藝市場省錢攻略-質感與cp值兼具的購物指南-1610fa.html
 published: 2026-06-19
-quality_score: 7.5
+quality_score: 8.7
 tags: 京都, 手工藝市集, 日本購物, 省錢攻略, 旅遊指南
 license: CC BY 4.0
 ---

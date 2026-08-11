@@ -6,7 +6,7 @@ category: shinkansen
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-tokyo-東京出張之選-從東京站出發的主要高速鐵路目的地-d46087.html
 published: 2026-06-02
-quality_score: 7.5
+quality_score: 8.6
 tags: 东京新干线, 东京交通, 日本铁路, 东北新干线, 东海道新干线
 license: CC BY 4.0
 ---

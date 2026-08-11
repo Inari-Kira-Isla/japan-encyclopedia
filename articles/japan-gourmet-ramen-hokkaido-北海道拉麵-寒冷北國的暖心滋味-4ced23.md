@@ -6,7 +6,7 @@ category: ramen
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-ramen-hokkaido-北海道拉麵-寒冷北國的暖心滋味-4ced23.html
 published: 2026-03-14
-quality_score: 6.5
+quality_score: 8.9
 tags: 北海道拉麵, 札幌拉麵, 日本美食, 味噌拉麵, 旭川拉麵
 license: CC BY 4.0
 ---

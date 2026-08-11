@@ -6,7 +6,7 @@ category: souvenir-omiyage
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-souvenir-omiyage-hiroshima-仙台免稅購物完全指南-東北限定特產與市區特色店家攻略-0802e4.html
 published: 2026-06-28
-quality_score: 7.5
+quality_score: 8.5
 tags: 仙台免稅, 仙台購物, 東北限定, 日本免稅攻略, 仙台伴手禮
 license: CC BY 4.0
 ---

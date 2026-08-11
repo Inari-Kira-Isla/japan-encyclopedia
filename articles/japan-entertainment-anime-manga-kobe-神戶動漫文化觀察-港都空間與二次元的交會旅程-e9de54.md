@@ -6,7 +6,7 @@ category: anime-manga
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-kobe-神戶動漫文化觀察-港都空間與二次元的交會旅程-e9de54.html
 published: 2026-04-11
-quality_score: 6.5
+quality_score: 8.7
 tags: 神戶動漫, 神戶二次元, 神戶咖啡廳, 神戶漫畫店, 關西動漫
 license: CC BY 4.0
 ---

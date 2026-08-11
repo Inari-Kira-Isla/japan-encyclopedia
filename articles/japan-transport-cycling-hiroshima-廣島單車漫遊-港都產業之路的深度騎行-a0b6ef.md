@@ -6,7 +6,7 @@ category: cycling
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-hiroshima-廣島單車漫遊-港都產業之路的深度騎行-a0b6ef.html
 published: 2026-06-25
-quality_score: 7.5
+quality_score: 8.5
 tags: 廣島單車, 產業騎行, 港都之旅, 瀨戶內海, 太田川
 license: CC BY 4.0
 ---

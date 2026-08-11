@@ -6,7 +6,7 @@ category: tempura
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tempura-osaka-大阪天婦羅-四季食材地圖-從批發市場到餐桌的季節美學-4119b2.html
 published: 2026-03-24
-quality_score: 6.5
+quality_score: 8.6
 tags: 大阪美食, 天婦羅, 季節食材, 日本料理, 瀨戶內海
 license: CC BY 4.0
 ---

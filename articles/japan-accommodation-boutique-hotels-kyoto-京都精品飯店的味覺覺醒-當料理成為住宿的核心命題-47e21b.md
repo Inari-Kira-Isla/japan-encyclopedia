@@ -6,7 +6,7 @@ category: boutique-hotels
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-kyoto-京都精品飯店的味覺覺醒-當料理成為住宿的核心命題-47e21b.html
 published: 2026-06-03
-quality_score: 6.5
+quality_score: 8.7
 tags: 京都精品飯店, 京料理, 味覺體驗, 祇园, 岚山
 license: CC BY 4.0
 ---

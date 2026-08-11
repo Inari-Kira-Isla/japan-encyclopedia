@@ -6,7 +6,7 @@ category: castle-towns
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-castle-towns-kyoto-京都的武家與公家城鎮-被遺忘的政治權力中心的百年風華-5d20b7.html
 published: 2026-06-16
-quality_score: 6.5
+quality_score: 8.7
 tags: 京都城下町, 二條城, 京都武家, 日本城堡, 京都歷史
 license: CC BY 4.0
 ---

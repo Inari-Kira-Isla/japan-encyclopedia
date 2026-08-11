@@ -6,7 +6,7 @@ category: sumo
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-sendai-仙台相撲-追尋力道與味覺的相撲王國-c72e50.html
 published: 2026-06-12
-quality_score: 6.5
+quality_score: 8.7
 tags: 仙台, 相撲, 東北温泉, 日本文化體驗, 七夕
 license: CC BY 4.0
 ---

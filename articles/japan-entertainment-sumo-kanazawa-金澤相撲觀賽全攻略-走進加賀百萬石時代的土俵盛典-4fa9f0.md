@@ -6,7 +6,7 @@ category: sumo
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-kanazawa-金澤相撲觀賽全攻略-走進加賀百萬石時代的土俵盛典-4fa9f0.html
 published: 2026-06-04
-quality_score: 6.5
+quality_score: 8.9
 tags: 金澤相撲, 石川縣觀賽, 日本相撲巡業, 北陸自由度體驗, 加賀藩歷史
 license: CC BY 4.0
 ---

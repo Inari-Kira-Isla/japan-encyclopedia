@@ -6,7 +6,7 @@ category: cycling
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-kanazawa-金澤單車慢旅-穿越古今工藝之城的金箔路徑-b50d74.html
 published: 2026-06-28
-quality_score: 7.5
+quality_score: 8.7
 tags: 金澤單車, 金澤自由行, 金澤深度旅遊, 日本單車旅行, 金澤金箔
 license: CC BY 4.0
 ---

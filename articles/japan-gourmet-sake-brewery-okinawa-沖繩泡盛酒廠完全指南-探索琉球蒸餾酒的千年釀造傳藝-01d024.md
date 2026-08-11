@@ -6,7 +6,7 @@ category: sake-brewery
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sake-brewery-okinawa-沖繩泡盛酒廠完全指南-探索琉球蒸餾酒的千年釀造傳藝-01d024.html
 published: 2026-05-31
-quality_score: 6.5
+quality_score: 8.5
 tags: 沖繩, 泡盛, awamori, 釀酒廠, 蒸餾酒
 license: CC BY 4.0
 ---

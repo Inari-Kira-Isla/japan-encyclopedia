@@ -6,7 +6,7 @@ category: shinkansen
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-sendai-仙台新幹綫完全指南-從東北玄關出發的高速旅行攻略-44f7ab.html
 published: 2026-06-18
-quality_score: 7.5
+quality_score: 8.7
 tags: 仙台, 新幹綫, 東北旅行, 日本鐵道, 交通攻略
 license: CC BY 4.0
 ---

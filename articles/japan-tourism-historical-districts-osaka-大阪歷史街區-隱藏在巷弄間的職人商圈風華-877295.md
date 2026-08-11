@@ -6,7 +6,7 @@ category: historical-districts
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-osaka-大阪歷史街區-隱藏在巷弄間的職人商圈風華-877295.html
 published: 2026-05-24
-quality_score: 6.5
+quality_score: 8.6
 tags:  Osaka, 歷史街區, 職人商圈, 大阪自由行, 深度旅行
 license: CC BY 4.0
 ---

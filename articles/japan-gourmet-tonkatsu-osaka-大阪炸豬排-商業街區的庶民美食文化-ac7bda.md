@@ -6,7 +6,7 @@ category: tonkatsu
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tonkatsu-osaka-大阪炸豬排-商業街區的庶民美食文化-ac7bda.html
 published: 2026-04-04
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪美食, 炸豬排, 商業街區, 上班族文化, 庶民料理
 license: CC BY 4.0
 ---

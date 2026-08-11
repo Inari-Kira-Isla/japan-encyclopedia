@@ -6,7 +6,7 @@ category: ryokan
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-hokkaido-北海道溫泉旅館的極致味覺巡禮-從食材認識北國溫泉旅宿的價值-446b0a.html
 published: 2026-06-12
-quality_score: 6.5
+quality_score: 8.6
 tags: 北海道溫泉, Ryokan推薦, 溫泉美食, 登別溫泉, 支笏湖溫泉
 license: CC BY 4.0
 ---

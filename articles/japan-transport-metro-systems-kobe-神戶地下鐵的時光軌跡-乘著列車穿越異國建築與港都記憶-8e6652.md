@@ -6,7 +6,7 @@ category: metro-systems
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-kobe-神戶地下鐵的時光軌跡-乘著列車穿越異國建築與港都記憶-8e6652.html
 published: 2026-06-18
-quality_score: 7.5
+quality_score: 8.8
 tags: 神戶地下鐵, 神戶交通, 神戶歷史, 異國建築, 港都
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: festivals-matsuri
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-festivals-matsuri-kanazawa-金澤祭典美食與夜景-深度在地人的祭典味覺地圖-408ece.html
 published: 2026-07-01
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤祭典, 加賀百萬石, 金澤美食, 日本夏日祭典, 石川縣旅遊
 license: CC BY 4.0
 ---

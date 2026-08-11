@@ -6,7 +6,7 @@ category: jr-pass
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-jr-pass-nara-奈良交通全攻略-從名古屋大阪往返奈良的鐵路選擇-220946.html
 published: 2026-06-04
-quality_score: 7.5
+quality_score: 8.7
 tags: 奈良交通, JR Pass, 關西自由行, 日本鐵路, 奈良公園
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: izakaya
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-izakaya-osaka-大阪阿倍野・天王寺周邊-在地人の串かつ酒場探索-55f1ef.html
 published: 2026-06-23
-quality_score: 6.5
+quality_score: 8.5
 tags: 大阪居酒屋, 阿倍野美食, 天王寺餐廳, 串かつ, 立ち飲み
 license: CC BY 4.0
 ---

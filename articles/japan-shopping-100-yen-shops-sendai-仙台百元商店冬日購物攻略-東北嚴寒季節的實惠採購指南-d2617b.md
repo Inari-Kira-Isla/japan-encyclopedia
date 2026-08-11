@@ -6,7 +6,7 @@ category: 100-yen-shops
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-100-yen-shops-sendai-仙台百元商店冬日購物攻略-東北嚴寒季節的實惠採購指南-d2617b.html
 published: 2026-06-26
-quality_score: 7.5
+quality_score: 8.6
 tags: 仙台, 百元商店, 東北購物, 防寒用品, 日本平價購物
 license: CC BY 4.0
 ---

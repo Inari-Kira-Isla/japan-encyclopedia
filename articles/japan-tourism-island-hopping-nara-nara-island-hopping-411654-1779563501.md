@@ -6,7 +6,7 @@ category: island-hopping
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-island-hopping-nara-nara-island-hopping-411654-1779563501.html
 published: 2026-05-23
-quality_score: 5.5
+quality_score: 7.2
 tags: island-hopping, nara, japan
 license: CC BY 4.0
 ---

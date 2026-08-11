@@ -6,7 +6,7 @@ category: karaoke
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-karaoke-nara-奈良卡拉ok-穿越千年時空的夜間歡唱-49a1c5.html
 published: 2026-05-23
-quality_score: 6.5
+quality_score: 8.8
 tags: 奈良卡拉OK, 古都夜色, 奈良观光, 关西娱乐, 日本KTV
 license: CC BY 4.0
 ---

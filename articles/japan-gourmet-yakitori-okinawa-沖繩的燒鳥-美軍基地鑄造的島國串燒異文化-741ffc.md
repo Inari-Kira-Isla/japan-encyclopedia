@@ -6,7 +6,7 @@ category: yakitori
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-yakitori-okinawa-沖繩的燒鳥-美軍基地鑄造的島國串燒異文化-741ffc.html
 published: 2026-06-10
-quality_score: 6.5
+quality_score: 8.7
 tags: 沖繩燒鳥, 美軍基地美食, 沖繩美食, 那霸串燒, 島國燒烤文化
 license: CC BY 4.0
 ---

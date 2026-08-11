@@ -6,7 +6,7 @@ category: 100-yen-shops
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-100-yen-shops-fukuoka-福岡百元店-銀髮族向-隱藏版攻略-在地長輩帶路的住宅區挖寶指南-ab6e34.html
 published: 2026-06-22
-quality_score: 7.5
+quality_score: 8.6
 tags: 福岡, 百元店, 銀髮族向, 住宅區, 挖寶指南
 license: CC BY 4.0
 ---

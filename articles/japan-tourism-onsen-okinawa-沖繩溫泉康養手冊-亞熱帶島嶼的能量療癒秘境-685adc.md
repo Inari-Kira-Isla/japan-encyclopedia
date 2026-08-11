@@ -6,7 +6,7 @@ category: onsen
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-onsen-okinawa-沖繩溫泉康養手冊-亞熱帶島嶼的能量療癒秘境-685adc.html
 published: 2026-06-10
-quality_score: 6.5
+quality_score: 8.4
 tags: 沖繩溫泉, 亞熱帶康養, 恩納村溫泉, 海陸複合療法, 沖繩自由行
 license: CC BY 4.0
 ---

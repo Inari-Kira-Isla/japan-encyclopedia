@@ -6,7 +6,7 @@ category: vr-experiences
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-vr-experiences-kanazawa-金澤vr體驗-雨天備案首選-古城裡的虛擬實境親子樂園-8a375f.html
 published: 2026-06-29
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤VR, 金澤親子, 金澤雨天備案, 北陸VR體驗, 金澤娛樂
 license: CC BY 4.0
 ---

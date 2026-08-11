@@ -6,7 +6,7 @@ category: street-culture
 area: japan
 url: https://japan-encyclopedia.vercel.app/articles/japan-attractions-street-culture-東京澀谷-原宿街頭文化指南2026-澀谷十字路口-竹下通-表參道-東京流行文化完整攻略-jp--6978e7.html
 published: 2026-04-28
-quality_score: 7.6
+quality_score: 8.4
 tags: 澀谷, 原宿, 東京街頭文化, 澀谷crossing, 表參道
 license: CC BY 4.0
 ---

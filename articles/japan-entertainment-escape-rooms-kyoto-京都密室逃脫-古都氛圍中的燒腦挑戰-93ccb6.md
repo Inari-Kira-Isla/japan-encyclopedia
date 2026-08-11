@@ -6,7 +6,7 @@ category: escape-rooms
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-escape-rooms-kyoto-京都密室逃脫-古都氛圍中的燒腦挑戰-93ccb6.html
 published: 2026-06-02
-quality_score: 6.5
+quality_score: 8.7
 tags: 京都旅遊, 密室逃脫, 關西娛樂, 日本體驗, 京都自由行
 license: CC BY 4.0
 ---

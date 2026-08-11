@@ -6,7 +6,7 @@ category: sumo
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-kanazawa-金澤相撲美食指南-觀賽前後的在地品嘗地圖-685697.html
 published: 2026-05-23
-quality_score: 6.5
+quality_score: 8.6
 tags: 金澤相撲, 石川縣旅遊, ，相扑觀賽, 金澤美食, 北路旅行
 license: CC BY 4.0
 ---

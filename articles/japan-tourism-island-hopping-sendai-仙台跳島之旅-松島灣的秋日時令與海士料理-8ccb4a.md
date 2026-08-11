@@ -6,7 +6,7 @@ category: island-hopping
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-island-hopping-sendai-仙台跳島之旅-松島灣的秋日時令與海士料理-8ccb4a.html
 published: 2026-06-24
-quality_score: 6.5
+quality_score: 8.4
 tags: 仙台, 松島灣, 田代島, 金華山, 秋季旅遊
 license: CC BY 4.0
 ---

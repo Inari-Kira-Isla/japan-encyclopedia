@@ -6,7 +6,7 @@ category: okonomiyaki
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-okonomiyaki-fukuoka-福岡御好燒-鐵板前的職人技藝與在地喝酒文化-7f261c.html
 published: 2026-04-07
-quality_score: 6.5
+quality_score: 8.5
 tags: 福岡美食, 御好燒, 鐵板料理, 博多, 九州
 license: CC BY 4.0
 ---

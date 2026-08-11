@@ -6,7 +6,7 @@ category: izakaya
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-izakaya-nagoya-名古屋金山-當地人日常喝酒的隱藏版酒場-3e0c75.html
 published: 2026-06-16
-quality_score: 6.5
+quality_score: 8.7
 tags: 名古屋, 金山, 居酒屋, 在地體驗, 东海地方
 license: CC BY 4.0
 ---

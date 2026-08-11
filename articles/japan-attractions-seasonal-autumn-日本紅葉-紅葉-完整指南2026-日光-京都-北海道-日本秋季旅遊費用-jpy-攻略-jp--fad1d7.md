@@ -6,7 +6,7 @@ category: seasonal-autumn
 area: japan
 url: https://japan-encyclopedia.vercel.app/articles/japan-attractions-seasonal-autumn-日本紅葉-紅葉-完整指南2026-日光-京都-北海道-日本秋季旅遊費用-jpy-攻略-jp--fad1d7.html
 published: 2026-03-29
-quality_score: 7.6
+quality_score: 8.5
 tags: 日本紅葉, 京都賞楓, 日光紅葉, 日本秋季旅遊, 永觀堂
 license: CC BY 4.0
 ---

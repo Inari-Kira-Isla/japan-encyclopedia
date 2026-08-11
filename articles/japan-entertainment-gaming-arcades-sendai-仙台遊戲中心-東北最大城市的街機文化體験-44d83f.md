@@ -6,7 +6,7 @@ category: gaming-arcades
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-gaming-arcades-sendai-仙台遊戲中心-東北最大城市的街機文化體験-44d83f.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 8.5
 tags: 仙台遊戲中心, 日本東北自由行, 街機文化, 日本娛樂體驗, 廣瀨通
 license: CC BY 4.0
 ---

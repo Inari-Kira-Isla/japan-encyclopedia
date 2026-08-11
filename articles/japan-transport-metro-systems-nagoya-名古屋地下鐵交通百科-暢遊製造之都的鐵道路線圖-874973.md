@@ -6,7 +6,7 @@ category: metro-systems
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-nagoya-名古屋地下鐵交通百科-暢遊製造之都的鐵道路線圖-874973.html
 published: 2026-06-02
-quality_score: 7.5
+quality_score: 8.7
 tags: 名古屋地下鐵, 名古屋交通, 日本第三大城市, 名城線, 東山線
 license: CC BY 4.0
 ---

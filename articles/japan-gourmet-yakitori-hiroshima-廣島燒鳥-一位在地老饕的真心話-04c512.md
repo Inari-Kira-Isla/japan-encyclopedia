@@ -6,7 +6,7 @@ category: yakitori
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-yakitori-hiroshima-廣島燒鳥-一位在地老饕的真心話-04c512.html
 published: 2026-06-26
-quality_score: 6.5
+quality_score: 8.8
 tags: 廣島燒鳥, 廣島美食, 紙屋町, 八丁堀, 在地美食
 license: CC BY 4.0
 ---

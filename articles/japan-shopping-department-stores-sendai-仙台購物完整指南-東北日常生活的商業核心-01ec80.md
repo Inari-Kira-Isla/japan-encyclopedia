@@ -6,7 +6,7 @@ category: department-stores
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-department-stores-sendai-仙台購物完整指南-東北日常生活的商業核心-01ec80.html
 published: 2026-05-23
-quality_score: 7.5
+quality_score: 8.8
 tags: 仙台購物, 東北百貨, 日本購物指南, 仙台自由行, 東北地方
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: sake-brewery
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sake-brewery-sendai-仙台清酒釀造廠-東北風土與季節料理的完美邂逅-3f7c5b.html
 published: 2026-04-01
-quality_score: 6.5
+quality_score: 8.9
 tags: 仙台清酒, 東北杜氏, 酒廠參觀, 日本酒文化, 宮城縣特產
 license: CC BY 4.0
 ---

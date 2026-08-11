@@ -6,7 +6,7 @@ category: karaoke
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-karaoke-okinawa-沖繩卡拉ok-島嶼風情中的歌聲饗宴-755777.html
 published: 2026-03-21
-quality_score: 6.5
+quality_score: 8.6
 tags: 沖繩, 卡拉OK, 日本娛樂, 夜生活, 琉球文化
 license: CC BY 4.0
 ---

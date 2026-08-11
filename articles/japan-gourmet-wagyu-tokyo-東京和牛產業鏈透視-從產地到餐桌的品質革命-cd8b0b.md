@@ -6,7 +6,7 @@ category: wagyu
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-wagyu-tokyo-東京和牛產業鏈透視-從產地到餐桌的品質革命-cd8b0b.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京美食, 和牛產業, 供應鏈分析, 市場趨勢, 美食經濟
 license: CC BY 4.0
 ---

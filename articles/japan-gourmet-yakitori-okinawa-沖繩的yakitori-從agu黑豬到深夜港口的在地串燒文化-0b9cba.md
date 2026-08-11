@@ -6,7 +6,7 @@ category: yakitori
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-yakitori-okinawa-沖繩的yakitori-從agu黑豬到深夜港口的在地串燒文化-0b9cba.html
 published: 2026-06-19
-quality_score: 6.5
+quality_score: 8.5
 tags: 沖繩美食, Yakitori, AGU黑豬, 美軍基地, 深夜食堂
 license: CC BY 4.0
 ---

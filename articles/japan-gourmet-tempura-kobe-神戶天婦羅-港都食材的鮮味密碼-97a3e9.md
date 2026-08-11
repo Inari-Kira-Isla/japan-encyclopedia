@@ -6,7 +6,7 @@ category: tempura
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tempura-kobe-神戶天婦羅-港都食材的鮮味密碼-97a3e9.html
 published: 2026-06-12
-quality_score: 6.5
+quality_score: 8.7
 tags: 神戶美食, 天婦羅, 關西料理, 港都美食, 瀨戶內海
 license: CC BY 4.0
 ---

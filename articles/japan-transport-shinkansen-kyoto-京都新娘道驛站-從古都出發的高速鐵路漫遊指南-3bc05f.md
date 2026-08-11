@@ -6,7 +6,7 @@ category: shinkansen
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-kyoto-京都新娘道驛站-從古都出發的高速鐵路漫遊指南-3bc05f.html
 published: 2026-06-15
-quality_score: 7.5
+quality_score: 8.9
 tags: 京都新娘道, 京都交通, 關西鐵路, 京都周邊一日遊, 日本鐵道
 license: CC BY 4.0
 ---

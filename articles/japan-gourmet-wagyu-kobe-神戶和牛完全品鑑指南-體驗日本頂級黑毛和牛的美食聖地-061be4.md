@@ -6,7 +6,7 @@ category: wagyu
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-wagyu-kobe-神戶和牛完全品鑑指南-體驗日本頂級黑毛和牛的美食聖地-061be4.html
 published: 2026-03-21
-quality_score: 6.5
+quality_score: 8.5
 tags: 神戶和牛, 日本美食, 和牛, 鐵板燒, 美食旅遊
 license: CC BY 4.0
 ---

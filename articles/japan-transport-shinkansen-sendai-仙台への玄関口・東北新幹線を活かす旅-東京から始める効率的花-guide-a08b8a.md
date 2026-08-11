@@ -6,7 +6,7 @@ category: shinkansen
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-sendai-仙台への玄関口・東北新幹線を活かす旅-東京から始める効率的花-guide-a08b8a.html
 published: 2026-06-03
-quality_score: 7.5
+quality_score: 8.7
 tags: 仙台, 東北新幹線の旅, 東北旅, 東京から仙台, 東北鉄道旅行
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: scenic-routes
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-osaka-大阪灣岸景觀走廊-港都風光與臨海工業全景之路-527507.html
 published: 2026-06-11
-quality_score: 6.5
+quality_score: 8.8
 tags: 大阪灣, 港口風景, 天保山, 南港野鳥園, 大阪海岸
 license: CC BY 4.0
 ---

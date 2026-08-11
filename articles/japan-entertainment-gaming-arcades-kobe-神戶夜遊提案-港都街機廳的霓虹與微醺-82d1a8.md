@@ -6,7 +6,7 @@ category: gaming-arcades
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-gaming-arcades-kobe-神戶夜遊提案-港都街機廳的霓虹與微醺-82d1a8.html
 published: 2026-07-03
-quality_score: 6.5
+quality_score: 8.8
 tags: 神戶, 遊戲中心, 街機, 夜生活, 關西娛樂
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: gaming-arcades
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-gaming-arcades-osaka-大阪遊戲中心-難波道頓堀周邊人氣店家推薦-9d5ba6.html
 published: 2026-06-05
-quality_score: 6.5
+quality_score: 8.8
 tags: 大阪, 遊戲中心, 道頓堀, 難波, SEGA
 license: CC BY 4.0
 ---

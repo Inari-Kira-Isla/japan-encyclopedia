@@ -6,7 +6,7 @@ category: electronics
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-electronics-nagoya-名古屋電子產業幕後探索-製造名城的零件採購地圖-63f859.html
 published: 2026-06-15
-quality_score: 7.5
+quality_score: 8.4
 tags: 名古屋電子產品, 中部電子零件, 日本電子購物, 名古屋製造, 產業導向購物
 license: CC BY 4.0
 ---

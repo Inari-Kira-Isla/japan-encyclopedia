@@ -6,7 +6,7 @@ category: tempura
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tempura-sendai-仙台天婦羅-海灣炸物的日常美味-38fb7b.html
 published: 2026-07-03
-quality_score: 6.5
+quality_score: 8.6
 tags: 仙台天婦羅, 東北美食, 鹽竈, 松島, 海灣料理
 license: CC BY 4.0
 ---

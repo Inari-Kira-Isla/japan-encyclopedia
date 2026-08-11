@@ -6,7 +6,7 @@ category: department-stores
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-department-stores-osaka-大阪百貨公司購物指南-關西購物精華所在-5be0d3.html
 published: 2026-03-15
-quality_score: 7.5
+quality_score: 8.8
 tags: 大阪購物, 大阪百貨公司, 關西購物, 梅田購物, 心齋橋
 license: CC BY 4.0
 ---

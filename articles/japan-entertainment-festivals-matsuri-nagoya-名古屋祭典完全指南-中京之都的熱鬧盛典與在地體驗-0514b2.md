@@ -6,7 +6,7 @@ category: festivals-matsuri
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-festivals-matsuri-nagoya-名古屋祭典完全指南-中京之都的熱鬧盛典與在地體驗-0514b2.html
 published: 2026-06-17
-quality_score: 6.5
+quality_score: 8.8
 tags: 名古屋祭典, Nagoya Matsuri, 中京之都, 日本祭典, 名古屋港祭
 license: CC BY 4.0
 ---

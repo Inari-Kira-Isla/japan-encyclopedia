@@ -6,7 +6,7 @@ category: minshuku
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-hokkaido-北海道民宿完全指南-火山湖泊與霧冰之境的自然棲所-f67217.html
 published: 2026-06-06
-quality_score: 6.5
+quality_score: 8.6
 tags: 北海道民宿, 弟子屈, 摩周湖, 屈斜路湖, 自然觀察
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: castle-towns
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-castle-towns-okinawa-沖繩城堡城鎮-舌尖上的琉球記憶-7a075a.html
 published: 2026-06-27
-quality_score: 6.5
+quality_score: 8.8
 tags: 沖繩城堡城鎮, 琉球王國, 琉華料理, 首里城, 那霸美食
 license: CC BY 4.0
 ---

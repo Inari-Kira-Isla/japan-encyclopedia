@@ -6,7 +6,7 @@ category: theme-parks
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-theme-parks-osaka-大阪夜間主題樂園攻略-關西夜生活的成人娛樂新境界-43b806.html
 published: 2026-04-06
-quality_score: 6.5
+quality_score: 8.6
 tags: 大阪夜生活, 成人主題樂園, 沉浸式體驗, 夜間娛樂, 關西觀光
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: udon-soba
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-udon-soba-nagoya-名古屋商務朝食-清晨烏龍麵店的職人精神-ae5ecf.html
 published: 2026-07-03
-quality_score: 6.5
+quality_score: 8.7
 tags: 名古屋美食, 烏龍麵, 蕎麥麵, 朝食文化, 商務旅行
 license: CC BY 4.0
 ---

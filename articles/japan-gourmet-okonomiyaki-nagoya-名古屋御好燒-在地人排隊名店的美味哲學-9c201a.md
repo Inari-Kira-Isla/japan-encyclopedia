@@ -6,7 +6,7 @@ category: okonomiyaki
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-okonomiyaki-nagoya-名古屋御好燒-在地人排隊名店的美味哲學-9c201a.html
 published: 2026-07-04
-quality_score: 6.5
+quality_score: 8.7
 tags: 名古屋美食, 御好燒, 名古屋旅遊, 在地美食, 中部地方
 license: CC BY 4.0
 ---

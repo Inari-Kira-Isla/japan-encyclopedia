@@ -6,7 +6,7 @@ category: castle-towns
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-castle-towns-kobe-神戶的城堡城鎮-山海之間的武家與商埠-51490e.html
 published: 2026-06-30
-quality_score: 6.5
+quality_score: 8.7
 tags: 神戶城堡城鎮, 灘五鄉, 北野異人館, 有馬溫泉, 尼崎城
 license: CC BY 4.0
 ---

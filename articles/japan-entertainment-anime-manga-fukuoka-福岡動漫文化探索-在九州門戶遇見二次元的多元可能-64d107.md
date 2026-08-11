@@ -6,7 +6,7 @@ category: anime-manga
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-fukuoka-福岡動漫文化探索-在九州門戶遇見二次元的多元可能-64d107.html
 published: 2026-06-20
-quality_score: 6.5
+quality_score: 8.5
 tags: 福岡, 動漫文化, 九州, 天神, 博多
 license: CC BY 4.0
 ---

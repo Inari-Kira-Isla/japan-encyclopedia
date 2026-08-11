@@ -6,7 +6,7 @@ category: metro-systems
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-sendai-仙台地下鐵美食地圖-搭軌道探索東北胃袋的在地滋味-3254bd.html
 published: 2026-06-17
-quality_score: 7.5
+quality_score: 8.9
 tags: 仙台地下鐵, 仙台美食, 東北料理, 牛舌, 日本鐵道
 license: CC BY 4.0
 ---

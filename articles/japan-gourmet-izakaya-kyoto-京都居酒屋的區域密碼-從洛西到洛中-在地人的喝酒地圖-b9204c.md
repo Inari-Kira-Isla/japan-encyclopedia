@@ -6,7 +6,7 @@ category: izakaya
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-izakaya-kyoto-京都居酒屋的區域密碼-從洛西到洛中-在地人的喝酒地圖-b9204c.html
 published: 2026-07-03
-quality_score: 6.5
+quality_score: 8.5
 tags: 京都居酒屋, 京野菜, 西陣, 鞍馬口, 日本料理
 license: CC BY 4.0
 ---

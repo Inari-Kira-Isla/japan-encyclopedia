@@ -6,7 +6,7 @@ category: karaoke
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-karaoke-fukuoka-福岡卡拉ok-博多青春的音樂共鳴-daf4d7.html
 published: 2026-04-06
-quality_score: 6.5
+quality_score: 8.7
 tags: 福岡娛樂, 博多文化, 九州音樂, 年輕世代, 卡拉OK體驗
 license: CC BY 4.0
 ---

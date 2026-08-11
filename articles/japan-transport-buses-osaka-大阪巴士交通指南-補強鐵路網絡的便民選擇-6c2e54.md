@@ -6,7 +6,7 @@ category: buses
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-buses-osaka-大阪巴士交通指南-補強鐵路網絡的便民選擇-6c2e54.html
 published: 2026-03-15
-quality_score: 7.5
+quality_score: 8.5
 tags: 大阪交通, 巴士系統, 大阪觀光, 公共交通, 關西旅遊
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: temple-stays
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-temple-stays-nagoya-都市禪修之旅-名古屋周邊寺院的靈性體驗與文化對話-7fdce8.html
 published: 2026-03-23
-quality_score: 6.5
+quality_score: 8.5
 tags: 寺院住宿, 禪修體驗, 名古屋, 日本中部, 靈性旅遊
 license: CC BY 4.0
 ---

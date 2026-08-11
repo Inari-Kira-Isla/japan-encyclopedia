@@ -6,7 +6,7 @@ category: shinkansen
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-nagoya-名古屋-新幹線穿梭東西的樞紐之城-6d3f85.html
 published: 2026-06-01
-quality_score: 7.5
+quality_score: 8.7
 tags: 日本新干线, 名古屋交通, 东海道新干线, 名古屋站, 日本中部旅游
 license: CC BY 4.0
 ---

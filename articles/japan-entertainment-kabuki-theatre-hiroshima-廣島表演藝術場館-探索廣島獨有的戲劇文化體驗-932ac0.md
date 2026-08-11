@@ -6,7 +6,7 @@ category: kabuki-theatre
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-kabuki-theatre-hiroshima-廣島表演藝術場館-探索廣島獨有的戲劇文化體驗-932ac0.html
 published: 2026-06-05
-quality_score: 6.5
+quality_score: 8.5
 tags: 廣島表演藝術, 廣島劇場, 日本傳統演劇, 廣島文化體驗, 廣島娛樂
 license: CC BY 4.0
 ---

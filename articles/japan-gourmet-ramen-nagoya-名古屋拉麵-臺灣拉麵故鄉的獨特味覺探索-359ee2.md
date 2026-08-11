@@ -6,7 +6,7 @@ category: ramen
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-ramen-nagoya-名古屋拉麵-臺灣拉麵故鄉的獨特味覺探索-359ee2.html
 published: 2026-04-07
-quality_score: 6.5
+quality_score: 8.7
 tags: 名古屋拉麵, 臺灣拉麵, 日本拉麵, 名古屋美食, 中部地方
 license: CC BY 4.0
 ---

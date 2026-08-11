@@ -6,7 +6,7 @@ category: anime-manga
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-tokyo-東京動漫咖啡廳隱藏版-御宅文化的非秋葉原體驗-6bd09a.html
 published: 2026-06-10
-quality_score: 6.5
+quality_score: 8.6
 tags: 東京動漫, 女僕咖啡廳, 漫畫咖啡廳, 秋葉原, 女性向動漫
 license: CC BY 4.0
 ---

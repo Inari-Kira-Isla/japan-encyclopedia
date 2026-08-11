@@ -6,7 +6,7 @@ category: scenic-routes
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-kobe-神戶異國風情與百萬夜景散步路線-港都山城的黃昏至夜晚深度遊-5128fd.html
 published: 2026-06-12
-quality_score: 6.5
+quality_score: 8.6
 tags: 神戶夜景, 神戶散步, 神戶景點, 摩耶山, 北野町
 license: CC BY 4.0
 ---

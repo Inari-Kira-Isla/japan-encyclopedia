@@ -6,7 +6,7 @@ category: izakaya
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-izakaya-okinawa-沖繩居酒屋的島嶼邏輯-從國際通老街到北谷海濱的在地酒場-ca04d3.html
 published: 2026-05-23
-quality_score: 6.5
+quality_score: 8.8
 tags: 沖繩居酒屋, 沖繩美食, 沖繩自由行, 那霸美食, 沖繩泡盛
 license: CC BY 4.0
 ---

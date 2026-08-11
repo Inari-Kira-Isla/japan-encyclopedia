@@ -6,7 +6,7 @@ category: rental-cars
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-sendai-仙台長期租車攻略-東北三縣深度探索的戰略基地-1e4c38.html
 published: 2026-03-29
-quality_score: 7.5
+quality_score: 8.5
 tags: 仙台租車, 東北自駕, 長期租車, 商務旅遊
 license: CC BY 4.0
 ---

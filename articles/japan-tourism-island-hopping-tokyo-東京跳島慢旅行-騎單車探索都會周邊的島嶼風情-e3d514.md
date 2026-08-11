@@ -6,7 +6,7 @@ category: island-hopping
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-island-hopping-tokyo-東京跳島慢旅行-騎單車探索都會周邊的島嶼風情-e3d514.html
 published: 2026-07-01
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京跳島, 單車旅行, 東京灣, 城南島, 葛西臨海公園
 license: CC BY 4.0
 ---

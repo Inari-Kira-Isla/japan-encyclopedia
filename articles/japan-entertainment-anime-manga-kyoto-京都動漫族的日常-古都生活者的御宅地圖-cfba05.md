@@ -6,7 +6,7 @@ category: anime-manga
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-kyoto-京都動漫族的日常-古都生活者的御宅地圖-cfba05.html
 published: 2026-06-09
-quality_score: 6.5
+quality_score: 8.5
 tags: 京都動漫, 京都御宅族, 漫畫咖啡廳, 動漫主題咖啡廳, 京都旅遊
 license: CC BY 4.0
 ---

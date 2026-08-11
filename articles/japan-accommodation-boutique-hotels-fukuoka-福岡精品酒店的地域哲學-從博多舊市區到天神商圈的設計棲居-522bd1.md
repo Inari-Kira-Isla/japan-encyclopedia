@@ -6,7 +6,7 @@ category: boutique-hotels
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-fukuoka-福岡精品酒店的地域哲學-從博多舊市區到天神商圈的設計棲居-522bd1.html
 published: 2026-05-24
-quality_score: 6.5
+quality_score: 8.6
 tags: 福岡住宿, 精品酒店, 博多, 天神, 九州旅行
 license: CC BY 4.0
 ---

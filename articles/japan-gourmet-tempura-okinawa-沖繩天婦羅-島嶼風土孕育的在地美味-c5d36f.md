@@ -6,7 +6,7 @@ category: tempura
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tempura-okinawa-沖繩天婦羅-島嶼風土孕育的在地美味-c5d36f.html
 published: 2026-03-29
-quality_score: 6.5
+quality_score: 8.7
 tags: 沖繩美食, 天婦羅, 日本料理, 沖繩自由行, 在地美食
 license: CC BY 4.0
 ---

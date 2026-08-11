@@ -6,7 +6,7 @@ category: souvenir-omiyage
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-souvenir-omiyage-hokkaido-北海道伴手禮必購清單-當地達人的私房採購指南-37a0cd.html
 published: 2026-06-03
-quality_score: 7.5
+quality_score: 8.7
 tags: 北海道, 伴手礼, 日本购物, 札幌, 小樽
 license: CC BY 4.0
 ---

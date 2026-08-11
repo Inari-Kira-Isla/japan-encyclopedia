@@ -6,7 +6,7 @@ category: tempura
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tempura-kyoto-京都天婦羅-產地到餐桌的湖國山珍之路-a915b8.html
 published: 2026-06-29
-quality_score: 6.5
+quality_score: 8.6
 tags: 京都天婦羅, 京野菜, 湖國山珍, 產地到餐桌, 琵琶湖美食
 license: CC BY 4.0
 ---

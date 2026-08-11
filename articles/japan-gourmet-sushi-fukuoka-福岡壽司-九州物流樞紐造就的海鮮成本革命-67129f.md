@@ -6,7 +6,7 @@ category: sushi
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sushi-fukuoka-福岡壽司-九州物流樞紐造就的海鮮成本革命-67129f.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.9
 tags: 福岡美食, 九州壽司, 日本海鮮, 博多, 供應鏈
 license: CC BY 4.0
 ---

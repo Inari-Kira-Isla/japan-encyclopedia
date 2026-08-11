@@ -6,7 +6,7 @@ category: temples-shrines
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-temples-shrines-sendai-仙台寺廟神社-伊達政宗時代的信仰軌跡-aec580.html
 published: 2026-06-14
-quality_score: 6.5
+quality_score: 8.8
 tags: 仙台, 寺廟神社, 伊達政宗, 東北歷史, 瑞鳳殿
 license: CC BY 4.0
 ---

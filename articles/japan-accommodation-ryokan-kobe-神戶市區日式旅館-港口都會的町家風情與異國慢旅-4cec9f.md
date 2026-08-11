@@ -6,7 +6,7 @@ category: ryokan
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-kobe-神戶市區日式旅館-港口都會的町家風情與異國慢旅-4cec9f.html
 published: 2026-06-22
-quality_score: 6.5
+quality_score: 8.7
 tags: 神戶, Ryokan, 異人館, 北野, 有馬溫泉
 license: CC BY 4.0
 ---

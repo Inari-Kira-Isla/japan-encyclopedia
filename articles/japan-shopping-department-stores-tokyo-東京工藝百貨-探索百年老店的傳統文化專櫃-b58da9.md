@@ -6,7 +6,7 @@ category: department-stores
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-department-stores-tokyo-東京工藝百貨-探索百年老店的傳統文化專櫃-b58da9.html
 published: 2026-06-29
-quality_score: 7.5
+quality_score: 8.7
 tags: 東京購物, 傳統工藝, 日本文化, 百貨公司, 銀髮族旅遊
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: kaiseki
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-kaiseki-kanazawa-金澤懷石料理-日本海食材的鮮味巔峰與當代供應鏈洞察-7f8b12.html
 published: 2026-04-07
-quality_score: 6.5
+quality_score: 8.6
 tags: 金澤懷石, 加賀料理, 日本海食材, 能登海產, 金澤美食
 license: CC BY 4.0
 ---

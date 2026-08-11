@@ -6,7 +6,7 @@ category: scenic-routes
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-hiroshima-廣島鐵道絕景之路-搭上慢車穿越瀨戶內海的山海絕色-aae140.html
 published: 2026-06-30
-quality_score: 6.5
+quality_score: 8.7
 tags: 廣島鐵道, 瀨戶內海, 吳線, 鐵道旅遊, 日本鐵道
 license: CC BY 4.0
 ---

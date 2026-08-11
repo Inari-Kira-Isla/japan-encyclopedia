@@ -6,7 +6,7 @@ category: yakitori
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-yakitori-hiroshima-廣島燒鳥-非主流目的地的逆向選擇指南-fc7cff.html
 published: 2026-06-15
-quality_score: 6.5
+quality_score: 8.7
 tags: 廣島燒鳥, 廣島美食, 瀨戶內海, 八丁堀, 非主流目的地
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: craft-markets
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-craft-markets-sendai-仙台手做工藝市集完整攻略-探索東北小京都的創作寶藏-a29b40.html
 published: 2026-06-01
-quality_score: 7.5
+quality_score: 8.7
 tags: 仙台手作市集, 東北工藝之旅, 榴ヶ岡市集, 定禅寺通骨董市, 手作爱好者
 license: CC BY 4.0
 ---

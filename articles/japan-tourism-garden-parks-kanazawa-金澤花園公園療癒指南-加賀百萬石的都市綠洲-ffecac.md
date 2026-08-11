@@ -6,7 +6,7 @@ category: garden-parks
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-kanazawa-金澤花園公園療癒指南-加賀百萬石的都市綠洲-ffecac.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤, 花園公園, 療癒, 加賀, 園藝療法
 license: CC BY 4.0
 ---

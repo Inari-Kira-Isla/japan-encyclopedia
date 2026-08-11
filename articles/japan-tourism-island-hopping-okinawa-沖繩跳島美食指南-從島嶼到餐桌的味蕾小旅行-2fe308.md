@@ -6,7 +6,7 @@ category: island-hopping
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-island-hopping-okinawa-沖繩跳島美食指南-從島嶼到餐桌的味蕾小旅行-2fe308.html
 published: 2026-06-28
-quality_score: 6.5
+quality_score: 8.5
 tags: 沖繩跳島, 島嶼美食, 阿古豬, 海葡萄, 石垣牛
 license: CC BY 4.0
 ---

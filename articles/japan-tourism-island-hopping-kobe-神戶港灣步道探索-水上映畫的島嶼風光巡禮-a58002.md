@@ -6,7 +6,7 @@ category: island-hopping
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-island-hopping-kobe-神戶港灣步道探索-水上映畫的島嶼風光巡禮-a58002.html
 published: 2026-06-04
-quality_score: 6.5
+quality_score: 8.8
 tags: 神戶, 港灣, 島嶼, 步道, 海濱
 license: CC BY 4.0
 ---

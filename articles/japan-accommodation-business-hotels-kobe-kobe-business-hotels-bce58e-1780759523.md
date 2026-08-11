@@ -6,7 +6,7 @@ category: business-hotels
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-business-hotels-kobe-kobe-business-hotels-bce58e-1780759523.html
 published: 2026-06-06
-quality_score: 5.5
+quality_score: 0.0
 tags: business-hotels, kobe, japan
 license: CC BY 4.0
 ---

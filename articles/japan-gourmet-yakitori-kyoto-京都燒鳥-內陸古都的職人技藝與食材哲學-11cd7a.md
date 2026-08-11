@@ -6,7 +6,7 @@ category: yakitori
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-yakitori-kyoto-京都燒鳥-內陸古都的職人技藝與食材哲學-11cd7a.html
 published: 2026-04-06
-quality_score: 6.5
+quality_score: 8.7
 tags: 京都美食, 燒鳥, 職人技藝, 日本料理, 內陸美食文化
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: izakaya
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-izakaya-kyoto-京都巷弄深處的在地酒場-避開人潮的私房居酒屋精選-8ab536.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 8.7
 tags: 京都居酒屋, 京都美食, 京料理, 巷弄美食, 日本自由行
 license: CC BY 4.0
 ---

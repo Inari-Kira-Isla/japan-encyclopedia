@@ -6,7 +6,7 @@ category: historical-districts
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-sendai-仙台歷史街區-晨霧與老鋪的清晨物語-4bcb95.html
 published: 2026-06-26
-quality_score: 6.5
+quality_score: 8.5
 tags: 仙台, 歷史街區, 清晨, 老店, 深度旅遊
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: vr-experiences
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-vr-experiences-kanazawa-金澤vr體驗-用虛擬實境解鎖加賀百萬石的隱藏版本-40583f.html
 published: 2026-06-03
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤VR體驗, 金澤深度遊, 加賀百萬石, 北陸娛樂, 金澤自由行
 license: CC BY 4.0
 ---

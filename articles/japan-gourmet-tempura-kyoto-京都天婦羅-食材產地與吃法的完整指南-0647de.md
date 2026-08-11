@@ -6,7 +6,7 @@ category: tempura
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tempura-kyoto-京都天婦羅-食材產地與吃法的完整指南-0647de.html
 published: 2026-06-03
-quality_score: 6.5
+quality_score: 8.4
 tags: 京都, 天婦羅, 京野菜, 日本美食, 京都美食
 license: CC BY 4.0
 ---

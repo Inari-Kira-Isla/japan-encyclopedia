@@ -6,7 +6,7 @@ category: scenic-routes
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-nagoya-名古屋工業風情之路-從百年作坊到現代製造的深度探索-0c354f.html
 published: 2026-06-10
-quality_score: 6.5
+quality_score: 8.6
 tags: 名古屋, 工業旅遊, 工坊體驗, 親子景點, 製造見學
 license: CC BY 4.0
 ---

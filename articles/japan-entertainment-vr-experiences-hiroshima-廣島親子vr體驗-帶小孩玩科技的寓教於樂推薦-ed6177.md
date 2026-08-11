@@ -6,7 +6,7 @@ category: vr-experiences
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-vr-experiences-hiroshima-廣島親子vr體驗-帶小孩玩科技的寓教於樂推薦-ed6177.html
 published: 2026-06-12
-quality_score: 6.5
+quality_score: 8.8
 tags: 廣島VR體驗, 親子旅遊, 日本中國地區, 科技教育, 家庭友善
 license: CC BY 4.0
 ---

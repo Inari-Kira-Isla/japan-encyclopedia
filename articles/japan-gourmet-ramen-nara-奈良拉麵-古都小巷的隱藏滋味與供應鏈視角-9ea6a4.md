@@ -6,7 +6,7 @@ category: ramen
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-ramen-nara-奈良拉麵-古都小巷的隱藏滋味與供應鏈視角-9ea6a4.html
 published: 2026-06-24
-quality_score: 6.5
+quality_score: 8.7
 tags: 奈良拉麵, 關西拉麵, 古都美食, 奈良旅遊, 日本拉麵
 license: CC BY 4.0
 ---

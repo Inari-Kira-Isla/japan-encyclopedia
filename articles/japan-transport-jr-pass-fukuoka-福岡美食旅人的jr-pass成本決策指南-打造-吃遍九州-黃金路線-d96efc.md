@@ -6,7 +6,7 @@ category: jr-pass
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-jr-pass-fukuoka-福岡美食旅人的jr-pass成本決策指南-打造-吃遍九州-黃金路線-d96efc.html
 published: 2026-03-24
-quality_score: 7.5
+quality_score: 8.8
 tags: JR Pass成本決策, 福岡美食旅遊, 九州交通優化, 屋台文化體驗, 溫泉美食廊道
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: matcha-sweets
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-matcha-sweets-hokkaido-北海道抹茶甜點-北國大地上的綠意濃醇-55f470.html
 published: 2026-03-31
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道, 抹茶甜點, 日本甜點, 札幌, 小樽
 license: CC BY 4.0
 ---

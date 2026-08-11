@@ -6,7 +6,7 @@ category: day-trips
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-fukuoka-福岡周邊隱藏版一日遊-在地人私藏的山海溫泉與釀酒之路-7eed5a.html
 published: 2026-06-28
-quality_score: 6.5
+quality_score: 8.8
 tags: 福岡一日遊, 九州溫泉, 久留米清酒, 隱藏版景點, 硫磺溫泉
 license: CC BY 4.0
 ---

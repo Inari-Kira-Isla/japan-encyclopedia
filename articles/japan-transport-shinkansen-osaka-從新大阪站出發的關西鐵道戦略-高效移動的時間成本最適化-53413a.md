@@ -6,7 +6,7 @@ category: shinkansen
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-osaka-從新大阪站出發的關西鐵道戦略-高效移動的時間成本最適化-53413a.html
 published: 2026-06-20
-quality_score: 7.5
+quality_score: 8.6
 tags: 大阪交通, 新大阪站, 關西鐵道, 日本鐵道攻略, 時間成本優化
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: street-food
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-street-food-tokyo-東京車站周邊的街頭美食-鐵道樞紐的味覺宇宙-703de7.html
 published: 2026-05-23
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京車站, 街頭美食, 日本橋, 上班族午餐, 通勤美食
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: buses
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-buses-kyoto-京都巴士特別路線-追櫻賞楓與夜間照明巴士的完整攻略-38e0af.html
 published: 2026-06-21
-quality_score: 7.5
+quality_score: 8.1
 tags: 京都巴士, 京都賞櫻, 京都賞楓, 京都夜景, 京都自由行
 license: CC BY 4.0
 ---

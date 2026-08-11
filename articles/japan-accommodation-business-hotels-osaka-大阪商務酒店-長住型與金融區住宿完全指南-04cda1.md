@@ -6,7 +6,7 @@ category: business-hotels
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-business-hotels-osaka-大阪商務酒店-長住型與金融區住宿完全指南-04cda1.html
 published: 2026-06-05
-quality_score: 6.5
+quality_score: 8.5
 tags: 大阪商務酒店, 大阪住宿, 長住型飯店, 北濱, 淀屋橋
 license: CC BY 4.0
 ---

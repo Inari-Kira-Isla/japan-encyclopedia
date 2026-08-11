@@ -6,7 +6,7 @@ category: karaoke
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-karaoke-okinawa-沖繩卡拉ok-海島夜晚的音樂療癒-f8d799.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 8.5
 tags: 沖繩卡拉OK,  Okinawa karaoke, 那霸夜生活, 海景卡拉OK, 美式卡拉OK
 license: CC BY 4.0
 ---

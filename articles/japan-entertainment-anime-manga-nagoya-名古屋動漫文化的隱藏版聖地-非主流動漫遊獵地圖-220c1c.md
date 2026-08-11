@@ -6,7 +6,7 @@ category: anime-manga
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-nagoya-名古屋動漫文化的隱藏版聖地-非主流動漫遊獵地圖-220c1c.html
 published: 2026-06-20
-quality_score: 6.5
+quality_score: 8.7
 tags: 名古屋動漫, 名古屋漫畫店, 名古屋動漫游獵, 中部動漫聖地, 日本隱藏版店家
 license: CC BY 4.0
 ---

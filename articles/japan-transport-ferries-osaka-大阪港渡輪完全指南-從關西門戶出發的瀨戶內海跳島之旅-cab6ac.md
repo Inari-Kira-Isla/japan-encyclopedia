@@ -6,7 +6,7 @@ category: ferries
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-ferries-osaka-大阪港渡輪完全指南-從關西門戶出發的瀨戶內海跳島之旅-cab6ac.html
 published: 2026-06-04
-quality_score: 7.5
+quality_score: 8.6
 tags: 大阪交通, 瀨戶內海, 四國渡輪, 跳島旅行, 關西旅遊
 license: CC BY 4.0
 ---

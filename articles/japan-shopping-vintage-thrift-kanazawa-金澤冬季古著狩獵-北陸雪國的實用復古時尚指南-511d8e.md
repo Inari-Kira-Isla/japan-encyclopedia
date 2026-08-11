@@ -6,7 +6,7 @@ category: vintage-thrift
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-vintage-thrift-kanazawa-金澤冬季古著狩獵-北陸雪國的實用復古時尚指南-511d8e.html
 published: 2026-04-02
-quality_score: 7.5
+quality_score: 8.7
 tags: 金澤古著, 北陸購物, 冬季時尚, 實用古著, 學生商圈
 license: CC BY 4.0
 ---

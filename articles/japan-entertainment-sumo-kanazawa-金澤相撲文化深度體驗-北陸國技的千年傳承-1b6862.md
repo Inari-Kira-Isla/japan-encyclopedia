@@ -6,7 +6,7 @@ category: sumo
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-kanazawa-金澤相撲文化深度體驗-北陸國技的千年傳承-1b6862.html
 published: 2026-05-31
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤相撲, 北陸文化, 相扑體驗, 日本武術, 金澤旅遊
 license: CC BY 4.0
 ---

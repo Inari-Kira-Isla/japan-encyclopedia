@@ -6,7 +6,7 @@ category: depachika
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-depachika-hokkaido-北海道-depachika-雪國海味的地下寶藏-88cf43.html
 published: 2026-05-22
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道, DEPACHIKA, 札幌, 地下食品, 日本美食
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: temple-stays
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-temple-stays-nara-奈良宿坊體驗-古都晨鐘裡的生命修行-6e6548.html
 published: 2026-05-25
-quality_score: 6.5
+quality_score: 8.6
 tags: 奈良宿坊, 寺廟住宿, 日本古都, 佛教修行, 深度旅遊
 license: CC BY 4.0
 ---

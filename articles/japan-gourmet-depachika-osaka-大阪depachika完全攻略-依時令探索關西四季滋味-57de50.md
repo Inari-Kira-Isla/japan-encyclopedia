@@ -6,7 +6,7 @@ category: depachika
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-depachika-osaka-大阪depachika完全攻略-依時令探索關西四季滋味-57de50.html
 published: 2026-06-22
-quality_score: 6.5
+quality_score: 8.6
 tags: 大阪美食, Depachika, 關西, 百货地下食品, 日本伴手禮
 license: CC BY 4.0
 ---

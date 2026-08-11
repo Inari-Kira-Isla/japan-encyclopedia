@@ -6,7 +6,7 @@ category: temple-stays
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-temple-stays-hokkaido-北海道寺廟住宿完全指南-探索北方國度的禪意空間-c3a7b7.html
 published: 2026-06-02
-quality_score: 6.5
+quality_score: 8.5
 tags: 北海道寺廟住宿, 日本禪修體驗, 北海道佛教, 坐禪體驗, 北海道 travel
 license: CC BY 4.0
 ---

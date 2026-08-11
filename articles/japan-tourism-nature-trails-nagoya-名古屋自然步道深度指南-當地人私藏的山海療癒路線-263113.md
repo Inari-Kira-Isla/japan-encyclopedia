@@ -6,7 +6,7 @@ category: nature-trails
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-nagoya-名古屋自然步道深度指南-當地人私藏的山海療癒路線-263113.html
 published: 2026-05-23
-quality_score: 6.5
+quality_score: 8.6
 tags: 名古屋步道, 中部自然徑, 日本登山, 在地人推薦, 疗癒之旅
 license: CC BY 4.0
 ---

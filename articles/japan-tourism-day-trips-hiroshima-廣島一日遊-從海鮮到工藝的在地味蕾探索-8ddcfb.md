@@ -6,7 +6,7 @@ category: day-trips
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-hiroshima-廣島一日遊-從海鮮到工藝的在地味蕾探索-8ddcfb.html
 published: 2026-06-14
-quality_score: 6.5
+quality_score: 8.7
 tags: 廣島一日遊, 廣島美食, 宮島牡蠣, 尾道拉麵, 吳市
 license: CC BY 4.0
 ---

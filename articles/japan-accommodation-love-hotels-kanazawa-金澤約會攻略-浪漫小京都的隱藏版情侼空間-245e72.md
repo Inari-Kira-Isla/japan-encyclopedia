@@ -6,7 +6,7 @@ category: love-hotels
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-love-hotels-kanazawa-金澤約會攻略-浪漫小京都的隱藏版情侼空間-245e72.html
 published: 2026-06-18
-quality_score: 6.5
+quality_score: 8.6
 tags: 金澤約會, Love Hotel, 石川縣, 情侶住宿, 兼六園
 license: CC BY 4.0
 ---

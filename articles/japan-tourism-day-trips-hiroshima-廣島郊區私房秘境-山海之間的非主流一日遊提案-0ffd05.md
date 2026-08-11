@@ -6,7 +6,7 @@ category: day-trips
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-hiroshima-廣島郊區私房秘境-山海之間的非主流一日遊提案-0ffd05.html
 published: 2026-06-02
-quality_score: 6.5
+quality_score: 8.6
 tags: 廣島一日遊, 西條酒藏, 三次峽谷, 吳市海事, 竹原古鎮
 license: CC BY 4.0
 ---

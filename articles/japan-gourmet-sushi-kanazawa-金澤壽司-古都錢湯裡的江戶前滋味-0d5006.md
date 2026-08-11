@@ -6,7 +6,7 @@ category: sushi
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sushi-kanazawa-金澤壽司-古都錢湯裡的江戶前滋味-0d5006.html
 published: 2026-06-20
-quality_score: 6.5
+quality_score: 8.8
 tags: 金澤壽司, 日本海海產, 加賀料理, 近江町市場, 北路美食
 license: CC BY 4.0
 ---

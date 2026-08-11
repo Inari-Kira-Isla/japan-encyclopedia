@@ -6,7 +6,7 @@ category: historical-districts
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-osaka-大阪歷史街區-隱藏版的千年商都散步-3fac05.html
 published: 2026-06-03
-quality_score: 6.5
+quality_score: 8.5
 tags: 大阪历史街区, 大阪散步, 隐藏版大阪, 商业文明, 天下厨房
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: nightlife
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-kyoto-京都夜生活預備指南-晚間出遊必讀手冊-7faa06.html
 published: 2026-03-31
-quality_score: 6.5
+quality_score: 8.7
 tags: 京都夜生活, 京都酒吧, 京都居酒屋, 京都旅行, 日本夜生活
 license: CC BY 4.0
 ---

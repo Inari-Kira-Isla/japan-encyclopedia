@@ -6,7 +6,7 @@ category: theme-parks
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-theme-parks-kyoto-京都主題體驗新選擇-寓教於樂的親子文化探索之旅-8f2416.html
 published: 2026-07-06
-quality_score: 6.5
+quality_score: 8.9
 tags: 京都主题乐园, 亲子旅游, 京都文化体验, 岚山小火车, 京都铁道博物馆
 license: CC BY 4.0
 ---

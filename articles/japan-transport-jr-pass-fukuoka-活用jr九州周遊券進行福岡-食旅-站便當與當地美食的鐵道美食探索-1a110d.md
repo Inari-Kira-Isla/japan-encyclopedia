@@ -6,7 +6,7 @@ category: jr-pass
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-jr-pass-fukuoka-活用jr九州周遊券進行福岡-食旅-站便當與當地美食的鐵道美食探索-1a110d.html
 published: 2026-05-25
-quality_score: 7.5
+quality_score: 8.7
 tags: JR九州周遊券, 福岡美食, 駅弁, 鐵道便當, 久留米拉麵
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: sumo
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-kanazawa-金澤相撲觀戰指南-非看不可的四個理由-e52393.html
 published: 2026-06-03
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤相撲, 石川縣旅行, 日本相撲之旅, 金沢場所, 體驗型旅行
 license: CC BY 4.0
 ---

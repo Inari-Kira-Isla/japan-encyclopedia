@@ -6,7 +6,7 @@ category: metro-systems
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-sendai-fifa世界盃2026觀賽攻略-仙台地下鐵帶你直通東北足球盛宴-62f1a7.html
 published: 2026-06-08
-quality_score: 7.5
+quality_score: 8.7
 tags: 仙台地下鐵, FIFA世界盃2026, 仙台觀賽攻略, 東北運動旅遊, 日本足球
 license: CC BY 4.0
 ---

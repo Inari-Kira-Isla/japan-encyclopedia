@@ -6,7 +6,7 @@ category: duty-free
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-duty-free-nagoya-名古屋購物隱藏版攻略-從榮商圈到臨空outlet的免稅購物地圖-b7e170.html
 published: 2026-07-06
-quality_score: 7.5
+quality_score: 8.8
 tags: 名古屋免稅購物, 榮商圈地下街, 臨空OUTLET, 中部國際空港, 日本購物攻略
 license: CC BY 4.0
 ---

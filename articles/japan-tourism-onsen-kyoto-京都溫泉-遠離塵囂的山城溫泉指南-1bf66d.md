@@ -6,7 +6,7 @@ category: onsen
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-onsen-kyoto-京都溫泉-遠離塵囂的山城溫泉指南-1bf66d.html
 published: 2026-06-23
-quality_score: 6.5
+quality_score: 8.5
 tags: 京都溫泉, 嵐山溫泉, 鞍馬溫泉, 京都錢湯, 京都溫泉推薦
 license: CC BY 4.0
 ---

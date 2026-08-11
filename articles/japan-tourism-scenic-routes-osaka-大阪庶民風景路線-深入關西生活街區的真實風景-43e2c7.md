@@ -6,7 +6,7 @@ category: scenic-routes
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-osaka-大阪庶民風景路線-深入關西生活街區的真實風景-43e2c7.html
 published: 2026-04-06
-quality_score: 6.5
+quality_score: 8.8
 tags: 庶民文化, 街區漫遊, 深度旅行, 關西風情, 生活體驗
 license: CC BY 4.0
 ---

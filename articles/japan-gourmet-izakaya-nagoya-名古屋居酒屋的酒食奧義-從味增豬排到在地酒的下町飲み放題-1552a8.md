@@ -6,7 +6,7 @@ category: izakaya
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-izakaya-nagoya-名古屋居酒屋的酒食奧義-從味增豬排到在地酒的下町飲み放題-1552a8.html
 published: 2026-05-23
-quality_score: 6.5
+quality_score: 8.8
 tags: 名古屋, 居酒屋, 在地美食, 日本料理, 中部地方
 license: CC BY 4.0
 ---

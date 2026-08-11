@@ -6,7 +6,7 @@ category: vintage-thrift
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-vintage-thrift-tokyo-大阪伴手選購攻略-關西空港限定與車站伴手禮價效比指南-9991c8.html
 published: 2026-06-15
-quality_score: 7.5
+quality_score: 8.7
 tags: 大阪伴手禮, 關西空港, 日本伴手禮, 大阪購物, omiyage
 license: CC BY 4.0
 ---

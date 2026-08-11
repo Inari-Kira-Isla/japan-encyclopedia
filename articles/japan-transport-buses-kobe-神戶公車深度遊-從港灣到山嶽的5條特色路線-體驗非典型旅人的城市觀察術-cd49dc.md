@@ -6,7 +6,7 @@ category: buses
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-buses-kobe-神戶公車深度遊-從港灣到山嶽的5條特色路線-體驗非典型旅人的城市觀察術-cd49dc.html
 published: 2026-07-05
-quality_score: 7.5
+quality_score: 8.9
 tags: 神戶公車, 神戶交通, 港都交通, 六甲山巴士, 神戶深度遊
 license: CC BY 4.0
 ---

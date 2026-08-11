@@ -6,7 +6,7 @@ category: island-hopping
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-island-hopping-tokyo-東京跳島交通指南-鐵道與渡輪串聯的島嶼美學-571708.html
 published: 2026-06-07
-quality_score: 6.5
+quality_score: 8.5
 tags: 東京跳島, 三宅島, 神津島, 新島, 渡輪交通
 license: CC BY 4.0
 ---

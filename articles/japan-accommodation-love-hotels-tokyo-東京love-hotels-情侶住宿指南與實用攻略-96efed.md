@@ -6,7 +6,7 @@ category: love-hotels
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-love-hotels-tokyo-東京love-hotels-情侶住宿指南與實用攻略-96efed.html
 published: 2026-03-25
-quality_score: 6.5
+quality_score: 8.5
 tags: 東京住宿, 情侶酒店, 日本旅遊, 東京自由行, 短時住宿
 license: CC BY 4.0
 ---

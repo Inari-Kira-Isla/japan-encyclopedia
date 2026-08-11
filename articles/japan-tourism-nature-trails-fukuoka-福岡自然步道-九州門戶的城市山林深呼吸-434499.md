@@ -6,7 +6,7 @@ category: nature-trails
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-fukuoka-福岡自然步道-九州門戶的城市山林深呼吸-434499.html
 published: 2026-05-22
-quality_score: 6.5
+quality_score: 8.6
 tags: 福岡自然步道, 九州登山, 油山健行, 英彦山, 脊振山系
 license: CC BY 4.0
 ---

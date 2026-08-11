@@ -6,7 +6,7 @@ category: temples-shrines
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-temples-shrines-tokyo-東京微型神社寺廟-都會生活中的信仰日常-f7836c.html
 published: 2026-06-25
-quality_score: 6.5
+quality_score: 8.6
 tags: 東京寺廟神社, 微型神社, 在地信仰, 東京自由行, 非觀光行程
 license: CC BY 4.0
 ---

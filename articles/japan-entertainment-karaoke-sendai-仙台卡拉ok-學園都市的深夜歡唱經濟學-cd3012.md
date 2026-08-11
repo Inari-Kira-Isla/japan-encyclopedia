@@ -6,7 +6,7 @@ category: karaoke
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-karaoke-sendai-仙台卡拉ok-學園都市的深夜歡唱經濟學-cd3012.html
 published: 2026-07-03
-quality_score: 6.5
+quality_score: 8.7
 tags: 仙台, 卡拉OK, 東北之旅, 學生文化, 深夜娛樂
 license: CC BY 4.0
 ---

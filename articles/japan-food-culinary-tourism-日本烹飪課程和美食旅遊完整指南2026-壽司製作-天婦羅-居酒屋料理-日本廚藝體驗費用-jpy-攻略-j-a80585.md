@@ -6,7 +6,7 @@ category: culinary-tourism
 area: japan
 url: https://japan-encyclopedia.vercel.app/articles/japan-food-culinary-tourism-日本烹飪課程和美食旅遊完整指南2026-壽司製作-天婦羅-居酒屋料理-日本廚藝體驗費用-jpy-攻略-j-a80585.html
 published: 2026-03-29
-quality_score: 7.6
+quality_score: 8.4
 tags: 日本烹飪課程, 壽司製作體驗, 天婦羅課程, 和菓子體驗, 日本美食旅遊
 license: CC BY 4.0
 ---

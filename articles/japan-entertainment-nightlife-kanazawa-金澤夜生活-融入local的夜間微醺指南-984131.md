@@ -6,7 +6,7 @@ category: nightlife
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-kanazawa-金澤夜生活-融入local的夜間微醺指南-984131.html
 published: 2026-06-03
-quality_score: 6.5
+quality_score: 8.6
 tags: 金澤夜生活, 石川縣, 片汀, 香林坊, 居酒屋
 license: CC BY 4.0
 ---

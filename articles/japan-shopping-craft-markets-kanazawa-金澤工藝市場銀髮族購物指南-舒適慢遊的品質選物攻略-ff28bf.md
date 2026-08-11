@@ -6,7 +6,7 @@ category: craft-markets
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-craft-markets-kanazawa-金澤工藝市場銀髮族購物指南-舒適慢遊的品質選物攻略-ff28bf.html
 published: 2026-03-30
-quality_score: 7.5
+quality_score: 8.9
 tags: 金澤, 工藝市場, 銀髮族旅遊, 日本購物, 加賀藩
 license: CC BY 4.0
 ---

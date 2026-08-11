@@ -6,7 +6,7 @@ category: day-trips
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-sendai-仙台四季一日遊-東北季節限定體驗完全攻略-89b368.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.6
 tags: 仙台, 東北, 四季旅遊, 一日遊, 季節限定
 license: CC BY 4.0
 ---

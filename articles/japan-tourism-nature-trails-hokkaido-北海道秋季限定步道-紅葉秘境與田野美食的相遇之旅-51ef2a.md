@@ -6,7 +6,7 @@ category: nature-trails
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-hokkaido-北海道秋季限定步道-紅葉秘境與田野美食的相遇之旅-51ef2a.html
 published: 2026-06-04
-quality_score: 6.5
+quality_score: 8.6
 tags: 北海道秋步道, 層雲峽, 然別湖, 神威岬, 小樽朝里川
 license: CC BY 4.0
 ---

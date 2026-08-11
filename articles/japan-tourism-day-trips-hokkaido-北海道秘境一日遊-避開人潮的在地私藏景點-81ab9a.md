@@ -6,7 +6,7 @@ category: day-trips
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-hokkaido-北海道秘境一日遊-避開人潮的在地私藏景點-81ab9a.html
 published: 2026-06-10
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道一日遊, 秘境景點, 積丹海岸, 支笏湖, 自駕推薦
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: festivals-matsuri
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-festivals-matsuri-hiroshima-廣島冬季祭典與室內文化體驗-告別人潮的深度廣島遊-26e06c.html
 published: 2026-06-19
-quality_score: 6.5
+quality_score: 8.7
 tags: 廣島冬季, 廣島祭典, 廣島文化體驗, Kabuki, 在地深度遊
 license: CC BY 4.0
 ---

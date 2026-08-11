@@ -6,7 +6,7 @@ category: love-hotels
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-love-hotels-hokkaido-北海道love-hotels-雪國冬季的情趣住宿選擇-50bee9.html
 published: 2026-07-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道, Love Hotels, 札幌, 旭川, 小樽
 license: CC BY 4.0
 ---

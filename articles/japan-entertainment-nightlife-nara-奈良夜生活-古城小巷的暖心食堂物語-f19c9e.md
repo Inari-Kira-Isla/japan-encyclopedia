@@ -6,7 +6,7 @@ category: nightlife
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-nara-奈良夜生活-古城小巷的暖心食堂物語-f19c9e.html
 published: 2026-05-25
-quality_score: 6.5
+quality_score: 8.8
 tags: 奈良夜生活, 地方都市食堂, 日本、古都, 在地美食, 深度之旅
 license: CC BY 4.0
 ---

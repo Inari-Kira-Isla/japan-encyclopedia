@@ -6,7 +6,7 @@ category: gaming-arcades
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-gaming-arcades-kyoto-京都遊戲中心-學生族與小資族的街機樂園-e70b0a.html
 published: 2026-06-16
-quality_score: 6.5
+quality_score: 8.8
 tags: 京都, 遊戲中心, 街機, 學生優惠, 河原町
 license: CC BY 4.0
 ---

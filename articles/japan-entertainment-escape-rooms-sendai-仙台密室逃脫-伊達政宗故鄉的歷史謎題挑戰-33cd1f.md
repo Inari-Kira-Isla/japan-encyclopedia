@@ -6,7 +6,7 @@ category: escape-rooms
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-escape-rooms-sendai-仙台密室逃脫-伊達政宗故鄉的歷史謎題挑戰-33cd1f.html
 published: 2026-06-18
-quality_score: 6.5
+quality_score: 8.9
 tags: 仙台密室逃脫, 仙台娛樂, 東北旅遊, 伊達政宗, 團體活動
 license: CC BY 4.0
 ---

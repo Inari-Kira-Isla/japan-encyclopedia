@@ -6,7 +6,7 @@ category: boutique-hotels
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-kyoto-京都精品酒店-文化藝術愛好者的質感棲居-9b9860.html
 published: 2026-04-02
-quality_score: 6.5
+quality_score: 8.7
 tags: 京都精品酒店, 文化藝術, 傳統工藝, 當代藝術, 禪意設計
 license: CC BY 4.0
 ---

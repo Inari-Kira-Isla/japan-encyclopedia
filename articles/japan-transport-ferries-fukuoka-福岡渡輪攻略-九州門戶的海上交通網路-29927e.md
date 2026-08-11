@@ -6,7 +6,7 @@ category: ferries
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-ferries-fukuoka-福岡渡輪攻略-九州門戶的海上交通網路-29927e.html
 published: 2026-04-03
-quality_score: 7.5
+quality_score: 8.6
 tags: 福岡交通, 日韓渡輪, 九州海運, 博多港, 國際航線
 license: CC BY 4.0
 ---

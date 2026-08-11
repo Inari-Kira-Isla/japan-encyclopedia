@@ -6,7 +6,7 @@ category: anime-manga
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-kanazawa-金澤動漫逸品獵人の道-傳統工藝與次文化的奇妙交會-82b29a.html
 published: 2026-05-24
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤動漫, 石川縣旅行, 日本傳統工藝, anime, manga
 license: CC BY 4.0
 ---

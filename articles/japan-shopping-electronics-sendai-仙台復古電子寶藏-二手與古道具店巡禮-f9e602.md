@@ -6,7 +6,7 @@ category: electronics
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-electronics-sendai-仙台復古電子寶藏-二手與古道具店巡禮-f9e602.html
 published: 2026-05-22
-quality_score: 7.5
+quality_score: 8.4
 tags: 仙台電子產品, 二手相機, 復古遊戲, 古道具, 日本購物
 license: CC BY 4.0
 ---

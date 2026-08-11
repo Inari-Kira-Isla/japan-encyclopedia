@@ -6,7 +6,7 @@ category: shinkansen
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-sendai-仙台與東北新幹綫-從東京通往日本東北的黃金門戶-7017a0.html
 published: 2026-06-06
-quality_score: 7.5
+quality_score: 8.7
 tags: 仙台, 東北新幹綫, 日本三景, 藏王溫泉, 磐梯高原
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: theme-parks
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-theme-parks-osaka-大阪隱藏版主題樂園-避開人潮的在地私房指南-c65dc3.html
 published: 2026-07-04
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪主題樂園, 關西親子遊, 大阪自由行, 隱藏版景點, 日本小眾旅遊
 license: CC BY 4.0
 ---

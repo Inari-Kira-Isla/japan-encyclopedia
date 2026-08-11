@@ -6,7 +6,7 @@ category: fashion-harajuku
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-fashion-harajuku-tokyo-東京原宿購物指南-遠離主流的裡時尚-16dde4.html
 published: 2026-05-25
-quality_score: 7.5
+quality_score: 8.6
 tags: 原宿, 東京購物, 街頭時尚, 日本古著, 裏原宿
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: business-hotels
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-business-hotels-tokyo-東京商務酒店區域導覽-依工作屬性選擇最適落腳點-381f3d.html
 published: 2026-06-23
-quality_score: 6.5
+quality_score: 8.4
 tags: 東京商務酒店, 東京住宿, 商務出差, 兜町, 秋葉原
 license: CC BY 4.0
 ---

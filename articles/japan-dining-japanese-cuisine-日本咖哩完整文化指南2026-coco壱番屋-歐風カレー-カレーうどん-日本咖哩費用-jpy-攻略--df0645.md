@@ -6,7 +6,7 @@ category: japanese-cuisine
 area: japan
 url: https://japan-encyclopedia.vercel.app/articles/japan-dining-japanese-cuisine-日本咖哩完整文化指南2026-coco壱番屋-歐風カレー-カレーうどん-日本咖哩費用-jpy-攻略--df0645.html
 published: 2026-03-29
-quality_score: 7.6
+quality_score: 8.6
 tags: 日本咖喱, CoCo壱番屋, 金澤咖喱, カレーうどん, 日本國民料理
 license: CC BY 4.0
 ---

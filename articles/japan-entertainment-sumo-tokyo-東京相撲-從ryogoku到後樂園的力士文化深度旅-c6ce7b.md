@@ -6,7 +6,7 @@ category: sumo
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-tokyo-東京相撲-從ryogoku到後樂園的力士文化深度旅-c6ce7b.html
 published: 2026-06-14
-quality_score: 6.5
+quality_score: 8.8
 tags: 東京相撲, Ryogoku, 兩國國技館, 相撲見學, 墨田區
 license: CC BY 4.0
 ---

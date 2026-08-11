@@ -6,7 +6,7 @@ category: love-hotels
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-love-hotels-hiroshima-廣島情侶住宿指南-浪漫之旅的住宿選擇-253879.html
 published: 2026-06-21
-quality_score: 6.5
+quality_score: 8.7
 tags: 廣島住宿, 廣島約會, 廣島情侶旅行, 日本情侶住宿, 廣島觀光
 license: CC BY 4.0
 ---

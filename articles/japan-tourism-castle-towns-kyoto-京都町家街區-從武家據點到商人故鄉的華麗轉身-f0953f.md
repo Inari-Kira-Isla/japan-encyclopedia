@@ -6,7 +6,7 @@ category: castle-towns
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-castle-towns-kyoto-京都町家街區-從武家據點到商人故鄉的華麗轉身-f0953f.html
 published: 2026-04-06
-quality_score: 6.5
+quality_score: 8.7
 tags: 京都, 城下町, 町家, 歷史街區, 日本深度旅遊
 license: CC BY 4.0
 ---

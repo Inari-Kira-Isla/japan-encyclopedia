@@ -6,7 +6,7 @@ category: karaoke
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-karaoke-okinawa-沖繩卡拉ok-南國島嶼的音樂時光-3f7b1a.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 8.7
 tags: 沖繩卡拉OK, 那霸娛樂, 沖繩夜生活, 南國推薦, 國際通
 license: CC BY 4.0
 ---

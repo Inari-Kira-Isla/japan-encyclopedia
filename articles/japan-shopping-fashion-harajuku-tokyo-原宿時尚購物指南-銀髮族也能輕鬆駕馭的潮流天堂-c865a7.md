@@ -6,7 +6,7 @@ category: fashion-harajuku
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-fashion-harajuku-tokyo-原宿時尚購物指南-銀髮族也能輕鬆駕馭的潮流天堂-c865a7.html
 published: 2026-03-29
-quality_score: 7.5
+quality_score: 8.9
 tags: 原宿購物, 銀髮族友善, 東京時尚, 退稅購物, 成熟消費者
 license: CC BY 4.0
 ---

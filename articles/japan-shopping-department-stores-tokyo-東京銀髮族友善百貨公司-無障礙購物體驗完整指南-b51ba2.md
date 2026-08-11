@@ -6,7 +6,7 @@ category: department-stores
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-department-stores-tokyo-東京銀髮族友善百貨公司-無障礙購物體驗完整指南-b51ba2.html
 published: 2026-06-08
-quality_score: 7.5
+quality_score: 8.7
 tags: 東京, 銀髮族友善, 無障礙購物, 百百公司, 日本購物
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: yakitori
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-yakitori-fukuoka-福岡燒鳥-九州地雞的美味秘密-從食材認識在地燒鳥文化-5fa583.html
 published: 2026-07-01
-quality_score: 6.5
+quality_score: 8.6
 tags: 九州燒鳥, 福岡美食, 地雞, 鹿兒島地雞, 屋台文化
 license: CC BY 4.0
 ---

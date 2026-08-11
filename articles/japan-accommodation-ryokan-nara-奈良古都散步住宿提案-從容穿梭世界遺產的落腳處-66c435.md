@@ -6,7 +6,7 @@ category: ryokan
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-nara-奈良古都散步住宿提案-從容穿梭世界遺產的落腳處-66c435.html
 published: 2026-06-04
-quality_score: 6.5
+quality_score: 8.6
 tags: 奈良住宿, 古都散步, 世界遗产, 和日本文化, 徒步旅行
 license: CC BY 4.0
 ---

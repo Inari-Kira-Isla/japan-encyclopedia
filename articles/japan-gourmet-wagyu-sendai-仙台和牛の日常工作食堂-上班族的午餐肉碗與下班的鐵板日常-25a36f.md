@@ -6,7 +6,7 @@ category: wagyu
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-wagyu-sendai-仙台和牛の日常工作食堂-上班族的午餐肉碗與下班的鐵板日常-25a36f.html
 published: 2026-06-13
-quality_score: 6.5
+quality_score: 8.5
 tags: 仙台和牛, 仙台美食, 東北料理, 在地食堂, 和牛定食
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: onsen
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-onsen-hokkaido-北海道溫泉指南-日本最佳溫泉體驗的北境故事-cbd543.html
 published: 2026-03-21
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道, 溫泉, 日本旅遊, 登別溫泉, 定山溪
 license: CC BY 4.0
 ---

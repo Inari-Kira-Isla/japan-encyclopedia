@@ -6,7 +6,7 @@ category: love-hotels
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-love-hotels-fukuoka-福岡-love-hotels-區域導覽-從天神到中洲的住宿選擇與價格分析-44fae1.html
 published: 2026-06-17
-quality_score: 6.5
+quality_score: 8.6
 tags: 福岡住宿, 福岡戀人旅宿, 天神住宿, 中洲屋台, 博多站住宿
 license: CC BY 4.0
 ---

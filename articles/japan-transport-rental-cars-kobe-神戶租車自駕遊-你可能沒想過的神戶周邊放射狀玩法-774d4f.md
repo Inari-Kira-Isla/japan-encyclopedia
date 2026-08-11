@@ -6,7 +6,7 @@ category: rental-cars
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-kobe-神戶租車自駕遊-你可能沒想過的神戶周邊放射狀玩法-774d4f.html
 published: 2026-05-22
-quality_score: 7.5
+quality_score: 8.7
 tags: 神戶租車, 關西自駕遊, 神戶周邊, 放射狀玩法, 姬路城
 license: CC BY 4.0
 ---

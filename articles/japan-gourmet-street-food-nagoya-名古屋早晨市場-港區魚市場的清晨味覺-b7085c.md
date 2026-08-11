@@ -6,7 +6,7 @@ category: street-food
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-street-food-nagoya-名古屋早晨市場-港區魚市場的清晨味覺-b7085c.html
 published: 2026-06-30
-quality_score: 6.5
+quality_score: 8.7
 tags: 名古屋, 街頭美食, 港口市場, 清晨小吃, 味噌料理
 license: CC BY 4.0
 ---

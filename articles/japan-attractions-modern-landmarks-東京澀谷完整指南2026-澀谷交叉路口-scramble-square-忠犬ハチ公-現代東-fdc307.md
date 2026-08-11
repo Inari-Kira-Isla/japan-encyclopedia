@@ -6,7 +6,7 @@ category: modern-landmarks
 area: japan
 url: https://japan-encyclopedia.vercel.app/articles/japan-attractions-modern-landmarks-東京澀谷完整指南2026-澀谷交叉路口-scramble-square-忠犬ハチ公-現代東-fdc307.html
 published: 2026-04-28
-quality_score: 7.1
+quality_score: 8.5
 tags: 澀谷交叉路口, 澀谷Sky, 忠犬ハチ公, 澀谷購物, 東京景點
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: souvenir-omiyage
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-souvenir-omiyage-fukuoka-福岡機場車站伴手禮快速攻略-免稅店與駅弁的便利採購指南-bb4715.html
 published: 2026-06-28
-quality_score: 7.5
+quality_score: 8.7
 tags: 福岡伴手禮, 機場免稅, 駅弁, 博多車站, 明太子
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: karaoke
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-karaoke-osaka-大阪卡拉ok-甜品與歌聲的甜蜜結合-da1976.html
 published: 2026-06-19
-quality_score: 6.5
+quality_score: 8.6
 tags: 大阪卡拉OK, 抹茶甜品, 關西娛樂, 大阪美食, 卡拉OK推薦
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: sumo
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-osaka-大阪相撲攻略-關西力士的飲食文化與觀賽初體驗-ccc104.html
 published: 2026-05-23
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪相撲, 關西力士, 相撲觀賽, edion arena, 日本體育
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: ferries
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-ferries-sendai-仙台周邊渡輪交通指南-用水上交通串聯海岸線景點-fc8a53.html
 published: 2026-06-03
-quality_score: 7.5
+quality_score: 8.2
 tags: 仙台, 渡轮, 松島灣, 交通, 海岸線
 license: CC BY 4.0
 ---

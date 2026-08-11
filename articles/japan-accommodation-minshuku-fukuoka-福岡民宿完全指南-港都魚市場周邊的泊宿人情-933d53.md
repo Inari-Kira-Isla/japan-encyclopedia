@@ -6,7 +6,7 @@ category: minshuku
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-fukuoka-福岡民宿完全指南-港都魚市場周邊的泊宿人情-933d53.html
 published: 2026-06-21
-quality_score: 6.5
+quality_score: 8.7
 tags: 福岡民宿, 九州住宿, 港都體驗, 魚市場, 太宰府參道
 license: CC BY 4.0
 ---

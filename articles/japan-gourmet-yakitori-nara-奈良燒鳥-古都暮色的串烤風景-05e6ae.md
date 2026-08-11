@@ -6,7 +6,7 @@ category: yakitori
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-yakitori-nara-奈良燒鳥-古都暮色的串烤風景-05e6ae.html
 published: 2026-05-24
-quality_score: 6.5
+quality_score: 8.7
 tags: 奈良燒鳥, 奈良美食, 日本串燒, 奈良夜生活, 奈良自由行
 license: CC BY 4.0
 ---

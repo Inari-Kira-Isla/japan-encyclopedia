@@ -6,7 +6,7 @@ category: tonkatsu
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tonkatsu-tokyo-東京炸豬排巡禮-首都美食的酥脆極致體驗-bc59e6.html
 published: 2026-03-15
-quality_score: 6.5
+quality_score: 8.6
 tags: 東京美食, 炸豬排, 日式料理, 傳統美食, 東京旅遊
 license: CC BY 4.0
 ---

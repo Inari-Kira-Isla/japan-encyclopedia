@@ -6,7 +6,7 @@ category: gaming-arcades
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-gaming-arcades-nara-奈良遊戲中心-梅花鹿與街機的奇妙共存-78092c.html
 published: 2026-07-05
-quality_score: 6.5
+quality_score: 8.6
 tags: 奈良, 遊戲中心, 街機, 日本娛樂, 關西旅遊
 license: CC BY 4.0
 ---

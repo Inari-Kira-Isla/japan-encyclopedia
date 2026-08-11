@@ -6,7 +6,7 @@ category: nature-trails
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-fukuoka-福岡自然步道-上班前的山林補給-晨間運動者的快速上山攻略-52faf2.html
 published: 2026-06-03
-quality_score: 6.5
+quality_score: 8.9
 tags: 福岡自然步道, 晨間運動, 寶滿山, 登山攻略, 九州戶外活動
 license: CC BY 4.0
 ---

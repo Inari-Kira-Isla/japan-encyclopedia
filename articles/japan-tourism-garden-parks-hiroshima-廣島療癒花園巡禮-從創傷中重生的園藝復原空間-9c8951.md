@@ -6,7 +6,7 @@ category: garden-parks
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-hiroshima-廣島療癒花園巡禮-從創傷中重生的園藝復原空間-9c8951.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 廣島花園, 療癒旅遊, 園藝療法, 和平公園, 心靈復原
 license: CC BY 4.0
 ---

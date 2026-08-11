@@ -6,7 +6,7 @@ category: castle-towns
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-castle-towns-fukuoka-福岡城下町-現代都市中的歷史活化新體驗-c554ff.html
 published: 2026-04-11
-quality_score: 6.5
+quality_score: 8.7
 tags: 福岡, 城下町, 文化保存, 現代建築, 深度旅遊
 license: CC BY 4.0
 ---

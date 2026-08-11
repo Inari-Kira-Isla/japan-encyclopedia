@@ -6,7 +6,7 @@ category: yakitori
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-yakitori-kanazawa-金澤燒鳥-加賀百萬石名城的夜宵美學-ebd9fb.html
 published: 2026-03-29
-quality_score: 6.5
+quality_score: 8.0
 tags: 金澤, 燒鳥, 石川縣, 居酒屋, 加賀料理
 license: CC BY 4.0
 ---

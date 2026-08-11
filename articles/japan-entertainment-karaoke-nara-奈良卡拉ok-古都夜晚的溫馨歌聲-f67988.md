@@ -6,7 +6,7 @@ category: karaoke
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-karaoke-nara-奈良卡拉ok-古都夜晚的溫馨歌聲-f67988.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.8
 tags: 奈良, 卡拉OK, 關西夜生活, 古都娛樂, 日本文化
 license: CC BY 4.0
 ---

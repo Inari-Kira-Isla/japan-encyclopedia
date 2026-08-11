@@ -6,7 +6,7 @@ category: sake-brewery
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sake-brewery-kobe-神戶清酒釀造廠巡禮-港都風土與海鮮配對的完美演繹-675c11.html
 published: 2026-04-06
-quality_score: 6.5
+quality_score: 8.7
 tags: 神戶清酒, 日本酒, 海鮮配對, 釀造廠參觀, 灘五鄉
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: theme-parks
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-theme-parks-hiroshima-廣島親子主題樂園全攻略-適閤家庭同樂的寓教於樂設施-9596bc.html
 published: 2026-07-04
-quality_score: 6.5
+quality_score: 8.7
 tags: 廣島主題樂園, 廣島親子遊, 日本家庭旅遊, 廣島寓教於樂, 瀨戶內海體驗
 license: CC BY 4.0
 ---

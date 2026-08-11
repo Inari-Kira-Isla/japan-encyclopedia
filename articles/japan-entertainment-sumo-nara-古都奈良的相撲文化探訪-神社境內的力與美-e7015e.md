@@ -6,7 +6,7 @@ category: sumo
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-nara-古都奈良的相撲文化探訪-神社境內的力與美-e7015e.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 8.5
 tags: 奈良相撲, 日本傳統文化, 古都探訪, 神社相撲, 神事情
 license: CC BY 4.0
 ---

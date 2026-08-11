@@ -6,7 +6,7 @@ category: gaming-arcades
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-gaming-arcades-sendai-仙台遊戲中心-不只是街機的東北溫暖人情味-ff8806.html
 published: 2026-05-22
-quality_score: 6.5
+quality_score: 8.7
 tags: 仙台, 遊戲中心, 街機, 東北, 日本娛樂
 license: CC BY 4.0
 ---

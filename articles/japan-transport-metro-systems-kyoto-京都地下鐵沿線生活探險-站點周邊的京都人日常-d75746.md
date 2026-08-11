@@ -6,7 +6,7 @@ category: metro-systems
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-kyoto-京都地下鐵沿線生活探險-站點周邊的京都人日常-d75746.html
 published: 2026-07-04
-quality_score: 7.5
+quality_score: 8.8
 tags: 京都地下鐵, 京都交通, 京都自由行, 烏丸線, 東西線
 license: CC BY 4.0
 ---

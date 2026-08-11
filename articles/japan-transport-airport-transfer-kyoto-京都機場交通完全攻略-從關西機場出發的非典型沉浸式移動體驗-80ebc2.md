@@ -6,7 +6,7 @@ category: airport-transfer
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-airport-transfer-kyoto-京都機場交通完全攻略-從關西機場出發的非典型沉浸式移動體驗-80ebc2.html
 published: 2026-05-24
-quality_score: 7.5
+quality_score: 8.7
 tags: 關西機場交通, 京都機場接送, 關西機場接送, 京都自由行, 關西機場巴士
 license: CC BY 4.0
 ---

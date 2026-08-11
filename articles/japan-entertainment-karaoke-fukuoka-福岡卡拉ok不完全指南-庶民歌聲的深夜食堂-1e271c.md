@@ -6,7 +6,7 @@ category: karaoke
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-karaoke-fukuoka-福岡卡拉ok不完全指南-庶民歌聲的深夜食堂-1e271c.html
 published: 2026-05-31
-quality_score: 6.5
+quality_score: 8.7
 tags: 福岡卡拉OK, 九州夜生活, 福岡娛樂, 博多體驗, 庶民文化
 license: CC BY 4.0
 ---

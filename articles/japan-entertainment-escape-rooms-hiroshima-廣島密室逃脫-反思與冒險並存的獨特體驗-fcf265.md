@@ -6,7 +6,7 @@ category: escape-rooms
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-escape-rooms-hiroshima-廣島密室逃脫-反思與冒險並存的獨特體驗-fcf265.html
 published: 2026-06-07
-quality_score: 6.5
+quality_score: 8.8
 tags: 廣島密室逃脫, 廣島體驗, 廣島和平, 日本密室逃脫, 廣島自由行
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: metro-systems
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-kobe-神戶地鐵系統-連接港都山海的便捷交通網-5fe1c6.html
 published: 2026-03-15
-quality_score: 7.5
+quality_score: 8.7
 tags: 神戶交通, 日本地鐵, 港都旅遊, 神戶觀光, 交通攻略
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: kabuki-theatre
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-kabuki-theatre-kanazawa-金澤的劇場與傳統表演藝術-被低估的北路文化寶藏-d45ad0.html
 published: 2026-06-18
-quality_score: 6.5
+quality_score: 8.6
 tags: 金澤, 能劇, 傳統表演藝術, 加賀百萬石, 北路文化
 license: CC BY 4.0
 ---

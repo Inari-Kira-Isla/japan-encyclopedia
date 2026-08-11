@@ -6,7 +6,7 @@ category: ferries
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-ferries-kanazawa-金澤周邊渡輪指南-從港口城市出發的海上探險-978476.html
 published: 2026-03-30
-quality_score: 7.5
+quality_score: 8.7
 tags: 金澤交通, 能登半島, 日本海渡輪, 石川縣旅遊, 島嶼探險
 license: CC BY 4.0
 ---

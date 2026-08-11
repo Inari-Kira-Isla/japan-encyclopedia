@@ -6,7 +6,7 @@ category: souvenir-omiyage
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-souvenir-omiyage-hokkaido-北海道新千歲機場伴手禮攻略-轉機停留必買的北海道特產推薦-443319.html
 published: 2026-06-21
-quality_score: 7.5
+quality_score: 8.5
 tags: 北海道伴手禮, 新千歲機場, 機場免稅店, 北海道特產, 日本伴手禮
 license: CC BY 4.0
 ---

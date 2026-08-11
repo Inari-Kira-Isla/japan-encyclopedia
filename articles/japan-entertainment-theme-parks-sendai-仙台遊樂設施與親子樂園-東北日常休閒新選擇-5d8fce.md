@@ -6,7 +6,7 @@ category: theme-parks
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-theme-parks-sendai-仙台遊樂設施與親子樂園-東北日常休閒新選擇-5d8fce.html
 published: 2026-06-23
-quality_score: 6.5
+quality_score: 8.6
 tags: 仙台主題樂園, 仙台親子遊, 東北娛樂設施, 仙台休閒推薦, 日本溫泉樂園
 license: CC BY 4.0
 ---

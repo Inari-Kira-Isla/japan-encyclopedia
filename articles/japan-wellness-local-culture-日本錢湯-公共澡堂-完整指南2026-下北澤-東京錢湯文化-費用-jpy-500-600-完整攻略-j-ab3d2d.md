@@ -6,7 +6,7 @@ category: local-culture
 area: japan
 url: https://japan-encyclopedia.vercel.app/articles/japan-wellness-local-culture-日本錢湯-公共澡堂-完整指南2026-下北澤-東京錢湯文化-費用-jpy-500-600-完整攻略-j-ab3d2d.html
 published: 2026-03-30
-quality_score: 7.6
+quality_score: 8.3
 tags: 日本錢湯, 東京公共澡堂, 日本銭湯文化, 日本入浴禮儀, 日本本地文化
 license: CC BY 4.0
 ---

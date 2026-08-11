@@ -6,7 +6,7 @@ category: buses
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-buses-sendai-仙台機場巴士交通攻略-從仙台機場進入市區的完整指南-4340ad.html
 published: 2026-05-22
-quality_score: 7.5
+quality_score: 8.5
 tags: 仙台機場, 機場巴士, 東北交通, 機場接送, 仙台自由行
 license: CC BY 4.0
 ---

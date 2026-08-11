@@ -6,7 +6,7 @@ category: ramen
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-ramen-okinawa-沖繩拉麵-島嶼供應鏈造就的亞熱帶麵食生態-ab037f.html
 published: 2026-04-06
-quality_score: 6.5
+quality_score: 8.6
 tags: 沖繩美食, 拉麵文化, 島嶼料理, 亞熱帶飲食, 沖繩觀光
 license: CC BY 4.0
 ---

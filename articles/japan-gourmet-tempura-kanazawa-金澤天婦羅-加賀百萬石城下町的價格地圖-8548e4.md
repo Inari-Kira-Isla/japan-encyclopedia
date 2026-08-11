@@ -6,7 +6,7 @@ category: tempura
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tempura-kanazawa-金澤天婦羅-加賀百萬石城下町的價格地圖-8548e4.html
 published: 2026-06-24
-quality_score: 6.5
+quality_score: 8.6
 tags: 金澤天婦羅, 金澤美食, 石川縣, 加賀料理, 日本海鮮
 license: CC BY 4.0
 ---

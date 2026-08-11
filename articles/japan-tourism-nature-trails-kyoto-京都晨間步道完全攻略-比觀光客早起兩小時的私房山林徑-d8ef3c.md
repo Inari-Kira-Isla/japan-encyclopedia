@@ -6,7 +6,7 @@ category: nature-trails
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-kyoto-京都晨間步道完全攻略-比觀光客早起兩小時的私房山林徑-d8ef3c.html
 published: 2026-03-29
-quality_score: 6.5
+quality_score: 8.7
 tags: 京都步道, 晨間健行, 古都山林, 私房景點, 禪意旅遊
 license: CC BY 4.0
 ---

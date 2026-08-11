@@ -6,7 +6,7 @@ category: ski-resorts
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-ski-resorts-hiroshima-廣島滑雪場-告別錯誤期待的山陰滑雪真相-e47ade.html
 published: 2026-06-20
-quality_score: 6.5
+quality_score: 8.5
 tags: 廣島滑雪場, 日本中國地區滑雪, 山口縣滑雪場, 廣島冬季旅遊, 廣島自由行
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: island-hopping
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-island-hopping-nara-奈良跳島之旅-地理事實與替代方案-4ad37c.html
 published: 2026-06-10
-quality_score: 5.5
+quality_score: 7.3
 tags: 奈良縣, 跳島旅遊, 關西旅遊, 地理知識, 琵琶湖
 license: CC BY 4.0
 ---

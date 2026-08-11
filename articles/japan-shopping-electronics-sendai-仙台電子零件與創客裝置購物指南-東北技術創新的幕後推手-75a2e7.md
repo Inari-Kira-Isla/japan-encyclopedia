@@ -6,7 +6,7 @@ category: electronics
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-electronics-sendai-仙台電子零件與創客裝置購物指南-東北技術創新的幕後推手-75a2e7.html
 published: 2026-04-03
-quality_score: 7.5
+quality_score: 8.5
 tags: 電子零件, 創客設備, 工業器材, 學術儀器, 技術支援
 license: CC BY 4.0
 ---

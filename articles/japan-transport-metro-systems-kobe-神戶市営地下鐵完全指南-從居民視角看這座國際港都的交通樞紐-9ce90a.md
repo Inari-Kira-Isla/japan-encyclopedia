@@ -6,7 +6,7 @@ category: metro-systems
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-kobe-神戶市営地下鐵完全指南-從居民視角看這座國際港都的交通樞紐-9ce90a.html
 published: 2026-03-24
-quality_score: 7.5
+quality_score: 8.6
 tags: 神戶地鐵, 日本交通, 海岸線, 西神山手線, 本地生活
 license: CC BY 4.0
 ---

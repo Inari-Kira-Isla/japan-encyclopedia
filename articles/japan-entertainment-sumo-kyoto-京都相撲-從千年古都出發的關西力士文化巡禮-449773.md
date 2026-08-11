@@ -6,7 +6,7 @@ category: sumo
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-kyoto-京都相撲-從千年古都出發的關西力士文化巡禮-449773.html
 published: 2026-06-30
-quality_score: 6.5
+quality_score: 8.8
 tags: 京都相撲, 關西力士文化, 大阪相撲, 相撲體驗, 京阪旅遊
 license: CC BY 4.0
 ---

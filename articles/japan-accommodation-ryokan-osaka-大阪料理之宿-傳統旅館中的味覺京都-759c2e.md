@@ -6,7 +6,7 @@ category: ryokan
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-osaka-大阪料理之宿-傳統旅館中的味覺京都-759c2e.html
 published: 2026-06-30
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪 Ryokan, 傳統旅馆, 日本住宿, 料理之宿, 關西旅行
 license: CC BY 4.0
 ---

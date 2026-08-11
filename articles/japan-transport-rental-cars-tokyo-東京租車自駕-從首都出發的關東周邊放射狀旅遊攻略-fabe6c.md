@@ -6,7 +6,7 @@ category: rental-cars
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-tokyo-東京租車自駕-從首都出發的關東周邊放射狀旅遊攻略-fabe6c.html
 published: 2026-07-05
-quality_score: 7.5
+quality_score: 8.9
 tags: 東京租車, 關東自駕, 東京自由行, 富士山自駕, 輕井澤租車
 license: CC BY 4.0
 ---

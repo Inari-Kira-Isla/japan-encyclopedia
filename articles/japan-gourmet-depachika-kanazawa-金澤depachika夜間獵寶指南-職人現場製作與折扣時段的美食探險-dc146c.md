@@ -6,7 +6,7 @@ category: depachika
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-depachika-kanazawa-金澤depachika夜間獵寶指南-職人現場製作與折扣時段的美食探險-dc146c.html
 published: 2026-04-02
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤美食, 百貨地下街, 夜間折扣, 職人製作, 北陸海鮮
 license: CC BY 4.0
 ---

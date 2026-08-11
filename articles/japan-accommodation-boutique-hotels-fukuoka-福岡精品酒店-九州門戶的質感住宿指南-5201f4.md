@@ -6,7 +6,7 @@ category: boutique-hotels
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-fukuoka-福岡精品酒店-九州門戶的質感住宿指南-5201f4.html
 published: 2026-03-18
-quality_score: 6.5
+quality_score: 8.8
 tags: 福岡, 精品酒店, 九州, 博多, 天神
 license: CC BY 4.0
 ---

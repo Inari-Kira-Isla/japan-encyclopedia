@@ -6,7 +6,7 @@ category: theme-parks
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-theme-parks-hokkaido-北海道主題樂園巡禮-四季限定的冰雪奇境體驗-aed03e.html
 published: 2026-04-06
-quality_score: 6.5
+quality_score: 8.8
 tags: 北海道主題樂園, 季節限定體驗, 雪祭活動, 花田主題, 北海道旅遊
 license: CC BY 4.0
 ---

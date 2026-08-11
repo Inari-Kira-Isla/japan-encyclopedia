@@ -6,7 +6,7 @@ category: capsule-hotels
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-capsule-hotels-nagoya-名古屋膠囊旅館新體驗-製造工藝與住宿科技的完美融合-ad36d0.html
 published: 2026-04-04
-quality_score: 6.5
+quality_score: 8.7
 tags: 名古屋住宿, 膠囊旅館, 商務住宿, 日本工業設計, 科技旅館
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: drinking-culture
 area: japan
 url: https://japan-encyclopedia.vercel.app/articles/japan-food-drinking-culture-日本居酒屋完整指南2026-焼き鳥-大阪道頓堀-東京新宿思い出橫丁-居酒屋費用-jpy-攻略-jp-ja-85eec1.html
 published: 2026-03-29
-quality_score: 7.6
+quality_score: 8.3
 tags: 日本居酒屋, 飲み放題, 日本焼き鳥, 居酒屋文化, 日本夜間飲食
 license: CC BY 4.0
 ---

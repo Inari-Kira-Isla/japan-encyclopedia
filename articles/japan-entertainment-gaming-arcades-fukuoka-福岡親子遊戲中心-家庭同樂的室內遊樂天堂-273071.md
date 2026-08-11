@@ -6,7 +6,7 @@ category: gaming-arcades
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-gaming-arcades-fukuoka-福岡親子遊戲中心-家庭同樂的室內遊樂天堂-273071.html
 published: 2026-06-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 福岡, 遊戲中心, 親子, 家庭旅遊, 九州
 license: CC BY 4.0
 ---

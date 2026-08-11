@@ -6,7 +6,7 @@ category: historical-districts
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-hokkaido-北海道歷史街區-再現拓荒時代的北方風華-031ea0.html
 published: 2026-06-03
-quality_score: 6.5
+quality_score: 8.6
 tags: 北海道, 歷史街區, 小樽, 旭川, 釧路
 license: CC BY 4.0
 ---

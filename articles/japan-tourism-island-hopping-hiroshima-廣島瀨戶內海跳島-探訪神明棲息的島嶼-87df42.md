@@ -6,7 +6,7 @@ category: island-hopping
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-island-hopping-hiroshima-廣島瀨戶內海跳島-探訪神明棲息的島嶼-87df42.html
 published: 2026-06-24
-quality_score: 6.5
+quality_score: 8.5
 tags: 廣島跳島, 瀨戶內海, 宮島, 嚴島神社, 藝術跳島
 license: CC BY 4.0
 ---

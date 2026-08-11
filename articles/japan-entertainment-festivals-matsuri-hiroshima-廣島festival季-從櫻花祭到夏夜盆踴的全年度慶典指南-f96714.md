@@ -6,7 +6,7 @@ category: festivals-matsuri
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-festivals-matsuri-hiroshima-廣島festival季-從櫻花祭到夏夜盆踴的全年度慶典指南-f96714.html
 published: 2026-06-04
-quality_score: 6.5
+quality_score: 8.5
 tags: 廣島祭典, 日本祭典, 夏季節慶, 櫻花季, 盆踊
 license: CC BY 4.0
 ---

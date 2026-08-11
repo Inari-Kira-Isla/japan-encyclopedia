@@ -6,7 +6,7 @@ category: izakaya
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-izakaya-osaka-福岡-depachika-散步學-把地下美食買成一趟城市小旅行-7f59c8.html
 published: 2026-05-21
-quality_score: 6.5
+quality_score: 8.6
 tags: 福岡美食, Depachika, 九州料理, 地下食品, 天神街區
 license: CC BY 4.0
 ---

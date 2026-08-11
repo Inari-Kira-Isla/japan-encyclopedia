@@ -6,7 +6,7 @@ category: scenic-routes
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-nagoya-名古屋水岸風景廊道-搭船漫遊運河與河道的歷史與風光-006dc4.html
 published: 2026-03-29
-quality_score: 6.5
+quality_score: 8.7
 tags: 名古屋運河, 水岸風光, 歷史街區, 自行車道, 城下町風情
 license: CC BY 4.0
 ---

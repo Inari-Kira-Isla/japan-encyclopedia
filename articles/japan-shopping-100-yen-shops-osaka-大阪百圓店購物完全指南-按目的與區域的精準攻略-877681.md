@@ -6,7 +6,7 @@ category: 100-yen-shops
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-100-yen-shops-osaka-大阪百圓店購物完全指南-按目的與區域的精準攻略-877681.html
 published: 2026-06-21
-quality_score: 7.5
+quality_score: 8.9
 tags: 大阪, 百圓店, 日本購物, 平價購物, 關西限定
 license: CC BY 4.0
 ---

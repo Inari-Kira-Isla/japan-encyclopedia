@@ -6,7 +6,7 @@ category: tonkatsu
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tonkatsu-kanazawa-金澤炸豬排-加賀百萬石之都的洋食金色物語-001669.html
 published: 2026-06-17
-quality_score: 6.5
+quality_score: 8.6
 tags: 金澤美食, 炸豬排, 石川縣, 加賀百萬石, 金箔料理
 license: CC BY 4.0
 ---

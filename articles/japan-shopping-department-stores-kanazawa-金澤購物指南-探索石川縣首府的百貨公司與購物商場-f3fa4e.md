@@ -6,7 +6,7 @@ category: department-stores
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-department-stores-kanazawa-金澤購物指南-探索石川縣首府的百貨公司與購物商場-f3fa4e.html
 published: 2026-06-15
-quality_score: 7.5
+quality_score: 8.3
 tags: 金澤購物, 石川縣, 百貨公司, 金箔工藝, 九谷燒
 license: CC BY 4.0
 ---

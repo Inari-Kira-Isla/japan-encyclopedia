@@ -6,7 +6,7 @@ category: tempura
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tempura-okinawa-沖繩天婦羅-漁港到餐桌的鮮味瞬間-3d1cdb.html
 published: 2026-06-27
-quality_score: 6.5
+quality_score: 8.5
 tags: 沖繩美食, 天婦羅, 魚市場, 泊港, 日本料理
 license: CC BY 4.0
 ---

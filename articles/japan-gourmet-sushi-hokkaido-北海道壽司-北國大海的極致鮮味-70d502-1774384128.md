@@ -6,7 +6,7 @@ category: sushi
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sushi-hokkaido-北海道壽司-北國大海的極致鮮味-70d502-1774384128.html
 published: 2026-03-24
-quality_score: 6.5
+quality_score: 8.9
 tags: 北海道壽司, 日本海產, 札幌美食, 小樽寿司, 函馆朝市
 license: CC BY 4.0
 ---

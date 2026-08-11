@@ -6,7 +6,7 @@ category: cycling
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-okinawa-沖繩單車旅遊-跨島慢騎的亞熱帶海岸線-b05339.html
 published: 2026-06-30
-quality_score: 7.5
+quality_score: 8.5
 tags: 沖繩單車, 跳島騎行, 慶良間諸島, 宮古島, 石垣島
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: festivals-matsuri
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-festivals-matsuri-tokyo-東京祭典消費地圖-平民慶典到高階祭典的完整攻略-3eadcf.html
 published: 2026-03-24
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京祭典, 消費指南, 社區文化, 在地體驗, 美食攻略
 license: CC BY 4.0
 ---

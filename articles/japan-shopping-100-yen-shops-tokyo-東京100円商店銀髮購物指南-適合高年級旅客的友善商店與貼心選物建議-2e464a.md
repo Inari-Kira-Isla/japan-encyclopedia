@@ -6,7 +6,7 @@ category: 100-yen-shops
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-100-yen-shops-tokyo-東京100円商店銀髮購物指南-適合高年級旅客的友善商店與貼心選物建議-2e464a.html
 published: 2026-06-03
-quality_score: 7.5
+quality_score: 8.7
 tags: 东京100円商店, 银发族购物, 东京自由行, 银髮经济, tokyo travel
 license: CC BY 4.0
 ---

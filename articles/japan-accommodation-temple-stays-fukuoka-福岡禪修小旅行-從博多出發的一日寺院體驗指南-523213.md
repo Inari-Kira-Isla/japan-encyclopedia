@@ -6,7 +6,7 @@ category: temple-stays
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-temple-stays-fukuoka-福岡禪修小旅行-從博多出發的一日寺院體驗指南-523213.html
 published: 2026-06-06
-quality_score: 6.5
+quality_score: 8.5
 tags: 九州寺院住宿, 福岡旅遊, 禪修體驗, 太宰府, 宿坊
 license: CC BY 4.0
 ---

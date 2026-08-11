@@ -6,7 +6,7 @@ category: vr-experiences
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-vr-experiences-kanazawa-金澤遊戲中心vr體驗-復古街機與虛擬實境的世代對話-c15b0b.html
 published: 2026-06-11
-quality_score: 6.5
+quality_score: 9.0
 tags: 金澤VR體驗, 金澤遊戲中心, 北陸娛樂, 家庭同樂, 虛擬實境
 license: CC BY 4.0
 ---

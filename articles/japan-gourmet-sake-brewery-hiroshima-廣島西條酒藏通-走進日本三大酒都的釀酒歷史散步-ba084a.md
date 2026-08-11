@@ -6,7 +6,7 @@ category: sake-brewery
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sake-brewery-hiroshima-廣島西條酒藏通-走進日本三大酒都的釀酒歷史散步-ba084a.html
 published: 2026-06-04
-quality_score: 6.5
+quality_score: 8.9
 tags: 日本清酒, 廣島景點, 西條在地文化, 釀酒參觀, 山陽本線
 license: CC BY 4.0
 ---

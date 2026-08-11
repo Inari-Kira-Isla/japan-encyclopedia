@@ -6,7 +6,7 @@ category: boutique-hotels
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-osaka-大阪精品酒店-庶民美食與都會時尚的住宿交匯點-9c83d2.html
 published: 2026-06-28
-quality_score: 6.5
+quality_score: 8.6
 tags: 大阪, 精品酒店, 關西, 住宿推薦, 大阪美食
 license: CC BY 4.0
 ---

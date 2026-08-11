@@ -6,7 +6,7 @@ category: temples-shrines
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-temples-shrines-tokyo-東京寺廟神社巡禮-繁華都市中的心靈避風港-1b44f8.html
 published: 2026-03-29
-quality_score: 6.5
+quality_score: 8.9
 tags: 東京景點, 寺廟神社, 文化體驗, 心靈旅遊, 都市禪修
 license: CC BY 4.0
 ---

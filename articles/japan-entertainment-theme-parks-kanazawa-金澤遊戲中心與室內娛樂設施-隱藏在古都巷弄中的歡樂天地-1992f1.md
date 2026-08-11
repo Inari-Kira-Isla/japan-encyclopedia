@@ -6,7 +6,7 @@ category: theme-parks
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-theme-parks-kanazawa-金澤遊戲中心與室內娛樂設施-隱藏在古都巷弄中的歡樂天地-1992f1.html
 published: 2026-06-22
-quality_score: 6.5
+quality_score: 8.1
 tags: 金澤室內娛樂, 金澤遊戲中心, 金澤親子設施, 金澤體驗, 石川縣娛樂
 license: CC BY 4.0
 ---

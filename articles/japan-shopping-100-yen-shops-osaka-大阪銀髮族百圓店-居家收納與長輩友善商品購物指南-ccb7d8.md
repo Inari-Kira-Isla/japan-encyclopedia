@@ -6,7 +6,7 @@ category: 100-yen-shops
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-100-yen-shops-osaka-大阪銀髮族百圓店-居家收納與長輩友善商品購物指南-ccb7d8.html
 published: 2026-06-23
-quality_score: 7.5
+quality_score: 8.7
 tags: 大阪百圓店, 銀髮族購物, 居家收納, 日本平價購物, 大阪住宅區
 license: CC BY 4.0
 ---

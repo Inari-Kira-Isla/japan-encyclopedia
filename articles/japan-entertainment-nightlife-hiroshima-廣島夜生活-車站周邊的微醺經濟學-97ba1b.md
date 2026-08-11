@@ -6,7 +6,7 @@ category: nightlife
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-hiroshima-廣島夜生活-車站周邊的微醺經濟學-97ba1b.html
 published: 2026-06-30
-quality_score: 6.5
+quality_score: 8.8
 tags: 廣島夜生活, 廣島車站周邊, 立飲店, 廣島牡蠣, 日本酒吧文化
 license: CC BY 4.0
 ---

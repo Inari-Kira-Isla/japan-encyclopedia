@@ -6,7 +6,7 @@ category: street-food
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-street-food-hokkaido-北海道港口小鎮的冬日街食-旭川以南的在地味覺散步-f968c4.html
 published: 2026-06-11
-quality_score: 6.5
+quality_score: 8.5
 tags: 北海道, 街頭美食, 小樽, 釧路, 旭川
 license: CC BY 4.0
 ---

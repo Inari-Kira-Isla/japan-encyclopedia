@@ -6,7 +6,7 @@ category: temples-shrines
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-temples-shrines-nagoya-名古屋職人與商人的能量聖地-隱藏版神社寺院巡禮-d4bf4d.html
 published: 2026-06-10
-quality_score: 6.5
+quality_score: 8.5
 tags: 名古屋神社, 名古屋寺廟, 職人能量景點, 名古屋隱藏版, 在地參拜
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: karaoke
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-karaoke-sendai-仙台卡拉ok-東北樂都的歡唱時光-3d5279.html
 published: 2026-03-21
-quality_score: 6.5
+quality_score: 8.6
 tags: 日本東北, 仙台娛樂, 卡拉OK文化, 夜生活指南, 旅遊推薦
 license: CC BY 4.0
 ---

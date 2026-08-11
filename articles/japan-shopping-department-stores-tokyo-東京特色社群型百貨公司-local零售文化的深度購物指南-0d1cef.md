@@ -6,7 +6,7 @@ category: department-stores
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-department-stores-tokyo-東京特色社群型百貨公司-local零售文化的深度購物指南-0d1cef.html
 published: 2026-06-16
-quality_score: 7.5
+quality_score: 8.6
 tags: 東京購物, 社區型百貨, 自由之丘, 巢鴨, 三軒茶屋
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: temples-shrines
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-temples-shrines-nara-奈良神社寺院與神的使者-走進鹿與佛教共生的千年聖境-95fe79.html
 published: 2026-05-21
-quality_score: 6.5
+quality_score: 8.8
 tags: 奈良, 神社, 寺院, 春日大社, 東大寺
 license: CC BY 4.0
 ---

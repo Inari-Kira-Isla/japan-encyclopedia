@@ -6,7 +6,7 @@ category: sake-brewery
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sake-brewery-kobe-神戶清酒釀造所-山海之間的釀酒職人與港都風土-58b0c3.html
 published: 2026-04-07
-quality_score: 6.5
+quality_score: 8.9
 tags: 神戶清酒, 灘五鄉, 清酒釀造, 日本美食, 神戶自由行
 license: CC BY 4.0
 ---

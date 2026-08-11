@@ -6,7 +6,7 @@ category: ferries
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-ferries-kyoto-京都川船夜間遊覽-夜色古都的水上風情詩-2d99a7.html
 published: 2026-06-21
-quality_score: 7.5
+quality_score: 8.8
 tags: 京都夜景, 河川遊覽, 京都體驗, 嵐山夜遊, 宇治川
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: island-hopping
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-island-hopping-tokyo-東京跳島之旅-探索太平洋上的遺世島嶼-b37607.html
 published: 2026-05-24
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京跳島, 小笠原群島, 式根群島, 島嶼觀光, 太平洋
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: jr-pass
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-jr-pass-hiroshima-廣島-jr-pass-實用指南-從廣島出發的中國地區鐵路漫遊攻略-15d77d.html
 published: 2026-06-29
-quality_score: 7.5
+quality_score: 8.6
 tags: 廣島JR Pass, JR West Pass, 中國地區鐵路周遊券, 山陰山陽, 廣島自由行
 license: CC BY 4.0
 ---

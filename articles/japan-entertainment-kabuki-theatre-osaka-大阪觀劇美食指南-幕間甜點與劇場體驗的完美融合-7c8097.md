@@ -6,7 +6,7 @@ category: kabuki-theatre
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-kabuki-theatre-osaka-大阪觀劇美食指南-幕間甜點與劇場體驗的完美融合-7c8097.html
 published: 2026-05-20
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪觀劇, Kabuki體驗, 上方文化, 幕間甜點, 關西表演藝術
 license: CC BY 4.0
 ---

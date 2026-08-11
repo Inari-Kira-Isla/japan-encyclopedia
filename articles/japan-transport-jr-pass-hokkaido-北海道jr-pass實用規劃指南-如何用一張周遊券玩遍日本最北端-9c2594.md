@@ -6,7 +6,7 @@ category: jr-pass
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-jr-pass-hokkaido-北海道jr-pass實用規劃指南-如何用一張周遊券玩遍日本最北端-9c2594.html
 published: 2026-06-07
-quality_score: 7.5
+quality_score: 8.9
 tags: 北海道, JR Pass, 鐵路旅行, 自助旅行, 日本交通
 license: CC BY 4.0
 ---

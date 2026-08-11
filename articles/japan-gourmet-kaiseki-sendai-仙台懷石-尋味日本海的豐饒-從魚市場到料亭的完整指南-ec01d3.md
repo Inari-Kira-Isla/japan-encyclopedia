@@ -6,7 +6,7 @@ category: kaiseki
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-kaiseki-sendai-仙台懷石-尋味日本海的豐饒-從魚市場到料亭的完整指南-ec01d3.html
 published: 2026-05-21
-quality_score: 6.5
+quality_score: 8.5
 tags: 仙台懷石, 日本海海產, 松島牡蠣, 東北美食, 氣仙沼海鮮
 license: CC BY 4.0
 ---

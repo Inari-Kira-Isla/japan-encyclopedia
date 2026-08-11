@@ -6,7 +6,7 @@ category: minshuku
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-hiroshima-廣島民宿完全指南-瀨戶內海藝術跳島與島嶼生活住宿精選-bbe76b.html
 published: 2026-07-01
-quality_score: 6.5
+quality_score: 8.6
 tags: 廣島民宿, 瀨戶內海, 藝術跳島, 直島, 島嶼住宿
 license: CC BY 4.0
 ---

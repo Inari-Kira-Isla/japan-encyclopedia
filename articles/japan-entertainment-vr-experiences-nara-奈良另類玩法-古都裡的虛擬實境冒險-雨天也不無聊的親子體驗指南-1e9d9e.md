@@ -6,7 +6,7 @@ category: vr-experiences
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-vr-experiences-nara-奈良另類玩法-古都裡的虛擬實境冒險-雨天也不無聊的親子體驗指南-1e9d9e.html
 published: 2026-06-23
-quality_score: 6.5
+quality_score: 8.6
 tags: 奈良旅遊, VR體驗, 奈良景點, 親子旅遊, 雨天備案
 license: CC BY 4.0
 ---

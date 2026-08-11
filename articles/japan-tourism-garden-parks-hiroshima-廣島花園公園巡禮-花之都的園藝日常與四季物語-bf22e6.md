@@ -6,7 +6,7 @@ category: garden-parks
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-hiroshima-廣島花園公園巡禮-花之都的園藝日常與四季物語-bf22e6.html
 published: 2026-06-16
-quality_score: 6.5
+quality_score: 8.7
 tags: 廣島花園, 賞櫻, 日式庭園, 縮景園, 城市綠地
 license: CC BY 4.0
 ---

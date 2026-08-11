@@ -6,7 +6,7 @@ category: business-hotels
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-business-hotels-osaka-大阪商務酒店晨間經濟學-趕早班的庶民美食攻略-a54955.html
 published: 2026-06-04
-quality_score: 6.5
+quality_score: 8.8
 tags: 大阪商務酒店, 朝ごはん, 新大阪站, 天王寺, 南海難波
 license: CC BY 4.0
 ---

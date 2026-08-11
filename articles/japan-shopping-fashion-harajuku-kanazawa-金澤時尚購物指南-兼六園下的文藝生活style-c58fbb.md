@@ -6,7 +6,7 @@ category: fashion-harajuku
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-fashion-harajuku-kanazawa-金澤時尚購物指南-兼六園下的文藝生活style-c58fbb.html
 published: 2026-06-05
-quality_score: 7.5
+quality_score: 9.0
 tags: 金澤購物, 香林坊, 加賀風時尚, 日本二线城市购物, 金箔特产
 license: CC BY 4.0
 ---

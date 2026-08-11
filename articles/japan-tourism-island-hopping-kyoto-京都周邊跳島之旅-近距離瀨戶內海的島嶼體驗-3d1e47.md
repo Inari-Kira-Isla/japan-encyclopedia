@@ -6,7 +6,7 @@ category: island-hopping
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-island-hopping-kyoto-京都周邊跳島之旅-近距離瀨戶內海的島嶼體驗-3d1e47.html
 published: 2026-06-14
-quality_score: 6.5
+quality_score: 8.6
 tags: 京都跳島, 神戶跳島, 瀨戶內海, 六甲山, 京都周邊旅遊
 license: CC BY 4.0
 ---

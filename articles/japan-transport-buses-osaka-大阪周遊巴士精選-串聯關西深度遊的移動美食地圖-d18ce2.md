@@ -6,7 +6,7 @@ category: buses
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-buses-osaka-大阪周遊巴士精選-串聯關西深度遊的移動美食地圖-d18ce2.html
 published: 2026-07-06
-quality_score: 7.5
+quality_score: 8.7
 tags: 大阪交通, 關西巴士, 大阪週邊, 高速巴士, 自助旅行
 license: CC BY 4.0
 ---

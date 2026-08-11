@@ -6,7 +6,7 @@ category: minshuku
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-fukuoka-福岡市民宿完全指南-港都風情與海灣夜色的住宿體驗-f77419.html
 published: 2026-05-24
-quality_score: 6.5
+quality_score: 8.7
 tags: 福岡民宿, 港都住宿, 九州旅行, 海灣體驗, 屋台文化
 license: CC BY 4.0
 ---

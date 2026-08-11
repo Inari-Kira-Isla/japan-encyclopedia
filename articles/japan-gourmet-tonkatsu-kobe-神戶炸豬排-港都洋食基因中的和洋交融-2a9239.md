@@ -6,7 +6,7 @@ category: tonkatsu
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tonkatsu-kobe-神戶炸豬排-港都洋食基因中的和洋交融-2a9239.html
 published: 2026-07-03
-quality_score: 6.5
+quality_score: 8.8
 tags: 神戶炸豬排, 神戶美食, 洋食, 關西美食, 豚カツ
 license: CC BY 4.0
 ---

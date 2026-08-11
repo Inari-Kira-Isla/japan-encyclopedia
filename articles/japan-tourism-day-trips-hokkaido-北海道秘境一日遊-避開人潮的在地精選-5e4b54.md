@@ -6,7 +6,7 @@ category: day-trips
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-hokkaido-北海道秘境一日遊-避開人潮的在地精選-5e4b54.html
 published: 2026-06-25
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道一日遊, 秘境景點, 自駕推薦, 自然風光, 溫泉旅行
 license: CC BY 4.0
 ---

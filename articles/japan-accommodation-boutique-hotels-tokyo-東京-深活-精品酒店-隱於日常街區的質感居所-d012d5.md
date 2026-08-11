@@ -6,7 +6,7 @@ category: boutique-hotels
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-tokyo-東京-深活-精品酒店-隱於日常街區的質感居所-d012d5.html
 published: 2026-06-16
-quality_score: 6.5
+quality_score: 8.6
 tags: 東京精品酒店, 下北澤, 谷中, 神楽坂, 日本住宿
 license: CC BY 4.0
 ---

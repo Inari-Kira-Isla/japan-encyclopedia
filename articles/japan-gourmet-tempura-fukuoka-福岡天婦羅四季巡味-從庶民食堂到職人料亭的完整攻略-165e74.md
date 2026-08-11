@@ -6,7 +6,7 @@ category: tempura
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tempura-fukuoka-福岡天婦羅四季巡味-從庶民食堂到職人料亭的完整攻略-165e74.html
 published: 2026-03-28
-quality_score: 6.5
+quality_score: 8.8
 tags: 福岡美食, 天婦羅, 九州海鮮, 季節料理, 博多
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: buses
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-buses-sendai-仙台巴士系統-當地人日常出行的實用交通指南-6af35c.html
 published: 2026-06-22
-quality_score: 7.5
+quality_score: 8.6
 tags: 仙台交通, 東北自助, 巴士之旅, 日本巴士, 仙台自由行
 license: CC BY 4.0
 ---

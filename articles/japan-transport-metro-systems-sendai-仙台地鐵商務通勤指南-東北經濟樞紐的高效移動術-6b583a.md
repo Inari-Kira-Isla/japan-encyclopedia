@@ -6,7 +6,7 @@ category: metro-systems
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-sendai-仙台地鐵商務通勤指南-東北經濟樞紐的高效移動術-6b583a.html
 published: 2026-04-05
-quality_score: 7.5
+quality_score: 8.8
 tags: 仙台地鐵, 商務交通, 東北經濟, 通勤指南, 交通攻略
 license: CC BY 4.0
 ---

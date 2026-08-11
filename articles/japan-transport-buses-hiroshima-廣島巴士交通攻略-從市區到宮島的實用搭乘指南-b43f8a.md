@@ -6,7 +6,7 @@ category: buses
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-buses-hiroshima-廣島巴士交通攻略-從市區到宮島的實用搭乘指南-b43f8a.html
 published: 2026-06-04
-quality_score: 7.5
+quality_score: 8.4
 tags: 廣島巴士, 廣島交通, 宮島巴士, 廣島公車一日券, 廣島機場巴士
 license: CC BY 4.0
 ---

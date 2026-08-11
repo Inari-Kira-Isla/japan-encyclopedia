@@ -6,7 +6,7 @@ category: kaiseki
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-kaiseki-hiroshima-廣島會席料理-瀨戶內海牡蠣王的殿堂級呈現-c7a523.html
 published: 2026-06-23
-quality_score: 6.5
+quality_score: 8.9
 tags: 廣島美食, 會席料理, 瀨戶內海, 日本料理, 牡蠣
 license: CC BY 4.0
 ---

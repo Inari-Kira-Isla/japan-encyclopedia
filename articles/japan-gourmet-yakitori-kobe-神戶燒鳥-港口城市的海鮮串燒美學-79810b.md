@@ -6,7 +6,7 @@ category: yakitori
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-yakitori-kobe-神戶燒鳥-港口城市的海鮮串燒美學-79810b.html
 published: 2026-06-18
-quality_score: 6.5
+quality_score: 8.6
 tags: 神戶燒鳥, 神戶美食, 港都料理, 瀨戶內海海鮮, 關西串燒
 license: CC BY 4.0
 ---

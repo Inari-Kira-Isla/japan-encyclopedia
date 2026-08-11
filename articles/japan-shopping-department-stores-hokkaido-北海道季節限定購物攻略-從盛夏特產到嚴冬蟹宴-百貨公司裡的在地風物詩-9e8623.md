@@ -6,7 +6,7 @@ category: department-stores
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-department-stores-hokkaido-北海道季節限定購物攻略-從盛夏特產到嚴冬蟹宴-百貨公司裡的在地風物詩-9e8623.html
 published: 2026-06-27
-quality_score: 7.5
+quality_score: 8.8
 tags: 北海道購物, 札幌百貨公司, 季節限定, 北海道伴手禮, 美食購物
 license: CC BY 4.0
 ---

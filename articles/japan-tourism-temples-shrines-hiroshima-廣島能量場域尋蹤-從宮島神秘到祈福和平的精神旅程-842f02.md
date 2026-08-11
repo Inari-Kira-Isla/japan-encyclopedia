@@ -6,7 +6,7 @@ category: temples-shrines
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-temples-shrines-hiroshima-廣島能量場域尋蹤-從宮島神秘到祈福和平的精神旅程-842f02.html
 published: 2026-06-03
-quality_score: 6.5
+quality_score: 8.8
 tags: 廣島神社, 廣島寺廟, 宮島嚴島神社, 日本世界遺產, 廣島必遊
 license: CC BY 4.0
 ---

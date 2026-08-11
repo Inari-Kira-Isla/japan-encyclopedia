@@ -6,7 +6,7 @@ category: boutique-hotels
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-hokkaido-北海道雪域精品旅宿-滑完雪後的溫暖味蕾體驗-5712a7.html
 published: 2026-06-20
-quality_score: 6.5
+quality_score: 8.6
 tags: 北海道精品酒店, 二世古滑雪, 北海道滑雪度假村, 日本粉雪, 溫泉滑雪旅宿
 license: CC BY 4.0
 ---

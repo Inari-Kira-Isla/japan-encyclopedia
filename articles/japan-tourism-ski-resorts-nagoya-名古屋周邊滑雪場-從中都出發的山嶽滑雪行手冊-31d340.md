@@ -6,7 +6,7 @@ category: ski-resorts
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-ski-resorts-nagoya-名古屋周邊滑雪場-從中都出發的山嶽滑雪行手冊-31d340.html
 published: 2026-06-04
-quality_score: 6.5
+quality_score: 8.3
 tags: 名古屋滑雪, 日本中部滑雪場, 岐阜縣滑雪, 長野縣滑雪, 溫泉滑雪
 license: CC BY 4.0
 ---

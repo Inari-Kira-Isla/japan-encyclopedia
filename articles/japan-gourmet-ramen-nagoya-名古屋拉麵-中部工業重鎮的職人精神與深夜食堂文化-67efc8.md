@@ -6,7 +6,7 @@ category: ramen
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-ramen-nagoya-名古屋拉麵-中部工業重鎮的職人精神與深夜食堂文化-67efc8.html
 published: 2026-04-06
-quality_score: 6.5
+quality_score: 8.7
 tags: 名古屋美食, 日本拉麵, 職人文化, 深夜食堂, 中部地區
 license: CC BY 4.0
 ---

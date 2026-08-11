@@ -6,7 +6,7 @@ category: wagyu
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-wagyu-nagoya-名古屋-前進中部山地和牛的心臟地帶-f7017f.html
 published: 2026-06-21
-quality_score: 6.5
+quality_score: 8.7
 tags: 名古屋和牛, 松阪牛, 飛驒牛, 甲州牛, 中部和牛
 license: CC BY 4.0
 ---

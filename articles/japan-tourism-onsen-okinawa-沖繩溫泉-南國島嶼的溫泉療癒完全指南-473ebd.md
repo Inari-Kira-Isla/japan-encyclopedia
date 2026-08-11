@@ -6,7 +6,7 @@ category: onsen
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-onsen-okinawa-沖繩溫泉-南國島嶼的溫泉療癒完全指南-473ebd.html
 published: 2026-06-07
-quality_score: 6.5
+quality_score: 8.6
 tags: 沖繩溫泉, 亞熱帶溫泉, 恩納村溫泉, 海景溫泉,  Okinawa onsen
 license: CC BY 4.0
 ---

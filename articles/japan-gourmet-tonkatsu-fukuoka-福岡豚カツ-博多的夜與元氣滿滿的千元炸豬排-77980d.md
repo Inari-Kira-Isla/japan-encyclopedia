@@ -6,7 +6,7 @@ category: tonkatsu
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tonkatsu-fukuoka-福岡豚カツ-博多的夜與元氣滿滿的千元炸豬排-77980d.html
 published: 2026-07-01
-quality_score: 6.5
+quality_score: 8.5
 tags: 福岡美食, 九州料理, 炸豬排, とんかつ, 博多
 license: CC BY 4.0
 ---

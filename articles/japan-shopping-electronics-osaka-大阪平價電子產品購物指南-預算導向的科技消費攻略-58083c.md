@@ -6,7 +6,7 @@ category: electronics
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-electronics-osaka-大阪平價電子產品購物指南-預算導向的科技消費攻略-58083c.html
 published: 2026-06-09
-quality_score: 7.5
+quality_score: 8.5
 tags: 大阪電子產品, 大阪購物, 平價電器, 日本電子產品, 關西電子產品
 license: CC BY 4.0
 ---

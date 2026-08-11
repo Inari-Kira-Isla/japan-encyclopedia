@@ -6,7 +6,7 @@ category: castle-towns
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-castle-towns-okinawa-沖繩城下町-海上絲路的琉球貿易港風華-a9a3d6.html
 published: 2026-04-06
-quality_score: 6.5
+quality_score: 8.9
 tags: 沖繩旅遊, 琉球文化, 城下町, 歷史古蹟, 文化體驗
 license: CC BY 4.0
 ---

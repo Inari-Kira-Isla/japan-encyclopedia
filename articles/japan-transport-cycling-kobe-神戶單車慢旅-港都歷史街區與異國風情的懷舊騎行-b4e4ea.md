@@ -6,7 +6,7 @@ category: cycling
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-kobe-神戶單車慢旅-港都歷史街區與異國風情的懷舊騎行-b4e4ea.html
 published: 2026-04-02
-quality_score: 7.5
+quality_score: 8.9
 tags: 神戶單車, 港都騎行, 異人館, 歷史建築, 慢旅
 license: CC BY 4.0
 ---

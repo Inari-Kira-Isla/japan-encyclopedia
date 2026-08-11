@@ -6,7 +6,7 @@ category: temple-stays
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-temple-stays-kyoto-京都寺廟住宿-從入門到修行的難度階梯指南-cf27fa.html
 published: 2026-03-24
-quality_score: 6.5
+quality_score: 8.6
 tags: 京都, 寺廟住宿, 禪修體驗, 日本旅遊, 精品旅宿
 license: CC BY 4.0
 ---

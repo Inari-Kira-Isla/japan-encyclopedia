@@ -6,7 +6,7 @@ category: festivals-matsuri
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-festivals-matsuri-kanazawa-金澤祭典新玩法-當千年傳統遇上現代娛樂的奇幻體驗-d727e1.html
 published: 2026-04-06
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤祭典, 數位體驗, 現代娛樂, AR/VR, 夜間活動
 license: CC BY 4.0
 ---

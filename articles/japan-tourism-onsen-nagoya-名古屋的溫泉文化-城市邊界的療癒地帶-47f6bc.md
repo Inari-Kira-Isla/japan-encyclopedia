@@ -6,7 +6,7 @@ category: onsen
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-onsen-nagoya-名古屋的溫泉文化-城市邊界的療癒地帶-47f6bc.html
 published: 2026-03-20
-quality_score: 6.5
+quality_score: 8.7
 tags: 名古屋, 溫泉, 澡堂, 尾張旭, 知多半島
 license: CC BY 4.0
 ---

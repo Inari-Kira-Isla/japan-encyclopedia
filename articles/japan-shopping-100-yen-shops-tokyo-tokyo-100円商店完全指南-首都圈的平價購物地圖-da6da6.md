@@ -6,7 +6,7 @@ category: 100-yen-shops
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-100-yen-shops-tokyo-tokyo-100円商店完全指南-首都圈的平價購物地圖-da6da6.html
 published: 2026-04-03
-quality_score: 7.5
+quality_score: 8.7
 tags: 東京, 100円商店, 日本購物, 新宿, 秋葉原
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: nature-trails
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-kobe-神戶防災教育步道-從大地震復興看見的綠色韌性-6aeee4.html
 published: 2026-04-04
-quality_score: 6.5
+quality_score: 8.7
 tags: 防災教育, 城市復興, 阪神大地震, 避難步道, 神戶重建
 license: CC BY 4.0
 ---

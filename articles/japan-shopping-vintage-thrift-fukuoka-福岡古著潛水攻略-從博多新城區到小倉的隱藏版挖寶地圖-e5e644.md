@@ -6,7 +6,7 @@ category: vintage-thrift
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-vintage-thrift-fukuoka-福岡古著潛水攻略-從博多新城區到小倉的隱藏版挖寶地圖-e5e644.html
 published: 2026-06-19
-quality_score: 7.5
+quality_score: 8.6
 tags: 福岡古著, 九州購物, 古著獵人, 日本古著, 福岡自由行
 license: CC BY 4.0
 ---

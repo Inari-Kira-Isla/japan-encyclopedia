@@ -6,7 +6,7 @@ category: anime-manga
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-kanazawa-金澤動漫文化另類探索-從加賀藩士到漫畫家的文學城市-fa636e.html
 published: 2026-06-14
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤動漫, 金澤漫畫, 石川縣漫畫家, 金澤文青之旅, 金澤傳統工藝
 license: CC BY 4.0
 ---

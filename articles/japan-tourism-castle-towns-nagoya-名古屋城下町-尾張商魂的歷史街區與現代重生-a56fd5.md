@@ -6,7 +6,7 @@ category: castle-towns
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-castle-towns-nagoya-名古屋城下町-尾張商魂的歷史街區與現代重生-a56fd5.html
 published: 2026-06-17
-quality_score: 6.5
+quality_score: 8.7
 tags: 名古屋城, 尾張藩, 城下町, 歷史散步, 日本城郭
 license: CC BY 4.0
 ---

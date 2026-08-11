@@ -6,7 +6,7 @@ category: minshuku
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-osaka-大阪市民的借宿日常-在地生活感的住宿選擇-742110.html
 published: 2026-06-14
-quality_score: 6.5
+quality_score: 8.6
 tags: 大阪民宿, 大阪住宿, Minshuku, 關西住宿, 大阪自由行
 license: CC BY 4.0
 ---

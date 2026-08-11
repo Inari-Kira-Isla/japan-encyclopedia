@@ -6,7 +6,7 @@ category: ryokan
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-hokkaido-北海道秘湯ryokan嚴選-三個遠離人潮的極致泡湯之地-b9b5ac.html
 published: 2026-05-25
-quality_score: 6.5
+quality_score: 8.3
 tags: 北海道秘汤, Ryokan推荐, 支笏湖, 积丹半岛, 秘汤温泉
 license: CC BY 4.0
 ---

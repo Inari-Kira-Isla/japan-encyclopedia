@@ -6,7 +6,7 @@ category: ski-resorts
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-ski-resorts-hokkaido-北海道的-城堡城鎮-明治開拓時代的城下町風情-579b4c.html
 published: 2026-06-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道, 城下町, 歷史小鎮, 明治時代, 開拓
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: cycling
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-okinawa-沖繩單車漫遊-亞熱帶島嶼的日常詩意-bd318e.html
 published: 2026-06-29
-quality_score: 7.5
+quality_score: 8.8
 tags: 沖繩單車, 沖繩 Cycling, 沖繩自由行, 沖繩小旅行, 亞熱帶單車
 license: CC BY 4.0
 ---

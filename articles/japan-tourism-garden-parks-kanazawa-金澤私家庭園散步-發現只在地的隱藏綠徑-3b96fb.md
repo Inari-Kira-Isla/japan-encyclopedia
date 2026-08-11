@@ -6,7 +6,7 @@ category: garden-parks
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-kanazawa-金澤私家庭園散步-發現只在地的隱藏綠徑-3b96fb.html
 published: 2026-06-17
-quality_score: 6.5
+quality_score: 8.9
 tags: 金澤, 私家庭園, 武家文化, 加賀百萬石, 在地秘境
 license: CC BY 4.0
 ---

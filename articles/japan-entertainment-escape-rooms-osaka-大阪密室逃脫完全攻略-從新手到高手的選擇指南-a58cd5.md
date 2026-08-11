@@ -6,7 +6,7 @@ category: escape-rooms
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-escape-rooms-osaka-大阪密室逃脫完全攻略-從新手到高手的選擇指南-a58cd5.html
 published: 2026-06-03
-quality_score: 5.5
+quality_score: 8.0
 tags: 大阪密室逃脫, 大阪室內活動, 大阪娛樂推薦, 關西密室
 license: CC BY 4.0
 ---

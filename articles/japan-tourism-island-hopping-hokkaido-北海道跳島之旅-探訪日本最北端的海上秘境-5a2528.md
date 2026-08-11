@@ -6,7 +6,7 @@ category: island-hopping
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-island-hopping-hokkaido-北海道跳島之旅-探訪日本最北端的海上秘境-5a2528.html
 published: 2026-06-18
-quality_score: 6.5
+quality_score: 8.5
 tags: 北海道跳島, 利李小島, 禮文島, 鄂霍茨克海, 日本最北端島嶼
 license: CC BY 4.0
 ---

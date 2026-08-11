@@ -6,7 +6,7 @@ category: tempura
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tempura-nara-奈良天婦羅-關西食材產地的酥脆風景-d955ad.html
 published: 2026-06-27
-quality_score: 6.5
+quality_score: 8.7
 tags: 奈良美食, 關西天婦羅, 日本炸物, 地産地消, 奈良旅遊
 license: CC BY 4.0
 ---

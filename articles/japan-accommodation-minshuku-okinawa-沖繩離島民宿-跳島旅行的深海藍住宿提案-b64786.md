@@ -6,7 +6,7 @@ category: minshuku
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-okinawa-沖繩離島民宿-跳島旅行的深海藍住宿提案-b64786.html
 published: 2026-07-02
-quality_score: 6.5
+quality_score: 8.7
 tags: 沖繩民宿, 跳島旅行, 渡嘉敷島, 座間味島, 石垣島
 license: CC BY 4.0
 ---

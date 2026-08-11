@@ -6,7 +6,7 @@ category: metro-systems
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-fukuoka-福岡地下鐵-城市動脈與日常節奏-07a686.html
 published: 2026-03-24
-quality_score: 7.5
+quality_score: 8.6
 tags: 福岡, 地下鐵, 九州交通, 城市規劃, 日本公共運輸
 license: CC BY 4.0
 ---

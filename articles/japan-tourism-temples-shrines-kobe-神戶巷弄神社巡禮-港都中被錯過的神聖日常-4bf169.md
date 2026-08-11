@@ -6,7 +6,7 @@ category: temples-shrines
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-temples-shrines-kobe-神戶巷弄神社巡禮-港都中被錯過的神聖日常-4bf169.html
 published: 2026-05-24
-quality_score: 6.5
+quality_score: 8.6
 tags: 神戶神社, 神戶寺院, 巷弄參拜, 非觀光區, 關西信仰
 license: CC BY 4.0
 ---

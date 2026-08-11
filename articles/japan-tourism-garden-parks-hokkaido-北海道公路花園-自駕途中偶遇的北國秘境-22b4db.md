@@ -6,7 +6,7 @@ category: garden-parks
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-hokkaido-北海道公路花園-自駕途中偶遇的北國秘境-22b4db.html
 published: 2026-07-02
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道, 自駕旅行, 公路花園, 日本花園, 北國旅遊
 license: CC BY 4.0
 ---

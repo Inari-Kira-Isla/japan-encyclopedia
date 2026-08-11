@@ -6,7 +6,7 @@ category: yakitori
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-yakitori-osaka-大阪燒鳥-關西醬-流派與巷弄酒場的深夜食堂-1d1ecc.html
 published: 2026-07-02
-quality_score: 6.5
+quality_score: 8.6
 tags: 大阪燒鳥, 關西醬汁, 日本串燒, 大阪美食, 深夜食堂
 license: CC BY 4.0
 ---

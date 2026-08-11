@@ -6,7 +6,7 @@ category: department-stores
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-department-stores-nagoya-名古屋購物指南-工業城市的人情味百貨-33ac56.html
 published: 2026-06-30
-quality_score: 7.5
+quality_score: 8.8
 tags: 名古屋購物, 日本中部, 百貨公司, 榮商圈, 名古屋站
 license: CC BY 4.0
 ---

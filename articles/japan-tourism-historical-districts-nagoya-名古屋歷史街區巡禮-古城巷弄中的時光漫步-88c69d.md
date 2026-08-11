@@ -6,7 +6,7 @@ category: historical-districts
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-nagoya-名古屋歷史街區巡禮-古城巷弄中的時光漫步-88c69d.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 8.7
 tags: 名古屋, 歷史街區, 城下町, 大須觀音, 白鳥園
 license: CC BY 4.0
 ---

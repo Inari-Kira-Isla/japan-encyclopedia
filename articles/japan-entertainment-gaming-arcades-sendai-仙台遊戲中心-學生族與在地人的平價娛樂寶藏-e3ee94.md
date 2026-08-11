@@ -6,7 +6,7 @@ category: gaming-arcades
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-gaming-arcades-sendai-仙台遊戲中心-學生族與在地人的平價娛樂寶藏-e3ee94.html
 published: 2026-06-13
-quality_score: 6.5
+quality_score: 8.6
 tags: 仙台, 遊戲中心, 街機, 東北, 日本娛樂
 license: CC BY 4.0
 ---

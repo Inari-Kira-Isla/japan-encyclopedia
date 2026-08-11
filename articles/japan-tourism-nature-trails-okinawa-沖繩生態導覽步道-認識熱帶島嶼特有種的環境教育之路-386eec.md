@@ -6,7 +6,7 @@ category: nature-trails
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-okinawa-沖繩生態導覽步道-認識熱帶島嶼特有種的環境教育之路-386eec.html
 published: 2026-06-27
-quality_score: 6.5
+quality_score: 8.5
 tags: 沖繩自然步道, 生態導覽, 亞熱帶生態, 沖繩特有種, 環境教育
 license: CC BY 4.0
 ---

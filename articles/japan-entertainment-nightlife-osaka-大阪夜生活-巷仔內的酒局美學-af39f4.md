@@ -6,7 +6,7 @@ category: nightlife
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-osaka-大阪夜生活-巷仔內的酒局美學-af39f4.html
 published: 2026-07-02
-quality_score: 6.5
+quality_score: 8.8
 tags: 大阪夜生活, 大阪美食, 大阪酒吧, 關西夜生活, 日本夜生活
 license: CC BY 4.0
 ---

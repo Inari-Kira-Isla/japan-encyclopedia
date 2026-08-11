@@ -6,7 +6,7 @@ category: cycling
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-hokkaido-北海道冬季單車-雪國騎行的極致挑戰與溫泉療癒-6d3a10.html
 published: 2026-06-29
-quality_score: 7.5
+quality_score: 8.5
 tags: 北海道單車, 冬季騎行, 溫泉之旅, 雪國體驗, 日本單車旅遊
 license: CC BY 4.0
 ---

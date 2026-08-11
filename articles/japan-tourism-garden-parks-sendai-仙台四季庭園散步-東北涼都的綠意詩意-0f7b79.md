@@ -6,7 +6,7 @@ category: garden-parks
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-sendai-仙台四季庭園散步-東北涼都的綠意詩意-0f7b79.html
 published: 2026-06-27
-quality_score: 6.5
+quality_score: 8.7
 tags: 仙台庭園, 東北旅行, 日本公園, 自然旅遊, 春季賞櫻
 license: CC BY 4.0
 ---

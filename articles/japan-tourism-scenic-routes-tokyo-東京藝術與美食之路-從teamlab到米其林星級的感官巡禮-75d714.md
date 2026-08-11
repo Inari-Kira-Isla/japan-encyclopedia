@@ -6,7 +6,7 @@ category: scenic-routes
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-tokyo-東京藝術與美食之路-從teamlab到米其林星級的感官巡禮-75d714.html
 published: 2026-06-28
-quality_score: 6.5
+quality_score: 8.5
 tags: 東京藝術, 東京美食, teamLab, 森美術館, 六本木
 license: CC BY 4.0
 ---

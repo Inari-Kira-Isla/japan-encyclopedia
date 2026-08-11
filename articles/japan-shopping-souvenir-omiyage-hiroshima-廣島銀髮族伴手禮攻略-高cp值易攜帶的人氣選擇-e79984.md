@@ -6,7 +6,7 @@ category: souvenir-omiyage
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-souvenir-omiyage-hiroshima-廣島銀髮族伴手禮攻略-高cp值易攜帶的人氣選擇-e79984.html
 published: 2026-06-19
-quality_score: 7.5
+quality_score: 8.5
 tags: 廣島伴手禮, 廣島自由行, 銀髮族旅遊, 楓葉饅頭, 宮島特產
 license: CC BY 4.0
 ---

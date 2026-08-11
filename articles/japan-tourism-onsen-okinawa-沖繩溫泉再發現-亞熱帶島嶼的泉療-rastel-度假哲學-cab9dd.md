@@ -6,7 +6,7 @@ category: onsen
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-onsen-okinawa-沖繩溫泉再發現-亞熱帶島嶼的泉療-rastel-度假哲學-cab9dd.html
 published: 2026-04-06
-quality_score: 6.5
+quality_score: 8.7
 tags: 沖繩溫泉, 恩納村溫泉, 亞熱帶溫泉, 沖繩spa, 久米島溫泉
 license: CC BY 4.0
 ---

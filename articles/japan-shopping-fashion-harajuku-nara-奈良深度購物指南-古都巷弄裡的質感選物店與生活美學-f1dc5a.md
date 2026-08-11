@@ -6,7 +6,7 @@ category: fashion-harajuku
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-fashion-harajuku-nara-奈良深度購物指南-古都巷弄裡的質感選物店與生活美學-f1dc5a.html
 published: 2026-05-20
-quality_score: 7.5
+quality_score: 8.7
 tags: 奈良購物, 古都選物, 日本生活雜貨, 奈良町, 慢時尚
 license: CC BY 4.0
 ---

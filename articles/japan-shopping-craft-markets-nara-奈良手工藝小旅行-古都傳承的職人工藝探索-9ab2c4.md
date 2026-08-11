@@ -6,7 +6,7 @@ category: craft-markets
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-craft-markets-nara-奈良手工藝小旅行-古都傳承的職人工藝探索-9ab2c4.html
 published: 2026-06-11
-quality_score: 7.5
+quality_score: 8.5
 tags: 奈良工藝, 日本手作, 奈良人形, 漆器, 職人工房
 license: CC BY 4.0
 ---

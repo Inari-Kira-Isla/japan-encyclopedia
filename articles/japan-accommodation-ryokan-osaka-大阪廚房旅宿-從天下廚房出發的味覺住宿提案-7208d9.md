@@ -6,7 +6,7 @@ category: ryokan
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-osaka-大阪廚房旅宿-從天下廚房出發的味覺住宿提案-7208d9.html
 published: 2026-06-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪, Ryokan, 傳統旅馆, 關西住宿, 天下の廚房
 license: CC BY 4.0
 ---

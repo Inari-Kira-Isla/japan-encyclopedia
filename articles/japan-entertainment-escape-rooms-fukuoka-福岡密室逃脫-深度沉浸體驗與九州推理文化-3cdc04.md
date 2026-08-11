@@ -6,7 +6,7 @@ category: escape-rooms
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-escape-rooms-fukuoka-福岡密室逃脫-深度沉浸體驗與九州推理文化-3cdc04.html
 published: 2026-06-09
-quality_score: 6.5
+quality_score: 8.4
 tags: 福岡密室逃脫, 九州推理, 博多推理, 福岡體驗, 日本密室
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: yakitori
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-yakitori-fukuoka-福岡燒鳥-九州地頭雞的魅力與屋臺深夜食堂-a00539.html
 published: 2026-06-21
-quality_score: 6.5
+quality_score: 8.5
 tags: 福岡燒鳥, 屋台文化, 地頭雞, 九州美食, 博多
 license: CC BY 4.0
 ---

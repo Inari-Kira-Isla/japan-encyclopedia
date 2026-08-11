@@ -6,7 +6,7 @@ category: island-hopping
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-island-hopping-tokyo-東京跳島小旅行-遠離喧囂的海岸秘境-7d9412.html
 published: 2026-06-04
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京自由行, 東京海岸線, 跳島旅行, 神奈川, 千葉
 license: CC BY 4.0
 ---

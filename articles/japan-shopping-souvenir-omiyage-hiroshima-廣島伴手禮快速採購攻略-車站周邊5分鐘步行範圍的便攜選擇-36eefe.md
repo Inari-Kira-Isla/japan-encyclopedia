@@ -6,7 +6,7 @@ category: souvenir-omiyage
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-souvenir-omiyage-hiroshima-廣島伴手禮快速採購攻略-車站周邊5分鐘步行範圍的便攜選擇-36eefe.html
 published: 2026-06-28
-quality_score: 7.5
+quality_score: 8.8
 tags: 廣島伴手禮, 廣島必買, 車站購物, 便攜伴手禮, 日本伴手禮
 license: CC BY 4.0
 ---

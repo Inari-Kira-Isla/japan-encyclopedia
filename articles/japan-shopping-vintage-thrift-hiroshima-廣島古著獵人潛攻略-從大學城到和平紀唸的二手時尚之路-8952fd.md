@@ -6,7 +6,7 @@ category: vintage-thrift
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-vintage-thrift-hiroshima-廣島古著獵人潛攻略-從大學城到和平紀唸的二手時尚之路-8952fd.html
 published: 2026-06-12
-quality_score: 7.5
+quality_score: 8.8
 tags: 廣島古著, 廣島購物, 日本中古, 二手衣, 瀨戶內海
 license: CC BY 4.0
 ---

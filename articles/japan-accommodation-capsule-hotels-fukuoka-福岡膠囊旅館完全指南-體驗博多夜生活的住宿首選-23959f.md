@@ -6,7 +6,7 @@ category: capsule-hotels
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-capsule-hotels-fukuoka-福岡膠囊旅館完全指南-體驗博多夜生活的住宿首選-23959f.html
 published: 2026-06-19
-quality_score: 6.5
+quality_score: 8.7
 tags: 福岡膠囊旅館, 天神住宿, 中洲膠囊, 博多車站住宿, 日本背包旅行
 license: CC BY 4.0
 ---

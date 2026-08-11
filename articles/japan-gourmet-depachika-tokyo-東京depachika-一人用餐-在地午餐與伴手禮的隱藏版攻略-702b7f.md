@@ -6,7 +6,7 @@ category: depachika
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-depachika-tokyo-東京depachika-一人用餐-在地午餐與伴手禮的隱藏版攻略-702b7f.html
 published: 2026-06-18
-quality_score: 6.5
+quality_score: 8.6
 tags: 東京美食, Depachika, 一人用餐, 伴手禮, 上班族午餐
 license: CC BY 4.0
 ---

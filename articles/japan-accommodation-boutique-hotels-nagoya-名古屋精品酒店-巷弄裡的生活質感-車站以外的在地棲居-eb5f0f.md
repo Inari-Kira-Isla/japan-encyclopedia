@@ -6,7 +6,7 @@ category: boutique-hotels
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-nagoya-名古屋精品酒店-巷弄裡的生活質感-車站以外的在地棲居-eb5f0f.html
 published: 2026-06-10
-quality_score: 6.5
+quality_score: 8.7
 tags: 名古屋精品酒店, 名古屋住宿, 名古屋巷弄住宿, 名古屋美食住宿, 日本中部住宿
 license: CC BY 4.0
 ---

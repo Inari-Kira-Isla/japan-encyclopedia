@@ -6,7 +6,7 @@ category: udon-soba
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-udon-soba-sendai-仙台udon-soba-戰後誕生的複合麵食文化-3864f8.html
 published: 2026-06-04
-quality_score: 6.5
+quality_score: 8.8
 tags: 仙台美食, Udon-Soba, 東北料理, 戰後美食文化, 在地老店
 license: CC BY 4.0
 ---

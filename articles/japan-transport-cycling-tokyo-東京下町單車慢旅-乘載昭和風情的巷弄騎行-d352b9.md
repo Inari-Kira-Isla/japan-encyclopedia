@@ -6,7 +6,7 @@ category: cycling
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-tokyo-東京下町單車慢旅-乘載昭和風情的巷弄騎行-d352b9.html
 published: 2026-06-27
-quality_score: 7.5
+quality_score: 8.6
 tags: 東京單車, 下町漫遊, 都電荒川線, 谷中根津, 昭和風情
 license: CC BY 4.0
 ---

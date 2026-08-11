@@ -6,7 +6,7 @@ category: sushi
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sushi-tokyo-東京壽司-都會巷弄中的職人味-c335bf.html
 published: 2026-06-24
-quality_score: 6.5
+quality_score: 8.9
 tags: 東京壽司, 江戶前壽司, 壽司推薦, 東京美食, 築地
 license: CC BY 4.0
 ---

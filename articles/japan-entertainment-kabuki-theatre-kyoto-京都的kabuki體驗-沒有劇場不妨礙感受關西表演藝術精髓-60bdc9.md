@@ -6,7 +6,7 @@ category: kabuki-theatre
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-kabuki-theatre-kyoto-京都的kabuki體驗-沒有劇場不妨礙感受關西表演藝術精髓-60bdc9.html
 published: 2026-07-02
-quality_score: 6.5
+quality_score: 8.8
 tags: 京都Kabuki, 關西表演藝術, 大阪松竹座, 文樂劇場, 日本傳統戲劇
 license: CC BY 4.0
 ---

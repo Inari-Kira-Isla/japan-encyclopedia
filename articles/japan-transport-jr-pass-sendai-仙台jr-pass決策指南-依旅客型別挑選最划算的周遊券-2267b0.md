@@ -6,7 +6,7 @@ category: jr-pass
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-jr-pass-sendai-仙台jr-pass決策指南-依旅客型別挑選最划算的周遊券-2267b0.html
 published: 2026-06-10
-quality_score: 7.5
+quality_score: 8.9
 tags: JR Pass, 仙台交通, 東北鐵路, 日本自助旅行, 週遊券比較
 license: CC BY 4.0
 ---

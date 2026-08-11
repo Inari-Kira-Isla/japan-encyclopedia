@@ -6,7 +6,7 @@ category: department-stores
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-department-stores-kobe-神戶特色專門店完全攻略-小而精的港都購物天地-68e784.html
 published: 2026-05-23
-quality_score: 7.5
+quality_score: 8.7
 tags: 神戶購物, 專門店, 選品店, 港都購物, 神戶旅游
 license: CC BY 4.0
 ---

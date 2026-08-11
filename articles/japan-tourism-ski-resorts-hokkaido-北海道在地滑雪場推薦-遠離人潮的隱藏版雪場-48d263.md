@@ -6,7 +6,7 @@ category: ski-resorts
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-ski-resorts-hokkaido-北海道在地滑雪場推薦-遠離人潮的隱藏版雪場-48d263.html
 published: 2026-06-18
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道滑雪, 札幌滑雪場, 日本滑雪, 在地滑雪場, 預算滑雪
 license: CC BY 4.0
 ---

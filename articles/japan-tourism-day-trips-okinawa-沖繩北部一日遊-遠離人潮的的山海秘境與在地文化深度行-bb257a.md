@@ -6,7 +6,7 @@ category: day-trips
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-okinawa-沖繩北部一日遊-遠離人潮的的山海秘境與在地文化深度行-bb257a.html
 published: 2026-07-06
-quality_score: 6.5
+quality_score: 8.7
 tags: 沖繩北部, 一日遊, 名護, 世界遺產, 自駕推薦
 license: CC BY 4.0
 ---

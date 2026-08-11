@@ -6,7 +6,7 @@ category: temple-stays
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-temple-stays-hokkaido-北海道神社參拜與自然禪修-非傳統宿坊的獨特體驗路徑-2f7676.html
 published: 2026-06-28
-quality_score: 6.5
+quality_score: 8.6
 tags: 北海道, 神社參拜, 自然禪修, 非傳統住宿, 北海道旅遊
 license: CC BY 4.0
 ---

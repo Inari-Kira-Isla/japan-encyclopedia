@@ -6,7 +6,7 @@ category: electronics
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-electronics-tokyo-東京電子產品購物指南-秋葉原以外的人氣商圈與電子街-b88193.html
 published: 2026-05-23
-quality_score: 7.5
+quality_score: 8.7
 tags: 東京電子產品, 東京購物, 秋葉原替代方案, 日本電器購買指南
 license: CC BY 4.0
 ---

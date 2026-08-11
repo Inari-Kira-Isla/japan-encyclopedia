@@ -6,7 +6,7 @@ category: temple-stays
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-temple-stays-tokyo-東京寺廟住宿體驗-從淺草到高尾山的關東修行指南-09185a.html
 published: 2026-06-22
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京寺廟住宿, 淺草寺, 高尾山藥王院, 川崎大師, 關東修行
 license: CC BY 4.0
 ---

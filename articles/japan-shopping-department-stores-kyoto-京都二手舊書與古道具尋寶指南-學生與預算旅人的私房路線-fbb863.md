@@ -6,7 +6,7 @@ category: department-stores
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-department-stores-kyoto-京都二手舊書與古道具尋寶指南-學生與預算旅人的私房路線-fbb863.html
 published: 2026-06-02
-quality_score: 7.5
+quality_score: 8.7
 tags: 京都購物, 二手商店, 古道具, 舊書, 學生商圈
 license: CC BY 4.0
 ---

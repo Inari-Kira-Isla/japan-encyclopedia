@@ -6,7 +6,7 @@ category: gaming-arcades
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-gaming-arcades-hokkaido-北海道遊戲中心-雪國冬日室內娛樂完全指南-3f5f58-1780761504.html
 published: 2026-06-06
-quality_score: 6.5
+quality_score: 8.3
 tags: 北海道遊戲中心, 北海道娛樂, 札幌遊戲中心, 日本街機, 冬季室內活動
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: historical-districts
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-nagoya-名古屋歷史街區-走進日本戰國名城的時空隧道-2f2590.html
 published: 2026-04-07
-quality_score: 6.5
+quality_score: 8.7
 tags: 名古屋, 歷史街區, 城下町, 織田信長, 名古屋城
 license: CC BY 4.0
 ---

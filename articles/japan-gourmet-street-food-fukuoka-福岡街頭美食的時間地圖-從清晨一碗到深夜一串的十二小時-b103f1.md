@@ -6,7 +6,7 @@ category: street-food
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-street-food-fukuoka-福岡街頭美食的時間地圖-從清晨一碗到深夜一串的十二小時-b103f1.html
 published: 2026-06-21
-quality_score: 6.5
+quality_score: 8.5
 tags: 福岡, 街頭美食, 拉麵, 屋台, 關東煮
 license: CC BY 4.0
 ---

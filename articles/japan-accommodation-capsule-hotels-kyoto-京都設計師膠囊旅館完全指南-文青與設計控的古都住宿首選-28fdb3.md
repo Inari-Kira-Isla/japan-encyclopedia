@@ -6,7 +6,7 @@ category: capsule-hotels
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-capsule-hotels-kyoto-京都設計師膠囊旅館完全指南-文青與設計控的古都住宿首選-28fdb3.html
 published: 2026-06-05
-quality_score: 6.5
+quality_score: 8.6
 tags: 京都膠囊旅館, 設計師膠囊, 京都住宿推薦, 文青住宿, 京都自由行
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: onsen
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-onsen-kyoto-京都溫泉與錢湯-古都療癒的兩種路徑-589057.html
 published: 2026-06-02
-quality_score: 6.5
+quality_score: 8.9
 tags: 京都溫泉, 京都錢鞍, 鞍馬溫泉, 京都近郊溫泉, 日本溫泉指南
 license: CC BY 4.0
 ---

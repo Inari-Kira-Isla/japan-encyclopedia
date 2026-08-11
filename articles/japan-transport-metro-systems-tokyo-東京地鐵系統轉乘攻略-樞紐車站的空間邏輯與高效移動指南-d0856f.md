@@ -6,7 +6,7 @@ category: metro-systems
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-tokyo-東京地鐵系統轉乘攻略-樞紐車站的空間邏輯與高效移動指南-d0856f.html
 published: 2026-06-28
-quality_score: 7.5
+quality_score: 8.6
 tags: 東京地鐵, 東京Metro, 都營地下鐵, 轉乘攻略, 新宿站
 license: CC BY 4.0
 ---

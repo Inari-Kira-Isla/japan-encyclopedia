@@ -6,7 +6,7 @@ category: business-hotels
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-business-hotels-fukuoka-福岡商務酒店-九州門戶的高效住宿策略-ce25df.html
 published: 2026-03-26
-quality_score: 6.5
+quality_score: 8.7
 tags: 福岡商務酒店, 九州出差住宿, 博多天神商務
 license: CC BY 4.0
 ---

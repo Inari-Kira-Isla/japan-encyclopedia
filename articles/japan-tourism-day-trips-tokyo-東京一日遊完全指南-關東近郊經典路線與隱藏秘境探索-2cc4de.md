@@ -6,7 +6,7 @@ category: day-trips
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-tokyo-東京一日遊完全指南-關東近郊經典路線與隱藏秘境探索-2cc4de.html
 published: 2026-03-30
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京一日遊, 關東近郊, 川越小江戶, 橫濱, 鐮倉
 license: CC BY 4.0
 ---

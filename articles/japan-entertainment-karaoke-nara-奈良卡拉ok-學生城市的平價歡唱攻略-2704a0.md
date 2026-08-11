@@ -6,7 +6,7 @@ category: karaoke
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-karaoke-nara-奈良卡拉ok-學生城市的平價歡唱攻略-2704a0.html
 published: 2026-07-04
-quality_score: 6.5
+quality_score: 8.9
 tags: 奈良卡拉OK, 關西夜生活, 日本自助旅行, 平價娛樂, 學生文化
 license: CC BY 4.0
 ---

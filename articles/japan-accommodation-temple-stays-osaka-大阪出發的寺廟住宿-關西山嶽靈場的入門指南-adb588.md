@@ -6,7 +6,7 @@ category: temple-stays
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-temple-stays-osaka-大阪出發的寺廟住宿-關西山嶽靈場的入門指南-adb588.html
 published: 2026-06-22
-quality_score: 6.5
+quality_score: 8.5
 tags: 大阪寺廟住宿, 高野山, 熊野古道, 比叡山, 關西靈場
 license: CC BY 4.0
 ---

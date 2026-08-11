@@ -6,7 +6,7 @@ category: temple-stays
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-temple-stays-fukuoka-福岡商務禪修-為奔波旅人設計的寺院中繼體驗-d09e74.html
 published: 2026-06-23
-quality_score: 6.5
+quality_score: 8.5
 tags: 福岡寺院住宿, 九州宿坊體驗, 商務旅客, 太宰府, 柳川
 license: CC BY 4.0
 ---

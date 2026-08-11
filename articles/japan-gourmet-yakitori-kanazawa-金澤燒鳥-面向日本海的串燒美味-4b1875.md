@@ -6,7 +6,7 @@ category: yakitori
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-yakitori-kanazawa-金澤燒鳥-面向日本海的串燒美味-4b1875.html
 published: 2026-06-08
-quality_score: 6.5
+quality_score: 8.8
 tags: 金澤燒鳥, 金澤美食, 石川縣, 日本海海鮮, 能登半島
 license: CC BY 4.0
 ---

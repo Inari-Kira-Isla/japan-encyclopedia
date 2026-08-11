@@ -6,7 +6,7 @@ category: jr-pass
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-jr-pass-okinawa-okinawa的jr-pass-先別急-沖繩交通真相與替代方案-f6dd9c.html
 published: 2026-05-25
-quality_score: 7.5
+quality_score: 8.6
 tags: 沖繩交通, JR Pass, Yui Rail, 單軌電車, 那霸自由行
 license: CC BY 4.0
 ---

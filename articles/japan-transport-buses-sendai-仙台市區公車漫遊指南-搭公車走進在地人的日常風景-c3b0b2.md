@@ -6,7 +6,7 @@ category: buses
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-buses-sendai-仙台市區公車漫遊指南-搭公車走進在地人的日常風景-c3b0b2.html
 published: 2026-07-06
-quality_score: 7.5
+quality_score: 8.5
 tags: 仙台公車, 東北交通, 日本自助旅行, 仙台旅遊, 在地體驗
 license: CC BY 4.0
 ---

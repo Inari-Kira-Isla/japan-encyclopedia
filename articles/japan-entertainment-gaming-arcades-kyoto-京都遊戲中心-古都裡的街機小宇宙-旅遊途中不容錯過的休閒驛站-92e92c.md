@@ -6,7 +6,7 @@ category: gaming-arcades
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-gaming-arcades-kyoto-京都遊戲中心-古都裡的街機小宇宙-旅遊途中不容錯過的休閒驛站-92e92c.html
 published: 2026-06-24
-quality_score: 6.5
+quality_score: 8.7
 tags: 京都遊戲中心, 京都娛樂, 京都自由行, 京都親子, 關西旅遊
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: gaming-arcades
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-gaming-arcades-fukuoka-福岡遊戲中心-巷弄裡的街機暗號-564163.html
 published: 2026-06-04
-quality_score: 6.5
+quality_score: 8.7
 tags: 福岡, 遊戲中心, 街機, 博多人氣景點, 天神
 license: CC BY 4.0
 ---

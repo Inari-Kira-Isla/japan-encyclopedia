@@ -6,7 +6,7 @@ category: street-food
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-street-food-okinawa-沖繩街頭美食-黑潮與基地文化交織的深夜食堂-cd7bac.html
 published: 2026-04-04
-quality_score: 6.5
+quality_score: 8.9
 tags: 沖繩美食, 街頭小吃, 夜市文化, 琉球料理, 黑潮海鮮
 license: CC BY 4.0
 ---

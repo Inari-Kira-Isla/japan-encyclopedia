@@ -6,7 +6,7 @@ category: capsule-hotels
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-capsule-hotels-osaka-大阪膠囊旅館社交體驗指南-與世界揹包客的共享住宿冒險-01caf0.html
 published: 2026-03-21
-quality_score: 6.5
+quality_score: 8.5
 tags: 大阪膠囊旅館, 背包客住宿, 社交體驗, 長期住宿, 經濟旅館
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: minshuku
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-hokkaido-北海道民宿完全指南-遠離人潮的在地住宿體驗-8178d7.html
 published: 2026-06-02
-quality_score: 6.5
+quality_score: 8.4
 tags: 北海道民宿, 北海道住宿, 日本乡村民宿, 北海道旅行, 民宿推荐
 license: CC BY 4.0
 ---

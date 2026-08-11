@@ -6,7 +6,7 @@ category: ramen
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-ramen-osaka-大阪拉麵-天下の臺所的經濟實惠學問-8cdbf5.html
 published: 2026-05-24
-quality_score: 6.5
+quality_score: 8.8
 tags: 大阪拉麵, 大阪美食, 日本拉麵, 關西美食, 庶民美食
 license: CC BY 4.0
 ---

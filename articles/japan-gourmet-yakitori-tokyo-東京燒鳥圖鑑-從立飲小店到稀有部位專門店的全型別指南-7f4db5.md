@@ -6,7 +6,7 @@ category: yakitori
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-yakitori-tokyo-東京燒鳥圖鑑-從立飲小店到稀有部位專門店的全型別指南-7f4db5.html
 published: 2026-07-01
-quality_score: 6.5
+quality_score: 8.8
 tags: 東京燒鳥, 東京美食, Yakitori, 日本串燒, 東京夜生活
 license: CC BY 4.0
 ---

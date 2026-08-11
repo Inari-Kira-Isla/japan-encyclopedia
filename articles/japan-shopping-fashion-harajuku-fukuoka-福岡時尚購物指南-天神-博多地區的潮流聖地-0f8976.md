@@ -6,7 +6,7 @@ category: fashion-harajuku
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-fashion-harajuku-fukuoka-福岡時尚購物指南-天神-博多地區的潮流聖地-0f8976.html
 published: 2026-06-26
-quality_score: 7.5
+quality_score: 8.8
 tags: 福岡購物, 天神商圈, 潮流時尚, 九州自由行, PARCO
 license: CC BY 4.0
 ---

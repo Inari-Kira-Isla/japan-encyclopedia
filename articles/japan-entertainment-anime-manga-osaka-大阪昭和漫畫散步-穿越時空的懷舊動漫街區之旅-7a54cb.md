@@ -6,7 +6,7 @@ category: anime-manga
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-osaka-大阪昭和漫畫散步-穿越時空的懷舊動漫街區之旅-7a54cb.html
 published: 2026-06-12
-quality_score: 6.5
+quality_score: 8.5
 tags: 大阪動漫, 昭和懷舊, 漫畫店, 新世界, 背包自由行
 license: CC BY 4.0
 ---

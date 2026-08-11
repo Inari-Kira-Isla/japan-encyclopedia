@@ -6,7 +6,7 @@ category: street-food
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-street-food-okinawa-沖繩的市場清晨-島嶼街食的朝型文化-7a4baa.html
 published: 2026-06-06
-quality_score: 6.5
+quality_score: 8.7
 tags: 沖繩, 街頭美食, 朝市, 亞熱帶, 在地文化
 license: CC BY 4.0
 ---

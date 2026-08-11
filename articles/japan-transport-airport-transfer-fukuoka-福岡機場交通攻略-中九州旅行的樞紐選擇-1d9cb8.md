@@ -6,7 +6,7 @@ category: airport-transfer
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-airport-transfer-fukuoka-福岡機場交通攻略-中九州旅行的樞紐選擇-1d9cb8.html
 published: 2026-06-26
-quality_score: 7.5
+quality_score: 8.5
 tags: 福岡機場, 九州交通, 機場接送, 太宰府, 由布院
 license: CC BY 4.0
 ---

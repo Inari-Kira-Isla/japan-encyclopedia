@@ -6,7 +6,7 @@ category: ryokan
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-sendai-仙台ryokan住宿指南-作為東北探險根據地的和式慢旅-2f5805.html
 published: 2026-06-07
-quality_score: 6.5
+quality_score: 8.9
 tags: 仙台, Ryokan, 東北溫泉, 伊達政宗, 松島
 license: CC BY 4.0
 ---

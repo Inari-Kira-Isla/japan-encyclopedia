@@ -6,7 +6,7 @@ category: castle-towns
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-castle-towns-fukuoka-大阪城周邊的城下町街區-從軍事要塞到商賈重鎮的時空探索-b5943d.html
 published: 2026-06-08
-quality_score: 6.5
+quality_score: 8.6
 tags: 大阪城, 城下町, 歷史街區, 大阪旅行, 商人之城
 license: CC BY 4.0
 ---

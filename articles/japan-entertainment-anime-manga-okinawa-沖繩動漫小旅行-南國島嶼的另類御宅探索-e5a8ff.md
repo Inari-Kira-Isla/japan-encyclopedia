@@ -6,7 +6,7 @@ category: anime-manga
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-okinawa-沖繩動漫小旅行-南國島嶼的另類御宅探索-e5a8ff.html
 published: 2026-06-28
-quality_score: 6.5
+quality_score: 8.5
 tags: 沖繩動漫, 沖繩漫畫, 那霸御宅, 南國御宅, 沖繩自由行
 license: CC BY 4.0
 ---

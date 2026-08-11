@@ -6,7 +6,7 @@ category: craft-markets
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-craft-markets-osaka-大阪工藝市集進階指南-中階收藏者的挖寶秘境-e885ef.html
 published: 2026-06-02
-quality_score: 7.5
+quality_score: 8.5
 tags: 大阪工藝市集, 日本工藝之旅, 大阪購物指南, 关西手作市集, 大阪挖宝攻略
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: garden-parks
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-hokkaido-北海道療癒花園-從溫泉旅館出發的心靈復原之旅-b5a7bb.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.3
 tags: 北海道, 花園公園, 療癒旅遊, 溫泉旅館, 園藝療法
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: rental-cars
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-hiroshima-廣島租車自駕遊-從山海交界深入中國地區的秘境之路-317ef6.html
 published: 2026-07-05
-quality_score: 7.5
+quality_score: 8.6
 tags: 廣島租車, 日本中國地區自駕, 山陰山陽自駕遊, 出雲大社自駕, 鳥取砂丘自駕
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: scenic-routes
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-kanazawa-金澤光影巡禮-攝影師眼中的古都風景路線-6d5c4e.html
 published: 2026-04-06
-quality_score: 6.5
+quality_score: 8.8
 tags: 金澤攝影, 風景路線, 光影拍攝, 古城巡禮, 日本攝影
 license: CC BY 4.0
 ---

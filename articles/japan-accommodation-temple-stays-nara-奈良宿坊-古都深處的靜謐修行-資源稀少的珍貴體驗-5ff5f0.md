@@ -6,7 +6,7 @@ category: temple-stays
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-temple-stays-nara-奈良宿坊-古都深處的靜謐修行-資源稀少的珍貴體驗-5ff5f0.html
 published: 2026-07-05
-quality_score: 6.5
+quality_score: 8.5
 tags: 奈良住宿, 寺廟住宿, 宿坊體驗, 古都慢旅, 日本佛教文化
 license: CC BY 4.0
 ---

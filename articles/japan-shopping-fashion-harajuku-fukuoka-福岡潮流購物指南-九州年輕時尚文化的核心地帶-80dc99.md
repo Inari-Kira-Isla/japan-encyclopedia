@@ -6,7 +6,7 @@ category: fashion-harajuku
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-fashion-harajuku-fukuoka-福岡潮流購物指南-九州年輕時尚文化的核心地帶-80dc99.html
 published: 2026-06-03
-quality_score: 7.5
+quality_score: 8.7
 tags: 福岡購物, 潮流時尚, 天神商圈, 九州文化, 古著推薦
 license: CC BY 4.0
 ---

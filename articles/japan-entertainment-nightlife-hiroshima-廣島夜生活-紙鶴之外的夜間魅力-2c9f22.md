@@ -6,7 +6,7 @@ category: nightlife
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-hiroshima-廣島夜生活-紙鶴之外的夜間魅力-2c9f22.html
 published: 2026-06-18
-quality_score: 6.5
+quality_score: 8.7
 tags: 廣島夜生活, 和平紀念, 在地文化, 大學生居酒屋, 職棒應援
 license: CC BY 4.0
 ---

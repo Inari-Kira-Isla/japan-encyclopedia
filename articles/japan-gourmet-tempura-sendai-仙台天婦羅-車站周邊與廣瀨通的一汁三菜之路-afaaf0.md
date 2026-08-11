@@ -6,7 +6,7 @@ category: tempura
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tempura-sendai-仙台天婦羅-車站周邊與廣瀨通的一汁三菜之路-afaaf0.html
 published: 2026-05-23
-quality_score: 6.5
+quality_score: 8.9
 tags: 仙台美食, 天婦羅, 東北料理, 日本旅游, 仙台站周邊
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: souvenir-omiyage
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-souvenir-omiyage-osaka-大阪伴手禮完全攻略-章魚燒-ickel卷與必勝排隊土產的人氣法則-76b16e.html
 published: 2026-06-01
-quality_score: 7.5
+quality_score: 8.6
 tags: 大阪伴手禮, 章魚燒土產, ickel卷推薦, 大阪美食伴手禮, 道頓堀必買
 license: CC BY 4.0
 ---

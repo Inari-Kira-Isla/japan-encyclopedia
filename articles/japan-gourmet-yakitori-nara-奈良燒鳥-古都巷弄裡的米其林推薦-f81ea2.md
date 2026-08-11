@@ -6,7 +6,7 @@ category: yakitori
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-yakitori-nara-奈良燒鳥-古都巷弄裡的米其林推薦-f81ea2.html
 published: 2026-06-02
-quality_score: 6.5
+quality_score: 8.8
 tags: 奈良燒鳥, 奈良美食, 古都美食, 近鐵奈良, 日本串燒
 license: CC BY 4.0
 ---

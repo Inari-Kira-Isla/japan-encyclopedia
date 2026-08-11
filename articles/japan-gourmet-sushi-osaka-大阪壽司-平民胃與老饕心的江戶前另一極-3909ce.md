@@ -6,7 +6,7 @@ category: sushi
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sushi-osaka-大阪壽司-平民胃與老饕心的江戶前另一極-3909ce.html
 published: 2026-06-22
-quality_score: 6.5
+quality_score: 8.5
 tags: 大阪壽司, 大阪美食, 回転壽司, 關西壽司, 日本壽司
 license: CC BY 4.0
 ---

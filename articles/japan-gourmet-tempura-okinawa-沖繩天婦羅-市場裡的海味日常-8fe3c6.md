@@ -6,7 +6,7 @@ category: tempura
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tempura-okinawa-沖繩天婦羅-市場裡的海味日常-8fe3c6.html
 published: 2026-06-27
-quality_score: 6.5
+quality_score: 8.7
 tags: 沖繩天婦羅, 沖繩美食, 那霸市場, 泊港魚市場, 系滿漁港
 license: CC BY 4.0
 ---

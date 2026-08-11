@@ -6,7 +6,7 @@ category: sumo
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-fukuoka-福岡相撲深度體驗-走進力士的日常-見證九州力量的誕生-020221.html
 published: 2026-07-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 福岡相撲, 九州場所, 相撲體驗, 博多吃喝, 日本文化
 license: CC BY 4.0
 ---

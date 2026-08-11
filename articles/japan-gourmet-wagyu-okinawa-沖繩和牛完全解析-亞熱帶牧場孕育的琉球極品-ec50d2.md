@@ -6,7 +6,7 @@ category: wagyu
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-wagyu-okinawa-沖繩和牛完全解析-亞熱帶牧場孕育的琉球極品-ec50d2.html
 published: 2026-06-25
-quality_score: 6.5
+quality_score: 8.8
 tags: 沖繩和牛, 石垣牛, 琉球和牛, 日本和牛, 亞熱帶牧場
 license: CC BY 4.0
 ---

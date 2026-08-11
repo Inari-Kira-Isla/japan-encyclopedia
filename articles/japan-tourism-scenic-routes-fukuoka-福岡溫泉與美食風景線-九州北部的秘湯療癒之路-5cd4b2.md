@@ -6,7 +6,7 @@ category: scenic-routes
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-fukuoka-福岡溫泉與美食風景線-九州北部的秘湯療癒之路-5cd4b2.html
 published: 2026-07-01
-quality_score: 6.5
+quality_score: 8.9
 tags: 福岡景點, 九州自駕, 溫泉之旅, 美食風景線, 八女茶
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: historical-districts
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-hiroshima-廣島歷史街區-穿越和平與古蹟的時空漫步-02a830.html
 published: 2026-05-31
-quality_score: 6.5
+quality_score: 8.7
 tags: 廣島, 歷史街區, 和平紀念公園, 宮島, 嚴島神社
 license: CC BY 4.0
 ---

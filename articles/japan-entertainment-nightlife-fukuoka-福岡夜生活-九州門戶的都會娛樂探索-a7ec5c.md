@@ -6,7 +6,7 @@ category: nightlife
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-fukuoka-福岡夜生活-九州門戶的都會娛樂探索-a7ec5c.html
 published: 2026-05-23
-quality_score: 6.5
+quality_score: 8.7
 tags: 福岡夜生活, 九州娛樂, 天神商圈, 屋台文化, 博多
 license: CC BY 4.0
 ---

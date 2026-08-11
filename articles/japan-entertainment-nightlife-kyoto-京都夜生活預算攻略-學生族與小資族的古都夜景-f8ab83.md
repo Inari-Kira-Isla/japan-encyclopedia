@@ -6,7 +6,7 @@ category: nightlife
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-kyoto-京都夜生活預算攻略-學生族與小資族的古都夜景-f8ab83.html
 published: 2026-06-08
-quality_score: 6.5
+quality_score: 8.9
 tags: 京都夜生活, 學生族, 小資族, budget travel, 京都美食
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: udon-soba
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-udon-soba-nara-奈良烏龍麵與蕎麥麵-古都晨間的麵食風景-5edb8d.html
 published: 2026-06-21
-quality_score: 6.5
+quality_score: 8.8
 tags: 奈良美食, 烏龍麵, 蕎麥麵, 關西料理, 朝定食
 license: CC BY 4.0
 ---

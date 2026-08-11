@@ -6,7 +6,7 @@ category: ferries
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-ferries-okinawa-沖繩渡輪完全指南-海上跳島交通の実用攻略-912a1b.html
 published: 2026-05-23
-quality_score: 7.5
+quality_score: 8.2
 tags: 沖繩, 渡輪, 跳島旅行, 海上交通, 那霸港
 license: CC BY 4.0
 ---

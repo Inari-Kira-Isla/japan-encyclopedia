@@ -6,7 +6,7 @@ category: day-trips
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-nagoya-名古屋工匠文化深度一日遊-探索中部職人精神與傳統產業秘境-82c2fe.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.8
 tags: 名古屋, 工匠文化, 傳統工藝, 深度旅遊, 職人精神
 license: CC BY 4.0
 ---

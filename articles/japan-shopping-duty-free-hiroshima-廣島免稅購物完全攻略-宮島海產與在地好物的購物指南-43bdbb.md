@@ -6,7 +6,7 @@ category: duty-free
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-duty-free-hiroshima-廣島免稅購物完全攻略-宮島海產與在地好物的購物指南-43bdbb.html
 published: 2026-06-08
-quality_score: 7.5
+quality_score: 8.3
 tags: 廣島免稅, 宮島購物, 廣島伴手禮, 廣島機場免稅, 日本退稅指南
 license: CC BY 4.0
 ---

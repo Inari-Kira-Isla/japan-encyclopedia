@@ -6,7 +6,7 @@ category: karaoke
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-karaoke-sendai-仙台卡拉ok-巷弄深處的音量美學-902805.html
 published: 2026-05-24
-quality_score: 6.5
+quality_score: 8.7
 tags: 仙台卡拉OK, 東北卡拉OK, 仙台夜生活, 廣瀨通卡拉OK, 國分町卡拉OK
 license: CC BY 4.0
 ---

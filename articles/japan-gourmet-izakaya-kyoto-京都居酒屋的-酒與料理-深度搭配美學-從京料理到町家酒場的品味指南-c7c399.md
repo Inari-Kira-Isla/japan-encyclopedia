@@ -6,7 +6,7 @@ category: izakaya
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-izakaya-kyoto-京都居酒屋的-酒與料理-深度搭配美學-從京料理到町家酒場的品味指南-c7c399.html
 published: 2026-06-29
-quality_score: 6.5
+quality_score: 8.6
 tags: 京都居酒屋, 京料理, 町家酒場, 京都美食, 日本清酒
 license: CC BY 4.0
 ---

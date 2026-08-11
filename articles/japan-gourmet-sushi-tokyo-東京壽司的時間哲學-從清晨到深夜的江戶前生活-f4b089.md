@@ -6,7 +6,7 @@ category: sushi
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sushi-tokyo-東京壽司的時間哲學-從清晨到深夜的江戶前生活-f4b089.html
 published: 2026-07-04
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京壽司, 江戶前壽司, 日本美食, 壽司文化, 東京美食
 license: CC BY 4.0
 ---

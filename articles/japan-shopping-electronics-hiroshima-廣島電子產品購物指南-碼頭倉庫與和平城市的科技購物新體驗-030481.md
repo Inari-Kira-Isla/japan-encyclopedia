@@ -6,7 +6,7 @@ category: electronics
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-electronics-hiroshima-廣島電子產品購物指南-碼頭倉庫與和平城市的科技購物新體驗-030481.html
 published: 2026-06-17
-quality_score: 7.5
+quality_score: 8.6
 tags: 廣島電子產品, 廣島購物, 碼頭倉庫, 和平城市, 船用電子設備
 license: CC BY 4.0
 ---

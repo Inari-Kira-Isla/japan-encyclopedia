@@ -6,7 +6,7 @@ category: ryokan
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-nagoya-名古屋商務出差族必讀-都會型溫泉旅館的究極選擇-aeedad.html
 published: 2026-06-04
-quality_score: 6.5
+quality_score: 8.8
 tags: 名古屋, Ryokan, 溫泉, 商務住宿, 中部地方
 license: CC BY 4.0
 ---

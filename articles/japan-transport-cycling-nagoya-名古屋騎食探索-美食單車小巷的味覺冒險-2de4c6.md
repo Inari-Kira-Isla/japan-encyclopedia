@@ -6,7 +6,7 @@ category: cycling
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-nagoya-名古屋騎食探索-美食單車小巷的味覺冒險-2de4c6.html
 published: 2026-06-22
-quality_score: 7.5
+quality_score: 8.4
 tags: 名古屋單車, 美食之旅, 名古屋美食, 騎食探索, 中部自由行
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: street-food
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-street-food-hiroshima-廣島街頭美食-戰後重建的味覺記憶-56fae0.html
 published: 2026-03-27
-quality_score: 6.5
+quality_score: 8.9
 tags: 廣島美食, 街頭小吃, 戰後重建, 牡蠣料理, 御好燒
 license: CC BY 4.0
 ---

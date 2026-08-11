@@ -6,7 +6,7 @@ category: souvenir-omiyage
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-souvenir-omiyage-okinawa-沖繩工藝散步-隱藏在海岸線的手作好物與職人店鋪-b9fc4b.html
 published: 2026-06-03
-quality_score: 7.5
+quality_score: 8.4
 tags: 沖繩工藝, 讀谷村, 恩納村, 津堅島, 手作伴手禮
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: craft-markets
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-craft-markets-okinawa-沖繩晨間市集完全攻略-在地人的手作尋寶地圖-d46f8f.html
 published: 2026-06-07
-quality_score: 7.5
+quality_score: 8.7
 tags: 沖繩工藝市集, 沖繩手作, 琉球工藝, 晨間市集, 日本市集
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: nature-trails
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-tokyo-東京晨間自然步道-日出時刻的健康慢跑美學-fb3ded.html
 published: 2026-06-04
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京的自然步道, 晨間跑步,  Tokyo Running Trail, 健康旅遊,  Japan Active Travel
 license: CC BY 4.0
 ---

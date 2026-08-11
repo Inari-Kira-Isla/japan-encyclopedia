@@ -6,7 +6,7 @@ category: vintage-thrift
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-vintage-thrift-osaka-大阪天王寺-阿倍野古著散步-天王寺周邊的平價復古寶藏-00269b.html
 published: 2026-06-20
-quality_score: 7.5
+quality_score: 8.6
 tags: 大阪古著, 天王寺阿倍野, 日本古著店, 復古時尚, 平價購物
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: nature-trails
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-nara-奈良自然步道四季指南-從吉野櫻到奈良公園的秋日私語-1f9bca.html
 published: 2026-06-12
-quality_score: 6.5
+quality_score: 8.7
 tags: 奈良自然步道, 吉野山賞櫻, 秋季楓紅, 日本古都生態, 奈良戶外健行
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: cycling
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-kobe-神戶單車騎遊-山海挑戰與港都風情的深度探索-eec07f.html
 published: 2026-06-22
-quality_score: 7.5
+quality_score: 8.5
 tags: 神戶單車, 神戶推薦路線, 六甲山單車, 有馬溫泉單車, 神戶港灣
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: nature-trails
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-hokkaido-北海道自然步道鐵路交通指南-沒有自駕也能抵達的秘境之路-be93d5.html
 published: 2026-06-16
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道, 自然步道, 鐵路交通, 秘境, 大雪山
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: shinkansen
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-kobe-神戶必讀-新神戶站進出全攻略-關西自由行的效率之選-97a08b.html
 published: 2026-06-15
-quality_score: 7.5
+quality_score: 8.7
 tags: 神戶交通, 新神戶站, 關西自由行, Sanyo Shinkansen, 神戶景點
 license: CC BY 4.0
 ---

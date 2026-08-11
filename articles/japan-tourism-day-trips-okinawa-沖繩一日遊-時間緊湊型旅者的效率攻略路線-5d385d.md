@@ -6,7 +6,7 @@ category: day-trips
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-okinawa-沖繩一日遊-時間緊湊型旅者的效率攻略路線-5d385d.html
 published: 2026-06-21
-quality_score: 6.5
+quality_score: 8.6
 tags: 沖繩一日遊, 那霸出發, 時間緊湊行程, 琉球王國, 美國村
 license: CC BY 4.0
 ---

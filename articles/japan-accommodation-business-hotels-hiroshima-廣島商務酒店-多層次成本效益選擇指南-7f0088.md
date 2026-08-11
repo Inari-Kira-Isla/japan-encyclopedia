@@ -6,7 +6,7 @@ category: business-hotels
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-business-hotels-hiroshima-廣島商務酒店-多層次成本效益選擇指南-7f0088.html
 published: 2026-03-22
-quality_score: 6.5
+quality_score: 8.5
 tags: 廣島, 商務酒店, 成本效益, 出差住宿, 長住選項
 license: CC BY 4.0
 ---

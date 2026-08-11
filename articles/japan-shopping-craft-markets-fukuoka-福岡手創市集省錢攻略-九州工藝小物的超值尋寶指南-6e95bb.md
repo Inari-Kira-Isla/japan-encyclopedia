@@ -6,7 +6,7 @@ category: craft-markets
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-craft-markets-fukuoka-福岡手創市集省錢攻略-九州工藝小物的超值尋寶指南-6e95bb.html
 published: 2026-06-05
-quality_score: 7.5
+quality_score: 8.9
 tags: 福岡, 手作市集, 九州工藝, 省錢攻略, 博多
 license: CC BY 4.0
 ---

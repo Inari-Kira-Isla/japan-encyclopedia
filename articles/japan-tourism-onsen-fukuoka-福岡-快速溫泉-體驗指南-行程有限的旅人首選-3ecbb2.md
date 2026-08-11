@@ -6,7 +6,7 @@ category: onsen
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-onsen-fukuoka-福岡-快速溫泉-體驗指南-行程有限的旅人首選-3ecbb2.html
 published: 2026-06-19
-quality_score: 6.5
+quality_score: 8.7
 tags: 福岡溫泉, 日帰溫泉, 九州溫泉, 博多溫泉, 快速溫泉
 license: CC BY 4.0
 ---

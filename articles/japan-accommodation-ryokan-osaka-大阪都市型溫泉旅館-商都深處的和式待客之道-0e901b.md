@@ -6,7 +6,7 @@ category: ryokan
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-osaka-大阪都市型溫泉旅館-商都深處的和式待客之道-0e901b.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 8.8
 tags: 大阪溫泉住宿, 都市型Ryokan, 大阪旅行, 關西住宿推薦, 溫泉商務飯店
 license: CC BY 4.0
 ---

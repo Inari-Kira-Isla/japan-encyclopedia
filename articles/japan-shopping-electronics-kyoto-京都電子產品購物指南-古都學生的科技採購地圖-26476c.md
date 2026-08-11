@@ -6,7 +6,7 @@ category: electronics
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-electronics-kyoto-京都電子產品購物指南-古都學生的科技採購地圖-26476c.html
 published: 2026-05-31
-quality_score: 7.5
+quality_score: 8.7
 tags: 京都電子產品, 京都購物, 京都動漫, 學生電子, 日本電器行
 license: CC BY 4.0
 ---

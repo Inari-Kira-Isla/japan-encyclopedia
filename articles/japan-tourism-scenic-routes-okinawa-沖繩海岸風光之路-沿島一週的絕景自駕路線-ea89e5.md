@@ -6,7 +6,7 @@ category: scenic-routes
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-okinawa-沖繩海岸風光之路-沿島一週的絕景自駕路線-ea89e5.html
 published: 2026-03-29
-quality_score: 6.5
+quality_score: 8.6
 tags: 沖繩自駕, 風景道路, 海岸線, 跳島旅行, Scenic Routes
 license: CC BY 4.0
 ---

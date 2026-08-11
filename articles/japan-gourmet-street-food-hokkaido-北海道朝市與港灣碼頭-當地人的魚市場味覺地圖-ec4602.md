@@ -6,7 +6,7 @@ category: street-food
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-street-food-hokkaido-北海道朝市與港灣碼頭-當地人的魚市場味覺地圖-ec4602.html
 published: 2026-06-02
-quality_score: 6.5
+quality_score: 8.6
 tags: 北海道, 朝市, 港灣碼頭, 水產直売, 酪農direct
 license: CC BY 4.0
 ---

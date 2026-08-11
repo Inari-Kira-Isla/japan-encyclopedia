@@ -6,7 +6,7 @@ category: fashion-harajuku
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-fashion-harajuku-kanazawa-金澤時尚購物指南-質感生活提案的慢購物小旅行-4143ba.html
 published: 2026-05-24
-quality_score: 7.5
+quality_score: 8.8
 tags: 金澤購物, 日本時尚, 北路小旅行, 質感選品店, 工藝之旅
 license: CC BY 4.0
 ---

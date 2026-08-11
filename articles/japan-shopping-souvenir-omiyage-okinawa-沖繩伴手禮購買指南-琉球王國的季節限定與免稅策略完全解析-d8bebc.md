@@ -6,7 +6,7 @@ category: souvenir-omiyage
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-souvenir-omiyage-okinawa-沖繩伴手禮購買指南-琉球王國的季節限定與免稅策略完全解析-d8bebc.html
 published: 2026-04-05
-quality_score: 7.5
+quality_score: 8.7
 tags: 沖繩購物, 琉球特產, 免稅攻略, 季節限定, 文化伴手禮
 license: CC BY 4.0
 ---

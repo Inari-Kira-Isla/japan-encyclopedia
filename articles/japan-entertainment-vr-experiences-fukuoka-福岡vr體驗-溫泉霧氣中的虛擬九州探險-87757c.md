@@ -6,7 +6,7 @@ category: vr-experiences
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-vr-experiences-fukuoka-福岡vr體驗-溫泉霧氣中的虛擬九州探險-87757c.html
 published: 2026-06-07
-quality_score: 6.5
+quality_score: 8.7
 tags: 福岡VR, 九州科技娛樂, 天神VR, 溫泉VR, 筑後釀酒體驗
 license: CC BY 4.0
 ---

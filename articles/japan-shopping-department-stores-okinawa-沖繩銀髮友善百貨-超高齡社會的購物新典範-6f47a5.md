@@ -6,7 +6,7 @@ category: department-stores
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-department-stores-okinawa-沖繩銀髮友善百貨-超高齡社會的購物新典範-6f47a5.html
 published: 2026-04-05
-quality_score: 7.5
+quality_score: 8.8
 tags: 沖繩百貨, 銀髮友善, 無障礙購物, 適老化服務, 慢購物
 license: CC BY 4.0
 ---

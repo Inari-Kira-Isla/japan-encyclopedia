@@ -6,7 +6,7 @@ category: garden-parks
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-osaka-大阪晨間綠地-市民日常的療癒時光-88fd99.html
 published: 2026-06-08
-quality_score: 6.5
+quality_score: 8.6
 tags: 大阪市民公園, 晨間運動, 免費景點, 關西慢遊, 在地體驗
 license: CC BY 4.0
 ---

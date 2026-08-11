@@ -6,7 +6,7 @@ category: nightlife
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-kobe-神戶夜生活-巷弄裡的在地味-1baea9.html
 published: 2026-06-07
-quality_score: 6.5
+quality_score: 8.9
 tags: 神戶夜生活, 神戶美食, 神戶居酒屋, 大阪京都近郊, 關西夜遊
 license: CC BY 4.0
 ---

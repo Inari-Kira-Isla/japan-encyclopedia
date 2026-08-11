@@ -6,7 +6,7 @@ category: garden-parks
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-fukuoka-福岡花園公園巡禮-都市中的綠意天堂-58a7f4.html
 published: 2026-03-15
-quality_score: 6.5
+quality_score: 8.7
 tags: 福岡, 花園, 公園, 九州, 自然旅遊
 license: CC BY 4.0
 ---

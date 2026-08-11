@@ -6,7 +6,7 @@ category: yakitori
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-yakitori-okinawa-沖繩燒鳥-琉球風味與本土技法的文化交融-792e39.html
 published: 2026-04-06
-quality_score: 6.5
+quality_score: 8.8
 tags: 沖繩美食, 阿古豬, 泡盛, 琉球文化, 燒鳥
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: temple-stays
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-temple-stays-kanazawa-金澤寺廟住宿與傳統文化體驗-深度文化之旅的完美起點-43bbe2.html
 published: 2026-04-04
-quality_score: 6.5
+quality_score: 8.6
 tags: 金澤寺廟住宿, 加賀文化走廊, 能登半島禪修, 金澤傳統體驗, 宿坊推薦
 license: CC BY 4.0
 ---

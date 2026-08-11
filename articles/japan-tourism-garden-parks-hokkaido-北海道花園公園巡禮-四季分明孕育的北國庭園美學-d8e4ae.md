@@ -6,7 +6,7 @@ category: garden-parks
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-hokkaido-北海道花園公園巡禮-四季分明孕育的北國庭園美學-d8e4ae.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 8.8
 tags: 北海道花園, 札幌百合が原, 大沼國家公園, 帶廣花園, 小樽朝里川
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: depachika
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-depachika-kyoto-金澤近江町市場周邊酒場-古城菜市場的深夜食堂學-22bba1.html
 published: 2026-06-09
-quality_score: 6.5
+quality_score: 8.8
 tags: 金澤居酒屋, 近江町市場, 加賀料理, 日本海海鮮, 能登清酒
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: vr-experiences
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-vr-experiences-kanazawa-kanazawa-vr-experiences-fd71c2.html
 published: 2026-03-22
-quality_score: 5.5
+quality_score: 0.0
 tags: vr-experiences, kanazawa, japan
 license: CC BY 4.0
 ---

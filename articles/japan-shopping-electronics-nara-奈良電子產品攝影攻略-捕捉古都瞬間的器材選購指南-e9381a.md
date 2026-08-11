@@ -6,7 +6,7 @@ category: electronics
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-electronics-nara-奈良電子產品攝影攻略-捕捉古都瞬間的器材選購指南-e9381a.html
 published: 2026-05-23
-quality_score: 7.5
+quality_score: 8.9
 tags: 奈良電子產品, 奈良購物, 攝影器材, 關西電子, 古都奈良
 license: CC BY 4.0
 ---

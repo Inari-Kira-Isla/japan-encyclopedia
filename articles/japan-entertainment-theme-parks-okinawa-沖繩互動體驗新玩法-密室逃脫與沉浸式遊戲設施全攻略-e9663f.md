@@ -6,7 +6,7 @@ category: theme-parks
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-theme-parks-okinawa-沖繩互動體驗新玩法-密室逃脫與沉浸式遊戲設施全攻略-e9663f.html
 published: 2026-05-22
-quality_score: 6.5
+quality_score: 8.6
 tags: 沖繩主題樂園, 密室逃脫, 互動體驗, 恩納村戶外活動, 沉浸式劇場
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: historical-districts
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-okinawa-沖繩邊緣歷史街區-面對人口流失的儲存實驗-4d7264.html
 published: 2026-06-07
-quality_score: 6.5
+quality_score: 8.6
 tags: 沖繩歷史街區, 邊緣島嶼, 活性保存, 人口減少, 渡名喜村
 license: CC BY 4.0
 ---

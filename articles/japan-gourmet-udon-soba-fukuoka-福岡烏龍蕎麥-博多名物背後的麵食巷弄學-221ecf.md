@@ -6,7 +6,7 @@ category: udon-soba
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-udon-soba-fukuoka-福岡烏龍蕎麥-博多名物背後的麵食巷弄學-221ecf.html
 published: 2026-05-22
-quality_score: 6.5
+quality_score: 8.7
 tags: 福岡美食, 烏龍麵, 蕎麥麵, 博多名物, 九州拉麵
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: day-trips
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-nagoya-名古屋美食一日遊-探索中部之都的在地好味道-95537a.html
 published: 2026-06-17
-quality_score: 6.5
+quality_score: 8.6
 tags: 名古屋美食, 名古屋一日遊, 味噌烏龍麵, 鰻魚飯, 中部地方
 license: CC BY 4.0
 ---

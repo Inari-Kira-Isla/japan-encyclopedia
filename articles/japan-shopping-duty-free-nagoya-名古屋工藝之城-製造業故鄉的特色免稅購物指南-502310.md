@@ -6,7 +6,7 @@ category: duty-free
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-duty-free-nagoya-名古屋工藝之城-製造業故鄉的特色免稅購物指南-502310.html
 published: 2026-06-07
-quality_score: 7.5
+quality_score: 8.7
 tags: 名古屋免稅, 中部國際空港, 日本製造, 工藝品, 名古屋伴手禮
 license: CC BY 4.0
 ---

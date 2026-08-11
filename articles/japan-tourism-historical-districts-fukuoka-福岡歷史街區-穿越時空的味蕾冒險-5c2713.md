@@ -6,7 +6,7 @@ category: historical-districts
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-fukuoka-福岡歷史街區-穿越時空的味蕾冒險-5c2713.html
 published: 2026-03-24
-quality_score: 6.5
+quality_score: 8.9
 tags: 福岡, 歷史街區, 神社, 寺廟, 文化遺產
 license: CC BY 4.0
 ---

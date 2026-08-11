@@ -6,7 +6,7 @@ category: sumo
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-hokkaido-北海道相撲-北國大地上的勞動者之舞-a8014c.html
 published: 2026-06-24
-quality_score: 6.5
+quality_score: 8.6
 tags: 北海道相撲, 相撲鍋, 勞動者文化, 北海道美食, 冬季運動
 license: CC BY 4.0
 ---

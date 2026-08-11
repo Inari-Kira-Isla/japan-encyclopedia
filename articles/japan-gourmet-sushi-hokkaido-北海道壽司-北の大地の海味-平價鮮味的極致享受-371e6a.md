@@ -6,7 +6,7 @@ category: sushi
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sushi-hokkaido-北海道壽司-北の大地の海味-平價鮮味的極致享受-371e6a.html
 published: 2026-05-25
-quality_score: 6.5
+quality_score: 8.6
 tags: 
 license: CC BY 4.0
 ---

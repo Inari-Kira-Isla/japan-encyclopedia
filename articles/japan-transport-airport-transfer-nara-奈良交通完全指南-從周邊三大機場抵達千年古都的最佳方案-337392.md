@@ -6,7 +6,7 @@ category: airport-transfer
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-airport-transfer-nara-奈良交通完全指南-從周邊三大機場抵達千年古都的最佳方案-337392.html
 published: 2026-07-05
-quality_score: 7.5
+quality_score: 8.6
 tags: 奈良交通, 關西機場到奈良, 奈良機場, Haruka特快, 日本古都交通
 license: CC BY 4.0
 ---

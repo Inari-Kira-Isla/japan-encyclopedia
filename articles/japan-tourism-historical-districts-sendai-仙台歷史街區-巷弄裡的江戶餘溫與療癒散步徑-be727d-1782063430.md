@@ -6,7 +6,7 @@ category: historical-districts
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-sendai-仙台歷史街區-巷弄裡的江戶餘溫與療癒散步徑-be727d-1782063430.html
 published: 2026-06-21
-quality_score: 6.5
+quality_score: 8.9
 tags: 仙台, 歷史街區, 廣瀨川, 城下町, 日本東北
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: rental-cars
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-nara-奈良租車自駕-古都停車策略與關西樞紐路線攻略-b0c88a.html
 published: 2026-03-24
-quality_score: 7.5
+quality_score: 8.4
 tags: 奈良租車, 關西自駕, 停車策略, 季節性規劃, 東大寺自駕
 license: CC BY 4.0
 ---

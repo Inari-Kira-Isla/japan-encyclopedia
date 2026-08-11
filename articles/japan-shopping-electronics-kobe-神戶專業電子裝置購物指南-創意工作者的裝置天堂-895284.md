@@ -6,7 +6,7 @@ category: electronics
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-electronics-kobe-神戶專業電子裝置購物指南-創意工作者的裝置天堂-895284.html
 published: 2026-04-04
-quality_score: 7.5
+quality_score: 8.6
 tags: 神戶購物, 專業設備, 電子器材, 音響設備, 影像器材
 license: CC BY 4.0
 ---

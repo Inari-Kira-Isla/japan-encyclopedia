@@ -6,7 +6,7 @@ category: capsule-hotels
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-capsule-hotels-hokkaido-北海道膠囊旅館完整指南-滑雪與美食旅人的實用選擇-ed11a0.html
 published: 2026-06-23
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道, 膠囊旅館, 札幌, 滑雪, 自由行
 license: CC BY 4.0
 ---

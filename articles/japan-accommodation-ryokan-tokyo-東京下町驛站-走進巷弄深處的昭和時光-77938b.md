@@ -6,7 +6,7 @@ category: ryokan
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-tokyo-東京下町驛站-走進巷弄深處的昭和時光-77938b.html
 published: 2026-07-05
-quality_score: 6.5
+quality_score: 8.5
 tags: 東京住宿, 下町文化, 傳統旅宿, 淺草住宿, 昭和風情
 license: CC BY 4.0
 ---

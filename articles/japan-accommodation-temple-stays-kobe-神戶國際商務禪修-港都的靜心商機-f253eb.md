@@ -6,7 +6,7 @@ category: temple-stays
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-temple-stays-kobe-神戶國際商務禪修-港都的靜心商機-f253eb.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.6
 tags: 神戶, 寺廟住宿, 商務禪修, 國際化體驗, 港都文化
 license: CC BY 4.0
 ---

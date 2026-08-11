@@ -6,7 +6,7 @@ category: street-food
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-street-food-tokyo-東京通勤族的駅弁宇宙-月臺之間的職場味覺-6ca93b.html
 published: 2026-06-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京, 街頭美食, 通勤文化, 駅弁, 下町
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: vr-experiences
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-vr-experiences-nara-奈良vr體驗-古都周邊的虛擬實境娛樂探索-df6611-1781266084.html
 published: 2026-06-12
-quality_score: 6.5
+quality_score: 8.7
 tags: 奈良, VR體驗, 虛擬實境, 日本娛樂, 古都旅遊
 license: CC BY 4.0
 ---

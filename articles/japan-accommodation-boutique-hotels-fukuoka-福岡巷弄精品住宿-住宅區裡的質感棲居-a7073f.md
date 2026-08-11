@@ -6,7 +6,7 @@ category: boutique-hotels
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-fukuoka-福岡巷弄精品住宿-住宅區裡的質感棲居-a7073f.html
 published: 2026-06-20
-quality_score: 6.5
+quality_score: 8.5
 tags: 福岡精品住宿, 九州自助旅行, 福岡住宅區住宿, 日本精品酒店, 福岡文化體驗
 license: CC BY 4.0
 ---

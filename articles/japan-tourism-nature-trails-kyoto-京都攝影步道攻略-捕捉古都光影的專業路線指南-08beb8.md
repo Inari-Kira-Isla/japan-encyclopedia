@@ -6,7 +6,7 @@ category: nature-trails
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-kyoto-京都攝影步道攻略-捕捉古都光影的專業路線指南-08beb8.html
 published: 2026-06-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 京都, 自然步道, 攝影, 古都, 旅遊攻略
 license: CC BY 4.0
 ---

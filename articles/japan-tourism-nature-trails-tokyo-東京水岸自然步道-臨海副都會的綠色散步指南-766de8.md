@@ -6,7 +6,7 @@ category: nature-trails
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-tokyo-東京水岸自然步道-臨海副都會的綠色散步指南-766de8.html
 published: 2026-06-03
-quality_score: 6.5
+quality_score: 8.1
 tags: 東京自然步道, 臨海步道, 水岸散步, 東京灣, 台場
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: rental-cars
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-nagoya-名古屋租車自駕攻略-從中部樞紐放射狀探索伊勢志摩-飛驒古川的超值路線-e6e788.html
 published: 2026-06-14
-quality_score: 7.5
+quality_score: 8.5
 tags: 名古屋租車, 中部國際機場, 自駕遊, 飛驒古川, 伊勢志摩
 license: CC BY 4.0
 ---

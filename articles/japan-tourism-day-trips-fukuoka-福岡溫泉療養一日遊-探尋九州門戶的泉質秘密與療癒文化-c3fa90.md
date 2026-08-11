@@ -6,7 +6,7 @@ category: day-trips
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-fukuoka-福岡溫泉療養一日遊-探尋九州門戶的泉質秘密與療癒文化-c3fa90.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.9
 tags: 福岡, 溫泉療養, 一日遊, 九州, 泉質分類
 license: CC BY 4.0
 ---

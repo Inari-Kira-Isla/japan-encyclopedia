@@ -6,7 +6,7 @@ category: ferries
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-ferries-fukuoka-福岡渡輪串聯攻略-從博多港出發的日韓中三角航線規劃-d22b32.html
 published: 2026-06-27
-quality_score: 7.5
+quality_score: 8.6
 tags: 福岡渡輪, 九州交通, 日韓交通, 博多港, 國際渡輪
 license: CC BY 4.0
 ---

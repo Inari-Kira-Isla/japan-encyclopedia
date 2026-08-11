@@ -6,7 +6,7 @@ category: ski-resorts
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-ski-resorts-kobe-神戶周邊滑雪場-關西平價滑雪可行嗎-4c0e52.html
 published: 2026-06-02
-quality_score: 6.5
+quality_score: 8.5
 tags: 
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: depachika
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-depachika-hokkaido-北海道-depachika-完全攻略-道產食材採購指南與在地人的一日三餐提案-3a886b.html
 published: 2026-03-29
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道, Depachika, 地下美食, 道產食材, 札幌
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: izakaya
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-izakaya-kanazawa-金澤居酒屋的冬日物語-從日本海岸邊的碼頭味道談起-692a28.html
 published: 2026-06-13
-quality_score: 6.5
+quality_score: 9.0
 tags: 金澤居酒屋, 日本海海鮮, 冬季美食, budget日本料理, 能登半島
 license: CC BY 4.0
 ---

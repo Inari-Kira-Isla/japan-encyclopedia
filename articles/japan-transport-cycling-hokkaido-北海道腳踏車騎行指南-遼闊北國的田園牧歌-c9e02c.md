@@ -6,7 +6,7 @@ category: cycling
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-hokkaido-北海道腳踏車騎行指南-遼闊北國的田園牧歌-c9e02c.html
 published: 2026-06-01
-quality_score: 7.5
+quality_score: 8.7
 tags: 北海道, 自行车骑行, 日本旅行, 十胜平原, 富良野
 license: CC BY 4.0
 ---

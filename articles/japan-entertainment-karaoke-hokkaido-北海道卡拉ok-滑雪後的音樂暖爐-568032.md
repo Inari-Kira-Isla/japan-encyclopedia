@@ -6,7 +6,7 @@ category: karaoke
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-karaoke-hokkaido-北海道卡拉ok-滑雪後的音樂暖爐-568032.html
 published: 2026-04-06
-quality_score: 6.5
+quality_score: 8.8
 tags: 北海道, 卡拉OK, 滑雪, 二世谷, 小樽
 license: CC BY 4.0
 ---

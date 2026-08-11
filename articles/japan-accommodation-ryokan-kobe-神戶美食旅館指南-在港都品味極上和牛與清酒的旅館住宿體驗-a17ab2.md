@@ -6,7 +6,7 @@ category: ryokan
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-kobe-神戶美食旅館指南-在港都品味極上和牛與清酒的旅館住宿體驗-a17ab2.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 神戶旅館, 美食住宿, 神戶牛, 清酒體驗, 傳統日式旅館
 license: CC BY 4.0
 ---

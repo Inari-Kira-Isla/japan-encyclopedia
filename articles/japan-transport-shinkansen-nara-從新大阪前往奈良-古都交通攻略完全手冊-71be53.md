@@ -6,7 +6,7 @@ category: shinkansen
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-nara-從新大阪前往奈良-古都交通攻略完全手冊-71be53.html
 published: 2026-06-05
-quality_score: 7.5
+quality_score: 8.6
 tags: 奈良交通, 關西自由行, JR奈良線, 近鐵奈良線, 奈良公園
 license: CC BY 4.0
 ---

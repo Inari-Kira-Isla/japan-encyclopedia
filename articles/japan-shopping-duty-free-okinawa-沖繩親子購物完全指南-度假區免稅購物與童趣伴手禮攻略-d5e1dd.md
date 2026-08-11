@@ -6,7 +6,7 @@ category: duty-free
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-duty-free-okinawa-沖繩親子購物完全指南-度假區免稅購物與童趣伴手禮攻略-d5e1dd.html
 published: 2026-06-06
-quality_score: 7.5
+quality_score: 8.7
 tags: 沖繩, 免稅購物, 親子旅遊, 度假, OUTLET
 license: CC BY 4.0
 ---

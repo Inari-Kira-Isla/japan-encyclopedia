@@ -6,7 +6,7 @@ category: garden-parks
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-kanazawa-金澤古巷綠洲-巷弄散步中的隱藏花園與都市綠意-b8509f.html
 published: 2026-06-19
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤花園, 金澤公園, 加賀百萬石, 金澤散步, 日本庭園
 license: CC BY 4.0
 ---

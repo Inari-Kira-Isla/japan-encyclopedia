@@ -6,7 +6,7 @@ category: festivals-matsuri
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-festivals-matsuri-kanazawa-金澤祭典的巷弄體驗-年輕人這樣玩轉加賀百萬石-1d4580.html
 published: 2026-07-02
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤祭典, 加賀百萬石, 箔祭, 數位體驗, 深度旅行
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: temples-shrines
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-temples-shrines-tokyo-東京神社寺院求職商務指南-仕事運up的神聖場所-2be67d.html
 published: 2026-06-03
-quality_score: 6.5
+quality_score: 8.5
 tags: 
 license: CC BY 4.0
 ---

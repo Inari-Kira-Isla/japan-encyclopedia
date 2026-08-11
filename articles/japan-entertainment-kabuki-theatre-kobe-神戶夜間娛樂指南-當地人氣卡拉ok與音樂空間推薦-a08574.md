@@ -6,7 +6,7 @@ category: kabuki-theatre
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-kabuki-theatre-kobe-神戶夜間娛樂指南-當地人氣卡拉ok與音樂空間推薦-a08574.html
 published: 2026-06-16
-quality_score: 6.5
+quality_score: 8.6
 tags: 神戶夜生活, 卡拉OK推薦, 神戶娛樂, 關西娛樂, 三宮
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: rental-cars
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-kanazawa-金澤租車自駕攻略-從金澤站出發的放射狀遊覽路線與在地租車選擇-841f03.html
 published: 2026-06-09
-quality_score: 7.5
+quality_score: 8.5
 tags: 金澤租車, 石川縣自駕遊, 能登半島, 千里濱, 加賀溫泉
 license: CC BY 4.0
 ---

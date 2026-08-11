@@ -6,7 +6,7 @@ category: cycling
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-tokyo-東京生活單車-巷弄探索與日常通勤的都市騎行指南-93628d.html
 published: 2026-06-23
-quality_score: 7.5
+quality_score: 8.7
 tags: 東京單車, 都市通勤, 巷弄探索, 生活文化, 自助旅遊
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: historical-districts
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-kanazawa-金澤歷史街區-走進活著的古城日常-8810ba.html
 published: 2026-06-06
-quality_score: 6.5
+quality_score: 8.6
 tags: 金澤歷史街區, 石川縣旅遊, 日本古城, 東茶屋町, 手工藝體驗
 license: CC BY 4.0
 ---

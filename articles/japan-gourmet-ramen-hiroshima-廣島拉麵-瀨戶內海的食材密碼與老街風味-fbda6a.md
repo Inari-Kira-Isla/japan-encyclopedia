@@ -6,7 +6,7 @@ category: ramen
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-ramen-hiroshima-廣島拉麵-瀨戶內海的食材密碼與老街風味-fbda6a.html
 published: 2026-03-24
-quality_score: 6.5
+quality_score: 8.7
 tags: 廣島美食, 日本拉麵, 瀨戶內海, 地方小食, 海鮮採購
 license: CC BY 4.0
 ---

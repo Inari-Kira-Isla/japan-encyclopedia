@@ -6,7 +6,7 @@ category: island-hopping
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-island-hopping-tokyo-東京跳島旅遊-從東京港出發的島嶼探索完整指南-409add.html
 published: 2026-06-15
-quality_score: 6.5
+quality_score: 8.5
 tags: 東京跳島, 伊茲諸島, 小笠原群島, 八丈島, 母島
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: tempura
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tempura-sendai-仙台天婦羅-巷弄老舖的酥脆日常-3c33fe.html
 published: 2026-06-22
-quality_score: 6.5
+quality_score: 8.8
 tags: 仙台天婦羅, 東北美食, 日本料理, 巷弄美食, 日常美味
 license: CC BY 4.0
 ---

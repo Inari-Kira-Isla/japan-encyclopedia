@@ -6,7 +6,7 @@ category: temple-stays
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-temple-stays-okinawa-沖繩寺廟住宿-現代人的海島禪修療癒之旅-87e24c.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.6
 tags: 沖繩寺廟住宿, 禪修體驗, 琉球佛教, 海島療癒, 心靈之旅
 license: CC BY 4.0
 ---

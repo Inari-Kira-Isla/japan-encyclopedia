@@ -6,7 +6,7 @@ category: temple-stays
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-temple-stays-sendai-仙台寺廟住宿-四季更迭中的禪意日常-ea3fab.html
 published: 2026-06-11
-quality_score: 6.5
+quality_score: 8.6
 tags: 仙台寺廟住宿, 東北禪修體驗, 日本寺院住宿, 宿坊體驗, 仙台旅遊
 license: CC BY 4.0
 ---

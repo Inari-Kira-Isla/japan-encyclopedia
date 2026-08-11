@@ -6,7 +6,7 @@ category: garden-parks
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-kobe-神戶園林深度遊-攝影家與植物愛好者的四季尋訪-80daf0.html
 published: 2026-03-22
-quality_score: 6.5
+quality_score: 8.6
 tags: 神戶, 園林, 攝影, 植物愛好者, 四季風景
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: electronics
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-electronics-tokyo-東京電子產品購物指南-科技潮流與消費變革的最前線-51e056.html
 published: 2026-04-04
-quality_score: 7.5
+quality_score: 8.7
 tags: 東京購物, 電子產品, 科技零售, 免稅購物, AI產品
 license: CC BY 4.0
 ---

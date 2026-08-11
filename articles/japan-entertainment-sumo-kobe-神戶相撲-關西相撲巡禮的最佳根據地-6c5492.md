@@ -6,7 +6,7 @@ category: sumo
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-kobe-神戶相撲-關西相撲巡禮的最佳根據地-6c5492.html
 published: 2026-06-16
-quality_score: 6.5
+quality_score: 8.7
 tags: 神戶相撲, 關西相撲巡禮, 大阪相撲, 相撲觀賽, 神戶住宿
 license: CC BY 4.0
 ---

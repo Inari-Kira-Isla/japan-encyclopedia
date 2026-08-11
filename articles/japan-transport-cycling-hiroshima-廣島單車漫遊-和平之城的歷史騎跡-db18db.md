@@ -6,7 +6,7 @@ category: cycling
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-hiroshima-廣島單車漫遊-和平之城的歷史騎跡-db18db.html
 published: 2026-06-14
-quality_score: 7.5
+quality_score: 8.8
 tags: 廣島單車, 和平紀念, 島嶼跳躍, 瀨戶內海, 歷史騎行
 license: CC BY 4.0
 ---

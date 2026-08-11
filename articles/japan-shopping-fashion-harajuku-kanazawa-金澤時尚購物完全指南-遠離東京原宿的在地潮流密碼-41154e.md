@@ -6,7 +6,7 @@ category: fashion-harajuku
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-fashion-harajuku-kanazawa-金澤時尚購物完全指南-遠離東京原宿的在地潮流密碼-41154e.html
 published: 2026-06-14
-quality_score: 7.5
+quality_score: 8.7
 tags: 金澤購物, 香林坊, 片町, 金箔工藝, 石川縣
 license: CC BY 4.0
 ---

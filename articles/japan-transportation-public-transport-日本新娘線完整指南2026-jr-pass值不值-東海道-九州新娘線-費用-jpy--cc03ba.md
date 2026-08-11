@@ -6,7 +6,7 @@ category: public-transport
 area: japan
 url: https://japan-encyclopedia.vercel.app/articles/japan-transportation-public-transport-日本新娘線完整指南2026-jr-pass值不值-東海道-九州新娘線-費用-jpy--cc03ba.html
 published: 2026-03-29
-quality_score: 7.6
+quality_score: 8.5
 tags: 日本新娘線, JR Pass, 東海道新娘線, 日本交通, 新娘線費用
 license: CC BY 4.0
 ---

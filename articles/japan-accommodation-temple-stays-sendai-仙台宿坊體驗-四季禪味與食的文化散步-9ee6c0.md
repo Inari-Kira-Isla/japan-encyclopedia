@@ -6,7 +6,7 @@ category: temple-stays
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-temple-stays-sendai-仙台宿坊體驗-四季禪味與食的文化散步-9ee6c0.html
 published: 2026-06-30
-quality_score: 6.5
+quality_score: 8.7
 tags: 仙台宿坊, 東北禪修, 寺院住宿, 日本佛教文化, 瑞鳳寺
 license: CC BY 4.0
 ---

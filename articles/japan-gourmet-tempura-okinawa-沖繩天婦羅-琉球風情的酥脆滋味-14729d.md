@@ -6,7 +6,7 @@ category: tempura
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tempura-okinawa-沖繩天婦羅-琉球風情的酥脆滋味-14729d.html
 published: 2026-03-21
-quality_score: 6.5
+quality_score: 8.5
 tags: 沖繩美食, 天婦羅, 琉球料理, 石垣牛, 海葡萄
 license: CC BY 4.0
 ---

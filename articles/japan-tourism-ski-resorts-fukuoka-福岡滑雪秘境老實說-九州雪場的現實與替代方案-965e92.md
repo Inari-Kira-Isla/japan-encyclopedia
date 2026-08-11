@@ -6,7 +6,7 @@ category: ski-resorts
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-ski-resorts-fukuoka-福岡滑雪秘境老實說-九州雪場的現實與替代方案-965e92.html
 published: 2026-06-07
-quality_score: 6.5
+quality_score: 8.5
 tags: 九州滑雪, 福岡滑雪場, 大分滑雪, 九州冬天, 杖立溫泉
 license: CC BY 4.0
 ---

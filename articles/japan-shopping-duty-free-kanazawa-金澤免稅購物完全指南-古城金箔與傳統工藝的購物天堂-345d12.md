@@ -6,7 +6,7 @@ category: duty-free
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-duty-free-kanazawa-金澤免稅購物完全指南-古城金箔與傳統工藝的購物天堂-345d12.html
 published: 2026-03-18
-quality_score: 7.5
+quality_score: 8.7
 tags: 金澤, 石川, 免稅購物, 日本購物, 金箔
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: depachika
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-depachika-okinawa-沖繩depachika採購指南-當地人推薦的伴手禮與特產必買清單-1f1e89.html
 published: 2026-04-07
-quality_score: 6.5
+quality_score: 8.8
 tags: 沖繩美食, Depachika, 伴手禮推薦, 沖繩特產, 日本購物
 license: CC BY 4.0
 ---

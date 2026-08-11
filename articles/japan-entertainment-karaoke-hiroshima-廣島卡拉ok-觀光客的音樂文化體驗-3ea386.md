@@ -6,7 +6,7 @@ category: karaoke
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-karaoke-hiroshima-廣島卡拉ok-觀光客的音樂文化體驗-3ea386.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.8
 tags: 廣島卡拉OK, 觀光娛樂, 夜生活體驗
 license: CC BY 4.0
 ---

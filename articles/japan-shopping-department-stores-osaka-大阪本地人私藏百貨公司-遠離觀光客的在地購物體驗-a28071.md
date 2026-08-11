@@ -6,7 +6,7 @@ category: department-stores
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-department-stores-osaka-大阪本地人私藏百貨公司-遠離觀光客的在地購物體驗-a28071.html
 published: 2026-06-17
-quality_score: 7.5
+quality_score: 8.5
 tags: 大阪購物, 在地體驗, 日本百圓店, 關西自由行, 大阪自由行
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: cycling
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-kyoto-京都通勤單車-當地人的日常騎行美學-a4923c.html
 published: 2026-03-30
-quality_score: 7.5
+quality_score: 8.8
 tags: 京都單車, 京都交通, 京都自由行, 京都通勤, ICOCA CYCLE
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: historical-districts
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-hiroshima-廣島歷史街區-從灰燼中重生的和平之城-149fbd.html
 published: 2026-07-04
-quality_score: 6.5
+quality_score: 8.7
 tags: 廣島, 歷史街區, 和平紀念, 原爆, 日本旅遊
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: kaiseki
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-kaiseki-nagoya-名古屋港都懷石-太平洋送來的旬之味-386afd.html
 published: 2026-05-21
-quality_score: 6.5
+quality_score: 8.7
 tags: 
 license: CC BY 4.0
 ---

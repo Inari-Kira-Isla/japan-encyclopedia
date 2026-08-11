@@ -6,7 +6,7 @@ category: depachika
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-depachika-hiroshima-廣島depachika-瀨戶內海的地下鮮味寶庫-8ddc9b.html
 published: 2026-07-04
-quality_score: 6.5
+quality_score: 8.8
 tags: 廣島美食, Depachika, 瀨戶內海食材, 日本地下商場, 宮島牡蠣
 license: CC BY 4.0
 ---

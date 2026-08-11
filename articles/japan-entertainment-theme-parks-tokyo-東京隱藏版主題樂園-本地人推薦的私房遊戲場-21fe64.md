@@ -6,7 +6,7 @@ category: theme-parks
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-theme-parks-tokyo-東京隱藏版主題樂園-本地人推薦的私房遊戲場-21fe64.html
 published: 2026-03-31
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京主題樂園, 隱藏版景點, 室內遊樂設施, 動漫主題樂園, 東京旅遊攻略
 license: CC BY 4.0
 ---

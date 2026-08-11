@@ -6,7 +6,7 @@ category: sumo
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-sendai-仙台動漫漫畫-東北創意文化的日常寶藏-9b5652.html
 published: 2026-05-22
-quality_score: 6.5
+quality_score: 8.7
 tags: 仙台動漫, 東北動漫文化, 日本漫畫店, 仙台自由行, ACG旅遊
 license: CC BY 4.0
 ---

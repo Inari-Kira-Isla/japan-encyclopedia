@@ -6,7 +6,7 @@ category: cultural-experience
 area: japan
 url: https://japan-encyclopedia.vercel.app/articles/japan-attractions-cultural-experience-日本茶道和抹茶完整指南2026-茶道體驗-宇治抹茶-茶室-費用-jpy-1000-5-b8d2bc.html
 published: 2026-04-19
-quality_score: 7.1
+quality_score: 8.6
 tags: 日本茶道, 抹茶體驗, 宇治抹茶, 茶道文化, 日本文化體驗
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: nightlife
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-nagoya-名古屋夜生活-年輕人的娛樂聖地探索-92932c.html
 published: 2026-05-22
-quality_score: 6.5
+quality_score: 8.5
 tags: 名古屋夜生活, 日本年輕人娛樂, 榮町卡拉OK, 名古屋遊戲中心, 日本啤酒花園
 license: CC BY 4.0
 ---

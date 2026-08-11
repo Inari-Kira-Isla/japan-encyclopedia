@@ -6,7 +6,7 @@ category: theme-parks
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-theme-parks-fukuoka-福岡娛樂體驗全攻略-九州門戶的成人夜生活與主題娛樂-cf9f32.html
 published: 2026-03-28
-quality_score: 6.5
+quality_score: 8.6
 tags: 福岡娛樂, 九州夜生活, 成人主題樂園, 遊戲中心, 卡拉OK
 license: CC BY 4.0
 ---

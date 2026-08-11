@@ -6,7 +6,7 @@ category: temples-shrines
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-temples-shrines-okinawa-沖繩神社寺院小眾秘境-在地達人帶路的能量景點巡禮-914dd5.html
 published: 2026-05-23
-quality_score: 6.5
+quality_score: 8.9
 tags: 沖繩神社, 御嶽信仰, 琉球文化, 能量景點, 小眾秘境
 license: CC BY 4.0
 ---

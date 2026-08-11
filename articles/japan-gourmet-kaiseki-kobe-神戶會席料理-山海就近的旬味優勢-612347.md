@@ -6,7 +6,7 @@ category: kaiseki
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-kaiseki-kobe-神戶會席料理-山海就近的旬味優勢-612347.html
 published: 2026-07-03
-quality_score: 6.5
+quality_score: 9.0
 tags: 神戶美食, 會席料理, 關西料理, 神戶旅遊, 瀨戶內海食材
 license: CC BY 4.0
 ---

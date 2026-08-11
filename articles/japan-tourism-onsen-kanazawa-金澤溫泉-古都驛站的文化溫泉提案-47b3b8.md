@@ -6,7 +6,7 @@ category: onsen
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-onsen-kanazawa-金澤溫泉-古都驛站的文化溫泉提案-47b3b8.html
 published: 2026-06-21
-quality_score: 6.5
+quality_score: 8.6
 tags: 金澤溫泉, 加賀溫泉鄉, 和倉溫泉, 金澤旅行, 北陸溫泉
 license: CC BY 4.0
 ---

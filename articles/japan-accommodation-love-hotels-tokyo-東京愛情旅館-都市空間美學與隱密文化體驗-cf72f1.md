@@ -6,7 +6,7 @@ category: love-hotels
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-love-hotels-tokyo-東京愛情旅館-都市空間美學與隱密文化體驗-cf72f1.html
 published: 2026-04-04
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京住宿, 愛情旅館, 都市設計, 情侶旅遊, 日本文化
 license: CC BY 4.0
 ---

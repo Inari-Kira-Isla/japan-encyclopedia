@@ -6,7 +6,7 @@ category: castle-towns
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-castle-towns-nara-奈良周邊的古城小鎮-被時光遺忘的城下了町-0f9653.html
 published: 2026-06-28
-quality_score: 6.5
+quality_score: 8.7
 tags: 奈良縣, 古城, 城下町, 寺社町, 歷史巡禮
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: theme-parks
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-theme-parks-kanazawa-金澤主題樂園與遊樂設施-工藝之都的現代娛樂體驗-a66d3b.html
 published: 2026-04-06
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤旅遊, 主題樂園, 傳統工藝, 互動體驗, 北陸旅遊
 license: CC BY 4.0
 ---

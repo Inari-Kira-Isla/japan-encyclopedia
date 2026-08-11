@@ -6,7 +6,7 @@ category: tonkatsu
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tonkatsu-hokkaido-北海道豚カツ-雪國旬味與極寒暖食的滋味對話-4d75b4.html
 published: 2026-06-27
-quality_score: 6.5
+quality_score: 8.5
 tags: 北海道美食, 豚カツ, 札幌美食, 小樽美食, 函館美食
 license: CC BY 4.0
 ---

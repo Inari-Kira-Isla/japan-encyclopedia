@@ -6,7 +6,7 @@ category: ferries
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-ferries-okinawa-沖繩跳島渡輪完全攻略-從那霸出發的島嶼航線與推薦航次-a450d1.html
 published: 2026-05-31
-quality_score: 7.5
+quality_score: 8.6
 tags: 沖繩渡輪, 跳島旅行, 座間味島, 石垣島, 竹富島
 license: CC BY 4.0
 ---

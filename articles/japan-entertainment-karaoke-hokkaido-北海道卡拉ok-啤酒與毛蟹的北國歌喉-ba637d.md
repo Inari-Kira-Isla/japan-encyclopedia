@@ -6,7 +6,7 @@ category: karaoke
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-karaoke-hokkaido-北海道卡拉ok-啤酒與毛蟹的北國歌喉-ba637d.html
 published: 2026-07-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道卡拉OK, 札幌薄野, 北海道夜生活, 小樽卡拉OK, 北海道自由行
 license: CC BY 4.0
 ---

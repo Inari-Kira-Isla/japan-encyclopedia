@@ -6,7 +6,7 @@ category: island-hopping
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-island-hopping-sendai-仙台跳島之旅-松島灣的島嶼風光探訪-ce30fe.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 8.7
 tags: 日本跳島, 松島灣, 東北溫泉, 仙台自由行, 福浦島
 license: CC BY 4.0
 ---

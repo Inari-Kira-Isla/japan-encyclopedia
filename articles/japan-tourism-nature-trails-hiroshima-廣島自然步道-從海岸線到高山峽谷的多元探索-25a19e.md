@@ -6,7 +6,7 @@ category: nature-trails
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-hiroshima-廣島自然步道-從海岸線到高山峽谷的多元探索-25a19e.html
 published: 2026-05-22
-quality_score: 6.5
+quality_score: 8.7
 tags: 廣島自然步道, 瀨戶內海健行, 日本戶外旅遊, 廣島登山, 廣島兔子島
 license: CC BY 4.0
 ---

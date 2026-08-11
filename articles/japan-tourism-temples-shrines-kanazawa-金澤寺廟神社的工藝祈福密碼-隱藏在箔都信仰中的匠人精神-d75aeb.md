@@ -6,7 +6,7 @@ category: temples-shrines
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-temples-shrines-kanazawa-金澤寺廟神社的工藝祈福密碼-隱藏在箔都信仰中的匠人精神-d75aeb.html
 published: 2026-06-22
-quality_score: 6.5
+quality_score: 8.8
 tags: 金澤寺廟神社, 加賀藩信仰, 金澤深度旅遊, 石川縣神社, 金澤工藝
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: buses
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-buses-nagoya-名古屋巴士深度體驗-在地人視角的城市探索術-1bf7e4.html
 published: 2026-04-05
-quality_score: 7.5
+quality_score: 8.8
 tags: 名古屋巴士, 深度旅遊, 在地體驗, 中部交通, 文化探索
 license: CC BY 4.0
 ---

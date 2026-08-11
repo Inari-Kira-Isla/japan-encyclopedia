@@ -6,7 +6,7 @@ category: day-trips
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-kobe-神戶一日遊-漫步異國風情街區與港都浪漫時光-8851fb.html
 published: 2026-06-11
-quality_score: 6.5
+quality_score: 8.8
 tags: 神戶一日遊, 異人館, 港都夜景, 關西自由行, 神戶交通
 license: CC BY 4.0
 ---

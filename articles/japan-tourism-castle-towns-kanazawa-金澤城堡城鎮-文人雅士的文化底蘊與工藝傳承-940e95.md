@@ -6,7 +6,7 @@ category: castle-towns
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-castle-towns-kanazawa-金澤城堡城鎮-文人雅士的文化底蘊與工藝傳承-940e95.html
 published: 2026-06-16
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤, 城堡城鎮, 城下町, 傳統工藝, 日本三大名園
 license: CC BY 4.0
 ---

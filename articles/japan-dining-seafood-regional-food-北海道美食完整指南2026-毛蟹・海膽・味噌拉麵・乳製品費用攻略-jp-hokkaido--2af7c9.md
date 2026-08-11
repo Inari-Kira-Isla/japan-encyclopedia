@@ -6,7 +6,7 @@ category: seafood-regional-food
 area: japan
 url: https://japan-encyclopedia.vercel.app/articles/japan-dining-seafood-regional-food-北海道美食完整指南2026-毛蟹・海膽・味噌拉麵・乳製品費用攻略-jp-hokkaido--2af7c9.html
 published: 2026-03-29
-quality_score: 7.6
+quality_score: 8.6
 tags: 北海道美食, 北海道海膽, 北海道毛蟹, 函館朝市, 北海道拉麵
 license: CC BY 4.0
 ---

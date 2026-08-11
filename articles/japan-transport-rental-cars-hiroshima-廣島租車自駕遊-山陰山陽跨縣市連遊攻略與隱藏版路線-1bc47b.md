@@ -6,7 +6,7 @@ category: rental-cars
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-hiroshima-廣島租車自駕遊-山陰山陽跨縣市連遊攻略與隱藏版路線-1bc47b.html
 published: 2026-06-11
-quality_score: 7.5
+quality_score: 8.6
 tags: 廣島租車, 山陰山陽自駕, 跨縣市連遊, 日本中國地區, 秋季賞楓
 license: CC BY 4.0
 ---

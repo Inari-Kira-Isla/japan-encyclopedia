@@ -6,7 +6,7 @@ category: luxury-district
 area: japan
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-luxury-district-東京銀座和丸之內完整指南2026-銀座六丁目-丸之內仲通-皇居-東京最高階街區費用-jpy-攻略--742b98.html
 published: 2026-04-25
-quality_score: 7.1
+quality_score: 8.7
 tags: 銀座, GINZA SIX, 丸之內, 皇居, 東京奢侈品
 license: CC BY 4.0
 ---

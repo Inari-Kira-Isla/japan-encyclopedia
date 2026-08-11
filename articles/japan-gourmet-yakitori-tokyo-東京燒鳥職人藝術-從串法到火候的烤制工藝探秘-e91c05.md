@@ -6,7 +6,7 @@ category: yakitori
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-yakitori-tokyo-東京燒鳥職人藝術-從串法到火候的烤制工藝探秘-e91c05.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京美食, 燒鳥, 職人文化, 日式烤物, 傳統技藝
 license: CC BY 4.0
 ---

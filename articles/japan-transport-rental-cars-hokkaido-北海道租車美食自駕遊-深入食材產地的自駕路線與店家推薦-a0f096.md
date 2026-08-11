@@ -6,7 +6,7 @@ category: rental-cars
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-hokkaido-北海道租車美食自駕遊-深入食材產地的自駕路線與店家推薦-a0f096.html
 published: 2026-06-24
-quality_score: 7.5
+quality_score: 8.8
 tags: 北海道租車, 美食自駕遊, 小樽租車, 新千歲機場租車, 積丹半島
 license: CC BY 4.0
 ---

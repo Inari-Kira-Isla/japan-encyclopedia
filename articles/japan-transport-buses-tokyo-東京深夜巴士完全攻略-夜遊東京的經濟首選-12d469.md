@@ -6,7 +6,7 @@ category: buses
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-buses-tokyo-東京深夜巴士完全攻略-夜遊東京的經濟首選-12d469.html
 published: 2026-07-01
-quality_score: 7.5
+quality_score: 8.5
 tags: 東京交通, 深夜巴士, 東京夜生活, 東京自由行, 機場交通
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: minshuku
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-kobe-神戶民宿完整指南-在港都遇見日式溫情的家庭式住宿-35409a.html
 published: 2026-05-31
-quality_score: 6.5
+quality_score: 8.5
 tags: 神戶民宿, 港都住宿, 日本家庭式住宿, 神戶自由行, 三宮住宿
 license: CC BY 4.0
 ---

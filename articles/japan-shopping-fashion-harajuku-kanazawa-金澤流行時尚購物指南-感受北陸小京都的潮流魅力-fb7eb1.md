@@ -6,7 +6,7 @@ category: fashion-harajuku
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-fashion-harajuku-kanazawa-金澤流行時尚購物指南-感受北陸小京都的潮流魅力-fb7eb1.html
 published: 2026-06-13
-quality_score: 7.5
+quality_score: 8.8
 tags: 金澤購物, 流行時尚, 香林坊, 片町, 古著
 license: CC BY 4.0
 ---

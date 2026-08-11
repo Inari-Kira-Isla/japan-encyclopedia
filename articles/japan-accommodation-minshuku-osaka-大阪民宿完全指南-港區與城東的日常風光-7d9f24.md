@@ -6,7 +6,7 @@ category: minshuku
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-osaka-大阪民宿完全指南-港區與城東的日常風光-7d9f24.html
 published: 2026-06-23
-quality_score: 6.5
+quality_score: 8.3
 tags: 大阪民宿, 港區住宿, 城東區, 關西機場中轉, 穆斯林友善
 license: CC BY 4.0
 ---

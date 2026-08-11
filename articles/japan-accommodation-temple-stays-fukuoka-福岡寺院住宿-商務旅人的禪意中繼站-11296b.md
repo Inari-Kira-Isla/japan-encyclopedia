@@ -6,7 +6,7 @@ category: temple-stays
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-temple-stays-fukuoka-福岡寺院住宿-商務旅人的禪意中繼站-11296b.html
 published: 2026-06-20
-quality_score: 6.5
+quality_score: 8.5
 tags: 福岡寺院住宿, 九州禪修體驗, 日本寺院過夜, 福岡旅遊, 商務旅客住宿
 license: CC BY 4.0
 ---

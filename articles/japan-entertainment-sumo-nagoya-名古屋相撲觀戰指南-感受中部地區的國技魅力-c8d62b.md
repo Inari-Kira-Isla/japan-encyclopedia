@@ -6,7 +6,7 @@ category: sumo
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-nagoya-名古屋相撲觀戰指南-感受中部地區的國技魅力-c8d62b.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.8
 tags: 名古屋, 相撲, 大相撲, 觀戰指南, 日本文化
 license: CC BY 4.0
 ---

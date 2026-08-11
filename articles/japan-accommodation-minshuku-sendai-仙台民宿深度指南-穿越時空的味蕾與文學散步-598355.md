@@ -6,7 +6,7 @@ category: minshuku
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-sendai-仙台民宿深度指南-穿越時空的味蕾與文學散步-598355.html
 published: 2026-06-09
-quality_score: 6.5
+quality_score: 8.6
 tags: 仙台民宿, 仙台住宿, 日本民宿, 東北旅遊, 文學散步
 license: CC BY 4.0
 ---

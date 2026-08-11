@@ -6,7 +6,7 @@ category: scenic-routes
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-kobe-神戶溫泉與山林步道-港都郊區的治癒系慢遊路線-da8d52.html
 published: 2026-06-08
-quality_score: 6.5
+quality_score: 8.8
 tags: 神戶溫泉, 有馬溫泉, 六甲山步道, 摩耶山, 山林步道
 license: CC BY 4.0
 ---

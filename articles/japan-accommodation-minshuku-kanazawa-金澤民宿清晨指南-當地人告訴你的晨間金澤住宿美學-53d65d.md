@@ -6,7 +6,7 @@ category: minshuku
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-kanazawa-金澤民宿清晨指南-當地人告訴你的晨間金澤住宿美學-53d65d.html
 published: 2026-06-06
-quality_score: 6.5
+quality_score: 8.6
 tags: 金澤民宿, 石川縣住宿, 清晨金澤, 近江町市場, 淺野川
 license: CC BY 4.0
 ---

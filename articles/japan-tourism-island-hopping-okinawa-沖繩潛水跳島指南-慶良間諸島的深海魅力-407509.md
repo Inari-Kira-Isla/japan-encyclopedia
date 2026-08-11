@@ -6,7 +6,7 @@ category: island-hopping
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-island-hopping-okinawa-沖繩潛水跳島指南-慶良間諸島的深海魅力-407509.html
 published: 2026-06-10
-quality_score: 6.5
+quality_score: 8.7
 tags: 沖繩跳島, 慶良間諸島, 潛水旅遊, 浮潛, 座間味島
 license: CC BY 4.0
 ---

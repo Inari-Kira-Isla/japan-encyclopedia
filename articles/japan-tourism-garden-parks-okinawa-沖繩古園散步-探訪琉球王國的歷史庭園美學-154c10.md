@@ -6,7 +6,7 @@ category: garden-parks
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-okinawa-沖繩古園散步-探訪琉球王國的歷史庭園美學-154c10.html
 published: 2026-05-22
-quality_score: 6.5
+quality_score: 8.8
 tags: 沖繩花園, 琉球文化, 歷史古跡, 自然生態, 文化體驗
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: ryokan
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-tokyo-東京傳統町家旅宿-在下町巷弄裡遇見江戶風情-ae294c.html
 published: 2026-07-01
-quality_score: 6.5
+quality_score: 8.5
 tags: 東京住宿, Ryokan, 下町風情, 東京深度旅遊, 淺草
 license: CC BY 4.0
 ---

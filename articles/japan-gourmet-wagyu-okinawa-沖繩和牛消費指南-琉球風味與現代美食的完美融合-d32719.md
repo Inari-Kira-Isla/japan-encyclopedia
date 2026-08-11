@@ -6,7 +6,7 @@ category: wagyu
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-wagyu-okinawa-沖繩和牛消費指南-琉球風味與現代美食的完美融合-d32719.html
 published: 2026-03-28
-quality_score: 6.5
+quality_score: 8.8
 tags: 沖繩美食, 石垣牛, 琉球料理, 和牛燒烤, 日本旅遊
 license: CC BY 4.0
 ---

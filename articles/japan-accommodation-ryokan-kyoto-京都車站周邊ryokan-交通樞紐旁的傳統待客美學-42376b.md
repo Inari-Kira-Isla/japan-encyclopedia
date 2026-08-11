@@ -6,7 +6,7 @@ category: ryokan
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-kyoto-京都車站周邊ryokan-交通樞紐旁的傳統待客美學-42376b.html
 published: 2026-06-27
-quality_score: 6.5
+quality_score: 8.4
 tags: 京都住宿, 京都車站, Ryokan, 京都自由行, 關西住宿
 license: CC BY 4.0
 ---

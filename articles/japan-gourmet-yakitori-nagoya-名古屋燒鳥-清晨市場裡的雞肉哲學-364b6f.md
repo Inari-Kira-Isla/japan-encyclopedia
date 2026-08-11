@@ -6,7 +6,7 @@ category: yakitori
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-yakitori-nagoya-名古屋燒鳥-清晨市場裡的雞肉哲學-364b6f.html
 published: 2026-05-23
-quality_score: 6.5
+quality_score: 8.7
 tags: 名古屋燒鳥, 日本料理, 在地美食, 雞肉串燒, 中部地方
 license: CC BY 4.0
 ---

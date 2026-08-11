@@ -6,7 +6,7 @@ category: nature-trails
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-kanazawa-金澤登山指南-醫王山群峰的健行新手攻略-96ed27.html
 published: 2026-06-06
-quality_score: 6.5
+quality_score: 8.9
 tags: 金澤登山, 醫王山, 日本登山, 石川縣, 山代溫泉
 license: CC BY 4.0
 ---

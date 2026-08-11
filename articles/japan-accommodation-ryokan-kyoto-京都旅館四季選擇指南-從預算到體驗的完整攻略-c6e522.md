@@ -6,7 +6,7 @@ category: ryokan
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-kyoto-京都旅館四季選擇指南-從預算到體驗的完整攻略-c6e522.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.6
 tags: 京都旅館, 四季體驗, 預算攻略, 溫泉文化, 和式住宿
 license: CC BY 4.0
 ---

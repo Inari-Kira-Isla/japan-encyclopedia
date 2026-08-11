@@ -6,7 +6,7 @@ category: scenic-routes
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-hiroshima-廣島山海單車漫遊-騎行瀨戶內海絕景路線的完整攻略-5bcd57.html
 published: 2026-06-27
-quality_score: 6.5
+quality_score: 8.7
 tags: 廣島單車路線, 瀨戶內海單車, 廣島景點推薦, 單車主題旅遊, 日本單車旅行
 license: CC BY 4.0
 ---

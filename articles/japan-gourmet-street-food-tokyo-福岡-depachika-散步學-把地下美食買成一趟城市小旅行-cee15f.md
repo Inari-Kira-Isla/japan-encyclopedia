@@ -6,7 +6,7 @@ category: street-food
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-street-food-tokyo-福岡-depachika-散步學-把地下美食買成一趟城市小旅行-cee15f.html
 published: 2026-05-21
-quality_score: 6.5
+quality_score: 8.6
 tags: 福岡美食, Depachika, 九州料理, 地下食品, 天神街區
 license: CC BY 4.0
 ---

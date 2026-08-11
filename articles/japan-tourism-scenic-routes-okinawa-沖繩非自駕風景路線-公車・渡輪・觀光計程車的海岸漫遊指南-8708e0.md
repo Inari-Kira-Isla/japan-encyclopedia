@@ -6,7 +6,7 @@ category: scenic-routes
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-okinawa-沖繩非自駕風景路線-公車・渡輪・觀光計程車的海岸漫遊指南-8708e0.html
 published: 2026-06-25
-quality_score: 6.5
+quality_score: 8.9
 tags: 沖繩景點, 非自駕遊沖繩, 海岸風光, 渡輪跳島, 公車旅行
 license: CC BY 4.0
 ---

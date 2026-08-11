@@ -6,7 +6,7 @@ category: onsen
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-onsen-kyoto-京都週邊溫泉-走出市區的療癒之旅-e98f8f.html
 published: 2026-06-07
-quality_score: 6.5
+quality_score: 8.7
 tags: 京都溫泉, 關西溫泉, 雄琴溫泉, 有馬溫泉, 城崎溫泉
 license: CC BY 4.0
 ---

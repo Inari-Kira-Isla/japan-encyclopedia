@@ -6,7 +6,7 @@ category: anime-manga
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-fukuoka-福岡動漫生活-遠離朝聖人潮的在地慢遊-91fd0c.html
 published: 2026-06-20
-quality_score: 6.5
+quality_score: 8.6
 tags: 福岡動漫, 九州御宅, 慢遊福岡, 動漫咖啡廳, 二手漫畫
 license: CC BY 4.0
 ---

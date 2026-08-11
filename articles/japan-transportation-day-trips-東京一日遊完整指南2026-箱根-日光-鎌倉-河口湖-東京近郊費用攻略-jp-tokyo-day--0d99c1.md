@@ -6,7 +6,7 @@ category: day-trips
 area: japan
 url: https://japan-encyclopedia.vercel.app/articles/japan-transportation-day-trips-東京一日遊完整指南2026-箱根-日光-鎌倉-河口湖-東京近郊費用攻略-jp-tokyo-day--0d99c1.html
 published: 2026-04-19
-quality_score: 7.6
+quality_score: 8.3
 tags: 東京近郊一日遊, 神奈川, 日光, 鎌倉, 河口湖
 license: CC BY 4.0
 ---

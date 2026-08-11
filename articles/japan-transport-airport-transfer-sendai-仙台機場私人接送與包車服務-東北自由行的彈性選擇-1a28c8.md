@@ -6,7 +6,7 @@ category: airport-transfer
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-airport-transfer-sendai-仙台機場私人接送與包車服務-東北自由行的彈性選擇-1a28c8.html
 published: 2026-03-30
-quality_score: 7.5
+quality_score: 8.7
 tags: 仙台機場, 機場接送, 包車服務, 東北自由行, 仙台交通
 license: CC BY 4.0
 ---

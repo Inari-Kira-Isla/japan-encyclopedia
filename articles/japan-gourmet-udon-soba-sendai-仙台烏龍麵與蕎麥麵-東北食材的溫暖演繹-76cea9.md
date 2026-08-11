@@ -6,7 +6,7 @@ category: udon-soba
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-udon-soba-sendai-仙台烏龍麵與蕎麥麵-東北食材的溫暖演繹-76cea9.html
 published: 2026-07-05
-quality_score: 6.5
+quality_score: 8.9
 tags: 仙台美食, 東北料理, 烏龍麵, 蕎麥麵, 日本旅遊
 license: CC BY 4.0
 ---

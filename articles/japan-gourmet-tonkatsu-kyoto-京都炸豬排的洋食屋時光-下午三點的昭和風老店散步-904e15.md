@@ -6,7 +6,7 @@ category: tonkatsu
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tonkatsu-kyoto-京都炸豬排的洋食屋時光-下午三點的昭和風老店散步-904e15.html
 published: 2026-06-17
-quality_score: 6.5
+quality_score: 8.8
 tags: 京都美食, 炸豬排, 洋食屋, 昭和風, 老店
 license: CC BY 4.0
 ---

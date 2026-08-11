@@ -6,7 +6,7 @@ category: matcha-sweets
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-matcha-sweets-hiroshima-廣島抹茶甜點-港都風情的抹茶洋果子-cadc29.html
 published: 2026-06-05
-quality_score: 6.5
+quality_score: 8.6
 tags: 廣島甜點, 抹茶甜點, 廣島美食, 和洋融合, 日本伴手禮
 license: CC BY 4.0
 ---

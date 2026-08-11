@@ -6,7 +6,7 @@ category: nightlife
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-tokyo-東京澀谷夜生活-音樂與青春的深夜沸點-eda8e4.html
 published: 2026-05-22
-quality_score: 6.5
+quality_score: 8.6
 tags: 東京夜生活, 澀谷, 音樂現場, live house, 東京酒吧
 license: CC BY 4.0
 ---

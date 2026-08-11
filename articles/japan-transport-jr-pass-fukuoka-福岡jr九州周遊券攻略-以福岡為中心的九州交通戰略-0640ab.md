@@ -6,7 +6,7 @@ category: jr-pass
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-jr-pass-fukuoka-福岡jr九州周遊券攻略-以福岡為中心的九州交通戰略-0640ab.html
 published: 2026-04-02
-quality_score: 7.5
+quality_score: 8.7
 tags: JR九州周遊券, 福岡交通, 九州旅遊, 日本鐵路, 交通攻略
 license: CC BY 4.0
 ---

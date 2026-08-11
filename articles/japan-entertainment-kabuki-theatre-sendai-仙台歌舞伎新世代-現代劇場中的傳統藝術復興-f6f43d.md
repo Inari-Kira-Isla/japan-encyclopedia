@@ -6,7 +6,7 @@ category: kabuki-theatre
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-kabuki-theatre-sendai-仙台歌舞伎新世代-現代劇場中的傳統藝術復興-f6f43d.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 仙台, 歌舞伎, 現代劇場, 東北文化, 表演藝術
 license: CC BY 4.0
 ---

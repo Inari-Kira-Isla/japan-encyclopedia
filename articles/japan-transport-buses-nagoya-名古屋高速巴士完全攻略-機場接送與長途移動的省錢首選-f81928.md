@@ -6,7 +6,7 @@ category: buses
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-buses-nagoya-名古屋高速巴士完全攻略-機場接送與長途移動的省錢首選-f81928.html
 published: 2026-06-04
-quality_score: 7.5
+quality_score: 8.5
 tags: 名古屋巴士, 高速巴士, 中部國際機場交通, 名古屋觀光, 名鐵巴士
 license: CC BY 4.0
 ---

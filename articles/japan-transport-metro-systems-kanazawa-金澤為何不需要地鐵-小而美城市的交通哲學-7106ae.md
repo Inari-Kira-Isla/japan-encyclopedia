@@ -6,7 +6,7 @@ category: metro-systems
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-kanazawa-金澤為何不需要地鐵-小而美城市的交通哲學-7106ae.html
 published: 2026-03-27
-quality_score: 7.5
+quality_score: 8.8
 tags: 金澤交通, 巴士系統, 城市規劃
 license: CC BY 4.0
 ---

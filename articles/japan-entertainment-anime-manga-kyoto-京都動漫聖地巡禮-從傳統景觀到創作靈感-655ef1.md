@@ -6,7 +6,7 @@ category: anime-manga
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-kyoto-京都動漫聖地巡禮-從傳統景觀到創作靈感-655ef1.html
 published: 2026-03-23
-quality_score: 6.5
+quality_score: 8.7
 tags: 京都, 動漫聖地, 聖地巡禮, 日本旅遊, 文化體驗
 license: CC BY 4.0
 ---

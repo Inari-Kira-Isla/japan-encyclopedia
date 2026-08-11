@@ -6,7 +6,7 @@ category: karaoke
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-karaoke-kanazawa-金澤卡拉ok-百萬石城池的音樂時光-bea3f9-1781171205.html
 published: 2026-06-11
-quality_score: 6.5
+quality_score: 8.5
 tags: 金澤卡拉OK, 石川縣娛樂, 北陸夜生活, 加賀料理, 金澤自由行
 license: CC BY 4.0
 ---

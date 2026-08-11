@@ -6,7 +6,7 @@ category: metro-systems
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-nagoya-名古屋地下鐵味覺探險-沿線車站周邊的在地美食散步-b48bee.html
 published: 2026-05-24
-quality_score: 7.5
+quality_score: 8.7
 tags: 名古屋地下鐵, 在地美食, 名古屋美食, 日本中部, 地下鐵周遊
 license: CC BY 4.0
 ---

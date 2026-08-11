@@ -6,7 +6,7 @@ category: rental-cars
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-tokyo-東京租車自駕攻略-國際旅客機場取車的樞紐優勢與放射狀路線規劃-7233d5.html
 published: 2026-06-23
-quality_score: 7.5
+quality_score: 8.6
 tags: 東京租車, 關東自駕, 東京機場取車, 富士山自駕, 日光租車
 license: CC BY 4.0
 ---

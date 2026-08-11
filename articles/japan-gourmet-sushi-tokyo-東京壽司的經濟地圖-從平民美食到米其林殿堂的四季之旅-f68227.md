@@ -6,7 +6,7 @@ category: sushi
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sushi-tokyo-東京壽司的經濟地圖-從平民美食到米其林殿堂的四季之旅-f68227.html
 published: 2026-03-23
-quality_score: 6.5
+quality_score: 8.6
 tags: 東京美食, 壽司, 日本海鮮, 消費指南, 四季飲食
 license: CC BY 4.0
 ---

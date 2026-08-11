@@ -6,7 +6,7 @@ category: department-stores
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-department-stores-hiroshima-廣島無障礙購物指南-和平都市的銀髮友善百貨體驗-f7fc82.html
 published: 2026-06-21
-quality_score: 7.5
+quality_score: 8.7
 tags: 廣島購物, 無障礙旅遊, 銀髮友善, 和平都市, 日本百货公司
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: anime-manga
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-sendai-仙台動漫創作生態-東北創意產業的新興力量-8a74c0.html
 published: 2026-04-11
-quality_score: 6.5
+quality_score: 8.7
 tags: 仙台動漫, 東北創作, 獨立工作室, 文化融合, 創意產業
 license: CC BY 4.0
 ---

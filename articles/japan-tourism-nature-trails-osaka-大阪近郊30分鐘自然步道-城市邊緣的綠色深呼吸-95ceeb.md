@@ -6,7 +6,7 @@ category: nature-trails
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-osaka-大阪近郊30分鐘自然步道-城市邊緣的綠色深呼吸-95ceeb.html
 published: 2026-06-18
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪自然步道, 大阪近郊, 城市深呼吸, 郊遊, 日本自然
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: cycling
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-hiroshima-廣島單車漫遊-港都水岸的生活騎行指南-e55d54.html
 published: 2026-06-11
-quality_score: 7.5
+quality_score: 8.7
 tags: 廣島單車, 廣島骑行, 瀨戶內海, 港都單車道, 廣島自由行
 license: CC BY 4.0
 ---

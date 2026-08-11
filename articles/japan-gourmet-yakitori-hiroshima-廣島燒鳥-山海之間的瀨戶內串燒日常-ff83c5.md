@@ -6,7 +6,7 @@ category: yakitori
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-yakitori-hiroshima-廣島燒鳥-山海之間的瀨戶內串燒日常-ff83c5.html
 published: 2026-06-24
-quality_score: 6.5
+quality_score: 8.8
 tags: 廣島燒鳥, 瀨戶內海, 廣島美食, 日本串燒, 廣島夜生活
 license: CC BY 4.0
 ---

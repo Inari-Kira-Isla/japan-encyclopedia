@@ -6,7 +6,7 @@ category: shinkansen
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-kobe-神戶車站-關西旅行的隱藏高手樞紐-78649d.html
 published: 2026-06-16
-quality_score: 7.5
+quality_score: 8.9
 tags: 神戶, 山陽新幹綫, 關西交通, 神戶站, 新大阪
 license: CC BY 4.0
 ---

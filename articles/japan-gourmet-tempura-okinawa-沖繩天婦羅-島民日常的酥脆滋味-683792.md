@@ -6,7 +6,7 @@ category: tempura
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tempura-okinawa-沖繩天婦羅-島民日常的酥脆滋味-683792.html
 published: 2026-06-22
-quality_score: 6.5
+quality_score: 8.9
 tags: 沖繩美食, 天婦羅, 庶民料理, 那霸, 亞熱帶食材
 license: CC BY 4.0
 ---

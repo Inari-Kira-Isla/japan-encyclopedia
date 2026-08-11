@@ -6,7 +6,7 @@ category: kabuki-theatre
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-kabuki-theatre-fukuoka-福岡夜間娛樂複合設施-傳統與創新交融的戲劇新地標-8081f3.html
 published: 2026-06-22
-quality_score: 6.5
+quality_score: 8.6
 tags: 福岡夜景, 表演藝術, 娛樂複合設施, 九州夜生活, 在地體驗
 license: CC BY 4.0
 ---

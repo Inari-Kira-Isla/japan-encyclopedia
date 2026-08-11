@@ -6,7 +6,7 @@ category: metro-systems
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-kobe-神戶地下鐵遊客導覽-高效暢遊港都的交通攻略-4a7bab.html
 published: 2026-06-09
-quality_score: 7.5
+quality_score: 8.5
 tags: 神戶地下鐵, 神戶交通, 神戶觀光, 關西交通, 港都之旅
 license: CC BY 4.0
 ---

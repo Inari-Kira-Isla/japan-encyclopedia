@@ -6,7 +6,7 @@ category: kaiseki
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-kaiseki-osaka-大阪懷石料理-天下の廚房裡的實惠米其林體驗-434577.html
 published: 2026-06-28
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪美食, 會席料理, 關西料理, 米其林餐廳, 日本高級料理
 license: CC BY 4.0
 ---

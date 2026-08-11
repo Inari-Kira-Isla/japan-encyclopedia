@@ -6,7 +6,7 @@ category: boutique-hotels
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-kyoto-京都設計師酒店-外國視角重塑的京町家美學-cafc5c.html
 published: 2026-06-27
-quality_score: 6.5
+quality_score: 8.6
 tags: 京都精品酒店, 京町家, 設計師酒店, 祇園, 嵐山
 license: CC BY 4.0
 ---

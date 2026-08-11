@@ -6,7 +6,7 @@ category: electronics
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-electronics-hokkaido-北海道極地電子裝備購物指南-冬季戶外與攝影愛好者的採購攻略-d7d902.html
 published: 2026-06-13
-quality_score: 7.5
+quality_score: 8.6
 tags: 北海道電子產品, 極地攝影, 冬季戶外裝備, 新千歲機場免稅, 札幌戶外用品
 license: CC BY 4.0
 ---

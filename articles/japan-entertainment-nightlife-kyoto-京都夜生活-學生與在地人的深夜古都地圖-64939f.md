@@ -6,7 +6,7 @@ category: nightlife
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-kyoto-京都夜生活-學生與在地人的深夜古都地圖-64939f.html
 published: 2026-06-24
-quality_score: 6.5
+quality_score: 8.7
 tags: 京都夜生活, 學生酒館, 古都夜景, 京都自由行, 日本夜生活
 license: CC BY 4.0
 ---

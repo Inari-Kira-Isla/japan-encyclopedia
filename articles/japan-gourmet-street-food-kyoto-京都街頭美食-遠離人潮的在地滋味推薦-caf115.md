@@ -6,7 +6,7 @@ category: street-food
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-street-food-kyoto-京都街頭美食-遠離人潮的在地滋味推薦-caf115.html
 published: 2026-06-02
-quality_score: 6.5
+quality_score: 8.5
 tags: 京都 street food, 京都美食, 關西庶民食物, 背包客自由行, 非觀光區美食
 license: CC BY 4.0
 ---

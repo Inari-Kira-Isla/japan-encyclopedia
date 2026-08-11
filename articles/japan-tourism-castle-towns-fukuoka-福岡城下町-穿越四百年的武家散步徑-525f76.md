@@ -6,7 +6,7 @@ category: castle-towns
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-castle-towns-fukuoka-福岡城下町-穿越四百年的武家散步徑-525f76.html
 published: 2026-06-17
-quality_score: 6.5
+quality_score: 8.8
 tags: 福岡城下町, 武家文化, 歷史散步, 黑田氏, 九州旅行
 license: CC BY 4.0
 ---

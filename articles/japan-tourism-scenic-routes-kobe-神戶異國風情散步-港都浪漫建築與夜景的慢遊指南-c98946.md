@@ -6,7 +6,7 @@ category: scenic-routes
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-kobe-神戶異國風情散步-港都浪漫建築與夜景的慢遊指南-c98946.html
 published: 2026-06-19
-quality_score: 6.5
+quality_score: 8.5
 tags: 神戶, 異人館, 神戶港, 六甲山夜景, 有馬溫泉
 license: CC BY 4.0
 ---

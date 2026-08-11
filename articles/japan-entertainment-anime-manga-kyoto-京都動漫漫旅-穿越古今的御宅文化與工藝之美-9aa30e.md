@@ -6,7 +6,7 @@ category: anime-manga
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-kyoto-京都動漫漫旅-穿越古今的御宅文化與工藝之美-9aa30e.html
 published: 2026-06-02
-quality_score: 5.5
+quality_score: 8.0
 tags: 京都動漫, 京都漫画, 京都御宅文化, 京都旅行, 日本动漫
 license: CC BY 4.0
 ---

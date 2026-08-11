@@ -6,7 +6,7 @@ category: anime-manga
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-nara-奈良慢讀小旅行-古都書香與動漫的靜謐時光-5d5d58.html
 published: 2026-06-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 奈良動漫, 古都散步, 漫讀空間, 御宅文化, 日本中部旅遊
 license: CC BY 4.0
 ---

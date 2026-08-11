@@ -6,7 +6,7 @@ category: craft-markets
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-craft-markets-nara-奈良工藝散步-千年古都的傳統工坊與手作體驗-82755e.html
 published: 2026-06-29
-quality_score: 7.5
+quality_score: 8.9
 tags: 奈良, 工藝, 日本購物, 傳統手工, 奈良人形
 license: CC BY 4.0
 ---

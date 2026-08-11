@@ -6,7 +6,7 @@ category: festivals-matsuri
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-festivals-matsuri-nara-奈良祭典深度體驗-從觀光客到參與者的沉浸式慶典之旅-825ca1.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 奈良祭典, 深度體驗, 文化參與, 春日大社, 傳統慶典
 license: CC BY 4.0
 ---

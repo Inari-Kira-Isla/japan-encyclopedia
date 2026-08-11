@@ -6,7 +6,7 @@ category: jr-pass
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-jr-pass-kobe-神戶jr-pass商務文化深度遊-港都鐵道的效率與人文平衡術-de736d.html
 published: 2026-03-29
-quality_score: 7.5
+quality_score: 8.6
 tags: 神戶交通, 關西JR Pass, 商務旅行, 港口城市, 文化深度遊
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: cycling
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-sendai-東京社群巴士-深入在地日常的公車秘境-1ee700.html
 published: 2026-06-08
-quality_score: 7.5
+quality_score: 8.6
 tags: 東京巴士, 社區巴士, 東京交通, 東京自由行, 東京深度遊
 license: CC BY 4.0
 ---

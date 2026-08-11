@@ -6,7 +6,7 @@ category: vr-experiences
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-vr-experiences-okinawa-沖繩vr體驗遊記-科技愛好者的島嶼探險日誌-31ee8c.html
 published: 2026-06-05
-quality_score: 6.5
+quality_score: 8.4
 tags: 沖繩VR, 沖繩科技體驗, 沖繩室內活動, 沖繩娛樂,  Okinawa VR
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: anime-manga
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-hiroshima-廣島動漫新版圖鑑-和平記憶與二次元的交錯path-6d9e3d.html
 published: 2026-05-21
-quality_score: 6.5
+quality_score: 8.7
 tags: 廣島動漫, 廣島二次元, 廣島、御宅族, 日本動漫聖地, 廣島和平
 license: CC BY 4.0
 ---

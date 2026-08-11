@@ -6,7 +6,7 @@ category: vintage-thrift
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-vintage-thrift-osaka-大阪古著尋寶-天王寺-新世界周邊的平價復古秘境-bca054.html
 published: 2026-06-02
-quality_score: 7.5
+quality_score: 8.9
 tags: 大阪古著, 天王寺古著, 大阪 vintage, 日本古著購物, 大阪平價時尚
 license: CC BY 4.0
 ---

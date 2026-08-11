@@ -6,7 +6,7 @@ category: ramen
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-ramen-kobe-神戶拉麵-開港都市的多元麵食文化探索-2b21eb.html
 published: 2026-03-28
-quality_score: 6.5
+quality_score: 8.7
 tags: 神戶美食, 關西拉麵, 港都文化, 國際化美食, 深夜美食
 license: CC BY 4.0
 ---

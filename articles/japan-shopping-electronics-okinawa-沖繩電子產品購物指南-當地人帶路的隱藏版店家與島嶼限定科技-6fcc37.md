@@ -6,7 +6,7 @@ category: electronics
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-electronics-okinawa-沖繩電子產品購物指南-當地人帶路的隱藏版店家與島嶼限定科技-6fcc37.html
 published: 2026-06-13
-quality_score: 7.5
+quality_score: 8.2
 tags: 沖繩電子產品, 沖繩購物, 日本電子產品, 沖繩自由行, 沖繩限定商品
 license: CC BY 4.0
 ---

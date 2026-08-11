@@ -6,7 +6,7 @@ category: shinkansen
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-osaka-大阪新娘物語車站周邊完全指南-從新大阪出發的關西鐵道樞紐攻略-5460a6.html
 published: 2026-06-14
-quality_score: 7.5
+quality_score: 8.8
 tags: 大阪交通, 關西鐵道, 新大阪站, 日本新干线, 關西自由行
 license: CC BY 4.0
 ---

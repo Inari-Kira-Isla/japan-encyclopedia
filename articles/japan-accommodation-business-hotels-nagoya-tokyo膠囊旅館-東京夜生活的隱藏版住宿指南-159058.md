@@ -6,7 +6,7 @@ category: business-hotels
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-business-hotels-nagoya-tokyo膠囊旅館-東京夜生活的隱藏版住宿指南-159058.html
 published: 2026-06-22
-quality_score: 6.5
+quality_score: 8.6
 tags: 東京膠囊旅館, 日本住宿, 東京夜生活, 背包客住宿, 秋葉原
 license: CC BY 4.0
 ---

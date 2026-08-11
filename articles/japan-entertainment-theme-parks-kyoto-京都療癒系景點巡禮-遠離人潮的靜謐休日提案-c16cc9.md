@@ -6,7 +6,7 @@ category: theme-parks
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-theme-parks-kyoto-京都療癒系景點巡禮-遠離人潮的靜謐休日提案-c16cc9.html
 published: 2026-06-22
-quality_score: 6.5
+quality_score: 8.7
 tags: 京都主題樂園, 療癒系景點, 京都文化體驗, 日本溫泉, 宇治茶道
 license: CC BY 4.0
 ---

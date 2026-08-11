@@ -6,7 +6,7 @@ category: ferries
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-ferries-hokkaido-北海道渡輪完全指南-海上移動的浪漫與在地體驗-ab6fc0.html
 published: 2026-07-03
-quality_score: 7.5
+quality_score: 8.4
 tags: 北海道渡輪, 津輕海峽, 青函航線, 利尻島, 禮文島
 license: CC BY 4.0
 ---

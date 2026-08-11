@@ -6,7 +6,7 @@ category: kabuki-theatre
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-kabuki-theatre-kobe-神戶周邊的傳統表演藝術-關西kabuki體驗完全指南-b4db5e.html
 published: 2026-06-12
-quality_score: 6.5
+quality_score: 8.5
 tags: 神戶, 關西, 表演藝術, Kabuki, 大阪
 license: CC BY 4.0
 ---

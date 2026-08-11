@@ -6,7 +6,7 @@ category: ferries
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-ferries-kanazawa-能登半島渡輪深度遊-日本海側的島嶼跳跳之旅-86fe4e.html
 published: 2026-06-13
-quality_score: 7.5
+quality_score: 8.5
 tags: 能登半島, 日本海渡輪, 金澤周邊, 秘境跳島, 沿海交通
 license: CC BY 4.0
 ---

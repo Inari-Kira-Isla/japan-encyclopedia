@@ -6,7 +6,7 @@ category: rental-cars
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-osaka-大阪美食自駕遊-租車串連關西極致味覺體驗-74006a.html
 published: 2026-06-29
-quality_score: 7.5
+quality_score: 8.7
 tags: 大阪租車, 關西美食自駕遊, 神戶牛排, 泉州海鮮, 奈良大和茶
 license: CC BY 4.0
 ---

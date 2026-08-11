@@ -6,7 +6,7 @@ category: craft-markets
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-craft-markets-nara-奈良工藝市集購物攻略-古都手作寶藏的省錢尋寶指南-58bb46.html
 published: 2026-04-01
-quality_score: 7.5
+quality_score: 8.9
 tags: 奈良購物, 日本工藝, 省錢攻略, 手作市集, 奈良旅遊
 license: CC BY 4.0
 ---

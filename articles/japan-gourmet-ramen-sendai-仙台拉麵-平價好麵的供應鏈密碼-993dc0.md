@@ -6,7 +6,7 @@ category: ramen
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-ramen-sendai-仙台拉麵-平價好麵的供應鏈密碼-993dc0.html
 published: 2026-03-24
-quality_score: 6.5
+quality_score: 8.6
 tags: 仙台拉麵, 豚骨湯, 屋台文化, 供應鏈, 東北美食
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: castle-towns
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-castle-towns-okinawa-沖繩城下町-琉球王國貿易港的歷史散步指南-c942ce.html
 published: 2026-05-24
-quality_score: 6.5
+quality_score: 8.9
 tags: 沖繩城堡城鎮, 琉球王國, 世界文化遺產, 首里城, 歷史散步
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: wagyu
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-wagyu-kanazawa-金澤和牛-從牧場到餐桌的北陸極品之旅-0fc189.html
 published: 2026-06-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤美食, 石川縣和牛, 能登和牛, 日本美食, 和牛燒肉
 license: CC BY 4.0
 ---

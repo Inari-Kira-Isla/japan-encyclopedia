@@ -6,7 +6,7 @@ category: jr-pass
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-jr-pass-fukuoka-九州鐵路周遊券使用手冊-從福岡出發的縱貫之旅-4a61fa.html
 published: 2026-06-04
-quality_score: 7.5
+quality_score: 8.7
 tags: JR九州PASS, 九州自助行, 福岡交通, 由布院溫泉, 鹿兒島旅遊
 license: CC BY 4.0
 ---

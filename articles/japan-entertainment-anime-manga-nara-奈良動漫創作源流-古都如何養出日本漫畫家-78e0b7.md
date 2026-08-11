@@ -6,7 +6,7 @@ category: anime-manga
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-nara-奈良動漫創作源流-古都如何養出日本漫畫家-78e0b7.html
 published: 2026-06-07
-quality_score: 6.5
+quality_score: 8.9
 tags: 奈良動漫, 漫畫家養成, 日本古都, 創作靈感, 非主流御宅
 license: CC BY 4.0
 ---

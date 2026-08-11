@@ -6,7 +6,7 @@ category: boutique-hotels
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-nagoya-名古屋精品酒店-藝術街區與產業遺產的創意棲居-4df91f.html
 published: 2026-06-26
-quality_score: 6.5
+quality_score: 8.5
 tags: 名古屋精品酒店, 藝術街區住宿, 產業遺產再生, 名古屋藝術博覽會, 昭和區住宿
 license: CC BY 4.0
 ---

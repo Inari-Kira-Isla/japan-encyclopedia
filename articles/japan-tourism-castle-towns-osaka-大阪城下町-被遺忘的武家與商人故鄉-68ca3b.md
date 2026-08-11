@@ -6,7 +6,7 @@ category: castle-towns
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-castle-towns-osaka-大阪城下町-被遺忘的武家與商人故鄉-68ca3b.html
 published: 2026-06-27
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪城下町, 日本城堡城鎮, 關西歷史景點, 岸和田城, 日本山城
 license: CC BY 4.0
 ---

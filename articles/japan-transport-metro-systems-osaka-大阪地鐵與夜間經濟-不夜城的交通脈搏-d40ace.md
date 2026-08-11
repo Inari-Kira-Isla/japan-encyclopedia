@@ -6,7 +6,7 @@ category: metro-systems
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-osaka-大阪地鐵與夜間經濟-不夜城的交通脈搏-d40ace.html
 published: 2026-03-24
-quality_score: 7.5
+quality_score: 8.6
 tags: 大阪地鐵, 深夜交通, 夜間經濟, 居酒屋文化, 交通指南
 license: CC BY 4.0
 ---

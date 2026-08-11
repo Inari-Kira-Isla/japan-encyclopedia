@@ -6,7 +6,7 @@ category: festivals-matsuri
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-festivals-matsuri-sendai-仙台動漫小旅行-東北在地達人の隱藏版挖寶散步-e62416.html
 published: 2026-06-12
-quality_score: 6.5
+quality_score: 8.6
 tags: 仙台, 動漫, 東北, 挖寶, 在地文化
 license: CC BY 4.0
 ---

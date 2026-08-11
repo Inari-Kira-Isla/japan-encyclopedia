@@ -6,7 +6,7 @@ category: festivals-matsuri
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-festivals-matsuri-nagoya-名古屋祭典產業物語-工業之城的慶祝dna與在地狂歡-d43034.html
 published: 2026-06-30
-quality_score: 6.5
+quality_score: 8.6
 tags: 名古屋祭典, 名古屋祭, 日本祭典, 中京之都, 名古屋城
 license: CC BY 4.0
 ---

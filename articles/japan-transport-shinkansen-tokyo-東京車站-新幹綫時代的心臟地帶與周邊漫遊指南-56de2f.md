@@ -6,7 +6,7 @@ category: shinkansen
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-tokyo-東京車站-新幹綫時代的心臟地帶與周邊漫遊指南-56de2f.html
 published: 2026-06-26
-quality_score: 7.5
+quality_score: 8.7
 tags: 東京車站, 新幹綫, 東京交通, 日本鐵道, 東京自由行
 license: CC BY 4.0
 ---

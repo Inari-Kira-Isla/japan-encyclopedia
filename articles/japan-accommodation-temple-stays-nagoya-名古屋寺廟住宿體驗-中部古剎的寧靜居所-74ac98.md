@@ -6,7 +6,7 @@ category: temple-stays
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-temple-stays-nagoya-名古屋寺廟住宿體驗-中部古剎的寧靜居所-74ac98.html
 published: 2026-06-02
-quality_score: 6.5
+quality_score: 8.8
 tags: Temple Stay, Nagoya Travel, Japanese Ryokan, Spiritual Travel, Middle Japan
 license: CC BY 4.0
 ---

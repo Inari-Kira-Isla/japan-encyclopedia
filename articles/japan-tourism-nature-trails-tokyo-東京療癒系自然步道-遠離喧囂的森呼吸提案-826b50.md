@@ -6,7 +6,7 @@ category: nature-trails
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-tokyo-東京療癒系自然步道-遠離喧囂的森呼吸提案-826b50.html
 published: 2026-05-21
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京自然步道, 東京近郊登山, 入門級步道, 森林療癒, 奧多摩
 license: CC BY 4.0
 ---

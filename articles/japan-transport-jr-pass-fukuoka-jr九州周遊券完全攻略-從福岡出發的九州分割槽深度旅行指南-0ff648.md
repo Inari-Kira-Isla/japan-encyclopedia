@@ -6,7 +6,7 @@ category: jr-pass
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-jr-pass-fukuoka-jr九州周遊券完全攻略-從福岡出發的九州分割槽深度旅行指南-0ff648.html
 published: 2026-06-18
-quality_score: 7.5
+quality_score: 8.7
 tags: JR九州周遊券, 九州鐵道, 福岡交通, 九州深度旅行, 日本鐵道pass
 license: CC BY 4.0
 ---

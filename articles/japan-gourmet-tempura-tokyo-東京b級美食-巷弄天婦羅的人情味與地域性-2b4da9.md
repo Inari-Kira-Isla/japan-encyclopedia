@@ -6,7 +6,7 @@ category: tempura
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tempura-tokyo-東京b級美食-巷弄天婦羅的人情味與地域性-2b4da9.html
 published: 2026-05-25
-quality_score: 6.5
+quality_score: 8.5
 tags: 東京天婦羅, 巷弄美食, B級美食, 吉祥寺, 下北澤
 license: CC BY 4.0
 ---

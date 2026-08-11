@@ -6,7 +6,7 @@ category: cycling
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-kobe-神戶單車生活指南-日常街巷中的港都騎行美學-54d682.html
 published: 2026-06-06
-quality_score: 7.5
+quality_score: 8.8
 tags: 神戶單車, 神戶自由行, 神戶深度遊, 港都單車路線, 神戶在地體驗
 license: CC BY 4.0
 ---

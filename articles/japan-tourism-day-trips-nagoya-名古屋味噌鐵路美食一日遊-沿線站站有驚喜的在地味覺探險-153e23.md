@@ -6,7 +6,7 @@ category: day-trips
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-nagoya-名古屋味噌鐵路美食一日遊-沿線站站有驚喜的在地味覺探險-153e23.html
 published: 2026-06-06
-quality_score: 6.5
+quality_score: 8.6
 tags: 名古屋一日遊, 味噌美食, 名古屋鐵路, 在地美食, 日本中部
 license: CC BY 4.0
 ---

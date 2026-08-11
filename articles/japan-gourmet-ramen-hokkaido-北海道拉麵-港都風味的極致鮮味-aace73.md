@@ -6,7 +6,7 @@ category: ramen
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-ramen-hokkaido-北海道拉麵-港都風味的極致鮮味-aace73.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道拉麵, 港都拉麵, 小樽拉麵, 札幌美食, 日本美食
 license: CC BY 4.0
 ---

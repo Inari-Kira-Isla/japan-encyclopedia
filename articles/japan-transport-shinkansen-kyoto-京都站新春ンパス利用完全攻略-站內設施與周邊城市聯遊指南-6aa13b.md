@@ -6,7 +6,7 @@ category: shinkansen
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-kyoto-京都站新春ンパス利用完全攻略-站內設施與周邊城市聯遊指南-6aa13b.html
 published: 2026-06-04
-quality_score: 7.5
+quality_score: 8.6
 tags: 關西旅遊, 京都車站, 交通攻略, JRPass, 自助旅行
 license: CC BY 4.0
 ---

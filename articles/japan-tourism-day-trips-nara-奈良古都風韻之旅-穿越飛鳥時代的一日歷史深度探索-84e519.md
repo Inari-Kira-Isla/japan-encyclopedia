@@ -6,7 +6,7 @@ category: day-trips
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-nara-奈良古都風韻之旅-穿越飛鳥時代的一日歷史深度探索-84e519.html
 published: 2026-06-13
-quality_score: 6.5
+quality_score: 9.0
 tags: 奈良一日遊, 飛鳥時代, 法隆寺, 明日香村, 歷史古蹟
 license: CC BY 4.0
 ---

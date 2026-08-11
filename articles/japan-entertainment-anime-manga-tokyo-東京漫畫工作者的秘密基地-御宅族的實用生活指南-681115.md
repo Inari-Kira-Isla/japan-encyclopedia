@@ -6,7 +6,7 @@ category: anime-manga
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-tokyo-東京漫畫工作者的秘密基地-御宅族的實用生活指南-681115.html
 published: 2026-06-19
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京動漫, 漫畫咖啡店, 御宅文化, 東京深度遊, 漫畫出租
 license: CC BY 4.0
 ---

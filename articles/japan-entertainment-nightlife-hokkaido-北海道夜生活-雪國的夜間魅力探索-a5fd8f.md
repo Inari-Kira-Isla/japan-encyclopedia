@@ -6,7 +6,7 @@ category: nightlife
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-hokkaido-北海道夜生活-雪國的夜間魅力探索-a5fd8f.html
 published: 2026-03-20
-quality_score: 6.5
+quality_score: 8.8
 tags: 北海道夜生活, 薄野, 札幌酒吧, 威士忌, 成吉思汗烤肉
 license: CC BY 4.0
 ---

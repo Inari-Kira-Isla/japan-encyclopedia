@@ -6,7 +6,7 @@ category: street-food
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-street-food-kanazawa-金澤巷弄的銅板美味-古城市場的隱藏版庶民食絵-763f38.html
 published: 2026-06-04
-quality_score: 6.5
+quality_score: 8.6
 tags: 金澤, 石川縣, 街頭美食, 日本海岸线城市, 銅板價
 license: CC BY 4.0
 ---

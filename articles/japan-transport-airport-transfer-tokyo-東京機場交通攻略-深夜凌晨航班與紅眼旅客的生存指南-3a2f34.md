@@ -6,7 +6,7 @@ category: airport-transfer
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-airport-transfer-tokyo-東京機場交通攻略-深夜凌晨航班與紅眼旅客的生存指南-3a2f34.html
 published: 2026-06-16
-quality_score: 7.5
+quality_score: 8.5
 tags: 東京機場交通, 深夜航班, 紅眼航班, 機場接送, 東京住宿
 license: CC BY 4.0
 ---

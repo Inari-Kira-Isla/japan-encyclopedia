@@ -6,7 +6,7 @@ category: island-hopping
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-island-hopping-okinawa-沖繩北部跳島指南-探訪古城軌跡與傳承島嶼-0a8c1c.html
 published: 2026-05-31
-quality_score: 6.5
+quality_score: 8.7
 tags: 沖繩跳島, gusuku古城, 北部島嶼, 琉球王國, 伊江島
 license: CC BY 4.0
 ---

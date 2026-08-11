@@ -6,7 +6,7 @@ category: historical-districts
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-fukuoka-福岡歷史街區-當地人日常生活的私密路線-509d1f.html
 published: 2026-06-02
-quality_score: 6.5
+quality_score: 8.5
 tags: 福岡, 歷史街區, 深度旅遊, 在地文化, 庶民生活
 license: CC BY 4.0
 ---

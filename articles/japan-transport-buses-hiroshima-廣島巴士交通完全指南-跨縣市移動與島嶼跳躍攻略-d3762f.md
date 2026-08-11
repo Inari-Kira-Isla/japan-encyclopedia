@@ -6,7 +6,7 @@ category: buses
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-buses-hiroshima-廣島巴士交通完全指南-跨縣市移動與島嶼跳躍攻略-d3762f.html
 published: 2026-06-04
-quality_score: 7.5
+quality_score: 8.5
 tags: 廣島交通, 巴士推薦, 瀨戶內海, 跨縣市移動, 廣島巴士
 license: CC BY 4.0
 ---

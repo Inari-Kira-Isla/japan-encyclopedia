@@ -6,7 +6,7 @@ category: boutique-hotels
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-fukuoka-福岡精品酒店地圖-屋臺街區到灣岸設計的在地美學下榻-2af18f.html
 published: 2026-03-24
-quality_score: 6.5
+quality_score: 8.7
 tags: 福岡, 精品酒店, 日本住宿, 設計飯店, 屋台文化
 license: CC BY 4.0
 ---

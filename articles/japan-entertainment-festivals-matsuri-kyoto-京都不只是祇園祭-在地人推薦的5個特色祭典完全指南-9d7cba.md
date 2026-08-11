@@ -6,7 +6,7 @@ category: festivals-matsuri
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-festivals-matsuri-kyoto-京都不只是祇園祭-在地人推薦的5個特色祭典完全指南-9d7cba.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 8.7
 tags: 京都祭典, 祇園祭, 京都文化體驗, 日本傳統祭祀, 京都在地推薦
 license: CC BY 4.0
 ---

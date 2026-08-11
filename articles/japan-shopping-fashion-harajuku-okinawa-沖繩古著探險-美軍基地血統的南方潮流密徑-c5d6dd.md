@@ -6,7 +6,7 @@ category: fashion-harajuku
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-fashion-harajuku-okinawa-沖繩古著探險-美軍基地血統的南方潮流密徑-c5d6dd.html
 published: 2026-06-02
-quality_score: 7.5
+quality_score: 8.8
 tags: 沖繩購物, 古著推薦, 美軍基地文化, 南國時尚, 古著市集
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: kabuki-theatre
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-kabuki-theatre-osaka-大阪觀賞歌舞伎不完全指南-新手入門與劇場選擇-04da77.html
 published: 2026-05-21
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪, Kabuki, 歌舞使, 关西表演艺术, 大阪旅游
 license: CC BY 4.0
 ---

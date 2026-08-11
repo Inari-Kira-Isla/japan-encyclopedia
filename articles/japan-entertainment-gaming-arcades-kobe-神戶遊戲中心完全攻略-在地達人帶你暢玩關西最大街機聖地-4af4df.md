@@ -6,7 +6,7 @@ category: gaming-arcades
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-gaming-arcades-kobe-神戶遊戲中心完全攻略-在地達人帶你暢玩關西最大街機聖地-4af4df.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 8.8
 tags: 神戶遊戲中心, 街機, 關西娛樂, 日本室內活動, 神戶三宮
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: island-hopping
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-island-hopping-okinawa-沖繩跳島深度旅遊-探索在地人推薦的隱藏版島嶼-92e57d.html
 published: 2026-04-06
-quality_score: 6.5
+quality_score: 8.8
 tags: 沖繩跳島, 慶良間諸島, 座間味島, 渡嘉敷島, 久高島
 license: CC BY 4.0
 ---

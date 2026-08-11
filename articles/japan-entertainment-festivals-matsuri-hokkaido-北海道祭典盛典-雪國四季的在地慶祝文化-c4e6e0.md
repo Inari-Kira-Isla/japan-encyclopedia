@@ -6,7 +6,7 @@ category: festivals-matsuri
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-festivals-matsuri-hokkaido-北海道祭典盛典-雪國四季的在地慶祝文化-c4e6e0.html
 published: 2026-06-02
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道, 雪祭, 札幌雪祭, 旭川冬祭, 溫泉祭
 license: CC BY 4.0
 ---

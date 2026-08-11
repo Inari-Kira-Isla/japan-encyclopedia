@@ -6,7 +6,7 @@ category: yakitori
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-yakitori-nara-奈良的燒鳥-世界遺產城市的生活與旅遊味蕾-5f710d.html
 published: 2026-03-30
-quality_score: 6.5
+quality_score: 8.8
 tags: 奈良燒鳥, 日本料理, 奈良美食, Yakitori, 關西美食
 license: CC BY 4.0
 ---

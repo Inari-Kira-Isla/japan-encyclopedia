@@ -6,7 +6,7 @@ category: ramen
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-ramen-hiroshima-廣島拉麵-在地人的隱藏日常-a052ca.html
 published: 2026-03-28
-quality_score: 6.5
+quality_score: 8.6
 tags: 廣島拉麵, 在地美食, 日常飲食, 上班族, 深夜食堂
 license: CC BY 4.0
 ---

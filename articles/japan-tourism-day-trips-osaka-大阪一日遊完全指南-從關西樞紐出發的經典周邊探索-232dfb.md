@@ -6,7 +6,7 @@ category: day-trips
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-osaka-大阪一日遊完全指南-從關西樞紐出發的經典周邊探索-232dfb.html
 published: 2026-03-18
-quality_score: 6.5
+quality_score: 8.8
 tags: 大阪旅遊, 關西一日遊, 日本文化, 交通攻略, 周邊景點
 license: CC BY 4.0
 ---

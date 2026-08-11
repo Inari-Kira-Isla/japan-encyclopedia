@@ -6,7 +6,7 @@ category: minshuku
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-osaka-大阪民宿與甜品小旅行-北區・阿倍野的甜蜜棲所-c07d76.html
 published: 2026-06-06
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪民宿, 抹茶甜品, 關西住宿, 北區民宿, 阿倍野
 license: CC BY 4.0
 ---

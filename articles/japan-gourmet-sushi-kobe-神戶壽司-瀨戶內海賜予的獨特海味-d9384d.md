@@ -6,7 +6,7 @@ category: sushi
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sushi-kobe-神戶壽司-瀨戶內海賜予的獨特海味-d9384d.html
 published: 2026-06-03
-quality_score: 6.5
+quality_score: 8.7
 tags: 神戶壽司, 瀨戶內海, 朝壽司, 明石港, 播磨牡蠣
 license: CC BY 4.0
 ---

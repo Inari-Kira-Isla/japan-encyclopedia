@@ -6,7 +6,7 @@ category: cultural-experience
 area: japan
 url: https://japan-encyclopedia.vercel.app/articles/japan-attractions-cultural-experience-日本禪宗和坐禪體驗完整指南2026-永平寺-南禪寺-建仁寺-坐禪費用-jpy-完全攻-f9d084.html
 published: 2026-05-01
-quality_score: 7.6
+quality_score: 8.4
 tags: 日本禪宗, 坐禪體驗, 永平寺, 禪修日本, 日本精進料理
 license: CC BY 4.0
 ---

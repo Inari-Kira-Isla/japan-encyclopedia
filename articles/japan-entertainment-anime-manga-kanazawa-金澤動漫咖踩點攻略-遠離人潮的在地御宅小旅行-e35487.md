@@ -6,7 +6,7 @@ category: anime-manga
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-kanazawa-金澤動漫咖踩點攻略-遠離人潮的在地御宅小旅行-e35487.html
 published: 2026-06-17
-quality_score: 6.5
+quality_score: 8.8
 tags: 金澤動漫, 金澤御宅, 日本動漫之旅, 金澤挖寶, 北陸動漫
 license: CC BY 4.0
 ---

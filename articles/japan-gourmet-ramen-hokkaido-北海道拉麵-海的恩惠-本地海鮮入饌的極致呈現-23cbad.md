@@ -6,7 +6,7 @@ category: ramen
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-ramen-hokkaido-北海道拉麵-海的恩惠-本地海鮮入饌的極致呈現-23cbad.html
 published: 2026-06-03
-quality_score: 6.5
+quality_score: 8.4
 tags: 北海道拉麵, 在地美食, 海鮮拉麵, 日本拉麵, 札幌
 license: CC BY 4.0
 ---

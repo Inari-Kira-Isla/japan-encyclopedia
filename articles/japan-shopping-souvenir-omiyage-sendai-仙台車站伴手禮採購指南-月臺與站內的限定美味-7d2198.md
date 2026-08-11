@@ -6,7 +6,7 @@ category: souvenir-omiyage
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-souvenir-omiyage-sendai-仙台車站伴手禮採購指南-月臺與站內的限定美味-7d2198.html
 published: 2026-06-25
-quality_score: 7.5
+quality_score: 8.7
 tags: 仙台伴手禮, 車站購物, 毛豆製品, 牛舌, 東北限定
 license: CC BY 4.0
 ---

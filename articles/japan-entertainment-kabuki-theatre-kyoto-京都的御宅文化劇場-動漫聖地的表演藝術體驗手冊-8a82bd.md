@@ -6,7 +6,7 @@ category: kabuki-theatre
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-kabuki-theatre-kyoto-京都的御宅文化劇場-動漫聖地的表演藝術體驗手冊-8a82bd.html
 published: 2026-06-08
-quality_score: 6.5
+quality_score: 8.6
 tags: 京都, 御宅文化, 動漫, 表演藝術, 咖啡廳
 license: CC BY 4.0
 ---

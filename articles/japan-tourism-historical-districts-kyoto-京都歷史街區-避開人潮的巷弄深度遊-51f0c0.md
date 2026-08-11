@@ -6,7 +6,7 @@ category: historical-districts
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-kyoto-京都歷史街區-避開人潮的巷弄深度遊-51f0c0.html
 published: 2026-07-03
-quality_score: 6.5
+quality_score: 8.9
 tags: 京都, 歷史街區, 深度旅遊, 在地文化, 日本自助旅行
 license: CC BY 4.0
 ---

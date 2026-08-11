@@ -6,7 +6,7 @@ category: onsen
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-onsen-nagoya-名古屋溫泉不完全指南-城市裡的錢湯與周邊溫泉一日遊-198d5d.html
 published: 2026-05-21
-quality_score: 6.5
+quality_score: 8.5
 tags: 名古屋溫泉, 錢湯, 名古屋一日遊, 西山溫泉, 下呂溫泉
 license: CC BY 4.0
 ---

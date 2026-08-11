@@ -6,7 +6,7 @@ category: duty-free
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-duty-free-fukuoka-福岡免稅購物黃金期-日圓低位下的精明購物攻略與在地推薦-bc942f.html
 published: 2026-05-25
-quality_score: 7.5
+quality_score: 8.7
 tags: 福岡免稅, 九州購物, 日圓匯率, 天神商圈, 藥妝店
 license: CC BY 4.0
 ---

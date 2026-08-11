@@ -6,7 +6,7 @@ category: rental-cars
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-kanazawa-金澤租車美食攻略-自駕探索日本海側鮮味小鎮-435681.html
 published: 2026-06-17
-quality_score: 7.5
+quality_score: 8.6
 tags: 金澤租車, 自駕遊, 日本海, 海鮮美食, 冰見
 license: CC BY 4.0
 ---

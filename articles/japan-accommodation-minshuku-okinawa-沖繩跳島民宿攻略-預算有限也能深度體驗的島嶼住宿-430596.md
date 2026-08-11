@@ -6,7 +6,7 @@ category: minshuku
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-okinawa-沖繩跳島民宿攻略-預算有限也能深度體驗的島嶼住宿-430596.html
 published: 2026-06-29
-quality_score: 6.5
+quality_score: 8.5
 tags: 沖繩民宿, 跳島旅行, 預算住宿, 琉球文化, 島嶼體驗
 license: CC BY 4.0
 ---

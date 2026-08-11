@@ -6,7 +6,7 @@ category: minshuku
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-kanazawa-金澤藝術旅宿指南-在工藝古城遇見設計型民宿-57e166.html
 published: 2026-06-27
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤民宿, 日本藝術旅宿, 金澤自由行, 加賀溫泉, 日本深度旅遊
 license: CC BY 4.0
 ---

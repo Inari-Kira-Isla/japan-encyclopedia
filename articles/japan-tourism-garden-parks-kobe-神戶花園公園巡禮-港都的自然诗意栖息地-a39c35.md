@@ -6,7 +6,7 @@ category: garden-parks
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-kobe-神戶花園公園巡禮-港都的自然诗意栖息地-a39c35.html
 published: 2026-03-15
-quality_score: 6.5
+quality_score: 8.1
 tags: 神戶, 花園, 公園, 自然景觀, 六甲山
 license: CC BY 4.0
 ---

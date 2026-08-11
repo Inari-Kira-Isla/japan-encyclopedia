@@ -6,7 +6,7 @@ category: festivals-matsuri
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-festivals-matsuri-nagoya-名古屋-festivals-祭典這樣玩-中京之都的在地體驗與隱藏版攻略-553317.html
 published: 2026-05-22
-quality_score: 6.5
+quality_score: 8.9
 tags: 名古屋祭典, 中京之都, 日本祭典, 名古屋城, 桶狹間
 license: CC BY 4.0
 ---

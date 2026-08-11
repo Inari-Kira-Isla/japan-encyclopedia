@@ -6,7 +6,7 @@ category: island-hopping
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-island-hopping-fukuoka-福岡跳島指南-從博多港出發的九州北部島嶼探索-08308d.html
 published: 2026-07-04
-quality_score: 6.5
+quality_score: 8.8
 tags: 福岡, 跳島, 壹岐島, 對馬島, 糸島
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: tonkatsu
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tonkatsu-tokyo-東京炸豬排-發源地的工藝傳承與供應鏈優勢-c1743e.html
 published: 2026-04-04
-quality_score: 6.5
+quality_score: 8.8
 tags: 東京美食, 炸豬排, 銀座美食, 日式料理, 東京老舖
 license: CC BY 4.0
 ---

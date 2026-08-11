@@ -6,7 +6,7 @@ category: karaoke
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-karaoke-nagoya-名古屋卡拉ok-務實唱將的實惠選擇-3aa82c.html
 published: 2026-06-16
-quality_score: 6.5
+quality_score: 8.6
 tags: 名古屋, 卡拉OK, 中部地方, 夜生活, 實惠選擇
 license: CC BY 4.0
 ---

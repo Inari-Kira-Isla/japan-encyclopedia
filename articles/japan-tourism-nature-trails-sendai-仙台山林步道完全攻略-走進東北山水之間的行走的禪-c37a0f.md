@@ -6,7 +6,7 @@ category: nature-trails
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-sendai-仙台山林步道完全攻略-走進東北山水之間的行走的禪-c37a0f.html
 published: 2026-05-24
-quality_score: 6.5
+quality_score: 8.5
 tags: 仙台步道, 東北自然, 日本登山, 的自然之旅, 疗愈旅行
 license: CC BY 4.0
 ---

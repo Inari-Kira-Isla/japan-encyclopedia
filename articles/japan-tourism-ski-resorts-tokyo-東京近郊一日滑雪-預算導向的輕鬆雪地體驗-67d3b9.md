@@ -6,7 +6,7 @@ category: ski-resorts
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-ski-resorts-tokyo-東京近郊一日滑雪-預算導向的輕鬆雪地體驗-67d3b9.html
 published: 2026-06-11
-quality_score: 6.5
+quality_score: 8.6
 tags: 東京滑雪, 近郊滑雪, 一日滑雪, 預算滑雪, 群馬県滑雪
 license: CC BY 4.0
 ---

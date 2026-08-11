@@ -6,7 +6,7 @@ category: garden-parks
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-hiroshima-廣島花園公園-市民日常的綠意生活-3bc566.html
 published: 2026-05-23
-quality_score: 6.5
+quality_score: 8.7
 tags: 广岛花园, 广岛公园, 日本花园, 回游式庭园, 亲子景点
 license: CC BY 4.0
 ---

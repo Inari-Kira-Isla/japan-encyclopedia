@@ -6,7 +6,7 @@ category: gaming-arcades
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-gaming-arcades-okinawa-沖繩遊戲中心-省錢攻略-在地人帶路的cp值玩樂地圖-78d29c.html
 published: 2026-06-17
-quality_score: 6.5
+quality_score: 8.6
 tags: 沖繩遊戲中心, 沖繩親子遊樂, 沖繩室內活動, Okinawa, 日本街機
 license: CC BY 4.0
 ---

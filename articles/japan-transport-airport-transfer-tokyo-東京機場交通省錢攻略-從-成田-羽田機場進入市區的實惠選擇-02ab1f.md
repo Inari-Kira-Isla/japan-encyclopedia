@@ -6,7 +6,7 @@ category: airport-transfer
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-airport-transfer-tokyo-東京機場交通省錢攻略-從-成田-羽田機場進入市區的實惠選擇-02ab1f.html
 published: 2026-06-10
-quality_score: 7.5
+quality_score: 8.6
 tags: 東京機場交通, 東京機場接送, 、田機場交通, 虹場機場交通, 東京省錢交通
 license: CC BY 4.0
 ---

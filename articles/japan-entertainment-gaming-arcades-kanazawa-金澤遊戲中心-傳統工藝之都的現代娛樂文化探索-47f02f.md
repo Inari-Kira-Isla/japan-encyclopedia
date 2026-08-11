@@ -6,7 +6,7 @@ category: gaming-arcades
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-gaming-arcades-kanazawa-金澤遊戲中心-傳統工藝之都的現代娛樂文化探索-47f02f.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤, 遊戲中心, 街機文化, 北陸旅遊, 娛樂體驗
 license: CC BY 4.0
 ---

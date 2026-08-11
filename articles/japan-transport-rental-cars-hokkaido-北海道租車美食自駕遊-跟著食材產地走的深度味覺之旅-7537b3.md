@@ -6,7 +6,7 @@ category: rental-cars
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-hokkaido-北海道租車美食自駕遊-跟著食材產地走的深度味覺之旅-7537b3.html
 published: 2026-06-25
-quality_score: 7.5
+quality_score: 8.7
 tags: 北海道租車, 美食自駕遊, 北海道海鮮, 釧路, 帶廣豚井
 license: CC BY 4.0
 ---

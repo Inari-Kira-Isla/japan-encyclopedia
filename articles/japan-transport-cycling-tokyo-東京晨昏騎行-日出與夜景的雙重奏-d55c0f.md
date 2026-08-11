@@ -6,7 +6,7 @@ category: cycling
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-tokyo-東京晨昏騎行-日出與夜景的雙重奏-d55c0f.html
 published: 2026-04-02
-quality_score: 7.5
+quality_score: 8.7
 tags: 東京單車, 晨騎, 夜景騎行, 隅田川, 皇居
 license: CC BY 4.0
 ---

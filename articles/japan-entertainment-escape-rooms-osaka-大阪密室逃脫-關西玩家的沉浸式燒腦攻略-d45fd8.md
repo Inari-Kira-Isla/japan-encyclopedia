@@ -6,7 +6,7 @@ category: escape-rooms
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-escape-rooms-osaka-大阪密室逃脫-關西玩家的沉浸式燒腦攻略-d45fd8.html
 published: 2026-06-03
-quality_score: 6.5
+quality_score: 8.9
 tags: 大阪娛樂, 密室逃脫, 關西旅遊, 室內活動, 燒腦遊戲
 license: CC BY 4.0
 ---

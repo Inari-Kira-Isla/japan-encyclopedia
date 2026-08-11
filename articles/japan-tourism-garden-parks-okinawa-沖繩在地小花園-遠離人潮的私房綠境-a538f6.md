@@ -6,7 +6,7 @@ category: garden-parks
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-okinawa-沖繩在地小花園-遠離人潮的私房綠境-a538f6.html
 published: 2026-07-04
-quality_score: 6.5
+quality_score: 8.6
 tags: 沖繩景點, 小花園, 私房推薦, 農業體驗, 深度旅遊
 license: CC BY 4.0
 ---

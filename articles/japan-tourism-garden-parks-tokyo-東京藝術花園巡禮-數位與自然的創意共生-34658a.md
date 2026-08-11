@@ -6,7 +6,7 @@ category: garden-parks
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-tokyo-東京藝術花園巡禮-數位與自然的創意共生-34658a.html
 published: 2026-06-11
-quality_score: 6.5
+quality_score: 8.8
 tags: 東京花園, 藝術花園, teamLab, 數位藝術, 都市綠洲
 license: CC BY 4.0
 ---

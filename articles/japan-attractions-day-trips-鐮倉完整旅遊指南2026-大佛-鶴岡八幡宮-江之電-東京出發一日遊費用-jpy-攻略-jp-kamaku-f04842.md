@@ -6,7 +6,7 @@ category: day-trips
 area: japan
 url: https://japan-encyclopedia.vercel.app/articles/japan-attractions-day-trips-鐮倉完整旅遊指南2026-大佛-鶴岡八幡宮-江之電-東京出發一日遊費用-jpy-攻略-jp-kamaku-f04842.html
 published: 2026-03-31
-quality_score: 7.1
+quality_score: 8.7
 tags: 鐮倉旅遊, 鐮倉大佛, 江之電, 灌籃高手聖地, 鐮倉一日遊
 license: CC BY 4.0
 ---

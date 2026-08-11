@@ -6,7 +6,7 @@ category: tonkatsu
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tonkatsu-osaka-大阪豚カツ-關西洋食的酥脆哲學-7655d4.html
 published: 2026-06-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪美食, 豚カツ, 關西洋食, 炸豬排, 大阪推薦
 license: CC BY 4.0
 ---

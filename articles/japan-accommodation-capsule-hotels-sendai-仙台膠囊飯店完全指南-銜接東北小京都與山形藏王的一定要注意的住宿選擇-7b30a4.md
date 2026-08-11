@@ -6,7 +6,7 @@ category: capsule-hotels
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-capsule-hotels-sendai-仙台膠囊飯店完全指南-銜接東北小京都與山形藏王的一定要注意的住宿選擇-7b30a4.html
 published: 2026-06-21
-quality_score: 6.5
+quality_score: 8.7
 tags: 仙台, 膠囊飯店, 東北住宿, 日本住宿, budget-travel
 license: CC BY 4.0
 ---

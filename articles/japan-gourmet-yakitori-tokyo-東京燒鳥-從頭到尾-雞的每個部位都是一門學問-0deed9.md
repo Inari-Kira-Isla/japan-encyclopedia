@@ -6,7 +6,7 @@ category: yakitori
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-yakitori-tokyo-東京燒鳥-從頭到尾-雞的每個部位都是一門學問-0deed9.html
 published: 2026-06-23
-quality_score: 6.5
+quality_score: 8.6
 tags: 東京美食, 燒鳥, 串燒, 內臟, 日本料理
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: nightlife
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-kanazawa-金澤夜色-古街巷裡的微醺時光-300235.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 8.9
 tags: 金澤夜生活, 石川縣旅遊, 日本傳統酒吧, 金澤美食, 古城夜遊
 license: CC BY 4.0
 ---

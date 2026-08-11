@@ -6,7 +6,7 @@ category: rental-cars
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-fukuoka-福岡租車美食自駕遊-循著海味與酒香的公路食堂-b05c87.html
 published: 2026-06-29
-quality_score: 7.5
+quality_score: 8.9
 tags: 福岡租車, 九州自駕遊, 糸島海鮮, 門司港美食, 下關河豚
 license: CC BY 4.0
 ---

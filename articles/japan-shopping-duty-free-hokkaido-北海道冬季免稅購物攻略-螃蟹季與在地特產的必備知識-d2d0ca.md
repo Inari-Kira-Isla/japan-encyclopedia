@@ -6,7 +6,7 @@ category: duty-free
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-duty-free-hokkaido-北海道冬季免稅購物攻略-螃蟹季與在地特產的必備知識-d2d0ca.html
 published: 2026-05-25
-quality_score: 7.5
+quality_score: 8.8
 tags: 北海道, 免稅購物, 冬季旅遊, 螃蟹, 海鮮
 license: CC BY 4.0
 ---

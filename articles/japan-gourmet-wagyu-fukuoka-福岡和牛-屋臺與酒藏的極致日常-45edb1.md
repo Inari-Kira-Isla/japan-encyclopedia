@@ -6,7 +6,7 @@ category: wagyu
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-wagyu-fukuoka-福岡和牛-屋臺與酒藏的極致日常-45edb1.html
 published: 2026-06-18
-quality_score: 6.5
+quality_score: 8.9
 tags: 福岡和牛, 屋臺文化, 九州美食, 在地美食, 燒肉
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: theme-parks
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-theme-parks-kyoto-京都主題樂園進階攻略-關西古都的跨城歡樂延伸-6234e7.html
 published: 2026-05-24
-quality_score: 6.5
+quality_score: 8.7
 tags: 京都主题乐园, 关西亲子游, 京都近郊景点, 日本主题乐园攻略, 京都自由行
 license: CC BY 4.0
 ---

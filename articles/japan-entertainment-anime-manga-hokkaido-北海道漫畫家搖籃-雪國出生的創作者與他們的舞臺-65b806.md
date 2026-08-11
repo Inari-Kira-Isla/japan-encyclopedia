@@ -6,7 +6,7 @@ category: anime-manga
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-hokkaido-北海道漫畫家搖籃-雪國出生的創作者與他們的舞臺-65b806.html
 published: 2026-06-28
-quality_score: 6.5
+quality_score: 8.6
 tags: 北海道, 動漫, 漫畫家, 銀之匙, 札幌
 license: CC BY 4.0
 ---

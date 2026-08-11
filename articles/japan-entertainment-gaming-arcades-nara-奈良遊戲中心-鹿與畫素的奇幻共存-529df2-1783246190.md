@@ -6,7 +6,7 @@ category: gaming-arcades
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-gaming-arcades-nara-奈良遊戲中心-鹿與畫素的奇幻共存-529df2-1783246190.html
 published: 2026-07-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 奈良旅遊, 街機文化, 關西娛樂, 日本遊戲中心, 奈良自由行
 license: CC BY 4.0
 ---

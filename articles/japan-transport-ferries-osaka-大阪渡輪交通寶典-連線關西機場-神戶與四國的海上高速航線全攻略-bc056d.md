@@ -6,7 +6,7 @@ category: ferries
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-ferries-osaka-大阪渡輪交通寶典-連線關西機場-神戶與四國的海上高速航線全攻略-bc056d.html
 published: 2026-06-16
-quality_score: 7.5
+quality_score: 8.5
 tags: 大阪交通, 大阪港, 關西機場交通, 神戶大阪航線, 四國渡輪
 license: CC BY 4.0
 ---

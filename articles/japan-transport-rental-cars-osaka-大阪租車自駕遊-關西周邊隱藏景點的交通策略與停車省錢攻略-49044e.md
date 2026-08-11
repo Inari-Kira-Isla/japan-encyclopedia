@@ -6,7 +6,7 @@ category: rental-cars
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-osaka-大阪租車自駕遊-關西周邊隱藏景點的交通策略與停車省錢攻略-49044e.html
 published: 2026-06-10
-quality_score: 7.5
+quality_score: 8.8
 tags: 大阪租車, 關西自駕, 琵琶湖自駕, 紀伊半島, 大阪周邊
 license: CC BY 4.0
 ---

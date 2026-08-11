@@ -6,7 +6,7 @@ category: karaoke
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-karaoke-tokyo-東京卡拉ok-外國遊客的歡唱攻略手冊-19c9fa.html
 published: 2026-06-07
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京卡拉OK, 東京娛樂, 外國遊客, 日本語娛樂, 東京夜生活
 license: CC BY 4.0
 ---

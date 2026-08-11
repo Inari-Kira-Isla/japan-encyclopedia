@@ -6,7 +6,7 @@ category: rental-cars
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-kyoto-京都租車反向思考-何時該租車-何時不該租的實用判斷-859020.html
 published: 2026-06-29
-quality_score: 7.5
+quality_score: 8.6
 tags: 京都租車, 關西自駕, 京都自由行, 日本租車, 京都交通
 license: CC BY 4.0
 ---

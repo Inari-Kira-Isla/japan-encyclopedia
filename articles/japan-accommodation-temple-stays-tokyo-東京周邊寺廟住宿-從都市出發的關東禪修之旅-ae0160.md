@@ -6,7 +6,7 @@ category: temple-stays
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-temple-stays-tokyo-東京周邊寺廟住宿-從都市出發的關東禪修之旅-ae0160.html
 published: 2026-07-04
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京寺廟住宿, 關東宿坊, 日光住宿, 鐮倉禪修, 東京周邊旅遊
 license: CC BY 4.0
 ---

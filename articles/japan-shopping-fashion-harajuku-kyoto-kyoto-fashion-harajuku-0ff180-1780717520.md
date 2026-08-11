@@ -6,7 +6,7 @@ category: fashion-harajuku
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-fashion-harajuku-kyoto-kyoto-fashion-harajuku-0ff180-1780717520.html
 published: 2026-06-06
-quality_score: 6.5
+quality_score: 0.0
 tags: fashion-harajuku, kyoto, japan
 license: CC BY 4.0
 ---

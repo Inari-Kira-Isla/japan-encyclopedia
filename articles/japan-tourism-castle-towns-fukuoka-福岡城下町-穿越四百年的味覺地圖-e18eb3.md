@@ -6,7 +6,7 @@ category: castle-towns
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-castle-towns-fukuoka-福岡城下町-穿越四百年的味覺地圖-e18eb3.html
 published: 2026-07-05
-quality_score: 6.5
+quality_score: 8.8
 tags: 福岡城下町, 九州歷史, 武家文化, 博多美食, 日本城堡城鎮
 license: CC BY 4.0
 ---

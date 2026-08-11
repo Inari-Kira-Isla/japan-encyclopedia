@@ -6,7 +6,7 @@ category: department-stores
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-department-stores-hiroshima-廣島百貨公司的無障礙購物革命-跨世代共融的商業新體驗-77f9b8.html
 published: 2026-04-06
-quality_score: 7.5
+quality_score: 8.8
 tags: 無障礙購物, 銀髮經濟, 跨世代消費, 廣島百貨, 日本零售
 license: CC BY 4.0
 ---

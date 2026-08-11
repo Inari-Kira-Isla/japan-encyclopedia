@@ -6,7 +6,7 @@ category: sushi
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sushi-hiroshima-廣島壽司-清晨港邊的極致鮮味-692cf1.html
 published: 2026-06-30
-quality_score: 6.5
+quality_score: 8.5
 tags: 廣島壽司, 瀨戶內海美食, 日本料理, 早餐壽司, 港口美食
 license: CC BY 4.0
 ---

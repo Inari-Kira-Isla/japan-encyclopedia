@@ -6,7 +6,7 @@ category: duty-free
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-duty-free-tokyo-東京免稅購物另類指南-隱藏版工藝品店與特色小物地圖-101aa2.html
 published: 2026-06-24
-quality_score: 7.5
+quality_score: 8.6
 tags: 東京免稅購物, 東京自由行, 日本購物攻略, 東京工藝品店, 東京生活雜貨
 license: CC BY 4.0
 ---

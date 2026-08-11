@@ -6,7 +6,7 @@ category: anime-manga
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-fukuoka-福岡動漫聖地巡禮-九州御宅族的秘密基地-7b1d57.html
 published: 2026-06-02
-quality_score: 6.5
+quality_score: 8.9
 tags: 福岡, 動漫聖地巡禮, 御宅文化, 九州, 同人誌
 license: CC BY 4.0
 ---

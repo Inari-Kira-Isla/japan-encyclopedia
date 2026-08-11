@@ -6,7 +6,7 @@ category: castle-towns
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-castle-towns-osaka-大阪古城風情-探訪武家與商人共織的城下町-9160c7.html
 published: 2026-06-17
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪, 城下町, 歷史散步, 武家文化, 關西一日遊
 license: CC BY 4.0
 ---

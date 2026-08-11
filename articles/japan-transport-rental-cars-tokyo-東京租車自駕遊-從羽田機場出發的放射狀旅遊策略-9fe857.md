@@ -6,7 +6,7 @@ category: rental-cars
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-tokyo-東京租車自駕遊-從羽田機場出發的放射狀旅遊策略-9fe857.html
 published: 2026-06-30
-quality_score: 7.5
+quality_score: 8.5
 tags: 東京租車, 東京自駕, 東京自由行, 羽田機場租車, 關東租車
 license: CC BY 4.0
 ---

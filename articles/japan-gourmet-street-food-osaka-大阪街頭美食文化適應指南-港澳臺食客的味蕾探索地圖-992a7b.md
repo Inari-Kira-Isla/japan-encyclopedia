@@ -6,7 +6,7 @@ category: street-food
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-street-food-osaka-大阪街頭美食文化適應指南-港澳臺食客的味蕾探索地圖-992a7b.html
 published: 2026-04-06
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪美食, 街頭小吃, 日本文化, 旅遊指南, 美食評鑑
 license: CC BY 4.0
 ---

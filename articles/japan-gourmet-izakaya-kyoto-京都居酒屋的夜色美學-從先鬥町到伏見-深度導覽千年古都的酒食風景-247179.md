@@ -6,7 +6,7 @@ category: izakaya
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-izakaya-kyoto-京都居酒屋的夜色美學-從先鬥町到伏見-深度導覽千年古都的酒食風景-247179.html
 published: 2026-06-17
-quality_score: 6.5
+quality_score: 8.5
 tags: 京都居酒屋, 京都美食, 京都夜生活, 京都旅遊, 京料理
 license: CC BY 4.0
 ---

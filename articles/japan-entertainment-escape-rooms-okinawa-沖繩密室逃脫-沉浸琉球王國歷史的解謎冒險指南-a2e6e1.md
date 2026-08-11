@@ -6,7 +6,7 @@ category: escape-rooms
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-escape-rooms-okinawa-沖繩密室逃脫-沉浸琉球王國歷史的解謎冒險指南-a2e6e1.html
 published: 2026-06-16
-quality_score: 6.5
+quality_score: 8.7
 tags: 沖繩密室逃脫, 琉球王國, 首里城, 石垣島, 日本娛樂
 license: CC BY 4.0
 ---

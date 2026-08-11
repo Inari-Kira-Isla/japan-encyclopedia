@@ -6,7 +6,7 @@ category: buses
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-buses-kobe-神戶巴士完全攻略-觀光客的公共交通指南-e2d161.html
 published: 2026-06-15
-quality_score: 7.5
+quality_score: 8.9
 tags: 神戶, 巴士交通, 關西, 神戶觀光, 港都
 license: CC BY 4.0
 ---

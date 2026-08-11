@@ -6,7 +6,7 @@ category: ferries
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-ferries-kyoto-京都河川遊艇-戀人們的浪漫夜景巡航-47ac52.html
 published: 2026-06-29
-quality_score: 7.5
+quality_score: 8.5
 tags: 京都河川, 京都夜景, 京都約會, 京都遊艇, 川床料理
 license: CC BY 4.0
 ---

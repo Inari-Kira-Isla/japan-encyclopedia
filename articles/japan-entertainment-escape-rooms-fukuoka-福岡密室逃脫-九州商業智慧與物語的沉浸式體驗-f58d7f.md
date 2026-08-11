@@ -6,7 +6,7 @@ category: escape-rooms
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-escape-rooms-fukuoka-福岡密室逃脫-九州商業智慧與物語的沉浸式體驗-f58d7f.html
 published: 2026-06-12
-quality_score: 6.5
+quality_score: 8.4
 tags: 福岡密室逃脫, 九州娛樂, 博多人氣體驗, 福岡雨天備案, 團體旅遊推薦
 license: CC BY 4.0
 ---

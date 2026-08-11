@@ -6,7 +6,7 @@ category: karaoke
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-karaoke-nara-奈良卡拉ok-大學城裡的青春歌聲-b4a5d7.html
 published: 2026-04-07
-quality_score: 6.5
+quality_score: 8.7
 tags: 奈良娛樂, 卡拉OK, 學生文化, 古都體驗, 親民消費
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: metro-systems
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-fukuoka-福岡地鐵-九州年輕城市的創意脈搏-676cc3.html
 published: 2026-03-24
-quality_score: 7.5
+quality_score: 8.5
 tags: 福岡交通, 地鐵系統, 本地文化, 創意產業, 日常生活
 license: CC BY 4.0
 ---

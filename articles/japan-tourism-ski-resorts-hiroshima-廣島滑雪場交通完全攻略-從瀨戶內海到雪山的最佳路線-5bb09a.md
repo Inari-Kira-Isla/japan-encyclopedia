@@ -6,7 +6,7 @@ category: ski-resorts
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-ski-resorts-hiroshima-廣島滑雪場交通完全攻略-從瀨戶內海到雪山的最佳路線-5bb09a.html
 published: 2026-04-03
-quality_score: 6.5
+quality_score: 8.8
 tags: 廣島滑雪, 交通攻略, 冬季運動, 山區滑雪, 初學者滑雪
 license: CC BY 4.0
 ---

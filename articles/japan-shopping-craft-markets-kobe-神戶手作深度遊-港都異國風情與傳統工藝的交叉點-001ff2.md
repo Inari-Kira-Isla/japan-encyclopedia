@@ -6,7 +6,7 @@ category: craft-markets
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-craft-markets-kobe-神戶手作深度遊-港都異國風情與傳統工藝的交叉點-001ff2.html
 published: 2026-06-27
-quality_score: 7.5
+quality_score: 8.7
 tags: 神戶手工藝, 神戶購物, 神戶皮革, 神戶玻璃, 神戶異人館
 license: CC BY 4.0
 ---

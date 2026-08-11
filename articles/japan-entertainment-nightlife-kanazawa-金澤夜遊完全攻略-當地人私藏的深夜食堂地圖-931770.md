@@ -6,7 +6,7 @@ category: nightlife
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-kanazawa-金澤夜遊完全攻略-當地人私藏的深夜食堂地圖-931770.html
 published: 2026-06-04
-quality_score: 6.5
+quality_score: 8.6
 tags: 金澤夜生活, 深夜食堂, 片町, 加賀料理, 金澤美食
 license: CC BY 4.0
 ---

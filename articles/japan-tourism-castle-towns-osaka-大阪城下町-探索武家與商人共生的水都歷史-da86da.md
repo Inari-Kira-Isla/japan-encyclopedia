@@ -6,7 +6,7 @@ category: castle-towns
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-castle-towns-osaka-大阪城下町-探索武家與商人共生的水都歷史-da86da.html
 published: 2026-05-31
-quality_score: 6.5
+quality_score: 8.8
 tags: 大阪城, 城下町, 水都大阪, 武家與商人, 日本城堡小鎮
 license: CC BY 4.0
 ---

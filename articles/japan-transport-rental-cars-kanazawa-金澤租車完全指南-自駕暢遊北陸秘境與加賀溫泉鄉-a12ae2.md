@@ -6,7 +6,7 @@ category: rental-cars
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-kanazawa-金澤租車完全指南-自駕暢遊北陸秘境與加賀溫泉鄉-a12ae2.html
 published: 2026-06-01
-quality_score: 7.5
+quality_score: 8.5
 tags: 金澤租車, 北陸自駕, 加賀溫泉鄉, 能登半島, 日本租車攻略
 license: CC BY 4.0
 ---

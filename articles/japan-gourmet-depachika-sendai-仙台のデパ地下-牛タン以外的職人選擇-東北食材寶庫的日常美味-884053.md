@@ -6,7 +6,7 @@ category: depachika
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-depachika-sendai-仙台のデパ地下-牛タン以外的職人選擇-東北食材寶庫的日常美味-884053.html
 published: 2026-06-02
-quality_score: 6.5
+quality_score: 8.9
 tags: 仙台, デパ地下, 東北美食, 牛タン, 伴手禮
 license: CC BY 4.0
 ---

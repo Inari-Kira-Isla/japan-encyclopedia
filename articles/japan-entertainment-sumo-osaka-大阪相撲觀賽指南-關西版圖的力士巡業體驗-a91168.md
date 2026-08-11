@@ -6,7 +6,7 @@ category: sumo
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-osaka-大阪相撲觀賽指南-關西版圖的力士巡業體驗-a91168.html
 published: 2026-05-22
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪, 相撲, 關西, 觀賽, 旅遊
 license: CC BY 4.0
 ---

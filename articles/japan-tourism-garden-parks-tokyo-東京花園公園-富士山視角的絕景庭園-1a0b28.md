@@ -6,7 +6,7 @@ category: garden-parks
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-tokyo-東京花園公園-富士山視角的絕景庭園-1a0b28.html
 published: 2026-06-05
-quality_score: 6.5
+quality_score: 8.6
 tags: 東京花園, 富士山展望, 免費公園, 攝影景點, 春季賞櫻
 license: CC BY 4.0
 ---

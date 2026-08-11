@@ -6,7 +6,7 @@ category: scenic-routes
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-sendai-仙台的山嶽靈場巡禮-登拝參道與森林療癒的古寺之路-e6f90e.html
 published: 2026-06-06
-quality_score: 6.5
+quality_score: 8.6
 tags: 仙台自駕遊, 山岳靈場, 修驗道場, 日本佛教寺院, 森林療癒
 license: CC BY 4.0
 ---

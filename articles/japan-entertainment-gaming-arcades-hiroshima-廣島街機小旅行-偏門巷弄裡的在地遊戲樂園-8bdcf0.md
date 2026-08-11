@@ -6,7 +6,7 @@ category: gaming-arcades
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-gaming-arcades-hiroshima-廣島街機小旅行-偏門巷弄裡的在地遊戲樂園-8bdcf0.html
 published: 2026-05-24
-quality_score: 6.5
+quality_score: 8.6
 tags: 
 license: CC BY 4.0
 ---

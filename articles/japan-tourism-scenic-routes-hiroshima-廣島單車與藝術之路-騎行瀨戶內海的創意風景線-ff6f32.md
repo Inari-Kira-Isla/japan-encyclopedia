@@ -6,7 +6,7 @@ category: scenic-routes
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-hiroshima-廣島單車與藝術之路-騎行瀨戶內海的創意風景線-ff6f32.html
 published: 2026-06-12
-quality_score: 6.5
+quality_score: 8.7
 tags: 廣島單車旅行, 瀨戶內海藝術, 島波海道, 尾道文學, 大久野島兔子
 license: CC BY 4.0
 ---

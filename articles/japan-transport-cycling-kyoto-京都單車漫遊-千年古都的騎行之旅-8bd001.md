@@ -6,7 +6,7 @@ category: cycling
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-kyoto-京都單車漫遊-千年古都的騎行之旅-8bd001.html
 published: 2026-03-21
-quality_score: 7.5
+quality_score: 8.7
 tags: 京都, 自行車, 騎行, 古都, 旅遊
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: capsule-hotels
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-capsule-hotels-kanazawa-金澤住宿另類提案-文化旅人的創意棲居指南-23172c.html
 published: 2026-06-21
-quality_score: 6.5
+quality_score: 8.6
 tags: 金澤住宿, 膠囊飯店, Guest House, 北陸自助, 金澤自由行
 license: CC BY 4.0
 ---

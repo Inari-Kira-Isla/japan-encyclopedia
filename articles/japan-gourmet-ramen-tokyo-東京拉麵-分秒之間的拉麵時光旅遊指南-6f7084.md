@@ -6,7 +6,7 @@ category: ramen
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-ramen-tokyo-東京拉麵-分秒之間的拉麵時光旅遊指南-6f7084.html
 published: 2026-07-05
-quality_score: 6.5
+quality_score: 8.6
 tags: 東京拉麵, 日本拉麵, 東京美食, 新宿拉麵, 淺草美食
 license: CC BY 4.0
 ---

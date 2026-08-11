@@ -6,7 +6,7 @@ category: love-hotels
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-love-hotels-okinawa-沖繩特色住宿推薦-南國島嶼的浪漫棲居選擇-647dc1.html
 published: 2026-06-09
-quality_score: 6.5
+quality_score: 8.5
 tags: 沖繩住宿, 沖繩旅遊, 沖繩度假, 南國島嶼, 恩納村
 license: CC BY 4.0
 ---

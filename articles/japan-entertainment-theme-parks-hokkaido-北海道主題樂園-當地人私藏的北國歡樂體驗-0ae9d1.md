@@ -6,7 +6,7 @@ category: theme-parks
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-theme-parks-hokkaido-北海道主題樂園-當地人私藏的北國歡樂體驗-0ae9d1.html
 published: 2026-06-28
-quality_score: 6.5
+quality_score: 8.8
 tags: 北海道主題樂園, 札幌景點, 北海道親子遊, 白色戀人公園, 鄂霍茲克流
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: rental-cars
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-osaka-大阪多日自駕遊-以關西樞紐為基地的廣域探險指南-626893.html
 published: 2026-03-23
-quality_score: 7.5
+quality_score: 8.7
 tags: 大阪租車, 關西自駕, 日本租車指南, 多日行程, 自駕遊路線
 license: CC BY 4.0
 ---

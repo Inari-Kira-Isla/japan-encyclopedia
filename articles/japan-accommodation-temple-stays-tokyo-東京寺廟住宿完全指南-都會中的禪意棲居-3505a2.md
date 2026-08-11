@@ -6,7 +6,7 @@ category: temple-stays
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-temple-stays-tokyo-東京寺廟住宿完全指南-都會中的禪意棲居-3505a2.html
 published: 2026-06-24
-quality_score: 6.5
+quality_score: 8.5
 tags: 東京寺廟住宿, 宿坊, 寫經體驗, 坐禪, 淺草寺
 license: CC BY 4.0
 ---

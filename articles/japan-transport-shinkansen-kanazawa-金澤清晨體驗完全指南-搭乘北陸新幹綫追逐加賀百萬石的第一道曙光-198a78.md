@@ -6,7 +6,7 @@ category: shinkansen
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-kanazawa-金澤清晨體驗完全指南-搭乘北陸新幹綫追逐加賀百萬石的第一道曙光-198a78.html
 published: 2026-07-05
-quality_score: 7.5
+quality_score: 8.7
 tags: 金澤清晨, 近江町市場, 北陸新幹綫, 石引魚市場, 兼六園晨間
 license: CC BY 4.0
 ---

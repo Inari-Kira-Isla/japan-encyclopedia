@@ -6,7 +6,7 @@ category: day-trips
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-hiroshima-廣島周邊一日遊-山海之間的隱藏版深度之旅-9b0bfe.html
 published: 2026-06-11
-quality_score: 6.5
+quality_score: 8.7
 tags: 廣島一日遊, 尾道景點, 吳市 maritime, 瀨戶內海藝術, 日本清酒體驗
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: airport-transfer
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-airport-transfer-okinawa-沖繩那霸機場交通實戰攻略-零失誤的移動決策指南-0b52b4.html
 published: 2026-04-03
-quality_score: 7.5
+quality_score: 8.7
 tags: 沖繩交通, 那霸機場, 旅遊攻略, 實戰指南, 機場接駁
 license: CC BY 4.0
 ---

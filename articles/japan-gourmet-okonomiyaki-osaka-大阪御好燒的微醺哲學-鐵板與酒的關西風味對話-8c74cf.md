@@ -6,7 +6,7 @@ category: okonomiyaki
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-okonomiyaki-osaka-大阪御好燒的微醺哲學-鐵板與酒的關西風味對話-8c74cf.html
 published: 2026-07-01
-quality_score: 6.5
+quality_score: 8.9
 tags: 大阪美食, 御好燒, 關西料理, 美食推薦, 日本料理
 license: CC BY 4.0
 ---

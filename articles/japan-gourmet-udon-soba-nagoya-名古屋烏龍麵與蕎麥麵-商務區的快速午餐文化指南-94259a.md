@@ -6,7 +6,7 @@ category: udon-soba
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-udon-soba-nagoya-名古屋烏龍麵與蕎麥麵-商務區的快速午餐文化指南-94259a.html
 published: 2026-06-21
-quality_score: 6.5
+quality_score: 8.6
 tags: 名古屋美食, 烏龍麵, 蕎麥麵, 商務午餐, 快速用餐
 license: CC BY 4.0
 ---

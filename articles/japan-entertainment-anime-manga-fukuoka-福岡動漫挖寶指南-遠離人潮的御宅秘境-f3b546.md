@@ -6,7 +6,7 @@ category: anime-manga
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-fukuoka-福岡動漫挖寶指南-遠離人潮的御宅秘境-f3b546.html
 published: 2026-06-10
-quality_score: 6.5
+quality_score: 8.6
 tags: 福岡動漫, 九州御宅文化, 二手漫畫店, 天神地下街, 挖寶指南
 license: CC BY 4.0
 ---

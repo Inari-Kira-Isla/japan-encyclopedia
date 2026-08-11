@@ -6,7 +6,7 @@ category: day-trips
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-okinawa-沖繩一日遊完全攻略-從本島到離岸的自然與文化秘境-7732de.html
 published: 2026-04-07
-quality_score: 6.5
+quality_score: 8.9
 tags: 沖繩一日遊, 沖繩景點, 沖繩自駕, 沖繩北部, 青之洞窟
 license: CC BY 4.0
 ---

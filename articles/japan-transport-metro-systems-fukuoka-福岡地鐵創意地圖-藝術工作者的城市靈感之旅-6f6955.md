@@ -6,7 +6,7 @@ category: metro-systems
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-fukuoka-福岡地鐵創意地圖-藝術工作者的城市靈感之旅-6f6955.html
 published: 2026-03-22
-quality_score: 7.5
+quality_score: 8.7
 tags: 福冈交通, 地铁系统, 艺术旅行, 创意产业, 美术馆
 license: CC BY 4.0
 ---

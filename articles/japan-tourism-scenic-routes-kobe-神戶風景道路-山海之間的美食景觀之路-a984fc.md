@@ -6,7 +6,7 @@ category: scenic-routes
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-kobe-神戶風景道路-山海之間的美食景觀之路-a984fc.html
 published: 2026-06-14
-quality_score: 6.5
+quality_score: 8.7
 tags: 神戶, 風景道路, 自駕路線, 六甲山, 瀨戶內海
 license: CC BY 4.0
 ---

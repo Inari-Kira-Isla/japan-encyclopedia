@@ -6,7 +6,7 @@ category: kabuki-theatre
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-kabuki-theatre-tokyo-東京歌舞妓劇場合購指南-座位選擇-票價策略與觀賞攻略-9b94cc.html
 published: 2026-05-24
-quality_score: 6.5
+quality_score: 8.5
 tags: 東京Kabuki劇場, 傳統表演藝術, 日本文化體驗, 座票選擇, 淺草表演藝術
 license: CC BY 4.0
 ---

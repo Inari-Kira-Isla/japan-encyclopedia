@@ -6,7 +6,7 @@ category: nature-trails
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-hokkaido-北海道自然步道實用攻略-從札幌出發的一日健行精選-b92cc8.html
 published: 2026-05-25
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道, 自然步道, 札幌, 健行, 一日游
 license: CC BY 4.0
 ---

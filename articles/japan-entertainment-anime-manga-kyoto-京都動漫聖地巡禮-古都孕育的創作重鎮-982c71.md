@@ -6,7 +6,7 @@ category: anime-manga
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-kyoto-京都動漫聖地巡禮-古都孕育的創作重鎮-982c71.html
 published: 2026-06-02
-quality_score: 6.5
+quality_score: 8.6
 tags: 京都動漫, 京都聖地巡禮, 日本動漫, 京都漫畫, 關西動漫店
 license: CC BY 4.0
 ---

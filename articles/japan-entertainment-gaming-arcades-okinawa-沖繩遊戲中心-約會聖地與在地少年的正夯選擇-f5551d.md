@@ -6,7 +6,7 @@ category: gaming-arcades
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-gaming-arcades-okinawa-沖繩遊戲中心-約會聖地與在地少年的正夯選擇-f5551d.html
 published: 2026-05-24
-quality_score: 6.5
+quality_score: 8.8
 tags: 
 license: CC BY 4.0
 ---

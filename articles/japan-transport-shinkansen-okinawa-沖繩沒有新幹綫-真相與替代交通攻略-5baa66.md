@@ -6,7 +6,7 @@ category: shinkansen
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-okinawa-沖繩沒有新幹綫-真相與替代交通攻略-5baa66.html
 published: 2026-06-01
-quality_score: 7.5
+quality_score: 8.8
 tags: 沖繩交通, 沖繩單軌, 日本新幹綫, 沖繩自由行, 那霸機場
 license: CC BY 4.0
 ---

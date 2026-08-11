@@ -6,7 +6,7 @@ category: ferries
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-ferries-hokkaido-北海道渡輪攻略-季節限定破冰之旅的獨家體驗-d7a64a.html
 published: 2026-06-12
-quality_score: 7.5
+quality_score: 8.7
 tags: 北海道渡輪, 破冰船, 流冰體驗, 禮文島, 利尻島
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: festivals-matsuri
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-festivals-matsuri-tokyo-東京祭典地圖-避開人潮-發現鄰裡慶典的真實魅力-53ca03.html
 published: 2026-03-24
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京, 祭典, Matsuri, 社區活動, 夏祭
 license: CC BY 4.0
 ---

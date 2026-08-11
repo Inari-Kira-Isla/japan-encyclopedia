@@ -6,7 +6,7 @@ category: minshuku
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-sendai-仙台民宿-商務旅客的經濟實用住宿選擇指南-3ea13d.html
 published: 2026-03-26
-quality_score: 6.5
+quality_score: 8.6
 tags: 仙台民宿, 商務住宿, 東北旅遊, 經濟住宿, 交通便利
 license: CC BY 4.0
 ---

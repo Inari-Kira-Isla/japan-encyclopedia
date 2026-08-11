@@ -6,7 +6,7 @@ category: rental-cars
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-kanazawa-金澤租車深度遊-自駕漫遊能登半島海味王國與加賀茶鄉-97883d.html
 published: 2026-07-03
-quality_score: 7.5
+quality_score: 8.8
 tags: 金澤租車, 能登半島, 自駕遊, 北陸自由行, 加賀茶鄉
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: luxury-ryokan
 area: japan
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-luxury-ryokan-日本旅館和懷石料理完整指南2026-加賀屋-俵山-後楽-旅館費用攻略-jp-japanese-50520d.html
 published: 2026-03-29
-quality_score: 7.1
+quality_score: 8.6
 tags: 日本旅館, 懷石料理, 加賀屋旅館, 日本高級住宿, 溫泉旅馆體驗
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: fashion-harajuku
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-fashion-harajuku-tokyo-東京原宿時尚購物實戰指南-掌握折扣-免稅和省錢秘訣-645b59.html
 published: 2026-03-24
-quality_score: 7.5
+quality_score: 8.7
 tags: 購物指南, 東京原宿, 折扣秘訣, 免稅退稅, 二手古著
 license: CC BY 4.0
 ---

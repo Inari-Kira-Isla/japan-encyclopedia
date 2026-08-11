@@ -6,7 +6,7 @@ category: fashion-harajuku
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-fashion-harajuku-kyoto-京都時尚購物攻略-河原町商圈與新京極的青春潮流密碼-dfd93b.html
 published: 2026-03-30
-quality_score: 7.5
+quality_score: 8.8
 tags: 京都購物, 河原町, 新京極, 日本時尚, 京都自由行
 license: CC BY 4.0
 ---

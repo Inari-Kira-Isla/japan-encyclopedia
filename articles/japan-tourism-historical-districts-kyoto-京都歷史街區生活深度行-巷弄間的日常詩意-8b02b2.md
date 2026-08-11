@@ -6,7 +6,7 @@ category: historical-districts
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-kyoto-京都歷史街區生活深度行-巷弄間的日常詩意-8b02b2.html
 published: 2026-06-16
-quality_score: 6.5
+quality_score: 8.7
 tags: 京都歷史街區, 深度旅遊, 生活體驗, 京都散步, 在地文化
 license: CC BY 4.0
 ---

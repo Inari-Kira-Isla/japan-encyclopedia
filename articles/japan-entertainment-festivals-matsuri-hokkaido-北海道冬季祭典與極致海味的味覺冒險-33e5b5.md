@@ -6,7 +6,7 @@ category: festivals-matsuri
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-festivals-matsuri-hokkaido-北海道冬季祭典與極致海味的味覺冒險-33e5b5.html
 published: 2026-06-21
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道祭典, 冬季日本祭典, 札幌雪祭, 小樽雪燈之路, 日本美食之旅
 license: CC BY 4.0
 ---

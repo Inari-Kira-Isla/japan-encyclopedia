@@ -6,7 +6,7 @@ category: garden-parks
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-sendai-仙台庭園散步-東北米城的綠意日常-0f80db-1782233567.html
 published: 2026-06-23
-quality_score: 6.5
+quality_score: 8.9
 tags: 仙台庭園, 東北旅遊, 日本公園文化, 杜之都, 仙台散步
 license: CC BY 4.0
 ---

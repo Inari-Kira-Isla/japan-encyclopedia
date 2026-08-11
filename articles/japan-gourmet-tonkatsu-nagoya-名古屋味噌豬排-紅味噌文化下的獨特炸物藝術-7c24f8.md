@@ -6,7 +6,7 @@ category: tonkatsu
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tonkatsu-nagoya-名古屋味噌豬排-紅味噌文化下的獨特炸物藝術-7c24f8.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.6
 tags: 名古屋美食, 味噌豬排, 愛知縣, 日式洋食, 八丁味噌
 license: CC BY 4.0
 ---

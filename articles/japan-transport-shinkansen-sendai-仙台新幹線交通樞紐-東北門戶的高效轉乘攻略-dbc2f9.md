@@ -6,7 +6,7 @@ category: shinkansen
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-sendai-仙台新幹線交通樞紐-東北門戶的高效轉乘攻略-dbc2f9.html
 published: 2026-04-03
-quality_score: 7.5
+quality_score: 8.7
 tags: 仙台站, 東北新幹線, 交通樞紐, 轉乘攻略, 東北旅遊
 license: CC BY 4.0
 ---

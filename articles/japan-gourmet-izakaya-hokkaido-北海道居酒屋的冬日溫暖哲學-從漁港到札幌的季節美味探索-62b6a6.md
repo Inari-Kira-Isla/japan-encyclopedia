@@ -6,7 +6,7 @@ category: izakaya
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-izakaya-hokkaido-北海道居酒屋的冬日溫暖哲學-從漁港到札幌的季節美味探索-62b6a6.html
 published: 2026-04-11
-quality_score: 6.5
+quality_score: 8.9
 tags: 北海道美食, 居酒屋文化, 季節海鮮, 札幌夜生活, 函館朝市
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: ski-resorts
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-ski-resorts-nagoya-名古屋周邊一日滑雪攻略-都市基地的效率滑雪之旅-9f9709.html
 published: 2026-06-23
-quality_score: 6.5
+quality_score: 8.6
 tags: 名古屋滑雪, 一日滑雪, 中部地方滑雪, 奧美濃滑雪場, 湯澤滑雪場
 license: CC BY 4.0
 ---

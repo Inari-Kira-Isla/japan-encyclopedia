@@ -6,7 +6,7 @@ category: kaiseki
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-kaiseki-nara-奈良會席料理-古都餐桌上的時光滋味-6f0072.html
 published: 2026-06-24
-quality_score: 6.5
+quality_score: 8.7
 tags: 奈良會席料理, 奈良美食, 大和料理, 奈良旅行, 日本料理
 license: CC BY 4.0
 ---

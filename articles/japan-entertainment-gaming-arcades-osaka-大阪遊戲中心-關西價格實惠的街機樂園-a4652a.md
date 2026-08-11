@@ -6,7 +6,7 @@ category: gaming-arcades
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-gaming-arcades-osaka-大阪遊戲中心-關西價格實惠的街機樂園-a4652a.html
 published: 2026-06-21
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪, 遊戲中心, 街機, 關西, 娛樂
 license: CC BY 4.0
 ---

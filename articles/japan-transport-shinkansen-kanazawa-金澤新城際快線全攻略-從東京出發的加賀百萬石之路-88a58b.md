@@ -6,7 +6,7 @@ category: shinkansen
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-kanazawa-金澤新城際快線全攻略-從東京出發的加賀百萬石之路-88a58b.html
 published: 2026-05-23
-quality_score: 7.5
+quality_score: 8.7
 tags: 金澤, 北陸新高鐵, 加賀百萬石, 東京到金澤, 日本交通
 license: CC BY 4.0
 ---

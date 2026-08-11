@@ -6,7 +6,7 @@ category: metro-systems
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-nagoya-名古屋地下鐵-串聯製造之城產業脈絡的城市交通網-f0c652.html
 published: 2026-06-23
-quality_score: 7.5
+quality_score: 8.7
 tags: 名古屋地下鐵, 名古屋交通, 中部日本, 製造之城, 地下鐵系統
 license: CC BY 4.0
 ---

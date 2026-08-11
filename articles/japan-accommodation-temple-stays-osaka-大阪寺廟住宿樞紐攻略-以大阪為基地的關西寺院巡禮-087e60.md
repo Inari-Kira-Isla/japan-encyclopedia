@@ -6,7 +6,7 @@ category: temple-stays
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-temple-stays-osaka-大阪寺廟住宿樞紐攻略-以大阪為基地的關西寺院巡禮-087e60.html
 published: 2026-06-13
-quality_score: 6.5
+quality_score: 8.8
 tags: 大阪寺廟住宿, 關西寺院巡禮, 高野山宿坊, 比叡山修行, 日本佛教文化體驗
 license: CC BY 4.0
 ---

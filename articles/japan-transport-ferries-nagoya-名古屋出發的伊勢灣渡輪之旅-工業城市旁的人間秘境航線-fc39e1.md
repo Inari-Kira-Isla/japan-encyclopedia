@@ -6,7 +6,7 @@ category: ferries
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-ferries-nagoya-名古屋出發的伊勢灣渡輪之旅-工業城市旁的人間秘境航線-fc39e1.html
 published: 2026-06-19
-quality_score: 7.5
+quality_score: 8.6
 tags: 名古屋周邊渡輪, 伊勢灣航線, 三重縣離島, 鳥羽港, 知多半島
 license: CC BY 4.0
 ---

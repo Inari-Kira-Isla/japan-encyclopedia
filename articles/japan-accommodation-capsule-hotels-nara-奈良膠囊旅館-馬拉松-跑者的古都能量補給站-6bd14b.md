@@ -6,7 +6,7 @@ category: capsule-hotels
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-capsule-hotels-nara-奈良膠囊旅館-馬拉松-跑者的古都能量補給站-6bd14b.html
 published: 2026-05-25
-quality_score: 6.5
+quality_score: 8.8
 tags: 奈良住宿, 胶囊旅馆, 马拉松旅行, 运动观光, 关西住宿
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: business-hotels
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-business-hotels-kyoto-京都商務酒店的微型哲學-精選5家質感驛站-18d298.html
 published: 2026-07-03
-quality_score: 6.5
+quality_score: 8.7
 tags: 京都商務酒店, 京都住宿推薦, 京都微型酒店, 京都出差住宿, 京都精品商務酒店
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: kabuki-theatre
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-kabuki-theatre-nagoya-名古屋表演藝術場館-傳統與現代交織的劇場體驗-5cd3ae.html
 published: 2026-06-09
-quality_score: 6.5
+quality_score: 8.6
 tags: 名古屋表演藝術, 名古屋劇場, 日本中部娛樂, 榮地區, 名古屋文化體驗
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: capsule-hotels
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-capsule-hotels-nagoya-名古屋膠囊飯店完全指南-體驗中都會簡約住宿的明智之選-8d4aa8-1780855090.html
 published: 2026-06-07
-quality_score: 6.5
+quality_score: 8.8
 tags: 名古屋, 膠囊飯店, 日本中部,  budget住宿, 名古屋站
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: castle-towns
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-castle-towns-kyoto-京都週邊的武者故鄉-5座被時光遺忘的城下町小鎮-68e38e.html
 published: 2026-06-02
-quality_score: 6.5
+quality_score: 8.7
 tags: 京都自由行, 城下町, 日本城堡, 關西小眾景點, 戰國歷史
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: sumo
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-hiroshima-廣島相撲-瀨戶內風情的相撲文化體驗-fff633.html
 published: 2026-06-14
-quality_score: 6.5
+quality_score: 8.7
 tags: 廣島相撲, 瀨戶內相撲, 廣島體驗, 日本相撲文化, 廣島美食
 license: CC BY 4.0
 ---

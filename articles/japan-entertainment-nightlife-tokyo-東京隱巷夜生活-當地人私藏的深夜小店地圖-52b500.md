@@ -6,7 +6,7 @@ category: nightlife
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-tokyo-東京隱巷夜生活-當地人私藏的深夜小店地圖-52b500.html
 published: 2026-06-20
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京夜生活, 隱藏版店家, 深夜食堂, 在地體驗, 東京深度遊
 license: CC BY 4.0
 ---

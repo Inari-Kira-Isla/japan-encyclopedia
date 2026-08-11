@@ -6,7 +6,7 @@ category: historical-districts
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-okinawa-沖繩歷史街區的巷弄觀察-從建築密碼解讀島嶼的百年物語-b5d660.html
 published: 2026-06-15
-quality_score: 6.5
+quality_score: 8.7
 tags: 沖繩歷史街區, 首里城, 琉球文化, 壺屋陶器, 市場本通
 license: CC BY 4.0
 ---

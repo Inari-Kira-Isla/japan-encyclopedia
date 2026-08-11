@@ -6,7 +6,7 @@ category: sumo
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-hokkaido-北海道相撲-雪國訓練營的相撲文化深度體驗-7fb8b4.html
 published: 2026-05-22
-quality_score: 6.5
+quality_score: 8.4
 tags: 北海道相撲, 雪國訓練, 旭川相撲, 十勝相撲, 相撲觀賽指南
 license: CC BY 4.0
 ---

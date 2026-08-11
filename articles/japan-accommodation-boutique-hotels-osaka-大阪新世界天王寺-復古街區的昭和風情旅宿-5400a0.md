@@ -6,7 +6,7 @@ category: boutique-hotels
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-osaka-大阪新世界天王寺-復古街區的昭和風情旅宿-5400a0.html
 published: 2026-06-29
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪住宿, 新世界, 天王寺, boutique hotels, 昭和風情
 license: CC BY 4.0
 ---

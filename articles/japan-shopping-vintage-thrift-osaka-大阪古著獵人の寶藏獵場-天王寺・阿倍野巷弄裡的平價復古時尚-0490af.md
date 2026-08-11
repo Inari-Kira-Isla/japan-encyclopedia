@@ -6,7 +6,7 @@ category: vintage-thrift
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-vintage-thrift-osaka-大阪古著獵人の寶藏獵場-天王寺・阿倍野巷弄裡的平價復古時尚-0490af.html
 published: 2026-06-03
-quality_score: 7.5
+quality_score: 8.7
 tags: 大阪古著, 古著尋寶, 日本二手衣, 天王寺購物, 大阪自由行
 license: CC BY 4.0
 ---

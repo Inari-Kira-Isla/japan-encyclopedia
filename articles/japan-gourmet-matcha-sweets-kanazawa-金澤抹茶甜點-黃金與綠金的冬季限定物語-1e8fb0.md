@@ -6,7 +6,7 @@ category: matcha-sweets
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-matcha-sweets-kanazawa-金澤抹茶甜點-黃金與綠金的冬季限定物語-1e8fb0.html
 published: 2026-06-03
-quality_score: 6.5
+quality_score: 8.5
 tags: 金澤, 抹茶甜點, 加賀百萬石, 金箔, 冬季
 license: CC BY 4.0
 ---

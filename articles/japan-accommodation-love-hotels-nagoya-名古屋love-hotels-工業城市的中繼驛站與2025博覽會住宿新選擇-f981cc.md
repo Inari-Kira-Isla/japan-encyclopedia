@@ -6,7 +6,7 @@ category: love-hotels
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-love-hotels-nagoya-名古屋love-hotels-工業城市的中繼驛站與2025博覽會住宿新選擇-f981cc.html
 published: 2026-06-24
-quality_score: 6.5
+quality_score: 8.7
 tags: 名古屋, Love Hotels, 情侶住宿, 中部地區, 2025大阪世博
 license: CC BY 4.0
 ---

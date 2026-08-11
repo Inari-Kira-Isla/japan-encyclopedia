@@ -6,7 +6,7 @@ category: nature-trails
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-nara-奈良古道巡禮-走進平安時代的參拜步道-b356bd.html
 published: 2026-06-12
-quality_score: 6.5
+quality_score: 8.8
 tags: 奈良步道, 古道巡禮, 參拜路線, 日本最古都, 山林文化
 license: CC BY 4.0
 ---

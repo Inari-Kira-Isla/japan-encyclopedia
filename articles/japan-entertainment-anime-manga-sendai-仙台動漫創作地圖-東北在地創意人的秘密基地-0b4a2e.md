@@ -6,7 +6,7 @@ category: anime-manga
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-sendai-仙台動漫創作地圖-東北在地創意人的秘密基地-0b4a2e.html
 published: 2026-06-13
-quality_score: 6.5
+quality_score: 8.8
 tags: 仙台, 動漫, 東北, 創作, 日本
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: tempura
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tempura-nara-奈良天婦羅-古都風味的酥脆藝術-1ed6eb.html
 published: 2026-03-15
-quality_score: 6.5
+quality_score: 8.8
 tags: 奈良美食, 天婦羅, 關西料理, 傳統日式料理, 古都文化
 license: CC BY 4.0
 ---

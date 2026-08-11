@@ -6,7 +6,7 @@ category: buses
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-buses-okinawa-沖繩海灘度假區巴士完全攻略-從那霸機場直達陽光沙灘的便捷交通-39b1c2.html
 published: 2026-06-15
-quality_score: 7.5
+quality_score: 8.6
 tags: 沖繩巴士, 沖繩交通, 海灘度假, 那霸機場, 恩納村
 license: CC BY 4.0
 ---

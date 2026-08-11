@@ -6,7 +6,7 @@ category: day-trips
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-fukuoka-福岡一日遊完全指南-從博多出發的經典路線與周邊城市探索-efa655.html
 published: 2026-06-23
-quality_score: 6.5
+quality_score: 8.7
 tags: 福岡一日遊, 門司港, 由布院溫泉, 能古島, 久留米
 license: CC BY 4.0
 ---

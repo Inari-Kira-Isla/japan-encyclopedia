@@ -6,7 +6,7 @@ category: theme-parks
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-theme-parks-fukuoka-福岡療癒系主題樂園-遠離刺激設施的溫暖體驗-5d9e07.html
 published: 2026-06-17
-quality_score: 6.5
+quality_score: 8.7
 tags: 福岡主題樂園, 九州親子遊, 療癒系體驗, 麵包超人博物館, 九州鐵道紀念館
 license: CC BY 4.0
 ---

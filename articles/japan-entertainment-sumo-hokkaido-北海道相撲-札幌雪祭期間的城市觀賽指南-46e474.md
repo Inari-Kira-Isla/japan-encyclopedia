@@ -6,7 +6,7 @@ category: sumo
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-hokkaido-北海道相撲-札幌雪祭期間的城市觀賽指南-46e474.html
 published: 2026-06-04
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道相撲, 札幌體育, 學生相撲, 日本運動
 license: CC BY 4.0
 ---

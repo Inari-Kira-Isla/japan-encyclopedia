@@ -6,7 +6,7 @@ category: ski-resorts
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-ski-resorts-kanazawa-金澤周邊滑雪場交通指南-從古城出發的滑雪一日遊-6d8bc9.html
 published: 2026-06-17
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤滑雪場, 石川縣滑雪, 富山縣滑雪, 立山黑部, 日本海沿岸滑雪
 license: CC BY 4.0
 ---

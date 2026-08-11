@@ -6,7 +6,7 @@ category: castle-towns
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-castle-towns-okinawa-沖繩的城堡城鎮-琉球王國的貿易港都風華-22df87.html
 published: 2026-06-04
-quality_score: 6.5
+quality_score: 8.8
 tags: 沖繩, 城堡城鎮, 琉球王國, 世界遗产, 首里城
 license: CC BY 4.0
 ---

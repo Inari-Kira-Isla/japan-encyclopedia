@@ -6,7 +6,7 @@ category: shinkansen
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-nara-奈良的新幹線連線指南-古都訪問的高效交通策略-eb00c1.html
 published: 2026-04-03
-quality_score: 7.5
+quality_score: 8.4
 tags: 奈良交通, 新幹線轉乘, 關西旅遊, 鐵道旅行, 交通攻略
 license: CC BY 4.0
 ---

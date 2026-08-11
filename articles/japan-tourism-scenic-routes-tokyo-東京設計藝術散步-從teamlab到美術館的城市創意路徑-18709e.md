@@ -6,7 +6,7 @@ category: scenic-routes
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-tokyo-東京設計藝術散步-從teamlab到美術館的城市創意路徑-18709e.html
 published: 2026-06-28
-quality_score: 6.5
+quality_score: 8.9
 tags: 東京藝術散步, teamLab, 設計之旅, 六本木, 森美術館
 license: CC BY 4.0
 ---

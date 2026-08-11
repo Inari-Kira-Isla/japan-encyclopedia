@@ -6,7 +6,7 @@ category: anime-manga
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-kobe-神戶動漫次文化秘密基地-港都動漫迷的地下朝聖地圖-ea571d.html
 published: 2026-06-29
-quality_score: 6.5
+quality_score: 8.9
 tags: 神戶動漫, 神戶次文化, 同人誌, 動漫咖啡廳, 港都御宅族
 license: CC BY 4.0
 ---

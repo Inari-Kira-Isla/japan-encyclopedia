@@ -6,7 +6,7 @@ category: sumo
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-kobe-神戶相撲-港都溫泉鄉的力士療癒秘境-5b24aa.html
 published: 2026-06-09
-quality_score: 6.5
+quality_score: 8.7
 tags: 神戶相撲, 相撲體驗, 有馬溫泉, 神戶美食, 關西旅遊
 license: CC BY 4.0
 ---

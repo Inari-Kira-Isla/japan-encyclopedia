@@ -6,7 +6,7 @@ category: duty-free
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-duty-free-osaka-大阪百圓店尋寶指南-110也能買到的日本質感好物-15402c.html
 published: 2026-06-06
-quality_score: 7.5
+quality_score: 8.8
 tags: 大阪購物, 百圓店, 大阪免稅, DAISO, 日本伴手禮
 license: CC BY 4.0
 ---

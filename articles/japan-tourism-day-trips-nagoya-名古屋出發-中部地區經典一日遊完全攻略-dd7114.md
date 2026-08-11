@@ -6,7 +6,7 @@ category: day-trips
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-nagoya-名古屋出發-中部地區經典一日遊完全攻略-dd7114.html
 published: 2026-05-31
-quality_score: 6.5
+quality_score: 8.6
 tags: 名古屋一日遊, 日本中部, 高山老街, 伊勢神宮, 溫泉
 license: CC BY 4.0
 ---

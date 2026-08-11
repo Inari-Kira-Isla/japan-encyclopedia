@@ -6,7 +6,7 @@ category: minshuku
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-hokkaido-北海道民宿完整指南-在雪國體驗最純正的日式家庭溫情-92bdec.html
 published: 2026-03-20
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道民宿, 日本住宿, 溫泉旅館, 背包客住宿, 在地體驗
 license: CC BY 4.0
 ---

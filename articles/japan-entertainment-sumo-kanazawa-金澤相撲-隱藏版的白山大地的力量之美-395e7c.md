@@ -6,7 +6,7 @@ category: sumo
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-kanazawa-金澤相撲-隱藏版的白山大地的力量之美-395e7c.html
 published: 2026-05-23
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤相撲, 石川縣相撲, 白山集訓, 相扑體驗, ，加賀溫泉
 license: CC BY 4.0
 ---

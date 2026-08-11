@@ -6,7 +6,7 @@ category: electronics
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-electronics-sendai-仙台冬季電子產品購物攻略-嚴寒氣候下的防寒電器選購指南-e1843b.html
 published: 2026-06-27
-quality_score: 7.5
+quality_score: 8.7
 tags: 仙台電子產品, 東北購物, 防寒電器, 日本東北自由行, 冬季日本購物
 license: CC BY 4.0
 ---

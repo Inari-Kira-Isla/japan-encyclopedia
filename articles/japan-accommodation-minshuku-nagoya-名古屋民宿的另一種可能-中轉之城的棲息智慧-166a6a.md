@@ -6,7 +6,7 @@ category: minshuku
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-nagoya-名古屋民宿的另一種可能-中轉之城的棲息智慧-166a6a.html
 published: 2026-05-22
-quality_score: 6.5
+quality_score: 8.5
 tags: 名古屋民宿, 中部地方住宿, 名古屋车站周边, 日本非對稱住宿, 背包客住宿
 license: CC BY 4.0
 ---

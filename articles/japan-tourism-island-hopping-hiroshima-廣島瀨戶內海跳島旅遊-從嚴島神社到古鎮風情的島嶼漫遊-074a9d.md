@@ -6,7 +6,7 @@ category: island-hopping
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-island-hopping-hiroshima-廣島瀨戶內海跳島旅遊-從嚴島神社到古鎮風情的島嶼漫遊-074a9d.html
 published: 2026-03-20
-quality_score: 6.5
+quality_score: 8.4
 tags: 廣島, 瀨戶內海, 島嶼跳島, 宮島, 尾道
 license: CC BY 4.0
 ---

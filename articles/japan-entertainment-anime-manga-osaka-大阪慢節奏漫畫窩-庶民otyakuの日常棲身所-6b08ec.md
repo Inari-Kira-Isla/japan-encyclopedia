@@ -6,7 +6,7 @@ category: anime-manga
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-osaka-大阪慢節奏漫畫窩-庶民otyakuの日常棲身所-6b08ec.html
 published: 2026-05-21
-quality_score: 6.5
+quality_score: 8.6
 tags: 大阪动漫, 漫画咖啡厅, 关西御宅族, 庶民娱乐, 大阪文化体验
 license: CC BY 4.0
 ---

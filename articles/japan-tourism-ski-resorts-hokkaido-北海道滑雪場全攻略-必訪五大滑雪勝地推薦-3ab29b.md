@@ -6,7 +6,7 @@ category: ski-resorts
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-ski-resorts-hokkaido-北海道滑雪場全攻略-必訪五大滑雪勝地推薦-3ab29b.html
 published: 2026-03-16
-quality_score: 6.5
+quality_score: 8.8
 tags: 北海道滑雪, 二世古, 留壽都, 富良野滑雪場, 日本滑雪
 license: CC BY 4.0
 ---

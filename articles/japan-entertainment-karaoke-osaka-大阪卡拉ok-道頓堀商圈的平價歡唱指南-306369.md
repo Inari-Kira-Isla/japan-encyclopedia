@@ -6,7 +6,7 @@ category: karaoke
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-karaoke-osaka-大阪卡拉ok-道頓堀商圈的平價歡唱指南-306369.html
 published: 2026-06-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪卡拉OK, 道頓堀, 心齋橋, 關西夜生活, 平價娛樂
 license: CC BY 4.0
 ---

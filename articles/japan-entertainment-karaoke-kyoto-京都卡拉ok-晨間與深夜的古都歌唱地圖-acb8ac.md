@@ -6,7 +6,7 @@ category: karaoke
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-karaoke-kyoto-京都卡拉ok-晨間與深夜的古都歌唱地圖-acb8ac.html
 published: 2026-06-18
-quality_score: 6.5
+quality_score: 8.8
 tags: 京都卡拉OK, 京都夜生活, 京都娛樂, 古都歌唱, 京都自由行
 license: CC BY 4.0
 ---

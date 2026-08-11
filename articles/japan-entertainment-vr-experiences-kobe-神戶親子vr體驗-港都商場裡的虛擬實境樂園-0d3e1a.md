@@ -6,7 +6,7 @@ category: vr-experiences
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-vr-experiences-kobe-神戶親子vr體驗-港都商場裡的虛擬實境樂園-0d3e1a.html
 published: 2026-06-15
-quality_score: 6.5
+quality_score: 8.7
 tags: 神戶VR, 神戶親子, 關西娛樂, 虛擬實境, 神戶商場
 license: CC BY 4.0
 ---

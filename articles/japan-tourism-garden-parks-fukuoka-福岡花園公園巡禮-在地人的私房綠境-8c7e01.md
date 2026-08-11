@@ -6,7 +6,7 @@ category: garden-parks
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-fukuoka-福岡花園公園巡禮-在地人的私房綠境-8c7e01.html
 published: 2026-06-20
-quality_score: 6.5
+quality_score: 8.5
 tags: 福岡, 花園公園, 在地體驗, 晨間散步, 攝影聖地
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: duty-free
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-duty-free-osaka-大阪黃金購物時段-傍晚限定免稅攻略與夜間商圈隱藏版-52891b.html
 published: 2026-05-25
-quality_score: 7.5
+quality_score: 8.5
 tags: 大阪免稅, 大阪購物, 關西機場, 天王寺, 天神橋
 license: CC BY 4.0
 ---

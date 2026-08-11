@@ -6,7 +6,7 @@ category: nature-trails
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-tokyo-東京郊山健行完全攻略-遠離人潮的秘境步道與交通指南-76884d.html
 published: 2026-05-24
-quality_score: 6.5
+quality_score: 8.6
 tags: 東京戶外, 郊山健行, 奧多摩, 丹澤大山, 自然徒步
 license: CC BY 4.0
 ---

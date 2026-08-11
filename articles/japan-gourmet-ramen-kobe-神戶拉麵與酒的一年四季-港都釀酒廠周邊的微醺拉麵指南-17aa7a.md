@@ -6,7 +6,7 @@ category: ramen
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-ramen-kobe-神戶拉麵與酒的一年四季-港都釀酒廠周邊的微醺拉麵指南-17aa7a.html
 published: 2026-06-16
-quality_score: 6.5
+quality_score: 8.7
 tags: 神戶拉麵, 灘五鄉, 關西拉麵, 釀酒廠, 神戶美食
 license: CC BY 4.0
 ---

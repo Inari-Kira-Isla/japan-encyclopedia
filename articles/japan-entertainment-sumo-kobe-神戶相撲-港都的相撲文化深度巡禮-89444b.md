@@ -6,7 +6,7 @@ category: sumo
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-kobe-神戶相撲-港都的相撲文化深度巡禮-89444b.html
 published: 2026-07-03
-quality_score: 6.5
+quality_score: 8.8
 tags: 神戶相撲, 關西相撲, 神戶旅遊, 相撲體驗, 港都文化
 license: CC BY 4.0
 ---

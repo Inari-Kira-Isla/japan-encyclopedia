@@ -6,7 +6,7 @@ category: electronics
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-electronics-tokyo-東京專業音響器材購物攻略-音樂人與發燒友的朝聖地-c0d3af.html
 published: 2026-06-14
-quality_score: 7.5
+quality_score: 8.7
 tags: 東京電子產品, 專業音響器材, 秋葉原, 發燒音響, 音樂設備
 license: CC BY 4.0
 ---

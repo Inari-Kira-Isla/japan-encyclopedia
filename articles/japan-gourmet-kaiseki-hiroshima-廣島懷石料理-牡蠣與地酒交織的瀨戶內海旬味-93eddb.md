@@ -6,7 +6,7 @@ category: kaiseki
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-kaiseki-hiroshima-廣島懷石料理-牡蠣與地酒交織的瀨戶內海旬味-93eddb.html
 published: 2026-06-24
-quality_score: 6.5
+quality_score: 8.7
 tags: 廣島會席, 瀨戶內海美食, 牡蠣料理, 廣島地酒, 廣島美食推薦
 license: CC BY 4.0
 ---

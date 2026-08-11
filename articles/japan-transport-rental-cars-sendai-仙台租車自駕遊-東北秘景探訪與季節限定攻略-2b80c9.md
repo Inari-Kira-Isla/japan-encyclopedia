@@ -6,7 +6,7 @@ category: rental-cars
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-sendai-仙台租車自駕遊-東北秘景探訪與季節限定攻略-2b80c9.html
 published: 2026-06-06
-quality_score: 7.5
+quality_score: 8.7
 tags: 仙台租車, 東北自駕遊, 日本租車, 藏王溫泉, 鳴子溫泉
 license: CC BY 4.0
 ---

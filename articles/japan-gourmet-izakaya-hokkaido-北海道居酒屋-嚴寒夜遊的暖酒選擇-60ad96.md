@@ -6,7 +6,7 @@ category: izakaya
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-izakaya-hokkaido-北海道居酒屋-嚴寒夜遊的暖酒選擇-60ad96.html
 published: 2026-06-08
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道居酒屋, 札幌薄野, 小樽美食, 北海道地酒, 冬日暖酒
 license: CC BY 4.0
 ---

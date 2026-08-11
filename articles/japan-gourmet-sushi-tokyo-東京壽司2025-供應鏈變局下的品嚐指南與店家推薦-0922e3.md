@@ -6,7 +6,7 @@ category: sushi
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sushi-tokyo-東京壽司2025-供應鏈變局下的品嚐指南與店家推薦-0922e3.html
 published: 2026-03-24
-quality_score: 6.5
+quality_score: 8.8
 tags: 東京壽司, 築地市場, 迴轉壽司, 江戶前壽司, 日本美食
 license: CC BY 4.0
 ---

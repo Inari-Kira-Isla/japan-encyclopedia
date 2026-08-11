@@ -6,7 +6,7 @@ category: matcha-sweets
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-matcha-sweets-hokkaido-北海道抹茶甜點-雪國限定甜品攻略-寒涼季節的暖意濃醇-46fa94.html
 published: 2026-06-04
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道抹茶甜點, 札幌美食, 北海道甜品, 抹茶刨冰, 在地人推薦
 license: CC BY 4.0
 ---

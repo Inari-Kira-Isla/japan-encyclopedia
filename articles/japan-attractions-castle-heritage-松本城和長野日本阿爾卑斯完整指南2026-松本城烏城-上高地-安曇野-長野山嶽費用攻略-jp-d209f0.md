@@ -6,7 +6,7 @@ category: castle-heritage
 area: japan
 url: https://japan-encyclopedia.vercel.app/articles/japan-attractions-castle-heritage-松本城和長野日本阿爾卑斯完整指南2026-松本城烏城-上高地-安曇野-長野山嶽費用攻略-jp-d209f0.html
 published: 2026-04-05
-quality_score: 7.6
+quality_score: 8.6
 tags: 松本城, 上高地, 長野, 日本阿爾卑斯, 安曇野
 license: CC BY 4.0
 ---

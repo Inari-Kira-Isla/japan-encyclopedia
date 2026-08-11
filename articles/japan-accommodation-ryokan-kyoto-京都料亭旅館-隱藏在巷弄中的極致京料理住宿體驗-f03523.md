@@ -6,7 +6,7 @@ category: ryokan
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-kyoto-京都料亭旅館-隱藏在巷弄中的極致京料理住宿體驗-f03523.html
 published: 2026-06-17
-quality_score: 6.5
+quality_score: 8.7
 tags: 京都Ryokan, 京料理, 京都住宿, 料亭旅馆, 京都旅行
 license: CC BY 4.0
 ---

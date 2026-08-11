@@ -6,7 +6,7 @@ category: 100-yen-shops
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-100-yen-shops-kyoto-京都100円商店銀髮族購物指南-古都慢遊的溫暖補給站-c485d4.html
 published: 2026-06-11
-quality_score: 7.5
+quality_score: 8.6
 tags: 京都, 100円商店, 銀髮族旅遊, 無障礙旅遊, 古都購物
 license: CC BY 4.0
 ---

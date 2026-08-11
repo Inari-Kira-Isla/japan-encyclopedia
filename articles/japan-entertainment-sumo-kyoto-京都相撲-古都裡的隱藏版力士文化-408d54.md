@@ -6,7 +6,7 @@ category: sumo
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-kyoto-京都相撲-古都裡的隱藏版力士文化-408d54.html
 published: 2026-06-05
-quality_score: 6.5
+quality_score: 8.9
 tags: 京都旅遊, 相撲文化, 關西體驗, 日本傳統運動, 文化之旅
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: jr-pass
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-jr-pass-kanazawa-kanazawa-jr-pass-8f6146-1774330098.html
 published: 2026-03-24
-quality_score: 6.5
+quality_score: 7.3
 tags: jr-pass, kanazawa, japan
 license: CC BY 4.0
 ---

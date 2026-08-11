@@ -6,7 +6,7 @@ category: minshuku
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-osaka-大阪民宿美食散步-關西廚房裡的家庭味住宿-41ff97.html
 published: 2026-07-01
-quality_score: 6.5
+quality_score: 8.5
 tags: 大阪民宿, 關西廚房, 黑門市場, 天王寺, 港區住宿
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: cycling
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-fukuoka-福岡新幹線完全指南-博多站內轉乘與周邊交通攻略-e1bb78.html
 published: 2026-06-22
-quality_score: 7.5
+quality_score: 8.5
 tags: 博多站, 山陽新幹線, JR九州, 地下鐵機場線, 久留米拉麵
 license: CC BY 4.0
 ---

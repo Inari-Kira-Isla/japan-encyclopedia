@@ -6,7 +6,7 @@ category: metro-systems
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-kobe-神戶地下鐵的在地生活航法-五個站區深度指南-d827ff.html
 published: 2026-06-04
-quality_score: 7.5
+quality_score: 8.7
 tags: 神戶地下鐵, 神戶交通, 神戶深度遊, 神戶自助, 兵庫縣
 license: CC BY 4.0
 ---

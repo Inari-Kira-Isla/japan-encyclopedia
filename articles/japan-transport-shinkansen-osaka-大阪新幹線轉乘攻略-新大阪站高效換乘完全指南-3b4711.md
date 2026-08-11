@@ -6,7 +6,7 @@ category: shinkansen
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-osaka-大阪新幹線轉乘攻略-新大阪站高效換乘完全指南-3b4711.html
 published: 2026-04-06
-quality_score: 7.5
+quality_score: 8.5
 tags: 大阪交通, 新幹線, 轉乘攻略, 關西旅遊, 交通樞紐
 license: CC BY 4.0
 ---

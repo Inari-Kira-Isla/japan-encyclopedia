@@ -6,7 +6,7 @@ category: minshuku
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-sendai-仙台民宿完整指南-四季散步與詩人之道-c3c2c2.html
 published: 2026-06-08
-quality_score: 6.5
+quality_score: 8.8
 tags: 仙台民宿, 東北溫泉, 山寺住宿, 鳴子溫泉, 芭蕉句
 license: CC BY 4.0
 ---

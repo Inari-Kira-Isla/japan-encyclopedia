@@ -6,7 +6,7 @@ category: ramen
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-ramen-osaka-大阪拉麵職人工藝-從湯頭到麵條的匠心製作-6851c6.html
 published: 2026-04-06
-quality_score: 6.5
+quality_score: 8.8
 tags: 大阪美食, 拉麵文化, 職人工藝, 關西料理, 日本美食
 license: CC BY 4.0
 ---

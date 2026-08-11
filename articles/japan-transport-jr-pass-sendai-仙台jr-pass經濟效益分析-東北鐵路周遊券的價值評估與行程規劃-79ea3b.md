@@ -6,7 +6,7 @@ category: jr-pass
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-jr-pass-sendai-仙台jr-pass經濟效益分析-東北鐵路周遊券的價值評估與行程規劃-79ea3b.html
 published: 2026-06-14
-quality_score: 7.5
+quality_score: 8.7
 tags: 仙台, JR Pass, 東北交通, 鐵路周遊券, 日本自由行
 license: CC BY 4.0
 ---

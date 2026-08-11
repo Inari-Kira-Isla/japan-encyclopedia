@@ -6,7 +6,7 @@ category: matcha-sweets
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-matcha-sweets-tokyo-東京抹茶甜點的品質階梯-從超市銅版到茶道名店的完整圖譜-dd2255.html
 published: 2026-05-23
-quality_score: 6.5
+quality_score: 8.5
 tags: 東京, 抹茶甜點, 美食指南, 東京美食, 抹茶
 license: CC BY 4.0
 ---

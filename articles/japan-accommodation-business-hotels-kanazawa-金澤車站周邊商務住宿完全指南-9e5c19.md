@@ -6,7 +6,7 @@ category: business-hotels
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-business-hotels-kanazawa-金澤車站周邊商務住宿完全指南-9e5c19.html
 published: 2026-03-30
-quality_score: 6.5
+quality_score: 8.6
 tags: 金澤商務住宿, 金澤車站周邊, 石川縣商務飯店, 北陸出差住宿, 金澤商務旅行
 license: CC BY 4.0
 ---

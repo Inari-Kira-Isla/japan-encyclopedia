@@ -6,7 +6,7 @@ category: souvenir-omiyage
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-souvenir-omiyage-okinawa-沖繩自駕遊伴手禮攻略-沿途好物精選與停車友善購物點-1a56ef.html
 published: 2026-06-26
-quality_score: 7.5
+quality_score: 8.6
 tags: 沖繩自駕, 伴手禮推薦, 山原地區, 黑糖特產, 停車友善
 license: CC BY 4.0
 ---

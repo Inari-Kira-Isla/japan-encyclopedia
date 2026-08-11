@@ -6,7 +6,7 @@ category: 100-yen-shops
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-100-yen-shops-osaka-大阪100円商店-食-巷攻略-通天閣周邊銅板美食採購地圖-1dcc89.html
 published: 2026-06-13
-quality_score: 7.5
+quality_score: 8.9
 tags: 大阪100円商店, 通天閣, 大阪伴手禮, 新世界, 天王寺
 license: CC BY 4.0
 ---

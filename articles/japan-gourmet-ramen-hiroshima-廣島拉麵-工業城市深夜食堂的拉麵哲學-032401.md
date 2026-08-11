@@ -6,7 +6,7 @@ category: ramen
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-ramen-hiroshima-廣島拉麵-工業城市深夜食堂的拉麵哲學-032401.html
 published: 2026-06-28
-quality_score: 6.5
+quality_score: 8.7
 tags: 廣島拉麵, 廣島美食, 瀨戶內海, 醬油拉麵, 在地拉麵
 license: CC BY 4.0
 ---

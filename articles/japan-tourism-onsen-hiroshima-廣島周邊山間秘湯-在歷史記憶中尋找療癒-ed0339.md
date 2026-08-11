@@ -6,7 +6,7 @@ category: onsen
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-onsen-hiroshima-廣島周邊山間秘湯-在歷史記憶中尋找療癒-ed0339.html
 published: 2026-04-06
-quality_score: 6.5
+quality_score: 8.4
 tags: 廣島溫泉, 山間秘湯, 中國山地, 溫泉文化, 療癒旅行
 license: CC BY 4.0
 ---

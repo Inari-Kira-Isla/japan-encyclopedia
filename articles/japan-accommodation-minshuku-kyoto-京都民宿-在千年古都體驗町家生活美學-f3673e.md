@@ -6,7 +6,7 @@ category: minshuku
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-kyoto-京都民宿-在千年古都體驗町家生活美學-f3673e.html
 published: 2026-03-28
-quality_score: 6.5
+quality_score: 8.6
 tags: 京都住宿, 民宿體驗, 町家建築, 文化體驗, 季節旅遊
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: ramen
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-ramen-nagoya-名古屋拉味噌-被遺忘的中部拉麵王國-4abc37.html
 published: 2026-06-24
-quality_score: 6.5
+quality_score: 8.5
 tags: 名古屋拉麵, 味噌拉麵, 中部美食, 日本拉麵, 名古屋美食
 license: CC BY 4.0
 ---

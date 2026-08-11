@@ -6,7 +6,7 @@ category: karaoke
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-karaoke-hokkaido-北海道溫泉鄉的卡拉ok-冰天雪地中的暖心歡唱時光-73342c.html
 published: 2026-06-25
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道卡拉OK, 溫泉街娛樂, 札幌夜生活, 二世谷滑雪, 北海道美食
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: castle-towns
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-castle-towns-kobe-神戶歷史街區-港都的武家風情與異國情調-446883.html
 published: 2026-03-15
-quality_score: 6.5
+quality_score: 8.7
 tags: 神戶, 歷史街區, 異人館, 有馬溫泉, 舊居留地
 license: CC BY 4.0
 ---

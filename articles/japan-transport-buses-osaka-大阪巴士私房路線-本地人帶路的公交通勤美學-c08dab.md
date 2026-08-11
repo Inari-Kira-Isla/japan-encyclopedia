@@ -6,7 +6,7 @@ category: buses
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-buses-osaka-大阪巴士私房路線-本地人帶路的公交通勤美學-c08dab.html
 published: 2026-06-03
-quality_score: 7.5
+quality_score: 8.6
 tags: 大阪交通, 大阪公車, 關西巴士, 大阪自由度, 大阪自由行
 license: CC BY 4.0
 ---

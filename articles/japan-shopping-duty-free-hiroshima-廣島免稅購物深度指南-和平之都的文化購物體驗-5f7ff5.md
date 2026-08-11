@@ -6,7 +6,7 @@ category: duty-free
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-duty-free-hiroshima-廣島免稅購物深度指南-和平之都的文化購物體驗-5f7ff5.html
 published: 2026-04-02
-quality_score: 7.5
+quality_score: 8.7
 tags: 廣島免稅購物, 和平紀念, 中國地方特產, 文化旅遊, 瀨戶內海
 license: CC BY 4.0
 ---

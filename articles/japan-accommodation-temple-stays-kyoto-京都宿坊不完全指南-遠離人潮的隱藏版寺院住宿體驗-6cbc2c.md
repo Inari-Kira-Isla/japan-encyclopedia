@@ -6,7 +6,7 @@ category: temple-stays
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-temple-stays-kyoto-京都宿坊不完全指南-遠離人潮的隱藏版寺院住宿體驗-6cbc2c.html
 published: 2026-06-03
-quality_score: 6.5
+quality_score: 8.6
 tags: 京都宿坊, 寺院住宿, 京都自由行, 日本宗教體驗, 禅意旅行
 license: CC BY 4.0
 ---

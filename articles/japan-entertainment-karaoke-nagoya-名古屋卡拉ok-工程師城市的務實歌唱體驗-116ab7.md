@@ -6,7 +6,7 @@ category: karaoke
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-karaoke-nagoya-名古屋卡拉ok-工程師城市的務實歌唱體驗-116ab7.html
 published: 2026-06-20
-quality_score: 6.5
+quality_score: 8.7
 tags: 名古屋卡拉OK, 名古屋娛樂, 日本卡拉OK, 名古屋夜生活, 中部娛樂
 license: CC BY 4.0
 ---

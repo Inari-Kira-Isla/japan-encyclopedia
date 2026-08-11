@@ -6,7 +6,7 @@ category: anime-manga
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-hiroshima-廣島動漫創作聖地-從原爆重生到數位創意的文化新貌-b70c30.html
 published: 2026-04-06
-quality_score: 6.5
+quality_score: 8.7
 tags: 廣島, 動漫創作, 獨立工作室, 文化體驗, 和平主題
 license: CC BY 4.0
 ---

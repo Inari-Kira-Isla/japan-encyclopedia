@@ -6,7 +6,7 @@ category: garden-parks
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-kyoto-京都庭園散步-慢歩古都的禪意綠徑-fd7a0e.html
 published: 2026-05-22
-quality_score: 6.5
+quality_score: 8.7
 tags: 京都, 日本庭園, 古都旅行, 禪意景點, 綠色旅遊
 license: CC BY 4.0
 ---

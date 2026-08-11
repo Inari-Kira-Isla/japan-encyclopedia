@@ -6,7 +6,7 @@ category: ferries
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-ferries-osaka-大阪渡輪完全指南-港灣水路的隱藏交通樞紐-3b6ee0.html
 published: 2026-03-24
-quality_score: 7.5
+quality_score: 8.5
 tags: 大阪交通, 渡輪旅遊, 港灣體驗, 日本水運, 四國交通
 license: CC BY 4.0
 ---

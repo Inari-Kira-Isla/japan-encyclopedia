@@ -6,7 +6,7 @@ category: love-hotels
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-love-hotels-osaka-大阪love-hotels-道頓堀-心齋橋區域特色與休憩選擇完全指南-808adc.html
 published: 2026-06-21
-quality_score: 6.5
+quality_score: 8.8
 tags: 大阪, Love Hotels, 情侶住宿, 道頓堀, 心齋橋
 license: CC BY 4.0
 ---

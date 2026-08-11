@@ -6,7 +6,7 @@ category: onsen
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-onsen-tokyo-東京錢湯文化-都會巷弄中的庶民溫泉記憶-61de80.html
 published: 2026-06-09
-quality_score: 6.5
+quality_score: 8.5
 tags: 東京錢湯, 東京溫泉, Sentō, 東京公共浴池, 庶民文化
 license: CC BY 4.0
 ---

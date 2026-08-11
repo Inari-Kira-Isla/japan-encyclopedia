@@ -6,7 +6,7 @@ category: garden-parks
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-tokyo-東京藝術花園-自然與數位藝術的跨界綠洲-3cfd47.html
 published: 2026-05-25
-quality_score: 6.5
+quality_score: 8.8
 tags: 東京藝術花園, 數位藝術, teamLab, 藝術型公園, 東京花園推薦
 license: CC BY 4.0
 ---

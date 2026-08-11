@@ -6,7 +6,7 @@ category: 100-yen-shops
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-100-yen-shops-fukuoka-福岡100円商店-屋臺文化-體驗博多下町風情的平價挖寶指南-d51bed.html
 published: 2026-06-30
-quality_score: 7.5
+quality_score: 8.7
 tags: 福岡100円商店, 屋台文化, 博多元町, 平價購物, 九州旅行
 license: CC BY 4.0
 ---

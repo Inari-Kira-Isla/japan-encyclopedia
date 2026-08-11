@@ -6,7 +6,7 @@ category: scenic-routes
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-okinawa-沖繩自駕風景道路-家庭同樂的熱帶海岸線漫遊指南-62ba55.html
 published: 2026-06-14
-quality_score: 6.5
+quality_score: 8.8
 tags: 沖繩自駕, 風景道路, 家庭旅遊, 海岸線, 親子同樂
 license: CC BY 4.0
 ---

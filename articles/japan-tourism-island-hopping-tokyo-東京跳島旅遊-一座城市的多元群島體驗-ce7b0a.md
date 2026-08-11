@@ -6,7 +6,7 @@ category: island-hopping
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-island-hopping-tokyo-東京跳島旅遊-一座城市的多元群島體驗-ce7b0a.html
 published: 2026-05-25
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京跳島, 群島旅遊, 日本的岛, 八丈岛, 三宅岛
 license: CC BY 4.0
 ---

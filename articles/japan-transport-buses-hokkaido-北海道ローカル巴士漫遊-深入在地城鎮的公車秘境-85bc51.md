@@ -6,7 +6,7 @@ category: buses
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-buses-hokkaido-北海道ローカル巴士漫遊-深入在地城鎮的公車秘境-85bc51.html
 published: 2026-06-22
-quality_score: 7.5
+quality_score: 8.5
 tags: 北海道巴士, 地方交通, 秘境之旅, 自助旅行, 北海道自由行
 license: CC BY 4.0
 ---

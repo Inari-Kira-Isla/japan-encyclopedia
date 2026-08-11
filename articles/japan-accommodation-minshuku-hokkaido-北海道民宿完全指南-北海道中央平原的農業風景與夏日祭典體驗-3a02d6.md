@@ -6,7 +6,7 @@ category: minshuku
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-hokkaido-北海道民宿完全指南-北海道中央平原的農業風景與夏日祭典體驗-3a02d6.html
 published: 2026-06-20
-quality_score: 6.5
+quality_score: 8.5
 tags: 北海道民宿, 中央平原, 農泊體驗, 帶廣住宿, 十勝平原
 license: CC BY 4.0
 ---

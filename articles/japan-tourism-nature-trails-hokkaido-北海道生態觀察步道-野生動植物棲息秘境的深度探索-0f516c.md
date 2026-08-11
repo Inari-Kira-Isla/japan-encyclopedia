@@ -6,7 +6,7 @@ category: nature-trails
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-hokkaido-北海道生態觀察步道-野生動植物棲息秘境的深度探索-0f516c.html
 published: 2026-07-04
-quality_score: 6.5
+quality_score: 8.8
 tags: 北海道自然步道, 知床五湖, 生態旅遊, 野鳥觀察, 羅臼岳
 license: CC BY 4.0
 ---

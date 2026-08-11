@@ -6,7 +6,7 @@ category: tempura
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tempura-kyoto-京都天婦羅-季節食材與懷石美學的極致表現-e59405.html
 published: 2026-03-21
-quality_score: 6.5
+quality_score: 8.6
 tags: 京都, 天婦羅, 日本美食, 季節食材, 懷石料理
 license: CC BY 4.0
 ---

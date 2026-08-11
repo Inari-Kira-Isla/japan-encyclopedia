@@ -6,7 +6,7 @@ category: ferries
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-ferries-nara-奈良周邊水上體驗-琵琶湖渡輪與關西水域交通指南-af25eb.html
 published: 2026-06-08
-quality_score: 7.5
+quality_score: 8.7
 tags: 奈良周邊水上體驗, 琵琶湖渡輪, 關西水域交通, 神戶港渡輪, 吉野川橡皮艇
 license: CC BY 4.0
 ---

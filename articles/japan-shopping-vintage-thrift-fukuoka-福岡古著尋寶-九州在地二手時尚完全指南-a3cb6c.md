@@ -6,7 +6,7 @@ category: vintage-thrift
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-vintage-thrift-fukuoka-福岡古著尋寶-九州在地二手時尚完全指南-a3cb6c.html
 published: 2026-06-02
-quality_score: 7.5
+quality_score: 8.8
 tags: 福岡古著, 二手時尚, 九州購物, 日本古著, 古著獵人
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: sushi
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sushi-okinawa-沖繩壽司-季節漁獲與家族食文化-e1ffa8.html
 published: 2026-03-23
-quality_score: 6.5
+quality_score: 8.5
 tags: 沖繩美食, 壽司, 日本料理, 季節食材, 市場文化
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: day-trips
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-nagoya-名古屋自然郊遊一日遊-中部山海秘境的文化之路-0f0810.html
 published: 2026-05-23
-quality_score: 6.5
+quality_score: 8.7
 tags: 名古屋一日遊, 中部地方自然, 白川乡合掌村, 海女体験, 鹈飼观赏
 license: CC BY 4.0
 ---

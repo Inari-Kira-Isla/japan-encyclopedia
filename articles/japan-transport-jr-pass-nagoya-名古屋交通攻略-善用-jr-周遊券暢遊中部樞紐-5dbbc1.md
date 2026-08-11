@@ -6,7 +6,7 @@ category: jr-pass
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-jr-pass-nagoya-名古屋交通攻略-善用-jr-周遊券暢遊中部樞紐-5dbbc1.html
 published: 2026-04-05
-quality_score: 7.5
+quality_score: 8.7
 tags: 名古屋交通, JR周遊券, 中部旅遊, 高山北陸
 license: CC BY 4.0
 ---

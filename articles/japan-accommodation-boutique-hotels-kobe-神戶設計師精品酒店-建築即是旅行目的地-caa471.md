@@ -6,7 +6,7 @@ category: boutique-hotels
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-kobe-神戶設計師精品酒店-建築即是旅行目的地-caa471.html
 published: 2026-06-16
-quality_score: 6.5
+quality_score: 8.6
 tags: 神戶精品酒店, 設計師酒店, 建築巡禮, 港都住宿, 神戶建築
 license: CC BY 4.0
 ---

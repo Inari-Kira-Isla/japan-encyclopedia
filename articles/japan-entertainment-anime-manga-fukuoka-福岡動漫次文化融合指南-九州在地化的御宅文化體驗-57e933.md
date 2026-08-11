@@ -6,7 +6,7 @@ category: anime-manga
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-fukuoka-福岡動漫次文化融合指南-九州在地化的御宅文化體驗-57e933.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 福岡, 動漫文化, 遊戲廳, 屋台文化, 九州旅遊
 license: CC BY 4.0
 ---

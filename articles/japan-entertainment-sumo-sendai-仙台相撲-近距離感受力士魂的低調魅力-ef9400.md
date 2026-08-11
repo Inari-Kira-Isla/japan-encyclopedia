@@ -6,7 +6,7 @@ category: sumo
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-sendai-仙台相撲-近距離感受力士魂的低調魅力-ef9400.html
 published: 2026-06-23
-quality_score: 6.5
+quality_score: 8.6
 tags: 仙台相撲, 東北觀光, 相撲體驗, 日本文化, 力士文化
 license: CC BY 4.0
 ---

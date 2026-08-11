@@ -6,7 +6,7 @@ category: capsule-hotels
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-capsule-hotels-nara-奈良膠囊旅館單車旅人之書-古都驛站的兩個輪子哲學-015464.html
 published: 2026-06-24
-quality_score: 6.5
+quality_score: 8.7
 tags: 奈良住宿, 膠囊旅館, 單車旅行, 關西自助, 古都住宿
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: gaming-arcades
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-gaming-arcades-fukuoka-福岡街機不完全指南-天神と博多-地域特色與深夜萬元機-9d5fb1.html
 published: 2026-04-07
-quality_score: 6.5
+quality_score: 8.7
 tags: 福岡, 街機中心, 遊戲中心, 天神, 博多年
 license: CC BY 4.0
 ---

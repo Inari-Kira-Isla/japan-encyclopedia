@@ -6,7 +6,7 @@ category: izakaya
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-izakaya-nagoya-名古屋中村區深夜食堂-榮區周邊巷弄酒場的在地喝酒哲學-035265.html
 published: 2026-05-24
-quality_score: 6.5
+quality_score: 8.7
 tags: 名古屋居酒屋, 中村區美食, 名古屋啤酒屋, 日本在地酒吧, 名古屋夜生活
 license: CC BY 4.0
 ---

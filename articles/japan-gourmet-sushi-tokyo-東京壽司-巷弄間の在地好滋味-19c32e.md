@@ -6,7 +6,7 @@ category: sushi
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sushi-tokyo-東京壽司-巷弄間の在地好滋味-19c32e.html
 published: 2026-03-24
-quality_score: 6.5
+quality_score: 8.9
 tags: 東京壽司, 在地美食, 平價壽司, 江戶前壽司, 東京美食推薦
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: vintage-thrift
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-vintage-thrift-osaka-大阪美式古著尋蹤-關西復古工裝與港灣風格的深度之旅-9452ef.html
 published: 2026-07-01
-quality_score: 7.5
+quality_score: 8.7
 tags: 大阪古著, 美式古著, 關西購物, 復古時尚, 古著尋寶
 license: CC BY 4.0
 ---

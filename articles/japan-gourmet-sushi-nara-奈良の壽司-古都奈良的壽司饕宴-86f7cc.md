@@ -6,7 +6,7 @@ category: sushi
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sushi-nara-奈良の壽司-古都奈良的壽司饕宴-86f7cc.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 8.5
 tags: 奈良壽司, 關西美食, 古都奈良, 壽司推薦, 日本料理
 license: CC BY 4.0
 ---

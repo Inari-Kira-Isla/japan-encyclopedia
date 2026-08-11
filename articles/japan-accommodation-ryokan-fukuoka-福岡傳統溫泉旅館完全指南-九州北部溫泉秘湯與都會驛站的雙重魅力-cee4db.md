@@ -6,7 +6,7 @@ category: ryokan
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-fukuoka-福岡傳統溫泉旅館完全指南-九州北部溫泉秘湯與都會驛站的雙重魅力-cee4db.html
 published: 2026-06-15
-quality_score: 6.5
+quality_score: 8.4
 tags: 福岡溫泉, Ryokan, 傳統溫泉宿, 九州溫泉, 蘆屋溫泉
 license: CC BY 4.0
 ---

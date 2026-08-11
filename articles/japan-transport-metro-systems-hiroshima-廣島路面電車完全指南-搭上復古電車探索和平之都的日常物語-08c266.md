@@ -6,7 +6,7 @@ category: metro-systems
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-hiroshima-廣島路面電車完全指南-搭上復古電車探索和平之都的日常物語-08c266.html
 published: 2026-06-29
-quality_score: 7.5
+quality_score: 8.8
 tags: 廣島交通, 路面電車, 廣島電鐵, 日本軌道交通, 和平之旅
 license: CC BY 4.0
 ---

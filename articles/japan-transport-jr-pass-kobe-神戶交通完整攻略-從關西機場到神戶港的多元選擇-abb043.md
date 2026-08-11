@@ -6,7 +6,7 @@ category: jr-pass
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-jr-pass-kobe-神戶交通完整攻略-從關西機場到神戶港的多元選擇-abb043.html
 published: 2026-06-25
-quality_score: 7.5
+quality_score: 8.6
 tags: 神戶交通, 關西JR Pass, 神戶自由行, 關西機場交通, 神戶景點
 license: CC BY 4.0
 ---

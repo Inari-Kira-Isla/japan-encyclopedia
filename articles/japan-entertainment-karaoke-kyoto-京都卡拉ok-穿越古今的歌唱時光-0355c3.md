@@ -6,7 +6,7 @@ category: karaoke
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-karaoke-kyoto-京都卡拉ok-穿越古今的歌唱時光-0355c3.html
 published: 2026-06-19
-quality_score: 6.5
+quality_score: 8.6
 tags: 京都卡拉OK, 京都娛樂, 京都夜生活, 關西卡拉OK, 京都旅遊
 license: CC BY 4.0
 ---

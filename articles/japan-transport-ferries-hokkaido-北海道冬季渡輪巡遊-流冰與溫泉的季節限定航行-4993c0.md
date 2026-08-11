@@ -6,7 +6,7 @@ category: ferries
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-ferries-hokkaido-北海道冬季渡輪巡遊-流冰與溫泉的季節限定航行-4993c0.html
 published: 2026-03-26
-quality_score: 7.5
+quality_score: 8.7
 tags: 北海道, 渡輪, 冬季旅遊, 流冰, 溫泉
 license: CC BY 4.0
 ---

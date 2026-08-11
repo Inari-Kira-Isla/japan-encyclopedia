@@ -6,7 +6,7 @@ category: vintage-thrift
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-vintage-thrift-tokyo-東京古著投資指南-可持續時尚的收藏價值與環保理念-b67304.html
 published: 2026-04-04
-quality_score: 7.5
+quality_score: 8.9
 tags: 東京購物, 古著收藏, 可持續時尚, 投資理財, 環保消費
 license: CC BY 4.0
 ---

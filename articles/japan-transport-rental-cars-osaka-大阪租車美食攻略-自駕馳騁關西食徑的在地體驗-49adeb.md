@@ -6,7 +6,7 @@ category: rental-cars
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-osaka-大阪租車美食攻略-自駕馳騁關西食徑的在地體驗-49adeb.html
 published: 2026-06-18
-quality_score: 7.5
+quality_score: 8.6
 tags: 大阪租車, 關西美食, 自駕遊, 明石海峽, 神戶清酒
 license: CC BY 4.0
 ---

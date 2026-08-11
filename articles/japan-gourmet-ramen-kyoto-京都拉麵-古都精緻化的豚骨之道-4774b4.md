@@ -6,7 +6,7 @@ category: ramen
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-ramen-kyoto-京都拉麵-古都精緻化的豚骨之道-4774b4.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 8.9
 tags: 京都拉麵, 京都美食, 關西拉麵, 日本拉麵, 京都旅遊
 license: CC BY 4.0
 ---

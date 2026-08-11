@@ -6,7 +6,7 @@ category: nightlife
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-hiroshima-廣島夜生活-現代娛樂與美食的青年之夜-aaaba1.html
 published: 2026-03-22
-quality_score: 6.5
+quality_score: 8.6
 tags: 廣島, 日本夜生活, 廣島燒, 現代娛樂, VR遊戲
 license: CC BY 4.0
 ---

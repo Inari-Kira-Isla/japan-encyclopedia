@@ -6,7 +6,7 @@ category: sushi
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sushi-tokyo-東京壽司-隱藏在巷弄間的家庭式本格派-1a6489.html
 published: 2026-05-23
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京壽司, 日本美食, 家庭式壽司店, 江戶前, 阿佐谷
 license: CC BY 4.0
 ---

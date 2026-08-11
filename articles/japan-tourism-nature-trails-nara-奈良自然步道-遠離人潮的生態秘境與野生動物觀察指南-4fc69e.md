@@ -6,7 +6,7 @@ category: nature-trails
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-nara-奈良自然步道-遠離人潮的生態秘境與野生動物觀察指南-4fc69e.html
 published: 2026-07-03
-quality_score: 6.5
+quality_score: 8.7
 tags: 奈良自然步道, 日本健行, 生態旅遊, 野生動物觀察, 奈良深度遊
 license: CC BY 4.0
 ---

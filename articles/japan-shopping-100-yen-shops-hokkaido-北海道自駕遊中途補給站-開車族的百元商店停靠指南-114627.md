@@ -6,7 +6,7 @@ category: 100-yen-shops
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-100-yen-shops-hokkaido-北海道自駕遊中途補給站-開車族的百元商店停靠指南-114627.html
 published: 2026-06-28
-quality_score: 7.5
+quality_score: 8.7
 tags: 北海道, 100円商店, 自駕遊, 日本購物, 北海道自駕
 license: CC BY 4.0
 ---

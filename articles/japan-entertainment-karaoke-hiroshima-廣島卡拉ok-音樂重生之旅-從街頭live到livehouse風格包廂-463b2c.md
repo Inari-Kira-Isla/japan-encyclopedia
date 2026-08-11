@@ -6,7 +6,7 @@ category: karaoke
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-karaoke-hiroshima-廣島卡拉ok-音樂重生之旅-從街頭live到livehouse風格包廂-463b2c.html
 published: 2026-06-10
-quality_score: 6.5
+quality_score: 8.7
 tags: 廣島卡拉OK, 廣島夜生活, 廣島娛樂, 日本卡拉OK, live house
 license: CC BY 4.0
 ---

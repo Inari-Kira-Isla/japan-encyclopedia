@@ -6,7 +6,7 @@ category: island-hopping
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-island-hopping-hokkaido-北海道跳島旅遊-利尻-禮文與北方海域的島嶼美學-d33384.html
 published: 2026-06-30
-quality_score: 6.5
+quality_score: 8.9
 tags: 北海道跳島, 利ื島, 禮文島, 日本海, 花之浮島
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: temple-stays
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-temple-stays-fukuoka-福岡寺院住宿-遠離商業化的禪意體驗與在地文化深度之旅-57e613.html
 published: 2026-07-04
-quality_score: 6.5
+quality_score: 8.7
 tags: 福岡寺院住宿, 九州宿坊, 禪修體驗, 太宰府, 久留米
 license: CC BY 4.0
 ---

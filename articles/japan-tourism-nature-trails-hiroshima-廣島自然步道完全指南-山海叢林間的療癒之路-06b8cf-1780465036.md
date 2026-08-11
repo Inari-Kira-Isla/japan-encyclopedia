@@ -6,7 +6,7 @@ category: nature-trails
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-hiroshima-廣島自然步道完全指南-山海叢林間的療癒之路-06b8cf-1780465036.html
 published: 2026-06-03
-quality_score: 6.5
+quality_score: 8.8
 tags: 日本登山, 瀨戶內海, 嚴島神社, 自然步道, 廣島
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: anime-manga
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-fukuoka-福岡動漫聖地巡禮-動漫迷的九州朝聖之旅-df9d4b.html
 published: 2026-03-15
-quality_score: 6.5
+quality_score: 8.6
 tags: 福岡, 動漫, 日本動漫, 漫畫, 天神
 license: CC BY 4.0
 ---

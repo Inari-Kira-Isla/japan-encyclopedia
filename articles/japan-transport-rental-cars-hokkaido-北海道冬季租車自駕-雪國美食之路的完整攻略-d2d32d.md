@@ -6,7 +6,7 @@ category: rental-cars
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-hokkaido-北海道冬季租車自駕-雪國美食之路的完整攻略-d2d32d.html
 published: 2026-06-05
-quality_score: 7.5
+quality_score: 8.4
 tags: 北海道租車, 冬季自駕, 雪國美食, 新千歲機場, 旭川
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: castle-towns
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-castle-towns-hiroshima-廣島城下町-毛利氏領地的歷史風情與在地日常-56e4a9.html
 published: 2026-05-31
-quality_score: 6.5
+quality_score: 8.8
 tags: 廣島城下町, 毛利氏, 日本城堡城鎮, 廣島歷史, 廣島旅遊
 license: CC BY 4.0
 ---

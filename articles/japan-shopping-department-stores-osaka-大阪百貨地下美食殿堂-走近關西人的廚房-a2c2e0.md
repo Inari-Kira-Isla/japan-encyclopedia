@@ -6,7 +6,7 @@ category: department-stores
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-department-stores-osaka-大阪百貨地下美食殿堂-走近關西人的廚房-a2c2e0.html
 published: 2026-05-24
-quality_score: 7.5
+quality_score: 8.7
 tags: 大阪, 、百貨公司, 、地下食品, 、depachika, 、美食
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: izakaya
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-izakaya-nagoya-名古屋居酒屋的下班後哲學-工業城市裡的人情味酒場-092de7.html
 published: 2026-06-14
-quality_score: 6.5
+quality_score: 8.6
 tags: 名古屋, 居酒屋, 下町文化, 味噌關東煮, 在地體驗
 license: CC BY 4.0
 ---

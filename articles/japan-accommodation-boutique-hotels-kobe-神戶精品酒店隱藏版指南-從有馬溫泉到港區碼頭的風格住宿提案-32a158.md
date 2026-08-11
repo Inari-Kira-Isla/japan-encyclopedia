@@ -6,7 +6,7 @@ category: boutique-hotels
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-kobe-神戶精品酒店隱藏版指南-從有馬溫泉到港區碼頭的風格住宿提案-32a158.html
 published: 2026-07-06
-quality_score: 6.5
+quality_score: 8.7
 tags: 神戶精品酒店, 有馬溫泉, 北野異人館, 神戶住宿推薦, 關西溫泉旅行
 license: CC BY 4.0
 ---

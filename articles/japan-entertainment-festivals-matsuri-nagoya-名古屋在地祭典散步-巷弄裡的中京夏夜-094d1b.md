@@ -6,7 +6,7 @@ category: festivals-matsuri
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-festivals-matsuri-nagoya-名古屋在地祭典散步-巷弄裡的中京夏夜-094d1b.html
 published: 2026-06-17
-quality_score: 6.5
+quality_score: 8.6
 tags: 名古屋祭典, 中京之都, 日本祭典, 名古屋夏日, 在地文化
 license: CC BY 4.0
 ---

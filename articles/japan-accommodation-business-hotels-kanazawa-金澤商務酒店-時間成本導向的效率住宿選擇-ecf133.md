@@ -6,7 +6,7 @@ category: business-hotels
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-business-hotels-kanazawa-金澤商務酒店-時間成本導向的效率住宿選擇-ecf133.html
 published: 2026-06-16
-quality_score: 6.5
+quality_score: 8.8
 tags: 金澤商務酒店, 北陸商務住宿, 金澤出差, 日本商務飯店, 時間成本住宿
 license: CC BY 4.0
 ---

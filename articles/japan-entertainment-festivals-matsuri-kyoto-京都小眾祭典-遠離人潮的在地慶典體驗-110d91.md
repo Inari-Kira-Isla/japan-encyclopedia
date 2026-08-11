@@ -6,7 +6,7 @@ category: festivals-matsuri
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-festivals-matsuri-kyoto-京都小眾祭典-遠離人潮的在地慶典體驗-110d91.html
 published: 2026-06-28
-quality_score: 6.5
+quality_score: 8.5
 tags: 京都祭典, 小眾祭典, 在地體驗, 壬生狂言, 下鸭神社薪能
 license: CC BY 4.0
 ---

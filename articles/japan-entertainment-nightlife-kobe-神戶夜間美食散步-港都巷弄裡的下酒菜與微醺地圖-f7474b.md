@@ -6,7 +6,7 @@ category: nightlife
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-kobe-神戶夜間美食散步-港都巷弄裡的下酒菜與微醺地圖-f7474b.html
 published: 2026-05-24
-quality_score: 6.5
+quality_score: 8.8
 tags: 神戶夜生活, 神戶美食, 南京町, 元町, 大阪前往神戶
 license: CC BY 4.0
 ---

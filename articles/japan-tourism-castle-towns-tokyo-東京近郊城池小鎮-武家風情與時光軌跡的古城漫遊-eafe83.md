@@ -6,7 +6,7 @@ category: castle-towns
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-castle-towns-tokyo-東京近郊城池小鎮-武家風情與時光軌跡的古城漫遊-eafe83.html
 published: 2026-05-25
-quality_score: 6.5
+quality_score: 8.8
 tags: 東京近郊, 城池小鎮, 城下町, 川越, 小田原
 license: CC BY 4.0
 ---

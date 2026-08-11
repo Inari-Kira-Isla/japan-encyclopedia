@@ -6,7 +6,7 @@ category: karaoke
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-karaoke-kobe-神戶卡拉ok-港都夜晚的音樂饗宴-4de94a-1780265619.html
 published: 2026-05-31
-quality_score: 6.5
+quality_score: 8.8
 tags: 神戶, 卡拉OK, 港都夜生活, 三宮, 元町
 license: CC BY 4.0
 ---

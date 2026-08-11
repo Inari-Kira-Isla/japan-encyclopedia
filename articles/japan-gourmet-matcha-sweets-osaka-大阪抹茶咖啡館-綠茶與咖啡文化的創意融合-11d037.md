@@ -6,7 +6,7 @@ category: matcha-sweets
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-matcha-sweets-osaka-大阪抹茶咖啡館-綠茶與咖啡文化的創意融合-11d037.html
 published: 2026-06-14
-quality_score: 6.5
+quality_score: 9.0
 tags: 大阪抹茶甜點, 大阪咖啡館, 關西抹茶, 抹茶甜點推薦, 大阪下午茶
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: tonkatsu
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tonkatsu-nagoya-名古屋とんかつ-味噌醬汁與洋食文化的百年物語-f2d8a1.html
 published: 2026-05-31
-quality_score: 6.5
+quality_score: 8.8
 tags: 名古屋美食, 味噌炸豬排, 名古屋とんかつ, 洋食, 日本料理
 license: CC BY 4.0
 ---

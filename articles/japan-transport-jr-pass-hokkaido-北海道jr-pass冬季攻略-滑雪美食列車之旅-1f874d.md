@@ -6,7 +6,7 @@ category: jr-pass
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-jr-pass-hokkaido-北海道jr-pass冬季攻略-滑雪美食列車之旅-1f874d.html
 published: 2026-03-24
-quality_score: 7.5
+quality_score: 8.4
 tags: 北海道, JR Pass, 冬季旅遊, 滑雪, 溫泉
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: island-hopping
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-island-hopping-tokyo-東京跳島美食指南-搭乘渡輪品嚐島嶼的鮮滋味-bf2b36.html
 published: 2026-06-27
-quality_score: 6.5
+quality_score: 8.5
 tags: 東京跳島, 東京群島, 島嶼美食, 東京旅行, 伊東諸島
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: yakitori
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-yakitori-hiroshima-廣島燒鳥-不是主角的配角魅力-38cc52.html
 published: 2026-06-08
-quality_score: 6.5
+quality_score: 8.7
 tags: 廣島燒鳥, 廣島美食, 廣島居酒屋, 瀨戶內海, 日本串燒
 license: CC BY 4.0
 ---

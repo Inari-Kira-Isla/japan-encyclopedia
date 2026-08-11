@@ -6,7 +6,7 @@ category: duty-free
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-duty-free-kobe-神戶免稅購物完全指南-港灣夜景購物與山腰質感小店的美學之旅-3ac4da.html
 published: 2026-07-05
-quality_score: 7.5
+quality_score: 8.7
 tags: 神戶免稅購物, 港灣夜景, 北野異國風, 神戶購物推薦, 關西機場免稅
 license: CC BY 4.0
 ---

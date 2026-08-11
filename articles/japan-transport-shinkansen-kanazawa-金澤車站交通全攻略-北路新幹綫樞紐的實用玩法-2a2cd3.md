@@ -6,7 +6,7 @@ category: shinkansen
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-kanazawa-金澤車站交通全攻略-北路新幹綫樞紐的實用玩法-2a2cd3.html
 published: 2026-06-15
-quality_score: 7.5
+quality_score: 8.7
 tags: 金澤交通, 北路新幹綫, 日本鐵路, 石川縣旅遊, 金澤景點
 license: CC BY 4.0
 ---

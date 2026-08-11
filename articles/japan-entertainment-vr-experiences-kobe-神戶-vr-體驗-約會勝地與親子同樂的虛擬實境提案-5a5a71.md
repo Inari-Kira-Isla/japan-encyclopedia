@@ -6,7 +6,7 @@ category: vr-experiences
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-vr-experiences-kobe-神戶-vr-體驗-約會勝地與親子同樂的虛擬實境提案-5a5a71.html
 published: 2026-06-07
-quality_score: 6.5
+quality_score: 8.5
 tags: 神戶VR, 神戶約會, 神戶親子, 關西VR體驗, 港都科技娛樂
 license: CC BY 4.0
 ---

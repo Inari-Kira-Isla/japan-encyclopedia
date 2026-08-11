@@ -6,7 +6,7 @@ category: castle-towns
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-castle-towns-nagoya-名古屋周邊小眾城池-尾張藩隱藏版歷史散步-2b82d3.html
 published: 2026-05-22
-quality_score: 6.5
+quality_score: 8.9
 tags: 尾張藩歷史旅遊, 名古屋城周邊, 清須城, 岡崎城, 長久手古戰場
 license: CC BY 4.0
 ---

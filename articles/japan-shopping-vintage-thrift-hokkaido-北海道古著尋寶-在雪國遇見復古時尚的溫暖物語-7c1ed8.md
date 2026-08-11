@@ -6,7 +6,7 @@ category: vintage-thrift
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-vintage-thrift-hokkaido-北海道古著尋寶-在雪國遇見復古時尚的溫暖物語-7c1ed8.html
 published: 2026-03-31
-quality_score: 7.5
+quality_score: 8.9
 tags: 北海道古著, 札幌古著, 小樽復古, 日本古著購物, 二手時尚
 license: CC BY 4.0
 ---

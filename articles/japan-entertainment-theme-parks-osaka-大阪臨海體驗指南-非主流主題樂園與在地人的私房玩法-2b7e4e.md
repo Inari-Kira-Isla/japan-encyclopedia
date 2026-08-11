@@ -6,7 +6,7 @@ category: theme-parks
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-theme-parks-osaka-大阪臨海體驗指南-非主流主題樂園與在地人的私房玩法-2b7e4e.html
 published: 2026-06-23
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪主題樂園, 臨海體驗, 大阪近郊, 主題樂園推薦, 關西旅遊
 license: CC BY 4.0
 ---

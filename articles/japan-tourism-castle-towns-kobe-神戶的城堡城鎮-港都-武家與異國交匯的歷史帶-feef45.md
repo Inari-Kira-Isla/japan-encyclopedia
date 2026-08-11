@@ -6,7 +6,7 @@ category: castle-towns
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-castle-towns-kobe-神戶的城堡城鎮-港都-武家與異國交匯的歷史帶-feef45.html
 published: 2026-05-22
-quality_score: 6.5
+quality_score: 8.7
 tags: 神戶, 城堡城鎮, 異人館, 港都歷史, 神戶自由行
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: minshuku
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-tokyo-東京民宿完全指南-築地-豐洲的清晨-旅人的另一種時區-ea48a5.html
 published: 2026-06-22
-quality_score: 6.5
+quality_score: 8.5
 tags: 東京民宿, 築地市場, 豐洲市場, minshuku, 隅田川
 license: CC BY 4.0
 ---

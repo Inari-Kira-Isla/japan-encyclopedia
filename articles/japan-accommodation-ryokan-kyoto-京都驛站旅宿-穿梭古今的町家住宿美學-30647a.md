@@ -6,7 +6,7 @@ category: ryokan
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-kyoto-京都驛站旅宿-穿梭古今的町家住宿美學-30647a.html
 published: 2026-06-04
-quality_score: 6.5
+quality_score: 8.5
 tags: 京都, 町家, Ryokan, 京料理, 祇園
 license: CC BY 4.0
 ---

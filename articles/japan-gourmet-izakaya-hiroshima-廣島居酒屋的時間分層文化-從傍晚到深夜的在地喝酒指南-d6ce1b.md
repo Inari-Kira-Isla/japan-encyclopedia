@@ -6,7 +6,7 @@ category: izakaya
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-izakaya-hiroshima-廣島居酒屋的時間分層文化-從傍晚到深夜的在地喝酒指南-d6ce1b.html
 published: 2026-06-16
-quality_score: 6.5
+quality_score: 8.6
 tags: 廣島居酒屋, 時間分層文化, 在地美食, 廣島燒, 瀨戶內海海鮮
 license: CC BY 4.0
 ---

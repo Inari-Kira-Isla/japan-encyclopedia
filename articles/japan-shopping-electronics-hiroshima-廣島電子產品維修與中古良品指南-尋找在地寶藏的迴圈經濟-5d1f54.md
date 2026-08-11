@@ -6,7 +6,7 @@ category: electronics
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-electronics-hiroshima-廣島電子產品維修與中古良品指南-尋找在地寶藏的迴圈經濟-5d1f54.html
 published: 2026-06-29
-quality_score: 7.5
+quality_score: 8.7
 tags: 廣島電子產品, 中古電器, 維修服務, 吳市船舶電子, 日本中國地區購物
 license: CC BY 4.0
 ---

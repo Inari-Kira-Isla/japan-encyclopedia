@@ -6,7 +6,7 @@ category: temple-stays
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-temple-stays-hiroshima-廣島季節禪修住宿-春櫻秋楓中的寺院時光-e56204.html
 published: 2026-03-28
-quality_score: 6.5
+quality_score: 8.7
 tags: 寺廟住宿, 禪修體驗, 季節旅遊, 廣島, 宮島
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: souvenir-omiyage
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-souvenir-omiyage-hokkaido-北海道伴手禮銀髮族採購指南-機場直達與便利伴手禮精選-1affa6.html
 published: 2026-07-04
-quality_score: 7.5
+quality_score: 8.7
 tags: 北海道, 伴手禮, 機場免稅, 銀髮族旅遊, 日本購物
 license: CC BY 4.0
 ---

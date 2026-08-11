@@ -6,7 +6,7 @@ category: escape-rooms
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-escape-rooms-kobe-神戶密室逃脫-北灘異人館街區的燒腦小旅行-abf08b.html
 published: 2026-06-09
-quality_score: 6.5
+quality_score: 8.7
 tags: 神戶密室逃脫, 神戶室內活動, 關西娛樂體驗, 北野異人館, 燒腦旅遊
 license: CC BY 4.0
 ---

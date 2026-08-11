@@ -6,7 +6,7 @@ category: kaiseki
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-kaiseki-osaka-大阪懷石料理-吃到飽文化與市民廚房的平民奢華-9a308d.html
 published: 2026-06-13
-quality_score: 6.5
+quality_score: 8.6
 tags: 大阪懷石料理, 關西美食, 吃到飽文化, 市民廚房, 大阪旅遊
 license: CC BY 4.0
 ---

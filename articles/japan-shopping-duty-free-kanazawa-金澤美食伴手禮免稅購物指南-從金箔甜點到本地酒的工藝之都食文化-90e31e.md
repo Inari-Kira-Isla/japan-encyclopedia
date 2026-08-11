@@ -6,7 +6,7 @@ category: duty-free
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-duty-free-kanazawa-金澤美食伴手禮免稅購物指南-從金箔甜點到本地酒的工藝之都食文化-90e31e.html
 published: 2026-06-09
-quality_score: 7.5
+quality_score: 8.6
 tags: 金澤免稅, 金澤購物, 金澤伴手禮, 金箔甜點, 石川縣清酒
 license: CC BY 4.0
 ---

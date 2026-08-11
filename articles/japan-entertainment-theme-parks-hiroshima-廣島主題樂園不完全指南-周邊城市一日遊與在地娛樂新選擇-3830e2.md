@@ -6,7 +6,7 @@ category: theme-parks
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-theme-parks-hiroshima-廣島主題樂園不完全指南-周邊城市一日遊與在地娛樂新選擇-3830e2.html
 published: 2026-06-11
-quality_score: 6.5
+quality_score: 8.5
 tags: 廣島主題樂園, 廣島親子遊, 宮島體驗, 廣島遊戲中心, 日本主題樂園推薦
 license: CC BY 4.0
 ---

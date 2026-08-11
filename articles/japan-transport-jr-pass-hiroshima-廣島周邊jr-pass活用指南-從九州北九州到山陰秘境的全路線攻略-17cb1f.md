@@ -6,7 +6,7 @@ category: jr-pass
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-jr-pass-hiroshima-廣島周邊jr-pass活用指南-從九州北九州到山陰秘境的全路線攻略-17cb1f.html
 published: 2026-06-12
-quality_score: 7.5
+quality_score: 8.7
 tags: 廣島JR Pass, JR West中國地區周遊券, 山陽山陰鐵路, 嚴島神社交通, 日本鐵路周遊券
 license: CC BY 4.0
 ---

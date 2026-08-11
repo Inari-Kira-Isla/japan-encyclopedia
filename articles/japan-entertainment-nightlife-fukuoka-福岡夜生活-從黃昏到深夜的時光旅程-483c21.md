@@ -6,7 +6,7 @@ category: nightlife
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-fukuoka-福岡夜生活-從黃昏到深夜的時光旅程-483c21.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.9
 tags: 福岡夜生活, 屋台文化, 時間軸旅遊, 港都夜景, 九州美食
 license: CC BY 4.0
 ---

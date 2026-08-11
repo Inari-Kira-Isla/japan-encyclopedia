@@ -6,7 +6,7 @@ category: karaoke
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-karaoke-okinawa-沖繩卡拉ok-美軍基地滋養的國際歡唱地圖-d316a1.html
 published: 2026-06-18
-quality_score: 6.5
+quality_score: 8.5
 tags: 沖繩卡拉OK, 那霸夜生活, 美軍基地文化, 海景包廂,  Okinawa karaoke
 license: CC BY 4.0
 ---

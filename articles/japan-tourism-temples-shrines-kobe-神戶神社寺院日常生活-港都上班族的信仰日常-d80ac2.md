@@ -6,7 +6,7 @@ category: temples-shrines
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-temples-shrines-kobe-神戶神社寺院日常生活-港都上班族的信仰日常-d80ac2.html
 published: 2026-07-03
-quality_score: 6.5
+quality_score: 8.9
 tags: 神戶神社, 神戶寺院, 機能型信仰, 港都日常, 生田神社
 license: CC BY 4.0
 ---

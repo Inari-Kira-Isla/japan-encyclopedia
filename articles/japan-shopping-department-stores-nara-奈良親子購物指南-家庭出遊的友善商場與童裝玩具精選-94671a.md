@@ -6,7 +6,7 @@ category: department-stores
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-department-stores-nara-奈良親子購物指南-家庭出遊的友善商場與童裝玩具精選-94671a.html
 published: 2026-07-01
-quality_score: 7.5
+quality_score: 8.7
 tags: 奈良購物, 親子旅遊, 奈良親子, 日本購物, 童裝玩具
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: buses
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-buses-kyoto-京都巴士攻略-沿線隱藏版美食與在地生活體驗-df749c.html
 published: 2026-06-21
-quality_score: 7.5
+quality_score: 8.7
 tags: 京都巴士, 京都交通, 京都美食, 京都自由行, 京都深度遊
 license: CC BY 4.0
 ---

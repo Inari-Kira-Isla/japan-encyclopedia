@@ -6,7 +6,7 @@ category: tonkatsu
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tonkatsu-fukuoka-福岡炸豬排定食文化-從天婦羅到明太子的九州配角哲學-cde701.html
 published: 2026-03-24
-quality_score: 6.5
+quality_score: 8.7
 tags: 福岡美食, 九州炸豬排, 博多吃喝, 定食文化, 九州料理
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: festivals-matsuri
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-festivals-matsuri-tokyo-東京祭典生活指南-體驗在地町內會的日常節慶文化-7fa74a.html
 published: 2026-06-18
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京祭典, 東京深度遊, 台東區, 淺草三社祭, 東京文化體驗
 license: CC BY 4.0
 ---

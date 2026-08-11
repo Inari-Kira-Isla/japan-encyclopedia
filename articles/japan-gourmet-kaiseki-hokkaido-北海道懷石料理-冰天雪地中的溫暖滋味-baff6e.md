@@ -6,7 +6,7 @@ category: kaiseki
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-kaiseki-hokkaido-北海道懷石料理-冰天雪地中的溫暖滋味-baff6e.html
 published: 2026-06-22
-quality_score: 6.5
+quality_score: 8.5
 tags: 北海道懷石, 日本料理, 溫泉旅宿, 美食推薦, 冬季旅行
 license: CC BY 4.0
 ---

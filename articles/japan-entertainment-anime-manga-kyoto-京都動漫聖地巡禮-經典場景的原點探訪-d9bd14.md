@@ -6,7 +6,7 @@ category: anime-manga
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-kyoto-京都動漫聖地巡禮-經典場景的原點探訪-d9bd14.html
 published: 2026-06-18
-quality_score: 6.5
+quality_score: 8.8
 tags: 京都動漫, 聖地巡禮, 動漫旅遊, 京都景點, 動漫取景地
 license: CC BY 4.0
 ---

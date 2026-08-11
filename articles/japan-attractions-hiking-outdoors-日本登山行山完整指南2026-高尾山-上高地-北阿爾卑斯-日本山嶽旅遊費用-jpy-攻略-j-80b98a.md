@@ -6,7 +6,7 @@ category: hiking-outdoors
 area: japan
 url: https://japan-encyclopedia.vercel.app/articles/japan-attractions-hiking-outdoors-日本登山行山完整指南2026-高尾山-上高地-北阿爾卑斯-日本山嶽旅遊費用-jpy-攻略-j-80b98a.html
 published: 2026-03-30
-quality_score: 7.1
+quality_score: 8.6
 tags: 日本登山, 高尾山, 上高地, 日本百名山, 日本山岳旅遊
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: department-stores
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-department-stores-hokkaido-北海道雪祭購物攻略-冬季限定紀念品與人氣商場完全指南-397bc5.html
 published: 2026-06-18
-quality_score: 7.5
+quality_score: 8.7
 tags: 北海道購物, 雪祭, 札幌, 小樽, 冬季限定
 license: CC BY 4.0
 ---

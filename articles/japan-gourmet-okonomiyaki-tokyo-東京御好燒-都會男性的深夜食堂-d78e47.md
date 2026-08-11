@@ -6,7 +6,7 @@ category: okonomiyaki
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-okonomiyaki-tokyo-東京御好燒-都會男性的深夜食堂-d78e47.html
 published: 2026-06-26
-quality_score: 6.5
+quality_score: 8.9
 tags: 東京美食, 御好燒, 東京美食推薦, 都會料理, 男性食堂
 license: CC BY 4.0
 ---

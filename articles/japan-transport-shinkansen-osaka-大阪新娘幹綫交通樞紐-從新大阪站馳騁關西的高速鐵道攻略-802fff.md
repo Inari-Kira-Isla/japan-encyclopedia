@@ -6,7 +6,7 @@ category: shinkansen
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-osaka-大阪新娘幹綫交通樞紐-從新大阪站馳騁關西的高速鐵道攻略-802fff.html
 published: 2026-05-22
-quality_score: 7.5
+quality_score: 8.7
 tags: 大阪交通, 新加坡幹綫, 新大阪站, 關西鐵道, 日本鐵道
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: fashion-harajuku
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-fashion-harajuku-nara-奈良町散步-古都小巷裡的文青選物店與潮流小舖-3be875.html
 published: 2026-05-21
-quality_score: 7.5
+quality_score: 8.8
 tags: 奈良, 選物店, 文青, 慢購物, 日本工藝
 license: CC BY 4.0
 ---

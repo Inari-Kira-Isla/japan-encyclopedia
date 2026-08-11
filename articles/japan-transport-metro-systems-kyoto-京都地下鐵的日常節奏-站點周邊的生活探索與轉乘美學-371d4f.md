@@ -6,7 +6,7 @@ category: metro-systems
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-kyoto-京都地下鐵的日常節奏-站點周邊的生活探索與轉乘美學-371d4f.html
 published: 2026-06-07
-quality_score: 7.5
+quality_score: 8.6
 tags: 京都地下鐵, 京都交通, 京都Metro, 烏丸線, 東西線
 license: CC BY 4.0
 ---

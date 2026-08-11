@@ -6,7 +6,7 @@ category: nightlife
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-kyoto-京都夜生活-站前食堂與深夜拉麵的溫暖地圖-bde70d.html
 published: 2026-06-20
-quality_score: 6.5
+quality_score: 8.7
 tags: 京都夜生活, 深夜食堂, 京都拉麵, 站前美食, 京都卡拉OK
 license: CC BY 4.0
 ---

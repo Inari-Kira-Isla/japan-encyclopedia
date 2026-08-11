@@ -6,7 +6,7 @@ category: gaming-arcades
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-gaming-arcades-osaka-大阪遊戲中心-關西街機與美食的跨界體驗-edb3e4.html
 published: 2026-06-11
-quality_score: 6.5
+quality_score: 8.6
 tags: 大阪遊戲中心, 大阪娛樂, 關西街機, 大阪美食, 大阪自由行
 license: CC BY 4.0
 ---

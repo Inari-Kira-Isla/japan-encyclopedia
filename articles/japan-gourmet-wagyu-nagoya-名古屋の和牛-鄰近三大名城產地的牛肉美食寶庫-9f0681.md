@@ -6,7 +6,7 @@ category: wagyu
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-wagyu-nagoya-名古屋の和牛-鄰近三大名城產地的牛肉美食寶庫-9f0681.html
 published: 2026-06-02
-quality_score: 6.5
+quality_score: 8.5
 tags: 名古屋, 和牛, 日本美食, 中部地方, 飛驒牛
 license: CC BY 4.0
 ---

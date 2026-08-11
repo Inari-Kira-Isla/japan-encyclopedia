@@ -6,7 +6,7 @@ category: electronics
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-electronics-osaka-大阪商務電器採購指南-差旅族的專業購物攻略-5740f8.html
 published: 2026-04-05
-quality_score: 7.5
+quality_score: 8.7
 tags: 大阪購物, 商務採購, 電器設備, 企業服務, 批發市場
 license: CC BY 4.0
 ---

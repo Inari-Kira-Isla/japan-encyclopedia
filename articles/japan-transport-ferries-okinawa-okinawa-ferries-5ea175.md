@@ -6,7 +6,7 @@ category: ferries
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-ferries-okinawa-okinawa-ferries-5ea175.html
 published: 2026-03-22
-quality_score: 6.5
+quality_score: 6.7
 tags: ferries, okinawa, japan
 license: CC BY 4.0
 ---

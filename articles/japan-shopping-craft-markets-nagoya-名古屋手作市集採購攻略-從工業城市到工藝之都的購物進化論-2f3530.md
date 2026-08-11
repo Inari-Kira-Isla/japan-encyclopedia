@@ -6,7 +6,7 @@ category: craft-markets
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-craft-markets-nagoya-名古屋手作市集採購攻略-從工業城市到工藝之都的購物進化論-2f3530.html
 published: 2026-06-15
-quality_score: 7.5
+quality_score: 8.5
 tags: nagoya, 手作市集, 名古屋購物, 中部地方, 工藝市集
 license: CC BY 4.0
 ---

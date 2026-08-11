@@ -6,7 +6,7 @@ category: buses
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-buses-kyoto-京都巴士指南-古都慢遊的完美交通密碼-19ccbf.html
 published: 2026-03-21
-quality_score: 7.5
+quality_score: 8.5
 tags: 京都交通, 日本巴士, 古都遊覽, 公共交通, 京都景點
 license: CC BY 4.0
 ---

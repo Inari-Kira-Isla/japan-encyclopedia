@@ -6,7 +6,7 @@ category: temple-stays
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-temple-stays-sendai-仙台宿坊四季物語-東北古剎的禪意時光-303bde.html
 published: 2026-06-27
-quality_score: 6.5
+quality_score: 8.6
 tags: 仙台宿坊, 東北禪修, 定義山, 鹽竈神社, 一泊二食
 license: CC BY 4.0
 ---

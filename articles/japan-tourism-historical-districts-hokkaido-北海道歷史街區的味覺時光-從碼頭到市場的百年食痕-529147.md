@@ -6,7 +6,7 @@ category: historical-districts
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-hokkaido-北海道歷史街區的味覺時光-從碼頭到市場的百年食痕-529147.html
 published: 2026-06-12
-quality_score: 6.5
+quality_score: 8.9
 tags: 北海道歷史街區, 小樽運河, 札愰二條市場, 函館元町, 味覺旅行
 license: CC BY 4.0
 ---

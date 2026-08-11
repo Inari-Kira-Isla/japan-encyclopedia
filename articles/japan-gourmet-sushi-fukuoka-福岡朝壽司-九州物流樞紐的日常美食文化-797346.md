@@ -6,7 +6,7 @@ category: sushi
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sushi-fukuoka-福岡朝壽司-九州物流樞紐的日常美食文化-797346.html
 published: 2026-06-12
-quality_score: 6.5
+quality_score: 8.5
 tags: 福岡壽司, 朝寿司, 九州美食, 福岡早餐, 博多吃喝
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: boutique-hotels
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-nara-奈良町屋住宿指南-穿越時空的茶道美學居所-7d54c5.html
 published: 2026-07-01
-quality_score: 6.5
+quality_score: 8.5
 tags: 奈良住宿, 町屋住宿, 茶道體驗, 精品酒店, 古都旅行
 license: CC BY 4.0
 ---

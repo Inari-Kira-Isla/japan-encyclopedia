@@ -6,7 +6,7 @@ category: gaming-arcades
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-gaming-arcades-nagoya-名古屋遊戲中心-豐田故鄉的科技娛樂進化論-2e5eb9.html
 published: 2026-06-04
-quality_score: 6.5
+quality_score: 8.7
 tags: Nagoya遊戲中心, 名古屋娛樂, 日本遊戲中心, 街機文化, 家庭娛樂
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: minshuku
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-tokyo-東京民宿完全指南-都會叢林中的微型棲所-b72a8a.html
 published: 2026-06-30
-quality_score: 6.5
+quality_score: 8.5
 tags: 東京民宿, 東京住宿, 墨田區, 台東區, 新宿區
 license: CC BY 4.0
 ---

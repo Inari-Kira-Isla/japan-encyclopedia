@@ -6,7 +6,7 @@ category: wagyu
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-wagyu-okinawa-沖繩琉和牛-亞熱帶島嶼的肉食浪漫-ff26a6.html
 published: 2026-06-30
-quality_score: 6.5
+quality_score: 8.6
 tags: 沖繩美食, 琉和牛, 日本和牛, 沖繩旅遊, 亞熱帶美食
 license: CC BY 4.0
 ---

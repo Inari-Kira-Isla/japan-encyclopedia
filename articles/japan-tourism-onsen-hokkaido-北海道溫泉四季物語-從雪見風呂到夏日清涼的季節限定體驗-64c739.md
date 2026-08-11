@@ -6,7 +6,7 @@ category: onsen
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-onsen-hokkaido-北海道溫泉四季物語-從雪見風呂到夏日清涼的季節限定體驗-64c739.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.5
 tags: 北海道, 溫泉, 季節體驗, 雪見風呂, 日本文化
 license: CC BY 4.0
 ---

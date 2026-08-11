@@ -6,7 +6,7 @@ category: izakaya
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-izakaya-kyoto-京都社群深處的日常酒食-當地人帶路的巷內居酒屋-3c8fa3.html
 published: 2026-05-21
-quality_score: 6.5
+quality_score: 8.9
 tags: 京都是一个城市,  Izakaya 是一个类型, 美食探索之旅
 license: CC BY 4.0
 ---

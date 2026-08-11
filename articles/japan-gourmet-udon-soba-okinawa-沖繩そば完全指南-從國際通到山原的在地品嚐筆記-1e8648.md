@@ -6,7 +6,7 @@ category: udon-soba
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-udon-soba-okinawa-沖繩そば完全指南-從國際通到山原的在地品嚐筆記-1e8648.html
 published: 2026-05-22
-quality_score: 6.5
+quality_score: 8.5
 tags: 沖繩美食,  Okinawa soba, 沖繩料理, 日本麵食, 九州沖繩
 license: CC BY 4.0
 ---

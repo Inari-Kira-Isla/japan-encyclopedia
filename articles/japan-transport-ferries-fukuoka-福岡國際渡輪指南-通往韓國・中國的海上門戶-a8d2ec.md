@@ -6,7 +6,7 @@ category: ferries
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-ferries-fukuoka-福岡國際渡輪指南-通往韓國・中國的海上門戶-a8d2ec.html
 published: 2026-06-04
-quality_score: 7.5
+quality_score: 8.3
 tags: 福岡國際渡輪, 福岡到釜山, 日本國際交通, 韓國自由行, 福岡觀光
 license: CC BY 4.0
 ---

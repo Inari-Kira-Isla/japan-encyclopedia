@@ -6,7 +6,7 @@ category: nature-trails
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-okinawa-沖繩山嶽秘境步道-深入熱帶島嶼的地質與生態奇觀-e64452.html
 published: 2026-06-24
-quality_score: 6.5
+quality_score: 8.7
 tags: 沖繩步道, 亞熱帶登山, 山原森林, 石灰岩地形, 日本自然探索
 license: CC BY 4.0
 ---

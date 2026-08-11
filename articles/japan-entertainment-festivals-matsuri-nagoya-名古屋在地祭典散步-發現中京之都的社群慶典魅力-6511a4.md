@@ -6,7 +6,7 @@ category: festivals-matsuri
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-festivals-matsuri-nagoya-名古屋在地祭典散步-發現中京之都的社群慶典魅力-6511a4.html
 published: 2026-06-14
-quality_score: 6.5
+quality_score: 8.5
 tags: 名古屋祭典, 社區祭典, 日本祭典, 名古屋旅遊, 中京文化
 license: CC BY 4.0
 ---

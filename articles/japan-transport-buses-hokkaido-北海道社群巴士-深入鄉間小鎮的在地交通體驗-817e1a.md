@@ -6,7 +6,7 @@ category: buses
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-buses-hokkaido-北海道社群巴士-深入鄉間小鎮的在地交通體驗-817e1a.html
 published: 2026-06-08
-quality_score: 7.5
+quality_score: 8.0
 tags: 北海道巴士, 社區交通, 鄉間小鎮, 農業體驗, 海產美食
 license: CC BY 4.0
 ---

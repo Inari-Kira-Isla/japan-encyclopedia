@@ -6,7 +6,7 @@ category: gaming-arcades
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-gaming-arcades-nagoya-名古屋遊戲中心-工業城市裡的街機密境-16f798.html
 published: 2026-06-17
-quality_score: 6.5
+quality_score: 8.7
 tags: 名古屋, 遊戲中心, 街機, 日本中部, 獎品遊戲
 license: CC BY 4.0
 ---

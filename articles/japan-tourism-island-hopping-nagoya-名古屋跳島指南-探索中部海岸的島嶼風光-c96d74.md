@@ -6,7 +6,7 @@ category: island-hopping
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-island-hopping-nagoya-名古屋跳島指南-探索中部海岸的島嶼風光-c96d74.html
 published: 2026-03-18
-quality_score: 6.5
+quality_score: 8.7
 tags: 名古屋, 跳島, 三重縣, 伊勢灣, 鳥羽
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: matcha-sweets
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-matcha-sweets-kobe-神戶抹茶甜點-北野異人館街區的茶香散步-ef863c.html
 published: 2026-06-17
-quality_score: 6.5
+quality_score: 8.7
 tags: 神戶抹茶, 北野異人館, 神戶甜點, 抹茶散步, 關西美食
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: metro-systems
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-nagoya-名古屋地下鐵美食探索-搭地鐵吃遍名古屋必吃特產-5e6c44.html
 published: 2026-06-12
-quality_score: 7.5
+quality_score: 8.9
 tags: 名古屋地下鐵, 名古屋美食, 名古屋特產, 鰻魚飯三吃, 味噌烏龍麵
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: buses
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-buses-kyoto-京都巴士深度攻略-從京都車站出發-五條以北路線進階玩法-8ec948.html
 published: 2026-06-05
-quality_score: 7.5
+quality_score: 8.2
 tags: 京都巴士, 京都交通, 市營巴士一日券, 京都自由行, 五条坂
 license: CC BY 4.0
 ---

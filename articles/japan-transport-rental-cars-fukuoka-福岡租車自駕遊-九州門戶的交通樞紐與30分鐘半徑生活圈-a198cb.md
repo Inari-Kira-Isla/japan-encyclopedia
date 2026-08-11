@@ -6,7 +6,7 @@ category: rental-cars
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-fukuoka-福岡租車自駕遊-九州門戶的交通樞紐與30分鐘半徑生活圈-a198cb.html
 published: 2026-06-17
-quality_score: 7.5
+quality_score: 8.7
 tags: 福岡租車, 九州自駕, 福岡機場租車, 九州縱貫自動行道, 博多租車
 license: CC BY 4.0
 ---

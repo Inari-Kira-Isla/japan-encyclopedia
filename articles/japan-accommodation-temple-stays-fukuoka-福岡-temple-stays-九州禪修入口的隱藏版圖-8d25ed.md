@@ -6,7 +6,7 @@ category: temple-stays
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-temple-stays-fukuoka-福岡-temple-stays-九州禪修入口的隱藏版圖-8d25ed.html
 published: 2026-06-11
-quality_score: 6.5
+quality_score: 8.5
 tags: 九州寺院住宿, 福岡旅遊, 禪修體驗, 九州自由行, 博多
 license: CC BY 4.0
 ---

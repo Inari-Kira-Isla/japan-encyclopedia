@@ -6,7 +6,7 @@ category: ryokan
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-kyoto-京都料亭旅宿-從晚餐開始的極致和式待客之道-e05f92.html
 published: 2026-06-06
-quality_score: 6.5
+quality_score: 8.6
 tags: 京都, Ryokan, 京料理, 一泊二食, 嵐山
 license: CC BY 4.0
 ---

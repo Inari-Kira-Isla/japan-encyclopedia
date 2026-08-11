@@ -6,7 +6,7 @@ category: metro-systems
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-nagoya-名古屋地下鐵親子遊完全指南-帶孩子的家族旅行攻略-73b842.html
 published: 2026-06-12
-quality_score: 7.5
+quality_score: 8.6
 tags: 名古屋地下鐵, 親子旅遊, 家庭旅行, 中部國際機場, 名古屋交通
 license: CC BY 4.0
 ---

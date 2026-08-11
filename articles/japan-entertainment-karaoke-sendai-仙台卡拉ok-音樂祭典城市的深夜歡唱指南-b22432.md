@@ -6,7 +6,7 @@ category: karaoke
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-karaoke-sendai-仙台卡拉ok-音樂祭典城市的深夜歡唱指南-b22432.html
 published: 2026-07-01
-quality_score: 6.5
+quality_score: 8.8
 tags: 仙台卡拉OK, 東北娛樂, 日本卡拉OK, 仙台夜生活, 國分町
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: kaiseki
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-kaiseki-okinawa-沖繩懷石料理-琉球宮廷味與島嶼食材的fine-dining體驗-4968b4.html
 published: 2026-04-07
-quality_score: 6.5
+quality_score: 8.7
 tags: 沖繩美食, 懷石料理, 琉琦料理, 日本Fine Dining, 沖繩旅遊
 license: CC BY 4.0
 ---

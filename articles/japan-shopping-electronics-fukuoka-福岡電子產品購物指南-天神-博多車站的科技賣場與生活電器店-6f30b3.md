@@ -6,7 +6,7 @@ category: electronics
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-electronics-fukuoka-福岡電子產品購物指南-天神-博多車站的科技賣場與生活電器店-6f30b3.html
 published: 2026-06-01
-quality_score: 7.5
+quality_score: 8.8
 tags: 福岡電子產品, 天神電器行, 博多車站, 購物指南, 九州旅行
 license: CC BY 4.0
 ---

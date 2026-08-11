@@ -6,7 +6,7 @@ category: gaming-arcades
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-gaming-arcades-nagoya-名古屋榮地區遊戲中心-地下街與車站周邊的街機樂園-b80061.html
 published: 2026-06-06
-quality_score: 6.5
+quality_score: 8.6
 tags: 名古屋遊戲中心, 名古屋榮, 日本街機, 名古屋地下街, 獎品遊戲
 license: CC BY 4.0
 ---

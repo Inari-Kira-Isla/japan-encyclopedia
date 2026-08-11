@@ -6,7 +6,7 @@ category: street-food
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-street-food-kanazawa-金澤-菜的市場-與週日午後的在地味-不是觀光區的巷弄食光-de7028.html
 published: 2026-06-29
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤, 街頭美食, 石川縣, 能的半島, 加賀蔬菜
 license: CC BY 4.0
 ---

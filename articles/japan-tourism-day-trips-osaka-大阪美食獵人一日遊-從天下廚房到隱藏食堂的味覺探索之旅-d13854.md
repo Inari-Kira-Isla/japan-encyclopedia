@@ -6,7 +6,7 @@ category: day-trips
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-osaka-大阪美食獵人一日遊-從天下廚房到隱藏食堂的味覺探索之旅-d13854.html
 published: 2026-04-06
-quality_score: 6.5
+quality_score: 8.8
 tags: 大阪美食, 關西一日遊, 隱藏美食, 傳統料理, 周邊探索
 license: CC BY 4.0
 ---

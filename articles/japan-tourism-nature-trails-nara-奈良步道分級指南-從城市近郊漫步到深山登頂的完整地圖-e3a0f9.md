@@ -6,7 +6,7 @@ category: nature-trails
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-nara-奈良步道分級指南-從城市近郊漫步到深山登頂的完整地圖-e3a0f9.html
 published: 2026-03-24
-quality_score: 6.5
+quality_score: 8.8
 tags: 奈良, 登山步道, 四季旅遊, 日本自然, 難度分級
 license: CC BY 4.0
 ---

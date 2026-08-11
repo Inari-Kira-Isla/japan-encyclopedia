@@ -6,7 +6,7 @@ category: metro-systems
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-tokyo-東京地鐵系統實用指南-從購票到出站的全流程攻略-c12691.html
 published: 2026-06-05
-quality_score: 7.5
+quality_score: 8.5
 tags: 東京地鐵, 東京Metro, 都營地下鐵, 日本交通, 東京自由行
 license: CC BY 4.0
 ---

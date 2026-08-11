@@ -6,7 +6,7 @@ category: souvenir-omiyage
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-souvenir-omiyage-tokyo-東京伴手禮-心意經濟學-根據送禮物件挑選伴手禮的在地攻略-cf3dfd.html
 published: 2026-06-18
-quality_score: 7.5
+quality_score: 8.5
 tags: 東京伴手禮, 購物攻略, 日本自由行, 伴手禮推薦, 東京購物
 license: CC BY 4.0
 ---

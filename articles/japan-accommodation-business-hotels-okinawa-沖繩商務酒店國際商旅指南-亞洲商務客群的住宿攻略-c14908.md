@@ -6,7 +6,7 @@ category: business-hotels
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-business-hotels-okinawa-沖繩商務酒店國際商旅指南-亞洲商務客群的住宿攻略-c14908.html
 published: 2026-03-26
-quality_score: 6.5
+quality_score: 8.8
 tags: 沖繩住宿, 商務酒店, 國際商旅, MICE產業, 亞洲商務客
 license: CC BY 4.0
 ---

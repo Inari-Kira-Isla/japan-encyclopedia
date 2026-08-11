@@ -6,7 +6,7 @@ category: cycling
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-okinawa-沖繩單車漫遊-海岸線與叢林交織的島嶼騎行攻略-54cf0b.html
 published: 2026-07-05
-quality_score: 7.5
+quality_score: 8.7
 tags: 沖繩單車, 沖繩自由行, 沖繩戶外活動, 島嶼騎行, 日本單車旅遊
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: minshuku
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-okinawa-沖繩民宿晨間體驗-日出-沙灘與島嶼甦醒的溫柔時刻-f6779b.html
 published: 2026-06-08
-quality_score: 6.5
+quality_score: 8.4
 tags: 沖繩民宿, minshuku, 清晨體驗, 日出, 外島住宿
 license: CC BY 4.0
 ---

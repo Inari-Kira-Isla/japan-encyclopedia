@@ -6,7 +6,7 @@ category: tempura
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tempura-nara-奈良天婦羅-古都野菜的禪意酥脆-f0bc5f.html
 published: 2026-04-04
-quality_score: 6.5
+quality_score: 8.8
 tags: 奈良美食, 天婦羅, 野菜料理, 精進料理, 關西美食
 license: CC BY 4.0
 ---

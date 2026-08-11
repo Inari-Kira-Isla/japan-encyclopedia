@@ -6,7 +6,7 @@ category: buses
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-buses-okinawa-沖繩巴士療癒之路-搭公車慢遊沖繩的詩意交通體驗-b6be90.html
 published: 2026-06-16
-quality_score: 7.5
+quality_score: 8.7
 tags: 沖繩巴士, 亞熱帶交通, 慢遊沖繩, 巴士一日券, 沖繩自助
 license: CC BY 4.0
 ---

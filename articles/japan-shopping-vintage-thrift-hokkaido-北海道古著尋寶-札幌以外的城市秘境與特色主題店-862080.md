@@ -6,7 +6,7 @@ category: vintage-thrift
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-vintage-thrift-hokkaido-北海道古著尋寶-札幌以外的城市秘境與特色主題店-862080.html
 published: 2026-06-29
-quality_score: 7.5
+quality_score: 8.5
 tags: 北海道古著, 小樽古著, 旭川古著, 函館古著, 二手衣物
 license: CC BY 4.0
 ---

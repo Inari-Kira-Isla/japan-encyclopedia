@@ -6,7 +6,7 @@ category: fashion-harajuku
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-fashion-harajuku-hokkaido-北海道年輕人時尚購物指南-札幌潮流聖地巡禮-f1d3a7.html
 published: 2026-06-30
-quality_score: 7.5
+quality_score: 8.9
 tags: 北海道購物, 札幌時尚, 年輕人潮流, 狸小路, 日本購物指南
 license: CC BY 4.0
 ---

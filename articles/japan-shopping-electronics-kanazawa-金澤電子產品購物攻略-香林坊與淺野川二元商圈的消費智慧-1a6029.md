@@ -6,7 +6,7 @@ category: electronics
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-electronics-kanazawa-金澤電子產品購物攻略-香林坊與淺野川二元商圈的消費智慧-1a6029.html
 published: 2026-06-21
-quality_score: 7.5
+quality_score: 8.6
 tags: 金澤電子產品, 香林坊商圈, 淺野川商圈, 石川縣購物, 日本海側電子產品
 license: CC BY 4.0
 ---

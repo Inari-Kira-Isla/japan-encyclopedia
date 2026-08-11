@@ -6,7 +6,7 @@ category: love-hotels
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-love-hotels-okinawa-沖繩情侶住宿指南-特色戀人旅宿精選推薦-ffca07.html
 published: 2026-06-21
-quality_score: 6.5
+quality_score: 8.7
 tags: 沖繩住宿, 情侶旅宿, 恩納村, 那霸市區, 戀人酒店
 license: CC BY 4.0
 ---

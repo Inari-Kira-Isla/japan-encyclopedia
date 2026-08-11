@@ -6,7 +6,7 @@ category: nightlife
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-hokkaido-北海道冬夜狂歡指南-雪國限定的深夜魅力-892fb0.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.8
 tags: 北海道夜生活, 冬季限定, 溫泉, 海鮮夜市, 雪國文化
 license: CC BY 4.0
 ---

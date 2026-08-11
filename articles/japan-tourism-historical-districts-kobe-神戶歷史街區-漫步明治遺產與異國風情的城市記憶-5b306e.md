@@ -6,7 +6,7 @@ category: historical-districts
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-kobe-神戶歷史街區-漫步明治遺產與異國風情的城市記憶-5b306e.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 8.7
 tags: 神戶, 歷史街區, 南京町, 北野異人館, 元町
 license: CC BY 4.0
 ---

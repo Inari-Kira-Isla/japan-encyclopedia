@@ -6,7 +6,7 @@ category: matcha-sweets
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-matcha-sweets-nagoya-名古屋抹茶甜點-名古屋城下的茶香散步-歷史與綠意的相遇-40db91.html
 published: 2026-06-07
-quality_score: 6.5
+quality_score: 8.6
 tags: 名古屋, 抹茶甜點, 名古屋城, 日本中部, 名古屋美食
 license: CC BY 4.0
 ---

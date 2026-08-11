@@ -6,7 +6,7 @@ category: love-hotels
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-love-hotels-osaka-大阪love-hotels-約會行程規劃指南與區域住宿選擇-552968.html
 published: 2026-06-15
-quality_score: 6.5
+quality_score: 8.4
 tags: 大阪约会, 大阪住宿, 大阪情侶飯店, 難波住宿, 心齋橋住宿
 license: CC BY 4.0
 ---

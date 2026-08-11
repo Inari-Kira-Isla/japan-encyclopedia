@@ -6,7 +6,7 @@ category: anime-manga
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-hiroshima-廣島動漫漫畫創作生態-藝術家眼中的平和與創意之城-c3b402.html
 published: 2026-05-24
-quality_score: 6.5
+quality_score: 8.8
 tags: 廣島動漫, 廣島漫畫, 和平漫畫, 獨立漫畫家, 創作工作室
 license: CC BY 4.0
 ---

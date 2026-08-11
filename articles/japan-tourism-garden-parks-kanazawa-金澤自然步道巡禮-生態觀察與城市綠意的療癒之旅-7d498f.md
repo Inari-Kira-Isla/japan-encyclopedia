@@ -6,7 +6,7 @@ category: garden-parks
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-kanazawa-金澤自然步道巡禮-生態觀察與城市綠意的療癒之旅-7d498f.html
 published: 2026-06-30
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤, 自然步道, 生態旅遊, 石川縣, 日本海
 license: CC BY 4.0
 ---

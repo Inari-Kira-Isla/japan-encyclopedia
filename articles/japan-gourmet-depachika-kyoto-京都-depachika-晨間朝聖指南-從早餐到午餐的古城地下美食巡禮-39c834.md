@@ -6,7 +6,7 @@ category: depachika
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-depachika-kyoto-京都-depachika-晨間朝聖指南-從早餐到午餐的古城地下美食巡禮-39c834.html
 published: 2026-06-06
-quality_score: 6.5
+quality_score: 8.9
 tags: 京都, Depachika, 地下食品, 朝食, 京野菜
 license: CC BY 4.0
 ---

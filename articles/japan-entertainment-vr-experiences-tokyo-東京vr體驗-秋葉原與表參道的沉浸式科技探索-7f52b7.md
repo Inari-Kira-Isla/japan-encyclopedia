@@ -6,7 +6,7 @@ category: vr-experiences
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-vr-experiences-tokyo-東京vr體驗-秋葉原與表參道的沉浸式科技探索-7f52b7.html
 published: 2026-06-23
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京VR體驗, 秋葉原VR, 澀谷VR, teamLab, 台場VR
 license: CC BY 4.0
 ---

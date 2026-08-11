@@ -6,7 +6,7 @@ category: nightlife
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-tokyo-東京夜生活-地下音樂與巷弄-live-bar-的城市脈動-859266.html
 published: 2026-06-22
-quality_score: 5.5
+quality_score: 7.8
 tags: 東京夜生活, Live Bar, 地下音樂, 下北澤, Jazz
 license: CC BY 4.0
 ---

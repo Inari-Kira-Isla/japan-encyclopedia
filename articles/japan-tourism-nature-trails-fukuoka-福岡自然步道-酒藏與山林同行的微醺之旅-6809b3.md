@@ -6,7 +6,7 @@ category: nature-trails
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-fukuoka-福岡自然步道-酒藏與山林同行的微醺之旅-6809b3.html
 published: 2026-06-02
-quality_score: 6.5
+quality_score: 8.7
 tags: 福岡自然步道, 九州登山, 酒藏参观, 森林浴, 亲子步道
 license: CC BY 4.0
 ---

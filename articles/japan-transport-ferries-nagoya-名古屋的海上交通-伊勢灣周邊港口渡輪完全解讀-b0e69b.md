@@ -6,7 +6,7 @@ category: ferries
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-ferries-nagoya-名古屋的海上交通-伊勢灣周邊港口渡輪完全解讀-b0e69b.html
 published: 2026-06-04
-quality_score: 7.5
+quality_score: 8.5
 tags: 名古屋, 伊勢灣, 海上交通, 鳥羽, 三重縣
 license: CC BY 4.0
 ---

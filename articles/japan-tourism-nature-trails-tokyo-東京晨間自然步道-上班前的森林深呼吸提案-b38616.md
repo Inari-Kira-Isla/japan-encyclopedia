@@ -6,7 +6,7 @@ category: nature-trails
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-tokyo-東京晨間自然步道-上班前的森林深呼吸提案-b38616.html
 published: 2026-06-27
-quality_score: 6.5
+quality_score: 8.6
 tags: 東京自然步道, 晨間健行, 都市綠洲, 森林浴, 東京近郊
 license: CC BY 4.0
 ---

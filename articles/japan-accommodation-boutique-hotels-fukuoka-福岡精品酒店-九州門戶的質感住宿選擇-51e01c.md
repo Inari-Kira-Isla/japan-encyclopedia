@@ -6,7 +6,7 @@ category: boutique-hotels
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-fukuoka-福岡精品酒店-九州門戶的質感住宿選擇-51e01c.html
 published: 2026-06-04
-quality_score: 6.5
+quality_score: 8.7
 tags: 福岡, 精品酒店, 九州, 住宿推薦,  Boutia','Design Hotel
 license: CC BY 4.0
 ---

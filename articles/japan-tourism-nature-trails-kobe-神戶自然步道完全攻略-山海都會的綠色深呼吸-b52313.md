@@ -6,7 +6,7 @@ category: nature-trails
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-kobe-神戶自然步道完全攻略-山海都會的綠色深呼吸-b52313.html
 published: 2026-06-30
-quality_score: 6.5
+quality_score: 8.7
 tags: 神戶自然步道, 六甲山, 有馬溫泉, 關西健行, 神戶登山
 license: CC BY 4.0
 ---

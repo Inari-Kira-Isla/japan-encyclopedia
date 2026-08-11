@@ -6,7 +6,7 @@ category: day-trips
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-okinawa-沖繩離島跳躍一日遊-探索琉球群島的隱藏寶石-74841a.html
 published: 2026-04-07
-quality_score: 6.5
+quality_score: 8.7
 tags: 沖繩離島, 跳島旅遊, 慶良間諸島, 琉球文化, 生態旅遊
 license: CC BY 4.0
 ---

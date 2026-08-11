@@ -6,7 +6,7 @@ category: street-food
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-street-food-kyoto-京都早市的庶民朝食-開店前一小時的巷弄味覺-5c7af6.html
 published: 2026-05-25
-quality_score: 6.5
+quality_score: 8.5
 tags: 京都早餐, 京都早市, 庶民美食, 京都自由行, 深度旅遊
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: izakaya
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-izakaya-osaka-大阪居酒屋的下町風情-天王寺-新世界周邊的巷弄酒場-de4b8f.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 8.8
 tags: 大阪居酒屋, 下町美食, 天王寺, 新世界, 关西小众旅行
 license: CC BY 4.0
 ---

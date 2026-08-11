@@ -6,7 +6,7 @@ category: metro-systems
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-kobe-神戶地下鐵的實用通勤邏輯-本地人帶路的高效移動指南-6e4731.html
 published: 2026-06-22
-quality_score: 7.5
+quality_score: 8.6
 tags: 神戶地下鐵, 神戶交通, 神戶Metro, 西神山手線, 神戶一日券
 license: CC BY 4.0
 ---

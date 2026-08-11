@@ -6,7 +6,7 @@ category: jr-pass
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-jr-pass-okinawa-okinawa-jr-pass-918b8d-1774351644.html
 published: 2026-03-24
-quality_score: 6.5
+quality_score: 6.7
 tags: jr-pass, okinawa, japan
 license: CC BY 4.0
 ---

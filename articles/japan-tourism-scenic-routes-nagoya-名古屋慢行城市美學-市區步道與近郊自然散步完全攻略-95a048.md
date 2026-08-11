@@ -6,7 +6,7 @@ category: scenic-routes
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-nagoya-名古屋慢行城市美學-市區步道與近郊自然散步完全攻略-95a048.html
 published: 2026-06-06
-quality_score: 6.5
+quality_score: 8.7
 tags: 名古屋步道, 名古屋散步, 日本中部旅遊, 自然風光, 歷史古蹟
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: theme-parks
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-theme-parks-kanazawa-金澤遊戲中心探索-隱藏在巷弄裡的日式遊樂場-00eade.html
 published: 2026-07-02
-quality_score: 6.5
+quality_score: 8.9
 tags: 金澤主題樂園, 日本遊戲中心, 金澤娛樂, 金澤自由行, 加賀百萬石
 license: CC BY 4.0
 ---

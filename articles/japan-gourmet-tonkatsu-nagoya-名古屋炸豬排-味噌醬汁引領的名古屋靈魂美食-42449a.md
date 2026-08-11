@@ -6,7 +6,7 @@ category: tonkatsu
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tonkatsu-nagoya-名古屋炸豬排-味噌醬汁引領的名古屋靈魂美食-42449a.html
 published: 2026-06-03
-quality_score: 6.5
+quality_score: 8.7
 tags: 名古屋美食, 味噌炸豬排, 名古屋めし, 名古屋必吃, 日式洋食
 license: CC BY 4.0
 ---

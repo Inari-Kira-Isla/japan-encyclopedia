@@ -6,7 +6,7 @@ category: island-hopping
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-island-hopping-nagoya-名古屋島嶼巡遊-漁業文化與現代港都的交織旅程-0a3ecc.html
 published: 2026-04-06
-quality_score: 6.5
+quality_score: 8.7
 tags: 名古屋, 跳島旅遊, 伊勢灣, 漁村文化, 海女
 license: CC BY 4.0
 ---

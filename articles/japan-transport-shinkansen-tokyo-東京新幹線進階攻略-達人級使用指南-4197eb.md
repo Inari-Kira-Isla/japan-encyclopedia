@@ -6,7 +6,7 @@ category: shinkansen
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-tokyo-東京新幹線進階攻略-達人級使用指南-4197eb.html
 published: 2026-04-05
-quality_score: 7.5
+quality_score: 8.6
 tags: 東京新幹線, 日本交通, 高速鐵路, 旅遊攻略, 交通樞紐
 license: CC BY 4.0
 ---

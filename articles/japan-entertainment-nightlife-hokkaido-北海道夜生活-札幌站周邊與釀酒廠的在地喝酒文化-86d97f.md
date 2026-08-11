@@ -6,7 +6,7 @@ category: nightlife
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-hokkaido-北海道夜生活-札幌站周邊與釀酒廠的在地喝酒文化-86d97f.html
 published: 2026-07-04
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道夜生活, 札幌站周邊, 円山小酒吧, 在地釀酒, 成吉思汗羊肉
 license: CC BY 4.0
 ---

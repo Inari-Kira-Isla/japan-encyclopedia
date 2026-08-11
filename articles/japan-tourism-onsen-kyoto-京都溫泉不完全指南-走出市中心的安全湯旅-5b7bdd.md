@@ -6,7 +6,7 @@ category: onsen
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-onsen-kyoto-京都溫泉不完全指南-走出市中心的安全湯旅-5b7bdd.html
 published: 2026-05-31
-quality_score: 6.5
+quality_score: 8.6
 tags: 京都溫泉, 關西溫泉, 城崎溫泉, 天橋立溫泉, 湯の峰溫泉
 license: CC BY 4.0
 ---

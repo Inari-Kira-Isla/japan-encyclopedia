@@ -6,7 +6,7 @@ category: buses
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-buses-fukuoka-福岡巴士生活提案-搭公車深度漫遊九州的人文風景-280a02.html
 published: 2026-06-09
-quality_score: 7.5
+quality_score: 8.6
 tags: 福岡巴士, 九州交通, 太宰府, 湯布院, 門司港
 license: CC BY 4.0
 ---

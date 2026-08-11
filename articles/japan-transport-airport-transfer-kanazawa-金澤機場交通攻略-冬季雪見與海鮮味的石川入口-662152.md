@@ -6,7 +6,7 @@ category: airport-transfer
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-airport-transfer-kanazawa-金澤機場交通攻略-冬季雪見與海鮮味的石川入口-662152.html
 published: 2026-06-12
-quality_score: 7.5
+quality_score: 8.6
 tags: 金澤機場, 小松機場, 石川縣, 機場交通, 冬季旅遊
 license: CC BY 4.0
 ---

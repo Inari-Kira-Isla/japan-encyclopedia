@@ -6,7 +6,7 @@ category: izakaya
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-izakaya-hokkaido-札幌巷弄酒場-地元が教える住宅區居酒屋探險-地味で美味しい在地飲み-38ea24.html
 published: 2026-06-30
-quality_score: 6.5
+quality_score: 8.6
 tags: 札幌居酒屋, 北海道美食, 地元推薦, 住宅區酒場, 成吉思汗羊肉
 license: CC BY 4.0
 ---

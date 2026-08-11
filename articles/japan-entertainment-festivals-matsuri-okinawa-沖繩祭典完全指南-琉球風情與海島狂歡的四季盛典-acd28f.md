@@ -6,7 +6,7 @@ category: festivals-matsuri
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-festivals-matsuri-okinawa-沖繩祭典完全指南-琉球風情與海島狂歡的四季盛典-acd28f.html
 published: 2026-03-21
-quality_score: 6.5
+quality_score: 8.8
 tags: 沖繩, 祭典, 琉球文化, 夏季活動, 日本傳統
 license: CC BY 4.0
 ---

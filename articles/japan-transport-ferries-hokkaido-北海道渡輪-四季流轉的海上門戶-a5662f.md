@@ -6,7 +6,7 @@ category: ferries
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-ferries-hokkaido-北海道渡輪-四季流轉的海上門戶-a5662f.html
 published: 2026-03-28
-quality_score: 7.5
+quality_score: 8.5
 tags: 北海道交通, 渡輪體驗, 季節旅遊, 海上觀光, 日本海域
 license: CC BY 4.0
 ---

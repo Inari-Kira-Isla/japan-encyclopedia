@@ -6,7 +6,7 @@ category: nature-trails
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-sendai-仙台輕健行完全攻略-從市區出發的半日山林深呼吸-24ba45.html
 published: 2026-07-03
-quality_score: 6.5
+quality_score: 8.6
 tags: 仙台, 自然步道, 輕健行, 日本東北, 郊山
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: ramen
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-ramen-kanazawa-金澤拉麵-評鑑師視角下的北陸供應鏈優勢-c1e1d0.html
 published: 2026-03-29
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤美食, 北陸拉麵, 日本海食材, 供應鏈, 美食評鑑
 license: CC BY 4.0
 ---

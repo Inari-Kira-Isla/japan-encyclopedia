@@ -6,7 +6,7 @@ category: wagyu
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-wagyu-hokkaido-北海道和牛選購完全指南-產地-等級與在地通路一次解答-4bd068.html
 published: 2026-05-23
-quality_score: 6.5
+quality_score: 8.4
 tags: 北海道和牛, 帶廣, 十勝, 日本美食, 和牛選購
 license: CC BY 4.0
 ---

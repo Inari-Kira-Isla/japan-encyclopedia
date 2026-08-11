@@ -6,7 +6,7 @@ category: garden-parks
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-osaka-大阪晨間花園-城市甦醒時的綠意散步-7e6395.html
 published: 2026-06-15
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪花園, 晨間散步, 城市綠洲, 大阪公園, 關西旅遊
 license: CC BY 4.0
 ---

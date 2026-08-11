@@ -6,7 +6,7 @@ category: historical-districts
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-kobe-神戶歷史街區-港都的晨昏物語與生活日常-63258f.html
 published: 2026-07-04
-quality_score: 6.5
+quality_score: 8.6
 tags: 神戶, 歷史街區, 北野異人館, 南京町, 元町
 license: CC BY 4.0
 ---

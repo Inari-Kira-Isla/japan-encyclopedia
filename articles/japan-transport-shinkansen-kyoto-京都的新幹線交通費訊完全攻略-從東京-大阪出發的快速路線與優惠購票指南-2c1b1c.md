@@ -6,7 +6,7 @@ category: shinkansen
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-kyoto-京都的新幹線交通費訊完全攻略-從東京-大阪出發的快速路線與優惠購票指南-2c1b1c.html
 published: 2026-06-01
-quality_score: 7.5
+quality_score: 8.7
 tags: Shinkansen, 京都交通, 關西旅遊, 日本鐵道, 東京到京都
 license: CC BY 4.0
 ---

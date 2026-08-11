@@ -6,7 +6,7 @@ category: love-hotels
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-love-hotels-okinawa-沖繩-love-hotels-建築美學與設計型住宿推薦-39f4fe.html
 published: 2026-05-31
-quality_score: 6.5
+quality_score: 8.9
 tags: 沖繩住宿, 設計型Love Hotel, 琉球建築, 情侶約會, 亞熱帶住宿
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: karaoke
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-karaoke-tokyo-東京卡拉ok-音樂與都市節奏的深夜對話-7a90b3.html
 published: 2026-06-08
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京卡拉OK, 日本娛樂, 東京夜生活, 秋葉原卡拉OK, 新宿卡拉OK
 license: CC BY 4.0
 ---

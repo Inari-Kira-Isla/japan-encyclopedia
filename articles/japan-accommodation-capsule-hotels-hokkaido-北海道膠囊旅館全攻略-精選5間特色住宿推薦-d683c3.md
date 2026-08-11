@@ -6,7 +6,7 @@ category: capsule-hotels
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-capsule-hotels-hokkaido-北海道膠囊旅館全攻略-精選5間特色住宿推薦-d683c3.html
 published: 2026-03-16
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道膠囊旅館, 札幌住宿, 日本膠囊旅館, 北海道自助旅行, 札幌便宜住宿
 license: CC BY 4.0
 ---

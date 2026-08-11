@@ -6,7 +6,7 @@ category: fashion-harajuku
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-fashion-harajuku-hiroshima-廣島年輕時尚散步-從紙屋町到八丁堀的街頭潮流-2104dc.html
 published: 2026-06-06
-quality_score: 7.5
+quality_score: 8.7
 tags: 廣島購物, 日本年輕時尚, 八丁堀, 紙屋町地下街, 廣島本通
 license: CC BY 4.0
 ---

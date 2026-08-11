@@ -6,7 +6,7 @@ category: cycling
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-kanazawa-金澤單車慢旅-穿越江戶古鎮的生活系騎行-b63083.html
 published: 2026-06-02
-quality_score: 7.5
+quality_score: 8.9
 tags: 金澤單車, 石川縣旅遊, 古鎮漫騎, 日本深度遊
 license: CC BY 4.0
 ---

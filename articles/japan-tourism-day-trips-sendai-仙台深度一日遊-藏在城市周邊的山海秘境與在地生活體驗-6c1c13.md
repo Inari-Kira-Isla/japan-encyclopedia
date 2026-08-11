@@ -6,7 +6,7 @@ category: day-trips
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-sendai-仙台深度一日遊-藏在城市周邊的山海秘境與在地生活體驗-6c1c13.html
 published: 2026-05-22
-quality_score: 6.5
+quality_score: 8.6
 tags: 仙台一日遊, 日本東北深度旅遊, 隱藏景點, 自駕推薦, 在地體驗
 license: CC BY 4.0
 ---

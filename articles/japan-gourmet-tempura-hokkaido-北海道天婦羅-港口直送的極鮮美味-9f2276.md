@@ -6,7 +6,7 @@ category: tempura
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tempura-hokkaido-北海道天婦羅-港口直送的極鮮美味-9f2276.html
 published: 2026-06-23
-quality_score: 6.5
+quality_score: 8.8
 tags: 北海道天婦羅, 北海食材, 港口美食, 海鮮定食, 日本東北料理
 license: CC BY 4.0
 ---

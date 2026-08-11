@@ -6,7 +6,7 @@ category: minshuku
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-hokkaido-北海道民宿完全指南-火山湖泊與酪農田園的極北之境-0d1b47.html
 published: 2026-06-22
-quality_score: 6.5
+quality_score: 8.8
 tags: 北海道民宿, 弟子屈, 摩周湖, 酪農業, 火山溫泉
 license: CC BY 4.0
 ---

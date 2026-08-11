@@ -6,7 +6,7 @@ category: metro-systems
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-kyoto-京都地下鐵省錢攻略-第一次遊京都的交通精算師指南-e0d457.html
 published: 2026-06-23
-quality_score: 7.5
+quality_score: 8.7
 tags: 京都地下鐵, 京都交通, 京都自由行, 關西自助, 預算旅遊
 license: CC BY 4.0
 ---

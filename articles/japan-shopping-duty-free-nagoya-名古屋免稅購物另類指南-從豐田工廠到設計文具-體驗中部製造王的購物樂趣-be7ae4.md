@@ -6,7 +6,7 @@ category: duty-free
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-duty-free-nagoya-名古屋免稅購物另類指南-從豐田工廠到設計文具-體驗中部製造王的購物樂趣-be7ae4.html
 published: 2026-06-20
-quality_score: 7.5
+quality_score: 8.6
 tags: 名古屋免稅, 中部國際空港, 日本購物, 名古屋旅遊, 免稅攻略
 license: CC BY 4.0
 ---

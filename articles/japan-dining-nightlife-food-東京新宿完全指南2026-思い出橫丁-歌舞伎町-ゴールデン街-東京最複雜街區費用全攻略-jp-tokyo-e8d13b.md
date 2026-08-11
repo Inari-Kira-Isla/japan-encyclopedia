@@ -6,7 +6,7 @@ category: nightlife-food
 area: japan
 url: https://japan-encyclopedia.vercel.app/articles/japan-dining-nightlife-food-東京新宿完全指南2026-思い出橫丁-歌舞伎町-ゴールデン街-東京最複雜街區費用全攻略-jp-tokyo-e8d13b.html
 published: 2026-04-28
-quality_score: 7.6
+quality_score: 8.5
 tags: 新宿, 思い出横丁, ゴールデン街, 歌舞伎町, 東京夜生活
 license: CC BY 4.0
 ---

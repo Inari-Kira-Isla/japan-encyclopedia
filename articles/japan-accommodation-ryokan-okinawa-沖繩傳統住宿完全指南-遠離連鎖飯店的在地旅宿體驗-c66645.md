@@ -6,7 +6,7 @@ category: ryokan
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-okinawa-沖繩傳統住宿完全指南-遠離連鎖飯店的在地旅宿體驗-c66645.html
 published: 2026-06-19
-quality_score: 6.5
+quality_score: 8.5
 tags: 沖繩住宿, 傳統民宿, Ryokan, 琉球文化, 石垣島
 license: CC BY 4.0
 ---

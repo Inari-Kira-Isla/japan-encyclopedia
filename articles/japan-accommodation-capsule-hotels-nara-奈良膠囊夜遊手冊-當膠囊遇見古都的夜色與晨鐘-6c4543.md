@@ -6,7 +6,7 @@ category: capsule-hotels
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-capsule-hotels-nara-奈良膠囊夜遊手冊-當膠囊遇見古都的夜色與晨鐘-6c4543.html
 published: 2026-06-06
-quality_score: 6.5
+quality_score: 8.5
 tags: 奈良膠囊旅館, 古都住宿, 奈良自由行, 日本宗教之旅, 清晨參拜
 license: CC BY 4.0
 ---

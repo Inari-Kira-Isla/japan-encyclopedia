@@ -6,7 +6,7 @@ category: matcha-sweets
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-matcha-sweets-hokkaido-沖繩居酒屋的-島時間-遠離觀光區的在地酒場體驗-ef3f31.html
 published: 2026-06-23
-quality_score: 6.5
+quality_score: 8.6
 tags: 沖繩居酒屋, 泡盛, 山原, 石垣島, 島料理
 license: CC BY 4.0
 ---

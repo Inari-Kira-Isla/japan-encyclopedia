@@ -6,7 +6,7 @@ category: matcha-sweets
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-matcha-sweets-osaka-大阪抹茶甜點-冬日限定暖心甜品指南-5ab013.html
 published: 2026-05-22
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪抹茶甜點, 關西抹茶, 冬季甜品, 大阪美食, 抹茶甜點
 license: CC BY 4.0
 ---

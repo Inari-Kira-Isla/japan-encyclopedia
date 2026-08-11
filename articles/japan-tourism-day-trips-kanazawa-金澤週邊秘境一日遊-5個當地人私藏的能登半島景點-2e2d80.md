@@ -6,7 +6,7 @@ category: day-trips
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-kanazawa-金澤週邊秘境一日遊-5個當地人私藏的能登半島景點-2e2d80.html
 published: 2026-06-10
-quality_score: 6.5
+quality_score: 8.8
 tags: 金澤一日遊, 能登半島, 輪島朝市, 千里濱, 和倉溫泉
 license: CC BY 4.0
 ---

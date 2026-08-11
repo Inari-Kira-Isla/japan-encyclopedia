@@ -6,7 +6,7 @@ category: electronics
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-electronics-sendai-仙台電子產品購物-當地人私藏的東北購物秘境與嚴寒對策-f0aab5.html
 published: 2026-06-30
-quality_score: 7.5
+quality_score: 8.8
 tags: 仙台電子產品, 東北購物, 日本電器行, 仙台旅遊, Bic Camera
 license: CC BY 4.0
 ---

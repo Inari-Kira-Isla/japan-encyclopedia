@@ -6,7 +6,7 @@ category: ferries
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-ferries-hiroshima-廣島渡輪漫旅-瀨戶內海跳島攻略的海上視角-e00824.html
 published: 2026-06-20
-quality_score: 7.5
+quality_score: 8.7
 tags: 廣島渡輪, 瀨戶內海, 宮島, 因島, 大三島
 license: CC BY 4.0
 ---

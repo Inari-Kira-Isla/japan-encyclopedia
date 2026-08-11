@@ -6,7 +6,7 @@ category: gaming-arcades
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-gaming-arcades-osaka-大阪遊戲中心-下班後的能量補給站-49dbc8.html
 published: 2026-05-24
-quality_score: 6.5
+quality_score: 8.7
 tags:  Osaka,  遊戲中心,  街機,  休閒娛樂,  關西
 license: CC BY 4.0
 ---

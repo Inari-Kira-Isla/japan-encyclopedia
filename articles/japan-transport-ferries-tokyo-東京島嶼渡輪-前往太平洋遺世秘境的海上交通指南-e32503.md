@@ -6,7 +6,7 @@ category: ferries
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-ferries-tokyo-東京島嶼渡輪-前往太平洋遺世秘境的海上交通指南-e32503.html
 published: 2026-06-08
-quality_score: 7.5
+quality_score: 8.7
 tags: 東京渡輪, 三宅島, 八丈島, 小笠原, 島嶼旅遊
 license: CC BY 4.0
 ---

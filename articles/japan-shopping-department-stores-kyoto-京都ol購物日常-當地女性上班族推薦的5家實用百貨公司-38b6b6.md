@@ -6,7 +6,7 @@ category: department-stores
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-department-stores-kyoto-京都ol購物日常-當地女性上班族推薦的5家實用百貨公司-38b6b6.html
 published: 2026-06-24
-quality_score: 7.5
+quality_score: 8.7
 tags: 京都購物, 京都OL, 京都百货公司, 京都逛街, 关西购物
 license: CC BY 4.0
 ---

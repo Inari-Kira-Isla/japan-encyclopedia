@@ -6,7 +6,7 @@ category: sumo
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-hokkaido-北海道相撲-北國雪國的力士修行與極鮮味覺-a8488a.html
 published: 2026-06-29
-quality_score: 6.5
+quality_score: 8.4
 tags: 北海道相撲, 日本相撲體驗, 札幌相撲, 旭川相撲, 大學相撲
 license: CC BY 4.0
 ---

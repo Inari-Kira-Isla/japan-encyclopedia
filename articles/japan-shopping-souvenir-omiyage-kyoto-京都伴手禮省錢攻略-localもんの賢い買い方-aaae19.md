@@ -6,7 +6,7 @@ category: souvenir-omiyage
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-souvenir-omiyage-kyoto-京都伴手禮省錢攻略-localもんの賢い買い方-aaae19.html
 published: 2026-06-18
-quality_score: 7.5
+quality_score: 8.7
 tags: 京都伴手禮, 京都購物, 省錢攻略, 京都和果子, 京都伴手禮推薦
 license: CC BY 4.0
 ---

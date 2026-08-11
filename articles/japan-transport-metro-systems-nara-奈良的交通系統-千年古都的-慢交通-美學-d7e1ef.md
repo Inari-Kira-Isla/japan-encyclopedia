@@ -6,7 +6,7 @@ category: metro-systems
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-nara-奈良的交通系統-千年古都的-慢交通-美學-d7e1ef.html
 published: 2026-07-04
-quality_score: 7.5
+quality_score: 8.7
 tags: 奈良交通, 近鐵奈良, 奈良旅遊, 日本古都, 慢旅行
 license: CC BY 4.0
 ---

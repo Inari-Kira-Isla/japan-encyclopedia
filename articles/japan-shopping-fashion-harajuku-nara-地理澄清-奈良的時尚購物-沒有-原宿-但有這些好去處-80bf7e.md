@@ -6,7 +6,7 @@ category: fashion-harajuku
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-fashion-harajuku-nara-地理澄清-奈良的時尚購物-沒有-原宿-但有這些好去處-80bf7e.html
 published: 2026-06-11
-quality_score: 7.5
+quality_score: 8.7
 tags: 奈良購物, 奈良時尚, 奈良自由行, 近鐵奈良, 奈良町
 license: CC BY 4.0
 ---

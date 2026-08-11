@@ -6,7 +6,7 @@ category: sushi
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sushi-nagoya-名古屋壽司-地下街與辦公商圈的日常美味-1fbd3d.html
 published: 2026-06-09
-quality_score: 6.5
+quality_score: 8.5
 tags: 名古屋壽司, 地下街美食, 日本中部美食, 名古屋必吃, 辦公商圈
 license: CC BY 4.0
 ---

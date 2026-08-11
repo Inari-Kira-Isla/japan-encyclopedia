@@ -6,7 +6,7 @@ category: nightlife
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-osaka-大阪女子的深夜食堂-ol下班後的微醺美味地圖-d3055c.html
 published: 2026-05-25
-quality_score: 6.5
+quality_score: 9.0
 tags: 大阪夜生活, 大阪美食, 大阪OL, 關西夜生活, 日本居酒屋
 license: CC BY 4.0
 ---

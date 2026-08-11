@@ -6,7 +6,7 @@ category: depachika
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-depachika-kanazawa-金澤depachika-加賀百萬石城下的人生滋味-79964d.html
 published: 2026-05-24
-quality_score: 6.5
+quality_score: 8.2
 tags: 金澤美食, 加賀料理, depachika, 北路日本料理, 近江町市場
 license: CC BY 4.0
 ---

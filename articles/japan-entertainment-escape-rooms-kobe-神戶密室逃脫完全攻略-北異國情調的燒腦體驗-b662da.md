@@ -6,7 +6,7 @@ category: escape-rooms
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-escape-rooms-kobe-神戶密室逃脫完全攻略-北異國情調的燒腦體驗-b662da.html
 published: 2026-06-02
-quality_score: 6.5
+quality_score: 8.7
 tags: 神戶旅遊, 關西娛樂, 密室逃脫, 情侶約會, 團體活動
 license: CC BY 4.0
 ---

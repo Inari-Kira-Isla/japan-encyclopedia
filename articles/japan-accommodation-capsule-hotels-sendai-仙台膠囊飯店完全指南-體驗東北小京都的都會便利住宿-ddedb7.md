@@ -6,7 +6,7 @@ category: capsule-hotels
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-capsule-hotels-sendai-仙台膠囊飯店完全指南-體驗東北小京都的都會便利住宿-ddedb7.html
 published: 2026-06-04
-quality_score: 6.5
+quality_score: 8.7
 tags: 仙台住宿, 膠囊飯店, 東北旅遊, 日本東北自由行, 仙台站住宿
 license: CC BY 4.0
 ---

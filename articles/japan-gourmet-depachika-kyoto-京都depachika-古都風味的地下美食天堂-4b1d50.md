@@ -6,7 +6,7 @@ category: depachika
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-depachika-kyoto-京都depachika-古都風味的地下美食天堂-4b1d50.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 8.8
 tags: kyoto, depachika, 日本美食, 京都購物, 地下美食街
 license: CC BY 4.0
 ---

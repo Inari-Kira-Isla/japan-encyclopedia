@@ -6,7 +6,7 @@ category: boutique-hotels
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-hokkaido-北海道秘湯宿輯-雪國深處的極上之宿-03c819.html
 published: 2026-06-28
-quality_score: 6.5
+quality_score: 8.5
 tags: 北海道溫泉, 精品住宿, 支笏湖, 登別溫泉, 余市
 license: CC BY 4.0
 ---

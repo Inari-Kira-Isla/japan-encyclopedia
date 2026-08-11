@@ -6,7 +6,7 @@ category: ryokan
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-tokyo-東京都心旅館-國際商務都市中的和式待客藝術-52c981.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.9
 tags: 東京住宿, 日式旅館, 商務旅遊, 文化體驗, 都市旅遊
 license: CC BY 4.0
 ---

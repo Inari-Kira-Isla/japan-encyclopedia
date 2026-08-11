@@ -6,7 +6,7 @@ category: day-trips
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-okinawa-沖繩一日遊完全攻略-自然戶外冒險秘境遠離人潮推薦-3cc6eb.html
 published: 2026-05-24
-quality_score: 6.5
+quality_score: 8.7
 tags: 沖繩一日遊, 山原國家公園, 大石林山, 戶外活動, 自然冒險
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: craft-markets
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-craft-markets-hokkaido-北海道手做工藝市集-從平價撿漏到收藏逸品的分層完全指南-55abe4.html
 published: 2026-06-04
-quality_score: 7.5
+quality_score: 8.5
 tags: 北海道手做工藝市集, 札幌手作市集, 小樽運河創意市集, 旭川木工市集, 二世谷藝術節
 license: CC BY 4.0
 ---

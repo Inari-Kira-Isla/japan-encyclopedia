@@ -6,7 +6,7 @@ category: cycling
 area: japan
 url: https://japan-encyclopedia.vercel.app/articles/japan-wellness-cycling-日本單車旅遊完整指南2026-島波海道-琵琶湖-利根川-單車旅遊費用-jpy-攻略-jp-japan-cyclin-190504.html
 published: 2026-03-29
-quality_score: 7.6
+quality_score: 8.5
 tags: 島波海道, 日本單車旅遊, 琵琶湖騎車, 日本cycling, 自行車旅行日本
 license: CC BY 4.0
 ---

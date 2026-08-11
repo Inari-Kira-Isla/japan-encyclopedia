@@ -6,7 +6,7 @@ category: wagyu
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-wagyu-nara-奈良和牛完全指南-古都田野的隱藏版肉料理-aacdde.html
 published: 2026-06-06
-quality_score: 6.5
+quality_score: 8.6
 tags: 奈良美食, 和牛, 關西料理, 奈良旅遊, 日本燒肉
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: ramen
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-ramen-okinawa-沖繩拉麵的食材故事-海鹽-豚肉與島嶼飲食的經濟學-3745b3.html
 published: 2026-03-23
-quality_score: 6.5
+quality_score: 8.5
 tags: 沖繩, 拉麵, 日本美食, 食材供應鏈, 琉球文化
 license: CC BY 4.0
 ---

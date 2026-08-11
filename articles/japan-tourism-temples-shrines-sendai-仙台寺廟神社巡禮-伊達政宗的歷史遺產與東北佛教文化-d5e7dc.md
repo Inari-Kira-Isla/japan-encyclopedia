@@ -6,7 +6,7 @@ category: temples-shrines
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-temples-shrines-sendai-仙台寺廟神社巡禮-伊達政宗的歷史遺產與東北佛教文化-d5e7dc.html
 published: 2026-04-01
-quality_score: 6.5
+quality_score: 8.7
 tags: 仙台, 寺廟神社, 伊達政宗, 東北地區, 宗教文化
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: sumo
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-tokyo-tokyo的sumo-清晨土俵的呼吸-東京相撲入門體驗指南-2ae4c8.html
 published: 2026-06-05
-quality_score: 6.5
+quality_score: 8.6
 tags: Tokyo相撲, 清晨訓練, 國技館, 墨區, 两國
 license: CC BY 4.0
 ---

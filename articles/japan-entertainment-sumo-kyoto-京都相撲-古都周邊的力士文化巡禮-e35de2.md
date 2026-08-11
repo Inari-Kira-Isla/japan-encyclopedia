@@ -6,7 +6,7 @@ category: sumo
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-kyoto-京都相撲-古都周邊的力士文化巡禮-e35de2.html
 published: 2026-05-24
-quality_score: 6.5
+quality_score: 8.7
 tags: 京都相撲, 關西力士, EDION Arena大阪, 伏見稻荷, 相撲文化體驗
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: udon-soba
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-udon-soba-tokyo-tokyo-udon-soba-解析東京職人的一日限定選單-735d1d.html
 published: 2026-05-21
-quality_score: 6.5
+quality_score: 8.9
 tags: 東京美食, 烏龍麵, 蕎麥麵, 日本拉麵, 東京旅遊
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: gaming-arcades
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-gaming-arcades-sendai-仙台遊戲中心-cp值最高的東北街機攻略-050702.html
 published: 2026-06-04
-quality_score: 6.5
+quality_score: 8.6
 tags: 仙台遊戲中心, 仙台景點, 仙台自由度, 東北旅游, 日本街機文化
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: temples-shrines
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-temples-shrines-hokkaido-北海道寺廟神社巡禮-雪國的沉靜靈地-219acf.html
 published: 2026-03-21
-quality_score: 6.5
+quality_score: 8.5
 tags: 北海道, 寺廟, 神社, 札幌, 日本文化
 license: CC BY 4.0
 ---

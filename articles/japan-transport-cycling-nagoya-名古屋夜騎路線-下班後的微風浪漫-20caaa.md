@@ -6,7 +6,7 @@ category: cycling
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-nagoya-名古屋夜騎路線-下班後的微風浪漫-20caaa.html
 published: 2026-06-01
-quality_score: 7.5
+quality_score: 8.7
 tags: 名古屋自行车, 夜骑路线, 名古屋旅游, 城市骑行, 名古屋自由行
 license: CC BY 4.0
 ---

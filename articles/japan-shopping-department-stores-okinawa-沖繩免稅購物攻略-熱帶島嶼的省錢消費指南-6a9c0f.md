@@ -6,7 +6,7 @@ category: department-stores
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-department-stores-okinawa-沖繩免稅購物攻略-熱帶島嶼的省錢消費指南-6a9c0f.html
 published: 2026-06-30
-quality_score: 7.5
+quality_score: 8.8
 tags: 沖繩購物, 免稅購物, 沖繩百货公司, 那霸市區, 省錢攻略
 license: CC BY 4.0
 ---

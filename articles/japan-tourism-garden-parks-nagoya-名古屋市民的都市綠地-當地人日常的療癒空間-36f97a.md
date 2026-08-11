@@ -6,7 +6,7 @@ category: garden-parks
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-nagoya-名古屋市民的都市綠地-當地人日常的療癒空間-36f97a.html
 published: 2026-06-08
-quality_score: 6.5
+quality_score: 8.7
 tags: 名古屋, 公園綠地, 市民日常, 免費景點, 親子
 license: CC BY 4.0
 ---

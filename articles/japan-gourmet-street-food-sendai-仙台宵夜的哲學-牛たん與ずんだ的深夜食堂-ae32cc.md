@@ -6,7 +6,7 @@ category: street-food
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-street-food-sendai-仙台宵夜的哲學-牛たん與ずんだ的深夜食堂-ae32cc.html
 published: 2026-06-30
-quality_score: 6.5
+quality_score: 8.8
 tags: 仙台, 街頭美食, 牛たん, ずんだ, 宵夜
 license: CC BY 4.0
 ---

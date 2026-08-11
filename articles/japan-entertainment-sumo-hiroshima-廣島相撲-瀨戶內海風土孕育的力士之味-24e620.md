@@ -6,7 +6,7 @@ category: sumo
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-hiroshima-廣島相撲-瀨戶內海風土孕育的力士之味-24e620.html
 published: 2026-07-04
-quality_score: 6.5
+quality_score: 8.7
 tags: 廣島相撲, 瀨戶內海美食, 相撲火鍋, 日本深度旅遊, 廣島文化體驗
 license: CC BY 4.0
 ---

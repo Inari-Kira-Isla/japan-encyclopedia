@@ -6,7 +6,7 @@ category: garden-parks
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-kyoto-京都庭園哲學-從禪學到侘寂的美學散步-c422fb.html
 published: 2026-06-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 京都庭園, 日本美學, 枯山水, 禪學, 古都散步
 license: CC BY 4.0
 ---

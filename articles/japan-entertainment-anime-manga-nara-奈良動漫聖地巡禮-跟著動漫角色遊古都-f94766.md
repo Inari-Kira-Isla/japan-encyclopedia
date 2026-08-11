@@ -6,7 +6,7 @@ category: anime-manga
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-nara-奈良動漫聖地巡禮-跟著動漫角色遊古都-f94766.html
 published: 2026-06-13
-quality_score: 6.5
+quality_score: 8.6
 tags: 奈良, 聖地巡禮, 動漫取景地, 日本古都, 取景地巡禮
 license: CC BY 4.0
 ---

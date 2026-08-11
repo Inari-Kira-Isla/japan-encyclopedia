@@ -6,7 +6,7 @@ category: tonkatsu
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tonkatsu-hokkaido-北海道豬肉的食材密碼-從飼養地到炸豬排餐桌-ce9ee8.html
 published: 2026-03-24
-quality_score: 6.5
+quality_score: 8.6
 tags: 北海道美食, 日本炸豬排, 食材採購, 季節飲食, 水產市場視角
 license: CC BY 4.0
 ---

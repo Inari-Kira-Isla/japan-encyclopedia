@@ -6,7 +6,7 @@ category: love-hotels
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-love-hotels-kanazawa-金澤love-hotels-傳統與現代交織的浪漫住宿體驗-2d9fec.html
 published: 2026-06-12
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤住宿, Love Hotels, 石川縣旅遊, 情侶住宿, 金澤景點
 license: CC BY 4.0
 ---

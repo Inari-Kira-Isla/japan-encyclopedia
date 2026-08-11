@@ -6,7 +6,7 @@ category: castle-towns
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-castle-towns-kobe-神戶的城堡城鎮-被遺忘的城下町背影與港都的誕生-ee90d7.html
 published: 2026-05-24
-quality_score: 7.0
+quality_score: 7.6
 tags: castle-towns, kobe, japan
 license: CC BY 4.0
 ---

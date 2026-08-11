@@ -6,7 +6,7 @@ category: izakaya
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-izakaya-hokkaido-北海道居酒屋-冰點下的暖心酒食文化-f2b339.html
 published: 2026-05-24
-quality_score: 6.5
+quality_score: 8.9
 tags: 北海道居酒屋, 札幌美食, 小樽, 薄野, 冬季限定
 license: CC BY 4.0
 ---

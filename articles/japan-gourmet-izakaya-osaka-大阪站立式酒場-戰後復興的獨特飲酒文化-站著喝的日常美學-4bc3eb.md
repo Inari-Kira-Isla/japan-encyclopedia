@@ -6,7 +6,7 @@ category: izakaya
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-izakaya-osaka-大阪站立式酒場-戰後復興的獨特飲酒文化-站著喝的日常美學-4bc3eb.html
 published: 2026-06-12
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪, 居酒屋, 站立式酒場, 立ち飲み, 戰後文化
 license: CC BY 4.0
 ---

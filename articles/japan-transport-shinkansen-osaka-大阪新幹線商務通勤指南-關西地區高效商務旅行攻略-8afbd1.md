@@ -6,7 +6,7 @@ category: shinkansen
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-osaka-大阪新幹線商務通勤指南-關西地區高效商務旅行攻略-8afbd1.html
 published: 2026-04-02
-quality_score: 7.5
+quality_score: 8.7
 tags: 大阪交通, 商務旅行, 新幹線, 關西樞紐, 高效出差
 license: CC BY 4.0
 ---

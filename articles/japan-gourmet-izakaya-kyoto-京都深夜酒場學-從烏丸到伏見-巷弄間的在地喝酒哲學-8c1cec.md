@@ -6,7 +6,7 @@ category: izakaya
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-izakaya-kyoto-京都深夜酒場學-從烏丸到伏見-巷弄間的在地喝酒哲學-8c1cec.html
 published: 2026-06-15
-quality_score: 6.5
+quality_score: 8.7
 tags: 京都居酒屋, 京都美食, 京都夜生活, 京料理, 烏丸
 license: CC BY 4.0
 ---

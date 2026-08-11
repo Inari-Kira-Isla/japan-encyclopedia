@@ -6,7 +6,7 @@ category: tempura
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tempura-hokkaido-北海道天婦羅-極北海味的旬之盛宴-b173b3.html
 published: 2026-06-06
-quality_score: 6.5
+quality_score: 8.8
 tags: 北海道, 天婦羅, 日本美食, 海鮮, 札幌
 license: CC BY 4.0
 ---

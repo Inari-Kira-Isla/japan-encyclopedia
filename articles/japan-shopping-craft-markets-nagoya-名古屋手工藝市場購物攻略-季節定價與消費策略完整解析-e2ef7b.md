@@ -6,7 +6,7 @@ category: craft-markets
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-craft-markets-nagoya-名古屋手工藝市場購物攻略-季節定價與消費策略完整解析-e2ef7b.html
 published: 2026-04-05
-quality_score: 7.5
+quality_score: 8.6
 tags: 名古屋購物, 手工藝市場, 消費攻略
 license: CC BY 4.0
 ---

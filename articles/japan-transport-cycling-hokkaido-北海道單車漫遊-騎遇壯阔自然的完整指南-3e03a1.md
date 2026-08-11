@@ -6,7 +6,7 @@ category: cycling
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-hokkaido-北海道單車漫遊-騎遇壯阔自然的完整指南-3e03a1.html
 published: 2026-03-18
-quality_score: 7.5
+quality_score: 8.5
 tags: 北海道, 單車旅行, 日本自助旅遊, 戶外活動, 小樽
 license: CC BY 4.0
 ---

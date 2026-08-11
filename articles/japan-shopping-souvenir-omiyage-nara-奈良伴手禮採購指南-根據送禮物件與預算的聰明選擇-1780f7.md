@@ -6,7 +6,7 @@ category: souvenir-omiyage
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-souvenir-omiyage-nara-奈良伴手禮採購指南-根據送禮物件與預算的聰明選擇-1780f7.html
 published: 2026-06-21
-quality_score: 7.5
+quality_score: 8.3
 tags: 奈良伴手禮, 日本伴手禮, 奈良必買, 大和茶, 奈良特產
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: garden-parks
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-kyoto-京都花園公園巡禮-古都的自然之美與療癒時光-903aec.html
 published: 2026-03-16
-quality_score: 6.5
+quality_score: 8.8
 tags: 京都, 花園, 公園, 日式庭園, 賞櫻
 license: CC BY 4.0
 ---

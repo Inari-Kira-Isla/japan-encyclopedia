@@ -6,7 +6,7 @@ category: scenic-routes
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-sendai-仙台的山海絕景步道-從市中心出發的30分鐘療癒之路-ebbb07.html
 published: 2026-06-23
-quality_score: 6.5
+quality_score: 8.8
 tags: 仙台, 風景步道, 日本東北, 自駕路線, 溫泉鄉
 license: CC BY 4.0
 ---

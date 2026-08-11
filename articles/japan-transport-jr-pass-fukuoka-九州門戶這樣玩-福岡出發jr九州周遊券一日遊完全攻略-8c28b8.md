@@ -6,7 +6,7 @@ category: jr-pass
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-jr-pass-fukuoka-九州門戶這樣玩-福岡出發jr九州周遊券一日遊完全攻略-8c28b8.html
 published: 2026-07-01
-quality_score: 7.5
+quality_score: 8.7
 tags: JR九州鐵路周遊券, 福岡一日遊, 九州交通, 熊本城, 由布院
 license: CC BY 4.0
 ---

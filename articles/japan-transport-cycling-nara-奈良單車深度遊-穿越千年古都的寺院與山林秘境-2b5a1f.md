@@ -6,7 +6,7 @@ category: cycling
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-nara-奈良單車深度遊-穿越千年古都的寺院與山林秘境-2b5a1f.html
 published: 2026-07-03
-quality_score: 7.5
+quality_score: 8.8
 tags: 奈良單車, 奈良騎行, 古都奈良, 日本世界遺產, 吉野山單車
 license: CC BY 4.0
 ---

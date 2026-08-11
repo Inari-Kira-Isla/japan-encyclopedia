@@ -6,7 +6,7 @@ category: cycling
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-nara-奈良單車慢騎-女性旅人的古城巷弄探險指南-cf56ae.html
 published: 2026-06-30
-quality_score: 7.5
+quality_score: 8.5
 tags: 奈良單車, 女性旅遊, 古城慢騎, 電輔車租借, 奈良巷弄探險
 license: CC BY 4.0
 ---

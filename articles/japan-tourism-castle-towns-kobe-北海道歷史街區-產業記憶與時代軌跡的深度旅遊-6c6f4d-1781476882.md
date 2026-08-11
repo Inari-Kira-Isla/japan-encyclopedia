@@ -6,7 +6,7 @@ category: castle-towns
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-castle-towns-kobe-北海道歷史街區-產業記憶與時代軌跡的深度旅遊-6c6f4d-1781476882.html
 published: 2026-06-14
-quality_score: 6.5
+quality_score: 8.5
 tags: 北海道, 歷史街區, 小樽, 札幌, 函館
 license: CC BY 4.0
 ---

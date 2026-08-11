@@ -6,7 +6,7 @@ category: sumo
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-kyoto-京都相撲-古都神社裡的力士足跡-603929.html
 published: 2026-05-22
-quality_score: 6.5
+quality_score: 8.8
 tags: 京都相扑, 关西旅游, 相扑文化, 日本传统, 八坂神社
 license: CC BY 4.0
 ---

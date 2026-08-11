@@ -6,7 +6,7 @@ category: depachika
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-depachika-hokkaido-北海道depachika-在地老饕的日常食堂與季節限定鮮味指南-7d0160.html
 published: 2026-06-22
-quality_score: 6.5
+quality_score: 8.8
 tags: 北海道, Depachika, 在地美食, 海鮮, 日常食堂
 license: CC BY 4.0
 ---

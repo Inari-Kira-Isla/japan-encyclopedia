@@ -6,7 +6,7 @@ category: cycling
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-nagoya-名古屋單車工程學-從豐田起動機到昭和自動化工業巡禮-5b0be3.html
 published: 2026-06-12
-quality_score: 7.5
+quality_score: 8.5
 tags: 名古屋單車, 工業旅遊, 豐田產業紀念館, 產業遺產, 中部地方
 license: CC BY 4.0
 ---

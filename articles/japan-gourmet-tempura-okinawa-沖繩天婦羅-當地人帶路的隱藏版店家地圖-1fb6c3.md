@@ -6,7 +6,7 @@ category: tempura
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tempura-okinawa-沖繩天婦羅-當地人帶路的隱藏版店家地圖-1fb6c3.html
 published: 2026-06-15
-quality_score: 6.5
+quality_score: 8.5
 tags: 沖繩天婦羅,  Okinawa Tempura, 沖繩美食, 在地料理, 天婦羅
 license: CC BY 4.0
 ---

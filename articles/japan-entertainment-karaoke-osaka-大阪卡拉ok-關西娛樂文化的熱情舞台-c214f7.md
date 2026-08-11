@@ -6,7 +6,7 @@ category: karaoke
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-karaoke-osaka-大阪卡拉ok-關西娛樂文化的熱情舞台-c214f7.html
 published: 2026-03-15
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪娛樂, 卡拉OK, 關西文化, 夜生活, 日本旅遊
 license: CC BY 4.0
 ---

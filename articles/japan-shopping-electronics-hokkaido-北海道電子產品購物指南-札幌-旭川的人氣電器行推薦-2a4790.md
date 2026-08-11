@@ -6,7 +6,7 @@ category: electronics
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-electronics-hokkaido-北海道電子產品購物指南-札幌-旭川的人氣電器行推薦-2a4790.html
 published: 2026-03-15
-quality_score: 7.5
+quality_score: 8.5
 tags: 北海道, 電子產品, 電器行, 購物, 札幌
 license: CC BY 4.0
 ---

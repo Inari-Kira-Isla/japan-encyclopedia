@@ -6,7 +6,7 @@ category: souvenir-omiyage
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-souvenir-omiyage-nara-奈良伴手禮完全指南-古都生活的味道與質感選物-f46547.html
 published: 2026-06-02
-quality_score: 7.5
+quality_score: 8.7
 tags: 奈良伴手禮, 日本古都, 奈良漬, 大和茶, 柿葉寿司
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: nature-trails
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-okinawa-沖繩山林步道完全攻略-晨光生態攝影與在地嚮導的秘境探索-7ca52e.html
 published: 2026-06-22
-quality_score: 6.5
+quality_score: 8.7
 tags: 沖繩步道, 沖繩自然探索, 沖繩生態旅遊, 沖繩健行, 亞熱帶步道
 license: CC BY 4.0
 ---

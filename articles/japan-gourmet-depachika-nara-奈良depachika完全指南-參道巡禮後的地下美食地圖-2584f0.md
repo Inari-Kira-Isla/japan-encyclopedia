@@ -6,7 +6,7 @@ category: depachika
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-depachika-nara-奈良depachika完全指南-參道巡禮後的地下美食地圖-2584f0.html
 published: 2026-04-07
-quality_score: 6.5
+quality_score: 8.7
 tags: 
 license: CC BY 4.0
 ---

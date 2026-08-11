@@ -6,7 +6,7 @@ category: cycling
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-hiroshima-廣島單車生活-日常風景裡的在地騎行-1074f7.html
 published: 2026-06-19
-quality_score: 7.5
+quality_score: 8.4
 tags: 廣島單車, 廣島騎行, 瀨戶內海, 日本單車旅遊, 廣島自由行
 license: CC BY 4.0
 ---

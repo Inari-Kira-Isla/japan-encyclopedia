@@ -6,7 +6,7 @@ category: scenic-routes
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-osaka-大阪天王寺時間層次步道-穿越千年的人文city-walk-e8daa3.html
 published: 2026-06-24
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪天王寺, 時間層次步道, 寺町筋, 天王寺公園, 大正商圈
 license: CC BY 4.0
 ---

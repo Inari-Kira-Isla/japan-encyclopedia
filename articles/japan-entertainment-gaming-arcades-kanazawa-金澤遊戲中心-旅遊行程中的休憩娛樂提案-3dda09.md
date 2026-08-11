@@ -6,7 +6,7 @@ category: gaming-arcades
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-gaming-arcades-kanazawa-金澤遊戲中心-旅遊行程中的休憩娛樂提案-3dda09.html
 published: 2026-06-14
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤遊戲中心, 北陸街機文化, 金澤自由行, 金澤親子遊, 金澤雨天備案
 license: CC BY 4.0
 ---

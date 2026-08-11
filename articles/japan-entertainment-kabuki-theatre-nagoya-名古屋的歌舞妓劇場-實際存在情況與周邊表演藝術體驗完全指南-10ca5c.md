@@ -6,7 +6,7 @@ category: kabuki-theatre
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-kabuki-theatre-nagoya-名古屋的歌舞妓劇場-實際存在情況與周邊表演藝術體驗完全指南-10ca5c.html
 published: 2026-06-18
-quality_score: 6.5
+quality_score: 8.7
 tags: 名古屋, 歌舞妓, 能劇, 表演藝術, 日本傳統文化
 license: CC BY 4.0
 ---

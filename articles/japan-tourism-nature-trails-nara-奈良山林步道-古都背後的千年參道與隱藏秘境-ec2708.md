@@ -6,7 +6,7 @@ category: nature-trails
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-nara-奈良山林步道-古都背後的千年參道與隱藏秘境-ec2708.html
 published: 2026-06-05
-quality_score: 6.5
+quality_score: 8.9
 tags: 奈良縣, 自然步道, 登山健行, 古都深度遊, 參道歷史
 license: CC BY 4.0
 ---

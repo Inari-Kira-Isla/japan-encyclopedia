@@ -6,7 +6,7 @@ category: sushi
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sushi-osaka-大阪壽司-天王寺以南的巷弄老店與市場朝聖-e2b61c.html
 published: 2026-06-05
-quality_score: 6.5
+quality_score: 8.6
 tags: 大阪壽司, 天王寺美食, 阿倍野壽司, 大阪美食, 日本壽司
 license: CC BY 4.0
 ---

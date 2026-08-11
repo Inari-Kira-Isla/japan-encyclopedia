@@ -6,7 +6,7 @@ category: ferries
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-ferries-kyoto-京都親水航程-河川與湖泊的水上風光-f9a26e.html
 published: 2026-06-01
-quality_score: 7.5
+quality_score: 8.6
 tags: 京都, 保津川, 琵琶湖, 水上體驗, 嵐山
 license: CC BY 4.0
 ---

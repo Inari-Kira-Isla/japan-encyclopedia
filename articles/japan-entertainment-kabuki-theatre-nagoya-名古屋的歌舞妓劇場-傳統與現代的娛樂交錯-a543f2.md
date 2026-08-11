@@ -6,7 +6,7 @@ category: kabuki-theatre
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-kabuki-theatre-nagoya-名古屋的歌舞妓劇場-傳統與現代的娛樂交錯-a543f2.html
 published: 2026-06-15
-quality_score: 6.5
+quality_score: 8.6
 tags: 名古屋, 歌舞妓, 表演藝術, 日本娛樂, 名古屋城
 license: CC BY 4.0
 ---

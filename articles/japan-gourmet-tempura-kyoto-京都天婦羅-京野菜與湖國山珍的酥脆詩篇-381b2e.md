@@ -6,7 +6,7 @@ category: tempura
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tempura-kyoto-京都天婦羅-京野菜與湖國山珍的酥脆詩篇-381b2e.html
 published: 2026-04-08
-quality_score: 6.5
+quality_score: 8.8
 tags: 京都天婦羅, 京野菜, 日本料理, 天婦羅, 京都美食
 license: CC BY 4.0
 ---

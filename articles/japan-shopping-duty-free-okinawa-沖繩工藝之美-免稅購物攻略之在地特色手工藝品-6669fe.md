@@ -6,7 +6,7 @@ category: duty-free
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-duty-free-okinawa-沖繩工藝之美-免稅購物攻略之在地特色手工藝品-6669fe.html
 published: 2026-06-23
-quality_score: 7.5
+quality_score: 8.5
 tags: 沖繩免稅, 沖繩購物, 琉球工藝, 壺屋燒, 琉球玻璃
 license: CC BY 4.0
 ---

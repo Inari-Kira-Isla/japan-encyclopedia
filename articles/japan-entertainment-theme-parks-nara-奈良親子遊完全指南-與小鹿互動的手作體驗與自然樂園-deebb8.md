@@ -6,7 +6,7 @@ category: theme-parks
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-theme-parks-nara-奈良親子遊完全指南-與小鹿互動的手作體驗與自然樂園-deebb8.html
 published: 2026-06-04
-quality_score: 6.5
+quality_score: 8.7
 tags: 奈良亲子游, 奈良公园小鹿, 日本古都亲子, 奈良手作体验, 家庭旅游推荐
 license: CC BY 4.0
 ---

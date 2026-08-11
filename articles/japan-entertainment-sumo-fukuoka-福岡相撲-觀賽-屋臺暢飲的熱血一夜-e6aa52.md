@@ -6,7 +6,7 @@ category: sumo
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-fukuoka-福岡相撲-觀賽-屋臺暢飲的熱血一夜-e6aa52.html
 published: 2026-06-09
-quality_score: 6.5
+quality_score: 8.8
 tags: 福岡相撲, 九州場所, 相撲觀賽, 屋台文化, 博多吃喝
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: ramen
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-ramen-hiroshima-廣島拉麵-當地人從不推薦觀光客的隱藏版拉麵店-231c10.html
 published: 2026-05-24
-quality_score: 6.5
+quality_score: 8.6
 tags: 廣島拉麵, 瀨戶內海, 在地美食, 隱藏版拉麵店, 日本拉麵
 license: CC BY 4.0
 ---

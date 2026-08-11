@@ -6,7 +6,7 @@ category: historical-districts
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-kobe-神戶歷史街區一日散步地圖-從北野異人館到南京町的城中山道-89d6bd.html
 published: 2026-05-21
-quality_score: 6.5
+quality_score: 8.7
 tags: 神戶, 歷史街區, 北野異人館, 南京町, 散步
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: jr-pass
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-jr-pass-tokyo-東京jr-pass成本效益完全解析-從都心到關東的鐵道投資策略-0ea068.html
 published: 2026-04-05
-quality_score: 7.5
+quality_score: 8.7
 tags: 東京交通, JR Pass, 成本分析, 關東旅遊, 交通攻略
 license: CC BY 4.0
 ---

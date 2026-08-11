@@ -6,7 +6,7 @@ category: nightlife
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-hiroshima-廣島夜生活的美食散步與河川浪漫-54c3fb.html
 published: 2026-06-02
-quality_score: 6.5
+quality_score: 8.7
 tags: 廣島夜生活, 廣島燒, 日本美食之旅, 廣島自由行
 license: CC BY 4.0
 ---

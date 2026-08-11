@@ -6,7 +6,7 @@ category: ferries
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-ferries-nagoya-名古屋港海上交通指南-伊勢灣的港口與航運初體驗-d1a623.html
 published: 2026-06-29
-quality_score: 7.5
+quality_score: 8.3
 tags: 名古屋, 名古屋港, 伊勢灣, 海上交通, 港口觀光
 license: CC BY 4.0
 ---

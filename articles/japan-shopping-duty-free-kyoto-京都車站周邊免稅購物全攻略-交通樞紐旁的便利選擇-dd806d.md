@@ -6,7 +6,7 @@ category: duty-free
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-duty-free-kyoto-京都車站周邊免稅購物全攻略-交通樞紐旁的便利選擇-dd806d.html
 published: 2026-06-08
-quality_score: 7.5
+quality_score: 8.4
 tags: 京都免稅購物, 京都車站, 關西旅遊, 日本伴手禮, 京都購物指南
 license: CC BY 4.0
 ---

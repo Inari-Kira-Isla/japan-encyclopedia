@@ -6,7 +6,7 @@ category: historical-districts
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-kyoto-京都歷史街區巡禮-走進千年古都的時光隧道-a1676a.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 8.8
 tags: 京都, 歷史街區, 祇園, 錦市場, 先斗町
 license: CC BY 4.0
 ---

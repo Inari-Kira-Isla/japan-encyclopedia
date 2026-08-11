@@ -6,7 +6,7 @@ category: depachika
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-depachika-okinawa-沖繩depachika完全攻略-在地老饕的採購指南-c940ec.html
 published: 2026-04-03
-quality_score: 6.5
+quality_score: 8.7
 tags: 沖繩美食, depachika, 日本百貨地下街, 沖繩伴手禮, 那霸購物
 license: CC BY 4.0
 ---

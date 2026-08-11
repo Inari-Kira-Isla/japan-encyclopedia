@@ -6,7 +6,7 @@ category: electronics
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-electronics-tokyo-東京電子產品購物完全指南-從旗艦商圈到隱藏版挖寶地點-e2ec5b.html
 published: 2026-06-10
-quality_score: 7.5
+quality_score: 8.7
 tags: 東京電子產品, 東京購物, 日本電器, 東京自由行, 秋葉原
 license: CC BY 4.0
 ---

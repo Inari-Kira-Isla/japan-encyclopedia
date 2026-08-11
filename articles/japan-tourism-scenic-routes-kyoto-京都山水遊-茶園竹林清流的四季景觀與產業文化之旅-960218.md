@@ -6,7 +6,7 @@ category: scenic-routes
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-kyoto-京都山水遊-茶園竹林清流的四季景觀與產業文化之旅-960218.html
 published: 2026-03-24
-quality_score: 6.5
+quality_score: 8.7
 tags: 京都, 自然景觀, 產業文化, 四季景觀, 自行車道
 license: CC BY 4.0
 ---

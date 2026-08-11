@@ -6,7 +6,7 @@ category: ryokan-onsen
 area: japan
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-onsen-日本溫泉旅館完整指南2026-箱根-草津-湯布院傳統旅館費用-jpy-攻略-jp-japan--430578.html
 published: 2026-03-29
-quality_score: 7.6
+quality_score: 8.5
 tags: 日本旅館, 箱根溫泉, 草津溫泉, 湯布院, 溫泉旅館費用
 license: CC BY 4.0
 ---

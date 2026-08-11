@@ -6,7 +6,7 @@ category: temples-shrines
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-temples-shrines-kyoto-京都寺廟神社巡禮-千年古都的神聖之旅-831d7c.html
 published: 2026-03-14
-quality_score: 6.5
+quality_score: 8.8
 tags: 京都, 寺廟, 神社, 世界遺產, 日本旅遊
 license: CC BY 4.0
 ---

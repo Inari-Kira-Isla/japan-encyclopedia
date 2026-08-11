@@ -6,7 +6,7 @@ category: day-trips
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-kobe-神戶郊區溫泉與自然療愈之旅-關西放鬆一日遊完全指南-26e1ea.html
 published: 2026-05-25
-quality_score: 6.5
+quality_score: 8.9
 tags: 神戶, 有馬溫泉, 六甲山, 一日遊, 關西自由行
 license: CC BY 4.0
 ---

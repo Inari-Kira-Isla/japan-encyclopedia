@@ -6,7 +6,7 @@ category: wagyu
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-wagyu-tokyo-東京和牛採購秘辛-從產地到餐桌的完整供應鏈解析-ca618d.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京美食, 和牛, 日式料理, 商務招待, 美食評鑑
 license: CC BY 4.0
 ---

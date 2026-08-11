@@ -6,7 +6,7 @@ category: theme-parks
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-theme-parks-okinawa-沖繩主題樂園深度探索-在地人才知的隱藏版玩樂指南-69d763.html
 published: 2026-06-16
-quality_score: 6.5
+quality_score: 8.7
 tags: 沖繩主題樂園, 沖繩親子遊, 沖繩自由行, 恩納村景點, 玉泉洞
 license: CC BY 4.0
 ---

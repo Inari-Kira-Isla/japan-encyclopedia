@@ -6,7 +6,7 @@ category: historical-districts
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-tokyo-東京歷史街區的時間詩學-從清晨批發市場到夜晚燈火的日常物語-b9b8e5.html
 published: 2026-07-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京歷史街區, 下町風情, 清晨市場, 職人文化, 深度旅遊
 license: CC BY 4.0
 ---

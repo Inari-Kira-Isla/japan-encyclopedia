@@ -6,7 +6,7 @@ category: ski-resorts
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-ski-resorts-osaka-大阪近郊滑雪場-關西低預算一日滑雪攻略-a3b740.html
 published: 2026-06-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪滑雪, 關西滑雪場, 六甲山滑雪, 一日滑雪, 日本滑雪自由行
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: duty-free
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-duty-free-okinawa-沖繩local特産免稅購物指南-發現琉球滋味的白牌隱藏版-13e4bf.html
 published: 2026-06-02
-quality_score: 7.5
+quality_score: 8.7
 tags: 沖繩免稅, 琉隊特產, 沖繩購物, Japan Duty Free, Okinawa Shopping
 license: CC BY 4.0
 ---

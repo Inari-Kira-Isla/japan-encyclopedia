@@ -6,7 +6,7 @@ category: island-hopping
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-island-hopping-hiroshima-廣島跳島美食散步-從宮島牡蠣到瀨戶內小鎮的味覺冒險-c99720.html
 published: 2026-06-25
-quality_score: 6.5
+quality_score: 8.5
 tags: 廣島跳島, 瀨戶內海, 宮島牡蠣, 大久野島兔子島, 因島柑橘
 license: CC BY 4.0
 ---

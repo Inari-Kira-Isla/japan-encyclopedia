@@ -6,7 +6,7 @@ category: castle-towns
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-castle-towns-fukuoka-福岡城下町-從武家據點到九州美食王國的味覺進化論-0b19fd.html
 published: 2026-06-27
-quality_score: 6.5
+quality_score: 8.7
 tags: 福岡, 城下町, 九州自由行, 博多吃喝, 日本古城
 license: CC BY 4.0
 ---

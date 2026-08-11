@@ -6,7 +6,7 @@ category: festivals-matsuri
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-festivals-matsuri-kanazawa-金澤節慶祭典完全攻略-感受加賀百萬石的千年魅力-0e02e9.html
 published: 2026-06-02
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤祭典, 加賀百萬石, 日本祭典, 兼六園, 金澤自由行
 license: CC BY 4.0
 ---

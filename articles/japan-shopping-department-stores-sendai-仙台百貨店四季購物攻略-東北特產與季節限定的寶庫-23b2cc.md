@@ -6,7 +6,7 @@ category: department-stores
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-department-stores-sendai-仙台百貨店四季購物攻略-東北特產與季節限定的寶庫-23b2cc.html
 published: 2026-04-06
-quality_score: 7.5
+quality_score: 8.6
 tags: 仙台購物, 東北特產, 季節限定, 百貨公司, 免稅購物
 license: CC BY 4.0
 ---

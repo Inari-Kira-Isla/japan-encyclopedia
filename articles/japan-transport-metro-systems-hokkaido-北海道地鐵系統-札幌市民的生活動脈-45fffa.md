@@ -6,7 +6,7 @@ category: metro-systems
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-hokkaido-北海道地鐵系統-札幌市民的生活動脈-45fffa.html
 published: 2026-04-01
-quality_score: 7.5
+quality_score: 8.3
 tags: 北海道交通, 札幌地鐵, 日本交通系統
 license: CC BY 4.0
 ---

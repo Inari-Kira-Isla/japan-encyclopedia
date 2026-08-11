@@ -6,7 +6,7 @@ category: duty-free
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-duty-free-fukuoka-福岡伴手禮免稅攻略-在地美食與酒藏的購物指南-9063a8.html
 published: 2026-06-13
-quality_score: 7.5
+quality_score: 8.6
 tags: 福岡免稅, 九州伴手禮, 美食購物, 清酒免稅, 博多天神
 license: CC BY 4.0
 ---

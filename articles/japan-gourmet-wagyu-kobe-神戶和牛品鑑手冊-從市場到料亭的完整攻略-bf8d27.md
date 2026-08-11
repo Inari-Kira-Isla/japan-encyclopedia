@@ -6,7 +6,7 @@ category: wagyu
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-wagyu-kobe-神戶和牛品鑑手冊-從市場到料亭的完整攻略-bf8d27.html
 published: 2026-05-25
-quality_score: 6.5
+quality_score: 8.7
 tags: 神戶和牛, 日本料理, 神戶美食, 、黑毛和種, Tabelog
 license: CC BY 4.0
 ---

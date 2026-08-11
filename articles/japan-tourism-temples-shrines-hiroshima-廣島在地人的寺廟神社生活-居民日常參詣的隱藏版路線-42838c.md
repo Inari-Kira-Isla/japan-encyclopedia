@@ -6,7 +6,7 @@ category: temples-shrines
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-temples-shrines-hiroshima-廣島在地人的寺廟神社生活-居民日常參詣的隱藏版路線-42838c.html
 published: 2026-05-22
-quality_score: 6.5
+quality_score: 8.7
 tags: 廣島神社, 廣島寺院, 廣島自由行, 日本宗教, 在地體驗
 license: CC BY 4.0
 ---

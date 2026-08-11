@@ -6,7 +6,7 @@ category: theme-parks
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-theme-parks-kobe-神戶主題樂園完全指南-港灣山海間的家庭歡樂時光-46da72.html
 published: 2026-03-21
-quality_score: 6.5
+quality_score: 8.7
 tags: 神戶, 主題樂園, 家庭出遊, 港灣景點, 六甲山
 license: CC BY 4.0
 ---

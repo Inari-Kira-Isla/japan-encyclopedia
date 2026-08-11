@@ -6,7 +6,7 @@ category: island-hopping
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-island-hopping-fukuoka-福岡跳島療癒之旅-海風與溫泉交織的島嶼慢活體驗-999c76.html
 published: 2026-04-04
-quality_score: 6.5
+quality_score: 8.7
 tags: 福岡跳島, 溫泉療癒, 海島旅遊
 license: CC BY 4.0
 ---

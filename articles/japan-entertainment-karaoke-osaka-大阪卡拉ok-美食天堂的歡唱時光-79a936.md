@@ -6,7 +6,7 @@ category: karaoke
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-karaoke-osaka-大阪卡拉ok-美食天堂的歡唱時光-79a936.html
 published: 2026-06-02
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪, 卡拉OK, 關西娛樂, 道頓堀, 大阪美食
 license: CC BY 4.0
 ---

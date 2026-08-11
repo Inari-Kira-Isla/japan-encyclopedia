@@ -6,7 +6,7 @@ category: gaming-arcades
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-gaming-arcades-kyoto-京都遊戲中心-當地人帶路-遠離人潮的巷弄遊戲廳-54da3c.html
 published: 2026-06-22
-quality_score: 6.5
+quality_score: 8.7
 tags: 京都遊戲中心, 京都自由行, 京都深度遊, 關西遊戲廳, 日本街機文化
 license: CC BY 4.0
 ---

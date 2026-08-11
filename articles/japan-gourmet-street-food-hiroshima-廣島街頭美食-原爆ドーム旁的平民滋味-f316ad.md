@@ -6,7 +6,7 @@ category: street-food
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-street-food-hiroshima-廣島街頭美食-原爆ドーム旁的平民滋味-f316ad.html
 published: 2026-05-21
-quality_score: 6.5
+quality_score: 8.7
 tags: 廣島美食, 街頭小吃, 御好燒, 文字燒, 廣島牡蠣
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: rental-cars
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-nara-奈良租車自駕遊-時間效率優先的路線規劃策略-936dff.html
 published: 2026-06-28
-quality_score: 7.5
+quality_score: 8.6
 tags: 奈良租車, 關西自駕, 日本租車, 奈良自由行, 吉野山
 license: CC BY 4.0
 ---

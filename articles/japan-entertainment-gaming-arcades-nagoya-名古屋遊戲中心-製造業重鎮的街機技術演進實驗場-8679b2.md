@@ -6,7 +6,7 @@ category: gaming-arcades
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-gaming-arcades-nagoya-名古屋遊戲中心-製造業重鎮的街機技術演進實驗場-8679b2.html
 published: 2026-04-04
-quality_score: 6.5
+quality_score: 8.7
 tags: 名古屋, 遊戲中心, 街機文化, 技術創新, 製造業
 license: CC BY 4.0
 ---

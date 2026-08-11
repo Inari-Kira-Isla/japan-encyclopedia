@@ -6,7 +6,7 @@ category: department-stores
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-department-stores-fukuoka-福岡百貨公司購物指南-天神地下街網路與在地特色購物體驗-d46b11.html
 published: 2026-06-27
-quality_score: 7.5
+quality_score: 8.8
 tags: 福岡購物, 天神地下街, 九州自由行, 日本百货公司, 福岡旅遊
 license: CC BY 4.0
 ---

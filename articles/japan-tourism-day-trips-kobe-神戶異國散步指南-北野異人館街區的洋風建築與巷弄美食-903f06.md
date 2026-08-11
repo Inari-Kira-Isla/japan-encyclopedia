@@ -6,7 +6,7 @@ category: day-trips
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-kobe-神戶異國散步指南-北野異人館街區的洋風建築與巷弄美食-903f06.html
 published: 2026-06-26
-quality_score: 6.5
+quality_score: 8.8
 tags: 神戶, 一日遊, 異人館, 關西, 散步
 license: CC BY 4.0
 ---

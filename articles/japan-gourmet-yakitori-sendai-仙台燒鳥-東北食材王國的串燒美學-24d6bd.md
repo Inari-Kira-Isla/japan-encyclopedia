@@ -6,7 +6,7 @@ category: yakitori
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-yakitori-sendai-仙台燒鳥-東北食材王國的串燒美學-24d6bd.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.8
 tags: 仙台美食, 東北燒鳥, 日本串燒, 居酒屋文化, 地酒搭配
 license: CC BY 4.0
 ---

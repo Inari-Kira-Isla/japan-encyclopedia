@@ -6,7 +6,7 @@ category: sushi
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sushi-sendai-仙台壽司-三陸海岸的供應鏈革新與極致價效比-35b29d.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 仙台美食, 三陸海鮮, 東北壽司, 性價比美食, 日本在地體驗
 license: CC BY 4.0
 ---

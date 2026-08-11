@@ -6,7 +6,7 @@ category: airport-transfer
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-airport-transfer-nagoya-名古屋中部國際機場清晨航班交通攻略-趕早班飛機的完整方案-e8cd56.html
 published: 2026-06-22
-quality_score: 7.5
+quality_score: 8.5
 tags: 名古屋機場交通, 中部國際空港, 清晨航班, 機場接送, 2025年世博會
 license: CC BY 4.0
 ---

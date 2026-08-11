@@ -6,7 +6,7 @@ category: anime-manga
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-tokyo-東京動漫散步-遠離人潮的在地動漫生活-f6f37d.html
 published: 2026-06-02
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京動漫, 二次元聖地, 漫才 CAFE, 日本御宅文化, 東京自由行
 license: CC BY 4.0
 ---

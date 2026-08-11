@@ -6,7 +6,7 @@ category: gaming-arcades
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-gaming-arcades-nagoya-名古屋街機朝聖攻略-中部製造之都的遊戲中心深度探索-8f630b.html
 published: 2026-06-18
-quality_score: 6.5
+quality_score: 8.7
 tags: 名古屋, 街機廳, 遊戲中心, 日本中部, 娛樂體驗
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: business-hotels
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-business-hotels-kobe-神戶商務住宿-港都出差的時間效益優先策略-c4c368.html
 published: 2026-06-14
-quality_score: 6.5
+quality_score: 8.7
 tags: 神戶商務住宿, 神戶出差, 關西商務飯店, 神戶交通, 商務旅行
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: scenic-routes
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-hiroshima-廣島工藝美學散步-職人精神與設計風格的在地之旅-a3d6ea.html
 published: 2026-06-20
-quality_score: 6.5
+quality_score: 8.3
 tags: 廣島, 工藝, 散步, 職人, 設計
 license: CC BY 4.0
 ---

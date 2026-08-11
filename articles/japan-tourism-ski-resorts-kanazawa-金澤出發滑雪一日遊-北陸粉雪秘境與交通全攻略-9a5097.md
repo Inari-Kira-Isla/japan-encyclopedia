@@ -6,7 +6,7 @@ category: ski-resorts
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-ski-resorts-kanazawa-金澤出發滑雪一日遊-北陸粉雪秘境與交通全攻略-9a5097.html
 published: 2026-07-05
-quality_score: 6.5
+quality_score: 8.8
 tags: 金澤滑雪, 北陸滑雪, 日本滑雪一日遊, 石川縣滑雪場, 白山比叡
 license: CC BY 4.0
 ---

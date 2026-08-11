@@ -6,7 +6,7 @@ category: island-hopping
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-island-hopping-hokkaido-北海道跳島指南-探索北方海域的隱藏島嶼之美-cde906.html
 published: 2026-06-13
-quality_score: 6.5
+quality_score: 8.6
 tags: 北海道, 跳島, 利伎島, 禮文島, 奧uschiri島
 license: CC BY 4.0
 ---

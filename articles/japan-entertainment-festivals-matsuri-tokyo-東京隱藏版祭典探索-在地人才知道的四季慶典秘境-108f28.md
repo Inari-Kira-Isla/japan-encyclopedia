@@ -6,7 +6,7 @@ category: festivals-matsuri
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-festivals-matsuri-tokyo-東京隱藏版祭典探索-在地人才知道的四季慶典秘境-108f28.html
 published: 2026-04-04
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京祭典, 在地體驗, 隱藏景點, 日本文化, 屋台美食
 license: CC BY 4.0
 ---

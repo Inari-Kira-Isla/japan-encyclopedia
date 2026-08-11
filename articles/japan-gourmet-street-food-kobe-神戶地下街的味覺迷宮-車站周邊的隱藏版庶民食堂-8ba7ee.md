@@ -6,7 +6,7 @@ category: street-food
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-street-food-kobe-神戶地下街的味覺迷宮-車站周邊的隱藏版庶民食堂-8ba7ee.html
 published: 2026-06-06
-quality_score: 6.5
+quality_score: 8.7
 tags: 神戶, 街頭美食, 地下街, 三宮, 庶民美食
 license: CC BY 4.0
 ---

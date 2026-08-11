@@ -6,7 +6,7 @@ category: tempura
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tempura-hokkaido-北海道天婦羅-產地直送的供應鏈革命-89477b.html
 published: 2026-04-11
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道美食, 天婦羅, 漁港直送, 供應鏈, 海鮮料理
 license: CC BY 4.0
 ---

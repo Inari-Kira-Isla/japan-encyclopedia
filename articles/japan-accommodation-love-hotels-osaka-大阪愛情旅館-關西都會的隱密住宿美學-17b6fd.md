@@ -6,7 +6,7 @@ category: love-hotels
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-love-hotels-osaka-大阪愛情旅館-關西都會的隱密住宿美學-17b6fd.html
 published: 2026-06-15
-quality_score: 6.5
+quality_score: 8.5
 tags: 大阪住宿, 關西旅行, 愛情旅館, 情侶住宿, 大阪觀光
 license: CC BY 4.0
 ---

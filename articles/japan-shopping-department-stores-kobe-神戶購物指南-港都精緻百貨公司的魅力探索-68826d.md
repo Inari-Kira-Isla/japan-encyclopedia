@@ -6,7 +6,7 @@ category: department-stores
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-department-stores-kobe-神戶購物指南-港都精緻百貨公司的魅力探索-68826d.html
 published: 2026-06-01
-quality_score: 7.5
+quality_score: 8.7
 tags: 神戶購物, 神戶百货公司, 日本購物指南, 關西購物, 神戶自由行
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: historical-districts
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-hiroshima-廣島歷史街區的深夜食堂-從元町通到尾道的味覺散步-d6f3e1.html
 published: 2026-07-02
-quality_score: 6.5
+quality_score: 8.8
 tags: 廣島歷史街區, 廣島美食, 廣島屋台村, 尾道散步, 廣島燒
 license: CC BY 4.0
 ---

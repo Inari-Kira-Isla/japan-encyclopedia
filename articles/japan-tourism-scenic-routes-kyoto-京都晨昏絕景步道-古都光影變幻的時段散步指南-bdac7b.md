@@ -6,7 +6,7 @@ category: scenic-routes
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-kyoto-京都晨昏絕景步道-古都光影變幻的時段散步指南-bdac7b.html
 published: 2026-06-21
-quality_score: 6.5
+quality_score: 8.6
 tags: 京都, 步道, 散步, 晨昏, 觀光
 license: CC BY 4.0
 ---

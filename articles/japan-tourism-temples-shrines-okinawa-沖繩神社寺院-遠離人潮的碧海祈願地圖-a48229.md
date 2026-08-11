@@ -6,7 +6,7 @@ category: temples-shrines
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-temples-shrines-okinawa-沖繩神社寺院-遠離人潮的碧海祈願地圖-a48229.html
 published: 2026-06-04
-quality_score: 6.5
+quality_score: 8.9
 tags: 沖繩, 神社, 恩納村, 自駕遊, 海邊景點
 license: CC BY 4.0
 ---

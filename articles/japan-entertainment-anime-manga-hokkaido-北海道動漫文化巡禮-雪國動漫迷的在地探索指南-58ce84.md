@@ -6,7 +6,7 @@ category: anime-manga
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-hokkaido-北海道動漫文化巡禮-雪國動漫迷的在地探索指南-58ce84.html
 published: 2026-06-17
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道, 動漫, 札幌, 旭川, 函館
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: cycling
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-hokkaido-北海道單車美食之路-從產地到餐桌的騎行探險-2e93d5.html
 published: 2026-06-29
-quality_score: 7.5
+quality_score: 8.7
 tags: 北海道, 單車旅行, 美食之旅, 小樽, 帶廣
 license: CC BY 4.0
 ---

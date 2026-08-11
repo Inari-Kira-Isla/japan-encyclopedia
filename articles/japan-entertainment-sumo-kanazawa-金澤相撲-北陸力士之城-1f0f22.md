@@ -6,7 +6,7 @@ category: sumo
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-kanazawa-金澤相撲-北陸力士之城-1f0f22.html
 published: 2026-03-20
-quality_score: 6.5
+quality_score: 8.9
 tags: 金澤相撲, 石川縣旅遊, 相撲體驗, 日本傳統文化, 金澤美食
 license: CC BY 4.0
 ---

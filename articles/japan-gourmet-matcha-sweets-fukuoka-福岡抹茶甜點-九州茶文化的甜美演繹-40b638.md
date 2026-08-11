@@ -6,7 +6,7 @@ category: matcha-sweets
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-matcha-sweets-fukuoka-福岡抹茶甜點-九州茶文化的甜美演繹-40b638.html
 published: 2026-06-02
-quality_score: 6.5
+quality_score: 8.8
 tags: 福岡抹茶, 九州茶文化, 八女抹茶, 博多甜點, 福岡必吃
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: business-hotels
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-business-hotels-tokyo-東京商務飯店完整指南-出差首選的交通樞紐住宿-bfd84d.html
 published: 2026-05-31
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京商務飯店, Tokyo Business Hotels, 日本出差住宿, 東京住宿推薦, 商務旅行
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: izakaya
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-izakaya-fukuoka-福岡清酒居酒屋-品味九州酒藏與料理的完美搭配-d1862b.html
 published: 2026-04-06
-quality_score: 6.5
+quality_score: 8.8
 tags: 福岡居酒屋, 九州清酒, 酒食搭配, 博多美食, 燗酒文化
 license: CC BY 4.0
 ---

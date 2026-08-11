@@ -6,7 +6,7 @@ category: metro-systems
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-okinawa-沖繩沒有地鐵-本地人帶你重新認識沖繩的大眾交通系統-90f78c.html
 published: 2026-05-24
-quality_score: 7.5
+quality_score: 8.4
 tags: 沖繩交通, 單軌電車, 巴士, 渡輪, 自由行
 license: CC BY 4.0
 ---

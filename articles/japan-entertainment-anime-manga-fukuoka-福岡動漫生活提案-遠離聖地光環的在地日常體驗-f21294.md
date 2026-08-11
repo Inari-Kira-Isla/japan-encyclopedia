@@ -6,7 +6,7 @@ category: anime-manga
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-fukuoka-福岡動漫生活提案-遠離聖地光環的在地日常體驗-f21294.html
 published: 2026-06-09
-quality_score: 6.5
+quality_score: 8.9
 tags: 福岡, 動漫, 遊戲中心, 漫畫咖啡廳, 九州
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: ski-resorts
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-ski-resorts-nara-奈良縣滑雪場真相-沒有滑雪場但有絕佳的關西雪旅替代方案-ad44f0.html
 published: 2026-06-08
-quality_score: 6.5
+quality_score: 8.5
 tags: 奈良滑雪, 關西滑雪場, 奈良旅遊, 冬季日本, 滋賀滑雪
 license: CC BY 4.0
 ---

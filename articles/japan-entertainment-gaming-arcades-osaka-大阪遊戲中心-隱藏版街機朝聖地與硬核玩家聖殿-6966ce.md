@@ -6,7 +6,7 @@ category: gaming-arcades
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-gaming-arcades-osaka-大阪遊戲中心-隱藏版街機朝聖地與硬核玩家聖殿-6966ce.html
 published: 2026-05-23
-quality_score: 6.5
+quality_score: 8.6
 tags: 大阪遊戲中心, 街機文化, 難波, 天王寺, 梅田
 license: CC BY 4.0
 ---

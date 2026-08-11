@@ -6,7 +6,7 @@ category: wagyu
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-wagyu-sendai-仙台牛的在地風土-深入社群與家庭餐廳的日常和牛味-3993d1.html
 published: 2026-06-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 仙台牛, 仙台美食, 宮城縣和牛, 日本東北美食, 在地食堂
 license: CC BY 4.0
 ---

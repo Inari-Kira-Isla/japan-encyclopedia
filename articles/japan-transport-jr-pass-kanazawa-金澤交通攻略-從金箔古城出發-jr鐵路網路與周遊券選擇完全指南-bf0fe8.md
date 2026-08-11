@@ -6,7 +6,7 @@ category: jr-pass
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-jr-pass-kanazawa-金澤交通攻略-從金箔古城出發-jr鐵路網路與周遊券選擇完全指南-bf0fe8.html
 published: 2026-06-17
-quality_score: 7.5
+quality_score: 8.5
 tags: 金澤交通, JR Pass, 石川縣, 北陸旅遊, 金澤景點
 license: CC BY 4.0
 ---

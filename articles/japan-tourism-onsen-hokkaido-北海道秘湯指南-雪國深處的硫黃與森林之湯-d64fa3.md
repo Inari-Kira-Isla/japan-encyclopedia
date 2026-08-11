@@ -6,7 +6,7 @@ category: onsen
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-onsen-hokkaido-北海道秘湯指南-雪國深處的硫黃與森林之湯-d64fa3.html
 published: 2026-06-06
-quality_score: 6.5
+quality_score: 8.6
 tags: 北海道溫泉, 秘湯, 雪國溫泉, 定山溪, 登別溫泉
 license: CC BY 4.0
 ---

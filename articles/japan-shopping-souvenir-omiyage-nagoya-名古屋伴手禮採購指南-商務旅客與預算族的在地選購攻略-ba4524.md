@@ -6,7 +6,7 @@ category: souvenir-omiyage
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-souvenir-omiyage-nagoya-名古屋伴手禮採購指南-商務旅客與預算族的在地選購攻略-ba4524.html
 published: 2026-06-22
-quality_score: 7.5
+quality_score: 8.6
 tags: 名古屋, 伴手禮, 日本中部, 商務旅客, 味噌
 license: CC BY 4.0
 ---

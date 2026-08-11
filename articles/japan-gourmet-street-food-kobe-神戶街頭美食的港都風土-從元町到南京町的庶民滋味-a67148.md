@@ -6,7 +6,7 @@ category: street-food
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-street-food-kobe-神戶街頭美食的港都風土-從元町到南京町的庶民滋味-a67148.html
 published: 2026-06-07
-quality_score: 6.5
+quality_score: 8.7
 tags: 神戶, 街頭美食, 港都, 南京町, 關西
 license: CC BY 4.0
 ---

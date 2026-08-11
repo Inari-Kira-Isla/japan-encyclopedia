@@ -6,7 +6,7 @@ category: onsen
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-onsen-fukuoka-福岡溫泉-都市快閃泡湯手冊-市中心也能享受的當日來回溫泉體驗-f3cdef.html
 published: 2026-05-24
-quality_score: 6.5
+quality_score: 8.3
 tags: 福岡溫泉, 當日來回, 市區溫泉, 錢湯文化, 九州溫泉
 license: CC BY 4.0
 ---

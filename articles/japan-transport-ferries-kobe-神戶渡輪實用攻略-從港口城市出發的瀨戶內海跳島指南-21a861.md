@@ -6,7 +6,7 @@ category: ferries
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-ferries-kobe-神戶渡輪實用攻略-從港口城市出發的瀨戶內海跳島指南-21a861.html
 published: 2026-06-22
-quality_score: 7.5
+quality_score: 8.4
 tags: 神戶, 渡輪, 瀨戶內海, 四國, 交通
 license: CC BY 4.0
 ---

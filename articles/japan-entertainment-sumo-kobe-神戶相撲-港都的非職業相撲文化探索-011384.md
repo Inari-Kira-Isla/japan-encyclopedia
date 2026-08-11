@@ -6,7 +6,7 @@ category: sumo
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-kobe-神戶相撲-港都的非職業相撲文化探索-011384.html
 published: 2026-05-23
-quality_score: 6.5
+quality_score: 8.5
 tags: 神戶旅遊, 相扑文化, 大阪周邊, 傳統運動, 體驗日程
 license: CC BY 4.0
 ---

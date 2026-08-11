@@ -6,7 +6,7 @@ category: udon-soba
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-udon-soba-fukuoka-福岡烏龍麵與蕎麥麵-九州北部的麵食文化指南-5741b7.html
 published: 2026-06-12
-quality_score: 6.5
+quality_score: 8.6
 tags: 福岡美食, 烏龍麵, 九州北部, 屋台文化, 朝烏龍麵
 license: CC BY 4.0
 ---

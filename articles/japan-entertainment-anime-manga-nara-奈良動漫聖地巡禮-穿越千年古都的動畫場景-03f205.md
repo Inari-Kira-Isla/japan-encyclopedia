@@ -6,7 +6,7 @@ category: anime-manga
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-nara-奈良動漫聖地巡禮-穿越千年古都的動畫場景-03f205.html
 published: 2026-06-06
-quality_score: 6.5
+quality_score: 8.8
 tags: 奈良聖地巡禮, 動漫取景地, 日本古都, 春日大社, 東大寺
 license: CC BY 4.0
 ---

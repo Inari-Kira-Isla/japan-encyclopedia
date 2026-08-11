@@ -6,7 +6,7 @@ category: ramen
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-ramen-hiroshima-廣島拉麵的經營智學-低成本高效率的地方拉麵典範-082d6c.html
 published: 2026-03-24
-quality_score: 6.5
+quality_score: 8.6
 tags: 廣島拉麵, 日本飲食文化, 瀨戶內海食材, 餐飲經營, 拉麵供應鏈
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: izakaya
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-izakaya-tokyo-東京居酒屋的職場社交密碼-從黃昏酒到深夜場的上班族聖地-8d89a2.html
 published: 2026-04-06
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京居酒屋, 職場文化, 上班族聚餐, 日本酒文化, 商務社交
 license: CC BY 4.0
 ---

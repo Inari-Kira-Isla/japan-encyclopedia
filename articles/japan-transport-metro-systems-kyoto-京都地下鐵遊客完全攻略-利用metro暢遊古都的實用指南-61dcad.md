@@ -6,7 +6,7 @@ category: metro-systems
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-kyoto-京都地下鐵遊客完全攻略-利用metro暢遊古都的實用指南-61dcad.html
 published: 2026-05-22
-quality_score: 7.5
+quality_score: 8.8
 tags: 京都地下鐵, 關西自由行, 京都交通攻略, 京都Metro, 日本自助旅遊
 license: CC BY 4.0
 ---

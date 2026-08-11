@@ -6,7 +6,7 @@ category: boutique-hotels
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-tokyo-東京下町精品住宿-巷弄深處的老靈魂-a57078.html
 published: 2026-06-05
-quality_score: 6.5
+quality_score: 8.6
 tags: 東京住宿, 下町旅行, 精品酒店, 東京自由行, 墨田區
 license: CC BY 4.0
 ---

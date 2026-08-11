@@ -6,7 +6,7 @@ category: historical-districts
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-kanazawa-金澤-裡-的日常-走進在地人的生活街區-e136b3.html
 published: 2026-05-31
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤歷史街區, 近江町市場, 金澤自由行, 石川縣旅遊, 金澤深度遊
 license: CC BY 4.0
 ---

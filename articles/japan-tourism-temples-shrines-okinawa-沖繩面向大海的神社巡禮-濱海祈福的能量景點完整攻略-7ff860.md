@@ -6,7 +6,7 @@ category: temples-shrines
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-temples-shrines-okinawa-沖繩面向大海的神社巡禮-濱海祈福的能量景點完整攻略-7ff860.html
 published: 2026-05-24
-quality_score: 6.5
+quality_score: 8.5
 tags: 沖繩神社, 滨海祈福, 波上宮, 邊戶岬, 御嶽信仰
 license: CC BY 4.0
 ---

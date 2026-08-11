@@ -6,7 +6,7 @@ category: ramen
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-ramen-sendai-仙台拉麵的海鮮密碼-三陸漁港的暖湯文化-aa4403.html
 published: 2026-03-24
-quality_score: 6.5
+quality_score: 8.7
 tags: 仙台美食, 拉麵, 海鮮高湯, 三陸漁港, 日本東北
 license: CC BY 4.0
 ---

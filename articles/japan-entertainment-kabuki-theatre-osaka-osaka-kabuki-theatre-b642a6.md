@@ -6,7 +6,7 @@ category: kabuki-theatre
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-kabuki-theatre-osaka-osaka-kabuki-theatre-b642a6.html
 published: 2026-03-23
-quality_score: 5.5
+quality_score: 0.0
 tags: kabuki-theatre, osaka, japan
 license: CC BY 4.0
 ---

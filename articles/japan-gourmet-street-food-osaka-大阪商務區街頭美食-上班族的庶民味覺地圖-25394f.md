@@ -6,7 +6,7 @@ category: street-food
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-street-food-osaka-大阪商務區街頭美食-上班族的庶民味覺地圖-25394f.html
 published: 2026-05-22
-quality_score: 6.5
+quality_score: 8.8
 tags: 大阪美食, 街頭小吃, 商務區, 上班族, 北濱
 license: CC BY 4.0
 ---

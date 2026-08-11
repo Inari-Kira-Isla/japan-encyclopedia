@@ -6,7 +6,7 @@ category: garden-parks
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-hiroshima-廣島巷弄花園-本地人的隱藏綠徑-30363b.html
 published: 2026-05-24
-quality_score: 6.5
+quality_score: 8.7
 tags: 廣島花園, 社區公园, 在地散步, 春季赏樱, 廣島自由行
 license: CC BY 4.0
 ---

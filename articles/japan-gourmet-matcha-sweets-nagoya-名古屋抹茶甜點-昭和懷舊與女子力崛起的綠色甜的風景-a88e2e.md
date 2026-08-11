@@ -6,7 +6,7 @@ category: matcha-sweets
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-matcha-sweets-nagoya-名古屋抹茶甜點-昭和懷舊與女子力崛起的綠色甜的風景-a88e2e.html
 published: 2026-05-23
-quality_score: 6.5
+quality_score: 8.7
 tags: 名古屋美食, 抹茶甜點, 名古屋女子咖啡, 昭和氛圍, 名古屋甜点
 license: CC BY 4.0
 ---

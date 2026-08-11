@@ -6,7 +6,7 @@ category: onsen
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-onsen-hokkaido-北海道溫泉深度指南-雪國秘湯的選擇邏輯-c8c188.html
 published: 2026-06-17
-quality_score: 6.5
+quality_score: 8.5
 tags: 
 license: CC BY 4.0
 ---

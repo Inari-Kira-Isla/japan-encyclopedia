@@ -6,7 +6,7 @@ category: anime-manga
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-hokkaido-北海道動漫小旅行-雪國特有的漫畫咖啡店與昭和風情-a702ac.html
 published: 2026-07-04
-quality_score: 6.5
+quality_score: 8.5
 tags: 北海道, 動漫, 漫畫咖啡店, 日本旅遊, 札幌
 license: CC BY 4.0
 ---

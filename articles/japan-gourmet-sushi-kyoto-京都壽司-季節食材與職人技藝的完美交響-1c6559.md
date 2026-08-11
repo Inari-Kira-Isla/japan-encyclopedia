@@ -6,7 +6,7 @@ category: sushi
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sushi-kyoto-京都壽司-季節食材與職人技藝的完美交響-1c6559.html
 published: 2026-03-22
-quality_score: 6.5
+quality_score: 8.5
 tags: 京都美食, 壽司, 日本料理, 季節食材, 永續漁業
 license: CC BY 4.0
 ---

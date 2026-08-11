@@ -6,7 +6,7 @@ category: ski-resorts
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-ski-resorts-tokyo-東京當日往返滑雪場-新手與家庭的雪國捷徑-6cf471.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京滑雪, 東京近郊滑雪, 東京當日往返滑雪, 埼玉滑雪, 神奈川滑雪
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: tonkatsu
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tonkatsu-osaka-大阪豚kowski-天下の臺所の洋食日常-83efa4.html
 published: 2026-06-09
-quality_score: 6.5
+quality_score: 8.6
 tags: 大阪美食, 豚排, 洋食, 日式炸豬排, 大阪必吃
 license: CC BY 4.0
 ---

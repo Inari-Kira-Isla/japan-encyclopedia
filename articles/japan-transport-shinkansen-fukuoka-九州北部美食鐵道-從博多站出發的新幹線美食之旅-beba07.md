@@ -6,7 +6,7 @@ category: shinkansen
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-fukuoka-九州北部美食鐵道-從博多站出發的新幹線美食之旅-beba07.html
 published: 2026-04-08
-quality_score: 7.5
+quality_score: 8.8
 tags: 九州新干线, 博多站, 鐵道美食, 久留米拉麵, 佐世保漢堡
 license: CC BY 4.0
 ---

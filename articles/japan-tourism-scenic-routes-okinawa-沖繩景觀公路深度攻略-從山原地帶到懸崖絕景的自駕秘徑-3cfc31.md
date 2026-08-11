@@ -6,7 +6,7 @@ category: scenic-routes
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-okinawa-沖繩景觀公路深度攻略-從山原地帶到懸崖絕景的自駕秘徑-3cfc31.html
 published: 2026-03-24
-quality_score: 6.5
+quality_score: 8.7
 tags: 
 license: CC BY 4.0
 ---

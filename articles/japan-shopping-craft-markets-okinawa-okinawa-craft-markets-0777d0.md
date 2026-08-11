@@ -6,7 +6,7 @@ category: craft-markets
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-craft-markets-okinawa-okinawa-craft-markets-0777d0.html
 published: 2026-03-22
-quality_score: 6.5
+quality_score: 6.7
 tags: craft-markets, okinawa, japan
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: karaoke
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-karaoke-fukuoka-福岡卡拉ok-九州方言與居酒屋文化的音樂交融-d0eb54.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.6
 tags: 福岡娛樂, 九州文化, 博多方言, 居酒屋文化, 清酒體驗
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: tempura
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tempura-kanazawa-金澤天釜-小京都の油溫藝術-8cedc7.html
 published: 2026-05-25
-quality_score: 6.5
+quality_score: 8.9
 tags: 金澤美食, 天婦羅, 加賀料理, 日本海海鮮, food定食
 license: CC BY 4.0
 ---

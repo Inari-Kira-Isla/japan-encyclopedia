@@ -6,7 +6,7 @@ category: temple-stays
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-temple-stays-okinawa-沖繩寺廟住宿完全指南-遠離度假區的琉球禪意體驗-222927.html
 published: 2026-06-21
-quality_score: 6.5
+quality_score: 8.3
 tags: 沖繩住宿, 寺廟住宿, 琉球佛教, 禪修體驗, 冲绳文化
 license: CC BY 4.0
 ---

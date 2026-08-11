@@ -6,7 +6,7 @@ category: traditional-crafts
 area: japan
 url: https://japan-encyclopedia.vercel.app/articles/japan-attractions-traditional-crafts-京都傳統工藝完整指南2026-西陣織-清水燒-京友禪-職人文化費用攻略-jp-kyot-1400c7.html
 published: 2026-04-04
-quality_score: 7.1
+quality_score: 8.5
 tags: 京都西陣織, 清水燒, 京友禪, 京都工藝體驗, 日本傳統職人
 license: CC BY 4.0
 ---

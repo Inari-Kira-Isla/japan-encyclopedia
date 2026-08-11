@@ -6,7 +6,7 @@ category: jr-pass
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-jr-pass-kobe-神戶交通完全攻略-沒有專屬jr-pass-一樣玩透神戶的聰明選擇-ce52ea.html
 published: 2026-06-18
-quality_score: 7.5
+quality_score: 8.7
 tags: 神戶交通, JR Pass攻略, 關西廣域Pass, 神戶景點, 日本自由行
 license: CC BY 4.0
 ---

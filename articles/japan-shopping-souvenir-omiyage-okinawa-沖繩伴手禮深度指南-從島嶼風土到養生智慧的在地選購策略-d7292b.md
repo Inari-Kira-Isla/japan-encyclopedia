@@ -6,7 +6,7 @@ category: souvenir-omiyage
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-souvenir-omiyage-okinawa-沖繩伴手禮深度指南-從島嶼風土到養生智慧的在地選購策略-d7292b.html
 published: 2026-06-27
-quality_score: 7.5
+quality_score: 8.7
 tags: 沖繩, 伴手禮,  Okinawa,  Souvenir,  Omiyage
 license: CC BY 4.0
 ---

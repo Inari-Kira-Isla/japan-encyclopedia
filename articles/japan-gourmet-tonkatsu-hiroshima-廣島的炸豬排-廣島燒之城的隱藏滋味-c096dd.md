@@ -6,7 +6,7 @@ category: tonkatsu
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tonkatsu-hiroshima-廣島的炸豬排-廣島燒之城的隱藏滋味-c096dd.html
 published: 2026-06-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 廣島美食, 炸豬排, B級美食, 廣島燒, 日本洋食
 license: CC BY 4.0
 ---

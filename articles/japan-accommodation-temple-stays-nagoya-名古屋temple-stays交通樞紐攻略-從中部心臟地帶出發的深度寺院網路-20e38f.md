@@ -6,7 +6,7 @@ category: temple-stays
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-temple-stays-nagoya-名古屋temple-stays交通樞紐攻略-從中部心臟地帶出發的深度寺院網路-20e38f.html
 published: 2026-06-12
-quality_score: 6.5
+quality_score: 8.3
 tags: 名古屋, temple-stay, 寺院住宿, 日本中部, 比叡山
 license: CC BY 4.0
 ---

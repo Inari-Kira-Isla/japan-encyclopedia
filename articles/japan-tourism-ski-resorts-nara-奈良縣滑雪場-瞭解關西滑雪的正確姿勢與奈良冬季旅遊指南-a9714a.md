@@ -6,7 +6,7 @@ category: ski-resorts
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-ski-resorts-nara-奈良縣滑雪場-瞭解關西滑雪的正確姿勢與奈良冬季旅遊指南-a9714a.html
 published: 2026-06-14
-quality_score: 6.5
+quality_score: 8.5
 tags: 奈良滑雪, 關西滑雪, 日本冬季旅遊, 奈良旅遊, 六甲山滑雪場
 license: CC BY 4.0
 ---

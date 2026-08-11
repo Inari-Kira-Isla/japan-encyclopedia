@@ -6,7 +6,7 @@ category: ryokan
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-hokkaido-北海道非溫泉型傳統旅宿-遠離湯治的田野與風暴體驗-a33c91.html
 published: 2026-07-02
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道, 非溫泉旅宿, 田園體驗, 酪農, 暴風雪
 license: CC BY 4.0
 ---

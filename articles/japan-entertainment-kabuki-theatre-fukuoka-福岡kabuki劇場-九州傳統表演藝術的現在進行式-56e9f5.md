@@ -6,7 +6,7 @@ category: kabuki-theatre
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-kabuki-theatre-fukuoka-福岡kabuki劇場-九州傳統表演藝術的現在進行式-56e9f5.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 8.7
 tags: 福岡, Kabuki, 日本傳統表演, 九州文化, 劇場推薦
 license: CC BY 4.0
 ---

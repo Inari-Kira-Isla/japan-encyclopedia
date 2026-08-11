@@ -6,7 +6,7 @@ category: buses
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-buses-okinawa-沖繩巴士秘境線-沒有自駕也能抵達的在地亞熱帶風光-564104.html
 published: 2026-06-28
-quality_score: 7.5
+quality_score: 8.7
 tags: 沖繩巴士, 非自駕遊沖繩, 亞熱帶秘境, 沖繩交通, 公車深度遊
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: karaoke
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-karaoke-sendai-仙台卡拉ok-大學生と地酒味わう夜間エンターテイメント-f41c13.html
 published: 2026-06-29
-quality_score: 6.5
+quality_score: 8.8
 tags: 仙台, 卡拉OK, 東北娛樂, 大學城, 夜間體驗
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: festivals-matsuri
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-festivals-matsuri-fukuoka-福岡祭典美食完全指南-屋臺與酒藏的節慶味覺之旅-ea4ef6.html
 published: 2026-04-02
-quality_score: 6.5
+quality_score: 8.7
 tags: 福岡祭典, 屋台文化, 博多DONTAKU, 博多祇園山笠, 九州美食
 license: CC BY 4.0
 ---

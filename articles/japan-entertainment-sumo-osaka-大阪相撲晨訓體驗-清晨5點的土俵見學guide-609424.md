@@ -6,7 +6,7 @@ category: sumo
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-osaka-大阪相撲晨訓體驗-清晨5點的土俵見學guide-609424.html
 published: 2026-06-03
-quality_score: 6.5
+quality_score: 8.6
 tags: 大阪相撲, 清晨訓練, 道場見學, 關西體育, 相撲體驗
 license: CC BY 4.0
 ---

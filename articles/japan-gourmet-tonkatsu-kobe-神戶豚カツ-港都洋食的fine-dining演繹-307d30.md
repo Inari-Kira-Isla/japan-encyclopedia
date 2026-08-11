@@ -6,7 +6,7 @@ category: tonkatsu
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tonkatsu-kobe-神戶豚カツ-港都洋食的fine-dining演繹-307d30.html
 published: 2026-06-30
-quality_score: 6.5
+quality_score: 8.8
 tags: 神戶, 豚カツ, 炸豬排, 洋食, Fine Dining
 license: CC BY 4.0
 ---

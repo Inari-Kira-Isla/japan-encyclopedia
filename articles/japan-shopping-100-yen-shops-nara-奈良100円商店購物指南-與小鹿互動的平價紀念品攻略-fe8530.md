@@ -6,7 +6,7 @@ category: 100-yen-shops
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-100-yen-shops-nara-奈良100円商店購物指南-與小鹿互動的平價紀念品攻略-fe8530.html
 published: 2026-07-01
-quality_score: 7.5
+quality_score: 8.8
 tags: 奈良, 100円商店, 日本購物, 平價購物, 鹿相關商品
 license: CC BY 4.0
 ---

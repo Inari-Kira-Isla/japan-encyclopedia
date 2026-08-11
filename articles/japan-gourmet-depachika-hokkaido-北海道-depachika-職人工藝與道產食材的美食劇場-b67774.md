@@ -6,7 +6,7 @@ category: depachika
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-depachika-hokkaido-北海道-depachika-職人工藝與道產食材的美食劇場-b67774.html
 published: 2026-04-04
-quality_score: 6.5
+quality_score: 8.8
 tags: 北海道美食, 百貨地下街, 道產食材, 職人工藝, 海鮮料理
 license: CC BY 4.0
 ---

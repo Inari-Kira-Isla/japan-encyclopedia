@@ -6,7 +6,7 @@ category: duty-free
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-duty-free-sendai-仙台免稅購物東北味-四季限定商品與在地工藝品採購攻略-11c50d.html
 published: 2026-04-06
-quality_score: 7.5
+quality_score: 8.5
 tags: 仙台購物, 東北免稅, 工藝品, 季節性商品, 日本免稅
 license: CC BY 4.0
 ---

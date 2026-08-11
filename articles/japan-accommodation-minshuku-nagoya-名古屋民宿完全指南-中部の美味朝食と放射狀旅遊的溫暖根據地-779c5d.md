@@ -6,7 +6,7 @@ category: minshuku
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-nagoya-名古屋民宿完全指南-中部の美味朝食と放射狀旅遊的溫暖根據地-779c5d.html
 published: 2026-06-18
-quality_score: 6.5
+quality_score: 8.4
 tags: 名古屋民宿, 中部地方, 名古屋住宿, 朝食文化, 一人旅
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: street-food
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-street-food-hokkaido-北海道街食的時間奧義-從凌晨漁港到限定滋味的產地食驗-38ddc1.html
 published: 2026-07-04
-quality_score: 6.5
+quality_score: 8.6
 tags: 北海道街頭美食, 朝市海鮮, 產地直送, 馬糞海膽, 北海道帶子
 license: CC BY 4.0
 ---

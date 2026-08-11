@@ -6,7 +6,7 @@ category: anime-manga
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-kanazawa-金澤動漫散步-古鎮巷弄裡的創作日常-da3c30.html
 published: 2026-05-23
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤動漫, 日本動漫聖地, 北陸漫畫咖啡廳, 金澤自由行, 動漫創作旅游
 license: CC BY 4.0
 ---

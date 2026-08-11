@@ -6,7 +6,7 @@ category: minshuku
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-nagoya-名古屋民宿完全指南-作為中部探索根據地的鐵道樞紐住宿-eaabaf.html
 published: 2026-06-05
-quality_score: 6.5
+quality_score: 8.5
 tags: 名古屋民宿, 中部地方住宿, 鐵道之旅, 日本自助旅行, 名古屋站住宿
 license: CC BY 4.0
 ---

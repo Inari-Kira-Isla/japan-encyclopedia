@@ -6,7 +6,7 @@ category: historical-districts
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-nagoya-名古屋歷史街區巡禮-隱藏在工業都市中的傳統工藝之路-1f8561.html
 published: 2026-03-31
-quality_score: 6.5
+quality_score: 8.7
 tags: 名古屋, 歷史街區, 傳統工藝, 町工廠, 日本中部
 license: CC BY 4.0
 ---

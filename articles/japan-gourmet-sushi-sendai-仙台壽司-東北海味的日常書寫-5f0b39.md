@@ -6,7 +6,7 @@ category: sushi
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sushi-sendai-仙台壽司-東北海味的日常書寫-5f0b39.html
 published: 2026-06-12
-quality_score: 6.5
+quality_score: 8.5
 tags: 仙台壽司, 東北美食, 三陸海岸, 日本壽司, 仙台旅遊
 license: CC BY 4.0
 ---

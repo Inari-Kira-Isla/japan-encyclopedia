@@ -6,7 +6,7 @@ category: boutique-hotels
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-kyoto-京都精品酒店的味覺覺醒-從早餐到宵夜的在地美食提案-6325dc.html
 published: 2026-06-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 京都精品飯店, 京料理, 京都住宿, 味覺體驗, 日本溫泉
 license: CC BY 4.0
 ---

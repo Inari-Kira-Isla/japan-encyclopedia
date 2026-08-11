@@ -6,7 +6,7 @@ category: electronics
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-electronics-tokyo-tokyo電子產品購物指南-專業器材與專業服務的購物聖地-cb399c.html
 published: 2026-06-03
-quality_score: 7.5
+quality_score: 7.2
 tags: Tokyo電子產品, Tokyo購物, 秋葉原電器, 新宿電子產品, 日本电子产品购物
 license: CC BY 4.0
 ---

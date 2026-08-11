@@ -6,7 +6,7 @@ category: food-markets
 area: japan
 url: https://japan-encyclopedia.vercel.app/articles/japan-attractions-food-markets-豐洲市場完整指南2026-鮪魚拍賣見學-海鮮餐廳-費用-jpy-完整攻略-jp-toyosu-fi-c11396.html
 published: 2026-05-01
-quality_score: 6.1
+quality_score: 8.7
 tags: 豬洲市場, 鮪魚拍賣, 豬洲海鮮, 豬洲vs築地, 東京魚市場
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: 100-yen-shops
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-100-yen-shops-nagoya-名古屋100円商店女生版-榮商圈週邊平價好物精選地圖-e93859.html
 published: 2026-06-28
-quality_score: 7.5
+quality_score: 8.5
 tags: 名古屋, 100円商店, 平價購物, 榮商圈, 女生旅行
 license: CC BY 4.0
 ---

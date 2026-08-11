@@ -6,7 +6,7 @@ category: castle-towns
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-castle-towns-kobe-神戶的城堡城鎮-港都繁榮的經濟dna與商道遺產-ef49c9.html
 published: 2026-06-13
-quality_score: 6.5
+quality_score: 8.7
 tags: 神戶城堡城鎮, 神戶歷史街區, 播磨國古城, 北野町異人館, 南京町唐人街
 license: CC BY 4.0
 ---

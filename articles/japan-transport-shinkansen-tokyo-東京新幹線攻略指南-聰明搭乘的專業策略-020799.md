@@ -6,7 +6,7 @@ category: shinkansen
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-tokyo-東京新幹線攻略指南-聰明搭乘的專業策略-020799.html
 published: 2026-04-02
-quality_score: 7.5
+quality_score: 8.6
 tags: 東京新幹線, 日本交通, 旅遊攻略, JR Pass, 高速鐵路
 license: CC BY 4.0
 ---

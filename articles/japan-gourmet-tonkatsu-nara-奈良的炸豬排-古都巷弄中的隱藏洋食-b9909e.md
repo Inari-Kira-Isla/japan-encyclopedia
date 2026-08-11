@@ -6,7 +6,7 @@ category: tonkatsu
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tonkatsu-nara-奈良的炸豬排-古都巷弄中的隱藏洋食-b9909e.html
 published: 2026-06-07
-quality_score: 6.5
+quality_score: 8.7
 tags: 奈良美食, 炸豬排, 洋食, 日本料理, 奈良旅遊
 license: CC BY 4.0
 ---

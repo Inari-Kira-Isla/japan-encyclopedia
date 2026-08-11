@@ -6,7 +6,7 @@ category: craft-markets
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-craft-markets-kanazawa-金澤工藝市場撿寶攻略-2026日圓低點的聰明消費指南-e17b1e.html
 published: 2026-07-03
-quality_score: 7.5
+quality_score: 8.9
 tags: 金澤, 手工藝市場, 日本購物, 加賀金箔, 北陸旅遊
 license: CC BY 4.0
 ---

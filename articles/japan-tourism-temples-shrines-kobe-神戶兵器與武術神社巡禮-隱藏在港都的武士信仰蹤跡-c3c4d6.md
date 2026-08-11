@@ -6,7 +6,7 @@ category: temples-shrines
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-temples-shrines-kobe-神戶兵器與武術神社巡禮-隱藏在港都的武士信仰蹤跡-c3c4d6.html
 published: 2026-06-03
-quality_score: 6.5
+quality_score: 8.8
 tags: 神戶神社, 神戶寺院, 武術文化, 兵器信仰, 兵庫縣
 license: CC BY 4.0
 ---

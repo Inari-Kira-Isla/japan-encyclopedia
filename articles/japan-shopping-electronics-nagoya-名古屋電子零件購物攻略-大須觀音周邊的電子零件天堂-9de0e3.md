@@ -6,7 +6,7 @@ category: electronics
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-electronics-nagoya-名古屋電子零件購物攻略-大須觀音周邊的電子零件天堂-9de0e3.html
 published: 2026-06-17
-quality_score: 7.5
+quality_score: 8.6
 tags: Nagoya電子零件, 名古屋購物, 大須觀音, 電子DIY, 日本中部購物
 license: CC BY 4.0
 ---

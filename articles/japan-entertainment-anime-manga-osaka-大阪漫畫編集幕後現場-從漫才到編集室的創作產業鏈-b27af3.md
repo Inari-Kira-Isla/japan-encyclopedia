@@ -6,7 +6,7 @@ category: anime-manga
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-osaka-大阪漫畫編集幕後現場-從漫才到編集室的創作產業鏈-b27af3.html
 published: 2026-05-23
-quality_score: 6.5
+quality_score: 8.6
 tags: 大阪動漫, 漫才文化, 日本橋漫畫, 同人創作, 大阪編集
 license: CC BY 4.0
 ---

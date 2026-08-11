@@ -6,7 +6,7 @@ category: garden-parks
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-fukuoka-福岡花園公園巡禮-晨間運動與在地生活的風景線-707415.html
 published: 2026-06-06
-quality_score: 6.5
+quality_score: 8.6
 tags: 福岡, 公園, 晨間運動, 攝影, 在地文化
 license: CC BY 4.0
 ---

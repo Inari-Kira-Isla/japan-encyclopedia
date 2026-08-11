@@ -6,7 +6,7 @@ category: nightlife
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-kanazawa-金澤夜生活-機能分割槽裡的在地日常-f4135c.html
 published: 2026-06-28
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤夜生活, 石川縣, 機能分區, 站前立飲, 片町筋
 license: CC BY 4.0
 ---

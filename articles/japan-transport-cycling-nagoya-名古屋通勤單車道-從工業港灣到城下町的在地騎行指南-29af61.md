@@ -6,7 +6,7 @@ category: cycling
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-nagoya-名古屋通勤單車道-從工業港灣到城下町的在地騎行指南-29af61.html
 published: 2026-06-17
-quality_score: 7.5
+quality_score: 8.7
 tags: 名古屋單車, 名古屋單車租借, 名古屋單車道, 日本中部單車, 名古屋通勤
 license: CC BY 4.0
 ---

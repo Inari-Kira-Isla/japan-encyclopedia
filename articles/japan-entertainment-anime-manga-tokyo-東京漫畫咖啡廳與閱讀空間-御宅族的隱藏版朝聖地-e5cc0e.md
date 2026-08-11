@@ -6,7 +6,7 @@ category: anime-manga
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-tokyo-東京漫畫咖啡廳與閱讀空間-御宅族的隱藏版朝聖地-e5cc0e.html
 published: 2026-06-24
-quality_score: 6.5
+quality_score: 8.5
 tags: 東京動漫, 漫畫咖啡廳, 御宅文化, 日本漫畫, 東京文化體驗
 license: CC BY 4.0
 ---

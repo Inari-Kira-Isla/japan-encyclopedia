@@ -6,7 +6,7 @@ category: sumo
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-okinawa-沖繩相撲-琉球王國的力士傳承與現代體驗-be20ed.html
 published: 2026-06-19
-quality_score: 6.5
+quality_score: 8.6
 tags: 沖繩相撲, 琉球武術, 手組, 相撲鍋, 沖繩文化體驗
 license: CC BY 4.0
 ---

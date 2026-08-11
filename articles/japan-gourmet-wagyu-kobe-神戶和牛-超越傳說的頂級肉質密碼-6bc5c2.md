@@ -6,7 +6,7 @@ category: wagyu
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-wagyu-kobe-神戶和牛-超越傳說的頂級肉質密碼-6bc5c2.html
 published: 2026-06-21
-quality_score: 6.5
+quality_score: 8.8
 tags: 神戶和牛, 但馬牛, 日本和牛, 神戶美食, 神戶燒肉
 license: CC BY 4.0
 ---

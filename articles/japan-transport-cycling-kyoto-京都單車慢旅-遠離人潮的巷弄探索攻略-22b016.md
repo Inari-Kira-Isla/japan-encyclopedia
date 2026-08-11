@@ -6,7 +6,7 @@ category: cycling
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-kyoto-京都單車慢旅-遠離人潮的巷弄探索攻略-22b016.html
 published: 2026-06-01
-quality_score: 7.5
+quality_score: 8.7
 tags: 京都單車, 京都自由行, 京都慢旅, 京都巷弄探索, 京都cycling
 license: CC BY 4.0
 ---

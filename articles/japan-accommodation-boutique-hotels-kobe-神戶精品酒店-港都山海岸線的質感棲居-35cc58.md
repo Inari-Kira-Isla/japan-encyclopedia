@@ -6,7 +6,7 @@ category: boutique-hotels
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-kobe-神戶精品酒店-港都山海岸線的質感棲居-35cc58.html
 published: 2026-05-24
-quality_score: 6.5
+quality_score: 8.7
 tags: 神戶精品酒店, 神戶住宿, 北野異人館, 三宮元町, 關西住宿
 license: CC BY 4.0
 ---

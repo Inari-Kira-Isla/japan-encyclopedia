@@ -6,7 +6,7 @@ category: sumo
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-tokyo-東京相撲-兩國的一天相撲生活提案-從晨間土俵到深夜火鍋-完整體驗墨田區的力士文化-bcc614.html
 published: 2026-06-13
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京相撲, 兩國國技館, 墨田區, 相撲火鍋, 日本傳統文化
 license: CC BY 4.0
 ---

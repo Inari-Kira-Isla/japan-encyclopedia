@@ -6,7 +6,7 @@ category: street-food
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-street-food-tokyo-東京晨間通勤美食-上班日前線的能量補給站-9199bc.html
 published: 2026-06-04
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京, 街頭美食, 通勤族, 朝食, 早餐
 license: CC BY 4.0
 ---

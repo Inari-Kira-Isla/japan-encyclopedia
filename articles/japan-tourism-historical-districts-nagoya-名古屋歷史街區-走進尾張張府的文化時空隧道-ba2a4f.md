@@ -6,7 +6,7 @@ category: historical-districts
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-nagoya-名古屋歷史街區-走進尾張張府的文化時空隧道-ba2a4f.html
 published: 2026-05-31
-quality_score: 6.5
+quality_score: 8.6
 tags: 名古屋歷史街區, 尾張藩, 城下町, 日本城堡, 名古屋城
 license: CC BY 4.0
 ---

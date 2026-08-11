@@ -6,7 +6,7 @@ category: department-stores
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-department-stores-nara-奈良寺町購物散步-千年古都的傳統商舖與在地好物-cd404c.html
 published: 2026-06-21
-quality_score: 7.5
+quality_score: 8.8
 tags: 奈良購物, 寺町散步, 古都伴手禮, 日本傳統工藝, 奈良一日遊
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: electronics
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-electronics-nagoya-名古屋電子產品購物指南-大須觀音商圈的中古電子寶藏-7ada6f.html
 published: 2026-06-15
-quality_score: 7.5
+quality_score: 8.8
 tags: 名古屋電子產品, 中古相機, 大須觀音, 名古屋購物, 日本中部電子產品
 license: CC BY 4.0
 ---

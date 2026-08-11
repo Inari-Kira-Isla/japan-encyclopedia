@@ -6,7 +6,7 @@ category: sumo
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-kyoto-京都相撲-古都神社與鄰近城市的相撲文化探訪-6e26d4.html
 published: 2026-05-25
-quality_score: 6.5
+quality_score: 8.6
 tags: 京都旅遊, 相撲文化, 關西旅行, 大阪相撲, 神戶相撲
 license: CC BY 4.0
 ---

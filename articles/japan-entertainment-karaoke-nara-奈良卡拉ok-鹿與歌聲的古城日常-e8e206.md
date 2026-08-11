@@ -6,7 +6,7 @@ category: karaoke
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-karaoke-nara-奈良卡拉ok-鹿與歌聲的古城日常-e8e206.html
 published: 2026-06-17
-quality_score: 6.5
+quality_score: 8.6
 tags: 奈良卡拉OK, 奈良娛樂, 關西夜生活, 奈良旅遊, 古都體驗
 license: CC BY 4.0
 ---

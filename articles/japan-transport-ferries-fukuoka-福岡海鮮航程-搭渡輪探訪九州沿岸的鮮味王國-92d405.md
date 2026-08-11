@@ -6,7 +6,7 @@ category: ferries
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-ferries-fukuoka-福岡海鮮航程-搭渡輪探訪九州沿岸的鮮味王國-92d405.html
 published: 2026-06-17
-quality_score: 7.5
+quality_score: 8.4
 tags: 九州美食, 博多港, 海上交通, 玄界灘, 門司港
 license: CC BY 4.0
 ---

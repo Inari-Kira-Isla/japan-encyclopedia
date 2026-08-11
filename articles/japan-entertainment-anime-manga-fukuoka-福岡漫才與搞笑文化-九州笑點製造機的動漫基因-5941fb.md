@@ -6,7 +6,7 @@ category: anime-manga
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-fukuoka-福岡漫才與搞笑文化-九州笑點製造機的動漫基因-5941fb.html
 published: 2026-06-12
-quality_score: 6.5
+quality_score: 8.7
 tags: 福岡, 漫才, 搞笑文化, 博多吃喝, 動漫教育
 license: CC BY 4.0
 ---

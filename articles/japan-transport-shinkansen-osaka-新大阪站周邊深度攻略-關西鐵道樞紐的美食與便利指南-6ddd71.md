@@ -6,7 +6,7 @@ category: shinkansen
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-osaka-新大阪站周邊深度攻略-關西鐵道樞紐的美食與便利指南-6ddd71.html
 published: 2026-06-05
-quality_score: 7.5
+quality_score: 8.6
 tags: 大阪交通, 新大阪站, 關西鐵道, JR Pass, 日本鐵道
 license: CC BY 4.0
 ---

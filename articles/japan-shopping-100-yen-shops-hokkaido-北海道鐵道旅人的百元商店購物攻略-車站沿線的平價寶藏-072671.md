@@ -6,7 +6,7 @@ category: 100-yen-shops
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-100-yen-shops-hokkaido-北海道鐵道旅人的百元商店購物攻略-車站沿線的平價寶藏-072671.html
 published: 2026-07-04
-quality_score: 7.5
+quality_score: 8.7
 tags: 北海道, 100円商店, 鐵道旅遊, JR北海道, 平價購物
 license: CC BY 4.0
 ---

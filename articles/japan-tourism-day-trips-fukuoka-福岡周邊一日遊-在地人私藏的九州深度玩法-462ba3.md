@@ -6,7 +6,7 @@ category: day-trips
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-fukuoka-福岡周邊一日遊-在地人私藏的九州深度玩法-462ba3.html
 published: 2026-06-18
-quality_score: 6.5
+quality_score: 8.8
 tags: 福岡一日遊, 九州自由行, 田川市, 門司港, 祐德稻荷
 license: CC BY 4.0
 ---

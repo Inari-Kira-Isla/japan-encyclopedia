@@ -6,7 +6,7 @@ category: yakitori
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-yakitori-tokyo-東京燒鳥-從庶民巷弄到米其林的階層美學-e6f0af.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京美食, 燒鳥文化, 日式居酒屋, 庶民美食, 高級料理
 license: CC BY 4.0
 ---

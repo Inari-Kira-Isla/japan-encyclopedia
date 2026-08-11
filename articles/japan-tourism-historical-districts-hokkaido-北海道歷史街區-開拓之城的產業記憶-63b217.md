@@ -6,7 +6,7 @@ category: historical-districts
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-hokkaido-北海道歷史街區-開拓之城的產業記憶-63b217.html
 published: 2026-05-25
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道, 歷史街區, 產業遺產, 小樽運河, 煤礦
 license: CC BY 4.0
 ---

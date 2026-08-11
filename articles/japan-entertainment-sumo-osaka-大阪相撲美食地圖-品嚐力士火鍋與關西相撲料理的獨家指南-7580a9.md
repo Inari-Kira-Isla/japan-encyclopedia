@@ -6,7 +6,7 @@ category: sumo
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-osaka-大阪相撲美食地圖-品嚐力士火鍋與關西相撲料理的獨家指南-7580a9.html
 published: 2026-06-08
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪相撲, 相撲火鍋, 力士料理, 關西美食, 大阪旅遊
 license: CC BY 4.0
 ---

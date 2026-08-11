@@ -6,7 +6,7 @@ category: kaiseki
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-kaiseki-fukuoka-博多的會席哲學-福岡在地廚人的旬味演繹-54c180.html
 published: 2026-06-02
-quality_score: 6.5
+quality_score: 8.8
 tags: 福岡會席, 博多料理, 玄海海產, 九州美食, 會席料理推薦
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: castle-towns
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-castle-towns-kyoto-京都的城堡城鎮-被遺忘的武家據點與隱藏的城下町散步-c9efcf.html
 published: 2026-06-07
-quality_score: 6.5
+quality_score: 8.7
 tags: 京都, 城下町, 歷史散步, 非主流景點, 武家遺產
 license: CC BY 4.0
 ---

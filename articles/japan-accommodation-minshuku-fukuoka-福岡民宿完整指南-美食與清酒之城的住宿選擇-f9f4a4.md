@@ -6,7 +6,7 @@ category: minshuku
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-fukuoka-福岡民宿完整指南-美食與清酒之城的住宿選擇-f9f4a4.html
 published: 2026-04-02
-quality_score: 6.5
+quality_score: 8.5
 tags: 福岡民宿, 九州住宿, 博多, 天神, 屋台文化
 license: CC BY 4.0
 ---

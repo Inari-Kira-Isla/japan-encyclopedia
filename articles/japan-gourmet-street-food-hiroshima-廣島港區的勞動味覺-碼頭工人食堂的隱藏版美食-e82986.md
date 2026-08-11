@@ -6,7 +6,7 @@ category: street-food
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-street-food-hiroshima-廣島港區的勞動味覺-碼頭工人食堂的隱藏版美食-e82986.html
 published: 2026-05-25
-quality_score: 6.5
+quality_score: 8.6
 tags: 廣島街頭美食, 碼頭工人食堂, 港口海鮮, 广岛电铁沿线, 庶民美食
 license: CC BY 4.0
 ---

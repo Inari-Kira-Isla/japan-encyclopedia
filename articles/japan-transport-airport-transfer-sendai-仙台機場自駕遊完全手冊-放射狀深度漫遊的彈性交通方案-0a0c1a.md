@@ -6,7 +6,7 @@ category: airport-transfer
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-airport-transfer-sendai-仙台機場自駕遊完全手冊-放射狀深度漫遊的彈性交通方案-0a0c1a.html
 published: 2026-07-02
-quality_score: 7.5
+quality_score: 8.7
 tags: 仙台機場, 租車自駕, 東北自駕遊, 放射狀旅遊, 秋保溫泉
 license: CC BY 4.0
 ---

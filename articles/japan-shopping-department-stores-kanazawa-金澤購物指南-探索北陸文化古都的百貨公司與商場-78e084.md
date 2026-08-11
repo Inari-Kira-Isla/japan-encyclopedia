@@ -6,7 +6,7 @@ category: department-stores
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-department-stores-kanazawa-金澤購物指南-探索北陸文化古都的百貨公司與商場-78e084.html
 published: 2026-06-26
-quality_score: 7.5
+quality_score: 8.5
 tags: 金澤購物, 石川縣, 日本百货公司, 傳統工藝, 金澤特產
 license: CC BY 4.0
 ---

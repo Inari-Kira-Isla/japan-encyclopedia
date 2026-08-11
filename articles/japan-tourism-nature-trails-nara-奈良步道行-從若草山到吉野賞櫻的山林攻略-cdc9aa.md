@@ -6,7 +6,7 @@ category: nature-trails
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-nara-奈良步道行-從若草山到吉野賞櫻的山林攻略-cdc9aa.html
 published: 2026-06-23
-quality_score: 6.5
+quality_score: 8.6
 tags: 奈良縣, 自然步道, 登山健行, 日本古都, 山林秘境
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: kabuki-theatre
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-kabuki-theatre-osaka-大阪歌舞伎劇場-關西風情中的平民化傳統藝術-2dc361.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.8
 tags: 大阪, 歌舞伎, 傳統表演, 關西文化, 道頓堀
 license: CC BY 4.0
 ---

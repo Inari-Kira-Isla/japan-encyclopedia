@@ -6,7 +6,7 @@ category: department-stores
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-department-stores-nara-奈良文青工藝散步-古都巷弄裡的設計師選物店與手作商店-4ade44.html
 published: 2026-06-06
-quality_score: 7.5
+quality_score: 8.7
 tags: 奈良購物, 日本工藝, 文青小店, 手作商店, 設計師選物
 license: CC BY 4.0
 ---

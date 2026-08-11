@@ -6,7 +6,7 @@ category: craft-markets
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-craft-markets-osaka-大阪工藝市集-撿漏-攻略-從百圓到骨董的價格獵人地圖-5f35dd.html
 published: 2026-06-18
-quality_score: 7.5
+quality_score: 8.7
 tags: 大阪, 手作市集, 骨董市集, 購物攻略, 價格指南
 license: CC BY 4.0
 ---

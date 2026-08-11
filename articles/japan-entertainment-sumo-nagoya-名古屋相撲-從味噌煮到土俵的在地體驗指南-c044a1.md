@@ -6,7 +6,7 @@ category: sumo
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-nagoya-名古屋相撲-從味噌煮到土俵的在地體驗指南-c044a1.html
 published: 2026-06-19
-quality_score: 6.5
+quality_score: 8.5
 tags: 名古屋相撲, 名古屋體驗, 日本相撲, 中部相撲, 名古屋娛樂
 license: CC BY 4.0
 ---

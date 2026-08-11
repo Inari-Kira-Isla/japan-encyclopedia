@@ -6,7 +6,7 @@ category: waterfront
 area: japan
 url: https://japan-encyclopedia.vercel.app/articles/japan-attractions-waterfront-東京灣岸地區完整指南2026-豐洲市場-有明-夢之島-東京灣區新興景點費用-jpy-攻略-jp-tok-4f8f45.html
 published: 2026-04-19
-quality_score: 7.6
+quality_score: 8.5
 tags: 東京灣岸, 豐洲市場, 有明Arena, 夢之島, 東京灣遊輪
 license: CC BY 4.0
 ---

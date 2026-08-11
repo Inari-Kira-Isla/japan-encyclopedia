@@ -6,7 +6,7 @@ category: street-food
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-street-food-hokkaido-北海道漁港時間學-清晨卸魚時段的街食密碼-9f335b.html
 published: 2026-06-24
-quality_score: 6.5
+quality_score: 8.6
 tags: 北海道, 街頭美食, 漁港, 海鮮, 清晨市場
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: garden-parks
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-kyoto-京都秘密花園-當地人私藏的療癒綠蔭-adba74.html
 published: 2026-05-22
-quality_score: 6.5
+quality_score: 8.8
 tags: 京都, 庭園, 散步, 秘密景點, 在地體驗
 license: CC BY 4.0
 ---

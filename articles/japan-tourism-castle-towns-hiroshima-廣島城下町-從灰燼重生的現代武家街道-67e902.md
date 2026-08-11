@@ -6,7 +6,7 @@ category: castle-towns
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-castle-towns-hiroshima-廣島城下町-從灰燼重生的現代武家街道-67e902.html
 published: 2026-04-06
-quality_score: 6.5
+quality_score: 8.7
 tags: 廣島, 城下町, 重建文化, 戰後復興, 武家建築
 license: CC BY 4.0
 ---

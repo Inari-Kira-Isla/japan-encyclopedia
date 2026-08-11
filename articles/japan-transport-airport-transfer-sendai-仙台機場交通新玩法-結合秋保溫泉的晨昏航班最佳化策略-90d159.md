@@ -6,7 +6,7 @@ category: airport-transfer
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-airport-transfer-sendai-仙台機場交通新玩法-結合秋保溫泉的晨昏航班最佳化策略-90d159.html
 published: 2026-07-01
-quality_score: 7.5
+quality_score: 8.7
 tags: 仙台機場, 秋保溫泉, 機場交通, 東北溫泉, 日歸溫泉
 license: CC BY 4.0
 ---

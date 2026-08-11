@@ -6,7 +6,7 @@ category: gaming-arcades
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-gaming-arcades-kanazawa-金澤遊戲中心-古鎮裡的復古遊戲時光-8637cc.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤ゲームセンター, 石川縣娛樂, 日本街機文化, 金澤自由行, 北陸遊戲廳
 license: CC BY 4.0
 ---

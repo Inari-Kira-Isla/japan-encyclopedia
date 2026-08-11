@@ -6,7 +6,7 @@ category: okonomiyaki
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-okonomiyaki-tokyo-東京御好燒-都會型態的演繹與推薦-507ad2.html
 published: 2026-06-11
-quality_score: 6.5
+quality_score: 8.9
 tags: 東京美食, 御好燒, 日本料理, 東京餐廳, 新宿
 license: CC BY 4.0
 ---

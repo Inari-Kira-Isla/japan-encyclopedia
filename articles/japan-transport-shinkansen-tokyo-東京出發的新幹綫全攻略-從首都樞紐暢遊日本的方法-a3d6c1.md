@@ -6,7 +6,7 @@ category: shinkansen
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-tokyo-東京出發的新幹綫全攻略-從首都樞紐暢遊日本的方法-a3d6c1.html
 published: 2026-06-01
-quality_score: 7.5
+quality_score: 8.6
 tags: 東京新幹綫, Tokyo Shinkansen, 日本鐵道, 東京交通, Japan Rail Pass
 license: CC BY 4.0
 ---

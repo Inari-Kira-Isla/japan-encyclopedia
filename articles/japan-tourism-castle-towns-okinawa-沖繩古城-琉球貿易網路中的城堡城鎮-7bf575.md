@@ -6,7 +6,7 @@ category: castle-towns
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-castle-towns-okinawa-沖繩古城-琉球貿易網路中的城堡城鎮-7bf575.html
 published: 2026-06-14
-quality_score: 6.5
+quality_score: 8.8
 tags: 沖繩古城, gusuku, 琉球王國, 首里城, 世界遺產
 license: CC BY 4.0
 ---

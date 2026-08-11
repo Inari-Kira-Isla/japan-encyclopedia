@@ -6,7 +6,7 @@ category: duty-free
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-duty-free-nagoya-名古屋工業風免稅購物-toyota故鄉的汽配玩具與在地好物-37d060.html
 published: 2026-06-27
-quality_score: 7.5
+quality_score: 8.6
 tags: 名古屋免稅, Toyota故鄉, 中部國際空港, 名古屋購物, 日本免稅攻略
 license: CC BY 4.0
 ---

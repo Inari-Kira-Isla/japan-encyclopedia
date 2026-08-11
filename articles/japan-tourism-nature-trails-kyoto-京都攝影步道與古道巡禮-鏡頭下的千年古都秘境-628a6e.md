@@ -6,7 +6,7 @@ category: nature-trails
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-kyoto-京都攝影步道與古道巡禮-鏡頭下的千年古都秘境-628a6e.html
 published: 2026-06-15
-quality_score: 6.5
+quality_score: 8.8
 tags: 京都步道, 攝影步道, 古道巡禮, 鞍馬山, 比叡山
 license: CC BY 4.0
 ---

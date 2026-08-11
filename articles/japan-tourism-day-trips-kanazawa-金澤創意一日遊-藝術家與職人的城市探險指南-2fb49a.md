@@ -6,7 +6,7 @@ category: day-trips
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-kanazawa-金澤創意一日遊-藝術家與職人的城市探險指南-2fb49a.html
 published: 2026-06-04
-quality_score: 6.5
+quality_score: 8.5
 tags: 金澤一日遊, 艺术工作坊, 金箔体验, 职人文化, 深度旅行
 license: CC BY 4.0
 ---

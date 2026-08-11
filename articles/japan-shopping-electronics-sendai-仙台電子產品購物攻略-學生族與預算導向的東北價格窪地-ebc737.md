@@ -6,7 +6,7 @@ category: electronics
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-electronics-sendai-仙台電子產品購物攻略-學生族與預算導向的東北價格窪地-ebc737.html
 published: 2026-06-28
-quality_score: 7.5
+quality_score: 8.9
 tags: 仙台電子產品, 東北購物, 日本電器行, 價格窪地, 學生購物
 license: CC BY 4.0
 ---

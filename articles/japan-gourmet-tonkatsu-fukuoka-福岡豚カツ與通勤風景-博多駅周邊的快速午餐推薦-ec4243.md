@@ -6,7 +6,7 @@ category: tonkatsu
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tonkatsu-fukuoka-福岡豚カツ與通勤風景-博多駅周邊的快速午餐推薦-ec4243.html
 published: 2026-06-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 九州美食, 炸猪排, 福冈, 快餐, 通勤美食
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: festivals-matsuri
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-festivals-matsuri-osaka-大阪四大祭典-商都人的狂歡dna-從官方祭祀到街頭自治的完整光譜-8f7135.html
 published: 2026-06-28
-quality_score: 6.5
+quality_score: 8.6
 tags: 大阪祭典, 天神祭, 岸和田花車祭, 關西祭典, 日本夏季祭典
 license: CC BY 4.0
 ---

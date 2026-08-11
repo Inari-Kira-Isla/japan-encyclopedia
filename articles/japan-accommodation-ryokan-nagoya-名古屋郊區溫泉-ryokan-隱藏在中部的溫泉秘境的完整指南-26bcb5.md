@@ -6,7 +6,7 @@ category: ryokan
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-nagoya-名古屋郊區溫泉-ryokan-隱藏在中部的溫泉秘境的完整指南-26bcb5.html
 published: 2026-05-24
-quality_score: 6.5
+quality_score: 8.5
 tags: 名古屋溫泉, 郊區溫泉, 三谷温泉, 蒲郡温泉, 一泊二食
 license: CC BY 4.0
 ---

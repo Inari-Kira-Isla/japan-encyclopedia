@@ -6,7 +6,7 @@ category: cycling
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-osaka-大阪美食單車之旅-踩著踏板吃遍大阪人的廚房-8d76da.html
 published: 2026-06-15
-quality_score: 7.5
+quality_score: 8.6
 tags: 大阪單車, 大阪美食, 大阪中央批發市場, 阿波座醬油街, 大阪深度旅遊
 license: CC BY 4.0
 ---

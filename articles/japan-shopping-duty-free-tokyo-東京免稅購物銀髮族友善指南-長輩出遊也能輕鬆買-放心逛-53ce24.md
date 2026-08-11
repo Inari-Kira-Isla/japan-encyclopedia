@@ -6,7 +6,7 @@ category: duty-free
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-duty-free-tokyo-東京免稅購物銀髮族友善指南-長輩出遊也能輕鬆買-放心逛-53ce24.html
 published: 2026-06-23
-quality_score: 7.5
+quality_score: 8.7
 tags: 東京免稅店, 銀髮族友善, 東京購物, 日本免稅, 長輩出遊
 license: CC BY 4.0
 ---

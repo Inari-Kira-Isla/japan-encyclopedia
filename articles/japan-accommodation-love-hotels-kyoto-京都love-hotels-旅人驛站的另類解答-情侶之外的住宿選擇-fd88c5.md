@@ -6,7 +6,7 @@ category: love-hotels
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-love-hotels-kyoto-京都love-hotels-旅人驛站的另類解答-情侶之外的住宿選擇-fd88c5.html
 published: 2026-05-22
-quality_score: 6.5
+quality_score: 8.7
 tags: 京都住宿, 京都自由行, 京都省钱住宿, 关西住宿推荐, Love Hotels
 license: CC BY 4.0
 ---

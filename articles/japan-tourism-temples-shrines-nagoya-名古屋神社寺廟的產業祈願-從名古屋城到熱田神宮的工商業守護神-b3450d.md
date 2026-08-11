@@ -6,7 +6,7 @@ category: temples-shrines
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-temples-shrines-nagoya-名古屋神社寺廟的產業祈願-從名古屋城到熱田神宮的工商業守護神-b3450d.html
 published: 2026-06-23
-quality_score: 6.5
+quality_score: 8.7
 tags: 名古屋, 神社, 寺廟, 熱田神宮, 名古屋城
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: street-food
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-street-food-osaka-大阪街頭美食の時刻表-從早市到深夜屋臺的關西味覺行-fec4ab.html
 published: 2026-05-22
-quality_score: 6.5
+quality_score: 8.8
 tags: 大阪, 街頭美食, 關西, 平民美食, 章魚燒
 license: CC BY 4.0
 ---

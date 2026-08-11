@@ -6,7 +6,7 @@ category: wagyu
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-wagyu-fukuoka-福岡和牛採購完全攻略-九州肉品集散中心的價效比優勢-80e09c.html
 published: 2026-03-28
-quality_score: 6.5
+quality_score: 8.7
 tags: 福岡美食, 九州和牛, 肉品採購, 性價比, 食材市場
 license: CC BY 4.0
 ---

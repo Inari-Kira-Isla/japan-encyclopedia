@@ -6,7 +6,7 @@ category: rental-cars
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-fukuoka-福岡租車完全攻略-九州自駕遊的門戶優勢與路線推薦-cfd52b.html
 published: 2026-06-05
-quality_score: 7.5
+quality_score: 8.6
 tags: 福岡租車, 九州自駕, 九州高速公路, 由布院租車, 阿蘇自駕遊
 license: CC BY 4.0
 ---

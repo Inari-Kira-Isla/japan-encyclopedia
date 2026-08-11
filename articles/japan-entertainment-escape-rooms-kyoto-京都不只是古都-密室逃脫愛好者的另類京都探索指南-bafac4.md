@@ -6,7 +6,7 @@ category: escape-rooms
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-escape-rooms-kyoto-京都不只是古都-密室逃脫愛好者的另類京都探索指南-bafac4.html
 published: 2026-06-02
-quality_score: 6.5
+quality_score: 8.7
 tags: 京都密室逃脫, 關西娛樂, 京都體驗, 京都不只是古都, 京都夜生活
 license: CC BY 4.0
 ---

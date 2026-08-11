@@ -6,7 +6,7 @@ category: scenic-routes
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-okinawa-沖繩雨中風景道路-雨中療癒系海岸兜風與室內人文之旅-e46784.html
 published: 2026-05-22
-quality_score: 6.5
+quality_score: 8.7
 tags: 冲绳雨天自驾, 冲绳风景区, 雨中旅行, 冲绳山原, 读谷村海岸
 license: CC BY 4.0
 ---

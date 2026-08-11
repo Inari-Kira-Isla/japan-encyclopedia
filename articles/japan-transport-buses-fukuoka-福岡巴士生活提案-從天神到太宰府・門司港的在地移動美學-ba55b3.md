@@ -6,7 +6,7 @@ category: buses
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-buses-fukuoka-福岡巴士生活提案-從天神到太宰府・門司港的在地移動美學-ba55b3.html
 published: 2026-06-16
-quality_score: 7.5
+quality_score: 8.7
 tags: 九州, 福岡, 巴士, 太宰府, 門司港
 license: CC BY 4.0
 ---

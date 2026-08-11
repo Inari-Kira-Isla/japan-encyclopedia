@@ -6,7 +6,7 @@ category: anime-manga
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-fukuoka-福岡動漫生活圈-當地人日常去的漫畫店與動漫小店-41b85e.html
 published: 2026-06-27
-quality_score: 6.5
+quality_score: 8.9
 tags: 福岡動漫, 博多漫畫店, 天神動漫, 二手漫畫, 漫畫咖啡廳
 license: CC BY 4.0
 ---

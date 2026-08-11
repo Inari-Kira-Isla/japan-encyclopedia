@@ -6,7 +6,7 @@ category: minshuku
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-hiroshima-廣島民宿完全指南-瀨戶內海單車國道沿線的島嶼慢旅住宿-19fc77.html
 published: 2026-06-03
-quality_score: 6.5
+quality_score: 8.6
 tags: 廣島民宿, 瀨戶內海單車國道, 島並海道, 日本慢旅, 日本單車旅行
 license: CC BY 4.0
 ---

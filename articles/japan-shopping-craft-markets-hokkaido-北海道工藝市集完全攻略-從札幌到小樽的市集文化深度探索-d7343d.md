@@ -6,7 +6,7 @@ category: craft-markets
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-craft-markets-hokkaido-北海道工藝市集完全攻略-從札幌到小樽的市集文化深度探索-d7343d.html
 published: 2026-03-29
-quality_score: 7.5
+quality_score: 8.6
 tags: 北海道, 工藝市集, 手作, 札幌, 小樽
 license: CC BY 4.0
 ---

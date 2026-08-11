@@ -6,7 +6,7 @@ category: gaming-arcades
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-gaming-arcades-nagoya-名古屋夜遊戲中心-情侶約會與夜間娛樂的完美攻略-a394e3.html
 published: 2026-06-05
-quality_score: 6.5
+quality_score: 8.6
 tags: 名古屋, 遊戲中心, 街機, 約會, 夜景
 license: CC BY 4.0
 ---

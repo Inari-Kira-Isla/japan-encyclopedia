@@ -6,7 +6,7 @@ category: theme-parks
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-theme-parks-sendai-仙台主題樂園四季巡禮-東北門戶的全年娛樂體驗-a8e87f.html
 published: 2026-04-06
-quality_score: 6.5
+quality_score: 8.7
 tags: 仙台主題樂園, 東北娛樂, 四季體驗, VR遊戲, 電競館
 license: CC BY 4.0
 ---

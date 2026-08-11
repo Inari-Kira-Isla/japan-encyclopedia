@@ -6,7 +6,7 @@ category: castle-towns
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-castle-towns-fukuoka-福岡城下町-九州霸主的武家風華與商都繁華-3a66de.html
 published: 2026-07-02
-quality_score: 6.5
+quality_score: 8.9
 tags: 福岡城下町, 福岡城, 黑田氏, 九州歷史, 武家文化
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: garden-parks
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-kyoto-京都晨霧花園-當地人的寧靜綠洲與清晨散步美學-8d0836.html
 published: 2026-06-30
-quality_score: 6.5
+quality_score: 8.5
 tags: 京都, 花園, 公園, 散步, 櫻花
 license: CC BY 4.0
 ---

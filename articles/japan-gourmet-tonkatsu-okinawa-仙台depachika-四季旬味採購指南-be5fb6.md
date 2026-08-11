@@ -6,7 +6,7 @@ category: tonkatsu
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tonkatsu-okinawa-仙台depachika-四季旬味採購指南-be5fb6.html
 published: 2026-05-24
-quality_score: 6.5
+quality_score: 8.7
 tags: 仙台, Depachika, 東北食材, 季節限定,  depachika
 license: CC BY 4.0
 ---

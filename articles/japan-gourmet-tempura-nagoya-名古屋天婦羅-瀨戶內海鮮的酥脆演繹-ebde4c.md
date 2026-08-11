@@ -6,7 +6,7 @@ category: tempura
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tempura-nagoya-名古屋天婦羅-瀨戶內海鮮的酥脆演繹-ebde4c.html
 published: 2026-06-08
-quality_score: 6.5
+quality_score: 8.7
 tags: 名古屋美食, 天婦羅, 中部國際機場, 伊勢灣, 日本料理
 license: CC BY 4.0
 ---

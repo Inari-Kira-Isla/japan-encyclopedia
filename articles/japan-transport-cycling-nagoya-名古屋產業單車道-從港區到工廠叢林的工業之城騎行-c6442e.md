@@ -6,7 +6,7 @@ category: cycling
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-nagoya-名古屋產業單車道-從港區到工廠叢林的工業之城騎行-c6442e.html
 published: 2026-06-18
-quality_score: 7.5
+quality_score: 8.7
 tags: 名古屋單車, 產業之旅, 港區騎行, 工業城市, 非觀光路線
 license: CC BY 4.0
 ---

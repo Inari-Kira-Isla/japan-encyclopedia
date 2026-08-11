@@ -6,7 +6,7 @@ category: craft-markets
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-craft-markets-kanazawa-金澤工藝購物指南-発見加賀百萬石之美的職人好物-08509c.html
 published: 2026-06-01
-quality_score: 7.5
+quality_score: 8.7
 tags: 金澤購物, 石川手工艺品, 九谷燒, 日本金箔, 金澤伴手禮
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: onsen
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-onsen-kyoto-京都溫泉-從古都出發的溫泉一日遊完全指南-2d8fa6.html
 published: 2026-06-16
-quality_score: 6.5
+quality_score: 8.7
 tags: 京都溫泉, 關西溫泉, 城崎溫泉, 雄琴溫泉, 有馬溫泉
 license: CC BY 4.0
 ---

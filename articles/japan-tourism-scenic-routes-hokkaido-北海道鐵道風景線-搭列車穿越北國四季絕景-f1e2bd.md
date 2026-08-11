@@ -6,7 +6,7 @@ category: scenic-routes
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-hokkaido-北海道鐵道風景線-搭列車穿越北國四季絕景-f1e2bd.html
 published: 2026-06-08
-quality_score: 6.5
+quality_score: 8.8
 tags: 北海道, 鐵道旅行, 風景名勝, 富良野, 美瑛
 license: CC BY 4.0
 ---

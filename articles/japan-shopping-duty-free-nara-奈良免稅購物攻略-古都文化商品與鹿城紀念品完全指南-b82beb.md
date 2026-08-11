@@ -6,7 +6,7 @@ category: duty-free
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-duty-free-nara-奈良免稅購物攻略-古都文化商品與鹿城紀念品完全指南-b82beb.html
 published: 2026-03-27
-quality_score: 7.5
+quality_score: 8.7
 tags: 奈良免稅, 古都購物, 鹿文化商品, 日本免稅, 關西購物
 license: CC BY 4.0
 ---

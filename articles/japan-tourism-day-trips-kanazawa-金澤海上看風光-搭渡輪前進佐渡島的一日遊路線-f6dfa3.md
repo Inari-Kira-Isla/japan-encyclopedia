@@ -6,7 +6,7 @@ category: day-trips
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-kanazawa-金澤海上看風光-搭渡輪前進佐渡島的一日遊路線-f6dfa3.html
 published: 2026-06-07
-quality_score: 6.5
+quality_score: 8.9
 tags: 金澤一日遊, 佐渡島, 盆舟體驗, 佐渡金山, 日本海
 license: CC BY 4.0
 ---

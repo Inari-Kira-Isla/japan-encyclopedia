@@ -6,7 +6,7 @@ category: ski-resorts
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-ski-resorts-kobe-神戶出發一日滑雪-關西洋區高cp值輕旅行提案-3eb0f3.html
 published: 2026-05-23
-quality_score: 6.5
+quality_score: 8.6
 tags: 神戶滑雪, 關西滑雪, 一日滑雪, 日本滑雪自由行, 滑雪CP值
 license: CC BY 4.0
 ---

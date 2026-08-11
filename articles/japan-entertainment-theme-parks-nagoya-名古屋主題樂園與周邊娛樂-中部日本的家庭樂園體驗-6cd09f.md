@@ -6,7 +6,7 @@ category: theme-parks
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-theme-parks-nagoya-名古屋主題樂園與周邊娛樂-中部日本的家庭樂園體驗-6cd09f.html
 published: 2026-06-08
-quality_score: 6.5
+quality_score: 8.8
 tags: 名古屋主題樂園, LEGO LAND Nagoya, 中部日本家庭遊, Fuji-Q Highland, 名古屋親子遊
 license: CC BY 4.0
 ---

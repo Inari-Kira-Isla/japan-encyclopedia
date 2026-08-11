@@ -6,7 +6,7 @@ category: shinkansen
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-kobe-從新大阪搭乘shinkansen前往神戶-關西高效移動指南-33fd4a.html
 published: 2026-06-09
-quality_score: 7.5
+quality_score: 8.9
 tags: 神戶交通, 關西旅行, 山陽新干线, 新大阪到神戶, JR Pass
 license: CC BY 4.0
 ---

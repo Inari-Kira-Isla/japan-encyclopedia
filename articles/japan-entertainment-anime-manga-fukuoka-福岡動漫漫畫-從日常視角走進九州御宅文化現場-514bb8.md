@@ -6,7 +6,7 @@ category: anime-manga
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-fukuoka-福岡動漫漫畫-從日常視角走進九州御宅文化現場-514bb8.html
 published: 2026-06-08
-quality_score: 6.5
+quality_score: 8.6
 tags: 福岡動漫, 九州御宅文化, 福岡漫畫, 遊戲中心, 密室逃脫
 license: CC BY 4.0
 ---

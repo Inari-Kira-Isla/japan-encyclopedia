@@ -6,7 +6,7 @@ category: capsule-hotels
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-capsule-hotels-hiroshima-廣島膠囊旅館完整指南-和平之城的揹包客住宿首選-bfe40a.html
 published: 2026-07-02
-quality_score: 6.5
+quality_score: 8.7
 tags: 廣島膠囊旅館, 廣島住宿, 日本背包客住宿, 和平紀念城市, 廣島燒
 license: CC BY 4.0
 ---

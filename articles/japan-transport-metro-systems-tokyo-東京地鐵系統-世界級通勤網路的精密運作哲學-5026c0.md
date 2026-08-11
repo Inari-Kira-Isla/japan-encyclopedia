@@ -6,7 +6,7 @@ category: metro-systems
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-tokyo-東京地鐵系統-世界級通勤網路的精密運作哲學-5026c0.html
 published: 2026-04-06
-quality_score: 7.5
+quality_score: 8.8
 tags: 東京交通, 地鐵系統, 都市規劃, 通勤文化, 交通效率
 license: CC BY 4.0
 ---

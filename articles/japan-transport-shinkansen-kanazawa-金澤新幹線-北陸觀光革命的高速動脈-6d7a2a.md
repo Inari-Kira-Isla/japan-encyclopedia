@@ -6,7 +6,7 @@ category: shinkansen
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-kanazawa-金澤新幹線-北陸觀光革命的高速動脈-6d7a2a.html
 published: 2026-04-06
-quality_score: 7.5
+quality_score: 8.8
 tags: 金澤, 北陸新幹線, 交通指南, 一日遊, 石川県
 license: CC BY 4.0
 ---

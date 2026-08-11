@@ -6,7 +6,7 @@ category: rental-cars
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-kobe-神戶租車美食深度遊-沿海岸線尋訪關西極致鮮味-6e3ae3.html
 published: 2026-06-26
-quality_score: 7.5
+quality_score: 8.4
 tags: 神戶租車, 神戶自駕遊, 灘五鄉清酒, 明石海峽, 關西美食
 license: CC BY 4.0
 ---

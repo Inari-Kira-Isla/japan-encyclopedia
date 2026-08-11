@@ -6,7 +6,7 @@ category: regional-guide
 area: japan
 url: https://japan-encyclopedia.vercel.app/articles/japan-attractions-regional-guide-nagasaki-完整旅遊指南2026-出島-軍艦島-稻佐山夜景-江戶時代唯一對外開放港口費用-43f505.html
 published: 2026-04-05
-quality_score: 7.6
+quality_score: 8.6
 tags:  Nagasaki 旅遊, 軍艦島, 出島,  Nagasaki 夜景, 稻佐山
 license: CC BY 4.0
 ---

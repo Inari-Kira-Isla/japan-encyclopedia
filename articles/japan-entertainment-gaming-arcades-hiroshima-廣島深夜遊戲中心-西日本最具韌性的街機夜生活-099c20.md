@@ -6,7 +6,7 @@ category: gaming-arcades
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-gaming-arcades-hiroshima-廣島深夜遊戲中心-西日本最具韌性的街機夜生活-099c20.html
 published: 2026-04-04
-quality_score: 6.5
+quality_score: 8.8
 tags: 廣島, 遊戲中心, 深夜娛樂, 街機文化, 電玩
 license: CC BY 4.0
 ---

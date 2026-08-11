@@ -6,7 +6,7 @@ category: business-hotels
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-business-hotels-tokyo-東京商務酒店不完全指南-中上位商務人士的機能型住宿選擇-825742.html
 published: 2026-05-24
-quality_score: 6.5
+quality_score: 8.4
 tags: 東京商務住宿, 商務酒店, 東京出差住宿, 機能型住宿, 日本商旅指南
 license: CC BY 4.0
 ---

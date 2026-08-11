@@ -6,7 +6,7 @@ category: business-hotels
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-business-hotels-sendai-仙台商務住宿新選擇-國分町週邊小規模酒店的在地魅力-f7d8b8.html
 published: 2026-05-25
-quality_score: 6.5
+quality_score: 8.7
 tags: 仙台商務住宿, 国分町, 日本東北, 商務酒店推薦, 小規模酒店
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: festivals-matsuri
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-festivals-matsuri-fukuoka-福岡祭典深度攻略-在地人帶路的精神盛典與社群狂歡-6b4f21.html
 published: 2026-06-30
-quality_score: 6.5
+quality_score: 8.8
 tags: 福岡, 博多祇園山笠, 祭典, 日本祭典, 在地體驗
 license: CC BY 4.0
 ---

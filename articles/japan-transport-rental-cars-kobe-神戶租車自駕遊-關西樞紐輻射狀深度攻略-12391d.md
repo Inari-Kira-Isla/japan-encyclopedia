@@ -6,7 +6,7 @@ category: rental-cars
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-kobe-神戶租車自駕遊-關西樞紐輻射狀深度攻略-12391d.html
 published: 2026-05-23
-quality_score: 7.5
+quality_score: 8.4
 tags: 神戶租車, 關西自駕, 六甲山, 有馬溫泉, 姬路城
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: garden-parks
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-kanazawa-金澤自然生態公園-加賀百萬石城的生態教育與四季物語-240139.html
 published: 2026-06-07
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤公園, 生態教育, 物候觀察, 自然步道, 石川縣
 license: CC BY 4.0
 ---

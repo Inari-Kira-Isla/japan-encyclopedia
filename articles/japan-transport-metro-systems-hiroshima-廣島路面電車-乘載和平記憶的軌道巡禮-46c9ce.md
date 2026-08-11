@@ -6,7 +6,7 @@ category: metro-systems
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-hiroshima-廣島路面電車-乘載和平記憶的軌道巡禮-46c9ce.html
 published: 2026-06-06
-quality_score: 7.5
+quality_score: 8.6
 tags: 廣島路面電車, 廣島電鐵, 日本軌道交通, 和平紀念, 廣島觀光
 license: CC BY 4.0
 ---

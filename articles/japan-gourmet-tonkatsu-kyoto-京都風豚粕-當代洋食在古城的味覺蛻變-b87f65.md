@@ -6,7 +6,7 @@ category: tonkatsu
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tonkatsu-kyoto-京都風豚粕-當代洋食在古城的味覺蛻變-b87f65.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 8.6
 tags: 京都美食, とんかつ, 炸豬排, 京都洋食, 日本料理
 license: CC BY 4.0
 ---

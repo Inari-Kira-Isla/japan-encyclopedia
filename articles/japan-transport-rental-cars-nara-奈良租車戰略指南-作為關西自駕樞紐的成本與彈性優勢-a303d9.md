@@ -6,7 +6,7 @@ category: rental-cars
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-nara-奈良租車戰略指南-作為關西自駕樞紐的成本與彈性優勢-a303d9.html
 published: 2026-07-03
-quality_score: 7.5
+quality_score: 8.5
 tags: 奈良租車, 關西自駕, 日本自由行, 奈良旅遊, 自駕攻略
 license: CC BY 4.0
 ---

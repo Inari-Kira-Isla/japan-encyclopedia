@@ -6,7 +6,7 @@ category: temples-shrines
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-temples-shrines-nara-奈良晨間寺院巡禮-避開人潮的深度導覽攻略-d022fe.html
 published: 2026-05-22
-quality_score: 6.5
+quality_score: 8.5
 tags: 奈良寺院, 奈良神社, 奈良旅遊, 宗教文化, 世界遺產
 license: CC BY 4.0
 ---

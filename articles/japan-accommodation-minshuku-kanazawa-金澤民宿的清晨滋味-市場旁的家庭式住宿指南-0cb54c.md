@@ -6,7 +6,7 @@ category: minshuku
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-kanazawa-金澤民宿的清晨滋味-市場旁的家庭式住宿指南-0cb54c.html
 published: 2026-06-03
-quality_score: 6.5
+quality_score: 8.6
 tags: 金澤民宿, 近江町市場, 加賀料理, 北陸住宿, 城下町體驗
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: sumo
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-fukuoka-福岡相撲火鍋-品嚐力士的日常美味-2c5cbf.html
 published: 2026-04-07
-quality_score: 6.5
+quality_score: 8.7
 tags: 福岡相扑, 相扑火鍋, 博多吃文化, 九州場所, 水炊き
 license: CC BY 4.0
 ---

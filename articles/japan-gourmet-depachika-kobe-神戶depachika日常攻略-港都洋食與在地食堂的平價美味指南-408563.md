@@ -6,7 +6,7 @@ category: depachika
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-depachika-kobe-神戶depachika日常攻略-港都洋食與在地食堂的平價美味指南-408563.html
 published: 2026-07-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 神戶美食, Depachika, 地下美食街, 洋食, 神戶牛
 license: CC BY 4.0
 ---

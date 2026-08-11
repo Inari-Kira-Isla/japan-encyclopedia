@@ -6,7 +6,7 @@ category: ramen
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-ramen-sendai-仙台拉麵-太平洋黑潮孕育的魚介系拉麵秘境-ab68bf.html
 published: 2026-06-30
-quality_score: 6.5
+quality_score: 8.8
 tags: 仙台拉麵, 魚介系拉麵, 日本東北拉麵, 太平洋黑潮, 蛤蜊拉麵
 license: CC BY 4.0
 ---

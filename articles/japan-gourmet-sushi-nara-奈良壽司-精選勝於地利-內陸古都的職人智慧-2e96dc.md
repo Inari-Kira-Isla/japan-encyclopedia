@@ -6,7 +6,7 @@ category: sushi
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sushi-nara-奈良壽司-精選勝於地利-內陸古都的職人智慧-2e96dc.html
 published: 2026-03-23
-quality_score: 6.5
+quality_score: 8.5
 tags: 奈良, 壽司, 握壽司, 日本美食, 古都文化
 license: CC BY 4.0
 ---

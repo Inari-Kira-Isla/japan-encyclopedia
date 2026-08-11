@@ -6,7 +6,7 @@ category: izakaya
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-izakaya-nagoya-名古屋-散開花-居酒屋文化-體驗在地人一夜多店的獨特飲酒的學問-295568.html
 published: 2026-07-03
-quality_score: 6.5
+quality_score: 8.7
 tags: 名古屋居酒屋, 散开花, 日本居酒屋, 名古屋夜生活, 名古屋美食
 license: CC BY 4.0
 ---

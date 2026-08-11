@@ -6,7 +6,7 @@ category: ski-resorts
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-ski-resorts-nagoya-名古屋周邊滑雪場-一日遊與短程度假的實用選擇指南-a994b3.html
 published: 2026-06-23
-quality_score: 6.5
+quality_score: 8.5
 tags: 名古屋滑雪場, 中部日本滑雪, 一日滑雪推薦, 岐阜滑雪場, 長野滑雪場
 license: CC BY 4.0
 ---

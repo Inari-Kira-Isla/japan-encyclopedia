@@ -6,7 +6,7 @@ category: jr-pass
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-jr-pass-kobe-神戶交通攻略-如何用jr周遊券玩轉關西北部樞紐-2b45f4.html
 published: 2026-04-04
-quality_score: 7.5
+quality_score: 8.6
 tags: 神戶交通, JR Pass攻略, 關西周遊券, 神戶自由行, 關西北部
 license: CC BY 4.0
 ---

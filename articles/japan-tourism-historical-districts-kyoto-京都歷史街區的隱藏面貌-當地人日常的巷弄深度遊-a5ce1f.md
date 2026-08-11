@@ -6,7 +6,7 @@ category: historical-districts
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-kyoto-京都歷史街區的隱藏面貌-當地人日常的巷弄深度遊-a5ce1f.html
 published: 2026-06-24
-quality_score: 6.5
+quality_score: 8.7
 tags: 京都, 歷史街區, 西陣, 島原, 伏見
 license: CC BY 4.0
 ---

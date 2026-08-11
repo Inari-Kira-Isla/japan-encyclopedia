@@ -6,7 +6,7 @@ category: boutique-hotels
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-tokyo-東京巷弄裡的隱市精品-走進下北澤與代官山的設計日常-d81b92.html
 published: 2026-06-15
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京精品酒店, 下北澤住宿, 代官山酒店, 東京設計住宿, 東京巷弄住宿
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: cycling
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-nara-奈良深度騎行-在地人私藏的非觀光路線與日常風景-a94bd3.html
 published: 2026-06-01
-quality_score: 7.5
+quality_score: 8.5
 tags: 奈良單車, 奈良自由行, 奈良深度遊, 關西單車遊, 奈良景點
 license: CC BY 4.0
 ---

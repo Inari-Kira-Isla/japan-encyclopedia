@@ -6,7 +6,7 @@ category: electronics
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-electronics-fukuoka-福岡電子產品購物指南-九州科技消費的核心樞紐-fdf18b-1781016981.html
 published: 2026-06-09
-quality_score: 7.5
+quality_score: 8.8
 tags: 福岡電子產品, 九州購物, 博多名店, 天神電器, 日本電子產品
 license: CC BY 4.0
 ---

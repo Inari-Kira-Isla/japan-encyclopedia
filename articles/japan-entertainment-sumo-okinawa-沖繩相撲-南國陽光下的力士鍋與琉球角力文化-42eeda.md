@@ -6,7 +6,7 @@ category: sumo
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-okinawa-沖繩相撲-南國陽光下的力士鍋與琉球角力文化-42eeda.html
 published: 2026-06-26
-quality_score: 6.5
+quality_score: 8.7
 tags: 沖繩相撲, 相撲鍋, 琉球角力, 沖繩美食, 那霸體驗
 license: CC BY 4.0
 ---

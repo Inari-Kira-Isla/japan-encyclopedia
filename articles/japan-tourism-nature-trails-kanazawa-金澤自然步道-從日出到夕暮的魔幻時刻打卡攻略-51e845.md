@@ -6,7 +6,7 @@ category: nature-trails
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-kanazawa-金澤自然步道-從日出到夕暮的魔幻時刻打卡攻略-51e845.html
 published: 2026-06-04
-quality_score: 6.5
+quality_score: 8.8
 tags: 金澤自然步道, 日出景點, 楓葉秘境, 攝影攻略, 免费景点
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: boutique-hotels
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-kyoto-京都精品酒店-承繼旅館文化的現代雅居-a82a88.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.5
 tags: 京都精品酒店, 町屋建築, 日本文化體驗, 懷石料理, 茶道體驗
 license: CC BY 4.0
 ---

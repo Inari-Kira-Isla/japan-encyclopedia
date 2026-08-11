@@ -6,7 +6,7 @@ category: sushi
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sushi-tokyo-東京街場壽司-巷弄裡的職人味-e06b7f.html
 published: 2026-06-07
-quality_score: 6.5
+quality_score: 8.5
 tags: 東京壽司, 街場鮨, 江戶前壽司, 中目黑, 下北澤
 license: CC BY 4.0
 ---

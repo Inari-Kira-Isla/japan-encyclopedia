@@ -6,7 +6,7 @@ category: island-hopping
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-island-hopping-hokkaido-北海道跳島溫泉之旅-遠離塵囂的島嶼湯治體驗-8a99bd.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道, 跳島旅遊, 溫泉, 離島, 利尻島
 license: CC BY 4.0
 ---

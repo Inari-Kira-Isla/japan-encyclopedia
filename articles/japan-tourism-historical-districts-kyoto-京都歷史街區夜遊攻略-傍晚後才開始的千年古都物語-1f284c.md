@@ -6,7 +6,7 @@ category: historical-districts
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-kyoto-京都歷史街區夜遊攻略-傍晚後才開始的千年古都物語-1f284c.html
 published: 2026-06-27
-quality_score: 6.5
+quality_score: 8.9
 tags: 京都, 歷史街區, 夜遊, 祇園, 先斗町
 license: CC BY 4.0
 ---

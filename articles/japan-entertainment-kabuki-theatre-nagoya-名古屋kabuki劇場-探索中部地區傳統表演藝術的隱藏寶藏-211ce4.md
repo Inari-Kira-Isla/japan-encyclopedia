@@ -6,7 +6,7 @@ category: kabuki-theatre
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-kabuki-theatre-nagoya-名古屋kabuki劇場-探索中部地區傳統表演藝術的隱藏寶藏-211ce4.html
 published: 2026-07-04
-quality_score: 6.5
+quality_score: 8.8
 tags: 名古屋Kabuki, 名古屋傳統表演藝術, 中部地區文化, 日本Kabuki體驗, 名古屋旅遊
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: yakitori
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-yakitori-osaka-大阪燒鳥-關西平民美食的深夜文化-35598c.html
 published: 2026-04-02
-quality_score: 6.5
+quality_score: 8.9
 tags: 大阪, 燒鳥, 關西美食, 庶民料理, 深夜食堂
 license: CC BY 4.0
 ---

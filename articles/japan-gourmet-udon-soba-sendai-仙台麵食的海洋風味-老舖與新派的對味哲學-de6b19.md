@@ -6,7 +6,7 @@ category: udon-soba
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-udon-soba-sendai-仙台麵食的海洋風味-老舖與新派的對味哲學-de6b19.html
 published: 2026-05-22
-quality_score: 6.5
+quality_score: 8.6
 tags: 仙台美食, 烏龍麵, 蕎麥麵, 東北料理, 日本海鮮
 license: CC BY 4.0
 ---

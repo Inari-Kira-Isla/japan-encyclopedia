@@ -6,7 +6,7 @@ category: nature-trails
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-okinawa-沖繩自然步道完全攻略-穿越熱帶秘林的生態探險之旅-f6f09b.html
 published: 2026-06-03
-quality_score: 6.5
+quality_score: 8.7
 tags: 沖繩步道, 亞熱帶森林, 生態旅遊, 山原, 徒步攻略
 license: CC BY 4.0
 ---

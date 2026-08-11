@@ -6,7 +6,7 @@ category: vintage-thrift
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-vintage-thrift-nagoya-名古屋古著尋寶-中京工業帶的復古時尚探索-defdeb.html
 published: 2026-06-02
-quality_score: 7.5
+quality_score: 8.8
 tags: 名古屋古著, vintage shopping, 日本購物, 中部國際空港, 古著推薦
 license: CC BY 4.0
 ---

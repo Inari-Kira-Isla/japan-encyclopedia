@@ -6,7 +6,7 @@ category: electronics
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-electronics-hokkaido-北海道電子產品採購指南-低溫電子學在地的秘密-806131.html
 published: 2026-05-31
-quality_score: 7.5
+quality_score: 8.8
 tags: 北海道電子產品, 札幌電器店, 低溫電子學, 旭川電器, 日本電器採購
 license: CC BY 4.0
 ---

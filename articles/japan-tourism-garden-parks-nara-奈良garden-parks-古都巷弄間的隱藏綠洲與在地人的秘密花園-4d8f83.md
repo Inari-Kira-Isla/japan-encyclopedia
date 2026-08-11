@@ -6,7 +6,7 @@ category: garden-parks
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-nara-奈良garden-parks-古都巷弄間的隱藏綠洲與在地人的秘密花園-4d8f83.html
 published: 2026-05-21
-quality_score: 6.5
+quality_score: 8.3
 tags: 奈良花園, 奈良公園, 日本古都, 自然療癒, 隱藏景點
 license: CC BY 4.0
 ---

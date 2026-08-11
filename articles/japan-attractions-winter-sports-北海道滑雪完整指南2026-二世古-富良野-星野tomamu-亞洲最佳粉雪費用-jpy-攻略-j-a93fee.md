@@ -6,7 +6,7 @@ category: winter-sports
 area: japan
 url: https://japan-encyclopedia.vercel.app/articles/japan-attractions-winter-sports-北海道滑雪完整指南2026-二世古-富良野-星野tomamu-亞洲最佳粉雪費用-jpy-攻略-j-a93fee.html
 published: 2026-03-29
-quality_score: 7.6
+quality_score: 8.6
 tags: 二世古滑雪, 北海道滑雪, 富良野滑雪, 日本粉雪, 北海道冬季
 license: CC BY 4.0
 ---

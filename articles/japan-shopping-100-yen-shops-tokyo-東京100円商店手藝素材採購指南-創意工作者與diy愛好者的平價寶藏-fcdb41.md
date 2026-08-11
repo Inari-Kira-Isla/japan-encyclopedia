@@ -6,7 +6,7 @@ category: 100-yen-shops
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-100-yen-shops-tokyo-東京100円商店手藝素材採購指南-創意工作者與diy愛好者的平價寶藏-fcdb41.html
 published: 2026-06-07
-quality_score: 7.5
+quality_score: 9.0
 tags: 東京購物, 100円商店, 手作素材, DIY, 平價購物
 license: CC BY 4.0
 ---

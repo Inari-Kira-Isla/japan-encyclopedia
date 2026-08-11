@@ -6,7 +6,7 @@ category: garden-parks
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-sendai-仙台庭園散步-東北小城的綠意的散步地圖-6bb9d1.html
 published: 2026-05-23
-quality_score: 6.5
+quality_score: 8.6
 tags: 仙台, 東北小旅行, 公園散步, 免費景點, 銀杏
 license: CC BY 4.0
 ---

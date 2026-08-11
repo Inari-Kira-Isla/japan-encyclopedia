@@ -6,7 +6,7 @@ category: festivals-matsuri
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-festivals-matsuri-sendai-sendai-festivals-matsuri-8f9678-1779506161.html
 published: 2026-05-23
-quality_score: 6.5
+quality_score: 7.5
 tags: festivals-matsuri, sendai, japan
 license: CC BY 4.0
 ---

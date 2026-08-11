@@ -6,7 +6,7 @@ category: souvenir-omiyage
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-souvenir-omiyage-hokkaido-北海道伴手禮終極攻略-機場與周邊必訪的採購聖地-41ebe1.html
 published: 2026-07-01
-quality_score: 7.5
+quality_score: 8.9
 tags: 北海道伴手禮, 新千歲機場, 札幌車站, 小樽, 旭川拉麵
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: duty-free
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-duty-free-okinawa-沖繩自駕旅客免稅購物攻略-非機場版本的在地購物體驗-09b1af.html
 published: 2026-07-03
-quality_score: 7.5
+quality_score: 8.8
 tags: 沖繩免稅購物, 自駕旅遊, 讀谷村陶器, 山原特產, 沖繩伴手禮
 license: CC BY 4.0
 ---

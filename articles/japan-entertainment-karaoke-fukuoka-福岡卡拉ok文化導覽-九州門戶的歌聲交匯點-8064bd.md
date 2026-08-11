@@ -6,7 +6,7 @@ category: karaoke
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-karaoke-fukuoka-福岡卡拉ok文化導覽-九州門戶的歌聲交匯點-8064bd.html
 published: 2026-04-04
-quality_score: 6.5
+quality_score: 8.7
 tags: 福岡娛樂, 九州文化, 亞洲交流, 博多夜生活, 多元音樂
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: anime-manga
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-hiroshima-廣島動漫創作地圖-創作者視角的御宅角落-325463.html
 published: 2026-05-21
-quality_score: 6.5
+quality_score: 8.7
 tags: 廣島動漫, 廣島御宅, 動漫創作, 同人誌, 日本動漫文化
 license: CC BY 4.0
 ---

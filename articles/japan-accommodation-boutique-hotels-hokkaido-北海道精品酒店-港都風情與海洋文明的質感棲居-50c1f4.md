@@ -6,7 +6,7 @@ category: boutique-hotels
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-hokkaido-北海道精品酒店-港都風情與海洋文明的質感棲居-50c1f4.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道, 精品酒店, 港都, 海洋文化, 小樽
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: temples-shrines
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-temples-shrines-fukuoka-福岡寺廟神社完全指南-九州能量聖地的神聖巡禮-f9498d.html
 published: 2026-05-31
-quality_score: 6.5
+quality_score: 8.7
 tags: 福岡寺廟, 福岡神社, 太宰府天滿宮, 九州宗教, 博多名所
 license: CC BY 4.0
 ---

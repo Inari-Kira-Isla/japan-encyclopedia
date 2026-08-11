@@ -6,7 +6,7 @@ category: nightlife
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-hokkaido-北海道深夜食堂-雪國的人情味宵夜場-32bb5a.html
 published: 2026-06-05
-quality_score: 6.5
+quality_score: 8.9
 tags: 北海道夜生活, 札幌深夜食堂, 北海道拉麵, 雪國宵夜, 北海道海鮮
 license: CC BY 4.0
 ---

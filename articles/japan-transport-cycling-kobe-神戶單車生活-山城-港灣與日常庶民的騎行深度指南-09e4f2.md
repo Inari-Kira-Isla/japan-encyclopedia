@@ -6,7 +6,7 @@ category: cycling
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-kobe-神戶單車生活-山城-港灣與日常庶民的騎行深度指南-09e4f2.html
 published: 2026-06-21
-quality_score: 7.5
+quality_score: 8.6
 tags: 神戶單車, 神戶騎行, 六甲山單車, 神戶深度旅遊, 神戶坡道
 license: CC BY 4.0
 ---

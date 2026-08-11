@@ -6,7 +6,7 @@ category: ramen
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-ramen-nara-奈良拉麵-古都佛味與現代麵食的靜謐融合-5ebdae.html
 published: 2026-04-06
-quality_score: 6.5
+quality_score: 8.8
 tags: 奈良美食, 日式拉麵, 精進料理, 古都文化, 佛教影響
 license: CC BY 4.0
 ---

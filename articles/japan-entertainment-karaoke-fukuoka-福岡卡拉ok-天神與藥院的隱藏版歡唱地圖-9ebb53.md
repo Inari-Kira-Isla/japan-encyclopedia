@@ -6,7 +6,7 @@ category: karaoke
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-karaoke-fukuoka-福岡卡拉ok-天神與藥院的隱藏版歡唱地圖-9ebb53.html
 published: 2026-05-22
-quality_score: 6.5
+quality_score: 8.6
 tags: 福岡卡拉OK, 天神卡拉OK, 藥院卡拉OK, 博卡拉OK夜生活, 屋台文化
 license: CC BY 4.0
 ---

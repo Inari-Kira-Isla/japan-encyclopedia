@@ -6,7 +6,7 @@ category: day-trips
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-fukuoka-福岡一日遊-在地人私藏-九州北部5個未被發現的神級景點-f77b42.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 8.9
 tags: 福岡一日遊, 九州自駕, 血池溫泉, 糸島美食, 九州隱藏景點
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: sushi
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sushi-hiroshima-廣島壽司-港口城市的水產食堂文化-13f9f6.html
 published: 2026-06-03
-quality_score: 6.5
+quality_score: 8.6
 tags: 廣島美食, 瀨戶內海, 壽司文化, 日本中國地方, 旅行攻略
 license: CC BY 4.0
 ---

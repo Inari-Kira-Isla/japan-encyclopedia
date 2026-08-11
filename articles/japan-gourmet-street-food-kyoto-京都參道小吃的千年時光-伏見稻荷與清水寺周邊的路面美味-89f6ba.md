@@ -6,7 +6,7 @@ category: street-food
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-street-food-kyoto-京都參道小吃的千年時光-伏見稻荷與清水寺周邊的路面美味-89f6ba.html
 published: 2026-07-04
-quality_score: 6.5
+quality_score: 8.6
 tags: 京都, 街頭美食, 參道小吃, 伏見稻荷, 清水寺
 license: CC BY 4.0
 ---

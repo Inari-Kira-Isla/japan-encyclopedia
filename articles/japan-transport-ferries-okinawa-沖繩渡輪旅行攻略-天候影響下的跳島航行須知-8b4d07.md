@@ -6,7 +6,7 @@ category: ferries
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-ferries-okinawa-沖繩渡輪旅行攻略-天候影響下的跳島航行須知-8b4d07.html
 published: 2026-06-28
-quality_score: 7.5
+quality_score: 8.6
 tags: 沖繩渡輪, 跳島旅行, 沖繩交通, 離島攻略, 海島旅遊
 license: CC BY 4.0
 ---

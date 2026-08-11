@@ -6,7 +6,7 @@ category: street-food
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-street-food-hiroshima-廣島b級美食-庶民味道的城市記憶-3345f6.html
 published: 2026-07-04
-quality_score: 6.5
+quality_score: 8.8
 tags: 廣島, 街頭美食, B級美食, 廣島燒, 尾道拉麵
 license: CC BY 4.0
 ---

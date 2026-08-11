@@ -6,7 +6,7 @@ category: metro-systems
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-osaka-大阪地鐵美食朝聖指南-從御堂筋線到千日前線的庶民味覺地圖-e6d199.html
 published: 2026-03-27
-quality_score: 7.5
+quality_score: 8.7
 tags: 大阪美食, 地鐵交通, 庶民文化, 市場美食, 居酒屋文化
 license: CC BY 4.0
 ---

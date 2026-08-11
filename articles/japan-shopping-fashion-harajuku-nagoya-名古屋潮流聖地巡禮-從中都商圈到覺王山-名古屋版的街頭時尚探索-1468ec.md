@@ -6,7 +6,7 @@ category: fashion-harajuku
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-fashion-harajuku-nagoya-名古屋潮流聖地巡禮-從中都商圈到覺王山-名古屋版的街頭時尚探索-1468ec.html
 published: 2026-06-02
-quality_score: 7.5
+quality_score: 8.6
 tags: 名古屋購物, 潮流聖地, 中都商圈, 街頭時尚, 日本購物指南
 license: CC BY 4.0
 ---

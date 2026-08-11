@@ -6,7 +6,7 @@ category: vintage-thrift
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-vintage-thrift-kanazawa-金澤復古挖寶-職人精神與古著文化的相遇-04b5bc.html
 published: 2026-05-22
-quality_score: 7.5
+quality_score: 8.6
 tags: 金澤古著, 日本古著店, 金澤血拚, 中部旅行, 復古時尚
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: rental-cars
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-hiroshima-廣島租車自駕遊-攝影玩家的光影秘境與季節限定路線-2dab79.html
 published: 2026-06-08
-quality_score: 7.5
+quality_score: 8.5
 tags: 廣島租車, 自駕遊, 攝影攻略, 瀨戶內海, 季節限定
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: karaoke
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-karaoke-tokyo-東京卡拉ok-商務社交的隱藏戰場-4a7fa8.html
 published: 2026-06-30
-quality_score: 6.5
+quality_score: 8.8
 tags: 東京卡拉OK, 商務接待, 日本職場文化, 站式卡拉OK, 東京娛樂
 license: CC BY 4.0
 ---

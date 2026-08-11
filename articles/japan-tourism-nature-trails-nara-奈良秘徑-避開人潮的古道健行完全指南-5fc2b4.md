@@ -6,7 +6,7 @@ category: nature-trails
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-nara-奈良秘徑-避開人潮的古道健行完全指南-5fc2b4.html
 published: 2026-05-23
-quality_score: 6.5
+quality_score: 8.7
 tags: 奈良自然步道, 古道健行, 日本山岳, 秘境旅遊, 關西健行
 license: CC BY 4.0
 ---

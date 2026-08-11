@@ -6,7 +6,7 @@ category: nightlife
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-okinawa-沖繩夜生活-沙灘音樂與星夜的夏日派對-ef43ac.html
 published: 2026-07-02
-quality_score: 6.5
+quality_score: 8.7
 tags: 沖繩夜生活, 沙灘派對, live house, 海島夜生活, 日本夜生活
 license: CC BY 4.0
 ---

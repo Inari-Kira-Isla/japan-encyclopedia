@@ -6,7 +6,7 @@ category: udon-soba
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-udon-soba-okinawa-沖繩的麵食日常-當地人的早場烏龍麵與巷弄老店-89da1a.html
 published: 2026-06-07
-quality_score: 6.5
+quality_score: 8.9
 tags: 沖繩美食, 烏龍麵, 在地小吃, 沖繩旅遊, 早餐文化
 license: CC BY 4.0
 ---

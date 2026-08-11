@@ -6,7 +6,7 @@ category: business-hotels
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-business-hotels-nara-奈良商務住宿-清晨與傍晚的世界遺產體驗方案-c2b984.html
 published: 2026-06-25
-quality_score: 6.5
+quality_score: 8.7
 tags: 奈良商務住宿, 近鐵奈良站, 商務出差, 世界遺產, 奈良公園
 license: CC BY 4.0
 ---

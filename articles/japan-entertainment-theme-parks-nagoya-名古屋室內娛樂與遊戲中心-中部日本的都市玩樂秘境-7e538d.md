@@ -6,7 +6,7 @@ category: theme-parks
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-theme-parks-nagoya-名古屋室內娛樂與遊戲中心-中部日本的都市玩樂秘境-7e538d.html
 published: 2026-06-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 名古屋, 室內娛樂, 遊戲中心, VR體驗, 彈跳樂園
 license: CC BY 4.0
 ---

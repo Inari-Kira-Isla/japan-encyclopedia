@@ -6,7 +6,7 @@ category: karaoke
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-karaoke-okinawa-沖繩年輕世代卡拉ok文化-島嶼青春的夜晚狂歡-90d270.html
 published: 2026-04-04
-quality_score: 6.5
+quality_score: 8.9
 tags: 沖繩夜生活, 年輕人文化, 島嶼娛樂, 那霸卡拉OK, 沖繩音樂
 license: CC BY 4.0
 ---

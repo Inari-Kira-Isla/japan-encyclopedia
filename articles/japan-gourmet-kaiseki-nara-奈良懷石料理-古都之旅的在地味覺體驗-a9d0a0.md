@@ -6,7 +6,7 @@ category: kaiseki
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-kaiseki-nara-奈良懷石料理-古都之旅的在地味覺體驗-a9d0a0.html
 published: 2026-05-21
-quality_score: 6.5
+quality_score: 8.8
 tags: 奈良懷石料理, 奈良美食, 關西料理, 古都美食, 日本料理
 license: CC BY 4.0
 ---

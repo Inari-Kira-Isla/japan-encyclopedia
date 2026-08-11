@@ -6,7 +6,7 @@ category: depachika
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-depachika-kobe-神戶元町・南京町-巷弄深處的隱藏版美食寶庫-574d2f.html
 published: 2026-06-14
-quality_score: 6.5
+quality_score: 8.6
 tags: 神戶美食, 元町, 南京町, Depachika, 拱廊街
 license: CC BY 4.0
 ---

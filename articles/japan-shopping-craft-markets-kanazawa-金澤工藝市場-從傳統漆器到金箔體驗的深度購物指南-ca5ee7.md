@@ -6,7 +6,7 @@ category: craft-markets
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-craft-markets-kanazawa-金澤工藝市場-從傳統漆器到金箔體驗的深度購物指南-ca5ee7.html
 published: 2026-06-30
-quality_score: 7.5
+quality_score: 8.7
 tags: 金澤, 工藝市場, 手作市集, 加賀百萬石, 日本購物
 license: CC BY 4.0
 ---

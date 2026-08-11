@@ -6,7 +6,7 @@ category: love-hotels
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-love-hotels-kobe-神戶love-hotels-港都夜景後的溫馨驛站-a2d8a4.html
 published: 2026-06-24
-quality_score: 6.5
+quality_score: 8.6
 tags: 神戶住宿, 神戶情侶飯店, 神戶 Love Hotels, 神戶約會, 關西住宿
 license: CC BY 4.0
 ---

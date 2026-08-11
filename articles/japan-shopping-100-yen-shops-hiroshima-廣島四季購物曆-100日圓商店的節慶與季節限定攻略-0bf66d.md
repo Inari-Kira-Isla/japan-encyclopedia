@@ -6,7 +6,7 @@ category: 100-yen-shops
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-100-yen-shops-hiroshima-廣島四季購物曆-100日圓商店的節慶與季節限定攻略-0bf66d.html
 published: 2026-04-05
-quality_score: 7.5
+quality_score: 8.6
 tags: 廣島購物, 100日圓商店, 季節性商品, 平價購物, 日本旅遊
 license: CC BY 4.0
 ---

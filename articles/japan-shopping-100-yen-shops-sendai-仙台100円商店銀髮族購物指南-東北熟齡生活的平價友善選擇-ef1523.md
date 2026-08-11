@@ -6,7 +6,7 @@ category: 100-yen-shops
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-100-yen-shops-sendai-仙台100円商店銀髮族購物指南-東北熟齡生活的平價友善選擇-ef1523.html
 published: 2026-06-15
-quality_score: 7.5
+quality_score: 8.6
 tags: 仙台, 100円商店, 銀髮族, 購物指南, 東北
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: ryokan
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-nagoya-名古屋傳統旅館驛站式旅遊-作為中部探索基地的住宿策略-2dbe17.html
 published: 2026-05-24
-quality_score: 6.5
+quality_score: 8.8
 tags: 名古屋Ryokan, 中部旅游, 白川鄉, 立山黑部, 荣町住宿
 license: CC BY 4.0
 ---

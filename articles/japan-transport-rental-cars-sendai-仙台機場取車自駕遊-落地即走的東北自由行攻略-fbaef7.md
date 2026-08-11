@@ -6,7 +6,7 @@ category: rental-cars
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-sendai-仙台機場取車自駕遊-落地即走的東北自由行攻略-fbaef7.html
 published: 2026-06-27
-quality_score: 7.5
+quality_score: 8.7
 tags: 仙台租車, 東北自駕遊, 仙台機場, 日本租車, 秋季賞楓
 license: CC BY 4.0
 ---

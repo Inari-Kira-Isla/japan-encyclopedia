@@ -6,7 +6,7 @@ category: festivals-matsuri
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-festivals-matsuri-hiroshima-廣島祭典深度體驗-巷仔內的在地慶典與數位創新風潮-13cf7c.html
 published: 2026-06-25
-quality_score: 6.5
+quality_score: 8.7
 tags: 廣島祭典, 在地體驗, 社區祭典, 數位創新, 瀨戶內
 license: CC BY 4.0
 ---

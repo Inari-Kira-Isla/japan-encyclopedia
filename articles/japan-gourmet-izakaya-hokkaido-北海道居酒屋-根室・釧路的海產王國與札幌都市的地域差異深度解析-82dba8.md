@@ -6,7 +6,7 @@ category: izakaya
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-izakaya-hokkaido-北海道居酒屋-根室・釧路的海產王國與札幌都市的地域差異深度解析-82dba8.html
 published: 2026-06-16
-quality_score: 6.5
+quality_score: 8.6
 tags: 北海道居酒屋, 根室海產, 釧路美食, 小樽運河, 札幌薄野
 license: CC BY 4.0
 ---

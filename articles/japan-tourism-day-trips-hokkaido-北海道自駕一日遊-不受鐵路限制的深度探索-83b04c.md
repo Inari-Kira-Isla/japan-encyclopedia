@@ -6,7 +6,7 @@ category: day-trips
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-hokkaido-北海道自駕一日遊-不受鐵路限制的深度探索-83b04c.html
 published: 2026-06-12
-quality_score: 6.5
+quality_score: 8.8
 tags: 北海道自駕遊, 北海道一日遊, 層雲峽, 十勝平原, 積丹半島
 license: CC BY 4.0
 ---

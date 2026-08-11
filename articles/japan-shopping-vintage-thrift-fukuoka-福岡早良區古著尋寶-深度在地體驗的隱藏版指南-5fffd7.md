@@ -6,7 +6,7 @@ category: vintage-thrift
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-vintage-thrift-fukuoka-福岡早良區古著尋寶-深度在地體驗的隱藏版指南-5fffd7.html
 published: 2026-06-30
-quality_score: 7.5
+quality_score: 8.7
 tags: 福岡古著, 早良區, 古著尋寶, 昭和復古, 九州購物
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: garden-parks
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-nagoya-名古屋都市花園-工業城市轉型的綠色脈動-37248d.html
 published: 2026-06-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 名古屋, 花園公園, 工業城市, 都市綠化, 名古屋美食
 license: CC BY 4.0
 ---

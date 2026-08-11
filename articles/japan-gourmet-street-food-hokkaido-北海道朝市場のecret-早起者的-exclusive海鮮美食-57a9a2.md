@@ -6,7 +6,7 @@ category: street-food
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-street-food-hokkaido-北海道朝市場のecret-早起者的-exclusive海鮮美食-57a9a2.html
 published: 2026-05-23
-quality_score: 6.5
+quality_score: 8.9
 tags: 北海道朝市場, 道東美食, 渔港小摊, 根室花咲蟹, 马粪海胆蓋飯
 license: CC BY 4.0
 ---

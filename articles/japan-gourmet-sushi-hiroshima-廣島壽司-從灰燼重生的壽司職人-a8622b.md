@@ -6,7 +6,7 @@ category: sushi
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sushi-hiroshima-廣島壽司-從灰燼重生的壽司職人-a8622b.html
 published: 2026-06-05
-quality_score: 6.5
+quality_score: 8.6
 tags: 廣島壽司, 瀨戶內海美食, 廣島必吃, 日本壽司, 廣島美食推薦
 license: CC BY 4.0
 ---

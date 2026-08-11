@@ -6,7 +6,7 @@ category: ski-resorts
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-ski-resorts-kobe-神戶周邊滑雪場-的家庭友善雪地體驗與一日遊攻略-3ca7d1.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 8.5
 tags: 神戶滑雪, 神戶冬季旅遊, 關西滑雪場推薦, 日本親子滑雪, 六甲山冰雪樂園
 license: CC BY 4.0
 ---

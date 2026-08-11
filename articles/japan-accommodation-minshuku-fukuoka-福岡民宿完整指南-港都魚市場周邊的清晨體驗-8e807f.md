@@ -6,7 +6,7 @@ category: minshuku
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-fukuoka-福岡民宿完整指南-港都魚市場周邊的清晨體驗-8e807f.html
 published: 2026-06-20
-quality_score: 6.5
+quality_score: 8.8
 tags: 福岡民宿, 博多魚市場, 港都住宿, 朝粥體驗, 九州文化
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: metro-systems
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-kyoto-京都地鐵-古都現代化的地下妥協藝術-754c09.html
 published: 2026-04-05
-quality_score: 7.5
+quality_score: 8.9
 tags: 京都交通, 地下鐵, 古都現代化, 文化保護, 城市規劃
 license: CC BY 4.0
 ---

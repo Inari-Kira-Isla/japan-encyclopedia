@@ -6,7 +6,7 @@ category: nightlife
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-okinawa-沖繩深夜食堂-島嶼勞動者的夜色餐桌-312bc9.html
 published: 2026-05-23
-quality_score: 6.5
+quality_score: 8.1
 tags: 
 license: CC BY 4.0
 ---

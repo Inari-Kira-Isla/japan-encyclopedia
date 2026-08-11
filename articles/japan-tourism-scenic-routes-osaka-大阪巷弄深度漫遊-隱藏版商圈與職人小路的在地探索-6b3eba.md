@@ -6,7 +6,7 @@ category: scenic-routes
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-osaka-大阪巷弄深度漫遊-隱藏版商圈與職人小路的在地探索-6b3eba.html
 published: 2026-06-18
-quality_score: 6.5
+quality_score: 8.8
 tags: 大阪巷弄, 職人商店, 傳統商圈, 在地探索, 非觀光客路線
 license: CC BY 4.0
 ---

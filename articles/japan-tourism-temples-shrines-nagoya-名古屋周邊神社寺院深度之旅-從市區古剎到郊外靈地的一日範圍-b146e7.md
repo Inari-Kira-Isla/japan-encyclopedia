@@ -6,7 +6,7 @@ category: temples-shrines
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-temples-shrines-nagoya-名古屋周邊神社寺院深度之旅-從市區古剎到郊外靈地的一日範圍-b146e7.html
 published: 2026-06-29
-quality_score: 6.5
+quality_score: 8.6
 tags: 名古屋神社, 名古屋寺院, 名古屋旅遊, 日本中部旅遊, 針綱神社
 license: CC BY 4.0
 ---

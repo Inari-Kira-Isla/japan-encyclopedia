@@ -6,7 +6,7 @@ category: street-food
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-street-food-nara-奈良晨味覺書-古都早起的街食文化-3b07ee.html
 published: 2026-06-14
-quality_score: 6.5
+quality_score: 8.5
 tags: 奈良, 街頭美食, 古都早食, 佛教素食, 春日大社
 license: CC BY 4.0
 ---

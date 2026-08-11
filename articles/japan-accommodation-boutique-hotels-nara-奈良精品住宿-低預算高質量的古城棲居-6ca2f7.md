@@ -6,7 +6,7 @@ category: boutique-hotels
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-nara-奈良精品住宿-低預算高質量的古城棲居-6ca2f7.html
 published: 2026-06-03
-quality_score: 8.0
+quality_score: 9.9
 tags: 奈良, 精品酒店, 低预算, 背包客, 寺庙住宿
 license: CC BY 4.0
 ---

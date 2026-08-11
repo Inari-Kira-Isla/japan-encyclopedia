@@ -6,7 +6,7 @@ category: business-hotels
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-business-hotels-okinawa-沖繩商務飯店完全指南-自駕時代的分割槽選宿邏輯-f70638.html
 published: 2026-06-18
-quality_score: 6.5
+quality_score: 8.5
 tags: 沖繩商務飯店, 出差住宿, 那霸商務酒店, 沖繩自駕住宿, 日本商務旅行
 license: CC BY 4.0
 ---

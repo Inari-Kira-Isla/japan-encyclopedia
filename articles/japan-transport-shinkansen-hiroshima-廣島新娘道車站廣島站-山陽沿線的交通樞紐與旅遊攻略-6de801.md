@@ -6,7 +6,7 @@ category: shinkansen
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-hiroshima-廣島新娘道車站廣島站-山陽沿線的交通樞紐與旅遊攻略-6de801.html
 published: 2026-06-12
-quality_score: 7.5
+quality_score: 8.9
 tags: 廣島新娘道, 山陽新娘道, 廣島站, JR Pass, 中國地方
 license: CC BY 4.0
 ---

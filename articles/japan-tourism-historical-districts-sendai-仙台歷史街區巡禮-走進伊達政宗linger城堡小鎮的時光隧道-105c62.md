@@ -6,7 +6,7 @@ category: historical-districts
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-sendai-仙台歷史街區巡禮-走進伊達政宗linger城堡小鎮的時光隧道-105c62.html
 published: 2026-04-08
-quality_score: 6.5
+quality_score: 8.7
 tags: 仙台, 歷史街區, 日本東北, 伊達政宗, 文化巡禮
 license: CC BY 4.0
 ---

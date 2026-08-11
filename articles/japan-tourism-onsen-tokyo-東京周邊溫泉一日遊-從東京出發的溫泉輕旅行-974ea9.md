@@ -6,7 +6,7 @@ category: onsen
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-onsen-tokyo-東京周邊溫泉一日遊-從東京出發的溫泉輕旅行-974ea9.html
 published: 2026-06-11
-quality_score: 6.5
+quality_score: 8.5
 tags: 東京溫泉, 一日遊, 溫泉輕旅行, 關東溫泉, 秩父溫泉
 license: CC BY 4.0
 ---

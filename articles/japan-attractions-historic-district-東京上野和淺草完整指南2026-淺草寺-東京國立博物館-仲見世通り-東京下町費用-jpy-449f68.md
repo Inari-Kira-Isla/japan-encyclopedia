@@ -6,7 +6,7 @@ category: historic-district
 area: japan
 url: https://japan-encyclopedia.vercel.app/articles/japan-attractions-historic-district-東京上野和淺草完整指南2026-淺草寺-東京國立博物館-仲見世通り-東京下町費用-jpy-449f68.html
 published: 2026-05-04
-quality_score: 7.6
+quality_score: 8.5
 tags: 淺草寺, 東京上野, 仲見世通り, 東京国立博物館, 東京下町
 license: CC BY 4.0
 ---

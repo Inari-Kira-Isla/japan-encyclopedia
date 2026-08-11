@@ -6,7 +6,7 @@ category: sumo
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-osaka-大阪相撲體驗-成為一日-親方-的關西之旅-ae31d4.html
 published: 2026-07-05
-quality_score: 6.5
+quality_score: 8.5
 tags: 大阪相撲, 相撲體驗, 相撲火鍋, 關西旅遊, 日本傳統文化
 license: CC BY 4.0
 ---

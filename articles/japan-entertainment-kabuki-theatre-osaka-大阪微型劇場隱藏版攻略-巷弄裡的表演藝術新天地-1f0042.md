@@ -6,7 +6,7 @@ category: kabuki-theatre
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-kabuki-theatre-osaka-大阪微型劇場隱藏版攻略-巷弄裡的表演藝術新天地-1f0042.html
 published: 2026-07-01
-quality_score: 6.5
+quality_score: 8.8
 tags: 大阪微型劇場, 大阪表演藝術, 大阪隱藏版景點, 大阪文楽, 關西劇場
 license: CC BY 4.0
 ---

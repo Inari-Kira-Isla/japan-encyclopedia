@@ -6,7 +6,7 @@ category: street-food
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-street-food-sendai-仙台冬日暖食-東北之城的人氣街頭風味-f7c08d.html
 published: 2026-06-18
-quality_score: 6.5
+quality_score: 8.5
 tags: 仙台, 街頭美食, 東北美食, 牛舌, 味噌拉麵
 license: CC BY 4.0
 ---

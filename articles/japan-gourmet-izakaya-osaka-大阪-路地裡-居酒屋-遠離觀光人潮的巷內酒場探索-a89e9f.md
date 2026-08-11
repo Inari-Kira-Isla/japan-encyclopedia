@@ -6,7 +6,7 @@ category: izakaya
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-izakaya-osaka-大阪-路地裡-居酒屋-遠離觀光人潮的巷內酒場探索-a89e9f.html
 published: 2026-05-21
-quality_score: 6.5
+quality_score: 8.6
 tags: 大阪居酒屋, 路地裏美食, 新世界串燒, 船場海鮮, 深度旅遊
 license: CC BY 4.0
 ---

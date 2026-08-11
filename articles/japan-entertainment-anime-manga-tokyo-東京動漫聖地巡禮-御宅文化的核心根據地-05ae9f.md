@@ -6,7 +6,7 @@ category: anime-manga
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-tokyo-東京動漫聖地巡禮-御宅文化的核心根據地-05ae9f.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 8.6
 tags: 東京動漫, 秋葉原動漫, 日本御宅文化, 東京主題咖啡廳, 動漫聖地巡禮
 license: CC BY 4.0
 ---

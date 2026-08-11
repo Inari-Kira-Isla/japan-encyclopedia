@@ -6,7 +6,7 @@ category: karaoke
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-karaoke-nagoya-名古屋卡拉ok-味噌與歌聲的深夜食堂-b0f81b.html
 published: 2026-06-19
-quality_score: 6.5
+quality_score: 8.9
 tags: 名古屋, 卡拉OK, 中部國際空港, 榮町, 金山
 license: CC BY 4.0
 ---

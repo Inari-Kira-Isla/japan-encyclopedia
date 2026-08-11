@@ -6,7 +6,7 @@ category: nature-trails
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-kyoto-京都晨霧步道-日出與本地人的秘密山林-11b4ad.html
 published: 2026-06-08
-quality_score: 6.5
+quality_score: 8.5
 tags: 京都, 自然步道, 晨間步道, 鞍馬山, 伏見稻荷
 license: CC BY 4.0
 ---

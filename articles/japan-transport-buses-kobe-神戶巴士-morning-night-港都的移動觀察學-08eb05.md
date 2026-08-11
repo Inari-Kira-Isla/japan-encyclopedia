@@ -6,7 +6,7 @@ category: buses
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-buses-kobe-神戶巴士-morning-night-港都的移動觀察學-08eb05.html
 published: 2026-06-20
-quality_score: 7.5
+quality_score: 8.5
 tags: 神戶巴士, 神戶交通, 神戶自由行, 港都移動, 神戶夜景
 license: CC BY 4.0
 ---

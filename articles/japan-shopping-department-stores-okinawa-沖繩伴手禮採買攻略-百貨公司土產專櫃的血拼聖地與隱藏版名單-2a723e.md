@@ -6,7 +6,7 @@ category: department-stores
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-department-stores-okinawa-沖繩伴手禮採買攻略-百貨公司土產專櫃的血拼聖地與隱藏版名單-2a723e.html
 published: 2026-06-17
-quality_score: 7.5
+quality_score: 8.9
 tags: 沖繩, 百货公司, 伴手禮, 土產, 購物
 license: CC BY 4.0
 ---

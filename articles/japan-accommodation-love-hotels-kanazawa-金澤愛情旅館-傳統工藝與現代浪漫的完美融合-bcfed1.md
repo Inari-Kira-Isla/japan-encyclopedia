@@ -6,7 +6,7 @@ category: love-hotels
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-love-hotels-kanazawa-金澤愛情旅館-傳統工藝與現代浪漫的完美融合-bcfed1.html
 published: 2026-04-03
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤愛情旅館, 情侶住宿, 傳統工藝, 北陸旅遊, 日式美學
 license: CC BY 4.0
 ---

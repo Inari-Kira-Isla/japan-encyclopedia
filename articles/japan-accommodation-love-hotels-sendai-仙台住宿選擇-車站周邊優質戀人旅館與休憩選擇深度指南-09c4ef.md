@@ -6,7 +6,7 @@ category: love-hotels
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-love-hotels-sendai-仙台住宿選擇-車站周邊優質戀人旅館與休憩選擇深度指南-09c4ef.html
 published: 2026-06-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 仙台住宿, 東北溫泉, 一番町, 國分町, 情侶旅館
 license: CC BY 4.0
 ---

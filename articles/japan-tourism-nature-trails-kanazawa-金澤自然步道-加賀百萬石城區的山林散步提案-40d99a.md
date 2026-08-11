@@ -6,7 +6,7 @@ category: nature-trails
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-kanazawa-金澤自然步道-加賀百萬石城區的山林散步提案-40d99a.html
 published: 2026-05-25
-quality_score: 6.5
+quality_score: 8.8
 tags: 金澤自然步道, 加賀百萬石, 石川必訪, 山林健行, 日本深度旅遊
 license: CC BY 4.0
 ---

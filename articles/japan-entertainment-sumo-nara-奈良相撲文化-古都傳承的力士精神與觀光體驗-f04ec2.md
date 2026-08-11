@@ -6,7 +6,7 @@ category: sumo
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-nara-奈良相撲文化-古都傳承的力士精神與觀光體驗-f04ec2.html
 published: 2026-04-03
-quality_score: 6.5
+quality_score: 8.7
 tags: 奈良相撲, 傳統文化, 體驗觀光, 神事相撲, 古都文化
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: cycling
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-hiroshima-廣島跳島騎行-瀨戶內海的單車與渡輪冒險-2ef45b.html
 published: 2026-06-03
-quality_score: 7.5
+quality_score: 8.8
 tags: 廣島單車旅行, 瀨戶內海跳島, 直島藝術, 島嶼骑行日本, 渡輪交通
 license: CC BY 4.0
 ---

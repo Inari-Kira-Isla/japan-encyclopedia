@@ -6,7 +6,7 @@ category: tempura
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tempura-hokkaido-北海道を代表料理-北海道天婦羅完全攻略-45d4b4.html
 published: 2026-05-24
-quality_score: 6.5
+quality_score: 8.9
 tags: 
 license: CC BY 4.0
 ---

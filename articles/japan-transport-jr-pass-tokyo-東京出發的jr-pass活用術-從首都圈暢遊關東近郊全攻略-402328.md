@@ -6,7 +6,7 @@ category: jr-pass
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-jr-pass-tokyo-東京出發的jr-pass活用術-從首都圈暢遊關東近郊全攻略-402328.html
 published: 2026-06-05
-quality_score: 7.5
+quality_score: 8.6
 tags: 東京 JR Pass, 關東近郊溫泉, 東京出發一日遊, 富士山交通, 輕井澤溫泉
 license: CC BY 4.0
 ---

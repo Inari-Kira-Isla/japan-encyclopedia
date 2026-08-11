@@ -6,7 +6,7 @@ category: nightlife
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-okinawa-沖繩夜生活-南國島嶼的星光夜晚魅力-b44cda.html
 published: 2026-06-14
-quality_score: 6.5
+quality_score: 8.5
 tags: 沖繩夜生活, 那霸夜遊, 恩納村海灘, 北谷町美濱, 日本南國度假
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: shinkansen
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-tokyo-東京新幹線をマスターする技術-中級者が知る得票-得時の裡わざ-71c8c2.html
 published: 2026-05-23
-quality_score: 7.5
+quality_score: 8.5
 tags: 東京新幹線の裏わざ, 移動手段の得票術, 失敗しない列車选择法,  должен понимать тонкости выбора билета
 license: CC BY 4.0
 ---

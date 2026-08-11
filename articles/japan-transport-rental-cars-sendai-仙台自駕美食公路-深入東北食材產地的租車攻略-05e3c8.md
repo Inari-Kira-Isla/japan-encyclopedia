@@ -6,7 +6,7 @@ category: rental-cars
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-sendai-仙台自駕美食公路-深入東北食材產地的租車攻略-05e3c8.html
 published: 2026-07-05
-quality_score: 7.5
+quality_score: 8.5
 tags: 仙台租車, 東北自駕, 美食公路, 牡蠣, 水產
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: garden-parks
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-nagoya-名古屋花園散步地圖-在地人私藏的綠色時光-3103ed.html
 published: 2026-06-17
-quality_score: 6.5
+quality_score: 8.6
 tags: 
 license: CC BY 4.0
 ---

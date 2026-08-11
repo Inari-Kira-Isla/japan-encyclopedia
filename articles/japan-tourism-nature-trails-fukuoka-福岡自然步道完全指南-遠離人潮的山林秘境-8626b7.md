@@ -6,7 +6,7 @@ category: nature-trails
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-fukuoka-福岡自然步道完全指南-遠離人潮的山林秘境-8626b7.html
 published: 2026-03-28
-quality_score: 6.5
+quality_score: 8.8
 tags: 福岡自然步道, 日本登山, 糸島半島, 太宰府, 能古島
 license: CC BY 4.0
 ---

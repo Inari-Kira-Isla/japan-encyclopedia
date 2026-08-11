@@ -6,7 +6,7 @@ category: ferries
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-ferries-kanazawa-金澤渡輪實用指南-日本海交通的高效選擇-47ed25.html
 published: 2026-03-29
-quality_score: 7.5
+quality_score: 8.7
 tags: 金澤交通, 渡輪服務, 北陸旅遊, 日本海航線, 實用指南
 license: CC BY 4.0
 ---

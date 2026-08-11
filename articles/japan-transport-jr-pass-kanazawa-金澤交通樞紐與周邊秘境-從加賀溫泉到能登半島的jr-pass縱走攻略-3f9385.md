@@ -6,7 +6,7 @@ category: jr-pass
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-jr-pass-kanazawa-金澤交通樞紐與周邊秘境-從加賀溫泉到能登半島的jr-pass縱走攻略-3f9385.html
 published: 2026-05-25
-quality_score: 7.5
+quality_score: 8.7
 tags: 金澤交通, JR Pass教學, 能登半島, 加賀溫泉, 白山登山
 license: CC BY 4.0
 ---

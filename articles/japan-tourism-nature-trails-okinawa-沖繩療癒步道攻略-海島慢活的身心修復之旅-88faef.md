@@ -6,7 +6,7 @@ category: nature-trails
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-okinawa-沖繩療癒步道攻略-海島慢活的身心修復之旅-88faef.html
 published: 2026-04-07
-quality_score: 6.5
+quality_score: 8.6
 tags: 沖繩, 自然步道, 療癒健行, 森林浴, 無障礙旅遊
 license: CC BY 4.0
 ---

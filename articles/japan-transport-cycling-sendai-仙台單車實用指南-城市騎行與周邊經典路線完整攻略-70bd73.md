@@ -6,7 +6,7 @@ category: cycling
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-sendai-仙台單車實用指南-城市騎行與周邊經典路線完整攻略-70bd73.html
 published: 2026-06-09
-quality_score: 7.5
+quality_score: 8.6
 tags: 仙台, 單車旅行, 日本東北, 廣瀨川, 秋保溫泉
 license: CC BY 4.0
 ---

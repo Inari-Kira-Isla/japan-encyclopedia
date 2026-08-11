@@ -6,7 +6,7 @@ category: tempura
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tempura-sendai-仙台天婦羅-東北商務中心的現代和風美味-ac5aa9.html
 published: 2026-04-06
-quality_score: 6.5
+quality_score: 8.7
 tags: 仙台美食, 天婦羅, 商務餐廳
 license: CC BY 4.0
 ---

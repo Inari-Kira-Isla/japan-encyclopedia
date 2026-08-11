@@ -6,7 +6,7 @@ category: island-tourism
 area: japan
 url: https://japan-encyclopedia.vercel.app/articles/japan-attractions-island-tourism-沖繩完整旅遊指南2026-浮水島-首裡城-美國文化-琉球群島費用攻略-jp-okinawa-b-020f48.html
 published: 2026-04-07
-quality_score: 7.6
+quality_score: 8.6
 tags: 沖繩潛水, 首里城, 沖繩旅遊, 美ら海水族館, 琉球文化
 license: CC BY 4.0
 ---

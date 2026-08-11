@@ -6,7 +6,7 @@ category: jr-pass
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-jr-pass-nara-奈良交通攻略-前往古都奈良的jr-pass選擇指南-8da2e5.html
 published: 2026-06-22
-quality_score: 7.5
+quality_score: 8.6
 tags: 
 license: CC BY 4.0
 ---

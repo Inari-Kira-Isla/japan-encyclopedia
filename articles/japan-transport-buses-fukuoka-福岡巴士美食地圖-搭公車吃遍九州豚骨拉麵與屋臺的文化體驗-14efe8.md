@@ -6,7 +6,7 @@ category: buses
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-buses-fukuoka-福岡巴士美食地圖-搭公車吃遍九州豚骨拉麵與屋臺的文化體驗-14efe8.html
 published: 2026-06-08
-quality_score: 7.5
+quality_score: 8.8
 tags: 福岡巴士, 九州美食, 豚骨拉麵, 屋台文化, 市區公車
 license: CC BY 4.0
 ---

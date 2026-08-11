@@ -6,7 +6,7 @@ category: duty-free
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-duty-free-kobe-神戶美食伴手禮攻略-港都直送關西超人氣免稅零食與特產-3134e2.html
 published: 2026-06-04
-quality_score: 7.5
+quality_score: 8.6
 tags: 神戶美食, 免稅購物, 關西零食, 伴手禮推薦, 瀨戶內海特產
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: fashion-harajuku
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-fashion-harajuku-nara-奈良時尚購物完全指南-古都巷弄中的潮流秘密基地-aea1cf.html
 published: 2026-06-18
-quality_score: 7.5
+quality_score: 8.8
 tags: 奈良購物, 奈良時尚, 日本古著, 奈良町, 近鐵奈良
 license: CC BY 4.0
 ---

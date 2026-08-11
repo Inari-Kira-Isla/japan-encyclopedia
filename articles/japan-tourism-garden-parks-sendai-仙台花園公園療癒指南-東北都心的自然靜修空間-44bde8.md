@@ -6,7 +6,7 @@ category: garden-parks
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-sendai-仙台花園公園療癒指南-東北都心的自然靜修空間-44bde8.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.8
 tags: 仙台公園, 療癒旅遊, 森林浴, 東北旅遊, 深度旅遊
 license: CC BY 4.0
 ---

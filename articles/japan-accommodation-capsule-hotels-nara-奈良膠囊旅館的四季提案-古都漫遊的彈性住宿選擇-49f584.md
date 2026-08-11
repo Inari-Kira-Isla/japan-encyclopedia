@@ -6,7 +6,7 @@ category: capsule-hotels
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-capsule-hotels-nara-奈良膠囊旅館的四季提案-古都漫遊的彈性住宿選擇-49f584.html
 published: 2026-06-13
-quality_score: 6.5
+quality_score: 8.7
 tags: 奈良膠囊旅館, 古都住宿, 奈良自由行, 日本背包旅行, 奈良公園
 license: CC BY 4.0
 ---

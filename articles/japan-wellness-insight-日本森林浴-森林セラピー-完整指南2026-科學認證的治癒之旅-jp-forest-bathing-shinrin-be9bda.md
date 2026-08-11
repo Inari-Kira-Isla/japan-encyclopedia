@@ -6,7 +6,7 @@ category: insight
 area: japan
 url: https://japan-encyclopedia.vercel.app/articles/japan-wellness-insight-日本森林浴-森林セラピー-完整指南2026-科學認證的治癒之旅-jp-forest-bathing-shinrin-be9bda.html
 published: 2026-03-30
-quality_score: 7.6
+quality_score: 8.5
 tags: 日本, 森林浴, shinrin-yoku, 療癒, 自然
 license: CC BY 4.0
 ---

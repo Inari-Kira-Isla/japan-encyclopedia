@@ -6,7 +6,7 @@ category: nature-trails
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-okinawa-沖繩自然步道完全攻略-熱帶叢林到海岸的徒步探險-6f90fe.html
 published: 2026-04-04
-quality_score: 6.5
+quality_score: 8.7
 tags: 沖繩步道, 亞熱帶健行, 自然探索, 宮古島, 本部半島
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: nature-trails
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-kobe-神戶六甲步道分級指南-從初心者到登山家的難度體系與社群文化-8b5d74.html
 published: 2026-03-21
-quality_score: 6.5
+quality_score: 8.7
 tags: 神戶, 六甲山, 登山步道, 難度分級, 日本登山文化
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: depachika
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-depachika-sendai-仙台人情-depachika-巷弄中的日常美味散步-443199.html
 published: 2026-05-24
-quality_score: 6.5
+quality_score: 8.6
 tags: 仙台, Depachika, 日本美食, 东北地方, 在地美食
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: street-food
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-street-food-kyoto-京都巷弄限定-本地人的-時間差-美食散步地圖-9736b5.html
 published: 2026-06-04
-quality_score: 6.5
+quality_score: 8.7
 tags: 京都, 街頭美食, 時間限定, 在地美食, 巷弄美食
 license: CC BY 4.0
 ---

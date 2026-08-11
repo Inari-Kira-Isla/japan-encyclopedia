@@ -6,7 +6,7 @@ category: metro-systems
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-hiroshima-廣島路面電車完全指南-戰後重建的軌道奇蹟-3db6b9.html
 published: 2026-06-14
-quality_score: 7.5
+quality_score: 8.6
 tags: 廣島, 路面電車, 廣島電鐵, 交通, 和平紀念
 license: CC BY 4.0
 ---

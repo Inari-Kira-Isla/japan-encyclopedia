@@ -6,7 +6,7 @@ category: vr-experiences
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-vr-experiences-hokkaido-北海道vr體驗-雪國科技的娛樂新選擇-c6015d.html
 published: 2026-06-24
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道VR體驗, 札幌VR, 北海道室內活動, 北海道親子, 雪國科技娛樂
 license: CC BY 4.0
 ---

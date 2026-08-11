@@ -6,7 +6,7 @@ category: street-food
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-street-food-tokyo-東京通勤族的駅弁と朝スポット-上班日的味覺日常-cf39c5.html
 published: 2026-06-07
-quality_score: 6.5
+quality_score: 8.6
 tags: 東京, 街頭美食, 通勤文化, 駅弁, 朝食
 license: CC BY 4.0
 ---

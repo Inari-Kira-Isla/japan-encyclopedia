@@ -6,7 +6,7 @@ category: temple-stays
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-temple-stays-nara-奈良周邊宿坊體驗-從吉野到高野的修驗道之旅-ad790e.html
 published: 2026-06-13
-quality_score: 6.5
+quality_score: 8.5
 tags: 奈良宿坊, 修驗道, 吉野山, 高野山, 寺廟住宿體驗
 license: CC BY 4.0
 ---

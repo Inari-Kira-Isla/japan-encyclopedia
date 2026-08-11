@@ -6,7 +6,7 @@ category: tempura
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tempura-nara-奈良天婦羅-古都巷弄中的隱藏版酥脆美味-a4413d.html
 published: 2026-06-09
-quality_score: 6.5
+quality_score: 8.6
 tags: 奈良美食, 天婦羅, 古都料理, 奈良町, 關西美食
 license: CC BY 4.0
 ---

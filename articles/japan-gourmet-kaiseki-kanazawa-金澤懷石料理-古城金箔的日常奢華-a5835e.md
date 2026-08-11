@@ -6,7 +6,7 @@ category: kaiseki
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-kaiseki-kanazawa-金澤懷石料理-古城金箔的日常奢華-a5835e.html
 published: 2026-06-08
-quality_score: 6.5
+quality_score: 8.8
 tags: 金澤懷石, 金箔料理, 石川縣美食, 日本海食材, 加能蟹
 license: CC BY 4.0
 ---

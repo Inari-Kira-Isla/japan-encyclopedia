@@ -6,7 +6,7 @@ category: ramen
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-ramen-kobe-神戶拉麵的食材哲學-港都漁市的季節碗物-99adc7.html
 published: 2026-03-24
-quality_score: 6.5
+quality_score: 8.5
 tags: 神戶美食, 日本拉麵, 海鮮湯底, 季節食材, 港口食文化
 license: CC BY 4.0
 ---

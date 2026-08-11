@@ -6,7 +6,7 @@ category: ramen
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-ramen-hokkaido-北海道拉麵-札幌薄野商圈的深夜食堂文化-1e574b.html
 published: 2026-06-24
-quality_score: 6.5
+quality_score: 8.8
 tags: 北海道拉麵, 札幌美食, 薄野商圈, 深夜美食, 日本拉麵
 license: CC BY 4.0
 ---

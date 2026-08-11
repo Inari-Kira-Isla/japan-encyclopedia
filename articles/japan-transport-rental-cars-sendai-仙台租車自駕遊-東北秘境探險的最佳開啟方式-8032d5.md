@@ -6,7 +6,7 @@ category: rental-cars
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-sendai-仙台租車自駕遊-東北秘境探險的最佳開啟方式-8032d5.html
 published: 2026-06-01
-quality_score: 7.5
+quality_score: 8.5
 tags: 仙台租車, 日本東北自駕, 藏王溫泉, 松島海岸, 東北高速公路
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: castle-towns
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-castle-towns-kyoto-京都城下町-現代旅人的深度文化沉浸指南-23efcc.html
 published: 2026-04-07
-quality_score: 6.5
+quality_score: 8.8
 tags: 京都, 城下町, 文化體驗, 傳統工藝, 深度旅遊
 license: CC BY 4.0
 ---

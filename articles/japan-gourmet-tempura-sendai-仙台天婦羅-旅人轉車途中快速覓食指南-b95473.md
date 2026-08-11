@@ -6,7 +6,7 @@ category: tempura
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tempura-sendai-仙台天婦羅-旅人轉車途中快速覓食指南-b95473.html
 published: 2026-07-01
-quality_score: 6.5
+quality_score: 8.7
 tags: 仙台天婦羅, 東北美食, 旅遊轉車, 快速覓食, 日本料理
 license: CC BY 4.0
 ---

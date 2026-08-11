@@ -6,7 +6,7 @@ category: matcha-sweets
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-matcha-sweets-fukuoka-福岡抹茶甜品-屋臺美學與茶鄉創意的都市融合-d057da.html
 published: 2026-06-03
-quality_score: 6.5
+quality_score: 8.5
 tags: 福岡抹茶, 九州甜点, 八女茶, 屋台美食, 博多是美食
 license: CC BY 4.0
 ---

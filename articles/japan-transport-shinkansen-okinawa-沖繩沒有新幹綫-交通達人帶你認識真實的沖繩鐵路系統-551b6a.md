@@ -6,7 +6,7 @@ category: shinkansen
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-okinawa-沖繩沒有新幹綫-交通達人帶你認識真實的沖繩鐵路系統-551b6a.html
 published: 2026-06-16
-quality_score: 7.5
+quality_score: 8.7
 tags: 沖繩交通, Yui Rail, 單軌電車, 那霸, 日本鐵路
 license: CC BY 4.0
 ---

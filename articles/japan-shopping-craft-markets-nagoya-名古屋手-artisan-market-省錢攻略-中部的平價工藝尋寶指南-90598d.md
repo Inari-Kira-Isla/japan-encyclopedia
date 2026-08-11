@@ -6,7 +6,7 @@ category: craft-markets
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-craft-markets-nagoya-名古屋手-artisan-market-省錢攻略-中部的平價工藝尋寶指南-90598d.html
 published: 2026-05-23
-quality_score: 7.5
+quality_score: 8.7
 tags: 名古屋, 手做工藝市集, 中部地方, 平價購物, 日本自由行
 license: CC BY 4.0
 ---

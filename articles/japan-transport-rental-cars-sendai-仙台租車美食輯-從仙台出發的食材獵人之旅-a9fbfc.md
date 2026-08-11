@@ -6,7 +6,7 @@ category: rental-cars
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-sendai-仙台租車美食輯-從仙台出發的食材獵人之旅-a9fbfc.html
 published: 2026-06-23
-quality_score: 7.5
+quality_score: 8.6
 tags: 仙台租車, 食材獵人, 東北美食, 自駕遊, 石卷魚市場
 license: CC BY 4.0
 ---

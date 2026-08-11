@@ -6,7 +6,7 @@ category: vintage-thrift
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-vintage-thrift-fukuoka-福岡古著隱藏版攻略-天神以外的在地挖寶路線-fcf915.html
 published: 2026-06-14
-quality_score: 7.5
+quality_score: 8.8
 tags: 福岡古著, 日本古著, 二手衣物, 挖寶攻略, 九州購物
 license: CC BY 4.0
 ---

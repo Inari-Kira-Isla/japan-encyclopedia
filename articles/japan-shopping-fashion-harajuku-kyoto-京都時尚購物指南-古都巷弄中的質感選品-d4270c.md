@@ -6,7 +6,7 @@ category: fashion-harajuku
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-fashion-harajuku-kyoto-京都時尚購物指南-古都巷弄中的質感選品-d4270c.html
 published: 2026-05-22
-quality_score: 7.5
+quality_score: 8.7
 tags: 京都購物, 京都時尚, 質感選品, 京都巷弄, 日本購物
 license: CC BY 4.0
 ---

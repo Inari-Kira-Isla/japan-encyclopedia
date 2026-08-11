@@ -6,7 +6,7 @@ category: karaoke
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-karaoke-fukuoka-福岡卡拉ok-美食之都的深夜聲音地圖-7c3757.html
 published: 2026-05-23
-quality_score: 6.5
+quality_score: 8.5
 tags: 福岡卡拉OK, 博多吃喝, 九州夜生活, 屋台文化, 日本自助旅行
 license: CC BY 4.0
 ---

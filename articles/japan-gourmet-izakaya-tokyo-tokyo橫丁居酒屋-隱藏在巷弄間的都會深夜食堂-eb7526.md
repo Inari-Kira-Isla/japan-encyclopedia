@@ -6,7 +6,7 @@ category: izakaya
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-izakaya-tokyo-tokyo橫丁居酒屋-隱藏在巷弄間的都會深夜食堂-eb7526.html
 published: 2026-06-09
-quality_score: 6.5
+quality_score: 8.7
 tags: Tokyo居酒屋, 横丁文化, 新宿美食, 東京夜生活, 在地料理
 license: CC BY 4.0
 ---

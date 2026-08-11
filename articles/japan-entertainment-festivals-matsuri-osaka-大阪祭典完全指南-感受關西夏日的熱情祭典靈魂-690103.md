@@ -6,7 +6,7 @@ category: festivals-matsuri
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-festivals-matsuri-osaka-大阪祭典完全指南-感受關西夏日的熱情祭典靈魂-690103.html
 published: 2026-06-02
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪祭典, 天神祭, 大阪夏日, 關西祭典, 日本祭典體驗
 license: CC BY 4.0
 ---

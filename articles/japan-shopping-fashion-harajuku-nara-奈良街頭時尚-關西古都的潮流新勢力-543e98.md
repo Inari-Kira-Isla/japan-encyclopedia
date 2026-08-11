@@ -6,7 +6,7 @@ category: fashion-harajuku
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-fashion-harajuku-nara-奈良街頭時尚-關西古都的潮流新勢力-543e98.html
 published: 2026-06-23
-quality_score: 7.5
+quality_score: 8.9
 tags: 
 license: CC BY 4.0
 ---

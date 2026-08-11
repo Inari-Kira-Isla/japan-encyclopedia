@@ -6,7 +6,7 @@ category: rental-cars
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-kanazawa-金澤租車美食自駕遊-日本海側海港的鮮味獵人之旅-3bda5e.html
 published: 2026-06-22
-quality_score: 7.5
+quality_score: 8.7
 tags: 金澤租車, 日本海自駕遊, 魚津港, 冰見寒鰤, 輪島漆器
 license: CC BY 4.0
 ---

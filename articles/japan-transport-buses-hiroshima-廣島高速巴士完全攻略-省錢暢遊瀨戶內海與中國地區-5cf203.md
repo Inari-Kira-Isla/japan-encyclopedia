@@ -6,7 +6,7 @@ category: buses
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-buses-hiroshima-廣島高速巴士完全攻略-省錢暢遊瀨戶內海與中國地區-5cf203.html
 published: 2026-06-08
-quality_score: 7.5
+quality_score: 8.7
 tags: 廣島交通, 高速巴士, 瀨戶內海, 中國地區, 省錢旅行
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: vintage-thrift
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-vintage-thrift-nagoya-名古屋古著挖寶必讀-從名古屋車站到榮商圈的平價復古攻略-32cdb5.html
 published: 2026-06-18
-quality_score: 7.5
+quality_score: 8.5
 tags: 名古屋古著, 中部古著店, 名古屋購物, 二手古著, 日本古著攻略
 license: CC BY 4.0
 ---

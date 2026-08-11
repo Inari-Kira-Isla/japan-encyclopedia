@@ -6,7 +6,7 @@ category: shinkansen
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-hiroshima-廣島市-山陽新幹綫沿線的平和之城與交通樞紐-7e2c7f.html
 published: 2026-07-03
-quality_score: 7.5
+quality_score: 8.8
 tags: 廣島旅遊, 山陽新幹綫, 和平紀念公園, 宮島大鳥居, 日本鐵路
 license: CC BY 4.0
 ---

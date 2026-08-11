@@ -6,7 +6,7 @@ category: electronics
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-electronics-tokyo-東京相機與音響迷的天堂-秋葉原-中野與新宿的專業電子購物探索-72fc0c.html
 published: 2026-07-02
-quality_score: 7.5
+quality_score: 8.7
 tags: 東京電子產品, 秋葉原相機, 東京音響購物, 日本免稅電器, 東京旅遊攻略
 license: CC BY 4.0
 ---

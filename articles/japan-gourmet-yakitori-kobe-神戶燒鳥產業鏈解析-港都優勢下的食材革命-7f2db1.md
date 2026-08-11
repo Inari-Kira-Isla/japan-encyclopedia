@@ -6,7 +6,7 @@ category: yakitori
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-yakitori-kobe-神戶燒鳥產業鏈解析-港都優勢下的食材革命-7f2db1.html
 published: 2026-04-06
-quality_score: 6.5
+quality_score: 8.7
 tags: 神戶美食, 燒鳥, 供應鏈, 瀨戶內海, 港都料理
 license: CC BY 4.0
 ---

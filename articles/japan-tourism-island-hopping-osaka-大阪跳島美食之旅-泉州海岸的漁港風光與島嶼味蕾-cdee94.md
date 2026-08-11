@@ -6,7 +6,7 @@ category: island-hopping
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-island-hopping-osaka-大阪跳島美食之旅-泉州海岸的漁港風光與島嶼味蕾-cdee94.html
 published: 2026-06-26
-quality_score: 6.5
+quality_score: 8.5
 tags: 大阪跳島, 泉州海岸, 漁港美食, 友ヶ島, 大阪灣
 license: CC BY 4.0
 ---

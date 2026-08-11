@@ -6,7 +6,7 @@ category: ryokan
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-hiroshima-廣島溫泉旅館指南-品味瀨戶內海四季美食與和風溫泉的完美融合-2bf484.html
 published: 2026-04-06
-quality_score: 6.5
+quality_score: 8.7
 tags: 廣島溫泉, 瀨戶內海, 日式旅館, 牡蠣美食, 溫泉文化
 license: CC BY 4.0
 ---

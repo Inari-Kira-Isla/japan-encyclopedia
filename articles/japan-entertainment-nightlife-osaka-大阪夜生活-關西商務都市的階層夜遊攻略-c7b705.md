@@ -6,7 +6,7 @@ category: nightlife
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-osaka-大阪夜生活-關西商務都市的階層夜遊攻略-c7b705.html
 published: 2026-04-02
-quality_score: 6.5
+quality_score: 8.6
 tags: 大阪夜生活, 關西夜遊, 日本夜生活, 大阪美食, 商務社交
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: metro-systems
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-nagoya-名古屋地鐵的空間設計學-解讀都市脈動的五條動脈-09f71c.html
 published: 2026-03-24
-quality_score: 7.5
+quality_score: 8.7
 tags: 名古屋交通, 地鐵系統, 日本都市規劃, 公共運輸, 樞紐轉乘
 license: CC BY 4.0
 ---

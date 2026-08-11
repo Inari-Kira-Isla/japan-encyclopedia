@@ -6,7 +6,7 @@ category: festivals-matsuri
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-festivals-matsuri-kyoto-京都祭典全年地圖-四季限定的傳統體驗攻略-2764e1.html
 published: 2026-03-22
-quality_score: 6.5
+quality_score: 8.7
 tags: 京都, 祭典, 松祭, 四季, 旅遊指南
 license: CC BY 4.0
 ---

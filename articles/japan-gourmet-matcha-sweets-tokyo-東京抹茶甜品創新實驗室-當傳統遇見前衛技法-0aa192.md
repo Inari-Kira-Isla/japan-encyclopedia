@@ -6,7 +6,7 @@ category: matcha-sweets
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-matcha-sweets-tokyo-東京抹茶甜品創新實驗室-當傳統遇見前衛技法-0aa192.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京美食, 抹茶甜品, 創新甜品, 分子料理, 現代和菓子
 license: CC BY 4.0
 ---

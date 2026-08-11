@@ -6,7 +6,7 @@ category: garden-parks
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-nagoya-名古屋花園公園巡禮-中部都會的自然綠洲探索-c8dd04.html
 published: 2026-03-18
-quality_score: 6.5
+quality_score: 8.7
 tags: 名古屋, 花園, 公園, 日式庭園, 賞櫻
 license: CC BY 4.0
 ---

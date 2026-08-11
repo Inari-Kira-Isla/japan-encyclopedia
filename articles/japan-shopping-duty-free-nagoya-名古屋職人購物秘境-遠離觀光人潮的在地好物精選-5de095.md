@@ -6,7 +6,7 @@ category: duty-free
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-duty-free-nagoya-名古屋職人購物秘境-遠離觀光人潮的在地好物精選-5de095.html
 published: 2026-06-15
-quality_score: 7.5
+quality_score: 8.6
 tags: 名古屋免稅, 常滑燒, 有松絞染, 中部國際空港, 名古屋購物
 license: CC BY 4.0
 ---

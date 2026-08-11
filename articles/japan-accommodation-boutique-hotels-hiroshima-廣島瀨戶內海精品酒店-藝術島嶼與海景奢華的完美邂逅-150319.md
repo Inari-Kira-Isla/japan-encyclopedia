@@ -6,7 +6,7 @@ category: boutique-hotels
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-hiroshima-廣島瀨戶內海精品酒店-藝術島嶼與海景奢華的完美邂逅-150319.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.8
 tags: 廣島, 精品酒店, 瀨戶內海, 藝術住宿, 海景酒店
 license: CC BY 4.0
 ---

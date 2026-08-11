@@ -6,7 +6,7 @@ category: ferries
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-ferries-nagoya-名古屋渡輪交通指南-中部港都的海路出行選擇-fe4fee.html
 published: 2026-05-31
-quality_score: 7.5
+quality_score: 8.3
 tags: 名古屋交通, 渡輪, 中部海岸, 伊勢灣, 名古屋港
 license: CC BY 4.0
 ---

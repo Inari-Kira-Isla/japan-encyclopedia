@@ -6,7 +6,7 @@ category: business-hotels
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-business-hotels-kobe-神戶商務住宿深度評測-港都出差的實用住宿策略-6160b4.html
 published: 2026-06-06
-quality_score: 6.5
+quality_score: 8.4
 tags: 神戶商務住宿, 關西出差, 港口都市, 商務旅行, 日本住宿
 license: CC BY 4.0
 ---

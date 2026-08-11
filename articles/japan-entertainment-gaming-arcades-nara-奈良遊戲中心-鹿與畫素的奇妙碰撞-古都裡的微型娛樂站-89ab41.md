@@ -6,7 +6,7 @@ category: gaming-arcades
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-gaming-arcades-nara-奈良遊戲中心-鹿與畫素的奇妙碰撞-古都裡的微型娛樂站-89ab41.html
 published: 2026-06-04
-quality_score: 6.5
+quality_score: 8.8
 tags: 奈良遊戲中心, 奈良自由行, 關西山崎遊, 奈良景點推薦, 日本街機文化
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: street-food
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-street-food-kanazawa-金澤日本海側的鮮味哲學-海港城市的街頭海鮮與冬季味覚-d3f73b.html
 published: 2026-06-06
-quality_score: 6.5
+quality_score: 8.5
 tags: 金澤, 街頭美食, 日本海, 海鮮, 冬季味覚
 license: CC BY 4.0
 ---

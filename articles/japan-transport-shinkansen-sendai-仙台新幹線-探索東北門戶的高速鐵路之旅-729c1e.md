@@ -6,7 +6,7 @@ category: shinkansen
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-sendai-仙台新幹線-探索東北門戶的高速鐵路之旅-729c1e.html
 published: 2026-03-15
-quality_score: 7.5
+quality_score: 8.7
 tags: 仙台, 新幹線, 東北, 交通, 美食
 license: CC BY 4.0
 ---

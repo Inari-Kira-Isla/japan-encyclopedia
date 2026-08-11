@@ -6,7 +6,7 @@ category: souvenir-omiyage
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-souvenir-omiyage-okinawa-沖繩質感伴手禮尋寶地圖-度假區限定工藝品與設計師特選店-98b3df.html
 published: 2026-06-17
-quality_score: 7.5
+quality_score: 8.5
 tags: 沖繩伴手禮, 度假區購物, 質感小物, 琉球工藝, 手做工房
 license: CC BY 4.0
 ---

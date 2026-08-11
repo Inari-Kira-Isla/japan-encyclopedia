@@ -6,7 +6,7 @@ category: karaoke
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-karaoke-kanazawa-金澤卡拉ok-年輕揹包客的深夜歌聲據點-45556f.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤娛樂, 日本卡拉OK, 北陸夜生活, 背包客指南, 學生文化
 license: CC BY 4.0
 ---

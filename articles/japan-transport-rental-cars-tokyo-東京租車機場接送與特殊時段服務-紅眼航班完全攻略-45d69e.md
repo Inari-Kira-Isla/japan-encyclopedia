@@ -6,7 +6,7 @@ category: rental-cars
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-tokyo-東京租車機場接送與特殊時段服務-紅眼航班完全攻略-45d69e.html
 published: 2026-03-31
-quality_score: 7.5
+quality_score: 8.5
 tags: 東京租車, 機場接送, 紅眼航班, 凌晨航班, 深夜取車
 license: CC BY 4.0
 ---

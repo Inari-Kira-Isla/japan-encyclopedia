@@ -6,7 +6,7 @@ category: sumo
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-osaka-大阪相撲完全指南-關西力士的激情戰場-5cbff8.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 8.9
 tags: 
 license: CC BY 4.0
 ---

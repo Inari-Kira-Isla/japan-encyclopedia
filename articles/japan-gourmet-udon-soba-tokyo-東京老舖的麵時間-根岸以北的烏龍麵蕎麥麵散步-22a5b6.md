@@ -6,7 +6,7 @@ category: udon-soba
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-udon-soba-tokyo-東京老舖的麵時間-根岸以北的烏龍麵蕎麥麵散步-22a5b6.html
 published: 2026-06-28
-quality_score: 6.5
+quality_score: 8.5
 tags: 東京烏龍麵, 東京蕎麥麵, 根岸, 人形町, 淺草橋
 license: CC BY 4.0
 ---

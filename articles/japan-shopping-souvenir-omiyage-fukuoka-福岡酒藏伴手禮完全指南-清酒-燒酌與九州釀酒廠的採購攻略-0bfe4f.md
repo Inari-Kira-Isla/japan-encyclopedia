@@ -6,7 +6,7 @@ category: souvenir-omiyage
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-souvenir-omiyage-fukuoka-福岡酒藏伴手禮完全指南-清酒-燒酌與九州釀酒廠的採購攻略-0bfe4f.html
 published: 2026-06-23
-quality_score: 7.5
+quality_score: 8.7
 tags: 福岡伴手禮, 九州清酒, 福岡必買, 日本伴手禮, 酒類伴手禮
 license: CC BY 4.0
 ---

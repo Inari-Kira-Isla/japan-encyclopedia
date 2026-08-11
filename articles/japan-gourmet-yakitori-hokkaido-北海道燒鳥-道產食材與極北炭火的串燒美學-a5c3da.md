@@ -6,7 +6,7 @@ category: yakitori
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-yakitori-hokkaido-北海道燒鳥-道產食材與極北炭火的串燒美學-a5c3da.html
 published: 2026-06-09
-quality_score: 6.5
+quality_score: 8.5
 tags: 北海道美食, 燒鳥, Yakitori, 札幌美食, 北海道旅行
 license: CC BY 4.0
 ---

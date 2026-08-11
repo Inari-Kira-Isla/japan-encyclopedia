@@ -6,7 +6,7 @@ category: onsen
 area: japan
 url: https://japan-encyclopedia.vercel.app/articles/japan-attractions-onsen-九州別府溫泉完整指南2026-地獄巡り-砂蒸し-湯布院-別府溫泉費用-jpy-完整攻略-jp-kyushu-be-6d0b6c.html
 published: 2026-04-04
-quality_score: 7.1
+quality_score: 8.7
 tags: 別府溫泉, 地獄巡り, 湯布院, 指宿砂蒸し, 九州溫泉
 license: CC BY 4.0
 ---

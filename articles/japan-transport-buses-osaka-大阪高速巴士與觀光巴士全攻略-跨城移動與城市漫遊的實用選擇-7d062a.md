@@ -6,7 +6,7 @@ category: buses
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-buses-osaka-大阪高速巴士與觀光巴士全攻略-跨城移動與城市漫遊的實用選擇-7d062a.html
 published: 2026-06-16
-quality_score: 7.5
+quality_score: 8.5
 tags: 大阪巴士, 高速巴士, 關西交通, 觀光巴士, 大阪旅遊
 license: CC BY 4.0
 ---

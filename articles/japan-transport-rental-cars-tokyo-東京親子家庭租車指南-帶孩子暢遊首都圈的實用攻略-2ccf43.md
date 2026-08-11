@@ -6,7 +6,7 @@ category: rental-cars
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-tokyo-東京親子家庭租車指南-帶孩子暢遊首都圈的實用攻略-2ccf43.html
 published: 2026-03-29
-quality_score: 7.5
+quality_score: 8.5
 tags: 東京租車, 親子旅遊, 家庭自駕, 日本交通, 兒童座椅
 license: CC BY 4.0
 ---

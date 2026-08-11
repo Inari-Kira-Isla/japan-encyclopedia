@@ -6,7 +6,7 @@ category: buses
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-buses-nara-奈良本土公車慢旅行-深入鄉間部落的神秘路線-e02c87.html
 published: 2026-06-03
-quality_score: 7.5
+quality_score: 8.5
 tags: 奈良公車, 奈良交通, 奈良自由行, 關西巴士, 日本背包客
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: port-culture
 area: japan
 url: https://japan-encyclopedia.vercel.app/articles/japan-attractions-port-culture-橫濱中華街和港口完整指南2026-橫濱中華街-山下公園-三溪園-橫濱費用-jpy-攻略-jp-yo-c2c33a.html
 published: 2026-05-01
-quality_score: 7.1
+quality_score: 8.6
 tags: 橫濱中華街, 橫濱港, 山下公園, 橫濱地標塔, 三溪園
 license: CC BY 4.0
 ---

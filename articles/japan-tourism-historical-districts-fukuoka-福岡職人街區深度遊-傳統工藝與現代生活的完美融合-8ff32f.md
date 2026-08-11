@@ -6,7 +6,7 @@ category: historical-districts
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-fukuoka-福岡職人街區深度遊-傳統工藝與現代生活的完美融合-8ff32f.html
 published: 2026-04-06
-quality_score: 6.5
+quality_score: 8.7
 tags: 福岡, 歷史街區, 職人文化, 傳統工藝, 博多
 license: CC BY 4.0
 ---

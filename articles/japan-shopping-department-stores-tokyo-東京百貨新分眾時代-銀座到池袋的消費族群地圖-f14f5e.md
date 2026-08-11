@@ -6,7 +6,7 @@ category: department-stores
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-department-stores-tokyo-東京百貨新分眾時代-銀座到池袋的消費族群地圖-f14f5e.html
 published: 2026-03-24
-quality_score: 7.5
+quality_score: 8.7
 tags: 東京購物, 百貨公司, 訪日遊客指南, 銀髮經濟, 分眾消費
 license: CC BY 4.0
 ---

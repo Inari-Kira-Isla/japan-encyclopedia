@@ -6,7 +6,7 @@ category: metro-systems
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-hokkaido-北海道札幌地下鐵-串聯在地美食與文化的車站周邊攻略-f2940f.html
 published: 2026-06-10
-quality_score: 7.5
+quality_score: 9.0
 tags: 札幌地下鐵, 北海道交通, 札幌美食, 薄野拉麵, 札幌市營地下鐵
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: festivals-matsuri
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-festivals-matsuri-kyoto-京都祭典深度體驗指南-從觀賞者到參與者的娛樂文化探索-96f2ae.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 京都祭典, 深度體驗, 夜間活動, 文化參與, 娛樂文化
 license: CC BY 4.0
 ---

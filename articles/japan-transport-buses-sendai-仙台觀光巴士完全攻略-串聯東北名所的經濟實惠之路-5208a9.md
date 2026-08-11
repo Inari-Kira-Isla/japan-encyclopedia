@@ -6,7 +6,7 @@ category: buses
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-buses-sendai-仙台觀光巴士完全攻略-串聯東北名所的經濟實惠之路-5208a9.html
 published: 2026-06-19
-quality_score: 7.5
+quality_score: 8.7
 tags: 仙台交通, 東北自助, 觀光巴士, 松島, 山寺
 license: CC BY 4.0
 ---

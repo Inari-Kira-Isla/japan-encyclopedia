@@ -6,7 +6,7 @@ category: kaiseki
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-kaiseki-kyoto-京都懷石料理-四季遞嬗中的預訂攻略與品鑑指南-8be9bf.html
 published: 2026-04-01
-quality_score: 6.5
+quality_score: 8.9
 tags: 京都美食, 懷石料理, 日本料理, 季節料理, 高級餐廳
 license: CC BY 4.0
 ---

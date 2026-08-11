@@ -6,7 +6,7 @@ category: theme-parks
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-theme-parks-nara-奈良隱藏版娛樂指南-古都巷弄裡的在地趣味體驗-b64f20.html
 published: 2026-06-14
-quality_score: 6.5
+quality_score: 8.7
 tags: 奈良主题乐园, 奈良亲子游, 奈良公园, 奈良旅游, 日本古都
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: matcha-sweets
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-matcha-sweets-hiroshima-廣島抹茶甜點-巷弄裡的茶香記憶-b42064.html
 published: 2026-06-02
-quality_score: 6.5
+quality_score: 8.6
 tags: 廣島抹茶, 廣島甜點, 日本抹茶甜點, 廣島cafe, 廣島旅遊
 license: CC BY 4.0
 ---

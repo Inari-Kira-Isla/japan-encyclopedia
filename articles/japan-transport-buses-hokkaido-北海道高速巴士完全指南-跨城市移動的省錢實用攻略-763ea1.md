@@ -6,7 +6,7 @@ category: buses
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-buses-hokkaido-北海道高速巴士完全指南-跨城市移動的省錢實用攻略-763ea1.html
 published: 2026-06-15
-quality_score: 7.5
+quality_score: 8.7
 tags: 北海道巴士, 高速巴士, 北海道交通, 新千歲機場, 夜行巴士
 license: CC BY 4.0
 ---

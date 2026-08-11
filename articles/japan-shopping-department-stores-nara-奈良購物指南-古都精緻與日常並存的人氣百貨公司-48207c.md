@@ -6,7 +6,7 @@ category: department-stores
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-department-stores-nara-奈良購物指南-古都精緻與日常並存的人氣百貨公司-48207c.html
 published: 2026-06-01
-quality_score: 7.5
+quality_score: 8.5
 tags: 奈良購物, 日本古都, 奈良百货公司, 近鐵百货店, AEON Mall
 license: CC BY 4.0
 ---

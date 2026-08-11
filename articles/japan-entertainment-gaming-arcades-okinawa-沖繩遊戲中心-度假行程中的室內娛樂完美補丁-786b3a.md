@@ -6,7 +6,7 @@ category: gaming-arcades
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-gaming-arcades-okinawa-沖繩遊戲中心-度假行程中的室內娛樂完美補丁-786b3a.html
 published: 2026-06-22
-quality_score: 6.5
+quality_score: 8.8
 tags: 沖繩遊戲中心, 沖繩親子旅遊, 沖繩室內活動, 那霸娛樂, 石垣島景點
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: island-hopping
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-island-hopping-hiroshima-廣島瀨戶內海跳島旅遊-藝術與自然共鳴的島嶼療癒之旅-bad2bd.html
 published: 2026-06-24
-quality_score: 6.5
+quality_score: 8.6
 tags: 廣島跳島, 瀨戶內海, 藝術之旅, 直島, 豐島
 license: CC BY 4.0
 ---

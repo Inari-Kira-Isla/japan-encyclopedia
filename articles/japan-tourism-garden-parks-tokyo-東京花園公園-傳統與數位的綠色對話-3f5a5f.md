@@ -6,7 +6,7 @@ category: garden-parks
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-tokyo-東京花園公園-傳統與數位的綠色對話-3f5a5f.html
 published: 2026-06-19
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京花園, 日式庭園, teamLab, 數位藝術, 都市綠洲
 license: CC BY 4.0
 ---

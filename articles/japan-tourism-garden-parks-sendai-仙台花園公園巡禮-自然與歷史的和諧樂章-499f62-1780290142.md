@@ -6,7 +6,7 @@ category: garden-parks
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-sendai-仙台花園公園巡禮-自然與歷史的和諧樂章-499f62-1780290142.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 8.9
 tags: 仙台, 花園公園, 東北旅遊, 自然探索, 歷史文化
 license: CC BY 4.0
 ---

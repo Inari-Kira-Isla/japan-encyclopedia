@@ -6,7 +6,7 @@ category: castle-towns
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-castle-towns-kanazawa-金澤城下町-傳統工藝與現代設計的交融之地-2378db.html
 published: 2026-06-25
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤, 城下町, 傳統工藝, 金箔, 加賀友禪
 license: CC BY 4.0
 ---

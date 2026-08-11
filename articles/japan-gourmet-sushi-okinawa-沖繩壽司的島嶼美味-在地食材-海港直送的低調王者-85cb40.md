@@ -6,7 +6,7 @@ category: sushi
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sushi-okinawa-沖繩壽司的島嶼美味-在地食材-海港直送的低調王者-85cb40.html
 published: 2026-06-02
-quality_score: 6.5
+quality_score: 8.7
 tags: 沖繩壽司, 那霸美食,  Okinawa Sushi, 島嶼食材, 與那國島藍鰭鮪
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: nightlife
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-tokyo-東京夜生活-從新宿到澀谷-讀懂都市人的深夜情感地圖-4a4c4a.html
 published: 2026-03-31
-quality_score: 6.5
+quality_score: 8.6
 tags: 東京夜生活, 新宿, 澀谷, 六本木, 日本娛樂
 license: CC BY 4.0
 ---

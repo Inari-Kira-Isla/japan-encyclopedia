@@ -6,7 +6,7 @@ category: airport-transfer
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-airport-transfer-kyoto-京都機場交通攻略-深度旅客的效率最佳化指南-e1b08a.html
 published: 2026-04-03
-quality_score: 7.5
+quality_score: 8.7
 tags: 京都交通, 機場接駁, 關西機場, HARUKA, 利木津巴士
 license: CC BY 4.0
 ---

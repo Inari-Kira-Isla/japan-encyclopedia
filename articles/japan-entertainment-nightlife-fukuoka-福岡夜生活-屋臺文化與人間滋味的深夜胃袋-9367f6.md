@@ -6,7 +6,7 @@ category: nightlife
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-fukuoka-福岡夜生活-屋臺文化與人間滋味的深夜胃袋-9367f6.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 8.9
 tags: 福岡夜生活, 屋台文化, 日本居酒屋, 九州美食, 深夜拉麵
 license: CC BY 4.0
 ---

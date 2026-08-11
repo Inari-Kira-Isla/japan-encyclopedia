@@ -6,7 +6,7 @@ category: kabuki-theatre
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-kabuki-theatre-hokkaido-北海道冬季現場娛樂-沒有傳統歌舞妓的城市活力密碼-ae28e7.html
 published: 2026-06-24
-quality_score: 6.5
+quality_score: 8.6
 tags: 北海道娛樂, 札幌現場演出, 北海道冬季體驗, 札幌薄野, 旭川表演場所
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: anime-manga
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-tokyo-東京動漫次文化解壓縮-從巷弄小店窺見御宅宇宙的多元宇宙-82161e.html
 published: 2026-06-28
-quality_score: 6.5
+quality_score: 8.5
 tags: 東京動漫, 御宅文化, 次文化, 秋葉原, 池袋
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: castle-towns
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-castle-towns-sendai-仙台城下町-從武家經濟到現代商都的商業文化傳承-3e1dd4.html
 published: 2026-04-04
-quality_score: 6.5
+quality_score: 8.7
 tags: 城下町, 商業文化, 一番町, 國分町, 伊達政宗
 license: CC BY 4.0
 ---

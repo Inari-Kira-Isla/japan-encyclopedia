@@ -6,7 +6,7 @@ category: garden-parks
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-okinawa-沖繩花園公園巡禮-南國特有的園林美學-47f7b3.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 8.7
 tags: 沖繩, 花園, 公園, 園藝, 亞熱帶
 license: CC BY 4.0
 ---

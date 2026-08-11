@@ -6,7 +6,7 @@ category: day-trips
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-nara-奈良郊遊散步指南-遠離人潮的在地日常探索-aa091b.html
 published: 2026-06-10
-quality_score: 6.5
+quality_score: 8.6
 tags: 奈良一日遊, 奈良郊區, 吉野賞櫻, 明日香村, 飛鳥古坟
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: ryokan
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-fukuoka-福岡商務人士必修-都市型溫泉旅館完全指南-cbb83d.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 8.7
 tags: 福岡, Ryokan, 都市型溫泉, 商務住宿, 博多万國館
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: nightlife
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-okinawa-沖繩夜生活-沙灘夕陽與島嶼節奏的微醺指南-0b1fa4.html
 published: 2026-06-24
-quality_score: 6.5
+quality_score: 8.7
 tags: 沖繩夜生活, 沙灘酒吧,  beach bar, 屋台村, 泡盛
 license: CC BY 4.0
 ---

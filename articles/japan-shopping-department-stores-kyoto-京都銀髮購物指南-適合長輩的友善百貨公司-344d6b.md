@@ -6,7 +6,7 @@ category: department-stores
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-department-stores-kyoto-京都銀髮購物指南-適合長輩的友善百貨公司-344d6b.html
 published: 2026-06-07
-quality_score: 7.5
+quality_score: 8.6
 tags: 京都購物, 銀髮族友善, 無障礙旅遊, 高島屋京都, 近鐵百货
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: ryokan
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-nara-奈良宿坊與微型旅宿-日本古都的小規模住宿體驗-f4f8ab.html
 published: 2026-06-03
-quality_score: 6.5
+quality_score: 8.6
 tags: 奈良Ryokan, 奈良宿坊, 日本古都住宿, 奈良小型旅宿, 法隆寺住宿
 license: CC BY 4.0
 ---

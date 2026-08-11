@@ -6,7 +6,7 @@ category: electronics
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-electronics-fukuoka-福岡中古電子產品寶庫-九州最大二手電器市場完全攻略-347edc.html
 published: 2026-04-03
-quality_score: 7.5
+quality_score: 8.5
 tags: 福岡購物, 中古電器, 二手商品, 日本電子產品, 省錢攻略
 license: CC BY 4.0
 ---

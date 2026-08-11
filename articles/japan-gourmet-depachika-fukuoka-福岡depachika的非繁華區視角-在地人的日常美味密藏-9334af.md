@@ -6,7 +6,7 @@ category: depachika
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-depachika-fukuoka-福岡depachika的非繁華區視角-在地人的日常美味密藏-9334af.html
 published: 2026-05-21
-quality_score: 6.5
+quality_score: 8.6
 tags: 福岡, Depachika, 地下食品, 九州美食, 在地體驗
 license: CC BY 4.0
 ---

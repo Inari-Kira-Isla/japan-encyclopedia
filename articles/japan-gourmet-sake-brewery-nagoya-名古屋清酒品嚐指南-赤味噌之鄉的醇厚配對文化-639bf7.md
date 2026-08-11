@@ -6,7 +6,7 @@ category: sake-brewery
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sake-brewery-nagoya-名古屋清酒品嚐指南-赤味噌之鄉的醇厚配對文化-639bf7.html
 published: 2026-04-06
-quality_score: 6.5
+quality_score: 8.7
 tags: 名古屋美食, 日本清酒, 味噌文化, 在地體驗, 愛知県
 license: CC BY 4.0
 ---

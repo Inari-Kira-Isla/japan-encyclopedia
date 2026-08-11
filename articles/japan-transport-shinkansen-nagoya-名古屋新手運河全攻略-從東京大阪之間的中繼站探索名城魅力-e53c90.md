@@ -6,7 +6,7 @@ category: shinkansen
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-nagoya-名古屋新手運河全攻略-從東京大阪之間的中繼站探索名城魅力-e53c90.html
 published: 2026-06-23
-quality_score: 7.5
+quality_score: 8.6
 tags: 名古屋, 新幹綫, JR東海道, 中部地方, 交通樞紐
 license: CC BY 4.0
 ---

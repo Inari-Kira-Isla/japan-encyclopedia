@@ -6,7 +6,7 @@ category: love-hotels
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-love-hotels-hiroshima-廣島情侶住宿攻略-平和紀念與浪漫時光的住宿選擇-d1ba7c.html
 published: 2026-05-25
-quality_score: 6.5
+quality_score: 8.6
 tags: 廣島住宿, 情侶旅遊, 瀨戶內海, 宮島嚴神社, 日本中國地區
 license: CC BY 4.0
 ---

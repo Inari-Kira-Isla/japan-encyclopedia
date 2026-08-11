@@ -6,7 +6,7 @@ category: depachika
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-depachika-sendai-仙台depachika-東北職人工藝與學都食文化的美味交匯-4ff46b.html
 published: 2026-04-02
-quality_score: 6.5
+quality_score: 8.7
 tags: 仙台美食, depachika, 東北料理, 百貨地下街, 職人文化
 license: CC BY 4.0
 ---

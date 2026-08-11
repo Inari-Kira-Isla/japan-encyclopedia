@@ -6,7 +6,7 @@ category: scenic-routes
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-hiroshima-廣島單車風景道-用踩踏速度感受瀨戶內海的島嶼風情-fdfe16.html
 published: 2026-07-04
-quality_score: 6.5
+quality_score: 8.7
 tags: 廣島單車旅行, 瀨戶內海單車道, 廣島島嶼風光, 日本單車旅遊, 尾道單車
 license: CC BY 4.0
 ---

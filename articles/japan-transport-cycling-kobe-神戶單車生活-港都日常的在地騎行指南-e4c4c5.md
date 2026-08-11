@@ -6,7 +6,7 @@ category: cycling
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-kobe-神戶單車生活-港都日常的在地騎行指南-e4c4c5.html
 published: 2026-07-01
-quality_score: 7.5
+quality_score: 8.6
 tags: 神戶單車, 港都骑行, 日常旅行, 關西自由行, 日本自助
 license: CC BY 4.0
 ---

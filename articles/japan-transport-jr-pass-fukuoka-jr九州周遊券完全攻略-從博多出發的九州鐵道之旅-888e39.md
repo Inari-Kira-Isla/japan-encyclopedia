@@ -6,7 +6,7 @@ category: jr-pass
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-jr-pass-fukuoka-jr九州周遊券完全攻略-從博多出發的九州鐵道之旅-888e39.html
 published: 2026-06-19
-quality_score: 7.5
+quality_score: 8.5
 tags: JR九州周遊券, 九州鐵道, 博多, 由布院, 阿蘇
 license: CC BY 4.0
 ---

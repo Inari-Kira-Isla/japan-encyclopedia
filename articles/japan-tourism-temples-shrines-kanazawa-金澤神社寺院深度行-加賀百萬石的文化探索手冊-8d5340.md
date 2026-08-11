@@ -6,7 +6,7 @@ category: temples-shrines
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-temples-shrines-kanazawa-金澤神社寺院深度行-加賀百萬石的文化探索手冊-8d5340.html
 published: 2026-07-03
-quality_score: 6.5
+quality_score: 8.8
 tags: 金澤寺廟, 金澤神社, 加賀藩, 日本寺廟巡禮, 金澤旅遊
 license: CC BY 4.0
 ---

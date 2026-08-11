@@ -6,7 +6,7 @@ category: theme-parks
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-theme-parks-sendai-仙台室內親子樂園全攻略-雨雪天的東北遛娃聖地-c8eb33.html
 published: 2026-07-06
-quality_score: 6.5
+quality_score: 8.8
 tags: 仙台室內景點, 東北親子遊, 仙台雨天備案, 日本溫泉體驗, 東北家庭出遊
 license: CC BY 4.0
 ---

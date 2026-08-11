@@ -6,7 +6,7 @@ category: kabuki-theatre
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-kabuki-theatre-tokyo-東京kabuki劇院-新手入門與特色劇場完全指南-ef6eac.html
 published: 2026-06-09
-quality_score: 6.5
+quality_score: 8.8
 tags: 東京Kabuki, 歌舞妓座, 新橋新生座, 淺草公眾劇場, 傳統表演藝術
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: matcha-sweets
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-matcha-sweets-hiroshima-廣島抹茶甜點-瀨戶內海的綠茶風情-3ca1d0.html
 published: 2026-06-06
-quality_score: 6.5
+quality_score: 8.7
 tags: 廣島抹茶, 宮島甜點, 瀨戶內海美食, 廣島和洋融合, 廣島抹茶大福
 license: CC BY 4.0
 ---

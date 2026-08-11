@@ -6,7 +6,7 @@ category: day-trips
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-fukuoka-福岡溫泉一日遊-東-西-北三大溫泉區的硫磺泉與鹽化物泉養生之旅-bca18c.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 福岡, 溫泉一日遊, 硫磺泉, 鹽化物泉, 九州溫泉
 license: CC BY 4.0
 ---

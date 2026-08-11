@@ -6,7 +6,7 @@ category: ferries
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-ferries-nara-奈良周邊渡輪體驗-從千年古都出發的水上之旅-f0202b.html
 published: 2026-06-09
-quality_score: 7.5
+quality_score: 8.3
 tags: 奈良, 渡輪, 關西, 和歌山, 瀨戶內海
 license: CC BY 4.0
 ---

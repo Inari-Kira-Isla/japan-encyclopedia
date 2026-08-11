@@ -6,7 +6,7 @@ category: vintage-thrift
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-vintage-thrift-kyoto-京都古著尋寶-遠離人潮的隱藏版圖-50e44e.html
 published: 2026-06-25
-quality_score: 7.5
+quality_score: 8.6
 tags: 京都古著, 古著購物, 復古時尚, 京都自由行, 關西古著
 license: CC BY 4.0
 ---

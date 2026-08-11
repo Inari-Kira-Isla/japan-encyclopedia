@@ -6,7 +6,7 @@ category: fashion-harajuku
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-fashion-harajuku-okinawa-沖繩街頭時尚購物完全指南-美軍基地文化與海島休閒風-eaee96.html
 published: 2026-06-09
-quality_score: 7.5
+quality_score: 8.8
 tags: 沖繩購物, 美軍基地文化, outlet, 古著, 街頭時尚
 license: CC BY 4.0
 ---

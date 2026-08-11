@@ -6,7 +6,7 @@ category: festivals-matsuri
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-festivals-matsuri-kobe-神戶夜景祭典-港都冬夜的光之饗宴與街巷美食地圖-83eada.html
 published: 2026-06-17
-quality_score: 6.5
+quality_score: 8.5
 tags: 神戶祭典, 冬季祭典, 神戶夜景, 港都體驗, 關西祭典
 license: CC BY 4.0
 ---

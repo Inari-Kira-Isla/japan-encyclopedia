@@ -6,7 +6,7 @@ category: sumo
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-kyoto-京都的相撲-古都裡的力士文化散步-4ea431.html
 published: 2026-05-23
-quality_score: 6.5
+quality_score: 8.6
 tags: 京都相撲, 古都文化, 相撲火鍋, 下鴨神社, 關西體驗
 license: CC BY 4.0
 ---

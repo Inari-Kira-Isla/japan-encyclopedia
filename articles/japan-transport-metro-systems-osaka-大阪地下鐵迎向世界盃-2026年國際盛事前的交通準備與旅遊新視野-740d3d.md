@@ -6,7 +6,7 @@ category: metro-systems
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-osaka-大阪地下鐵迎向世界盃-2026年國際盛事前的交通準備與旅遊新視野-740d3d.html
 published: 2026-06-21
-quality_score: 7.5
+quality_score: 8.7
 tags: 大阪地下鐵, 2026世界盃, 關西交通, 大阪旅遊, 吹田足球場
 license: CC BY 4.0
 ---

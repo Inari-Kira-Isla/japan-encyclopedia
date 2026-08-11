@@ -6,7 +6,7 @@ category: souvenir-omiyage
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-souvenir-omiyage-kyoto-京都伴手itaire選購攻略-時間緊湊旅客的效率採購指南-9921f5.html
 published: 2026-07-04
-quality_score: 7.5
+quality_score: 8.8
 tags: 京都伴手禮, 京都必買, 京都車站, 京都購物, 日本伴手禮
 license: CC BY 4.0
 ---

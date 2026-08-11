@@ -6,7 +6,7 @@ category: historical-districts
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-fukuoka-福岡歷史街區巡禮-探索九州玄關的古韻風華-a01492.html
 published: 2026-03-15
-quality_score: 6.5
+quality_score: 8.7
 tags: 福岡歷史, 博多舊市街, 太宰府, 日本寺廟, 傳統文化
 license: CC BY 4.0
 ---

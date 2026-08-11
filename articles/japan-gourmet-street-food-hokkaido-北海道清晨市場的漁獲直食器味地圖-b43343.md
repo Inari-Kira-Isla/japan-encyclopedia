@@ -6,7 +6,7 @@ category: street-food
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-street-food-hokkaido-北海道清晨市場的漁獲直食器味地圖-b43343.html
 published: 2026-06-04
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道, 街頭美食, 早晨市場, 海鮮, 函館
 license: CC BY 4.0
 ---

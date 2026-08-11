@@ -6,7 +6,7 @@ category: festivals-matsuri
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-festivals-matsuri-nagoya-名古屋祭典娛樂體驗-中京都會的狂歡夜生活與街頭慶典文化-37454e.html
 published: 2026-03-28
-quality_score: 6.5
+quality_score: 8.7
 tags: 名古屋祭典, 日本夜生活, 娛樂體驗, 中京文化, 祭典美食
 license: CC BY 4.0
 ---

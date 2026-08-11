@@ -6,7 +6,7 @@ category: minshuku
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-okinawa-沖繩親子民宿完全指南-家庭出遊的島嶼住宿實用選擇-416615.html
 published: 2026-06-13
-quality_score: 6.5
+quality_score: 8.4
 tags: 沖繩民宿, 親子旅遊, 家庭住宿,  Okinawa, Minshuku
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: ryokan
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-kanazawa-金澤町家ryokan-非溫泉系的加賀百萬石美學住宿-e5cda3.html
 published: 2026-06-20
-quality_score: 6.5
+quality_score: 8.5
 tags: 金澤Ryokan, 町家住宿, 加賀百萬石, 非溫泉住宿, 金澤市內住宿
 license: CC BY 4.0
 ---

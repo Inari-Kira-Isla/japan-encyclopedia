@@ -6,7 +6,7 @@ category: street-food
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-street-food-nara-奈良街頭美食-古道與現代的味蕾交錯-422ba7.html
 published: 2026-05-25
-quality_score: 6.5
+quality_score: 8.7
 tags: 奈良, 街頭美食, 關西, 日本料理, 古都
 license: CC BY 4.0
 ---

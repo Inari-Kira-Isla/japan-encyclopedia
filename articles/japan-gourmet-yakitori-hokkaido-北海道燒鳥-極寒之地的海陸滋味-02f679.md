@@ -6,7 +6,7 @@ category: yakitori
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-yakitori-hokkaido-北海道燒鳥-極寒之地的海陸滋味-02f679.html
 published: 2026-06-03
-quality_score: 6.5
+quality_score: 8.6
 tags: 北海道燒鳥, 燒鳥文化, 道產食材, 釧路燒鳥, 札幌薄野
 license: CC BY 4.0
 ---

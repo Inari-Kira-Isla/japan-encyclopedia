@@ -6,7 +6,7 @@ category: scenic-routes
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-osaka-大阪港灣與南大阪產業遺產步道-從昭和海風到現代港口的時空散步-3bbdad.html
 published: 2026-06-18
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪景點, 港灣散步, 產業遺產, 城市散步, 南大阪
 license: CC BY 4.0
 ---

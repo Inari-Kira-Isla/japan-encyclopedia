@@ -6,7 +6,7 @@ category: tonkatsu
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tonkatsu-hokkaido-北海道炸豬排-大地食材賦予的洋食新生命-0ad877.html
 published: 2026-06-07
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道炸豬排, 北海道美食, 道產豬肉, 札幌美食, 小樽美食
 license: CC BY 4.0
 ---

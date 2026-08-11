@@ -6,7 +6,7 @@ category: airport-transfer
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-airport-transfer-nagoya-名古屋機場交通失敗學-5個常見錯誤與自救方案-7f8ea1.html
 published: 2026-07-02
-quality_score: 7.5
+quality_score: 8.7
 tags: 名古屋機場交通, 中部國際空港, 機場接送, 名鐵交通, 名古屋自由行
 license: CC BY 4.0
 ---

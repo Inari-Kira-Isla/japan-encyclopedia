@@ -6,7 +6,7 @@ category: rental-cars
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-hiroshima-廣島租車自駕樞紐攻略-從山陰到瀨戶內海的跨縣市連遊指南-720056.html
 published: 2026-06-23
-quality_score: 7.5
+quality_score: 8.5
 tags: 廣島租車, 山陰自駕, 瀨戶內海, 跨縣市租車, 廣島自驾遊
 license: CC BY 4.0
 ---

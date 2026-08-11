@@ -6,7 +6,7 @@ category: 100-yen-shops
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-100-yen-shops-okinawa-沖繩親子百元店攻略-家庭旅客的平價購物樂園-169ccd.html
 published: 2026-06-15
-quality_score: 7.5
+quality_score: 8.6
 tags: 沖繩親子遊, 百元商店, 家庭旅客, 平價購物, 沖繩限定商品
 license: CC BY 4.0
 ---

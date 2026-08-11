@@ -6,7 +6,7 @@ category: department-stores
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-department-stores-hokkaido-北海道百貨公司購物指南-精選5家人氣商場-ad3d7e.html
 published: 2026-03-15
-quality_score: 7.5
+quality_score: 8.7
 tags: 北海道購物, 札幌百貨公司, 北海道伴手禮, 札幌旅遊, 日本購物
 license: CC BY 4.0
 ---

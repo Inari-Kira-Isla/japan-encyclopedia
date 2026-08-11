@@ -6,7 +6,7 @@ category: island-hopping
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-island-hopping-hokkaido-北海道跳島美食輿圖-北方的隔絕之味-042ec2.html
 published: 2026-06-26
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道跳島, 利自理島, 禮文島, 日本最北端, 海膽美食
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: sushi
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sushi-okinawa-沖繩壽司的另一種吃法-當地人的日常鮮味食堂-d46282.html
 published: 2026-06-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 沖繩壽司, 庶民美食, 那霸美食, 島嶼鮮味, 在地食堂
 license: CC BY 4.0
 ---

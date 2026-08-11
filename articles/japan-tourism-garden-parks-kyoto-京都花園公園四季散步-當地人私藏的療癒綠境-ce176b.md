@@ -6,7 +6,7 @@ category: garden-parks
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-kyoto-京都花園公園四季散步-當地人私藏的療癒綠境-ce176b.html
 published: 2026-06-27
-quality_score: 6.5
+quality_score: 8.7
 tags: 京都, 花園公園, 自然散步, 療癒景點, 在地推薦
 license: CC BY 4.0
 ---

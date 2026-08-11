@@ -6,7 +6,7 @@ category: boutique-hotels
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-nara-奈良精品酒店禪意指南-古寺周邊的設計棲居-3cfeb4.html
 published: 2026-06-16
-quality_score: 6.5
+quality_score: 8.5
 tags: 奈良, 精品酒店, 日本古都, 禪意住宿, 設計酒店
 license: CC BY 4.0
 ---

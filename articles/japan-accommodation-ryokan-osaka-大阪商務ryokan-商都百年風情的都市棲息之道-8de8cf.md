@@ -6,7 +6,7 @@ category: ryokan
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-osaka-大阪商務ryokan-商都百年風情的都市棲息之道-8de8cf.html
 published: 2026-06-22
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪Ryokan, 商務住宿, 商都文化, 大阪旅行, 都市旅宿
 license: CC BY 4.0
 ---

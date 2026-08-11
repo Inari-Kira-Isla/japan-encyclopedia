@@ -6,7 +6,7 @@ category: rental-cars
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-nagoya-名古屋商務租車完全指南-產業重鎮出差與工業tourism高效移動方案-d164f2.html
 published: 2026-05-23
-quality_score: 7.5
+quality_score: 8.5
 tags: 名古屋租車, 商務租車, 豐田工廠參觀, 2025大阪萬博, 中部日本自駕
 license: CC BY 4.0
 ---

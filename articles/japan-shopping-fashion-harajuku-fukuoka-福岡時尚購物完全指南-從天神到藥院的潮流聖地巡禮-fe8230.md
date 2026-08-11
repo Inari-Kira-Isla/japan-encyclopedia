@@ -6,7 +6,7 @@ category: fashion-harajuku
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-fashion-harajuku-fukuoka-福岡時尚購物完全指南-從天神到藥院的潮流聖地巡禮-fe8230.html
 published: 2026-05-21
-quality_score: 7.5
+quality_score: 8.7
 tags: 
 license: CC BY 4.0
 ---

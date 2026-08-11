@@ -6,7 +6,7 @@ category: izakaya
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-izakaya-hokkaido-北海道小樽・函館港灣夜間體驗-特色海鮮居酒屋散步-72f14a.html
 published: 2026-06-01
-quality_score: 5.5
+quality_score: 8.0
 tags: 北海道居酒屋, 小樽美食, 函馆海鲜, 马粪海胆, 北海道的渔港文化
 license: CC BY 4.0
 ---

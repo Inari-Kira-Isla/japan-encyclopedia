@@ -6,7 +6,7 @@ category: business-hotels
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-business-hotels-osaka-大阪商務酒店-2026世界盃前的進化升級-1b0e52.html
 published: 2026-05-24
-quality_score: 6.5
+quality_score: 8.6
 tags: 大阪商務酒店, 2026世界盃, 關西住宿, 商務出差, 日本自助旅遊
 license: CC BY 4.0
 ---

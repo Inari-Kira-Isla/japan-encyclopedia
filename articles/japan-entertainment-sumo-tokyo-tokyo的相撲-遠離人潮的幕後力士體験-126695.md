@@ -6,7 +6,7 @@ category: sumo
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-tokyo-tokyo的相撲-遠離人潮的幕後力士體験-126695.html
 published: 2026-05-22
-quality_score: 6.5
+quality_score: 8.6
 tags: Tokyo相撲, 墨田區, 両国, 國技館, 相撲文化體驗
 license: CC BY 4.0
 ---

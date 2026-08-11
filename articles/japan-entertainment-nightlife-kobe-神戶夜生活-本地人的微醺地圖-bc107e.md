@@ -6,7 +6,7 @@ category: nightlife
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-kobe-神戶夜生活-本地人的微醺地圖-bc107e.html
 published: 2026-06-23
-quality_score: 6.5
+quality_score: 8.8
 tags: 神戶夜生活, 神戶美食, 神戶酒吧, 神戶居酒屋, 神戶自由行
 license: CC BY 4.0
 ---

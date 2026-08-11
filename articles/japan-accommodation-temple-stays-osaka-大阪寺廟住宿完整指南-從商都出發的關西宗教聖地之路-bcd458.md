@@ -6,7 +6,7 @@ category: temple-stays
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-temple-stays-osaka-大阪寺廟住宿完整指南-從商都出發的關西宗教聖地之路-bcd458.html
 published: 2026-06-08
-quality_score: 6.5
+quality_score: 8.6
 tags: 大阪寺廟住宿, 關西寺院之旅, 高野山宿坊, 比叡山延曆寺, 鞍馬寺修行體驗
 license: CC BY 4.0
 ---

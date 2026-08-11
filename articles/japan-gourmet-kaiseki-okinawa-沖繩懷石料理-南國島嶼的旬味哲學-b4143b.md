@@ -6,7 +6,7 @@ category: kaiseki
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-kaiseki-okinawa-沖繩懷石料理-南國島嶼的旬味哲學-b4143b.html
 published: 2026-06-12
-quality_score: 6.5
+quality_score: 8.5
 tags: 沖繩美食, 懷石料理, 琉球料理, 沖繩kaiseki, 日本料理
 license: CC BY 4.0
 ---

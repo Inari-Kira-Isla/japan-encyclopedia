@@ -6,7 +6,7 @@ category: capsule-hotels
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-capsule-hotels-fukuoka-福岡capsule-hotels完全指南-體驗九州繁華都市的簡約住宿-d989f6.html
 published: 2026-06-02
-quality_score: 6.5
+quality_score: 8.6
 tags: 福岡膠囊飯店, 九州住宿, Capsule Hotel, 天神, 博多站
 license: CC BY 4.0
 ---

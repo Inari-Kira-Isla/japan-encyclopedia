@@ -6,7 +6,7 @@ category: vintage-thrift
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-vintage-thrift-kyoto-京都古著尋寶-古都巷弄中的復古時尚-5c08df.html
 published: 2026-06-27
-quality_score: 7.5
+quality_score: 8.7
 tags: 京都古著, 復古時尚, 京都購物, 日本古著, 二手衣物
 license: CC BY 4.0
 ---

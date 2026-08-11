@@ -6,7 +6,7 @@ category: street-food
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-street-food-hiroshima-廣島產業街區的隱藏味覺-當地工人食堂的下酒小食地圖-c7f735.html
 published: 2026-06-30
-quality_score: 6.5
+quality_score: 8.6
 tags: 廣島, 街頭美食, 產業文化, 工人食堂, 海軍下酒菜
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: boutique-hotels
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-osaka-大阪療癒系精品酒店-在關西都會中找到inner-peace-fc98bd.html
 published: 2026-05-23
-quality_score: 6.5
+quality_score: 8.6
 tags: 大阪精品酒店, 療癒系住宿, 關西旅遊, 日本boutique hotels, 大阪設計飯店
 license: CC BY 4.0
 ---

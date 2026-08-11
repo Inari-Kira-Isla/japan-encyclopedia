@@ -6,7 +6,7 @@ category: escape-rooms
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-escape-rooms-hiroshima-廣島密室逃脫完全攻略-原子彈悼念古城中的燒腦體驗-0c074c.html
 published: 2026-06-02
-quality_score: 6.5
+quality_score: 8.3
 tags: 廣島密室逃脫, 廣島在地體驗, 日本燒腦遊戲, 廣島市區活動, 廣島自由行
 license: CC BY 4.0
 ---

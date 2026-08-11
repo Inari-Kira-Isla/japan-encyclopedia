@@ -6,7 +6,7 @@ category: jr-pass
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-jr-pass-tokyo-東京近郊探索攻略-jr東京廣域周遊券完整指南-c86ffe.html
 published: 2026-07-03
-quality_score: 7.5
+quality_score: 8.7
 tags: JR Pass, 東京廣域周遊券, 關東旅遊, 東京近郊, 日光
 license: CC BY 4.0
 ---

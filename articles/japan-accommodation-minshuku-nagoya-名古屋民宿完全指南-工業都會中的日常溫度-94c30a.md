@@ -6,7 +6,7 @@ category: minshuku
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-nagoya-名古屋民宿完全指南-工業都會中的日常溫度-94c30a.html
 published: 2026-06-22
-quality_score: 6.5
+quality_score: 8.5
 tags: 名古屋民宿, 名古屋住宿, 中部日本, 民宿推薦, 名古屋自由行
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: shinkansen
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-kobe-神戶駅からのアクセス-関西空港・大阪間の移動効率化戦略-dbb32d.html
 published: 2026-06-19
-quality_score: 7.5
+quality_score: 8.7
 tags: 神戶交通, 關西鐵道, JRPass活用, 神戶站, 關西空港移動
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: nature-trails
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-fukuoka-福岡自然步道-山海之間的美食健行指南-ded5a7.html
 published: 2026-04-07
-quality_score: 6.5
+quality_score: 8.8
 tags: 福岡, 自然步道, 九州, 健行, 美食
 license: CC BY 4.0
 ---

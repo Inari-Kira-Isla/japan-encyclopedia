@@ -6,7 +6,7 @@ category: anime-manga
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-kobe-神戶動漫次文化-港都的異國風情二次元-453d4c.html
 published: 2026-06-22
-quality_score: 6.5
+quality_score: 8.7
 tags: 神戶動漫, 關西動漫, 神戶自由行, 二次元旅遊, 港都文化
 license: CC BY 4.0
 ---

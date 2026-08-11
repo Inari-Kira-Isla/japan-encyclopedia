@@ -6,7 +6,7 @@ category: yakitori
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-yakitori-kobe-神戶燒鳥-港都海風與串燒的美味交融-8a8461.html
 published: 2026-04-02
-quality_score: 6.5
+quality_score: 8.8
 tags: 神戶美食, 燒鳥, 日本串燒, 關西美食, 港都美食
 license: CC BY 4.0
 ---

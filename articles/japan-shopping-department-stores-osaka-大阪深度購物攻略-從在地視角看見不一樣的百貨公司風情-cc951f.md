@@ -6,7 +6,7 @@ category: department-stores
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-department-stores-osaka-大阪深度購物攻略-從在地視角看見不一樣的百貨公司風情-cc951f.html
 published: 2026-06-04
-quality_score: 7.5
+quality_score: 8.7
 tags: 大阪購物, 大阪百貨, 關西購物, 日本購物攻略, 大阪自由行
 license: CC BY 4.0
 ---

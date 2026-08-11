@@ -6,7 +6,7 @@ category: boutique-hotels
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-nagoya-名古屋文創精品酒店-新世代藝術旅人的設計棲居-918cf7.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.8
 tags: 名古屋住宿, 精品酒店, 文創旅遊, 藝術酒店, 設計旅店
 license: CC BY 4.0
 ---

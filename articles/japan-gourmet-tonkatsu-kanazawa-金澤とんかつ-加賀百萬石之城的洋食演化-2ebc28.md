@@ -6,7 +6,7 @@ category: tonkatsu
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tonkatsu-kanazawa-金澤とんかつ-加賀百萬石之城的洋食演化-2ebc28.html
 published: 2026-06-25
-quality_score: 6.5
+quality_score: 8.6
 tags: 金澤美食, 石川縣, とんかつ, 炸豬排, 北陸
 license: CC BY 4.0
 ---

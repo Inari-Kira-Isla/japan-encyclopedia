@@ -6,7 +6,7 @@ category: day-trips
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-kobe-神戶美食散步-港都吃遍海鮮市場-老街甜點與隱藏版神戶牛-cf1dc9.html
 published: 2026-05-24
-quality_score: 6.5
+quality_score: 8.6
 tags: 神戶, 神戶美食, 關西自由行, 港都, 一日遊
 license: CC BY 4.0
 ---

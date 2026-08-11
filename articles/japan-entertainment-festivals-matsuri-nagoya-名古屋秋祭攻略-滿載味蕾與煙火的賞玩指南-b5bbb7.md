@@ -6,7 +6,7 @@ category: festivals-matsuri
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-festivals-matsuri-nagoya-名古屋秋祭攻略-滿載味蕾與煙火的賞玩指南-b5bbb7.html
 published: 2026-03-24
-quality_score: 6.5
+quality_score: 8.8
 tags: 名古屋祭典, 秋祭, 日本祭典, 屋台美食, 名古屋城
 license: CC BY 4.0
 ---

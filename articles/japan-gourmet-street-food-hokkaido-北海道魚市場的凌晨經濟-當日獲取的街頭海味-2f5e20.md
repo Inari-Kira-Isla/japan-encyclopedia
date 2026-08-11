@@ -6,7 +6,7 @@ category: street-food
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-street-food-hokkaido-北海道魚市場的凌晨經濟-當日獲取的街頭海味-2f5e20.html
 published: 2026-06-05
-quality_score: 6.5
+quality_score: 8.5
 tags: 北海道, 街頭美食, 魚市場, 海鮮, 三角市場
 license: CC BY 4.0
 ---

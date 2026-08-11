@@ -6,7 +6,7 @@ category: nightlife
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-fukuoka-福岡夜生活升級版-遊戲中心與密室逃脫的都市探險-9e4940.html
 published: 2026-06-10
-quality_score: 6.5
+quality_score: 8.6
 tags: 福岡夜生活, 遊戲中心, 密室逃脫, 天神, 中洲
 license: CC BY 4.0
 ---

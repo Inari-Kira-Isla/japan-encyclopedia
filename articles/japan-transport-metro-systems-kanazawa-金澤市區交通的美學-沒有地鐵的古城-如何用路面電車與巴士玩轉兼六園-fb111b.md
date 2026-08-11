@@ -6,7 +6,7 @@ category: metro-systems
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-kanazawa-金澤市區交通的美學-沒有地鐵的古城-如何用路面電車與巴士玩轉兼六園-fb111b.html
 published: 2026-06-04
-quality_score: 7.5
+quality_score: 8.6
 tags: 金澤交通, 路面電車, 石川縣, 北陸自由行, 日本中部
 license: CC BY 4.0
 ---

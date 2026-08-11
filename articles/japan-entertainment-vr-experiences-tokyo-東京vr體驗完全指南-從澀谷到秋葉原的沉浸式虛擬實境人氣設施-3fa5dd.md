@@ -6,7 +6,7 @@ category: vr-experiences
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-vr-experiences-tokyo-東京vr體驗完全指南-從澀谷到秋葉原的沉浸式虛擬實境人氣設施-3fa5dd.html
 published: 2026-06-19
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京VR, 虛擬實境, 東京娛樂, 澀谷VR, 秋葉原VR
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: boutique-hotels
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-nagoya-名古屋精品酒店-東海道文化與現代商業的精緻交匯-a5192a.html
 published: 2026-03-29
-quality_score: 6.5
+quality_score: 8.7
 tags: 名古屋住宿, 精品酒店, 商務旅行, 東海道文化, 日式服務
 license: CC BY 4.0
 ---

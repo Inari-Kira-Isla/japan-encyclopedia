@@ -6,7 +6,7 @@ category: day-trips
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-tokyo-東京出發主題一日遊-美食-溫泉-歷史三條人氣路線全攻略-339966.html
 published: 2026-03-24
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京一日遊, 關東週邊, 川越, 镰仓, 箱根
 license: CC BY 4.0
 ---

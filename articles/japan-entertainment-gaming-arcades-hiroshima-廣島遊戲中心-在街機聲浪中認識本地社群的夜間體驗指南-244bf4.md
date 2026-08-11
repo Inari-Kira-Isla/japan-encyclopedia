@@ -6,7 +6,7 @@ category: gaming-arcades
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-gaming-arcades-hiroshima-廣島遊戲中心-在街機聲浪中認識本地社群的夜間體驗指南-244bf4.html
 published: 2026-03-22
-quality_score: 6.5
+quality_score: 8.5
 tags: 廣島娛樂, 遊戲中心, 街機文化, 社群體驗, 夜生活
 license: CC BY 4.0
 ---

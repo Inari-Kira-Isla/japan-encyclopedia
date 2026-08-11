@@ -6,7 +6,7 @@ category: day-trips
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-nara-奈良古道健行日遊-探索山城隱秘的自然與靈性之路-3dcc71.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 奈良, 古道健行, 自然體驗, 文化之旅, 山林探索
 license: CC BY 4.0
 ---

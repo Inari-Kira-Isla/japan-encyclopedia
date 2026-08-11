@@ -6,7 +6,7 @@ category: nature-trails
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-kyoto-京都攝影步道完全攻略-捕捉古都四季光影的秘密路線-64263c.html
 published: 2026-03-29
-quality_score: 6.5
+quality_score: 8.8
 tags: 京都, 自然步道, 攝影旅遊, 古都探索, 四季景觀
 license: CC BY 4.0
 ---

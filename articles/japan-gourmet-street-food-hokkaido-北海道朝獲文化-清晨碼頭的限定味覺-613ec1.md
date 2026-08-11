@@ -6,7 +6,7 @@ category: street-food
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-street-food-hokkaido-北海道朝獲文化-清晨碼頭的限定味覺-613ec1.html
 published: 2026-06-13
-quality_score: 6.5
+quality_score: 8.6
 tags: 北海道, 街頭美食, 朝市, 海鮮, 日本美食
 license: CC BY 4.0
 ---

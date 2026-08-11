@@ -6,7 +6,7 @@ category: street-food
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-street-food-kanazawa-金澤街頭海鮮美食-日本海沿岸的新鮮滋味-7aa141.html
 published: 2026-03-23
-quality_score: 6.5
+quality_score: 8.3
 tags: 金澤街頭美食, 日本海鮮, 季節限定, 近江町市場, 港灣漁鮮
 license: CC BY 4.0
 ---

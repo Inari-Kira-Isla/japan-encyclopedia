@@ -6,7 +6,7 @@ category: department-stores
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-department-stores-hiroshima-廣島購物不完全指南-當地人帶路的非主流百貨攻略-043d5d.html
 published: 2026-06-23
-quality_score: 7.5
+quality_score: 8.7
 tags: 廣島購物, 廣島百货, 廣島自由行, 廣島市區, 中國地區
 license: CC BY 4.0
 ---

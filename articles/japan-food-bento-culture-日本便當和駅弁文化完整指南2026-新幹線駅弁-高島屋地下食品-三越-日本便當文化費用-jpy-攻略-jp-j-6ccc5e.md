@@ -6,7 +6,7 @@ category: bento-culture
 area: japan
 url: https://japan-encyclopedia.vercel.app/articles/japan-food-bento-culture-日本便當和駅弁文化完整指南2026-新幹線駅弁-高島屋地下食品-三越-日本便當文化費用-jpy-攻略-jp-j-6ccc5e.html
 published: 2026-03-29
-quality_score: 7.6
+quality_score: 8.4
 tags: 日本便當, 駅弁, 新幹線便當, Depachika, 日本食文化
 license: CC BY 4.0
 ---

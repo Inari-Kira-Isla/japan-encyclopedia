@@ -6,7 +6,7 @@ category: sports-culture
 area: japan
 url: https://japan-encyclopedia.vercel.app/articles/japan-events-sports-culture-日本體育文化完整指南2026-相撲觀賽-職棒比賽-j-league-jp-japanese-sports-07c692.html
 published: 2026-03-30
-quality_score: 7.1
+quality_score: 8.6
 tags: 大相撲觀賽, 日本職棒, J-League, 日本體育文化, 武道體驗
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: business-hotels
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-business-hotels-nagoya-名古屋商務飯店-距toyota工廠與主要會展設施的交通要塞住宿指南-c0c723.html
 published: 2026-06-11
-quality_score: 6.5
+quality_score: 8.5
 tags: 名古屋商務飯店, Toyota工廠住宿, 名古屋工業區, 中部商務住宿, 金山站飯店
 license: CC BY 4.0
 ---

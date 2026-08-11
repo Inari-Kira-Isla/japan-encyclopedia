@@ -6,7 +6,7 @@ category: tempura
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tempura-kobe-神戶天婦羅-港都食材的魅力-關西酥脆的獨家風味-760256.html
 published: 2026-06-16
-quality_score: 6.5
+quality_score: 8.8
 tags: 神戶天婦羅, 關西天婦羅, 港都美食, 神戶旅遊, 日本料理
 license: CC BY 4.0
 ---

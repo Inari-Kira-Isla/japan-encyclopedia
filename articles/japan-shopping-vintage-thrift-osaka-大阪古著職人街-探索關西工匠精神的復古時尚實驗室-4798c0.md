@@ -6,7 +6,7 @@ category: vintage-thrift
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-vintage-thrift-osaka-大阪古著職人街-探索關西工匠精神的復古時尚實驗室-4798c0.html
 published: 2026-03-27
-quality_score: 7.5
+quality_score: 8.7
 tags: 大阪購物, 古著文化, 職人工藝, 次文化, 改造時尚
 license: CC BY 4.0
 ---

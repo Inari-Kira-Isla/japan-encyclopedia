@@ -6,7 +6,7 @@ category: yakitori
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-yakitori-okinawa-沖繩的串燒-島嶼風土孕育的燒烤哲學-48ea7c.html
 published: 2026-06-10
-quality_score: 6.5
+quality_score: 8.7
 tags: 沖繩美食, 串燒, ヤキトーリ, 沖繩自由行, 那霸美食
 license: CC BY 4.0
 ---

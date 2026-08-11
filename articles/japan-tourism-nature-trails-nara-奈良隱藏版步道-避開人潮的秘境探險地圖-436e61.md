@@ -6,7 +6,7 @@ category: nature-trails
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-nara-奈良隱藏版步道-避開人潮的秘境探險地圖-436e61.html
 published: 2026-07-03
-quality_score: 6.5
+quality_score: 8.7
 tags: 奈良步道, 奈良秘境, 日本自然步道, 吉野杉林, 關西山林
 license: CC BY 4.0
 ---

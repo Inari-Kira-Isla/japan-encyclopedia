@@ -6,7 +6,7 @@ category: udon-soba
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-udon-soba-hokkaido-北海道烏龍麵與蕎麥麵-釀酒之鄉的麵食新浪潮-ce1032.html
 published: 2026-06-28
-quality_score: 6.5
+quality_score: 8.6
 tags: 北海道烏龍麵, 北海道蕎麥麵, 札幌美食, 旭川美食, 北海道海鮮
 license: CC BY 4.0
 ---

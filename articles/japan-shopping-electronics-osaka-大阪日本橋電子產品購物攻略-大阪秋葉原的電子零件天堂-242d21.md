@@ -6,7 +6,7 @@ category: electronics
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-electronics-osaka-大阪日本橋電子產品購物攻略-大阪秋葉原的電子零件天堂-242d21.html
 published: 2026-07-04
-quality_score: 7.5
+quality_score: 8.6
 tags: 大阪電子產品, 日本橋電器街, 大阪購物, 電子零件, 二手相機
 license: CC BY 4.0
 ---

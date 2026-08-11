@@ -6,7 +6,7 @@ category: garden-parks
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-osaka-大阪花園公園巡禮-港都水岸線的綠色蛻變-e5223d.html
 published: 2026-05-24
-quality_score: 6.5
+quality_score: 8.8
 tags: 大阪花園, 港都綠意, WaterfrontPark, 城市綠洲, 大阪自行車道
 license: CC BY 4.0
 ---

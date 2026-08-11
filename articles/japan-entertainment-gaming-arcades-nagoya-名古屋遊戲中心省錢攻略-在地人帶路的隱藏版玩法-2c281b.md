@@ -6,7 +6,7 @@ category: gaming-arcades
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-gaming-arcades-nagoya-名古屋遊戲中心省錢攻略-在地人帶路的隱藏版玩法-2c281b.html
 published: 2026-07-06
-quality_score: 6.5
+quality_score: 8.8
 tags: 名古屋遊戲中心, 日本街機, 中部國際機場, 榮商圈, 金山車站
 license: CC BY 4.0
 ---

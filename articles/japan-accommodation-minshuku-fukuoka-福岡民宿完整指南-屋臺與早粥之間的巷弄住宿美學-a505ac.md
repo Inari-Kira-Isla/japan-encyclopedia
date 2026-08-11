@@ -6,7 +6,7 @@ category: minshuku
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-fukuoka-福岡民宿完整指南-屋臺與早粥之間的巷弄住宿美學-a505ac.html
 published: 2026-05-22
-quality_score: 6.5
+quality_score: 8.7
 tags: 福岡民宿, 九州住宿, 屋台文化, minshuku, 福岡旅行
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: scenic-routes
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-fukuoka-福岡歴史散步之路-太宰府天滿宮參道與周邊古鎮深度慢遊-245d08.html
 published: 2026-05-21
-quality_score: 6.5
+quality_score: 8.9
 tags: 福岡縣, 太宰府天滿宮, 歷史古蹟, 一日遊, 文化Routes
 license: CC BY 4.0
 ---

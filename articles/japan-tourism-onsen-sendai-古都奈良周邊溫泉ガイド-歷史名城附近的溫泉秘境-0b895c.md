@@ -6,7 +6,7 @@ category: onsen
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-onsen-sendai-古都奈良周邊溫泉ガイド-歷史名城附近的溫泉秘境-0b895c.html
 published: 2026-05-22
-quality_score: 6.5
+quality_score: 8.5
 tags: 奈良溫泉, 古都之旅, 關西溫泉, 吉野溫泉, 雄琴溫泉
 license: CC BY 4.0
 ---

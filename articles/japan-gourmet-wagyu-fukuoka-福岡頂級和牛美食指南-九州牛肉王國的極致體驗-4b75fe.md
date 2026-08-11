@@ -6,7 +6,7 @@ category: wagyu
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-wagyu-fukuoka-福岡頂級和牛美食指南-九州牛肉王國的極致體驗-4b75fe.html
 published: 2026-03-20
-quality_score: 6.5
+quality_score: 8.6
 tags: 福岡美食, 日本和牛, 博多和牛, 鐵板燒, 燒肉
 license: CC BY 4.0
 ---

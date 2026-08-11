@@ -6,7 +6,7 @@ category: ryokan
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-kanazawa-金澤ryokan的米其林之路-從料理觀點發現加賀百萬石的餐桌魅力-5fee5d.html
 published: 2026-06-23
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤, Ryokan, 加賀料理, 日本住宿, 北陸旅行
 license: CC BY 4.0
 ---

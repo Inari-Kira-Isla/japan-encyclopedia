@@ -6,7 +6,7 @@ category: sumo
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-nagoya-名古屋相撲工程學-從力學視角重新定義觀賽體驗-b96e2e.html
 published: 2026-07-03
-quality_score: 6.5
+quality_score: 8.8
 tags: 名古屋相撲, 工程視角, 中部旅遊, 日本相撲體驗, 名古屋場所
 license: CC BY 4.0
 ---

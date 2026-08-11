@@ -6,7 +6,7 @@ category: rental-cars
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-nara-奈良租車自駕遊-古都與自然風光的完美結合-46fe20.html
 published: 2026-03-21
-quality_score: 7.5
+quality_score: 8.5
 tags: 奈良旅遊, 日本自駕遊, 租車指南, 關西自由行, 古都探險
 license: CC BY 4.0
 ---

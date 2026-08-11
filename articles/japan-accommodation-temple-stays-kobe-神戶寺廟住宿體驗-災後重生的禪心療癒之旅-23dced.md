@@ -6,7 +6,7 @@ category: temple-stays
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-temple-stays-kobe-神戶寺廟住宿體驗-災後重生的禪心療癒之旅-23dced.html
 published: 2026-04-04
-quality_score: 6.5
+quality_score: 8.7
 tags: 神戶, 寺廟住宿, 禪修體驗, 災後重生, 港口城市
 license: CC BY 4.0
 ---

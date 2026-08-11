@@ -6,7 +6,7 @@ category: anime-manga
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-fukuoka-福岡動漫遊戲娛樂體驗-九州娛樂科技新地標-63cbec.html
 published: 2026-03-29
-quality_score: 6.5
+quality_score: 8.8
 tags: 福岡娛樂, 動漫遊戲, VR體驗, 密室脫逃, 九州旅遊
 license: CC BY 4.0
 ---

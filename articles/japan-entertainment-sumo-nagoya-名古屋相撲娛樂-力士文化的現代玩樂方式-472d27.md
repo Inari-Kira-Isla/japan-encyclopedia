@@ -6,7 +6,7 @@ category: sumo
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-nagoya-名古屋相撲娛樂-力士文化的現代玩樂方式-472d27.html
 published: 2026-04-06
-quality_score: 6.5
+quality_score: 8.8
 tags: 名古屋, 相撲, 娛樂, 居酒屋, 觀戰體驗
 license: CC BY 4.0
 ---

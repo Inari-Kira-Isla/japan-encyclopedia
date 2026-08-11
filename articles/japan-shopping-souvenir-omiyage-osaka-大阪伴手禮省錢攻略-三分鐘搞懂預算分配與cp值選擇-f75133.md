@@ -6,7 +6,7 @@ category: souvenir-omiyage
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-souvenir-omiyage-osaka-大阪伴手禮省錢攻略-三分鐘搞懂預算分配與cp值選擇-f75133.html
 published: 2026-06-03
-quality_score: 7.5
+quality_score: 8.5
 tags: 大阪, 伴手禮, 購物, 省錢攻略, 關西
 license: CC BY 4.0
 ---

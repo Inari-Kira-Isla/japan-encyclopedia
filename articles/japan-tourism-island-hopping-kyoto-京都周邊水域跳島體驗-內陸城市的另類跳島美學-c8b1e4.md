@@ -6,7 +6,7 @@ category: island-hopping
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-island-hopping-kyoto-京都周邊水域跳島體驗-內陸城市的另類跳島美學-c8b1e4.html
 published: 2026-05-31
-quality_score: 6.5
+quality_score: 8.7
 tags: 京都跳島, 琵琶湖, 天橋立, 水之都, 內陸島嶼
 license: CC BY 4.0
 ---

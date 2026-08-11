@@ -6,7 +6,7 @@ category: tempura
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tempura-nagoya-名古屋天婦羅-味噌風味與中部炸物的獨特融合-3d7d9c.html
 published: 2026-04-03
-quality_score: 6.5
+quality_score: 8.7
 tags: 名古屋美食, 天婦羅, 味噌文化, 中部料理, 日式炸物
 license: CC BY 4.0
 ---

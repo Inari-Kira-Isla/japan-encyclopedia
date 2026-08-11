@@ -6,7 +6,7 @@ category: anime-manga
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-hiroshima-廣島動漫創作聖地-獨立創作者的工作室與同人文化-566d6c.html
 published: 2026-07-01
-quality_score: 6.5
+quality_score: 8.7
 tags: 廣島動漫, 同人文化, 獨立創作, 和平主題, 日本動漫聖地
 license: CC BY 4.0
 ---

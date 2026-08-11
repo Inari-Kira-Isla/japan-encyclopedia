@@ -6,7 +6,7 @@ category: day-trips
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-osaka-大阪歷史文化一日遊-穿越千年時空的關西古都巡禮-5aa106.html
 published: 2026-06-05
-quality_score: 6.5
+quality_score: 8.6
 tags: 大阪一日遊, 關西歷史, 古都巡禮, 世界遺產, 文化體驗
 license: CC BY 4.0
 ---

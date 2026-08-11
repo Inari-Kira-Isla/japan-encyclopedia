@@ -6,7 +6,7 @@ category: wagyu
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-wagyu-kanazawa-金澤特產與和牛伴手禮-古城金箔包裝下的極致肉品-483381.html
 published: 2026-06-14
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤, 和牛, 伴手禮, 能登牛, 石川
 license: CC BY 4.0
 ---

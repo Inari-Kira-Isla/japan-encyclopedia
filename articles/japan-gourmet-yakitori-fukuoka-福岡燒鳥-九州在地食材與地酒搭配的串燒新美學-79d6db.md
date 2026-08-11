@@ -6,7 +6,7 @@ category: yakitori
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-yakitori-fukuoka-福岡燒鳥-九州在地食材與地酒搭配的串燒新美學-79d6db.html
 published: 2026-06-16
-quality_score: 6.5
+quality_score: 8.6
 tags: 福岡燒鳥, 屋台文化, 九州食材, 地酒搭配, 天神
 license: CC BY 4.0
 ---

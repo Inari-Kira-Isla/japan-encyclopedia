@@ -6,7 +6,7 @@ category: anime-manga
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-hokkaido-北海道動漫創作地圖-雪國漫畫家的靈感與足跡-2afe1b.html
 published: 2026-07-01
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道, 動漫文化, 札幌, 旭川, 函館
 license: CC BY 4.0
 ---

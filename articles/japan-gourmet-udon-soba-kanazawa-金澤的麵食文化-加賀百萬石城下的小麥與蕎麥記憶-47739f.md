@@ -6,7 +6,7 @@ category: udon-soba
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-udon-soba-kanazawa-金澤的麵食文化-加賀百萬石城下的小麥與蕎麥記憶-47739f.html
 published: 2026-06-13
-quality_score: 6.5
+quality_score: 8.8
 tags: 金澤美食, 石川縣, 烏龍麵, 蕎麥麵, 日本料理
 license: CC BY 4.0
 ---

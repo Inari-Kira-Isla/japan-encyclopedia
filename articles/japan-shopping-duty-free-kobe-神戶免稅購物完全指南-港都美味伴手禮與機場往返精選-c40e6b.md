@@ -6,7 +6,7 @@ category: duty-free
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-duty-free-kobe-神戶免稅購物完全指南-港都美味伴手禮與機場往返精選-c40e6b.html
 published: 2026-06-06
-quality_score: 7.5
+quality_score: 8.7
 tags: 神戶免稅, 神戶伴手禮, 神戶美食, 關西購物, 神戶自由行
 license: CC BY 4.0
 ---

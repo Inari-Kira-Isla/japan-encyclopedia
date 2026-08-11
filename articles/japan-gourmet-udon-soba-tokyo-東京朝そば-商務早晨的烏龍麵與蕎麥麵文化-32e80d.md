@@ -6,7 +6,7 @@ category: udon-soba
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-udon-soba-tokyo-東京朝そば-商務早晨的烏龍麵與蕎麥麵文化-32e80d.html
 published: 2026-06-21
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京美食, 朝そば, 烏龍麵, 蕎麥麵, 老東京
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: anime-manga
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-hokkaido-北海道動漫聖地巡禮-雪國背景作品與在地體驗完全指南-52ff66.html
 published: 2026-06-16
-quality_score: 6.5
+quality_score: 8.5
 tags: 北海道, 動漫, 聖地巡禮, 雪國, 動漫商店
 license: CC BY 4.0
 ---

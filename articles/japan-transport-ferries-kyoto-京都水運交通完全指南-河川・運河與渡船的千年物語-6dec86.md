@@ -6,7 +6,7 @@ category: ferries
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-ferries-kyoto-京都水運交通完全指南-河川・運河與渡船的千年物語-6dec86.html
 published: 2026-06-20
-quality_score: 7.5
+quality_score: 8.5
 tags: 京都, 河川觀光, 保津川, 嵐山, 宇治
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: minshuku
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-fukuoka-福岡民宿新觀點-屋臺與拉麵朝的深夜食堂基地-bd1d9b.html
 published: 2026-05-23
-quality_score: 6.5
+quality_score: 8.8
 tags: 福岡民宿, 屋台文化, 九州旅行, 博多名物, 日本自由行
 license: CC BY 4.0
 ---

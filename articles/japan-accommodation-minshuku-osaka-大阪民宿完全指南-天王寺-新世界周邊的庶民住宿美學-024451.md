@@ -6,7 +6,7 @@ category: minshuku
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-osaka-大阪民宿完全指南-天王寺-新世界周邊的庶民住宿美學-024451.html
 published: 2026-06-14
-quality_score: 6.5
+quality_score: 8.4
 tags: 大阪民宿, 天王寺住宿, 新世界民宿, 關西住宿, 日本民宿
 license: CC BY 4.0
 ---

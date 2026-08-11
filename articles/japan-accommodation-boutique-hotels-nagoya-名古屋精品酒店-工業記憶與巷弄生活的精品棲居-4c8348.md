@@ -6,7 +6,7 @@ category: boutique-hotels
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-nagoya-名古屋精品酒店-工業記憶與巷弄生活的精品棲居-4c8348.html
 published: 2026-06-13
-quality_score: 6.5
+quality_score: 8.7
 tags: 名古屋精品酒店, 名古屋住宿, 工業風住宿, 日本boutique hotel, 名古屋旅游
 license: CC BY 4.0
 ---

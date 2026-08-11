@@ -6,7 +6,7 @@ category: ferries
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-ferries-sendai-仙台海上航線-從港口小鎮駛向藍色天堂的慢速浪漫-d59964.html
 published: 2026-05-22
-quality_score: 7.5
+quality_score: 8.5
 tags: 仙台推薦, 沿海交通, 松島灣, 牡鹿半島, 漁村體驗
 license: CC BY 4.0
 ---

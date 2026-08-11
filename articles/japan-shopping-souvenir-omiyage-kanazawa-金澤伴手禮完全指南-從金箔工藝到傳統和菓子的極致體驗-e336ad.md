@@ -6,7 +6,7 @@ category: souvenir-omiyage
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-souvenir-omiyage-kanazawa-金澤伴手禮完全指南-從金箔工藝到傳統和菓子的極致體驗-e336ad.html
 published: 2026-03-15
-quality_score: 7.5
+quality_score: 8.7
 tags: 金澤, 伴手禮, 金箔工藝, 和菓子, 傳統工藝
 license: CC BY 4.0
 ---

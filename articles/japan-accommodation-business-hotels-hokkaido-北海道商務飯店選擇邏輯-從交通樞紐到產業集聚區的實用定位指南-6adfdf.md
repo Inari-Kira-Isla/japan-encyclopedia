@@ -6,7 +6,7 @@ category: business-hotels
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-business-hotels-hokkaido-北海道商務飯店選擇邏輯-從交通樞紐到產業集聚區的實用定位指南-6adfdf.html
 published: 2026-06-06
-quality_score: 6.5
+quality_score: 8.6
 tags: 北海道商務飯店, 札幌商務住宿, 北海道出差, 商務旅行指南, 札幌站前飯店
 license: CC BY 4.0
 ---

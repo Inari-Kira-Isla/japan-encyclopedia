@@ -6,7 +6,7 @@ category: theme-parks
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-theme-parks-nara-奈良主題休閒設施指南-古都周邊的非典型楽園體驗-f4da37.html
 published: 2026-05-23
-quality_score: 6.5
+quality_score: 8.9
 tags: 奈良主題設施, 奈良休閒體驗, 奈良家庭遊, 奈良文化旅遊, 大和高原農場
 license: CC BY 4.0
 ---

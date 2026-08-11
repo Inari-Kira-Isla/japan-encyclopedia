@@ -6,7 +6,7 @@ category: shinkansen
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-fukuoka-九州玄關口-博多站新幹綫交通樞紐完全指南-0f08f2.html
 published: 2026-06-18
-quality_score: 7.5
+quality_score: 8.6
 tags: 九州新幹綫, 博多站, 福岡交通, 山陽新幹綫, 九州鐵道
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: minshuku
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-hiroshima-廣島民宿深度指南-從原爆ドーム到瀨戶內生活的水岸慢旅-f4a336.html
 published: 2026-05-25
-quality_score: 6.5
+quality_score: 8.8
 tags: 廣島民宿, 宮島住宿, 瀨戶內海民宿, 島波海道, 大久野島
 license: CC BY 4.0
 ---

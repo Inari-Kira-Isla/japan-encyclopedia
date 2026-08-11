@@ -6,7 +6,7 @@ category: vintage-thrift
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-vintage-thrift-fukuoka-福岡古著文化探索-九州門戶的亞洲復古時尚融合地-0487da.html
 published: 2026-04-06
-quality_score: 7.5
+quality_score: 8.7
 tags: 福岡購物, 古著文化, 復古時尚, 九州旅遊, 亞洲潮流
 license: CC BY 4.0
 ---

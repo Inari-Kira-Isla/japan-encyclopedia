@@ -6,7 +6,7 @@ category: izakaya
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-izakaya-sendai-仙台居酒屋夜食文化-東北上班族的深夜食堂探索-4f5446.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.6
 tags: 仙台美食, 居酒屋文化, 東北地酒, 上班族夜生活, 深夜食堂
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: cycling
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-kanazawa-金澤巷弄單車日常-穿越城下町的生活路徑-d9635b.html
 published: 2026-06-16
-quality_score: 7.5
+quality_score: 8.7
 tags: 金澤單車, 城下町探索, 日本深度之旅, 金澤工坊, 金澤文化
 license: CC BY 4.0
 ---

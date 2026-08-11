@@ -6,7 +6,7 @@ category: nature-trails
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-hiroshima-廣島自然步道-原子彈過後的生命之路-e8d78e.html
 published: 2026-06-16
-quality_score: 6.5
+quality_score: 8.6
 tags: 廣島自然步道, 森林浴, 廣島深度旅遊, 日本山林步道, 和平之旅
 license: CC BY 4.0
 ---

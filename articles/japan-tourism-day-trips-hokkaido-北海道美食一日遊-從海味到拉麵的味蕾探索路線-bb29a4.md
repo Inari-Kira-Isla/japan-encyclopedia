@@ -6,7 +6,7 @@ category: day-trips
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-hokkaido-北海道美食一日遊-從海味到拉麵的味蕾探索路線-bb29a4.html
 published: 2026-06-29
-quality_score: 6.5
+quality_score: 8.4
 tags: 北海道, 一日遊, 美食, 小樽, 札幌
 license: CC BY 4.0
 ---

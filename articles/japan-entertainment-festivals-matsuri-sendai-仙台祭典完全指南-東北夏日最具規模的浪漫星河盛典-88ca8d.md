@@ -6,7 +6,7 @@ category: festivals-matsuri
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-festivals-matsuri-sendai-仙台祭典完全指南-東北夏日最具規模的浪漫星河盛典-88ca8d.html
 published: 2026-06-02
-quality_score: 6.5
+quality_score: 8.4
 tags: 仙台, 七夕祭, 日本祭典, 東北旅遊, 夏日祭典
 license: CC BY 4.0
 ---

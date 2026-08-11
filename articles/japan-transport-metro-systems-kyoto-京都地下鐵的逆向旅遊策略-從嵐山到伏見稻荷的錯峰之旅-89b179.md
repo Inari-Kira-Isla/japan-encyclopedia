@@ -6,7 +6,7 @@ category: metro-systems
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-kyoto-京都地下鐵的逆向旅遊策略-從嵐山到伏見稻荷的錯峰之旅-89b179.html
 published: 2026-06-23
-quality_score: 7.5
+quality_score: 8.9
 tags: 京都地下鐵, 京都交通, 京都旅遊, 逆向旅遊, 古都秘境
 license: CC BY 4.0
 ---

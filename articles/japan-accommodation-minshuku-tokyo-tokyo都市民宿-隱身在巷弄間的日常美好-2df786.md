@@ -6,7 +6,7 @@ category: minshuku
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-tokyo-tokyo都市民宿-隱身在巷弄間的日常美好-2df786.html
 published: 2026-06-02
-quality_score: 6.5
+quality_score: 8.7
 tags: Tokyo民宿, 東京住宿, 都市民宿, 東京自由行, Tokyo minshuku
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: historical-districts
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-osaka-大阪歷史街區-晨間批發市場與巷弄商魂的深度探索-ccca65.html
 published: 2026-07-03
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪歷史街區, 天下廚房, 晨間市場, 南掘江, 天保山
 license: CC BY 4.0
 ---

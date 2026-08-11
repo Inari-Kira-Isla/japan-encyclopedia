@@ -6,7 +6,7 @@ category: sushi
 area: japan
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sushi-訪日外客餐飲攻略-澳門人視角-macau-visitor-japan-dining-49c911.html
 published: 2026-03-28
-quality_score: 7.6
+quality_score: 8.4
 tags: 訪日旅遊, 日本美食, 澳門旅客, 壽司, 居酒屋
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: electronics
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-electronics-sendai-仙台電子產品購物攻略-科技購物與牛舌美食的創意一日遊-fb799c.html
 published: 2026-06-22
-quality_score: 7.5
+quality_score: 8.7
 tags: 仙台電子產品, 東北購物, 日本電器, 仙台旅遊, 電子購物攻略
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: department-stores
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-department-stores-kanazawa-金澤百貨公司購物指南-歷史古城的精緻購物體驗-5e4726.html
 published: 2026-06-25
-quality_score: 7.5
+quality_score: 8.5
 tags: 金澤購物, 石川縣, 日本百貸公司, 金箔工藝, 加賀友禪
 license: CC BY 4.0
 ---

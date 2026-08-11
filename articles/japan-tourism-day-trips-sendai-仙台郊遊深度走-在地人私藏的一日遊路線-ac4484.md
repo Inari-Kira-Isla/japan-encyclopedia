@@ -6,7 +6,7 @@ category: day-trips
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-sendai-仙台郊遊深度走-在地人私藏的一日遊路線-ac4484.html
 published: 2026-05-24
-quality_score: 6.5
+quality_score: 8.8
 tags: 仙台一日遊, 東北自駕, 平泉世界遺產, 鳴子峽楓葉, 鹽釜港海鲜
 license: CC BY 4.0
 ---

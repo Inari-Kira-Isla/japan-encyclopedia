@@ -6,7 +6,7 @@ category: sumo
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-hokkaido-北海道相撲-雪國冬季的力士體驗與在地文化觀察-190b52.html
 published: 2026-06-18
-quality_score: 6.5
+quality_score: 8.4
 tags: 北海道相撲, 學生相撲, 相撲體驗, 札幌體育, 北國文化
 license: CC BY 4.0
 ---

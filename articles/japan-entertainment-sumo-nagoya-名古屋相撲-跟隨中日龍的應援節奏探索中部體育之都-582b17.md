@@ -6,7 +6,7 @@ category: sumo
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-nagoya-名古屋相撲-跟隨中日龍的應援節奏探索中部體育之都-582b17.html
 published: 2026-06-05
-quality_score: 6.5
+quality_score: 8.5
 tags: 名古屋相撲, 中部相撲, 名古屋體驗, 中日龍, 業餘相撲
 license: CC BY 4.0
 ---

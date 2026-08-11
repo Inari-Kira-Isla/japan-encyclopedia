@@ -6,7 +6,7 @@ category: kaiseki
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-kaiseki-kyoto-京都會席料理初攻略-從茶道起源到現代餐桌的千年物語-b371bb.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 8.8
 tags: 京懷石, 京都美食, kaiseki, 京料理, 日本料理
 license: CC BY 4.0
 ---

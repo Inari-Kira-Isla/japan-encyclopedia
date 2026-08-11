@@ -6,7 +6,7 @@ category: jr-pass
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-jr-pass-fukuoka-福岡jr九州票券精算攻略-用資料找出最划算的九州鐵道旅遊方案-343002.html
 published: 2026-04-05
-quality_score: 7.5
+quality_score: 8.6
 tags: JR九州, 福岡交通, 九州旅遊, 成本分析, 交通攻略
 license: CC BY 4.0
 ---

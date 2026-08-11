@@ -6,7 +6,7 @@ category: izakaya
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-izakaya-sendai-仙台巷內酒場-國分町周邊的隱藏版深夜食堂-a65f86.html
 published: 2026-06-19
-quality_score: 6.5
+quality_score: 8.8
 tags: 仙台居酒屋, 國分町, 東北美食, 在地體驗, 深夜食堂
 license: CC BY 4.0
 ---

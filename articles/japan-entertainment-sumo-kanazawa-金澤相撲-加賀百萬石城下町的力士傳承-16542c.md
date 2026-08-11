@@ -6,7 +6,7 @@ category: sumo
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-kanazawa-金澤相撲-加賀百萬石城下町的力士傳承-16542c.html
 published: 2026-03-29
-quality_score: 6.5
+quality_score: 8.8
 tags: 金澤, 相撲, 城下町, 加賀藩, 武士文化
 license: CC BY 4.0
 ---

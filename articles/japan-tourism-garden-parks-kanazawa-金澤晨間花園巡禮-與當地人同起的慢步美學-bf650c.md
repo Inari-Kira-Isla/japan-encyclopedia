@@ -6,7 +6,7 @@ category: garden-parks
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-kanazawa-金澤晨間花園巡禮-與當地人同起的慢步美學-bf650c.html
 published: 2026-06-24
-quality_score: 6.5
+quality_score: 8.6
 tags: 金澤, 晨間體驗, 花園巡禮, 當地文化, 日本散步
 license: CC BY 4.0
 ---

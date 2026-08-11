@@ -6,7 +6,7 @@ category: ferries
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-ferries-kobe-神戶的ferries-海上交通樞紐與瀨戶內海的藍色之路-9749e5.html
 published: 2026-05-22
-quality_score: 7.5
+quality_score: 8.6
 tags: 神戶, 渡輪, 瀨戶內海, 交通攻略, 跳島旅行
 license: CC BY 4.0
 ---

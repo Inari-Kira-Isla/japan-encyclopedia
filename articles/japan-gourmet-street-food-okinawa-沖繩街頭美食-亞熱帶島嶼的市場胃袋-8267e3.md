@@ -6,7 +6,7 @@ category: street-food
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-street-food-okinawa-沖繩街頭美食-亞熱帶島嶼的市場胃袋-8267e3.html
 published: 2026-05-21
-quality_score: 6.5
+quality_score: 8.7
 tags: 沖繩旅遊, 沖繩美食, 街頭美食, Okinawa, 那霸
 license: CC BY 4.0
 ---

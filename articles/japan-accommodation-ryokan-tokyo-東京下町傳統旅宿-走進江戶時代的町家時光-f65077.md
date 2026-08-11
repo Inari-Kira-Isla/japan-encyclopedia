@@ -6,7 +6,7 @@ category: ryokan
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-tokyo-東京下町傳統旅宿-走進江戶時代的町家時光-f65077.html
 published: 2026-06-25
-quality_score: 6.5
+quality_score: 8.5
 tags: 東京Ryokan, 下町旅宿, 東京傳統住宿, 淺草住宿, 谷中住宿
 license: CC BY 4.0
 ---

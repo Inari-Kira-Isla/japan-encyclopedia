@@ -6,7 +6,7 @@ category: island-hopping
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-island-hopping-kyoto-京都周邊跳島式一日遊-內陸城市的另類島嶼風光攻略-a9757c.html
 published: 2026-06-15
-quality_score: 6.5
+quality_score: 8.7
 tags: 京都跳島, 關西一日遊, 城崎溫泉, 倉吉, 湯村溫泉
 license: CC BY 4.0
 ---

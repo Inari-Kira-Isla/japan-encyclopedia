@@ -6,7 +6,7 @@ category: wagyu
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-wagyu-okinawa-沖繩和牛評鑑指南-亞熱帶氣候下的極品石垣牛-79fec4.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.5
 tags: 沖繩美食, 石垣牛, 和牛評鑑, 燒肉, 亞熱帶料理
 license: CC BY 4.0
 ---

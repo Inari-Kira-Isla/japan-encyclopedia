@@ -6,7 +6,7 @@ category: gaming-arcades
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-gaming-arcades-kobe-神戶夜遊提案-從港都街機廳出發的夜間娛樂路線-b54c6c.html
 published: 2026-06-24
-quality_score: 6.5
+quality_score: 8.6
 tags: 神戶遊戲中心, 神戶夜生活, 港都娛樂, 街機文化, 神戶旅遊
 license: CC BY 4.0
 ---

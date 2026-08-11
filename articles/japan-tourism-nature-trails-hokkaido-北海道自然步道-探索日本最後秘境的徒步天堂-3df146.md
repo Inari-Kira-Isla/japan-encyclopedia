@@ -6,7 +6,7 @@ category: nature-trails
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-hokkaido-北海道自然步道-探索日本最後秘境的徒步天堂-3df146.html
 published: 2026-03-15
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道, 自然步道, 登山健行, 世界遺產, 野生動物
 license: CC BY 4.0
 ---

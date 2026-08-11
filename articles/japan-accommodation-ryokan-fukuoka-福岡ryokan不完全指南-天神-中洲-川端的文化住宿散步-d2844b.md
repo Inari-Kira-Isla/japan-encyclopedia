@@ -6,7 +6,7 @@ category: ryokan
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-fukuoka-福岡ryokan不完全指南-天神-中洲-川端的文化住宿散步-d2844b.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 8.6
 tags: 福岡住宿, Ryokan, 天神, 中洲, 川端通
 license: CC BY 4.0
 ---

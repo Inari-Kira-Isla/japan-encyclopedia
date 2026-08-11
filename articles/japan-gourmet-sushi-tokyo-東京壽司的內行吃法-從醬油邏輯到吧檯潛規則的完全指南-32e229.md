@@ -6,7 +6,7 @@ category: sushi
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sushi-tokyo-東京壽司的內行吃法-從醬油邏輯到吧檯潛規則的完全指南-32e229.html
 published: 2026-07-03
-quality_score: 6.5
+quality_score: 8.5
 tags: 東京壽司, 江戶前壽司, 壽司文化, 日本美食, 東京美食
 license: CC BY 4.0
 ---

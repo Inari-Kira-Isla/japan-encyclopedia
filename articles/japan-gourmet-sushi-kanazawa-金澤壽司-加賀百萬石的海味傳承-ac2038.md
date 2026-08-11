@@ -6,7 +6,7 @@ category: sushi
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sushi-kanazawa-金澤壽司-加賀百萬石的海味傳承-ac2038.html
 published: 2026-06-13
-quality_score: 6.5
+quality_score: 8.6
 tags: 金澤壽司, 加賀料理, 日本海海產, 能登半島, 近江町市場
 license: CC BY 4.0
 ---

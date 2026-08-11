@@ -6,7 +6,7 @@ category: duty-free
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-duty-free-osaka-大阪隱藏版免稅攻略-當地人推薦的省錢購物地圖-e53154.html
 published: 2026-07-01
-quality_score: 7.5
+quality_score: 8.6
 tags: 大阪免稅, 大阪購物, 關西機場, 天王寺, 梅田
 license: CC BY 4.0
 ---

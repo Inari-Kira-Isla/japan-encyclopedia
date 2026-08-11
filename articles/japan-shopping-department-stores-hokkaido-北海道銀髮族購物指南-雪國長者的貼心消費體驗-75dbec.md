@@ -6,7 +6,7 @@ category: department-stores
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-department-stores-hokkaido-北海道銀髮族購物指南-雪國長者的貼心消費體驗-75dbec.html
 published: 2026-06-14
-quality_score: 7.5
+quality_score: 7.8
 tags: 北海道購物, 銀髮族旅遊, 無障礙旅遊, 雪國購物, 日本百货公司
 license: CC BY 4.0
 ---

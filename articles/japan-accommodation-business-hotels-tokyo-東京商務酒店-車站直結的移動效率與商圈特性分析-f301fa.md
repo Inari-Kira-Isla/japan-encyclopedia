@@ -6,7 +6,7 @@ category: business-hotels
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-business-hotels-tokyo-東京商務酒店-車站直結的移動效率與商圈特性分析-f301fa.html
 published: 2026-06-05
-quality_score: 6.5
+quality_score: 8.4
 tags: 東京商務酒店, 商務出差, 東京住宿, 車站附近飯店, 商務旅行
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: modern-landmarks
 area: japan
 url: https://japan-encyclopedia.vercel.app/articles/japan-attractions-modern-landmarks-東京晴空塔完整指南2026-世界第一高塔-淺草-押上-東京下町文化費用-jpy-攻略-jp-5ad8d7.html
 published: 2026-04-28
-quality_score: 6.1
+quality_score: 8.9
 tags: 東京晴空塔, 淺草寺, 仲見世商店, 東京下町, 東京景點
 license: CC BY 4.0
 ---

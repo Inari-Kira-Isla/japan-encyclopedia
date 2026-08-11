@@ -6,7 +6,7 @@ category: cycling
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-kyoto-京都慢騎-在地人私藏的日常騎行路線-a4478e.html
 published: 2026-07-01
-quality_score: 7.5
+quality_score: 8.6
 tags: 京都單車, 京都慢騎, 京都自由行, 京都深度遊, 京都小眾景點
 license: CC BY 4.0
 ---

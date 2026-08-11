@@ -6,7 +6,7 @@ category: rental-cars
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-hiroshima-廣島租車自駕遊-春賞櫻秋看楓紅的山景路線與費用攻略-28ebfe.html
 published: 2026-03-24
-quality_score: 7.5
+quality_score: 8.5
 tags: 廣島租車, 自駕旅遊, 山景路線, 季節旅遊, 中國地區
 license: CC BY 4.0
 ---

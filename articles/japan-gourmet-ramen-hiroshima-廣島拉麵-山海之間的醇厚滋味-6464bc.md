@@ -6,7 +6,7 @@ category: ramen
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-ramen-hiroshima-廣島拉麵-山海之間的醇厚滋味-6464bc.html
 published: 2026-06-02
-quality_score: 6.5
+quality_score: 8.8
 tags: 廣島拉麵, 広島ラーメン, 瀨戶內海美食, 廣島美食, 日本中部拉麵
 license: CC BY 4.0
 ---

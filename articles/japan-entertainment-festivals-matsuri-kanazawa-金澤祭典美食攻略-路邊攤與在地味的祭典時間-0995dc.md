@@ -6,7 +6,7 @@ category: festivals-matsuri
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-festivals-matsuri-kanazawa-金澤祭典美食攻略-路邊攤與在地味的祭典時間-0995dc.html
 published: 2026-06-24
-quality_score: 6.5
+quality_score: 8.9
 tags: 金澤祭典, 路邊攤, 加賀美食, 祭典時間, 金澤深度遊
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: temples-shrines
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-temples-shrines-kanazawa-金澤寺廟神社巡禮-加賀藩的佛教文化瑰寶-705c45.html
 published: 2026-03-21
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤, 寺廟, 神社, 加賀藩, 日本文化
 license: CC BY 4.0
 ---

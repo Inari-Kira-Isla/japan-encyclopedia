@@ -6,7 +6,7 @@ category: temples-shrines
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-temples-shrines-tokyo-東京單車慢旅-踩著踏板探訪都會神社的生命力景點-ff62b3.html
 published: 2026-06-21
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京單車遊, 神社慢旅, 都市信仰空間, 東京深度旅遊, 在地生活體驗
 license: CC BY 4.0
 ---

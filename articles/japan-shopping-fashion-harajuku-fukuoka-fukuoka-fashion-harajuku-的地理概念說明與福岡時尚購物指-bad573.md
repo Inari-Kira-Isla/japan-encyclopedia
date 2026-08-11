@@ -6,7 +6,7 @@ category: fashion-harajuku
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-fashion-harajuku-fukuoka-fukuoka-fashion-harajuku-的地理概念說明與福岡時尚購物指-bad573.html
 published: 2026-06-15
-quality_score: 7.5
+quality_score: 8.7
 tags: 福岡購物, 九州時尚, 天神地下街, 日本購物指南, 年輕人時尚
 license: CC BY 4.0
 ---

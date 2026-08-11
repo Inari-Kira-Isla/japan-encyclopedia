@@ -6,7 +6,7 @@ category: gaming-arcades
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-gaming-arcades-fukuoka-福岡夜遊新選擇-結合屋臺文化的遊戲中心深度體驗-316e7e.html
 published: 2026-04-07
-quality_score: 6.5
+quality_score: 8.8
 tags: 福岡, 遊戲中心, 街機文化, 博多元町, 九州夜生活
 license: CC BY 4.0
 ---

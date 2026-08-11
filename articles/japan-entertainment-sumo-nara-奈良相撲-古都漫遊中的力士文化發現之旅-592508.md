@@ -6,7 +6,7 @@ category: sumo
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-nara-奈良相撲-古都漫遊中的力士文化發現之旅-592508.html
 published: 2026-06-07
-quality_score: 6.5
+quality_score: 8.8
 tags: 奈良相撲, 關西相撲, 古都文化, 力士體驗, 大阪盾津
 license: CC BY 4.0
 ---

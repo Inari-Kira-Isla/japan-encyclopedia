@@ -6,7 +6,7 @@ category: temples-shrines
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-temples-shrines-kanazawa-金澤巷弄神社散步-發現表層觀光之外的在地祈福秘境-bb691e.html
 published: 2026-06-16
-quality_score: 6.5
+quality_score: 8.8
 tags: 金澤神社, 金澤寺廟, 尾崎神社, 金澤神社, 大乘寺
 license: CC BY 4.0
 ---

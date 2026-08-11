@@ -6,7 +6,7 @@ category: cycling
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-kanazawa-金澤晨騎攻略-用單車讀懂港灣城市的清晨生活脈動-baae2b.html
 published: 2026-06-06
-quality_score: 7.5
+quality_score: 8.6
 tags: 金澤單車, 金澤深度旅遊, 晨間體驗, 港灣城市, 在地文化
 license: CC BY 4.0
 ---

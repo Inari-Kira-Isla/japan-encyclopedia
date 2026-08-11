@@ -6,7 +6,7 @@ category: vintage-thrift
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-vintage-thrift-hiroshima-廣島古著尋寶-學生社群與社群生活圈的復古日常-b98826.html
 published: 2026-05-24
-quality_score: 7.5
+quality_score: 8.7
 tags: 廣島古著, 日本二手店,  Vintage Thrift, 瀨戶內海, 日本購物
 license: CC BY 4.0
 ---

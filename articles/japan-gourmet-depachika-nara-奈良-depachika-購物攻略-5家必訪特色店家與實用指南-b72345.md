@@ -6,7 +6,7 @@ category: depachika
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-depachika-nara-奈良-depachika-購物攻略-5家必訪特色店家與實用指南-b72345.html
 published: 2026-03-29
-quality_score: 6.5
+quality_score: 8.7
 tags: 奈良Depachika, 柿葉壽司, 日本美食, 大和野菜, 奈良伴手禮
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: anime-manga
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-okinawa-沖繩御宅族的日常-在地動漫生活者的隱藏版指南-16e9f6.html
 published: 2026-05-22
-quality_score: 6.5
+quality_score: 8.7
 tags: 沖繩動漫, 沖繩御宅族, 那霸漫畫店, 沖繩遊戲中心, 日本南部ACG
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: ryokan
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-hokkaido-北海道溫泉旅館的季節美食地圖-從蟹季到松茸的四季料理-2a727f.html
 published: 2026-03-24
-quality_score: 6.5
+quality_score: 8.5
 tags: 北海道, 溫泉旅館, 季節美食, 日本住宿, 蟹季料理
 license: CC BY 4.0
 ---

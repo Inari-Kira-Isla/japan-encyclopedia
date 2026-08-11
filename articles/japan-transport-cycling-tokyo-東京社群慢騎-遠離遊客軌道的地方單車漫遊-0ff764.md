@@ -6,7 +6,7 @@ category: cycling
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-tokyo-東京社群慢騎-遠離遊客軌道的地方單車漫遊-0ff764.html
 published: 2026-06-04
-quality_score: 7.5
+quality_score: 8.9
 tags: 東京cycling, 東京單車, 下北澤單車, 吉祥寺單車, 社區漫騎
 license: CC BY 4.0
 ---

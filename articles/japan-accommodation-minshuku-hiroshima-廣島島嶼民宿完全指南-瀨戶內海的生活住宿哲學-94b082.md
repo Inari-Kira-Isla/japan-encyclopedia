@@ -6,7 +6,7 @@ category: minshuku
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-hiroshima-廣島島嶼民宿完全指南-瀨戶內海的生活住宿哲學-94b082.html
 published: 2026-06-29
-quality_score: 6.5
+quality_score: 8.5
 tags: 廣島民宿, 瀨戶內海, 島嶼住宿, 藝術祭, 宮島
 license: CC BY 4.0
 ---

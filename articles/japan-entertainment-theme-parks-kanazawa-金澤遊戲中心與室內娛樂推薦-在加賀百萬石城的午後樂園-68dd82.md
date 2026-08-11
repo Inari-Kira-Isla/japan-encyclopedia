@@ -6,7 +6,7 @@ category: theme-parks
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-theme-parks-kanazawa-金澤遊戲中心與室內娛樂推薦-在加賀百萬石城的午後樂園-68dd82.html
 published: 2026-05-24
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤主題樂園, 金澤遊戲中心, 金澤室內娛樂, 加賀百萬石, 金澤自由行
 license: CC BY 4.0
 ---

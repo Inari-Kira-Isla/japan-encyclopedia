@@ -6,7 +6,7 @@ category: rental-cars
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-fukuoka-福岡租車美食探索-自駕尋味九州的食材獵人之旅-416d27.html
 published: 2026-06-25
-quality_score: 7.5
+quality_score: 8.5
 tags: 福岡租車, 九州美食, 自駕遊, 食材獵人, 糸島海鮮
 license: CC BY 4.0
 ---

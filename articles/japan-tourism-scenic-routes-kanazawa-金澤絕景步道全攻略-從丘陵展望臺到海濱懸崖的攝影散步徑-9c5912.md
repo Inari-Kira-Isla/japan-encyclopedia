@@ -6,7 +6,7 @@ category: scenic-routes
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-kanazawa-金澤絕景步道全攻略-從丘陵展望臺到海濱懸崖的攝影散步徑-9c5912.html
 published: 2026-06-20
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤, 石川縣, 散步, 攝影, 展望台
 license: CC BY 4.0
 ---

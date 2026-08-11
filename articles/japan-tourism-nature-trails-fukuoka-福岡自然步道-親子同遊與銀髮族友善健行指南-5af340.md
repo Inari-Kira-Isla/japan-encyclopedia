@@ -6,7 +6,7 @@ category: nature-trails
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-fukuoka-福岡自然步道-親子同遊與銀髮族友善健行指南-5af340.html
 published: 2026-06-14
-quality_score: 6.5
+quality_score: 8.7
 tags: 福岡, 自然步道, 親子健行, 無障礙旅遊, 九州
 license: CC BY 4.0
 ---

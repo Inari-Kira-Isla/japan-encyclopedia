@@ -6,7 +6,7 @@ category: boutique-hotels
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-nara-奈良精品住宿深度指南-遠離人潮的在地文化體驗宿-e16510.html
 published: 2026-06-13
-quality_score: 6.5
+quality_score: 8.5
 tags: 奈良, 精品酒店, 日本古都, 世界遺產, 關西住宿
 license: CC BY 4.0
 ---

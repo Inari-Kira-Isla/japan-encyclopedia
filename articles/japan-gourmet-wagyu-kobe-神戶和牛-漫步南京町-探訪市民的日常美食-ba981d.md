@@ -6,7 +6,7 @@ category: wagyu
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-wagyu-kobe-神戶和牛-漫步南京町-探訪市民的日常美食-ba981d.html
 published: 2026-05-24
-quality_score: 6.5
+quality_score: 8.9
 tags: 
 license: CC BY 4.0
 ---

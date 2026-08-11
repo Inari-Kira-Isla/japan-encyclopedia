@@ -6,7 +6,7 @@ category: shinkansen
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-hokkaido-北海道新幹線完全指南-鐵道迷的極北鐵路體驗-cda9b3.html
 published: 2026-06-06
-quality_score: 7.5
+quality_score: 8.5
 tags: 北海道, 新幹線, 鐵道旅行, 日本鐵路, 北海道旅行
 license: CC BY 4.0
 ---

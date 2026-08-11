@@ -6,7 +6,7 @@ category: sushi
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sushi-tokyo-東京散壽司-cp值革命的海味覺醒-1ddd2e.html
 published: 2026-05-24
-quality_score: 6.5
+quality_score: 8.5
 tags: 東京散壽司, chirashi, 東京美食, 築地, 海膽
 license: CC BY 4.0
 ---

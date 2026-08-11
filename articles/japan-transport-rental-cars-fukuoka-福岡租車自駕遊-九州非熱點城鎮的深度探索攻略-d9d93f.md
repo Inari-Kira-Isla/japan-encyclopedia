@@ -6,7 +6,7 @@ category: rental-cars
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-fukuoka-福岡租車自駕遊-九州非熱點城鎮的深度探索攻略-d9d93f.html
 published: 2026-06-21
-quality_score: 7.5
+quality_score: 8.3
 tags: 福岡租車, 九州自駕, 放射狀路線, 非熱點城鎮, 北海岸線
 license: CC BY 4.0
 ---

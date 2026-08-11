@@ -6,7 +6,7 @@ category: udon-soba
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-udon-soba-nara-奈良的udon-soba-古都巷弄中的隱藏版麵食王國-5b076b.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 8.6
 tags: 奈良美食, 日本烏龍麵, 古都料理, 奈良旅遊, 在地美食
 license: CC BY 4.0
 ---

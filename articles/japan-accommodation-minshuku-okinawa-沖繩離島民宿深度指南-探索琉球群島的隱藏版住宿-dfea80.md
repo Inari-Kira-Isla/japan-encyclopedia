@@ -6,7 +6,7 @@ category: minshuku
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-okinawa-沖繩離島民宿深度指南-探索琉球群島的隱藏版住宿-dfea80.html
 published: 2026-07-05
-quality_score: 6.5
+quality_score: 8.6
 tags: 沖繩民宿, 離島住宿, 石垣島民宿, 宮古島民宿, 琉球文化
 license: CC BY 4.0
 ---

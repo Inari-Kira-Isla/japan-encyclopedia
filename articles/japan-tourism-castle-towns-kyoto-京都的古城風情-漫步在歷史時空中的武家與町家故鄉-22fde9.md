@@ -6,7 +6,7 @@ category: castle-towns
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-castle-towns-kyoto-京都的古城風情-漫步在歷史時空中的武家與町家故鄉-22fde9.html
 published: 2026-06-02
-quality_score: 6.5
+quality_score: 8.7
 tags: 京都古城, 城下町, 日本古都, 祇園, 嵐山
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: boutique-hotels
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-kyoto-京都小宿的低調哲學-巷弄深處的質感棲居-b95648.html
 published: 2026-06-20
-quality_score: 6.5
+quality_score: 8.5
 tags: 京都精品住宿, 町屋住宿, 京都深度體驗, 關西自由行, 日本家庭住宿
 license: CC BY 4.0
 ---

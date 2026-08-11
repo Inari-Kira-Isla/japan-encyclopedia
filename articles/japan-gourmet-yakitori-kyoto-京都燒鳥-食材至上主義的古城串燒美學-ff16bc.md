@@ -6,7 +6,7 @@ category: yakitori
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-yakitori-kyoto-京都燒鳥-食材至上主義的古城串燒美學-ff16bc.html
 published: 2026-05-22
-quality_score: 6.5
+quality_score: 8.9
 tags: 京都燒鳥, 京野菜, 丹波地雞, 日本料理, 京都美食
 license: CC BY 4.0
 ---

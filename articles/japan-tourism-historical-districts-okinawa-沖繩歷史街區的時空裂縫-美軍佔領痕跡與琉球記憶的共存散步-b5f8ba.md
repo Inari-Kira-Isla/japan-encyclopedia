@@ -6,7 +6,7 @@ category: historical-districts
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-okinawa-沖繩歷史街區的時空裂縫-美軍佔領痕跡與琉球記憶的共存散步-b5f8ba.html
 published: 2026-06-21
-quality_score: 6.5
+quality_score: 8.7
 tags: 沖繩, 歷史街區, 美軍佔領, 琉球王國, 那霸
 license: CC BY 4.0
 ---

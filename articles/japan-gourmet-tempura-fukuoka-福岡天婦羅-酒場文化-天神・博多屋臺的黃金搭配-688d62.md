@@ -6,7 +6,7 @@ category: tempura
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tempura-fukuoka-福岡天婦羅-酒場文化-天神・博多屋臺的黃金搭配-688d62.html
 published: 2026-06-03
-quality_score: 6.5
+quality_score: 8.7
 tags: 福岡美食, 天婦羅, 酒場文化, 九州料理, 天神
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: minshuku
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-tokyo-東京民宿完全指南-關東都市探險的實用驛站-6f0c3a.html
 published: 2026-06-12
-quality_score: 6.5
+quality_score: 8.6
 tags: 東京民宿, 關東住宿, 東京自由行, minshuku, 日本自助旅行
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: day-trips
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-nara-奈良一日遊完全攻略-從大阪京都出發的古都深度巡禮-949a2e.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 8.7
 tags: 奈良, 奈良一日遊, 日本古都, 關西一日遊, 東大寺
 license: CC BY 4.0
 ---

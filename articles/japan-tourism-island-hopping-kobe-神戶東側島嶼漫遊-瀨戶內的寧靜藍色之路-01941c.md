@@ -6,7 +6,7 @@ category: island-hopping
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-island-hopping-kobe-神戶東側島嶼漫遊-瀨戶內的寧靜藍色之路-01941c.html
 published: 2026-06-07
-quality_score: 6.5
+quality_score: 8.5
 tags: 神戶, 跳島, 瀨戶內海, 淡路島, 男鹿島
 license: CC BY 4.0
 ---

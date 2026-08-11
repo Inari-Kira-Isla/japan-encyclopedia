@@ -6,7 +6,7 @@ category: nightlife
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-kanazawa-金澤夜生活-北陸古鎮的夜色質感地圖-e501ac.html
 published: 2026-05-23
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤夜生活, 石川縣, 北陸旅行, 日本古城, Nightlife
 license: CC BY 4.0
 ---

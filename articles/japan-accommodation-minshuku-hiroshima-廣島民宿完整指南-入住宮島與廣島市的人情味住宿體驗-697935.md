@@ -6,7 +6,7 @@ category: minshuku
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-hiroshima-廣島民宿完整指南-入住宮島與廣島市的人情味住宿體驗-697935.html
 published: 2026-03-20
-quality_score: 6.5
+quality_score: 8.8
 tags: 廣島民宿, 宮島住宿, Minshuku, 廣島旅遊, 日本民宿
 license: CC BY 4.0
 ---

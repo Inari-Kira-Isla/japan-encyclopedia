@@ -6,7 +6,7 @@ category: ryokan
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-kanazawa-金澤市區質感住宿-町家美學與文化沉浸的古城慢旅-4b135b.html
 published: 2026-06-18
-quality_score: 6.5
+quality_score: 8.9
 tags: 金澤住宿, 市區Ryokan, 町家住宿, 石川縣旅行, 加賀百萬石
 license: CC BY 4.0
 ---

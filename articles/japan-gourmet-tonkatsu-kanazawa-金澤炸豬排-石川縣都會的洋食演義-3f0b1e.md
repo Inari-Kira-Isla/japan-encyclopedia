@@ -6,7 +6,7 @@ category: tonkatsu
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tonkatsu-kanazawa-金澤炸豬排-石川縣都會的洋食演義-3f0b1e.html
 published: 2026-06-25
-quality_score: 6.5
+quality_score: 8.8
 tags: 金澤美食, 石川縣洋食, 日本炸豬排, 金澤旅遊, 北陸料理
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: fashion-harajuku
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-fashion-harajuku-kanazawa-金澤時尚購物指南-片町・香林坊質感選貨店全集-94b874.html
 published: 2026-06-16
-quality_score: 7.5
+quality_score: 8.8
 tags: 金澤購物, 片町, 香林坊, 日本古著, 石川縣
 license: CC BY 4.0
 ---

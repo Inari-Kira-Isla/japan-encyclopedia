@@ -6,7 +6,7 @@ category: karaoke
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-karaoke-fukuoka-福岡卡拉ok-屋臺與歌聲的深夜食堂-b10510-1781020245.html
 published: 2026-06-09
-quality_score: 6.5
+quality_score: 8.6
 tags: 福岡, 卡拉OK, 屋台文化, 九州夜生活, 博多年夜生活
 license: CC BY 4.0
 ---

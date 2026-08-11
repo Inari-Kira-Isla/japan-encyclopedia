@@ -6,7 +6,7 @@ category: depachika
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-depachika-okinawa-沖繩depachika尋寶趣-本地人帶路的平價美食攻略-91b1d9.html
 published: 2026-07-01
-quality_score: 6.5
+quality_score: 8.9
 tags: 沖繩美食, Depachika攻略, 平價美食, 沖繩自由行, 那霸購物
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: historical-districts
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-kobe-神戶歷史街區-港都商魂與在地生活的時空交錯-a60347.html
 published: 2026-06-06
-quality_score: 6.5
+quality_score: 8.5
 tags: 神戶, 歷史街區, 港都, 明治時代, 北野町
 license: CC BY 4.0
 ---

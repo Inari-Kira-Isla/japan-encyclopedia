@@ -6,7 +6,7 @@ category: onsen
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-onsen-nagoya-京都溫泉-遠離塵囂的山城溫泉指南-381393.html
 published: 2026-06-23
-quality_score: 6.5
+quality_score: 8.5
 tags: 京都溫泉, 嵐山溫泉, 鞍馬溫泉, 京都錢湯, 京都溫泉推薦
 license: CC BY 4.0
 ---

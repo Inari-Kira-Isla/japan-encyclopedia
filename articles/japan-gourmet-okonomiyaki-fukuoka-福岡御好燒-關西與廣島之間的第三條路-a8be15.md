@@ -6,7 +6,7 @@ category: okonomiyaki
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-okonomiyaki-fukuoka-福岡御好燒-關西與廣島之間的第三條路-a8be15.html
 published: 2026-06-11
-quality_score: 6.5
+quality_score: 8.7
 tags: 福岡, 御好燒, 博多元祖, 鐵板料理, 屋台文化
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: 100-yen-shops
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-100-yen-shops-kobe-神戶100円商店指南-國際港都的多元化平價購物體驗-103fd6.html
 published: 2026-04-01
-quality_score: 7.5
+quality_score: 8.7
 tags: 神戶購物, 100円商店, 國際港都, 平價購物, 日本百貨
 license: CC BY 4.0
 ---

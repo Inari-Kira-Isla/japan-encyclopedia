@@ -6,7 +6,7 @@ category: duty-free
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-duty-free-nara-奈良免稅購物完全攻略-關西山嶽古都的特色伴手禮與周邊免稅購物指南-572af7.html
 published: 2026-05-22
-quality_score: 7.5
+quality_score: 8.5
 tags: 奈良免稅購物, 奈良伴手禮, 關西購物攻略, 近鐵奈良站, 奈良旅遊
 license: CC BY 4.0
 ---

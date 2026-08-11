@@ -6,7 +6,7 @@ category: anime-manga
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-sendai-仙台動漫學習得道-當地圖書館與自學資源活用指南-cfeef4.html
 published: 2026-06-03
-quality_score: 6.5
+quality_score: 8.7
 tags: 仙台, 動漫, 圖書館, 自學, 東北
 license: CC BY 4.0
 ---

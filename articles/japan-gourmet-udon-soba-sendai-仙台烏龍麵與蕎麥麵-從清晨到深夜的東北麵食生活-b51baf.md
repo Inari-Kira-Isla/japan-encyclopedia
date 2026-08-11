@@ -6,7 +6,7 @@ category: udon-soba
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-udon-soba-sendai-仙台烏龍麵與蕎麥麵-從清晨到深夜的東北麵食生活-b51baf.html
 published: 2026-06-29
-quality_score: 6.5
+quality_score: 8.7
 tags: 仙台烏龍麵, 仙台蕎麥麵, 東北美食, 在地食堂, 清晨美食
 license: CC BY 4.0
 ---

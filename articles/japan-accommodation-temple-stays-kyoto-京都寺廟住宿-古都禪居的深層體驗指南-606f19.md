@@ -6,7 +6,7 @@ category: temple-stays
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-temple-stays-kyoto-京都寺廟住宿-古都禪居的深層體驗指南-606f19.html
 published: 2026-06-08
-quality_score: 6.5
+quality_score: 8.5
 tags: 京都寺廟住宿, 宿坊體驗, 京都住宿推薦, 日本禪修體驗, 精進料理
 license: CC BY 4.0
 ---

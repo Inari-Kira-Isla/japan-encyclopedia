@@ -6,7 +6,7 @@ category: buses
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-buses-tokyo-東京觀光巴士全攻略-雙層巴士-迴圈線與特色路線的優先選擇-9da5e6.html
 published: 2026-07-01
-quality_score: 7.5
+quality_score: 8.9
 tags: 東京巴士, 觀光巴士, 雙層巴士, 東京交通, 東京自由行
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: street-food
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-street-food-kyoto-京都街頭美食-職人傳承的庶民味覺-6d1901.html
 published: 2026-04-06
-quality_score: 6.5
+quality_score: 8.7
 tags: 京都美食, 街頭小吃, 職人傳承, 日本文化, 庶民美食
 license: CC BY 4.0
 ---

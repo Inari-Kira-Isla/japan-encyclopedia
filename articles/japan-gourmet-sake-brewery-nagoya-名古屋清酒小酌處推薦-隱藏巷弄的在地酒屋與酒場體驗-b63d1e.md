@@ -6,7 +6,7 @@ category: sake-brewery
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sake-brewery-nagoya-名古屋清酒小酌處推薦-隱藏巷弄的在地酒屋與酒場體驗-b63d1e.html
 published: 2026-07-04
-quality_score: 6.5
+quality_score: 8.7
 tags: 名古屋清酒, 名古屋美食, 日本清酒吧, 中部地方旅遊, 名古屋酒蔵
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: anime-manga
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-kobe-神戶動漫咖啡廳與次文化酒吧-港都夜間動漫地圖-d05195.html
 published: 2026-06-17
-quality_score: 6.5
+quality_score: 8.6
 tags: 神戶動漫, 神戶咖啡廳, 神戶夜生活, 關西動漫, 港都次文化
 license: CC BY 4.0
 ---

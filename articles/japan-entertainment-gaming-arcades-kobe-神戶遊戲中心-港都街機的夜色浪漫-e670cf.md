@@ -6,7 +6,7 @@ category: gaming-arcades
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-gaming-arcades-kobe-神戶遊戲中心-港都街機的夜色浪漫-e670cf.html
 published: 2026-06-19
-quality_score: 6.5
+quality_score: 8.7
 tags: 神戶, 遊戲中心, 街機, 三宮, 元町
 license: CC BY 4.0
 ---

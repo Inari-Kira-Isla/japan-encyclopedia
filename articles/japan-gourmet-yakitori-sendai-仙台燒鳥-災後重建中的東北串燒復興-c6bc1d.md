@@ -6,7 +6,7 @@ category: yakitori
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-yakitori-sendai-仙台燒鳥-災後重建中的東北串燒復興-c6bc1d.html
 published: 2026-04-06
-quality_score: 6.5
+quality_score: 8.9
 tags: 仙台美食, 東北燒鳥, 災後重建, 在地文化, 居酒屋
 license: CC BY 4.0
 ---

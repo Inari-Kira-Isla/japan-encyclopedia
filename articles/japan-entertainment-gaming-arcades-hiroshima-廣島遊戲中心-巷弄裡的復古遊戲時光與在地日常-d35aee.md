@@ -6,7 +6,7 @@ category: gaming-arcades
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-gaming-arcades-hiroshima-廣島遊戲中心-巷弄裡的復古遊戲時光與在地日常-d35aee.html
 published: 2026-07-04
-quality_score: 6.5
+quality_score: 8.6
 tags: 廣島遊戲中心, 廣島景點, 日本街機, 廣島自由行, 關西廣島旅遊
 license: CC BY 4.0
 ---

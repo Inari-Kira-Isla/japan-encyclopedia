@@ -6,7 +6,7 @@ category: cycling
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-osaka-大阪產業騎行指南-從港區到工廠街的另類單車路線-9df99a.html
 published: 2026-06-18
-quality_score: 7.5
+quality_score: 8.7
 tags: 大阪單車, 產業騎行, 關西製造, 工廠街, 泉州纖維
 license: CC BY 4.0
 ---

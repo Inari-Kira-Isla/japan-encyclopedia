@@ -6,7 +6,7 @@ category: airport-transfer
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-airport-transfer-nara-奈良機場交通省錢攻略-金錢觀旅人的超值路線推薦-80ad2a.html
 published: 2026-06-05
-quality_score: 7.5
+quality_score: 8.5
 tags: 奈良交通, 關西機場, 奈良省錢, 機場接送, 日本交通
 license: CC BY 4.0
 ---

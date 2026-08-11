@@ -6,7 +6,7 @@ category: scenic-routes
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-nara-奈良山嶽信仰之路-探訪大和葛城與吉野大峰的千年修行道-2e7e91.html
 published: 2026-06-30
-quality_score: 6.5
+quality_score: 8.8
 tags: 奈良景點, 山嶽信仰, 自駕路線, 修行道, 朝聖之旅
 license: CC BY 4.0
 ---

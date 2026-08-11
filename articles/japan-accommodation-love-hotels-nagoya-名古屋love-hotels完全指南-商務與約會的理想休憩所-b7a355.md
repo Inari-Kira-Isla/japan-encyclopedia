@@ -6,7 +6,7 @@ category: love-hotels
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-love-hotels-nagoya-名古屋love-hotels完全指南-商務與約會的理想休憩所-b7a355.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 8.8
 tags: 名古屋, 戀人旅宿, 情侶住宿, 約會場所, 名古屋站
 license: CC BY 4.0
 ---

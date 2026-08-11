@@ -6,7 +6,7 @@ category: yakitori
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-yakitori-tokyo-東京燒鳥-從一汁一粒到深夜食堂的卡斯特羅-710194.html
 published: 2026-06-07
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京美食, 燒鳥, 居酒屋, 深夜食堂, 日本料理
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: buses
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-buses-hokkaido-北海道巴士交通完整指南-公車系統特色與推薦路線-e9feb0.html
 published: 2026-06-01
-quality_score: 7.5
+quality_score: 8.5
 tags: 北海道巴士, 北海道交通, 札幌公車, 北海道自由行, 北海道自助
 license: CC BY 4.0
 ---

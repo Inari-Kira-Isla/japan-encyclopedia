@@ -6,7 +6,7 @@ category: garden-parks
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-kyoto-京都庭園四季散步-跟著季節走訪不同的物語-727663.html
 published: 2026-06-28
-quality_score: 6.5
+quality_score: 8.5
 tags: 京都, 庭園, 春季, 秋季, 散步
 license: CC BY 4.0
 ---

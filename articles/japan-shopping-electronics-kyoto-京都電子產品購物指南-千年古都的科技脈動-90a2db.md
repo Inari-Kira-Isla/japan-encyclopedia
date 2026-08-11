@@ -6,7 +6,7 @@ category: electronics
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-electronics-kyoto-京都電子產品購物指南-千年古都的科技脈動-90a2db.html
 published: 2026-06-19
-quality_score: 7.5
+quality_score: 8.8
 tags: 京都電子產品, 京都購物, 相機專賣店, 精密儀器, 古都科技
 license: CC BY 4.0
 ---

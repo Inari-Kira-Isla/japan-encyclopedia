@@ -6,7 +6,7 @@ category: temples-shrines
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-temples-shrines-kanazawa-金澤寺廟神社完整攻略-千年加賀文化的祈福聖地-ad7c3f.html
 published: 2026-05-31
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤寺廟, 金澤神社, 加賀藩, 尾山神社, 妙立寺
 license: CC BY 4.0
 ---

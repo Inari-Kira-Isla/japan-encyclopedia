@@ -6,7 +6,7 @@ category: buses
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-buses-kyoto-京都公車完全攻略-遊客必備的交通指南-d3603e.html
 published: 2026-05-31
-quality_score: 7.5
+quality_score: 8.5
 tags: 京都公車, 京都交通, 京都自由行, 京都一日券, 洛巴士
 license: CC BY 4.0
 ---

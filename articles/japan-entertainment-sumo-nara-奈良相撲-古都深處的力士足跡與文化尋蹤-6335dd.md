@@ -6,7 +6,7 @@ category: sumo
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-nara-奈良相撲-古都深處的力士足跡與文化尋蹤-6335dd.html
 published: 2026-07-02
-quality_score: 6.5
+quality_score: 8.7
 tags: 奈良相撲, 奈良旅遊, 日本國技, 相撲文化體驗, 古都奈良
 license: CC BY 4.0
 ---

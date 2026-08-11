@@ -6,7 +6,7 @@ category: nature-trails
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-kobe-神戶登山健行完全指南-新手也能上手的療癒山林路線-69b1cc.html
 published: 2026-05-24
-quality_score: 6.5
+quality_score: 8.7
 tags: 神戶步道, 六甲山, 摩耶山, 布引瀑布, 有馬溫泉
 license: CC BY 4.0
 ---

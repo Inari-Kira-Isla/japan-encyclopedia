@@ -6,7 +6,7 @@ category: capsule-hotels
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-capsule-hotels-tokyo-東京膠囊旅館不完全指南-從都會機能到設計美學的五種住宿選擇-1c7fb5.html
 published: 2026-06-09
-quality_score: 6.5
+quality_score: 8.9
 tags: 東京住宿, 膠囊旅館, 日本自由行, 東京省钱住宿, 上野膠囊
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: matcha-sweets
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-matcha-sweets-kyoto-京都抹茶甜點-晨間茶屋的寧靜綠意-1e93bc.html
 published: 2026-07-05
-quality_score: 6.5
+quality_score: 8.6
 tags: 京都抹茶, 京都甜點, 朝茶文化, 京都美食, 日本抹茶
 license: CC BY 4.0
 ---

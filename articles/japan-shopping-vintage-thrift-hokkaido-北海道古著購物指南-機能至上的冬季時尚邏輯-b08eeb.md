@@ -6,7 +6,7 @@ category: vintage-thrift
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-vintage-thrift-hokkaido-北海道古著購物指南-機能至上的冬季時尚邏輯-b08eeb.html
 published: 2026-03-24
-quality_score: 7.5
+quality_score: 8.7
 tags: 北海道古著, 機能服飾, Vintage Thrift, 戶外品牌, 冬季購物
 license: CC BY 4.0
 ---

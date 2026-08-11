@@ -6,7 +6,7 @@ category: ryokan
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-osaka-大阪商賈驛站-都市叢林中的傳統驛館-eb85cf.html
 published: 2026-06-05
-quality_score: 6.5
+quality_score: 8.6
 tags: 大阪住宿, 大阪傳統旅館, 關西住宿, 商都文化, 大阪美食
 license: CC BY 4.0
 ---

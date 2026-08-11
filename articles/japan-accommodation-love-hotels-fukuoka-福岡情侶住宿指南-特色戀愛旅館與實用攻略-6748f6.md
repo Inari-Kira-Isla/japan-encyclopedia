@@ -6,7 +6,7 @@ category: love-hotels
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-love-hotels-fukuoka-福岡情侶住宿指南-特色戀愛旅館與實用攻略-6748f6.html
 published: 2026-06-14
-quality_score: 6.5
+quality_score: 8.6
 tags: 福岡住宿, 戀愛旅館, 情侶出遊, 九州自由行, 約會攻略
 license: CC BY 4.0
 ---

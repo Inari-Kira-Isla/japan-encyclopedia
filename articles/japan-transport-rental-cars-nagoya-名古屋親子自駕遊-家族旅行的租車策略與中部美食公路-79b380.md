@@ -6,7 +6,7 @@ category: rental-cars
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-nagoya-名古屋親子自駕遊-家族旅行的租車策略與中部美食公路-79b380.html
 published: 2026-06-22
-quality_score: 7.5
+quality_score: 8.8
 tags: 名古屋租車, 自駕遊, 家族旅行, 中部美食, 親子推薦
 license: CC BY 4.0
 ---

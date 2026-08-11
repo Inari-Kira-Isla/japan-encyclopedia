@@ -6,7 +6,7 @@ category: yakitori
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-yakitori-hokkaido-北海道燒鳥-四季食材與串燒藝術的完美融合-fe7b95.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.8
 tags: 北海道美食, 室蘭燒鳥, 日本燒烤, 海鮮串燒, 札幌夜生活
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: shinkansen
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-okinawa-沖繩的鐵路夢-為何這座島嶼只有單軌沒有新高鐵-22007b.html
 published: 2026-06-18
-quality_score: 7.5
+quality_score: 8.7
 tags: 沖繩交通, 日本新幹線, Yui Rail單軌, 沖繩鐵路, 日本鐵路差異
 license: CC BY 4.0
 ---

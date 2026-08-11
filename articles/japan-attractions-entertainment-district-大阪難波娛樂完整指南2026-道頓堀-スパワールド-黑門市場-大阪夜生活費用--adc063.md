@@ -6,7 +6,7 @@ category: entertainment-district
 area: japan
 url: https://japan-encyclopedia.vercel.app/articles/japan-attractions-entertainment-district-大阪難波娛樂完整指南2026-道頓堀-スパワールド-黑門市場-大阪夜生活費用--adc063.html
 published: 2026-04-10
-quality_score: 7.1
+quality_score: 8.5
 tags: 大阪難波, 道頓堀, スパワールド, 大阪夜生活, 大阪美食
 license: CC BY 4.0
 ---

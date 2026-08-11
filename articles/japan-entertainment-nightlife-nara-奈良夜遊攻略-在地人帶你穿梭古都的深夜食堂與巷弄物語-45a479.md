@@ -6,7 +6,7 @@ category: nightlife
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-nara-奈良夜遊攻略-在地人帶你穿梭古都的深夜食堂與巷弄物語-45a479.html
 published: 2026-06-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 奈良夜生活, 奈良美食, 日本古城夜景, 奈良推荐, 在地体验
 license: CC BY 4.0
 ---

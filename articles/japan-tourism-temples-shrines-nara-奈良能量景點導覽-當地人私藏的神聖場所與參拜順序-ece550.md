@@ -6,7 +6,7 @@ category: temples-shrines
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-temples-shrines-nara-奈良能量景點導覽-當地人私藏的神聖場所與參拜順序-ece550.html
 published: 2026-06-06
-quality_score: 6.5
+quality_score: 8.8
 tags: 奈良寺廟, 奈良神社, 日本古都, 能量景點, 參拜指南
 license: CC BY 4.0
 ---

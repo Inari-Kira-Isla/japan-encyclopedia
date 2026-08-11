@@ -6,7 +6,7 @@ category: ryokan
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-nara-奈良旅館的國際化蛻變-當千年古都遇見全球旅客-beaaf2.html
 published: 2026-04-06
-quality_score: 6.5
+quality_score: 8.7
 tags: 奈良旅館, 國際化, 傳統住宿, 文化體驗, 日式服務
 license: CC BY 4.0
 ---

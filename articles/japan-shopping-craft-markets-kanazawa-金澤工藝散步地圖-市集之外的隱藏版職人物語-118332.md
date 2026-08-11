@@ -6,7 +6,7 @@ category: craft-markets
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-craft-markets-kanazawa-金澤工藝散步地圖-市集之外的隱藏版職人物語-118332.html
 published: 2026-05-23
-quality_score: 7.5
+quality_score: 8.5
 tags: 金澤工藝, 散步購物, 漆器, 金箔, 加賀友禪
 license: CC BY 4.0
 ---

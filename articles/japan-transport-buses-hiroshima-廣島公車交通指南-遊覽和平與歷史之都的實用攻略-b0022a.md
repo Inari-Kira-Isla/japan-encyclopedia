@@ -6,7 +6,7 @@ category: buses
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-buses-hiroshima-廣島公車交通指南-遊覽和平與歷史之都的實用攻略-b0022a.html
 published: 2026-05-31
-quality_score: 7.5
+quality_score: 8.7
 tags: 廣島公車, 廣島交通, 日本公車, 廣島自助旅行, 宮島交通
 license: CC BY 4.0
 ---

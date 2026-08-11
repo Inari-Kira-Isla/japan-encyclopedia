@@ -6,7 +6,7 @@ category: buses
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-buses-sendai-仙台巴士美食攻略-搭公車探索巷弄裡的東北食堂-eeb895.html
 published: 2026-07-03
-quality_score: 7.5
+quality_score: 8.9
 tags: 仙台巴士, 仙台美食, 東北美食, 仙台交通, 在地食堂
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: sumo
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-fukuoka-福岡相撲觀賽全攻略-九州場所的熱血體驗與城市狂歡-704fda.html
 published: 2026-03-24
-quality_score: 6.5
+quality_score: 8.8
 tags: 福岡相撲, 九州場所, 博多名物, 體驗推薦, 相撲觀賽
 license: CC BY 4.0
 ---

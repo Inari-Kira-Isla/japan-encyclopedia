@@ -6,7 +6,7 @@ category: business-hotels
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-business-hotels-tokyo-東京設計商務住宿指南-創意產業旅人的質感棲所-fc7146.html
 published: 2026-06-14
-quality_score: 6.5
+quality_score: 8.6
 tags: 東京商務住宿, 設計飯店, 創意產業住宿, 東京藝術博覽會, 東京精品飯店
 license: CC BY 4.0
 ---

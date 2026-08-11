@@ -6,7 +6,7 @@ category: wagyu
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-wagyu-fukuoka-福岡的和牛日常-下班後的千元燒肉定食與在地人的隱藏店家-a32003.html
 published: 2026-05-23
-quality_score: 6.5
+quality_score: 8.5
 tags: 福岡美食, 和牛, 燒肉定食, 在地餐廳, 九州
 license: CC BY 4.0
 ---

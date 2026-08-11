@@ -6,7 +6,7 @@ category: cycling
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-kanazawa-金澤單車-騎進加賀百萬石的城市時間隧道-1ff785.html
 published: 2026-06-07
-quality_score: 7.5
+quality_score: 8.7
 tags: 金澤單車, 石川縣單車, 金澤自行車, 金澤深度遊, 加賀百萬石
 license: CC BY 4.0
 ---

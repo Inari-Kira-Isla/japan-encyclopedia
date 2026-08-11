@@ -6,7 +6,7 @@ category: temples-shrines
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-temples-shrines-okinawa-沖繩人日常生活中的聖地-走進島民日常的神社與寺院-9d5488.html
 published: 2026-06-04
-quality_score: 6.5
+quality_score: 8.7
 tags: 沖繩神社, 御嶽信仰,  Okinawa, 波上宮, 世界遺產
 license: CC BY 4.0
 ---

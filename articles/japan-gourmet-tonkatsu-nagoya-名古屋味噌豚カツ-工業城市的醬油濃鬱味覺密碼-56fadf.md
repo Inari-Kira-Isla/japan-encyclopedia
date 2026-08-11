@@ -6,7 +6,7 @@ category: tonkatsu
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tonkatsu-nagoya-名古屋味噌豚カツ-工業城市的醬油濃鬱味覺密碼-56fadf.html
 published: 2026-06-07
-quality_score: 6.5
+quality_score: 8.6
 tags: 名古屋美食, 味噌炸豬排, 味噌カツ, 名古屋必吃, 中部日本料理
 license: CC BY 4.0
 ---

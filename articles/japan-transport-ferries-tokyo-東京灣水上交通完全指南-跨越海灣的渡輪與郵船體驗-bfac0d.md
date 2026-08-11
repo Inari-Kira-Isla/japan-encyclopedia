@@ -6,7 +6,7 @@ category: ferries
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-ferries-tokyo-東京灣水上交通完全指南-跨越海灣的渡輪與郵船體驗-bfac0d.html
 published: 2026-06-01
-quality_score: 7.5
+quality_score: 8.5
 tags: 東京灣, 水上交通, 渡輪郵船, 東京自由行, 海上觀光
 license: CC BY 4.0
 ---

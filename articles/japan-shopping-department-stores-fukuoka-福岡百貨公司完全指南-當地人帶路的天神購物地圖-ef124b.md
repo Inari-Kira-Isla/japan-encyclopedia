@@ -6,7 +6,7 @@ category: department-stores
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-department-stores-fukuoka-福岡百貨公司完全指南-當地人帶路的天神購物地圖-ef124b.html
 published: 2026-06-27
-quality_score: 7.5
+quality_score: 8.6
 tags: 福岡購物, 天神, 百货公司, 九州特產, 岩田屋
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: festivals-matsuri
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-festivals-matsuri-fukuoka-福岡春季祭典攻略-櫻花季限定體驗與在地人推薦-f1dcd2.html
 published: 2026-07-04
-quality_score: 6.5
+quality_score: 8.7
 tags: 福岡春季祭典, 博多賞櫻, 櫻花季限定, 大濠公園, 舞鶴公園
 license: CC BY 4.0
 ---

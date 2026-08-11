@@ -6,7 +6,7 @@ category: island-hopping
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-island-hopping-kanazawa-金澤跳島之旅-從加賀百萬石城町航向佐渡金山的世界遺產之路-356450.html
 published: 2026-06-26
-quality_score: 6.5
+quality_score: 8.3
 tags: 金澤跳島, 佐渡島, 日本海, 金山文化, 石川縣
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: anime-tourism
 area: japan
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-tourism-日本動漫聖地巡禮完整指南2026-秋葉原-中野ブロードウェイ-三鷹ジブリ美術館費用攻略-jp-2b39e3.html
 published: 2026-03-29
-quality_score: 7.6
+quality_score: 8.5
 tags: 日本動漫旅遊, 秋葉原, 吉卜力美術館, 聖地巡禮, 中野ブロードウェイ
 license: CC BY 4.0
 ---

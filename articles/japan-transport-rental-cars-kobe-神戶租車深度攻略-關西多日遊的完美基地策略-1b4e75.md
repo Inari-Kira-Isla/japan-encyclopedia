@@ -6,7 +6,7 @@ category: rental-cars
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-kobe-神戶租車深度攻略-關西多日遊的完美基地策略-1b4e75.html
 published: 2026-03-29
-quality_score: 7.5
+quality_score: 8.6
 tags: 神戶租車, 關西自駕, 深度旅遊, 交通樞紐, 多日遊
 license: CC BY 4.0
 ---

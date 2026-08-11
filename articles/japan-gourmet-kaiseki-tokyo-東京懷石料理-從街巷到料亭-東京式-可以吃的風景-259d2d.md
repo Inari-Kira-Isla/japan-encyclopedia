@@ -6,7 +6,7 @@ category: kaiseki
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-kaiseki-tokyo-東京懷石料理-從街巷到料亭-東京式-可以吃的風景-259d2d.html
 published: 2026-04-07
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京美食, 懷石料理, 日本料理, 東京旅遊, 高端餐飲
 license: CC BY 4.0
 ---

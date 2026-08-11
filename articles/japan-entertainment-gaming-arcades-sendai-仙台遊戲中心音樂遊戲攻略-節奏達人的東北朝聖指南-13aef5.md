@@ -6,7 +6,7 @@ category: gaming-arcades
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-gaming-arcades-sendai-仙台遊戲中心音樂遊戲攻略-節奏達人的東北朝聖指南-13aef5.html
 published: 2026-06-05
-quality_score: 6.5
+quality_score: 8.5
 tags: 仙台遊戲中心, 日本街機, 音樂遊戲, Music Game, 東北娛樂
 license: CC BY 4.0
 ---

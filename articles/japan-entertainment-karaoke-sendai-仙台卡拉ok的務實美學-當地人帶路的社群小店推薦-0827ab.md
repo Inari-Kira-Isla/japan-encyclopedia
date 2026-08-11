@@ -6,7 +6,7 @@ category: karaoke
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-karaoke-sendai-仙台卡拉ok的務實美學-當地人帶路的社群小店推薦-0827ab.html
 published: 2026-07-03
-quality_score: 6.5
+quality_score: 8.7
 tags: 仙台, 卡拉OK, 東北之旅, 日本夜生活, 社區小店
 license: CC BY 4.0
 ---

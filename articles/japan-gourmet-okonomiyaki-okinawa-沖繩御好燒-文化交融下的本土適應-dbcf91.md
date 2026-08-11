@@ -6,7 +6,7 @@ category: okonomiyaki
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-okonomiyaki-okinawa-沖繩御好燒-文化交融下的本土適應-dbcf91.html
 published: 2026-04-06
-quality_score: 6.5
+quality_score: 8.7
 tags: 沖繩美食, 文化融合, 御好燒, 本土適應, 琉球料理
 license: CC BY 4.0
 ---

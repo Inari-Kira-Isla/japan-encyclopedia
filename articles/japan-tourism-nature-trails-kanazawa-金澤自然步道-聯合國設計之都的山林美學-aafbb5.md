@@ -6,7 +6,7 @@ category: nature-trails
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-kanazawa-金澤自然步道-聯合國設計之都的山林美學-aafbb5.html
 published: 2026-06-03
-quality_score: 6.5
+quality_score: 8.6
 tags: 金澤自然步道, 石川縣旅遊, 日本山林, 設計之都, 加賀百萬石
 license: CC BY 4.0
 ---

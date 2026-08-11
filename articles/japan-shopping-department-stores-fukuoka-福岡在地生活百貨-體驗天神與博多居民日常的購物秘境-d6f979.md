@@ -6,7 +6,7 @@ category: department-stores
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-department-stores-fukuoka-福岡在地生活百貨-體驗天神與博多居民日常的購物秘境-d6f979.html
 published: 2026-03-29
-quality_score: 7.5
+quality_score: 8.7
 tags: 福岡購物, 天神地下街, 岩田屋, 運河城, AMU PLAZA
 license: CC BY 4.0
 ---

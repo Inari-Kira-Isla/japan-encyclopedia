@@ -6,7 +6,7 @@ category: izakaya
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-izakaya-nagoya-名古屋深夜酒場完全攻略-在地人社群的下班後秘密基地-5ca521.html
 published: 2026-05-23
-quality_score: 6.5
+quality_score: 8.6
 tags: 名古屋居酒屋, 深夜酒場, 在地文化, 味噌關東煮, 職場下班
 license: CC BY 4.0
 ---

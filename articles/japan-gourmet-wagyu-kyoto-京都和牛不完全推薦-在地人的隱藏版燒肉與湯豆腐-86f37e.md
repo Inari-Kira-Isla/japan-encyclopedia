@@ -6,7 +6,7 @@ category: wagyu
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-wagyu-kyoto-京都和牛不完全推薦-在地人的隱藏版燒肉與湯豆腐-86f37e.html
 published: 2026-05-23
-quality_score: 6.5
+quality_score: 8.6
 tags: 京都和牛, 京都燒肉, 京都美食, 湯豆腐, 關西美食
 license: CC BY 4.0
 ---

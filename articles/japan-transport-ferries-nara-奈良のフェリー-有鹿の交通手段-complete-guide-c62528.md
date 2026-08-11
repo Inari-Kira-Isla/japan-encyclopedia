@@ -6,7 +6,7 @@ category: ferries
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-ferries-nara-奈良のフェリー-有鹿の交通手段-complete-guide-c62528.html
 published: 2026-06-02
-quality_score: 7.5
+quality_score: 8.7
 tags: 奈良旅遊, 關西交通, 內陸古都, 琵琶湖, 延伸行程
 license: CC BY 4.0
 ---

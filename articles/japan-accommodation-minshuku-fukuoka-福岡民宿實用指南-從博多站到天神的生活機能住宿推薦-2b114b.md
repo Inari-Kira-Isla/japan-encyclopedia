@@ -6,7 +6,7 @@ category: minshuku
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-fukuoka-福岡民宿實用指南-從博多站到天神的生活機能住宿推薦-2b114b.html
 published: 2026-03-24
-quality_score: 6.5
+quality_score: 8.5
 tags: 福岡民宿, 博多站住宿, 天神住宿, 九州自由行, 日本民宿
 license: CC BY 4.0
 ---

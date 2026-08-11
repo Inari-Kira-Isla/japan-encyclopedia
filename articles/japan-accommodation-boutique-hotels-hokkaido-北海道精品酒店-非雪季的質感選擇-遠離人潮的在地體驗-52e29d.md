@@ -6,7 +6,7 @@ category: boutique-hotels
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-hokkaido-北海道精品酒店-非雪季的質感選擇-遠離人潮的在地體驗-52e29d.html
 published: 2026-05-31
-quality_score: 6.5
+quality_score: 8.6
 tags: 北海道精品酒店, 小眾住宿, 非雪季北海道, 設計旅店, 富良野住宿
 license: CC BY 4.0
 ---

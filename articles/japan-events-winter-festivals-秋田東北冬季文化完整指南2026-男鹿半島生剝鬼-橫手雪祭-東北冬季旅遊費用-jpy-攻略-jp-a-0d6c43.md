@@ -6,7 +6,7 @@ category: winter-festivals
 area: japan
 url: https://japan-encyclopedia.vercel.app/articles/japan-events-winter-festivals-秋田東北冬季文化完整指南2026-男鹿半島生剝鬼-橫手雪祭-東北冬季旅遊費用-jpy-攻略-jp-a-0d6c43.html
 published: 2026-03-29
-quality_score: 7.6
+quality_score: 8.3
 tags: 秋田生剥鬼, 橫手雪祭, 角館武家屋敷, 東北冬季旅遊, なまはげ祭
 license: CC BY 4.0
 ---

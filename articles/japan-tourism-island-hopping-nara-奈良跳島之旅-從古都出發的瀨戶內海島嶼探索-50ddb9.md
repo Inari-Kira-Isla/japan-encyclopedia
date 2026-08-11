@@ -6,7 +6,7 @@ category: island-hopping
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-island-hopping-nara-奈良跳島之旅-從古都出發的瀨戶內海島嶼探索-50ddb9.html
 published: 2026-05-31
-quality_score: 6.5
+quality_score: 8.7
 tags: 奈良跳島, 關西島嶼, 和歌山加太, 三重英虞灣, 神戶六甲島
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: souvenir-omiyage
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-souvenir-omiyage-tokyo-東京銀髮族伴手禮購物指南-易攜帶・好味道・無負擔-c7b40a.html
 published: 2026-06-16
-quality_score: 7.5
+quality_score: 8.7
 tags: 東京伴手禮, 銀髮族購物, 東京伴手禮推薦, 日本旅遊, 東京購物指南
 license: CC BY 4.0
 ---

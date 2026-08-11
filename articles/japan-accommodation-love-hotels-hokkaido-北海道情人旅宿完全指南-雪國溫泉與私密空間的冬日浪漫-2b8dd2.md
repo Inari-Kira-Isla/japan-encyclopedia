@@ -6,7 +6,7 @@ category: love-hotels
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-love-hotels-hokkaido-北海道情人旅宿完全指南-雪國溫泉與私密空間的冬日浪漫-2b8dd2.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 8.4
 tags: 北海道情人旅宿, 北海道溫泉, 札幌約會, 北海道戀人酒店, 二世古滑雪
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: tonkatsu
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tonkatsu-kobe-神戶炸豬排-港都洋食的巷弄風景-a8bd51.html
 published: 2026-06-13
-quality_score: 6.5
+quality_score: 8.9
 tags: 神戶炸豬排, 神戶洋食, 元町美食, 三宮美食, 關西炸豬排
 license: CC BY 4.0
 ---

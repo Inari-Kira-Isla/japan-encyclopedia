@@ -6,7 +6,7 @@ category: sumo
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-kanazawa-京都相撲歷史探索-從平安時代到現代的力士文化蹤跡-32a5f1.html
 published: 2026-06-23
-quality_score: 6.5
+quality_score: 8.6
 tags: 京都相撲, 相撲歷史, 神事相撲, 京都文化, 關西相撲
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: business-hotels
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-business-hotels-okinawa-沖繩商務酒店完整指南-自駕出差與長住的實用住宿選擇-c6cd42.html
 published: 2026-06-05
-quality_score: 6.5
+quality_score: 8.4
 tags: 沖繩商務酒店, 商務出差住宿, 沖繩自駕住宿, 那霸商務飯店, Ryukyu朝食
 license: CC BY 4.0
 ---

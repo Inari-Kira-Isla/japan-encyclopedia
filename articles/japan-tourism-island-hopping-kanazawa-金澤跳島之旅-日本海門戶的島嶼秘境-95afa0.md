@@ -6,7 +6,7 @@ category: island-hopping
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-island-hopping-kanazawa-金澤跳島之旅-日本海門戶的島嶼秘境-95afa0.html
 published: 2026-06-28
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤跳島, 日本海, 佐渡島, 能登半島, 溫泉島嶼
 license: CC BY 4.0
 ---

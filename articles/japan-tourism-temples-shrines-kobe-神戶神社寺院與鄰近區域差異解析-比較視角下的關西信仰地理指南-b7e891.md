@@ -6,7 +6,7 @@ category: temples-shrines
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-temples-shrines-kobe-神戶神社寺院與鄰近區域差異解析-比較視角下的關西信仰地理指南-b7e891.html
 published: 2026-05-21
-quality_score: 6.5
+quality_score: 8.6
 tags: 神戶, 寺廟, 神社, 關西, 參拜
 license: CC BY 4.0
 ---

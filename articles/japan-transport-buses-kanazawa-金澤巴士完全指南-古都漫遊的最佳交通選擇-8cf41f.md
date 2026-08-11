@@ -6,7 +6,7 @@ category: buses
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-buses-kanazawa-金澤巴士完全指南-古都漫遊的最佳交通選擇-8cf41f.html
 published: 2026-03-20
-quality_score: 7.5
+quality_score: 8.7
 tags: 金澤交通, 城下町周遊巴士, 兼六園, 東茶屋街, 近江町市場
 license: CC BY 4.0
 ---

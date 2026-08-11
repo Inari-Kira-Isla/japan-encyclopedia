@@ -6,7 +6,7 @@ category: day-trips
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-tokyo-東京美食一日遊-從市區出發的米其林密度與在地麵食深度體驗-e65d77.html
 published: 2026-06-12
-quality_score: 6.5
+quality_score: 8.6
 tags: 東京一日遊, 美食一日遊, 米其林, 烏龍麵, 拉麵
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: rental-cars
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-kyoto-京都租車自駕攻略-四季美食與鄉間秘境的深度探險-f7f51e.html
 published: 2026-03-21
-quality_score: 7.5
+quality_score: 8.5
 tags: 京都旅遊, 租車自駕, 日本美食, 季節景觀, 溫泉體驗
 license: CC BY 4.0
 ---

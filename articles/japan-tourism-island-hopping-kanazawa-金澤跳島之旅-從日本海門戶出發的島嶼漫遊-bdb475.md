@@ -6,7 +6,7 @@ category: island-hopping
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-island-hopping-kanazawa-金澤跳島之旅-從日本海門戶出發的島嶼漫遊-bdb475.html
 published: 2026-06-17
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤跳島, 日本海島嶼, 輪島漆器, 能登半島, 舳倉島
 license: CC BY 4.0
 ---

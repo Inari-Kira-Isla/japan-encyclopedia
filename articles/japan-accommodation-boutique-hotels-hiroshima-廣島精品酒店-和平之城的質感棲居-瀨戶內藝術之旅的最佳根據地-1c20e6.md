@@ -6,7 +6,7 @@ category: boutique-hotels
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-hiroshima-廣島精品酒店-和平之城的質感棲居-瀨戶內藝術之旅的最佳根據地-1c20e6.html
 published: 2026-06-27
-quality_score: 6.5
+quality_score: 8.7
 tags: 廣島精品酒店, 廣島住宿推薦, 宮島住宿, 瀨戶內海住宿, 和平公園周邊住宿
 license: CC BY 4.0
 ---

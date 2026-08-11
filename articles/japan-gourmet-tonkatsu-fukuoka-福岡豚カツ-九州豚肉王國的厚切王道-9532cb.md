@@ -6,7 +6,7 @@ category: tonkatsu
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tonkatsu-fukuoka-福岡豚カツ-九州豚肉王國的厚切王道-9532cb.html
 published: 2026-06-24
-quality_score: 6.5
+quality_score: 9.0
 tags: 福岡炸豬排, 九州豚肉, 天神美食, 博多吃喝, 九州料理
 license: CC BY 4.0
 ---

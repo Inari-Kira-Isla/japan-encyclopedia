@@ -6,7 +6,7 @@ category: ryokan
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-fukuoka-福岡傳統旅館-現代都市的和式雅韻與平價美食體驗-f67d2d.html
 published: 2026-03-24
-quality_score: 6.5
+quality_score: 8.5
 tags: 福岡, 傳統旅館, 九州旅遊, 和式民宿, 美食體驗
 license: CC BY 4.0
 ---

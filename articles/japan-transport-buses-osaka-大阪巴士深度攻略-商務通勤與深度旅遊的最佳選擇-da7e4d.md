@@ -6,7 +6,7 @@ category: buses
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-buses-osaka-大阪巴士深度攻略-商務通勤與深度旅遊的最佳選擇-da7e4d.html
 published: 2026-04-05
-quality_score: 7.5
+quality_score: 8.5
 tags: 大阪交通, 日本巴士, 商務旅行, 深度旅遊, 關西交通
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: craft-markets
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-craft-markets-sendai-仙台古著とヴィンテージ市-學生街の節約elhooking學-e5800d.html
 published: 2026-05-22
-quality_score: 7.5
+quality_score: 8.7
 tags: 仙台, 古著, ヴィンテージ, 節約旅遊, 東北大学生
 license: CC BY 4.0
 ---

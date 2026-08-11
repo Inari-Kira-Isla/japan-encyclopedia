@@ -6,7 +6,7 @@ category: street-food
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-street-food-tokyo-東京環狀線周邊的社群街食-非觀光區的在地滋味-09b151.html
 published: 2026-06-20
-quality_score: 6.5
+quality_score: 8.8
 tags: 東京街食, 社區美食, 巢鴨, 十条, 中井
 license: CC BY 4.0
 ---

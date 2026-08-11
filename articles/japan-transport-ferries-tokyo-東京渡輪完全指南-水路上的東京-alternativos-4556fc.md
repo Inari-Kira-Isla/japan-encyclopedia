@@ -6,7 +6,7 @@ category: ferries
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-ferries-tokyo-東京渡輪完全指南-水路上的東京-alternativos-4556fc.html
 published: 2026-06-01
-quality_score: 7.5
+quality_score: 8.5
 tags: 东京, ferries, 海上交通, 渡輪, 水巴
 license: CC BY 4.0
 ---

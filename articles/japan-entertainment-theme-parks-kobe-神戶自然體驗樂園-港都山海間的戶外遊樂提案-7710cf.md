@@ -6,7 +6,7 @@ category: theme-parks
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-theme-parks-kobe-神戶自然體驗樂園-港都山海間的戶外遊樂提案-7710cf.html
 published: 2026-06-25
-quality_score: 6.5
+quality_score: 8.6
 tags: 神戶主題樂園, 神戶親子遊, 六甲山牧場, 有馬溫泉, 神戶農業公園
 license: CC BY 4.0
 ---

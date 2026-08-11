@@ -6,7 +6,7 @@ category: theme-park
 area: japan
 url: https://japan-encyclopedia.vercel.app/articles/japan-attractions-theme-park-東京迪士尼樂園和海洋完整指南2026-迪士尼樂園-迪士尼海洋-門票-東京迪士尼費用-jpy-攻略-jp-900690.html
 published: 2026-04-19
-quality_score: 7.6
+quality_score: 8.4
 tags: 東京迪士尼, 迪士尼海洋, 迪士尼樂園門票, Tokyo Disney Resort, 東京主題樂園
 license: CC BY 4.0
 ---

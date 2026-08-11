@@ -6,7 +6,7 @@ category: vintage-thrift
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-vintage-thrift-nagoya-名古屋古著投資指南-中部地區的復古時尚收藏策略-7c8634.html
 published: 2026-03-28
-quality_score: 7.5
+quality_score: 8.7
 tags: 名古屋購物, 古著收藏, 投資指南, 復古時尚, 日本中部
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: theme-parks
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-theme-parks-hokkaido-北海道主題樂園另類指南-非典型遊樂體驗推薦-7cde3f.html
 published: 2026-06-15
-quality_score: 6.5
+quality_score: 8.6
 tags: 北海道主题乐园, 札幌雪祭, 登别温泉, 白色恋人公园, 冬季北海道
 license: CC BY 4.0
 ---

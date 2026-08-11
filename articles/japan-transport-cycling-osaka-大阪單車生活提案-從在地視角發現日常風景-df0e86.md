@@ -6,7 +6,7 @@ category: cycling
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-osaka-大阪單車生活提案-從在地視角發現日常風景-df0e86.html
 published: 2026-06-06
-quality_score: 7.5
+quality_score: 8.6
 tags: 大阪單車, 大阪深度遊, 關西單車路線, 大阪巷弄探險, 大阪美食單車
 license: CC BY 4.0
 ---

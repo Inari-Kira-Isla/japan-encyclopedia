@@ -6,7 +6,7 @@ category: duty-free
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-duty-free-kanazawa-金澤免稅購物省錢攻略-小城市的隱藏版超值選擇-1ce343.html
 published: 2026-06-26
-quality_score: 7.5
+quality_score: 8.6
 tags: 金澤免稅, 金澤購物, 日本免稅店, 金箔特產, 北陸旅遊
 license: CC BY 4.0
 ---

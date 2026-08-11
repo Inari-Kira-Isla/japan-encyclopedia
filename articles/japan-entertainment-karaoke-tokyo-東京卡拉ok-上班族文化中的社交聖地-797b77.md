@@ -6,7 +6,7 @@ category: karaoke
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-karaoke-tokyo-東京卡拉ok-上班族文化中的社交聖地-797b77.html
 published: 2026-04-01
-quality_score: 6.5
+quality_score: 8.8
 tags: 東京, 卡拉OK, 上班族文化, 夜生活, 社交娛樂
 license: CC BY 4.0
 ---

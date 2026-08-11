@@ -6,7 +6,7 @@ category: sake-brewery
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sake-brewery-nara-奈良清酒的隠藏風景-探訪在地酒蔵的人情味-7767d0.html
 published: 2026-05-24
-quality_score: 6.5
+quality_score: 8.6
 tags: 奈良清酒, 酒蔵參觀, 日本釀酒, 大和釀造, 隱藏版景點
 license: CC BY 4.0
 ---

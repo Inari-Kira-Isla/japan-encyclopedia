@@ -6,7 +6,7 @@ category: nature-trails
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-tokyo-東京自然步道完全指南-山海叢林間的療癒之路-a53c39.html
 published: 2026-06-24
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京自然步道, 奧多摩溪流, 昭和紀念公園, 等等力溪谷, 井之頭池
 license: CC BY 4.0
 ---

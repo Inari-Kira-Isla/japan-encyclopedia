@@ -6,7 +6,7 @@ category: castle-towns
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-castle-towns-hiroshima-廣島的港町城下町-從水運據點看懂毛利氏的商業佈局-f7c3df.html
 published: 2026-06-28
-quality_score: 6.5
+quality_score: 8.6
 tags: 廣島, 港町, 毛利氏, 城下町, 瀨戶內海
 license: CC BY 4.0
 ---

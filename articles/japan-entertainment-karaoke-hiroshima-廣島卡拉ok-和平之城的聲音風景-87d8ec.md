@@ -6,7 +6,7 @@ category: karaoke
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-karaoke-hiroshima-廣島卡拉ok-和平之城的聲音風景-87d8ec.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 8.7
 tags: 廣島卡拉OK, 廣島娛樂, 廣島夜生活, 日本卡拉OK, 中國地方娛樂
 license: CC BY 4.0
 ---

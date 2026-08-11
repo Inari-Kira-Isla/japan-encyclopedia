@@ -6,7 +6,7 @@ category: garden-parks
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-hokkaido-北海道農業花園巡禮-田園與花海的療癒旅程-8f3bef.html
 published: 2026-06-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道, 農業花園, 田園體驗, 花海, 酪農
 license: CC BY 4.0
 ---

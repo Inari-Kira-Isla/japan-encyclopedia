@@ -6,7 +6,7 @@ category: vintage-thrift
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-vintage-thrift-fukuoka-福岡巷仔古著散步-天神以南的隱藏版復古小店-9ba592.html
 published: 2026-06-22
-quality_score: 7.5
+quality_score: 8.8
 tags: 福岡古著, 古著購物, 九州復古, 藥院古著, 巷仔文化
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: island-hopping
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-island-hopping-kanazawa-金澤跳島之旅-日本海島嶼的秘境探索-7974f3.html
 published: 2026-06-20
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤跳島, 日本海島嶼, 佐渡島, 石川縣旅遊, 輪島
 license: CC BY 4.0
 ---

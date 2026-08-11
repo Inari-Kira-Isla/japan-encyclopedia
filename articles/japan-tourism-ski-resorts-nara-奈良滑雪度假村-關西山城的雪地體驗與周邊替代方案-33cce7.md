@@ -6,7 +6,7 @@ category: ski-resorts
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-ski-resorts-nara-奈良滑雪度假村-關西山城的雪地體驗與周邊替代方案-33cce7.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 8.8
 tags: 奈良滑雪, 關西滑雪, 比叡山滑雪場, Biwake Valley, 日本冬季戶外
 license: CC BY 4.0
 ---

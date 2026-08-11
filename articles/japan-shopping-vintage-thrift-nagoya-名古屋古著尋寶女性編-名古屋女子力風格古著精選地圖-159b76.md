@@ -6,7 +6,7 @@ category: vintage-thrift
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-vintage-thrift-nagoya-名古屋古著尋寶女性編-名古屋女子力風格古著精選地圖-159b76.html
 published: 2026-06-19
-quality_score: 7.5
+quality_score: 8.8
 tags: 名古屋古著, 古著購物, 中部古著, 復古時尚, 日本購物
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: island-hopping
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-island-hopping-hiroshima-廣島跳島攻略-瀨戶內海上的療癒島嶼們-baeb8c.html
 published: 2026-06-10
-quality_score: 6.5
+quality_score: 8.7
 tags: 廣島跳島, 瀨戶內海, 宮島, 大久野島, 兔子島
 license: CC BY 4.0
 ---

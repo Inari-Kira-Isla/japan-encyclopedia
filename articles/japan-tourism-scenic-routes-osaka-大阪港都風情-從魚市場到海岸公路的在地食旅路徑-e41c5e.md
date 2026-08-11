@@ -6,7 +6,7 @@ category: scenic-routes
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-osaka-大阪港都風情-從魚市場到海岸公路的在地食旅路徑-e41c5e.html
 published: 2026-06-21
-quality_score: 6.5
+quality_score: 8.6
 tags: 大阪景點, 港都風情, 食旅路線, 在地體驗, 海岸風光
 license: CC BY 4.0
 ---

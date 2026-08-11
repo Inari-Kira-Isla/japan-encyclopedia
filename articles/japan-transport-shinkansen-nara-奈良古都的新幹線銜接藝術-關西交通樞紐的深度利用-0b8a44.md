@@ -6,7 +6,7 @@ category: shinkansen
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-nara-奈良古都的新幹線銜接藝術-關西交通樞紐的深度利用-0b8a44.html
 published: 2026-04-05
-quality_score: 7.5
+quality_score: 8.6
 tags: 奈良交通, 新幹線, 關西旅遊, 京都轉乘, 古都巡禮
 license: CC BY 4.0
 ---

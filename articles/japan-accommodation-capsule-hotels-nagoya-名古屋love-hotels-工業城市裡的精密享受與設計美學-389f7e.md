@@ -6,7 +6,7 @@ category: capsule-hotels
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-capsule-hotels-nagoya-名古屋love-hotels-工業城市裡的精密享受與設計美學-389f7e.html
 published: 2026-06-07
-quality_score: 6.5
+quality_score: 8.7
 tags: 名古屋住宿, 情侶旅館, 日本中部住宿, Love Hotels, 名古屋約會
 license: CC BY 4.0
 ---

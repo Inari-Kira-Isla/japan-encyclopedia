@@ -6,7 +6,7 @@ category: karaoke
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-karaoke-kobe-神戶卡拉ok-港都的美食與歌聲融合地圖-276d3c.html
 published: 2026-06-09
-quality_score: 6.5
+quality_score: 8.9
 tags: 神戶, 卡拉OK, 港都, 美食結合, 關西娛樂
 license: CC BY 4.0
 ---

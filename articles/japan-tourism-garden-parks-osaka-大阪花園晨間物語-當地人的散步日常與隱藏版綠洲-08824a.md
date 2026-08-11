@@ -6,7 +6,7 @@ category: garden-parks
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-osaka-大阪花園晨間物語-當地人的散步日常與隱藏版綠洲-08824a.html
 published: 2026-06-24
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪花園, 大阪公園, 大阪自由行, 大阪散步, 大阪亲子游
 license: CC BY 4.0
 ---

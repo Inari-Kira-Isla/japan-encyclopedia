@@ -6,7 +6,7 @@ category: anime-manga
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-hokkaido-北海道動漫文化巡禮-雪國動漫迷的獨家體驗-581ff0-1781996632.html
 published: 2026-06-20
-quality_score: 6.5
+quality_score: 8.4
 tags: 北海道動漫, 札幌動漫店, 雪國動漫巡禮, 動漫聖地巡禮, 日本動漫文化
 license: CC BY 4.0
 ---

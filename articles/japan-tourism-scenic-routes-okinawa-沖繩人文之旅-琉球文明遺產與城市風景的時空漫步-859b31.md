@@ -6,7 +6,7 @@ category: scenic-routes
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-okinawa-沖繩人文之旅-琉球文明遺產與城市風景的時空漫步-859b31.html
 published: 2026-03-22
-quality_score: 6.5
+quality_score: 8.7
 tags: 沖繩, 琉球文化, 人文之旅, 歷史遺跡, 文化體驗
 license: CC BY 4.0
 ---

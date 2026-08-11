@@ -6,7 +6,7 @@ category: nature-trails
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-nagoya-名古屋自然步道運動指南-都市工作者的戶外健身秘境-6a37c0.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 名古屋, 健身運動, 自然步道, 都市健行, 戶外活動
 license: CC BY 4.0
 ---

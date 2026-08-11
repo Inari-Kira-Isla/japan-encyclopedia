@@ -6,7 +6,7 @@ category: souvenir-omiyage
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-souvenir-omiyage-nagoya-名古屋伴手禮-快閃採購-攻略-時間有限也能買齊在地特產-365b9d.html
 published: 2026-06-03
-quality_score: 7.5
+quality_score: 8.9
 tags: 名古屋伴手禮, 中部国際空港, 近鐵Pass'e, 八丁味噌, 手羽先
 license: CC BY 4.0
 ---

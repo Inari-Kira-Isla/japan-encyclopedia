@@ -6,7 +6,7 @@ category: ferries
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-ferries-fukuoka-福岡渡輪美食航程-海上移動的餐桌體驗與九州島嶼食文化-a37421.html
 published: 2026-06-18
-quality_score: 7.5
+quality_score: 8.8
 tags: 福岡渡輪, 九州島嶼, 海上美食, 玄界灘, 博多港
 license: CC BY 4.0
 ---

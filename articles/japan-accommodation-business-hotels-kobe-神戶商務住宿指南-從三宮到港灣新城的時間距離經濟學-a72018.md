@@ -6,7 +6,7 @@ category: business-hotels
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-business-hotels-kobe-神戶商務住宿指南-從三宮到港灣新城的時間距離經濟學-a72018.html
 published: 2026-06-09
-quality_score: 6.5
+quality_score: 8.6
 tags: 神戶商務住宿, 神戶出差住宿, 關西商務飯店, 神戶交通樞紐, 港都商務旅行
 license: CC BY 4.0
 ---

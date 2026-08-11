@@ -6,7 +6,7 @@ category: department-stores
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-department-stores-fukuoka-福岡購物達人指南-天神地區人氣百貨公司與購物商場精選-3a0afb.html
 published: 2026-06-10
-quality_score: 7.5
+quality_score: 8.6
 tags: 福岡購物, 天神地下街, 九州百貨公司, 福岡三越, SOLARIA
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: department-stores
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-department-stores-okinawa-沖繩-dept-stores-在地採買完全指南-發現島嶼限定的赤瓦紅韻-aa6fee.html
 published: 2026-05-25
-quality_score: 7.5
+quality_score: 8.7
 tags: 沖繩購物, 沖繩百货, Okinawa Department Stores, 日本伴手禮, 沖繩自由行
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: scenic-routes
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-fukuoka-福岡風景步道完全指南-穿越城市脈動的散步地圖-729ada.html
 published: 2026-06-02
-quality_score: 6.5
+quality_score: 8.7
 tags: 福岡, 風景步道, 散步路線, 城市漫遊, 自然徒步
 license: CC BY 4.0
 ---

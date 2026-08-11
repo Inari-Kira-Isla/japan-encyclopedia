@@ -6,7 +6,7 @@ category: sake-brewery
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sake-brewery-kyoto-京都清酒與美食的年末盛宴-年末參拜與釀酒廠的隱藏版美食地圖-117870.html
 published: 2026-06-18
-quality_score: 6.5
+quality_score: 8.6
 tags: 京都清酒, 釀酒廠美食, 年末京都, 伏見區, 京料理
 license: CC BY 4.0
 ---

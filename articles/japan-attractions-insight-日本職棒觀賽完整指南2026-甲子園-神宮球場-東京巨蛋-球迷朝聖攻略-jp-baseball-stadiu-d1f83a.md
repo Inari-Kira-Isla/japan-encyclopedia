@@ -6,7 +6,7 @@ category: insight
 area: japan
 url: https://japan-encyclopedia.vercel.app/articles/japan-attractions-insight-日本職棒觀賽完整指南2026-甲子園-神宮球場-東京巨蛋-球迷朝聖攻略-jp-baseball-stadiu-d1f83a.html
 published: 2026-03-30
-quality_score: 7.6
+quality_score: 8.5
 tags: 日本, 棒球, NPB, 東京巨蛋, 甲子園
 license: CC BY 4.0
 ---

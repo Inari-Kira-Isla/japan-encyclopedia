@@ -6,7 +6,7 @@ category: nightlife
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-sendai-仙台夜生活-當地人帶路的巷弄酒bar探險地圖-e16cc3.html
 published: 2026-06-23
-quality_score: 6.5
+quality_score: 8.7
 tags: 仙台夜生活, 東北夜生活, 日本酒吧, 在地文化, 仙台美食
 license: CC BY 4.0
 ---

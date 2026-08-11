@@ -6,7 +6,7 @@ category: gaming-arcades
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-gaming-arcades-tokyo-東京遊戲中心-分割槽導覽與新型態體驗-76cdfd.html
 published: 2026-04-07
-quality_score: 6.5
+quality_score: 8.8
 tags: 東京, 遊戲中心, 街機, VR體驗, 東京娛樂
 license: CC BY 4.0
 ---

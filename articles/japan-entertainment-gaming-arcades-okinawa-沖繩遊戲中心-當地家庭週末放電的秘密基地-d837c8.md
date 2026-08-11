@@ -6,7 +6,7 @@ category: gaming-arcades
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-gaming-arcades-okinawa-沖繩遊戲中心-當地家庭週末放電的秘密基地-d837c8.html
 published: 2026-06-05
-quality_score: 6.5
+quality_score: 8.8
 tags: 沖繩遊戲中心, 家庭娛樂, 南國度假, 在地體驗, 親子友善
 license: CC BY 4.0
 ---

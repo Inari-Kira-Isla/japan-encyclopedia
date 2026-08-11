@@ -6,7 +6,7 @@ category: rental-cars
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-kyoto-京都租車周邊探索-自駕通往秘境的有效策略-e42329.html
 published: 2026-06-08
-quality_score: 7.5
+quality_score: 8.6
 tags: 京都租車, 京都自駕, 京都周邊旅遊, 關西租車, 比叡山
 license: CC BY 4.0
 ---

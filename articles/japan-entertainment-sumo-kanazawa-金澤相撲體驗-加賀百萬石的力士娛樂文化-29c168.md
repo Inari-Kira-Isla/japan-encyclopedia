@@ -6,7 +6,7 @@ category: sumo
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-kanazawa-金澤相撲體驗-加賀百萬石的力士娛樂文化-29c168.html
 published: 2026-04-04
-quality_score: 6.5
+quality_score: 8.7
 tags: 相撲體驗, 金澤娛樂, 日本傳統文化, 親子活動, 武道體驗
 license: CC BY 4.0
 ---

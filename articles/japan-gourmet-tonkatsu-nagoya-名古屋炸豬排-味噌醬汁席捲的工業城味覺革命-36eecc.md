@@ -6,7 +6,7 @@ category: tonkatsu
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tonkatsu-nagoya-名古屋炸豬排-味噌醬汁席捲的工業城味覺革命-36eecc.html
 published: 2026-06-06
-quality_score: 6.5
+quality_score: 8.7
 tags: 名古屋美食, 味噌炸豬排, 日本洋食, 名古屋定食, 八丁味噌
 license: CC BY 4.0
 ---

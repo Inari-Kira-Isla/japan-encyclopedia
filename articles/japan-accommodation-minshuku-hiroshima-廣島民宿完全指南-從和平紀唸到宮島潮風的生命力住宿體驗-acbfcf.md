@@ -6,7 +6,7 @@ category: minshuku
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-hiroshima-廣島民宿完全指南-從和平紀唸到宮島潮風的生命力住宿體驗-acbfcf.html
 published: 2026-06-02
-quality_score: 6.5
+quality_score: 8.7
 tags: 廣島民宿, minshuku, 宮島住宿, 平和紀念, 尾道
 license: CC BY 4.0
 ---

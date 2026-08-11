@@ -6,7 +6,7 @@ category: temples-shrines
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-temples-shrines-tokyo-東京寺廟神社初訪攻略-從零開始的參拜實戰指南-6acaf1.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京寺廟, 神社參拜, 初訪指南, 交通攻略, 祈願文化
 license: CC BY 4.0
 ---

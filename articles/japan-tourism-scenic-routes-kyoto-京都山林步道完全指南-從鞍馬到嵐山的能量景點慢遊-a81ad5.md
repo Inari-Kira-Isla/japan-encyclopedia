@@ -6,7 +6,7 @@ category: scenic-routes
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-kyoto-京都山林步道完全指南-從鞍馬到嵐山的能量景點慢遊-a81ad5.html
 published: 2026-06-09
-quality_score: 6.5
+quality_score: 8.7
 tags: 京都步道, 鞍馬山, 嵐山竹林, 比叡山, 大文字山
 license: CC BY 4.0
 ---

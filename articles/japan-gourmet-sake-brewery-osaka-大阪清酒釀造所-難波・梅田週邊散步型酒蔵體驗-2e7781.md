@@ -6,7 +6,7 @@ category: sake-brewery
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sake-brewery-osaka-大阪清酒釀造所-難波・梅田週邊散步型酒蔵體驗-2e7781.html
 published: 2026-06-21
-quality_score: 6.5
+quality_score: 8.5
 tags: 大阪, 清酒, 釀造所, 都市散步, 關西美食
 license: CC BY 4.0
 ---

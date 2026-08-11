@@ -6,7 +6,7 @@ category: boutique-hotels
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-osaka-大阪隱巷精品酒店-巷弄深處的設計棲居-08a8a4.html
 published: 2026-06-29
-quality_score: 6.5
+quality_score: 8.5
 tags: 大阪精品酒店, Boutique Hotel Osaka, 大阪住宿推薦, 關西質感住宿, 設計酒店大阪
 license: CC BY 4.0
 ---

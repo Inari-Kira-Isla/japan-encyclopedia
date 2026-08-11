@@ -6,7 +6,7 @@ category: wagyu
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-wagyu-kyoto-京都和牛隱藏版-當地人帶路的巷弄燒肉與日常食堂-df91d4.html
 published: 2026-07-02
-quality_score: 6.5
+quality_score: 8.7
 tags: 京都和牛, 京都燒肉, 京都美食, 隱藏版餐廳, 當地人推薦
 license: CC BY 4.0
 ---

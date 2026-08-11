@@ -6,7 +6,7 @@ category: scenic-routes
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-fukuoka-福岡內陸風景路線探秘-山川溫泉與古道的四季變幻-2c719e.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 福岡內陸, 山區風景, 溫泉路線, 歷史古道, 四季變化
 license: CC BY 4.0
 ---

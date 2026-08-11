@@ -6,7 +6,7 @@ category: historical-districts
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-fukuoka-福岡歷史街區-從港口到巷弄的生活物語-1ab311.html
 published: 2026-05-21
-quality_score: 6.5
+quality_score: 8.5
 tags: 福冈, 歷史街區, 九州, 散步, 懷舊
 license: CC BY 4.0
 ---

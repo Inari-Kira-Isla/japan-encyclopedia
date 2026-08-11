@@ -6,7 +6,7 @@ category: anime-manga
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-kanazawa-金澤動漫自學指南-傳統工藝城市的地下御宅資源-c76aaa.html
 published: 2026-06-04
-quality_score: 6.5
+quality_score: 8.5
 tags: 金澤, 石川縣, 日本動漫, 漫畫圖書館, 自學資源
 license: CC BY 4.0
 ---

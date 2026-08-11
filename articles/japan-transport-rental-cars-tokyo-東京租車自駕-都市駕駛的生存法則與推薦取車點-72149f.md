@@ -6,7 +6,7 @@ category: rental-cars
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-tokyo-東京租車自駕-都市駕駛的生存法則與推薦取車點-72149f.html
 published: 2026-06-09
-quality_score: 7.5
+quality_score: 8.8
 tags: 東京租車, 東京自駕, 關東租車, Tokyo Rental Cars, 日本租車
 license: CC BY 4.0
 ---

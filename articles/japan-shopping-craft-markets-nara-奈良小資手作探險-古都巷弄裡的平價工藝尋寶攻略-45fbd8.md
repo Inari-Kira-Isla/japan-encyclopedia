@@ -6,7 +6,7 @@ category: craft-markets
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-craft-markets-nara-奈良小資手作探險-古都巷弄裡的平價工藝尋寶攻略-45fbd8.html
 published: 2026-06-13
-quality_score: 7.5
+quality_score: 8.7
 tags: 奈良, 手作市集, 平價工藝, 古都探險, 小資攻略
 license: CC BY 4.0
 ---

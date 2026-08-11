@@ -6,7 +6,7 @@ category: scenic-routes
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-hiroshima-廣島單車慢遊路線-騎行瀨戶內海的海岸風光與島嶼風情-be9c2c.html
 published: 2026-06-15
-quality_score: 6.5
+quality_score: 8.7
 tags: 廣島單車路線, 瀨戶內海單車道, 島波海道, 宮島海岸自行車道, 日本單車旅行
 license: CC BY 4.0
 ---

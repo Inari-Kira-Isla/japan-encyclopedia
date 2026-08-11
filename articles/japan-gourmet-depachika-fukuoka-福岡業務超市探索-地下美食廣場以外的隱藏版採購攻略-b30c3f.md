@@ -6,7 +6,7 @@ category: depachika
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-depachika-fukuoka-福岡業務超市探索-地下美食廣場以外的隱藏版採購攻略-b30c3f.html
 published: 2026-07-02
-quality_score: 6.5
+quality_score: 8.7
 tags: 福岡美食, 業務超市, 九州食材, Depachika, 博多
 license: CC BY 4.0
 ---

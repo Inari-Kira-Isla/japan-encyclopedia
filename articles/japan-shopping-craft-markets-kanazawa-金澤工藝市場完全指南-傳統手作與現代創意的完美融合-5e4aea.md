@@ -6,7 +6,7 @@ category: craft-markets
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-craft-markets-kanazawa-金澤工藝市場完全指南-傳統手作與現代創意的完美融合-5e4aea.html
 published: 2026-03-15
-quality_score: 7.5
+quality_score: 8.7
 tags: 金澤, 傳統工藝, 手作市場, 金箔, 加賀友禪
 license: CC BY 4.0
 ---

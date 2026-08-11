@@ -6,7 +6,7 @@ category: anime-manga
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-kobe-神戶動漫小店探索-港都巷弄中的二次元秘密基地-aeadbc.html
 published: 2026-06-30
-quality_score: 6.5
+quality_score: 8.5
 tags: 神戶動漫, 神戶景點, 二次元, 動漫小店, 巷弄商店
 license: CC BY 4.0
 ---

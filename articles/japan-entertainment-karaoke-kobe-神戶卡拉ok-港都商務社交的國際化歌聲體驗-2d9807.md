@@ -6,7 +6,7 @@ category: karaoke
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-karaoke-kobe-神戶卡拉ok-港都商務社交的國際化歌聲體驗-2d9807.html
 published: 2026-04-01
-quality_score: 6.5
+quality_score: 8.7
 tags: 神戶娛樂, 商務社交, 港都夜生活, 國際化體驗, 卡拉OK文化
 license: CC BY 4.0
 ---

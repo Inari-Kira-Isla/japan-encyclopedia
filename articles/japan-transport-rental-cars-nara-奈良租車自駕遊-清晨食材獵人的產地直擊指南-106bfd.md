@@ -6,7 +6,7 @@ category: rental-cars
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-nara-奈良租車自駕遊-清晨食材獵人的產地直擊指南-106bfd.html
 published: 2026-07-03
-quality_score: 7.5
+quality_score: 8.5
 tags: 奈良自駕, 食材獵人, 清晨市場, 吉野山菜, 宇陀釀造
 license: CC BY 4.0
 ---

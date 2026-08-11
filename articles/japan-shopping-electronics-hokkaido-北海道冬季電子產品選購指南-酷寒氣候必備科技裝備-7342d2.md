@@ -6,7 +6,7 @@ category: electronics
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-electronics-hokkaido-北海道冬季電子產品選購指南-酷寒氣候必備科技裝備-7342d2.html
 published: 2026-06-03
-quality_score: 7.5
+quality_score: 8.5
 tags: 北海道電子產品, 防寒電子裝備, 冬季攝影器材, 二世谷電子用品, 札幌電器行
 license: CC BY 4.0
 ---

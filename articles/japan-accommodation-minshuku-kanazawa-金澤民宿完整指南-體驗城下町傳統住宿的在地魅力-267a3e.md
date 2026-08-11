@@ -6,7 +6,7 @@ category: minshuku
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-kanazawa-金澤民宿完整指南-體驗城下町傳統住宿的在地魅力-267a3e.html
 published: 2026-03-15
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤住宿, 民宿推薦, 石川縣旅遊, 日本溫泉, 城下町體驗
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: temples-shrines
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-temples-shrines-tokyo-東京通勤族能量景點-車站周邊的微型信仰現場-9d909e.html
 published: 2026-06-18
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京神社, 駅近神社, 通勤族的能量景點, 品川神社, 穴稻荷
 license: CC BY 4.0
 ---

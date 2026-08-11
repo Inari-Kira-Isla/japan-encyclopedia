@@ -6,7 +6,7 @@ category: ferries
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-ferries-hiroshima-廣島渡輪交通網-瀨戶內海物流樞紐的戰略地位-5d2db1.html
 published: 2026-04-04
-quality_score: 7.5
+quality_score: 8.4
 tags: 廣島, 瀨戶內海, 渡輪交通, 島嶼旅遊, 海運物流
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: sake-brewery
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sake-brewery-okinawa-沖繩酒食配對美學-泡盛與清酒的餐桌藝術-1907e3.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 沖繩, 泡盛, 清酒, 美食配對, 酒藏
 license: CC BY 4.0
 ---

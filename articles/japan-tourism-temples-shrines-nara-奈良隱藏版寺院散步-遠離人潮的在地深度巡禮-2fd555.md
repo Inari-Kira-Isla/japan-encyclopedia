@@ -6,7 +6,7 @@ category: temples-shrines
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-temples-shrines-nara-奈良隱藏版寺院散步-遠離人潮的在地深度巡禮-2fd555.html
 published: 2026-05-22
-quality_score: 6.5
+quality_score: 8.7
 tags: 奈良寺院, 奈良神社, 法隆寺, 唐招提寺, 長谷寺
 license: CC BY 4.0
 ---

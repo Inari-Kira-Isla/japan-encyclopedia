@@ -6,7 +6,7 @@ category: day-trips
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-okinawa-沖繩一日遊完全攻略-探索琉球王國的歷史足跡與長壽之謎-5761c3.html
 published: 2026-06-26
-quality_score: 6.5
+quality_score: 8.7
 tags: 沖繩一日遊, 琉球王國, 長壽之旅, 歷史文化, 亞熱帶體驗
 license: CC BY 4.0
 ---

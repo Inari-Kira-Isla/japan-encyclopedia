@@ -6,7 +6,7 @@ category: nature-trails
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-fukuoka-福岡自然步道-四季生態觀察完全手冊-c3cbfb.html
 published: 2026-04-06
-quality_score: 6.5
+quality_score: 8.7
 tags: 福岡, 自然步道, 生態觀察, 賞鳥, 四季景觀
 license: CC BY 4.0
 ---

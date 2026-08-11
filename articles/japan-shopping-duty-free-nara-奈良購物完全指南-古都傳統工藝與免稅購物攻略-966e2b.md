@@ -6,7 +6,7 @@ category: duty-free
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-duty-free-nara-奈良購物完全指南-古都傳統工藝與免稅購物攻略-966e2b.html
 published: 2026-06-06
-quality_score: 7.5
+quality_score: 8.5
 tags: 奈良購物, 奈良免稅, 奈良伴手禮, 日本傳統工藝, 奈良自由行
 license: CC BY 4.0
 ---

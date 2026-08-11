@@ -6,7 +6,7 @@ category: metro-systems
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-hiroshima-廣島路面電車系統完全指南-戰後重生的高速鐵與慢活街隅-d1ff3b.html
 published: 2026-06-04
-quality_score: 7.5
+quality_score: 8.7
 tags: 廣島路面電車, 日本鐵路, 廣島交通, 戰後都市, 軌道交通
 license: CC BY 4.0
 ---

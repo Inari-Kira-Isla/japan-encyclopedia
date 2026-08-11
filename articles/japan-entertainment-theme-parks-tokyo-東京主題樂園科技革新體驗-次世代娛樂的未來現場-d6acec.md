@@ -6,7 +6,7 @@ category: theme-parks
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-theme-parks-tokyo-東京主題樂園科技革新體驗-次世代娛樂的未來現場-d6acec.html
 published: 2026-04-04
-quality_score: 6.5
+quality_score: 8.9
 tags: 東京主題樂園, 科技娛樂, VR體驗, 數位藝術, 夜間娛樂
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: minshuku
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-tokyo-東京民宿-在下町巷弄間體驗江戶庶民風情-811011.html
 published: 2026-06-02
-quality_score: 6.5
+quality_score: 8.6
 tags: 东京民宿, minshuku, 下町住宿, 东京自由行, 庶民体验
 license: CC BY 4.0
 ---

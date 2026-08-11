@@ -6,7 +6,7 @@ category: garden-parks
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-hiroshima-廣島綠意日常-從市民視角探索花園與公園的療癒魅力-931130.html
 published: 2026-07-05
-quality_score: 6.5
+quality_score: 8.5
 tags: 廣島花園, 廣島公園, 日本庭園, 和平紀念, 宮島旅遊
 license: CC BY 4.0
 ---

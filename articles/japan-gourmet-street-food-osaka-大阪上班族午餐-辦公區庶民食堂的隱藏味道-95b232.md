@@ -6,7 +6,7 @@ category: street-food
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-street-food-osaka-大阪上班族午餐-辦公區庶民食堂的隱藏味道-95b232.html
 published: 2026-06-02
-quality_score: 6.5
+quality_score: 8.8
 tags: 大阪美食, 庶民美食, 上班族午餐, 关西出差, local美食
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: nightlife
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-kobe-神戶夜遊提案-港都的夜色美食地圖-018474.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 神戶夜生活, 港都夜景, 神戶美食, 異人館, Harborland
 license: CC BY 4.0
 ---

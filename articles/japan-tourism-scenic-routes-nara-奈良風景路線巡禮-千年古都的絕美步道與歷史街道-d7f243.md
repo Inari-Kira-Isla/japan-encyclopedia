@@ -6,7 +6,7 @@ category: scenic-routes
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-nara-奈良風景路線巡禮-千年古都的絕美步道與歷史街道-d7f243.html
 published: 2026-03-14
-quality_score: 6.5
+quality_score: 8.7
 tags: 奈良, 風景路線, 散步道, 歷史街道, 自然步道
 license: CC BY 4.0
 ---

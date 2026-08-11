@@ -6,7 +6,7 @@ category: street-food
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-street-food-fukuoka-福岡街頭美食-跟著時間走的九州味覺散步-01f72a.html
 published: 2026-05-21
-quality_score: 6.5
+quality_score: 8.5
 tags: 福冈街头美食, 屋台文化, 时间美食地图, 明太子, 豚骨拉麵
 license: CC BY 4.0
 ---

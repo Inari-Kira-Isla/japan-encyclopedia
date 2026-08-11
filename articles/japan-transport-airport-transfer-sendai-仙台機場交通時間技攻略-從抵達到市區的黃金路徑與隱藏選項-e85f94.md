@@ -6,7 +6,7 @@ category: airport-transfer
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-airport-transfer-sendai-仙台機場交通時間技攻略-從抵達到市區的黃金路徑與隱藏選項-e85f94.html
 published: 2026-06-25
-quality_score: 7.5
+quality_score: 8.6
 tags: 仙台機場交通, 東北自助, 機場接駁, 仙台自由行, 日本自助
 license: CC BY 4.0
 ---

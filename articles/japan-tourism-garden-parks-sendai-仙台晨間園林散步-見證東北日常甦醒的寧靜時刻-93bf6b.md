@@ -6,7 +6,7 @@ category: garden-parks
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-sendai-仙台晨間園林散步-見證東北日常甦醒的寧靜時刻-93bf6b.html
 published: 2026-06-14
-quality_score: 6.5
+quality_score: 8.7
 tags: 仙台庭園, 晨間散步, 東北旅遊, 自然療癒, 在地體驗
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: yakitori
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-yakitori-osaka-大阪燒鳥-港澳臺食客的在地體驗指南-56b1b3.html
 published: 2026-04-06
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪美食, 燒鳥, 關西料理, 港澳台旅遊, 職人文化
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: temples-shrines
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-temples-shrines-kyoto-京都寺院神社的四季限定體驗-跟著在地人參與古都的神聖時刻-27037c.html
 published: 2026-06-04
-quality_score: 6.5
+quality_score: 8.5
 tags: 京都, 寺院, 神社, 賞櫻, 賞楓
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: sake-brewery
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sake-brewery-kanazawa-金澤清酒深度體驗-從限定酒到酒藏見學的完全指南-ccd672.html
 published: 2026-07-02
-quality_score: 6.5
+quality_score: 8.5
 tags: 金澤清酒, 石川縣地酒, 酒藏見學, 日本釀酒, 金澤美食
 license: CC BY 4.0
 ---

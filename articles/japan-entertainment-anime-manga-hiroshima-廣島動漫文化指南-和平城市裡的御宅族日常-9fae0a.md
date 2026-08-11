@@ -6,7 +6,7 @@ category: anime-manga
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-hiroshima-廣島動漫文化指南-和平城市裡的御宅族日常-9fae0a.html
 published: 2026-05-31
-quality_score: 6.5
+quality_score: 8.7
 tags: 廣島動漫, 廣島御宅族, 日本動漫文化, 廣島旅遊, 角色咖啡廳
 license: CC BY 4.0
 ---

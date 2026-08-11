@@ -6,7 +6,7 @@ category: buses
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-buses-hiroshima-廣島高速巴士完全指南-串聯瀨戶內海的陸上交通樞紐-210de9.html
 published: 2026-06-21
-quality_score: 7.5
+quality_score: 8.6
 tags: 廣島交通, 高速巴士, 日本巴士, 瀨戶內海交通, 廣島機場
 license: CC BY 4.0
 ---

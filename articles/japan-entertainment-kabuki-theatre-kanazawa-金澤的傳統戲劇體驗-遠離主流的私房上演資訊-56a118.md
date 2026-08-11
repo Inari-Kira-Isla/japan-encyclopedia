@@ -6,7 +6,7 @@ category: kabuki-theatre
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-kabuki-theatre-kanazawa-金澤的傳統戲劇體驗-遠離主流的私房上演資訊-56a118.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 8.8
 tags: 金澤, 傳統表演, Kabuki, 能剧, 日本娛樂
 license: CC BY 4.0
 ---

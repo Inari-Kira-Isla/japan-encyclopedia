@@ -6,7 +6,7 @@ category: wagyu
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-wagyu-tokyo-東京上班族的和牛午餐日常-商務區-本日和牛-食堂5選-d5858f.html
 published: 2026-07-03
-quality_score: 6.5
+quality_score: 8.8
 tags: 東京美食, 和牛午餐, 本日和牛, 東京上班族, 日本橋
 license: CC BY 4.0
 ---

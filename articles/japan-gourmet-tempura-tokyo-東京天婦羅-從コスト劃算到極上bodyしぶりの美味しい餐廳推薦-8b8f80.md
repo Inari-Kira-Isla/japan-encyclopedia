@@ -6,7 +6,7 @@ category: tempura
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tempura-tokyo-東京天婦羅-從コスト劃算到極上bodyしぶりの美味しい餐廳推薦-8b8f80.html
 published: 2026-05-23
-quality_score: 6.5
+quality_score: 8.5
 tags: 東京天婦羅, 東京美食, 天婦羅推薦, 水道橋, 人形町
 license: CC BY 4.0
 ---

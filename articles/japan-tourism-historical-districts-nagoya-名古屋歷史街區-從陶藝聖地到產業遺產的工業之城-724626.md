@@ -6,7 +6,7 @@ category: historical-districts
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-nagoya-名古屋歷史街區-從陶藝聖地到產業遺產的工業之城-724626.html
 published: 2026-06-23
-quality_score: 6.5
+quality_score: 8.7
 tags: 名古屋, 歷史街區, 產業遺產, 陶瓷, 日本中部
 license: CC BY 4.0
 ---

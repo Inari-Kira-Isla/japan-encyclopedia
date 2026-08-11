@@ -6,7 +6,7 @@ category: fashion-harajuku
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-fashion-harajuku-fukuoka-東京原宿時尚購物完全指南-01fcbb.html
 published: 2026-05-23
-quality_score: 7.5
+quality_score: 9.0
 tags: 
 license: CC BY 4.0
 ---

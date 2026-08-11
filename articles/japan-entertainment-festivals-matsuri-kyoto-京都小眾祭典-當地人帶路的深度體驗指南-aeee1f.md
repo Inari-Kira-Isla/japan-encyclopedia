@@ -6,7 +6,7 @@ category: festivals-matsuri
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-festivals-matsuri-kyoto-京都小眾祭典-當地人帶路的深度體驗指南-aeee1f.html
 published: 2026-06-12
-quality_score: 6.5
+quality_score: 8.4
 tags: 京都祭典, 小眾祭典, 五山送火, 蹴鞠, 梅花祭
 license: CC BY 4.0
 ---

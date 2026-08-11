@@ -6,7 +6,7 @@ category: fashion-harajuku
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-fashion-harajuku-tokyo-東京原宿時尚購物指南-探索日本街頭潮流的發源地-955863-1782592061.html
 published: 2026-06-27
-quality_score: 7.5
+quality_score: 8.7
 tags: 原宿購物, 東京時尚, 日本街頭文化, 古著二手衣, 東京自由行
 license: CC BY 4.0
 ---

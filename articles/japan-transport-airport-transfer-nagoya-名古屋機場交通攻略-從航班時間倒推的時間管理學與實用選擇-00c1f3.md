@@ -6,7 +6,7 @@ category: airport-transfer
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-airport-transfer-nagoya-名古屋機場交通攻略-從航班時間倒推的時間管理學與實用選擇-00c1f3.html
 published: 2026-06-29
-quality_score: 7.5
+quality_score: 8.8
 tags: 名古屋機場交通, 中部國際空港, 機場接送, 名鐵μ-SKY, 名古屋租車
 license: CC BY 4.0
 ---

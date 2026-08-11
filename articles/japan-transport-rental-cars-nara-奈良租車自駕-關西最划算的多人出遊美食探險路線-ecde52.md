@@ -6,7 +6,7 @@ category: rental-cars
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-nara-奈良租車自駕-關西最划算的多人出遊美食探險路線-ecde52.html
 published: 2026-03-23
-quality_score: 7.5
+quality_score: 8.5
 tags: 奈良租車, 自駕遊, 美食探險, 親子出遊, 淡季旅遊
 license: CC BY 4.0
 ---

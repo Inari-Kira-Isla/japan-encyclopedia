@@ -6,7 +6,7 @@ category: garden-parks
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-sendai-仙台四季庭園錄-鏡頭下的綠意詩篇-99df4b.html
 published: 2026-06-06
-quality_score: 6.5
+quality_score: 8.8
 tags: 仙台, 花園, 公園, 攝影, 四季
 license: CC BY 4.0
 ---

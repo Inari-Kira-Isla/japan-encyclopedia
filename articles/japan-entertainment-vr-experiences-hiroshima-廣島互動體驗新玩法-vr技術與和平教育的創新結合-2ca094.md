@@ -6,7 +6,7 @@ category: vr-experiences
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-vr-experiences-hiroshima-廣島互動體驗新玩法-vr技術與和平教育的創新結合-2ca094.html
 published: 2026-05-22
-quality_score: 6.5
+quality_score: 8.9
 tags: 廣島VR, 廣島體驗, 廣島和平教育, 宮島VR, 日本VR體驗
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: kaiseki
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-kaiseki-hiroshima-廣島會席-海與和平的記憶餐桌-b3622a.html
 published: 2026-06-20
-quality_score: 6.5
+quality_score: 8.7
 tags: 廣島會席, 瀨戶內海美食, 廣島牡蠣, 日本料理, 廣島旅遊
 license: CC BY 4.0
 ---

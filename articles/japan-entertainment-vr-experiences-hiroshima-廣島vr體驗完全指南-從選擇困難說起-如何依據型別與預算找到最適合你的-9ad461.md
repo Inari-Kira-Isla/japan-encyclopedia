@@ -6,7 +6,7 @@ category: vr-experiences
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-vr-experiences-hiroshima-廣島vr體驗完全指南-從選擇困難說起-如何依據型別與預算找到最適合你的-9ad461.html
 published: 2026-06-13
-quality_score: 6.5
+quality_score: 8.9
 tags: 廣島VR體驗, 廣島娛樂, 廣島自由行, 日本VR體驗, 廣島旅遊
 license: CC BY 4.0
 ---

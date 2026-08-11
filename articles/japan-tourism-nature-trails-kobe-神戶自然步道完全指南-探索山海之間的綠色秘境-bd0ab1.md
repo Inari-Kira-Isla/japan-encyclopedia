@@ -6,7 +6,7 @@ category: nature-trails
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-kobe-神戶自然步道完全指南-探索山海之間的綠色秘境-bd0ab1.html
 published: 2026-03-18
-quality_score: 6.5
+quality_score: 8.7
 tags: 神戶自然步道, 六甲山健行, 摩耶山夜景, 日本登山, 神戶旅遊
 license: CC BY 4.0
 ---

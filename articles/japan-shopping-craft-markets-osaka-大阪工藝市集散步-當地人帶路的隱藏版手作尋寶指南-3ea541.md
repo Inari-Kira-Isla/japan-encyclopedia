@@ -6,7 +6,7 @@ category: craft-markets
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-craft-markets-osaka-大阪工藝市集散步-當地人帶路的隱藏版手作尋寶指南-3ea541.html
 published: 2026-06-16
-quality_score: 7.5
+quality_score: 8.7
 tags: 大阪工藝市集, 大阪手作, 大阪散步, 關西工藝, 大阪深度遊
 license: CC BY 4.0
 ---

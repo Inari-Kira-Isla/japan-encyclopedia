@@ -6,7 +6,7 @@ category: garden-parks
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-kanazawa-金澤花園食遊-舌尖上的庭園風物詩-631f8f.html
 published: 2026-06-17
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤花園, 金澤美食, 加賀百萬石, 兼六園, 金澤抹茶
 license: CC BY 4.0
 ---

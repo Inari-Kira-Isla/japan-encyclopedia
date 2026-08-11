@@ -6,7 +6,7 @@ category: rental-cars
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-nara-奈良租車自駕遊-關西深度漫遊的交通樞紐攻略-4bfd6e.html
 published: 2026-06-09
-quality_score: 7.5
+quality_score: 8.7
 tags: 奈良租車, 關西自駕, 日本租車攻略, 奈良自由行, 吉野山自駕
 license: CC BY 4.0
 ---

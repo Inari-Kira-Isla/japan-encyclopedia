@@ -6,7 +6,7 @@ category: gaming-arcades
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-gaming-arcades-kyoto-京都遊戲中心-古都裡的隱藏遊戲場-d9d712.html
 published: 2026-05-22
-quality_score: 6.5
+quality_score: 8.4
 tags: 京都, 遊戲中心, 京阪奈, 街機, 關西娛樂
 license: CC BY 4.0
 ---

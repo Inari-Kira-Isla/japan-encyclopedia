@@ -6,7 +6,7 @@ category: historical-districts
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-tokyo-東京歷史街區-職人巷弄的時光散步指南-9c3406.html
 published: 2026-06-30
-quality_score: 6.5
+quality_score: 8.8
 tags: 東京歷史街區, 下町散步, 職人文化, 江戶切子, 文字燒
 license: CC BY 4.0
 ---

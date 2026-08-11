@@ -6,7 +6,7 @@ category: yakitori
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-yakitori-hokkaido-北海道燒鳥-海味串燒的北國風情-c8f9f5.html
 published: 2026-06-03
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道燒鳥, 海味串燒, 札榥美食, 小樽美食, 函館美食
 license: CC BY 4.0
 ---

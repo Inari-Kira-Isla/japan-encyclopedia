@@ -6,7 +6,7 @@ category: temples-shrines
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-temples-shrines-fukuoka-福岡神社寺院-港口城市的商業繁榮祈願-6f8d8f.html
 published: 2026-06-14
-quality_score: 6.5
+quality_score: 8.7
 tags: 福岡, 神社, 寺院, 九州, 宗教旅行
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: souvenir-omiyage
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-souvenir-omiyage-okinawa-沖繩主題伴手禮深度攻略-沖繩限定設計商品的採購哲學-3067e6.html
 published: 2026-06-23
-quality_score: 7.5
+quality_score: 8.5
 tags: 沖繩伴手禮, 琉球工藝, 限定商品, 沖繩購物, 壺屋燒
 license: CC BY 4.0
 ---

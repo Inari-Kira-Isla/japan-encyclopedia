@@ -6,7 +6,7 @@ category: jr-pass
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-jr-pass-sendai-仙台jr-pass精打細算攻略-3日券回本策略與隱藏省錢路線-6ed511.html
 published: 2026-04-04
-quality_score: 7.5
+quality_score: 8.5
 tags: 仙台交通, JR Pass, 東北旅遊, 成本分析, 交通攻略
 license: CC BY 4.0
 ---

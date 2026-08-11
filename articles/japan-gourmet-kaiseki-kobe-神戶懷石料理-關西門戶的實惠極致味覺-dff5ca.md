@@ -6,7 +6,7 @@ category: kaiseki
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-kaiseki-kobe-神戶懷石料理-關西門戶的實惠極致味覺-dff5ca.html
 published: 2026-06-13
-quality_score: 6.5
+quality_score: 8.9
 tags: 神戶懷石料理, 神戶美食, 關西料理, Kaiseki, 神戶旅遊
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: theme-parks
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-theme-parks-nara-奈良數位文化樂園-古都與科技交融的沉浸式娛樂新體驗-3a3b6a.html
 published: 2026-03-29
-quality_score: 6.5
+quality_score: 8.9
 tags: 數位娛樂, 文化科技, AR/VR體驗, 夜間娛樂, 互動主題樂園
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: electronics
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-electronics-nagoya-名古屋專業電子器材指南-音響-相機與達人級選物店推薦-130325.html
 published: 2026-06-10
-quality_score: 7.5
+quality_score: 8.5
 tags: 名古屋電子產品, 專業音響店, 相機專賣店, 日本中部購物, 名古屋專業電子器材
 license: CC BY 4.0
 ---

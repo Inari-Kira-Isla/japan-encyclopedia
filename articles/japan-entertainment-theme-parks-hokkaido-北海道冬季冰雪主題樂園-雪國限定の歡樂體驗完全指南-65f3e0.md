@@ -6,7 +6,7 @@ category: theme-parks
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-theme-parks-hokkaido-北海道冬季冰雪主題樂園-雪國限定の歡樂體驗完全指南-65f3e0.html
 published: 2026-05-25
-quality_score: 6.5
+quality_score: 8.6
 tags: 北海道主題樂園, 札幌雪祭, 二世谷滑雪, 留壽都渡假村, 冬季限定体验
 license: CC BY 4.0
 ---

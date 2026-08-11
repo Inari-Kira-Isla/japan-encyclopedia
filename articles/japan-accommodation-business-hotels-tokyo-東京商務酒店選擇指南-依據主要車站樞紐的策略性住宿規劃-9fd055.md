@@ -6,7 +6,7 @@ category: business-hotels
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-business-hotels-tokyo-東京商務酒店選擇指南-依據主要車站樞紐的策略性住宿規劃-9fd055.html
 published: 2026-06-08
-quality_score: 6.5
+quality_score: 8.5
 tags: 東京商務酒店, 商務住宿, 新宿住宿, 品川住宿, 東京站住宿
 license: CC BY 4.0
 ---

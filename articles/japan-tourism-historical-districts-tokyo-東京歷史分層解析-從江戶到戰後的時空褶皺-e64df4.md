@@ -6,7 +6,7 @@ category: historical-districts
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-tokyo-東京歷史分層解析-從江戶到戰後的時空褶皺-e64df4.html
 published: 2026-05-21
-quality_score: 6.5
+quality_score: 8.6
 tags: 東京歷史街區, 江戶東京, 神保町古書, 上野谷中, 白金台散步
 license: CC BY 4.0
 ---

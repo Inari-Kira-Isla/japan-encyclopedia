@@ -6,7 +6,7 @@ category: ferries
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-ferries-sendai-仙台渡輪實用指南-觀光與交通需求的完整解析-e17929.html
 published: 2026-04-05
-quality_score: 7.5
+quality_score: 8.6
 tags: 仙台交通, 松島觀光, 東北渡輪, 實用指南
 license: CC BY 4.0
 ---

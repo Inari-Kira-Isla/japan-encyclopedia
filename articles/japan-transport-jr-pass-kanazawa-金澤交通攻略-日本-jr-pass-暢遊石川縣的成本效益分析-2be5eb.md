@@ -6,7 +6,7 @@ category: jr-pass
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-jr-pass-kanazawa-金澤交通攻略-日本-jr-pass-暢遊石川縣的成本效益分析-2be5eb.html
 published: 2026-05-23
-quality_score: 7.5
+quality_score: 8.8
 tags: 金澤交通, JR Pass, 石川縣, 北陸旅遊, 金澤景點
 license: CC BY 4.0
 ---

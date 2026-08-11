@@ -6,7 +6,7 @@ category: electronics
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-electronics-hiroshima-廣島電子產品購物指南-在地生活者的隱藏版挖寶地-77693a.html
 published: 2026-06-27
-quality_score: 7.5
+quality_score: 8.9
 tags: 廣島電子產品, 廣島購物, 廣島電器行, 日本電子產品, 中國地方電子產品
 license: CC BY 4.0
 ---

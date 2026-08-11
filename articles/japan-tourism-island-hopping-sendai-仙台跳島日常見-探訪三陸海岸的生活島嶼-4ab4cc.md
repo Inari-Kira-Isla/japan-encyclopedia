@@ -6,7 +6,7 @@ category: island-hopping
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-island-hopping-sendai-仙台跳島日常見-探訪三陸海岸的生活島嶼-4ab4cc.html
 published: 2026-05-23
-quality_score: 6.5
+quality_score: 8.7
 tags: 仙台跳島, 三陸海岸, 浦戶群島, 日本自助旅行, 非主流景點
 license: CC BY 4.0
 ---

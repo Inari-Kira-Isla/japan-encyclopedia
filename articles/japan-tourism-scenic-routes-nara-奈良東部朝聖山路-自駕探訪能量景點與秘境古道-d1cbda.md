@@ -6,7 +6,7 @@ category: scenic-routes
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-nara-奈良東部朝聖山路-自駕探訪能量景點與秘境古道-d1cbda.html
 published: 2026-06-28
-quality_score: 6.5
+quality_score: 8.6
 tags: 奈良朝聖山路, 奈良自駕, 吉野山, 日本山岳信仰, 修驗道
 license: CC BY 4.0
 ---

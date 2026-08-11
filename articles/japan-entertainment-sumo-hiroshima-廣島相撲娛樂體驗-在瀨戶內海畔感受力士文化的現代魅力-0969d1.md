@@ -6,7 +6,7 @@ category: sumo
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-hiroshima-廣島相撲娛樂體驗-在瀨戶內海畔感受力士文化的現代魅力-0969d1.html
 published: 2026-03-27
-quality_score: 6.5
+quality_score: 8.6
 tags: 廣島, 相撲, 娛樂體驗, 日本文化, 主題餐廳
 license: CC BY 4.0
 ---

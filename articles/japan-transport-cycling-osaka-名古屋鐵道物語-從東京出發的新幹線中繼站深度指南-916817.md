@@ -6,7 +6,7 @@ category: cycling
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-osaka-名古屋鐵道物語-從東京出發的新幹線中繼站深度指南-916817.html
 published: 2026-07-02
-quality_score: 7.5
+quality_score: 8.6
 tags: 名古屋, 新幹綫, 中部地方, 鐵道旅遊, 東京到名古屋
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: capsule-hotels
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-capsule-hotels-hokkaido-北海道膠囊旅館完全指南-雪國之旅的溫暖驛站-1a0b2f.html
 published: 2026-06-08
-quality_score: 6.5
+quality_score: 8.6
 tags: 北海道膠囊旅館, 札幌住宿, 小樽住宿, 二世古滑雪, 登別溫泉
 license: CC BY 4.0
 ---

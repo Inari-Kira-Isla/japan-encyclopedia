@@ -6,7 +6,7 @@ category: historical-districts
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-hokkaido-北海道歷史街區-產業發展塑造的時空切片-853807.html
 published: 2026-07-06
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道, 歷史街區, 小樽, 函館, 產業發展
 license: CC BY 4.0
 ---

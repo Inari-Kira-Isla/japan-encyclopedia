@@ -6,7 +6,7 @@ category: matcha-sweets
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-matcha-sweets-sendai-仙台抹茶甜點-漫步杜之都的綠茶風味地圖-59bc75.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 8.6
 tags: 仙台抹茶, 仙台甜點, 仙台美食, 抹茶刨冰, 東北伴手禮
 license: CC BY 4.0
 ---

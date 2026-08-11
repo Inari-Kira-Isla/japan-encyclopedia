@@ -6,7 +6,7 @@ category: onsen
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-onsen-fukuoka-福岡周邊溫泉勝地-從都市門戶出發的一日溫泉旅行-ee49f4.html
 published: 2026-05-22
-quality_score: 6.5
+quality_score: 8.7
 tags: 福岡溫泉, 九州溫泉, 一日溫泉旅行, 杖立溫泉, 雲仙溫泉
 license: CC BY 4.0
 ---

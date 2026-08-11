@@ -6,7 +6,7 @@ category: vintage-thrift
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-vintage-thrift-fukuoka-福岡古著潛攻略-太宰府天滿宮周邊的復古時光隧道-a2f703.html
 published: 2026-07-03
-quality_score: 7.5
+quality_score: 8.9
 tags: 福岡古著, 太宰府購物, 九州自由行, 復古時尚, 日本古著攻略
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: sumo
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-hokkaido-北海道相撲-雪國觀賽指南與在地體驗-9efc65.html
 published: 2026-06-25
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道相撲, 雪國體育, 觀賽指南, 力士文化, 日本運動旅遊
 license: CC BY 4.0
 ---

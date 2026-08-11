@@ -6,7 +6,7 @@ category: boutique-hotels
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-sendai-仙台質感住宿選輯-森林城市裡的設計棲居-7f1aca.html
 published: 2026-06-23
-quality_score: 6.5
+quality_score: 8.6
 tags: 仙台住宿, 精品酒店, 設計住宿, 東北旅遊, 杜之都
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: castle-towns
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-castle-towns-nara-奈良的工藝小鎮-寺社町深處的手作風景-47a3fb.html
 published: 2026-06-10
-quality_score: 6.5
+quality_score: 8.7
 tags: 奈良, 寺社町, 漆器, 藍染, 傳統工藝
 license: CC BY 4.0
 ---

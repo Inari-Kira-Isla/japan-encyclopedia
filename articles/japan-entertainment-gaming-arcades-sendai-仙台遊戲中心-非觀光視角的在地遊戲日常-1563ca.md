@@ -6,7 +6,7 @@ category: gaming-arcades
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-gaming-arcades-sendai-仙台遊戲中心-非觀光視角的在地遊戲日常-1563ca.html
 published: 2026-05-22
-quality_score: 6.5
+quality_score: 8.8
 tags: 仙台游戏中心, 仙台娱乐, 东北游戏中心, 日本街机, 仙台旅游
 license: CC BY 4.0
 ---

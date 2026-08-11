@@ -6,7 +6,7 @@ category: garden-parks
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-sendai-仙台花園巡禮-藝術與自然的創意對話-542fb2.html
 published: 2026-03-25
-quality_score: 6.5
+quality_score: 8.8
 tags: 仙台, 花園, 公園, 藝術, 自然
 license: CC BY 4.0
 ---

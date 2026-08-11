@@ -6,7 +6,7 @@ category: gaming-arcades
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-gaming-arcades-kyoto-京都遊戲中心-大學城的青春街機文化-09058c.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 京都遊戲中心, 大學城娛樂, 學生文化, 街機遊戲, 青春回憶
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: temples-shrines
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-temples-shrines-osaka-大阪寺廟神社巡禮-商業城市的神聖另一面-95fc99.html
 published: 2026-06-02
-quality_score: 6.5
+quality_score: 8.8
 tags: 大阪寺廟, 大阪神社, 四天王寺, 住吉大社, 大阪天滿宮
 license: CC BY 4.0
 ---

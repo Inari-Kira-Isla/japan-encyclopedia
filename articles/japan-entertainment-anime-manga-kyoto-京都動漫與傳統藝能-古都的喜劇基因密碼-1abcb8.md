@@ -6,7 +6,7 @@ category: anime-manga
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-kyoto-京都動漫與傳統藝能-古都的喜劇基因密碼-1abcb8.html
 published: 2026-06-30
-quality_score: 6.5
+quality_score: 8.6
 tags: 京都動漫, 京都漫才, 京都落語, 聖地巡禮, 動漫咖啡廳
 license: CC BY 4.0
 ---

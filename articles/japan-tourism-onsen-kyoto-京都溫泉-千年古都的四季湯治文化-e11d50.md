@@ -6,7 +6,7 @@ category: onsen
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-onsen-kyoto-京都溫泉-千年古都的四季湯治文化-e11d50.html
 published: 2026-04-06
-quality_score: 6.5
+quality_score: 8.8
 tags: 京都溫泉, 錢湯文化, 天然溫泉, 日本旅遊, 溫泉禮儀
 license: CC BY 4.0
 ---

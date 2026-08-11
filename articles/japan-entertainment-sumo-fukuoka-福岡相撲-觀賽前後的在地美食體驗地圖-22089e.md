@@ -6,7 +6,7 @@ category: sumo
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-fukuoka-福岡相撲-觀賽前後的在地美食體驗地圖-22089e.html
 published: 2026-06-23
-quality_score: 6.5
+quality_score: 8.8
 tags: 福岡相撲, 九州場所, 博多万菜, 相撲火鍋, 內臟燒烤
 license: CC BY 4.0
 ---

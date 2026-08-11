@@ -6,7 +6,7 @@ category: theme-parks
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-theme-parks-nagoya-名古屋娛樂設施指南-體驗中部地區的都市樂趣-0b2755.html
 published: 2026-03-27
-quality_score: 6.5
+quality_score: 8.9
 tags: 名古屋娛樂, 科學館, 水族館, 遊戲中心, 都市體驗
 license: CC BY 4.0
 ---

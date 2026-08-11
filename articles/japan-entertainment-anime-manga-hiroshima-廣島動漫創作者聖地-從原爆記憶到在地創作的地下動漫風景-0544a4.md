@@ -6,7 +6,7 @@ category: anime-manga
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-hiroshima-廣島動漫創作者聖地-從原爆記憶到在地創作的地下動漫風景-0544a4.html
 published: 2026-06-21
-quality_score: 6.5
+quality_score: 8.7
 tags: 廣島動漫, 廣島漫畫, 在地創作, 御宅文化, 日本動漫
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: okonomiyaki
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-okonomiyaki-nagoya-名古屋御好燒-關西廣島之外的第三種美味-b33398.html
 published: 2026-06-13
-quality_score: 6.5
+quality_score: 8.7
 tags: 名古屋美食, 御好燒, 中部地方, 日本料理, 名古屋
 license: CC BY 4.0
 ---

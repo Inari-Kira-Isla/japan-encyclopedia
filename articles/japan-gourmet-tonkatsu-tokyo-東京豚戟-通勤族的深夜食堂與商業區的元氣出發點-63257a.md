@@ -6,7 +6,7 @@ category: tonkatsu
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tonkatsu-tokyo-東京豚戟-通勤族的深夜食堂與商業區的元氣出發點-63257a.html
 published: 2026-07-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京美食, 豚戟, 東京洋食, 商業區午餐, 日本料理
 license: CC BY 4.0
 ---

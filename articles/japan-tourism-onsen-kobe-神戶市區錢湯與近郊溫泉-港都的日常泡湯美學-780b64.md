@@ -6,7 +6,7 @@ category: onsen
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-onsen-kobe-神戶市區錢湯與近郊溫泉-港都的日常泡湯美學-780b64.html
 published: 2026-06-21
-quality_score: 6.5
+quality_score: 8.7
 tags: 神戶溫泉, 有馬溫泉, 關西溫泉, 錢湯, 六甲山溫泉
 license: CC BY 4.0
 ---

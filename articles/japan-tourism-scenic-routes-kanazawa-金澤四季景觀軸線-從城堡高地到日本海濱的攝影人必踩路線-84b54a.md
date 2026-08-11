@@ -6,7 +6,7 @@ category: scenic-routes
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-kanazawa-金澤四季景觀軸線-從城堡高地到日本海濱的攝影人必踩路線-84b54a.html
 published: 2026-03-22
-quality_score: 6.5
+quality_score: 8.5
 tags: 金澤, 風景路線, 四季之美, 攝影景點, 河畔步道
 license: CC BY 4.0
 ---

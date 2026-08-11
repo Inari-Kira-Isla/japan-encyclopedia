@@ -6,7 +6,7 @@ category: souvenir-omiyage
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-souvenir-omiyage-tokyo-東京車站伴手禮採購指南-分站特色與快速選購攻略-98c31e.html
 published: 2026-06-24
-quality_score: 7.5
+quality_score: 8.6
 tags: 東京伴手禮, 東京車站, 日本購物, 東京限定, 快速採購
 license: CC BY 4.0
 ---

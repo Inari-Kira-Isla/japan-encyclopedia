@@ -6,7 +6,7 @@ category: souvenir-omiyage
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-souvenir-omiyage-hokkaido-北海道伴手禮季節攻略-從限定美味到全年精選的購買策略-e85b04.html
 published: 2026-03-28
-quality_score: 7.5
+quality_score: 8.7
 tags: 北海道, 伴手禮, omiyage, 季節限定, 海鮮特產
 license: CC BY 4.0
 ---

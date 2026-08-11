@@ -6,7 +6,7 @@ category: shinkansen
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-osaka-關西機場交通全攻略-如何選擇最划算的前往大阪市區方式-300437.html
 published: 2026-06-23
-quality_score: 7.5
+quality_score: 8.4
 tags: 關西機場交通, 南海電鐵, JR關西機場線, 大阪交通, 關西機場巴士
 license: CC BY 4.0
 ---

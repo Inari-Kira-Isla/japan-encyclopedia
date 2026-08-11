@@ -6,7 +6,7 @@ category: tonkatsu
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tonkatsu-osaka-大阪豚克力-港都洋食的昭和風情-09107d.html
 published: 2026-06-25
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪美食, 豚克力, 日式洋食, 昭和風情, 在地美食
 license: CC BY 4.0
 ---

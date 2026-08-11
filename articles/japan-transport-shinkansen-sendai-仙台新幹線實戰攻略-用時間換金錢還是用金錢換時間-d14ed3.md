@@ -6,7 +6,7 @@ category: shinkansen
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-sendai-仙台新幹線實戰攻略-用時間換金錢還是用金錢換時間-d14ed3.html
 published: 2026-04-06
-quality_score: 7.5
+quality_score: 8.8
 tags: 仙台新幹線, 東北交通, 成本效益, 商務旅行, JR通票
 license: CC BY 4.0
 ---

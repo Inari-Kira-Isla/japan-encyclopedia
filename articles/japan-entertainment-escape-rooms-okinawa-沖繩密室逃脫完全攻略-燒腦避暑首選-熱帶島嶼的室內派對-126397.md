@@ -6,7 +6,7 @@ category: escape-rooms
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-escape-rooms-okinawa-沖繩密室逃脫完全攻略-燒腦避暑首選-熱帶島嶼的室內派對-126397.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 8.9
 tags: 沖繩密室逃脫, 那霸室內活動, 琉球主題密室, 沖繩雨天景點, 九州娛樂體驗
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: anime-manga
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-okinawa-沖繩動漫聖地巡禮-跟著人氣作品探索南國取景地-29ca0f.html
 published: 2026-05-20
-quality_score: 6.5
+quality_score: 8.4
 tags: 沖繩動漫, 聖地巡禮, 海賊王, 動漫取景地, 九州沖繩
 license: CC BY 4.0
 ---

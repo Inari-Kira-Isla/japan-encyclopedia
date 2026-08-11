@@ -6,7 +6,7 @@ category: temple-stays
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-temple-stays-sendai-仙台寺廟住宿體驗-東北商務重鎮的禪修療癒-4dffc5.html
 published: 2026-04-04
-quality_score: 6.5
+quality_score: 8.7
 tags: 仙台, 寺廟住宿, 禪修, 東北旅遊, 商務療癒
 license: CC BY 4.0
 ---

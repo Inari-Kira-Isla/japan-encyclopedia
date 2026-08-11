@@ -6,7 +6,7 @@ category: vr-experiences
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-vr-experiences-nara-奈良深度文化體驗-虛擬實境與古都魅力的跨界融合-1379ac.html
 published: 2026-05-21
-quality_score: 6.5
+quality_score: 8.7
 tags: 奈良vr, 奈良虛擬實境, 奈良娛樂, 奈良深度旅遊, 古都科技體驗
 license: CC BY 4.0
 ---

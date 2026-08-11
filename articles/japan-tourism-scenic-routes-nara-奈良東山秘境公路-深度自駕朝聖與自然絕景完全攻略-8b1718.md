@@ -6,7 +6,7 @@ category: scenic-routes
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-nara-奈良東山秘境公路-深度自駕朝聖與自然絕景完全攻略-8b1718.html
 published: 2026-05-24
-quality_score: 6.5
+quality_score: 8.7
 tags: 奈良景點, 日本自驾路线,  pilgrims tourism, 自然风光, 朝圣之旅
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: cultural-revival
 area: japan
 url: https://japan-encyclopedia.vercel.app/articles/japan-attractions-cultural-revival-能登半島和輪島完整旅遊指南2026-輪島朝市-塗師-地震後重建-石川縣旅遊費用-jpy-攻-bd1a0c.html
 published: 2026-04-07
-quality_score: 7.1
+quality_score: 8.5
 tags: 能登半島旅遊, 輪島朝市, 輪島塗, 能登復興旅遊, 石川縣觀光
 license: CC BY 4.0
 ---

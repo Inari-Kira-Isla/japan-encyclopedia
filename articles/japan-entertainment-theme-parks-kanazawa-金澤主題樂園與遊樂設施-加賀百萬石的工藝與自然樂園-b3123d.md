@@ -6,7 +6,7 @@ category: theme-parks
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-theme-parks-kanazawa-金澤主題樂園與遊樂設施-加賀百萬石的工藝與自然樂園-b3123d.html
 published: 2026-06-15
-quality_score: 6.5
+quality_score: 8.6
 tags: 金澤主題樂園, 金澤工坊體驗, 加賀百萬石, 金箔體驗, 金澤自然步道
 license: CC BY 4.0
 ---

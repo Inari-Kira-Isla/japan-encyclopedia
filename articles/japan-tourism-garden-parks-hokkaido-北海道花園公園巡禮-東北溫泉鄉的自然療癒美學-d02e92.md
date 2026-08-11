@@ -6,7 +6,7 @@ category: garden-parks
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-hokkaido-北海道花園公園巡禮-東北溫泉鄉的自然療癒美學-d02e92.html
 published: 2026-06-02
-quality_score: 6.5
+quality_score: 8.9
 tags: 北海道, 花園公園, 自然観察, 溫泉鄉, 疗癒旅行
 license: CC BY 4.0
 ---

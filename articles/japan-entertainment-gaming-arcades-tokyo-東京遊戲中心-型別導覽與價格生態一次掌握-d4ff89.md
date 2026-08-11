@@ -6,7 +6,7 @@ category: gaming-arcades
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-gaming-arcades-tokyo-東京遊戲中心-型別導覽與價格生態一次掌握-d4ff89.html
 published: 2026-06-19
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京遊戲中心, 街機文化, 東京娛樂, 秋葉原, 新宿
 license: CC BY 4.0
 ---

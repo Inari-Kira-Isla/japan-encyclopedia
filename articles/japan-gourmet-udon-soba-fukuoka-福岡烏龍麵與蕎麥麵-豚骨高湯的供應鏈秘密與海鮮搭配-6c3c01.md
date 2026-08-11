@@ -6,7 +6,7 @@ category: udon-soba
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-udon-soba-fukuoka-福岡烏龍麵與蕎麥麵-豚骨高湯的供應鏈秘密與海鮮搭配-6c3c01.html
 published: 2026-03-23
-quality_score: 6.5
+quality_score: 8.4
 tags: 福岡美食, 烏龍麵, 蕎麥麵, 豚骨高湯, 屋台文化
 license: CC BY 4.0
 ---

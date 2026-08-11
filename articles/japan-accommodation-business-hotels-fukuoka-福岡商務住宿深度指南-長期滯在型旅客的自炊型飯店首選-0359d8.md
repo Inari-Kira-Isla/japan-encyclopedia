@@ -6,7 +6,7 @@ category: business-hotels
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-business-hotels-fukuoka-福岡商務住宿深度指南-長期滯在型旅客的自炊型飯店首選-0359d8.html
 published: 2026-06-06
-quality_score: 6.5
+quality_score: 8.4
 tags: 福岡商務住宿, 長期滯在, 自炊型飯店, 博多商務飯店, 天神商務住宿
 license: CC BY 4.0
 ---

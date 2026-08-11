@@ -6,7 +6,7 @@ category: island-hopping
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-island-hopping-nara-奈良跳島之旅-內陸古都的海岸探險據點-ebef05.html
 published: 2026-06-11
-quality_score: 6.5
+quality_score: 8.5
 tags: 奈良跳島, 紀伊半島, 和歌山, 德島溫泉, 關西海岸
 license: CC BY 4.0
 ---

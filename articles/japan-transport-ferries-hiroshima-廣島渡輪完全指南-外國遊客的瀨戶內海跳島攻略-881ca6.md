@@ -6,7 +6,7 @@ category: ferries
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-ferries-hiroshima-廣島渡輪完全指南-外國遊客的瀨戶內海跳島攻略-881ca6.html
 published: 2026-06-11
-quality_score: 7.5
+quality_score: 8.4
 tags: 廣島渡輪, 瀨戶內海, 跳島旅行, 外國遊客, 宮島
 license: CC BY 4.0
 ---

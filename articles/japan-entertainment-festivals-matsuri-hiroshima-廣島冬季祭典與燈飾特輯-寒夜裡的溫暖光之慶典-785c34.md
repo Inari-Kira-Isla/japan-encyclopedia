@@ -6,7 +6,7 @@ category: festivals-matsuri
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-festivals-matsuri-hiroshima-廣島冬季祭典與燈飾特輯-寒夜裡的溫暖光之慶典-785c34.html
 published: 2026-06-23
-quality_score: 5.5
+quality_score: 8.0
 tags: 廣島冬季祭典, 廣島燈飾, 廣島牡蠣祭, 安佐南區可部燈飾, 八丁堀夜景
 license: CC BY 4.0
 ---

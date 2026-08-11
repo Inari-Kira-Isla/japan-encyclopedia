@@ -6,7 +6,7 @@ category: ryokan
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-kyoto-京都驛站式旅宿-作為古都探訪據點的傳統旅館美學-64ef78.html
 published: 2026-06-29
-quality_score: 6.5
+quality_score: 8.6
 tags: 京都, Ryokan, 傳統旅館, 町家, 祇園
 license: CC BY 4.0
 ---

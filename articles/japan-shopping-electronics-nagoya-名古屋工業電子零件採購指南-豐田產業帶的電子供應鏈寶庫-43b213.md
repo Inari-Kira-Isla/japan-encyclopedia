@@ -6,7 +6,7 @@ category: electronics
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-electronics-nagoya-名古屋工業電子零件採購指南-豐田產業帶的電子供應鏈寶庫-43b213.html
 published: 2026-06-25
-quality_score: 7.5
+quality_score: 8.6
 tags: 名古屋電子零件, 工業電子採購, 中部國際空港, 豐田汽車電子, 車用電子設備
 license: CC BY 4.0
 ---

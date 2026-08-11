@@ -6,7 +6,7 @@ category: buses
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-buses-hokkaido-北海道巴士時間學-深入東北海道的慢速旅行攻略-57c133.html
 published: 2026-06-30
-quality_score: 7.5
+quality_score: 8.5
 tags: 北海道巴士, 東北海道交通, 公車自助旅行, 釧路巴士, 阿寒湖交通
 license: CC BY 4.0
 ---

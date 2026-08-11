@@ -6,7 +6,7 @@ category: capsule-hotels
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-capsule-hotels-okinawa-沖繩膠囊飯店的島嶼邏輯-自駕玩家的彈性住宿新選擇-8373da.html
 published: 2026-07-04
-quality_score: 6.5
+quality_score: 8.6
 tags: 沖繩住宿, 膠囊飯店, 自駕旅行, 日本自由行, Budget Travel
 license: CC BY 4.0
 ---

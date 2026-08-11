@@ -6,7 +6,7 @@ category: ski-resorts
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-ski-resorts-kyoto-京都出發滑雪攻略-關西山城的雪國交通樞紐-26684a.html
 published: 2026-07-05
-quality_score: 6.5
+quality_score: 8.8
 tags: 京都滑雪, 關西滑雪, 琵琶湖谷滑雪場, 六甲山滑雪場, 京都旅遊
 license: CC BY 4.0
 ---

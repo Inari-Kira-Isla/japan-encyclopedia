@@ -6,7 +6,7 @@ category: temples-shrines
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-temples-shrines-sendai-仙台寺廟神社-都市喧囂中的心靈避風港-6ff189.html
 published: 2026-04-06
-quality_score: 6.5
+quality_score: 8.8
 tags: 仙台, 寺廟神社, 東北旅遊, 都市信仰, 伊達政宗
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: nightlife
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-osaka-大阪夜生活-商圈機能分工的在地體驗指南-0fb1fa.html
 published: 2026-06-29
-quality_score: 6.5
+quality_score: 8.9
 tags: 大阪夜生活, 商圈機能, 在地體驗, 庶民文化, 關西夜生活
 license: CC BY 4.0
 ---

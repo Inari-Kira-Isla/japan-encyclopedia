@@ -6,7 +6,7 @@ category: cycling
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-kanazawa-金澤晨騎提案-清晨六點的城下町-獨享安靜的修復之城-86a485.html
 published: 2026-06-27
-quality_score: 7.5
+quality_score: 8.5
 tags: 金澤單車, 晨騎體驗, 城下町, 日本自行車, 金澤深度遊
 license: CC BY 4.0
 ---

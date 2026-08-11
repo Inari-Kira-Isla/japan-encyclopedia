@@ -6,7 +6,7 @@ category: theme-parks
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-theme-parks-hiroshima-廣島室內娛樂設施巡禮-非主流遊戲中心與vr體驗的隱藏版玩法-a3f072.html
 published: 2026-06-22
-quality_score: 6.5
+quality_score: 8.7
 tags: 廣島室內娛樂, 廣島遊戲中心, 廣島VR體驗, 廣島彈跳樂園, 廣島自由行
 license: CC BY 4.0
 ---

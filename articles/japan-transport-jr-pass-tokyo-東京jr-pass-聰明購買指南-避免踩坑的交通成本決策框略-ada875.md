@@ -6,7 +6,7 @@ category: jr-pass
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-jr-pass-tokyo-東京jr-pass-聰明購買指南-避免踩坑的交通成本決策框略-ada875.html
 published: 2026-03-24
-quality_score: 7.5
+quality_score: 8.7
 tags: 東京交通, JR Pass成本分析, 自助旅遊, 預算規劃, 鐵道旅遊
 license: CC BY 4.0
 ---

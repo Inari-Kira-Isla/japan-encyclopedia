@@ -6,7 +6,7 @@ category: vintage-thrift
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-vintage-thrift-kobe-神戶古著收藏投資指南-港都精品級二手時尚的鑑定與收藏策略-2ebdd1.html
 published: 2026-04-02
-quality_score: 7.5
+quality_score: 8.8
 tags: 神戶古著, 收藏投資, 品質鑑定, 復古時尚, 港都文化
 license: CC BY 4.0
 ---

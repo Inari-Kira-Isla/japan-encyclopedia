@@ -6,7 +6,7 @@ category: business-hotels
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-business-hotels-osaka-大阪商務酒店完全指南-商旅與美食兼顧的住宿選擇-5b8c71.html
 published: 2026-06-02
-quality_score: 6.5
+quality_score: 8.5
 tags: 大阪商務酒店, 商務住宿, 大阪商圈, 大阪交通, 出差住宿
 license: CC BY 4.0
 ---

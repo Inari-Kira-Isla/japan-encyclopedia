@@ -6,7 +6,7 @@ category: craft-markets
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-craft-markets-okinawa-沖繩手作市集省錢攻略-這樣買工藝品最划算-396ef7.html
 published: 2026-06-10
-quality_score: 7.5
+quality_score: 8.7
 tags: 沖繩, 工藝市集, 手作, 省錢, 購物攻略
 license: CC BY 4.0
 ---

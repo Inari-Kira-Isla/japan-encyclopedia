@@ -6,7 +6,7 @@ category: metro-systems
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-tokyo-東京地下鐵的藝術與記憶-那些值得專程造訪的設計-車站與展覽-b74e76.html
 published: 2026-05-25
-quality_score: 7.5
+quality_score: 8.8
 tags: 東京地下鐵, TokyoMetro, 東京交通, 地下鐵藝術, 東京Metro系統
 license: CC BY 4.0
 ---

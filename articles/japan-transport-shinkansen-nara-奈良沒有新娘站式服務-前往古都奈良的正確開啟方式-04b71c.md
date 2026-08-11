@@ -6,7 +6,7 @@ category: shinkansen
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-nara-奈良沒有新娘站式服務-前往古都奈良的正確開啟方式-04b71c.html
 published: 2026-06-10
-quality_score: 7.5
+quality_score: 8.6
 tags: 奈良交通, 關西旅遊, 奈良景點, JR大和路線, 近鐵奈良線
 license: CC BY 4.0
 ---

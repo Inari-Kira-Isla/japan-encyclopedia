@@ -6,7 +6,7 @@ category: karaoke
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-karaoke-kyoto-京都卡拉ok-古都夜晚的現代歌聲-c6afd9.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 京都娛樂, 日本卡拉OK, 古都夜生活, 京都文化體驗, 日本旅遊
 license: CC BY 4.0
 ---

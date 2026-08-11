@@ -6,7 +6,7 @@ category: business-hotels
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-business-hotels-osaka-大阪商務酒店-米其林美食取向的住宿選擇-52401e.html
 published: 2026-06-30
-quality_score: 6.5
+quality_score: 8.6
 tags: 大阪商務酒店, 大阪美食, 米其林, 商務出差, 關西住宿
 license: CC BY 4.0
 ---

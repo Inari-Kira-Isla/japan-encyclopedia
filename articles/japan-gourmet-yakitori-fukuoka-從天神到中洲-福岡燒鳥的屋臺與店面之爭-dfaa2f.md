@@ -6,7 +6,7 @@ category: yakitori
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-yakitori-fukuoka-從天神到中洲-福岡燒鳥的屋臺與店面之爭-dfaa2f.html
 published: 2026-05-24
-quality_score: 6.5
+quality_score: 8.6
 tags: 福岡, 燒鳥, 屋台, 天神, 中洲
 license: CC BY 4.0
 ---

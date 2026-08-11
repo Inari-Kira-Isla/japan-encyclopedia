@@ -6,7 +6,7 @@ category: anime-manga
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-fukuoka-名古屋動漫文化的日常魅力-當地御宅族的消費生活與城區特色-f2a567.html
 published: 2026-05-23
-quality_score: 6.5
+quality_score: 8.5
 tags: 名古屋動漫, 御宅文化, 日本動漫, 名古屋旅遊, 中部日本
 license: CC BY 4.0
 ---

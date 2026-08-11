@@ -6,7 +6,7 @@ category: kaiseki
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-kaiseki-kobe-神戶商務懷石-國際港都的現代料亭文化-cc7008.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 神戶美食, 商務懷石, 日式料理, 關西美食, 港口文化
 license: CC BY 4.0
 ---

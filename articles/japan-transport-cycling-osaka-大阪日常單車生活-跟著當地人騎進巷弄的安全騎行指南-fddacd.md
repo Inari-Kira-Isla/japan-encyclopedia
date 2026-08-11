@@ -6,7 +6,7 @@ category: cycling
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-osaka-大阪日常單車生活-跟著當地人騎進巷弄的安全騎行指南-fddacd.html
 published: 2026-05-25
-quality_score: 7.5
+quality_score: 8.6
 tags: 大阪單車, 大阪骑行, 关西单车, 大阪自由行, 日本单车旅游
 license: CC BY 4.0
 ---

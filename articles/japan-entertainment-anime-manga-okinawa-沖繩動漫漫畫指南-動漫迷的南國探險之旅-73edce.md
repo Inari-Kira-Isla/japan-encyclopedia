@@ -6,7 +6,7 @@ category: anime-manga
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-okinawa-沖繩動漫漫畫指南-動漫迷的南國探險之旅-73edce.html
 published: 2026-03-18
-quality_score: 6.5
+quality_score: 8.5
 tags: 沖繩, 動漫, 漫畫, 日本旅遊, 那霸
 license: CC BY 4.0
 ---

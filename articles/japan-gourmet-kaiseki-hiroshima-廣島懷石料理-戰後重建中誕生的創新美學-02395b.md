@@ -6,7 +6,7 @@ category: kaiseki
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-kaiseki-hiroshima-廣島懷石料理-戰後重建中誕生的創新美學-02395b.html
 published: 2026-04-07
-quality_score: 6.5
+quality_score: 8.8
 tags: 廣島, 懷石料理, 瀨戶內海, 日本美食, 戰後重建
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: udon-soba
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-udon-soba-nagoya-名古屋烏龍麵-味噌煮込み之外的工業城市麵食風景-855101.html
 published: 2026-06-24
-quality_score: 6.5
+quality_score: 8.6
 tags: 名古屋, 烏龍麵, 味噌煮込み,  Kishimen, 中部國際機場
 license: CC BY 4.0
 ---

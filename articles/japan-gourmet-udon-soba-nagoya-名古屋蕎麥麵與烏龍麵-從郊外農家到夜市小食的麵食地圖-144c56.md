@@ -6,7 +6,7 @@ category: udon-soba
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-udon-soba-nagoya-名古屋蕎麥麵與烏龍麵-從郊外農家到夜市小食的麵食地圖-144c56.html
 published: 2026-03-23
-quality_score: 6.5
+quality_score: 8.6
 tags: 名古屋美食, 蕎麥麵, 烏龍麵, 郊外農家美食, 夜間飲食文化
 license: CC BY 4.0
 ---

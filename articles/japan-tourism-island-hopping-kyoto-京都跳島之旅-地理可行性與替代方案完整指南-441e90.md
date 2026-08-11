@@ -6,7 +6,7 @@ category: island-hopping
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-island-hopping-kyoto-京都跳島之旅-地理可行性與替代方案完整指南-441e90.html
 published: 2026-06-20
-quality_score: 6.5
+quality_score: 8.5
 tags: 京都跳島, 京都旅遊, 瀨戶內海, 琵琶湖, 直島
 license: CC BY 4.0
 ---

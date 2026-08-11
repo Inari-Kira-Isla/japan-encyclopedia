@@ -6,7 +6,7 @@ category: duty-free
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-duty-free-nagoya-名古屋免稅購物省錢攻略-精明消費者的中部採購策略指南-b794a3.html
 published: 2026-04-02
-quality_score: 7.5
+quality_score: 8.7
 tags: 名古屋購物, 免稅攻略, 省錢技巧, 中部國際機場, 日本購物
 license: CC BY 4.0
 ---

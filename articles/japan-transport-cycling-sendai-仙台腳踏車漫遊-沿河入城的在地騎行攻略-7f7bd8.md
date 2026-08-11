@@ -6,7 +6,7 @@ category: cycling
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-sendai-仙台腳踏車漫遊-沿河入城的在地騎行攻略-7f7bd8.html
 published: 2026-06-02
-quality_score: 7.5
+quality_score: 8.8
 tags: 仙台#Japancycling #Tohokutravel #Self-guidedtour #Rivercycling #Cyclingroutes
 license: CC BY 4.0
 ---

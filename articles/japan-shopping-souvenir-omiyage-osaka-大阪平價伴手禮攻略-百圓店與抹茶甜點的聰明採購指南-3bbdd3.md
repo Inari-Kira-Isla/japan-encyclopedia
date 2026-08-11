@@ -6,7 +6,7 @@ category: souvenir-omiyage
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-souvenir-omiyage-osaka-大阪平價伴手禮攻略-百圓店與抹茶甜點的聰明採購指南-3bbdd3.html
 published: 2026-06-06
-quality_score: 7.5
+quality_score: 8.9
 tags: 大阪, 伴手禮, 平價購物, 抹茶甜點, 百圓商店
 license: CC BY 4.0
 ---

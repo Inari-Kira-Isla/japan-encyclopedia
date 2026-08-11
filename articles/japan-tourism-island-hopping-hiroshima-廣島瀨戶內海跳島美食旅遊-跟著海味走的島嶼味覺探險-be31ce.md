@@ -6,7 +6,7 @@ category: island-hopping
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-island-hopping-hiroshima-廣島瀨戶內海跳島美食旅遊-跟著海味走的島嶼味覺探險-be31ce.html
 published: 2026-06-23
-quality_score: 6.5
+quality_score: 8.7
 tags: 廣島跳島, 瀨戶內海, 宮島牡蠣, 小豆島醬油, 尾道美食
 license: CC BY 4.0
 ---

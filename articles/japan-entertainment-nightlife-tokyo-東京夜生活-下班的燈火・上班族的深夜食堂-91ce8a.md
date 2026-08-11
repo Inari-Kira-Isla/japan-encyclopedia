@@ -6,7 +6,7 @@ category: nightlife
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-tokyo-東京夜生活-下班的燈火・上班族的深夜食堂-91ce8a.html
 published: 2026-06-24
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京夜生活, 上班族文化, 站著喝, 深夜食堂, 東京交通
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: gaming-arcades
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-gaming-arcades-okinawa-沖繩遊戲中心-當島嶼度假遇上街機熱血-3ac2a3.html
 published: 2026-07-04
-quality_score: 6.5
+quality_score: 8.8
 tags: 沖繩, 遊戲中心, 街機, 親子旅遊,  Okinawa
 license: CC BY 4.0
 ---

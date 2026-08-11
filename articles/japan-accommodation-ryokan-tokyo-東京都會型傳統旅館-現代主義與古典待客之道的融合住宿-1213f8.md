@@ -6,7 +6,7 @@ category: ryokan
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-tokyo-東京都會型傳統旅館-現代主義與古典待客之道的融合住宿-1213f8.html
 published: 2026-06-03
-quality_score: 6.5
+quality_score: 8.4
 tags: 東京住宿, 都市型Ryokan, 傳統日式旅館, 東京溫泉, 一泊二食
 license: CC BY 4.0
 ---

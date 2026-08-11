@@ -6,7 +6,7 @@ category: boutique-hotels
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-kyoto-京都工藝美學住宿-藏在老店與匠人之間的精品設計酒店-0fed54.html
 published: 2026-07-01
-quality_score: 6.5
+quality_score: 8.7
 tags: 京都精品酒店, 京都住宿, 日本工藝體驗, 嵐山住宿, 京料理
 license: CC BY 4.0
 ---

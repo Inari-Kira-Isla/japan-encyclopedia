@@ -6,7 +6,7 @@ category: love-hotels
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-love-hotels-fukuoka-福岡住宿選擇-商務飯店-膠囊旅館與特色住宿全攻略-bb3b65.html
 published: 2026-06-28
-quality_score: 6.5
+quality_score: 8.8
 tags: 福岡住宿, 福岡商務飯店, 福岡膠囊旅館, 九州旅遊, 福岡自由行
 license: CC BY 4.0
 ---

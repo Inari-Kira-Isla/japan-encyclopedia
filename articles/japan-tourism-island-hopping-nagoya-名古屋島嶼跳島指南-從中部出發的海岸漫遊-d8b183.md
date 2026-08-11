@@ -6,7 +6,7 @@ category: island-hopping
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-island-hopping-nagoya-名古屋島嶼跳島指南-從中部出發的海岸漫遊-d8b183.html
 published: 2026-06-21
-quality_score: 6.5
+quality_score: 8.7
 tags: 名古屋跳島, 中部海岸, 伊勢灣, 三河灣, 紀伊半島
 license: CC BY 4.0
 ---

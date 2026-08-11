@@ -6,7 +6,7 @@ category: rental-cars
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-kanazawa-金澤租車自駕遊-放射狀路線帶你深入北陸小京都周邊隱藏版景點-96aea0.html
 published: 2026-06-13
-quality_score: 7.5
+quality_score: 8.6
 tags: 金澤租車, 北陸自駕, 能登半島, 白山黑峽谷, 冰見漁港
 license: CC BY 4.0
 ---

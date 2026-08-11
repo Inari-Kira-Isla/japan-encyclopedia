@@ -6,7 +6,7 @@ category: ski-resorts
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-ski-resorts-sendai-仙台周邊滑雪場-新手入門與家庭同樂的東北雪國提案-0ddbba.html
 published: 2026-05-21
-quality_score: 6.5
+quality_score: 8.5
 tags: 仙台滑雪, 東北滑雪場, 日本新手滑雪, 家庭滑雪, 藏王溫泉
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: anime-manga
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-okinawa-沖繩動漫文化探索-南國島嶼的御宅體驗-958c47.html
 published: 2026-06-23
-quality_score: 6.5
+quality_score: 8.7
 tags: 沖繩動漫,  Okinawa動漫商店, 沖繩漫畫咖啡, 日本動漫主題旅遊, 南國御宅文化
 license: CC BY 4.0
 ---

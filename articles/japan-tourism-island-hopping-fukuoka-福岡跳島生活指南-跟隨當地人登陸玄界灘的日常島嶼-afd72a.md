@@ -6,7 +6,7 @@ category: island-hopping
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-island-hopping-fukuoka-福岡跳島生活指南-跟隨當地人登陸玄界灘的日常島嶼-afd72a.html
 published: 2026-04-06
-quality_score: 6.5
+quality_score: 8.5
 tags: 福岡跳島, 玄界灘, 能古島, 玄界島, 宗像三神
 license: CC BY 4.0
 ---

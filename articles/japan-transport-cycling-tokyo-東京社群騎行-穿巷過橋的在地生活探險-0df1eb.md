@@ -6,7 +6,7 @@ category: cycling
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-tokyo-東京社群騎行-穿巷過橋的在地生活探險-0df1eb.html
 published: 2026-05-25
-quality_score: 7.5
+quality_score: 8.6
 tags: Tokyo Cycling, 東京單車, 社區騎行, 下町散步, 自由行
 license: CC BY 4.0
 ---

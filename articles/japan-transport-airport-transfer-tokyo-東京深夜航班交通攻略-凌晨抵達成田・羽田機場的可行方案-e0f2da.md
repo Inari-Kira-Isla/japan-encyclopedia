@@ -6,7 +6,7 @@ category: airport-transfer
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-airport-transfer-tokyo-東京深夜航班交通攻略-凌晨抵達成田・羽田機場的可行方案-e0f2da.html
 published: 2026-06-26
-quality_score: 7.5
+quality_score: 8.3
 tags: 東京機場交通, 深夜航班, 、成田機場, 河鳥機場, 東京機場接送
 license: CC BY 4.0
 ---

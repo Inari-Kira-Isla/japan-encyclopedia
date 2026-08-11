@@ -6,7 +6,7 @@ category: minshuku
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-kanazawa-金澤民宿-漫步文學之都的住宿美學-c642d3.html
 published: 2026-06-09
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤民宿, 日本住宿, 城下町體驗, 傳統町家, 溫泉旅遊
 license: CC BY 4.0
 ---

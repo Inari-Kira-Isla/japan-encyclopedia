@@ -6,7 +6,7 @@ category: escape-rooms
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-escape-rooms-okinawa-沖繩密室逃脫-融入古城靈魂的歷史解謎體驗-fa543e.html
 published: 2026-06-06
-quality_score: 6.5
+quality_score: 8.9
 tags: 沖繩密室逃脫, gusuku古城體驗, 家庭親子娛樂, 沖繩室內活動, 琉球歷史密室
 license: CC BY 4.0
 ---

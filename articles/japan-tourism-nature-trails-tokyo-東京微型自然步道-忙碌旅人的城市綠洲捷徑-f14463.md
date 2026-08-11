@@ -6,7 +6,7 @@ category: nature-trails
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-tokyo-東京微型自然步道-忙碌旅人的城市綠洲捷徑-f14463.html
 published: 2026-05-22
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京自然步道, 城市綠洲, 微型健行, 新宿區, 世田谷區
 license: CC BY 4.0
 ---

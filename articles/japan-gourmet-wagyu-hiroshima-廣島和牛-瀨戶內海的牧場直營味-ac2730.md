@@ -6,7 +6,7 @@ category: wagyu
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-wagyu-hiroshima-廣島和牛-瀨戶內海的牧場直營味-ac2730.html
 published: 2026-06-23
-quality_score: 6.5
+quality_score: 8.8
 tags: 廣島和牛, 日本和牛, 廣島美食, 燒肉, 精肉店
 license: CC BY 4.0
 ---

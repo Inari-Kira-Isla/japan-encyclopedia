@@ -6,7 +6,7 @@ category: ryokan
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-hokkaido-北海道溫泉旅館的美食取向-從食材認識一間好-ryokan-的方法-066407.html
 published: 2026-06-04
-quality_score: 6.5
+quality_score: 8.5
 tags: 北海道 Ryokan, 溫泉旅馆, 北海道美食, 道产食材, 一泊二食
 license: CC BY 4.0
 ---

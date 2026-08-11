@@ -6,7 +6,7 @@ category: vr-experiences
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-vr-experiences-kyoto-京都的vr體驗-在千年古都遇見虛擬實境的現在進行式-5f4396.html
 published: 2026-05-21
-quality_score: 7.0
+quality_score: 8.3
 tags: vr-experiences, kyoto, japan
 license: CC BY 4.0
 ---

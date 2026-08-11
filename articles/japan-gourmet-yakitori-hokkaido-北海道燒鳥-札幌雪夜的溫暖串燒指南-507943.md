@@ -6,7 +6,7 @@ category: yakitori
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-yakitori-hokkaido-北海道燒鳥-札幌雪夜的溫暖串燒指南-507943.html
 published: 2026-06-12
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道燒鳥, 札幌美食, 薄野串燒, 道產雞肉, 日本冬季美食
 license: CC BY 4.0
 ---

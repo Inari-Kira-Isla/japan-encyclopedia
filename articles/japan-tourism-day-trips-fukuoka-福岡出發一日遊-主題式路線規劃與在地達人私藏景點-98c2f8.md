@@ -6,7 +6,7 @@ category: day-trips
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-fukuoka-福岡出發一日遊-主題式路線規劃與在地達人私藏景點-98c2f8.html
 published: 2026-06-12
-quality_score: 6.5
+quality_score: 8.7
 tags: 福岡一日遊, 九州溫泉, 太宰府, 柳川觀光, 糸島直売所
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: buses
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-buses-kyoto-京都巴士實戰攻略-攻略師的高效行程密技-c6a880.html
 published: 2026-04-05
-quality_score: 7.5
+quality_score: 8.6
 tags: 京都交通, 巴士攻略, 行程規劃
 license: CC BY 4.0
 ---

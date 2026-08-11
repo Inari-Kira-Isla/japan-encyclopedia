@@ -6,7 +6,7 @@ category: day-trips
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-osaka-大阪工藝手作小旅行-遠離人潮的關西傳產體驗路線-2e6e08.html
 published: 2026-06-12
-quality_score: 6.5
+quality_score: 8.3
 tags: 大阪一日遊, 傳統工藝體驗, 關西深度遊, 手作體驗, 大阪近郊
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: yakitori
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-yakitori-okinawa-沖繩燒鳥-國際通深夜食堂的靈魂宵夜-b0232a.html
 published: 2026-06-02
-quality_score: 6.5
+quality_score: 8.4
 tags: 沖繩燒鳥, 沖繩美食, 那霸燒烤, AGU黑豬肉, 沖繩夜晚
 license: CC BY 4.0
 ---

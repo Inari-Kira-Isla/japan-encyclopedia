@@ -6,7 +6,7 @@ category: garden-parks
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-tokyo-東京古蹟庭園散步-穿越江戶與現代的綠意物語-2de3a4.html
 published: 2026-05-22
-quality_score: 6.5
+quality_score: 8.8
 tags: 東京庭園, 古蹟散歩, 江戶文化, 枯山水, 日本庭園巡禮
 license: CC BY 4.0
 ---

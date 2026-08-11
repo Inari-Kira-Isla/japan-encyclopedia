@@ -6,7 +6,7 @@ category: udon-soba
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-udon-soba-tokyo-東京烏龍麵與蕎麥麵-社群老店的味道地圖-39d219.html
 published: 2026-06-25
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京美食, 烏龍麵, 蕎麥麵, 東京社區, 東京在地
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: izakaya
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-izakaya-sendai-仙台居酒屋的在地觀察-遠離車站的巷內飲み會-edf3cc.html
 published: 2026-05-24
-quality_score: 6.5
+quality_score: 8.7
 tags: 仙台美食, 仙台居酒屋, 東北美食, 牛舌, 日本威士忌
 license: CC BY 4.0
 ---

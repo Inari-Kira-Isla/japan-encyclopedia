@@ -6,7 +6,7 @@ category: anime-manga
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-kanazawa-金澤動漫樂趣-古都裡的流行文化日常-678778.html
 published: 2026-05-31
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤動漫, 金澤漫畫, 金澤遊戲中心, 金澤咖啡廳, 日本動漫
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: metro-systems
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-kanazawa-金澤觀光迴圈巴士-遊遍古城的三種選擇與使用攻略-d85dfa.html
 published: 2026-06-22
-quality_score: 7.5
+quality_score: 8.5
 tags: 金澤交通, 金澤觀光, 循環巴士, 日本中部, 金澤自由行
 license: CC BY 4.0
 ---

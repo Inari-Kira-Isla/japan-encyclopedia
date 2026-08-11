@@ -6,7 +6,7 @@ category: shinkansen
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-kobe-神戶站高效轉乘指南-關西行程的隱藏樞紐-3f7f8f.html
 published: 2026-06-07
-quality_score: 7.5
+quality_score: 8.5
 tags: 神戶轉乘, 關西交通, 山陽新宿線, 神戶港灣, 南京町
 license: CC BY 4.0
 ---

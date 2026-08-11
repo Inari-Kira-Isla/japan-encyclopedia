@@ -6,7 +6,7 @@ category: minshuku
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-tokyo-tokyo-的-minshuku-隱藏在都會巷弄的家庭式住宿-cfc0ee.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 8.5
 tags: 東京住宿, 民泊, minshuku, 下町, 東京都
 license: CC BY 4.0
 ---

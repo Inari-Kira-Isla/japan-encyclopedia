@@ -6,7 +6,7 @@ category: business-hotels
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-business-hotels-kobe-神戶港灣商務住宿-港口城市出差者的機能型住宿選擇-2d9b4e.html
 published: 2026-06-19
-quality_score: 6.5
+quality_score: 8.6
 tags: 神戶, 商務住宿, 港口城市, 關西, 出差
 license: CC BY 4.0
 ---

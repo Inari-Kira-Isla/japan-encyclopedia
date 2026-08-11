@@ -6,7 +6,7 @@ category: buses
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-buses-hiroshima-廣島巴士完全指南-公-私鐵與高速巴士的聰明選擇-2621a4.html
 published: 2026-06-01
-quality_score: 7.5
+quality_score: 8.9
 tags: 廣島交通, 日本巴士, 廣島自由行, 公私鐵比較, 高速巴士
 license: CC BY 4.0
 ---

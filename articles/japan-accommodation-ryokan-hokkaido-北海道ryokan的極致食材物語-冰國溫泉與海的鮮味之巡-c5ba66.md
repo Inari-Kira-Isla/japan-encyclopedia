@@ -6,7 +6,7 @@ category: ryokan
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-hokkaido-北海道ryokan的極致食材物語-冰國溫泉與海的鮮味之巡-c5ba66.html
 published: 2026-06-07
-quality_score: 6.5
+quality_score: 8.6
 tags: 北海道Ryokan, 溫泉住宿, 海膽, 帝王蟹, 登別溫泉
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: anime-manga
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-nagoya-名古屋動漫漫畫-隱藏版聖地的中部探索指南-555546.html
 published: 2026-06-06
-quality_score: 6.5
+quality_score: 8.7
 tags: 名古屋, 動漫, 漫畫, 御宅文化, 中部日本
 license: CC BY 4.0
 ---

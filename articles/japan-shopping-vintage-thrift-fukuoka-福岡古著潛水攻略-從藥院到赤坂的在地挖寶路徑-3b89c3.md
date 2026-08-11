@@ -6,7 +6,7 @@ category: vintage-thrift
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-vintage-thrift-fukuoka-福岡古著潛水攻略-從藥院到赤坂的在地挖寶路徑-3b89c3.html
 published: 2026-06-24
-quality_score: 7.5
+quality_score: 8.7
 tags: 福岡古著, 藥院古著, 赤坂古著, 日本二手衣物, 九州購物
 license: CC BY 4.0
 ---

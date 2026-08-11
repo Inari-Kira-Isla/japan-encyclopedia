@@ -6,7 +6,7 @@ category: historical-districts
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-okinawa-沖繩歷史街區建築漫步-解讀琉球古韻的空間密碼-9c3ceb.html
 published: 2026-06-22
-quality_score: 6.5
+quality_score: 8.7
 tags: 沖繩歷史街區, 琉球建築, 首里城, 石疊道, 建築漫步
 license: CC BY 4.0
 ---

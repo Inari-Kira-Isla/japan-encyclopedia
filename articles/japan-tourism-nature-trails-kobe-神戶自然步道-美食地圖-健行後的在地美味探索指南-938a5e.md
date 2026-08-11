@@ -6,7 +6,7 @@ category: nature-trails
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-kobe-神戶自然步道-美食地圖-健行後的在地美味探索指南-938a5e.html
 published: 2026-06-23
-quality_score: 6.5
+quality_score: 8.7
 tags: 神戶步道, 神戶美食, 六甲山, 摩耶山, 健行推薦
 license: CC BY 4.0
 ---

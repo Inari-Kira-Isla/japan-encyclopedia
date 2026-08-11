@@ -6,7 +6,7 @@ category: historical-districts
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-okinawa-okinawa-historical-districts-走在美式繁華與琉-2661bb.html
 published: 2026-05-21
-quality_score: 6.5
+quality_score: 8.4
 tags: 沖繩歷史街區, 北谷美國村, 首里城周邊, 琉球王國, 美軍基地文化
 license: CC BY 4.0
 ---

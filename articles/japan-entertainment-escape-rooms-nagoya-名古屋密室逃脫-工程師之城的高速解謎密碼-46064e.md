@@ -6,7 +6,7 @@ category: escape-rooms
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-escape-rooms-nagoya-名古屋密室逃脫-工程師之城的高速解謎密碼-46064e.html
 published: 2026-05-24
-quality_score: 6.5
+quality_score: 8.7
 tags: 名古屋密室, 名古屋娛樂, 日本密室逃脫, 名古屋旅游, 工程師文化
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: rental-cars
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-sendai-仙台租車自駕遊-從東北門戶探索藏王-御嶽與銀山溫泉的季節限定之旅-e727a9.html
 published: 2026-06-16
-quality_score: 7.5
+quality_score: 8.4
 tags: 仙台租車, 東北自駕遊, 藏王樹冰, 銀山溫泉, 山形旅遊
 license: CC BY 4.0
 ---

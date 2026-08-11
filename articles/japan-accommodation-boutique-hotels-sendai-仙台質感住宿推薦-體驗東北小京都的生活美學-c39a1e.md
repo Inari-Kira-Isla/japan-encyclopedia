@@ -6,7 +6,7 @@ category: boutique-hotels
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-sendai-仙台質感住宿推薦-體驗東北小京都的生活美學-c39a1e.html
 published: 2026-06-25
-quality_score: 6.5
+quality_score: 8.7
 tags: 仙台住宿, 東北溫泉, 日本精品飯店, 仙台旅遊, 東北小京都
 license: CC BY 4.0
 ---

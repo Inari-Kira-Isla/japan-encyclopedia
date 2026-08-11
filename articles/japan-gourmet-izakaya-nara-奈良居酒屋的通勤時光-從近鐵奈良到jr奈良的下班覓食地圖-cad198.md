@@ -6,7 +6,7 @@ category: izakaya
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-izakaya-nara-奈良居酒屋的通勤時光-從近鐵奈良到jr奈良的下班覓食地圖-cad198.html
 published: 2026-04-11
-quality_score: 6.5
+quality_score: 8.8
 tags: 奈良美食, 居酒屋, 通勤文化, 地產地消, 關西美食
 license: CC BY 4.0
 ---

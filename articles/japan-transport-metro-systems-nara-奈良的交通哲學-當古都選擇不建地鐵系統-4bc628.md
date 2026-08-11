@@ -6,7 +6,7 @@ category: metro-systems
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-nara-奈良的交通哲學-當古都選擇不建地鐵系統-4bc628.html
 published: 2026-04-05
-quality_score: 7.5
+quality_score: 8.9
 tags: 奈良交通, 古都文化, 神鹿保護, 公共運輸, 日本鐵道
 license: CC BY 4.0
 ---

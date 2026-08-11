@@ -6,7 +6,7 @@ category: ramen
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-ramen-hokkaido-北海道拉麵的港口哲學-從產地到碗端的鮮味直送-771d69.html
 published: 2026-05-31
-quality_score: 6.5
+quality_score: 8.5
 tags: 北海道拉麵, 札幌味噌拉麵, 港口拉麵, 馬糽海膽拉麵, 日本拉麵
 license: CC BY 4.0
 ---

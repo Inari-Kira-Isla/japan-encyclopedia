@@ -6,7 +6,7 @@ category: wagyu
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-wagyu-tokyo-東京上班族的和牛午餐-小林流・商業午餐的和牛選擇-9633d5.html
 published: 2026-05-23
-quality_score: 6.5
+quality_score: 8.4
 tags: 東京美食, 和牛午餐, 商業午餐, 定食, 庶民美食
 license: CC BY 4.0
 ---

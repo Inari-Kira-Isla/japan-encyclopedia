@@ -6,7 +6,7 @@ category: boutique-hotels
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-hokkaido-北海道精品酒店-非都心區域的隱藏版質感住宿-631ae1.html
 published: 2026-05-23
-quality_score: 6.5
+quality_score: 8.5
 tags: 北海道精品酒店, 小樽住宿, 非都心旅行, 質感住宿推薦, 北海道自助旅
 license: CC BY 4.0
 ---

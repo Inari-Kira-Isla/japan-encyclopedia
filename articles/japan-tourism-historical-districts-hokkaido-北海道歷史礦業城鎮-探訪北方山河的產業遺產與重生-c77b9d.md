@@ -6,7 +6,7 @@ category: historical-districts
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-hokkaido-北海道歷史礦業城鎮-探訪北方山河的產業遺產與重生-c77b9d.html
 published: 2026-06-04
-quality_score: 6.5
+quality_score: 8.8
 tags: 北海道, 歷史街區, 礦業城鎮, 產業遺產, 赤平溫泉
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: island-hopping
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-island-hopping-fukuoka-福岡跳島的美食之路-從玄界灘到五島列島的島嶼海味巡禮-e7d225.html
 published: 2026-06-19
-quality_score: 6.5
+quality_score: 8.5
 tags: 福岡跳島, 壹岐島, 對馬島, 五島列島, 九州海鮮
 license: CC BY 4.0
 ---

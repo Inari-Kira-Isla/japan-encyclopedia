@@ -6,7 +6,7 @@ category: sushi
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sushi-nara-奈良壽司-山城的食材流轉與季節密碼-143675.html
 published: 2026-03-24
-quality_score: 6.5
+quality_score: 8.4
 tags: 奈良美食, 壽司文化, 日本內陸飲食, 季節食材, 供應鏈故事
 license: CC BY 4.0
 ---

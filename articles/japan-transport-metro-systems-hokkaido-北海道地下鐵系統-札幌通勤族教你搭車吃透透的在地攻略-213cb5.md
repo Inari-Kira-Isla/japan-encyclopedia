@@ -6,7 +6,7 @@ category: metro-systems
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-hokkaido-北海道地下鐵系統-札幌通勤族教你搭車吃透透的在地攻略-213cb5.html
 published: 2026-07-03
-quality_score: 7.5
+quality_score: 8.8
 tags: 北海道地下鐵, 札幌地下街, 北海道交通, 札幌美食, 札幌通勤
 license: CC BY 4.0
 ---

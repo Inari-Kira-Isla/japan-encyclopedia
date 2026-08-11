@@ -6,7 +6,7 @@ category: day-trips
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-osaka-大阪出發-五大一日遊經典路線-古城溫泉港都的全方位攻略-5ac7ed.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 8.4
 tags: 大阪一日遊, 關西自由行, 奈良公園, 神戶港, 姬路城
 license: CC BY 4.0
 ---

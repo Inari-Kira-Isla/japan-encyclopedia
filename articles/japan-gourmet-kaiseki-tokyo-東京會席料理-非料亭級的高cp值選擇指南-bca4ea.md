@@ -6,7 +6,7 @@ category: kaiseki
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-kaiseki-tokyo-東京會席料理-非料亭級的高cp值選擇指南-bca4ea.html
 published: 2026-05-23
-quality_score: 6.5
+quality_score: 8.6
 tags: 東京美食, 會席料理,  Kaiseki, 日本料理, 淺草
 license: CC BY 4.0
 ---

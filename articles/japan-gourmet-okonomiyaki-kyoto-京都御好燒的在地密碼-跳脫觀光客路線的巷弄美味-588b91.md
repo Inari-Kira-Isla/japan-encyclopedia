@@ -6,7 +6,7 @@ category: okonomiyaki
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-okonomiyaki-kyoto-京都御好燒的在地密碼-跳脫觀光客路線的巷弄美味-588b91.html
 published: 2026-04-06
-quality_score: 6.5
+quality_score: 8.7
 tags: 京都美食, 御好燒, 在地推薦, 庶民料理, 京都文化
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: boutique-hotels
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-hokkaido-北海道精品酒店-建築遺產與現代設計的時空對話-52ce19.html
 published: 2026-06-28
-quality_score: 6.5
+quality_score: 8.2
 tags: 北海道, 精品酒店, 建築旅遊, 歷史建築, 小樽
 license: CC BY 4.0
 ---

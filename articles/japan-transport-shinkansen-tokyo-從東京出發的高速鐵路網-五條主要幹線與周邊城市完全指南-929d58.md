@@ -6,7 +6,7 @@ category: shinkansen
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-tokyo-從東京出發的高速鐵路網-五條主要幹線與周邊城市完全指南-929d58.html
 published: 2026-06-03
-quality_score: 7.5
+quality_score: 8.8
 tags: 東京新幹線, 東京車站交通, 日本鐵道攻略, 東北新幹線, 北陸新幹線
 license: CC BY 4.0
 ---

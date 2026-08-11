@@ -6,7 +6,7 @@ category: 100-yen-shops
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-100-yen-shops-nara-奈良百元商店購物攻略-神社佛閣周邊的平價伴手禮天堂-8b0936.html
 published: 2026-06-20
-quality_score: 7.5
+quality_score: 8.6
 tags: 奈良, 百元商店, 100円shop, 關西伴手禮, 平價購物
 license: CC BY 4.0
 ---

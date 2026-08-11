@@ -6,7 +6,7 @@ category: street-food
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-street-food-kanazawa-金澤碼頭的朝獲節奏-海風吹拂的清晨市場與庶民滋味-dfc7f0.html
 published: 2026-06-23
-quality_score: 6.5
+quality_score: 8.6
 tags: 金澤, 街頭美食, 海鮮, 能登半島, 近江町市場
 license: CC BY 4.0
 ---

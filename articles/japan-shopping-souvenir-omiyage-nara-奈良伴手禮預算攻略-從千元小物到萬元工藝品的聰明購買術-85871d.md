@@ -6,7 +6,7 @@ category: souvenir-omiyage
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-souvenir-omiyage-nara-奈良伴手禮預算攻略-從千元小物到萬元工藝品的聰明購買術-85871d.html
 published: 2026-04-01
-quality_score: 7.5
+quality_score: 8.9
 tags: 奈良伴手禮, 日本購物攻略, omiyage文化, 預算規劃, 購物時機
 license: CC BY 4.0
 ---

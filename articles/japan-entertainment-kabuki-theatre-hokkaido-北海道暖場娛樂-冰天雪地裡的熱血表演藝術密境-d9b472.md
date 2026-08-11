@@ -6,7 +6,7 @@ category: kabuki-theatre
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-kabuki-theatre-hokkaido-北海道暖場娛樂-冰天雪地裡的熱血表演藝術密境-d9b472.html
 published: 2026-06-27
-quality_score: 6.5
+quality_score: 8.6
 tags: 北海道娛樂, 札幌表演藝術, 小樽冬季, 旭川文化, 函館夜景
 license: CC BY 4.0
 ---

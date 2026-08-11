@@ -6,7 +6,7 @@ category: scenic-routes
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-fukuoka-福岡鐵道風景線-不上高速公路的私房漫遊-85a4a9.html
 published: 2026-04-07
-quality_score: 6.5
+quality_score: 8.9
 tags: 福岡, 鐵道之旅, 風景路線, 公共交通, 一日遊
 license: CC BY 4.0
 ---

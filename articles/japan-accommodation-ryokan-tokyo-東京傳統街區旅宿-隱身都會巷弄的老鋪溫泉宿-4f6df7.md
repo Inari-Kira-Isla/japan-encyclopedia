@@ -6,7 +6,7 @@ category: ryokan
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-tokyo-東京傳統街區旅宿-隱身都會巷弄的老鋪溫泉宿-4f6df7.html
 published: 2026-06-04
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京旅宿, 傳統街區, 和式住宿, 神樂坂, 谷中
 license: CC BY 4.0
 ---

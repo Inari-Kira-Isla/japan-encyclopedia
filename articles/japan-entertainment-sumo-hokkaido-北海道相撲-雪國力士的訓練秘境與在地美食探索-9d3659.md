@@ -6,7 +6,7 @@ category: sumo
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-hokkaido-北海道相撲-雪國力士的訓練秘境與在地美食探索-9d3659.html
 published: 2026-06-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道相撲, 雪國運動, 日本武術體驗, 札幌活動, 溫泉相撲
 license: CC BY 4.0
 ---

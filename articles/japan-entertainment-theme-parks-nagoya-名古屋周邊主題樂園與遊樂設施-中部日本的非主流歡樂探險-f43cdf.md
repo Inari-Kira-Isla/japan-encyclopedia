@@ -6,7 +6,7 @@ category: theme-parks
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-theme-parks-nagoya-名古屋周邊主題樂園與遊樂設施-中部日本的非主流歡樂探險-f43cdf.html
 published: 2026-06-04
-quality_score: 6.5
+quality_score: 8.9
 tags: 名古屋主題樂園, 中部日本遊樂, 家庭一日遊, 名古屋親子景點, 非主流主題樂園
 license: CC BY 4.0
 ---

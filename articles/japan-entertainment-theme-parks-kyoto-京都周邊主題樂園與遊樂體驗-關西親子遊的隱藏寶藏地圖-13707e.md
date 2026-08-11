@@ -6,7 +6,7 @@ category: theme-parks
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-theme-parks-kyoto-京都周邊主題樂園與遊樂體驗-關西親子遊的隱藏寶藏地圖-13707e.html
 published: 2026-05-22
-quality_score: 6.5
+quality_score: 8.7
 tags: 京都主題樂園, 京都親子遊, 關西家庭旅遊, 京都水族館, 東映太秦映畫村
 license: CC BY 4.0
 ---

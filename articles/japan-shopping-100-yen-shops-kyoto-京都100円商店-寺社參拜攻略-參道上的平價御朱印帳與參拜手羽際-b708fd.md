@@ -6,7 +6,7 @@ category: 100-yen-shops
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-100-yen-shops-kyoto-京都100円商店-寺社參拜攻略-參道上的平價御朱印帳與參拜手羽際-b708fd.html
 published: 2026-06-30
-quality_score: 7.5
+quality_score: 8.7
 tags: 京都, 100円商店, 寺社參拜, 御朱印, 參拜用品
 license: CC BY 4.0
 ---

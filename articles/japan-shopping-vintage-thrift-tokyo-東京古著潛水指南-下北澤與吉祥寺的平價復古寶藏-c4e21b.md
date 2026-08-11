@@ -6,7 +6,7 @@ category: vintage-thrift
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-vintage-thrift-tokyo-東京古著潛水指南-下北澤與吉祥寺的平價復古寶藏-c4e21b.html
 published: 2026-06-14
-quality_score: 7.5
+quality_score: 9.0
 tags: 東京古著, 下北澤古著, 吉祥寺古著, 日本平價購物, 復古時尚
 license: CC BY 4.0
 ---

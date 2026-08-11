@@ -6,7 +6,7 @@ category: ski-resorts
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-ski-resorts-hokkaido-北海道滑雪度假村-從新手到專家的完整攻略指南-156844.html
 published: 2026-04-03
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道, 滑雪度假村, 冬季運動, 粉雪, 滑雪教學
 license: CC BY 4.0
 ---

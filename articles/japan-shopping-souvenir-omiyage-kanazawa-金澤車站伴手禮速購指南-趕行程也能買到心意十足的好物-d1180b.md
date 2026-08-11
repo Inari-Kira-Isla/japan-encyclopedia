@@ -6,7 +6,7 @@ category: souvenir-omiyage
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-souvenir-omiyage-kanazawa-金澤車站伴手禮速購指南-趕行程也能買到心意十足的好物-d1180b.html
 published: 2026-06-24
-quality_score: 7.5
+quality_score: 8.7
 tags: 金澤伴手禮, 金澤車站, 加賀地酒, 金箔工藝, 速購指南
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: duty-free
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-duty-free-fukuoka-福岡免稅購物戰略指南-九州門戶的集散優勢與匯率紅利-402156.html
 published: 2026-04-03
-quality_score: 7.5
+quality_score: 8.7
 tags: 福岡購物, 九州免稅, 日本免稅店, 匯率優惠, 移動支付
 license: CC BY 4.0
 ---

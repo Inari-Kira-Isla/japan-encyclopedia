@@ -6,7 +6,7 @@ category: depachika
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-depachika-okinawa-沖繩depachika-亞熱帶島嶼的食材寶庫與採購智慧-7cb2ca.html
 published: 2026-06-29
-quality_score: 6.5
+quality_score: 8.8
 tags: 沖繩Depachika, 亞熱帶食材, 沖繩美食, 那霸地下食品, 黑糖紅芋
 license: CC BY 4.0
 ---

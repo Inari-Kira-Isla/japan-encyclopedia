@@ -6,7 +6,7 @@ category: cycling
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-nara-奈良慢騎-在地人私藏的生活美學路線-67a794.html
 published: 2026-06-16
-quality_score: 7.5
+quality_score: 8.9
 tags: 奈良單車, 在地體驗, 深度旅遊, 慢旅行, 生活美學
 license: CC BY 4.0
 ---

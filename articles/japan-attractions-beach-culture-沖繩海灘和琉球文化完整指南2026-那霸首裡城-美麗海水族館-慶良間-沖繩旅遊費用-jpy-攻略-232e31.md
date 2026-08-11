@@ -6,7 +6,7 @@ category: beach-culture
 area: japan
 url: https://japan-encyclopedia.vercel.app/articles/japan-attractions-beach-culture-沖繩海灘和琉球文化完整指南2026-那霸首裡城-美麗海水族館-慶良間-沖繩旅遊費用-jpy-攻略-232e31.html
 published: 2026-04-07
-quality_score: 7.6
+quality_score: 8.5
 tags: 沖繩, 慶良間群島, 美麗海水族館, 首里城, 沖繩潛水
 license: CC BY 4.0
 ---

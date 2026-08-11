@@ -6,7 +6,7 @@ category: duty-free
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-duty-free-tokyo-東京免稅購物深度探索-市區與機場必逛免稅店精選-cc2cc3.html
 published: 2026-06-28
-quality_score: 7.5
+quality_score: 8.7
 tags: 東京, 免稅購物, 日本購物, 東京自由行, 機場免稅店
 license: CC BY 4.0
 ---

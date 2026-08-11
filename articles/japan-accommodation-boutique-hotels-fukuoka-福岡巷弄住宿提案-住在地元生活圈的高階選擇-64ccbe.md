@@ -6,7 +6,7 @@ category: boutique-hotels
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-fukuoka-福岡巷弄住宿提案-住在地元生活圈的高階選擇-64ccbe.html
 published: 2026-06-20
-quality_score: 6.5
+quality_score: 8.6
 tags: 福岡, 精品住宿, 九州, 天神, 中洲川端
 license: CC BY 4.0
 ---

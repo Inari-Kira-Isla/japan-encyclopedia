@@ -6,7 +6,7 @@ category: izakaya
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-izakaya-kobe-神戶居酒屋-港都異國風情與釀好酒的巷內相遇-0da4fa.html
 published: 2026-05-22
-quality_score: 6.5
+quality_score: 8.8
 tags: 神戶, 居酒屋, 灘酒, 瀨戶內海, 国際港口
 license: CC BY 4.0
 ---

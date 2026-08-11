@@ -6,7 +6,7 @@ category: ferries
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-ferries-sendai-仙台渡輪慢旅-松島灣與島嶼人家的海上日常-426357.html
 published: 2026-07-03
-quality_score: 7.5
+quality_score: 8.7
 tags: 仙台渡輪, 松島灣, 浦戶諸島, 牡鹿半島, 東北自助旅行
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: buses
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-buses-hiroshima-廣島長途巴士攻略-省錢也能舒適移動的高速公路巴士選擇-e2bbf0.html
 published: 2026-06-19
-quality_score: 7.5
+quality_score: 8.5
 tags: 廣島交通, 長途巴士, 日本巴士, 省錢旅行, 高速公路巴士
 license: CC BY 4.0
 ---

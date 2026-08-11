@@ -6,7 +6,7 @@ category: cycling
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-hokkaido-北海道單車漫遊-沿線美食與港口小鎮的騎行指南-b932a7.html
 published: 2026-06-20
-quality_score: 7.5
+quality_score: 8.7
 tags: 北海道單車, 小樽單車, 積丹半島, 帶廣單車, 稚內單車
 license: CC BY 4.0
 ---

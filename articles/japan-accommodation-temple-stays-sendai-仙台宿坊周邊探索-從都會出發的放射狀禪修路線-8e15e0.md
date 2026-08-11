@@ -6,7 +6,7 @@ category: temple-stays
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-temple-stays-sendai-仙台宿坊周邊探索-從都會出發的放射狀禪修路線-8e15e0.html
 published: 2026-06-21
-quality_score: 6.5
+quality_score: 8.4
 tags: 仙台宿坊, 東北寺院住宿, 松島住宿, 山形山寺, 平泉世界遺產
 license: CC BY 4.0
 ---

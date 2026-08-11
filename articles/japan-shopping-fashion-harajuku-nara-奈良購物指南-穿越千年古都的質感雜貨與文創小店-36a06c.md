@@ -6,7 +6,7 @@ category: fashion-harajuku
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-fashion-harajuku-nara-奈良購物指南-穿越千年古都的質感雜貨與文創小店-36a06c.html
 published: 2026-05-21
-quality_score: 7.5
+quality_score: 8.5
 tags: 奈良購物ガイド, 古都奈良, 日本雜貨, 文創小店, 三名制
 license: CC BY 4.0
 ---

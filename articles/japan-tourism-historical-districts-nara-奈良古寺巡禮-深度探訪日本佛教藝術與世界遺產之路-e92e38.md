@@ -6,7 +6,7 @@ category: historical-districts
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-nara-奈良古寺巡禮-深度探訪日本佛教藝術與世界遺產之路-e92e38.html
 published: 2026-04-07
-quality_score: 6.5
+quality_score: 8.7
 tags: 奈良, 歷史街區, 世界遺產, 佛教藝術, 古寺巡禮
 license: CC BY 4.0
 ---

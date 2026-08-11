@@ -6,7 +6,7 @@ category: department-stores
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-department-stores-kobe-神戶銀髮友善購物廣場-熟齡族的優雅消費指南-05d23c.html
 published: 2026-06-02
-quality_score: 7.5
+quality_score: 8.8
 tags: 神戶購物, 銀髮友善, 無障礙旅遊, 熟齡旅遊, 神戶outlet
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: rental-cars
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-okinawa-沖繩租車策略指南-島嶼環境下的自駕成本最佳化攻略-3ff106.html
 published: 2026-04-02
-quality_score: 7.5
+quality_score: 8.6
 tags: 沖繩租車, 島嶼自駕, 旅遊交通, 成本優化, 沖繩攻略
 license: CC BY 4.0
 ---

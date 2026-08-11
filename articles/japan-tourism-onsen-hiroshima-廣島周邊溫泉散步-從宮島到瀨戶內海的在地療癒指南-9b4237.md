@@ -6,7 +6,7 @@ category: onsen
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-onsen-hiroshima-廣島周邊溫泉散步-從宮島到瀨戶內海的在地療癒指南-9b4237.html
 published: 2026-06-04
-quality_score: 6.5
+quality_score: 8.2
 tags: 廣島溫泉, 瀨戶內海溫泉, 鞆の浦温泉, 吉和温泉, 宮島溫泉
 license: CC BY 4.0
 ---

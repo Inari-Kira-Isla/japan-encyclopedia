@@ -6,7 +6,7 @@ category: castle-towns
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-castle-towns-okinawa-沖繩古城垣巡禮-走進琉球王國的グスク遺產-3f47d8.html
 published: 2026-06-18
-quality_score: 6.5
+quality_score: 8.7
 tags: 沖繩古城, グスク, 琉球王國, 世界文化遺產, 首里城
 license: CC BY 4.0
 ---

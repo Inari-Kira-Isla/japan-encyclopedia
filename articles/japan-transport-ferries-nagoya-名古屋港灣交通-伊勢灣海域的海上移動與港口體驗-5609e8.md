@@ -6,7 +6,7 @@ category: ferries
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-ferries-nagoya-名古屋港灣交通-伊勢灣海域的海上移動與港口體驗-5609e8.html
 published: 2026-06-21
-quality_score: 7.5
+quality_score: 8.4
 tags: 名古屋交通, 伊勢灣, 中部國際機場, 港口觀光, 名古屋自由行
 license: CC BY 4.0
 ---

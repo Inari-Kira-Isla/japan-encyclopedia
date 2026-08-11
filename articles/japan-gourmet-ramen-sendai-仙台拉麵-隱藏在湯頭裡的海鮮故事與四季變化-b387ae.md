@@ -6,7 +6,7 @@ category: ramen
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-ramen-sendai-仙台拉麵-隱藏在湯頭裡的海鮮故事與四季變化-b387ae.html
 published: 2026-03-24
-quality_score: 6.5
+quality_score: 8.7
 tags: 仙台美食, 拉麵文化, 東北料理, 湯頭食材, 季節限定
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: electronics
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-electronics-nagoya-名古屋電子零件購物-從toyota供應鏈到在地小店工業城購物完全指南-2791ab.html
 published: 2026-06-14
-quality_score: 7.5
+quality_score: 8.6
 tags: 名古屋電子零件, 中部國際空港, 工業城市購物, 電子產品批發, 日本購物指南
 license: CC BY 4.0
 ---

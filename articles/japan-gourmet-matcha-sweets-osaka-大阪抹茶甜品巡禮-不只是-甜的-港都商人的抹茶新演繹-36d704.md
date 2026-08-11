@@ -6,7 +6,7 @@ category: matcha-sweets
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-matcha-sweets-osaka-大阪抹茶甜品巡禮-不只是-甜的-港都商人的抹茶新演繹-36d704.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 8.5
 tags: 大阪美食, 抹茶甜點,  Osaka美食, 日本甜點, 關西旅行
 license: CC BY 4.0
 ---

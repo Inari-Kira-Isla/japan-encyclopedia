@@ -6,7 +6,7 @@ category: garden-parks
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-kanazawa-金澤自然觀察指南-生態教室裡的四季物語-db6a1b.html
 published: 2026-06-15
-quality_score: 6.5
+quality_score: 8.8
 tags: 金澤, 自然觀察, 生態旅遊, 石川縣, 公園
 license: CC BY 4.0
 ---

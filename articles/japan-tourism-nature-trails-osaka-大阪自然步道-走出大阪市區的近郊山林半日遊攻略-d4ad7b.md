@@ -6,7 +6,7 @@ category: nature-trails
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-osaka-大阪自然步道-走出大阪市區的近郊山林半日遊攻略-d4ad7b.html
 published: 2026-06-02
-quality_score: 6.5
+quality_score: 8.6
 tags: 大阪自然步道, 大阪近郊步道, 大阪半日遊, 大阪登山, 大阪戶外活動
 license: CC BY 4.0
 ---

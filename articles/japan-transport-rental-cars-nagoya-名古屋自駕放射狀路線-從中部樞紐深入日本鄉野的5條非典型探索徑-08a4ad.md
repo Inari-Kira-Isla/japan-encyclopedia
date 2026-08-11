@@ -6,7 +6,7 @@ category: rental-cars
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-nagoya-名古屋自駕放射狀路線-從中部樞紐深入日本鄉野的5條非典型探索徑-08a4ad.html
 published: 2026-06-15
-quality_score: 7.5
+quality_score: 8.7
 tags: 名古屋租車, 中部日本自駕, 放射狀路線, 伊勢志摩, 日本海側
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: temple-stays
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-temple-stays-kobe-神戶寺廟住宿指南-走進山與海的佛教美學殿堂-90514e.html
 published: 2026-06-02
-quality_score: 6.5
+quality_score: 8.5
 tags: 神戶寺廟住宿, 關西佛寺體驗, 神戶禪修, 神戸 Templo, 日本佛教文化之旅
 license: CC BY 4.0
 ---

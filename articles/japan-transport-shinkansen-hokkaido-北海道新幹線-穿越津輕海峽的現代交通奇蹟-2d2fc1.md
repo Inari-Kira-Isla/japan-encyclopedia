@@ -6,7 +6,7 @@ category: shinkansen
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-hokkaido-北海道新幹線-穿越津輕海峽的現代交通奇蹟-2d2fc1.html
 published: 2026-04-04
-quality_score: 7.5
+quality_score: 8.8
 tags: 北海道新幹線, 青函隧道, 北海道交通, 新函館北斗, 津輕海峽
 license: CC BY 4.0
 ---

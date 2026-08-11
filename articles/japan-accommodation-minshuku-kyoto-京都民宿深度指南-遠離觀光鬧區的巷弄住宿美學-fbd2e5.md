@@ -6,7 +6,7 @@ category: minshuku
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-kyoto-京都民宿深度指南-遠離觀光鬧區的巷弄住宿美學-fbd2e5.html
 published: 2026-05-25
-quality_score: 6.5
+quality_score: 8.9
 tags: 京都, 民宿, minshuku, 京野菜, 祇園
 license: CC BY 4.0
 ---

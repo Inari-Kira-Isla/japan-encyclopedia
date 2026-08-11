@@ -6,7 +6,7 @@ category: fashion-harajuku
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-fashion-harajuku-okinawa-沖繩街頭時尚攻略-美軍基地文化孕育的南國潮流聖地-fa0f6f.html
 published: 2026-06-25
-quality_score: 7.5
+quality_score: 8.8
 tags: 沖繩購物, 美國村, 街頭時尚, 南國潮流, 美式休閒
 license: CC BY 4.0
 ---

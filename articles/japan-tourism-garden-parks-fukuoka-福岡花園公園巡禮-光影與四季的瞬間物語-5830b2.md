@@ -6,7 +6,7 @@ category: garden-parks
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-fukuoka-福岡花園公園巡禮-光影與四季的瞬間物語-5830b2.html
 published: 2026-06-23
-quality_score: 6.5
+quality_score: 8.7
 tags: 福岡寫真, 花園公園, 四季寫真, 大濠公園, 攝影旅遊
 license: CC BY 4.0
 ---

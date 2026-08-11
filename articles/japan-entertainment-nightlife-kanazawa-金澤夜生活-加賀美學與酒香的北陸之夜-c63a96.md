@@ -6,7 +6,7 @@ category: nightlife
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-kanazawa-金澤夜生活-加賀美學與酒香的北陸之夜-c63a96.html
 published: 2026-06-14
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤夜生活, 加賀料理, 日本酒, 北陸美食, 深夜食堂
 license: CC BY 4.0
 ---

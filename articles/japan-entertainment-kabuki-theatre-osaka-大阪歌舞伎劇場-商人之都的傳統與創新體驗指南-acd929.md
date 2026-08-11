@@ -6,7 +6,7 @@ category: kabuki-theatre
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-kabuki-theatre-osaka-大阪歌舞伎劇場-商人之都的傳統與創新體驗指南-acd929.html
 published: 2026-04-07
-quality_score: 6.5
+quality_score: 8.8
 tags: 大阪娛樂, 日本傳統表演, 歌舞伎劇場, 文化體驗, 道頓堀景點
 license: CC BY 4.0
 ---

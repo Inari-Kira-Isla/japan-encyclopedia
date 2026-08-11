@@ -6,7 +6,7 @@ category: nature-trails
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-sendai-仙台自然步道完全攻略-不被發現的山林秘境與在地人的慢步美學-aa80f6.html
 published: 2026-06-04
-quality_score: 6.5
+quality_score: 8.5
 tags: 仙台自然步道, 東北健行, 日本山林, 戶外旅遊, 免費景點
 license: CC BY 4.0
 ---

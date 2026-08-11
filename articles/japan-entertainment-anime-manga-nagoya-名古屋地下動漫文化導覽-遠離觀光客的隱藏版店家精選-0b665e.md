@@ -6,7 +6,7 @@ category: anime-manga
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-nagoya-名古屋地下動漫文化導覽-遠離觀光客的隱藏版店家精選-0b665e.html
 published: 2026-06-19
-quality_score: 6.5
+quality_score: 8.7
 tags: 名古屋動漫, 地下文化, 隱藏版店家, 日本動漫聖地, 名古屋旅遊
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: matcha-sweets
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-matcha-sweets-tokyo-東京抹茶甜點隱藏版-當地人帶路的綠色滋味-bbd4aa.html
 published: 2026-06-10
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京美食, 抹茶甜點, 隱藏版, 在地推薦, 住宅區
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: historical-heritage
 area: japan
 url: https://japan-encyclopedia.vercel.app/articles/japan-attractions-historical-heritage-廣島和平紀念館和宮島完整指南2026-原爆ドーム-平和公園-嚴島神社-廣島歷史費用--15e1bd.html
 published: 2026-03-29
-quality_score: 7.6
+quality_score: 8.5
 tags: 廣島和平, 原爆ドーム, 宮島嚴島神社, 廣島お好み焼き, 廣島旅遊
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: theme-parks
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-theme-parks-kyoto-京都御宅文化地圖-動漫與傳統交織的次聖地巡禮-f72496.html
 published: 2026-06-13
-quality_score: 6.5
+quality_score: 8.5
 tags: 京都御宅文化, 京都動漫, 京都漫畫店, 京都動漫體驗, 日本動漫聖地巡禮
 license: CC BY 4.0
 ---

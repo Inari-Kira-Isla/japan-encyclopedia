@@ -6,7 +6,7 @@ category: cycling
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-okinawa-沖繩單車漫遊-島嶼風情的慢速探索-59fba4.html
 published: 2026-06-09
-quality_score: 7.5
+quality_score: 8.5
 tags: 沖繩單車, 島嶼騎行,  Okinawa Cycling, 沖繩自由行, 單車旅行
 license: CC BY 4.0
 ---

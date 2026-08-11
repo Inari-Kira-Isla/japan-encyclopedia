@@ -6,7 +6,7 @@ category: depachika
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-depachika-okinawa-沖繩-depachika-亞熱帶海島的美食地下天堂-06650f.html
 published: 2026-03-14
-quality_score: 6.5
+quality_score: 8.7
 tags: 沖繩美食, Depachika, 那霸購物, 琉球料理, 日本百貨
 license: CC BY 4.0
 ---

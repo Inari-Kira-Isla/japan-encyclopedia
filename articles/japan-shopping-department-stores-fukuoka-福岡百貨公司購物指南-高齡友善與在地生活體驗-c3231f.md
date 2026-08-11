@@ -6,7 +6,7 @@ category: department-stores
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-department-stores-fukuoka-福岡百貨公司購物指南-高齡友善與在地生活體驗-c3231f.html
 published: 2026-03-24
-quality_score: 7.5
+quality_score: 8.7
 tags: 福岡, 百貨公司, 購物, 高齡友善, 九州
 license: CC BY 4.0
 ---

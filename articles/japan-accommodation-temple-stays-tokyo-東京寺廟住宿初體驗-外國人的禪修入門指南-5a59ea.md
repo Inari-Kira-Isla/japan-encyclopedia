@@ -6,7 +6,7 @@ category: temple-stays
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-temple-stays-tokyo-東京寺廟住宿初體驗-外國人的禪修入門指南-5a59ea.html
 published: 2026-03-28
-quality_score: 6.5
+quality_score: 8.8
 tags: 東京, 寺廟住宿, 禪修體驗, 文化體驗, 初學者指南
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: temple-stays
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-temple-stays-osaka-大阪周邊寺廟住宿完全指南-從大阪出發的關西山佛教聖地巡禮-8e9408.html
 published: 2026-05-25
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪寺廟住宿, 關西宿坊, 比叡山延曆寺, 高野山金剛峰寺, 日本佛教聖地
 license: CC BY 4.0
 ---

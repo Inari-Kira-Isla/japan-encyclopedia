@@ -6,7 +6,7 @@ category: capsule-hotels
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-capsule-hotels-hiroshima-hiroshima-capsule-hotels-c78812.html
 published: 2026-03-24
-quality_score: 5.5
+quality_score: 6.7
 tags: capsule-hotels, hiroshima, japan
 license: CC BY 4.0
 ---

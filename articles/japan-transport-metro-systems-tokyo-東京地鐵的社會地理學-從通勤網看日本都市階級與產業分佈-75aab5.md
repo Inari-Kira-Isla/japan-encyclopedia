@@ -6,7 +6,7 @@ category: metro-systems
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-tokyo-東京地鐵的社會地理學-從通勤網看日本都市階級與產業分佈-75aab5.html
 published: 2026-03-24
-quality_score: 7.5
+quality_score: 8.6
 tags: 東京交通, 地鐵系統, 通勤文化, 都市地理, 社會經濟
 license: CC BY 4.0
 ---

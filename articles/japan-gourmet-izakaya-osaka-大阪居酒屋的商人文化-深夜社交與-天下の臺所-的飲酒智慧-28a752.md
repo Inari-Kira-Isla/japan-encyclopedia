@@ -6,7 +6,7 @@ category: izakaya
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-izakaya-osaka-大阪居酒屋的商人文化-深夜社交與-天下の臺所-的飲酒智慧-28a752.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪美食, 居酒屋文化, 商業社交, 深夜飲食, 關西體驗
 license: CC BY 4.0
 ---

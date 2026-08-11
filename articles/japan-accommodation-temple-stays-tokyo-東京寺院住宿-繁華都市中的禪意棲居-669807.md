@@ -6,7 +6,7 @@ category: temple-stays
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-temple-stays-tokyo-東京寺院住宿-繁華都市中的禪意棲居-669807.html
 published: 2026-06-23
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京住宿, 寺院住宿, 禪修體驗, 都市修行, 東京住宿推薦
 license: CC BY 4.0
 ---

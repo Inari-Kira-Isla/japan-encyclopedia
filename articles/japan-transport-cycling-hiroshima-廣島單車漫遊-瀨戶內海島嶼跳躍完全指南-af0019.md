@@ -6,7 +6,7 @@ category: cycling
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-hiroshima-廣島單車漫遊-瀨戶內海島嶼跳躍完全指南-af0019.html
 published: 2026-06-11
-quality_score: 7.5
+quality_score: 8.5
 tags: 廣島單車, 瀨戶內海, 島嶼跳躍, 直島藝術, 單車渡輪
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: department-stores
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-department-stores-fukuoka-福岡免稅購物完全指南-九州最大都市的免稅購物精選-ebe882.html
 published: 2026-03-19
-quality_score: 7.5
+quality_score: 8.7
 tags: 福岡, 免稅購物, 九州, 博多, 天神
 license: CC BY 4.0
 ---

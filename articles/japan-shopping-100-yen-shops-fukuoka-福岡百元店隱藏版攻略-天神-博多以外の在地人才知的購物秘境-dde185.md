@@ -6,7 +6,7 @@ category: 100-yen-shops
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-100-yen-shops-fukuoka-福岡百元店隱藏版攻略-天神-博多以外の在地人才知的購物秘境-dde185.html
 published: 2026-06-18
-quality_score: 7.5
+quality_score: 8.7
 tags: 福岡百元店, 九州購物, 在地人推薦, 平價購物, Silver Economy
 license: CC BY 4.0
 ---

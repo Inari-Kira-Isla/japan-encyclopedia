@@ -6,7 +6,7 @@ category: castle-towns
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-castle-towns-tokyo-東京郊外的城下町時光-探訪被遺忘的武家故鄉-4840de.html
 published: 2026-06-25
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京城堡城鎮, 城下町, 川越, 八王子, 武家
 license: CC BY 4.0
 ---

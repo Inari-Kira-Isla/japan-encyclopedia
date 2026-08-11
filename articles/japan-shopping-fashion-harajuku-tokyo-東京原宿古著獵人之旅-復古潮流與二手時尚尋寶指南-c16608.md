@@ -6,7 +6,7 @@ category: fashion-harajuku
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-fashion-harajuku-tokyo-東京原宿古著獵人之旅-復古潮流與二手時尚尋寶指南-c16608.html
 published: 2026-06-30
-quality_score: 7.5
+quality_score: 8.6
 tags: 東京購物, 原宿古著, 二手時尚, 日本自由行, 街頭潮流
 license: CC BY 4.0
 ---

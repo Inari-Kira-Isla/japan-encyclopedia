@@ -6,7 +6,7 @@ category: ryokan
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-fukuoka-福岡傳統旅館美食之旅-九州門戶的極致和食體驗-73710e.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.8
 tags: 福岡旅館, 九州美食, 博多溫泉, 太宰府住宿, 柳川船宿
 license: CC BY 4.0
 ---

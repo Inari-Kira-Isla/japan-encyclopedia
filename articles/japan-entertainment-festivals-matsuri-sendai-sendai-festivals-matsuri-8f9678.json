@@ -1,0 +1,18 @@
+{
+  "title": "sendai festivals-matsuri",
+  "slug": "japan-entertainment-festivals-matsuri-sendai-sendai-festivals-matsuri-8f9678",
+  "industry": "entertainment",
+  "category": "festivals-matsuri",
+  "area": "sendai",
+  "url": "https://japan-encyclopedia.vercel.app/articles/japan-entertainment-festivals-matsuri-sendai-sendai-festivals-matsuri-8f9678.html",
+  "published": "2026-03-24",
+  "quality_score": 7.0,
+  "word_count": 318,
+  "tags": [
+    "festivals-matsuri",
+    "sendai",
+    "japan"
+  ],
+  "content": "我需要搜尋一些關於仙台祭典的最新資訊，以便提供不同於已有文章的新角度。讓我先查詢一下。\n<minimax:tool_call>\n<invoke name=\"ddg-search_search\">\n<parameter name=\"query\">仙台 祭典 2024 2025 お盆 活動 schedule</parameter>\n</invoke>\n<invoke name=\"ddg-search_search\">\n<parameter name=\"query\">Sendai festival 2024 summer matsuri events</parameter>\n</invoke>\n</minimax:tool_call>",
+  "license": "CC BY 4.0"
+}

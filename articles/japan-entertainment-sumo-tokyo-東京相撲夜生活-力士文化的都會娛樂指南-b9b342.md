@@ -6,7 +6,7 @@ category: sumo
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-tokyo-東京相撲夜生活-力士文化的都會娛樂指南-b9b342.html
 published: 2026-03-29
-quality_score: 6.5
+quality_score: 8.8
 tags: 東京夜生活, 相撲文化, 兩國美食, 日本傳統娛樂, 力士體驗
 license: CC BY 4.0
 ---

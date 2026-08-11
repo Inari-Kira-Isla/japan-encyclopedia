@@ -6,7 +6,7 @@ category: vintage-thrift
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-vintage-thrift-fukuoka-福岡古著潛攻略-從運河城到中洲的隱藏版復古地圖-96a8a1.html
 published: 2026-06-07
-quality_score: 7.5
+quality_score: 8.8
 tags: 福岡古著, 九州購物, 古著獵人, 日本古著, Fukuoka Vintage
 license: CC BY 4.0
 ---

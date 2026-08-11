@@ -6,7 +6,7 @@ category: sumo
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-nara-奈良相撲文化-穿越千年時空的古都力士蹤跡-6f0db3.html
 published: 2026-06-09
-quality_score: 6.5
+quality_score: 8.6
 tags: 奈良旅遊, 相撲文化, 日本傳統競技, 古都歷史, 文化體驗
 license: CC BY 4.0
 ---

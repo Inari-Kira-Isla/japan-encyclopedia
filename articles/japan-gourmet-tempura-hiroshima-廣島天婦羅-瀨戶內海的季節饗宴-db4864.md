@@ -6,7 +6,7 @@ category: tempura
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tempura-hiroshima-廣島天婦羅-瀨戶內海的季節饗宴-db4864.html
 published: 2026-04-06
-quality_score: 6.5
+quality_score: 8.9
 tags: 廣島天婦羅, 瀨戶內海, 季節料理, 廣島美食, 日本天婦羅
 license: CC BY 4.0
 ---

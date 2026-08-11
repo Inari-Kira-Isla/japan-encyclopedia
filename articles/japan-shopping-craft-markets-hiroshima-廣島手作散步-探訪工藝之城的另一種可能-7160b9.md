@@ -6,7 +6,7 @@ category: craft-markets
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-craft-markets-hiroshima-廣島手作散步-探訪工藝之城的另一種可能-7160b9.html
 published: 2026-05-23
-quality_score: 7.5
+quality_score: 8.6
 tags: 廣島手作, 廣島工藝, 廣島購物, 廣島自由行, 日本工藝
 license: CC BY 4.0
 ---

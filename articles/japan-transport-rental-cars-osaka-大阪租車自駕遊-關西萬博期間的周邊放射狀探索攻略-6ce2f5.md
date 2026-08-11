@@ -6,7 +6,7 @@ category: rental-cars
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-osaka-大阪租車自駕遊-關西萬博期間的周邊放射狀探索攻略-6ce2f5.html
 published: 2026-06-30
-quality_score: 7.5
+quality_score: 8.5
 tags: 大阪租車, 關西自駕遊, 大阪世博2025, 關西周邊景點, 日本租車攻略
 license: CC BY 4.0
 ---

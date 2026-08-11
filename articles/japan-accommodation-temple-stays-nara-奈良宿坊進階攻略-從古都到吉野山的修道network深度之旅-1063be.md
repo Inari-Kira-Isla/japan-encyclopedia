@@ -6,7 +6,7 @@ category: temple-stays
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-temple-stays-nara-奈良宿坊進階攻略-從古都到吉野山的修道network深度之旅-1063be.html
 published: 2026-06-16
-quality_score: 6.5
+quality_score: 8.5
 tags: 奈良宿坊, 寺廟住宿, 修驗道, 吉野山, 古都禪修
 license: CC BY 4.0
 ---

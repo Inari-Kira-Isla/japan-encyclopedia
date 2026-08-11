@@ -6,7 +6,7 @@ category: onsen
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-onsen-fukuoka-福岡市區溫泉完整攻略-天神-博多的隱藏版錢湯與日歸溫泉-d92f4f.html
 published: 2026-05-21
-quality_score: 6.5
+quality_score: 8.8
 tags: 九州溫泉, 福岡錢湯, 博多的溫泉, 天神溫泉, 市區溫泉
 license: CC BY 4.0
 ---

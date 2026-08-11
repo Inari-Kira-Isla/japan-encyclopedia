@@ -6,7 +6,7 @@ category: vintage-thrift
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-vintage-thrift-osaka-沖繩手工商會省錢攻略-達人帶你挖寶琉球的低調好店-258fe1.html
 published: 2026-05-25
-quality_score: 7.5
+quality_score: 8.4
 tags: 沖繩手工商會, 沖繩自由行, 琉球工藝, 日本手作市集, 沖繩挖寶
 license: CC BY 4.0
 ---

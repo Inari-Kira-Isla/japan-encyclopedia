@@ -6,7 +6,7 @@ category: depachika
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-depachika-kanazawa-金澤-片町筋-日常指南-在地人的depachika生活提案-9e2857.html
 published: 2026-05-21
-quality_score: 6.5
+quality_score: 8.2
 tags: 金澤, Depachika, 片町筋, 加賀野菜, 日本海海鮮
 license: CC BY 4.0
 ---

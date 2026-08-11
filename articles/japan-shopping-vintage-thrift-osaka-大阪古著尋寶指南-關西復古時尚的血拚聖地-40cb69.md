@@ -6,7 +6,7 @@ category: vintage-thrift
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-vintage-thrift-osaka-大阪古著尋寶指南-關西復古時尚的血拚聖地-40cb69.html
 published: 2026-06-15
-quality_score: 7.5
+quality_score: 8.7
 tags: 大阪古著, 古著購物, 關西時尚, 復古單品, 血拚攻略
 license: CC BY 4.0
 ---

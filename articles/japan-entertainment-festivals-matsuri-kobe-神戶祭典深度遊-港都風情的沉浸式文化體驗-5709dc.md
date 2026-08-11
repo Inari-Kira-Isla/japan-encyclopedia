@@ -6,7 +6,7 @@ category: festivals-matsuri
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-festivals-matsuri-kobe-神戶祭典深度遊-港都風情的沉浸式文化體驗-5709dc.html
 published: 2026-06-05
-quality_score: 6.5
+quality_score: 8.8
 tags: 神戶祭典, 關西祭典 日本夏季祭典, Luminarie, 神戶夜景, 港都文化
 license: CC BY 4.0
 ---

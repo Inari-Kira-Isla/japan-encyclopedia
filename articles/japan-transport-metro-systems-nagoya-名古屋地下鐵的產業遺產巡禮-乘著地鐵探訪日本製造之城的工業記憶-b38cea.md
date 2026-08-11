@@ -6,7 +6,7 @@ category: metro-systems
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-nagoya-名古屋地下鐵的產業遺產巡禮-乘著地鐵探訪日本製造之城的工業記憶-b38cea.html
 published: 2026-06-19
-quality_score: 7.5
+quality_score: 8.6
 tags: 名古屋地下鐵, 產業遺產, 製造之城, 日本工業, 名古屋交通
 license: CC BY 4.0
 ---

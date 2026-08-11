@@ -6,7 +6,7 @@ category: day-trips
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-hokkaido-北海道一日遊完全指南-從札幌出發的經典周邊探索-29435c.html
 published: 2026-06-13
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道一日遊, 小樽, 積丹半島, 支笏湖, 洞爺湖
 license: CC BY 4.0
 ---

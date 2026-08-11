@@ -6,7 +6,7 @@ category: theme-parks
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-theme-parks-fukuoka-福岡療癒系樂園-遠離人潮的慢活主題體驗-ce0872.html
 published: 2026-06-02
-quality_score: 6.5
+quality_score: 8.8
 tags: 福岡主題樂園, 九州親子遊, 療癒系體驗, 日本主題樂園推薦, 福岡郊区景點
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: yakitori
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-yakitori-hiroshima-廣島燒鳥-非主流反而更好吃-在地達人的另類攻略-08738c-1782891362.html
 published: 2026-07-01
-quality_score: 6.5
+quality_score: 8.7
 tags: 廣島燒鳥, 廣島美食, 瀨戶內海, 日本燒烤, 廣島夜生活
 license: CC BY 4.0
 ---

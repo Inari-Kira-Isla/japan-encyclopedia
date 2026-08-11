@@ -6,7 +6,7 @@ category: okonomiyaki
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-okonomiyaki-nagoya-名古屋深夜御好燒-本地人的酒後美味尋寶地圖-bc5288.html
 published: 2026-05-24
-quality_score: 6.5
+quality_score: 8.7
 tags: 名古屋美食, 御好燒, 深夜食堂, 名古屋旅行, 日本鐵板料理
 license: CC BY 4.0
 ---

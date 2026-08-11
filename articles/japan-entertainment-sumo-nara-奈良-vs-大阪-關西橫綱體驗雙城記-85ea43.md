@@ -6,7 +6,7 @@ category: sumo
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-nara-奈良-vs-大阪-關西橫綱體驗雙城記-85ea43.html
 published: 2026-05-25
-quality_score: 6.5
+quality_score: 8.6
 tags: 關西相撲, 大阪自由行, 奈良深度遊, 相扑體驗, 日本傳統文化
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: nightlife
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-hiroshima-廣島夜生活-被低估的嶺南之光-年輕活力的夜遊寶藏-870575.html
 published: 2026-03-21
-quality_score: 6.5
+quality_score: 8.7
 tags: 廣島, 夜生活, 居酒屋, 日本旅遊, 美食體驗
 license: CC BY 4.0
 ---

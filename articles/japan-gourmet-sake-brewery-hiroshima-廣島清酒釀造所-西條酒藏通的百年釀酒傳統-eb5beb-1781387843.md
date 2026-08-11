@@ -6,7 +6,7 @@ category: sake-brewery
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sake-brewery-hiroshima-廣島清酒釀造所-西條酒藏通的百年釀酒傳統-eb5beb-1781387843.html
 published: 2026-06-13
-quality_score: 6.5
+quality_score: 8.8
 tags: 廣島, 清酒, 西條, 酒藏, 日本三大清酒產地
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: wagyu
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-wagyu-hiroshima-廣島和牛的發現之旅-超越知名品牌的價效比美食地圖-1f9553.html
 published: 2026-03-22
-quality_score: 6.5
+quality_score: 8.7
 tags: 廣島和牛, 性價比美食, 日本在地飲食, 烤肉, 食材批發市場
 license: CC BY 4.0
 ---

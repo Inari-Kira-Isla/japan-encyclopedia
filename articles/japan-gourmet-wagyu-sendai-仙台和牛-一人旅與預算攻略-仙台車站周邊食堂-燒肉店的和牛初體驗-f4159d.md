@@ -6,7 +6,7 @@ category: wagyu
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-wagyu-sendai-仙台和牛-一人旅與預算攻略-仙台車站周邊食堂-燒肉店的和牛初體驗-f4159d.html
 published: 2026-06-11
-quality_score: 6.5
+quality_score: 8.7
 tags: 仙台和牛, 仙台美食, 一人旅, 日本東北美食, 仙台車站周邊
 license: CC BY 4.0
 ---

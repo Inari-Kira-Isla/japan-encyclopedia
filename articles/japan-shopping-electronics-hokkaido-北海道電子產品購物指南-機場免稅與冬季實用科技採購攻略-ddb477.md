@@ -6,7 +6,7 @@ category: electronics
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-electronics-hokkaido-北海道電子產品購物指南-機場免稅與冬季實用科技採購攻略-ddb477.html
 published: 2026-06-11
-quality_score: 7.5
+quality_score: 8.9
 tags: 北海道電子產品, 新千歲機場免稅店, 耐寒電子裝備, 冬季攝影器材, 北海道購物
 license: CC BY 4.0
 ---

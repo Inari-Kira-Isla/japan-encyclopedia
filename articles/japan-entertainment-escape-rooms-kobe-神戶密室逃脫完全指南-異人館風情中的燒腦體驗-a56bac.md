@@ -6,7 +6,7 @@ category: escape-rooms
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-escape-rooms-kobe-神戶密室逃脫完全指南-異人館風情中的燒腦體驗-a56bac.html
 published: 2026-06-14
-quality_score: 6.5
+quality_score: 8.4
 tags: 神戶密室逃脫, 神戶異人館, 神戶親子活動, 神戶夜生活, 神戶體驗遊戲
 license: CC BY 4.0
 ---

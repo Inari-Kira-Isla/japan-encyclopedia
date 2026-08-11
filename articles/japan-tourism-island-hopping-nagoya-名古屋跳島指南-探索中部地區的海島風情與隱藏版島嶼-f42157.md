@@ -6,7 +6,7 @@ category: island-hopping
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-island-hopping-nagoya-名古屋跳島指南-探索中部地區的海島風情與隱藏版島嶼-f42157.html
 published: 2026-06-26
-quality_score: 6.5
+quality_score: 8.5
 tags: 名古屋跳島, 三河灣, 日間賀島, 佐久島, 伊良湖水道
 license: CC BY 4.0
 ---

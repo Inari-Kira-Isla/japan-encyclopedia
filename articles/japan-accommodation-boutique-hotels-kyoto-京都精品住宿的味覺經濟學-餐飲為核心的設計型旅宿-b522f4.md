@@ -6,7 +6,7 @@ category: boutique-hotels
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-kyoto-京都精品住宿的味覺經濟學-餐飲為核心的設計型旅宿-b522f4.html
 published: 2026-06-03
-quality_score: 6.5
+quality_score: 8.7
 tags: 京都精品飯店, 日本住宿, 京料理, 古都住宿, travel
 license: CC BY 4.0
 ---

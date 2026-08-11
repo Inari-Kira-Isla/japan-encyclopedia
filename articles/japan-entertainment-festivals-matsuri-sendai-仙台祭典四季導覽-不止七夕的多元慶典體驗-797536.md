@@ -6,7 +6,7 @@ category: festivals-matsuri
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-festivals-matsuri-sendai-仙台祭典四季導覽-不止七夕的多元慶典體驗-797536.html
 published: 2026-06-04
-quality_score: 6.5
+quality_score: 8.9
 tags: 仙台祭典, 日本東北, 七夕祭, 光之盛典, 青葉祭
 license: CC BY 4.0
 ---

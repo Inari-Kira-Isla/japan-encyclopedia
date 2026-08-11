@@ -6,7 +6,7 @@ category: business-hotels
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-business-hotels-osaka-大阪商務酒店鐵路沿線指南-如何根據行程選擇最佳住宿位置-d97c6d.html
 published: 2026-06-15
-quality_score: 6.5
+quality_score: 8.5
 tags: 大阪商務酒店, 關西住宿, 鐵路沿線住宿, 商務出差, 大阪站
 license: CC BY 4.0
 ---

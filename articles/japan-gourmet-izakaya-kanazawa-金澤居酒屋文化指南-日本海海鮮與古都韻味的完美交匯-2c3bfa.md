@@ -6,7 +6,7 @@ category: izakaya
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-izakaya-kanazawa-金澤居酒屋文化指南-日本海海鮮與古都韻味的完美交匯-2c3bfa.html
 published: 2026-03-21
-quality_score: 6.5
+quality_score: 8.5
 tags: 金澤, 居酒屋, 日本海海鮮, 加能蟹, 地酒
 license: CC BY 4.0
 ---

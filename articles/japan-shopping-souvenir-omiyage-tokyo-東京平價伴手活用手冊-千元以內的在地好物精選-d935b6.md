@@ -6,7 +6,7 @@ category: souvenir-omiyage
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-souvenir-omiyage-tokyo-東京平價伴手活用手冊-千元以內的在地好物精選-d935b6.html
 published: 2026-06-17
-quality_score: 7.5
+quality_score: 8.6
 tags: 東京伴手禮, 平價購物, 淺草, 上野, 谷中根津
 license: CC BY 4.0
 ---

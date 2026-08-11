@@ -6,7 +6,7 @@ category: department-stores
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-department-stores-sendai-仙台購物完全指南-探索東北都會的百貨公司文化-0683b3.html
 published: 2026-06-24
-quality_score: 7.5
+quality_score: 8.7
 tags: 仙台, 東北購物, 日本百货公司, 仙台伴手禮, 東北特產
 license: CC BY 4.0
 ---

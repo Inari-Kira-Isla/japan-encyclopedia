@@ -6,7 +6,7 @@ category: rental-cars
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-kyoto-關西機場自駕攻略-京都租車放射狀遊覽完全指南-49c6b1.html
 published: 2026-06-03
-quality_score: 7.5
+quality_score: 8.7
 tags: 京都租車, 關西自駕遊, 京都周邊, 放射性遊覽, 關西機場
 license: CC BY 4.0
 ---

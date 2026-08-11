@@ -6,7 +6,7 @@ category: island-hopping
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-island-hopping-nara-奈良-文化島嶼-漫遊-古都的巷弄散步與社寺巡禮-5ed3ba.html
 published: 2026-06-18
-quality_score: 6.5
+quality_score: 8.5
 tags: 奈良自由行, 日本古都漫遊, 關西深度旅遊, 奈良公園, 寺廟參拜
 license: CC BY 4.0
 ---

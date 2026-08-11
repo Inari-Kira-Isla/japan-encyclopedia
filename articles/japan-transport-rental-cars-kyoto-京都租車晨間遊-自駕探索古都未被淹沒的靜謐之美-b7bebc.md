@@ -6,7 +6,7 @@ category: rental-cars
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-kyoto-京都租車晨間遊-自駕探索古都未被淹沒的靜謐之美-b7bebc.html
 published: 2026-07-01
-quality_score: 7.5
+quality_score: 8.7
 tags: 京都租車, 京都自駕, 關西租車, 京都自由行, 晨間京都
 license: CC BY 4.0
 ---

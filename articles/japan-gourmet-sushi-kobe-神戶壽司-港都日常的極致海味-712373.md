@@ -6,7 +6,7 @@ category: sushi
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sushi-kobe-神戶壽司-港都日常的極致海味-712373.html
 published: 2026-06-25
-quality_score: 6.5
+quality_score: 8.7
 tags: 神戶壽司, 瀨戶內海, 神戶美食, 三宮, 米其林
 license: CC BY 4.0
 ---

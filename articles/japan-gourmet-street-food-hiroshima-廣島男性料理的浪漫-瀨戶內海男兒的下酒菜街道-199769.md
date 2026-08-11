@@ -6,7 +6,7 @@ category: street-food
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-street-food-hiroshima-廣島男性料理的浪漫-瀨戶內海男兒的下酒菜街道-199769.html
 published: 2026-06-20
-quality_score: 6.5
+quality_score: 8.7
 tags: 廣島, 街頭美食, 男性料理, 瀨戶內海, 牡蠣
 license: CC BY 4.0
 ---

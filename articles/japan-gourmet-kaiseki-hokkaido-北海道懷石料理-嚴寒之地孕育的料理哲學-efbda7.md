@@ -6,7 +6,7 @@ category: kaiseki
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-kaiseki-hokkaido-北海道懷石料理-嚴寒之地孕育的料理哲學-efbda7.html
 published: 2026-06-16
-quality_score: 6.5
+quality_score: 8.4
 tags: 北海道會席料理, 北海道美食, 札幌美食, 小樽美食, 日本料理
 license: CC BY 4.0
 ---

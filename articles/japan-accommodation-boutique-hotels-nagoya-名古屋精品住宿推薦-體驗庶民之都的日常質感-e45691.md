@@ -6,7 +6,7 @@ category: boutique-hotels
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-nagoya-名古屋精品住宿推薦-體驗庶民之都的日常質感-e45691.html
 published: 2026-05-31
-quality_score: 6.5
+quality_score: 8.7
 tags: 名古屋住宿, 精品飯店, Guest House, 中部國際機場, 名古屋美食
 license: CC BY 4.0
 ---

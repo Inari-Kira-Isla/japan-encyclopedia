@@ -6,7 +6,7 @@ category: depachika
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-depachika-kanazawa-金澤depachika的晨間美味-當地人買早餐的地下食堂-e518fe.html
 published: 2026-06-08
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤Depachika, 金澤美食, 金澤早餐, 近江町市場, 金澤伴手禮
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: minshuku
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-hokkaido-北海道民宿完全指南-漁港小鎮的人情味住宿體驗-bc130f.html
 published: 2026-06-10
-quality_score: 6.5
+quality_score: 8.3
 tags: 北海道民宿, 漁港小鎮, 海產美食, 道南, 道東
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: tempura
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tempura-nara-奈良天婦羅-關西食材產地的隱藏版炸物王國-91f062.html
 published: 2026-07-04
-quality_score: 6.5
+quality_score: 8.7
 tags: 奈良美食, 奈良天婦羅, 關西天婦羅, 日本炸物, 奈良旅遊
 license: CC BY 4.0
 ---

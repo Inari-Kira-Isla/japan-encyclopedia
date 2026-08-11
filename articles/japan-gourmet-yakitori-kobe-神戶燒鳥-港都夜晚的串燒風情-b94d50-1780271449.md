@@ -6,7 +6,7 @@ category: yakitori
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-yakitori-kobe-神戶燒鳥-港都夜晚的串燒風情-b94d50-1780271449.html
 published: 2026-05-31
-quality_score: 6.5
+quality_score: 8.7
 tags: 神戶燒鳥, 神戶美食, 神戶串燒, 港都美食, 瀨戶內海
 license: CC BY 4.0
 ---

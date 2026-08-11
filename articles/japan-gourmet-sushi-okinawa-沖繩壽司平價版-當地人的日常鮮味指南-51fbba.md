@@ -6,7 +6,7 @@ category: sushi
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sushi-okinawa-沖繩壽司平價版-當地人的日常鮮味指南-51fbba.html
 published: 2026-05-23
-quality_score: 6.5
+quality_score: 8.7
 tags: 沖繩壽司, 平價美食, 在地推薦, 沖繩自由行, 日本料理
 license: CC BY 4.0
 ---

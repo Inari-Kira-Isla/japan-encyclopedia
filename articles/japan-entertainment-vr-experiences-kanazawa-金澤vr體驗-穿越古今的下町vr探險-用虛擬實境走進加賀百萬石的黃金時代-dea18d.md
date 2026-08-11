@@ -6,7 +6,7 @@ category: vr-experiences
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-vr-experiences-kanazawa-金澤vr體驗-穿越古今的下町vr探險-用虛擬實境走進加賀百萬石的黃金時代-dea18d.html
 published: 2026-06-03
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤VR體驗, 石川縣旅遊, 加賀百萬石, 金澤深度旅遊, 日本古城VR
 license: CC BY 4.0
 ---

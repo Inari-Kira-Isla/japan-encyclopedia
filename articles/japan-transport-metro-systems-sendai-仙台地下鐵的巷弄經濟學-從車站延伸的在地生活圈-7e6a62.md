@@ -6,7 +6,7 @@ category: metro-systems
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-sendai-仙台地下鐵的巷弄經濟學-從車站延伸的在地生活圈-7e6a62.html
 published: 2026-06-27
-quality_score: 7.5
+quality_score: 8.7
 tags: 仙台地下鐵, 東北自助旅行, 仙台交通, 在地美食, 仙台自由行
 license: CC BY 4.0
 ---

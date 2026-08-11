@@ -6,7 +6,7 @@ category: historical-districts
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-sendai-仙台歷史街區-味覺時光機-江戶至今的甜味記憶與人情商店-b87744.html
 published: 2026-05-22
-quality_score: 6.5
+quality_score: 8.7
 tags: 仙台, 歷史街區, 美食導覽, 人情商店, 昭和氣氛
 license: CC BY 4.0
 ---

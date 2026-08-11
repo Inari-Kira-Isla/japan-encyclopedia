@@ -6,7 +6,7 @@ category: department-stores
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-department-stores-okinawa-沖繩海灘度假購物指南-濱海百貨與免稅精品的南國消費體驗-3a1021.html
 published: 2026-06-21
-quality_score: 7.5
+quality_score: 8.7
 tags: 沖繩購物, 海灘度假, 免稅購物, 沖繩百貨, 南國購物體驗
 license: CC BY 4.0
 ---

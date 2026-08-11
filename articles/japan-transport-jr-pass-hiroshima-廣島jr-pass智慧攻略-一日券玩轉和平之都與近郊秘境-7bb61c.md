@@ -6,7 +6,7 @@ category: jr-pass
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-jr-pass-hiroshima-廣島jr-pass智慧攻略-一日券玩轉和平之都與近郊秘境-7bb61c.html
 published: 2026-04-05
-quality_score: 7.5
+quality_score: 8.7
 tags: 廣島, JR Pass, 宮島, 交通攻略, 一日遊
 license: CC BY 4.0
 ---

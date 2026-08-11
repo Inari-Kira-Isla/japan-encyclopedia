@@ -6,7 +6,7 @@ category: tonkatsu
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tonkatsu-fukuoka-福岡豚-katsup-一人的食堂-九州的職人節奏-5c28d4.html
 published: 2026-06-08
-quality_score: 6.5
+quality_score: 8.7
 tags: 福岡, 炸豬排, 豚 Katsup, 一人旅, 九州美食
 license: CC BY 4.0
 ---

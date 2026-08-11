@@ -6,7 +6,7 @@ category: ski-resorts
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-ski-resorts-kanazawa-金澤滑雪場完全指南-新手也能輕鬆上手的北陸雪場攻略-5198d7.html
 published: 2026-04-11
-quality_score: 6.5
+quality_score: 8.5
 tags: 金澤, 滑雪, 北陸, 初學者, 交通攻略
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: street-food
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-street-food-hiroshima-廣島深夜食堂-和平紀念城市的下町人情味-eec978.html
 published: 2026-06-04
-quality_score: 6.5
+quality_score: 8.5
 tags: 广岛, 街头美食, お好み焼き, 瀨戶内海, 庶民料理
 license: CC BY 4.0
 ---

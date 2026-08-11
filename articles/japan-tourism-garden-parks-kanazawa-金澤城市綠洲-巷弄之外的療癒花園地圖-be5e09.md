@@ -6,7 +6,7 @@ category: garden-parks
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-kanazawa-金澤城市綠洲-巷弄之外的療癒花園地圖-be5e09.html
 published: 2026-07-04
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤花園, 金澤公園, 日本庭園, 自然觀察, 慢旅行
 license: CC BY 4.0
 ---

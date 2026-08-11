@@ -6,7 +6,7 @@ category: yakitori
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-yakitori-okinawa-沖繩的燒鳥-本地人帶路的串燒指南-1c49c3.html
 published: 2026-06-12
-quality_score: 6.5
+quality_score: 8.7
 tags: 沖繩美食, 燒鳥, 那霸, 美國村, 在地推薦
 license: CC BY 4.0
 ---

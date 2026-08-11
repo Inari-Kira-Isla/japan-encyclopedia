@@ -6,7 +6,7 @@ category: metro-systems
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-hokkaido-札幌地下鐵美食索引-沿線站的在地珍味尋味指南-49eb44.html
 published: 2026-06-26
-quality_score: 7.5
+quality_score: 8.8
 tags: 札幌地下鐵, 北海道美食, 南北線, 東豐線, 東西線
 license: CC BY 4.0
 ---

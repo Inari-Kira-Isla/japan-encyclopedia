@@ -6,7 +6,7 @@ category: sumo
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-nara-奈良相撲文化-穿越千年時空的力士歷史巡禮-03fd31.html
 published: 2026-06-12
-quality_score: 6.5
+quality_score: 8.5
 tags: 奈良相撲, 日本相撲歷史, 奈良文化旅遊, 古都歷史, 神社相撲儀式
 license: CC BY 4.0
 ---

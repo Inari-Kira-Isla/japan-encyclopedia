@@ -6,7 +6,7 @@ category: historical-districts
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-kanazawa-金澤歷史街區-晨昏之間的工藝之城-32b582.html
 published: 2026-06-29
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤, 歷史街區, 石川縣, 日本古城, 武家宅邸
 license: CC BY 4.0
 ---

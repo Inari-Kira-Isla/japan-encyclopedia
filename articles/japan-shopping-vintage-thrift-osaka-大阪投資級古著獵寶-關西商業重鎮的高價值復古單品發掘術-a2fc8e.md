@@ -6,7 +6,7 @@ category: vintage-thrift
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-vintage-thrift-osaka-大阪投資級古著獵寶-關西商業重鎮的高價值復古單品發掘術-a2fc8e.html
 published: 2026-03-29
-quality_score: 7.5
+quality_score: 8.8
 tags: 大阪古著, 投資收藏, 復古時尚, 奢侈品投資, 關西購物
 license: CC BY 4.0
 ---

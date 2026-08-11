@@ -6,7 +6,7 @@ category: cycling
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-kanazawa-金澤單車漫遊-晨曦中的古城巡禮-590ce9.html
 published: 2026-03-29
-quality_score: 7.5
+quality_score: 8.6
 tags: 金澤單車, 金澤自助, 金澤深度遊, 石川單車, 金澤城
 license: CC BY 4.0
 ---

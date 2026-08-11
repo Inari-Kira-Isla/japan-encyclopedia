@@ -6,7 +6,7 @@ category: love-hotels
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-love-hotels-nara-奈良住宿新選擇-世界遺產旁的隱密驛站-b4815f.html
 published: 2026-06-30
-quality_score: 6.5
+quality_score: 8.6
 tags: 奈良, 情侶旅館, 世界遺產, 住宿推薦, 日本旅遊
 license: CC BY 4.0
 ---

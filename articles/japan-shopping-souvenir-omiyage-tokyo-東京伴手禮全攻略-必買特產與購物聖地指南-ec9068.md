@@ -6,7 +6,7 @@ category: souvenir-omiyage
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-souvenir-omiyage-tokyo-東京伴手禮全攻略-必買特產與購物聖地指南-ec9068.html
 published: 2026-03-18
-quality_score: 7.5
+quality_score: 8.5
 tags: 東京伴手禮, 東京購物, 日本伴手禮, 東京車站, 淺草
 license: CC BY 4.0
 ---

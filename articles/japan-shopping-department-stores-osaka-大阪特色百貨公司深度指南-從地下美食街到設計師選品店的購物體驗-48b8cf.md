@@ -6,7 +6,7 @@ category: department-stores
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-department-stores-osaka-大阪特色百貨公司深度指南-從地下美食街到設計師選品店的購物體驗-48b8cf.html
 published: 2026-06-07
-quality_score: 7.5
+quality_score: 8.9
 tags: 大阪購物, 大阪百货公司, 關西購物, 大阪美食, 大阪伴手禮
 license: CC BY 4.0
 ---

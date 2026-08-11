@@ -6,7 +6,7 @@ category: department-stores
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-department-stores-nara-奈良購物指南-探索古都的質感百貨與伴手禮戰利品-9c8390.html
 published: 2026-06-02
-quality_score: 7.5
+quality_score: 8.6
 tags: 奈良, 日本購物, 百货公司, 伴手礼, 古都旅行
 license: CC BY 4.0
 ---

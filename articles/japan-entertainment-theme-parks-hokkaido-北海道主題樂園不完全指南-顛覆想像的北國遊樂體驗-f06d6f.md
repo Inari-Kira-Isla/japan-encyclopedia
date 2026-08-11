@@ -6,7 +6,7 @@ category: theme-parks
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-theme-parks-hokkaido-北海道主題樂園不完全指南-顛覆想像的北國遊樂體驗-f06d6f.html
 published: 2026-06-18
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道主題樂園, 北海道旅遊, 札幌景點, 冬季冰雪體驗, 北海道農業體驗
 license: CC BY 4.0
 ---

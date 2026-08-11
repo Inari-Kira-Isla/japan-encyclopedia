@@ -6,7 +6,7 @@ category: matcha-sweets
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-matcha-sweets-okinawa-沖繩抹茶甜品-琉球文化與和式甘味的融合之旅-681b3b.html
 published: 2026-06-12
-quality_score: 6.5
+quality_score: 8.6
 tags: 沖繩, 抹茶甜品, 琉球文化, 沖繩美食, 亞熱帶
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: temple-stays
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-temple-stays-nara-奈良宿坊修行記-遠離觀光人潮的深道之旅-a420f3.html
 published: 2026-06-26
-quality_score: 6.5
+quality_score: 8.5
 tags: 奈良宿坊, 寺院住宿, 修驗道場, 關西深度旅遊, 日本佛教文化
 license: CC BY 4.0
 ---

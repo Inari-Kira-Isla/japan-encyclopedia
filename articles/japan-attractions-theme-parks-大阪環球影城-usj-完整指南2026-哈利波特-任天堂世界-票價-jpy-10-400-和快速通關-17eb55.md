@@ -6,7 +6,7 @@ category: theme-parks
 area: japan
 url: https://japan-encyclopedia.vercel.app/articles/japan-attractions-theme-parks-大阪環球影城-usj-完整指南2026-哈利波特-任天堂世界-票價-jpy-10-400-和快速通關-17eb55.html
 published: 2026-05-04
-quality_score: 7.6
+quality_score: 8.5
 tags: 大阪環球影城, USJ, 任天堂世界, 哈利波特USJ, USJ票價
 license: CC BY 4.0
 ---

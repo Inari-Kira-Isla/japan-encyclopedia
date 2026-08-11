@@ -6,7 +6,7 @@ category: tonkatsu
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tonkatsu-okinawa-沖繩炸豬排-島嶼居民的日常食堂風景-c7f167.html
 published: 2026-05-22
-quality_score: 6.5
+quality_score: 8.6
 tags: 沖繩美食, 炸豬排, 縣民美食, 食堂, 沖繩自由行
 license: CC BY 4.0
 ---

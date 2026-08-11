@@ -6,7 +6,7 @@ category: historical-districts
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-nara-奈良歷史街區-從清晨到傍晚-解讀古都的日常脈動-100fef.html
 published: 2026-06-09
-quality_score: 6.5
+quality_score: 8.7
 tags: 奈良, 歷史街區, 古都散步, 深度旅遊, 日本文化體驗
 license: CC BY 4.0
 ---

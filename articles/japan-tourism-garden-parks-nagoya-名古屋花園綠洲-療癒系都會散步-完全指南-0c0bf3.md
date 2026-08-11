@@ -6,7 +6,7 @@ category: garden-parks
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-nagoya-名古屋花園綠洲-療癒系都會散步-完全指南-0c0bf3.html
 published: 2026-06-02
-quality_score: 6.5
+quality_score: 8.5
 tags: 名古屋, 花園公园, 都市绿洲, 散步, 疗癒景点
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: matcha-sweets
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-matcha-sweets-hokkaido-北海道抹茶甜點-車站限定與鐵道伴手禮的綠色風景-a4a256.html
 published: 2026-06-19
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道抹茶甜點, JR北海道, 車站伴手禮, 鐵道旅行, 札幌車站
 license: CC BY 4.0
 ---

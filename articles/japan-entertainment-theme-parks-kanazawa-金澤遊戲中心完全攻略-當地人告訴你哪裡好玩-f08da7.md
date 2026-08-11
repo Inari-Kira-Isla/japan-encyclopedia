@@ -6,7 +6,7 @@ category: theme-parks
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-theme-parks-kanazawa-金澤遊戲中心完全攻略-當地人告訴你哪裡好玩-f08da7.html
 published: 2026-06-14
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤主題樂園, 金澤遊戲中心, 金澤娛樂, 日本街機, 金澤自由行
 license: CC BY 4.0
 ---

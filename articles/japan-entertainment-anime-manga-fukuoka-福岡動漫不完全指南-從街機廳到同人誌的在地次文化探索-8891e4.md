@@ -6,7 +6,7 @@ category: anime-manga
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-fukuoka-福岡動漫不完全指南-從街機廳到同人誌的在地次文化探索-8891e4.html
 published: 2026-07-01
-quality_score: 6.5
+quality_score: 8.5
 tags: 福岡, 動漫, 日本九州, 遊戲中心, 同人誌
 license: CC BY 4.0
 ---

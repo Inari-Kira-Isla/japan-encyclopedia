@@ -6,7 +6,7 @@ category: metro-systems
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-osaka-2025大阪世博前哨-地鐵系統的蛻變與參觀動線最佳化-074d3b.html
 published: 2026-06-28
-quality_score: 7.5
+quality_score: 8.7
 tags: 大阪地下鐵,  Osaka Metro,  2025大阪世博,  關西交通,  大阪自由行
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: matcha-sweets
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-matcha-sweets-fukuoka-福岡抹茶甜品-深夜茶室的都市甜蜜革命-163817.html
 published: 2026-06-03
-quality_score: 6.5
+quality_score: 8.8
 tags: 福岡, 抹茶, 九州, 天神, 博多吃甜點
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: ferries
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-ferries-fukuoka-福岡渡輪完全指南-從博多港出發的海上冒險-4ff784.html
 published: 2026-03-15
-quality_score: 7.5
+quality_score: 8.5
 tags: 福岡交通, 博多港, 九州渡輪, 釜山渡輪, 對馬島
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: vintage-thrift
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-vintage-thrift-fukuoka-福岡女子古著散步地圖-天神以南的隱藏版質感小店-fd891d.html
 published: 2026-06-17
-quality_score: 7.5
+quality_score: 8.8
 tags: 福岡古著, 女子古著, 藥院, 警固, 古著散步
 license: CC BY 4.0
 ---

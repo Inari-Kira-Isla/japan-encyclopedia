@@ -6,7 +6,7 @@ category: electronics
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-electronics-kyoto-京都電子產品購物指南-學生族與預算導向的平價電子寶庫-f68cf2.html
 published: 2026-05-24
-quality_score: 7.5
+quality_score: 8.4
 tags: 京都電子產品, 京都購物, 日本電器, 京都自由行, 日本旅遊
 license: CC BY 4.0
 ---

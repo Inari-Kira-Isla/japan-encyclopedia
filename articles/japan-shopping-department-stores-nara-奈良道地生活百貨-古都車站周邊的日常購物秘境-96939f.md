@@ -6,7 +6,7 @@ category: department-stores
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-department-stores-nara-奈良道地生活百貨-古都車站周邊的日常購物秘境-96939f.html
 published: 2026-05-24
-quality_score: 7.5
+quality_score: 8.7
 tags: 
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: sumo
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-nagoya-名古屋相撲-工業之都的隱藏版力士體驗-31a744.html
 published: 2026-06-20
-quality_score: 6.5
+quality_score: 8.7
 tags: 名古屋相撲, 中部旅遊, 相撲體驗, 名古屋夜生活, 日本文化
 license: CC BY 4.0
 ---

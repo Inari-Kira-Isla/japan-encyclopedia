@@ -6,7 +6,7 @@ category: vr-experiences
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-vr-experiences-kobe-神戶溫泉vr-港都養生系虛擬實境療癒提案-f518e6.html
 published: 2026-05-21
-quality_score: 6.5
+quality_score: 8.7
 tags: 神戶VR體驗, 神戶溫泉VR, 神戶療癒之旅, 神戶SPA推薦, 關西VR休閒
 license: CC BY 4.0
 ---

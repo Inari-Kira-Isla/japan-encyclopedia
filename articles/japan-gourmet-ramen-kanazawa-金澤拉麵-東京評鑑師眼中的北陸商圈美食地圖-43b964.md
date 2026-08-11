@@ -6,7 +6,7 @@ category: ramen
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-ramen-kanazawa-金澤拉麵-東京評鑑師眼中的北陸商圈美食地圖-43b964.html
 published: 2026-03-26
-quality_score: 6.5
+quality_score: 8.5
 tags: 金澤美食, 北陸拉麵, 商圈美食, 日本海料理, 拉麵文化
 license: CC BY 4.0
 ---

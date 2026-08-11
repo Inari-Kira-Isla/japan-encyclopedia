@@ -6,7 +6,7 @@ category: castle-towns
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-castle-towns-osaka-京都伏見-走進豐臣秀吉的城下町-探訪千年釀酒老街-dbb620.html
 published: 2026-06-11
-quality_score: 6.5
+quality_score: 9.0
 tags: 京都, 伏見, 城下町, 歷史古蹟, 釀酒文化
 license: CC BY 4.0
 ---

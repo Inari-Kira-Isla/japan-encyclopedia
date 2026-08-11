@@ -6,7 +6,7 @@ category: cycling
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-sendai-仙台單車生活學-日常騎行的城市美學-2a87ba.html
 published: 2026-06-25
-quality_score: 7.5
+quality_score: 8.6
 tags: 仙台單車, 杜之都, 日常騎行, 東北單車, 城市單車
 license: CC BY 4.0
 ---

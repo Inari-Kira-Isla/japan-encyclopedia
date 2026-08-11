@@ -6,7 +6,7 @@ category: ferries
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-ferries-tokyo-東京渡輪交通-連線都心與海灣的水上通勤網-82cc39.html
 published: 2026-04-05
-quality_score: 7.5
+quality_score: 8.6
 tags: 東京交通, 渡輪, 水上巴士, 通勤, 東京灣
 license: CC BY 4.0
 ---

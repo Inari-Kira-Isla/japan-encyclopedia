@@ -6,7 +6,7 @@ category: cycling
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-okinawa-沖繩單車漫遊-跳島騎行探索亞熱帶島嶼的完整指南-d2262b.html
 published: 2026-05-24
-quality_score: 7.5
+quality_score: 8.6
 tags: 沖繩單車,  Okinawa Cycling, 沖繩跳島, 單車旅遊, 亞熱帶骑行
 license: CC BY 4.0
 ---

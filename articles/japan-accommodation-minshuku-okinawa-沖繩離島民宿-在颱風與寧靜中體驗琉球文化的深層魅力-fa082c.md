@@ -6,7 +6,7 @@ category: minshuku
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-okinawa-沖繩離島民宿-在颱風與寧靜中體驗琉球文化的深層魅力-fa082c.html
 published: 2026-04-04
-quality_score: 6.5
+quality_score: 8.6
 tags: 沖繩民宿, 離島住宿, 琉球文化, 颱風季旅遊, 深度旅行
 license: CC BY 4.0
 ---

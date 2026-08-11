@@ -6,7 +6,7 @@ category: street-food
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-street-food-kobe-神戶街頭美食-港都的-異國與本土交會的味覺散步-3c582d.html
 published: 2026-05-23
-quality_score: 6.5
+quality_score: 8.7
 tags: 神戶, 街頭美食, 南京町, 關西自助, 日本中華街
 license: CC BY 4.0
 ---

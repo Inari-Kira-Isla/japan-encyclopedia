@@ -6,7 +6,7 @@ category: vr-experiences
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-vr-experiences-sendai-仙台vr體驗-當科技遇見東北慢靈魂-虛實交錯的城市新娛樂-cb8170.html
 published: 2026-06-08
-quality_score: 6.5
+quality_score: 8.7
 tags: 仙台VR, 東北虛擬實境, 仙台娛樂, 日本VR體驗, 東北旅遊
 license: CC BY 4.0
 ---

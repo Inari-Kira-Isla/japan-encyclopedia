@@ -6,7 +6,7 @@ category: department-stores
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-department-stores-okinawa-沖繩國際旅客購物指南-免稅優惠與跨國血拚策略-cab133.html
 published: 2026-06-03
-quality_score: 7.5
+quality_score: 8.7
 tags: 沖繩購物, 免稅攻略, 國際旅客, 那霸市, 日本百貨
 license: CC BY 4.0
 ---

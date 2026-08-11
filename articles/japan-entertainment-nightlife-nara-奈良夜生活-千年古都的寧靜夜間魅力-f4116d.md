@@ -6,7 +6,7 @@ category: nightlife
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-nara-奈良夜生活-千年古都的寧靜夜間魅力-f4116d.html
 published: 2026-03-15
-quality_score: 6.5
+quality_score: 8.9
 tags: 奈良, 夜生活, 古都, 溫泉, 傳統文化
 license: CC BY 4.0
 ---

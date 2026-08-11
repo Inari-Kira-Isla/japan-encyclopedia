@@ -6,7 +6,7 @@ category: gaming-arcades
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-gaming-arcades-kanazawa-金澤遊戲中心完全攻略-旅人實用指南-5e0c81.html
 published: 2026-06-07
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤遊戲中心, 金澤娛樂, 北陸街機, 日本街機文化, 金澤自由行
 license: CC BY 4.0
 ---

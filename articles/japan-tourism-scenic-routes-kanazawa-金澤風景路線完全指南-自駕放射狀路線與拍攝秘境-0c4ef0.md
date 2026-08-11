@@ -6,7 +6,7 @@ category: scenic-routes
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-kanazawa-金澤風景路線完全指南-自駕放射狀路線與拍攝秘境-0c4ef0.html
 published: 2026-06-20
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤自駕路線, 石川縣觀光, 金澤海岸, 日本風景路線, 攝影秘境
 license: CC BY 4.0
 ---

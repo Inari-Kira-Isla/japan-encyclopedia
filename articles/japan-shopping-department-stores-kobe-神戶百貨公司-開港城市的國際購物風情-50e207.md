@@ -6,7 +6,7 @@ category: department-stores
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-department-stores-kobe-神戶百貨公司-開港城市的國際購物風情-50e207.html
 published: 2026-04-04
-quality_score: 7.5
+quality_score: 8.7
 tags: 神戶購物, 日本百貨公司, 國際化商場, 神戶美食, 關西旅遊
 license: CC BY 4.0
 ---

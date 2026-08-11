@@ -6,7 +6,7 @@ category: department-stores
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-department-stores-nara-奈良購物一分錢一分貨-古都質感選物店與價效比完全的逛街指南-74b8a7.html
 published: 2026-06-04
-quality_score: 7.5
+quality_score: 8.7
 tags: 奈良購物, 古都選物, 關西消費, 日本工藝品, 質感小店
 license: CC BY 4.0
 ---

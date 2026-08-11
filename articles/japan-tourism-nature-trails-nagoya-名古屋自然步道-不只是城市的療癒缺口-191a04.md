@@ -6,7 +6,7 @@ category: nature-trails
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-nagoya-名古屋自然步道-不只是城市的療癒缺口-191a04.html
 published: 2026-06-03
-quality_score: 6.5
+quality_score: 8.7
 tags: 名古屋自然步道, 名古屋登山, 名古屋自然漫步, 名古屋户外活动, 名古屋疗愈景点
 license: CC BY 4.0
 ---

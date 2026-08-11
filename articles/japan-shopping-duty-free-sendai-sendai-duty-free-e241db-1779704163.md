@@ -6,7 +6,7 @@ category: duty-free
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-duty-free-sendai-sendai-duty-free-e241db-1779704163.html
 published: 2026-05-25
-quality_score: 7.5
+quality_score: 8.6
 tags: duty-free, sendai, japan
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: craft-markets
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-craft-markets-osaka-大阪手風格工藝市場完全指南-在地選物與手作魅力的挖寶聖地-9ea847.html
 published: 2026-06-01
-quality_score: 7.5
+quality_score: 8.5
 tags: 大阪工藝市集, 手作市集, 大阪挖寶, 日本生活道具, 大阪自由行
 license: CC BY 4.0
 ---

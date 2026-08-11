@@ -6,7 +6,7 @@ category: metro-systems
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-kanazawa-金澤市電完全指南-小京都的路面交通美學-90d79c.html
 published: 2026-05-31
-quality_score: 7.5
+quality_score: 8.7
 tags: 金澤市電, 金澤交通, 石川縣, 路面電車, 日本鐵道
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: vr-experiences
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-vr-experiences-tokyo-東京vr體驗-虛實交錯的超時空娛樂探險-6aeba6.html
 published: 2026-06-03
-quality_score: 6.5
+quality_score: 7.9
 tags: 東京VR, 虛擬實境, 東京娛樂, 秋葉原VR, 台場VR
 license: CC BY 4.0
 ---

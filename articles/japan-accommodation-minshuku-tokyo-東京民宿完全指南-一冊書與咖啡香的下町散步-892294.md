@@ -6,7 +6,7 @@ category: minshuku
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-tokyo-東京民宿完全指南-一冊書與咖啡香的下町散步-892294.html
 published: 2026-06-04
-quality_score: 6.5
+quality_score: 8.6
 tags: 東京民宿, minshuku, 下町住宿, 東京自由行, 日和式旅宿
 license: CC BY 4.0
 ---

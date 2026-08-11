@@ -6,7 +6,7 @@ category: buses
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-buses-nagoya-名古屋巴士活用術-2025大阪世博期間的明智交通選擇-d9b417.html
 published: 2026-06-30
-quality_score: 7.5
+quality_score: 8.7
 tags: 名古屋巴士, 名古屋交通, 中部地區, 2025大阪世博, 名古屋自由行
 license: CC BY 4.0
 ---

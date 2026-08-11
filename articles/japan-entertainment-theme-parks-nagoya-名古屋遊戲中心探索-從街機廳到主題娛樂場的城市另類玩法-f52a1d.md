@@ -6,7 +6,7 @@ category: theme-parks
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-theme-parks-nagoya-名古屋遊戲中心探索-從街機廳到主題娛樂場的城市另類玩法-f52a1d.html
 published: 2026-05-24
-quality_score: 6.5
+quality_score: 8.6
 tags: 名古屋娱乐, 游戏中心, 日本旅游, 名古屋景点, 室内活動
 license: CC BY 4.0
 ---

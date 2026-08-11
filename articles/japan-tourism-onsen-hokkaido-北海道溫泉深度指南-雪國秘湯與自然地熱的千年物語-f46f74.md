@@ -6,7 +6,7 @@ category: onsen
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-onsen-hokkaido-北海道溫泉深度指南-雪國秘湯與自然地熱的千年物語-f46f74.html
 published: 2026-06-23
-quality_score: 6.5
+quality_score: 8.4
 tags: 北海道溫泉, 登別溫泉, 洞爺湖溫泉, 秘湯, 硫磺泉
 license: CC BY 4.0
 ---

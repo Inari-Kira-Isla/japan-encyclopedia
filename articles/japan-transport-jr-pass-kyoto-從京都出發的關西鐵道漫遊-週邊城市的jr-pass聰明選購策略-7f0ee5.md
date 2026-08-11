@@ -6,7 +6,7 @@ category: jr-pass
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-jr-pass-kyoto-從京都出發的關西鐵道漫遊-週邊城市的jr-pass聰明選購策略-7f0ee5.html
 published: 2026-06-15
-quality_score: 7.5
+quality_score: 8.5
 tags: 關西鐵道, JR Pass選購, 京都旅遊, 奈良公園, 姬路城
 license: CC BY 4.0
 ---

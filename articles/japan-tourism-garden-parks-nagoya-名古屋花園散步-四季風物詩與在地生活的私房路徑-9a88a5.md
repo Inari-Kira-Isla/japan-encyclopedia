@@ -6,7 +6,7 @@ category: garden-parks
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-nagoya-名古屋花園散步-四季風物詩與在地生活的私房路徑-9a88a5.html
 published: 2026-06-17
-quality_score: 6.5
+quality_score: 8.7
 tags: 名古屋, 花園, 公園, 賞櫻, 日本庭園
 license: CC BY 4.0
 ---

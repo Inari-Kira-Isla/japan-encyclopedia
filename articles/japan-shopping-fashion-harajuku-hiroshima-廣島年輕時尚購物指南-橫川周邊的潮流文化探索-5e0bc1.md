@@ -6,7 +6,7 @@ category: fashion-harajuku
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-fashion-harajuku-hiroshima-廣島年輕時尚購物指南-橫川周邊的潮流文化探索-5e0bc1.html
 published: 2026-06-16
-quality_score: 7.5
+quality_score: 8.7
 tags: 廣島購物, 日本年輕時尚, 廣島自由行, 潮流文化, 二線城市購物
 license: CC BY 4.0
 ---

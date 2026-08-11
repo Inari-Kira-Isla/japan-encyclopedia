@@ -6,7 +6,7 @@ category: island-hopping
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-island-hopping-hokkaido-北海道跳島之旅-探訪日本最北端的國境島嶼-406681.html
 published: 2026-06-03
-quality_score: 6.5
+quality_score: 8.9
 tags: 北海道, 跳島, 利上流, 礼文岛, 燒握住
 license: CC BY 4.0
 ---

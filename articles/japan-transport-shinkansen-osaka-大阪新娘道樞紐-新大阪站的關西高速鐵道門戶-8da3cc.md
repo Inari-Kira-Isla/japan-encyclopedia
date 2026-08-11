@@ -6,7 +6,7 @@ category: shinkansen
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-osaka-大阪新娘道樞紐-新大阪站的關西高速鐵道門戶-8da3cc.html
 published: 2026-05-22
-quality_score: 7.5
+quality_score: 8.7
 tags: 大阪, 新娘道, 交通, 關西, 新大阪站
 license: CC BY 4.0
 ---

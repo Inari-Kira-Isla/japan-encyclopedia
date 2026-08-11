@@ -6,7 +6,7 @@ category: karaoke
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-karaoke-okinawa-沖繩平價卡拉ok-旅途省錢歡唱的在地選擇-3eece2.html
 published: 2026-05-24
-quality_score: 6.5
+quality_score: 8.9
 tags: 沖繩卡拉OK, 平價娛樂, 省錢自由行,  Okinawa, 那霸夜生活
 license: CC BY 4.0
 ---

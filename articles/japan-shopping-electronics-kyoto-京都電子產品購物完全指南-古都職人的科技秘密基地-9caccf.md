@@ -6,7 +6,7 @@ category: electronics
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-electronics-kyoto-京都電子產品購物完全指南-古都職人的科技秘密基地-9caccf.html
 published: 2026-06-25
-quality_score: 7.5
+quality_score: 8.9
 tags: 京都電子產品, 職人工具, 京都購物, 日本電器, 傳統工藝設備
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: shinkansen
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-fukuoka-九州玄關-博多駅與山陽新幹線的實用指南-0b5e86.html
 published: 2026-06-28
-quality_score: 7.5
+quality_score: 8.5
 tags: 九州, 博多駅, 山陽新幹線, 日本鐵路, 福岡交通
 license: CC BY 4.0
 ---

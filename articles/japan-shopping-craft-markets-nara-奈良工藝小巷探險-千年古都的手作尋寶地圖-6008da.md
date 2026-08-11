@@ -6,7 +6,7 @@ category: craft-markets
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-craft-markets-nara-奈良工藝小巷探險-千年古都的手作尋寶地圖-6008da.html
 published: 2026-06-16
-quality_score: 7.5
+quality_score: 8.8
 tags: 奈良工藝, 手作市集, 蚊帳織, 日本購物, 奈良伴手禮
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: nature-trails
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-osaka-大阪自然步道時態攻略-依四季選擇適合你的山林型別-8951db.html
 published: 2026-06-20
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪自然步道, 大阪登山, 大阪戶外, 關西自然體驗, 大阪春季
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: onsen
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-onsen-kobe-神戶溫泉指南-港都與山間的雙重療癒體驗-ff8b67.html
 published: 2026-04-06
-quality_score: 6.5
+quality_score: 8.7
 tags: 神戶溫泉, 有馬溫泉, 六甲山, 日本溫泉, 關西旅遊
 license: CC BY 4.0
 ---

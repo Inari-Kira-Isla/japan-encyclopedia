@@ -6,7 +6,7 @@ category: island-hopping
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-island-hopping-hiroshima-廣島跳島深度遊-瀨戶內海藝術島嶼與在地漁村的慢活美學-c16657.html
 published: 2026-06-16
-quality_score: 6.5
+quality_score: 8.6
 tags: 廣島跳島, 瀨戶內海, 直島藝術, 宮島嚴島神社, 日本跳島旅遊
 license: CC BY 4.0
 ---

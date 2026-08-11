@@ -6,7 +6,7 @@ category: izakaya
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-izakaya-hiroshima-廣島居酒屋季節巡禮-從冬季牡蠣到夏日穴子的在地飲食文化-33f0e1.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 廣島居酒屋, 季節美食, 牡蠣料理, 穴子, 瀨戶內海
 license: CC BY 4.0
 ---

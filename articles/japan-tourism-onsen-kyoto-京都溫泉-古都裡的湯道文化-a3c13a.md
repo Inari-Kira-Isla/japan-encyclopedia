@@ -6,7 +6,7 @@ category: onsen
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-onsen-kyoto-京都溫泉-古都裡的湯道文化-a3c13a.html
 published: 2026-06-06
-quality_score: 6.5
+quality_score: 8.4
 tags: 京都溫泉, 關西溫泉, 有馬溫泉, 嵐山溫泉, 錢湯
 license: CC BY 4.0
 ---

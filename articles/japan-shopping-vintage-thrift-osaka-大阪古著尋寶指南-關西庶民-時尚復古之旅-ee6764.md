@@ -6,7 +6,7 @@ category: vintage-thrift
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-vintage-thrift-osaka-大阪古著尋寶指南-關西庶民-時尚復古之旅-ee6764.html
 published: 2026-06-01
-quality_score: 7.5
+quality_score: 8.8
 tags: 大阪古著, 美國村, 心齋橋古著, 日本二手衣, 關西購物
 license: CC BY 4.0
 ---

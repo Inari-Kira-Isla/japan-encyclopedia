@@ -6,7 +6,7 @@ category: cycling
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-osaka-大阪單車這樣騎-在地人私藏的河岸與港灣路線-dfba43.html
 published: 2026-06-01
-quality_score: 7.5
+quality_score: 8.3
 tags: 大阪單車, 大阪自助, 大阪自由行, 河岸骑行,  Osaka Cycling
 license: CC BY 4.0
 ---

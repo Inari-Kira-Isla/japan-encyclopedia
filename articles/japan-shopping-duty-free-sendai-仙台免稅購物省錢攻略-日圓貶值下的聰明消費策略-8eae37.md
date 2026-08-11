@@ -6,7 +6,7 @@ category: duty-free
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-duty-free-sendai-仙台免稅購物省錢攻略-日圓貶值下的聰明消費策略-8eae37.html
 published: 2026-04-06
-quality_score: 7.5
+quality_score: 8.7
 tags: 仙台購物, 免稅店, 省錢攻略, 東北限定, 日圓貶值
 license: CC BY 4.0
 ---

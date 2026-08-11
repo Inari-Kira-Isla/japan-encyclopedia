@@ -6,7 +6,7 @@ category: escape-rooms
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-escape-rooms-okinawa-沖繩密室逃脫-結合琉球王國歷史的燒腦體驗推薦-0bc62d.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 8.9
 tags: 沖繩旅遊, 密室逃脫, 那霸市區, 推理遊戲, 琉球文化
 license: CC BY 4.0
 ---

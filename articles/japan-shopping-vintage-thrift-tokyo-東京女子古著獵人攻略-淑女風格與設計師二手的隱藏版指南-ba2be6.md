@@ -6,7 +6,7 @@ category: vintage-thrift
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-vintage-thrift-tokyo-東京女子古著獵人攻略-淑女風格與設計師二手的隱藏版指南-ba2be6.html
 published: 2026-06-30
-quality_score: 7.5
+quality_score: 8.7
 tags: 東京古著, 女子古著, 代官山, 中目黑, 表參道
 license: CC BY 4.0
 ---

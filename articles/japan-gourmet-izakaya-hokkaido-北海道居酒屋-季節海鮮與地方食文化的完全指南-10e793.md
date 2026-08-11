@@ -6,7 +6,7 @@ category: izakaya
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-izakaya-hokkaido-北海道居酒屋-季節海鮮與地方食文化的完全指南-10e793.html
 published: 2026-03-21
-quality_score: 6.5
+quality_score: 8.5
 tags: 北海道, 居酒屋, 海鮮, 日本美食, 季節食材
 license: CC BY 4.0
 ---

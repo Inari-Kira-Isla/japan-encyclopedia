@@ -6,7 +6,7 @@ category: anime-manga
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-hiroshima-廣島動漫聖地巡禮-動漫迷的購物天堂與隱藏版攻略-40f2c5.html
 published: 2026-03-20
-quality_score: 6.5
+quality_score: 8.7
 tags: 廣島動漫, 廣島動漫漫畫, 日本動漫購物, 本通商圈, Animate Hiroshima
 license: CC BY 4.0
 ---

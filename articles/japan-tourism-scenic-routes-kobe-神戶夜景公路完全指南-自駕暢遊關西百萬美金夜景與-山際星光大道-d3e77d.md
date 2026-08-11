@@ -6,7 +6,7 @@ category: scenic-routes
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-kobe-神戶夜景公路完全指南-自駕暢遊關西百萬美金夜景與-山際星光大道-d3e77d.html
 published: 2026-05-23
-quality_score: 6.5
+quality_score: 8.7
 tags: 神戶夜景, 六甲山自駕, 夜景公路, 有馬溫泉, 關西夜景
 license: CC BY 4.0
 ---

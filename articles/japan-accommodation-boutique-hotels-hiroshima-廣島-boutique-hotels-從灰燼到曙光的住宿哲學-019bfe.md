@@ -6,7 +6,7 @@ category: boutique-hotels
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-hiroshima-廣島-boutique-hotels-從灰燼到曙光的住宿哲學-019bfe.html
 published: 2026-06-19
-quality_score: 6.5
+quality_score: 8.4
 tags: 廣島精品酒店, 廣島住宿推薦, 和平紀念城市, 瀨戶內海, 宮島住宿
 license: CC BY 4.0
 ---

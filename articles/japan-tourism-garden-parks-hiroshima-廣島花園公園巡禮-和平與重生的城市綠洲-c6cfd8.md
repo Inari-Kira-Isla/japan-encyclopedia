@@ -6,7 +6,7 @@ category: garden-parks
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-hiroshima-廣島花園公園巡禮-和平與重生的城市綠洲-c6cfd8.html
 published: 2026-06-21
-quality_score: 6.5
+quality_score: 8.7
 tags: 廣島花園, 和平紀念, 日本公園, 春季賞櫻, 廣島旅遊
 license: CC BY 4.0
 ---

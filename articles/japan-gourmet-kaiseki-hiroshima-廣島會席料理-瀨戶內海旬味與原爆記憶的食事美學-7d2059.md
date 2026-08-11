@@ -6,7 +6,7 @@ category: kaiseki
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-kaiseki-hiroshima-廣島會席料理-瀨戶內海旬味與原爆記憶的食事美學-7d2059.html
 published: 2026-06-19
-quality_score: 6.5
+quality_score: 8.8
 tags: 廣島會席, 瀨戶內海料理, 日本料理, 廣島美食, 牡蠣料理
 license: CC BY 4.0
 ---

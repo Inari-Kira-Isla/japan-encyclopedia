@@ -6,7 +6,7 @@ category: matcha-sweets
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-matcha-sweets-tokyo-東京早晨抹茶甜點-的不是甜點-是生活的儀式感-ef11b2.html
 published: 2026-05-24
-quality_score: 6.5
+quality_score: 8.6
 tags: 東京抹茶甜點, 東京美食, 抹茶早餐, tokyo matcha, 東京咖啡店
 license: CC BY 4.0
 ---

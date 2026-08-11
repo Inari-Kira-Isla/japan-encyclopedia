@@ -6,7 +6,7 @@ category: day-trips
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-osaka-大阪周邊天際線-從港灣夜景到山稜展望的關西登高眺遠之旅-0514fb.html
 published: 2026-05-23
-quality_score: 6.5
+quality_score: 8.6
 tags: 大阪一日遊, 關西登高, 箕面瀑布, 六甲山, 姬路城
 license: CC BY 4.0
 ---

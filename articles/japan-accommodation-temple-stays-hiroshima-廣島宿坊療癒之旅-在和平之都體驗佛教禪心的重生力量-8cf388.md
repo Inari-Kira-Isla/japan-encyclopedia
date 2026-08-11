@@ -6,7 +6,7 @@ category: temple-stays
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-temple-stays-hiroshima-廣島宿坊療癒之旅-在和平之都體驗佛教禪心的重生力量-8cf388.html
 published: 2026-06-21
-quality_score: 6.5
+quality_score: 8.4
 tags: 廣島寺廟住宿, 宿坊體驗, 廣島和平, 佛教禪修, 宮島住宿
 license: CC BY 4.0
 ---

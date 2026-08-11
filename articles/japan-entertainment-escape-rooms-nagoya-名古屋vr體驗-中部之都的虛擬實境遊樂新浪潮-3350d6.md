@@ -6,7 +6,7 @@ category: escape-rooms
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-escape-rooms-nagoya-名古屋vr體驗-中部之都的虛擬實境遊樂新浪潮-3350d6.html
 published: 2026-06-04
-quality_score: 6.5
+quality_score: 8.6
 tags: 名古屋VR體驗, 中部娛樂, 名古屋自由行, VR體驗推薦, 名古屋親子遊
 license: CC BY 4.0
 ---

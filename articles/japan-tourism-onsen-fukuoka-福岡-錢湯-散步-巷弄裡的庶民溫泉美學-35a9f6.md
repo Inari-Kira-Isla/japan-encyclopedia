@@ -6,7 +6,7 @@ category: onsen
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-onsen-fukuoka-福岡-錢湯-散步-巷弄裡的庶民溫泉美學-35a9f6.html
 published: 2026-05-23
-quality_score: 6.5
+quality_score: 8.7
 tags: 福岡錢湯, 九州溫泉, 日本公共浴池, 福岡自由行, 庶民溫泉體驗
 license: CC BY 4.0
 ---

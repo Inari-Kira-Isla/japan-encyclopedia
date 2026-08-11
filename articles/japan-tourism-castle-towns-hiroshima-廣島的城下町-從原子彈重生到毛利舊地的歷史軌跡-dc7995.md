@@ -6,7 +6,7 @@ category: castle-towns
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-castle-towns-hiroshima-廣島的城下町-從原子彈重生到毛利舊地的歷史軌跡-dc7995.html
 published: 2026-06-06
-quality_score: 6.5
+quality_score: 8.7
 tags: 廣島城下町, 毛利氏, 廣島和平紀念公園, 廣島城, 日本城堡
 license: CC BY 4.0
 ---

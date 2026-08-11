@@ -6,7 +6,7 @@ category: garden-parks
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-nara-奈良古典庭園-和歌與王朝文學的風景-c2166c.html
 published: 2026-06-09
-quality_score: 6.5
+quality_score: 8.8
 tags: 奈良庭園, 古典文學, 和歌, 平安時代, 日本庭園
 license: CC BY 4.0
 ---

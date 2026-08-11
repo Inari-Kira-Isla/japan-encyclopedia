@@ -6,7 +6,7 @@ category: airport-transfer
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-airport-transfer-fukuoka-福岡機場交通-達人帶路-5種特色機場接送服務推薦-091c1e.html
 published: 2026-06-14
-quality_score: 7.5
+quality_score: 8.7
 tags: 福岡空港, 機場交通, 九州自由行, 福岡機場接送, 博多車站
 license: CC BY 4.0
 ---

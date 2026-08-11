@@ -6,7 +6,7 @@ category: love-hotels
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-love-hotels-kyoto-京都love-hotels完全指南-外國遊客的預約策略與文化須知-d84a42.html
 published: 2026-07-04
-quality_score: 6.5
+quality_score: 8.7
 tags: 
 license: CC BY 4.0
 ---

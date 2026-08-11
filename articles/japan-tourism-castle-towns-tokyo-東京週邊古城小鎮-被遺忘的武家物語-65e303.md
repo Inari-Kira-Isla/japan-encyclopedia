@@ -6,7 +6,7 @@ category: castle-towns
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-castle-towns-tokyo-東京週邊古城小鎮-被遺忘的武家物語-65e303.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京自由行, 城下町, 川越, 小田原, 古河
 license: CC BY 4.0
 ---

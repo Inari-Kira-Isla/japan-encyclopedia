@@ -6,7 +6,7 @@ category: duty-free
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-duty-free-hokkaido-北海道鐵道沿線免稅購物-串聯車站與溫泉區的隱藏版免稅攻略-3ba25f.html
 published: 2026-06-09
-quality_score: 7.5
+quality_score: 8.6
 tags: 北海道免稅購物, JR鐵道之旅, 札幌免稅, 小樽購物, 登別溫泉
 license: CC BY 4.0
 ---

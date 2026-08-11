@@ -6,7 +6,7 @@ category: airport-transfer
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-airport-transfer-kanazawa-金澤機場交通完全指南-藝術文化旅人的石川縣移動方案-4d4538.html
 published: 2026-06-13
-quality_score: 7.5
+quality_score: 8.6
 tags: 金澤機場, 石川縣, 機場交通, 小京都, 藝術之旅
 license: CC BY 4.0
 ---

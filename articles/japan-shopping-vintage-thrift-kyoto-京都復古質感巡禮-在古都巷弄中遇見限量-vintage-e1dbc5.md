@@ -6,7 +6,7 @@ category: vintage-thrift
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-vintage-thrift-kyoto-京都復古質感巡禮-在古都巷弄中遇見限量-vintage-e1dbc5.html
 published: 2026-06-18
-quality_score: 7.5
+quality_score: 8.6
 tags: 京都古著, 京都復古, 京都二手店, 京都購物, 祇園古著
 license: CC BY 4.0
 ---

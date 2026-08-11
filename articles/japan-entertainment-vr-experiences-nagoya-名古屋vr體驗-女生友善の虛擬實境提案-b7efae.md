@@ -6,7 +6,7 @@ category: vr-experiences
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-vr-experiences-nagoya-名古屋vr體驗-女生友善の虛擬實境提案-b7efae.html
 published: 2026-05-21
-quality_score: 6.5
+quality_score: 8.1
 tags: 名古屋VR, 名古屋體驗, 名古屋娛樂, 女性友善, 虛擬實境
 license: CC BY 4.0
 ---

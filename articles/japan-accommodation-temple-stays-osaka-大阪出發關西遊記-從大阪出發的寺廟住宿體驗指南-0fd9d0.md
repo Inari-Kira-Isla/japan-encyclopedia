@@ -6,7 +6,7 @@ category: temple-stays
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-temple-stays-osaka-大阪出發關西遊記-從大阪出發的寺廟住宿體驗指南-0fd9d0.html
 published: 2026-05-22
-quality_score: 6.5
+quality_score: 8.5
 tags: 大阪寺廟住宿, 關西寺廟體驗, 高野山宿坊, 吉野山寺廟, 大阪近郊寺廟
 license: CC BY 4.0
 ---

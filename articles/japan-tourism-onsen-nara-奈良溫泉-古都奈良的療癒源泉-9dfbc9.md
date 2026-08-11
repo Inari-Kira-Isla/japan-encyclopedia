@@ -6,7 +6,7 @@ category: onsen
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-onsen-nara-奈良溫泉-古都奈良的療癒源泉-9dfbc9.html
 published: 2026-06-09
-quality_score: 6.5
+quality_score: 8.6
 tags: 奈良溫泉, 古都溫泉, 奈良溫泉推薦, 藥師寺溫泉, 吉野溫泉
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: day-trips
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-sendai-仙台美食一日遊-牛舌-毛豆與芋煮的味覺地圖-1bfc21.html
 published: 2026-07-02
-quality_score: 6.5
+quality_score: 8.7
 tags: 仙台美食, 牛舌, 毛豆, 芋煮, 日本東北
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: capsule-hotels
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-capsule-hotels-okinawa-沖繩膠囊旅館文化探索-海島生活方式下的現代住宿革新-e1543e.html
 published: 2026-03-27
-quality_score: 6.5
+quality_score: 8.7
 tags: 沖繩住宿, 膠囊旅館, 海島文化, 琉球體驗, 預算旅行
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: minshuku
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-osaka-大阪民宿指南-女性旅行者專屬的安全港灣與社群體驗-7207d1.html
 published: 2026-04-02
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪民宿, 女性旅行, 日本住宿, minshuku, 大阪自由行
 license: CC BY 4.0
 ---

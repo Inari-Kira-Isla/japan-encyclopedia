@@ -6,7 +6,7 @@ category: tempura
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tempura-nara-奈良周邊天婦羅-古都周遊的美味發現-494138.html
 published: 2026-06-06
-quality_score: 6.5
+quality_score: 8.6
 tags: 奈良美食, 關西天婦羅, 大阪天婦羅, 京都料理, 奈良周邊
 license: CC BY 4.0
 ---

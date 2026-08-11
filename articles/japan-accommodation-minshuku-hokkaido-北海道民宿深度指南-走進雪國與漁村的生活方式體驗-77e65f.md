@@ -6,7 +6,7 @@ category: minshuku
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-hokkaido-北海道民宿深度指南-走進雪國與漁村的生活方式體驗-77e65f.html
 published: 2026-04-02
-quality_score: 6.5
+quality_score: 8.3
 tags: 北海道, 民宿,  minshuku, 日本住宿, 深度旅行
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: sake-brewery
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sake-brewery-hokkaido-北海道清酒釀造所-雪國釀酒的美學與在地體驗-ac01c4.html
 published: 2026-06-19
-quality_score: 6.5
+quality_score: 8.6
 tags: 北海道, 清酒, 釀造所, 小樽, 旭川
 license: CC BY 4.0
 ---

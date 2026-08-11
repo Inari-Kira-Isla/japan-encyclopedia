@@ -6,7 +6,7 @@ category: electronics
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-electronics-nagoya-名古屋電子產品購物指南-中部地區的科技消費天堂-9d1fbd.html
 published: 2026-03-15
-quality_score: 7.5
+quality_score: 8.7
 tags: 名古屋購物, 電子產品, 日本消費, 科技產品, 大須商店街
 license: CC BY 4.0
 ---

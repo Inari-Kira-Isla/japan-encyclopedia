@@ -6,7 +6,7 @@ category: garden-parks
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-nara-奈良庭園散步-古都綠意的隱藏瑰寶-22c4b8.html
 published: 2026-03-25
-quality_score: 6.5
+quality_score: 8.8
 tags: 奈良庭園, 古都漫遊, 日本世界遺產, 回遊式庭園, 關西深度旅遊
 license: CC BY 4.0
 ---

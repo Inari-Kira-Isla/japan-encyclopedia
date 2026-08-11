@@ -6,7 +6,7 @@ category: airport-transfer
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-airport-transfer-kyoto-京都機場接駁深夜早班機攻略-關西機場往返京都的時段策略-2016a9.html
 published: 2026-04-04
-quality_score: 7.5
+quality_score: 8.5
 tags: 京都交通, 關西機場, 深夜班機, 機場接駁, 早班機攻略
 license: CC BY 4.0
 ---

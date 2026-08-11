@@ -6,7 +6,7 @@ category: ferries
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-ferries-sendai-仙台渡輪交通網-連線本土與離島的海上生命線-5ae109.html
 published: 2026-04-05
-quality_score: 7.5
+quality_score: 8.6
 tags: 仙台, 渡輪, 離島交通, 東北, 鹽竃港
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: sumo
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-osaka-大阪相撲娛樂體驗-從觀戰到親身上陣的力士樂園-8a0781.html
 published: 2026-03-28
-quality_score: 6.5
+quality_score: 8.9
 tags: 大阪, 相撲, 體驗活動, 主題餐廳, 娛樂文化
 license: CC BY 4.0
 ---

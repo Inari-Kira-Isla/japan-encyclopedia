@@ -6,7 +6,7 @@ category: theme-parks
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-theme-parks-hokkaido-北海道主題樂園另類指南-雪國限定的四季歡樂體驗-230fad.html
 published: 2026-06-28
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道主題樂園, 日本主題樂園, 旭山動物園, 白色戀人公園, 富良野薰衣草
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: matcha-sweets
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-matcha-sweets-hokkaido-北海道抹茶甜點-新世代匠人的農地創新實驗-d04031.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.6
 tags: 北海道美食, 抹茶甜點, 新世代匠人, 農產融合, 社區店家
 license: CC BY 4.0
 ---

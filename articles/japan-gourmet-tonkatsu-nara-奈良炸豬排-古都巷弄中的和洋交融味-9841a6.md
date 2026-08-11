@@ -6,7 +6,7 @@ category: tonkatsu
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tonkatsu-nara-奈良炸豬排-古都巷弄中的和洋交融味-9841a6.html
 published: 2026-06-24
-quality_score: 6.5
+quality_score: 8.6
 tags: 奈良美食, 炸豬排, 關西洋食, 古都美食, 奈良深度遊
 license: CC BY 4.0
 ---

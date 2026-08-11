@@ -6,7 +6,7 @@ category: buses
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-buses-okinawa-沖繩群島巴士網路-連結160座島嶼的海陸複合交通系統-9ef944.html
 published: 2026-04-03
-quality_score: 7.5
+quality_score: 8.5
 tags: 沖繩交通, 離島巴士, 群島旅遊, 海陸轉乘, 琉球群島
 license: CC BY 4.0
 ---

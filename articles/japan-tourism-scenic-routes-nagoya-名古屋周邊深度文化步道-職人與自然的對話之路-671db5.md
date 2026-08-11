@@ -6,7 +6,7 @@ category: scenic-routes
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-nagoya-名古屋周邊深度文化步道-職人與自然的對話之路-671db5.html
 published: 2026-06-08
-quality_score: 6.5
+quality_score: 8.7
 tags: 名古屋深度遊, 常滑陶瓷, 瀨戶工藝, 中部國際機場, 名古屋周邊
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: cycling
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-tokyo-東京四季單車提案-跟著季節變化的城市騎行-c8a3e6.html
 published: 2026-06-19
-quality_score: 7.5
+quality_score: 8.9
 tags: 東京單車, 四季騎行, Tokyo Cycling, 春季賞櫻, 夏季夜騎
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: garden-parks
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-hiroshima-廣島花園公園巡禮-花時光散步的療癒之旅-1aa63c.html
 published: 2026-06-18
-quality_score: 6.5
+quality_score: 8.6
 tags: 廣島花園, 賞花景點, 花卉攝影, 日本園林, 世羅高原農場
 license: CC BY 4.0
 ---

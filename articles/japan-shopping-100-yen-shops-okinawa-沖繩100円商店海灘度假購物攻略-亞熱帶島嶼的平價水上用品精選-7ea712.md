@@ -6,7 +6,7 @@ category: 100-yen-shops
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-100-yen-shops-okinawa-沖繩100円商店海灘度假購物攻略-亞熱帶島嶼的平價水上用品精選-7ea712.html
 published: 2026-06-28
-quality_score: 7.5
+quality_score: 8.7
 tags: 沖繩, 100円商店, 百元店, 平價購物, 水上活動
 license: CC BY 4.0
 ---

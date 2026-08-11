@@ -6,7 +6,7 @@ category: izakaya
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-izakaya-fukuoka-福岡暖桌居酒屋-天神-中洲周邊的女性友善人氣店家-be836f.html
 published: 2026-05-21
-quality_score: 6.5
+quality_score: 8.7
 tags: 福岡居酒屋, 天神美食, 水炊锅, 中洲夜生活, 女性友善店家
 license: CC BY 4.0
 ---

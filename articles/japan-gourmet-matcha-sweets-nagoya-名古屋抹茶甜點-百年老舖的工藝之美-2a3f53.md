@@ -6,7 +6,7 @@ category: matcha-sweets
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-matcha-sweets-nagoya-名古屋抹茶甜點-百年老舖的工藝之美-2a3f53.html
 published: 2026-06-02
-quality_score: 6.5
+quality_score: 8.7
 tags: 名古屋, 抹茶甜點, 和果子, 日本中部, 伴手礼
 license: CC BY 4.0
 ---

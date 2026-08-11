@@ -6,7 +6,7 @@ category: garden-parks
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-okinawa-沖繩花園公園-都市居民的日常療癒綠洲-ec9398.html
 published: 2026-04-02
-quality_score: 6.5
+quality_score: 8.7
 tags: 沖繩公園, 療癒景點, 在地生活, 都市綠地, 日常休憩
 license: CC BY 4.0
 ---

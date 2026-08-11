@@ -6,7 +6,7 @@ category: cycling
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-nara-奈良單車行者-探訪大和路上的能量神社與古道-97c090.html
 published: 2026-05-22
-quality_score: 7.5
+quality_score: 8.5
 tags: 奈良縣, 單車旅行, 日本自行車, 能量景點, 古城骑行
 license: CC BY 4.0
 ---

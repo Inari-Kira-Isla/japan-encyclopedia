@@ -6,7 +6,7 @@ category: izakaya
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-izakaya-hiroshima-廣島居酒屋時間論-從傍晚鰻魚酒到深夜大人味的時段攻略-67e605.html
 published: 2026-05-21
-quality_score: 6.5
+quality_score: 8.8
 tags: 廣島居酒屋, 日本美食, 廣島燒, 廣島旅遊, 時段攻略
 license: CC BY 4.0
 ---

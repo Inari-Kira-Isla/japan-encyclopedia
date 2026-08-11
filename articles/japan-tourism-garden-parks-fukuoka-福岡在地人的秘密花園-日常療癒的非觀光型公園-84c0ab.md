@@ -6,7 +6,7 @@ category: garden-parks
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-fukuoka-福岡在地人的秘密花園-日常療癒的非觀光型公園-84c0ab.html
 published: 2026-05-24
-quality_score: 6.5
+quality_score: 8.7
 tags: 福岡, 花園公园, 在地体验, 非观光的, 绿色旅游
 license: CC BY 4.0
 ---

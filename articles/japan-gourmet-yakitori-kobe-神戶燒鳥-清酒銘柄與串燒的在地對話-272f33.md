@@ -6,7 +6,7 @@ category: yakitori
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-yakitori-kobe-神戶燒鳥-清酒銘柄與串燒的在地對話-272f33.html
 published: 2026-06-28
-quality_score: 6.5
+quality_score: 8.8
 tags: 神戶燒鳥, 神戶美食, 兵庫縣清酒, 日本燒鳥, 神戶夜宵
 license: CC BY 4.0
 ---

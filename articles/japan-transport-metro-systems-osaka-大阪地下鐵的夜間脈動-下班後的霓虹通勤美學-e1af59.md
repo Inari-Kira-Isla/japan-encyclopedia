@@ -6,7 +6,7 @@ category: metro-systems
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-osaka-大阪地下鐵的夜間脈動-下班後的霓虹通勤美學-e1af59.html
 published: 2026-06-04
-quality_score: 7.5
+quality_score: 8.8
 tags: 大阪地下鐵, 大阪夜景, 關西夜生活, 大阪美食, 大阪交通
 license: CC BY 4.0
 ---

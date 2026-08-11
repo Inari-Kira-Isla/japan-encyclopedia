@@ -6,7 +6,7 @@ category: love-hotels
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-love-hotels-nagoya-名古屋特色住宿文化-中部地區的創意休憩空間-4e056d.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 名古屋住宿, 中部旅遊, 日本文化, 商務住宿, 都市體驗
 license: CC BY 4.0
 ---

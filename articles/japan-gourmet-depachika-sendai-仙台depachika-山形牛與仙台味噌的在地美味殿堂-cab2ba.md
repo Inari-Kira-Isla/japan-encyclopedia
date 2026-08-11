@@ -6,7 +6,7 @@ category: depachika
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-depachika-sendai-仙台depachika-山形牛與仙台味噌的在地美味殿堂-cab2ba.html
 published: 2026-06-02
-quality_score: 6.5
+quality_score: 8.6
 tags: 仙台, Depachika, 東北美食, 山形牛, 仙台味噌
 license: CC BY 4.0
 ---

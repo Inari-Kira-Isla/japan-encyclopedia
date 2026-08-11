@@ -6,7 +6,7 @@ category: temple-stays
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-temple-stays-nagoya-名古屋寺廟住宿完全指南-中繼站的禪意停留-為商旅人士設計的心靈休息所-236e7b.html
 published: 2026-07-04
-quality_score: 6.5
+quality_score: 8.6
 tags: 名古屋寺廟住宿, 宿坊體驗, 比叡山延曆寺, 高野山宿坊, 禪修之旅
 license: CC BY 4.0
 ---

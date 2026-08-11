@@ -6,7 +6,7 @@ category: capsule-hotels
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-capsule-hotels-nara-奈良膠囊旅館跑步者驛站-古都慢跑與深度自助旅的住宿方案-b1c7c8.html
 published: 2026-06-05
-quality_score: 6.5
+quality_score: 8.9
 tags: 奈良住宿, 膠囊旅館, 日本跑步旅遊, 古都自助, 背包客住宿
 license: CC BY 4.0
 ---

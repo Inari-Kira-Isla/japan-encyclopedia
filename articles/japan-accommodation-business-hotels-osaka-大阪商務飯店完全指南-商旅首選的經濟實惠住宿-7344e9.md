@@ -6,7 +6,7 @@ category: business-hotels
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-business-hotels-osaka-大阪商務飯店完全指南-商旅首選的經濟實惠住宿-7344e9.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 8.6
 tags: 大阪商務飯店, 關西出差住宿, 大阪車站, 難波商務飯店, 天王寺商務飯店
 license: CC BY 4.0
 ---

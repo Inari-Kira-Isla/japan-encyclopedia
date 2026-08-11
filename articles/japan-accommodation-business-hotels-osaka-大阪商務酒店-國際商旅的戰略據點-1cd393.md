@@ -6,7 +6,7 @@ category: business-hotels
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-business-hotels-osaka-大阪商務酒店-國際商旅的戰略據點-1cd393.html
 published: 2026-04-04
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪住宿, 商務酒店, 商旅出差, 關西旅遊, 日本住宿
 license: CC BY 4.0
 ---

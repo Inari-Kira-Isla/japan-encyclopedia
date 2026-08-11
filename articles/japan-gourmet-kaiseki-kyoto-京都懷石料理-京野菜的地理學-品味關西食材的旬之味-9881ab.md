@@ -6,7 +6,7 @@ category: kaiseki
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-kaiseki-kyoto-京都懷石料理-京野菜的地理學-品味關西食材的旬之味-9881ab.html
 published: 2026-06-11
-quality_score: 6.5
+quality_score: 8.7
 tags: 京都懷石, 京野菜, 日本料理, 關西美食, 料亭
 license: CC BY 4.0
 ---

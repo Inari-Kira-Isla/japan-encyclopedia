@@ -6,7 +6,7 @@ category: vr-experiences
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-vr-experiences-kobe-神戶夕夜間vr約會提案-港都戀人之選的虛擬實境浪漫攻略-8bc990.html
 published: 2026-06-20
-quality_score: 6.5
+quality_score: 8.8
 tags: 神戶VR體驗, 神戶約會, 神戶夜景, 關西VR, 情侶約會推薦
 license: CC BY 4.0
 ---

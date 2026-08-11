@@ -6,7 +6,7 @@ category: onsen
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-onsen-kobe-神戶溫泉情報-關西溫泉網路的核心驛站-65f667.html
 published: 2026-06-22
-quality_score: 6.5
+quality_score: 8.8
 tags: 神戶溫泉, 有馬溫泉, 關西溫泉, 神戶錢湯, 日本溫泉旅行
 license: CC BY 4.0
 ---

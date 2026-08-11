@@ -6,7 +6,7 @@ category: rental-cars
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-kyoto-京都四季自駕遊-跟著季節走的古都深度路線規劃-406157.html
 published: 2026-03-29
-quality_score: 7.5
+quality_score: 8.5
 tags: 京都租車, 四季自駕, 古都旅遊, 季節性旅遊, 關西自由行
 license: CC BY 4.0
 ---

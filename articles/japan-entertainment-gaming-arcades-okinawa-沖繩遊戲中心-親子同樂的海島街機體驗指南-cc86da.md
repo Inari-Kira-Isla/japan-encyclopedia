@@ -6,7 +6,7 @@ category: gaming-arcades
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-gaming-arcades-okinawa-沖繩遊戲中心-親子同樂的海島街機體驗指南-cc86da.html
 published: 2026-03-30
-quality_score: 6.5
+quality_score: 8.5
 tags: 沖繩遊戲中心, 親子遊戲體驗, 海島度假, 北谷美國村, 家庭旅遊
 license: CC BY 4.0
 ---

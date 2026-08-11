@@ -6,7 +6,7 @@ category: buses
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-buses-tokyo-東京特別巴士推薦-在移動中遇見城市的另一面-a4c2c3.html
 published: 2026-05-24
-quality_score: 7.5
+quality_score: 8.5
 tags: 東京交通, 巴士指南, 東京自由行, 都營巴士, 東京觀光
 license: CC BY 4.0
 ---

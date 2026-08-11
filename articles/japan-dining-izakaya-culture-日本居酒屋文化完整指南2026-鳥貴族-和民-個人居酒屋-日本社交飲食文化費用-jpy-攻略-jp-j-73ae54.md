@@ -6,7 +6,7 @@ category: izakaya-culture
 area: japan
 url: https://japan-encyclopedia.vercel.app/articles/japan-dining-izakaya-culture-日本居酒屋文化完整指南2026-鳥貴族-和民-個人居酒屋-日本社交飲食文化費用-jpy-攻略-jp-j-73ae54.html
 published: 2026-03-31
-quality_score: 7.1
+quality_score: 8.5
 tags: 日本居酒屋, 飲み放量, 鳥貴族, 日本飲食文化, 日本夜生活
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: nightlife
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-hiroshima-廣島夜生活-和平之城的港灣夜色與在地人情-bc0fc3.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 8.7
 tags: 廣島夜生活, 瀨戶內海, 和平紀念, 港灣夜景, 在地美食
 license: CC BY 4.0
 ---

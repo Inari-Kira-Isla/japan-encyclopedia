@@ -6,7 +6,7 @@ category: sake-brewery
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sake-brewery-nara-奈良清酒蔵-古都小巷裡的質樸釀酒秘密-848352.html
 published: 2026-06-09
-quality_score: 6.5
+quality_score: 8.9
 tags: 奈良縣, 清酒釀造, 日本釀酒厂, 古都奈良, 旅行推薦
 license: CC BY 4.0
 ---

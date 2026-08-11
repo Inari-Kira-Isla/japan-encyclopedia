@@ -6,7 +6,7 @@ category: shinkansen
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-kobe-神戶新幹綫交通攻略-從關西樞紐輻射周邊的實用旅行策略-168465.html
 published: 2026-06-23
-quality_score: 7.5
+quality_score: 8.5
 tags: 神戶交通, 關西鐵道, 山陽新幹綫, 神戶周邊,  JR Pass使用
 license: CC BY 4.0
 ---

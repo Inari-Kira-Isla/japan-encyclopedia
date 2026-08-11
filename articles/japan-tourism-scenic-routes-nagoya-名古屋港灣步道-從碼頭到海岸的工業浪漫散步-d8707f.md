@@ -6,7 +6,7 @@ category: scenic-routes
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-nagoya-名古屋港灣步道-從碼頭到海岸的工業浪漫散步-d8707f.html
 published: 2026-06-28
-quality_score: 6.5
+quality_score: 8.8
 tags: 名古屋港, 海岸步道, 港口景點,  family 旅遊, 海洋教育
 license: CC BY 4.0
 ---

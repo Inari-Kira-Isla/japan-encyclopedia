@@ -6,7 +6,7 @@ category: temples-shrines
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-temples-shrines-tokyo-東京寺廟神社四季物語-依時辰探索都內神聖風景-721238.html
 published: 2026-05-23
-quality_score: 6.5
+quality_score: 8.6
 tags: 東京寺廟神社, 四季導覽, 在地體驗, 初詣, 夜楓
 license: CC BY 4.0
 ---

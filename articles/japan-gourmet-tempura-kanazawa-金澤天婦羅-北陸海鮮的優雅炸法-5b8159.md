@@ -6,7 +6,7 @@ category: tempura
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tempura-kanazawa-金澤天婦羅-北陸海鮮的優雅炸法-5b8159.html
 published: 2026-03-21
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤, 天婦羅, 北陸美食, 日本料理, 海鮮料理
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: ramen
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-ramen-osaka-大阪拉麵-從批發市場看食材生態與季節變化-06d5ca.html
 published: 2026-03-24
-quality_score: 6.5
+quality_score: 8.5
 tags: 大阪美食, 拉麵, 日本飲食文化, 食材採購, 季節限定
 license: CC BY 4.0
 ---

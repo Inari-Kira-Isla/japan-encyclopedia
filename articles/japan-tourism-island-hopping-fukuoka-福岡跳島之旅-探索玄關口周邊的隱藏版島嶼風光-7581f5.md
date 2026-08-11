@@ -6,7 +6,7 @@ category: island-hopping
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-island-hopping-fukuoka-福岡跳島之旅-探索玄關口周邊的隱藏版島嶼風光-7581f5.html
 published: 2026-03-18
-quality_score: 6.5
+quality_score: 8.7
 tags: 福岡, 跳島, 九州, 糸島, 能古島
 license: CC BY 4.0
 ---

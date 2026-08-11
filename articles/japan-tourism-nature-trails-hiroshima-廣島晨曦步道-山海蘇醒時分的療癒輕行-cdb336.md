@@ -6,7 +6,7 @@ category: nature-trails
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-hiroshima-廣島晨曦步道-山海蘇醒時分的療癒輕行-cdb336.html
 published: 2026-06-23
-quality_score: 6.5
+quality_score: 8.8
 tags: 廣島自然步道, 晨曦步道, 廣島登山, 瀨戶內海步道, 日本自然旅遊
 license: CC BY 4.0
 ---

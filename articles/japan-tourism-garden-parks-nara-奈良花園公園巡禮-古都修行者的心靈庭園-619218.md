@@ -6,7 +6,7 @@ category: garden-parks
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-nara-奈良花園公園巡禮-古都修行者的心靈庭園-619218.html
 published: 2026-04-06
-quality_score: 6.5
+quality_score: 8.7
 tags: 奈良, 花園公園, 禪修, 古都, 心靈修行
 license: CC BY 4.0
 ---

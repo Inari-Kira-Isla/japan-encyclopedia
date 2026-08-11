@@ -6,7 +6,7 @@ category: scenic-routes
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-okinawa-沖繩絕景自駕路線-沿著蔚藍海岸與古城跡的風景道路完全指南-d79c87.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 8.7
 tags: 沖繩自駕, 風景道路, 山原景觀, 南部世界文化遺產, 海濱公路
 license: CC BY 4.0
 ---

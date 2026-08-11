@@ -6,7 +6,7 @@ category: ski-resorts
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-ski-resorts-hokkaido-北海道滑雪場一日遊攻略-從札幌出發的便捷滑雪體驗-3ac8bc.html
 published: 2026-06-30
-quality_score: 6.5
+quality_score: 8.6
 tags: 北海道滑雪場, 札幌一日遊, 日本滑雪, 北海道冬季旅遊, 札幌周邊滑雪
 license: CC BY 4.0
 ---

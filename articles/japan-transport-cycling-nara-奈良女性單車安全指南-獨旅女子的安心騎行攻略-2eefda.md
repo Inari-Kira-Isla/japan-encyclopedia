@@ -6,7 +6,7 @@ category: cycling
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-nara-奈良女性單車安全指南-獨旅女子的安心騎行攻略-2eefda.html
 published: 2026-06-03
-quality_score: 7.5
+quality_score: 8.7
 tags: 奈良單車, 女性旅行者, 日本古城, 單車旅行, 大和盆地
 license: CC BY 4.0
 ---

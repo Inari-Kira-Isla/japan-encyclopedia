@@ -6,7 +6,7 @@ category: nightlife
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-kanazawa-金澤夜生活-季節限定的北陸之夜-5f8d7c.html
 published: 2026-06-14
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤夜生活, 石川縣, 北陸, 日本酒吧, 金澤美食
 license: CC BY 4.0
 ---

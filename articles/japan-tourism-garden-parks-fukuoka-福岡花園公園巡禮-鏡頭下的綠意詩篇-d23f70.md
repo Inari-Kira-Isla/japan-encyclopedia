@@ -6,7 +6,7 @@ category: garden-parks
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-fukuoka-福岡花園公園巡禮-鏡頭下的綠意詩篇-d23f70.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 9.0
 tags: 福岡, 花園公園, 大濠公園, 舞鶴公園, 賞櫻
 license: CC BY 4.0
 ---

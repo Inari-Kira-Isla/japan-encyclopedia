@@ -6,7 +6,7 @@ category: wagyu
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-wagyu-fukuoka-福岡和牛生活提案-九州屋臺文化中的和牛新吃法-8a905f.html
 published: 2026-06-25
-quality_score: 6.5
+quality_score: 8.8
 tags: 福岡美食, 和牛燒肉, 屋台文化, 九州, 博多
 license: CC BY 4.0
 ---

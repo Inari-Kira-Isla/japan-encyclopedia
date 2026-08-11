@@ -6,7 +6,7 @@ category: nature-trails
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-osaka-大阪裡山步道手冊-都市邊緣的綠色療癒半日提案-10dcc4.html
 published: 2026-06-22
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪, 自然步道, 里山, 郊山, 半日遊
 license: CC BY 4.0
 ---

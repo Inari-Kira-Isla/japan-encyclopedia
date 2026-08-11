@@ -6,7 +6,7 @@ category: depachika
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-depachika-fukuoka-福岡depachika採購攻略-從明太子到季節限定-九州在地人的買菜哲學-dd18bb.html
 published: 2026-06-19
-quality_score: 6.5
+quality_score: 8.9
 tags: 福岡Depachika, 九州美食, 明太子, 博多吃, 天神地下街
 license: CC BY 4.0
 ---

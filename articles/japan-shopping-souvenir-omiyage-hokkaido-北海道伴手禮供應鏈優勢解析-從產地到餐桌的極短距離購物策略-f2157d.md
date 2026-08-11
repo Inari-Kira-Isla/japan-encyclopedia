@@ -6,7 +6,7 @@ category: souvenir-omiyage
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-souvenir-omiyage-hokkaido-北海道伴手禮供應鏈優勢解析-從產地到餐桌的極短距離購物策略-f2157d.html
 published: 2026-04-05
-quality_score: 7.5
+quality_score: 8.7
 tags: 北海道伴手禮, 供應鏈, 產地直送, 海鮮加工, 農產品
 license: CC BY 4.0
 ---

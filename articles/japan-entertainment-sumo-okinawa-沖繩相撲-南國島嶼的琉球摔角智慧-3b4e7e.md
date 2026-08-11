@@ -6,7 +6,7 @@ category: sumo
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-okinawa-沖繩相撲-南國島嶼的琉球摔角智慧-3b4e7e.html
 published: 2026-06-08
-quality_score: 6.5
+quality_score: 8.7
 tags: 沖繩旅遊, 相撲文化, 琉球歷史, 傳統武術, 南國體驗
 license: CC BY 4.0
 ---

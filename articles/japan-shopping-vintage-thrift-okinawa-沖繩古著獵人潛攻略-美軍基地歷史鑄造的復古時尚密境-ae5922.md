@@ -6,7 +6,7 @@ category: vintage-thrift
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-vintage-thrift-okinawa-沖繩古著獵人潛攻略-美軍基地歷史鑄造的復古時尚密境-ae5922.html
 published: 2026-06-18
-quality_score: 7.5
+quality_score: 8.5
 tags: 沖繩古著, 古著店推薦, 美軍基地, 復古時尚, 島嶼古著
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: metro-systems
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-osaka-大阪地下鐵交通指南-在地人這樣買票這樣搭-d7c9df.html
 published: 2026-06-02
-quality_score: 7.5
+quality_score: 8.7
 tags: 大阪交通, 地下鐵,  Osaka Metro, 關西旅遊, 大阪自由行
 license: CC BY 4.0
 ---

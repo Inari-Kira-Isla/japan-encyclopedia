@@ -6,7 +6,7 @@ category: 100-yen-shops
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-100-yen-shops-nara-奈良100円商店購物攻略-古都限定紀念品與-省錢伴手禮完整指南-214054.html
 published: 2026-06-02
-quality_score: 7.5
+quality_score: 8.8
 tags: 
 license: CC BY 4.0
 ---

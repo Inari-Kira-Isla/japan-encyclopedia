@@ -6,7 +6,7 @@ category: sushi
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sushi-kanazawa-金澤壽司-花都裡的親民極致味-0a40cb.html
 published: 2026-05-25
-quality_score: 6.5
+quality_score: 8.8
 tags: 金澤壽司, 石川美食, 日本海海鮮, 北陸料理, 高CP值壽司
 license: CC BY 4.0
 ---

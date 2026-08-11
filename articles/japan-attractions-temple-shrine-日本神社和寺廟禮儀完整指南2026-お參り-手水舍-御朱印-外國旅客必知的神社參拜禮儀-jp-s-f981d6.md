@@ -6,7 +6,7 @@ category: temple-shrine
 area: japan
 url: https://japan-encyclopedia.vercel.app/articles/japan-attractions-temple-shrine-日本神社和寺廟禮儀完整指南2026-お參り-手水舍-御朱印-外國旅客必知的神社參拜禮儀-jp-s-f981d6.html
 published: 2026-04-13
-quality_score: 7.6
+quality_score: 8.4
 tags: 日本神社禮儀, 日本寺廟禮儀, 御朱印, 手水舍, 二禮二拍一禮
 license: CC BY 4.0
 ---

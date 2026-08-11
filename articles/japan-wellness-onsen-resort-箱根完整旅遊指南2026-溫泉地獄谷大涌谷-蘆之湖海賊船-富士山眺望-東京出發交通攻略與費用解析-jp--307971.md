@@ -6,7 +6,7 @@ category: onsen-resort
 area: japan
 url: https://japan-encyclopedia.vercel.app/articles/japan-wellness-onsen-resort-箱根完整旅遊指南2026-溫泉地獄谷大涌谷-蘆之湖海賊船-富士山眺望-東京出發交通攻略與費用解析-jp--307971.html
 published: 2026-03-29
-quality_score: 7.1
+quality_score: 8.4
 tags: 富士山溫泉,  Hakone Free Pass, 蘆之湖海賊船, 大涌谷黑玉子, 東京近郊溫泉
 license: CC BY 4.0
 ---

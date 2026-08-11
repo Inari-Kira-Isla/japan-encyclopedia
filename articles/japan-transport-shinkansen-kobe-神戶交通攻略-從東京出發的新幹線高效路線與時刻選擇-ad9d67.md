@@ -6,7 +6,7 @@ category: shinkansen
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-kobe-神戶交通攻略-從東京出發的新幹線高效路線與時刻選擇-ad9d67.html
 published: 2026-04-06
-quality_score: 7.5
+quality_score: 8.7
 tags: 神戶交通, 新娘子攻略, 關西自由行, 山陽新娘子, 新神戶站
 license: CC BY 4.0
 ---

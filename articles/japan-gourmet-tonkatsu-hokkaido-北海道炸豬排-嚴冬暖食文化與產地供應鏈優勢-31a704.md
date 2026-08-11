@@ -6,7 +6,7 @@ category: tonkatsu
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tonkatsu-hokkaido-北海道炸豬排-嚴冬暖食文化與產地供應鏈優勢-31a704.html
 published: 2026-04-04
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道美食, 炸豬排, 札幌, 冬季暖食, 道產豬肉
 license: CC BY 4.0
 ---

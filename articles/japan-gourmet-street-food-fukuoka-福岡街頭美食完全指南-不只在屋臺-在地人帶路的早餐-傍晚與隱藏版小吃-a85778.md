@@ -6,7 +6,7 @@ category: street-food
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-street-food-fukuoka-福岡街頭美食完全指南-不只在屋臺-在地人帶路的早餐-傍晚與隱藏版小吃-a85778.html
 published: 2026-07-02
-quality_score: 6.5
+quality_score: 8.6
 tags: 福岡, 街頭美食, 朝締め, 長濱拉麵, 九州大學
 license: CC BY 4.0
 ---

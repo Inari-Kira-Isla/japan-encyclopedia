@@ -6,7 +6,7 @@ category: zen-garden
 area: japan
 url: https://japan-encyclopedia.vercel.app/articles/japan-attractions-zen-garden-日本禪宗庭園完整指南2026-龍安寺-兼六園-後樂園-日本三大名園費用-jpy-攻略-jp-japan-85ab7b.html
 published: 2026-03-31
-quality_score: 7.1
+quality_score: 8.7
 tags: 日本庭園, 龍安寺枯山水, 兼六園, 日本三大名園, 禪宗文化
 license: CC BY 4.0
 ---

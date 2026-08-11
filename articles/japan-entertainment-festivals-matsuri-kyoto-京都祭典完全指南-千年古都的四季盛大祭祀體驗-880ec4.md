@@ -6,7 +6,7 @@ category: festivals-matsuri
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-festivals-matsuri-kyoto-京都祭典完全指南-千年古都的四季盛大祭祀體驗-880ec4.html
 published: 2026-06-02
-quality_score: 6.5
+quality_score: 8.8
 tags: 京都祭典, 祇園祭, 日本文化體驗, 京都自由行, 傳統祭祀
 license: CC BY 4.0
 ---

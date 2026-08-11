@@ -6,7 +6,7 @@ category: nature-trails
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-okinawa-沖繩自然步道深度攻略-五條蘊含地質奇觀與生態知識的知性探索之路-a2c6e8.html
 published: 2026-05-25
-quality_score: 6.5
+quality_score: 8.6
 tags: 沖繩自然步道, 地質觀察, 生態旅遊, 亞熱帶健行, 知性旅行
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: department-stores
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-department-stores-nagoya-名古屋-百貨公司與銀髮族的貼心購物學-5d0b70.html
 published: 2026-06-27
-quality_score: 7.5
+quality_score: 8.6
 tags: 名古屋購物, 日本百货公司, 银髮友善, 名古屋自由行, 中部国际空港
 license: CC BY 4.0
 ---

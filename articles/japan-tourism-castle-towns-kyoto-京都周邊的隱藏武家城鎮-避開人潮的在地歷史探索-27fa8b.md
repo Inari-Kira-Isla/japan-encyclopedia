@@ -6,7 +6,7 @@ category: castle-towns
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-castle-towns-kyoto-京都周邊的隱藏武家城鎮-避開人潮的在地歷史探索-27fa8b.html
 published: 2026-06-15
-quality_score: 6.5
+quality_score: 8.6
 tags: 京都, 城下町, 武家遺產, 深度旅遊, 隱藏景點
 license: CC BY 4.0
 ---

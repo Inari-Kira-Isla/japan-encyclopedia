@@ -6,7 +6,7 @@ category: sumo
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-fukuoka-福岡相撲-非觀賽視角的在地相撲生活體驗-9ff4fe.html
 published: 2026-06-05
-quality_score: 6.5
+quality_score: 8.9
 tags: 福岡相撲, 博多吃, ちゃんこ火鍋, 九州場所, 非觀賽體驗
 license: CC BY 4.0
 ---

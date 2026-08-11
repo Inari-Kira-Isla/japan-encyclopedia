@@ -6,7 +6,7 @@ category: historical-districts
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-nagoya-名古屋歷史街區-名古屋商人的dna與昭和記憶-8af823.html
 published: 2026-06-06
-quality_score: 6.5
+quality_score: 8.6
 tags: 名古屋, 歷史街區, 昭和風情, 產業遺產, 日本旅行
 license: CC BY 4.0
 ---

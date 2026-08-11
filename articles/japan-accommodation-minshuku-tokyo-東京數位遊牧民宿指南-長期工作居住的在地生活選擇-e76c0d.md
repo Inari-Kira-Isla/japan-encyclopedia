@@ -6,7 +6,7 @@ category: minshuku
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-tokyo-東京數位遊牧民宿指南-長期工作居住的在地生活選擇-e76c0d.html
 published: 2026-04-02
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京民宿, 數位游牧, 長期居住, 遠距工作, 文化體驗
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: street-food
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-street-food-kanazawa-金澤早市的時令滋味-當地人日常的市場風景線-db0128.html
 published: 2026-06-14
-quality_score: 6.5
+quality_score: 8.6
 tags: 金澤, 街頭美食, 近江町市場, 金澤咖哩, 冶部煮
 license: CC BY 4.0
 ---

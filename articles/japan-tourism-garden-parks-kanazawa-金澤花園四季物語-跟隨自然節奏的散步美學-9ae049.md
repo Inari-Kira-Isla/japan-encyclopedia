@@ -6,7 +6,7 @@ category: garden-parks
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-kanazawa-金澤花園四季物語-跟隨自然節奏的散步美學-9ae049.html
 published: 2026-06-30
-quality_score: 6.5
+quality_score: 8.6
 tags: 金澤, 花園, 庭園, 日本三名園, 兼六園
 license: CC BY 4.0
 ---

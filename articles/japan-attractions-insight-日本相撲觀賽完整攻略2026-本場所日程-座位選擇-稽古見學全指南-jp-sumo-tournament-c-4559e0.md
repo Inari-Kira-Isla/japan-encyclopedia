@@ -6,7 +6,7 @@ category: insight
 area: japan
 url: https://japan-encyclopedia.vercel.app/articles/japan-attractions-insight-日本相撲觀賽完整攻略2026-本場所日程-座位選擇-稽古見學全指南-jp-sumo-tournament-c-4559e0.html
 published: 2026-03-31
-quality_score: 7.6
+quality_score: 8.5
 tags: 日本, 相撲, 本場所, 國技館, 運動
 license: CC BY 4.0
 ---

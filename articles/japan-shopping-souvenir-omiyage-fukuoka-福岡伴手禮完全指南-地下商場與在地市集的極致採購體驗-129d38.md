@@ -6,7 +6,7 @@ category: souvenir-omiyage
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-souvenir-omiyage-fukuoka-福岡伴手禮完全指南-地下商場與在地市集的極致採購體驗-129d38.html
 published: 2026-05-24
-quality_score: 7.5
+quality_score: 8.5
 tags: 福岡, 伴手禮, 地下商場, 購物指南, 日本旅行
 license: CC BY 4.0
 ---

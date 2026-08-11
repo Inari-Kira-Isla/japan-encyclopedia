@@ -6,7 +6,7 @@ category: yakitori
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-yakitori-hiroshima-hiroshima-yakitori-8e785b.html
 published: 2026-04-06
-quality_score: 5.5
+quality_score: 6.9
 tags: yakitori, hiroshima, japan
 license: CC BY 4.0
 ---

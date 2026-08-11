@@ -6,7 +6,7 @@ category: ferries
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-ferries-hokkaido-北海道渡輪-季節流冰線與離島漁村秘境-5b60b1.html
 published: 2026-03-23
-quality_score: 7.5
+quality_score: 8.4
 tags: 北海道, 渡輪, 離島, 流冰, 漁村文化
 license: CC BY 4.0
 ---

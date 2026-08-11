@@ -6,7 +6,7 @@ category: temple-stays
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-temple-stays-nara-奈良宿坊體驗-走進日本佛教原點的古道修行-735fba.html
 published: 2026-06-18
-quality_score: 6.5
+quality_score: 8.4
 tags: 奈良宿坊, 寺廟住宿, 日本佛教, 修驗道, 吉野山
 license: CC BY 4.0
 ---

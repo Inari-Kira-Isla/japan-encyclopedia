@@ -6,7 +6,7 @@ category: sushi
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sushi-kanazawa-金澤壽司-職人傳承與現代創新的微妙平衡-b1450b.html
 published: 2026-04-01
-quality_score: 6.5
+quality_score: 8.8
 tags: 金澤壽司, 日本海海鮮, 職人文化, 北陸美食, 傳統創新
 license: CC BY 4.0
 ---

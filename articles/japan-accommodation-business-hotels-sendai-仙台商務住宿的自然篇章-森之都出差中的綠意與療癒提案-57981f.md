@@ -6,7 +6,7 @@ category: business-hotels
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-business-hotels-sendai-仙台商務住宿的自然篇章-森之都出差中的綠意與療癒提案-57981f.html
 published: 2026-06-11
-quality_score: 6.5
+quality_score: 8.7
 tags: 仙台商務住宿, 森之都, 東北出差, 作並溫泉, 秋保溫泉
 license: CC BY 4.0
 ---

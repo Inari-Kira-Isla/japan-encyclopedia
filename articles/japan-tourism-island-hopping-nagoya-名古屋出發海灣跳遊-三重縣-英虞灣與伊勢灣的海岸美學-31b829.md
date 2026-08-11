@@ -6,7 +6,7 @@ category: island-hopping
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-island-hopping-nagoya-名古屋出發海灣跳遊-三重縣-英虞灣與伊勢灣的海岸美學-31b829.html
 published: 2026-05-23
-quality_score: 6.5
+quality_score: 8.8
 tags: 名古屋跳島, 三重縣海岸, 英虞灣, 伊勢灣, 海岸一日遊
 license: CC BY 4.0
 ---

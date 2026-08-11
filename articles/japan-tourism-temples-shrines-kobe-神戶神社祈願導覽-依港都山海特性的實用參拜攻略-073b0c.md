@@ -6,7 +6,7 @@ category: temples-shrines
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-temples-shrines-kobe-神戶神社祈願導覽-依港都山海特性的實用參拜攻略-073b0c.html
 published: 2026-04-07
-quality_score: 6.5
+quality_score: 8.6
 tags: 神戶神社, 神戶寺廟, 生田神社, 湊川神社, 大阪近郊
 license: CC BY 4.0
 ---

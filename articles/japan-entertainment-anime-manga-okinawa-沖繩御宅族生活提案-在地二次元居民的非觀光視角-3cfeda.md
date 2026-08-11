@@ -6,7 +6,7 @@ category: anime-manga
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-okinawa-沖繩御宅族生活提案-在地二次元居民的非觀光視角-3cfeda.html
 published: 2026-06-14
-quality_score: 6.5
+quality_score: 8.5
 tags: 沖繩動漫, 沖繩漫畫, 御宅文化, 南部九州, 非主流景點
 license: CC BY 4.0
 ---

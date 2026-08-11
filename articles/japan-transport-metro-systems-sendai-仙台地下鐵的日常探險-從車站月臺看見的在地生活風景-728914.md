@@ -6,7 +6,7 @@ category: metro-systems
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-sendai-仙台地下鐵的日常探險-從車站月臺看見的在地生活風景-728914.html
 published: 2026-06-29
-quality_score: 7.5
+quality_score: 8.7
 tags: 仙台地下鐵, 仙台交通, 東北自由行, 日本地下鐵, 在地生活
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: business-hotels
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-business-hotels-fukuoka-福岡長期出張商務飯店指南-附廚房機能的住宿選擇-e6099c.html
 published: 2026-06-09
-quality_score: 6.5
+quality_score: 8.6
 tags: 福岡商務飯店, 長期出張, Kitchenette, 博多住宿, 天神住宿
 license: CC BY 4.0
 ---

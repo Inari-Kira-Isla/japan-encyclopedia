@@ -6,7 +6,7 @@ category: nature-trails
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-sendai-仙台城市微登山-鬧中取靜的自然深呼吸步道指南-61caa8.html
 published: 2026-06-02
-quality_score: 6.5
+quality_score: 8.6
 tags: 仙台自然步道, 東北輕登山, 日本戶外體驗, 一日往返步道, 都市微登山
 license: CC BY 4.0
 ---

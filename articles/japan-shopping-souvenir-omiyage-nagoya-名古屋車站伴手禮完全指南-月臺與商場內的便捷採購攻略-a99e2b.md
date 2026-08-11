@@ -6,7 +6,7 @@ category: souvenir-omiyage
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-souvenir-omiyage-nagoya-名古屋車站伴手禮完全指南-月臺與商場內的便捷採購攻略-a99e2b.html
 published: 2026-05-23
-quality_score: 7.5
+quality_score: 8.7
 tags: 名古屋伴手禮, 車站購物, 名古屋駅, 中部日本, お土産
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: department-stores
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-department-stores-fukuoka-福岡百貨公司購物指南-從商業通道到生活中心的轉變-879a38.html
 published: 2026-03-24
-quality_score: 7.5
+quality_score: 8.8
 tags: 福岡, 百貨公司, 購物指南, 無障礙設施, 高齡友善
 license: CC BY 4.0
 ---

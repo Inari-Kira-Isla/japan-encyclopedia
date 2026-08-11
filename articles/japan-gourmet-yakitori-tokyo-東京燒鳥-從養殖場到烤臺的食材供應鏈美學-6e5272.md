@@ -6,7 +6,7 @@ category: yakitori
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-yakitori-tokyo-東京燒鳥-從養殖場到烤臺的食材供應鏈美學-6e5272.html
 published: 2026-06-25
-quality_score: 6.5
+quality_score: 8.8
 tags: 東京燒鳥, 日本美食, 食材供應鏈, 國產雞, 燒鳥店推薦
 license: CC BY 4.0
 ---

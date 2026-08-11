@@ -6,7 +6,7 @@ category: tempura
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tempura-nara-奈良天婦羅-田野與餐桌的距離-5b90ff.html
 published: 2026-06-27
-quality_score: 6.5
+quality_score: 8.7
 tags: 奈良美食, 關西料理, 天婦羅, 日本炸物, 奈良旅遊
 license: CC BY 4.0
 ---

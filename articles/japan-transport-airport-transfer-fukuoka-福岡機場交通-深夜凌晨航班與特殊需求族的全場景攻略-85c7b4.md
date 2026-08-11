@@ -6,7 +6,7 @@ category: airport-transfer
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-airport-transfer-fukuoka-福岡機場交通-深夜凌晨航班與特殊需求族的全場景攻略-85c7b4.html
 published: 2026-06-16
-quality_score: 7.5
+quality_score: 8.4
 tags: 福岡機場交通, 機場接送, 凌晨航班, 九州交通, 福岡機場到市區
 license: CC BY 4.0
 ---

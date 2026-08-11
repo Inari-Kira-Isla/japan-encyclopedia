@@ -6,7 +6,7 @@ category: theme-parks
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-theme-parks-sendai-仙台娛樂體驗攻略-東北風情中的小而精緻玩樂指南-7579e4.html
 published: 2026-03-27
-quality_score: 6.5
+quality_score: 8.7
 tags: 仙台, 主題樂園, 家庭旅遊, 東北旅遊, 在地體驗
 license: CC BY 4.0
 ---

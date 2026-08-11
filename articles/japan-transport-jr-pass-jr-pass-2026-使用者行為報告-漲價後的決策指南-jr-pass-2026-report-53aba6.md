@@ -6,7 +6,7 @@ category: jr-pass
 area: japan
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-jr-pass-jr-pass-2026-使用者行為報告-漲價後的決策指南-jr-pass-2026-report-53aba6.html
 published: 2026-03-28
-quality_score: 7.6
+quality_score: 8.3
 tags: JR Pass, 日本交通, 新幹線を, 自由行, 訪日攻略
 license: CC BY 4.0
 ---

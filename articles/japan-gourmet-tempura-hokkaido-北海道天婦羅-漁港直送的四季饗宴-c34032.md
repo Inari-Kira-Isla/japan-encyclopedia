@@ -6,7 +6,7 @@ category: tempura
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tempura-hokkaido-北海道天婦羅-漁港直送的四季饗宴-c34032.html
 published: 2026-04-06
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道美食, 天婦羅, 海鮮料理, 漁港文化, 札幌
 license: CC BY 4.0
 ---

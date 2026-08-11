@@ -6,7 +6,7 @@ category: anime-manga
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-kobe-神戶動漫咖啡廳探險-港都二次元的隱藏版聖地-1efb23.html
 published: 2026-06-27
-quality_score: 6.5
+quality_score: 8.8
 tags: 神戶動漫咖啡廳, 神戶二次元, 港都動漫, 神戶咖啡廳推薦, 動漫主題餐廳
 license: CC BY 4.0
 ---

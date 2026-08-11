@@ -6,7 +6,7 @@ category: yakitori
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-yakitori-nagoya-名古屋燒鳥-名古屋流串燒的地域性與人情味-0a013b.html
 published: 2026-06-18
-quality_score: 6.5
+quality_score: 8.6
 tags: 名古屋美食, 燒鳥, 愛知縣, 日本串燒, 名古屋夜生活
 license: CC BY 4.0
 ---

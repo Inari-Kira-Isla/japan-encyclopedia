@@ -6,7 +6,7 @@ category: kabuki-theatre
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-kabuki-theatre-nagoya-名古屋的表演藝術場所-沒有傳統kabuki劇場的替代體驗方案-5416f4.html
 published: 2026-06-09
-quality_score: 6.5
+quality_score: 8.4
 tags: 名古屋, 表演藝術, 日本中部, 替代體驗, 人形淨瑠璃
 license: CC BY 4.0
 ---

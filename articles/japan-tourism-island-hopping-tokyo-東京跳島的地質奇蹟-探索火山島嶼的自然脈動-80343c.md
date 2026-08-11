@@ -6,7 +6,7 @@ category: island-hopping
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-island-hopping-tokyo-東京跳島的地質奇蹟-探索火山島嶼的自然脈動-80343c.html
 published: 2026-06-04
-quality_score: 6.5
+quality_score: 8.8
 tags: 東京跳島, 八丈島, 青ヶ島, 御蔵島, 火山島嶼
 license: CC BY 4.0
 ---

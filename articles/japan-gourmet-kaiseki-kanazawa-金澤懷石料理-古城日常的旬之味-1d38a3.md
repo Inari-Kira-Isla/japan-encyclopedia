@@ -6,7 +6,7 @@ category: kaiseki
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-kaiseki-kanazawa-金澤懷石料理-古城日常的旬之味-1d38a3.html
 published: 2026-05-21
-quality_score: 6.5
+quality_score: 8.9
 tags: 金澤懷石, 加賀料理, 石川美食, 日本海旬味, 近江町市場
 license: CC BY 4.0
 ---

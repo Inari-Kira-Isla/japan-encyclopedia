@@ -6,7 +6,7 @@ category: airport-transfer
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-airport-transfer-sendai-仙台機場周邊一日遊-紅眼航班與清晨轉機的另類玩法-ed227d.html
 published: 2026-07-01
-quality_score: 7.5
+quality_score: 8.6
 tags: 仙台機場, 秋保溫泉, 機場交通, 日歸溫泉, 東北旅遊
 license: CC BY 4.0
 ---

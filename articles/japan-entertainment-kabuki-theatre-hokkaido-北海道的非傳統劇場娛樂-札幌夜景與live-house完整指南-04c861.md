@@ -6,7 +6,7 @@ category: kabuki-theatre
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-kabuki-theatre-hokkaido-北海道的非傳統劇場娛樂-札幌夜景與live-house完整指南-04c861.html
 published: 2026-06-05
-quality_score: 6.5
+quality_score: 8.9
 tags: 北海道娛樂, 札幌夜生活, LIVE HOUSE, 薄野, 定山溪溫泉
 license: CC BY 4.0
 ---

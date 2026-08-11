@@ -6,7 +6,7 @@ category: ski-resorts
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-ski-resorts-osaka-大阪出發一日滑雪-關西近郊雪場交通指南與推薦-924981.html
 published: 2026-07-06
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪滑雪, 關西滑雪, 琵琶湖滑雪, 奧美濃滑雪, 六甲山滑雪
 license: CC BY 4.0
 ---

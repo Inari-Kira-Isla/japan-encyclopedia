@@ -6,7 +6,7 @@ category: cycling
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-osaka-大阪騎行完全攻略-工業水岸與在地生活深度路線-965e43.html
 published: 2026-04-02
-quality_score: 7.5
+quality_score: 8.6
 tags: 大阪骑行, 大阪自行车, 大阪单车, 大阪自由行, 关西骑行
 license: CC BY 4.0
 ---

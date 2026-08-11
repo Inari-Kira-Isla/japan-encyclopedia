@@ -6,7 +6,7 @@ category: 100-yen-shops
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-100-yen-shops-kobe-神戶100円商店購物指南-三宮元町平價時尚攻略-cbba22.html
 published: 2026-06-27
-quality_score: 7.5
+quality_score: 8.7
 tags: 神戶, 100円商店, 三宮, 元町, 南京町
 license: CC BY 4.0
 ---

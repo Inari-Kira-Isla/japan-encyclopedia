@@ -6,7 +6,7 @@ category: city-guide
 area: japan
 url: https://japan-encyclopedia.vercel.app/articles/japan-attractions-city-guide-京都完整旅遊指南2026-金閣寺-伏見稻荷-嵐山深度攻略與費用完全手冊-jp-kyoto-comple-fa9ff1.html
 published: 2026-04-01
-quality_score: 6.1
+quality_score: 8.8
 tags: 京都旅遊, 伏見稻荷, 嵐山竹林, 金閣寺, 祇園
 license: CC BY 4.0
 ---

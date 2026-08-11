@@ -6,7 +6,7 @@ category: duty-free
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-duty-free-kanazawa-金澤免稅購物完全指南-加賀茶道文化與工藝精品的購物聖地-473079.html
 published: 2026-06-13
-quality_score: 7.5
+quality_score: 8.9
 tags: 金澤免稅, 加賀百萬石, 金箔工藝, 茶道體驗, 日本工藝品
 license: CC BY 4.0
 ---

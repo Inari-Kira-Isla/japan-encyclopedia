@@ -6,7 +6,7 @@ category: island-hopping
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-island-hopping-nagoya-名古屋跳島之旅-從中都會出發的周邊小鎮跳躍式探索-cfaf7c.html
 published: 2026-06-27
-quality_score: 6.5
+quality_score: 8.7
 tags: 名古屋, 日本中部, 跳島旅遊, 一日遊, 常滑
 license: CC BY 4.0
 ---

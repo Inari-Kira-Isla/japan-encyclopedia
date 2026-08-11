@@ -6,7 +6,7 @@ category: 100-yen-shops
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-100-yen-shops-tokyo-東京鐵路沿線百円商店深度探索-從上都到郊外的平價購物之路-4268bf.html
 published: 2026-06-03
-quality_score: 7.5
+quality_score: 8.8
 tags: 东京百円商店, 铁路沿线购物, 埼玉县, 千叶县, 平价购物
 license: CC BY 4.0
 ---

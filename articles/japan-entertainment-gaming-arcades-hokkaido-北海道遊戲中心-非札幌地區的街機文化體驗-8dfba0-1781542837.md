@@ -6,7 +6,7 @@ category: gaming-arcades
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-gaming-arcades-hokkaido-北海道遊戲中心-非札幌地區的街機文化體驗-8dfba0-1781542837.html
 published: 2026-06-15
-quality_score: 6.5
+quality_score: 8.5
 tags: 北海道遊戲中心, 旭川街機, 函館遊戲廳, 小樽娛樂, 北海道自由行
 license: CC BY 4.0
 ---

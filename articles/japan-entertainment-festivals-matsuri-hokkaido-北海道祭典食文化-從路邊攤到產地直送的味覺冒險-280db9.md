@@ -6,7 +6,7 @@ category: festivals-matsuri
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-festivals-matsuri-hokkaido-北海道祭典食文化-從路邊攤到產地直送的味覺冒險-280db9.html
 published: 2026-07-04
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道, 祭典, 美食, 旅行, 日本
 license: CC BY 4.0
 ---

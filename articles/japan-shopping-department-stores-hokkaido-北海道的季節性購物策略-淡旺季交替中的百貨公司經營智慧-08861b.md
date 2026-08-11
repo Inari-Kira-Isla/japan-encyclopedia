@@ -6,7 +6,7 @@ category: department-stores
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-department-stores-hokkaido-北海道的季節性購物策略-淡旺季交替中的百貨公司經營智慧-08861b.html
 published: 2026-06-03
-quality_score: 7.5
+quality_score: 8.7
 tags: 北海道購物, 百货公司, 季节性购物, Sapporo, 新千岁机场
 license: CC BY 4.0
 ---

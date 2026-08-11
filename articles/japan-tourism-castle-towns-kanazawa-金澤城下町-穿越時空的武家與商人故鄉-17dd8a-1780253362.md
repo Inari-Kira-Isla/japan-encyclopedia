@@ -6,7 +6,7 @@ category: castle-towns
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-castle-towns-kanazawa-金澤城下町-穿越時空的武家與商人故鄉-17dd8a-1780253362.html
 published: 2026-05-31
-quality_score: 6.5
+quality_score: 8.9
 tags: 金澤城下町, 日本古城, 石川縣旅遊, 江戶時代, 武家町
 license: CC BY 4.0
 ---

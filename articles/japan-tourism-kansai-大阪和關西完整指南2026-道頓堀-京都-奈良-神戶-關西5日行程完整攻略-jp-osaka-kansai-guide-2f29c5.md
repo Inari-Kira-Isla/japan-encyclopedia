@@ -6,7 +6,7 @@ category: kansai
 area: japan
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-kansai-大阪和關西完整指南2026-道頓堀-京都-奈良-神戶-關西5日行程完整攻略-jp-osaka-kansai-guide-2f29c5.html
 published: 2026-03-28
-quality_score: 7.6
+quality_score: 8.4
 tags: 大阪旅遊, 關西旅遊, 道頓堀, 京都大阪行程, 關西5天
 license: CC BY 4.0
 ---

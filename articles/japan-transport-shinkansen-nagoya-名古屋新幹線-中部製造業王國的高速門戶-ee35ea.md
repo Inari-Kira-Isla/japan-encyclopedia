@@ -6,7 +6,7 @@ category: shinkansen
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-nagoya-名古屋新幹線-中部製造業王國的高速門戶-ee35ea.html
 published: 2026-04-06
-quality_score: 7.5
+quality_score: 8.8
 tags: 名古屋新幹線, 商務旅行, 產業觀光, 製造業, 交通樞紐
 license: CC BY 4.0
 ---

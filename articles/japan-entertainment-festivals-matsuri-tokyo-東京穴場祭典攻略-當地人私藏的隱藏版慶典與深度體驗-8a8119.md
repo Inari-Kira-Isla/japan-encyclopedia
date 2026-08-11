@@ -6,7 +6,7 @@ category: festivals-matsuri
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-festivals-matsuri-tokyo-東京穴場祭典攻略-當地人私藏的隱藏版慶典與深度體驗-8a8119.html
 published: 2026-05-23
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京祭典, 在地体验, 墨田区, 品川区, 隐藏版景点
 license: CC BY 4.0
 ---

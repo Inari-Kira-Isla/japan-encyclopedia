@@ -6,7 +6,7 @@ category: vintage-thrift
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-vintage-thrift-hokkaido-北海道古著尋寶-札幌學區周邊的實用時尚指南-24050b.html
 published: 2026-07-02
-quality_score: 7.5
+quality_score: 8.8
 tags: 北海道古著, 札幌古著店, 北海道大學, 古著購物, 日本古著
 license: CC BY 4.0
 ---

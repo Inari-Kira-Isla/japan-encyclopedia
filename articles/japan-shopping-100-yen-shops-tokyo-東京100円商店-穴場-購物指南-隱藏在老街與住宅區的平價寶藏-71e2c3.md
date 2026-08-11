@@ -6,7 +6,7 @@ category: 100-yen-shops
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-100-yen-shops-tokyo-東京100円商店-穴場-購物指南-隱藏在老街與住宅區的平價寶藏-71e2c3.html
 published: 2026-06-06
-quality_score: 7.5
+quality_score: 8.6
 tags: 東京購物, 100円商店, 平價購物, 東京自由行, 日本庶民文化
 license: CC BY 4.0
 ---

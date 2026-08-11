@@ -6,7 +6,7 @@ category: karaoke
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-karaoke-nara-奈良卡拉ok-鹿都夜唱的在地體驗-8ef7f4.html
 published: 2026-06-13
-quality_score: 6.5
+quality_score: 8.9
 tags: 奈良卡拉OK, 奈良夜生活, 關西娛樂, 日本卡拉OK, 奈良自由行
 license: CC BY 4.0
 ---

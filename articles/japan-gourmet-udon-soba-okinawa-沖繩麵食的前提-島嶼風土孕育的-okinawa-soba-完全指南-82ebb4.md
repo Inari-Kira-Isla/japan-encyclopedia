@@ -6,7 +6,7 @@ category: udon-soba
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-udon-soba-okinawa-沖繩麵食的前提-島嶼風土孕育的-okinawa-soba-完全指南-82ebb4.html
 published: 2026-05-25
-quality_score: 6.5
+quality_score: 8.7
 tags: OKINAWA, 麵食, 日本料理, 琉球文化, 沖繩美食
 license: CC BY 4.0
 ---

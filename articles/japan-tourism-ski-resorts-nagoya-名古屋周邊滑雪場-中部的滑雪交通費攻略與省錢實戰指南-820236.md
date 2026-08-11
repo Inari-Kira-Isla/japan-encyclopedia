@@ -6,7 +6,7 @@ category: ski-resorts
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-ski-resorts-nagoya-名古屋周邊滑雪場-中部的滑雪交通費攻略與省錢實戰指南-820236.html
 published: 2026-05-23
-quality_score: 6.5
+quality_score: 8.1
 tags: 名古屋滑雪, 名古屋滑雪交通費, 日本中部滑雪場, 名古屋自助滑雪, 中部阿爾卑斯山脈
 license: CC BY 4.0
 ---

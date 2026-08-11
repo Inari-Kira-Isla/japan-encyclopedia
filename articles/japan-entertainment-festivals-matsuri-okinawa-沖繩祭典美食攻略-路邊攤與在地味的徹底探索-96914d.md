@@ -6,7 +6,7 @@ category: festivals-matsuri
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-festivals-matsuri-okinawa-沖繩祭典美食攻略-路邊攤與在地味的徹底探索-96914d.html
 published: 2026-06-17
-quality_score: 6.5
+quality_score: 8.5
 tags: 沖繩祭典, 沖繩美食, 琉球文化, 祭典體驗,  Okinawa
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: yakitori
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-yakitori-kobe-神戶牛燒鳥-高階串燒文化的極致體現-1f6561.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 神戶美食, 燒鳥, 神戶牛, 高級料理, 日本串燒
 license: CC BY 4.0
 ---

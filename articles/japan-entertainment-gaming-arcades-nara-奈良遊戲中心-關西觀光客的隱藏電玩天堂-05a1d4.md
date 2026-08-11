@@ -6,7 +6,7 @@ category: gaming-arcades
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-gaming-arcades-nara-奈良遊戲中心-關西觀光客的隱藏電玩天堂-05a1d4.html
 published: 2026-03-24
-quality_score: 6.5
+quality_score: 8.6
 tags: 遊戲中心, 奈良, 街機文化, 日本娛樂, 懷舊電玩
 license: CC BY 4.0
 ---

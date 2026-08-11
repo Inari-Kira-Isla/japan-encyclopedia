@@ -6,7 +6,7 @@ category: religious-culture
 area: japan
 url: https://japan-encyclopedia.vercel.app/articles/japan-attractions-religious-culture-高野山完整旅遊指南2026-宿坊-奧之院-弘法大師-unesco世界遺產費用攻略-jp--116404.html
 published: 2026-04-05
-quality_score: 7.6
+quality_score: 8.4
 tags: 高野山, 宿坊住宿, 高野山奥之院, 精進料理, 日本佛教聖地
 license: CC BY 4.0
 ---

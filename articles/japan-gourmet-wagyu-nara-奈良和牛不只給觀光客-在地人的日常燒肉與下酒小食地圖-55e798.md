@@ -6,7 +6,7 @@ category: wagyu
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-wagyu-nara-奈良和牛不只給觀光客-在地人的日常燒肉與下酒小食地圖-55e798.html
 published: 2026-06-18
-quality_score: 6.5
+quality_score: 8.7
 tags: 奈良, 大和牛, 關西和牛, 燒肉, 日本和牛
 license: CC BY 4.0
 ---

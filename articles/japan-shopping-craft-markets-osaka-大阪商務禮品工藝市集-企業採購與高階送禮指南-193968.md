@@ -6,7 +6,7 @@ category: craft-markets
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-craft-markets-osaka-大阪商務禮品工藝市集-企業採購與高階送禮指南-193968.html
 published: 2026-04-05
-quality_score: 7.5
+quality_score: 8.7
 tags: 大阪購物, 商務禮品, 工藝市集, 企業採購, 日本工藝
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: nature-trails
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-okinawa-沖繩自然步道完全指南-走進熱帶島嶼的山林秘境-a94532.html
 published: 2026-06-14
-quality_score: 6.5
+quality_score: 8.7
 tags: 沖繩自然步道, 亞熱帶步道, 沖繩登山,  Okinawa hiking, 熱帶秘境
 license: CC BY 4.0
 ---

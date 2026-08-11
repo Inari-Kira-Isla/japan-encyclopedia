@@ -6,7 +6,7 @@ category: sake-brewery
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sake-brewery-fukuoka-福岡清酒釀造-杜氏精神與四季釀造的職人物語-634d4b.html
 published: 2026-06-08
-quality_score: 6.5
+quality_score: 8.7
 tags: 福岡清酒, 杜氏文化, 九州釀造, 酒蔵參觀, 寒釀
 license: CC BY 4.0
 ---

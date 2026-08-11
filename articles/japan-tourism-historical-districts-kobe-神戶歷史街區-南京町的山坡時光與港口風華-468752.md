@@ -6,7 +6,7 @@ category: historical-districts
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-kobe-神戶歷史街區-南京町的山坡時光與港口風華-468752.html
 published: 2026-05-25
-quality_score: 6.5
+quality_score: 8.5
 tags: 神戶, 歷史街區, 南京町, 山王, 異人館
 license: CC BY 4.0
 ---

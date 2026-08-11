@@ -6,7 +6,7 @@ category: cycling
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-hiroshima-廣島單車漫遊-瀨戶內藝術島嶼的跳島騎行攻略-a3ba91.html
 published: 2026-06-30
-quality_score: 7.5
+quality_score: 8.8
 tags: 廣島單車, 島並海道, 瀨戶內海, 跳島騎行, 藝術島嶼
 license: CC BY 4.0
 ---

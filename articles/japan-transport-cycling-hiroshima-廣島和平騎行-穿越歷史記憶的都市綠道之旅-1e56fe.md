@@ -6,7 +6,7 @@ category: cycling
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-hiroshima-廣島和平騎行-穿越歷史記憶的都市綠道之旅-1e56fe.html
 published: 2026-04-04
-quality_score: 7.5
+quality_score: 8.7
 tags: 廣島騎行, 和平紀念, 都市自行車道, 歷史文化, 太田川
 license: CC BY 4.0
 ---

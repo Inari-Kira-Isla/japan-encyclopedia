@@ -6,7 +6,7 @@ category: nightlife
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-nagoya-名古屋夜生活-工廠下班後的深夜食堂物語-e4298b.html
 published: 2026-06-02
-quality_score: 6.5
+quality_score: 8.3
 tags: 名古屋夜生活, 深夜食堂, 工业园区, 平价美食, 在地文化
 license: CC BY 4.0
 ---

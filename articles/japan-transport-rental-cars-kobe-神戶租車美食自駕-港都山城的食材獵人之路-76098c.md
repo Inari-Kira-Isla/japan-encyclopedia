@@ -6,7 +6,7 @@ category: rental-cars
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-kobe-神戶租車美食自駕-港都山城的食材獵人之路-76098c.html
 published: 2026-07-05
-quality_score: 7.5
+quality_score: 8.8
 tags: 神戶租車, 神戶自駕, 神戶美食, 關西美食, 神戶自由行
 license: CC BY 4.0
 ---

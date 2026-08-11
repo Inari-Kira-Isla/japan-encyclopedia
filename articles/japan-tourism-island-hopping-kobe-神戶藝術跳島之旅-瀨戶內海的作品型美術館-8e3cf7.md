@@ -6,7 +6,7 @@ category: island-hopping
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-island-hopping-kobe-神戶藝術跳島之旅-瀨戶內海的作品型美術館-8e3cf7.html
 published: 2026-06-25
-quality_score: 6.5
+quality_score: 8.8
 tags: 神戶跳島, 瀨戶內海, 藝術旅行, 直島, 豐島
 license: CC BY 4.0
 ---

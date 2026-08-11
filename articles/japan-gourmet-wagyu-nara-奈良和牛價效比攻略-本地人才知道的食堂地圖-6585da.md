@@ -6,7 +6,7 @@ category: wagyu
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-wagyu-nara-奈良和牛價效比攻略-本地人才知道的食堂地圖-6585da.html
 published: 2026-03-23
-quality_score: 6.5
+quality_score: 8.6
 tags: 奈良和牛, 日本美食, 性價比攻略, 燒肉食堂, 古都美食
 license: CC BY 4.0
 ---

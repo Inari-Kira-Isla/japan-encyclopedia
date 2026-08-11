@@ -6,7 +6,7 @@ category: tempura
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tempura-nagoya-名古屋天婦羅-巷弄中的copper-pot天婦羅與伊勢灣海味的日常風味-d3fea8.html
 published: 2026-05-24
-quality_score: 6.5
+quality_score: 8.5
 tags: 名古屋, 天婦羅, 中日式, 在地美食, 名古屋站
 license: CC BY 4.0
 ---

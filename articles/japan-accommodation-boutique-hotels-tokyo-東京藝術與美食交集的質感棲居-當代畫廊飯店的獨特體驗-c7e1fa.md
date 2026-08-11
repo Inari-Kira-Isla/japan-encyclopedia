@@ -6,7 +6,7 @@ category: boutique-hotels
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-tokyo-東京藝術與美食交集的質感棲居-當代畫廊飯店的獨特體驗-c7e1fa.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 8.8
 tags: 東京精品飯店, 畫廊飯店, 東京藝術飯店, 設計旅宿, 米其林餐廳住宿
 license: CC BY 4.0
 ---

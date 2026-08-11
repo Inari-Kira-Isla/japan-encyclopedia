@@ -6,7 +6,7 @@ category: yakitori
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-yakitori-nara-奈良燒鳥-古都參拜後的串燒小憩-d08eba.html
 published: 2026-06-08
-quality_score: 6.5
+quality_score: 8.6
 tags: 奈良燒鳥, 古都美食, 奈良旅遊, 日本串燒, 關西美食
 license: CC BY 4.0
 ---

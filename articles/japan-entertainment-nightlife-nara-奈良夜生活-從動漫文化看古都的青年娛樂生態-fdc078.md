@@ -6,7 +6,7 @@ category: nightlife
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-nara-奈良夜生活-從動漫文化看古都的青年娛樂生態-fdc078.html
 published: 2026-03-21
-quality_score: 6.5
+quality_score: 8.7
 tags: 奈良夜生活, 日本娛樂, 青年文化, 居酒屋, 卡拉OK
 license: CC BY 4.0
 ---

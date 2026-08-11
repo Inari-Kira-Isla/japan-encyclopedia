@@ -6,7 +6,7 @@ category: vintage-thrift
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-vintage-thrift-kanazawa-金澤古著散步-兼六園外的復古尋寶路線-4706e1.html
 published: 2026-05-22
-quality_score: 7.5
+quality_score: 8.8
 tags: 金澤古著, 兼六園, 古道具, 和日本, vintage
 license: CC BY 4.0
 ---

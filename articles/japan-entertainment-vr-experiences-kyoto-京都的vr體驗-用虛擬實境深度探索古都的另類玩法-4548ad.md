@@ -6,7 +6,7 @@ category: vr-experiences
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-vr-experiences-kyoto-京都的vr體驗-用虛擬實境深度探索古都的另類玩法-4548ad.html
 published: 2026-05-21
-quality_score: 6.5
+quality_score: 8.4
 tags: 京都VR, 關西娛樂, 京都自由行, VR體驗, 京都景點
 license: CC BY 4.0
 ---

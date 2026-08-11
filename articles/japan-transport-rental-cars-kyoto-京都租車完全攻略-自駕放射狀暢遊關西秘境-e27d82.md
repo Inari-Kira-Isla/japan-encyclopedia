@@ -6,7 +6,7 @@ category: rental-cars
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-kyoto-京都租車完全攻略-自駕放射狀暢遊關西秘境-e27d82.html
 published: 2026-06-01
-quality_score: 7.5
+quality_score: 8.5
 tags: 京都租車, 關西自駕, 日本租車, 京阪神奈, 放射狀旅遊
 license: CC BY 4.0
 ---

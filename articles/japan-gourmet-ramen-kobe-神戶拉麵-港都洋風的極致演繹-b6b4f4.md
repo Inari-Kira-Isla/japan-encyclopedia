@@ -6,7 +6,7 @@ category: ramen
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-ramen-kobe-神戶拉麵-港都洋風的極致演繹-b6b4f4.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 8.7
 tags: 神戶拉麵, Kobe Ramen, 牛骨湯底, 港都洋風, 神戶美食
 license: CC BY 4.0
 ---

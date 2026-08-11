@@ -6,7 +6,7 @@ category: minshuku
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-osaka-大阪民宿-在地文化探險家的歷史漫步指南-5d362b.html
 published: 2026-03-24
-quality_score: 6.5
+quality_score: 8.8
 tags: 大阪民宿, 日本住宿, 下町文化, 歷史探險, 長期居住
 license: CC BY 4.0
 ---

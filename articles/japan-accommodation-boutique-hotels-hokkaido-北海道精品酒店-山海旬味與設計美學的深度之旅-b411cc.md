@@ -6,7 +6,7 @@ category: boutique-hotels
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-hokkaido-北海道精品酒店-山海旬味與設計美學的深度之旅-b411cc.html
 published: 2026-04-07
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道, 精品酒店, 美食住宿, 溫泉, 日本旅遊
 license: CC BY 4.0
 ---

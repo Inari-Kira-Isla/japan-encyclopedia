@@ -6,7 +6,7 @@ category: capsule-hotels
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-capsule-hotels-fukuoka-福岡膠囊飯店完全指南-深夜食堂與膠囊住宿的完美共生-8972c3.html
 published: 2026-06-07
-quality_score: 6.5
+quality_score: 8.6
 tags: 福岡, 膠囊飯店, 屋台, 九州住宿, budget travel
 license: CC BY 4.0
 ---

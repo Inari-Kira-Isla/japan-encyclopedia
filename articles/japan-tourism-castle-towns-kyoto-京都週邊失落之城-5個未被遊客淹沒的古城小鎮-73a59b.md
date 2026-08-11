@@ -6,7 +6,7 @@ category: castle-towns
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-castle-towns-kyoto-京都週邊失落之城-5個未被遊客淹沒的古城小鎮-73a59b.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 8.7
 tags: 京都城堡城鎮, 福知山, 龜岡, 舞鶴, 加悅
 license: CC BY 4.0
 ---

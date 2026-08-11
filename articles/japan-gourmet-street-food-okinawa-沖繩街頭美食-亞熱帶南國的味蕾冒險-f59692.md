@@ -6,7 +6,7 @@ category: street-food
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-street-food-okinawa-沖繩街頭美食-亞熱帶南國的味蕾冒險-f59692.html
 published: 2026-06-02
-quality_score: 6.5
+quality_score: 8.5
 tags: 沖繩 street food, 沖繩美食, 那霸小吃, 亞熱帶美食推薦, 日本街頭美食
 license: CC BY 4.0
 ---

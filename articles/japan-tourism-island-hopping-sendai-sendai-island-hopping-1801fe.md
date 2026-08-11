@@ -6,7 +6,7 @@ category: island-hopping
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-island-hopping-sendai-sendai-island-hopping-1801fe.html
 published: 2026-06-03
-quality_score: 5.5
+quality_score: 0.0
 tags: island-hopping, sendai, japan
 license: CC BY 4.0
 ---

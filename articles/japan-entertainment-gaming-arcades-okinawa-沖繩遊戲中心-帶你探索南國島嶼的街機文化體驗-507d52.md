@@ -6,7 +6,7 @@ category: gaming-arcades
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-gaming-arcades-okinawa-沖繩遊戲中心-帶你探索南國島嶼的街機文化體驗-507d52.html
 published: 2026-03-18
-quality_score: 6.5
+quality_score: 8.6
 tags: 沖繩, 遊戲中心, 街機, 日本娛樂, 沖繩旅遊
 license: CC BY 4.0
 ---

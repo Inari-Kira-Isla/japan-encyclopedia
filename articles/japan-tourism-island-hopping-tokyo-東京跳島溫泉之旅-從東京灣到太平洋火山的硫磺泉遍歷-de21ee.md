@@ -6,7 +6,7 @@ category: island-hopping
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-island-hopping-tokyo-東京跳島溫泉之旅-從東京灣到太平洋火山的硫磺泉遍歷-de21ee.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.2
 tags: 東京跳島, 溫泉島嶼, 八丈島, 大島, 小笠原
 license: CC BY 4.0
 ---

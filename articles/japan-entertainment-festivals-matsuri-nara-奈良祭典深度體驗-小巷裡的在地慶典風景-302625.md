@@ -6,7 +6,7 @@ category: festivals-matsuri
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-festivals-matsuri-nara-奈良祭典深度體驗-小巷裡的在地慶典風景-302625.html
 published: 2026-06-02
-quality_score: 6.5
+quality_score: 8.7
 tags: 奈良祭典, 日本文化體驗, 古都慢遊, 深度旅遊, 冬季日本
 license: CC BY 4.0
 ---

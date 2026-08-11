@@ -6,7 +6,7 @@ category: souvenir-omiyage
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-souvenir-omiyage-nara-奈良伴手禮省錢攻略-千元有找的人氣土產採購技巧-4af912.html
 published: 2026-06-20
-quality_score: 7.5
+quality_score: 8.9
 tags: 奈良伴手禮, 省錢攻略, 千元伴手禮, 奈良土產, 奈良購物
 license: CC BY 4.0
 ---

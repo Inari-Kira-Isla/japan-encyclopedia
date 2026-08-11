@@ -6,7 +6,7 @@ category: buses
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-buses-nagoya-名古屋巴士系統完全指南-從日常生活看懂中部交通生態-d0223f.html
 published: 2026-03-23
-quality_score: 7.5
+quality_score: 8.5
 tags: 名古屋, 巴士系統, 市營巴士, 交通指南, 日本旅遊
 license: CC BY 4.0
 ---

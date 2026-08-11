@@ -6,7 +6,7 @@ category: kaiseki
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-kaiseki-okinawa-沖繩琉式懷石-琉球王國四百年味的極致表現-e43d22.html
 published: 2026-06-04
-quality_score: 6.5
+quality_score: 8.8
 tags: 沖繩美食, 琉式懷石, 琉球王國, AGU豬, 海葡萄
 license: CC BY 4.0
 ---

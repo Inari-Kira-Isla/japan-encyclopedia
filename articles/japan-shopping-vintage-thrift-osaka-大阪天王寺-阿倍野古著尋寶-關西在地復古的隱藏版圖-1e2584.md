@@ -6,7 +6,7 @@ category: vintage-thrift
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-vintage-thrift-osaka-大阪天王寺-阿倍野古著尋寶-關西在地復古的隱藏版圖-1e2584.html
 published: 2026-06-28
-quality_score: 7.5
+quality_score: 8.9
 tags: 大阪古著, 天王寺, 阿倍野, 日本古著, 關西購物
 license: CC BY 4.0
 ---

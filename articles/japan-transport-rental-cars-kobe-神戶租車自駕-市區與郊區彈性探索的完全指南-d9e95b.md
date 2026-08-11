@@ -6,7 +6,7 @@ category: rental-cars
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-kobe-神戶租車自駕-市區與郊區彈性探索的完全指南-d9e95b.html
 published: 2026-06-21
-quality_score: 7.5
+quality_score: 8.6
 tags: 神戶租車, 關西自駕, 六甲山, 有馬溫泉, 神戶機場
 license: CC BY 4.0
 ---

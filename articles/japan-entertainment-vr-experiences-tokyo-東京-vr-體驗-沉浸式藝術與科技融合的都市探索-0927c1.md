@@ -6,7 +6,7 @@ category: vr-experiences
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-vr-experiences-tokyo-東京-vr-體驗-沉浸式藝術與科技融合的都市探索-0927c1.html
 published: 2026-06-14
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京VR, 沉浸式藝術, teamLab, 東京景點, VR體驗
 license: CC BY 4.0
 ---

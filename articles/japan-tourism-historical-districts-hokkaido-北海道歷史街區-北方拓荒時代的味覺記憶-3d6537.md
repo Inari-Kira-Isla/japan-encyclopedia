@@ -6,7 +6,7 @@ category: historical-districts
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-hokkaido-北海道歷史街區-北方拓荒時代的味覺記憶-3d6537.html
 published: 2026-06-29
-quality_score: 6.5
+quality_score: 8.5
 tags: 北海道, 歷史街區, 小樽, 函館, 札幌
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: wagyu
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-wagyu-sendai-仙台和牛季節採購指南-東北流通中樞的頂級肉品戰略-aafe39.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.8
 tags: 仙台和牛, 東北美食, 採購指南, 批發市場, 季節性美食
 license: CC BY 4.0
 ---

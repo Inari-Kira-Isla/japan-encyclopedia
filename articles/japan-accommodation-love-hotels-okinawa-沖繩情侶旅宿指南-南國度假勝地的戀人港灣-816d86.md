@@ -6,7 +6,7 @@ category: love-hotels
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-love-hotels-okinawa-沖繩情侶旅宿指南-南國度假勝地的戀人港灣-816d86.html
 published: 2026-06-17
-quality_score: 6.5
+quality_score: 8.7
 tags: 沖繩情侶旅宿,  Okinawa戀人飯店, 南國度假, 恩納村住宿, 那霸住宿
 license: CC BY 4.0
 ---

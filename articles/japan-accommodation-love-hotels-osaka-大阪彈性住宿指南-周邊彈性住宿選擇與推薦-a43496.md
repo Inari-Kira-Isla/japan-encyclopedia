@@ -6,7 +6,7 @@ category: love-hotels
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-love-hotels-osaka-大阪彈性住宿指南-周邊彈性住宿選擇與推薦-a43496.html
 published: 2026-06-20
-quality_score: 6.5
+quality_score: 8.5
 tags: 大阪住宿, 關西住宿, 大阪彈性住宿, 大阪商務酒店, 大阪膠囊住宿
 license: CC BY 4.0
 ---

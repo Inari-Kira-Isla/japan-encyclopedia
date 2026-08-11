@@ -6,7 +6,7 @@ category: cycling
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-kobe-神戶單車登山挑戰-六甲山系重度玩家的垂直征途-760936.html
 published: 2026-06-04
-quality_score: 7.5
+quality_score: 8.7
 tags: 神戶單車, 六甲山騎行, 登山腳踏車, 神戶運動休閒, 神戶深度遊
 license: CC BY 4.0
 ---

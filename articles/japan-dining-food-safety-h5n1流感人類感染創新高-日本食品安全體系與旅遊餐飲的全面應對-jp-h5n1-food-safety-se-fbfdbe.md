@@ -6,7 +6,7 @@ category: food-safety
 area: japan
 url: https://japan-encyclopedia.vercel.app/articles/japan-dining-food-safety-h5n1流感人類感染創新高-日本食品安全體系與旅遊餐飲的全面應對-jp-h5n1-food-safety-se-fbfdbe.html
 published: 2026-03-28
-quality_score: 7.6
+quality_score: 8.1
 tags: H5N1, 日本食品安全, 食材安全, 禽流感, 供應鏈2026
 license: CC BY 4.0
 ---

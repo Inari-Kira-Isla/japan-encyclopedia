@@ -6,7 +6,7 @@ category: boutique-hotels
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-hokkaido-北海道精品酒店-雪國旬味與設計棲所的美食繫住宿指南-5bffca.html
 published: 2026-06-16
-quality_score: 6.5
+quality_score: 8.5
 tags: 北海道精品酒店, 雪國住宿, 美食系飯店, 海膽, 帝王蟹
 license: CC BY 4.0
 ---

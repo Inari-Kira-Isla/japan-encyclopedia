@@ -6,7 +6,7 @@ category: temples-shrines
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-temples-shrines-fukuoka-福岡神社寺院-港都商賈的祈福之路-b7af42.html
 published: 2026-06-22
-quality_score: 6.5
+quality_score: 8.7
 tags: 福岡神社, 博多寺院, 櫛田神社, 聖福寺, 住吉神社
 license: CC BY 4.0
 ---

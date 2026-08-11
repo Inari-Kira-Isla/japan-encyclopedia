@@ -6,7 +6,7 @@ category: street-food
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-street-food-fukuoka-福岡街頭美食不完全指南-從清晨海鮮到深夜鐵板的時間地圖-383838.html
 published: 2026-05-21
-quality_score: 6.5
+quality_score: 8.5
 tags: 福岡, 屋台, 街頭美食, 九州, 博多
 license: CC BY 4.0
 ---

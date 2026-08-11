@@ -6,7 +6,7 @@ category: day-trips
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-nagoya-名古屋美食一日遊-從味噌煮込み到伊勢海的味覺旅程-0736fc.html
 published: 2026-03-24
-quality_score: 6.5
+quality_score: 8.6
 tags: 名古屋美食, 中部一日遊, 味噌煮込み, 伊勢灣海產, 日本料理
 license: CC BY 4.0
 ---

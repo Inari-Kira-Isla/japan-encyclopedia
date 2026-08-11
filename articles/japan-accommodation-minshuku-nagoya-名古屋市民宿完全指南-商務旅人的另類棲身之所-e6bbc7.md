@@ -6,7 +6,7 @@ category: minshuku
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-nagoya-名古屋市民宿完全指南-商務旅人的另類棲身之所-e6bbc7.html
 published: 2026-05-22
-quality_score: 6.5
+quality_score: 8.7
 tags: 名古屋民宿, minshuku, 商务出差, 中部旅行, 日本住宿
 license: CC BY 4.0
 ---

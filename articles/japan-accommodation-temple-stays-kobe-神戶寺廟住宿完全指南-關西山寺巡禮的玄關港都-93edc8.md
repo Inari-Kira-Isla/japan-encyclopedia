@@ -6,7 +6,7 @@ category: temple-stays
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-temple-stays-kobe-神戶寺廟住宿完全指南-關西山寺巡禮的玄關港都-93edc8.html
 published: 2026-06-08
-quality_score: 6.5
+quality_score: 8.7
 tags: 神戶寺廟住宿, 關西山寺巡禮, 比叡山延曆寺, 高野山金剛峰寺, 吉野山
 license: CC BY 4.0
 ---

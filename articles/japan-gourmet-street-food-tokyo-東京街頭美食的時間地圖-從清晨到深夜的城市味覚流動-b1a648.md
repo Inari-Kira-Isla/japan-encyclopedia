@@ -6,7 +6,7 @@ category: street-food
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-street-food-tokyo-東京街頭美食的時間地圖-從清晨到深夜的城市味覚流動-b1a648.html
 published: 2026-06-03
-quality_score: 6.5
+quality_score: 8.5
 tags: 東京, 街頭美食, 時間維度, 上班族的日常, 庶民美食
 license: CC BY 4.0
 ---

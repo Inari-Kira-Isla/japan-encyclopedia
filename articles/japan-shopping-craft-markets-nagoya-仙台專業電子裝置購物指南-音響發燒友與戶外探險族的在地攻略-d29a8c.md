@@ -6,7 +6,7 @@ category: craft-markets
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-craft-markets-nagoya-仙台專業電子裝置購物指南-音響發燒友與戶外探險族的在地攻略-d29a8c.html
 published: 2026-06-10
-quality_score: 7.5
+quality_score: 8.8
 tags: 仙台電子產品, 東北購物, 專業音響, 戶外電子, 日本購物攻略
 license: CC BY 4.0
 ---

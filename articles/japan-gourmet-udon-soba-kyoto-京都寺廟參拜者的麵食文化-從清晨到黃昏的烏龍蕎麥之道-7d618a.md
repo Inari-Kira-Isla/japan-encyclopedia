@@ -6,7 +6,7 @@ category: udon-soba
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-udon-soba-kyoto-京都寺廟參拜者的麵食文化-從清晨到黃昏的烏龍蕎麥之道-7d618a.html
 published: 2026-04-06
-quality_score: 6.5
+quality_score: 8.8
 tags: 京都美食, 日式麵食, 寺廟文化, 精進料理, 參拜體驗
 license: CC BY 4.0
 ---

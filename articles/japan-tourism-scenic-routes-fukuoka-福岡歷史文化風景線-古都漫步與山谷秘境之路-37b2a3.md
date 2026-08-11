@@ -6,7 +6,7 @@ category: scenic-routes
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-fukuoka-福岡歷史文化風景線-古都漫步與山谷秘境之路-37b2a3.html
 published: 2026-04-07
-quality_score: 6.5
+quality_score: 8.9
 tags: 福岡, 風景道路, 太宰府, 歷史古蹟, 文化巡禮
 license: CC BY 4.0
 ---

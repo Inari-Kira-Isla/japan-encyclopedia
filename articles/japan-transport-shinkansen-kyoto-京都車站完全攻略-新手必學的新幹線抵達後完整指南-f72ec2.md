@@ -6,7 +6,7 @@ category: shinkansen
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-kyoto-京都車站完全攻略-新手必學的新幹線抵達後完整指南-f72ec2.html
 published: 2026-06-03
-quality_score: 7.5
+quality_score: 8.7
 tags: 京都車站, 關西旅遊, JR Pass, 京都交通, 京都自由行
 license: CC BY 4.0
 ---

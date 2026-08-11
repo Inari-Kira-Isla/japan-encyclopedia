@@ -6,7 +6,7 @@ category: airport-transfer
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-airport-transfer-sendai-仙台機場精明接駁術-預算遊客的省錢交通攻略-1e5bd8.html
 published: 2026-03-27
-quality_score: 7.5
+quality_score: 8.6
 tags: 仙台機場, 交通攻略, 預算旅行, 東北旅遊, 機場接駁
 license: CC BY 4.0
 ---

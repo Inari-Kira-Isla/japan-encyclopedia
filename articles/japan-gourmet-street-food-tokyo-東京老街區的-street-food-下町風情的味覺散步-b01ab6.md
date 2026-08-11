@@ -6,7 +6,7 @@ category: street-food
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-street-food-tokyo-東京老街區的-street-food-下町風情的味覺散步-b01ab6.html
 published: 2026-05-21
-quality_score: 6.5
+quality_score: 8.6
 tags: Tokyo street food, 下町美食, 文字燒, 淺草小吃, 日本橋
 license: CC BY 4.0
 ---

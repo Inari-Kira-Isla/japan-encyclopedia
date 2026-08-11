@@ -6,7 +6,7 @@ category: street-food
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-street-food-nagoya-名古屋深夜街食探秘-工薪族的宵夜天堂與味噌文化進化論-f46f13.html
 published: 2026-04-02
-quality_score: 6.5
+quality_score: 8.8
 tags: 名古屋美食, 深夜街食, 工薪族文化, 味噌料理, 中部地方
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: ryokan
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-nara-奈良古寺院宿坊與町家旅宿-走進大和之鄉的千年時光-089104.html
 published: 2026-06-22
-quality_score: 6.5
+quality_score: 8.6
 tags: 奈良Ryokan, 寺院宿坊, 奈良町家, 日本古都住宿, 奈良溫泉
 license: CC BY 4.0
 ---

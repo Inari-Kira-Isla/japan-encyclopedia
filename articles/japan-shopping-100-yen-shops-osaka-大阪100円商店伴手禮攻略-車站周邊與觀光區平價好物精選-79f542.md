@@ -6,7 +6,7 @@ category: 100-yen-shops
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-100-yen-shops-osaka-大阪100円商店伴手禮攻略-車站周邊與觀光區平價好物精選-79f542.html
 published: 2026-06-13
-quality_score: 7.5
+quality_score: 8.7
 tags: 大阪100円商店, 大阪伴手禮, 大阪購物, 大阪自由行, 大阪必逛
 license: CC BY 4.0
 ---

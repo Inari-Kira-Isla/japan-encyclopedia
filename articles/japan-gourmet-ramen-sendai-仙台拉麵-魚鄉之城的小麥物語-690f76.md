@@ -6,7 +6,7 @@ category: ramen
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-ramen-sendai-仙台拉麵-魚鄉之城的小麥物語-690f76.html
 published: 2026-06-04
-quality_score: 6.5
+quality_score: 8.7
 tags: 仙台拉麵, 東北拉麵, 日本拉麵, 仙台美食, 阿武隈川
 license: CC BY 4.0
 ---

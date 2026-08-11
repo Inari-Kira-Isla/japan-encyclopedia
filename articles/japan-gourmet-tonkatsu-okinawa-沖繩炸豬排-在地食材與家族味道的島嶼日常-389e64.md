@@ -6,7 +6,7 @@ category: tonkatsu
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tonkatsu-okinawa-沖繩炸豬排-在地食材與家族味道的島嶼日常-389e64.html
 published: 2026-06-28
-quality_score: 6.5
+quality_score: 8.5
 tags: 沖繩炸豬排, 沖繩美食, 阿古豬, 島嶼洋食, 沖繩家庭式餐廳
 license: CC BY 4.0
 ---

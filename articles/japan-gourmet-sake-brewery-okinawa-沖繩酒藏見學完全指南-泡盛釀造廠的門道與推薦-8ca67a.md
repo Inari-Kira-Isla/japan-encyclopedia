@@ -6,7 +6,7 @@ category: sake-brewery
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sake-brewery-okinawa-沖繩酒藏見學完全指南-泡盛釀造廠的門道與推薦-8ca67a.html
 published: 2026-06-30
-quality_score: 6.5
+quality_score: 8.8
 tags: 沖繩, 泡盛, 酒藏見學, 釀造廠, awamori
 license: CC BY 4.0
 ---

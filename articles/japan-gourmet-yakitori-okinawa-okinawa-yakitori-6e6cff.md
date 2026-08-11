@@ -6,7 +6,7 @@ category: yakitori
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-yakitori-okinawa-okinawa-yakitori-6e6cff.html
 published: 2026-03-22
-quality_score: 5.5
+quality_score: 7.3
 tags: yakitori, okinawa, japan
 license: CC BY 4.0
 ---

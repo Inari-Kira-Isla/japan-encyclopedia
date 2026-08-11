@@ -6,7 +6,7 @@ category: izakaya
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-izakaya-kyoto-京都居酒屋的四季物語-從食材出發的精緻酒食指南-9f35a1.html
 published: 2026-06-17
-quality_score: 6.5
+quality_score: 8.8
 tags: 京都居酒屋, 京料理, 地酒, 伏見, 豆腐
 license: CC BY 4.0
 ---

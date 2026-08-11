@@ -6,7 +6,7 @@ category: sushi
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sushi-nara-奈良的壽司-古都的隱藏版美味-1a2cd9.html
 published: 2026-06-02
-quality_score: 6.5
+quality_score: 8.7
 tags: 奈良壽司, 奈良美食, 日本壽司, 近鐵奈良, 古都美食
 license: CC BY 4.0
 ---

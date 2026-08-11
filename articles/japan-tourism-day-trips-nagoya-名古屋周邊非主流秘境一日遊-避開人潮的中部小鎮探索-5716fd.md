@@ -6,7 +6,7 @@ category: day-trips
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-nagoya-名古屋周邊非主流秘境一日遊-避開人潮的中部小鎮探索-5716fd.html
 published: 2026-06-13
-quality_score: 6.5
+quality_score: 8.7
 tags: 名古屋一日遊, 中部地方秘境, 非主流景點, 常滑陶瓷, 犬山三光寺
 license: CC BY 4.0
 ---

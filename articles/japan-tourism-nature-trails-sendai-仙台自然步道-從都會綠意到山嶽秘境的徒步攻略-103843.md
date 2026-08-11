@@ -6,7 +6,7 @@ category: nature-trails
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-sendai-仙台自然步道-從都會綠意到山嶽秘境的徒步攻略-103843.html
 published: 2026-06-27
-quality_score: 6.5
+quality_score: 8.7
 tags: 仙台, 自然步道, 健行, 日本東北, 杜之都
 license: CC BY 4.0
 ---

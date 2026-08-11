@@ -6,7 +6,7 @@ category: craft-markets
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-craft-markets-kanazawa-金澤手工商夫市集完全攻略-加賀百萬石城下町的挖寶指南-16a68d.html
 published: 2026-05-25
-quality_score: 7.5
+quality_score: 8.9
 tags: 金澤工藝市集, 加賀百萬石, 石川手作, 九谷燒, 金澤挖寶指南
 license: CC BY 4.0
 ---

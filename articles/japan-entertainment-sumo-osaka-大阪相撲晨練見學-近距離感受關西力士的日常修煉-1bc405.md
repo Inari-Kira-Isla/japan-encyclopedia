@@ -6,7 +6,7 @@ category: sumo
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-osaka-大阪相撲晨練見學-近距離感受關西力士的日常修煉-1bc405.html
 published: 2026-06-04
-quality_score: 6.5
+quality_score: 8.8
 tags: 大阪相撲, 道場見學, 晨練體驗, 關西力士, 相撲文化
 license: CC BY 4.0
 ---

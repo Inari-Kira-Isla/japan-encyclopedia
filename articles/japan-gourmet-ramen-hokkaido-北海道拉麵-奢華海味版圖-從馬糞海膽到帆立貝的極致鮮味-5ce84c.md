@@ -6,7 +6,7 @@ category: ramen
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-ramen-hokkaido-北海道拉麵-奢華海味版圖-從馬糞海膽到帆立貝的極致鮮味-5ce84c.html
 published: 2026-05-22
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道拉麵, 海膽拉麵, 帆立貝, 馬糞海膽, 札幌美食
 license: CC BY 4.0
 ---

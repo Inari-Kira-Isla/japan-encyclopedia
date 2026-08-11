@@ -6,7 +6,7 @@ category: electronics
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-electronics-sendai-仙台專業電子商店指南-小眾店家與在地特色的隱藏寶庫-336a1d.html
 published: 2026-06-24
-quality_score: 7.5
+quality_score: 8.7
 tags: 仙台電子產品, 專業電子商店, 東北購物, 二手相機, 寒地電子設備
 license: CC BY 4.0
 ---

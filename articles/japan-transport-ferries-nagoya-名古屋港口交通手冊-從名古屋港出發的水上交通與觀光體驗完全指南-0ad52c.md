@@ -6,7 +6,7 @@ category: ferries
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-ferries-nagoya-名古屋港口交通手冊-從名古屋港出發的水上交通與觀光體驗完全指南-0ad52c.html
 published: 2026-06-30
-quality_score: 7.5
+quality_score: 8.6
 tags: 名古屋交通, 港口觀光, 渡輪, 日本中部, 一日遊
 license: CC BY 4.0
 ---

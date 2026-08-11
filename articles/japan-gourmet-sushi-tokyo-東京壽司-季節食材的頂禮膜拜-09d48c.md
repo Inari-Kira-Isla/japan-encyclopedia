@@ -6,7 +6,7 @@ category: sushi
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sushi-tokyo-東京壽司-季節食材的頂禮膜拜-09d48c.html
 published: 2026-03-24
-quality_score: 6.5
+quality_score: 8.6
 tags: 日本美食, 東京, 壽司, 江戶前壽司, 季節食材
 license: CC BY 4.0
 ---

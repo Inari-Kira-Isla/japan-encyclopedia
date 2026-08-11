@@ -6,7 +6,7 @@ category: shinkansen
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-osaka-新大阪站完全攻略-抵達關西的第一哩路這樣走-b57127.html
 published: 2026-06-04
-quality_score: 7.5
+quality_score: 8.7
 tags: 新大阪站, 關西機場, 交通攻略, JR PASS, 大阪住宿
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: depachika
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-depachika-kanazawa-金澤depachika的四季旬味-跟著在地人吃懂加賀御料理的食材智慧-6f0e85.html
 published: 2026-06-18
-quality_score: 6.5
+quality_score: 8.8
 tags: 金澤Depachika, 加賀料理, 金澤美食, 能登半島海味, 日本Depachika
 license: CC BY 4.0
 ---

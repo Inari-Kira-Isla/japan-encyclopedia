@@ -6,7 +6,7 @@ category: vintage-thrift
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-vintage-thrift-hokkaido-北海道鐵路沿線古著尋寶-小樽-函館的復古時光-c9f71f.html
 published: 2026-06-30
-quality_score: 7.5
+quality_score: 8.8
 tags: 北海道古著, 小樽古著, 函館古著, 鐵路沿線購物, 札幌古著
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: airport-transfer
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-airport-transfer-kyoto-關西機場到京都交通全攻略-多種方式輕鬆穿梭古都-9aeaaa.html
 published: 2026-06-21
-quality_score: 7.5
+quality_score: 8.5
 tags: 京都機場交通, 關西機場, 京都交通, HARUKA, 機場接送
 license: CC BY 4.0
 ---

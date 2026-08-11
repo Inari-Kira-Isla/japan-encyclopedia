@@ -6,7 +6,7 @@ category: yakitori
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-yakitori-tokyo-東京燒鳥-都會夜晚的串燒社交學-fe12da.html
 published: 2026-06-08
-quality_score: 6.5
+quality_score: 8.6
 tags: 東京燒鳥, 東京美食, 日本料理, 夜生活, Yakitori
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: shinkansen
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-kyoto-京都新幹線-關西旅遊的高效中繼站-3d22c2.html
 published: 2026-04-02
-quality_score: 7.5
+quality_score: 8.7
 tags: 京都交通, 新幹線, 關西旅遊, 一日遊規劃, JR PASS
 license: CC BY 4.0
 ---

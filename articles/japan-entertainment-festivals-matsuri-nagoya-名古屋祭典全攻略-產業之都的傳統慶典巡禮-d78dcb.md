@@ -6,7 +6,7 @@ category: festivals-matsuri
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-festivals-matsuri-nagoya-名古屋祭典全攻略-產業之都的傳統慶典巡禮-d78dcb.html
 published: 2026-06-02
-quality_score: 6.5
+quality_score: 8.7
 tags: Nagoya, 祭典, 日本祭, 名古屋祭, 中部地方
 license: CC BY 4.0
 ---

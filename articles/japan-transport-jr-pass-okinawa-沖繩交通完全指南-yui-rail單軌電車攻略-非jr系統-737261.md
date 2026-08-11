@@ -6,7 +6,7 @@ category: jr-pass
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-jr-pass-okinawa-沖繩交通完全指南-yui-rail單軌電車攻略-非jr系統-737261.html
 published: 2026-03-20
-quality_score: 7.5
+quality_score: 8.8
 tags: 沖繩交通, Yui Rail, 單軌電車, 那霸旅遊, 首里城
 license: CC BY 4.0
 ---

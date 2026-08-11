@@ -6,7 +6,7 @@ category: ferries
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-ferries-tokyo-東京出發的島嶼渡輪-前往沖繩・宮古・石垣的海上之路-aa2348.html
 published: 2026-06-12
-quality_score: 7.5
+quality_score: 8.7
 tags: 東京渡輪, 東京交通, 沖繩旅遊, 石垣島, 宮古島
 license: CC BY 4.0
 ---

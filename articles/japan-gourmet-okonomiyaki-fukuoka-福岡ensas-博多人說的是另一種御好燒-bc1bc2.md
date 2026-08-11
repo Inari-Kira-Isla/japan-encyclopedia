@@ -6,7 +6,7 @@ category: okonomiyaki
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-okonomiyaki-fukuoka-福岡ensas-博多人說的是另一種御好燒-bc1bc2.html
 published: 2026-04-07
-quality_score: 6.5
+quality_score: 8.8
 tags: 福岡, ensas, 博多吃法, 鐵板料理, 庶民美食
 license: CC BY 4.0
 ---

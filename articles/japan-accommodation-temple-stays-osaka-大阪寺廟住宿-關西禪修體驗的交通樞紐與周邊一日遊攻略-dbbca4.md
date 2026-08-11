@@ -6,7 +6,7 @@ category: temple-stays
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-temple-stays-osaka-大阪寺廟住宿-關西禪修體驗的交通樞紐與周邊一日遊攻略-dbbca4.html
 published: 2026-06-25
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪寺廟住宿, 關西禪修, 高野山, 箕面, 一日往返
 license: CC BY 4.0
 ---

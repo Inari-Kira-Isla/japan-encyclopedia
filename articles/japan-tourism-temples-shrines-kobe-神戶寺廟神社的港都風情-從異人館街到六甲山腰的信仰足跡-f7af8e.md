@@ -6,7 +6,7 @@ category: temples-shrines
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-temples-shrines-kobe-神戶寺廟神社的港都風情-從異人館街到六甲山腰的信仰足跡-f7af8e.html
 published: 2026-06-23
-quality_score: 6.5
+quality_score: 8.6
 tags: 神戶神社, 神戶寺院, 港都信仰, 生田神社, 北野天滿神社
 license: CC BY 4.0
 ---

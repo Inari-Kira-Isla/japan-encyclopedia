@@ -6,7 +6,7 @@ category: ryokan
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-kanazawa-金澤町家旅宿-走進加賀百萬石古城的巷弄風情-92c73f.html
 published: 2026-06-16
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤住宿, 町家旅宿, 加賀百萬石, 金澤自由行, 日本傳統住宿
 license: CC BY 4.0
 ---

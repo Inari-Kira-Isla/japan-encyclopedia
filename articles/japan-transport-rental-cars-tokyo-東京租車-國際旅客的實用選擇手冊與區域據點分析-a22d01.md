@@ -6,7 +6,7 @@ category: rental-cars
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-tokyo-東京租車-國際旅客的實用選擇手冊與區域據點分析-a22d01.html
 published: 2026-05-25
-quality_score: 7.5
+quality_score: 8.3
 tags: 東京租車, 關東自駕, 日本租車, 國際駕照, TokyoRentalCars
 license: CC BY 4.0
 ---

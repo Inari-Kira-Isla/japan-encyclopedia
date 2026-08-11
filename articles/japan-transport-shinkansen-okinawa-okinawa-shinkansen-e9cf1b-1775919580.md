@@ -6,7 +6,7 @@ category: shinkansen
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-okinawa-okinawa-shinkansen-e9cf1b-1775919580.html
 published: 2026-04-11
-quality_score: 6.5
+quality_score: 7.2
 tags: shinkansen, okinawa, japan
 license: CC BY 4.0
 ---

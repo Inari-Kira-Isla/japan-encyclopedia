@@ -6,7 +6,7 @@ category: shinkansen
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-kanazawa-金澤新娘物語完全攻略-從東京出發的列車選擇與時間競爭力分析-f80fa9.html
 published: 2026-06-17
-quality_score: 7.5
+quality_score: 8.7
 tags: 金澤新娘物語, 北陸新娘物語, 金澤交通, 日本鐵道, 加賀百萬石
 license: CC BY 4.0
 ---

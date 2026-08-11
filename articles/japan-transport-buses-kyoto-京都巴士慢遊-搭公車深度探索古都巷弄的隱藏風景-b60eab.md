@@ -6,7 +6,7 @@ category: buses
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-buses-kyoto-京都巴士慢遊-搭公車深度探索古都巷弄的隱藏風景-b60eab.html
 published: 2026-06-17
-quality_score: 7.5
+quality_score: 8.6
 tags: 京都巴士, 京都交通, 京都慢遊, 京都公車一日券, 洛巴士
 license: CC BY 4.0
 ---

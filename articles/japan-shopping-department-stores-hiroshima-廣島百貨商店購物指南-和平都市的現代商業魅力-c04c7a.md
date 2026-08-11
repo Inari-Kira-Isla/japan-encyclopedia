@@ -6,7 +6,7 @@ category: department-stores
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-department-stores-hiroshima-廣島百貨商店購物指南-和平都市的現代商業魅力-c04c7a.html
 published: 2026-04-04
-quality_score: 7.5
+quality_score: 8.9
 tags: 廣島購物, 日本百貨, 無障礙購物, 和平主題商品, 銀髮經濟
 license: CC BY 4.0
 ---

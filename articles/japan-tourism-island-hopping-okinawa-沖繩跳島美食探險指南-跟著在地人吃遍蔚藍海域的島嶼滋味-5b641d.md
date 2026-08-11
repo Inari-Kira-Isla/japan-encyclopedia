@@ -6,7 +6,7 @@ category: island-hopping
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-island-hopping-okinawa-沖繩跳島美食探險指南-跟著在地人吃遍蔚藍海域的島嶼滋味-5b641d.html
 published: 2026-06-17
-quality_score: 6.5
+quality_score: 8.5
 tags: 沖繩跳島, 島嶼美食, 沖繩旅遊, 伊江島, 久米島
 license: CC BY 4.0
 ---

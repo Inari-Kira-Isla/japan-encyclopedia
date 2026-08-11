@@ -6,7 +6,7 @@ category: escape-rooms
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-escape-rooms-sendai-仙台密室逃脫-伊達政宗故鄉的沉浸式燒腦體驗-96af3c.html
 published: 2026-07-05
-quality_score: 6.5
+quality_score: 8.9
 tags: 仙台, 密室逃脫, 東北旅遊, 室內娛樂, 伊達政宗
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: sumo
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-okinawa-沖繩相撲-琉球傳統與現代體驗的跨界之旅-ffd7ba.html
 published: 2026-06-05
-quality_score: 6.5
+quality_score: 8.6
 tags: 沖繩旅遊, 相撲體驗, 琉球文化, 運動旅行, 南日本娛樂
 license: CC BY 4.0
 ---

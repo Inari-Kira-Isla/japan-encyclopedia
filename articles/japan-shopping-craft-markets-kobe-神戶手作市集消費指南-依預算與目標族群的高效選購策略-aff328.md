@@ -6,7 +6,7 @@ category: craft-markets
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-craft-markets-kobe-神戶手作市集消費指南-依預算與目標族群的高效選購策略-aff328.html
 published: 2026-06-30
-quality_score: 7.5
+quality_score: 8.7
 tags: 神戶手作市集, 神戶工藝, 港都手作, 神戶購物, 日本市集
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: gaming-arcades
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-gaming-arcades-kanazawa-金澤遊戲中心-古城美學與街機文化的交會點-1d0646.html
 published: 2026-06-20
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤遊戲中心, 日本街機, 北陸娛樂, 金澤自由行, 古都夜生活
 license: CC BY 4.0
 ---

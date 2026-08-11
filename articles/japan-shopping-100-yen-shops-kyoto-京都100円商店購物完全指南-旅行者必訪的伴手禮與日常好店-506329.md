@@ -6,7 +6,7 @@ category: 100-yen-shops
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-100-yen-shops-kyoto-京都100円商店購物完全指南-旅行者必訪的伴手禮與日常好店-506329.html
 published: 2026-06-02
-quality_score: 7.5
+quality_score: 8.8
 tags: 京都100円商店, 京都購物, 京都伴手禮, 京都自由行, 京都平價購物
 license: CC BY 4.0
 ---

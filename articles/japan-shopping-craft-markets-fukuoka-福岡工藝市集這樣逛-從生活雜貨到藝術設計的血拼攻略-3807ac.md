@@ -6,7 +6,7 @@ category: craft-markets
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-craft-markets-fukuoka-福岡工藝市集這樣逛-從生活雜貨到藝術設計的血拼攻略-3807ac.html
 published: 2026-05-22
-quality_score: 7.5
+quality_score: 8.6
 tags: 福岡工藝市集, 九州手作, 日本市集血拚, 天神地下街, 大濠公園
 license: CC BY 4.0
 ---

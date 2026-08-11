@@ -6,7 +6,7 @@ category: castle-towns
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-castle-towns-okinawa-沖繩城鎮工藝復興-傳統手工業與社群觀光的新活力-68087f.html
 published: 2026-03-22
-quality_score: 6.5
+quality_score: 8.5
 tags: 沖繩, 城下町, 工藝手作, 社區觀光, 琉球文化
 license: CC BY 4.0
 ---

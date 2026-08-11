@@ -6,7 +6,7 @@ category: castle-towns
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-castle-towns-sendai-仙台街區漫步-從廢墟重生到活力城市的四季風景-b7352f.html
 published: 2026-03-22
-quality_score: 6.5
+quality_score: 8.8
 tags: 仙台, 城下町, 街區漫步, 牛舌美食, 定禪寺通
 license: CC BY 4.0
 ---

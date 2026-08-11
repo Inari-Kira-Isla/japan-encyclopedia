@@ -6,7 +6,7 @@ category: gaming-arcades
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-gaming-arcades-okinawa-沖繩遊戲中心-夕陽之後的夜間娛樂攻略-48abec.html
 published: 2026-06-03
-quality_score: 6.5
+quality_score: 8.3
 tags: 沖繩遊戲中心, 夜間娛樂,  Okinawa Arcade, 南國夜生活, 抓娃娃機推薦
 license: CC BY 4.0
 ---

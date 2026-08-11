@@ -6,7 +6,7 @@ category: gaming-arcades
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-gaming-arcades-fukuoka-福岡親子遊戲廳-家庭同樂與懷舊復古的九州街機樂園-f5291b.html
 published: 2026-06-18
-quality_score: 6.5
+quality_score: 8.8
 tags: 福岡遊戲中心, 親子同樂, 懷舊街機, 九州旅遊, 福岡娛樂
 license: CC BY 4.0
 ---

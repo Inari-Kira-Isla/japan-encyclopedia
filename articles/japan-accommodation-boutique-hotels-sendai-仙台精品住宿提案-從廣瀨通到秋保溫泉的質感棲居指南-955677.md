@@ -6,7 +6,7 @@ category: boutique-hotels
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-sendai-仙台精品住宿提案-從廣瀨通到秋保溫泉的質感棲居指南-955677.html
 published: 2026-06-10
-quality_score: 6.5
+quality_score: 8.7
 tags: 仙台住宿, 精品酒店, 東北溫泉, 秋保溫泉, 日本住宿指南
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: temple-stays
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-temple-stays-kobe-神戶寺廟住宿-港都作為關西寺院網路的靜謐入口-9874e3.html
 published: 2026-06-10
-quality_score: 6.5
+quality_score: 8.6
 tags: 神戶寺廟住宿, 關西寺院體驗, 有馬溫泉宿坊, 六甲山修行, 神戶住宿推薦
 license: CC BY 4.0
 ---

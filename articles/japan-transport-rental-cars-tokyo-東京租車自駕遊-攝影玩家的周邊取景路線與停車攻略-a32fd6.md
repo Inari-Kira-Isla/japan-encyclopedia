@@ -6,7 +6,7 @@ category: rental-cars
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-tokyo-東京租車自駕遊-攝影玩家的周邊取景路線與停車攻略-a32fd6.html
 published: 2026-06-07
-quality_score: 7.5
+quality_score: 8.9
 tags: 東京租車, 自駕遊, 攝影, 富士山, 鐮倉
 license: CC BY 4.0
 ---

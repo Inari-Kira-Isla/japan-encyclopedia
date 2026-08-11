@@ -6,7 +6,7 @@ category: love-hotels
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-love-hotels-okinawa-沖繩住宿選擇-情侶旅客的多元住宿方案-e03a8a.html
 published: 2026-05-25
-quality_score: 6.5
+quality_score: 8.8
 tags: 沖繩住宿, 情侶旅客, 恩納村, 那霸, 北谷町
 license: CC BY 4.0
 ---

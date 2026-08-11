@@ -6,7 +6,7 @@ category: shinkansen
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-sendai-仙台新娘線實戰攻略-從東京到仙台的列車選擇與時間成本分析-9d78c7.html
 published: 2026-06-16
-quality_score: 7.5
+quality_score: 8.7
 tags: 仙台新娘線, 東北新娘線, 東京到仙台, 日本新娘線, 東北交通
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: garden-parks
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-sendai-仙台慢活花園-遠離觀光人潮的在地人私房綠意-0e549f.html
 published: 2026-06-09
-quality_score: 6.5
+quality_score: 8.7
 tags: 仙台, 花園公園, 日本東北, 自然療癒, 勾當台公園
 license: CC BY 4.0
 ---

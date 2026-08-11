@@ -6,7 +6,7 @@ category: nightlife
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-fukuoka-福岡夜生活-遠離觀光客的在地人深夜食堂-1ee8d7-1780937426.html
 published: 2026-06-08
-quality_score: 6.5
+quality_score: 8.8
 tags: 福岡夜生活, 九州居酒屋, 博多屋台, 在地人美食, 福岡旅行
 license: CC BY 4.0
 ---

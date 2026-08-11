@@ -6,7 +6,7 @@ category: island-hopping
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-island-hopping-osaka-大阪跳島之旅-遠離城市喧囂的海上之路-b75ed4.html
 published: 2026-05-25
-quality_score: 6.5
+quality_score: 8.3
 tags: 大阪跳島, 泉州海岸, 關西機場周邊, 海上觀光, 日本漁村體驗
 license: CC BY 4.0
 ---

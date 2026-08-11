@@ -6,7 +6,7 @@ category: island-hopping
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-island-hopping-hiroshima-廣島跳島續論-探索瀨戶內海藝術之島與橘子海岸的在地風情-381a8e.html
 published: 2026-06-13
-quality_score: 6.5
+quality_score: 8.7
 tags: 廣島跳島, 瀨戶內海, 生口島, 向島, 大三島
 license: CC BY 4.0
 ---

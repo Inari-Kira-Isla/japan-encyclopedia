@@ -6,7 +6,7 @@ category: sushi
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sushi-nara-奈良壽司-古都早市的庶民味覺-1eda4e.html
 published: 2026-06-22
-quality_score: 6.5
+quality_score: 8.6
 tags: 奈良壽司, 朝壽司, 奈良美食, 古都早市, 箱壽司
 license: CC BY 4.0
 ---

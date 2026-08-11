@@ -6,7 +6,7 @@ category: ryokan
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-hokkaido-北海道溫泉旅館的旬味之旅-從食材認識北國溫泉文化-cfb517.html
 published: 2026-06-23
-quality_score: 6.5
+quality_score: 8.3
 tags: 北海道溫泉旅馆, Ryokan推荐, 日本料理宿, 北海道旅遊, 蟹季溫泉
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: scenic-routes
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-kanazawa-金澤東麓自然步道-從卯辰山到內灘砂丘的療癒之路-ca5a7e.html
 published: 2026-06-26
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤步道, 卯辰山, 內灘砂丘, 自然療癒, 日本海海岸
 license: CC BY 4.0
 ---

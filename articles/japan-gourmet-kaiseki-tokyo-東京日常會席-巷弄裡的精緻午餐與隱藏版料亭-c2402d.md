@@ -6,7 +6,7 @@ category: kaiseki
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-kaiseki-tokyo-東京日常會席-巷弄裡的精緻午餐與隱藏版料亭-c2402d.html
 published: 2026-07-04
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京會席, 東京美食, 日本料理, 休日の昼会席, 赤坂美食
 license: CC BY 4.0
 ---

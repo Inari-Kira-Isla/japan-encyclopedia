@@ -6,7 +6,7 @@ category: udon-soba
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-udon-soba-nagoya-名古屋餹-horse半-white麵-きしめん-完全攻略-在地人の推奨店から味わう名古屋めしの底力-3fa55d.html
 published: 2026-06-02
-quality_score: 6.5
+quality_score: 8.7
 tags: 名古屋, 餹Horse半White麵, きしめん, 名古屋めし, 名古屋美食
 license: CC BY 4.0
 ---

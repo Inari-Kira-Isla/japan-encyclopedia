@@ -6,7 +6,7 @@ category: rental-cars
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-kyoto-京都租車完整指南-自駕暢遊千年古都的最佳選擇-cc0009.html
 published: 2026-03-15
-quality_score: 7.5
+quality_score: 8.8
 tags: 京都交通, 日本租車, 自駕旅遊, 京都自由行, 關西旅遊
 license: CC BY 4.0
 ---

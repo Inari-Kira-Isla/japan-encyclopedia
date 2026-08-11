@@ -6,7 +6,7 @@ category: ferries
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-ferries-tokyo-東京渡輪與船運服務-航向東京群島的海上學旅-e3a124.html
 published: 2026-06-25
-quality_score: 7.5
+quality_score: 8.5
 tags: 東京渡輪, 東京群島, 八丈島, 三宅島, 東京灣巡航
 license: CC BY 4.0
 ---

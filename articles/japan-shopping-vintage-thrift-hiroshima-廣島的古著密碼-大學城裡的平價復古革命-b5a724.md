@@ -6,7 +6,7 @@ category: vintage-thrift
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-vintage-thrift-hiroshima-廣島的古著密碼-大學城裡的平價復古革命-b5a724.html
 published: 2026-03-24
-quality_score: 7.5
+quality_score: 8.5
 tags: 廣島古著, 日本購物, Vintage Thrift, 平價穿搭, 學生購物指南
 license: CC BY 4.0
 ---

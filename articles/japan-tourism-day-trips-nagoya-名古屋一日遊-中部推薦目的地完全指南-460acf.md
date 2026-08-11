@@ -6,7 +6,7 @@ category: day-trips
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-nagoya-名古屋一日遊-中部推薦目的地完全指南-460acf.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 8.7
 tags: 名古屋一日遊, 中部地方旅遊, 日本自由行, 尾張國, 西三河
 license: CC BY 4.0
 ---

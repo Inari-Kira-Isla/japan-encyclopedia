@@ -6,7 +6,7 @@ category: jr-pass
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-jr-pass-hiroshima-廣島jr-pass完全攻略-從和平紀念之都到瀨戶內海絕景的鐵道之旅-8a318d.html
 published: 2026-05-31
-quality_score: 7.5
+quality_score: 8.8
 tags: 廣島JR Pass, 山陽新干线, 廣島自由行, 宮島嚴島神社, 瀨戶內海
 license: CC BY 4.0
 ---

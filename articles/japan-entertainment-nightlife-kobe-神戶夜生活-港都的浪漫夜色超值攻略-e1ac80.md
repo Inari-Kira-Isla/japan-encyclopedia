@@ -6,7 +6,7 @@ category: nightlife
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-kobe-神戶夜生活-港都的浪漫夜色超值攻略-e1ac80.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 8.6
 tags: 神戶夜生活, 神戶夜景, 港都夜景, Nada酒藏, 神戶牛排
 license: CC BY 4.0
 ---

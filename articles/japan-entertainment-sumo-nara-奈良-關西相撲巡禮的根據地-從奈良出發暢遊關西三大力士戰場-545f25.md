@@ -6,7 +6,7 @@ category: sumo
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-nara-奈良-關西相撲巡禮的根據地-從奈良出發暢遊關西三大力士戰場-545f25.html
 published: 2026-06-19
-quality_score: 6.5
+quality_score: 8.7
 tags: 奈良相撲, 關西相撲, 大阪春季場所, 相撲體驗, 相撲鍋
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: electronics
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-electronics-fukuoka-福岡電子產品選購指南-九州門戶的特色電器文化與在地推薦-286b24.html
 published: 2026-06-26
-quality_score: 7.5
+quality_score: 8.8
 tags: 福岡電子產品, 九州電器, 博多購物, 日本電器推薦, 天神電器
 license: CC BY 4.0
 ---

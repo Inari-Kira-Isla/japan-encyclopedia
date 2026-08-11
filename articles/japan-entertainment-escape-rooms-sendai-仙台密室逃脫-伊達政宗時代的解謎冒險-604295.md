@@ -6,7 +6,7 @@ category: escape-rooms
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-escape-rooms-sendai-仙台密室逃脫-伊達政宗時代的解謎冒險-604295.html
 published: 2026-06-18
-quality_score: 6.5
+quality_score: 9.0
 tags: 仙台, 密室逃脫, 東北娛樂, 伊達政宗, 日式恐怖
 license: CC BY 4.0
 ---

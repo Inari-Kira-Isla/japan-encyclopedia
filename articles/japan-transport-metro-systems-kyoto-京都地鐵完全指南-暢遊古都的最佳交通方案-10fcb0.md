@@ -6,7 +6,7 @@ category: metro-systems
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-kyoto-京都地鐵完全指南-暢遊古都的最佳交通方案-10fcb0.html
 published: 2026-03-21
-quality_score: 7.5
+quality_score: 8.7
 tags: 京都, 地鐵, 交通指南, 日本古都, 觀光
 license: CC BY 4.0
 ---

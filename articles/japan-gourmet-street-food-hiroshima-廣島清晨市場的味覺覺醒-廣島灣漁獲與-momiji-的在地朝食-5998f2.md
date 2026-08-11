@@ -6,7 +6,7 @@ category: street-food
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-street-food-hiroshima-廣島清晨市場的味覺覺醒-廣島灣漁獲與-momiji-的在地朝食-5998f2.html
 published: 2026-06-19
-quality_score: 6.5
+quality_score: 8.7
 tags: 廣島, 街頭美食, 清晨市場, 牡蠣, 文字燒
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: ski-resorts
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-ski-resorts-nagoya-名古屋雪地門戶-從中部樞紐出發的滑雪度假指南-812120.html
 published: 2026-05-25
-quality_score: 6.5
+quality_score: 8.7
 tags: 名古屋滑雪, 日本阿爾卑斯, 白馬滑雪場, 長野滑雪, 岐阜滑雪
 license: CC BY 4.0
 ---

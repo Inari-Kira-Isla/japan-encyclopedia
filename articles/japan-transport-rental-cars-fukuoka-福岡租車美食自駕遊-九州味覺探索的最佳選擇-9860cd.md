@@ -6,7 +6,7 @@ category: rental-cars
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-fukuoka-福岡租車美食自駕遊-九州味覺探索的最佳選擇-9860cd.html
 published: 2026-03-29
-quality_score: 7.5
+quality_score: 8.6
 tags: 福岡租車, 九州美食, 自駕遊, 糸島, 柳川鰻魚
 license: CC BY 4.0
 ---

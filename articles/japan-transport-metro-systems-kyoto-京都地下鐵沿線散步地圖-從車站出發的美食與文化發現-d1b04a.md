@@ -6,7 +6,7 @@ category: metro-systems
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-kyoto-京都地下鐵沿線散步地圖-從車站出發的美食與文化發現-d1b04a.html
 published: 2026-06-24
-quality_score: 7.5
+quality_score: 8.7
 tags: 京都地下鐵, 京都交通, 京都散步, 京都美食, 京阪奈交通
 license: CC BY 4.0
 ---

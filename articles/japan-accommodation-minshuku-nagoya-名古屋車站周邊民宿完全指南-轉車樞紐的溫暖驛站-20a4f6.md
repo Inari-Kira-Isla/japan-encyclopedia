@@ -6,7 +6,7 @@ category: minshuku
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-nagoya-名古屋車站周邊民宿完全指南-轉車樞紐的溫暖驛站-20a4f6.html
 published: 2026-06-24
-quality_score: 6.5
+quality_score: 8.5
 tags: 名古屋民宿, 車站周邊住宿, 中部交通樞紐, 轉車住宿, 名古屋自由行
 license: CC BY 4.0
 ---

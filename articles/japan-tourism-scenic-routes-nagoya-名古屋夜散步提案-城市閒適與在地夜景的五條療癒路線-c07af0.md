@@ -6,7 +6,7 @@ category: scenic-routes
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-nagoya-名古屋夜散步提案-城市閒適與在地夜景的五條療癒路線-c07af0.html
 published: 2026-05-25
-quality_score: 6.5
+quality_score: 8.5
 tags: 名古屋, 夜景, 散步, 療癒, 城市漫游
 license: CC BY 4.0
 ---

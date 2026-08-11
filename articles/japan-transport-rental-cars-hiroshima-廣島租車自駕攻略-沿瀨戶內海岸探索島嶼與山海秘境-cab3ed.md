@@ -6,7 +6,7 @@ category: rental-cars
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-hiroshima-廣島租車自駕攻略-沿瀨戶內海岸探索島嶼與山海秘境-cab3ed.html
 published: 2026-06-01
-quality_score: 7.5
+quality_score: 8.7
 tags: 廣島租車, 瀨戶內海自駕, 廣島機場租車, 宮島交通, 尾道自駕
 license: CC BY 4.0
 ---

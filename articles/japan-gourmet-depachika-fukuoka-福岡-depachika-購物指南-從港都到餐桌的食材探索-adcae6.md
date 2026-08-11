@@ -6,7 +6,7 @@ category: depachika
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-depachika-fukuoka-福岡-depachika-購物指南-從港都到餐桌的食材探索-adcae6.html
 published: 2026-06-23
-quality_score: 6.5
+quality_score: 8.6
 tags: 福岡美食, depachika, 業務超市, 九州食材, 博多吃喝
 license: CC BY 4.0
 ---

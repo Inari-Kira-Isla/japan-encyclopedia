@@ -6,7 +6,7 @@ category: matcha-sweets
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-matcha-sweets-kyoto-京都抹茶甜點-町屋深處的在地茶香日常-6b208e.html
 published: 2026-06-29
-quality_score: 6.5
+quality_score: 8.8
 tags: 京都, 抹茶甜點, 京都美食, 町屋, 在地推薦
 license: CC BY 4.0
 ---

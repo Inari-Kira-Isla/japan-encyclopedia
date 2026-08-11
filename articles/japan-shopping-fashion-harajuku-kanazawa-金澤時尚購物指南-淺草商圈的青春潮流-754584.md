@@ -6,7 +6,7 @@ category: fashion-harajuku
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-fashion-harajuku-kanazawa-金澤時尚購物指南-淺草商圈的青春潮流-754584.html
 published: 2026-06-10
-quality_score: 7.5
+quality_score: 8.7
 tags: 金澤購物, 石川縣時尚, 淺草商圈, 日本古著, 北陸潮流
 license: CC BY 4.0
 ---

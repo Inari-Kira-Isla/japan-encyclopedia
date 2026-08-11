@@ -6,7 +6,7 @@ category: theme-parks
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-theme-parks-nara-奈良另類主題樂園-古都數位文化體驗完全指南-c4c28d.html
 published: 2026-05-24
-quality_score: 6.5
+quality_score: 8.7
 tags: 奈良主題樂園, 奈良親子遊, 奈良古都體驗, 奈良生駒山, 奈良深度旅遊
 license: CC BY 4.0
 ---

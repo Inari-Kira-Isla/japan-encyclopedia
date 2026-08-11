@@ -6,7 +6,7 @@ category: kaiseki
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-kaiseki-kanazawa-金澤懷石料理-茶道古都的-茶懷石-美學-b3ac0c.html
 published: 2026-07-04
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤懷石, 加賀料理, 茶懷石, 石川縣美食, 日本料理
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: minshuku
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-kanazawa-金澤民宿-巷弄之間的日常-北陸小京都的住宿新選択-77ebc1.html
 published: 2026-05-24
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤民宿, 石川住宿, Minshuku, 北陸自由行, 城下町體驗
 license: CC BY 4.0
 ---

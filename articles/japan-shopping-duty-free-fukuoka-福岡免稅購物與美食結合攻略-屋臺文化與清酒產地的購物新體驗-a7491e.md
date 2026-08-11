@@ -6,7 +6,7 @@ category: duty-free
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-duty-free-fukuoka-福岡免稅購物與美食結合攻略-屋臺文化與清酒產地的購物新體驗-a7491e.html
 published: 2026-05-22
-quality_score: 7.5
+quality_score: 8.6
 tags: 福岡, 免稅購物, 九州, 屋台文化, 清酒店
 license: CC BY 4.0
 ---

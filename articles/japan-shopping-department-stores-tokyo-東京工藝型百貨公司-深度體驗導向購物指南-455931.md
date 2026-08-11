@@ -6,7 +6,7 @@ category: department-stores
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-department-stores-tokyo-東京工藝型百貨公司-深度體驗導向購物指南-455931.html
 published: 2026-06-19
-quality_score: 7.5
+quality_score: 8.6
 tags: 東京購物, 日本百貨公司, 傳統工藝, 日本橋, 銀座
 license: CC BY 4.0
 ---

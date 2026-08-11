@@ -6,7 +6,7 @@ category: minshuku
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-osaka-大阪民宿完全指南-巷弄深處的昭和風情與人情滋味-d02261.html
 published: 2026-06-24
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪民宿, 大阪住宿, 關西民宿, 昭和風情, 新世界
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: department-stores
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-department-stores-kyoto-京都百貨公司深度導覽-傳承千年工藝的文化消費地圖-e4e1c1.html
 published: 2026-07-06
-quality_score: 7.5
+quality_score: 8.7
 tags: 京都購物, 日本百貨, 京都文化, 京友禅, 清水燒
 license: CC BY 4.0
 ---

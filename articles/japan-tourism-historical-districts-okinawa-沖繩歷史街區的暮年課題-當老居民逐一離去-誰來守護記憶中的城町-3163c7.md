@@ -6,7 +6,7 @@ category: historical-districts
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-okinawa-沖繩歷史街區的暮年課題-當老居民逐一離去-誰來守護記憶中的城町-3163c7.html
 published: 2026-06-13
-quality_score: 6.5
+quality_score: 8.7
 tags: 沖繩歷史街區, 琉球文化, 人口老化, 在地體驗, 深度旅遊
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: depachika
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-depachika-kanazawa-金澤depachika-加賀茶道文化與日本海岸的味覺交匯-472035.html
 published: 2026-05-21
-quality_score: 6.5
+quality_score: 8.5
 tags: 金澤Depachika, 加賀和果子, 能登海鮮, 金箔甜點, 石川縣美食
 license: CC BY 4.0
 ---

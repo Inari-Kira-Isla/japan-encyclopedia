@@ -6,7 +6,7 @@ category: ski-resorts
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-ski-resorts-hiroshima-廣島滑雪場預算攻略-從經濟實惠到奢華體驗的完整選擇指南-a65aa9.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 廣島滑雪, 日本滑雪度假村, 預算旅遊, 親子滑雪, 溫泉滑雪
 license: CC BY 4.0
 ---

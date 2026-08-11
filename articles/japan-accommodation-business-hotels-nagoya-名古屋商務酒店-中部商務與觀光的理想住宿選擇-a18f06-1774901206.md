@@ -6,7 +6,7 @@ category: business-hotels
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-business-hotels-nagoya-名古屋商務酒店-中部商務與觀光的理想住宿選擇-a18f06-1774901206.html
 published: 2026-03-30
-quality_score: 6.5
+quality_score: 8.5
 tags: 名古屋, 商務酒店, 中部日本, 名古屋車站, 榮商圈
 license: CC BY 4.0
 ---

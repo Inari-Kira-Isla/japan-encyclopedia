@@ -6,7 +6,7 @@ category: escape-rooms
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-escape-rooms-fukuoka-福岡密室逃脫完全攻略-國際城市的多語言解謎體驗-9288c5.html
 published: 2026-05-23
-quality_score: 6.5
+quality_score: 8.6
 tags: 福岡密室逃脫, 博多年夜生活, 九州娛樂體驗, 福岡親子活動, 福岡觀光
 license: CC BY 4.0
 ---

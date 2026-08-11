@@ -6,7 +6,7 @@ category: souvenir-omiyage
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-souvenir-omiyage-nagoya-名古屋伴手禮選購指南-預算800至2500日圓的實用送禮策略-a51fe8.html
 published: 2026-06-14
-quality_score: 7.5
+quality_score: 8.4
 tags: 名古屋, 伴手禮, 土產, 名古屋購物, 日本伴手禮
 license: CC BY 4.0
 ---

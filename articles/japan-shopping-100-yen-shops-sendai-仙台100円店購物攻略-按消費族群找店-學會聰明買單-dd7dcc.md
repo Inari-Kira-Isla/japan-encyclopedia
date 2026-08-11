@@ -6,7 +6,7 @@ category: 100-yen-shops
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-100-yen-shops-sendai-仙台100円店購物攻略-按消費族群找店-學會聰明買單-dd7dcc.html
 published: 2026-03-23
-quality_score: 7.5
+quality_score: 8.8
 tags: 仙台, 100円店, 東北購物, 生活用品, 家庭採購
 license: CC BY 4.0
 ---

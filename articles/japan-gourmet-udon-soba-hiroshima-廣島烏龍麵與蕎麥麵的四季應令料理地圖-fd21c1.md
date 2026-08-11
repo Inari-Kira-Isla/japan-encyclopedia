@@ -6,7 +6,7 @@ category: udon-soba
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-udon-soba-hiroshima-廣島烏龍麵與蕎麥麵的四季應令料理地圖-fd21c1.html
 published: 2026-03-23
-quality_score: 6.5
+quality_score: 8.5
 tags: 廣島美食, 烏龍麵, 蕎麥麵, 季節食材, 庶民文化
 license: CC BY 4.0
 ---

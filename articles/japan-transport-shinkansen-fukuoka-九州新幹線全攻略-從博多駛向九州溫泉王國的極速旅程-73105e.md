@@ -6,7 +6,7 @@ category: shinkansen
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-fukuoka-九州新幹線全攻略-從博多駛向九州溫泉王國的極速旅程-73105e.html
 published: 2026-06-04
-quality_score: 7.5
+quality_score: 8.7
 tags: 九州新幹線, 博多駅, 溫泉, 自駕, 日本鐵道
 license: CC BY 4.0
 ---

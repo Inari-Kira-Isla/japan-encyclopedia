@@ -6,7 +6,7 @@ category: anime-manga
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-kyoto-京都動漫與傳統工藝-古美術技法在現代漫畫中的延續-64e273.html
 published: 2026-06-04
-quality_score: 6.5
+quality_score: 8.7
 tags: 京都, 動漫, 傳統工藝, 聖地巡禮, 漫畫
 license: CC BY 4.0
 ---

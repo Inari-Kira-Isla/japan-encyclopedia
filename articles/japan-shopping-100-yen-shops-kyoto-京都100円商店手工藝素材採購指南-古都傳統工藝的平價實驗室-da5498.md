@@ -6,7 +6,7 @@ category: 100-yen-shops
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-100-yen-shops-kyoto-京都100円商店手工藝素材採購指南-古都傳統工藝的平價實驗室-da5498.html
 published: 2026-06-10
-quality_score: 7.5
+quality_score: 8.5
 tags: 京都, 100円商店, 手工藝, 素材採購, 平價購物
 license: CC BY 4.0
 ---

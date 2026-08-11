@@ -6,7 +6,7 @@ category: buses
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-buses-fukuoka-福岡公車旅行攻略-天神-博多祇園與太宰府的血脈交通網-20c39e.html
 published: 2026-06-23
-quality_score: 7.5
+quality_score: 8.7
 tags: 福岡公車, 九州交通, 天神交通, 博多交通, 太宰府交通
 license: CC BY 4.0
 ---

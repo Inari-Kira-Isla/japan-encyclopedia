@@ -6,7 +6,7 @@ category: cycling
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-hokkaido-北海道單車漫遊-海岸線與湖岸的涼風騎跡-1bbb19.html
 published: 2026-05-22
-quality_score: 7.5
+quality_score: 8.7
 tags: 北海道單車, 海岸線騎行, 知床單車, 摩周湖單車, 日本單車旅遊
 license: CC BY 4.0
 ---

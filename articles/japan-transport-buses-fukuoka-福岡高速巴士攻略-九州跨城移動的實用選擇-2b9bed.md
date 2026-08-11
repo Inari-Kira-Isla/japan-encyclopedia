@@ -6,7 +6,7 @@ category: buses
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-buses-fukuoka-福岡高速巴士攻略-九州跨城移動的實用選擇-2b9bed.html
 published: 2026-05-22
-quality_score: 7.5
+quality_score: 8.5
 tags: 福岡交通, 高速巴士, 九州親子, 自助旅行, 日本巴士
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: scenic-routes
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-kobe-神戶絕景美食之路-山海佐餐的療癒行程-bbebf3.html
 published: 2026-05-21
-quality_score: 6.5
+quality_score: 8.8
 tags: 神戶美食, 神戶景點, 港區夜景, 六甲山, 有馬溫泉
 license: CC BY 4.0
 ---

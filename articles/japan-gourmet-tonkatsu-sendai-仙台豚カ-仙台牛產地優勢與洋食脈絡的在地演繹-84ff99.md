@@ -6,7 +6,7 @@ category: tonkatsu
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tonkatsu-sendai-仙台豚カ-仙台牛產地優勢與洋食脈絡的在地演繹-84ff99.html
 published: 2026-06-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 仙台美食, 豚カンツ, 炸豬排, 東北洋食, 日本洋食
 license: CC BY 4.0
 ---

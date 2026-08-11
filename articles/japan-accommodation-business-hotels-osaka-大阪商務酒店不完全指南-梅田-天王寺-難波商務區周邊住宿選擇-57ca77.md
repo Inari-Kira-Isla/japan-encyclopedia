@@ -6,7 +6,7 @@ category: business-hotels
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-business-hotels-osaka-大阪商務酒店不完全指南-梅田-天王寺-難波商務區周邊住宿選擇-57ca77.html
 published: 2026-05-25
-quality_score: 6.5
+quality_score: 8.6
 tags: 大阪商務酒店, 關西商務住宿, 梅田商務飯店, 大阪出差住宿, 商務旅行
 license: CC BY 4.0
 ---

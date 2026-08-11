@@ -6,7 +6,7 @@ category: izakaya
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-izakaya-fukuoka-福岡居酒屋的地酒文化-品嚐九州釀造工藝的最佳據點-e1e0ce.html
 published: 2026-04-07
-quality_score: 6.5
+quality_score: 8.6
 tags: 福岡美食, 居酒屋, 日本清酒, 地酒, 九州料理
 license: CC BY 4.0
 ---

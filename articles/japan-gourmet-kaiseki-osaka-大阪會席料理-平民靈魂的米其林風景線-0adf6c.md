@@ -6,7 +6,7 @@ category: kaiseki
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-kaiseki-osaka-大阪會席料理-平民靈魂的米其林風景線-0adf6c.html
 published: 2026-05-23
-quality_score: 6.5
+quality_score: 8.4
 tags: 大阪, 會席料理, 關西,  Kai-s eki, 日本料理
 license: CC BY 4.0
 ---

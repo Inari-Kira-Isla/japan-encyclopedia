@@ -6,7 +6,7 @@ category: anime-manga
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-kyoto-京都動漫散步-從漫畫家搖籃到質感同人誌的在地發現-793eff.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 8.8
 tags: 京都, 動漫, 漫畫, 同人誌, 日本旅行
 license: CC BY 4.0
 ---

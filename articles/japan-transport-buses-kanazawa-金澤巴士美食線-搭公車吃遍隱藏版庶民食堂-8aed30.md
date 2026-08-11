@@ -6,7 +6,7 @@ category: buses
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-buses-kanazawa-金澤巴士美食線-搭公車吃遍隱藏版庶民食堂-8aed30.html
 published: 2026-06-11
-quality_score: 7.5
+quality_score: 8.7
 tags: 金澤, 公車美食, 庶民食堂, 石川縣, 日本北陸
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: castle-towns
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-castle-towns-okinawa-沖繩古城遺產-探索琉球王國的城堡城鎮-e4829b.html
 published: 2026-03-15
-quality_score: 6.5
+quality_score: 8.9
 tags: 沖繩, 琉球王國, 古城, 首里城, 歷史建築
 license: CC BY 4.0
 ---

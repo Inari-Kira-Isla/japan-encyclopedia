@@ -6,7 +6,7 @@ category: fashion-harajuku
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-fashion-harajuku-hokkaido-北海道時尚購物指南-從札幌到小樽的潮流地圖-1b523a.html
 published: 2026-06-02
-quality_score: 7.5
+quality_score: 8.7
 tags: 北海道購物, 札幌時尚, 小樽選貨店, 日本古著, 北海道自由行
 license: CC BY 4.0
 ---

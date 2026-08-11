@@ -6,7 +6,7 @@ category: shinkansen
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-tokyo-東京-新加坡道樞紐全攻略-從首都出發的高速鐵路執行指南-e25b92.html
 published: 2026-06-08
-quality_score: 7.5
+quality_score: 8.7
 tags: 東京新加坡道, 日本鐵道交通, 東京站, 品川站, 上野站
 license: CC BY 4.0
 ---

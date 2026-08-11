@@ -6,7 +6,7 @@ category: historical-districts
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-hokkaido-北海道歷史街區-按下日本最後邊疆的開發脈絡-d3bd4f.html
 published: 2026-06-06
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道, 歷史街區, 小樽, 札幌, 函館
 license: CC BY 4.0
 ---

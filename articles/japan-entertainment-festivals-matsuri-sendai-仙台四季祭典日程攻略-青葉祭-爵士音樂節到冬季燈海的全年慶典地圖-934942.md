@@ -6,7 +6,7 @@ category: festivals-matsuri
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-festivals-matsuri-sendai-仙台四季祭典日程攻略-青葉祭-爵士音樂節到冬季燈海的全年慶典地圖-934942.html
 published: 2026-03-24
-quality_score: 6.5
+quality_score: 8.7
 tags: 仙台祭典, 青葉祭, 爵士音樂節, 冬季燈飾, 東北旅遊
 license: CC BY 4.0
 ---

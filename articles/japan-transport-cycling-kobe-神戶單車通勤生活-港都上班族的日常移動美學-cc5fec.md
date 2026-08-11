@@ -6,7 +6,7 @@ category: cycling
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-kobe-神戶單車通勤生活-港都上班族的日常移動美學-cc5fec.html
 published: 2026-05-24
-quality_score: 7.5
+quality_score: 8.7
 tags: 神戶單車, 神戶通勤, 神戶自由行, 神戶交通, 日本單車
 license: CC BY 4.0
 ---

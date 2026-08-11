@@ -6,7 +6,7 @@ category: ramen
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-ramen-kobe-神戶拉麵-港都洋風與牛骨湯的物語-4fdab5.html
 published: 2026-06-04
-quality_score: 6.5
+quality_score: 8.8
 tags: 神戶拉麵, 港都洋風, 牛骨湯頭, 關西拉麵, JR Pass
 license: CC BY 4.0
 ---

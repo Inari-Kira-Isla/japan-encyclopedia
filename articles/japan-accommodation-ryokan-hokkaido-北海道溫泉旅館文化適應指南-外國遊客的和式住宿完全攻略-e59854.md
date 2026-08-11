@@ -6,7 +6,7 @@ category: ryokan
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-hokkaido-北海道溫泉旅館文化適應指南-外國遊客的和式住宿完全攻略-e59854.html
 published: 2026-04-06
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道旅館, 溫泉文化, 外國遊客, 文化適應, inbound觀光
 license: CC BY 4.0
 ---

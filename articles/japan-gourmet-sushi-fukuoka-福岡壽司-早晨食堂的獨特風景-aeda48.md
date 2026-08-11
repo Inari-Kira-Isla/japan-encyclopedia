@@ -6,7 +6,7 @@ category: sushi
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sushi-fukuoka-福岡壽司-早晨食堂的獨特風景-aeda48.html
 published: 2026-06-16
-quality_score: 6.5
+quality_score: 8.7
 tags: 福岡壽司, 朝寿司, 屋台, 九州海鮮, 博多美食
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: castle-towns
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-castle-towns-hiroshima-廣島-湊-城下町-毛利氏的水運商業密境-547306.html
 published: 2026-06-05
-quality_score: 6.5
+quality_score: 8.6
 tags: 廣島城下町, 毛利氏, 水運據點, 商業港灣, 戰後重建
 license: CC BY 4.0
 ---

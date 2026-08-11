@@ -6,7 +6,7 @@ category: matcha-sweets
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-matcha-sweets-osaka-大阪抹茶甜點品鑑指南-評鑑師的專業視角-487be2.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.8
 tags: 大阪美食, 抹茶甜點, 專業評鑑, 品鑑指南, 關西甜品
 license: CC BY 4.0
 ---

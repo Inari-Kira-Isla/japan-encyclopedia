@@ -6,7 +6,7 @@ category: craft-markets
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-craft-markets-okinawa-沖繩工藝市集省錢攻略-原價半價這樣買-5f40ad.html
 published: 2026-06-12
-quality_score: 7.5
+quality_score: 8.7
 tags: 沖繩市集, 省錢攻略, 工藝品, 芭蕉布, 琉球玻璃
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: gaming-arcades
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-gaming-arcades-tokyo-東京遊戲中心-分眾時代的街機地圖手冊-d84113.html
 published: 2026-06-11
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京遊戲中心, 街機文化, 秋葉原, 新宿, 池袋
 license: CC BY 4.0
 ---

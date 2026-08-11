@@ -6,7 +6,7 @@ category: temple-stays
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-temple-stays-sendai-仙台宿坊樞紐-東北寺院住宿的全方位erguide-d4d54c.html
 published: 2026-05-23
-quality_score: 6.5
+quality_score: 8.7
 tags: 仙台宿坊, 東北寺院住宿, 山形立石寺, 秋田角館, 磐梯吾妻
 license: CC BY 4.0
 ---

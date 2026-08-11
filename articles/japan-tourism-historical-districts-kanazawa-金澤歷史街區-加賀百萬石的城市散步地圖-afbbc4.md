@@ -6,7 +6,7 @@ category: historical-districts
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-kanazawa-金澤歷史街區-加賀百萬石的城市散步地圖-afbbc4.html
 published: 2026-06-19
-quality_score: 6.5
+quality_score: 8.9
 tags: 金澤, 歷史街區, 加賀百萬石, 東茶屋街, 長町武家屋敷
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: minshuku
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-kobe-神戶民宿完全指南-港都風情與山海溫情的宿人之旅-8f0a8b.html
 published: 2026-06-09
-quality_score: 6.5
+quality_score: 8.6
 tags: 神戶民宿, 神戶住宿, 北野異人館, 元町南京町, 摩耶山夜景
 license: CC BY 4.0
 ---

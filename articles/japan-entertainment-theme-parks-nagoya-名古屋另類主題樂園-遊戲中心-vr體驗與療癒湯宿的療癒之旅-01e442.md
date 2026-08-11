@@ -6,7 +6,7 @@ category: theme-parks
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-theme-parks-nagoya-名古屋另類主題樂園-遊戲中心-vr體驗與療癒湯宿的療癒之旅-01e442.html
 published: 2026-05-22
-quality_score: 6.5
+quality_score: 8.6
 tags: 名古屋, 主题乐园, 游戏中心, VR体验, 温泉
 license: CC BY 4.0
 ---

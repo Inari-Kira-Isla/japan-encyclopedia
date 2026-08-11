@@ -6,7 +6,7 @@ category: yakitori
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-yakitori-nagoya-名古屋燒鳥-本地人的味噌串燒隱藏版地圖-2163c6.html
 published: 2026-05-22
-quality_score: 6.5
+quality_score: 8.6
 tags: 名古屋燒鳥, 味噌串燒, 日本美食, 名古屋夜生活, 在地美食
 license: CC BY 4.0
 ---

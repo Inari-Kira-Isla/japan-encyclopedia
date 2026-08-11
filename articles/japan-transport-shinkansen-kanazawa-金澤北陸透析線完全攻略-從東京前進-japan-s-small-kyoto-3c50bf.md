@@ -6,7 +6,7 @@ category: shinkansen
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-kanazawa-金澤北陸透析線完全攻略-從東京前進-japan-s-small-kyoto-3c50bf.html
 published: 2026-06-01
-quality_score: 7.5
+quality_score: 8.9
 tags: 金澤, 北路透析線, 日本溫泉, 兼六園, 東茶屋街
 license: CC BY 4.0
 ---

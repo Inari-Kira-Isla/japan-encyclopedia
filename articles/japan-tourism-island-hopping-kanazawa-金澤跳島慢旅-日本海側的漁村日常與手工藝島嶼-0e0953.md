@@ -6,7 +6,7 @@ category: island-hopping
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-island-hopping-kanazawa-金澤跳島慢旅-日本海側的漁村日常與手工藝島嶼-0e0953.html
 published: 2026-07-02
-quality_score: 6.5
+quality_score: 8.6
 tags: 金澤跳島, 日本海島嶼, 石川縣, 能登半島, 渔村體驗
 license: CC BY 4.0
 ---

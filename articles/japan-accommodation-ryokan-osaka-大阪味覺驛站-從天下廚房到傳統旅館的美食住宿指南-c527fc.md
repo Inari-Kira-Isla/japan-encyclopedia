@@ -6,7 +6,7 @@ category: ryokan
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-osaka-大阪味覺驛站-從天下廚房到傳統旅館的美食住宿指南-c527fc.html
 published: 2026-06-12
-quality_score: 6.5
+quality_score: 8.5
 tags: 大阪Ryokan, 大阪傳統旅館, 大阪住宿, 大阪美食, 大阪旅遊
 license: CC BY 4.0
 ---

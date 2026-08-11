@@ -6,7 +6,7 @@ category: boutique-hotels
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-kyoto-京都味覺驛站-精品飯店裡的京料理深度旅宿-a2f309.html
 published: 2026-06-02
-quality_score: 6.5
+quality_score: 8.6
 tags: 京都, 精品飯店, 京料理, 美食旅宿, 會席料理
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: onsen
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-onsen-hiroshima-廣島縣溫泉巡禮-從都會邊緣到島嶼秘境的湯之旅-a03953.html
 published: 2026-03-29
-quality_score: 6.5
+quality_score: 8.5
 tags: 廣島溫泉, 吳市溫泉, 瀨戶內海, 溫泉巡禮, 自駕溫泉
 license: CC BY 4.0
 ---

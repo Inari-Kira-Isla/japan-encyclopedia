@@ -6,7 +6,7 @@ category: temples-shrines
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-temples-shrines-sendai-仙台賞楓觀櫻秘徑-四季皆美的神社寺院散步指南-bc7078.html
 published: 2026-06-17
-quality_score: 6.5
+quality_score: 8.9
 tags: 仙台神社, 仙台寺院, 仙台賞楓, 仙台賞櫻, 東北賞楓
 license: CC BY 4.0
 ---

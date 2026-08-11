@@ -6,7 +6,7 @@ category: temples-shrines
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-temples-shrines-nara-奈良寺社散步完全指南-千年古都的能量散步徑-127859.html
 published: 2026-06-19
-quality_score: 6.5
+quality_score: 8.9
 tags: 奈良寺社, 日本古蹟, 能量景點, 世界遺產, 散步路線
 license: CC BY 4.0
 ---

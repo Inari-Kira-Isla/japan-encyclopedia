@@ -6,7 +6,7 @@ category: street-food
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-street-food-okinawa-沖繩早市市場-亞熱帶島嶼的清晨味的街頭美食-8abd9b.html
 published: 2026-05-24
-quality_score: 6.5
+quality_score: 8.8
 tags: 沖繩美食, 朝市場, 亞熱帶, 縣產魚, taco rice
 license: CC BY 4.0
 ---

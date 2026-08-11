@@ -6,7 +6,7 @@ category: gaming-arcades
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-gaming-arcades-osaka-大阪遊戲中心-關西商業文化下的數位娛樂殿堂-eb6764.html
 published: 2026-04-06
-quality_score: 6.5
+quality_score: 8.8
 tags: 大阪遊戲中心, 關西文化, 街機, 抓娃娃機, 梅田
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: ferries
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-ferries-fukuoka-福岡歷史航線-追溯古代祭祀航道的人文島嶼之旅-30fd85.html
 published: 2026-06-30
-quality_score: 7.5
+quality_score: 8.6
 tags: 福岡渡輪, 歷史文化, 九州島嶼, 祭祀傳統, 深度旅遊
 license: CC BY 4.0
 ---

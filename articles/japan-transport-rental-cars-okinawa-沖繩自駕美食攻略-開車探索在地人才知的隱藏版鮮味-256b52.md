@@ -6,7 +6,7 @@ category: rental-cars
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-okinawa-沖繩自駕美食攻略-開車探索在地人才知的隱藏版鮮味-256b52.html
 published: 2026-06-01
-quality_score: 7.5
+quality_score: 8.7
 tags: 沖繩租車, 沖繩美食, 自駕攻略, 系滿魚市場, 沖繩南部
 license: CC BY 4.0
 ---

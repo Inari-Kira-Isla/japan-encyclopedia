@@ -6,7 +6,7 @@ category: karaoke
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-karaoke-hokkaido-北海道卡拉ok-薄野夜街的旋律與美食-a14e3f.html
 published: 2026-06-28
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道, 卡拉OK, 札幌, 薄野, 夜生活
 license: CC BY 4.0
 ---

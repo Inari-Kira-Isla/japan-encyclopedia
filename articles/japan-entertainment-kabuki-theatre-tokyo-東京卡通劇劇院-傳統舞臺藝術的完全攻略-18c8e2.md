@@ -6,7 +6,7 @@ category: kabuki-theatre
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-kabuki-theatre-tokyo-東京卡通劇劇院-傳統舞臺藝術的完全攻略-18c8e2.html
 published: 2026-05-21
-quality_score: 6.5
+quality_score: 7.5
 tags: 東京, 歌舞劇, 表演藝術, 傳統文化, 劇場
 license: CC BY 4.0
 ---

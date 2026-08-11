@@ -6,7 +6,7 @@ category: metro-systems
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-kobe-神戶地下鐵的經濟脈動-從港區到山麓的物流與生活-d9b262.html
 published: 2026-06-14
-quality_score: 7.5
+quality_score: 8.8
 tags: 神戶地下鐵, 神戶交通, 神戶自由行, 神戶景點, 神戶經濟
 license: CC BY 4.0
 ---

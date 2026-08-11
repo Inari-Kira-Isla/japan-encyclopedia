@@ -6,7 +6,7 @@ category: nature-trails
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-okinawa-沖繩地質秘徑-探索珊瑚礁石灰岩的億年物語-8f2338.html
 published: 2026-07-03
-quality_score: 6.5
+quality_score: 8.7
 tags: 沖繩自然步道, 石灰岩地形, 喀斯特景觀, 亞熱帶森林, 久米島
 license: CC BY 4.0
 ---

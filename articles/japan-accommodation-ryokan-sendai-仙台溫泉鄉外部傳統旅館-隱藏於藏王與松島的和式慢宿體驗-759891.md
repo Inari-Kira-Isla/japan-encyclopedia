@@ -6,7 +6,7 @@ category: ryokan
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-sendai-仙台溫泉鄉外部傳統旅館-隱藏於藏王與松島的和式慢宿體驗-759891.html
 published: 2026-06-28
-quality_score: 6.5
+quality_score: 8.7
 tags: 仙台溫泉, 藏王溫泉, 松島溫泉, 東北溫泉鄉, 一泊二食
 license: CC BY 4.0
 ---

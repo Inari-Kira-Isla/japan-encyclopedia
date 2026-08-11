@@ -6,7 +6,7 @@ category: anime-manga
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-kanazawa-金澤動漫與工藝的相遇-古城巷弄裡的御宅質感體驗-bc0f31.html
 published: 2026-06-18
-quality_score: 6.5
+quality_score: 8.6
 tags: 金澤, 動漫, 漫畫, 遊戲中心, 工藝
 license: CC BY 4.0
 ---

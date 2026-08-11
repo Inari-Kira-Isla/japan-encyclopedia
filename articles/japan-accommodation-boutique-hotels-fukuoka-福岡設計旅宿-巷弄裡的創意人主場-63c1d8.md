@@ -6,7 +6,7 @@ category: boutique-hotels
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-fukuoka-福岡設計旅宿-巷弄裡的創意人主場-63c1d8.html
 published: 2026-06-26
-quality_score: 6.5
+quality_score: 8.7
 tags: 福岡, 精品酒店, 設計旅宿, 九州, boutique-hotel
 license: CC BY 4.0
 ---

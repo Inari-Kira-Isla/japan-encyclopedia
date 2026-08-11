@@ -6,7 +6,7 @@ category: vr-experiences
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-vr-experiences-sendai-仙台vr體驗-東北復興的數位娛樂新篇章-141ba3.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.8
 tags: 仙台, VR體驗, 東北復興, 數位娛樂, 科技旅遊
 license: CC BY 4.0
 ---

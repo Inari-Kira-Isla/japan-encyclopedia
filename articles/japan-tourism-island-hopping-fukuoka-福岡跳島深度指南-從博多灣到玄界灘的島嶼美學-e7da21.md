@@ -6,7 +6,7 @@ category: island-hopping
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-island-hopping-fukuoka-福岡跳島深度指南-從博多灣到玄界灘的島嶼美學-e7da21.html
 published: 2026-06-19
-quality_score: 6.5
+quality_score: 8.6
 tags: 福岡, 跳島, 九州, 能古島, 呼子
 license: CC BY 4.0
 ---

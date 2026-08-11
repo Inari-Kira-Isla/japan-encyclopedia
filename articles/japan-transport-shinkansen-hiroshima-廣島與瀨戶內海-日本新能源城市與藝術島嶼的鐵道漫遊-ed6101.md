@@ -6,7 +6,7 @@ category: shinkansen
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-hiroshima-廣島與瀨戶內海-日本新能源城市與藝術島嶼的鐵道漫遊-ed6101.html
 published: 2026-05-23
-quality_score: 7.5
+quality_score: 8.5
 tags: 新能源, 廣島, 瀨戶內海, 藝術祭, 山陽電車
 license: CC BY 4.0
 ---

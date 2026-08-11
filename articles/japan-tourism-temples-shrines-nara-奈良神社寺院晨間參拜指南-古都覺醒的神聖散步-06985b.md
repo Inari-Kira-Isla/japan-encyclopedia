@@ -6,7 +6,7 @@ category: temples-shrines
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-temples-shrines-nara-奈良神社寺院晨間參拜指南-古都覺醒的神聖散步-06985b.html
 published: 2026-06-14
-quality_score: 6.5
+quality_score: 8.7
 tags: 奈良神社, 奈良寺院, 晨間參拜, 日本世界遺產, 古都散步
 license: CC BY 4.0
 ---

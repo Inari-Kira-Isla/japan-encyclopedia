@@ -6,7 +6,7 @@ category: minshuku
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-tokyo-東京民宿完全指南-作為都市探索基地的住宿新選擇-de3aba.html
 published: 2026-06-06
-quality_score: 6.5
+quality_score: 8.5
 tags: 東京住宿, 民宿推薦, 東京自由行, 下町住宿, 東京深度旅遊
 license: CC BY 4.0
 ---

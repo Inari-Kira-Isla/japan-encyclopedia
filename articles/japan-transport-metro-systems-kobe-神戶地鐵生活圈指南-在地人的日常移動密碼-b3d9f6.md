@@ -6,7 +6,7 @@ category: metro-systems
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-kobe-神戶地鐵生活圈指南-在地人的日常移動密碼-b3d9f6.html
 published: 2026-04-05
-quality_score: 7.5
+quality_score: 8.8
 tags: 神戶交通, 地鐵系統, 在地生活, 通勤文化, 港都交通
 license: CC BY 4.0
 ---

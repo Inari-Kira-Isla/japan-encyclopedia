@@ -6,7 +6,7 @@ category: sake-brewery
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sake-brewery-osaka-大阪清酒藏見學-關西醫林深處的釀造探訪-1c75f1.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 8.6
 tags: 大阪清酒, 泉州釀造, 酒藏見學, 關西山泉水, 日本清酒體驗
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: onsen
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-onsen-nagoya-名古屋周邊溫泉一日遊-車站出發的硫磺香旅步-8f9c5b.html
 published: 2026-05-21
-quality_score: 6.5
+quality_score: 8.7
 tags: 名古屋溫泉, 一日遊, 下呂溫泉, 熱海溫泉, 南紀白濱
 license: CC BY 4.0
 ---

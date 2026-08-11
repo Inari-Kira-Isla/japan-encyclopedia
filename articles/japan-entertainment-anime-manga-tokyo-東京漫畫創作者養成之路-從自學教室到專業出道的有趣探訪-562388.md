@@ -6,7 +6,7 @@ category: anime-manga
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-tokyo-東京漫畫創作者養成之路-從自學教室到專業出道的有趣探訪-562388.html
 published: 2026-06-28
-quality_score: 6.5
+quality_score: 8.5
 tags: 東京動漫, 漫畫學習, 動漫教育, 漫畫教室, 御宅文化
 license: CC BY 4.0
 ---

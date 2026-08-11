@@ -6,7 +6,7 @@ category: historical-districts
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-nara-奈良歷史街區職人巡禮-千年傳承工藝的溫度之旅-4c4be7.html
 published: 2026-03-27
-quality_score: 6.5
+quality_score: 8.7
 tags: 奈良, 傳統工藝, 職人文化, 手作體驗, 歷史街區
 license: CC BY 4.0
 ---

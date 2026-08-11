@@ -6,7 +6,7 @@ category: wagyu
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-wagyu-osaka-大阪和牛完全指南-關西燒肉核心區的極致美味-ae41a2.html
 published: 2026-04-07
-quality_score: 6.5
+quality_score: 8.9
 tags: 大阪美食, 和牛, 燒肉, 關西料理, 日本美食
 license: CC BY 4.0
 ---

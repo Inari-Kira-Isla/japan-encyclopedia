@@ -6,7 +6,7 @@ category: souvenir-omiyage
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-souvenir-omiyage-kanazawa-金澤朝市文化-清晨六點的買菜體驗與限定野良道具-c834d2.html
 published: 2026-06-21
-quality_score: 7.5
+quality_score: 8.5
 tags: 金澤伴手禮, 近江町市場, 朝市文化, 金澤限定, 金平糖
 license: CC BY 4.0
 ---

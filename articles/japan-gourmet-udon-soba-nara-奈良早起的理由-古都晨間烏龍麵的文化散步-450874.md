@@ -6,7 +6,7 @@ category: udon-soba
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-udon-soba-nara-奈良早起的理由-古都晨間烏龍麵的文化散步-450874.html
 published: 2026-05-21
-quality_score: 6.5
+quality_score: 8.8
 tags: 奈良美食, 日本烏龍麵, 古都早餐, 日本文化體驗, 深度旅行
 license: CC BY 4.0
 ---

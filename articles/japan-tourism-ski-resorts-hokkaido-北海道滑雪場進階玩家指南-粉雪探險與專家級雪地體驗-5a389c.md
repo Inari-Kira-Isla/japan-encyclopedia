@@ -6,7 +6,7 @@ category: ski-resorts
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-ski-resorts-hokkaido-北海道滑雪場進階玩家指南-粉雪探險與專家級雪地體驗-5a389c.html
 published: 2026-06-24
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道滑雪場, 粉雪, 二世谷, 進階滑雪, 日本滑雪
 license: CC BY 4.0
 ---

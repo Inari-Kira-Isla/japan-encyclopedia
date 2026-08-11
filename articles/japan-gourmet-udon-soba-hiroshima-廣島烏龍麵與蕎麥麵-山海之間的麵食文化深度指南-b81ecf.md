@@ -6,7 +6,7 @@ category: udon-soba
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-udon-soba-hiroshima-廣島烏龍麵與蕎麥麵-山海之間的麵食文化深度指南-b81ecf.html
 published: 2026-03-15
-quality_score: 6.5
+quality_score: 8.7
 tags: 廣島美食, 廣島烏龍麵, 廣島蕎麥麵, 日本麵食, 廣島旅遊
 license: CC BY 4.0
 ---

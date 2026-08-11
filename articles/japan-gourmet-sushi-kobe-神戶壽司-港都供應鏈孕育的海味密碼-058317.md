@@ -6,7 +6,7 @@ category: sushi
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sushi-kobe-神戶壽司-港都供應鏈孕育的海味密碼-058317.html
 published: 2026-03-24
-quality_score: 6.5
+quality_score: 8.8
 tags: 神戶壽司, 神戶美食, 港都海味, 瀨戶內海, 神戶自由行
 license: CC BY 4.0
 ---

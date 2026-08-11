@@ -6,7 +6,7 @@ category: minshuku
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-nagoya-名古屋民宿完全指南-從名古屋出發的中部地方漫遊根據地-04c2b6.html
 published: 2026-06-06
-quality_score: 6.5
+quality_score: 8.5
 tags: 名古屋民宿, 中部地方, 名古屋住宿, 日本民宿, 白川鄉
 license: CC BY 4.0
 ---

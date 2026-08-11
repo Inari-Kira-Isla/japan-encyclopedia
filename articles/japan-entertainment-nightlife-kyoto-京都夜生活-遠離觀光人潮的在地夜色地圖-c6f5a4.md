@@ -6,7 +6,7 @@ category: nightlife
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-kyoto-京都夜生活-遠離觀光人潮的在地夜色地圖-c6f5a4.html
 published: 2026-06-22
-quality_score: 6.5
+quality_score: 8.8
 tags: 京都夜生活, 京都酒吧, 京都居酒屋, 京都立飲, 祇園
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: ski-resorts
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-ski-resorts-sendai-仙台滑雪場攻略-東北雪國的最佳據點-e9c2c3.html
 published: 2026-04-07
-quality_score: 6.5
+quality_score: 8.7
 tags: 仙台滑雪, 東北雪場, 藏王樹冰, 滑雪據點, 粉雪體驗
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: capsule-hotels
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-capsule-hotels-kyoto-京都膠囊旅館深度攻略-社交旅居與交通樞紐的完美結合-faaf16.html
 published: 2026-03-21
-quality_score: 6.5
+quality_score: 8.7
 tags: 京都膠囊旅館, 背包客住宿, 社交旅居, 日本經濟住宿, 交通樞紐
 license: CC BY 4.0
 ---

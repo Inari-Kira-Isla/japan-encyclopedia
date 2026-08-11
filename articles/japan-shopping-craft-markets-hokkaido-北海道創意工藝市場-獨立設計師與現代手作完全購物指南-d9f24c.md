@@ -6,7 +6,7 @@ category: craft-markets
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-craft-markets-hokkaido-北海道創意工藝市場-獨立設計師與現代手作完全購物指南-d9f24c.html
 published: 2026-03-24
-quality_score: 7.5
+quality_score: 8.7
 tags: 北海道, 工藝市場, Craft Markets, 設計師作品, 購物指南
 license: CC BY 4.0
 ---

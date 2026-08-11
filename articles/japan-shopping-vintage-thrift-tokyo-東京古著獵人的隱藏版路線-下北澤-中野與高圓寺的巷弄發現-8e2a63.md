@@ -6,7 +6,7 @@ category: vintage-thrift
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-vintage-thrift-tokyo-東京古著獵人的隱藏版路線-下北澤-中野與高圓寺的巷弄發現-8e2a63.html
 published: 2026-06-23
-quality_score: 7.5
+quality_score: 8.9
 tags: 東京古著, 下北澤古著, 中南野古著, 高圓寺古著, 東京 Vintage
 license: CC BY 4.0
 ---

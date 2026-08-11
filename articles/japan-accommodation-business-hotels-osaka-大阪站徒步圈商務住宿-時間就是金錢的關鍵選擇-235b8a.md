@@ -6,7 +6,7 @@ category: business-hotels
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-business-hotels-osaka-大阪站徒步圈商務住宿-時間就是金錢的關鍵選擇-235b8a.html
 published: 2026-05-23
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪商務住宿, 大阪站徒步住宿, 關西商務出差, 梅田住宿推薦, 大阪住宿實用指南
 license: CC BY 4.0
 ---

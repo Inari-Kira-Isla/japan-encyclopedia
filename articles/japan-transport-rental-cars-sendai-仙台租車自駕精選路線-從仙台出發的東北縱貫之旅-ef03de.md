@@ -6,7 +6,7 @@ category: rental-cars
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-sendai-仙台租車自駕精選路線-從仙台出發的東北縱貫之旅-ef03de.html
 published: 2026-06-06
-quality_score: 7.5
+quality_score: 8.6
 tags: 仙台租車, 東北自駕, 藏王自駕, 松島租車, 磐梯會津
 license: CC BY 4.0
 ---

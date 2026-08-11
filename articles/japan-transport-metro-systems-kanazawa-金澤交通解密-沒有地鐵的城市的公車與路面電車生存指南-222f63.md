@@ -6,7 +6,7 @@ category: metro-systems
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-kanazawa-金澤交通解密-沒有地鐵的城市的公車與路面電車生存指南-222f63.html
 published: 2026-07-04
-quality_score: 7.5
+quality_score: 8.7
 tags: 金澤交通, 金澤公車, 金澤路面電車, 金澤自助旅行, 日本中部自由行
 license: CC BY 4.0
 ---

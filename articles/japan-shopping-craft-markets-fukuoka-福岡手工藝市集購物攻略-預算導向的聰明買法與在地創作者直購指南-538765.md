@@ -6,7 +6,7 @@ category: craft-markets
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-craft-markets-fukuoka-福岡手工藝市集購物攻略-預算導向的聰明買法與在地創作者直購指南-538765.html
 published: 2026-06-07
-quality_score: 7.5
+quality_score: 8.7
 tags: 福岡, 手工艺市集, 骨董市集, 创作者市集, 预算购物
 license: CC BY 4.0
 ---

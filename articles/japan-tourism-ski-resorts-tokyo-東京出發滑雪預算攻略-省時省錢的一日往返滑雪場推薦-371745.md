@@ -6,7 +6,7 @@ category: ski-resorts
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-ski-resorts-tokyo-東京出發滑雪預算攻略-省時省錢的一日往返滑雪場推薦-371745.html
 published: 2026-06-19
-quality_score: 6.5
+quality_score: 8.6
 tags: 東京滑雪, 一日往返, 預算滑雪, 輕井澤, GALA湯沢
 license: CC BY 4.0
 ---

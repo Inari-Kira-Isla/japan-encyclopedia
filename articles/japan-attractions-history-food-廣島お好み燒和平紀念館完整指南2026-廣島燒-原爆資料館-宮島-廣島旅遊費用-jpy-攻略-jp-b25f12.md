@@ -6,7 +6,7 @@ category: history-food
 area: japan
 url: https://japan-encyclopedia.vercel.app/articles/japan-attractions-history-food-廣島お好み燒和平紀念館完整指南2026-廣島燒-原爆資料館-宮島-廣島旅遊費用-jpy-攻略-jp-b25f12.html
 published: 2026-03-29
-quality_score: 7.6
+quality_score: 8.4
 tags: 廣島お好み燒, 廣島和平紀念館, 廣島宮島, 廣島旅遊, 廣島牡蠣
 license: CC BY 4.0
 ---

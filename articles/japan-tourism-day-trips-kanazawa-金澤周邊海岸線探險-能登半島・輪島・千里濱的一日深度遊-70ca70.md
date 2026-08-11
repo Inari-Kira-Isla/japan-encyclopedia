@@ -6,7 +6,7 @@ category: day-trips
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-kanazawa-金澤周邊海岸線探險-能登半島・輪島・千里濱的一日深度遊-70ca70.html
 published: 2026-06-02
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤, 能登半島, 輪島, 千里濱溫泉, 日本海
 license: CC BY 4.0
 ---

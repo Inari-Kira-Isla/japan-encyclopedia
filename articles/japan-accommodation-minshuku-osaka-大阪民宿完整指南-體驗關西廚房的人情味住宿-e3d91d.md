@@ -6,7 +6,7 @@ category: minshuku
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-osaka-大阪民宿完整指南-體驗關西廚房的人情味住宿-e3d91d.html
 published: 2026-03-18
-quality_score: 6.5
+quality_score: 8.5
 tags: 大阪民宿, 大阪住宿, 關西旅行, minshuku, 道頓堀
 license: CC BY 4.0
 ---

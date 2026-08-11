@@ -6,7 +6,7 @@ category: shinkansen
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-nagoya-名古屋新幹線深度攻略-中部地區探索的最佳起點-1ea49c.html
 published: 2026-04-05
-quality_score: 7.5
+quality_score: 8.6
 tags: 名古屋新幹線, 中部地區, 深度旅遊, 交通攻略, 一日遊
 license: CC BY 4.0
 ---

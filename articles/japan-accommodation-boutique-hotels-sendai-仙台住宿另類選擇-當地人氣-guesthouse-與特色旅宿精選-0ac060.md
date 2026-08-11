@@ -6,7 +6,7 @@ category: boutique-hotels
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-sendai-仙台住宿另類選擇-當地人氣-guesthouse-與特色旅宿精選-0ac060.html
 published: 2026-07-03
-quality_score: 6.5
+quality_score: 9.0
 tags: 仙台住宿, 仙台Guesthouse, 東北小京都, 仙台旅遊, 仙台住宿推薦
 license: CC BY 4.0
 ---

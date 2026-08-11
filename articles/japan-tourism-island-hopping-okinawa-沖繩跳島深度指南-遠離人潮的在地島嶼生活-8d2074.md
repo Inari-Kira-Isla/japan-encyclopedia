@@ -6,7 +6,7 @@ category: island-hopping
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-island-hopping-okinawa-沖繩跳島深度指南-遠離人潮的在地島嶼生活-8d2074.html
 published: 2026-06-26
-quality_score: 6.5
+quality_score: 8.5
 tags: 沖繩跳島, 慶良間諸島, 渡嘉敷島, 座間味島, 西表島
 license: CC BY 4.0
 ---

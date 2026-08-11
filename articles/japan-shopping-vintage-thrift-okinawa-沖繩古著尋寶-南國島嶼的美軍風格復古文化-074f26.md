@@ -6,7 +6,7 @@ category: vintage-thrift
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-vintage-thrift-okinawa-沖繩古著尋寶-南國島嶼的美軍風格復古文化-074f26.html
 published: 2026-04-05
-quality_score: 7.5
+quality_score: 8.7
 tags: 沖繩購物, 古著, 軍用品, 美軍文化, 復古時尚
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: minshuku
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-tokyo-東京民宿完全指南-車站周邊與特色街區的隱藏版住宿-137907.html
 published: 2026-07-06
-quality_score: 6.5
+quality_score: 8.5
 tags: 東京民宿, 東京住宿, Minshuku, 日本自由行, 東京自由行
 license: CC BY 4.0
 ---

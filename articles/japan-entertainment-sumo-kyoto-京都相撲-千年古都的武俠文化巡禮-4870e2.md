@@ -6,7 +6,7 @@ category: sumo
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-kyoto-京都相撲-千年古都的武俠文化巡禮-4870e2.html
 published: 2026-06-13
-quality_score: 6.5
+quality_score: 8.7
 tags: 京都相撲, 京都武術, 相撲文化體驗, 京都傳統, 日本文化
 license: CC BY 4.0
 ---

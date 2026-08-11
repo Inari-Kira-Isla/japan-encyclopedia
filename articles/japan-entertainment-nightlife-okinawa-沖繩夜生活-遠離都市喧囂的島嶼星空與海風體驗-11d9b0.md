@@ -6,7 +6,7 @@ category: nightlife
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-okinawa-沖繩夜生活-遠離都市喧囂的島嶼星空與海風體驗-11d9b0.html
 published: 2026-06-15
-quality_score: 6.5
+quality_score: 8.7
 tags: 沖繩夜生活, 海島度假, 星空觀測, 沙灘酒吧, 那霸國際通
 license: CC BY 4.0
 ---

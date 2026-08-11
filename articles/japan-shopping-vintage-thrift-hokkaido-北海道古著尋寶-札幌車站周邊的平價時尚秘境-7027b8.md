@@ -6,7 +6,7 @@ category: vintage-thrift
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-vintage-thrift-hokkaido-北海道古著尋寶-札幌車站周邊的平價時尚秘境-7027b8.html
 published: 2026-06-09
-quality_score: 7.5
+quality_score: 8.7
 tags: 北海道古著, 札幌古著, 日本古著, 二手衣物, 復古時尚
 license: CC BY 4.0
 ---

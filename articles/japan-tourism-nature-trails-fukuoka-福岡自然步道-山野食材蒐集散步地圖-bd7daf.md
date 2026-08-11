@@ -6,7 +6,7 @@ category: nature-trails
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-fukuoka-福岡自然步道-山野食材蒐集散步地圖-bd7daf.html
 published: 2026-06-18
-quality_score: 6.5
+quality_score: 8.7
 tags: 福岡自然步道, 九州健行, 野菇採集, 山菜體驗, 食材散步
 license: CC BY 4.0
 ---

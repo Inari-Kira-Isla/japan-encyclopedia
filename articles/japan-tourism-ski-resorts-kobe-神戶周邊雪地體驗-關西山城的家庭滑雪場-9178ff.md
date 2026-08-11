@@ -6,7 +6,7 @@ category: ski-resorts
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-ski-resorts-kobe-神戶周邊雪地體驗-關西山城的家庭滑雪場-9178ff.html
 published: 2026-06-19
-quality_score: 6.5
+quality_score: 8.5
 tags: 神戶滑雪, 關西滑雪, 家庭滑雪, 六甲山, 日本滑雪體驗
 license: CC BY 4.0
 ---

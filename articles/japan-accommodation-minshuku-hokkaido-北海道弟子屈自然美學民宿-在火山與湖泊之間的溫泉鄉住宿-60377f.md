@@ -6,7 +6,7 @@ category: minshuku
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-hokkaido-北海道弟子屈自然美學民宿-在火山與湖泊之間的溫泉鄉住宿-60377f.html
 published: 2026-06-30
-quality_score: 6.5
+quality_score: 8.5
 tags: 北海道民宿, 弟子屈, 摩周湖, 溫泉鄉, 火山湖泊
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: wagyu
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-wagyu-sendai-仙台和牛-穿越日本東北的和牛驛站-fe3466.html
 published: 2026-06-13
-quality_score: 6.5
+quality_score: 8.6
 tags: 仙台和牛, 東北美食, 和牛文化, 日本和牛, 仙台旅遊
 license: CC BY 4.0
 ---

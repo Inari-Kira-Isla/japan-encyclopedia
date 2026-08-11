@@ -6,7 +6,7 @@ category: temple-stays
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-temple-stays-fukuoka-福岡寺院住宿-作為九州宿坊探險入口的策略指南-5d2104.html
 published: 2026-06-03
-quality_score: 6.5
+quality_score: 7.9
 tags: 福岡寺院住宿, 九州宿坊, 黑川溫泉寺廟, 阿蘇山修行, 日本禪修體驗
 license: CC BY 4.0
 ---

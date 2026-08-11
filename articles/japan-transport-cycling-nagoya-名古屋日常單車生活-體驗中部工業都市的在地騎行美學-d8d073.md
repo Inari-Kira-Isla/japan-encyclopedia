@@ -6,7 +6,7 @@ category: cycling
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-nagoya-名古屋日常單車生活-體驗中部工業都市的在地騎行美學-d8d073.html
 published: 2026-06-03
-quality_score: 7.5
+quality_score: 8.7
 tags: 名古屋, 單車旅行, 中部地方, 城市漫遊, 工業城市
 license: CC BY 4.0
 ---

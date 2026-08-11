@@ -6,7 +6,7 @@ category: ryokan
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-nara-奈良傳統旅館-ryokan-完全指南-在千年古都體驗和式待客之道-5d7672.html
 published: 2026-03-15
-quality_score: 6.5
+quality_score: 8.8
 tags: 奈良住宿, 日式旅館, 傳統文化, 古都體驗, 和式建築
 license: CC BY 4.0
 ---

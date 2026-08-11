@@ -6,7 +6,7 @@ category: onsen
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-onsen-kyoto-京都溫泉-古都裡的秘湯巡禮遠離人潮的隱藏名單-f33d3d.html
 published: 2026-07-06
-quality_score: 6.5
+quality_score: 8.5
 tags: 京都溫泉, 鞍馬溫泉, 寶池溫泉, 貴船溫泉, 秘湯
 license: CC BY 4.0
 ---

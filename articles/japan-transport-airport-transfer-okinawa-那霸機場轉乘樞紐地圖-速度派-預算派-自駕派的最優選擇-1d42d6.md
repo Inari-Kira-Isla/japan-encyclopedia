@@ -6,7 +6,7 @@ category: airport-transfer
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-airport-transfer-okinawa-那霸機場轉乘樞紐地圖-速度派-預算派-自駕派的最優選擇-1d42d6.html
 published: 2026-03-23
-quality_score: 7.5
+quality_score: 8.6
 tags: 沖繩旅遊, 機場交通, 那霸機場, 交通成本對比, 轉乘樞紐
 license: CC BY 4.0
 ---

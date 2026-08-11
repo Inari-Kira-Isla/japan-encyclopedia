@@ -6,7 +6,7 @@ category: kaiseki
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-kaiseki-nagoya-名古屋會席料理-在地老饕的實惠選擇-體驗商人之城的餐桌智慧-199b27.html
 published: 2026-07-04
-quality_score: 6.5
+quality_score: 8.8
 tags: 名古屋會席料理, 名古屋美食, 日本料理, 三河灣海鮮, 名古屋自由行
 license: CC BY 4.0
 ---

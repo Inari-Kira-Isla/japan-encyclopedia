@@ -6,7 +6,7 @@ category: depachika
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-depachika-fukuoka-福岡depachika時間攻略-用時間找出最佳採買時段-be23d4.html
 published: 2026-06-05
-quality_score: 6.5
+quality_score: 8.5
 tags: 福岡Depachika, 天神地下美食, 久留米岩田屋, 時間攻略, 博多数地下街
 license: CC BY 4.0
 ---

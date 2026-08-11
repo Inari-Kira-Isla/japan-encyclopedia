@@ -6,7 +6,7 @@ category: yakitori
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-yakitori-nagoya-名古屋燒鳥-工業城市的深夜食堂美學-b7f90d.html
 published: 2026-06-10
-quality_score: 6.5
+quality_score: 8.9
 tags: 名古屋美食, 燒鳥, 日本料理, 深夜食堂, 在地美食
 license: CC BY 4.0
 ---

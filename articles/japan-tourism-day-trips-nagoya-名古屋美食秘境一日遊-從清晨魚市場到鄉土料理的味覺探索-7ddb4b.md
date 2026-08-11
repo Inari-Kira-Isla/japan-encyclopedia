@@ -6,7 +6,7 @@ category: day-trips
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-nagoya-名古屋美食秘境一日遊-從清晨魚市場到鄉土料理的味覺探索-7ddb4b.html
 published: 2026-07-06
-quality_score: 6.5
+quality_score: 8.6
 tags: 名古屋一日遊, 美食秘境, 蒲郡魚市場, 八丁味噌, 一色大草魚
 license: CC BY 4.0
 ---

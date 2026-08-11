@@ -6,7 +6,7 @@ category: tempura
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tempura-nagoya-名古屋天婦羅-被低估的名古屋靈魂美食-ded579.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 8.4
 tags: 名古屋美食, 天婦羅, 日本料理, 三重縣, 在地美食
 license: CC BY 4.0
 ---

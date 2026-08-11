@@ -6,7 +6,7 @@ category: historical-districts
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-kanazawa-金澤歷史街區-加賀百萬石風情的時光漫步-67db16.html
 published: 2026-06-16
-quality_score: 6.5
+quality_score: 8.5
 tags: 金澤, 歷史街區, 日本海沿岸, 加賀藩, 城下町
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: department-stores
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-department-stores-sendai-仙台百貨公司-東北四季的購物時光機-112090.html
 published: 2026-04-06
-quality_score: 7.5
+quality_score: 8.8
 tags: 仙台購物, 東北特產, 季節限定, 傳統工藝, 美食購物
 license: CC BY 4.0
 ---

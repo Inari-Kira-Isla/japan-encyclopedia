@@ -6,7 +6,7 @@ category: capsule-hotels
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-capsule-hotels-hokkaido-北海道膠囊旅館完全指南-往返機場與滑雪場的中繼住宿選擇-1199f6.html
 published: 2026-06-13
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道膠囊旅館, 札幌住宿, 新千歲機場中繼住宿, 二世古滑雪住宿, 日本預算旅行
 license: CC BY 4.0
 ---

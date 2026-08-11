@@ -6,7 +6,7 @@ category: theme-parks
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-theme-parks-hokkaido-北海道主題樂園不完全指南-雪國限定的戶外冒險與親子同樂體驗-f50e63.html
 published: 2026-06-22
-quality_score: 6.5
+quality_score: 8.6
 tags: 北海道主題樂園, 北海道親子遊, 北海道冬季體驗, 札幌周邊景點, 北海道牧場體驗
 license: CC BY 4.0
 ---

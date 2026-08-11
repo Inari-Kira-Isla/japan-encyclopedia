@@ -6,7 +6,7 @@ category: okonomiyaki
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-okonomiyaki-osaka-大阪御好燒-醬汁流派與鐵板技術的專業解析-1efd96.html
 published: 2026-06-14
-quality_score: 6.5
+quality_score: 8.8
 tags: 大阪美食, 御好燒, 關西料理, 鐵板燒, 醬汁流派
 license: CC BY 4.0
 ---

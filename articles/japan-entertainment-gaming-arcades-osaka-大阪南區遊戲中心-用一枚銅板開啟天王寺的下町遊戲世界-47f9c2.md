@@ -6,7 +6,7 @@ category: gaming-arcades
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-gaming-arcades-osaka-大阪南區遊戲中心-用一枚銅板開啟天王寺的下町遊戲世界-47f9c2.html
 published: 2026-05-23
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪遊戲中心, 天王寺, 阿倍野, 街機文化, GiGO
 license: CC BY 4.0
 ---

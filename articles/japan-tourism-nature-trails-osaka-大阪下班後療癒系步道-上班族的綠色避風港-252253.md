@@ -6,7 +6,7 @@ category: nature-trails
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-osaka-大阪下班後療癒系步道-上班族的綠色避風港-252253.html
 published: 2026-04-04
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪, 自然步道, 療癒系, 上班族, 短程登山
 license: CC BY 4.0
 ---

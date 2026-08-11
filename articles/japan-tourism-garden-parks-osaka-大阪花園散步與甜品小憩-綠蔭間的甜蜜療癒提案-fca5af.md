@@ -6,7 +6,7 @@ category: garden-parks
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-osaka-大阪花園散步與甜品小憩-綠蔭間的甜蜜療癒提案-fca5af.html
 published: 2026-06-13
-quality_score: 6.5
+quality_score: 8.6
 tags: 大阪花園, 大阪甜品, 抹茶甜點, 都市綠洲, 關西散步
 license: CC BY 4.0
 ---

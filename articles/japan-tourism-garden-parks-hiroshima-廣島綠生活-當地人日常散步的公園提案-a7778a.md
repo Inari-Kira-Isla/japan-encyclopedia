@@ -6,7 +6,7 @@ category: garden-parks
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-hiroshima-廣島綠生活-當地人日常散步的公園提案-a7778a.html
 published: 2026-06-18
-quality_score: 6.5
+quality_score: 8.4
 tags: 廣島, 公園, 綠地, 市民生活, 自然
 license: CC BY 4.0
 ---

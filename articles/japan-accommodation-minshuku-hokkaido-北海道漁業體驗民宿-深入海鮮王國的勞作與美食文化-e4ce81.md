@@ -6,7 +6,7 @@ category: minshuku
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-hokkaido-北海道漁業體驗民宿-深入海鮮王國的勞作與美食文化-e4ce81.html
 published: 2026-04-04
-quality_score: 6.5
+quality_score: 8.6
 tags: 北海道民宿, 漁業體驗, 海鮮文化, 深度旅遊, 漁村住宿
 license: CC BY 4.0
 ---

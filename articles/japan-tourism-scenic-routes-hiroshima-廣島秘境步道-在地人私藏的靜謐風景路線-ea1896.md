@@ -6,7 +6,7 @@ category: scenic-routes
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-hiroshima-廣島秘境步道-在地人私藏的靜謐風景路線-ea1896.html
 published: 2026-06-08
-quality_score: 6.5
+quality_score: 8.7
 tags: 廣島秘境步道, 廣島登山步道, 廣島自然風光, 廣島隱藏景點, 瀨戶內海步道
 license: CC BY 4.0
 ---

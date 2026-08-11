@@ -6,7 +6,7 @@ category: garden-parks
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-hiroshima-重建之美-廣島花園公園的療癒力量-4a8f19.html
 published: 2026-04-06
-quality_score: 6.5
+quality_score: 8.8
 tags: 廣島, 花園公園, 園藝療法, 和平紀念, 心理療癒
 license: CC BY 4.0
 ---

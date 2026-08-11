@@ -6,7 +6,7 @@ category: street-food
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-street-food-sendai-仙台早市的時間美學-當地人從早餐到下午茶的巷弄味覺地圖-f99fbb.html
 published: 2026-07-03
-quality_score: 6.5
+quality_score: 8.9
 tags: 仙台, 街頭美食, 東北, 牛タン, ずんだ
 license: CC BY 4.0
 ---

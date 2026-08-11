@@ -6,7 +6,7 @@ category: cycling
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-kanazawa-金澤腳踏車漫遊-河畔古鎮的慢速探索-67354c.html
 published: 2026-06-02
-quality_score: 7.5
+quality_score: 8.6
 tags: 金澤, 自行車, 石川縣, 深度旅遊, 河畔骑行
 license: CC BY 4.0
 ---

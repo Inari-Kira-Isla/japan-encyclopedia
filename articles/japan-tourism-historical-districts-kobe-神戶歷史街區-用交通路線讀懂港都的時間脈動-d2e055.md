@@ -6,7 +6,7 @@ category: historical-districts
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-kobe-神戶歷史街區-用交通路線讀懂港都的時間脈動-d2e055.html
 published: 2026-05-23
-quality_score: 6.5
+quality_score: 8.8
 tags: 神戶, 歷史街區, 北野異人館, 南京町, 元町地下街
 license: CC BY 4.0
 ---

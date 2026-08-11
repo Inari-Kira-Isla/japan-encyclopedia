@@ -6,7 +6,7 @@ category: scenic-routes
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-hokkaido-北海道四季風景線-從阿寒到知床的自然秘境-用公共交通環遊北國之美-c5fbb5.html
 published: 2026-03-24
-quality_score: 6.5
+quality_score: 8.5
 tags: 北海道, 風景路線, 四季景色, 世界遺產, 公共交通
 license: CC BY 4.0
 ---

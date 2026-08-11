@@ -6,7 +6,7 @@ category: day-trips
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-nara-奈良一日遊-古都深度漫遊攻略-避開人潮的在地私房路線-9c771d.html
 published: 2026-05-31
-quality_score: 6.5
+quality_score: 8.6
 tags: 奈良一日遊, 關西自由行, 古都漫遊, 日本文化遺產, 奈良秘境
 license: CC BY 4.0
 ---

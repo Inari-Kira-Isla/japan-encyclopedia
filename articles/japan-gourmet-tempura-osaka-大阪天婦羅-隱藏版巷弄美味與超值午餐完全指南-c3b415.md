@@ -6,7 +6,7 @@ category: tempura
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tempura-osaka-大阪天婦羅-隱藏版巷弄美味與超值午餐完全指南-c3b415.html
 published: 2026-03-30
-quality_score: 6.5
+quality_score: 8.6
 tags: 大阪天婦羅, 關西美食, 巷弄美食, 平價美食, 天婦羅專門店
 license: CC BY 4.0
 ---

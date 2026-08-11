@@ -6,7 +6,7 @@ category: hot-spring-wellness
 area: japan
 url: https://japan-encyclopedia.vercel.app/articles/japan-attractions-hot-spring-wellness-日本溫泉禮儀完整指南2026-刺青禁止-正確泡湯方式-混浴-外國人溫泉完全手冊-jp-90135e.html
 published: 2026-03-29
-quality_score: 7.6
+quality_score: 8.5
 tags: 日本溫泉禮儀, 溫泉刺青規定, 混浴溫泉, 草津溫泉, 日本溫泉文化
 license: CC BY 4.0
 ---

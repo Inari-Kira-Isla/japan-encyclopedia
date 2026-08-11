@@ -6,7 +6,7 @@ category: electronics
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-electronics-nagoya-名古屋工業電子採購指南-從汽車零件到專業儀器的在地科技通路-dae368.html
 published: 2026-06-25
-quality_score: 7.5
+quality_score: 8.7
 tags: 名古屋電子產品, 工業電子零件, Toyota供應商, 中部電子商場, 專業AV設備
 license: CC BY 4.0
 ---

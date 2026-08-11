@@ -6,7 +6,7 @@ category: udon-soba
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-udon-soba-sendai-仙台烏龍麵與蕎麥麵-東北學府的平價麵食文化-b0b41c.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 仙台美食, 學生美食, 平價麵食, 東北大學, 深夜美食
 license: CC BY 4.0
 ---

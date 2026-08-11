@@ -6,7 +6,7 @@ category: kaiseki
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-kaiseki-sendai-仙台會席料理-日本海懷石的美味奧義-da48cb.html
 published: 2026-06-28
-quality_score: 6.5
+quality_score: 8.6
 tags: 仙台美食, 會席料理, 日本海懷石, 東北美食, 日本料理
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: matcha-sweets
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-matcha-sweets-nagoya-名古屋抹茶甜點-新茶季節裡的職人手工藝-6da3f2.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 名古屋美食, 抹茶甜點, 新茶季節, 職人手工, 靜岡茶
 license: CC BY 4.0
 ---

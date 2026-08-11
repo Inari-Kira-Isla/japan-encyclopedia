@@ -6,7 +6,7 @@ category: day-trips
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-osaka-大阪周邊美食尋訪與傳統工藝之旅-商人城市的深層文化探索-75a060.html
 published: 2026-03-24
-quality_score: 6.5
+quality_score: 8.6
 tags: 大阪一日遊, 美食文化, 傳統工藝, 溫泉體驗, 日本手作
 license: CC BY 4.0
 ---

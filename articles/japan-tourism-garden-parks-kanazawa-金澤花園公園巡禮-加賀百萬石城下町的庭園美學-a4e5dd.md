@@ -6,7 +6,7 @@ category: garden-parks
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-kanazawa-金澤花園公園巡禮-加賀百萬石城下町的庭園美學-a4e5dd.html
 published: 2026-03-15
-quality_score: 6.5
+quality_score: 8.8
 tags: 金澤旅遊, 日本庭園, 兼六園, 文化遺產, 賞櫻
 license: CC BY 4.0
 ---

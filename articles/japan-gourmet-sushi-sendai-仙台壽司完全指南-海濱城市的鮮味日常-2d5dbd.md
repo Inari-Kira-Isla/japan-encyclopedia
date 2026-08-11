@@ -6,7 +6,7 @@ category: sushi
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sushi-sendai-仙台壽司完全指南-海濱城市的鮮味日常-2d5dbd.html
 published: 2026-06-02
-quality_score: 6.5
+quality_score: 8.7
 tags: 仙台美食, 日本壽司, 東北地方美食, 在地推荐, 平價美食
 license: CC BY 4.0
 ---

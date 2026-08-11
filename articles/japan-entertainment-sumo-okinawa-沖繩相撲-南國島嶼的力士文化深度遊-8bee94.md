@@ -6,7 +6,7 @@ category: sumo
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-okinawa-沖繩相撲-南國島嶼的力士文化深度遊-8bee94.html
 published: 2026-06-16
-quality_score: 6.5
+quality_score: 8.7
 tags: 沖繩相撲, 琉球武術, 手組, 文化體驗, 南國旅遊
 license: CC BY 4.0
 ---

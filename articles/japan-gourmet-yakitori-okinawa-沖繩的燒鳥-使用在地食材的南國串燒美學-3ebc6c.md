@@ -6,7 +6,7 @@ category: yakitori
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-yakitori-okinawa-沖繩的燒鳥-使用在地食材的南國串燒美學-3ebc6c.html
 published: 2026-06-22
-quality_score: 6.5
+quality_score: 8.6
 tags: 沖繩美食, 燒鳥, 串燒, Agu豬, 島胡椒
 license: CC BY 4.0
 ---

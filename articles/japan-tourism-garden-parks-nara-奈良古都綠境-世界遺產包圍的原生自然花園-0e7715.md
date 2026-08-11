@@ -6,7 +6,7 @@ category: garden-parks
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-nara-奈良古都綠境-世界遺產包圍的原生自然花園-0e7715.html
 published: 2026-06-08
-quality_score: 6.5
+quality_score: 8.7
 tags: 奈良, 花園公園, 世界遺產, 自然旅遊, 古都
 license: CC BY 4.0
 ---

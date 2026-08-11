@@ -6,7 +6,7 @@ category: cycling
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-hiroshima-廣島單車漫遊-坡道之城與巷弄美食的深度探索-346943.html
 published: 2026-07-03
-quality_score: 7.5
+quality_score: 8.8
 tags: 廣島單車, 尾道騎行, 廣島燒, 瀨戶內海, 島波海道
 license: CC BY 4.0
 ---

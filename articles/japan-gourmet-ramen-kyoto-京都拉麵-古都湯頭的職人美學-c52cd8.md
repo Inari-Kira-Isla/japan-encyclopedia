@@ -6,7 +6,7 @@ category: ramen
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-ramen-kyoto-京都拉麵-古都湯頭的職人美學-c52cd8.html
 published: 2026-06-14
-quality_score: 6.5
+quality_score: 8.7
 tags: 京都拉麵, 京都美食, 日本拉麵, 關西拉麵, 古都美食
 license: CC BY 4.0
 ---

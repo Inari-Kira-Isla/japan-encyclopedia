@@ -6,7 +6,7 @@ category: temples-shrines
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-temples-shrines-osaka-大阪寺廟神社商運指南-從商人信仰看關西靈性文化-3e426e.html
 published: 2026-04-01
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪, 寺廟, 神社, 商人文化, 住吉大社
 license: CC BY 4.0
 ---

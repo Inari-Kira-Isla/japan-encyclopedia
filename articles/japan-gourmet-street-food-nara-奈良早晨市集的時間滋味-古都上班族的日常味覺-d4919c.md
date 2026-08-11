@@ -6,7 +6,7 @@ category: street-food
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-street-food-nara-奈良早晨市集的時間滋味-古都上班族的日常味覺-d4919c.html
 published: 2026-06-15
-quality_score: 6.5
+quality_score: 8.7
 tags: 奈良, 朝市, 古都朝食, 在地美食, 上班族的早晨
 license: CC BY 4.0
 ---

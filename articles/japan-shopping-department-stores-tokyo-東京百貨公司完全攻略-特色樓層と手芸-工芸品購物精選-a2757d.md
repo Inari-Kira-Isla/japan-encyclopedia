@@ -6,7 +6,7 @@ category: department-stores
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-department-stores-tokyo-東京百貨公司完全攻略-特色樓層と手芸-工芸品購物精選-a2757d.html
 published: 2026-06-03
-quality_score: 7.5
+quality_score: 8.4
 tags: 東京購物, 日本 百貨公司, 伝統工藝品, 東京自由行, 手芸購物
 license: CC BY 4.0
 ---

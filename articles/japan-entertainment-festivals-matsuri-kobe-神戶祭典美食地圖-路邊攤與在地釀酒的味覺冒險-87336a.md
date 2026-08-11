@@ -6,7 +6,7 @@ category: festivals-matsuri
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-festivals-matsuri-kobe-神戶祭典美食地圖-路邊攤與在地釀酒的味覺冒險-87336a.html
 published: 2026-06-28
-quality_score: 6.5
+quality_score: 8.7
 tags: 神戶祭典, 神戶美食, 路邊攤, 清酒, 灘五鄉
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: rental-cars
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-hiroshima-廣島租車自駕樞紐-從廣島出發的跨縣市山海深度之旅-1a8f6c.html
 published: 2026-06-30
-quality_score: 7.5
+quality_score: 8.6
 tags: 廣島租車, 中國地方自駕, 山陽山陰連遊, 放射狀旅遊, 跨縣市租車
 license: CC BY 4.0
 ---

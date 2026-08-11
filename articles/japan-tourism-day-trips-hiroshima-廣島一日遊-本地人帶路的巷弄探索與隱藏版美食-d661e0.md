@@ -6,7 +6,7 @@ category: day-trips
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-hiroshima-廣島一日遊-本地人帶路的巷弄探索與隱藏版美食-d661e0.html
 published: 2026-06-16
-quality_score: 6.5
+quality_score: 8.7
 tags: 廣島一日遊, 廣島景點, 瀨戶內海, 日本中國地方, 廣島美食
 license: CC BY 4.0
 ---

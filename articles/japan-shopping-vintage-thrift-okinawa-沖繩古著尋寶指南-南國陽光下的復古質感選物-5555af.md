@@ -6,7 +6,7 @@ category: vintage-thrift
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-vintage-thrift-okinawa-沖繩古著尋寶指南-南國陽光下的復古質感選物-5555af.html
 published: 2026-06-01
-quality_score: 7.5
+quality_score: 8.6
 tags: 沖繩古著, 那霸購物, 二手衣物, 日本古著, 復古時尚
 license: CC BY 4.0
 ---

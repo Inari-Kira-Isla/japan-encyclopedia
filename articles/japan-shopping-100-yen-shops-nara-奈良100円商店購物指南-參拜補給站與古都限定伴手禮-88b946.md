@@ -6,7 +6,7 @@ category: 100-yen-shops
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-100-yen-shops-nara-奈良100円商店購物指南-參拜補給站與古都限定伴手禮-88b946.html
 published: 2026-07-04
-quality_score: 7.5
+quality_score: 8.9
 tags: 奈良購物, 日本百均一店, 奈良伴手禮, 奈良自由行, 關西平價購物
 license: CC BY 4.0
 ---

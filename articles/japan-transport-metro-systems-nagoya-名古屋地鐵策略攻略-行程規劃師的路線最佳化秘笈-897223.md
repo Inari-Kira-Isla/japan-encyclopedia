@@ -6,7 +6,7 @@ category: metro-systems
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-nagoya-名古屋地鐵策略攻略-行程規劃師的路線最佳化秘笈-897223.html
 published: 2026-04-06
-quality_score: 7.5
+quality_score: 8.5
 tags: 名古屋交通, 地鐵攻略, 行程規劃, 旅遊效率, 交通優化
 license: CC BY 4.0
 ---

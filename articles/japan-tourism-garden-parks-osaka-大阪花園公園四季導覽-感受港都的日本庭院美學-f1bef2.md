@@ -6,7 +6,7 @@ category: garden-parks
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-osaka-大阪花園公園四季導覽-感受港都的日本庭院美學-f1bef2.html
 published: 2026-06-02
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪花園, 大阪公園, 日本庭園, 春季賞櫻, 秋季賞楓
 license: CC BY 4.0
 ---

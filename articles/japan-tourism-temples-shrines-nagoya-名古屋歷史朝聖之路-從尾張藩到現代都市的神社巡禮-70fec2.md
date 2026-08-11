@@ -6,7 +6,7 @@ category: temples-shrines
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-temples-shrines-nagoya-名古屋歷史朝聖之路-從尾張藩到現代都市的神社巡禮-70fec2.html
 published: 2026-06-07
-quality_score: 6.5
+quality_score: 8.6
 tags: 名古屋神社, 尾張藩, 戰國歷史, 織田信長, 德川家康
 license: CC BY 4.0
 ---

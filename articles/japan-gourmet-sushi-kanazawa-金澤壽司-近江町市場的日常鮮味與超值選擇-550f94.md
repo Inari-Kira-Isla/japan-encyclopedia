@@ -6,7 +6,7 @@ category: sushi
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sushi-kanazawa-金澤壽司-近江町市場的日常鮮味與超值選擇-550f94.html
 published: 2026-06-04
-quality_score: 6.5
+quality_score: 8.6
 tags: 金澤壽司, 近江町市場, 日本海美食, 北陸必吃, 平價壽司
 license: CC BY 4.0
 ---

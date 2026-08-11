@@ -6,7 +6,7 @@ category: shinkansen
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-sendai-仙台への-shiroを戦略的視點から-東北縦斷の旅の計畫の科學-ed1034.html
 published: 2026-05-23
-quality_score: 7.5
+quality_score: 8.3
 tags: 仙台, 新城線, 東北縦断, 旅行戦略, 交通最適化
 license: CC BY 4.0
 ---

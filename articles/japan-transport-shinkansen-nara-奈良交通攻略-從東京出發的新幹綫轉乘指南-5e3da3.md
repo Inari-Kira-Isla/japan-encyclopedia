@@ -6,7 +6,7 @@ category: shinkansen
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-nara-奈良交通攻略-從東京出發的新幹綫轉乘指南-5e3da3.html
 published: 2026-05-31
-quality_score: 7.5
+quality_score: 8.7
 tags: 奈良交通, JR奈良線, 新幹綫轉乘, 關西鐵道, 奈良自由行
 license: CC BY 4.0
 ---

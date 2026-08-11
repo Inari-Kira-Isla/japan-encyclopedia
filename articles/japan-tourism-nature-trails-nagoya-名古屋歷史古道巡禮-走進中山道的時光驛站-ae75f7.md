@@ -6,7 +6,7 @@ category: nature-trails
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-nagoya-名古屋歷史古道巡禮-走進中山道的時光驛站-ae75f7.html
 published: 2026-06-03
-quality_score: 6.5
+quality_score: 8.5
 tags: 名古屋歷史步道, 中山道, 古道巡禮, 尾張歷史, 日本古城
 license: CC BY 4.0
 ---

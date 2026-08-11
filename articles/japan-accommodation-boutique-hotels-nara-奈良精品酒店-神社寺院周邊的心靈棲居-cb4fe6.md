@@ -6,7 +6,7 @@ category: boutique-hotels
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-nara-奈良精品酒店-神社寺院周邊的心靈棲居-cb4fe6.html
 published: 2026-06-30
-quality_score: 6.5
+quality_score: 8.7
 tags: 奈良精品酒店, 古都住宿, 神社周邊住宿, 奈良溫泉, 日本世界遺產
 license: CC BY 4.0
 ---

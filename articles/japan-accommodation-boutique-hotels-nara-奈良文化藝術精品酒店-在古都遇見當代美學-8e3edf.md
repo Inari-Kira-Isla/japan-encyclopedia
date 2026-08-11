@@ -6,7 +6,7 @@ category: boutique-hotels
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-nara-奈良文化藝術精品酒店-在古都遇見當代美學-8e3edf.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 奈良精品酒店, 文化藝術住宿, 古都體驗, 工藝體驗, 藝術收藏
 license: CC BY 4.0
 ---

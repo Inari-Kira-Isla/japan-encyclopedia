@@ -6,7 +6,7 @@ category: day-trips
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-hiroshima-廣島一日遊自然探索-山海之間的戶外秘境-81ee5d.html
 published: 2026-06-10
-quality_score: 6.5
+quality_score: 8.7
 tags: 廣島一日遊, 自然探索, 戶外活動, 登山健行, 瀨戶內海
 license: CC BY 4.0
 ---

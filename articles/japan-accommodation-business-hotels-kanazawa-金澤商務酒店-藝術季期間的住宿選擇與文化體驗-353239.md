@@ -6,7 +6,7 @@ category: business-hotels
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-business-hotels-kanazawa-金澤商務酒店-藝術季期間的住宿選擇與文化體驗-353239.html
 published: 2026-06-27
-quality_score: 6.5
+quality_score: 8.4
 tags: 金澤商務酒店, 石川縣住宿, 北陸商務旅行, 金澤藝術博覽會, 金澤21世紀美術館
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: matcha-sweets
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-matcha-sweets-tokyo-東京抹茶甜點四季風貌-職人手作的綠意時光-7e8dbb.html
 published: 2026-03-29
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京美食, 抹茶甜點, 和菓子, 職人文化, 季節限定
 license: CC BY 4.0
 ---

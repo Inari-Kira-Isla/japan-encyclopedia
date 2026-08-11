@@ -6,7 +6,7 @@ category: ski-resorts
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-ski-resorts-nagoya-名古屋周邊滑雪場新手指南-中部地區家庭友善雪場體驗完全攻略-4d6011.html
 published: 2026-04-07
-quality_score: 6.5
+quality_score: 8.7
 tags: 名古屋滑雪, 中部雪場, 家庭滑雪, 新手滑雪, 日本冬季旅遊
 license: CC BY 4.0
 ---

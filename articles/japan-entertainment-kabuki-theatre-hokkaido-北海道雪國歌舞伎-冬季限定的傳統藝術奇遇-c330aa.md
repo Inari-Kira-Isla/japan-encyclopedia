@@ -6,7 +6,7 @@ category: kabuki-theatre
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-kabuki-theatre-hokkaido-北海道雪國歌舞伎-冬季限定的傳統藝術奇遇-c330aa.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.9
 tags: 北海道娛樂, 冬季限定, 文化體驗, 表演藝術, 雪國特色
 license: CC BY 4.0
 ---

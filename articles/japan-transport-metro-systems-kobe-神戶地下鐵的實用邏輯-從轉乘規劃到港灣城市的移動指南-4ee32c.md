@@ -6,7 +6,7 @@ category: metro-systems
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-kobe-神戶地下鐵的實用邏輯-從轉乘規劃到港灣城市的移動指南-4ee32c.html
 published: 2026-06-09
-quality_score: 7.5
+quality_score: 8.7
 tags: 神戶地下鐵, 神戶交通, 神戶Metro, 西神山手線, 神戶海岸線
 license: CC BY 4.0
 ---

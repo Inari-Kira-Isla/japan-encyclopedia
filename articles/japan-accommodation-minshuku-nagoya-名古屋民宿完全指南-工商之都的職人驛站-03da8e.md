@@ -6,7 +6,7 @@ category: minshuku
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-nagoya-名古屋民宿完全指南-工商之都的職人驛站-03da8e.html
 published: 2026-06-27
-quality_score: 6.5
+quality_score: 8.7
 tags: 名古屋民宿, 名古屋住宿, 中部國際機場, minshuku, 日本民宿
 license: CC BY 4.0
 ---

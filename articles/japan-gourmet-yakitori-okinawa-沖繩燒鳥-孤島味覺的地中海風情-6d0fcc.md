@@ -6,7 +6,7 @@ category: yakitori
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-yakitori-okinawa-沖繩燒鳥-孤島味覺的地中海風情-6d0fcc.html
 published: 2026-06-30
-quality_score: 6.5
+quality_score: 8.7
 tags: 沖繩美食, 燒鳥, 沖繩必吃, AGU黑豬, 二次會文化
 license: CC BY 4.0
 ---

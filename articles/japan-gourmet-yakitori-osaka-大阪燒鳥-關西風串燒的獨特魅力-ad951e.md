@@ -6,7 +6,7 @@ category: yakitori
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-yakitori-osaka-大阪燒鳥-關西風串燒的獨特魅力-ad951e.html
 published: 2026-03-15
-quality_score: 6.5
+quality_score: 8.9
 tags: 大阪燒鳥, 關西美食, 日本串燒, 大阪旅遊, yakitori
 license: CC BY 4.0
 ---

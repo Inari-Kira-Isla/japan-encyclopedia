@@ -6,7 +6,7 @@ category: garden-parks
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-fukuoka-福岡花園公園巡禮-自然攝影與四季物語-10eb10.html
 published: 2026-06-11
-quality_score: 6.5
+quality_score: 8.7
 tags: 福岡, 花園公園, 自然攝影, 生態觀察, 四季物語
 license: CC BY 4.0
 ---

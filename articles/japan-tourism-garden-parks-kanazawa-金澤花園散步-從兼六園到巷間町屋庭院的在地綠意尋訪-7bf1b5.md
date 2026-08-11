@@ -6,7 +6,7 @@ category: garden-parks
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-kanazawa-金澤花園散步-從兼六園到巷間町屋庭院的在地綠意尋訪-7bf1b5.html
 published: 2026-06-18
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤花園, 兼六園, 日本庭院, 加賀百萬石, 金澤旅遊
 license: CC BY 4.0
 ---

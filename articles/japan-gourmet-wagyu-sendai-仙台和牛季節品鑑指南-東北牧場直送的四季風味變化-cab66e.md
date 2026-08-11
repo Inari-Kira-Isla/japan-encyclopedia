@@ -6,7 +6,7 @@ category: wagyu
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-wagyu-sendai-仙台和牛季節品鑑指南-東北牧場直送的四季風味變化-cab66e.html
 published: 2026-03-29
-quality_score: 6.5
+quality_score: 8.8
 tags: 仙台牛, 季節美食, 東北美食, 和牛品鑑
 license: CC BY 4.0
 ---

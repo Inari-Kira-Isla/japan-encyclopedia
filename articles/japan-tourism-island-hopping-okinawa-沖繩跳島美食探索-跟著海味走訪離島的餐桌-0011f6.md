@@ -6,7 +6,7 @@ category: island-hopping
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-island-hopping-okinawa-沖繩跳島美食探索-跟著海味走訪離島的餐桌-0011f6.html
 published: 2026-06-19
-quality_score: 6.5
+quality_score: 8.5
 tags: 沖繩跳島, 美食推薦, 久米島, 渡嘉敷島, 座間味島
 license: CC BY 4.0
 ---

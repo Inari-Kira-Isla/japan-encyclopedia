@@ -6,7 +6,7 @@ category: nature-trails
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-nara-奈良自然步道-與野生動物共舞的古都生態探索-09b23a.html
 published: 2026-04-06
-quality_score: 6.5
+quality_score: 8.8
 tags: 奈良, 自然步道, 野生動物觀察, 生態旅遊, 深度體驗
 license: CC BY 4.0
 ---

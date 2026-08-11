@@ -6,7 +6,7 @@ category: department-stores
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-department-stores-hiroshima-廣島購物完全攻略-和平紀念都市的特色商舖與在地體驗-c644fd.html
 published: 2026-06-24
-quality_score: 7.5
+quality_score: 8.5
 tags: 廣島, 購物指南, PARCO, 紙屋町, 八丁堀
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: street-food
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-street-food-kanazawa-金澤清晨市場的味覺覺醒-兼六園前的早市與日本海岸線的旬之味-405e9c.html
 published: 2026-06-21
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤, 街頭美食, 近江町市場, 清晨美食, 海鮮
 license: CC BY 4.0
 ---

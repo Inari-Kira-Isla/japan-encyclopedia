@@ -6,7 +6,7 @@ category: anime-manga
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-osaka-大阪漫才與漫畫-笑點製造者的創意城市-0503b1.html
 published: 2026-06-19
-quality_score: 6.5
+quality_score: 8.9
 tags: 大阪, 漫才, 喜劇, 日本搞笑, 關西笑星
 license: CC BY 4.0
 ---

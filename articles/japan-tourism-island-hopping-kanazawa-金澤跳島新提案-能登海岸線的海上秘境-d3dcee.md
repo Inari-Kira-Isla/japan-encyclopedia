@@ -6,7 +6,7 @@ category: island-hopping
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-island-hopping-kanazawa-金澤跳島新提案-能登海岸線的海上秘境-d3dcee.html
 published: 2026-05-24
-quality_score: 6.5
+quality_score: 8.5
 tags: 金澤, 能登半島, 島嶼探險, 日本海, 深度旅遊
 license: CC BY 4.0
 ---

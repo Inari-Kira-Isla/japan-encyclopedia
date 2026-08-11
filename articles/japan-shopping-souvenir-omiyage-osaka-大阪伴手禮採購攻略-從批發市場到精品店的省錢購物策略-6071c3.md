@@ -6,7 +6,7 @@ category: souvenir-omiyage
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-souvenir-omiyage-osaka-大阪伴手禮採購攻略-從批發市場到精品店的省錢購物策略-6071c3.html
 published: 2026-04-06
-quality_score: 7.5
+quality_score: 8.7
 tags: 大阪購物, 伴手禮, 省錢攻略, 批發市場, 購物策略
 license: CC BY 4.0
 ---

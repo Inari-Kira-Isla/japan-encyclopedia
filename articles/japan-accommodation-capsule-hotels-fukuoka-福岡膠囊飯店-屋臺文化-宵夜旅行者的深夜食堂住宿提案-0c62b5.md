@@ -6,7 +6,7 @@ category: capsule-hotels
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-capsule-hotels-fukuoka-福岡膠囊飯店-屋臺文化-宵夜旅行者的深夜食堂住宿提案-0c62b5.html
 published: 2026-06-24
-quality_score: 6.5
+quality_score: 8.8
 tags: 福岡膠囊飯店, 屋台文化, 博多住宿, 九州自由行, 宵夜旅行
 license: CC BY 4.0
 ---

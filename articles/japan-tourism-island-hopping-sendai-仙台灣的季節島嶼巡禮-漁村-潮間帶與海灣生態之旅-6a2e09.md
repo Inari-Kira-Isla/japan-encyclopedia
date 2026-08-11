@@ -6,7 +6,7 @@ category: island-hopping
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-island-hopping-sendai-仙台灣的季節島嶼巡禮-漁村-潮間帶與海灣生態之旅-6a2e09.html
 published: 2026-03-23
-quality_score: 6.5
+quality_score: 8.7
 tags: 仙台, 跳島旅遊, 漁村體驗, 潮間帶探險, 生態旅遊
 license: CC BY 4.0
 ---

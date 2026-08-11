@@ -6,7 +6,7 @@ category: cycling
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-kyoto-京都日常單車生活-像本地人一樣騎行古都的完整攻略-721346.html
 published: 2026-06-29
-quality_score: 7.5
+quality_score: 8.6
 tags: 京都單車, 京都騎行, 京都自由行, 京都深度遊, 京都交通
 license: CC BY 4.0
 ---

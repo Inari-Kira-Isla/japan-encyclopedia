@@ -6,7 +6,7 @@ category: buses
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-buses-hokkaido-北海道冬季巴士旅行-雪國交通的生存指南與美食秘境-ecf7c2.html
 published: 2026-06-20
-quality_score: 7.5
+quality_score: 8.5
 tags: 北海道巴士, 冬季旅行, 美食秘境, 交通攻略, 道東
 license: CC BY 4.0
 ---

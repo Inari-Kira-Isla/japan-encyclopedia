@@ -6,7 +6,7 @@ category: rental-cars
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-hokkaido-北海道租車自駕-依旅行風格選擇車型的決策指南-38337f.html
 published: 2026-06-13
-quality_score: 7.5
+quality_score: 8.5
 tags: 北海道租車, 日本自駕, 北海道旅遊, 雪地駕駛, 租車指南
 license: CC BY 4.0
 ---

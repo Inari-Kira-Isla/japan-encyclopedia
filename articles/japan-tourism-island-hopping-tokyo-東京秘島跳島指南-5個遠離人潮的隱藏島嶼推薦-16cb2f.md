@@ -6,7 +6,7 @@ category: island-hopping
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-island-hopping-tokyo-東京秘島跳島指南-5個遠離人潮的隱藏島嶼推薦-16cb2f.html
 published: 2026-06-18
-quality_score: 6.5
+quality_score: 8.4
 tags: 東京跳島, 秘島推薦, 利島, 神津島, 御藏島
 license: CC BY 4.0
 ---

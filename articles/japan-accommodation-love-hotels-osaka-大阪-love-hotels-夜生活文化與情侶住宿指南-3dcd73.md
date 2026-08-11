@@ -6,7 +6,7 @@ category: love-hotels
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-love-hotels-osaka-大阪-love-hotels-夜生活文化與情侶住宿指南-3dcd73.html
 published: 2026-06-14
-quality_score: 6.5
+quality_score: 8.6
 tags: 大阪住宿, Love Hotel, 情侶約會, 關西夜生活, 大阪旅遊
 license: CC BY 4.0
 ---

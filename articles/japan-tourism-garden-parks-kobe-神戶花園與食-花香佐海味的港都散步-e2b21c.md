@@ -6,7 +6,7 @@ category: garden-parks
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-kobe-神戶花園與食-花香佐海味的港都散步-e2b21c.html
 published: 2026-06-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 神戶花園, 六甲山, 港口島花園, 摩耶山, 有馬溫泉
 license: CC BY 4.0
 ---

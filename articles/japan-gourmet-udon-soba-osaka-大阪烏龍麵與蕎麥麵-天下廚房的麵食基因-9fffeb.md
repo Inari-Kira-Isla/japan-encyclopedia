@@ -6,7 +6,7 @@ category: udon-soba
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-udon-soba-osaka-大阪烏龍麵與蕎麥麵-天下廚房的麵食基因-9fffeb.html
 published: 2026-06-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪美食, 烏龍麵, 蕎麥麵, 關西美食, 日本拉麵
 license: CC BY 4.0
 ---

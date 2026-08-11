@@ -6,7 +6,7 @@ category: business-hotels
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-business-hotels-hokkaido-北海道商務酒店女性安全住宿指南-札幌-帶廣-釧路女性出差族首選-3c0ab5.html
 published: 2026-06-03
-quality_score: 6.5
+quality_score: 8.6
 tags: 北海道商務住宿, 女性出差, 札幌酒店, 帶廣, 道東
 license: CC BY 4.0
 ---

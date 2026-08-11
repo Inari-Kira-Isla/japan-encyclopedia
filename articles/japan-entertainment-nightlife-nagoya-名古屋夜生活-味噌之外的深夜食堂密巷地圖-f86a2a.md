@@ -6,7 +6,7 @@ category: nightlife
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-nagoya-名古屋夜生活-味噌之外的深夜食堂密巷地圖-f86a2a.html
 published: 2026-06-04
-quality_score: 6.5
+quality_score: 8.5
 tags: 名古屋夜生活, 名古屋美食, 日本中部夜遊, 名古屋居酒屋, 名古屋游戏中心
 license: CC BY 4.0
 ---

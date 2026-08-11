@@ -6,7 +6,7 @@ category: buses
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-buses-sendai-仙台高速巴士與景點接駁攻略-搭巴士深度探索東北人氣景點-ae2f9b.html
 published: 2026-06-26
-quality_score: 7.5
+quality_score: 8.4
 tags: 仙台交通, 東北巴士, 高速巴士, 仙台旅遊, 景點接駁
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: tempura
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tempura-hiroshima-廣島天婦羅-水產專家的食材筆記與季節指南-f4155f.html
 published: 2026-03-24
-quality_score: 6.5
+quality_score: 8.4
 tags: 廣島美食, 天婦羅, 日本海鮮, 季節食材, 廣島灣
 license: CC BY 4.0
 ---

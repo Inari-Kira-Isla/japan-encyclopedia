@@ -6,7 +6,7 @@ category: ryokan
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-sendai-仙台溫泉小宿與傳統旅舖-感受杜之都復古風情的住宿指南-e9bd96.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 8.7
 tags: 仙台旅舖, 松島住宿, 東北溫泉, 杜之都, 日本傳統旅館
 license: CC BY 4.0
 ---

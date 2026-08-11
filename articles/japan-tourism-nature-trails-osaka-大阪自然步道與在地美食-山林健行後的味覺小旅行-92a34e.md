@@ -6,7 +6,7 @@ category: nature-trails
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-osaka-大阪自然步道與在地美食-山林健行後的味覺小旅行-92a34e.html
 published: 2026-06-05
-quality_score: 6.5
+quality_score: 8.5
 tags: 大阪自然步道, 大阪登山, 大阪美食, 大阪戶外, 大阪旅遊
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: gaming-arcades
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-gaming-arcades-kanazawa-金澤遊戲中心-旅人的休閒驛站-892057.html
 published: 2026-06-28
-quality_score: 6.5
+quality_score: 8.4
 tags: 金澤遊戲中心, 石川縣娛樂, 金澤親子同樂, 日本街機文化, 北陸旅遊
 license: CC BY 4.0
 ---

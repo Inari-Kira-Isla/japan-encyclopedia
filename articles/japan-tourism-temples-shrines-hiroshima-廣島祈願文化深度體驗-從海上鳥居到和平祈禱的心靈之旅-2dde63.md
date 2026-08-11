@@ -6,7 +6,7 @@ category: temples-shrines
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-temples-shrines-hiroshima-廣島祈願文化深度體驗-從海上鳥居到和平祈禱的心靈之旅-2dde63.html
 published: 2026-04-06
-quality_score: 6.5
+quality_score: 8.7
 tags: 廣島神社, 宮島參拜, 和平祈願, 海上鳥居, 禪修體驗
 license: CC BY 4.0
 ---

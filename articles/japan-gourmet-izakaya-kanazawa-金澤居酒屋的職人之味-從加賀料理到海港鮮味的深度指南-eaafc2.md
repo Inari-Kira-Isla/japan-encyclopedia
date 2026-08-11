@@ -6,7 +6,7 @@ category: izakaya
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-izakaya-kanazawa-金澤居酒屋的職人之味-從加賀料理到海港鮮味的深度指南-eaafc2.html
 published: 2026-06-07
-quality_score: 6.5
+quality_score: 8.6
 tags: 金澤居酒屋, 加賀料理, 日本海海鮮, 石川縣清酒, 近江町市場
 license: CC BY 4.0
 ---

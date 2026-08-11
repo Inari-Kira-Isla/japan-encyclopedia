@@ -6,7 +6,7 @@ category: shinkansen
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-sendai-仙台新娘栓縱享便捷交通-快速穿越東北部地區的至上指南-84a01d.html
 published: 2026-05-22
-quality_score: 7.5
+quality_score: 9.0
 tags: 仙台新干线, 东北新干线, 日本交通,  Tohoku旅游
 license: CC BY 4.0
 ---

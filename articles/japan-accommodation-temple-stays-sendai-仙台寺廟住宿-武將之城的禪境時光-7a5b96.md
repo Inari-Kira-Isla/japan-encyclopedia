@@ -6,7 +6,7 @@ category: temple-stays
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-temple-stays-sendai-仙台寺廟住宿-武將之城的禪境時光-7a5b96.html
 published: 2026-04-01
-quality_score: 6.5
+quality_score: 8.8
 tags: 仙台, 寺廟住宿, 禪修體驗, 東北文化, 精進料理
 license: CC BY 4.0
 ---

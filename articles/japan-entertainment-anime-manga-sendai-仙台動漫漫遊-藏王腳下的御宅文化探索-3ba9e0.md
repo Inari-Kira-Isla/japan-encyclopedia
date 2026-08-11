@@ -6,7 +6,7 @@ category: anime-manga
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-sendai-仙台動漫漫遊-藏王腳下的御宅文化探索-3ba9e0.html
 published: 2026-05-31
-quality_score: 6.5
+quality_score: 8.5
 tags: 仙台, 動漫, 御宅族, 東北日本, 體驗推薦
 license: CC BY 4.0
 ---

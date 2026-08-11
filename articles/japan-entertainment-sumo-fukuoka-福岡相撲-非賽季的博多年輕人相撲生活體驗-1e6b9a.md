@@ -6,7 +6,7 @@ category: sumo
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-fukuoka-福岡相撲-非賽季的博多年輕人相撲生活體驗-1e6b9a.html
 published: 2026-07-04
-quality_score: 6.5
+quality_score: 8.6
 tags: 福岡相撲, 九州場所, 博多年輕人文化, 相撲體驗, ちゃんこ鍋
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: business-hotels
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-business-hotels-kyoto-京都商務酒店與藝術博覽會-創意產業旅人的功能性住宿選擇-4d8905.html
 published: 2026-06-18
-quality_score: 6.5
+quality_score: 8.6
 tags: 京都商務酒店, 創意產業住宿, 藝術博覽會, 日本商務住宿, 京都旅遊
 license: CC BY 4.0
 ---

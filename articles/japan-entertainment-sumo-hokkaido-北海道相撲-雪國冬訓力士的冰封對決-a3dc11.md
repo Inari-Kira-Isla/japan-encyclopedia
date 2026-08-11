@@ -6,7 +6,7 @@ category: sumo
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-hokkaido-北海道相撲-雪國冬訓力士的冰封對決-a3dc11.html
 published: 2026-05-25
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道相撲, 雪國相扑, 北海学園大学, 旭川溫泉, 札幌冰雪節
 license: CC BY 4.0
 ---

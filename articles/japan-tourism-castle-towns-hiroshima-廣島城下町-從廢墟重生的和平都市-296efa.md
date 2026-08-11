@@ -6,7 +6,7 @@ category: castle-towns
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-castle-towns-hiroshima-廣島城下町-從廢墟重生的和平都市-296efa.html
 published: 2026-04-04
-quality_score: 6.5
+quality_score: 8.7
 tags: 廣島, 城下町, 戰後重建, 和平都市, 歷史文化
 license: CC BY 4.0
 ---

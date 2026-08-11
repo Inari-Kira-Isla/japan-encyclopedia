@@ -6,7 +6,7 @@ category: depachika
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-depachika-kanazawa-金澤depachika時間美學-跟著四季節奏尋找限定美味-06f2bc.html
 published: 2026-03-29
-quality_score: 6.5
+quality_score: 8.9
 tags: 金澤Depachika, 日本地下美食, 金澤旅遊, 季節限定商品, 伴手禮推薦
 license: CC BY 4.0
 ---

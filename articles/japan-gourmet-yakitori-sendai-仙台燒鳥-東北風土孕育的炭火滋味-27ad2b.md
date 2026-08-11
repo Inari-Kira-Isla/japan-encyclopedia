@@ -6,7 +6,7 @@ category: yakitori
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-yakitori-sendai-仙台燒鳥-東北風土孕育的炭火滋味-27ad2b.html
 published: 2026-06-29
-quality_score: 6.5
+quality_score: 8.7
 tags: 仙台燒鳥, 東北美食, 日本燒鳥, 雞肉串燒, 仙台旅遊
 license: CC BY 4.0
 ---

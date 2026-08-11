@@ -6,7 +6,7 @@ category: 100-yen-shops
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-100-yen-shops-hokkaido-北海道自駕旅行100円商店採購指南-公路沿線平價物資攻略-567d7f.html
 published: 2026-06-29
-quality_score: 7.5
+quality_score: 8.5
 tags: 北海道自駕旅行, 100円商店, 公路旅行, 平價購物, 北海道購物指南
 license: CC BY 4.0
 ---

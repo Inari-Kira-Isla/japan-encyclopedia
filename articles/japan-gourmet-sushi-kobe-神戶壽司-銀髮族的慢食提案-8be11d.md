@@ -6,7 +6,7 @@ category: sushi
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sushi-kobe-神戶壽司-銀髮族的慢食提案-8be11d.html
 published: 2026-05-23
-quality_score: 6.5
+quality_score: 8.7
 tags: 神戶美食, 銀髮族旅遊, 慢食文化, 關西安肥, 壽司攻略
 license: CC BY 4.0
 ---

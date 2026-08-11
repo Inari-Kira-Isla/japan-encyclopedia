@@ -6,7 +6,7 @@ category: kabuki-theatre
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-kabuki-theatre-sendai-sendai-kabuki-theatre-d2cb33-1779301966.html
 published: 2026-05-20
-quality_score: 5.5
+quality_score: 0.0
 tags: kabuki-theatre, sendai, japan
 license: CC BY 4.0
 ---

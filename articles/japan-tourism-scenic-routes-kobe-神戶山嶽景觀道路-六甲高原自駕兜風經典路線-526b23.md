@@ -6,7 +6,7 @@ category: scenic-routes
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-kobe-神戶山嶽景觀道路-六甲高原自駕兜風經典路線-526b23.html
 published: 2026-06-30
-quality_score: 6.5
+quality_score: 8.7
 tags: 神戶自駕路線, 六甲山景觀, 高原牧場, 有馬溫泉, 關西兜風
 license: CC BY 4.0
 ---

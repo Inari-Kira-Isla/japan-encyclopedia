@@ -6,7 +6,7 @@ category: day-trips
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-okinawa-沖繩美食一日遊-從琉球古法到美軍風味的在地風味探索-3cdb8a.html
 published: 2026-06-07
-quality_score: 6.5
+quality_score: 8.6
 tags: 沖繩美食, 琉球料理, 沖繩一日遊,  Okinawa美食, 美式餐飲
 license: CC BY 4.0
 ---

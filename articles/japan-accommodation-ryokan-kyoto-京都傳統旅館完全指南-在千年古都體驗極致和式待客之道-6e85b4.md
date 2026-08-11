@@ -6,7 +6,7 @@ category: ryokan
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-kyoto-京都傳統旅館完全指南-在千年古都體驗極致和式待客之道-6e85b4.html
 published: 2026-03-20
-quality_score: 6.5
+quality_score: 8.8
 tags: 京都, 傳統旅馆, Ryokan, 溫泉, 京都住宿
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: minshuku
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-sendai-仙台民宿美食指南-從牛舌到毛豆麻糬-與在地家庭的味蕾散步-7d8a0b.html
 published: 2026-06-22
-quality_score: 6.5
+quality_score: 8.8
 tags: 仙台民宿, 東北美食, 牛舌料理, 毛豆麻糬, 七夕祭典
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: boutique-hotels
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-fukuoka-福岡精品酒店-藝術與清酒文化交織的九州住宿新體驗-4df3b8.html
 published: 2026-04-06
-quality_score: 6.5
+quality_score: 8.7
 tags: 福岡住宿, 精品酒店, 清酒文化, 藝術旅行, 九州旅遊
 license: CC BY 4.0
 ---

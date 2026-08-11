@@ -6,7 +6,7 @@ category: currency-tourism
 area: japan
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-currency-tourism-日圓創53年新低-訪日旅遊爆炸成長3687萬人與過度旅遊問題-jp-yen-depreciatio-1f34d4.html
 published: 2026-03-28
-quality_score: 7.1
+quality_score: 8.4
 tags: 日圓貶值, 訪日旅遊, 過度旅遊, 3687萬, 日本觀光2026
 license: CC BY 4.0
 ---

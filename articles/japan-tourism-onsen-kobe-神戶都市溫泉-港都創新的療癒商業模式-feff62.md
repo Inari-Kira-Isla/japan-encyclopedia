@@ -6,7 +6,7 @@ category: onsen
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-onsen-kobe-神戶都市溫泉-港都創新的療癒商業模式-feff62.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 神戶溫泉, 都市型溫泉, 關西旅遊, 港口城市, 現代溫泉設施
 license: CC BY 4.0
 ---

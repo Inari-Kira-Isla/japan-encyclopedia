@@ -6,7 +6,7 @@ category: buses
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-buses-fukuoka-福岡巴士實用攻略-從機場到縣內城鎮的交通工具選擇-b0ce4c.html
 published: 2026-05-24
-quality_score: 7.5
+quality_score: 8.8
 tags: 福岡交通, 巴士攻略, 機場巴士, 九州巴士, 太宰府交通
 license: CC BY 4.0
 ---

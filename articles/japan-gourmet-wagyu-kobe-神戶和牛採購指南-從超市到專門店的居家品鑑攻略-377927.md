@@ -6,7 +6,7 @@ category: wagyu
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-wagyu-kobe-神戶和牛採購指南-從超市到專門店的居家品鑑攻略-377927.html
 published: 2026-06-08
-quality_score: 6.5
+quality_score: 8.5
 tags: 神戶和牛, 神戶美食, 日本和牛, 神戸牛, 超市購物
 license: CC BY 4.0
 ---

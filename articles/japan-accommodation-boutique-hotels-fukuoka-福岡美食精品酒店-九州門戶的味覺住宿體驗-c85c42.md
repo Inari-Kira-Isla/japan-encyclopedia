@@ -6,7 +6,7 @@ category: boutique-hotels
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-fukuoka-福岡美食精品酒店-九州門戶的味覺住宿體驗-c85c42.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 福岡住宿, 精品酒店, 美食體驗, 九州旅遊, 清酒文化
 license: CC BY 4.0
 ---

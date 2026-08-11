@@ -6,7 +6,7 @@ category: sumo
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-hiroshima-廣島相撲-瀨戶內風格的力量美學-f70530.html
 published: 2026-06-27
-quality_score: 6.5
+quality_score: 8.7
 tags: 廣島相撲, 瀨戶內文化, 武道體驗, 日本深度旅遊, 力量美學
 license: CC BY 4.0
 ---

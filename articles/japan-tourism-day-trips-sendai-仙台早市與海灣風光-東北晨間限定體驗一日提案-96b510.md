@@ -6,7 +6,7 @@ category: day-trips
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-sendai-仙台早市與海灣風光-東北晨間限定體驗一日提案-96b510.html
 published: 2026-07-02
-quality_score: 6.5
+quality_score: 8.8
 tags: 仙台, 東北日本, 松島, 溫泉, 自駕
 license: CC BY 4.0
 ---

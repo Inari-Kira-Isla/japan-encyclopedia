@@ -6,7 +6,7 @@ category: nightlife
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-kyoto-京都夜生活-遠離觀光區的當地人深夜食堂-9ceb4e.html
 published: 2026-06-15
-quality_score: 6.5
+quality_score: 8.5
 tags: 京都夜生活, 深夜食堂, 在地文化, 人情味小店, 二度開店
 license: CC BY 4.0
 ---

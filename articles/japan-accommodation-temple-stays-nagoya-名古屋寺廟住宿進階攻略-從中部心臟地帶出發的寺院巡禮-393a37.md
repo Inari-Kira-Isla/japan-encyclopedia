@@ -6,7 +6,7 @@ category: temple-stays
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-temple-stays-nagoya-名古屋寺廟住宿進階攻略-從中部心臟地帶出發的寺院巡禮-393a37.html
 published: 2026-05-25
-quality_score: 6.5
+quality_score: 8.5
 tags: nagoya寺廟住宿, 名古屋temple stay, 中部寺院巡禮, 比叡山延曆寺, 高野山宿坊
 license: CC BY 4.0
 ---

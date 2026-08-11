@@ -6,7 +6,7 @@ category: historical-districts
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-tokyo-東京歷史街區-老東京的味覺與工藝之路-5eeaea.html
 published: 2026-06-02
-quality_score: 6.5
+quality_score: 8.9
 tags: 東京歷史街區, 下町風情, 職人精神, 和果子, 老東京
 license: CC BY 4.0
 ---

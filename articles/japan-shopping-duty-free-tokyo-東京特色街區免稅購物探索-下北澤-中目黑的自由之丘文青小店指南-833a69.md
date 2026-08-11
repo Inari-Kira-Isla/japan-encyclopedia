@@ -6,7 +6,7 @@ category: duty-free
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-duty-free-tokyo-東京特色街區免稅購物探索-下北澤-中目黑的自由之丘文青小店指南-833a69.html
 published: 2026-06-18
-quality_score: 7.5
+quality_score: 8.7
 tags: 東京免稅, 下北澤購物, 中目黑選品店, 自由之丘甜點, 吉祥寺美食
 license: CC BY 4.0
 ---

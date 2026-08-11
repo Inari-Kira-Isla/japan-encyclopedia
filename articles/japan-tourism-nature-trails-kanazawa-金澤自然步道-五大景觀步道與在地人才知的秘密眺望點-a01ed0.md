@@ -6,7 +6,7 @@ category: nature-trails
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-kanazawa-金澤自然步道-五大景觀步道與在地人才知的秘密眺望點-a01ed0.html
 published: 2026-06-05
-quality_score: 6.5
+quality_score: 8.6
 tags: 金澤自然步道, 石川縣登山, 日本海沿岸步道, 加賀百萬石, 金澤秘境景點
 license: CC BY 4.0
 ---

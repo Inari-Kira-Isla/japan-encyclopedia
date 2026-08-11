@@ -6,7 +6,7 @@ category: vr-experiences
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-vr-experiences-kanazawa-金澤vr體驗-北陸古都的虛擬實境娛樂新境界-5263c1.html
 published: 2026-03-20
-quality_score: 6.5
+quality_score: 8.8
 tags: 金澤, VR體驗, 虛擬實境, 北陸旅遊, 科技娛樂
 license: CC BY 4.0
 ---

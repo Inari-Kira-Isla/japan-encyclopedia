@@ -6,7 +6,7 @@ category: vr-experiences
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-vr-experiences-tokyo-東京vr體驗完全指南-室內雨天備案首選-虛擬實境玩轉東京-13e46b.html
 published: 2026-06-30
-quality_score: 6.5
+quality_score: 9.0
 tags: 東京VR體驗, 東京室內活動, 東京雨天備案, 東京虛擬實境, 東京娛樂設施
 license: CC BY 4.0
 ---

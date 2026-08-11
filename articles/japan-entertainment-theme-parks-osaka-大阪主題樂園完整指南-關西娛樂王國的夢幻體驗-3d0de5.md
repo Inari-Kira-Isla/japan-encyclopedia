@@ -6,7 +6,7 @@ category: theme-parks
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-theme-parks-osaka-大阪主題樂園完整指南-關西娛樂王國的夢幻體驗-3d0de5.html
 published: 2026-06-11
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪主題樂園, 關西主題樂園, 大阪環球影城, USJ, 大阪親子樂園
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: business-hotels
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-business-hotels-sendai-仙台商務酒店完全指南-東北商業文化與現代住宿的完美融合-be4505.html
 published: 2026-04-01
-quality_score: 6.5
+quality_score: 8.6
 tags: 仙台, 商務酒店, 東北商業文化, 中國商務客, 新幹線住宿
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: capsule-hotels
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-capsule-hotels-nara-奈良膠囊旅館選擇指南-從揹包客到商務旅客的住宿分級體驗-be9326.html
 published: 2026-03-23
-quality_score: 6.5
+quality_score: 8.7
 tags: 奈良, 膠囊旅館, 預算住宿, 自由行, 日本旅遊
 license: CC BY 4.0
 ---

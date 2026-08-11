@@ -6,7 +6,7 @@ category: temples-shrines
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-temples-shrines-kanazawa-金澤寺廟神社的在地生活-走進加賀百姓的祈福日常-4e0b64.html
 published: 2026-05-24
-quality_score: 6.5
+quality_score: 8.9
 tags: 金澤寺廟, 金澤神社, 加賀文化, 在地體驗, 宗教風景
 license: CC BY 4.0
 ---

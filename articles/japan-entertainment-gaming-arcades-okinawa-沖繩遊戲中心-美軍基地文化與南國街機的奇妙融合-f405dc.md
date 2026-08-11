@@ -6,7 +6,7 @@ category: gaming-arcades
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-gaming-arcades-okinawa-沖繩遊戲中心-美軍基地文化與南國街機的奇妙融合-f405dc.html
 published: 2026-03-29
-quality_score: 6.5
+quality_score: 8.8
 tags: 沖繩娛樂, 遊戲中心, 美軍基地文化, 南國夜生活, 街機文化
 license: CC BY 4.0
 ---

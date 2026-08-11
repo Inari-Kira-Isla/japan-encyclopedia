@@ -6,7 +6,7 @@ category: rental-cars
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-kobe-神戶租車深度遊-港都山海探索的完美起點-f84f28.html
 published: 2026-04-02
-quality_score: 7.5
+quality_score: 8.7
 tags: 神戶租車, 關西自駕, 港都旅遊, 山海路線, 深度探索
 license: CC BY 4.0
 ---

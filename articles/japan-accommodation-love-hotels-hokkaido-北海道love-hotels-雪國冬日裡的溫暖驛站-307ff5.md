@@ -6,7 +6,7 @@ category: love-hotels
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-love-hotels-hokkaido-北海道love-hotels-雪國冬日裡的溫暖驛站-307ff5.html
 published: 2026-07-05
-quality_score: 6.5
+quality_score: 7.9
 tags: 
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: nature-trails
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-okinawa-沖繩山地森林步道完全攻略-深入北部的熱帶雨林秘徑-2d7480.html
 published: 2026-07-01
-quality_score: 6.5
+quality_score: 8.8
 tags: 沖繩步道, 山原森林, 自然探索, 熱帶雨林, 北部 Okinawa
 license: CC BY 4.0
 ---

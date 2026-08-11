@@ -6,7 +6,7 @@ category: day-trips
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-nagoya-名古屋一日遊-味覺與季節的在地漫遊指南-747058.html
 published: 2026-06-22
-quality_score: 6.5
+quality_score: 8.7
 tags: 名古屋一日遊, 中部地方, 飛驒高山, 伊勢志摩, 犬山城
 license: CC BY 4.0
 ---

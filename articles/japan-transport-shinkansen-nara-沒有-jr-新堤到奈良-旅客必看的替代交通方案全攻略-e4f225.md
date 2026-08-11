@@ -6,7 +6,7 @@ category: shinkansen
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-nara-沒有-jr-新堤到奈良-旅客必看的替代交通方案全攻略-e4f225.html
 published: 2026-06-05
-quality_score: 7.5
+quality_score: 8.5
 tags: 奈良交通, 關西鐵道, 近鐵奈良線, JR奈良線, 古都奈良
 license: CC BY 4.0
 ---

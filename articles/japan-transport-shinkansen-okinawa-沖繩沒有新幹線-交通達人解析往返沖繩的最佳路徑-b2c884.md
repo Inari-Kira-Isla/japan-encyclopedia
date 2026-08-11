@@ -6,7 +6,7 @@ category: shinkansen
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-okinawa-沖繩沒有新幹線-交通達人解析往返沖繩的最佳路徑-b2c884.html
 published: 2026-06-09
-quality_score: 7.5
+quality_score: 8.5
 tags: 沖繩交通, 日本新干线, 沖繩自由行, Yui Rail, 日本鐵路
 license: CC BY 4.0
 ---

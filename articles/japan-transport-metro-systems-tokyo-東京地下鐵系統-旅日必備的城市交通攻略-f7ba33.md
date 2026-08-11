@@ -6,7 +6,7 @@ category: metro-systems
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-tokyo-東京地下鐵系統-旅日必備的城市交通攻略-f7ba33.html
 published: 2026-05-31
-quality_score: 7.5
+quality_score: 8.8
 tags: 東京地下鐵, Tokyo Metro, 日本交通, 東京自由行, 都營地下鐵
 license: CC BY 4.0
 ---

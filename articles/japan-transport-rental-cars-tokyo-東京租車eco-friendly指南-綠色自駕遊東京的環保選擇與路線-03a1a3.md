@@ -6,7 +6,7 @@ category: rental-cars
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-tokyo-東京租車eco-friendly指南-綠色自駕遊東京的環保選擇與路線-03a1a3.html
 published: 2026-06-20
-quality_score: 7.5
+quality_score: 8.6
 tags: 東京租車, Eco-Friendly, Hybrid, EV租車, 綠色旅遊
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: festivals-matsuri
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-festivals-matsuri-sendai-仙台清晨祭典散步-跟著當地人趕早市-喝味噌朝湯的半日遊提案-1c7dfa.html
 published: 2026-07-04
-quality_score: 6.5
+quality_score: 8.8
 tags: 仙台祭典, 清晨散步, 日本東北, 朝市體驗, 在地美食
 license: CC BY 4.0
 ---

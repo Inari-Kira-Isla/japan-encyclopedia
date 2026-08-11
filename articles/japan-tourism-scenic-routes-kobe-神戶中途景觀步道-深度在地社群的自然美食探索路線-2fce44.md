@@ -6,7 +6,7 @@ category: scenic-routes
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-kobe-神戶中途景觀步道-深度在地社群的自然美食探索路線-2fce44.html
 published: 2026-05-23
-quality_score: 6.5
+quality_score: 8.9
 tags: 神戶步道, 神戶深度遊, 在地體驗, 登山健行, 神戶美食
 license: CC BY 4.0
 ---

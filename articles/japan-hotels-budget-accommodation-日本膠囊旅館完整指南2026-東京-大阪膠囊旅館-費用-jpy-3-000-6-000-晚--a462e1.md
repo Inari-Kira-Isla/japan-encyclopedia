@@ -6,7 +6,7 @@ category: budget-accommodation
 area: japan
 url: https://japan-encyclopedia.vercel.app/articles/japan-hotels-budget-accommodation-日本膠囊旅館完整指南2026-東京-大阪膠囊旅館-費用-jpy-3-000-6-000-晚--a462e1.html
 published: 2026-03-28
-quality_score: 7.6
+quality_score: 8.2
 tags: 日本膠囊旅館, 東京膠囊旅館, 大阪膠囊旅館, 日本廉價住宿, Nine Hours
 license: CC BY 4.0
 ---

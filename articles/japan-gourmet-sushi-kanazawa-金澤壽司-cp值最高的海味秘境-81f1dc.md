@@ -6,7 +6,7 @@ category: sushi
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sushi-kanazawa-金澤壽司-cp值最高的海味秘境-81f1dc.html
 published: 2026-06-11
-quality_score: 6.5
+quality_score: 8.4
 tags: 金澤壽司, 日本海魚, 北陸美食, 高CP值壽司, 金澤近江町市場
 license: CC BY 4.0
 ---

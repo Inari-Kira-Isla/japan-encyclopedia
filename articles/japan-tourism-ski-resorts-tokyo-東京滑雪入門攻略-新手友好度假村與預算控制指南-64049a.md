@@ -6,7 +6,7 @@ category: ski-resorts
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-ski-resorts-tokyo-東京滑雪入門攻略-新手友好度假村與預算控制指南-64049a.html
 published: 2026-04-06
-quality_score: 6.5
+quality_score: 8.8
 tags: 東京滑雪, 初學者滑雪, 滑雪預算, 關東滑雪場, 滑雪入門
 license: CC BY 4.0
 ---

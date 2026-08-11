@@ -6,7 +6,7 @@ category: temple-stays
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-temple-stays-kobe-神戶寺廟住宿-港都的禪意棲居-dc13a0.html
 published: 2026-03-31
-quality_score: 6.5
+quality_score: 8.7
 tags: 神戶寺廟住宿, 神戶住宿, 日本禪修體驗, 摩耶山, 六甲山
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: nature-trails
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-kyoto-京都自然步道四季漫遊-從城市綠道到山嶽秘徑的生態之旅-0309b5.html
 published: 2026-03-24
-quality_score: 6.5
+quality_score: 8.9
 tags: 京都自然步道, 季節生態, 無障礙旅遊, 冷門秘徑, 溪谷健行
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: onsen
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-onsen-okinawa-沖繩溫泉指南-亞熱帶島嶼的溫泉體驗-1baf4a.html
 published: 2026-03-14
-quality_score: 6.5
+quality_score: 8.7
 tags: 沖繩溫泉, 亞熱帶溫泉, Okinawa Onsen, 日本溫泉, 沖繩旅遊
 license: CC BY 4.0
 ---

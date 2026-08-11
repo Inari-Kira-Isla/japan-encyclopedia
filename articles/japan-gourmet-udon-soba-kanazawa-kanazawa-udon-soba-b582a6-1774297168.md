@@ -6,7 +6,7 @@ category: udon-soba
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-udon-soba-kanazawa-kanazawa-udon-soba-b582a6-1774297168.html
 published: 2026-03-23
-quality_score: 5.5
+quality_score: 0.0
 tags: udon-soba, kanazawa, japan
 license: CC BY 4.0
 ---

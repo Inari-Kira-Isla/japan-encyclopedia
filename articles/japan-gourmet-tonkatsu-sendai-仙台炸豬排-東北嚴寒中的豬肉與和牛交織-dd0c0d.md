@@ -6,7 +6,7 @@ category: tonkatsu
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tonkatsu-sendai-仙台炸豬排-東北嚴寒中的豬肉與和牛交織-dd0c0d.html
 published: 2026-06-12
-quality_score: 6.5
+quality_score: 8.7
 tags: 仙台, とんかつ, 炸豬排, 仙台牛, 東北美食
 license: CC BY 4.0
 ---

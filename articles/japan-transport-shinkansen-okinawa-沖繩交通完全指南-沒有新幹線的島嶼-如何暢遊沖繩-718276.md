@@ -6,7 +6,7 @@ category: shinkansen
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-okinawa-沖繩交通完全指南-沒有新幹線的島嶼-如何暢遊沖繩-718276.html
 published: 2026-06-27
-quality_score: 7.5
+quality_score: 8.7
 tags: 沖繩交通, 沖繩自助旅行, 那霸機場, 沖繩租車, 日本渡輪
 license: CC BY 4.0
 ---

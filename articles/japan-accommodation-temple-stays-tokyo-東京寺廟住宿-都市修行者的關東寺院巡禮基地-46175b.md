@@ -6,7 +6,7 @@ category: temple-stays
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-temple-stays-tokyo-東京寺廟住宿-都市修行者的關東寺院巡禮基地-46175b.html
 published: 2026-07-01
-quality_score: 6.5
+quality_score: 8.8
 tags: 東京寺廟住宿, 宿坊體驗, 關東寺院, 東京住宿, 修行之旅
 license: CC BY 4.0
 ---

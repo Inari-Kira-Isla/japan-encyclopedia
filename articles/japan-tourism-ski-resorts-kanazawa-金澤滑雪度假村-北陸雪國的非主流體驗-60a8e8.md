@@ -6,7 +6,7 @@ category: ski-resorts
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-ski-resorts-kanazawa-金澤滑雪度假村-北陸雪國的非主流體驗-60a8e8.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 8.6
 tags: 金澤滑雪, 石川縣滑雪, 白山滑雪場, 北陸滑雪, 日本冬季運動
 license: CC BY 4.0
 ---

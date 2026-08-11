@@ -6,7 +6,7 @@ category: karaoke
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-karaoke-kanazawa-金澤卡拉ok-古都夜色中的音樂時光-bce6f1.html
 published: 2026-06-24
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤卡拉OK, 金澤夜生活, 金澤娛樂, 北陸卡拉OK, 金澤旅遊
 license: CC BY 4.0
 ---

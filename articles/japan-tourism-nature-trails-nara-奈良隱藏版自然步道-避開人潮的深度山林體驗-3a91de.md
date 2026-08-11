@@ -6,7 +6,7 @@ category: nature-trails
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-nara-奈良隱藏版自然步道-避開人潮的深度山林體驗-3a91de.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 奈良, 自然步道, 徒步旅行, 避開人潮, 深度體驗
 license: CC BY 4.0
 ---

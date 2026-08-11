@@ -6,7 +6,7 @@ category: buses
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-buses-okinawa-沖繩跨海巴士完全攻略-往返本部町-西表島的海上巴士交通指南-7b4d67.html
 published: 2026-05-24
-quality_score: 7.5
+quality_score: 8.7
 tags: 沖繩交通, 巴士攻略,  Okinawa Bus, 自主旅行, 日本巴士系統
 license: CC BY 4.0
 ---

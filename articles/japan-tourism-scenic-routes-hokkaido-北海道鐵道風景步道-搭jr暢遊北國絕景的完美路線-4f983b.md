@@ -6,7 +6,7 @@ category: scenic-routes
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-hokkaido-北海道鐵道風景步道-搭jr暢遊北國絕景的完美路線-4f983b.html
 published: 2026-04-06
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道, 鐵道旅行, 自然步道, JR北海道, 攝影景點
 license: CC BY 4.0
 ---

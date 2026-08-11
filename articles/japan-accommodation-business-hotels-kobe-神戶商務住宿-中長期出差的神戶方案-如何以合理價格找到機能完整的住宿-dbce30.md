@@ -6,7 +6,7 @@ category: business-hotels
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-business-hotels-kobe-神戶商務住宿-中長期出差的神戶方案-如何以合理價格找到機能完整的住宿-dbce30.html
 published: 2026-06-21
-quality_score: 6.5
+quality_score: 8.5
 tags: 神戶商務住宿, 關西出差, 中長期住宿, 神戶三宮, 港灣人工島
 license: CC BY 4.0
 ---

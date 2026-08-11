@@ -6,7 +6,7 @@ category: vr-experiences
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-vr-experiences-tokyo-東京vr新手入門-從遊戲中心到虛擬實境的體驗探索-568b9a.html
 published: 2026-06-19
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京VR, 虛擬實境, 東京娛樂, 秋葉原VR, 新宿VR
 license: CC BY 4.0
 ---

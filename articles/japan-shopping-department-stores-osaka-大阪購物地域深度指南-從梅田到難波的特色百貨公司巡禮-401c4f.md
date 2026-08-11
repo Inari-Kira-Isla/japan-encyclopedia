@@ -6,7 +6,7 @@ category: department-stores
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-department-stores-osaka-大阪購物地域深度指南-從梅田到難波的特色百貨公司巡禮-401c4f.html
 published: 2026-06-19
-quality_score: 7.5
+quality_score: 8.7
 tags: 大阪購物, 大阪百貨公司, 關西購物, 梅田購物, 心齋橋
 license: CC BY 4.0
 ---

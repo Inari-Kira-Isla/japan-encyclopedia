@@ -6,7 +6,7 @@ category: winter-festivals
 area: japan
 url: https://japan-encyclopedia.vercel.app/articles/japan-events-winter-festivals-札幌雪祭完整指南2026-大通公園雪雕-すすきの冰雪節-費用攻略與參觀重點-jp-sapporo-w-f7883d.html
 published: 2026-04-13
-quality_score: 7.1
+quality_score: 8.7
 tags: 札幌雪祭, 北海道冬季旅遊, すすきの冰雕, 日本冬季活動, 大通公園雪雕
 license: CC BY 4.0
 ---

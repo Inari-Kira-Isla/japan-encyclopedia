@@ -6,7 +6,7 @@ category: jr-pass
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-jr-pass-sendai-仙台jr-pass自然景觀指南-山海絕景的鐵道漫遊攻略-9194de.html
 published: 2026-06-11
-quality_score: 7.5
+quality_score: 8.9
 tags: JR Pass, 仙台, 東北, 自然景觀, 奧入瀨溪流
 license: CC BY 4.0
 ---

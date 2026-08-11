@@ -6,7 +6,7 @@ category: cycling
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-nara-奈良單車實戰指南-如何安全穿越鹿群與古寺巷弄-110fd3.html
 published: 2026-06-21
-quality_score: 7.5
+quality_score: 8.8
 tags: 奈良單車, 奈良自由行, 奈良交通, 奈良景點, 日本單車旅行
 license: CC BY 4.0
 ---

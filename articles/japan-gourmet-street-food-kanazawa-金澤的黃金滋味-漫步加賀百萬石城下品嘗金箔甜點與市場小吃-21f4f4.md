@@ -6,7 +6,7 @@ category: street-food
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-street-food-kanazawa-金澤的黃金滋味-漫步加賀百萬石城下品嘗金箔甜點與市場小吃-21f4f4.html
 published: 2026-06-17
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤, 街頭美食, 金箔甜點, 加賀料理, 近江町市場
 license: CC BY 4.0
 ---

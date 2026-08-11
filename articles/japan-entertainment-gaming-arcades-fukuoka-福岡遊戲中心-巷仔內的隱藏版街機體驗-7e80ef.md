@@ -6,7 +6,7 @@ category: gaming-arcades
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-gaming-arcades-fukuoka-福岡遊戲中心-巷仔內的隱藏版街機體驗-7e80ef.html
 published: 2026-06-30
-quality_score: 6.5
+quality_score: 8.6
 tags: 福岡遊戲中心, 博多街機, 天神遊樂場, 日本遊戲廳, 九州娛樂
 license: CC BY 4.0
 ---

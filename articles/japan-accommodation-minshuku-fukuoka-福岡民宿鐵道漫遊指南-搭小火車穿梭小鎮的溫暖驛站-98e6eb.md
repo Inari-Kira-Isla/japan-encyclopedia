@@ -6,7 +6,7 @@ category: minshuku
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-fukuoka-福岡民宿鐵道漫遊指南-搭小火車穿梭小鎮的溫暖驛站-98e6eb.html
 published: 2026-06-07
-quality_score: 6.5
+quality_score: 8.6
 tags: 福岡民宿, 鐵道旅行, 九州漫遊, 小鎮住宿, 慢活體驗
 license: CC BY 4.0
 ---

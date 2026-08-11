@@ -6,7 +6,7 @@ category: boutique-hotels
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-nara-奈良大和高原深處-茶香與山嶽間的隱密旅居-cf06d5.html
 published: 2026-06-13
-quality_score: 6.5
+quality_score: 8.7
 tags: 奈良溫泉住宿, 大和高原, 吉野山, 日本茶體驗, 關西山旅
 license: CC BY 4.0
 ---

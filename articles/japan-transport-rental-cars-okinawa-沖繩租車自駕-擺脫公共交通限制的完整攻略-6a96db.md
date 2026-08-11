@@ -6,7 +6,7 @@ category: rental-cars
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-okinawa-沖繩租車自駕-擺脫公共交通限制的完整攻略-6a96db.html
 published: 2026-05-31
-quality_score: 7.5
+quality_score: 8.5
 tags: 沖繩租車, 沖繩自駕, 沖繩交通, 那霸租車, 沖繩自由行
 license: CC BY 4.0
 ---

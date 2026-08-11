@@ -6,7 +6,7 @@ category: ryokan
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-kyoto-京都隱宿-遠離人潮的在地體驗型旅館精選-cea014.html
 published: 2026-06-11
-quality_score: 6.5
+quality_score: 8.5
 tags: 京都Ryokan, 隱藏版住宿, 町家住宿, 文化體驗, 京都深度旅行
 license: CC BY 4.0
 ---

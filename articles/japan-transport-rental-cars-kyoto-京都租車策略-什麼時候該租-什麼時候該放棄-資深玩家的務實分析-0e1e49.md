@@ -6,7 +6,7 @@ category: rental-cars
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-kyoto-京都租車策略-什麼時候該租-什麼時候該放棄-資深玩家的務實分析-0e1e49.html
 published: 2026-06-05
-quality_score: 7.5
+quality_score: 8.7
 tags: 京都租車, 京都自駕, 京都周邊, 天橋立, 伊根舟屋
 license: CC BY 4.0
 ---

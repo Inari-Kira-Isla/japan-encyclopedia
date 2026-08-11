@@ -6,7 +6,7 @@ category: karaoke
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-karaoke-tokyo-東京卡拉ok-巷弄之間的音樂秘密基地-94515f.html
 published: 2026-06-28
-quality_score: 6.5
+quality_score: 8.6
 tags: 東京卡拉OK, 東京娛樂, 東京夜生活, 日本卡拉OK, 澀谷卡拉OK
 license: CC BY 4.0
 ---

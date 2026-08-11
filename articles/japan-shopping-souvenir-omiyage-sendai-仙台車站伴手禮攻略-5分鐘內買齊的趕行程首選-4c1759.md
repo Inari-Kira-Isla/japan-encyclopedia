@@ -6,7 +6,7 @@ category: souvenir-omiyage
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-souvenir-omiyage-sendai-仙台車站伴手禮攻略-5分鐘內買齊的趕行程首選-4c1759.html
 published: 2026-06-30
-quality_score: 7.5
+quality_score: 8.8
 tags: 仙台, 伴手禮, 日本東北, 毛豆, 仙台站
 license: CC BY 4.0
 ---

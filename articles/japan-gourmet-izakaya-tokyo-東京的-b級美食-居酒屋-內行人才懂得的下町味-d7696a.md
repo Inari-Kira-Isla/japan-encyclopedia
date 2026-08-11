@@ -6,7 +6,7 @@ category: izakaya
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-izakaya-tokyo-東京的-b級美食-居酒屋-內行人才懂得的下町味-d7696a.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 8.5
 tags: 東京, 居酒屋, B級美食, 下町, 深夜食堂
 license: CC BY 4.0
 ---

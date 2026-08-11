@@ -6,7 +6,7 @@ category: street-food
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-street-food-tokyo-東京通勤站的黃昏美味-環狀線周邊的隱藏版街食-bfdfd1.html
 published: 2026-06-04
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京, 街頭美食, 通勤站, 環狀線, 上班族
 license: CC BY 4.0
 ---

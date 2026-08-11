@@ -6,7 +6,7 @@ category: minshuku
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-kanazawa-金澤民宿完整指南-茶道文化與傳統住宿的深度體驗-16d28c.html
 published: 2026-06-13
-quality_score: 6.5
+quality_score: 8.5
 tags: 金澤民宿, minshuku, 茶道體驗, 加賀料理, 傳統町家
 license: CC BY 4.0
 ---

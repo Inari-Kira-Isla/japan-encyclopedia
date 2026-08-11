@@ -6,7 +6,7 @@ category: udon-soba
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-udon-soba-fukuoka-福岡烏龍麵的在地風景-遠離拉麵的人氣麵食-e4939e.html
 published: 2026-06-16
-quality_score: 5.5
+quality_score: 7.6
 tags: 福岡, 烏龍麵, 九州美食, 在地美食, 麵食文化
 license: CC BY 4.0
 ---

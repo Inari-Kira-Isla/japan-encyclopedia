@@ -6,7 +6,7 @@ category: day-trips
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-osaka-大阪鐵道深度旅-乘私鐵穿梭關西的山海秘境-2df4f4.html
 published: 2026-06-19
-quality_score: 6.5
+quality_score: 8.5
 tags: 大阪一日遊, 關西私鐵, 箕面公園, 高野山, 神戶異人館
 license: CC BY 4.0
 ---

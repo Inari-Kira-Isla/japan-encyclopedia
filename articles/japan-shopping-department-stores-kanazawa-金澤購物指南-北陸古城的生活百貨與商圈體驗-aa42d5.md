@@ -6,7 +6,7 @@ category: department-stores
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-department-stores-kanazawa-金澤購物指南-北陸古城的生活百貨與商圈體驗-aa42d5.html
 published: 2026-05-22
-quality_score: 7.5
+quality_score: 8.6
 tags: 金澤購物, 石川縣之旅, 片町商圈, 香林坊, 日本免稅攻略
 license: CC BY 4.0
 ---

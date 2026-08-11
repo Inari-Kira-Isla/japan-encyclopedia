@@ -6,7 +6,7 @@ category: castle-towns
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-castle-towns-kobe-神戶港都的夜色與老町-城崎遺產的晚餐時光-c3c886.html
 published: 2026-03-28
-quality_score: 6.5
+quality_score: 8.7
 tags: 神戶, 港都, 城下町, 夜景, 美食
 license: CC BY 4.0
 ---

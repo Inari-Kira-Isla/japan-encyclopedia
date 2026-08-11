@@ -6,7 +6,7 @@ category: kabuki-theatre
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-kabuki-theatre-kanazawa-金澤的劇場與表演藝術體驗-e20d69.html
 published: 2026-05-31
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤, 表演藝術, 能劇, 日本劇場, 加賀百萬石
 license: CC BY 4.0
 ---

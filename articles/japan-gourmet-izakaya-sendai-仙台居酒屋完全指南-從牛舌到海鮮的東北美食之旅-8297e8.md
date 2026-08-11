@@ -6,7 +6,7 @@ category: izakaya
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-izakaya-sendai-仙台居酒屋完全指南-從牛舌到海鮮的東北美食之旅-8297e8.html
 published: 2026-03-21
-quality_score: 6.5
+quality_score: 8.4
 tags: 仙台, 居酒屋, 牛舌, 毛豆, 宮城海鮮
 license: CC BY 4.0
 ---

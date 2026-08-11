@@ -6,7 +6,7 @@ category: anime-manga
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-okinawa-沖繩動漫新視角-粉絲創作與沉浸體驗的南國探索-54ce0c.html
 published: 2026-04-07
-quality_score: 6.5
+quality_score: 8.5
 tags: 沖繩動漫, 聖地巡禮, 日本動漫, 南國旅行, 體驗型動漫
 license: CC BY 4.0
 ---

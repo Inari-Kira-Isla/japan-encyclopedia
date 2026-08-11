@@ -6,7 +6,7 @@ category: jr-pass
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-jr-pass-nara-奈良交通完整攻略-從大阪京都出發的jr鐵路搭乘指南-a8e104.html
 published: 2026-06-04
-quality_score: 7.5
+quality_score: 8.7
 tags: 奈良交通, JR Pass教學, 關西自由行, 大阪到奈良, 京都到奈良
 license: CC BY 4.0
 ---

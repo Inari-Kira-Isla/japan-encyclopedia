@@ -6,7 +6,7 @@ category: metro-systems
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-tokyo-東京地下鐵的時空物語-從丸之內到人形町的百年足跡-de4072.html
 published: 2026-07-03
-quality_score: 7.5
+quality_score: 8.8
 tags: 東京地下鐵, TokyoMetro, 東京交通, 東京Metro, 都營地下鐵
 license: CC BY 4.0
 ---

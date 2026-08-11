@@ -6,7 +6,7 @@ category: rental-cars
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-okinawa-沖繩海洋活動租車攻略-潛水與水上運動愛好者專用指南-38ca52.html
 published: 2026-04-02
-quality_score: 7.5
+quality_score: 8.6
 tags: 沖繩租車, 潛水旅遊, 海洋活動, 水上運動, 離島跳島
 license: CC BY 4.0
 ---

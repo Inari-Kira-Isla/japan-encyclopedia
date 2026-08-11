@@ -6,7 +6,7 @@ category: ski-resorts
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-ski-resorts-tokyo-東京滑雪攻略-依旅行風格選擇最適雪場-042167.html
 published: 2026-04-06
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京滑雪, 關東滑雪場, 日本冬季旅遊, 滑雪攻略, 家庭滑雪
 license: CC BY 4.0
 ---

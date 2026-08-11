@@ -6,7 +6,7 @@ category: metro-systems
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-fukuoka-福岡地下鐵完全指南-串聯在地美食的交通秘徑-77e886.html
 published: 2026-06-02
-quality_score: 7.5
+quality_score: 9.0
 tags: 福岡地下鐵, 九州美食, 福岡交通, 地下鐵沿線, 博多吃喝
 license: CC BY 4.0
 ---

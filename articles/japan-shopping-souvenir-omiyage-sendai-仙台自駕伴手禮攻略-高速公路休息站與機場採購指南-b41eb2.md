@@ -6,7 +6,7 @@ category: souvenir-omiyage
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-souvenir-omiyage-sendai-仙台自駕伴手禮攻略-高速公路休息站與機場採購指南-b41eb2.html
 published: 2026-06-21
-quality_score: 7.5
+quality_score: 8.7
 tags: 仙台伴手禮, 自駕旅遊, 高速公路服務區, 機場免稅, 東北自駕
 license: CC BY 4.0
 ---

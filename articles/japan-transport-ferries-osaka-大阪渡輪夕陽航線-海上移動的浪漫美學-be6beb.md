@@ -6,7 +6,7 @@ category: ferries
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-ferries-osaka-大阪渡輪夕陽航線-海上移動的浪漫美學-be6beb.html
 published: 2026-06-14
-quality_score: 7.5
+quality_score: 8.5
 tags: 大阪渡輪, 關西交通, 海上移動, 瀨戶內海, 四國航線
 license: CC BY 4.0
 ---

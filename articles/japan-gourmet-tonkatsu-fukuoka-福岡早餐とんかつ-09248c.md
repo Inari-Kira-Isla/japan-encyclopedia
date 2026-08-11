@@ -6,7 +6,7 @@ category: tonkatsu
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tonkatsu-fukuoka-福岡早餐とんかつ-09248c.html
 published: 2026-06-03
-quality_score: 6.5
+quality_score: 8.7
 tags: 福岡美食, とんかつ, 炸豬排, 九州料理, 早餐推薦
 license: CC BY 4.0
 ---

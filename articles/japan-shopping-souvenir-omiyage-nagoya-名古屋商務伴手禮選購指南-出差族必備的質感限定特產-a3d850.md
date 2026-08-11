@@ -6,7 +6,7 @@ category: souvenir-omiyage
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-souvenir-omiyage-nagoya-名古屋商務伴手禮選購指南-出差族必備的質感限定特產-a3d850.html
 published: 2026-06-19
-quality_score: 7.5
+quality_score: 8.7
 tags: 名古屋伴手禮, 商務出差, 名古屋特產, 日本伴手禮, 中部國際空港
 license: CC BY 4.0
 ---

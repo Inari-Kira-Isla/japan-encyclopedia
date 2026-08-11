@@ -6,7 +6,7 @@ category: sushi
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sushi-hokkaido-北海道壽司-在地老饕的私房尋味指南-36d94f.html
 published: 2026-03-24
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道壽司, 日本美食, 北海道旅遊, 海鮮推薦, 在地美食
 license: CC BY 4.0
 ---

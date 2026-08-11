@@ -6,7 +6,7 @@ category: street-food
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-street-food-kanazawa-金澤海岸線的鹹鮮滋味-海港城市的冬季街頭食-757170.html
 published: 2026-06-04
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤, 石川縣, 街頭美食, 日本海, 冬季限定
 license: CC BY 4.0
 ---

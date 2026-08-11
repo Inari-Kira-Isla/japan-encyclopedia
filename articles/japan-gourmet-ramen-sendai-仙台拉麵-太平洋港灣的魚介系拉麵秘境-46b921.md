@@ -6,7 +6,7 @@ category: ramen
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-ramen-sendai-仙台拉麵-太平洋港灣的魚介系拉麵秘境-46b921.html
 published: 2026-06-12
-quality_score: 6.5
+quality_score: 8.8
 tags: 仙台拉麵, 魚介系拉麵, 東北美食, 蛤蜊拉麵, 日本拉麵
 license: CC BY 4.0
 ---

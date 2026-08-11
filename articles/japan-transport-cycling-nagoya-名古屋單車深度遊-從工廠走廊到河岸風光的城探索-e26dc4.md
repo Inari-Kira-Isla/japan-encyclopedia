@@ -6,7 +6,7 @@ category: cycling
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-nagoya-名古屋單車深度遊-從工廠走廊到河岸風光的城探索-e26dc4.html
 published: 2026-06-06
-quality_score: 7.5
+quality_score: 8.6
 tags: 名古屋單車, 名古屋推薦, 中部單車旅行, 名古屋產業之旅, 名古屋河岸騎行
 license: CC BY 4.0
 ---

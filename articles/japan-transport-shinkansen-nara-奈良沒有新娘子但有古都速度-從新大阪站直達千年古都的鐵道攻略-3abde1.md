@@ -6,7 +6,7 @@ category: shinkansen
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-nara-奈良沒有新娘子但有古都速度-從新大阪站直達千年古都的鐵道攻略-3abde1.html
 published: 2026-06-27
-quality_score: 7.5
+quality_score: 8.5
 tags: 奈良交通, 關西鐵道, 奈良自由行, 大阪到奈良, 京都到奈良
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: shinkansen
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-kobe-神戶的新幹綫交通樞紐-山陽綫上的港都魅力-1fb94c.html
 published: 2026-06-01
-quality_score: 7.5
+quality_score: 8.9
 tags: 神戶, 山陽新幹綫, Sanyo Shinkansen, 關西旅行, 神戶站
 license: CC BY 4.0
 ---

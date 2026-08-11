@@ -6,7 +6,7 @@ category: buses
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-buses-kobe-神戶的高速巴士-往返關西主要都市的實用選擇-558006.html
 published: 2026-06-16
-quality_score: 7.5
+quality_score: 8.4
 tags: 神戶交通, 高速巴士, 關西交通, 巴士一日遊, 機場巴士
 license: CC BY 4.0
 ---

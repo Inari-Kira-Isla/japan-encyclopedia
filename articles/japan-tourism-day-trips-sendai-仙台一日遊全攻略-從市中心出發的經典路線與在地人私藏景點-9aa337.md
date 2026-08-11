@@ -6,7 +6,7 @@ category: day-trips
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-sendai-仙台一日遊全攻略-從市中心出發的經典路線與在地人私藏景點-9aa337.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 8.6
 tags: 仙台, 日本東北, 一日遊, 松島, 溫泉
 license: CC BY 4.0
 ---

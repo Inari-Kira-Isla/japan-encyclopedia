@@ -6,7 +6,7 @@ category: island-hopping
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-island-hopping-kyoto-京都跳島之旅-先別急-讓在地達人告訴你京都周邊真正的海上玩法-7b5ea6.html
 published: 2026-06-25
-quality_score: 6.5
+quality_score: 8.5
 tags: 京都跳島, 京都周邊, 天橋立, 伊根町, 日本海側
 license: CC BY 4.0
 ---

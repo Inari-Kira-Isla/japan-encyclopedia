@@ -6,7 +6,7 @@ category: electronics
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-electronics-tokyo-東京電子產品購物指南-當地人帶路的隱藏版電器街-8745de.html
 published: 2026-05-31
-quality_score: 7.5
+quality_score: 8.6
 tags: 東京電子產品, 東京購物, 日本電器行, 秋葉原, 東京自由行
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: karaoke
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-karaoke-osaka-大阪卡拉ok-天王寺-新世界區域的下班後歡唱地圖-08d370.html
 published: 2026-06-12
-quality_score: 6.5
+quality_score: 8.6
 tags: 大阪卡拉OK, 天王寺卡拉OK, 新世界卡拉OK, 關西夜生活, 阿倍野卡拉OK
 license: CC BY 4.0
 ---

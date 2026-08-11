@@ -6,7 +6,7 @@ category: festivals-matsuri
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-festivals-matsuri-kyoto-京都祭典-千年古都的傳統盛典-e7fbfd.html
 published: 2026-03-15
-quality_score: 6.5
+quality_score: 7.5
 tags: 京都, 祭典, 祇園祭, 日本文化, 自助旅遊
 license: CC BY 4.0
 ---

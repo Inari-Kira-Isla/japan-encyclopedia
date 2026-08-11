@@ -6,7 +6,7 @@ category: electronics
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-electronics-tokyo-東京耳機音響購物指南-專門店與發燒友的秘密基地-e467bf.html
 published: 2026-06-11
-quality_score: 7.5
+quality_score: 8.6
 tags: 東京電子產品, 耳機專門店, 音響設備, 秋葉原購物, 發燒友
 license: CC BY 4.0
 ---

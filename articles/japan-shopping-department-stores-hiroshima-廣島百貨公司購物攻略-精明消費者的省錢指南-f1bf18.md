@@ -6,7 +6,7 @@ category: department-stores
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-department-stores-hiroshima-廣島百貨公司購物攻略-精明消費者的省錢指南-f1bf18.html
 published: 2026-04-05
-quality_score: 7.5
+quality_score: 8.8
 tags: 廣島購物, 百貨公司, 免稅購物, 日本消費, 省錢攻略
 license: CC BY 4.0
 ---

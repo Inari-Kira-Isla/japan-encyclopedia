@@ -6,7 +6,7 @@ category: ryokan
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-sendai-仙台旅館住宿指南-商務人士的和風慢旅新選擇-d48403.html
 published: 2026-04-04
-quality_score: 6.5
+quality_score: 8.8
 tags: 仙台旅館, 商務旅行, 東北溫泉, 日式住宿, 傳統文化
 license: CC BY 4.0
 ---

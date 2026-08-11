@@ -6,7 +6,7 @@ category: ferries
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-ferries-kobe-神戶港的海上漂流-從都市港灣到瀨戶內島嶼的渡輪冒險-5510d0.html
 published: 2026-03-24
-quality_score: 7.5
+quality_score: 8.6
 tags: 神戶港灣, 瀨戶內渡輪, 淡路島, 港灣遊覽, 島嶼探險
 license: CC BY 4.0
 ---

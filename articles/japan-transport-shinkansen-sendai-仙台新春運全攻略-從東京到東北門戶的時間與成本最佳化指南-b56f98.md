@@ -6,7 +6,7 @@ category: shinkansen
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-sendai-仙台新春運全攻略-從東京到東北門戶的時間與成本最佳化指南-b56f98.html
 published: 2026-06-05
-quality_score: 7.5
+quality_score: 8.6
 tags: 仙台, 新幹線, 東北, 交通, 東京到仙台
 license: CC BY 4.0
 ---

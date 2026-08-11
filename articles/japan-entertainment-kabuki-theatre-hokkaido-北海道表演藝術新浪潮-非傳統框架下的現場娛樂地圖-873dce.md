@@ -6,7 +6,7 @@ category: kabuki-theatre
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-kabuki-theatre-hokkaido-北海道表演藝術新浪潮-非傳統框架下的現場娛樂地圖-873dce.html
 published: 2026-06-14
-quality_score: 6.5
+quality_score: 8.6
 tags: 北海道表演藝術, 札幌現場音樂, 北海道娛樂, 非傳統旅遊, 日本現場演出
 license: CC BY 4.0
 ---

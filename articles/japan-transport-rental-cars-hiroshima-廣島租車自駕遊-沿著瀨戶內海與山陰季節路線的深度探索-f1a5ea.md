@@ -6,7 +6,7 @@ category: rental-cars
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-hiroshima-廣島租車自駕遊-沿著瀨戶內海與山陰季節路線的深度探索-f1a5ea.html
 published: 2026-06-28
-quality_score: 7.5
+quality_score: 8.5
 tags: 廣島租車, 瀨戶內海, 自駕遊, 山陰溫泉, 季節限定
 license: CC BY 4.0
 ---

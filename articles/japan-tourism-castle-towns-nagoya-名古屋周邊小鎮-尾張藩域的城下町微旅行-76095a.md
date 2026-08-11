@@ -6,7 +6,7 @@ category: castle-towns
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-castle-towns-nagoya-名古屋周邊小鎮-尾張藩域的城下町微旅行-76095a.html
 published: 2026-06-24
-quality_score: 6.5
+quality_score: 8.5
 tags: 名古屋城, 城下町, 尾張藩, 清洲城, 岡崎城
 license: CC BY 4.0
 ---

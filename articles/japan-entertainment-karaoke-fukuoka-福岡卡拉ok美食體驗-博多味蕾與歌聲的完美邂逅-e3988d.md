@@ -6,7 +6,7 @@ category: karaoke
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-karaoke-fukuoka-福岡卡拉ok美食體驗-博多味蕾與歌聲的完美邂逅-e3988d.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.8
 tags: 福岡卡拉OK, 博多美食, 九州清酒, 屋台文化, 天神娛樂
 license: CC BY 4.0
 ---

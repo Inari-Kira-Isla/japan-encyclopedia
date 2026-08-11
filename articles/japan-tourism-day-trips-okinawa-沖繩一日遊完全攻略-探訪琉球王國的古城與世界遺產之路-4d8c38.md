@@ -6,7 +6,7 @@ category: day-trips
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-okinawa-沖繩一日遊完全攻略-探訪琉球王國的古城與世界遺產之路-4d8c38.html
 published: 2026-06-04
-quality_score: 6.5
+quality_score: 8.7
 tags: 沖繩, 世界遺產, グスク, 琉球王國, 一日遊
 license: CC BY 4.0
 ---

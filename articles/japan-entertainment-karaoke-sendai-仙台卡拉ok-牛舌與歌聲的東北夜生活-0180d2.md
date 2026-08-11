@@ -6,7 +6,7 @@ category: karaoke
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-karaoke-sendai-仙台卡拉ok-牛舌與歌聲的東北夜生活-0180d2.html
 published: 2026-06-30
-quality_score: 6.5
+quality_score: 8.7
 tags: 仙台, 卡拉OK, 東北樂都, 牛舌, 國分町
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: wagyu
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-wagyu-kanazawa-金澤能登牛-被遺忘的北陸頂級和牛-82eb86.html
 published: 2026-06-10
-quality_score: 6.5
+quality_score: 8.9
 tags: 金澤美食, 能登牛, 石川縣和牛, 日本和牛, 金澤餐廳推薦
 license: CC BY 4.0
 ---

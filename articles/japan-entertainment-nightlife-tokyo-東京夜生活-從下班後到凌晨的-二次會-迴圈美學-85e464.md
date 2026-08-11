@@ -6,7 +6,7 @@ category: nightlife
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-tokyo-東京夜生活-從下班後到凌晨的-二次會-迴圈美學-85e464.html
 published: 2026-07-05
-quality_score: 6.5
+quality_score: 8.6
 tags: 東京夜生活, 二次會, 立飲文化, 東京酒吧, 東京卡拉OK
 license: CC BY 4.0
 ---

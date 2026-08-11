@@ -6,7 +6,7 @@ category: tempura
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tempura-sendai-仙台天婦羅-傍晚限定的市場鮮味與人情味-d6aecf.html
 published: 2026-07-03
-quality_score: 6.5
+quality_score: 8.9
 tags: 仙台天婦羅, 東北美食, 日本料理, 在地推薦, 市場美食
 license: CC BY 4.0
 ---

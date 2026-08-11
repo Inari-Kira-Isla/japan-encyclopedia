@@ -6,7 +6,7 @@ category: onsen
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-onsen-okinawa-沖繩溫泉這樣選-亞熱帶海岸的療癒提案與在地溫泉設施推薦-e07c11.html
 published: 2026-06-19
-quality_score: 6.5
+quality_score: 8.6
 tags: 沖繩溫泉, 恩納村溫泉, 石垣島溫泉, 亞熱帶溫泉, 川平灣溫泉
 license: CC BY 4.0
 ---

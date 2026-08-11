@@ -6,7 +6,7 @@ category: ramen
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-ramen-hokkaido-北海道拉麵的港口哲學-從海洋牧場到碗中的旬味之旅-df3423.html
 published: 2026-06-08
-quality_score: 6.5
+quality_score: 8.4
 tags: 北海道拉麵, 港口城市, 海膽, 帆立貝, 鮭魚
 license: CC BY 4.0
 ---

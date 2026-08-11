@@ -6,7 +6,7 @@ category: garden-parks
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-hokkaido-北海道藝術花園巡禮-自然與創意的北國大地-9404b5.html
 published: 2026-04-07
-quality_score: 6.5
+quality_score: 8.5
 tags: 北海道, 藝術花園, 戶外雕塑, 文化旅遊, 自然藝術
 license: CC BY 4.0
 ---

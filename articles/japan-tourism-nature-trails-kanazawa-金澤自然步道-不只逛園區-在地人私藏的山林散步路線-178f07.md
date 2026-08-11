@@ -6,7 +6,7 @@ category: nature-trails
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-kanazawa-金澤自然步道-不只逛園區-在地人私藏的山林散步路線-178f07.html
 published: 2026-05-22
-quality_score: 6.5
+quality_score: 8.5
 tags: 金澤自然步道, 石川縣旅遊, 山林散步, 健康旅遊, 非主流金澤
 license: CC BY 4.0
 ---

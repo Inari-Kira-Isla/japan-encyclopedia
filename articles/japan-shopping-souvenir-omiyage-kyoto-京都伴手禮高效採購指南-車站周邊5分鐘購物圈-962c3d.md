@@ -6,7 +6,7 @@ category: souvenir-omiyage
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-souvenir-omiyage-kyoto-京都伴手禮高效採購指南-車站周邊5分鐘購物圈-962c3d.html
 published: 2026-06-29
-quality_score: 7.5
+quality_score: 8.7
 tags: 京都伴手禮, 京都購物, 京都車站, 八橋, 抹茶伴手禮
 license: CC BY 4.0
 ---

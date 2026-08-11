@@ -6,7 +6,7 @@ category: nightlife
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-tokyo-東京下北澤-音樂與酒精的復古地下樂園-c072d1.html
 published: 2026-06-25
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京夜生活, 下北澤, 音樂酒吧, 地下文化, 復古酒場
 license: CC BY 4.0
 ---

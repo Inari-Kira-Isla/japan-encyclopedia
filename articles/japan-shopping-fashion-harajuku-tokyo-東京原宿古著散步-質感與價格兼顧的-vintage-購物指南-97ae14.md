@@ -6,7 +6,7 @@ category: fashion-harajuku
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-fashion-harajuku-tokyo-東京原宿古著散步-質感與價格兼顧的-vintage-購物指南-97ae14.html
 published: 2026-06-20
-quality_score: 7.5
+quality_score: 8.7
 tags: 原宿古著, 東京購物, 古著店, Vintage, 街頭潮流
 license: CC BY 4.0
 ---

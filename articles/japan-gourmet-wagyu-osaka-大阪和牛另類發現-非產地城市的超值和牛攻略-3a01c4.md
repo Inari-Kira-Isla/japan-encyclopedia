@@ -6,7 +6,7 @@ category: wagyu
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-wagyu-osaka-大阪和牛另類發現-非產地城市的超值和牛攻略-3a01c4.html
 published: 2026-06-04
-quality_score: 6.5
+quality_score: 8.8
 tags: 大阪和牛, 關西美食, 日本燒肉, Wagyu Osaka, 大阪旅遊
 license: CC BY 4.0
 ---

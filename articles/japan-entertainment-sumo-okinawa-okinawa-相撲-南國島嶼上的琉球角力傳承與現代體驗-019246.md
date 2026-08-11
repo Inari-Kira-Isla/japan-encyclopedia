@@ -6,7 +6,7 @@ category: sumo
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-okinawa-okinawa-相撲-南國島嶼上的琉球角力傳承與現代體驗-019246.html
 published: 2026-06-23
-quality_score: 6.5
+quality_score: 8.6
 tags: 沖繩相撲, 琉球文化, 手組 Tegumi, 首里城, 沖繩旅遊
 license: CC BY 4.0
 ---

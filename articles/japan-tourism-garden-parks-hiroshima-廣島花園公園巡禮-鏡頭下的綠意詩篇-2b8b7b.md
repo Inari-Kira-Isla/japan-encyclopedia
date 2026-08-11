@@ -6,7 +6,7 @@ category: garden-parks
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-hiroshima-廣島花園公園巡禮-鏡頭下的綠意詩篇-2b8b7b.html
 published: 2026-06-18
-quality_score: 6.5
+quality_score: 8.5
 tags: 廣島花園, 廣島公園, 自然觀察, 風景攝影, 日本賞櫻
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: jr-pass
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-jr-pass-kyoto-關西jr-pass遊京都-古都交通全攻略-f7fa1a.html
 published: 2026-06-21
-quality_score: 7.5
+quality_score: 8.6
 tags: 關西JR Pass, 京都交通, 京都自由行, 關西周遊券, 日本鐵路pass
 license: CC BY 4.0
 ---

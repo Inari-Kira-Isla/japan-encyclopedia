@@ -6,7 +6,7 @@ category: boutique-hotels
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-hokkaido-北海道非主流精品住宿-遠離人潮的在地味覺與旅宿哲學-3b2371.html
 published: 2026-05-24
-quality_score: 6.5
+quality_score: 8.5
 tags: 北海道非主流住宿, 精品酒店, 余市碼頭, 大雪山登山, 釧路濕原
 license: CC BY 4.0
 ---

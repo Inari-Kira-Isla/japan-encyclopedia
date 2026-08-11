@@ -6,7 +6,7 @@ category: udon-soba
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-udon-soba-okinawa-沖繩麵食物語-當地人的-okinawa-soba-尋味地圖-52db75.html
 published: 2026-06-08
-quality_score: 6.5
+quality_score: 8.7
 tags: 沖繩美食, Okinawa Soba, 沖繩烏龍麵, 日本在地美食, 沖繩麵食
 license: CC BY 4.0
 ---

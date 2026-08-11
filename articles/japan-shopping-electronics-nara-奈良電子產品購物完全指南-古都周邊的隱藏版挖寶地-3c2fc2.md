@@ -6,7 +6,7 @@ category: electronics
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-electronics-nara-奈良電子產品購物完全指南-古都周邊的隱藏版挖寶地-3c2fc2.html
 published: 2026-06-13
-quality_score: 7.5
+quality_score: 8.7
 tags: 奈良電子產品, 奈良購物, 關西電器行, 日本電子產品, 奈良自由行
 license: CC BY 4.0
 ---

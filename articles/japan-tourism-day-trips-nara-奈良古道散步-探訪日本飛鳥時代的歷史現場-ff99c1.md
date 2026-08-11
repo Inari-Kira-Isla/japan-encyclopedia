@@ -6,7 +6,7 @@ category: day-trips
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-nara-奈良古道散步-探訪日本飛鳥時代的歷史現場-ff99c1.html
 published: 2026-06-16
-quality_score: 6.5
+quality_score: 8.7
 tags: 奈良一日遊, 飛鳥時代, 歷史古蹟, 明日香村, 近鐵旅行
 license: CC BY 4.0
 ---

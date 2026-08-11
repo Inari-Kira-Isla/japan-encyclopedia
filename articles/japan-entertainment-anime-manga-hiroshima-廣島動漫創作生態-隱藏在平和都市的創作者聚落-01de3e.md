@@ -6,7 +6,7 @@ category: anime-manga
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-hiroshima-廣島動漫創作生態-隱藏在平和都市的創作者聚落-01de3e.html
 published: 2026-06-19
-quality_score: 6.5
+quality_score: 8.7
 tags: 廣島動漫, 廣島漫畫, 廣島同人, 日本動漫, 廣島咖啡廳
 license: CC BY 4.0
 ---

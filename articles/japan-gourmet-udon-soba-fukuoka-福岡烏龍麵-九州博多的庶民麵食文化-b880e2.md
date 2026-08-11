@@ -6,7 +6,7 @@ category: udon-soba
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-udon-soba-fukuoka-福岡烏龍麵-九州博多的庶民麵食文化-b880e2.html
 published: 2026-06-11
-quality_score: 6.5
+quality_score: 8.7
 tags: 福岡, 烏龍麵, 九州美食, 博多, 庶民美食
 license: CC BY 4.0
 ---

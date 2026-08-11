@@ -6,7 +6,7 @@ category: vr-experiences
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-vr-experiences-tokyo-tokyo-vr體驗不完全指南-虛擬實境狂熱者的東京朝聖地圖-87253a.html
 published: 2026-06-26
-quality_score: 6.5
+quality_score: 8.6
 tags: 東京VR, 虛擬實境, 東京娛樂, 秋葉原VR, 台場體驗
 license: CC BY 4.0
 ---

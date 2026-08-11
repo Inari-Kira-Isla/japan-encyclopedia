@@ -6,7 +6,7 @@ category: karaoke
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-karaoke-kanazawa-金澤卡拉ok-古城巷弄裡的音樂風景-434d8b.html
 published: 2026-04-01
-quality_score: 6.5
+quality_score: 8.9
 tags: 金澤卡拉OK, 石川縣娛樂, 加賀百萬石, 近江町市場, 北陸夜生活
 license: CC BY 4.0
 ---

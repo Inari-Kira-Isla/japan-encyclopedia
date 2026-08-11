@@ -6,7 +6,7 @@ category: metro-systems
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-okinawa-沖繩公共交通完全指南-單軌電車與島嶼交通網路-1d391d.html
 published: 2026-03-21
-quality_score: 7.5
+quality_score: 8.8
 tags: 沖繩, 公共交通, 單軌電車, 旅遊指南, 那霸
 license: CC BY 4.0
 ---

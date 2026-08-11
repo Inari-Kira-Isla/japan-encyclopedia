@@ -6,7 +6,7 @@ category: day-trips
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-kobe-從工業遺跡找尋日本靈魂-神戶周邊傳統產業與古城一日探-6d195a.html
 published: 2026-03-24
-quality_score: 6.5
+quality_score: 8.7
 tags: 神戶一日遊, 兵庫縣, 工業遺產, 傳統工藝, 日本酒
 license: CC BY 4.0
 ---

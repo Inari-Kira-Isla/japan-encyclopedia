@@ -6,7 +6,7 @@ category: electronics
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-electronics-kyoto-京都銀髮族數位生活指南-古都銀髮族的電子產品購物秘密-1035a7.html
 published: 2026-06-29
-quality_score: 7.5
+quality_score: 8.5
 tags: 京都電子產品, 銀髮族購物, 日本購物, 銀髮族數位學習, 京都旅遊
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: ramen
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-ramen-osaka-大阪拉麵-深夜食堂的暖心選擇-9d3798.html
 published: 2026-06-14
-quality_score: 6.5
+quality_score: 8.6
 tags: 大阪拉麵, 日本拉麵, 關西拉麵, 大阪美食, 深夜食堂
 license: CC BY 4.0
 ---

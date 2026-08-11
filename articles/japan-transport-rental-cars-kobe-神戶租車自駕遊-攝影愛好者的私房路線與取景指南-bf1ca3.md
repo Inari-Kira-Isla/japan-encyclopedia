@@ -6,7 +6,7 @@ category: rental-cars
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-kobe-神戶租車自駕遊-攝影愛好者的私房路線與取景指南-bf1ca3.html
 published: 2026-06-06
-quality_score: 7.5
+quality_score: 8.7
 tags: 神戶租車, 神戶自駕, 神戶攝影, 神戶夜景, 六甲山
 license: CC BY 4.0
 ---

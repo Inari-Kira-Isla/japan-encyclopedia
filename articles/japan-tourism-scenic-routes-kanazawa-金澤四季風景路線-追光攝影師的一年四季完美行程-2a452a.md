@@ -6,7 +6,7 @@ category: scenic-routes
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-kanazawa-金澤四季風景路線-追光攝影師的一年四季完美行程-2a452a.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤, 風景攝影, 四季旅遊, 北陸觀光, 日本自由行
 license: CC BY 4.0
 ---

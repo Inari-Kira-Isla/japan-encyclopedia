@@ -6,7 +6,7 @@ category: escape-rooms
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-escape-rooms-tokyo-東京密室逃脫完全指南-從新手到高手的選擇邏輯-83aa43.html
 published: 2026-06-14
-quality_score: 6.5
+quality_score: 8.6
 tags: 東京密室逃脱, tokyo escape room, 东京娱乐, 团队活动, 密室游戏
 license: CC BY 4.0
 ---

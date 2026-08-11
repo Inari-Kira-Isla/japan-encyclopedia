@@ -6,7 +6,7 @@ category: fashion-harajuku
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-fashion-harajuku-hiroshima-廣島時尚購物指南-巷弄裡的潮流秘密基地-33c59c.html
 published: 2026-06-20
-quality_score: 7.5
+quality_score: 8.4
 tags: 廣島購物, 廣島時尚, 古著店, 本通商店街, 日本購物指南
 license: CC BY 4.0
 ---

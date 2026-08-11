@@ -6,7 +6,7 @@ category: kabuki-theatre
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-kabuki-theatre-tokyo-東京kabuki劇場完全指南-探索日本傳統表演藝術的聖地-1e06a7.html
 published: 2026-06-05
-quality_score: 6.5
+quality_score: 8.7
 tags: Tokyo Kabuki, Kabuki Theatre, Tokyo Performing Arts, Japanese Traditional Theatre, Ginza Entertainment
 license: CC BY 4.0
 ---

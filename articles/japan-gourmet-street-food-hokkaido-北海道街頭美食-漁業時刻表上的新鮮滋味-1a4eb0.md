@@ -6,7 +6,7 @@ category: street-food
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-street-food-hokkaido-北海道街頭美食-漁業時刻表上的新鮮滋味-1a4eb0.html
 published: 2026-03-23
-quality_score: 6.5
+quality_score: 8.2
 tags: 北海道, 街頭美食, 漁業供應鏈, 季節性海鮮, 函館
 license: CC BY 4.0
 ---

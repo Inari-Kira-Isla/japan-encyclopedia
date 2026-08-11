@@ -6,7 +6,7 @@ category: day-trips
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-hokkaido-北海道旭川出發一日遊-探索道北的自然與文化秘境-f085ef.html
 published: 2026-04-02
-quality_score: 6.5
+quality_score: 8.8
 tags: 北海道, 一日遊, 旭川, 道北, 溫泉
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: udon-soba
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-udon-soba-fukuoka-福岡烏龍麵與蕎麥麵-九州豚骨之外的隱藏版滋味-c186b7.html
 published: 2026-07-01
-quality_score: 6.5
+quality_score: 8.7
 tags: 福岡美食, 烏龍麵, 九州拉麵, 屋台文化, 日本美食
 license: CC BY 4.0
 ---

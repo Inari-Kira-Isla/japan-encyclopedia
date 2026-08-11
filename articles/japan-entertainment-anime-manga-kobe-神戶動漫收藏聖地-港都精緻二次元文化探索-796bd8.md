@@ -6,7 +6,7 @@ category: anime-manga
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-kobe-神戶動漫收藏聖地-港都精緻二次元文化探索-796bd8.html
 published: 2026-03-28
-quality_score: 6.5
+quality_score: 8.7
 tags: 神戶動漫, 收藏文化, 手辦專賣, 獨立創作, 咖啡文化
 license: CC BY 4.0
 ---

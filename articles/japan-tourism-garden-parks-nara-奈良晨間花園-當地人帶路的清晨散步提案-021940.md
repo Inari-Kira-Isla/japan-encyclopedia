@@ -6,7 +6,7 @@ category: garden-parks
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-nara-奈良晨間花園-當地人帶路的清晨散步提案-021940.html
 published: 2026-07-01
-quality_score: 6.5
+quality_score: 8.8
 tags: 奈良, 花園, 早晨散步, 古都, 隱藏版景點
 license: CC BY 4.0
 ---

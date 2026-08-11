@@ -6,7 +6,7 @@ category: vintage-thrift
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-vintage-thrift-sendai-仙台古著小額寶藏-學生友善平價古著之旅-936478.html
 published: 2026-05-22
-quality_score: 7.5
+quality_score: 8.9
 tags: 仙台古著, 日本東北購物, 平價古著, 復古時尚, 一番町
 license: CC BY 4.0
 ---

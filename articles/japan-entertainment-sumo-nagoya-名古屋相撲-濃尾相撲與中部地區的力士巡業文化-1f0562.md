@@ -6,7 +6,7 @@ category: sumo
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-nagoya-名古屋相撲-濃尾相撲與中部地區的力士巡業文化-1f0562.html
 published: 2026-06-14
-quality_score: 6.5
+quality_score: 8.7
 tags: 名古屋相撲, 中部地區相撲, 濃尾相撲, 奉納相撲, 相撲體驗
 license: CC BY 4.0
 ---

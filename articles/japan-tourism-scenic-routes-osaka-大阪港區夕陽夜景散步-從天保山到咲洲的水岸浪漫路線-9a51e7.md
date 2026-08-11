@@ -6,7 +6,7 @@ category: scenic-routes
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-osaka-大阪港區夕陽夜景散步-從天保山到咲洲的水岸浪漫路線-9a51e7.html
 published: 2026-06-17
-quality_score: 6.5
+quality_score: 8.6
 tags: 大阪港區, 夕陽, 夜景, 散步, 天保山
 license: CC BY 4.0
 ---

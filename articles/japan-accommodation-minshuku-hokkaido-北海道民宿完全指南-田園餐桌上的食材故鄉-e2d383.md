@@ -6,7 +6,7 @@ category: minshuku
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-hokkaido-北海道民宿完全指南-田園餐桌上的食材故鄉-e2d383.html
 published: 2026-05-25
-quality_score: 6.5
+quality_score: 8.5
 tags: 北海道民宿, 田園民宿, 美食民宿, 農業體驗, 十勝帶廣
 license: CC BY 4.0
 ---

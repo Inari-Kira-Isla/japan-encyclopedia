@@ -6,7 +6,7 @@ category: garden-parks
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-nagoya-名古屋社群公園巡禮-遠離觀光客的在地綠意日常-a36556.html
 published: 2026-06-21
-quality_score: 6.5
+quality_score: 8.7
 tags: 名古屋, 社區公園, 在地體驗, 中部地方, 非觀光客路線
 license: CC BY 4.0
 ---

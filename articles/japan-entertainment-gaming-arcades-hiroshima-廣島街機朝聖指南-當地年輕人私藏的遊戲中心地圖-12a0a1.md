@@ -6,7 +6,7 @@ category: gaming-arcades
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-gaming-arcades-hiroshima-廣島街機朝聖指南-當地年輕人私藏的遊戲中心地圖-12a0a1.html
 published: 2026-05-23
-quality_score: 6.5
+quality_score: 8.5
 tags: 廣島遊戲中心, 廣島自由行, 日本街機, 廣島娛樂, 體驗在地
 license: CC BY 4.0
 ---

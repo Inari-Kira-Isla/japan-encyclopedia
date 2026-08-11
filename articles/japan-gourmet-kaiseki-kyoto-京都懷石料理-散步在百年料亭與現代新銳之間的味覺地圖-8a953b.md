@@ -6,7 +6,7 @@ category: kaiseki
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-kaiseki-kyoto-京都懷石料理-散步在百年料亭與現代新銳之間的味覺地圖-8a953b.html
 published: 2026-06-17
-quality_score: 6.5
+quality_score: 8.7
 tags: 京都懷石, 京都美食, 日本料理, 會席料理, 祇園
 license: CC BY 4.0
 ---

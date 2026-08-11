@@ -6,7 +6,7 @@ category: ryokan
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-kyoto-京都旅宿的隱藏珍寶-從京料理看見千年古都的待客美學-f63ff1.html
 published: 2026-07-03
-quality_score: 6.5
+quality_score: 8.7
 tags: 京都, Ryokan, 京料理, 日本旅遊, 傳統住宿
 license: CC BY 4.0
 ---

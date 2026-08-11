@@ -6,7 +6,7 @@ category: temples-shrines
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-temples-shrines-sendai-仙台自然靈場-森林-山嶽與東北靈性的寺廟神社巡禮-dc1051.html
 published: 2026-06-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 仙台寺廟神社, 東北靈場, 山岳信仰, 瑞鳳殿, 大崎觀音
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: tonkatsu
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tonkatsu-osaka-osaka-tonkatsu-fb8421.html
 published: 2026-03-24
-quality_score: 7.0
+quality_score: 8.0
 tags: tonkatsu, osaka, japan
 license: CC BY 4.0
 ---

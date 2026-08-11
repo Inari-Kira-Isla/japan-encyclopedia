@@ -6,7 +6,7 @@ category: day-trips
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-kyoto-京都鐵道慢旅-搭乘地方線探索丹波・但東的山線秘境一日遊-3fe470.html
 published: 2026-06-21
-quality_score: 6.5
+quality_score: 8.6
 tags: 京都一日遊, 丹波地方, 鐵道秘境, 山線慢旅, 福知山溫泉
 license: CC BY 4.0
 ---

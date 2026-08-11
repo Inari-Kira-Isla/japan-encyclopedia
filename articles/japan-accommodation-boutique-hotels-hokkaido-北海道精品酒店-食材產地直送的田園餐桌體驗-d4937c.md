@@ -6,7 +6,7 @@ category: boutique-hotels
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-hokkaido-北海道精品酒店-食材產地直送的田園餐桌體驗-d4937c.html
 published: 2026-06-11
-quality_score: 6.5
+quality_score: 8.5
 tags: 北海道, 精品酒店, 溫泉, 住宿推薦, 田園體驗
 license: CC BY 4.0
 ---

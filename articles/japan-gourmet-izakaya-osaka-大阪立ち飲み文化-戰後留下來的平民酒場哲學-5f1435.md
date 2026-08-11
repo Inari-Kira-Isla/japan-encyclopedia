@@ -6,7 +6,7 @@ category: izakaya
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-izakaya-osaka-大阪立ち飲み文化-戰後留下來的平民酒場哲學-5f1435.html
 published: 2026-06-29
-quality_score: 6.5
+quality_score: 8.9
 tags: 大阪美食, 立ち飲み, 居酒屋, 大阪在地體驗, 戰後飲食文化
 license: CC BY 4.0
 ---

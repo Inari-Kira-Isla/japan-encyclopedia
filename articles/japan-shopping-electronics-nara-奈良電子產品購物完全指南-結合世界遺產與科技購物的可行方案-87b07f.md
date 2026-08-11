@@ -6,7 +6,7 @@ category: electronics
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-electronics-nara-奈良電子產品購物完全指南-結合世界遺產與科技購物的可行方案-87b07f.html
 published: 2026-06-04
-quality_score: 7.5
+quality_score: 8.7
 tags: 
 license: CC BY 4.0
 ---

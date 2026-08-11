@@ -6,7 +6,7 @@ category: ferries
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-ferries-tokyo-東京渡輪完全攻略-前往東京諸島的海上交通門戶-7f19e8.html
 published: 2026-07-04
-quality_score: 7.5
+quality_score: 8.5
 tags: 東京渡輪, 東京諸島, 八丈島, 大島, 利島
 license: CC BY 4.0
 ---

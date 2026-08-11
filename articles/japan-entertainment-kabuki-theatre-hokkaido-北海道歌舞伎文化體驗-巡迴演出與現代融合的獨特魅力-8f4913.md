@@ -6,7 +6,7 @@ category: kabuki-theatre
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-kabuki-theatre-hokkaido-北海道歌舞伎文化體驗-巡迴演出與現代融合的獨特魅力-8f4913.html
 published: 2026-03-29
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道, 歌舞伎, 傳統文化, 札幌, 小樽
 license: CC BY 4.0
 ---

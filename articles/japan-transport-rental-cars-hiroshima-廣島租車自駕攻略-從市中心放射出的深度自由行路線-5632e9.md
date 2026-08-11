@@ -6,7 +6,7 @@ category: rental-cars
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-hiroshima-廣島租車自駕攻略-從市中心放射出的深度自由行路線-5632e9.html
 published: 2026-06-01
-quality_score: 7.5
+quality_score: 8.5
 tags: 廣島租車, 廣島自駕, 宮島交通, 尾道租車, 瀨戶內海
 license: CC BY 4.0
 ---

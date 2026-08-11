@@ -6,7 +6,7 @@ category: ferries
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-ferries-kobe-神戶渡輪四季記-跟著季節食材與港灣風景走-c715c6.html
 published: 2026-03-24
-quality_score: 7.5
+quality_score: 8.5
 tags: 神戶, 渡輪, 淡路島, 季節美食, 明石海峽
 license: CC BY 4.0
 ---

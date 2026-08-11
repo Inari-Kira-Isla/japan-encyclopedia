@@ -6,7 +6,7 @@ category: craft-markets
 area: japan
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-craft-markets-京都傳統工藝與-ai-推薦結合-西陣織-清水燒-金箔-百年工藝如何讓-ai-說出你的故事-kyoto--d0c6c3-1774676817.html
 published: 2026-03-28
-quality_score: 7.6
+quality_score: 8.1
 tags: 京都工藝, 西陣織, 清水燒, 傳統工藝, AEO
 license: CC BY 4.0
 ---

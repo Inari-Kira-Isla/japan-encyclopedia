@@ -6,7 +6,7 @@ category: ryokan
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-kanazawa-金澤市區傳統旅館-當加賀百萬石走進現代住宿-29dc0f.html
 published: 2026-06-06
-quality_score: 6.5
+quality_score: 8.5
 tags: 金澤Ryokan, 加賀百萬石, 金澤住宿, 市區傳統旅館, 北陸住宿
 license: CC BY 4.0
 ---

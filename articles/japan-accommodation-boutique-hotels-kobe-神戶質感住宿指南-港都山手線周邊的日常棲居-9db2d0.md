@@ -6,7 +6,7 @@ category: boutique-hotels
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-kobe-神戶質感住宿指南-港都山手線周邊的日常棲居-9db2d0.html
 published: 2026-06-19
-quality_score: 6.5
+quality_score: 8.7
 tags: 神戶住宿, 精品酒店, 北野異人館, 港都住宿, 關西住宿
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: ramen
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-ramen-tokyo-東京拉麵-從清晨到深夜的24小時美味指南-38ebbc.html
 published: 2026-07-01
-quality_score: 6.5
+quality_score: 8.8
 tags: 東京拉麵, 日本美食, 東京美食, 拉麵推薦, 東京旅遊
 license: CC BY 4.0
 ---

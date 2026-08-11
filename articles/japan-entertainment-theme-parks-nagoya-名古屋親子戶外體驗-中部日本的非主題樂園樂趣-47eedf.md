@@ -6,7 +6,7 @@ category: theme-parks
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-theme-parks-nagoya-名古屋親子戶外體驗-中部日本的非主題樂園樂趣-47eedf.html
 published: 2026-06-19
-quality_score: 6.5
+quality_score: 8.7
 tags: 名古屋主題樂園, 親子戶外體驗, 中部日本家庭遊, 名古屋周邊一日遊, Toyota故鄉體驗
 license: CC BY 4.0
 ---

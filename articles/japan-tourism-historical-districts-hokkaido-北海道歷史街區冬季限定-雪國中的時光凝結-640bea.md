@@ -6,7 +6,7 @@ category: historical-districts
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-hokkaido-北海道歷史街區冬季限定-雪國中的時光凝結-640bea.html
 published: 2026-03-27
-quality_score: 6.5
+quality_score: 8.6
 tags: 北海道, 歷史街區, 冬季旅遊, 雪燈文化, 溫泉
 license: CC BY 4.0
 ---

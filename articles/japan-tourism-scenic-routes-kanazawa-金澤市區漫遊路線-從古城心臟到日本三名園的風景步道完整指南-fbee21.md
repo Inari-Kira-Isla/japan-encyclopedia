@@ -6,7 +6,7 @@ category: scenic-routes
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-kanazawa-金澤市區漫遊路線-從古城心臟到日本三名園的風景步道完整指南-fbee21.html
 published: 2026-06-14
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤景點, 金澤步道, 日本三名園, 金澤散步, 石川縣旅遊
 license: CC BY 4.0
 ---

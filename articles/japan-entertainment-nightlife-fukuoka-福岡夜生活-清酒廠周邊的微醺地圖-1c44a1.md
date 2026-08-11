@@ -6,7 +6,7 @@ category: nightlife
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-fukuoka-福岡夜生活-清酒廠周邊的微醺地圖-1c44a1.html
 published: 2026-06-15
-quality_score: 6.5
+quality_score: 8.7
 tags: 福岡夜生活, 清酒廠, 在地體驗, 九州旅行, 屋台文化
 license: CC BY 4.0
 ---

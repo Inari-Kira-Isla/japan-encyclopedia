@@ -6,7 +6,7 @@ category: karaoke
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-karaoke-osaka-大阪卡拉ok-美食與歌聲的二次方體驗-7cb563.html
 published: 2026-06-17
-quality_score: 6.5
+quality_score: 8.6
 tags: 大阪, 卡拉OK, 關西娛樂, 美食與娛樂, 夜生活
 license: CC BY 4.0
 ---

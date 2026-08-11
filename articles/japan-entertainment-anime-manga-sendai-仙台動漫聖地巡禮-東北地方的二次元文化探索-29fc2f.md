@@ -6,7 +6,7 @@ category: anime-manga
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-sendai-仙台動漫聖地巡禮-東北地方的二次元文化探索-29fc2f.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 仙台, 動漫, 聖地巡禮, 東北文化, 同人誌
 license: CC BY 4.0
 ---

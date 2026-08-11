@@ -6,7 +6,7 @@ category: street-food
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-street-food-fukuoka-福岡早起的秘密-清晨市場與凌晨食堂的味覺地圖-b59d0b.html
 published: 2026-06-14
-quality_score: 6.5
+quality_score: 8.8
 tags: 福岡, 街頭美食, 清晨市場, 屋台文化, 博多吃喝
 license: CC BY 4.0
 ---

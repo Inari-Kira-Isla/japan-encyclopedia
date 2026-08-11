@@ -6,7 +6,7 @@ category: buses
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-buses-nagoya-名古屋高速巴士完全攻略-如果只在市內轉太可惜-連結中部的方式這樣選-825f82.html
 published: 2026-05-23
-quality_score: 7.5
+quality_score: 8.6
 tags: 名古屋交通, 高速巴士, 中部自由行, 白川鄉, 伊勢神宮
 license: CC BY 4.0
 ---

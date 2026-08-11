@@ -6,7 +6,7 @@ category: island-hopping
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-island-hopping-tokyo-東京跳島之旅-三宅島的自然呼吸與火山奇觀-223627.html
 published: 2026-06-19
-quality_score: 6.5
+quality_score: 8.6
 tags: 東京跳島, 三宅島, 活火山, 雄山, 日本島嶼
 license: CC BY 4.0
 ---

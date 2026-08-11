@@ -6,7 +6,7 @@ category: gaming-arcades
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-gaming-arcades-osaka-大阪遊戲中心-隱藏在巷弄中的街機寶藏地圖-b99203.html
 published: 2026-06-06
-quality_score: 6.5
+quality_score: 8.6
 tags: 大阪遊戲中心, 大阪街機, 大阪娛樂, 關西遊戲, 大阪自由行
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: boutique-hotels
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-kobe-神戶精品酒店-港都藝術氣息中的質感棲居-3c8a08.html
 published: 2026-06-11
-quality_score: 6.5
+quality_score: 8.3
 tags: 神戶精品酒店, 神戶住宿, 港都住宿, 神戶旅行, 北野異人館
 license: CC BY 4.0
 ---

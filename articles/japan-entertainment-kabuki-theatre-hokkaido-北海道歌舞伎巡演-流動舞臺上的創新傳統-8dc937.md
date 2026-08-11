@@ -6,7 +6,7 @@ category: kabuki-theatre
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-kabuki-theatre-hokkaido-北海道歌舞伎巡演-流動舞臺上的創新傳統-8dc937.html
 published: 2026-04-04
-quality_score: 6.5
+quality_score: 8.8
 tags: 歌舞伎, 北海道, 巡迴演出, 傳統表演, 文化融合
 license: CC BY 4.0
 ---

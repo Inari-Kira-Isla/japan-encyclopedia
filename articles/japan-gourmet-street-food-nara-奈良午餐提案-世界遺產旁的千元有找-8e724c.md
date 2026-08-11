@@ -6,7 +6,7 @@ category: street-food
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-street-food-nara-奈良午餐提案-世界遺產旁的千元有找-8e724c.html
 published: 2026-06-03
-quality_score: 6.5
+quality_score: 8.7
 tags: 奈良, 街頭美食, 千元午餐, 世界遺產, 關西
 license: CC BY 4.0
 ---

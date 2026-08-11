@@ -6,7 +6,7 @@ category: escape-rooms
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-escape-rooms-fukuoka-福岡密室逃脫-天神-中洲-河原町的燒腦體驗指南-d3218b.html
 published: 2026-06-02
-quality_score: 6.5
+quality_score: 9.0
 tags: 福岡密室逃脫, 天神密室, 九州娛樂, 博多主題體驗, 日本解謎遊戲
 license: CC BY 4.0
 ---

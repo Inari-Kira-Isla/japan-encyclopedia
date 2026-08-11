@@ -6,7 +6,7 @@ category: ferries
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-ferries-okinawa-沖繩渡輪完全指南-跳島旅行的海上交通攻略-1ff585-1781698072.html
 published: 2026-06-17
-quality_score: 7.5
+quality_score: 8.3
 tags: 沖繩, 渡輪, 跳島, 海上交通, 慶良間
 license: CC BY 4.0
 ---

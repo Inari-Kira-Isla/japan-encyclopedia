@@ -6,7 +6,7 @@ category: ski-resorts
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-ski-resorts-osaka-大阪週邊小尺度滑雪場-關西短程滑雪的在地選擇-6688e9.html
 published: 2026-06-04
-quality_score: 6.5
+quality_score: 8.4
 tags: 大阪滑雪, 關西滑雪, 短程滑雪, 家庭滑雪預算
 license: CC BY 4.0
 ---

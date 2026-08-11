@@ -6,7 +6,7 @@ category: department-stores
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-department-stores-fukuoka-福岡百貨公司深度指南-當地人推薦的購物與文化體驗-ba87c2.html
 published: 2026-07-04
-quality_score: 7.5
+quality_score: 8.8
 tags: 福岡購物, 九州自由行, 日本百货公司, 天神商圈, 博多吃喝玩樂
 license: CC BY 4.0
 ---

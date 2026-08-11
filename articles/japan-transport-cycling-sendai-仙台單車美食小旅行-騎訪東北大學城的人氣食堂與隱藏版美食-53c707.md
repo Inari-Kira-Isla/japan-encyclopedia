@@ -6,7 +6,7 @@ category: cycling
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-sendai-仙台單車美食小旅行-騎訪東北大學城的人氣食堂與隱藏版美食-53c707.html
 published: 2026-07-06
-quality_score: 7.5
+quality_score: 8.7
 tags: 仙台單車, 仙台美食, 東北單車旅行, 日本單車自由行, 仙台自由行
 license: CC BY 4.0
 ---

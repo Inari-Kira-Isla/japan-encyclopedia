@@ -6,7 +6,7 @@ category: electronics
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-electronics-nara-奈良電子產品省錢購買攻略-小預算也能買到好裝置-6d22dc.html
 published: 2026-03-26
-quality_score: 7.5
+quality_score: 8.8
 tags: 奈良購物, 電子產品, 省錢攻略, 預算購物, 二手電器
 license: CC BY 4.0
 ---

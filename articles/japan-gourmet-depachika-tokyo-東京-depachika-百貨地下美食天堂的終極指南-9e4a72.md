@@ -6,7 +6,7 @@ category: depachika
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-depachika-tokyo-東京-depachika-百貨地下美食天堂的終極指南-9e4a72.html
 published: 2026-03-14
-quality_score: 6.5
+quality_score: 8.8
 tags: 東京, Depachika, 日本美食, 百貨公司, 東京旅遊
 license: CC BY 4.0
 ---

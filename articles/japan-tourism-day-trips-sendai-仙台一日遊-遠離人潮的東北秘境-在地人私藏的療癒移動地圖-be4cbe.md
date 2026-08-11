@@ -6,7 +6,7 @@ category: day-trips
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-sendai-仙台一日遊-遠離人潮的東北秘境-在地人私藏的療癒移動地圖-be4cbe.html
 published: 2026-05-31
-quality_score: 6.5
+quality_score: 8.5
 tags: 仙台一日遊, 東北秘境, 松島, 山寺, 平泉
 license: CC BY 4.0
 ---

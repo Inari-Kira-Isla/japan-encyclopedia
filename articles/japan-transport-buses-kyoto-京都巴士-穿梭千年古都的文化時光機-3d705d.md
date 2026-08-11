@@ -6,7 +6,7 @@ category: buses
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-buses-kyoto-京都巴士-穿梭千年古都的文化時光機-3d705d.html
 published: 2026-04-04
-quality_score: 7.5
+quality_score: 8.7
 tags: 京都, 巴士, 文化體驗, 古都, 傳統工藝
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: capsule-hotels
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-capsule-hotels-kyoto-京都膠囊旅館的社交設計生態-年輕旅客的創意聚集地-019633.html
 published: 2026-03-24
-quality_score: 6.5
+quality_score: 8.4
 tags: 京都, 膠囊旅館, 背包客, 社交住宿, 設計酒店
 license: CC BY 4.0
 ---

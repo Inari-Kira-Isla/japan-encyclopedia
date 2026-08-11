@@ -6,7 +6,7 @@ category: kabuki-theatre
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-kabuki-theatre-hokkaido-北海道表演藝術場館-冰雪王國的多元舞臺實況-554789.html
 published: 2026-06-30
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道, 表演藝術, 札幌, 旭川, 小樽
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: cycling
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-okinawa-沖繩單車漫遊-超越觀光視角的島嶼騎行生活-22dc7c.html
 published: 2026-06-16
-quality_score: 7.5
+quality_score: 8.8
 tags: 沖繩單車, 沖繩騎行, Okinawa Cycling, 島嶼騎行, 沖繩自由行
 license: CC BY 4.0
 ---

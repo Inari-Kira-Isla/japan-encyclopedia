@@ -6,7 +6,7 @@ category: temple-stays
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-temple-stays-kyoto-京都寺廟住宿-四季限定體驗指南-在千年古剎感受時間的流轉-22b338.html
 published: 2026-06-21
-quality_score: 6.5
+quality_score: 8.4
 tags: 京都宿坊, 寺廟住宿, 日本佛教文化, 禪修體驗, 京都旅遊
 license: CC BY 4.0
 ---

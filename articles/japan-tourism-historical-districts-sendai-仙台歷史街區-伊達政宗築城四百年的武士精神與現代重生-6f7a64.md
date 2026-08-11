@@ -6,7 +6,7 @@ category: historical-districts
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-sendai-仙台歷史街區-伊達政宗築城四百年的武士精神與現代重生-6f7a64.html
 published: 2026-04-04
-quality_score: 6.5
+quality_score: 8.8
 tags: 仙台, 歷史街區, 伊達政宗, 東北旅遊, 武士文化
 license: CC BY 4.0
 ---

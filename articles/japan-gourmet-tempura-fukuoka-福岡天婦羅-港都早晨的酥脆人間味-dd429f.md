@@ -6,7 +6,7 @@ category: tempura
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tempura-fukuoka-福岡天婦羅-港都早晨的酥脆人間味-dd429f.html
 published: 2026-05-24
-quality_score: 6.5
+quality_score: 8.5
 tags: 福岡天婦羅, 九州美食, 港都料理, 朝食體驗, 天神
 license: CC BY 4.0
 ---

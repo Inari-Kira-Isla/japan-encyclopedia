@@ -6,7 +6,7 @@ category: metro-systems
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-nara-奈良的交通系統-沒有地鐵的古都-如何成為日本交通費最實惠的觀光城市-af393f.html
 published: 2026-06-18
-quality_score: 7.5
+quality_score: 8.4
 tags: 奈良交通, 奈良沒有地鐵, 近鐵奈良, 奈良公車, 奈良斑鳩券
 license: CC BY 4.0
 ---

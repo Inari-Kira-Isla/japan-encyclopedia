@@ -6,7 +6,7 @@ category: garden-parks
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-nagoya-名古屋在地人的秘密花園-巷弄間的綠色日常-c4e69f.html
 published: 2026-06-17
-quality_score: 6.5
+quality_score: 8.7
 tags: 名古屋花園, 在地秘境, 巷弄景點, 非觀光化, 名古屋自由行
 license: CC BY 4.0
 ---

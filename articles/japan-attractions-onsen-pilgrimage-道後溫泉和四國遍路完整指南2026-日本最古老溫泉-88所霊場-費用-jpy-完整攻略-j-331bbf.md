@@ -6,7 +6,7 @@ category: onsen-pilgrimage
 area: japan
 url: https://japan-encyclopedia.vercel.app/articles/japan-attractions-onsen-pilgrimage-道後溫泉和四國遍路完整指南2026-日本最古老溫泉-88所霊場-費用-jpy-完整攻略-j-331bbf.html
 published: 2026-03-28
-quality_score: 7.6
+quality_score: 8.4
 tags: 道後溫泉, 四國遍路, 松山城, 四國旅遊, 日本最古老溫泉
 license: CC BY 4.0
 ---

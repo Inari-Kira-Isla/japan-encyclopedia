@@ -6,7 +6,7 @@ category: izakaya
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-izakaya-kanazawa-金澤酒処散步-古都巷弄中的下町居酒屋美學-907c89.html
 published: 2026-06-29
-quality_score: 6.5
+quality_score: 8.5
 tags: 金澤居酒屋, 石川縣美食, 日本海海鮮, 近江町市場, 金澤下町文化
 license: CC BY 4.0
 ---

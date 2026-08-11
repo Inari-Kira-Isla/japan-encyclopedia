@@ -6,7 +6,7 @@ category: island-hopping
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-island-hopping-hiroshima-廣島瀨戶內海藝術跳島-直島-豐島-男木島的設計與自然對話-3ea25f.html
 published: 2026-04-07
-quality_score: 6.5
+quality_score: 8.6
 tags: 廣島跳島, 瀨戶內海藝術, 直島, 豐島, 男木島
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: electronics
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-electronics-osaka-大阪電子產品購物全攻略-關西最大電器商圈日本橋與難波購物地圖-f181cc.html
 published: 2026-07-05
-quality_score: 7.5
+quality_score: 8.9
 tags: 大阪電子產品, 日本橋電器街, 難波購物, Bic Camera, 上新電機
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: island-hopping
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-island-hopping-sendai-仙台東方的漁村秘徑-石巻-女川-田代島的離島冒險-6618f1.html
 published: 2026-03-24
-quality_score: 6.5
+quality_score: 8.4
 tags: 仙台旅遊, 離島跳島, 漁業文化, 三陸海岸, 日本東北
 license: CC BY 4.0
 ---

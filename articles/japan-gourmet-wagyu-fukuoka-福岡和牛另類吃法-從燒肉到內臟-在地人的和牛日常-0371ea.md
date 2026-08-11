@@ -6,7 +6,7 @@ category: wagyu
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-wagyu-fukuoka-福岡和牛另類吃法-從燒肉到內臟-在地人的和牛日常-0371ea.html
 published: 2026-05-23
-quality_score: 6.5
+quality_score: 8.7
 tags: 福岡美食, 九州和牛, 博多, 內臟燒烤, 燒肉
 license: CC BY 4.0
 ---

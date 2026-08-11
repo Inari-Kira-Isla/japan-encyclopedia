@@ -6,7 +6,7 @@ category: castle-towns
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-castle-towns-okinawa-沖繩城堡城鎮-琉球王國的商業心跳與山城時光-9438ce.html
 published: 2026-06-14
-quality_score: 6.5
+quality_score: 8.6
 tags: 沖繩古城, 城堡城鎮, 琉球王國, 城下町, gusuku
 license: CC BY 4.0
 ---

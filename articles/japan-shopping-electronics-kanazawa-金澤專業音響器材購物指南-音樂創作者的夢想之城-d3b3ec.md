@@ -6,7 +6,7 @@ category: electronics
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-electronics-kanazawa-金澤專業音響器材購物指南-音樂創作者的夢想之城-d3b3ec.html
 published: 2026-06-19
-quality_score: 7.5
+quality_score: 8.7
 tags: 金澤電子產品, 專業音響, 錄音設備, 日本購物, 音樂創作者
 license: CC BY 4.0
 ---

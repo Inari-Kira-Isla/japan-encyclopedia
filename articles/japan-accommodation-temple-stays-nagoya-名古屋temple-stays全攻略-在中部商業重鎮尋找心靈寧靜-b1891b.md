@@ -6,7 +6,7 @@ category: temple-stays
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-temple-stays-nagoya-名古屋temple-stays全攻略-在中部商業重鎮尋找心靈寧靜-b1891b.html
 published: 2026-03-20
-quality_score: 6.5
+quality_score: 8.7
 tags: 名古屋, 寺廟住宿, 宗教體驗, 熱田神宮, 大須觀音
 license: CC BY 4.0
 ---

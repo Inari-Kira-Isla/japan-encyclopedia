@@ -6,7 +6,7 @@ category: vintage-thrift
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-vintage-thrift-nara-奈良古著尋寶-古都巷弄中的復古時光-c2ac6c.html
 published: 2026-05-31
-quality_score: 7.5
+quality_score: 8.7
 tags: 奈良古著, 古著購物, 日本復古, 奈良自由行, 古都購物
 license: CC BY 4.0
 ---

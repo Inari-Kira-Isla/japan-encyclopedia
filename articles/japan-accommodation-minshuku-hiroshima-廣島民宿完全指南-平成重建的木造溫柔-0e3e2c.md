@@ -6,7 +6,7 @@ category: minshuku
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-hiroshima-廣島民宿完全指南-平成重建的木造溫柔-0e3e2c.html
 published: 2026-06-08
-quality_score: 6.5
+quality_score: 8.7
 tags: 廣島民宿, 宮島住宿, 平和紀念公園周邊, 吳市民宿, 廣島燒體驗
 license: CC BY 4.0
 ---

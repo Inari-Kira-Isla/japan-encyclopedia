@@ -6,7 +6,7 @@ category: 100-yen-shops
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-100-yen-shops-kanazawa-金澤100円商店購物攻略-三大族群消費者的平價採購指南-624b55.html
 published: 2026-06-03
-quality_score: 7.5
+quality_score: 8.7
 tags: 金澤, 100円商店, 平價購物, 親子旅遊, 銀髮族
 license: CC BY 4.0
 ---

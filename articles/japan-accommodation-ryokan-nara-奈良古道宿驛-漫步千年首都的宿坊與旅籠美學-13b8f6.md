@@ -6,7 +6,7 @@ category: ryokan
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-nara-奈良古道宿驛-漫步千年首都的宿坊與旅籠美學-13b8f6.html
 published: 2026-06-30
-quality_score: 6.5
+quality_score: 8.8
 tags: 奈良, Ryokan, 傳統住宿, 古都旅行, 日本住宿
 license: CC BY 4.0
 ---

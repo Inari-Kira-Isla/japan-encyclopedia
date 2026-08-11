@@ -6,7 +6,7 @@ category: department-stores
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-department-stores-hokkaido-北海道百貨公司美食採購指南-地下超市與在地特產的米其林級購物體驗-008c99.html
 published: 2026-06-30
-quality_score: 7.5
+quality_score: 8.5
 tags: 北海道, 札幌, 百货公司, 美食, 伴手礼
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: jr-pass
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-jr-pass-fukuoka-九州北大門的鐵路通行證-jr-kyushu-pass完全解析-ece477.html
 published: 2026-06-30
-quality_score: 7.5
+quality_score: 8.7
 tags: JR Pass, 九州交通, 福岡旅遊, 鐵路周遊券, 日本自由行
 license: CC BY 4.0
 ---

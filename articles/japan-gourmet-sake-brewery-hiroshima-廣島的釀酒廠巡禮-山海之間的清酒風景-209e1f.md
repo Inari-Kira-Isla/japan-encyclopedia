@@ -6,7 +6,7 @@ category: sake-brewery
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sake-brewery-hiroshima-廣島的釀酒廠巡禮-山海之間的清酒風景-209e1f.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 8.9
 tags: 廣島清酒, 酒蔵見學, 日本釀酒厂, 山口県旅行, 瀨戶內海美食
 license: CC BY 4.0
 ---

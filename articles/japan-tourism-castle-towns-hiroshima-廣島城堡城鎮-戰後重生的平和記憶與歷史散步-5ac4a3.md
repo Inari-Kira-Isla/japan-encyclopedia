@@ -6,7 +6,7 @@ category: castle-towns
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-castle-towns-hiroshima-廣島城堡城鎮-戰後重生的平和記憶與歷史散步-5ac4a3.html
 published: 2026-06-14
-quality_score: 6.5
+quality_score: 8.8
 tags: 廣島城堡城鎮, 毛利氏領地, 戰後重建, 平和紀念, 日本城堡
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: scenic-routes
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-hokkaido-北海道隱藏版風景道路-在地人推薦的秘境路線-0ce1fc.html
 published: 2026-06-27
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道, 風景道路, 自駕, 秘境, 國縫海岸
 license: CC BY 4.0
 ---

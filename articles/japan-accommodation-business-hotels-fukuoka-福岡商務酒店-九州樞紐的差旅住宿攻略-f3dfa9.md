@@ -6,7 +6,7 @@ category: business-hotels
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-business-hotels-fukuoka-福岡商務酒店-九州樞紐的差旅住宿攻略-f3dfa9.html
 published: 2026-03-24
-quality_score: 6.5
+quality_score: 8.5
 tags: 福岡, 商務酒店, 出差住宿, 九州, 日本旅館
 license: CC BY 4.0
 ---

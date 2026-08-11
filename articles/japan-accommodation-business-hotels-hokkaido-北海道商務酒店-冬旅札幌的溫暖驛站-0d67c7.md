@@ -6,7 +6,7 @@ category: business-hotels
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-business-hotels-hokkaido-北海道商務酒店-冬旅札幌的溫暖驛站-0d67c7.html
 published: 2026-06-28
-quality_score: 6.5
+quality_score: 8.5
 tags: 北海道商務酒店, 札幌住宿, 旭川商務住宿, 定山溪溫泉, 冬季北海道
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: buses
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-buses-okinawa-沖繩巴士美食小旅行-搭公車深入在地餐桌的實用攻略-f956bd.html
 published: 2026-06-07
-quality_score: 7.5
+quality_score: 8.6
 tags: 沖繩巴士, 沖繩美食, 沖繩自由行, 沖繩交通, 亞熱帶島嶼
 license: CC BY 4.0
 ---

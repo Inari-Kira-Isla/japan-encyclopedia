@@ -6,7 +6,7 @@ category: buses
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-buses-nagoya-名古屋夜間巴士攻略-宵夜狂歡後的安心返程指南-c7b489.html
 published: 2026-06-24
-quality_score: 7.5
+quality_score: 8.6
 tags: 名古屋巴士, 夜間交通, 宵夜美食, 名古屋深夜, 中部國際機場巴士
 license: CC BY 4.0
 ---

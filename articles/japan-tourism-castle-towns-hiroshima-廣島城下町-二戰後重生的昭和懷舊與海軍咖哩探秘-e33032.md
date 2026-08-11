@@ -6,7 +6,7 @@ category: castle-towns
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-castle-towns-hiroshima-廣島城下町-二戰後重生的昭和懷舊與海軍咖哩探秘-e33032.html
 published: 2026-06-03
-quality_score: 6.5
+quality_score: 8.6
 tags: 廣島, 城下町, 原爆圓頂, 海軍咖哩, 廣島燒
 license: CC BY 4.0
 ---

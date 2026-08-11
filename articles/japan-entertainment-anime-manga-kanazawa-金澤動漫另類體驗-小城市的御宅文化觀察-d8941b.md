@@ -6,7 +6,7 @@ category: anime-manga
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-kanazawa-金澤動漫另類體驗-小城市的御宅文化觀察-d8941b.html
 published: 2026-05-23
-quality_score: 6.5
+quality_score: 8.9
 tags: 金澤動漫, 石川縣御宅文化, 金澤遊戲中心, 金澤伴手禮, 日本動漫小旅行
 license: CC BY 4.0
 ---

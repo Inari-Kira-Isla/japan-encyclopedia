@@ -6,7 +6,7 @@ category: love-hotels
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-love-hotels-kanazawa-金澤住宿深度指南-從傳統旅館到guest-house的完整選擇-d2eb6d.html
 published: 2026-06-19
-quality_score: 6.5
+quality_score: 8.6
 tags: 金澤住宿, 金澤旅館, 金澤Guest House, 加賀料理, 金澤旅遊
 license: CC BY 4.0
 ---

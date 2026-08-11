@@ -6,7 +6,7 @@ category: festivals-matsuri
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-festivals-matsuri-osaka-大阪祭典娛樂全攻略-商都夜未眠的祭典狂歡文化-1e585f.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.8
 tags: 大阪祭典, 關西文化, 夜間娛樂, 傳統慶典, 商業化祭典
 license: CC BY 4.0
 ---

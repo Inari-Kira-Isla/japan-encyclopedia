@@ -6,7 +6,7 @@ category: temple-stays
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-temple-stays-kobe-神戶寺廟住宿-港都驛站與關西修驗道的玄關-d7624c.html
 published: 2026-07-06
-quality_score: 6.5
+quality_score: 8.6
 tags: 神戶寺廟住宿, 關西修驗道場, 神戶住宿推薦, 山岳信仰, 日本禪修體驗
 license: CC BY 4.0
 ---

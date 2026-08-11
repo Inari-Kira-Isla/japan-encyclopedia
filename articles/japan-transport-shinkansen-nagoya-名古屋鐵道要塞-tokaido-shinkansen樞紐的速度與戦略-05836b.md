@@ -6,7 +6,7 @@ category: shinkansen
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-nagoya-名古屋鐵道要塞-tokaido-shinkansen樞紐的速度與戦略-05836b.html
 published: 2026-06-18
-quality_score: 7.5
+quality_score: 8.7
 tags: 名古屋, Tokaido Shinkansen, 日本鐵道, 中部旅行, 名古屋站
 license: CC BY 4.0
 ---

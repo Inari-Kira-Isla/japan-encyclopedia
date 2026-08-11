@@ -6,7 +6,7 @@ category: buses
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-buses-kobe-神戶巴士美食探索-搭公車深入港都巷弄的庶民滋味-01d8e5.html
 published: 2026-06-18
-quality_score: 7.5
+quality_score: 8.9
 tags: 神戶巴士, 神戶美食, 庶民美食, 公車旅行, 神戶深度遊
 license: CC BY 4.0
 ---

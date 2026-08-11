@@ -6,7 +6,7 @@ category: anime-manga
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-tokyo-東京漫畫家搖籃-プロ漫畫家的修煉聖殿-db2330.html
 published: 2026-06-16
-quality_score: 6.5
+quality_score: 8.8
 tags: 東京動漫, 漫畫家培訓, 日本漫畫產業, 專業進修, 御宅文化
 license: CC BY 4.0
 ---

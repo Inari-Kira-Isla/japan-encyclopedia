@@ -6,7 +6,7 @@ category: boutique-hotels
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-tokyo-東京精品酒店不完全指南-巷弄裡的生活美學與設計絮語-05e43d.html
 published: 2026-03-28
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京, 精品酒店, boutique hotel, 日本住宿, 設計飯店
 license: CC BY 4.0
 ---

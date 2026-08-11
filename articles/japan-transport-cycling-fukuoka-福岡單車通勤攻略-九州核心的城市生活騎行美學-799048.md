@@ -6,7 +6,7 @@ category: cycling
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-fukuoka-福岡單車通勤攻略-九州核心的城市生活騎行美學-799048.html
 published: 2026-06-05
-quality_score: 7.5
+quality_score: 8.6
 tags: 福岡單車, 九州單車, 福岡交通, 博多灣單車, 糸島騎行
 license: CC BY 4.0
 ---

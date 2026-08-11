@@ -6,7 +6,7 @@ category: yakitori
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-yakitori-kobe-神戶燒鳥-灘五鄉釀造區的串燒酒場文化-c888f2.html
 published: 2026-06-20
-quality_score: 6.5
+quality_score: 8.8
 tags: 神戶燒鳥, 灘五鄉, 神戶美食, 日本串燒, 關西料理
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: sake-brewery
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sake-brewery-okinawa-沖繩釀酒廠巡禮-當地人的私藏酒藏與品飲體驗-f989ae.html
 published: 2026-06-10
-quality_score: 6.5
+quality_score: 8.8
 tags: 沖繩, 泡盛, 釀酒廠, 酒藏, 日本料理
 license: CC BY 4.0
 ---

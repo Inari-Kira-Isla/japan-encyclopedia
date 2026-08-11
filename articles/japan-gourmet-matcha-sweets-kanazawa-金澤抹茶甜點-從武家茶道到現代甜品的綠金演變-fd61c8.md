@@ -6,7 +6,7 @@ category: matcha-sweets
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-matcha-sweets-kanazawa-金澤抹茶甜點-從武家茶道到現代甜品的綠金演變-fd61c8.html
 published: 2026-06-03
-quality_score: 6.5
+quality_score: 8.8
 tags: 金澤, 抹茶甜點, 石川縣, 加賀百萬石, 金箔
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: boutique-hotels
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-nara-奈良微型旅宿-巷弄間的古都生活味-b76b29.html
 published: 2026-05-24
-quality_score: 6.5
+quality_score: 8.4
 tags: 奈良住宿, 古都小旅行, 町屋住宿, 日本文化旅游, 關西安宿
 license: CC BY 4.0
 ---

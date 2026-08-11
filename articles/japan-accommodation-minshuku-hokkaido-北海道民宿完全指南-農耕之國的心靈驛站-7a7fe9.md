@@ -6,7 +6,7 @@ category: minshuku
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-hokkaido-北海道民宿完全指南-農耕之國的心靈驛站-7a7fe9.html
 published: 2026-06-22
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道民宿, 農業體驗, 農莊住宿, 十勝平原, 酪農業
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: wagyu
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-wagyu-kanazawa-金澤夢幻油脂-能登半島牧場的在地和牛美學-6c6e6a.html
 published: 2026-07-04
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤美食, 能登和牛, 石川和牛, 日本燒肉, 加賀料理
 license: CC BY 4.0
 ---

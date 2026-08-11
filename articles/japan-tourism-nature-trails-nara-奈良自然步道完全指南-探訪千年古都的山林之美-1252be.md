@@ -6,7 +6,7 @@ category: nature-trails
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-nara-奈良自然步道完全指南-探訪千年古都的山林之美-1252be.html
 published: 2026-03-14
-quality_score: 6.5
+quality_score: 8.7
 tags: 奈良, 自然步道, 健行, 春日大社, 吉野山
 license: CC BY 4.0
 ---

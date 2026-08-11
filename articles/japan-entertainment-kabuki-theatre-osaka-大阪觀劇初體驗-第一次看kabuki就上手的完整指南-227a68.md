@@ -6,7 +6,7 @@ category: kabuki-theatre
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-kabuki-theatre-osaka-大阪觀劇初體驗-第一次看kabuki就上手的完整指南-227a68.html
 published: 2026-06-16
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪Kabuki, 關西傳統表演, 日本文化體驗, 大阪藝術, 劇場推薦
 license: CC BY 4.0
 ---

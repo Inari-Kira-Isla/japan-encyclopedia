@@ -6,7 +6,7 @@ category: love-hotels
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-love-hotels-nara-奈良情侶住宿選擇-漫遊古都後的溫柔歸處-2866bc.html
 published: 2026-06-04
-quality_score: 6.5
+quality_score: 8.8
 tags: 奈良住宿, 情人旅館, 情侶旅行, 關西住宿, 古都住宿
 license: CC BY 4.0
 ---

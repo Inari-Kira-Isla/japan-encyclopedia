@@ -6,7 +6,7 @@ category: day-trips
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-nagoya-名古屋出發海岸線一日遊-海鮮-溫泉與湛藍太平洋的療癒之路-60ec4b.html
 published: 2026-06-11
-quality_score: 6.5
+quality_score: 8.7
 tags: 名古屋一日遊, 三河灣, 蒲郡溫泉, 海鮮美食, 海岸線
 license: CC BY 4.0
 ---

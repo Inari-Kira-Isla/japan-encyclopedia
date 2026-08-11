@@ -6,7 +6,7 @@ category: scenic-routes
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-hokkaido-北海道鐵道漫遊指南-無自駕也能抵達的絕景步道-6ca573.html
 published: 2026-06-06
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道, 鐵道旅遊, 步道健行, 自然景觀, 無自駕推薦
 license: CC BY 4.0
 ---

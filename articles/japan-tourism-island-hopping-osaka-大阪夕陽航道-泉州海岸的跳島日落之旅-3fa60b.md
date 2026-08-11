@@ -6,7 +6,7 @@ category: island-hopping
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-island-hopping-osaka-大阪夕陽航道-泉州海岸的跳島日落之旅-3fa60b.html
 published: 2026-07-06
-quality_score: 6.5
+quality_score: 8.9
 tags: 大阪跳島, 泉州海岸, 關西機場, 夕陽美景, 海鮮美食
 license: CC BY 4.0
 ---

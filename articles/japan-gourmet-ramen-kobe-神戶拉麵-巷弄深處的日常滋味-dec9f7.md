@@ -6,7 +6,7 @@ category: ramen
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-ramen-kobe-神戶拉麵-巷弄深處的日常滋味-dec9f7.html
 published: 2026-06-22
-quality_score: 6.5
+quality_score: 8.5
 tags: 神戶拉麵, 關西拉麵, 神戶美食, 三宮, 元町
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: kaiseki
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-kaiseki-hokkaido-北海道懷石料理-冬限定海味的極致演繹-6c7b7a.html
 published: 2026-05-21
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道懷石料理, 日本海鲜, 北海道美食, 小樽料理, 札榎美食
 license: CC BY 4.0
 ---

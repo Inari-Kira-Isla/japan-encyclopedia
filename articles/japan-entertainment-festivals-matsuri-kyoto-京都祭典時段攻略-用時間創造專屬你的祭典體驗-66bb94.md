@@ -6,7 +6,7 @@ category: festivals-matsuri
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-festivals-matsuri-kyoto-京都祭典時段攻略-用時間創造專屬你的祭典體驗-66bb94.html
 published: 2026-06-03
-quality_score: 6.5
+quality_score: 8.5
 tags: 京都祭典, 祇園祭, 時段攻略, 京都自由行, 日本祭典體驗
 license: CC BY 4.0
 ---

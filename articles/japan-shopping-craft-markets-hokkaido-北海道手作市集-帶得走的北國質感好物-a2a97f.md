@@ -6,7 +6,7 @@ category: craft-markets
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-craft-markets-hokkaido-北海道手作市集-帶得走的北國質感好物-a2a97f.html
 published: 2026-07-01
-quality_score: 7.5
+quality_score: 8.6
 tags: 北海道手作市集, 北海道工藝, 札幌手作市集, 小樽玻璃工藝, 旭川木工
 license: CC BY 4.0
 ---

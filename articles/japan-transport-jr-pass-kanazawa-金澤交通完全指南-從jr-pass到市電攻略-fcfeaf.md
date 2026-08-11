@@ -6,7 +6,7 @@ category: jr-pass
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-jr-pass-kanazawa-金澤交通完全指南-從jr-pass到市電攻略-fcfeaf.html
 published: 2026-06-16
-quality_score: 7.5
+quality_score: 8.5
 tags: 金澤交通, JR Pass攻略, 關西廣域周遊券, 金澤巴士, 北陸旅遊
 license: CC BY 4.0
 ---

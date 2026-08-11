@@ -6,7 +6,7 @@ category: escape-rooms
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-escape-rooms-kobe-神戶密室逃脫-探索港都的燒腦體驗-4fc8e6.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 8.6
 tags: 神戶旅遊, 密室逃脫, 關西娛樂, 腦力遊戲, 日本體驗
 license: CC BY 4.0
 ---

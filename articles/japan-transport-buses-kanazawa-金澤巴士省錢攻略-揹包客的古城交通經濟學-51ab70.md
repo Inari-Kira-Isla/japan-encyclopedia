@@ -6,7 +6,7 @@ category: buses
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-buses-kanazawa-金澤巴士省錢攻略-揹包客的古城交通經濟學-51ab70.html
 published: 2026-04-05
-quality_score: 7.5
+quality_score: 8.7
 tags: 金澤交通, 預算旅行, 巴士攻略, 背包客指南, 省錢旅遊
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: theme-parks
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-theme-parks-okinawa-沖繩主題樂園另類指南-非典型玩家的島嶼狂歡手冊-b5ca9e.html
 published: 2026-06-18
-quality_score: 6.5
+quality_score: 8.4
 tags: 沖繩主題樂園, 名護鳳梨園, Bios之丘, 海洋博公園, 琉球村
 license: CC BY 4.0
 ---

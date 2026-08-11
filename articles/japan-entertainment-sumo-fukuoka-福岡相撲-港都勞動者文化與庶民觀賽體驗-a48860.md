@@ -6,7 +6,7 @@ category: sumo
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-fukuoka-福岡相撲-港都勞動者文化與庶民觀賽體驗-a48860.html
 published: 2026-06-20
-quality_score: 6.5
+quality_score: 8.7
 tags: 福岡相撲, 九州場所, 港都文化, 庶民體驗, 相撲鍋
 license: CC BY 4.0
 ---

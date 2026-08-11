@@ -6,7 +6,7 @@ category: minshuku
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-osaka-大阪市民宿慢散步-下町巷弄裡的家庭溫暖-ac19ce.html
 published: 2026-06-03
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪民宿, minshuku, 下町住宿, 關西自由行, 大阪旅遊
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: nature-trails
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-tokyo-東京鐵道自然徑-搭乘私鐵探索都會綠洲的徒步提案-347026.html
 published: 2026-06-20
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京自然步道, 小田急線, 高尾山, 江之島, 水元公園
 license: CC BY 4.0
 ---

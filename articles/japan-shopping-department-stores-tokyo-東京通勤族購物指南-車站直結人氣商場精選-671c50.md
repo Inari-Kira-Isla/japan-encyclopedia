@@ -6,7 +6,7 @@ category: department-stores
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-department-stores-tokyo-東京通勤族購物指南-車站直結人氣商場精選-671c50.html
 published: 2026-06-30
-quality_score: 7.5
+quality_score: 8.7
 tags: 東京購物, 車站商場, 通勤族, Lumine, 新宿
 license: CC BY 4.0
 ---

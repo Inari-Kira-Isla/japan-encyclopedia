@@ -6,7 +6,7 @@ category: theme-parks
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-theme-parks-sendai-仙台主題樂園與遊樂設施-東北地區的娛樂體驗指南-8dd7f8-1781354753.html
 published: 2026-06-13
-quality_score: 6.5
+quality_score: 8.7
 tags: 仙台主題樂園, 東北滑雪場, 八甲田, 藏王溫泉, 仙台旅遊
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: kabuki-theatre
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-kabuki-theatre-osaka-大阪歌舞劇場完全指南-關西傳統表演藝術的沉浸體驗-8dc40d.html
 published: 2026-06-15
-quality_score: 6.5
+quality_score: 8.2
 tags: 大阪Kabuki, 關西表演藝術, 日本傳統戲劇, 大阪文化體驗, 道頓堀娛樂
 license: CC BY 4.0
 ---

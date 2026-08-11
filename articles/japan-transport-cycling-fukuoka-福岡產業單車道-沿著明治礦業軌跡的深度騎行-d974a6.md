@@ -6,7 +6,7 @@ category: cycling
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-fukuoka-福岡產業單車道-沿著明治礦業軌跡的深度騎行-d974a6.html
 published: 2026-06-18
-quality_score: 7.5
+quality_score: 8.7
 tags: 福岡單車, 門司港, 產業遺產, 自行車道, 九州旅行
 license: CC BY 4.0
 ---

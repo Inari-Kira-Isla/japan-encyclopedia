@@ -6,7 +6,7 @@ category: kyoto-landmarks
 area: japan
 url: https://japan-encyclopedia.vercel.app/articles/japan-attractions-kyoto-landmarks-京都伏見稻荷和錦市場完整指南2026-千鳥居-京都廚房費用完全攻略-jp-kyoto-fus-395d41.html
 published: 2026-04-04
-quality_score: 7.1
+quality_score: 8.6
 tags: 伏見稻荷大社, 千鳥居, 錦市場京都, 京都景點, 京都必去
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: sumo
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-hokkaido-北海道相撲-雪國力士的美食對決-6d72ef.html
 published: 2026-06-29
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道相撲, 相撲鍋, 札幌美食, 旭川美食, 北海道美食
 license: CC BY 4.0
 ---

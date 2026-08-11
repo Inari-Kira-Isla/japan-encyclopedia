@@ -6,7 +6,7 @@ category: temple-stays
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-temple-stays-nara-奈良寺廟住宿完全指南-古都奈良的靜謐修行體驗-2129be.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 8.5
 tags: 奈良住宿, 寺廟住宿, 關西自助, 日本文化體驗, 宿坊
 license: CC BY 4.0
 ---

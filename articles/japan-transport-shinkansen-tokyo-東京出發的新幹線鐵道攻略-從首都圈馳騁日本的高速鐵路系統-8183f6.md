@@ -6,7 +6,7 @@ category: shinkansen
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-tokyo-東京出發的新幹線鐵道攻略-從首都圈馳騁日本的高速鐵路系統-8183f6.html
 published: 2026-06-13
-quality_score: 7.5
+quality_score: 8.6
 tags: 東京交通, JR新娘物語, 日本鐵道, 東京站, 品川站
 license: CC BY 4.0
 ---

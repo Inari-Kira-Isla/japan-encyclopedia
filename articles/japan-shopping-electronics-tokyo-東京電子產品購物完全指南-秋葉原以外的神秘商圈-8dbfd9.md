@@ -6,7 +6,7 @@ category: electronics
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-electronics-tokyo-東京電子產品購物完全指南-秋葉原以外的神秘商圈-8dbfd9.html
 published: 2026-06-24
-quality_score: 7.5
+quality_score: 8.4
 tags: 東京電子產品, 東京購物, 秋葉原, 新宿電器行, 日本免稅店
 license: CC BY 4.0
 ---

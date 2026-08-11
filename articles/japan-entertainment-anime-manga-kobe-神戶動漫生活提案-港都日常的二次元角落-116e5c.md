@@ -6,7 +6,7 @@ category: anime-manga
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-kobe-神戶動漫生活提案-港都日常的二次元角落-116e5c.html
 published: 2026-06-25
-quality_score: 6.5
+quality_score: 8.9
 tags: 神戶動漫, 神戶漫畫咖啡廳, 神戶御宅文化, 神戶二次元, 神戶動漫店
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: metro-systems
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-fukuoka-福岡地下鐵的日常風景-從通勤視角重新認識博多-0cfb91.html
 published: 2026-06-23
-quality_score: 7.5
+quality_score: 8.9
 tags: 福岡地下鐵, 博多名產, 機場交通, 福岡自由行, 九州旅遊
 license: CC BY 4.0
 ---

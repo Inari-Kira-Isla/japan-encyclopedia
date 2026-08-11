@@ -6,7 +6,7 @@ category: rental-cars
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-nagoya-名古屋租車自駕攻略-2025世博年の中部地方周遊術-09481e.html
 published: 2026-06-10
-quality_score: 7.5
+quality_score: 8.8
 tags: 名古屋租車, 中部自駕遊, 2025世博, 飛驒高山, 白川鄉
 license: CC BY 4.0
 ---

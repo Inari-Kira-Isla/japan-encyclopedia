@@ -6,7 +6,7 @@ category: jr-pass
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-jr-pass-hokkaido-北海道jr-pass完全攻略-鐵道漫遊北國的超值交通指南-c2a922.html
 published: 2026-06-29
-quality_score: 7.5
+quality_score: 8.4
 tags: 北海道, JR Pass, 鐵道旅行, 自助旅行, 交通攻略
 license: CC BY 4.0
 ---

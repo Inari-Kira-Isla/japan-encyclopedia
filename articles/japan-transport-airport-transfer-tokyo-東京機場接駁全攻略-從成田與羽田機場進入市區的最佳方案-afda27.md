@@ -6,7 +6,7 @@ category: airport-transfer
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-airport-transfer-tokyo-東京機場接駁全攻略-從成田與羽田機場進入市區的最佳方案-afda27.html
 published: 2026-06-01
-quality_score: 7.5
+quality_score: 8.3
 tags: 東京機場接駁, 、成田機場交通, 濱海機場交通, 東京skyliner, 日本機場接送
 license: CC BY 4.0
 ---

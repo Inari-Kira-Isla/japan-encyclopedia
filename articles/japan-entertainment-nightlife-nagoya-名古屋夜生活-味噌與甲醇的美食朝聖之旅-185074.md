@@ -6,7 +6,7 @@ category: nightlife
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-nagoya-名古屋夜生活-味噌與甲醇的美食朝聖之旅-185074.html
 published: 2026-03-31
-quality_score: 6.5
+quality_score: 8.8
 tags: 名古屋, 夜生活, 日本美食, 居酒屋, 中部地方
 license: CC BY 4.0
 ---

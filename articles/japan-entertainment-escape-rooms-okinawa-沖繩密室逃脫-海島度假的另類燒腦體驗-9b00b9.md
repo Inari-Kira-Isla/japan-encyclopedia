@@ -6,7 +6,7 @@ category: escape-rooms
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-escape-rooms-okinawa-沖繩密室逃脫-海島度假的另類燒腦體驗-9b00b9.html
 published: 2026-06-14
-quality_score: 6.5
+quality_score: 8.8
 tags: 沖繩旅遊, 密室逃脫, 室內娛樂, 那霸市, 親子活動
 license: CC BY 4.0
 ---

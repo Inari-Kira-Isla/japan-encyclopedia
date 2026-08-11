@@ -6,7 +6,7 @@ category: depachika
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-depachika-kanazawa-金澤的美食脈絡-從能登海岸到加賀野菜的在地味覺-eac57c.html
 published: 2026-06-02
-quality_score: 6.5
+quality_score: 8.9
 tags: 金澤, depachika, 能登海產, 加賀野菜, 日本海
 license: CC BY 4.0
 ---

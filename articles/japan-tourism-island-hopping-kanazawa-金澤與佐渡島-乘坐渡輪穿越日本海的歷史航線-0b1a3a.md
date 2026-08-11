@@ -6,7 +6,7 @@ category: island-hopping
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-island-hopping-kanazawa-金澤與佐渡島-乘坐渡輪穿越日本海的歷史航線-0b1a3a.html
 published: 2026-06-09
-quality_score: 6.5
+quality_score: 8.2
 tags: 金澤跳島, 佐渡島, 日本海, 渡輪之旅, 石川縣
 license: CC BY 4.0
 ---

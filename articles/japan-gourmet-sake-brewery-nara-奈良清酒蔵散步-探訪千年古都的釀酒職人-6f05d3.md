@@ -6,7 +6,7 @@ category: sake-brewery
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sake-brewery-nara-奈良清酒蔵散步-探訪千年古都的釀酒職人-6f05d3.html
 published: 2026-06-05
-quality_score: 6.5
+quality_score: 8.9
 tags: 奈良縣, 清酒, 酒蔵, 日本釀酒, 深度旅遊
 license: CC BY 4.0
 ---

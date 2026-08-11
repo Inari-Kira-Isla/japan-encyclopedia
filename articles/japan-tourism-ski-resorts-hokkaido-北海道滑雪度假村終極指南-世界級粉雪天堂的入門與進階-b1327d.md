@@ -6,7 +6,7 @@ category: ski-resorts
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-ski-resorts-hokkaido-北海道滑雪度假村終極指南-世界級粉雪天堂的入門與進階-b1327d.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 8.6
 tags: 北海道滑雪, 日本滑雪度假村, 二世谷滑雪, 粉雪胜地, 日本旅游冬季
 license: CC BY 4.0
 ---

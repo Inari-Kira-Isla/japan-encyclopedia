@@ -6,7 +6,7 @@ category: theme-parks
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-theme-parks-kanazawa-金澤主題樂園與遊樂設施完全指南-體驗加賀百萬石的歡樂時光-9efaad.html
 published: 2026-03-15
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤主題樂園, 金澤親子遊, 金澤忍者體驗, 金箔體驗, 石川縣遊樂設施
 license: CC BY 4.0
 ---

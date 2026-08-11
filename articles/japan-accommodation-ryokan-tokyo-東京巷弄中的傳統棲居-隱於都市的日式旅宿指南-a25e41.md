@@ -6,7 +6,7 @@ category: ryokan
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-tokyo-東京巷弄中的傳統棲居-隱於都市的日式旅宿指南-a25e41.html
 published: 2026-06-18
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京住宿, Ryokan, 日式傳統旅館, 東京自由行, 町屋住宿
 license: CC BY 4.0
 ---

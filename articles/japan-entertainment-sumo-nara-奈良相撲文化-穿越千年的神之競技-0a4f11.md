@@ -6,7 +6,7 @@ category: sumo
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-nara-奈良相撲文化-穿越千年的神之競技-0a4f11.html
 published: 2026-06-25
-quality_score: 6.5
+quality_score: 8.6
 tags: 奈良相撲, 關西相撲, 相撲文化, 日本傳統, 國技體驗
 license: CC BY 4.0
 ---

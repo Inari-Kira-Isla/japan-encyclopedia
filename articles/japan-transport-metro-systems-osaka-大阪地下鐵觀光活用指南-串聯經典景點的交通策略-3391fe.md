@@ -6,7 +6,7 @@ category: metro-systems
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-osaka-大阪地下鐵觀光活用指南-串聯經典景點的交通策略-3391fe.html
 published: 2026-06-14
-quality_score: 7.5
+quality_score: 9.0
 tags: 大阪地下鐵, 大阪交通, 關西觀光, 大阪景點, 大阪Metro
 license: CC BY 4.0
 ---

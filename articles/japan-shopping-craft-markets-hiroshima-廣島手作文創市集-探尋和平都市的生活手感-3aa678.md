@@ -6,7 +6,7 @@ category: craft-markets
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-craft-markets-hiroshima-廣島手作文創市集-探尋和平都市的生活手感-3aa678.html
 published: 2026-05-25
-quality_score: 7.5
+quality_score: 8.7
 tags: 廣島手作, 尾道創意市集, 吳市海事手作, 備後燒陶器和, 瀨戶內海手工藝
 license: CC BY 4.0
 ---

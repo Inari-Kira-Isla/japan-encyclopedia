@@ -6,7 +6,7 @@ category: tempura
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tempura-nara-奈良天婦羅-古都田園的炸物風景-7021f9.html
 published: 2026-06-10
-quality_score: 6.5
+quality_score: 8.7
 tags: 奈良美食, 奈良天婦羅, 關西天婦羅, 日本炸物, 奈良旅遊
 license: CC BY 4.0
 ---

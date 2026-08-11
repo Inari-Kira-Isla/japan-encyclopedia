@@ -6,7 +6,7 @@ category: electronics
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-electronics-fukuoka-福岡創客天堂-九州電子零件與diy文化探索指南-4028bf.html
 published: 2026-04-01
-quality_score: 7.5
+quality_score: 8.7
 tags: 福岡電子零件, 創客文化, DIY電子, 九州科技, 電子愛好者
 license: CC BY 4.0
 ---

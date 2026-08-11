@@ -6,7 +6,7 @@ category: sake-brewery
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sake-brewery-fukuoka-廣島depachika-土產採買與即食美食的完整攻略-5e1cea.html
 published: 2026-06-28
-quality_score: 6.5
+quality_score: 8.7
 tags: 廣島Depachika, 廣島地下美食, 廣島車站, 廣島土產, 瀨戶內海美食
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: craft-markets
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-craft-markets-kanazawa-金澤工藝市集散步-東山・淺野川・片町四大街區完全指南-f297f4.html
 published: 2026-06-24
-quality_score: 7.5
+quality_score: 8.5
 tags: 金澤, 工藝市集, 手作, 日本購物, 加賀百萬石
 license: CC BY 4.0
 ---

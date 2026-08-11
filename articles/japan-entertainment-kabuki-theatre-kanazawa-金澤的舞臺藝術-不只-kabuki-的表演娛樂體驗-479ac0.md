@@ -6,7 +6,7 @@ category: kabuki-theatre
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-kabuki-theatre-kanazawa-金澤的舞臺藝術-不只-kabuki-的表演娛樂體驗-479ac0.html
 published: 2026-06-02
-quality_score: 6.5
+quality_score: 8.4
 tags: 金澤, 舞台藝術, 能乐, 狂言, 加賀漁歌
 license: CC BY 4.0
 ---

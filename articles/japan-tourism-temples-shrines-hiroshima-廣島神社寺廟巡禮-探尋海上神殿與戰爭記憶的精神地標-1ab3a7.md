@@ -6,7 +6,7 @@ category: temples-shrines
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-temples-shrines-hiroshima-廣島神社寺廟巡禮-探尋海上神殿與戰爭記憶的精神地標-1ab3a7.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 8.7
 tags: 廣島神社, 嚴島神社, 宮島, 廣島旅遊, 日本宗教
 license: CC BY 4.0
 ---

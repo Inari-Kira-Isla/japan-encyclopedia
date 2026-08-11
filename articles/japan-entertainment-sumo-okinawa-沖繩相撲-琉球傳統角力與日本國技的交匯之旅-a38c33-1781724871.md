@@ -6,7 +6,7 @@ category: sumo
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-okinawa-沖繩相撲-琉球傳統角力與日本國技的交匯之旅-a38c33-1781724871.html
 published: 2026-06-17
-quality_score: 6.5
+quality_score: 8.7
 tags: 沖繩相撲, 琉球文化, 手組 Tegumi, 相撲體驗, 日本國技
 license: CC BY 4.0
 ---

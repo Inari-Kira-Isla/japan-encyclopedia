@@ -6,7 +6,7 @@ category: escape-rooms
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-escape-rooms-osaka-大阪密室逃脫-關西燒腦文化的核心戰場-d38836.html
 published: 2026-06-07
-quality_score: 6.5
+quality_score: 8.8
 tags: 大阪娛樂, 關西密室, 團體活動, 燒腦遊戲, 室內體驗
 license: CC BY 4.0
 ---

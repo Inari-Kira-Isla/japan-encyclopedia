@@ -6,7 +6,7 @@ category: castle-towns
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-castle-towns-nara-奈良周邊歷史城鎮-自駕放射狀路線的古城探索-79d7f9.html
 published: 2026-06-21
-quality_score: 6.5
+quality_score: 8.9
 tags: 奈良自助, 歷史古城, 山城遺址, 自駕路線, 關西深度遊
 license: CC BY 4.0
 ---

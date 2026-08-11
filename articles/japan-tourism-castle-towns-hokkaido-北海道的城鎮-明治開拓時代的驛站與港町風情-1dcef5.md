@@ -6,7 +6,7 @@ category: castle-towns
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-castle-towns-hokkaido-北海道的城鎮-明治開拓時代的驛站與港町風情-1dcef5.html
 published: 2026-06-24
-quality_score: 6.5
+quality_score: 8.6
 tags: 北海道城鎮, 明治開拓, 松前藩, 港町風情, 日本歷史
 license: CC BY 4.0
 ---

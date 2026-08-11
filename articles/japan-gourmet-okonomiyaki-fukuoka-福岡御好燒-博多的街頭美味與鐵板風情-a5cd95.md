@@ -6,7 +6,7 @@ category: okonomiyaki
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-okonomiyaki-fukuoka-福岡御好燒-博多的街頭美味與鐵板風情-a5cd95.html
 published: 2026-03-18
-quality_score: 6.5
+quality_score: 8.9
 tags: 福岡御好燒, 九州美食, 博多料理, 鐵板燒, 日本旅遊
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: sumo
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-hiroshima-廣島相撲迷的瀨戶內攻略-周邊城市觀賽資訊與旅行規劃指南-0ca7b1.html
 published: 2026-05-22
-quality_score: 6.5
+quality_score: 8.5
 tags: 瀨戶內相撲, 廣島旅遊, 相撲觀賽, 中國地方文化, 日本傳統武術
 license: CC BY 4.0
 ---

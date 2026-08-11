@@ -6,7 +6,7 @@ category: department-stores
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-department-stores-nagoya-名古屋百貨購物指南-中部最大都市的實用型消費天堂-8107c8.html
 published: 2026-03-24
-quality_score: 7.5
+quality_score: 8.6
 tags: 名古屋購物, 日本百貨公司, 中部旅遊, 購物指南, 銀髮友善購物
 license: CC BY 4.0
 ---

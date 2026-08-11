@@ -6,7 +6,7 @@ category: onsen
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-onsen-kyoto-京都溫泉周邊指南-市區外的溫泉療癒之旅-2bfa6e.html
 published: 2026-05-31
-quality_score: 6.5
+quality_score: 8.4
 tags: 京都溫泉, 鞍馬溫泉, 比叡山溫泉, 大原溫泉, 貴船溫泉
 license: CC BY 4.0
 ---

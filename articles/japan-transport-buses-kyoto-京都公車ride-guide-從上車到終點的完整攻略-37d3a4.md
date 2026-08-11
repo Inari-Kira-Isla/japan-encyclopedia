@@ -6,7 +6,7 @@ category: buses
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-buses-kyoto-京都公車ride-guide-從上車到終點的完整攻略-37d3a4.html
 published: 2026-06-19
-quality_score: 7.5
+quality_score: 8.8
 tags: 京都公車, 京都交通, 古都移動攻略, 京都自由行, 市公車一日券
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: ramen
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-ramen-sendai-仙台拉麵-港都供應鏈的海鮮湯頭美學-71913e.html
 published: 2026-06-30
-quality_score: 6.5
+quality_score: 8.7
 tags: 仙台拉麵, 東北美食, 魚介系拉麵, 港都美食, 日本拉麵
 license: CC BY 4.0
 ---

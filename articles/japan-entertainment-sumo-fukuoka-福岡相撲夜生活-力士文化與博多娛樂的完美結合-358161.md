@@ -6,7 +6,7 @@ category: sumo
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-fukuoka-福岡相撲夜生活-力士文化與博多娛樂的完美結合-358161.html
 published: 2026-04-04
-quality_score: 6.5
+quality_score: 8.7
 tags: 福岡, 相撲, 夜生活, 屋台, 居酒屋
 license: CC BY 4.0
 ---

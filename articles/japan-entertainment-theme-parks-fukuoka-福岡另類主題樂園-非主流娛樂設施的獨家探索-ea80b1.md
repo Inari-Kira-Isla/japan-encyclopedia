@@ -6,7 +6,7 @@ category: theme-parks
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-theme-parks-fukuoka-福岡另類主題樂園-非主流娛樂設施的獨家探索-ea80b1.html
 published: 2026-06-06
-quality_score: 6.5
+quality_score: 8.6
 tags: 福岡主題樂園, 九州娛樂, 福岡遊戲中心, 室內遊樂設施, 九州親子遊
 license: CC BY 4.0
 ---

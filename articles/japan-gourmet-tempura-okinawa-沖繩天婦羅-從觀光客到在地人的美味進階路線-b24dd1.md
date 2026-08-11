@@ -6,7 +6,7 @@ category: tempura
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tempura-okinawa-沖繩天婦羅-從觀光客到在地人的美味進階路線-b24dd1.html
 published: 2026-03-28
-quality_score: 6.5
+quality_score: 8.8
 tags: 沖繩美食, 天婦羅, 琉球料理, 在地體驗, 庶民美食
 license: CC BY 4.0
 ---

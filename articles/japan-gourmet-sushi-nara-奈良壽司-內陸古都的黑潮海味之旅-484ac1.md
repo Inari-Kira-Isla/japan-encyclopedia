@@ -6,7 +6,7 @@ category: sushi
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sushi-nara-奈良壽司-內陸古都的黑潮海味之旅-484ac1.html
 published: 2026-03-21
-quality_score: 6.5
+quality_score: 8.5
 tags: 奈良, 日本壽司, 黑潮海鮮, 關西美食, 季節食材
 license: CC BY 4.0
 ---

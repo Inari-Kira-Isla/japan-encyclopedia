@@ -6,7 +6,7 @@ category: sushi
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sushi-hokkaido-北海道壽司-從漁場到餐檯的短鏈美學-a7f5c4.html
 published: 2026-03-24
-quality_score: 6.5
+quality_score: 8.6
 tags: 日本美食, 北海道, 壽司, 海鮮, 食材季節
 license: CC BY 4.0
 ---

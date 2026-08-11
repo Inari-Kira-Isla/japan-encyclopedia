@@ -6,7 +6,7 @@ category: yakitori
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-yakitori-okinawa-沖繩的燒鳥-南國夜色中的串燒人情味-aacca2.html
 published: 2026-05-24
-quality_score: 6.5
+quality_score: 8.7
 tags: 沖繩燒鳥, 沖繩美食, 那霸串燒, 沖繩夜宵, 南國料理
 license: CC BY 4.0
 ---

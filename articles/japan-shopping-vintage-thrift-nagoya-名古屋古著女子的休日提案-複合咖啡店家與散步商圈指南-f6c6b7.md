@@ -6,7 +6,7 @@ category: vintage-thrift
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-vintage-thrift-nagoya-名古屋古著女子的休日提案-複合咖啡店家與散步商圈指南-f6c6b7.html
 published: 2026-05-24
-quality_score: 7.5
+quality_score: 8.7
 tags: 名古屋古著, 古著咖啡複合店, 榮町商圈, 大須观音, 古著散步
 license: CC BY 4.0
 ---

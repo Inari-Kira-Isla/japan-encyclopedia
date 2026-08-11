@@ -6,7 +6,7 @@ category: duty-free
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-duty-free-osaka-大阪隱藏版免稅購物-當地人推薦的非觀光客路線-27237f.html
 published: 2026-06-16
-quality_score: 7.5
+quality_score: 8.5
 tags: 大阪免稅, 關西購物, 非觀光客路線, 隱藏版免稅店, 大阪自由行
 license: CC BY 4.0
 ---

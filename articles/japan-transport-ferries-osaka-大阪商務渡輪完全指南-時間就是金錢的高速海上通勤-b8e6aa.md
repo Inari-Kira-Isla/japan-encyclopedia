@@ -6,7 +6,7 @@ category: ferries
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-ferries-osaka-大阪商務渡輪完全指南-時間就是金錢的高速海上通勤-b8e6aa.html
 published: 2026-05-22
-quality_score: 7.5
+quality_score: 8.5
 tags: 大阪商務交通, 海上通勤, 關西空港, 快速船班, 商務高效
 license: CC BY 4.0
 ---

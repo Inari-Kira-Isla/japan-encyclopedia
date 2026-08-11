@@ -6,7 +6,7 @@ category: jr-pass
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-jr-pass-tokyo-東京近郊jr鐵路探險-一張jr-pass暢遊首都圈周邊五大名城-85e7d8.html
 published: 2026-06-16
-quality_score: 7.5
+quality_score: 8.6
 tags: JR Pass, 東京交通, 東京近郊, 富士山, 鎌倉
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: escape-rooms
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-escape-rooms-hiroshima-廣島密室逃脫不完全攻略-歷史古城裡的燒腦體驗-949319.html
 published: 2026-05-20
-quality_score: 6.5
+quality_score: 8.7
 tags: Japan, Hiroshima, 密室逃脫, 主題樂園, 室內活動
 license: CC BY 4.0
 ---

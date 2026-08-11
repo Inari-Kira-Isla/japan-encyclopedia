@@ -6,7 +6,7 @@ category: matcha-sweets
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-matcha-sweets-tokyo-東京抹茶甜點-住宅區與日常的綠意風景-b8f18f.html
 published: 2026-06-25
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京抹茶甜點, 東京美食, 東京住宅區, 東京日常, 抹茶甜點
 license: CC BY 4.0
 ---

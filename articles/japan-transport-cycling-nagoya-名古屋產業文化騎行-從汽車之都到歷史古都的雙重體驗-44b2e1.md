@@ -6,7 +6,7 @@ category: cycling
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-nagoya-名古屋產業文化騎行-從汽車之都到歷史古都的雙重體驗-44b2e1.html
 published: 2026-04-04
-quality_score: 7.5
+quality_score: 8.7
 tags: 名古屋騎行, 產業觀光, 歷史文化, 河川騎行, 共享單車
 license: CC BY 4.0
 ---

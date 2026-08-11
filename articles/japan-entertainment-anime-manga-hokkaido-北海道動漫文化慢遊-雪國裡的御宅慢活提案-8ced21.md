@@ -6,7 +6,7 @@ category: anime-manga
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-hokkaido-北海道動漫文化慢遊-雪國裡的御宅慢活提案-8ced21.html
 published: 2026-06-07
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道, 動漫文化, 雪國旅行, 札幌, 小樽
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: tonkatsu
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tonkatsu-kobe-神戶豚戟-港都異國風情中的老滋味-6b00bf.html
 published: 2026-07-04
-quality_score: 6.5
+quality_score: 8.9
 tags: 神戶美食, 豚戟, 洋食, 神戶必吃, 港都美食
 license: CC BY 4.0
 ---

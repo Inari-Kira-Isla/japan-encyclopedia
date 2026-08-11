@@ -6,7 +6,7 @@ category: shinkansen
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-hokkaido-北海道新娘道完整攻略-從本州直通北海道的鐵道之旅-541245.html
 published: 2026-06-17
-quality_score: 7.5
+quality_score: 8.7
 tags: 北海道新娘道, 新政館北斗, 日本鐵道, 北海道旅遊, 青函隧道
 license: CC BY 4.0
 ---

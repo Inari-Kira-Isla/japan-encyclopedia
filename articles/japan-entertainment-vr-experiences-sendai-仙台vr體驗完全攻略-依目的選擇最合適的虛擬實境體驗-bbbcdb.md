@@ -6,7 +6,7 @@ category: vr-experiences
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-vr-experiences-sendai-仙台vr體驗完全攻略-依目的選擇最合適的虛擬實境體驗-bbbcdb.html
 published: 2026-06-12
-quality_score: 6.5
+quality_score: 8.3
 tags: 仙台VR, 東北虛擬實境, 日本VR體驗, 仙台娛樂, 東北旅遊
 license: CC BY 4.0
 ---

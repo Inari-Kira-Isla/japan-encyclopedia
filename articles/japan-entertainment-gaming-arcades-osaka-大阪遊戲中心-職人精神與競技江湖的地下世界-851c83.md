@@ -6,7 +6,7 @@ category: gaming-arcades
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-gaming-arcades-osaka-大阪遊戲中心-職人精神與競技江湖的地下世界-851c83.html
 published: 2026-03-24
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪娛樂, 遊戲中心, 街機文化, 職人精神, 格鬥遊戲
 license: CC BY 4.0
 ---

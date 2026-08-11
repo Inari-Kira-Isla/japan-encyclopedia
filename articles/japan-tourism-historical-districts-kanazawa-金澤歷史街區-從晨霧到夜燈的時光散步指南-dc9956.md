@@ -6,7 +6,7 @@ category: historical-districts
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-kanazawa-金澤歷史街區-從晨霧到夜燈的時光散步指南-dc9956.html
 published: 2026-06-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤, 歷史街區, 近江町市場, 兼六園, 東茶屋街
 license: CC BY 4.0
 ---

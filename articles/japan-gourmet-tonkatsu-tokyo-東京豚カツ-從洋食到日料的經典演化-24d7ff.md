@@ -6,7 +6,7 @@ category: tonkatsu
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tonkatsu-tokyo-東京豚カツ-從洋食到日料的經典演化-24d7ff.html
 published: 2026-06-15
-quality_score: 6.5
+quality_score: 8.9
 tags: 東京美食, 豚羔, 日式洋食, 東京必吃, 炸豬排
 license: CC BY 4.0
 ---

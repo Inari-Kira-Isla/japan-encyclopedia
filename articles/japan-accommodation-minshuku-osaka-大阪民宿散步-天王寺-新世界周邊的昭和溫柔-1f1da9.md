@@ -6,7 +6,7 @@ category: minshuku
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-osaka-大阪民宿散步-天王寺-新世界周邊的昭和溫柔-1f1da9.html
 published: 2026-06-26
-quality_score: 6.5
+quality_score: 8.5
 tags: 大阪民宿, 天王寺, 新世界, 昭和町, 關西住宿
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: depachika
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-depachika-hiroshima-廣島depachika-在地人的廚房-深入廣島市民的日常美食地圖-9244d4.html
 published: 2026-06-22
-quality_score: 6.5
+quality_score: 8.8
 tags: 廣島美食, Depachika, 日本地下街, 瀨戶內食材, 廣島伴手禮
 license: CC BY 4.0
 ---

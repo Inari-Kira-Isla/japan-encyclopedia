@@ -6,7 +6,7 @@ category: cycling
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-okinawa-沖繩單車遊-穿越グスク古城遺址的歷史騎行路線-1d09c9.html
 published: 2026-06-17
-quality_score: 7.5
+quality_score: 8.7
 tags: 沖繩單車, グスク古城, 沖繩歷史, 自行車旅遊, 世界遺產
 license: CC BY 4.0
 ---

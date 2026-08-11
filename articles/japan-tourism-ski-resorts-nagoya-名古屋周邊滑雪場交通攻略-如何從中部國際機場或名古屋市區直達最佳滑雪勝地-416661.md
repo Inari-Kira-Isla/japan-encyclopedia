@@ -6,7 +6,7 @@ category: ski-resorts
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-ski-resorts-nagoya-名古屋周邊滑雪場交通攻略-如何從中部國際機場或名古屋市區直達最佳滑雪勝地-416661.html
 published: 2026-05-21
-quality_score: 6.5
+quality_score: 8.6
 tags: 名古屋滑雪, 中部滑雪場, 日本滑雪一日遊, 白馬滑雪, 志賀高原
 license: CC BY 4.0
 ---

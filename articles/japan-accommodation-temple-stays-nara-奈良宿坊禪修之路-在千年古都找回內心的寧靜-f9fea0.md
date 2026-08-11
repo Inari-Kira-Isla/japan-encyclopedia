@@ -6,7 +6,7 @@ category: temple-stays
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-temple-stays-nara-奈良宿坊禪修之路-在千年古都找回內心的寧靜-f9fea0.html
 published: 2026-06-09
-quality_score: 6.5
+quality_score: 8.7
 tags: 奈良宿坊, 日本禪修, 古都旅遊, 寺院住宿, 大阪近郊
 license: CC BY 4.0
 ---

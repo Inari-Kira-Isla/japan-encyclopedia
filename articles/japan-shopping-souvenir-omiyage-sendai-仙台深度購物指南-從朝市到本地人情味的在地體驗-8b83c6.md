@@ -6,7 +6,7 @@ category: souvenir-omiyage
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-souvenir-omiyage-sendai-仙台深度購物指南-從朝市到本地人情味的在地體驗-8b83c6.html
 published: 2026-05-22
-quality_score: 7.5
+quality_score: 8.7
 tags: 仙台購物, 日本伴手禮, 東北伴手禮, 在地體驗, 牛舌土產
 license: CC BY 4.0
 ---

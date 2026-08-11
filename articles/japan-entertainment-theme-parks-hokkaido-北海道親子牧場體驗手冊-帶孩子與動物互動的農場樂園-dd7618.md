@@ -6,7 +6,7 @@ category: theme-parks
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-theme-parks-hokkaido-北海道親子牧場體驗手冊-帶孩子與動物互動的農場樂園-dd7618.html
 published: 2026-07-03
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道主題樂園, 北海道牧場體驗, 親子旅遊, 動物互動, 北海道家庭遊
 license: CC BY 4.0
 ---

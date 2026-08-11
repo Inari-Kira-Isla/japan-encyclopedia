@@ -6,7 +6,7 @@ category: jr-pass
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-jr-pass-hokkaido-北海道jr美食鐵道-乘著火車吃遍日本最北食材王國-f291a3.html
 published: 2026-05-23
-quality_score: 7.5
+quality_score: 9.0
 tags: 北海道, JR周遊券, 小樽, 旭川拉麵, 釧路美食
 license: CC BY 4.0
 ---

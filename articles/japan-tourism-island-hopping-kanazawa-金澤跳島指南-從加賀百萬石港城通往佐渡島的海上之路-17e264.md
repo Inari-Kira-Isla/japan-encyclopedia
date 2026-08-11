@@ -6,7 +6,7 @@ category: island-hopping
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-island-hopping-kanazawa-金澤跳島指南-從加賀百萬石港城通往佐渡島的海上之路-17e264.html
 published: 2026-07-01
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤跳島, 佐渡島, 日本海, 石川縣, 渡輪
 license: CC BY 4.0
 ---

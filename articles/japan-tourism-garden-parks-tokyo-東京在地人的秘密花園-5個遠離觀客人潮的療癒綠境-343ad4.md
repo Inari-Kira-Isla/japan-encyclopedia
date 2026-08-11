@@ -6,7 +6,7 @@ category: garden-parks
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-tokyo-東京在地人的秘密花園-5個遠離觀客人潮的療癒綠境-343ad4.html
 published: 2026-05-24
-quality_score: 6.5
+quality_score: 8.5
 tags: 東京花園, 東京庭園, 東京秘境, 在地旅遊, 東京自由行
 license: CC BY 4.0
 ---

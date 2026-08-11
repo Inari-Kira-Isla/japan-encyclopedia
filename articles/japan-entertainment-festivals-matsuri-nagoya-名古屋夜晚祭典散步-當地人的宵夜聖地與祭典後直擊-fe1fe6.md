@@ -6,7 +6,7 @@ category: festivals-matsuri
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-festivals-matsuri-nagoya-名古屋夜晚祭典散步-當地人的宵夜聖地與祭典後直擊-fe1fe6.html
 published: 2026-05-23
-quality_score: 6.5
+quality_score: 8.6
 tags: 名古屋, 日本祭典, 夜祭, 屋台, 小吃
 license: CC BY 4.0
 ---

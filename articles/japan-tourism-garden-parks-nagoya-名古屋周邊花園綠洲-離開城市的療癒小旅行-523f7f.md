@@ -6,7 +6,7 @@ category: garden-parks
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-nagoya-名古屋周邊花園綠洲-離開城市的療癒小旅行-523f7f.html
 published: 2026-07-06
-quality_score: 6.5
+quality_score: 8.7
 tags: 名古屋, 花園, 公園, 知多半島, 三河
 license: CC BY 4.0
 ---

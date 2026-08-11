@@ -6,7 +6,7 @@ category: yakitori
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-yakitori-hokkaido-北海道海鮮燒鳥-道產食材與季節限定的串燒藝術-fafd72.html
 published: 2026-04-06
-quality_score: 6.5
+quality_score: 8.8
 tags: 北海道美食, 燒鳥, 海鮮料理, 季節限定, 道產食材
 license: CC BY 4.0
 ---

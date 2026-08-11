@@ -6,7 +6,7 @@ category: electronics
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-electronics-tokyo-東京專業電子裝置購物指南-it創作者的科技裝備聖地-38da62.html
 published: 2026-04-05
-quality_score: 7.5
+quality_score: 8.7
 tags: 東京購物, 專業電子設備, IT設備, 音響器材, 攝影器材
 license: CC BY 4.0
 ---

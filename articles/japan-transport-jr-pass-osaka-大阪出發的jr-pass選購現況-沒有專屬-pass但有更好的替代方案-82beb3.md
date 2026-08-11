@@ -6,7 +6,7 @@ category: jr-pass
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-jr-pass-osaka-大阪出發的jr-pass選購現況-沒有專屬-pass但有更好的替代方案-82beb3.html
 published: 2026-06-22
-quality_score: 7.5
+quality_score: 8.5
 tags: 大阪交通, JR Pass教學, 關西鐵路, 大阪自由行, 日本鐵路周遊券
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: airport-transfer
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-airport-transfer-kanazawa-金澤機場交通攻略-從石川門戶暢遊小京都-cbadd6.html
 published: 2026-06-01
-quality_score: 7.5
+quality_score: 8.8
 tags: 金澤機場交通, 金澤交通攻略, 石川縣機場, 小松空港, 關西空港到金澤
 license: CC BY 4.0
 ---

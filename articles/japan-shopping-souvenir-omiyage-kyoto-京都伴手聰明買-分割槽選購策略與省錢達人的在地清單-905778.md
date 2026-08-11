@@ -6,7 +6,7 @@ category: souvenir-omiyage
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-souvenir-omiyage-kyoto-京都伴手聰明買-分割槽選購策略與省錢達人的在地清單-905778.html
 published: 2026-06-03
-quality_score: 7.5
+quality_score: 8.6
 tags: 京都伴手禮, 京都購物, 京土產, 八橋, 京都自由行
 license: CC BY 4.0
 ---

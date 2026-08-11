@@ -6,7 +6,7 @@ category: tonkatsu
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tonkatsu-okinawa-沖繩炸豬排實食指南-觀光客與在地人的選擇差異-450975.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 沖繩美食, 炸豬排, 在地體驗, 觀光美食, 阿古豬
 license: CC BY 4.0
 ---

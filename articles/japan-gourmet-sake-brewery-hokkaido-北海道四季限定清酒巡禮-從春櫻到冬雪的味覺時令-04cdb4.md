@@ -6,7 +6,7 @@ category: sake-brewery
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sake-brewery-hokkaido-北海道四季限定清酒巡禮-從春櫻到冬雪的味覺時令-04cdb4.html
 published: 2026-04-04
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道清酒, 季節限定, 海鮮配對, 酒廠巡禮, 品酒體驗
 license: CC BY 4.0
 ---

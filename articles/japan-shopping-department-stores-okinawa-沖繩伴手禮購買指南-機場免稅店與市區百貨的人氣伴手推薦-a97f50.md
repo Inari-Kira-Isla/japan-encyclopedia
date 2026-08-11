@@ -6,7 +6,7 @@ category: department-stores
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-department-stores-okinawa-沖繩伴手禮購買指南-機場免稅店與市區百貨的人氣伴手推薦-a97f50.html
 published: 2026-06-03
-quality_score: 7.5
+quality_score: 8.7
 tags: 沖繩伴手禮, 沖繩免稅, 沖繩購物, 那霸百货, DFS衝绳
 license: CC BY 4.0
 ---

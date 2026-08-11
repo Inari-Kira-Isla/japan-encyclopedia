@@ -6,7 +6,7 @@ category: temple-stays
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-temple-stays-nagoya-名古屋-鐵道朝聖之路-以中部車站為基地的寺院參拜指南-6047ab.html
 published: 2026-06-21
-quality_score: 6.5
+quality_score: 8.7
 tags: 名古屋, 寺院住宿, 鐵道之旅, 比叡山, 高野山
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: souvenir-omiyage
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-souvenir-omiyage-hokkaido-北海道伴手禮完整指南-自然風光與極品味覺的完美紀念-972c58.html
 published: 2026-05-22
-quality_score: 7.5
+quality_score: 8.3
 tags: 北海道, 伴手禮, 購物, 美食, 日本旅行
 license: CC BY 4.0
 ---

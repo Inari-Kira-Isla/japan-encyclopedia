@@ -6,7 +6,7 @@ category: cycling
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-hokkaido-北海道單車騎行完全攻略-從夏日花海到雪國冬季的四季騎跡-f69815.html
 published: 2026-06-26
-quality_score: 7.5
+quality_score: 8.5
 tags: 北海道單車, 北海道騎行, 十勝平原, 知床半島, 冬季單車
 license: CC BY 4.0
 ---

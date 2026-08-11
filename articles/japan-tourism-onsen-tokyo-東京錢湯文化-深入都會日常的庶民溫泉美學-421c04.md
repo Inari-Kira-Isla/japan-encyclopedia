@@ -6,7 +6,7 @@ category: onsen
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-onsen-tokyo-東京錢湯文化-深入都會日常的庶民溫泉美學-421c04.html
 published: 2026-06-21
-quality_score: 6.5
+quality_score: 8.5
 tags: 東京錢湯, 都會溫泉, 東京泡湯, 庶民文化, 公共澡堂
 license: CC BY 4.0
 ---

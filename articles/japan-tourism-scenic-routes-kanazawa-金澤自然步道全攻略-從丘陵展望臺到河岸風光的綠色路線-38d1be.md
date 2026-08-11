@@ -6,7 +6,7 @@ category: scenic-routes
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-kanazawa-金澤自然步道全攻略-從丘陵展望臺到河岸風光的綠色路線-38d1be.html
 published: 2026-06-23
-quality_score: 6.5
+quality_score: 8.6
 tags: 金澤自然步道, 金澤散步, 卯辰山, 犀川, 金澤戶外
 license: CC BY 4.0
 ---

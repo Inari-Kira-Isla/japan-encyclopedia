@@ -6,7 +6,7 @@ category: ryokan
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-nagoya-名古屋驛站住宿指南-當商務機能遇見和式美學的中部樞紐選擇-7f1445.html
 published: 2026-07-02
-quality_score: 6.5
+quality_score: 8.8
 tags: 名古屋住宿, 日式傳統旅館, 中部地方旅行, 都市驛站, 商務旅行
 license: CC BY 4.0
 ---

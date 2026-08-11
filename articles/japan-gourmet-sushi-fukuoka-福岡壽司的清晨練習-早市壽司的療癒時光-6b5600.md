@@ -6,7 +6,7 @@ category: sushi
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sushi-fukuoka-福岡壽司的清晨練習-早市壽司的療癒時光-6b5600.html
 published: 2026-05-25
-quality_score: 6.5
+quality_score: 8.7
 tags: 福岡壽司, 朝の寿司, 博多早市, 壽司体験, 九州海產
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: matcha-sweets
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-matcha-sweets-nagoya-名古屋抹茶甜點-不為人知的老店密碼與巷弄味覺-a4cf75.html
 published: 2026-05-22
-quality_score: 6.5
+quality_score: 8.8
 tags: 名古屋抹茶甜點, 隱蔽老店, 巷弄美食, 日本茶文化, 在地推薦
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: ryokan
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-tokyo-東京頂級旅館-國際商都中的和式待客藝術-788ebd.html
 published: 2026-04-06
-quality_score: 6.5
+quality_score: 8.8
 tags: 東京旅館, 商務住宿, 奢華旅遊, 日式待客, 國際商務
 license: CC BY 4.0
 ---

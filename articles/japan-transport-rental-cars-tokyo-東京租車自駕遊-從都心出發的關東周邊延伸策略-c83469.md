@@ -6,7 +6,7 @@ category: rental-cars
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-tokyo-東京租車自駕遊-從都心出發的關東周邊延伸策略-c83469.html
 published: 2026-06-26
-quality_score: 7.5
+quality_score: 8.3
 tags: 東京租車, 關東自駕, 東京自由行, 租車攻略, 日光租車
 license: CC BY 4.0
 ---

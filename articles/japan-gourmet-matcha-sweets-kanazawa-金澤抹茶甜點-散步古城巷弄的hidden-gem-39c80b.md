@@ -6,7 +6,7 @@ category: matcha-sweets
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-matcha-sweets-kanazawa-金澤抹茶甜點-散步古城巷弄的hidden-gem-39c80b.html
 published: 2026-05-22
-quality_score: 6.5
+quality_score: 9.0
 tags: 金澤, 抹茶甜點, 石川, 加賀百萬石, 日本抹茶
 license: CC BY 4.0
 ---

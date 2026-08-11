@@ -6,7 +6,7 @@ category: temples-shrines
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-temples-shrines-kobe-神戶寺廟神社巡禮-國際港都的多元信仰風景-c149f4.html
 published: 2026-04-02
-quality_score: 6.5
+quality_score: 8.8
 tags: 神戶, 寺廟, 神社, 宗教文化, 港都
 license: CC BY 4.0
 ---

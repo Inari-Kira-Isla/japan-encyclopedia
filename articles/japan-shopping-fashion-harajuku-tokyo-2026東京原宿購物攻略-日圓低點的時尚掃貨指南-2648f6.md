@@ -6,7 +6,7 @@ category: fashion-harajuku
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-fashion-harajuku-tokyo-2026東京原宿購物攻略-日圓低點的時尚掃貨指南-2648f6.html
 published: 2026-07-03
-quality_score: 7.5
+quality_score: 8.9
 tags: 東京購物, 原宿時尚, 古著推薦, 日圓購物, 街頭潮流
 license: CC BY 4.0
 ---

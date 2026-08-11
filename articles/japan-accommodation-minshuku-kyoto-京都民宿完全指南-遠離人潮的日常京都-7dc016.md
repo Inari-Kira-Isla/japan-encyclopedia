@@ -6,7 +6,7 @@ category: minshuku
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-kyoto-京都民宿完全指南-遠離人潮的日常京都-7dc016.html
 published: 2026-06-02
-quality_score: 6.5
+quality_score: 8.5
 tags: 京都民宿, 日本住宿, 京阪神自由行, 背包客, 深度旅遊
 license: CC BY 4.0
 ---

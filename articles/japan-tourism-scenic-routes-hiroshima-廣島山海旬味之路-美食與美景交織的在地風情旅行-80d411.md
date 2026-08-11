@@ -6,7 +6,7 @@ category: scenic-routes
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-hiroshima-廣島山海旬味之路-美食與美景交織的在地風情旅行-80d411.html
 published: 2026-06-23
-quality_score: 6.5
+quality_score: 8.7
 tags: 廣島美食, 瀨戶內海, 牡蠣小屋, 尾道拉麵, 風景步道
 license: CC BY 4.0
 ---

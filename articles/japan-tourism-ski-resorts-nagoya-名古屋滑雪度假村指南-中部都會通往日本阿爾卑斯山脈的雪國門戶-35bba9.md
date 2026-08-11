@@ -6,7 +6,7 @@ category: ski-resorts
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-ski-resorts-nagoya-名古屋滑雪度假村指南-中部都會通往日本阿爾卑斯山脈的雪國門戶-35bba9.html
 published: 2026-04-06
-quality_score: 6.5
+quality_score: 8.6
 tags: 名古屋滑雪, 中部滑雪場, 日本阿爾卑斯山, 奧美濃滑雪, 飛驒高山滑雪
 license: CC BY 4.0
 ---

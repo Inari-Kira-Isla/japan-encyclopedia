@@ -6,7 +6,7 @@ category: sumo
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-fukuoka-福岡相撲-非賽季深度體驗與力士文化巡禮-31321d.html
 published: 2026-06-25
-quality_score: 6.5
+quality_score: 8.7
 tags: 福岡相撲, 九州場所, 博多ちゃんこ, 相撲鍋體驗, 博多吃喝
 license: CC BY 4.0
 ---

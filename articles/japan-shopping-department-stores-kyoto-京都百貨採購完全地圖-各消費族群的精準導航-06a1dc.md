@@ -6,7 +6,7 @@ category: department-stores
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-department-stores-kyoto-京都百貨採購完全地圖-各消費族群的精準導航-06a1dc.html
 published: 2026-03-24
-quality_score: 7.5
+quality_score: 8.7
 tags: 京都購物, 百貨公司, 日本零售, 遊客指南, 消費族群
 license: CC BY 4.0
 ---

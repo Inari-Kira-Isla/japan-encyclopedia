@@ -6,7 +6,7 @@ category: airport-transfer
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-airport-transfer-kobe-神戶機場交通-避開人潮的關西便捷選擇-4f4ef1.html
 published: 2026-06-21
-quality_score: 7.5
+quality_score: 8.5
 tags: 神戶機場, 關西機場, 神戶交通, Port Liner, 機場交通攻略
 license: CC BY 4.0
 ---

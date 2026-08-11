@@ -6,7 +6,7 @@ category: craft-markets
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-craft-markets-kanazawa-金澤工藝市場美食指南-加賀食文化與手作的相遇-499ec1.html
 published: 2026-06-19
-quality_score: 7.5
+quality_score: 8.5
 tags: 金澤, 工藝市場, 手作, 加賀百萬石, 食文化
 license: CC BY 4.0
 ---

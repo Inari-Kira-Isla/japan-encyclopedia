@@ -6,7 +6,7 @@ category: theme-parks
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-theme-parks-sendai-仙台主題樂園新論-超越傳統遊樂設施的東北體驗經濟-baebbf.html
 published: 2026-07-02
-quality_score: 6.5
+quality_score: 8.8
 tags: 仙台主題樂園, 東北旅遊, 仙台水族館, 仙台滑雪, 日本主題樂園推薦
 license: CC BY 4.0
 ---

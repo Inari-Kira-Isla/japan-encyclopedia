@@ -6,7 +6,7 @@ category: minshuku
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-fukuoka-福岡民宿完全指南-作為九州放射狀旅行的根據地-06af4e.html
 published: 2026-06-18
-quality_score: 6.5
+quality_score: 8.5
 tags: 福岡民宿, 九州旅行, 民宿推薦, 放射狀旅行, 根據地住宿
 license: CC BY 4.0
 ---

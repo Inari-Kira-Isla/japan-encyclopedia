@@ -6,7 +6,7 @@ category: udon-soba
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-udon-soba-sendai-仙台烏龍麵-海港城市的麵食新風貌-d47768.html
 published: 2026-03-28
-quality_score: 6.5
+quality_score: 8.7
 tags: 仙台烏龍麵, 東北美食, 日本拉麵, 海鮮料理, 仙台旅遊
 license: CC BY 4.0
 ---

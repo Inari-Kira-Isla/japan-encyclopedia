@@ -6,7 +6,7 @@ category: scenic-routes
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-sendai-仙台週日遊-山形藏王連峰下的秘湯溫泉與山谷絕景之旅-be8b36.html
 published: 2026-05-24
-quality_score: 6.5
+quality_score: 8.8
 tags: 仙台旅遊, 山形一天遊, 山寺, 銀山溫泉, 藏王連峰
 license: CC BY 4.0
 ---

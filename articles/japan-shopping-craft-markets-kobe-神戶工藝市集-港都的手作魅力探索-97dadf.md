@@ -6,7 +6,7 @@ category: craft-markets
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-craft-markets-kobe-神戶工藝市集-港都的手作魅力探索-97dadf.html
 published: 2026-03-16
-quality_score: 7.5
+quality_score: 8.7
 tags: 神戶, 工藝市集, 手作, 骨董, 日本購物
 license: CC BY 4.0
 ---

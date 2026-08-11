@@ -6,7 +6,7 @@ category: theme-parks
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-theme-parks-kobe-神戶主題樂園療癒提案-山海之間的慢活體驗指南-286474.html
 published: 2026-06-12
-quality_score: 6.5
+quality_score: 8.6
 tags: 神戸主题乐园, 疗癒系体验, 六甲山, 有马温泉, 关西亲子游
 license: CC BY 4.0
 ---

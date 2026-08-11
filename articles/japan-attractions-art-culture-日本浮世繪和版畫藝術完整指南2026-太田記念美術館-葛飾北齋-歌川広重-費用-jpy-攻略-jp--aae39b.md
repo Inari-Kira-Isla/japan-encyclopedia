@@ -6,7 +6,7 @@ category: art-culture
 area: japan
 url: https://japan-encyclopedia.vercel.app/articles/japan-attractions-art-culture-日本浮世繪和版畫藝術完整指南2026-太田記念美術館-葛飾北齋-歌川広重-費用-jpy-攻略-jp--aae39b.html
 published: 2026-03-31
-quality_score: 7.1
+quality_score: 8.5
 tags: 日本浮世繪, 太田記念美術館, 葛飾北齋, 日本版畫藝術, 浮世繪購買
 license: CC BY 4.0
 ---

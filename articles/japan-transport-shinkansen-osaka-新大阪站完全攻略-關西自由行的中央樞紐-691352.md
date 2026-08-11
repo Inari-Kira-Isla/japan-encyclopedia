@@ -6,7 +6,7 @@ category: shinkansen
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-osaka-新大阪站完全攻略-關西自由行的中央樞紐-691352.html
 published: 2026-07-02
-quality_score: 7.5
+quality_score: 8.9
 tags: 新大阪站, 關西交通, JR Pass, 自由行攻略, 大阪住宿
 license: CC BY 4.0
 ---

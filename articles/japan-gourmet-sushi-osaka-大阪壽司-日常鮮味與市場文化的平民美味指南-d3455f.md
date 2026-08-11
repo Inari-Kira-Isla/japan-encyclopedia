@@ -6,7 +6,7 @@ category: sushi
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sushi-osaka-大阪壽司-日常鮮味與市場文化的平民美味指南-d3455f.html
 published: 2026-06-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪壽司, 關西壽司, 大阪美食, 黑門市場, 迴轉壽司
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: cycling
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-hokkaido-北海道單車漫遊-鄂霍次克海岸的流冰之夏與海味巡禮-2621c5.html
 published: 2026-07-03
-quality_score: 7.5
+quality_score: 8.7
 tags: 北海道單車, 鄂霍次克海, 海膽美食, 溫泉巡禮, 酪農體驗
 license: CC BY 4.0
 ---

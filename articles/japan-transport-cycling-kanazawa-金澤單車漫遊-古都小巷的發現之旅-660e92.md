@@ -6,7 +6,7 @@ category: cycling
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-kanazawa-金澤單車漫遊-古都小巷的發現之旅-660e92.html
 published: 2026-06-03
-quality_score: 7.5
+quality_score: 8.6
 tags: 金澤單車, 金澤自由行, 石川縣單車, 日本深度遊, 自行車旅行
 license: CC BY 4.0
 ---

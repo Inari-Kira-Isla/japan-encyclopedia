@@ -6,7 +6,7 @@ category: nature-trails
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-sendai-仙台山地健行完全攻略-從緩和森林浴到秘境登頂的多元步道選擇-0a22fd.html
 published: 2026-05-25
-quality_score: 6.5
+quality_score: 8.6
 tags: 仙台自然步道, 日本東北登山, 森林浴, 親子健行, 秘境步道
 license: CC BY 4.0
 ---

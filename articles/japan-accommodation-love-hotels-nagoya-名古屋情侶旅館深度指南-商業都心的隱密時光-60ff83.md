@@ -6,7 +6,7 @@ category: love-hotels
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-love-hotels-nagoya-名古屋情侶旅館深度指南-商業都心的隱密時光-60ff83.html
 published: 2026-04-04
-quality_score: 6.5
+quality_score: 8.8
 tags: 名古屋住宿, 情侶旅館, 商務旅遊, 中部地區, 榮商業區
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: department-stores
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-department-stores-hiroshima-大阪伴手選購攻略-關西空港限定與車站伴手禮價效比指南-d828b4.html
 published: 2026-06-15
-quality_score: 7.5
+quality_score: 8.7
 tags: 大阪伴手禮, 關西空港, 日本伴手禮, 大阪購物, omiyage
 license: CC BY 4.0
 ---

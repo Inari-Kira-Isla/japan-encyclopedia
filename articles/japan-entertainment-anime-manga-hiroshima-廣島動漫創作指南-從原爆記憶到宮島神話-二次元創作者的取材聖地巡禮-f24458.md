@@ -6,7 +6,7 @@ category: anime-manga
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-hiroshima-廣島動漫創作指南-從原爆記憶到宮島神話-二次元創作者的取材聖地巡禮-f24458.html
 published: 2026-06-13
-quality_score: 6.5
+quality_score: 8.7
 tags: 廣島動漫, 創作取材, 聖地巡禮, 漫畫家, 動漫旅遊
 license: CC BY 4.0
 ---

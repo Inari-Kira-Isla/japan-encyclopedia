@@ -6,7 +6,7 @@ category: jr-pass
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-jr-pass-tokyo-東京可以使用jr-pass嗎-東京圈鐵道通行券正確使用指南-376997.html
 published: 2026-05-24
-quality_score: 7.5
+quality_score: 8.6
 tags: 東京交通, JR Pass教學, 東京自由行, 近郊景點推薦, 日本鐵道
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: temples-shrines
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-temples-shrines-kobe-神戶寺廟神社探訪指南-港都中的千年信仰之地-4f2bfe.html
 published: 2026-03-21
-quality_score: 6.5
+quality_score: 8.6
 tags: 神戶, 寺廟, 神社, 日本宗教, 港都文化
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: department-stores
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-department-stores-hokkaido-北海道foodie導向百貨攻略-從賣場發現北海道的味覺地圖-1999cc.html
 published: 2026-06-23
-quality_score: 7.5
+quality_score: 8.7
 tags: 北海道百货公司, 北海道美食, 札幌购物, 函馆伴手礼, 十胜乳製品
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: souvenir-omiyage
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-souvenir-omiyage-hiroshima-廣島快速採購指南-趕行程旅客的伴手禮秒殺攻略-14cdcd.html
 published: 2026-06-26
-quality_score: 7.5
+quality_score: 8.6
 tags: 廣島伴手禮, 廣島必買, 廣島特產, 急速採購, 伴手禮指南
 license: CC BY 4.0
 ---

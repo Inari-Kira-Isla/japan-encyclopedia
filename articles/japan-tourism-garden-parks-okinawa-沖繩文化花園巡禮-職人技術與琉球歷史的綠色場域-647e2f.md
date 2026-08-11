@@ -6,7 +6,7 @@ category: garden-parks
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-okinawa-沖繩文化花園巡禮-職人技術與琉球歷史的綠色場域-647e2f.html
 published: 2026-06-03
-quality_score: 6.5
+quality_score: 8.7
 tags: 沖繩花園, 文化體驗, 琉球工藝, 藍染體驗, 家族旅遊
 license: CC BY 4.0
 ---

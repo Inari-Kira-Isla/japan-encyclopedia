@@ -6,7 +6,7 @@ category: historical-districts
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-nagoya-名古屋歷史街區-探訪尾張商人的時光巷弄-b51a88.html
 published: 2026-06-08
-quality_score: 6.5
+quality_score: 8.7
 tags: 名古屋, 歷史街區, 尾張藩, 大須觀音, 名古屋城
 license: CC BY 4.0
 ---

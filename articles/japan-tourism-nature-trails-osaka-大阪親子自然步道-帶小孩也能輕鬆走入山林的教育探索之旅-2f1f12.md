@@ -6,7 +6,7 @@ category: nature-trails
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-osaka-大阪親子自然步道-帶小孩也能輕鬆走入山林的教育探索之旅-2f1f12.html
 published: 2026-06-21
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪親子遊, 大阪自然步道, 大阪郊山, 親子登山, 關西家庭旅遊
 license: CC BY 4.0
 ---

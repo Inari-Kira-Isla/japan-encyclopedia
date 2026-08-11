@@ -6,7 +6,7 @@ category: historical-districts
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-tokyo-東京歷史街區-老東京的菜市場哲學與人情美味-6b4a9a.html
 published: 2026-05-21
-quality_score: 6.5
+quality_score: 8.9
 tags: 東京歷史街區, 傳統市場, 下町風情, 深度旅遊, 人情美味
 license: CC BY 4.0
 ---

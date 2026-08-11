@@ -6,7 +6,7 @@ category: historical-districts
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-nagoya-名古屋歷史街區-漫步尾張國的時空隧道-2f1b0b.html
 published: 2026-05-23
-quality_score: 6.5
+quality_score: 8.7
 tags: 名古屋, 历史街区, 尾张国, 名古屋城, 大须观音
 license: CC BY 4.0
 ---

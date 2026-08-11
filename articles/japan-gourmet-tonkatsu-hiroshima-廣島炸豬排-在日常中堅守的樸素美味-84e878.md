@@ -6,7 +6,7 @@ category: tonkatsu
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tonkatsu-hiroshima-廣島炸豬排-在日常中堅守的樸素美味-84e878.html
 published: 2026-03-24
-quality_score: 6.5
+quality_score: 8.8
 tags: 廣島, 炸豬排, 日本美食, 戰後飲食文化, 廣島牛
 license: CC BY 4.0
 ---

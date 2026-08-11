@@ -6,7 +6,7 @@ category: electronics
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-electronics-fukuoka-福岡電子產品購物指南-九州最大都市的電器消費攻略-6dbbf3.html
 published: 2026-07-05
-quality_score: 7.5
+quality_score: 8.2
 tags: 福岡電子產品, 九州購物, 日本電器, 福岡旅遊, 免稅購物
 license: CC BY 4.0
 ---

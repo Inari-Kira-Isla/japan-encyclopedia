@@ -6,7 +6,7 @@ category: metro-systems
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-tokyo-東京地下鐵生存法則-通勤者的時間與空間智慧-470084.html
 published: 2026-05-25
-quality_score: 7.5
+quality_score: 8.9
 tags: 東京地下鐵, Tokyo Metro, 東京交通, 都市通勤, 日本自助旅行
 license: CC BY 4.0
 ---

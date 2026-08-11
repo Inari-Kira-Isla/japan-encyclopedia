@@ -6,7 +6,7 @@ category: fashion-harajuku
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-fashion-harajuku-nagoya-名古屋時尚購物完全指南-體驗中京城的潮流魅力-2badb2.html
 published: 2026-06-08
-quality_score: 7.5
+quality_score: 8.7
 tags: 名古屋購物, 日本中部, 時尚指南, 選品店, 古著
 license: CC BY 4.0
 ---

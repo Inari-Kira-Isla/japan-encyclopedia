@@ -6,7 +6,7 @@ category: sumo
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-hokkaido-北海道相撲-雪國的vigorous運動體驗-aa1042.html
 published: 2026-06-02
-quality_score: 6.5
+quality_score: 8.6
 tags: 北海道, 相撲, 運動體驗, 日本文化, Sapporo
 license: CC BY 4.0
 ---

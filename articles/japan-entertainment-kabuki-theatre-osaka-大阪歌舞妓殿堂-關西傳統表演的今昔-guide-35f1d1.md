@@ -6,7 +6,7 @@ category: kabuki-theatre
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-kabuki-theatre-osaka-大阪歌舞妓殿堂-關西傳統表演的今昔-guide-35f1d1.html
 published: 2026-05-22
-quality_score: 6.5
+quality_score: 8.9
 tags: 大阪, 歌舞妓, 關西表演藝術, 日本文化, 傳統劇場
 license: CC BY 4.0
 ---

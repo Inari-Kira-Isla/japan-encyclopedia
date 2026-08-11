@@ -6,7 +6,7 @@ category: depachika
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-depachika-tokyo-東京-depachika-跟著四季走的地下美食尋寶指南-29c510.html
 published: 2026-05-21
-quality_score: 6.5
+quality_score: 8.4
 tags: 東京 Depachika, 日本地下食品, 東京美食, 四季美食, 日本百貨
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: temple-stays
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-temple-stays-nagoya-名古屋-關西與中部寺院參拜的隱藏樞紐-從名古屋出發的宗教文化之旅-bf9b33.html
 published: 2026-06-19
-quality_score: 6.5
+quality_score: 8.4
 tags: 名古屋, 寺廟住宿, 比叡山, 高野山, 寺院巡禮
 license: CC BY 4.0
 ---

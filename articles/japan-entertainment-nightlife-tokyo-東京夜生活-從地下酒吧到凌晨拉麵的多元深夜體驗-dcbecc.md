@@ -6,7 +6,7 @@ category: nightlife
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-tokyo-東京夜生活-從地下酒吧到凌晨拉麵的多元深夜體驗-dcbecc.html
 published: 2026-03-24
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京夜生活, 日本娛樂, 東京旅遊, 深夜美食, 東京酒吧
 license: CC BY 4.0
 ---

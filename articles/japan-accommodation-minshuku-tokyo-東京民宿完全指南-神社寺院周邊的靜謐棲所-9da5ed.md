@@ -6,7 +6,7 @@ category: minshuku
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-tokyo-東京民宿完全指南-神社寺院周邊的靜謐棲所-9da5ed.html
 published: 2026-07-01
-quality_score: 6.5
+quality_score: 8.6
 tags: 東京民宿, 神社住宿, 寺院周邊, 下町風情, 東京深度旅遊
 license: CC BY 4.0
 ---

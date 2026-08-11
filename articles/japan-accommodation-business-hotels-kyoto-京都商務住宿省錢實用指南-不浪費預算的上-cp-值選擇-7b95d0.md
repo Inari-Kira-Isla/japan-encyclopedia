@@ -6,7 +6,7 @@ category: business-hotels
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-business-hotels-kyoto-京都商務住宿省錢實用指南-不浪費預算的上-cp-值選擇-7b95d0.html
 published: 2026-05-22
-quality_score: 6.5
+quality_score: 8.7
 tags: 京都商務住宿, 京都商務酒店, 京都省錢住宿, 商務出差, 京都四条
 license: CC BY 4.0
 ---

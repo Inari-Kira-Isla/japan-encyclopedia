@@ -6,7 +6,7 @@ category: metro-systems
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-hiroshima-廣島電鐵全攻略-路面電車穿梭而成的城市物語-dbd0a2.html
 published: 2026-06-02
-quality_score: 7.5
+quality_score: 8.6
 tags: 广岛电铁, 路面电车, 日本交通, 广岛旅游, 宫岛
 license: CC BY 4.0
 ---

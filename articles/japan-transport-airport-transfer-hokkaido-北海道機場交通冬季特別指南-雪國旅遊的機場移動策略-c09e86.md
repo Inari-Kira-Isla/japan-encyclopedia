@@ -6,7 +6,7 @@ category: airport-transfer
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-airport-transfer-hokkaido-北海道機場交通冬季特別指南-雪國旅遊的機場移動策略-c09e86.html
 published: 2026-06-14
-quality_score: 7.5
+quality_score: 8.6
 tags: 北海道機場交通, 新千歲機場, 冬季北海道, JR千歲線, 機場巴士
 license: CC BY 4.0
 ---

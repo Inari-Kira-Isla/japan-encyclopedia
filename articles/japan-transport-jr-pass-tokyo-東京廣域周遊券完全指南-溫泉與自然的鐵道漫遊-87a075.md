@@ -6,7 +6,7 @@ category: jr-pass
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-jr-pass-tokyo-東京廣域周遊券完全指南-溫泉與自然的鐵道漫遊-87a075.html
 published: 2026-06-19
-quality_score: 7.5
+quality_score: 8.6
 tags: 東京溫泉, JR Pass, 關東溫泉, 河口湖溫泉, 草津溫泉
 license: CC BY 4.0
 ---

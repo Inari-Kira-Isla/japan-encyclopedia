@@ -6,7 +6,7 @@ category: shinkansen
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-kyoto-京都新幹綫到達指南-為何京都不是直達站-一次搞懂關西新幹綫的正確開啟方式-3fb129.html
 published: 2026-06-05
-quality_score: 6.5
+quality_score: 8.0
 tags: 京都, 新幹綫, 關西, 交通攻略, 日本鐵路
 license: CC BY 4.0
 ---

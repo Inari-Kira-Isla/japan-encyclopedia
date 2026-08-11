@@ -6,7 +6,7 @@ category: pop-culture
 area: japan
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-pop-culture-東京秋葉原完整指南2026-電子街-動漫周邊-女僕咖啡-acg文化聖地費用-jpy-攻略-jp-tokyo-fe5861.html
 published: 2026-04-19
-quality_score: 7.6
+quality_score: 8.4
 tags: 秋葉原, 動漫手辦, 女僕咖啡, 電子街, ACG文化
 license: CC BY 4.0
 ---

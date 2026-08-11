@@ -6,7 +6,7 @@ category: ryokan
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-kyoto-京料理宿-品味千年古都的-食-之美學-a2c9dd.html
 published: 2026-06-17
-quality_score: 6.5
+quality_score: 8.7
 tags: 京都, Ryokan, 京料理, 傳統旅館, 日本料理
 license: CC BY 4.0
 ---

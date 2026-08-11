@@ -6,7 +6,7 @@ category: department-stores
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-department-stores-sendai-仙台購物完全指南-依據你的身份選擇最佳百貨公司的方法-e5d3d2.html
 published: 2026-06-04
-quality_score: 7.5
+quality_score: 8.6
 tags: 仙台購物, 東北伴手禮, 日本百貨公司, 仙台自由行, 東北旅行攻略
 license: CC BY 4.0
 ---

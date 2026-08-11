@@ -6,7 +6,7 @@ category: matcha-sweets
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-matcha-sweets-nara-奈良宇陀產地直送-茶農家的抹茶甜點推薦-d2e50c.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 8.6
 tags: 奈良抹茶甜點, 宇陀抹茶, 奈良美食, 日本抹茶, 奈良伴手禮
 license: CC BY 4.0
 ---

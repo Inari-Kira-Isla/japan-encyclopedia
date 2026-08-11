@@ -6,7 +6,7 @@ category: shinkansen
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-tokyo-東京的新幹線系統-從首都出發的高速鐵路網-c4858c.html
 published: 2026-06-01
-quality_score: 7.5
+quality_score: 8.6
 tags: 東京交通費, 新幹綫教學, JRPass攻略, 東京交通, 東京到大阪
 license: CC BY 4.0
 ---

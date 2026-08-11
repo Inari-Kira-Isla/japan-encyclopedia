@@ -6,7 +6,7 @@ category: electronics
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-electronics-fukuoka-福岡電子產品購物指南-從博多名物到專業玩家的電子天堂-8eee90.html
 published: 2026-06-18
-quality_score: 7.5
+quality_score: 8.5
 tags: 福岡電子產品, 九州3C購物, 天神電器, 博多商圈, 日本電子產品
 license: CC BY 4.0
 ---

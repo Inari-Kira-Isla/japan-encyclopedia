@@ -6,7 +6,7 @@ category: ryokan
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-hokkaido-北海道秘湯宿-東北海道偏鄉溫泉路的極致泡湯美學-4cd42d.html
 published: 2026-06-19
-quality_score: 6.5
+quality_score: 8.4
 tags: 北海道秘湯, 東北海道溫泉, Ryokan, 秘湯宿, 強鹼性溫泉
 license: CC BY 4.0
 ---

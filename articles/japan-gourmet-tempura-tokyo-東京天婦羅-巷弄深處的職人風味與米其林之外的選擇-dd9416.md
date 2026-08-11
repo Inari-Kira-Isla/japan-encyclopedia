@@ -6,7 +6,7 @@ category: tempura
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tempura-tokyo-東京天婦羅-巷弄深處的職人風味與米其林之外的選擇-dd9416.html
 published: 2026-05-24
-quality_score: 6.5
+quality_score: 8.9
 tags: 東京天婦羅, 江戸前, 淺草橋, 人形町, Tabelog
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: temples-shrines
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-temples-shrines-hokkaido-北海道神社寺院與雪共存的生活方式-嚴寒季節的參拜智慧與千年古湯的秘密-4de0fa.html
 published: 2026-05-23
-quality_score: 6.5
+quality_score: 8.5
 tags: 北海道神社, 北海道寺院, 冬季參拜, 阿伊努文化, 自然靈性
 license: CC BY 4.0
 ---

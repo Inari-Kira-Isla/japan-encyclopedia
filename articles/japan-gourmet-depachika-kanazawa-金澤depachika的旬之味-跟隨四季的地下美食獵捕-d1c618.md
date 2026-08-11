@@ -6,7 +6,7 @@ category: depachika
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-depachika-kanazawa-金澤depachika的旬之味-跟隨四季的地下美食獵捕-d1c618.html
 published: 2026-06-30
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤Depachika, 金澤美食, 金澤伴手禮, 加賀野菜, 能登海鮮
 license: CC BY 4.0
 ---

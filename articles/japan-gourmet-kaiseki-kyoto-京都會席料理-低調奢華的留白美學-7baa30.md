@@ -6,7 +6,7 @@ category: kaiseki
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-kaiseki-kyoto-京都會席料理-低調奢華的留白美學-7baa30.html
 published: 2026-06-23
-quality_score: 6.5
+quality_score: 8.9
 tags: 京都會席料理, 京野菜, 關西美食, 日本料理, 懷石
 license: CC BY 4.0
 ---

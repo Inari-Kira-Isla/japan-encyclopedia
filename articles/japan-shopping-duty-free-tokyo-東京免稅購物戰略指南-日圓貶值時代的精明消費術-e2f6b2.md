@@ -6,7 +6,7 @@ category: duty-free
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-duty-free-tokyo-東京免稅購物戰略指南-日圓貶值時代的精明消費術-e2f6b2.html
 published: 2026-04-03
-quality_score: 7.5
+quality_score: 8.7
 tags: 東京購物, 免稅店, 日圓貶值, 省錢攻略, 比價策略
 license: CC BY 4.0
 ---

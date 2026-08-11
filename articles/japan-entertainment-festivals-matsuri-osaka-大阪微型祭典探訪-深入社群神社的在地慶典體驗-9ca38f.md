@@ -6,7 +6,7 @@ category: festivals-matsuri
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-festivals-matsuri-osaka-大阪微型祭典探訪-深入社群神社的在地慶典體驗-9ca38f.html
 published: 2026-05-22
-quality_score: 6.5
+quality_score: 8.5
 tags: 大阪祭典, 微型祭典, 在地体验, 关西祭典, 神社参拜
 license: CC BY 4.0
 ---

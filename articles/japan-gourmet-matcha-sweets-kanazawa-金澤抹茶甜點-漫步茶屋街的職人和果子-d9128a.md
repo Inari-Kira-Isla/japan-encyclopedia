@@ -6,7 +6,7 @@ category: matcha-sweets
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-matcha-sweets-kanazawa-金澤抹茶甜點-漫步茶屋街的職人和果子-d9128a.html
 published: 2026-05-24
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤抹茶甜點, 加賀百萬石, 金澤和果子, 金箔甜點, 石川縣美食
 license: CC BY 4.0
 ---

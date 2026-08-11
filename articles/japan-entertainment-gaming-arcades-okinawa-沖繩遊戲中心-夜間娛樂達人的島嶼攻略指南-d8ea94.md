@@ -6,7 +6,7 @@ category: gaming-arcades
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-gaming-arcades-okinawa-沖繩遊戲中心-夜間娛樂達人的島嶼攻略指南-d8ea94.html
 published: 2026-05-24
-quality_score: 6.5
+quality_score: 8.8
 tags: 沖繩遊戲中心, 沖繩夜生活, 密室逃脫, 那霸娛樂, 家庭出遊
 license: CC BY 4.0
 ---

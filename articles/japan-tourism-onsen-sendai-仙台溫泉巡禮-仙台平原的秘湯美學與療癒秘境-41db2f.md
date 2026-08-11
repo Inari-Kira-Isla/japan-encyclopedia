@@ -6,7 +6,7 @@ category: onsen
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-onsen-sendai-仙台溫泉巡禮-仙台平原的秘湯美學與療癒秘境-41db2f.html
 published: 2026-07-03
-quality_score: 6.5
+quality_score: 8.9
 tags: 仙台溫泉, 東北溫泉, 日本溫泉, 作並溫泉, 秋保溫泉
 license: CC BY 4.0
 ---

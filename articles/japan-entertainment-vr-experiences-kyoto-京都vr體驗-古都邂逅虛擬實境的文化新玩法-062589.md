@@ -6,7 +6,7 @@ category: vr-experiences
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-vr-experiences-kyoto-京都vr體驗-古都邂逅虛擬實境的文化新玩法-062589.html
 published: 2026-03-29
-quality_score: 6.5
+quality_score: 8.8
 tags: 京都VR, 虛擬實境, 文化體驗, 科技旅遊, 關西娛樂
 license: CC BY 4.0
 ---

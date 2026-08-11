@@ -6,7 +6,7 @@ category: temple-stays
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-temple-stays-osaka-大阪寺院住宿-作為關西山寺巡禮的起點-d59d00.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 8.5
 tags: 大阪住宿, 寺院住宿, 關西旅遊, 高野山, 宿坊體驗
 license: CC BY 4.0
 ---

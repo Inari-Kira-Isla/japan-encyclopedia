@@ -6,7 +6,7 @@ category: day-trips
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-okinawa-沖繩北部農業一日遊-走進亞熱帶果園與在地食堂的慢活提案-a12978.html
 published: 2026-06-05
-quality_score: 6.5
+quality_score: 8.6
 tags: 沖繩一日遊, 北部農業體驗, 亞熱帶美食,  Okinawa Day Trip, 農產品直売所
 license: CC BY 4.0
 ---

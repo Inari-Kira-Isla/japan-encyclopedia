@@ -6,7 +6,7 @@ category: ramen-culture
 area: japan
 url: https://japan-encyclopedia.vercel.app/articles/japan-dining-ramen-culture-日本全國拉麵地圖完整指南2026-博多豚骨-札幌味噌-東京醬油-京都背脂-各地拉麵費用-jpy-攻略-jp-b20a28.html
 published: 2026-03-29
-quality_score: 7.6
+quality_score: 8.5
 tags: 日本拉麵, 博多豚骨, 札幌味噌拉麵, 東京拉麵, 日本美食
 license: CC BY 4.0
 ---

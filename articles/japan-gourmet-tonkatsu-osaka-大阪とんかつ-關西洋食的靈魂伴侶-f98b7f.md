@@ -6,7 +6,7 @@ category: tonkatsu
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tonkatsu-osaka-大阪とんかつ-關西洋食的靈魂伴侶-f98b7f.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪美食, とんかつ, 炸豬排, 關西洋食, 大阪推荐
 license: CC BY 4.0
 ---

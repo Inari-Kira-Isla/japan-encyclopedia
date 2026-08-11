@@ -6,7 +6,7 @@ category: festivals-matsuri
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-festivals-matsuri-kyoto-京都隱藏版祭典-當地人才知道的古都慶典之旅-72cb10.html
 published: 2026-05-23
-quality_score: 6.5
+quality_score: 7.7
 tags: 京都祭典, 日本祭典, 京都文化, 隱藏版景點, 在地體驗
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: ryokan
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-nagoya-名古屋美食旅館體驗指南-品嚐中部料理精髓的和式住宿-6ff30c.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 名古屋旅館, 美食體驗, 一泊二食, 八丁味噌, 傳統料理
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: theme-parks
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-theme-parks-fukuoka-福岡體驗型休閒設施推薦-非傳統主題樂園的玩樂新選擇-0e57d2.html
 published: 2026-07-06
-quality_score: 6.5
+quality_score: 8.8
 tags: 福岡主題樂園, 福岡體驗設施, 福岡卡丁車, 九州鐵道紀念館, 福岡遊戲中心
 license: CC BY 4.0
 ---

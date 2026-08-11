@@ -6,7 +6,7 @@ category: ramen
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-ramen-fukuoka-福岡拉麵-屋臺夜市的人情滋味與港都食材生態-9e364a.html
 published: 2026-03-24
-quality_score: 6.5
+quality_score: 8.7
 tags: 福岡美食, 屋台文化, 九州拉麵, 港都飲食, 日本夜市
 license: CC BY 4.0
 ---

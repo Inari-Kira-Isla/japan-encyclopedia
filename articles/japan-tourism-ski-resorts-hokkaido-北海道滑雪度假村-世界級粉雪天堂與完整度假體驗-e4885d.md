@@ -6,7 +6,7 @@ category: ski-resorts
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-ski-resorts-hokkaido-北海道滑雪度假村-世界級粉雪天堂與完整度假體驗-e4885d.html
 published: 2026-03-28
-quality_score: 6.5
+quality_score: 8.8
 tags: 北海道, 滑雪, 粉雪, 度假村, 冬季運動
 license: CC BY 4.0
 ---

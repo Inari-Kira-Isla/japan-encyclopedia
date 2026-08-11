@@ -6,7 +6,7 @@ category: electronics
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-electronics-nagoya-名古屋電子產品購物指南-中部科技之都的隱藏版電器寶庫-fc301a.html
 published: 2026-05-31
-quality_score: 7.5
+quality_score: 8.5
 tags: 名古屋電子產品, 中部國際空港, 免稅購物, 日本電器行, 二手電子產品
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: sushi
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sushi-kanazawa-金澤壽司-日本海鮮味的季節交響曲-bbb188.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤美食, 北陸壽司, 日本海海鮮, 季節料理, 能登半島
 license: CC BY 4.0
 ---

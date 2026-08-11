@@ -6,7 +6,7 @@ category: street-food
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-street-food-hokkaido-北海道街頭美食-漁港直送的即時鮮味-2e75ec.html
 published: 2026-05-25
-quality_score: 6.5
+quality_score: 8.6
 tags: 北海道, 小樽, 函馆, 钏路, 街頭美食
 license: CC BY 4.0
 ---

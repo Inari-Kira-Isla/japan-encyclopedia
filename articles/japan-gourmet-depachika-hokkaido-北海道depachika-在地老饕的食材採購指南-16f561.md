@@ -6,7 +6,7 @@ category: depachika
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-depachika-hokkaido-北海道depachika-在地老饕的食材採購指南-16f561.html
 published: 2026-05-22
-quality_score: 6.5
+quality_score: 8.9
 tags: 北海道, Depachika, 食材採購, 日本美食, 自助旅遊
 license: CC BY 4.0
 ---

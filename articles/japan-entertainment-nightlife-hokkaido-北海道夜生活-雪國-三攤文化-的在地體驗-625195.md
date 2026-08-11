@@ -6,7 +6,7 @@ category: nightlife
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-hokkaido-北海道夜生活-雪國-三攤文化-的在地體驗-625195.html
 published: 2026-06-30
-quality_score: 6.5
+quality_score: 8.8
 tags: 北海道夜生活, 三攤文化, 札幌站周邊, 円山酒吧, 螃蟹料理
 license: CC BY 4.0
 ---

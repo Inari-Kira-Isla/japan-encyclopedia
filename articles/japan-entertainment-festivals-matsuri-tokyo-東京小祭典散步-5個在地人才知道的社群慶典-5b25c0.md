@@ -6,7 +6,7 @@ category: festivals-matsuri
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-festivals-matsuri-tokyo-東京小祭典散步-5個在地人才知道的社群慶典-5b25c0.html
 published: 2026-06-22
-quality_score: 6.5
+quality_score: 8.6
 tags: 東京祭典, 東京自由行, 下北澤, 巢鴨, 吉祥寺
 license: CC BY 4.0
 ---

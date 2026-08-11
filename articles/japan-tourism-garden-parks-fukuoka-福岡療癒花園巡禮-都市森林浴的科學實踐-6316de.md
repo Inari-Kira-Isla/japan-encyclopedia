@@ -6,7 +6,7 @@ category: garden-parks
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-fukuoka-福岡療癒花園巡禮-都市森林浴的科學實踐-6316de.html
 published: 2026-04-02
-quality_score: 6.5
+quality_score: 8.9
 tags: 福岡, 森林浴, 療癒旅遊, 都市公園, 壓力釋放
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: regional-guide
 area: japan
 url: https://japan-encyclopedia.vercel.app/articles/japan-attractions-regional-guide-廣島和宮島完整旅遊指南2026-廣島和平紀念公園-嚴島神社鳥居-廣島燒-西日本旅遊攻略-jpy-dfa846.html
 published: 2026-03-29
-quality_score: 7.6
+quality_score: 8.4
 tags: 廣島旅遊, 宮島嚴島神社, 廣島和平紀念館, 廣島燒, 原爆圓頂館
 license: CC BY 4.0
 ---

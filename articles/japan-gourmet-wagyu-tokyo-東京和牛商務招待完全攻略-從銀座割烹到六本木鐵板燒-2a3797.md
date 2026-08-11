@@ -6,7 +6,7 @@ category: wagyu
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-wagyu-tokyo-東京和牛商務招待完全攻略-從銀座割烹到六本木鐵板燒-2a3797.html
 published: 2026-04-04
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京和牛, 商務招待, 日本美食, 高端餐廳, 銀座美食
 license: CC BY 4.0
 ---

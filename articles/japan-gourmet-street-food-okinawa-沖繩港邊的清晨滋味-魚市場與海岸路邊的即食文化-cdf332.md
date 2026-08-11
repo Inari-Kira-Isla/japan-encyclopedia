@@ -6,7 +6,7 @@ category: street-food
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-street-food-okinawa-沖繩港邊的清晨滋味-魚市場與海岸路邊的即食文化-cdf332.html
 published: 2026-06-14
-quality_score: 6.5
+quality_score: 8.7
 tags: 沖繩, 街頭美食, 魚市場, 亞熱帶, 黑潮
 license: CC BY 4.0
 ---

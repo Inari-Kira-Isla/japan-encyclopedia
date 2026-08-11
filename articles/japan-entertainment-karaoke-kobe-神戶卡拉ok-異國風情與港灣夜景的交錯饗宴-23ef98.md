@@ -6,7 +6,7 @@ category: karaoke
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-karaoke-kobe-神戶卡拉ok-異國風情與港灣夜景的交錯饗宴-23ef98.html
 published: 2026-06-04
-quality_score: 6.5
+quality_score: 8.7
 tags: 神戶卡拉OK, 關西娛樂, 港都夜景, 異國風情, 神戶自由行
 license: CC BY 4.0
 ---

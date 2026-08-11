@@ -6,7 +6,7 @@ category: historical-districts
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-nagoya-名古屋歷史街區-散步時光中的江戶至今-漫步在最濃厚的城下町風情裡-0796b6.html
 published: 2026-06-18
-quality_score: 6.5
+quality_score: 8.5
 tags: 名古屋歷史街區, 日本古城散步, 中川運河, 筒井町, 則武燒
 license: CC BY 4.0
 ---

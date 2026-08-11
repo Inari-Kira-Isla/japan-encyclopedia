@@ -6,7 +6,7 @@ category: anime-manga
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-osaka-大阪漫畫創作搖籃-從地下室到殿堂的創作者之路-4164d2.html
 published: 2026-06-29
-quality_score: 6.5
+quality_score: 8.6
 tags: 大阪動漫, 漫畫創作, 關西文化, 漫才, 同人誌
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: depachika
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-depachika-kyoto-京都-depachika-祭祀與日常的食事界線-b21064.html
 published: 2026-06-03
-quality_score: 6.5
+quality_score: 8.8
 tags: 京都Depachika, 京都美食, 日本地下美食街, 京料理, 京都伴手禮
 license: CC BY 4.0
 ---

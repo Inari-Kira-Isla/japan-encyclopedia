@@ -6,7 +6,7 @@ category: electronics
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-electronics-nagoya-名古屋電子產品購物指南-汽車電子天堂與工業城市機能商店完全攻略-0eaba4.html
 published: 2026-06-01
-quality_score: 7.5
+quality_score: 8.6
 tags: 名古屋電子產品, 車用電子, Car Audio, 導航系統, 行車記錄器
 license: CC BY 4.0
 ---

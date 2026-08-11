@@ -6,7 +6,7 @@ category: vr-experiences
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-vr-experiences-okinawa-沖繩vr體驗-科技娛樂的島嶼新玩法-3362cb.html
 published: 2026-06-30
-quality_score: 6.5
+quality_score: 8.7
 tags: 沖繩VR, 沖繩室內活動, 沖繩親子, 那霸VR體驗, 沖繩雨天備案
 license: CC BY 4.0
 ---

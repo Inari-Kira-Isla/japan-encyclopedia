@@ -6,7 +6,7 @@ category: historical-districts
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-okinawa-沖繩歷史街區的建築解密-琉球紅瓦與美式水泥的對話-85078a.html
 published: 2026-06-28
-quality_score: 6.5
+quality_score: 8.6
 tags: 沖繩歷史街區, 琉球建築, 首里城, 美軍基地, 建築美學
 license: CC BY 4.0
 ---

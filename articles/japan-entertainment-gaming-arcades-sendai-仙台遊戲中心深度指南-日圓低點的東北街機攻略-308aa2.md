@@ -6,7 +6,7 @@ category: gaming-arcades
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-gaming-arcades-sendai-仙台遊戲中心深度指南-日圓低點的東北街機攻略-308aa2.html
 published: 2026-07-02
-quality_score: 6.5
+quality_score: 8.8
 tags: 仙台, 遊戲中心, 街機, 日本東北, 日圓貶值
 license: CC BY 4.0
 ---

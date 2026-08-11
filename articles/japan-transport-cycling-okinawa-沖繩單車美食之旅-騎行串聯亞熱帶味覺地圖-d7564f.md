@@ -6,7 +6,7 @@ category: cycling
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-okinawa-沖繩單車美食之旅-騎行串聯亞熱帶味覺地圖-d7564f.html
 published: 2026-06-24
-quality_score: 7.5
+quality_score: 8.8
 tags: 沖繩單車,  Okinawa Cycling , 沖繩美食, 沖繩自由行, 單車旅行
 license: CC BY 4.0
 ---

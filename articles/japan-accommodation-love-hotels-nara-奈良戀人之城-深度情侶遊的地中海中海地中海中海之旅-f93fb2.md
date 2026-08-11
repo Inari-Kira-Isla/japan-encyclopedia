@@ -6,7 +6,7 @@ category: love-hotels
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-love-hotels-nara-奈良戀人之城-深度情侶遊的地中海中海地中海中海之旅-f93fb2.html
 published: 2026-05-22
-quality_score: 6.5
+quality_score: 8.7
 tags: 奈良戀人住宿, 奈良Love Hotels, 奈良情侶旅行, 奈良隱密住宿, 關西秘密約會
 license: CC BY 4.0
 ---

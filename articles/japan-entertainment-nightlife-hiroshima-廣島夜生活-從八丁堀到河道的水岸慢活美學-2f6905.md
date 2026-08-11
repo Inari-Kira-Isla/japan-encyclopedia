@@ -6,7 +6,7 @@ category: nightlife
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-hiroshima-廣島夜生活-從八丁堀到河道的水岸慢活美學-2f6905.html
 published: 2026-07-05
-quality_score: 6.5
+quality_score: 8.8
 tags: 廣島夜生活, 八丁堀, 廣島燒, 日本夜生活, 廣島美食
 license: CC BY 4.0
 ---

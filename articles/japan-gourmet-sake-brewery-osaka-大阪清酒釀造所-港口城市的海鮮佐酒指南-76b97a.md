@@ -6,7 +6,7 @@ category: sake-brewery
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sake-brewery-osaka-大阪清酒釀造所-港口城市的海鮮佐酒指南-76b97a.html
 published: 2026-03-24
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪, 清酒, 釀造所, 海鮮, 美食
 license: CC BY 4.0
 ---

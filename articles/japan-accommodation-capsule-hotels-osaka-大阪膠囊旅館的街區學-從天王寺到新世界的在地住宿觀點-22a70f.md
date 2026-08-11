@@ -6,7 +6,7 @@ category: capsule-hotels
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-capsule-hotels-osaka-大阪膠囊旅館的街區學-從天王寺到新世界的在地住宿觀點-22a70f.html
 published: 2026-05-25
-quality_score: 6.5
+quality_score: 8.6
 tags: 大阪膠囊旅館, 大阪住宿推薦, 天王寺膠囊, 新世界住宿, 日本膠囊住宿指南
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: 100-yen-shops
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-100-yen-shops-osaka-大阪100日圓店完全指南-關西美食之都的平價廚房天堂-91f1cf.html
 published: 2026-04-04
-quality_score: 7.5
+quality_score: 8.7
 tags: 大阪購物, 100日圓店, 廚房用品, 平價購物, 關西美食
 license: CC BY 4.0
 ---

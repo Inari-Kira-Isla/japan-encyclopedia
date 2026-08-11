@@ -6,7 +6,7 @@ category: kaiseki
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-kaiseki-nagoya-名古屋會席料理-商都機能美學的食飲對話-aa84f6.html
 published: 2026-06-28
-quality_score: 6.5
+quality_score: 8.3
 tags: 名古屋美食, 會席料理, 日本料理, 商都文化, 中部日本
 license: CC BY 4.0
 ---

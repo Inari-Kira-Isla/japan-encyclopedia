@@ -6,7 +6,7 @@ category: souvenir-omiyage
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-souvenir-omiyage-sendai-仙台仲卸市場與臨海魚港-海產直送的在地購物體驗-f880bb.html
 published: 2026-06-03
-quality_score: 7.5
+quality_score: 8.7
 tags: 仙台伴手禮, 海產直売所, 港口市場, 日本東北購物, 仙台魚市場
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: udon-soba
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-udon-soba-nara-奈良的烏龍麵與蕎麥麵-古都周邊的麵食文化探索-cee2c0.html
 published: 2026-05-25
-quality_score: 6.5
+quality_score: 8.6
 tags: 奈良美食, 烏龍麵, 蕎麥麵, 日本古都, 麵食文化
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: rental-cars
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-kobe-神戶租車美食攻略-自駕尋找關西極致味覺體驗-ada84a.html
 published: 2026-07-06
-quality_score: 7.5
+quality_score: 8.8
 tags: 神戶租車, 神戶美食, 關西自駕, 神戶牛, 丹波筱山
 license: CC BY 4.0
 ---

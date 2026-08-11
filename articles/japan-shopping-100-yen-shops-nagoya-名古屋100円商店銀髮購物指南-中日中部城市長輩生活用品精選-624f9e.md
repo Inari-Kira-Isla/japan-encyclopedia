@@ -6,7 +6,7 @@ category: 100-yen-shops
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-100-yen-shops-nagoya-名古屋100円商店銀髮購物指南-中日中部城市長輩生活用品精選-624f9e.html
 published: 2026-06-07
-quality_score: 7.5
+quality_score: 8.7
 tags: 名古屋, 100円商店, 銀髮族, 購物指南, 日本中部
 license: CC BY 4.0
 ---

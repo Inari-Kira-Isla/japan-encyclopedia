@@ -6,7 +6,7 @@ category: matcha-sweets
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-matcha-sweets-okinawa-沖繩抹茶甜品-亞熱帶島嶼的清涼和風甘味-d2faae.html
 published: 2026-06-18
-quality_score: 6.5
+quality_score: 8.9
 tags: 沖繩, 抹茶甜點, 亞熱帶, 日本甜品, 那霸
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: wagyu
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-wagyu-fukuoka-福岡和牛採購指南-從市場到專賣店的在地人的肉舖探索-97fb23.html
 published: 2026-06-05
-quality_score: 6.5
+quality_score: 8.5
 tags: 福岡和牛, 精肉店, 市場食堂, 和牛採購, 九州美食
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: kabuki-theatre
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-kabuki-theatre-tokyo-東京kabuki劇場-新手入門首選的沉浸式傳統藝術體驗-e341c6.html
 published: 2026-06-04
-quality_score: 6.5
+quality_score: 8.9
 tags: 東京Kabuki, Kabuki入門, 東京表演藝術, 新手體驗, 浅ical
 license: CC BY 4.0
 ---

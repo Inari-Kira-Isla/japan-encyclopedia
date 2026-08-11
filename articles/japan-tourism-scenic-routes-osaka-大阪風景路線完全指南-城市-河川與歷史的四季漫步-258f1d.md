@@ -6,7 +6,7 @@ category: scenic-routes
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-osaka-大阪風景路線完全指南-城市-河川與歷史的四季漫步-258f1d.html
 published: 2026-03-20
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪風景, 風景路線, 櫻花, 楓葉, 自行車道
 license: CC BY 4.0
 ---

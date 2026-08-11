@@ -6,7 +6,7 @@ category: ferries
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-ferries-kobe-神戶渡輪交通全攻略-瀨戶內海東部門戶的海上機動線-8e1832.html
 published: 2026-06-08
-quality_score: 7.5
+quality_score: 7.1
 tags: 神戶, 渡輪, 瀨戶內海, 直島, 小豆島
 license: CC BY 4.0
 ---

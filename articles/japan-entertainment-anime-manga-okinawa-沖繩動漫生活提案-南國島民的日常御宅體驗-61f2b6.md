@@ -6,7 +6,7 @@ category: anime-manga
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-okinawa-沖繩動漫生活提案-南國島民的日常御宅體驗-61f2b6.html
 published: 2026-06-02
-quality_score: 6.5
+quality_score: 8.5
 tags: \u6c96\u6e80\u52d5\u6f2b, \u6c96\u6e80\u66a8\u5237\u66f8\u5e97, \u65e5\u672c\u52d5\u6f2b, \u6c96\u6e80\u65c5\u904a, \u6c96\u6e80\u793e\u5718
 license: CC BY 4.0
 ---

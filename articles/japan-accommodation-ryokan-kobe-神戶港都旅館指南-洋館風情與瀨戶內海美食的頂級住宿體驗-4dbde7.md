@@ -6,7 +6,7 @@ category: ryokan
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-kobe-神戶港都旅館指南-洋館風情與瀨戶內海美食的頂級住宿體驗-4dbde7.html
 published: 2026-04-06
-quality_score: 6.5
+quality_score: 8.7
 tags: 神戶旅館, 港都住宿, 瀨戶內海美食, 洋館風情, 神戶牛肉
 license: CC BY 4.0
 ---

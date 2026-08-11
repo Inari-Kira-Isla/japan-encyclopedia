@@ -6,7 +6,7 @@ category: cycling
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-osaka-大阪水都騎行-沿著運河與川流探索關西水岸風情-bce1a4.html
 published: 2026-07-05
-quality_score: 7.5
+quality_score: 8.7
 tags: 大阪單車, 大阪骑行, 水都大阪, 關西單車, 大阪運河
 license: CC BY 4.0
 ---

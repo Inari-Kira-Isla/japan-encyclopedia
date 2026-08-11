@@ -6,7 +6,7 @@ category: duty-free
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-duty-free-hokkaido-北海道食材免稅購物攻略-海膽帝王蟹帶回家-市區機場這樣買最划算-8a20df.html
 published: 2026-06-14
-quality_score: 7.5
+quality_score: 8.4
 tags: 北海道免稅店, 北海道購物, 新千歲機場, 札幌免稅, 北海道伴手禮
 license: CC BY 4.0
 ---

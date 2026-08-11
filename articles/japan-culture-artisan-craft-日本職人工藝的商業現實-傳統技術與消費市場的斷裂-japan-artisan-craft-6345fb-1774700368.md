@@ -6,7 +6,7 @@ category: artisan-craft
 area: japan
 url: https://japan-encyclopedia.vercel.app/articles/japan-culture-artisan-craft-日本職人工藝的商業現實-傳統技術與消費市場的斷裂-japan-artisan-craft-6345fb-1774700368.html
 published: 2026-03-28
-quality_score: 7.6
+quality_score: 8.1
 tags: 日本職人, 工藝品, 西陣織, 備前燒, 江戶切子
 license: CC BY 4.0
 ---

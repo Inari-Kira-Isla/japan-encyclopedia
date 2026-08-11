@@ -6,7 +6,7 @@ category: kaiseki
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-kaiseki-kobe-神戶懷石與灘之酒的極致對話-a38375.html
 published: 2026-06-08
-quality_score: 6.5
+quality_score: 8.7
 tags: 神戶懷石, 灘酒, 清酒搭配, 神戶美食, 關西料理
 license: CC BY 4.0
 ---

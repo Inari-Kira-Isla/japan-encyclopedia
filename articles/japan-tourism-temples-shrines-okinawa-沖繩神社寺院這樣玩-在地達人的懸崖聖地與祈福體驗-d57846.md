@@ -6,7 +6,7 @@ category: temples-shrines
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-temples-shrines-okinawa-沖繩神社寺院這樣玩-在地達人的懸崖聖地與祈福體驗-d57846.html
 published: 2026-06-20
-quality_score: 6.5
+quality_score: 8.8
 tags: 沖繩神社, 沖繩寺院, 日本宗教建築, 御嶽信仰, 琉球文化
 license: CC BY 4.0
 ---

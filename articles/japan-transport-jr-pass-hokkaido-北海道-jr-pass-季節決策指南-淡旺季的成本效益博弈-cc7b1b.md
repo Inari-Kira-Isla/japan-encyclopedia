@@ -6,7 +6,7 @@ category: jr-pass
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-jr-pass-hokkaido-北海道-jr-pass-季節決策指南-淡旺季的成本效益博弈-cc7b1b.html
 published: 2026-03-24
-quality_score: 7.5
+quality_score: 8.5
 tags: 北海道, JR Pass, 鐵路周遊券, 季節旅遊, 成本效益
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: island-hopping
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-island-hopping-okinawa-沖繩-island-hopping-夕陽-星空與時間靜止的隱藏島嶼-d5878f.html
 published: 2026-06-21
-quality_score: 6.5
+quality_score: 8.6
 tags: 沖繩跳島, 隱藏版島嶼, 津堅島, 渡敷藍島, 平安座島
 license: CC BY 4.0
 ---

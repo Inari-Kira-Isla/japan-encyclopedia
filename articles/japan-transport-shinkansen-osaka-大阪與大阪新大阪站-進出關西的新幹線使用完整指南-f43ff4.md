@@ -6,7 +6,7 @@ category: shinkansen
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-osaka-大阪與大阪新大阪站-進出關西的新幹線使用完整指南-f43ff4.html
 published: 2026-06-15
-quality_score: 7.5
+quality_score: 8.6
 tags: 大阪交通, 新大阪站, 關西鐵道, 日本鐵路, 自由行
 license: CC BY 4.0
 ---

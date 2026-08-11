@@ -6,7 +6,7 @@ category: tonkatsu
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tonkatsu-nagoya-名古屋豚カツ-工業城市的味噌炸彈-8f6258.html
 published: 2026-06-12
-quality_score: 6.5
+quality_score: 8.9
 tags: 名古屋美食, 豚カツ, 味噌醬汁, 名古屋推薦, 日本中部料理
 license: CC BY 4.0
 ---

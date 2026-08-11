@@ -6,7 +6,7 @@ category: street-food
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-street-food-osaka-大阪辦公區街頭美食-上班族的庶民胃袋-555db9.html
 published: 2026-06-02
-quality_score: 6.5
+quality_score: 8.6
 tags: 大阪美食, 街頭小吃, 關西食堂, 上班族, 庶民美食
 license: CC BY 4.0
 ---

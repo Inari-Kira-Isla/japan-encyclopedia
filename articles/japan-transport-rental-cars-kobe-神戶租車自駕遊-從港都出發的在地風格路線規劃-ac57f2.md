@@ -6,7 +6,7 @@ category: rental-cars
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-kobe-神戶租車自駕遊-從港都出發的在地風格路線規劃-ac57f2.html
 published: 2026-06-17
-quality_score: 7.5
+quality_score: 8.7
 tags: 神戶租車, 關西自駕, 神戶自由行, 六甲山自駕, 有馬溫泉
 license: CC BY 4.0
 ---

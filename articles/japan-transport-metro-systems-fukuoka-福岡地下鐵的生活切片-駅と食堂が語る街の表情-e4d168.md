@@ -6,7 +6,7 @@ category: metro-systems
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-fukuoka-福岡地下鐵的生活切片-駅と食堂が語る街の表情-e4d168.html
 published: 2026-06-27
-quality_score: 7.5
+quality_score: 8.7
 tags: 福岡地下鐵, 福岡交通, 博多地下鐵, 福岡機場線, 七隈線
 license: CC BY 4.0
 ---

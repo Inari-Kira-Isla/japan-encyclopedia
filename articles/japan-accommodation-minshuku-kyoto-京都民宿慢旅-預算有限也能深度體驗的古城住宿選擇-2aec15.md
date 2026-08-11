@@ -6,7 +6,7 @@ category: minshuku
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-kyoto-京都民宿慢旅-預算有限也能深度體驗的古城住宿選擇-2aec15.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 8.7
 tags: 京都民宿, 京都自由行, 京都住宿推薦, 京都背包旅行, 京都慢遊
 license: CC BY 4.0
 ---

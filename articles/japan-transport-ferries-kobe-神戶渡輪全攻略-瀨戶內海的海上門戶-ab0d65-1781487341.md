@@ -6,7 +6,7 @@ category: ferries
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-ferries-kobe-神戶渡輪全攻略-瀨戶內海的海上門戶-ab0d65-1781487341.html
 published: 2026-06-15
-quality_score: 7.5
+quality_score: 8.5
 tags: 神戶, 渡輪, 瀨戶內海, 跳島, 直島
 license: CC BY 4.0
 ---

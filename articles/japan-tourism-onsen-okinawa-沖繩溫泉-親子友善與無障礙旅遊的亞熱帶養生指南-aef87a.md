@@ -6,7 +6,7 @@ category: onsen
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-onsen-okinawa-沖繩溫泉-親子友善與無障礙旅遊的亞熱帶養生指南-aef87a.html
 published: 2026-06-27
-quality_score: 6.5
+quality_score: 8.7
 tags: 沖繩溫泉, 親子友善, 無障礙旅遊, 亞熱帶溫泉, 私人湯屋
 license: CC BY 4.0
 ---

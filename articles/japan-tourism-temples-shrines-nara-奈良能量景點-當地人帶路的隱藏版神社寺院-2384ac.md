@@ -6,7 +6,7 @@ category: temples-shrines
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-temples-shrines-nara-奈良能量景點-當地人帶路的隱藏版神社寺院-2384ac.html
 published: 2026-06-15
-quality_score: 6.5
+quality_score: 8.6
 tags: 奈良神社, 奈良寺院, 能量景點, 隱藏版景點, 關西深度旅遊
 license: CC BY 4.0
 ---

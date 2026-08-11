@@ -6,7 +6,7 @@ category: historical-districts
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-hokkaido-探索日本北海道的歷史街區-懷舊風情與文化深度之旅-324afb.html
 published: 2026-06-16
-quality_score: 6.5
+quality_score: 8.5
 tags: 北海道歷史街區, 函館灣區, 小樽運河, 札幌近代化, 江差町
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: metro-systems
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-osaka-大阪地鐵與都市生活-從通勤者視角解讀關西最複雜的交通網路-4b3675.html
 published: 2026-03-24
-quality_score: 7.5
+quality_score: 8.5
 tags: 大阪交通, 地鐵系統, 通勤指南, 本地生活, 關西交通網絡
 license: CC BY 4.0
 ---

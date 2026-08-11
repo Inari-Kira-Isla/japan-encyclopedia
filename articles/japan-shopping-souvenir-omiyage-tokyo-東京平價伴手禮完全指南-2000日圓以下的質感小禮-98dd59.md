@@ -6,7 +6,7 @@ category: souvenir-omiyage
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-souvenir-omiyage-tokyo-東京平價伴手禮完全指南-2000日圓以下的質感小禮-98dd59.html
 published: 2026-06-15
-quality_score: 7.5
+quality_score: 8.7
 tags: 東京伴手禮, 平價推薦, 千元日圓, 東京限定, 江戶切子
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: historical-districts
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-kanazawa-金澤歷史街區-穿越江戶時空的散步地圖-f3551e.html
 published: 2026-06-10
-quality_score: 6.5
+quality_score: 8.6
 tags: 金澤, 歷史街區, 日本古城, 江戶時代, 石川縣
 license: CC BY 4.0
 ---

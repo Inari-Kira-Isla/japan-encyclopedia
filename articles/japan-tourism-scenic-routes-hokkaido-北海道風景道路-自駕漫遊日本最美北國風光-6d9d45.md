@@ -6,7 +6,7 @@ category: scenic-routes
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-hokkaido-北海道風景道路-自駕漫遊日本最美北國風光-6d9d45.html
 published: 2026-03-14
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道, 風景道路, 自駕旅遊, 日本自助旅行, 大雪山
 license: CC BY 4.0
 ---

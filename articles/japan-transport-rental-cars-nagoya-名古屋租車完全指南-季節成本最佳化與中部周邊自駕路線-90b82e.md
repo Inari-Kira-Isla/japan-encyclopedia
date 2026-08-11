@@ -6,7 +6,7 @@ category: rental-cars
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-nagoya-名古屋租車完全指南-季節成本最佳化與中部周邊自駕路線-90b82e.html
 published: 2026-03-24
-quality_score: 7.5
+quality_score: 8.6
 tags: 名古屋, 租車, 自駕遊, 成本優化, 日本自助旅遊
 license: CC BY 4.0
 ---

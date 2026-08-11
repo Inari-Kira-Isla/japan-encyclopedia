@@ -6,7 +6,7 @@ category: minshuku
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-sendai-仙台民宿完整指南-自然探險與山嶽溫泉的住宿選擇-d4d7dd.html
 published: 2026-06-06
-quality_score: 6.5
+quality_score: 8.6
 tags: 仙台民宿, 東北溫泉, 藏王連峰, 山岳溫泉, 自然探險
 license: CC BY 4.0
 ---

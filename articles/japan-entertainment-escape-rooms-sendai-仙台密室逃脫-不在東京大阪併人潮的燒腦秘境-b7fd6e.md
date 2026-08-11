@@ -6,7 +6,7 @@ category: escape-rooms
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-escape-rooms-sendai-仙台密室逃脫-不在東京大阪併人潮的燒腦秘境-b7fd6e.html
 published: 2026-06-02
-quality_score: 6.5
+quality_score: 8.6
 tags: 仙台, 密室逃脫, 日本娛樂, 東北旅遊, 燒腦遊戲
 license: CC BY 4.0
 ---

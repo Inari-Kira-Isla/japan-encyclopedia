@@ -6,7 +6,7 @@ category: boutique-hotels
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-sendai-仙台精品住宿另類解讀-從建築語言到城市精神的質感棲居-117c02.html
 published: 2026-07-01
-quality_score: 6.5
+quality_score: 8.5
 tags: 仙台, 精品酒店, 東北住宿, 日本住宿, 建築美學
 license: CC BY 4.0
 ---

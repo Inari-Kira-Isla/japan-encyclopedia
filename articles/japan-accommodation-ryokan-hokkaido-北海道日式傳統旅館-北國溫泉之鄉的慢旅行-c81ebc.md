@@ -6,7 +6,7 @@ category: ryokan
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-hokkaido-北海道日式傳統旅館-北國溫泉之鄉的慢旅行-c81ebc.html
 published: 2026-03-15
-quality_score: 6.5
+quality_score: 8.5
 tags: 北海道, 溫泉, 日式傳統旅馆, Ryokan, 登別
 license: CC BY 4.0
 ---

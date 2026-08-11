@@ -6,7 +6,7 @@ category: 100-yen-shops
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-100-yen-shops-tokyo-東京100円商店達人指南-下北澤・自由が丘・清澄白河的家庭工藝與生活提案-5b5798.html
 published: 2026-06-06
-quality_score: 7.5
+quality_score: 8.5
 tags: 東京100円商店, 下北澤手作, 自由が丘收納, 清澄白河咖啡道具, 家庭式小店
 license: CC BY 4.0
 ---

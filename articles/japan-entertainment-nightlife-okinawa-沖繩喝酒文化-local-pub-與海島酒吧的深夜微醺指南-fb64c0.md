@@ -6,7 +6,7 @@ category: nightlife
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-okinawa-沖繩喝酒文化-local-pub-與海島酒吧的深夜微醺指南-fb64c0.html
 published: 2026-06-03
-quality_score: 6.5
+quality_score: 8.6
 tags: 沖繩夜生活, 沖繩喝酒, 那霸美食, 泡盛, 琉球料理
 license: CC BY 4.0
 ---

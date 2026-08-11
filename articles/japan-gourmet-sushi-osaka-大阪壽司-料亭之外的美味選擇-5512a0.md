@@ -6,7 +6,7 @@ category: sushi
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sushi-osaka-大阪壽司-料亭之外的美味選擇-5512a0.html
 published: 2026-06-13
-quality_score: 6.5
+quality_score: 8.8
 tags: 大阪壽司, 回転寿司, 大阪美食, 瀨戶內海, 壽司推薦
 license: CC BY 4.0
 ---

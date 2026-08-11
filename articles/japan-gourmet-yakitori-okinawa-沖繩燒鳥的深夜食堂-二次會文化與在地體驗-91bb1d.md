@@ -6,7 +6,7 @@ category: yakitori
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-yakitori-okinawa-沖繩燒鳥的深夜食堂-二次會文化與在地體驗-91bb1d.html
 published: 2026-06-23
-quality_score: 6.5
+quality_score: 8.7
 tags: 沖繩燒鳥, Okinawa Yakitori, 沖繩美食, 二次會文化, 日本燒鳥
 license: CC BY 4.0
 ---

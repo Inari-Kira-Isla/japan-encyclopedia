@@ -6,7 +6,7 @@ category: sake-brewery
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sake-brewery-hiroshima-廣島縣-s-sake-brewery-探索瀨戶內釀酒重鎮-33ce86.html
 published: 2026-06-02
-quality_score: 6.5
+quality_score: 8.7
 tags: 日本清酒, 廣島釀酒, 西条清酒, 日本三百名釀, 瀨戶內海美食
 license: CC BY 4.0
 ---

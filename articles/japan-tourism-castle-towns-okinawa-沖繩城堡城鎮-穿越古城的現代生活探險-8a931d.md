@@ -6,7 +6,7 @@ category: castle-towns
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-castle-towns-okinawa-沖繩城堡城鎮-穿越古城的現代生活探險-8a931d.html
 published: 2026-06-27
-quality_score: 6.5
+quality_score: 8.5
 tags: 沖繩城堡城鎮, 琉球王國, 首里城, 世界遺產, 古城探訪
 license: CC BY 4.0
 ---

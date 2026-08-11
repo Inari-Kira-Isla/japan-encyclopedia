@@ -6,7 +6,7 @@ category: izakaya
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-izakaya-fukuoka-福岡在地巷弄居酒屋-藥院與大濠區的隱藏版酒場-503769.html
 published: 2026-06-07
-quality_score: 6.5
+quality_score: 8.7
 tags: 福岡居酒屋, 藥院美食, 大濠周邊, 九州內臟燒烤, 博多吃法
 license: CC BY 4.0
 ---

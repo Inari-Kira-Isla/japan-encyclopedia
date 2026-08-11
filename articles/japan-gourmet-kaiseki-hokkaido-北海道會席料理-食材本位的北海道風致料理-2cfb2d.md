@@ -6,7 +6,7 @@ category: kaiseki
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-kaiseki-hokkaido-北海道會席料理-食材本位的北海道風致料理-2cfb2d.html
 published: 2026-06-22
-quality_score: 6.5
+quality_score: 8.6
 tags: 北海道美食, 會席料理, 札幌, 小樽, 海膽
 license: CC BY 4.0
 ---

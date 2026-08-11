@@ -6,7 +6,7 @@ category: theme-parks
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-theme-parks-nara-奈良小型遊樂設施與親子互動體驗-古都裡的悠哉玩樂時光-40310c.html
 published: 2026-06-08
-quality_score: 6.5
+quality_score: 8.5
 tags: 奈良主题乐园, 奈良亲子游, 奈良小旅行, 奈良游戏中心, 奈良家庭旅游
 license: CC BY 4.0
 ---

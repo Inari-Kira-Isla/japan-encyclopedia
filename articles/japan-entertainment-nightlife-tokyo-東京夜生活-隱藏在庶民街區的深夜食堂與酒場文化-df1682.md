@@ -6,7 +6,7 @@ category: nightlife
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-tokyo-東京夜生活-隱藏在庶民街區的深夜食堂與酒場文化-df1682.html
 published: 2026-06-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京夜生活, 庶民住宅區, 下北澤, 吉祥寺, 深夜食堂
 license: CC BY 4.0
 ---

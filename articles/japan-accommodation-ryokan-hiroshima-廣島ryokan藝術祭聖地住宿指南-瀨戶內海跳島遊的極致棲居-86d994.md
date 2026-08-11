@@ -6,7 +6,7 @@ category: ryokan
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-hiroshima-廣島ryokan藝術祭聖地住宿指南-瀨戶內海跳島遊的極致棲居-86d994.html
 published: 2026-06-05
-quality_score: 6.5
+quality_score: 8.5
 tags: 廣島住宿, 瀨戶內海, 藝術祭, 跳島遊, Ryokan
 license: CC BY 4.0
 ---

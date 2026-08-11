@@ -6,7 +6,7 @@ category: sumo
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-hiroshima-廣島相撲娛樂體驗-都市人的力士社交新玩法-b540dd.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 廣島娛樂, 相撲體驗, 日本文化, 社交活動, VR體驗
 license: CC BY 4.0
 ---

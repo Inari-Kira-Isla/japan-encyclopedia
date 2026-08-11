@@ -6,7 +6,7 @@ category: anime-manga
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-nara-奈良動漫文化這樣玩-古都巷弄裡的御宅知識補給站-757716.html
 published: 2026-06-21
-quality_score: 6.5
+quality_score: 8.8
 tags: 奈良動漫, 奈良漫畫, 關西動漫聖地, 古都動漫散步, 奈良自學資源
 license: CC BY 4.0
 ---

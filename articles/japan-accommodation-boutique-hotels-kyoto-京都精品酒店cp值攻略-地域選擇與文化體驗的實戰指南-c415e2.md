@@ -6,7 +6,7 @@ category: boutique-hotels
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-kyoto-京都精品酒店cp值攻略-地域選擇與文化體驗的實戰指南-c415e2.html
 published: 2026-03-24
-quality_score: 6.5
+quality_score: 8.7
 tags: 京都, 精品酒店, 町家, CP值分析, 日本旅遊
 license: CC BY 4.0
 ---

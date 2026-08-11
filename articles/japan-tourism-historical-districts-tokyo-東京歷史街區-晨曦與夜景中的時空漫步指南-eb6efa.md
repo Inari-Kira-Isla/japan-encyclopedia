@@ -6,7 +6,7 @@ category: historical-districts
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-tokyo-東京歷史街區-晨曦與夜景中的時空漫步指南-eb6efa.html
 published: 2026-06-28
-quality_score: 6.5
+quality_score: 8.5
 tags: 東京歷史街區, 下町散步, 淺草, 晨間東京, 東京深度遊
 license: CC BY 4.0
 ---

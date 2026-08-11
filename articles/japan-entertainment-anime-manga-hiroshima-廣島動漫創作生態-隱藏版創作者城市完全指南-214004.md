@@ -6,7 +6,7 @@ category: anime-manga
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-hiroshima-廣島動漫創作生態-隱藏版創作者城市完全指南-214004.html
 published: 2026-06-06
-quality_score: 6.5
+quality_score: 8.5
 tags: 廣島動漫, 廣島漫畫, 御宅文化, 創作之旅, 日本中四國
 license: CC BY 4.0
 ---

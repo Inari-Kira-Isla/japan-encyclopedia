@@ -6,7 +6,7 @@ category: metro-systems
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-kobe-神戶地下鐵的實用邏輯-從港口到山麓的順暢移動指南-c1decf.html
 published: 2026-07-06
-quality_score: 7.5
+quality_score: 8.8
 tags: 神戶地下鐵, 神戶交通, 神戶一日遊, 神戶自助旅行, 關西交通
 license: CC BY 4.0
 ---

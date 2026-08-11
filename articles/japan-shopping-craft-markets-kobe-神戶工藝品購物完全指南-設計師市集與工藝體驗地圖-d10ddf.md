@@ -6,7 +6,7 @@ category: craft-markets
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-craft-markets-kobe-神戶工藝品購物完全指南-設計師市集與工藝體驗地圖-d10ddf.html
 published: 2026-03-22
-quality_score: 7.5
+quality_score: 8.7
 tags: 神戶, 工藝品購物, 設計師市集, 日本購物指南, 手工藝體驗
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: depachika
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-depachika-fukuoka-福岡depachika不完全攻略-天神-博多深度在地吃透透-7aaef8.html
 published: 2026-06-11
-quality_score: 6.5
+quality_score: 8.7
 tags: 福岡Depachika, 九州美食, 天神地下食品, 博多明太子, 一目均衡
 license: CC BY 4.0
 ---

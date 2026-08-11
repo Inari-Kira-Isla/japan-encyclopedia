@@ -6,7 +6,7 @@ category: ramen
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-ramen-hokkaido-北海道拉麵的海味秘密-從根室海峽到札幌碗中的極品海鮮拉麵-ac31ef.html
 published: 2026-05-23
-quality_score: 6.5
+quality_score: 8.3
 tags: 北海道拉麵, 札幌美食, 海膽拉麵, 帆立貝, 日本拉麵
 license: CC BY 4.0
 ---

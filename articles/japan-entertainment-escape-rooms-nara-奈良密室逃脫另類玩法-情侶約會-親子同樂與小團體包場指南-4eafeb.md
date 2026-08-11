@@ -6,7 +6,7 @@ category: escape-rooms
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-escape-rooms-nara-奈良密室逃脫另類玩法-情侶約會-親子同樂與小團體包場指南-4eafeb.html
 published: 2026-07-04
-quality_score: 6.5
+quality_score: 8.7
 tags: 奈良密室逃脫, 奈良親子活動, 奈良情侶約會, 奈良景點, 關西密室
 license: CC BY 4.0
 ---

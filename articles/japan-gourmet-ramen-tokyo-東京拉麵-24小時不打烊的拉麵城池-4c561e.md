@@ -6,7 +6,7 @@ category: ramen
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-ramen-tokyo-東京拉麵-24小時不打烊的拉麵城池-4c561e.html
 published: 2026-07-04
-quality_score: 6.5
+quality_score: 8.6
 tags: 東京拉麵, 日本拉麵, 東京美食, 拉麵推薦, 日本旅遊
 license: CC BY 4.0
 ---

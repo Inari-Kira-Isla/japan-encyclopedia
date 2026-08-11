@@ -6,7 +6,7 @@ category: scenic-routes
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-fukuoka-福岡內陸風景自駕路線-山田溫泉與糖業遺產的隱藏美景-b04ed6.html
 published: 2026-05-23
-quality_score: 6.5
+quality_score: 8.7
 tags: 福岡自駕推薦, 九州內陸景點, 甘木風景, 八女茶園, 久留米一日遊
 license: CC BY 4.0
 ---

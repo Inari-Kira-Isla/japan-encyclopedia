@@ -6,7 +6,7 @@ category: karaoke
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-karaoke-nagoya-名古屋商務卡拉ok-工業重鎮的職場社交文化-16bfb5.html
 published: 2026-04-04
-quality_score: 6.5
+quality_score: 8.6
 tags: 名古屋娛樂, 商務社交, 職場文化, 夜生活, 卡拉OK
 license: CC BY 4.0
 ---

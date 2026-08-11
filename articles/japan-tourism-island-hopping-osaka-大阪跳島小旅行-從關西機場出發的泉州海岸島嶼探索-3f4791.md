@@ -6,7 +6,7 @@ category: island-hopping
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-island-hopping-osaka-大阪跳島小旅行-從關西機場出發的泉州海岸島嶼探索-3f4791.html
 published: 2026-07-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪跳島, 泉州海岸, 關西機場, 島嶼旅遊, 大阪自由行
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: temples-shrines
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-temples-shrines-osaka-大阪神社寺院求什麼-在地人的實用參拜地圖-75b380.html
 published: 2026-04-07
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪, 神社, 寺院, 參拜, 宗教
 license: CC BY 4.0
 ---

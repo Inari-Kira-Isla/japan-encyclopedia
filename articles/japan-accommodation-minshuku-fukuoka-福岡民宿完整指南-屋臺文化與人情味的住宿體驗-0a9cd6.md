@@ -6,7 +6,7 @@ category: minshuku
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-fukuoka-福岡民宿完整指南-屋臺文化與人情味的住宿體驗-0a9cd6.html
 published: 2026-04-04
-quality_score: 6.5
+quality_score: 8.7
 tags: 福岡民宿, 九州住宿, 屋台文化, 體驗型住宿, 人情味住宿
 license: CC BY 4.0
 ---

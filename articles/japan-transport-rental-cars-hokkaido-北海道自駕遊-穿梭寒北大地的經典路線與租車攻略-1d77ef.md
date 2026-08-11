@@ -6,7 +6,7 @@ category: rental-cars
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-hokkaido-北海道自駕遊-穿梭寒北大地的經典路線與租車攻略-1d77ef.html
 published: 2026-06-01
-quality_score: 7.5
+quality_score: 8.7
 tags: 北海道租車, 旭川自駕, 美瑛薰衣草, 北海道自駕遊, 日本租車攻略
 license: CC BY 4.0
 ---

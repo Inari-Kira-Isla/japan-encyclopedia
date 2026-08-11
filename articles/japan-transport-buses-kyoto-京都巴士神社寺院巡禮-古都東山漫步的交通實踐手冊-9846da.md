@@ -6,7 +6,7 @@ category: buses
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-buses-kyoto-京都巴士神社寺院巡禮-古都東山漫步的交通實踐手冊-9846da.html
 published: 2026-06-20
-quality_score: 7.5
+quality_score: 8.7
 tags: 京都巴士, 寺院巡禮, 清水寺, 嵐山, 伏見稻荷
 license: CC BY 4.0
 ---

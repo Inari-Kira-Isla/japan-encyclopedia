@@ -6,7 +6,7 @@ category: minshuku
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-okinawa-沖繩民宿地域策略指南-北部山村-離島寧靜-南部文化的隱藏住宿地圖-423542.html
 published: 2026-03-24
-quality_score: 6.5
+quality_score: 8.3
 tags: 沖繩民宿, 日本旅遊, 地域選擇, 民宿攻略, 離島體驗
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: anime-manga
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-kanazawa-金澤動漫文化探索-傳統工藝城市的現代動漫魅力-95e22a-1775595045.html
 published: 2026-04-07
-quality_score: 6.5
+quality_score: 8.6
 tags: 金澤, 動漫文化, 石川縣, 日本旅遊, 工藝
 license: CC BY 4.0
 ---

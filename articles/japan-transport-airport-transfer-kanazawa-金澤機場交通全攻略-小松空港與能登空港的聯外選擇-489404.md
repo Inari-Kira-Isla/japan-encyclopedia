@@ -6,7 +6,7 @@ category: airport-transfer
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-airport-transfer-kanazawa-金澤機場交通全攻略-小松空港與能登空港的聯外選擇-489404.html
 published: 2026-06-25
-quality_score: 7.5
+quality_score: 8.6
 tags: 金澤交通, 小松空港, 能登空港, 機場巴士, 日本北陸
 license: CC BY 4.0
 ---

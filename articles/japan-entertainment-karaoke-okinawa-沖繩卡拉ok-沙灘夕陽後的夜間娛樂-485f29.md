@@ -6,7 +6,7 @@ category: karaoke
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-karaoke-okinawa-沖繩卡拉ok-沙灘夕陽後的夜間娛樂-485f29.html
 published: 2026-06-13
-quality_score: 6.5
+quality_score: 8.8
 tags: 沖繩, 卡拉OK, 夜生活, 南國島嶼, 娛樂體驗
 license: CC BY 4.0
 ---

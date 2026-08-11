@@ -6,7 +6,7 @@ category: izakaya
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-izakaya-tokyo-東京居酒屋職場指南-從新橋到六本木的商務社交地圖-e0ab94.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.8
 tags: 東京居酒屋, 職場文化, 商務社交, 日本飲食文化, 上班族
 license: CC BY 4.0
 ---

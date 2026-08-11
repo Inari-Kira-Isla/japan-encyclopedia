@@ -6,7 +6,7 @@ category: rental-cars
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-okinawa-沖繩租車實用指南-從機場取車到異地還車的完整攻略-b9cb22.html
 published: 2026-06-15
-quality_score: 7.5
+quality_score: 8.2
 tags: 沖繩租車, 沖繩自駕, 沖繩機場取車, 異地還車, 沖繩租車攻略
 license: CC BY 4.0
 ---

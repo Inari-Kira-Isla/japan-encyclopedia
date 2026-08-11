@@ -6,7 +6,7 @@ category: depachika
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-depachika-kobe-神戶-depachika-季節美食攻略-港都職人的四季食材劇場-5efd1a.html
 published: 2026-04-04
-quality_score: 6.5
+quality_score: 8.7
 tags: 神戶美食, 百貨地下街, 職人製作, 季節料理, 關西美食
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: cycling
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-nara-奈良單車生活提案-騎進在地人的日常風景-60fa57.html
 published: 2026-06-20
-quality_score: 7.5
+quality_score: 8.5
 tags: 奈良單車, 在地體驗, 慢旅行, 生活文化, 非觀光路線
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: temple-stays
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-temple-stays-nara-奈良寺廟住宿-四季修行體驗與精進料理之旅-862fae.html
 published: 2026-03-22
-quality_score: 6.5
+quality_score: 8.5
 tags: 奈良, 寺廟住宿, 宿坊, 精進料理, 禪修
 license: CC BY 4.0
 ---

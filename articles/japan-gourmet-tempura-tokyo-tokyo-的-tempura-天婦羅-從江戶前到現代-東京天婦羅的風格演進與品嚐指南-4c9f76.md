@@ -6,7 +6,7 @@ category: tempura
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tempura-tokyo-tokyo-的-tempura-天婦羅-從江戶前到現代-東京天婦羅的風格演進與品嚐指南-4c9f76.html
 published: 2026-04-04
-quality_score: 6.5
+quality_score: 8.7
 tags: 天婦羅, 東京美食, 江戶前, 日本料理, Tokyo
 license: CC BY 4.0
 ---

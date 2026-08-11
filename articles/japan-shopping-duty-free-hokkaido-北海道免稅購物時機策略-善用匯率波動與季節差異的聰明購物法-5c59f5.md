@@ -6,7 +6,7 @@ category: duty-free
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-duty-free-hokkaido-北海道免稅購物時機策略-善用匯率波動與季節差異的聰明購物法-5c59f5.html
 published: 2026-04-06
-quality_score: 7.5
+quality_score: 8.8
 tags: 北海道購物, 免稅策略, 匯率優勢, 季節購物, 日本免稅
 license: CC BY 4.0
 ---

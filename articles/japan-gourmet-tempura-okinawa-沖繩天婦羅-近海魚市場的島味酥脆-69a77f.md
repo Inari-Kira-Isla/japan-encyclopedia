@@ -6,7 +6,7 @@ category: tempura
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tempura-okinawa-沖繩天婦羅-近海魚市場的島味酥脆-69a77f.html
 published: 2026-06-15
-quality_score: 6.5
+quality_score: 8.8
 tags: 沖繩天婦羅, 沖繩美食, 那霸必吃, 島料理, 亞熱帶海鮮
 license: CC BY 4.0
 ---

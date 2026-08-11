@@ -6,7 +6,7 @@ category: depachika
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-depachika-sendai-仙台depachika-東北第一城的百貨地下美食殿堂-9b47c9.html
 published: 2026-03-20
-quality_score: 6.5
+quality_score: 8.7
 tags: 仙台美食, 百貨地下街, 東北料理, 日本購物, depachika
 license: CC BY 4.0
 ---

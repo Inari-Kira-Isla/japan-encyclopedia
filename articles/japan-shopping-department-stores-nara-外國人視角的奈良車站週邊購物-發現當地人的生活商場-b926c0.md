@@ -6,7 +6,7 @@ category: department-stores
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-department-stores-nara-外國人視角的奈良車站週邊購物-發現當地人的生活商場-b926c0.html
 published: 2026-06-04
-quality_score: 7.5
+quality_score: 8.7
 tags: 奈良購物, 近鐵奈良站, 日本超市攻略, 外國人日本購物, 奈良自由行
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: cycling
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-osaka-大阪騎行指南-在關西經濟中心發現綠色風景-3a2ee9.html
 published: 2026-03-21
-quality_score: 7.5
+quality_score: 8.6
 tags: 大阪, 騎行, 自行車旅遊, 河濱綠道, 關西旅遊
 license: CC BY 4.0
 ---

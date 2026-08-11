@@ -6,7 +6,7 @@ category: yakitori
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-yakitori-nara-奈良的燒鳥-古都巷弄間的庶民煙火味-535bab.html
 published: 2026-04-08
-quality_score: 6.5
+quality_score: 8.8
 tags: 奈良燒鳥, 奈良美食, 日本串燒, 關西燒鳥, 古都美食
 license: CC BY 4.0
 ---

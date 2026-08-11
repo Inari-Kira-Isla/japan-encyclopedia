@@ -6,7 +6,7 @@ category: sumo
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-osaka-大阪相撲觀戰完全指南-關西粉絲的熱血應援與道地體驗-0346b4.html
 published: 2026-06-29
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪相撲, 關西場所, 相撲觀賽, 大阪文化, 日本傳統競技
 license: CC BY 4.0
 ---

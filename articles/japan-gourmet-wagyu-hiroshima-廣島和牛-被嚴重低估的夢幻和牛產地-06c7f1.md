@@ -6,7 +6,7 @@ category: wagyu
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-wagyu-hiroshima-廣島和牛-被嚴重低估的夢幻和牛產地-06c7f1.html
 published: 2026-06-02
-quality_score: 6.5
+quality_score: 8.7
 tags: 美食, 日本, 和牛,  Hiroshima, 廣島
 license: CC BY 4.0
 ---

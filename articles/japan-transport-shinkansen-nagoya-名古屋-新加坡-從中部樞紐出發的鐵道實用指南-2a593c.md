@@ -6,7 +6,7 @@ category: shinkansen
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-nagoya-名古屋-新加坡-從中部樞紐出發的鐵道實用指南-2a593c.html
 published: 2026-05-22
-quality_score: 7.5
+quality_score: 8.6
 tags: 名古屋新娘, 名古屋交通, 东海道新娘, 北陆新娘, 日本铁路
 license: CC BY 4.0
 ---

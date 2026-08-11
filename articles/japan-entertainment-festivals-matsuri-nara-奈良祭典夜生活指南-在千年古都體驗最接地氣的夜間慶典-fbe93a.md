@@ -6,7 +6,7 @@ category: festivals-matsuri
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-festivals-matsuri-nara-奈良祭典夜生活指南-在千年古都體驗最接地氣的夜間慶典-fbe93a.html
 published: 2026-03-28
-quality_score: 6.5
+quality_score: 8.7
 tags: 奈良祭典, 夜間娛樂, 屋台美食, 燈籠祭, 古都夜生活
 license: CC BY 4.0
 ---

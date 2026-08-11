@@ -6,7 +6,7 @@ category: rental-cars
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-osaka-大阪租車攻略-關西機場與周邊城市取車的實用指南-90b72e.html
 published: 2026-06-30
-quality_score: 7.5
+quality_score: 8.5
 tags: 大阪租車, 關西自駕, 關西機場租車, 臨空城租車, 大阪世博2025
 license: CC BY 4.0
 ---

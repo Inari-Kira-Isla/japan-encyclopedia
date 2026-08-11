@@ -6,7 +6,7 @@ category: onsen
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-onsen-sendai-仙台溫泉深度指南-山形米澤交界處的秘湯巡禮-0da357.html
 published: 2026-06-16
-quality_score: 6.5
+quality_score: 8.8
 tags: 仙台溫泉, 秘湯巡禮, 鳴子溫泉, 作並溫泉, 肘折溫泉
 license: CC BY 4.0
 ---

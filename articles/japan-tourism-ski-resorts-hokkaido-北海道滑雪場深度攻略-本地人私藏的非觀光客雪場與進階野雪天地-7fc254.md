@@ -6,7 +6,7 @@ category: ski-resorts
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-ski-resorts-hokkaido-北海道滑雪場深度攻略-本地人私藏的非觀光客雪場與進階野雪天地-7fc254.html
 published: 2026-05-24
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道滑雪, 日本滑雪攻略, 粉雪, 非主流雪場, 野雪
 license: CC BY 4.0
 ---

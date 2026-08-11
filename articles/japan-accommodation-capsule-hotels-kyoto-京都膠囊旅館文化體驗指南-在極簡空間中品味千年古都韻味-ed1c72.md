@@ -6,7 +6,7 @@ category: capsule-hotels
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-capsule-hotels-kyoto-京都膠囊旅館文化體驗指南-在極簡空間中品味千年古都韻味-ed1c72.html
 published: 2026-03-27
-quality_score: 6.5
+quality_score: 8.7
 tags: 京都住宿, 膠囊旅館, 文化體驗, 日式簡約, 經濟住宿
 license: CC BY 4.0
 ---

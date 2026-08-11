@@ -6,7 +6,7 @@ category: shinkansen
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-hiroshima-廣島-新加坡線體驗完全指南-串聯山陽城市群的鐵道中途衝刺-45e2e5.html
 published: 2026-06-04
-quality_score: 7.5
+quality_score: 8.8
 tags: 新加坡線, 廣島景點, 山陽鐵道, 岡山旅行, 日本鐵道
 license: CC BY 4.0
 ---

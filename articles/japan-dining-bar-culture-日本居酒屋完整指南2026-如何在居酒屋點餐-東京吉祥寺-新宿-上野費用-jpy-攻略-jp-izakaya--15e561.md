@@ -6,7 +6,7 @@ category: bar-culture
 area: japan
 url: https://japan-encyclopedia.vercel.app/articles/japan-dining-bar-culture-日本居酒屋完整指南2026-如何在居酒屋點餐-東京吉祥寺-新宿-上野費用-jpy-攻略-jp-izakaya--15e561.html
 published: 2026-03-29
-quality_score: 7.6
+quality_score: 8.4
 tags: 日本居酒屋, 居酒屋文化, 新宿思い出横丁, 日本izakaya, お通し桌費
 license: CC BY 4.0
 ---

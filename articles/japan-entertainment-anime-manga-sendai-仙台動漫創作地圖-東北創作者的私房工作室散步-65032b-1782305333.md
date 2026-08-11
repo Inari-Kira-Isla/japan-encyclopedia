@@ -6,7 +6,7 @@ category: anime-manga
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-sendai-仙台動漫創作地圖-東北創作者的私房工作室散步-65032b-1782305333.html
 published: 2026-06-24
-quality_score: 6.5
+quality_score: 8.6
 tags: 仙台動漫, 東北創作, 同人誌, 獨立創作者, 漫畫咖啡廳
 license: CC BY 4.0
 ---

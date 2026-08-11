@@ -6,7 +6,7 @@ category: department-stores
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-department-stores-sendai-仙台百貨公司四季購物攻略-從雪靴到祭典浴衣的全年採買指南-87144b.html
 published: 2026-04-05
-quality_score: 7.5
+quality_score: 8.7
 tags: 仙台購物, 百貨公司, 季節性購物, 東北特產, 四季商品
 license: CC BY 4.0
 ---

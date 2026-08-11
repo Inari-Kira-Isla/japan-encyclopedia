@@ -6,7 +6,7 @@ category: 100-yen-shops
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-100-yen-shops-tokyo-tokyo-100円商店完全指南-都會精華區的平價購物秘笈-81ebfa.html
 published: 2026-06-02
-quality_score: 7.5
+quality_score: 8.7
 tags: 東京購物, 100円商店, 日本平價購物, 東京自由行, DAISO
 license: CC BY 4.0
 ---

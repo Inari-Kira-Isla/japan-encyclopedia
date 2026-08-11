@@ -6,7 +6,7 @@ category: island-hopping
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-island-hopping-fukuoka-福岡跳島的水上文化-航行於玄界灘的歷史航道與島嶼生活-a2b7a6.html
 published: 2026-05-22
-quality_score: 6.5
+quality_score: 8.5
 tags: 福岡, 跳島, 玄界灘, 自助旅行, 九州
 license: CC BY 4.0
 ---

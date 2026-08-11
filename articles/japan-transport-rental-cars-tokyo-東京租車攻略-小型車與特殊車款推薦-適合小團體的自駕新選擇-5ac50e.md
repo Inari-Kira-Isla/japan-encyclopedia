@@ -6,7 +6,7 @@ category: rental-cars
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-tokyo-東京租車攻略-小型車與特殊車款推薦-適合小團體的自駕新選擇-5ac50e.html
 published: 2026-05-22
-quality_score: 7.5
+quality_score: 8.8
 tags: 東京租車, 關東自駕, 小型車推薦, 日本自由行, 東京近郊
 license: CC BY 4.0
 ---

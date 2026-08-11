@@ -6,7 +6,7 @@ category: vr-experiences
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-vr-experiences-hokkaido-北海道冬季vr體驗-雪國科技的冰爽娛樂新選擇-b172f5.html
 published: 2026-06-10
-quality_score: 6.5
+quality_score: 8.9
 tags: 北海道VR體驗, 札幌VR, 小樽VR, 旭川VR, 函館VR
 license: CC BY 4.0
 ---

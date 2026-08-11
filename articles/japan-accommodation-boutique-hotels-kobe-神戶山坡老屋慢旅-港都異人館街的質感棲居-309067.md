@@ -6,7 +6,7 @@ category: boutique-hotels
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-kobe-神戶山坡老屋慢旅-港都異人館街的質感棲居-309067.html
 published: 2026-05-21
-quality_score: 6.5
+quality_score: 8.6
 tags: 神戶住宿, boutique hotel, 山坡旅宿, 異人館街, 神戶自由行
 license: CC BY 4.0
 ---

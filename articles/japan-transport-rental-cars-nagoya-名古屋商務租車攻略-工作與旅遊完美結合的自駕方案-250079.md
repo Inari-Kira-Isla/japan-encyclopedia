@@ -6,7 +6,7 @@ category: rental-cars
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-nagoya-名古屋商務租車攻略-工作與旅遊完美結合的自駕方案-250079.html
 published: 2026-03-29
-quality_score: 7.5
+quality_score: 8.5
 tags: 名古屋租車, 商務旅行, 中部自駕, 日本租車, 商旅攻略
 license: CC BY 4.0
 ---

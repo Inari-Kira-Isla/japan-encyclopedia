@@ -6,7 +6,7 @@ category: sumo
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-tokyo-東京相撲-國技殿堂的力士文化深度體驗-051752.html
 published: 2026-04-06
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京, 相撲, 傳統文化, 兩國, 國技
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: yakitori
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-yakitori-sendai-仙台燒鳥-昭和町與廣瀨通的串燒散步-3de01f.html
 published: 2026-06-15
-quality_score: 6.5
+quality_score: 8.8
 tags: 仙台, 燒鳥, 日本料理, 東北美食, 居酒屋
 license: CC BY 4.0
 ---

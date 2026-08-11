@@ -6,7 +6,7 @@ category: business-hotels
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-business-hotels-kobe-神戶商務住宿全攻略-從三宮到港島-商旅人士的效率優先選宿邏輯-5a2efa.html
 published: 2026-06-03
-quality_score: 6.5
+quality_score: 8.5
 tags: 神戶, 商務住宿, 出差住宿, 三宮, 商務飯店
 license: CC BY 4.0
 ---

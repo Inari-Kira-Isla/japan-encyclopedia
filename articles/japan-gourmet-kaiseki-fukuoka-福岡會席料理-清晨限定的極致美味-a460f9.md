@@ -6,7 +6,7 @@ category: kaiseki
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-kaiseki-fukuoka-福岡會席料理-清晨限定的極致美味-a460f9.html
 published: 2026-05-21
-quality_score: 6.5
+quality_score: 8.6
 tags: 九州美食, 福岡會席, 會席料理, 九州食材, 早餐會席
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: love-hotels
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-love-hotels-nara-奈良深度慢旅-情侶住宿的古都節奏-f9b357.html
 published: 2026-06-11
-quality_score: 6.5
+quality_score: 8.7
 tags: 奈良住宿, 情侶旅館, 古都慢旅, 奈良公園, 近鐵奈良
 license: CC BY 4.0
 ---

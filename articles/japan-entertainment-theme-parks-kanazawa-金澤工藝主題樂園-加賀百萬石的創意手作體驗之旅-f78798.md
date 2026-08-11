@@ -6,7 +6,7 @@ category: theme-parks
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-theme-parks-kanazawa-金澤工藝主題樂園-加賀百萬石的創意手作體驗之旅-f78798.html
 published: 2026-06-30
-quality_score: 6.5
+quality_score: 8.5
 tags: 金澤主題樂園, 金澤工藝體驗, 加賀百萬石, 金箔體驗, 九谷燒
 license: CC BY 4.0
 ---

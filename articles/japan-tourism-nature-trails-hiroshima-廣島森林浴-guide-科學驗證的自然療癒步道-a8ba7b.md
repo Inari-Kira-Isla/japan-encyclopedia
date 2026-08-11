@@ -6,7 +6,7 @@ category: nature-trails
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-hiroshima-廣島森林浴-guide-科學驗證的自然療癒步道-a8ba7b.html
 published: 2026-05-24
-quality_score: 6.5
+quality_score: 9.0
 tags: 廣島自然步道, 森林浴, 健康旅遊, 日本健行, Shinrin-yoku
 license: CC BY 4.0
 ---

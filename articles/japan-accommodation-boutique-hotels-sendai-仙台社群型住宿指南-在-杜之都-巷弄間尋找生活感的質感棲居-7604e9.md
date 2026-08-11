@@ -6,7 +6,7 @@ category: boutique-hotels
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-sendai-仙台社群型住宿指南-在-杜之都-巷弄間尋找生活感的質感棲居-7604e9.html
 published: 2026-06-14
-quality_score: 6.5
+quality_score: 8.5
 tags: 仙台住宿, 社區住宿, 杜之都, 日本溫泉, 東北旅行
 license: CC BY 4.0
 ---

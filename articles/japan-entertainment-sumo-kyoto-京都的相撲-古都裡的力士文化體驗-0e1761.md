@@ -6,7 +6,7 @@ category: sumo
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-kyoto-京都的相撲-古都裡的力士文化體驗-0e1761.html
 published: 2026-05-22
-quality_score: 6.5
+quality_score: 8.8
 tags: 京都相撲, 關西相撲體驗, 日本傳統武術, 相撲文化, 京都神社
 license: CC BY 4.0
 ---

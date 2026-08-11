@@ -6,7 +6,7 @@ category: temples-shrines
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-temples-shrines-nara-奈良寺廟神社祈願指南-古都靈力地圖完全攻略-2e7975.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 奈良, 寺廟神社, 祈願, 宗教文化, 日本旅遊
 license: CC BY 4.0
 ---

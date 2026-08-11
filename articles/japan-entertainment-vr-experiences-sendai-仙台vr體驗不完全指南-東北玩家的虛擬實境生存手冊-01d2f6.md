@@ -6,7 +6,7 @@ category: vr-experiences
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-vr-experiences-sendai-仙台vr體驗不完全指南-東北玩家的虛擬實境生存手冊-01d2f6.html
 published: 2026-07-02
-quality_score: 6.5
+quality_score: 8.4
 tags: 仙台VR, 東北娛樂, 日本遊戲中心, 仙台旅遊, 虛擬實境體驗
 license: CC BY 4.0
 ---

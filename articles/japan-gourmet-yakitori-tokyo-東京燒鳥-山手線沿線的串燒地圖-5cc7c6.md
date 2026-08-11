@@ -6,7 +6,7 @@ category: yakitori
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-yakitori-tokyo-東京燒鳥-山手線沿線的串燒地圖-5cc7c6.html
 published: 2026-06-10
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京燒鳥, 山手線, Yakitori, 日本美食, 東京夜生活
 license: CC BY 4.0
 ---

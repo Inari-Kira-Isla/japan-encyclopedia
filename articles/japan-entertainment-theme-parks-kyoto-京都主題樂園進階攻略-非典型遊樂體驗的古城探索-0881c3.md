@@ -6,7 +6,7 @@ category: theme-parks
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-theme-parks-kyoto-京都主題樂園進階攻略-非典型遊樂體驗的古城探索-0881c3.html
 published: 2026-06-21
-quality_score: 6.5
+quality_score: 8.9
 tags: 京都主題樂園, 京都文化體驗, 京都互動體驗, 關西主題樂園, 京都深度旅遊
 license: CC BY 4.0
 ---

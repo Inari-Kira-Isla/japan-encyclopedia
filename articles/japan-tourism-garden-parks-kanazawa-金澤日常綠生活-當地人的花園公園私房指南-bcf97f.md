@@ -6,7 +6,7 @@ category: garden-parks
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-kanazawa-金澤日常綠生活-當地人的花園公園私房指南-bcf97f.html
 published: 2026-07-03
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤, 花園, 公園, 加賀百萬石, 兼六園
 license: CC BY 4.0
 ---

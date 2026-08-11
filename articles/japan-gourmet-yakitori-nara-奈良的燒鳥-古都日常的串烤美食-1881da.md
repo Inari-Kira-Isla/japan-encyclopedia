@@ -6,7 +6,7 @@ category: yakitori
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-yakitori-nara-奈良的燒鳥-古都日常的串烤美食-1881da.html
 published: 2026-03-23
-quality_score: 6.5
+quality_score: 8.7
 tags: 奈良美食, 燒鳥, 日本居酒屋, 古都飲食文化, 日常美食
 license: CC BY 4.0
 ---

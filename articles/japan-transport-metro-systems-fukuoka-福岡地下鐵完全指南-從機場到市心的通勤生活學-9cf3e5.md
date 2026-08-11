@@ -6,7 +6,7 @@ category: metro-systems
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-fukuoka-福岡地下鐵完全指南-從機場到市心的通勤生活學-9cf3e5.html
 published: 2026-06-16
-quality_score: 7.5
+quality_score: 8.5
 tags: 福岡地下鐵, 福岡交通, 博多大眾運輸, 九州自由行, 福岡機場交通
 license: CC BY 4.0
 ---

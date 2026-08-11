@@ -6,7 +6,7 @@ category: festivals-matsuri
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-festivals-matsuri-hiroshima-廣島冬季祭典奇遇-溫泉暖湯與傳統歲末狂歡的在地體驗-82ddcd.html
 published: 2026-06-20
-quality_score: 6.5
+quality_score: 8.5
 tags: 廣島冬季祭典, 廣島溫泉, 日本歲末祭典, 鞆之浦溫泉, 尾道貓咪祭
 license: CC BY 4.0
 ---

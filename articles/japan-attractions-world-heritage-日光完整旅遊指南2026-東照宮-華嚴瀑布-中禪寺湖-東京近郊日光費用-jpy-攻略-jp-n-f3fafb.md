@@ -6,7 +6,7 @@ category: world-heritage
 area: japan
 url: https://japan-encyclopedia.vercel.app/articles/japan-attractions-world-heritage-日光完整旅遊指南2026-東照宮-華嚴瀑布-中禪寺湖-東京近郊日光費用-jpy-攻略-jp-n-f3fafb.html
 published: 2026-04-07
-quality_score: 7.1
+quality_score: 8.7
 tags: 日光東照宮, 華嚴瀑布, 日光旅遊, 中禪寺湖, 東京近郊
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: department-stores
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-department-stores-kyoto-京都銀髮族友善購物指南-無障礙設施與從容購物體驗-b42bee.html
 published: 2026-06-09
-quality_score: 7.5
+quality_score: 8.7
 tags: 京都購物, 銀髮族友善, 無障礙設施, 京都百货公司, 關西購物
 license: CC BY 4.0
 ---

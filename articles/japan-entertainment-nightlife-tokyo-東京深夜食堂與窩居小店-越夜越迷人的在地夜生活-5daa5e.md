@@ -6,7 +6,7 @@ category: nightlife
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-tokyo-東京深夜食堂與窩居小店-越夜越迷人的在地夜生活-5daa5e.html
 published: 2026-05-23
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京夜生活, 深夜食堂, 吉祥寺, 新宿, 女子旅安全
 license: CC BY 4.0
 ---

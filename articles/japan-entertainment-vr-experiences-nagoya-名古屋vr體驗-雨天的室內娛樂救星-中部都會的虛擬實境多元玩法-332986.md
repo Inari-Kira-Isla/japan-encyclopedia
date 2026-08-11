@@ -6,7 +6,7 @@ category: vr-experiences
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-vr-experiences-nagoya-名古屋vr體驗-雨天的室內娛樂救星-中部都會的虛擬實境多元玩法-332986.html
 published: 2026-07-02
-quality_score: 6.5
+quality_score: 8.7
 tags: 名古屋VR, 名古屋室內活動, 名古屋雨天備案, 中部娛樂, 虛擬實境體驗
 license: CC BY 4.0
 ---

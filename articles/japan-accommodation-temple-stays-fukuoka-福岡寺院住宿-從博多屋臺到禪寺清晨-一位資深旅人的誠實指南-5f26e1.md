@@ -6,7 +6,7 @@ category: temple-stays
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-temple-stays-fukuoka-福岡寺院住宿-從博多屋臺到禪寺清晨-一位資深旅人的誠實指南-5f26e1.html
 published: 2026-06-30
-quality_score: 6.5
+quality_score: 8.6
 tags: 九州寺院住宿, 福岡宿坊, 禪修體驗, 糸島住宿, 八女茶鄉
 license: CC BY 4.0
 ---

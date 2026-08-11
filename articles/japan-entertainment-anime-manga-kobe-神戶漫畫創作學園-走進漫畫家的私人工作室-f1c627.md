@@ -6,7 +6,7 @@ category: anime-manga
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-kobe-神戶漫畫創作學園-走進漫畫家的私人工作室-f1c627.html
 published: 2026-05-21
-quality_score: 6.5
+quality_score: 8.7
 tags: 神戶, 漫畫工作室, 繪畫教室, 體驗學習, 關西動漫
 license: CC BY 4.0
 ---

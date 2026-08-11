@@ -6,7 +6,7 @@ category: shinkansen
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-tokyo-東京出發的新幹線之旅-從首都樞紐通往日本各地的高速冒險-5cc81d.html
 published: 2026-06-24
-quality_score: 7.5
+quality_score: 8.7
 tags: 東京車站, 新娘道, 日本鐵路, 東京交通, 關東旅遊
 license: CC BY 4.0
 ---

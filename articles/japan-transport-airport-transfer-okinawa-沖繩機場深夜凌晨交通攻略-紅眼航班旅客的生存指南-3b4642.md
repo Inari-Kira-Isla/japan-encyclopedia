@@ -6,7 +6,7 @@ category: airport-transfer
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-airport-transfer-okinawa-沖繩機場深夜凌晨交通攻略-紅眼航班旅客的生存指南-3b4642.html
 published: 2026-06-17
-quality_score: 7.5
+quality_score: 8.4
 tags: 沖繩機場交通, 那霸機場, 深夜航班, 紅眼航班, 沖繩住宿
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: festivals-matsuri
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-festivals-matsuri-hiroshima-廣島深夜食堂與夜祭-跟著當地人逛祭典的深夜美食指南-ff3a31.html
 published: 2026-06-08
-quality_score: 6.5
+quality_score: 8.6
 tags: 廣島祭典, 廣島美食, 深夜食堂, 廣島燒, 日本祭典
 license: CC BY 4.0
 ---

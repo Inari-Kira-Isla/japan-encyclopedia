@@ -6,7 +6,7 @@ category: nightlife
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-okinawa-沖繩夜生活-星光下的島嶼日常-46a84f.html
 published: 2026-06-24
-quality_score: 6.5
+quality_score: 8.6
 tags: 沖繩夜生活, 海灘酒吧, 深夜食堂, 沖繩旅行, 島嶼風情
 license: CC BY 4.0
 ---

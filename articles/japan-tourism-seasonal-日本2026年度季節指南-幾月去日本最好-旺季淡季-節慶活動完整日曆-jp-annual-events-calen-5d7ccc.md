@@ -6,7 +6,7 @@ category: seasonal
 area: japan
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-seasonal-日本2026年度季節指南-幾月去日本最好-旺季淡季-節慶活動完整日曆-jp-annual-events-calen-5d7ccc.html
 published: 2026-03-28
-quality_score: 7.6
+quality_score: 8.4
 tags: 日本旅遊季節, 日本賞櫻, 日本紅葉, 日本旺季淡季, 日本2026
 license: CC BY 4.0
 ---

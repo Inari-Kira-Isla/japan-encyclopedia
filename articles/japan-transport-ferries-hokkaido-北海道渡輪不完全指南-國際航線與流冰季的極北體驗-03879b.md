@@ -6,7 +6,7 @@ category: ferries
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-ferries-hokkaido-北海道渡輪不完全指南-國際航線與流冰季的極北體驗-03879b.html
 published: 2026-06-22
-quality_score: 7.5
+quality_score: 8.3
 tags: 北海道渡輪, 流冰觀光船, 稚內港, 網走港, 國際航線
 license: CC BY 4.0
 ---

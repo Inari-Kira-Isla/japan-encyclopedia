@@ -6,7 +6,7 @@ category: onsen
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-onsen-okinawa-沖繩溫泉實用指南-亞熱帶島嶼的泡湯know-how-656074.html
 published: 2026-06-25
-quality_score: 6.5
+quality_score: 8.5
 tags: 沖繩溫泉, 亞熱帶溫泉, 恩納村溫泉, 名護溫泉, 海灘溫泉
 license: CC BY 4.0
 ---

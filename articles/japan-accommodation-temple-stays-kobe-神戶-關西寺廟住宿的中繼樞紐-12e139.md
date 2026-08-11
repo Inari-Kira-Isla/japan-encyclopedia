@@ -6,7 +6,7 @@ category: temple-stays
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-temple-stays-kobe-神戶-關西寺廟住宿的中繼樞紐-12e139.html
 published: 2026-06-02
-quality_score: 6.5
+quality_score: 8.6
 tags: 神戶住宿, 寺廟住宿, 關西朝聖, 比叡山延曆寺, 高野山金剛峰寺
 license: CC BY 4.0
 ---

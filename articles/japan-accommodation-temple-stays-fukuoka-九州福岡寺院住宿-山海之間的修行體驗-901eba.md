@@ -6,7 +6,7 @@ category: temple-stays
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-temple-stays-fukuoka-九州福岡寺院住宿-山海之間的修行體驗-901eba.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 8.5
 tags: 九州寺廟住宿, 福岡寺院住宿, 宿坊體驗, 太宰府寺廟, 九州修行
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: buses
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-buses-tokyo-東京巴士完全指南-公族交通的另類選擇與隱藏玩法-0e3da5.html
 published: 2026-06-24
-quality_score: 7.5
+quality_score: 8.4
 tags: 東京巴士, 東京交通, 都營巴士, 東京自由行, 機場巴士
 license: CC BY 4.0
 ---

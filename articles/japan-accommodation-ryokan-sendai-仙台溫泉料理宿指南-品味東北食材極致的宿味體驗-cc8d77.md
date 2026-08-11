@@ -6,7 +6,7 @@ category: ryokan
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-sendai-仙台溫泉料理宿指南-品味東北食材極致的宿味體驗-cc8d77.html
 published: 2026-04-01
-quality_score: 6.5
+quality_score: 8.4
 tags: 仙台住宿, 山形溫泉, 東北溫泉宿, 料理宿, 銀山溫泉
 license: CC BY 4.0
 ---

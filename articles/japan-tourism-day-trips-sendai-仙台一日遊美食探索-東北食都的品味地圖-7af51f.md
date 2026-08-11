@@ -6,7 +6,7 @@ category: day-trips
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-sendai-仙台一日遊美食探索-東北食都的品味地圖-7af51f.html
 published: 2026-03-28
-quality_score: 6.5
+quality_score: 8.8
 tags: 仙台一日遊, 仙台美食, 牛舌, 日本東北, 國分町
 license: CC BY 4.0
 ---

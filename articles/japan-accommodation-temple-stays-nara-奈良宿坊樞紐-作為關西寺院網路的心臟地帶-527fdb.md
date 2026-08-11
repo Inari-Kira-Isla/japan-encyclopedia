@@ -6,7 +6,7 @@ category: temple-stays
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-temple-stays-nara-奈良宿坊樞紐-作為關西寺院網路的心臟地帶-527fdb.html
 published: 2026-06-26
-quality_score: 6.5
+quality_score: 8.7
 tags: 奈良宿坊, 日本寺院住宿, 關西佛教文化, 古都修行體驗, 宿坊預訂指南
 license: CC BY 4.0
 ---

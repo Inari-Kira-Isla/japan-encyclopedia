@@ -6,7 +6,7 @@ category: fashion-harajuku
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-fashion-harajuku-tokyo-東京原宿時尚購物指南-從表參道到裡原宿的デザイン散歩-759273.html
 published: 2026-05-21
-quality_score: 7.5
+quality_score: 8.7
 tags: 原宿購物, 東京潮流, 設計師品牌, 表參道, 街头时尚
 license: CC BY 4.0
 ---

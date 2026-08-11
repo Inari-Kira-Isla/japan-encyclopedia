@@ -6,7 +6,7 @@ category: escape-rooms
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-escape-rooms-tokyo-東京密室逃脫完全攻略-首次體驗者必看的選房建議與注意事項-d38e9d.html
 published: 2026-06-03
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京密室逃脫, 東京主題樂園, 東京夜生活, 東京團體活動, 東京室內景點
 license: CC BY 4.0
 ---

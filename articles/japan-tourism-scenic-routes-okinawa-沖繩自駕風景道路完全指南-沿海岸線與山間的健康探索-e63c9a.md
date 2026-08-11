@@ -6,7 +6,7 @@ category: scenic-routes
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-okinawa-沖繩自駕風景道路完全指南-沿海岸線與山間的健康探索-e63c9a.html
 published: 2026-06-02
-quality_score: 6.5
+quality_score: 8.5
 tags: 沖繩自駕, 風景道路, 海岸線之旅, 山原森林,  Okinawa Road Trip
 license: CC BY 4.0
 ---

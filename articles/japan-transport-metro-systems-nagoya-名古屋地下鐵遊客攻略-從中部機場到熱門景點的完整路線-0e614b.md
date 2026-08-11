@@ -6,7 +6,7 @@ category: metro-systems
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-nagoya-名古屋地下鐵遊客攻略-從中部機場到熱門景點的完整路線-0e614b.html
 published: 2026-06-12
-quality_score: 7.5
+quality_score: 8.7
 tags: 名古屋地下鐵, 名古屋Metro, 中部國際機場, 榮町, 名古屋港
 license: CC BY 4.0
 ---

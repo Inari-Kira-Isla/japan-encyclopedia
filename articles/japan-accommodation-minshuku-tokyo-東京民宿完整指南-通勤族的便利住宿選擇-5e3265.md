@@ -6,7 +6,7 @@ category: minshuku
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-tokyo-東京民宿完整指南-通勤族的便利住宿選擇-5e3265.html
 published: 2026-03-29
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京民宿, minshuku, 東京住宿, 巢鴨民宿, 吉祥寺民宿
 license: CC BY 4.0
 ---

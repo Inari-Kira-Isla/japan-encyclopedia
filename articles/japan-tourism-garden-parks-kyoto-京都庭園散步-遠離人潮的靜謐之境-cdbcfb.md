@@ -6,7 +6,7 @@ category: garden-parks
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-kyoto-京都庭園散步-遠離人潮的靜謐之境-cdbcfb.html
 published: 2026-04-06
-quality_score: 6.5
+quality_score: 8.9
 tags: 京都庭園, 日本庭園美學, 小眾景點, 的文化體驗, 散步路線
 license: CC BY 4.0
 ---

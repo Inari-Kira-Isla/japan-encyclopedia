@@ -6,7 +6,7 @@ category: jr-pass
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-jr-pass-sendai-仙台地區jr-pass完整攻略-不存在單一pass-三分鐘搞懂最適合你的交通票券-210979.html
 published: 2026-06-01
-quality_score: 7.5
+quality_score: 8.9
 tags: JR_pass, 仙台交通, 東北日本, 山形藏王, 松島
 license: CC BY 4.0
 ---

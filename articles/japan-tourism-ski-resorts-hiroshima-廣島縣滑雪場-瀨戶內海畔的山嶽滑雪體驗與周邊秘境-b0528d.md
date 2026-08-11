@@ -6,7 +6,7 @@ category: ski-resorts
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-ski-resorts-hiroshima-廣島縣滑雪場-瀨戶內海畔的山嶽滑雪體驗與周邊秘境-b0528d.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 8.8
 tags: 广島滑雪, 广島户外, 冬季旅游, 中国地方, 滑雪入门
 license: CC BY 4.0
 ---

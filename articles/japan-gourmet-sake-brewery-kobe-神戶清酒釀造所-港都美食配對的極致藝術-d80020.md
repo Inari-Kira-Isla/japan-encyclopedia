@@ -6,7 +6,7 @@ category: sake-brewery
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sake-brewery-kobe-神戶清酒釀造所-港都美食配對的極致藝術-d80020.html
 published: 2026-04-06
-quality_score: 6.5
+quality_score: 8.8
 tags: 神戶清酒, 美食配對, 灘區, 神戶牛, 瀨戶內海鮮
 license: CC BY 4.0
 ---

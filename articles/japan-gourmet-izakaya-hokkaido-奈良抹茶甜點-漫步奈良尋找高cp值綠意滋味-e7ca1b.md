@@ -6,7 +6,7 @@ category: izakaya
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-izakaya-hokkaido-奈良抹茶甜點-漫步奈良尋找高cp值綠意滋味-e7ca1b.html
 published: 2026-06-25
-quality_score: 6.5
+quality_score: 8.3
 tags: 奈良, 抹茶甜點, 關西, 日本美食, CP值
 license: CC BY 4.0
 ---

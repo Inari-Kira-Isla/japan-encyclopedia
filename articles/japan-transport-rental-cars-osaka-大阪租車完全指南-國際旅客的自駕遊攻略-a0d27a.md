@@ -6,7 +6,7 @@ category: rental-cars
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-osaka-大阪租車完全指南-國際旅客的自駕遊攻略-a0d27a.html
 published: 2026-06-01
-quality_score: 7.5
+quality_score: 8.4
 tags: 大阪租車, 關西自駕遊, 日本租車, 關西機場租車, 國際旅客日本自駕
 license: CC BY 4.0
 ---

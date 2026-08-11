@@ -6,7 +6,7 @@ category: jr-pass
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-jr-pass-fukuoka-jr九州周遊券完全指南-美食與溫泉鐵道之旅-794f1f.html
 published: 2026-06-16
-quality_score: 7.5
+quality_score: 8.8
 tags: JR九州周遊券, 九州美食, 九州溫泉, 鐵道之旅, 福岡交通
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: ski-resorts
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-ski-resorts-sendai-仙台親子滑雪初體驗-平價雪場與交通全攻略-c0cbe8.html
 published: 2026-05-22
-quality_score: 6.5
+quality_score: 8.5
 tags: 仙台滑雪, 東北滑雪場, 親子滑雪, 平價滑雪, 日本雪場體驗
 license: CC BY 4.0
 ---

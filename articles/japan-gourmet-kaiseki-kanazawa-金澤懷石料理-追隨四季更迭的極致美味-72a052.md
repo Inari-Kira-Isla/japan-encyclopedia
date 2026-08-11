@@ -6,7 +6,7 @@ category: kaiseki
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-kaiseki-kanazawa-金澤懷石料理-追隨四季更迭的極致美味-72a052.html
 published: 2026-04-07
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤美食, 懷石料理, 季節料理, 北陸旅遊, 高級日本料理
 license: CC BY 4.0
 ---

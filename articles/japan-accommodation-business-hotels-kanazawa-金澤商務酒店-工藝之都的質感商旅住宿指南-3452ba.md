@@ -6,7 +6,7 @@ category: business-hotels
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-business-hotels-kanazawa-金澤商務酒店-工藝之都的質感商旅住宿指南-3452ba.html
 published: 2026-06-25
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤商務酒店, 石川縣商務住宿, 金澤出差, 北路商務飯店, 金澤工藝體驗
 license: CC BY 4.0
 ---

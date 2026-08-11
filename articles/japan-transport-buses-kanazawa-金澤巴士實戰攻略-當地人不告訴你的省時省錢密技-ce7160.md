@@ -6,7 +6,7 @@ category: buses
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-buses-kanazawa-金澤巴士實戰攻略-當地人不告訴你的省時省錢密技-ce7160.html
 published: 2026-06-23
-quality_score: 7.5
+quality_score: 8.7
 tags: 金澤交通, 巴士攻略, 省錢技巧, 自助旅行, 北陸自由行
 license: CC BY 4.0
 ---

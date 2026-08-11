@@ -6,7 +6,7 @@ category: wagyu
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-wagyu-hokkaido-hokkaido-wagyu-3d1a53.html
 published: 2026-03-22
-quality_score: 5.5
+quality_score: 0.0
 tags: wagyu, hokkaido, japan
 license: CC BY 4.0
 ---

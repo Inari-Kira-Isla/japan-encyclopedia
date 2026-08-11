@@ -6,7 +6,7 @@ category: buses
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-buses-hokkaido-北海道美食巴士路線-搭公車吃遍北國三大鮮味聖地-5ed46c.html
 published: 2026-06-05
-quality_score: 7.5
+quality_score: 8.7
 tags: 北海道巴士, 北海道美食, 北海道交通, 帶廣美食, 小樽海鮮
 license: CC BY 4.0
 ---

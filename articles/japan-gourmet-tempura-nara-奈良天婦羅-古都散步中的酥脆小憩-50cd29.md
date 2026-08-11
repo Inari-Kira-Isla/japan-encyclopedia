@@ -6,7 +6,7 @@ category: tempura
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tempura-nara-奈良天婦羅-古都散步中的酥脆小憩-50cd29.html
 published: 2026-04-07
-quality_score: 6.5
+quality_score: 8.9
 tags: 奈良天婦羅, 關西天婦羅, 奈良美食, 古都美食, 日本旅遊
 license: CC BY 4.0
 ---

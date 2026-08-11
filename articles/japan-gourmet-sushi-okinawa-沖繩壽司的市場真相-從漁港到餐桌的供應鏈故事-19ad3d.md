@@ -6,7 +6,7 @@ category: sushi
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sushi-okinawa-沖繩壽司的市場真相-從漁港到餐桌的供應鏈故事-19ad3d.html
 published: 2026-03-22
-quality_score: 6.5
+quality_score: 8.5
 tags: 沖繩, 壽司, 水產市場, 供應鏈, 季節食材
 license: CC BY 4.0
 ---

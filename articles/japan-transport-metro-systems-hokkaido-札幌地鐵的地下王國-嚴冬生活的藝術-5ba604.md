@@ -6,7 +6,7 @@ category: metro-systems
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-hokkaido-札幌地鐵的地下王國-嚴冬生活的藝術-5ba604.html
 published: 2026-06-04
-quality_score: 7.5
+quality_score: 8.8
 tags: 札幌, 北海道, 日本地下鐵, 冬季旅遊, 地鐵交通
 license: CC BY 4.0
 ---

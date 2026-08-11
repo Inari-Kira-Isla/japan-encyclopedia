@@ -6,7 +6,7 @@ category: onsen
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-onsen-nagoya-名古屋溫泉完全指南-城市中心的療癒驛站-57ca78.html
 published: 2026-06-02
-quality_score: 6.5
+quality_score: 8.5
 tags: 名古屋溫泉, 溫泉推薦, 中部溫泉, 錢湯, 溫泉一日遊
 license: CC BY 4.0
 ---

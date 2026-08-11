@@ -6,7 +6,7 @@ category: electronics
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-electronics-tokyo-東京電子產品企業採購指南-亞洲商務採購中心完全攻略-6287bb.html
 published: 2026-04-05
-quality_score: 7.5
+quality_score: 8.5
 tags: 企業採購, B2B電子產品, 商務旅行, 供應鏈, 批發市場
 license: CC BY 4.0
 ---

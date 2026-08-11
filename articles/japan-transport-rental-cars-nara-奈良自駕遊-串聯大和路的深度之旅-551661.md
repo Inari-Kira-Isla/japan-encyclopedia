@@ -6,7 +6,7 @@ category: rental-cars
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-nara-奈良自駕遊-串聯大和路的深度之旅-551661.html
 published: 2026-06-17
-quality_score: 7.5
+quality_score: 8.5
 tags: 奈良租車, 大和路自駕, 吉野山櫻花, 高野山參拜, 若草山秘境
 license: CC BY 4.0
 ---

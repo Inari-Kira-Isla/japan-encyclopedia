@@ -6,7 +6,7 @@ category: anime-manga
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-sendai-仙台動漫小旅行-東北在地達人の隱藏版挖寶散步-921f3c.html
 published: 2026-06-12
-quality_score: 6.5
+quality_score: 8.6
 tags: 仙台, 動漫, 東北, 挖寶, 在地文化
 license: CC BY 4.0
 ---

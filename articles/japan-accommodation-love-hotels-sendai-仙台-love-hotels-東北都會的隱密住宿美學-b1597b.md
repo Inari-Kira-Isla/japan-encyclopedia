@@ -6,7 +6,7 @@ category: love-hotels
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-love-hotels-sendai-仙台-love-hotels-東北都會的隱密住宿美學-b1597b.html
 published: 2026-06-26
-quality_score: 6.5
+quality_score: 8.7
 tags: 仙台住宿, 東北戀愛旅館, 情侶住宿, 仙台觀光, 日本住宿指南
 license: CC BY 4.0
 ---

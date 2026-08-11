@@ -6,7 +6,7 @@ category: temple-stays
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-temple-stays-hiroshima-廣島寺院住宿完整指南-嚴選宿坊體驗與周邊秘境-3e348f.html
 published: 2026-06-02
-quality_score: 6.5
+quality_score: 8.5
 tags: 廣島住宿, 寺廟住宿, 尾道旅行, 宮島住宿, 宿坊體驗
 license: CC BY 4.0
 ---

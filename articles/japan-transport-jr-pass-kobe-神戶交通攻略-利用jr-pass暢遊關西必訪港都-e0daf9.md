@@ -6,7 +6,7 @@ category: jr-pass
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-jr-pass-kobe-神戶交通攻略-利用jr-pass暢遊關西必訪港都-e0daf9.html
 published: 2026-06-06
-quality_score: 7.5
+quality_score: 8.8
 tags: 神戶JR Pass, 關西周遊券, 神戶交通, 神戶景點, 北野異人館
 license: CC BY 4.0
 ---

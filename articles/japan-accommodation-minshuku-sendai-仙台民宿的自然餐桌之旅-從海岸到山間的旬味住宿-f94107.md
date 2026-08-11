@@ -6,7 +6,7 @@ category: minshuku
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-sendai-仙台民宿的自然餐桌之旅-從海岸到山間的旬味住宿-f94107.html
 published: 2026-06-27
-quality_score: 6.5
+quality_score: 8.7
 tags: 仙台民宿, 東北住宿, 松島牡蠣, 藏王樹冰, 山形溫泉
 license: CC BY 4.0
 ---

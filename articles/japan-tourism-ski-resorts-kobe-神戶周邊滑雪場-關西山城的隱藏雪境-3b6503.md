@@ -6,7 +6,7 @@ category: ski-resorts
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-ski-resorts-kobe-神戶周邊滑雪場-關西山城的隱藏雪境-3b6503.html
 published: 2026-05-25
-quality_score: 6.5
+quality_score: 8.6
 tags: 神戶滑雪, 關西滑雪, 六甲山, 一日滑雪, 神戶親子遊
 license: CC BY 4.0
 ---

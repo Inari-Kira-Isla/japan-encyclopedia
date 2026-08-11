@@ -6,7 +6,7 @@ category: shinkansen
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-kobe-神戶へのアクセス鐵道完全ガイド-東京・大阪からの新娘幹線活用術-37f749.html
 published: 2026-06-09
-quality_score: 7.5
+quality_score: 8.7
 tags: 神戶新娘幹線, 關西交通, 神戶鐵道, 日本新娘幹線, 神戶旅遊
 license: CC BY 4.0
 ---

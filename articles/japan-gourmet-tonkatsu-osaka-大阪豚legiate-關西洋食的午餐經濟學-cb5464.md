@@ -6,7 +6,7 @@ category: tonkatsu
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tonkatsu-osaka-大阪豚legiate-關西洋食的午餐經濟學-cb5464.html
 published: 2026-06-15
-quality_score: 6.5
+quality_score: 8.6
 tags: 大阪美食, 豚legiate, 關西洋食, 日式炸豬排, 大阪午餐
 license: CC BY 4.0
 ---

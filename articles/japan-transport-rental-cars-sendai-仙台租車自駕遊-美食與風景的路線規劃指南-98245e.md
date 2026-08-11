@@ -6,7 +6,7 @@ category: rental-cars
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-sendai-仙台租車自駕遊-美食與風景的路線規劃指南-98245e.html
 published: 2026-05-31
-quality_score: 7.5
+quality_score: 8.9
 tags: 仙台租車, 東北自駕遊, 松島海岸, 藏王狐狸村, 山寺
 license: CC BY 4.0
 ---

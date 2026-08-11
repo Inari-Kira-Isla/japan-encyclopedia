@@ -6,7 +6,7 @@ category: nature-trails
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-fukuoka-福岡自然步道-森林浴養生療癒指南-e9e3ac.html
 published: 2026-06-15
-quality_score: 6.5
+quality_score: 8.7
 tags: 福岡自然步道, 森林浴, 九州步道, 健康旅遊, 日本戶外探險
 license: CC BY 4.0
 ---

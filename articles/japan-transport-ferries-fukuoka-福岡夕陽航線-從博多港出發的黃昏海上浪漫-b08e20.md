@@ -6,7 +6,7 @@ category: ferries
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-ferries-fukuoka-福岡夕陽航線-從博多港出發的黃昏海上浪漫-b08e20.html
 published: 2026-06-29
-quality_score: 7.5
+quality_score: 8.4
 tags: 福岡渡輪, 夕陽航線, 博多港, 九州島嶼, 海上日落
 license: CC BY 4.0
 ---

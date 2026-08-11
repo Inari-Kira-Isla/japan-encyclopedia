@@ -6,7 +6,7 @@ category: ferries
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-ferries-fukuoka-福岡渡輪美學-從博多港出發的海岸線風物詩-0df0a2.html
 published: 2026-06-04
-quality_score: 7.5
+quality_score: 8.6
 tags: 福岡, 渡輪, 博多港, 九州交通, 海上移動
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: anime-manga
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-fukuoka-福岡動漫創作生態圈-九州創意產業的隱藏寶庫-760231.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 福岡動漫, 創作生態, 獨立動畫, 同人文化, 日韓合作
 license: CC BY 4.0
 ---

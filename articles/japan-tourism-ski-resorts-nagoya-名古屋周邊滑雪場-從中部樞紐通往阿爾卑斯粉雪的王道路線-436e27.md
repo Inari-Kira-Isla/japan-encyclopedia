@@ -6,7 +6,7 @@ category: ski-resorts
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-ski-resorts-nagoya-名古屋周邊滑雪場-從中部樞紐通往阿爾卑斯粉雪的王道路線-436e27.html
 published: 2026-06-05
-quality_score: 6.5
+quality_score: 8.5
 tags: 名古屋滑雪, 名古屋旅遊, 日本阿爾卑斯山, 中部地方滑雪場, 歧阜滑雪
 license: CC BY 4.0
 ---

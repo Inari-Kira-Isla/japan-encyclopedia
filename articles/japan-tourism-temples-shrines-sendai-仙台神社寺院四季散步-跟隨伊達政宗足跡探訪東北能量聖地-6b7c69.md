@@ -6,7 +6,7 @@ category: temples-shrines
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-temples-shrines-sendai-仙台神社寺院四季散步-跟隨伊達政宗足跡探訪東北能量聖地-6b7c69.html
 published: 2026-06-15
-quality_score: 6.5
+quality_score: 8.9
 tags: 仙台, 神社, 寺院, 伊達政宗, 東北能量
 license: CC BY 4.0
 ---

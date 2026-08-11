@@ -6,7 +6,7 @@ category: minshuku
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-fukuoka-福岡民宿完整指南-港町風情中的魚市場生活體驗-204c56.html
 published: 2026-06-25
-quality_score: 6.5
+quality_score: 8.6
 tags: 福岡民宿, 港町住宿, 魚市場體驗, 九州旅行, 玄界灘海鮮
 license: CC BY 4.0
 ---

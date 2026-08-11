@@ -6,7 +6,7 @@ category: vr-experiences
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-vr-experiences-tokyo-東京vr體驗完全指南-秋葉原以外的虛擬實境新熱點-c5d015.html
 published: 2026-06-18
-quality_score: 6.5
+quality_score: 8.5
 tags: 東京VR, 虛擬實境, 東京娛樂, 東京景點, VR體驗
 license: CC BY 4.0
 ---

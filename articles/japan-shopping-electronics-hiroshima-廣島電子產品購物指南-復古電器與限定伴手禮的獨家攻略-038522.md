@@ -6,7 +6,7 @@ category: electronics
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-electronics-hiroshima-廣島電子產品購物指南-復古電器與限定伴手禮的獨家攻略-038522.html
 published: 2026-06-07
-quality_score: 7.5
+quality_score: 8.7
 tags: 廣島電子產品, 復古電器, 限定伴手禮, 廣島購物, 日本中國地區
 license: CC BY 4.0
 ---

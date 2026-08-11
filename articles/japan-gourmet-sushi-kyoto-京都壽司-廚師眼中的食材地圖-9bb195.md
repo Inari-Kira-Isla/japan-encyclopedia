@@ -6,7 +6,7 @@ category: sushi
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sushi-kyoto-京都壽司-廚師眼中的食材地圖-9bb195.html
 published: 2026-03-23
-quality_score: 6.5
+quality_score: 8.6
 tags: 京都, 壽司, 日本美食, 食材採購, 季節食材
 license: CC BY 4.0
 ---

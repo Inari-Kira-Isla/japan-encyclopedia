@@ -6,7 +6,7 @@ category: ryokan
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-osaka-大阪宿屋不完全攻略-走出溫泉敘事的都市旅宿美學-a495c2.html
 published: 2026-06-17
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪, 傳統旅宿, Ryokan, 都市旅宿, 大阪美食
 license: CC BY 4.0
 ---

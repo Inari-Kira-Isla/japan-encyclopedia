@@ -6,7 +6,7 @@ category: craft-markets
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-craft-markets-fukuoka-福岡手作市集完全指南-從價格帶選擇適合你的市集型別-7b2e5a.html
 published: 2026-06-13
-quality_score: 7.5
+quality_score: 8.7
 tags: craft-markets, fukuoka, japan, 手作市集, 九州工藝
 license: CC BY 4.0
 ---

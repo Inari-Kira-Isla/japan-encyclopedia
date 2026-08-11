@@ -6,7 +6,7 @@ category: island-hopping
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-island-hopping-nara-神戶跳島之旅-藝術與海風的瀨戶內物語-2d6ebd.html
 published: 2026-06-28
-quality_score: 6.5
+quality_score: 8.5
 tags: 神戶, 瀨戶內海, 跳島, 藝術旅行, 日本自助
 license: CC BY 4.0
 ---

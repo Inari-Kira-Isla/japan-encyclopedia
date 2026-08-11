@@ -6,7 +6,7 @@ category: boutique-hotels
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-nagoya-名古屋精品酒店-文化十字路口的設計棲居-串聯中都會與地方小鎮的住宿新選-6e38af.html
 published: 2026-06-12
-quality_score: 6.5
+quality_score: 8.8
 tags: 名古屋精品酒店, 中部地方住宿, 榮區酒店, 金山站住宿, 名古屋站周邊
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: karaoke
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-karaoke-okinawa-沖繩卡拉ok-三代同堂的歌聲傳承-0b678e.html
 published: 2026-03-28
-quality_score: 6.5
+quality_score: 8.9
 tags: 沖繩娛樂, 多世代社交, 家族旅遊, 傳統民謠, 島嶼文化
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: ferries
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-ferries-nagoya-名古屋港口體驗指南-伊勢灣畔的工業港都水路風情-41713a.html
 published: 2026-06-03
-quality_score: 7.5
+quality_score: 8.6
 tags: 名古屋, 港口, 伊勢灣, 海鮮, 名古屋港
 license: CC BY 4.0
 ---

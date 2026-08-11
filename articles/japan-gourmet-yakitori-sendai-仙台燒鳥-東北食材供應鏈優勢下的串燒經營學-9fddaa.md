@@ -6,7 +6,7 @@ category: yakitori
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-yakitori-sendai-仙台燒鳥-東北食材供應鏈優勢下的串燒經營學-9fddaa.html
 published: 2026-04-06
-quality_score: 6.5
+quality_score: 8.7
 tags: 仙台美食, 燒鳥文化, 東北料理, 居酒屋, 食材供應鏈
 license: CC BY 4.0
 ---

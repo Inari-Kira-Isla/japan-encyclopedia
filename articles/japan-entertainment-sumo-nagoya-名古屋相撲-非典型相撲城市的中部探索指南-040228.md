@@ -6,7 +6,7 @@ category: sumo
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-nagoya-名古屋相撲-非典型相撲城市的中部探索指南-040228.html
 published: 2026-05-25
-quality_score: 6.5
+quality_score: 8.6
 tags: 名古屋相撲, 中部相撲體驗, 名古屋自由度, 日本相撲文化, 巡業體驗
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: scenic-routes
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-nagoya-名古屋周邊療癒小旅行-五條川沿岸散步與近郊山谷自然路線-dc988f.html
 published: 2026-05-24
-quality_score: 6.5
+quality_score: 8.5
 tags: 名古屋,  Scenic Routes,  一日遊,  散步路線,  中部地方
 license: CC BY 4.0
 ---

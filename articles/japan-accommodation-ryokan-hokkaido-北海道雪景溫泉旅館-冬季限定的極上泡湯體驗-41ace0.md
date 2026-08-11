@@ -6,7 +6,7 @@ category: ryokan
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-hokkaido-北海道雪景溫泉旅館-冬季限定的極上泡湯體驗-41ace0.html
 published: 2026-06-24
-quality_score: 6.5
+quality_score: 8.6
 tags: 北海道, 溫泉旅馆, 冬季旅行, 雪景溫泉, 道央溫泉
 license: CC BY 4.0
 ---

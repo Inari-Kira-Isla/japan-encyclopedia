@@ -6,7 +6,7 @@ category: business-hotels
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-business-hotels-osaka-大阪商務酒店-車站周邊的生活機能指南-fee83f.html
 published: 2026-05-24
-quality_score: 6.5
+quality_score: 8.8
 tags: 大阪商務酒店, 大阪住宿推薦, 關西商務旅行, 大阪車站周邊住宿, 商務旅客住宿指南
 license: CC BY 4.0
 ---

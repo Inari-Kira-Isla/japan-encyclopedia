@@ -6,7 +6,7 @@ category: nightlife
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-kobe-神戶夜生活完全攻略-在地人帶路的港都深夜食堂-37d780.html
 published: 2026-06-17
-quality_score: 6.5
+quality_score: 9.0
 tags: 神戶夜生活, 神戶美食, 港都夜景, 深夜食堂, 關西夜遊
 license: CC BY 4.0
 ---

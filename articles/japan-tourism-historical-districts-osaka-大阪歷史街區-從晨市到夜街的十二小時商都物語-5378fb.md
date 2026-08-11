@@ -6,7 +6,7 @@ category: historical-districts
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-osaka-大阪歷史街區-從晨市到夜街的十二小時商都物語-5378fb.html
 published: 2026-06-11
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪歷史街區, 黑門市場, 道頓堀, 日本橋, 新世界
 license: CC BY 4.0
 ---

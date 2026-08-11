@@ -6,7 +6,7 @@ category: minshuku
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-sendai-仙台民宿完全指南-松島海岸的晨霧與波聲-海岸城鎮的慢節奏住宿-663b6a.html
 published: 2026-06-12
-quality_score: 6.5
+quality_score: 8.6
 tags: 仙台民宿, 松島海岸, 日本三名勝, 海岸住宿, 慢旅體驗
 license: CC BY 4.0
 ---

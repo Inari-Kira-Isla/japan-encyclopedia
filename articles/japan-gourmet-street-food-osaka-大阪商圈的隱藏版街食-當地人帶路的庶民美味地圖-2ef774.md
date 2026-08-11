@@ -6,7 +6,7 @@ category: street-food
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-street-food-osaka-大阪商圈的隱藏版街食-當地人帶路的庶民美味地圖-2ef774.html
 published: 2026-06-06
-quality_score: 6.5
+quality_score: 8.6
 tags: 大阪, 街頭美食, 商圈, 庶民美食, 隱藏版
 license: CC BY 4.0
 ---

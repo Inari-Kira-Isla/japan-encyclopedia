@@ -6,7 +6,7 @@ category: yakitori
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-yakitori-osaka-大阪清酒與美食的在地搭配-釀酒廠周邊的食堂文化與味覺體驗-598255.html
 published: 2026-06-08
-quality_score: 6.5
+quality_score: 8.5
 tags: 大阪清酒, 釀酒廠, 美食搭配, 關西料理, 酒廠食堂
 license: CC BY 4.0
 ---

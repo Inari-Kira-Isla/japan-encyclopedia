@@ -6,7 +6,7 @@ category: tax-free-shopping
 area: japan
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-tax-free-shopping-日本免稅購物完整指南2026-10-消費稅退稅-免稅店-外籍旅客日本購物省錢攻略-jp-tax-d4f204.html
 published: 2026-04-19
-quality_score: 7.1
+quality_score: 7.7
 tags: 日本免稅購物, 日本退稅攻略, 日本消費稅, 日本藥妝退稅, 日本購物省錢
 license: CC BY 4.0
 ---

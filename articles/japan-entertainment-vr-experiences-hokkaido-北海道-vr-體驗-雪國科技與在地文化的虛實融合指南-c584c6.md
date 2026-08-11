@@ -6,7 +6,7 @@ category: vr-experiences
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-vr-experiences-hokkaido-北海道-vr-體驗-雪國科技與在地文化的虛實融合指南-c584c6.html
 published: 2026-06-13
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道 VR 體驗, 北海道娛樂, 札幌 VR, 小樽 VR, 北海道科技娛樂
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: metro-systems
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-sendai-仙台地下鐵-租車雙模式-東北放射狀旅遊的最佳動線規劃-1b2497.html
 published: 2026-06-20
-quality_score: 7.5
+quality_score: 8.7
 tags: 仙台地下鐵, 東北旅遊, 地下鐵租車組合, 放射狀旅遊, 仙台美食
 license: CC BY 4.0
 ---

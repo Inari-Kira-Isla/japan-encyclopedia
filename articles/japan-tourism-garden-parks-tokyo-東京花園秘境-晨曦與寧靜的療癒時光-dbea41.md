@@ -6,7 +6,7 @@ category: garden-parks
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-tokyo-東京花園秘境-晨曦與寧靜的療癒時光-dbea41.html
 published: 2026-06-15
-quality_score: 6.5
+quality_score: 8.5
 tags: 東京花園, 晨間體驗, 都市綠意, 江戶庭園, 免費景點
 license: CC BY 4.0
 ---

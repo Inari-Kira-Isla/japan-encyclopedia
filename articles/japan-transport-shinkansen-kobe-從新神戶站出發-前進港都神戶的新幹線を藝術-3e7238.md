@@ -6,7 +6,7 @@ category: shinkansen
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-kobe-從新神戶站出發-前進港都神戶的新幹線を藝術-3e7238.html
 published: 2026-06-04
-quality_score: 7.5
+quality_score: 8.7
 tags: 神戶, 新神戶站, 新干线, 關西鐵道, 山陽新干线
 license: CC BY 4.0
 ---

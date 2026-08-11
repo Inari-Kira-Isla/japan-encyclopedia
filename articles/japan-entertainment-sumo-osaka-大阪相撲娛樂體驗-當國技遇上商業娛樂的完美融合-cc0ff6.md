@@ -6,7 +6,7 @@ category: sumo
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-osaka-大阪相撲娛樂體驗-當國技遇上商業娛樂的完美融合-cc0ff6.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪娛樂, 相撲體驗, 主題餐廳, 夜生活, 互動體驗
 license: CC BY 4.0
 ---

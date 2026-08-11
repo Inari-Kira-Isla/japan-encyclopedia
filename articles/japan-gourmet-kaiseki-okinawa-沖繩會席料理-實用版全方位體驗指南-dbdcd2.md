@@ -6,7 +6,7 @@ category: kaiseki
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-kaiseki-okinawa-沖繩會席料理-實用版全方位體驗指南-dbdcd2.html
 published: 2026-05-21
-quality_score: 6.5
+quality_score: 8.7
 tags: 沖繩會席料理, 沖繩美食, 琉球的味, やんばる豚, 海葡萄
 license: CC BY 4.0
 ---

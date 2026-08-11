@@ -6,7 +6,7 @@ category: anime-otaku
 area: japan
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-anime-otaku-日本動漫和秋葉原完整指南2026-acg聖地-扭蛋-景品-東京-大阪-京都動漫旅遊攻略-jp-anime--5dae63.html
 published: 2026-03-28
-quality_score: 7.6
+quality_score: 8.5
 tags: 日本動漫旅遊, 秋葉原, 日本ACG, 扭蛋, 動漫聖地巡禮
 license: CC BY 4.0
 ---

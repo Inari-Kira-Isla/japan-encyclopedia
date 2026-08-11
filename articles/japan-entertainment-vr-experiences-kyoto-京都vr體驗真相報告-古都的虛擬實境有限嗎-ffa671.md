@@ -6,7 +6,7 @@ category: vr-experiences
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-vr-experiences-kyoto-京都vr體驗真相報告-古都的虛擬實境有限嗎-ffa671.html
 published: 2026-06-10
-quality_score: 6.5
+quality_score: 8.7
 tags: 京都VR體驗, 關西VR, 京都旅遊, 京都科技娛樂, 神戶AR體驗
 license: CC BY 4.0
 ---

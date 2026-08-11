@@ -6,7 +6,7 @@ category: duty-free
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-duty-free-hiroshima-廣島免稅購物指南-澳門路環的日本風情小店與在地特產-98acde.html
 published: 2026-06-28
-quality_score: 7.5
+quality_score: 8.6
 tags: 廣島免稅店, 路環購物, 澳門免稅, 日本特產, 主題小店
 license: CC BY 4.0
 ---

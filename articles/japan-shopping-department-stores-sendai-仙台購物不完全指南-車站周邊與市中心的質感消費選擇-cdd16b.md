@@ -6,7 +6,7 @@ category: department-stores
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-department-stores-sendai-仙台購物不完全指南-車站周邊與市中心的質感消費選擇-cdd16b.html
 published: 2026-06-02
-quality_score: 7.5
+quality_score: 8.7
 tags: 仙台購物, 東北限定, 日本 百貨公司, 一番町, PARCO
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: kaiseki
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-kaiseki-tokyo-東京懷石料理-商都節奏中的精緻日常-8491e5.html
 published: 2026-06-14
-quality_score: 6.5
+quality_score: 8.5
 tags: 東京懷石, 東京美食, 日本料理, 懷石料理, 東京美食推薦
 license: CC BY 4.0
 ---

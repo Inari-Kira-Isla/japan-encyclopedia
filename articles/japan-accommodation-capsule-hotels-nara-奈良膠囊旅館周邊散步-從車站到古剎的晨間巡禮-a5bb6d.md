@@ -6,7 +6,7 @@ category: capsule-hotels
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-capsule-hotels-nara-奈良膠囊旅館周邊散步-從車站到古剎的晨間巡禮-a5bb6d.html
 published: 2026-06-24
-quality_score: 6.5
+quality_score: 8.9
 tags: 奈良膠囊旅館, 關西住宿, 奈良自由行, 古都住宿推薦, 奈良公園
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: sushi
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sushi-kobe-神戶壽司-港都早市的魚市場哲學-1a89fc.html
 published: 2026-05-22
-quality_score: 6.5
+quality_score: 8.5
 tags: 神戶壽司, 神戶美食, 港都海味, 瀨戶內海鲜, 神戶旅游
 license: CC BY 4.0
 ---

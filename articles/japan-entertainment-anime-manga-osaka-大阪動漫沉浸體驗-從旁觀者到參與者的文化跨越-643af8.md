@@ -6,7 +6,7 @@ category: anime-manga
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-osaka-大阪動漫沉浸體驗-從旁觀者到參與者的文化跨越-643af8.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 動漫體驗, 聲優文化, VR娛樂, 大阪旅遊, 互動體驗
 license: CC BY 4.0
 ---

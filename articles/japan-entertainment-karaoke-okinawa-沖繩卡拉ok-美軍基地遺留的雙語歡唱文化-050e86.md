@@ -6,7 +6,7 @@ category: karaoke
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-karaoke-okinawa-沖繩卡拉ok-美軍基地遺留的雙語歡唱文化-050e86.html
 published: 2026-07-01
-quality_score: 6.5
+quality_score: 8.7
 tags: 沖繩, 卡拉OK, 夜生活, 美軍基地, 雙語環境
 license: CC BY 4.0
 ---

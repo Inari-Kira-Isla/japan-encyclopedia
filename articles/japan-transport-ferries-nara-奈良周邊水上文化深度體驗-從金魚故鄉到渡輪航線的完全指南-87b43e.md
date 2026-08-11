@@ -6,7 +6,7 @@ category: ferries
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-ferries-nara-奈良周邊水上文化深度體驗-從金魚故鄉到渡輪航線的完全指南-87b43e.html
 published: 2026-06-18
-quality_score: 7.5
+quality_score: 8.6
 tags: 奈良旅遊, 大和郡山金魚, 關西深度遊, 水上體驗, 渡輪島
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: sushi
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sushi-kobe-神戶壽司-港都壽司店的隠藏版名單-cabc53.html
 published: 2026-06-04
-quality_score: 6.5
+quality_score: 8.7
 tags: 神戶美食, 神戶壽司, 瀨戶內海, 港都美食, 日本壽司
 license: CC BY 4.0
 ---

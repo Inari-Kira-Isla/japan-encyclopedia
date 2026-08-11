@@ -6,7 +6,7 @@ category: metro-systems
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-nagoya-名古屋地鐵通勤攻略-多營運商系統的日常使用智慧-4769b7.html
 published: 2026-04-06
-quality_score: 7.5
+quality_score: 8.5
 tags: 名古屋交通, 地鐵系統, 通勤文化, 多營運商, 轉乘攻略
 license: CC BY 4.0
 ---

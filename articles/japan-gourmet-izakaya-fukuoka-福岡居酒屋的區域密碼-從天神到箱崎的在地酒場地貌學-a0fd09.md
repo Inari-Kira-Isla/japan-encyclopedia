@@ -6,7 +6,7 @@ category: izakaya
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-izakaya-fukuoka-福岡居酒屋的區域密碼-從天神到箱崎的在地酒場地貌學-a0fd09.html
 published: 2026-06-03
-quality_score: 6.5
+quality_score: 8.9
 tags: 福岡居酒屋, 天神美食, 中洲川端, 屋台文化, 內臟燒烤
 license: CC BY 4.0
 ---

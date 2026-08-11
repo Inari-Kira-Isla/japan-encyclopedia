@@ -6,7 +6,7 @@ category: depachika
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-depachika-kyoto-京都-depachika-在地人的廚房後盾-千年古都的食文化縮影-97ecf0.html
 published: 2026-06-25
-quality_score: 6.5
+quality_score: 8.7
 tags: 京都美食, Depachika, 京料理, 在地美食, 日本料理
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: escape-rooms
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-escape-rooms-okinawa-沖繩密室逃脫-融合美軍文化與琉球古文明的沉浸式解謎體驗-04282a.html
 published: 2026-06-11
-quality_score: 6.5
+quality_score: 8.5
 tags: 沖繩, 密室逃脫, 解謎遊戲, 室內娛樂, 那霸
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: nightlife
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-hokkaido-北海道夜生活-札幌以外的雪國夜色探險-2fa277.html
 published: 2026-05-24
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道夜生活, 小樽運河, 旭川拉麵, 十勝帶廣, 日本美食
 license: CC BY 4.0
 ---

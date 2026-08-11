@@ -6,7 +6,7 @@ category: souvenir-omiyage
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-souvenir-omiyage-tokyo-東京超商伴手禮效率購物攻略-便利商店的隱藏版名產與時間活用術-05dd54.html
 published: 2026-04-06
-quality_score: 7.5
+quality_score: 8.9
 tags: 東京伴手禮, 便利商店, 超商购物, 東京自由行,  Omigae
 license: CC BY 4.0
 ---

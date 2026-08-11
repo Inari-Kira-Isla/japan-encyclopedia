@@ -6,7 +6,7 @@ category: temple-stays
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-temple-stays-hokkaido-北海道寺廟參訪-雪國的禪意之路-e949fd.html
 published: 2026-06-13
-quality_score: 6.5
+quality_score: 8.2
 tags: 北海道, 寺廟參訪, 札幌, 宗教旅遊, 文化體驗
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: anime-manga
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-nagoya-名古屋動漫文化指南-中部玩家的日常小宇宙-26bac5.html
 published: 2026-06-03
-quality_score: 6.5
+quality_score: 8.9
 tags: 名古屋, 動漫, 日本中部, 御宅文化, 動漫聖地
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: temples-shrines
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-temples-shrines-nara-奈良寺廟神社巡禮-千年古都的宗教文化瑰寶-d53dd4.html
 published: 2026-03-15
-quality_score: 6.5
+quality_score: 8.8
 tags: 奈良, 寺廟, 神社, 世界文化遺產, 大佛
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: kabuki-theatre
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-kabuki-theatre-kanazawa-金澤表演藝術場館-傳統與現代的戲劇之都-538fde.html
 published: 2026-06-22
-quality_score: 6.5
+quality_score: 8.6
 tags: 金澤表演藝術, 金澤劇場, 能劇, 日本傳統表演, 北陸文化
 license: CC BY 4.0
 ---

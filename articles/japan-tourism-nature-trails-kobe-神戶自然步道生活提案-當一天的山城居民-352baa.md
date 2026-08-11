@@ -6,7 +6,7 @@ category: nature-trails
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-kobe-神戶自然步道生活提案-當一天的山城居民-352baa.html
 published: 2026-06-26
-quality_score: 6.5
+quality_score: 8.7
 tags: 神戶, 自然步道, 健行, 六甲山, 有馬溫泉
 license: CC BY 4.0
 ---

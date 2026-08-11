@@ -6,7 +6,7 @@ category: ferries
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-ferries-sendai-仙台渡輪-往返松島灣與牡鹿半島的生活航道實用指南-e33423.html
 published: 2026-05-24
-quality_score: 7.5
+quality_score: 8.4
 tags: 仙台渡輪, 松島灣交通, 牡鹿半島, 田代島, 日本沿海交通
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: 100-yen-shops
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-100-yen-shops-osaka-大阪百元商店-街區探險版-天王寺-新世界-阿倍野購物散步地圖-79ac8c.html
 published: 2026-05-22
-quality_score: 7.5
+quality_score: 8.7
 tags: 大阪百元商店, 天王寺購物, 新世界散步, 阿倍野Harukas, 大阪自由行
 license: CC BY 4.0
 ---

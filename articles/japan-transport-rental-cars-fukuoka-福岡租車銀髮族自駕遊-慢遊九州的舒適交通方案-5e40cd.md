@@ -6,7 +6,7 @@ category: rental-cars
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-fukuoka-福岡租車銀髮族自駕遊-慢遊九州的舒適交通方案-5e40cd.html
 published: 2026-06-05
-quality_score: 7.5
+quality_score: 8.5
 tags: 福岡租車, 九州自駕, 銀髮族旅遊, 太宰府, 湯布院
 license: CC BY 4.0
 ---

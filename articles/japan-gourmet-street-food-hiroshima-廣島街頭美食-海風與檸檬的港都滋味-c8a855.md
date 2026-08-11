@@ -6,7 +6,7 @@ category: street-food
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-street-food-hiroshima-廣島街頭美食-海風與檸檬的港都滋味-c8a855.html
 published: 2026-05-21
-quality_score: 6.5
+quality_score: 8.8
 tags: 廣島美食, 吳市, 街頭小吃, 廣島牡蠣, 日本料理
 license: CC BY 4.0
 ---

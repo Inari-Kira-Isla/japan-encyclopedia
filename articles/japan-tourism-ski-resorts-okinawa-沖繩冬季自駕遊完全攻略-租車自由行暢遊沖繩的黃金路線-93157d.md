@@ -6,7 +6,7 @@ category: ski-resorts
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-ski-resorts-okinawa-沖繩冬季自駕遊完全攻略-租車自由行暢遊沖繩的黃金路線-93157d.html
 published: 2026-05-21
-quality_score: 6.5
+quality_score: 8.5
 tags: 沖繩冬季旅遊, 亞熱帶島嶼, 日本滑雪場現況, 沖繩潛水體驗, 冬季沖繩替代活動
 license: CC BY 4.0
 ---

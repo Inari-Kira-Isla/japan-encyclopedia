@@ -6,7 +6,7 @@ category: jr-pass
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-jr-pass-hiroshima-廣島出發的中國地區鐵道漫遊-jr-pass選擇與周邊秘境徹底指南-1a3b18.html
 published: 2026-06-26
-quality_score: 7.5
+quality_score: 8.8
 tags: 廣島JR Pass, 中國地區, 山陰山陽, 鐵道旅遊, 日本秘境
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: street-food
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-street-food-nagoya-名古屋產業都市的深夜食堂-工業區周邊的職人小食路徑-88d7f6.html
 published: 2026-06-26
-quality_score: 6.5
+quality_score: 8.5
 tags: 名古屋, 街頭美食, 產業都市, 職人食堂, 八丁味噌
 license: CC BY 4.0
 ---

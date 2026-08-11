@@ -6,7 +6,7 @@ category: wagyu
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-wagyu-kyoto-京都和牛完全指南-從家常到奢華的完整攻略-5564cb.html
 published: 2026-06-10
-quality_score: 6.5
+quality_score: 8.7
 tags: 京都和牛, 京都美食, 日本和牛, 京都燒肉, 京都湯豆腐
 license: CC BY 4.0
 ---

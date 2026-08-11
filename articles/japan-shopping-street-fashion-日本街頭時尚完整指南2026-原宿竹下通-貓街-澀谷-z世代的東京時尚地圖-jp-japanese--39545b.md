@@ -6,7 +6,7 @@ category: street-fashion
 area: japan
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-street-fashion-日本街頭時尚完整指南2026-原宿竹下通-貓街-澀谷-z世代的東京時尚地圖-jp-japanese--39545b.html
 published: 2026-03-31
-quality_score: 7.1
+quality_score: 8.6
 tags: 原宿時尚, 竹下通, 日本街頭文化, 澀谷109, 日本古著
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: jr-pass
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-jr-pass-nagoya-名古屋旅遊交通攻略-沒有專屬pass-這是正確觀念-3db332.html
 published: 2026-06-22
-quality_score: 7.5
+quality_score: 8.6
 tags: 名古屋交通, JR Pass教學, 中部周遊券, 立山黑部, 金澤交通
 license: CC BY 4.0
 ---

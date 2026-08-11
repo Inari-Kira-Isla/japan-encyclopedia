@@ -6,7 +6,7 @@ category: ferries
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-ferries-tokyo-東京離島渡輪指南-竹芝碼頭通往伊豆七島的微度假之旅-6f6eec.html
 published: 2026-03-24
-quality_score: 7.5
+quality_score: 8.8
 tags: 東京渡輪, 伊豆七島, 竹芝碼頭, 海島度假, 日本交通
 license: CC BY 4.0
 ---

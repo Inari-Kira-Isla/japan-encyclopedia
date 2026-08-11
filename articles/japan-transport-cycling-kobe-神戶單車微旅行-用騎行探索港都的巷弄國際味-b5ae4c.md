@@ -6,7 +6,7 @@ category: cycling
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-kobe-神戶單車微旅行-用騎行探索港都的巷弄國際味-b5ae4c.html
 published: 2026-05-25
-quality_score: 7.5
+quality_score: 8.6
 tags: 神戶單車, 神戶自由行, 神戶深度遊, 神戶國際化, 六甲山腳踏車
 license: CC BY 4.0
 ---

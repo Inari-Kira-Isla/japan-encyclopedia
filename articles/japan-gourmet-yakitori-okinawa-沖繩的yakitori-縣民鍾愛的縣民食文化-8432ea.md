@@ -6,7 +6,7 @@ category: yakitori
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-yakitori-okinawa-沖繩的yakitori-縣民鍾愛的縣民食文化-8432ea.html
 published: 2026-05-22
-quality_score: 6.5
+quality_score: 8.5
 tags: 沖繩燒鳥, 沖繩美食, 縣民食, 沖繩夜生活, Yakitori
 license: CC BY 4.0
 ---

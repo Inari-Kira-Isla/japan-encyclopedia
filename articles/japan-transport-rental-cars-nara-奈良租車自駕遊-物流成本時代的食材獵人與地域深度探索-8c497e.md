@@ -6,7 +6,7 @@ category: rental-cars
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-nara-奈良租車自駕遊-物流成本時代的食材獵人與地域深度探索-8c497e.html
 published: 2026-06-14
-quality_score: 7.5
+quality_score: 8.7
 tags: 奈良租車, 關西自駕, 吉野山, 宇陀市, 食材採購
 license: CC BY 4.0
 ---

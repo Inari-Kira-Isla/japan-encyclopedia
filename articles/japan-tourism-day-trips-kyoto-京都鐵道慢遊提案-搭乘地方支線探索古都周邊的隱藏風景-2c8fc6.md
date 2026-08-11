@@ -6,7 +6,7 @@ category: day-trips
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-kyoto-京都鐵道慢遊提案-搭乘地方支線探索古都周邊的隱藏風景-2c8fc6.html
 published: 2026-06-14
-quality_score: 6.5
+quality_score: 8.7
 tags: 京都一日遊, 鐵道旅行, 日本鐵道, 京都周邊, 秘境景點
 license: CC BY 4.0
 ---

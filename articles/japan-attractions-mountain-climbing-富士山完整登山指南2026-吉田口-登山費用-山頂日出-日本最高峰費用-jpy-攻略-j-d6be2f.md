@@ -6,7 +6,7 @@ category: mountain-climbing
 area: japan
 url: https://japan-encyclopedia.vercel.app/articles/japan-attractions-mountain-climbing-富士山完整登山指南2026-吉田口-登山費用-山頂日出-日本最高峰費用-jpy-攻略-j-d6be2f.html
 published: 2026-04-05
-quality_score: 7.6
+quality_score: 8.4
 tags: 富士山登山, 富士山日出, 富士山費用, 河口湖, 日本登山
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: day-trips
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-tokyo-東京一日遊完全指南-從首都出發的經典周邊探索-25b8e1.html
 published: 2026-05-23
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京一日遊, 日光世界遺產, 鎌倉大佛, 富士山景觀, 輕井澤度假
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: yakitori
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-yakitori-okinawa-沖繩燒鳥的島嶼風情-本地人帶路的隱藏版串燒攻略-0946ca.html
 published: 2026-05-31
-quality_score: 6.5
+quality_score: 8.7
 tags: 沖繩燒鳥, 沖繩美食, 那霸串燒, AGU豬肉, 島嶼居酒屋
 license: CC BY 4.0
 ---

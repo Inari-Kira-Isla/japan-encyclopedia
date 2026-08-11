@@ -6,7 +6,7 @@ category: castle-towns
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-castle-towns-tokyo-東京的城堡城鎮-從江戶城到近郊武士町的時空探索-add1c1.html
 published: 2026-05-31
-quality_score: 6.5
+quality_score: 8.6
 tags: 東京城堡城鎮, 江戶城, 歷史散步, 非典型觀光, 武士町
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: electronics
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-electronics-hiroshima-廣島工業電子元件採購指南-從製造業需求到技術服務的專業購物生態-e73c7e.html
 published: 2026-04-06
-quality_score: 7.5
+quality_score: 8.7
 tags: 工業電子, 電子元件, 技術服務, B2B採購, 廣島購物
 license: CC BY 4.0
 ---

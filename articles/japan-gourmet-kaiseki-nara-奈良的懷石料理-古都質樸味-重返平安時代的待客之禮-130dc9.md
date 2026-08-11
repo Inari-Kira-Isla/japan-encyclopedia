@@ -6,7 +6,7 @@ category: kaiseki
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-kaiseki-nara-奈良的懷石料理-古都質樸味-重返平安時代的待客之禮-130dc9.html
 published: 2026-06-02
-quality_score: 6.5
+quality_score: 8.7
 tags: 奈良美食, 会席料理, 日本古都, 大和路, 旅行攻略
 license: CC BY 4.0
 ---

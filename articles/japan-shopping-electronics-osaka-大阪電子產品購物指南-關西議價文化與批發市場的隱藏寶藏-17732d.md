@@ -6,7 +6,7 @@ category: electronics
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-electronics-osaka-大阪電子產品購物指南-關西議價文化與批發市場的隱藏寶藏-17732d.html
 published: 2026-06-17
-quality_score: 7.5
+quality_score: 8.5
 tags: 大阪電子產品, 日本橋電器街, 關西購物, 議價文化, 電子零件批發
 license: CC BY 4.0
 ---

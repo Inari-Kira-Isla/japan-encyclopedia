@@ -6,7 +6,7 @@ category: cycling
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-nagoya-名古屋單車漫遊-穿越工業都市的生活紋理-6350be.html
 published: 2026-07-01
-quality_score: 7.5
+quality_score: 8.8
 tags: 名古屋單車, 日本單車旅行, 中部國際機場, 日本自由行, 單車道推薦
 license: CC BY 4.0
 ---

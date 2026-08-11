@@ -6,7 +6,7 @@ category: minshuku
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-fukuoka-福岡山系溫泉民宿-脊振山麓的釀酒人家住宿指南-78cbeb.html
 published: 2026-06-06
-quality_score: 6.5
+quality_score: 8.7
 tags: 福岡民宿, 山系溫泉, 釀酒文化, 九州住宿, 八女市
 license: CC BY 4.0
 ---

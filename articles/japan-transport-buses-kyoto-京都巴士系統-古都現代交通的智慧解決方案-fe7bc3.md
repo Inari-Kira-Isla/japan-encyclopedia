@@ -6,7 +6,7 @@ category: buses
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-buses-kyoto-京都巴士系統-古都現代交通的智慧解決方案-fe7bc3.html
 published: 2026-04-04
-quality_score: 7.5
+quality_score: 8.6
 tags: 京都交通, 日本巴士, 公共運輸, 旅遊攻略, 交通券
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: nightlife
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-okinawa-沖繩夜生活-多元文化交融的星夜體驗-bc44c5.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 沖繩夜生活, 多元文化, 美軍基地, 琉球傳統, 國際化
 license: CC BY 4.0
 ---

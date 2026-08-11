@@ -6,7 +6,7 @@ category: business-hotels
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-business-hotels-nagoya-名古屋展覽商務住宿指南-港口展館與產業會展的最佳住宿策略-0de73d.html
 published: 2026-06-11
-quality_score: 6.5
+quality_score: 8.5
 tags: 名古屋商務住宿, 展覽出差指南, ポートメッセ名古屋, 産業會舘, 中部産業博覽會
 license: CC BY 4.0
 ---

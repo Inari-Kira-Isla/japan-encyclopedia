@@ -6,7 +6,7 @@ category: street-food
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-street-food-hokkaido-北海道冬季街頭美食-冰點下的海鮮王國-9b1ae0.html
 published: 2026-04-04
-quality_score: 6.5
+quality_score: 8.5
 tags: 北海道, 冬季美食, 海鮮, 街頭小吃, 小樽
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: temple-stays
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-temple-stays-nara-奈良宿坊預約攻略-古都佛教起源地的深度靜謐體驗-92661a.html
 published: 2026-06-23
-quality_score: 6.5
+quality_score: 8.5
 tags: 奈良宿坊, 寺廟住宿, 日本佛教, 古都奈良, 修行體驗
 license: CC BY 4.0
 ---

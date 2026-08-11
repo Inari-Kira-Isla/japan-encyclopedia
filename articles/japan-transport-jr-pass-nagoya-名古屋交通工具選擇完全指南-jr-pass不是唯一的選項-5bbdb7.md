@@ -6,7 +6,7 @@ category: jr-pass
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-jr-pass-nagoya-名古屋交通工具選擇完全指南-jr-pass不是唯一的選項-5bbdb7.html
 published: 2026-06-04
-quality_score: 7.5
+quality_score: 8.7
 tags: 名古屋自助, JR Pass教學, 日本交通費, 中部北陸, 名古屋交通
 license: CC BY 4.0
 ---

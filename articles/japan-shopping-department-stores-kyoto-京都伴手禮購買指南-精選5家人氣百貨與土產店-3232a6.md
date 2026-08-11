@@ -6,7 +6,7 @@ category: department-stores
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-department-stores-kyoto-京都伴手禮購買指南-精選5家人氣百貨與土產店-3232a6.html
 published: 2026-06-07
-quality_score: 7.5
+quality_score: 8.7
 tags: 京都購物, 京都伴手禮, 京都百货公司, 京都自由行, 日本购物指南
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: duty-free
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-duty-free-kyoto-京都免稅購物銀髮族友善指南-長輩輕鬆逛-愉快買的古城慢遊路線-9642dd.html
 published: 2026-06-15
-quality_score: 7.5
+quality_score: 8.7
 tags: 京都免稅, 銀髮族旅遊, 京都購物, 日本退稅, 銀髮族友善
 license: CC BY 4.0
 ---

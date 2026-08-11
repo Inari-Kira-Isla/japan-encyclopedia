@@ -6,7 +6,7 @@ category: matcha-sweets
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-matcha-sweets-kobe-神戶抹茶甜點-山海之間的綠意日常-8d7b45.html
 published: 2026-06-24
-quality_score: 6.5
+quality_score: 8.8
 tags: 神戶抹茶, 神戶甜點, 關西抹茶, 神戶咖啡, 港都美食
 license: CC BY 4.0
 ---

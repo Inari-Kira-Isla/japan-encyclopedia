@@ -6,7 +6,7 @@ category: buses
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-buses-tokyo-東京公車旅遊實戰-搭巴士探索-metro-到不了的東京秘密景點-df2be7.html
 published: 2026-06-13
-quality_score: 7.5
+quality_score: 8.7
 tags: 東京公車, 東京交通, 東京自由行, 東京秘境, 東京巴士
 license: CC BY 4.0
 ---

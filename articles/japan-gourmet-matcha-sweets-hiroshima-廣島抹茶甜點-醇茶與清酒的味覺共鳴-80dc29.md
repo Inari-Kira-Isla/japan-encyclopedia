@@ -6,7 +6,7 @@ category: matcha-sweets
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-matcha-sweets-hiroshima-廣島抹茶甜點-醇茶與清酒的味覺共鳴-80dc29.html
 published: 2026-06-23
-quality_score: 6.5
+quality_score: 8.6
 tags: 廣島, 抹茶甜點, 日本中國地區, 茶酒共生, 和平紀念
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: sushi
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sushi-kanazawa-金澤壽司的預算攻略-價位與美味的實用對照-5ff96c.html
 published: 2026-05-23
-quality_score: 6.5
+quality_score: 8.8
 tags: 金澤壽司, 日本海海鮮, 預算導向, 北路美食, 近江町市場
 license: CC BY 4.0
 ---

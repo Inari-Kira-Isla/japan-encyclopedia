@@ -6,7 +6,7 @@ category: jr-pass
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-jr-pass-kanazawa-金澤jr交通完全攻略-北上京阪前往金澤的古城的鐵道選擇-4aa106.html
 published: 2026-06-04
-quality_score: 7.5
+quality_score: 8.7
 tags: 金澤交通, JR Pass教學, 北陆新干线, 金澤景點, 金澤自由行
 license: CC BY 4.0
 ---

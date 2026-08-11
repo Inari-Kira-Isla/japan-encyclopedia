@@ -6,7 +6,7 @@ category: tonkatsu
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tonkatsu-hokkaido-北海道炸豬排-十勝平原的畜產王國-乳製品與豚肉的味覺冒險-4352cc.html
 published: 2026-06-09
-quality_score: 6.5
+quality_score: 8.6
 tags: 北海道炸豬排, 十勝豚, 北海道美食, 帶廣, 札幌
 license: CC BY 4.0
 ---

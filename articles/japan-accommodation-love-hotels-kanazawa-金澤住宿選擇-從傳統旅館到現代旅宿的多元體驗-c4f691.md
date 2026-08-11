@@ -6,7 +6,7 @@ category: love-hotels
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-love-hotels-kanazawa-金澤住宿選擇-從傳統旅館到現代旅宿的多元體驗-c4f691.html
 published: 2026-06-06
-quality_score: 6.5
+quality_score: 8.6
 tags: 金澤住宿, 金澤旅遊, 石川縣, 金澤自由行, 日本住宿指南
 license: CC BY 4.0
 ---

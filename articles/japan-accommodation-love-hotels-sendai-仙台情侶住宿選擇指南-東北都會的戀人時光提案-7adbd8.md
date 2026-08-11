@@ -6,7 +6,7 @@ category: love-hotels
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-love-hotels-sendai-仙台情侶住宿選擇指南-東北都會的戀人時光提案-7adbd8.html
 published: 2026-06-19
-quality_score: 6.5
+quality_score: 8.6
 tags: 仙台住宿, 東北旅遊, 情侶約會, 仙台自由行, 日本住宿攻略
 license: CC BY 4.0
 ---

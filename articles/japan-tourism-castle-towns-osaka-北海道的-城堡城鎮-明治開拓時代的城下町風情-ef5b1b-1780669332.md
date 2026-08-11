@@ -6,7 +6,7 @@ category: castle-towns
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-castle-towns-osaka-北海道的-城堡城鎮-明治開拓時代的城下町風情-ef5b1b-1780669332.html
 published: 2026-06-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道, 城下町, 歷史小鎮, 明治時代, 開拓
 license: CC BY 4.0
 ---

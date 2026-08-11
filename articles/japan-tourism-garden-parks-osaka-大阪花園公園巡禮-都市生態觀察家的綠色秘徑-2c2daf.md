@@ -6,7 +6,7 @@ category: garden-parks
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-osaka-大阪花園公園巡禮-都市生態觀察家的綠色秘徑-2c2daf.html
 published: 2026-05-23
-quality_score: 6.5
+quality_score: 8.6
 tags: 大阪, 花园公园, 生态观察, 关西旅游, 城市绿洲
 license: CC BY 4.0
 ---

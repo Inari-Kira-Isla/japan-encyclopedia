@@ -6,7 +6,7 @@ category: theme-parks
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-theme-parks-nagoya-名古屋主題樂園與休閒設施-中部地區的家庭同樂首選-c3cb5f.html
 published: 2026-05-25
-quality_score: 6.5
+quality_score: 8.5
 tags: 名古屋主題樂園, 名古屋親子景點, 中部地區家庭遊, 東山動植物園, 日本樂園推薦
 license: CC BY 4.0
 ---

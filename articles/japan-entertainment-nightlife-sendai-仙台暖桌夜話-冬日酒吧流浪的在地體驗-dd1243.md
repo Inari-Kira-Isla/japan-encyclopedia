@@ -6,7 +6,7 @@ category: nightlife
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-sendai-仙台暖桌夜話-冬日酒吧流浪的在地體驗-dd1243.html
 published: 2026-06-29
-quality_score: 6.5
+quality_score: 8.6
 tags: 仙台夜生活, 東北夜生活, 立飲店文化, 三攤體驗, 日本酒吧推薦
 license: CC BY 4.0
 ---

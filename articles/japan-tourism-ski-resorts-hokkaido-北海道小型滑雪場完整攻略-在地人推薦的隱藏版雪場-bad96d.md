@@ -6,7 +6,7 @@ category: ski-resorts
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-ski-resorts-hokkaido-北海道小型滑雪場完整攻略-在地人推薦的隱藏版雪場-bad96d.html
 published: 2026-06-05
-quality_score: 6.5
+quality_score: 8.5
 tags: 北海道滑雪場, 小型滑雪場, 在地推薦, 北海道自由行, 滑雪Budget首選
 license: CC BY 4.0
 ---

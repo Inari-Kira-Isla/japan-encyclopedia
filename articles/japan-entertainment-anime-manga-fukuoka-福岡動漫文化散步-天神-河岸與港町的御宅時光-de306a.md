@@ -6,7 +6,7 @@ category: anime-manga
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-fukuoka-福岡動漫文化散步-天神-河岸與港町的御宅時光-de306a.html
 published: 2026-05-21
-quality_score: 6.5
+quality_score: 8.6
 tags: 福岡, 動漫, 動漫游戲, 御宅文化, 九州
 license: CC BY 4.0
 ---

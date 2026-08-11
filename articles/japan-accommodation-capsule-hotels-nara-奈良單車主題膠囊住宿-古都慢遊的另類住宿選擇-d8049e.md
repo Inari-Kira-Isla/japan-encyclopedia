@@ -6,7 +6,7 @@ category: capsule-hotels
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-capsule-hotels-nara-奈良單車主題膠囊住宿-古都慢遊的另類住宿選擇-d8049e.html
 published: 2026-06-19
-quality_score: 6.5
+quality_score: 8.6
 tags: 奈良膠囊住宿, 單車旅遊, 古都住宿, 關西自助旅行, Nara Budget Accommodation
 license: CC BY 4.0
 ---

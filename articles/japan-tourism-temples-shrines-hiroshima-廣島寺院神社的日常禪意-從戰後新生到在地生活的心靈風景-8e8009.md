@@ -6,7 +6,7 @@ category: temples-shrines
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-temples-shrines-hiroshima-廣島寺院神社的日常禪意-從戰後新生到在地生活的心靈風景-8e8009.html
 published: 2026-06-11
-quality_score: 6.5
+quality_score: 8.7
 tags: 廣島神社, 廣島寺院, 宮島嚴島神社, 廣島和平之旅, 日本宗教建築
 license: CC BY 4.0
 ---

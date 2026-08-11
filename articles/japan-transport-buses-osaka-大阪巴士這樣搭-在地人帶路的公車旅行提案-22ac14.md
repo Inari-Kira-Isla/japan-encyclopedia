@@ -6,7 +6,7 @@ category: buses
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-buses-osaka-大阪巴士這樣搭-在地人帶路的公車旅行提案-22ac14.html
 published: 2026-06-03
-quality_score: 7.5
+quality_score: 8.7
 tags: 大阪交通, 關西巴士, 大阪自由行, 高速巴士, 大阪市營巴士
 license: CC BY 4.0
 ---

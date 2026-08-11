@@ -6,7 +6,7 @@ category: duty-free
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-duty-free-okinawa-沖繩免稅購物完全指南-遠離人潮的島嶼限定好物-8472a5.html
 published: 2026-06-01
-quality_score: 7.5
+quality_score: 8.6
 tags: 沖繩免稅, 沖繩購物, 那霸机场免税店, DFS冲绳, 冲绳伴手礼
 license: CC BY 4.0
 ---

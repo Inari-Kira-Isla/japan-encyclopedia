@@ -6,7 +6,7 @@ category: kaiseki
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-kaiseki-kobe-神戶懷石料理-港都百年洋風與酒的相逢-8cde25.html
 published: 2026-05-22
-quality_score: 6.5
+quality_score: 8.5
 tags: 神戶懷石, 港都美食, 阪神foodscene, 有馬溫泉, 灘五鄉
 license: CC BY 4.0
 ---

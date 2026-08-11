@@ -6,7 +6,7 @@ category: temples-shrines
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-temples-shrines-tokyo-東京神社的功能性參拜指南-求學業-旺財運-結良緣的專業祈福地圖-3e2d25.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京神社, 東京寺廟, 湯島天滿宮, 明治神宮, 淺草寺
 license: CC BY 4.0
 ---

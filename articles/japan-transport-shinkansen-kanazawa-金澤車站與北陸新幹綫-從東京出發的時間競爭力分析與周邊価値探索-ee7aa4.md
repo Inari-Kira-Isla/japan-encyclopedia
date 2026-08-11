@@ -6,7 +6,7 @@ category: shinkansen
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-kanazawa-金澤車站與北陸新幹綫-從東京出發的時間競爭力分析與周邊価値探索-ee7aa4.html
 published: 2026-06-19
-quality_score: 7.5
+quality_score: 8.5
 tags: 金澤, 北陸新幹綫, JR, 交通攻略, 時間成本
 license: CC BY 4.0
 ---

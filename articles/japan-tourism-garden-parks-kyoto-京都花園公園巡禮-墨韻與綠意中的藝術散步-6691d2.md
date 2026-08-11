@@ -6,7 +6,7 @@ category: garden-parks
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-kyoto-京都花園公園巡禮-墨韻與綠意中的藝術散步-6691d2.html
 published: 2026-06-03
-quality_score: 6.5
+quality_score: 8.5
 tags: 京都花園, 艺术散步, 古都秘密, 摄影景点, 文化之旅
 license: CC BY 4.0
 ---

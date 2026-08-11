@@ -6,7 +6,7 @@ category: temples-shrines
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-temples-shrines-nara-奈良寺廟神社四季巡禮-探索日本第一古都的季節限定聖境-855014.html
 published: 2026-04-06
-quality_score: 6.5
+quality_score: 8.5
 tags: 奈良, 寺廟神社, 季節體驗, 佛教文化, 古都巡禮
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: theme-parks
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-theme-parks-nagoya-名古屋產業主題樂園-toyota工廠見學與中部日本的工業深度體驗-590949.html
 published: 2026-06-21
-quality_score: 6.5
+quality_score: 8.7
 tags: 名古屋主題樂園, Toyota工廠見學, 産業文化體驗, 日本中部親子遊, 名古屋旅遊攻略
 license: CC BY 4.0
 ---

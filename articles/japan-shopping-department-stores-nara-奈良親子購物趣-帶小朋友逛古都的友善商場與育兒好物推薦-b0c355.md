@@ -6,7 +6,7 @@ category: department-stores
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-department-stores-nara-奈良親子購物趣-帶小朋友逛古都的友善商場與育兒好物推薦-b0c355.html
 published: 2026-06-09
-quality_score: 7.5
+quality_score: 8.7
 tags: 奈良購物, 親子旅遊, 關西家庭遊, 日本古都伴手禮, 奈良商場
 license: CC BY 4.0
 ---

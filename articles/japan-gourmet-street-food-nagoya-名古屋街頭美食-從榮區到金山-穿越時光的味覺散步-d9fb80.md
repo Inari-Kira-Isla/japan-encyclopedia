@@ -6,7 +6,7 @@ category: street-food
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-street-food-nagoya-名古屋街頭美食-從榮區到金山-穿越時光的味覺散步-d9fb80.html
 published: 2026-05-21
-quality_score: 6.5
+quality_score: 8.7
 tags: 名古屋, 街頭美食, 中部地方, 味噌料理, 榮區
 license: CC BY 4.0
 ---

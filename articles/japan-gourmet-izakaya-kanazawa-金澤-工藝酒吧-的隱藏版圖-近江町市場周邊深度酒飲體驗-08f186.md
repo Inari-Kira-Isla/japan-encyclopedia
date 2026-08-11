@@ -6,7 +6,7 @@ category: izakaya
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-izakaya-kanazawa-金澤-工藝酒吧-的隱藏版圖-近江町市場周邊深度酒飲體驗-08f186.html
 published: 2026-06-18
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤居酒屋, 近江町市場, 加賀料理, 金箔體驗, 北陸旅行
 license: CC BY 4.0
 ---

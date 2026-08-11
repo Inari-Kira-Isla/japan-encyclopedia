@@ -6,7 +6,7 @@ category: historical-districts
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-kyoto-京都歷史街區晨遊攻略-清晨六點的巷弄時光-54e0c1.html
 published: 2026-06-12
-quality_score: 6.5
+quality_score: 8.5
 tags: 京都歷史街區, 晨遊京都, 京都散步, 京都深度體驗, 京都早市
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: duty-free
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-duty-free-hokkaido-北海道免稅購物季節攻略-四季商品與匯率優勢完全解析-2f4b26.html
 published: 2026-04-06
-quality_score: 7.5
+quality_score: 8.8
 tags: 北海道, 免稅購物, 季節商品, 日圓貶值, 購物攻略
 license: CC BY 4.0
 ---

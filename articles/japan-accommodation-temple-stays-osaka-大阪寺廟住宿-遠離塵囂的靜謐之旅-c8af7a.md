@@ -6,7 +6,7 @@ category: temple-stays
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-temple-stays-osaka-大阪寺廟住宿-遠離塵囂的靜謐之旅-c8af7a.html
 published: 2026-06-02
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪寺廟住宿, temple stay, 大阪旅遊, 宿坊體驗, 日本佛教文化
 license: CC BY 4.0
 ---

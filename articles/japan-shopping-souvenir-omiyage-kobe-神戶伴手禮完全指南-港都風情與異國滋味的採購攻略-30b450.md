@@ -6,7 +6,7 @@ category: souvenir-omiyage
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-souvenir-omiyage-kobe-神戶伴手禮完全指南-港都風情與異國滋味的採購攻略-30b450.html
 published: 2026-06-04
-quality_score: 7.5
+quality_score: 8.6
 tags: 神戶, 伴手禮, 關西, 港都, 洋果子
 license: CC BY 4.0
 ---

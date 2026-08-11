@@ -6,7 +6,7 @@ category: sushi
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sushi-kobe-神戶壽司的四季變奏曲-在地食材與市場活力-f198f6.html
 published: 2026-03-23
-quality_score: 6.5
+quality_score: 8.6
 tags: 神戶美食, 壽司, 季節食材, 市場文化, 日本港都
 license: CC BY 4.0
 ---

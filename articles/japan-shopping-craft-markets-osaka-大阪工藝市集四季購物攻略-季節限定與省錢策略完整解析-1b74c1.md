@@ -6,7 +6,7 @@ category: craft-markets
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-craft-markets-osaka-大阪工藝市集四季購物攻略-季節限定與省錢策略完整解析-1b74c1.html
 published: 2026-04-05
-quality_score: 7.5
+quality_score: 8.8
 tags: 大阪購物, 工藝市集, 季節性消費, 省錢攻略, 日本手作
 license: CC BY 4.0
 ---

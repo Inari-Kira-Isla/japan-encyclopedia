@@ -6,7 +6,7 @@ category: tonkatsu
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tonkatsu-kyoto-京都炸豬排-巷弄中的元祖洋食屋-5c6dd5.html
 published: 2026-05-23
-quality_score: 6.5
+quality_score: 8.8
 tags: 京都美食, 炸豬排, 洋食, 京都旅遊, 日本料理
 license: CC BY 4.0
 ---

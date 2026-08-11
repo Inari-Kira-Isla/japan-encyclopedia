@@ -6,7 +6,7 @@ category: shinkansen
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-nara-奈良沒有新娘線-達人教你搭jr直達古都的實用攻略-b29289.html
 published: 2026-04-08
-quality_score: 7.5
+quality_score: 8.8
 tags: 奈良交通, 關西鐵道, 古都奈良, 日本鐵道, 奈良景點
 license: CC BY 4.0
 ---

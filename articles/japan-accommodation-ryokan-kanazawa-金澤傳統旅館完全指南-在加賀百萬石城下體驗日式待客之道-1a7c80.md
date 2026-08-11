@@ -6,7 +6,7 @@ category: ryokan
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-kanazawa-金澤傳統旅館完全指南-在加賀百萬石城下體驗日式待客之道-1a7c80.html
 published: 2026-06-13
-quality_score: 6.5
+quality_score: 8.5
 tags: 金澤Ryokan, 加賀料理, 金澤住宿, 日本傳統旅館, 北陸旅行
 license: CC BY 4.0
 ---

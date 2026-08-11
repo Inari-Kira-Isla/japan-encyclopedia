@@ -6,7 +6,7 @@ category: rental-cars
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-fukuoka-福岡租車戰略據點-征服整個九州的最佳起點-cede3e.html
 published: 2026-04-04
-quality_score: 7.5
+quality_score: 8.7
 tags: 福岡租車, 九州自駕, 日本租車, 九州旅遊, 自由行
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: craft-markets
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-craft-markets-osaka-大阪手做工藝市集完全指南-挖掘港都創意寶藏的購物攻略-02831a.html
 published: 2026-05-31
-quality_score: 7.5
+quality_score: 8.5
 tags: 大阪, 手做工藝市集, 購物攻略, 日本市集, 大阪自由行
 license: CC BY 4.0
 ---

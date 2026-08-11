@@ -6,7 +6,7 @@ category: boutique-hotels
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-hokkaido-北海道精品酒店-不只是住宿-雪國境鄉的四種生活風格提案-feb5a3.html
 published: 2026-05-22
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道, 精品酒店, 住宿推薦, 雪國旅遊, 登別溫泉
 license: CC BY 4.0
 ---

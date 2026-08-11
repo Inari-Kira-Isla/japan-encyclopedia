@@ -6,7 +6,7 @@ category: tempura
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tempura-sendai-仙台天婦羅-從港口到餐桌的在地美食路徑-21a20a.html
 published: 2026-05-24
-quality_score: 6.5
+quality_score: 9.0
 tags: 仙台天婦羅, 東北美食, 魚市場, 港口美食, 旅遊攻略
 license: CC BY 4.0
 ---

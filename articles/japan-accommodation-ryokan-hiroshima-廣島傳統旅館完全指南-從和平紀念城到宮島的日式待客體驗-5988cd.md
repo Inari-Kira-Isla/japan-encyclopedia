@@ -6,7 +6,7 @@ category: ryokan
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-hiroshima-廣島傳統旅館完全指南-從和平紀念城到宮島的日式待客體驗-5988cd.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 8.7
 tags: 廣島Ryokan, 日本傳統旅馆, 廣島住宿, 宮島住宿, 广島燒
 license: CC BY 4.0
 ---

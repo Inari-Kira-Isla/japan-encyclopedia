@@ -6,7 +6,7 @@ category: escape-rooms
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-escape-rooms-nara-奈良逃脫遊戲新手指南-古都裡的推理門道與不踩雷選擇法-d51aa1.html
 published: 2026-05-22
-quality_score: 6.5
+quality_score: 8.4
 tags: 奈良旅游, 密室逃脫, 关西娱乐, 推理游戏, 日本自由行
 license: CC BY 4.0
 ---

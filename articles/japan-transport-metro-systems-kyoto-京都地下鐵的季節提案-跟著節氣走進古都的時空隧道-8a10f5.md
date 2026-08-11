@@ -6,7 +6,7 @@ category: metro-systems
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-kyoto-京都地下鐵的季節提案-跟著節氣走進古都的時空隧道-8a10f5.html
 published: 2026-06-21
-quality_score: 7.5
+quality_score: 8.9
 tags: 京都地下鐵, 京都交通, 京都Metro, 京都不動產, 京都旅遊
 license: CC BY 4.0
 ---

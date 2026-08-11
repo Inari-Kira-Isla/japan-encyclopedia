@@ -6,7 +6,7 @@ category: street-food
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-street-food-okinawa-沖繩清晨胃袋-日出市場的島嶼滋味-c07a90.html
 published: 2026-05-22
-quality_score: 6.5
+quality_score: 8.4
 tags: 沖繩美食, 沖縄路边摊, 糸滿魚市場, 塔可飯, 海鮮定食
 license: CC BY 4.0
 ---

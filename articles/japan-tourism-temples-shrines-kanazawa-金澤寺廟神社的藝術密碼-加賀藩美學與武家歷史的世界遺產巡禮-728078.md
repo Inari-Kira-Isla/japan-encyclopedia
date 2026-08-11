@@ -6,7 +6,7 @@ category: temples-shrines
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-temples-shrines-kanazawa-金澤寺廟神社的藝術密碼-加賀藩美學與武家歷史的世界遺產巡禮-728078.html
 published: 2026-06-22
-quality_score: 6.5
+quality_score: 8.6
 tags: 
 license: CC BY 4.0
 ---

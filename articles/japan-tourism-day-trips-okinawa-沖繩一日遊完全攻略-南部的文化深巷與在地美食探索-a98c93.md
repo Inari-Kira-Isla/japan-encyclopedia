@@ -6,7 +6,7 @@ category: day-trips
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-okinawa-沖繩一日遊完全攻略-南部的文化深巷與在地美食探索-a98c93.html
 published: 2026-06-12
-quality_score: 6.5
+quality_score: 8.8
 tags: 沖繩一日遊, 南部景點, 首里城, 泡盛見學, 奧武島
 license: CC BY 4.0
 ---

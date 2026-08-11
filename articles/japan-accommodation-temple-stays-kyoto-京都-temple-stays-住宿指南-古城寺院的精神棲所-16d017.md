@@ -6,7 +6,7 @@ category: temple-stays
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-temple-stays-kyoto-京都-temple-stays-住宿指南-古城寺院的精神棲所-16d017.html
 published: 2026-06-23
-quality_score: 6.5
+quality_score: 8.7
 tags: 京都寺廟住宿, 宿坊, Temple Stay, 京都旅行, 日本佛教文化
 license: CC BY 4.0
 ---

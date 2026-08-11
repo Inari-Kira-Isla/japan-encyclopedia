@@ -6,7 +6,7 @@ category: 100-yen-shops
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-100-yen-shops-tokyo-東京100円商店鐵道沿線購物指南-都會銀髮族與通勤旅客的便利生活動線-405577.html
 published: 2026-06-22
-quality_score: 7.5
+quality_score: 8.4
 tags: 東京100円商店, 鐵道沿線購物, 都會銀髮族, 通勤旅客, 東京自由行
 license: CC BY 4.0
 ---

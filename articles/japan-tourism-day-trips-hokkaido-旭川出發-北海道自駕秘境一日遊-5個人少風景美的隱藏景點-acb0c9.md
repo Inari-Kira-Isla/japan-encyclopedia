@@ -6,7 +6,7 @@ category: day-trips
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-hokkaido-旭川出發-北海道自駕秘境一日遊-5個人少風景美的隱藏景點-acb0c9.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.6
 tags: 北海道自駕, 旭川一日遊, 美瑛景點, 層雲峽溫泉, 北海道秘境
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: metro-systems
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-osaka-大阪地下鐵的美食脈動-搭metro吃遍天下的廚房-69c18a.html
 published: 2026-06-29
-quality_score: 7.5
+quality_score: 8.9
 tags: 大阪地下鐵, 大阪美食, 大阪交通, 關西旅遊, 天下の台所
 license: CC BY 4.0
 ---

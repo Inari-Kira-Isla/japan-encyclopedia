@@ -6,7 +6,7 @@ category: souvenir-omiyage
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-souvenir-omiyage-sendai-仙台伴手禮這樣買-當地人的時間策略與隱藏版特產指南-ef300a.html
 published: 2026-03-24
-quality_score: 7.5
+quality_score: 8.9
 tags: 仙台, 伴手禮, 日本東北, 購物攻略, 時間策略
 license: CC BY 4.0
 ---

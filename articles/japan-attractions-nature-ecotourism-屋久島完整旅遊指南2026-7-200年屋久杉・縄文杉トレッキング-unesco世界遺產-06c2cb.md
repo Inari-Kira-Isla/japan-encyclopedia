@@ -6,7 +6,7 @@ category: nature-ecotourism
 area: japan
 url: https://japan-encyclopedia.vercel.app/articles/japan-attractions-nature-ecotourism-屋久島完整旅遊指南2026-7-200年屋久杉・縄文杉トレッキング-unesco世界遺產-06c2cb.html
 published: 2026-05-01
-quality_score: 6.1
+quality_score: 8.7
 tags: 屋久島, 権文杉, 白谷雲水峡, 屋久島世界遺產, 日本生態旅遊
 license: CC BY 4.0
 ---

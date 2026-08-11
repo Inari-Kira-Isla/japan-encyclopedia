@@ -6,7 +6,7 @@ category: fashion-harajuku
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-fashion-harajuku-nagoya-名古屋古著散步-在大須和榮探索日本中部的潮流寶藏-5f5191.html
 published: 2026-06-08
-quality_score: 7.5
+quality_score: 8.8
 tags: 名古屋購物, 古著, 大須, 榮商圈, 日本中部時尚
 license: CC BY 4.0
 ---

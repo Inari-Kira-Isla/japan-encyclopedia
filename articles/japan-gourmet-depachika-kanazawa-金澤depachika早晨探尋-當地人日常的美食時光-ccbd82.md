@@ -6,7 +6,7 @@ category: depachika
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-depachika-kanazawa-金澤depachika早晨探尋-當地人日常的美食時光-ccbd82.html
 published: 2026-05-22
-quality_score: 6.5
+quality_score: 8.6
 tags: 金澤, Depachika, 石川縣, 能登半島, 日本海
 license: CC BY 4.0
 ---

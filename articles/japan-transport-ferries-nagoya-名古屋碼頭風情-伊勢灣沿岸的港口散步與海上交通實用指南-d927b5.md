@@ -6,7 +6,7 @@ category: ferries
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-ferries-nagoya-名古屋碼頭風情-伊勢灣沿岸的港口散步與海上交通實用指南-d927b5.html
 published: 2026-06-06
-quality_score: 7.5
+quality_score: 8.5
 tags: 名古屋碼頭, 伊勢灣, 港口散步, 名古屋港水族館, 名古屋自由行
 license: CC BY 4.0
 ---

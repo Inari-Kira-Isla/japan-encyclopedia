@@ -6,7 +6,7 @@ category: festivals-matsuri
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-festivals-matsuri-osaka-大阪四大祭典深度導覽-從官方祭祀到街頭狂熱的完整攻略-e0b5c2.html
 published: 2026-06-03
-quality_score: 6.5
+quality_score: 8.9
 tags: 大阪祭典, 天神祭, 岸和田花車祭, 住道大社祭, 大阪自助遊
 license: CC BY 4.0
 ---

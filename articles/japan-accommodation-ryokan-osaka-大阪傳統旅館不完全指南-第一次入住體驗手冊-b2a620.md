@@ -6,7 +6,7 @@ category: ryokan
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-osaka-大阪傳統旅館不完全指南-第一次入住體驗手冊-b2a620.html
 published: 2026-06-03
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪, ryokan, 初學者, 都市温泉, 關西住宿
 license: CC BY 4.0
 ---

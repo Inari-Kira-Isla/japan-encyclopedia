@@ -6,7 +6,7 @@ category: sushi
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sushi-osaka-大阪壽司-黑門市場到食堂的流通革命-9d0e4f.html
 published: 2026-03-24
-quality_score: 6.5
+quality_score: 8.6
 tags: 大阪美食, 壽司, 黑門市場, 日本海鮮, 食堂文化
 license: CC BY 4.0
 ---

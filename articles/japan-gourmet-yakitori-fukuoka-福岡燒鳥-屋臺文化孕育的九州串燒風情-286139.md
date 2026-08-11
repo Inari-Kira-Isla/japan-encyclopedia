@@ -6,7 +6,7 @@ category: yakitori
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-yakitori-fukuoka-福岡燒鳥-屋臺文化孕育的九州串燒風情-286139.html
 published: 2026-04-06
-quality_score: 6.5
+quality_score: 8.9
 tags: 福岡美食, 燒鳥, 屋台文化, 九州料理, 博多雞
 license: CC BY 4.0
 ---

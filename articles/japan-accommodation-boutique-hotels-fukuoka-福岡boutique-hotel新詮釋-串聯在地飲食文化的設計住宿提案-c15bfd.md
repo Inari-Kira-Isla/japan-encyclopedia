@@ -6,7 +6,7 @@ category: boutique-hotels
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-fukuoka-福岡boutique-hotel新詮釋-串聯在地飲食文化的設計住宿提案-c15bfd.html
 published: 2026-06-02
-quality_score: 6.5
+quality_score: 8.7
 tags: 福冈boutiquehotel, 福冈住宿, 福冈美食, 福冈旅游, 日本精品酒店
 license: CC BY 4.0
 ---

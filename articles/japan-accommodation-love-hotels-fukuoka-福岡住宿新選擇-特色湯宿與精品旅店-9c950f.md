@@ -6,7 +6,7 @@ category: love-hotels
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-love-hotels-fukuoka-福岡住宿新選擇-特色湯宿與精品旅店-9c950f.html
 published: 2026-06-28
-quality_score: 6.5
+quality_score: 8.7
 tags: 福岡住宿, 九州旅行, 福岡精品旅店, 福岡商務飯店, 博多住宿
 license: CC BY 4.0
 ---

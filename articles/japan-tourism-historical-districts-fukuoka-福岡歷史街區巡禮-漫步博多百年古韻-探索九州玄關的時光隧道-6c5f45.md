@@ -6,7 +6,7 @@ category: historical-districts
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-fukuoka-福岡歷史街區巡禮-漫步博多百年古韻-探索九州玄關的時光隧道-6c5f45.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 8.8
 tags: 福岡, 博多, 歷史街區, 九州, 日本散步
 license: CC BY 4.0
 ---

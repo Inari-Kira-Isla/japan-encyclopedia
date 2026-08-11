@@ -6,7 +6,7 @@ category: sumo
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-hokkaido-北海道相撲-雪國溫泉與力士文化的冬日邂逅-c33158.html
 published: 2026-06-14
-quality_score: 6.5
+quality_score: 8.6
 tags: 北海道相撲, 雪國體驗, 冬季限定, 溫泉文化, 業餘相撲
 license: CC BY 4.0
 ---

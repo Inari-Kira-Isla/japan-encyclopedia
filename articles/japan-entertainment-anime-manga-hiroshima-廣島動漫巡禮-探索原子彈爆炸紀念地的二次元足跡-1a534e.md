@@ -6,7 +6,7 @@ category: anime-manga
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-hiroshima-廣島動漫巡禮-探索原子彈爆炸紀念地的二次元足跡-1a534e.html
 published: 2026-06-02
-quality_score: 6.5
+quality_score: 8.5
 tags: 廣島動漫, 廣島漫畫店, 廣島ACG, 廣島二次元, 宮島動漫
 license: CC BY 4.0
 ---

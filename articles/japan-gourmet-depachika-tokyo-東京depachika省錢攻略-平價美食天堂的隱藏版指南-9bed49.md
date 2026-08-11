@@ -6,7 +6,7 @@ category: depachika
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-depachika-tokyo-東京depachika省錢攻略-平價美食天堂的隱藏版指南-9bed49.html
 published: 2026-06-10
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京, Depachika, 平價美食, 省錢, 地下街
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: capsule-hotels
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-capsule-hotels-osaka-大阪膠囊旅館完全指南-從梅田到通天閣的住宿文化深度體驗-f897d9.html
 published: 2026-05-31
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪膠囊旅館, 大阪住宿, 大阪自由行, 難波住宿, 梅田住宿
 license: CC BY 4.0
 ---

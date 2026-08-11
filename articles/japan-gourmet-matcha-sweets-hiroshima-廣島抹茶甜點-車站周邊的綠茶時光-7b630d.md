@@ -6,7 +6,7 @@ category: matcha-sweets
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-matcha-sweets-hiroshima-廣島抹茶甜點-車站周邊的綠茶時光-7b630d.html
 published: 2026-05-25
-quality_score: 6.5
+quality_score: 8.9
 tags: 廣島抹茶甜點, 廣島美食, 廣島車站周邊, 日本抹茶, 廣島伴手禮
 license: CC BY 4.0
 ---

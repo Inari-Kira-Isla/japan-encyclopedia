@@ -6,7 +6,7 @@ category: tonkatsu
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tonkatsu-tokyo-東京炸豬排市場觀察-從供應鏈變化看首都美食趨勢-f357e3.html
 published: 2026-04-01
-quality_score: 6.5
+quality_score: 8.8
 tags: 東京美食, 炸豬排, 日式洋食, 東京餐廳, 美食評鑑
 license: CC BY 4.0
 ---

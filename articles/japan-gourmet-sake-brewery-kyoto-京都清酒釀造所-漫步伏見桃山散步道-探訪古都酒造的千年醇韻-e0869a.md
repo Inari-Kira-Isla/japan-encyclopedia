@@ -6,7 +6,7 @@ category: sake-brewery
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sake-brewery-kyoto-京都清酒釀造所-漫步伏見桃山散步道-探訪古都酒造的千年醇韻-e0869a.html
 published: 2026-05-22
-quality_score: 6.5
+quality_score: 8.8
 tags: 京都清酒, 伏見釀酒, 日本釀酒見學, 京阪電鐵沿線, 釀酒文化體驗
 license: CC BY 4.0
 ---

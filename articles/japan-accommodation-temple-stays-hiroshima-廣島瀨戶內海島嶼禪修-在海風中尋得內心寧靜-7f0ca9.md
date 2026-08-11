@@ -6,7 +6,7 @@ category: temple-stays
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-temple-stays-hiroshima-廣島瀨戶內海島嶼禪修-在海風中尋得內心寧靜-7f0ca9.html
 published: 2026-04-01
-quality_score: 6.5
+quality_score: 8.6
 tags: 廣島, 宿坊, 瀨戶內海, 禪修, 宮島
 license: CC BY 4.0
 ---

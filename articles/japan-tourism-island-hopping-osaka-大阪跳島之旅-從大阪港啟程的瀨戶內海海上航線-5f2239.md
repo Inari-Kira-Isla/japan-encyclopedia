@@ -6,7 +6,7 @@ category: island-hopping
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-island-hopping-osaka-大阪跳島之旅-從大阪港啟程的瀨戶內海海上航線-5f2239.html
 published: 2026-06-26
-quality_score: 6.5
+quality_score: 8.6
 tags: 大阪跳島, 瀨戶內海, 直島, 藝術島嶼, 大阪港
 license: CC BY 4.0
 ---

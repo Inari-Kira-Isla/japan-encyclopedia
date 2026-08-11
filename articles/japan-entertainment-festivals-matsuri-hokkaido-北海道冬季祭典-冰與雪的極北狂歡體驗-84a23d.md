@@ -6,7 +6,7 @@ category: festivals-matsuri
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-festivals-matsuri-hokkaido-北海道冬季祭典-冰與雪的極北狂歡體驗-84a23d.html
 published: 2026-06-04
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道冬季, 雪祭, 小樽雪燈之路, 旭川冬祭, 層雲峽冰瀑
 license: CC BY 4.0
 ---

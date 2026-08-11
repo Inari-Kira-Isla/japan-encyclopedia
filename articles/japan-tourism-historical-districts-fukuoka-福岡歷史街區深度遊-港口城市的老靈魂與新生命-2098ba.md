@@ -6,7 +6,7 @@ category: historical-districts
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-fukuoka-福岡歷史街區深度遊-港口城市的老靈魂與新生命-2098ba.html
 published: 2026-05-22
-quality_score: 6.5
+quality_score: 8.8
 tags: 福岡, 歷史街區, 博多, 港灣城市, 九州
 license: CC BY 4.0
 ---

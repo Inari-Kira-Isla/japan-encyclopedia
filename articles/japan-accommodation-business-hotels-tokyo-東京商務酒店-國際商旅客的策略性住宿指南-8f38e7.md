@@ -6,7 +6,7 @@ category: business-hotels
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-business-hotels-tokyo-東京商務酒店-國際商旅客的策略性住宿指南-8f38e7.html
 published: 2026-03-26
-quality_score: 6.5
+quality_score: 8.6
 tags: 東京住宿, 商務酒店, 國際商旅, 出差指南, 東京交通
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: metro-systems
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-fukuoka-福岡地下鐵沿線生活圈-通勤族與學生的日常軌道-33e9f2.html
 published: 2026-06-06
-quality_score: 7.5
+quality_score: 8.7
 tags: 福岡地下鐵, 機場線, 七隈線, 天神站, 通勤生活
 license: CC BY 4.0
 ---

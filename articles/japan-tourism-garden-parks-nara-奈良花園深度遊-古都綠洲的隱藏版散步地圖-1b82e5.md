@@ -6,7 +6,7 @@ category: garden-parks
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-nara-奈良花園深度遊-古都綠洲的隱藏版散步地圖-1b82e5.html
 published: 2026-07-03
-quality_score: 6.5
+quality_score: 8.8
 tags: 奈良花園, 古都散步, 日本寺院, 世界遺產, 春季賞櫻
 license: CC BY 4.0
 ---

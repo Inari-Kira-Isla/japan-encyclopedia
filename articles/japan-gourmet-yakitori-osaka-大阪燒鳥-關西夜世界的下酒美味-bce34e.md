@@ -6,7 +6,7 @@ category: yakitori
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-yakitori-osaka-大阪燒鳥-關西夜世界的下酒美味-bce34e.html
 published: 2026-06-03
-quality_score: 6.5
+quality_score: 8.9
 tags: 大阪燒鳥, 大阪美食, 關西料理, 串燒, 居酒屋
 license: CC BY 4.0
 ---

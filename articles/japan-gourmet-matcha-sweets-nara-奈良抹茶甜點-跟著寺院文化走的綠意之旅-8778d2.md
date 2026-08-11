@@ -6,7 +6,7 @@ category: matcha-sweets
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-matcha-sweets-nara-奈良抹茶甜點-跟著寺院文化走的綠意之旅-8778d2.html
 published: 2026-05-24
-quality_score: 6.5
+quality_score: 8.5
 tags: 奈良抹茶甜點, 關西抹茶, 寺院文化, 日本茶文化, 奈良甜點推薦
 license: CC BY 4.0
 ---

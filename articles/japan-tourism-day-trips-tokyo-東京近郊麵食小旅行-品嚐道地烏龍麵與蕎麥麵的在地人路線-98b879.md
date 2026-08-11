@@ -6,7 +6,7 @@ category: day-trips
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-tokyo-東京近郊麵食小旅行-品嚐道地烏龍麵與蕎麥麵的在地人路線-98b879.html
 published: 2026-06-03
-quality_score: 6.5
+quality_score: 8.6
 tags: 東京一日遊, 關東近郊, 烏龍麵, 蕎麥麵, 日本美食
 license: CC BY 4.0
 ---

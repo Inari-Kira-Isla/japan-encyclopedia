@@ -6,7 +6,7 @@ category: anime-manga
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-okinawa-沖繩動漫消費實錄-南國島民的御宅生活-de20f2.html
 published: 2026-05-21
-quality_score: 6.5
+quality_score: 8.7
 tags: 沖繩動漫, 御宅消費, 南國漫畫, 沖繩伴手禮, 日本最南端御宅
 license: CC BY 4.0
 ---

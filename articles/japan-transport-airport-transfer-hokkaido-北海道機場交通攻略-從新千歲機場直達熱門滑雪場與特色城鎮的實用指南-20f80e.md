@@ -6,7 +6,7 @@ category: airport-transfer
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-airport-transfer-hokkaido-北海道機場交通攻略-從新千歲機場直達熱門滑雪場與特色城鎮的實用指南-20f80e.html
 published: 2026-06-29
-quality_score: 7.5
+quality_score: 8.5
 tags: 北海道機場交通, 新千歲機場, 二世古滑雪場, 小樽交通, 旭川交通
 license: CC BY 4.0
 ---

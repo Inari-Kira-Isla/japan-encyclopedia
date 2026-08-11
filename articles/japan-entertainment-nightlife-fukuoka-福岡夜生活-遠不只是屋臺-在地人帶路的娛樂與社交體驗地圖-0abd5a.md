@@ -6,7 +6,7 @@ category: nightlife
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-fukuoka-福岡夜生活-遠不只是屋臺-在地人帶路的娛樂與社交體驗地圖-0abd5a.html
 published: 2026-06-02
-quality_score: 6.5
+quality_score: 8.4
 tags: 福岡夜生活, 九州娛樂, 遊戲中心, 精酿啤酒, 天神
 license: CC BY 4.0
 ---

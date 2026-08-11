@@ -6,7 +6,7 @@ category: yakitori
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-yakitori-fukuoka-福岡燒鳥-九州內臟燒烤與屋臺酒的在地風味-4d2211.html
 published: 2026-06-28
-quality_score: 6.5
+quality_score: 8.8
 tags: 福岡燒鳥, 九州內臟, 博多吃喝, 屋台文化, 福岡夜景
 license: CC BY 4.0
 ---

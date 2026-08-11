@@ -6,7 +6,7 @@ category: sushi
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sushi-kobe-神戶壽司-港都魚市場的職人日常與隱藏版-c737a6.html
 published: 2026-05-22
-quality_score: 6.5
+quality_score: 8.6
 tags: 神戶美食, 神戶壽司, 神戶中央卸売市場, 瀨戶內海, 在地美食
 license: CC BY 4.0
 ---

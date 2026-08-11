@@ -6,7 +6,7 @@ category: electronics
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-electronics-hiroshima-廣島電子產品購物指南-周邊城鎮的隱藏寶藏與在地特色-0ce03e.html
 published: 2026-06-20
-quality_score: 7.5
+quality_score: 8.7
 tags: 廣島電子產品, 廣島購物, 尾道電器行, 吳市電子產品, 福山電器
 license: CC BY 4.0
 ---

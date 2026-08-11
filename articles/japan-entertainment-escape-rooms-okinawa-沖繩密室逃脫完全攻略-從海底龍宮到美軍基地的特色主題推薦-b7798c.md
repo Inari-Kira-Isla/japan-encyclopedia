@@ -6,7 +6,7 @@ category: escape-rooms
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-escape-rooms-okinawa-沖繩密室逃脫完全攻略-從海底龍宮到美軍基地的特色主題推薦-b7798c.html
 published: 2026-06-03
-quality_score: 6.5
+quality_score: 8.7
 tags: 沖繩旅遊, 密室逃脫, 室內活動, 南國休閒, 雨備方案
 license: CC BY 4.0
 ---

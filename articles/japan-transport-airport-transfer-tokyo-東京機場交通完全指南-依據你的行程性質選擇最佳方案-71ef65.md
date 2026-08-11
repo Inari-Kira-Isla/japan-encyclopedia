@@ -6,7 +6,7 @@ category: airport-transfer
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-airport-transfer-tokyo-東京機場交通完全指南-依據你的行程性質選擇最佳方案-71ef65.html
 published: 2026-06-08
-quality_score: 7.5
+quality_score: 8.5
 tags: 東京機場交通, 、成田機場, 羽生機場, 機場接送, 日本交通
 license: CC BY 4.0
 ---

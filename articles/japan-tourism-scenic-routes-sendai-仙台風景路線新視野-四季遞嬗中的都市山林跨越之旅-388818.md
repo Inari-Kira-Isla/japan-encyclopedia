@@ -6,7 +6,7 @@ category: scenic-routes
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-sendai-仙台風景路線新視野-四季遞嬗中的都市山林跨越之旅-388818.html
 published: 2026-03-22
-quality_score: 6.5
+quality_score: 8.6
 tags: 仙台景觀, 四季風景, 城市山林過渡, 東北旅遊, 無障礙友善
 license: CC BY 4.0
 ---

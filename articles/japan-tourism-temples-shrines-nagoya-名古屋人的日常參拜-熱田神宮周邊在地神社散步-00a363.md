@@ -6,7 +6,7 @@ category: temples-shrines
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-temples-shrines-nagoya-名古屋人的日常參拜-熱田神宮周邊在地神社散步-00a363.html
 published: 2026-07-02
-quality_score: 6.5
+quality_score: 8.6
 tags: 名古屋神社, 熱田神宮, 草薙劍, 白鳥神社, 大須觀音
 license: CC BY 4.0
 ---

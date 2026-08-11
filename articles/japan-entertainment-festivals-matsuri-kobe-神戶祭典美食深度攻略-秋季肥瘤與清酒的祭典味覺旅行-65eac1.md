@@ -6,7 +6,7 @@ category: festivals-matsuri
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-festivals-matsuri-kobe-神戶祭典美食深度攻略-秋季肥瘤與清酒的祭典味覺旅行-65eac1.html
 published: 2026-05-24
-quality_score: 6.5
+quality_score: 8.7
 tags: 神戶祭典, 神戶美食, 灘五鄉清酒, 秋季祭典, 路邊攤
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: metro-systems
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-okinawa-沖繩都市軌道-島嶼經濟發展視角下的單軌電車創新實驗-ba4f5a.html
 published: 2026-03-27
-quality_score: 7.5
+quality_score: 8.8
 tags: 沖繩交通, 單軌電車, 島嶼經濟, 都市規劃, ゆいレール
 license: CC BY 4.0
 ---

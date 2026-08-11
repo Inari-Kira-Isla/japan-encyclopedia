@@ -6,7 +6,7 @@ category: gaming-arcades
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-gaming-arcades-sendai-仙台遊戲中心-東北在地玩家的私房攻略指南-b5cca9.html
 published: 2026-06-05
-quality_score: 6.5
+quality_score: 8.4
 tags: 仙台, 遊戲中心, 街機, 東北, 日本娛樂
 license: CC BY 4.0
 ---

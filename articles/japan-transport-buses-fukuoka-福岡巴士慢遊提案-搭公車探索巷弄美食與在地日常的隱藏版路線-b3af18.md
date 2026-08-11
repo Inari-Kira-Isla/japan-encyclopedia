@@ -6,7 +6,7 @@ category: buses
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-buses-fukuoka-福岡巴士慢遊提案-搭公車探索巷弄美食與在地日常的隱藏版路線-b3af18.html
 published: 2026-07-01
-quality_score: 7.5
+quality_score: 8.7
 tags: 福岡巴士, 九州交通, 公車旅行, 福岡美食, 庶民美食
 license: CC BY 4.0
 ---

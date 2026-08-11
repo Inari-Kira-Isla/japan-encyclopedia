@@ -6,7 +6,7 @@ category: ski-resorts
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-ski-resorts-nagoya-名古屋冬季一日遊-從中都心出發的快速滑雪方案-f4f213.html
 published: 2026-05-22
-quality_score: 6.5
+quality_score: 8.6
 tags: 名古屋滑雪, 日本中部滑雪, 名古屋一日遊, 岐阜県滑雪場, 長野県滑雪場
 license: CC BY 4.0
 ---

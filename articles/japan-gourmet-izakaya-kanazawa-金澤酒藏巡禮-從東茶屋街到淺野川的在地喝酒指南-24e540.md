@@ -6,7 +6,7 @@ category: izakaya
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-izakaya-kanazawa-金澤酒藏巡禮-從東茶屋街到淺野川的在地喝酒指南-24e540.html
 published: 2026-06-24
-quality_score: 6.5
+quality_score: 8.9
 tags: 金澤居酒屋, 加賀料理, 能登半島海鮮, 東茶屋街, 淺野川
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: tonkatsu
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tonkatsu-kanazawa-金澤炸豬排-近江町市場晨光裡的酥脆日常-17a716.html
 published: 2026-07-05
-quality_score: 6.5
+quality_score: 8.8
 tags: 金澤炸豬排, 近江町市場, 石川縣美食, 金澤洋食, 北陸美食
 license: CC BY 4.0
 ---

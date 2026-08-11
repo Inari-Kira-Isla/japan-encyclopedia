@@ -6,7 +6,7 @@ category: convenience-store
 area: japan
 url: https://japan-encyclopedia.vercel.app/articles/japan-food-convenience-store-日本便利商店-コンビニ-文化完整指南2026-7-eleven-familymart-lawson-日-0d9d95.html
 published: 2026-03-29
-quality_score: 7.6
+quality_score: 8.7
 tags: 日本便利商店, コンビニ, 7-Eleven日本, 日本コンビニ攻略, FamilyMart
 license: CC BY 4.0
 ---

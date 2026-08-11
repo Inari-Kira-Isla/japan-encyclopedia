@@ -6,7 +6,7 @@ category: day-trips
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-tokyo-東京單車一日遊-騎遇都市與自然的多元風光-3c2e7c.html
 published: 2026-06-09
-quality_score: 6.5
+quality_score: 8.9
 tags: 東京單車旅行, 東京一日遊, 東京單車租借, 關東單車道, 東京灣單車
 license: CC BY 4.0
 ---

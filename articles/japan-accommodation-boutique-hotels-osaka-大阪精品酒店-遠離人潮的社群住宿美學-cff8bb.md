@@ -6,7 +6,7 @@ category: boutique-hotels
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-osaka-大阪精品酒店-遠離人潮的社群住宿美學-cff8bb.html
 published: 2026-06-05
-quality_score: 6.5
+quality_score: 8.8
 tags: 大阪住宿, 精品酒店, 天王寺, 阿倍野, 新世界
 license: CC BY 4.0
 ---

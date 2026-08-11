@@ -6,7 +6,7 @@ category: minshuku
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-nara-奈良民宿完全指南-古都晨霧中的宿坊體驗與鹿之鄉的深夜物語-f46896.html
 published: 2026-06-23
-quality_score: 6.5
+quality_score: 8.7
 tags: 奈良民宿, 古都住宿, 寺院宿坊, 奈良町家, 鹿主題住宿
 license: CC BY 4.0
 ---

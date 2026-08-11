@@ -6,7 +6,7 @@ category: 100-yen-shops
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-100-yen-shops-nagoya-名古屋100円商店完全攻略-上班族到銀髮族的平價購物地圖-f9c07f.html
 published: 2026-03-23
-quality_score: 7.5
+quality_score: 8.7
 tags: 名古屋購物, 100円商店, 日本省錢攻略, 日本上班族, 銀髮族購物
 license: CC BY 4.0
 ---

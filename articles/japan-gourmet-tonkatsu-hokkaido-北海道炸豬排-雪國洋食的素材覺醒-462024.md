@@ -6,7 +6,7 @@ category: tonkatsu
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tonkatsu-hokkaido-北海道炸豬排-雪國洋食的素材覺醒-462024.html
 published: 2026-06-04
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道炸豬排, 道產豚肉, 札幌炸豬排, 小樽洋食, 北海道理財
 license: CC BY 4.0
 ---

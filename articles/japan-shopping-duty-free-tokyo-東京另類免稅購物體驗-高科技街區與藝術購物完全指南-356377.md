@@ -6,7 +6,7 @@ category: duty-free
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-duty-free-tokyo-東京另類免稅購物體驗-高科技街區與藝術購物完全指南-356377.html
 published: 2026-05-22
-quality_score: 7.5
+quality_score: 8.7
 tags: 東京免稅購物, 台場數位藝術, 秋葉原電子產品, 淺草伴手禮, 東京購物攻略
 license: CC BY 4.0
 ---

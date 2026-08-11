@@ -6,7 +6,7 @@ category: metro-systems
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-hiroshima-廣島電鐵完全攻略-產業樞紐的交通脈動與日常生活-6e0b38.html
 published: 2026-03-22
-quality_score: 7.5
+quality_score: 8.6
 tags: 廣島交通, 電鐵系統, 日本地方城市, 產業物流, 日常通勤
 license: CC BY 4.0
 ---

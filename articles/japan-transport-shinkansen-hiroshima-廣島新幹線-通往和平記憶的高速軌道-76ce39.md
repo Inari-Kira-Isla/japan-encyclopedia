@@ -6,7 +6,7 @@ category: shinkansen
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-hiroshima-廣島新幹線-通往和平記憶的高速軌道-76ce39.html
 published: 2026-04-05
-quality_score: 7.5
+quality_score: 8.7
 tags: 廣島新幹線, 和平紀念, 山陽新幹線, 宮島, 廣島燒
 license: CC BY 4.0
 ---

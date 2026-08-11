@@ -6,7 +6,7 @@ category: vintage-thrift
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-vintage-thrift-sendai-仙台古著尋寶-東北最大城的復古時尚攻略-3f425b.html
 published: 2026-05-23
-quality_score: 7.5
+quality_score: 8.8
 tags: 仙台古著, 东北购物, 日本古着, 复古时尚, 二手衣物
 license: CC BY 4.0
 ---

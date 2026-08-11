@@ -6,7 +6,7 @@ category: kabuki-theatre
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-kabuki-theatre-tokyo-東京kabuki劇場-從新手到行家的高cp值觀賞指南-91927e.html
 published: 2026-03-31
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京, Kabuki, 歌舞妓, 傳統表演藝術, 上野
 license: CC BY 4.0
 ---

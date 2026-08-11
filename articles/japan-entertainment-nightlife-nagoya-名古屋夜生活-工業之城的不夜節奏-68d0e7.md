@@ -6,7 +6,7 @@ category: nightlife
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-nagoya-名古屋夜生活-工業之城的不夜節奏-68d0e7.html
 published: 2026-06-25
-quality_score: 6.5
+quality_score: 8.5
 tags: 名古屋夜生活, 日本中部, 立飲文化, 居酒屋, 榮地區
 license: CC BY 4.0
 ---

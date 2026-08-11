@@ -6,7 +6,7 @@ category: metro-systems
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-tokyo-東京地鐵通勤密技-像本地上班族一樣優雅移動-0e1e0b.html
 published: 2026-04-05
-quality_score: 7.5
+quality_score: 8.6
 tags: 東京地鐵, 通勤文化, 交通攻略, 都市生活, 日本文化
 license: CC BY 4.0
 ---

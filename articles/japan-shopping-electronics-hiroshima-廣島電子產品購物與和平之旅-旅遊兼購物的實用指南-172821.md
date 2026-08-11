@@ -6,7 +6,7 @@ category: electronics
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-electronics-hiroshima-廣島電子產品購物與和平之旅-旅遊兼購物的實用指南-172821.html
 published: 2026-06-08
-quality_score: 7.5
+quality_score: 8.8
 tags: 廣島電子產品, 廣島購物, 廣島和平紀念, 日本電器, 中國地方電子產品
 license: CC BY 4.0
 ---

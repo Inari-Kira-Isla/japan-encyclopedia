@@ -6,7 +6,7 @@ category: capsule-hotels
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-capsule-hotels-nara-奈良膠囊旅館の文化旅人視點-參拜寺院與單車慢遊的住宿選擇-7d7305.html
 published: 2026-06-23
-quality_score: 6.5
+quality_score: 8.6
 tags: 奈良住宿, 膠囊旅館, 古都旅行, 寺院參拜, 單車旅遊
 license: CC BY 4.0
 ---

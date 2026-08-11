@@ -6,7 +6,7 @@ category: electronics
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-electronics-okinawa-沖繩銀髮族電子產品購物指南-適合長輩的科技禮品與便捷選購-e3e317.html
 published: 2026-03-30
-quality_score: 7.5
+quality_score: 8.5
 tags: 沖繩電子產品, 銀髮族購物, 長輩禮品, 免稅購物, 日本電器
 license: CC BY 4.0
 ---

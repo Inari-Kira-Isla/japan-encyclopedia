@@ -6,7 +6,7 @@ category: day-trips
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-hokkaido-北海道季節限定一日遊-跟著節氣走透北方大地-a57b1b.html
 published: 2026-06-16
-quality_score: 6.5
+quality_score: 8.5
 tags: 北海道一日遊, 四季限定, 春季賞櫻, 夏季海膽, 秋季楓葉
 license: CC BY 4.0
 ---

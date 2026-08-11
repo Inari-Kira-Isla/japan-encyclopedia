@@ -6,7 +6,7 @@ category: temples-shrines
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-temples-shrines-osaka-大阪商賣信仰導覽-天下の臺所的致富祈願神社-b63b0d.html
 published: 2026-06-09
-quality_score: 6.5
+quality_score: 8.5
 tags: 大阪, 神社, 寺院, 商賣信仰, 祈福
 license: CC BY 4.0
 ---

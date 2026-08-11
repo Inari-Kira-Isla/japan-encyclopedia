@@ -6,7 +6,7 @@ category: street-food
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-street-food-nagoya-名古屋街頭美食-地下街與機能城市的味覺探索-55470d.html
 published: 2026-05-24
-quality_score: 6.5
+quality_score: 8.7
 tags: 名古屋, 街頭美食, 地下街, 機能城市, 味噌
 license: CC BY 4.0
 ---

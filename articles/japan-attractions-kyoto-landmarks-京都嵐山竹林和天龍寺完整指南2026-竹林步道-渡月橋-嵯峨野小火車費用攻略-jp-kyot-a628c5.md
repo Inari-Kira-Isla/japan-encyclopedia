@@ -6,7 +6,7 @@ category: kyoto-landmarks
 area: japan
 url: https://japan-encyclopedia.vercel.app/articles/japan-attractions-kyoto-landmarks-京都嵐山竹林和天龍寺完整指南2026-竹林步道-渡月橋-嵯峨野小火車費用攻略-jp-kyot-a628c5.html
 published: 2026-04-01
-quality_score: 7.1
+quality_score: 8.6
 tags: 嵐山竹林, 京都嵐山, 天龍寺庭園, 嵯峨野小火車, 渡月橋
 license: CC BY 4.0
 ---

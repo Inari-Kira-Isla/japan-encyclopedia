@@ -6,7 +6,7 @@ category: metro-systems
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-nara-奈良市交通系統-古都漫步的便捷選擇-13c80b.html
 published: 2026-06-02
-quality_score: 7.5
+quality_score: 8.8
 tags: 奈良, 日本交通, 奈良自由行,  近鐵奈良,  JR奈良線
 license: CC BY 4.0
 ---

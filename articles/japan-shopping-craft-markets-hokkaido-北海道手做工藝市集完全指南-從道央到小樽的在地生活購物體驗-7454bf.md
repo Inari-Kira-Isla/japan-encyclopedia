@@ -6,7 +6,7 @@ category: craft-markets
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-craft-markets-hokkaido-北海道手做工藝市集完全指南-從道央到小樽的在地生活購物體驗-7454bf.html
 published: 2026-06-02
-quality_score: 7.5
+quality_score: 8.4
 tags: 北海道手做工藝市集, 札幌手作市集, 小樽玻璃工藝, 旭川木工, 十勝羊毛
 license: CC BY 4.0
 ---

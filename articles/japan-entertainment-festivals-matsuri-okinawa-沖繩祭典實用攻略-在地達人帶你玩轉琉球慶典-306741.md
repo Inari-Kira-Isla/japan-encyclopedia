@@ -6,7 +6,7 @@ category: festivals-matsuri
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-festivals-matsuri-okinawa-沖繩祭典實用攻略-在地達人帶你玩轉琉球慶典-306741.html
 published: 2026-03-25
-quality_score: 6.5
+quality_score: 8.9
 tags: 沖繩, 祭典, 太鼓舞, 那霸大祭, 首里城祭
 license: CC BY 4.0
 ---

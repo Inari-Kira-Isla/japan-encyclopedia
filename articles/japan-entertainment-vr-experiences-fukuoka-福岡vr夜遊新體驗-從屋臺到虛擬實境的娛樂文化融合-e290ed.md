@@ -6,7 +6,7 @@ category: vr-experiences
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-vr-experiences-fukuoka-福岡vr夜遊新體驗-從屋臺到虛擬實境的娛樂文化融合-e290ed.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 福岡娛樂, VR體驗, 夜生活, 九州旅遊, 電玩文化
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: kabuki-theatre
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-kabuki-theatre-hokkaido-北海道kabuki劇場迷思-沒有傳統劇院的真相與替代體驗完全指南-fafa34.html
 published: 2026-06-02
-quality_score: 6.5
+quality_score: 8.5
 tags: 北海道旅行, 表演藝術, 現場娛樂, 替代體驗, 札幌
 license: CC BY 4.0
 ---

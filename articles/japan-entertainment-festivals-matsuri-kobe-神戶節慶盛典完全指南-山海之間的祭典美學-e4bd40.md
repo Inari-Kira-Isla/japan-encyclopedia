@@ -6,7 +6,7 @@ category: festivals-matsuri
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-festivals-matsuri-kobe-神戶節慶盛典完全指南-山海之間的祭典美學-e4bd40.html
 published: 2026-06-02
-quality_score: 6.5
+quality_score: 8.6
 tags: 神戶祭典, 關西夏季活動, 神戶 Luminarie, 有馬溫泉, 南京町春節
 license: CC BY 4.0
 ---

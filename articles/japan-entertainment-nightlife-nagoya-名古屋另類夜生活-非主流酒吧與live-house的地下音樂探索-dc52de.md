@@ -6,7 +6,7 @@ category: nightlife
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-nagoya-名古屋另類夜生活-非主流酒吧與live-house的地下音樂探索-dc52de.html
 published: 2026-06-25
-quality_score: 6.5
+quality_score: 8.7
 tags: 名古屋夜生活, 地下音樂, Live House, 非主流酒吧, 名古屋景點
 license: CC BY 4.0
 ---

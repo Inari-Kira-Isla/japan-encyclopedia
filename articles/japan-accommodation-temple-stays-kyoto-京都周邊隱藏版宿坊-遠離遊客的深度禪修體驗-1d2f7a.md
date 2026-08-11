@@ -6,7 +6,7 @@ category: temple-stays
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-temple-stays-kyoto-京都周邊隱藏版宿坊-遠離遊客的深度禪修體驗-1d2f7a.html
 published: 2026-06-21
-quality_score: 6.5
+quality_score: 8.4
 tags: 京都宿坊, 寺廟住宿, 修驗道場, 比叡山, 鞍馬山
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: duty-free
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-duty-free-kyoto-京都免稅購物新視角-河原町商圈與百年老店的隱藏版省錢攻略-b8d79b.html
 published: 2026-07-02
-quality_score: 7.5
+quality_score: 8.8
 tags: 京都免稅, 河原町購物, 祇園特產, 京都老店, 日本購物攻略
 license: CC BY 4.0
 ---

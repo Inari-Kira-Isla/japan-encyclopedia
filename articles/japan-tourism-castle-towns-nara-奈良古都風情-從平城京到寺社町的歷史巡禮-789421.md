@@ -6,7 +6,7 @@ category: castle-towns
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-castle-towns-nara-奈良古都風情-從平城京到寺社町的歷史巡禮-789421.html
 published: 2026-03-14
-quality_score: 6.5
+quality_score: 8.8
 tags: 奈良, 歷史街區, 寺社町, 古都, 世界遺產
 license: CC BY 4.0
 ---

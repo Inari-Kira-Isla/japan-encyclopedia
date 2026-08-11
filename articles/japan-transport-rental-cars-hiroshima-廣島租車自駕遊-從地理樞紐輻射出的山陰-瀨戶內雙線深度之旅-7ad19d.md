@@ -6,7 +6,7 @@ category: rental-cars
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-hiroshima-廣島租車自駕遊-從地理樞紐輻射出的山陰-瀨戶內雙線深度之旅-7ad19d.html
 published: 2026-05-24
-quality_score: 7.5
+quality_score: 8.7
 tags: 廣島租車, 山陰海岸, 瀨戶內藝術, 自駕路線, 廣島自由行
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: temple-stays
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-temple-stays-kobe-神戶寺廟住宿-港都的禪意驛站-626715.html
 published: 2026-06-06
-quality_score: 6.5
+quality_score: 8.5
 tags: 神戶寺廟住宿, 關西禪修, 比叡山, 高野山, 書寫山圓教寺
 license: CC BY 4.0
 ---

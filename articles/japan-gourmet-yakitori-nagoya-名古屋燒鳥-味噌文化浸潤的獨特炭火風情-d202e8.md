@@ -6,7 +6,7 @@ category: yakitori
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-yakitori-nagoya-名古屋燒鳥-味噌文化浸潤的獨特炭火風情-d202e8.html
 published: 2026-07-06
-quality_score: 6.5
+quality_score: 8.9
 tags: 名古屋美食, 燒鳥, 日本料理, 味噌, 名古屋旅遊
 license: CC BY 4.0
 ---

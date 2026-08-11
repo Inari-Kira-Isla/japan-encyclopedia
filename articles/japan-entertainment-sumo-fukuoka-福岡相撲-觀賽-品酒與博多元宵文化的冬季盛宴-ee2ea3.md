@@ -6,7 +6,7 @@ category: sumo
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-fukuoka-福岡相撲-觀賽-品酒與博多元宵文化的冬季盛宴-ee2ea3.html
 published: 2026-06-17
-quality_score: 6.5
+quality_score: 8.3
 tags: 福岡相撲, 九州場所, 博多样式, ちゃんこ, 日本相撲
 license: CC BY 4.0
 ---

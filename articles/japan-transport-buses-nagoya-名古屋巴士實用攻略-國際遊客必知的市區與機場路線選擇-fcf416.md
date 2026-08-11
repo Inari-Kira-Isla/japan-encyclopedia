@@ -6,7 +6,7 @@ category: buses
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-buses-nagoya-名古屋巴士實用攻略-國際遊客必知的市區與機場路線選擇-fcf416.html
 published: 2026-06-12
-quality_score: 7.5
+quality_score: 8.5
 tags: 名古屋巴士, 中部國際空港, 名鐵巴士, 日本巴士攻略, 名古屋交通
 license: CC BY 4.0
 ---

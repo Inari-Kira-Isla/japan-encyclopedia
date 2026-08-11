@@ -6,7 +6,7 @@ category: wagyu
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-wagyu-osaka-大阪和牛採購指南-關西商業中心的頂級肉品流通秘密-55a78b.html
 published: 2026-03-29
-quality_score: 6.5
+quality_score: 8.8
 tags: 大阪美食, 和牛採購, 商務餐飲, 關西美食, 肉品批發
 license: CC BY 4.0
 ---

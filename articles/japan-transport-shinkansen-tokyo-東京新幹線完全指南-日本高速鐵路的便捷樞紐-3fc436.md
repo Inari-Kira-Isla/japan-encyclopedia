@@ -6,7 +6,7 @@ category: shinkansen
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-tokyo-東京新幹線完全指南-日本高速鐵路的便捷樞紐-3fc436.html
 published: 2026-03-21
-quality_score: 7.5
+quality_score: 8.7
 tags: 東京交通, 新幹線, 日本鐵路, 高速列車, 旅遊指南
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: shinkansen
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-osaka-大阪週邊的新幹線を樞紐-從新大阪站出發的關西高速漫遊-fc1062.html
 published: 2026-05-23
-quality_score: 7.5
+quality_score: 8.7
 tags: 大阪交通, 新大阪站, 關西旅遊, 日本鐵道, Tokaido Shinkansen
 license: CC BY 4.0
 ---

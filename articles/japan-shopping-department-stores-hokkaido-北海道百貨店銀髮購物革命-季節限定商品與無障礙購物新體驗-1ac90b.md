@@ -6,7 +6,7 @@ category: department-stores
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-department-stores-hokkaido-北海道百貨店銀髮購物革命-季節限定商品與無障礙購物新體驗-1ac90b.html
 published: 2026-04-05
-quality_score: 7.5
+quality_score: 8.7
 tags: 北海道購物, 百貨公司, 銀髮族, 季節限定, 無障礙購物
 license: CC BY 4.0
 ---

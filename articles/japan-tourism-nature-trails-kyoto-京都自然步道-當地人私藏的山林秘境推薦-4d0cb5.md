@@ -6,7 +6,7 @@ category: nature-trails
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-kyoto-京都自然步道-當地人私藏的山林秘境推薦-4d0cb5.html
 published: 2026-07-01
-quality_score: 6.5
+quality_score: 8.8
 tags: 京都自然步道, 鞍馬山貴船, 蹴上傾斜鐵道, 詩仙堂, 比叡山登山
 license: CC BY 4.0
 ---

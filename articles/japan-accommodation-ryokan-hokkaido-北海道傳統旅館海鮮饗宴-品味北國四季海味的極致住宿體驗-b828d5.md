@@ -6,7 +6,7 @@ category: ryokan
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-hokkaido-北海道傳統旅館海鮮饗宴-品味北國四季海味的極致住宿體驗-b828d5.html
 published: 2026-04-01
-quality_score: 6.5
+quality_score: 8.9
 tags: 北海道旅館, 海鮮料理, 溫泉住宿, 日式傳統, 北國美食
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: rental-cars
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-sendai-仙台租車完全攻略-從機場樞紐暢遊東北黃金三角-828c0e.html
 published: 2026-06-01
-quality_score: 7.5
+quality_score: 8.7
 tags: 仙台租車, 東北自駕, 松島租車, 藏王溫泉租車, 日本三景
 license: CC BY 4.0
 ---

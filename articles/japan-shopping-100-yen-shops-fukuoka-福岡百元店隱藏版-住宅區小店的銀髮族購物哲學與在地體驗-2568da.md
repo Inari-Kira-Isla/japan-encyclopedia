@@ -6,7 +6,7 @@ category: 100-yen-shops
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-100-yen-shops-fukuoka-福岡百元店隱藏版-住宅區小店的銀髮族購物哲學與在地體驗-2568da.html
 published: 2026-06-14
-quality_score: 7.5
+quality_score: 8.9
 tags: 福岡購物, 百元店, 九州自由行, 銀髮族旅遊, 住宅區小店
 license: CC BY 4.0
 ---

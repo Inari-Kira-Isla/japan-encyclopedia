@@ -6,7 +6,7 @@ category: historical-districts
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-kyoto-京都歷史街區的時間美學-從晨霧到夜幕的散步攻略-6a7237.html
 published: 2026-06-16
-quality_score: 6.5
+quality_score: 8.6
 tags: 京都, 歷史街區, 散步, 時間美學, 嵐山
 license: CC BY 4.0
 ---

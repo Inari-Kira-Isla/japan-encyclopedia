@@ -6,7 +6,7 @@ category: rental-cars
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-kobe-神戶租車自駕-港灣城市的景觀兜風與郊野探險-bbce5a.html
 published: 2026-03-23
-quality_score: 7.5
+quality_score: 8.5
 tags: 神戶自駕遊, 日本租車指南, 港灣城市探險, 六甲山景觀道路, 淡路島自駕
 license: CC BY 4.0
 ---

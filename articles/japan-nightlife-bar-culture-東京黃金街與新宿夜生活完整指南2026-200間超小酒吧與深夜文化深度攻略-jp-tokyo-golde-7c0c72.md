@@ -6,7 +6,7 @@ category: bar-culture
 area: japan
 url: https://japan-encyclopedia.vercel.app/articles/japan-nightlife-bar-culture-東京黃金街與新宿夜生活完整指南2026-200間超小酒吧與深夜文化深度攻略-jp-tokyo-golde-7c0c72.html
 published: 2026-04-25
-quality_score: 7.6
+quality_score: 8.5
 tags: 東京黃金街, 新宿夜生活, 歌舞伎町, 東京酒吧文化, 深夜食堂
 license: CC BY 4.0
 ---

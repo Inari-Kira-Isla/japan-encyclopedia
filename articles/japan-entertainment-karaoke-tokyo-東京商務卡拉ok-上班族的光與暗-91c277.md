@@ -6,7 +6,7 @@ category: karaoke
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-karaoke-tokyo-東京商務卡拉ok-上班族的光與暗-91c277.html
 published: 2026-06-15
-quality_score: 6.5
+quality_score: 8.6
 tags: 東京卡拉OK, 商務娛樂, 日本職場文化, 東京夜生活, 上班族聚会
 license: CC BY 4.0
 ---

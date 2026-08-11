@@ -6,7 +6,7 @@ category: onsen
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-onsen-tokyo-東京錢湯導覽-庶民溫泉文化的歷史溫度と都會療癒處-3f902b.html
 published: 2026-06-28
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京溫泉, 錢湯文化, 庶民溫泉, 人工溫泉, 東京泡湯
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: ferries
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-ferries-nara-從奈良出發-關西水域體驗精選-週邊渡輪與船遊完全攻略-520f67.html
 published: 2026-05-23
-quality_score: 7.5
+quality_score: 8.4
 tags: 奈良周邊, 渡輪體驗, 關西水上交通, 神戶港, 琵琶湖
 license: CC BY 4.0
 ---

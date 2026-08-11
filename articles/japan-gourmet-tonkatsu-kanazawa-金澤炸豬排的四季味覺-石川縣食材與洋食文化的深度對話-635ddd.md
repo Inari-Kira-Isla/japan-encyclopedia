@@ -6,7 +6,7 @@ category: tonkatsu
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tonkatsu-kanazawa-金澤炸豬排的四季味覺-石川縣食材與洋食文化的深度對話-635ddd.html
 published: 2026-06-10
-quality_score: 6.5
+quality_score: 8.6
 tags: 金澤美食, 石川縣洋食, 炸豬排推薦, 日本海食材, 加賀料理
 license: CC BY 4.0
 ---

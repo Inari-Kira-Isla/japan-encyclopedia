@@ -6,7 +6,7 @@ category: cycling
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-osaka-大阪夜騎完全攻略-月光下的關西單車夜遊指南-dbb602.html
 published: 2026-06-06
-quality_score: 7.5
+quality_score: 8.9
 tags: 大阪單車, 夜騎, 關西骑行, 大阪夜景, 大阪自由行
 license: CC BY 4.0
 ---

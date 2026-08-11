@@ -6,7 +6,7 @@ category: nightlife
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-hiroshima-廣島夜生活-年輕創意族的深夜美術館與音樂現場-d83e1a.html
 published: 2026-06-19
-quality_score: 6.5
+quality_score: 8.9
 tags: 廣島夜生活, 年輕藝術, 現場音樂, VR體驗, 爵士酒吧
 license: CC BY 4.0
 ---

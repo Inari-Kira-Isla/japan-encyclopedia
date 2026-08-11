@@ -6,7 +6,7 @@ category: day-trips
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-sendai-仙台美食小旅行-從市區出發的米澤牛-拉麵與海岸海鮮一日遊-61c2aa.html
 published: 2026-06-12
-quality_score: 6.5
+quality_score: 8.9
 tags: 仙台, 美食, 山形, 米澤牛, 氣仙沼
 license: CC BY 4.0
 ---

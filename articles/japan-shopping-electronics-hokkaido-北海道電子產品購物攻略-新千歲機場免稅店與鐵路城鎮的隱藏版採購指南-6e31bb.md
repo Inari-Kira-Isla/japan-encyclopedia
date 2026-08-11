@@ -6,7 +6,7 @@ category: electronics
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-electronics-hokkaido-北海道電子產品購物攻略-新千歲機場免稅店與鐵路城鎮的隱藏版採購指南-6e31bb.html
 published: 2026-06-16
-quality_score: 7.5
+quality_score: 8.5
 tags: 北海道電子產品, 新千歲機場免稅店, 旭川電器行, 帶廣電器, 釧路戶外電子
 license: CC BY 4.0
 ---

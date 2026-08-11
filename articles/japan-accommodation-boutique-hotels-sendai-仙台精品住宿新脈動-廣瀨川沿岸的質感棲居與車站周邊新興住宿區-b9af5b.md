@@ -6,7 +6,7 @@ category: boutique-hotels
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-sendai-仙台精品住宿新脈動-廣瀨川沿岸的質感棲居與車站周邊新興住宿區-b9af5b.html
 published: 2026-06-04
-quality_score: 6.5
+quality_score: 8.7
 tags: 仙台, 精品住宿, 廣瀨川, 日本東北, 住宿推薦
 license: CC BY 4.0
 ---

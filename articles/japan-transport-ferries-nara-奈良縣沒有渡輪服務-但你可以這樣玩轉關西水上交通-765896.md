@@ -6,7 +6,7 @@ category: ferries
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-ferries-nara-奈良縣沒有渡輪服務-但你可以這樣玩轉關西水上交通-765896.html
 published: 2026-05-25
-quality_score: 7.5
+quality_score: 8.7
 tags: 關西渡輪, 奈良交通, 神戶渡輪, 大阪港, 瀨戶內海
 license: CC BY 4.0
 ---

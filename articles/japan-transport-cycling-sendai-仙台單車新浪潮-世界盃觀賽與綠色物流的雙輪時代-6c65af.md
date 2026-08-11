@@ -6,7 +6,7 @@ category: cycling
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-sendai-仙台單車新浪潮-世界盃觀賽與綠色物流的雙輪時代-6c65af.html
 published: 2026-07-06
-quality_score: 7.5
+quality_score: 8.8
 tags: 仙台單車, 世界盃觀賽, 日本東北單車, 杜之都, 綠色交通
 license: CC BY 4.0
 ---

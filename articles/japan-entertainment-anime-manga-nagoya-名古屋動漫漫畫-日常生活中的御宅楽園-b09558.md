@@ -6,7 +6,7 @@ category: anime-manga
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-nagoya-名古屋動漫漫畫-日常生活中的御宅楽園-b09558.html
 published: 2026-06-06
-quality_score: 6.5
+quality_score: 8.4
 tags: 名古屋, 動漫, 御宅文化, 漫畫咖啡廳, 遊戲中心
 license: CC BY 4.0
 ---

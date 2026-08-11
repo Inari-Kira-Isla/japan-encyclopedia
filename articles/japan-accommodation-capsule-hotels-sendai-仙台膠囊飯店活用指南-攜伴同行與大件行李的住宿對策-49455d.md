@@ -6,7 +6,7 @@ category: capsule-hotels
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-capsule-hotels-sendai-仙台膠囊飯店活用指南-攜伴同行與大件行李的住宿對策-49455d.html
 published: 2026-06-07
-quality_score: 6.5
+quality_score: 8.7
 tags: 仙台住宿, 膠囊飯店, 東北自助, 仙台交通, 預算住宿
 license: CC BY 4.0
 ---

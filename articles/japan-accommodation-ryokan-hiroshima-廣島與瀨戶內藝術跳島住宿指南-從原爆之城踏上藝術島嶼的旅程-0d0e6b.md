@@ -6,7 +6,7 @@ category: ryokan
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-hiroshima-廣島與瀨戶內藝術跳島住宿指南-從原爆之城踏上藝術島嶼的旅程-0d0e6b.html
 published: 2026-06-04
-quality_score: 6.5
+quality_score: 8.7
 tags: 廣島 ryokan, 瀨戶內藝術祭, 廣島住宿, 藝術跳島旅遊, 宮島住宿
 license: CC BY 4.0
 ---

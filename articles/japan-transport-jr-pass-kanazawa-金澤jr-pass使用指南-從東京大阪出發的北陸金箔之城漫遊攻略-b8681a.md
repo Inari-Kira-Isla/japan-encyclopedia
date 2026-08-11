@@ -6,7 +6,7 @@ category: jr-pass
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-jr-pass-kanazawa-金澤jr-pass使用指南-從東京大阪出發的北陸金箔之城漫遊攻略-b8681a.html
 published: 2026-07-04
-quality_score: 7.5
+quality_score: 8.8
 tags: 金澤JR Pass, 關西北陸Pass, 日本三名園, 金箔古城, 兼六園
 license: CC BY 4.0
 ---

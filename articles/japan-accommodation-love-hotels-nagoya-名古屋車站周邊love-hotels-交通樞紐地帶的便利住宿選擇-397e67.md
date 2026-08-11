@@ -6,7 +6,7 @@ category: love-hotels
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-love-hotels-nagoya-名古屋車站周邊love-hotels-交通樞紐地帶的便利住宿選擇-397e67.html
 published: 2026-05-25
-quality_score: 6.5
+quality_score: 8.6
 tags: 名古屋,  Love Hotels, 情侶旅館, 名古屋站, 金山市場
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: shinkansen
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-nara-奈良交通完全指南-沒有直達新幹線の古都這樣去-75b0c8.html
 published: 2026-05-25
-quality_score: 7.5
+quality_score: 8.6
 tags: 奈良交通, 關西自助, 日本鐵道, 奈良景點, 古都巡禮
 license: CC BY 4.0
 ---

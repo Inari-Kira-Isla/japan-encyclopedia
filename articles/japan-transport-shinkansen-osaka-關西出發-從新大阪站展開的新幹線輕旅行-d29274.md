@@ -6,7 +6,7 @@ category: shinkansen
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-osaka-關西出發-從新大阪站展開的新幹線輕旅行-d29274.html
 published: 2026-05-25
-quality_score: 7.5
+quality_score: 8.8
 tags: 關西新大阪站, 新大阪交通攻略, 山陽新幹線, 關西一日遊, 姬路城
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: sumo
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-nara-古都奈良的相撲文化探索-從春日大社到力的美學-e3aaff.html
 published: 2026-05-31
-quality_score: 6.5
+quality_score: 8.4
 tags: 奈良相扑, 日本國技, 奈良旅遊, 傳統文化體驗, 古都奈良
 license: CC BY 4.0
 ---

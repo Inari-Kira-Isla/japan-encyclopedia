@@ -6,7 +6,7 @@ category: castle-towns
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-castle-towns-tokyo-東京周邊城下町巡禮-探訪江戶時代的歷史風情-2b9481.html
 published: 2026-03-29
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京城下町, 小江戶川越, 江戶時代, 城下町巡禮, 關東歷史散步
 license: CC BY 4.0
 ---

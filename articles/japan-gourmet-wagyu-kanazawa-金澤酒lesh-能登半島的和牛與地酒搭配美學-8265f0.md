@@ -6,7 +6,7 @@ category: wagyu
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-wagyu-kanazawa-金澤酒lesh-能登半島的和牛與地酒搭配美學-8265f0.html
 published: 2026-06-18
-quality_score: 6.5
+quality_score: 8.8
 tags: 金澤美食, 能登和牛, 石川地酒, 燒肉推薦, 日本黑毛和牛
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: karaoke
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-karaoke-okinawa-沖繩卡拉ok-美軍基地文化與海風歌聲的交匯之旅-46c3d9.html
 published: 2026-06-11
-quality_score: 6.5
+quality_score: 8.7
 tags: 沖繩卡拉OK, 沖繩夜生活, 那霸娛樂, 美軍基地文化, 海景卡拉OK
 license: CC BY 4.0
 ---

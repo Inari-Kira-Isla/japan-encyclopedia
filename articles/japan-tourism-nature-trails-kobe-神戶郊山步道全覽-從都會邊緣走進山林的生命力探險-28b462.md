@@ -6,7 +6,7 @@ category: nature-trails
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-kobe-神戶郊山步道全覽-從都會邊緣走進山林的生命力探險-28b462.html
 published: 2026-06-17
-quality_score: 6.5
+quality_score: 8.6
 tags: 神戶自然步道, 六甲山步道, 有馬溫泉古道, 郊山健行, 關西戶外
 license: CC BY 4.0
 ---

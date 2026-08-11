@@ -6,7 +6,7 @@ category: onsen
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-onsen-nagoya-名古屋週邊溫泉秘境-從市中心出發的一日溫泉之旅-f81e0e.html
 published: 2026-06-13
-quality_score: 6.5
+quality_score: 8.7
 tags: 名古屋溫泉, 中部溫泉, 山代溫泉, 下呂溫泉, 浜名湖溫泉
 license: CC BY 4.0
 ---

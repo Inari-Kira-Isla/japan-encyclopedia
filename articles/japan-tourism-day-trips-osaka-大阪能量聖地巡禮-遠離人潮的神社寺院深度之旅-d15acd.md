@@ -6,7 +6,7 @@ category: day-trips
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-osaka-大阪能量聖地巡禮-遠離人潮的神社寺院深度之旅-d15acd.html
 published: 2026-06-04
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪一日遊, 關西power spot, 日本神社參拜, 京都寺院, 奈良春日大社
 license: CC BY 4.0
 ---

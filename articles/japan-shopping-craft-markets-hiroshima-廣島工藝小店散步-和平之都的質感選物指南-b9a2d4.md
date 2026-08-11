@@ -6,7 +6,7 @@ category: craft-markets
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-craft-markets-hiroshima-廣島工藝小店散步-和平之都的質感選物指南-b9a2d4.html
 published: 2026-06-27
-quality_score: 7.5
+quality_score: 8.5
 tags: 廣島, 工藝小店, 選物店, 和平主題, 漆器
 license: CC BY 4.0
 ---

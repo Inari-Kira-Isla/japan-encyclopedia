@@ -6,7 +6,7 @@ category: souvenir-omiyage
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-souvenir-omiyage-hiroshima-廣島伴手禮完全指南-從和平紀唸到海岸風情的多元體驗-75235c.html
 published: 2026-06-01
-quality_score: 7.5
+quality_score: 8.6
 tags: 廣島伴手禮, 瀨戶內海, 和平紀念, 尾道貓咪, 廣島燒
 license: CC BY 4.0
 ---

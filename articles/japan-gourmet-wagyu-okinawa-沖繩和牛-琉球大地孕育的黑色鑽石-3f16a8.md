@@ -6,7 +6,7 @@ category: wagyu
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-wagyu-okinawa-沖繩和牛-琉球大地孕育的黑色鑽石-3f16a8.html
 published: 2026-05-24
-quality_score: 6.5
+quality_score: 8.7
 tags: 沖繩和牛, 琉球和牛, 沖繩美食, 日本燒肉, やんばる牛
 license: CC BY 4.0
 ---

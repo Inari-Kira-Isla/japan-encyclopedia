@@ -6,7 +6,7 @@ category: anime-manga
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-tokyo-東京漫畫窟探索-巷弄中的舊書屋與漫畫茶屋-528718.html
 published: 2026-06-17
-quality_score: 6.5
+quality_score: 8.9
 tags: 東京漫畫, 神保町舊書屋, 漫畫茶屋, 吉祥寺, 下落合
 license: CC BY 4.0
 ---

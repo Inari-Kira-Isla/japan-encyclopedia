@@ -6,7 +6,7 @@ category: temples-shrines
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-temples-shrines-osaka-大阪神社寺院經濟學-商都百年實用主義的參拜指南-8b275a.html
 published: 2026-06-03
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪寺廟, 大阪神社, 大阪能量景點, 大阪初詣, 四天王寺
 license: CC BY 4.0
 ---

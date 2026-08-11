@@ -6,7 +6,7 @@ category: okonomiyaki
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-okonomiyaki-okinawa-沖繩的御好燒-琉球風味的大阪靈魂伴侶-a9b7a9.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 8.6
 tags: 沖繩美食, 御好燒, 沖繩料理, 琉球美食, 那霸必吃
 license: CC BY 4.0
 ---

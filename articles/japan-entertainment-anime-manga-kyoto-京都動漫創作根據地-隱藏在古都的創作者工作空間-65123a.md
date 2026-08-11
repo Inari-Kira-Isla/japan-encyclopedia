@@ -6,7 +6,7 @@ category: anime-manga
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-kyoto-京都動漫創作根據地-隱藏在古都的創作者工作空間-65123a.html
 published: 2026-05-24
-quality_score: 6.5
+quality_score: 8.7
 tags: 京都, 動漫, 創作, 工作室, 独立漫畫家
 license: CC BY 4.0
 ---

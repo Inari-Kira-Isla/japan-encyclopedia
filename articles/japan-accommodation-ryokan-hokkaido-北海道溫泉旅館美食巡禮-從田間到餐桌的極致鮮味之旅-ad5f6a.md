@@ -6,7 +6,7 @@ category: ryokan
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-hokkaido-北海道溫泉旅館美食巡禮-從田間到餐桌的極致鮮味之旅-ad5f6a.html
 published: 2026-05-23
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道溫泉旅館, Ryokan美食, 北海道料理, 日本溫泉, 北海道旅行
 license: CC BY 4.0
 ---

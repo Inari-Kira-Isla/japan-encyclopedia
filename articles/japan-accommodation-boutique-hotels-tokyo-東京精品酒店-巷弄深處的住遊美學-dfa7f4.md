@@ -6,7 +6,7 @@ category: boutique-hotels
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-tokyo-東京精品酒店-巷弄深處的住遊美學-dfa7f4.html
 published: 2026-07-02
-quality_score: 6.5
+quality_score: 8.6
 tags: 東京精品酒店, 東京住宿,  boutique hotel, 東京巷弄住宿, 東京小眾住宿
 license: CC BY 4.0
 ---

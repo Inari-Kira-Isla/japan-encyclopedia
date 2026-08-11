@@ -6,7 +6,7 @@ category: ryokan
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-tokyo-東京傳統旅館不完全指南-現代大都會中的江戶待客之道-f3282d.html
 published: 2026-06-04
-quality_score: 6.5
+quality_score: 8.8
 tags: 東京住宿, 傳統旅馆, 墨田區, 台東區, 文京區
 license: CC BY 4.0
 ---

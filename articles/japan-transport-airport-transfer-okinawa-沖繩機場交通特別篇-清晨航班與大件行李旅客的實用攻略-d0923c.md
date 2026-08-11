@@ -6,7 +6,7 @@ category: airport-transfer
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-airport-transfer-okinawa-沖繩機場交通特別篇-清晨航班與大件行李旅客的實用攻略-d0923c.html
 published: 2026-06-21
-quality_score: 7.5
+quality_score: 8.5
 tags: 沖繩機場交通, 清晨航班, 那霸機場, 大型行李, 特殊裝備
 license: CC BY 4.0
 ---

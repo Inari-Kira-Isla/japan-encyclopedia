@@ -6,7 +6,7 @@ category: duty-free
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-duty-free-nagoya-名古屋免稅購物隱藏版攻略-中南部樞紐機場的轉機購物與銀髮族友善選擇-d59c0e.html
 published: 2026-07-02
-quality_score: 7.5
+quality_score: 8.5
 tags: 名古屋免稅店, 中部國際空港, 轉機購物, 銀髮族友善, 日圓貶值
 license: CC BY 4.0
 ---

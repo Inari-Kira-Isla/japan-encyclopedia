@@ -6,7 +6,7 @@ category: day-trips
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-kyoto-京都鐵道慢旅一日遊-乘坐古線探訪山城與湖畔小鎮-05208a.html
 published: 2026-06-16
-quality_score: 6.5
+quality_score: 8.5
 tags: 京都一日遊, 鐵道慢旅, 山城小鎮, 鞍馬貴船, 比叡山
 license: CC BY 4.0
 ---

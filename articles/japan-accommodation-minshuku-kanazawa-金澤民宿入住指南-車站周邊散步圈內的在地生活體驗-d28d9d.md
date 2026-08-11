@@ -6,7 +6,7 @@ category: minshuku
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-kanazawa-金澤民宿入住指南-車站周邊散步圈內的在地生活體驗-d28d9d.html
 published: 2026-05-25
-quality_score: 6.5
+quality_score: 8.4
 tags: 金澤, 民宿, Minshuku, 近江町市場, 東茶屋街
 license: CC BY 4.0
 ---

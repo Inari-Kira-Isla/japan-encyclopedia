@@ -6,7 +6,7 @@ category: duty-free
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-duty-free-kyoto-京都宇治茶免稅購物完全指南-抹茶控必訪的茶香特產通路-7eea3e.html
 published: 2026-06-06
-quality_score: 7.5
+quality_score: 8.6
 tags: 京都免稅, 宇治抹茶, 京都伴手禮, 日本免稅購物, 茶葉推薦
 license: CC BY 4.0
 ---

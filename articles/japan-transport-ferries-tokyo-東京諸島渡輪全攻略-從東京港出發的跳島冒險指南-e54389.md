@@ -6,7 +6,7 @@ category: ferries
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-ferries-tokyo-東京諸島渡輪全攻略-從東京港出發的跳島冒險指南-e54389.html
 published: 2026-07-05
-quality_score: 7.5
+quality_score: 8.7
 tags: 東京渡輪, 東京諸島, 跳島旅行, 日本島嶼, 大島
 license: CC BY 4.0
 ---

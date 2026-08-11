@@ -6,7 +6,7 @@ category: onsen
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-onsen-sendai-仙台溫泉巡禮-東北門戶的療癒之旅-243586.html
 published: 2026-03-29
-quality_score: 6.5
+quality_score: 8.7
 tags: 仙台溫泉, 東北溫泉, 秋保溫泉, 作並溫泉, 鳴子溫泉
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: electronics
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-electronics-osaka-大阪電子產品購物指南-天王寺-阿倍野商圈篇-7455f0.html
 published: 2026-06-27
-quality_score: 7.5
+quality_score: 8.4
 tags: 大阪電子產品, 天王寺購物, 阿倍野電器, 大阪自由行, 關西電子產品
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: vr-experiences
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-vr-experiences-kanazawa-金澤vr體驗-穿越時空的加賀百萬石-虛擬實境重現古城歷史場景-e576c2.html
 published: 2026-06-18
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤VR體驗, 金澤自由行, 石川縣旅遊, 日本VR, 金澤歷史
 license: CC BY 4.0
 ---

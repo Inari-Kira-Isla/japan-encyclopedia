@@ -6,7 +6,7 @@ category: electronics
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-electronics-tokyo-tokyo電子產品購物指南-秋葉原以外的世界-ae2662.html
 published: 2026-06-15
-quality_score: 7.5
+quality_score: 8.5
 tags: 東京電子產品, 東京購物, 秋葉原電器, 日本電器推薦, 東京3C商品
 license: CC BY 4.0
 ---

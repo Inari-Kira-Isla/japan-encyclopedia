@@ -6,7 +6,7 @@ category: tonkatsu
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tonkatsu-hiroshima-廣島炸豬排-戰後洋食文化與瀨戶內風味的交融-ef121a.html
 published: 2026-04-01
-quality_score: 6.5
+quality_score: 8.8
 tags: 廣島美食, 日式洋食, 炸豬排, 瀨戶內海, 戰後文化
 license: CC BY 4.0
 ---

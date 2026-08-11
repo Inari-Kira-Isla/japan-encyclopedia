@@ -6,7 +6,7 @@ category: wagyu
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-wagyu-nagoya-名古屋頂級和牛美食指南-中部地區的燒肉天堂完全攻略-050fb2.html
 published: 2026-03-20
-quality_score: 6.5
+quality_score: 8.6
 tags: 名古屋美食, 日本和牛, 燒肉餐廳, 中部旅遊, 高級料理
 license: CC BY 4.0
 ---

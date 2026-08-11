@@ -6,7 +6,7 @@ category: theme-parks
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-theme-parks-kyoto-京都親子娛樂體驗指南-在千年古都尋找現代歡樂時光-8969e0.html
 published: 2026-03-27
-quality_score: 6.5
+quality_score: 8.7
 tags: 京都旅遊, 親子娛樂, 文化體驗, 家庭旅行, 日本傳統遊戯
 license: CC BY 4.0
 ---

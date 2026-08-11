@@ -6,7 +6,7 @@ category: vr-experiences
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-vr-experiences-hokkaido-北海道室內逃避攻略-暴風雪天的vr樂園-雪國冬季室內娛樂新選擇-37c9c2.html
 published: 2026-07-02
-quality_score: 6.5
+quality_score: 8.9
 tags: 北海道VR體驗, 室內活動推薦, 暴風雪備案, 冬季北海道旅遊, 札幌娛樂
 license: CC BY 4.0
 ---

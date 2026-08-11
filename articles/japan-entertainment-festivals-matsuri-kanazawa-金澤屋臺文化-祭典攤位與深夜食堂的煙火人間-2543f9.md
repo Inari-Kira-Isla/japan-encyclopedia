@@ -6,7 +6,7 @@ category: festivals-matsuri
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-festivals-matsuri-kanazawa-金澤屋臺文化-祭典攤位與深夜食堂的煙火人間-2543f9.html
 published: 2026-06-09
-quality_score: 6.5
+quality_score: 8.8
 tags: 金澤祭典, 屋台文化, 加賀百萬石祭, 深夜食堂, 體驗攻略
 license: CC BY 4.0
 ---

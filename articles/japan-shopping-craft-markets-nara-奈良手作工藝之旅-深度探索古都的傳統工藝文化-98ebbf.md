@@ -6,7 +6,7 @@ category: craft-markets
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-craft-markets-nara-奈良手作工藝之旅-深度探索古都的傳統工藝文化-98ebbf.html
 published: 2026-03-29
-quality_score: 7.5
+quality_score: 8.7
 tags: 奈良, 傳統工藝, 漆器, 日本文化, 工藝之旅
 license: CC BY 4.0
 ---

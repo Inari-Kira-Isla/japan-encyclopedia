@@ -6,7 +6,7 @@ category: minshuku
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-fukuoka-福岡民宿完整指南-體驗博多文化的家庭式住宿推薦-0e5092.html
 published: 2026-06-02
-quality_score: 6.5
+quality_score: 8.7
 tags: 福岡民宿, 博多吃住推薦, 九州家庭式住宿, 福岡旅行攻略, 日本民宿體驗
 license: CC BY 4.0
 ---

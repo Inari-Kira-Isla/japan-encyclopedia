@@ -6,7 +6,7 @@ category: souvenir-omiyage
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-souvenir-omiyage-hokkaido-北海道伴手禮全攻略-機場免稅店-在地商圈這樣買最聰明-2ebb5f.html
 published: 2026-06-01
-quality_score: 7.5
+quality_score: 8.7
 tags: 北海道伴手禮, 新千歲機場免稅店, 札幌購物, 日本伴手禮攻略, 北海道自由行
 license: CC BY 4.0
 ---

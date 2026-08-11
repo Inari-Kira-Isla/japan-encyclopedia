@@ -6,7 +6,7 @@ category: souvenir-omiyage
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-souvenir-omiyage-nagoya-名古屋伴手禮採購指南-體驗味噌與工業之城的送禮美學-624612.html
 published: 2026-06-03
-quality_score: 7.5
+quality_score: 8.7
 tags: 名古屋伴手禮, 中部國際空港, 八丁味噌, 榮商圈, 免稅購物
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: anime-manga
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-hokkaido-北海道動漫教育巡禮-雪國養成漫畫家的專業學園-7c691e.html
 published: 2026-06-10
-quality_score: 6.5
+quality_score: 8.8
 tags: 北海道動漫教育, 北海道漫畫學校, 札幌動漫主題咖啡廳, 小樽動漫體驗, 旭川動漫資料館
 license: CC BY 4.0
 ---

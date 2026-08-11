@@ -6,7 +6,7 @@ category: sumo
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-nagoya-相撲迷朝聖-名古屋-從看比賽到品美食的完整攻略-07422a.html
 published: 2026-03-24
-quality_score: 6.5
+quality_score: 8.5
 tags: 名古屋, 相撲, 日本文化, 體育觀光, 美食體驗
 license: CC BY 4.0
 ---

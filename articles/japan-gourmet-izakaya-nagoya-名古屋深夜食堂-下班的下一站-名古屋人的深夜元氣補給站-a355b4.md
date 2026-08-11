@@ -6,7 +6,7 @@ category: izakaya
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-izakaya-nagoya-名古屋深夜食堂-下班的下一站-名古屋人的深夜元氣補給站-a355b4.html
 published: 2026-05-21
-quality_score: 6.5
+quality_score: 8.6
 tags: 名古屋美食, 名古屋居酒屋, 日本旅行, 东海地方, 深夜食堂
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: electronics
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-electronics-sendai-仙台電子產品購物攻略-大學生與專業玩家的東北挖寶聖地-8325c6.html
 published: 2026-06-16
-quality_score: 7.5
+quality_score: 8.6
 tags: 仙台, 電子產品, 東北購物, 日本電器, 專業音響
 license: CC BY 4.0
 ---

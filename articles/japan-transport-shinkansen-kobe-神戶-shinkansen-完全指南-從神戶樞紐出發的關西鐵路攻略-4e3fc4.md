@@ -6,7 +6,7 @@ category: shinkansen
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-kobe-神戶-shinkansen-完全指南-從神戶樞紐出發的關西鐵路攻略-4e3fc4.html
 published: 2026-05-22
-quality_score: 7.5
+quality_score: 8.5
 tags: 神戶交通, 山陽新干线, 關西鐵路, JR Pass攻略, 神戶自由行
 license: CC BY 4.0
 ---

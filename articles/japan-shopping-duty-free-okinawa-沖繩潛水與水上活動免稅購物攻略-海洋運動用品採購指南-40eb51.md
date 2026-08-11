@@ -6,7 +6,7 @@ category: duty-free
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-duty-free-okinawa-沖繩潛水與水上活動免稅購物攻略-海洋運動用品採購指南-40eb51.html
 published: 2026-06-21
-quality_score: 7.5
+quality_score: 8.5
 tags: 沖繩免稅, 水上活動用品, 潛水裝備, 沖繩購物, 日本免稅店
 license: CC BY 4.0
 ---

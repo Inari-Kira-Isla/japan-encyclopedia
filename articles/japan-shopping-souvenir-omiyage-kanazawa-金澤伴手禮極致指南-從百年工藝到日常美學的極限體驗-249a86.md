@@ -6,7 +6,7 @@ category: souvenir-omiyage
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-souvenir-omiyage-kanazawa-金澤伴手禮極致指南-從百年工藝到日常美學的極限體驗-249a86.html
 published: 2026-06-01
-quality_score: 7.5
+quality_score: 8.9
 tags: 金澤伴手禮, 金箔工藝, 加賀藩, 日本工藝品, 金澤和紙
 license: CC BY 4.0
 ---

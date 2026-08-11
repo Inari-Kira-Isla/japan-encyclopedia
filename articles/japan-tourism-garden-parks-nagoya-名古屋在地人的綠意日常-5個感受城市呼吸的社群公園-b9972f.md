@@ -6,7 +6,7 @@ category: garden-parks
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-nagoya-名古屋在地人的綠意日常-5個感受城市呼吸的社群公園-b9972f.html
 published: 2026-07-01
-quality_score: 6.5
+quality_score: 8.7
 tags: 名古屋公園, 名古屋自由行, 在地體驗, 日本中部旅遊, 社區文化
 license: CC BY 4.0
 ---

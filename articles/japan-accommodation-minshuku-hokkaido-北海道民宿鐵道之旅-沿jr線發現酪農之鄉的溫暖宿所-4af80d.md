@@ -6,7 +6,7 @@ category: minshuku
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-hokkaido-北海道民宿鐵道之旅-沿jr線發現酪農之鄉的溫暖宿所-4af80d.html
 published: 2026-07-03
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道民宿, JR北海道, 十勝帶廣, 酪農業體驗, 旭川美瑛
 license: CC BY 4.0
 ---

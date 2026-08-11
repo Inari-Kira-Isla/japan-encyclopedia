@@ -6,7 +6,7 @@ category: 100-yen-shops
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-100-yen-shops-okinawa-沖繩100円商店在地名單-土產之外的沖繩生活道具選-5d4ba7.html
 published: 2026-06-20
-quality_score: 7.5
+quality_score: 8.6
 tags: 沖繩100円商店, 亞熱帶購物, 海灘裝備, 琉球食文化, 平價購物
 license: CC BY 4.0
 ---

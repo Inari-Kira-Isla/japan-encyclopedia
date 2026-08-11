@@ -6,7 +6,7 @@ category: scenic-routes
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-tokyo-東京水岸風景路線-隅田川到東京灣的都市水都風情-2cdc31.html
 published: 2026-04-04
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京水岸, 隅田川, 風景路線, 城市散步, 東京灣
 license: CC BY 4.0
 ---

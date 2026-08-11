@@ -6,7 +6,7 @@ category: electronics
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-electronics-hokkaido-北海道電子產品購物指南-極寒環境下的高科技採購攻略-8f7701.html
 published: 2026-06-01
-quality_score: 7.5
+quality_score: 8.1
 tags: 北海道電子產品, 札幌電器行, 旭川購物, 極寒裝備, 日本戶外用品
 license: CC BY 4.0
 ---

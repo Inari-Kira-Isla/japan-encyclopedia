@@ -6,7 +6,7 @@ category: sumo
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-tokyo-東京相撲-市民土俵的城市物語-b56952.html
 published: 2026-06-03
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京相撲, 市民運動, 土俵體驗, 業餘相撲, 東京體驗
 license: CC BY 4.0
 ---

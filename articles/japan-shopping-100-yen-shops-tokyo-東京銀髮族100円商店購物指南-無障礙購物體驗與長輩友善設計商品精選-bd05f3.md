@@ -6,7 +6,7 @@ category: 100-yen-shops
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-100-yen-shops-tokyo-東京銀髮族100円商店購物指南-無障礙購物體驗與長輩友善設計商品精選-bd05f3.html
 published: 2026-04-02
-quality_score: 7.5
+quality_score: 8.7
 tags: 東京購物, 100円商店, 銀髮族友善, 無障礙購物, 省錢旅遊
 license: CC BY 4.0
 ---

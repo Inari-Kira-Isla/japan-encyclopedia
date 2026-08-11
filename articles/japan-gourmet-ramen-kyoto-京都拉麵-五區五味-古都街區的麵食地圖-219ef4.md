@@ -6,7 +6,7 @@ category: ramen
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-ramen-kyoto-京都拉麵-五區五味-古都街區的麵食地圖-219ef4.html
 published: 2026-03-26
-quality_score: 6.5
+quality_score: 8.5
 tags: 京都美食, 日本拉麵, 區域文化, 美食地圖, 京都旅遊
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: ryokan
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-hiroshima-廣島島嶼跳島旅館指南-瀨戶內海多島遊的完美起點-8693d7.html
 published: 2026-04-06
-quality_score: 6.5
+quality_score: 8.7
 tags: 廣島旅館, 瀨戶內海, 島嶼跳島, 溫泉住宿, 日式旅館
 license: CC BY 4.0
 ---

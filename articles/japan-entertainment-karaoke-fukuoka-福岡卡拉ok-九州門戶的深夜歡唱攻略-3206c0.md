@@ -6,7 +6,7 @@ category: karaoke
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-karaoke-fukuoka-福岡卡拉ok-九州門戶的深夜歡唱攻略-3206c0.html
 published: 2026-06-04
-quality_score: 6.5
+quality_score: 8.5
 tags: 福岡卡拉OK, 九州夜生活, 博多娛樂, 天神卡拉OK, 平價KTV
 license: CC BY 4.0
 ---

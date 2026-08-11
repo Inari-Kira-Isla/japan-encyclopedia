@@ -6,7 +6,7 @@ category: electronics
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-electronics-nara-奈良電子產品購物指南-古都裡的隱藏版科技小店-33762a.html
 published: 2026-06-06
-quality_score: 7.5
+quality_score: 8.7
 tags: 奈良電子產品, 奈良購物, 奈良電器行, 奈良伴手禮, 日本電子產品
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: izakaya
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-izakaya-kyoto-京都伏見・澱屋橋エリア的家庭式居酒屋-在地釀酒廠周邊的限定滋味-e1cebe.html
 published: 2026-05-25
-quality_score: 6.5
+quality_score: 8.8
 tags: 京都不enusau, 伏見清酒, 京都旅行, 在地美食, foodie推薦
 license: CC BY 4.0
 ---

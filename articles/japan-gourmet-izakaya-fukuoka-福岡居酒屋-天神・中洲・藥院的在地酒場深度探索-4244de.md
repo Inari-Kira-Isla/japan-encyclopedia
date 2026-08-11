@@ -6,7 +6,7 @@ category: izakaya
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-izakaya-fukuoka-福岡居酒屋-天神・中洲・藥院的在地酒場深度探索-4244de.html
 published: 2026-06-10
-quality_score: 6.5
+quality_score: 8.5
 tags: 福岡居酒屋, 天神站, 中洲, 藥院, 九州地酒
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: duty-free
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-duty-free-hokkaido-北海道免稅購物完全指南-新千歲機場與市區必訪店家精選-49a93c.html
 published: 2026-06-01
-quality_score: 7.5
+quality_score: 8.5
 tags: 北海道, 免稅購物, 新千歲機場, 小樽, 札幌
 license: CC BY 4.0
 ---

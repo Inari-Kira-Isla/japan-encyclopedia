@@ -6,7 +6,7 @@ category: boutique-hotels
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-kyoto-京都味覺棲居-精品飯店裡的米其林級料理體驗-55594f.html
 published: 2026-06-11
-quality_score: 6.5
+quality_score: 8.5
 tags: 京都精品飯店, 京料理, 一泊二食, 祇園住宿, 米其林體驗
 license: CC BY 4.0
 ---

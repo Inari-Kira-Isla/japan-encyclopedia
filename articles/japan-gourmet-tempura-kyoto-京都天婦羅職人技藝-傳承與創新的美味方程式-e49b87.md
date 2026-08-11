@@ -6,7 +6,7 @@ category: tempura
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tempura-kyoto-京都天婦羅職人技藝-傳承與創新的美味方程式-e49b87.html
 published: 2026-04-11
-quality_score: 6.5
+quality_score: 8.7
 tags: 京都美食, 天婦羅, 職人文化, 傳統技藝, 料理體驗
 license: CC BY 4.0
 ---

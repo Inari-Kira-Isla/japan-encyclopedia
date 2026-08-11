@@ -6,7 +6,7 @@ category: vr-experiences
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-vr-experiences-nagoya-名古屋vr體驗-企業團建與朋友聚會的虛擬實境娛樂新選擇-0e7de1.html
 published: 2026-06-28
-quality_score: 6.5
+quality_score: 8.5
 tags: 名古屋VR, 中部娛樂, 企業團建, 室內活動, 名古屋體驗
 license: CC BY 4.0
 ---

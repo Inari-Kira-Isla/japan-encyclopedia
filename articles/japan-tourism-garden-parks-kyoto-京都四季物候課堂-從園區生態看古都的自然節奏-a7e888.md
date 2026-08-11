@@ -6,7 +6,7 @@ category: garden-parks
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-kyoto-京都四季物候課堂-從園區生態看古都的自然節奏-a7e888.html
 published: 2026-03-23
-quality_score: 6.5
+quality_score: 8.6
 tags: 京都, 四季物候, 生態教育, 親子旅遊, 無障礙設施
 license: CC BY 4.0
 ---

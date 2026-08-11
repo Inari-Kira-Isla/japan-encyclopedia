@@ -6,7 +6,7 @@ category: historical-districts
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-nagoya-名古屋歷史街區-職人魂與庶民文化的當代復興-645b9b.html
 published: 2026-03-27
-quality_score: 6.5
+quality_score: 8.7
 tags: 名古屋, 歷史街區, 傳統工藝, 職人文化, 有松絞染
 license: CC BY 4.0
 ---

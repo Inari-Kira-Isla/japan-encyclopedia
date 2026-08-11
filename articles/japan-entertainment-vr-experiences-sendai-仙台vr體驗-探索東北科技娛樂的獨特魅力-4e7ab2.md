@@ -6,7 +6,7 @@ category: vr-experiences
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-vr-experiences-sendai-仙台vr體驗-探索東北科技娛樂的獨特魅力-4e7ab2.html
 published: 2026-06-29
-quality_score: 6.5
+quality_score: 8.5
 tags: 仙台VR, 東北娛樂, 日本VR體驗, 仙台旅遊, 室內活動
 license: CC BY 4.0
 ---

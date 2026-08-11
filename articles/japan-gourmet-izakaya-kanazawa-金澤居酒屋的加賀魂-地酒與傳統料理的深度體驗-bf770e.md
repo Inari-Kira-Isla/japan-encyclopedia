@@ -6,7 +6,7 @@ category: izakaya
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-izakaya-kanazawa-金澤居酒屋的加賀魂-地酒與傳統料理的深度體驗-bf770e.html
 published: 2026-04-07
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤美食, 加賀料理, 日本清酒, 石川縣, 居酒屋文化
 license: CC BY 4.0
 ---

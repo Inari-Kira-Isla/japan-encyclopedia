@@ -6,7 +6,7 @@ category: nature-trails
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-hiroshima-廣島自然步道-從廢墟重生的綠色奇蹟之路-b6d83f.html
 published: 2026-06-26
-quality_score: 6.5
+quality_score: 8.6
 tags: 廣島自然步道, 復林步道, 瀨戶內海, 登山健行, 生態旅遊
 license: CC BY 4.0
 ---

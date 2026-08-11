@@ -6,7 +6,7 @@ category: kaiseki
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-kaiseki-osaka-大阪懷石料理-商人文化下的革新傳統-5627d7.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪美食, 懷石料理, 商務餐飲, 關西文化, 日本料理
 license: CC BY 4.0
 ---

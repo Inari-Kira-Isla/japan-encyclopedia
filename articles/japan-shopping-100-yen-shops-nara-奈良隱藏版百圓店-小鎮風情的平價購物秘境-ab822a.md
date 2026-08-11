@@ -6,7 +6,7 @@ category: 100-yen-shops
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-100-yen-shops-nara-奈良隱藏版百圓店-小鎮風情的平價購物秘境-ab822a.html
 published: 2026-06-19
-quality_score: 7.5
+quality_score: 8.8
 tags: 奈良購物, 百圓店, 日本平價商店, 奈良自由行, 古都伴手禮
 license: CC BY 4.0
 ---

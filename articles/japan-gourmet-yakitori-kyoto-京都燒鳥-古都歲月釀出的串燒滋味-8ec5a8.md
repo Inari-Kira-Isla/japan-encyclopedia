@@ -6,7 +6,7 @@ category: yakitori
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-yakitori-kyoto-京都燒鳥-古都歲月釀出的串燒滋味-8ec5a8.html
 published: 2026-06-13
-quality_score: 6.5
+quality_score: 8.7
 tags: 京都燒鳥, 京都美食, 日本串燒, 京都旅遊, 京野菜
 license: CC BY 4.0
 ---

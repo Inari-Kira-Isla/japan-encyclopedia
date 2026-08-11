@@ -6,7 +6,7 @@ category: nature-trails
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-osaka-大阪都會登山趣-30分鐘內上山的半日健行路線-f63332.html
 published: 2026-06-04
-quality_score: 6.5
+quality_score: 8.8
 tags: 大阪步道, 大阪登山, 關西山系, 半日健行, 大阪自然體驗
 license: CC BY 4.0
 ---

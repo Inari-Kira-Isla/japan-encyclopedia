@@ -6,7 +6,7 @@ category: udon-soba
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-udon-soba-hokkaido-北海道海鮮蕎麥-產地直送的北國湯麵美學-b4d3b6.html
 published: 2026-06-23
-quality_score: 6.5
+quality_score: 8.6
 tags: 北海道美食, 蕎麥麵, 烏龍麵, 海鮮, 小樽
 license: CC BY 4.0
 ---

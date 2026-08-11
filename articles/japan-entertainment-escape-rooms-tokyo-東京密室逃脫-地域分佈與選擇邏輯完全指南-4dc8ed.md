@@ -6,7 +6,7 @@ category: escape-rooms
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-escape-rooms-tokyo-東京密室逃脫-地域分佈與選擇邏輯完全指南-4dc8ed.html
 published: 2026-05-20
-quality_score: 6.5
+quality_score: 8.5
 tags: 東京密室逃脫,  japan escape room, 新宿密室, 澀谷密室, 東京室內活動
 license: CC BY 4.0
 ---

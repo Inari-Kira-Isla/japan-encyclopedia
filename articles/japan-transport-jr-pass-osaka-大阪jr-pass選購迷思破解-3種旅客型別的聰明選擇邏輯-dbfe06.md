@@ -6,7 +6,7 @@ category: jr-pass
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-jr-pass-osaka-大阪jr-pass選購迷思破解-3種旅客型別的聰明選擇邏輯-dbfe06.html
 published: 2026-06-06
-quality_score: 7.5
+quality_score: 8.5
 tags: 大阪, JR Pass, 關西交通, 日本鐵路, 旅遊攻略
 license: CC BY 4.0
 ---

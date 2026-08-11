@@ -6,7 +6,7 @@ category: sumo
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-osaka-大阪相撲-關西力士的熱血戰舞臺-d0e0fc.html
 published: 2026-05-31
-quality_score: 6.5
+quality_score: 8.3
 tags: 大阪相撲, 關西體驗, Edion Arena大阪, 相撲觀賽, 大阪市中央體育館
 license: CC BY 4.0
 ---

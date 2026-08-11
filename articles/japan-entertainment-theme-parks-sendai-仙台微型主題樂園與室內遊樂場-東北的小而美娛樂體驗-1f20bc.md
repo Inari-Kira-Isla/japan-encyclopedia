@@ -6,7 +6,7 @@ category: theme-parks
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-theme-parks-sendai-仙台微型主題樂園與室內遊樂場-東北的小而美娛樂體驗-1f20bc.html
 published: 2026-05-24
-quality_score: 6.5
+quality_score: 8.6
 tags: 仙台主題樂園, 室內遊樂場, 東北娛樂, 日本主題公園, 仙台自由行
 license: CC BY 4.0
 ---

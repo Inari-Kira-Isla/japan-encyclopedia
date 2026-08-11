@@ -6,7 +6,7 @@ category: island-hopping
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-island-hopping-nagoya-名古屋跳島深度指南-從中部海岸出發的島嶼美學-110942.html
 published: 2026-06-28
-quality_score: 6.5
+quality_score: 8.5
 tags: 名古屋, 跳島, 三河灣, 佐久島, 日間部島
 license: CC BY 4.0
 ---

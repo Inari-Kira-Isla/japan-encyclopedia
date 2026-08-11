@@ -6,7 +6,7 @@ category: kabuki-theatre
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-kabuki-theatre-hokkaido-北海道看歌舞妓可行方案-前往鄰近城市觀賞的交通指南與替代體驗-33e08c.html
 published: 2026-06-06
-quality_score: 6.5
+quality_score: 8.5
 tags: 北海道, 歌舞妓, 表演藝術, 札幌, 替代體驗
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: day-trips
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-osaka-大阪產業探索之旅-隱藏版關西工廠見學與產業遺產巡禮-9e8b2b.html
 published: 2026-06-23
-quality_score: 6.5
+quality_score: 8.6
 tags: 大阪一日遊, 關西產業之旅, 酒藏見學, 工廠參觀, 鐵道旅遊
 license: CC BY 4.0
 ---

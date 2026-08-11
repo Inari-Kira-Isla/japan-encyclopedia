@@ -6,7 +6,7 @@ category: historical-districts
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-okinawa-沖繩歷史街區-戰爭痕跡與和平祈願的深度之旅-99c220.html
 published: 2026-03-30
-quality_score: 6.5
+quality_score: 8.7
 tags: 沖繩, 歷史街區, 和平公園, 美軍基地, 琉球文化
 license: CC BY 4.0
 ---

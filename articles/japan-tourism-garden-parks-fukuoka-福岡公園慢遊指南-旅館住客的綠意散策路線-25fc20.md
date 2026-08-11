@@ -6,7 +6,7 @@ category: garden-parks
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-fukuoka-福岡公園慢遊指南-旅館住客的綠意散策路線-25fc20.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.5
 tags: 福岡, 公園, 旅館住宿, 都市漫遊, 九州
 license: CC BY 4.0
 ---

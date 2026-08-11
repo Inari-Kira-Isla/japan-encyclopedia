@@ -6,7 +6,7 @@ category: tempura
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tempura-sendai-仙台天婦羅-旅行者口袋名單-車站周邊快速美味指南-6e6779.html
 published: 2026-05-23
-quality_score: 6.5
+quality_score: 8.8
 tags: 仙台美食, 天婦羅, 日本東北, 仙台車站, 平價美食
 license: CC BY 4.0
 ---

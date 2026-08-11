@@ -6,7 +6,7 @@ category: sake-brewery
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sake-brewery-hokkaido-北海道清酒酒藏-雪國風土與海鮮共舞的完美配對指南-94c9c0.html
 published: 2026-04-01
-quality_score: 6.5
+quality_score: 8.8
 tags: 北海道清酒, 日本酒, 海鮮配對, 酒藏巡禮, 北海道美食
 license: CC BY 4.0
 ---

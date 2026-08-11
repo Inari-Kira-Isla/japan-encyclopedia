@@ -6,7 +6,7 @@ category: sumo
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-nagoya-名古屋相撲-尾張名古屋的力士道場與在地體驗攻略-4651a9.html
 published: 2026-06-27
-quality_score: 6.5
+quality_score: 8.7
 tags: 名古屋相撲, 尾張藩, 相撲文化體驗, 日本武術, 名古屋自由行
 license: CC BY 4.0
 ---

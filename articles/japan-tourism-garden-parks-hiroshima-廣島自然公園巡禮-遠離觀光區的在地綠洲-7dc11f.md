@@ -6,7 +6,7 @@ category: garden-parks
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-hiroshima-廣島自然公園巡禮-遠離觀光區的在地綠洲-7dc11f.html
 published: 2026-06-28
-quality_score: 6.5
+quality_score: 8.8
 tags: 廣島自然公園, 廣島戶外景點, 備後地區, 瀨戶內海, 日本鄉村旅遊
 license: CC BY 4.0
 ---

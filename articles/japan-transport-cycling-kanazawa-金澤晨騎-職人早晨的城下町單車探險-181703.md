@@ -6,7 +6,7 @@ category: cycling
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-kanazawa-金澤晨騎-職人早晨的城下町單車探險-181703.html
 published: 2026-06-07
-quality_score: 7.5
+quality_score: 8.7
 tags: 金澤單車, 晨間體驗, 城下町, 職人探險, 深度旅遊
 license: CC BY 4.0
 ---

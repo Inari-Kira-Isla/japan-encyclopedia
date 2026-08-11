@@ -6,7 +6,7 @@ category: karaoke
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-karaoke-hokkaido-札幌的卡拉ok職場儀式-北海道冬季娛樂經濟的溫度-53eae4.html
 published: 2026-03-24
-quality_score: 6.5
+quality_score: 8.6
 tags: 北海道, 札幌, 卡拉OK, 夜生活, 職場文化
 license: CC BY 4.0
 ---

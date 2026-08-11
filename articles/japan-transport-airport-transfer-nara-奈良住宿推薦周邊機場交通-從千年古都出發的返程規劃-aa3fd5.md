@@ -6,7 +6,7 @@ category: airport-transfer
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-airport-transfer-nara-奈良住宿推薦周邊機場交通-從千年古都出發的返程規劃-aa3fd5.html
 published: 2026-05-25
-quality_score: 7.5
+quality_score: 8.6
 tags: 奈良交通, 關西機場, 機場接送, 奈良返程, 關西機場交通
 license: CC BY 4.0
 ---

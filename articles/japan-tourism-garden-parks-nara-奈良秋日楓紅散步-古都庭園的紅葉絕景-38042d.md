@@ -6,7 +6,7 @@ category: garden-parks
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-nara-奈良秋日楓紅散步-古都庭園的紅葉絕景-38042d.html
 published: 2026-06-12
-quality_score: 6.5
+quality_score: 8.6
 tags: 奈良賞楓, 日本賞楓, 秋日旅行, 關西賞楓, 古都散步
 license: CC BY 4.0
 ---

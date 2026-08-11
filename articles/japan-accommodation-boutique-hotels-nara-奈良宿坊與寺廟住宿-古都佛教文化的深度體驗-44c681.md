@@ -6,7 +6,7 @@ category: boutique-hotels
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-nara-奈良宿坊與寺廟住宿-古都佛教文化的深度體驗-44c681.html
 published: 2026-04-02
-quality_score: 6.5
+quality_score: 8.7
 tags: 奈良住宿, 宿坊體驗, 日本佛教文化, 吉野山, 奈良古剎
 license: CC BY 4.0
 ---

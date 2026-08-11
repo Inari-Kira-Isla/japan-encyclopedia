@@ -6,7 +6,7 @@ category: capsule-hotels
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-capsule-hotels-nara-奈良膠囊旅館的朝聖者經濟學-古都深度遊的務實住宿方案-c0d04a.html
 published: 2026-06-05
-quality_score: 6.5
+quality_score: 8.6
 tags: 奈良膠囊旅館, 奈良住宿, 奈良自由行, 古都住宿, 日本膠囊
 license: CC BY 4.0
 ---

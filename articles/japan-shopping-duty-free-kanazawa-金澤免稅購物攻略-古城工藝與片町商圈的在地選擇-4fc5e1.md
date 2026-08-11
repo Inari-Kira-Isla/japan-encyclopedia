@@ -6,7 +6,7 @@ category: duty-free
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-duty-free-kanazawa-金澤免稅購物攻略-古城工藝與片町商圈的在地選擇-4fc5e1.html
 published: 2026-06-11
-quality_score: 7.5
+quality_score: 8.8
 tags: 金澤免稅, 金澤購物, 片町商圈, 金箔製品, 非機場型退稅
 license: CC BY 4.0
 ---

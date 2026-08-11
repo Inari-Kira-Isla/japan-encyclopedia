@@ -6,7 +6,7 @@ category: jr-pass
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-jr-pass-hokkaido-hokkaido-jr-pass-df88a4.html
 published: 2026-03-24
-quality_score: 6.5
+quality_score: 0.0
 tags: jr-pass, hokkaido, japan
 license: CC BY 4.0
 ---

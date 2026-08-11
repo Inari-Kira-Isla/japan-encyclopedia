@@ -6,7 +6,7 @@ category: matcha-sweets
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-matcha-sweets-kanazawa-金澤抹茶甜點職人體驗-從茶道具到甜點工藝的完整學習-501971.html
 published: 2026-04-02
-quality_score: 6.5
+quality_score: 8.8
 tags: 金澤美食, 抹茶甜點, 職人體驗, 和菓子工作坊, 茶道文化
 license: CC BY 4.0
 ---

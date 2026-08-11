@@ -6,7 +6,7 @@ category: theme-parks
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-theme-parks-tokyo-東京藝術科技主題樂園-沉浸式數位體驗完全指南-f1d905.html
 published: 2026-06-07
-quality_score: 6.5
+quality_score: 8.8
 tags: 東京主題樂園, 數位藝術, teamLab, 沉浸式體驗, 台場
 license: CC BY 4.0
 ---

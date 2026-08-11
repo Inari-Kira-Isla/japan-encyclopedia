@@ -6,7 +6,7 @@ category: historical-districts
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-tokyo-東京歷史街區-從清晨到夜晚的時空散步地圖-733bfd.html
 published: 2026-06-06
-quality_score: 6.5
+quality_score: 8.6
 tags: 東京歷史街區, 下町散步, 谷中根津, 人形町, 神楽坂
 license: CC BY 4.0
 ---

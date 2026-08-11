@@ -6,7 +6,7 @@ category: shinkansen
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-hokkaido-hokkaido-shinkansen-5b433b.html
 published: 2026-03-21
-quality_score: 6.5
+quality_score: 7.0
 tags: shinkansen, hokkaido, japan
 license: CC BY 4.0
 ---

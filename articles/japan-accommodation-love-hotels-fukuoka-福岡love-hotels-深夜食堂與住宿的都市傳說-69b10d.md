@@ -6,7 +6,7 @@ category: love-hotels
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-love-hotels-fukuoka-福岡love-hotels-深夜食堂與住宿的都市傳說-69b10d.html
 published: 2026-06-21
-quality_score: 6.5
+quality_score: 8.7
 tags: 福岡住宿, 博多吃喝, 九州夜生活, 中洲屋台, 福岡Love Hotels
 license: CC BY 4.0
 ---

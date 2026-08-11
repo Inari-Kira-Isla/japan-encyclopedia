@@ -6,7 +6,7 @@ category: anime-manga
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-fukuoka-福岡動漫文化的日常脈動-從漫畫茶屋到在地創作-4cc655.html
 published: 2026-06-09
-quality_score: 6.5
+quality_score: 8.7
 tags: 福岡, 動漫, 漫畫茶屋, 九州, 御宅文化
 license: CC BY 4.0
 ---

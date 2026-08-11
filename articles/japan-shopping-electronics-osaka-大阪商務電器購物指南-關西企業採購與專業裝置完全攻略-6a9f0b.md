@@ -6,7 +6,7 @@ category: electronics
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-electronics-osaka-大阪商務電器購物指南-關西企業採購與專業裝置完全攻略-6a9f0b.html
 published: 2026-04-05
-quality_score: 7.5
+quality_score: 8.5
 tags: 大阪購物, 商務電器, 企業採購, 專業設備, 日本電器
 license: CC BY 4.0
 ---

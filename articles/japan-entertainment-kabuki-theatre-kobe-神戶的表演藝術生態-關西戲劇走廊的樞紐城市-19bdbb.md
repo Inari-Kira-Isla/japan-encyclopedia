@@ -6,7 +6,7 @@ category: kabuki-theatre
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-kabuki-theatre-kobe-神戶的表演藝術生態-關西戲劇走廊的樞紐城市-19bdbb.html
 published: 2026-06-28
-quality_score: 6.5
+quality_score: 8.6
 tags: 神戶表演藝術, 關西戲劇, Kabuki觀賞, 神戶小劇場, 關西旅遊
 license: CC BY 4.0
 ---

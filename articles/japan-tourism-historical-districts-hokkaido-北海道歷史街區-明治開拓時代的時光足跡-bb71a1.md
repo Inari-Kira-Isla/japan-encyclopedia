@@ -6,7 +6,7 @@ category: historical-districts
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-hokkaido-北海道歷史街區-明治開拓時代的時光足跡-bb71a1.html
 published: 2026-05-21
-quality_score: 6.5
+quality_score: 8.6
 tags: 日本旅遊, 北海道自由行, 歷史建築, 小樽運河, 函館
 license: CC BY 4.0
 ---

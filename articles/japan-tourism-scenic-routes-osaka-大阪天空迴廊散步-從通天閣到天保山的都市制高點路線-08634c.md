@@ -6,7 +6,7 @@ category: scenic-routes
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-osaka-大阪天空迴廊散步-從通天閣到天保山的都市制高點路線-08634c.html
 published: 2026-06-17
-quality_score: 6.5
+quality_score: 8.9
 tags: 大阪散步, 都市展望, 天王寺, 梅田, 天保山
 license: CC BY 4.0
 ---

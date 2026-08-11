@@ -6,7 +6,7 @@ category: sake-brewery
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sake-brewery-kanazawa-金澤清酒季節指南-按旬享飲的品酩美學-13bb50.html
 published: 2026-06-11
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤清酒, 日本海側釀酒, 季節限定, 加賀料理, 北路旅遊
 license: CC BY 4.0
 ---

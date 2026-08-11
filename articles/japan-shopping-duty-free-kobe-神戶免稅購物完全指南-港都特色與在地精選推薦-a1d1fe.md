@@ -6,7 +6,7 @@ category: duty-free
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-duty-free-kobe-神戶免稅購物完全指南-港都特色與在地精選推薦-a1d1fe.html
 published: 2026-03-21
-quality_score: 7.5
+quality_score: 8.5
 tags: 神戶, 免稅購物, 日本購物, 三宮, 元町
 license: CC BY 4.0
 ---

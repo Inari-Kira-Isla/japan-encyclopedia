@@ -6,7 +6,7 @@ category: sake-brewery
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sake-brewery-sendai-仙台清酒採購指南-從產地直送到餐桌的供應鏈密碼-da8f59.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.6
 tags: 仙台清酒, 供應鏈, 採購指南, 東北地酒, 品質控制
 license: CC BY 4.0
 ---

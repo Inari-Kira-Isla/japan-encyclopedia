@@ -6,7 +6,7 @@ category: cycling
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-sendai-仙台綠色騎行-在都市森林中探尋永續交通的東北實踐-277193.html
 published: 2026-04-04
-quality_score: 7.5
+quality_score: 8.7
 tags: 仙台, 都市森林, 綠色交通, 永續旅遊, 東北騎行
 license: CC BY 4.0
 ---

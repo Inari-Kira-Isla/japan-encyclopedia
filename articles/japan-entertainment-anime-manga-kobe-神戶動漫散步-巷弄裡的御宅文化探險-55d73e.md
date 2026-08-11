@@ -6,7 +6,7 @@ category: anime-manga
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-kobe-神戶動漫散步-巷弄裡的御宅文化探險-55d73e.html
 published: 2026-06-02
-quality_score: 6.5
+quality_score: 8.9
 tags: 神戶動漫, 神戶漫畫店, 關西御宅文化, 神戶旅遊, 日本動漫散步
 license: CC BY 4.0
 ---

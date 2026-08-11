@@ -6,7 +6,7 @@ category: kaiseki
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-kaiseki-nagoya-名古屋懷石料理-商都名古屋的社交餐桌學-1e2ced.html
 published: 2026-06-04
-quality_score: 6.5
+quality_score: 8.8
 tags: 名古屋懷石, 名古屋美食, 名古屋餐廳, 名古屋必吃, 尾张料理
 license: CC BY 4.0
 ---

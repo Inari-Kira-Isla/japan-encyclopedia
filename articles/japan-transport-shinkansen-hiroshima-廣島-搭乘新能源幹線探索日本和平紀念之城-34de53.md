@@ -6,7 +6,7 @@ category: shinkansen
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-hiroshima-廣島-搭乘新能源幹線探索日本和平紀念之城-34de53.html
 published: 2026-07-01
-quality_score: 7.5
+quality_score: 8.8
 tags: 廣島新能源幹線, 山陽新能源幹線, 日本和平紀念, 廣島旅遊, 宮島
 license: CC BY 4.0
 ---

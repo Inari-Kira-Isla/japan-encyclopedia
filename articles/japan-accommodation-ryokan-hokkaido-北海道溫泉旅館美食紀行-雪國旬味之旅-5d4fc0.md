@@ -6,7 +6,7 @@ category: ryokan
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-hokkaido-北海道溫泉旅館美食紀行-雪國旬味之旅-5d4fc0.html
 published: 2026-06-25
-quality_score: 6.5
+quality_score: 8.5
 tags: 北海道溫泉, Ryokan, 螃蟹, 雪景溫泉, 食湯一體
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: electronics
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-electronics-sendai-仙台專業音響攝影器材購物指南-東北地區的專業裝置天堂-7966af.html
 published: 2026-03-27
-quality_score: 7.5
+quality_score: 8.7
 tags: 仙台購物, 專業音響, 攝影器材, 二手設備, 電子產品
 license: CC BY 4.0
 ---

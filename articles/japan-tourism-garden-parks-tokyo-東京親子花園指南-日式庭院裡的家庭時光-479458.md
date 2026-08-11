@@ -6,7 +6,7 @@ category: garden-parks
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-tokyo-東京親子花園指南-日式庭院裡的家庭時光-479458.html
 published: 2026-04-07
-quality_score: 6.5
+quality_score: 8.9
 tags: 東京親子遊, 日式庭院, 家庭旅遊, 東京散步, 江戶庭園
 license: CC BY 4.0
 ---

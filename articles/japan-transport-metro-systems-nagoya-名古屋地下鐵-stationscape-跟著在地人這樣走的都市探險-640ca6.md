@@ -6,7 +6,7 @@ category: metro-systems
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-nagoya-名古屋地下鐵-stationscape-跟著在地人這樣走的都市探險-640ca6.html
 published: 2026-05-22
-quality_score: 7.5
+quality_score: 8.5
 tags: 名古屋地下鐵, 名古屋交通, 中部之旅, metro系統, 在地人玩法
 license: CC BY 4.0
 ---

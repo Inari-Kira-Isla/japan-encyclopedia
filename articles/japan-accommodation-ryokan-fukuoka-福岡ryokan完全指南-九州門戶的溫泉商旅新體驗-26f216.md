@@ -6,7 +6,7 @@ category: ryokan
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-fukuoka-福岡ryokan完全指南-九州門戶的溫泉商旅新體驗-26f216.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 8.5
 tags: 福岡Ryokan, 九州溫泉, 博多米其林, 福岡住宿推薦, 日式傳統旅馆
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: island-hopping
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-island-hopping-hokkaido-北海道跳島溫泉巡禮-探索離島秘湯的極致體驗-1c600c.html
 published: 2026-04-06
-quality_score: 6.5
+quality_score: 8.5
 tags: 北海道, 離島, 溫泉, 跳島旅遊, 秘湯
 license: CC BY 4.0
 ---

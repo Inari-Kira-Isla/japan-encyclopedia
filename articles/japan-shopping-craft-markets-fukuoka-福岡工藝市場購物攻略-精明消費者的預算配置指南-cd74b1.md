@@ -6,7 +6,7 @@ category: craft-markets
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-craft-markets-fukuoka-福岡工藝市場購物攻略-精明消費者的預算配置指南-cd74b1.html
 published: 2026-04-05
-quality_score: 7.5
+quality_score: 8.7
 tags: 福岡購物, 工藝市場, 消費策略, 預算規劃, 日本工藝
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: ramen
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-ramen-fukuoka-福岡拉麵-天神與博多之間的在地鹽味派系之爭-589b9b.html
 published: 2026-06-05
-quality_score: 6.5
+quality_score: 8.6
 tags: 九州拉麵, 天神站, 豚骨湯, 鹽味拉麵, 久留米系
 license: CC BY 4.0
 ---

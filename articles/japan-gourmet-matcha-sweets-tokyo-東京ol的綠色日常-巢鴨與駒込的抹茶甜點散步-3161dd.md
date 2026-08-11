@@ -6,7 +6,7 @@ category: matcha-sweets
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-matcha-sweets-tokyo-東京ol的綠色日常-巢鴨與駒込的抹茶甜點散步-3161dd.html
 published: 2026-06-28
-quality_score: 6.5
+quality_score: 8.8
 tags: 東京抹茶甜點, 巢鴨, 駒解散步, 東京下町, 日常抹茶
 license: CC BY 4.0
 ---

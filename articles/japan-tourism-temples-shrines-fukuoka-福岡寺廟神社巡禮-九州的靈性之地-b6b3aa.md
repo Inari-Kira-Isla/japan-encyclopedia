@@ -6,7 +6,7 @@ category: temples-shrines
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-temples-shrines-fukuoka-福岡寺廟神社巡禮-九州的靈性之地-b6b3aa.html
 published: 2026-03-21
-quality_score: 6.5
+quality_score: 8.9
 tags: 福岡, 寺廟, 神社, 禪宗, 九州
 license: CC BY 4.0
 ---

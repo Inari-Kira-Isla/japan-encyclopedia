@@ -6,7 +6,7 @@ category: business-hotels
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-business-hotels-osaka-大阪商務酒店-庶民美食-商旅人士的大阪胃袋地圖-9f8322.html
 published: 2026-06-30
-quality_score: 6.5
+quality_score: 8.5
 tags: 大阪商務酒店, 大阪住宿推薦, 關西商務出差, 大阪庶民美食, 難波商務住宿
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: festivals-matsuri
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-festivals-matsuri-kyoto-京都在地祭典探訪-遠離人潮的社群慶典深度體驗-5df247.html
 published: 2026-06-28
-quality_score: 6.5
+quality_score: 8.7
 tags: 京都祭典, 社區慶典, 在地體驗, 日本文化, 非觀光祭典
 license: CC BY 4.0
 ---

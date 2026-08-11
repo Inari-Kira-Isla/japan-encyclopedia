@@ -6,7 +6,7 @@ category: tonkatsu
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tonkatsu-hokkaido-北海道炸豬排-乳酪王國的醇厚滋味-df615d.html
 published: 2026-06-03
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道美食, 洋食, 炸豬排, 道央, 奶酪王國
 license: CC BY 4.0
 ---

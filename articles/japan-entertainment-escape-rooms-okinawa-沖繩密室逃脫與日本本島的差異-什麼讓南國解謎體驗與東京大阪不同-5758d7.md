@@ -6,7 +6,7 @@ category: escape-rooms
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-escape-rooms-okinawa-沖繩密室逃脫與日本本島的差異-什麼讓南國解謎體驗與東京大阪不同-5758d7.html
 published: 2026-05-21
-quality_score: 5.5
+quality_score: 7.8
 tags: 沖繩旅遊, 密室逃脫, 室內活動, 那霸娛樂, 南國體驗
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: business-hotels
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-business-hotels-sendai-仙台商務飯店住宿指南-車站東口商圈與長期滯在的實用選擇-ce1cb2.html
 published: 2026-07-03
-quality_score: 6.5
+quality_score: 8.6
 tags: 仙台, 商務飯店, 東北住宿, 出差, 日本商旅
 license: CC BY 4.0
 ---

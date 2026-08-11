@@ -6,7 +6,7 @@ category: historical-districts
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-nara-奈良町屋散步-探訪1300年古都的手作風景與晨間日常-23c7eb.html
 published: 2026-06-19
-quality_score: 6.5
+quality_score: 8.6
 tags: 奈良町屋, 日本古都, 傳統工藝, 深度旅遊, 手作體驗
 license: CC BY 4.0
 ---

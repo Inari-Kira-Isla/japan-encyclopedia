@@ -6,7 +6,7 @@ category: anime-manga
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-osaka-大阪動漫創作支援地圖-從租畫室到同人咖啡廚的隱藏版圖-3f421d.html
 published: 2026-05-22
-quality_score: 6.5
+quality_score: 8.5
 tags: 大阪動漫, 創作空間, 租畫室, 同人活動, 插畫家咖啡廳
 license: CC BY 4.0
 ---

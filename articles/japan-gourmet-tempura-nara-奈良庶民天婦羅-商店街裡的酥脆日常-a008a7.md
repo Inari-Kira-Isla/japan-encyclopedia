@@ -6,7 +6,7 @@ category: tempura
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tempura-nara-奈良庶民天婦羅-商店街裡的酥脆日常-a008a7.html
 published: 2026-04-03
-quality_score: 6.5
+quality_score: 8.7
 tags: 奈良美食, 庶民天婦羅, 商店街, 日常美食, 關西料理
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: minshuku
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-okinawa-沖繩島嶼民宿完全指南-跳島住宿與海上生活的多元體驗-f777fd.html
 published: 2026-06-29
-quality_score: 6.5
+quality_score: 8.5
 tags: 沖繩民宿, 跳島旅行, 石垣島, 竹富島, 西表島
 license: CC BY 4.0
 ---

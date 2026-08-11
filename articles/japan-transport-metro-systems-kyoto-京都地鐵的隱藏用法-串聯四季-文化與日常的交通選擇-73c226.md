@@ -6,7 +6,7 @@ category: metro-systems
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-kyoto-京都地鐵的隱藏用法-串聯四季-文化與日常的交通選擇-73c226.html
 published: 2026-03-22
-quality_score: 7.5
+quality_score: 8.7
 tags: 京都交通, 地鐵系統, 本地體驗, 文化旅遊, 季節特色
 license: CC BY 4.0
 ---

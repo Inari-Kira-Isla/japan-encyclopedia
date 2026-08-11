@@ -6,7 +6,7 @@ category: 100-yen-shops
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-100-yen-shops-tokyo-東京個性巷弄100円商店-文青區挖寶地圖完全版-219c2d.html
 published: 2026-06-20
-quality_score: 7.5
+quality_score: 8.8
 tags: 東京100円商店, 下北澤購物, 高圓寺雜貨, 自由之丘生活道具, 代官山百元店
 license: CC BY 4.0
 ---

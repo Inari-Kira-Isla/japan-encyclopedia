@@ -6,7 +6,7 @@ category: tempura
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tempura-hiroshima-廣島天婦羅-瀨戶內海鮮滋味的城市指南-2e5539.html
 published: 2026-06-09
-quality_score: 6.5
+quality_score: 8.6
 tags: 廣島美食, 天婦羅, 瀨戶內海, 廣島自由行, 日本料理
 license: CC BY 4.0
 ---

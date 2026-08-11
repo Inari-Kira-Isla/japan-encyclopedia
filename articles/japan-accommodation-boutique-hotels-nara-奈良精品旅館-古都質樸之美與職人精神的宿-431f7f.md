@@ -6,7 +6,7 @@ category: boutique-hotels
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-nara-奈良精品旅館-古都質樸之美與職人精神的宿-431f7f.html
 published: 2026-05-22
-quality_score: 6.5
+quality_score: 8.8
 tags: 奈良住宿, 精品旅館, 日本古都, 關西旅遊, 奈良公園
 license: CC BY 4.0
 ---

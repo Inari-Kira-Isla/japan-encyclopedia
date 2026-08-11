@@ -6,7 +6,7 @@ category: gaming-arcades
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-gaming-arcades-kyoto-京都遊戲中心-古巷裡的逆轉青春樂園-282d79.html
 published: 2026-06-14
-quality_score: 6.5
+quality_score: 8.7
 tags: 京都, 遊戲中心, 街機, 日本娛樂, 京都自由行
 license: CC BY 4.0
 ---

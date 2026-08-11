@@ -6,7 +6,7 @@ category: castle-towns
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-castle-towns-nara-奈良的城堡城鎮-武家風情與町家生活-151b0a.html
 published: 2026-06-10
-quality_score: 6.5
+quality_score: 8.6
 tags: 奈良城堡城鎮, 郡山城, 奈良町, 今井町, 武家住宅
 license: CC BY 4.0
 ---

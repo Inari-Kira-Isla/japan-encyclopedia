@@ -6,7 +6,7 @@ category: jr-pass
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-jr-pass-osaka-大阪jr-pass全攻略-從關西機場進城到週邊城市一日遊的省錢實戰指南-ed2c06.html
 published: 2026-04-02
-quality_score: 7.5
+quality_score: 8.7
 tags: JR Pass, 關西機場, 大阪交通, 神戶一日遊, 奈良公園
 license: CC BY 4.0
 ---

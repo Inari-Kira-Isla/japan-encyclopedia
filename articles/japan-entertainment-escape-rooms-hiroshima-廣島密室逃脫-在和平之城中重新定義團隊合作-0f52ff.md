@@ -6,7 +6,7 @@ category: escape-rooms
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-escape-rooms-hiroshima-廣島密室逃脫-在和平之城中重新定義團隊合作-0f52ff.html
 published: 2026-04-11
-quality_score: 6.5
+quality_score: 8.7
 tags: 廣島旅遊, 密室逃脫, 團隊活動, 在地體驗, 親子娛樂
 license: CC BY 4.0
 ---

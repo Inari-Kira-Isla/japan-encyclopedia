@@ -6,7 +6,7 @@ category: sumo
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-kobe-神戶相撲夜生活-港都力士主題娛樂全攻略-c5c376.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 神戶夜生活, 相撲文化, 主題居酒屋, 娛樂體驗, 港都美食
 license: CC BY 4.0
 ---

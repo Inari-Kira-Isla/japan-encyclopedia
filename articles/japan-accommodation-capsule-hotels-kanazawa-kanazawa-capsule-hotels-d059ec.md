@@ -6,7 +6,7 @@ category: capsule-hotels
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-capsule-hotels-kanazawa-kanazawa-capsule-hotels-d059ec.html
 published: 2026-03-23
-quality_score: 5.5
+quality_score: 6.7
 tags: capsule-hotels, kanazawa, japan
 license: CC BY 4.0
 ---

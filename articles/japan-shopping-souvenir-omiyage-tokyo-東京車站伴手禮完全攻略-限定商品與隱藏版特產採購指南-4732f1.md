@@ -6,7 +6,7 @@ category: souvenir-omiyage
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-souvenir-omiyage-tokyo-東京車站伴手禮完全攻略-限定商品與隱藏版特產採購指南-4732f1.html
 published: 2026-05-22
-quality_score: 7.5
+quality_score: 8.6
 tags: 東京伴手禮, 車站限定, 東京車站, 便利商店, 御oie
 license: CC BY 4.0
 ---

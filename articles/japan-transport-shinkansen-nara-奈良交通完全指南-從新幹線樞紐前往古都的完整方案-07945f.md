@@ -6,7 +6,7 @@ category: shinkansen
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-nara-奈良交通完全指南-從新幹線樞紐前往古都的完整方案-07945f.html
 published: 2026-06-02
-quality_score: 7.5
+quality_score: 8.7
 tags: 奈良, 日本鐵路, 關西, 近鐵, JR
 license: CC BY 4.0
 ---

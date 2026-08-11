@@ -6,7 +6,7 @@ category: seafood-export
 area: japan
 url: https://japan-encyclopedia.vercel.app/articles/japan-food-supply-seafood-export-日本海鮮出口供應鏈2026-豊洲市場-北海道水產-大中華市場輸出完整指南-jp-b2b-sea-f8b45b.html
 published: 2026-03-28
-quality_score: 7.6
+quality_score: 8.3
 tags: 日本海鮮出口, 豊洲市場, 北海道海膽, 日本食材大中華, 日本水產輸出
 license: CC BY 4.0
 ---

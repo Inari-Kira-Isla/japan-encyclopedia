@@ -6,7 +6,7 @@ category: business-hotels
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-business-hotels-hokkaido-北海道商務酒店住宿指南-車站周邊高效住宿與在地美食體驗的完美結合-603737.html
 published: 2026-07-02
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道商務酒店, 札幌住宿, 小樽商務住宿, 旭川出差, 帶廣商務酒店
 license: CC BY 4.0
 ---

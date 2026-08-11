@@ -6,7 +6,7 @@ category: ferries
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-ferries-nagoya-名古屋出發-伊勢灣海上航線-從名古屋港口通往鄰近島嶼的實用指南-8f25b0.html
 published: 2026-06-06
-quality_score: 7.5
+quality_score: 8.3
 tags: 名古屋交通, 伊勢灣渡輪, 中部海岸, 日本海上交通, 名古屋出發一日遊
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: castle-towns
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-castle-towns-kyoto-京都城下町-千年古都的武家風情與政治中樞遺韻-de5cc3.html
 published: 2026-04-06
-quality_score: 6.5
+quality_score: 8.7
 tags: 京都, 城下町, 武家文化, 二條城, 歷史建築
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: izakaya
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-izakaya-kyoto-京都居酒屋完全指南-千年古都的精緻酒食文化體驗-dead76.html
 published: 2026-03-15
-quality_score: 6.5
+quality_score: 8.5
 tags: 京都美食, 居酒屋, 日本酒文化, 京料理, 祇園
 license: CC BY 4.0
 ---

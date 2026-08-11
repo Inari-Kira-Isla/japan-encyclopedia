@@ -6,7 +6,7 @@ category: okonomiyaki
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-okonomiyaki-sendai-仙台御好燒-東北學生街的庶民創意料理-e8182b.html
 published: 2026-04-04
-quality_score: 6.5
+quality_score: 8.7
 tags: 仙台美食, 東北料理, 御好燒, 學生美食, 庶民料理
 license: CC BY 4.0
 ---

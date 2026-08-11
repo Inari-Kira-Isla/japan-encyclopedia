@@ -6,7 +6,7 @@ category: shinkansen
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-hiroshima-廣島-新幹線直達的療癒與歷史之境-59c179.html
 published: 2026-06-18
-quality_score: 7.5
+quality_score: 8.7
 tags: 廣島, 山陽新幹線, 日本溫泉, 日本美食, 和平紀念
 license: CC BY 4.0
 ---

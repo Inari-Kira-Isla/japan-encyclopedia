@@ -6,7 +6,7 @@ category: festivals-matsuri
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-festivals-matsuri-sendai-仙台四季祭典總覽-非祇園祭-東北藏王門戶的在地慶典物語-e5c153.html
 published: 2026-05-24
-quality_score: 6.5
+quality_score: 8.7
 tags: 仙台祭典, 青葉祭, 日本東北夏日祭典, 仙台旅行, 四季日本
 license: CC BY 4.0
 ---

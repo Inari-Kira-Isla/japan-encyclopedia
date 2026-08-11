@@ -6,7 +6,7 @@ category: ryokan
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-nagoya-名古屋驛站旅宿-作為中部溫泉探索據點的住宿選擇-13c2bd.html
 published: 2026-06-05
-quality_score: 6.5
+quality_score: 8.4
 tags: 名古屋住宿, 中部溫泉, 都市型溫泉, Ryokan推薦, 名古屋溫泉
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: electronics
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-electronics-sendai-仙台電子產品購物攻略-極寒氣候專屬裝備與工藝職人店深度指南-a1e279.html
 published: 2026-06-25
-quality_score: 7.5
+quality_score: 8.7
 tags: 仙台電子產品, 東北購物, 日本電器, 耐低溫設備, 寒帶電子學
 license: CC BY 4.0
 ---

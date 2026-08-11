@@ -6,7 +6,7 @@ category: scenic-routes
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-okinawa-沖繩親子風景道路-適合全家出遊的海岸線自駕路線與濱海秘境-b30b9e.html
 published: 2026-06-29
-quality_score: 6.5
+quality_score: 8.7
 tags: 沖繩自駕, 親子旅遊, 海岸線, 風景道路, 亞熱帶
 license: CC BY 4.0
 ---

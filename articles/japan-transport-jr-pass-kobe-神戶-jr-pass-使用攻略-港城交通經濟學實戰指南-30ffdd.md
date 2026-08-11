@@ -6,7 +6,7 @@ category: jr-pass
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-jr-pass-kobe-神戶-jr-pass-使用攻略-港城交通經濟學實戰指南-30ffdd.html
 published: 2026-04-02
-quality_score: 7.5
+quality_score: 8.7
 tags: 神戶交通, JR Pass, 關西周遊券, 成本分析, 交通策略
 license: CC BY 4.0
 ---

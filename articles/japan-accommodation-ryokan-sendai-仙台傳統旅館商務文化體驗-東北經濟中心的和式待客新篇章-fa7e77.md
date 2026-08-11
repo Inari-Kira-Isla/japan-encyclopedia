@@ -6,7 +6,7 @@ category: ryokan
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-sendai-仙台傳統旅館商務文化體驗-東北經濟中心的和式待客新篇章-fa7e77.html
 published: 2026-04-03
-quality_score: 6.5
+quality_score: 8.6
 tags: 仙台旅館, 商務住宿, 溫泉文化, 東北旅遊, 伊達政宗
 license: CC BY 4.0
 ---

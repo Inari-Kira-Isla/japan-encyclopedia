@@ -6,7 +6,7 @@ category: nightlife
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-nagoya-名古屋夜生活-下班後的美食與酒館文化探索-3691a3.html
 published: 2026-03-30
-quality_score: 6.5
+quality_score: 8.9
 tags: 名古屋夜生活, 居酒屋, 日本酒吧, 名古屋美食, 名古屋自由行
 license: CC BY 4.0
 ---

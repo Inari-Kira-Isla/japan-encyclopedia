@@ -6,7 +6,7 @@ category: airport-transfer
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-airport-transfer-nara-奈良機場交通逆走攻略-從千年古都通往關西各大機場的實用指南-624923.html
 published: 2026-06-03
-quality_score: 7.5
+quality_score: 8.5
 tags: 奈良, 機場交通, 關西機場, 伊丹機場, 神戶機場
 license: CC BY 4.0
 ---

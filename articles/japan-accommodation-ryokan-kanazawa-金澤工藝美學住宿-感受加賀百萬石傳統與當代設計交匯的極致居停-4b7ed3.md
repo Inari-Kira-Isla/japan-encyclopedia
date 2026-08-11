@@ -6,7 +6,7 @@ category: ryokan
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-kanazawa-金澤工藝美學住宿-感受加賀百萬石傳統與當代設計交匯的極致居停-4b7ed3.html
 published: 2026-06-29
-quality_score: 6.5
+quality_score: 8.5
 tags: 金澤, Ryokan, 日本住宿, 加賀百萬石, 金箔體驗
 license: CC BY 4.0
 ---

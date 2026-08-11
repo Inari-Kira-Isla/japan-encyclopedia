@@ -6,7 +6,7 @@ category: love-hotels
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-love-hotels-nara-奈良情侶住宿全攻略-古都學園城的隱藏魅力-6850ad.html
 published: 2026-06-04
-quality_score: 6.5
+quality_score: 8.5
 tags: 奈良住宿, 奈良LOVE HOTEL, 情侶旅館, 古都住宿, 奈良一日遊
 license: CC BY 4.0
 ---

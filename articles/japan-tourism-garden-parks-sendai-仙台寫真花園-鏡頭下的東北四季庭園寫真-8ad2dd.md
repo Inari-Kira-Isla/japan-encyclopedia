@@ -6,7 +6,7 @@ category: garden-parks
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-sendai-仙台寫真花園-鏡頭下的東北四季庭園寫真-8ad2dd.html
 published: 2026-06-12
-quality_score: 6.5
+quality_score: 8.7
 tags: 仙台寫真, 東北庭園, 春季櫻花, 秋季楓紅, 寫真散步
 license: CC BY 4.0
 ---

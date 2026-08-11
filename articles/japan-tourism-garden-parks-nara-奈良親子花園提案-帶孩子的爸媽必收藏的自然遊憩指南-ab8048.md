@@ -6,7 +6,7 @@ category: garden-parks
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-nara-奈良親子花園提案-帶孩子的爸媽必收藏的自然遊憩指南-ab8048.html
 published: 2026-06-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 奈良亲子游, 花园公园, 日本育儿旅游, 家庭旅行推荐, 奈良公园
 license: CC BY 4.0
 ---

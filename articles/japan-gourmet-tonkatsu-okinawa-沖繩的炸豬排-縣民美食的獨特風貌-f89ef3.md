@@ -6,7 +6,7 @@ category: tonkatsu
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tonkatsu-okinawa-沖繩的炸豬排-縣民美食的獨特風貌-f89ef3.html
 published: 2026-05-31
-quality_score: 6.5
+quality_score: 8.3
 tags: 沖繩美食, 炸豬排, 縣民美食, 沖繩旅遊, 那霸
 license: CC BY 4.0
 ---

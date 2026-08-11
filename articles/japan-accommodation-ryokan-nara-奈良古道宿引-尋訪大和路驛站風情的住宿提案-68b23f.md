@@ -6,7 +6,7 @@ category: ryokan
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-nara-奈良古道宿引-尋訪大和路驛站風情的住宿提案-68b23f.html
 published: 2026-06-22
-quality_score: 6.5
+quality_score: 8.7
 tags: 奈良住宿, 日式傳統旅馆, 大和路, 修驗道場, 町家民宿
 license: CC BY 4.0
 ---

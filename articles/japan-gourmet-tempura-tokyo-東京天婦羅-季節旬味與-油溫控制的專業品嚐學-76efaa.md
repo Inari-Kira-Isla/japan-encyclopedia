@@ -6,7 +6,7 @@ category: tempura
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tempura-tokyo-東京天婦羅-季節旬味與-油溫控制的專業品嚐學-76efaa.html
 published: 2026-06-03
-quality_score: 6.5
+quality_score: 8.5
 tags: 東京天婦羅, 江戸前天婦羅, 東京美食, 築地市場, Tempura
 license: CC BY 4.0
 ---

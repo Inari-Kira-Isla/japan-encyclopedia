@@ -6,7 +6,7 @@ category: souvenir-omiyage
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-souvenir-omiyage-nara-奈良手作體驗伴手禮-可親自製作的在地特產與工坊推薦-588dad.html
 published: 2026-05-23
-quality_score: 7.5
+quality_score: 8.5
 tags: 奈良伴手禮, 手作體驗, 日本工藝, 奈良自由行, DIY伴手禮
 license: CC BY 4.0
 ---

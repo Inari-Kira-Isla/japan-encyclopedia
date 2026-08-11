@@ -6,7 +6,7 @@ category: street-food
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-street-food-osaka-大阪港區與臨海工業帶的早晨鮮味-另一種大阪的街食風景-1e57e7.html
 published: 2026-06-13
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪, 街頭美食, 港區, 臨海, 清晨
 license: CC BY 4.0
 ---

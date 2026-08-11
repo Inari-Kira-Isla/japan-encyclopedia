@@ -6,7 +6,7 @@ category: kaiseki
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-kaiseki-kyoto-京都懷石料理-當地人帶路的料亭選擇邏輯-97a811.html
 published: 2026-06-13
-quality_score: 6.5
+quality_score: 8.6
 tags: 京都懷石, 京都美食, 京都料亭, kaiseki, 京料理
 license: CC BY 4.0
 ---

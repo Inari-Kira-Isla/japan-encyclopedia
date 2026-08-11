@@ -6,7 +6,7 @@ category: boutique-hotels
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-kyoto-京都精品酒店地域指南-從祗園到嵐山的住宿文化地圖-47ca77.html
 published: 2026-03-29
-quality_score: 6.5
+quality_score: 8.7
 tags: 精品酒店, 京都住宿, 地域文化, 傳統與現代, 文化體驗
 license: CC BY 4.0
 ---

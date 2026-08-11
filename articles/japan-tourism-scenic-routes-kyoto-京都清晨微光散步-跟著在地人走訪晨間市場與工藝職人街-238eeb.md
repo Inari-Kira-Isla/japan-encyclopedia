@@ -6,7 +6,7 @@ category: scenic-routes
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-kyoto-京都清晨微光散步-跟著在地人走訪晨間市場與工藝職人街-238eeb.html
 published: 2026-07-05
-quality_score: 6.5
+quality_score: 8.8
 tags: 京都晨間散步, 京都市場美食, 京都工藝體驗, 京都小眾景點, 宇治抹茶
 license: CC BY 4.0
 ---

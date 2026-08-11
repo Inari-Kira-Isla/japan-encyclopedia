@@ -6,7 +6,7 @@ category: vr-experiences
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-vr-experiences-nara-奈良-vr-體驗-當地人私藏的虛擬實境娛樂地圖-a6fb2e.html
 published: 2026-06-06
-quality_score: 6.5
+quality_score: 8.6
 tags: 奈良VR, 奈良虛擬實境, 奈良親子, 奈良娛樂, 奈良自由行
 license: CC BY 4.0
 ---

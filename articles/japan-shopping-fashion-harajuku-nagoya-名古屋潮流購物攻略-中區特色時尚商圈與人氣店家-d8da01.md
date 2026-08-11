@@ -6,7 +6,7 @@ category: fashion-harajuku
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-fashion-harajuku-nagoya-名古屋潮流購物攻略-中區特色時尚商圈與人氣店家-d8da01.html
 published: 2026-06-06
-quality_score: 7.5
+quality_score: 8.7
 tags: 名古屋購物, 榮商圈, 古著, 日本免稅, 中部國際空港
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: temple-stays
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-temple-stays-hiroshima-廣島-寺廟住宿-完整指南-原子彈爆炸圓頂屋周邊的精神棲居-0872a7.html
 published: 2026-06-02
-quality_score: 6.5
+quality_score: 8.6
 tags: 廣島住宿, 寺廟住宿, 宮島神社, 宿坊體驗, 廣島自由行
 license: CC BY 4.0
 ---

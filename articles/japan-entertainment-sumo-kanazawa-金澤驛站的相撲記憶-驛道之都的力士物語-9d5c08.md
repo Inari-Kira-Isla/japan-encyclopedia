@@ -6,7 +6,7 @@ category: sumo
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-kanazawa-金澤驛站的相撲記憶-驛道之都的力士物語-9d5c08.html
 published: 2026-06-25
-quality_score: 6.5
+quality_score: 8.3
 tags: 金澤相撲, 石川縣旅遊, 北路相撲, 驛站文化, 相撲體驗
 license: CC BY 4.0
 ---

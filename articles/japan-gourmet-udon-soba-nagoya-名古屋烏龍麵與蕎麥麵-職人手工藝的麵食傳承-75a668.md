@@ -6,7 +6,7 @@ category: udon-soba
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-udon-soba-nagoya-名古屋烏龍麵與蕎麥麵-職人手工藝的麵食傳承-75a668.html
 published: 2026-03-27
-quality_score: 6.5
+quality_score: 8.9
 tags: 名古屋美食, 烏龍麵, 蕎麥麵, 手工製麵, 職人文化
 license: CC BY 4.0
 ---

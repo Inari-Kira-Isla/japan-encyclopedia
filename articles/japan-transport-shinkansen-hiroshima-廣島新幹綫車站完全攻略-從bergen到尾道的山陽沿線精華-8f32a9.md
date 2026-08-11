@@ -6,7 +6,7 @@ category: shinkansen
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-hiroshima-廣島新幹綫車站完全攻略-從bergen到尾道的山陽沿線精華-8f32a9.html
 published: 2026-07-06
-quality_score: 7.5
+quality_score: 8.5
 tags: 廣島新幹綫, 山陽新幹綫, 廣島交通, 福山站, 三原站
 license: CC BY 4.0
 ---

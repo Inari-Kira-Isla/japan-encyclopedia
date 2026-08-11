@@ -6,7 +6,7 @@ category: castle-towns
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-castle-towns-fukuoka-福岡武家城郭與美食散步-從博多懷舊小巷到城近郊的隱藏食堂-ca48fd.html
 published: 2026-06-03
-quality_score: 6.5
+quality_score: 8.8
 tags: 福岡城下町, 武家文化, 博多吃喝, 屋台文化, City Walk
 license: CC BY 4.0
 ---

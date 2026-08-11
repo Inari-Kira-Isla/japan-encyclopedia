@@ -6,7 +6,7 @@ category: temple-stays
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-temple-stays-hiroshima-廣島-平和參訪-完全指南-從原爆圓頂到宮島神社的一日禪遊-ccaf0f.html
 published: 2026-06-20
-quality_score: 6.5
+quality_score: 8.5
 tags: 廣島寺廟住宿, 廣島宗教體驗, 宮島神社, 廣島和平紀念, 日本寺院參訪
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: sushi
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sushi-kanazawa-金澤壽司-非觀光價的在地滋味與市場哲學-5e86db.html
 published: 2026-06-19
-quality_score: 6.5
+quality_score: 8.9
 tags: 金澤壽司, 石川縣美食, 日本海鮮, 近江町市場, 北陸料理
 license: CC BY 4.0
 ---

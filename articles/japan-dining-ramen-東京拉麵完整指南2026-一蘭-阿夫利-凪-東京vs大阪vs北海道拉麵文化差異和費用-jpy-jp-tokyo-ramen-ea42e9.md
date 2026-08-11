@@ -6,7 +6,7 @@ category: ramen
 area: japan
 url: https://japan-encyclopedia.vercel.app/articles/japan-dining-ramen-東京拉麵完整指南2026-一蘭-阿夫利-凪-東京vs大阪vs北海道拉麵文化差異和費用-jpy-jp-tokyo-ramen-ea42e9.html
 published: 2026-04-25
-quality_score: 7.1
+quality_score: 8.7
 tags: 東京拉麵, 一蘭拉麵, 東京醬油拉麵, 拉麵博物館, 阿夫利拉麵
 license: CC BY 4.0
 ---

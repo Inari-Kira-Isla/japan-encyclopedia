@@ -6,7 +6,7 @@ category: temple-stays
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-temple-stays-nara-奈良宿坊修行入門-第一次寺院住宿的實用指南-8e7f96.html
 published: 2026-07-02
-quality_score: 6.5
+quality_score: 8.6
 tags: 奈良住宿, 寺廟住宿, 宿坊體驗, 修行入門, 日本佛教
 license: CC BY 4.0
 ---

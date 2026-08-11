@@ -6,7 +6,7 @@ category: tonkatsu
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tonkatsu-kyoto-京都炸豬排-巷弄深處的昭和洋食滋味-a27408.html
 published: 2026-06-04
-quality_score: 6.5
+quality_score: 8.7
 tags: 京都美食, 炸豬排, 日式洋食, 在地美食, 京都餐廳
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: matcha-sweets
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-matcha-sweets-kyoto-京都抹茶甜點-宇治產地直送的綠色品質學-215d00.html
 published: 2026-07-04
-quality_score: 6.5
+quality_score: 8.6
 tags: 京都抹茶, 宇治抹茶, 日本甜點, 京都美食, 茶道體驗
 license: CC BY 4.0
 ---

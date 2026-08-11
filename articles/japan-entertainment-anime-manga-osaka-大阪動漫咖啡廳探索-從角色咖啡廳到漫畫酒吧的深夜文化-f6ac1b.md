@@ -6,7 +6,7 @@ category: anime-manga
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-osaka-大阪動漫咖啡廳探索-從角色咖啡廳到漫畫酒吧的深夜文化-f6ac1b.html
 published: 2026-06-23
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪動漫, 角色咖啡廳, 漫畫酒吧, 日本橋, 關西動漫文化
 license: CC BY 4.0
 ---

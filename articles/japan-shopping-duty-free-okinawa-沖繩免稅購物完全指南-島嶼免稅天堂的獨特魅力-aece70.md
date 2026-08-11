@@ -6,7 +6,7 @@ category: duty-free
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-duty-free-okinawa-沖繩免稅購物完全指南-島嶼免稅天堂的獨特魅力-aece70.html
 published: 2026-04-04
-quality_score: 7.5
+quality_score: 8.7
 tags: 沖繩購物, 免稅店, 琉球特產, 那霸機場, 度假購物
 license: CC BY 4.0
 ---

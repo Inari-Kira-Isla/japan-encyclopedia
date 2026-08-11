@@ -6,7 +6,7 @@ category: historical-districts
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-sendai-仙台歷史街區-讀懂城市身世的建築解讀散步-6c393f.html
 published: 2026-05-21
-quality_score: 6.5
+quality_score: 8.5
 tags: 仙台, 歷史街區, 建築之旅, 城下町, 日本東北
 license: CC BY 4.0
 ---

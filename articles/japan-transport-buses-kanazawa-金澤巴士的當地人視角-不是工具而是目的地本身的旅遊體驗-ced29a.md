@@ -6,7 +6,7 @@ category: buses
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-buses-kanazawa-金澤巴士的當地人視角-不是工具而是目的地本身的旅遊體驗-ced29a.html
 published: 2026-06-19
-quality_score: 7.5
+quality_score: 8.5
 tags: 金澤巴士, 金澤交通, 金澤自由行, 石川縣, 北陸交通
 license: CC BY 4.0
 ---

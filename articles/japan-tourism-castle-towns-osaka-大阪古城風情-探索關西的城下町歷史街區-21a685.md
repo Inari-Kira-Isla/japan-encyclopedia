@@ -6,7 +6,7 @@ category: castle-towns
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-castle-towns-osaka-大阪古城風情-探索關西的城下町歷史街區-21a685.html
 published: 2026-06-20
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪城下町, 泉州地區, 歷史建築, 關西一日遊, 傳統工藝
 license: CC BY 4.0
 ---

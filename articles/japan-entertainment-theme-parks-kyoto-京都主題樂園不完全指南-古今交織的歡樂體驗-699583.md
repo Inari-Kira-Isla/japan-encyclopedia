@@ -6,7 +6,7 @@ category: theme-parks
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-theme-parks-kyoto-京都主題樂園不完全指南-古今交織的歡樂體驗-699583.html
 published: 2026-03-15
-quality_score: 6.5
+quality_score: 8.8
 tags: 京都主題樂園, 京都親子遊, 東映太秦映畫村, 京都 Trick Art, 京都水族館
 license: CC BY 4.0
 ---

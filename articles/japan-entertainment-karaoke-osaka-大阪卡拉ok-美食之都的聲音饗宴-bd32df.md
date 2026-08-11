@@ -6,7 +6,7 @@ category: karaoke
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-karaoke-osaka-大阪卡拉ok-美食之都的聲音饗宴-bd32df.html
 published: 2026-06-29
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪卡拉OK, 關西娛樂, 大阪夜生活, 日本卡拉OK, 吃到飽卡拉OK
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: festivals-matsuri
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-festivals-matsuri-okinawa-沖繩祭典進化論-本地人的小廟會-創意市集與新世代慶典-505362.html
 published: 2026-03-22
-quality_score: 6.5
+quality_score: 8.7
 tags: 沖繩, 祭典, 社區活動, 夏季慶典, 那霸
 license: CC BY 4.0
 ---

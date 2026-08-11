@@ -6,7 +6,7 @@ category: street-food
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-street-food-kobe-神戶街頭美食-港都庶民的味蕾革命-39354e.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 神戶美食, 街頭小食, 港都文化, 庶民美食, 關西美食
 license: CC BY 4.0
 ---

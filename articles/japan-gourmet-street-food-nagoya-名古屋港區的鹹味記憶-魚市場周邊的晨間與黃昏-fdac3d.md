@@ -6,7 +6,7 @@ category: street-food
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-street-food-nagoya-名古屋港區的鹹味記憶-魚市場周邊的晨間與黃昏-fdac3d.html
 published: 2026-06-11
-quality_score: 6.5
+quality_score: 8.8
 tags: 名古屋, 街頭美食, 港區, 魚市場, 味噌
 license: CC BY 4.0
 ---

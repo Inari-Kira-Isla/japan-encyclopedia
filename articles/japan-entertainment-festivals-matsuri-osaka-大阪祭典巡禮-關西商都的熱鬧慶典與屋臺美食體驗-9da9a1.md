@@ -6,7 +6,7 @@ category: festivals-matsuri
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-festivals-matsuri-osaka-大阪祭典巡禮-關西商都的熱鬧慶典與屋臺美食體驗-9da9a1.html
 published: 2026-04-04
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪祭典, 日本文化, 屋台美食, 天神祭, 傳統慶典
 license: CC BY 4.0
 ---

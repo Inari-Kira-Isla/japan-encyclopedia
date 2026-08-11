@@ -6,7 +6,7 @@ category: temple-stays
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-temple-stays-sendai-仙台宿坊體驗-東北門戶的禪修基地與周邊寺院指南-4216f2.html
 published: 2026-06-22
-quality_score: 6.5
+quality_score: 8.5
 tags: 仙台宿坊, 東北寺院住宿, 日本禪修體驗, 山形修驗道, 輪王寺
 license: CC BY 4.0
 ---

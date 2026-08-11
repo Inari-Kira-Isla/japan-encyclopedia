@@ -6,7 +6,7 @@ category: vr-experiences
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-vr-experiences-tokyo-tokyo-vr體驗完全指南-虛擬實境愛好者的東京朝聖地-772501.html
 published: 2026-06-20
-quality_score: 6.5
+quality_score: 8.8
 tags: 東京VR, 虛擬實境, 東京科技娛樂, VR體驗, 東京旅遊
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: matcha-sweets
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-matcha-sweets-sendai-仙台抹茶甜品-學生城市的庶民茶文化-7723da.html
 published: 2026-04-06
-quality_score: 6.5
+quality_score: 8.9
 tags: 仙台美食, 抹茶甜品, 學生城市, 庶民價格, 東北文化
 license: CC BY 4.0
 ---

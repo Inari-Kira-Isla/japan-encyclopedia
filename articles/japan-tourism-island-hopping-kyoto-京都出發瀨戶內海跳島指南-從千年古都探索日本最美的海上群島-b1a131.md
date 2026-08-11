@@ -6,7 +6,7 @@ category: island-hopping
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-island-hopping-kyoto-京都出發瀨戶內海跳島指南-從千年古都探索日本最美的海上群島-b1a131.html
 published: 2026-06-03
-quality_score: 6.5
+quality_score: 8.7
 tags: 京都旅游, 瀨戶內海, 跳岛, 直岛, 丰岛
 license: CC BY 4.0
 ---

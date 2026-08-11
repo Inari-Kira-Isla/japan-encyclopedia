@@ -6,7 +6,7 @@ category: yakitori
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-yakitori-tokyo-東京燒鳥-從零件到極致的食材供應鏈美學-10e3fa.html
 published: 2026-06-03
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京美食, 燒鳥, 庶民美食, 深夜食堂, 米其林
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: street-food
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-street-food-hokkaido-北海道港町朝市美味散步-漁港直送的街食深度之旅-773c36.html
 published: 2026-06-03
-quality_score: 6.5
+quality_score: 8.8
 tags: 北海道, 街頭美食, 渔港朝市, 小樽, 室蘭
 license: CC BY 4.0
 ---

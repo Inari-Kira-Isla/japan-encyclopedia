@@ -6,7 +6,7 @@ category: temples-shrines
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-temples-shrines-fukuoka-福岡神社寺廟文化探索-國際都市中的本土信仰傳承-3d818e.html
 published: 2026-04-02
-quality_score: 6.5
+quality_score: 8.7
 tags: 福岡神社, 九州信仰, 都市禪修, 本土文化, 櫛田神社
 license: CC BY 4.0
 ---

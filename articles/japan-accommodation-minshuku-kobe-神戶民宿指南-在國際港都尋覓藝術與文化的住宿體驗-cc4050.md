@@ -6,7 +6,7 @@ category: minshuku
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-kobe-神戶民宿指南-在國際港都尋覓藝術與文化的住宿體驗-cc4050.html
 published: 2026-04-04
-quality_score: 6.5
+quality_score: 8.8
 tags: 神戶住宿, 民宿體驗, 國際文化, 藝術旅遊, 港都風情
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: business-hotels
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-business-hotels-osaka-2026fifa世界盃前哨-大阪商務酒店的觀賽與出差雙重需求解析-86a2fe.html
 published: 2026-06-30
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪商務酒店, 2026FIFA世界盃, 關西商務住宿, 新大阪站, 難波住宿
 license: CC BY 4.0
 ---

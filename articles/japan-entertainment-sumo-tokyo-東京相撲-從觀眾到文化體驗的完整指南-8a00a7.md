@@ -6,7 +6,7 @@ category: sumo
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-tokyo-東京相撲-從觀眾到文化體驗的完整指南-8a00a7.html
 published: 2026-06-10
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京相撲, 墨田區, 國技館, 相撲體驗, 東京旅遊
 license: CC BY 4.0
 ---

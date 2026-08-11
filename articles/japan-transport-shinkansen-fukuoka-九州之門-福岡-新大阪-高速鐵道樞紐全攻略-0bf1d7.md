@@ -6,7 +6,7 @@ category: shinkansen
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-fukuoka-九州之門-福岡-新大阪-高速鐵道樞紐全攻略-0bf1d7.html
 published: 2026-06-27
-quality_score: 7.5
+quality_score: 8.7
 tags: 九州新幹線, 博多站, JR Pass, 福岡交通, 熊本
 license: CC BY 4.0
 ---

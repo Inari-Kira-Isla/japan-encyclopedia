@@ -6,7 +6,7 @@ category: festivals-matsuri
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-festivals-matsuri-hokkaido-北海道小眾祭典探索-雪國在地慶典的深度體驗-b2aae8.html
 published: 2026-06-21
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道祭典, 小樽雪燈之路, 札幌雪祭, 冬季祭典, 北海道美食
 license: CC BY 4.0
 ---

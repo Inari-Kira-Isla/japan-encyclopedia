@@ -6,7 +6,7 @@ category: rental-cars
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-kyoto-京都租車自駕遊-超越市區的隱藏版行程規劃-773828.html
 published: 2026-06-29
-quality_score: 7.5
+quality_score: 8.6
 tags: 京都租車, 京都自駕遊, 京都自由行, 關西租車, 京都周邊自駕
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: tempura
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tempura-tokyo-東京天婦羅-深海逸品的極致饗宴-687fc2.html
 published: 2026-05-22
-quality_score: 6.5
+quality_score: 8.4
 tags: 東京天婦羅, 深海魚, 江戸前天婦羅, 東京美食, 米其林
 license: CC BY 4.0
 ---

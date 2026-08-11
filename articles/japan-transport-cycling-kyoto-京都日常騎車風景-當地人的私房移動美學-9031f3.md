@@ -6,7 +6,7 @@ category: cycling
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-kyoto-京都日常騎車風景-當地人的私房移動美學-9031f3.html
 published: 2026-06-18
-quality_score: 7.5
+quality_score: 8.7
 tags: 京都單車, 日常風格, 在地體驗, 女性安心指標, 非觀光路線
 license: CC BY 4.0
 ---

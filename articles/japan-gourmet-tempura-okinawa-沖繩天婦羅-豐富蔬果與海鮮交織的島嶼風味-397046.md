@@ -6,7 +6,7 @@ category: tempura
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tempura-okinawa-沖繩天婦羅-豐富蔬果與海鮮交織的島嶼風味-397046.html
 published: 2026-06-16
-quality_score: 6.5
+quality_score: 8.6
 tags: 沖繩美食, 天婦羅, 日本料理, 亞熱帶食材, 沖繩旅遊
 license: CC BY 4.0
 ---

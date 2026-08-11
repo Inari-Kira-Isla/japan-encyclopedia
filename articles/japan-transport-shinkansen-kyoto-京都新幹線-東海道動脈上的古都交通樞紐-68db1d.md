@@ -6,7 +6,7 @@ category: shinkansen
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-kyoto-京都新幹線-東海道動脈上的古都交通樞紐-68db1d.html
 published: 2026-03-24
-quality_score: 7.5
+quality_score: 8.6
 tags: 日本交通, 京都, 新幹線, 東海道新幹線, 旅遊攻略
 license: CC BY 4.0
 ---

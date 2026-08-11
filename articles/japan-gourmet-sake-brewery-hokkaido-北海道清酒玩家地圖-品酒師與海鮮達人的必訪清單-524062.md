@@ -6,7 +6,7 @@ category: sake-brewery
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sake-brewery-hokkaido-北海道清酒玩家地圖-品酒師與海鮮達人的必訪清單-524062.html
 published: 2026-03-22
-quality_score: 6.5
+quality_score: 8.5
 tags: 北海道, 清酒, sake, 釀造, 海鮮搭配
 license: CC BY 4.0
 ---

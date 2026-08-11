@@ -6,7 +6,7 @@ category: matcha-sweets
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-matcha-sweets-nara-奈良抹茶甜點-千年古都的隱藏茶房-0885e0.html
 published: 2026-06-05
-quality_score: 6.5
+quality_score: 8.8
 tags: 奈良, 抹茶甜點, 關西, 古都, 日本甜點
 license: CC BY 4.0
 ---

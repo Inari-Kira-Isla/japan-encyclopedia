@@ -6,7 +6,7 @@ category: wagyu
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-wagyu-nagoya-名古屋和牛-中部產業重鎮的待客之道-1f9433.html
 published: 2026-06-06
-quality_score: 6.5
+quality_score: 8.6
 tags: 名古屋美食, 和牛, 中部地方, 燒肉, 名古屋站
 license: CC BY 4.0
 ---

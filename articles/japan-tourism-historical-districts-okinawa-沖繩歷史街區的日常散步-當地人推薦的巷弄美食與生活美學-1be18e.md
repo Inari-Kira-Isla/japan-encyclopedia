@@ -6,7 +6,7 @@ category: historical-districts
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-okinawa-沖繩歷史街區的日常散步-當地人推薦的巷弄美食與生活美學-1be18e.html
 published: 2026-06-05
-quality_score: 6.5
+quality_score: 8.6
 tags: 沖繩歷史街區, 琉球王國, 那霸市, 首里城, 美軍佔領時期
 license: CC BY 4.0
 ---

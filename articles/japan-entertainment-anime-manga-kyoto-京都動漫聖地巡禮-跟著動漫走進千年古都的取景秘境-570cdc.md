@@ -6,7 +6,7 @@ category: anime-manga
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-kyoto-京都動漫聖地巡禮-跟著動漫走進千年古都的取景秘境-570cdc.html
 published: 2026-04-08
-quality_score: 6.5
+quality_score: 8.5
 tags: 京都聖地巡禮, 動漫取景地, 京都動漫, 名偵探柯南京都, 日本動漫旅遊
 license: CC BY 4.0
 ---

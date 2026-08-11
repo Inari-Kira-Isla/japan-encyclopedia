@@ -6,7 +6,7 @@ category: kaiseki
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-kaiseki-osaka-大阪懷石料理選擇指南-港臺食客的實戰攻略-83f760.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.8
 tags: 大阪美食, 懷石料理, 高級日本料理, 港台旅遊, 美食攻略
 license: CC BY 4.0
 ---

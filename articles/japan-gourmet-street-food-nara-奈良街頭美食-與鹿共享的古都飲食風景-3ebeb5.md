@@ -6,7 +6,7 @@ category: street-food
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-street-food-nara-奈良街頭美食-與鹿共享的古都飲食風景-3ebeb5.html
 published: 2026-03-27
-quality_score: 6.5
+quality_score: 8.4
 tags: 奈良美食, 街頭小吃, 佛教素食, 鹿公園, 古都文化
 license: CC BY 4.0
 ---

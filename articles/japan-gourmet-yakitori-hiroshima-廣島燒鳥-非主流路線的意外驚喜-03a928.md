@@ -6,7 +6,7 @@ category: yakitori
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-yakitori-hiroshima-廣島燒鳥-非主流路線的意外驚喜-03a928.html
 published: 2026-06-22
-quality_score: 6.5
+quality_score: 8.7
 tags: 廣島燒鳥, 廣島美食, 瀨戶內海, 日本串燒, 廣島自由行
 license: CC BY 4.0
 ---

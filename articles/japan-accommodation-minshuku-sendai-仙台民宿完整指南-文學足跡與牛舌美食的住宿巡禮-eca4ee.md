@@ -6,7 +6,7 @@ category: minshuku
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-sendai-仙台民宿完整指南-文學足跡與牛舌美食的住宿巡禮-eca4ee.html
 published: 2026-06-10
-quality_score: 6.5
+quality_score: 8.6
 tags: 仙台民宿, 東北旅行, 牛舌美食, 文學散步, 魯迅足跡
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: gaming-arcades
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-gaming-arcades-sendai-仙台遊戲中心-結合牛舌美食的東北街機體驗新發現-a24853.html
 published: 2026-07-02
-quality_score: 6.5
+quality_score: 8.9
 tags: 仙台, 遊戲中心, 街機, 東北旅遊, 日本娛樂
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: day-trips
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-nara-奈良深度一日遊-避開人潮的隱藏古剎與在地體驗-369ddc.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 奈良一日遊, 法隆寺世界遺產, 飛鳥時代, 日本古蹟, 深度文化旅遊
 license: CC BY 4.0
 ---

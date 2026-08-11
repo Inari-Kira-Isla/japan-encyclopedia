@@ -6,7 +6,7 @@ category: sushi
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sushi-tokyo-東京壽司的另一種可能-從迴轉壽司到凌晨魚市的日常品味-4e8cd5.html
 published: 2026-06-04
-quality_score: 6.5
+quality_score: 8.9
 tags: 東京壽司, 迴轉壽司, 築地市場, 人形丁, 月島
 license: CC BY 4.0
 ---

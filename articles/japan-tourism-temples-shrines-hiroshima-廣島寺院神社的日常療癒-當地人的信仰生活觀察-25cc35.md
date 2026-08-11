@@ -6,7 +6,7 @@ category: temples-shrines
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-temples-shrines-hiroshima-廣島寺院神社的日常療癒-當地人的信仰生活觀察-25cc35.html
 published: 2026-06-07
-quality_score: 6.5
+quality_score: 8.6
 tags: 廣島神社, 廣島寺院, 廣島宗教, 原子彈, 和平紀念
 license: CC BY 4.0
 ---

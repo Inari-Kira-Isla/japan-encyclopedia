@@ -6,7 +6,7 @@ category: ramen
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-ramen-kanazawa-金澤拉麵-北陸古城的暖心滋味-1728f6.html
 published: 2026-05-31
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤拉麵, 石川縣美食, 北陸料理, 日本拉麵, 金澤旅遊
 license: CC BY 4.0
 ---

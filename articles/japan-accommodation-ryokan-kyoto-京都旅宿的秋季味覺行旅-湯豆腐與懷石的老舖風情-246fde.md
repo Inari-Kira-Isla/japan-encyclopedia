@@ -6,7 +6,7 @@ category: ryokan
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-kyoto-京都旅宿的秋季味覺行旅-湯豆腐與懷石的老舖風情-246fde.html
 published: 2026-06-07
-quality_score: 6.5
+quality_score: 8.7
 tags: 京都旅宿, Ryokan, 湯豆腐, 懷石料理, 京都住宿
 license: CC BY 4.0
 ---

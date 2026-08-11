@@ -6,7 +6,7 @@ category: duty-free
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-duty-free-tokyo-東京特色免稅購物指南-從米其林美食到藝術特選的多元體驗-0f9ac1.html
 published: 2026-06-11
-quality_score: 7.5
+quality_score: 8.5
 tags: 東京免稅, 東京購物, 日本免稅店, 米其林美食, 藝術購物
 license: CC BY 4.0
 ---

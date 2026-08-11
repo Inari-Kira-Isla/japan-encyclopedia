@@ -6,7 +6,7 @@ category: kaiseki
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-kaiseki-tokyo-東京懷石料理-都會節氣旬味の深層ガイド-d83c77.html
 published: 2026-05-22
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京懷石, 料亭, 會席料理, 米其林, 日本橋
 license: CC BY 4.0
 ---

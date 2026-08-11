@@ -6,7 +6,7 @@ category: tempura
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tempura-kyoto-京都天婦羅-內陸城市的反向思考-5家-京風天婦羅-的在地演繹-d9b5b2.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 8.3
 tags: 京都天婦羅, 京野菜, 京都美食, 日本料理, 美食推薦
 license: CC BY 4.0
 ---

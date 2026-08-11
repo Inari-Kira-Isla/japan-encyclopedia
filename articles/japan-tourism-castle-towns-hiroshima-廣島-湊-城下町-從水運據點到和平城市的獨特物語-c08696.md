@@ -6,7 +6,7 @@ category: castle-towns
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-castle-towns-hiroshima-廣島-湊-城下町-從水運據點到和平城市的獨特物語-c08696.html
 published: 2026-06-24
-quality_score: 6.5
+quality_score: 8.8
 tags: 廣島, 城下町, 湊, 毛利氏, 和平紀念
 license: CC BY 4.0
 ---

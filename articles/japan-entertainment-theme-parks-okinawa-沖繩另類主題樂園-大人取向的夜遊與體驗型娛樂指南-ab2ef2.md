@@ -6,7 +6,7 @@ category: theme-parks
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-theme-parks-okinawa-沖繩另類主題樂園-大人取向的夜遊與體驗型娛樂指南-ab2ef2.html
 published: 2026-06-12
-quality_score: 6.5
+quality_score: 8.7
 tags: 沖繩主題樂園, 戶外探險, 琉球文化, 體驗型觀光, 亞熱帶島嶼
 license: CC BY 4.0
 ---

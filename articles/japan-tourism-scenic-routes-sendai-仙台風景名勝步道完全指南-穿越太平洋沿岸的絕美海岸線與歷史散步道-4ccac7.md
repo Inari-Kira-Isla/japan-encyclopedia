@@ -6,7 +6,7 @@ category: scenic-routes
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-sendai-仙台風景名勝步道完全指南-穿越太平洋沿岸的絕美海岸線與歷史散步道-4ccac7.html
 published: 2026-06-02
-quality_score: 6.5
+quality_score: 8.7
 tags: 仙台, 散步道, 海岸线, 自然风光, 历史古迹
 license: CC BY 4.0
 ---

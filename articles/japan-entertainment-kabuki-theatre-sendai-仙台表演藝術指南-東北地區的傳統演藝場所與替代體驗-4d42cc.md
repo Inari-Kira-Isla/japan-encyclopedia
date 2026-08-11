@@ -6,7 +6,7 @@ category: kabuki-theatre
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-kabuki-theatre-sendai-仙台表演藝術指南-東北地區的傳統演藝場所與替代體驗-4d42cc.html
 published: 2026-05-22
-quality_score: 6.5
+quality_score: 8.7
 tags: 仙台, 表演藝術, 日本傳統, 七夕祭, 東北旅遊
 license: CC BY 4.0
 ---

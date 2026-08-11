@@ -6,7 +6,7 @@ category: shinkansen
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-nagoya-名古屋車站鐵道漫旅-用新幹線穿梭日本中部的實際攻略-6c0034.html
 published: 2026-05-24
-quality_score: 7.5
+quality_score: 8.8
 tags: 名古屋, 新幹線, 日本中部, 、交通樞紐, 鐵道旅行
 license: CC BY 4.0
 ---

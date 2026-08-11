@@ -6,7 +6,7 @@ category: department-stores
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-department-stores-hiroshima-廣島購物秘境-5家當地人氣小店與特色商圈-202207.html
 published: 2026-06-20
-quality_score: 7.5
+quality_score: 8.9
 tags: 廣島購物, 藥研堀, 本通商圈, 日本地方城市, 深度旅遊
 license: CC BY 4.0
 ---

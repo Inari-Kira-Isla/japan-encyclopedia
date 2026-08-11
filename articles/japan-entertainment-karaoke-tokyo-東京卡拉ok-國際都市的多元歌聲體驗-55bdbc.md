@@ -6,7 +6,7 @@ category: karaoke
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-karaoke-tokyo-東京卡拉ok-國際都市的多元歌聲體驗-55bdbc.html
 published: 2026-04-02
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京娛樂, 卡拉OK, 國際化體驗, 日本夜生活, 文化體驗
 license: CC BY 4.0
 ---

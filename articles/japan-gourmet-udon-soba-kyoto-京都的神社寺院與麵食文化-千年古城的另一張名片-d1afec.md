@@ -6,7 +6,7 @@ category: udon-soba
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-udon-soba-kyoto-京都的神社寺院與麵食文化-千年古城的另一張名片-d1afec.html
 published: 2026-06-12
-quality_score: 6.5
+quality_score: 8.7
 tags: 京都美食, 烏龍麵, 蕎麥麵, 寺院文化, 精進料理
 license: CC BY 4.0
 ---

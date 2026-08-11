@@ -6,7 +6,7 @@ category: onsen
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-onsen-kyoto-京都錢湯與溫泉-古都的沐浴文化物語-1e5181.html
 published: 2026-06-24
-quality_score: 6.5
+quality_score: 8.7
 tags: 京都錢湯, 公共澡堂, 京都沐浴文化, 古都日常, 錢湯體驗
 license: CC BY 4.0
 ---

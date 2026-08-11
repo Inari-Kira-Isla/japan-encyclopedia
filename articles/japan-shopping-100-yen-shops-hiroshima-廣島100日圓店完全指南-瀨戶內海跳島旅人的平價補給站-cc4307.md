@@ -6,7 +6,7 @@ category: 100-yen-shops
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-100-yen-shops-hiroshima-廣島100日圓店完全指南-瀨戶內海跳島旅人的平價補給站-cc4307.html
 published: 2026-06-23
-quality_score: 7.5
+quality_score: 8.7
 tags: 廣島100日圓店, 瀨戶內海跳島, 宮島旅遊, 廣島平價購物, 日本跳島旅行
 license: CC BY 4.0
 ---

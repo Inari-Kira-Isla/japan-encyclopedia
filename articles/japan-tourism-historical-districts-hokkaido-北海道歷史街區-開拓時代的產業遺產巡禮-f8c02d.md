@@ -6,7 +6,7 @@ category: historical-districts
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-hokkaido-北海道歷史街區-開拓時代的產業遺產巡禮-f8c02d.html
 published: 2026-04-06
-quality_score: 6.5
+quality_score: 8.8
 tags: 北海道, 歷史街區, 產業遺產, 開拓史, 明治建築
 license: CC BY 4.0
 ---

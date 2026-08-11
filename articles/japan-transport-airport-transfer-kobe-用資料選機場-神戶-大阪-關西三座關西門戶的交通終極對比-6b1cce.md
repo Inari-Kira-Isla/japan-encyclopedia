@@ -6,7 +6,7 @@ category: airport-transfer
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-airport-transfer-kobe-用資料選機場-神戶-大阪-關西三座關西門戶的交通終極對比-6b1cce.html
 published: 2026-03-24
-quality_score: 7.5
+quality_score: 8.4
 tags: 神戶機場, 關西國際機場, 大阪國際機場, 機場轉乘, 交通比較
 license: CC BY 4.0
 ---

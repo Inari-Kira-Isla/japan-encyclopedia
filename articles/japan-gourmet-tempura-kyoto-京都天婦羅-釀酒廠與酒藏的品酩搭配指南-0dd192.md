@@ -6,7 +6,7 @@ category: tempura
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tempura-kyoto-京都天婦羅-釀酒廠與酒藏的品酩搭配指南-0dd192.html
 published: 2026-06-11
-quality_score: 6.5
+quality_score: 8.6
 tags: 京都天婦羅, 清酒搭配, 酒藏參觀, 伏見, 嵐山
 license: CC BY 4.0
 ---

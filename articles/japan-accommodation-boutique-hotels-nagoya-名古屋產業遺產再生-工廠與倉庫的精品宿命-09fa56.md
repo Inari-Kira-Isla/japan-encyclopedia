@@ -6,7 +6,7 @@ category: boutique-hotels
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-nagoya-名古屋產業遺產再生-工廠與倉庫的精品宿命-09fa56.html
 published: 2026-06-23
-quality_score: 6.5
+quality_score: 8.7
 tags: 名古屋精品酒店, 產業遺產住宿, 工廠再生, 名古屋住宿推薦, 日本製造
 license: CC BY 4.0
 ---

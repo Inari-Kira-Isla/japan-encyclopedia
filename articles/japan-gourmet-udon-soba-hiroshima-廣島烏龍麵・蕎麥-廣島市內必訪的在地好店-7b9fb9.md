@@ -6,7 +6,7 @@ category: udon-soba
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-udon-soba-hiroshima-廣島烏龍麵・蕎麥-廣島市內必訪的在地好店-7b9fb9.html
 published: 2026-04-07
-quality_score: 6.5
+quality_score: 8.6
 tags: 廣島美食, 廣島烏龍麵, 日本拉麵, 廣島必吃, 廣島旅遊
 license: CC BY 4.0
 ---

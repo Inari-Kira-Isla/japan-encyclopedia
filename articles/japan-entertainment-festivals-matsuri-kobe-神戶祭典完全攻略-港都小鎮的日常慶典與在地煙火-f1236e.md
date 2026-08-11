@@ -6,7 +6,7 @@ category: festivals-matsuri
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-festivals-matsuri-kobe-神戶祭典完全攻略-港都小鎮的日常慶典與在地煙火-f1236e.html
 published: 2026-06-24
-quality_score: 6.5
+quality_score: 8.6
 tags: 神戶祭典, 神戶旅遊, 日本祭典, 南京町中秋祭, 摩耶山星空
 license: CC BY 4.0
 ---

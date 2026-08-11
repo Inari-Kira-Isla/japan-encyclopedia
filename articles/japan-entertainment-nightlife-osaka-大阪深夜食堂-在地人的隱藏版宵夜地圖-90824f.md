@@ -6,7 +6,7 @@ category: nightlife
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-osaka-大阪深夜食堂-在地人的隱藏版宵夜地圖-90824f.html
 published: 2026-06-05
-quality_score: 6.5
+quality_score: 8.8
 tags: 大阪夜生活, 深夜食堂, 大阪美食, 關西美食, 在地體驗
 license: CC BY 4.0
 ---

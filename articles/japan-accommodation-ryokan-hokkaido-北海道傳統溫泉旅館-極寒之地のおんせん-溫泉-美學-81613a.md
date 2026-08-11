@@ -6,7 +6,7 @@ category: ryokan
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-hokkaido-北海道傳統溫泉旅館-極寒之地のおんせん-溫泉-美學-81613a.html
 published: 2026-05-24
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道, 溫泉, Ryokan, 住宿推薦, 秘湯
 license: CC BY 4.0
 ---

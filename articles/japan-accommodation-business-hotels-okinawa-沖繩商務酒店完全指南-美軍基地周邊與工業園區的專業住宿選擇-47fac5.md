@@ -6,7 +6,7 @@ category: business-hotels
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-business-hotels-okinawa-沖繩商務酒店完全指南-美軍基地周邊與工業園區的專業住宿選擇-47fac5.html
 published: 2026-06-20
-quality_score: 6.5
+quality_score: 8.5
 tags: 沖繩商務酒店, 美軍基地住宿, 那霸商務住宿, 沖繩出差, 自駕商務旅行
 license: CC BY 4.0
 ---

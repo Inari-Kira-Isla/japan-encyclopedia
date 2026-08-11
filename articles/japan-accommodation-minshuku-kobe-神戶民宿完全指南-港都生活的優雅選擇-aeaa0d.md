@@ -6,7 +6,7 @@ category: minshuku
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-kobe-神戶民宿完全指南-港都生活的優雅選擇-aeaa0d.html
 published: 2026-07-03
-quality_score: 6.5
+quality_score: 8.6
 tags: 神戶民宿, 關西住宿, 神戶自由行, 港都住宿, 神戶美食
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: metro-systems
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-okinawa-沖繩沒有地鐵-搞懂單軌電車與市區交通的秒懂攻略-b72d9d.html
 published: 2026-07-04
-quality_score: 7.5
+quality_score: 8.8
 tags: 沖繩交通, 沖繩單軌, 那霸景點, Yui-Rail, 沖繩自由行
 license: CC BY 4.0
 ---

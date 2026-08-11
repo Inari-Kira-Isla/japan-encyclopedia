@@ -6,7 +6,7 @@ category: sushi
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sushi-kanazawa-金澤的壽司-能登半島直送的海岸滋味-732e62.html
 published: 2026-06-02
-quality_score: 6.5
+quality_score: 8.8
 tags: 金澤壽司, 北陸美食, 能登海產, 日本海壽司, 金澤旅遊
 license: CC BY 4.0
 ---

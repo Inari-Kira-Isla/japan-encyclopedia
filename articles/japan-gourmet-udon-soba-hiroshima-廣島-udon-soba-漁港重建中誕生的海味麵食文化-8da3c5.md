@@ -6,7 +6,7 @@ category: udon-soba
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-udon-soba-hiroshima-廣島-udon-soba-漁港重建中誕生的海味麵食文化-8da3c5.html
 published: 2026-04-01
-quality_score: 6.5
+quality_score: 8.9
 tags: 廣島美食, 日本烏龍麵, 蕎麥麵, 海鮮料理, 港口文化
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: airport-transfer
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-airport-transfer-sendai-仙台機場自駕全攻略-放射狀暢遊東北溫泉區的實用選擇-c42f90.html
 published: 2026-06-24
-quality_score: 7.5
+quality_score: 8.5
 tags: 仙台機場, 自駕旅遊, 東北溫泉, 鳴子溫泉, 藏王溫泉
 license: CC BY 4.0
 ---

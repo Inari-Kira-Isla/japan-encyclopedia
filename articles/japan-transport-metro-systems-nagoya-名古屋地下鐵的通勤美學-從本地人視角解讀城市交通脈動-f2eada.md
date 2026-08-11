@@ -6,7 +6,7 @@ category: metro-systems
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-nagoya-名古屋地下鐵的通勤美學-從本地人視角解讀城市交通脈動-f2eada.html
 published: 2026-03-29
-quality_score: 7.5
+quality_score: 8.4
 tags: 名古屋交通, 地下鐵攻略, 中部日本, 通勤美學, 名城線
 license: CC BY 4.0
 ---

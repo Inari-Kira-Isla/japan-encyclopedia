@@ -6,7 +6,7 @@ category: scenic-routes
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-tokyo-東京巷弄藝術散步-隱藏於日常街區的創意街頭之旅-516033.html
 published: 2026-06-22
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京藝術散步, 東京街頭藝術, 東京塗鴉牆, teamLab Planets, 下北澤藝術
 license: CC BY 4.0
 ---

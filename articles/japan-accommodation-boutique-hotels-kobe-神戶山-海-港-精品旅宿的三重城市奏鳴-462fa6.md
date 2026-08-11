@@ -6,7 +6,7 @@ category: boutique-hotels
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-kobe-神戶山-海-港-精品旅宿的三重城市奏鳴-462fa6.html
 published: 2026-06-30
-quality_score: 6.5
+quality_score: 8.7
 tags: 神戶精品酒店, 港都住宿, 六甲山溫泉, 北野異人館, 瀨戶內海
 license: CC BY 4.0
 ---

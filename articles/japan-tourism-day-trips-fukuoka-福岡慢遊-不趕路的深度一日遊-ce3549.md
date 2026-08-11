@@ -6,7 +6,7 @@ category: day-trips
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-fukuoka-福岡慢遊-不趕路的深度一日遊-ce3549.html
 published: 2026-06-23
-quality_score: 6.5
+quality_score: 8.8
 tags: 福岡一日遊, 九州溫泉, 日本深度旅遊, 福岡周邊, 日本寺院
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: sake-brewery
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sake-brewery-kobe-神戶清酒釀造所-灘五鄉的地下水脈與新世代釀酒師-9342ba.html
 published: 2026-05-21
-quality_score: 6.5
+quality_score: 8.7
 tags: 神戶清酒, 灘五鄉, 釀酒廠参觀, 日本清酒, 兵庫縣
 license: CC BY 4.0
 ---

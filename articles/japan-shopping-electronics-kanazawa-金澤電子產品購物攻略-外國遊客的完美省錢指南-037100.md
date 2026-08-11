@@ -6,7 +6,7 @@ category: electronics
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-electronics-kanazawa-金澤電子產品購物攻略-外國遊客的完美省錢指南-037100.html
 published: 2026-04-05
-quality_score: 7.5
+quality_score: 8.7
 tags: 金澤, 電子產品, 免稅購物, 外國遊客, 省錢攻略
 license: CC BY 4.0
 ---

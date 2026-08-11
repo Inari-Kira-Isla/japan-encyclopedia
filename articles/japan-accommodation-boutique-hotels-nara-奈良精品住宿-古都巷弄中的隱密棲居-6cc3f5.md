@@ -6,7 +6,7 @@ category: boutique-hotels
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-nara-奈良精品住宿-古都巷弄中的隱密棲居-6cc3f5.html
 published: 2026-05-21
-quality_score: 6.5
+quality_score: 8.8
 tags: 奈良精品住宿, 古都旅行, 日本boutique hotel, 町屋住宿, 奈良深度之旅
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: wagyu
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-wagyu-nara-奈良的和牛-古都週邊的牧場直営滋味-460186.html
 published: 2026-06-02
-quality_score: 6.5
+quality_score: 8.8
 tags: 
 license: CC BY 4.0
 ---

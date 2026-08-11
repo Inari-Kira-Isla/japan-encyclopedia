@@ -6,7 +6,7 @@ category: temple-stays
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-temple-stays-sendai-仙台宿坊禪修-伊達政宗與武士道的禪心歲月-f09f88.html
 published: 2026-05-25
-quality_score: 6.5
+quality_score: 8.8
 tags: 仙台宿坊, 寺院住宿, 東北大禪修, 伊達政宗, 曹洞宗
 license: CC BY 4.0
 ---

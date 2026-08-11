@@ -6,7 +6,7 @@ category: nightlife
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-nagoya-名古屋遊戲與卡拉ok夜文化-科技之城的互動娛樂探險-0c243c.html
 published: 2026-03-22
-quality_score: 6.5
+quality_score: 8.6
 tags: 名古屋夜生活, 遊戲文化, 卡拉OK, 年輕上班族, 中部娛樂
 license: CC BY 4.0
 ---

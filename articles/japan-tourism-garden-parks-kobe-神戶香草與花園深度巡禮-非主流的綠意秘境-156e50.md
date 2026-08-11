@@ -6,7 +6,7 @@ category: garden-parks
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-kobe-神戶香草與花園深度巡禮-非主流的綠意秘境-156e50.html
 published: 2026-05-23
-quality_score: 6.5
+quality_score: 8.6
 tags: 神戶花園, 神戶香草園, 六甲山, 布引香草園, 神戶自然旅遊
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: anime-manga
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-hiroshima-廣島動漫創作生態-探索瀨戶內海岸線的在地創作者風景-2f1457.html
 published: 2026-05-21
-quality_score: 6.5
+quality_score: 8.6
 tags: 廣島動漫, 瀨戶內海創作, 日本漫畫咖啡廳, 御宅文化, 廣島自由行
 license: CC BY 4.0
 ---

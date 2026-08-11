@@ -6,7 +6,7 @@ category: anime-manga
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-tokyo-東京動漫餐飲地圖-從主題咖啡廳到聖地美食的御宅美食指南-470af3.html
 published: 2026-06-13
-quality_score: 6.5
+quality_score: 8.5
 tags: 東京動漫, 主題咖啡廳, 御宅文化, 女僕咖啡廳, 動漫聖地
 license: CC BY 4.0
 ---

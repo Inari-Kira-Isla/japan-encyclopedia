@@ -6,7 +6,7 @@ category: castle-towns
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-castle-towns-osaka-大阪古城風情-被遺忘的武家城下町深度指南-ff9c8e.html
 published: 2026-06-23
-quality_score: 6.5
+quality_score: 8.6
 tags: 大阪城下町, 泉州古鎮, 岸和田城, 堺老街, 關西深度旅遊
 license: CC BY 4.0
 ---

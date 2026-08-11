@@ -6,7 +6,7 @@ category: okonomiyaki
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-okonomiyaki-tokyo-東京-modern-okonomiyaki-都會演繹的健康新食尚-ee56b8.html
 published: 2026-06-06
-quality_score: 6.5
+quality_score: 8.8
 tags: 東京美食, 御好燒, 文字燒, 東京庶民料理, 都會美食
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: historical-districts
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-tokyo-東京歷史街區的十二時辰-跟著人潮流動尋找最佳觀光時光-6edb83.html
 published: 2026-05-25
-quality_score: 6.5
+quality_score: 8.6
 tags: 东京历史街区, 下町散步, 人形町, 谷中, 神乐坂
 license: CC BY 4.0
 ---

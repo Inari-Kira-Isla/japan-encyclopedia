@@ -6,7 +6,7 @@ category: gaming-arcades
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-gaming-arcades-nara-奈良遊戲中心-古都親子遊與雨天備案攻略-50f57c.html
 published: 2026-06-15
-quality_score: 6.5
+quality_score: 8.6
 tags: 奈良遊戲中心, 奈良親子遊, 奈良雨天景點, 關西娛樂, 奈良自由行
 license: CC BY 4.0
 ---

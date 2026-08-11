@@ -6,7 +6,7 @@ category: ryokan
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-sendai-仙台日式旅館美食溫泉體驗-東北四季會席與古湯療癒的完美結合-5b983d.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.6
 tags: 仙台旅館, 東北溫泉, 會席料理, 日式旅館, 溫泉療癒
 license: CC BY 4.0
 ---

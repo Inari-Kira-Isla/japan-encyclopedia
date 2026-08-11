@@ -6,7 +6,7 @@ category: minshuku
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-tokyo-東京民宿完整指南-在下町體驗日式人情味住宿-9f506b.html
 published: 2026-03-21
-quality_score: 6.5
+quality_score: 8.6
 tags: 東京住宿, 民宿, 下町, 日本文化, 淺草
 license: CC BY 4.0
 ---

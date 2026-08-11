@@ -6,7 +6,7 @@ category: temple-stays
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-temple-stays-hiroshima-廣島宿坊與寺院住宿-和平之都的禪意棲居-15007f.html
 published: 2026-06-08
-quality_score: 6.5
+quality_score: 8.6
 tags: 廣島寺廟住宿, 宮島宿坊, 廣島住宿, 寺院住宿體驗, 日本禪修
 license: CC BY 4.0
 ---

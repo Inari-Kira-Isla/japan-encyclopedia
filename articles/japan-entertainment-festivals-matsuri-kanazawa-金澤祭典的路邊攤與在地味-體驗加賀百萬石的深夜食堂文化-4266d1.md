@@ -6,7 +6,7 @@ category: festivals-matsuri
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-festivals-matsuri-kanazawa-金澤祭典的路邊攤與在地味-體驗加賀百萬石的深夜食堂文化-4266d1.html
 published: 2026-06-27
-quality_score: 6.5
+quality_score: 8.9
 tags: 金澤祭典, 加賀百萬石, 金澤美食, 路邊攤, 日本祭典
 license: CC BY 4.0
 ---

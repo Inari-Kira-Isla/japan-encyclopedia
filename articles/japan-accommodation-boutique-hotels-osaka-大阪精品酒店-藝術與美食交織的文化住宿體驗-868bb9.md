@@ -6,7 +6,7 @@ category: boutique-hotels
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-osaka-大阪精品酒店-藝術與美食交織的文化住宿體驗-868bb9.html
 published: 2026-04-06
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪住宿, 精品酒店, 藝術文化, 美食體驗, 關西旅遊
 license: CC BY 4.0
 ---

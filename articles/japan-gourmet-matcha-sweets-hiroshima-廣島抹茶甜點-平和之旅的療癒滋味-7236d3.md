@@ -6,7 +6,7 @@ category: matcha-sweets
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-matcha-sweets-hiroshima-廣島抹茶甜點-平和之旅的療癒滋味-7236d3.html
 published: 2026-06-21
-quality_score: 6.5
+quality_score: 8.7
 tags: 廣島, 抹茶甜點, 療癒, 和平紀念, 和洋融合
 license: CC BY 4.0
 ---

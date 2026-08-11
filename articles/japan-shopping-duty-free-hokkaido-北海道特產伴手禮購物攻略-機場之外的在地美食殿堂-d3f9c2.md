@@ -6,7 +6,7 @@ category: duty-free
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-duty-free-hokkaido-北海道特產伴手禮購物攻略-機場之外的在地美食殿堂-d3f9c2.html
 published: 2026-06-15
-quality_score: 7.5
+quality_score: 8.7
 tags: 北海道免稅, 北海道伴手禮, 北海道美食, 小樽特產, 札幌購物
 license: CC BY 4.0
 ---

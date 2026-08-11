@@ -6,7 +6,7 @@ category: sake-brewery
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sake-brewery-kanazawa-金澤清酒與日本海海鮮的完美配對-釀酒產地的海味指南-7641e6.html
 published: 2026-04-02
-quality_score: 6.5
+quality_score: 8.9
 tags: 金澤必吃, 清酒入門, 日本海海鮮, 石川縣美食, 食慾旅行
 license: CC BY 4.0
 ---

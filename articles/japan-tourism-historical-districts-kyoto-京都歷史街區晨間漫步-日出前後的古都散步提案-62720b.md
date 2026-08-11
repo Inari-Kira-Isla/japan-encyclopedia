@@ -6,7 +6,7 @@ category: historical-districts
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-kyoto-京都歷史街區晨間漫步-日出前後的古都散步提案-62720b.html
 published: 2026-06-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 京都歷史街區, 晨間散步, 古都慢遊, 清水寺, 祇園
 license: CC BY 4.0
 ---

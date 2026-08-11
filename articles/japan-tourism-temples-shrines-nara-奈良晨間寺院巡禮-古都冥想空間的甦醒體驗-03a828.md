@@ -6,7 +6,7 @@ category: temples-shrines
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-temples-shrines-nara-奈良晨間寺院巡禮-古都冥想空間的甦醒體驗-03a828.html
 published: 2026-05-21
-quality_score: 6.5
+quality_score: 8.7
 tags: 奈良寺廟, 晨間參拜, 古都冥想, 日本佛教, 世界遺產
 license: CC BY 4.0
 ---

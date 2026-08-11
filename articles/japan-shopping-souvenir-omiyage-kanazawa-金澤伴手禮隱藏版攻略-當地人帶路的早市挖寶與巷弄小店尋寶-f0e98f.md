@@ -6,7 +6,7 @@ category: souvenir-omiyage
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-souvenir-omiyage-kanazawa-金澤伴手禮隱藏版攻略-當地人帶路的早市挖寶與巷弄小店尋寶-f0e98f.html
 published: 2026-06-17
-quality_score: 7.5
+quality_score: 8.5
 tags: 金澤伴手禮, 金澤購物, 近江町市場, 九谷燒, 金箔工藝
 license: CC BY 4.0
 ---

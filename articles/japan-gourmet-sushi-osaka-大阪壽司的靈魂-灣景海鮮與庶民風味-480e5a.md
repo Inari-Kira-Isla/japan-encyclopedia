@@ -6,7 +6,7 @@ category: sushi
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sushi-osaka-大阪壽司的靈魂-灣景海鮮與庶民風味-480e5a.html
 published: 2026-03-22
-quality_score: 6.5
+quality_score: 8.6
 tags: 大阪美食, 壽司, 海鮮, 瀨戶內海, 關西風味
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: izakaya
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-izakaya-kanazawa-金澤居酒屋的深夜食堂-當地人帶路的巷弄酒場深度探訪-f1bc22.html
 published: 2026-04-07
-quality_score: 6.5
+quality_score: 8.8
 tags: 金澤居酒屋, 日本海海鮮, 加賀料理, 片町美食, 金澤美食推薦
 license: CC BY 4.0
 ---

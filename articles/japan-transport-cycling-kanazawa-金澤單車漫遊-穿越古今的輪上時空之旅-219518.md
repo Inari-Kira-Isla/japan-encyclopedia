@@ -6,7 +6,7 @@ category: cycling
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-kanazawa-金澤單車漫遊-穿越古今的輪上時空之旅-219518.html
 published: 2026-05-25
-quality_score: 7.5
+quality_score: 8.6
 tags: 金澤單車, 金澤自助遊, 日本深度旅遊, 金澤騎行路線, 加賀百萬石
 license: CC BY 4.0
 ---

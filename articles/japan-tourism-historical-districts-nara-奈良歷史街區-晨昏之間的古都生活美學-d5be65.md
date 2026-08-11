@@ -6,7 +6,7 @@ category: historical-districts
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-nara-奈良歷史街區-晨昏之間的古都生活美學-d5be65.html
 published: 2026-04-07
-quality_score: 6.5
+quality_score: 8.7
 tags: 奈良歷史街區, 古都慢旅, 晨間體驗, 奈良町, 在地美食
 license: CC BY 4.0
 ---

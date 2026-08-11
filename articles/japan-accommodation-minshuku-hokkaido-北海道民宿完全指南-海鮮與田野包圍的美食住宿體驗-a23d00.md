@@ -6,7 +6,7 @@ category: minshuku
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-hokkaido-北海道民宿完全指南-海鮮與田野包圍的美食住宿體驗-a23d00.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 8.6
 tags: 北海道, 民宿, minshuku, 日本住宿, 美食旅遊
 license: CC BY 4.0
 ---

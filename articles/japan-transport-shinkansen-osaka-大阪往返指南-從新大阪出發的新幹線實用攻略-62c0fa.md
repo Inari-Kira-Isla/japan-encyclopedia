@@ -6,7 +6,7 @@ category: shinkansen
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-osaka-大阪往返指南-從新大阪出發的新幹線實用攻略-62c0fa.html
 published: 2026-06-01
-quality_score: 7.5
+quality_score: 8.7
 tags: 大阪交通, 新大阪車站, 新幹綫教學, 關西自由行, 日本鐵道
 license: CC BY 4.0
 ---

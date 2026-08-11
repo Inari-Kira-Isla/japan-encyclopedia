@@ -6,7 +6,7 @@ category: business-hotels
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-business-hotels-tokyo-東京商務酒店-都會效率主義者的住宿策略-07cba6.html
 published: 2026-05-24
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京商務酒店, Tokyo Business Hotels, 日本橋人形町, 品川天王洲, 秋葉原御茶水
 license: CC BY 4.0
 ---

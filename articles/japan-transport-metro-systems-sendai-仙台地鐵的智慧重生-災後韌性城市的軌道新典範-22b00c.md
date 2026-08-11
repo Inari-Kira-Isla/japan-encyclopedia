@@ -6,7 +6,7 @@ category: metro-systems
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-sendai-仙台地鐵的智慧重生-災後韌性城市的軌道新典範-22b00c.html
 published: 2026-04-05
-quality_score: 7.5
+quality_score: 8.8
 tags: 仙台交通, 東北地鐵, 智慧城市, 災後重建, 日本旅遊
 license: CC BY 4.0
 ---

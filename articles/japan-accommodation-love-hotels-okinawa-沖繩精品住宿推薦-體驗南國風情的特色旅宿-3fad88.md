@@ -6,7 +6,7 @@ category: love-hotels
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-love-hotels-okinawa-沖繩精品住宿推薦-體驗南國風情的特色旅宿-3fad88.html
 published: 2026-06-04
-quality_score: 6.5
+quality_score: 8.9
 tags: 沖繩住宿, 精品酒店, 沖繩民宿, 南國度假, 琉球文化
 license: CC BY 4.0
 ---

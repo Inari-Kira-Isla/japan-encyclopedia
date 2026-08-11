@@ -6,7 +6,7 @@ category: island-hopping
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-island-hopping-okinawa-沖繩跳島深度體驗-從琉球建築到島嶼住宿文化-dac47d.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.8
 tags: 沖繩, 跳島旅遊, 琉球文化, 民宿體驗, 傳統建築
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: tonkatsu
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tonkatsu-kobe-神戶炸豬排食材學-行家選購指南與消費場景全解-97ef1d.html
 published: 2026-03-24
-quality_score: 6.5
+quality_score: 8.5
 tags: 神戶美食, 炸豬排, 日本洋食, 消費指南, 食材品質
 license: CC BY 4.0
 ---

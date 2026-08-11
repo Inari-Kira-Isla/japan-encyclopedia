@@ -6,7 +6,7 @@ category: fashion-harajuku
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-fashion-harajuku-hiroshima-廣島潮流購物完全指南-山海之間的街頭時尚-3db998.html
 published: 2026-06-02
-quality_score: 7.5
+quality_score: 8.8
 tags: 广岛购物, 日本古着, 瀨戶內海时尚, 日本潮流, 广岛自由行
 license: CC BY 4.0
 ---

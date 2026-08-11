@@ -6,7 +6,7 @@ category: festivals-matsuri
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-festivals-matsuri-hiroshima-廣島屋臺美食與夜景祭典-當地人的夜宵狂歡指南-10f3e0.html
 published: 2026-03-31
-quality_score: 6.5
+quality_score: 8.6
 tags: 廣島祭典, 日本祭典, 夏祭, 屋台, 廣島美食
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: electronics
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-electronics-nara-奈良銀髮族友善電子購物指南-古都中的貼心科技體驗-898d3f.html
 published: 2026-04-03
-quality_score: 7.5
+quality_score: 8.8
 tags: 奈良購物, 電子產品, 銀髮族友善, 日本旅遊, 免稅購物
 license: CC BY 4.0
 ---

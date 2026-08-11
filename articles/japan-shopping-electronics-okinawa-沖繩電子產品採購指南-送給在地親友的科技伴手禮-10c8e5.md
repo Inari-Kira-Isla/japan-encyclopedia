@@ -6,7 +6,7 @@ category: electronics
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-electronics-okinawa-沖繩電子產品採購指南-送給在地親友的科技伴手禮-10c8e5.html
 published: 2026-06-14
-quality_score: 7.5
+quality_score: 8.7
 tags: 沖繩電子產品, 伴手禮推薦, 亞熱帶電器選購, 沖繩購物指南, 防潮電子產品
 license: CC BY 4.0
 ---

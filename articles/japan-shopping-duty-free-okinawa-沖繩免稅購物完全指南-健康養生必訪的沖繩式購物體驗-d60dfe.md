@@ -6,7 +6,7 @@ category: duty-free
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-duty-free-okinawa-沖繩免稅購物完全指南-健康養生必訪的沖繩式購物體驗-d60dfe.html
 published: 2026-05-23
-quality_score: 7.5
+quality_score: 8.5
 tags: 沖繩免稅, 琉球購物, 健康養生, 亞熱帶特產, 在地工藝
 license: CC BY 4.0
 ---

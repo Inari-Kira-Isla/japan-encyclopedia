@@ -6,7 +6,7 @@ category: karaoke
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-karaoke-hokkaido-北海道卡拉ok-極寒之地的溫暖歌喉-d4c6e8.html
 published: 2026-06-16
-quality_score: 6.5
+quality_score: 8.6
 tags: 北海道卡拉OK, 札幌卡拉OK, 小樽卡拉OK, 成吉思汗烤肉, 北海道美食
 license: CC BY 4.0
 ---

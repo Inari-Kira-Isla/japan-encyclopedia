@@ -6,7 +6,7 @@ category: nature-trails
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-hiroshima-廣島自然步道-四季療癒之美的山海漫步-1d7379.html
 published: 2026-06-04
-quality_score: 6.5
+quality_score: 8.9
 tags: 廣島自然步道, 四季登山, 森林浴, 日本中國山地, 瀨戶內海步道
 license: CC BY 4.0
 ---

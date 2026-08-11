@@ -6,7 +6,7 @@ category: souvenir-omiyage
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-souvenir-omiyage-hiroshima-廣島伴手禮的和平記憶-原子彈爆炸圓頂周邊的在地小店與療癒系特產-d0f737.html
 published: 2026-06-19
-quality_score: 7.5
+quality_score: 8.5
 tags: 廣島伴手禮, 和平紀念, 紙鶴, 檸檬特產, 廣島燒
 license: CC BY 4.0
 ---

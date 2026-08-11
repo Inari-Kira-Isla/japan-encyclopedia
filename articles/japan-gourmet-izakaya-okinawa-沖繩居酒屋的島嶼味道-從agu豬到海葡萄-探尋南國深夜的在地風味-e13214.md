@@ -6,7 +6,7 @@ category: izakaya
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-izakaya-okinawa-沖繩居酒屋的島嶼味道-從agu豬到海葡萄-探尋南國深夜的在地風味-e13214.html
 published: 2026-07-03
-quality_score: 6.5
+quality_score: 8.9
 tags: 沖繩居酒屋, Agu豬, 海葡萄, 沖繩美食, 那霸夜生活
 license: CC BY 4.0
 ---

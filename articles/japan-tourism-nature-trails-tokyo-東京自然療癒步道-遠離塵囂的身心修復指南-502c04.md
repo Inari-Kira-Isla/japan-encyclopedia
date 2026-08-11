@@ -6,7 +6,7 @@ category: nature-trails
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-tokyo-東京自然療癒步道-遠離塵囂的身心修復指南-502c04.html
 published: 2026-06-04
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京步道, 自然療癒, 森林浴, 高尾山, 奥的多摩
 license: CC BY 4.0
 ---

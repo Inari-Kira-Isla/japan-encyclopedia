@@ -6,7 +6,7 @@ category: karaoke
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-karaoke-kobe-神戶卡拉ok-港都夜色中的味覺與聲音雙重奏-265ea0.html
 published: 2026-06-17
-quality_score: 6.5
+quality_score: 8.6
 tags: 神戶卡拉OK, 神戶夜生活, 港都娛樂, 關西卡拉OK, 神戶美食結合
 license: CC BY 4.0
 ---

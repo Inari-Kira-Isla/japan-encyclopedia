@@ -6,7 +6,7 @@ category: ryokan
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-sendai-仙台郊區秘湯指南-遠離城市的溫泉鄉慢旅-7ec881.html
 published: 2026-06-16
-quality_score: 6.5
+quality_score: 8.7
 tags: 仙台溫泉, 東北溫泉, 鳴子溫泉, 秋保溫泉, 秘湯
 license: CC BY 4.0
 ---

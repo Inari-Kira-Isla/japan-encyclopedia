@@ -6,7 +6,7 @@ category: island-hopping
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-island-hopping-tokyo-東京跳島指南-從都市逃向太平洋的蔚藍境域-a8b009.html
 published: 2026-07-02
-quality_score: 6.5
+quality_score: 8.6
 tags: 東京跳島, 東京群島, 伊東群島, 小笠原群島, 八丈島
 license: CC BY 4.0
 ---

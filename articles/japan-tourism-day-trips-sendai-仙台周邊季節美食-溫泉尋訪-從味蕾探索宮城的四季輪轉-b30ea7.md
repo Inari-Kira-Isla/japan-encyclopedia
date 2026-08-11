@@ -6,7 +6,7 @@ category: day-trips
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-sendai-仙台周邊季節美食-溫泉尋訪-從味蕾探索宮城的四季輪轉-b30ea7.html
 published: 2026-03-24
-quality_score: 6.5
+quality_score: 8.5
 tags: 仙台周邊, 季節美食, 溫泉, 一日遊, 宮城
 license: CC BY 4.0
 ---

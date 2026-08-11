@@ -6,7 +6,7 @@ category: tempura
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tempura-hiroshima-廣島天婦羅-瀨戶內海的鮮味密碼-9450ef.html
 published: 2026-03-29
-quality_score: 6.5
+quality_score: 8.9
 tags: 廣島美食, 天婦羅, 瀨戶內海, 日本料理, 在地美食
 license: CC BY 4.0
 ---

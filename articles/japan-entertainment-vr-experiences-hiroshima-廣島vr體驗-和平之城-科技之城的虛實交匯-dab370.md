@@ -6,7 +6,7 @@ category: vr-experiences
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-vr-experiences-hiroshima-廣島vr體驗-和平之城-科技之城的虛實交匯-dab370.html
 published: 2026-06-22
-quality_score: 6.5
+quality_score: 8.7
 tags: 廣島VR, 廣島體驗, 廣島雨天備案, VR體驗, 廣島旅遊
 license: CC BY 4.0
 ---

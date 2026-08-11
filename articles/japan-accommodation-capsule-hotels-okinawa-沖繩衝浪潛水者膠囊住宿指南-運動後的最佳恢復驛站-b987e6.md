@@ -6,7 +6,7 @@ category: capsule-hotels
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-capsule-hotels-okinawa-沖繩衝浪潛水者膠囊住宿指南-運動後的最佳恢復驛站-b987e6.html
 published: 2026-06-28
-quality_score: 6.5
+quality_score: 8.6
 tags: 沖繩膠囊住宿, 衝浪住宿, 潛水住宿, 沖繩自由行, 運動旅人住宿
 license: CC BY 4.0
 ---

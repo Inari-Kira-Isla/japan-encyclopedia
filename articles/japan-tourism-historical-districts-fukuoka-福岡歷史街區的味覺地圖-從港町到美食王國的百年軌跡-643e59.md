@@ -6,7 +6,7 @@ category: historical-districts
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-fukuoka-福岡歷史街區的味覺地圖-從港町到美食王國的百年軌跡-643e59.html
 published: 2026-05-25
-quality_score: 6.5
+quality_score: 8.7
 tags: 福岡歷史街區, 博多美食, 屋台文化, 九州旅行, 福岡自由行
 license: CC BY 4.0
 ---

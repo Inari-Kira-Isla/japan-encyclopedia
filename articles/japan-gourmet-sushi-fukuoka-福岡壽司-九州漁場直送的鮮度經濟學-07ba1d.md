@@ -6,7 +6,7 @@ category: sushi
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sushi-fukuoka-福岡壽司-九州漁場直送的鮮度經濟學-07ba1d.html
 published: 2026-03-24
-quality_score: 6.5
+quality_score: 8.3
 tags: 福岡美食, 壽司, 九州海鮮, 食材季節性, 日本料理
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: garden-parks
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-sendai-仙台花季散步地圖-杜之都的四季綠境-7cbb9f.html
 published: 2026-07-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 仙台, 花園, 公園, 杜之都, 東北自由行
 license: CC BY 4.0
 ---

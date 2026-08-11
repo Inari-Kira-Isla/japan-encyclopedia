@@ -6,7 +6,7 @@ category: sumo
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-hiroshima-廣島相撲-和平紀念之城的體育文化觀察-41dfe5.html
 published: 2026-06-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 廣島相扑, 廣島體驗, 廣島武術文化, 瀨戶內相扑, 中國地方相扑
 license: CC BY 4.0
 ---

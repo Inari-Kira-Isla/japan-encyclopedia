@@ -6,7 +6,7 @@ category: vr-experiences
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-vr-experiences-fukuoka-福岡vr體驗-穿越虛實的九州科技新玩法-7dfd13.html
 published: 2026-07-03
-quality_score: 6.5
+quality_score: 8.6
 tags: 福岡VR, 九州VR體驗, 福岡室內活動, 天神VR, 博多VR遊戲
 license: CC BY 4.0
 ---

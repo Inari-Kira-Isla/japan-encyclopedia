@@ -6,7 +6,7 @@ category: sake-brewery
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sake-brewery-nagoya-名古屋清酒釀造散步-跟著在地人喝一杯產地直送的在地好酒-e6f515.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 8.6
 tags: nagoya, sake brewery, japan food, aichi, 名古屋清酒
 license: CC BY 4.0
 ---

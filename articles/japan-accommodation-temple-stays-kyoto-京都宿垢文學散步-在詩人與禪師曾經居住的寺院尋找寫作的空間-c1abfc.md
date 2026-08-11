@@ -6,7 +6,7 @@ category: temple-stays
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-temple-stays-kyoto-京都宿垢文學散步-在詩人與禪師曾經居住的寺院尋找寫作的空間-c1abfc.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 8.4
 tags: 京都宿坊, 寺院住宿, 日本文學, 文化體驗, 靜謐之旅
 license: CC BY 4.0
 ---

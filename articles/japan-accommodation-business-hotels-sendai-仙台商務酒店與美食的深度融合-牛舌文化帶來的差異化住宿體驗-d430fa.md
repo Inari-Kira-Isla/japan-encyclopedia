@@ -6,7 +6,7 @@ category: business-hotels
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-business-hotels-sendai-仙台商務酒店與美食的深度融合-牛舌文化帶來的差異化住宿體驗-d430fa.html
 published: 2026-06-13
-quality_score: 6.5
+quality_score: 8.6
 tags: 仙台商務酒店, 東北出差, 牛舌美食, 商務住宿, 仙台車站
 license: CC BY 4.0
 ---

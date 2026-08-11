@@ -6,7 +6,7 @@ category: metro-systems
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-hiroshima-廣島路面電車系統-和平之城的有軌脈動與旅遊攻略-c58cd2.html
 published: 2026-06-25
-quality_score: 7.5
+quality_score: 8.7
 tags: 廣島交通, 路面電車, 和平紀念, 日本軌道交通, 廣島自由行
 license: CC BY 4.0
 ---

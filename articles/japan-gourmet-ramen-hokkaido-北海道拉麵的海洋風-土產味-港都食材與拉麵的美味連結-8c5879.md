@@ -6,7 +6,7 @@ category: ramen
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-ramen-hokkaido-北海道拉麵的海洋風-土產味-港都食材與拉麵的美味連結-8c5879.html
 published: 2026-06-04
-quality_score: 6.5
+quality_score: 8.6
 tags: 北海道拉麵, 小樽美食, 旭川美食, 札幌美食, 函館美食
 license: CC BY 4.0
 ---

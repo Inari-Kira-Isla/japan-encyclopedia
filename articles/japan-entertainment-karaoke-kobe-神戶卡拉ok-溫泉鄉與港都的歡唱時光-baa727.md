@@ -6,7 +6,7 @@ category: karaoke
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-karaoke-kobe-神戶卡拉ok-溫泉鄉與港都的歡唱時光-baa727.html
 published: 2026-06-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 神戶卡拉OK, 神戶夜生活, 有馬溫泉, 神戶三宮, 關西娛樂
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: vr-experiences
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-vr-experiences-hokkaido-北海道-vr-體驗-雪國科技與自然探險的完美融合-4af2c3.html
 published: 2026-06-04
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道 VR, 札幌 VR 体验, 小樽 VR, 自然VR, 滑雪VR训练
 license: CC BY 4.0
 ---

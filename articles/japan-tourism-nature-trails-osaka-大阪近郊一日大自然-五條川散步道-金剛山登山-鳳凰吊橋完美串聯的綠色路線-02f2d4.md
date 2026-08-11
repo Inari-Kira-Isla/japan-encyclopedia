@@ -6,7 +6,7 @@ category: nature-trails
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-osaka-大阪近郊一日大自然-五條川散步道-金剛山登山-鳳凰吊橋完美串聯的綠色路線-02f2d4.html
 published: 2026-05-22
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪自然步道, 五条川, 金剛山, 鳳凰吊橋, 交野山
 license: CC BY 4.0
 ---

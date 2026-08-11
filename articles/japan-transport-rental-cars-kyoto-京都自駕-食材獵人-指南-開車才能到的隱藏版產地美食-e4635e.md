@@ -6,7 +6,7 @@ category: rental-cars
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-kyoto-京都自駕-食材獵人-指南-開車才能到的隱藏版產地美食-e4635e.html
 published: 2026-06-15
-quality_score: 7.5
+quality_score: 8.6
 tags: 京都自駕, 食材獵人, 丹後半島, 南山城, 丹波高原
 license: CC BY 4.0
 ---

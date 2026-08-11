@@ -6,7 +6,7 @@ category: castle-towns
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-castle-towns-kyoto-京都周邊城堡城鎮-被時光遺忘的武家故鄉-81c6c6.html
 published: 2026-05-31
-quality_score: 6.5
+quality_score: 8.7
 tags: 京都城堡城鎮, 京都城下町, 京都近郊, 伏見稻荷, 宇治茶
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: sake-brewery
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sake-brewery-hokkaido-北海道清酒與海膽的味覺冒險-釀酒師的海味搭配學-10de74.html
 published: 2026-06-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道, 清酒, 釀酒所, 海膽, 小樽
 license: CC BY 4.0
 ---

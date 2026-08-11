@@ -6,7 +6,7 @@ category: fashion-harajuku
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-fashion-harajuku-okinawa-沖繩潮流購物地圖-年輕人必訪的街頭時尚聖地-e203f4.html
 published: 2026-06-13
-quality_score: 7.5
+quality_score: 8.7
 tags: 沖繩購物, 那霸時尚, 潮流服飾, 南國風情, 年輕人購物
 license: CC BY 4.0
 ---

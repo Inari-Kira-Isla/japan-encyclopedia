@@ -6,7 +6,7 @@ category: cycling
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-kobe-神戶晨騎・港都早餐攻略-騎單車探索港都的清晨味緒-c8767a.html
 published: 2026-07-03
-quality_score: 7.5
+quality_score: 8.9
 tags: 神戶單車, 晨間旅遊, 神戶早餐, 港都深度遊, 在地美食
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: electronics
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-electronics-okinawa-沖繩電子產品購物指南-海島環境下的精明選購策略-e4e117.html
 published: 2026-03-29
-quality_score: 7.5
+quality_score: 8.7
 tags: 沖繩購物, 電子產品, 海島環境, 免稅, 防潮電器
 license: CC BY 4.0
 ---

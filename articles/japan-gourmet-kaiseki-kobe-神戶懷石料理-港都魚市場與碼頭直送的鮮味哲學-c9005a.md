@@ -6,7 +6,7 @@ category: kaiseki
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-kaiseki-kobe-神戶懷石料理-港都魚市場與碼頭直送的鮮味哲學-c9005a.html
 published: 2026-05-22
-quality_score: 6.5
+quality_score: 8.9
 tags: 神戶懷石, 瀨戶內海產, 港都美食, 關西懷石, HAMA中央卸売市場
 license: CC BY 4.0
 ---

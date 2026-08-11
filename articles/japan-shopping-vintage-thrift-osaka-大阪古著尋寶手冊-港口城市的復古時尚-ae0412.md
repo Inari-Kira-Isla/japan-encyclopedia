@@ -6,7 +6,7 @@ category: vintage-thrift
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-vintage-thrift-osaka-大阪古著尋寶手冊-港口城市的復古時尚-ae0412.html
 published: 2026-05-31
-quality_score: 7.5
+quality_score: 8.8
 tags: 大阪古著, Vintage Thrift, 大阪購物, 古著推薦, 復古時尚
 license: CC BY 4.0
 ---

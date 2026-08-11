@@ -6,7 +6,7 @@ category: love-hotels
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-love-hotels-okinawa-沖繩戀愛住宿完整指南-情侶度假的住宿選擇與決策框架-9e37fc.html
 published: 2026-06-16
-quality_score: 6.5
+quality_score: 8.4
 tags: 沖繩住宿, 情侶旅行, 戀愛住宿, 沖繩度假, 二人旅行
 license: CC BY 4.0
 ---

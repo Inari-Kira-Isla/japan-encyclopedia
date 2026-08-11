@@ -6,7 +6,7 @@ category: ferries
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-ferries-kobe-神戶-島民交通-在地人日常的瀨戶內海渡輪攻略-7b2151.html
 published: 2026-06-10
-quality_score: 7.5
+quality_score: 8.6
 tags: 神戶渡輪, 瀨戶內海交通, 家島諸島, 神戶自由行, 關西海上交通
 license: CC BY 4.0
 ---

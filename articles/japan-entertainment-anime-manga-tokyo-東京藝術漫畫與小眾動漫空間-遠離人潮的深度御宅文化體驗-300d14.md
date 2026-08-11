@@ -6,7 +6,7 @@ category: anime-manga
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-tokyo-東京藝術漫畫與小眾動漫空間-遠離人潮的深度御宅文化體驗-300d14.html
 published: 2026-06-28
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京動漫, 藝術漫畫, 小眾景點, 獨立漫畫, 漫才體驗
 license: CC BY 4.0
 ---

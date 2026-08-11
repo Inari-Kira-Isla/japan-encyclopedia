@@ -6,7 +6,7 @@ category: souvenir-omiyage
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-souvenir-omiyage-tokyo-東京伴手禮的隱藏版攻略-便利商店與下班後的購物哲學-83553c.html
 published: 2026-04-06
-quality_score: 7.5
+quality_score: 8.8
 tags: 東京購物, 日本伴手禮, 便利商店攻略
 license: CC BY 4.0
 ---

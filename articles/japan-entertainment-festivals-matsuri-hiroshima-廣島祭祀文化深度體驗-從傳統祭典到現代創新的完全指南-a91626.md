@@ -6,7 +6,7 @@ category: festivals-matsuri
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-festivals-matsuri-hiroshima-廣島祭祀文化深度體驗-從傳統祭典到現代創新的完全指南-a91626.html
 published: 2026-06-03
-quality_score: 6.5
+quality_score: 8.9
 tags: 廣島祭典, 瀨戶內海, 夏日祭典, 屋臺, 日本祭典
 license: CC BY 4.0
 ---

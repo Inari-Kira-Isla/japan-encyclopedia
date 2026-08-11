@@ -6,7 +6,7 @@ category: souvenir-omiyage
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-souvenir-omiyage-nagoya-名古屋伴手禮完全攻略-中部之都的味覺與工藝極致-be2bfa.html
 published: 2026-06-16
-quality_score: 7.5
+quality_score: 8.5
 tags: 名古屋伴手禮, 中部國際空港, 名鐵百货店, 榮商圈, 名古屋美食
 license: CC BY 4.0
 ---

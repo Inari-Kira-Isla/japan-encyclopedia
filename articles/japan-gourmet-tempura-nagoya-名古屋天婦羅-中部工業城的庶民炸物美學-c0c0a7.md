@@ -6,7 +6,7 @@ category: tempura
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tempura-nagoya-名古屋天婦羅-中部工業城的庶民炸物美學-c0c0a7.html
 published: 2026-04-06
-quality_score: 6.5
+quality_score: 8.9
 tags: 名古屋美食, 天婦羅, 中部料理, 庶民美食, 赤味噌
 license: CC BY 4.0
 ---

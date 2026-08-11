@@ -6,7 +6,7 @@ category: garden-parks
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-hiroshima-廣島花園公園巡禮-四季流轉中的綠意物語-89d40c.html
 published: 2026-06-12
-quality_score: 6.5
+quality_score: 8.7
 tags: 廣島花園, 廣島公園, 春季賞櫻, 秋季賞楓, 縮景園
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: rental-cars
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-kobe-神戶自駕遊放射狀路線指南-從市中心出發的周邊探索攻略-7cf3a0.html
 published: 2026-05-24
-quality_score: 7.5
+quality_score: 8.7
 tags: 神戶租車, 關西自駕遊, 六甲山, 有馬溫泉, 姬路城
 license: CC BY 4.0
 ---

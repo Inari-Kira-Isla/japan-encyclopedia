@@ -6,7 +6,7 @@ category: castle-towns
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-castle-towns-okinawa-沖繩城下町-琉球商業黃金時代的國際貿易街區-1b9d66.html
 published: 2026-04-07
-quality_score: 6.5
+quality_score: 8.8
 tags: 沖繩, 城下町, 琉球王國, 貿易歷史, 國際文化
 license: CC BY 4.0
 ---

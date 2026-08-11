@@ -6,7 +6,7 @@ category: souvenir-omiyage
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-souvenir-omiyage-tokyo-東京伴手禮窮遊攻略-便利店到郊外超市的cp值地圖-caefd9.html
 published: 2026-03-24
-quality_score: 7.5
+quality_score: 8.7
 tags: 東京伴手禮, 預算購物, 便利店攻略, CP值最高, 省錢技巧
 license: CC BY 4.0
 ---

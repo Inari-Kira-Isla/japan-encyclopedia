@@ -6,7 +6,7 @@ category: metro-systems
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-osaka-大阪地下鐵的冬季生存指南-寒冷季節的溫暖搭乘策略-c9bac4.html
 published: 2026-06-14
-quality_score: 7.5
+quality_score: 8.8
 tags: 大阪地下鐵, 冬季旅遊, 關西交通, 大阪Metro, 溫暖景點
 license: CC BY 4.0
 ---

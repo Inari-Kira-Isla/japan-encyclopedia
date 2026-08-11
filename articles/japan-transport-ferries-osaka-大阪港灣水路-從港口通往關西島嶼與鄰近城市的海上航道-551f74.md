@@ -6,7 +6,7 @@ category: ferries
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-ferries-osaka-大阪港灣水路-從港口通往關西島嶼與鄰近城市的海上航道-551f74.html
 published: 2026-05-24
-quality_score: 7.5
+quality_score: 8.4
 tags: 大阪交通工具, 關西交通, 海上交通, 大阪港, 渡輪
 license: CC BY 4.0
 ---

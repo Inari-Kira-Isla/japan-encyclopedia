@@ -6,7 +6,7 @@ category: gaming-arcades
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-gaming-arcades-kyoto-京都遊戲中心完全攻略-古都裡的電子遊戲樂園-b59346.html
 published: 2026-06-02
-quality_score: 6.5
+quality_score: 8.9
 tags: 京都遊戲中心, 京都電子遊戲, 河原町遊戲中心, 京都車站遊樂場, 日本遊戲中心指南
 license: CC BY 4.0
 ---

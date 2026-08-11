@@ -6,7 +6,7 @@ category: scenic-routes
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-nara-奈良東部風景自駕線-探訪千年山嶽信仰與秘境溫泉-8210ee.html
 published: 2026-04-04
-quality_score: 6.5
+quality_score: 8.8
 tags: 奈良自駕, 吉野山, 熊野古道, 溫泉鄉, 山岳信仰
 license: CC BY 4.0
 ---

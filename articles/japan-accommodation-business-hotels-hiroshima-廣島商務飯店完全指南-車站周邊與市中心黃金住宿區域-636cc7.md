@@ -6,7 +6,7 @@ category: business-hotels
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-business-hotels-hiroshima-廣島商務飯店完全指南-車站周邊與市中心黃金住宿區域-636cc7.html
 published: 2026-06-07
-quality_score: 6.5
+quality_score: 8.6
 tags: 廣島商務飯店, JR廣島站, 紙屋町, 商務出差, 中國地區
 license: CC BY 4.0
 ---

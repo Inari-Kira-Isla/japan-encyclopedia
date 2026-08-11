@@ -6,7 +6,7 @@ category: minshuku
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-okinawa-衝繩海岸民宿指南-跳島旅行的家庭式住宿精選-a8cf3d.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 8.7
 tags: 冲繩民宿, 島嶼住宿, 慶良間群島, 石垣島, 竹富島
 license: CC BY 4.0
 ---

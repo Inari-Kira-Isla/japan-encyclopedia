@@ -6,7 +6,7 @@ category: day-trips
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-nagoya-名古屋自然秘境一日遊-遠離人潮的山海療癒提案-c4d82a.html
 published: 2026-06-08
-quality_score: 6.5
+quality_score: 8.7
 tags: 名古屋一日遊, 自然景點, 秘境推薦, 山海療癒, 中部地方
 license: CC BY 4.0
 ---

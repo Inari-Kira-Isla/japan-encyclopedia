@@ -6,7 +6,7 @@ category: souvenir-omiyage
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-souvenir-omiyage-kanazawa-金澤伴手禮採購速覽-車站周邊5分鐘黃金購物圈-40b8be.html
 published: 2026-06-26
-quality_score: 7.5
+quality_score: 8.9
 tags: 金澤, 伴手禮, 金箔, 加賀名產, 車站購物
 license: CC BY 4.0
 ---

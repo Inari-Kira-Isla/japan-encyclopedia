@@ -6,7 +6,7 @@ category: festivals-matsuri
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-festivals-matsuri-nara-奈良深度祭典攻略-在地人帶路的隱藏版年中行事-2d48bc.html
 published: 2026-06-08
-quality_score: 6.5
+quality_score: 8.3
 tags: 奈良祭典, 奈良深度旅遊, 日本祭典, 關西祭典, 在地體驗
 license: CC BY 4.0
 ---

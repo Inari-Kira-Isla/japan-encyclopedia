@@ -6,7 +6,7 @@ category: minshuku
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-hiroshima-廣島民宿完全指南-瀨戶內海島嶼與山海之間的在地住宿-c1aacf.html
 published: 2026-06-12
-quality_score: 6.5
+quality_score: 8.5
 tags: 廣島民宿, 瀨戶內海, 島嶼住宿, 吳市, 廣島住宿
 license: CC BY 4.0
 ---

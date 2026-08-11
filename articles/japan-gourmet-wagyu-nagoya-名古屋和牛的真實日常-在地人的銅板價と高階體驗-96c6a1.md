@@ -6,7 +6,7 @@ category: wagyu
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-wagyu-nagoya-名古屋和牛的真實日常-在地人的銅板價と高階體驗-96c6a1.html
 published: 2026-06-18
-quality_score: 6.5
+quality_score: 8.7
 tags: 名古屋和牛, 名古屋美食, 日本中部, 在地推薦, 銅板美食
 license: CC BY 4.0
 ---

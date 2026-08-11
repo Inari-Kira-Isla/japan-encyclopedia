@@ -6,7 +6,7 @@ category: metro-systems
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-hiroshima-廣島路面軌道物語-港都日常的移動風景-416cd2.html
 published: 2026-04-05
-quality_score: 7.5
+quality_score: 8.6
 tags: 廣島交通, 路面電車, 日本軌道交通, 港都旅行, 廣島自由行
 license: CC BY 4.0
 ---

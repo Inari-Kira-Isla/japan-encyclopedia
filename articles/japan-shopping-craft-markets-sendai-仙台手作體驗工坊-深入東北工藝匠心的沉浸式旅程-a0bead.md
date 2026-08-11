@@ -6,7 +6,7 @@ category: craft-markets
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-craft-markets-sendai-仙台手作體驗工坊-深入東北工藝匠心的沉浸式旅程-a0bead.html
 published: 2026-05-24
-quality_score: 7.5
+quality_score: 8.7
 tags: sendai, craft-workshop, 體驗工坊, 東北手工藝, 手作體驗
 license: CC BY 4.0
 ---

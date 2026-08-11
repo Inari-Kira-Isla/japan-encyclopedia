@@ -6,7 +6,7 @@ category: depachika
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-depachika-sendai-仙台depachika-在地人的東北-食-驗指南-8bef95.html
 published: 2026-06-17
-quality_score: 6.5
+quality_score: 8.6
 tags: 仙台, Depachika, 牛舌, 東北美食, 日本料理
 license: CC BY 4.0
 ---

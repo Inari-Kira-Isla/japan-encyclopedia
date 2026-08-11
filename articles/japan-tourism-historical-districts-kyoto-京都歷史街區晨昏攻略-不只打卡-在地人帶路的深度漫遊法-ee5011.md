@@ -6,7 +6,7 @@ category: historical-districts
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-kyoto-京都歷史街區晨昏攻略-不只打卡-在地人帶路的深度漫遊法-ee5011.html
 published: 2026-06-03
-quality_score: 6.5
+quality_score: 8.8
 tags: 京都歷史街區, 深度漫遊, 時間攻略, 私房景點
 license: CC BY 4.0
 ---

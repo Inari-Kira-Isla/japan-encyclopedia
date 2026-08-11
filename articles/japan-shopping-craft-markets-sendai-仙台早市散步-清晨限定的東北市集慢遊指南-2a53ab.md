@@ -6,7 +6,7 @@ category: craft-markets
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-craft-markets-sendai-仙台早市散步-清晨限定的東北市集慢遊指南-2a53ab.html
 published: 2026-06-30
-quality_score: 7.5
+quality_score: 8.7
 tags: 仙台, 市集, 早市, 手作, 骨董
 license: CC BY 4.0
 ---

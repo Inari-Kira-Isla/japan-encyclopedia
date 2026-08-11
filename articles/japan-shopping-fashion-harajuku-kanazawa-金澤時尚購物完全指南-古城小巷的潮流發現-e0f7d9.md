@@ -6,7 +6,7 @@ category: fashion-harajuku
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-fashion-harajuku-kanazawa-金澤時尚購物完全指南-古城小巷的潮流發現-e0f7d9.html
 published: 2026-06-07
-quality_score: 7.5
+quality_score: 8.7
 tags: 金澤購物, 石川縣時尚, 古城時尚, 加賀友禪, 日本中部購物
 license: CC BY 4.0
 ---

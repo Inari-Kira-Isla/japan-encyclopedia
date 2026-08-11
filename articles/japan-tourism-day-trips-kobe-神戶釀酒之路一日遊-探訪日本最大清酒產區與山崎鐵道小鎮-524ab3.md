@@ -6,7 +6,7 @@ category: day-trips
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-kobe-神戶釀酒之路一日遊-探訪日本最大清酒產區與山崎鐵道小鎮-524ab3.html
 published: 2026-05-22
-quality_score: 5.5
+quality_score: 7.7
 tags: 神戶一日遊, 灘五鄉清酒, 山崎鐵道, 男澤釀造, 關西釀酒之旅
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: sumo
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-kanazawa-金澤相撲-古城看力士的隱藏版攻略-4ad0a2.html
 published: 2026-06-25
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤相撲, 石川縣, 大相撲巡業, 金沢場所, 日本傳統
 license: CC BY 4.0
 ---

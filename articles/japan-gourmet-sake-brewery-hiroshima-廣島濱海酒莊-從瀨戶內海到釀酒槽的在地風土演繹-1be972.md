@@ -6,7 +6,7 @@ category: sake-brewery
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sake-brewery-hiroshima-廣島濱海酒莊-從瀨戶內海到釀酒槽的在地風土演繹-1be972.html
 published: 2026-05-21
-quality_score: 6.5
+quality_score: 8.8
 tags: 廣島清酒, 瀨戶內海, 酒莊參訪, 生酛釀造, 日本清酒
 license: CC BY 4.0
 ---

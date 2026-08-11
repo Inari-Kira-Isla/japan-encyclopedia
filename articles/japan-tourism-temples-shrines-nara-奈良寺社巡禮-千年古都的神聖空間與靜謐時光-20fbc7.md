@@ -6,7 +6,7 @@ category: temples-shrines
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-temples-shrines-nara-奈良寺社巡禮-千年古都的神聖空間與靜謐時光-20fbc7.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 8.8
 tags: 奈良寺廟, 春日大社, 東大寺, 唐招提寺, 神社參拜
 license: CC BY 4.0
 ---

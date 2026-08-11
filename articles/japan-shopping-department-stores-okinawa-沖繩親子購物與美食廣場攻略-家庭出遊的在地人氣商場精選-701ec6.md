@@ -6,7 +6,7 @@ category: department-stores
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-department-stores-okinawa-沖繩親子購物與美食廣場攻略-家庭出遊的在地人氣商場精選-701ec6.html
 published: 2026-06-28
-quality_score: 7.5
+quality_score: 8.7
 tags: 沖繩購物, 親子旅遊, 日本百货公司, 沖繩自由行, 家庭出遊
 license: CC BY 4.0
 ---

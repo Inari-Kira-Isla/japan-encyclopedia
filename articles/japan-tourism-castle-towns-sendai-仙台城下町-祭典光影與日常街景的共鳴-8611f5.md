@@ -6,7 +6,7 @@ category: castle-towns
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-castle-towns-sendai-仙台城下町-祭典光影與日常街景的共鳴-8611f5.html
 published: 2026-03-24
-quality_score: 6.5
+quality_score: 8.5
 tags: 仙台城下町, 東北旅遊, 城市文化, 美食街區, 日本自由行
 license: CC BY 4.0
 ---

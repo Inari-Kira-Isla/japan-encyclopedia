@@ -6,7 +6,7 @@ category: temples-shrines
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-temples-shrines-nagoya-名古屋神社寺院的生活風景-從職人信仰到在地參拜的日常觀察-8d29aa.html
 published: 2026-06-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 名古屋, 神社, 寺院, 職人文化, 在地體驗
 license: CC BY 4.0
 ---

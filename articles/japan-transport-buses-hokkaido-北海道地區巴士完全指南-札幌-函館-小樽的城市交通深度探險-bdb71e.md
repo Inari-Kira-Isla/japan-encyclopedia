@@ -6,7 +6,7 @@ category: buses
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-buses-hokkaido-北海道地區巴士完全指南-札幌-函館-小樽的城市交通深度探險-bdb71e.html
 published: 2026-03-23
-quality_score: 7.5
+quality_score: 8.7
 tags: 北海道, 巴士交通, 札幌, 函館, 小樽
 license: CC BY 4.0
 ---

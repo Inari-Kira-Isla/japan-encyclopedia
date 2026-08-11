@@ -6,7 +6,7 @@ category: castle-towns
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-castle-towns-kanazawa-金澤工藝之路-傳統技藝與當代設計的城下町漫步-a584ca.html
 published: 2026-03-24
-quality_score: 6.5
+quality_score: 8.6
 tags: 金澤, 城下町, 傳統工藝, 日本旅遊, 美術館
 license: CC BY 4.0
 ---

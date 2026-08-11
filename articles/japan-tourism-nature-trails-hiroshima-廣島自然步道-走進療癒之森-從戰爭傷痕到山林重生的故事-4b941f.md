@@ -6,7 +6,7 @@ category: nature-trails
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-hiroshima-廣島自然步道-走進療癒之森-從戰爭傷痕到山林重生的故事-4b941f.html
 published: 2026-07-01
-quality_score: 6.5
+quality_score: 8.7
 tags: 廣島自然步道, 日本健行, 廣島旅遊, 森林浴, 瀨戶內海
 license: CC BY 4.0
 ---

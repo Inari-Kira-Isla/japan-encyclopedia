@@ -6,7 +6,7 @@ category: island-hopping
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-island-hopping-kobe-神戶味覺跳島-從港都出發的海島美食文化之旅-bdd4ee.html
 published: 2026-04-06
-quality_score: 6.5
+quality_score: 8.3
 tags: 神戶, 跳島旅遊, 瀨戶內海, 日本美食, 淡路島
 license: CC BY 4.0
 ---

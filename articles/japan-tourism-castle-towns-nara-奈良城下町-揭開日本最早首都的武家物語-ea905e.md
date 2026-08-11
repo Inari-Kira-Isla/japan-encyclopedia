@@ -6,7 +6,7 @@ category: castle-towns
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-castle-towns-nara-奈良城下町-揭開日本最早首都的武家物語-ea905e.html
 published: 2026-05-24
-quality_score: 6.5
+quality_score: 8.9
 tags: 奈良旅遊, 平城京, 寺社町, 關西自由行, 日本古都
 license: CC BY 4.0
 ---

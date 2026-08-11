@@ -6,7 +6,7 @@ category: tempura
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tempura-kyoto-京都天婦羅-從巷弄老舖到料亭的四季旬味之旅-61c62e.html
 published: 2026-07-04
-quality_score: 6.5
+quality_score: 8.9
 tags: 京都天婦羅, 京料理, 京野菜, 天つゆ, 關西美食
 license: CC BY 4.0
 ---

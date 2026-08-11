@@ -6,7 +6,7 @@ category: sake-brewery
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sake-brewery-hokkaido-北海道清酒釀造所-嚴冬之中的釀酒哲學與海味搭配美學-4c6924.html
 published: 2026-07-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道清酒, 釀造所參觀, 海膽搭配, 日本旅遊, 余市
 license: CC BY 4.0
 ---

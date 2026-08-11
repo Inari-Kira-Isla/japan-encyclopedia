@@ -6,7 +6,7 @@ category: metro-systems
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-hiroshima-廣島電鐵的日常物語-穿越和平紀念城市的路面詩篇-c151ef.html
 published: 2026-06-21
-quality_score: 7.5
+quality_score: 8.5
 tags: 廣島電鐵, 路面電車, 広島電鉄, 廣島交通, 廣島自由行
 license: CC BY 4.0
 ---

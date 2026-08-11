@@ -6,7 +6,7 @@ category: cycling
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-kobe-神戶日常騎單車-巷弄-港口與在地生活的慢速探索-e1d51b.html
 published: 2026-06-27
-quality_score: 7.5
+quality_score: 8.9
 tags: 神戶單車, 神戶自由行, 南京町, 神戶港灣, 北野異人館
 license: CC BY 4.0
 ---

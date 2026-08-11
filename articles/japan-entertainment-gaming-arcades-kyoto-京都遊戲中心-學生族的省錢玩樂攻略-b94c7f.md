@@ -6,7 +6,7 @@ category: gaming-arcades
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-gaming-arcades-kyoto-京都遊戲中心-學生族的省錢玩樂攻略-b94c7f.html
 published: 2026-06-14
-quality_score: 6.5
+quality_score: 8.7
 tags: 京都, 遊戲中心, 街機, 學生優惠, 省錢旅遊
 license: CC BY 4.0
 ---

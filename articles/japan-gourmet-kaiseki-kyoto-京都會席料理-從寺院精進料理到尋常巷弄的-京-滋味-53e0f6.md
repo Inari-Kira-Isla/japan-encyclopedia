@@ -6,7 +6,7 @@ category: kaiseki
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-kaiseki-kyoto-京都會席料理-從寺院精進料理到尋常巷弄的-京-滋味-53e0f6.html
 published: 2026-07-01
-quality_score: 6.5
+quality_score: 8.7
 tags: 京都會席, 京料理, 精進料理, 日本美食, 京都旅遊
 license: CC BY 4.0
 ---

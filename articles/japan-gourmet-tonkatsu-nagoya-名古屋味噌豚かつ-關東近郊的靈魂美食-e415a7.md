@@ -6,7 +6,7 @@ category: tonkatsu
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tonkatsu-nagoya-名古屋味噌豚かつ-關東近郊的靈魂美食-e415a7.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 8.7
 tags: 名古屋, 味噌かつ, 豚かつ, Aichi, 名古屋美食
 license: CC BY 4.0
 ---

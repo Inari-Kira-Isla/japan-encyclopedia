@@ -6,7 +6,7 @@ category: ramen
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-ramen-hokkaido-北海道拉麵-海洋牧場的湯匙風味-385687.html
 published: 2026-05-22
-quality_score: 6.5
+quality_score: 8.6
 tags: 北海道拉麵, 札幌拉麵, 旭川拉麵, 北海道美食, 日本拉麵
 license: CC BY 4.0
 ---

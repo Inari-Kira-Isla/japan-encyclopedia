@@ -6,7 +6,7 @@ category: historical-districts
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-osaka-大阪歷史街區-大阪商人的dna與職人小巷-7b01bf.html
 published: 2026-06-03
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪歷史街區, 大阪散步, 大阪職人, 大阪商家, 老街區
 license: CC BY 4.0
 ---

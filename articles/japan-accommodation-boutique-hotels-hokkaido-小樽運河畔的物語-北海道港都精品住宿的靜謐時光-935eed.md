@@ -6,7 +6,7 @@ category: boutique-hotels
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-hokkaido-小樽運河畔的物語-北海道港都精品住宿的靜謐時光-935eed.html
 published: 2026-06-15
-quality_score: 6.5
+quality_score: 8.4
 tags: 小樽, 運河, 精品住宿, 港都, 北海道自助
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: historical-districts
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-okinawa-沖繩歷史街區晨間散步-日出時分的琉球古城深呼吸-d7965a.html
 published: 2026-06-28
-quality_score: 6.5
+quality_score: 8.6
 tags: 沖繩歷史街區, 晨間散步, 首里城, 琉球王國, 沖繩麵
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: electronics
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-electronics-nara-奈良電子產品購物完全指南-外國旅客的關西退稅攻略-0021de.html
 published: 2026-06-14
-quality_score: 7.5
+quality_score: 8.3
 tags: 奈良電子產品, 奈良購物, 關西電子產品, 日本免稅店, 外國旅客日本購物
 license: CC BY 4.0
 ---

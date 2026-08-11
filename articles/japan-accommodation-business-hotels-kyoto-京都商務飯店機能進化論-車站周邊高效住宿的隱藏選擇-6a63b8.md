@@ -6,7 +6,7 @@ category: business-hotels
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-business-hotels-kyoto-京都商務飯店機能進化論-車站周邊高效住宿的隱藏選擇-6a63b8.html
 published: 2026-06-09
-quality_score: 6.5
+quality_score: 8.6
 tags: 京都商務飯店, 京都住宿推薦, 京都站周邊住宿, 商務出差京都, 京都商旅指南
 license: CC BY 4.0
 ---

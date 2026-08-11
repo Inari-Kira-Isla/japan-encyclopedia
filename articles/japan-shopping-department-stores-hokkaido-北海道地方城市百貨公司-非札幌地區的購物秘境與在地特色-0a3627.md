@@ -6,7 +6,7 @@ category: department-stores
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-department-stores-hokkaido-北海道地方城市百貨公司-非札幌地區的購物秘境與在地特色-0a3627.html
 published: 2026-06-09
-quality_score: 7.5
+quality_score: 8.5
 tags: 北海道購物, 帶廣, 旭川, 函館, 小樽
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: tempura
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tempura-hiroshima-廣島的天婦羅-原子彈轟炸後重生的人氣老店與在地隱藏選單-7ed304.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 8.9
 tags: 廣島美食, 日本天婦羅, 廣島必吃, 廣島旅遊, 戰後美食
 license: CC BY 4.0
 ---

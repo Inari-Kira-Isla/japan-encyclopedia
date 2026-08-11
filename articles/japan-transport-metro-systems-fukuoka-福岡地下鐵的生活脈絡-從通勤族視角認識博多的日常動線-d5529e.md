@@ -6,7 +6,7 @@ category: metro-systems
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-fukuoka-福岡地下鐵的生活脈絡-從通勤族視角認識博多的日常動線-d5529e.html
 published: 2026-06-07
-quality_score: 7.5
+quality_score: 8.9
 tags: 福岡地下鐵, 機場線, 七隈線, 博多交通, 天神商圈
 license: CC BY 4.0
 ---

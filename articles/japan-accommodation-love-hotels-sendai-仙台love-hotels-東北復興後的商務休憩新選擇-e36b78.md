@@ -6,7 +6,7 @@ category: love-hotels
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-love-hotels-sendai-仙台love-hotels-東北復興後的商務休憩新選擇-e36b78.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.8
 tags: 仙台住宿, 東北旅遊, 商務旅館, 情侶住宿, 日本文化體驗
 license: CC BY 4.0
 ---

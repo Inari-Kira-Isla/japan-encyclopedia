@@ -6,7 +6,7 @@ category: escape-rooms
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-escape-rooms-hokkaido-北海道-vr-體驗-雪國的虛擬實境冬日冒險-f593c2.html
 published: 2026-06-18
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道 VR, 札幌 VR, 小樽 VR, 旭川 VR, 虛擬實境體驗
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: temples-shrines
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-temples-shrines-nagoya-名古屋參道散步地圖-從熱田神宮到產業祈福的職人信仰之路-431a65.html
 published: 2026-06-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 名古屋寺廟神社, 產業祈福, 熱田神宮, 大須觀音, 參道散步
 license: CC BY 4.0
 ---

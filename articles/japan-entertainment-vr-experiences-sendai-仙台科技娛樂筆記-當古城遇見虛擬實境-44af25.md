@@ -6,7 +6,7 @@ category: vr-experiences
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-vr-experiences-sendai-仙台科技娛樂筆記-當古城遇見虛擬實境-44af25.html
 published: 2026-06-27
-quality_score: 6.5
+quality_score: 8.5
 tags: 仙台, VR體驗, 東北日本, 虛擬實境, 室內活動
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: matcha-sweets
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-matcha-sweets-fukuoka-九州抹茶巡禮-福岡抹茶甜點-天神-藥院周邊的日常美味地圖-bb0aaf.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 8.9
 tags: 福岡抹茶, 九州抹茶甜點, 天神美食, 藥院甜點, 日本抹茶
 license: CC BY 4.0
 ---

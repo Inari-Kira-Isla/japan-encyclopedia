@@ -6,7 +6,7 @@ category: scenic-routes
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-kobe-神戶異國風情步道-百年港灣的西洋建築景觀散步-43b848.html
 published: 2026-06-16
-quality_score: 6.5
+quality_score: 8.7
 tags: 神戶, 風景道路, 異人館, 歷史建築, 港灣城市
 license: CC BY 4.0
 ---

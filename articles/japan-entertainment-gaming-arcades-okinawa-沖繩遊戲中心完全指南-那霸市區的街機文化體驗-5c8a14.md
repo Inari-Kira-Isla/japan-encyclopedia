@@ -6,7 +6,7 @@ category: gaming-arcades
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-gaming-arcades-okinawa-沖繩遊戲中心完全指南-那霸市區的街機文化體驗-5c8a14.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 8.7
 tags: 沖繩旅遊, 街機文化, 那霸市區, 親子遊樂, 日本娛樂體驗
 license: CC BY 4.0
 ---

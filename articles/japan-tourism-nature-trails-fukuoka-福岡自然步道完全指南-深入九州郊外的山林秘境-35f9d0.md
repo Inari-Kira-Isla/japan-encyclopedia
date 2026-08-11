@@ -6,7 +6,7 @@ category: nature-trails
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-fukuoka-福岡自然步道完全指南-深入九州郊外的山林秘境-35f9d0.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 8.7
 tags: 福岡, 自然步道, 九州, 登山, 海岸步道
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: onsen
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-onsen-kanazawa-金澤周邊溫泉鄉-遠離觀光人潮的在地溫泉秘境-fa10fb.html
 published: 2026-06-22
-quality_score: 6.5
+quality_score: 8.9
 tags: 金澤溫泉, 加賀溫泉鄉, 石川縣溫泉, 日本溫泉, 山代溫泉
 license: CC BY 4.0
 ---

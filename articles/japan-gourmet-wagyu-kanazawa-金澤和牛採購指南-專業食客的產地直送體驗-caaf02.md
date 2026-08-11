@@ -6,7 +6,7 @@ category: wagyu
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-wagyu-kanazawa-金澤和牛採購指南-專業食客的產地直送體驗-caaf02.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.6
 tags: 金澤美食, 能登牛, 和牛採購, 石川縣, 專業美食
 license: CC BY 4.0
 ---

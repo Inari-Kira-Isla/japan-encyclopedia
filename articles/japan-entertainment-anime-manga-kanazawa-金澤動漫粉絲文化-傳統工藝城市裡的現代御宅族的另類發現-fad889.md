@@ -6,7 +6,7 @@ category: anime-manga
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-kanazawa-金澤動漫粉絲文化-傳統工藝城市裡的現代御宅族的另類發現-fad889.html
 published: 2026-04-08
-quality_score: 6.5
+quality_score: 8.6
 tags: 金澤動漫, 金澤旅遊, 日本動漫文化, 金澤景點, 御宅族
 license: CC BY 4.0
 ---

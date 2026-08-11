@@ -6,7 +6,7 @@ category: metro-systems
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-kanazawa-金澤交通系統探索-沒有地鐵的古城如何暢行-899e53.html
 published: 2026-06-28
-quality_score: 7.5
+quality_score: 8.5
 tags: 金澤交通, 金澤巴士, 金澤自助旅行, 日本地方交通, 金澤旅遊攻略
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: vintage-thrift
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-vintage-thrift-nagoya-名古屋工業古著尋寶-中部製造重鎮的復古時尚美學-62f812-1782430694.html
 published: 2026-06-25
-quality_score: 7.5
+quality_score: 8.8
 tags: 名古屋古著, 中部古著, 古著購物, 日本古著, 工作外套
 license: CC BY 4.0
 ---

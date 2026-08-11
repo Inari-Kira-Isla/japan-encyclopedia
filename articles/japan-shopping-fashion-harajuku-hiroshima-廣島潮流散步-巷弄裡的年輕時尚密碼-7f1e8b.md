@@ -6,7 +6,7 @@ category: fashion-harajuku
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-fashion-harajuku-hiroshima-廣島潮流散步-巷弄裡的年輕時尚密碼-7f1e8b.html
 published: 2026-05-23
-quality_score: 7.5
+quality_score: 8.8
 tags: 廣島購物, 年輕時尚, 古著, 選品店, 巷弄散步
 license: CC BY 4.0
 ---

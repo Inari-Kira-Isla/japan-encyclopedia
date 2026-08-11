@@ -6,7 +6,7 @@ category: onsen
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-onsen-tokyo-東京溫泉-都會叢林中的療癒綠洲-fb102d.html
 published: 2026-07-03
-quality_score: 6.5
+quality_score: 8.8
 tags: 東京溫泉, 東京旅遊, 台場溫泉, 錢湯文化, 日歸溫泉
 license: CC BY 4.0
 ---

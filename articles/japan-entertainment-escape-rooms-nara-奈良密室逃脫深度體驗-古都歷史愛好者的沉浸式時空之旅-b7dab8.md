@@ -6,7 +6,7 @@ category: escape-rooms
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-escape-rooms-nara-奈良密室逃脫深度體驗-古都歷史愛好者的沉浸式時空之旅-b7dab8.html
 published: 2026-06-17
-quality_score: 6.5
+quality_score: 8.8
 tags: 奈良密室, 密室逃脫, 奈良旅遊, 古都體驗, 日本歷史
 license: CC BY 4.0
 ---

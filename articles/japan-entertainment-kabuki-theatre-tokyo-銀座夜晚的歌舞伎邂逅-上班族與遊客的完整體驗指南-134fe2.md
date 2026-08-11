@@ -6,7 +6,7 @@ category: kabuki-theatre
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-kabuki-theatre-tokyo-銀座夜晚的歌舞伎邂逅-上班族與遊客的完整體驗指南-134fe2.html
 published: 2026-03-23
-quality_score: 6.5
+quality_score: 8.8
 tags: 東京夜生活, 歌舞伎體驗, 銀座文化, 日本傳統表演藝術, 上班族娛樂
 license: CC BY 4.0
 ---

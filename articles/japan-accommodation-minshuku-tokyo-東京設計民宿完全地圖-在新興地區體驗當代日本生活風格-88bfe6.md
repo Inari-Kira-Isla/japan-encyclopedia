@@ -6,7 +6,7 @@ category: minshuku
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-tokyo-東京設計民宿完全地圖-在新興地區體驗當代日本生活風格-88bfe6.html
 published: 2026-03-24
-quality_score: 6.5
+quality_score: 8.5
 tags: 東京, 民宿, 設計, 澀谷, 清澄白河
 license: CC BY 4.0
 ---

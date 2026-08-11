@@ -6,7 +6,7 @@ category: nightlife
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-kanazawa-金澤夜生活-現代年輕人的娛樂探險地圖-bd0e6d.html
 published: 2026-03-22
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤, 日本夜生活, 年輕人文化, 卡拉OK, 居酒屋
 license: CC BY 4.0
 ---

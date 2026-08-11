@@ -6,7 +6,7 @@ category: love-hotels
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-love-hotels-nagoya-名古屋-love-hotels-商務與戀愛的都市節奏-eca794.html
 published: 2026-06-05
-quality_score: 6.5
+quality_score: 8.6
 tags: 名古屋, 愛戀旅館, 中部地方, 商務住宿, 情侶約會
 license: CC BY 4.0
 ---

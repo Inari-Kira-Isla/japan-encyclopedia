@@ -6,7 +6,7 @@ category: festivals-matsuri
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-festivals-matsuri-osaka-北海道-vr-體驗-雪國科技娛樂的多元探索-2aed70.html
 published: 2026-06-08
-quality_score: 6.5
+quality_score: 8.6
 tags: 北海道 VR 體驗, 札幌 VR, 小樽 VR, 溫泉 VR, 北海道親子遊
 license: CC BY 4.0
 ---

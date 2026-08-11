@@ -6,7 +6,7 @@ category: boutique-hotels
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-hokkaido-北海道非主流小鎮的隱藏版精品酒店-雪國深處的生活美學-5ab6ba.html
 published: 2026-05-21
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道精品酒店, 小樽住宿, 積丹半岛, 支笏湖溫泉, 東室溫泉
 license: CC BY 4.0
 ---

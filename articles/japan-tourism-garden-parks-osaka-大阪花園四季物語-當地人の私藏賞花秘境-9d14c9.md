@@ -6,7 +6,7 @@ category: garden-parks
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-osaka-大阪花園四季物語-當地人の私藏賞花秘境-9d14c9.html
 published: 2026-06-23
-quality_score: 6.5
+quality_score: 8.2
 tags: 大阪花園, 天王寺公園, 大阪城公園, 中之島公園, 住道公園
 license: CC BY 4.0
 ---

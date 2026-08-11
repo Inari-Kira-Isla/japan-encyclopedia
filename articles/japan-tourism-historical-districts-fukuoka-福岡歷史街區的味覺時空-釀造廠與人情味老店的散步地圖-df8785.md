@@ -6,7 +6,7 @@ category: historical-districts
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-fukuoka-福岡歷史街區的味覺時空-釀造廠與人情味老店的散步地圖-df8785.html
 published: 2026-06-29
-quality_score: 6.5
+quality_score: 8.5
 tags: 福岡, 歷史街區, 釀造廠, 屋台, 味覺旅行
 license: CC BY 4.0
 ---

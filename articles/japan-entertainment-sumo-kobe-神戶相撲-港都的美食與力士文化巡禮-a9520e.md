@@ -6,7 +6,7 @@ category: sumo
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-kobe-神戶相撲-港都的美食與力士文化巡禮-a9520e.html
 published: 2026-06-10
-quality_score: 6.5
+quality_score: 8.8
 tags: 神戶相撲, 神戶美食, 相撲火鍋, 關西美食, 神戶和牛
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: museums
 area: japan
 url: https://japan-encyclopedia.vercel.app/articles/japan-culture-museums-日本博物館生態-國立-私立與地方館的三層差距-japan-museums-art-8d7c20.html
 published: 2026-03-28
-quality_score: 7.6
+quality_score: 8.4
 tags: 日本博物館, 東京國立博物館, 金澤21世紀美術館, teamLab, 日本美術館
 license: CC BY 4.0
 ---

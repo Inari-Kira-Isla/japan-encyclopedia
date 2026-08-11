@@ -6,7 +6,7 @@ category: temples-shrines
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-temples-shrines-osaka-大阪寺廟神社商人信仰指南-在地人的日常參拜文化-5cee0d.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪神社, 商人信仰, 都市宗教, 住吉大社, 天滿宮
 license: CC BY 4.0
 ---

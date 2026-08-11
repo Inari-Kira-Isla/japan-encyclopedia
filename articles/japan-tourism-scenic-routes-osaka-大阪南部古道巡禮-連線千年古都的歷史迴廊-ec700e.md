@@ -6,7 +6,7 @@ category: scenic-routes
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-osaka-大阪南部古道巡禮-連線千年古都的歷史迴廊-ec700e.html
 published: 2026-05-22
-quality_score: 6.5
+quality_score: 8.9
 tags: 大阪景點, 古道健行, 奈良邊界, 歷史散步, 鄉間小路
 license: CC BY 4.0
 ---

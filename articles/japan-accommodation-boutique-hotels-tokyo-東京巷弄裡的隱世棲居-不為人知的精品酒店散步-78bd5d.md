@@ -6,7 +6,7 @@ category: boutique-hotels
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-tokyo-東京巷弄裡的隱世棲居-不為人知的精品酒店散步-78bd5d.html
 published: 2026-06-03
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京精品酒店, 東京住宿推薦, 下町住宿, 隱藏版飯店, 日本小旅行
 license: CC BY 4.0
 ---

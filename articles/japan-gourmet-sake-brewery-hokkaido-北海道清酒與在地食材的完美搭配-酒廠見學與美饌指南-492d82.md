@@ -6,7 +6,7 @@ category: sake-brewery
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sake-brewery-hokkaido-北海道清酒與在地食材的完美搭配-酒廠見學與美饌指南-492d82.html
 published: 2026-05-24
-quality_score: 6.5
+quality_score: 8.9
 tags: 北海道清酒, 酒廠見學, food pairing, 美饌搭配, 日本釀酒
 license: CC BY 4.0
 ---

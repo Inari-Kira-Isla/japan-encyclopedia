@@ -6,7 +6,7 @@ category: wagyu
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-wagyu-hiroshima-廣島瀨戶內海和牛體驗-原爆重建城市的美食復興之路-13b897.html
 published: 2026-03-28
-quality_score: 6.5
+quality_score: 8.8
 tags: 廣島, 和牛, 瀨戶內海, 原爆重建, 海陸結合
 license: CC BY 4.0
 ---

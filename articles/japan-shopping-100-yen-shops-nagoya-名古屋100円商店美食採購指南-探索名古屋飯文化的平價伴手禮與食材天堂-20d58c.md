@@ -6,7 +6,7 @@ category: 100-yen-shops
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-100-yen-shops-nagoya-名古屋100円商店美食採購指南-探索名古屋飯文化的平價伴手禮與食材天堂-20d58c.html
 published: 2026-06-24
-quality_score: 7.5
+quality_score: 8.6
 tags: 名古屋100円商店, 名古屋美食, 名古屋伴手禮, 平價購物, 中部國際空港
 license: CC BY 4.0
 ---

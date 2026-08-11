@@ -6,7 +6,7 @@ category: rental-cars
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-hiroshima-廣島內陸秘境自駕遊-放射狀路線探索中國山地與備後濱海的隱藏風景-9386f7.html
 published: 2026-06-28
-quality_score: 7.5
+quality_score: 8.6
 tags: 廣島租車, 廣島自駕遊, 中國山地, 備後濱海, 尾道跳島
 license: CC BY 4.0
 ---

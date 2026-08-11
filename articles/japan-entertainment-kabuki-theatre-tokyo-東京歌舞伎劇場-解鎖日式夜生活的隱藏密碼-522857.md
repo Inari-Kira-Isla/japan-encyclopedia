@@ -6,7 +6,7 @@ category: kabuki-theatre
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-kabuki-theatre-tokyo-東京歌舞伎劇場-解鎖日式夜生活的隱藏密碼-522857.html
 published: 2026-04-06
-quality_score: 6.5
+quality_score: 8.8
 tags: 歌舞伎, 東京夜生活, 傳統表演, 娛樂體驗, 文化體驗
 license: CC BY 4.0
 ---

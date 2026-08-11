@@ -6,7 +6,7 @@ category: street-food
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-street-food-okinawa-奈良居酒屋的巷內筆記-近鐵奈良站周邊的喝酒學問-876ca7.html
 published: 2026-05-23
-quality_score: 6.5
+quality_score: 8.9
 tags: 
 license: CC BY 4.0
 ---

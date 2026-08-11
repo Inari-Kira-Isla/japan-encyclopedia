@@ -6,7 +6,7 @@ category: boutique-hotels
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-kyoto-京都非典型住宿提案-巷弄深處的職人町家與山林隱宿-c490d2.html
 published: 2026-05-23
-quality_score: 6.5
+quality_score: 8.5
 tags: 京都精品住宿, 非主流景點, 町家民宿, 鞍馬溫泉, 上賀茂
 license: CC BY 4.0
 ---

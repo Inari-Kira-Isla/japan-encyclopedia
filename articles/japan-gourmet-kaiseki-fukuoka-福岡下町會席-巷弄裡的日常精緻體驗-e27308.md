@@ -6,7 +6,7 @@ category: kaiseki
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-kaiseki-fukuoka-福岡下町會席-巷弄裡的日常精緻體驗-e27308.html
 published: 2026-06-15
-quality_score: 6.5
+quality_score: 8.5
 tags: 福岡會席料理, 博多吃喝, 九州美食, 日本料理, 下町文化
 license: CC BY 4.0
 ---

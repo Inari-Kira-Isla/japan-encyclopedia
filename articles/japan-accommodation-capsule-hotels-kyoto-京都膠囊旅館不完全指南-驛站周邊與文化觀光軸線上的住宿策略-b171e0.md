@@ -6,7 +6,7 @@ category: capsule-hotels
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-capsule-hotels-kyoto-京都膠囊旅館不完全指南-驛站周邊與文化觀光軸線上的住宿策略-b171e0.html
 published: 2026-06-27
-quality_score: 6.5
+quality_score: 8.6
 tags: 京都膠囊旅館, 京都住宿推薦, 京都自由行, 祇園住宿, 嵐山住宿
 license: CC BY 4.0
 ---

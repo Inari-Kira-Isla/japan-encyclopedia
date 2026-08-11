@@ -6,7 +6,7 @@ category: nightlife
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-nara-奈良夜生活-jr奈良站周邊的在地酒場美學-12444e.html
 published: 2026-07-02
-quality_score: 6.5
+quality_score: 8.7
 tags: 奈良夜生活, 日本古都, 在地居酒屋, 奈良美食, 關西夜遊
 license: CC BY 4.0
 ---

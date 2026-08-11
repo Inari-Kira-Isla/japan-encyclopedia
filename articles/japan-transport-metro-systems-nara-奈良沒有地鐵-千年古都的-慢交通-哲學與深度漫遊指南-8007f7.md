@@ -6,7 +6,7 @@ category: metro-systems
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-nara-奈良沒有地鐵-千年古都的-慢交通-哲學與深度漫遊指南-8007f7.html
 published: 2026-07-06
-quality_score: 7.5
+quality_score: 8.5
 tags: 奈良交通, 近鐵奈良, 奈良巴士, 奈良慢旅行, 關西自由行
 license: CC BY 4.0
 ---

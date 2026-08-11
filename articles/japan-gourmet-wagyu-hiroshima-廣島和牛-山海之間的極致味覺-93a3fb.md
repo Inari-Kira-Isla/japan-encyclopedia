@@ -6,7 +6,7 @@ category: wagyu
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-wagyu-hiroshima-廣島和牛-山海之間的極致味覺-93a3fb.html
 published: 2026-06-22
-quality_score: 6.5
+quality_score: 8.6
 tags: 廣島和牛, 日本和牛, 廣島美食, 瀨戶內海, 燒肉
 license: CC BY 4.0
 ---

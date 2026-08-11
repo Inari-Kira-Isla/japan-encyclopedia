@@ -6,7 +6,7 @@ category: fashion-harajuku
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-fashion-harajuku-nara-地理澄清-奈良縣沒有-fashion-harajuku-原宿位於東京-baa204-1780679970.html
 published: 2026-06-05
-quality_score: 6.5
+quality_score: 0.0
 tags: fashion-harajuku, nara, japan
 license: CC BY 4.0
 ---

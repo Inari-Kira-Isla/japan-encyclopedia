@@ -6,7 +6,7 @@ category: shinkansen
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-kyoto-京都新幹綫完全指南-從東京出發的交通方案選擇與時間成本分析-ef9a93.html
 published: 2026-06-26
-quality_score: 7.5
+quality_score: 8.4
 tags: 京都, 新幹綫, 交通, 關西, 東京到京都
 license: CC BY 4.0
 ---

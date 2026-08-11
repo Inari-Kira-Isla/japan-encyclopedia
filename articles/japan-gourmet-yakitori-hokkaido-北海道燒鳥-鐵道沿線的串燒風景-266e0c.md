@@ -6,7 +6,7 @@ category: yakitori
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-yakitori-hokkaido-北海道燒鳥-鐵道沿線的串燒風景-266e0c.html
 published: 2026-06-19
-quality_score: 6.5
+quality_score: 8.8
 tags: 北海道燒鳥, JR鐵道之旅, 道產雞, 札幌燒鳥, 小樽美食
 license: CC BY 4.0
 ---

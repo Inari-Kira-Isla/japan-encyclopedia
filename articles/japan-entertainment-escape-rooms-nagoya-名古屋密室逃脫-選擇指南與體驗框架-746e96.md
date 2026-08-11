@@ -6,7 +6,7 @@ category: escape-rooms
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-escape-rooms-nagoya-名古屋密室逃脫-選擇指南與體驗框架-746e96.html
 published: 2026-06-11
-quality_score: 6.5
+quality_score: 8.5
 tags: 名古屋, 密室逃脫, 名古屋娛樂, 日本體驗, 團體活動
 license: CC BY 4.0
 ---

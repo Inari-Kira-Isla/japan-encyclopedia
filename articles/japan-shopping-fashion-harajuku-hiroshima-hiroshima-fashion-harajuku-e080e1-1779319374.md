@@ -6,7 +6,7 @@ category: fashion-harajuku
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-fashion-harajuku-hiroshima-hiroshima-fashion-harajuku-e080e1-1779319374.html
 published: 2026-05-20
-quality_score: 6.5
+quality_score: 0.0
 tags: fashion-harajuku, hiroshima, japan
 license: CC BY 4.0
 ---

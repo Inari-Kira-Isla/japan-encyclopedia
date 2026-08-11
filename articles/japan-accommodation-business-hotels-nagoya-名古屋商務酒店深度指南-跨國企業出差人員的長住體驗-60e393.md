@@ -6,7 +6,7 @@ category: business-hotels
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-business-hotels-nagoya-名古屋商務酒店深度指南-跨國企業出差人員的長住體驗-60e393.html
 published: 2026-04-04
-quality_score: 6.5
+quality_score: 8.7
 tags: 名古屋住宿, 商務酒店, 長期出差, 跨國企業, 工作效率
 license: CC BY 4.0
 ---

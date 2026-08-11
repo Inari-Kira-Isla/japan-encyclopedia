@@ -6,7 +6,7 @@ category: kaiseki
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-kaiseki-fukuoka-福岡懷石料理-九州門戶的精緻料理美學-c355b3.html
 published: 2026-04-04
-quality_score: 6.5
+quality_score: 8.7
 tags: 福岡美食, 懷石料理, 九州料理, 日本高級餐飲, 玄界灘海鮮
 license: CC BY 4.0
 ---

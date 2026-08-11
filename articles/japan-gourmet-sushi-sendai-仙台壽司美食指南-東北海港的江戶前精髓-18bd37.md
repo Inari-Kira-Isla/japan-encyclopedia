@@ -6,7 +6,7 @@ category: sushi
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sushi-sendai-仙台壽司美食指南-東北海港的江戶前精髓-18bd37.html
 published: 2026-03-14
-quality_score: 6.5
+quality_score: 8.7
 tags: 仙台美食, 壽司, 東北料理, 海鮮, 日本料理
 license: CC BY 4.0
 ---

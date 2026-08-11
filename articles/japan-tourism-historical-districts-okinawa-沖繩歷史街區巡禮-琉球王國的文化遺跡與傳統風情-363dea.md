@@ -6,7 +6,7 @@ category: historical-districts
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-okinawa-沖繩歷史街區巡禮-琉球王國的文化遺跡與傳統風情-363dea.html
 published: 2026-03-14
-quality_score: 6.5
+quality_score: 8.9
 tags: 沖繩歷史, 琉球文化, 傳統建築, 石疊道, 陶藝文化
 license: CC BY 4.0
 ---

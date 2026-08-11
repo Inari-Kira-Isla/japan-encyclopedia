@@ -6,7 +6,7 @@ category: tempura
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tempura-sendai-仙台天婦羅-港都海味的炸物美學-e98bcf.html
 published: 2026-06-08
-quality_score: 6.5
+quality_score: 8.7
 tags: 仙台天婦羅, 東北美食, 港都海味, 汁的天婦羅, 日本炸物
 license: CC BY 4.0
 ---

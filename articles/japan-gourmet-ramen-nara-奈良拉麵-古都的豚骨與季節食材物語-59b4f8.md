@@ -6,7 +6,7 @@ category: ramen
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-ramen-nara-奈良拉麵-古都的豚骨與季節食材物語-59b4f8.html
 published: 2026-03-24
-quality_score: 6.5
+quality_score: 8.6
 tags: 奈良, 拉麵, 豚骨, 季節食材, 古都美食
 license: CC BY 4.0
 ---

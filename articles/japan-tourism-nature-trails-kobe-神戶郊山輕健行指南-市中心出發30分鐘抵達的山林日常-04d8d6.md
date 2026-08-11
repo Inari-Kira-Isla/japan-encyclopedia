@@ -6,7 +6,7 @@ category: nature-trails
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-kobe-神戶郊山輕健行指南-市中心出發30分鐘抵達的山林日常-04d8d6.html
 published: 2026-07-01
-quality_score: 6.5
+quality_score: 8.7
 tags: 神戶步道, 六甲山, 輕健行, 神戶自由行, 關西自然
 license: CC BY 4.0
 ---

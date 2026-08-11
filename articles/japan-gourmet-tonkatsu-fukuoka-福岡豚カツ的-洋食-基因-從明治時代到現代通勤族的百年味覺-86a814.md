@@ -6,7 +6,7 @@ category: tonkatsu
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tonkatsu-fukuoka-福岡豚カツ的-洋食-基因-從明治時代到現代通勤族的百年味覺-86a814.html
 published: 2026-06-22
-quality_score: 6.5
+quality_score: 8.6
 tags: 福岡美食, 豚カツ, とんかつ, 九州洋食, 博多元町
 license: CC BY 4.0
 ---

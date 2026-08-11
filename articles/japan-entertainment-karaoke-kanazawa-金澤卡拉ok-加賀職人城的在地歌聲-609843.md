@@ -6,7 +6,7 @@ category: karaoke
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-karaoke-kanazawa-金澤卡拉ok-加賀職人城的在地歌聲-609843.html
 published: 2026-04-01
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤娛樂, 當地文化, 職人生活, 夜生活, 社交體驗
 license: CC BY 4.0
 ---

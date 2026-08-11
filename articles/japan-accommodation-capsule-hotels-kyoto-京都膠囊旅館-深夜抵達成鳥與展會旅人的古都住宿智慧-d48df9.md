@@ -6,7 +6,7 @@ category: capsule-hotels
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-capsule-hotels-kyoto-京都膠囊旅館-深夜抵達成鳥與展會旅人的古都住宿智慧-d48df9.html
 published: 2026-06-04
-quality_score: 6.5
+quality_score: 8.8
 tags: 京都胶囊旅馆, 京都住宿推荐, 古都经济住宿, 京都自助旅行, 深夜抵达成
 license: CC BY 4.0
 ---

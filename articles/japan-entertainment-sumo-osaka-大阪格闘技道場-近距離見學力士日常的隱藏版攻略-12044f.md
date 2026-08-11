@@ -6,7 +6,7 @@ category: sumo
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-osaka-大阪格闘技道場-近距離見學力士日常的隱藏版攻略-12044f.html
 published: 2026-05-25
-quality_score: 6.5
+quality_score: 8.6
 tags: 大阪相撲, 關西相撲, 道場見學, 相撲體驗, 大阪體育
 license: CC BY 4.0
 ---

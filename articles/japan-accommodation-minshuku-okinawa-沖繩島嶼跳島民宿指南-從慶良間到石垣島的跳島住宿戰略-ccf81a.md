@@ -6,7 +6,7 @@ category: minshuku
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-okinawa-沖繩島嶼跳島民宿指南-從慶良間到石垣島的跳島住宿戰略-ccf81a.html
 published: 2026-06-12
-quality_score: 6.5
+quality_score: 8.7
 tags: 沖繩民宿, 島嶼跳島, 慶良間諸島, 石垣島, 竹富島
 license: CC BY 4.0
 ---

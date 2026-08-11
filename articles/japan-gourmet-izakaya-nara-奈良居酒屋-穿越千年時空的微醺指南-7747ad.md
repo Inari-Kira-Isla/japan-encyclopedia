@@ -6,7 +6,7 @@ category: izakaya
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-izakaya-nara-奈良居酒屋-穿越千年時空的微醺指南-7747ad.html
 published: 2026-06-29
-quality_score: 6.5
+quality_score: 8.7
 tags: 奈良居酒屋, 古都美食, 奈良町, 地酒, 柿葉壽司
 license: CC BY 4.0
 ---

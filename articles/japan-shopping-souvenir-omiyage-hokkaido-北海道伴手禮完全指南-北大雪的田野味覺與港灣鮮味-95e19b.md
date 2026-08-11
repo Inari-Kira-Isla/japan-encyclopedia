@@ -6,7 +6,7 @@ category: souvenir-omiyage
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-souvenir-omiyage-hokkaido-北海道伴手禮完全指南-北大雪的田野味覺與港灣鮮味-95e19b.html
 published: 2026-06-01
-quality_score: 7.5
+quality_score: 8.8
 tags: 北海道伴手礼, 札幌购物, 新千歲机场免税, 小樽名产, 函館朝市
 license: CC BY 4.0
 ---

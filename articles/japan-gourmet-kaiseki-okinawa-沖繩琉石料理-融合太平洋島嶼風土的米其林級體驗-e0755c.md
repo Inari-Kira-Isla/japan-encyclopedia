@@ -6,7 +6,7 @@ category: kaiseki
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-kaiseki-okinawa-沖繩琉石料理-融合太平洋島嶼風土的米其林級體驗-e0755c.html
 published: 2026-06-20
-quality_score: 6.5
+quality_score: 8.7
 tags: 沖繩美食, 琉石料理, 沖繩會席, 日本料理,  Okinawa
 license: CC BY 4.0
 ---

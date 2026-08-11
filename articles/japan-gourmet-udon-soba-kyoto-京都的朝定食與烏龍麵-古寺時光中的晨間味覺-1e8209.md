@@ -6,7 +6,7 @@ category: udon-soba
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-udon-soba-kyoto-京都的朝定食與烏龍麵-古寺時光中的晨間味覺-1e8209.html
 published: 2026-06-17
-quality_score: 6.5
+quality_score: 8.7
 tags: 京都, 烏龍麵, 蕎麥麵, 朝定食, 精進料理
 license: CC BY 4.0
 ---

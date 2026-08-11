@@ -6,7 +6,7 @@ category: shinkansen
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-nara-鐵道真相-奈良沒有新幹緒-深入解析關西古都的鐵道交通攻略-b20cfb.html
 published: 2026-05-24
-quality_score: 7.5
+quality_score: 8.6
 tags: 奈良, 古都交通, 鐵道攻略, 關西旅遊, 世界遺產
 license: CC BY 4.0
 ---

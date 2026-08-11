@@ -6,7 +6,7 @@ category: business-hotels
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-business-hotels-fukuoka-福岡商務飯店實用指南-重視機能與移動效率的商旅住宿選擇-129a3e.html
 published: 2026-06-24
-quality_score: 6.5
+quality_score: 8.6
 tags: 福岡商務飯店, 博多住宿, 天神商旅, 九州出差, 商務旅行住宿
 license: CC BY 4.0
 ---

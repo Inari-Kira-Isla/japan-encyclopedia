@@ -6,7 +6,7 @@ category: temples-shrines
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-temples-shrines-hiroshima-廣島參道物語-從原子彈爆炸到和平祈願的信仰軌跡-b60fad.html
 published: 2026-04-07
-quality_score: 6.5
+quality_score: 8.7
 tags: 廣島宗教之旅, 和平能量景點, 廣島神社推薦, 寺院參訪指南, 宮島嚴島神社
 license: CC BY 4.0
 ---

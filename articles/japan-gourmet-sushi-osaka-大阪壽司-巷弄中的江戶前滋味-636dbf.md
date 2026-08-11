@@ -6,7 +6,7 @@ category: sushi
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sushi-osaka-大阪壽司-巷弄中的江戶前滋味-636dbf.html
 published: 2026-06-12
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪壽司, 大阪美食, 江戶前壽司, 瀨戶內海, 大阪必吃
 license: CC BY 4.0
 ---

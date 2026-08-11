@@ -6,7 +6,7 @@ category: izakaya
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-izakaya-sendai-仙台居酒屋的職場夜色-經濟中心的酒場文化與在地人的下班日常-4b906a.html
 published: 2026-06-02
-quality_score: 6.5
+quality_score: 8.7
 tags: 仙台居酒屋, 東北美食, 職場文化, 仙台夜生活, 廣瀨通
 license: CC BY 4.0
 ---

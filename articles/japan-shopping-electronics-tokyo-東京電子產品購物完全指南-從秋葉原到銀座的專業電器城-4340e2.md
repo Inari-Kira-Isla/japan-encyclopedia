@@ -6,7 +6,7 @@ category: electronics
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-electronics-tokyo-東京電子產品購物完全指南-從秋葉原到銀座的專業電器城-4340e2.html
 published: 2026-06-26
-quality_score: 7.5
+quality_score: 8.8
 tags: 东京电子, 秋叶原电器, 东京购物, 日本电器, 新宿3C
 license: CC BY 4.0
 ---

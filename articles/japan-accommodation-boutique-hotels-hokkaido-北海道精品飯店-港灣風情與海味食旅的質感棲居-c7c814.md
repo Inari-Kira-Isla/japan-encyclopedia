@@ -6,7 +6,7 @@ category: boutique-hotels
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-hokkaido-北海道精品飯店-港灣風情與海味食旅的質感棲居-c7c814.html
 published: 2026-06-11
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道精品飯店, 港灣住宿, 海鮮美食, 溫泉旅宿, 冬季北海道
 license: CC BY 4.0
 ---

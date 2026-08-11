@@ -6,7 +6,7 @@ category: island-hopping
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-island-hopping-sendai-仙台跳島之旅-不一樣的松島灣島嶼發現-4dec9d.html
 published: 2026-06-15
-quality_score: 6.5
+quality_score: 8.6
 tags: 仙台跳島, 松島灣, 日本三景, 松島海岸, 仙台自由行
 license: CC BY 4.0
 ---

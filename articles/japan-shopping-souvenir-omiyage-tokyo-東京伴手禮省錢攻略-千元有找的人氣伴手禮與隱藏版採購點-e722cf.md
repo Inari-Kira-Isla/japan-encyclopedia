@@ -6,7 +6,7 @@ category: souvenir-omiyage
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-souvenir-omiyage-tokyo-東京伴手禮省錢攻略-千元有找的人氣伴手禮與隱藏版採購點-e722cf.html
 published: 2026-06-21
-quality_score: 7.5
+quality_score: 8.7
 tags: 東京伴手禮, 省錢攻略, 千元伴手禮, 日本旅遊, 東京購物
 license: CC BY 4.0
 ---

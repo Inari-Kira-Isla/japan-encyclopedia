@@ -6,7 +6,7 @@ category: gaming-arcades
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-gaming-arcades-fukuoka-福岡遊戲中心-九州街機文化的熱血據點-14a1d7.html
 published: 2026-04-06
-quality_score: 6.5
+quality_score: 8.8
 tags: 福岡娛樂, 日本遊戲中心, 九州旅遊, 街機文化, 博多夜生活
 license: CC BY 4.0
 ---

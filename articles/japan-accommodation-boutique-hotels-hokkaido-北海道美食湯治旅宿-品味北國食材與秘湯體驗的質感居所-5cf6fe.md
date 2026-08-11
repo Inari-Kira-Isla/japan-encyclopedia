@@ -6,7 +6,7 @@ category: boutique-hotels
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-hokkaido-北海道美食湯治旅宿-品味北國食材與秘湯體驗的質感居所-5cf6fe.html
 published: 2026-06-22
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道美食旅宿, 札幌住宿, 登別溫泉, 函館朝市, 十勝豚
 license: CC BY 4.0
 ---

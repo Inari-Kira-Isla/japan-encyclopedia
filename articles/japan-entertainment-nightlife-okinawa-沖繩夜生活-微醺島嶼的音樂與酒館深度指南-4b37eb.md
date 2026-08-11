@@ -6,7 +6,7 @@ category: nightlife
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-okinawa-沖繩夜生活-微醺島嶼的音樂與酒館深度指南-4b37eb.html
 published: 2026-06-22
-quality_score: 6.5
+quality_score: 8.3
 tags: 沖繩夜生活, 沖繩酒吧, 泡盛, 沖繩音樂, 國際通
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: garden-parks
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-tokyo-東京花園公園-都市中的庭院美學散步-737a35.html
 published: 2026-06-11
-quality_score: 6.5
+quality_score: 8.6
 tags: 東京花園公園, 日式庭院, 江戶庭院, 都市綠地, 東京散步
 license: CC BY 4.0
 ---

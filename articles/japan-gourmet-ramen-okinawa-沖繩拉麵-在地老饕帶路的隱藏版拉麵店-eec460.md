@@ -6,7 +6,7 @@ category: ramen
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-ramen-okinawa-沖繩拉麵-在地老饕帶路的隱藏版拉麵店-eec460.html
 published: 2026-06-29
-quality_score: 6.5
+quality_score: 8.6
 tags: 沖繩拉麵,  Okinawa Ramen, 在地美食, 日本拉麵, 沖繩美食
 license: CC BY 4.0
 ---

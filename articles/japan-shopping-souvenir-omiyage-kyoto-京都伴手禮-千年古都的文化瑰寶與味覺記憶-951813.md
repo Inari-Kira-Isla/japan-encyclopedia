@@ -6,7 +6,7 @@ category: souvenir-omiyage
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-souvenir-omiyage-kyoto-京都伴手禮-千年古都的文化瑰寶與味覺記憶-951813.html
 published: 2026-03-15
-quality_score: 7.5
+quality_score: 8.7
 tags: 京都伴手禮, 日本文化, 抹茶, 和菓子, 傳統工藝
 license: CC BY 4.0
 ---

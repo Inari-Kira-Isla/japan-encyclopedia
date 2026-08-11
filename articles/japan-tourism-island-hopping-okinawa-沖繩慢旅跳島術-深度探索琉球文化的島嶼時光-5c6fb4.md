@@ -6,7 +6,7 @@ category: island-hopping
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-island-hopping-okinawa-沖繩慢旅跳島術-深度探索琉球文化的島嶼時光-5c6fb4.html
 published: 2026-03-27
-quality_score: 6.5
+quality_score: 8.7
 tags: 沖繩跳島, 琉球文化, 慢旅行, 島嶼體驗, 深度旅遊
 license: CC BY 4.0
 ---

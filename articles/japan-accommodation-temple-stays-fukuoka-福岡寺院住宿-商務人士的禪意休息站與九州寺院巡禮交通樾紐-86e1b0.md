@@ -6,7 +6,7 @@ category: temple-stays
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-temple-stays-fukuoka-福岡寺院住宿-商務人士的禪意休息站與九州寺院巡禮交通樾紐-86e1b0.html
 published: 2026-06-18
-quality_score: 6.5
+quality_score: 8.7
 tags: 福岡寺廟住宿, 商務禪修, 九州寺院, 太宰府天滿宮, 雲仙溫泉
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: temple-stays
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-temple-stays-hiroshima-廣島宿坊記-日本唯一-和平-主題的寺院住宿體驗-bef487.html
 published: 2026-06-15
-quality_score: 6.5
+quality_score: 8.7
 tags: 廣島寺廟住宿, 廣島和平之旅, 日本寺院住宿, 宮島住宿, 廣島文化體驗
 license: CC BY 4.0
 ---

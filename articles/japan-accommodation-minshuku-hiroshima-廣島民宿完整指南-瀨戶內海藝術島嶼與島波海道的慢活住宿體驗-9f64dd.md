@@ -6,7 +6,7 @@ category: minshuku
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-hiroshima-廣島民宿完整指南-瀨戶內海藝術島嶼與島波海道的慢活住宿體驗-9f64dd.html
 published: 2026-07-04
-quality_score: 6.5
+quality_score: 8.8
 tags: 廣島民宿, 瀨戶內海, 藝術祭, 島波海道, 直島
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: temples-shrines
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-temples-shrines-hiroshima-廣島寺社巡禮-穿越傷痛走向和平的精神之旅-71242b.html
 published: 2026-06-28
-quality_score: 6.5
+quality_score: 8.6
 tags: 廣島神社, 廣島寺院, 宮島嚴島神社, 日本世界遺產, 廣島和平
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: department-stores
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-department-stores-fukuoka-福岡購物達人帶路-天神-博多核心區人氣百貨與地下街導覽-1301e5.html
 published: 2026-06-11
-quality_score: 7.5
+quality_score: 8.7
 tags: 福岡購物, 天神地下街, 岩田屋, 索拉迪亞, 博多運河城
 license: CC BY 4.0
 ---

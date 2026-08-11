@@ -6,7 +6,7 @@ category: tempura
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tempura-sendai-仙台現代天婦羅-季節海鮮與創新技法的美味邂逅-fa9e66.html
 published: 2026-03-28
-quality_score: 6.5
+quality_score: 8.8
 tags: 仙台美食, 天婦羅, 季節海鮮, 現代日式料理, 東北美食
 license: CC BY 4.0
 ---

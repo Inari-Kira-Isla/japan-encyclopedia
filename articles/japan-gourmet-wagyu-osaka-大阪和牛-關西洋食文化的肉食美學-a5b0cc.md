@@ -6,7 +6,7 @@ category: wagyu
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-wagyu-osaka-大阪和牛-關西洋食文化的肉食美學-a5b0cc.html
 published: 2026-06-02
-quality_score: 6.5
+quality_score: 9.0
 tags: 大阪美食, 關西南紀, 和牛燒肉, 日本料理, 暗默知
 license: CC BY 4.0
 ---

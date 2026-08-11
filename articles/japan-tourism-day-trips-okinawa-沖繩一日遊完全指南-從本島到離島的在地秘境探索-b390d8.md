@@ -6,7 +6,7 @@ category: day-trips
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-okinawa-沖繩一日遊完全指南-從本島到離島的在地秘境探索-b390d8.html
 published: 2026-04-07
-quality_score: 6.5
+quality_score: 8.8
 tags: 沖繩一日遊, 北部秘境, 浮潛體驗, 古宇利島, 海灘推薦
 license: CC BY 4.0
 ---

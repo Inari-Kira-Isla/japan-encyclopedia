@@ -6,7 +6,7 @@ category: izakaya
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-izakaya-sendai-仙台居酒屋完全指南-在-美食之都-探索東北的酒食文化-303f42.html
 published: 2026-04-07
-quality_score: 6.5
+quality_score: 8.7
 tags: 仙台, 居酒屋, 日本料理, 東北美食, 清酒
 license: CC BY 4.0
 ---

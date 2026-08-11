@@ -6,7 +6,7 @@ category: rental-cars
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-okinawa-沖繩租車省錢攻略-從取車點到季節選擇的的成本明細-5575f9.html
 published: 2026-06-24
-quality_score: 7.5
+quality_score: 8.4
 tags: 沖繩租車, 沖繩自駕, 那霸機場租車, 石垣島租車, 宮古島租車
 license: CC BY 4.0
 ---

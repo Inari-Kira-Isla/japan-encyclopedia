@@ -6,7 +6,7 @@ category: ski-resorts
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-ski-resorts-nara-奈良縣滑雪的可能性-關西平原地區的冬季戶外體驗-0acc0b.html
 published: 2026-05-24
-quality_score: 6.5
+quality_score: 8.3
 tags: 奈良滑雪, 關西冬季戶外, 奈良旅遊, 琵琶湖valley, 下呂溫泉滑雪場
 license: CC BY 4.0
 ---

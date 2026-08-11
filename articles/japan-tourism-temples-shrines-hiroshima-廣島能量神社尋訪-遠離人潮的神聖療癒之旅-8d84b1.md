@@ -6,7 +6,7 @@ category: temples-shrines
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-temples-shrines-hiroshima-廣島能量神社尋訪-遠離人潮的神聖療癒之旅-8d84b1.html
 published: 2026-05-23
-quality_score: 6.5
+quality_score: 8.5
 tags: 廣島神社, 能量景點, 山岳信仰, 治癒之旅, 非觀光廣島
 license: CC BY 4.0
 ---

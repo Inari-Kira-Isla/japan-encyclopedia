@@ -6,7 +6,7 @@ category: electronics
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-electronics-hiroshima-廣島電子產品購物指南-從和平紀念之都出發的科技消費體驗-77a1a2.html
 published: 2026-06-08
-quality_score: 7.5
+quality_score: 8.4
 tags: 廣島電子產品, 廣島購物, 日本電器行, 廣島自由行, 和平紀念之旅
 license: CC BY 4.0
 ---

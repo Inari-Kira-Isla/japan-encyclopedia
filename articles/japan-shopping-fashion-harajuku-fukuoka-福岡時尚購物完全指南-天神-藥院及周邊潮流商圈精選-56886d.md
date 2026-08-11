@@ -6,7 +6,7 @@ category: fashion-harajuku
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-fashion-harajuku-fukuoka-福岡時尚購物完全指南-天神-藥院及周邊潮流商圈精選-56886d.html
 published: 2026-06-17
-quality_score: 7.5
+quality_score: 8.5
 tags: 福岡購物, 天神商圈, 藥院古著, 九州時尚, 九州購物指南
 license: CC BY 4.0
 ---

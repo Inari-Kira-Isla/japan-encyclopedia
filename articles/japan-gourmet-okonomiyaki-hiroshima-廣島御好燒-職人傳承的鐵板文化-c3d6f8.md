@@ -6,7 +6,7 @@ category: okonomiyaki
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-okonomiyaki-hiroshima-廣島御好燒-職人傳承的鐵板文化-c3d6f8.html
 published: 2026-03-27
-quality_score: 6.5
+quality_score: 8.7
 tags: 廣島美食, 御好燒, 職人文化, 鐵板料理, 在地體驗
 license: CC BY 4.0
 ---

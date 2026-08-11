@@ -6,7 +6,7 @@ category: ski-resorts
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-ski-resorts-hiroshima-廣島縣滑雪場-山海之間的冬季驚喜-cd2cad.html
 published: 2026-06-18
-quality_score: 6.5
+quality_score: 8.4
 tags: 廣島滑雪, 廣島縣滑雪場, 中國地方滑雪, 日本滑雪自由行, 瀨戶內海滑雪
 license: CC BY 4.0
 ---

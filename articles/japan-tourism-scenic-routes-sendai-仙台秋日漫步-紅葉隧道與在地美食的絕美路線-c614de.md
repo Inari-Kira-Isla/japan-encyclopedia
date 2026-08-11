@@ -6,7 +6,7 @@ category: scenic-routes
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-sendai-仙台秋日漫步-紅葉隧道與在地美食的絕美路線-c614de.html
 published: 2026-04-11
-quality_score: 6.5
+quality_score: 8.7
 tags: 仙台, 秋季, 賞葉, 美食, 自駕
 license: CC BY 4.0
 ---

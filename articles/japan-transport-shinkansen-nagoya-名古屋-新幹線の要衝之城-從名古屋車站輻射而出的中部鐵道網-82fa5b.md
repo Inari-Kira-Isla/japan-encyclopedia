@@ -6,7 +6,7 @@ category: shinkansen
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-nagoya-名古屋-新幹線の要衝之城-從名古屋車站輻射而出的中部鐵道網-82fa5b.html
 published: 2026-06-03
-quality_score: 7.5
+quality_score: 8.6
 tags: 名古屋, 新干线, 东海道新干线, 爱知县, 中部地方
 license: CC BY 4.0
 ---

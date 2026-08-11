@@ -6,7 +6,7 @@ category: tonkatsu
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tonkatsu-kobe-神戶炸豬排-工業港都的勞動者美食-14cc90.html
 published: 2026-03-29
-quality_score: 6.5
+quality_score: 8.7
 tags: 神戶美食, 炸豬排, 工業文化, 港都料理, 關西美食
 license: CC BY 4.0
 ---

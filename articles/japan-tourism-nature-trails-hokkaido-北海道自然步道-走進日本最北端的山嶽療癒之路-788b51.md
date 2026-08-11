@@ -6,7 +6,7 @@ category: nature-trails
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-hokkaido-北海道自然步道-走進日本最北端的山嶽療癒之路-788b51.html
 published: 2026-05-23
-quality_score: 6.5
+quality_score: 8.8
 tags: 北海道步道, 日本自然徒步, 大雪山, 知床五湖, 積丹半島
 license: CC BY 4.0
 ---

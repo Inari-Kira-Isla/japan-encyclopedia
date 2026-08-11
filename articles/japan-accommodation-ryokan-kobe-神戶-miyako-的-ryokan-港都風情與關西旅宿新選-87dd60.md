@@ -6,7 +6,7 @@ category: ryokan
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-kobe-神戶-miyako-的-ryokan-港都風情與關西旅宿新選-87dd60.html
 published: 2026-06-02
-quality_score: 6.5
+quality_score: 8.7
 tags: 神戶住宿, Ryokan, 關西溫泉, 有馬溫泉, 神戶觀光
 license: CC BY 4.0
 ---

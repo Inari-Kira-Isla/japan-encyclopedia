@@ -6,7 +6,7 @@ category: scenic-routes
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-hokkaido-北海道鐵道風景線-不用開車的秘境探索之旅-2c8859.html
 published: 2026-05-23
-quality_score: 6.5
+quality_score: 8.5
 tags: 北海道, 鐵道旅行, 風景名勝, 自然秘境, 不用開車
 license: CC BY 4.0
 ---

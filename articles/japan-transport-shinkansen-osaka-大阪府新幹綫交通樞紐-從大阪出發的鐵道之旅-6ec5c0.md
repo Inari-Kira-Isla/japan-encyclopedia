@@ -6,7 +6,7 @@ category: shinkansen
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-osaka-大阪府新幹綫交通樞紐-從大阪出發的鐵道之旅-6ec5c0.html
 published: 2026-06-01
-quality_score: 7.5
+quality_score: 8.9
 tags: 大阪新干线, 新大阪车站, 关西交通, 山阳新干线, 东海道新干线
 license: CC BY 4.0
 ---

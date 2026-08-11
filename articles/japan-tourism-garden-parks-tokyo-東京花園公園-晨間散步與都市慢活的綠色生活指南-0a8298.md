@@ -6,7 +6,7 @@ category: garden-parks
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-tokyo-東京花園公園-晨間散步與都市慢活的綠色生活指南-0a8298.html
 published: 2026-07-01
-quality_score: 6.5
+quality_score: 8.4
 tags: 東京花園公園, 晨間散步, 都市慢活, 小石川後樂園, 濱離宮恩賜庭園
 license: CC BY 4.0
 ---

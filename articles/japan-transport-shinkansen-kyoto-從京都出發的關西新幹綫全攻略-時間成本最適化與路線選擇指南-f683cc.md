@@ -6,7 +6,7 @@ category: shinkansen
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-kyoto-從京都出發的關西新幹綫全攻略-時間成本最適化與路線選擇指南-f683cc.html
 published: 2026-06-17
-quality_score: 7.5
+quality_score: 8.6
 tags: 京都新干线, 东海道新干线, 关西交通, 京都车站, 新干线攻略
 license: CC BY 4.0
 ---

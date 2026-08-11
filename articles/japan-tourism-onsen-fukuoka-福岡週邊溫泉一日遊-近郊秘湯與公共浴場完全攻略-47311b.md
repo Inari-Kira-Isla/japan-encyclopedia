@@ -6,7 +6,7 @@ category: onsen
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-onsen-fukuoka-福岡週邊溫泉一日遊-近郊秘湯與公共浴場完全攻略-47311b.html
 published: 2026-05-24
-quality_score: 6.5
+quality_score: 8.7
 tags: 福冈温泉, 九州温泉, 福冈一日游, 日本温泉文化, 福冈旅游
 license: CC BY 4.0
 ---

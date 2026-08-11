@@ -6,7 +6,7 @@ category: rental-cars
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-kanazawa-金澤租車經濟學-2026年空運漲價時代的自駕優勢與海岸線攻略-9fc235.html
 published: 2026-06-22
-quality_score: 7.5
+quality_score: 8.6
 tags: 金澤租車, 石川縣自駕, 日本海側美食, 冰見魚港, 輪島早市
 license: CC BY 4.0
 ---

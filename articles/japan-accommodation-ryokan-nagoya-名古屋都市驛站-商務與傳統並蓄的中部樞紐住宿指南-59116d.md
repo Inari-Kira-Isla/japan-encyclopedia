@@ -6,7 +6,7 @@ category: ryokan
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-nagoya-名古屋都市驛站-商務與傳統並蓄的中部樞紐住宿指南-59116d.html
 published: 2026-06-21
-quality_score: 6.5
+quality_score: 8.6
 tags: 名古屋, Ryokan, 中部國際機場, 都市住宿, 日本中部
 license: CC BY 4.0
 ---

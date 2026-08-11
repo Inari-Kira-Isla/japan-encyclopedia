@@ -6,7 +6,7 @@ category: love-hotels
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-love-hotels-kobe-神戶三宮・元町區住宿導覽-港都情侶約會的便利選擇-41af25.html
 published: 2026-06-07
-quality_score: 6.5
+quality_score: 8.7
 tags: 神戶住宿, 三宮, 元町, 港都約會, 關西住宿
 license: CC BY 4.0
 ---

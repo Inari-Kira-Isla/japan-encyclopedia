@@ -6,7 +6,7 @@ category: scenic-routes
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-nara-奈良東山秘徑-自駕朝聖線與隱藏版能量景點-ac5128.html
 published: 2026-06-25
-quality_score: 6.5
+quality_score: 8.7
 tags: 奈良自駕路線, 吉野山櫻花, 修驗道聖地, 朝聖旅遊, 山中溫泉
 license: CC BY 4.0
 ---

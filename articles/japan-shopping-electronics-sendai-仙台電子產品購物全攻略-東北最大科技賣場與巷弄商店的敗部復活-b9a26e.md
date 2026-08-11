@@ -6,7 +6,7 @@ category: electronics
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-electronics-sendai-仙台電子產品購物全攻略-東北最大科技賣場與巷弄商店的敗部復活-b9a26e.html
 published: 2026-05-24
-quality_score: 7.5
+quality_score: 8.1
 tags: 仙台電子產品, 東北購物, 日本電器, 二手3C, 仙台自由行
 license: CC BY 4.0
 ---

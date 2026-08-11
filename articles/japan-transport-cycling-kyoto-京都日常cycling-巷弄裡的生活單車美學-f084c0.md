@@ -6,7 +6,7 @@ category: cycling
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-kyoto-京都日常cycling-巷弄裡的生活單車美學-f084c0.html
 published: 2026-05-24
-quality_score: 7.5
+quality_score: 8.8
 tags: 京都單車, 京都自由行, 京都深度遊, 京都巷弄探索, 京都不為人知的角落
 license: CC BY 4.0
 ---

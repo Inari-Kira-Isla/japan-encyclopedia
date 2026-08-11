@@ -6,7 +6,7 @@ category: scenic-routes
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-hiroshima-廣島山海單車漫遊路線-踩踏之間的瀨戶內深度風光-117d57.html
 published: 2026-06-14
-quality_score: 6.5
+quality_score: 8.7
 tags: 廣島單車路線, 瀨戶內海單車, 廣島風景道路, 宮島口自行車道, 三次skyline
 license: CC BY 4.0
 ---

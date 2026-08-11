@@ -6,7 +6,7 @@ category: anime-manga
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-nara-奈良動漫創作者生態-古都小巷裡的另類創意王國-18e848.html
 published: 2026-06-28
-quality_score: 6.5
+quality_score: 8.6
 tags: 奈良動漫, 奈良漫畫, 日本古都創作者, 同人誌, 獨立漫畫家
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: garden-parks
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-hokkaido-北海道花園公園-雪國的冬日花園美學-78e3f7.html
 published: 2026-05-22
-quality_score: 6.5
+quality_score: 8.6
 tags: 北海道花園, 冬季北海道, 雪國花園, 花園公園推薦, 札幌大通公園
 license: CC BY 4.0
 ---

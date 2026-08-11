@@ -6,7 +6,7 @@ category: garden-parks
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-osaka-大阪花園公園巡禮-城市綠洲的悠然時光-c9b0b5.html
 published: 2026-03-18
-quality_score: 6.5
+quality_score: 7.5
 tags: 大阪, 花園, 公園, 櫻花, 日本庭園
 license: CC BY 4.0
 ---

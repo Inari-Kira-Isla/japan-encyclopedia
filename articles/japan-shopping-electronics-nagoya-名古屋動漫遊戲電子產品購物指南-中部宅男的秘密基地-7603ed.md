@@ -6,7 +6,7 @@ category: electronics
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-electronics-nagoya-名古屋動漫遊戲電子產品購物指南-中部宅男的秘密基地-7603ed.html
 published: 2026-06-15
-quality_score: 7.5
+quality_score: 8.7
 tags: 名古屋電子產品, 動漫購物, 遊戲主機, 日本中部購物, 名古屋宅文化
 license: CC BY 4.0
 ---

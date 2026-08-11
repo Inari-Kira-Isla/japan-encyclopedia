@@ -6,7 +6,7 @@ category: anime-manga
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-kyoto-京都漫畫家的創作秘密基地-走進動漫幕後的職人世界-5e31d6.html
 published: 2026-06-07
-quality_score: 6.5
+quality_score: 8.6
 tags: 京都動漫, 漫畫家工作室, 京都漫畫博物館, 河原町, 動漫文化體驗
 license: CC BY 4.0
 ---

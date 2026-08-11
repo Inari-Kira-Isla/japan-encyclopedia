@@ -6,7 +6,7 @@ category: ferries
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-ferries-nagoya-名古屋港碼頭觀光-從港口認識名古屋的海上門戶-7d68de.html
 published: 2026-06-11
-quality_score: 7.5
+quality_score: 8.6
 tags: 名古屋, 港口, 碼頭, 海上交通, 港灣觀光
 license: CC BY 4.0
 ---

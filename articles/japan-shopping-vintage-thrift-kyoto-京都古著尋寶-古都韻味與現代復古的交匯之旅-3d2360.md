@@ -6,7 +6,7 @@ category: vintage-thrift
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-vintage-thrift-kyoto-京都古著尋寶-古都韻味與現代復古的交匯之旅-3d2360.html
 published: 2026-06-03
-quality_score: 7.5
+quality_score: 8.6
 tags: 京都古著, 京都 thrift, 京都復古, 京都購物, 關西古著
 license: CC BY 4.0
 ---

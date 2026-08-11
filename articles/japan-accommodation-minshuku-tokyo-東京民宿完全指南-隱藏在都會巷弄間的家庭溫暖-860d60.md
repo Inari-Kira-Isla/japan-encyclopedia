@@ -6,7 +6,7 @@ category: minshuku
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-tokyo-東京民宿完全指南-隱藏在都會巷弄間的家庭溫暖-860d60.html
 published: 2026-06-14
-quality_score: 6.5
+quality_score: 8.6
 tags: 東京民宿, 東京住宿, 下町風情, 民宿推薦, 東京自由行
 license: CC BY 4.0
 ---

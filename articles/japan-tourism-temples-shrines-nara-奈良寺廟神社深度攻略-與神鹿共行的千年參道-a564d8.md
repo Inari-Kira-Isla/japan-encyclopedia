@@ -6,7 +6,7 @@ category: temples-shrines
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-temples-shrines-nara-奈良寺廟神社深度攻略-與神鹿共行的千年參道-a564d8.html
 published: 2026-04-08
-quality_score: 6.5
+quality_score: 8.6
 tags: 奈良寺廟, 日本世界遺產, 神鹿體驗, 奈良自由行, 關西旅遊
 license: CC BY 4.0
 ---

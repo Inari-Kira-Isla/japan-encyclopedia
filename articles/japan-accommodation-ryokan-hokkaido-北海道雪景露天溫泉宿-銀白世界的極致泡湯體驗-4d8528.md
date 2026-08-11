@@ -6,7 +6,7 @@ category: ryokan
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-hokkaido-北海道雪景露天溫泉宿-銀白世界的極致泡湯體驗-4d8528.html
 published: 2026-06-28
-quality_score: 6.5
+quality_score: 8.4
 tags: 北海道溫泉, 雪景溫泉, 山岳型Ryokan, 貸切溫泉, 冬季北海道
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: wagyu
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-wagyu-nagoya-名古屋和牛的真面目-揭開品牌命名背後的產地真相-f454b2.html
 published: 2026-05-22
-quality_score: 6.5
+quality_score: 8.6
 tags: 名古屋和牛, 三重縣和牛, 和牛供應鏈, 中部地区美食, 燒肉推荐
 license: CC BY 4.0
 ---

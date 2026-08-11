@@ -6,7 +6,7 @@ category: duty-free
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-duty-free-okinawa-沖繩自駕遊免稅購物指南-遠離人潮的隱藏版免稅商店-8fa9bc.html
 published: 2026-07-06
-quality_score: 7.5
+quality_score: 8.7
 tags: 沖繩免稅, 自駕購物, 沖繩自駕, 讀谷村, AEON MALL
 license: CC BY 4.0
 ---

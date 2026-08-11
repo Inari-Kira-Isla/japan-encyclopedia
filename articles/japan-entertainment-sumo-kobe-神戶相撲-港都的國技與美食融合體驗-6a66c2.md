@@ -6,7 +6,7 @@ category: sumo
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-kobe-神戶相撲-港都的國技與美食融合體驗-6a66c2.html
 published: 2026-04-08
-quality_score: 6.5
+quality_score: 8.5
 tags: 神戶相撲, 相撲美食, 關西文化體驗, 神戶旅行, 港都文化
 license: CC BY 4.0
 ---

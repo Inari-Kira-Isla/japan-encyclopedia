@@ -6,7 +6,7 @@ category: okonomiyaki
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-okonomiyaki-nagoya-名古屋宵夜的靈魂-深夜御好燒的在地美味-7478a5.html
 published: 2026-06-06
-quality_score: 6.5
+quality_score: 8.6
 tags: 名古屋美食, 御好燒, 宵夜, 味噌醬汁, 名古屋
 license: CC BY 4.0
 ---

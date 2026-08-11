@@ -6,7 +6,7 @@ category: sushi
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sushi-okinawa-沖繩壽司的海洋風土-從亞熱帶漁場到-counter-前的職人技藝-55e3ff.html
 published: 2026-06-11
-quality_score: 6.5
+quality_score: 8.7
 tags: 沖繩壽司, 亞熱帶海鮮, 那霸美食,  Okinawa Sushi, 日本最南端
 license: CC BY 4.0
 ---

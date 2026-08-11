@@ -6,7 +6,7 @@ category: buses
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-buses-fukuoka-福岡公車交通全攻略-e24404.html
 published: 2026-06-01
-quality_score: 7.5
+quality_score: 8.5
 tags: 福岡, 公車交通, 九州自助, 旅遊攻略, 日本交通
 license: CC BY 4.0
 ---

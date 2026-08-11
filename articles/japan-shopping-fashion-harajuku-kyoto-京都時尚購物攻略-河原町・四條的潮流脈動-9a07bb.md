@@ -6,7 +6,7 @@ category: fashion-harajuku
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-fashion-harajuku-kyoto-京都時尚購物攻略-河原町・四條的潮流脈動-9a07bb.html
 published: 2026-06-21
-quality_score: 7.5
+quality_score: 8.8
 tags: 京都購物, 河原町, 四條購物, 古著, 日本潮流
 license: CC BY 4.0
 ---

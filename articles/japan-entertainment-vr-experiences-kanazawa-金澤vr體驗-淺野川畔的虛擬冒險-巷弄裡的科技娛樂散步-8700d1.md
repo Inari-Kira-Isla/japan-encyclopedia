@@ -6,7 +6,7 @@ category: vr-experiences
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-vr-experiences-kanazawa-金澤vr體驗-淺野川畔的虛擬冒險-巷弄裡的科技娛樂散步-8700d1.html
 published: 2026-05-25
-quality_score: 6.5
+quality_score: 8.8
 tags: 金澤VR體驗, 金澤娛樂, 加拿大VR, 淺野川景點, 金澤自由行
 license: CC BY 4.0
 ---

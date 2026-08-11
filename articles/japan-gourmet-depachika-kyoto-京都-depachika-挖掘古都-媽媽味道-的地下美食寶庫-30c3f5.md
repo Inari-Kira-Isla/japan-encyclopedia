@@ -6,7 +6,7 @@ category: depachika
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-depachika-kyoto-京都-depachika-挖掘古都-媽媽味道-的地下美食寶庫-30c3f5.html
 published: 2026-05-25
-quality_score: 6.5
+quality_score: 8.7
 tags: 京都Depachika, 京野菜, 京都地下食品, 醃渍物, 京都美食
 license: CC BY 4.0
 ---

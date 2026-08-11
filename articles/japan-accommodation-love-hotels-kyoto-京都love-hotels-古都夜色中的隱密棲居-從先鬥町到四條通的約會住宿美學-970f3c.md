@@ -6,7 +6,7 @@ category: love-hotels
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-love-hotels-kyoto-京都love-hotels-古都夜色中的隱密棲居-從先鬥町到四條通的約會住宿美學-970f3c.html
 published: 2026-06-28
-quality_score: 6.5
+quality_score: 8.8
 tags: 京都住宿, 情侶約會, 古都夜景, 先斗町, 四條通
 license: CC BY 4.0
 ---

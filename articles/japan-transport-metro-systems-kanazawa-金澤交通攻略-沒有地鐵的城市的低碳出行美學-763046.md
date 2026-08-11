@@ -6,7 +6,7 @@ category: metro-systems
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-kanazawa-金澤交通攻略-沒有地鐵的城市的低碳出行美學-763046.html
 published: 2026-06-16
-quality_score: 7.5
+quality_score: 8.9
 tags: 金澤交通, 金澤自助, 金澤巴士, 石川縣旅遊, 北陸自由行
 license: CC BY 4.0
 ---

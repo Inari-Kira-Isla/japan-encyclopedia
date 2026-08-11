@@ -6,7 +6,7 @@ category: souvenir-omiyage
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-souvenir-omiyage-fukuoka-福岡機場伴手禮完全攻略-出境大廳採購指南與九州限定特產-fd6cb5.html
 published: 2026-04-06
-quality_score: 7.5
+quality_score: 8.8
 tags: 福岡機場, 伴手禮, 九州限定, 機場免稅, 明太子
 license: CC BY 4.0
 ---

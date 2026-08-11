@@ -6,7 +6,7 @@ category: love-hotels
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-love-hotels-nara-奈良主題房間精選-情侶旅館特色與選擇指南-a7c1b3.html
 published: 2026-06-15
-quality_score: 6.5
+quality_score: 8.5
 tags: 奈良住宿, 情侶旅館, 古都之旅, 主題房間, 關西自由行
 license: CC BY 4.0
 ---

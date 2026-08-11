@@ -6,7 +6,7 @@ category: vr-experiences
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-vr-experiences-kobe-神戶親子vr樂園-一家大小的虛擬實境冒險指南-210464.html
 published: 2026-06-13
-quality_score: 6.5
+quality_score: 8.6
 tags: 神戶VR, 親子遊樂, 關西家庭旅遊, 神戶景點, 虛擬實境體驗
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: karaoke
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-karaoke-hokkaido-北海道卡拉ok-雪國歌聲中的溫暖娛樂體驗-d00641.html
 published: 2026-03-15
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道娛樂, 日本卡拉OK, 札幌夜生活, 函館夜景, 雪國體驗
 license: CC BY 4.0
 ---

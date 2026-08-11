@@ -6,7 +6,7 @@ category: day-trips
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-osaka-大阪職人小鎮一日遊-探訪關西產業心臟的隱藏版深度旅遊-5d176b.html
 published: 2026-07-05
-quality_score: 6.5
+quality_score: 8.9
 tags: 大阪一日遊, 關西深度遊, 產業參觀, 職人體驗, 泉州毛巾
 license: CC BY 4.0
 ---

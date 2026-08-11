@@ -6,7 +6,7 @@ category: ryokan
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-nara-奈良秘湯巡禮-關西機場旁的隱藏版溫泉鄉與精品旅宿-c52928.html
 published: 2026-07-02
-quality_score: 6.5
+quality_score: 8.5
 tags: 奈良溫泉, 吉野山溫泉, 信貴山溫泉, 天見溫泉, 奈良町民宿
 license: CC BY 4.0
 ---

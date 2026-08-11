@@ -6,7 +6,7 @@ category: kaiseki
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-kaiseki-hokkaido-北海道懷石料理-北國食材的季節詩篇-147a8a.html
 published: 2026-04-07
-quality_score: 6.5
+quality_score: 8.9
 tags: 北海道, 懷石料理, 日本美食, 海膽, 帆立貝
 license: CC BY 4.0
 ---

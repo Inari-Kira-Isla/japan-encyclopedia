@@ -6,7 +6,7 @@ category: izakaya
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-izakaya-kyoto-京都伏見-月桂冠小徑-清酒廠周邊的隱藏酒場-817c56.html
 published: 2026-05-23
-quality_score: 6.5
+quality_score: 8.8
 tags: 京都Izakaya, 京都清酒, 伏見稻荷, 京都美食, 在地體驗
 license: CC BY 4.0
 ---

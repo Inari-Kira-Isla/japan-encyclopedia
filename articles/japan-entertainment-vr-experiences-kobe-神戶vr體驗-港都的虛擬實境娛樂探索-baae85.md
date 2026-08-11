@@ -6,7 +6,7 @@ category: vr-experiences
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-vr-experiences-kobe-神戶vr體驗-港都的虛擬實境娛樂探索-baae85.html
 published: 2026-03-15
-quality_score: 6.5
+quality_score: 8.7
 tags: 神戶旅遊, VR體驗, 科技娛樂, 港都文化, 虛擬實境
 license: CC BY 4.0
 ---

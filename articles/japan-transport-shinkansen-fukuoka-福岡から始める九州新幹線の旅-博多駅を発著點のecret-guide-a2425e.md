@@ -6,7 +6,7 @@ category: shinkansen
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-fukuoka-福岡から始める九州新幹線の旅-博多駅を発著點のecret-guide-a2425e.html
 published: 2026-06-08
-quality_score: 7.5
+quality_score: 8.9
 tags: 九州新干线, 博多站, 鹿儿岛,  Nagasaki, 由布院
 license: CC BY 4.0
 ---

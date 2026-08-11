@@ -6,7 +6,7 @@ category: depachika
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-depachika-nara-奈良depachika的日常風景-古都用味蕾閱讀在地生活-6440aa.html
 published: 2026-05-24
-quality_score: 6.5
+quality_score: 8.7
 tags: 奈良美食, Depachika, 日本百货地下食品, 奈良伴手禮, 大和野菜
 license: CC BY 4.0
 ---

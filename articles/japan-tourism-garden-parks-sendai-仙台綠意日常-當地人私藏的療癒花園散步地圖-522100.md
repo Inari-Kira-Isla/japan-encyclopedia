@@ -6,7 +6,7 @@ category: garden-parks
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-sendai-仙台綠意日常-當地人私藏的療癒花園散步地圖-522100.html
 published: 2026-06-24
-quality_score: 6.5
+quality_score: 8.7
 tags: 仙台, 花園公園, 杜之都, 日本東北, 療癒旅行
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: capsule-hotels
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-capsule-hotels-kyoto-京都膠囊旅館隱藏版住宿指南-遠離人潮的巷弄住宿提案-256edd.html
 published: 2026-06-10
-quality_score: 6.5
+quality_score: 8.5
 tags: 京都膠囊旅館, 京都住宿推薦, 京都自由行, 京都不花大錢住宿, 京都背包客住宿
 license: CC BY 4.0
 ---

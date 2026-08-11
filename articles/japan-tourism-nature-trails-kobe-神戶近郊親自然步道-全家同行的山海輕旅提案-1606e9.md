@@ -6,7 +6,7 @@ category: nature-trails
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-kobe-神戶近郊親自然步道-全家同行的山海輕旅提案-1606e9.html
 published: 2026-06-05
-quality_score: 6.5
+quality_score: 8.5
 tags: 神戶步道, 神戶自然, 六甲山, 有馬溫泉, 親子旅遊
 license: CC BY 4.0
 ---

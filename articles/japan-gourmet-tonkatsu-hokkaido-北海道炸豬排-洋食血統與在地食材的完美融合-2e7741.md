@@ -6,7 +6,7 @@ category: tonkatsu
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tonkatsu-hokkaido-北海道炸豬排-洋食血統與在地食材的完美融合-2e7741.html
 published: 2026-05-31
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道炸豬排, とんかつ, 札幌美食, 帶廣美食, 旭川美食
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: kaiseki
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-kaiseki-kobe-神戶懷石活用手冊-瀨戶內海滋味的在地演繹-1cdefd.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 8.7
 tags: 神戶懷石, 瀨戶內海, 兵庫縣, 日本料理, 懷石推薦
 license: CC BY 4.0
 ---

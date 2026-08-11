@@ -6,7 +6,7 @@ category: historical-districts
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-sendai-仙台歷史街區-穿越時空的商鋪與武家之謎-4aeb15.html
 published: 2026-04-07
-quality_score: 6.5
+quality_score: 8.7
 tags: 仙台, 歷史街區, 日本東北, 城下町, 伊達政宗
 license: CC BY 4.0
 ---

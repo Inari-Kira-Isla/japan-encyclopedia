@@ -6,7 +6,7 @@ category: kaiseki
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-kaiseki-tokyo-東京商務懷石-國際金融中心的料理進化論-123dcc.html
 published: 2026-04-06
-quality_score: 6.5
+quality_score: 8.8
 tags: 東京美食, 商務餐廳, 懷石料理, 日本料理, 高級餐廳
 license: CC BY 4.0
 ---

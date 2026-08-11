@@ -6,7 +6,7 @@ category: duty-free
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-duty-free-kyoto-京都當地質感小店尋寶-非觀光客視角的隱藏版好店清單-e73db3.html
 published: 2026-06-02
-quality_score: 7.5
+quality_score: 8.7
 tags: 京都購物, 非主流小店, 質感選物, 在地體驗, 傳統工藝
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: izakaya
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-izakaya-okinawa-沖繩居酒屋的深夜美味-本地人愛去的隱藏酒場與島嶼風土酒食文化-205d0d.html
 published: 2026-06-15
-quality_score: 6.5
+quality_score: 8.7
 tags: 沖繩居酒屋, 沖繩美食, 泡盛, 那霸夜生活, 沖繩自由行
 license: CC BY 4.0
 ---

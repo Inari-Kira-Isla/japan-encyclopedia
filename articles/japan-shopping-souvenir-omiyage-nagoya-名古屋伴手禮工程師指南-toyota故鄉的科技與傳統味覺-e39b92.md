@@ -6,7 +6,7 @@ category: souvenir-omiyage
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-souvenir-omiyage-nagoya-名古屋伴手禮工程師指南-toyota故鄉的科技與傳統味覺-e39b92.html
 published: 2026-06-20
-quality_score: 7.5
+quality_score: 8.6
 tags: 名古屋伴手禮, 名古屋土產, Toyota故鄉, 名古屋購物, 中部國際空港
 license: CC BY 4.0
 ---

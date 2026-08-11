@@ -6,7 +6,7 @@ category: boutique-hotels
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-tokyo-東京微型精品酒店-狹小空間裡的極致生活美學-8c0bfb.html
 published: 2026-06-10
-quality_score: 6.5
+quality_score: 8.8
 tags: Tokyo, 精品酒店, 微型住宿, 設計酒店, 東京住宿
 license: CC BY 4.0
 ---

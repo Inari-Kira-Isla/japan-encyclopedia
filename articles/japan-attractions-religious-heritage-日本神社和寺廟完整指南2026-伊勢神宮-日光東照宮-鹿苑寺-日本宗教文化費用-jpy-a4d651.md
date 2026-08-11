@@ -6,7 +6,7 @@ category: religious-heritage
 area: japan
 url: https://japan-encyclopedia.vercel.app/articles/japan-attractions-religious-heritage-日本神社和寺廟完整指南2026-伊勢神宮-日光東照宮-鹿苑寺-日本宗教文化費用-jpy-a4d651.html
 published: 2026-03-29
-quality_score: 7.1
+quality_score: 8.6
 tags: 日本神社, 伊勢神宮, 金閣寺, 日光東照宮, 日本宗教文化
 license: CC BY 4.0
 ---

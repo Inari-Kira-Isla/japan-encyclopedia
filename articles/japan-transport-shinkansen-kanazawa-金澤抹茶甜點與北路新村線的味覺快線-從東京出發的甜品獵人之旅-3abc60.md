@@ -6,7 +6,7 @@ category: shinkansen
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-kanazawa-金澤抹茶甜點與北路新村線的味覺快線-從東京出發的甜品獵人之旅-3abc60.html
 published: 2026-06-24
-quality_score: 7.5
+quality_score: 8.4
 tags: 北路新村線, 金澤抹茶甜點, 金澤甜點推薦, 日本抹茶, 金澤旅遊
 license: CC BY 4.0
 ---

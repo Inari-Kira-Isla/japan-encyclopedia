@@ -6,7 +6,7 @@ category: love-hotels
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-love-hotels-kyoto-京都love-hotels-預算友善的情侶住宿選擇與實用指南-cd7bed.html
 published: 2026-04-06
-quality_score: 6.5
+quality_score: 8.9
 tags: 京都, 情侶住宿, 日本住宿, 京都車站, 祇園
 license: CC BY 4.0
 ---

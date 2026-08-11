@@ -6,7 +6,7 @@ category: duty-free
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-duty-free-kanazawa-金澤免稅購物攻略-北陸新幹線樞紐的季節限定與折扣策略-2498e1.html
 published: 2026-04-04
-quality_score: 7.5
+quality_score: 8.7
 tags: 金澤, 免稅購物, 北陸新幹線, 季節折扣, 工藝品
 license: CC BY 4.0
 ---

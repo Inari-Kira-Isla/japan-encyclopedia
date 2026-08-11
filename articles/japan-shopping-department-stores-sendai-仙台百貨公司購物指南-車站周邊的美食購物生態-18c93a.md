@@ -6,7 +6,7 @@ category: department-stores
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-department-stores-sendai-仙台百貨公司購物指南-車站周邊的美食購物生態-18c93a.html
 published: 2026-06-24
-quality_score: 7.5
+quality_score: 8.5
 tags: 仙台, 東北購物, 車站周邊, 食品賣場, 伴手禮
 license: CC BY 4.0
 ---

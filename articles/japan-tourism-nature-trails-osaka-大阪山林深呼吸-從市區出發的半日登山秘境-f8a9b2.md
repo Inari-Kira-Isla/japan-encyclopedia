@@ -6,7 +6,7 @@ category: nature-trails
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-osaka-大阪山林深呼吸-從市區出發的半日登山秘境-f8a9b2.html
 published: 2026-06-07
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪登山, 自然步道, 戶外活動, 半日遊, 山林深呼吸
 license: CC BY 4.0
 ---

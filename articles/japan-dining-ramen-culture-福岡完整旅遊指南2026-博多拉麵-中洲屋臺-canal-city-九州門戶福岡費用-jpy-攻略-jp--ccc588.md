@@ -6,7 +6,7 @@ category: ramen-culture
 area: japan
 url: https://japan-encyclopedia.vercel.app/articles/japan-dining-ramen-culture-福岡完整旅遊指南2026-博多拉麵-中洲屋臺-canal-city-九州門戶福岡費用-jpy-攻略-jp--ccc588.html
 published: 2026-03-29
-quality_score: 7.6
+quality_score: 8.4
 tags: 福岡拉麵, 博多屋台, 中洲屋台, 太宰府天滿宮, 福岡旅遊
 license: CC BY 4.0
 ---

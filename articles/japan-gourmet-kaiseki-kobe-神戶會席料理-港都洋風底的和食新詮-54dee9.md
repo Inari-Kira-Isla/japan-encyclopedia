@@ -6,7 +6,7 @@ category: kaiseki
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-kaiseki-kobe-神戶會席料理-港都洋風底的和食新詮-54dee9.html
 published: 2026-06-26
-quality_score: 6.5
+quality_score: 8.7
 tags: 神戶, 會席料理, 瀨戶內海, 神戶美食, 關西料理
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: theme-parks
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-theme-parks-sendai-仙台都市輕娛樂-東北門戶的非主題樂園體驗手冊-239db0.html
 published: 2026-06-16
-quality_score: 6.5
+quality_score: 8.7
 tags: 仙台主題樂園, 仙台娛樂, 東北旅遊, 仙台七夕祭, 日本主題樂園
 license: CC BY 4.0
 ---

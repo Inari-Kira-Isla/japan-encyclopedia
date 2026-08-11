@@ -6,7 +6,7 @@ category: metro-systems
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-tokyo-東京地下鐵晨間活用指南-搶在上班人潮前的在地慢遊-ff77a2.html
 published: 2026-06-20
-quality_score: 7.5
+quality_score: 8.9
 tags: 東京地下鐵, 晨間旅遊, Tokyo Metro, 東京交通, 上班通勤時間
 license: CC BY 4.0
 ---

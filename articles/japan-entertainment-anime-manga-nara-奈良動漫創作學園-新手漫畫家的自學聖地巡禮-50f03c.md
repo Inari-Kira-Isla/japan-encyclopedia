@@ -6,7 +6,7 @@ category: anime-manga
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-nara-奈良動漫創作學園-新手漫畫家的自學聖地巡禮-50f03c.html
 published: 2026-06-08
-quality_score: 6.5
+quality_score: 8.8
 tags: 奈良動漫, 漫才教室, 漫畫自學, 日本創作體驗, 奈良旅遊
 license: CC BY 4.0
 ---

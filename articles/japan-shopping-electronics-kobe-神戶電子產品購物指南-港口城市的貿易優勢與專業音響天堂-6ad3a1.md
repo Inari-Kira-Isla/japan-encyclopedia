@@ -6,7 +6,7 @@ category: electronics
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-electronics-kobe-神戶電子產品購物指南-港口城市的貿易優勢與專業音響天堂-6ad3a1.html
 published: 2026-04-04
-quality_score: 7.5
+quality_score: 8.7
 tags: 神戶購物, 電子產品, 專業音響, 免稅購物, 港口優勢
 license: CC BY 4.0
 ---

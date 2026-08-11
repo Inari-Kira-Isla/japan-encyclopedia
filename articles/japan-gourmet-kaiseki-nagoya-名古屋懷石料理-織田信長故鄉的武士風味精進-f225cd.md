@@ -6,7 +6,7 @@ category: kaiseki
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-kaiseki-nagoya-名古屋懷石料理-織田信長故鄉的武士風味精進-f225cd.html
 published: 2026-04-06
-quality_score: 6.5
+quality_score: 8.7
 tags: 懷石料理, 名古屋美食, 日本料理, 愛知縣, 八丁味噌
 license: CC BY 4.0
 ---

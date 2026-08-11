@@ -6,7 +6,7 @@ category: kaiseki
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-kaiseki-kanazawa-金澤懷石料理-日本海側的豐盛滋味-2a9c66.html
 published: 2026-06-14
-quality_score: 6.5
+quality_score: 8.8
 tags: 金澤懷石料理, 加賀料理, 日本海美食, 石川縣美食, 金澤旅遊
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: tonkatsu
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tonkatsu-sendai-仙台豚カツ-東北寒冬裡的暖胃洋食-車站周邊的隱藏版美味-800cc5.html
 published: 2026-06-21
-quality_score: 6.5
+quality_score: 8.6
 tags: 仙台美食, 東北洋食, 炸豬排, 在地美食, 冬季限定
 license: CC BY 4.0
 ---

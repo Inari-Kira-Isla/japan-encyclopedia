@@ -6,7 +6,7 @@ category: depachika
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-depachika-kanazawa-金澤depachika-工藝之城引路的食巷探索-當地職人之味與加賀美食的地下交會-f3d194.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 8.4
 tags: 金澤Depachika, 能登食材, 加賀料理, 金澤美食, 日本地下食品賣場
 license: CC BY 4.0
 ---

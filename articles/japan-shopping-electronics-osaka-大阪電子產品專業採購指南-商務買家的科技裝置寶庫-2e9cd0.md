@@ -6,7 +6,7 @@ category: electronics
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-electronics-osaka-大阪電子產品專業採購指南-商務買家的科技裝置寶庫-2e9cd0.html
 published: 2026-04-04
-quality_score: 7.5
+quality_score: 8.6
 tags: 大阪電子產品, 專業採購, 批發市場, 工業設備, 商務旅遊
 license: CC BY 4.0
 ---

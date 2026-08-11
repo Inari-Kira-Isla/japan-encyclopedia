@@ -6,7 +6,7 @@ category: business-hotels
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-business-hotels-sendai-仙台商務住宿選擇邏輯-從行程目的與預算規劃的理性決策指南-ecd458.html
 published: 2026-06-13
-quality_score: 6.5
+quality_score: 8.6
 tags: 仙台商務住宿, 東北商務旅行, 日本商務飯店, 出差住宿指南, Sendai Business Hotel
 license: CC BY 4.0
 ---

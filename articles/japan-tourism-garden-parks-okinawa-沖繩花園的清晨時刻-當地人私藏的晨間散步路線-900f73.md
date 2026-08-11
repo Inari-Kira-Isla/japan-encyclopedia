@@ -6,7 +6,7 @@ category: garden-parks
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-okinawa-沖繩花園的清晨時刻-當地人私藏的晨間散步路線-900f73.html
 published: 2026-06-30
-quality_score: 6.5
+quality_score: 8.7
 tags: 沖繩花園, 清晨體驗, 自然健行, 亞熱帶風情, 在地秘境
 license: CC BY 4.0
 ---

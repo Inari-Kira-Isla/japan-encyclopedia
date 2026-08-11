@@ -6,7 +6,7 @@ category: yakitori
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-yakitori-osaka-大阪燒鳥-天下の廚房的串燒學-a13135.html
 published: 2026-06-15
-quality_score: 6.5
+quality_score: 8.9
 tags: 大阪燒鳥, 關西串燒, 大阪美食, 天下の厨房, 日本燒鳥
 license: CC BY 4.0
 ---

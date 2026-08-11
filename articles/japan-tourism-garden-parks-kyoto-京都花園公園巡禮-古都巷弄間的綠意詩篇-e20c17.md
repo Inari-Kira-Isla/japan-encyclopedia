@@ -6,7 +6,7 @@ category: garden-parks
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-kyoto-京都花園公園巡禮-古都巷弄間的綠意詩篇-e20c17.html
 published: 2026-06-21
-quality_score: 6.5
+quality_score: 8.7
 tags: 京都, 花園, 公園, 散步, 日本庭園
 license: CC BY 4.0
 ---

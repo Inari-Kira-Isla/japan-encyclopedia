@@ -6,7 +6,7 @@ category: department-stores
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-department-stores-kobe-神戶三宮購物完全攻略-港都核心商圈逛街地圖-6348eb.html
 published: 2026-06-17
-quality_score: 7.5
+quality_score: 8.8
 tags: 神戶購物, 三宮商圈, 神戶地下街, 神戶大丸, 元町商圈
 license: CC BY 4.0
 ---

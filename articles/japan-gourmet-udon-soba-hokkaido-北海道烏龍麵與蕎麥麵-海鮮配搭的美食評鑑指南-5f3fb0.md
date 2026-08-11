@@ -6,7 +6,7 @@ category: udon-soba
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-udon-soba-hokkaido-北海道烏龍麵與蕎麥麵-海鮮配搭的美食評鑑指南-5f3fb0.html
 published: 2026-03-27
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道美食, 烏龍麵, 蕎麥麵, 海鮮料理, 日本麵食文化
 license: CC BY 4.0
 ---

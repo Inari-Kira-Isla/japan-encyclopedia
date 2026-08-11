@@ -6,7 +6,7 @@ category: day-trips
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-okinawa-沖繩中部山原一日遊-探訪北部山嶽地帶的原始亜熱帶森林-c24369.html
 published: 2026-06-03
-quality_score: 6.5
+quality_score: 8.9
 tags: 沖繩自駕一日遊, 山原森林浴, 亜熱帶自然秘境, 沖繩深度文化體驗, 北部山岳地带
 license: CC BY 4.0
 ---

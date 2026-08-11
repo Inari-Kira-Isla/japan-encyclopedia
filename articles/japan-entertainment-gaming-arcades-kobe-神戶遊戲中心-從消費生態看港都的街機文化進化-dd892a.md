@@ -6,7 +6,7 @@ category: gaming-arcades
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-gaming-arcades-kobe-神戶遊戲中心-從消費生態看港都的街機文化進化-dd892a.html
 published: 2026-03-22
-quality_score: 6.5
+quality_score: 8.7
 tags: 神戶娛樂, 遊戲中心, 街機文化, 日本旅遊, 港都生活
 license: CC BY 4.0
 ---

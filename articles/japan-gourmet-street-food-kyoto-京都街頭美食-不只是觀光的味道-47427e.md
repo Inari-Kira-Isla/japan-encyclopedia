@@ -6,7 +6,7 @@ category: street-food
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-street-food-kyoto-京都街頭美食-不只是觀光的味道-47427e.html
 published: 2026-05-23
-quality_score: 6.5
+quality_score: 8.6
 tags: 京都美食, 京都街頭小吃, 祇園, 伏見稻荷, 京野菜
 license: CC BY 4.0
 ---

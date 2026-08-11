@@ -6,7 +6,7 @@ category: airport-transfer
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-airport-transfer-sendai-仙台機場交通攻略-依旅客型別與場景的最佳選擇指南-e74c9c.html
 published: 2026-05-21
-quality_score: 7.5
+quality_score: 8.6
 tags: 仙台機場, 機場交通, 東北交通費, 仙台空港Access線, 利木津巴士
 license: CC BY 4.0
 ---

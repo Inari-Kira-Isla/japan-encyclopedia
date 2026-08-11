@@ -6,7 +6,7 @@ category: fashion-harajuku
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-fashion-harajuku-okinawa-沖繩時尚購物新地標-那霸國際通的潮流聖地深度遊-ccb1c2.html
 published: 2026-06-07
-quality_score: 7.5
+quality_score: 8.7
 tags: 沖繩購物, 那霸時尚, 國際通潮流, 美濱美國村, 南國風穿搭
 license: CC BY 4.0
 ---

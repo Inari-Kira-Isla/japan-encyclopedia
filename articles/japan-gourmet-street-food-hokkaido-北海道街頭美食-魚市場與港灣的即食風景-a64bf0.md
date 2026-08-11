@@ -6,7 +6,7 @@ category: street-food
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-street-food-hokkaido-北海道街頭美食-魚市場與港灣的即食風景-a64bf0.html
 published: 2026-05-21
-quality_score: 6.5
+quality_score: 8.5
 tags: 北海道, 街頭美食, 海鮮, 魚市場, 函館
 license: CC BY 4.0
 ---

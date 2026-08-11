@@ -6,7 +6,7 @@ category: temples-shrines
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-temples-shrines-hiroshima-廣島能量景點指南-尋訪和平之都的神聖引力場-ac38ba.html
 published: 2026-04-07
-quality_score: 6.5
+quality_score: 8.7
 tags: 廣島寺廟, 廣島神社, 宮島嚴島神社, 能量景點, 和平之都
 license: CC BY 4.0
 ---

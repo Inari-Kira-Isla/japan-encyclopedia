@@ -6,7 +6,7 @@ category: izakaya
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-izakaya-nagoya-名古屋居酒屋完全指南-品味東海地方獨特酒食文化-995d7a.html
 published: 2026-03-14
-quality_score: 6.5
+quality_score: 8.7
 tags: 名古屋美食, 居酒屋, 日本酒文化, 手羽先, 赤味噌
 license: CC BY 4.0
 ---

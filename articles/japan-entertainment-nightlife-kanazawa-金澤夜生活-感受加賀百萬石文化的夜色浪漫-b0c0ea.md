@@ -6,7 +6,7 @@ category: nightlife
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-kanazawa-金澤夜生活-感受加賀百萬石文化的夜色浪漫-b0c0ea.html
 published: 2026-06-15
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤夜生活, 北陸小京都, 加賀百萬石, 東茶屋街, 日本海海鮮
 license: CC BY 4.0
 ---

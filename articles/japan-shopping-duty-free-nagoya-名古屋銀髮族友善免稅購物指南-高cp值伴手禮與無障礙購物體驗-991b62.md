@@ -6,7 +6,7 @@ category: duty-free
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-duty-free-nagoya-名古屋銀髮族友善免稅購物指南-高cp值伴手禮與無障礙購物體驗-991b62.html
 published: 2026-06-28
-quality_score: 7.5
+quality_score: 8.7
 tags: 名古屋免稅, 銀髮族旅遊, 中部國際空港, 日本購物, 友善購物
 license: CC BY 4.0
 ---

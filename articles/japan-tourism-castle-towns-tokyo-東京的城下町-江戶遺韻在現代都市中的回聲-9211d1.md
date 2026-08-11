@@ -6,7 +6,7 @@ category: castle-towns
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-castle-towns-tokyo-東京的城下町-江戶遺韻在現代都市中的回聲-9211d1.html
 published: 2026-03-22
-quality_score: 6.5
+quality_score: 8.7
 tags: 东京景点, 城下町, 历史街区, 江户文化, 深度旅游
 license: CC BY 4.0
 ---

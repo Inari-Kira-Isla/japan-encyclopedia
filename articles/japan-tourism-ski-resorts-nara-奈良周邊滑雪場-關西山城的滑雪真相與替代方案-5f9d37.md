@@ -6,7 +6,7 @@ category: ski-resorts
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-ski-resorts-nara-奈良周邊滑雪場-關西山城的滑雪真相與替代方案-5f9d37.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 8.5
 tags: 奈良滑雪, 關西滑雪場, 日本滑雪推薦, 奈良旅遊, Winter Sports Japan
 license: CC BY 4.0
 ---

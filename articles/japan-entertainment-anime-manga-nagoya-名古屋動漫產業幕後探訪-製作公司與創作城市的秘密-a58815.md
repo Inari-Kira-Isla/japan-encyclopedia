@@ -6,7 +6,7 @@ category: anime-manga
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-nagoya-名古屋動漫產業幕後探訪-製作公司與創作城市的秘密-a58815.html
 published: 2026-06-12
-quality_score: 6.5
+quality_score: 8.5
 tags: 名古屋動漫, 動畫製作公司, TRIGGER, SUNRISE, 大須觀音
 license: CC BY 4.0
 ---

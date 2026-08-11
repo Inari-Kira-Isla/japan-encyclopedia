@@ -6,7 +6,7 @@ category: tonkatsu
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tonkatsu-nagoya-名古屋味噌豚排-中部地方的和風洋食代表-f09b7c.html
 published: 2026-06-04
-quality_score: 6.5
+quality_score: 8.8
 tags: 名古屋美食, 味噌豚カツ, 中部地方洋食, 炸豬排, 名古屋
 license: CC BY 4.0
 ---

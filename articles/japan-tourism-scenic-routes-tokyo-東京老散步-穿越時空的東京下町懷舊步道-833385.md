@@ -6,7 +6,7 @@ category: scenic-routes
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-tokyo-東京老散步-穿越時空的東京下町懷舊步道-833385.html
 published: 2026-06-19
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京散步, 下町風情, 懷舊之旅, 東京深度遊, 老街探索
 license: CC BY 4.0
 ---

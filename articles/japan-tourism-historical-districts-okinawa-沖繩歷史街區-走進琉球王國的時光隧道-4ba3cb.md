@@ -6,7 +6,7 @@ category: historical-districts
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-okinawa-沖繩歷史街區-走進琉球王國的時光隧道-4ba3cb.html
 published: 2026-05-31
-quality_score: 6.5
+quality_score: 8.7
 tags: 沖繩歷史街區, 琉球王國, 首里城, 牧志公設市場, 糸滿市
 license: CC BY 4.0
 ---

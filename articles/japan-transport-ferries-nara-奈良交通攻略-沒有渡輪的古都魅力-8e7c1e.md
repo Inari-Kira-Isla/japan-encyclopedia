@@ -6,7 +6,7 @@ category: ferries
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-ferries-nara-奈良交通攻略-沒有渡輪的古都魅力-8e7c1e.html
 published: 2026-06-02
-quality_score: 7.5
+quality_score: 8.7
 tags: 奈良, 日本古都, 春日大社, 東大寺, 奈良公園
 license: CC BY 4.0
 ---

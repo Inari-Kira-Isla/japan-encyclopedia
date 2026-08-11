@@ -6,7 +6,7 @@ category: tempura
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tempura-hokkaido-北海道天婦羅-極北海域的鮮甜密碼-cbed66.html
 published: 2026-06-11
-quality_score: 6.5
+quality_score: 8.3
 tags: 北海道天婦羅, 北海食材, 產地食堂, 帶子天婦羅, 日本美食
 license: CC BY 4.0
 ---

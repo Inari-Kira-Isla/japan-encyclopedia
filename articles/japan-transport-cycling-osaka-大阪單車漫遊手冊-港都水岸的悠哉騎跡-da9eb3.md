@@ -6,7 +6,7 @@ category: cycling
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-osaka-大阪單車漫遊手冊-港都水岸的悠哉騎跡-da9eb3.html
 published: 2026-06-02
-quality_score: 7.5
+quality_score: 8.8
 tags: 大阪單車, 大阪騎行, 大阪自由行, 港灣單車道, 大阪自行車
 license: CC BY 4.0
 ---

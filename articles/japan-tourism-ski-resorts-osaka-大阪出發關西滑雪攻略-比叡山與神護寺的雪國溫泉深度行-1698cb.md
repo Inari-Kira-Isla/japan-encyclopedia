@@ -6,7 +6,7 @@ category: ski-resorts
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-ski-resorts-osaka-大阪出發關西滑雪攻略-比叡山與神護寺的雪國溫泉深度行-1698cb.html
 published: 2026-05-21
-quality_score: 6.5
+quality_score: 8.3
 tags: 關西滑雪, 比叡山, 神護寺, 鞍馬山, 大阪出發滑雪
 license: CC BY 4.0
 ---

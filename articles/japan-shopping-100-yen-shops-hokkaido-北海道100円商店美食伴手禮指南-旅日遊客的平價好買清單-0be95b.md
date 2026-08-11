@@ -6,7 +6,7 @@ category: 100-yen-shops
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-100-yen-shops-hokkaido-北海道100円商店美食伴手禮指南-旅日遊客的平價好買清單-0be95b.html
 published: 2026-06-14
-quality_score: 7.5
+quality_score: 8.5
 tags: 北海道, 100円商店, 伴手禮, 札幌, 平價購物
 license: CC BY 4.0
 ---

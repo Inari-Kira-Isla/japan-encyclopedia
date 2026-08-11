@@ -6,7 +6,7 @@ category: fashion-harajuku
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-fashion-harajuku-hiroshima-廣島的年輕時尚文化-不同於東京原宿的在地潮流-dbe41e.html
 published: 2026-03-18
-quality_score: 7.5
+quality_score: 8.7
 tags: 廣島購物, 廣島時尚, 廣島自由行, 日本中國地方, 日本購物攻略
 license: CC BY 4.0
 ---

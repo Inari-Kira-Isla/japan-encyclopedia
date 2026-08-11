@@ -6,7 +6,7 @@ category: buses
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-buses-tokyo-東京巴士深夜文化-24小時都市的移動美學-2b4009.html
 published: 2026-04-05
-quality_score: 7.5
+quality_score: 8.5
 tags: 東京交通, 都市巴士, 夜間交通, 日本文化, 深度旅遊
 license: CC BY 4.0
 ---

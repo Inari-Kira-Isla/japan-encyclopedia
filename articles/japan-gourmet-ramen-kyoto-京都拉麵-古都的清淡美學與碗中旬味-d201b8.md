@@ -6,7 +6,7 @@ category: ramen
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-ramen-kyoto-京都拉麵-古都的清淡美學與碗中旬味-d201b8.html
 published: 2026-07-03
-quality_score: 6.5
+quality_score: 8.8
 tags: 京都拉麵, 京料理, 日本拉麵, 京都美食, 祇園拉麵
 license: CC BY 4.0
 ---

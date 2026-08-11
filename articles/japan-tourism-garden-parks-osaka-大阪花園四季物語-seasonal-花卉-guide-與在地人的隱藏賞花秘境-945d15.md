@@ -6,7 +6,7 @@ category: garden-parks
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-osaka-大阪花園四季物語-seasonal-花卉-guide-與在地人的隱藏賞花秘境-945d15.html
 published: 2026-06-08
-quality_score: 6.5
+quality_score: 8.6
 tags: 大阪花園, 賞櫻景點, 春季花卉, 大阪公園, 城市綠洲
 license: CC BY 4.0
 ---

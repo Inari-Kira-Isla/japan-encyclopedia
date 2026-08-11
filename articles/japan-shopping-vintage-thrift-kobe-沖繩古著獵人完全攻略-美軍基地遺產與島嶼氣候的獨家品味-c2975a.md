@@ -6,7 +6,7 @@ category: vintage-thrift
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-vintage-thrift-kobe-沖繩古著獵人完全攻略-美軍基地遺產與島嶼氣候的獨家品味-c2975a.html
 published: 2026-06-11
-quality_score: 7.5
+quality_score: 8.8
 tags: 沖繩古著, 古著獵人, 美軍基地, 軍用古著, Aloha Wear
 license: CC BY 4.0
 ---

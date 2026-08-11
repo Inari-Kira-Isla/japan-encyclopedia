@@ -6,7 +6,7 @@ category: minshuku
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-kobe-神戶民宿完全指南-山與港之間的日常旅宿-6e94a3.html
 published: 2026-06-12
-quality_score: 6.5
+quality_score: 8.3
 tags: 神戶民宿, 神戶住宿, Minshuku, 神戶自由行, 六甲山
 license: CC BY 4.0
 ---

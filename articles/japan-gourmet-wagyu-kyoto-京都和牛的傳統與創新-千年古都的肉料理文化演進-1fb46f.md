@@ -6,7 +6,7 @@ category: wagyu
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-wagyu-kyoto-京都和牛的傳統與創新-千年古都的肉料理文化演進-1fb46f.html
 published: 2026-04-04
-quality_score: 6.5
+quality_score: 8.9
 tags: 京都美食, 和牛料理, 懷石料理, 傳統文化, 季節料理
 license: CC BY 4.0
 ---

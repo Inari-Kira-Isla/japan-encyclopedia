@@ -6,7 +6,7 @@ category: festivals-matsuri
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-festivals-matsuri-hiroshima-廣島年度祭典時序-從新年參拜到聖誕夜景的完整旅行規劃-8401f4.html
 published: 2026-06-16
-quality_score: 6.5
+quality_score: 8.6
 tags: 廣島祭典, 廣島Matsuri, 瀨戶內海祭典, 日本夏季祭典, 廣島旅行
 license: CC BY 4.0
 ---

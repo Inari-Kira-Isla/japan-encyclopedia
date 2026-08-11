@@ -6,7 +6,7 @@ category: minshuku
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-sendai-仙台市民宿完全指南-驛前通り與廣瀨通的在地住宿體驗-978d02.html
 published: 2026-06-04
-quality_score: 6.5
+quality_score: 8.3
 tags: 民宿, 仙台, 東北, 驛前通り, 廣瀨通
 license: CC BY 4.0
 ---

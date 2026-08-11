@@ -6,7 +6,7 @@ category: boutique-hotels
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-hokkaido-北海道精品酒店-雪國美學與現代設計的完美交融-a48e2c.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.6
 tags: 北海道住宿, 精品酒店, 雪國美學, 季節性美食, 設計型住宿
 license: CC BY 4.0
 ---

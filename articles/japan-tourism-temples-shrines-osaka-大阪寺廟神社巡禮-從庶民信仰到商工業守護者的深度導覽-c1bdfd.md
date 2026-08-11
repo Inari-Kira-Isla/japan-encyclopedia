@@ -6,7 +6,7 @@ category: temples-shrines
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-temples-shrines-osaka-大阪寺廟神社巡禮-從庶民信仰到商工業守護者的深度導覽-c1bdfd.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 8.6
 tags: 大阪神社, 大阪寺廟, 住道大社, 四天王寺, 今宮戎神社
 license: CC BY 4.0
 ---

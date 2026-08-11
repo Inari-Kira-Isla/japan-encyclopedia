@@ -6,7 +6,7 @@ category: department-stores
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-department-stores-osaka-大阪生活型錄-巷仔內の日常購物好去處-f433d7.html
 published: 2026-06-13
-quality_score: 7.5
+quality_score: 8.9
 tags: 大阪購物, 大阪生活, 日本百圓店, 關西購物, 大阪深度遊
 license: CC BY 4.0
 ---

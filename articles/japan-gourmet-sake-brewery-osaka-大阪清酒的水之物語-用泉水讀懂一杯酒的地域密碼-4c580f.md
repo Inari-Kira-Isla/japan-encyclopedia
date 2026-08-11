@@ -6,7 +6,7 @@ category: sake-brewery
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sake-brewery-osaka-大阪清酒的水之物語-用泉水讀懂一杯酒的地域密碼-4c580f.html
 published: 2026-06-19
-quality_score: 6.5
+quality_score: 8.5
 tags: 大阪清酒, 釀酒廠, 微釀酒, 伏流水, 清酒體驗
 license: CC BY 4.0
 ---

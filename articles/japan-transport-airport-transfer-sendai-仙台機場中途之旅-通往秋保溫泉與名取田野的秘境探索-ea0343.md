@@ -6,7 +6,7 @@ category: airport-transfer
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-airport-transfer-sendai-仙台機場中途之旅-通往秋保溫泉與名取田野的秘境探索-ea0343.html
 published: 2026-05-25
-quality_score: 7.5
+quality_score: 8.6
 tags: 仙台機場, 中途旅遊, 名取市, 秋保溫泉, 東北自助
 license: CC BY 4.0
 ---

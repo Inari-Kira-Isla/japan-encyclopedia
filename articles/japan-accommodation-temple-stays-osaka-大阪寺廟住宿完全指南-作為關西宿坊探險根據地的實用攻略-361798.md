@@ -6,7 +6,7 @@ category: temple-stays
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-temple-stays-osaka-大阪寺廟住宿完全指南-作為關西宿坊探險根據地的實用攻略-361798.html
 published: 2026-06-24
-quality_score: 6.5
+quality_score: 8.5
 tags: 大阪寺廟住宿, 關西宿坊, 高野山住宿, 奈良宿坊, 日本佛教體驗
 license: CC BY 4.0
 ---

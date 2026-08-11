@@ -6,7 +6,7 @@ category: castle-towns
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-castle-towns-osaka-大阪城周邊散步-藏在城下町的巷弄美食與日常風情-20cd00.html
 published: 2026-07-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪城下町, 大阪城周邊, 大阪散步, 關西自由行, 日本城鎮
 license: CC BY 4.0
 ---

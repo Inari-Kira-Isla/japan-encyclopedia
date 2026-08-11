@@ -6,7 +6,7 @@ category: festivals-matsuri
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-festivals-matsuri-okinawa-沖繩秋冬祭典推薦-琉球故鄉的非季節限定體驗-dc67d7.html
 published: 2026-05-24
-quality_score: 6.5
+quality_score: 8.6
 tags: 沖繩旅遊, 秋冬祭典, 琉球文化, 沖繩自由行, 非季節限定
 license: CC BY 4.0
 ---

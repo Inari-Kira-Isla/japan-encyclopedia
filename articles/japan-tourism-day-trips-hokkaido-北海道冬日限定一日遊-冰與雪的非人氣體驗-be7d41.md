@@ -6,7 +6,7 @@ category: day-trips
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-hokkaido-北海道冬日限定一日遊-冰與雪的非人氣體驗-be7d41.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 8.8
 tags: 北海道一日遊, 道東景點, 冬季限定, 自然溫泉, 鐵路之旅
 license: CC BY 4.0
 ---

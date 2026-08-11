@@ -6,7 +6,7 @@ category: airport-transfer
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-airport-transfer-osaka-東京巴士交通攻略-市區公車初學者入門指南-0193fc.html
 published: 2026-06-06
-quality_score: 6.5
+quality_score: 7.8
 tags: 東京交通, 巴士遊覽, 東京自由行, 市區公車, 自助旅行
 license: CC BY 4.0
 ---

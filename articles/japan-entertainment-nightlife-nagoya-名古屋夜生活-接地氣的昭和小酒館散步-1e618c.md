@@ -6,7 +6,7 @@ category: nightlife
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-nagoya-名古屋夜生活-接地氣的昭和小酒館散步-1e618c.html
 published: 2026-06-03
-quality_score: 6.5
+quality_score: 8.5
 tags: 名古屋, 夜生活, 昭和, 居酒屋, 名古屋コーチン
 license: CC BY 4.0
 ---

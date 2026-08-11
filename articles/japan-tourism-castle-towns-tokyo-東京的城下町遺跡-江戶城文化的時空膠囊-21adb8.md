@@ -6,7 +6,7 @@ category: castle-towns
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-castle-towns-tokyo-東京的城下町遺跡-江戶城文化的時空膠囊-21adb8.html
 published: 2026-03-24
-quality_score: 6.5
+quality_score: 8.8
 tags: 東京, 江戶文化, 城下町, 歷史建築, 町屋
 license: CC BY 4.0
 ---

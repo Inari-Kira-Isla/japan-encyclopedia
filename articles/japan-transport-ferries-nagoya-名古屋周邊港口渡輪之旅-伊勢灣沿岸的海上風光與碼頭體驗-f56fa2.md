@@ -6,7 +6,7 @@ category: ferries
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-ferries-nagoya-名古屋周邊港口渡輪之旅-伊勢灣沿岸的海上風光與碼頭體驗-f56fa2.html
 published: 2026-06-06
-quality_score: 7.5
+quality_score: 8.5
 tags: 名古屋, 伊勢灣, 渡輪, 港口, 一日遊
 license: CC BY 4.0
 ---

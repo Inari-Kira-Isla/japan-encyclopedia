@@ -6,7 +6,7 @@ category: craft-markets
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-craft-markets-kobe-神戶工藝市場精明購物指南-收藏家的省錢秘笈-6f0aa6.html
 published: 2026-03-26
-quality_score: 7.5
+quality_score: 8.7
 tags: 神戶購物, 工藝收藏, 投資理財
 license: CC BY 4.0
 ---

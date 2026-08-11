@@ -6,7 +6,7 @@ category: matcha-sweets
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-matcha-sweets-osaka-大阪抹茶甜點-道頓堀以北的隱藏茶房-b14f4a.html
 published: 2026-06-07
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪抹茶, 關西甜點, 抹茶甜品, 大阪美食, 日本茶道
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: craft-markets
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-craft-markets-okinawa-沖繩手感生活提案-社群型手作市集與在地工藝品味指南-376d2b.html
 published: 2026-05-25
-quality_score: 7.5
+quality_score: 8.7
 tags: 沖繩手作市集, 琉球工藝, 沖繩旅行, 手感购物, 九州自由行
 license: CC BY 4.0
 ---

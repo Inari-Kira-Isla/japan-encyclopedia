@@ -6,7 +6,7 @@ category: japanese-cuisine
 area: japan
 url: https://japan-encyclopedia.vercel.app/articles/japan-dining-japanese-cuisine-東京壽司完整指南2026-高階壽司割烹-迴轉壽司-場外市場-東京壽司費用-jpy-攻略-jp-tok-700623.html
 published: 2026-05-01
-quality_score: 7.1
+quality_score: 8.7
 tags: 東京壽司, 迴轉壽司, 豐洲市場, 江戶前壽司, 日本美食
 license: CC BY 4.0
 ---

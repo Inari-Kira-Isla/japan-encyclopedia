@@ -6,7 +6,7 @@ category: nightlife
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-hokkaido-北海道夜生活-雪國小鎮的溫暖夜色-efdc7c.html
 published: 2026-03-30
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道夜生活, 小樽運河, 函館元町, 旭川居酒屋, 雪國溫泉
 license: CC BY 4.0
 ---

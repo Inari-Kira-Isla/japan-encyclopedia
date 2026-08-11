@@ -6,7 +6,7 @@ category: depachika
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-depachika-okinawa-沖繩depachika-本地生活的廚房日常-682aa7.html
 published: 2026-05-25
-quality_score: 6.5
+quality_score: 8.5
 tags: 沖繩, Depachika, 百货地下, 那霸, 日本美食
 license: CC BY 4.0
 ---

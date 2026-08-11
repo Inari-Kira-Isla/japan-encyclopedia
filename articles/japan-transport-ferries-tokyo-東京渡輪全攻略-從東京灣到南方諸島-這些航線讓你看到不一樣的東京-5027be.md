@@ -6,7 +6,7 @@ category: ferries
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-ferries-tokyo-東京渡輪全攻略-從東京灣到南方諸島-這些航線讓你看到不一樣的東京-5027be.html
 published: 2026-06-02
-quality_score: 7.5
+quality_score: 8.4
 tags: 東京渡輪, 隅田川, 三宅島, 八丈島, 東京灣
 license: CC BY 4.0
 ---

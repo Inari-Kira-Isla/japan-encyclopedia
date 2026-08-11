@@ -6,7 +6,7 @@ category: udon-soba
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-udon-soba-kanazawa-金澤加賀烏龍麵-從一碗麵看懂加賀百萬石的文化密碼-22cdb8.html
 published: 2026-06-21
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤美食, 加賀烏龍麵, 石川縣, 日本美食, 在地料理
 license: CC BY 4.0
 ---

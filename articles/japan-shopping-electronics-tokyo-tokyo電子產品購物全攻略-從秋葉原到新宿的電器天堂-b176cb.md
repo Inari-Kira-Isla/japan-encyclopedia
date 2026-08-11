@@ -6,7 +6,7 @@ category: electronics
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-electronics-tokyo-tokyo電子產品購物全攻略-從秋葉原到新宿的電器天堂-b176cb.html
 published: 2026-06-19
-quality_score: 7.5
+quality_score: 8.6
 tags: Tokyo電子產品, 秋葉原電器, 免稅購物, 日本電器行, Tokyo購物
 license: CC BY 4.0
 ---

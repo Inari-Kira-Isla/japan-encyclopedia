@@ -6,7 +6,7 @@ category: nature-trails
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-kobe-神戶山林療癒提案-遠離人潮的森の浴步道與慢活體驗-bf1892.html
 published: 2026-05-21
-quality_score: 6.5
+quality_score: 8.7
 tags: 神戶自然步道, 森の浴, 森林疗法, 神戶登山, 六甲山
 license: CC BY 4.0
 ---

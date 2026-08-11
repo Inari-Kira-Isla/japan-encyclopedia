@@ -6,7 +6,7 @@ category: electronics
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-electronics-tokyo-東京復古電子脈動-吉祥寺-下北澤-澀谷的在地電子購物秘境-9ebb09.html
 published: 2026-06-03
-quality_score: 7.5
+quality_score: 8.7
 tags: 東京電子購物, 吉祥寺相機, 下北澤音響, 澀谷科技, 日本電器
 license: CC BY 4.0
 ---

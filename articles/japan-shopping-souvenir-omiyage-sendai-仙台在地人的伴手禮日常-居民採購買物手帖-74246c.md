@@ -6,7 +6,7 @@ category: souvenir-omiyage
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-souvenir-omiyage-sendai-仙台在地人的伴手禮日常-居民採購買物手帖-74246c.html
 published: 2026-05-24
-quality_score: 7.5
+quality_score: 8.7
 tags: 仙台伴手禮, 在地人推薦, 日本東北, 居民視角, 日常採購
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: department-stores
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-department-stores-okinawa-沖繩百貨業銀髮轉型-適老化購物體驗的南國實驗場-18929c.html
 published: 2026-04-04
-quality_score: 7.5
+quality_score: 8.8
 tags: 沖繩百貨, 銀髮購物, 無障礙設施, 適老化服務, 日本零售
 license: CC BY 4.0
 ---

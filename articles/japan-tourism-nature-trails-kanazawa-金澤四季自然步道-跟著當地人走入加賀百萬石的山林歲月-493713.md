@@ -6,7 +6,7 @@ category: nature-trails
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-kanazawa-金澤四季自然步道-跟著當地人走入加賀百萬石的山林歲月-493713.html
 published: 2026-04-07
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤, 自然步道, 四季景觀, 溫泉文化, 歷史古道
 license: CC BY 4.0
 ---

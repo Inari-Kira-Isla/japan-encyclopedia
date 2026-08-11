@@ -6,7 +6,7 @@ category: festivals-matsuri
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-festivals-matsuri-kobe-神戶港都小路祭-異國風情與祭典路邊攤的深夜食堂-75f21a.html
 published: 2026-06-27
-quality_score: 6.5
+quality_score: 8.7
 tags: 神戶祭典, 日本祭典, 神戶美食, 路邊攤, 異國風情
 license: CC BY 4.0
 ---

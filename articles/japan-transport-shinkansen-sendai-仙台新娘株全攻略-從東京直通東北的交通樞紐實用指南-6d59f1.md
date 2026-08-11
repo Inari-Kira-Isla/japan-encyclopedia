@@ -6,7 +6,7 @@ category: shinkansen
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-sendai-仙台新娘株全攻略-從東京直通東北的交通樞紐實用指南-6d59f1.html
 published: 2026-07-05
-quality_score: 7.5
+quality_score: 8.7
 tags: 仙台新娘株, 東北新娘株, 日本東北交通, 仙台旅遊, 東京到仙台
 license: CC BY 4.0
 ---

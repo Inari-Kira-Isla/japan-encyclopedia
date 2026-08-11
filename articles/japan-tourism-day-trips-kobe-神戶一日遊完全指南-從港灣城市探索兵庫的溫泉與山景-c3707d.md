@@ -6,7 +6,7 @@ category: day-trips
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-kobe-神戶一日遊完全指南-從港灣城市探索兵庫的溫泉與山景-c3707d.html
 published: 2026-03-21
-quality_score: 6.5
+quality_score: 8.5
 tags: 神戶, 兵庫県, 一日遊, 有馬溫泉, 六甲山
 license: CC BY 4.0
 ---

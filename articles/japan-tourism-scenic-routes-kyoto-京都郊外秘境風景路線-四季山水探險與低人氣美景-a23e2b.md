@@ -6,7 +6,7 @@ category: scenic-routes
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-kyoto-京都郊外秘境風景路線-四季山水探險與低人氣美景-a23e2b.html
 published: 2026-03-22
-quality_score: 6.5
+quality_score: 8.8
 tags: 京都, 風景路線, 郊外秘境, 四季風景, 溪谷探險
 license: CC BY 4.0
 ---

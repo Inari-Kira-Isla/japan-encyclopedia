@@ -6,7 +6,7 @@ category: business-hotels
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-business-hotels-nagoya-名古屋商務飯店-製造產業走廊的出差住宿選擇-4ca243.html
 published: 2026-06-25
-quality_score: 6.5
+quality_score: 8.7
 tags: 名古屋商務飯店, 製造產業走廊, 出差住宿, 名古屋早餐文化, 豐田工廠參訪
 license: CC BY 4.0
 ---

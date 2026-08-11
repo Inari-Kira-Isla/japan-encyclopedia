@@ -6,7 +6,7 @@ category: souvenir-omiyage
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-souvenir-omiyage-kanazawa-金澤伴手禮精明購買術-避開觀光陷阱的省錢攻略-8db4bc.html
 published: 2026-04-05
-quality_score: 7.5
+quality_score: 8.7
 tags: 金澤購物, 伴手禮攻略, 省錢技巧
 license: CC BY 4.0
 ---

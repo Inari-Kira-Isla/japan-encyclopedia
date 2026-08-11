@@ -6,7 +6,7 @@ category: historical-districts
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-hokkaido-北海道歷史街區-穿梭時光隧道的療癒之旅-129b0b.html
 published: 2026-03-20
-quality_score: 6.5
+quality_score: 8.6
 tags: 北海道, 歷史街區, 小樽運河, 函館港灣, 札幌時計台
 license: CC BY 4.0
 ---

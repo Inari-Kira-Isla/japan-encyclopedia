@@ -6,7 +6,7 @@ category: garden-parks
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-tokyo-東京花園公園的日常詩學-在地人的綠意生活提案-7d3ad0.html
 published: 2026-07-03
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京花園, 在地體驗, 晨間活動, 日式庭園, teamLab
 license: CC BY 4.0
 ---

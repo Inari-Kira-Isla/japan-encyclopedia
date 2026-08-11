@@ -6,7 +6,7 @@ category: garden-parks
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-okinawa-沖繩琉球文化庭園-穿梭400年歷史的綠意時空-e9532f.html
 published: 2026-06-05
-quality_score: 6.5
+quality_score: 8.8
 tags: 沖繩庭園, 琉球文化, 首里城, 歷史古蹟, 熱帶植物
 license: CC BY 4.0
 ---

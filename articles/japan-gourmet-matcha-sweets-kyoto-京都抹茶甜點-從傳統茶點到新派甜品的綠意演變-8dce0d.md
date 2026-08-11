@@ -6,7 +6,7 @@ category: matcha-sweets
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-matcha-sweets-kyoto-京都抹茶甜點-從傳統茶點到新派甜品的綠意演變-8dce0d.html
 published: 2026-06-27
-quality_score: 6.5
+quality_score: 8.5
 tags: 京都, 抹茶甜點, 祇園, 嵐山, 甘味處
 license: CC BY 4.0
 ---

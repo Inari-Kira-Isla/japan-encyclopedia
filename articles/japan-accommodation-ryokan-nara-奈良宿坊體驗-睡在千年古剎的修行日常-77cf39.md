@@ -6,7 +6,7 @@ category: ryokan
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-nara-奈良宿坊體驗-睡在千年古剎的修行日常-77cf39.html
 published: 2026-06-22
-quality_score: 6.5
+quality_score: 8.5
 tags: 奈良宿坊, 日本寺院住宿, 吉野山修驗道, 奈良文化遺產, 佛教修行體驗
 license: CC BY 4.0
 ---

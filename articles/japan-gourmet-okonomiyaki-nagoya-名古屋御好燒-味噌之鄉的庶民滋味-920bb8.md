@@ -6,7 +6,7 @@ category: okonomiyaki
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-okonomiyaki-nagoya-名古屋御好燒-味噌之鄉的庶民滋味-920bb8.html
 published: 2026-05-21
-quality_score: 6.5
+quality_score: 8.7
 tags: 名古屋美食, 御好燒, 八丁味噌, 名古屋必吃, 中部の味
 license: CC BY 4.0
 ---

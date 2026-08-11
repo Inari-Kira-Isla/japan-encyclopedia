@@ -6,7 +6,7 @@ category: accessibility
 area: japan
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-accessibility-日本無障礙旅遊指南2026-輪椅友善景點-jr無障礙-溫泉旅館長者行程-jp-accessibility-c33c48.html
 published: 2026-03-28
-quality_score: 7.6
+quality_score: 8.2
 tags: 日本無障礙, 日本輪椅旅遊, 日本長者旅遊, 日本無障礙設施, 日本旅遊2026
 license: CC BY 4.0
 ---

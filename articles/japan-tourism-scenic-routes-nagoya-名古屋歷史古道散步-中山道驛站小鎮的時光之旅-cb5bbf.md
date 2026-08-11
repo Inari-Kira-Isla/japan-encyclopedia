@@ -6,7 +6,7 @@ category: scenic-routes
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-nagoya-名古屋歷史古道散步-中山道驛站小鎮的時光之旅-cb5bbf.html
 published: 2026-06-19
-quality_score: 6.5
+quality_score: 8.7
 tags: 名古屋古道, 中山道, 歷史散步, 驛站小鎮, 日本古道
 license: CC BY 4.0
 ---

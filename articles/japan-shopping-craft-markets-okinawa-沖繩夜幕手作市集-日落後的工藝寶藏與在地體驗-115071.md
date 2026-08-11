@@ -6,7 +6,7 @@ category: craft-markets
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-craft-markets-okinawa-沖繩夜幕手作市集-日落後的工藝寶藏與在地體驗-115071.html
 published: 2026-06-15
-quality_score: 7.5
+quality_score: 8.6
 tags: 沖繩手作市集, 沖繩夜市, 琉球工藝, 美國村, 沖繩購物
 license: CC BY 4.0
 ---

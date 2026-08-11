@@ -6,7 +6,7 @@ category: business-hotels
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-business-hotels-nagoya-名古屋商務酒店選擇指南-國際商務客的文化適應與實用住宿-3e60f3.html
 published: 2026-04-01
-quality_score: 6.5
+quality_score: 8.6
 tags: 名古屋住宿, 商務酒店, 國際商務, 中部地區, 日式服務
 license: CC BY 4.0
 ---

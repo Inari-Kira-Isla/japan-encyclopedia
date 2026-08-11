@@ -6,7 +6,7 @@ category: buses
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-buses-okinawa-沖繩巴士深度導覽-自然花園與亞熱帶風光乘車攻略-40cf5e.html
 published: 2026-06-30
-quality_score: 7.5
+quality_score: 8.6
 tags: 沖繩巴士, 亞熱帶花園, 自然景觀, gusuku城跡, 公車一日券
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: festivals-matsuri
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-festivals-matsuri-osaka-大阪祭典經濟學-商都夜未眠的賺錢與狂歡藝術-31e3f3.html
 published: 2026-06-25
-quality_score: 6.5
+quality_score: 8.5
 tags: 大阪祭典, 天神祭, 關西祭典, 日本夏日祭, 屋台文化
 license: CC BY 4.0
 ---

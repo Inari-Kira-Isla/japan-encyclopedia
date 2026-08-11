@@ -6,7 +6,7 @@ category: duty-free
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-duty-free-sendai-仙台購物達人指南-超市與車站商場的平價免稅伴手禮-705fbd.html
 published: 2026-06-10
-quality_score: 7.5
+quality_score: 8.5
 tags: 仙台免稅, 仙台購物, 東北伴手禮, 超市免稅, 仙台自由行
 license: CC BY 4.0
 ---

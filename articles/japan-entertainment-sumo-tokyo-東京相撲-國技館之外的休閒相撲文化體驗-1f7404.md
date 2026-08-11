@@ -6,7 +6,7 @@ category: sumo
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-tokyo-東京相撲-國技館之外的休閒相撲文化體驗-1f7404.html
 published: 2026-06-04
-quality_score: 6.5
+quality_score: 8.6
 tags: 东京相扑, 墨田相扑交流馆, 相扑火锅, 业馀相扑, 巢鸭相扑文化教室
 license: CC BY 4.0
 ---

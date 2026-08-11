@@ -6,7 +6,7 @@ category: sushi
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sushi-hiroshima-廣島壽司-車站周邊的匆忙美味-平價壽司的生存之道-eaa46a.html
 published: 2026-05-24
-quality_score: 6.5
+quality_score: 8.5
 tags: 廣島壽司, 廣島美食, 瀨戶內海, 平價壽司, 日本壽司
 license: CC BY 4.0
 ---

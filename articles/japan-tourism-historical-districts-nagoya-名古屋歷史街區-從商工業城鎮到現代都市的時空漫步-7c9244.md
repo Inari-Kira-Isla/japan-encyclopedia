@@ -6,7 +6,7 @@ category: historical-districts
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-nagoya-名古屋歷史街區-從商工業城鎮到現代都市的時空漫步-7c9244.html
 published: 2026-07-04
-quality_score: 6.5
+quality_score: 8.7
 tags: 名古屋歷史街區, 名古屋城, 大須觀音, 榮町通, 產業城市
 license: CC BY 4.0
 ---

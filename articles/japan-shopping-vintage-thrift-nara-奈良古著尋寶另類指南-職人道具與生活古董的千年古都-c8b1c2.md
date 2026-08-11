@@ -6,7 +6,7 @@ category: vintage-thrift
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-vintage-thrift-nara-奈良古著尋寶另類指南-職人道具與生活古董的千年古都-c8b1c2.html
 published: 2026-06-21
-quality_score: 7.5
+quality_score: 8.7
 tags: 奈良古著, 奈良購物, 日本古著, 奈良自由行, 關西購物
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: rental-cars
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-kanazawa-金澤租車自駕遊-從金箔古城駛向日本海的海岸線秘境-0e9d48.html
 published: 2026-06-27
-quality_score: 7.5
+quality_score: 8.3
 tags: 金澤租車, 能登半島自駕, 北陸海岸線, 小松機場租車, 金澤自駕遊
 license: CC BY 4.0
 ---

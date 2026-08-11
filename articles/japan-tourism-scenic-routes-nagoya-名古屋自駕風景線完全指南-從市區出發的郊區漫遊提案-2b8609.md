@@ -6,7 +6,7 @@ category: scenic-routes
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-nagoya-名古屋自駕風景線完全指南-從市區出發的郊區漫遊提案-2b8609.html
 published: 2026-03-24
-quality_score: 6.5
+quality_score: 8.7
 tags: 名古屋自駕, 風景道路, 中部地區, 郊區漫遊, 溫泉
 license: CC BY 4.0
 ---

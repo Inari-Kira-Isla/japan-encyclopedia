@@ -6,7 +6,7 @@ category: nightlife
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-sendai-仙台夜生活-人情味與深夜食堂的東北式浪漫-5a7536.html
 published: 2026-06-04
-quality_score: 6.5
+quality_score: 8.7
 tags: 仙台, 夜生活, 東北, 居酒屋, 深夜食堂
 license: CC BY 4.0
 ---

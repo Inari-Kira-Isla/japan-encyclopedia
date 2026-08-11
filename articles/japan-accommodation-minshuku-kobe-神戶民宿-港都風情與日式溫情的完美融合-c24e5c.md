@@ -6,7 +6,7 @@ category: minshuku
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-kobe-神戶民宿-港都風情與日式溫情的完美融合-c24e5c.html
 published: 2026-05-31
-quality_score: 6.5
+quality_score: 8.6
 tags: 神戶民宿, 北野異人館, 六甲山, 有馬溫泉, 港都住宿
 license: CC BY 4.0
 ---

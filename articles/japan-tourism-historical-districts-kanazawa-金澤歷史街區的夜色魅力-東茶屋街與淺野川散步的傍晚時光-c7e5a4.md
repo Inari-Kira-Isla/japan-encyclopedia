@@ -6,7 +6,7 @@ category: historical-districts
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-kanazawa-金澤歷史街區的夜色魅力-東茶屋街與淺野川散步的傍晚時光-c7e5a4.html
 published: 2026-06-24
-quality_score: 6.5
+quality_score: 8.8
 tags: 金澤歷史街區, 東茶屋街, 淺野川, 日本夜景, 茶屋文化
 license: CC BY 4.0
 ---

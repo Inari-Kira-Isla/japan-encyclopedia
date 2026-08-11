@@ -6,7 +6,7 @@ category: matcha-sweets
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-matcha-sweets-osaka-大阪抹茶甜點-ol下班後的療癒綠洲-女子會推薦5選-7397bc.html
 published: 2026-06-04
-quality_score: 6.5
+quality_score: 8.8
 tags: 大阪美食, 抹茶甜點, 下午茶推薦, OL女子的私藏, 關西甜品
 license: CC BY 4.0
 ---

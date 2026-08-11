@@ -6,7 +6,7 @@ category: udon-soba
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-udon-soba-okinawa-沖繩-okinawa-soba-被遺忘的本土麵食文化-423db7.html
 published: 2026-07-04
-quality_score: 6.5
+quality_score: 8.9
 tags: 沖繩美食, Okinawa Soba, 沖繩麵食, 琉球料理, 沖繩旅遊
 license: CC BY 4.0
 ---

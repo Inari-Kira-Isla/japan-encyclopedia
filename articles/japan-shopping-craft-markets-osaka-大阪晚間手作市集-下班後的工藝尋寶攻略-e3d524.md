@@ -6,7 +6,7 @@ category: craft-markets
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-craft-markets-osaka-大阪晚間手作市集-下班後的工藝尋寶攻略-e3d524.html
 published: 2026-06-11
-quality_score: 7.5
+quality_score: 8.7
 tags: 大阪手作市集, 大阪夜景, 大阪深度遊, 關西工藝市場, 日本夜市
 license: CC BY 4.0
 ---

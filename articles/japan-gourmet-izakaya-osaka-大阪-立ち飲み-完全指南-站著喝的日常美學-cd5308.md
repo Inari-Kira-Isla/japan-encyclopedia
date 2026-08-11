@@ -6,7 +6,7 @@ category: izakaya
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-izakaya-osaka-大阪-立ち飲み-完全指南-站著喝的日常美學-cd5308.html
 published: 2026-06-20
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪美食, 立ち飲み, 站著喝酒, 關西美食, 居酒屋文化
 license: CC BY 4.0
 ---

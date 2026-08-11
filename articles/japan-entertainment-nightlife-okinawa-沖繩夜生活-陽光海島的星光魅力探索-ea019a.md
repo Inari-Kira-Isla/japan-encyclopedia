@@ -6,7 +6,7 @@ category: nightlife
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-okinawa-沖繩夜生活-陽光海島的星光魅力探索-ea019a.html
 published: 2026-03-20
-quality_score: 6.5
+quality_score: 8.5
 tags: 沖繩夜生活, 日本夜生活, 那霸國際通, 美國村, LIVE HOUSE
 license: CC BY 4.0
 ---

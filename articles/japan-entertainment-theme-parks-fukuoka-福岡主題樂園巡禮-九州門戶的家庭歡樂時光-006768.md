@@ -6,7 +6,7 @@ category: theme-parks
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-theme-parks-fukuoka-福岡主題樂園巡禮-九州門戶的家庭歡樂時光-006768.html
 published: 2026-03-14
-quality_score: 6.5
+quality_score: 8.7
 tags: 福岡, 主題樂園, 親子旅遊, 九州, 海之中道
 license: CC BY 4.0
 ---

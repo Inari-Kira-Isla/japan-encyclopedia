@@ -6,7 +6,7 @@ category: nightlife
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-kanazawa-金澤夜生活-北陸文化都會的藝術娛樂體驗-84065e.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤夜生活, 北陸娛樂, 卡拉OK, 傳統表演, 文化體驗
 license: CC BY 4.0
 ---

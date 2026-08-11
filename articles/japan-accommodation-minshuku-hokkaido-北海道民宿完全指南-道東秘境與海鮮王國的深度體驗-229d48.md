@@ -6,7 +6,7 @@ category: minshuku
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-hokkaido-北海道民宿完全指南-道東秘境與海鮮王國的深度體驗-229d48.html
 published: 2026-03-24
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道民宿, 道東住宿, 流冰體驗, 海膽美食, 釧路民宿
 license: CC BY 4.0
 ---

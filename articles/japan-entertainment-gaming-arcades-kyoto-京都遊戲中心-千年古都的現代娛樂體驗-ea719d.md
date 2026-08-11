@@ -6,7 +6,7 @@ category: gaming-arcades
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-gaming-arcades-kyoto-京都遊戲中心-千年古都的現代娛樂體驗-ea719d.html
 published: 2026-03-21
-quality_score: 6.5
+quality_score: 8.5
 tags: 京都娛樂, 遊戲中心, 街機文化, 京都旅遊, 現代娛樂體驗
 license: CC BY 4.0
 ---

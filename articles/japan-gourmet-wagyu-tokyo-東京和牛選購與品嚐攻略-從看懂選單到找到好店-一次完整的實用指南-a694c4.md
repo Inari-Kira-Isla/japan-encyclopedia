@@ -6,7 +6,7 @@ category: wagyu
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-wagyu-tokyo-東京和牛選購與品嚐攻略-從看懂選單到找到好店-一次完整的實用指南-a694c4.html
 published: 2026-05-25
-quality_score: 6.5
+quality_score: 8.5
 tags: 東京和牛, 東京美食, 日本料理, 燒肉, 新宿
 license: CC BY 4.0
 ---

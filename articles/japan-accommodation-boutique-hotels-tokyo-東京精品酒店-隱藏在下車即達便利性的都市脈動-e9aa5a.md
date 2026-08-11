@@ -6,7 +6,7 @@ category: boutique-hotels
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-tokyo-東京精品酒店-隱藏在下車即達便利性的都市脈動-e9aa5a.html
 published: 2026-05-22
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京精品酒店, 車站經濟學, 赤坂見附, 人形町, 三軒茶屋
 license: CC BY 4.0
 ---

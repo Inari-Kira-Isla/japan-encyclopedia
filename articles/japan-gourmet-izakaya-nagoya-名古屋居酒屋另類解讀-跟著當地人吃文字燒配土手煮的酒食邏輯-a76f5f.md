@@ -6,7 +6,7 @@ category: izakaya
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-izakaya-nagoya-名古屋居酒屋另類解讀-跟著當地人吃文字燒配土手煮的酒食邏輯-a76f5f.html
 published: 2026-05-21
-quality_score: 6.5
+quality_score: 8.6
 tags: Nagoya izakaya, Nagoya foodie guide, Japanese izakaya, 名古屋旅遊, 名古屋美食
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: cycling
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-tokyo-東京工作日單車-商務人士的都市騎行策略-5cd0ed.html
 published: 2026-06-23
-quality_score: 7.5
+quality_score: 8.6
 tags: 東京單車, 商務騎行, 產業遺產, TokyoBikeShare, 港區
 license: CC BY 4.0
 ---

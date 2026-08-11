@@ -6,7 +6,7 @@ category: department-stores
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-department-stores-tokyo-東京車站直結百貨攻略-初心者到站即購的交通樞紐購物指南-cd2b3e.html
 published: 2026-07-04
-quality_score: 7.5
+quality_score: 8.7
 tags: 東京購物, 車站直結, 百貨公司, 新宿, 澀谷
 license: CC BY 4.0
 ---

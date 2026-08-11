@@ -6,7 +6,7 @@ category: temples-shrines
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-temples-shrines-kobe-神戶港都神社物語-國際港口城市的信仰地景-552660.html
 published: 2026-06-26
-quality_score: 6.5
+quality_score: 8.6
 tags: 神戶神社, 港都信仰, 神戶景點, 港口城市, 摩耶山
 license: CC BY 4.0
 ---

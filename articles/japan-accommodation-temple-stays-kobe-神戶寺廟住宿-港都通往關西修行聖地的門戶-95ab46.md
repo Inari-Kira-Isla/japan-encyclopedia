@@ -6,7 +6,7 @@ category: temple-stays
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-temple-stays-kobe-神戶寺廟住宿-港都通往關西修行聖地的門戶-95ab46.html
 published: 2026-06-17
-quality_score: 6.5
+quality_score: 8.4
 tags: 神戶寺廟住宿, 關西修行, 高野山宿坊, 吉野山參拜, 六甲山
 license: CC BY 4.0
 ---

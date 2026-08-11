@@ -6,7 +6,7 @@ category: scenic-routes
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-kanazawa-金澤攝影步道完全攻略-晨昏光影與隱藏視角的絕美取景指南-9561bd.html
 published: 2026-06-16
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤, 攝影步道, 晨昏美景, 日本海, 攝影攻略
 license: CC BY 4.0
 ---

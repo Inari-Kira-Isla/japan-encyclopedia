@@ -6,7 +6,7 @@ category: yakitori
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-yakitori-nagoya-名古屋燒鳥-味噌與雞翅交織的名古屋流深夜食堂-f85e1b.html
 published: 2026-06-21
-quality_score: 5.5
+quality_score: 8.0
 tags: 名古屋美食, 燒鳥, 日本料理, 味噌, 名古屋深度遊
 license: CC BY 4.0
 ---

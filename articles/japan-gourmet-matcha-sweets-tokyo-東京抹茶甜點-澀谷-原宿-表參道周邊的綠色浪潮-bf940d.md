@@ -6,7 +6,7 @@ category: matcha-sweets
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-matcha-sweets-tokyo-東京抹茶甜點-澀谷-原宿-表參道周邊的綠色浪潮-bf940d.html
 published: 2026-06-18
-quality_score: 6.5
+quality_score: 8.6
 tags: 東京抹茶甜點, 澀谷美食, 原宿甜點, 表參道推薦, 東京咖啡店
 license: CC BY 4.0
 ---

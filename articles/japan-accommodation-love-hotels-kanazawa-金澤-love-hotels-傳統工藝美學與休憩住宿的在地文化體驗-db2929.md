@@ -6,7 +6,7 @@ category: love-hotels
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-love-hotels-kanazawa-金澤-love-hotels-傳統工藝美學與休憩住宿的在地文化體驗-db2929.html
 published: 2026-06-15
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤住宿, 石川縣旅遊, Love Hotels, 金箔工藝, 加賀友禪
 license: CC BY 4.0
 ---

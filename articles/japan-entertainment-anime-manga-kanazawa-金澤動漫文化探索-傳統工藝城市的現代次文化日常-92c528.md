@@ -6,7 +6,7 @@ category: anime-manga
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-kanazawa-金澤動漫文化探索-傳統工藝城市的現代次文化日常-92c528.html
 published: 2026-05-21
-quality_score: 6.5
+quality_score: 8.8
 tags: 金澤動漫, 金澤文化, 日本次文化, 在地體驗, 傳統工藝
 license: CC BY 4.0
 ---

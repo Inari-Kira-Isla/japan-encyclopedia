@@ -6,7 +6,7 @@ category: rental-cars
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-hiroshima-廣島租車自駕遊-中國山地的楓紅秘徑與跨縣市聯遊攻略-19dde0.html
 published: 2026-06-18
-quality_score: 7.5
+quality_score: 8.7
 tags: 廣島租車, 中國山地自駕, 三段峽, 帝釋峽, 山陰山陽聯遊
 license: CC BY 4.0
 ---

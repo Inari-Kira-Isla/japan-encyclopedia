@@ -6,7 +6,7 @@ category: vr-experiences
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-vr-experiences-kanazawa-金澤vr體驗-穿越四百年的沉浸式時空之旅-059cd1.html
 published: 2026-05-21
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤VR, 金澤體驗, 金澤娛樂, 石川縣, 北陸自由行
 license: CC BY 4.0
 ---

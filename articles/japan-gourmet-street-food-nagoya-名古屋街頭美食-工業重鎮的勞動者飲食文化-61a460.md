@@ -6,7 +6,7 @@ category: street-food
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-street-food-nagoya-名古屋街頭美食-工業重鎮的勞動者飲食文化-61a460.html
 published: 2026-04-06
-quality_score: 6.5
+quality_score: 8.8
 tags: 名古屋美食, 街頭小吃, 工業城市, 味噌文化, 勞動者飲食
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: scenic-routes
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-kobe-神戶有馬溫泉風景道路-千年古湯的山岸療癒散步-22d6d4.html
 published: 2026-06-09
-quality_score: 6.5
+quality_score: 8.7
 tags: 神戶, 有馬溫泉, 風景道路, 溫泉之旅, 六甲山
 license: CC BY 4.0
 ---

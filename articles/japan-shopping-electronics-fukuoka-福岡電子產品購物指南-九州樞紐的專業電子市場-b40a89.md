@@ -6,7 +6,7 @@ category: electronics
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-electronics-fukuoka-福岡電子產品購物指南-九州樞紐的專業電子市場-b40a89.html
 published: 2026-06-13
-quality_score: 7.5
+quality_score: 8.4
 tags: 福岡電子產品, 九州購物, 天神電子, 博多車站, 日本電器
 license: CC BY 4.0
 ---

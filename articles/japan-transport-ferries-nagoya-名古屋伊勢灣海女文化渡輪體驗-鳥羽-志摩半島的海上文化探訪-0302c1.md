@@ -6,7 +6,7 @@ category: ferries
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-ferries-nagoya-名古屋伊勢灣海女文化渡輪體驗-鳥羽-志摩半島的海上文化探訪-0302c1.html
 published: 2026-06-20
-quality_score: 7.5
+quality_score: 8.4
 tags: 名古屋, 伊勢灣, 鳥羽, 渡輪, 海女文化
 license: CC BY 4.0
 ---

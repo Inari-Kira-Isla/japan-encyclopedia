@@ -6,7 +6,7 @@ category: boutique-hotels
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-tokyo-東京巷弄深處-散步可達的精品酒店美學-acf119.html
 published: 2026-06-29
-quality_score: 6.5
+quality_score: 8.6
 tags: 東京精品酒店, 東京住宿推薦, 谷中, 神樂坂, 自由が丘
 license: CC BY 4.0
 ---

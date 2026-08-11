@@ -6,7 +6,7 @@ category: duty-free
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-duty-free-okinawa-沖繩免稅購物完全指南-美軍基地文化與琉球的獨家購物體驗-cc721d.html
 published: 2026-04-04
-quality_score: 7.5
+quality_score: 8.7
 tags: 沖繩免稅, 沖繩購物,  Okinawa Duty Free, 美軍基地, 琉球文化
 license: CC BY 4.0
 ---

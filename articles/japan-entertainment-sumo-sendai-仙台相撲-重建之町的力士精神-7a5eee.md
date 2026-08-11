@@ -6,7 +6,7 @@ category: sumo
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-sendai-仙台相撲-重建之町的力士精神-7a5eee.html
 published: 2026-05-24
-quality_score: 6.5
+quality_score: 8.7
 tags: 仙台, 相扑, 東北, 重建, 體驗
 license: CC BY 4.0
 ---

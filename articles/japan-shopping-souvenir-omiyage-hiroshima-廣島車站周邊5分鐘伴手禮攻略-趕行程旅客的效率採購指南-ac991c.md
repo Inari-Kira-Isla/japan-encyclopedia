@@ -6,7 +6,7 @@ category: souvenir-omiyage
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-souvenir-omiyage-hiroshima-廣島車站周邊5分鐘伴手禮攻略-趕行程旅客的效率採購指南-ac991c.html
 published: 2026-06-30
-quality_score: 7.5
+quality_score: 8.7
 tags: 廣島伴手禮, JR廣島站, 紅葉饅頭, 瀨戶內檸檬, 牡蠣加工品
 license: CC BY 4.0
 ---

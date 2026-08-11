@@ -6,7 +6,7 @@ category: airport-transfer
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-airport-transfer-kobe-神戶機場交通全攻略-如何選擇最適合你的機場進出路線-a11688.html
 published: 2026-06-15
-quality_score: 7.5
+quality_score: 8.5
 tags: 神戶機場, UKB, 關西機場交通, 神戶單軌電車, Portliner
 license: CC BY 4.0
 ---

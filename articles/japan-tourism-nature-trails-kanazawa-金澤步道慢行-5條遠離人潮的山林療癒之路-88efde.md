@@ -6,7 +6,7 @@ category: nature-trails
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-kanazawa-金澤步道慢行-5條遠離人潮的山林療癒之路-88efde.html
 published: 2026-06-04
-quality_score: 6.5
+quality_score: 8.4
 tags: 金澤自然步道, 石川縣登山, 日本山林慢旅, 金澤秘境, 健康長輩友善
 license: CC BY 4.0
 ---

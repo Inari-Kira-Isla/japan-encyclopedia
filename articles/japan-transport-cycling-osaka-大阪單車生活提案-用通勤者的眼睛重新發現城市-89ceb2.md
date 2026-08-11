@@ -6,7 +6,7 @@ category: cycling
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-osaka-大阪單車生活提案-用通勤者的眼睛重新發現城市-89ceb2.html
 published: 2026-06-26
-quality_score: 7.5
+quality_score: 8.6
 tags: 大阪單車, 大阪騎行, 大阪自由行, 大阪深度遊, 大阪河畔
 license: CC BY 4.0
 ---

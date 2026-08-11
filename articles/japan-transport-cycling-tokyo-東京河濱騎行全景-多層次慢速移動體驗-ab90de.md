@@ -6,7 +6,7 @@ category: cycling
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-tokyo-東京河濱騎行全景-多層次慢速移動體驗-ab90de.html
 published: 2026-03-24
-quality_score: 7.5
+quality_score: 8.5
 tags: 東京, 單車, 騎行, 河濱路線, 通勤
 license: CC BY 4.0
 ---

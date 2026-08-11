@@ -6,7 +6,7 @@ category: fashion-harajuku
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-fashion-harajuku-hokkaido-北海道時尚購物指南-札幌・二世古的潮流據點-95962b.html
 published: 2026-06-03
-quality_score: 7.5
+quality_score: 8.8
 tags: 北海道購物, 札幌時尚, 潮流購物, 日本購物指南, 二世古購物
 license: CC BY 4.0
 ---

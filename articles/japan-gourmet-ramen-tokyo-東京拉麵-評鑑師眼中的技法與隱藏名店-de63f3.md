@@ -6,7 +6,7 @@ category: ramen
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-ramen-tokyo-東京拉麵-評鑑師眼中的技法與隱藏名店-de63f3.html
 published: 2026-04-02
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京美食, 拉麵評鑑, 隱藏名店, 職人技法, 美食評鑑
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: capsule-hotels
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-capsule-hotels-sendai-仙台膠囊飯店生活提案-一人旅的微奢華哲學-bdadc7.html
 published: 2026-05-24
-quality_score: 6.5
+quality_score: 8.8
 tags: 仙台住宿, 膠囊飯店, 東北自由行, 一人旅, 仙台旅行
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: temples-shrines
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-temples-shrines-hokkaido-北海道神社另類指南-雪國祈願機能與在地信仰-69c755.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道神社, 二世谷神社, 冬季運動, 溫泉祈福, 北海道旅遊
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: metro-systems
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-fukuoka-福岡地下鐵的夜生活攻略-深夜也能暢遊博多的便民交通指南-becb4a.html
 published: 2026-06-23
-quality_score: 7.5
+quality_score: 8.6
 tags: 福岡地下鐵, 博多夜生活, 天神地下街, 福岡交通, 九州自助旅行
 license: CC BY 4.0
 ---

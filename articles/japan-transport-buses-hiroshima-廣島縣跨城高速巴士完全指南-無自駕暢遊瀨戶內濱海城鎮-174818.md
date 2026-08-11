@@ -6,7 +6,7 @@ category: buses
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-buses-hiroshima-廣島縣跨城高速巴士完全指南-無自駕暢遊瀨戶內濱海城鎮-174818.html
 published: 2026-05-22
-quality_score: 7.5
+quality_score: 8.6
 tags: 廣島交通, 高速巴士, 瀨戶內海, 廣島自助旅行, 日本巴士
 license: CC BY 4.0
 ---

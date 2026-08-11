@@ -6,7 +6,7 @@ category: scenic-routes
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-sendai-仙台風景路線完全指南-遠離人潮的私房絕景之路-58f3c9.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 8.5
 tags: 仙台自助旅行, 日本东北自驾, 风景路线, 松島, 定义峡
 license: CC BY 4.0
 ---

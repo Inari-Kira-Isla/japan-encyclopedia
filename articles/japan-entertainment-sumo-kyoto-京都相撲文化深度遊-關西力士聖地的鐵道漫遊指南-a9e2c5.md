@@ -6,7 +6,7 @@ category: sumo
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-kyoto-京都相撲文化深度遊-關西力士聖地的鐵道漫遊指南-a9e2c5.html
 published: 2026-06-16
-quality_score: 6.5
+quality_score: 8.5
 tags: 京都相撲, 關西相撲巡禮, 大相撲大阪場所, 相撲火鍋, 姬路場所
 license: CC BY 4.0
 ---

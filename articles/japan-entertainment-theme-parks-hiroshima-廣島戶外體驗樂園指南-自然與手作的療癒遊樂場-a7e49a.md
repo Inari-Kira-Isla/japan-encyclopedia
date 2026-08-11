@@ -6,7 +6,7 @@ category: theme-parks
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-theme-parks-hiroshima-廣島戶外體驗樂園指南-自然與手作的療癒遊樂場-a7e49a.html
 published: 2026-06-20
-quality_score: 6.5
+quality_score: 8.6
 tags: 廣島主題樂園, 戶外體驗, 手作工坊, 自然探索, 瀨戶內海
 license: CC BY 4.0
 ---

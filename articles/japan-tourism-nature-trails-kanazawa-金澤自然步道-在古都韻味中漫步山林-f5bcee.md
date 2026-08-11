@@ -6,7 +6,7 @@ category: nature-trails
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-kanazawa-金澤自然步道-在古都韻味中漫步山林-f5bcee.html
 published: 2026-04-06
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤, 自然步道, 健行, 登山, 石川縣
 license: CC BY 4.0
 ---

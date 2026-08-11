@@ -6,7 +6,7 @@ category: kaiseki
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-kaiseki-tokyo-東京會席料理-國際都市的料理競技場-752ddc.html
 published: 2026-06-25
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京會席料理, Kaiseki, 日本料理, 米其林, 東京美食
 license: CC BY 4.0
 ---

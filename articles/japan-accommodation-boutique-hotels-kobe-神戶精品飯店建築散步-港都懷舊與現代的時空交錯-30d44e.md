@@ -6,7 +6,7 @@ category: boutique-hotels
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-kobe-神戶精品飯店建築散步-港都懷舊與現代的時空交錯-30d44e.html
 published: 2026-06-30
-quality_score: 6.5
+quality_score: 9.0
 tags: 神戶精品飯店, 北野異人館, 神戶建築散步, 港都住宿, 神戶自由行
 license: CC BY 4.0
 ---

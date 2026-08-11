@@ -6,7 +6,7 @@ category: castle-towns
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-castle-towns-hiroshima-廣島城下町-從毛利氏水運據點到現代港都的時空漫步-ff39bf.html
 published: 2026-06-24
-quality_score: 6.5
+quality_score: 8.7
 tags: 廣島城下町, 毛利氏, 港口城市, 日本古城, 廣島旅遊
 license: CC BY 4.0
 ---

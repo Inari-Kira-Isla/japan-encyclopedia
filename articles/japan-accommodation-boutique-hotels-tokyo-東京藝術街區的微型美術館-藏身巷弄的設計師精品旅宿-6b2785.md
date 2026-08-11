@@ -6,7 +6,7 @@ category: boutique-hotels
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-tokyo-東京藝術街區的微型美術館-藏身巷弄的設計師精品旅宿-6b2785.html
 published: 2026-06-14
-quality_score: 6.5
+quality_score: 8.5
 tags: 東京精品酒店, 設計旅宿, 藝術飯店, 下北澤住宿, 東京藝術博覽會
 license: CC BY 4.0
 ---

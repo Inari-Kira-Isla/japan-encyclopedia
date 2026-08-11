@@ -6,7 +6,7 @@ category: historical-districts
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-nagoya-名古屋歷史街區-探訪中部名城的老靈魂-bb06d8.html
 published: 2026-06-02
-quality_score: 6.5
+quality_score: 8.9
 tags: 名古屋歷史街區, 名古屋自由行, 尾張藩, 日本中部景點, 名古屋城
 license: CC BY 4.0
 ---

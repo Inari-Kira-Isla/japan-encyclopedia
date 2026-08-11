@@ -6,7 +6,7 @@ category: fashion-harajuku
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-fashion-harajuku-kyoto-地理說明-無法撰寫-京都的fashion-harajuku-1df7ff.html
 published: 2026-05-20
-quality_score: 6.5
+quality_score: 7.3
 tags: 地理澄清, 無法執行
 license: CC BY 4.0
 ---

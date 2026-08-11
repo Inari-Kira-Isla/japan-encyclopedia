@@ -6,7 +6,7 @@ category: ski-resorts
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-ski-resorts-sendai-仙台周邊平價滑雪場-預算-9c71c3.html
 published: 2026-05-23
-quality_score: 6.5
+quality_score: 8.7
 tags: 仙台滑雪, 山形滑雪場, 東北滑雪, budget skiing, 秘湯滑雪
 license: CC BY 4.0
 ---

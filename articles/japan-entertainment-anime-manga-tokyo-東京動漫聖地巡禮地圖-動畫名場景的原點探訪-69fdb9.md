@@ -6,7 +6,7 @@ category: anime-manga
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-tokyo-東京動漫聖地巡禮地圖-動畫名場景的原點探訪-69fdb9.html
 published: 2026-06-24
-quality_score: 6.5
+quality_score: 8.8
 tags: 東京動漫, 聖地巡禮, 取景地, 動畫朝聖, 動漫旅遊
 license: CC BY 4.0
 ---

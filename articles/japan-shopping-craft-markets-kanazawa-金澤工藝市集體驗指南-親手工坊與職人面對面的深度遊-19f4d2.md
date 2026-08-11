@@ -6,7 +6,7 @@ category: craft-markets
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-craft-markets-kanazawa-金澤工藝市集體驗指南-親手工坊與職人面對面的深度遊-19f4d2.html
 published: 2026-06-03
-quality_score: 7.5
+quality_score: 8.6
 tags: 金澤工藝, 金澤市集, 東茶屋街, 輪島塗, 九谷燒
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: electronics-anime
 area: japan
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-electronics-anime-東京秋葉原電器街完整指南2026-秋葉原電子街-女僕咖啡廳-動漫店-秋葉原費用-jpy-攻略--d0775e.html
 published: 2026-03-29
-quality_score: 7.1
+quality_score: 8.6
 tags: 秋葉原, 東京電器街, 女僕咖啡廳, 秋葉原動漫, 東京ACG購物
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: temple-stays
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-temple-stays-kobe-神戶-temple-stays-港都門口的修行之路-ad4dce.html
 published: 2026-06-02
-quality_score: 6.5
+quality_score: 8.6
 tags: 神戶, Temple Stays, 高野山, 山岳佛教, 關西修行
 license: CC BY 4.0
 ---

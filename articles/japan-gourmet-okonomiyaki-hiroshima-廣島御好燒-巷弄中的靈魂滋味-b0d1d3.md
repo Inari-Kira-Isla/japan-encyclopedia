@@ -6,7 +6,7 @@ category: okonomiyaki
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-okonomiyaki-hiroshima-廣島御好燒-巷弄中的靈魂滋味-b0d1d3.html
 published: 2026-05-24
-quality_score: 6.5
+quality_score: 8.7
 tags: 廣島御好燒, 廣島美食, 日本燒烤, 關西料理, 廣島自由行
 license: CC BY 4.0
 ---

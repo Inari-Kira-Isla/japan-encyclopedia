@@ -6,7 +6,7 @@ category: souvenir-omiyage
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-souvenir-omiyage-okinawa-沖繩傳統工藝伴手禮完全指南-琉球工藝的匠心與收藏-6ccc6d.html
 published: 2026-06-05
-quality_score: 7.5
+quality_score: 8.8
 tags: 沖繩伴手禮, 琉球工藝, 傳統工藝品, 沖繩購物, 工藝伴手禮
 license: CC BY 4.0
 ---

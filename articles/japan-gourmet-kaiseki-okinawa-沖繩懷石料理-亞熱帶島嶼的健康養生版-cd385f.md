@@ -6,7 +6,7 @@ category: kaiseki
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-kaiseki-okinawa-沖繩懷石料理-亞熱帶島嶼的健康養生版-cd385f.html
 published: 2026-05-25
-quality_score: 6.5
+quality_score: 8.7
 tags: 沖繩懷石, 亞熱帶料理, 縣產食材, 琉球飲食文化, OKINAWA
 license: CC BY 4.0
 ---

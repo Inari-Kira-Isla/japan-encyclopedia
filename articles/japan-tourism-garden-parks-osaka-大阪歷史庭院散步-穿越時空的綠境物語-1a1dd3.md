@@ -6,7 +6,7 @@ category: garden-parks
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-osaka-大阪歷史庭院散步-穿越時空的綠境物語-1a1dd3.html
 published: 2026-07-04
-quality_score: 6.5
+quality_score: 8.8
 tags: 大阪景點, 歷史建築, 日式庭院, 文化之旅, 關西自由行
 license: CC BY 4.0
 ---

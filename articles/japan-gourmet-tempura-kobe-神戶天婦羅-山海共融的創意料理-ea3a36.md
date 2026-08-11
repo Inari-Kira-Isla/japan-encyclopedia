@@ -6,7 +6,7 @@ category: tempura
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tempura-kobe-神戶天婦羅-山海共融的創意料理-ea3a36.html
 published: 2026-04-03
-quality_score: 6.5
+quality_score: 8.8
 tags: 神戶美食, 天婦羅, 瀨戶內海, 關西料理, 日本料理
 license: CC BY 4.0
 ---

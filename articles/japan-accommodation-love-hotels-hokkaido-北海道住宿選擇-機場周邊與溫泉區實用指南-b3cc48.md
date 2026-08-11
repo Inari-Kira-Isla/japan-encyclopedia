@@ -6,7 +6,7 @@ category: love-hotels
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-love-hotels-hokkaido-北海道住宿選擇-機場周邊與溫泉區實用指南-b3cc48.html
 published: 2026-06-27
-quality_score: 6.5
+quality_score: 8.5
 tags: 北海道住宿, 新千歲機場, 登別溫泉, 洞爺湖, 私人湯屋
 license: CC BY 4.0
 ---

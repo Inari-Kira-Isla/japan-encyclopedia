@@ -6,7 +6,7 @@ category: depachika
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-depachika-sendai-仙台depachika-東北食材寶庫的季節限定美味-46b337.html
 published: 2026-05-21
-quality_score: 6.5
+quality_score: 8.7
 tags: 仙台, Depachika, 東北美食, 牛舌, 日本百貨
 license: CC BY 4.0
 ---

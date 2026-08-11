@@ -6,7 +6,7 @@ category: boutique-hotels
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-fukuoka-福岡精品酒店-釀酒之鄉的住宿美學-347260.html
 published: 2026-06-21
-quality_score: 6.5
+quality_score: 8.7
 tags: 九州住宿, 福岡溫泉, 釀酒文化, 精品酒店, 屋台文化
 license: CC BY 4.0
 ---

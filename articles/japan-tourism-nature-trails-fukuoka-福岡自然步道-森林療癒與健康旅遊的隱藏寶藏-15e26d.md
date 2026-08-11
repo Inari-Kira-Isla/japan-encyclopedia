@@ -6,7 +6,7 @@ category: nature-trails
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-fukuoka-福岡自然步道-森林療癒與健康旅遊的隱藏寶藏-15e26d.html
 published: 2026-06-10
-quality_score: 6.5
+quality_score: 8.7
 tags: 福岡, 自然步道, 森林療癒, 健康旅遊, 九州
 license: CC BY 4.0
 ---

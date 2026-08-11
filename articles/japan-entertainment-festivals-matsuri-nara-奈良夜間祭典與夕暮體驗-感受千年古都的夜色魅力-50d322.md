@@ -6,7 +6,7 @@ category: festivals-matsuri
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-festivals-matsuri-nara-奈良夜間祭典與夕暮體驗-感受千年古都的夜色魅力-50d322.html
 published: 2026-06-15
-quality_score: 6.5
+quality_score: 8.8
 tags: 奈良祭典, 日本祭典, 關西祭典, 春日大社, Nara Matsuri
 license: CC BY 4.0
 ---

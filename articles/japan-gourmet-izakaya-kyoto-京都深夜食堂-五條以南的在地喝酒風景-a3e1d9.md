@@ -6,7 +6,7 @@ category: izakaya
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-izakaya-kyoto-京都深夜食堂-五條以南的在地喝酒風景-a3e1d9.html
 published: 2026-06-28
-quality_score: 6.5
+quality_score: 8.9
 tags: 京都美食, 京都居酒屋, 京都自由行, 日本深度旅遊, 京都南區
 license: CC BY 4.0
 ---

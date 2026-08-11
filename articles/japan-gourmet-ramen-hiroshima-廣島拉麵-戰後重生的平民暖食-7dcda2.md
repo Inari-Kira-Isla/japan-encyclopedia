@@ -6,7 +6,7 @@ category: ramen
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-ramen-hiroshima-廣島拉麵-戰後重生的平民暖食-7dcda2.html
 published: 2026-03-26
-quality_score: 6.5
+quality_score: 8.8
 tags: 廣島拉麵, 戰後文化, 平民美食, 職人精神, 深夜美食
 license: CC BY 4.0
 ---

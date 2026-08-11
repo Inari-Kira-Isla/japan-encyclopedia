@@ -6,7 +6,7 @@ category: vr-experiences
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-vr-experiences-kanazawa-金澤vr產業應用體驗-北陸商務教育科技前沿-ef72dc.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤VR, 商務應用, 教育科技, 北陸旅遊, 企業培訓
 license: CC BY 4.0
 ---

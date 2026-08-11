@@ -6,7 +6,7 @@ category: sushi
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sushi-nara-奈良壽司的供應鏈密碼-築地海鮮如何抵達古都的非主流高階-11d0f3.html
 published: 2026-03-22
-quality_score: 6.5
+quality_score: 8.5
 tags: 奈良美食, 壽司, 日本海鮮, 供應鏈, 季節食材
 license: CC BY 4.0
 ---

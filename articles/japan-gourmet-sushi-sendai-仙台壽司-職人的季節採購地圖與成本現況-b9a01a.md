@@ -6,7 +6,7 @@ category: sushi
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sushi-sendai-仙台壽司-職人的季節採購地圖與成本現況-b9a01a.html
 published: 2026-03-23
-quality_score: 6.5
+quality_score: 8.3
 tags: 仙台, 壽司, 季節海鮮, 採購邏輯, 東北漁業
 license: CC BY 4.0
 ---

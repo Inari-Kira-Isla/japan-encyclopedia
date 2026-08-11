@@ -6,7 +6,7 @@ category: craft-markets
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-craft-markets-osaka-大阪手作尋寶趣-價格區間與巷弄挖寶完全解密-985ba2.html
 published: 2026-06-03
-quality_score: 7.5
+quality_score: 8.6
 tags: 大阪工藝市集,  Osaka Craft Market, 關西手作, 價格指南, 日本市集
 license: CC BY 4.0
 ---

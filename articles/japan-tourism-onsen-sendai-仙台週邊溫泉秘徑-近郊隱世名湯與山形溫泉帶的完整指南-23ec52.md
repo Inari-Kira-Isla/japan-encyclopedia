@@ -6,7 +6,7 @@ category: onsen
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-onsen-sendai-仙台週邊溫泉秘徑-近郊隱世名湯與山形溫泉帶的完整指南-23ec52.html
 published: 2026-06-02
-quality_score: 6.5
+quality_score: 8.6
 tags: 仙台溫泉, 作並溫泉, 鳴子溫泉, 秋保溫泉, 東北溫泉
 license: CC BY 4.0
 ---

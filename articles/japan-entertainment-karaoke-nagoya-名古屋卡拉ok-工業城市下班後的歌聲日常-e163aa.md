@@ -6,7 +6,7 @@ category: karaoke
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-karaoke-nagoya-名古屋卡拉ok-工業城市下班後的歌聲日常-e163aa.html
 published: 2026-06-02
-quality_score: 6.5
+quality_score: 8.6
 tags: 名古屋, 卡拉OK, 中部地方, 夜生活, 體驗型
 license: CC BY 4.0
 ---

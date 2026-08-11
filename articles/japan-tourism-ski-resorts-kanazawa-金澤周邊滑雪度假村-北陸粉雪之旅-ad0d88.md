@@ -6,7 +6,7 @@ category: ski-resorts
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-ski-resorts-kanazawa-金澤周邊滑雪度假村-北陸粉雪之旅-ad0d88.html
 published: 2026-03-20
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤滑雪, 北陸粉雪, 冬季旅遊, 溫泉, 家庭旅遊
 license: CC BY 4.0
 ---

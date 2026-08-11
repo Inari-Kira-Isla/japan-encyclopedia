@@ -6,7 +6,7 @@ category: electronics
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-electronics-kobe-神戶電子產品購物指南-港都時尚與科技的血脈-ea22fa.html
 published: 2026-06-01
-quality_score: 7.5
+quality_score: 8.6
 tags: 神戶電子產品, 神戶電器行, 關西購物, 神戶三宮, 日本電器指南
 license: CC BY 4.0
 ---

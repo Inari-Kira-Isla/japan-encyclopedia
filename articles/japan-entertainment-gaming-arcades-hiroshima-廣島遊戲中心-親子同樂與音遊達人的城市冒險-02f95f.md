@@ -6,7 +6,7 @@ category: gaming-arcades
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-gaming-arcades-hiroshima-廣島遊戲中心-親子同樂與音遊達人的城市冒險-02f95f.html
 published: 2026-06-07
-quality_score: 6.5
+quality_score: 8.8
 tags: 廣島遊戲中心, 廣島親子遊樂, 廣島音樂遊戲, 廣島VR體驗, 廣島懷舊街機
 license: CC BY 4.0
 ---

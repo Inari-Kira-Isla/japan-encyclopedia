@@ -6,7 +6,7 @@ category: anime-manga
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-okinawa-沖繩動漫尋寶記-南國假期裡的御宅探險-3f1c8d.html
 published: 2026-06-10
-quality_score: 6.5
+quality_score: 8.8
 tags: 沖繩動漫, 沖繩漫畫, 南國御宅文化, 沖繩自由行, 日本動漫周邊
 license: CC BY 4.0
 ---

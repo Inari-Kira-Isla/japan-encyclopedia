@@ -6,7 +6,7 @@ category: ski-resorts
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-ski-resorts-nagoya-名古屋周邊滑雪場全攻略-從都會出發的當日往返滑雪提案-1828b0.html
 published: 2026-06-18
-quality_score: 6.5
+quality_score: 8.6
 tags: 名古屋滑雪, 中部地方滑雪, 當日往返滑雪, 日本滑雪場, 一日遊滑雪
 license: CC BY 4.0
 ---

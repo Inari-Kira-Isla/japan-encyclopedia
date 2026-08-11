@@ -6,7 +6,7 @@ category: boutique-hotels
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-osaka-大阪個性住宿-隱藏於巷弄之間的精品酒店美學-7dcfeb.html
 published: 2026-06-04
-quality_score: 6.5
+quality_score: 8.6
 tags: 大阪住宿, 精品酒店, 關西旅遊, 日本自由行, 玉造溫泉
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: garden-parks
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-okinawa-沖繩花園日常-從當地視角看見島嶼的綠意日常-a46dc4.html
 published: 2026-07-01
-quality_score: 6.5
+quality_score: 8.4
 tags: 沖繩花園, 自然生態, 親子景點, 亞熱帶植物, 在地文化
 license: CC BY 4.0
 ---

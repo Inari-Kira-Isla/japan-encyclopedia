@@ -6,7 +6,7 @@ category: tonkatsu
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tonkatsu-kyoto-京都炸豬排定食-廚師的採購哲學與工薪族的日常美學-f947b1.html
 published: 2026-03-24
-quality_score: 6.5
+quality_score: 8.5
 tags: 京都美食, 定食文化, 炸豬排, 工薪族日常, 食材採購
 license: CC BY 4.0
 ---

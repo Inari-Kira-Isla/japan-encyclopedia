@@ -6,7 +6,7 @@ category: scenic-routes
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-kyoto-京都晨間風景步道-日出時刻的寧靜古都漫遊-9aa6cd.html
 published: 2026-06-21
-quality_score: 6.5
+quality_score: 8.5
 tags: 京都, 風景步道, 晨間推薦, 古都漫遊, 日出散步
 license: CC BY 4.0
 ---

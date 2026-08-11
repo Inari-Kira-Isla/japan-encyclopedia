@@ -6,7 +6,7 @@ category: island-hopping
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-island-hopping-kyoto-京都的隱世島嶼-探索周邊遠離人潮的寧靜角落-072601.html
 published: 2026-07-03
-quality_score: 6.5
+quality_score: 8.6
 tags: 京都深度旅遊, 丹後半島, 伊根舟屋, 天橋立, 隱世景點
 license: CC BY 4.0
 ---

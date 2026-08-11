@@ -6,7 +6,7 @@ category: depachika
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-depachika-nara-奈良depachika-古都風物買手記-從近鐵奈良站出發的美味巡禮-5f4298.html
 published: 2026-05-20
-quality_score: 6.5
+quality_score: 8.6
 tags: 奈良 Depachika, 日本美食, 近铁奈良站, 伴手礼推荐, 大和食材
 license: CC BY 4.0
 ---

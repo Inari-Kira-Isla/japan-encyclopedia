@@ -6,7 +6,7 @@ category: boutique-hotels
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-nara-奈良精品酒店-慢遊古都的質感巷宿-b5bb96.html
 published: 2026-06-07
-quality_score: 6.5
+quality_score: 8.7
 tags: 奈良精品酒店, 古都慢旅, 世界遺產住宿, 奈良町, 日本住宿推薦
 license: CC BY 4.0
 ---

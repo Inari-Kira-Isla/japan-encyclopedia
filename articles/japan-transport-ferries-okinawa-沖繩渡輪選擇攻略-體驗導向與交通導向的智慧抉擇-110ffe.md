@@ -6,7 +6,7 @@ category: ferries
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-ferries-okinawa-沖繩渡輪選擇攻略-體驗導向與交通導向的智慧抉擇-110ffe.html
 published: 2026-06-16
-quality_score: 7.5
+quality_score: 8.4
 tags: 沖繩渡輪, 跳島旅行, 座間味島, 賞鯨, 沖繩交通
 license: CC BY 4.0
 ---

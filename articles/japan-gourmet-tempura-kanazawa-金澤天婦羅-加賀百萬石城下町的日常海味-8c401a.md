@@ -6,7 +6,7 @@ category: tempura
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tempura-kanazawa-金澤天婦羅-加賀百萬石城下町的日常海味-8c401a.html
 published: 2026-06-19
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤美食, 金澤天婦羅, 日本海海鮮, 加賀料理, 能登半島
 license: CC BY 4.0
 ---

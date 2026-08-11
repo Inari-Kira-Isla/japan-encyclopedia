@@ -6,7 +6,7 @@ category: udon-soba
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-udon-soba-nara-奈良烏龍麵散步-把湯麵變成古都巡禮的地圖-ada3c0.html
 published: 2026-06-02
-quality_score: 6.5
+quality_score: 8.6
 tags: 奈良美食, 烏龍麵, 古都散步, 日本料理, 在地體驗
 license: CC BY 4.0
 ---

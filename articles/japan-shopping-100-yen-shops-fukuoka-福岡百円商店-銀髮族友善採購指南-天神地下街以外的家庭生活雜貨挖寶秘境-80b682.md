@@ -6,7 +6,7 @@ category: 100-yen-shops
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-100-yen-shops-fukuoka-福岡百円商店-銀髮族友善採購指南-天神地下街以外的家庭生活雜貨挖寶秘境-80b682.html
 published: 2026-06-04
-quality_score: 7.5
+quality_score: 8.9
 tags: 福岡百円商店, 銀髮族購物, 博多美食, 九州自由行, 日本平價購物
 license: CC BY 4.0
 ---

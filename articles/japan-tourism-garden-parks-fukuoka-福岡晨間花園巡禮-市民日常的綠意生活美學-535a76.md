@@ -6,7 +6,7 @@ category: garden-parks
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-fukuoka-福岡晨間花園巡禮-市民日常的綠意生活美學-535a76.html
 published: 2026-06-15
-quality_score: 6.5
+quality_score: 8.9
 tags: 福岡, 花園公園, 晨間運動, 城市綠洲, 在地體驗
 license: CC BY 4.0
 ---

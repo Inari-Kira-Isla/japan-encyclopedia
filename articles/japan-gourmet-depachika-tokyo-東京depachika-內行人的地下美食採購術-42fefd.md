@@ -6,7 +6,7 @@ category: depachika
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-depachika-tokyo-東京depachika-內行人的地下美食採購術-42fefd.html
 published: 2026-05-25
-quality_score: 6.5
+quality_score: 8.4
 tags: 東京Depachika, 新宿, 銀座, 吉祥寺, 百货公司地下
 license: CC BY 4.0
 ---

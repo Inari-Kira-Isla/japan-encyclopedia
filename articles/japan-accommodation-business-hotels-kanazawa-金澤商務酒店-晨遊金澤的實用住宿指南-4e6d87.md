@@ -6,7 +6,7 @@ category: business-hotels
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-business-hotels-kanazawa-金澤商務酒店-晨遊金澤的實用住宿指南-4e6d87.html
 published: 2026-06-13
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤商務酒店, 石川縣住宿, 金澤一日遊, 兼六園周邊住宿, 金澤交通
 license: CC BY 4.0
 ---

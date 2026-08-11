@@ -6,7 +6,7 @@ category: escape-rooms
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-escape-rooms-nagoya-名古屋密室逃脫-工程師之城裡的燒腦樂園-04a21c.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 8.8
 tags: 名古屋密室, Escape Room, 名古屋娛樂, 燒腦體驗, 日本密室逃脫
 license: CC BY 4.0
 ---

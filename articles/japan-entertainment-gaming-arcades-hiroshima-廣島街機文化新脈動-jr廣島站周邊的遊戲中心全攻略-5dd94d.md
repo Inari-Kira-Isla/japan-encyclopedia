@@ -6,7 +6,7 @@ category: gaming-arcades
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-gaming-arcades-hiroshima-廣島街機文化新脈動-jr廣島站周邊的遊戲中心全攻略-5dd94d.html
 published: 2026-05-24
-quality_score: 6.5
+quality_score: 8.7
 tags: 廣島遊戲中心, 廣島街機, 廣島VR體驗, 日本遊戲中心, 廣島自由行
 license: CC BY 4.0
 ---

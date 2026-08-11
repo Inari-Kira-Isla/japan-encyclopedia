@@ -6,7 +6,7 @@ category: metro-systems
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-tokyo-東京metro地下鐵的藝術車站巡禮-隱藏在月臺與通道的設計美學-f718e3.html
 published: 2026-06-08
-quality_score: 7.5
+quality_score: 8.6
 tags: 東京地下鐵, Tokyo Metro, 東京交通, 東京Metro設計, 東京藝術車站
 license: CC BY 4.0
 ---

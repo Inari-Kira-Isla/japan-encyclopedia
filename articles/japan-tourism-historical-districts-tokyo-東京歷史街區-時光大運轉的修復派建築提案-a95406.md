@@ -6,7 +6,7 @@ category: historical-districts
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-tokyo-東京歷史街區-時光大運轉的修復派建築提案-a95406.html
 published: 2026-05-21
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京歷史街區, 修復派建築, 下町風情, 谷中根津千馱木, 神樂坂
 license: CC BY 4.0
 ---

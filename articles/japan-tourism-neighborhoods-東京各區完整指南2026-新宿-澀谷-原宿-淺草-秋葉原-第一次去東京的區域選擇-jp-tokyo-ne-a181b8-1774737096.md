@@ -6,7 +6,7 @@ category: neighborhoods
 area: japan
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-neighborhoods-東京各區完整指南2026-新宿-澀谷-原宿-淺草-秋葉原-第一次去東京的區域選擇-jp-tokyo-ne-a181b8-1774737096.html
 published: 2026-03-28
-quality_score: 7.6
+quality_score: 8.5
 tags: 東京各區, 新宿, 澀谷, 原宿, 浅草
 license: CC BY 4.0
 ---

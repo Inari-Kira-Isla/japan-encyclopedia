@@ -6,7 +6,7 @@ category: depachika
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-depachika-osaka-大阪depachika-下班後的美味日常-在地人的食堂與旬之味-7c4738.html
 published: 2026-07-03
-quality_score: 6.5
+quality_score: 8.8
 tags: 大阪美食, Depachika, 地下食品街, 日本百貨, 關西旅行
 license: CC BY 4.0
 ---

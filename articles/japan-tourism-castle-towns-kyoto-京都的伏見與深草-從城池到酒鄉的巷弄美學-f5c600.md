@@ -6,7 +6,7 @@ category: castle-towns
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-castle-towns-kyoto-京都的伏見與深草-從城池到酒鄉的巷弄美學-f5c600.html
 published: 2026-06-11
-quality_score: 6.5
+quality_score: 8.8
 tags: 京都城堡城鎮, 伏見城下町, 深草歷史街區, 京都地酒, 京都深度旅遊
 license: CC BY 4.0
 ---

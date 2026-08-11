@@ -6,7 +6,7 @@ category: business-hotels
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-business-hotels-nagoya-名古屋商務飯店-味噌與製造王國的商務棲所-b40f03.html
 published: 2026-06-23
-quality_score: 6.5
+quality_score: 8.7
 tags: 名古屋商務住宿, 商務飯店, 中部國際機場, 製造產業出差, 名古屋車站
 license: CC BY 4.0
 ---

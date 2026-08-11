@@ -6,7 +6,7 @@ category: depachika
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-depachika-sendai-仙台depachika-牛タン與魚板的東北滋味-百貨地下的人才味覺地圖-2147cb.html
 published: 2026-06-17
-quality_score: 6.5
+quality_score: 8.5
 tags: 仙台, Depachika, 東北美食, 牛タン, 魚板
 license: CC BY 4.0
 ---

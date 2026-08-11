@@ -6,7 +6,7 @@ category: sushi
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sushi-tokyo-東京壽司-從千元到三萬日圓的品味階梯-afb111.html
 published: 2026-06-05
-quality_score: 6.5
+quality_score: 8.6
 tags: 東京壽司, 壽司推薦, 日本美食, 回転壽司, 板前壽司
 license: CC BY 4.0
 ---

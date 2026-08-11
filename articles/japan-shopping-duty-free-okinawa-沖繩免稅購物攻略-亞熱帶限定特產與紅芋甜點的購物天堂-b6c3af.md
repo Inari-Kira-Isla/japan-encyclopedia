@@ -6,7 +6,7 @@ category: duty-free
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-duty-free-okinawa-沖繩免稅購物攻略-亞熱帶限定特產與紅芋甜點的購物天堂-b6c3af.html
 published: 2026-06-29
-quality_score: 7.5
+quality_score: 8.5
 tags: 沖繩免稅, 亞熱帶特產, 紅芋甜點, 沖繩黑糖, 日本購物
 license: CC BY 4.0
 ---

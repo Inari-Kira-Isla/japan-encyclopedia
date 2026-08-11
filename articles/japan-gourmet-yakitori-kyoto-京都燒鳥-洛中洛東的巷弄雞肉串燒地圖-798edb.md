@@ -6,7 +6,7 @@ category: yakitori
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-yakitori-kyoto-京都燒鳥-洛中洛東的巷弄雞肉串燒地圖-798edb.html
 published: 2026-05-24
-quality_score: 6.5
+quality_score: 8.7
 tags: 京都燒鳥, 洛中洛東, 日本料理, 串燒, 京都美食
 license: CC BY 4.0
 ---

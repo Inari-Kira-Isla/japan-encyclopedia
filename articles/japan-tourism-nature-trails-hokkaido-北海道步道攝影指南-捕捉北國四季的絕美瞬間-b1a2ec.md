@@ -6,7 +6,7 @@ category: nature-trails
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-hokkaido-北海道步道攝影指南-捕捉北國四季的絕美瞬間-b1a2ec.html
 published: 2026-05-24
-quality_score: 6.5
+quality_score: 8.8
 tags: 北海道, 自然步道, 攝影指南, 徒步, 秋季楓葉
 license: CC BY 4.0
 ---

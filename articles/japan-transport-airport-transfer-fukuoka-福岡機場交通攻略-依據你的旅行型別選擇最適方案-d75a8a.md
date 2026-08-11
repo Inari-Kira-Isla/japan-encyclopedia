@@ -6,7 +6,7 @@ category: airport-transfer
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-airport-transfer-fukuoka-福岡機場交通攻略-依據你的旅行型別選擇最適方案-d75a8a.html
 published: 2026-06-18
-quality_score: 7.5
+quality_score: 8.5
 tags: 福岡機場, 機場交通, 九州旅遊, 福岡行程規劃, 機場接駁
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: souvenir-omiyage
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-souvenir-omiyage-sendai-仙台購物漫遊-探索巷弄中的伴手禮魅力-d724a7.html
 published: 2026-06-17
-quality_score: 7.5
+quality_score: 8.8
 tags: 仙台伴手禮, 日本東北購物, 仙台旅遊, 廣瀨通, 毛豆甜點
 license: CC BY 4.0
 ---

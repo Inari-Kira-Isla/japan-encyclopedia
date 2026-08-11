@@ -6,7 +6,7 @@ category: temple-stays
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-temple-stays-nara-奈良寺廟住宿的真實選擇指南-從預算到體驗的全景分析-e4442b.html
 published: 2026-03-23
-quality_score: 6.5
+quality_score: 8.5
 tags: 奈良, 寺廟住宿, 宿坊, 寺院體驗, 古都旅遊
 license: CC BY 4.0
 ---

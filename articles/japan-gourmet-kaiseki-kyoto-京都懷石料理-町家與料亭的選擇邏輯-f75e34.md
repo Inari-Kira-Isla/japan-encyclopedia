@@ -6,7 +6,7 @@ category: kaiseki
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-kaiseki-kyoto-京都懷石料理-町家與料亭的選擇邏輯-f75e34.html
 published: 2026-06-16
-quality_score: 6.5
+quality_score: 8.4
 tags: 京都懷石, 京都美食, 祇園, 町家餐廳, 京野菜
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: minshuku
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-kanazawa-金澤民宿完全指南-車站周邊與淺草橋的生活感住宿-eedffd.html
 published: 2026-06-22
-quality_score: 6.5
+quality_score: 8.5
 tags: 金澤住宿, 民宿推薦, 日本旅行, 石川縣, 北陸旅行
 license: CC BY 4.0
 ---

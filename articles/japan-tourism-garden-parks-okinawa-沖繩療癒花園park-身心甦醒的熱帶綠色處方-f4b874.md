@@ -6,7 +6,7 @@ category: garden-parks
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-okinawa-沖繩療癒花園park-身心甦醒的熱帶綠色處方-f4b874.html
 published: 2026-06-12
-quality_score: 6.5
+quality_score: 8.5
 tags: 沖繩花園, 沖繩公園, 熱帶花園, 亞熱帶旅遊, 山原森林
 license: CC BY 4.0
 ---

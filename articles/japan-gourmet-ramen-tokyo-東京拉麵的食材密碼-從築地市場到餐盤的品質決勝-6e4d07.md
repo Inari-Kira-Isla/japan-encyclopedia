@@ -6,7 +6,7 @@ category: ramen
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-ramen-tokyo-東京拉麵的食材密碼-從築地市場到餐盤的品質決勝-6e4d07.html
 published: 2026-03-24
-quality_score: 6.5
+quality_score: 8.8
 tags: 東京美食, 拉麵, 食材供應鏈, 築地市場, 在地深度美食
 license: CC BY 4.0
 ---

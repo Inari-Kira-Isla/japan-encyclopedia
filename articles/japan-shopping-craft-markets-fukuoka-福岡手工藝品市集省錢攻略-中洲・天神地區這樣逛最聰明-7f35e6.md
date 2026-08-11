@@ -6,7 +6,7 @@ category: craft-markets
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-craft-markets-fukuoka-福岡手工藝品市集省錢攻略-中洲・天神地區這樣逛最聰明-7f35e6.html
 published: 2026-05-25
-quality_score: 7.5
+quality_score: 8.5
 tags: 福岡, 手工艺品市集, 省錢攻略, 天神, 中洲
 license: CC BY 4.0
 ---

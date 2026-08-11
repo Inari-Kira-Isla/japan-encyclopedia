@@ -6,7 +6,7 @@ category: craft-markets
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-craft-markets-nara-奈良工藝巷弄探險-古都小巷中的手作寶藏地圖-b6575b.html
 published: 2026-07-02
-quality_score: 7.5
+quality_score: 8.7
 tags: 奈良工藝, 手作體驗, 日本傳統工藝, 奈良深度旅遊, 工藝小巷探險
 license: CC BY 4.0
 ---

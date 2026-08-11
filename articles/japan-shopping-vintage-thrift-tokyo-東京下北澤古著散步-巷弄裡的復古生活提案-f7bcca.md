@@ -6,7 +6,7 @@ category: vintage-thrift
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-vintage-thrift-tokyo-東京下北澤古著散步-巷弄裡的復古生活提案-f7bcca.html
 published: 2026-05-23
-quality_score: 7.5
+quality_score: 8.8
 tags: 下北澤古著, 東京二手衣, 井之頭線, 復古時尚, 古著散步
 license: CC BY 4.0
 ---

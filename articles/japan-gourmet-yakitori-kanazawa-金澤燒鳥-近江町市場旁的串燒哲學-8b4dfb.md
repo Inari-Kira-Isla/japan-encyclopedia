@@ -6,7 +6,7 @@ category: yakitori
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-yakitori-kanazawa-金澤燒鳥-近江町市場旁的串燒哲學-8b4dfb.html
 published: 2026-06-03
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤燒鳥, 石川縣美食, 近江町市場, 能登雞, 日本海海鮮燒烤
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: winter-festivals
 area: japan
 url: https://japan-encyclopedia.vercel.app/articles/japan-events-winter-festivals-日本冬季燈光節完整指南2026-足立區-nabana-江之島-冬季illumination費用攻略--daeb2a.html
 published: 2026-03-29
-quality_score: 7.6
+quality_score: 8.5
 tags: 日本冬季燈光節, なばなの里, 東京冬季Illumination, 日本聖誕燈光, 江之島燈光
 license: CC BY 4.0
 ---

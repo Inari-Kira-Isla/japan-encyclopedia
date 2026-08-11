@@ -6,7 +6,7 @@ category: duty-free
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-duty-free-kobe-神戶免稅購物新策略-把握日圓貶值黃金期的港都購物攻略-f5a656.html
 published: 2026-04-03
-quality_score: 7.5
+quality_score: 8.7
 tags: 神戶免稅購物, 日本購物, 免稅店, 神戶牛, 神戶清酒
 license: CC BY 4.0
 ---

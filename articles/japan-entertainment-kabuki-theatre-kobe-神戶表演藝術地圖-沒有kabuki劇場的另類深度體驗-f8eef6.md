@@ -6,7 +6,7 @@ category: kabuki-theatre
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-kabuki-theatre-kobe-神戶表演藝術地圖-沒有kabuki劇場的另類深度體驗-f8eef6.html
 published: 2026-06-05
-quality_score: 6.5
+quality_score: 8.5
 tags: 神戶表演藝術, 關西戲劇, 神戶夜景, 日本娛樂體驗, 大阪Kabuki
 license: CC BY 4.0
 ---

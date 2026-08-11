@@ -6,7 +6,7 @@ category: rental-cars
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-kyoto-京都自駕放射狀遊覽-從千年古都出發的周邊探索策略-87cefe.html
 published: 2026-06-14
-quality_score: 7.5
+quality_score: 8.7
 tags: 京都租車, 關西自駕, 日本海側, 丹後半島, 放射狀旅遊
 license: CC BY 4.0
 ---

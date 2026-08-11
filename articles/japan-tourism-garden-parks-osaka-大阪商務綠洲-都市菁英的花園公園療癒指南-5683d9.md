@@ -6,7 +6,7 @@ category: garden-parks
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-osaka-大阪商務綠洲-都市菁英的花園公園療癒指南-5683d9.html
 published: 2026-04-06
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪, 商務旅遊, 都市公園, 商務接待, 壓力療癒
 license: CC BY 4.0
 ---

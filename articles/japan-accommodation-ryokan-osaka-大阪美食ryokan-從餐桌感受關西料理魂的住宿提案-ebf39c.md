@@ -6,7 +6,7 @@ category: ryokan
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-osaka-大阪美食ryokan-從餐桌感受關西料理魂的住宿提案-ebf39c.html
 published: 2026-06-08
-quality_score: 6.5
+quality_score: 8.6
 tags: 大阪美食, 都市型溫泉, 一泊二食, 關西住宿, Ryokan推薦
 license: CC BY 4.0
 ---

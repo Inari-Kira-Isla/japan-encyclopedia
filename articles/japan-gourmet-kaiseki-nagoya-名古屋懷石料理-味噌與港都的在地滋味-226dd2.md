@@ -6,7 +6,7 @@ category: kaiseki
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-kaiseki-nagoya-名古屋懷石料理-味噌與港都的在地滋味-226dd2.html
 published: 2026-06-18
-quality_score: 6.5
+quality_score: 8.7
 tags: 名古屋懷石, 八丁味噌, 三河灣海產, 日本料理, 名古屋美食
 license: CC BY 4.0
 ---

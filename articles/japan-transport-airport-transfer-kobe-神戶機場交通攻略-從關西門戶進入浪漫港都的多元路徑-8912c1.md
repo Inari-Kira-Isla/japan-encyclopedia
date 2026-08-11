@@ -6,7 +6,7 @@ category: airport-transfer
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-airport-transfer-kobe-神戶機場交通攻略-從關西門戶進入浪漫港都的多元路徑-8912c1.html
 published: 2026-06-11
-quality_score: 7.5
+quality_score: 8.7
 tags: 神戶機場交通, 關西機場到神戶, 神戶交通攻略, 神戶機場接送, 日本關西自由行
 license: CC BY 4.0
 ---

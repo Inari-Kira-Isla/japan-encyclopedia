@@ -6,7 +6,7 @@ category: castle-towns
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-castle-towns-tokyo-東京古城風情-探索東京都內的城堡與城下町遺產-ce2712.html
 published: 2026-06-25
-quality_score: 6.5
+quality_score: 8.9
 tags: 東京, 城堡城鎮, 江戶, 歷史古蹟, 城下町
 license: CC BY 4.0
 ---

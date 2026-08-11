@@ -6,7 +6,7 @@ category: business-hotels
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-business-hotels-nara-奈良商務酒店-車站樞紐與世界遺產之間的高效住宿選擇-dbce87.html
 published: 2026-06-22
-quality_score: 6.5
+quality_score: 8.5
 tags: 奈良商務酒店, 奈良住宿, 關西商務旅行, 奈良交通, 奈良JR奈良站
 license: CC BY 4.0
 ---

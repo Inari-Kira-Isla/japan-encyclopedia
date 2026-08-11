@@ -6,7 +6,7 @@ category: theme-parks
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-theme-parks-sendai-仙台主題娛樂新定義-在地人的夜間遊樂指南-603182.html
 published: 2026-04-04
-quality_score: 6.5
+quality_score: 8.7
 tags: 仙台娛樂, 夜生活, 室內主題設施, 東北體驗, 在地文化
 license: CC BY 4.0
 ---

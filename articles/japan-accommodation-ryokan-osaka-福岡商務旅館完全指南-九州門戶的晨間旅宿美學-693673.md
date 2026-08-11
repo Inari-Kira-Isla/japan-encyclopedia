@@ -6,7 +6,7 @@ category: ryokan
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-osaka-福岡商務旅館完全指南-九州門戶的晨間旅宿美學-693673.html
 published: 2026-06-17
-quality_score: 6.5
+quality_score: 8.7
 tags: 福岡Ryokan, 九州傳統旅館, 博多住宿, 商務旅行, 福岡溫泉
 license: CC BY 4.0
 ---

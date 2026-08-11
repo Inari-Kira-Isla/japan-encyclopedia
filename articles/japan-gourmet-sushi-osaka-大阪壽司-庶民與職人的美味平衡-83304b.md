@@ -6,7 +6,7 @@ category: sushi
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sushi-osaka-大阪壽司-庶民與職人的美味平衡-83304b.html
 published: 2026-03-24
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪壽司, 大阪美食, 日本料理, 回転寿司, 關西美食
 license: CC BY 4.0
 ---

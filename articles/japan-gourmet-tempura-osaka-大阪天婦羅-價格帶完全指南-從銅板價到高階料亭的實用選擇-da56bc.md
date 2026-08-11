@@ -6,7 +6,7 @@ category: tempura
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tempura-osaka-大阪天婦羅-價格帶完全指南-從銅板價到高階料亭的實用選擇-da56bc.html
 published: 2026-06-18
-quality_score: 6.5
+quality_score: 8.5
 tags: 大阪美食, 天婦羅, 關西料理, 日本料理, 平價美食
 license: CC BY 4.0
 ---

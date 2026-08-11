@@ -6,7 +6,7 @@ category: business-hotels
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-business-hotels-fukuoka-福岡天神南站商務住宿深度指南-長期出差旅客的廚房與在地體驗-f452ee.html
 published: 2026-06-21
-quality_score: 6.5
+quality_score: 8.7
 tags: 福岡商務住宿, 天神南站, 長期出差, Kitchenette, 博多站
 license: CC BY 4.0
 ---

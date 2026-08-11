@@ -6,7 +6,7 @@ category: shinkansen
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-hiroshima-廣島新幹線站-山陽地區的交通樞紐與旅遊門戶-409d7e.html
 published: 2026-03-21
-quality_score: 7.5
+quality_score: 8.7
 tags: 新幹線, 廣島, 日本交通, 山陽新幹線, 旅遊樞紐
 license: CC BY 4.0
 ---

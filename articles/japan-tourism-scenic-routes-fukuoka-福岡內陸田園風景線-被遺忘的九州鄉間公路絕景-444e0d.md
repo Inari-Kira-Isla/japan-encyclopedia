@@ -6,7 +6,7 @@ category: scenic-routes
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-fukuoka-福岡內陸田園風景線-被遺忘的九州鄉間公路絕景-444e0d.html
 published: 2026-06-17
-quality_score: 6.5
+quality_score: 8.8
 tags: 福岡內陸風景, 九州自駕路線, 鄉間公路, 田園風光, 八女市
 license: CC BY 4.0
 ---

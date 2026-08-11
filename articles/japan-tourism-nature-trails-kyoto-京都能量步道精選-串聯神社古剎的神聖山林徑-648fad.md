@@ -6,7 +6,7 @@ category: nature-trails
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-kyoto-京都能量步道精選-串聯神社古剎的神聖山林徑-648fad.html
 published: 2026-06-09
-quality_score: 6.5
+quality_score: 8.7
 tags: 京都, 自然步道, 登山, 參道, 神社
 license: CC BY 4.0
 ---

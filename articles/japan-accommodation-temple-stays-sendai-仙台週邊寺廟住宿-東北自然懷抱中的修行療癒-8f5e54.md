@@ -6,7 +6,7 @@ category: temple-stays
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-temple-stays-sendai-仙台週邊寺廟住宿-東北自然懷抱中的修行療癒-8f5e54.html
 published: 2026-05-24
-quality_score: 6.5
+quality_score: 8.5
 tags: 東北寺廟住宿, 仙台修行體驗, 藏王山岳信仰, 松島海岸宿坊, 鳴子溫泉禪修
 license: CC BY 4.0
 ---

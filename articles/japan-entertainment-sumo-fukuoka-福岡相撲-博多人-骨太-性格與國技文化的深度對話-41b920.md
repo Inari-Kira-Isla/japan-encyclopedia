@@ -6,7 +6,7 @@ category: sumo
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-fukuoka-福岡相撲-博多人-骨太-性格與國技文化的深度對話-41b920.html
 published: 2026-06-25
-quality_score: 6.5
+quality_score: 8.7
 tags: 福岡相撲, 九州場所, 博多人性格, 相撲火鍋, 體驗型旅遊
 license: CC BY 4.0
 ---

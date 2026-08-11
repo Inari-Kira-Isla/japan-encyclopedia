@@ -6,7 +6,7 @@ category: regional-travel
 area: japan
 url: https://japan-encyclopedia.vercel.app/articles/japan-attractions-regional-travel-仙台和東北完整旅遊指南2026-仙台牛舌-松島-山寺-東北旅遊費用-jpy-攻略-jp-se-152e50.html
 published: 2026-04-13
-quality_score: 6.1
+quality_score: 8.8
 tags: 仙台旅遊, 仙台牛舌, 松島, 藏王樹冰, 東北旅遊
 license: CC BY 4.0
 ---

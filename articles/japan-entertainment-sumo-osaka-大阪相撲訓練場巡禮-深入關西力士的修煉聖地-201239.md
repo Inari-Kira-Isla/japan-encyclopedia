@@ -6,7 +6,7 @@ category: sumo
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-osaka-大阪相撲訓練場巡禮-深入關西力士的修煉聖地-201239.html
 published: 2026-06-22
-quality_score: 6.5
+quality_score: 8.6
 tags: 大阪相撲, 關西相撲, 相撲見學, 部屋巡禮, 力士訓練
 license: CC BY 4.0
 ---

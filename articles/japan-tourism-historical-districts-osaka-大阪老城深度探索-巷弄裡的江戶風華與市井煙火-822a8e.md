@@ -6,7 +6,7 @@ category: historical-districts
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-osaka-大阪老城深度探索-巷弄裡的江戶風華與市井煙火-822a8e.html
 published: 2026-03-31
-quality_score: 6.5
+quality_score: 8.8
 tags: 大阪, 歷史街區, 散步, 昭和風, 老街
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: shinkansen
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-nagoya-名古屋的高速移動樞紐-新幹綫時代的中部玄關-67aba5.html
 published: 2026-06-29
-quality_score: 7.5
+quality_score: 8.7
 tags: 名古屋, 新幹綫, 中部地方, JR中央, 名古屋駅
 license: CC BY 4.0
 ---

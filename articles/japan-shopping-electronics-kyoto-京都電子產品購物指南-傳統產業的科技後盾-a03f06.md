@@ -6,7 +6,7 @@ category: electronics
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-electronics-kyoto-京都電子產品購物指南-傳統產業的科技後盾-a03f06.html
 published: 2026-06-24
-quality_score: 7.5
+quality_score: 8.5
 tags: 京都電子產品, 京都購物, 傳統工藝, 專業儀器, 京都自由行
 license: CC BY 4.0
 ---

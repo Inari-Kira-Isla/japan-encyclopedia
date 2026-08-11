@@ -6,7 +6,7 @@ category: capsule-hotels
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-capsule-hotels-hiroshima-廣島膠囊旅館完整指南-從宮島參拜到廣島燒美食的住宿策略-414aed.html
 published: 2026-06-19
-quality_score: 6.5
+quality_score: 8.7
 tags: 廣島膠囊旅館, 宮島住宿, 廣島燒, 平和紀念, 日本自由行
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: wagyu
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-wagyu-sendai-仙台人的牛歲月-巷仔內的和牛喝酒文化指南-c6d5dc.html
 published: 2026-05-25
-quality_score: 6.5
+quality_score: 8.5
 tags: 仙台美食, 和牛推薦, 仙台Izakaya, 東北美食, 在地美食
 license: CC BY 4.0
 ---

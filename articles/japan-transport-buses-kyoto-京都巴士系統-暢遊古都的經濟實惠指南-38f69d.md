@@ -6,7 +6,7 @@ category: buses
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-buses-kyoto-京都巴士系統-暢遊古都的經濟實惠指南-38f69d.html
 published: 2026-06-09
-quality_score: 7.5
+quality_score: 8.4
 tags: 京都巴士, 京都交通, 古都旅遊, 預算旅行, 關西自由行
 license: CC BY 4.0
 ---

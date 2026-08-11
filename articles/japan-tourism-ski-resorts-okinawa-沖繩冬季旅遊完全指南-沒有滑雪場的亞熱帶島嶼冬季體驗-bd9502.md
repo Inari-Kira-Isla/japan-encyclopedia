@@ -6,7 +6,7 @@ category: ski-resorts
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-ski-resorts-okinawa-沖繩冬季旅遊完全指南-沒有滑雪場的亞熱帶島嶼冬季體驗-bd9502.html
 published: 2026-07-06
-quality_score: 6.5
+quality_score: 8.6
 tags: 沖繩冬季旅遊, 沖繩賞鯨, 沖繩溫泉, 亞熱帶滑雪, 日本滑雪替代方案
 license: CC BY 4.0
 ---

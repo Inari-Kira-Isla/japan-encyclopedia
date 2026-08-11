@@ -6,7 +6,7 @@ category: wagyu
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-wagyu-hokkaido-北海道和牛公路美食提案-札幌至小樽沿線的冬日肉旅-eb0395.html
 published: 2026-06-20
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道和牛, 自駕美食, 札幌, 小樽, 冬季
 license: CC BY 4.0
 ---

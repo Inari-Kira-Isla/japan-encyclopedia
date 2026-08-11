@@ -6,7 +6,7 @@ category: day-trips
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-kyoto-京都鐵道慢旅-搭小火車穿越古今的私房一日-74a874.html
 published: 2026-06-14
-quality_score: 6.5
+quality_score: 8.9
 tags: 京都一日遊, 鐵道旅行, 關西慢旅, 非主流景點, 秋季賞楓
 license: CC BY 4.0
 ---

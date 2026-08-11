@@ -6,7 +6,7 @@ category: sushi
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sushi-hiroshima-廣島壽司-瀨戶內海孕育的在地海味美學-504a87.html
 published: 2026-03-24
-quality_score: 6.5
+quality_score: 8.9
 tags: 廣島壽司, 瀨戶內海美食, 日本壽司, 廣島必吃, 海鮮推薦
 license: CC BY 4.0
 ---

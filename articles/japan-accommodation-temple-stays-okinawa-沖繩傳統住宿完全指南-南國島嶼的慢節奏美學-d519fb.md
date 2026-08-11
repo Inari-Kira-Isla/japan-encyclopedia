@@ -6,7 +6,7 @@ category: temple-stays
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-temple-stays-okinawa-沖繩傳統住宿完全指南-南國島嶼的慢節奏美學-d519fb.html
 published: 2026-06-10
-quality_score: 6.5
+quality_score: 8.5
 tags: 沖繩, Ryokan, 傳統住宿, 日本溫泉, 亞熱帶
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: gaming-arcades
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-gaming-arcades-sendai-仙台遊戲中心-東北青年文化的創意場域-3e820e.html
 published: 2026-06-06
-quality_score: 6.5
+quality_score: 8.5
 tags: 仙台遊戲中心, 東北娛樂, 日本街機, 仙台旅遊, 遊戲中心推薦
 license: CC BY 4.0
 ---

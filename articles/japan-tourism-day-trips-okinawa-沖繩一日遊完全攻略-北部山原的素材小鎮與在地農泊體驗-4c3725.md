@@ -6,7 +6,7 @@ category: day-trips
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-okinawa-沖繩一日遊完全攻略-北部山原的素材小鎮與在地農泊體驗-4c3725.html
 published: 2026-05-23
-quality_score: 6.5
+quality_score: 8.7
 tags: 沖繩一日遊, 山原地區, 北部沖繩, 素材小鎮, 黑糖工坊
 license: CC BY 4.0
 ---

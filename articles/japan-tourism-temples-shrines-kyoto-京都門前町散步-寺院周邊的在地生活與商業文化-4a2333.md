@@ -6,7 +6,7 @@ category: temples-shrines
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-temples-shrines-kyoto-京都門前町散步-寺院周邊的在地生活與商業文化-4a2333.html
 published: 2026-06-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 京都, 門前町, 寺院, 神社, 散步
 license: CC BY 4.0
 ---

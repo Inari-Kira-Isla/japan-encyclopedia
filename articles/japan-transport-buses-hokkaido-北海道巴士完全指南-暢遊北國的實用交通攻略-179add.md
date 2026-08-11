@@ -6,7 +6,7 @@ category: buses
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-buses-hokkaido-北海道巴士完全指南-暢遊北國的實用交通攻略-179add.html
 published: 2026-03-20
-quality_score: 7.5
+quality_score: 8.7
 tags: 北海道巴士, 北海道交通, 新千歲空港, 機場接駁, 城際巴士
 license: CC BY 4.0
 ---

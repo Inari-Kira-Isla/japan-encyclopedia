@@ -6,7 +6,7 @@ category: tonkatsu
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tonkatsu-tokyo-東京豚排的職人美學-從商鋪到星級餐廳的味覺演進-3c4c1c.html
 published: 2026-06-28
-quality_score: 6.5
+quality_score: 8.6
 tags: 東京豚排, 東京美食, Tokyo Tonkatsu, 人形町今半, 成藏
 license: CC BY 4.0
 ---

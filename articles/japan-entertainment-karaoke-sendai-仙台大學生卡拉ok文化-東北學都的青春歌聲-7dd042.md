@@ -6,7 +6,7 @@ category: karaoke
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-karaoke-sendai-仙台大學生卡拉ok文化-東北學都的青春歌聲-7dd042.html
 published: 2026-04-01
-quality_score: 6.5
+quality_score: 8.6
 tags: 仙台, 卡拉OK, 大學生文化, 東北娛樂, 學生優惠
 license: CC BY 4.0
 ---

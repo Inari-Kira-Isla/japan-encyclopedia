@@ -6,7 +6,7 @@ category: boutique-hotels
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-hiroshima-廣島-boutiques-hotels-原子彈爆炸圓頂屋周邊的設計繫-a3c396.html
 published: 2026-05-23
-quality_score: 6.5
+quality_score: 8.8
 tags: 广岛boutique hotels, 精品酒店, 原爆圆顶屋, 和平纪念公园, 纸屋町
 license: CC BY 4.0
 ---

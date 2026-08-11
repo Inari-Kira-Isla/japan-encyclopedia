@@ -6,7 +6,7 @@ category: sake-brewery
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sake-brewery-hokkaido-北海道清酒釀造所-當日本最北端釀酒遇上極鮮海味的美食冒險-97af45.html
 published: 2026-06-30
-quality_score: 6.5
+quality_score: 8.6
 tags: 北海道清酒, 釀造所參訪, 日本最北端清酒, 馬糞海膽搭配, 余市清酒
 license: CC BY 4.0
 ---

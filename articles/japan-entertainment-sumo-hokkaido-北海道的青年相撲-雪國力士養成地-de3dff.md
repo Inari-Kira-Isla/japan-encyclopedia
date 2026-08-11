@@ -6,7 +6,7 @@ category: sumo
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-hokkaido-北海道的青年相撲-雪國力士養成地-de3dff.html
 published: 2026-03-24
-quality_score: 6.5
+quality_score: 8.6
 tags: 北海道, 相扑, 业余体育, 冬季体验, 日本文化
 license: CC BY 4.0
 ---

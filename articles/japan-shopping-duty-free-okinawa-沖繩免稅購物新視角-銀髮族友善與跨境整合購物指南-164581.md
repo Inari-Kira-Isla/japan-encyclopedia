@@ -6,7 +6,7 @@ category: duty-free
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-duty-free-okinawa-沖繩免稅購物新視角-銀髮族友善與跨境整合購物指南-164581.html
 published: 2026-04-06
-quality_score: 7.5
+quality_score: 8.7
 tags: 沖繩購物, 免稅店, 銀髮友善, 跨境購物, 無障礙購物
 license: CC BY 4.0
 ---

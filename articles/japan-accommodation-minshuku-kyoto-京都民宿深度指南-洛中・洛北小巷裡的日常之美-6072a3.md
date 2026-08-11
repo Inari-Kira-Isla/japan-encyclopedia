@@ -6,7 +6,7 @@ category: minshuku
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-kyoto-京都民宿深度指南-洛中・洛北小巷裡的日常之美-6072a3.html
 published: 2026-06-28
-quality_score: 6.5
+quality_score: 8.3
 tags: 京都民宿, 洛中住宿, 町家住宿, 背包客, 文化體驗
 license: CC BY 4.0
 ---

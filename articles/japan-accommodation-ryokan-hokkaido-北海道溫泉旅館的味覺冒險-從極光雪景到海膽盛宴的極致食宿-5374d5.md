@@ -6,7 +6,7 @@ category: ryokan
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-hokkaido-北海道溫泉旅館的味覺冒險-從極光雪景到海膽盛宴的極致食宿-5374d5.html
 published: 2026-06-12
-quality_score: 6.5
+quality_score: 8.5
 tags: 北海道溫泉旅馆, Ryokan推荐, 登別溫泉, 層雲峡溫泉, 一泊二食
 license: CC BY 4.0
 ---

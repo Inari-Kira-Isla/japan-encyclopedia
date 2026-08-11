@@ -6,7 +6,7 @@ category: izakaya
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-izakaya-hiroshima-廣島居酒屋的在地智慧-跟著廣島人喝出瀨戶內海的人情味-16258c.html
 published: 2026-04-06
-quality_score: 6.5
+quality_score: 8.7
 tags: 廣島美食, 居酒屋文化, 瀨戶內海料理, 在地體驗, 日本酒
 license: CC BY 4.0
 ---

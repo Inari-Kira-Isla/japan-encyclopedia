@@ -6,7 +6,7 @@ category: scenic-routes
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-tokyo-東京設計散步-從六本木到表參道的藝術建築廊道-9f5056.html
 published: 2026-07-04
-quality_score: 6.5
+quality_score: 8.9
 tags: 東京建築散步, 六本木藝術之旅, 表參道設計之旅, 東京當代藝術, 東京景觀路線
 license: CC BY 4.0
 ---

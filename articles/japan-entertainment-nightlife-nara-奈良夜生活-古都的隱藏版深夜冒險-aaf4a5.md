@@ -6,7 +6,7 @@ category: nightlife
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-nara-奈良夜生活-古都的隱藏版深夜冒險-aaf4a5.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 8.7
 tags: 奈良夜生活, 古都體驗, 日本深度遊, 人情味店家, 隱藏版景點
 license: CC BY 4.0
 ---

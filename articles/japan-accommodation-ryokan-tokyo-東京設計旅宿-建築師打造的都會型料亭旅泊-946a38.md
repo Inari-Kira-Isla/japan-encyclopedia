@@ -6,7 +6,7 @@ category: ryokan
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-tokyo-東京設計旅宿-建築師打造的都會型料亭旅泊-946a38.html
 published: 2026-06-23
-quality_score: 6.5
+quality_score: 8.6
 tags: 東京住宿, 設計旅宿, 都會型料亭, 下町風情, 東京Ryokan
 license: CC BY 4.0
 ---

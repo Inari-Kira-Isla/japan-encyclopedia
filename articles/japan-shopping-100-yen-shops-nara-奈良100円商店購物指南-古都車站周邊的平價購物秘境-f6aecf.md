@@ -6,7 +6,7 @@ category: 100-yen-shops
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-100-yen-shops-nara-奈良100円商店購物指南-古都車站周邊的平價購物秘境-f6aecf.html
 published: 2026-05-24
-quality_score: 7.5
+quality_score: 8.8
 tags: 奈良旅遊, 100円商店, 日本平價購物, 古都伴手禮, 奈良自由行
 license: CC BY 4.0
 ---

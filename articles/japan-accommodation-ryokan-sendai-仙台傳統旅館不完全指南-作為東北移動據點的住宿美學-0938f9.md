@@ -6,7 +6,7 @@ category: ryokan
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-sendai-仙台傳統旅館不完全指南-作為東北移動據點的住宿美學-0938f9.html
 published: 2026-06-08
-quality_score: 6.5
+quality_score: 8.5
 tags: 仙台, Ryokan, 東北旅行, 日本溫泉, 一泊二食
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: jr-pass
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-jr-pass-nara-奈良之旅的jr交通攻略-如何選擇最划算的鐵路周遊券-a0ed76.html
 published: 2026-05-24
-quality_score: 7.5
+quality_score: 8.5
 tags: 奈良 JR Pass, 關西鐵路周遊券, 日本鐵道攻略, 關西交通
 license: CC BY 4.0
 ---

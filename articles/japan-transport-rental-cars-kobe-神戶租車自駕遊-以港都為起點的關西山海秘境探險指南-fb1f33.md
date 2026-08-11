@@ -6,7 +6,7 @@ category: rental-cars
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-kobe-神戶租車自駕遊-以港都為起點的關西山海秘境探險指南-fb1f33.html
 published: 2026-05-24
-quality_score: 7.5
+quality_score: 8.7
 tags: 神戶租車, 關西自駕, 六甲山溫泉, 天橋立, 伊根舟屋
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: day-trips
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-okinawa-沖繩當日來回可行嗎-達人級一日遊行程規劃手冊-5f718c.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 8.5
 tags: 沖繩自駕, 一日遊攻略, 沖繩交通, 南部沖繩, 中部沖繩
 license: CC BY 4.0
 ---

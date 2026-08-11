@@ -6,7 +6,7 @@ category: nature-trails
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-nara-奈良自然步道完全指南-古都森林裡的千年深呼吸-d4644a.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 8.5
 tags: 奈良步道, 日本自然步道, 奈良健行, 古都森林, 山岳信仰
 license: CC BY 4.0
 ---

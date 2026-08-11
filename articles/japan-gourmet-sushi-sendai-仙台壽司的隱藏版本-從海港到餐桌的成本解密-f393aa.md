@@ -6,7 +6,7 @@ category: sushi
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sushi-sendai-仙台壽司的隱藏版本-從海港到餐桌的成本解密-f393aa.html
 published: 2026-06-10
-quality_score: 6.5
+quality_score: 8.9
 tags: 仙台壽司, 東北美食, 三陸海岸, 平價壽司, 在地美食
 license: CC BY 4.0
 ---

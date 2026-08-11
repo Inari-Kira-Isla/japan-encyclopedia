@@ -6,7 +6,7 @@ category: nature-trails
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-hokkaido-北海道自然步道-札幌周邊一日山林體驗完全指南-a7eca8.html
 published: 2026-06-22
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道自然步道, 札幌周邊步道, 定山溪步道, 藻岩山, 日本山林
 license: CC BY 4.0
 ---

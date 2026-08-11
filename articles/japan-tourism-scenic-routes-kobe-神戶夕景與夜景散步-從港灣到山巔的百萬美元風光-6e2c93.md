@@ -6,7 +6,7 @@ category: scenic-routes
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-kobe-神戶夕景與夜景散步-從港灣到山巔的百萬美元風光-6e2c93.html
 published: 2026-07-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 神戶, 夜景, 夕景, 六甲山, 有馬溫泉
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: kaiseki
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-kaiseki-kyoto-京都懷石料理-巷弄深處的在地滋味-c3f552.html
 published: 2026-05-24
-quality_score: 6.5
+quality_score: 8.9
 tags: 京都懷石, 京都美食, 京野菜, 關西料理, 日本深度遊
 license: CC BY 4.0
 ---

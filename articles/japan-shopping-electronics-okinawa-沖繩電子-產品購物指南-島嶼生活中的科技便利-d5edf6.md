@@ -6,7 +6,7 @@ category: electronics
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-electronics-okinawa-沖繩電子-產品購物指南-島嶼生活中的科技便利-d5edf6.html
 published: 2026-05-24
-quality_score: 7.5
+quality_score: 8.5
 tags: 沖繩電子產品, 沖繩購物指南, 那霸電器行, 琉球工藝LED, 沖繩漁業用品
 license: CC BY 4.0
 ---

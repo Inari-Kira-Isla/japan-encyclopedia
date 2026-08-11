@@ -6,7 +6,7 @@ category: matcha-sweets
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-matcha-sweets-kobe-神戶抹茶甜點-港都風範下的綠色甜品革命-a37c61.html
 published: 2026-06-28
-quality_score: 6.5
+quality_score: 8.7
 tags: 神戶, 抹茶甜點, 關西, 港都, 異國風情
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: cycling
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-kobe-神戶單車生活-港都山坡的日常騎行美學-a552bb.html
 published: 2026-06-07
-quality_score: 7.5
+quality_score: 8.7
 tags: 神戶單車, 兵庫騎行, 港都交通, 日本單車旅行, 六甲山
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: island-hopping
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-island-hopping-hiroshima-廣島瀨戶內海跳島溫泉之旅-島嶼旅館的四季風物詩-fa5f5a.html
 published: 2026-04-06
-quality_score: 6.5
+quality_score: 8.7
 tags: 廣島旅遊, 瀨戶內海, 溫泉旅館, 島嶼跳躍, 日式旅館
 license: CC BY 4.0
 ---

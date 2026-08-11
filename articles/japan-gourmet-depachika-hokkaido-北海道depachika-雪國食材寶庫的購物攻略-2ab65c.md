@@ -6,7 +6,7 @@ category: depachika
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-depachika-hokkaido-北海道depachika-雪國食材寶庫的購物攻略-2ab65c.html
 published: 2026-06-29
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道, Depachika, 美食, 購物, 日本料理
 license: CC BY 4.0
 ---

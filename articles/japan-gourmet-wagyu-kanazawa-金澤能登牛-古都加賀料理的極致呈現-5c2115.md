@@ -6,7 +6,7 @@ category: wagyu
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-wagyu-kanazawa-金澤能登牛-古都加賀料理的極致呈現-5c2115.html
 published: 2026-06-04
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤美食, 能登牛, 石川縣, 加賀料理, 日本和牛
 license: CC BY 4.0
 ---

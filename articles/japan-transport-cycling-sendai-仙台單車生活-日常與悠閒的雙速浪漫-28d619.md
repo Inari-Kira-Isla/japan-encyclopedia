@@ -6,7 +6,7 @@ category: cycling
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-sendai-仙台單車生活-日常與悠閒的雙速浪漫-28d619.html
 published: 2026-06-16
-quality_score: 7.5
+quality_score: 8.9
 tags: 仙台單車, 東北單車攻略, 杜之都單車, 仙台深度旅遊, 日本單車旅行
 license: CC BY 4.0
 ---

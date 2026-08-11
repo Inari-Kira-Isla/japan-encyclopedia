@@ -6,7 +6,7 @@ category: minshuku
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-sendai-仙台民宿海岸線-松島海岸一日生活的在地住宿選擇-3a336d.html
 published: 2026-05-24
-quality_score: 6.5
+quality_score: 8.7
 tags: 仙台民宿, 松島海岸, 東北住宿, 渔家民宿, 日本三景
 license: CC BY 4.0
 ---

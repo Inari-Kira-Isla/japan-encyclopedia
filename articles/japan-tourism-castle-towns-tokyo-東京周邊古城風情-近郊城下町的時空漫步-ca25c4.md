@@ -6,7 +6,7 @@ category: castle-towns
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-castle-towns-tokyo-東京周邊古城風情-近郊城下町的時空漫步-ca25c4.html
 published: 2026-06-05
-quality_score: 6.5
+quality_score: 8.8
 tags: 日本古城, 城下町, 東京近郊, 川越小京都, 佐原水鄉
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: historical-districts
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-nara-奈良歷史街區攻略-避開人潮的深度體驗路線-cb07aa.html
 published: 2026-04-04
-quality_score: 6.5
+quality_score: 8.7
 tags: 奈良, 歷史街區, 古都旅遊, 避開人潮, 深度體驗
 license: CC BY 4.0
 ---

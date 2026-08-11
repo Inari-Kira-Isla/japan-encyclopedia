@@ -6,7 +6,7 @@ category: island-hopping
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-island-hopping-tokyo-東京跳島深度遊-火山地形與海洋體驗的雙重探索-79f616.html
 published: 2026-07-02
-quality_score: 6.5
+quality_score: 8.5
 tags: 東京跳島, 伊互群島, 小笠原群島, 火山島嶼, 海島旅遊
 license: CC BY 4.0
 ---

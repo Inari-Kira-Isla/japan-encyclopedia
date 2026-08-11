@@ -6,7 +6,7 @@ category: garden-parks
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-okinawa-沖繩歷史庭園散步-從王家禪境到庶民綠地的時空漫步-50e140.html
 published: 2026-05-25
-quality_score: 6.5
+quality_score: 8.7
 tags: 沖繩庭園, 琉球歷史, 識名园, 御岳山, 萬座毛
 license: CC BY 4.0
 ---

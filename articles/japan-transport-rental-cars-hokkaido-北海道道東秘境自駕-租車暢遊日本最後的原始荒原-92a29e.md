@@ -6,7 +6,7 @@ category: rental-cars
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-hokkaido-北海道道東秘境自駕-租車暢遊日本最後的原始荒原-92a29e.html
 published: 2026-06-30
-quality_score: 7.5
+quality_score: 8.5
 tags: 北海道租車, 道東自駕, 釧路租車, 阿寒湖租車, 知床自駕
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: vr-experiences
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-vr-experiences-tokyo-tokyo-vr體驗完全指南-虛擬實境愛好者的都市探險地圖-defdd5.html
 published: 2026-05-21
-quality_score: 6.5
+quality_score: 8.4
 tags: Tokyo VR, 虛擬實境, 東京娛樂, 沉浸式體驗, 東京景點
 license: CC BY 4.0
 ---

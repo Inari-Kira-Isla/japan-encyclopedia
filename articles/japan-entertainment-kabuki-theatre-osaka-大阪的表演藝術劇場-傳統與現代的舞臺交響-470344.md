@@ -6,7 +6,7 @@ category: kabuki-theatre
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-kabuki-theatre-osaka-大阪的表演藝術劇場-傳統與現代的舞臺交響-470344.html
 published: 2026-05-21
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪, 劇場, 表演藝術, 漫才, 大阪旅游
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: nature-trails
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-kobe-神戶郊野步道輕鬆行-初學者也能征服的山林攻略-64a34c.html
 published: 2026-06-12
-quality_score: 6.5
+quality_score: 8.8
 tags: 神戶步道, 六甲山, 初學者健行, 有馬溫泉, 神戶自然
 license: CC BY 4.0
 ---

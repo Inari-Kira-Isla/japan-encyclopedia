@@ -6,7 +6,7 @@ category: tonkatsu
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tonkatsu-fukuoka-福岡豚カツ-港區與學園的美味南北線-e620bf.html
 published: 2026-06-18
-quality_score: 6.5
+quality_score: 8.7
 tags: 福岡美食, 豚カツ, 九州料理, 炸豬排, 福岡旅遊
 license: CC BY 4.0
 ---

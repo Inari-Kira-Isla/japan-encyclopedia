@@ -6,7 +6,7 @@ category: scenic-routes
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-tokyo-東京古道散步指南-穿越江戶歷史的風景名勝步道-4c8ac5.html
 published: 2026-03-24
-quality_score: 6.5
+quality_score: 8.8
 tags: 東京古道, 江戶歷史, 步道散步, 谷根千, 隅田川
 license: CC BY 4.0
 ---

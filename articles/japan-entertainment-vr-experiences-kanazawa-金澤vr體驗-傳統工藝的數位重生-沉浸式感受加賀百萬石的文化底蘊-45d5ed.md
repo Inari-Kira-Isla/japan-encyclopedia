@@ -6,7 +6,7 @@ category: vr-experiences
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-vr-experiences-kanazawa-金澤vr體驗-傳統工藝的數位重生-沉浸式感受加賀百萬石的文化底蘊-45d5ed.html
 published: 2026-06-05
-quality_score: 6.5
+quality_score: 8.8
 tags: 金澤VR體驗, 加賀百萬石, 金澤文化, 虛擬實境, 金箔工藝
 license: CC BY 4.0
 ---

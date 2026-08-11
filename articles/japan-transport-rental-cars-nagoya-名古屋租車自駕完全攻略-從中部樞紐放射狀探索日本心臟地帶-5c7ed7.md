@@ -6,7 +6,7 @@ category: rental-cars
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-nagoya-名古屋租車自駕完全攻略-從中部樞紐放射狀探索日本心臟地帶-5c7ed7.html
 published: 2026-06-01
-quality_score: 7.5
+quality_score: 8.7
 tags: 名古屋租車, 日本自駕, 中部國際機場, 放射狀旅遊, 2025大阪世博
 license: CC BY 4.0
 ---

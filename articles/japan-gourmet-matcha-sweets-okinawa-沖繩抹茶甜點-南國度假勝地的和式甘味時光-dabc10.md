@@ -6,7 +6,7 @@ category: matcha-sweets
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-matcha-sweets-okinawa-沖繩抹茶甜點-南國度假勝地的和式甘味時光-dabc10.html
 published: 2026-06-29
-quality_score: 6.5
+quality_score: 8.7
 tags: 沖繩, 抹茶甜點, 黑糖, 紅芋, 南國
 license: CC BY 4.0
 ---

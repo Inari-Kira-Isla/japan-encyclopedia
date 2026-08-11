@@ -6,7 +6,7 @@ category: castles
 area: japan
 url: https://japan-encyclopedia.vercel.app/articles/japan-culture-castles-日本城堡建築解碼-12座現存天守閣的真偽之爭-japan-castle-architecture-ac72ff.html
 published: 2026-03-28
-quality_score: 7.6
+quality_score: 8.5
 tags: 日本城堡, 天守閣, 姬路城, 松本城, 世界遺產
 license: CC BY 4.0
 ---

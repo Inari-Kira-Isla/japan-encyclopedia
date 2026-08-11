@@ -6,7 +6,7 @@ category: udon-soba
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-udon-soba-fukuoka-福岡烏龍蕎麥-天神以外的在地麵食散步-b223a8.html
 published: 2026-05-24
-quality_score: 6.5
+quality_score: 8.7
 tags: 福岡美食, 烏龍麵, 蕎麥麵, 在地美食, 天神
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: department-stores
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-department-stores-tokyo-東京特色百貨公司完整指南-5間非逛不可的質感賣場-f57a0e.html
 published: 2026-06-02
-quality_score: 7.5
+quality_score: 8.8
 tags: 東京購物, 日本百貨, 新宿逛街, 銀座購物, 東京伴手禮
 license: CC BY 4.0
 ---

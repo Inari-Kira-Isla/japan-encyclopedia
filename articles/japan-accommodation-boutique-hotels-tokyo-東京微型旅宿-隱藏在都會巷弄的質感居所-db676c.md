@@ -6,7 +6,7 @@ category: boutique-hotels
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-tokyo-東京微型旅宿-隱藏在都會巷弄的質感居所-db676c.html
 published: 2026-06-21
-quality_score: 6.5
+quality_score: 8.6
 tags: 東京, 精品酒店, 住宿推薦, 設計旅宿, 微型旅店
 license: CC BY 4.0
 ---

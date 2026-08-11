@@ -6,7 +6,7 @@ category: sumo
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-hiroshima-廣島相撲-從原爆遺址到道場體驗的瀨戶內相撲文化探索-77623b.html
 published: 2026-06-10
-quality_score: 6.5
+quality_score: 8.5
 tags: 廣島相撲, 瀨戶內相撲, 廣島和平紀念, 廣島體驗, 日本相撲文化
 license: CC BY 4.0
 ---

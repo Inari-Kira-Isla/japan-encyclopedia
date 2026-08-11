@@ -6,7 +6,7 @@ category: capsule-hotels
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-capsule-hotels-tokyo-東京膠囊飯店完全指南-省預算遊東京的最佳住宿選擇-102097.html
 published: 2026-05-31
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京膠囊飯店, 東京住宿, 東京省錢住宿, 背包客東京, 東京自由行
 license: CC BY 4.0
 ---

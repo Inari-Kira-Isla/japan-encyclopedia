@@ -6,7 +6,7 @@ category: craft-markets
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-craft-markets-nagoya-名古屋工藝市集完全攻略-陶藝之鄉的尋寶指南-9e06eb.html
 published: 2026-06-05
-quality_score: 7.5
+quality_score: 8.5
 tags: 名古屋工藝市集, 知多陶器, 瀨戶燒, 常滑陶磁器, 日本工藝之旅
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: depachika
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-depachika-hiroshima-廣島depachika-瀨戶內海風味與傳統技藝的美食殿堂-894255.html
 published: 2026-03-15
-quality_score: 6.5
+quality_score: 8.7
 tags: 廣島, Depachika, 百貨美食, 瀨戶內海, 牡蠣
 license: CC BY 4.0
 ---

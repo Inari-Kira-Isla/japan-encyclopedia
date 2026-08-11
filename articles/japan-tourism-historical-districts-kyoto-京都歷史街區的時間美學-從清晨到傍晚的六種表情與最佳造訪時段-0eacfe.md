@@ -6,7 +6,7 @@ category: historical-districts
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-kyoto-京都歷史街區的時間美學-從清晨到傍晚的六種表情與最佳造訪時段-0eacfe.html
 published: 2026-06-21
-quality_score: 6.5
+quality_score: 8.6
 tags: 京都, 歷史街區, 時間美學, 清晨京都, 傍晚京都
 license: CC BY 4.0
 ---

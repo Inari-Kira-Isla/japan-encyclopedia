@@ -6,7 +6,7 @@ category: nightlife
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-nara-奈良夜生活-古都的深夜食堂與穴場咖啡廳-99712b.html
 published: 2026-05-22
-quality_score: 6.5
+quality_score: 8.6
 tags: 奈良夜生活, 古都散步, 深夜食堂, 日本居酒屋, 平價旅遊
 license: CC BY 4.0
 ---

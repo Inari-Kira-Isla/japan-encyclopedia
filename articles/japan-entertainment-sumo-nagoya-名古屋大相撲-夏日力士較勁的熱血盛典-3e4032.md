@@ -6,7 +6,7 @@ category: sumo
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-nagoya-名古屋大相撲-夏日力士較勁的熱血盛典-3e4032.html
 published: 2026-06-15
-quality_score: 6.5
+quality_score: 8.7
 tags: 名古屋相撲, 七月場所, 日本文化體驗, 中部地方旅遊, 傳統運動
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: onsen
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-onsen-tokyo-東京錢湯散步-都會巷弄裡的昭和溫泉風情-9887b9.html
 published: 2026-07-04
-quality_score: 6.5
+quality_score: 8.9
 tags: 東京溫泉, 東京錢湯, 東京公共澡堂, 墨田區溫泉, 品川區溫泉
 license: CC BY 4.0
 ---

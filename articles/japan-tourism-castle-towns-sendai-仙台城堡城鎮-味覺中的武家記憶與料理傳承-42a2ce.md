@@ -6,7 +6,7 @@ category: castle-towns
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-castle-towns-sendai-仙台城堡城鎮-味覺中的武家記憶與料理傳承-42a2ce.html
 published: 2026-06-24
-quality_score: 6.5
+quality_score: 8.8
 tags: 仙台, 城堡城鎮, 伊達政宗, 城下町, Sendai Udon
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: nightlife
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-tokyo-東京夜生活分割槽探索-從街區風格找到你的夜-7f73f7.html
 published: 2026-06-08
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京夜生活, 下北澤, 六本木, 澀谷, 新宿
 license: CC BY 4.0
 ---

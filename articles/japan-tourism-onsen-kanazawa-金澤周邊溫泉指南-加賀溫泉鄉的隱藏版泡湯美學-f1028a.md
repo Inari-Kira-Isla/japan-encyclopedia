@@ -6,7 +6,7 @@ category: onsen
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-onsen-kanazawa-金澤周邊溫泉指南-加賀溫泉鄉的隱藏版泡湯美學-f1028a.html
 published: 2026-07-03
-quality_score: 6.5
+quality_score: 8.9
 tags: 金澤溫泉, 加賀溫泉鄉, 山代溫泉, 片山津溫泉, 山中溫泉
 license: CC BY 4.0
 ---

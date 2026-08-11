@@ -6,7 +6,7 @@ category: ryokan
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-kyoto-京都料亭旅宿-米其林星級料理與傳統住宿的文化共生-509fff.html
 published: 2026-06-26
-quality_score: 6.5
+quality_score: 8.7
 tags: 京都住宿, 京料理, 料亭旅宿, 米其林體驗, 傳統住宿
 license: CC BY 4.0
 ---

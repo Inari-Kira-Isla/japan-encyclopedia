@@ -6,7 +6,7 @@ category: theme-parks
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-theme-parks-sendai-仙台主題樂園可行嗎-東北門戶的娛樂設施與周邊一日遊方案-90ef37.html
 published: 2026-05-24
-quality_score: 6.5
+quality_score: 8.5
 tags: 仙台主題樂園, 東北一日遊, 親子旅遊, 日本娛樂, 水见户
 license: CC BY 4.0
 ---

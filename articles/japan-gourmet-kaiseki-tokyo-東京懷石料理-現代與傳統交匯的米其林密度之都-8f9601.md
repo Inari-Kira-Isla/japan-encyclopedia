@@ -6,7 +6,7 @@ category: kaiseki
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-kaiseki-tokyo-東京懷石料理-現代與傳統交匯的米其林密度之都-8f9601.html
 published: 2026-03-31
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京懷石, 日本料理, 米其林, 東京美食, 和食
 license: CC BY 4.0
 ---

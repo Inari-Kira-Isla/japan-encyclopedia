@@ -6,7 +6,7 @@ category: craft-markets
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-craft-markets-okinawa-沖繩海灘市集與夕陽手作市場完全指南-陽光與海風中的工藝尋寶-5854aa.html
 published: 2026-03-31
-quality_score: 7.5
+quality_score: 8.6
 tags: 沖繩工藝市集, 沖繩手作市場, 海灘市集, 琉球工藝, 沖繩自由行
 license: CC BY 4.0
 ---

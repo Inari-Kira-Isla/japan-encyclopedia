@@ -6,7 +6,7 @@ category: gaming-arcades
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-gaming-arcades-tokyo-東京遊戲中心-達人帶路-從新宿到秋葉原的街機文化深度探索-c2c231.html
 published: 2026-06-07
-quality_score: 6.5
+quality_score: 8.5
 tags: 東京遊戲中心, 東京娛樂, 秋葉原, 街機文化, 日本旅遊
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: tempura
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tempura-kobe-神戶天婦羅-港都巷弄裡的日常美味-e8543c.html
 published: 2026-06-21
-quality_score: 6.5
+quality_score: 8.7
 tags: 神戶美食, 天婦羅, 關西料理, 在地美食, 巷弄美食
 license: CC BY 4.0
 ---

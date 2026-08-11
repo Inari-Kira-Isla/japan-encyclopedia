@@ -6,7 +6,7 @@ category: buses
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-buses-hokkaido-北海道巴士省錢攻略-小資族的北國交通聖經-478bf7.html
 published: 2026-04-01
-quality_score: 7.5
+quality_score: 8.6
 tags: 北海道, 巴士, 預算旅行, 省錢攻略, 公共交通
 license: CC BY 4.0
 ---

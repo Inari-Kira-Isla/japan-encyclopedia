@@ -6,7 +6,7 @@ category: anime-manga
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-osaka-大阪動漫體驗教室-親手創作漫畫的關西手作之旅-bc1baf.html
 published: 2026-07-04
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪動漫, 漫才體驗, 關西漫畫, 手作體驗, 日本橋
 license: CC BY 4.0
 ---

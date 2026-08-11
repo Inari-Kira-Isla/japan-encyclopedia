@@ -6,7 +6,7 @@ category: boutique-hotels
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-kanazawa-金澤精品酒店-文化體驗型住宿的獨特選擇-049985.html
 published: 2026-06-12
-quality_score: 6.5
+quality_score: 8.5
 tags: 金澤住宿, 精品酒店, 加賀百萬石, 町屋住宿, 文化體驗
 license: CC BY 4.0
 ---

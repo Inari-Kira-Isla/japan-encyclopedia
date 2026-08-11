@@ -6,7 +6,7 @@ category: anime-manga
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-okinawa-沖繩動漫創作指南-遇見南國原創能量的不思議-9c80cb.html
 published: 2026-04-07
-quality_score: 6.5
+quality_score: 8.7
 tags: 沖繩動漫, 沖繩漫畫, 沖繩創作, 南國動漫之旅, 沖繩自由行
 license: CC BY 4.0
 ---

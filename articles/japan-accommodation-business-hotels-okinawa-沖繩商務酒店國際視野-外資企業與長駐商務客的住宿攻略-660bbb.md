@@ -6,7 +6,7 @@ category: business-hotels
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-business-hotels-okinawa-沖繩商務酒店國際視野-外資企業與長駐商務客的住宿攻略-660bbb.html
 published: 2026-04-04
-quality_score: 6.5
+quality_score: 8.6
 tags: 沖繩, 商務酒店, 國際商務, 外資企業, 長期住宿
 license: CC BY 4.0
 ---

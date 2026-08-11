@@ -6,7 +6,7 @@ category: onsen
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-onsen-kobe-神戶的溫泉文化-古泉與港町澡堂的邂逅-ac5abe.html
 published: 2026-03-20
-quality_score: 6.5
+quality_score: 8.6
 tags: 神戶, 溫泉, 有馬溫泉, 澡堂, 日本旅遊
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: minshuku
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-kyoto-京都民宿工坊之旅-在職人家中體驗日本工藝文化-2aa60e.html
 published: 2026-03-24
-quality_score: 6.5
+quality_score: 8.5
 tags: 京都, 民宿, 工坊文化, 日本工藝, 在地體驗
 license: CC BY 4.0
 ---

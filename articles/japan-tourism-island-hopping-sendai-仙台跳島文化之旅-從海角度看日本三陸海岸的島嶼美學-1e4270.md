@@ -6,7 +6,7 @@ category: island-hopping
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-island-hopping-sendai-仙台跳島文化之旅-從海角度看日本三陸海岸的島嶼美學-1e4270.html
 published: 2026-05-22
-quality_score: 6.5
+quality_score: 8.6
 tags: 仙台跳島, 三陸海岸, 浦戶群島, 日本東北小島, 桂島
 license: CC BY 4.0
 ---

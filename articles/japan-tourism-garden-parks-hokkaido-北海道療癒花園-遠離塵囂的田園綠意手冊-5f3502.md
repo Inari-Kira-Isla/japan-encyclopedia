@@ -6,7 +6,7 @@ category: garden-parks
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-hokkaido-北海道療癒花園-遠離塵囂的田園綠意手冊-5f3502.html
 published: 2026-06-05
-quality_score: 6.5
+quality_score: 8.6
 tags: 北海道花園, 療癒旅行, 農業體驗, 日本自助遊, 親子行程
 license: CC BY 4.0
 ---

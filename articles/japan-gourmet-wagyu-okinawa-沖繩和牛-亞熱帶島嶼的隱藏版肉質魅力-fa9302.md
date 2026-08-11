@@ -6,7 +6,7 @@ category: wagyu
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-wagyu-okinawa-沖繩和牛-亞熱帶島嶼的隱藏版肉質魅力-fa9302.html
 published: 2026-06-15
-quality_score: 6.5
+quality_score: 8.7
 tags: 沖繩和牛, 沖繩美食, Okinawa Wagyu, 日本和牛, 沖繩自由行
 license: CC BY 4.0
 ---

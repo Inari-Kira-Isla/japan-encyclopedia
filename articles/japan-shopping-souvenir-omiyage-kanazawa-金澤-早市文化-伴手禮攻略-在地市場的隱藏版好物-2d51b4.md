@@ -6,7 +6,7 @@ category: souvenir-omiyage
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-souvenir-omiyage-kanazawa-金澤-早市文化-伴手禮攻略-在地市場的隱藏版好物-2d51b4.html
 published: 2026-06-21
-quality_score: 7.5
+quality_score: 8.6
 tags: 金澤伴手禮, 早市文化, 近江町市場, 加賀醬油, 手漉和紙
 license: CC BY 4.0
 ---

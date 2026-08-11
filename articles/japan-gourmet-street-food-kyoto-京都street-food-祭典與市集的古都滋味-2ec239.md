@@ -6,7 +6,7 @@ category: street-food
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-street-food-kyoto-京都street-food-祭典與市集的古都滋味-2ec239.html
 published: 2026-05-21
-quality_score: 6.5
+quality_score: 8.6
 tags: 京都street Food, 祭典食, 市集食, 京都美食, 伏見稻荷
 license: CC BY 4.0
 ---

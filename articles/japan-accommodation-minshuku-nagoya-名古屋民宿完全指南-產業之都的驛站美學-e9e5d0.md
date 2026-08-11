@@ -6,7 +6,7 @@ category: minshuku
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-nagoya-名古屋民宿完全指南-產業之都的驛站美學-e9e5d0.html
 published: 2026-06-17
-quality_score: 6.5
+quality_score: 8.4
 tags: 名古屋民宿, 中部日本住宿, 產業之都, 名古屋住宿推薦, 日本自由行
 license: CC BY 4.0
 ---

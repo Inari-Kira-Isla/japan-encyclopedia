@@ -6,7 +6,7 @@ category: vintage-thrift
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-vintage-thrift-hokkaido-北海道古著尋寶指南-雪國機能美學與平價時尚的完美交集-06bdf3.html
 published: 2026-06-02
-quality_score: 7.5
+quality_score: 8.5
 tags: 北海道古著, 札幌vintage, 雪國機能時尚, 日本古著推薦, 二手衣購買攻略
 license: CC BY 4.0
 ---

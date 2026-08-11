@@ -6,7 +6,7 @@ category: 100-yen-shops
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-100-yen-shops-nagoya-名古屋100円商店地下鐵沿線購物攻略-通勤族與小資族的平價尋寶地圖-b9b168.html
 published: 2026-07-03
-quality_score: 7.5
+quality_score: 8.7
 tags: 名古屋100円商店, 地下鐵沿線購物, 名古屋平價購物, 名古屋自由行, 中部日本購物指南
 license: CC BY 4.0
 ---

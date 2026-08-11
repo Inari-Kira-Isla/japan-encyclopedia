@@ -6,7 +6,7 @@ category: craft-markets
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-craft-markets-sendai-仙台朝市與日常手作-東北小城的慢活購物美學-bfadf8.html
 published: 2026-06-04
-quality_score: 7.5
+quality_score: 8.8
 tags: sendai, craft-markets, 東北市集, 手作生活, 朝市文化
 license: CC BY 4.0
 ---

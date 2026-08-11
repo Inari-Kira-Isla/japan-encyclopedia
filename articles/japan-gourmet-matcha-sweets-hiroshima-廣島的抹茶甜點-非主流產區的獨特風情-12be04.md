@@ -6,7 +6,7 @@ category: matcha-sweets
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-matcha-sweets-hiroshima-廣島的抹茶甜點-非主流產區的獨特風情-12be04.html
 published: 2026-06-02
-quality_score: 6.5
+quality_score: 8.6
 tags: 廣島, 抹茶甜點, 日本美食, 廣島自由行, 抹茶
 license: CC BY 4.0
 ---

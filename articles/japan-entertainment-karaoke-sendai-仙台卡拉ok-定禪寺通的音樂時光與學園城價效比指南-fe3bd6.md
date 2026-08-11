@@ -6,7 +6,7 @@ category: karaoke
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-karaoke-sendai-仙台卡拉ok-定禪寺通的音樂時光與學園城價效比指南-fe3bd6.html
 published: 2026-06-13
-quality_score: 6.5
+quality_score: 8.6
 tags: 仙台卡拉OK, 東北卡拉OK, 仙台夜生活, 仙台美食, 七夕祭
 license: CC BY 4.0
 ---

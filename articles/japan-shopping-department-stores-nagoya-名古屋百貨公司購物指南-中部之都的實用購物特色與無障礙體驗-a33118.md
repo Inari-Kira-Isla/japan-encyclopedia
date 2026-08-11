@@ -6,7 +6,7 @@ category: department-stores
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-department-stores-nagoya-名古屋百貨公司購物指南-中部之都的實用購物特色與無障礙體驗-a33118.html
 published: 2026-06-29
-quality_score: 7.5
+quality_score: 8.6
 tags: 名古屋購物, 日本百货公司, 中部國際空港, 榮商圈, 無障礙旅遊
 license: CC BY 4.0
 ---

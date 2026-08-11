@@ -6,7 +6,7 @@ category: kaiseki
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-kaiseki-kanazawa-金澤懷石料理-面向日本海的冬季味覺-ecbc9a.html
 published: 2026-06-14
-quality_score: 5.5
+quality_score: 7.6
 tags: 金澤懷石, 石川美食, 日本海食材, 冬季料理, 加賀野菜
 license: CC BY 4.0
 ---

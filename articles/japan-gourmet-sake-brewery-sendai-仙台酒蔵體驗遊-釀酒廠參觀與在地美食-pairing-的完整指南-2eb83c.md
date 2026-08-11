@@ -6,7 +6,7 @@ category: sake-brewery
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sake-brewery-sendai-仙台酒蔵體驗遊-釀酒廠參觀與在地美食-pairing-的完整指南-2eb83c.html
 published: 2026-06-18
-quality_score: 6.5
+quality_score: 8.5
 tags: 仙台清酒, 酒蔵參觀, 東北美食, 日本清酒, 釀酒體驗
 license: CC BY 4.0
 ---

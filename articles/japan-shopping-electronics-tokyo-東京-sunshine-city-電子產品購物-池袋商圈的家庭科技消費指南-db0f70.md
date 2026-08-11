@@ -6,7 +6,7 @@ category: electronics
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-electronics-tokyo-東京-sunshine-city-電子產品購物-池袋商圈的家庭科技消費指南-db0f70.html
 published: 2026-06-24
-quality_score: 7.5
+quality_score: 8.8
 tags: 東京電子產品, 池袋購物, Sunshine City, 家庭電子, 日本電器行
 license: CC BY 4.0
 ---

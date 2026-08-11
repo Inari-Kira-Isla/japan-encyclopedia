@@ -6,7 +6,7 @@ category: ramen
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-ramen-osaka-大阪拉麵-關西醬油系的本流滋味-ec47cc.html
 published: 2026-06-21
-quality_score: 6.5
+quality_score: 8.8
 tags: 大阪拉麵, 關西醬油拉麵, 大阪美食,  Osaka Ramen, 屋台文化
 license: CC BY 4.0
 ---

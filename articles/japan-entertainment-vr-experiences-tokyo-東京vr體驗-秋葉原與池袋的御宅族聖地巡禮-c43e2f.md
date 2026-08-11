@@ -6,7 +6,7 @@ category: vr-experiences
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-vr-experiences-tokyo-東京vr體驗-秋葉原與池袋的御宅族聖地巡禮-c43e2f.html
 published: 2026-06-19
-quality_score: 6.5
+quality_score: 8.9
 tags: 東京VR, 秋葉原VR, 池袋VR, 御宅族體驗, 東京遊戲中心
 license: CC BY 4.0
 ---

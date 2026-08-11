@@ -6,7 +6,7 @@ category: nature-trails
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-fukuoka-忙碌中的呼吸-福岡山林步道完全指南-fdf863.html
 published: 2026-03-23
-quality_score: 6.5
+quality_score: 8.8
 tags: 登山健行, 自然步道, 火山地形, 福岡, 九州
 license: CC BY 4.0
 ---

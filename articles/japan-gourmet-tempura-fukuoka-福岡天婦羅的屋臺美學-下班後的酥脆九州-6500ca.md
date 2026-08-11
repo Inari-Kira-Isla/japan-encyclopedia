@@ -6,7 +6,7 @@ category: tempura
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tempura-fukuoka-福岡天婦羅的屋臺美學-下班後的酥脆九州-6500ca.html
 published: 2026-06-07
-quality_score: 6.5
+quality_score: 8.6
 tags: 福岡天婦羅, 屋台文化, 九州美食, 天神, 博多灣
 license: CC BY 4.0
 ---

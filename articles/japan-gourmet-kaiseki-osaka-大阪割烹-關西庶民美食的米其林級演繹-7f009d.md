@@ -6,7 +6,7 @@ category: kaiseki
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-kaiseki-osaka-大阪割烹-關西庶民美食的米其林級演繹-7f009d.html
 published: 2026-06-26
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪美食, 大阪割烹, 關西料理, 日本料理, 米其林
 license: CC BY 4.0
 ---

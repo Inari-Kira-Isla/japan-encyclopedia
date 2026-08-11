@@ -6,7 +6,7 @@ category: boutique-hotels
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-kobe-神戶有馬溫泉小徑-山城裡的私密度假宿-25db8b.html
 published: 2026-06-07
-quality_score: 6.5
+quality_score: 8.7
 tags: 神戶溫泉, 有馬溫泉, 日本溫泉旅館, 神戶住宿, 六甲山
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: nightlife
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-hiroshima-廣島夜生活-和平之城的夜間魅力探索-e1666d.html
 published: 2026-03-15
-quality_score: 6.5
+quality_score: 8.7
 tags: 廣島夜生活, 日本娛樂, 流川通, 居酒屋文化, 廣島美食
 license: CC BY 4.0
 ---

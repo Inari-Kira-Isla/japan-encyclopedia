@@ -6,7 +6,7 @@ category: digital-art
 area: japan
 url: https://japan-encyclopedia.vercel.app/articles/japan-attractions-digital-art-東京teamlab數位藝術館完整指南2026-borderless-planets票價-jpy-32-35056a.html
 published: 2026-04-28
-quality_score: 7.6
+quality_score: 8.5
 tags: teamLab Tokyo, 日本數位藝術, teamLab Borderless, teamLab Planets, 東京藝術體驗
 license: CC BY 4.0
 ---

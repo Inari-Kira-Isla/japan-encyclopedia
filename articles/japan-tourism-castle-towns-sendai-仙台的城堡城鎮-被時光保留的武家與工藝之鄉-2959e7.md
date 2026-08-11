@@ -6,7 +6,7 @@ category: castle-towns
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-castle-towns-sendai-仙台的城堡城鎮-被時光保留的武家與工藝之鄉-2959e7.html
 published: 2026-06-21
-quality_score: 6.5
+quality_score: 8.3
 tags: 仙台城堡城鎮, 伊達政宗, 日本城堡城下町, 東北自由行, 日本工藝體驗
 license: CC BY 4.0
 ---

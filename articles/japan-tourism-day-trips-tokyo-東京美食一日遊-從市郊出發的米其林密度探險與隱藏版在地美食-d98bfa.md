@@ -6,7 +6,7 @@ category: day-trips
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-tokyo-東京美食一日遊-從市郊出發的米其林密度探險與隱藏版在地美食-d98bfa.html
 published: 2026-06-22
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京一日遊, 美食之旅, 橫濱中華街, 鎌倉, 小田原
 license: CC BY 4.0
 ---

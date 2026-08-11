@@ -6,7 +6,7 @@ category: historical-districts
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-osaka-大阪歷史街區-天下の臺所的時光漫步-6f984d.html
 published: 2026-04-04
-quality_score: 6.5
+quality_score: 8.9
 tags: 大阪歷史街區, 道頓堀, 法善寺横丁, 新世界商圈, 黑門市場
 license: CC BY 4.0
 ---

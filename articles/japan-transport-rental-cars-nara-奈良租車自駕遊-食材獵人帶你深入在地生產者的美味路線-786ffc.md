@@ -6,7 +6,7 @@ category: rental-cars
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-nara-奈良租車自駕遊-食材獵人帶你深入在地生產者的美味路線-786ffc.html
 published: 2026-06-14
-quality_score: 7.5
+quality_score: 8.7
 tags: 奈良租車, 自駕遊, 食材獵人, 關西自駕, 山菜體驗
 license: CC BY 4.0
 ---

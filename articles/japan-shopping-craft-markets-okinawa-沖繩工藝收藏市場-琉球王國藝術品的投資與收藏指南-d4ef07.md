@@ -6,7 +6,7 @@ category: craft-markets
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-craft-markets-okinawa-沖繩工藝收藏市場-琉球王國藝術品的投資與收藏指南-d4ef07.html
 published: 2026-03-26
-quality_score: 7.5
+quality_score: 8.7
 tags: 沖繩工藝, 收藏投資, 琉球文化, 傳統工藝, 藝術市場
 license: CC BY 4.0
 ---

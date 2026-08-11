@@ -6,7 +6,7 @@ category: temple-stays
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-temple-stays-fukuoka-福岡寺廟住宿的市場新境界-商務出差人士的禪修療癒方案-40d16e.html
 published: 2026-03-23
-quality_score: 6.5
+quality_score: 8.6
 tags: 福岡寺廟住宿, 商務禪修, 太宰府, 日間禪修課程, 都市療癒旅行
 license: CC BY 4.0
 ---

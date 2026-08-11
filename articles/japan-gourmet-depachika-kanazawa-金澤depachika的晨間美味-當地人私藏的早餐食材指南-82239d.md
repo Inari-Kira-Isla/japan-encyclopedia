@@ -6,7 +6,7 @@ category: depachika
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-depachika-kanazawa-金澤depachika的晨間美味-當地人私藏的早餐食材指南-82239d.html
 published: 2026-06-08
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤depachika, 早餐食材, 加賀料理, 北陸美食, 金澤伴手禮
 license: CC BY 4.0
 ---

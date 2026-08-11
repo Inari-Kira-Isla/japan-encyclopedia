@@ -6,7 +6,7 @@ category: 100-yen-shops
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-100-yen-shops-tokyo-東京100円商店完全指南-都內平價購物人氣區域與おすすめ店舗-2a591c.html
 published: 2026-06-01
-quality_score: 7.5
+quality_score: 8.9
 tags: 東京100円商店, 東京平價購物, 日本的百均店, Tokyo百円SHOPガイド, 武藏野市吉祥寺
 license: CC BY 4.0
 ---

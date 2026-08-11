@@ -6,7 +6,7 @@ category: minshuku
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-tokyo-tokyo-minshuku-完全指南-都會中心的家庭式住宿體驗-8826dc.html
 published: 2026-06-02
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京民宿, 東京住宿, 淺草民宿, 谷中, 下北澤
 license: CC BY 4.0
 ---

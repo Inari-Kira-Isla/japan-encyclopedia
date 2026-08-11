@@ -6,7 +6,7 @@ category: gaming-arcades
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-gaming-arcades-nara-奈良遊戲中心-鹿鳴時代的街機回憶-843ff4.html
 published: 2026-03-30
-quality_score: 6.5
+quality_score: 8.6
 tags: 奈良遊戲中心, 奈良景點, 日本街機文化, 奈良自由行, 近鐵奈良站
 license: CC BY 4.0
 ---

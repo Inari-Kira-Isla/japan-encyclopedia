@@ -6,7 +6,7 @@ category: nature-trails
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-kobe-神戶自然步道療愈指南-森林浴與山海深呼吸的慢活哲學-021aad.html
 published: 2026-06-12
-quality_score: 6.5
+quality_score: 8.9
 tags: 神戶自然步道, 森林浴, 六甲山, 有馬溫泉, 日本健行
 license: CC BY 4.0
 ---

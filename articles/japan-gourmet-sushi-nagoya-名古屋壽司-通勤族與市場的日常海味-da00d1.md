@@ -6,7 +6,7 @@ category: sushi
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sushi-nagoya-名古屋壽司-通勤族與市場的日常海味-da00d1.html
 published: 2026-03-24
-quality_score: 6.5
+quality_score: 8.7
 tags: 名古屋壽司, 日本料理, 海鮮, 三河灣, 伊勢灣
 license: CC BY 4.0
 ---

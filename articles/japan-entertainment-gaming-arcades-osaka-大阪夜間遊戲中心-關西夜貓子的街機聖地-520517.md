@@ -6,7 +6,7 @@ category: gaming-arcades
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-gaming-arcades-osaka-大阪夜間遊戲中心-關西夜貓子的街機聖地-520517.html
 published: 2026-04-04
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪娛樂, 夜間活動, 遊戲中心, 關西文化, 深夜遊戲
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: kabuki-theatre
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-kabuki-theatre-nagoya-名古屋的傳統表演劇場-愛知縣戲劇文化之旅-bb9143.html
 published: 2026-06-03
-quality_score: 6.5
+quality_score: 8.5
 tags: 名古屋, 表演藝術, 傳統劇場, 名古屋旅游, 愛知名古屋
 license: CC BY 4.0
 ---

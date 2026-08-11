@@ -6,7 +6,7 @@ category: okonomiyaki
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-okonomiyaki-hiroshima-廣島御好燒-鐵板前的社交藝術與深夜食堂文化-7fe4b3.html
 published: 2026-06-26
-quality_score: 6.5
+quality_score: 8.7
 tags: 廣島御好燒, 鐵板料理, 廣島美食, 居酒屋文化, 瀨戶內海食材
 license: CC BY 4.0
 ---

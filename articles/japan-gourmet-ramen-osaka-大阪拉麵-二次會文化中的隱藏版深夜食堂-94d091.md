@@ -6,7 +6,7 @@ category: ramen
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-ramen-osaka-大阪拉麵-二次會文化中的隱藏版深夜食堂-94d091.html
 published: 2026-07-06
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪拉麵, 關西美食, 二次會文化, 日本拉麵, 大阪旅遊
 license: CC BY 4.0
 ---

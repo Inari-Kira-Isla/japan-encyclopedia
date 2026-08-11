@@ -6,7 +6,7 @@ category: jr-pass
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-jr-pass-fukuoka-九州鐵路周遊券完全指南-從福岡樞紐出發的放射狀玩法-9153a2.html
 published: 2026-06-20
-quality_score: 7.5
+quality_score: 8.5
 tags: JR九州周遊券, 九州鐵路, 福岡交通, 博多站, 九州溫泉
 license: CC BY 4.0
 ---

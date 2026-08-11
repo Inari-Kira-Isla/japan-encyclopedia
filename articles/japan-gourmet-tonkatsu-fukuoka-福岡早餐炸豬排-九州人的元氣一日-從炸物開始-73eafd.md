@@ -6,7 +6,7 @@ category: tonkatsu
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tonkatsu-fukuoka-福岡早餐炸豬排-九州人的元氣一日-從炸物開始-73eafd.html
 published: 2026-05-24
-quality_score: 6.5
+quality_score: 8.8
 tags: Fukuoka, Tonkatsu, 朝食, 豬排, 在地美食
 license: CC BY 4.0
 ---

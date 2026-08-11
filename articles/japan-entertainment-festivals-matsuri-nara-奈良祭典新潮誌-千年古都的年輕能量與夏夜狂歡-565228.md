@@ -6,7 +6,7 @@ category: festivals-matsuri
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-festivals-matsuri-nara-奈良祭典新潮誌-千年古都的年輕能量與夏夜狂歡-565228.html
 published: 2026-05-22
-quality_score: 6.5
+quality_score: 8.4
 tags: 奈良祭典, 日本夏祭, 关西祭典, 奈良夜间活动, 奈良公园
 license: CC BY 4.0
 ---

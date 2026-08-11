@@ -6,7 +6,7 @@ category: temples-shrines
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-temples-shrines-kanazawa-金澤寺廟神社的工藝祈福密藏-金箔-茶道與加賀職人守護神的在地敘事-ad5e90.html
 published: 2026-06-22
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤寺廟神社, 加賀藩文化, 金箔工藝, 職人信仰, 日本祈福
 license: CC BY 4.0
 ---

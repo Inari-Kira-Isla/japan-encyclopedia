@@ -6,7 +6,7 @@ category: vr-experiences
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-vr-experiences-hiroshima-廣島vr體驗-親子同樂與和平教育的虛擬實境冒險-e9c606.html
 published: 2026-06-14
-quality_score: 6.5
+quality_score: 8.5
 tags: 廣島VR, 廣島親子遊, 廣島和平教育, 廣島體驗, 廣島景點
 license: CC BY 4.0
 ---

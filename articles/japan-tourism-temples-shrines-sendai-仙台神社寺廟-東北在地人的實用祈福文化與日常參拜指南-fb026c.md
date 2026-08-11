@@ -6,7 +6,7 @@ category: temples-shrines
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-temples-shrines-sendai-仙台神社寺廟-東北在地人的實用祈福文化與日常參拜指南-fb026c.html
 published: 2026-06-21
-quality_score: 6.5
+quality_score: 8.7
 tags: 仙台神社, 仙台寺廟, 東北參拜, 日本祈福, 在地文化
 license: CC BY 4.0
 ---

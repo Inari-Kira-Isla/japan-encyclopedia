@@ -6,7 +6,7 @@ category: boutique-hotels
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-fukuoka-福岡精品酒店-港都活力與九州食文化的住宿新境地-57f582.html
 published: 2026-06-28
-quality_score: 6.5
+quality_score: 8.7
 tags: 福岡, 精品酒店, 九州, boutique-hotel, 屋台文化
 license: CC BY 4.0
 ---

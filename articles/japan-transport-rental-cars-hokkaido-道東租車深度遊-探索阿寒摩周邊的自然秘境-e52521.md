@@ -6,7 +6,7 @@ category: rental-cars
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-hokkaido-道東租車深度遊-探索阿寒摩周邊的自然秘境-e52521.html
 published: 2026-06-17
-quality_score: 7.5
+quality_score: 8.5
 tags: 北海道租車, 道東自駕遊, 钏路租車, 阿寒湖租車, 十勝帶廣租車
 license: CC BY 4.0
 ---

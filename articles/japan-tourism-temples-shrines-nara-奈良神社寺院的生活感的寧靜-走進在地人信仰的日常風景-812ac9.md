@@ -6,7 +6,7 @@ category: temples-shrines
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-temples-shrines-nara-奈良神社寺院的生活感的寧靜-走進在地人信仰的日常風景-812ac9.html
 published: 2026-06-04
-quality_score: 6.5
+quality_score: 8.5
 tags: 奈良, 神社, 寺院, 关西, 世界遗产
 license: CC BY 4.0
 ---

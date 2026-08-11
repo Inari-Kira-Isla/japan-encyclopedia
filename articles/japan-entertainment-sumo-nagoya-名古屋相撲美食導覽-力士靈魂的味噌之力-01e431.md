@@ -6,7 +6,7 @@ category: sumo
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-nagoya-名古屋相撲美食導覽-力士靈魂的味噌之力-01e431.html
 published: 2026-06-24
-quality_score: 6.5
+quality_score: 8.9
 tags: 名古屋美食, 相撲文化, 八丁味噌, 味噌料理, 名古屋旅行
 license: CC BY 4.0
 ---

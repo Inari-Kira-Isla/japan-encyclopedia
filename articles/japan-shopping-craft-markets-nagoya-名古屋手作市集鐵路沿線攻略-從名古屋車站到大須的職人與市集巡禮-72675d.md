@@ -6,7 +6,7 @@ category: craft-markets
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-craft-markets-nagoya-名古屋手作市集鐵路沿線攻略-從名古屋車站到大須的職人與市集巡禮-72675d.html
 published: 2026-06-29
-quality_score: 7.5
+quality_score: 8.7
 tags: Nagoya手作市集, 名古屋工藝市場, 中部職人, 鐵路沿線購物, 日本市集
 license: CC BY 4.0
 ---

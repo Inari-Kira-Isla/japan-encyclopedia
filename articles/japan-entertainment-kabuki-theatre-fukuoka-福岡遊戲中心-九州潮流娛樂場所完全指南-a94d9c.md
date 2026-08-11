@@ -6,7 +6,7 @@ category: kabuki-theatre
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-kabuki-theatre-fukuoka-福岡遊戲中心-九州潮流娛樂場所完全指南-a94d9c.html
 published: 2026-06-07
-quality_score: 6.5
+quality_score: 8.6
 tags: 福岡遊戲中心, 九州娛樂, 天神遊戲場, 博多景點, 日本街機
 license: CC BY 4.0
 ---

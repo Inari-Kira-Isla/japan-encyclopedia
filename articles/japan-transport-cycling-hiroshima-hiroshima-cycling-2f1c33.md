@@ -6,7 +6,7 @@ category: cycling
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-hiroshima-hiroshima-cycling-2f1c33.html
 published: 2026-07-01
-quality_score: 7.5
+quality_score: 8.7
 tags: cycling, hiroshima, japan
 license: CC BY 4.0
 ---

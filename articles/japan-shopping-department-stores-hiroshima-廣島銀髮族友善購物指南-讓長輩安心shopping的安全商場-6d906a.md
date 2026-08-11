@@ -6,7 +6,7 @@ category: department-stores
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-department-stores-hiroshima-廣島銀髮族友善購物指南-讓長輩安心shopping的安全商場-6d906a.html
 published: 2026-06-04
-quality_score: 7.5
+quality_score: 8.5
 tags: 廣島購物, 銀髮族友善, 無障礙設施, 安全購物, 日本百货公司
 license: CC BY 4.0
 ---

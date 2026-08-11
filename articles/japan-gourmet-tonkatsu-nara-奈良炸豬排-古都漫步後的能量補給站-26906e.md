@@ -6,7 +6,7 @@ category: tonkatsu
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tonkatsu-nara-奈良炸豬排-古都漫步後的能量補給站-26906e.html
 published: 2026-06-17
-quality_score: 6.5
+quality_score: 8.9
 tags: 奈良美食, 炸豬排, 古都奈良, 日本料理, 洋食
 license: CC BY 4.0
 ---

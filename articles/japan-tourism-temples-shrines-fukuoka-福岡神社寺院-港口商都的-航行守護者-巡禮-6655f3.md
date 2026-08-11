@@ -6,7 +6,7 @@ category: temples-shrines
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-temples-shrines-fukuoka-福岡神社寺院-港口商都的-航行守護者-巡禮-6655f3.html
 published: 2026-06-15
-quality_score: 6.5
+quality_score: 8.7
 tags: 福岡, 神社, 寺院, 港口城市, 太宰府天滿宮
 license: CC BY 4.0
 ---

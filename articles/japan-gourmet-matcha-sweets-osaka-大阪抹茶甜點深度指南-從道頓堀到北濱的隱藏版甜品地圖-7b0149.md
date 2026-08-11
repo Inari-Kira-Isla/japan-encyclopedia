@@ -6,7 +6,7 @@ category: matcha-sweets
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-matcha-sweets-osaka-大阪抹茶甜點深度指南-從道頓堀到北濱的隱藏版甜品地圖-7b0149.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 8.5
 tags: 大阪美食, 抹茶甜點, 關西自由行, 日本甜品, 北濱
 license: CC BY 4.0
 ---

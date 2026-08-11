@@ -6,7 +6,7 @@ category: tempura
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tempura-tokyo-東京天婦羅-從江戶前到天丼-東京都內人氣天婦羅店家徹底導覽-3e57af.html
 published: 2026-06-18
-quality_score: 6.5
+quality_score: 8.5
 tags: 東京天婦羅, 江戸前天婦羅, 天丼, 人形町美食, 日本橋美食
 license: CC BY 4.0
 ---

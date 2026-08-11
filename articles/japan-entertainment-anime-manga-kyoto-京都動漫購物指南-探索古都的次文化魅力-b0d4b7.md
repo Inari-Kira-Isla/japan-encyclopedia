@@ -6,7 +6,7 @@ category: anime-manga
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-kyoto-京都動漫購物指南-探索古都的次文化魅力-b0d4b7.html
 published: 2026-03-20
-quality_score: 6.5
+quality_score: 8.7
 tags: 京都, 動漫, 購物, 次文化, 日本旅遊
 license: CC BY 4.0
 ---

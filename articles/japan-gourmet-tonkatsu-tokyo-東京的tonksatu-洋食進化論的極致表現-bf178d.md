@@ -6,7 +6,7 @@ category: tonkatsu
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tonkatsu-tokyo-東京的tonksatu-洋食進化論的極致表現-bf178d.html
 published: 2026-06-03
-quality_score: 6.5
+quality_score: 8.6
 tags: 東京美食, Tonkatsu, 豚排名店, 洋食屋, 東京自由行
 license: CC BY 4.0
 ---

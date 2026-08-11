@@ -6,7 +6,7 @@ category: shinkansen
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-nagoya-名古屋新娘完整指南-從中部機場進入市區與周邊城市移動攻略-265b61.html
 published: 2026-07-03
-quality_score: 7.5
+quality_score: 8.8
 tags: 名古屋新娘子, 中部國際機場交通, 名古屋站轉乘, JR Pass優惠, 中部地區旅遊
 license: CC BY 4.0
 ---

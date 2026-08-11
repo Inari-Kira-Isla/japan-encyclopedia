@@ -6,7 +6,7 @@ category: buses
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-buses-okinawa-沖繩巴士的海陸接駁系統-前往離島秘境的交通指南-ada643.html
 published: 2026-06-23
-quality_score: 7.5
+quality_score: 8.4
 tags: 沖繩巴士, 海陸接駁, 渡輪交通, 離島交通, 沖繩自由行
 license: CC BY 4.0
 ---

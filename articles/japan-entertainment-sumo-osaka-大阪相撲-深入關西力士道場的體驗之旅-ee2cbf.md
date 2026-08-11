@@ -6,7 +6,7 @@ category: sumo
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-osaka-大阪相撲-深入關西力士道場的體驗之旅-ee2cbf.html
 published: 2026-06-02
-quality_score: 6.5
+quality_score: 8.5
 tags: 大阪相撲, 關西相撲, 日本相撲體驗, 大學相撲, 大阪文化旅遊
 license: CC BY 4.0
 ---

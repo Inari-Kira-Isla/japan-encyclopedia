@@ -6,7 +6,7 @@ category: sushi
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sushi-hokkaido-北海道壽司-北國價效比之選-5dd905.html
 published: 2026-06-21
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道壽司, 札幌壽司, 小樽壽司, 函館壽司, 北海道美食
 license: CC BY 4.0
 ---

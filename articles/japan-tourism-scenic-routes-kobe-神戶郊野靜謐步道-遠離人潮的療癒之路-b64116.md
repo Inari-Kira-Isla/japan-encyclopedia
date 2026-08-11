@@ -6,7 +6,7 @@ category: scenic-routes
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-kobe-神戶郊野靜謐步道-遠離人潮的療癒之路-b64116.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 8.9
 tags: 神戶步道, 神戶郊遊, 六甲山, 摩耶山, 神戶自由行
 license: CC BY 4.0
 ---

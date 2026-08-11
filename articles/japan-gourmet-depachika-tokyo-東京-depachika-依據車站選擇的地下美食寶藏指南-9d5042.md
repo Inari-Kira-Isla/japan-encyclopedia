@@ -6,7 +6,7 @@ category: depachika
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-depachika-tokyo-東京-depachika-依據車站選擇的地下美食寶藏指南-9d5042.html
 published: 2026-06-07
-quality_score: 6.5
+quality_score: 8.6
 tags: 東京, Depachika, 地下食品, 百貨公司, 鐵道便當
 license: CC BY 4.0
 ---

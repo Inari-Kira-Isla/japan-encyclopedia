@@ -6,7 +6,7 @@ category: ferries
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-ferries-sendai-仙台渡輪-探索松島灣與牡鹿半島的海上門戶-040e6a.html
 published: 2026-03-28
-quality_score: 7.5
+quality_score: 8.7
 tags: 仙台交通, 松島湾, 東北渡輪, 金華山, 離島旅遊
 license: CC BY 4.0
 ---

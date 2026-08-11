@@ -6,7 +6,7 @@ category: sumo
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-osaka-大阪相撲-關西力士的美食與戰鬥日常-1a4722.html
 published: 2026-06-18
-quality_score: 6.5
+quality_score: 8.9
 tags: 大阪相撲, 關西相撲, 相撲火鍋, 日本國技, 體驗旅遊
 license: CC BY 4.0
 ---

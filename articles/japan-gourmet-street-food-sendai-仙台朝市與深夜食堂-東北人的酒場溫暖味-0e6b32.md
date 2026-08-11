@@ -6,7 +6,7 @@ category: street-food
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-street-food-sendai-仙台朝市與深夜食堂-東北人的酒場溫暖味-0e6b32.html
 published: 2026-06-27
-quality_score: 6.5
+quality_score: 8.6
 tags: 仙台, 街頭美食, 東北, 清酒, 味噌
 license: CC BY 4.0
 ---

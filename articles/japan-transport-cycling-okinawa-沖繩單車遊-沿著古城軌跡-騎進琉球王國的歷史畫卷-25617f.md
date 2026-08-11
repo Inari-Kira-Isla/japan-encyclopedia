@@ -6,7 +6,7 @@ category: cycling
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-okinawa-沖繩單車遊-沿著古城軌跡-騎進琉球王國的歷史畫卷-25617f.html
 published: 2026-06-22
-quality_score: 7.5
+quality_score: 8.8
 tags: 沖繩單車遊, グスク, 沖繩城堡, 琉球王國, 首里城
 license: CC BY 4.0
 ---

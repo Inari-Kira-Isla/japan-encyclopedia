@@ -6,7 +6,7 @@ category: temples-shrines
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-temples-shrines-sendai-仙台神社散步-從瑞鳳殿到大崎八幡宮的在地參拜路線-007ef1.html
 published: 2026-06-09
-quality_score: 6.5
+quality_score: 8.8
 tags: 仙台神社, 瑞鳳殿, 東照宮, 大崎八幡宮, 伊達政宗
 license: CC BY 4.0
 ---

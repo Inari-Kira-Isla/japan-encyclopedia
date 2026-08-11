@@ -6,7 +6,7 @@ category: temples-shrines
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-temples-shrines-nagoya-名古屋寺廟神社另類視角-工業城市中的信仰足跡-b3d1cf.html
 published: 2026-06-09
-quality_score: 6.5
+quality_score: 8.3
 tags: 名古屋寺廟神社, 名古屋寺廟, 名古屋神社, 愛知縣寺廟, 中部國際機場
 license: CC BY 4.0
 ---

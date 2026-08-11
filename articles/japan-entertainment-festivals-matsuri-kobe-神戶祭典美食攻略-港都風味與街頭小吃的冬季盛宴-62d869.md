@@ -6,7 +6,7 @@ category: festivals-matsuri
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-festivals-matsuri-kobe-神戶祭典美食攻略-港都風味與街頭小吃的冬季盛宴-62d869.html
 published: 2026-06-17
-quality_score: 6.5
+quality_score: 8.6
 tags: 神戶祭典, 神戶美食, 冬季祭典, 港都體驗, 街頭小吃
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: nightlife
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-fukuoka-福岡夜生活-九州主城的不夜城魅力-e6de96.html
 published: 2026-03-22
-quality_score: 6.5
+quality_score: 8.8
 tags: 福岡夜生活, 屋台文化, 居酒屋, 九州旅遊, 日本夜間娛樂
 license: CC BY 4.0
 ---

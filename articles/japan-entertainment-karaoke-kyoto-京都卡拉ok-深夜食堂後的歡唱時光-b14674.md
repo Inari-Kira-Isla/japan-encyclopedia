@@ -6,7 +6,7 @@ category: karaoke
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-karaoke-kyoto-京都卡拉ok-深夜食堂後的歡唱時光-b14674.html
 published: 2026-06-20
-quality_score: 6.5
+quality_score: 8.7
 tags: 京都卡拉OK, 關西夜生活, 京都自由行, 日本卡拉OK, 京都深度遊
 license: CC BY 4.0
 ---

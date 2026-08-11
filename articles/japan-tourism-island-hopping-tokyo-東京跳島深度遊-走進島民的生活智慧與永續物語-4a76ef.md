@@ -6,7 +6,7 @@ category: island-hopping
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-island-hopping-tokyo-東京跳島深度遊-走進島民的生活智慧與永續物語-4a76ef.html
 published: 2026-04-06
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京跳島, 島民文化, 永續旅遊, 東京灣群島, 小笠原群島
 license: CC BY 4.0
 ---

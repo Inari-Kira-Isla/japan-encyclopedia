@@ -6,7 +6,7 @@ category: scenic-routes
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-osaka-大阪巷弄散步-穿透城市日常的深度漫遊路線-ccf594.html
 published: 2026-06-12
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪散步, 巷弄漫遊, 大阪深度旅遊, 城市探索, 大阪日常
 license: CC BY 4.0
 ---

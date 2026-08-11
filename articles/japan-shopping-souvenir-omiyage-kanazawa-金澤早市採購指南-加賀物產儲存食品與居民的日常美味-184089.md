@@ -6,7 +6,7 @@ category: souvenir-omiyage
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-souvenir-omiyage-kanazawa-金澤早市採購指南-加賀物產儲存食品與居民的日常美味-184089.html
 published: 2026-05-24
-quality_score: 7.5
+quality_score: 7.9
 tags: 金澤伴手禮, 加賀物產, 早市購物, 保存食品, 金澤必買
 license: CC BY 4.0
 ---

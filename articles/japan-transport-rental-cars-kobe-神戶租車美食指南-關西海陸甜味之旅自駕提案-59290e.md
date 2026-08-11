@@ -6,7 +6,7 @@ category: rental-cars
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-kobe-神戶租車美食指南-關西海陸甜味之旅自駕提案-59290e.html
 published: 2026-06-24
-quality_score: 7.5
+quality_score: 8.4
 tags: 神戶租車, 關西自駕, 神戶美食, 日本海側, 灘五十三酒
 license: CC BY 4.0
 ---

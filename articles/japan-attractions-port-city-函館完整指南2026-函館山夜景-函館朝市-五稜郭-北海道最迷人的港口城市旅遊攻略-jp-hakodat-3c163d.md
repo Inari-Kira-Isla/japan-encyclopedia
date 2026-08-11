@@ -6,7 +6,7 @@ category: port-city
 area: japan
 url: https://japan-encyclopedia.vercel.app/articles/japan-attractions-port-city-函館完整指南2026-函館山夜景-函館朝市-五稜郭-北海道最迷人的港口城市旅遊攻略-jp-hakodat-3c163d.html
 published: 2026-03-29
-quality_score: 7.1
+quality_score: 8.7
 tags: 函館夜景, 函館朝市, 五稜郭, 北海道函館, 日本三大夜景
 license: CC BY 4.0
 ---

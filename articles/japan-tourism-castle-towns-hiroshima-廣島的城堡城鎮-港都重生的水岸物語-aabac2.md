@@ -6,7 +6,7 @@ category: castle-towns
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-castle-towns-hiroshima-廣島的城堡城鎮-港都重生的水岸物語-aabac2.html
 published: 2026-06-28
-quality_score: 6.5
+quality_score: 8.7
 tags: 廣島城, 毛利氏, 城下町, 湊, 原爆圓頂
 license: CC BY 4.0
 ---

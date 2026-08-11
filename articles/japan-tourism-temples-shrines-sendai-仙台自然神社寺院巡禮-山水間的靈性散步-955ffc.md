@@ -6,7 +6,7 @@ category: temples-shrines
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-temples-shrines-sendai-仙台自然神社寺院巡禮-山水間的靈性散步-955ffc.html
 published: 2026-06-15
-quality_score: 6.5
+quality_score: 8.8
 tags: 仙台, 神社, 寺院, 東北, 自然散步
 license: CC BY 4.0
 ---

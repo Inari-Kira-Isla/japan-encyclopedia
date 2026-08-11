@@ -6,7 +6,7 @@ category: buses
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-buses-kanazawa-金澤的巴士-當地人日常的交通寶典-94350a.html
 published: 2026-06-17
-quality_score: 7.5
+quality_score: 8.7
 tags: 金澤巴士, 金澤交通, 日本巴士, 北陸交通, 金澤自由行
 license: CC BY 4.0
 ---

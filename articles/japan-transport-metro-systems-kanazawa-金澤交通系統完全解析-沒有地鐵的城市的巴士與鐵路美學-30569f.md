@@ -6,7 +6,7 @@ category: metro-systems
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-kanazawa-金澤交通系統完全解析-沒有地鐵的城市的巴士與鐵路美學-30569f.html
 published: 2026-06-09
-quality_score: 7.5
+quality_score: 8.7
 tags: 金澤交通, 金澤巴士, 周遊巴士, 日本鐵路, 北陸旅遊
 license: CC BY 4.0
 ---

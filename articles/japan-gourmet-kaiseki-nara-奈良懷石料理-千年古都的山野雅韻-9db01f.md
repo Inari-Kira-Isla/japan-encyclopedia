@@ -6,7 +6,7 @@ category: kaiseki
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-kaiseki-nara-奈良懷石料理-千年古都的山野雅韻-9db01f.html
 published: 2026-04-06
-quality_score: 6.5
+quality_score: 8.5
 tags: 奈良美食, 懷石料理, 日本料理, 奈良旅遊, 高級料理
 license: CC BY 4.0
 ---

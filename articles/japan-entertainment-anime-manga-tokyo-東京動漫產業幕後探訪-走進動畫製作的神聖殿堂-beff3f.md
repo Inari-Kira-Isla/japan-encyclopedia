@@ -6,7 +6,7 @@ category: anime-manga
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-tokyo-東京動漫產業幕後探訪-走進動畫製作的神聖殿堂-beff3f.html
 published: 2026-06-06
-quality_score: 6.5
+quality_score: 8.5
 tags: 東京動漫, 動畫製作, 動漫聖地, 手塚治虫, 動漫教育
 license: CC BY 4.0
 ---

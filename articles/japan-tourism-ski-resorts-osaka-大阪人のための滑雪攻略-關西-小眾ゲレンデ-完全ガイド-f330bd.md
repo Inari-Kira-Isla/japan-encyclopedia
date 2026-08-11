@@ -6,7 +6,7 @@ category: ski-resorts
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-ski-resorts-osaka-大阪人のための滑雪攻略-關西-小眾ゲレンデ-完全ガイド-f330bd.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 8.8
 tags: 大阪, 滑雪, 關西, 溫泉, 旅遊
 license: CC BY 4.0
 ---

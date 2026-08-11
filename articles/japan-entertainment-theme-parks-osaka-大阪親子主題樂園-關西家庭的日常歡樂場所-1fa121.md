@@ -6,7 +6,7 @@ category: theme-parks
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-theme-parks-osaka-大阪親子主題樂園-關西家庭的日常歡樂場所-1fa121.html
 published: 2026-06-08
-quality_score: 6.5
+quality_score: 8.6
 tags: 大阪主題樂園, 親子旅遊, 關西家庭, 大阪遊樂設施, 枚方公園
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: minshuku
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-okinawa-沖繩跳島民宿完全攻略-從宮古島到西表島的島嶼住宿中繼站-bd176d.html
 published: 2026-06-17
-quality_score: 6.5
+quality_score: 8.4
 tags: 沖繩民宿, 跳島旅行, 宮古島民宿, 石垣島民宿, 西表島民宿
 license: CC BY 4.0
 ---

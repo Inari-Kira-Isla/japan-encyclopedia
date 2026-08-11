@@ -6,7 +6,7 @@ category: day-trips
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-fukuoka-福岡郊區一日遊-在地達人的私房路線與山海秘境-5d011d.html
 published: 2026-05-22
-quality_score: 6.5
+quality_score: 8.7
 tags: 福岡一日遊, 九州自駕, 沿海小鎮, 血池地獄, 糸島海岸
 license: CC BY 4.0
 ---

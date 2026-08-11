@@ -6,7 +6,7 @@ category: festivals
 area: japan
 url: https://japan-encyclopedia.vercel.app/articles/japan-events-festivals-日本祭典屋臺和街頭美食完整指南2026-夏祭-射的-金魚釣-日本夏季節慶費用-jpy-攻略-jp-japanese-9a26e9.html
 published: 2026-04-01
-quality_score: 7.1
+quality_score: 8.7
 tags: 日本夏祭, 屋台食物, 日本祭典, 浴衣文化, 日本煙火
 license: CC BY 4.0
 ---

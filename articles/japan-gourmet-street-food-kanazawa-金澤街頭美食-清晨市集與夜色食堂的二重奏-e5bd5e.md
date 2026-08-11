@@ -6,7 +6,7 @@ category: street-food
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-street-food-kanazawa-金澤街頭美食-清晨市集與夜色食堂的二重奏-e5bd5e.html
 published: 2026-05-24
-quality_score: 6.5
+quality_score: 8.8
 tags: 金澤, 街頭美食, 石川, 近江町市場, 能登牛
 license: CC BY 4.0
 ---

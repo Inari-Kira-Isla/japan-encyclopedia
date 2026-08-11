@@ -6,7 +6,7 @@ category: kabuki-theatre
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-kabuki-theatre-nagoya-nagoya-kabuki-theatre-436b17-1779684588.html
 published: 2026-05-25
-quality_score: 5.5
+quality_score: 0.0
 tags: kabuki-theatre, nagoya, japan
 license: CC BY 4.0
 ---

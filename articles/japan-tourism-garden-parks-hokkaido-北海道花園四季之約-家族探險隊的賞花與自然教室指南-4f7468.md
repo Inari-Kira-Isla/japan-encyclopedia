@@ -6,7 +6,7 @@ category: garden-parks
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-hokkaido-北海道花園四季之約-家族探險隊的賞花與自然教室指南-4f7468.html
 published: 2026-03-22
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道, 花園, 親子旅遊, 季節限定, 家庭度假
 license: CC BY 4.0
 ---

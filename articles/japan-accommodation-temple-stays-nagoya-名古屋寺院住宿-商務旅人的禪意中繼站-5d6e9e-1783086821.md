@@ -6,7 +6,7 @@ category: temple-stays
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-temple-stays-nagoya-名古屋寺院住宿-商務旅人的禪意中繼站-5d6e9e-1783086821.html
 published: 2026-07-03
-quality_score: 6.5
+quality_score: 8.8
 tags: 名古屋住宿, 寺院參拜, 中部日本, 禪修體驗, 商務旅客
 license: CC BY 4.0
 ---

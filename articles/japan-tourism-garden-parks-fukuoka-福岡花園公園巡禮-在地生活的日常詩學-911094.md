@@ -6,7 +6,7 @@ category: garden-parks
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-fukuoka-福岡花園公園巡禮-在地生活的日常詩學-911094.html
 published: 2026-05-24
-quality_score: 6.5
+quality_score: 8.8
 tags: 福岡, 花園公園, 在地體驗, 日本自由行, 九州旅行
 license: CC BY 4.0
 ---

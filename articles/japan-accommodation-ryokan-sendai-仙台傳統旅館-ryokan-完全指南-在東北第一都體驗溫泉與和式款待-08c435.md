@@ -6,7 +6,7 @@ category: ryokan
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-sendai-仙台傳統旅館-ryokan-完全指南-在東北第一都體驗溫泉與和式款待-08c435.html
 published: 2026-03-20
-quality_score: 6.5
+quality_score: 8.7
 tags: 仙台旅館, 秋保温泉, 作並温泉, 東北旅遊, 日式旅館
 license: CC BY 4.0
 ---

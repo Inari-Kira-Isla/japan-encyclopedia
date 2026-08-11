@@ -6,7 +6,7 @@ category: theme-parks
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-theme-parks-kanazawa-金澤現代娛樂體驗指南-傳統古都的新世代遊樂選擇-be3644.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤娛樂, VR體驗, 互動設施, 科技觀光, 文化體驗
 license: CC BY 4.0
 ---

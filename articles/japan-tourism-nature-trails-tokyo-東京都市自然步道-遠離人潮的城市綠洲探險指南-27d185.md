@@ -6,7 +6,7 @@ category: nature-trails
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-tokyo-東京都市自然步道-遠離人潮的城市綠洲探險指南-27d185.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京自然步道, 東京登山, 森林浴, 東京近郊, 戶外活動
 license: CC BY 4.0
 ---

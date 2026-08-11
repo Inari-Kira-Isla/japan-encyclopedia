@@ -6,7 +6,7 @@ category: kaiseki
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-kaiseki-osaka-大阪懷石料理-關西商都的精緻料理藝術-a5231b.html
 published: 2026-03-15
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪美食, 懷石料理, 日本料理, 關西美食, 高級餐廳
 license: CC BY 4.0
 ---

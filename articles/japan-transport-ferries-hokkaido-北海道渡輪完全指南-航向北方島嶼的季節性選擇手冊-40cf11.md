@@ -6,7 +6,7 @@ category: ferries
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-ferries-hokkaido-北海道渡輪完全指南-航向北方島嶼的季節性選擇手冊-40cf11.html
 published: 2026-06-11
-quality_score: 7.5
+quality_score: 8.4
 tags: 北海道, 渡輪, 利尻島, 禮文島, 流冰
 license: CC BY 4.0
 ---

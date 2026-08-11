@@ -6,7 +6,7 @@ category: castle-towns
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-castle-towns-kyoto-京都城下町-隱藏在千年古都的武家與商賈物語-12bc99.html
 published: 2026-07-04
-quality_score: 6.5
+quality_score: 8.7
 tags: 京都城下町, 京都歷史, 伏見稻荷, 二條城, 京都散步
 license: CC BY 4.0
 ---

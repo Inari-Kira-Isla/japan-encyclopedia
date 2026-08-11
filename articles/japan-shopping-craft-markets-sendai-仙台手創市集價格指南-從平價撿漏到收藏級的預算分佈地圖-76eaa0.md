@@ -6,7 +6,7 @@ category: craft-markets
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-craft-markets-sendai-仙台手創市集價格指南-從平價撿漏到收藏級的預算分佈地圖-76eaa0.html
 published: 2026-06-28
-quality_score: 7.5
+quality_score: 8.6
 tags: craft-markets, sendai, japan, 手創市集, 仙台
 license: CC BY 4.0
 ---

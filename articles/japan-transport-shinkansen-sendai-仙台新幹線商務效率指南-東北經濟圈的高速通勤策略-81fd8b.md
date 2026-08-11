@@ -6,7 +6,7 @@ category: shinkansen
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-sendai-仙台新幹線商務效率指南-東北經濟圈的高速通勤策略-81fd8b.html
 published: 2026-04-05
-quality_score: 7.5
+quality_score: 8.7
 tags: 仙台新幹線, 商務旅行, 東北交通, 高速鐵路, 商務效率
 license: CC BY 4.0
 ---

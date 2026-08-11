@@ -6,7 +6,7 @@ category: temple-stays
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-temple-stays-nagoya-名古屋寺院住宿指南-作為關西與中部佛寺聖地交通樞紐的正確認知-dcab82.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 8.7
 tags: 名古屋寺廟住宿, 日本寺院住宿, 高野山宿坊, 白川鄉住宿, 名古屋住宿推薦
 license: CC BY 4.0
 ---

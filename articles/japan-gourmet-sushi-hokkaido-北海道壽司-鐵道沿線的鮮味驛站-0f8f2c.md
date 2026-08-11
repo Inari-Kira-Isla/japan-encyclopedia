@@ -6,7 +6,7 @@ category: sushi
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sushi-hokkaido-北海道壽司-鐵道沿線的鮮味驛站-0f8f2c.html
 published: 2026-06-11
-quality_score: 6.5
+quality_score: 8.6
 tags: 北海道壽司, 小樽壽司, 新千歲機場美食, 札幌壽司, 馬糞海膽
 license: CC BY 4.0
 ---

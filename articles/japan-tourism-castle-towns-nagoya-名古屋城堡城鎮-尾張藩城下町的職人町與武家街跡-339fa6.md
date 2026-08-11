@@ -6,7 +6,7 @@ category: castle-towns
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-castle-towns-nagoya-名古屋城堡城鎮-尾張藩城下町的職人町與武家街跡-339fa6.html
 published: 2026-06-21
-quality_score: 6.5
+quality_score: 8.6
 tags: 名古屋城堡城鎮, 尾張藩城下町, 職人町, 武家街跡, 名古屋歷史散步
 license: CC BY 4.0
 ---

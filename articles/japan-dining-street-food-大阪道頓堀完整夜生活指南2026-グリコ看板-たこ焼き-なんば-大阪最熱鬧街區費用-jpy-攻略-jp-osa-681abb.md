@@ -6,7 +6,7 @@ category: street-food
 area: japan
 url: https://japan-encyclopedia.vercel.app/articles/japan-dining-street-food-大阪道頓堀完整夜生活指南2026-グリコ看板-たこ焼き-なんば-大阪最熱鬧街區費用-jpy-攻略-jp-osa-681abb.html
 published: 2026-04-10
-quality_score: 7.6
+quality_score: 8.7
 tags: 道頓堀, 大阪章魚燒, Glico看板, 難波, 大阪美食
 license: CC BY 4.0
 ---

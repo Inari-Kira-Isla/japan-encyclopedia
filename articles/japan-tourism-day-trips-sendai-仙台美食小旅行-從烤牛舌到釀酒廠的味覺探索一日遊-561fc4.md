@@ -6,7 +6,7 @@ category: day-trips
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-sendai-仙台美食小旅行-從烤牛舌到釀酒廠的味覺探索一日遊-561fc4.html
 published: 2026-06-13
-quality_score: 6.5
+quality_score: 8.9
 tags: 仙台, 烤牛舌, 美食, 釀酒廠, 日本東北
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: kabuki-theatre
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-kabuki-theatre-osaka-大阪的歌舞伎劇場-京阪地區傳統表演藝術的現在進行式-5280f5.html
 published: 2026-06-02
-quality_score: 6.5
+quality_score: 8.5
 tags: 大阪kabuki, 大阪傳統表演藝術, 关西剧场, 日本戏剧, 文乐剧场
 license: CC BY 4.0
 ---

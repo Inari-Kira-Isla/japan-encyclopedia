@@ -6,7 +6,7 @@ category: minshuku
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-tokyo-東京民宿完全指南-文化走廊的在地驛站-3e03cf.html
 published: 2026-06-21
-quality_score: 6.5
+quality_score: 8.4
 tags: 東京民宿, minshuku, 東京住宿, Koenji, 下北澤
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: sumo
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-tokyo-東京相撲-非觀賽時段的深度體驗提案-ccfbe7.html
 published: 2026-06-19
-quality_score: 6.5
+quality_score: 8.8
 tags: 東京相撲, 墨田區, 國技館, 相撲火鍋, 日本武術
 license: CC BY 4.0
 ---

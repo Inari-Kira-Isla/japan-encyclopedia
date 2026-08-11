@@ -6,7 +6,7 @@ category: vr-experiences
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-vr-experiences-sendai-仙台vr體驗探索-冬季蒼白色國度的虛擬實境小旅行-e50262.html
 published: 2026-05-24
-quality_score: 6.5
+quality_score: 8.2
 tags: 仙台, VR體驗, 東北旅遊, 虛擬實境, 日本娛樂
 license: CC BY 4.0
 ---

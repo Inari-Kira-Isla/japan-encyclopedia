@@ -6,7 +6,7 @@ category: business-hotels
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-business-hotels-tokyo-東京商務酒店-從國際商務視角看東京車站周邊的戦略性住宿選擇-d3c49d.html
 published: 2026-06-16
-quality_score: 6.5
+quality_score: 8.6
 tags: 東京商務酒店, 東京出差住宿, 東京商旅指南, 日本商務旅行, 東京車站住宿
 license: CC BY 4.0
 ---

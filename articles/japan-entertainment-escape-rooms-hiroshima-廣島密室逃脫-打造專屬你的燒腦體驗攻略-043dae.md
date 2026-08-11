@@ -6,7 +6,7 @@ category: escape-rooms
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-escape-rooms-hiroshima-廣島密室逃脫-打造專屬你的燒腦體驗攻略-043dae.html
 published: 2026-05-23
-quality_score: 6.5
+quality_score: 8.7
 tags: 廣島密室逃脫, 廣島主題樂園, 廣島娛樂, 日本密室, 廣島VR體驗
 license: CC BY 4.0
 ---

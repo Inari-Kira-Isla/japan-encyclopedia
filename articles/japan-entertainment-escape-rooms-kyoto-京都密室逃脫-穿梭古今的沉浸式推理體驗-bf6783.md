@@ -6,7 +6,7 @@ category: escape-rooms
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-escape-rooms-kyoto-京都密室逃脫-穿梭古今的沉浸式推理體驗-bf6783.html
 published: 2026-06-04
-quality_score: 6.5
+quality_score: 8.9
 tags: 京都密室逃脫, 京都室內活動, 京都推理遊戲, 關西娛樂體驗, 京都不只是古
 license: CC BY 4.0
 ---

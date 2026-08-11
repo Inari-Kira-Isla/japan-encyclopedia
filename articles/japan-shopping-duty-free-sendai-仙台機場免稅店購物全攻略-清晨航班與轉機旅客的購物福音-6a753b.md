@@ -6,7 +6,7 @@ category: duty-free
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-duty-free-sendai-仙台機場免稅店購物全攻略-清晨航班與轉機旅客的購物福音-6a753b.html
 published: 2026-06-04
-quality_score: 7.5
+quality_score: 8.6
 tags: 仙台機場, 免稅店, 日本東北, 機場購物, 免稅伴手禮
 license: CC BY 4.0
 ---

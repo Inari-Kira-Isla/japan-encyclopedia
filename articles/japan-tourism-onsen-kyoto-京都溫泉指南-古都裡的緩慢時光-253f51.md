@@ -6,7 +6,7 @@ category: onsen
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-onsen-kyoto-京都溫泉指南-古都裡的緩慢時光-253f51.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 8.8
 tags: 京都溫泉, 京都錢湯, 京都溫泉一日遊, 日本溫泉, 城崎溫泉
 license: CC BY 4.0
 ---

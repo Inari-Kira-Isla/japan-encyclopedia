@@ -6,7 +6,7 @@ category: electronics
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-electronics-nara-奈良電子產品購物指南-古都中的現代科技寶藏-31df2b.html
 published: 2026-03-15
-quality_score: 7.5
+quality_score: 8.5
 tags: 奈良電子產品, 奈良購物, 日本電器店, 奈良自由行, 關西購物
 license: CC BY 4.0
 ---

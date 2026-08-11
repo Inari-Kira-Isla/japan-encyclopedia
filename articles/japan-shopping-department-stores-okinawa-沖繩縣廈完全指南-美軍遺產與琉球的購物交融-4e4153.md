@@ -6,7 +6,7 @@ category: department-stores
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-department-stores-okinawa-沖繩縣廈完全指南-美軍遺產與琉球的購物交融-4e4153.html
 published: 2026-06-27
-quality_score: 7.5
+quality_score: 8.6
 tags: 沖繩購物, 琉球特產, 那霸市, 免稅購物, 縣民廣場
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: rental-cars
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-hiroshima-廣島租車自駕遊-從山海門戶出發的跨縣市連遊路線規劃-40ee20.html
 published: 2026-06-17
-quality_score: 7.5
+quality_score: 8.5
 tags: 廣島租車, 瀨戶內海自駕, 中國地區溫泉, 跨縣市旅遊, 山陰海岸
 license: CC BY 4.0
 ---

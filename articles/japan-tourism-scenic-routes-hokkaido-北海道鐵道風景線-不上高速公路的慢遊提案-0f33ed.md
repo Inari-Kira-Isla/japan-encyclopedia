@@ -6,7 +6,7 @@ category: scenic-routes
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-hokkaido-北海道鐵道風景線-不上高速公路的慢遊提案-0f33ed.html
 published: 2026-04-07
-quality_score: 6.5
+quality_score: 8.8
 tags: 北海道, 鐵道之旅, JR北海道, 慢遊, 風景鐵道
 license: CC BY 4.0
 ---

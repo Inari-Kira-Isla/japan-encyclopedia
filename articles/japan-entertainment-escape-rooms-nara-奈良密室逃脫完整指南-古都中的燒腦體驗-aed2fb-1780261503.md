@@ -6,7 +6,7 @@ category: escape-rooms
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-escape-rooms-nara-奈良密室逃脫完整指南-古都中的燒腦體驗-aed2fb-1780261503.html
 published: 2026-05-31
-quality_score: 6.5
+quality_score: 8.5
 tags: 奈良密室逃脫, 奈良旅遊, 古都體驗, 日本娛樂, 燒腦遊戲
 license: CC BY 4.0
 ---

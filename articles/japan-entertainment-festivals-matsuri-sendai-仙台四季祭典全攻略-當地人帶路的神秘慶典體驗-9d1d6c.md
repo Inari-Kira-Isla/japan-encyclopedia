@@ -6,7 +6,7 @@ category: festivals-matsuri
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-festivals-matsuri-sendai-仙台四季祭典全攻略-當地人帶路的神秘慶典體驗-9d1d6c.html
 published: 2026-06-21
-quality_score: 6.5
+quality_score: 8.5
 tags: 仙台祭典, 青葉祭, 光之嘉年華, 爵士音樂祭, 東北祭典
 license: CC BY 4.0
 ---

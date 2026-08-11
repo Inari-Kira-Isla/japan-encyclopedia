@@ -6,7 +6,7 @@ category: cycling
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-fukuoka-九州單車漫遊手冊-從博多灣到脊振山的在地騎行路線-809acf.html
 published: 2026-06-01
-quality_score: 7.5
+quality_score: 8.5
 tags: 九州單車, 福岡骑行, 博多運河, 糸島半島, 太宰府單車
 license: CC BY 4.0
 ---

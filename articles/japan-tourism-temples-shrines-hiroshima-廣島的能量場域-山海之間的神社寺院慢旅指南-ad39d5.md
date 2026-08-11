@@ -6,7 +6,7 @@ category: temples-shrines
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-temples-shrines-hiroshima-廣島的能量場域-山海之間的神社寺院慢旅指南-ad39d5.html
 published: 2026-06-23
-quality_score: 6.5
+quality_score: 8.6
 tags: 廣島神社, 廣島寺院, 宮島嚴島神社, 能量景點, 山海秘境
 license: CC BY 4.0
 ---

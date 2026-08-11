@@ -6,7 +6,7 @@ category: sake-brewery
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sake-brewery-nara-奈良酒蔵的釀酒哲學-探訪古都職人的堅持與伏流水之味-2ffa38.html
 published: 2026-06-23
-quality_score: 6.5
+quality_score: 8.8
 tags: 奈良酒蔵, 日本清酒, 古都釀酒, 伏流水, 地酒體驗
 license: CC BY 4.0
 ---

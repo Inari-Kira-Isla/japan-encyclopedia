@@ -6,7 +6,7 @@ category: karaoke
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-karaoke-kanazawa-金澤卡拉ok-百萬石之城的聲音工藝坊-bffb60.html
 published: 2026-06-29
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤卡拉OK, 石川縣娛樂, 加賀百萬石, 日本卡拉OK, 北陸夜生活
 license: CC BY 4.0
 ---

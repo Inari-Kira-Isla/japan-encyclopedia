@@ -6,7 +6,7 @@ category: vr-experiences
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-vr-experiences-sendai-仙台親子vr體驗-雨天溜娃首選-東北最大室的虛擬實境樂園-033b92.html
 published: 2026-05-23
-quality_score: 6.5
+quality_score: 8.7
 tags: 仙台VR, 親子活動, 東北娛樂, 雨天景點, 家庭旅遊
 license: CC BY 4.0
 ---

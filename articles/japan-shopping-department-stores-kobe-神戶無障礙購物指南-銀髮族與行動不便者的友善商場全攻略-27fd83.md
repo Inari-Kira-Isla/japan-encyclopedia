@@ -6,7 +6,7 @@ category: department-stores
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-department-stores-kobe-神戶無障礙購物指南-銀髮族與行動不便者的友善商場全攻略-27fd83.html
 published: 2026-06-09
-quality_score: 7.5
+quality_score: 8.7
 tags: 神戶購物, 無障礙旅遊, 銀髮族友善, 關西購物, 港都購物
 license: CC BY 4.0
 ---

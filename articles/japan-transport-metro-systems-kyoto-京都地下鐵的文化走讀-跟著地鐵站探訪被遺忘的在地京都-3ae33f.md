@@ -6,7 +6,7 @@ category: metro-systems
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-kyoto-京都地下鐵的文化走讀-跟著地鐵站探訪被遺忘的在地京都-3ae33f.html
 published: 2026-07-02
-quality_score: 7.5
+quality_score: 8.9
 tags: 京都地下鐵, 京都Metro, 京都交通, 京都旅遊, 烏丸線
 license: CC BY 4.0
 ---

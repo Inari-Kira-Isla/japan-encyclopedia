@@ -6,7 +6,7 @@ category: shinkansen
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-nagoya-名古屋-新幹線前往日本中部的入口-時刻表-票價與周邊玩法完整攻略-31021d.html
 published: 2026-07-02
-quality_score: 7.5
+quality_score: 8.9
 tags: 名古屋新干线, 日本中部交通, 东海道新干线, 名古屋一日游, 伊勢志摩
 license: CC BY 4.0
 ---

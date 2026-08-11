@@ -6,7 +6,7 @@ category: nature-trails
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-kyoto-京都晨昏步道-光影之間的撮影聖地與靜謐時光-5714c8.html
 published: 2026-06-04
-quality_score: 6.5
+quality_score: 8.8
 tags: 京都自然步道, 晨昏撮影, 古都秘境, 步道推薦, photography
 license: CC BY 4.0
 ---

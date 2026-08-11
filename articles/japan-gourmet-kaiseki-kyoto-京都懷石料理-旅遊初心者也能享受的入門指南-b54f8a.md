@@ -6,7 +6,7 @@ category: kaiseki
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-kaiseki-kyoto-京都懷石料理-旅遊初心者也能享受的入門指南-b54f8a.html
 published: 2026-06-04
-quality_score: 6.5
+quality_score: 8.8
 tags: 京都懷石, 日本料理, 京都美食, 會席料理, 京都旅遊
 license: CC BY 4.0
 ---

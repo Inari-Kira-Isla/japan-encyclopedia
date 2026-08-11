@@ -6,7 +6,7 @@ category: department-stores
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-department-stores-nara-奈良文青慢購物-古都巷弄裡的特色選物店與質感小店-9978a6.html
 published: 2026-06-09
-quality_score: 7.5
+quality_score: 8.6
 tags: 奈良購物, 特色選物店, 日本工藝, 文青旅行, 奈良町
 license: CC BY 4.0
 ---

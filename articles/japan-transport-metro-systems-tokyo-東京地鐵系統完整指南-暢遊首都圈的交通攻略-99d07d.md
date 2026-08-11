@@ -6,7 +6,7 @@ category: metro-systems
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-tokyo-東京地鐵系統完整指南-暢遊首都圈的交通攻略-99d07d.html
 published: 2026-03-16
-quality_score: 7.5
+quality_score: 8.8
 tags: 東京地鐵, Tokyo Metro, 都營地下鐵, 東京交通, 東京旅遊
 license: CC BY 4.0
 ---

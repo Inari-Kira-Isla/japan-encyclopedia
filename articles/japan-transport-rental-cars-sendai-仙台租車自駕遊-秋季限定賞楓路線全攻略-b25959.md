@@ -6,7 +6,7 @@ category: rental-cars
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-sendai-仙台租車自駕遊-秋季限定賞楓路線全攻略-b25959.html
 published: 2026-06-07
-quality_score: 7.5
+quality_score: 8.7
 tags: 仙台租車, 秋季賞楓, 東北自駕遊, 山形溫泉, 松島海岸
 license: CC BY 4.0
 ---

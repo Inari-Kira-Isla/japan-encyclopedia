@@ -6,7 +6,7 @@ category: nightlife
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-kobe-神戶夜間小眾散步-港都巷弄裡的異國浪漫-58c9c5.html
 published: 2026-06-21
-quality_score: 6.5
+quality_score: 8.7
 tags: 神戶夜生活, 港都夜景, 異國料理, 神戶酒吧, 日本夜景
 license: CC BY 4.0
 ---

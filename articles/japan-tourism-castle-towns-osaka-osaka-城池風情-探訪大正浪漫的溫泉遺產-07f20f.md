@@ -6,7 +6,7 @@ category: castle-towns
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-castle-towns-osaka-osaka-城池風情-探訪大正浪漫的溫泉遺產-07f20f.html
 published: 2026-05-24
-quality_score: 6.5
+quality_score: 8.9
 tags: 大阪城堡城鎮, 城下町文化, 大阪歴史, 自由行推薦, 關西深度遊
 license: CC BY 4.0
 ---

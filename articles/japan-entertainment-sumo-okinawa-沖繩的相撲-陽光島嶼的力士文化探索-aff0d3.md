@@ -6,7 +6,7 @@ category: sumo
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-okinawa-沖繩的相撲-陽光島嶼的力士文化探索-aff0d3.html
 published: 2026-06-02
-quality_score: 6.5
+quality_score: 8.7
 tags: 沖繩相撲, 冲绳旅游, 九州场所, 觀光體驗, 相扑旅游
 license: CC BY 4.0
 ---

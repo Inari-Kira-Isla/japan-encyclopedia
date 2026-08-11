@@ -6,7 +6,7 @@ category: izakaya
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-izakaya-osaka-大阪天王寺・阿倍野-在地人的深夜酒場地圖-c83af9.html
 published: 2026-06-10
-quality_score: 6.5
+quality_score: 8.8
 tags: 大阪居酒屋, 天王寺, 阿倍野, 在地美食, 酒場文化
 license: CC BY 4.0
 ---

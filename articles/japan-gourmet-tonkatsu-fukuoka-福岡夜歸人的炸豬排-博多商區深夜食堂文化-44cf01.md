@@ -6,7 +6,7 @@ category: tonkatsu
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tonkatsu-fukuoka-福岡夜歸人的炸豬排-博多商區深夜食堂文化-44cf01.html
 published: 2026-03-29
-quality_score: 6.5
+quality_score: 8.7
 tags: 福岡美食, 深夜食堂, 上班族文化, 九州豬排, 博多夜生活
 license: CC BY 4.0
 ---

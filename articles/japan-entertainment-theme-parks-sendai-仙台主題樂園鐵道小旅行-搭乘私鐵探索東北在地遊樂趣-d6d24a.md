@@ -6,7 +6,7 @@ category: theme-parks
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-theme-parks-sendai-仙台主題樂園鐵道小旅行-搭乘私鐵探索東北在地遊樂趣-d6d24a.html
 published: 2026-06-25
-quality_score: 6.5
+quality_score: 8.5
 tags: 仙台主題樂園, 東北主題樂園, 鐵道主題樂園, 仙台親子遊, 日本主題樂園
 license: CC BY 4.0
 ---

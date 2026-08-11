@@ -6,7 +6,7 @@ category: island-hopping
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-island-hopping-kanazawa-金澤跳島美食之旅-日本海島嶼的鮮味巡禮-f65a11.html
 published: 2026-06-14
-quality_score: 6.5
+quality_score: 8.6
 tags: 金澤跳島, 日本海島嶼, 能登半島, 海鮮美食, 輪島
 license: CC BY 4.0
 ---

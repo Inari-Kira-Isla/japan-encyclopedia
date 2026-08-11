@@ -6,7 +6,7 @@ category: street-food
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-street-food-kobe-神戶街頭美食-港都海風的速度與滋味-0f250f.html
 published: 2026-05-22
-quality_score: 6.5
+quality_score: 8.5
 tags: 神戶街頭美食, 港都海鮮, 神戶的自由行, 庶民美食, 關西深度遊
 license: CC BY 4.0
 ---

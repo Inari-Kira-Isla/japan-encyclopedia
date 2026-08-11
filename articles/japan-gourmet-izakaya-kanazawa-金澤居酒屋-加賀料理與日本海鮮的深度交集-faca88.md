@@ -6,7 +6,7 @@ category: izakaya
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-izakaya-kanazawa-金澤居酒屋-加賀料理與日本海鮮的深度交集-faca88.html
 published: 2026-06-09
-quality_score: 6.5
+quality_score: 8.5
 tags: 金澤居酒屋, 加賀料理, 日本海海鮮, 能登半島, 近江町市場
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: festivals-matsuri
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-festivals-matsuri-tokyo-東京夜祭魅力-體驗都市燈火下的傳統祭典狂歡-cdaed1.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京夜祭, 都市文化體驗, 傳統與現代融合
 license: CC BY 4.0
 ---

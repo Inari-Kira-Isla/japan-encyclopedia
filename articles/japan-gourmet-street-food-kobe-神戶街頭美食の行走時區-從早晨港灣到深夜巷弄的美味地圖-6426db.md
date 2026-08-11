@@ -6,7 +6,7 @@ category: street-food
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-street-food-kobe-神戶街頭美食の行走時區-從早晨港灣到深夜巷弄的美味地圖-6426db.html
 published: 2026-05-21
-quality_score: 6.5
+quality_score: 8.9
 tags: 神戶StreetFood, 神戶美食, 瀨戶內海, 港都美食, 兵庫縣
 license: CC BY 4.0
 ---

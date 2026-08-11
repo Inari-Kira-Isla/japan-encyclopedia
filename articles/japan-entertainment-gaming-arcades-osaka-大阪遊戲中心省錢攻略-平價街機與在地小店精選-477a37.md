@@ -6,7 +6,7 @@ category: gaming-arcades
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-gaming-arcades-osaka-大阪遊戲中心省錢攻略-平價街機與在地小店精選-477a37.html
 published: 2026-06-25
-quality_score: 6.5
+quality_score: 8.9
 tags: 大阪遊戲中心, 關西娛樂, 平價旅遊, 街機文化, 日本自由行
 license: CC BY 4.0
 ---

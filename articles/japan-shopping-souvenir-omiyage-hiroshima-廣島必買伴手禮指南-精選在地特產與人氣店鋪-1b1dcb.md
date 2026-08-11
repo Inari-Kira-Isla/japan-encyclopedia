@@ -6,7 +6,7 @@ category: souvenir-omiyage
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-souvenir-omiyage-hiroshima-廣島必買伴手禮指南-精選在地特產與人氣店鋪-1b1dcb.html
 published: 2026-03-16
-quality_score: 7.5
+quality_score: 8.4
 tags: 廣島伴手禮, 楓葉饅頭, 瀨戶內檸檬, 廣島美食, 宮島特產
 license: CC BY 4.0
 ---

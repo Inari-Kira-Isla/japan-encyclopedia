@@ -6,7 +6,7 @@ category: temples-shrines
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-temples-shrines-hiroshima-廣島神社寺院實用導覽-當地人帶路的非主流參拜路線-0bcac8.html
 published: 2026-06-08
-quality_score: 6.5
+quality_score: 8.5
 tags: 廣島神社, 廣島寺院, 日本宗教建築, 非主流景點, 廣島自由行
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: castle-towns
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-castle-towns-hokkaido-北海道城堡城鎮-探索明治開拓時代的歷史風情-3b5670.html
 published: 2026-05-31
-quality_score: 6.5
+quality_score: 8.5
 tags: 北海道, 城堡城鎮, 小樽, 札幌時計台, 歷史建築
 license: CC BY 4.0
 ---

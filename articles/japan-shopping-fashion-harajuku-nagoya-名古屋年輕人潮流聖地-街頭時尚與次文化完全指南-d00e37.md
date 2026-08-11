@@ -6,7 +6,7 @@ category: fashion-harajuku
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-fashion-harajuku-nagoya-名古屋年輕人潮流聖地-街頭時尚與次文化完全指南-d00e37.html
 published: 2026-06-16
-quality_score: 7.5
+quality_score: 8.5
 tags: 名古屋購物, 大須觀音, 榮商圈, 日本古著, 街頭時尚
 license: CC BY 4.0
 ---

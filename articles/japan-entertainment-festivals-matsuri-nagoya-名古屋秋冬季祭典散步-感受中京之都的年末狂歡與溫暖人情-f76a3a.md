@@ -6,7 +6,7 @@ category: festivals-matsuri
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-festivals-matsuri-nagoya-名古屋秋冬季祭典散步-感受中京之都的年末狂歡與溫暖人情-f76a3a.html
 published: 2026-06-12
-quality_score: 6.5
+quality_score: 8.7
 tags: 名古屋祭典, 秋冬祭典, 日本祭典, 名古屋旅遊, 中京之都
 license: CC BY 4.0
 ---

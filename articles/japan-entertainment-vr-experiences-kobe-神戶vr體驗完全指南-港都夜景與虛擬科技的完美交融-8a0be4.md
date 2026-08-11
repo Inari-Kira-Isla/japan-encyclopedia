@@ -6,7 +6,7 @@ category: vr-experiences
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-vr-experiences-kobe-神戶vr體驗完全指南-港都夜景與虛擬科技的完美交融-8a0be4.html
 published: 2026-07-01
-quality_score: 6.5
+quality_score: 8.7
 tags: 神戶VR, 關西娛樂, 港都體驗, 虛擬實境, 神戶夜景
 license: CC BY 4.0
 ---

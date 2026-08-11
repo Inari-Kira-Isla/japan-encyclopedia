@@ -6,7 +6,7 @@ category: matcha-sweets
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-matcha-sweets-sendai-仙台抹茶甜點-藏在巷弄中的綠色日常-0e69df.html
 published: 2026-06-18
-quality_score: 6.5
+quality_score: 8.8
 tags: 仙台抹茶, 日本東北甜點, 在地美食, 巷弄美食, 仙台自由行
 license: CC BY 4.0
 ---

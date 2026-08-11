@@ -6,7 +6,7 @@ category: vr-experiences
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-vr-experiences-hiroshima-廣島vr體驗-和平紀念與未來科技的虛擬實境探索-db9bf7.html
 published: 2026-06-22
-quality_score: 6.5
+quality_score: 8.8
 tags: 廣島VR, 虛擬實境, 和平教育, 廣島旅遊, 歷史體驗
 license: CC BY 4.0
 ---

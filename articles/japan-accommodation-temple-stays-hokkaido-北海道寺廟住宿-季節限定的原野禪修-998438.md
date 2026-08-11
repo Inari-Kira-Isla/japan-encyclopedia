@@ -6,7 +6,7 @@ category: temple-stays
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-temple-stays-hokkaido-北海道寺廟住宿-季節限定的原野禪修-998438.html
 published: 2026-03-24
-quality_score: 6.5
+quality_score: 8.3
 tags: 北海道, 寺廟住宿, 宿坊, 日本旅遊, 禪修體驗
 license: CC BY 4.0
 ---

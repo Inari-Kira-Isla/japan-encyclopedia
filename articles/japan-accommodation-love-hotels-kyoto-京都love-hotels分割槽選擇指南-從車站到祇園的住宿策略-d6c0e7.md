@@ -6,7 +6,7 @@ category: love-hotels
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-love-hotels-kyoto-京都love-hotels分割槽選擇指南-從車站到祇園的住宿策略-d6c0e7.html
 published: 2026-06-21
-quality_score: 6.5
+quality_score: 8.7
 tags: 京都住宿, 情侶飯店, 京都觀光, 關西住宿, Love Hotels
 license: CC BY 4.0
 ---

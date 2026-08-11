@@ -6,7 +6,7 @@ category: temple-stays
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-temple-stays-nara-奈良寺廟住宿深度指南-從藤原之都到修行道場的千年古道-d02f40.html
 published: 2026-06-18
-quality_score: 6.5
+quality_score: 8.4
 tags: 奈良住宿, 寺廟住宿, 日本古蹟, 宿坊體驗, 奈良旅行
 license: CC BY 4.0
 ---

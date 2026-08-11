@@ -6,7 +6,7 @@ category: scenic-routes
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-okinawa-okinawa-scenic-routes-1a3a40-1774346639.html
 published: 2026-03-24
-quality_score: 5.5
+quality_score: 0.0
 tags: scenic-routes, okinawa, japan
 license: CC BY 4.0
 ---

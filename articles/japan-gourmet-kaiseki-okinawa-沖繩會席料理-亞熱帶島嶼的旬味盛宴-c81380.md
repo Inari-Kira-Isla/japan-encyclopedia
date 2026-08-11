@@ -6,7 +6,7 @@ category: kaiseki
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-kaiseki-okinawa-沖繩會席料理-亞熱帶島嶼的旬味盛宴-c81380.html
 published: 2026-06-18
-quality_score: 6.5
+quality_score: 8.7
 tags: 沖繩美食, 會席料理, 日本料理, 沖繩旅遊, 亞熱帶食材
 license: CC BY 4.0
 ---

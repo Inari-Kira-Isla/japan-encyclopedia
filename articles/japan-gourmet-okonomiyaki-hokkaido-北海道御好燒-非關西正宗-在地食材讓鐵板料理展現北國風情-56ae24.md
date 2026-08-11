@@ -6,7 +6,7 @@ category: okonomiyaki
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-okonomiyaki-hokkaido-北海道御好燒-非關西正宗-在地食材讓鐵板料理展現北國風情-56ae24.html
 published: 2026-06-06
-quality_score: 6.5
+quality_score: 8.6
 tags: 北海道, 御好燒, 札幌, 鐵板燒, 日本美食
 license: CC BY 4.0
 ---

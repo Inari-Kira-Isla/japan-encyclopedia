@@ -6,7 +6,7 @@ category: ferries
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-ferries-tokyo-東京渡輪巡航-水上視角探索都市風光的完整指南-fa9f3f.html
 published: 2026-03-15
-quality_score: 7.5
+quality_score: 8.5
 tags: 東京交通, 水上巴士, 隅田川, 台場渡輪, 東京觀光
 license: CC BY 4.0
 ---

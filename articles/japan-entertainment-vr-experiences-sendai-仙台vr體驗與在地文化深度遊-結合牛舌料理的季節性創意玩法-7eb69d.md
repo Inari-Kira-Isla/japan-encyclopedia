@@ -6,7 +6,7 @@ category: vr-experiences
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-vr-experiences-sendai-仙台vr體驗與在地文化深度遊-結合牛舌料理的季節性創意玩法-7eb69d.html
 published: 2026-05-22
-quality_score: 6.5
+quality_score: 8.6
 tags: 仙台, VR體驗, 東北旅遊, 虛擬實境, 和牛舌
 license: CC BY 4.0
 ---

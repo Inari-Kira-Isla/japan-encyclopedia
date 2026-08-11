@@ -6,7 +6,7 @@ category: minshuku
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-hokkaido-北海道民宿完全指南-農場體驗型住宿帶你走進雪國的田野生活-26e848.html
 published: 2026-06-05
-quality_score: 6.5
+quality_score: 8.5
 tags: 北海道民宿, 農場住宿, 日本農業體驗, 十勝平原, 旭川
 license: CC BY 4.0
 ---

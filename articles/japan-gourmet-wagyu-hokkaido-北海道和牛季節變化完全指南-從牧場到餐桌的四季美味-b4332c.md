@@ -6,7 +6,7 @@ category: wagyu
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-wagyu-hokkaido-北海道和牛季節變化完全指南-從牧場到餐桌的四季美味-b4332c.html
 published: 2026-03-28
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道和牛, 季節性美食, 日本美食, 和牛採購, 北海道旅遊
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: department-stores
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-department-stores-osaka-大阪車站購物完全指南-鐵路樞紐的人氣商場-fc0bcf.html
 published: 2026-06-20
-quality_score: 7.5
+quality_score: 8.7
 tags: 大阪, 購物, 車站, 鐵路, 交通樞紐
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: capsule-hotels
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-capsule-hotels-nara-奈良膠囊旅館的在地機能派-參拜巡禮與單車旅人的實用選擇-f3e081.html
 published: 2026-06-20
-quality_score: 6.5
+quality_score: 8.8
 tags: 奈良膠囊飯店, 奈良住宿推薦, 古都奈良, 寺院參拜, 單車旅遊
 license: CC BY 4.0
 ---

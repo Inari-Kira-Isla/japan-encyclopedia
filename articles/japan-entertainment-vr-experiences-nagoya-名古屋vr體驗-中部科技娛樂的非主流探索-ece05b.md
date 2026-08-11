@@ -6,7 +6,7 @@ category: vr-experiences
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-vr-experiences-nagoya-名古屋vr體驗-中部科技娛樂的非主流探索-ece05b.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 8.8
 tags: Nagoya VR, 名古屋娛樂, 中部地区, VR體驗, 遊戲中心
 license: CC BY 4.0
 ---

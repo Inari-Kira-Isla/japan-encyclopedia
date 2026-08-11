@@ -6,7 +6,7 @@ category: gaming-arcades
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-gaming-arcades-fukuoka-福岡遊戲中心-親子同樂與沉浸式體驗的九州秘境-9e261d.html
 published: 2026-06-27
-quality_score: 6.5
+quality_score: 8.7
 tags: 福岡遊戲中心, 博多街機, 天神遊樂場, 密室逃脫, 親子同樂
 license: CC BY 4.0
 ---

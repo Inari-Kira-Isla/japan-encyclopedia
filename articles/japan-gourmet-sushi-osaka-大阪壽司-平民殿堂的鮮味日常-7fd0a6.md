@@ -6,7 +6,7 @@ category: sushi
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sushi-osaka-大阪壽司-平民殿堂的鮮味日常-7fd0a6.html
 published: 2026-06-15
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪壽司, 大阪美食, 迴轉壽司, 關西壽司, 大阪灣海鮮
 license: CC BY 4.0
 ---

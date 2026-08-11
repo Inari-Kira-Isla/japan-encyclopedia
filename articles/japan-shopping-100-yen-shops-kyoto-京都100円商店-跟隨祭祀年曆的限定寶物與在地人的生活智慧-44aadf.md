@@ -6,7 +6,7 @@ category: 100-yen-shops
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-100-yen-shops-kyoto-京都100円商店-跟隨祭祀年曆的限定寶物與在地人的生活智慧-44aadf.html
 published: 2026-06-23
-quality_score: 7.5
+quality_score: 8.6
 tags: 京都, 100円商店, 百元店, 日本購物, 京都旅遊
 license: CC BY 4.0
 ---

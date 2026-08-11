@@ -6,7 +6,7 @@ category: 100-yen-shops
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-100-yen-shops-kyoto-京都100円商店淘貨指南-美妝文具食品分類購物攻略與省錢秘訣-5ad77d.html
 published: 2026-03-23
-quality_score: 7.5
+quality_score: 8.7
 tags: 京都購物, 100円商店, 日本省錢攻略, 文具美妝, 旅遊指南
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: depachika
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-depachika-fukuoka-福岡-depachika-完全指南-九州門戶的百貨地下美食天堂-38a6ba.html
 published: 2026-03-15
-quality_score: 6.5
+quality_score: 8.7
 tags: 福岡美食, 百貨公司, 日本購物, 九州特產, 博多
 license: CC BY 4.0
 ---

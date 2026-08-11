@@ -6,7 +6,7 @@ category: ferries
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-ferries-okinawa-沖繩渡輪體驗-海上看日出與跳島航行的浪漫之旅-9de2f9.html
 published: 2026-06-30
-quality_score: 7.5
+quality_score: 8.4
 tags: 沖繩渡輪, 跳島旅行, 石垣島, 宮古島, 渡嘉敷島
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: garden-parks
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-nara-奈良庭園散步-古都綠意的慢時光-b4ef61.html
 published: 2026-07-04
-quality_score: 6.5
+quality_score: 8.6
 tags: 奈良庭園, 日本古都, 日式庭園, 慢旅體驗, 關西旅遊
 license: CC BY 4.0
 ---

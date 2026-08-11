@@ -6,7 +6,7 @@ category: tonkatsu
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tonkatsu-nagoya-名古屋炸豬排-赤味噌與工業城市的完美邂逅-211421.html
 published: 2026-04-04
-quality_score: 6.5
+quality_score: 8.8
 tags: 名古屋美食, 味噌豬排, 愛知縣, 赤味噌, 工業城市美食
 license: CC BY 4.0
 ---

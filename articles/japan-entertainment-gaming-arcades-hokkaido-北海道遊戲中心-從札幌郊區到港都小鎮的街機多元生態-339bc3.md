@@ -6,7 +6,7 @@ category: gaming-arcades
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-gaming-arcades-hokkaido-北海道遊戲中心-從札幌郊區到港都小鎮的街機多元生態-339bc3.html
 published: 2026-03-23
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道, 遊戲中心, 街機文化, 札幌, 小樽
 license: CC BY 4.0
 ---

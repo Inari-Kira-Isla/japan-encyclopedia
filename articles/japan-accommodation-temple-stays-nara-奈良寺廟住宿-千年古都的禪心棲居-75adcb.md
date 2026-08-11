@@ -6,7 +6,7 @@ category: temple-stays
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-temple-stays-nara-奈良寺廟住宿-千年古都的禪心棲居-75adcb.html
 published: 2026-06-02
-quality_score: 6.5
+quality_score: 8.7
 tags: 奈良寺廟住宿, 宿坊體驗, 日本古都住宿, 佛教文化之旅, 關西深度旅遊
 license: CC BY 4.0
 ---

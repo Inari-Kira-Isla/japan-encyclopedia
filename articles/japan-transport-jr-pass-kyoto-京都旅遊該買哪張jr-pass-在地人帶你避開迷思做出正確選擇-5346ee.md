@@ -6,7 +6,7 @@ category: jr-pass
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-jr-pass-kyoto-京都旅遊該買哪張jr-pass-在地人帶你避開迷思做出正確選擇-5346ee.html
 published: 2026-07-04
-quality_score: 7.5
+quality_score: 8.8
 tags: 京都, JR Pass, 關西廣域周遊券, 京都交通, 日本鐵路
 license: CC BY 4.0
 ---

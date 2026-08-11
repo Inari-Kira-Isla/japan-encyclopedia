@@ -6,7 +6,7 @@ category: escape-rooms
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-escape-rooms-hiroshima-廣島密室逃脫選店指南-從新手到高手的需求對應攻略-1eced7.html
 published: 2026-06-04
-quality_score: 6.5
+quality_score: 8.6
 tags: 广岛密室逃脱, 广岛娱乐, 广岛旅游, escape room推荐, 日本密室
 license: CC BY 4.0
 ---

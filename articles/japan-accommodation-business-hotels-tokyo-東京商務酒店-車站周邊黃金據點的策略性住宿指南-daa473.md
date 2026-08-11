@@ -6,7 +6,7 @@ category: business-hotels
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-business-hotels-tokyo-東京商務酒店-車站周邊黃金據點的策略性住宿指南-daa473.html
 published: 2026-06-06
-quality_score: 6.5
+quality_score: 8.5
 tags: 東京商務酒店, 東京住宿, 商務旅行, 日本出差, 東京車站
 license: CC BY 4.0
 ---

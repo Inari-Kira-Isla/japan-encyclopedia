@@ -6,7 +6,7 @@ category: kaiseki
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-kaiseki-hokkaido-北海道懷石料理-隆冬蟹宴與在地食堂的暖心選擇-457bc5.html
 published: 2026-05-21
-quality_score: 6.5
+quality_score: 8.9
 tags: 北海道懷石, 冬季美食, 螃蟹, 割烹, 札幌
 license: CC BY 4.0
 ---

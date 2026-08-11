@@ -6,7 +6,7 @@ category: tempura
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tempura-osaka-大阪天婦羅-關西風の押し天魅力-0c3074.html
 published: 2026-06-03
-quality_score: 6.5
+quality_score: 8.7
 tags: 押し天, 關西天婦羅, 大阪美食, 大阪必吃, 天婦羅推薦
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: onsen
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-onsen-kanazawa-金澤周邊溫泉這樣選-加賀溫泉鄉當日往返完全指南-29e844.html
 published: 2026-06-07
-quality_score: 6.5
+quality_score: 8.9
 tags: 金澤溫泉, 加賀溫泉鄉, 当日往返, 山代溫泉, 粟津溫泉
 license: CC BY 4.0
 ---

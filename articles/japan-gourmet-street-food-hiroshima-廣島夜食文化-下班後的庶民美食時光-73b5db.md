@@ -6,7 +6,7 @@ category: street-food
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-street-food-hiroshima-廣島夜食文化-下班後的庶民美食時光-73b5db.html
 published: 2026-04-02
-quality_score: 6.5
+quality_score: 8.7
 tags: 廣島, 夜食, 街頭美食, 上班族, 屋台
 license: CC BY 4.0
 ---

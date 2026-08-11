@@ -6,7 +6,7 @@ category: minshuku
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-kyoto-京都北邊山區民宿-比叡山-貴船-鞍馬的自然與修行文化住宿-3ba261.html
 published: 2026-07-01
-quality_score: 6.5
+quality_score: 8.6
 tags: 京都民宿, 比叡山, 鞍馬溫泉, 貴船川床, 日本佛教
 license: CC BY 4.0
 ---

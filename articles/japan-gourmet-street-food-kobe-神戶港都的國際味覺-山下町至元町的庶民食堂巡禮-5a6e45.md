@@ -6,7 +6,7 @@ category: street-food
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-street-food-kobe-神戶港都的國際味覺-山下町至元町的庶民食堂巡禮-5a6e45.html
 published: 2026-06-24
-quality_score: 6.5
+quality_score: 8.5
 tags: 神戶, 街頭美食, 港都文化, 異國混血, 庶民小吃
 license: CC BY 4.0
 ---

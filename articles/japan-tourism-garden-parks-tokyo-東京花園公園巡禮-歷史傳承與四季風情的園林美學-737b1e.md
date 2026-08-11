@@ -6,7 +6,7 @@ category: garden-parks
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-tokyo-東京花園公園巡禮-歷史傳承與四季風情的園林美學-737b1e.html
 published: 2026-06-19
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京花園, 歷史文化, 四季遊覽, 都市綠地, 日式庭園
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: nightlife
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-sendai-仙台夜生活在地指南-廣瀨通週邊食堂的深夜美味-ec0e2b.html
 published: 2026-05-25
-quality_score: 6.5
+quality_score: 8.6
 tags: 仙台夜生活, 廣瀨通, 食堂, 二郎系拉麵, 人情味
 license: CC BY 4.0
 ---

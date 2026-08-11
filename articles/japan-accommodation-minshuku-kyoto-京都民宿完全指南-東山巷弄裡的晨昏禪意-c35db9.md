@@ -6,7 +6,7 @@ category: minshuku
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-kyoto-京都民宿完全指南-東山巷弄裡的晨昏禪意-c35db9.html
 published: 2026-06-15
-quality_score: 6.5
+quality_score: 8.4
 tags: 京都民宿, 京町家, 東山住宿, 祇園民宿, 京都自由行
 license: CC BY 4.0
 ---

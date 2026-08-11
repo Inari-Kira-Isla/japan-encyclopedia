@@ -6,7 +6,7 @@ category: cycling
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-hiroshima-廣島單車漫遊-穿越復原之路的在地風格店家-214e0e.html
 published: 2026-06-09
-quality_score: 7.5
+quality_score: 8.7
 tags: 廣島單車, 廣島旅遊, 廣島燒, 日本單車旅行, 廣島自由行
 license: CC BY 4.0
 ---

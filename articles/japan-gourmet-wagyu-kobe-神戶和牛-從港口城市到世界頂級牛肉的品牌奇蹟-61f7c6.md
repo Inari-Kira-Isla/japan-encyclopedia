@@ -6,7 +6,7 @@ category: wagyu
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-wagyu-kobe-神戶和牛-從港口城市到世界頂級牛肉的品牌奇蹟-61f7c6.html
 published: 2026-06-28
-quality_score: 6.5
+quality_score: 8.7
 tags: 神戶和牛, 日本和牛, 神戶美食, 兵庫縣, 和牛燒肉
 license: CC BY 4.0
 ---

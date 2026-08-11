@@ -6,7 +6,7 @@ category: tonkatsu
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tonkatsu-sendai-仙台炸豬排-和牛故鄉的洋食蛻變-67156c.html
 published: 2026-06-24
-quality_score: 6.5
+quality_score: 8.5
 tags: 仙台美食, 炸豬排, 仙台牛, 日本洋食, 東北料理
 license: CC BY 4.0
 ---

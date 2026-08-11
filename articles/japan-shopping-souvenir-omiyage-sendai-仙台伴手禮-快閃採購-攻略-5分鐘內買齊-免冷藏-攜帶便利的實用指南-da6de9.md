@@ -6,7 +6,7 @@ category: souvenir-omiyage
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-souvenir-omiyage-sendai-仙台伴手禮-快閃採購-攻略-5分鐘內買齊-免冷藏-攜帶便利的實用指南-da6de9.html
 published: 2026-06-28
-quality_score: 7.5
+quality_score: 8.6
 tags: 仙台伴手禮, 快閃購物, 日本東北, 牛舌, 毛豆餅
 license: CC BY 4.0
 ---

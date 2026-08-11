@@ -6,7 +6,7 @@ category: ferries
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-ferries-hiroshima-廣島渡輪美食航線-瀨戶內海的島嶼食旅指南-91ce4d.html
 published: 2026-06-09
-quality_score: 7.5
+quality_score: 8.6
 tags: 廣島渡輪, 瀨戶內海, 島嶼美食, 男木島, 女木島
 license: CC BY 4.0
 ---

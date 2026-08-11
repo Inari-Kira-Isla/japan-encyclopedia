@@ -6,7 +6,7 @@ category: onsen
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-onsen-kyoto-京都溫泉-古城巷弄中的秘湯日常-920447.html
 published: 2026-05-24
-quality_score: 6.5
+quality_score: 8.7
 tags: 京都溫泉, 錢湯, 京都旅遊, 伏見溫泉, 嵐山溫泉
 license: CC BY 4.0
 ---

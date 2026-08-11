@@ -6,7 +6,7 @@ category: buses
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-buses-fukuoka-福岡的巴士-九州港都的便捷移動指南-29f138.html
 published: 2026-03-21
-quality_score: 7.5
+quality_score: 8.7
 tags: 福冈交通, 巴士出行, 九州旅遊, IC卡使用, 日本大眾運輸
 license: CC BY 4.0
 ---

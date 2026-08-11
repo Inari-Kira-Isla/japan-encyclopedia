@@ -6,7 +6,7 @@ category: kabuki-theatre
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-kabuki-theatre-hiroshima-廣島表演藝術與文化體驗-沒有傳統kabuki劇場的替代方案-f109cb-1781397480.html
 published: 2026-06-14
-quality_score: 6.5
+quality_score: 8.5
 tags: 廣島表演藝術, 廣島文化體驗, 沒有Kabuki劇場的替代方案, 日本非主流表演藝術, 廣島現場音樂
 license: CC BY 4.0
 ---

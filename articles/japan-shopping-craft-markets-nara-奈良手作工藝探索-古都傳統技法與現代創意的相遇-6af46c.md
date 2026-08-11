@@ -6,7 +6,7 @@ category: craft-markets
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-craft-markets-nara-奈良手作工藝探索-古都傳統技法與現代創意的相遇-6af46c.html
 published: 2026-06-10
-quality_score: 7.5
+quality_score: 8.7
 tags: 奈良, 手作工藝, 傳統技法, 漆器, 奈良人形
 license: CC BY 4.0
 ---

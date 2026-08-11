@@ -6,7 +6,7 @@ category: airport-transfer
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-airport-transfer-tokyo-東京機場交通完全指南-深夜凌晨航班與特殊需求族群的對策-0f16d3.html
 published: 2026-06-20
-quality_score: 7.5
+quality_score: 8.4
 tags: 東京機場交通, 深夜航班, 凌晨航班, 東京交通, 成田機場
 license: CC BY 4.0
 ---

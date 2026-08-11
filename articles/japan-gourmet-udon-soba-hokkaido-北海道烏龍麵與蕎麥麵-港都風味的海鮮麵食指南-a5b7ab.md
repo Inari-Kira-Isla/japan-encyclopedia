@@ -6,7 +6,7 @@ category: udon-soba
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-udon-soba-hokkaido-北海道烏龍麵與蕎麥麵-港都風味的海鮮麵食指南-a5b7ab.html
 published: 2026-05-22
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道美食, 小樽烏龍麵, 札幌中央卸賣市場, 函館朝市, 港都風味
 license: CC BY 4.0
 ---

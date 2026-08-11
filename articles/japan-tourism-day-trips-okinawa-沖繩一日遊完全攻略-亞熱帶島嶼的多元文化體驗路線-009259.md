@@ -6,7 +6,7 @@ category: day-trips
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-okinawa-沖繩一日遊完全攻略-亞熱帶島嶼的多元文化體驗路線-009259.html
 published: 2026-04-06
-quality_score: 6.5
+quality_score: 8.9
 tags: 沖繩, 一日遊, 琉球文化, 亞熱帶, 海洋
 license: CC BY 4.0
 ---

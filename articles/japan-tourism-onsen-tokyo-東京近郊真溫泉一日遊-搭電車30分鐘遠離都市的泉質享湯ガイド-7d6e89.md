@@ -6,7 +6,7 @@ category: onsen
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-onsen-tokyo-東京近郊真溫泉一日遊-搭電車30分鐘遠離都市的泉質享湯ガイド-7d6e89.html
 published: 2026-06-04
-quality_score: 6.5
+quality_score: 8.6
 tags: 東京溫泉, 近郊溫泉一日遊, 草津溫泉, 強羅溫泉, 湯河原溫泉
 license: CC BY 4.0
 ---

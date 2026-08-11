@@ -6,7 +6,7 @@ category: cycling
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-sendai-仙台單車生活手冊-日常騎行探索海港城市的在地節奏-766a30.html
 published: 2026-06-17
-quality_score: 7.5
+quality_score: 8.7
 tags: 仙台單車, 杜之都, 日常騎行, 東北單車, 產業探訪
 license: CC BY 4.0
 ---

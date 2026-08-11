@@ -6,7 +6,7 @@ category: souvenir-omiyage
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-souvenir-omiyage-hokkaido-北海道冬季伴手禮完全指南-雪國極品的在地味覺-6060bf.html
 published: 2026-06-06
-quality_score: 7.5
+quality_score: 8.4
 tags: 北海道, 伴手禮, 新千歲機場, 札幌地下街, 函館朝市
 license: CC BY 4.0
 ---

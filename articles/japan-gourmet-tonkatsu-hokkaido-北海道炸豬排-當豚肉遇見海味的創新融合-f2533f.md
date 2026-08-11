@@ -6,7 +6,7 @@ category: tonkatsu
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tonkatsu-hokkaido-北海道炸豬排-當豚肉遇見海味的創新融合-f2533f.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.8
 tags: 北海道美食, 炸豬排, 海陸融合, 創新料理, 道產食材
 license: CC BY 4.0
 ---

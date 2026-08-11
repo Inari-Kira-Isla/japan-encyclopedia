@@ -6,7 +6,7 @@ category: street-food
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-street-food-nara-奈良朝市與町屋小路-古都清晨的庶民味覺散步-22b30c.html
 published: 2026-06-06
-quality_score: 6.5
+quality_score: 8.7
 tags: 奈良, 街頭美食, 古都, 朝市, 參道小吃
 license: CC BY 4.0
 ---

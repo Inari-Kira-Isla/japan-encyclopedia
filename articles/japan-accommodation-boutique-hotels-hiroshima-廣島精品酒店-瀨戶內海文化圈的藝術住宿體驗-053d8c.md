@@ -6,7 +6,7 @@ category: boutique-hotels
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-hiroshima-廣島精品酒店-瀨戶內海文化圈的藝術住宿體驗-053d8c.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 廣島, 精品酒店, 藝術文化, 瀨戶內海, 文化體驗
 license: CC BY 4.0
 ---

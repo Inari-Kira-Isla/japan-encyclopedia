@@ -6,7 +6,7 @@ category: historical-districts
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-osaka-大阪歷史街區-從清晨市集到霓虹夜晚的晝夜分流散步-f01921.html
 published: 2026-06-29
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪歷史街區, 天下の臺所, 商魂, 晝夜分流, 昭和町
 license: CC BY 4.0
 ---

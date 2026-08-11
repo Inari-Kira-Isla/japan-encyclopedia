@@ -6,7 +6,7 @@ category: nature-trails
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-kobe-神戶自然步道完全攻略-山海之間的療癒散步地圖-945b73.html
 published: 2026-07-03
-quality_score: 6.5
+quality_score: 8.7
 tags: 神戶步道, 六甲山, 摩耶山, 自然健行, 森林浴
 license: CC BY 4.0
 ---

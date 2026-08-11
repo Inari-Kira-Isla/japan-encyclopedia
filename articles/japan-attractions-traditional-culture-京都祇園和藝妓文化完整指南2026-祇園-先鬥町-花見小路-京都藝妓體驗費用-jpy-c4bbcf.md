@@ -6,7 +6,7 @@ category: traditional-culture
 area: japan
 url: https://japan-encyclopedia.vercel.app/articles/japan-attractions-traditional-culture-京都祇園和藝妓文化完整指南2026-祇園-先鬥町-花見小路-京都藝妓體驗費用-jpy-c4bbcf.html
 published: 2026-04-04
-quality_score: 7.1
+quality_score: 8.6
 tags: 京都祇園, 藝妓文化, 花見小路, 舞妓, 祇園祭
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: ferries
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-ferries-nagoya-名古屋港灣漫步指南-工業城市的濱水文化體驗-3794b0.html
 published: 2026-03-23
-quality_score: 7.5
+quality_score: 8.5
 tags: 名古屋港灣, 工業遺產, 港灣散步, 名古屋旅遊, 日本港口文化
 license: CC BY 4.0
 ---

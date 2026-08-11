@@ -6,7 +6,7 @@ category: gaming-arcades
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-gaming-arcades-osaka-大阪遊戲中心-夜生活社交新據點的街機體驗-1f5920.html
 published: 2026-03-29
-quality_score: 6.5
+quality_score: 8.8
 tags: 大阪夜生活, 街機文化, 社交娛樂, 遊戲中心, 關西旅遊
 license: CC BY 4.0
 ---

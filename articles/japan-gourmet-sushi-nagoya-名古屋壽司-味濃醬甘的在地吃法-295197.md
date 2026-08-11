@@ -6,7 +6,7 @@ category: sushi
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sushi-nagoya-名古屋壽司-味濃醬甘的在地吃法-295197.html
 published: 2026-06-17
-quality_score: 6.5
+quality_score: 8.7
 tags: 名古屋壽司, 名古屋美食, 中部地方, 關西關東融合, 在地吃法
 license: CC BY 4.0
 ---

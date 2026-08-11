@@ -6,7 +6,7 @@ category: ski-resorts
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-ski-resorts-osaka-大阪出發當日來回滑雪場-關西近郊滑雪一日遊完全指南-c26c9b.html
 published: 2026-06-07
-quality_score: 6.5
+quality_score: 8.3
 tags: 大阪滑雪, 關西滑雪, 當日來回滑雪, 日本滑雪, 大阪近郊
 license: CC BY 4.0
 ---

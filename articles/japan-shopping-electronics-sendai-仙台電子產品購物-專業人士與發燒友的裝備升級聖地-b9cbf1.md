@@ -6,7 +6,7 @@ category: electronics
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-electronics-sendai-仙台電子產品購物-專業人士與發燒友的裝備升級聖地-b9cbf1.html
 published: 2026-03-23
-quality_score: 7.5
+quality_score: 8.5
 tags: 仙台購物, 電子產品, 專業器材, 音響發燒, 內容創作
 license: CC BY 4.0
 ---

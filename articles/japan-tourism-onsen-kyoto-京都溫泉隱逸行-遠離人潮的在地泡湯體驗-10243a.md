@@ -6,7 +6,7 @@ category: onsen
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-onsen-kyoto-京都溫泉隱逸行-遠離人潮的在地泡湯體驗-10243a.html
 published: 2026-05-21
-quality_score: 6.5
+quality_score: 8.7
 tags: 京都溫泉, 嵐山溫泉, 滋賀溫泉, 關西溫泉, 一日遊溫泉
 license: CC BY 4.0
 ---

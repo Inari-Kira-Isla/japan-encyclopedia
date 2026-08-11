@@ -6,7 +6,7 @@ category: nightlife
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-nagoya-名古屋夜生活-工程師之城的深夜娛樂-8c20b1.html
 published: 2026-06-20
-quality_score: 6.5
+quality_score: 8.7
 tags: 名古屋夜生活, 日本中部, 工程師之城, 深夜食堂, 名古屋美食
 license: CC BY 4.0
 ---

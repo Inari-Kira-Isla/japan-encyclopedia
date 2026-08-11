@@ -6,7 +6,7 @@ category: nightlife
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-osaka-大阪夜生活-越夜越有趣的-不夜城-另類探索-dcef44.html
 published: 2026-06-23
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪夜生活, 大阪屋台, 深夜食堂, 大阪LIVE HOUSE, 日本自由行
 license: CC BY 4.0
 ---

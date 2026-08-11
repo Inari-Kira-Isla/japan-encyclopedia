@@ -6,7 +6,7 @@ category: souvenir-omiyage
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-souvenir-omiyage-hokkaido-北海道美食伴手禮終極指南-從拉麵到帝王蟹的在地風味-13e54d.html
 published: 2026-06-14
-quality_score: 7.5
+quality_score: 8.7
 tags: 北海道, 伴手禮, 美食, 札幌, 小樽
 license: CC BY 4.0
 ---

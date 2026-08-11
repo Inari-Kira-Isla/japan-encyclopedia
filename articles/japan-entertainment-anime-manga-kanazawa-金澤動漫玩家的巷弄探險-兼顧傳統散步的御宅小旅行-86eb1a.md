@@ -6,7 +6,7 @@ category: anime-manga
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-kanazawa-金澤動漫玩家的巷弄探險-兼顧傳統散步的御宅小旅行-86eb1a.html
 published: 2026-06-17
-quality_score: 6.5
+quality_score: 8.5
 tags: 金澤動漫, 金澤遊戲中心, 金澤漫畫咖啡廳, 金澤二手漫畫, 石川縣御宅文化
 license: CC BY 4.0
 ---

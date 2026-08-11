@@ -6,7 +6,7 @@ category: onsen
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-onsen-hiroshima-廣島溫泉不完全指南-周邊縣市的溫泉小旅行-dff70e.html
 published: 2026-05-21
-quality_score: 6.5
+quality_score: 8.7
 tags: 廣島温泉, 中國地方溫泉, 日本溫泉推薦, 廣島自由行, 溫泉小旅行
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: 100-yen-shops
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-100-yen-shops-hokkaido-北海道100円商店銀髮友善購物指南-長輩赴日旅遊的平價好店-52e6aa-1782690555.html
 published: 2026-06-28
-quality_score: 7.5
+quality_score: 8.6
 tags: 北海道, 100円商店, 銀髮友善, 札幌, 購物指南
 license: CC BY 4.0
 ---

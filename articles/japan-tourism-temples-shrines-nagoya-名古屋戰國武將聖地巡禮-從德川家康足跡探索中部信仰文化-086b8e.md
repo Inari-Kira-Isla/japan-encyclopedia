@@ -6,7 +6,7 @@ category: temples-shrines
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-temples-shrines-nagoya-名古屋戰國武將聖地巡禮-從德川家康足跡探索中部信仰文化-086b8e.html
 published: 2026-04-06
-quality_score: 6.5
+quality_score: 8.6
 tags: 德川家康, 戰國武將, 名古屋神社, 武家文化, 歷史巡禮
 license: CC BY 4.0
 ---

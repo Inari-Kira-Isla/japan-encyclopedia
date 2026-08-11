@@ -6,7 +6,7 @@ category: metro-systems
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-okinawa-沖繩交通迷思破解-理解島嶼獨特的移動邏輯-9874bb.html
 published: 2026-03-29
-quality_score: 7.5
+quality_score: 8.7
 tags: 沖繩交通, 單軌電車, 自駕旅遊, 公車系統, 離島交通
 license: CC BY 4.0
 ---

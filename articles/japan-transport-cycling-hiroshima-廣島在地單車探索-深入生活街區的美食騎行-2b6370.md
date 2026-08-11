@@ -6,7 +6,7 @@ category: cycling
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-hiroshima-廣島在地單車探索-深入生活街區的美食騎行-2b6370.html
 published: 2026-03-29
-quality_score: 7.5
+quality_score: 8.7
 tags: 廣島, 單車旅遊, 在地美食, 深度旅遊, 日本騎行
 license: CC BY 4.0
 ---

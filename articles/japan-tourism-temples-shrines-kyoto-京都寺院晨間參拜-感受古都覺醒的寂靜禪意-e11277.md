@@ -6,7 +6,7 @@ category: temples-shrines
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-temples-shrines-kyoto-京都寺院晨間參拜-感受古都覺醒的寂靜禪意-e11277.html
 published: 2026-07-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 京都寺院, 清晨參拜, 古都旅遊, 日本宗教文化, 京都自由行
 license: CC BY 4.0
 ---

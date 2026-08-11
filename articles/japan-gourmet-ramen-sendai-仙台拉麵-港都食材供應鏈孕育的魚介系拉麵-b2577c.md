@@ -6,7 +6,7 @@ category: ramen
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-ramen-sendai-仙台拉麵-港都食材供應鏈孕育的魚介系拉麵-b2577c.html
 published: 2026-07-02
-quality_score: 6.5
+quality_score: 8.9
 tags: 仙台拉麵, 日本東北拉麵, 魚介系拉麵, 食材供應鏈, 三陸海岸
 license: CC BY 4.0
 ---

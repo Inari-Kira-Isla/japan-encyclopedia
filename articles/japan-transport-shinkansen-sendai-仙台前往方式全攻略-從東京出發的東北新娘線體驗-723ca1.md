@@ -6,7 +6,7 @@ category: shinkansen
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-sendai-仙台前往方式全攻略-從東京出發的東北新娘線體驗-723ca1.html
 published: 2026-05-31
-quality_score: 7.5
+quality_score: 8.8
 tags: 東北新娘線, 仙台交通, 日本新娘線, 東京到仙台, 東北自由行
 license: CC BY 4.0
 ---

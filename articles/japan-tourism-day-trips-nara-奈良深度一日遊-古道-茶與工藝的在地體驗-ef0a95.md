@@ -6,7 +6,7 @@ category: day-trips
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-nara-奈良深度一日遊-古道-茶與工藝的在地體驗-ef0a95.html
 published: 2026-06-29
-quality_score: 6.5
+quality_score: 8.7
 tags: 奈良一日遊, 明日香村, 深度文化體驗, 傳統工藝, 日本古道
 license: CC BY 4.0
 ---

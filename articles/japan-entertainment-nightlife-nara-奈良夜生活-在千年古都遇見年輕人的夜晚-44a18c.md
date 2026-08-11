@@ -6,7 +6,7 @@ category: nightlife
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-nara-奈良夜生活-在千年古都遇見年輕人的夜晚-44a18c.html
 published: 2026-03-29
-quality_score: 6.5
+quality_score: 8.6
 tags: 奈良夜生活, 大學城, 餐酒文化, 動漫聖地, 傳統表演
 license: CC BY 4.0
 ---

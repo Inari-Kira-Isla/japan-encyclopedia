@@ -6,7 +6,7 @@ category: jr-pass
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-jr-pass-fukuoka-從福岡機場進出九州-jr九州周遊券使用指南-61fea6.html
 published: 2026-06-12
-quality_score: 7.5
+quality_score: 8.7
 tags: JR九州周遊券, 九州鐵路, 福岡機場交通, 由布院溫泉, 阿蘇火山
 license: CC BY 4.0
 ---

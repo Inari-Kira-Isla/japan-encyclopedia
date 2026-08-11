@@ -6,7 +6,7 @@ category: electronics
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-electronics-tokyo-tokyo電子產品購物完全攻略-外國遊客免稅購物與語言對應指南-fe2f7f.html
 published: 2026-06-29
-quality_score: 7.5
+quality_score: 8.7
 tags: Tokyo電子產品, 秋葉原電器, 日本免稅購物, 外國遊客指南, Tokyo購物
 license: CC BY 4.0
 ---

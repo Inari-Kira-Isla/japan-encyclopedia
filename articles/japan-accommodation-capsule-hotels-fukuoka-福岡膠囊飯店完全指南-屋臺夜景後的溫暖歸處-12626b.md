@@ -6,7 +6,7 @@ category: capsule-hotels
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-capsule-hotels-fukuoka-福岡膠囊飯店完全指南-屋臺夜景後的溫暖歸處-12626b.html
 published: 2026-06-21
-quality_score: 6.5
+quality_score: 8.5
 tags: 福岡膠囊飯店, 博多了住宿, 屋台夜景, 九州自助, 女性友善住宿
 license: CC BY 4.0
 ---

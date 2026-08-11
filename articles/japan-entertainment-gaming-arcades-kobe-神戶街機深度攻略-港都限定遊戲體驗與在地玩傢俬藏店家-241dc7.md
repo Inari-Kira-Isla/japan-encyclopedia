@@ -6,7 +6,7 @@ category: gaming-arcades
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-gaming-arcades-kobe-神戶街機深度攻略-港都限定遊戲體驗與在地玩傢俬藏店家-241dc7.html
 published: 2026-05-22
-quality_score: 6.5
+quality_score: 8.8
 tags: 神戶, 街機, 遊戲中心, 關西, 休閒娛樂
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: izakaya
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-izakaya-sendai-仙台居酒屋的-伊達-品味-體驗東北男兒的豪邁與細膩-2a8968.html
 published: 2026-06-14
-quality_score: 6.5
+quality_score: 8.5
 tags: 仙台, 居酒屋, 東北, 伊達政宗, 牛舌
 license: CC BY 4.0
 ---

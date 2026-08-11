@@ -6,7 +6,7 @@ category: crafts
 area: japan
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-crafts-日本傳統工藝體驗指南2026-京友禪-西陣織-有田燒-輪島塗-體驗工房完整攻略-jp-craft-artisan-gu-3a3b6b.html
 published: 2026-03-28
-quality_score: 7.6
+quality_score: 8.3
 tags: 日本傳統工藝, 京都染色體驗, 有田燒, 輪島塗, 南部鐵器
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: castle-towns
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-castle-towns-tokyo-江戶的記憶在此蛻變-東京城下町文化區的當代體驗-87339d.html
 published: 2026-03-23
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京城下町, 江戶文化, 傳統町家, 當代藝術, 文化體驗
 license: CC BY 4.0
 ---

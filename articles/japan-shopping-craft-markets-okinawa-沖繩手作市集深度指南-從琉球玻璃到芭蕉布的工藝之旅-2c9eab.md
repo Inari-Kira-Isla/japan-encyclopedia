@@ -6,7 +6,7 @@ category: craft-markets
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-craft-markets-okinawa-沖繩手作市集深度指南-從琉球玻璃到芭蕉布的工藝之旅-2c9eab.html
 published: 2026-07-05
-quality_score: 7.5
+quality_score: 8.5
 tags: 沖繩工藝市集, 琉球玻璃, 芭蕉布, 沖繩手作, 日本工藝
 license: CC BY 4.0
 ---

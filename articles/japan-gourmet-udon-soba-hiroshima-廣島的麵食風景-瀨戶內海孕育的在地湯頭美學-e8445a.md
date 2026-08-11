@@ -6,7 +6,7 @@ category: udon-soba
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-udon-soba-hiroshima-廣島的麵食風景-瀨戶內海孕育的在地湯頭美學-e8445a.html
 published: 2026-06-10
-quality_score: 6.5
+quality_score: 8.8
 tags: 廣島美食, 瀨戶內海, 烏龍麵, 蕎麥麵, 日本在地美食
 license: CC BY 4.0
 ---

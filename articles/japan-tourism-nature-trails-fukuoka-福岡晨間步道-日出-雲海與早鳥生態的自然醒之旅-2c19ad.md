@@ -6,7 +6,7 @@ category: nature-trails
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-fukuoka-福岡晨間步道-日出-雲海與早鳥生態的自然醒之旅-2c19ad.html
 published: 2026-06-16
-quality_score: 6.5
+quality_score: 8.6
 tags: 福岡自然步道, 晨間登山, 雲海景點, 九州健行, 日本戶外探險
 license: CC BY 4.0
 ---

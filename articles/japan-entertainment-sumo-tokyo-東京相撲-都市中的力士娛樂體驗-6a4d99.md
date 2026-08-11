@@ -6,7 +6,7 @@ category: sumo
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-tokyo-東京相撲-都市中的力士娛樂體驗-6a4d99.html
 published: 2026-03-27
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京相撲, 兩國, 力士體驗, 相撲料理, 日本國技
 license: CC BY 4.0
 ---

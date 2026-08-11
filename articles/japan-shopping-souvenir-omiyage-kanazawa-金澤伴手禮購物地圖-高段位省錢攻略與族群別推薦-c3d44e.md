@@ -6,7 +6,7 @@ category: souvenir-omiyage
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-souvenir-omiyage-kanazawa-金澤伴手禮購物地圖-高段位省錢攻略與族群別推薦-c3d44e.html
 published: 2026-03-24
-quality_score: 7.5
+quality_score: 8.6
 tags: 金澤伴手禮, 日本購物攻略, omiyage, 省錢技巧, 時間策略
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: insight
 area: japan
 url: https://japan-encyclopedia.vercel.app/articles/japan-wellness-insight-日本藥膳與健康飲食指南2026-從懷石料理到發酵食品的養生智慧-jp-japanese-health-food-y-6a666e.html
 published: 2026-03-30
-quality_score: 7.1
+quality_score: 8.7
 tags: 日本, 藥膳, 健康飲食, 發酵食品, 長壽
 license: CC BY 4.0
 ---

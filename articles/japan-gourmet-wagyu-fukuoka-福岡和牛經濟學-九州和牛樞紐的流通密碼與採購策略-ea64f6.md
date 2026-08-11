@@ -6,7 +6,7 @@ category: wagyu
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-wagyu-fukuoka-福岡和牛經濟學-九州和牛樞紐的流通密碼與採購策略-ea64f6.html
 published: 2026-04-07
-quality_score: 6.5
+quality_score: 8.6
 tags: 和牛, 福岡美食, 九州','燒肉','日本料理','美食攻略
 license: CC BY 4.0
 ---

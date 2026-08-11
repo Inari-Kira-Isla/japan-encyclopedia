@@ -6,7 +6,7 @@ category: jr-pass
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-jr-pass-nagoya-名古屋出發的jr-pass選擇指南-根據行程選對票券才是關鍵-6acf54.html
 published: 2026-07-03
-quality_score: 7.5
+quality_score: 8.7
 tags: 名古屋交通, JR Pass教學, 中部日本, 白川鄉, 高山
 license: CC BY 4.0
 ---

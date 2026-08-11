@@ -6,7 +6,7 @@ category: street-food
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-street-food-nagoya-名古屋街頭美食-工業重鎮的赤味噌魂與庶民滋味-752a80.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.9
 tags: 名古屋美食, 日本街頭美食, 八丁味噌, 工業城市, 中部地區
 license: CC BY 4.0
 ---

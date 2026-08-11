@@ -6,7 +6,7 @@ category: temples-shrines
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-temples-shrines-hokkaido-北海道機能型神社-雪國生活中的安全守護者-80d092.html
 published: 2026-04-08
-quality_score: 6.5
+quality_score: 8.6
 tags: 北海道, 神社, 機能型神社, 滑雪安全, 海上安全
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: sushi
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sushi-hiroshima-廣島壽司的獨特風貌-瀨戶內海的味覺印象-9652c3.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 8.6
 tags: 廣島壽司, 瀨戶內海美食, 日本中部壽司, 廣島牡蠣, 日本朝壽司
 license: CC BY 4.0
 ---

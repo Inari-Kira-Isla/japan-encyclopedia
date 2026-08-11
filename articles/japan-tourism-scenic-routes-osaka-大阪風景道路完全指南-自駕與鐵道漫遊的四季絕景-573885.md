@@ -6,7 +6,7 @@ category: scenic-routes
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-osaka-大阪風景道路完全指南-自駕與鐵道漫遊的四季絕景-573885.html
 published: 2026-05-23
-quality_score: 6.5
+quality_score: 8.8
 tags: 大阪, 風景道路, 自駕, 公路旅行, 關西
 license: CC BY 4.0
 ---

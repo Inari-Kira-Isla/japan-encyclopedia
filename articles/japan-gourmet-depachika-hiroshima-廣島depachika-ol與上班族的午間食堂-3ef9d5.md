@@ -6,7 +6,7 @@ category: depachika
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-depachika-hiroshima-廣島depachika-ol與上班族的午間食堂-3ef9d5.html
 published: 2026-06-13
-quality_score: 6.5
+quality_score: 8.6
 tags: 廣島, Depachika, 百貨地下食品, 瀨戶內海, 午餐
 license: CC BY 4.0
 ---

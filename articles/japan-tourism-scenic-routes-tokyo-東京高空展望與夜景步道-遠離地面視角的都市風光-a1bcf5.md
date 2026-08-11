@@ -6,7 +6,7 @@ category: scenic-routes
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-tokyo-東京高空展望與夜景步道-遠離地面視角的都市風光-a1bcf5.html
 published: 2026-05-24
-quality_score: 5.5
+quality_score: 7.7
 tags: 東京美景, 高空視角, 夜景, 都市散步, 攝影景點
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: craft-markets
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-craft-markets-osaka-大阪工藝市集獵人寶典-內行人才懂的挖寶策略與議價密技-b81498.html
 published: 2026-06-03
-quality_score: 7.5
+quality_score: 8.5
 tags: 大阪手做工藝, 大阪工藝市集, 關西工藝市場, 日本挖寶攻略
 license: CC BY 4.0
 ---

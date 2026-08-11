@@ -6,7 +6,7 @@ category: electronics
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-electronics-kyoto-京都電子產品購物指南-傳統工藝與現代科技的完美融合-46c097.html
 published: 2026-04-04
-quality_score: 7.5
+quality_score: 8.6
 tags: 京都購物, 電子產品, 日本電器, 免稅購物, 傳統工藝
 license: CC BY 4.0
 ---

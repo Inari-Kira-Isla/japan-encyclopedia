@@ -6,7 +6,7 @@ category: festivals-matsuri
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-festivals-matsuri-osaka-大阪祭典攝影聖地-從instagram熱點到職人技藝的視覺饗宴-1bfb7d.html
 published: 2026-04-06
-quality_score: 6.5
+quality_score: 8.6
 tags: 大阪祭典, 攝影文化, 視覺體驗, 社群媒體, 傳統文化
 license: CC BY 4.0
 ---

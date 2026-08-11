@@ -6,7 +6,7 @@ category: anime-manga
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-tokyo-東京動漫創作空間巡禮-走進動畫師與漫畫家的秘密基地-c49052.html
 published: 2026-06-24
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京動漫, 動畫師工作空間, 漫畫素材店, 動漫產業, 創作體驗
 license: CC BY 4.0
 ---

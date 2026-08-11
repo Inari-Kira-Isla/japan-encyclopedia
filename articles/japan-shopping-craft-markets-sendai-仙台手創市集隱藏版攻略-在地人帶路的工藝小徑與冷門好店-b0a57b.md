@@ -6,7 +6,7 @@ category: craft-markets
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-craft-markets-sendai-仙台手創市集隱藏版攻略-在地人帶路的工藝小徑與冷門好店-b0a57b.html
 published: 2026-07-06
-quality_score: 7.5
+quality_score: 8.7
 tags: 仙台手創市集, 東北手工藝, 日本市集推薦, 仙台深度旅遊, 隱藏版店家
 license: CC BY 4.0
 ---

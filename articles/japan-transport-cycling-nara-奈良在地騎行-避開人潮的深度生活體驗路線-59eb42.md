@@ -6,7 +6,7 @@ category: cycling
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-nara-奈良在地騎行-避開人潮的深度生活體驗路線-59eb42.html
 published: 2026-04-02
-quality_score: 7.5
+quality_score: 8.8
 tags: 奈良騎行, 深度旅遊, 在地體驗, 自行車路線, 避開人潮
 license: CC BY 4.0
 ---

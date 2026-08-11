@@ -6,7 +6,7 @@ category: nightlife
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-okinawa-沖繩夜生活-島嶼慢靈魂的深夜小酌時光-f2cd05.html
 published: 2026-07-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 沖繩夜生活, 泡盛, 日本夜生活, 那霸酒吧, 國際通り
 license: CC BY 4.0
 ---

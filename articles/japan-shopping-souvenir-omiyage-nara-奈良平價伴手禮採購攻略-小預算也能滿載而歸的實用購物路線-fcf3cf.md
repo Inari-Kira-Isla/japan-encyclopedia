@@ -6,7 +6,7 @@ category: souvenir-omiyage
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-souvenir-omiyage-nara-奈良平價伴手禮採購攻略-小預算也能滿載而歸的實用購物路線-fcf3cf.html
 published: 2026-06-11
-quality_score: 7.5
+quality_score: 8.6
 tags: 奈良伴手禮, 奈良購物, 奈良平價特產, 奈良土產, 近鐵奈良站
 license: CC BY 4.0
 ---

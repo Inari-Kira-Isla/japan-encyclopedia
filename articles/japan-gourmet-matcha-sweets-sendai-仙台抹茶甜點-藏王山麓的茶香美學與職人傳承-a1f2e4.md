@@ -6,7 +6,7 @@ category: matcha-sweets
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-matcha-sweets-sendai-仙台抹茶甜點-藏王山麓的茶香美學與職人傳承-a1f2e4.html
 published: 2026-03-29
-quality_score: 6.5
+quality_score: 8.7
 tags: 仙台, 抹茶甜點, 藏王, 東北美食, 日本茶
 license: CC BY 4.0
 ---

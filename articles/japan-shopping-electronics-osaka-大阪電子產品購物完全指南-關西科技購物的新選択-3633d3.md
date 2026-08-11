@@ -6,7 +6,7 @@ category: electronics
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-electronics-osaka-大阪電子產品購物完全指南-關西科技購物的新選択-3633d3.html
 published: 2026-06-03
-quality_score: 7.5
+quality_score: 7.9
 tags: 大阪電子產品, 關西購物, 日本電器, 大阪旅遊, 難波
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: temples-shrines
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-temples-shrines-sendai-仙台寺社的自然靜謐-遠離城市喧囂的森林能量聖地-6833d0.html
 published: 2026-06-15
-quality_score: 6.5
+quality_score: 8.7
 tags: 仙台寺社, 東北能量景點, 自然寺社, 伊達政宗, 森林散步
 license: CC BY 4.0
 ---

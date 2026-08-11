@@ -6,7 +6,7 @@ category: seasonal-tourism
 area: japan
 url: https://japan-encyclopedia.vercel.app/articles/japan-attractions-seasonal-tourism-日本賞花-さくら-完整指南2026-上野-目黑川-吉野山-日本櫻花季費用-jpy-攻略-j-69cc92.html
 published: 2026-03-29
-quality_score: 6.1
+quality_score: 8.7
 tags: 日本賞花, 東京賞花, 吉野山, 目黑川, 日本春季旅遊
 license: CC BY 4.0
 ---

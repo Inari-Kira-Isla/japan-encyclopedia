@@ -6,7 +6,7 @@ category: castle-towns
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-castle-towns-osaka-大阪出發-關西城堡城鎮慢旅提案-f82e77.html
 published: 2026-06-02
-quality_score: 6.5
+quality_score: 8.6
 tags: 關西自由行, 城堡城鎮, 城下町, 姬路城, 岸和田城
 license: CC BY 4.0
 ---

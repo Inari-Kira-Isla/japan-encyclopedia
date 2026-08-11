@@ -6,7 +6,7 @@ category: fashion-harajuku
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-fashion-harajuku-tokyo-東京原宿時尚購物指南-預算5000日圓內的街頭潮流攻略-af0d5f.html
 published: 2026-06-05
-quality_score: 7.5
+quality_score: 8.9
 tags: 東京原宿, 街頭潮流, 古著, 日本購物, 原宿時尚
 license: CC BY 4.0
 ---

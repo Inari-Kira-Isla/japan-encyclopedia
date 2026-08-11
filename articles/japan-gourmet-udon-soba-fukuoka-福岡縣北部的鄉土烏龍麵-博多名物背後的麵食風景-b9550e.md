@@ -6,7 +6,7 @@ category: udon-soba
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-udon-soba-fukuoka-福岡縣北部的鄉土烏龍麵-博多名物背後的麵食風景-b9550e.html
 published: 2026-05-21
-quality_score: 6.5
+quality_score: 8.9
 tags: 福冈乌龙麵, 北部九州美食, 乡土地元, 渔村料理, 朝食文化
 license: CC BY 4.0
 ---

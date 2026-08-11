@@ -6,7 +6,7 @@ category: garden-parks
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-tokyo-東京古鎮情趣庭院-遠離人潮的私房綠徑-c4443d.html
 published: 2026-05-22
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京庭園, 古鎮風情, 隱藏景點, 日式造園, 免費景點
 license: CC BY 4.0
 ---

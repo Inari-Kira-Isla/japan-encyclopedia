@@ -6,7 +6,7 @@ category: karaoke
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-karaoke-sendai-仙台深夜卡拉ok-下班後的微醺歡唱指南-bf67fb.html
 published: 2026-06-08
-quality_score: 6.5
+quality_score: 8.8
 tags: 仙台卡拉OK, 東北夜生活, 日本卡拉OK, 國分町, 仙台美食
 license: CC BY 4.0
 ---

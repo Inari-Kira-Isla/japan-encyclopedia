@@ -6,7 +6,7 @@ category: department-stores
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-department-stores-fukuoka-福岡百貨公司購物攻略-天神-博多車站的人氣商場與在地特色-c191aa.html
 published: 2026-06-04
-quality_score: 7.5
+quality_score: 8.9
 tags: 福岡購物, 百家公司, 天神商圈, 博多車站, 九州旅行
 license: CC BY 4.0
 ---

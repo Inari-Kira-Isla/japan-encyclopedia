@@ -6,7 +6,7 @@ category: udon-soba
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-udon-soba-hokkaido-北海道二世谷烏龍麵-滑雪渡假村的暖心碳水指南-70c22e.html
 published: 2026-05-23
-quality_score: 6.5
+quality_score: 8.7
 tags: 二世谷, 北海道滑雪, 烏龍麵, 留壽都, 札幌
 license: CC BY 4.0
 ---

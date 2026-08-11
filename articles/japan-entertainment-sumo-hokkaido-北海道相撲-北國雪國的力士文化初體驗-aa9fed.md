@@ -6,7 +6,7 @@ category: sumo
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-hokkaido-北海道相撲-北國雪國的力士文化初體驗-aa9fed.html
 published: 2026-06-15
-quality_score: 6.5
+quality_score: 8.4
 tags: 北海道相撲, 札幌相撲鍋, 北海道大學相撲部, 旭川冬祭, 十勝平原祭
 license: CC BY 4.0
 ---

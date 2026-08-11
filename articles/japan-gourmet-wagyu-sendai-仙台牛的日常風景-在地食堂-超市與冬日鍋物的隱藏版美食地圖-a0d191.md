@@ -6,7 +6,7 @@ category: wagyu
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-wagyu-sendai-仙台牛的日常風景-在地食堂-超市與冬日鍋物的隱藏版美食地圖-a0d191.html
 published: 2026-06-23
-quality_score: 6.5
+quality_score: 8.7
 tags: 仙台和牛, 仙台美食, 在地食堂, 東北和牛, 和牛鍋物
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: izakaya
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-izakaya-osaka-大阪立ち飲み酒場-下班後的微醺據點-站著喝才是本地人的日常-5c71c4.html
 published: 2026-06-11
-quality_score: 6.5
+quality_score: 8.8
 tags: 大阪居酒屋, 立ち飲み, 大阪美食, 關西酒場, 日本酒吧
 license: CC BY 4.0
 ---

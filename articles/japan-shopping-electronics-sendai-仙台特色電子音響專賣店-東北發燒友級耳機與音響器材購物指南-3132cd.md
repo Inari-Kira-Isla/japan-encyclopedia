@@ -6,7 +6,7 @@ category: electronics
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-electronics-sendai-仙台特色電子音響專賣店-東北發燒友級耳機與音響器材購物指南-3132cd.html
 published: 2026-06-18
-quality_score: 7.5
+quality_score: 8.6
 tags: 仙台電子產品, 仙台耳機專賣店, 東北發燒級器材, 日本音響專賣店, 仙台購物指南
 license: CC BY 4.0
 ---

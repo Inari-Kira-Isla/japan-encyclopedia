@@ -6,7 +6,7 @@ category: kaiseki
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-kaiseki-hokkaido-北海道懷石料理-日本海鮮的季節盛宴-2d478f.html
 published: 2026-03-21
-quality_score: 6.5
+quality_score: 8.5
 tags: 北海道, 懷石料理, 日本美食, 海鮮, 季節限定
 license: CC BY 4.0
 ---

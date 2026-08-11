@@ -6,7 +6,7 @@ category: cycling
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-kobe-神戶單車騎遊-港灣-山城與國際風情的完美交匯-24a3ff.html
 published: 2026-03-21
-quality_score: 7.5
+quality_score: 8.7
 tags: 神戶, 自行車, 騎行, 港灣景觀, 六甲山
 license: CC BY 4.0
 ---

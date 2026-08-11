@@ -6,7 +6,7 @@ category: electronics
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-electronics-kobe-神戶電子產品購物指南-港都科技消費的隱藏寶藏-c9a8d3.html
 published: 2026-06-08
-quality_score: 7.5
+quality_score: 8.7
 tags: 神戶電子產品, 神戶購物, 關西電子購物, 神戶電器行, 日本電器推薦
 license: CC BY 4.0
 ---

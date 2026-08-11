@@ -6,7 +6,7 @@ category: street-food
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-street-food-hiroshima-廣島昭和街區的黃昏食堂-八丁堀周邊的隱藏版街食-6aaf0d.html
 published: 2026-06-03
-quality_score: 6.5
+quality_score: 8.8
 tags: 廣島, 街頭美食, 八丁堀,  Yakitori, 昭和懷舊
 license: CC BY 4.0
 ---

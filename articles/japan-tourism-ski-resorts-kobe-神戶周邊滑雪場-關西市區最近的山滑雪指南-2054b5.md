@@ -6,7 +6,7 @@ category: ski-resorts
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-ski-resorts-kobe-神戶周邊滑雪場-關西市區最近的山滑雪指南-2054b5.html
 published: 2026-05-31
-quality_score: 6.5
+quality_score: 8.5
 tags: 神戶滑雪, 關西滑雪, 六甲山滑雪場, 日本滑雪場推薦, 神戶周邊景點
 license: CC BY 4.0
 ---

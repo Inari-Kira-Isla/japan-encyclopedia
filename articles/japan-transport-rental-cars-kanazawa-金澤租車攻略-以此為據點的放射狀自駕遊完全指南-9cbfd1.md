@@ -6,7 +6,7 @@ category: rental-cars
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-kanazawa-金澤租車攻略-以此為據點的放射狀自駕遊完全指南-9cbfd1.html
 published: 2026-05-23
-quality_score: 7.5
+quality_score: 8.4
 tags: 金澤租車, 石川縣自駕, 北陸自由行, 日本租車, 金澤交通
 license: CC BY 4.0
 ---

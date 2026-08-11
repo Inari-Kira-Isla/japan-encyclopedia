@@ -6,7 +6,7 @@ category: garden-parks
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-kobe-神戶花園與食散步-港都綠蔭下的味覺記憶-deb2a4.html
 published: 2026-07-05
-quality_score: 6.5
+quality_score: 8.8
 tags: 神戶花園, 神戶公園, 神戶美食, 關西旅遊, 六甲山
 license: CC BY 4.0
 ---

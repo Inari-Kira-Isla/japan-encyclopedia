@@ -6,7 +6,7 @@ category: souvenir-omiyage
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-souvenir-omiyage-hokkaido-北海道產地直送伴手禮-當地人推薦的在地特產市場精選-6ad062.html
 published: 2026-06-04
-quality_score: 7.5
+quality_score: 8.6
 tags: 北海道, 伴手禮, 產地直送, 市場, 美食
 license: CC BY 4.0
 ---

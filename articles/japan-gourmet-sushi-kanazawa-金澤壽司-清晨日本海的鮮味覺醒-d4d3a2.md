@@ -6,7 +6,7 @@ category: sushi
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sushi-kanazawa-金澤壽司-清晨日本海的鮮味覺醒-d4d3a2.html
 published: 2026-06-16
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤壽司, 石川縣美食, 日本海海產, 朝壽司文化, 近江町市場
 license: CC BY 4.0
 ---

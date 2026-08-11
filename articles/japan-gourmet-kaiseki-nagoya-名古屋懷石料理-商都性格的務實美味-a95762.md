@@ -6,7 +6,7 @@ category: kaiseki
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-kaiseki-nagoya-名古屋懷石料理-商都性格的務實美味-a95762.html
 published: 2026-06-07
-quality_score: 6.5
+quality_score: 8.7
 tags: 名古屋懷石, 名古屋美食, 名古屋會席, 三河灣海產, 名古屋コーチン
 license: CC BY 4.0
 ---

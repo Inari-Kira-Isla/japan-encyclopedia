@@ -6,7 +6,7 @@ category: izakaya
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-izakaya-nara-廣島豚排的靈魂-戰後重建的洋食記憶與巷弄老店的味覺傳承-61f3c7.html
 published: 2026-06-30
-quality_score: 6.5
+quality_score: 8.7
 tags: 廣島豚排, 廣島美食, 洋食, 炸豬排, 廣島推薦
 license: CC BY 4.0
 ---

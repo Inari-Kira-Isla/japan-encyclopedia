@@ -6,7 +6,7 @@ category: theme-parks
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-theme-parks-nagoya-名古屋主題樂園完全指南-中部地區的家庭親子歡樂時光-e2fd33.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 8.6
 tags: 名古屋主題樂園, 名古屋旅遊, 三重長島溫泉樂園,  Jr鐵道博物館, 名古屋港水族館
 license: CC BY 4.0
 ---

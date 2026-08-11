@@ -6,7 +6,7 @@ category: business-hotels
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-business-hotels-kanazawa-金澤商務酒店-冬季差旅住宿推薦-低價高質的淡季選擇-9e5254.html
 published: 2026-06-03
-quality_score: 6.5
+quality_score: 8.9
 tags: 金澤商務酒店, 冬季住宿, 北陸差旅, 女性商務旅客, 金澤自助
 license: CC BY 4.0
 ---

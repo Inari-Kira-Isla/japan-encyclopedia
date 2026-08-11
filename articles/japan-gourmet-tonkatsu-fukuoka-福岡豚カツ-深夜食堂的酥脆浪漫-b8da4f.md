@@ -6,7 +6,7 @@ category: tonkatsu
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tonkatsu-fukuoka-福岡豚カツ-深夜食堂的酥脆浪漫-b8da4f.html
 published: 2026-06-28
-quality_score: 6.5
+quality_score: 8.7
 tags: 福岡美食, 豚 Katsu, 深夜食堂, 九州豚, 博多美食
 license: CC BY 4.0
 ---

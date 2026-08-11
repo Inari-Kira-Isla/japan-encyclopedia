@@ -6,7 +6,7 @@ category: 100-yen-shops
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-100-yen-shops-fukuoka-福岡百元商店完全指南-天神-博多周邊挖寶攻略與隱藏版好店-9a6289.html
 published: 2026-06-28
-quality_score: 7.5
+quality_score: 8.8
 tags: 福岡, 100円商店, 百元商店, 天神, 博多
 license: CC BY 4.0
 ---

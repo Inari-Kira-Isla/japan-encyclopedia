@@ -6,7 +6,7 @@ category: department-stores
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-department-stores-tokyo-東京百貨公司服務體驗指南-外國旅客與銀髮族的貼心購物選擇-d9aab1.html
 published: 2026-06-27
-quality_score: 7.5
+quality_score: 8.6
 tags: 東京購物, 百貨公司, 銀髮族友善, 外國旅客, 免稅購物
 license: CC BY 4.0
 ---

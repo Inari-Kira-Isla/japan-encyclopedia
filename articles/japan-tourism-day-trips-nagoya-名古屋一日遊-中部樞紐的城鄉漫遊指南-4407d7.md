@@ -6,7 +6,7 @@ category: day-trips
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-nagoya-名古屋一日遊-中部樞紐的城鄉漫遊指南-4407d7.html
 published: 2026-04-06
-quality_score: 6.5
+quality_score: 8.7
 tags: 名古屋, 一日遊, 中部地方, 犬山城, 豐田
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: anime-manga
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-kobe-神戶動漫文化-港都的二次元魅力探索-1787dc-1779321966.html
 published: 2026-05-21
-quality_score: 6.5
+quality_score: 8.7
 tags: 神戶動漫, 神戶漫畫, 神戶二次元, 神戶御宅族, 關西動漫
 license: CC BY 4.0
 ---

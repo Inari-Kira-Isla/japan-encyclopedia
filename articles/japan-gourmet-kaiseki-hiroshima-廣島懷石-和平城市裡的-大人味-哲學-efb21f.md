@@ -6,7 +6,7 @@ category: kaiseki
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-kaiseki-hiroshima-廣島懷石-和平城市裡的-大人味-哲學-efb21f.html
 published: 2026-06-02
-quality_score: 6.5
+quality_score: 8.8
 tags: 廣島懷石, 瀨戶內海料理, 廣島美食, 日本會席料理, 廣島必吃
 license: CC BY 4.0
 ---

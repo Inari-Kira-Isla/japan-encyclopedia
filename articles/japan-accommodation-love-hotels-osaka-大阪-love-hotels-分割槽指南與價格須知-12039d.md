@@ -6,7 +6,7 @@ category: love-hotels
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-love-hotels-osaka-大阪-love-hotels-分割槽指南與價格須知-12039d.html
 published: 2026-05-25
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪住宿, Love Hotels, 關西情侶約會, 大阪分區指南, 日本住宿須知
 license: CC BY 4.0
 ---

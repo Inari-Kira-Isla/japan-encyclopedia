@@ -6,7 +6,7 @@ category: shopping-districts
 area: japan
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-shopping-districts-大阪難波和心齋橋完整購物指南2026-心齋橋筋-美國村-大阪黑門市場-大阪購物費用-jpy--da9269.html
 published: 2026-04-10
-quality_score: 7.6
+quality_score: 8.4
 tags: 心齋橋, 大阪難波, 美國村, 黑門市場, 大阪購物
 license: CC BY 4.0
 ---

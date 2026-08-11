@@ -6,7 +6,7 @@ category: yakitori
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-yakitori-kyoto-京都燒鳥與酒-伏見釀造街的串燒深夜食堂-d46ca1.html
 published: 2026-06-28
-quality_score: 6.5
+quality_score: 8.6
 tags: 京都燒鳥, 京都美食, 伏見清酒, 京都夜景, 京都巷弄美食
 license: CC BY 4.0
 ---

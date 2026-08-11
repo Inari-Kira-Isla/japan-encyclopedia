@@ -6,7 +6,7 @@ category: karaoke
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-karaoke-kyoto-京都卡拉ok-學生街的平價歡唱指南-c567ba.html
 published: 2026-07-04
-quality_score: 6.5
+quality_score: 8.7
 tags: 京都卡拉OK, 京都自由行, 京都學生街, 京都大學, 京都夜生活
 license: CC BY 4.0
 ---

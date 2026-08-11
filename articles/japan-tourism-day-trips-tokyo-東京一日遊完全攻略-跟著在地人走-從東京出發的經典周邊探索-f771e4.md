@@ -6,7 +6,7 @@ category: day-trips
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-tokyo-東京一日遊完全攻略-跟著在地人走-從東京出發的經典周邊探索-f771e4.html
 published: 2026-06-24
-quality_score: 6.5
+quality_score: 8.8
 tags: 東京, 一日遊, 關東, 近郊, 鐮倉
 license: CC BY 4.0
 ---

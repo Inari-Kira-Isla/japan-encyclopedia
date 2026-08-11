@@ -6,7 +6,7 @@ category: nature-trails
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-sendai-仙台山林步道完全攻略-藏王山系與市中心近郊的自然散步徑-e5389c.html
 published: 2026-06-02
-quality_score: 6.5
+quality_score: 8.7
 tags: 仙台自然步道, 日本東北登山, 仙台戶外活動, 藏王山系, 山林散步
 license: CC BY 4.0
 ---

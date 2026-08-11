@@ -6,7 +6,7 @@ category: kaiseki
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-kaiseki-nara-奈良懷石料理-古都佛寺中的平民化精緻體驗-d0f7d5.html
 published: 2026-04-06
-quality_score: 6.5
+quality_score: 8.6
 tags: 奈良美食, 懷石料理, 佛教文化, 古都, 日本傳統料理
 license: CC BY 4.0
 ---

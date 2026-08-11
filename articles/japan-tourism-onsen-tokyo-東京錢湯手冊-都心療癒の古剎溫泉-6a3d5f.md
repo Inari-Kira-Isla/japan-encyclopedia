@@ -6,7 +6,7 @@ category: onsen
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-onsen-tokyo-東京錢湯手冊-都心療癒の古剎溫泉-6a3d5f.html
 published: 2026-05-24
-quality_score: 6.5
+quality_score: 8.9
 tags: 東京溫泉, 錢湯, 東京必去, 東京泡湯, 都內溫泉
 license: CC BY 4.0
 ---

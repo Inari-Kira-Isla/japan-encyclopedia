@@ -6,7 +6,7 @@ category: festivals-matsuri
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-festivals-matsuri-kobe-神戶-festivals-matsuri-港都浪漫的四季慶典-guide-73cbc3.html
 published: 2026-06-02
-quality_score: 6.5
+quality_score: 8.0
 tags: 神戶, 祭典, 日本, 關西, 花火
 license: CC BY 4.0
 ---

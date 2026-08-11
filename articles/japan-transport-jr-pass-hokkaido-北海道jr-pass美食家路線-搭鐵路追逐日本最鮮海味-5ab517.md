@@ -6,7 +6,7 @@ category: jr-pass
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-jr-pass-hokkaido-北海道jr-pass美食家路線-搭鐵路追逐日本最鮮海味-5ab517.html
 published: 2026-06-13
-quality_score: 7.5
+quality_score: 8.5
 tags: JR Pass, 北海道, 鐵路周遊券, 海鮮美食, 日本鐵路
 license: CC BY 4.0
 ---

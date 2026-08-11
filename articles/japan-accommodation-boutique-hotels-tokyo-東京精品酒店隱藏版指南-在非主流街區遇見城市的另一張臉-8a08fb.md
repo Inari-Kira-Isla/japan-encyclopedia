@@ -6,7 +6,7 @@ category: boutique-hotels
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-tokyo-東京精品酒店隱藏版指南-在非主流街區遇見城市的另一張臉-8a08fb.html
 published: 2026-07-04
-quality_score: 6.5
+quality_score: 8.6
 tags: 東京精品酒店, 東京住宿, 東京非主流景點, 東京自由行, 精品酒店推薦
 license: CC BY 4.0
 ---

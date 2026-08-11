@@ -6,7 +6,7 @@ category: garden-parks
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-sendai-仙台歷史庭園巡禮-伊達藩的綠蔭與武家文化-344ea7.html
 published: 2026-06-29
-quality_score: 6.5
+quality_score: 8.7
 tags: 仙台, 歷史庭園, 武家文化, 伊達政宗, 青葉城
 license: CC BY 4.0
 ---

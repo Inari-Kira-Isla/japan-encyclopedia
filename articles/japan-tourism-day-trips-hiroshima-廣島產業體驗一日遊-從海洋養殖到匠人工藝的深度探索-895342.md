@@ -6,7 +6,7 @@ category: day-trips
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-hiroshima-廣島產業體驗一日遊-從海洋養殖到匠人工藝的深度探索-895342.html
 published: 2026-04-07
-quality_score: 6.5
+quality_score: 8.6
 tags: 廣島, 產業體驗, 牡蠣養殖, 清酒釀造, 匠人工藝
 license: CC BY 4.0
 ---

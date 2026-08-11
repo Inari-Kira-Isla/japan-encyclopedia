@@ -6,7 +6,7 @@ category: cycling
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-hokkaido-北海道單車慢騎-五條適閤中等程度騎士的風景路線-643128.html
 published: 2026-06-02
-quality_score: 7.5
+quality_score: 8.7
 tags: 北海道單車, 單車旅行, 日本單車攻略, 洞爺湖單車, 積丹半岛
 license: CC BY 4.0
 ---

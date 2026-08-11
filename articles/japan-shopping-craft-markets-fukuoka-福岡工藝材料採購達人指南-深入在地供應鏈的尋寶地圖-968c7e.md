@@ -6,7 +6,7 @@ category: craft-markets
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-craft-markets-fukuoka-福岡工藝材料採購達人指南-深入在地供應鏈的尋寶地圖-968c7e.html
 published: 2026-05-25
-quality_score: 7.5
+quality_score: 8.5
 tags: 福岡, 工藝材料, 手工藝, 批發, 九州
 license: CC BY 4.0
 ---

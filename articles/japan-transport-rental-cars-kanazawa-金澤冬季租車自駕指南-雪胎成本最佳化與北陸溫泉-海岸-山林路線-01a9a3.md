@@ -6,7 +6,7 @@ category: rental-cars
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-kanazawa-金澤冬季租車自駕指南-雪胎成本最佳化與北陸溫泉-海岸-山林路線-01a9a3.html
 published: 2026-03-24
-quality_score: 7.5
+quality_score: 8.4
 tags: 金澤租車, 冬季自駕, 北陸旅遊, 能登半島, 加賀溫泉
 license: CC BY 4.0
 ---

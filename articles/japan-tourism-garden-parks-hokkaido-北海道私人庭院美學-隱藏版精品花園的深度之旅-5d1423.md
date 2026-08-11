@@ -6,7 +6,7 @@ category: garden-parks
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-hokkaido-北海道私人庭院美學-隱藏版精品花園的深度之旅-5d1423.html
 published: 2026-05-25
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道, 花園, 私密景點, 自駕行程, 自然旅遊
 license: CC BY 4.0
 ---

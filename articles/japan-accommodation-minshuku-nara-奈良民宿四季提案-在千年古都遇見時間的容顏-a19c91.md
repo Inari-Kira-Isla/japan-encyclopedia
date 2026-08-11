@@ -6,7 +6,7 @@ category: minshuku
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-nara-奈良民宿四季提案-在千年古都遇見時間的容顏-a19c91.html
 published: 2026-06-20
-quality_score: 6.5
+quality_score: 8.7
 tags: 奈良民宿, 古都住宿, 日本首都, 明日香村, 吉野山
 license: CC BY 4.0
 ---

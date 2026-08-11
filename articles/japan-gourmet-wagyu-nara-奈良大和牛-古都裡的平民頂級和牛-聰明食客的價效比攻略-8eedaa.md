@@ -6,7 +6,7 @@ category: wagyu
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-wagyu-nara-奈良大和牛-古都裡的平民頂級和牛-聰明食客的價效比攻略-8eedaa.html
 published: 2026-03-22
-quality_score: 6.5
+quality_score: 8.5
 tags: 日本美食, 和牛, 奈良, 性價比, 採購指南
 license: CC BY 4.0
 ---

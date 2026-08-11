@@ -6,7 +6,7 @@ category: rental-cars
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-kobe-神戶租車自駕遊-關西美食產地的公路之旅-a16e54.html
 published: 2026-06-18
-quality_score: 7.5
+quality_score: 8.5
 tags: 神戶租車, 關西自駕, 美食之旅, 丹波黑豆, 但馬牛
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: souvenir-omiyage
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-souvenir-omiyage-sendai-仙台伴手禮購買時機學-掌握四季與時段的最佳購物策略-45f73b.html
 published: 2026-04-05
-quality_score: 7.5
+quality_score: 8.7
 tags: 仙台伴手禮, 購物時機, 價格策略, 世代差異, 東北特產
 license: CC BY 4.0
 ---

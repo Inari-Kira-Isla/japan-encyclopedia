@@ -6,7 +6,7 @@ category: rental-cars
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-sendai-仙台租車成本攻略-東北自駕遊的精明選擇-704672.html
 published: 2026-04-04
-quality_score: 7.5
+quality_score: 8.7
 tags: 仙台租車, 東北自駕, 成本攻略
 license: CC BY 4.0
 ---

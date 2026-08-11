@@ -6,7 +6,7 @@ category: cycling
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-hiroshima-廣島慢騎-從和平紀念地到瀨戶內海的生活風景線-83b0e3.html
 published: 2026-07-05
-quality_score: 7.5
+quality_score: 8.5
 tags: 廣島單車, 瀨戶內海, 島波海道, 宮島單車, 尾道坡道
 license: CC BY 4.0
 ---

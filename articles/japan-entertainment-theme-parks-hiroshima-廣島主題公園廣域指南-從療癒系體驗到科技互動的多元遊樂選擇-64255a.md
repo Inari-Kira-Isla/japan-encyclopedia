@@ -6,7 +6,7 @@ category: theme-parks
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-theme-parks-hiroshima-廣島主題公園廣域指南-從療癒系體驗到科技互動的多元遊樂選擇-64255a.html
 published: 2026-06-29
-quality_score: 6.5
+quality_score: 8.8
 tags: 廣島主題公園, 廣島親子景點, 廣島VR體驗, 廣島文化體驗, 日本主題樂園
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: izakaya
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-izakaya-kobe-神戶居酒屋-港都夜晚的溫暖聚會-0dc3d6.html
 published: 2026-03-15
-quality_score: 6.5
+quality_score: 8.7
 tags: 神戶美食, 居酒屋, 夜生活, 神戶牛, 港都文化
 license: CC BY 4.0
 ---

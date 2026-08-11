@@ -6,7 +6,7 @@ category: ferries
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-ferries-okinawa-沖繩島際交通指南-搭渡輪穿梭沖繩群的日常智慧-591fd9.html
 published: 2026-06-18
-quality_score: 7.5
+quality_score: 8.4
 tags: 沖繩渡輪, 島際交通, 石垣島, 久米島, 宮古島
 license: CC BY 4.0
 ---

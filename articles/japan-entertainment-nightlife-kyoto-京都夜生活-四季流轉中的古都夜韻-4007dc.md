@@ -6,7 +6,7 @@ category: nightlife
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-kyoto-京都夜生活-四季流轉中的古都夜韻-4007dc.html
 published: 2026-03-28
-quality_score: 6.5
+quality_score: 8.7
 tags: 京都夜生活, 日本傳統文化, 季節體驗, 古都夜韻, 文化深度旅遊
 license: CC BY 4.0
 ---

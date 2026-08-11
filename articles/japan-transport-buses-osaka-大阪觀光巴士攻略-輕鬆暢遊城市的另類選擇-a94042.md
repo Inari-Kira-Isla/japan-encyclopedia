@@ -6,7 +6,7 @@ category: buses
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-buses-osaka-大阪觀光巴士攻略-輕鬆暢遊城市的另類選擇-a94042.html
 published: 2026-06-20
-quality_score: 7.5
+quality_score: 8.7
 tags: 大阪交通, 觀光巴士, 關西機場巴士, 大阪一日券, 大阪自助旅行
 license: CC BY 4.0
 ---

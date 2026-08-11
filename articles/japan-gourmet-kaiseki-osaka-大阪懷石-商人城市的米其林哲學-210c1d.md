@@ -6,7 +6,7 @@ category: kaiseki
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-kaiseki-osaka-大阪懷石-商人城市的米其林哲學-210c1d.html
 published: 2026-06-02
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪懷石, 大阪美食, 日本料理, 割烹, 關西美食
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: street-food
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-street-food-kyoto-京都的street-food-19b5d6.html
 published: 2026-05-24
-quality_score: 6.5
+quality_score: 8.7
 tags: 京都, street food, 日本美食, 古都, 街頭小吃
 license: CC BY 4.0
 ---

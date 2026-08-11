@@ -6,7 +6,7 @@ category: garden-parks
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-sendai-仙台歷史公園巡禮-從古城遺址到武家庭園的時空散步-042ddd.html
 published: 2026-06-30
-quality_score: 6.5
+quality_score: 8.8
 tags: 仙台, 歷史公園, 伊達政宗, 城堡遺址, 日本東北
 license: CC BY 4.0
 ---

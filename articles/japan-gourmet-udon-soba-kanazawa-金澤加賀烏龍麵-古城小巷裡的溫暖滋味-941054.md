@@ -6,7 +6,7 @@ category: udon-soba
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-udon-soba-kanazawa-金澤加賀烏龍麵-古城小巷裡的溫暖滋味-941054.html
 published: 2026-06-24
-quality_score: 6.5
+quality_score: 8.8
 tags: 金澤美食, 加賀烏龍麵, 日本海鮮, 金箔料理, 古城美食
 license: CC BY 4.0
 ---

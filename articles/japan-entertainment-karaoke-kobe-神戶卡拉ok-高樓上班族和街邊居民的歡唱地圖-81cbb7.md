@@ -6,7 +6,7 @@ category: karaoke
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-karaoke-kobe-神戶卡拉ok-高樓上班族和街邊居民的歡唱地圖-81cbb7.html
 published: 2026-03-24
-quality_score: 6.5
+quality_score: 8.7
 tags: 卡拉OK, 神戶夜生活, 上班族文化, 日本娛樂, 消費指南
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: ferries
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-ferries-osaka-大阪渡輪實用指南-水上交通的時間效率與隱藏路線-8dda69.html
 published: 2026-06-09
-quality_score: 7.5
+quality_score: 8.7
 tags: 大阪交通, 渡輪, 關西機場, 神戶, 水上交通
 license: CC BY 4.0
 ---

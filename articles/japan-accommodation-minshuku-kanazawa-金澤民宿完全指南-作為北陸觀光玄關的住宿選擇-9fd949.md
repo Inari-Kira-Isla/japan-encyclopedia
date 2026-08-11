@@ -6,7 +6,7 @@ category: minshuku
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-kanazawa-金澤民宿完全指南-作為北陸觀光玄關的住宿選擇-9fd949.html
 published: 2026-06-14
-quality_score: 6.5
+quality_score: 8.6
 tags: 金澤民宿, 石川縣住宿, 北陸觀光, 能登半島, 白川鄉
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: anime-manga
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-nagoya-名古屋動漫產業密碼-toyota-孕育的機器人文化聖地-07976c.html
 published: 2026-06-10
-quality_score: 6.5
+quality_score: 8.7
 tags: 名古屋動漫, 機器人文化, 機器人模型, 御宅文化, 動漫聖地
 license: CC BY 4.0
 ---

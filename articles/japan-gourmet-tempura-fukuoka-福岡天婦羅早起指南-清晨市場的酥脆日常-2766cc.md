@@ -6,7 +6,7 @@ category: tempura
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tempura-fukuoka-福岡天婦羅早起指南-清晨市場的酥脆日常-2766cc.html
 published: 2026-05-25
-quality_score: 6.5
+quality_score: 8.7
 tags: 福岡天婦羅, 博多吃早餐, 天神美食, 九州海鮮, 日本炸物
 license: CC BY 4.0
 ---

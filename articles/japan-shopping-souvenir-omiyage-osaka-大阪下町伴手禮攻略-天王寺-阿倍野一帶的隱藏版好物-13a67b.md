@@ -6,7 +6,7 @@ category: souvenir-omiyage
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-souvenir-omiyage-osaka-大阪下町伴手禮攻略-天王寺-阿倍野一帶的隱藏版好物-13a67b.html
 published: 2026-06-04
-quality_score: 7.5
+quality_score: 8.7
 tags: 大阪伴手禮, 天王寺購物, 阿倍野伴手禮, 大阪自由行, 大阪藥妝
 license: CC BY 4.0
 ---

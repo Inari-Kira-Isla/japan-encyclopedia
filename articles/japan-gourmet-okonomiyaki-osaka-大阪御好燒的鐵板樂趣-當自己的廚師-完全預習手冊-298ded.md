@@ -6,7 +6,7 @@ category: okonomiyaki
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-okonomiyaki-osaka-大阪御好燒的鐵板樂趣-當自己的廚師-完全預習手冊-298ded.html
 published: 2026-06-21
-quality_score: 6.5
+quality_score: 8.6
 tags: 大阪美食, 御好燒, 關西料理, DIY體驗, 鐵板燒
 license: CC BY 4.0
 ---

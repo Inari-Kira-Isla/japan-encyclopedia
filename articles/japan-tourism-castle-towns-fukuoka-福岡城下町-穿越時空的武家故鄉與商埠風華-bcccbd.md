@@ -6,7 +6,7 @@ category: castle-towns
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-castle-towns-fukuoka-福岡城下町-穿越時空的武家故鄉與商埠風華-bcccbd.html
 published: 2026-04-07
-quality_score: 6.5
+quality_score: 8.9
 tags: 福岡城, 城下町, 武家, 日本城堡, 博多彩
 license: CC BY 4.0
 ---

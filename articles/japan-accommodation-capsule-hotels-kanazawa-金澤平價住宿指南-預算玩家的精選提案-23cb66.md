@@ -6,7 +6,7 @@ category: capsule-hotels
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-capsule-hotels-kanazawa-金澤平價住宿指南-預算玩家的精選提案-23cb66.html
 published: 2026-05-25
-quality_score: 6.5
+quality_score: 8.6
 tags: 金澤住宿, 平價旅遊, Budget Travel, 日本中部, 金澤自由行
 license: CC BY 4.0
 ---

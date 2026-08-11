@@ -6,7 +6,7 @@ category: ski-resorts
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-ski-resorts-nagoya-名古屋滑雪場交通攻略-從中部都會出發的雪國快速通道-8f0a96.html
 published: 2026-06-11
-quality_score: 6.5
+quality_score: 8.7
 tags: 名古屋滑雪, 日本阿爾卑斯, 中部滑雪場, 一日滑雪, 名古屋出發
 license: CC BY 4.0
 ---

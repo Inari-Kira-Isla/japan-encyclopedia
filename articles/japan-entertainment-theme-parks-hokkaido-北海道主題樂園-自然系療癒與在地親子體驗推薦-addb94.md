@@ -6,7 +6,7 @@ category: theme-parks
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-theme-parks-hokkaido-北海道主題樂園-自然系療癒與在地親子體驗推薦-addb94.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道主题乐园, 日本主题乐园推荐, 北海道亲子游, 北海道冬季活动, 北海道自然体验
 license: CC BY 4.0
 ---

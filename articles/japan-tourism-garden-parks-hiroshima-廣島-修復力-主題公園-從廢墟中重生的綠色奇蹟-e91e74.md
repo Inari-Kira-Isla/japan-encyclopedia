@@ -6,7 +6,7 @@ category: garden-parks
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-hiroshima-廣島-修復力-主題公園-從廢墟中重生的綠色奇蹟-e91e74.html
 published: 2026-04-07
-quality_score: 6.5
+quality_score: 8.8
 tags: 廣島, 公園, 修復力, 和平紀念, 日本庭園
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: historical-districts
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-tokyo-東京權力中樞的歷史走廊-從大名府邸到政治心臟的時空漫步-8d99ce.html
 published: 2026-03-30
-quality_score: 6.5
+quality_score: 8.6
 tags: 東京歷史街區, 權力中樞, 武家町, 政治心臟, 明治維新
 license: CC BY 4.0
 ---

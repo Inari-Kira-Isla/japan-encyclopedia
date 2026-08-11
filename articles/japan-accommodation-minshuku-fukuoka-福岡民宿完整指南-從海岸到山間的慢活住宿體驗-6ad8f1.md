@@ -6,7 +6,7 @@ category: minshuku
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-fukuoka-福岡民宿完整指南-從海岸到山間的慢活住宿體驗-6ad8f1.html
 published: 2026-07-02
-quality_score: 6.5
+quality_score: 8.6
 tags: 福岡民宿, 糸島住宿, 脊振山民宿, 博多住宿, 九州民宿推薦
 license: CC BY 4.0
 ---

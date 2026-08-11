@@ -6,7 +6,7 @@ category: sake-brewery
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sake-brewery-sendai-仙台微醺地圖-啤酒下班後的在地酒藏體驗-0f93a2.html
 published: 2026-06-04
-quality_score: 6.5
+quality_score: 8.5
 tags: 仙台清酒, 酒蔵巡禮, 東北釀造, 在地體驗, 日本清酒
 license: CC BY 4.0
 ---

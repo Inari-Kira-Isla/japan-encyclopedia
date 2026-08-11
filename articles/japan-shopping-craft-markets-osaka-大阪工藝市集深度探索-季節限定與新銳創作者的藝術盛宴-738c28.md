@@ -6,7 +6,7 @@ category: craft-markets
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-craft-markets-osaka-大阪工藝市集深度探索-季節限定與新銳創作者的藝術盛宴-738c28.html
 published: 2026-03-26
-quality_score: 7.5
+quality_score: 8.8
 tags: 大阪購物, 日本工藝, 手作市集, 季節限定, 創作者市場
 license: CC BY 4.0
 ---

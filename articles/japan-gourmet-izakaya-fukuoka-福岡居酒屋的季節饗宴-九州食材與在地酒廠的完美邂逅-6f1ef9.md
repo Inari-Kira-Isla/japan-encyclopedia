@@ -6,7 +6,7 @@ category: izakaya
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-izakaya-fukuoka-福岡居酒屋的季節饗宴-九州食材與在地酒廠的完美邂逅-6f1ef9.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.6
 tags: 福岡美食, 居酒屋, 九州料理, 清酒配對, 季節食材
 license: CC BY 4.0
 ---

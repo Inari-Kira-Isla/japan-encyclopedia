@@ -6,7 +6,7 @@ category: ryokan
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-tokyo-東京老街住宿指南-下町巷弄裡的傳統旅宿風情-b57f4f.html
 published: 2026-06-24
-quality_score: 6.5
+quality_score: 8.3
 tags: 東京住宿, 下町風情, 傳統旅宿, 東京老街, 谷中
 license: CC BY 4.0
 ---

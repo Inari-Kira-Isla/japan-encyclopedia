@@ -6,7 +6,7 @@ category: minshuku
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-sendai-仙台民宿完全指南-四季戶外探險與自然治癒的驛站-52534e.html
 published: 2026-06-15
-quality_score: 6.5
+quality_score: 8.4
 tags: 仙台民宿, 東北溫泉, 藏王山脈, 鳴子溫泉, 戶外健行
 license: CC BY 4.0
 ---

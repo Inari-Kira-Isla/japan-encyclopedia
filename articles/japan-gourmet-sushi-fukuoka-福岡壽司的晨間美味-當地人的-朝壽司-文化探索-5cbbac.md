@@ -6,7 +6,7 @@ category: sushi
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sushi-fukuoka-福岡壽司的晨間美味-當地人的-朝壽司-文化探索-5cbbac.html
 published: 2026-06-02
-quality_score: 6.5
+quality_score: 8.8
 tags: 福岡壽司, 朝寿司, 博多吃魚, 九州美食, 天神美食
 license: CC BY 4.0
 ---

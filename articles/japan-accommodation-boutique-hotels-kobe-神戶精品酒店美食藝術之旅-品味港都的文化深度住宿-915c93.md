@@ -6,7 +6,7 @@ category: boutique-hotels
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-kobe-神戶精品酒店美食藝術之旅-品味港都的文化深度住宿-915c93.html
 published: 2026-03-28
-quality_score: 6.5
+quality_score: 8.7
 tags: 神戶精品酒店, 和牛體驗, 清酒品鑑, 當代藝術, 美食住宿
 license: CC BY 4.0
 ---

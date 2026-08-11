@@ -6,7 +6,7 @@ category: onsen
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-onsen-nara-nara-onsen-c93e93-1779378800.html
 published: 2026-05-21
-quality_score: 6.5
+quality_score: 8.1
 tags: onsen, nara, japan
 license: CC BY 4.0
 ---

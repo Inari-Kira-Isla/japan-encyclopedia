@@ -6,7 +6,7 @@ category: garden-parks
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-nara-奈良古社境內的靜謐花園-遠離人潮的療癒散步-0a469e.html
 published: 2026-06-17
-quality_score: 6.5
+quality_score: 8.7
 tags: 奈良花園, 日本古都, 境內花園, 神社寺院, 春季賞櫻
 license: CC BY 4.0
 ---

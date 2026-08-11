@@ -6,7 +6,7 @@ category: garden-parks
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-nara-奈良古寺庭園散步-尋訪平安時代的禪意綠洲-2f896b.html
 published: 2026-06-16
-quality_score: 6.5
+quality_score: 8.9
 tags: 奈良古寺, 枯山水, 日本庭園, 世界遺產, 禪意旅行
 license: CC BY 4.0
 ---

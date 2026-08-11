@@ -6,7 +6,7 @@ category: tonkatsu
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tonkatsu-kanazawa-金澤炸豬排-從洋食到加賀現代料理的演變-0c65e8.html
 published: 2026-05-24
-quality_score: 6.5
+quality_score: 8.8
 tags: 金澤, 炸豬排, 北陸, 加賀料理, 能登半島
 license: CC BY 4.0
 ---

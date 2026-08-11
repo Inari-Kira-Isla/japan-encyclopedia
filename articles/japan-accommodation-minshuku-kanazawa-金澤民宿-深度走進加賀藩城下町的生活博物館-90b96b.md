@@ -6,7 +6,7 @@ category: minshuku
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-kanazawa-金澤民宿-深度走進加賀藩城下町的生活博物館-90b96b.html
 published: 2026-06-04
-quality_score: 6.5
+quality_score: 8.6
 tags: 金澤民宿, Minshuku, 加賀藩, 城下町住宿, 日本住宿推薦
 license: CC BY 4.0
 ---

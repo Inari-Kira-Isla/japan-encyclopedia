@@ -6,7 +6,7 @@ category: ryokan
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-kanazawa-金澤市區-ryokan-的徒步美學-沉浸加賀百萬石文化的最佳住宿選擇-1f8cc4.html
 published: 2026-06-29
-quality_score: 6.5
+quality_score: 8.5
 tags: 金澤 Ryokan, 加賀百萬石, 金澤住宿, 金澤市區, 日本傳統旅馆
 license: CC BY 4.0
 ---

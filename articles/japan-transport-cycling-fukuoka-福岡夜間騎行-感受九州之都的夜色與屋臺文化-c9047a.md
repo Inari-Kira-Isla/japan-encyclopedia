@@ -6,7 +6,7 @@ category: cycling
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-fukuoka-福岡夜間騎行-感受九州之都的夜色與屋臺文化-c9047a.html
 published: 2026-07-04
-quality_score: 7.5
+quality_score: 8.7
 tags: 福岡單車, 福岡夜遊, 九州骑行, 福冈屋台, 福冈美食
 license: CC BY 4.0
 ---

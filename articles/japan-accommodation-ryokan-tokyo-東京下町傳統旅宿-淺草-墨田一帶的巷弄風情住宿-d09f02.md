@@ -6,7 +6,7 @@ category: ryokan
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-tokyo-東京下町傳統旅宿-淺草-墨田一帶的巷弄風情住宿-d09f02.html
 published: 2026-07-05
-quality_score: 6.5
+quality_score: 8.3
 tags: 東京Ryokan, 下町住宿, 淺草住宿, 墨田區住宿, 東京傳統旅宿
 license: CC BY 4.0
 ---

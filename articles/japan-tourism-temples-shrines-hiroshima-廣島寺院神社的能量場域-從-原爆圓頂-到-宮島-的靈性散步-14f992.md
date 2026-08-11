@@ -6,7 +6,7 @@ category: temples-shrines
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-temples-shrines-hiroshima-廣島寺院神社的能量場域-從-原爆圓頂-到-宮島-的靈性散步-14f992.html
 published: 2026-06-04
-quality_score: 5.5
+quality_score: 7.8
 tags: 廣島神社, 廣島寺院, 原爆記憶, 嚴島神社, 宮島能量場所
 license: CC BY 4.0
 ---

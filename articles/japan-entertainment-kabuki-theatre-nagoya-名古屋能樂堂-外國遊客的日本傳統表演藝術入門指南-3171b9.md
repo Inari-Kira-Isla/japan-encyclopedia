@@ -6,7 +6,7 @@ category: kabuki-theatre
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-kabuki-theatre-nagoya-名古屋能樂堂-外國遊客的日本傳統表演藝術入門指南-3171b9.html
 published: 2026-06-20
-quality_score: 6.5
+quality_score: 8.6
 tags: 名古屋, 能劇, 狂言, 傳統表演藝術, 日本文化體驗
 license: CC BY 4.0
 ---

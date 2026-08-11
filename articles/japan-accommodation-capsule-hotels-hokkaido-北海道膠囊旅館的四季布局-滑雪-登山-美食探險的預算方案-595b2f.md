@@ -6,7 +6,7 @@ category: capsule-hotels
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-capsule-hotels-hokkaido-北海道膠囊旅館的四季布局-滑雪-登山-美食探險的預算方案-595b2f.html
 published: 2026-03-24
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道旅遊, 膠囊旅館, 預算住宿, 四季旅遊, 滑雪度假
 license: CC BY 4.0
 ---

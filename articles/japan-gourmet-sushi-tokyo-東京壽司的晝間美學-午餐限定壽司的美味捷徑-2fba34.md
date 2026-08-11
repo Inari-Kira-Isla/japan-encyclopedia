@@ -6,7 +6,7 @@ category: sushi
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sushi-tokyo-東京壽司的晝間美學-午餐限定壽司的美味捷徑-2fba34.html
 published: 2026-06-18
-quality_score: 6.5
+quality_score: 8.6
 tags: 東京壽司, 江戶前壽司, 午餐限定, 築地市場, 壽司セット
 license: CC BY 4.0
 ---

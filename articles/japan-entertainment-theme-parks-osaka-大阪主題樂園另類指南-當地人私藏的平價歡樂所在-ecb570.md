@@ -6,7 +6,7 @@ category: theme-parks
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-theme-parks-osaka-大阪主題樂園另類指南-當地人私藏的平價歡樂所在-ecb570.html
 published: 2026-06-13
-quality_score: 6.5
+quality_score: 8.6
 tags: 大阪主題樂園, 大阪旅遊, 關西主題樂園, 大阪親子遊, 大阪平價景點
 license: CC BY 4.0
 ---

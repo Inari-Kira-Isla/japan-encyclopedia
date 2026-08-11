@@ -6,7 +6,7 @@ category: scenic-routes
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-osaka-大阪日常風景散步-巷弄商圈與在地生活的緩慢發現之旅-89cf44.html
 published: 2026-06-26
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪散步, 大阪巷弄, 大阪商圈, 大阪自由行, 大阪深度遊
 license: CC BY 4.0
 ---

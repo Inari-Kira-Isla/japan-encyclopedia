@@ -6,7 +6,7 @@ category: castle-towns
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-castle-towns-sendai-仙台城堡城鎮-伊達家城下町的日常生活氣息-fca7ad.html
 published: 2026-06-22
-quality_score: 6.5
+quality_score: 8.8
 tags: 仙台, 城堡城鎮, 伊達政宗, 城下町, 日本東北
 license: CC BY 4.0
 ---

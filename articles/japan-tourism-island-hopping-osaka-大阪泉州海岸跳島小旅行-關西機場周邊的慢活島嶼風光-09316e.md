@@ -6,7 +6,7 @@ category: island-hopping
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-island-hopping-osaka-大阪泉州海岸跳島小旅行-關西機場周邊的慢活島嶼風光-09316e.html
 published: 2026-06-04
-quality_score: 6.5
+quality_score: 8.6
 tags: 大阪跳島, 泉州海岸, 關西機場周邊, 離島體驗, 日本小眾旅遊
 license: CC BY 4.0
 ---

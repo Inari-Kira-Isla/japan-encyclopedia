@@ -6,7 +6,7 @@ category: airport-transfer
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-airport-transfer-tokyo-東京機場交通全攻略-從-成田與羽田機場進入市區的黃金法則-ed60ff.html
 published: 2026-06-29
-quality_score: 7.5
+quality_score: 8.6
 tags: 東京機場交通, 、成田機場,  Hanae 機場, 機場接駁, 日本交通
 license: CC BY 4.0
 ---

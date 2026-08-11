@@ -6,7 +6,7 @@ category: metro-systems
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-sendai-仙台市地下鐵完全指南-暢遊東北最大城市的便捷之道-a229ee.html
 published: 2026-03-18
-quality_score: 7.5
+quality_score: 8.9
 tags: 仙台, 地下鐵, 日本交通, 東北自由行, 仙台市交通局
 license: CC BY 4.0
 ---

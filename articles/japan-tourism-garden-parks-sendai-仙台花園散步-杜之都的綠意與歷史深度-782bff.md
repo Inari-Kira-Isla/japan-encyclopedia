@@ -6,7 +6,7 @@ category: garden-parks
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-sendai-仙台花園散步-杜之都的綠意與歷史深度-782bff.html
 published: 2026-06-30
-quality_score: 6.5
+quality_score: 8.9
 tags: 仙台, 杜之都, 花園, 散步, 自然
 license: CC BY 4.0
 ---

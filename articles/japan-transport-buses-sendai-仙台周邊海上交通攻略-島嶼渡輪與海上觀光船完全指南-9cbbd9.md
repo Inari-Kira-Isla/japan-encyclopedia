@@ -6,7 +6,7 @@ category: buses
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-buses-sendai-仙台周邊海上交通攻略-島嶼渡輪與海上觀光船完全指南-9cbbd9.html
 published: 2026-06-13
-quality_score: 7.5
+quality_score: 8.2
 tags: 仙台交通, 松島海岸, 海上交通, 渡輪, 觀光船
 license: CC BY 4.0
 ---

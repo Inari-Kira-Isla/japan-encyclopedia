@@ -6,7 +6,7 @@ category: metro-systems
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-okinawa-沖繩單軌交通系統-沒有地鐵的南海島嶼-如何打造獨特軌道交通體驗-710b72.html
 published: 2026-06-20
-quality_score: 7.5
+quality_score: 8.7
 tags: 沖繩交通, 單軌電車, Yui-UNICO, 那霸市區, 沖繩自由行
 license: CC BY 4.0
 ---

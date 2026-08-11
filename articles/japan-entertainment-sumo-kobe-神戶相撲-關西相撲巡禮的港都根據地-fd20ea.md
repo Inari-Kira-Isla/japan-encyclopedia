@@ -6,7 +6,7 @@ category: sumo
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-kobe-神戶相撲-關西相撲巡禮的港都根據地-fd20ea.html
 published: 2026-06-21
-quality_score: 6.5
+quality_score: 8.7
 tags: 神戶相撲, 關西相撲巡禮, 港都文化, 神戶港, 相撲體驗
 license: CC BY 4.0
 ---

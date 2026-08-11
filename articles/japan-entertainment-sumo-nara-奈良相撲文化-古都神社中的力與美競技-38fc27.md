@@ -6,7 +6,7 @@ category: sumo
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-nara-奈良相撲文化-古都神社中的力與美競技-38fc27.html
 published: 2026-06-08
-quality_score: 6.5
+quality_score: 8.9
 tags: 奈良相撲, 古都文化, 神社相撲神事, 相撲火鍋, 日本傳統武藝
 license: CC BY 4.0
 ---

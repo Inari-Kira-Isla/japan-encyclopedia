@@ -6,7 +6,7 @@ category: historical-districts
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-hokkaido-北海道歷史街區-明治開拓時代的足跡巡禮-8e6086.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.6
 tags: 北海道歷史, 明治開拓, 產業遺產, 洋風建築, 深度旅遊
 license: CC BY 4.0
 ---

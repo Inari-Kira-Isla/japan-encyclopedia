@@ -6,7 +6,7 @@ category: kabuki-theatre
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-kabuki-theatre-tokyo-東京觀劇初體驗-外行人看歌舞伎的門道與樂趣-857a86.html
 published: 2026-06-18
-quality_score: 6.5
+quality_score: 8.8
 tags: 東京, 歌舞伎, 表演藝術, 傳統文化, 上野
 license: CC BY 4.0
 ---

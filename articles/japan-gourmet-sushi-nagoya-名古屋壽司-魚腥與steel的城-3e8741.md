@@ -6,7 +6,7 @@ category: sushi
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sushi-nagoya-名古屋壽司-魚腥與steel的城-3e8741.html
 published: 2026-05-23
-quality_score: 6.5
+quality_score: 8.8
 tags: 名古屋美食, 壽司推薦, 日本中部料理, 伊勢灣海產, 在地美食
 license: CC BY 4.0
 ---

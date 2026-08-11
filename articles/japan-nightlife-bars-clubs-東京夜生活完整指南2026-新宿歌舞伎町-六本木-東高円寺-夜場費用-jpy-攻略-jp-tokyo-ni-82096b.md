@@ -6,7 +6,7 @@ category: bars-clubs
 area: japan
 url: https://japan-encyclopedia.vercel.app/articles/japan-nightlife-bars-clubs-東京夜生活完整指南2026-新宿歌舞伎町-六本木-東高円寺-夜場費用-jpy-攻略-jp-tokyo-ni-82096b.html
 published: 2026-04-25
-quality_score: 7.6
+quality_score: 8.5
 tags: 東京夜生活, 新宿歌舞伎町, 六本木夜場, 東京酒吧, 新宿ゴールデン街
 license: CC BY 4.0
 ---

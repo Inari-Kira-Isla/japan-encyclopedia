@@ -6,7 +6,7 @@ category: nightlife
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-sendai-仙台夜生活-七夕祭典與在地文化的光影之夜-d407ae.html
 published: 2026-06-11
-quality_score: 6.5
+quality_score: 8.8
 tags: 仙台, 夜生活, 七夕祭典, 牛舌, 東北
 license: CC BY 4.0
 ---

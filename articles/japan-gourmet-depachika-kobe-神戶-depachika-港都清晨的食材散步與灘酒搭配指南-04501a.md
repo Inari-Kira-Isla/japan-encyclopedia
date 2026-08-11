@@ -6,7 +6,7 @@ category: depachika
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-depachika-kobe-神戶-depachika-港都清晨的食材散步與灘酒搭配指南-04501a.html
 published: 2026-06-17
-quality_score: 6.5
+quality_score: 8.7
 tags: 神戶, Depachika, 地下食品, 灘酒, 關西
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: day-trips
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-nara-奈良秘境一日遊-避開人潮的在地深度路線-b24e11.html
 published: 2026-06-14
-quality_score: 6.5
+quality_score: 8.7
 tags: 奈良一日遊, 奈良秘境, 日本古都, 關西深度旅遊, 飛鳥時代
 license: CC BY 4.0
 ---

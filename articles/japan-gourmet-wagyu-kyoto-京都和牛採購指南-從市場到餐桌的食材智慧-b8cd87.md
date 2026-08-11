@@ -6,7 +6,7 @@ category: wagyu
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-wagyu-kyoto-京都和牛採購指南-從市場到餐桌的食材智慧-b8cd87.html
 published: 2026-03-22
-quality_score: 6.5
+quality_score: 8.6
 tags: 京都美食, 和牛, 日本料理, 食材採購, 季節性美食
 license: CC BY 4.0
 ---

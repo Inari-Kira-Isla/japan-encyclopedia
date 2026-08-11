@@ -6,7 +6,7 @@ category: ryokan
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-tokyo-東京傳統旅宿-都市中的和式待客美學-b0bbba.html
 published: 2026-05-23
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京住宿, Ryokan, 日式傳統旅宿, 東京旅遊, 日本文化體驗
 license: CC BY 4.0
 ---

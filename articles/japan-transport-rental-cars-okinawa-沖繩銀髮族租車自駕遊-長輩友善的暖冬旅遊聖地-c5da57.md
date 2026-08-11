@@ -6,7 +6,7 @@ category: rental-cars
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-okinawa-沖繩銀髮族租車自駕遊-長輩友善的暖冬旅遊聖地-c5da57.html
 published: 2026-06-29
-quality_score: 7.5
+quality_score: 8.8
 tags: 沖繩租車, 銀髮族旅遊, 自駕遊, 長輩友善, 日本冬季旅遊
 license: CC BY 4.0
 ---

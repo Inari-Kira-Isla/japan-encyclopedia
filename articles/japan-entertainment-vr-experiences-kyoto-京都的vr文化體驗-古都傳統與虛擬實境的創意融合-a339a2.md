@@ -6,7 +6,7 @@ category: vr-experiences
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-vr-experiences-kyoto-京都的vr文化體驗-古都傳統與虛擬實境的創意融合-a339a2.html
 published: 2026-06-06
-quality_score: 6.5
+quality_score: 8.4
 tags: 京都VR體驗, 京都文化, 祇園VR, 嵐山VR, 伏見稻荷VR
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: gaming-arcades
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-gaming-arcades-hiroshima-廣島遊戲中心-重建城市的電子娛樂新脈動-e561e7.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.8
 tags: 廣島娛樂, 遊戲中心, 街機文化, 夜生活, 電子遊戲
 license: CC BY 4.0
 ---

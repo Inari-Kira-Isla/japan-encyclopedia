@@ -6,7 +6,7 @@ category: udon-soba
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-udon-soba-fukuoka-福岡-うどんとん-探索九州北部的麵食魅力-a2dcca.html
 published: 2026-03-14
-quality_score: 6.5
+quality_score: 8.7
 tags: 福岡美食, 九州烏龍麵, 小倉烏龍麵, 北九州, 日本料理
 license: CC BY 4.0
 ---

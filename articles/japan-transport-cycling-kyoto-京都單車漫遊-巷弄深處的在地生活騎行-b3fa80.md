@@ -6,7 +6,7 @@ category: cycling
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-kyoto-京都單車漫遊-巷弄深處的在地生活騎行-b3fa80.html
 published: 2026-07-04
-quality_score: 7.5
+quality_score: 8.9
 tags: 京都單車, 京都自由行, 京都深度遊, 京都巷弄, 京都小眾景點
 license: CC BY 4.0
 ---

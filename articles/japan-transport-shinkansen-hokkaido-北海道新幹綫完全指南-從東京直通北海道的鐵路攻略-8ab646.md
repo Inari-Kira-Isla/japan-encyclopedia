@@ -6,7 +6,7 @@ category: shinkansen
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-hokkaido-北海道新幹綫完全指南-從東京直通北海道的鐵路攻略-8ab646.html
 published: 2026-06-23
-quality_score: 7.5
+quality_score: 8.8
 tags: 北海道新幹綫, 日本鐵路, 北海道交通, 東京到北海道, 新函館北斗
 license: CC BY 4.0
 ---

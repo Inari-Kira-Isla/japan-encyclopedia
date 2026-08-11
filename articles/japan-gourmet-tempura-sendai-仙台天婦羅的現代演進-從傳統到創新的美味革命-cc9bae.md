@@ -6,7 +6,7 @@ category: tempura
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tempura-sendai-仙台天婦羅的現代演進-從傳統到創新的美味革命-cc9bae.html
 published: 2026-03-29
-quality_score: 6.5
+quality_score: 8.8
 tags: 仙台美食, 天婦羅, 東北料理, 創新日料, 宮城縣美食
 license: CC BY 4.0
 ---

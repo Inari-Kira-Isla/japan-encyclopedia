@@ -6,7 +6,7 @@ category: festivals-matsuri
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-festivals-matsuri-nagoya-名古屋祭典-四季工藝傳承與尾張祭祀文化-0feac0.html
 published: 2026-03-22
-quality_score: 6.5
+quality_score: 8.7
 tags: 名古屋, 祭典, matsuri, 尾張文化, 山鉾
 license: CC BY 4.0
 ---

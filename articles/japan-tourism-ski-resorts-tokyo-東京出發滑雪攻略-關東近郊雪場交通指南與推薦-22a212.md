@@ -6,7 +6,7 @@ category: ski-resorts
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-ski-resorts-tokyo-東京出發滑雪攻略-關東近郊雪場交通指南與推薦-22a212.html
 published: 2026-06-06
-quality_score: 6.5
+quality_score: 8.6
 tags: 東京滑雪, 關東滑雪場, 滑雪一日遊, 日本滑雪攻略, 東京近郊雪場
 license: CC BY 4.0
 ---

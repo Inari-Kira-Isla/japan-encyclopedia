@@ -6,7 +6,7 @@ category: electronics
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-electronics-osaka-大阪復古電子尋寶趣-收藏家必訪的古董相機與音響老店-857fec.html
 published: 2026-06-01
-quality_score: 7.5
+quality_score: 8.8
 tags: 大阪電子產品, 复古老店, 音响, 懷舊相機
 license: CC BY 4.0
 ---

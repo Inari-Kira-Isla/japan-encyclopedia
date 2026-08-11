@@ -6,7 +6,7 @@ category: yakitori
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-yakitori-tokyo-東京燒鳥-從產地到烤臺的食材美學-efb713.html
 published: 2026-06-17
-quality_score: 6.5
+quality_score: 8.8
 tags: 東京燒鳥, Yakitori, 日本料理, 東京美食, 串燒
 license: CC BY 4.0
 ---

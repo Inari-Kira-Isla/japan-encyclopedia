@@ -6,7 +6,7 @@ category: scenic-routes
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-sendai-仙台藏王高原生態線-高山牧場與草甸風光的清新之路-8ed6b6.html
 published: 2026-06-03
-quality_score: 6.5
+quality_score: 8.7
 tags: 藏王高原, 遠刈田溫泉, 自駕路線, 高山牧場, 仙台周邊
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: cycling
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-osaka-大阪騎行文化深度體驗-從通勤族視角探索關西生活節奏-b392e7.html
 published: 2026-04-02
-quality_score: 7.5
+quality_score: 8.7
 tags: 大阪騎行, 都市交通, 關西文化, 生活體驗, 河濱騎行
 license: CC BY 4.0
 ---

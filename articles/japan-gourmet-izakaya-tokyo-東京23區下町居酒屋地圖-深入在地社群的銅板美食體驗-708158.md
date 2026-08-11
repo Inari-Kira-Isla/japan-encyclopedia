@@ -6,7 +6,7 @@ category: izakaya
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-izakaya-tokyo-東京23區下町居酒屋地圖-深入在地社群的銅板美食體驗-708158.html
 published: 2026-06-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京, 居酒屋, 下町, 赤羽, 淺草
 license: CC BY 4.0
 ---

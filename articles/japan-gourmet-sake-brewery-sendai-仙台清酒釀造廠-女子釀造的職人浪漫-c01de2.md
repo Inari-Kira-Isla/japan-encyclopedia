@@ -6,7 +6,7 @@ category: sake-brewery
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sake-brewery-sendai-仙台清酒釀造廠-女子釀造的職人浪漫-c01de2.html
 published: 2026-05-24
-quality_score: 6.5
+quality_score: 8.8
 tags: 仙台清酒, 女子釀造, ，日本東北, 小眾酒藏, 品飲酒体験
 license: CC BY 4.0
 ---

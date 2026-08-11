@@ -6,7 +6,7 @@ category: sake-brewery
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sake-brewery-osaka-大阪微型釀酒廠崛起-社群型清酒釀造所的都市新風景-dd6656.html
 published: 2026-05-22
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪清酒, 微型釀酒廠, 都市釀造, 社區型釀酒所, 清酒體驗
 license: CC BY 4.0
 ---

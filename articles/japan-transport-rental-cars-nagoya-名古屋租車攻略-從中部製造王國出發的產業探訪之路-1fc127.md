@@ -6,7 +6,7 @@ category: rental-cars
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-nagoya-名古屋租車攻略-從中部製造王國出發的產業探訪之路-1fc127.html
 published: 2026-06-15
-quality_score: 7.5
+quality_score: 8.9
 tags: 名古屋租車, 產業旅遊, Toyota, 工廠見學, 中部日本自駕
 license: CC BY 4.0
 ---

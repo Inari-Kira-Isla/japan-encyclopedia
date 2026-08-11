@@ -6,7 +6,7 @@ category: buses
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-buses-okinawa-沖繩療癒系巴士-遠離人潮的私房田園風光與濱海夕陽路線-6cec2b.html
 published: 2026-06-05
-quality_score: 7.5
+quality_score: 8.5
 tags: 沖繩巴士, 沖繩交通, 沖繩自由行, 亞熱帶島嶼, 療癒旅行
 license: CC BY 4.0
 ---

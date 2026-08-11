@@ -6,7 +6,7 @@ category: festivals-matsuri
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-festivals-matsuri-hiroshima-廣島祭典完全指南-和平與記憶的夏日祭典體驗-19f9ec.html
 published: 2026-06-13
-quality_score: 6.5
+quality_score: 8.7
 tags: 廣島祭典, 夏日祭典, 和平紀念, 廣島必去, 宮島花火
 license: CC BY 4.0
 ---

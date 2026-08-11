@@ -6,7 +6,7 @@ category: temples-shrines
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-temples-shrines-kanazawa-金澤寺廟神社深度導覽-加賀藩武家佛教文化的時空迴廊-2aa273.html
 published: 2026-06-10
-quality_score: 6.5
+quality_score: 8.6
 tags: 金澤寺廟, 金澤神社, 加賀藩, 忍者寺, 日本佛教
 license: CC BY 4.0
 ---

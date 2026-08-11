@@ -6,7 +6,7 @@ category: kabuki-theatre
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-kabuki-theatre-sendai-仙台的表演藝術體驗-沒有常設劇場的城市魅力-5c50ab.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 8.8
 tags: 仙台表演藝術, 日本能劇體驗, 東北自由行, 文化交流推薦, 仙台自由行
 license: CC BY 4.0
 ---

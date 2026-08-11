@@ -6,7 +6,7 @@ category: rental-cars
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-tokyo-東京租車完全指南-以東京為樞紐的週邊自駕遊攻略-56053d.html
 published: 2026-06-05
-quality_score: 7.5
+quality_score: 8.3
 tags: 東京租車, 關東自駕, 富士山租車, 日光租車, 湘南租車
 license: CC BY 4.0
 ---

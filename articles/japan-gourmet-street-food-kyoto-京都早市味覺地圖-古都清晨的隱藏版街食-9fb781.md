@@ -6,7 +6,7 @@ category: street-food
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-street-food-kyoto-京都早市味覺地圖-古都清晨的隱藏版街食-9fb781.html
 published: 2026-06-19
-quality_score: 6.5
+quality_score: 8.7
 tags: 京都, 街頭美食, 朝市, 古都味覺, 京都野菜
 license: CC BY 4.0
 ---

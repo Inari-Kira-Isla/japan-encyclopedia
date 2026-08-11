@@ -6,7 +6,7 @@ category: onsen
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-onsen-sendai-仙台溫泉指南-東北溫泉文化的都會門戶-0928fc.html
 published: 2026-04-06
-quality_score: 6.5
+quality_score: 8.8
 tags: 仙台, 東北溫泉, 秋保溫泉, 作並溫泉, 都會溫泉
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: rental-cars
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-sendai-仙台租車自駕完美攻略-放射狀路線規劃與在地玩家的景點串聯邏輯-1c41ec.html
 published: 2026-06-01
-quality_score: 7.5
+quality_score: 8.6
 tags: 仙台租車, 日本東北自駕, 放射狀路線, 松島海岸, 山寺
 license: CC BY 4.0
 ---

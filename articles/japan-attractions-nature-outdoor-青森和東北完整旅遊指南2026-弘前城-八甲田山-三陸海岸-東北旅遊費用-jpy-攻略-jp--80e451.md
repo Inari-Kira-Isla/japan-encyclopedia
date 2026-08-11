@@ -6,7 +6,7 @@ category: nature-outdoor
 area: japan
 url: https://japan-encyclopedia.vercel.app/articles/japan-attractions-nature-outdoor-青森和東北完整旅遊指南2026-弘前城-八甲田山-三陸海岸-東北旅遊費用-jpy-攻略-jp--80e451.html
 published: 2026-03-28
-quality_score: 7.6
+quality_score: 8.5
 tags: 青森旅遊, 弘前城, 奧入瀬溪流, 東北旅遊, 青森蘋果
 license: CC BY 4.0
 ---

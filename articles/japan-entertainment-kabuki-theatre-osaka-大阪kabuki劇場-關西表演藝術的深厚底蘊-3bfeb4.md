@@ -6,7 +6,7 @@ category: kabuki-theatre
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-kabuki-theatre-osaka-大阪kabuki劇場-關西表演藝術的深厚底蘊-3bfeb4.html
 published: 2026-06-23
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪Kabuki, 關西表演藝術, 文楽劇場, 微型劇場, 大阪文化體驗
 license: CC BY 4.0
 ---

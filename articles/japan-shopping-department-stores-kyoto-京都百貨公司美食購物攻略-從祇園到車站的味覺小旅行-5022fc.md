@@ -6,7 +6,7 @@ category: department-stores
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-department-stores-kyoto-京都百貨公司美食購物攻略-從祇園到車站的味覺小旅行-5022fc.html
 published: 2026-06-27
-quality_score: 7.5
+quality_score: 8.7
 tags: 京都購物, 京都美食, 京都百货公司, 祇园购物, 京都站购物
 license: CC BY 4.0
 ---

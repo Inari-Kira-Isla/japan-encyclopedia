@@ -6,7 +6,7 @@ category: minshuku
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-osaka-大阪民宿社群指南-走進天王寺與阿倍野的在地日常-77df6b.html
 published: 2026-05-24
-quality_score: 6.5
+quality_score: 8.1
 tags: 大阪民宿, 大阪住宿, 天王寺, 阿倍野, 西成區
 license: CC BY 4.0
 ---

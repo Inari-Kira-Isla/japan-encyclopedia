@@ -6,7 +6,7 @@ category: electronics
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-electronics-nara-奈良電子產品購物完全指南-旅行者視角的實用推薦-ef3993.html
 published: 2026-06-08
-quality_score: 7.5
+quality_score: 8.5
 tags: 奈良電子產品, 奈良購物, 奈良旅行, 關西電子產品, 奈良伴手禮
 license: CC BY 4.0
 ---

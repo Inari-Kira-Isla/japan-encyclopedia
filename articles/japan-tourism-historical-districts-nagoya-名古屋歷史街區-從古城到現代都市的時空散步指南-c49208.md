@@ -6,7 +6,7 @@ category: historical-districts
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-nagoya-名古屋歷史街區-從古城到現代都市的時空散步指南-c49208.html
 published: 2026-06-06
-quality_score: 6.5
+quality_score: 8.7
 tags: 名古屋歷史街區, 名古屋城, 榮, 伏見, 金山
 license: CC BY 4.0
 ---

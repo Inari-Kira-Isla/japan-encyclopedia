@@ -6,7 +6,7 @@ category: craft-markets
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-craft-markets-okinawa-沖繩工藝市集四季購物攻略-預算導向的琉球手作尋寶指南-55b27f.html
 published: 2026-03-27
-quality_score: 7.5
+quality_score: 8.7
 tags: 沖繩工藝, 預算購物, 季節性市集
 license: CC BY 4.0
 ---

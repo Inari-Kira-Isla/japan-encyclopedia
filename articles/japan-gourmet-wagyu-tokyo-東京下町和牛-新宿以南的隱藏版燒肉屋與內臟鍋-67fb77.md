@@ -6,7 +6,7 @@ category: wagyu
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-wagyu-tokyo-東京下町和牛-新宿以南的隱藏版燒肉屋與內臟鍋-67fb77.html
 published: 2026-06-28
-quality_score: 6.5
+quality_score: 8.8
 tags: 東京美食, 和牛, 燒肉, 內臟鍋, 下北澤
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: sake-brewery
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sake-brewery-kobe-神戶灘五鄉-日本頂級清酒的故鄉-b8cfa4.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 8.6
 tags: 神戸清酒, 灘五鄉, 日本釀酒, 清酒體驗, 兵庫美食
 license: CC BY 4.0
 ---

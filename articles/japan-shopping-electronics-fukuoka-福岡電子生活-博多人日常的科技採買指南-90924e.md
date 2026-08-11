@@ -6,7 +6,7 @@ category: electronics
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-electronics-fukuoka-福岡電子生活-博多人日常的科技採買指南-90924e.html
 published: 2026-06-29
-quality_score: 7.5
+quality_score: 8.6
 tags: 福岡電子產品, 博多元町, 天神3C, 箱崎相機, 九州購物
 license: CC BY 4.0
 ---

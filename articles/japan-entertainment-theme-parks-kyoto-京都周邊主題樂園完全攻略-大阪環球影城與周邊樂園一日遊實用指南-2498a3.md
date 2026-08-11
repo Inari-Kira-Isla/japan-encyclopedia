@@ -6,7 +6,7 @@ category: theme-parks
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-theme-parks-kyoto-京都周邊主題樂園完全攻略-大阪環球影城與周邊樂園一日遊實用指南-2498a3.html
 published: 2026-05-25
-quality_score: 6.5
+quality_score: 8.8
 tags: 京都, 大阪環球影城, 主題樂園, 關西一日遊,  family tour
 license: CC BY 4.0
 ---

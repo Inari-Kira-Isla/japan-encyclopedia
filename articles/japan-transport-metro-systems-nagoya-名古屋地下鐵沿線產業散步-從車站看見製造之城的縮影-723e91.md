@@ -6,7 +6,7 @@ category: metro-systems
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-nagoya-名古屋地下鐵沿線產業散步-從車站看見製造之城的縮影-723e91.html
 published: 2026-06-04
-quality_score: 7.5
+quality_score: 9.0
 tags: 名古屋地下鐵, 產業探索, 中部旅行, 製造之城, 地鐵沿線
 license: CC BY 4.0
 ---

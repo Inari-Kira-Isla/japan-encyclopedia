@@ -6,7 +6,7 @@ category: sushi
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sushi-tokyo-東京壽司-巷弄間的日常鮮味-464206.html
 published: 2026-06-04
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京壽司, 日本美食, 庶民美食, 迴轉壽司, 東京自由行
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: kaiseki
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-kaiseki-osaka-大阪懷石料理-千元起吃米其林-關西平價奢華美食指南-45b4b0.html
 published: 2026-06-17
-quality_score: 6.5
+quality_score: 8.5
 tags: 大阪懷石, 關西美食, 日本料理, 米其林, 平價美食
 license: CC BY 4.0
 ---

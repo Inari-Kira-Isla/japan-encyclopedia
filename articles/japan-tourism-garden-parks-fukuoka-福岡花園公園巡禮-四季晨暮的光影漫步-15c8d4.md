@@ -6,7 +6,7 @@ category: garden-parks
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-fukuoka-福岡花園公園巡禮-四季晨暮的光影漫步-15c8d4.html
 published: 2026-06-27
-quality_score: 6.5
+quality_score: 8.8
 tags: 福岡, 花園公園, 四季推薦, 晨間體驗, 櫻花季
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: onsen
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-onsen-tokyo-東京錢湯手冊-都會深處的庶民泡湯日常-1d2719.html
 published: 2026-06-19
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京錢湯, 東京溫泉, sentō, 台東區, 中央區
 license: CC BY 4.0
 ---

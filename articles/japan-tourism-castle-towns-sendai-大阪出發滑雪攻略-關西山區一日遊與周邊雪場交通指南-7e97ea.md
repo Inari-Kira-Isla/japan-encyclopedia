@@ -6,7 +6,7 @@ category: castle-towns
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-castle-towns-sendai-大阪出發滑雪攻略-關西山區一日遊與周邊雪場交通指南-7e97ea.html
 published: 2026-06-20
-quality_score: 6.5
+quality_score: 8.4
 tags: 大阪滑雪, 關西滑雪場, 琵琶湖Valley, 箱館山滑雪場, 六甲山滑雪場
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: tonkatsu
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tonkatsu-tokyo-東京豚カツ-上班族的午間食堂-d8b98e.html
 published: 2026-06-10
-quality_score: 6.5
+quality_score: 8.9
 tags: 東京美食, 豚カツ, 洋食, 午餐推薦, 上班族
 license: CC BY 4.0
 ---

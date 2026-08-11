@@ -6,7 +6,7 @@ category: boutique-hotels
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-kanazawa-金澤小而美住宿-體驗加賀百萬石日常的質感棲居-0e88a6.html
 published: 2026-06-13
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤住宿, 加賀百萬石, 精品酒店, 町家住宿, 北陸旅行
 license: CC BY 4.0
 ---

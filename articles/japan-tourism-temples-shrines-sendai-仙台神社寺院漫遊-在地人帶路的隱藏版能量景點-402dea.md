@@ -6,7 +6,7 @@ category: temples-shrines
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-temples-shrines-sendai-仙台神社寺院漫遊-在地人帶路的隱藏版能量景點-402dea.html
 published: 2026-06-29
-quality_score: 6.5
+quality_score: 8.7
 tags: 仙台, 神社, 寺院, 伊達政宗, 東北旅遊
 license: CC BY 4.0
 ---

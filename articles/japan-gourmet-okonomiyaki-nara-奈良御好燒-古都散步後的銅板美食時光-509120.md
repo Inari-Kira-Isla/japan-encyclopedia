@@ -6,7 +6,7 @@ category: okonomiyaki
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-okonomiyaki-nara-奈良御好燒-古都散步後的銅板美食時光-509120.html
 published: 2026-06-13
-quality_score: 6.5
+quality_score: 8.7
 tags: 奈良, 御好燒, 關西美食, 銅板料理, 庶民美食
 license: CC BY 4.0
 ---

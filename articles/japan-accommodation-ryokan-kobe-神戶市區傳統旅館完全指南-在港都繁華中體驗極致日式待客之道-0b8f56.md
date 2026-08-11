@@ -6,7 +6,7 @@ category: ryokan
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-kobe-神戶市區傳統旅館完全指南-在港都繁華中體驗極致日式待客之道-0b8f56.html
 published: 2026-05-22
-quality_score: 6.5
+quality_score: 8.7
 tags: 神戶住宿, 關西安的全旅馆, 市區溫泉, 神戶牛肉, 港都旅宿
 license: CC BY 4.0
 ---

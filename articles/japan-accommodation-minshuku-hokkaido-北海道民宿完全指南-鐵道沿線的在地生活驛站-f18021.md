@@ -6,7 +6,7 @@ category: minshuku
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-hokkaido-北海道民宿完全指南-鐵道沿線的在地生活驛站-f18021.html
 published: 2026-06-06
-quality_score: 6.5
+quality_score: 8.5
 tags: 北海道民宿, JR北海道, 鐵道旅行, 日本東北, 自助旅行
 license: CC BY 4.0
 ---

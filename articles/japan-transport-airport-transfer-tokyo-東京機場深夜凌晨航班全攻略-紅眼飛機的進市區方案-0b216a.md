@@ -6,7 +6,7 @@ category: airport-transfer
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-airport-transfer-tokyo-東京機場深夜凌晨航班全攻略-紅眼飛機的進市區方案-0b216a.html
 published: 2026-06-03
-quality_score: 7.5
+quality_score: 8.5
 tags: 東京機場交通, 深夜航班, 紅眼航班, Narita機場, Haneda機場
 license: CC BY 4.0
 ---

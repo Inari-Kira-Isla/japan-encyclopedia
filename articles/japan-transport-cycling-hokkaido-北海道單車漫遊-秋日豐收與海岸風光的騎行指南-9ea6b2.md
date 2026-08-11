@@ -6,7 +6,7 @@ category: cycling
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-hokkaido-北海道單車漫遊-秋日豐收與海岸風光的騎行指南-9ea6b2.html
 published: 2026-06-06
-quality_score: 7.5
+quality_score: 8.7
 tags: 北海道單車, 日本單車騎行, 秋日北海道, 余市海岸, 洞爺湖
 license: CC BY 4.0
 ---

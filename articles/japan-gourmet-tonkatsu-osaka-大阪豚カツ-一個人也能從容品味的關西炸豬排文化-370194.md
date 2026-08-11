@@ -6,7 +6,7 @@ category: tonkatsu
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tonkatsu-osaka-大阪豚カツ-一個人也能從容品味的關西炸豬排文化-370194.html
 published: 2026-06-06
-quality_score: 6.5
+quality_score: 8.6
 tags: 大阪美食, 豚カツ, 炸豬排, 關西料理, 日式洋食
 license: CC BY 4.0
 ---

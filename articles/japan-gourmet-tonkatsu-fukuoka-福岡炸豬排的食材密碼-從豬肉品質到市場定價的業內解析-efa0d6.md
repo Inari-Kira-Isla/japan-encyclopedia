@@ -6,7 +6,7 @@ category: tonkatsu
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tonkatsu-fukuoka-福岡炸豬排的食材密碼-從豬肉品質到市場定價的業內解析-efa0d6.html
 published: 2026-03-24
-quality_score: 6.5
+quality_score: 8.5
 tags: 福岡美食, 炸豬排, 豬肉品質, 食材採購, 市場經濟
 license: CC BY 4.0
 ---

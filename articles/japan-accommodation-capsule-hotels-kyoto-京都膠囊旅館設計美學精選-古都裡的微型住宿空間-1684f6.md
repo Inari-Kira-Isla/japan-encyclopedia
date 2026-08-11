@@ -6,7 +6,7 @@ category: capsule-hotels
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-capsule-hotels-kyoto-京都膠囊旅館設計美學精選-古都裡的微型住宿空間-1684f6.html
 published: 2026-05-23
-quality_score: 6.5
+quality_score: 8.6
 tags: 京都膠囊旅館, 京都住宿, 設計酒店的, 京都自由行, 日本膠囊旅館
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: nature-trails
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-kanazawa-金澤自然步道-古城周邊的山林深呼吸-5efefa.html
 published: 2026-05-22
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤自然步道, 石川縣登山, 日本戶外旅遊, 金澤秘境, 加賀百萬石
 license: CC BY 4.0
 ---

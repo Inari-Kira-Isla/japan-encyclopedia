@@ -6,7 +6,7 @@ category: historical-districts
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-tokyo-東京歷史街區-江戸幕府政治中心的權力軌跡-e75313.html
 published: 2026-03-27
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京歷史, 江戶城, 政治文化, 皇居, 神田
 license: CC BY 4.0
 ---

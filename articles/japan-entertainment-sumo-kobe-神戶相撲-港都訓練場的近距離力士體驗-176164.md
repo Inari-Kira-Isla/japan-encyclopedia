@@ -6,7 +6,7 @@ category: sumo
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-kobe-神戶相撲-港都訓練場的近距離力士體驗-176164.html
 published: 2026-06-18
-quality_score: 6.5
+quality_score: 8.7
 tags: 神戶相撲, 六甲山, 相撲體驗, 神戶旅遊, 關西旅遊
 license: CC BY 4.0
 ---

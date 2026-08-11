@@ -6,7 +6,7 @@ category: vintage-thrift
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-vintage-thrift-hiroshima-廣島古著進化論-從廢墟重生的復古生活態度-ed4224.html
 published: 2026-05-25
-quality_score: 7.5
+quality_score: 8.8
 tags: 廣島古著, 廣島二手店, 瀨戶內海購物, 日本復古服飾, 廣島市區血拼
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: historical-districts
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-hiroshima-廣島清晨秘徑-跟著當地人穿越上班前的古城街區-f98d0f.html
 published: 2026-07-06
-quality_score: 6.5
+quality_score: 8.7
 tags: 廣島歷史街區, 清晨散步, 在地文化, 日本深度旅遊, 廣島美食
 license: CC BY 4.0
 ---

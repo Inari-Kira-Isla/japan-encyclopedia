@@ -6,7 +6,7 @@ category: onsen
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-onsen-hokkaido-北海道秘湯探索-遠離人潮的在地溫泉體驗-4daaa3.html
 published: 2026-05-21
-quality_score: 6.5
+quality_score: 8.6
 tags: 北海道溫泉, 秘湯, 溫泉旅馆, 硫磺泉, 碳酸泉
 license: CC BY 4.0
 ---

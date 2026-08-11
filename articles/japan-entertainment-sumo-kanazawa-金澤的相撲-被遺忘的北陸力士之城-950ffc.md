@@ -6,7 +6,7 @@ category: sumo
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-kanazawa-金澤的相撲-被遺忘的北陸力士之城-950ffc.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 8.8
 tags: 金澤相扑, 石川縣文化, 加賀藩歷史, 日本傳統武藝, 北路旅遊
 license: CC BY 4.0
 ---

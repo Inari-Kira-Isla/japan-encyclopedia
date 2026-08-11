@@ -6,7 +6,7 @@ category: metro-systems
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-sendai-仙台地下鐵美食地圖-沿線站點的旬之味-4ff11d.html
 published: 2026-06-04
-quality_score: 7.5
+quality_score: 8.7
 tags: 仙台地下鐵, 東北美食, 仙台站, 南北線, 東西線
 license: CC BY 4.0
 ---

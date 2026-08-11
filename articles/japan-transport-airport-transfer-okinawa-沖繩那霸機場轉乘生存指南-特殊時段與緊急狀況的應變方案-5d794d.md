@@ -6,7 +6,7 @@ category: airport-transfer
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-airport-transfer-okinawa-沖繩那霸機場轉乘生存指南-特殊時段與緊急狀況的應變方案-5d794d.html
 published: 2026-06-08
-quality_score: 7.5
+quality_score: 8.4
 tags: 沖繩機場交通, 那霸機場轉乘, 紅眼航班, 颱風季出行, 特殊時段交通
 license: CC BY 4.0
 ---

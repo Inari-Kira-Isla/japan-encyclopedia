@@ -6,7 +6,7 @@ category: jr-pass
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-jr-pass-kanazawa-金澤交通攻略-從大阪-東京出發的jr-pass選擇與實用路線-55936d.html
 published: 2026-06-13
-quality_score: 7.5
+quality_score: 8.8
 tags: 金澤交通, JR Pass教學, 關西廣域周遊券, 東京廣域周遊券, 金澤自由行
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: temples-shrines
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-temples-shrines-kyoto-京都神社寺廟的信仰功能指南-厄除-招福-學業參拜的深度之旅-9d0de6.html
 published: 2026-06-12
-quality_score: 6.5
+quality_score: 8.7
 tags: 京都神社, 京都寺廟, 厄除, 招福, 學業參拜
 license: CC BY 4.0
 ---

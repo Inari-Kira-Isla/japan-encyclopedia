@@ -6,7 +6,7 @@ category: sumo
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-kyoto-京都相撲-千年古都的力士足跡與關西相撲文化深度之旅-3bd212.html
 published: 2026-06-28
-quality_score: 6.5
+quality_score: 8.7
 tags: 京都相撲, 關西相撲, 相撲文化, 日本傳統, 奈良相撲
 license: CC BY 4.0
 ---

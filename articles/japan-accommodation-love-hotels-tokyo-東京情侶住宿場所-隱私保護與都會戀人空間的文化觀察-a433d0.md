@@ -6,7 +6,7 @@ category: love-hotels
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-love-hotels-tokyo-東京情侶住宿場所-隱私保護與都會戀人空間的文化觀察-a433d0.html
 published: 2026-06-09
-quality_score: 6.5
+quality_score: 8.4
 tags: 東京住宿, 情侶空間, 都市隱私, 東京文化觀察
 license: CC BY 4.0
 ---

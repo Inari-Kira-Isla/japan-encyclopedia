@@ -6,7 +6,7 @@ category: boutique-hotels
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-kanazawa-金澤精品酒店-文化收藏家的藝術品味住宿體驗-db4eba.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤住宿, 精品酒店, 文化體驗, 藝術收藏, 傳統工藝
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: onsen-etiquette
 area: japan
 url: https://japan-encyclopedia.vercel.app/articles/japan-wellness-onsen-etiquette-日本溫泉刺青禁令與友善指南2026-各地溫泉刺青政策完整攻略-jp-onsen-etiquette-141270.html
 published: 2026-04-07
-quality_score: 7.6
+quality_score: 8.1
 tags: 日本溫泉刺青, 日本溫泉禮儀, 日本onsen, 刺青友善溫泉, 日本泡湯
 license: CC BY 4.0
 ---

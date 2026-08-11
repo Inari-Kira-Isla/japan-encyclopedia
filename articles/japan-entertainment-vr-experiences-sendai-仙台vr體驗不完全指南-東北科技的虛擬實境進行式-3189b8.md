@@ -6,7 +6,7 @@ category: vr-experiences
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-vr-experiences-sendai-仙台vr體驗不完全指南-東北科技的虛擬實境進行式-3189b8.html
 published: 2026-05-21
-quality_score: 6.5
+quality_score: 8.7
 tags: 仙台VR, 東北娛樂, 沉浸式體驗, 日本主題樂園, 廣瀨通
 license: CC BY 4.0
 ---

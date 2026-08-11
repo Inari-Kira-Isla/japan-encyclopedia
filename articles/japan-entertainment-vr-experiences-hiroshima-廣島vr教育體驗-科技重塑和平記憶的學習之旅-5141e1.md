@@ -6,7 +6,7 @@ category: vr-experiences
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-vr-experiences-hiroshima-廣島vr教育體驗-科技重塑和平記憶的學習之旅-5141e1.html
 published: 2026-04-06
-quality_score: 6.5
+quality_score: 8.6
 tags: 廣島, VR體驗, 教育科技, 和平教育, 歷史重現
 license: CC BY 4.0
 ---

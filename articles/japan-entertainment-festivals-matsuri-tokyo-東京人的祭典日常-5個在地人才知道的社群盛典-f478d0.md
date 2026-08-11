@@ -6,7 +6,7 @@ category: festivals-matsuri
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-festivals-matsuri-tokyo-東京人的祭典日常-5個在地人才知道的社群盛典-f478d0.html
 published: 2026-06-28
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京祭典, 在地文化, 社區祭典, 日本祭典, 東京自由行
 license: CC BY 4.0
 ---

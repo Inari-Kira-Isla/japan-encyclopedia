@@ -6,7 +6,7 @@ category: temples-shrines
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-temples-shrines-nagoya-名古屋商務祈願指南-工業之城的神聖能量與事業成功祈願-7365bb.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 名古屋神社, 商務祈願, 事業成功, 職場信仰, 工業城市宗教
 license: CC BY 4.0
 ---

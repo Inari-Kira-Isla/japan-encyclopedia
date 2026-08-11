@@ -6,7 +6,7 @@ category: department-stores
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-department-stores-tokyo-東京百貨公司消費攻略-五大商圈避坑指南與預算分層購物地圖-abee36.html
 published: 2026-03-24
-quality_score: 7.5
+quality_score: 8.7
 tags: 東京購物, 百貨公司, 消費指南, 預算規劃, 商圈對比
 license: CC BY 4.0
 ---

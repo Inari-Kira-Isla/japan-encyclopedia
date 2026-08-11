@@ -6,7 +6,7 @@ category: gaming-arcades
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-gaming-arcades-kobe-神戶遊戲中心-港都街機與異國風情的邂逅-e261a7.html
 published: 2026-06-27
-quality_score: 6.5
+quality_score: 8.7
 tags: 神戶, 遊戲中心, 街機, 關西, 港都
 license: CC BY 4.0
 ---

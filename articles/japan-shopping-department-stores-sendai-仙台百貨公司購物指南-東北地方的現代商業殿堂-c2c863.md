@@ -6,7 +6,7 @@ category: department-stores
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-department-stores-sendai-仙台百貨公司購物指南-東北地方的現代商業殿堂-c2c863.html
 published: 2026-04-04
-quality_score: 7.5
+quality_score: 8.8
 tags: 仙台購物, 東北百貨, 日本購物, 免稅購物, 仙台旅遊
 license: CC BY 4.0
 ---

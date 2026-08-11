@@ -6,7 +6,7 @@ category: minshuku
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-sendai-仙台民宿完全指南-山海自然與當季食味的東北基地-05b193.html
 published: 2026-07-06
-quality_score: 6.5
+quality_score: 8.6
 tags: 仙台民宿, 東北住宿, 日本三景, 松島住宿, 藏王溫泉
 license: CC BY 4.0
 ---

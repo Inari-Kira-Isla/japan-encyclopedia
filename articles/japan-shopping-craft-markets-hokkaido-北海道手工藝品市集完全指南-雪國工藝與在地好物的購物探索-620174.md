@@ -6,7 +6,7 @@ category: craft-markets
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-craft-markets-hokkaido-北海道手工藝品市集完全指南-雪國工藝與在地好物的購物探索-620174.html
 published: 2026-05-22
-quality_score: 7.5
+quality_score: 8.7
 tags: hokkaido, craft-markets, 手 工藝市集, 北海道購物, 札幌
 license: CC BY 4.0
 ---

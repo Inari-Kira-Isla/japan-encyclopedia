@@ -6,7 +6,7 @@ category: ferries
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-ferries-kobe-神戶渡輪療癒之旅-海上慢行的人生片刻-f9fea3.html
 published: 2026-06-28
-quality_score: 7.5
+quality_score: 8.4
 tags: 神戶渡輪, 瀨戶內海, 海上交通, 慢旅行, 四國渡輪
 license: CC BY 4.0
 ---

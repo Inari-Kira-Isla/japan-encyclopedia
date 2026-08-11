@@ -6,7 +6,7 @@ category: wagyu
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-wagyu-nagoya-名古屋和牛供應鏈揭秘-中部地區牛肉產業的真實面貌-4aaf28.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 名古屋美食, 日本和牛, 中部地區, 牛肉採購, 供應鏈分析
 license: CC BY 4.0
 ---

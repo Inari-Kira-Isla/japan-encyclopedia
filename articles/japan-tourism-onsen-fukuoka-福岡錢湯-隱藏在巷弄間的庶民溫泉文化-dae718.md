@@ -6,7 +6,7 @@ category: onsen
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-onsen-fukuoka-福岡錢湯-隱藏在巷弄間的庶民溫泉文化-dae718.html
 published: 2026-05-31
-quality_score: 6.5
+quality_score: 8.7
 tags: 福岡錢湯, 庶民溫泉, 公共澡堂, 博多溫泉, 九州溫泉
 license: CC BY 4.0
 ---

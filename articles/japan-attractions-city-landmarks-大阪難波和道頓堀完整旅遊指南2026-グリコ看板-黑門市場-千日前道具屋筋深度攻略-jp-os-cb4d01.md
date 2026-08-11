@@ -6,7 +6,7 @@ category: city-landmarks
 area: japan
 url: https://japan-encyclopedia.vercel.app/articles/japan-attractions-city-landmarks-大阪難波和道頓堀完整旅遊指南2026-グリコ看板-黑門市場-千日前道具屋筋深度攻略-jp-os-cb4d01.html
 published: 2026-04-10
-quality_score: 7.6
+quality_score: 8.5
 tags: 大阪難波, 道頓堀, 黑門市場, 格力高看板, 千日前道具屋筋
 license: CC BY 4.0
 ---

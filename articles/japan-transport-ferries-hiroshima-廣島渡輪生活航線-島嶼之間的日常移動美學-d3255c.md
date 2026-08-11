@@ -6,7 +6,7 @@ category: ferries
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-ferries-hiroshima-廣島渡輪生活航線-島嶼之間的日常移動美學-d3255c.html
 published: 2026-06-04
-quality_score: 7.5
+quality_score: 7.9
 tags: 廣島渡輪, 瀨戶內海, 宮島航線, 島嶼交通, 廣島自由行
 license: CC BY 4.0
 ---

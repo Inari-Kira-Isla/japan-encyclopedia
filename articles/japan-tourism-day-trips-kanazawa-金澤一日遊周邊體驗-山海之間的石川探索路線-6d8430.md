@@ -6,7 +6,7 @@ category: day-trips
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-kanazawa-金澤一日遊周邊體驗-山海之間的石川探索路線-6d8430.html
 published: 2026-06-23
-quality_score: 6.5
+quality_score: 8.6
 tags: 金澤一日遊, 石川縣溫泉, 輪島漆器, 能登半島, 白山白川鄉
 license: CC BY 4.0
 ---

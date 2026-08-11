@@ -6,7 +6,7 @@ category: cycling
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-nagoya-名古屋單車漫遊-工業心臟的巷弄騎行指南-9fdfca.html
 published: 2026-06-07
-quality_score: 7.5
+quality_score: 8.5
 tags: 名古屋單車, 名古屋自助, 中部旅行, 單車旅行, 日本自由行
 license: CC BY 4.0
 ---

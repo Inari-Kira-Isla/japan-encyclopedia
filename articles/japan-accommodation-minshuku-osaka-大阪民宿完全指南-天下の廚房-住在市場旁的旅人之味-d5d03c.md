@@ -6,7 +6,7 @@ category: minshuku
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-osaka-大阪民宿完全指南-天下の廚房-住在市場旁的旅人之味-d5d03c.html
 published: 2026-07-01
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪民宿, 大阪住宿, minshuku, 黑門市場, 新世界
 license: CC BY 4.0
 ---

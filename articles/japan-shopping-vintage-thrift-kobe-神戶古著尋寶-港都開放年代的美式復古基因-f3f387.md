@@ -6,7 +6,7 @@ category: vintage-thrift
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-vintage-thrift-kobe-神戶古著尋寶-港都開放年代的美式復古基因-f3f387.html
 published: 2026-06-22
-quality_score: 7.5
+quality_score: 8.7
 tags: 神戶古著, vintage thrift, 關西古著, 港都古著, 神戶購物
 license: CC BY 4.0
 ---

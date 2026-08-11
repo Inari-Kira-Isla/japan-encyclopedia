@@ -6,7 +6,7 @@ category: ski-resorts
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-ski-resorts-kobe-神戶周邊滑雪場-關西山城與北播磨地區的雪國秘境-7bd0e3.html
 published: 2026-05-25
-quality_score: 6.5
+quality_score: 8.4
 tags: 神戶滑雪, 關西滑雪場, 北播磨, 兵庫縣冬季運動, 日本初學者滑雪
 license: CC BY 4.0
 ---

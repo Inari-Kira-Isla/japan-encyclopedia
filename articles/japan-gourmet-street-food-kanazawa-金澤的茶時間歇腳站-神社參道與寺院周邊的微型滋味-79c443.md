@@ -6,7 +6,7 @@ category: street-food
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-street-food-kanazawa-金澤的茶時間歇腳站-神社參道與寺院周邊的微型滋味-79c443.html
 published: 2026-06-12
-quality_score: 6.5
+quality_score: 8.8
 tags: 金澤, 街頭美食, 神社參道, 和果子, 加賀
 license: CC BY 4.0
 ---

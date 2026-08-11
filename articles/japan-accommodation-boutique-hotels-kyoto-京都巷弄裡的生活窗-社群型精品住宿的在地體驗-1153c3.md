@@ -6,7 +6,7 @@ category: boutique-hotels
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-kyoto-京都巷弄裡的生活窗-社群型精品住宿的在地體驗-1153c3.html
 published: 2026-06-24
-quality_score: 6.5
+quality_score: 8.5
 tags: 京都精品住宿, 町屋住宿, 京都深度遊, 社區型住宿, 祇園住宿
 license: CC BY 4.0
 ---

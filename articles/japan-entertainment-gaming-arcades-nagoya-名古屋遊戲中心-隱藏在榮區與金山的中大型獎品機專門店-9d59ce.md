@@ -6,7 +6,7 @@ category: gaming-arcades
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-gaming-arcades-nagoya-名古屋遊戲中心-隱藏在榮區與金山的中大型獎品機專門店-9d59ce.html
 published: 2026-06-19
-quality_score: 6.5
+quality_score: 8.6
 tags: 名古屋, 遊戲中心, 街機, 獎品機, 名古屋旅遊
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: airport-transfer
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-airport-transfer-sendai-仙台機場自駕放射狀旅遊-從東北玄關輻射至山形-福島的溫泉與美食之路-73386d.html
 published: 2026-06-21
-quality_score: 7.5
+quality_score: 8.6
 tags: 仙台機場, 東北自駕, 秋保溫泉, 山形拉麵, 米澤牛
 license: CC BY 4.0
 ---

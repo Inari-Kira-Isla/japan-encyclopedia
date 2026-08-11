@@ -6,7 +6,7 @@ category: craft-markets
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-craft-markets-hiroshima-廣島藝術散步-從和平廣場到尾道古路的文創小店探險-d22dd7.html
 published: 2026-06-25
-quality_score: 7.5
+quality_score: 8.5
 tags: 廣島手工藝, 尾道藝術, 瀨戶內海工坊, 和平主題創作, 日本中國地方
 license: CC BY 4.0
 ---

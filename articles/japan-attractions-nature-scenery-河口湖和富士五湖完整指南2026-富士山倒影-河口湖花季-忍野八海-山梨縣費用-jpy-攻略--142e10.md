@@ -6,7 +6,7 @@ category: nature-scenery
 area: japan
 url: https://japan-encyclopedia.vercel.app/articles/japan-attractions-nature-scenery-河口湖和富士五湖完整指南2026-富士山倒影-河口湖花季-忍野八海-山梨縣費用-jpy-攻略--142e10.html
 published: 2026-04-01
-quality_score: 7.1
+quality_score: 8.6
 tags: 河口湖, 富士五湖, 忍野八海, 富士山倒影, 山梨旅遊
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: temple-stays
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-temple-stays-nara-奈良宿坊深度遊-古都寺院的生活方式體驗-4fcfa7.html
 published: 2026-07-01
-quality_score: 6.5
+quality_score: 8.5
 tags: 奈良宿坊, 寺廟住宿, 日本古都, 佛教文化, 世界遺產
 license: CC BY 4.0
 ---

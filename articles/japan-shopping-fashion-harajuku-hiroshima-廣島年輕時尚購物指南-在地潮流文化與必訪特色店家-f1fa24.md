@@ -6,7 +6,7 @@ category: fashion-harajuku
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-fashion-harajuku-hiroshima-廣島年輕時尚購物指南-在地潮流文化與必訪特色店家-f1fa24.html
 published: 2026-06-05
-quality_score: 7.5
+quality_score: 8.9
 tags: 
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: vr-experiences
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-vr-experiences-kyoto-京都的vr文化體驗-穿越古今的虛實交融-79401f.html
 published: 2026-06-05
-quality_score: 6.5
+quality_score: 8.4
 tags: 京都, VR體驗, 文化旅行, 日本娛樂, 京都旅遊
 license: CC BY 4.0
 ---

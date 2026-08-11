@@ -6,7 +6,7 @@ category: jr-pass
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-jr-pass-hiroshima-廣島jr-pass進階攻略-搭鐵道深入中國地區秘境-體驗被時光遺忘的山陰山陽-2222bb.html
 published: 2026-07-05
-quality_score: 7.5
+quality_score: 8.7
 tags: 廣島JR Pass, 中國地區鐵道, 山陰山陽秘境, 津和野, 石見銀山
 license: CC BY 4.0
 ---

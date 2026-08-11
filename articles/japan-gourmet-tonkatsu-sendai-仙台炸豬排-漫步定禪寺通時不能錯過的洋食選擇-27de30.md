@@ -6,7 +6,7 @@ category: tonkatsu
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tonkatsu-sendai-仙台炸豬排-漫步定禪寺通時不能錯過的洋食選擇-27de30.html
 published: 2026-06-04
-quality_score: 6.5
+quality_score: 8.4
 tags: 仙台炸豬排, 定禪寺通, 東北洋食, 日式炸豬排, 仙台旅遊
 license: CC BY 4.0
 ---

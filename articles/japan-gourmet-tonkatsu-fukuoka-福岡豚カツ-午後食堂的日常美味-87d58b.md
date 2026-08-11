@@ -6,7 +6,7 @@ category: tonkatsu
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tonkatsu-fukuoka-福岡豚カツ-午後食堂的日常美味-87d58b.html
 published: 2026-06-06
-quality_score: 6.5
+quality_score: 8.9
 tags: 福岡美食, 豚カツ, 九州料理, 洋食, 午餐推薦
 license: CC BY 4.0
 ---

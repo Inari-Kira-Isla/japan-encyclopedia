@@ -6,7 +6,7 @@ category: scenic-routes
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-kyoto-京都風景路線完全指南-古都千年的絕美步道與歷史街景-b1e75f.html
 published: 2026-03-20
-quality_score: 6.5
+quality_score: 8.6
 tags: 京都風景路線, 日本古都, 步行散策, 四季遊客, 傳統建築
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: nature-trails
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-hokkaido-北海道自然步道-根據季節與目的選對路徑的完全指南-9a720f.html
 published: 2026-05-24
-quality_score: 6.5
+quality_score: 8.5
 tags: 北海道, 自然步道, 戶外健行, 高山花卉, 國家公園
 license: CC BY 4.0
 ---

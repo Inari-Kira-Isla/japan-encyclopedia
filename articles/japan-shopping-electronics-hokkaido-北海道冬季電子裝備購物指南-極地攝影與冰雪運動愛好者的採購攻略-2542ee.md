@@ -6,7 +6,7 @@ category: electronics
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-electronics-hokkaido-北海道冬季電子裝備購物指南-極地攝影與冰雪運動愛好者的採購攻略-2542ee.html
 published: 2026-06-08
-quality_score: 7.5
+quality_score: 8.6
 tags: 北海道電子產品, 雪地攝影器材, 冬季戶外電子用品, 滑雪電子裝備, 札幌電子購物
 license: CC BY 4.0
 ---

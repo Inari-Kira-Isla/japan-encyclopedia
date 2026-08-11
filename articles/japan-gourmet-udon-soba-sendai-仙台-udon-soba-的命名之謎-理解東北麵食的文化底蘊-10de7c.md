@@ -6,7 +6,7 @@ category: udon-soba
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-udon-soba-sendai-仙台-udon-soba-的命名之謎-理解東北麵食的文化底蘊-10de7c.html
 published: 2026-05-24
-quality_score: 6.5
+quality_score: 8.5
 tags: 仙台, UDON SOBA, 東北美食, 味噌料理, 麵食文化
 license: CC BY 4.0
 ---

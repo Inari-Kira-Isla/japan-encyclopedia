@@ -6,7 +6,7 @@ category: temples-shrines
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-temples-shrines-okinawa-沖繩神社寺院健行指南-順著步道探訪山海聖地-967a08.html
 published: 2026-06-26
-quality_score: 6.5
+quality_score: 8.7
 tags: 沖繩神社, 沖繩寺院, 健行步道, 御嶽信仰, 自然靈地
 license: CC BY 4.0
 ---

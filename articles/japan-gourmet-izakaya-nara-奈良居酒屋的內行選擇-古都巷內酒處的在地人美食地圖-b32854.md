@@ -6,7 +6,7 @@ category: izakaya
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-izakaya-nara-奈良居酒屋的內行選擇-古都巷內酒處的在地人美食地圖-b32854.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.5
 tags: 奈良, 居酒屋, 古都, 關西, 美食
 license: CC BY 4.0
 ---

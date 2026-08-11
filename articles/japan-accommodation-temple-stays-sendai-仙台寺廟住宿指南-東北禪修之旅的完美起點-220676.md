@@ -6,7 +6,7 @@ category: temple-stays
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-temple-stays-sendai-仙台寺廟住宿指南-東北禪修之旅的完美起點-220676.html
 published: 2026-06-02
-quality_score: 6.5
+quality_score: 8.7
 tags: 仙台寺廟住宿, 東北宿坊, 日本禪修體驗, 山形寺廟, 藏王國家公園
 license: CC BY 4.0
 ---

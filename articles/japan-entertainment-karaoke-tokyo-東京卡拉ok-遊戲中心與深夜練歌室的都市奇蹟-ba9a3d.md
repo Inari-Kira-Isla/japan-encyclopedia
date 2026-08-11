@@ -6,7 +6,7 @@ category: karaoke
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-karaoke-tokyo-東京卡拉ok-遊戲中心與深夜練歌室的都市奇蹟-ba9a3d.html
 published: 2026-06-19
-quality_score: 6.5
+quality_score: 8.6
 tags: 東京卡拉OK, 秋葉原卡拉OK, 新宿卡拉OK, 遊戲中心, 東京娛樂
 license: CC BY 4.0
 ---

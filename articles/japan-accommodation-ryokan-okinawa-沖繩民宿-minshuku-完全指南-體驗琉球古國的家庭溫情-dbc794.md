@@ -6,7 +6,7 @@ category: ryokan
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-okinawa-沖繩民宿-minshuku-完全指南-體驗琉球古國的家庭溫情-dbc794.html
 published: 2026-06-07
-quality_score: 6.5
+quality_score: 8.6
 tags: 沖繩民宿, 沖繩住宿, minshuku, 沖繩自由行, 琉球文化
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: temples-shrines
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-temples-shrines-kobe-神戶神社寺院日常-港都商業信仰的地圖-bb533a.html
 published: 2026-06-12
-quality_score: 6.5
+quality_score: 8.6
 tags: 神戶神社, 神戶寺院, 港都信仰, 機能型神社, 神戶參拜
 license: CC BY 4.0
 ---

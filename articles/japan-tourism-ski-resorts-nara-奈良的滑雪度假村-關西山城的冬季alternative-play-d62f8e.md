@@ -6,7 +6,7 @@ category: ski-resorts
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-ski-resorts-nara-奈良的滑雪度假村-關西山城的冬季alternative-play-d62f8e.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 8.7
 tags: 奈良滑雪, 關西冬季, 大台ヶ原, 雪地健行, 吉野山
 license: CC BY 4.0
 ---

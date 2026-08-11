@@ -6,7 +6,7 @@ category: buses
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-buses-osaka-大阪夜間巴士與關西機場交通-徹夜狂歡後的實用指南-d43707.html
 published: 2026-06-16
-quality_score: 7.5
+quality_score: 8.5
 tags: 大阪巴士, 關西機場交通, 深夜公車, 大阪自由行, 關西機場利木津
 license: CC BY 4.0
 ---

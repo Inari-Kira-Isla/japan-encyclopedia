@@ -6,7 +6,7 @@ category: sumo
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-fukuoka-福岡相撲-博多的相撲文化與在地美食體驗-97106f.html
 published: 2026-06-11
-quality_score: 6.5
+quality_score: 8.7
 tags: 福岡相撲, 九州場所, 博多美食, 相撲文化, 博多名物
 license: CC BY 4.0
 ---

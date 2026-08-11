@@ -6,7 +6,7 @@ category: ferries
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-ferries-kyoto-京都水上交通-古都河川的詩意漫遊-3ba291-1782595738.html
 published: 2026-06-27
-quality_score: 7.5
+quality_score: 8.5
 tags: 京都水上交通, 河川遊覽船, 嵐山, 保津川, 鴨川
 license: CC BY 4.0
 ---

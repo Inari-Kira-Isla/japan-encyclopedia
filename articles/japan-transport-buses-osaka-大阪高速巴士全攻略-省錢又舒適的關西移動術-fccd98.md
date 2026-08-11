@@ -6,7 +6,7 @@ category: buses
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-buses-osaka-大阪高速巴士全攻略-省錢又舒適的關西移動術-fccd98.html
 published: 2026-06-24
-quality_score: 7.5
+quality_score: 8.5
 tags: 大阪交通, 高速巴士, 關西機場, 關西旅行, 省錢攻略
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: fashion-harajuku
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-fashion-harajuku-hiroshima-廣島時尚購物指南-紙鶴之都的潮流新地標-978006.html
 published: 2026-06-01
-quality_score: 7.5
+quality_score: 8.6
 tags: 廣島購物, 日本九州, 潮流服飾, 古著, 質感選貨店
 license: CC BY 4.0
 ---

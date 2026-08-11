@@ -6,7 +6,7 @@ category: vintage-thrift
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-vintage-thrift-nagoya-名古屋古著尋寶-從汽車城工廠到街頭的機能復古美學-dd9f38.html
 published: 2026-06-05
-quality_score: 7.5
+quality_score: 8.5
 tags: 名古屋古著, 中部古著,  Vintage Thrift, 機能古著, 工作服古著
 license: CC BY 4.0
 ---

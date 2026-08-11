@@ -6,7 +6,7 @@ category: ramen
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-ramen-kyoto-京都拉麵-古都的另類風景-東京大阪之外的第三種選擇-9f7758.html
 published: 2026-07-06
-quality_score: 6.5
+quality_score: 8.8
 tags: 京都拉麵, 京都美食, 日本拉麵, 關西拉麵, 京都旅遊
 license: CC BY 4.0
 ---

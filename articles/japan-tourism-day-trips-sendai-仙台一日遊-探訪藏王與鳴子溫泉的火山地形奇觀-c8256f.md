@@ -6,7 +6,7 @@ category: day-trips
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-sendai-仙台一日遊-探訪藏王與鳴子溫泉的火山地形奇觀-c8256f.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 8.9
 tags: 仙台一日遊, 藏王御釜, 鳴子溫泉, 日本火山地形, 東北自然秘境
 license: CC BY 4.0
 ---

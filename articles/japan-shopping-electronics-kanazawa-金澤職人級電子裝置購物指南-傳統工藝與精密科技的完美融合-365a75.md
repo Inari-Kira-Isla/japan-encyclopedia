@@ -6,7 +6,7 @@ category: electronics
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-electronics-kanazawa-金澤職人級電子裝置購物指南-傳統工藝與精密科技的完美融合-365a75.html
 published: 2026-04-05
-quality_score: 7.5
+quality_score: 8.6
 tags: 金澤購物, 精密儀器, 職人工具, 專業設備, 北陸電子
 license: CC BY 4.0
 ---

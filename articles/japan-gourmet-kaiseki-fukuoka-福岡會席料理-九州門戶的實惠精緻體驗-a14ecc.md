@@ -6,7 +6,7 @@ category: kaiseki
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-kaiseki-fukuoka-福岡會席料理-九州門戶的實惠精緻體驗-a14ecc.html
 published: 2026-05-21
-quality_score: 6.5
+quality_score: 8.7
 tags: 福岡會席料理, 九州美食, 博多渔港, 便宜懷石, 午餐套餐
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: island-hopping
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-island-hopping-hiroshima-廣島藝術跳島-瀨戶內海的創作之海-4d642b.html
 published: 2026-05-25
-quality_score: 6.5
+quality_score: 8.5
 tags: 廣島跳島, 瀨戶內海, 藝術跳島, 直島, 豐島
 license: CC BY 4.0
 ---

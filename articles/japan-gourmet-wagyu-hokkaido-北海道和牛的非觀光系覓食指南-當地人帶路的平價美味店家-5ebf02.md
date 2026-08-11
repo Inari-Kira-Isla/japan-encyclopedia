@@ -6,7 +6,7 @@ category: wagyu
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-wagyu-hokkaido-北海道和牛的非觀光系覓食指南-當地人帶路的平價美味店家-5ebf02.html
 published: 2026-06-10
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道和牛, 非觀光美食, 平價和牛, 帶廣美食, 札幌美食
 license: CC BY 4.0
 ---

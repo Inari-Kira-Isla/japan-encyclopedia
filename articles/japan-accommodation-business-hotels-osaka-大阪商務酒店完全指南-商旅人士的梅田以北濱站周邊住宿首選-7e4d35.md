@@ -6,7 +6,7 @@ category: business-hotels
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-business-hotels-osaka-大阪商務酒店完全指南-商旅人士的梅田以北濱站周邊住宿首選-7e4d35.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 8.6
 tags: 大阪, 商务酒店, 商旅住宿, 梅田, 北濱站
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: karaoke
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-karaoke-kyoto-京都卡拉ok-遠離人潮的在地歡唱指南-59cee4.html
 published: 2026-06-13
-quality_score: 6.5
+quality_score: 8.9
 tags: 京都, 卡拉OK, 在地體驗, 夜生活, 小眾推薦
 license: CC BY 4.0
 ---

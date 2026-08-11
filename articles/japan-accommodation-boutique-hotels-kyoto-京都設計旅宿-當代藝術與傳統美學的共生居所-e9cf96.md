@@ -6,7 +6,7 @@ category: boutique-hotels
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-kyoto-京都設計旅宿-當代藝術與傳統美學的共生居所-e9cf96.html
 published: 2026-05-25
-quality_score: 6.5
+quality_score: 8.7
 tags: 京都設計旅宿, 京都精品酒店, 京都藝術住宿, 京都住宿推薦, 東山區住宿
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: sushi
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sushi-kobe-神戶壽司-港都魚市場的隱藏版美食地圖-f3e163-1781435917.html
 published: 2026-06-14
-quality_score: 6.5
+quality_score: 8.7
 tags: 神戶壽司, 神戶美食, 瀨戶內海海產, 神戶牛肉壽司, 神戶旅遊
 license: CC BY 4.0
 ---

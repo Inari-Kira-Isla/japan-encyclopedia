@@ -6,7 +6,7 @@ category: nightlife
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-osaka-大阪夜生活-抹茶甜品與深夜的甜蜜革命-02f6e7.html
 published: 2026-06-23
-quality_score: 6.5
+quality_score: 8.9
 tags: 大阪夜生活, 抹茶甜品, 深夜美食, 關西夜遊, 日本甜點
 license: CC BY 4.0
 ---

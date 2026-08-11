@@ -6,7 +6,7 @@ category: jr-pass
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-jr-pass-nagoya-名古屋與中部地區鐵路周遊券-jr-pass選擇完全指南-df9745.html
 published: 2026-06-13
-quality_score: 7.5
+quality_score: 8.5
 tags: 名古屋, JR Pass, 日本中部, 高山, 妻籠宿
 license: CC BY 4.0
 ---

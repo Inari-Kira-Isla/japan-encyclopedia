@@ -6,7 +6,7 @@ category: capsule-hotels
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-capsule-hotels-kobe-神戶膠囊旅館-探索港都釀酒文化的質感住宿指南-54a312.html
 published: 2026-06-10
-quality_score: 6.5
+quality_score: 8.7
 tags: 神戶, 膠囊旅館, 日本住宿, 灘之酒藏, 關西住宿
 license: CC BY 4.0
 ---

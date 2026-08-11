@@ -6,7 +6,7 @@ category: sumo
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-osaka-大阪相撲體驗-關西力度美學的入門指南-9fec87.html
 published: 2026-06-15
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪相撲, 關西相撲, 相撲體驗, 道頓堀美食, 日本文化體驗
 license: CC BY 4.0
 ---

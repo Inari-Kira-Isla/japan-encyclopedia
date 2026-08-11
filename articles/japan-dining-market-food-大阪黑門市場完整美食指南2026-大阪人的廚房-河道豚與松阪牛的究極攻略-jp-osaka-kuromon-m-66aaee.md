@@ -6,7 +6,7 @@ category: market-food
 area: japan
 url: https://japan-encyclopedia.vercel.app/articles/japan-dining-market-food-大阪黑門市場完整美食指南2026-大阪人的廚房-河道豚與松阪牛的究極攻略-jp-osaka-kuromon-m-66aaee.html
 published: 2026-04-10
-quality_score: 6.1
+quality_score: 8.8
 tags: 大阪黑門市場, 大阪美食, 河豚, 道頓堀, 大阪市場
 license: CC BY 4.0
 ---

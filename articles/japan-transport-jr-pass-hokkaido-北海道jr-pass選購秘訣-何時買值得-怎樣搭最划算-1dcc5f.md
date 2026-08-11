@@ -6,7 +6,7 @@ category: jr-pass
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-jr-pass-hokkaido-北海道jr-pass選購秘訣-何時買值得-怎樣搭最划算-1dcc5f.html
 published: 2026-03-24
-quality_score: 7.5
+quality_score: 8.5
 tags: 北海道, JR Pass, 鐵路周遊券, 交通攻略, 日本旅遊
 license: CC BY 4.0
 ---

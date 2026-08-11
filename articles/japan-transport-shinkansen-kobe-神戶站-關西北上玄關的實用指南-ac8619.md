@@ -6,7 +6,7 @@ category: shinkansen
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-kobe-神戶站-關西北上玄關的實用指南-ac8619.html
 published: 2026-06-04
-quality_score: 7.5
+quality_score: 8.7
 tags: 神戶站, 關西新干线, 神戶交通, JR东海道新干线, 關西機場交通
 license: CC BY 4.0
 ---

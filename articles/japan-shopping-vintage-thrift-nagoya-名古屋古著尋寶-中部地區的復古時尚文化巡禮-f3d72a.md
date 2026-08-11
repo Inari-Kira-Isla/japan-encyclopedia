@@ -6,7 +6,7 @@ category: vintage-thrift
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-vintage-thrift-nagoya-名古屋古著尋寶-中部地區的復古時尚文化巡禮-f3d72a.html
 published: 2026-03-15
-quality_score: 7.5
+quality_score: 8.7
 tags: 名古屋購物, 古著文化, 二手服飾, 日本時尚, 復古風格
 license: CC BY 4.0
 ---

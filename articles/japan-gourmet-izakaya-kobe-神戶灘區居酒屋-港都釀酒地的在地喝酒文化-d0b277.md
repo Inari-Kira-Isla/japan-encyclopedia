@@ -6,7 +6,7 @@ category: izakaya
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-izakaya-kobe-神戶灘區居酒屋-港都釀酒地的在地喝酒文化-d0b277.html
 published: 2026-06-07
-quality_score: 6.5
+quality_score: 8.6
 tags: 神戶, 居酒屋, 灘酒, 大阪, 關西
 license: CC BY 4.0
 ---

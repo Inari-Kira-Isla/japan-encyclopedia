@@ -6,7 +6,7 @@ category: boutique-hotels
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-nagoya-名古屋精品酒店-味覺散步路線中的棲居指南-55fe92.html
 published: 2026-06-22
-quality_score: 6.5
+quality_score: 8.6
 tags: 名古屋, 精品酒店, 美食住宿, 日本旅行, 名古屋美食
 license: CC BY 4.0
 ---

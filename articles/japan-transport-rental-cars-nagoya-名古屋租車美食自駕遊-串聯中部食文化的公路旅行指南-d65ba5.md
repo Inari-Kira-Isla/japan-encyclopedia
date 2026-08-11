@@ -6,7 +6,7 @@ category: rental-cars
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-nagoya-名古屋租車美食自駕遊-串聯中部食文化的公路旅行指南-d65ba5.html
 published: 2026-06-24
-quality_score: 7.5
+quality_score: 8.8
 tags: 名古屋租車, 美食自駕遊, 中部日本, 名古屋美食, 自駕旅行
 license: CC BY 4.0
 ---

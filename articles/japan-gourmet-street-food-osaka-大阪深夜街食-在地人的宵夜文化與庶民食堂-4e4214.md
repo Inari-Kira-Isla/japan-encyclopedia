@@ -6,7 +6,7 @@ category: street-food
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-street-food-osaka-大阪深夜街食-在地人的宵夜文化與庶民食堂-4e4214.html
 published: 2026-04-04
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪美食, 深夜街食, 在地文化, 立食文化, 關西料理
 license: CC BY 4.0
 ---

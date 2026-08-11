@@ -6,7 +6,7 @@ category: business-hotels
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-business-hotels-nagoya-名古屋商務酒店-豐田故鄉的產業住宿美學-ffaae1.html
 published: 2026-06-08
-quality_score: 6.5
+quality_score: 8.7
 tags: 名古屋商務酒店, 中部國際機場, 商務出差, 豐田故鄉, 名古屋站
 license: CC BY 4.0
 ---

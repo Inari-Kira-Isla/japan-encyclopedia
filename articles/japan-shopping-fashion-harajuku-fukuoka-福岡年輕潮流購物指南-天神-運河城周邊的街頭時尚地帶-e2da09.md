@@ -6,7 +6,7 @@ category: fashion-harajuku
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-fashion-harajuku-fukuoka-福岡年輕潮流購物指南-天神-運河城周邊的街頭時尚地帶-e2da09.html
 published: 2026-06-23
-quality_score: 7.5
+quality_score: 8.5
 tags: 福岡購物, 天神地下街, 運河城, 九州潮流, 古著
 license: CC BY 4.0
 ---

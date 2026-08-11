@@ -6,7 +6,7 @@ category: garden-parks
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-hokkaido-北海道農業花園巡禮-從農場到花園的創意轉型-514cbc.html
 published: 2026-06-29
-quality_score: 6.5
+quality_score: 8.5
 tags: 北海道花園, 農業體驗, 帶廣農場, 十勝平原, 農業遺產
 license: CC BY 4.0
 ---

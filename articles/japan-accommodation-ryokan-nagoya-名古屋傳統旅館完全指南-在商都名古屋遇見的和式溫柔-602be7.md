@@ -6,7 +6,7 @@ category: ryokan
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-nagoya-名古屋傳統旅館完全指南-在商都名古屋遇見的和式溫柔-602be7.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 8.8
 tags: 名古屋, Ryokan, 中部國際空港, 榮町, 一泊二食
 license: CC BY 4.0
 ---

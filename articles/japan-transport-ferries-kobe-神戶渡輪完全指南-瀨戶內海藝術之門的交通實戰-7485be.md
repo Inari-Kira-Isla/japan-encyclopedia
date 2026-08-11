@@ -6,7 +6,7 @@ category: ferries
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-ferries-kobe-神戶渡輪完全指南-瀨戶內海藝術之門的交通實戰-7485be.html
 published: 2026-06-01
-quality_score: 7.5
+quality_score: 8.7
 tags: 神戶渡輪, 瀨戶內海, 直島藝術, 神戶交通, 日本跳島
 license: CC BY 4.0
 ---

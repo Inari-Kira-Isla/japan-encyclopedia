@@ -6,7 +6,7 @@ category: shinkansen
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-okinawa-沖繩交通完全攻略-沒有新幹綫的島嶼-各式交通方式一次搞懂-ccfdd9.html
 published: 2026-06-01
-quality_score: 7.5
+quality_score: 8.7
 tags: 沖繩交通, 單軌電車, 沖繩自助, 日本鐵路, 沖繩自駕
 license: CC BY 4.0
 ---

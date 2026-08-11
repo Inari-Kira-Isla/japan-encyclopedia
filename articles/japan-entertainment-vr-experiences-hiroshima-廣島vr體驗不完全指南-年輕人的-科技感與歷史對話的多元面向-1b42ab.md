@@ -6,7 +6,7 @@ category: vr-experiences
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-vr-experiences-hiroshima-廣島vr體驗不完全指南-年輕人的-科技感與歷史對話的多元面向-1b42ab.html
 published: 2026-06-13
-quality_score: 6.5
+quality_score: 8.3
 tags: 廣島VR, 廣島娛樂, 廣島體驗, 廣島年輕人, VR體驗
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: temple-stays
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-temple-stays-okinawa-沖繩寺廟住宿-追隨季節節律的海島禪修之旅-315c77.html
 published: 2026-04-04
-quality_score: 6.5
+quality_score: 8.7
 tags: 沖繩, 寺廟住宿, 禪修, 季節旅遊, 琉球文化
 license: CC BY 4.0
 ---

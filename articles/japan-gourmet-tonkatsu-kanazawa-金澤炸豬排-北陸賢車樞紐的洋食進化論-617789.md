@@ -6,7 +6,7 @@ category: tonkatsu
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tonkatsu-kanazawa-金澤炸豬排-北陸賢車樞紐的洋食進化論-617789.html
 published: 2026-04-02
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤, 炸豬排, 日式洋食, 石川縣, 北陸
 license: CC BY 4.0
 ---

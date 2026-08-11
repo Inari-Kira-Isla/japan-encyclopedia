@@ -6,7 +6,7 @@ category: vintage-thrift
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-vintage-thrift-tokyo-東京古著尋寶秘徑-下北澤復古文化與潮流地圖-47b23a.html
 published: 2026-06-22
-quality_score: 7.5
+quality_score: 8.9
 tags: 東京古著, 下北澤, 復古時尚, 古著店, 東京購物
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: shinkansen
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-kyoto-京都新幹線-四季遊古都的高效攻略-f76af9.html
 published: 2026-03-27
-quality_score: 7.5
+quality_score: 8.7
 tags: 京都新幹線, 四季旅遊, 交通攻略, 季節限定, 古都
 license: CC BY 4.0
 ---

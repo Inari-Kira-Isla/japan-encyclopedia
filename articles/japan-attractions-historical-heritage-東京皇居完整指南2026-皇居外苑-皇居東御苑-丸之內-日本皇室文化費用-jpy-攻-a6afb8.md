@@ -6,7 +6,7 @@ category: historical-heritage
 area: japan
 url: https://japan-encyclopedia.vercel.app/articles/japan-attractions-historical-heritage-東京皇居完整指南2026-皇居外苑-皇居東御苑-丸之內-日本皇室文化費用-jpy-攻-a6afb8.html
 published: 2026-04-25
-quality_score: 7.6
+quality_score: 8.5
 tags: 東京皇居, 皇居外苑, 皇居東御苑, 丸之內, 東京歷史
 license: CC BY 4.0
 ---

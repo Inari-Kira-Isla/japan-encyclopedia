@@ -6,7 +6,7 @@ category: izakaya
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-izakaya-tokyo-東京站的居酒屋-後疫情時代的立飲文化與巷弄酒食美學-3daba9.html
 published: 2026-04-08
-quality_score: 6.5
+quality_score: 8.8
 tags: 東京居酒屋, 立飲文化, 吉祥寺, 下北澤, 澀谷夜生活
 license: CC BY 4.0
 ---

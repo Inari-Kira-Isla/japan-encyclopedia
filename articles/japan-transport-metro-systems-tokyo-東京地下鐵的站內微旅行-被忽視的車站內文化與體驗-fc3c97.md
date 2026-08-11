@@ -6,7 +6,7 @@ category: metro-systems
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-tokyo-東京地下鐵的站內微旅行-被忽視的車站內文化與體驗-fc3c97.html
 published: 2026-06-23
-quality_score: 7.5
+quality_score: 8.6
 tags: 東京地下鐵, Tokyo Metro, 東京交通, 東京Metro系統, 地下鐵攻略
 license: CC BY 4.0
 ---

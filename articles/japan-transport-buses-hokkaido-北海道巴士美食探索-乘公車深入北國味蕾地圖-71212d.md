@@ -6,7 +6,7 @@ category: buses
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-buses-hokkaido-北海道巴士美食探索-乘公車深入北國味蕾地圖-71212d.html
 published: 2026-06-13
-quality_score: 7.5
+quality_score: 8.5
 tags: 北海道巴士, 北海道美食, 北海道交通, 巴士美食, 北海道自駕
 license: CC BY 4.0
 ---

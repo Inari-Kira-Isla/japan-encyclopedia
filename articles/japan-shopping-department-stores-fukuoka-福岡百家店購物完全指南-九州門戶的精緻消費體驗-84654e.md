@@ -6,7 +6,7 @@ category: department-stores
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-department-stores-fukuoka-福岡百家店購物完全指南-九州門戶的精緻消費體驗-84654e.html
 published: 2026-06-01
-quality_score: 7.5
+quality_score: 8.6
 tags: 福岡購物, 百家店推薦, 日本九州, 博多家乡菜, 天神地下街
 license: CC BY 4.0
 ---

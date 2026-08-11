@@ -6,7 +6,7 @@ category: airport-transfer
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-airport-transfer-tokyo-東京機場交通全攻略-從-成田與虹橋機場進入市區的明智選擇-544365.html
 published: 2026-06-14
-quality_score: 7.5
+quality_score: 8.5
 tags: 東京機場交通, 、成田機場, 虹橋機場, 機場接送, 日本交通
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: izakaya
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-izakaya-nara-奈良酒藏巡禮-深入在地人氣居酒屋的釀酒鄉-843476.html
 published: 2026-06-30
-quality_score: 6.5
+quality_score: 8.6
 tags: 奈良居酒屋, 日本古都美食, 大和釀酒, 柿葉壽司, 奈良深度旅行
 license: CC BY 4.0
 ---

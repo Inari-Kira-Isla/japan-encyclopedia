@@ -6,7 +6,7 @@ category: vintage-thrift
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-vintage-thrift-kobe-神戶古著尋寶-港都風情的復古時尚密境-6246aa.html
 published: 2026-07-04
-quality_score: 7.5
+quality_score: 8.8
 tags: 神戶古著, 神戶購物, 關西古著, 港都古著, 日本古著推薦
 license: CC BY 4.0
 ---

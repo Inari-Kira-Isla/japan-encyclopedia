@@ -6,7 +6,7 @@ category: ferries
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-ferries-hokkaido-北海道渡輪之旅-航向北方大海的移動式觀光體驗-fd256a.html
 published: 2026-06-07
-quality_score: 7.5
+quality_score: 8.2
 tags: 北海道渡輪, 破冰船, 利尻島, 禮文島, 賞鯨
 license: CC BY 4.0
 ---

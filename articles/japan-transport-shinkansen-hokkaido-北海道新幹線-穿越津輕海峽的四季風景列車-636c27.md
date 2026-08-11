@@ -6,7 +6,7 @@ category: shinkansen
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-hokkaido-北海道新幹線-穿越津輕海峽的四季風景列車-636c27.html
 published: 2026-04-06
-quality_score: 7.5
+quality_score: 8.7
 tags: 北海道新幹線, 青函隧道, 北海道交通, 日本鐵路旅行, 津輕海峽
 license: CC BY 4.0
 ---

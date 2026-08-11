@@ -6,7 +6,7 @@ category: souvenir-omiyage
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-souvenir-omiyage-osaka-大阪平價伴手禮聰明購-日本百圓店與在地超市的省錢伴手禮攻略-ec8cca.html
 published: 2026-06-07
-quality_score: 7.5
+quality_score: 8.7
 tags: 大阪伴手禮, 大阪購物, 百圓店, 日本伴手禮文化, 大阪自由行
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: sake-brewery
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sake-brewery-nara-奈良酒蔵巡禮-神社與酒造的千年物語-9ccd9c.html
 published: 2026-06-11
-quality_score: 6.5
+quality_score: 8.8
 tags: 奈良, 日本清酒, 酒蔵, 釀造, 神社
 license: CC BY 4.0
 ---

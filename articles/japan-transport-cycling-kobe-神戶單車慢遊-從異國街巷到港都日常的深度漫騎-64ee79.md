@@ -6,7 +6,7 @@ category: cycling
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-kobe-神戶單車慢遊-從異國街巷到港都日常的深度漫騎-64ee79.html
 published: 2026-07-06
-quality_score: 7.5
+quality_score: 8.9
 tags: 神戶單車, 神戶自由行, 北野町, 南京町, Harborland
 license: CC BY 4.0
 ---

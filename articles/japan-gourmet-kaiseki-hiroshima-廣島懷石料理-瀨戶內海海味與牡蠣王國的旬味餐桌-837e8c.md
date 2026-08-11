@@ -6,7 +6,7 @@ category: kaiseki
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-kaiseki-hiroshima-廣島懷石料理-瀨戶內海海味與牡蠣王國的旬味餐桌-837e8c.html
 published: 2026-05-21
-quality_score: 6.5
+quality_score: 8.8
 tags: 廣島美食, 瀨戶內海, 懷石料理, 岩牡蠣, 日本料理
 license: CC BY 4.0
 ---

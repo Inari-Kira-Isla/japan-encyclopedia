@@ -6,7 +6,7 @@ category: festivals-matsuri
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-festivals-matsuri-hiroshima-廣島祭典完全指南-瀨戶內的夏夜盛典與在地人推薦的深度體驗-50df32.html
 published: 2026-04-02
-quality_score: 6.5
+quality_score: 8.9
 tags: 廣島祭, 日本祭典, 夏祭, 瀨戶內海, 廣島自由行
 license: CC BY 4.0
 ---

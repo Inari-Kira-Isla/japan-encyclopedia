@@ -6,7 +6,7 @@ category: shinkansen
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-okinawa-沖繩交通解密-沒有新幹線の島嶼-旅客常見的三大誤區與真實選擇-55faee.html
 published: 2026-07-05
-quality_score: 7.5
+quality_score: 8.8
 tags: 沖繩交通, 沖繩自由行, 沖繩單軌電車, 沖繩巴士, 沖繩渡輪
 license: CC BY 4.0
 ---

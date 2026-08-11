@@ -6,7 +6,7 @@ category: temples-shrines
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-temples-shrines-hokkaido-北海道神社寺院-雪國的自然靈性與多文化交流-d0a99f.html
 published: 2026-05-22
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道神社, 北海道寺廟, 札幌宗教景點, 北海道自駕, 冬天北海道
 license: CC BY 4.0
 ---

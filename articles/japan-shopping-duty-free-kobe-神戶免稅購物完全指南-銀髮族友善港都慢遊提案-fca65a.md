@@ -6,7 +6,7 @@ category: duty-free
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-duty-free-kobe-神戶免稅購物完全指南-銀髮族友善港都慢遊提案-fca65a.html
 published: 2026-07-02
-quality_score: 7.5
+quality_score: 8.7
 tags: 神戶免稅, 銀髮族旅遊, 關西購物, 日本免稅店, 神戶自由行
 license: CC BY 4.0
 ---

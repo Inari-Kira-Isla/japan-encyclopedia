@@ -6,7 +6,7 @@ category: matcha-sweets
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-matcha-sweets-osaka-大阪抹茶甜點-新世代職人的創新美學-0f7a4e.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.8
 tags: 大阪美食, 抹茶甜點, 新世代職人, 創意甜品, Instagram打卡
 license: CC BY 4.0
 ---

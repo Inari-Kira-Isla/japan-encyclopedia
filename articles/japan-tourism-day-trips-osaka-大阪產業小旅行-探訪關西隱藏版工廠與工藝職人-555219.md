@@ -6,7 +6,7 @@ category: day-trips
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-osaka-大阪產業小旅行-探訪關西隱藏版工廠與工藝職人-555219.html
 published: 2026-07-03
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪一日遊, 關西工廠參觀, 大阪深度旅遊, 日本體驗行程, 泉州高爾夫
 license: CC BY 4.0
 ---

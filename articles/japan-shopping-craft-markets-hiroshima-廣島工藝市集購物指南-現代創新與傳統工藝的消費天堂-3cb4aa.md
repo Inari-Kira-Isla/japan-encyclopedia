@@ -6,7 +6,7 @@ category: craft-markets
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-craft-markets-hiroshima-廣島工藝市集購物指南-現代創新與傳統工藝的消費天堂-3cb4aa.html
 published: 2026-04-04
-quality_score: 7.5
+quality_score: 8.8
 tags: 廣島購物, 日本工藝, 市集指南, 旅遊購物, 傳統手作
 license: CC BY 4.0
 ---

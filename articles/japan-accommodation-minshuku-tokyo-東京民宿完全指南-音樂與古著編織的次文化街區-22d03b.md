@@ -6,7 +6,7 @@ category: minshuku
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-tokyo-東京民宿完全指南-音樂與古著編織的次文化街區-22d03b.html
 published: 2026-06-29
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京民宿, 高円寺, 下北澤, 次文化, 古著
 license: CC BY 4.0
 ---

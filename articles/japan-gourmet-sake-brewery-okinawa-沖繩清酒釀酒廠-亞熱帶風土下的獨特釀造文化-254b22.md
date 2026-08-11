@@ -6,7 +6,7 @@ category: sake-brewery
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sake-brewery-okinawa-沖繩清酒釀酒廠-亞熱帶風土下的獨特釀造文化-254b22.html
 published: 2026-04-04
-quality_score: 6.5
+quality_score: 8.7
 tags: 沖繩清酒, 日本酒, 琉球文化, 美食配對, 酒廠參觀
 license: CC BY 4.0
 ---

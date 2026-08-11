@@ -6,7 +6,7 @@ category: business-hotels
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-business-hotels-tokyo-東京樞紐商務酒店-車站直結的效率優先住宿選擇-c5781a.html
 published: 2026-06-21
-quality_score: 6.5
+quality_score: 8.5
 tags: 東京商務酒店, 鐵道樞紐, 駅直結, 商務住宿, 新宿
 license: CC BY 4.0
 ---

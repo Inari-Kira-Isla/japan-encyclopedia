@@ -6,7 +6,7 @@ category: 100-yen-shops
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-100-yen-shops-tokyo-東京100円商店地鐵沿線購物趣-通勤族與在地人的平價購物秘密基地-8785a6.html
 published: 2026-06-19
-quality_score: 7.5
+quality_score: 8.7
 tags: 東京百円商店, 下北澤, 吉祥寺, 自由之丘, 橫濱
 license: CC BY 4.0
 ---

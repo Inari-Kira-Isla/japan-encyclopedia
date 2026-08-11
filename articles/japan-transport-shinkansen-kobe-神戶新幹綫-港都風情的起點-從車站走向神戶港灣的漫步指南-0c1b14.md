@@ -6,7 +6,7 @@ category: shinkansen
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-kobe-神戶新幹綫-港都風情的起點-從車站走向神戶港灣的漫步指南-0c1b14.html
 published: 2026-05-24
-quality_score: 7.5
+quality_score: 8.6
 tags: 神戶, 新幹綫, 關西, 港灣城市, 夜景
 license: CC BY 4.0
 ---

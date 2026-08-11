@@ -6,7 +6,7 @@ category: beverages
 area: japan
 url: https://japan-encyclopedia.vercel.app/articles/japan-dining-beverages-日本三大烈酒完整指南2026-產地-酒廠與品嚐體驗深度攻略-jp-sake-shochu-guide-2026-8b50b4.html
 published: 2026-03-28
-quality_score: 7.6
+quality_score: 8.3
 tags: 日本清酒, 日本威士忌, 余市蒸餾所, 日本酒廠, 灘五鄉
 license: CC BY 4.0
 ---

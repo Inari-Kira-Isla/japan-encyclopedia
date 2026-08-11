@@ -6,7 +6,7 @@ category: ski-resorts
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-ski-resorts-sendai-仙台滑雪度假村-經濟實惠的東北雪場攻略-c876e5.html
 published: 2026-04-03
-quality_score: 6.5
+quality_score: 8.7
 tags: 仙台, 滑雪度假村, 東北滑雪, 預算旅行, 宮城縣
 license: CC BY 4.0
 ---

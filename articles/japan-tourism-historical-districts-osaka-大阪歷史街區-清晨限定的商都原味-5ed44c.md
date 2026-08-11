@@ -6,7 +6,7 @@ category: historical-districts
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-osaka-大阪歷史街區-清晨限定的商都原味-5ed44c.html
 published: 2026-07-02
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪歷史街區, 天滿橋, 新世界, 空堀長屋, 大阪清晨散步
 license: CC BY 4.0
 ---

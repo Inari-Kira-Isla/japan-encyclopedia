@@ -6,7 +6,7 @@ category: yakitori
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-yakitori-sendai-仙台燒鳥-東北銘柄雞的供應鏈美學-f92ae5.html
 published: 2026-06-26
-quality_score: 6.5
+quality_score: 8.5
 tags: 仙台燒鳥, 東北食材, 銘柄雞, 居酒屋文化, 東北美食
 license: CC BY 4.0
 ---

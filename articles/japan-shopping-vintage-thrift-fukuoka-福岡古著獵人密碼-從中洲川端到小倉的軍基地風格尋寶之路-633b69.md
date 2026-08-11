@@ -6,7 +6,7 @@ category: vintage-thrift
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-vintage-thrift-fukuoka-福岡古著獵人密碼-從中洲川端到小倉的軍基地風格尋寶之路-633b69.html
 published: 2026-07-02
-quality_score: 7.5
+quality_score: 8.7
 tags: 福岡古著, 軍工風格, 工裝, 美軍基地, 九州購物
 license: CC BY 4.0
 ---

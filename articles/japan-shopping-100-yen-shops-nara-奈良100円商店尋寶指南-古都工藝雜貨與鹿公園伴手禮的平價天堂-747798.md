@@ -6,7 +6,7 @@ category: 100-yen-shops
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-100-yen-shops-nara-奈良100円商店尋寶指南-古都工藝雜貨與鹿公園伴手禮的平價天堂-747798.html
 published: 2026-04-01
-quality_score: 7.5
+quality_score: 8.6
 tags: 奈良購物, 100円商店, 古都文化, 鹿公園伴手禮, 傳統工藝
 license: CC BY 4.0
 ---

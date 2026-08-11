@@ -6,7 +6,7 @@ category: tonkatsu
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tonkatsu-sendai-仙台炸豬排-東北洋食文化的核心-從米澤牛到國產豚的食材對決-6d283d.html
 published: 2026-05-22
-quality_score: 6.5
+quality_score: 8.5
 tags: 仙台美食, 東北洋食, 炸豬排, 日本豚料理, 仙台旅行
 license: CC BY 4.0
 ---

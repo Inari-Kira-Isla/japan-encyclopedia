@@ -6,7 +6,7 @@ category: ferries
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-ferries-osaka-大阪渡輪完全指南-海上商務通勤與效率旅行-250483.html
 published: 2026-06-03
-quality_score: 7.5
+quality_score: 8.7
 tags: 大阪交通, 渡輪遊覽, 關西機場接駁, 瀨戶內海渡輪, 四國島嶼交通
 license: CC BY 4.0
 ---

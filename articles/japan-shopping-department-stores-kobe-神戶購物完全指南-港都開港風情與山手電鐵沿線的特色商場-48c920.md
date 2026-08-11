@@ -6,7 +6,7 @@ category: department-stores
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-department-stores-kobe-神戶購物完全指南-港都開港風情與山手電鐵沿線的特色商場-48c920.html
 published: 2026-06-16
-quality_score: 7.5
+quality_score: 8.7
 tags: 神戶購物, 三宮站, 元町站, 南京町, 異人館
 license: CC BY 4.0
 ---

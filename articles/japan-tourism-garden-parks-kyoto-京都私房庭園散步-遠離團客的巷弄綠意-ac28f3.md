@@ -6,7 +6,7 @@ category: garden-parks
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-kyoto-京都私房庭園散步-遠離團客的巷弄綠意-ac28f3.html
 published: 2026-06-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 京都庭園, 私房景點, 左京區, 文化體驗, 茶道
 license: CC BY 4.0
 ---

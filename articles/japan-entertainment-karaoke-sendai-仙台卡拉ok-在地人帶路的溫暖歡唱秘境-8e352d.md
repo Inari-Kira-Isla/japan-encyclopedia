@@ -6,7 +6,7 @@ category: karaoke
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-karaoke-sendai-仙台卡拉ok-在地人帶路的溫暖歡唱秘境-8e352d.html
 published: 2026-07-03
-quality_score: 6.5
+quality_score: 8.7
 tags: 仙台, 卡拉OK, 東北溫泉, 在地文化, 夜景好去處
 license: CC BY 4.0
 ---

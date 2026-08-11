@@ -6,7 +6,7 @@ category: souvenir-omiyage
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-souvenir-omiyage-kanazawa-金澤伴手禮購買指南-根據不同預算與送禮物件的選購攻略-5034d9.html
 published: 2026-06-04
-quality_score: 7.5
+quality_score: 8.7
 tags: 金澤伴手禮, 金澤購物, 金箔特產, 石川縣旅遊, 加賀百萬石
 license: CC BY 4.0
 ---

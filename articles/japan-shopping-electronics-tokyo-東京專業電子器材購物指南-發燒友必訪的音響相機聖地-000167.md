@@ -6,7 +6,7 @@ category: electronics
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-electronics-tokyo-東京專業電子器材購物指南-發燒友必訪的音響相機聖地-000167.html
 published: 2026-06-10
-quality_score: 7.5
+quality_score: 6.9
 tags: 東京電子產品, 東京購物, 專業音響, 相機專賣店, 秋葉原
 license: CC BY 4.0
 ---

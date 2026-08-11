@@ -6,7 +6,7 @@ category: anime-manga
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-kyoto-京都動漫與傳統工藝的交錯美學-古都限定的手作體驗之旅-12e229.html
 published: 2026-05-21
-quality_score: 6.5
+quality_score: 8.6
 tags: 京都動漫, 京都漫才, 京都手作體驗, 日本傳統工藝, 古都御宅文化
 license: CC BY 4.0
 ---

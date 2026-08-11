@@ -6,7 +6,7 @@ category: day-trips
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-fukuoka-福岡周邊秘境一日遊-達人才知道的在地私房路線-a7780d.html
 published: 2026-05-22
-quality_score: 6.5
+quality_score: 8.5
 tags: 九州自由行, 福岡一日遊, 由布院溫泉, 八女茶, 岡垣海岸
 license: CC BY 4.0
 ---

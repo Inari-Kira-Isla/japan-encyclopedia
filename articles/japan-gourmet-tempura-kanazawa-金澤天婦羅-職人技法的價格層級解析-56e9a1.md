@@ -6,7 +6,7 @@ category: tempura
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tempura-kanazawa-金澤天婦羅-職人技法的價格層級解析-56e9a1.html
 published: 2026-04-03
-quality_score: 6.5
+quality_score: 8.8
 tags: 金澤, 天婦羅, 職人技法, 北陸美食, 價格層級
 license: CC BY 4.0
 ---

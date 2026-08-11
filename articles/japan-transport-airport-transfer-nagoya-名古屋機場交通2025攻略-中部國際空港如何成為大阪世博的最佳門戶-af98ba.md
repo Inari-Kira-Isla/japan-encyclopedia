@@ -6,7 +6,7 @@ category: airport-transfer
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-airport-transfer-nagoya-名古屋機場交通2025攻略-中部國際空港如何成為大阪世博的最佳門戶-af98ba.html
 published: 2026-06-21
-quality_score: 7.5
+quality_score: 8.7
 tags: 名古屋機場交通, 中部國際空港, 2025大阪世博, 關西機場比較, 名古屋到大阪
 license: CC BY 4.0
 ---

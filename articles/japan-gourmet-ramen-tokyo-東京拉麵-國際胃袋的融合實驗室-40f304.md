@@ -6,7 +6,7 @@ category: ramen
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-ramen-tokyo-東京拉麵-國際胃袋的融合實驗室-40f304.html
 published: 2026-06-23
-quality_score: 6.5
+quality_score: 8.8
 tags: 東京拉麵, 日本美食, 拉麵推薦, 東京旅遊, 外國人拉麵店
 license: CC BY 4.0
 ---

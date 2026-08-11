@@ -6,7 +6,7 @@ category: hokkaido-food
 area: japan
 url: https://japan-encyclopedia.vercel.app/articles/japan-food-hokkaido-food-北海道札幌和農產美食完整指南2026-海鮮丼-白色戀人-時計臺-日本北方美食費用-jpy-攻略-jp-hokk-10029a.html
 published: 2026-03-29
-quality_score: 7.6
+quality_score: 8.5
 tags: 北海道, 札幌海鮮, 白色戀人, 北海道乳製品, 北海道農場
 license: CC BY 4.0
 ---

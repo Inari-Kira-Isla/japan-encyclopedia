@@ -6,7 +6,7 @@ category: wagyu
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-wagyu-kobe-神戶和牛購買與品嚐全攻略-從高階餐廳到家庭料理的實用指南-7df594.html
 published: 2026-05-22
-quality_score: 6.5
+quality_score: 8.5
 tags: 神戶, 和牛, 神戶牛, 日本美食, 兵库县
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: ferries
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-ferries-nara-奈良出發關西水上交通指南-搭乘渡輪探索瀨戶內海島嶼-f81c10.html
 published: 2026-05-24
-quality_score: 7.5
+quality_score: 8.7
 tags: 奈良旅遊, 關西渡輪, 瀨戶內海, 神戶港, 直島藝術
 license: CC BY 4.0
 ---

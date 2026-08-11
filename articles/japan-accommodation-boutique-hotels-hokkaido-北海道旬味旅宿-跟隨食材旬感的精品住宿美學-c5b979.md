@@ -6,7 +6,7 @@ category: boutique-hotels
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-hokkaido-北海道旬味旅宿-跟隨食材旬感的精品住宿美學-c5b979.html
 published: 2026-06-08
-quality_score: 6.5
+quality_score: 8.6
 tags: 北海道, 精品酒店, 美食住宿, 海鲜, 温泉
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: capsule-hotels
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-capsule-hotels-kyoto-京都膠囊旅館-一人旅的文化住宿新選擇-50c8eb.html
 published: 2026-06-04
-quality_score: 6.5
+quality_score: 8.6
 tags: 京都膠囊旅館, 日本住宿, 一人旅, 京都自由行, Budget Travel
 license: CC BY 4.0
 ---

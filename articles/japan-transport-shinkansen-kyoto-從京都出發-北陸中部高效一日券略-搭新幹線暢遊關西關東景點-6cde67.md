@@ -6,7 +6,7 @@ category: shinkansen
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-kyoto-從京都出發-北陸中部高效一日券略-搭新幹線暢遊關西關東景點-6cde67.html
 published: 2026-06-03
-quality_score: 7.5
+quality_score: 8.8
 tags: 京都車站, 新幹縣, 關西旅遊, 中部旅行, 一日遊
 license: CC BY 4.0
 ---

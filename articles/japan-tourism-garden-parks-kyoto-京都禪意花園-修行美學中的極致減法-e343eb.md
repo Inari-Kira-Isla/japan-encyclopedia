@@ -6,7 +6,7 @@ category: garden-parks
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-kyoto-京都禪意花園-修行美學中的極致減法-e343eb.html
 published: 2026-03-25
-quality_score: 6.5
+quality_score: 8.8
 tags: 京都, 花園公園, 禪意庭園, 枯山水, 日本文化
 license: CC BY 4.0
 ---

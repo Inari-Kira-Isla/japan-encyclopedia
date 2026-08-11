@@ -6,7 +6,7 @@ category: minshuku
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-kyoto-京都民宿精選指南-東山・祇園地區的家庭式住宿體驗-eb3792.html
 published: 2026-06-08
-quality_score: 6.5
+quality_score: 8.5
 tags: 京都, 民宿,  minshuku, 東山, 祇園
 license: CC BY 4.0
 ---

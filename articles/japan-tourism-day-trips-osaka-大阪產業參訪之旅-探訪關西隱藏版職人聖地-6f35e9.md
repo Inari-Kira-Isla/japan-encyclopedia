@@ -6,7 +6,7 @@ category: day-trips
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-osaka-大阪產業參訪之旅-探訪關西隱藏版職人聖地-6f35e9.html
 published: 2026-06-30
-quality_score: 6.5
+quality_score: 8.5
 tags: 大阪一日遊, 產業參訪, 職人體驗, 關西深度遊, 清酒釀造
 license: CC BY 4.0
 ---

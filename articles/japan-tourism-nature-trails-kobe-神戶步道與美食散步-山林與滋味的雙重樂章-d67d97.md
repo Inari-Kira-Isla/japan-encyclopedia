@@ -6,7 +6,7 @@ category: nature-trails
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-kobe-神戶步道與美食散步-山林與滋味的雙重樂章-d67d97.html
 published: 2026-06-26
-quality_score: 6.5
+quality_score: 8.7
 tags: 神戶步道, 神戶美食, 自然旅遊, 關西健行, 六甲山
 license: CC BY 4.0
 ---

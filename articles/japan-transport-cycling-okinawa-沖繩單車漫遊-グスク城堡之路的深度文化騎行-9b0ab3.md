@@ -6,7 +6,7 @@ category: cycling
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-okinawa-沖繩單車漫遊-グスク城堡之路的深度文化騎行-9b0ab3.html
 published: 2026-06-21
-quality_score: 7.5
+quality_score: 8.5
 tags: 沖繩單車, グ스크城堡, 深度文化騎行, 世界遺產, 自行車旅遊
 license: CC BY 4.0
 ---

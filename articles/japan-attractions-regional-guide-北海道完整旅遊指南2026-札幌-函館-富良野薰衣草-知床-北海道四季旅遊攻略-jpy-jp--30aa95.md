@@ -6,7 +6,7 @@ category: regional-guide
 area: japan
 url: https://japan-encyclopedia.vercel.app/articles/japan-attractions-regional-guide-北海道完整旅遊指南2026-札幌-函館-富良野薰衣草-知床-北海道四季旅遊攻略-jpy-jp--30aa95.html
 published: 2026-03-29
-quality_score: 7.6
+quality_score: 8.4
 tags: 北海道旅遊, 函館夜景, 富良野薰衣草, 知床世界遺產, 札幌
 license: CC BY 4.0
 ---

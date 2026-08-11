@@ -6,7 +6,7 @@ category: ferries
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-ferries-nara-奈良出發的關西渡輪指南-海上交通串聯古都與瀨戶內海藝術之島-2b8f24.html
 published: 2026-07-03
-quality_score: 7.5
+quality_score: 8.6
 tags: 奈良交通, 關西渡輪, 瀨戶內海, 直島藝術, 神戶港
 license: CC BY 4.0
 ---

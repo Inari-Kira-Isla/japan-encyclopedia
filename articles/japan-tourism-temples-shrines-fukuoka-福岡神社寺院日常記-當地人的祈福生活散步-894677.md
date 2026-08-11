@@ -6,7 +6,7 @@ category: temples-shrines
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-temples-shrines-fukuoka-福岡神社寺院日常記-當地人的祈福生活散步-894677.html
 published: 2026-06-17
-quality_score: 6.5
+quality_score: 8.6
 tags: 福岡, 神社, 寺院, 祈福, 太宰府天滿宮
 license: CC BY 4.0
 ---

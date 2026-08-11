@@ -6,7 +6,7 @@ category: onsen
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-onsen-nagoya-名古屋溫泉指南-中部商業重鎮的療癒片刻-c8dd3c.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 名古屋, 溫泉, 商務旅行, 都市溫泉, 日歸り溫泉
 license: CC BY 4.0
 ---

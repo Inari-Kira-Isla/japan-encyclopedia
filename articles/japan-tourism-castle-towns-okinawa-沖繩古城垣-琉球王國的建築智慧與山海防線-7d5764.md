@@ -6,7 +6,7 @@ category: castle-towns
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-castle-towns-okinawa-沖繩古城垣-琉球王國的建築智慧與山海防線-7d5764.html
 published: 2026-06-22
-quality_score: 6.5
+quality_score: 8.7
 tags: 沖繩古城, グスク, 琉球王國, 世界遺產, 首里城
 license: CC BY 4.0
 ---

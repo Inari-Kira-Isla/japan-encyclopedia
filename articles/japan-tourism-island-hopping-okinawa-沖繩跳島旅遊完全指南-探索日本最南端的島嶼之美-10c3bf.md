@@ -6,7 +6,7 @@ category: island-hopping
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-island-hopping-okinawa-沖繩跳島旅遊完全指南-探索日本最南端的島嶼之美-10c3bf.html
 published: 2026-03-15
-quality_score: 6.5
+quality_score: 8.7
 tags: 沖繩, 跳島旅遊, 石垣島, 宮古島, 西表島
 license: CC BY 4.0
 ---

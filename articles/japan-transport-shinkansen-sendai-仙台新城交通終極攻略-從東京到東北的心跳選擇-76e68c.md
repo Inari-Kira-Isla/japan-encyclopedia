@@ -6,7 +6,7 @@ category: shinkansen
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-sendai-仙台新城交通終極攻略-從東京到東北的心跳選擇-76e68c.html
 published: 2026-06-03
-quality_score: 7.5
+quality_score: 8.4
 tags: 仙台, 東北新娘線, 東京到仙台, 秘境溫泉, 秋保溫泉
 license: CC BY 4.0
 ---

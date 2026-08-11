@@ -6,7 +6,7 @@ category: fashion-luxury
 area: japan
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-fashion-luxury-東京時尚購物完整攻略2026-銀座-表參道-原宿-日本頂級購物費用深度分析-jp-japanese--e87ef6.html
 published: 2026-03-29
-quality_score: 7.6
+quality_score: 8.5
 tags: 東京銀座, 表參道購物, 原宿時尚, 東京購物攻略, 下北澤古著
 license: CC BY 4.0
 ---

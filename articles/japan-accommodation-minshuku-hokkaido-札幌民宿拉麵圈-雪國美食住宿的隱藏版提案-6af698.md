@@ -6,7 +6,7 @@ category: minshuku
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-hokkaido-札幌民宿拉麵圈-雪國美食住宿的隱藏版提案-6af698.html
 published: 2026-06-22
-quality_score: 6.5
+quality_score: 8.6
 tags: 北海道民宿, 札幌拉麵, 薄野住宿, 美食住宿, 冬季北海道
 license: CC BY 4.0
 ---

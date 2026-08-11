@@ -6,7 +6,7 @@ category: sushi
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sushi-okinawa-沖繩壽司的另一種可能-在地魚種與亞熱帶風土的味覺冒險-2cdafb.html
 published: 2026-06-02
-quality_score: 6.5
+quality_score: 8.8
 tags: 沖繩壽司, 縣產魚, 那霸美食, 沖縄すし, 海邊壽司店
 license: CC BY 4.0
 ---

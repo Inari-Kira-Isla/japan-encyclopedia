@@ -6,7 +6,7 @@ category: island-hopping
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-island-hopping-hokkaido-北海道跳島美食季曆-追隨海鮮豐饒的季節律動-97805c.html
 published: 2026-04-04
-quality_score: 6.5
+quality_score: 8.6
 tags: 北海道, 跳島旅遊, 海鮮美食, 季節料理, 離島觀光
 license: CC BY 4.0
 ---

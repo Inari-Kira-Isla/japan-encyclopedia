@@ -6,7 +6,7 @@ category: udon-soba
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-udon-soba-nara-奈良麵食深度指南-從寺院素齋到街巷老店的千年風味-14f4e8.html
 published: 2026-05-22
-quality_score: 6.5
+quality_score: 8.0
 tags: 奈良美食, 奈良烏龍麵, 奈良蕎麥麵, 關西料理, 日本佛教素齋
 license: CC BY 4.0
 ---

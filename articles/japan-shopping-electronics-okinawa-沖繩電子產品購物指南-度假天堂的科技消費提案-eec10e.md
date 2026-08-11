@@ -6,7 +6,7 @@ category: electronics
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-electronics-okinawa-沖繩電子產品購物指南-度假天堂的科技消費提案-eec10e.html
 published: 2026-06-24
-quality_score: 7.5
+quality_score: 8.5
 tags: 沖繩電子產品, 那霸購物, 日本電器, 免稅購物, 度假電子用品
 license: CC BY 4.0
 ---

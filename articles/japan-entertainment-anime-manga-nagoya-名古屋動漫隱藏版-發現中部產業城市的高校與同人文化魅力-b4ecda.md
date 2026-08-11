@@ -6,7 +6,7 @@ category: anime-manga
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-nagoya-名古屋動漫隱藏版-發現中部產業城市的高校與同人文化魅力-b4ecda.html
 published: 2026-06-18
-quality_score: 6.5
+quality_score: 8.9
 tags: 名古屋動漫, 中部朝聖, 隱藏版店鋪, 同人文化, 日本動漫之旅
 license: CC BY 4.0
 ---

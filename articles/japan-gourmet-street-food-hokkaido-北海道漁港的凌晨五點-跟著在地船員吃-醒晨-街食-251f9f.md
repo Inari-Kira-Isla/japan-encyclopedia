@@ -6,7 +6,7 @@ category: street-food
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-street-food-hokkaido-北海道漁港的凌晨五點-跟著在地船員吃-醒晨-街食-251f9f.html
 published: 2026-07-04
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道街頭美食, 朝市文化, 漁港小吃, 旭川拉麵, 釧路海鮮
 license: CC BY 4.0
 ---

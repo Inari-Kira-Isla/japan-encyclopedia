@@ -6,7 +6,7 @@ category: theme-parks
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-theme-parks-kobe-神戶夜間娛樂指南-港都的成人主題體驗-67de08.html
 published: 2026-04-06
-quality_score: 6.5
+quality_score: 8.7
 tags: 神戶娛樂, 夜生活, 成人主題, 港都體驗, 關西旅遊
 license: CC BY 4.0
 ---

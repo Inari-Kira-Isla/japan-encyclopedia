@@ -6,7 +6,7 @@ category: day-trips
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-kanazawa-金澤出發一日遊-佐渡島跳島冒險與日本海沿岸秘境-3e6e91.html
 published: 2026-06-02
-quality_score: 6.5
+quality_score: 8.4
 tags: 日本自助旅行, 金澤一日遊, 佐渡島, 石川縣, 日本海
 license: CC BY 4.0
 ---

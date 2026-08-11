@@ -6,7 +6,7 @@ category: metro-systems
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-okinawa-okinawa-metro-systems-76992c.html
 published: 2026-03-24
-quality_score: 6.5
+quality_score: 7.0
 tags: metro-systems, okinawa, japan
 license: CC BY 4.0
 ---

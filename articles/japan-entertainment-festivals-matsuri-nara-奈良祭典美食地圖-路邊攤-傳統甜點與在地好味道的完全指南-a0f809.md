@@ -6,7 +6,7 @@ category: festivals-matsuri
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-festivals-matsuri-nara-奈良祭典美食地圖-路邊攤-傳統甜點與在地好味道的完全指南-a0f809.html
 published: 2026-06-14
-quality_score: 6.5
+quality_score: 8.7
 tags: 奈良祭典, 日本祭典, 奈良美食, 路邊攤, 日本傳統甜點
 license: CC BY 4.0
 ---

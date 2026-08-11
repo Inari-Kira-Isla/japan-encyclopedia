@@ -6,7 +6,7 @@ category: scenic-routes
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-kobe-神戶市區人文景觀散步-異國建築-華埠與港灣的跨文化路線-a2c473.html
 published: 2026-07-01
-quality_score: 6.5
+quality_score: 8.7
 tags: 神戶景觀路線, 神戶散步, 北野異人館, 南京町, 神戶港
 license: CC BY 4.0
 ---

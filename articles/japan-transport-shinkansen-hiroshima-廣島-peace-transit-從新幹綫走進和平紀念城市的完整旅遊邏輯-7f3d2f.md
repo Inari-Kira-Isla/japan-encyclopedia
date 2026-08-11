@@ -6,7 +6,7 @@ category: shinkansen
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-hiroshima-廣島-peace-transit-從新幹綫走進和平紀念城市的完整旅遊邏輯-7f3d2f.html
 published: 2026-06-05
-quality_score: 7.5
+quality_score: 8.8
 tags: 廣島, 山陽新幹綫, 和平紀念, 日本鐵道, 宮島
 license: CC BY 4.0
 ---

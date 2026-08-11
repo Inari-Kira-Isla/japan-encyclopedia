@@ -6,7 +6,7 @@ category: ryokan
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-tokyo-東京都會溫泉宿-繁華深處的湯治美學-b68fe2.html
 published: 2026-06-28
-quality_score: 6.5
+quality_score: 8.4
 tags: 東京溫泉, 都會溫泉, Ryokan, 一泊二食, 東京住宿
 license: CC BY 4.0
 ---

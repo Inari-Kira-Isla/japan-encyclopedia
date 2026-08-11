@@ -6,7 +6,7 @@ category: ryokan
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-nagoya-名古屋商務與和風交會-出差族的質感住宿提案-51fbcd.html
 published: 2026-07-01
-quality_score: 6.5
+quality_score: 8.8
 tags: 名古屋住宿, Ryokan推薦, 商務旅行, 中部日本, 都市住宿
 license: CC BY 4.0
 ---

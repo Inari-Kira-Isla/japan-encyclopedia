@@ -6,7 +6,7 @@ category: sushi
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sushi-nara-奈良壽司-古都山林與海岸的旬味交匯-442224.html
 published: 2026-06-04
-quality_score: 6.5
+quality_score: 8.7
 tags: 奈良美食, 奈良壽司, 關西山海','河鮮料理','古都美食, 奈良旅行
 license: CC BY 4.0
 ---

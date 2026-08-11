@@ -6,7 +6,7 @@ category: matcha-sweets
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-matcha-sweets-fukuoka-福岡抹茶甜品-九州門戶的八女茶香甜蜜時光-d3a11b.html
 published: 2026-03-20
-quality_score: 6.5
+quality_score: 8.7
 tags: 福岡, 抹茶甜品, 八女茶, 九州美食, 日式甜點
 license: CC BY 4.0
 ---

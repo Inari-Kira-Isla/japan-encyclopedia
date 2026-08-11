@@ -6,7 +6,7 @@ category: tempura
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tempura-kobe-神戶天婦羅-港都百年風華的味覺遺產-7fe2f5.html
 published: 2026-06-06
-quality_score: 6.5
+quality_score: 8.7
 tags: 神戶, 天婦羅, 關西料理, 港都美食, 異人館
 license: CC BY 4.0
 ---

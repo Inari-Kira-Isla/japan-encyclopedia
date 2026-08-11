@@ -6,7 +6,7 @@ category: fashion-harajuku
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-fashion-harajuku-hiroshima-廣島年輕時尚文化導覽-不同於東京原宿的山陽魅力-89505a.html
 published: 2026-06-24
-quality_score: 7.5
+quality_score: 8.6
 tags: 廣島購物, 日本年輕時尚, 廣島自由行, 中國地方購物, 日本古著
 license: CC BY 4.0
 ---

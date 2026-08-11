@@ -6,7 +6,7 @@ category: whisky-culture
 area: japan
 url: https://japan-encyclopedia.vercel.app/articles/japan-food-whisky-culture-日本威士忌完整指南2026-三得利-nikka-山崎蒸溜所-日本威士忌費用-jpy-攻略-jp-japan--0bd98c.html
 published: 2026-03-29
-quality_score: 7.6
+quality_score: 8.5
 tags: 日本威士忌, 三得利山崎蒸溜所, Nikka余市蒸溜所, 日本酒廠, 山崎威士忌
 license: CC BY 4.0
 ---

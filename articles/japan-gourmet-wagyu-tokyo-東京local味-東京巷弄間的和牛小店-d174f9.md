@@ -6,7 +6,7 @@ category: wagyu
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-wagyu-tokyo-東京local味-東京巷弄間的和牛小店-d174f9.html
 published: 2026-06-05
-quality_score: 6.5
+quality_score: 8.6
 tags: 東京美食, 和牛, 下北澤, 高円寺, 中目黑
 license: CC BY 4.0
 ---

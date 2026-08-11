@@ -6,7 +6,7 @@ category: souvenir-omiyage
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-souvenir-omiyage-hiroshima-廣島伴手禮鐵道購物指南-電鐵沿線的在地好物-724c7d.html
 published: 2026-06-19
-quality_score: 7.5
+quality_score: 8.7
 tags: 廣島伴手禮, 廣島電鐵, 宮島口, 紙屋町, 八汀
 license: CC BY 4.0
 ---

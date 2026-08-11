@@ -6,7 +6,7 @@ category: airport-transfer
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-airport-transfer-kyoto-京都機場交通完全攻略-從關西機場到古都的最佳路線選擇-54a92a.html
 published: 2026-04-02
-quality_score: 7.5
+quality_score: 8.5
 tags: 京都交通, 關西機場, HARUKA特急, 京阪電車, 日本自由行
 license: CC BY 4.0
 ---

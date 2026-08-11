@@ -6,7 +6,7 @@ category: capsule-hotels
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-capsule-hotels-nara-奈良宿坊體驗的現代選擇-膠囊旅館與古都參拜文化-540d6b.html
 published: 2026-06-07
-quality_score: 6.5
+quality_score: 8.7
 tags: 奈良住宿, 膠囊旅館, 古都參拜, 世界遺產, 奈良公園
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: scenic-routes
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-hiroshima-廣島巷弄食旅散步-深入local日常的隱藏版路線-5ee995.html
 published: 2026-06-22
-quality_score: 6.5
+quality_score: 8.7
 tags: 廣島散步, 食旅推薦, 在地文化, 巷弄探索, 咖啡文化
 license: CC BY 4.0
 ---

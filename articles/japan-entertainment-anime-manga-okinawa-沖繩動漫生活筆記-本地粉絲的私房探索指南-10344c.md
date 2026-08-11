@@ -6,7 +6,7 @@ category: anime-manga
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-okinawa-沖繩動漫生活筆記-本地粉絲的私房探索指南-10344c.html
 published: 2026-05-25
-quality_score: 6.5
+quality_score: 8.5
 tags: 沖繩動漫, 沖繩漫畫, 南國御宅文化, 九州動漫之旅, 日本郊區動漫
 license: CC BY 4.0
 ---

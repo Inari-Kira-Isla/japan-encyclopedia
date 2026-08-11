@@ -6,7 +6,7 @@ category: nature-trails
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-kyoto-京都自然步道攝影指南-鏡頭下的古都山林四季美景-ebbabf.html
 published: 2026-06-15
-quality_score: 6.5
+quality_score: 8.6
 tags: 京都自然步道, 攝影指南, 古都山林, 春季攝影, 秋季攝影
 license: CC BY 4.0
 ---

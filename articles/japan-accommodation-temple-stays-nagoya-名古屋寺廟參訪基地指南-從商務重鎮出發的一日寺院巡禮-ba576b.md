@@ -6,7 +6,7 @@ category: temple-stays
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-temple-stays-nagoya-名古屋寺廟參訪基地指南-從商務重鎮出發的一日寺院巡禮-ba576b.html
 published: 2026-06-16
-quality_score: 6.5
+quality_score: 8.7
 tags: 名古屋寺廟參訪, 比叡山延曆寺, 高野山宿坊, 吉野山修驗道場, 寺院一日遊
 license: CC BY 4.0
 ---

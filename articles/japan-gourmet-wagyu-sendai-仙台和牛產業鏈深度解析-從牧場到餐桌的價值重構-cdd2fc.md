@@ -6,7 +6,7 @@ category: wagyu
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-wagyu-sendai-仙台和牛產業鏈深度解析-從牧場到餐桌的價值重構-cdd2fc.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 仙台牛, 和牛產業, 供應鏈, 投資分析, 宮城縣
 license: CC BY 4.0
 ---

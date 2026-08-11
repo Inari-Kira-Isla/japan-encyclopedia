@@ -6,7 +6,7 @@ category: temples-shrines
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-temples-shrines-fukuoka-福岡神社寺院完全指南-港口城市的商旅祈福與跨海信仰-2c2cba.html
 published: 2026-06-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 福岡神社, 九州寺院, 港口城市, 筥崎宮, 東長寺
 license: CC BY 4.0
 ---

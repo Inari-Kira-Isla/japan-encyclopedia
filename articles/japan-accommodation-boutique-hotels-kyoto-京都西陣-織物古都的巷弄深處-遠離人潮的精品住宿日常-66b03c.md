@@ -6,7 +6,7 @@ category: boutique-hotels
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-kyoto-京都西陣-織物古都的巷弄深處-遠離人潮的精品住宿日常-66b03c.html
 published: 2026-06-22
-quality_score: 6.5
+quality_score: 8.6
 tags: 京都住宿, 西陣, 精品酒店, 町屋, 京都慢旅
 license: CC BY 4.0
 ---

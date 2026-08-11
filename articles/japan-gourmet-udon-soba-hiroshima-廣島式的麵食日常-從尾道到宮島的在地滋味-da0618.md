@@ -6,7 +6,7 @@ category: udon-soba
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-udon-soba-hiroshima-廣島式的麵食日常-從尾道到宮島的在地滋味-da0618.html
 published: 2026-07-06
-quality_score: 6.5
+quality_score: 8.9
 tags: 廣島美食, 廣島烏龍麵, 廣島蕎麥麵, 尾道美食, 宮島美食
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: cultural-experience
 area: japan
 url: https://japan-encyclopedia.vercel.app/articles/japan-attractions-cultural-experience-日本和服體驗完整指南2026-京都和服租借-浴衣體驗-著付け-和服費用-jpy-攻略-83628e.html
 published: 2026-03-29
-quality_score: 7.6
+quality_score: 8.5
 tags: 京都和服租借, 日本浴衣體驗, 和服文化, 淺草浴衣, 日本傳統體驗
 license: CC BY 4.0
 ---

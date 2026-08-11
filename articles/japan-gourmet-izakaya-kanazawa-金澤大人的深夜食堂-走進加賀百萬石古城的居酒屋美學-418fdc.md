@@ -6,7 +6,7 @@ category: izakaya
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-izakaya-kanazawa-金澤大人的深夜食堂-走進加賀百萬石古城的居酒屋美學-418fdc.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 8.8
 tags: 金澤美食, 金澤居酒屋, 加賀料理, 石川縣美食, 北陸旅行
 license: CC BY 4.0
 ---

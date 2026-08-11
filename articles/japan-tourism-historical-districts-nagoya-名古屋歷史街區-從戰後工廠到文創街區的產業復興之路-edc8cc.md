@@ -6,7 +6,7 @@ category: historical-districts
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-nagoya-名古屋歷史街區-從戰後工廠到文創街區的產業復興之路-edc8cc.html
 published: 2026-06-21
-quality_score: 6.5
+quality_score: 8.6
 tags: 名古屋, 歷史街區, 產業文化, 深度旅遊, 大須觀音
 license: CC BY 4.0
 ---

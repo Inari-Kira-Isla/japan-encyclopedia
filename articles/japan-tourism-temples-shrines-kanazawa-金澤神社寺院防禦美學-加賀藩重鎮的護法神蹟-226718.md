@@ -6,7 +6,7 @@ category: temples-shrines
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-temples-shrines-kanazawa-金澤神社寺院防禦美學-加賀藩重鎮的護法神蹟-226718.html
 published: 2026-06-14
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤, 神社, 寺院, 加賀藩, 日本文化
 license: CC BY 4.0
 ---

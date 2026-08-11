@@ -6,7 +6,7 @@ category: temple-stays
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-temple-stays-kyoto-京都寺廟住宿實用導覽-作為京都旅行住宿的另類選擇-cbcb82.html
 published: 2026-06-22
-quality_score: 6.5
+quality_score: 8.6
 tags: 京都住宿, 寺廟住宿, 宿坊, 京都旅行, 嵐山
 license: CC BY 4.0
 ---

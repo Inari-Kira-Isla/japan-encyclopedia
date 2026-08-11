@@ -6,7 +6,7 @@ category: department-stores
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-department-stores-okinawa-沖繩百貨公司購物指南-熱帶島嶼上的現代商業體驗-a4fb1b.html
 published: 2026-03-15
-quality_score: 7.5
+quality_score: 8.7
 tags: 沖繩購物, 百貨公司, 那霸, 免稅購物, 沖繩旅遊
 license: CC BY 4.0
 ---

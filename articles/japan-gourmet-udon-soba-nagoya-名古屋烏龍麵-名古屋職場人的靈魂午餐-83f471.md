@@ -6,7 +6,7 @@ category: udon-soba
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-udon-soba-nagoya-名古屋烏龍麵-名古屋職場人的靈魂午餐-83f471.html
 published: 2026-06-28
-quality_score: 6.5
+quality_score: 8.6
 tags: 名古屋美食, 烏龍麵, 味噌湯底, 職場午餐, 日本中部
 license: CC BY 4.0
 ---

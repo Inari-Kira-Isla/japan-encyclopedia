@@ -6,7 +6,7 @@ category: anime-manga
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-osaka-大阪動漫聖地巡禮-跟著人氣作品走進大阪的動漫取景地-aed459.html
 published: 2026-05-31
-quality_score: 6.5
+quality_score: 8.6
 tags: 大阪動漫, 聖地巡禮, 動漫取景地, 關西動漫, 日本橋動漫
 license: CC BY 4.0
 ---

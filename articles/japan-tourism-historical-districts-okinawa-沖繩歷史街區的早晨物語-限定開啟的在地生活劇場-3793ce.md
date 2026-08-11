@@ -6,7 +6,7 @@ category: historical-districts
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-okinawa-沖繩歷史街區的早晨物語-限定開啟的在地生活劇場-3793ce.html
 published: 2026-06-25
-quality_score: 6.5
+quality_score: 8.5
 tags: 沖繩歷史街區, 那霸早市, 琉球文化, 深度旅遊, 早晨限定體驗
 license: CC BY 4.0
 ---

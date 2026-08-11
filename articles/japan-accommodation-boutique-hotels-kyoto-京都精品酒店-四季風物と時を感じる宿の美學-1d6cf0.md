@@ -6,7 +6,7 @@ category: boutique-hotels
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-kyoto-京都精品酒店-四季風物と時を感じる宿の美學-1d6cf0.html
 published: 2026-06-12
-quality_score: 6.5
+quality_score: 8.8
 tags: 京都精品酒店, 東山区住宿, 伏見稻荷, 貴船溫泉, 京都旅遊
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: day-trips
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-nara-奈良-非日常-深度旅-探索古都周邊的工藝村落與隱藏秘境-2b82f8.html
 published: 2026-06-24
-quality_score: 6.5
+quality_score: 8.7
 tags: 奈良深度遊, 奈良秘境, 奈良工藝, 非日常, 日本文化體驗
 license: CC BY 4.0
 ---

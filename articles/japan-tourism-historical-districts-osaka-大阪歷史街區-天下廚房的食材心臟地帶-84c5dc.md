@@ -6,7 +6,7 @@ category: historical-districts
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-osaka-大阪歷史街區-天下廚房的食材心臟地帶-84c5dc.html
 published: 2026-06-17
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪歷史街區, 天下廚房, 黑門市場, 醬料批發, 庶民美食
 license: CC BY 4.0
 ---

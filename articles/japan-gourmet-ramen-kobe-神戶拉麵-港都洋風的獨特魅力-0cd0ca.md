@@ -6,7 +6,7 @@ category: ramen
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-ramen-kobe-神戶拉麵-港都洋風的獨特魅力-0cd0ca.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 8.3
 tags: 神戶拉麵, 牛骨湯底, 關西拉麵, 港都美食, 神戶必吃
 license: CC BY 4.0
 ---

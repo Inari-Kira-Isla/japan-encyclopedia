@@ -6,7 +6,7 @@ category: wagyu
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-wagyu-hokkaido-北海道和牛完全指南-品嚐北國極品霜降美味-2b4d29.html
 published: 2026-03-20
-quality_score: 6.5
+quality_score: 8.9
 tags: 北海道和牛, 富良野和牛, 平取和牛, 白老牛, 札幌美食
 license: CC BY 4.0
 ---

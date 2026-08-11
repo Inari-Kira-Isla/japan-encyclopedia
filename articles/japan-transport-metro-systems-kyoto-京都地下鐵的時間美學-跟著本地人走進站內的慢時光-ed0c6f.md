@@ -6,7 +6,7 @@ category: metro-systems
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-kyoto-京都地下鐵的時間美學-跟著本地人走進站內的慢時光-ed0c6f.html
 published: 2026-06-27
-quality_score: 7.5
+quality_score: 8.8
 tags: 京都地下鐵, 京都交通, 京都Metro, 京都自由行, 關西交通
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: department-stores
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-department-stores-kobe-神戶百貨公司-海港城市的美食購物體驗-db2ff7.html
 published: 2026-06-20
-quality_score: 7.5
+quality_score: 9.0
 tags: 神戶, 百貨公司, 購物, 海港城市, 瀨戶內海
 license: CC BY 4.0
 ---

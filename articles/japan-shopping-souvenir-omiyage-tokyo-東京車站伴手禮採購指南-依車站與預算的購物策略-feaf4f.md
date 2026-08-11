@@ -6,7 +6,7 @@ category: souvenir-omiyage
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-souvenir-omiyage-tokyo-東京車站伴手禮採購指南-依車站與預算的購物策略-feaf4f.html
 published: 2026-06-15
-quality_score: 7.5
+quality_score: 8.7
 tags: 東京伴手禮, 東京車站, 購物攻略, 日本旅遊, 伴手禮推薦
 license: CC BY 4.0
 ---

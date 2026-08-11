@@ -6,7 +6,7 @@ category: love-hotels
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-love-hotels-hokkaido-北海道-love-hotels-選擇指南-雪國住宿的關鍵考量-207c7c.html
 published: 2026-06-23
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道, Love Hotels, 住宿指南, 雪國旅行, 情侶住宿
 license: CC BY 4.0
 ---

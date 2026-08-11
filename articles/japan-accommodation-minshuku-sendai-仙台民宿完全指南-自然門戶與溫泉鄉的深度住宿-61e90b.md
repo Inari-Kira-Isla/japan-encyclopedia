@@ -6,7 +6,7 @@ category: minshuku
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-sendai-仙台民宿完全指南-自然門戶與溫泉鄉的深度住宿-61e90b.html
 published: 2026-06-27
-quality_score: 6.5
+quality_score: 8.7
 tags: 仙台民宿, 鳴子峽, 藏王溫泉, 秋保溫泉, 東北溫泉
 license: CC BY 4.0
 ---

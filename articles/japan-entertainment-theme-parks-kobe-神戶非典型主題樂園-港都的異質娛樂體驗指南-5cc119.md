@@ -6,7 +6,7 @@ category: theme-parks
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-theme-parks-kobe-神戶非典型主題樂園-港都的異質娛樂體驗指南-5cc119.html
 published: 2026-06-13
-quality_score: 6.5
+quality_score: 8.6
 tags: 神戶主題設施, 神戶非主流娛樂, 神戶海洋體驗, 六甲山牧場, 神戶深度旅遊
 license: CC BY 4.0
 ---

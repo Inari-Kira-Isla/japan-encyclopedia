@@ -6,7 +6,7 @@ category: craft-markets
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-craft-markets-okinawa-沖繩手工商會省錢攻略-達人帶你挖寶琉球的低調好店-0840a8.html
 published: 2026-05-24
-quality_score: 7.5
+quality_score: 8.4
 tags: 沖繩手工商會, 沖繩自由行, 琉球工藝, 日本手作市集, 沖繩挖寶
 license: CC BY 4.0
 ---

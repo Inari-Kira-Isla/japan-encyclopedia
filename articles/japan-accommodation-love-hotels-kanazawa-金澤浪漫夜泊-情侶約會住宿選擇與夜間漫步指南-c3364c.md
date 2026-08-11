@@ -6,7 +6,7 @@ category: love-hotels
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-love-hotels-kanazawa-金澤浪漫夜泊-情侶約會住宿選擇與夜間漫步指南-c3364c.html
 published: 2026-06-05
-quality_score: 6.5
+quality_score: 8.5
 tags: 金澤約會, 金澤住宿, 情侶旅行, 石川縣, Love Hotel
 license: CC BY 4.0
 ---

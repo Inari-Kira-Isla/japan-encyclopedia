@@ -6,7 +6,7 @@ category: minshuku
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-nara-奈良寺院宿坊完全指南-古都神社的住宿禪修體驗-e21778.html
 published: 2026-06-15
-quality_score: 6.5
+quality_score: 8.4
 tags: 奈良宿坊, 寺院住宿, 古都體驗, 日本佛教, 奈良旅行
 license: CC BY 4.0
 ---

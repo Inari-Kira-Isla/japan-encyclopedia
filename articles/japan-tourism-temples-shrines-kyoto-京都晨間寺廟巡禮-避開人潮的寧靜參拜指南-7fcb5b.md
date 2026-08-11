@@ -6,7 +6,7 @@ category: temples-shrines
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-temples-shrines-kyoto-京都晨間寺廟巡禮-避開人潮的寧靜參拜指南-7fcb5b.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 8.7
 tags: 京都寺廟, 神社參拜, 晨間散步, 賞櫻秘境, 賞楓景點
 license: CC BY 4.0
 ---

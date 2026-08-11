@@ -6,7 +6,7 @@ category: day-trips
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-nara-奈良深度一日遊-古都周邊的歷史秘境與文化寶藏-a08036.html
 published: 2026-06-26
-quality_score: 6.5
+quality_score: 8.7
 tags: 奈良一日遊, 日本古都, 法隆寺, 明日香村, 世界文化遺產
 license: CC BY 4.0
 ---

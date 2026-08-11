@@ -6,7 +6,7 @@ category: temple-stays
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-temple-stays-nagoya-名古屋寺廟住宿全攻略-中繼城市的禪意探索-8daace.html
 published: 2026-05-22
-quality_score: 6.5
+quality_score: 8.6
 tags: 名古屋寺廟住宿, 比叡山延历寺, 高野山宿坊, 白山神社, 中部地區禪修
 license: CC BY 4.0
 ---

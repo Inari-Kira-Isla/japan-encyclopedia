@@ -6,7 +6,7 @@ category: vintage-thrift
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-vintage-thrift-kanazawa-金澤古著獵人密徑-從加賀友禪到昭和洋風的工藝之都尋寶指南-c911ec.html
 published: 2026-07-04
-quality_score: 7.5
+quality_score: 8.7
 tags: 金澤古著, 日本古著店, 金澤購物, vintage, kanazawa
 license: CC BY 4.0
 ---

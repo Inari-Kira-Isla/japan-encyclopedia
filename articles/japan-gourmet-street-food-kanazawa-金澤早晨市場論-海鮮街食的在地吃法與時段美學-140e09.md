@@ -6,7 +6,7 @@ category: street-food
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-street-food-kanazawa-金澤早晨市場論-海鮮街食的在地吃法與時段美學-140e09.html
 published: 2026-06-27
-quality_score: 6.5
+quality_score: 8.8
 tags: 金澤, 街頭美食, 石川縣, 海鮮, 近江町市場
 license: CC BY 4.0
 ---

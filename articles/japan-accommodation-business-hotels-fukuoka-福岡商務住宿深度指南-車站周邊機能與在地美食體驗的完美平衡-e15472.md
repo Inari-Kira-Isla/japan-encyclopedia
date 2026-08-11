@@ -6,7 +6,7 @@ category: business-hotels
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-business-hotels-fukuoka-福岡商務住宿深度指南-車站周邊機能與在地美食體驗的完美平衡-e15472.html
 published: 2026-07-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 福岡商務住宿, 博多站商務酒店, 天神商務住宿, 九州商務出差, 福岡旅遊
 license: CC BY 4.0
 ---

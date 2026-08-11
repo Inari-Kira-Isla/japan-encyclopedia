@@ -6,7 +6,7 @@ category: historical-districts
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-okinawa-沖繩歷史街區-走進琉球活文化的日常詩篇-6362e6.html
 published: 2026-06-13
-quality_score: 6.5
+quality_score: 8.9
 tags: 沖繩歷史街區, 琉球文化, gusuku, 首里城, 北谷町
 license: CC BY 4.0
 ---

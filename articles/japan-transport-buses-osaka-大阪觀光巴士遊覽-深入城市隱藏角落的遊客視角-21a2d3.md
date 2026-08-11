@@ -6,7 +6,7 @@ category: buses
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-buses-osaka-大阪觀光巴士遊覽-深入城市隱藏角落的遊客視角-21a2d3.html
 published: 2026-06-19
-quality_score: 7.5
+quality_score: 8.5
 tags: 大阪巴士, 大阪交通, 關西旅行, 大阪觀光, 自助旅行
 license: CC BY 4.0
 ---

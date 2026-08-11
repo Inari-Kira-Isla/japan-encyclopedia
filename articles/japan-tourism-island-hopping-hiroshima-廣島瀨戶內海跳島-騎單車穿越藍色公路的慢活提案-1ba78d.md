@@ -6,7 +6,7 @@ category: island-hopping
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-island-hopping-hiroshima-廣島瀨戶內海跳島-騎單車穿越藍色公路的慢活提案-1ba78d.html
 published: 2026-07-06
-quality_score: 6.5
+quality_score: 8.7
 tags: 廣島跳島, 瀨戶內海, 單車旅行, 生口島, 大三島
 license: CC BY 4.0
 ---

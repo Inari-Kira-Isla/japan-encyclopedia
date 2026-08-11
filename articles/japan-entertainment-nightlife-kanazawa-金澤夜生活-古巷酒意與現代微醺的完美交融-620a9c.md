@@ -6,7 +6,7 @@ category: nightlife
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-kanazawa-金澤夜生活-古巷酒意與現代微醺的完美交融-620a9c.html
 published: 2026-03-31
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤夜生活, 石川縣旅遊, 北陸美食, 居酒屋推薦, 日本夜景
 license: CC BY 4.0
 ---

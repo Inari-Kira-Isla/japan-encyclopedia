@@ -6,7 +6,7 @@ category: souvenir-omiyage
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-souvenir-omiyage-kanazawa-金澤伴手禮極致指南-從金箔工藝到加賀美味的採購攻略-7bdd79.html
 published: 2026-06-02
-quality_score: 7.5
+quality_score: 8.7
 tags: 金澤, 伴手禮, 金箔, 石川, 近江町市場
 license: CC BY 4.0
 ---

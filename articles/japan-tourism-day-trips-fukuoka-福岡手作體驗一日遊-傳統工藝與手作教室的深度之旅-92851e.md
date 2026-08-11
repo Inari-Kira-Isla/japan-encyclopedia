@@ -6,7 +6,7 @@ category: day-trips
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-fukuoka-福岡手作體驗一日遊-傳統工藝與手作教室的深度之旅-92851e.html
 published: 2026-06-16
-quality_score: 6.5
+quality_score: 8.6
 tags: 福岡手作體驗, 九州傳統工藝, 小石原燒, 朝倉蕎麥麵, 日本文化體驗
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: buses
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-buses-nagoya-名古屋-d9efcd.html
 published: 2026-05-25
-quality_score: 7.5
+quality_score: 8.2
 tags: 名古屋,  автобуси,  Japan транспорт,  дальні перевезення,  бюджетна подорож
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: ferries
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-ferries-osaka-大阪商務渡輪手冊-時間優先者的海上通勤指南-a3f770.html
 published: 2026-06-08
-quality_score: 7.5
+quality_score: 8.9
 tags: 大阪交通, 商務旅行, 渡輪, 關西機場, 海上通勤
 license: CC BY 4.0
 ---

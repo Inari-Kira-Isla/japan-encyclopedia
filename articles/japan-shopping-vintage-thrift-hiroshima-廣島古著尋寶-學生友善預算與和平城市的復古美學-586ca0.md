@@ -6,7 +6,7 @@ category: vintage-thrift
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-vintage-thrift-hiroshima-廣島古著尋寶-學生友善預算與和平城市的復古美學-586ca0.html
 published: 2026-03-29
-quality_score: 7.5
+quality_score: 8.8
 tags: 廣島古著, 紙屋町, 大學城, 實惠古著, 和平城市
 license: CC BY 4.0
 ---

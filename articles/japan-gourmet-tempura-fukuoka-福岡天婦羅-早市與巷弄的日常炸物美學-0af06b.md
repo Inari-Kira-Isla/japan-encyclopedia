@@ -6,7 +6,7 @@ category: tempura
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tempura-fukuoka-福岡天婦羅-早市與巷弄的日常炸物美學-0af06b.html
 published: 2026-06-12
-quality_score: 6.5
+quality_score: 8.7
 tags: 福岡, 天婦羅, 九州美食, 早市文化, 日本料理
 license: CC BY 4.0
 ---

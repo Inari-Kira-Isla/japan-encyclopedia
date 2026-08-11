@@ -6,7 +6,7 @@ category: anime-manga
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-kobe-神戶動漫主題餐廳探索-港都的二次元美食地圖-18b9f9.html
 published: 2026-06-19
-quality_score: 6.5
+quality_score: 8.7
 tags: 神戶, 動漫主題餐廳, 動漫咖啡廳, 二次元美食, 神戶三宮
 license: CC BY 4.0
 ---

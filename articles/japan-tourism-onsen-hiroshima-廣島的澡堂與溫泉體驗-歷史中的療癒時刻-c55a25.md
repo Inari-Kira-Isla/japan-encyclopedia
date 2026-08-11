@@ -6,7 +6,7 @@ category: onsen
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-onsen-hiroshima-廣島的澡堂與溫泉體驗-歷史中的療癒時刻-c55a25.html
 published: 2026-03-20
-quality_score: 6.5
+quality_score: 8.5
 tags: 廣島, 澡堂文化, 溫泉, 日本旅遊, 和平文化
 license: CC BY 4.0
 ---

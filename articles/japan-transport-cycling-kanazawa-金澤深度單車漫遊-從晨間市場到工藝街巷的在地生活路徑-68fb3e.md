@@ -6,7 +6,7 @@ category: cycling
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-kanazawa-金澤深度單車漫遊-從晨間市場到工藝街巷的在地生活路徑-68fb3e.html
 published: 2026-06-03
-quality_score: 7.5
+quality_score: 8.5
 tags: 金澤單車, 金澤深度旅遊, 近江町市場, Nagahama單車漫遊, 日本單車旅行
 license: CC BY 4.0
 ---

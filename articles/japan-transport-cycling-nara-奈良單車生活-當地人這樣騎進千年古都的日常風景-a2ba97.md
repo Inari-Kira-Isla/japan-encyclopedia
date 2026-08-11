@@ -6,7 +6,7 @@ category: cycling
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-nara-奈良單車生活-當地人這樣騎進千年古都的日常風景-a2ba97.html
 published: 2026-06-05
-quality_score: 7.5
+quality_score: 8.6
 tags: 奈良單車, 奈良自行車, 奈良租借單車, 奈良自由行, 奈良推薦
 license: CC BY 4.0
 ---

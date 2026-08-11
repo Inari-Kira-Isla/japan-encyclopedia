@@ -6,7 +6,7 @@ category: cycling
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-tokyo-東京生活單車-像當地人一樣穿梭城市的方法-ac34a4.html
 published: 2026-06-03
-quality_score: 7.5
+quality_score: 8.6
 tags: 東京單車, 都市漫遊, 下町文化, 在地體驗, 低碳旅遊
 license: CC BY 4.0
 ---

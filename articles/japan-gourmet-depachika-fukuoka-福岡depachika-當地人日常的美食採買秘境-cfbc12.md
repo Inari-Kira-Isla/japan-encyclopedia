@@ -6,7 +6,7 @@ category: depachika
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-depachika-fukuoka-福岡depachika-當地人日常的美食採買秘境-cfbc12.html
 published: 2026-07-01
-quality_score: 6.5
+quality_score: 8.7
 tags: 福岡Depachika, 九州美食, 岩田屋, 大丸天神, 明太子
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: sumo
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-fukuoka-福岡相撲-九州殿堂的力士較量與觀戰攻略-77d505.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 8.8
 tags: 福岡相撲, 九州相撲日程, MARINE MESSE, 相撲觀赛区, 博多年
 license: CC BY 4.0
 ---

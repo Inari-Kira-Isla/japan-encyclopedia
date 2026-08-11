@@ -6,7 +6,7 @@ category: okonomiyaki
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-okonomiyaki-tokyo-東京御好燒-都會夜生活中的靈魂滋味-81946c.html
 published: 2026-05-21
-quality_score: 6.5
+quality_score: 8.8
 tags: 御好燒, 東京美食, 深夜食堂, 新宿, 淺草
 license: CC BY 4.0
 ---

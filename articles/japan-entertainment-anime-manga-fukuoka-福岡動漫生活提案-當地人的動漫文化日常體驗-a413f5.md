@@ -6,7 +6,7 @@ category: anime-manga
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-fukuoka-福岡動漫生活提案-當地人的動漫文化日常體驗-a413f5.html
 published: 2026-06-30
-quality_score: 6.5
+quality_score: 8.7
 tags: 福岡動漫, 漫畫咖啡廳, 動漫商品, 遊戲中心, 九州動漫文化
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: onsen
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-onsen-okinawa-沖繩溫泉-亞熱帶海岸的礦物質養生假期-06614b.html
 published: 2026-06-06
-quality_score: 6.5
+quality_score: 8.4
 tags: 沖繩溫泉, 亞熱帶溫泉, 石垣島溫泉, 宮古島溫泉, 海陸複合療法
 license: CC BY 4.0
 ---

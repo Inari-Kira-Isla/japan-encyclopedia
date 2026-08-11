@@ -6,7 +6,7 @@ category: karaoke
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-karaoke-hokkaido-北海道卡拉ok-冰海風味的歌聲盛宴-b0b44a.html
 published: 2026-06-25
-quality_score: 6.5
+quality_score: 8.5
 tags: 北海道卡拉OK, 札幌拉麵, 登別溫泉, 函館朝市, 旭川拉麵
 license: CC BY 4.0
 ---

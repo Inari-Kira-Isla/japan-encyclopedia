@@ -6,7 +6,7 @@ category: souvenir-omiyage
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-souvenir-omiyage-kobe-神戶伴手禮完全指南-北野異人館街的精緻甜點與港都風情-986ac5.html
 published: 2026-06-03
-quality_score: 7.5
+quality_score: 8.6
 tags: 神戶伴手禮, 神戶美食, 北野異人館, 關西伴手禮, 神戶 OCARD
 license: CC BY 4.0
 ---

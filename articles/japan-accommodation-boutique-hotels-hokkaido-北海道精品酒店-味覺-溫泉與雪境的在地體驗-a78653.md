@@ -6,7 +6,7 @@ category: boutique-hotels
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-hokkaido-北海道精品酒店-味覺-溫泉與雪境的在地體驗-a78653.html
 published: 2026-06-14
-quality_score: 6.5
+quality_score: 8.5
 tags: 北海道, 精品酒店, 溫泉, 美食住宿, 雪國旅遊
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: udon-soba
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-udon-soba-osaka-大阪烏龍麵與蕎麥麵-24小時不夜城的麵食時光-cbe9ab.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪美食, 烏龍麵, 蕎麥麵, 深夜美食, 立食文化
 license: CC BY 4.0
 ---

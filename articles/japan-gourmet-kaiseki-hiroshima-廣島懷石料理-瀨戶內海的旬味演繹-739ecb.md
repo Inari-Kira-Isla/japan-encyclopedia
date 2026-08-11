@@ -6,7 +6,7 @@ category: kaiseki
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-kaiseki-hiroshima-廣島懷石料理-瀨戶內海的旬味演繹-739ecb.html
 published: 2026-05-23
-quality_score: 6.5
+quality_score: 8.8
 tags: 廣島kaiseki, 瀨戶內海產, 旬料理, 日本中國地區, 創作懷石
 license: CC BY 4.0
 ---

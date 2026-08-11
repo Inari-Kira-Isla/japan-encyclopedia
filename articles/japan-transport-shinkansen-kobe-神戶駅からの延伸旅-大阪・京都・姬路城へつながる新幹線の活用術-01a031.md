@@ -6,7 +6,7 @@ category: shinkansen
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-kobe-神戶駅からの延伸旅-大阪・京都・姬路城へつながる新幹線の活用術-01a031.html
 published: 2026-06-11
-quality_score: 7.5
+quality_score: 8.9
 tags: 神戶, 新幹線を効率的に使う, 大阪周遊, 京都観光, 姫路城
 license: CC BY 4.0
 ---

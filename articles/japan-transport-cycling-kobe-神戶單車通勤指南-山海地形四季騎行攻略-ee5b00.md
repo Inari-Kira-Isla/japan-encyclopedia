@@ -6,7 +6,7 @@ category: cycling
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-kobe-神戶單車通勤指南-山海地形四季騎行攻略-ee5b00.html
 published: 2026-04-01
-quality_score: 7.5
+quality_score: 8.7
 tags: 神戶交通, 單車旅遊, 關西自由行, 港都體驗, 四季騎行
 license: CC BY 4.0
 ---

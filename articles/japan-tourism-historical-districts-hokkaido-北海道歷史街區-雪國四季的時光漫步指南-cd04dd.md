@@ -6,7 +6,7 @@ category: historical-districts
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-hokkaido-北海道歷史街區-雪國四季的時光漫步指南-cd04dd.html
 published: 2026-05-21
-quality_score: 6.5
+quality_score: 8.5
 tags: 北海道, 歷史街區, 小樽, 札幌, 旭川
 license: CC BY 4.0
 ---

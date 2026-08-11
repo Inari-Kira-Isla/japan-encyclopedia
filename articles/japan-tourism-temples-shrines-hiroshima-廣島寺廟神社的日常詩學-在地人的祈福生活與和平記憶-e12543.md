@@ -6,7 +6,7 @@ category: temples-shrines
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-temples-shrines-hiroshima-廣島寺廟神社的日常詩學-在地人的祈福生活與和平記憶-e12543.html
 published: 2026-05-24
-quality_score: 6.5
+quality_score: 8.8
 tags: 廣島寺廟, 廣島神社, 廣島自由行, 日本宗教文化, 廣島和平
 license: CC BY 4.0
 ---

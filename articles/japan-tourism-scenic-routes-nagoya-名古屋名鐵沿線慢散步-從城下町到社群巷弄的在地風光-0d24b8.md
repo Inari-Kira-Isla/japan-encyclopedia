@@ -6,7 +6,7 @@ category: scenic-routes
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-nagoya-名古屋名鐵沿線慢散步-從城下町到社群巷弄的在地風光-0d24b8.html
 published: 2026-06-29
-quality_score: 6.5
+quality_score: 8.7
 tags: 名鐵沿線, 名古屋慢旅, 在地體驗, 社區散步, 名古屋深度遊
 license: CC BY 4.0
 ---

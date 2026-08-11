@@ -6,7 +6,7 @@ category: department-stores
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-department-stores-kanazawa-金澤購物完全指南-古城車站周邊的人氣商場與特色店鋪-713416.html
 published: 2026-06-25
-quality_score: 7.5
+quality_score: 8.7
 tags: 金澤購物, 石川縣, 金澤站, 香林坊, 日本百货
 license: CC BY 4.0
 ---

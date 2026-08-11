@@ -6,7 +6,7 @@ category: karaoke
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-karaoke-kyoto-京都夜遊不完全攻略-晚餐後的卡拉ok尋味地圖-297d3f.html
 published: 2026-05-22
-quality_score: 6.5
+quality_score: 8.4
 tags: 京都夜生活, 卡拉OK體驗, 關西娛樂, 美食與娛樂, 背包客自由行
 license: CC BY 4.0
 ---

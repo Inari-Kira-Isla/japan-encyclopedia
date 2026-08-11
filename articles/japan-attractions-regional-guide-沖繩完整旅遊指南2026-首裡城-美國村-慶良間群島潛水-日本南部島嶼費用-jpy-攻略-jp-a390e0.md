@@ -6,7 +6,7 @@ category: regional-guide
 area: japan
 url: https://japan-encyclopedia.vercel.app/articles/japan-attractions-regional-guide-沖繩完整旅遊指南2026-首裡城-美國村-慶良間群島潛水-日本南部島嶼費用-jpy-攻略-jp-a390e0.html
 published: 2026-04-07
-quality_score: 7.1
+quality_score: 8.7
 tags: 沖繩旅遊, 首里城, 慶良間群島, 沖繩美食, 沖繩潛水
 license: CC BY 4.0
 ---

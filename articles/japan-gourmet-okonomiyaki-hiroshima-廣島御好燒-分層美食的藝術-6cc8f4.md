@@ -6,7 +6,7 @@ category: okonomiyaki
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-okonomiyaki-hiroshima-廣島御好燒-分層美食的藝術-6cc8f4.html
 published: 2026-03-21
-quality_score: 6.5
+quality_score: 8.7
 tags: 廣島美食, 日本料理, 御好燒, 海鮮文化, 日本旅遊
 license: CC BY 4.0
 ---

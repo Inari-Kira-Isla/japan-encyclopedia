@@ -6,7 +6,7 @@ category: business-hotels
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-business-hotels-kobe-神戶商務住宿深度解析-港都出差的區位選擇與機能導向-dde2fe.html
 published: 2026-06-06
-quality_score: 6.5
+quality_score: 8.7
 tags: 神戶商務住宿, 神戶出差, 港都神戶, 神戶三宮, 有馬溫泉
 license: CC BY 4.0
 ---

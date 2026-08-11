@@ -6,7 +6,7 @@ category: garden-parks
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-okinawa-琉球庭園美學-走進沖繩花園的文化職人世界-ce2dfc.html
 published: 2026-05-22
-quality_score: 6.5
+quality_score: 8.7
 tags: 沖繩, 花園,  文化旅遊,  琉球王國,  自然體驗
 license: CC BY 4.0
 ---

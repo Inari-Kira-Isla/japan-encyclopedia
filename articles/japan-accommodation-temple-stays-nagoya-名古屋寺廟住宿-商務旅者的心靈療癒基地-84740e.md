@@ -6,7 +6,7 @@ category: temple-stays
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-temple-stays-nagoya-名古屋寺廟住宿-商務旅者的心靈療癒基地-84740e.html
 published: 2026-06-14
-quality_score: 6.5
+quality_score: 8.3
 tags: 名古屋寺廟住宿, 商務旅遊, 比叡山, 高野山, 修驗道
 license: CC BY 4.0
 ---

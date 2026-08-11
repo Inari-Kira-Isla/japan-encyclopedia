@@ -6,7 +6,7 @@ category: cycling
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-tokyo-東京通勤單車族-上班族的日常移動美學-6e470f.html
 published: 2026-06-12
-quality_score: 7.5
+quality_score: 8.7
 tags: 東京單車, 通勤文化, 生活化體驗, 下町漫遊, 城市移動
 license: CC BY 4.0
 ---

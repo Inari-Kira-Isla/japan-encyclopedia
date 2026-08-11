@@ -6,7 +6,7 @@ category: electronics
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-electronics-nara-奈良電子產品購物指南-近鐵站周邊的小型電器行與伴手禮推薦-b3458d.html
 published: 2026-06-08
-quality_score: 7.5
+quality_score: 8.7
 tags: 奈良電子產品, 奈良購物, 近鐵奈良站, 日本電器行, 奈良伴手禮
 license: CC BY 4.0
 ---

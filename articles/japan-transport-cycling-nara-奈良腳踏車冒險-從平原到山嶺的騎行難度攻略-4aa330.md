@@ -6,7 +6,7 @@ category: cycling
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-nara-奈良腳踏車冒險-從平原到山嶺的騎行難度攻略-4aa330.html
 published: 2026-03-24
-quality_score: 7.5
+quality_score: 8.7
 tags: 奈良自行車, 山地騎行, 運動訓練, 日本騎行, 冒險路線
 license: CC BY 4.0
 ---

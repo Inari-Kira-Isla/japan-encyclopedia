@@ -6,7 +6,7 @@ category: shinkansen
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-kobe-神戶新幹線-關西深度遊的戰略據點-0403fc.html
 published: 2026-04-04
-quality_score: 7.5
+quality_score: 8.6
 tags: 神戶, 新幹線, 關西旅遊, 交通樞紐, 布引瀑布
 license: CC BY 4.0
 ---

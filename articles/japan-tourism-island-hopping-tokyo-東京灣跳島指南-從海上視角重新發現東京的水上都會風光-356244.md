@@ -6,7 +6,7 @@ category: island-hopping
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-island-hopping-tokyo-東京灣跳島指南-從海上視角重新發現東京的水上都會風光-356244.html
 published: 2026-06-12
-quality_score: 6.5
+quality_score: 8.6
 tags: 東京灣跳島, 水上巴士, 東京一日遊, 青海島, 御台場
 license: CC BY 4.0
 ---

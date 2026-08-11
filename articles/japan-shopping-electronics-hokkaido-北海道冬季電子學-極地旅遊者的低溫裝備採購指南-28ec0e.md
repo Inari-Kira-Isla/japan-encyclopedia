@@ -6,7 +6,7 @@ category: electronics
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-electronics-hokkaido-北海道冬季電子學-極地旅遊者的低溫裝備採購指南-28ec0e.html
 published: 2026-06-07
-quality_score: 7.5
+quality_score: 8.5
 tags: 北海道電子產品, 極寒裝備, 冬季旅遊, 低溫電子學, 攝影器材
 license: CC BY 4.0
 ---

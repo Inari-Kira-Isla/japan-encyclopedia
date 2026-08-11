@@ -6,7 +6,7 @@ category: electronics
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-electronics-sendai-仙台電子產品購物攻略-專門店與維修文化導覽-987a7d.html
 published: 2026-06-24
-quality_score: 7.5
+quality_score: 8.7
 tags: 仙台電子產品, 專門店, 維修文化, 東北購物, 耳機專門店
 license: CC BY 4.0
 ---

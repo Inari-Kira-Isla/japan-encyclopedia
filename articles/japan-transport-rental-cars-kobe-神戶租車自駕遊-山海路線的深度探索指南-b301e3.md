@@ -6,7 +6,7 @@ category: rental-cars
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-kobe-神戶租車自駕遊-山海路線的深度探索指南-b301e3.html
 published: 2026-06-19
-quality_score: 7.5
+quality_score: 8.6
 tags: 神戶租車, 關西自駕, 神戶自由行, 租車推薦, 山海路線
 license: CC BY 4.0
 ---

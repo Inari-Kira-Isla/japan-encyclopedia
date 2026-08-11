@@ -6,7 +6,7 @@ category: yakitori
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-yakitori-kyoto-京都的燒鳥-古都風土孕育的串燒哲學-ea6ca0.html
 published: 2026-04-02
-quality_score: 6.5
+quality_score: 8.7
 tags: 京都燒鳥, 京都美食, 京料理, 串燒, 日本美食
 license: CC BY 4.0
 ---

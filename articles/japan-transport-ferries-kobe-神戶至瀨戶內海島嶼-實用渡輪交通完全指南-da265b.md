@@ -6,7 +6,7 @@ category: ferries
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-ferries-kobe-神戶至瀨戶內海島嶼-實用渡輪交通完全指南-da265b.html
 published: 2026-06-08
-quality_score: 7.5
+quality_score: 8.9
 tags: 神戶, 渡輪, 瀨戶內海, 直島, 藝術之旅
 license: CC BY 4.0
 ---

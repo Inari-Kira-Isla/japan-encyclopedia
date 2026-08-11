@@ -6,7 +6,7 @@ category: capsule-hotels
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-capsule-hotels-sendai-仙台膠囊旅館完全指南-東北驛站的省錢住宿策略-96e555.html
 published: 2026-06-04
-quality_score: 6.5
+quality_score: 8.7
 tags: 仙台, 東北住宿, 膠囊旅館, 省錢旅遊, 日本自由行
 license: CC BY 4.0
 ---

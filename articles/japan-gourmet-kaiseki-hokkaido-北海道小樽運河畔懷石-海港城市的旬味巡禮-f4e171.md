@@ -6,7 +6,7 @@ category: kaiseki
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-kaiseki-hokkaido-北海道小樽運河畔懷石-海港城市的旬味巡禮-f4e171.html
 published: 2026-06-02
-quality_score: 6.5
+quality_score: 8.9
 tags: 北海道懷石, 小樽運河, 日本料理, 海鮮美食, 秋季美食
 license: CC BY 4.0
 ---

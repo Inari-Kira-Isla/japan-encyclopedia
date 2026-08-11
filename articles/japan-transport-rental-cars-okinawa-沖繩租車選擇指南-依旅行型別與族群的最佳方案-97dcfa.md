@@ -6,7 +6,7 @@ category: rental-cars
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-okinawa-沖繩租車選擇指南-依旅行型別與族群的最佳方案-97dcfa.html
 published: 2026-06-21
-quality_score: 7.5
+quality_score: 8.5
 tags: 沖繩租車, 自駕遊, 沖繩自由行, 日本租車, OTS租車
 license: CC BY 4.0
 ---

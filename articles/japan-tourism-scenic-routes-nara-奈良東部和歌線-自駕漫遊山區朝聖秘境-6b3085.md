@@ -6,7 +6,7 @@ category: scenic-routes
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-nara-奈良東部和歌線-自駕漫遊山區朝聖秘境-6b3085.html
 published: 2026-06-18
-quality_score: 6.5
+quality_score: 8.7
 tags: 奈良自駕, 朝聖之旅, 山區秘境, 修驗道場, 溫泉小旅行
 license: CC BY 4.0
 ---

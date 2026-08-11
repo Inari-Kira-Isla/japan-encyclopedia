@@ -6,7 +6,7 @@ category: craft-markets
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-craft-markets-kanazawa-金澤工藝工作坊完全指南-與職人互動的沉浸式購物體驗-2a73fa.html
 published: 2026-03-24
-quality_score: 7.5
+quality_score: 8.7
 tags: 金澤工藝市場, 日本工作坊體驗, 手工藝DIY, 傳統工藝, 文化體驗旅遊
 license: CC BY 4.0
 ---

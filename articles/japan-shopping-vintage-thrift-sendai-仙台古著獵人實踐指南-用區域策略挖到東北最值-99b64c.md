@@ -6,7 +6,7 @@ category: vintage-thrift
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-vintage-thrift-sendai-仙台古著獵人實踐指南-用區域策略挖到東北最值-99b64c.html
 published: 2026-05-23
-quality_score: 7.5
+quality_score: 8.7
 tags: 仙台古著, 日本東北古著, 二手衣購物, 日本折扣季, 古著獵人攻略
 license: CC BY 4.0
 ---

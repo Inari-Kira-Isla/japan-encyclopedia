@@ -6,7 +6,7 @@ category: scenic-routes
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-kobe-神戶四季風景路線-國際港灣城市的文化散步與山海體驗-e91163.html
 published: 2026-03-24
-quality_score: 6.5
+quality_score: 8.7
 tags: 神戶自由行, 四季路線, 步行散步, 異人館建築, 海濱體驗
 license: CC BY 4.0
 ---

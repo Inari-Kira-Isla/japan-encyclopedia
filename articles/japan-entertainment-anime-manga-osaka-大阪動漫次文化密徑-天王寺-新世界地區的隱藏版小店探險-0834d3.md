@@ -6,7 +6,7 @@ category: anime-manga
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-osaka-大阪動漫次文化密徑-天王寺-新世界地區的隱藏版小店探險-0834d3.html
 published: 2026-06-25
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪動漫, 天王寺景點, 新世界, 日本橋電電街替代, 隱藏版店家
 license: CC BY 4.0
 ---

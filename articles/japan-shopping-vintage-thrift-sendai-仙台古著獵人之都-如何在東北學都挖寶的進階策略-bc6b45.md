@@ -6,7 +6,7 @@ category: vintage-thrift
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-vintage-thrift-sendai-仙台古著獵人之都-如何在東北學都挖寶的進階策略-bc6b45.html
 published: 2026-06-14
-quality_score: 7.5
+quality_score: 8.8
 tags: 仙台古著, 東北購物, 日本古著攻略, 二手衣物, 古著獵人
 license: CC BY 4.0
 ---

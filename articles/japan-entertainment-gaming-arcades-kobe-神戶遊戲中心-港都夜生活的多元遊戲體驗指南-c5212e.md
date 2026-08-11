@@ -6,7 +6,7 @@ category: gaming-arcades
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-gaming-arcades-kobe-神戶遊戲中心-港都夜生活的多元遊戲體驗指南-c5212e.html
 published: 2026-06-14
-quality_score: 6.5
+quality_score: 8.7
 tags: 神戶遊戲中心, 神戶娛樂, 神戶夜生活, 關西遊戲中心, 街機文化
 license: CC BY 4.0
 ---

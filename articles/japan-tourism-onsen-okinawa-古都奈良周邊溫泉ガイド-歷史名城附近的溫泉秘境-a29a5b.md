@@ -6,7 +6,7 @@ category: onsen
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-onsen-okinawa-古都奈良周邊溫泉ガイド-歷史名城附近的溫泉秘境-a29a5b.html
 published: 2026-05-23
-quality_score: 6.5
+quality_score: 8.5
 tags: 奈良溫泉, 古都之旅, 關西溫泉, 吉野溫泉, 雄琴溫泉
 license: CC BY 4.0
 ---

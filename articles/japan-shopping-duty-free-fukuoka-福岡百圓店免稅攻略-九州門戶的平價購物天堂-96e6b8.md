@@ -6,7 +6,7 @@ category: duty-free
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-duty-free-fukuoka-福岡百圓店免稅攻略-九州門戶的平價購物天堂-96e6b8.html
 published: 2026-06-17
-quality_score: 7.5
+quality_score: 8.7
 tags: 福岡, 免稅, 百圓店, 九州, 購物攻略
 license: CC BY 4.0
 ---

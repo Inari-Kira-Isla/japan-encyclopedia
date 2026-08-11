@@ -6,7 +6,7 @@ category: scenic-routes
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-nagoya-名古屋四季風景路線攻略-按時間規劃的最佳景緻巡遊-d8122b.html
 published: 2026-04-06
-quality_score: 6.5
+quality_score: 8.7
 tags: 名古屋風景, 四季旅遊, 賞櫻, 夜景, 紅葉
 license: CC BY 4.0
 ---

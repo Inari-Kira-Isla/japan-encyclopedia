@@ -6,7 +6,7 @@ category: ramen
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-ramen-sendai-仙台拉麵-魚介系湯頭的北東北拉麵秘境-c07783.html
 published: 2026-04-02
-quality_score: 6.5
+quality_score: 8.6
 tags: 仙台拉麵, 日本東北美食, 魚介系拉麵, 仙台旅遊, 東北拉麵
 license: CC BY 4.0
 ---

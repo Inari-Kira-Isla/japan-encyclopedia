@@ -6,7 +6,7 @@ category: buses
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-buses-osaka-大阪巴士沿線庶民美食-搭公車深入巷弄尋找日常好滋味-ea9ed8.html
 published: 2026-06-13
-quality_score: 7.5
+quality_score: 8.7
 tags: 大阪巴士, 庶民美食, 大阪美食, 關西美食, 公車美食
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: temple-stays
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-temple-stays-fukuoka-福岡寺宿住宿-當城市遇見禪意的中繼體驗-f954f8.html
 published: 2026-06-23
-quality_score: 6.5
+quality_score: 8.6
 tags: 福岡寺宿, 九州寺院住宿, 太宰府天滿宮, 禪修體驗, 日本宗教文化
 license: CC BY 4.0
 ---

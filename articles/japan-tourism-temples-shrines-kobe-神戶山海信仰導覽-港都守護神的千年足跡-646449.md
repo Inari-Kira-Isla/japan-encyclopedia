@@ -6,7 +6,7 @@ category: temples-shrines
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-temples-shrines-kobe-神戶山海信仰導覽-港都守護神的千年足跡-646449.html
 published: 2026-06-04
-quality_score: 6.5
+quality_score: 8.7
 tags: 神戶, 神社, 寺院, 山岳信仰, 海神信仰
 license: CC BY 4.0
 ---

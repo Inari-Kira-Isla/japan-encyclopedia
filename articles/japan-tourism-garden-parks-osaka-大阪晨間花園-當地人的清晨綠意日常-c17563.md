@@ -6,7 +6,7 @@ category: garden-parks
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-osaka-大阪晨間花園-當地人的清晨綠意日常-c17563.html
 published: 2026-06-26
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪花園, 晨間景點, 在地文化, 免費公園, 運動休閒
 license: CC BY 4.0
 ---

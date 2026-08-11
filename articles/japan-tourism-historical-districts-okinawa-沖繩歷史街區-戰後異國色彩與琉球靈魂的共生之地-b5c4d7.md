@@ -6,7 +6,7 @@ category: historical-districts
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-okinawa-沖繩歷史街區-戰後異國色彩與琉球靈魂的共生之地-b5c4d7.html
 published: 2026-05-22
-quality_score: 6.5
+quality_score: 8.7
 tags: 沖繩, 歷史街區, 美國村, 首里城, 琉球文化
 license: CC BY 4.0
 ---

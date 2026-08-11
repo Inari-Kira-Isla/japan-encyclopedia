@@ -6,7 +6,7 @@ category: minshuku
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-sendai-仙台民宿完整指南-山海之間的東北旬味之旅-009ea4.html
 published: 2026-06-04
-quality_score: 6.5
+quality_score: 8.7
 tags: 仙台民宿, 東北旅行, 民宿推薦, 日本住宿, Minshuku
 license: CC BY 4.0
 ---

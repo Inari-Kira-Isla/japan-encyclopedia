@@ -6,7 +6,7 @@ category: day-trips
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-hokkaido-北海道一日遊-美食與秘境交織的極北味蕾之旅-229f0a.html
 published: 2026-06-28
-quality_score: 6.5
+quality_score: 8.6
 tags: 北海道一日遊, 札幌出發, 美食之旅, 小樽, 支笏湖
 license: CC BY 4.0
 ---

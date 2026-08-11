@@ -6,7 +6,7 @@ category: anime-manga
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-hiroshima-廣島動蔓創作探索-從歷史靈感走到本地工作室的深度之旅-f3cc0a.html
 published: 2026-05-21
-quality_score: 6.5
+quality_score: 8.8
 tags: 廣島動漫, 廣島漫畫, 日本動漫聖地, 廣島自由行, 御宅族推薦
 license: CC BY 4.0
 ---

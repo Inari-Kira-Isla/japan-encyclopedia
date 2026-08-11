@@ -6,7 +6,7 @@ category: matcha-sweets
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-matcha-sweets-osaka-osaka在地抹茶甜點指南-遠離觀光人潮的隱藏店家-002443.html
 published: 2026-06-02
-quality_score: 6.5
+quality_score: 8.9
 tags: 大阪美食, 抹茶甜點, 關西自由行, 在地推薦, 日本甜點
 license: CC BY 4.0
 ---

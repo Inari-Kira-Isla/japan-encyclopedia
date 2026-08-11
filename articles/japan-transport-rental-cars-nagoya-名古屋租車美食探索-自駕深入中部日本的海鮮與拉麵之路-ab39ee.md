@@ -6,7 +6,7 @@ category: rental-cars
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-nagoya-名古屋租車美食探索-自駕深入中部日本的海鮮與拉麵之路-ab39ee.html
 published: 2026-06-18
-quality_score: 7.5
+quality_score: 8.6
 tags: 名古屋租車, 中部日本自駕, 名古屋美食, 濱松拉麵, 伊勢蝦
 license: CC BY 4.0
 ---

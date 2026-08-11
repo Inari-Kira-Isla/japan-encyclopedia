@@ -6,7 +6,7 @@ category: anime-manga
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-okinawa-沖繩動漫次文化深度探索-海島獨有的二次元生態圈-29aa1f.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 沖繩動漫, 琉球文化, 同人創作, Cosplay, 海洋主題
 license: CC BY 4.0
 ---

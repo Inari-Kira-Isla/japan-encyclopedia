@@ -6,7 +6,7 @@ category: tempura
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tempura-nara-奈良天婦羅-古都巷弄中的薄衣炸物美學-920bc2.html
 published: 2026-06-20
-quality_score: 6.5
+quality_score: 8.7
 tags: 奈良美食, 古都料理, 天婦羅, 關西美食, 日本料理
 license: CC BY 4.0
 ---

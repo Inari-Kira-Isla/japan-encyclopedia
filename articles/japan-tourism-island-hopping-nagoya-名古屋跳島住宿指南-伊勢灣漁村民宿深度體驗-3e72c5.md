@@ -6,7 +6,7 @@ category: island-hopping
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-island-hopping-nagoya-名古屋跳島住宿指南-伊勢灣漁村民宿深度體驗-3e72c5.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 名古屋跳島, 漁村民宿, 伊勢灣住宿, 日本民宿體驗, 海鮮料理住宿
 license: CC BY 4.0
 ---

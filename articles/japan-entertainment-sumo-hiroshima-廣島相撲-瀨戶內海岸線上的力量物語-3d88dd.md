@@ -6,7 +6,7 @@ category: sumo
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-hiroshima-廣島相撲-瀨戶內海岸線上的力量物語-3d88dd.html
 published: 2026-06-04
-quality_score: 6.5
+quality_score: 8.7
 tags: 廣島相撲, 瀨戶內海, 嚴島神社, 盆相扑, 廣島棒球
 license: CC BY 4.0
 ---

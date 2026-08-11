@@ -6,7 +6,7 @@ category: garden-parks
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-okinawa-沖繩療癒花園指南-遠離人群的靜謐綠洲-cfa64b.html
 published: 2026-03-25
-quality_score: 6.5
+quality_score: 8.8
 tags: 沖繩花園, 療癒之旅, 亞熱帶園區, 自然生態, 親子景點
 license: CC BY 4.0
 ---

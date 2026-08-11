@@ -6,7 +6,7 @@ category: nightlife
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-sendai-仙台夜生活-東北學都的深夜魅力探索-785fcf.html
 published: 2026-04-01
-quality_score: 6.5
+quality_score: 8.6
 tags: 仙台夜生活, 東北地方, 居酒屋文化, 學生街, 溫泉體驗
 license: CC BY 4.0
 ---

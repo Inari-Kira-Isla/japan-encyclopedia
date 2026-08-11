@@ -6,7 +6,7 @@ category: rental-cars
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-hokkaido-北海道租車自駕遊-攝影旅人必收藏的絕景路線與取車策略-f1402c.html
 published: 2026-06-18
-quality_score: 7.5
+quality_score: 8.7
 tags: 北海道租車, 自駕遊, 攝影旅遊, 美瑛, 支笏湖
 license: CC BY 4.0
 ---

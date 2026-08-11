@@ -6,7 +6,7 @@ category: business-hotels
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-business-hotels-nara-奈良商務酒店樞紐導覽-近鐵與jr車站周邊的高效住宿選擇-3117d1.html
 published: 2026-06-04
-quality_score: 6.5
+quality_score: 8.5
 tags: 奈良商務住宿, 近鐵奈良站, JR奈良站, 关西商旅, 奈良车站周边饭店
 license: CC BY 4.0
 ---

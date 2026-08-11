@@ -6,7 +6,7 @@ category: onsen
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-onsen-kyoto-京都錢湯-隱藏在巷弄間的日常溫泉文化-4db7b9.html
 published: 2026-06-06
-quality_score: 6.5
+quality_score: 8.5
 tags: 京都錢湯, 京都溫泉, 京都公共浴場, 日本錢湯文化, 京都自由行
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: nightlife
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-tokyo-東京夜生活-巷弄裡的人情味・在地人的深夜食堂-d760ee.html
 published: 2026-06-03
-quality_score: 6.5
+quality_score: 8.4
 tags: 東京夜生活, 深夜食堂, 東京美食, 站著喝, 日本旅遊
 license: CC BY 4.0
 ---

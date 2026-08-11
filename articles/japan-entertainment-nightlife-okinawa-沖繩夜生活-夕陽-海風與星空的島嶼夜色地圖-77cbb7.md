@@ -6,7 +6,7 @@ category: nightlife
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-okinawa-沖繩夜生活-夕陽-海風與星空的島嶼夜色地圖-77cbb7.html
 published: 2026-06-19
-quality_score: 6.5
+quality_score: 8.6
 tags: 沖繩夜生活, 恩納村, 那霸市, 沙灘酒吧, 屋台
 license: CC BY 4.0
 ---

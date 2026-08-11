@@ -6,7 +6,7 @@ category: ramen
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-ramen-osaka-大阪拉麵-深夜食堂與二次會的庶民味覺-51008d.html
 published: 2026-06-27
-quality_score: 6.5
+quality_score: 8.6
 tags: 大阪拉麵, 大阪美食, 日本拉麵, 道頓堀, 新世界
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: street-food
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-street-food-kanazawa-金澤街頭的黃金滋味-箔金時代の庶民甜點-6d3523.html
 published: 2026-06-28
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤, 街頭美食, 金箔甜點, 石川縣, 古都滋味
 license: CC BY 4.0
 ---

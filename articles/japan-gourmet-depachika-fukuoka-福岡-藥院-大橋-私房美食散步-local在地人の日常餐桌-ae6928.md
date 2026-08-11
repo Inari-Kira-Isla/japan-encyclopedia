@@ -6,7 +6,7 @@ category: depachika
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-depachika-fukuoka-福岡-藥院-大橋-私房美食散步-local在地人の日常餐桌-ae6928.html
 published: 2026-05-22
-quality_score: 6.5
+quality_score: 8.9
 tags: 福岡地下食品, 藥院站, 大橋站, local美食, 博多万願寺煮
 license: CC BY 4.0
 ---

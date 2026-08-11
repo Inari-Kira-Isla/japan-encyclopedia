@@ -6,7 +6,7 @@ category: day-trips
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-kyoto-京都出發奈良一日遊-穿越古日本的時空隧道-7e3e40.html
 published: 2026-06-04
-quality_score: 6.5
+quality_score: 8.8
 tags: 京都一日遊, 奈良古都, 日本世界遺產, 關西鐵道之旅, 古都文化探索
 license: CC BY 4.0
 ---

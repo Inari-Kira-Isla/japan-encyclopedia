@@ -6,7 +6,7 @@ category: street-food
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-street-food-tokyo-東京下町清晨的味覺時光-庶民街食的時間學-524c66.html
 published: 2026-06-18
-quality_score: 6.5
+quality_score: 8.6
 tags: 東京, 街頭美食, 下町, 清晨體驗, 庶民美食
 license: CC BY 4.0
 ---

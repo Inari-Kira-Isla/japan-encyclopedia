@@ -6,7 +6,7 @@ category: souvenir-omiyage
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-souvenir-omiyage-okinawa-沖繩空港周邊伴手禮採購黃金圈-國際線旅客的極速購物攻略-8a542f.html
 published: 2026-06-30
-quality_score: 7.5
+quality_score: 8.5
 tags: 沖繩伴手禮, 那霸機場, 沖繩免稅店, 紅芋, 泡盛
 license: CC BY 4.0
 ---

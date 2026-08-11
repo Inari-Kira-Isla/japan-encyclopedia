@@ -6,7 +6,7 @@ category: karaoke
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-karaoke-hokkaido-北海道卡拉ok-雪國的溫暖歌聲與美食記憶-11aa6e.html
 published: 2026-06-06
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道卡拉OK, 札幌卡拉OK, 雪國娛樂, 成吉思汗烤肉, 北海道美食
 license: CC BY 4.0
 ---

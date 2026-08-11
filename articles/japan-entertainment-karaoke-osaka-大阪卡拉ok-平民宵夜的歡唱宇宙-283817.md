@@ -6,7 +6,7 @@ category: karaoke
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-karaoke-osaka-大阪卡拉ok-平民宵夜的歡唱宇宙-283817.html
 published: 2026-06-16
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪卡拉OK, 關西娛樂, 大阪美食, 道頓堀, 心齋橋
 license: CC BY 4.0
 ---

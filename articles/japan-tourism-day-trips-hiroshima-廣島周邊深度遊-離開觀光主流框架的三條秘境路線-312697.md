@@ -6,7 +6,7 @@ category: day-trips
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-hiroshima-廣島周邊深度遊-離開觀光主流框架的三條秘境路線-312697.html
 published: 2026-06-04
-quality_score: 6.5
+quality_score: 8.9
 tags: 廣島一日遊, 尾道自單車道, 吳港夜景, 山口溫泉, 備後古城
 license: CC BY 4.0
 ---

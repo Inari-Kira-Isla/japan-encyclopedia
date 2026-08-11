@@ -6,7 +6,7 @@ category: sake-brewery
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sake-brewery-kyoto-京都地酒藏巡禮-探訪伏見與洛中的在地酒窖-833c71.html
 published: 2026-05-31
-quality_score: 6.5
+quality_score: 8.7
 tags: 京都景點, 清酒釀酒廠, 日本釀酒, 京都自由行, 關西旅遊
 license: CC BY 4.0
 ---

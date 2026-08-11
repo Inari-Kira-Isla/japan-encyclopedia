@@ -6,7 +6,7 @@ category: nightlife
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-tokyo-tokyo-nightlife-遊戲中心與深夜娛樂的二次元異世界-0519ac.html
 published: 2026-06-02
-quality_score: 6.5
+quality_score: 8.7
 tags: Tokyo, Nightlife, Gaming Arcade, 東京夜生活, 遊戲中心
 license: CC BY 4.0
 ---

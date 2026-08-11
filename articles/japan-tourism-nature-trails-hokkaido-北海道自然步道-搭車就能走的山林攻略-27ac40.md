@@ -6,7 +6,7 @@ category: nature-trails
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-hokkaido-北海道自然步道-搭車就能走的山林攻略-27ac40.html
 published: 2026-06-04
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道, 自然步道, 健行, 戶外, 鐵路交通
 license: CC BY 4.0
 ---

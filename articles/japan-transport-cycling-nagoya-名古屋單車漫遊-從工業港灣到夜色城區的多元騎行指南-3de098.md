@@ -6,7 +6,7 @@ category: cycling
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-nagoya-名古屋單車漫遊-從工業港灣到夜色城區的多元騎行指南-3de098.html
 published: 2026-06-01
-quality_score: 7.5
+quality_score: 8.6
 tags: 名古屋單車, 港區騎行, 名古屋景點, 城市漫遊, 地下街
 license: CC BY 4.0
 ---

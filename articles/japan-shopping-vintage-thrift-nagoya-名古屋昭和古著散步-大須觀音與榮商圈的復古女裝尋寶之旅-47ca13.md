@@ -6,7 +6,7 @@ category: vintage-thrift
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-vintage-thrift-nagoya-名古屋昭和古著散步-大須觀音與榮商圈的復古女裝尋寶之旅-47ca13.html
 published: 2026-06-30
-quality_score: 7.5
+quality_score: 8.7
 tags: 名古屋古著, 昭和復古, 古著女裝, 中部國際空港, 大須觀音
 license: CC BY 4.0
 ---

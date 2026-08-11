@@ -6,7 +6,7 @@ category: festivals-matsuri
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-festivals-matsuri-osaka-大阪夜祭攻略-當關閉商都點亮燈籠的不眠狂歡-1414ff.html
 published: 2026-05-25
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪祭典, 夜祭體驗, 天神祭, 關西夏日活動, 日本祭典自由行
 license: CC BY 4.0
 ---

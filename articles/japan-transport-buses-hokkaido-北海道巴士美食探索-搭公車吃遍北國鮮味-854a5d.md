@@ -6,7 +6,7 @@ category: buses
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-buses-hokkaido-北海道巴士美食探索-搭公車吃遍北國鮮味-854a5d.html
 published: 2026-07-03
-quality_score: 7.5
+quality_score: 8.5
 tags: 北海道巴士, 北海道美食, 小樽三角市場, 函館朝市, 釧路和商市場
 license: CC BY 4.0
 ---

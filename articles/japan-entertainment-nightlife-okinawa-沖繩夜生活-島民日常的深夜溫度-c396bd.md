@@ -6,7 +6,7 @@ category: nightlife
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-okinawa-沖繩夜生活-島民日常的深夜溫度-c396bd.html
 published: 2026-06-05
-quality_score: 6.5
+quality_score: 8.9
 tags: 沖繩夜生活, 琉球文化, 美式基地, 那霸美食, 島嶼慢活
 license: CC BY 4.0
 ---

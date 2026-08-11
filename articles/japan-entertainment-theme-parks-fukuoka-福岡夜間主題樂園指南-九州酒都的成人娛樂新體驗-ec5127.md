@@ -6,7 +6,7 @@ category: theme-parks
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-theme-parks-fukuoka-福岡夜間主題樂園指南-九州酒都的成人娛樂新體驗-ec5127.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.8
 tags: 福岡, 夜生活, 主題樂園, 居酒屋文化, 清酒體驗
 license: CC BY 4.0
 ---

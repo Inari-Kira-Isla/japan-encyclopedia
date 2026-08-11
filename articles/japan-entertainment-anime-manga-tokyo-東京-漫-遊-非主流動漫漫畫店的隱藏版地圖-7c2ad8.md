@@ -6,7 +6,7 @@ category: anime-manga
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-tokyo-東京-漫-遊-非主流動漫漫畫店的隱藏版地圖-7c2ad8.html
 published: 2026-07-03
-quality_score: 6.5
+quality_score: 8.5
 tags: 東京動漫, 東京漫畫店, 神保町漫畫, 漫畫咖啡廳, 下落合
 license: CC BY 4.0
 ---

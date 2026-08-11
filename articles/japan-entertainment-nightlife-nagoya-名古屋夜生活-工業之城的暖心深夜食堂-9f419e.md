@@ -6,7 +6,7 @@ category: nightlife
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-nagoya-名古屋夜生活-工業之城的暖心深夜食堂-9f419e.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 8.7
 tags: 名古屋夜生活, 名古屋美食, 日本居酒屋, 名古屋旅游, 名古屋自由行
 license: CC BY 4.0
 ---

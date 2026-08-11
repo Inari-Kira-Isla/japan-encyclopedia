@@ -6,7 +6,7 @@ category: ferries
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-ferries-osaka-仙台jr-pass秋季賞楓攻略-成本效益分析與鐵道漫遊推薦-054d37.html
 published: 2026-07-01
-quality_score: 7.5
+quality_score: 8.5
 tags: JR Pass, 仙台, 東北賞楓, 鐵路周遊券, 秋季旅行
 license: CC BY 4.0
 ---

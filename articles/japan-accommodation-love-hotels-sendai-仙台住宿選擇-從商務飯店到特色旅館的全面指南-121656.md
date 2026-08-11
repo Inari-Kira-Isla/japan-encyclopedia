@@ -6,7 +6,7 @@ category: love-hotels
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-love-hotels-sendai-仙台住宿選擇-從商務飯店到特色旅館的全面指南-121656.html
 published: 2026-06-05
-quality_score: 6.5
+quality_score: 8.6
 tags: 仙台住宿, 東北溫泉, 商務飯店, 溫泉旅館, 秋保溫泉
 license: CC BY 4.0
 ---

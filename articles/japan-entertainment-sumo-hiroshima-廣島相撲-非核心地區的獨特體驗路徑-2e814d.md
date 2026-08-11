@@ -6,7 +6,7 @@ category: sumo
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-hiroshima-廣島相撲-非核心地區的獨特體驗路徑-2e814d.html
 published: 2026-05-25
-quality_score: 6.5
+quality_score: 8.7
 tags: 广岛旅游, 相扑文化, 关西相扑, 日式运动体验,  Hiroshima travel
 license: CC BY 4.0
 ---

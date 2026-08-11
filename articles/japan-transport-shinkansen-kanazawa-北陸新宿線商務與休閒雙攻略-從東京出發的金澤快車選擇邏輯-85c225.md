@@ -6,7 +6,7 @@ category: shinkansen
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-kanazawa-北陸新宿線商務與休閒雙攻略-從東京出發的金澤快車選擇邏輯-85c225.html
 published: 2026-07-06
-quality_score: 7.5
+quality_score: 8.5
 tags: 金澤交通, 北陸新幹綫, 日本新幹綫, 東京到金澤, 輕井澤
 license: CC BY 4.0
 ---

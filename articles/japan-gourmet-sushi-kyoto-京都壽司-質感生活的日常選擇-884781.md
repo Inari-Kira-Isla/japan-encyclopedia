@@ -6,7 +6,7 @@ category: sushi
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sushi-kyoto-京都壽司-質感生活的日常選擇-884781.html
 published: 2026-05-25
-quality_score: 6.5
+quality_score: 8.2
 tags: 京都壽司, 关西壽司, 京料理, 祇園美食, 町家寿司
 license: CC BY 4.0
 ---

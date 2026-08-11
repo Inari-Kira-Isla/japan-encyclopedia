@@ -6,7 +6,7 @@ category: shinkansen
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-fukuoka-九州新幹線完全指南-從博多站出發的鐵道之旅-5e02cb.html
 published: 2026-06-06
-quality_score: 7.5
+quality_score: 8.7
 tags: 九州新幹線, 博多駅, 熊本市, 鹿兒島, 福岡旅遊
 license: CC BY 4.0
 ---

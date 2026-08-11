@@ -6,7 +6,7 @@ category: minshuku
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-kobe-神戶民宿完全指南-生田神社周邊的巷弄溫情-8dedc2.html
 published: 2026-06-21
-quality_score: 6.5
+quality_score: 9.0
 tags: 神戶民宿, 神戶住宿, 生田神社, 有馬溫泉, 北野異人館
 license: CC BY 4.0
 ---

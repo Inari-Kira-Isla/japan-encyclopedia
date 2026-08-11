@@ -6,7 +6,7 @@ category: kaiseki
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-kaiseki-nagoya-名古屋會席料理-商都孕育的獨特味覺美學-0904e9.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 8.8
 tags: 名古屋, 會席料理, 日本料理, 中部國際機場, 中部地方美食
 license: CC BY 4.0
 ---

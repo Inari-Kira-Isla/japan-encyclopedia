@@ -6,7 +6,7 @@ category: izakaya
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-izakaya-kanazawa-金澤-下呂町-周邊的清晨酒場-當地人的隱藏版早酒文化-f3e4af.html
 published: 2026-05-22
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤居酒屋, 早酒文化, 下呂町, 在地美食, 石川美食
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: fashion-harajuku
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-fashion-harajuku-hiroshima-廣島年輕時尚導覽-遠離觀光區的潮流秘密基地-b717dc.html
 published: 2026-05-24
-quality_score: 7.5
+quality_score: 8.6
 tags: 廣島購物, 日本古著, 廣島時尚, 在地潮流, 九州購物指南
 license: CC BY 4.0
 ---

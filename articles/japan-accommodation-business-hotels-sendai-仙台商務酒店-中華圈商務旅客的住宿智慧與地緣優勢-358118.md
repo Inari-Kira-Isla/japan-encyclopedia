@@ -6,7 +6,7 @@ category: business-hotels
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-business-hotels-sendai-仙台商務酒店-中華圈商務旅客的住宿智慧與地緣優勢-358118.html
 published: 2026-03-31
-quality_score: 6.5
+quality_score: 8.7
 tags: 仙台商務酒店, 日本東北商務住宿, 仙台出差推薦, 中華圈旅客日本商務, 仙台商務飯店
 license: CC BY 4.0
 ---

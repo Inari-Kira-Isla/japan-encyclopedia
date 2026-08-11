@@ -6,7 +6,7 @@ category: souvenir-omiyage
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-souvenir-omiyage-nagoya-名古屋伴手禮季節策略-工業之都的精工美味與限定商機-4a8bf4.html
 published: 2026-04-06
-quality_score: 7.5
+quality_score: 8.8
 tags: 名古屋購物, 日本伴手禮, 季節限定, 中部地區, 企業文化
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: business-hotels
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-business-hotels-sendai-仙台商務飯店-東北樞紐的便利住宿指南-49a631.html
 published: 2026-03-31
-quality_score: 6.5
+quality_score: 8.5
 tags: 仙台, 商務飯店, 東北日本, 出差住宿, JR仙台站
 license: CC BY 4.0
 ---

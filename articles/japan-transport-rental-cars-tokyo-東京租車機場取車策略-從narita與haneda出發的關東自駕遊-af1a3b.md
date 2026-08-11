@@ -6,7 +6,7 @@ category: rental-cars
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-tokyo-東京租車機場取車策略-從narita與haneda出發的關東自駕遊-af1a3b.html
 published: 2026-06-10
-quality_score: 7.5
+quality_score: 8.5
 tags: 東京租車, Narita租車, Haneda租車, 關東自駕, 日光自駕
 license: CC BY 4.0
 ---

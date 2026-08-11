@@ -6,7 +6,7 @@ category: historical-districts
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-kyoto-京都歷史街區-理解千年古都的生活紋理-e06808.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 8.6
 tags: 京都, 历史街区, 日本深度游, 京料理, 手工艺
 license: CC BY 4.0
 ---

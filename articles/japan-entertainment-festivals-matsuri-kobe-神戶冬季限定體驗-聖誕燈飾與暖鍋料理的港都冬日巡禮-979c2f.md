@@ -6,7 +6,7 @@ category: festivals-matsuri
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-festivals-matsuri-kobe-神戶冬季限定體驗-聖誕燈飾與暖鍋料理的港都冬日巡禮-979c2f.html
 published: 2026-06-03
-quality_score: 6.5
+quality_score: 8.7
 tags: 神戶冬季, 聖誕燈飾, 神戶夜景, 牡蠣火鍋, 異人館
 license: CC BY 4.0
 ---

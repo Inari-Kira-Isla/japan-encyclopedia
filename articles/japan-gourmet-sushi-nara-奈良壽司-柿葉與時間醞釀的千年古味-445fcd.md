@@ -6,7 +6,7 @@ category: sushi
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sushi-nara-奈良壽司-柿葉與時間醞釀的千年古味-445fcd.html
 published: 2026-05-25
-quality_score: 6.5
+quality_score: 8.7
 tags: 奈良壽司, 柿葉壽司, 奈良美食, 日本壽司, 關西美食
 license: CC BY 4.0
 ---

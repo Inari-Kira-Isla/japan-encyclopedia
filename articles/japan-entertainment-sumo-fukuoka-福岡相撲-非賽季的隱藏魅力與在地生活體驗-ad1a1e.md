@@ -6,7 +6,7 @@ category: sumo
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-fukuoka-福岡相撲-非賽季的隱藏魅力與在地生活體驗-ad1a1e.html
 published: 2026-06-18
-quality_score: 6.5
+quality_score: 8.5
 tags: 福岡相撲, 九州場所, 博多人創作, 相撲火鍋, 體驗分享
 license: CC BY 4.0
 ---

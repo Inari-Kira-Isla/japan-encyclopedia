@@ -6,7 +6,7 @@ category: duty-free
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-duty-free-hokkaido-北海道免稅購物省錢攻略-區域分工與聰明採購法則-53ee53.html
 published: 2026-03-29
-quality_score: 7.5
+quality_score: 8.7
 tags: 北海道免稅購物, 北海道自由行, 札幌免稅店, 函館免稅, 小樽購物
 license: CC BY 4.0
 ---

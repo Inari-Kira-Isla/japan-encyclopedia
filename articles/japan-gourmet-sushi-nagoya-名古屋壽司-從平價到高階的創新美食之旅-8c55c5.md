@@ -6,7 +6,7 @@ category: sushi
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sushi-nagoya-名古屋壽司-從平價到高階的創新美食之旅-8c55c5.html
 published: 2026-03-23
-quality_score: 6.5
+quality_score: 8.7
 tags: 名古屋, 壽司, 日本美食, 中部地區, 平價美食
 license: CC BY 4.0
 ---

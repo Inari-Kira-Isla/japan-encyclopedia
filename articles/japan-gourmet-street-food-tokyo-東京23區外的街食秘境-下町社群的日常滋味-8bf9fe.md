@@ -6,7 +6,7 @@ category: street-food
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-street-food-tokyo-東京23區外的街食秘境-下町社群的日常滋味-8bf9fe.html
 published: 2026-06-11
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京, 下町, 社區美食, 庶民滋味, 非觀光區
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: boutique-hotels
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-osaka-大阪巷弄精品宿-遠離人潮的在地質感居所-238301.html
 published: 2026-06-23
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪精品酒店, 大阪住宿推薦, 天王寺住宿, 新世界住宿, 中之島住宿
 license: CC BY 4.0
 ---

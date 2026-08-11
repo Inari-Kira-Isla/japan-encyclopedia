@@ -6,7 +6,7 @@ category: island-hopping
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-island-hopping-nagoya-名古屋跳島新體驗-藝術與海味的中部島嶼巡禮-0231e5.html
 published: 2026-04-06
-quality_score: 6.5
+quality_score: 8.9
 tags: 名古屋, 跳島旅遊, 伊勢灣, 海鮮料理, 藝術季
 license: CC BY 4.0
 ---

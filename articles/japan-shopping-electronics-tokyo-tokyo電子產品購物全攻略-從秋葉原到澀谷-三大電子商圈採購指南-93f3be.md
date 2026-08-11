@@ -6,7 +6,7 @@ category: electronics
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-electronics-tokyo-tokyo電子產品購物全攻略-從秋葉原到澀谷-三大電子商圈採購指南-93f3be.html
 published: 2026-05-22
-quality_score: 7.5
+quality_score: 8.4
 tags: Tokyo電子產品, 秋葉原購物, 東京電器行, 日本免稅購物, 電子產品採購
 license: CC BY 4.0
 ---

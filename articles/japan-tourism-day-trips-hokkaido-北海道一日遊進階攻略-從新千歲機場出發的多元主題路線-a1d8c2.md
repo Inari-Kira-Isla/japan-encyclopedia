@@ -6,7 +6,7 @@ category: day-trips
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-hokkaido-北海道一日遊進階攻略-從新千歲機場出發的多元主題路線-a1d8c2.html
 published: 2026-06-23
-quality_score: 6.5
+quality_score: 8.8
 tags: 北海道一日遊, 小樽運河, 洞爺湖溫泉, 日高牧場, 新千歲機場
 license: CC BY 4.0
 ---

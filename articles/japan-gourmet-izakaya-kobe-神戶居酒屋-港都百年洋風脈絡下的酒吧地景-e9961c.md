@@ -6,7 +6,7 @@ category: izakaya
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-izakaya-kobe-神戶居酒屋-港都百年洋風脈絡下的酒吧地景-e9961c.html
 published: 2026-05-23
-quality_score: 6.5
+quality_score: 8.7
 tags: 神戶居酒屋, 神戶酒吧, 港都夜生活, 異人館通, 灘五郷清酒
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: ramen
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-ramen-hiroshima-廣島拉麵-尾道的港都風情與瀨戶內海海鮮拉麵-4ecfc5.html
 published: 2026-06-11
-quality_score: 6.5
+quality_score: 8.6
 tags: 廣島拉麵, 尾道拉麵, 瀨戶內海海鮮, 牡蠣拉麵, 日本拉麵
 license: CC BY 4.0
 ---

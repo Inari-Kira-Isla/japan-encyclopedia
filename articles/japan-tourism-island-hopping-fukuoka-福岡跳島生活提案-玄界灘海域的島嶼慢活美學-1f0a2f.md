@@ -6,7 +6,7 @@ category: island-hopping
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-island-hopping-fukuoka-福岡跳島生活提案-玄界灘海域的島嶼慢活美學-1f0a2f.html
 published: 2026-06-29
-quality_score: 6.5
+quality_score: 8.5
 tags: 福岡跳島, 玄界灘, 唐津, 呼子, 小蹲群島
 license: CC BY 4.0
 ---

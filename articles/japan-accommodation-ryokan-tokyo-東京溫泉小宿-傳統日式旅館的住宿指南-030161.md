@@ -6,7 +6,7 @@ category: ryokan
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-tokyo-東京溫泉小宿-傳統日式旅館的住宿指南-030161.html
 published: 2026-03-16
-quality_score: 6.5
+quality_score: 8.5
 tags: 東京住宿, 日式旅馆, 淺草溫泉, 東京自由行, 傳統旅宿
 license: CC BY 4.0
 ---

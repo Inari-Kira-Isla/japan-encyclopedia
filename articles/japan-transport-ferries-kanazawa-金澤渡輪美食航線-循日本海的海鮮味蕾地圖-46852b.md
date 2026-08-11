@@ -6,7 +6,7 @@ category: ferries
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-ferries-kanazawa-金澤渡輪美食航線-循日本海的海鮮味蕾地圖-46852b.html
 published: 2026-06-17
-quality_score: 7.5
+quality_score: 8.7
 tags: 金澤交通, 日本海渡輪, 石川縣海鮮, 能登半島, 輪島港
 license: CC BY 4.0
 ---

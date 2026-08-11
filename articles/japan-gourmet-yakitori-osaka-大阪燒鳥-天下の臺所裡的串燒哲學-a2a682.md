@@ -6,7 +6,7 @@ category: yakitori
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-yakitori-osaka-大阪燒鳥-天下の臺所裡的串燒哲學-a2a682.html
 published: 2026-06-12
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪燒鳥, 大阪美食, 關西燒烤, 日本串燒, 大阪夜食
 license: CC BY 4.0
 ---

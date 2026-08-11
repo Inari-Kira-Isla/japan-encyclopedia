@@ -6,7 +6,7 @@ category: kaiseki
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-kaiseki-nagoya-名古屋懷石料理-伊勢灣海味的商工業都會風-333d92.html
 published: 2026-06-29
-quality_score: 6.5
+quality_score: 8.9
 tags: 名古屋懷石, 伊勢灣海產, 名古屋美食, 日本中部料理, 名古屋旅行
 license: CC BY 4.0
 ---

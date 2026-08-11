@@ -6,7 +6,7 @@ category: vr-experiences
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-vr-experiences-fukuoka-福岡vr體驗-科技與九州美食文化的創意融合-d2a474.html
 published: 2026-06-15
-quality_score: 6.5
+quality_score: 8.7
 tags: 福岡VR, 九州科技娛樂, 福岡旅遊, VR體驗, 天神VR
 license: CC BY 4.0
 ---

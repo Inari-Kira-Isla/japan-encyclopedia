@@ -6,7 +6,7 @@ category: ski-resorts
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-ski-resorts-nagoya-名古屋出發滑雪秘境-中部山嶽的粉雪樂園-f6ee9f.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 8.7
 tags: 名古屋滑雪, 岐阜滑雪場, 中部滑雪, 日本滑雪推薦, 溫泉滑雪
 license: CC BY 4.0
 ---

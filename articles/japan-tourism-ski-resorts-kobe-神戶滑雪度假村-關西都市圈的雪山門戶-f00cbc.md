@@ -6,7 +6,7 @@ category: ski-resorts
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-ski-resorts-kobe-神戶滑雪度假村-關西都市圈的雪山門戶-f00cbc.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.8
 tags: 神戶滑雪, 關西滑雪場, 六甲山, 兵庫縣, 日歸滑雪
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: vr-experiences
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-vr-experiences-kanazawa-金澤vr體驗完全指南-傳統與未來的娛樂碰撞-d07c85.html
 published: 2026-06-02
-quality_score: 6.5
+quality_score: 8.6
 tags: 金澤VR, 金澤體驗, 金澤旅遊, 石川縣娛樂, 北陸親子遊
 license: CC BY 4.0
 ---

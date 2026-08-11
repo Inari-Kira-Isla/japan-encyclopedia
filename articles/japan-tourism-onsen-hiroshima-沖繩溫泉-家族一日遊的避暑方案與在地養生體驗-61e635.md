@@ -6,7 +6,7 @@ category: onsen
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-onsen-hiroshima-沖繩溫泉-家族一日遊的避暑方案與在地養生體驗-61e635.html
 published: 2026-06-04
-quality_score: 6.5
+quality_score: 8.8
 tags: 沖繩溫泉, 家族旅行, 亞熱帶溫泉, 一日遊, 碳酸氫鈉泉
 license: CC BY 4.0
 ---

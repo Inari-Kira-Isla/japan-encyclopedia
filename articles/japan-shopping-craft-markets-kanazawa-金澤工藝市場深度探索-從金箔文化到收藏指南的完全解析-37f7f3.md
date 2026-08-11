@@ -6,7 +6,7 @@ category: craft-markets
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-craft-markets-kanazawa-金澤工藝市場深度探索-從金箔文化到收藏指南的完全解析-37f7f3.html
 published: 2026-05-23
-quality_score: 7.5
+quality_score: 8.7
 tags: 金澤, 工藝市場, 金箔, 日本購物, 加賀百萬石
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: sumo
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-nara-奈良相撲文化-古都小巷裡的橫綱足跡-408085.html
 published: 2026-05-25
-quality_score: 6.5
+quality_score: 8.6
 tags: 奈良相撲, 古都文化, 相撲鍋, 日本體驗, 神社儀式
 license: CC BY 4.0
 ---

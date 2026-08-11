@@ -6,7 +6,7 @@ category: vintage-thrift
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-vintage-thrift-hiroshima-廣島古著獵人潛攻略-和平之城的學園古著密境-611346.html
 published: 2026-06-22
-quality_score: 7.5
+quality_score: 8.7
 tags: 廣島古著, 日本中國地方, 大學生古著, 紙屋町, 八丁堀
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: duty-free
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-duty-free-tokyo-東京免稅購物季節攻略-精明消費者的全年購物日曆與省錢策略-efef5b.html
 published: 2026-04-03
-quality_score: 7.5
+quality_score: 8.8
 tags: 東京購物, 免稅店, 季節性購物, 省錢攻略, 日本旅遊
 license: CC BY 4.0
 ---

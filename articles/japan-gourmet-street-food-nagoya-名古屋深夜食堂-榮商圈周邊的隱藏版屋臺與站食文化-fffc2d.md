@@ -6,7 +6,7 @@ category: street-food
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-street-food-nagoya-名古屋深夜食堂-榮商圈周邊的隱藏版屋臺與站食文化-fffc2d.html
 published: 2026-06-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 名古屋, 街頭美食, 屋台, 深夜食堂, 榮商圈
 license: CC BY 4.0
 ---

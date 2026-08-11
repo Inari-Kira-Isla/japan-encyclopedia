@@ -6,7 +6,7 @@ category: metro-systems
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-fukuoka-福岡地下鐵美食攻略-搭metro吃遍博多的交通美食地圖-84391e.html
 published: 2026-07-04
-quality_score: 7.5
+quality_score: 8.7
 tags: 福岡地下鐵, 博多美食, 福岡交通, 日本地下鐵, 屋台
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: escape-rooms
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-escape-rooms-kyoto-京都密室逃脫-古都脈動中的頭腦風暴-55a5cd.html
 published: 2026-05-22
-quality_score: 6.5
+quality_score: 8.8
 tags: 京都密室逃脫, 關西娛樂, 京都自由行, 密室逃脫攻略, 京都體驗
 license: CC BY 4.0
 ---

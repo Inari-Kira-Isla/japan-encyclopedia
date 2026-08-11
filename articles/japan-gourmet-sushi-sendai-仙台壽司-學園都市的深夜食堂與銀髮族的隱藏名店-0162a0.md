@@ -6,7 +6,7 @@ category: sushi
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sushi-sendai-仙台壽司-學園都市的深夜食堂與銀髮族的隱藏名店-0162a0.html
 published: 2026-06-28
-quality_score: 6.5
+quality_score: 8.5
 tags: 仙台壽司, 學園都市, 深夜食堂, 朝壽司, 三陸海岸
 license: CC BY 4.0
 ---

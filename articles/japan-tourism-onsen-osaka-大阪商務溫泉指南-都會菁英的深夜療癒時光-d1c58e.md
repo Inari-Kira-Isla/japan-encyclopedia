@@ -6,7 +6,7 @@ category: onsen
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-onsen-osaka-大阪商務溫泉指南-都會菁英的深夜療癒時光-d1c58e.html
 published: 2026-04-06
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪溫泉, 商務旅遊, 深夜溫泉, 都市療癒, 關西溫泉
 license: CC BY 4.0
 ---

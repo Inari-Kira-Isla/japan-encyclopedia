@@ -6,7 +6,7 @@ category: tempura
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tempura-nara-奈良天婦羅-千年古都的素雅職人手藝-9a52f7.html
 published: 2026-04-06
-quality_score: 6.5
+quality_score: 8.7
 tags: 奈良美食, 天婦羅, 素食料理, 佛教文化, 職人技藝
 license: CC BY 4.0
 ---

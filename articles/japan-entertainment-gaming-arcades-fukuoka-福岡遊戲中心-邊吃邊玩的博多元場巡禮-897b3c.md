@@ -6,7 +6,7 @@ category: gaming-arcades
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-gaming-arcades-fukuoka-福岡遊戲中心-邊吃邊玩的博多元場巡禮-897b3c.html
 published: 2026-06-16
-quality_score: 6.5
+quality_score: 8.8
 tags: 福岡, 遊戲中心, 街機, 博多年輕文化, 天神
 license: CC BY 4.0
 ---

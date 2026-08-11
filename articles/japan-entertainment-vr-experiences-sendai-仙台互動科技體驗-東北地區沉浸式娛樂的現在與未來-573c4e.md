@@ -6,7 +6,7 @@ category: vr-experiences
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-vr-experiences-sendai-仙台互動科技體驗-東北地區沉浸式娛樂的現在與未來-573c4e.html
 published: 2026-06-26
-quality_score: 6.5
+quality_score: 8.7
 tags: 仙台VR體驗, 東北科技娛樂, 仙台旅遊, 沉浸式娛樂, 日本遊戲中心
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: temple-stays
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-temple-stays-okinawa-沖繩寺廟參訪文化-琉球佛教的靜謐之道-201958.html
 published: 2026-06-12
-quality_score: 6.5
+quality_score: 8.8
 tags: 沖繩寺廟, 琉球佛教, 沖繩文化, 靜謐之旅, 世界遺產
 license: CC BY 4.0
 ---

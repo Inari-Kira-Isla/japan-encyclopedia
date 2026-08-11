@@ -6,7 +6,7 @@ category: depachika
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-depachika-osaka-大阪depachika-天王寺站周邊地下食品街-在地人的日常廚房與隱藏版伴手禮-750dad.html
 published: 2026-06-16
-quality_score: 6.5
+quality_score: 9.0
 tags: 大阪, Depachika, 天王寺, 地下食品街, 在美食
 license: CC BY 4.0
 ---

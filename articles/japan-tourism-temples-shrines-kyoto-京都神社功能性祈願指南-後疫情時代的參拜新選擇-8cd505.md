@@ -6,7 +6,7 @@ category: temples-shrines
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-temples-shrines-kyoto-京都神社功能性祈願指南-後疫情時代的參拜新選擇-8cd505.html
 published: 2026-04-06
-quality_score: 6.5
+quality_score: 8.7
 tags: 京都神社, 功能性祈願, 後疫情參拜, 京都自由行, 日本宗教文化
 license: CC BY 4.0
 ---

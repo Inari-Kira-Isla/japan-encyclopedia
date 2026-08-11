@@ -6,7 +6,7 @@ category: rental-cars
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-tokyo-東京自駕美食冒險-租車探尋江戶風味與關東地方料理的秘境之旅-6377ff.html
 published: 2026-03-21
-quality_score: 7.5
+quality_score: 8.7
 tags: 東京自駕, 美食旅遊, 租車指南, 日本料理, 地方美食
 license: CC BY 4.0
 ---

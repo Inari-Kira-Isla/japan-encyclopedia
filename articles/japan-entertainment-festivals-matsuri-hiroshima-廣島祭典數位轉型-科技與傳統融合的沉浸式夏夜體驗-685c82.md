@@ -6,7 +6,7 @@ category: festivals-matsuri
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-festivals-matsuri-hiroshima-廣島祭典數位轉型-科技與傳統融合的沉浸式夏夜體驗-685c82.html
 published: 2026-06-15
-quality_score: 6.5
+quality_score: 8.7
 tags: 廣島祭典, 數位體驗, VR祭典, 瀨戶內海, 和平紀念
 license: CC BY 4.0
 ---

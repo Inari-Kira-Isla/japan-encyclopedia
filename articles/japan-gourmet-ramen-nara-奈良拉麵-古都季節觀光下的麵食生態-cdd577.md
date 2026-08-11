@@ -6,7 +6,7 @@ category: ramen
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-ramen-nara-奈良拉麵-古都季節觀光下的麵食生態-cdd577.html
 published: 2026-04-06
-quality_score: 6.5
+quality_score: 8.7
 tags: 奈良美食, 關西拉麵, 古都文化, 季節觀光, 在地體驗
 license: CC BY 4.0
 ---

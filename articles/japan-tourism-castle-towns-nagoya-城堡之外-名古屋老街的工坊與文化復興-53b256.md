@@ -6,7 +6,7 @@ category: castle-towns
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-castle-towns-nagoya-城堡之外-名古屋老街的工坊與文化復興-53b256.html
 published: 2026-03-23
-quality_score: 6.5
+quality_score: 8.7
 tags: 城下町, 名古屋, 老街建筑, 工匠文化, 四間道
 license: CC BY 4.0
 ---

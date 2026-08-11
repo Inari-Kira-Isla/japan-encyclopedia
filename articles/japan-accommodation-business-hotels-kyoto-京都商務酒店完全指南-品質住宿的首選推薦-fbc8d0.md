@@ -6,7 +6,7 @@ category: business-hotels
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-business-hotels-kyoto-京都商務酒店完全指南-品質住宿的首選推薦-fbc8d0.html
 published: 2026-03-15
-quality_score: 6.5
+quality_score: 8.7
 tags: 京都商務酒店, 京都住宿推薦, 京都車站住宿, 關西商務飯店, 京都自由行住宿
 license: CC BY 4.0
 ---

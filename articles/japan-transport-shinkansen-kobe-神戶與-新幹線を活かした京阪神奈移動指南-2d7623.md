@@ -6,7 +6,7 @@ category: shinkansen
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-kobe-神戶與-新幹線を活かした京阪神奈移動指南-2d7623.html
 published: 2026-05-22
-quality_score: 7.5
+quality_score: 8.7
 tags: 神戸旅遊, 新幹igl交通, 關西攻略, 京阪神移動, 日本鐵路
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: regional-guide
 area: japan
 url: https://japan-encyclopedia.vercel.app/articles/japan-attractions-regional-guide-金澤和石川縣完整旅遊指南2026-兼六園-金澤21世紀美術館-東茶屋街-費用-jpy-攻略-j-0aec96.html
 published: 2026-03-31
-quality_score: 7.1
+quality_score: 8.6
 tags: 金澤旅遊, 兼六園, 金澤21世紀美術館, 東茶屋街, 加賀料理
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: yakitori
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-yakitori-sendai-仙台燒鳥-伊達政宗城下の串燒武士道-774e46.html
 published: 2026-06-10
-quality_score: 6.5
+quality_score: 8.6
 tags: 仙台燒鳥, 東北地雞, 伊達政宗, 國分町, 日本串燒
 license: CC BY 4.0
 ---

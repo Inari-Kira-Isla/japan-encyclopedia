@@ -6,7 +6,7 @@ category: island-hopping
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-island-hopping-fukuoka-福岡跳島慢旅-遠離人潮的海岸島嶼生活體驗-2a049e.html
 published: 2026-06-10
-quality_score: 6.5
+quality_score: 8.3
 tags: 福岡跳島, 能古島, 志賀島, 九州海岸, 慢旅
 license: CC BY 4.0
 ---

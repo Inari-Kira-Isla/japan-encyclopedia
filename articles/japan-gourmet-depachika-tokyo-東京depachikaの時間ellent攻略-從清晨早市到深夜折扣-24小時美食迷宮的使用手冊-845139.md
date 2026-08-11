@@ -6,7 +6,7 @@ category: depachika
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-depachika-tokyo-東京depachikaの時間ellent攻略-從清晨早市到深夜折扣-24小時美食迷宮的使用手冊-845139.html
 published: 2026-05-25
-quality_score: 6.5
+quality_score: 8.5
 tags: 東京, DEPACHIKA, 日本美食, 地下美食街, 百货公司
 license: CC BY 4.0
 ---

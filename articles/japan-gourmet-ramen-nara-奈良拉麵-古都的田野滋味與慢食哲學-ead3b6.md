@@ -6,7 +6,7 @@ category: ramen
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-ramen-nara-奈良拉麵-古都的田野滋味與慢食哲學-ead3b6.html
 published: 2026-06-25
-quality_score: 6.5
+quality_score: 8.7
 tags: 奈良拉麵, 奈良美食, 日本拉麵, 古都美食, 奈良縣
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: electronics
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-electronics-kanazawa-金澤電子產品購物指南-預算導向的實用攻略-490138.html
 published: 2026-06-09
-quality_score: 7.5
+quality_score: 8.4
 tags: 金澤電子產品, 金澤購物, 預算導向, 二手相機, 日本電器
 license: CC BY 4.0
 ---

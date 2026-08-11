@@ -6,7 +6,7 @@ category: buses
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-buses-kobe-神戶親子友善巴士-攜家帶眷的輕鬆移動方案-f59e5c.html
 published: 2026-06-05
-quality_score: 7.5
+quality_score: 8.6
 tags: 神戶, 親子旅遊, 巴士交通, 有馬溫泉, 六甲山
 license: CC BY 4.0
 ---

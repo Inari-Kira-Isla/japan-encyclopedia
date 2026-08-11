@@ -6,7 +6,7 @@ category: department-stores
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-department-stores-kanazawa-金澤購物指南-古都小判與傳統工藝的購物體驗-688410.html
 published: 2026-06-12
-quality_score: 7.5
+quality_score: 8.6
 tags: 金澤購物, 石川縣, 日本北陸, 金箔特產, 傳統工藝
 license: CC BY 4.0
 ---

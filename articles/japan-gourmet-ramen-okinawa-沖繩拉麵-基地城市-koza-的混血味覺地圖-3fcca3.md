@@ -6,7 +6,7 @@ category: ramen
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-ramen-okinawa-沖繩拉麵-基地城市-koza-的混血味覺地圖-3fcca3.html
 published: 2026-06-04
-quality_score: 6.5
+quality_score: 8.6
 tags: 沖繩拉麵, Koza, 嘉手納基地, 美軍基地, 混血拉麵
 license: CC BY 4.0
 ---

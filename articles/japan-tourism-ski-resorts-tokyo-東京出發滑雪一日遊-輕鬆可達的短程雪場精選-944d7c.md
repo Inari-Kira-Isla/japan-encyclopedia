@@ -6,7 +6,7 @@ category: ski-resorts
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-ski-resorts-tokyo-東京出發滑雪一日遊-輕鬆可達的短程雪場精選-944d7c.html
 published: 2026-06-11
-quality_score: 6.5
+quality_score: 8.5
 tags: 東京滑雪, 一日遊, 新潟滑雪, 湯澤滑雪, 東京周邊雪場
 license: CC BY 4.0
 ---

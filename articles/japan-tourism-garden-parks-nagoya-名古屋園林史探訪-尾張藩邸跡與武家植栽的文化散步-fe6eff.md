@@ -6,7 +6,7 @@ category: garden-parks
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-nagoya-名古屋園林史探訪-尾張藩邸跡與武家植栽的文化散步-fe6eff.html
 published: 2026-05-22
-quality_score: 6.5
+quality_score: 8.5
 tags: 名古屋花園, 尾張藩, 東山動植物園, 名古屋旅行, 日本庭園
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: festivals-matsuri
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-festivals-matsuri-osaka-大阪夜祭攻略-日落後的祭典狂歡與屋臺美味-6f80cf.html
 published: 2026-07-06
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪祭典, 夜祭, 屋台美食, 大阪夏季, 關西祭典
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: department-stores
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-department-stores-nara-奈良百貨購物指南-銀髮族友善的無障礙消費天堂-30996a.html
 published: 2026-03-24
-quality_score: 7.5
+quality_score: 8.7
 tags: 奈良購物, 日本百貨, 銀髮族友善, 無障礙設施, 伴手禮
 license: CC BY 4.0
 ---

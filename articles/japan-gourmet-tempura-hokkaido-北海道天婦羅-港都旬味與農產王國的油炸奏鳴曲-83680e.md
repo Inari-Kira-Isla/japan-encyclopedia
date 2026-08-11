@@ -6,7 +6,7 @@ category: tempura
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tempura-hokkaido-北海道天婦羅-港都旬味與農產王國的油炸奏鳴曲-83680e.html
 published: 2026-07-06
-quality_score: 6.5
+quality_score: 8.8
 tags: 北海道天婦羅, 北海道美食, 日本料理, 天婦羅, 北海道海產
 license: CC BY 4.0
 ---

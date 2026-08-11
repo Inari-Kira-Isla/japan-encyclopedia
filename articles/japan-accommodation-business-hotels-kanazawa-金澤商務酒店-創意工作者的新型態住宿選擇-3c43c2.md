@@ -6,7 +6,7 @@ category: business-hotels
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-business-hotels-kanazawa-金澤商務酒店-創意工作者的新型態住宿選擇-3c43c2.html
 published: 2026-06-21
-quality_score: 6.5
+quality_score: 8.4
 tags: 金澤商務住宿, 石川縣出差, 金澤創意產業, 日本商務酒店, 北陸住宿推薦
 license: CC BY 4.0
 ---

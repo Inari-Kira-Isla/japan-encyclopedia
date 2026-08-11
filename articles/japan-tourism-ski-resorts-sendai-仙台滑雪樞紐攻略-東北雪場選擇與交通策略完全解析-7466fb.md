@@ -6,7 +6,7 @@ category: ski-resorts
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-ski-resorts-sendai-仙台滑雪樞紐攻略-東北雪場選擇與交通策略完全解析-7466fb.html
 published: 2026-04-06
-quality_score: 6.5
+quality_score: 8.5
 tags: 仙台, 滑雪場, 東北, 交通攻略, 雪場選擇
 license: CC BY 4.0
 ---

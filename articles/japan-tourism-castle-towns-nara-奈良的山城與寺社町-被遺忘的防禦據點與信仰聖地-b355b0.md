@@ -6,7 +6,7 @@ category: castle-towns
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-castle-towns-nara-奈良的山城與寺社町-被遺忘的防禦據點與信仰聖地-b355b0.html
 published: 2026-06-15
-quality_score: 6.5
+quality_score: 8.9
 tags: 奈良山城, 寺社町, 戰國歷史, 深度旅遊, 日本城堡
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: nightlife
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-hokkaido-北海道夜生活-運河小城與漁港夜市的浪漫尋夢-e90025.html
 published: 2026-03-21
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道夜生活, 小樽運河, 函館五稜郭, 漁港居酒屋, 日本夜景
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: nature-trails
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-hiroshima-廣島初心者步道入門-從海岸到山腰的平緩療癒之路-ce5454.html
 published: 2026-06-24
-quality_score: 6.5
+quality_score: 8.7
 tags: 廣島自然步道, 森林療癒, 初心者健行, 宮島步道, 親子自然體驗
 license: CC BY 4.0
 ---

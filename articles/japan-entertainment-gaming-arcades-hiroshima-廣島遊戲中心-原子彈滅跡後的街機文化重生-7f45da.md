@@ -6,7 +6,7 @@ category: gaming-arcades
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-gaming-arcades-hiroshima-廣島遊戲中心-原子彈滅跡後的街機文化重生-7f45da.html
 published: 2026-06-24
-quality_score: 6.5
+quality_score: 8.7
 tags: 廣島遊戲中心, 廣島自由行, 日本街機文化, 廣島娛樂, 日本VR體驗
 license: CC BY 4.0
 ---

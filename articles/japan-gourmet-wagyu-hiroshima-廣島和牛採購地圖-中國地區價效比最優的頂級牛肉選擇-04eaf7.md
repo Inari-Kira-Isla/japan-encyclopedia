@@ -6,7 +6,7 @@ category: wagyu
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-wagyu-hiroshima-廣島和牛採購地圖-中國地區價效比最優的頂級牛肉選擇-04eaf7.html
 published: 2026-03-24
-quality_score: 6.5
+quality_score: 8.7
 tags: 廣島和牛, 日本和牛採購, 性價比美食, 中國地區和牛, 批發市場
 license: CC BY 4.0
 ---

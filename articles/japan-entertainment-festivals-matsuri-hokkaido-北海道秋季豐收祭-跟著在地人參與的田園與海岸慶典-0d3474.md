@@ -6,7 +6,7 @@ category: festivals-matsuri
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-festivals-matsuri-hokkaido-北海道秋季豐收祭-跟著在地人參與的田園與海岸慶典-0d3474.html
 published: 2026-06-28
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道祭典, 秋季旅遊, 豐收祭, 北海道美食, 在地體驗
 license: CC BY 4.0
 ---

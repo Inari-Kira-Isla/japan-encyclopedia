@@ -6,7 +6,7 @@ category: sumo
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-kyoto-京都相撲-guide-古都中的力士足跡-e348b1.html
 published: 2026-06-02
-quality_score: 6.5
+quality_score: 8.7
 tags: 京都相撲, 祇園祭, 相撲文化體驗, 京料理, 古都文化
 license: CC BY 4.0
 ---

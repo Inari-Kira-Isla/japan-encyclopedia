@@ -6,7 +6,7 @@ category: electronics
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-electronics-kanazawa-金澤電子產品購物指南-兼具傳統質感與實用機能的北陸科技消費-a2a567.html
 published: 2026-06-03
-quality_score: 7.5
+quality_score: 8.7
 tags: 金澤電子產品, 北陸電器行, 金澤購物, 日本生活家電, 金澤旅遊
 license: CC BY 4.0
 ---

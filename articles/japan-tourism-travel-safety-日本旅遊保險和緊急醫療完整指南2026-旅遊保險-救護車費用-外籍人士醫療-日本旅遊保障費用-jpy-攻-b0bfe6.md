@@ -6,7 +6,7 @@ category: travel-safety
 area: japan
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-travel-safety-日本旅遊保險和緊急醫療完整指南2026-旅遊保險-救護車費用-外籍人士醫療-日本旅遊保障費用-jpy-攻-b0bfe6.html
 published: 2026-03-29
-quality_score: 7.1
+quality_score: 8.5
 tags: 日本旅遊保險, 日本醫療費用, 日本緊急情況, 日本旅遊安全, 日本外語醫院
 license: CC BY 4.0
 ---

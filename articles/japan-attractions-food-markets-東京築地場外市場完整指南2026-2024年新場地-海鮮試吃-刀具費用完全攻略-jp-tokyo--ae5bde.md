@@ -6,7 +6,7 @@ category: food-markets
 area: japan
 url: https://japan-encyclopedia.vercel.app/articles/japan-attractions-food-markets-東京築地場外市場完整指南2026-2024年新場地-海鮮試吃-刀具費用完全攻略-jp-tokyo--ae5bde.html
 published: 2026-05-01
-quality_score: 7.6
+quality_score: 8.4
 tags: 築地場外市場, 築地玉子燒, 築地刀具, 東京朝食, 築地vs豐洲
 license: CC BY 4.0
 ---

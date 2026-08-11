@@ -6,7 +6,7 @@ category: depachika
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-depachika-osaka-大阪depachika-本地人的隱藏廚房-百貨地下的日常食文化-e0a7a7.html
 published: 2026-06-18
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪美食, Depachika, 地下食品, 大阪超市, 梅田美食
 license: CC BY 4.0
 ---

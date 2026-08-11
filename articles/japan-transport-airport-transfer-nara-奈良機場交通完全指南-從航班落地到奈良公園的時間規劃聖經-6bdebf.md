@@ -6,7 +6,7 @@ category: airport-transfer
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-airport-transfer-nara-奈良機場交通完全指南-從航班落地到奈良公園的時間規劃聖經-6bdebf.html
 published: 2026-06-29
-quality_score: 7.5
+quality_score: 8.6
 tags: 奈良交通, 關西機場, 奈良公園, 機場巴士, JR Pass
 license: CC BY 4.0
 ---

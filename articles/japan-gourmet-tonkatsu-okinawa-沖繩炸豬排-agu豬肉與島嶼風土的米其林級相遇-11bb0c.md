@@ -6,7 +6,7 @@ category: tonkatsu
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tonkatsu-okinawa-沖繩炸豬排-agu豬肉與島嶼風土的米其林級相遇-11bb0c.html
 published: 2026-06-22
-quality_score: 6.5
+quality_score: 8.6
 tags: 沖繩美食, 炸豬排, AGU豬肉, 沖繩洋食, 那霸美食
 license: CC BY 4.0
 ---

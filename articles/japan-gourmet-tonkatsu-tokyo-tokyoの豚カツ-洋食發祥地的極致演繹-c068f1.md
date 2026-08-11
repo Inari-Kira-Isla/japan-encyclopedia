@@ -6,7 +6,7 @@ category: tonkatsu
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tonkatsu-tokyo-tokyoの豚カツ-洋食發祥地的極致演繹-c068f1.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 8.7
 tags: Tokyo必吃, とんかつ, 豚カツ, 洋食, Tokyo美食
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: sake-brewery
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sake-brewery-hiroshima-廣島西條新世代釀造者-走進日本三大酒都的年輕釀酒魂-4b8e10.html
 published: 2026-06-15
-quality_score: 6.5
+quality_score: 8.7
 tags: 廣島清酒, 西條酒藏, 日本三大酒都, 廣島必訪, 釀酒廠參觀
 license: CC BY 4.0
 ---

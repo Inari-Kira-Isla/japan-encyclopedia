@@ -6,7 +6,7 @@ category: business-hotels
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-business-hotels-fukuoka-福岡商務飯店-九州商務旅行的深夜食堂住宿美學-373b6a.html
 published: 2026-06-15
-quality_score: 6.5
+quality_score: 8.5
 tags: 福岡商務飯店, 博多住宿, 天神商務住宿, 屋台文化, 九州商務旅行
 license: CC BY 4.0
 ---

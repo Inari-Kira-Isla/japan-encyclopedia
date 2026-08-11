@@ -6,7 +6,7 @@ category: depachika
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-depachika-kobe-神戶-depachika-開港文化孕育的國際美食地下街-15a8e0.html
 published: 2026-04-06
-quality_score: 6.5
+quality_score: 8.7
 tags: 神戶美食, 百貨地下街, 國際文化, 西洋糕點, 神戶牛
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: kabuki-theatre
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-kabuki-theatre-kyoto-京都的kabuki劇場-沒有專屬劇場的替代體驗指南-3824a2.html
 published: 2026-06-25
-quality_score: 6.5
+quality_score: 8.6
 tags: 京都, Kabuki替代體驗, 傳統表演藝術, 祇園, 京舞
 license: CC BY 4.0
 ---

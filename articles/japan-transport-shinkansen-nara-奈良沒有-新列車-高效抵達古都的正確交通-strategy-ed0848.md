@@ -6,7 +6,7 @@ category: shinkansen
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-nara-奈良沒有-新列車-高效抵達古都的正確交通-strategy-ed0848.html
 published: 2026-06-04
-quality_score: 7.5
+quality_score: 8.7
 tags: 奈良, 古都, 世界文化遺產, 交通策略, 關西
 license: CC BY 4.0
 ---

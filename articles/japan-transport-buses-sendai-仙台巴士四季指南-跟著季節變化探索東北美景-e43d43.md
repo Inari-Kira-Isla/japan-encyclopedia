@@ -6,7 +6,7 @@ category: buses
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-buses-sendai-仙台巴士四季指南-跟著季節變化探索東北美景-e43d43.html
 published: 2026-04-07
-quality_score: 7.5
+quality_score: 8.8
 tags: 仙台交通, 季節巴士, 東北旅遊, 公共運輸, 溫泉接駁
 license: CC BY 4.0
 ---

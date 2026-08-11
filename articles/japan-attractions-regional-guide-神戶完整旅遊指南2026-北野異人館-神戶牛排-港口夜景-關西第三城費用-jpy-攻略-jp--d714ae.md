@@ -6,7 +6,7 @@ category: regional-guide
 area: japan
 url: https://japan-encyclopedia.vercel.app/articles/japan-attractions-regional-guide-神戶完整旅遊指南2026-北野異人館-神戶牛排-港口夜景-關西第三城費用-jpy-攻略-jp--d714ae.html
 published: 2026-04-01
-quality_score: 7.1
+quality_score: 8.6
 tags: 神戶旅遊, 神戶牛, 北野異人館, 有馬溫泉, 神戶港夜景
 license: CC BY 4.0
 ---

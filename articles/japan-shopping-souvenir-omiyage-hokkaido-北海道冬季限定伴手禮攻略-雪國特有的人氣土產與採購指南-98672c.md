@@ -6,7 +6,7 @@ category: souvenir-omiyage
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-souvenir-omiyage-hokkaido-北海道冬季限定伴手禮攻略-雪國特有的人氣土產與採購指南-98672c.html
 published: 2026-06-29
-quality_score: 7.5
+quality_score: 8.6
 tags: 北海道, 伴手禮, 冬季, 雪國, 新千歲機場
 license: CC BY 4.0
 ---

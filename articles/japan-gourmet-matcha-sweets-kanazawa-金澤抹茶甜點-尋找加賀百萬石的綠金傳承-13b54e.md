@@ -6,7 +6,7 @@ category: matcha-sweets
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-matcha-sweets-kanazawa-金澤抹茶甜點-尋找加賀百萬石的綠金傳承-13b54e.html
 published: 2026-03-31
-quality_score: 6.5
+quality_score: 8.8
 tags: 金澤美食, 抹茶甜點, 石川縣, 加賀百萬石, 金箔甜點
 license: CC BY 4.0
 ---

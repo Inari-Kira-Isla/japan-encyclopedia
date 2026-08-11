@@ -6,7 +6,7 @@ category: electronics
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-electronics-hokkaido-北海道電子產品購物指南-冬季攝影與極光觀測裝置專家推薦-55621f.html
 published: 2026-04-04
-quality_score: 7.5
+quality_score: 8.5
 tags: 北海道購物, 攝影器材, 電子產品, 極光攝影, 免稅購物
 license: CC BY 4.0
 ---

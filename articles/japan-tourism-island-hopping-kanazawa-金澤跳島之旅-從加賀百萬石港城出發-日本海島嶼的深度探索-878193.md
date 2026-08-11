@@ -6,7 +6,7 @@ category: island-hopping
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-island-hopping-kanazawa-金澤跳島之旅-從加賀百萬石港城出發-日本海島嶼的深度探索-878193.html
 published: 2026-06-18
-quality_score: 6.5
+quality_score: 8.6
 tags: 金澤, 佐渡島, 跳島, 日本海, 石川縣
 license: CC BY 4.0
 ---

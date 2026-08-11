@@ -6,7 +6,7 @@ category: temples-shrines
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-temples-shrines-kyoto-京都祈願寺廟神社指南-為人生各階段找到專屬的神聖庇護-7b8208.html
 published: 2026-04-02
-quality_score: 6.5
+quality_score: 8.7
 tags: 京都寺廟, 神社參拜, 祈願文化, 日本宗教, 文化體驗
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: garden-parks
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-osaka-大阪花園公園巡禮-四季生態之旅與親子教育樂園-5e71cd.html
 published: 2026-03-22
-quality_score: 6.5
+quality_score: 8.5
 tags: 大阪, 花園公園, 季節旅遊, 親子遊, 生態教育
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: shinkansen
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-fukuoka-九州北大門-博多站新幹綫交通策略與周邊探索指南-2be961.html
 published: 2026-06-03
-quality_score: 7.5
+quality_score: 8.9
 tags: 博多站, 九州新幹綫, JR九州, 福岡交通, 博多轉乘
 license: CC BY 4.0
 ---

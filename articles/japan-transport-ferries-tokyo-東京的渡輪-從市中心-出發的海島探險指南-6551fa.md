@@ -6,7 +6,7 @@ category: ferries
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-ferries-tokyo-東京的渡輪-從市中心-出發的海島探險指南-6551fa.html
 published: 2026-06-02
-quality_score: 7.5
+quality_score: 8.7
 tags: 東京交通, 渡輪, 東京灣, 海島旅遊, 日本自助旅行
 license: CC BY 4.0
 ---

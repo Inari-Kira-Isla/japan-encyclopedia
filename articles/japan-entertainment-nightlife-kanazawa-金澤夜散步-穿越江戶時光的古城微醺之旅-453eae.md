@@ -6,7 +6,7 @@ category: nightlife
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-kanazawa-金澤夜散步-穿越江戶時光的古城微醺之旅-453eae.html
 published: 2026-06-02
-quality_score: 6.5
+quality_score: 8.8
 tags: 金澤夜生活, 石川縣, 北陸旅行, 古城散步, 日本深度遊
 license: CC BY 4.0
 ---

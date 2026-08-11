@@ -6,7 +6,7 @@ category: cycling
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-kobe-神戶美食單車之旅-騎訪港都的胃袋天堂-050905.html
 published: 2026-06-28
-quality_score: 7.5
+quality_score: 8.8
 tags: 神戶單車, 神戶美食, 港都單車, 南京町, 關西單車
 license: CC BY 4.0
 ---

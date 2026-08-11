@@ -6,7 +6,7 @@ category: wagyu
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-wagyu-sendai-仙台和牛批發採購指南-餐飲業者的成本效益分析與策略選擇-de4360.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 仙台牛, 和牛採購, 餐飲成本, 批發市場, 供應鏈
 license: CC BY 4.0
 ---

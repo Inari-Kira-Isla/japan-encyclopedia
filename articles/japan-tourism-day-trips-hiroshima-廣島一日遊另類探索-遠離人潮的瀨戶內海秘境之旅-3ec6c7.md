@@ -6,7 +6,7 @@ category: day-trips
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-hiroshima-廣島一日遊另類探索-遠離人潮的瀨戶內海秘境之旅-3ec6c7.html
 published: 2026-06-16
-quality_score: 6.5
+quality_score: 8.6
 tags: 廣島一日遊, 瀨戶內海秘境, 尾道, 鞆の浦, 大久野島
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: tempura
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tempura-fukuoka-福岡天婦羅-屋臺路邊的深夜炸物美學-1af74a.html
 published: 2026-06-06
-quality_score: 6.5
+quality_score: 8.9
 tags: 福岡天婦羅, 屋台文化, 九州美食, 天神, 中洲
 license: CC BY 4.0
 ---

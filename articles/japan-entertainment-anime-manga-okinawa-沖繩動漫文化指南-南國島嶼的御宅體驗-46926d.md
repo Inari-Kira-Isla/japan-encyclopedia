@@ -6,7 +6,7 @@ category: anime-manga
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-okinawa-沖繩動漫文化指南-南國島嶼的御宅體驗-46926d.html
 published: 2026-06-02
-quality_score: 6.5
+quality_score: 8.7
 tags: 沖繩動漫, 動漫聖地巡禮, COSPLAY外拍, 沖繩漫畫店, 日本 Southern Islands 御宅文化
 license: CC BY 4.0
 ---

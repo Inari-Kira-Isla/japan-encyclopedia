@@ -6,7 +6,7 @@ category: nightlife
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-kobe-神戶夜間美食文化-港都深夜的味覺探索-6736c1.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 神戶夜生活, 神戶牛, 日本清酒, 瀨戶內海海鮮, 深夜美食
 license: CC BY 4.0
 ---

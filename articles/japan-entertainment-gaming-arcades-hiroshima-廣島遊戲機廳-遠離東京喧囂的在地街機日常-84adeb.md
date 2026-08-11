@@ -6,7 +6,7 @@ category: gaming-arcades
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-gaming-arcades-hiroshima-廣島遊戲機廳-遠離東京喧囂的在地街機日常-84adeb.html
 published: 2026-06-22
-quality_score: 6.5
+quality_score: 8.7
 tags: 廣島, 遊戲機廳, 街機文化, 日本娛樂, 親子同樂
 license: CC BY 4.0
 ---

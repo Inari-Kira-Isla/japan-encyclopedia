@@ -6,7 +6,7 @@ category: historical-districts
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-kyoto-京都歷史街區的時間詩學-從清晨到夜晚的散步時光-5eaefd.html
 published: 2026-06-07
-quality_score: 6.5
+quality_score: 8.5
 tags: 京都, 歷史街區, 祇園, 二年坂, 嵐山
 license: CC BY 4.0
 ---

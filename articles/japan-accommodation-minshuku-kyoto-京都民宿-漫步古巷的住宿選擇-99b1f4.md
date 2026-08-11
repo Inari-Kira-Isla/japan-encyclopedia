@@ -6,7 +6,7 @@ category: minshuku
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-kyoto-京都民宿-漫步古巷的住宿選擇-99b1f4.html
 published: 2026-06-02
-quality_score: 6.5
+quality_score: 8.8
 tags: 京都民宿, 京町家, 京都住宿, 古都住宿, 京料理
 license: CC BY 4.0
 ---

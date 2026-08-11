@@ -6,7 +6,7 @@ category: vintage-thrift
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-vintage-thrift-tokyo-東京下北澤古著散步-復古lector的私房尋寶路線-250dfc.html
 published: 2026-05-21
-quality_score: 7.5
+quality_score: 8.8
 tags: 東京古著, 下北澤, 二手時尚, 復古穿搭, 日本購物
 license: CC BY 4.0
 ---

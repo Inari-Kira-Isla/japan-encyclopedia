@@ -6,7 +6,7 @@ category: capsule-hotels
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-capsule-hotels-nara-奈良膠囊旅館的禪意簡居-古都慢旅的減法住宿哲學-da3880.html
 published: 2026-06-04
-quality_score: 6.5
+quality_score: 8.8
 tags: 奈良住宿, 膠囊旅館, 日本古都旅行, 背包客住宿, 奈良自由行
 license: CC BY 4.0
 ---

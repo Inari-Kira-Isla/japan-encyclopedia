@@ -6,7 +6,7 @@ category: gaming-arcades
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-gaming-arcades-kobe-神戶遊戲中心懶人包-港都街機初體驗-這些地方新手也能玩得很開心-429f4f.html
 published: 2026-07-01
-quality_score: 6.5
+quality_score: 8.6
 tags: 神戶遊戲中心, 神戶景點, 日本街機, 神戶親子, 關西旅遊
 license: CC BY 4.0
 ---

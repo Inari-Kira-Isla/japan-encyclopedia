@@ -6,7 +6,7 @@ category: department-stores
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-department-stores-hiroshima-廣島質感購物提案-和平紀念與在地工藝的散步路線-65fbe6.html
 published: 2026-06-16
-quality_score: 7.5
+quality_score: 8.5
 tags: 廣島購物, 廣島百货公司, 和平紀念, 廣島特產, 日本中國地區
 license: CC BY 4.0
 ---

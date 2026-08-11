@@ -6,7 +6,7 @@ category: souvenir-omiyage
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-souvenir-omiyage-nara-奈良小額伴手禮攻略-千元日圓以內的精選土產地圖-2c710e.html
 published: 2026-06-17
-quality_score: 7.5
+quality_score: 8.6
 tags: 奈良伴手禮, 平價購物, 古都特產, 千元日圓, 日本自由行
 license: CC BY 4.0
 ---

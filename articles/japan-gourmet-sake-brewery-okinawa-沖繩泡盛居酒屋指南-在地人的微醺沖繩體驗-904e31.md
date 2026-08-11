@@ -6,7 +6,7 @@ category: sake-brewery
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sake-brewery-okinawa-沖繩泡盛居酒屋指南-在地人的微醺沖繩體驗-904e31.html
 published: 2026-06-19
-quality_score: 6.5
+quality_score: 8.7
 tags: 沖繩, 泡盛, 酒藏, 居酒屋, 美食
 license: CC BY 4.0
 ---

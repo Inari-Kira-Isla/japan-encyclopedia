@@ -6,7 +6,7 @@ category: matcha-sweets
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-matcha-sweets-osaka-大阪抹茶甜點散步-從天王寺到北濱的綠色甜味地圖-3296f6.html
 published: 2026-06-05
-quality_score: 6.5
+quality_score: 8.9
 tags: 大阪美食, 抹茶甜點, 關西甜品, 天王寺, 阿倍野
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: tempura
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tempura-fukuoka-福岡天婦羅-從路邊攤到料亭的價格地圖與在地滋味-30cc0f.html
 published: 2026-03-29
-quality_score: 6.5
+quality_score: 8.9
 tags: 福岡天婦羅, 九州美食, 博多美食, 天神美食, 天婦羅攻略
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: onsen-etiquette
 area: japan
 url: https://japan-encyclopedia.vercel.app/articles/japan-wellness-onsen-etiquette-日本溫泉浴場禮儀完整指南2026-入浴方法-混浴-露天風呂-日本溫泉外國旅客完整攻略-jp-jap-b288c8.html
 published: 2026-03-29
-quality_score: 7.1
+quality_score: 8.3
 tags: 日本溫泉禮儀, 日本溫泉入浴, 混浴溫泉, 刺青溫泉, 露天風呂
 license: CC BY 4.0
 ---

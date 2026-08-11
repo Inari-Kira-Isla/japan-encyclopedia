@@ -6,7 +6,7 @@ category: buses
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-buses-nagoya-名古屋郊區巴士完全攻略-搭巴士深入中部山嶽與溫泉勝地-fa611f.html
 published: 2026-06-06
-quality_score: 7.5
+quality_score: 8.4
 tags: 名古屋巴士, 郊區交通, 下呂溫泉, 上高地, 中山道
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: island-hopping
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-island-hopping-sendai-仙台海灣の島めぐり-知見を得る-a8ac58.html
 published: 2026-06-04
-quality_score: 6.5
+quality_score: 8.3
 tags: 
 license: CC BY 4.0
 ---

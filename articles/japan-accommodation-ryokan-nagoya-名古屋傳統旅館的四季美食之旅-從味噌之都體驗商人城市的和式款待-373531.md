@@ -6,7 +6,7 @@ category: ryokan
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-nagoya-名古屋傳統旅館的四季美食之旅-從味噌之都體驗商人城市的和式款待-373531.html
 published: 2026-03-24
-quality_score: 6.5
+quality_score: 8.8
 tags: 名古屋, 傳統旅館, 美食體驗, 季節旅遊, 日本住宿
 license: CC BY 4.0
 ---

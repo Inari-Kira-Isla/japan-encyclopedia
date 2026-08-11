@@ -6,7 +6,7 @@ category: department-stores
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-department-stores-nagoya-名古屋百貨公司-實用購物與無障礙友善的中部購物天堂-a54190.html
 published: 2026-06-19
-quality_score: 7.5
+quality_score: 8.7
 tags: 名古屋購物, 名古屋百貨, 日本中部購物, 無障礙友善, 親子購物
 license: CC BY 4.0
 ---

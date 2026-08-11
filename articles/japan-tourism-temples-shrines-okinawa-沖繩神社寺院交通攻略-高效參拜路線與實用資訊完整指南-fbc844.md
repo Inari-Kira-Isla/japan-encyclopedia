@@ -6,7 +6,7 @@ category: temples-shrines
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-temples-shrines-okinawa-沖繩神社寺院交通攻略-高效參拜路線與實用資訊完整指南-fbc844.html
 published: 2026-06-15
-quality_score: 6.5
+quality_score: 8.5
 tags: 沖繩神社, 沖繩寺院, 日本宗教旅遊, 沖繩自由行, 御嶽信仰
 license: CC BY 4.0
 ---

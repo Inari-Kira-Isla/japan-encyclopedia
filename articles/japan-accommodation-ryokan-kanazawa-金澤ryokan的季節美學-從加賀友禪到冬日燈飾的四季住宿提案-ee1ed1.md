@@ -6,7 +6,7 @@ category: ryokan
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-kanazawa-金澤ryokan的季節美學-從加賀友禪到冬日燈飾的四季住宿提案-ee1ed1.html
 published: 2026-06-22
-quality_score: 6.5
+quality_score: 8.5
 tags: 金澤住宿, 加賀友禪, 四季旅遊, Ryokan推薦, 日本中部旅遊
 license: CC BY 4.0
 ---

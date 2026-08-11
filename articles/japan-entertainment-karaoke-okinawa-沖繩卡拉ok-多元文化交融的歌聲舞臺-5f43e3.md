@@ -6,7 +6,7 @@ category: karaoke
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-karaoke-okinawa-沖繩卡拉ok-多元文化交融的歌聲舞臺-5f43e3.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 沖繩娛樂, 卡拉OK文化, 多元文化, 家庭娛樂, 美軍基地文化
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: historical-districts
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-kanazawa-金澤歷史街區-漫步江戶時空的茶屋文化與武家物語-f7ea3f.html
 published: 2026-05-21
-quality_score: 6.5
+quality_score: 8.6
 tags: 金澤歷史街區, 日本古城, 花街茶屋, 武家住宅, 加賀百萬石
 license: CC BY 4.0
 ---

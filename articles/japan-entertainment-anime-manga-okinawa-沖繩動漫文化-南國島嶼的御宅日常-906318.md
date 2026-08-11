@@ -6,7 +6,7 @@ category: anime-manga
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-okinawa-沖繩動漫文化-南國島嶼的御宅日常-906318.html
 published: 2026-05-24
-quality_score: 6.5
+quality_score: 7.7
 tags: 沖繩動漫, 沖繩漫畫, 南國御宅,  Okinawa OTAKU, 那霸购物
 license: CC BY 4.0
 ---

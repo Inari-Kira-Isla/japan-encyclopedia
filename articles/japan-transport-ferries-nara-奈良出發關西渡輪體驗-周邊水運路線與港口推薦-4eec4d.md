@@ -6,7 +6,7 @@ category: ferries
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-ferries-nara-奈良出發關西渡輪體驗-周邊水運路線與港口推薦-4eec4d.html
 published: 2026-06-23
-quality_score: 7.5
+quality_score: 8.7
 tags: 關西渡輪, 和歌山旅遊, 紀伊勝浦, 賞鯨體驗, 奈良周邊
 license: CC BY 4.0
 ---

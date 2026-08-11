@@ -6,7 +6,7 @@ category: ryokan
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-kanazawa-金澤工藝旅館體驗指南-在加賀百萬石之城深度感受傳統匠人精神-2847f3.html
 published: 2026-04-03
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤住宿, 傳統工藝, 九谷燒, 金箔體驗, 匠人文化
 license: CC BY 4.0
 ---

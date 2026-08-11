@@ -6,7 +6,7 @@ category: ski-resorts
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-ski-resorts-hokkaido-北海道滑雪進階攻略-從新手到專家的技能提升路線圖-798772.html
 published: 2026-04-07
-quality_score: 6.5
+quality_score: 8.7
 tags: 滑雪進階, 技能提升, 北海道滑雪, 滑雪教學
 license: CC BY 4.0
 ---

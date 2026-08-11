@@ -6,7 +6,7 @@ category: nightlife
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-hiroshima-廣島夜生活-從原子彈圓頂到宮島夜景的和平之城夜間指南-a7edf5.html
 published: 2026-06-10
-quality_score: 6.5
+quality_score: 8.6
 tags: 廣島夜生活, 廣島美食, 廣島燒, 和平紀念公園, 日本夜生活
 license: CC BY 4.0
 ---

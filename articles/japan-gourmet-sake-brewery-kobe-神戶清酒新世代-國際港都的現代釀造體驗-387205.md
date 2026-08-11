@@ -6,7 +6,7 @@ category: sake-brewery
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sake-brewery-kobe-神戶清酒新世代-國際港都的現代釀造體驗-387205.html
 published: 2026-04-06
-quality_score: 6.5
+quality_score: 8.7
 tags: 神戶清酒, 現代釀造, 清酒體驗, 國際化, 海鮮搭配
 license: CC BY 4.0
 ---

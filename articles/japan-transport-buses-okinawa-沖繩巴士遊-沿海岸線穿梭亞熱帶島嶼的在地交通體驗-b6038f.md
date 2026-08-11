@@ -6,7 +6,7 @@ category: buses
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-buses-okinawa-沖繩巴士遊-沿海岸線穿梭亞熱帶島嶼的在地交通體驗-b6038f.html
 published: 2026-06-08
-quality_score: 7.5
+quality_score: 8.5
 tags: 沖繩巴士, 沖繩交通, 那霸交通,  Okinawa Bus, 亞熱帶島嶼
 license: CC BY 4.0
 ---

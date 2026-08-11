@@ -6,7 +6,7 @@ category: minshuku
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-kobe-神戶民宿完全指南-港都山城的溫暖人情-3e3a1d.html
 published: 2026-06-11
-quality_score: 6.5
+quality_score: 8.4
 tags: 神戶民宿, 關西住宿, 六甲山, 有馬溫泉, 港都住宿
 license: CC BY 4.0
 ---

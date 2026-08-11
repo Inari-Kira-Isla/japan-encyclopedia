@@ -6,7 +6,7 @@ category: street-food
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-street-food-hokkaido-北海道街頭美食-時間的味覺-根據捕撈時節錯峰的市場智慧-12de48.html
 published: 2026-05-21
-quality_score: 6.5
+quality_score: 8.9
 tags: 北海道, 街頭美食, 市場文化, 海鮮, 小樽
 license: CC BY 4.0
 ---

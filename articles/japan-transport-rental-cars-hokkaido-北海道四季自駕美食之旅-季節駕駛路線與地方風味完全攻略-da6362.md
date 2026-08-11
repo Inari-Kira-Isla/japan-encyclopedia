@@ -6,7 +6,7 @@ category: rental-cars
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-hokkaido-北海道四季自駕美食之旅-季節駕駛路線與地方風味完全攻略-da6362.html
 published: 2026-03-21
-quality_score: 7.5
+quality_score: 8.7
 tags: 北海道, 租車自駕, 季節駕駛, 自駕路線, 北海道美食
 license: CC BY 4.0
 ---

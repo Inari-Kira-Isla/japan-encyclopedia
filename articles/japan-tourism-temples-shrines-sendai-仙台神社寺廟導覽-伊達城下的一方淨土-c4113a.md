@@ -6,7 +6,7 @@ category: temples-shrines
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-temples-shrines-sendai-仙台神社寺廟導覽-伊達城下的一方淨土-c4113a.html
 published: 2026-06-15
-quality_score: 6.5
+quality_score: 8.9
 tags: 仙台, 神社, 寺廟, 東北, 伊達政宗
 license: CC BY 4.0
 ---

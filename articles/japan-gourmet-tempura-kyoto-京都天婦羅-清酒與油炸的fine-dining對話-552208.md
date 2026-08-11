@@ -6,7 +6,7 @@ category: tempura
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tempura-kyoto-京都天婦羅-清酒與油炸的fine-dining對話-552208.html
 published: 2026-05-22
-quality_score: 6.5
+quality_score: 8.6
 tags: 京都天婦羅, 京料理, 清酒搭配, 日本美食
 license: CC BY 4.0
 ---

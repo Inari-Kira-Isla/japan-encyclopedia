@@ -6,7 +6,7 @@ category: festivals-matsuri
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-festivals-matsuri-kanazawa-金澤祭典夜生活指南-當傳統慶典遇上現代娛樂狂歡-fb631e.html
 published: 2026-04-06
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤祭典, 夜生活, 娛樂體驗, 卡拉OK, 居酒屋
 license: CC BY 4.0
 ---

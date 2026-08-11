@@ -6,7 +6,7 @@ category: matcha-sweets
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-matcha-sweets-kyoto-京都抹茶甜點-探索五條通以北的茶屋新境地-cabc82.html
 published: 2026-06-02
-quality_score: 6.5
+quality_score: 8.7
 tags: 京都抹茶甜點, 五条通美食, 京都自由行, 抹茶甜點推薦, 京都在地美食
 license: CC BY 4.0
 ---

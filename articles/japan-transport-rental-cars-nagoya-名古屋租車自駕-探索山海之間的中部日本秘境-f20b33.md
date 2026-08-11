@@ -6,7 +6,7 @@ category: rental-cars
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-nagoya-名古屋租車自駕-探索山海之間的中部日本秘境-f20b33.html
 published: 2026-06-16
-quality_score: 7.5
+quality_score: 8.7
 tags: 名古屋租車, 中部國際機場, 伊勢志摩, Toyota City, 三河灣
 license: CC BY 4.0
 ---

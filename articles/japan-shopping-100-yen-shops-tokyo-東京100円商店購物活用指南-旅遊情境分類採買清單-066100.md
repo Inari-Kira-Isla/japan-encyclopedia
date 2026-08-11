@@ -6,7 +6,7 @@ category: 100-yen-shops
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-100-yen-shops-tokyo-東京100円商店購物活用指南-旅遊情境分類採買清單-066100.html
 published: 2026-06-04
-quality_score: 7.5
+quality_score: 8.9
 tags: 東京購物, 100円商店, 都會旅遊攻略, 平價購物, 日本零售文化
 license: CC BY 4.0
 ---

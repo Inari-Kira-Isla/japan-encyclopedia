@@ -6,7 +6,7 @@ category: temple-stays
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-temple-stays-osaka-大阪出發關西寺廟住宿全攻略-作為中樞城市的禪修體驗提案-302cbf.html
 published: 2026-07-05
-quality_score: 6.5
+quality_score: 8.5
 tags: 大阪寺廟住宿, 關西宿坊體驗, 高野山住宿, 比叡山延曆寺, 日本禪修之旅
 license: CC BY 4.0
 ---

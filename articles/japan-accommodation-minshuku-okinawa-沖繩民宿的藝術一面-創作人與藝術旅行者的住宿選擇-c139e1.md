@@ -6,7 +6,7 @@ category: minshuku
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-okinawa-沖繩民宿的藝術一面-創作人與藝術旅行者的住宿選擇-c139e1.html
 published: 2026-06-10
-quality_score: 6.5
+quality_score: 8.5
 tags: 沖繩民宿, 藝術住宿, 創作旅行, 琉球工藝, 體驗式旅遊
 license: CC BY 4.0
 ---

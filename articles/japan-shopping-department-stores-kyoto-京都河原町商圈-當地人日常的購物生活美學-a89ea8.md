@@ -6,7 +6,7 @@ category: department-stores
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-department-stores-kyoto-京都河原町商圈-當地人日常的購物生活美學-a89ea8.html
 published: 2026-07-05
-quality_score: 7.5
+quality_score: 8.9
 tags: 京都購物, 河原町商圈, 京都百货, 京都地下街, 日本購物指南
 license: CC BY 4.0
 ---

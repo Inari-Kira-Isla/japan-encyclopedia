@@ -6,7 +6,7 @@ category: street-food
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-street-food-fukuoka-福岡街頭美食探險-九州美食之都的屋台文化與庶民小吃-6efb1f.html
 published: 2026-03-15
-quality_score: 6.5
+quality_score: 8.7
 tags: 福岡美食, 街頭小吃, 屋台文化, 九州料理, 博多拉麵
 license: CC BY 4.0
 ---

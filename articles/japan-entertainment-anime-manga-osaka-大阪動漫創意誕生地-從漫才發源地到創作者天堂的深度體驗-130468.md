@@ -6,7 +6,7 @@ category: anime-manga
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-osaka-大阪動漫創意誕生地-從漫才發源地到創作者天堂的深度體驗-130468.html
 published: 2026-06-29
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪動漫, 漫才表演, 動漫創作工作坊, 日本橋電電街, 關西動漫之旅
 license: CC BY 4.0
 ---

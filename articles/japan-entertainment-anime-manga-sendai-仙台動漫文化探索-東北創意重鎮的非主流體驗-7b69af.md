@@ -6,7 +6,7 @@ category: anime-manga
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-sendai-仙台動漫文化探索-東北創意重鎮的非主流體驗-7b69af.html
 published: 2026-05-21
-quality_score: 6.5
+quality_score: 8.5
 tags: 仙台動漫, 東北御宅文化, 日本動漫小旅行, 一番町漫畫店, 仙台自由行
 license: CC BY 4.0
 ---

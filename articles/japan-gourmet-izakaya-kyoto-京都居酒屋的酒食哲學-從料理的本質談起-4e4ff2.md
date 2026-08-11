@@ -6,7 +6,7 @@ category: izakaya
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-izakaya-kyoto-京都居酒屋的酒食哲學-從料理的本質談起-4e4ff2.html
 published: 2026-06-24
-quality_score: 6.5
+quality_score: 8.5
 tags: 京都居酒屋, 京都美食, 先鬥町, 四條河原町, 日本料理
 license: CC BY 4.0
 ---

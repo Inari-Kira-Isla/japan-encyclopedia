@@ -6,7 +6,7 @@ category: gaming-arcades
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-gaming-arcades-hokkaido-北海道遊戲中心-雪國特色的室內娛樂體驗-05e83d.html
 published: 2026-06-09
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道遊戲中心, 日本街機, 室內娛樂, 旭川, 小樽
 license: CC BY 4.0
 ---

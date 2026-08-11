@@ -6,7 +6,7 @@ category: cycling
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-hokkaido-北海道單車慢旅-沿線農產小鎮與季節限定騎行指南-d61e36.html
 published: 2026-03-29
-quality_score: 7.5
+quality_score: 8.5
 tags: 北海道單車, 日本單車旅行, 十勝帶廣, 美瑛騎行, 冬季限定體驗
 license: CC BY 4.0
 ---

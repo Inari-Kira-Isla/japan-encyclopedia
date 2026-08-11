@@ -6,7 +6,7 @@ category: temples-shrines
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-temples-shrines-nara-奈良寺廟神社深度指南-千年古都的工藝與信仰生活-19e528.html
 published: 2026-06-18
-quality_score: 6.5
+quality_score: 8.9
 tags: 奈良, 寺廟, 神社, 世界遺產, 日本古蹟
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: anime-manga
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-hiroshima-廣島動漫創作地圖-由創作者視角看見的在地動畫新生態-91f35d.html
 published: 2026-05-22
-quality_score: 6.5
+quality_score: 8.7
 tags: 廣島動漫, 廣島動畫工作室, 日本獨立動畫, 尾道動畫取景地, 廣島深度旅遊
 license: CC BY 4.0
 ---

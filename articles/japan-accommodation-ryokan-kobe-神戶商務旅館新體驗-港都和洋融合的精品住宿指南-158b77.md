@@ -6,7 +6,7 @@ category: ryokan
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-kobe-神戶商務旅館新體驗-港都和洋融合的精品住宿指南-158b77.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 神戶旅館, 和洋折衷, 港都住宿, 商務旅行, 美食文化
 license: CC BY 4.0
 ---

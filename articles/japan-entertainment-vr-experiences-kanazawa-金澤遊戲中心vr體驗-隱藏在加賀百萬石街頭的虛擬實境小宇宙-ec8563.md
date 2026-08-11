@@ -6,7 +6,7 @@ category: vr-experiences
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-vr-experiences-kanazawa-金澤遊戲中心vr體驗-隱藏在加賀百萬石街頭的虛擬實境小宇宙-ec8563.html
 published: 2026-06-20
-quality_score: 6.5
+quality_score: 8.9
 tags: 金澤VR體驗, 金澤遊戲中心, 金澤親子遊, 金澤雨天備案, 北陸虛擬實境
 license: CC BY 4.0
 ---

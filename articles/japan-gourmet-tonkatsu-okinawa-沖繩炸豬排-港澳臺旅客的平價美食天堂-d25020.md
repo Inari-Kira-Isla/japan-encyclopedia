@@ -6,7 +6,7 @@ category: tonkatsu
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tonkatsu-okinawa-沖繩炸豬排-港澳臺旅客的平價美食天堂-d25020.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.8
 tags: 沖繩美食, 炸豬排, 平價餐廳, 觀光美食, 港澳台旅客
 license: CC BY 4.0
 ---

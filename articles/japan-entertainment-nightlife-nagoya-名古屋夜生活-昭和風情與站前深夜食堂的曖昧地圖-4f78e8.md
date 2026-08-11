@@ -6,7 +6,7 @@ category: nightlife
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-nagoya-名古屋夜生活-昭和風情與站前深夜食堂的曖昧地圖-4f78e8.html
 published: 2026-06-09
-quality_score: 6.5
+quality_score: 8.6
 tags: 名古屋夜生活, 中部日本, 深夜食堂, 昭和風情, 遊戲中心
 license: CC BY 4.0
 ---

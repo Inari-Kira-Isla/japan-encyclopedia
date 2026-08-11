@@ -6,7 +6,7 @@ category: matcha-sweets
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-matcha-sweets-hokkaido-北海道抹茶甜點-寒鄉裡的暖綠茶香-ef1c1d.html
 published: 2026-06-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道抹茶甜點, 小樽抹茶, 釧路抹茶咖啡, 北海道乳製品甜點, 日本抹茶甜點推薦
 license: CC BY 4.0
 ---

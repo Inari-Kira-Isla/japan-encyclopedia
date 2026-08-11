@@ -6,7 +6,7 @@ category: duty-free
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-duty-free-fukuoka-福岡免稅購物-藥院-赤坂-天神三區深度購物地圖與在地行情解密-1673b4.html
 published: 2026-05-25
-quality_score: 7.5
+quality_score: 8.9
 tags: 福岡, 免稅購物, 藥院, 天神, 九州
 license: CC BY 4.0
 ---

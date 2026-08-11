@@ -6,7 +6,7 @@ category: scenic-routes
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-osaka-大阪夜遊路線-從黃昏到深夜的璀璨散步指南-1c45ce.html
 published: 2026-06-08
-quality_score: 6.5
+quality_score: 8.5
 tags: 大阪夜遊, 夜景散步, 道頓堀, 夜景展望, 夜間美食
 license: CC BY 4.0
 ---

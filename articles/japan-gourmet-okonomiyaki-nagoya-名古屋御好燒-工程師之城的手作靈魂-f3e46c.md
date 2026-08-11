@@ -6,7 +6,7 @@ category: okonomiyaki
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-okonomiyaki-nagoya-名古屋御好燒-工程師之城的手作靈魂-f3e46c.html
 published: 2026-06-20
-quality_score: 6.5
+quality_score: 8.8
 tags: 名古屋美食, 御好燒, 中部地方, 鐵板料理, 名古屋旅遊
 license: CC BY 4.0
 ---

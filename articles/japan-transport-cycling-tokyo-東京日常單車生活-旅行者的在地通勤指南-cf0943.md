@@ -6,7 +6,7 @@ category: cycling
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-tokyo-東京日常單車生活-旅行者的在地通勤指南-cf0943.html
 published: 2026-06-13
-quality_score: 7.5
+quality_score: 8.7
 tags: 東京單車, 在地旅遊, 下町漫騎, 通勤單車, 谷中根津
 license: CC BY 4.0
 ---

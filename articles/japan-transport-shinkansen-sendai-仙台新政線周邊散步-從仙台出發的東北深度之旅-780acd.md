@@ -6,7 +6,7 @@ category: shinkansen
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-sendai-仙台新政線周邊散步-從仙台出發的東北深度之旅-780acd.html
 published: 2026-06-04
-quality_score: 7.5
+quality_score: 8.8
 tags: 仙台, 東北新娘線, 松島, 山寺, 平泉
 license: CC BY 4.0
 ---

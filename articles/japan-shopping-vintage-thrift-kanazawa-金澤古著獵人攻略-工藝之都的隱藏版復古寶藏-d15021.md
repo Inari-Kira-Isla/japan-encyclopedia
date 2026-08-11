@@ -6,7 +6,7 @@ category: vintage-thrift
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-vintage-thrift-kanazawa-金澤古著獵人攻略-工藝之都的隱藏版復古寶藏-d15021.html
 published: 2026-06-14
-quality_score: 7.5
+quality_score: 8.6
 tags: 金澤古著, 石川縣購物, 日本古著攻略, 金澤必逛, vintage
 license: CC BY 4.0
 ---

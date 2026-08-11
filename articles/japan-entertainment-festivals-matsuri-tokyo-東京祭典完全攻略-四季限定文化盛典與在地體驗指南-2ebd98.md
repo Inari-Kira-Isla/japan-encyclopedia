@@ -6,7 +6,7 @@ category: festivals-matsuri
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-festivals-matsuri-tokyo-東京祭典完全攻略-四季限定文化盛典與在地體驗指南-2ebd98.html
 published: 2026-06-02
-quality_score: 6.5
+quality_score: 8.8
 tags: 東京祭典, 東京文化, 東京夏季祭, 東京自由行, 日本祭典體驗
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: souvenir-omiyage
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-souvenir-omiyage-hiroshima-廣島伴手禮的另一種買法-在地人帶路的非典型購物體驗-8e7322.html
 published: 2026-05-22
-quality_score: 7.5
+quality_score: 8.5
 tags: 廣島伴手禮, 廣島購物, 非主流伴手禮, 在地人推薦, 廣島自由行
 license: CC BY 4.0
 ---

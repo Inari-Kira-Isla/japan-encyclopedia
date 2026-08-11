@@ -6,7 +6,7 @@ category: airport-transfer
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-airport-transfer-kanazawa-金澤機場接駁全攻略-從石川空門通往加賀-能登的實用交通方案-6a1e5a.html
 published: 2026-06-03
-quality_score: 7.5
+quality_score: 8.5
 tags: 小松空港, 金澤交通, 金澤機場巴士, 加賀溫泉, 能登半島
 license: CC BY 4.0
 ---

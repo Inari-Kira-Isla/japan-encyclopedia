@@ -6,7 +6,7 @@ category: airport-transfer
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-airport-transfer-nara-奈良機場交通另類玩法-把轉車變成小旅行的中途-2121fb.html
 published: 2026-05-24
-quality_score: 7.5
+quality_score: 8.7
 tags: 關西機場交通, 奈良旅遊, 中途站, 轉車攻略, 非典型景點
 license: CC BY 4.0
 ---

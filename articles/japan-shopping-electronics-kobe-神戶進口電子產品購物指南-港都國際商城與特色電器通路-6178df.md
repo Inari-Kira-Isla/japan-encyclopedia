@@ -6,7 +6,7 @@ category: electronics
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-electronics-kobe-神戶進口電子產品購物指南-港都國際商城與特色電器通路-6178df.html
 published: 2026-06-04
-quality_score: 7.5
+quality_score: 8.4
 tags: 神戶電子產品, 神戶進口電器, 關西購物, 神戶伴手禮, 港都電子商城
 license: CC BY 4.0
 ---

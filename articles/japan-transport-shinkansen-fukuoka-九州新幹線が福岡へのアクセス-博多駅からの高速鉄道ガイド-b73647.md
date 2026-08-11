@@ -6,7 +6,7 @@ category: shinkansen
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-fukuoka-九州新幹線が福岡へのアクセス-博多駅からの高速鉄道ガイド-b73647.html
 published: 2026-06-13
-quality_score: 7.5
+quality_score: 8.6
 tags: 九州新鉄道, 博多駅, 山陽新幹線を, 福岡交通, 九州旅行
 license: CC BY 4.0
 ---

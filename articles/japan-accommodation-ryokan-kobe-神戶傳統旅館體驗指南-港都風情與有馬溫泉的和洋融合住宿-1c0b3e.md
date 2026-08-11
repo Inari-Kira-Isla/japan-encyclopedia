@@ -6,7 +6,7 @@ category: ryokan
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-kobe-神戶傳統旅館體驗指南-港都風情與有馬溫泉的和洋融合住宿-1c0b3e.html
 published: 2026-04-04
-quality_score: 6.5
+quality_score: 8.7
 tags: 神戶旅館, 有馬溫泉, 和式住宿, 瀨戶內海美食, 日式溫泉
 license: CC BY 4.0
 ---

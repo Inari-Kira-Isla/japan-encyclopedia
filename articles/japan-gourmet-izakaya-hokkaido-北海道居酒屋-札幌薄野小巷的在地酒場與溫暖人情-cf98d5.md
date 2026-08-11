@@ -6,7 +6,7 @@ category: izakaya
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-izakaya-hokkaido-北海道居酒屋-札幌薄野小巷的在地酒場與溫暖人情-cf98d5.html
 published: 2026-06-28
-quality_score: 6.5
+quality_score: 8.8
 tags: 北海道, 札幌, 居酒屋, 薄野, 美食推薦
 license: CC BY 4.0
 ---

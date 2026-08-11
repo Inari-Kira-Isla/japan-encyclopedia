@@ -6,7 +6,7 @@ category: ramen
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-ramen-fukuoka-博多拉麵的魅力-福岡拉麵全方位探索指南-cb149e.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 8.6
 tags: 博多拉麵, 福岡美食, 豚骨拉麵, 日本拉麵, 九州美食
 license: CC BY 4.0
 ---

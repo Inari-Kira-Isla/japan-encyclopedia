@@ -6,7 +6,7 @@ category: rental-cars
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-kanazawa-金澤租車全攻略-自由暢遊北陸小京都的交通指南-6eddf3.html
 published: 2026-03-15
-quality_score: 7.5
+quality_score: 8.7
 tags: 金澤租車, 石川縣自駕, 金澤交通, 日本北陸租車, 金澤自由行
 license: CC BY 4.0
 ---

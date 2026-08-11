@@ -6,7 +6,7 @@ category: duty-free
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-duty-free-kyoto-京都巷弄免稅挖寶指南-隱藏版特色小店與在地工藝購物攻略-0789a1.html
 published: 2026-06-20
-quality_score: 7.5
+quality_score: 8.6
 tags: 京都免稅, 京都購物, 京都巷弄, 京都和紙, 京燒陶瓷
 license: CC BY 4.0
 ---

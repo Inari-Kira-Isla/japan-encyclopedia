@@ -6,7 +6,7 @@ category: minshuku
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-tokyo-東京次文化民宿指南-音樂-動漫與爵士樂聖地住宿體驗-7ce37b.html
 published: 2026-06-26
-quality_score: 6.5
+quality_score: 8.5
 tags: 東京民宿, minshuku, 下北澤, 高圓寺, 池袋
 license: CC BY 4.0
 ---

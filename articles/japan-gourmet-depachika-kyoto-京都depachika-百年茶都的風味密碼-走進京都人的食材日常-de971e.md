@@ -6,7 +6,7 @@ category: depachika
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-depachika-kyoto-京都depachika-百年茶都的風味密碼-走進京都人的食材日常-de971e.html
 published: 2026-06-08
-quality_score: 6.5
+quality_score: 8.7
 tags: 京都Depachika, 京都地下食品, 京都甜點, 京料理, 京都伴手禮
 license: CC BY 4.0
 ---

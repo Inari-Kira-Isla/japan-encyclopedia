@@ -6,7 +6,7 @@ category: souvenir-omiyage
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-souvenir-omiyage-kyoto-京都伴手禮銀髮族友善指南-無障礙採購與長輩適口伴手禮推薦-1a2b5f.html
 published: 2026-06-24
-quality_score: 7.5
+quality_score: 8.7
 tags: 京都伴手禮, 銀髮族友善, 無障礙旅遊, 京都車站, 孝親旅行
 license: CC BY 4.0
 ---

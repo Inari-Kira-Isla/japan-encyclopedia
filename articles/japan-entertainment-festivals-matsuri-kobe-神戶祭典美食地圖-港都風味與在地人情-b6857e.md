@@ -6,7 +6,7 @@ category: festivals-matsuri
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-festivals-matsuri-kobe-神戶祭典美食地圖-港都風味與在地人情-b6857e.html
 published: 2026-06-08
-quality_score: 6.5
+quality_score: 8.7
 tags: 神戶, 祭典, 屋台, 神戶牛, 港都
 license: CC BY 4.0
 ---

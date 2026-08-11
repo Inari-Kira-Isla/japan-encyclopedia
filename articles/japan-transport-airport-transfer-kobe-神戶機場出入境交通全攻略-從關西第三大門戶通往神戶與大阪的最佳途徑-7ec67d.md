@@ -6,7 +6,7 @@ category: airport-transfer
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-airport-transfer-kobe-神戶機場出入境交通全攻略-從關西第三大門戶通往神戶與大阪的最佳途徑-7ec67d.html
 published: 2026-05-23
-quality_score: 7.5
+quality_score: 8.7
 tags: 神戶機場, 關西機場交通, 神戶交通, 機場渡輪, 關西国际机场
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: kabuki-theatre
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-kabuki-theatre-fukuoka-福岡微型劇場-隱身巷弄的戲劇文化密所-66e196.html
 published: 2026-06-26
-quality_score: 6.5
+quality_score: 8.5
 tags: 福岡微型劇場, 九州戲劇, 天神表演藝術, 博多座小劇場, 日本獨立劇團
 license: CC BY 4.0
 ---

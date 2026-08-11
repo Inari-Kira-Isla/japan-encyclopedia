@@ -6,7 +6,7 @@ category: kaiseki
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-kaiseki-nagoya-名古屋會席料理-商都名古屋的實在滋味-ef516b.html
 published: 2026-06-14
-quality_score: 6.5
+quality_score: 8.8
 tags: 名古屋會席料理, 名古屋美食, 名古屋懷石, 日本料理, 名古屋旅行
 license: CC BY 4.0
 ---

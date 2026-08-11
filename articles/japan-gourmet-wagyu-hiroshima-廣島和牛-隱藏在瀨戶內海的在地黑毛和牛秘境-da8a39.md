@@ -6,7 +6,7 @@ category: wagyu
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-wagyu-hiroshima-廣島和牛-隱藏在瀨戶內海的在地黑毛和牛秘境-da8a39.html
 published: 2026-06-04
-quality_score: 6.5
+quality_score: 8.7
 tags: 廣島和牛, 廣島美食, 燒肉推薦, 日本中國地區, 黑毛和牛
 license: CC BY 4.0
 ---

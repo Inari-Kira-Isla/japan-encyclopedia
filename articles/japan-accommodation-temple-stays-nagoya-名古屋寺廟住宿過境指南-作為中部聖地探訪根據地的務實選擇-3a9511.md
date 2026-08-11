@@ -6,7 +6,7 @@ category: temple-stays
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-temple-stays-nagoya-名古屋寺廟住宿過境指南-作為中部聖地探訪根據地的務實選擇-3a9511.html
 published: 2026-06-24
-quality_score: 6.5
+quality_score: 8.5
 tags: 名古屋寺廟住宿, 日本宗教聖地中繼站, 比叡山延曆寺, 高野山一日參訪, 名古屋交通樞紐
 license: CC BY 4.0
 ---

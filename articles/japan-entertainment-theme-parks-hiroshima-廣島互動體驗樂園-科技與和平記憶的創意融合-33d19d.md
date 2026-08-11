@@ -6,7 +6,7 @@ category: theme-parks
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-theme-parks-hiroshima-廣島互動體驗樂園-科技與和平記憶的創意融合-33d19d.html
 published: 2026-06-23
-quality_score: 6.5
+quality_score: 8.6
 tags: 廣島主題樂園, VR體驗, 廣島互動設施, 廣島親子遊, 科技娛樂
 license: CC BY 4.0
 ---

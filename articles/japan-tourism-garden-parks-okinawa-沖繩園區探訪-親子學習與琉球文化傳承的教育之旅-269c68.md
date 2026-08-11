@@ -6,7 +6,7 @@ category: garden-parks
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-okinawa-沖繩園區探訪-親子學習與琉球文化傳承的教育之旅-269c68.html
 published: 2026-03-23
-quality_score: 6.5
+quality_score: 8.5
 tags: 沖繩, 家庭旅遊, 文化體驗, 親子教育, 琉球文化
 license: CC BY 4.0
 ---

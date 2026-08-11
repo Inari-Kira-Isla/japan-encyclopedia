@@ -6,7 +6,7 @@ category: minshuku
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-kyoto-京都民宿完全指南-巷弄之間的日常詩意-8518bd.html
 published: 2026-06-14
-quality_score: 6.5
+quality_score: 8.7
 tags: 京都民宿, 京都住宿, 西山腳下, 京都自由行, 町家住宿
 license: CC BY 4.0
 ---

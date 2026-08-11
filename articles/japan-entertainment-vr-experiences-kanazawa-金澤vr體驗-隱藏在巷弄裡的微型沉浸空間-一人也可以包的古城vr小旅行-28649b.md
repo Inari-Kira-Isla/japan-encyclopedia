@@ -6,7 +6,7 @@ category: vr-experiences
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-vr-experiences-kanazawa-金澤vr體驗-隱藏在巷弄裡的微型沉浸空間-一人也可以包的古城vr小旅行-28649b.html
 published: 2026-07-01
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤VR體驗, 金澤景點, 北陸旅遊, 虛擬實境, 金澤自由行
 license: CC BY 4.0
 ---

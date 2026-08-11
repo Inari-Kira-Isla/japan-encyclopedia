@@ -6,7 +6,7 @@ category: business-hotels
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-business-hotels-tokyo-東京商務酒店-依主要鐵路樞紐的策略性住宿選擇-75dfe1.html
 published: 2026-06-19
-quality_score: 6.5
+quality_score: 8.4
 tags: 東京商務酒店, 商旅住宿, 東京出差, 山手線住宿, 商務飯店
 license: CC BY 4.0
 ---

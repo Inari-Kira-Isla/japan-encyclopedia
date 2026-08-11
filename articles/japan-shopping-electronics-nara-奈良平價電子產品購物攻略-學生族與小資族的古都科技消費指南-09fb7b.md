@@ -6,7 +6,7 @@ category: electronics
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-electronics-nara-奈良平價電子產品購物攻略-學生族與小資族的古都科技消費指南-09fb7b.html
 published: 2026-06-17
-quality_score: 7.5
+quality_score: 8.9
 tags: 奈良電子產品, 奈良購物, 關西電子產品, 平價電器, 學生優惠
 license: CC BY 4.0
 ---

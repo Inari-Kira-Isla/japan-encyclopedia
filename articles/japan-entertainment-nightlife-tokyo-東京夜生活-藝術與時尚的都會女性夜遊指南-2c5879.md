@@ -6,7 +6,7 @@ category: nightlife
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-tokyo-東京夜生活-藝術與時尚的都會女性夜遊指南-2c5879.html
 published: 2026-06-12
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京夜生活, 藝術展覽, 爵士酒吧, 時尚餐酒館, 女性旅行
 license: CC BY 4.0
 ---

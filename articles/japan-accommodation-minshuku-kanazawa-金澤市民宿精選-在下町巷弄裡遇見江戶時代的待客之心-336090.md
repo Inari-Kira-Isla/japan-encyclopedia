@@ -6,7 +6,7 @@ category: minshuku
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-kanazawa-金澤市民宿精選-在下町巷弄裡遇見江戶時代的待客之心-336090.html
 published: 2026-06-02
-quality_score: 6.5
+quality_score: 8.8
 tags: 金澤民宿, 加賀友禪, 石川縣住宿, 城下町體驗, minshuku
 license: CC BY 4.0
 ---

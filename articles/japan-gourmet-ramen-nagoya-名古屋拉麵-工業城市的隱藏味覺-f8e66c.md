@@ -6,7 +6,7 @@ category: ramen
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-ramen-nagoya-名古屋拉麵-工業城市的隱藏味覺-f8e66c.html
 published: 2026-06-15
-quality_score: 6.5
+quality_score: 8.5
 tags: 名古屋拉麵, 中部美食, 日本拉麵, 醬油拉麵, 產業城市
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: temples-shrines
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-temples-shrines-kobe-神戶多元宗教地圖-港都的信仰風景線-f710f9.html
 published: 2026-06-16
-quality_score: 6.5
+quality_score: 8.7
 tags: 神戶宗教, 神社寺廟, 多元信仰, 關西旅遊, 神戶自由行
 license: CC BY 4.0
 ---

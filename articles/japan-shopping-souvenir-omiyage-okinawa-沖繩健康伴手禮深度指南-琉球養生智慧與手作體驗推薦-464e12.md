@@ -6,7 +6,7 @@ category: souvenir-omiyage
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-souvenir-omiyage-okinawa-沖繩健康伴手禮深度指南-琉球養生智慧與手作體驗推薦-464e12.html
 published: 2026-06-19
-quality_score: 7.5
+quality_score: 8.8
 tags: 沖繩伴手禮, 健康伴手禮, 手作體驗, 黑糖, 島胡椒
 license: CC BY 4.0
 ---

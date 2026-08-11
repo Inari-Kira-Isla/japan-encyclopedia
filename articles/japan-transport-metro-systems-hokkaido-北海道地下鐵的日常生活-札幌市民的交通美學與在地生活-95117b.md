@@ -6,7 +6,7 @@ category: metro-systems
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-hokkaido-北海道地下鐵的日常生活-札幌市民的交通美學與在地生活-95117b.html
 published: 2026-05-24
-quality_score: 7.5
+quality_score: 8.8
 tags: 日本交通, 北海道地下鐵, 札幌市營地下鐵, 札幌旅遊, 北海道自由行
 license: CC BY 4.0
 ---

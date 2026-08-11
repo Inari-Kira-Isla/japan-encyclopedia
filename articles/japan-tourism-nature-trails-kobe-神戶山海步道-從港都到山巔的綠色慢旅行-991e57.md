@@ -6,7 +6,7 @@ category: nature-trails
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-kobe-神戶山海步道-從港都到山巔的綠色慢旅行-991e57.html
 published: 2026-06-20
-quality_score: 6.5
+quality_score: 8.7
 tags: 神戶自然步道, 六甲山步道, 有馬溫泉, 神戶登山, 關西自然旅遊
 license: CC BY 4.0
 ---

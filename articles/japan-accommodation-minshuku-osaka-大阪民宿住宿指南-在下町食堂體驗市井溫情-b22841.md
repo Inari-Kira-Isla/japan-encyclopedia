@@ -6,7 +6,7 @@ category: minshuku
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-osaka-大阪民宿住宿指南-在下町食堂體驗市井溫情-b22841.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪民宿, 大阪住宿, Minshuku Osaka, 大阪自由行, 關西住宿
 license: CC BY 4.0
 ---

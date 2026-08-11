@@ -6,7 +6,7 @@ category: izakaya
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-izakaya-tokyo-東京23區居酒屋地圖-從山手線內側到中央線沿線的酒食風景-f5a57a.html
 published: 2026-07-02
-quality_score: 6.5
+quality_score: 8.5
 tags: 東京居酒屋, 東京美食, 日本夜生活, 下町美食, 東京自由行
 license: CC BY 4.0
 ---

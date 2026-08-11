@@ -6,7 +6,7 @@ category: department-stores
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-department-stores-kobe-神戶購物指南-港都繁華的百貨公司地圖-9d0749.html
 published: 2026-06-14
-quality_score: 7.5
+quality_score: 8.6
 tags: 神戶購物, 大阪京都自由行, 日本百貨公司, 關西購物指南, 神戶自由行
 license: CC BY 4.0
 ---

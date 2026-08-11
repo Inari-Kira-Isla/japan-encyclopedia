@@ -6,7 +6,7 @@ category: kaiseki
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-kaiseki-hiroshima-廣島懷石料理-修復之城孕育的海洋旬味-f500c6.html
 published: 2026-06-28
-quality_score: 6.5
+quality_score: 8.7
 tags: 廣島懷石, 瀨戶內海美食, 廣島牡蠣, 日本料理, 廣島美食推薦
 license: CC BY 4.0
 ---

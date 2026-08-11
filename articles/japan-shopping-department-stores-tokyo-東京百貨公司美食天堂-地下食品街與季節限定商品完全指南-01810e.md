@@ -6,7 +6,7 @@ category: department-stores
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-department-stores-tokyo-東京百貨公司美食天堂-地下食品街與季節限定商品完全指南-01810e.html
 published: 2026-06-14
-quality_score: 7.5
+quality_score: 8.6
 tags: 東京購物, 百貨公司, 地下食品街, 美食指南, 日本購物
 license: CC BY 4.0
 ---

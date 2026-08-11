@@ -6,7 +6,7 @@ category: scenic-routes
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-fukuoka-福岡縣秋日尋楓指南-內陸山區的私房賞紅葉路線-4b950d.html
 published: 2026-05-24
-quality_score: 6.5
+quality_score: 8.9
 tags: 福岡賞楓, 九州自駕, 秋日旅遊, 英彦山, 內陸秘境
 license: CC BY 4.0
 ---

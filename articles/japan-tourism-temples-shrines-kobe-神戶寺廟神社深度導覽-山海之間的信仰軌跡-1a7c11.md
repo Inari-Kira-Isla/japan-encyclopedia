@@ -6,7 +6,7 @@ category: temples-shrines
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-temples-shrines-kobe-神戶寺廟神社深度導覽-山海之間的信仰軌跡-1a7c11.html
 published: 2026-06-04
-quality_score: 6.5
+quality_score: 8.6
 tags: 神戶寺廟, 神戶神社, 關西宗教, 有馬溫泉, 神戶旅遊
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: electronics
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-electronics-hokkaido-北海道極地電子學-嚴寒氣候專用裝備採購指南-aadc3c.html
 published: 2026-06-14
-quality_score: 7.5
+quality_score: 8.7
 tags: 北海道電子產品, 極地裝備, 嚴寒電子學, 低溫適用器材, 北海道購物
 license: CC BY 4.0
 ---

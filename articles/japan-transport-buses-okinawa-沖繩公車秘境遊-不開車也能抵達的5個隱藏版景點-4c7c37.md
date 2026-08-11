@@ -6,7 +6,7 @@ category: buses
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-buses-okinawa-沖繩公車秘境遊-不開車也能抵達的5個隱藏版景點-4c7c37.html
 published: 2026-07-06
-quality_score: 7.5
+quality_score: 8.5
 tags: 沖繩交通, 沖繩公車, 沖繩自由行, 不開車遊沖繩, 沖繩秘境
 license: CC BY 4.0
 ---

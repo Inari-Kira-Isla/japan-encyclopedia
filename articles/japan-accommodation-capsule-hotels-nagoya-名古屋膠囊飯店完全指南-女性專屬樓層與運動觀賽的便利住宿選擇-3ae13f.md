@@ -6,7 +6,7 @@ category: capsule-hotels
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-capsule-hotels-nagoya-名古屋膠囊飯店完全指南-女性專屬樓層與運動觀賽的便利住宿選擇-3ae13f.html
 published: 2026-06-10
-quality_score: 6.5
+quality_score: 8.6
 tags: 名古屋膠囊飯店, 女性專用住宿, 運動觀賽住宿, 名古屋巨蛋, 榮站住宿
 license: CC BY 4.0
 ---

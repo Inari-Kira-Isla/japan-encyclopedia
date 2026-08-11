@@ -6,7 +6,7 @@ category: escape-rooms
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-escape-rooms-fukuoka-福岡密室逃脫完全指南-挑選思路-費用行情與行前須知-5a2159.html
 published: 2026-05-24
-quality_score: 6.5
+quality_score: 8.7
 tags: 福岡密室逃脫, 博多娛樂, 九州室內活動, 團體旅遊, 腦力挑戰
 license: CC BY 4.0
 ---

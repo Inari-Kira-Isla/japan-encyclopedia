@@ -6,7 +6,7 @@ category: karaoke
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-karaoke-kobe-神戶卡拉ok-溫泉與歌聲的療癒之旅-61da6a.html
 published: 2026-06-05
-quality_score: 6.5
+quality_score: 8.5
 tags: 神戶, 卡拉OK, 有馬溫泉, 北野, 三宮
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: love-hotels
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-love-hotels-nagoya-名古屋love-hotels-工業城市裡的精密享受與設計美學-11b844-1780753733.html
 published: 2026-06-06
-quality_score: 6.5
+quality_score: 8.7
 tags: 名古屋住宿, 情侶旅館, 日本中部住宿, Love Hotels, 名古屋約會
 license: CC BY 4.0
 ---

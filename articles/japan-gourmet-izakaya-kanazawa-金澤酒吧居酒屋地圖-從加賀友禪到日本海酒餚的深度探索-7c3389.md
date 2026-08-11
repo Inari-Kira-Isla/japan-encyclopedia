@@ -6,7 +6,7 @@ category: izakaya
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-izakaya-kanazawa-金澤酒吧居酒屋地圖-從加賀友禪到日本海酒餚的深度探索-7c3389.html
 published: 2026-06-27
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤居酒屋, 石川縣美食, 日本海海鮮, 加賀料理, 古都美食
 license: CC BY 4.0
 ---

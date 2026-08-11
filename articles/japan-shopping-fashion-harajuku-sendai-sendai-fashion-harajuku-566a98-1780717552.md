@@ -6,7 +6,7 @@ category: fashion-harajuku
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-fashion-harajuku-sendai-sendai-fashion-harajuku-566a98-1780717552.html
 published: 2026-06-06
-quality_score: 6.5
+quality_score: 7.3
 tags: fashion-harajuku, sendai, japan
 license: CC BY 4.0
 ---

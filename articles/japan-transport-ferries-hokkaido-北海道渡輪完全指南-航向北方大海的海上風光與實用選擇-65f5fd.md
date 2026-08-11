@@ -6,7 +6,7 @@ category: ferries
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-ferries-hokkaido-北海道渡輪完全指南-航向北方大海的海上風光與實用選擇-65f5fd.html
 published: 2026-06-06
-quality_score: 7.5
+quality_score: 7.8
 tags: 北海道, 渡輪, 津輕海峽, 青森, 函館
 license: CC BY 4.0
 ---

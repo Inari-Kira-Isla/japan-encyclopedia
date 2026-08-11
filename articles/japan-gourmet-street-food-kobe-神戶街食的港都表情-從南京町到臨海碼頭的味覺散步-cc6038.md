@@ -6,7 +6,7 @@ category: street-food
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-street-food-kobe-神戶街食的港都表情-從南京町到臨海碼頭的味覺散步-cc6038.html
 published: 2026-06-23
-quality_score: 6.5
+quality_score: 8.7
 tags: 神戶, 街頭美食, 港都, 南京町, 瀨戶內海
 license: CC BY 4.0
 ---

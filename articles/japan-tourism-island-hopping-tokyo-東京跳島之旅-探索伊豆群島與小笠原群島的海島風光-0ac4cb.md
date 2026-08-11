@@ -6,7 +6,7 @@ category: island-hopping
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-island-hopping-tokyo-東京跳島之旅-探索伊豆群島與小笠原群島的海島風光-0ac4cb.html
 published: 2026-03-20
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京, 島嶼跳遊, 伊豆七島, 溫泉, 海島旅遊
 license: CC BY 4.0
 ---

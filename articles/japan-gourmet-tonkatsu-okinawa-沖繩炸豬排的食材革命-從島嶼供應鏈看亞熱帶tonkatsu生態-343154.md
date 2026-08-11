@@ -6,7 +6,7 @@ category: tonkatsu
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tonkatsu-okinawa-沖繩炸豬排的食材革命-從島嶼供應鏈看亞熱帶tonkatsu生態-343154.html
 published: 2026-04-03
-quality_score: 6.5
+quality_score: 8.6
 tags: 沖繩美食, 炸豬排, あぐー豚, 沖繩黑豬, 島嶼美食
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: garden-parks
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-fukuoka-福岡花園公園巡禮-當地人的生活綠洲-8b2d31.html
 published: 2026-06-29
-quality_score: 6.5
+quality_score: 8.7
 tags: 福岡公園, 市民綠地, 免費景點, 湖畔散步, 春季賞櫻
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: street-food
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-street-food-fukuoka-福岡早晨的碳水戰鬥-天神以南的在地人朝食市場-35a55e.html
 published: 2026-06-21
-quality_score: 6.5
+quality_score: 8.8
 tags: 福岡, 街頭美食, 朝食, 天神, 豚骨拉麵
 license: CC BY 4.0
 ---

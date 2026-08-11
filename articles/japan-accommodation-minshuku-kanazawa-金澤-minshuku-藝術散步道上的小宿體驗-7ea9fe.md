@@ -6,7 +6,7 @@ category: minshuku
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-kanazawa-金澤-minshuku-藝術散步道上的小宿體驗-7ea9fe.html
 published: 2026-06-04
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤, 民宿, minshuku, 藝術之旅, 石川縣
 license: CC BY 4.0
 ---

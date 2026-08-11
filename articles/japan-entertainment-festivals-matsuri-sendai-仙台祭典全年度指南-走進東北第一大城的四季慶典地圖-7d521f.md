@@ -6,7 +6,7 @@ category: festivals-matsuri
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-festivals-matsuri-sendai-仙台祭典全年度指南-走進東北第一大城的四季慶典地圖-7d521f.html
 published: 2026-06-04
-quality_score: 6.5
+quality_score: 8.6
 tags: 仙台祭典, 東北祭典, 日本夏季祭典, 七夕祭, 仙台旅行
 license: CC BY 4.0
 ---

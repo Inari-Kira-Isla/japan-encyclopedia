@@ -6,7 +6,7 @@ category: ferries
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-ferries-okinawa-沖繩渡輪旅行實用指南-海上跳島交通的成本效益分析-2e6c9c.html
 published: 2026-06-02
-quality_score: 7.5
+quality_score: 8.6
 tags: 沖繩交通, 渡輪跳島, 海路旅行,  Okinawa, 予算旅行
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: ramen
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-ramen-nagoya-nagoya-ramen-4438a8.html
 published: 2026-03-21
-quality_score: 5.5
+quality_score: 7.3
 tags: ramen, nagoya, japan
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: onsen
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-onsen-hokkaido-北海道秘湯之路-硫磺山谷與太平洋海岸的職人溫泉紀行-61d9f2.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 8.5
 tags: 北海道溫泉, 秘湯, 登別硫磺山谷, 太平洋海岸秘湯, 支笏湖溫泉
 license: CC BY 4.0
 ---

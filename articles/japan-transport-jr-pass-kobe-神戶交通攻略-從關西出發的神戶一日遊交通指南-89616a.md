@@ -6,7 +6,7 @@ category: jr-pass
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-jr-pass-kobe-神戶交通攻略-從關西出發的神戶一日遊交通指南-89616a.html
 published: 2026-06-22
-quality_score: 7.5
+quality_score: 8.5
 tags: 神戶交通, 關西周遊券, 神戶景點, 神戶一日遊, JR Pass替代方案
 license: CC BY 4.0
 ---

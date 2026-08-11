@@ -6,7 +6,7 @@ category: rental-cars
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-okinawa-沖繩租車實戰-地區選擇-季節策略與成本計算指南-084aaa.html
 published: 2026-03-24
-quality_score: 7.5
+quality_score: 8.6
 tags: 租車自駕, 沖繩旅遊, 交通指南, 季節策略, 駕駛成本
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: theme-parks
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-theme-parks-osaka-大阪臨海休閒指南-港都人的日常歡樂場-829ec3.html
 published: 2026-06-23
-quality_score: 6.5
+quality_score: 8.8
 tags: 大阪主題樂園, 大阪臨海設施, 大阪親子景點, 大阪休閒體驗, 關西主題樂園
 license: CC BY 4.0
 ---

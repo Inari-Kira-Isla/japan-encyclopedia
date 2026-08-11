@@ -6,7 +6,7 @@ category: nightlife
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-kobe-神戶夜生活-港都的異國風情與在地文化交融-fb0d46.html
 published: 2026-06-27
-quality_score: 6.5
+quality_score: 9.0
 tags: 神戶夜生活, 神戶酒吧, 神戶美食, 港都夜景, 關西夜遊
 license: CC BY 4.0
 ---

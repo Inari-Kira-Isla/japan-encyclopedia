@@ -6,7 +6,7 @@ category: gaming-arcades
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-gaming-arcades-nagoya-名古屋街機文化-工匠精神與遊戲技術的完美融合-6ff219.html
 published: 2026-03-26
-quality_score: 6.5
+quality_score: 8.6
 tags: 名古屋, 街機遊戲, 遊戲中心, 技術改裝, 工匠文化
 license: CC BY 4.0
 ---

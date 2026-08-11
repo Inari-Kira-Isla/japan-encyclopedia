@@ -6,7 +6,7 @@ category: ski-resorts
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-ski-resorts-nara-奈良滑雪場完全指南-關西山區的隱藏雪境與冬季限定體驗-3790ad.html
 published: 2026-06-02
-quality_score: 6.5
+quality_score: 8.7
 tags: 奈良滑雪場, 關西滑雪, 日本冬季旅遊, 吉野山滑雪, 奈良自由行
 license: CC BY 4.0
 ---

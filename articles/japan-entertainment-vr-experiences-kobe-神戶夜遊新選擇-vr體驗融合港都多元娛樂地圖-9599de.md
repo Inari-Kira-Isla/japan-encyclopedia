@@ -6,7 +6,7 @@ category: vr-experiences
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-vr-experiences-kobe-神戶夜遊新選擇-vr體驗融合港都多元娛樂地圖-9599de.html
 published: 2026-06-13
-quality_score: 6.5
+quality_score: 8.7
 tags: 神戶VR, 關西娛樂, 港都夜遊, 複合式娛樂, 神戶自由行
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: airport-transfer
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-airport-transfer-kyoto-沖繩渡輪旅行實用指南-海上跳島交通的成本效益分析-0e6485.html
 published: 2026-06-03
-quality_score: 7.5
+quality_score: 8.6
 tags: 沖繩交通, 渡輪跳島, 海路旅行,  Okinawa, 予算旅行
 license: CC BY 4.0
 ---

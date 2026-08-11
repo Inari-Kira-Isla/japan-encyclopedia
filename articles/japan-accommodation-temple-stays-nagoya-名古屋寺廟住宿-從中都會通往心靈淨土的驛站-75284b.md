@@ -6,7 +6,7 @@ category: temple-stays
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-temple-stays-nagoya-名古屋寺廟住宿-從中都會通往心靈淨土的驛站-75284b.html
 published: 2026-06-09
-quality_score: 6.5
+quality_score: 8.6
 tags: 名古屋, 寺廟住宿, 宿坊, 中部地方, 禪修體驗
 license: CC BY 4.0
 ---

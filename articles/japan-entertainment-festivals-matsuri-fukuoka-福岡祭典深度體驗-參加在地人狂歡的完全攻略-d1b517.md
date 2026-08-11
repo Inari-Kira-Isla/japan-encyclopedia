@@ -6,7 +6,7 @@ category: festivals-matsuri
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-festivals-matsuri-fukuoka-福岡祭典深度體驗-參加在地人狂歡的完全攻略-d1b517.html
 published: 2026-04-06
-quality_score: 6.5
+quality_score: 8.8
 tags: 福岡祭典, 博多祇園山笠, 九州文化, 屋台體驗, 深度旅遊
 license: CC BY 4.0
 ---

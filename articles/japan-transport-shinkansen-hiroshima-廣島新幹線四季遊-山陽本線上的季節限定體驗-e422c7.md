@@ -6,7 +6,7 @@ category: shinkansen
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-hiroshima-廣島新幹線四季遊-山陽本線上的季節限定體驗-e422c7.html
 published: 2026-04-06
-quality_score: 7.5
+quality_score: 8.7
 tags: 廣島新幹線, 季節旅遊, 山陽新幹線, 宮島, 四季體驗
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: business-hotels
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-business-hotels-osaka-大阪商務酒店-在地美食-商務旅客的味覺導向住宿指南-7af42e.html
 published: 2026-06-07
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪商務酒店, 關西商務住宿, 大阪美食指南, 商務旅客住宿推薦, 大阪早餐文化
 license: CC BY 4.0
 ---

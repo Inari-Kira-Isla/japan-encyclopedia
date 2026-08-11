@@ -6,7 +6,7 @@ category: budget-travel
 area: japan
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-budget-travel-日本平價旅遊完整指南2026-揹包客預算每天-5-000的生存攻略-jp-budget-travel-g-ce6134.html
 published: 2026-03-28
-quality_score: 7.6
+quality_score: 8.5
 tags: 日本背包客, 日本省錢旅遊, 日本平價旅遊, 日本旅遊費用, 青春18切符
 license: CC BY 4.0
 ---

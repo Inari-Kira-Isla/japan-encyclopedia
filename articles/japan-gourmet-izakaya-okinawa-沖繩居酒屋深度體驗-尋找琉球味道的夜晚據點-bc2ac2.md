@@ -6,7 +6,7 @@ category: izakaya
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-izakaya-okinawa-沖繩居酒屋深度體驗-尋找琉球味道的夜晚據點-bc2ac2.html
 published: 2026-04-11
-quality_score: 6.5
+quality_score: 8.5
 tags: 沖繩美食, 居酒屋, 泡盛, 琉球文化, 在地體驗
 license: CC BY 4.0
 ---

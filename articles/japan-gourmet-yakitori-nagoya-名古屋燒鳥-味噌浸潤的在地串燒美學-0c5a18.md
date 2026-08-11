@@ -6,7 +6,7 @@ category: yakitori
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-yakitori-nagoya-名古屋燒鳥-味噌浸潤的在地串燒美學-0c5a18.html
 published: 2026-07-01
-quality_score: 6.5
+quality_score: 8.7
 tags: 名古屋燒鳥, 名古屋美食, 日本燒鳥, 味噌料理, 中部美食
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: historical-districts
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-nara-奈良歷史街區清晨版-日出時分的千年古都怎麼玩-b0e4e9.html
 published: 2026-07-03
-quality_score: 6.5
+quality_score: 8.5
 tags: 奈良, 歷史街區, 清晨體驗, 世界遺產, 日本古都
 license: CC BY 4.0
 ---

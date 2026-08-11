@@ -6,7 +6,7 @@ category: wagyu
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-wagyu-fukuoka-福岡和牛-在地吃法-巷子裡的和牛日常-旅行者的實用指南-252dca.html
 published: 2026-06-22
-quality_score: 6.5
+quality_score: 8.7
 tags: 福岡和牛, 在地美食, 屋台文化, 市場食堂, 燒肉
 license: CC BY 4.0
 ---

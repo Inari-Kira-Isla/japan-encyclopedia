@@ -6,7 +6,7 @@ category: business-hotels
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-business-hotels-kanazawa-金澤商務飯店完全攻略-功能導向的聰明選擇指南-300ba1.html
 published: 2026-03-24
-quality_score: 6.5
+quality_score: 8.6
 tags: 金澤, 商務酒店, 功能導向, 中國商旅客, CP值分析
 license: CC BY 4.0
 ---

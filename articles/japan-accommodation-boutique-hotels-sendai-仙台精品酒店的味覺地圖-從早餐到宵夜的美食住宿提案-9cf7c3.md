@@ -6,7 +6,7 @@ category: boutique-hotels
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-sendai-仙台精品酒店的味覺地圖-從早餐到宵夜的美食住宿提案-9cf7c3.html
 published: 2026-06-11
-quality_score: 6.5
+quality_score: 8.5
 tags: 仙台精品酒店, 仙台美食住宿, 東北小京都, 仙台朝食, 牛舌早餐
 license: CC BY 4.0
 ---

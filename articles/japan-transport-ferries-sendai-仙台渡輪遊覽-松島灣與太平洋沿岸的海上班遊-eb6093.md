@@ -6,7 +6,7 @@ category: ferries
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-ferries-sendai-仙台渡輪遊覽-松島灣與太平洋沿岸的海上班遊-eb6093.html
 published: 2026-06-01
-quality_score: 7.5
+quality_score: 8.5
 tags: 仙台, 松島灣, 渡輪, 海洋運輸, 日本三景
 license: CC BY 4.0
 ---

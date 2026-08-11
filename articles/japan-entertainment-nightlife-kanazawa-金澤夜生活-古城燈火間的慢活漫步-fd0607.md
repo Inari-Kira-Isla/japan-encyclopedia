@@ -6,7 +6,7 @@ category: nightlife
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-kanazawa-金澤夜生活-古城燈火間的慢活漫步-fd0607.html
 published: 2026-05-31
-quality_score: 6.5
+quality_score: 8.8
 tags: 金澤夜生活, 石川縣旅遊, 東茶屋街, 日本古城, 深度旅遊
 license: CC BY 4.0
 ---

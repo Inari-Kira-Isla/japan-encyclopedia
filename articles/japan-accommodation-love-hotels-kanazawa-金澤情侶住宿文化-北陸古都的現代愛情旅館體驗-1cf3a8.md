@@ -6,7 +6,7 @@ category: love-hotels
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-love-hotels-kanazawa-金澤情侶住宿文化-北陸古都的現代愛情旅館體驗-1cf3a8.html
 published: 2026-04-03
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤住宿, 愛情旅館, 北陸旅遊, 情侶住宿, 金澤觀光
 license: CC BY 4.0
 ---

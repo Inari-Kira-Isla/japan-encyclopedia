@@ -6,7 +6,7 @@ category: capsule-hotels
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-capsule-hotels-hiroshima-廣島膠囊旅館完全指南-國際商務客的在地體驗革命-53a30f.html
 published: 2026-03-29
-quality_score: 6.5
+quality_score: 8.7
 tags: 廣島住宿, 商務旅行, 國際旅客, 日式體驗, 文化交流
 license: CC BY 4.0
 ---

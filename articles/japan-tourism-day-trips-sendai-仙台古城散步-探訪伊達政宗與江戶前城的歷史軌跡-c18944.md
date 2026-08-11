@@ -6,7 +6,7 @@ category: day-trips
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-sendai-仙台古城散步-探訪伊達政宗與江戶前城的歷史軌跡-c18944.html
 published: 2026-06-25
-quality_score: 6.5
+quality_score: 8.7
 tags: 仙台, 一日遊, 伊達政宗, 城下町, 日本東北
 license: CC BY 4.0
 ---

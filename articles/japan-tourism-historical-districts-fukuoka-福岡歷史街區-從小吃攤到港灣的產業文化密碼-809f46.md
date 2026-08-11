@@ -6,7 +6,7 @@ category: historical-districts
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-fukuoka-福岡歷史街區-從小吃攤到港灣的產業文化密碼-809f46.html
 published: 2026-06-19
-quality_score: 6.5
+quality_score: 8.7
 tags: 福岡, 歷史街區, 屋台, 小吃文化, 港口城市
 license: CC BY 4.0
 ---

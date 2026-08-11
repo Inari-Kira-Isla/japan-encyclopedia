@@ -6,7 +6,7 @@ category: boutique-hotels
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-kyoto-京都精品旅宿-巷弄深處的設計日常與生活美學-34612d.html
 published: 2026-06-14
-quality_score: 6.5
+quality_score: 8.6
 tags: 京都住宿, 精品酒店, 町屋體驗, 關西旅遊, 京都自由行
 license: CC BY 4.0
 ---

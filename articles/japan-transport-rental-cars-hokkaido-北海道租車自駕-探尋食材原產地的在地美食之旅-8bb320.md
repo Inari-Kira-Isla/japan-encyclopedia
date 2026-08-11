@@ -6,7 +6,7 @@ category: rental-cars
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-hokkaido-北海道租車自駕-探尋食材原產地的在地美食之旅-8bb320.html
 published: 2026-03-24
-quality_score: 7.5
+quality_score: 8.6
 tags: 北海道, 租車自駕, 美食旅遊, 食材原產地, 在地飲食
 license: CC BY 4.0
 ---

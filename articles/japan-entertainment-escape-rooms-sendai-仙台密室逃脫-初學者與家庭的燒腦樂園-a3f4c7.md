@@ -6,7 +6,7 @@ category: escape-rooms
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-escape-rooms-sendai-仙台密室逃脫-初學者與家庭的燒腦樂園-a3f4c7.html
 published: 2026-06-15
-quality_score: 6.5
+quality_score: 8.7
 tags: 仙台, 密室逃脫, 東北娛樂, 仙台自由行, 室內活動
 license: CC BY 4.0
 ---

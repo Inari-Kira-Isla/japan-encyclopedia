@@ -6,7 +6,7 @@ category: anime-manga
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-nagoya-名古屋動漫文化探索-工業城市的御宅日常-869a59.html
 published: 2026-06-13
-quality_score: 6.5
+quality_score: 8.7
 tags: 名古屋動漫, 御宅文化, 中部日本, 遊戲中心, 同人誌
 license: CC BY 4.0
 ---

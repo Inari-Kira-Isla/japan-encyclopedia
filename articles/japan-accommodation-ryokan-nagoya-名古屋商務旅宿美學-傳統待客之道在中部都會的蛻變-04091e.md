@@ -6,7 +6,7 @@ category: ryokan
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-nagoya-名古屋商務旅宿美學-傳統待客之道在中部都會的蛻變-04091e.html
 published: 2026-07-06
-quality_score: 6.5
+quality_score: 8.6
 tags: 名古屋, Ryokan, 中部地方, 日本傳統旅宿, 名古屋住宿
 license: CC BY 4.0
 ---

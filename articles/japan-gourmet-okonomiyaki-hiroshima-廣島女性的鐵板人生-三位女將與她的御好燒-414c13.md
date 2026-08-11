@@ -6,7 +6,7 @@ category: okonomiyaki
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-okonomiyaki-hiroshima-廣島女性的鐵板人生-三位女將與她的御好燒-414c13.html
 published: 2026-05-24
-quality_score: 6.5
+quality_score: 8.8
 tags: 廣島御好燒, 広島お好み焼き, 女性店主, 鐵板料理, 廣島美食
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: depachika
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-depachika-kobe-神戶-depachika-港都食材寶庫的深度指南-c95ec4.html
 published: 2026-05-20
-quality_score: 6.5
+quality_score: 8.8
 tags: 神戶, Depachika, 港都美食, 地下食品, 關西自助
 license: CC BY 4.0
 ---

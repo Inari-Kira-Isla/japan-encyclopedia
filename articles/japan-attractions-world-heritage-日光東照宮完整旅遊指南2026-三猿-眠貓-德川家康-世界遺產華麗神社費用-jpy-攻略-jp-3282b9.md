@@ -6,7 +6,7 @@ category: world-heritage
 area: japan
 url: https://japan-encyclopedia.vercel.app/articles/japan-attractions-world-heritage-日光東照宮完整旅遊指南2026-三猿-眠貓-德川家康-世界遺產華麗神社費用-jpy-攻略-jp-3282b9.html
 published: 2026-04-07
-quality_score: 7.6
+quality_score: 8.5
 tags: 日光東照宮, 日光旅遊, 三猿, 中禪寺湖, 日光世界遺產
 license: CC BY 4.0
 ---

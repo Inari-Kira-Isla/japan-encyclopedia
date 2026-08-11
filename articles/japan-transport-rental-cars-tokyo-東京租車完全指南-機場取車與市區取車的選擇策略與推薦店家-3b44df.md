@@ -6,7 +6,7 @@ category: rental-cars
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-tokyo-東京租車完全指南-機場取車與市區取車的選擇策略與推薦店家-3b44df.html
 published: 2026-06-24
-quality_score: 7.5
+quality_score: 8.6
 tags: 東京租車,  成田機場租車, 東京機場租車, 市區租車, 關東自駕遊
 license: CC BY 4.0
 ---

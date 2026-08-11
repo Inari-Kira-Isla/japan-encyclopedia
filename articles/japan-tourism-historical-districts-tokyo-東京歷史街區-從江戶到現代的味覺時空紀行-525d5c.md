@@ -6,7 +6,7 @@ category: historical-districts
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-tokyo-東京歷史街區-從江戶到現代的味覺時空紀行-525d5c.html
 published: 2026-05-21
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京歷史街區, 築地, 神楽坂, 下北沢, 谷中銀座
 license: CC BY 4.0
 ---

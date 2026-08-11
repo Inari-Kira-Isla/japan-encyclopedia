@@ -6,7 +6,7 @@ category: temples-shrines
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-temples-shrines-nagoya-名古屋隱藏版神社散步-當地人才知道的祈福秘境-0c20df.html
 published: 2026-05-22
-quality_score: 6.5
+quality_score: 8.5
 tags: 名古屋神社, 名古屋寺廟, hidden spot, 非主流景點, 名古屋自由行
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: craft-markets
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-craft-markets-sendai-仙台早市與校園古物-深度玩家的東北市集獵奇攻略-8743c9.html
 published: 2026-06-28
-quality_score: 7.5
+quality_score: 8.6
 tags: 仙台市集, 東北朝市, 古物市場, 日本市集攻略, 校園文化
 license: CC BY 4.0
 ---

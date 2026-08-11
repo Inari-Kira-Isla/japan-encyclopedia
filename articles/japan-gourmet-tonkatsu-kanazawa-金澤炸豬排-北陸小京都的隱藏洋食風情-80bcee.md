@@ -6,7 +6,7 @@ category: tonkatsu
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tonkatsu-kanazawa-金澤炸豬排-北陸小京都的隱藏洋食風情-80bcee.html
 published: 2026-03-24
-quality_score: 6.5
+quality_score: 8.9
 tags: 金澤美食, 日式洋食, 石川縣, 炸豬排, 北陸旅行
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: jr-pass
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-jr-pass-hokkaido-北海道jr-pass完全攻略-鐵道暢遊日本最北端的實用方案-f7496e.html
 published: 2026-06-30
-quality_score: 7.5
+quality_score: 8.4
 tags: 北海道, JR Pass, 鐵路交通, 札幌, 小樽
 license: CC BY 4.0
 ---

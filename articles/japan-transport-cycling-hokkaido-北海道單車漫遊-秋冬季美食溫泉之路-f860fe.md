@@ -6,7 +6,7 @@ category: cycling
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-hokkaido-北海道單車漫遊-秋冬季美食溫泉之路-f860fe.html
 published: 2026-06-19
-quality_score: 7.5
+quality_score: 8.6
 tags: 北海道單車, 秋冬季騎行, 溫泉驛站, 海膽之路, 北海道美食
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: kaiseki
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-kaiseki-osaka-大阪會席料理-平民廚房的職人精神-b653bc.html
 published: 2026-06-23
-quality_score: 6.5
+quality_score: 8.4
 tags: 大阪美食, 會席料理, 關西料理, 日本美食, 大阪旅遊
 license: CC BY 4.0
 ---

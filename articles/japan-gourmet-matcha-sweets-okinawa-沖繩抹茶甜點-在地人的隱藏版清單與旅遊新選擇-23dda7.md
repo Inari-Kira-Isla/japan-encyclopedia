@@ -6,7 +6,7 @@ category: matcha-sweets
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-matcha-sweets-okinawa-沖繩抹茶甜點-在地人的隱藏版清單與旅遊新選擇-23dda7.html
 published: 2026-06-27
-quality_score: 6.5
+quality_score: 8.7
 tags: 沖繩, 抹茶甜點, 亞熱帶, 甘味處, 茶道
 license: CC BY 4.0
 ---

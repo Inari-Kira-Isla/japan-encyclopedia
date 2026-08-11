@@ -6,7 +6,7 @@ category: karaoke
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-karaoke-kanazawa-金澤卡拉ok-淺野川畔的音樂夜話-f14063.html
 published: 2026-05-22
-quality_score: 6.5
+quality_score: 8.8
 tags: 金澤, 卡拉OK, 石川縣, 淺野川, 東茶屋街
 license: CC BY 4.0
 ---

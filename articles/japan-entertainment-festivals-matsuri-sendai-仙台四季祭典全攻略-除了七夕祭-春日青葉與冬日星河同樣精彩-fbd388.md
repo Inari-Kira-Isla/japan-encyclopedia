@@ -6,7 +6,7 @@ category: festivals-matsuri
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-festivals-matsuri-sendai-仙台四季祭典全攻略-除了七夕祭-春日青葉與冬日星河同樣精彩-fbd388.html
 published: 2026-06-10
-quality_score: 6.5
+quality_score: 8.8
 tags: 仙台祭典, 青葉祭, 光之嘉年華, 七夕祭, 東北祭典
 license: CC BY 4.0
 ---

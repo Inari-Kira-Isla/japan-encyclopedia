@@ -6,7 +6,7 @@ category: sumo
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-hokkaido-北海道相撲-零下20度的熱血對決-雪國特有的相撲觀戰體驗-3e343c.html
 published: 2026-05-23
-quality_score: 6.5
+quality_score: 8.6
 tags: 北海道相撲, 雪國觀賽, 札幌體育館, 旭川相撲, 地方巡業
 license: CC BY 4.0
 ---

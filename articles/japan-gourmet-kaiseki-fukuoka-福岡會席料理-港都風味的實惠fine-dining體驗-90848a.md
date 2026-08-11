@@ -6,7 +6,7 @@ category: kaiseki
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-kaiseki-fukuoka-福岡會席料理-港都風味的實惠fine-dining體驗-90848a.html
 published: 2026-06-23
-quality_score: 6.5
+quality_score: 8.5
 tags: 福岡會席料理, 九州美食, 博多吃, 港都海鮮, 日本Fine Dining
 license: CC BY 4.0
 ---

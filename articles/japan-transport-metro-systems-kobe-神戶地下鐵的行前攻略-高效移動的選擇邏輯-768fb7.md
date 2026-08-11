@@ -6,7 +6,7 @@ category: metro-systems
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-kobe-神戶地下鐵的行前攻略-高效移動的選擇邏輯-768fb7.html
 published: 2026-06-07
-quality_score: 7.5
+quality_score: 8.7
 tags: 神戶地下鐵, 神戶交通, 神戶自由行, 關西交通, 神戶Metro
 license: CC BY 4.0
 ---

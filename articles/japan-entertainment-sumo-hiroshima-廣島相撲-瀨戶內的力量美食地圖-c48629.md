@@ -6,7 +6,7 @@ category: sumo
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-hiroshima-廣島相撲-瀨戶內的力量美食地圖-c48629.html
 published: 2026-07-06
-quality_score: 6.5
+quality_score: 8.8
 tags: 廣島相撲, 瀨戶內美食, 日本國技, 廣島旅遊, 相撲文化體驗
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: day-trips
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-osaka-大阪一日遊-五條職人帶路的在地散步路線-983093.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 8.5
 tags: 大阪一日遊, 關西周遊, 姬路城, 有馬溫泉, 高野山
 license: CC BY 4.0
 ---

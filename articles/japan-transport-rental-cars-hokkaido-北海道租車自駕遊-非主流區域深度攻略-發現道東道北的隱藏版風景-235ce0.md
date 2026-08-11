@@ -6,7 +6,7 @@ category: rental-cars
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-hokkaido-北海道租車自駕遊-非主流區域深度攻略-發現道東道北的隱藏版風景-235ce0.html
 published: 2026-06-13
-quality_score: 7.5
+quality_score: 8.7
 tags: 北海道租車, 道東自駕, 道北自駕, 北海道自由行, 租車攻略
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: castle-towns
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-castle-towns-sendai-仙台城下町-伊達政宗遺留的歷史軌跡-5e5b33.html
 published: 2026-03-16
-quality_score: 6.5
+quality_score: 8.9
 tags: 仙台, 城下町, 伊達政宗, 仙台城, 日本東北
 license: CC BY 4.0
 ---

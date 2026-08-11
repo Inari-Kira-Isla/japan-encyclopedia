@@ -6,7 +6,7 @@ category: island-hopping
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-island-hopping-osaka-大阪跳島之旅-泉州海岸的在地風光與離島體驗-e1da74.html
 published: 2026-06-28
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪跳島, 泉州海岸, 關西小眾景點, 日本島嶼旅遊, 大阪自由行
 license: CC BY 4.0
 ---

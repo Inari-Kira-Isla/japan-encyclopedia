@@ -6,7 +6,7 @@ category: love-hotels
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-love-hotels-hiroshima-hiroshima-love-hotels-7e51b8.html
 published: 2026-03-22
-quality_score: 5.5
+quality_score: 6.7
 tags: love-hotels, hiroshima, japan
 license: CC BY 4.0
 ---

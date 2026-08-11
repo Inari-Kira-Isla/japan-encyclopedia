@@ -6,7 +6,7 @@ category: business-hotels
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-business-hotels-osaka-大阪商務出差者必讀-機能性住宿的房型解析與長期住宿攻略-dc0ad2.html
 published: 2026-03-21
-quality_score: 6.5
+quality_score: 8.5
 tags: 大阪, 商務酒店, 出差, 長期住宿, 房型解析
 license: CC BY 4.0
 ---

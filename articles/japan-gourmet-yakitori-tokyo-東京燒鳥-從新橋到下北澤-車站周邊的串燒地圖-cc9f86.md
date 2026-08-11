@@ -6,7 +6,7 @@ category: yakitori
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-yakitori-tokyo-東京燒鳥-從新橋到下北澤-車站周邊的串燒地圖-cc9f86.html
 published: 2026-06-21
-quality_score: 6.5
+quality_score: 8.5
 tags: 東京美食, 燒鳥, 串燒, 車站周邊, 日本料理
 license: CC BY 4.0
 ---

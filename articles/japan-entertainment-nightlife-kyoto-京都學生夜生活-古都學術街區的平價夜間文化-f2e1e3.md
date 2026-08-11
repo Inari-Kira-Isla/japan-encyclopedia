@@ -6,7 +6,7 @@ category: nightlife
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-kyoto-京都學生夜生活-古都學術街區的平價夜間文化-f2e1e3.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.8
 tags: 京都夜生活, 日本學生文化, 平價娛樂, 大學城, 河原町
 license: CC BY 4.0
 ---

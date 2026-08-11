@@ -6,7 +6,7 @@ category: ramen
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-ramen-fukuoka-福岡拉麵-深夜屋臺文化與替玉精神的極致體驗-3531ba.html
 published: 2026-04-06
-quality_score: 6.5
+quality_score: 8.7
 tags: 福岡美食, 豚骨拉麵, 屋台文化, 深夜美食, 替玉
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: island-hopping
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-island-hopping-tokyo-東京跳島深度遊-體驗伊豆與小笠原群島的島民文化-fa4938.html
 published: 2026-04-06
-quality_score: 6.5
+quality_score: 8.6
 tags: 東京跳島, 伊豆諸島, 小笠原群島, 島嶼文化, 傳統工藝
 license: CC BY 4.0
 ---

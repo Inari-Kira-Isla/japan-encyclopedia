@@ -6,7 +6,7 @@ category: cycling
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-nagoya-名古屋單車美食探險-騎向碗碗都是文化的味噌煮境地-b46667.html
 published: 2026-06-29
-quality_score: 7.5
+quality_score: 8.7
 tags: 名古屋單車, 名古屋美食, 味噌煮烏龍麵, 名古屋咖啡店, 名古屋港
 license: CC BY 4.0
 ---

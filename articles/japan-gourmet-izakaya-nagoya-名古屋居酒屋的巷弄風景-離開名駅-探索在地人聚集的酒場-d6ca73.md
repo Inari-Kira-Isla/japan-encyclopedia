@@ -6,7 +6,7 @@ category: izakaya
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-izakaya-nagoya-名古屋居酒屋的巷弄風景-離開名駅-探索在地人聚集的酒場-d6ca73.html
 published: 2026-05-21
-quality_score: 6.5
+quality_score: 8.7
 tags: 名古屋居酒屋, 啤酒, 尾張, 金山, 榮
 license: CC BY 4.0
 ---

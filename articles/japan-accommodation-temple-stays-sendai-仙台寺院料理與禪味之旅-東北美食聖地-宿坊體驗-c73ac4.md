@@ -6,7 +6,7 @@ category: temple-stays
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-temple-stays-sendai-仙台寺院料理與禪味之旅-東北美食聖地-宿坊體驗-c73ac4.html
 published: 2026-06-06
-quality_score: 6.5
+quality_score: 8.6
 tags: 仙台, 寺院住宿, 東北, 禪修, 美食
 license: CC BY 4.0
 ---

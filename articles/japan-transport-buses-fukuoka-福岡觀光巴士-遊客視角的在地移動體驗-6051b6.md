@@ -6,7 +6,7 @@ category: buses
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-buses-fukuoka-福岡觀光巴士-遊客視角的在地移動體驗-6051b6.html
 published: 2026-06-18
-quality_score: 7.5
+quality_score: 8.7
 tags: 福岡, 巴士, 九州, 高速巴士, 市區交通
 license: CC BY 4.0
 ---

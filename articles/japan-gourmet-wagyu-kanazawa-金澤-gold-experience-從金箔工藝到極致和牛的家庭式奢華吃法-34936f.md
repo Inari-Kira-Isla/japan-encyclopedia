@@ -6,7 +6,7 @@ category: wagyu
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-wagyu-kanazawa-金澤-gold-experience-從金箔工藝到極致和牛的家庭式奢華吃法-34936f.html
 published: 2026-06-25
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤美食, 金澤和牛, 石川縣美食, 日本燒肉, 金澤旅行
 license: CC BY 4.0
 ---

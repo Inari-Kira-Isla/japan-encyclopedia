@@ -6,7 +6,7 @@ category: rental-cars
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-hiroshima-廣島租車樞紐攻略-中國地方自駕遊的戰略基地-399d72.html
 published: 2026-04-02
-quality_score: 7.5
+quality_score: 8.7
 tags: 廣島租車, 中國地方自駕, 跨縣市連遊, 季節性路線, 租車樞紐
 license: CC BY 4.0
 ---

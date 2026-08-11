@@ -6,7 +6,7 @@ category: department-stores
 area: japan
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-department-stores-大阪道頓堀-vs-心齋橋商業差異-章魚燒與奢侈品牌的百米之隔-dotonbori-vs-shi-af2ab7.html
 published: 2026-03-28
-quality_score: 7.6
+quality_score: 8.5
 tags: 道頓堀, 心齋橋, 大阪購物, 大阪旅遊, 商圈比較
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: airport-transfer
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-airport-transfer-tokyo-東京機場接駁情境攻略-依旅客型別與行程需求的交通選擇邏輯-d6f799.html
 published: 2026-06-28
-quality_score: 7.5
+quality_score: 8.4
 tags: 東京機場交通, 、成田機場, Haneda機場, 機場接駁, 東京自由行
 license: CC BY 4.0
 ---

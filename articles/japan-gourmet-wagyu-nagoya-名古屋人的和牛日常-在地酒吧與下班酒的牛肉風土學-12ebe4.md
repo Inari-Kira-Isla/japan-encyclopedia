@@ -6,7 +6,7 @@ category: wagyu
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-wagyu-nagoya-名古屋人的和牛日常-在地酒吧與下班酒的牛肉風土學-12ebe4.html
 published: 2026-06-10
-quality_score: 6.5
+quality_score: 8.7
 tags: 名古屋和牛, 名古屋美食, 在地推薦, 居酒屋, 中部地方
 license: CC BY 4.0
 ---

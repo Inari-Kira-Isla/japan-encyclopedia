@@ -6,7 +6,7 @@ category: buses
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-buses-tokyo-東京巴士通勤日常-當地人都在搭的市區公車隱藏版玩法-4b4501.html
 published: 2026-07-03
-quality_score: 7.5
+quality_score: 8.7
 tags: 東京巴士, 東京交通, 東京自由行, 東京市區公車, 東京通勤
 license: CC BY 4.0
 ---

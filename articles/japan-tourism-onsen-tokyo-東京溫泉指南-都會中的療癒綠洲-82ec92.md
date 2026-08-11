@@ -6,7 +6,7 @@ category: onsen
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-onsen-tokyo-東京溫泉指南-都會中的療癒綠洲-82ec92.html
 published: 2026-03-14
-quality_score: 6.5
+quality_score: 8.5
 tags: 東京溫泉, 日本文化, 放鬆體驗, 都市溫泉, 黑湯溫泉
 license: CC BY 4.0
 ---

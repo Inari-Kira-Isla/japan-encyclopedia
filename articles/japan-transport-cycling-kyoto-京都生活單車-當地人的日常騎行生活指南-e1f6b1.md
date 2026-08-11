@@ -6,7 +6,7 @@ category: cycling
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-kyoto-京都生活單車-當地人的日常騎行生活指南-e1f6b1.html
 published: 2026-03-24
-quality_score: 7.5
+quality_score: 8.7
 tags: 京都單車, 京都交通, 京都生活, 京都自由行, 關西單車
 license: CC BY 4.0
 ---

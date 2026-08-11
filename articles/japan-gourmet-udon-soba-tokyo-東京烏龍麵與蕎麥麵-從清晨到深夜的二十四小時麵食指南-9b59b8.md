@@ -6,7 +6,7 @@ category: udon-soba
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-udon-soba-tokyo-東京烏龍麵與蕎麥麵-從清晨到深夜的二十四小時麵食指南-9b59b8.html
 published: 2026-05-21
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京美食, 烏龍麵, 蕎麥麵, 東京攻略, 日本拉麵
 license: CC BY 4.0
 ---

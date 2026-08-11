@@ -6,7 +6,7 @@ category: fashion-harajuku
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-fashion-harajuku-hiroshima-廣島潮流購物指南-探索瀨戶內海的街頭時尚根據地-c245eb.html
 published: 2026-06-08
-quality_score: 7.5
+quality_score: 8.7
 tags: 廣島購物, 廣島潮流, 街頭時尚, 口岸紙屋町, 日本購物指南
 license: CC BY 4.0
 ---

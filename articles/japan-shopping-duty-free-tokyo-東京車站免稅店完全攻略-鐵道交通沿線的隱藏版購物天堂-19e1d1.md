@@ -6,7 +6,7 @@ category: duty-free
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-duty-free-tokyo-東京車站免稅店完全攻略-鐵道交通沿線的隱藏版購物天堂-19e1d1.html
 published: 2026-06-30
-quality_score: 7.5
+quality_score: 8.5
 tags: 東京免稅店, 車站免稅, 鐵道購物, 東京自由行, 日本免稅攻略
 license: CC BY 4.0
 ---

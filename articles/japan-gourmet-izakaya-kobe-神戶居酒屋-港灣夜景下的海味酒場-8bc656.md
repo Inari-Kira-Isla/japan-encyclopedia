@@ -6,7 +6,7 @@ category: izakaya
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-izakaya-kobe-神戶居酒屋-港灣夜景下的海味酒場-8bc656.html
 published: 2026-06-24
-quality_score: 6.5
+quality_score: 8.7
 tags: 神戶居酒屋, 港灣美食, 瀨戶內海海鮮, 神戶牛, 站立式酒場
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: vintage-thrift
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-vintage-thrift-hiroshima-廣島古著探險-從和平紀唸到街頭時尚的城市漫步指南-8af6f4.html
 published: 2026-03-22
-quality_score: 7.5
+quality_score: 8.6
 tags: 廣島古著, Vintage Thrift, 日本購物, 二手時尚, 戰後文化
 license: CC BY 4.0
 ---

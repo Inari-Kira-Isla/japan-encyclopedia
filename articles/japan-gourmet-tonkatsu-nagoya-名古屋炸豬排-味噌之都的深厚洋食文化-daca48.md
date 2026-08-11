@@ -6,7 +6,7 @@ category: tonkatsu
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tonkatsu-nagoya-名古屋炸豬排-味噌之都的深厚洋食文化-daca48.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.8
 tags: 名古屋美食, 炸豬排, 味噌料理, 日式洋食, 中部地區
 license: CC BY 4.0
 ---

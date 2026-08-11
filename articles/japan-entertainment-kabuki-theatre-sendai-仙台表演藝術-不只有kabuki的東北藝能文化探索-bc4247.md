@@ -6,7 +6,7 @@ category: kabuki-theatre
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-kabuki-theatre-sendai-仙台表演藝術-不只有kabuki的東北藝能文化探索-bc4247.html
 published: 2026-06-02
-quality_score: 6.5
+quality_score: 8.6
 tags: 仙台表演艺术, 东北文化交流, 日本非遗体验, 定禅寺爵士, 祭典文化
 license: CC BY 4.0
 ---

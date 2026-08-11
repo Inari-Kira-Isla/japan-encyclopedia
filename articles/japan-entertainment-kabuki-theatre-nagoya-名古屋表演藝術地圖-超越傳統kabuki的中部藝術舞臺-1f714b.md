@@ -6,7 +6,7 @@ category: kabuki-theatre
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-kabuki-theatre-nagoya-名古屋表演藝術地圖-超越傳統kabuki的中部藝術舞臺-1f714b.html
 published: 2026-07-04
-quality_score: 6.5
+quality_score: 8.6
 tags: 名古屋, 表演藝術, Kabuki, 日本傳統, 中部地方
 license: CC BY 4.0
 ---

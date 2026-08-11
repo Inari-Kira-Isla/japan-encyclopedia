@@ -6,7 +6,7 @@ category: depachika
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-depachika-okinawa-沖繩depachika-在地人的廚房採購指南與日常食事-35ee01.html
 published: 2026-06-21
-quality_score: 6.5
+quality_score: 8.7
 tags: 沖繩, Depachika, 在地人指南, 日常採購, 超市
 license: CC BY 4.0
 ---

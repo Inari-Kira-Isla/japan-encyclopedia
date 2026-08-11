@@ -6,7 +6,7 @@ category: nature-trails
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-kanazawa-金澤自然步道-古都山林的生命力探險-c0f7dd.html
 published: 2026-06-23
-quality_score: 6.5
+quality_score: 8.6
 tags: 金澤自然步道, 加賀百萬石, 日本海側山林, 能登半島, 森林浴
 license: CC BY 4.0
 ---

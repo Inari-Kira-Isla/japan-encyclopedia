@@ -6,7 +6,7 @@ category: island-hopping
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-island-hopping-kanazawa-金澤跳島之旅-日本海的島嶼秘境與文化底蘊-388fe7.html
 published: 2026-07-04
-quality_score: 6.5
+quality_score: 8.9
 tags: 金澤跳島, 日本海島嶼, 佐渡島, 能登半島, 輪島漆器
 license: CC BY 4.0
 ---

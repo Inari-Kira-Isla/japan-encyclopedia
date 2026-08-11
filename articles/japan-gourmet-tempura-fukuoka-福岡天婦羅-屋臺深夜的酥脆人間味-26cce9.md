@@ -6,7 +6,7 @@ category: tempura
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tempura-fukuoka-福岡天婦羅-屋臺深夜的酥脆人間味-26cce9.html
 published: 2026-06-21
-quality_score: 6.5
+quality_score: 8.7
 tags: 福岡, 天婦羅, 屋台, 九州美食, 深夜食堂
 license: CC BY 4.0
 ---

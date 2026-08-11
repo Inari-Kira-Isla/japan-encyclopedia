@@ -6,7 +6,7 @@ category: yakitori
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-yakitori-hokkaido-北海道燒鳥-海洋恩惠串起的北國燒烤物語-d10e09.html
 published: 2026-06-21
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道燒鳥, 札幌美食, 小樽燒鳥, 北海道海鮮, 日本燒鳥
 license: CC BY 4.0
 ---

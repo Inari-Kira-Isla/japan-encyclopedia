@@ -6,7 +6,7 @@ category: street-food
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-street-food-hokkaido-小樽運河畔的海風餐桌-港都街頭的海鮮直營美學-0ea574.html
 published: 2026-06-09
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道, 小樽, 函館, 釧路, 街頭美食
 license: CC BY 4.0
 ---

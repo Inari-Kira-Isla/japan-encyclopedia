@@ -6,7 +6,7 @@ category: yakitori
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-yakitori-okinawa-沖繩燒鳥的島嶼風情-港口城市的海鮮串燒與本地食材的完美融合-2798ef.html
 published: 2026-06-29
-quality_score: 6.5
+quality_score: 8.8
 tags: 沖繩燒鳥, 沖繩美食, 那霸美食, 海島燒烤, Agu黑豬
 license: CC BY 4.0
 ---

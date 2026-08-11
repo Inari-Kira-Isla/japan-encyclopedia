@@ -6,7 +6,7 @@ category: shinkansen
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-kyoto-京都新幹線城市導覽-站在jr京都站看日本鐵道心臟-17632b.html
 published: 2026-06-01
-quality_score: 7.5
+quality_score: 8.9
 tags: 京都新干线, JR京都站, 日本交通, 关西旅游, 京都站
 license: CC BY 4.0
 ---

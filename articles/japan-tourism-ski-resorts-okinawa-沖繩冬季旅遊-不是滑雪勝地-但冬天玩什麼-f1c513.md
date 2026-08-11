@@ -6,7 +6,7 @@ category: ski-resorts
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-ski-resorts-okinawa-沖繩冬季旅遊-不是滑雪勝地-但冬天玩什麼-f1c513.html
 published: 2026-04-07
-quality_score: 6.5
+quality_score: 9.0
 tags: 沖繩冬季, 沖繩自由行, 亞熱帶旅遊, 冬季潛水, 藍洞潛水
 license: CC BY 4.0
 ---

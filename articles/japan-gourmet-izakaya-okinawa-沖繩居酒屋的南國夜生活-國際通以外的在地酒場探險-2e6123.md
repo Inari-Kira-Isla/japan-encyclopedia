@@ -6,7 +6,7 @@ category: izakaya
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-izakaya-okinawa-沖繩居酒屋的南國夜生活-國際通以外的在地酒場探險-2e6123.html
 published: 2026-06-16
-quality_score: 6.5
+quality_score: 8.6
 tags: 沖繩居酒屋, 南國酒場, 那霸美食, 沖繩下町, 泡盛
 license: CC BY 4.0
 ---

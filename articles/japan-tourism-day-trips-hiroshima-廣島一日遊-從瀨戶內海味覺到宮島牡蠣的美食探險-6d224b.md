@@ -6,7 +6,7 @@ category: day-trips
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-hiroshima-廣島一日遊-從瀨戶內海味覺到宮島牡蠣的美食探險-6d224b.html
 published: 2026-06-25
-quality_score: 6.5
+quality_score: 8.7
 tags: 廣島美食, 廣島一日遊, 宮島牡蠣, 瀨戶內海, 廣島文字燒
 license: CC BY 4.0
 ---

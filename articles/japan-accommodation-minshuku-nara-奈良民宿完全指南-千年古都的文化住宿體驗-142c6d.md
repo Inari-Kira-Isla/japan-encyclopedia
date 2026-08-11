@@ -6,7 +6,7 @@ category: minshuku
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-nara-奈良民宿完全指南-千年古都的文化住宿體驗-142c6d.html
 published: 2026-06-14
-quality_score: 6.5
+quality_score: 8.5
 tags: 奈良民宿, 古都住宿, 文化體驗, 日本旅行, 關西自由行
 license: CC BY 4.0
 ---

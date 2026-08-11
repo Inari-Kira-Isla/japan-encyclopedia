@@ -6,7 +6,7 @@ category: souvenir-omiyage
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-souvenir-omiyage-kanazawa-金澤早市購物攻略-橋場町與近江町市場的在地美味-4be5ae.html
 published: 2026-06-13
-quality_score: 7.5
+quality_score: 8.6
 tags: 金澤伴手禮, 近江町市場, 橋場町通, 金澤購物, 加賀海產
 license: CC BY 4.0
 ---

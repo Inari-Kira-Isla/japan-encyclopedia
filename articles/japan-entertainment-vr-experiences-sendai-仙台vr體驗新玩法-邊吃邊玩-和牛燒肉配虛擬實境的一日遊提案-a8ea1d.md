@@ -6,7 +6,7 @@ category: vr-experiences
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-vr-experiences-sendai-仙台vr體驗新玩法-邊吃邊玩-和牛燒肉配虛擬實境的一日遊提案-a8ea1d.html
 published: 2026-06-19
-quality_score: 6.5
+quality_score: 8.9
 tags: 仙台VR體驗, 東北旅遊, 日本虛擬實境, 國分町一番街, 仙台美食
 license: CC BY 4.0
 ---

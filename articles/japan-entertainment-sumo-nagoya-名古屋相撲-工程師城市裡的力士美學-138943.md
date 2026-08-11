@@ -6,7 +6,7 @@ category: sumo
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-nagoya-名古屋相撲-工程師城市裡的力士美學-138943.html
 published: 2026-06-25
-quality_score: 6.5
+quality_score: 8.7
 tags: 名古屋相撲, 工程師文化, 中部地區觀光, 相撲體驗, 名古屋港
 license: CC BY 4.0
 ---

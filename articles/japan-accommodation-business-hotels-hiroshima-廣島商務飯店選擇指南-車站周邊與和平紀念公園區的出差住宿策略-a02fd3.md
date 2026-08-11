@@ -6,7 +6,7 @@ category: business-hotels
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-business-hotels-hiroshima-廣島商務飯店選擇指南-車站周邊與和平紀念公園區的出差住宿策略-a02fd3.html
 published: 2026-06-18
-quality_score: 6.5
+quality_score: 8.5
 tags: 廣島商務飯店, 出差住宿, 廣島站前, 和平紀念公園, 商務旅行
 license: CC BY 4.0
 ---

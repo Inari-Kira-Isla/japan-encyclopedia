@@ -6,7 +6,7 @@ category: kabuki-theatre
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-kabuki-theatre-tokyo-東京kabuki劇場完全指南-傳統芸術的現場感動-7e95e4.html
 published: 2026-05-23
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京, 歌舞妓, 表演藝術, 劇場, 日本文化
 license: CC BY 4.0
 ---

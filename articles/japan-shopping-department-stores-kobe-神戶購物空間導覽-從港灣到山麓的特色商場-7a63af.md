@@ -6,7 +6,7 @@ category: department-stores
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-department-stores-kobe-神戶購物空間導覽-從港灣到山麓的特色商場-7a63af.html
 published: 2026-06-20
-quality_score: 7.5
+quality_score: 8.7
 tags: 神戶購物, 神戶商場, 港都購物, 神戶自由行, 關西購物
 license: CC BY 4.0
 ---

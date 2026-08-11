@@ -6,7 +6,7 @@ category: anime-manga
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-nara-奈良漫畫散步-古都巷弄裡的御宅小宇宙-2c1105.html
 published: 2026-06-10
-quality_score: 6.5
+quality_score: 8.8
 tags: 奈良, 動漫, 御宅文化, 古都散步, 漫畫咖啡
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: 100-yen-shops
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-100-yen-shops-osaka-大阪百元商店採購指南-季節限定伴手禮與年度折扣秘密大公開-4a438c.html
 published: 2026-05-23
-quality_score: 7.5
+quality_score: 8.7
 tags: 大阪百元商店, 大阪購物, 大阪自由行, 日本百元店, 大阪伴手禮
 license: CC BY 4.0
 ---

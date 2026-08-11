@@ -6,7 +6,7 @@ category: electronics
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-electronics-nagoya-名古屋電子零件行-一個蘊含城市產業dna的深度購物指南-aae453.html
 published: 2026-05-25
-quality_score: 7.5
+quality_score: 8.5
 tags: 名古屋電子零件, 日本中部電子商城, 荣站电子街, 金山电机行, 日本电子购物
 license: CC BY 4.0
 ---

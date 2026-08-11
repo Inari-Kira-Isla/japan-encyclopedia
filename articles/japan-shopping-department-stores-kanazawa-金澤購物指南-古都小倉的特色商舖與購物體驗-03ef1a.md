@@ -6,7 +6,7 @@ category: department-stores
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-department-stores-kanazawa-金澤購物指南-古都小倉的特色商舖與購物體驗-03ef1a.html
 published: 2026-06-05
-quality_score: 7.5
+quality_score: 8.6
 tags: 金澤購物, 石川縣, 金箔, 日本三大名園, 近江町市場
 license: CC BY 4.0
 ---

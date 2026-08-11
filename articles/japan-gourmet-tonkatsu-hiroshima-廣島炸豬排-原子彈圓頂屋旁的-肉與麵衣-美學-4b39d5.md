@@ -6,7 +6,7 @@ category: tonkatsu
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tonkatsu-hiroshima-廣島炸豬排-原子彈圓頂屋旁的-肉與麵衣-美學-4b39d5.html
 published: 2026-05-22
-quality_score: 6.5
+quality_score: 8.9
 tags: 廣島美食, 炸豬排, 廣島燒, 日式洋食, 日本料理
 license: CC BY 4.0
 ---

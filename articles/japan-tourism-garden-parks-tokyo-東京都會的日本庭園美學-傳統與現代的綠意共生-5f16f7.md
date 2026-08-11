@@ -6,7 +6,7 @@ category: garden-parks
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-tokyo-東京都會的日本庭園美學-傳統與現代的綠意共生-5f16f7.html
 published: 2026-06-08
-quality_score: 6.5
+quality_score: 8.6
 tags: 東京, 花園公園, 日本庭園, 春季賞櫻, 秋季賞楓
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: duty-free
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-duty-free-osaka-大阪百圓店免稅攻略-挖掘隱藏在daiso的cp值寶物-a58768.html
 published: 2026-06-17
-quality_score: 7.5
+quality_score: 8.7
 tags: 大阪免稅, 百圓店, DAISO, 省錢攻略, 大阪購物
 license: CC BY 4.0
 ---

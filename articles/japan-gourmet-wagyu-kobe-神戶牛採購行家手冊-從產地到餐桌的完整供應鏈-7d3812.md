@@ -6,7 +6,7 @@ category: wagyu
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-wagyu-kobe-神戶牛採購行家手冊-從產地到餐桌的完整供應鏈-7d3812.html
 published: 2026-03-23
-quality_score: 6.5
+quality_score: 8.5
 tags: 和牛, 神戶牛, 日本美食, 採購指南, 供應鏈
 license: CC BY 4.0
 ---

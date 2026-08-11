@@ -6,7 +6,7 @@ category: ryokan
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-kyoto-京都不只是景點-東山地區-ryokan-的慢旅哲學-c09c00.html
 published: 2026-05-22
-quality_score: 6.5
+quality_score: 8.7
 tags: 京都住宿, 東山住宿, Ryokan推薦, 京料理, 京都旅遊
 license: CC BY 4.0
 ---

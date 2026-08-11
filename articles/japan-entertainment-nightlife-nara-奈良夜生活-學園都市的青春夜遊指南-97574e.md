@@ -6,7 +6,7 @@ category: nightlife
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-nara-奈良夜生活-學園都市的青春夜遊指南-97574e.html
 published: 2026-04-02
-quality_score: 6.5
+quality_score: 8.9
 tags: 奈良夜生活, 學園都市, 關西夜遊, 平價居酒屋, 卡拉OK
 license: CC BY 4.0
 ---

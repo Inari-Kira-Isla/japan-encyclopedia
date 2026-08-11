@@ -6,7 +6,7 @@ category: garden-parks
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-sendai-仙台花園公園巡禮-旅館鑑賞家的庭園延伸體驗-6c27c3.html
 published: 2026-04-06
-quality_score: 6.5
+quality_score: 8.5
 tags: 仙台, 花園公園, 日式庭園, 櫻花, 東北旅遊
 license: CC BY 4.0
 ---

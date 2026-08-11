@@ -6,7 +6,7 @@ category: ferries
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-ferries-tokyo-東京渡輪完全攻略-從港口出發的海上移動美學-072429.html
 published: 2026-06-17
-quality_score: 7.5
+quality_score: 8.1
 tags: 東京渡輪, 東京港, 竹芝碼頭, 東京灣, 海上交通
 license: CC BY 4.0
 ---

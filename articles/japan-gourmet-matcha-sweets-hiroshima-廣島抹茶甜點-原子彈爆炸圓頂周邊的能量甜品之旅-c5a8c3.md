@@ -6,7 +6,7 @@ category: matcha-sweets
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-matcha-sweets-hiroshima-廣島抹茶甜點-原子彈爆炸圓頂周邊的能量甜品之旅-c5a8c3.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 8.9
 tags: 广岛抹茶, 日本抹茶甜点, 广岛美食, 三次抹茶, matcha
 license: CC BY 4.0
 ---

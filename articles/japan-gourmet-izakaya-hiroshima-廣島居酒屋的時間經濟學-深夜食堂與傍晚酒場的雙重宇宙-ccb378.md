@@ -6,7 +6,7 @@ category: izakaya
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-izakaya-hiroshima-廣島居酒屋的時間經濟學-深夜食堂與傍晚酒場的雙重宇宙-ccb378.html
 published: 2026-06-12
-quality_score: 6.5
+quality_score: 8.6
 tags: 廣島, 居酒屋, お好み燒, 瀨戶內海, 清酒
 license: CC BY 4.0
 ---

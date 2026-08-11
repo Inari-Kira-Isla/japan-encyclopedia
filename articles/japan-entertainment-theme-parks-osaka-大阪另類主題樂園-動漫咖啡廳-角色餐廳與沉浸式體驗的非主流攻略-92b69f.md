@@ -6,7 +6,7 @@ category: theme-parks
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-theme-parks-osaka-大阪另類主題樂園-動漫咖啡廳-角色餐廳與沉浸式體驗的非主流攻略-92b69f.html
 published: 2026-06-14
-quality_score: 6.5
+quality_score: 8.6
 tags: 大阪主題樂園, 大阪另類體驗, 大阪動漫咖啡廳, 大阪沉浸式體驗, 關西主題餐廳
 license: CC BY 4.0
 ---

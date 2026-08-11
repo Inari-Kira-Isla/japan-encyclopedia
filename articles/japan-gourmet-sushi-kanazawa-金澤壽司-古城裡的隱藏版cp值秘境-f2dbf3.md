@@ -6,7 +6,7 @@ category: sushi
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sushi-kanazawa-金澤壽司-古城裡的隱藏版cp值秘境-f2dbf3.html
 published: 2026-05-22
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤壽司, 石川縣美食, 近江町市場, 北陸壽司, 日本海海鮮
 license: CC BY 4.0
 ---

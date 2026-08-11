@@ -6,7 +6,7 @@ category: kaiseki
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-kaiseki-osaka-大阪懷石料理-平民味道的米其林級享受-c401ed.html
 published: 2026-05-25
-quality_score: 6.5
+quality_score: 8.8
 tags: 大阪懷石, 關西料理, 日本美食, 懷石料理, 大阪旅遊
 license: CC BY 4.0
 ---

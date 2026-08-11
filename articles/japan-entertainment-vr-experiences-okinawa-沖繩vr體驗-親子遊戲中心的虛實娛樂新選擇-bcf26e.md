@@ -6,7 +6,7 @@ category: vr-experiences
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-vr-experiences-okinawa-沖繩vr體驗-親子遊戲中心的虛實娛樂新選擇-bcf26e.html
 published: 2026-07-02
-quality_score: 6.5
+quality_score: 8.7
 tags: 沖繩VR, 沖繩親子遊, 沖繩室內活動, 沖繩遊戲中心, 沖繩雨天景點
 license: CC BY 4.0
 ---

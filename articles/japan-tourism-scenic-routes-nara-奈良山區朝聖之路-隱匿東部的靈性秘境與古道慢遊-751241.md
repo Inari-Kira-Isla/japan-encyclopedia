@@ -6,7 +6,7 @@ category: scenic-routes
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-nara-奈良山區朝聖之路-隱匿東部的靈性秘境與古道慢遊-751241.html
 published: 2026-05-25
-quality_score: 6.5
+quality_score: 8.6
 tags: 奈良朝聖路線, 山區自駕, 秘湯, 熊野古道, 修驗道
 license: CC BY 4.0
 ---

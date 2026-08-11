@@ -6,7 +6,7 @@ category: day-trips
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-kyoto-京都洛東清晨參道體驗-東福寺・伏見稻荷的晨間慢遊提案-21dc28.html
 published: 2026-06-25
-quality_score: 6.5
+quality_score: 8.7
 tags: 京都一日遊, 洛東深度遊, 東福寺, 伏見稻荷, 清晨參道
 license: CC BY 4.0
 ---

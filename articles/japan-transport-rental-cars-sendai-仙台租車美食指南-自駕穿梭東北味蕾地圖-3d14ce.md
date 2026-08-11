@@ -6,7 +6,7 @@ category: rental-cars
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-sendai-仙台租車美食指南-自駕穿梭東北味蕾地圖-3d14ce.html
 published: 2026-06-21
-quality_score: 7.5
+quality_score: 8.6
 tags: 仙台租車, 東北自駕, 石卷美食, 三陸海岸, 氣仙沼鯨魚
 license: CC BY 4.0
 ---

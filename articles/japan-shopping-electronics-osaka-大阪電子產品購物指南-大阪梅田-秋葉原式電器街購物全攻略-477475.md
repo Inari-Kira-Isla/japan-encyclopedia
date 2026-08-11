@@ -6,7 +6,7 @@ category: electronics
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-electronics-osaka-大阪電子產品購物指南-大阪梅田-秋葉原式電器街購物全攻略-477475.html
 published: 2026-06-02
-quality_score: 7.5
+quality_score: 8.7
 tags: 大阪電子產品, 大阪購物, 關西電器, 難波電氣街, 大阪自由行
 license: CC BY 4.0
 ---

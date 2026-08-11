@@ -6,7 +6,7 @@ category: nightlife
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-kanazawa-金澤夜生活-感受北路古都的夜晚人情-666c60.html
 published: 2026-05-25
-quality_score: 6.5
+quality_score: 8.5
 tags: 金澤夜生活, 北路旅行, 日本古城夜遊, 片町酒吧街, 溫泉之夜
 license: CC BY 4.0
 ---

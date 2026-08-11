@@ -6,7 +6,7 @@ category: duty-free
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-duty-free-sendai-仙台免稅購物完全攻略-太宰府天滿宮參道與市區免稅店精選推薦-ba6d35.html
 published: 2026-06-29
-quality_score: 7.5
+quality_score: 8.7
 tags: 仙台免稅, 東北購物, 日本免稅店, 仙台藥妝, 東北伴手禮
 license: CC BY 4.0
 ---

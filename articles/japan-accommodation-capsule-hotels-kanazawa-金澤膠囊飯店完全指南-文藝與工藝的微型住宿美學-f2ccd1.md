@@ -6,7 +6,7 @@ category: capsule-hotels
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-capsule-hotels-kanazawa-金澤膠囊飯店完全指南-文藝與工藝的微型住宿美學-f2ccd1.html
 published: 2026-06-05
-quality_score: 6.5
+quality_score: 8.8
 tags: 金澤膠囊飯店, 北陸住宿, 女性友好住宿, Budget Travel, 日本文化深度遊
 license: CC BY 4.0
 ---

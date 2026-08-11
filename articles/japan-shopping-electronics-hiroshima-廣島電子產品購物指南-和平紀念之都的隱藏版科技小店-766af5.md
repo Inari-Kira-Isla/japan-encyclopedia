@@ -6,7 +6,7 @@ category: electronics
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-electronics-hiroshima-廣島電子產品購物指南-和平紀念之都的隱藏版科技小店-766af5.html
 published: 2026-06-19
-quality_score: 7.5
+quality_score: 8.5
 tags: 廣島電子產品, 廣島購物, 日本電器行, 廣島自由行, 日本二手相機
 license: CC BY 4.0
 ---

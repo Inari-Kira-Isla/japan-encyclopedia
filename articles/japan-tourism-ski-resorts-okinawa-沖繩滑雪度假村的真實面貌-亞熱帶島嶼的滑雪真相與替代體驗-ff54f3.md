@@ -6,7 +6,7 @@ category: ski-resorts
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-ski-resorts-okinawa-沖繩滑雪度假村的真實面貌-亞熱帶島嶼的滑雪真相與替代體驗-ff54f3.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 8.8
 tags: 沖繩滑雪度假村,  Okinawa滑雪, 亞熱帶滑雪, 沖繩冬季旅遊, 日本滑雪替代
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: sake-brewery
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sake-brewery-nagoya-名古屋酒蔵探索-從車間到釀造室的工業之城清酒美學-672bdd.html
 published: 2026-06-20
-quality_score: 6.5
+quality_score: 8.5
 tags: 名古屋, 酒蔵, 清酒, 日本中部, 酿造厂
 license: CC BY 4.0
 ---

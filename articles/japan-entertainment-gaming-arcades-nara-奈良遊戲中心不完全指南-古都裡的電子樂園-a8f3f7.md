@@ -6,7 +6,7 @@ category: gaming-arcades
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-gaming-arcades-nara-奈良遊戲中心不完全指南-古都裡的電子樂園-a8f3f7.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 8.6
 tags: 奈良ゲームセンター, 奈良娛樂, 奈良親子遊, 日本街機, 奈良自由行
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: souvenir-omiyage
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-souvenir-omiyage-tokyo-東京伴手禮採購攻略-早晨市場獵漏與銅板價好物精選-b965b0.html
 published: 2026-05-22
-quality_score: 7.5
+quality_score: 8.8
 tags: 東京伴手禮, 東京購物, 日本自由行,  omiyage , 東京銅板美食
 license: CC BY 4.0
 ---

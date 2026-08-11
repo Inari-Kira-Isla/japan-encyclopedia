@@ -6,7 +6,7 @@ category: scenic-routes
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-sendai-仙台牡蠣公路-海岸風光與極鮮美食的雙重滿足-7101f2.html
 published: 2026-06-22
-quality_score: 6.5
+quality_score: 8.6
 tags: 仙台自駕, 牡蠣美食, 海岸風景, 石卷, 日本東北自駕遊
 license: CC BY 4.0
 ---

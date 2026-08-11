@@ -6,7 +6,7 @@ category: nature-trails
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-nara-奈良親子步道與生態體驗-適合全家出遊的自然探索路線-4b0a5d.html
 published: 2026-06-04
-quality_score: 6.5
+quality_score: 8.6
 tags: 奈良親子步道, 奈良自然探索, 若草山登山, 奈良家庭旅遊, 日本古道健行
 license: CC BY 4.0
 ---

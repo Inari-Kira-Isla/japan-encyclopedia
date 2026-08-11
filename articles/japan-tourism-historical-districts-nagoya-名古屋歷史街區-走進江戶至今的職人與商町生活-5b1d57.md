@@ -6,7 +6,7 @@ category: historical-districts
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-nagoya-名古屋歷史街區-走進江戶至今的職人與商町生活-5b1d57.html
 published: 2026-06-09
-quality_score: 6.5
+quality_score: 8.6
 tags: 名古屋, 歷史街區, 職人, 老街, 大須
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: capsule-hotels
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-capsule-hotels-nara-奈良單車主題膠囊住宿-古都慢遊的腳踏車友善住宿指南-0338d8.html
 published: 2026-06-20
-quality_score: 6.5
+quality_score: 8.8
 tags: 奈良膠囊旅館, 單車旅行, 古都住宿, 日本關西, 自行車友善住宿
 license: CC BY 4.0
 ---

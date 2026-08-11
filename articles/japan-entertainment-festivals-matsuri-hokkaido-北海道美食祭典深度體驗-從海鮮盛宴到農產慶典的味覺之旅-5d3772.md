@@ -6,7 +6,7 @@ category: festivals-matsuri
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-festivals-matsuri-hokkaido-北海道美食祭典深度體驗-從海鮮盛宴到農產慶典的味覺之旅-5d3772.html
 published: 2026-03-28
-quality_score: 6.5
+quality_score: 8.6
 tags: 北海道祭典, 美食祭典, 海鮮祭典, 日本祭典, 北海道美食
 license: CC BY 4.0
 ---

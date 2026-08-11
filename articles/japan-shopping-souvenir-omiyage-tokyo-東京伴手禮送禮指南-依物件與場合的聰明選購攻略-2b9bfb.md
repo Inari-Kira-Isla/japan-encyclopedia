@@ -6,7 +6,7 @@ category: souvenir-omiyage
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-souvenir-omiyage-tokyo-東京伴手禮送禮指南-依物件與場合的聰明選購攻略-2b9bfb.html
 published: 2026-06-21
-quality_score: 7.5
+quality_score: 8.6
 tags: 東京伴手禮, 送禮指南, 日本旅遊, 伴手禮推薦, 東京購物
 license: CC BY 4.0
 ---

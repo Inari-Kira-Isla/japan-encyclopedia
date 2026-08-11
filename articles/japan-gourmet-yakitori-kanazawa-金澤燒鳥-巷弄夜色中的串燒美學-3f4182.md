@@ -6,7 +6,7 @@ category: yakitori
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-yakitori-kanazawa-金澤燒鳥-巷弄夜色中的串燒美學-3f4182.html
 published: 2026-06-16
-quality_score: 6.5
+quality_score: 8.8
 tags: 金澤燒鳥, 金澤美食, 石川縣料理, 日本串燒, 金澤夜生活
 license: CC BY 4.0
 ---

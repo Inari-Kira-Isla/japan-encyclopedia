@@ -6,7 +6,7 @@ category: ryokan
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-kyoto-京都四季旅宿-跟隨二十四節氣的極致宿體驗-c35ecd.html
 published: 2026-06-25
-quality_score: 6.5
+quality_score: 8.5
 tags: 京都, Ryokan, 傳統旅館, 春季賞櫻, 夏季螢火蟲
 license: CC BY 4.0
 ---

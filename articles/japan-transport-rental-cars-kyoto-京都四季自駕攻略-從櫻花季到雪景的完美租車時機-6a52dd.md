@@ -6,7 +6,7 @@ category: rental-cars
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-kyoto-京都四季自駕攻略-從櫻花季到雪景的完美租車時機-6a52dd.html
 published: 2026-03-29
-quality_score: 7.5
+quality_score: 8.6
 tags: 京都, 租車, 自駕遊, 四季旅遊, 交通攻略
 license: CC BY 4.0
 ---

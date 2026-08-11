@@ -6,7 +6,7 @@ category: ramen
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-ramen-fukuoka-福岡拉麵-當地人帶路的隱藏版清單與早午餐文化-086ee2.html
 published: 2026-05-31
-quality_score: 6.5
+quality_score: 8.9
 tags: 福岡拉麵, 博多豚骨, 日本早餐, 在地美食, 九州拉麵
 license: CC BY 4.0
 ---

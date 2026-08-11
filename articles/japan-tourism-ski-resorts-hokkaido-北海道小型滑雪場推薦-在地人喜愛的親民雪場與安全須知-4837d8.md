@@ -6,7 +6,7 @@ category: ski-resorts
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-ski-resorts-hokkaido-北海道小型滑雪場推薦-在地人喜愛的親民雪場與安全須知-4837d8.html
 published: 2026-06-12
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道滑雪場, 小型滑雪場, 親民滑雪場, 在地滑雪, 札幌滑雪
 license: CC BY 4.0
 ---

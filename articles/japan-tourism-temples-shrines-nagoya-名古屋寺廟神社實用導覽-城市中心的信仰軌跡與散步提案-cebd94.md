@@ -6,7 +6,7 @@ category: temples-shrines
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-temples-shrines-nagoya-名古屋寺廟神社實用導覽-城市中心的信仰軌跡與散步提案-cebd94.html
 published: 2026-06-28
-quality_score: 6.5
+quality_score: 8.5
 tags: 名古屋, 神社, 寺廟, 熱田神宫, 名古屋城
 license: CC BY 4.0
 ---

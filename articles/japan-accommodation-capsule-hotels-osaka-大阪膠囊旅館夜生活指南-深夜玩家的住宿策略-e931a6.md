@@ -6,7 +6,7 @@ category: capsule-hotels
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-capsule-hotels-osaka-大阪膠囊旅館夜生活指南-深夜玩家的住宿策略-e931a6.html
 published: 2026-06-11
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪膠囊旅館, 大阪夜生活, 道頓堀住宿, 新世界住宿, 大阪省钱住宿
 license: CC BY 4.0
 ---

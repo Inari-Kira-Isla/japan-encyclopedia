@@ -6,7 +6,7 @@ category: matcha-sweets
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-matcha-sweets-sendai-仙台抹茶甜點-車站周邊與城下町的綠意甜品散步-a0a0ae.html
 published: 2026-06-27
-quality_score: 6.5
+quality_score: 8.7
 tags: 仙台抹茶, 東北甜點, 山形抹茶, 甘味處, 茶寮
 license: CC BY 4.0
 ---

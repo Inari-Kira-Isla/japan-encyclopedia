@@ -6,7 +6,7 @@ category: street-food
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-street-food-kyoto-京都女子的清晨味覺-上班前的銅板小食地圖-ed1911.html
 published: 2026-06-06
-quality_score: 6.5
+quality_score: 8.7
 tags: 京都, 街頭美食, 清晨朝食, 銅板美食, 當地人推薦
 license: CC BY 4.0
 ---

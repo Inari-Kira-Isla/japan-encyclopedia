@@ -6,7 +6,7 @@ category: souvenir-omiyage
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-souvenir-omiyage-okinawa-沖繩質感伴手禮深度指南-長壽島的健康特產與職人選物-734a8a.html
 published: 2026-07-03
-quality_score: 7.5
+quality_score: 8.9
 tags: 沖繩伴手禮, 沖繩健康特產, 黑糖, 泡盛, 沖繩自由行
 license: CC BY 4.0
 ---

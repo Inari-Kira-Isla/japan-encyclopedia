@@ -6,7 +6,7 @@ category: theme-parks
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-theme-parks-osaka-大阪夜間主題娛樂全攻略-科技與狂歡交織的都會夢境-8df9e4.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.8
 tags: 大阪夜生活, VR體驗, 主題娛樂, 成人遊樂, 科技娛樂
 license: CC BY 4.0
 ---

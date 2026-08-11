@@ -6,7 +6,7 @@ category: escape-rooms
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-escape-rooms-okinawa-沖繩密室逃脫選店指南-從新手入門到深度玩家的目的地推薦-70c24b.html
 published: 2026-05-21
-quality_score: 6.5
+quality_score: 8.8
 tags: 沖繩密室逃脫, 那霸室內娛樂, 沖繩親子活動, 南島體驗推薦, 日本渡假娛樂
 license: CC BY 4.0
 ---

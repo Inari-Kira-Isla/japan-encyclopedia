@@ -6,7 +6,7 @@ category: jr-pass
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-jr-pass-tokyo-東京jr-pass的真相-沒有東京專用pass-但有更聰明的選擇-9942f0.html
 published: 2026-06-29
-quality_score: 7.5
+quality_score: 8.3
 tags: JR Pass, 東京交通, 關東周遊券, 東京廣域周遊券, 日本鐵路周遊券
 license: CC BY 4.0
 ---

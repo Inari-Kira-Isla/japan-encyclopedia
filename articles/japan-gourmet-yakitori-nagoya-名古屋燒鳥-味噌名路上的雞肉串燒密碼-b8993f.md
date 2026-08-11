@@ -6,7 +6,7 @@ category: yakitori
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-yakitori-nagoya-名古屋燒鳥-味噌名路上的雞肉串燒密碼-b8993f.html
 published: 2026-05-23
-quality_score: 6.5
+quality_score: 8.7
 tags: 名古屋, 燒鳥, 愛知縣, 味噌, 日本美食
 license: CC BY 4.0
 ---

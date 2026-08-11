@@ -6,7 +6,7 @@ category: onsen
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-onsen-nagoya-名古屋周邊溫泉一日遊-鐵道樞紐的溫泉輻射攻略-ed0b58.html
 published: 2026-06-09
-quality_score: 6.5
+quality_score: 8.7
 tags: 名古屋溫泉, 中部溫泉, 下呂溫泉, 一日遊溫泉, 鐵道溫泉
 license: CC BY 4.0
 ---

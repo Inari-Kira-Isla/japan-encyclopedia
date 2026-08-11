@@ -6,7 +6,7 @@ category: nature-trails
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-kyoto-京都晨間步道-日出與山林的生命甦醒時刻-2dbdc6.html
 published: 2026-06-29
-quality_score: 6.5
+quality_score: 8.7
 tags: 京都自然步道, 晨間登山, 古道巡禮, 攝影秘境, 京都深度旅遊
 license: CC BY 4.0
 ---

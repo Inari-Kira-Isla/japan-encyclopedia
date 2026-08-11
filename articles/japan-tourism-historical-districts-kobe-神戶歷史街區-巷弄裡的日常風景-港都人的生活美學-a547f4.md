@@ -6,7 +6,7 @@ category: historical-districts
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-kobe-神戶歷史街區-巷弄裡的日常風景-港都人的生活美學-a547f4.html
 published: 2026-05-22
-quality_score: 6.5
+quality_score: 8.3
 tags: 神戶, 歷史街區, 散步, 巷弄美食, 生田神社
 license: CC BY 4.0
 ---

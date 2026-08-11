@@ -6,7 +6,7 @@ category: ryokan
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-fukuoka-福岡傳統旅館完全指南-九州玄關的都會驛站-d9dfe9.html
 published: 2026-06-04
-quality_score: 6.5
+quality_score: 8.8
 tags: 福岡 Ryokan, 九州溫泉, 博多年住宿, 天神飯店, 福岡自由行
 license: CC BY 4.0
 ---

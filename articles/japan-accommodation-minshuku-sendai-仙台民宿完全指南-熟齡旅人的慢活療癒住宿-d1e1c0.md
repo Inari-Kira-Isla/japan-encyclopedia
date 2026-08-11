@@ -6,7 +6,7 @@ category: minshuku
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-sendai-仙台民宿完全指南-熟齡旅人的慢活療癒住宿-d1e1c0.html
 published: 2026-06-06
-quality_score: 6.5
+quality_score: 8.5
 tags: 仙台民宿, 熟齡旅遊, 東北溫泉, 慢活旅行, 銀髮族住宿
 license: CC BY 4.0
 ---

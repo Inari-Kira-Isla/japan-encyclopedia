@@ -6,7 +6,7 @@ category: metro-systems
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-kobe-神戶地下鐵的區域串聯術-從神戶出發的關西廣域一日遊-0af100.html
 published: 2026-06-07
-quality_score: 7.5
+quality_score: 8.7
 tags: 神戶地下鐵, 關西一日遊, 神戶交通, 明石一日遊, 姬路城
 license: CC BY 4.0
 ---

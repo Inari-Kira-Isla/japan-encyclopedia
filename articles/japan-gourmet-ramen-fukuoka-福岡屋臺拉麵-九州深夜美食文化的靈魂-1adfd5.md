@@ -6,7 +6,7 @@ category: ramen
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-ramen-fukuoka-福岡屋臺拉麵-九州深夜美食文化的靈魂-1adfd5.html
 published: 2026-04-06
-quality_score: 6.5
+quality_score: 8.5
 tags: 福岡美食, 屋台文化, 深夜拉麵, 九州豚骨, 博多名物
 license: CC BY 4.0
 ---

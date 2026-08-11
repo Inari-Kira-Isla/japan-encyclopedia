@@ -6,7 +6,7 @@ category: scenic-routes
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-kobe-神戶美食風景道-山海旬味一日遊路線指南-889c91.html
 published: 2026-05-25
-quality_score: 6.5
+quality_score: 8.5
 tags: 神戶美食風景道, 六甲山麓, 瀨戶內海鮮魚, 有馬溫泉蒸氣料理, 神戶夜景
 license: CC BY 4.0
 ---

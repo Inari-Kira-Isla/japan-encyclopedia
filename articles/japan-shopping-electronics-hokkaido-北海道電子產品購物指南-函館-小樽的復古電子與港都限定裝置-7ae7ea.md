@@ -6,7 +6,7 @@ category: electronics
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-electronics-hokkaido-北海道電子產品購物指南-函館-小樽的復古電子與港都限定裝置-7ae7ea.html
 published: 2026-05-23
-quality_score: 7.5
+quality_score: 8.7
 tags: 北海道電子產品, 函館購物, 小樽電器, 船用電子設備, 骨董收音機
 license: CC BY 4.0
 ---

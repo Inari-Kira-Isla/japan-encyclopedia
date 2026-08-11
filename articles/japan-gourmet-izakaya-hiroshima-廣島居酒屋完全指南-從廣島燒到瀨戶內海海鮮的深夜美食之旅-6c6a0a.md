@@ -6,7 +6,7 @@ category: izakaya
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-izakaya-hiroshima-廣島居酒屋完全指南-從廣島燒到瀨戶內海海鮮的深夜美食之旅-6c6a0a.html
 published: 2026-03-21
-quality_score: 6.5
+quality_score: 8.6
 tags: 廣島美食, 居酒屋文化, 廣島燒, 瀨戶內海, 日本地酒
 license: CC BY 4.0
 ---

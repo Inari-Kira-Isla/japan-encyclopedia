@@ -6,7 +6,7 @@ category: metro-systems
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-tokyo-東京地下鐵活用攻略-省時省錢的首都圈移動技術-64b8a7.html
 published: 2026-06-04
-quality_score: 7.5
+quality_score: 8.8
 tags: 東京地下鐵, 首都圈交通, 東京Metro, 日本自助旅行, 東京交通費
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: boutique-hotels
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-nara-奈良町家住宿-穿越時空的古民宅再生美學-4ae982.html
 published: 2026-06-21
-quality_score: 6.5
+quality_score: 8.5
 tags: 奈良町家, 古民宅住宿, 日本宿坊, 奈良深度遊, 古都慢旅
 license: CC BY 4.0
 ---

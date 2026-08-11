@@ -6,7 +6,7 @@ category: street-food
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-street-food-hiroshima-廣島巷弄裡的時光味覺-從被燒到到尾道的昭和散步-943802.html
 published: 2026-06-14
-quality_score: 6.5
+quality_score: 8.6
 tags: 廣島, 街頭美食, 昭和懷舊, 廣島燒, 尾道
 license: CC BY 4.0
 ---

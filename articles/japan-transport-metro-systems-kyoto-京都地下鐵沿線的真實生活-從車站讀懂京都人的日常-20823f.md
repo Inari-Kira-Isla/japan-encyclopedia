@@ -6,7 +6,7 @@ category: metro-systems
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-kyoto-京都地下鐵沿線的真實生活-從車站讀懂京都人的日常-20823f.html
 published: 2026-06-22
-quality_score: 7.5
+quality_score: 8.7
 tags: 京都地下鐵, 京都交通, 京都生活, 京都深度遊, 烏丸線
 license: CC BY 4.0
 ---

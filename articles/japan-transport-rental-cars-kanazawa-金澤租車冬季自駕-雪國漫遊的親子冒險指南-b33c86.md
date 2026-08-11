@@ -6,7 +6,7 @@ category: rental-cars
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-kanazawa-金澤租車冬季自駕-雪國漫遊的親子冒險指南-b33c86.html
 published: 2026-05-23
-quality_score: 7.5
+quality_score: 8.4
 tags: 金澤租車, 冬天自駕, 白川鄉, 能登半島, 石川縣
 license: CC BY 4.0
 ---

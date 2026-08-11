@@ -6,7 +6,7 @@ category: temples-shrines
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-temples-shrines-kobe-神戶宗教地景的多重宇宙-港都的國際信仰地圖-5507f6.html
 published: 2026-06-03
-quality_score: 6.5
+quality_score: 8.6
 tags: 神戶宗教, 多元信仰, 南京町, 清真寺, 孔廟
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: vr-experiences
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-vr-experiences-tokyo-東京沈浸式vr藝術體驗-當代科技與數位藝術的完美融合-2fce08.html
 published: 2026-05-23
-quality_score: 6.5
+quality_score: 8.9
 tags: 東京VR體驗, Tokyo VR, teamLab Planets, 沈浸式藝術, 東京科技娛樂
 license: CC BY 4.0
 ---

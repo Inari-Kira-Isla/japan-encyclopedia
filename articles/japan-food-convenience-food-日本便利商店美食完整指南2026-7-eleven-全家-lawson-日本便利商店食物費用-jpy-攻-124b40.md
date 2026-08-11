@@ -6,7 +6,7 @@ category: convenience-food
 area: japan
 url: https://japan-encyclopedia.vercel.app/articles/japan-food-convenience-food-日本便利商店美食完整指南2026-7-eleven-全家-lawson-日本便利商店食物費用-jpy-攻-124b40.html
 published: 2026-03-29
-quality_score: 7.6
+quality_score: 8.5
 tags: 日本便利商店, 7-Eleven日本, 日本飯糰, 全家奶油泡芙, 日本便利店美食
 license: CC BY 4.0
 ---

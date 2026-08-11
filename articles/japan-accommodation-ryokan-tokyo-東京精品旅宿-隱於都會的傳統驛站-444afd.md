@@ -6,7 +6,7 @@ category: ryokan
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-tokyo-東京精品旅宿-隱於都會的傳統驛站-444afd.html
 published: 2026-06-28
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京住宿, Ryokan, 日本旅遊, 東京自由行, 都市旅宿
 license: CC BY 4.0
 ---

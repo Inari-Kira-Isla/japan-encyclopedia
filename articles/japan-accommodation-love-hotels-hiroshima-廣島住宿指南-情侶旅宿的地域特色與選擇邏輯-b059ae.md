@@ -6,7 +6,7 @@ category: love-hotels
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-love-hotels-hiroshima-廣島住宿指南-情侶旅宿的地域特色與選擇邏輯-b059ae.html
 published: 2026-06-19
-quality_score: 6.5
+quality_score: 8.8
 tags: 廣島住宿, 情侶旅宿, 廣島站周邊, 宮島交通, 日本中國地區
 license: CC BY 4.0
 ---

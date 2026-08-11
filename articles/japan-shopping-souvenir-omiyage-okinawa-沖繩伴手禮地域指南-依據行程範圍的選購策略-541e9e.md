@@ -6,7 +6,7 @@ category: souvenir-omiyage
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-souvenir-omiyage-okinawa-沖繩伴手禮地域指南-依據行程範圍的選購策略-541e9e.html
 published: 2026-06-16
-quality_score: 7.5
+quality_score: 8.8
 tags: 沖繩伴手禮, 地域購物, 琉球工藝, 紅芋, 首里織
 license: CC BY 4.0
 ---

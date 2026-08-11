@@ -6,7 +6,7 @@ category: cycling
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-tokyo-東京下町騎行-穿越老街巷弄的在地美食路線-bfdee3.html
 published: 2026-06-17
-quality_score: 7.5
+quality_score: 8.7
 tags: 東京單車, 下町漫遊, 谷中根津千馱木, 在地美食, 老街騎行
 license: CC BY 4.0
 ---

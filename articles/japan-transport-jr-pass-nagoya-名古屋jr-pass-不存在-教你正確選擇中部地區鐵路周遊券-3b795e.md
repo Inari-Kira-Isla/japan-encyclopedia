@@ -6,7 +6,7 @@ category: jr-pass
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-jr-pass-nagoya-名古屋jr-pass-不存在-教你正確選擇中部地區鐵路周遊券-3b795e.html
 published: 2026-05-24
-quality_score: 7.5
+quality_score: 8.5
 tags: 名古屋交通, JR中部周遊券, 立山黑部周遊券, 昇龍道交通, 中山道鐵路之旅
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: ramen
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-ramen-hokkaido-北海道拉麵-海鮮沃土的極致風味-0ea682.html
 published: 2026-05-23
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道拉麵, 海膽拉麵, 札幌拉麵, 旭川拉麵, 函館拉麵
 license: CC BY 4.0
 ---

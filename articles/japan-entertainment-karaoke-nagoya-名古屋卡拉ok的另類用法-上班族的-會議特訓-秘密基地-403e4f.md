@@ -6,7 +6,7 @@ category: karaoke
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-karaoke-nagoya-名古屋卡拉ok的另類用法-上班族的-會議特訓-秘密基地-403e4f.html
 published: 2026-06-08
-quality_score: 6.5
+quality_score: 8.8
 tags: 名古屋卡拉OK, 商務練習, 名古屋上班族的秘密基地, 平價歡唱, 中部娛樂
 license: CC BY 4.0
 ---

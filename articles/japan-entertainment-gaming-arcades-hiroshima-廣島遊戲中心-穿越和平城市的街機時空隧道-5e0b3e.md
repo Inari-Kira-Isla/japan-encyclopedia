@@ -6,7 +6,7 @@ category: gaming-arcades
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-gaming-arcades-hiroshima-廣島遊戲中心-穿越和平城市的街機時空隧道-5e0b3e.html
 published: 2026-06-04
-quality_score: 5.5
+quality_score: 7.2
 tags: 廣島旅遊, 遊戲中心, 街機文化, 日本娛樂, 宮島景點
 license: CC BY 4.0
 ---

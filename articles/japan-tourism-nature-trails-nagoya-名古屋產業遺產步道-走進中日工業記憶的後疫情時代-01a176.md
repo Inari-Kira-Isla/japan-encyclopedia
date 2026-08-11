@@ -6,7 +6,7 @@ category: nature-trails
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-nagoya-名古屋產業遺產步道-走進中日工業記憶的後疫情時代-01a176.html
 published: 2026-06-04
-quality_score: 6.5
+quality_score: 8.7
 tags: 名古屋, 自然步道, 產業遺產, 文化旅遊, 歷史探索
 license: CC BY 4.0
 ---

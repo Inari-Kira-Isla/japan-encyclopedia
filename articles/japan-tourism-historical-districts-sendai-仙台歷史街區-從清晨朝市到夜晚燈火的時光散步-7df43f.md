@@ -6,7 +6,7 @@ category: historical-districts
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-sendai-仙台歷史街區-從清晨朝市到夜晚燈火的時光散步-7df43f.html
 published: 2026-06-29
-quality_score: 6.5
+quality_score: 8.7
 tags: 仙台, 歷史街區, 東北自由行, 伊達政宗, 日本古城
 license: CC BY 4.0
 ---

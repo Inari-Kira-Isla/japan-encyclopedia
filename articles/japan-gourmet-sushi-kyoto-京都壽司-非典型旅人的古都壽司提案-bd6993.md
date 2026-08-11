@@ -6,7 +6,7 @@ category: sushi
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sushi-kyoto-京都壽司-非典型旅人的古都壽司提案-bd6993.html
 published: 2026-05-24
-quality_score: 6.5
+quality_score: 8.6
 tags: 京都壽司, 京料理, 祇園壽司, 嵐山美食, 關西壽司
 license: CC BY 4.0
 ---

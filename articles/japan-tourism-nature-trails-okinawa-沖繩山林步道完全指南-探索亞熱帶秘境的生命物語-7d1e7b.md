@@ -6,7 +6,7 @@ category: nature-trails
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-okinawa-沖繩山林步道完全指南-探索亞熱帶秘境的生命物語-7d1e7b.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 8.7
 tags: 沖繩步道, 山原綠鳩, 亞熱帶山林, 自駕旅遊, 北部沖繩
 license: CC BY 4.0
 ---

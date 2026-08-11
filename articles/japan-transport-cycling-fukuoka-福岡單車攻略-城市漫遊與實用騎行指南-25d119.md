@@ -6,7 +6,7 @@ category: cycling
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-fukuoka-福岡單車攻略-城市漫遊與實用騎行指南-25d119.html
 published: 2026-03-29
-quality_score: 7.5
+quality_score: 8.7
 tags: 福岡單車, 九州騎行, 日本自由行, 福岡交通, Bike
 license: CC BY 4.0
 ---

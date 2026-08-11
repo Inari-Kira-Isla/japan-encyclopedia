@@ -6,7 +6,7 @@ category: sushi
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sushi-nara-奈良壽司-古道驛站的鄉土味記憶-49f1ef.html
 published: 2026-06-23
-quality_score: 6.5
+quality_score: 8.6
 tags: 奈良美食, 古都壽司, 押壽司, 柿葉壽司, 奈良深度旅行
 license: CC BY 4.0
 ---

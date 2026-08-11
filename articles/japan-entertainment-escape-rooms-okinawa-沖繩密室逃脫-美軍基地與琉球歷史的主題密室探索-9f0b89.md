@@ -6,7 +6,7 @@ category: escape-rooms
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-escape-rooms-okinawa-沖繩密室逃脫-美軍基地與琉球歷史的主題密室探索-9f0b89.html
 published: 2026-06-13
-quality_score: 6.5
+quality_score: 9.0
 tags: 沖繩密室逃脫, 琉球歷史體驗, 美軍基地文化, 間諜主題密室, 沖繩室內活動
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: department-stores
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-department-stores-kobe-神戶購物完全指南-港都開埠至今的百年商業物語-5971ce.html
 published: 2026-06-24
-quality_score: 7.5
+quality_score: 8.7
 tags: 神戶購物, 港都購物, 神戶百货, 三宮購物, 神戶自由行
 license: CC BY 4.0
 ---

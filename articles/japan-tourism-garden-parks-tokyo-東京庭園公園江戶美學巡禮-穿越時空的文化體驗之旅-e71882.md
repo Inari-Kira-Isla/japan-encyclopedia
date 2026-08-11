@@ -6,7 +6,7 @@ category: garden-parks
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-tokyo-東京庭園公園江戶美學巡禮-穿越時空的文化體驗之旅-e71882.html
 published: 2026-04-06
-quality_score: 6.5
+quality_score: 8.9
 tags: 東京, 庭園, 江戶文化, 傳統美學, 文化體驗
 license: CC BY 4.0
 ---

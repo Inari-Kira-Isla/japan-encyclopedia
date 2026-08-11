@@ -6,7 +6,7 @@ category: sushi
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sushi-kobe-神戶壽司的日常-港都居民的魚市場朝聖與平價美味地圖-7a6ff2.html
 published: 2026-06-29
-quality_score: 6.5
+quality_score: 8.8
 tags: 神戶壽司, 瀨戶內海, 神戶美食, 平價壽司, 魚市場
 license: CC BY 4.0
 ---

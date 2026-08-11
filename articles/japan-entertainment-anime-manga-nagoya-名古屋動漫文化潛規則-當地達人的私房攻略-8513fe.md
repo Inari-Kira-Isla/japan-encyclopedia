@@ -6,7 +6,7 @@ category: anime-manga
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-nagoya-名古屋動漫文化潛規則-當地達人的私房攻略-8513fe.html
 published: 2026-06-06
-quality_score: 6.5
+quality_score: 8.6
 tags: 名古屋動漫, 名古屋漫畫店, 名古屋動漫周邊, 中部地方御宅族, 名古屋遊戲中心
 license: CC BY 4.0
 ---

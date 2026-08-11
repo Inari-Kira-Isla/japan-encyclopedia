@@ -6,7 +6,7 @@ category: onsen
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-onsen-tokyo-東京錢湯散步-昭和情懷與日常的溫泉物語-477da7.html
 published: 2026-06-24
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京錢湯, 都內溫泉, 昭和風情, 公共浴場, 惠比壽
 license: CC BY 4.0
 ---

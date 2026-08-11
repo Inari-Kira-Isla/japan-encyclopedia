@@ -6,7 +6,7 @@ category: street-food
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-street-food-kyoto-京都清晨味覺-當地人開始一天的隱藏版早點時光-5762df.html
 published: 2026-06-03
-quality_score: 6.5
+quality_score: 8.6
 tags: 京都, 清晨美食, 朝市, 老舖, 早餐
 license: CC BY 4.0
 ---

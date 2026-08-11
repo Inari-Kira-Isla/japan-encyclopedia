@@ -6,7 +6,7 @@ category: temple-stays
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-temple-stays-tokyo-東京禪修初心者指南-沒有宗教背景也能開始的冥想之旅-30338f.html
 published: 2026-03-24
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京禪修, 冥想體驗, 寺廟住宿替代方案, 初心者指南, 日本靈修旅遊
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: nature-trails
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-nagoya-名古屋歷史古道慢遊-穿越戰國與江戶的時空步履-2d0849.html
 published: 2026-06-03
-quality_score: 6.5
+quality_score: 8.7
 tags: 名古屋歷史古道, 戰國步道, 尾張藩獵場, 瀨戶古道, 東谷山水果步道
 license: CC BY 4.0
 ---

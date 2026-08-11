@@ -6,7 +6,7 @@ category: buses
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-buses-kyoto-京都巴士系統-省錢又能深度漫遊的在地人交通指南-8023d3.html
 published: 2026-06-03
-quality_score: 7.5
+quality_score: 8.6
 tags: 京都巴士, 京都交通, 古都漫遊, 一日券, 背包旅行
 license: CC BY 4.0
 ---

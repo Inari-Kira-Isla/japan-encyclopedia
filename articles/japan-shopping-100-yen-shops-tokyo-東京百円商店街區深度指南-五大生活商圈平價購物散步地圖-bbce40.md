@@ -6,7 +6,7 @@ category: 100-yen-shops
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-100-yen-shops-tokyo-東京百円商店街區深度指南-五大生活商圈平價購物散步地圖-bbce40.html
 published: 2026-06-03
-quality_score: 7.5
+quality_score: 9.0
 tags: Tokyo, 百円商店, 東京購物, 平價購物, 下北澤
 license: CC BY 4.0
 ---

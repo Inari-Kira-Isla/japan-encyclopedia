@@ -6,7 +6,7 @@ category: sumo
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-nara-奈良相撲文化-古都記憶中的力士身影-4e42a8.html
 published: 2026-06-19
-quality_score: 6.5
+quality_score: 8.6
 tags: 奈良相撲, 古都文化, 日本傳統, 關西旅遊, 文化體驗
 license: CC BY 4.0
 ---

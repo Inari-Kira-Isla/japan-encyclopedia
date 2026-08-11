@@ -6,7 +6,7 @@ category: wagyu
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-wagyu-nara-奈良-和歌山-三重-關西中南部的隱藏和牛美食地圖-ad2b83.html
 published: 2026-07-02
-quality_score: 6.5
+quality_score: 8.7
 tags: 奈良和牛, 三重和牛, 和歌山和牛, 關西燒肉, 高CP值和牛
 license: CC BY 4.0
 ---

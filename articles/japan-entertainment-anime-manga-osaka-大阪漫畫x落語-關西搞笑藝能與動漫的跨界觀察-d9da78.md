@@ -6,7 +6,7 @@ category: anime-manga
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-osaka-大阪漫畫x落語-關西搞笑藝能與動漫的跨界觀察-d9da78.html
 published: 2026-06-02
-quality_score: 6.5
+quality_score: 8.8
 tags: 大阪動漫, 關西御宅文化, 声優培訓, 漫才與漫畫, 聖地巡禮
 license: CC BY 4.0
 ---

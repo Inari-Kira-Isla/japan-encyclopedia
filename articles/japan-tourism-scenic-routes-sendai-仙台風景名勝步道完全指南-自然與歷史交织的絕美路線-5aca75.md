@@ -6,7 +6,7 @@ category: scenic-routes
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-sendai-仙台風景名勝步道完全指南-自然與歷史交织的絕美路線-5aca75.html
 published: 2026-03-15
-quality_score: 6.5
+quality_score: 8.7
 tags: 仙台, 日本東北, 風景名勝, 健行步道, 松島
 license: CC BY 4.0
 ---

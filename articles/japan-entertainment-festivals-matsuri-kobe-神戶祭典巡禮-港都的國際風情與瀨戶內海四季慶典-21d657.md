@@ -6,7 +6,7 @@ category: festivals-matsuri
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-festivals-matsuri-kobe-神戶祭典巡禮-港都的國際風情與瀨戶內海四季慶典-21d657.html
 published: 2026-04-04
-quality_score: 6.5
+quality_score: 8.6
 tags: 神戶祭典, 港都文化, 瀨戶內海, 國際化, 海鮮文化
 license: CC BY 4.0
 ---

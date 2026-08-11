@@ -6,7 +6,7 @@ category: electronics
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-electronics-fukuoka-福岡電子產品購物指南-九州門戶的氣候型電子消費密碼-89273c.html
 published: 2026-07-03
-quality_score: 7.5
+quality_score: 8.7
 tags: 福岡電子產品, 九州購物, Bic Camera, EDION, 上新電機
 license: CC BY 4.0
 ---

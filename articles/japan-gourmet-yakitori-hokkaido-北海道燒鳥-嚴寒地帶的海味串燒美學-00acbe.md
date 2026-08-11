@@ -6,7 +6,7 @@ category: yakitori
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-yakitori-hokkaido-北海道燒鳥-嚴寒地帶的海味串燒美學-00acbe.html
 published: 2026-06-08
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道燒鳥, 海鮮串燒, 札幌美食, 小樽美食, 日本美食
 license: CC BY 4.0
 ---

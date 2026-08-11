@@ -6,7 +6,7 @@ category: onsen
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-onsen-hiroshima-廣島溫泉-瀨戶內海畔的鹽湯與港都風情-416c82.html
 published: 2026-07-02
-quality_score: 6.5
+quality_score: 8.6
 tags: 廣島溫泉, 瀨戶內海, 吳市, 鹽化物泉, 日本溫泉
 license: CC BY 4.0
 ---

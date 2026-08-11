@@ -6,7 +6,7 @@ category: anime-manga
 area: japan
 url: https://japan-encyclopedia.vercel.app/articles/japan-attractions-anime-manga-日本動漫文化完整深度指南2026-秋葉原-聖地巡禮-comiket-動漫旅遊費用攻略-jp-mang-a83555.html
 published: 2026-04-05
-quality_score: 7.6
+quality_score: 8.6
 tags: 日本動漫聖地, 秋葉原ACG, 聖地巡禮, Comiket, 日本動漫文化
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: matcha-sweets
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-matcha-sweets-hiroshima-廣島抹茶甜點-和平之都的綠茶雅韻-affcb0.html
 published: 2026-03-20
-quality_score: 6.5
+quality_score: 8.7
 tags: 廣島美食, 抹茶甜點, 日式茶道, 傳統文化, 和平紀念公園
 license: CC BY 4.0
 ---

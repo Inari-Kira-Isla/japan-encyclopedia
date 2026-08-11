@@ -6,7 +6,7 @@ category: minshuku
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-tokyo-東京民宿完全指南-tokyo-urara流-隱藏於都會巷弄的家庭式溫暖-6483f5.html
 published: 2026-06-30
-quality_score: 6.5
+quality_score: 8.4
 tags: 東京民宿, 下町住宿, Tokyo minshuku, 台東區民宿, 新宿民宿
 license: CC BY 4.0
 ---

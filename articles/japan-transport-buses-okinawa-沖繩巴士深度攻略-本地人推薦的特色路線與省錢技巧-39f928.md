@@ -6,7 +6,7 @@ category: buses
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-buses-okinawa-沖繩巴士深度攻略-本地人推薦的特色路線與省錢技巧-39f928.html
 published: 2026-06-20
-quality_score: 7.5
+quality_score: 8.5
 tags: 沖繩交通, 巴士一日券, 自助旅行, 省錢攻略, 沖繩景點
 license: CC BY 4.0
 ---

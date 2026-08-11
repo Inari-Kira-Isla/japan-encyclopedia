@@ -6,7 +6,7 @@ category: matcha-sweets
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-matcha-sweets-sendai-仙台抹茶甜點完全指南-藏在東北古城裡的抹茶韻味-d70298.html
 published: 2026-06-02
-quality_score: 6.5
+quality_score: 8.6
 tags: 仙台抹茶甜點, 東北美食, 日本甜點, 一番町, 抹茶在日本
 license: CC BY 4.0
 ---

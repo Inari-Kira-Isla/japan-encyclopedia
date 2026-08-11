@@ -6,7 +6,7 @@ category: tempura
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tempura-osaka-大阪天婦羅-四季旬味與關西油炸藝術-c38c38.html
 published: 2026-06-13
-quality_score: 6.5
+quality_score: 8.6
 tags: 大阪美食, 天婦羅, 關西料理, 季節食材, 日本料理
 license: CC BY 4.0
 ---

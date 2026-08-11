@@ -6,7 +6,7 @@ category: buses
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-buses-nagoya-名古屋出發-巴士一日遊-精選5條路線暢遊中部近郊-5bb80f.html
 published: 2026-06-07
-quality_score: 7.5
+quality_score: 8.5
 tags: 名古屋巴士, 日本中部, 一日遊, 自助旅行, 近郊觀光
 license: CC BY 4.0
 ---

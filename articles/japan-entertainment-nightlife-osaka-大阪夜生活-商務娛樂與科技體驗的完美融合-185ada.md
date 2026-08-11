@@ -6,7 +6,7 @@ category: nightlife
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-osaka-大阪夜生活-商務娛樂與科技體驗的完美融合-185ada.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪夜生活, 商務娛樂, 卡拉OK文化, 科技娛樂, VR體驗
 license: CC BY 4.0
 ---

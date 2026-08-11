@@ -6,7 +6,7 @@ category: ferries
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-ferries-tokyo-東京往島嶼的海上航路-渡輪帶你遠離都市的島嶼探訪指南-610b8d.html
 published: 2026-06-21
-quality_score: 7.5
+quality_score: 8.6
 tags: 東京渡輪, 東京島嶼, 渡輪交通, 東京都, 離島旅行
 license: CC BY 4.0
 ---

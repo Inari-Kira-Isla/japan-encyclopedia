@@ -6,7 +6,7 @@ category: island-hopping
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-island-hopping-nara-奈良的-island-hopping-古都周邊的文化跳島指南-16849e.html
 published: 2026-06-02
-quality_score: 6.5
+quality_score: 8.8
 tags: 奈良溫泉, 古都奈良, 跳島, 春日大社, 奈良公園
 license: CC BY 4.0
 ---

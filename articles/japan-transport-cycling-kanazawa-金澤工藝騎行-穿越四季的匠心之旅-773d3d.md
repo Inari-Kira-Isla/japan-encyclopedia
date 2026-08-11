@@ -6,7 +6,7 @@ category: cycling
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-kanazawa-金澤工藝騎行-穿越四季的匠心之旅-773d3d.html
 published: 2026-04-05
-quality_score: 7.5
+quality_score: 8.7
 tags: 金澤, 單車旅遊, 工藝文化, 四季美景, 城下町
 license: CC BY 4.0
 ---

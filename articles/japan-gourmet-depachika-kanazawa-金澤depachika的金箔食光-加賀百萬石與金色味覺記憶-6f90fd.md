@@ -6,7 +6,7 @@ category: depachika
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-depachika-kanazawa-金澤depachika的金箔食光-加賀百萬石與金色味覺記憶-6f90fd.html
 published: 2026-06-30
-quality_score: 6.5
+quality_score: 8.8
 tags: 金澤, Depachika, 金箔, 加賀野菜, 日本海
 license: CC BY 4.0
 ---

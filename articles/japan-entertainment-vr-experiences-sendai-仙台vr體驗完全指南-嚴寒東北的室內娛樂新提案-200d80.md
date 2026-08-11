@@ -6,7 +6,7 @@ category: vr-experiences
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-vr-experiences-sendai-仙台vr體驗完全指南-嚴寒東北的室內娛樂新提案-200d80.html
 published: 2026-06-24
-quality_score: 6.5
+quality_score: 8.7
 tags: 仙台VR, 東北VR體驗, 仙台室內娛樂, 日本VR體驗, 仙台旅遊
 license: CC BY 4.0
 ---

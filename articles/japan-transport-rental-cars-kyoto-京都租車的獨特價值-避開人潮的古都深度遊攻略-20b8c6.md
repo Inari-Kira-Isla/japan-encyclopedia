@@ -6,7 +6,7 @@ category: rental-cars
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-kyoto-京都租車的獨特價值-避開人潮的古都深度遊攻略-20b8c6.html
 published: 2026-05-25
-quality_score: 7.5
+quality_score: 8.7
 tags: 京都租車, 關西自駕, 古都深度遊, 京都周邊, 日本租車攻略
 license: CC BY 4.0
 ---

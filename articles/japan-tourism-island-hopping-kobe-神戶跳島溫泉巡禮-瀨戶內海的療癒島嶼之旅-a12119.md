@@ -6,7 +6,7 @@ category: island-hopping
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-island-hopping-kobe-神戶跳島溫泉巡禮-瀨戶內海的療癒島嶼之旅-a12119.html
 published: 2026-04-06
-quality_score: 6.5
+quality_score: 8.6
 tags: 神戶, 跳島旅遊, 溫泉, 瀨戶內海, 淡路島
 license: CC BY 4.0
 ---

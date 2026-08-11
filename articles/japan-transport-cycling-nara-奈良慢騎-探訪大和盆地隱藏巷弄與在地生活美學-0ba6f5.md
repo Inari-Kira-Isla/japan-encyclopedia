@@ -6,7 +6,7 @@ category: cycling
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-nara-奈良慢騎-探訪大和盆地隱藏巷弄與在地生活美學-0ba6f5.html
 published: 2026-05-23
-quality_score: 7.5
+quality_score: 8.7
 tags: 奈良單車, 大和盆地, 世界遺產慢騎, 日本古城探索, 女子單車旅行
 license: CC BY 4.0
 ---

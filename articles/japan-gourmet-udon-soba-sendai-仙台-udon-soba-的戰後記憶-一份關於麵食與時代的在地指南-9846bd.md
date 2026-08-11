@@ -6,7 +6,7 @@ category: udon-soba
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-udon-soba-sendai-仙台-udon-soba-的戰後記憶-一份關於麵食與時代的在地指南-9846bd.html
 published: 2026-06-21
-quality_score: 6.5
+quality_score: 8.6
 tags: 仙台, Udon-Soba, 東北美食, 庶民飲食, 戰後文化
 license: CC BY 4.0
 ---

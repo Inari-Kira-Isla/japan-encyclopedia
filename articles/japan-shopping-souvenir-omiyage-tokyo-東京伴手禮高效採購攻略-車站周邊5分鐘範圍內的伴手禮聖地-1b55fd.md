@@ -6,7 +6,7 @@ category: souvenir-omiyage
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-souvenir-omiyage-tokyo-東京伴手禮高效採購攻略-車站周邊5分鐘範圍內的伴手禮聖地-1b55fd.html
 published: 2026-07-03
-quality_score: 7.5
+quality_score: 8.7
 tags: 東京伴手禮, 東京車站購物, 日本伴手禮推薦, 東京自由行, 日本旅遊攻略
 license: CC BY 4.0
 ---

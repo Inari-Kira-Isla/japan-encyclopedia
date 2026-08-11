@@ -6,7 +6,7 @@ category: historical-districts
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-osaka-大阪歷史街區-晨霧中的天下廚房-e6572b.html
 published: 2026-06-19
-quality_score: 6.5
+quality_score: 8.8
 tags: 大阪, 歷史街區, 天下廚房, 黑門市場, 晨間市場
 license: CC BY 4.0
 ---

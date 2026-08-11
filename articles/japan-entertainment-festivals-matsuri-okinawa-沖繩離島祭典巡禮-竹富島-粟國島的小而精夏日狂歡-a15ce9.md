@@ -6,7 +6,7 @@ category: festivals-matsuri
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-festivals-matsuri-okinawa-沖繩離島祭典巡禮-竹富島-粟國島的小而精夏日狂歡-a15ce9.html
 published: 2026-03-24
-quality_score: 6.5
+quality_score: 8.7
 tags: 沖繩祭典, 離島旅遊, 琉球文化, 海鮮美食, 竹富島
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: onsen
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-onsen-kyoto-京都溫泉-漫步關西古都週邊的地獄釜與秘湯巡禮-3f1b3f.html
 published: 2026-05-24
-quality_score: 6.5
+quality_score: 8.5
 tags: 京都溫泉, 關西溫泉, 城崎溫泉, 雄琴溫泉, 有馬溫泉
 license: CC BY 4.0
 ---

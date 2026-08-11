@@ -6,7 +6,7 @@ category: theme-parks
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-theme-parks-okinawa-沖繩主題樂園另類指南-從手工體驗到冒險運動的多元選擇-c63c4c.html
 published: 2026-06-18
-quality_score: 6.5
+quality_score: 8.5
 tags: 沖繩主題樂園, 沖繩旅遊, 名護鳳梨園, 沖繩世界文化王國, Bios之丘
 license: CC BY 4.0
 ---

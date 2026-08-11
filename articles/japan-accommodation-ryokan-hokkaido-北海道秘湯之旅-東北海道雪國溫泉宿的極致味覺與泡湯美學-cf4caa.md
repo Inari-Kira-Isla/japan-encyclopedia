@@ -6,7 +6,7 @@ category: ryokan
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-hokkaido-北海道秘湯之旅-東北海道雪國溫泉宿的極致味覺與泡湯美學-cf4caa.html
 published: 2026-06-17
-quality_score: 6.5
+quality_score: 8.3
 tags: 北海道秘湯, 東北海道溫泉, 弟子屈溫泉, 川湯溫泉, 標津溫泉
 license: CC BY 4.0
 ---

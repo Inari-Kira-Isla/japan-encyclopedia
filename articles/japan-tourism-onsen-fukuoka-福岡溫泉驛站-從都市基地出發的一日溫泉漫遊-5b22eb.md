@@ -6,7 +6,7 @@ category: onsen
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-onsen-fukuoka-福岡溫泉驛站-從都市基地出發的一日溫泉漫遊-5b22eb.html
 published: 2026-06-04
-quality_score: 6.5
+quality_score: 8.6
 tags: 福岡溫泉, 九州一日遊, 嬉野溫泉, 湯布院, 別府
 license: CC BY 4.0
 ---

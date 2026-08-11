@@ -6,7 +6,7 @@ category: temples-shrines
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-temples-shrines-hiroshima-廣島神社寺廟巡禮-探索神聖與歷史的千年足跡-1c0b7b.html
 published: 2026-03-15
-quality_score: 6.5
+quality_score: 8.5
 tags: 廣島神社, 廣島寺廟, 嚴島神社, 宮島景點, 日本世界文化遺產
 license: CC BY 4.0
 ---

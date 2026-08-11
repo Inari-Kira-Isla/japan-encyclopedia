@@ -6,7 +6,7 @@ category: street-food
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-street-food-osaka-大阪街頭美食完全指南-品味關西廚房的庶民美味-509699.html
 published: 2026-03-14
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪美食, 街頭小吃, 道頓堀, 黑門市場, 日本旅遊
 license: CC BY 4.0
 ---

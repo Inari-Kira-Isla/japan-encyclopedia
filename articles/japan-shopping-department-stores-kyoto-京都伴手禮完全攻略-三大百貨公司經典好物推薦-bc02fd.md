@@ -6,7 +6,7 @@ category: department-stores
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-department-stores-kyoto-京都伴手禮完全攻略-三大百貨公司經典好物推薦-bc02fd.html
 published: 2026-06-27
-quality_score: 7.5
+quality_score: 8.4
 tags: 京都, 百货公司, 伴手礼, 京都购物, 京都不错伴手礼
 license: CC BY 4.0
 ---

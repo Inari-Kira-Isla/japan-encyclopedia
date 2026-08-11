@@ -6,7 +6,7 @@ category: kaiseki
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-kaiseki-nagoya-名古屋會席料理-味噌故鄉的味覺進化論-41a249.html
 published: 2026-06-20
-quality_score: 6.5
+quality_score: 8.7
 tags: 名古屋會席, 名古屋美食, 中部國際機場, 味噌料理, 名古屋車站
 license: CC BY 4.0
 ---

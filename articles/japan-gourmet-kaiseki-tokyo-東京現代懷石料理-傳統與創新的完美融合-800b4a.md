@@ -6,7 +6,7 @@ category: kaiseki
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-kaiseki-tokyo-東京現代懷石料理-傳統與創新的完美融合-800b4a.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京美食, 懷石料理, 日本料理, 高級餐廳, 商務餐飲
 license: CC BY 4.0
 ---

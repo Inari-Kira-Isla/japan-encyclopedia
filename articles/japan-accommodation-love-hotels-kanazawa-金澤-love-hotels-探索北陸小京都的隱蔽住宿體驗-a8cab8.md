@@ -6,7 +6,7 @@ category: love-hotels
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-love-hotels-kanazawa-金澤-love-hotels-探索北陸小京都的隱蔽住宿體驗-a8cab8.html
 published: 2026-06-15
-quality_score: 6.5
+quality_score: 8.8
 tags: 金澤住宿, 北陸旅行, 情侶住宿, 隱密住宿, 金澤觀光
 license: CC BY 4.0
 ---

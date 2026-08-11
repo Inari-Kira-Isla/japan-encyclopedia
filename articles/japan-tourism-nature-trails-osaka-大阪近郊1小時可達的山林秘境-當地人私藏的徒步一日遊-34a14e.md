@@ -6,7 +6,7 @@ category: nature-trails
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-osaka-大阪近郊1小時可達的山林秘境-當地人私藏的徒步一日遊-34a14e.html
 published: 2026-06-13
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪自然步道, 大阪徒步, 大阪近郊, 大阪一日游, 关西自然
 license: CC BY 4.0
 ---

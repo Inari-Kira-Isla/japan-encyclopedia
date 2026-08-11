@@ -6,7 +6,7 @@ category: historical-districts
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-okinawa-沖繩歷史街區-走在美式繁華與琉球古韻之間-45c08e.html
 published: 2026-05-23
-quality_score: 6.5
+quality_score: 8.7
 tags: 沖繩, 歷史街區, 首里城, 美國村, 琉球王國
 license: CC BY 4.0
 ---

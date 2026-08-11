@@ -6,7 +6,7 @@ category: temples-shrines
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-temples-shrines-fukuoka-福岡神社寺院-當地人帶路的私房參拜路線與生活信仰-630a5e.html
 published: 2026-05-21
-quality_score: 6.5
+quality_score: 8.5
 tags: 福岡神社, 九州信仰, 太宰府天滿宮, 筥崎宮, 參拜攻略
 license: CC BY 4.0
 ---

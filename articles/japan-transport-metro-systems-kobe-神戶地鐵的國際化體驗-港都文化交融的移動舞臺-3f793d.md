@@ -6,7 +6,7 @@ category: metro-systems
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-kobe-神戶地鐵的國際化體驗-港都文化交融的移動舞臺-3f793d.html
 published: 2026-04-05
-quality_score: 7.5
+quality_score: 8.7
 tags: 神戶地鐵, 國際文化, 港都交通, 多元體驗, 文化融合
 license: CC BY 4.0
 ---

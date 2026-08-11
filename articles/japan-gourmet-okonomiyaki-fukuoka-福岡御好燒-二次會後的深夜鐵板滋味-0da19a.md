@@ -6,7 +6,7 @@ category: okonomiyaki
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-okonomiyaki-fukuoka-福岡御好燒-二次會後的深夜鐵板滋味-0da19a.html
 published: 2026-06-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 福岡, 御好燒, 深夜美食, 二次會, 屋臺文化
 license: CC BY 4.0
 ---

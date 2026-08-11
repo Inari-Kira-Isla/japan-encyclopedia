@@ -6,7 +6,7 @@ category: festivals-matsuri
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-festivals-matsuri-hokkaido-北海道祭典美食攻略-海產市場與夏日慶典的味蕾冒險-8bfdf8.html
 published: 2026-03-25
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道祭典, 日本祭典, 北海道美食, 海膽, 小樽
 license: CC BY 4.0
 ---

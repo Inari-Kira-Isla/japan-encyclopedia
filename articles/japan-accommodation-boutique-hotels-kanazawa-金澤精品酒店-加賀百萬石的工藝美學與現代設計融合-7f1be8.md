@@ -6,7 +6,7 @@ category: boutique-hotels
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-kanazawa-金澤精品酒店-加賀百萬石的工藝美學與現代設計融合-7f1be8.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤住宿, 精品酒店, 加賀文化, 傳統工藝, 茶道體驗
 license: CC BY 4.0
 ---

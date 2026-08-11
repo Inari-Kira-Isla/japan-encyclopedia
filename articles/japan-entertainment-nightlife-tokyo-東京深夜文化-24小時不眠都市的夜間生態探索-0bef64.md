@@ -6,7 +6,7 @@ category: nightlife
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-tokyo-東京深夜文化-24小時不眠都市的夜間生態探索-0bef64.html
 published: 2026-04-01
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京夜生活, 深夜文化, 24小時經濟, 日本社會觀察, 都市文化
 license: CC BY 4.0
 ---

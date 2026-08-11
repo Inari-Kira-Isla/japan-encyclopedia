@@ -6,7 +6,7 @@ category: ryokan
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-kyoto-京都旅館四季物語-在千年古都感受時令之美的極致住宿體驗-636e7b.html
 published: 2026-04-06
-quality_score: 6.5
+quality_score: 8.8
 tags: 京都旅館, 四季體驗, 季節限定, 傳統住宿, 溫泉
 license: CC BY 4.0
 ---

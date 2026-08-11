@@ -6,7 +6,7 @@ category: tempura
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tempura-tokyo-東京天婦羅-巷弄中的酥脆日常-9104d1.html
 published: 2026-06-09
-quality_score: 6.5
+quality_score: 8.5
 tags: 東京天婦羅, 江戸前天婦羅, 人形町, 下町美食, 日本料理
 license: CC BY 4.0
 ---

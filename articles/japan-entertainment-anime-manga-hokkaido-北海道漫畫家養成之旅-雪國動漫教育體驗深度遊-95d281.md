@@ -6,7 +6,7 @@ category: anime-manga
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-hokkaido-北海道漫畫家養成之旅-雪國動漫教育體驗深度遊-95d281.html
 published: 2026-06-12
-quality_score: 6.5
+quality_score: 8.5
 tags: 北海道, 動漫教育, 漫畫學習, 日本留學, 札幌
 license: CC BY 4.0
 ---

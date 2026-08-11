@@ -6,7 +6,7 @@ category: temples-shrines
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-temples-shrines-hokkaido-北海道寺院神社巡禮-雪國的祈福與食文化指南-71b6c1.html
 published: 2026-06-17
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道神社, 北海道寺院, 札幌景點, 小樽景點, 旭川景點
 license: CC BY 4.0
 ---

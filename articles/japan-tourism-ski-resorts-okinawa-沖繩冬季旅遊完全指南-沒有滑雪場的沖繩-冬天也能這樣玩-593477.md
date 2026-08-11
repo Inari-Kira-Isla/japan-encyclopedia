@@ -6,7 +6,7 @@ category: ski-resorts
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-ski-resorts-okinawa-沖繩冬季旅遊完全指南-沒有滑雪場的沖繩-冬天也能這樣玩-593477.html
 published: 2026-06-08
-quality_score: 6.5
+quality_score: 8.7
 tags: 沖繩冬季旅遊, 沖繩溫泉, 沖繩自駕, 青之洞窟, 玉泉洞
 license: CC BY 4.0
 ---

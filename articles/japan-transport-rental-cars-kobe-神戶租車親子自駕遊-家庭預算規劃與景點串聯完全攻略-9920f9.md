@@ -6,7 +6,7 @@ category: rental-cars
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-kobe-神戶租車親子自駕遊-家庭預算規劃與景點串聯完全攻略-9920f9.html
 published: 2026-03-21
-quality_score: 7.5
+quality_score: 8.5
 tags: 神戶租車, 親子自駕遊, 預算規劃, 淡路島, 有馬溫泉
 license: CC BY 4.0
 ---

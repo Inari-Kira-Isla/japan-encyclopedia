@@ -6,7 +6,7 @@ category: karaoke
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-karaoke-nara-奈良卡拉ok-鹿與動漫聖地的歡唱時光-26b48c.html
 published: 2026-06-20
-quality_score: 6.5
+quality_score: 8.6
 tags: 奈良卡拉OK, 奈良旅遊, 奈良動漫聖地, 奈良夜生活, 日本卡拉OK
 license: CC BY 4.0
 ---

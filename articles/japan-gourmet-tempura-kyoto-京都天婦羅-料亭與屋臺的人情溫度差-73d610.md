@@ -6,7 +6,7 @@ category: tempura
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tempura-kyoto-京都天婦羅-料亭與屋臺的人情溫度差-73d610.html
 published: 2026-06-26
-quality_score: 6.5
+quality_score: 8.8
 tags: 京都天婦羅, 京料理, 祇園, 京野菜, 湖國食材
 license: CC BY 4.0
 ---

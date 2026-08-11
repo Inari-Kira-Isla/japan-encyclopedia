@@ -6,7 +6,7 @@ category: kabuki-theatre
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-kabuki-theatre-hokkaido-北海道現場音樂與表演藝術-沒有傳統kabuki的替代娛樂方案-f108bc.html
 published: 2026-06-19
-quality_score: 6.5
+quality_score: 8.8
 tags: 北海道, 表演藝術, LIVE HOUSE, 札幌, 小樽
 license: CC BY 4.0
 ---

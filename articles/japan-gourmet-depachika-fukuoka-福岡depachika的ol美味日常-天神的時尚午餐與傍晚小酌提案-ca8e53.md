@@ -6,7 +6,7 @@ category: depachika
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-depachika-fukuoka-福岡depachika的ol美味日常-天神的時尚午餐與傍晚小酌提案-ca8e53.html
 published: 2026-06-27
-quality_score: 6.5
+quality_score: 8.7
 tags: 福岡, Depachika, 天神, OL午餐, 九州美食
 license: CC BY 4.0
 ---

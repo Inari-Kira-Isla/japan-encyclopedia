@@ -6,7 +6,7 @@ category: yakitori
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-yakitori-okinawa-沖繩燒鳥-亞熱帶食材與琉球飲食哲學-0d8fb2.html
 published: 2026-03-23
-quality_score: 6.5
+quality_score: 8.7
 tags: 沖繩美食, 燒鳥, 琉球料理, 食材文化, 亞熱帶飲食
 license: CC BY 4.0
 ---

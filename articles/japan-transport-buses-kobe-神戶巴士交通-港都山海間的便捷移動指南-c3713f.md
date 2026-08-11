@@ -6,7 +6,7 @@ category: buses
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-buses-kobe-神戶巴士交通-港都山海間的便捷移動指南-c3713f.html
 published: 2026-03-15
-quality_score: 7.5
+quality_score: 8.5
 tags: 神戶交通, 巴士系統, 神戶旅遊, 公共交通, 港都
 license: CC BY 4.0
 ---

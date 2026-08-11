@@ -6,7 +6,7 @@ category: minshuku
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-sendai-仙台民宿周邊自然探訪指南-從海岸到山嶽的四季小旅行-0ea2fe.html
 published: 2026-05-25
-quality_score: 6.5
+quality_score: 8.7
 tags: 仙台民宿, minshuku, 松岛, 山寺, 自然探访
 license: CC BY 4.0
 ---

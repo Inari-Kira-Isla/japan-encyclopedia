@@ -6,7 +6,7 @@ category: capsule-hotels
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-capsule-hotels-kanazawa-金澤膠囊飯店-預算旅人的北路交通樞紐住宿指南-c1c438.html
 published: 2026-06-28
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤膠囊飯店, 北路住宿, 金澤交通樞紐, 預算旅行, 加賀溫泉
 license: CC BY 4.0
 ---

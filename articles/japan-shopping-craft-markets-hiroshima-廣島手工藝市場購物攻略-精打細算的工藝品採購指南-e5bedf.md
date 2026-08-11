@@ -6,7 +6,7 @@ category: craft-markets
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-craft-markets-hiroshima-廣島手工藝市場購物攻略-精打細算的工藝品採購指南-e5bedf.html
 published: 2026-04-05
-quality_score: 7.5
+quality_score: 8.7
 tags: 廣島購物, 手工藝品, 省錢攻略
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: buses
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-buses-sendai-仙台巴士交通完整指南-市區與郊區公車系統攻略-ff41cf.html
 published: 2026-06-21
-quality_score: 7.5
+quality_score: 8.5
 tags: 仙台巴士, 東北交通, 仙台一日券, Loople仙台, 藏王溫泉
 license: CC BY 4.0
 ---

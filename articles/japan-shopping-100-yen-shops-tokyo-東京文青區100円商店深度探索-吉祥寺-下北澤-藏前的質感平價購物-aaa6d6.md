@@ -6,7 +6,7 @@ category: 100-yen-shops
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-100-yen-shops-tokyo-東京文青區100円商店深度探索-吉祥寺-下北澤-藏前的質感平價購物-aaa6d6.html
 published: 2026-07-02
-quality_score: 7.5
+quality_score: 8.7
 tags: 東京100円商店, 吉祥寺, 下北澤, 藏前, 文青區購物
 license: CC BY 4.0
 ---

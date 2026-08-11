@@ -6,7 +6,7 @@ category: nightlife
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-nara-奈良夜生活-巷仔內の酒bars文化-8a319d.html
 published: 2026-06-29
-quality_score: 6.5
+quality_score: 8.7
 tags: 奈良夜生活, 奈良酒吧, 奈良地酒, 奈良喝酒, 古城夜遊
 license: CC BY 4.0
 ---

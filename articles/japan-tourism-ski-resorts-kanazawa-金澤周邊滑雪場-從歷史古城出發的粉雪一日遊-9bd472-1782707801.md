@@ -6,7 +6,7 @@ category: ski-resorts
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-ski-resorts-kanazawa-金澤周邊滑雪場-從歷史古城出發的粉雪一日遊-9bd472-1782707801.html
 published: 2026-06-29
-quality_score: 6.5
+quality_score: 8.6
 tags: 金澤滑雪, 北陸滑雪, 日本海粉雪, 一日滑雪體驗, 金澤自由行
 license: CC BY 4.0
 ---

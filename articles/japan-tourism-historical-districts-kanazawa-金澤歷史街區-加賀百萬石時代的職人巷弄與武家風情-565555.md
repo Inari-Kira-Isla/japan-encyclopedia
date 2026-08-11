@@ -6,7 +6,7 @@ category: historical-districts
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-kanazawa-金澤歷史街區-加賀百萬石時代的職人巷弄與武家風情-565555.html
 published: 2026-05-25
-quality_score: 6.5
+quality_score: 8.9
 tags: 金澤, 歷史街區, 加賀藩, 東茶屋街, 城下町
 license: CC BY 4.0
 ---

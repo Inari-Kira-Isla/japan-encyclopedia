@@ -6,7 +6,7 @@ category: cycling
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-fukuoka-福岡單車生活-當地人帶路的日常騎行哲學-d2b7fc.html
 published: 2026-06-07
-quality_score: 7.5
+quality_score: 8.8
 tags: 福岡單車, 九州騎行, 福岡旅遊, Fukuoka Cycling, 博多灣
 license: CC BY 4.0
 ---

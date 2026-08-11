@@ -6,7 +6,7 @@ category: kabuki-theatre
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-kabuki-theatre-osaka-大阪表演藝術場館-傳統劇場與現代演出的活力地圖-08d8b3.html
 published: 2026-05-20
-quality_score: 6.5
+quality_score: 8.8
 tags: 大阪娛樂, 表演藝術, 新喜劇, 道頓堀, live house
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: ramen
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-ramen-nagoya-名古屋拉麵-工業心臟的-workers-soul-food-da9d38.html
 published: 2026-06-10
-quality_score: 6.5
+quality_score: 8.8
 tags: 名古屋拉麵, 八丁味噌, 日本拉麵, 中部國際空港, 工作者午餐
 license: CC BY 4.0
 ---

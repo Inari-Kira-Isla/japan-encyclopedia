@@ -6,7 +6,7 @@ category: craft-markets
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-craft-markets-okinawa-沖繩手作市集省錢攻略-當地人帶路的質感選物指南-8bab36.html
 published: 2026-06-02
-quality_score: 7.5
+quality_score: 8.8
 tags: 沖繩手作市集, 琉球迷你工艺品, やちむん, 紅型染織, 沖繩伴手禮
 license: CC BY 4.0
 ---

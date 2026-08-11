@@ -6,7 +6,7 @@ category: jr-pass
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-jr-pass-nagoya-名古屋jr-pass-真的存在嗎-中部地區交通通票誤解澄清與實用選購指南-ab564d.html
 published: 2026-06-02
-quality_score: 7.5
+quality_score: 8.3
 tags: 名古屋交通, JR Pass教學, 中部地區周遊券, 名古屋自助旅行, 日本鐵路通票
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: escape-rooms
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-escape-rooms-nagoya-名古屋密室逃脫-工業城市的高科技解謎體驗-b0f0f1.html
 published: 2026-04-11
-quality_score: 6.5
+quality_score: 8.6
 tags: 密室逃脫, 名古屋娛樂, 團隊遊戲, 科技體驗, 工業主題
 license: CC BY 4.0
 ---

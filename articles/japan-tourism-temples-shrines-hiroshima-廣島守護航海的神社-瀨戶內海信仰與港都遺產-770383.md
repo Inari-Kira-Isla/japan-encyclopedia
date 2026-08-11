@@ -6,7 +6,7 @@ category: temples-shrines
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-temples-shrines-hiroshima-廣島守護航海的神社-瀨戶內海信仰與港都遺產-770383.html
 published: 2026-07-04
-quality_score: 6.5
+quality_score: 8.6
 tags: 廣島神社, 嚴島神社, 宮島, 尾道千光寺, 大久野島
 license: CC BY 4.0
 ---

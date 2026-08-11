@@ -6,7 +6,7 @@ category: garden-parks
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-nagoya-名古屋花園公園巡禮-工業都會中的綠意喘息-21ad42.html
 published: 2026-06-23
-quality_score: 6.5
+quality_score: 8.6
 tags: 名古屋, 花園公園, 日式庭園, 城市綠地, 名古屋景點
 license: CC BY 4.0
 ---

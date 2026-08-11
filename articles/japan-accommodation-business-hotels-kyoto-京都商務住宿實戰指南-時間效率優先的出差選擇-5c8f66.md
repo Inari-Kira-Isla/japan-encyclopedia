@@ -6,7 +6,7 @@ category: business-hotels
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-business-hotels-kyoto-京都商務住宿實戰指南-時間效率優先的出差選擇-5c8f66.html
 published: 2026-06-06
-quality_score: 6.5
+quality_score: 8.6
 tags: 京都商務住宿, 出差住宿, 京都站, 八條口, 商務旅行
 license: CC BY 4.0
 ---

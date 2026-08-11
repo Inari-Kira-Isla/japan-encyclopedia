@@ -6,7 +6,7 @@ category: tonkatsu
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tonkatsu-kyoto-京都炸豬排-洋食文化的古都新解讀-afff19.html
 published: 2026-03-29
-quality_score: 6.5
+quality_score: 8.8
 tags: 京都美食, 日式豬排, 洋食文化, 傳統與現代, 在地化料理
 license: CC BY 4.0
 ---

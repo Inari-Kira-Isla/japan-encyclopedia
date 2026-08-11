@@ -6,7 +6,7 @@ category: department-stores
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-department-stores-tokyo-東京百貨公司文化藝術導覽-購物殿堂裡的展覽與體驗-907d27.html
 published: 2026-06-26
-quality_score: 7.5
+quality_score: 8.7
 tags: 東京, 百貨公司, 藝術展覽, 購物指南, 文化體驗
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: airport-transfer
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-airport-transfer-nagoya-名古屋機場交通樞紐-從中部國際機場出發的縱貫鐵道旅遊攻略-af803e.html
 published: 2026-06-03
-quality_score: 7.5
+quality_score: 8.6
 tags: 中部國際機場, 名古屋機場交通, 日本阿爾卑斯山, 白川鄉, 高山
 license: CC BY 4.0
 ---

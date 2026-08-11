@@ -6,7 +6,7 @@ category: business-hotels
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-business-hotels-kyoto-京都商務酒店完全指南-依活動行程選擇的策略性住宿推薦-97c1eb.html
 published: 2026-06-28
-quality_score: 6.5
+quality_score: 8.5
 tags: 京都商務酒店, 商務出差, 京都車站, 四条河原町, 祇園祭
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: wagyu
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-wagyu-hokkaido-北海道頂級和牛完全攻略-冰涼北國的極品霜降味覺之旅-f0adf8.html
 published: 2026-05-22
-quality_score: 6.5
+quality_score: 8.6
 tags: 北海道和牛, 十勝和牛, 日本美食, 和牛燒肉, 北海道旅遊
 license: CC BY 4.0
 ---

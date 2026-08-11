@@ -6,7 +6,7 @@ category: ski-resorts
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-ski-resorts-sendai-仙台周邊滑雪場-從仙台出發的東北雪國-交通樞紐的滑雪一日遊提案-c8150b.html
 published: 2026-06-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 仙台滑雪, 東北滑雪場, 日本滑雪, 仙山線滑雪, 藏王溫泉滑雪
 license: CC BY 4.0
 ---

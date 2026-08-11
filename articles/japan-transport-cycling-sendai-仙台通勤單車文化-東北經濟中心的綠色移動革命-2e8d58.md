@@ -6,7 +6,7 @@ category: cycling
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-sendai-仙台通勤單車文化-東北經濟中心的綠色移動革命-2e8d58.html
 published: 2026-04-05
-quality_score: 7.5
+quality_score: 8.8
 tags: 仙台交通, 通勤文化, 都市規劃, 綠色移動, 東北旅遊
 license: CC BY 4.0
 ---

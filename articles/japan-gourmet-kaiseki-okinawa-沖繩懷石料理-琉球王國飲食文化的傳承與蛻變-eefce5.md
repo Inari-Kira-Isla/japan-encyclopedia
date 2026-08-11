@@ -6,7 +6,7 @@ category: kaiseki
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-kaiseki-okinawa-沖繩懷石料理-琉球王國飲食文化的傳承與蛻變-eefce5.html
 published: 2026-06-23
-quality_score: 6.5
+quality_score: 8.8
 tags: 沖繩美食, 琉球料理, 會席料理, 高級餐廳, 沖繩旅遊
 license: CC BY 4.0
 ---

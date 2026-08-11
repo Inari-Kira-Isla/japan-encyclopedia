@@ -6,7 +6,7 @@ category: nature-trails
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-tokyo-東京自然步道清晨指南-上班前的山林小旅行-3a3215.html
 published: 2026-06-11
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京自然步道, 清晨登山, 高尾山, 御岳山, 大山
 license: CC BY 4.0
 ---

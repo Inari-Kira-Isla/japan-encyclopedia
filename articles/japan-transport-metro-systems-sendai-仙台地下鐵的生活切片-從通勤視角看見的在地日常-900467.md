@@ -6,7 +6,7 @@ category: metro-systems
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-sendai-仙台地下鐵的生活切片-從通勤視角看見的在地日常-900467.html
 published: 2026-06-12
-quality_score: 7.5
+quality_score: 8.6
 tags: 仙台地下鐵, 通勤體驗, 在地美食, 東北旅遊, 生活機能
 license: CC BY 4.0
 ---

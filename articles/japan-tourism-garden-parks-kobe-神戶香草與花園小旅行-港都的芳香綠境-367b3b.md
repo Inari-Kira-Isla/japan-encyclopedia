@@ -6,7 +6,7 @@ category: garden-parks
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-kobe-神戶香草與花園小旅行-港都的芳香綠境-367b3b.html
 published: 2026-06-16
-quality_score: 6.5
+quality_score: 8.6
 tags: 神戶花園, 香草園, 六甲山, 異人館, 神戶旅遊
 license: CC BY 4.0
 ---

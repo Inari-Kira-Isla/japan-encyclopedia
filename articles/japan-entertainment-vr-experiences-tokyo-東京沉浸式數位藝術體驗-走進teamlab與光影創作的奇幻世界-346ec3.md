@@ -6,7 +6,7 @@ category: vr-experiences
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-vr-experiences-tokyo-東京沉浸式數位藝術體驗-走進teamlab與光影創作的奇幻世界-346ec3.html
 published: 2026-06-21
-quality_score: 6.5
+quality_score: 8.8
 tags: 東京VR體驗, teamLab, 沉浸式藝術, 東京藝術, 數位體驗
 license: CC BY 4.0
 ---

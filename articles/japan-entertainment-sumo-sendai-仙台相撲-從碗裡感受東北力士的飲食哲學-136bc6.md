@@ -6,7 +6,7 @@ category: sumo
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-sendai-仙台相撲-從碗裡感受東北力士的飲食哲學-136bc6.html
 published: 2026-07-04
-quality_score: 6.5
+quality_score: 8.8
 tags: 仙台相撲, 相撲鍋, 東北美食, 仙台旅遊, 日本相撲文化
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: island-hopping
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-island-hopping-okinawa-okinawa-island-hopping-8ab8ee.html
 published: 2026-03-23
-quality_score: 5.5
+quality_score: 6.3
 tags: island-hopping, okinawa, japan
 license: CC BY 4.0
 ---

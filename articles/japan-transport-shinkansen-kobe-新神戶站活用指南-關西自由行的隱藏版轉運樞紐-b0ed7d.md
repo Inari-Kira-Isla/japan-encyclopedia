@@ -6,7 +6,7 @@ category: shinkansen
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-kobe-新神戶站活用指南-關西自由行的隱藏版轉運樞紐-b0ed7d.html
 published: 2026-07-02
-quality_score: 7.5
+quality_score: 8.9
 tags: 神戶, 新神戶站, 關西, 新幹綫, 交通攻略
 license: CC BY 4.0
 ---

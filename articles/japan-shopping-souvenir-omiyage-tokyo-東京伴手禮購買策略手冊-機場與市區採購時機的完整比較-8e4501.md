@@ -6,7 +6,7 @@ category: souvenir-omiyage
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-souvenir-omiyage-tokyo-東京伴手禮購買策略手冊-機場與市區採購時機的完整比較-8e4501.html
 published: 2026-06-11
-quality_score: 7.5
+quality_score: 8.7
 tags: 東京伴手禮, 機場免稅, 新宿購物, 上野阿美橫丁, 東京站伴手禮
 license: CC BY 4.0
 ---

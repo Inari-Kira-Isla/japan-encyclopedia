@@ -6,7 +6,7 @@ category: minshuku
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-hiroshima-廣島民宿完全指南-從和平之城到神之島的溫暖驛站-19beb3.html
 published: 2026-06-11
-quality_score: 6.5
+quality_score: 8.6
 tags: 廣島民宿, 宮島住宿, 日本民宿推薦, 廣島燒, 瀨戶內海
 license: CC BY 4.0
 ---

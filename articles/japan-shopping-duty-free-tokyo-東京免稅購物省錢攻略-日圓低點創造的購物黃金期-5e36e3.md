@@ -6,7 +6,7 @@ category: duty-free
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-duty-free-tokyo-東京免稅購物省錢攻略-日圓低點創造的購物黃金期-5e36e3.html
 published: 2026-03-29
-quality_score: 7.5
+quality_score: 8.6
 tags: 東京免稅, 日圓匯率, 新宿購物, 秋葉原動漫, 日本電器
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: castle-towns
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-castle-towns-nagoya-名古屋周邊城下町-探索尾張國的歷史風情與隱藏寶藏-f845c9.html
 published: 2026-05-31
-quality_score: 6.5
+quality_score: 8.9
 tags: 名古屋城, 岡崎城, 豐橋城, 犬山城, 城下町
 license: CC BY 4.0
 ---

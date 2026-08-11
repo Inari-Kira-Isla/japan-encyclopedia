@@ -6,7 +6,7 @@ category: kaiseki
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-kaiseki-kyoto-京都懷石料理-隱藏在巷弄中的食材供應網路-09b90c.html
 published: 2026-06-22
-quality_score: 6.5
+quality_score: 8.6
 tags: 京都懷石, 京料理, 料亭, 京都美食, 關西料理
 license: CC BY 4.0
 ---

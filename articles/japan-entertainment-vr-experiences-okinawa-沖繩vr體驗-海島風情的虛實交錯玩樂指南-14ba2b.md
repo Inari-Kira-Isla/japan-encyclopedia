@@ -6,7 +6,7 @@ category: vr-experiences
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-vr-experiences-okinawa-沖繩vr體驗-海島風情的虛實交錯玩樂指南-14ba2b.html
 published: 2026-06-15
-quality_score: 6.5
+quality_score: 8.4
 tags: 沖繩VR, 虛擬實境, 沖繩體驗, 海島科技娛樂, 沖繩自由行
 license: CC BY 4.0
 ---

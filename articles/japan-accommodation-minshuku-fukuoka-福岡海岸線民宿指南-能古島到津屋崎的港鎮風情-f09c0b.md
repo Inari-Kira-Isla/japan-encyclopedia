@@ -6,7 +6,7 @@ category: minshuku
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-fukuoka-福岡海岸線民宿指南-能古島到津屋崎的港鎮風情-f09c0b.html
 published: 2026-06-27
-quality_score: 6.5
+quality_score: 8.5
 tags: 福岡民宿, 玄海灘, 海岸住宿, 九州旅行, 津屋崎
 license: CC BY 4.0
 ---

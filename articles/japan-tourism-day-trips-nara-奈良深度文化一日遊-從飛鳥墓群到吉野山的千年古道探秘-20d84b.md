@@ -6,7 +6,7 @@ category: day-trips
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-nara-奈良深度文化一日遊-從飛鳥墓群到吉野山的千年古道探秘-20d84b.html
 published: 2026-05-23
-quality_score: 6.5
+quality_score: 8.6
 tags: 奈良一日遊, 世界遺產, 法隆寺, 吉野山, 明日香村
 license: CC BY 4.0
 ---

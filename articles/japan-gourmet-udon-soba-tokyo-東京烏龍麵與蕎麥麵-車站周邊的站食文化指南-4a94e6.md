@@ -6,7 +6,7 @@ category: udon-soba
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-udon-soba-tokyo-東京烏龍麵與蕎麥麵-車站周邊的站食文化指南-4a94e6.html
 published: 2026-05-22
-quality_score: 6.5
+quality_score: 9.0
 tags: 東京車站美食, 站食文化, 駅蕎麦, 東京烏龍麵, 通勤美食
 license: CC BY 4.0
 ---

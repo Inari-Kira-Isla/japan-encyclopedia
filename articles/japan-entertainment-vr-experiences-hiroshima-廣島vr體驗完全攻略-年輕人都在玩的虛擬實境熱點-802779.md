@@ -6,7 +6,7 @@ category: vr-experiences
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-vr-experiences-hiroshima-廣島vr體驗完全攻略-年輕人都在玩的虛擬實境熱點-802779.html
 published: 2026-05-20
-quality_score: 6.5
+quality_score: 8.7
 tags: 廣島VR, 廣島娛樂, 廣島景點, 虛擬實境, 日本VR體驗
 license: CC BY 4.0
 ---

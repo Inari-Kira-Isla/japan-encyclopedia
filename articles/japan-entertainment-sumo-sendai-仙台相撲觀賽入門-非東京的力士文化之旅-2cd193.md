@@ -6,7 +6,7 @@ category: sumo
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-sendai-仙台相撲觀賽入門-非東京的力士文化之旅-2cd193.html
 published: 2026-06-05
-quality_score: 6.5
+quality_score: 8.6
 tags: 仙台相撲, 東北旅行, 日本傳統, 相撲觀賽, 暑假日本
 license: CC BY 4.0
 ---

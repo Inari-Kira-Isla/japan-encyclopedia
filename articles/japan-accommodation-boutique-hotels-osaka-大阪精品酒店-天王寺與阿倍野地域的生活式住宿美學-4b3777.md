@@ -6,7 +6,7 @@ category: boutique-hotels
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-osaka-大阪精品酒店-天王寺與阿倍野地域的生活式住宿美學-4b3777.html
 published: 2026-05-22
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪精品酒店, 天王寺, 阿倍野, 設計旅宿, 关西安化
 license: CC BY 4.0
 ---

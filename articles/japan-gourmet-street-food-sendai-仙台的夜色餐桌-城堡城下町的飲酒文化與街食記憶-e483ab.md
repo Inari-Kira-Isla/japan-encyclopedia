@@ -6,7 +6,7 @@ category: street-food
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-street-food-sendai-仙台的夜色餐桌-城堡城下町的飲酒文化與街食記憶-e483ab.html
 published: 2026-06-28
-quality_score: 6.5
+quality_score: 8.7
 tags: 仙台, 街頭美食, 城堡城下町, 烤雞肉串, 煮內臟
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: temple-stays
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-temple-stays-hokkaido-北海道寺廟住宿-非傳統聖地的另類禪意體驗-9e8b58.html
 published: 2026-06-25
-quality_score: 6.5
+quality_score: 8.5
 tags: 北海道寺廟住宿, 北海道禪修, 札幌佛教體驗, 北海道修行之旅, 宿坊
 license: CC BY 4.0
 ---

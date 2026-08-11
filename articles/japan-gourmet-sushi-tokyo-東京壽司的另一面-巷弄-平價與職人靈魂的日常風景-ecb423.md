@@ -6,7 +6,7 @@ category: sushi
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sushi-tokyo-東京壽司的另一面-巷弄-平價與職人靈魂的日常風景-ecb423.html
 published: 2026-06-10
-quality_score: 6.5
+quality_score: 8.5
 tags: 東京壽司, 日本美食, 築地市場, 壽司外食, 東京美食推薦
 license: CC BY 4.0
 ---

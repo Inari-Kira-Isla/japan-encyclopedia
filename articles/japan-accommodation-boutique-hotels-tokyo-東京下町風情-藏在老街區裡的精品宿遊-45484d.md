@@ -6,7 +6,7 @@ category: boutique-hotels
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-tokyo-東京下町風情-藏在老街區裡的精品宿遊-45484d.html
 published: 2026-06-20
-quality_score: 6.5
+quality_score: 8.6
 tags: 東京住宿, 下町風情, 精品酒店, 台東區, 淺草
 license: CC BY 4.0
 ---

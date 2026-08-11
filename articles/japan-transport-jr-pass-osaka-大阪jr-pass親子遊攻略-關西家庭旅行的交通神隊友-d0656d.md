@@ -6,7 +6,7 @@ category: jr-pass
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-jr-pass-osaka-大阪jr-pass親子遊攻略-關西家庭旅行的交通神隊友-d0656d.html
 published: 2026-06-19
-quality_score: 7.5
+quality_score: 8.6
 tags: 大阪JR Pass, 關西親子遊, 關西廣域周遊券, 家庭旅行, 日本交通費
 license: CC BY 4.0
 ---

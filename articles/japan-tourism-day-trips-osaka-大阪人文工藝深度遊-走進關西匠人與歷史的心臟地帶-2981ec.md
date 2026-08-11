@@ -6,7 +6,7 @@ category: day-trips
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-osaka-大阪人文工藝深度遊-走進關西匠人與歷史的心臟地帶-2981ec.html
 published: 2026-06-27
-quality_score: 6.5
+quality_score: 8.8
 tags: 大阪一日遊, 人文歷史, 工藝體驗, 關西深度遊, 堺刀具
 license: CC BY 4.0
 ---

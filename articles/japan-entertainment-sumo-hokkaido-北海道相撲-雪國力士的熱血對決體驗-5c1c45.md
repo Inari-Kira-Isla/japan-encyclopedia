@@ -6,7 +6,7 @@ category: sumo
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-hokkaido-北海道相撲-雪國力士的熱血對決體驗-5c1c45.html
 published: 2026-04-06
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道相撲, 雪國體驗, 大學相撲, 溫泉相撲, 札幌娛樂
 license: CC BY 4.0
 ---

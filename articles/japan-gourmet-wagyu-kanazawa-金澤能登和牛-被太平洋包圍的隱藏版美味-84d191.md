@@ -6,7 +6,7 @@ category: wagyu
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-wagyu-kanazawa-金澤能登和牛-被太平洋包圍的隱藏版美味-84d191.html
 published: 2026-06-08
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤美食, 能登和牛, 石川縣, 加賀料理, 日本海
 license: CC BY 4.0
 ---

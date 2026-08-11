@@ -6,7 +6,7 @@ category: historical-districts
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-kyoto-京都歷史街區-穿越千年時光的味覺行旅-5cfb59.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 8.7
 tags: 京都歷史街區, 祇園, 伏見稻荷, 嵐山, 壬生
 license: CC BY 4.0
 ---

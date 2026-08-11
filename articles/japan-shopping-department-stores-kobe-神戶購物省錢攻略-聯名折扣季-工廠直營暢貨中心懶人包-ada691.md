@@ -6,7 +6,7 @@ category: department-stores
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-department-stores-kobe-神戶購物省錢攻略-聯名折扣季-工廠直營暢貨中心懶人包-ada691.html
 published: 2026-06-03
-quality_score: 7.5
+quality_score: 8.5
 tags: 神戶購物, OUTLET, 折扣情報, 省錢攻略, 工廠直營
 license: CC BY 4.0
 ---

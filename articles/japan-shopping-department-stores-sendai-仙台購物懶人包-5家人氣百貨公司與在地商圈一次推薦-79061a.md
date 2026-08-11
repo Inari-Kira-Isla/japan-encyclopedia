@@ -6,7 +6,7 @@ category: department-stores
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-department-stores-sendai-仙台購物懶人包-5家人氣百貨公司與在地商圈一次推薦-79061a.html
 published: 2026-05-24
-quality_score: 7.5
+quality_score: 8.7
 tags: 仙台購物, 日本東北, 百貨公司, 一番町, 仙台自由行
 license: CC BY 4.0
 ---

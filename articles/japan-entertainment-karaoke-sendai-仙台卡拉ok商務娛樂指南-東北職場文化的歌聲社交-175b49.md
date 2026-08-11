@@ -6,7 +6,7 @@ category: karaoke
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-karaoke-sendai-仙台卡拉ok商務娛樂指南-東北職場文化的歌聲社交-175b49.html
 published: 2026-03-28
-quality_score: 6.5
+quality_score: 8.7
 tags: 仙台夜生活, 商務娛樂, 職場社交, 東北文化, 上班族
 license: CC BY 4.0
 ---

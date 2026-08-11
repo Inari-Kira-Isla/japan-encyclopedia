@@ -6,7 +6,7 @@ category: karaoke
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-karaoke-kanazawa-金澤卡拉ok-百萬石城池的市民音樂日常-beb6f6.html
 published: 2026-06-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤卡拉OK, 北陸娛樂, 市民文化, 小京都, 體驗推薦
 license: CC BY 4.0
 ---

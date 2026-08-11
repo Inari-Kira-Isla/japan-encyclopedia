@@ -6,7 +6,7 @@ category: sumo
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-kyoto-京都相撲-古都武藝美學的沉浸體驗-2fc0ba.html
 published: 2026-06-18
-quality_score: 6.5
+quality_score: 8.7
 tags: 京都相撲, 京都體驗, 關西相撲, 相扑文化, 京料理
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: boutique-hotels
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-nara-奈良精品酒店-古都之外的質感隱居-奈良縣南部經典宿坊與山間旅宿-a337d1.html
 published: 2026-06-26
-quality_score: 6.5
+quality_score: 8.5
 tags: 奈良住宿, 日本古都, 宿坊體驗, 吉野山, 飛鳥古道
 license: CC BY 4.0
 ---

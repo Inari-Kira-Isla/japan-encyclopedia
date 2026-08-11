@@ -6,7 +6,7 @@ category: street-food
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-street-food-okinawa-沖繩街頭美食的時間維度-從清晨港灣到黃昏海岸的味覺日程-efc740.html
 published: 2026-06-04
-quality_score: 6.5
+quality_score: 8.7
 tags: 沖繩, 街頭美食, 亞熱帶饮食, 港口海鮮, 在地文化
 license: CC BY 4.0
 ---

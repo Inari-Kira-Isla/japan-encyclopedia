@@ -6,7 +6,7 @@ category: souvenir-omiyage
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-souvenir-omiyage-sendai-仙台伴手禮採購策略-從購物商圈預算選擇的在地視角-6e3efc.html
 published: 2026-06-12
-quality_score: 7.5
+quality_score: 8.7
 tags: 仙台, 伴手禮, 日本東北, 購物攻略, 自由行
 license: CC BY 4.0
 ---

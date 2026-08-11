@@ -6,7 +6,7 @@ category: temples-shrines
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-temples-shrines-kyoto-京都寺院晨間參拜提案-遠離人潮的靜謐參禪體驗-36e930.html
 published: 2026-06-03
-quality_score: 6.5
+quality_score: 8.6
 tags: 京都寺院, 晨間參拜, 深度文化體驗, 神社巡禮, 背包客攻略
 license: CC BY 4.0
 ---

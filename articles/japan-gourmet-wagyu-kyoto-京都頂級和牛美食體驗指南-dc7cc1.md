@@ -6,7 +6,7 @@ category: wagyu
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-wagyu-kyoto-京都頂級和牛美食體驗指南-dc7cc1.html
 published: 2026-03-14
-quality_score: 6.5
+quality_score: 8.5
 tags: 京都美食, 日本和牛, 懷石料理, 高級餐廳, 日本旅遊
 license: CC BY 4.0
 ---

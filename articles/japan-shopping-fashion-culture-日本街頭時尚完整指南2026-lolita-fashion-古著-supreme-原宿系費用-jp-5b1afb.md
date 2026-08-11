@@ -6,7 +6,7 @@ category: fashion-culture
 area: japan
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-fashion-culture-日本街頭時尚完整指南2026-lolita-fashion-古著-supreme-原宿系費用-jp-5b1afb.html
 published: 2026-03-30
-quality_score: 7.6
+quality_score: 8.7
 tags: 日本街頭時尚, Lolita Fashion, 日本古著, 原宿時尚, 日本購物
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: department-stores
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-department-stores-nagoya-名古屋百貨公司購物指南-中部都會的實用主義消費文化-8dfab0.html
 published: 2026-04-02
-quality_score: 7.5
+quality_score: 8.8
 tags: 名古屋, 百货公司, 中部日本, 购物指南, 荣商圈
 license: CC BY 4.0
 ---

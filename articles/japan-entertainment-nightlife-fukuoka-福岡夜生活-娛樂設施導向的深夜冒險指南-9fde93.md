@@ -6,7 +6,7 @@ category: nightlife
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-fukuoka-福岡夜生活-娛樂設施導向的深夜冒險指南-9fde93.html
 published: 2026-06-07
-quality_score: 6.5
+quality_score: 8.6
 tags: 福岡夜生活, 遊戲中心, 密室逃脫, 九州娛樂, 福岡體驗
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: buses
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-buses-kyoto-京都巴士達人帶路-當地人私藏的公車慢遊路線-4aca9f.html
 published: 2026-06-25
-quality_score: 7.5
+quality_score: 8.8
 tags: 京都巴士, 京都交通, 京都自由行, 京阪巴士, 京都慢遊
 license: CC BY 4.0
 ---

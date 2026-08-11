@@ -6,7 +6,7 @@ category: yakitori
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-yakitori-nagoya-nagoya-yakitori-f29e37.html
 published: 2026-03-22
-quality_score: 5.5
+quality_score: 7.3
 tags: yakitori, nagoya, japan
 license: CC BY 4.0
 ---

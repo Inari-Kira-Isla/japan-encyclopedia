@@ -6,7 +6,7 @@ category: 100-yen-shops
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-100-yen-shops-sendai-仙台百圓商店の四季購物攻略-東北名城の気候對應與生活質感提案-d8b5ec.html
 published: 2026-06-06
-quality_score: 7.5
+quality_score: 8.6
 tags: 仙台, 百圓商店, 東北, 日本購物, 平價購物
 license: CC BY 4.0
 ---

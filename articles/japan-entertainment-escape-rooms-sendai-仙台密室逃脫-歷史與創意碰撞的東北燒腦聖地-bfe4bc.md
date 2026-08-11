@@ -6,7 +6,7 @@ category: escape-rooms
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-escape-rooms-sendai-仙台密室逃脫-歷史與創意碰撞的東北燒腦聖地-bfe4bc.html
 published: 2026-06-30
-quality_score: 6.5
+quality_score: 8.8
 tags: 仙台, 密室逃脫, 東北娛樂, 室內活動, 團體遊戲
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: scenic-routes
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-kobe-神戶北郊山林秘徑-當地人私藏的森林浴與古道漫遊-ea6061.html
 published: 2026-05-24
-quality_score: 6.5
+quality_score: 8.4
 tags: 神戶山林, 六甲山步道, 有馬溫泉古道, 森林浴, 神戶自然散步
 license: CC BY 4.0
 ---

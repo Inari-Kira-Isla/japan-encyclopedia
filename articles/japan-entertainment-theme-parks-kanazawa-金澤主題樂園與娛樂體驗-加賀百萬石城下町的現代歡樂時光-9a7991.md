@@ -6,7 +6,7 @@ category: theme-parks
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-theme-parks-kanazawa-金澤主題樂園與娛樂體驗-加賀百萬石城下町的現代歡樂時光-9a7991.html
 published: 2026-04-06
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤娛樂, 主題體驗, VR互動, 溫泉樂園, 夜間娛樂
 license: CC BY 4.0
 ---

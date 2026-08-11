@@ -6,7 +6,7 @@ category: wagyu
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-wagyu-nagoya-名古屋和牛-中部地區的肉料理寶藏與三重縣產地溯源-4f8e51.html
 published: 2026-04-04
-quality_score: 6.5
+quality_score: 8.9
 tags: 日本和牛, 名古屋美食, 三重縣, 燒肉, 中部地區
 license: CC BY 4.0
 ---

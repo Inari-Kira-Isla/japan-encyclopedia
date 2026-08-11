@@ -6,7 +6,7 @@ category: karaoke
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-karaoke-nara-奈良在地人的卡拉ok世界-跨越世代的歌聲社交圈-559852.html
 published: 2026-04-03
-quality_score: 6.5
+quality_score: 8.7
 tags: 奈良, 卡拉OK, 在地體驗, 娛樂文化, 多世代社交
 license: CC BY 4.0
 ---

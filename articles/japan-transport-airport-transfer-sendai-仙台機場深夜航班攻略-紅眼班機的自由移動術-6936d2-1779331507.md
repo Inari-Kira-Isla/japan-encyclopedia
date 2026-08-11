@@ -6,7 +6,7 @@ category: airport-transfer
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-airport-transfer-sendai-仙台機場深夜航班攻略-紅眼班機的自由移動術-6936d2-1779331507.html
 published: 2026-05-21
-quality_score: 7.5
+quality_score: 8.6
 tags: 仙台機場, 深夜航班, 紅眼班機, 機場交通, 日本東北
 license: CC BY 4.0
 ---

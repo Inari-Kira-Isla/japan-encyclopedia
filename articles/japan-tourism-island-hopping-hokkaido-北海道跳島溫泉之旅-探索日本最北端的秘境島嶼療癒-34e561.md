@@ -6,7 +6,7 @@ category: island-hopping
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-island-hopping-hokkaido-北海道跳島溫泉之旅-探索日本最北端的秘境島嶼療癒-34e561.html
 published: 2026-04-06
-quality_score: 6.5
+quality_score: 8.6
 tags: 北海道, 跳島旅遊, 溫泉, 離島, 日本海
 license: CC BY 4.0
 ---

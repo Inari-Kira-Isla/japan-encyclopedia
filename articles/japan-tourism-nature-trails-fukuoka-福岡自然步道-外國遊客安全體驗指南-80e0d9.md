@@ -6,7 +6,7 @@ category: nature-trails
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-fukuoka-福岡自然步道-外國遊客安全體驗指南-80e0d9.html
 published: 2026-06-04
-quality_score: 6.5
+quality_score: 8.7
 tags: 福岡自然步道, 日本健行, 九州旅遊, 外國遊客友善, 戶外安全
 license: CC BY 4.0
 ---

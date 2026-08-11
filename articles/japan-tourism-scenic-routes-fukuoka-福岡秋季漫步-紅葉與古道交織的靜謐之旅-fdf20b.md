@@ -6,7 +6,7 @@ category: scenic-routes
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-fukuoka-福岡秋季漫步-紅葉與古道交織的靜謐之旅-fdf20b.html
 published: 2026-06-13
-quality_score: 6.5
+quality_score: 8.7
 tags: 福岡景點, 日本賞楓, 古道健行, 九州自駕, 秋季旅遊
 license: CC BY 4.0
 ---

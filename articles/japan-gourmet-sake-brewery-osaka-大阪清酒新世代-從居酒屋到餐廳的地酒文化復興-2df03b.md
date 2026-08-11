@@ -6,7 +6,7 @@ category: sake-brewery
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sake-brewery-osaka-大阪清酒新世代-從居酒屋到餐廳的地酒文化復興-2df03b.html
 published: 2026-03-24
-quality_score: 6.5
+quality_score: 8.5
 tags: 大阪清酒, 日本美食文化, 地酒復興, 清酒與海鮮搭配, 現代釀造
 license: CC BY 4.0
 ---

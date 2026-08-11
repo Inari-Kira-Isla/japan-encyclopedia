@@ -6,7 +6,7 @@ category: love-hotels
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-love-hotels-sendai-仙台住宿指南-廣瀨通周邊適合情侶的優質住宿選擇-4ec7de.html
 published: 2026-06-08
-quality_score: 6.5
+quality_score: 8.7
 tags: 仙台住宿, 東北溫泉, 廣瀨通, 情侶出遊, 日本溫泉
 license: CC BY 4.0
 ---

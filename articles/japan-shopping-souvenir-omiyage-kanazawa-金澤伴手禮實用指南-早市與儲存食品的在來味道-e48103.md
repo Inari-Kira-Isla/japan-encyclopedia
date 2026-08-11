@@ -6,7 +6,7 @@ category: souvenir-omiyage
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-souvenir-omiyage-kanazawa-金澤伴手禮實用指南-早市與儲存食品的在來味道-e48103.html
 published: 2026-06-03
-quality_score: 7.5
+quality_score: 8.7
 tags: 金澤, 伴手禮, 早市, 保存食品, 加賀物產
 license: CC BY 4.0
 ---

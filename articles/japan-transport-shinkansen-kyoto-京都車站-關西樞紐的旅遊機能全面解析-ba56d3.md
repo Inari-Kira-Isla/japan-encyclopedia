@@ -6,7 +6,7 @@ category: shinkansen
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-kyoto-京都車站-關西樞紐的旅遊機能全面解析-ba56d3.html
 published: 2026-06-08
-quality_score: 7.5
+quality_score: 8.9
 tags: 京都車站, 關西交通, JR Pass, 京都一日遊, 安藤忠雄
 license: CC BY 4.0
 ---

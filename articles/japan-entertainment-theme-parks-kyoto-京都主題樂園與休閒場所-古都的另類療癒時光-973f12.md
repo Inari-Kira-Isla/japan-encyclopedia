@@ -6,7 +6,7 @@ category: theme-parks
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-theme-parks-kyoto-京都主題樂園與休閒場所-古都的另類療癒時光-973f12.html
 published: 2026-06-27
-quality_score: 6.5
+quality_score: 8.9
 tags: 京都主题乐园, 京都休闲体验, 京都铁道博物馆, 东映太秦映画村, 京都国际漫画博物馆
 license: CC BY 4.0
 ---

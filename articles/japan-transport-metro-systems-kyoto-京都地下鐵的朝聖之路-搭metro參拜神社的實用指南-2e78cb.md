@@ -6,7 +6,7 @@ category: metro-systems
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-kyoto-京都地下鐵的朝聖之路-搭metro參拜神社的實用指南-2e78cb.html
 published: 2026-05-25
-quality_score: 7.5
+quality_score: 8.5
 tags: 京都地下鐵, 京都Metro, 烏丸線, 東西線, 京都參拜
 license: CC BY 4.0
 ---

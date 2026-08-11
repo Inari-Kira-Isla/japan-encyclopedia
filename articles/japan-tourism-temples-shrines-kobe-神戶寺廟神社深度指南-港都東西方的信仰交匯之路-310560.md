@@ -6,7 +6,7 @@ category: temples-shrines
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-temples-shrines-kobe-神戶寺廟神社深度指南-港都東西方的信仰交匯之路-310560.html
 published: 2026-06-04
-quality_score: 6.5
+quality_score: 8.7
 tags: 神戶, 神社, 寺院, 關西, 能量景點
 license: CC BY 4.0
 ---

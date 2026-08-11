@@ -6,7 +6,7 @@ category: festivals-matsuri
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-festivals-matsuri-kyoto-京都夜祭完全指南-月光下的千年古都祭典體驗-f0134f.html
 published: 2026-06-20
-quality_score: 6.5
+quality_score: 8.6
 tags: 京都夜祭, 祇園祭, 京都祭典, 日本祭典, 夜間祭典
 license: CC BY 4.0
 ---

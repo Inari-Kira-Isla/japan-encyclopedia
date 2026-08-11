@@ -6,7 +6,7 @@ category: escape-rooms
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-escape-rooms-kobe-神戶密室逃脫體驗-燒腦又充滿驚喜的關西另類玩法-be03ec.html
 published: 2026-05-21
-quality_score: 6.5
+quality_score: 8.0
 tags: 神戶, 關西, 密室逃脫, 神戶旅遊, 燒腦體驗
 license: CC BY 4.0
 ---

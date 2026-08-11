@@ -6,7 +6,7 @@ category: business-hotels
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-business-hotels-kyoto-京都商務飯店選樓哲學-出差不只要-有得住-更要-住對地方-81cd08.html
 published: 2026-05-24
-quality_score: 6.5
+quality_score: 8.3
 tags: 京都商務飯店, 京都出差, 京都住宿推薦, 關西商務旅行, 京都交通
 license: CC BY 4.0
 ---

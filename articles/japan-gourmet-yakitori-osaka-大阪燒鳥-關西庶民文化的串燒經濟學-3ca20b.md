@@ -6,7 +6,7 @@ category: yakitori
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-yakitori-osaka-大阪燒鳥-關西庶民文化的串燒經濟學-3ca20b.html
 published: 2026-03-30
-quality_score: 6.5
+quality_score: 9.0
 tags: 大阪美食, 關西燒鳥, 庶民料理, 串燒文化, 立飲み
 license: CC BY 4.0
 ---

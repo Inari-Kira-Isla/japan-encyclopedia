@@ -6,7 +6,7 @@ category: sushi
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sushi-kyoto-京都壽司-古都巷弄中的壽司技藝之道-2beb8b.html
 published: 2026-06-13
-quality_score: 6.5
+quality_score: 8.6
 tags: 京都壽司, 京寿司, 壽司茂, 京都美食, 古都美食
 license: CC BY 4.0
 ---

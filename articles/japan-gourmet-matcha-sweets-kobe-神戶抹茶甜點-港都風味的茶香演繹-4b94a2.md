@@ -6,7 +6,7 @@ category: matcha-sweets
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-matcha-sweets-kobe-神戶抹茶甜點-港都風味的茶香演繹-4b94a2.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 8.8
 tags: 神戶抹茶甜點, 神戶美食, 瀨戶內海, 抹茶甜點地圖, 關西甜點
 license: CC BY 4.0
 ---

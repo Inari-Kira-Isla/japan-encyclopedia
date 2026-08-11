@@ -6,7 +6,7 @@ category: metro-systems
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-kyoto-京都的軌道交通系統-沒有metro的替代方案與實用指南-050cdb.html
 published: 2026-06-02
-quality_score: 7.5
+quality_score: 8.8
 tags: 京都交通, 京都軌道, 日本鐵路, 京都自由行, 嵐電
 license: CC BY 4.0
 ---

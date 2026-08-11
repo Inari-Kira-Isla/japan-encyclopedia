@@ -6,7 +6,7 @@ category: theme-parks
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-theme-parks-kanazawa-金澤主題樂園-真相大白-古都金澤的-非典型-娛樂體驗完全手冊-d5e8bd.html
 published: 2026-05-25
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤主題樂園, 金澤文化體驗, 金箔DIY, 兼六園, 21世紀美術館
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: garden-parks
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-fukuoka-福岡花園公園巡禮-清晨與傍晚的綠洲物語-fb8104.html
 published: 2026-06-28
-quality_score: 6.5
+quality_score: 8.8
 tags: 福岡, 公園, 綠地, 晨間活動, 櫻花
 license: CC BY 4.0
 ---

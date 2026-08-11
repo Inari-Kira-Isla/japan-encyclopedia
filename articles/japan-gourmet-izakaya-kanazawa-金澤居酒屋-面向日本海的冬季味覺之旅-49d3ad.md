@@ -6,7 +6,7 @@ category: izakaya
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-izakaya-kanazawa-金澤居酒屋-面向日本海的冬季味覺之旅-49d3ad.html
 published: 2026-06-17
-quality_score: 6.5
+quality_score: 8.4
 tags: 金澤居酒屋, 日本海海鮮, 石川縣美食, 冬季螃蟹, 兼六園周邊
 license: CC BY 4.0
 ---

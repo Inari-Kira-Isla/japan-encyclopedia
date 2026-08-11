@@ -6,7 +6,7 @@ category: island-hopping
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-island-hopping-nagoya-名古屋跳島慢旅行-伊勢灣的隱藏島嶼與靈性之旅-2f5683.html
 published: 2026-06-04
-quality_score: 6.5
+quality_score: 8.7
 tags: 名古屋跳岛, 三重县海岸, 安静小岛, 神岛, 贤岛
 license: CC BY 4.0
 ---

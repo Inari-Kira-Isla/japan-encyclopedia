@@ -6,7 +6,7 @@ category: sushi
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sushi-okinawa-沖繩的壽司-亞熱帶海域的獨特味覺-f0429a.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 8.6
 tags: 沖繩美食, 壽司, 沖繩自由行, 日本南方料理, 海葡萄
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: onsen
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-onsen-kanazawa-金澤週邊溫泉鐵道秘境-從古都出發的溫泉電鐵之旅-3fd75e.html
 published: 2026-06-06
-quality_score: 6.5
+quality_score: 8.4
 tags: 金澤溫泉, 加賀溫泉鄉, 日本溫泉, 鐵道旅行, 北陸溫泉
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: wagyu
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-wagyu-tokyo-東京和牛專賣店-隱藏在肉鋪與專門店的頂級牛肉尋味指南-8b1c8f.html
 published: 2026-06-07
-quality_score: 6.5
+quality_score: 8.3
 tags: 東京和牛, 日本美食, 東京超市, 肉鋪推薦, 和牛專賣店
 license: CC BY 4.0
 ---

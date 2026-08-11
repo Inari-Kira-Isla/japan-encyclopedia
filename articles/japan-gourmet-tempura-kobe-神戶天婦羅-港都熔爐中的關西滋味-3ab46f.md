@@ -6,7 +6,7 @@ category: tempura
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tempura-kobe-神戶天婦羅-港都熔爐中的關西滋味-3ab46f.html
 published: 2026-05-25
-quality_score: 6.5
+quality_score: 8.7
 tags: 神戶美食, 關西天婦羅, 瀨戶內海食材, 神戶深度遊, 港都美食
 license: CC BY 4.0
 ---

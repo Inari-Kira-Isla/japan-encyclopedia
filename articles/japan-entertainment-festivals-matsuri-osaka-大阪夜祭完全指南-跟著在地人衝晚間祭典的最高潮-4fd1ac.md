@@ -6,7 +6,7 @@ category: festivals-matsuri
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-festivals-matsuri-osaka-大阪夜祭完全指南-跟著在地人衝晚間祭典的最高潮-4fd1ac.html
 published: 2026-06-14
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪祭典, 夜祭, 天神祭, 住道大社, 新世界
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: minshuku
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-fukuoka-福岡民宿釀酒之旅-清酒廠周邊的沉浸式住宿體驗-3f8909.html
 published: 2026-07-05
-quality_score: 6.5
+quality_score: 8.5
 tags: 福岡民宿, 九州清酒, 釀酒體驗, 深度旅行, 筑後地區
 license: CC BY 4.0
 ---

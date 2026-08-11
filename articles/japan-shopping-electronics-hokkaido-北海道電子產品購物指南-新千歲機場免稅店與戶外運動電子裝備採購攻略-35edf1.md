@@ -6,7 +6,7 @@ category: electronics
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-electronics-hokkaido-北海道電子產品購物指南-新千歲機場免稅店與戶外運動電子裝備採購攻略-35edf1.html
 published: 2026-06-04
-quality_score: 7.5
+quality_score: 8.5
 tags: 北海道電子產品, 新千歲機場免稅店, 日本電器行購物, 北海道旅遊攻略, 日本免稅店電子產品
 license: CC BY 4.0
 ---

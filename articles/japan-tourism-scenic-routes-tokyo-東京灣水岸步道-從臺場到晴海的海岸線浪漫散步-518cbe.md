@@ -6,7 +6,7 @@ category: scenic-routes
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-tokyo-東京灣水岸步道-從臺場到晴海的海岸線浪漫散步-518cbe.html
 published: 2026-05-22
-quality_score: 6.5
+quality_score: 8.9
 tags: 東京灣, 台場, 水岸步道, 晴海, teamLab
 license: CC BY 4.0
 ---

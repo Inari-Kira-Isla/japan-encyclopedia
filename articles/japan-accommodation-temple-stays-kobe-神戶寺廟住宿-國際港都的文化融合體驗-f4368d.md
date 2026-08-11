@@ -6,7 +6,7 @@ category: temple-stays
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-temple-stays-kobe-神戶寺廟住宿-國際港都的文化融合體驗-f4368d.html
 published: 2026-04-01
-quality_score: 6.5
+quality_score: 8.7
 tags: 神戶, 寺廟住宿, 禪修體驗, 港都文化, 國際化
 license: CC BY 4.0
 ---

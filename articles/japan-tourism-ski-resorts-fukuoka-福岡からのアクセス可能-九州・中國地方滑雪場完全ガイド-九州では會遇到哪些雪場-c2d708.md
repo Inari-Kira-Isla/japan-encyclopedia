@@ -6,7 +6,7 @@ category: ski-resorts
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-ski-resorts-fukuoka-福岡からのアクセス可能-九州・中國地方滑雪場完全ガイド-九州では會遇到哪些雪場-c2d708.html
 published: 2026-06-22
-quality_score: 6.5
+quality_score: 8.6
 tags: 福岡滑雪場, 九州滑雪, 九州溫泉滑雪, 中國地方滑雪場, 日本滑雪初學者
 license: CC BY 4.0
 ---

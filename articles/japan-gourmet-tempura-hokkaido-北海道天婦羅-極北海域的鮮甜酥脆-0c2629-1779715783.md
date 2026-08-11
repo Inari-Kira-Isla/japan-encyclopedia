@@ -6,7 +6,7 @@ category: tempura
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tempura-hokkaido-北海道天婦羅-極北海域的鮮甜酥脆-0c2629-1779715783.html
 published: 2026-05-25
-quality_score: 6.5
+quality_score: 8.9
 tags: 北海道, 天婦羅, 海鲜, 札幌, 小樽
 license: CC BY 4.0
 ---

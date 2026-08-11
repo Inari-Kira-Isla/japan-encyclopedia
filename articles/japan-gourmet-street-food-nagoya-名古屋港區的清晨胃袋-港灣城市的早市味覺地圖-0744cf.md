@@ -6,7 +6,7 @@ category: street-food
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-street-food-nagoya-名古屋港區的清晨胃袋-港灣城市的早市味覺地圖-0744cf.html
 published: 2026-07-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 名古屋, 街頭美食, 港區, 早市文化, 味噌
 license: CC BY 4.0
 ---

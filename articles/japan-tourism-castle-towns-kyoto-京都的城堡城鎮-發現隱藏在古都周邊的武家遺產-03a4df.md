@@ -6,7 +6,7 @@ category: castle-towns
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-castle-towns-kyoto-京都的城堡城鎮-發現隱藏在古都周邊的武家遺產-03a4df.html
 published: 2026-05-24
-quality_score: 6.5
+quality_score: 8.5
 tags: 京都城堡城镇, 京都历史散步, 长冈京, 龟冈, 福知山
 license: CC BY 4.0
 ---

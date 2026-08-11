@@ -6,7 +6,7 @@ category: ryokan
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-osaka-大阪旅館外國遊客指南-在關西商都享受無障礙和式體驗-bdc83f.html
 published: 2026-04-06
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪住宿, 傳統旅館, 外國遊客, 日式體驗, 關西旅遊
 license: CC BY 4.0
 ---

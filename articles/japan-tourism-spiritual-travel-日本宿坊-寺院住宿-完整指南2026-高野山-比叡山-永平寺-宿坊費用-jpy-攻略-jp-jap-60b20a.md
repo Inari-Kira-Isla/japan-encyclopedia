@@ -6,7 +6,7 @@ category: spiritual-travel
 area: japan
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-spiritual-travel-日本宿坊-寺院住宿-完整指南2026-高野山-比叡山-永平寺-宿坊費用-jpy-攻略-jp-jap-60b20a.html
 published: 2026-03-29
-quality_score: 7.6
+quality_score: 8.4
 tags: 日本宿坊, 高野山住宿, 日本寺院體驗, 精進料理, 比叡山延暦寺
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: anime-manga
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-osaka-大阪動漫創作學園-從教室到咖啡廳的學習體驗之路-34d46d.html
 published: 2026-06-05
-quality_score: 6.5
+quality_score: 8.6
 tags: 大阪動漫, 漫畫學習, 動畫體驗, cosplay材料, 關西動漫
 license: CC BY 4.0
 ---

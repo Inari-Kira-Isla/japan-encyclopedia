@@ -6,7 +6,7 @@ category: souvenir-omiyage
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-souvenir-omiyage-okinawa-沖繩手作體驗型伴手禮完全攻略-親手打造的琉球紀念-188b1e.html
 published: 2026-06-14
-quality_score: 7.5
+quality_score: 8.5
 tags: 沖繩伴手禮, 手作體驗, 琉球工藝, 陶藝體驗, 沖繩自由行
 license: CC BY 4.0
 ---

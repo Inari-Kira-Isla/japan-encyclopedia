@@ -6,7 +6,7 @@ category: anime-manga
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-okinawa-沖繩動漫創作體驗-在琉球海風中尋找創作靈感-3aafe9.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.8
 tags: 沖繩動漫, 創作體驗, 琉球文化, 數位藝術, 工作坊
 license: CC BY 4.0
 ---

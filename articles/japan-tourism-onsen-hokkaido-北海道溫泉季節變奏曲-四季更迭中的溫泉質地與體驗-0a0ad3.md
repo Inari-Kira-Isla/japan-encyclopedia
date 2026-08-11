@@ -6,7 +6,7 @@ category: onsen
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-onsen-hokkaido-北海道溫泉季節變奏曲-四季更迭中的溫泉質地與體驗-0a0ad3.html
 published: 2026-04-06
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道, 溫泉, 季節體驗, 登別, 洞爺湖
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: souvenir-omiyage
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-souvenir-omiyage-tokyo-東京深夜與機場伴手禮攻略-紅眼航班與趕時間旅客的採購指南-ecbec8.html
 published: 2026-06-29
-quality_score: 7.5
+quality_score: 8.7
 tags: 東京伴手禮, 機場免稅店, 紅眼航班, 深夜購物, 商務伴手禮
 license: CC BY 4.0
 ---

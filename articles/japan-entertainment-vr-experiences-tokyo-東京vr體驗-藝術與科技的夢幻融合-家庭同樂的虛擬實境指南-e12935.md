@@ -6,7 +6,7 @@ category: vr-experiences
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-vr-experiences-tokyo-東京vr體驗-藝術與科技的夢幻融合-家庭同樂的虛擬實境指南-e12935.html
 published: 2026-07-05
-quality_score: 6.5
+quality_score: 8.5
 tags: 東京VR體驗, 東京親子活動, 東京藝術科技, teamLab Planets, 東京室內活動
 license: CC BY 4.0
 ---

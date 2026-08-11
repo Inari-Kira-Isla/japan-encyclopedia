@@ -6,7 +6,7 @@ category: temples-shrines
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-temples-shrines-fukuoka-福岡神社寺院導覽-從港口門戶到九州信仰的心臟地帶-475db0.html
 published: 2026-03-30
-quality_score: 6.5
+quality_score: 8.7
 tags: 福岡神社, 九州寺廟, 太宰府天滿宮, 東長寺, 筥崎神社
 license: CC BY 4.0
 ---

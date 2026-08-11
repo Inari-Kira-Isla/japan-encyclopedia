@@ -6,7 +6,7 @@ category: boutique-hotels
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-hiroshima-廣島精品酒店推薦-體驗歷史與現代交織的質感住宿-a46d5f.html
 published: 2026-03-15
-quality_score: 6.5
+quality_score: 8.9
 tags: 廣島精品酒店, 廣島住宿推薦, 日本酒店, 廣島旅遊, boutique hotel
 license: CC BY 4.0
 ---

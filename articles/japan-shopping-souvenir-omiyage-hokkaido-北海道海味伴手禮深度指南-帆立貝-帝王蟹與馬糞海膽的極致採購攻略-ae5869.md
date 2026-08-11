@@ -6,7 +6,7 @@ category: souvenir-omiyage
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-souvenir-omiyage-hokkaido-北海道海味伴手禮深度指南-帆立貝-帝王蟹與馬糞海膽的極致採購攻略-ae5869.html
 published: 2026-06-22
-quality_score: 7.5
+quality_score: 8.7
 tags: 北海道伴手禮, 札幌美食, 北海道海產, 新千歲機場, 小樽伴手禮
 license: CC BY 4.0
 ---

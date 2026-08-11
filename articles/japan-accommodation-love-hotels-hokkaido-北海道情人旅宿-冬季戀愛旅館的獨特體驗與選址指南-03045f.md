@@ -6,7 +6,7 @@ category: love-hotels
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-love-hotels-hokkaido-北海道情人旅宿-冬季戀愛旅館的獨特體驗與選址指南-03045f.html
 published: 2026-06-05
-quality_score: 6.5
+quality_score: 8.3
 tags: 
 license: CC BY 4.0
 ---

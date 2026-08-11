@@ -6,7 +6,7 @@ category: scenic-routes
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-nara-奈良東山深度朝聖線-古道與山嶽信仰的秘境探索-e80417.html
 published: 2026-06-21
-quality_score: 6.5
+quality_score: 8.8
 tags: 奈良朝聖路線, 日本山岳信仰, 吉野山登山, 大峰縱走, 古道秘境
 license: CC BY 4.0
 ---

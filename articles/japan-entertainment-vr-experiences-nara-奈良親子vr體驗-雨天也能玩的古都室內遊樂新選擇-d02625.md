@@ -6,7 +6,7 @@ category: vr-experiences
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-vr-experiences-nara-奈良親子vr體驗-雨天也能玩的古都室內遊樂新選擇-d02625.html
 published: 2026-06-26
-quality_score: 6.5
+quality_score: 8.4
 tags: 奈良VR, 親子旅遊, 奈良室內活動, 雨天備案, 家庭旅遊
 license: CC BY 4.0
 ---

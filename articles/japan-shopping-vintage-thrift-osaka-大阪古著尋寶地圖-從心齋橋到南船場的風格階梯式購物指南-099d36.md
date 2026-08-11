@@ -6,7 +6,7 @@ category: vintage-thrift
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-vintage-thrift-osaka-大阪古著尋寶地圖-從心齋橋到南船場的風格階梯式購物指南-099d36.html
 published: 2026-03-22
-quality_score: 7.5
+quality_score: 8.6
 tags: 大阪古著, Vintage Thrift, 二手衣物, 購物指南, 日本淘寶
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: sumo
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-hokkaido-北海道相撲-雪國力士的故鄉與培育之地-a391a2.html
 published: 2026-04-07
-quality_score: 6.5
+quality_score: 8.5
 tags: 北海道, 相扑, 日本文化, 體驗旅遊, 雪國之旅
 license: CC BY 4.0
 ---

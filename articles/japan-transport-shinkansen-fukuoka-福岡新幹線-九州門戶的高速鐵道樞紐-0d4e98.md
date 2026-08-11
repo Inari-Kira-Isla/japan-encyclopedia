@@ -6,7 +6,7 @@ category: shinkansen
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-fukuoka-福岡新幹線-九州門戶的高速鐵道樞紐-0d4e98.html
 published: 2026-03-27
-quality_score: 7.5
+quality_score: 8.7
 tags: 福岡, 九州新幹線, 博多站, 商務旅行, 交通樞紐
 license: CC BY 4.0
 ---

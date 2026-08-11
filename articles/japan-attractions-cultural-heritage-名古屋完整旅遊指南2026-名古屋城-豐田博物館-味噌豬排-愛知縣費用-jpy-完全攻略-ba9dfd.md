@@ -6,7 +6,7 @@ category: cultural-heritage
 area: japan
 url: https://japan-encyclopedia.vercel.app/articles/japan-attractions-cultural-heritage-名古屋完整旅遊指南2026-名古屋城-豐田博物館-味噌豬排-愛知縣費用-jpy-完全攻略-ba9dfd.html
 published: 2026-04-05
-quality_score: 7.1
+quality_score: 8.7
 tags: 名古屋城, 豐田博物館, 名古屋味噌, 熱田神宮, 名古屋旅遊
 license: CC BY 4.0
 ---

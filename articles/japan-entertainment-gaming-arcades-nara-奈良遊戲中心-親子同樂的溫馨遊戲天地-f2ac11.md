@@ -6,7 +6,7 @@ category: gaming-arcades
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-gaming-arcades-nara-奈良遊戲中心-親子同樂的溫馨遊戲天地-f2ac11.html
 published: 2026-06-29
-quality_score: 6.5
+quality_score: 8.8
 tags: 奈良遊戲中心, 奈良親子遊, 奈良景點, 關西遊戲中心, 奈良自由行
 license: CC BY 4.0
 ---

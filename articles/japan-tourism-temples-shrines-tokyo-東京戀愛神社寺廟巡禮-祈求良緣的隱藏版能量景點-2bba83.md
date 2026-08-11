@@ -6,7 +6,7 @@ category: temples-shrines
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-temples-shrines-tokyo-東京戀愛神社寺廟巡禮-祈求良緣的隱藏版能量景點-2bba83.html
 published: 2026-07-03
-quality_score: 6.5
+quality_score: 8.6
 tags: 東京神社, 東京寺廟, 戀愛祈福, 東京能量景點, 東京自由行
 license: CC BY 4.0
 ---

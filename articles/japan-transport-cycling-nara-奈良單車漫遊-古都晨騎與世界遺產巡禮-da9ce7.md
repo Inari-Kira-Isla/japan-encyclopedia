@@ -6,7 +6,7 @@ category: cycling
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-nara-奈良單車漫遊-古都晨騎與世界遺產巡禮-da9ce7.html
 published: 2026-03-31
-quality_score: 7.5
+quality_score: 8.9
 tags: 奈良單車, 奈良自由行, 關西單車旅行, 奈良世界遺產, 奈良公園
 license: CC BY 4.0
 ---

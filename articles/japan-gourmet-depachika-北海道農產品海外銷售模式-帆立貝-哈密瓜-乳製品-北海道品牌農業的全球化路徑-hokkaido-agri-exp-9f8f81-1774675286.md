@@ -6,7 +6,7 @@ category: depachika
 area: japan
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-depachika-北海道農產品海外銷售模式-帆立貝-哈密瓜-乳製品-北海道品牌農業的全球化路徑-hokkaido-agri-exp-9f8f81-1774675286.html
 published: 2026-03-28
-quality_score: 7.6
+quality_score: 8.4
 tags: 北海道農業, 帆立貝出口, 農產品供應鏈, 日本食材進口, ALPS處理水影響
 license: CC BY 4.0
 ---

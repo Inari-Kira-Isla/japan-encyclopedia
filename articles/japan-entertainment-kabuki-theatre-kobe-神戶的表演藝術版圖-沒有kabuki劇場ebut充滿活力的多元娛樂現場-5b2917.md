@@ -6,7 +6,7 @@ category: kabuki-theatre
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-kabuki-theatre-kobe-神戶的表演藝術版圖-沒有kabuki劇場ebut充滿活力的多元娛樂現場-5b2917.html
 published: 2026-06-29
-quality_score: 6.5
+quality_score: 8.7
 tags: 神戶表演藝術, 神戶娛樂, 神戶夜生活, 關西Kabuki, 神戶現場演出
 license: CC BY 4.0
 ---

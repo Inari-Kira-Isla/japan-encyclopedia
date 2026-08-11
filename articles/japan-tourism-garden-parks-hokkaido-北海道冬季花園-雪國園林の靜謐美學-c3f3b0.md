@@ -6,7 +6,7 @@ category: garden-parks
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-hokkaido-北海道冬季花園-雪國園林の靜謐美學-c3f3b0.html
 published: 2026-06-12
-quality_score: 6.5
+quality_score: 8.6
 tags: 北海道冬季, 雪國園林, 溫泉庭園, 雪見文化, 銀白世界
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: duty-free
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-duty-free-osaka-大阪美妝零食免稅攻略-藥妝店與伴手禮店的聰明購物法則-493243.html
 published: 2026-07-06
-quality_score: 7.5
+quality_score: 8.7
 tags: 大阪免稅, 大阪購物, 日本藥妝, 日本伴手禮, 關西機場
 license: CC BY 4.0
 ---

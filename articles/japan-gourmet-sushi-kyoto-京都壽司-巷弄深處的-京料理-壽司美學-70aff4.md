@@ -6,7 +6,7 @@ category: sushi
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sushi-kyoto-京都壽司-巷弄深處的-京料理-壽司美學-70aff4.html
 published: 2026-06-19
-quality_score: 6.5
+quality_score: 8.5
 tags: 京都壽司, 京料理, 押壽司, 祇園, OMAKASE
 license: CC BY 4.0
 ---

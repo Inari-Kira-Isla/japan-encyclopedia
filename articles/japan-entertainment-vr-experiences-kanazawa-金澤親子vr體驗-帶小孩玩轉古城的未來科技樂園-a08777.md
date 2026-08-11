@@ -6,7 +6,7 @@ category: vr-experiences
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-vr-experiences-kanazawa-金澤親子vr體驗-帶小孩玩轉古城的未來科技樂園-a08777.html
 published: 2026-06-08
-quality_score: 6.5
+quality_score: 8.6
 tags: 金澤VR體驗, 金澤親子, 家庭旅遊, 石川縣娛樂, 北陸科技
 license: CC BY 4.0
 ---

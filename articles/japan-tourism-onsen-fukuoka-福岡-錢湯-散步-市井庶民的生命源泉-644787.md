@@ -6,7 +6,7 @@ category: onsen
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-onsen-fukuoka-福岡-錢湯-散步-市井庶民的生命源泉-644787.html
 published: 2026-06-07
-quality_score: 6.5
+quality_score: 8.7
 tags: 福岡溫泉, 錢湯文化, 庶民溫泉, 一日遊, 九州溫泉
 license: CC BY 4.0
 ---

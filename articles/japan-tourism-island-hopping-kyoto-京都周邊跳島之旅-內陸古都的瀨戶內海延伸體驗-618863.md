@@ -6,7 +6,7 @@ category: island-hopping
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-island-hopping-kyoto-京都周邊跳島之旅-內陸古都的瀨戶內海延伸體驗-618863.html
 published: 2026-05-25
-quality_score: 6.5
+quality_score: 8.6
 tags: 京都旅遊, 瀨戶內海跳島, 直島藝術, 男木島, 日本跳島旅行
 license: CC BY 4.0
 ---

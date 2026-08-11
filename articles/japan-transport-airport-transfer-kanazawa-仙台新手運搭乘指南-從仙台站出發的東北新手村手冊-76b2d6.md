@@ -6,7 +6,7 @@ category: airport-transfer
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-airport-transfer-kanazawa-仙台新手運搭乘指南-從仙台站出發的東北新手村手冊-76b2d6.html
 published: 2026-06-16
-quality_score: 7.5
+quality_score: 8.9
 tags: 仙台, 新城際, 東北自助, 日本鐵路, ，第一次去東北
 license: CC BY 4.0
 ---

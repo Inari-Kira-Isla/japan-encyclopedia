@@ -6,7 +6,7 @@ category: street-food
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-street-food-nagoya-名古屋早晨味覺地圖-上班前的碳水戰場・清晨食堂的隱藏版amey-34f6fd.html
 published: 2026-06-04
-quality_score: 6.5
+quality_score: 8.7
 tags: 名古屋, 早餐文化, 朝食, 清晨食堂, 名古屋ローカル
 license: CC BY 4.0
 ---

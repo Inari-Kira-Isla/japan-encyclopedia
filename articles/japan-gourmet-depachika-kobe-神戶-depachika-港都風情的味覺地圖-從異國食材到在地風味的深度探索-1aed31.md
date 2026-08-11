@@ -6,7 +6,7 @@ category: depachika
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-depachika-kobe-神戶-depachika-港都風情的味覺地圖-從異國食材到在地風味的深度探索-1aed31.html
 published: 2026-07-01
-quality_score: 6.5
+quality_score: 8.8
 tags: 神戶, Depachika, 神戶美食, 三宮, 大阪
 license: CC BY 4.0
 ---

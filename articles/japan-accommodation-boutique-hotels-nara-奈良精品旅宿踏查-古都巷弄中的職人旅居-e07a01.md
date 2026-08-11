@@ -6,7 +6,7 @@ category: boutique-hotels
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-nara-奈良精品旅宿踏查-古都巷弄中的職人旅居-e07a01.html
 published: 2026-06-08
-quality_score: 6.5
+quality_score: 8.6
 tags: 奈良住宿, 精品旅宿, 日本古都, 町家民宿, 奈良深度遊
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: udon-soba
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-udon-soba-kyoto-京都烏龍麵與蕎麥麵-晨昏朝聖的麵食哲學-05e588.html
 published: 2026-05-23
-quality_score: 6.5
+quality_score: 8.8
 tags: 京都美食, 烏龍麵, 蕎麥麵, 古都小吃, 京都早餐
 license: CC BY 4.0
 ---

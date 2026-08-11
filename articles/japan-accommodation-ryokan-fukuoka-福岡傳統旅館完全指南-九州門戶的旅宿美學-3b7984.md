@@ -6,7 +6,7 @@ category: ryokan
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-fukuoka-福岡傳統旅館完全指南-九州門戶的旅宿美學-3b7984.html
 published: 2026-05-23
-quality_score: 6.5
+quality_score: 8.7
 tags: 福岡, Ryokan, 傳統旅館, 九州, 博多
 license: CC BY 4.0
 ---

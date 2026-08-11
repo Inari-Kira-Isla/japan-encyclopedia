@@ -6,7 +6,7 @@ category: craft-markets
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-craft-markets-hokkaido-北海道工藝市集完全指南-酪農與雪國的創意手作之旅-e7c41e.html
 published: 2026-03-30
-quality_score: 7.5
+quality_score: 8.7
 tags: 北海道, 手工藝市集, 日本購物, 十勝, 酪農業
 license: CC BY 4.0
 ---

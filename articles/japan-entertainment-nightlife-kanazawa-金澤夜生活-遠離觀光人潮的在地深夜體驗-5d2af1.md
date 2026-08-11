@@ -6,7 +6,7 @@ category: nightlife
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-kanazawa-金澤夜生活-遠離觀光人潮的在地深夜體驗-5d2af1.html
 published: 2026-06-22
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤夜生活, 石川縣旅遊, 北陸自由行, 日本居酒屋, 金澤美食
 license: CC BY 4.0
 ---

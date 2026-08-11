@@ -6,7 +6,7 @@ category: sports-culture
 area: japan
 url: https://japan-encyclopedia.vercel.app/articles/japan-events-sports-culture-日本相撲完整指南2026-國技館-六大本場所-力士文化-相撲票價-jpy-2500-45000-攻略-j-bb05da.html
 published: 2026-04-13
-quality_score: 7.6
+quality_score: 8.4
 tags: 日本相撲, 國技館, 大相撲, 相撲觀戰, 両国相撲
 license: CC BY 4.0
 ---

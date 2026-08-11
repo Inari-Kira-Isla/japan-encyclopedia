@@ -6,7 +6,7 @@ category: historical-districts
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-osaka-大阪歷史街區-非主流深度散步地圖-e4cdef.html
 published: 2026-07-06
-quality_score: 6.5
+quality_score: 8.8
 tags: 大阪歷史街區, 天下の臺所, 天滿商圈, 天神橋筋, 大阪深度旅遊
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: boutique-hotels
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-kobe-神戶小而美的質感棲居-港都巷弄裡的家庭式溫泉旅宿-28c21e.html
 published: 2026-06-15
-quality_score: 6.5
+quality_score: 8.5
 tags: 神戶精品旅宿, 神戶住宿推薦, 港都家庭式旅宿, 神戶小型旅宿, 關西溫泉住宿
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: castle-towns
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-castle-towns-nara-奈良的歷史城鎮-寺社町與古都風情的深度探索-99228c.html
 published: 2026-06-16
-quality_score: 6.5
+quality_score: 8.6
 tags: 奈良歷史, 寺社町, 古都風情, 平城京, 日本古城
 license: CC BY 4.0
 ---

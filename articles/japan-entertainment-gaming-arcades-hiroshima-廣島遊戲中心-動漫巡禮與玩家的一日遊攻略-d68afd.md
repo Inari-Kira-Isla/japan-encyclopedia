@@ -6,7 +6,7 @@ category: gaming-arcades
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-gaming-arcades-hiroshima-廣島遊戲中心-動漫巡禮與玩家的一日遊攻略-d68afd.html
 published: 2026-06-12
-quality_score: 6.5
+quality_score: 8.7
 tags: 廣島遊戲中心, 日本街機, 廣島旅遊, 動漫巡禮, 日本娛樂
 license: CC BY 4.0
 ---

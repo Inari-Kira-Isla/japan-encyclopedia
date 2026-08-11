@@ -6,7 +6,7 @@ category: electronics
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-electronics-hokkaido-北海道冬季電子用品購物指南-極地旅遊的科技裝備攻略-5e3842.html
 published: 2026-05-23
-quality_score: 7.5
+quality_score: 8.7
 tags: 北海道電子產品, 冬季旅遊裝備, 極地電子用品, 耐寒3C, 滑雪電子配備
 license: CC BY 4.0
 ---

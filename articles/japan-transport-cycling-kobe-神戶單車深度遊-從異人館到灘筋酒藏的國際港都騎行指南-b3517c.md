@@ -6,7 +6,7 @@ category: cycling
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-kobe-神戶單車深度遊-從異人館到灘筋酒藏的國際港都騎行指南-b3517c.html
 published: 2026-06-30
-quality_score: 7.5
+quality_score: 8.4
 tags: 神戶單車, 神戶租借單車, 神戶異人館, 灘筋清酒, 神戶自由行
 license: CC BY 4.0
 ---

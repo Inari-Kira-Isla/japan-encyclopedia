@@ -6,7 +6,7 @@ category: kabuki-theatre
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-kabuki-theatre-tokyo-東京上班族下班後的直擊選擇-下班後直衝劇場看一場-livekabuki-f330a7.html
 published: 2026-05-21
-quality_score: 6.5
+quality_score: 8.5
 tags: 東京Kabuki, 東京劇場, 東京娛樂, 銀座劇場, 傳統表演藝術
 license: CC BY 4.0
 ---

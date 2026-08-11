@@ -6,7 +6,7 @@ category: temples-shrines
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-temples-shrines-fukuoka-福岡神社寺院便利遊-車站周邊-交通順路的實用參拜指南-77694d.html
 published: 2026-05-22
-quality_score: 6.5
+quality_score: 8.7
 tags: 福岡神社, 博多寺院, 筥崎宮, 櫛田神社, 太宰府天滿宮
 license: CC BY 4.0
 ---

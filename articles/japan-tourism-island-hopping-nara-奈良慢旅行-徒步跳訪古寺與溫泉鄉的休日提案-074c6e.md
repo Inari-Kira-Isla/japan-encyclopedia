@@ -6,7 +6,7 @@ category: island-hopping
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-island-hopping-nara-奈良慢旅行-徒步跳訪古寺與溫泉鄉的休日提案-074c6e.html
 published: 2026-06-17
-quality_score: 6.5
+quality_score: 8.7
 tags: 奈良慢旅行, 日本古寺巡禮, 吉野溫泉, 法隆寺世界遺產, 明日香村
 license: CC BY 4.0
 ---

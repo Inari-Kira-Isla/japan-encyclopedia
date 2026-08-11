@@ -6,7 +6,7 @@ category: matcha-sweets
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-matcha-sweets-fukuoka-福岡抹茶甜點-遠離天神的人氣茶屋與在地人的日常選擇-4c9c3e.html
 published: 2026-06-02
-quality_score: 6.5
+quality_score: 8.8
 tags: 福岡抹茶, 九州抹茶, 抹茶甜點, 藥院站美食, 太宰府美食
 license: CC BY 4.0
 ---

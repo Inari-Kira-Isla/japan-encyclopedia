@@ -6,7 +6,7 @@ category: gaming-arcades
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-gaming-arcades-nara-奈良遊戲中心-古都巷弄中的街機密室-33e487.html
 published: 2026-06-05
-quality_score: 6.5
+quality_score: 8.9
 tags: 奈良遊戲中心, 奈良旅遊, 關西娛樂, 日本街機, 古都體驗
 license: CC BY 4.0
 ---

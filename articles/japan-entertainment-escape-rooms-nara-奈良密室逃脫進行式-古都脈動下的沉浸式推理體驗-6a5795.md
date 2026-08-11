@@ -6,7 +6,7 @@ category: escape-rooms
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-escape-rooms-nara-奈良密室逃脫進行式-古都脈動下的沉浸式推理體驗-6a5795.html
 published: 2026-05-24
-quality_score: 6.5
+quality_score: 8.9
 tags: 奈良密室逃脫, 奈良體驗, 奈良旅遊, 古都探險, 日本室內活動
 license: CC BY 4.0
 ---

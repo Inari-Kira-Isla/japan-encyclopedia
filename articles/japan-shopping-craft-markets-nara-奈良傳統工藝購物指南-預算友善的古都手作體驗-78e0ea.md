@@ -6,7 +6,7 @@ category: craft-markets
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-craft-markets-nara-奈良傳統工藝購物指南-預算友善的古都手作體驗-78e0ea.html
 published: 2026-05-24
-quality_score: 7.5
+quality_score: 8.8
 tags: 奈良購物, 日本工藝, 預算旅遊, 伝統工藝, 關西自由行
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: nature-trails
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-okinawa-沖繩自然步道完全指南-琉球山海的生態探險與季節秘徑-6bd558.html
 published: 2026-03-21
-quality_score: 6.5
+quality_score: 8.6
 tags: 沖繩自然步道, 日本登山, 亞熱帶生態, 琉球文化, 季節性步道
 license: CC BY 4.0
 ---

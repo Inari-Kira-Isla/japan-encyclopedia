@@ -6,7 +6,7 @@ category: boutique-hotels
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-fukuoka-福岡精品酒店-屋臺與釀酒之城的味覺住宿提案-f0c66d.html
 published: 2026-06-28
-quality_score: 6.5
+quality_score: 8.7
 tags: 福岡, 精品酒店, 屋台文化, 九州住宿, 博多
 license: CC BY 4.0
 ---

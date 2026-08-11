@@ -6,7 +6,7 @@ category: rental-cars
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-kobe-神戶租車美食自駕攻略-從港口到牧場的在地食材探索徑-b5932f.html
 published: 2026-06-19
-quality_score: 7.5
+quality_score: 8.7
 tags: 神戶租車, 關西自駕, 神戶美食, 瀨戶內海, 神戶牛肉
 license: CC BY 4.0
 ---

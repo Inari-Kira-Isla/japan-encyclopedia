@@ -6,7 +6,7 @@ category: craft-markets
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-craft-markets-sendai-仙台手作市集與工藝文化-從街區小店到職人創作的完整導覽-4734ad.html
 published: 2026-06-20
-quality_score: 7.5
+quality_score: 8.8
 tags: sendai, craft-markets, 手作市集, 仙台, 日本東北
 license: CC BY 4.0
 ---

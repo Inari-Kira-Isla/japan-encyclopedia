@@ -6,7 +6,7 @@ category: craft-markets
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-craft-markets-okinawa-沖繩手作市集完全攻略-從平價體驗到收藏級工藝的多元選擇-5aebb8.html
 published: 2026-07-02
-quality_score: 7.5
+quality_score: 8.6
 tags: 沖繩, 手作市集, 琉球玻璃, 珊瑚工藝, 藍染
 license: CC BY 4.0
 ---

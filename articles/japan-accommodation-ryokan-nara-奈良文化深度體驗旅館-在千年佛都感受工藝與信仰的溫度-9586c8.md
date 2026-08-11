@@ -6,7 +6,7 @@ category: ryokan
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-nara-奈良文化深度體驗旅館-在千年佛都感受工藝與信仰的溫度-9586c8.html
 published: 2026-04-06
-quality_score: 6.5
+quality_score: 8.7
 tags: 奈良旅館, 文化體驗, 佛教文化, 傳統工藝, 神道體驗
 license: CC BY 4.0
 ---

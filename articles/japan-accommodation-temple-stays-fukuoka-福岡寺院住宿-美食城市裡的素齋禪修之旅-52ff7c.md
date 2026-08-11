@@ -6,7 +6,7 @@ category: temple-stays
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-temple-stays-fukuoka-福岡寺院住宿-美食城市裡的素齋禪修之旅-52ff7c.html
 published: 2026-03-24
-quality_score: 6.5
+quality_score: 8.5
 tags: 福岡住宿, 寺院住宿, 禪修體驗, 素齋料理, 九州旅遊
 license: CC BY 4.0
 ---

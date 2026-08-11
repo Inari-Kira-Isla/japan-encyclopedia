@@ -6,7 +6,7 @@ category: fashion-harajuku
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-fashion-harajuku-hokkaido-北海道時尚購物指南-札幌薄野的年輕潮流聖地-a556b3.html
 published: 2026-07-06
-quality_score: 7.5
+quality_score: 8.9
 tags: 北海道購物, 札幌薄野, 日本古著, 街頭潮流, 北海道自由行
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: wagyu
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-wagyu-nara-奈良大和牛的祭祀與餐桌-古都傳承的肉食文化-9d3c9a.html
 published: 2026-06-15
-quality_score: 6.5
+quality_score: 8.5
 tags: 奈良和牛, 大和牛, 古都美食, 祭祀料理, 燒肉推薦
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: department-stores
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-department-stores-hokkaido-北海道冬季限定百貨攻略-雪國聖誕市集與寒天購物體驗-249438.html
 published: 2026-06-12
-quality_score: 7.5
+quality_score: 8.7
 tags: 北海道, 札幌, 旭川, 函館, 冬季購物
 license: CC BY 4.0
 ---

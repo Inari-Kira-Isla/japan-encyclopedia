@@ -6,7 +6,7 @@ category: matcha-sweets
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-matcha-sweets-osaka-大阪抹茶甜點年輕攻略-創意系綠茶甜品的地圖-e14764.html
 published: 2026-06-17
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪, 抹茶甜點, 年輕攻略, 創意甜點, 關西美食
 license: CC BY 4.0
 ---

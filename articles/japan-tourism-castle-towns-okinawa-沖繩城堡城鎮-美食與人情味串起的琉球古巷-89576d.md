@@ -6,7 +6,7 @@ category: castle-towns
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-castle-towns-okinawa-沖繩城堡城鎮-美食與人情味串起的琉球古巷-89576d.html
 published: 2026-05-23
-quality_score: 6.5
+quality_score: 8.7
 tags: 沖繩城堡城鎮, 琉球王國, 沖繩美食, 泡盛, 首里城
 license: CC BY 4.0
 ---

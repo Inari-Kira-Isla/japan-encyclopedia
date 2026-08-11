@@ -6,7 +6,7 @@ category: metro-systems
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-nagoya-名古屋地下鐵與世界盃-2026年-fifa-賽事前瞻與城市脈絡-33a24e.html
 published: 2026-07-01
-quality_score: 7.5
+quality_score: 8.8
 tags: 名古屋地下鐵, 日本中部交通, 2026世界盃, 產業遺產, 名古屋旅遊
 license: CC BY 4.0
 ---

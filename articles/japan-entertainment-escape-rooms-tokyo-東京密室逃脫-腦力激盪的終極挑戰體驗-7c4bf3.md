@@ -6,7 +6,7 @@ category: escape-rooms
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-escape-rooms-tokyo-東京密室逃脫-腦力激盪的終極挑戰體驗-7c4bf3.html
 published: 2026-03-15
-quality_score: 6.5
+quality_score: 8.8
 tags: 東京娛樂, 密室逃脫, 團體活動, 室內娛樂, 推理遊戲
 license: CC BY 4.0
 ---

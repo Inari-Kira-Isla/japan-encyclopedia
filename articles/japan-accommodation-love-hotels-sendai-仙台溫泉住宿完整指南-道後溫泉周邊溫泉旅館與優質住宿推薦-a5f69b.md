@@ -6,7 +6,7 @@ category: love-hotels
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-love-hotels-sendai-仙台溫泉住宿完整指南-道後溫泉周邊溫泉旅館與優質住宿推薦-a5f69b.html
 published: 2026-05-25
-quality_score: 6.5
+quality_score: 8.5
 tags: 
 license: CC BY 4.0
 ---

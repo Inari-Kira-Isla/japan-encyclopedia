@@ -6,7 +6,7 @@ category: gaming-arcades
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-gaming-arcades-okinawa-沖繩遊戲中心-夏日消暑的重磅娛樂秘密基地-868ede.html
 published: 2026-04-07
-quality_score: 6.5
+quality_score: 8.7
 tags: 沖繩遊戲中心, 沖繩親子景點, 沖繩室內活動, 日本遊戲中心, 沖繩購物中心
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: sumo
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-hokkaido-北海道相撲-嚴寒鍛造的力士搖籃-b2056f.html
 published: 2026-03-28
-quality_score: 6.5
+quality_score: 8.6
 tags: 北海道, 相撲, 冬季訓練, 大學體育, 札幌
 license: CC BY 4.0
 ---

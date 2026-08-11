@@ -6,7 +6,7 @@ category: boutique-hotels
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-hokkaido-北海道秘境精品酒店-自駕公路旅行的美食與住宿指南-24eecf.html
 published: 2026-06-21
-quality_score: 6.5
+quality_score: 8.4
 tags: 北海道, 精品酒店, 自駕旅行, 美食住宿, 二世古
 license: CC BY 4.0
 ---

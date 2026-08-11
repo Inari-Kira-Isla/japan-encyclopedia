@@ -6,7 +6,7 @@ category: souvenir-omiyage
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-souvenir-omiyage-sendai-仙台古著迷宮尋寶記-東北古城質感挖寶指南-e67c39.html
 published: 2026-06-04
-quality_score: 7.5
+quality_score: 8.7
 tags: 仙台, 古著, 復古, 挖寶, 二手市場
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: theme-parks
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-theme-parks-fukuoka-福岡夜娛樂指南-遊戲中心-密室逃脫與在地體驗的深夜遊樂場-0cee30.html
 published: 2026-06-13
-quality_score: 6.5
+quality_score: 8.8
 tags: 福岡, 主題樂園, 遊戲中心, 密室逃脫, 夜生活
 license: CC BY 4.0
 ---

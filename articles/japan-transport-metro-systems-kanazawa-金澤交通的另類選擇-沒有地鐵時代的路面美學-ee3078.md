@@ -6,7 +6,7 @@ category: metro-systems
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-kanazawa-金澤交通的另類選擇-沒有地鐵時代的路面美學-ee3078.html
 published: 2026-06-22
-quality_score: 7.5
+quality_score: 8.9
 tags: 金澤交通, 金澤自由行, 日本北陸, 金澤公車, 路面電車
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: vintage-thrift
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-vintage-thrift-sendai-仙台古著尋寶-東北學園城市的復古生活提案-7414ba.html
 published: 2026-06-06
-quality_score: 7.5
+quality_score: 8.7
 tags: 仙台古著, 東北購物, 日本古著, 復古時尚, 仙台旅遊
 license: CC BY 4.0
 ---

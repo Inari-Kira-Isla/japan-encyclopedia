@@ -6,7 +6,7 @@ category: historical-districts
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-kobe-神戶歷史街區-建築密碼解讀手冊-ef3c47.html
 published: 2026-06-18
-quality_score: 6.5
+quality_score: 8.5
 tags: 神戶, 歷史街區, 異人館, 北野, 南京町
 license: CC BY 4.0
 ---

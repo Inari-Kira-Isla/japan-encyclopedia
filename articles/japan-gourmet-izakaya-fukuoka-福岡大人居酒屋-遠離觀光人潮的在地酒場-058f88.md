@@ -6,7 +6,7 @@ category: izakaya
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-izakaya-fukuoka-福岡大人居酒屋-遠離觀光人潮的在地酒場-058f88.html
 published: 2026-06-14
-quality_score: 6.5
+quality_score: 8.5
 tags: 福岡居酒屋, 大人居酒屋, 在地美食, 藥院, 冷泉
 license: CC BY 4.0
 ---

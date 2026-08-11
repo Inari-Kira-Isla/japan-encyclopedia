@@ -6,7 +6,7 @@ category: cycling
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-kobe-神戶美食單車小旅行-騎訪港都的味覺地圖-43402a.html
 published: 2026-06-17
-quality_score: 7.5
+quality_score: 8.6
 tags: 神戶單車, 神戶美食, 神戶牛, 單車旅行, 兵庫單車
 license: CC BY 4.0
 ---

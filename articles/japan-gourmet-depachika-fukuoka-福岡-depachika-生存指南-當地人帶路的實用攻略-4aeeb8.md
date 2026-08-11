@@ -6,7 +6,7 @@ category: depachika
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-depachika-fukuoka-福岡-depachika-生存指南-當地人帶路的實用攻略-4aeeb8.html
 published: 2026-03-29
-quality_score: 6.5
+quality_score: 8.6
 tags: 福岡, Depachika, 地下美食, 博多吃文化, 明太子
 license: CC BY 4.0
 ---

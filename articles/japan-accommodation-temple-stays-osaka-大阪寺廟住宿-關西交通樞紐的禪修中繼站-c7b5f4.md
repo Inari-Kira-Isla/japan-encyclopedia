@@ -6,7 +6,7 @@ category: temple-stays
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-temple-stays-osaka-大阪寺廟住宿-關西交通樞紐的禪修中繼站-c7b5f4.html
 published: 2026-03-24
-quality_score: 6.5
+quality_score: 8.5
 tags: 大阪住宿, temple stay, 寺廟住宿, 日本修行體驗, 關西旅遊
 license: CC BY 4.0
 ---

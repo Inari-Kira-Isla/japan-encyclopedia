@@ -6,7 +6,7 @@ category: ramen
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-ramen-osaka-大阪深夜拉麵-二次會後的暖心歸處-bf0456.html
 published: 2026-06-27
-quality_score: 6.5
+quality_score: 8.9
 tags: 大阪拉麵, 深夜美食, 二次會, 關西拉麵, 在地美食
 license: CC BY 4.0
 ---

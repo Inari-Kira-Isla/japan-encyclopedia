@@ -6,7 +6,7 @@ category: historical-districts
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-kobe-神戶歷史街區-穿越明治浪漫的港都時光-2df590.html
 published: 2026-04-08
-quality_score: 6.5
+quality_score: 8.7
 tags: 神戶, 歷史街區, 日本旅遊, 異人館, 南京町
 license: CC BY 4.0
 ---

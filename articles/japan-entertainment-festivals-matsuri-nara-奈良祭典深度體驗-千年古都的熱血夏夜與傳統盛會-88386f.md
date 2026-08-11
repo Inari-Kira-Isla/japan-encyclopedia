@@ -6,7 +6,7 @@ category: festivals-matsuri
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-festivals-matsuri-nara-奈良祭典深度體驗-千年古都的熱血夏夜與傳統盛會-88386f.html
 published: 2026-03-24
-quality_score: 6.5
+quality_score: 8.8
 tags: 奈良祭典, 日本夏祭, 奈良深度旅遊, 千年古都, 傳統文化體驗
 license: CC BY 4.0
 ---

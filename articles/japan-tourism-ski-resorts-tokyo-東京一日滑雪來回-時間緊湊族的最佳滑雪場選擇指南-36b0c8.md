@@ -6,7 +6,7 @@ category: ski-resorts
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-ski-resorts-tokyo-東京一日滑雪來回-時間緊湊族的最佳滑雪場選擇指南-36b0c8.html
 published: 2026-06-23
-quality_score: 6.5
+quality_score: 8.3
 tags: 東京滑雪場, 一日來回滑雪, 東京出發滑雪, 日本滑雪推薦, 關東滑雪場
 license: CC BY 4.0
 ---

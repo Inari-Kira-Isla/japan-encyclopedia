@@ -6,7 +6,7 @@ category: cycling
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-nagoya-名古屋單車生活-港灣工業城的日常騎跡-251522.html
 published: 2026-06-10
-quality_score: 7.5
+quality_score: 8.6
 tags: 名古屋單車, 名古屋骑行, 名古屋港區, 名古屋自由行, 中部日本單車
 license: CC BY 4.0
 ---

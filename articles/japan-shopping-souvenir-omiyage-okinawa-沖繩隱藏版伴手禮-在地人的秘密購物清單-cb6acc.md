@@ -6,7 +6,7 @@ category: souvenir-omiyage
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-souvenir-omiyage-okinawa-沖繩隱藏版伴手禮-在地人的秘密購物清單-cb6acc.html
 published: 2026-06-02
-quality_score: 7.5
+quality_score: 8.6
 tags: 沖繩伴手禮, 沖繩自由行, 沖繩購物,  Okinawasouvenir
 license: CC BY 4.0
 ---

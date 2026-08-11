@@ -6,7 +6,7 @@ category: souvenir-omiyage
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-souvenir-omiyage-tokyo-東京數位藝術伴手禮攻略-teamlab周邊與臺場創意選物-6882a3.html
 published: 2026-06-22
-quality_score: 7.5
+quality_score: 8.7
 tags: 東京伴手禮, teamLab, 台場購物, 數位藝術, 六本木
 license: CC BY 4.0
 ---

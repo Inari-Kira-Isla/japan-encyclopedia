@@ -6,7 +6,7 @@ category: anime-manga
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-hiroshima-廣島動漫創作地圖-從創作者視角發掘瀨戶內的二次元魅力-892375.html
 published: 2026-06-20
-quality_score: 6.5
+quality_score: 8.7
 tags: 廣島動漫, 廣島漫畫, 本通商圈, 動漫咖啡廳, 同人誌
 license: CC BY 4.0
 ---

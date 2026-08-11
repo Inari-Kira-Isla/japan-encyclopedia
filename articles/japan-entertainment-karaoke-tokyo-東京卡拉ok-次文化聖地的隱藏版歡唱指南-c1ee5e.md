@@ -6,7 +6,7 @@ category: karaoke
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-karaoke-tokyo-東京卡拉ok-次文化聖地的隱藏版歡唱指南-c1ee5e.html
 published: 2026-06-22
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京卡拉OK, 秋葉原卡拉OK, 主題卡拉OK, 動漫卡拉OK, 東京夜生活
 license: CC BY 4.0
 ---

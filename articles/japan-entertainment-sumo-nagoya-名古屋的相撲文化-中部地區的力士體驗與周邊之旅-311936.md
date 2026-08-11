@@ -6,7 +6,7 @@ category: sumo
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-nagoya-名古屋的相撲文化-中部地區的力士體驗與周邊之旅-311936.html
 published: 2026-06-02
-quality_score: 6.5
+quality_score: 9.0
 tags: 名古屋, 相撲, 中部地方, 文化體驗, 日本旅行
 license: CC BY 4.0
 ---

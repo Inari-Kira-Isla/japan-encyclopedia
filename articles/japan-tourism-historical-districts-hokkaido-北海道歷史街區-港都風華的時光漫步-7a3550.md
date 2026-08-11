@@ -6,7 +6,7 @@ category: historical-districts
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-hokkaido-北海道歷史街區-港都風華的時光漫步-7a3550.html
 published: 2026-05-31
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道, 歷史街區, 港都風情, 函館, 小樽
 license: CC BY 4.0
 ---

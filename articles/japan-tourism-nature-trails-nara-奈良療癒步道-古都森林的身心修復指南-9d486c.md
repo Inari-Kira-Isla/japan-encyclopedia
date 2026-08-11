@@ -6,7 +6,7 @@ category: nature-trails
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-nara-奈良療癒步道-古都森林的身心修復指南-9d486c.html
 published: 2026-03-29
-quality_score: 6.5
+quality_score: 8.7
 tags: 奈良步道, 森林浴, 日本古寺, 療癒之旅, 深度旅遊
 license: CC BY 4.0
 ---

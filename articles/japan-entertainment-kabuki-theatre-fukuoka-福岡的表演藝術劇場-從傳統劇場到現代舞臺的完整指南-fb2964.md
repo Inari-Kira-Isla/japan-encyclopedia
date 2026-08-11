@@ -6,7 +6,7 @@ category: kabuki-theatre
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-kabuki-theatre-fukuoka-福岡的表演藝術劇場-從傳統劇場到現代舞臺的完整指南-fb2964.html
 published: 2026-06-12
-quality_score: 6.5
+quality_score: 8.6
 tags: 福岡, 表演藝術, 博多座, 日本戲劇, 九州文化
 license: CC BY 4.0
 ---

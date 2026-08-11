@@ -6,7 +6,7 @@ category: tempura
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tempura-tokyo-東京天婦羅-國際旅客的文化味蕾之旅-cf32a5.html
 published: 2026-04-06
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京美食, 天婦羅, 國際旅客, 日本文化, 美食體驗
 license: CC BY 4.0
 ---

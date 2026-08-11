@@ -6,7 +6,7 @@ category: boutique-hotels
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-osaka-大阪庶民區精品酒店-天王寺-新世界的設計棲居-f7333a.html
 published: 2026-06-23
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪住宿, 天王寺, 新世界, 精品酒店, 大阪自由行
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: historical-districts
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-nagoya-名古屋歷史街區-從昭和走到平成的工業魂-9b59d6.html
 published: 2026-06-03
-quality_score: 6.5
+quality_score: 8.8
 tags: 名古屋歷史街區, 大須觀音, 覺王山, 德川園, 產業遺產
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: karaoke
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-karaoke-fukuoka-福岡卡拉ok-天后・博多區的在地歡唱攻略-4dd249.html
 published: 2026-05-24
-quality_score: 6.5
+quality_score: 8.7
 tags: 福岡, 卡拉OK, 博多, 天神, 屋台
 license: CC BY 4.0
 ---

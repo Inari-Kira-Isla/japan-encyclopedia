@@ -6,7 +6,7 @@ category: garden-parks
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-kobe-神戶花園與食-綠蔭佐美味的散步美學-6fa92c.html
 published: 2026-06-21
-quality_score: 6.5
+quality_score: 8.8
 tags: 神戶花園, 神戶公園, 北野異人館, 六甲山, 神戶散步
 license: CC BY 4.0
 ---

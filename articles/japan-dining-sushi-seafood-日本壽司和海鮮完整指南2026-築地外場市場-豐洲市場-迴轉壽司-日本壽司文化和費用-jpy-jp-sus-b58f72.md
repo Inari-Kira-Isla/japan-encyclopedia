@@ -6,7 +6,7 @@ category: sushi-seafood
 area: japan
 url: https://japan-encyclopedia.vercel.app/articles/japan-dining-sushi-seafood-日本壽司和海鮮完整指南2026-築地外場市場-豐洲市場-迴轉壽司-日本壽司文化和費用-jpy-jp-sus-b58f72.html
 published: 2026-04-19
-quality_score: 7.6
+quality_score: 8.5
 tags: 日本壽司, 築地市場, 豐洲市場, 迴轉壽司, 日本海鮮
 license: CC BY 4.0
 ---

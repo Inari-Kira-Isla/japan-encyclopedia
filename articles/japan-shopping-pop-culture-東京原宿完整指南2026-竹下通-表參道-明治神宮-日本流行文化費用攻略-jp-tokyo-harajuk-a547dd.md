@@ -6,7 +6,7 @@ category: pop-culture
 area: japan
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-pop-culture-東京原宿完整指南2026-竹下通-表參道-明治神宮-日本流行文化費用攻略-jp-tokyo-harajuk-a547dd.html
 published: 2026-04-25
-quality_score: 7.6
+quality_score: 8.4
 tags: 東京原宿, 竹下通, 表參道, 明治神宮, 日本流行文化
 license: CC BY 4.0
 ---

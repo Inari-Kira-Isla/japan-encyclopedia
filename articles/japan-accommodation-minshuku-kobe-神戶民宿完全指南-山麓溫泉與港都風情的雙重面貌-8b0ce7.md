@@ -6,7 +6,7 @@ category: minshuku
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-kobe-神戶民宿完全指南-山麓溫泉與港都風情的雙重面貌-8b0ce7.html
 published: 2026-06-26
-quality_score: 6.5
+quality_score: 8.7
 tags: 神戶民宿, 神戶住宿, 有馬溫泉, 北野異人館, 六甲山溫泉
 license: CC BY 4.0
 ---

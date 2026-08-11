@@ -6,7 +6,7 @@ category: cycling
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-okinawa-沖繩單車漫遊-島嶼風光的海岸線詩篇-7006be.html
 published: 2026-06-07
-quality_score: 7.5
+quality_score: 8.7
 tags: 沖繩單車, 島嶼骑行, 海岸線, 自助旅遊, 戶外活動
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: minshuku
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-tokyo-東京民宿完全指南-都市節奏中的家庭溫度-490002.html
 published: 2026-06-16
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京住宿, 民宿推薦, Minshuku, 東京自由行, 下町住宿
 license: CC BY 4.0
 ---

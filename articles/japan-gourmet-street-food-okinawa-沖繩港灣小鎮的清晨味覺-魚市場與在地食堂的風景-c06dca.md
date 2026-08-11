@@ -6,7 +6,7 @@ category: street-food
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-street-food-okinawa-沖繩港灣小鎮的清晨味覺-魚市場與在地食堂的風景-c06dca.html
 published: 2026-06-08
-quality_score: 6.5
+quality_score: 8.8
 tags: 沖繩, 街頭美食, 魚市場, 糸滿, 北谷
 license: CC BY 4.0
 ---

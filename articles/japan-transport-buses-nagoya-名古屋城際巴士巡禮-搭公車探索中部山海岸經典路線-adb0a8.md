@@ -6,7 +6,7 @@ category: buses
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-buses-nagoya-名古屋城際巴士巡禮-搭公車探索中部山海岸經典路線-adb0a8.html
 published: 2026-06-28
-quality_score: 7.5
+quality_score: 8.5
 tags: 名古屋巴士, 城際巴士, 高速巴士, 中部地區, 高山巴士
 license: CC BY 4.0
 ---

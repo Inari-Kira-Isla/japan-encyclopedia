@@ -6,7 +6,7 @@ category: festivals-matsuri
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-festivals-matsuri-hokkaido-北海道理食祭典-海味與慶典的時令饗宴-aaa5cb.html
 published: 2026-03-24
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道祭典, 理食祭典, 海膽, 帆立貝, 帝王蟹
 license: CC BY 4.0
 ---

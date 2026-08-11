@@ -6,7 +6,7 @@ category: day-trips
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-fukuoka-福岡的自然療癒一日遊-本地人私藏的山海溫泉秘境-c8c856.html
 published: 2026-06-03
-quality_score: 6.5
+quality_score: 8.7
 tags: 福岡一日遊, 九州溫泉','自然療癒, 自駕路線, 在地秘境
 license: CC BY 4.0
 ---

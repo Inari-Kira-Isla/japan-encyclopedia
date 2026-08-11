@@ -6,7 +6,7 @@ category: wagyu
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-wagyu-okinawa-沖繩和牛-亞熱帶牧場淬鍊的極品肉味的在地體驗-69467a.html
 published: 2026-06-11
-quality_score: 6.5
+quality_score: 8.9
 tags: 沖繩和牛, 亞熱帶美食, 名護燒肉, 石垣島美食, 沖繩自由行
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: depachika
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-depachika-hokkaido-北海道-depachika-產地直送的四季食材聖地-54cf65.html
 published: 2026-04-02
-quality_score: 6.5
+quality_score: 8.9
 tags: 北海道美食, 產地直送, 季節食材, 專業採購, 海鮮市場
 license: CC BY 4.0
 ---

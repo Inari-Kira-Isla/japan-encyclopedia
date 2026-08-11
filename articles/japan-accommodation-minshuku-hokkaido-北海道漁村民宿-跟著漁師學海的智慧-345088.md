@@ -6,7 +6,7 @@ category: minshuku
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-hokkaido-北海道漁村民宿-跟著漁師學海的智慧-345088.html
 published: 2026-03-26
-quality_score: 6.5
+quality_score: 8.8
 tags: 北海道民宿, 漁村體驗, 海鮮文化, 傳統漁業, 深度旅遊
 license: CC BY 4.0
 ---

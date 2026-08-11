@@ -6,7 +6,7 @@ category: electronics
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-electronics-okinawa-沖繩戶外電子裝置採購指南-潛水攝影與極限運動專用器材全攻略-0921d0.html
 published: 2026-03-26
-quality_score: 7.5
+quality_score: 8.7
 tags: 沖繩購物, 戶外電子設備, 潛水器材, 防水設備, 免稅購物
 license: CC BY 4.0
 ---

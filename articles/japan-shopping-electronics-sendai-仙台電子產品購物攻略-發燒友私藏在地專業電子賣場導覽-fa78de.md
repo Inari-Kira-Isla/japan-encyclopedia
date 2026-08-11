@@ -6,7 +6,7 @@ category: electronics
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-electronics-sendai-仙台電子產品購物攻略-發燒友私藏在地專業電子賣場導覽-fa78de.html
 published: 2026-06-08
-quality_score: 7.5
+quality_score: 8.3
 tags: 仙台電子產品, 專業音響店, 二手相機, 電子零件, 日本東北購物
 license: CC BY 4.0
 ---

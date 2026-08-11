@@ -6,7 +6,7 @@ category: sumo
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-kobe-神戶相撲-港都的國際化力士文化體驗-49b68b-1780555352.html
 published: 2026-06-04
-quality_score: 6.5
+quality_score: 8.4
 tags: 神戶, 相撲, 港都文化, 體驗推薦, 關西旅遊
 license: CC BY 4.0
 ---

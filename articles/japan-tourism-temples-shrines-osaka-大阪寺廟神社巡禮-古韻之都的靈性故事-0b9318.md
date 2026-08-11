@@ -6,7 +6,7 @@ category: temples-shrines
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-temples-shrines-osaka-大阪寺廟神社巡禮-古韻之都的靈性故事-0b9318.html
 published: 2026-03-21
-quality_score: 6.5
+quality_score: 8.8
 tags: 大阪寺廟, 神社巡禮, 宗教文化, 聖德太子, 豐臣秀吉
 license: CC BY 4.0
 ---

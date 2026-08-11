@@ -6,7 +6,7 @@ category: ferries
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-ferries-hiroshima-廣島夜間渡輪-瀨戶內海的夕陽與星光航程-9980d9.html
 published: 2026-05-23
-quality_score: 7.5
+quality_score: 8.7
 tags: 廣島夜景, 瀨戶內海渡輪, 夕陽推薦, 宮島交通, 廣島自由行
 license: CC BY 4.0
 ---

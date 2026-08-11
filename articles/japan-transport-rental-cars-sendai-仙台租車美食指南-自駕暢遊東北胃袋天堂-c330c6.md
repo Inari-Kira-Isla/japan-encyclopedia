@@ -6,7 +6,7 @@ category: rental-cars
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-sendai-仙台租車美食指南-自駕暢遊東北胃袋天堂-c330c6.html
 published: 2026-06-19
-quality_score: 7.5
+quality_score: 8.9
 tags: 仙台租車, 東北自駕遊, 松島牡蠣, 鹽竈清酒, 女川港秋刀魚
 license: CC BY 4.0
 ---

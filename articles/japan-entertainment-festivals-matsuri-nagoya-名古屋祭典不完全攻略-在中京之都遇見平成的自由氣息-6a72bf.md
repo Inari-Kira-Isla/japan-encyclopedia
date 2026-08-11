@@ -6,7 +6,7 @@ category: festivals-matsuri
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-festivals-matsuri-nagoya-名古屋祭典不完全攻略-在中京之都遇見平成的自由氣息-6a72bf.html
 published: 2026-06-04
-quality_score: 6.5
+quality_score: 8.7
 tags: 名古屋祭典, 中部祭典, 日本祭典, 名古屋旅遊, 中京之都
 license: CC BY 4.0
 ---

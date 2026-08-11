@@ -6,7 +6,7 @@ category: anime-manga
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-osaka-大阪漫畫咖啡廳與同人誌秘境-御宅族的關西地下體驗-2b9086.html
 published: 2026-06-09
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪動漫, 漫畫咖啡廳, 同人誌, 日本橋, 御宅文化
 license: CC BY 4.0
 ---

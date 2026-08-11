@@ -6,7 +6,7 @@ category: shinkansen
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-tokyo-東京新娘道實用攻略-從東京出發的高速鐵路乘車指南-bbb22f.html
 published: 2026-06-08
-quality_score: 7.5
+quality_score: 8.5
 tags: 東京新娘道, 東京站, 日本鐵道, 東京交通, 自助旅行
 license: CC BY 4.0
 ---

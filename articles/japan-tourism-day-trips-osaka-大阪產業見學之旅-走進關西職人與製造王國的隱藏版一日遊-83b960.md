@@ -6,7 +6,7 @@ category: day-trips
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-osaka-大阪產業見學之旅-走進關西職人與製造王國的隱藏版一日遊-83b960.html
 published: 2026-07-02
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪一日遊, 產業見學, 關西深度遊, 職人體驗, 泉州毛巾
 license: CC BY 4.0
 ---

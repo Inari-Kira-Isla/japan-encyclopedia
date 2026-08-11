@@ -6,7 +6,7 @@ category: ferries
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-ferries-osaka-大阪渡輪指南-海上商務通勤與效率旅行-4a2fc5.html
 published: 2026-04-05
-quality_score: 7.5
+quality_score: 8.7
 tags: 大阪渡輪, 商務交通, 海上通勤
 license: CC BY 4.0
 ---

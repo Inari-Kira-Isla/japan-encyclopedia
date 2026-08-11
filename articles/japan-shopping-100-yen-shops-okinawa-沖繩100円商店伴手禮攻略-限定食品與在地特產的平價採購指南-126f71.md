@@ -6,7 +6,7 @@ category: 100-yen-shops
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-100-yen-shops-okinawa-沖繩100円商店伴手禮攻略-限定食品與在地特產的平價採購指南-126f71.html
 published: 2026-06-11
-quality_score: 7.5
+quality_score: 8.8
 tags: 沖繩購物, 100円商店, 伴手禮, 沖繩限定, 平價購物
 license: CC BY 4.0
 ---

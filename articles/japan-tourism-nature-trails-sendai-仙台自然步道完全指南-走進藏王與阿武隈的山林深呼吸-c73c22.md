@@ -6,7 +6,7 @@ category: nature-trails
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-sendai-仙台自然步道完全指南-走進藏王與阿武隈的山林深呼吸-c73c22.html
 published: 2026-06-19
-quality_score: 6.5
+quality_score: 8.5
 tags: 仙台自然步道, 藏王步道, 阿武隈溪谷, 日本森林浴, 仙台登山
 license: CC BY 4.0
 ---

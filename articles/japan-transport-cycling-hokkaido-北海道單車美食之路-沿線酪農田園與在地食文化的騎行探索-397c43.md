@@ -6,7 +6,7 @@ category: cycling
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-hokkaido-北海道單車美食之路-沿線酪農田園與在地食文化的騎行探索-397c43.html
 published: 2026-06-21
-quality_score: 7.5
+quality_score: 8.7
 tags: 北海道單車, 酪農體驗, 美食之旅, 夏季騎行, 牧場參觀
 license: CC BY 4.0
 ---

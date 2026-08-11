@@ -6,7 +6,7 @@ category: historical-districts
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-okinawa-沖繩歷史街區-從戰火重生到世遺保護的文化復興之路-1fe53a.html
 published: 2026-03-27
-quality_score: 6.5
+quality_score: 8.9
 tags: 沖繩旅遊, 琉球文化, 世界遺產, 歷史建築, 文化保護
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: airport-transfer
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-airport-transfer-kobe-神戶機場往返市區交通全攻略-根據你的行程選對方式-6e9100.html
 published: 2026-05-21
-quality_score: 7.5
+quality_score: 8.7
 tags: 神戶機場, 關西機場交通, Port Liner, 神戶往返市區, 關西国际机场交通
 license: CC BY 4.0
 ---

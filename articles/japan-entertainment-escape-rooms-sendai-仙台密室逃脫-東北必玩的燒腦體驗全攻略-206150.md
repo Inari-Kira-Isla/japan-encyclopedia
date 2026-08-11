@@ -6,7 +6,7 @@ category: escape-rooms
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-escape-rooms-sendai-仙台密室逃脫-東北必玩的燒腦體驗全攻略-206150.html
 published: 2026-06-02
-quality_score: 6.5
+quality_score: 8.8
 tags: 仙台, 密室逃脫, 东北旅游, 日本娱乐, 仙台站周边
 license: CC BY 4.0
 ---

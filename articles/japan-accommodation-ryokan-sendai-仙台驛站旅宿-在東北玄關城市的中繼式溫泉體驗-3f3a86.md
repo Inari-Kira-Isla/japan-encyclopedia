@@ -6,7 +6,7 @@ category: ryokan
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-sendai-仙台驛站旅宿-在東北玄關城市的中繼式溫泉體驗-3f3a86.html
 published: 2026-06-24
-quality_score: 6.5
+quality_score: 8.5
 tags: 仙台Ryokan, 東北溫泉, 秋保溫泉, 作並溫泉, 伊達文化
 license: CC BY 4.0
 ---

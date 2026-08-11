@@ -6,7 +6,7 @@ category: sake-brewery
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sake-brewery-okinawa-沖繩泡盛釀造廠-南國風土孕育的蒸餾酒王國-63524c.html
 published: 2026-07-01
-quality_score: 6.5
+quality_score: 8.9
 tags: 沖繩, 泡盛, 釀造廠, 蒸餾酒, 日本料理
 license: CC BY 4.0
 ---

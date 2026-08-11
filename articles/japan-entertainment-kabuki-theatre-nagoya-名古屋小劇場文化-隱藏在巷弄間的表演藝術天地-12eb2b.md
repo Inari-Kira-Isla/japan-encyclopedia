@@ -6,7 +6,7 @@ category: kabuki-theatre
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-kabuki-theatre-nagoya-名古屋小劇場文化-隱藏在巷弄間的表演藝術天地-12eb2b.html
 published: 2026-05-20
-quality_score: 6.5
+quality_score: 8.9
 tags: Nagoya, 小劇場, 表演藝術, 名古屋観光, 非主流景點
 license: CC BY 4.0
 ---

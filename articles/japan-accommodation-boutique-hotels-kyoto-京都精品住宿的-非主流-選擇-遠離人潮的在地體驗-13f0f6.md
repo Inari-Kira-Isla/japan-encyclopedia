@@ -6,7 +6,7 @@ category: boutique-hotels
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-kyoto-京都精品住宿的-非主流-選擇-遠離人潮的在地體驗-13f0f6.html
 published: 2026-06-21
-quality_score: 6.5
+quality_score: 8.5
 tags: 京都精品住宿, 京都非主流住宿, 京都不為人知的住宿, 町屋住宿, 京都設計住宿
 license: CC BY 4.0
 ---

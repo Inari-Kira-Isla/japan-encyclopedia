@@ -6,7 +6,7 @@ category: sushi
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sushi-kanazawa-金澤壽司-石川縣民的海味日常與職人餐桌-478b81.html
 published: 2026-06-16
-quality_score: 6.5
+quality_score: 8.4
 tags: 金澤壽司, 石川縣美食, 近江町市場, 日本海鮮, 加賀料理
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: tonkatsu
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tonkatsu-sendai-仙台-tonkatsu-的平民美食地圖-四季食材與消費文化的角度-2c8026.html
 published: 2026-03-24
-quality_score: 6.5
+quality_score: 8.6
 tags: 仙台美食, 日式洋食, Tonkatsu, 宮城縣, 東北飲食文化
 license: CC BY 4.0
 ---

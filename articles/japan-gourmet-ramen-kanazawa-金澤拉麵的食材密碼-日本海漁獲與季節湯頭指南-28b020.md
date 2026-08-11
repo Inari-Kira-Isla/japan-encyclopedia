@@ -6,7 +6,7 @@ category: ramen
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-ramen-kanazawa-金澤拉麵的食材密碼-日本海漁獲與季節湯頭指南-28b020.html
 published: 2026-03-23
-quality_score: 6.5
+quality_score: 8.4
 tags: 金澤美食, 日本拉麵, 季節食材, 日本海漁獲, 石川縣
 license: CC BY 4.0
 ---

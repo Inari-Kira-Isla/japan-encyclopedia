@@ -6,7 +6,7 @@ category: matcha-sweets
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-matcha-sweets-kyoto-京都抹茶甜點-四季職人技藝的味覺密碼-d6445d.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.4
 tags: 京都美食, 抹茶甜點, 季節限定, 職人技藝, 美食評鑑
 license: CC BY 4.0
 ---

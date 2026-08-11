@@ -6,7 +6,7 @@ category: ferries
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-ferries-kanazawa-kanazawa-ferries-51dab5-1779598129.html
 published: 2026-05-24
-quality_score: 6.5
+quality_score: 0.0
 tags: ferries, kanazawa, japan
 license: CC BY 4.0
 ---

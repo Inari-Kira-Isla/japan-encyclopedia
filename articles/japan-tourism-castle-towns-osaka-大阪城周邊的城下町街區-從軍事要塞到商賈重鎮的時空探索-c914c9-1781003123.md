@@ -6,7 +6,7 @@ category: castle-towns
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-castle-towns-osaka-大阪城周邊的城下町街區-從軍事要塞到商賈重鎮的時空探索-c914c9-1781003123.html
 published: 2026-06-09
-quality_score: 6.5
+quality_score: 8.6
 tags: 大阪城, 城下町, 歷史街區, 大阪旅行, 商人之城
 license: CC BY 4.0
 ---

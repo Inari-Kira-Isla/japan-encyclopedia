@@ -6,7 +6,7 @@ category: depachika
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-depachika-nara-奈良を朝から食べる-晨間散步ルートと早餐推奨-b4ae93.html
 published: 2026-05-24
-quality_score: 6.5
+quality_score: 8.8
 tags: 奈良朝食, 古都歩き, 旅遊schedule, 大阪から日帰り,  значение кулинарного туризма
 license: CC BY 4.0
 ---

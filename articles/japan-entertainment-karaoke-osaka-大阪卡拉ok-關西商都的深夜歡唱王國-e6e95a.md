@@ -6,7 +6,7 @@ category: karaoke
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-karaoke-osaka-大阪卡拉ok-關西商都的深夜歡唱王國-e6e95a.html
 published: 2026-04-04
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪卡拉OK, 關西娛樂, 日本夜生活, 商都文化, 音樂娛樂
 license: CC BY 4.0
 ---

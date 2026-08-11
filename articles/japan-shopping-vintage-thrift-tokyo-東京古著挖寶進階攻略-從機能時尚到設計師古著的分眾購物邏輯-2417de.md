@@ -6,7 +6,7 @@ category: vintage-thrift
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-vintage-thrift-tokyo-東京古著挖寶進階攻略-從機能時尚到設計師古著的分眾購物邏輯-2417de.html
 published: 2026-05-22
-quality_score: 7.5
+quality_score: 8.7
 tags: 東京古著, Vintage Thrift, 東京購物, 古著推薦, 復古時尚
 license: CC BY 4.0
 ---

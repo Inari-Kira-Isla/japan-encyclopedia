@@ -6,7 +6,7 @@ category: souvenir-omiyage
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-souvenir-omiyage-okinawa-沖繩伴手禮完整指南-琉球王國的獨特美味與工藝-b17344.html
 published: 2026-03-15
-quality_score: 7.5
+quality_score: 8.7
 tags: 沖繩伴手禮, 琉球特產, 日本購物, 泡盛, 紅芋
 license: CC BY 4.0
 ---

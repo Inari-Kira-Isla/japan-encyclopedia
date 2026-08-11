@@ -6,7 +6,7 @@ category: cycling
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-kanazawa-金澤單車漫遊-古城巷弄與海岸風情的雙重風貌-83a2fb.html
 published: 2026-04-05
-quality_score: 7.5
+quality_score: 8.6
 tags: 金澤單車, 金澤cycling, 關西北陸單車, 金澤旅遊, 金澤城下町
 license: CC BY 4.0
 ---

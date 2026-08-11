@@ -6,7 +6,7 @@ category: ski-resorts
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-ski-resorts-osaka-奈良冬季旅遊真相-沒有滑雪場的奈良縣-如何享受冬日樂趣-e4ae64.html
 published: 2026-05-25
-quality_score: 6.5
+quality_score: 8.8
 tags: 奈良冬季旅遊, 奈良溫泉, 關西冬日體驗, 奈良非主流景點, 冬季日本溫泉
 license: CC BY 4.0
 ---

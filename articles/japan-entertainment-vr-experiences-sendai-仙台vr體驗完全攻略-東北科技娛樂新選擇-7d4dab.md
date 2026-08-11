@@ -6,7 +6,7 @@ category: vr-experiences
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-vr-experiences-sendai-仙台vr體驗完全攻略-東北科技娛樂新選擇-7d4dab.html
 published: 2026-05-21
-quality_score: 6.5
+quality_score: 8.7
 tags: 仙台VR, 東北娛樂, 虛擬實境, 杜之都, 仙台七夕
 license: CC BY 4.0
 ---

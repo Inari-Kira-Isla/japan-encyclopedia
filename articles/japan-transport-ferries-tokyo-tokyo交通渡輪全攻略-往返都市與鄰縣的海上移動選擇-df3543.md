@@ -6,7 +6,7 @@ category: ferries
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-ferries-tokyo-tokyo交通渡輪全攻略-往返都市與鄰縣的海上移動選擇-df3543.html
 published: 2026-05-22
-quality_score: 7.5
+quality_score: 7.8
 tags: Tokyo交通, Tokyo灣, 海上交通, Ferry, 千葉橫濱
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: unique-accommodation
 area: japan
 url: https://japan-encyclopedia.vercel.app/articles/japan-hotels-unique-accommodation-京都町家住宿完整指南2026-如何預訂京都傳統町家-費用-jpy-15-000-80-000-5f512b.html
 published: 2026-04-13
-quality_score: 7.1
+quality_score: 8.4
 tags: 京都町家, 京都傳統住宿, 京都machiya, 京都旅館, 日本特色住宿
 license: CC BY 4.0
 ---

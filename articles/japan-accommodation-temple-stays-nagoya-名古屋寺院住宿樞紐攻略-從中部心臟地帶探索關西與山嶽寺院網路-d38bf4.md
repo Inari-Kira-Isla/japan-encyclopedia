@@ -6,7 +6,7 @@ category: temple-stays
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-temple-stays-nagoya-名古屋寺院住宿樞紐攻略-從中部心臟地帶探索關西與山嶽寺院網路-d38bf4.html
 published: 2026-06-28
-quality_score: 6.5
+quality_score: 8.6
 tags: 名古屋住宿, 寺院住宿, 日本中部旅遊, 白山比叡寺, 熊野古道
 license: CC BY 4.0
 ---

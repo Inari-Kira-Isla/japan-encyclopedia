@@ -6,7 +6,7 @@ category: whisky-culture
 area: japan
 url: https://japan-encyclopedia.vercel.app/articles/japan-food-whisky-culture-日本威士忌完整指南2026-山崎蒸溜所-宮城峽-山崎12年-日本威士忌文化費用-jpy-攻略-jp-japa-cc0070.html
 published: 2026-03-31
-quality_score: 7.1
+quality_score: 8.7
 tags: 日本威士忌, 山崎蒸溜所, Nikka, 三得利, 日本酒文化
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: wagyu
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-wagyu-osaka-大阪和牛不完全指南-從新世界到阿倍野-這些店當地人藏著吃-ed7eeb.html
 published: 2026-06-21
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪和牛, 大阪美食, 燒肉, 天王寺, 新世界
 license: CC BY 4.0
 ---

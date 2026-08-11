@@ -6,7 +6,7 @@ category: izakaya
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-izakaya-osaka-大阪朝締め早酒-天王寺至鶴橋-清晨開始的在地酒場體驗-c18cff.html
 published: 2026-06-05
-quality_score: 6.5
+quality_score: 8.6
 tags: 大阪居酒屋, 朝締め, 天王寺美食, 鶴橋烤雞肉串, 新世界串炸
 license: CC BY 4.0
 ---

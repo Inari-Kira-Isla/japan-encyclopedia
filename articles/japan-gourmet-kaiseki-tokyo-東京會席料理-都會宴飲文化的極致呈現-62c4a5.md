@@ -6,7 +6,7 @@ category: kaiseki
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-kaiseki-tokyo-東京會席料理-都會宴飲文化的極致呈現-62c4a5.html
 published: 2026-06-30
-quality_score: 6.5
+quality_score: 8.6
 tags: 東京會席, 料亭文化, 日本橋, 赤坂美食, 米其林
 license: CC BY 4.0
 ---

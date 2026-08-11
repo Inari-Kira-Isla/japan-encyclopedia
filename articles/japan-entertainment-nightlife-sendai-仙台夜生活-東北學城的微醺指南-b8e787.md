@@ -6,7 +6,7 @@ category: nightlife
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-sendai-仙台夜生活-東北學城的微醺指南-b8e787.html
 published: 2026-06-02
-quality_score: 6.5
+quality_score: 8.7
 tags: 仙台夜生活, 東北夜生活指南, 日本學都酒吧推薦, 仙台美食, 上山溫泉
 license: CC BY 4.0
 ---

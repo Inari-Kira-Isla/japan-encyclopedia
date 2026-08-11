@@ -6,7 +6,7 @@ category: depachika
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-depachika-kanazawa-金澤depachika選物指南-從加賀好緒到金箔甜點-在地下商場挖掘限定美味-24e7a2.html
 published: 2026-07-04
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤Depachika, 加賀野菜, 金澤美食, 金箔伴手禮, 能登海鮮
 license: CC BY 4.0
 ---

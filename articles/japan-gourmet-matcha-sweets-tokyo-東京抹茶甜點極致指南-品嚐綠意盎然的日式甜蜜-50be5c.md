@@ -6,7 +6,7 @@ category: matcha-sweets
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-matcha-sweets-tokyo-東京抹茶甜點極致指南-品嚐綠意盎然的日式甜蜜-50be5c.html
 published: 2026-03-14
-quality_score: 6.5
+quality_score: 8.6
 tags: 東京美食, 抹茶甜點, 日本甜點, 東京咖啡廳, 抹茶霜淇淋
 license: CC BY 4.0
 ---

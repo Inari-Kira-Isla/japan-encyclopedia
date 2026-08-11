@@ -6,7 +6,7 @@ category: depachika
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-depachika-hokkaido-北海道depachika-海味與鍋物的雪國歲末尾牙-f781a6.html
 published: 2026-05-25
-quality_score: 6.5
+quality_score: 8.8
 tags: 北海道_depachika, 日本美食, 札幌美食, 北海道海鮮, 日本超市
 license: CC BY 4.0
 ---

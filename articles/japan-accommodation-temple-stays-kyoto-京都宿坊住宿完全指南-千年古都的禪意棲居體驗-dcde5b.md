@@ -6,7 +6,7 @@ category: temple-stays
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-temple-stays-kyoto-京都宿坊住宿完全指南-千年古都的禪意棲居體驗-dcde5b.html
 published: 2026-06-29
-quality_score: 6.5
+quality_score: 8.5
 tags: 京都住宿, 寺廟住宿, 宿坊, 京都旅遊, 禪修體驗
 license: CC BY 4.0
 ---

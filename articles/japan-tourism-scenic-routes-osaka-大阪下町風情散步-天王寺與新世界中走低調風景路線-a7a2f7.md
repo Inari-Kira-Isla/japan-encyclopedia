@@ -6,7 +6,7 @@ category: scenic-routes
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-osaka-大阪下町風情散步-天王寺與新世界中走低調風景路線-a7a2f7.html
 published: 2026-06-12
-quality_score: 6.5
+quality_score: 8.9
 tags: 大阪, 下町散步, 天王寺, 新世界, 通天閣
 license: CC BY 4.0
 ---

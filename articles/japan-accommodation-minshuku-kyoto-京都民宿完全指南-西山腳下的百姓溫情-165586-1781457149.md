@@ -6,7 +6,7 @@ category: minshuku
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-kyoto-京都民宿完全指南-西山腳下的百姓溫情-165586-1781457149.html
 published: 2026-06-14
-quality_score: 6.5
+quality_score: 8.7
 tags: 京都民宿, 西山腳下, 洛中市區, 町家住宿, 日本文化體驗
 license: CC BY 4.0
 ---

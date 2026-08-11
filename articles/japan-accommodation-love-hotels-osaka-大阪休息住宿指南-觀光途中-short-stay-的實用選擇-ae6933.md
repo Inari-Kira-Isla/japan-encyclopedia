@@ -6,7 +6,7 @@ category: love-hotels
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-love-hotels-osaka-大阪休息住宿指南-觀光途中-short-stay-的實用選擇-ae6933.html
 published: 2026-06-07
-quality_score: 6.5
+quality_score: 8.5
 tags: 大阪休息住宿, 大阪休憩, 大阪Short Stay, 難波住宿, 心齋橋住宿
 license: CC BY 4.0
 ---

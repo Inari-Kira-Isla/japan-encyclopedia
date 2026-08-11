@@ -6,7 +6,7 @@ category: temples-shrines
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-temples-shrines-hokkaido-北海道功能性神社完全攻略-從海上安全到雪山祈福的實用指南-91a2d1.html
 published: 2026-04-06
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道神社, 功能性祈願, 海上安全, 雪山祈福, 農業豐收
 license: CC BY 4.0
 ---

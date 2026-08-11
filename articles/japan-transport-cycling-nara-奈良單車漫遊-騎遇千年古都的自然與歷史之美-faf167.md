@@ -6,7 +6,7 @@ category: cycling
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-nara-奈良單車漫遊-騎遇千年古都的自然與歷史之美-faf167.html
 published: 2026-03-15
-quality_score: 7.5
+quality_score: 8.7
 tags: 奈良, 單車旅行, 日本自行車, 奈良公園, 世界文化遺產
 license: CC BY 4.0
 ---

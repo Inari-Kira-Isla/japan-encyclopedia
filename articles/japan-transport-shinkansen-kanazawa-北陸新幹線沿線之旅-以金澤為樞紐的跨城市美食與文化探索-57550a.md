@@ -6,7 +6,7 @@ category: shinkansen
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-kanazawa-北陸新幹線沿線之旅-以金澤為樞紐的跨城市美食與文化探索-57550a.html
 published: 2026-03-24
-quality_score: 7.5
+quality_score: 8.6
 tags: 北陸新幹線, 金澤旅遊, 日本鐵路, 跨城市之旅, 美食體驗
 license: CC BY 4.0
 ---

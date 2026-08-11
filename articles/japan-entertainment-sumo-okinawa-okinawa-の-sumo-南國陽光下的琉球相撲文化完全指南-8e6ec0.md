@@ -6,7 +6,7 @@ category: sumo
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-okinawa-okinawa-の-sumo-南國陽光下的琉球相撲文化完全指南-8e6ec0.html
 published: 2026-05-24
-quality_score: 6.5
+quality_score: 8.7
 tags: 沖繩相撲, 琉球文化, 手組,  Tegumi, 日本相撲
 license: CC BY 4.0
 ---

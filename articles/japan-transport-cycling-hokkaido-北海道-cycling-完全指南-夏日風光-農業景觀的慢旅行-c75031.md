@@ -6,7 +6,7 @@ category: cycling
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-hokkaido-北海道-cycling-完全指南-夏日風光-農業景觀的慢旅行-c75031.html
 published: 2026-06-01
-quality_score: 7.5
+quality_score: 8.7
 tags: 北海道騎行, 北海道 Cycling, 美瑛自行車道, 富良野騎行, 北海道親子遊
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: anime-manga
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-kobe-神戶動漫聖地巡禮-港都動漫迷的隱藏版朝聖指南-f1baf9.html
 published: 2026-06-12
-quality_score: 6.5
+quality_score: 8.7
 tags: 神戶動漫, 聖地巡禮, 神戶旅遊, 動漫主題餐廳, 港都動漫
 license: CC BY 4.0
 ---

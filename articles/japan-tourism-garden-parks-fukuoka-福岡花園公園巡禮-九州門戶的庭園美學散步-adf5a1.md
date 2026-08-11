@@ -6,7 +6,7 @@ category: garden-parks
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-fukuoka-福岡花園公園巡禮-九州門戶的庭園美學散步-adf5a1.html
 published: 2026-05-25
-quality_score: 6.5
+quality_score: 8.8
 tags: 福岡, 花園公園, 日本庭園, 日本旅遊, 九州自由行
 license: CC BY 4.0
 ---

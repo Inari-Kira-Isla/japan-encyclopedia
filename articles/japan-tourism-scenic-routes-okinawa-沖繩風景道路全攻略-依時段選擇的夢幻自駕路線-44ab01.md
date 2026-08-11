@@ -6,7 +6,7 @@ category: scenic-routes
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-okinawa-沖繩風景道路全攻略-依時段選擇的夢幻自駕路線-44ab01.html
 published: 2026-05-22
-quality_score: 6.5
+quality_score: 8.8
 tags: 沖繩自駕, 風景道路, Scenic Routes, 日出景點, 黄錯
 license: CC BY 4.0
 ---

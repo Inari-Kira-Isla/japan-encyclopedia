@@ -6,7 +6,7 @@ category: souvenir-omiyage
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-souvenir-omiyage-kanazawa-金澤車站周邊伴手禮攻略-5分鐘步行圈內的實用採購指南-f3e49a.html
 published: 2026-07-02
-quality_score: 7.5
+quality_score: 8.6
 tags: 金澤伴手禮, 金澤車站, 近江町市場, 加賀棒茶, 金澤金箔
 license: CC BY 4.0
 ---

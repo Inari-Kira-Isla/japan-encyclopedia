@@ -6,7 +6,7 @@ category: jr-pass
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-jr-pass-sendai-仙台jr-pass值得買嗎-用資料幫你算一算-b0e162.html
 published: 2026-07-06
-quality_score: 7.5
+quality_score: 8.7
 tags: JR Pass, 仙台, 東北鐵路, 山形, 青森
 license: CC BY 4.0
 ---

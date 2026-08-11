@@ -6,7 +6,7 @@ category: duty-free
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-duty-free-kyoto-京都伴手禮免稅購物完全指南-傳統甜點與茶葉的必敗清單-28bd43.html
 published: 2026-06-06
-quality_score: 7.5
+quality_score: 8.8
 tags: 京都免稅, 京都伴手禮, 抹茶推薦, 和果子, 京都購物指南
 license: CC BY 4.0
 ---

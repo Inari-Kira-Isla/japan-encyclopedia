@@ -6,7 +6,7 @@ category: scenic-routes
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-kanazawa-金澤攝影景觀路線-捕捉古都四季光影的完美視角-3556be.html
 published: 2026-04-07
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤攝影, 日本景觀, 城市攝影, 季節光影, 攝影路線
 license: CC BY 4.0
 ---

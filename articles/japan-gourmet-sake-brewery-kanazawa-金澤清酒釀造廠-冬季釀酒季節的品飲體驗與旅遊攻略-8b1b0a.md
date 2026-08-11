@@ -6,7 +6,7 @@ category: sake-brewery
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sake-brewery-kanazawa-金澤清酒釀造廠-冬季釀酒季節的品飲體驗與旅遊攻略-8b1b0a.html
 published: 2026-06-14
-quality_score: 6.5
+quality_score: 8.5
 tags: 金澤清酒, 石川縣釀酒, 日本海側清酒, 寒釀り, 金澤美食
 license: CC BY 4.0
 ---

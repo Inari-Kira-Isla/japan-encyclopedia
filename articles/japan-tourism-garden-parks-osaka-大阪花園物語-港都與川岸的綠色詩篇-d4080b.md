@@ -6,7 +6,7 @@ category: garden-parks
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-osaka-大阪花園物語-港都與川岸的綠色詩篇-d4080b.html
 published: 2026-06-29
-quality_score: 6.5
+quality_score: 8.6
 tags: 大阪花園, 大阪公園, 水岸綠地, 城市綠洲, 大阪旅遊
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: matcha-sweets
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-matcha-sweets-kobe-神戶抹茶甜點-開港洋風與和魂的甜蜜交融-e14772.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.8
 tags: 神戶美食, 抹茶甜點, 洋菓子, 港都文化, 和洋fusion
 license: CC BY 4.0
 ---

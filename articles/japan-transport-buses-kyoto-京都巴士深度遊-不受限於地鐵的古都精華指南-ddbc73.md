@@ -6,7 +6,7 @@ category: buses
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-buses-kyoto-京都巴士深度遊-不受限於地鐵的古都精華指南-ddbc73.html
 published: 2026-05-23
-quality_score: 7.5
+quality_score: 8.8
 tags: 京都, 巴士, 自助遊, 關西, 旅遊攻略
 license: CC BY 4.0
 ---

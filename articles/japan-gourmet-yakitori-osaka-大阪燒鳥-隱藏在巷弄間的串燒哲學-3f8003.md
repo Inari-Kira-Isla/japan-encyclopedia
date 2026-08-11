@@ -6,7 +6,7 @@ category: yakitori
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-yakitori-osaka-大阪燒鳥-隱藏在巷弄間的串燒哲學-3f8003.html
 published: 2026-05-31
-quality_score: 6.5
+quality_score: 8.9
 tags: 大阪燒鳥, 大阪美食, 串燒, 大阪餐廳, 關西美食
 license: CC BY 4.0
 ---

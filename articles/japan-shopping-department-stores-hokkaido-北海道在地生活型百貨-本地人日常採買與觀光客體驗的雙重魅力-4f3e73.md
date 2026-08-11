@@ -6,7 +6,7 @@ category: department-stores
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-department-stores-hokkaido-北海道在地生活型百貨-本地人日常採買與觀光客體驗的雙重魅力-4f3e73.html
 published: 2026-07-04
-quality_score: 7.5
+quality_score: 8.7
 tags: 北海道購物, 札幌百货公司, 日本百货攻略, 北海道伴手禮, 帶廣購物
 license: CC BY 4.0
 ---

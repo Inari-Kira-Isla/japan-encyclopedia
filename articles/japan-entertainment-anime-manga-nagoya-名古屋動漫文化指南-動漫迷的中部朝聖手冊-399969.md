@@ -6,7 +6,7 @@ category: anime-manga
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-nagoya-名古屋動漫文化指南-動漫迷的中部朝聖手冊-399969.html
 published: 2026-05-31
-quality_score: 6.5
+quality_score: 8.8
 tags: 名古屋動漫, 名古屋動漫店鋪, 日本動漫旅遊, 中部動漫朝聖, 名古屋漫畫咖啡廳
 license: CC BY 4.0
 ---

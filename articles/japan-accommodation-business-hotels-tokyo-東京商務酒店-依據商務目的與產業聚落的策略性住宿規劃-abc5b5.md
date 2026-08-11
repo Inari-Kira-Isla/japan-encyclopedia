@@ -6,7 +6,7 @@ category: business-hotels
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-business-hotels-tokyo-東京商務酒店-依據商務目的與產業聚落的策略性住宿規劃-abc5b5.html
 published: 2026-06-07
-quality_score: 6.5
+quality_score: 8.5
 tags: 東京商務酒店, 出差住宿, 東京產業聚落, 商務旅客, 展會住宿
 license: CC BY 4.0
 ---

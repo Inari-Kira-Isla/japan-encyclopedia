@@ -6,7 +6,7 @@ category: castle-towns
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-castle-towns-osaka-大阪城下町-探索武家與商人交會的歷史街區-c8debb.html
 published: 2026-06-12
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪城下町, 城堡城鎮, 歷史街區, 關西觀光, 武家文化
 license: CC BY 4.0
 ---

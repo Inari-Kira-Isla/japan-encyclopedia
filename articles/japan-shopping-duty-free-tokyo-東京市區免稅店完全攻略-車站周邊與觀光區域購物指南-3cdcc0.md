@@ -6,7 +6,7 @@ category: duty-free
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-duty-free-tokyo-東京市區免稅店完全攻略-車站周邊與觀光區域購物指南-3cdcc0.html
 published: 2026-06-23
-quality_score: 7.5
+quality_score: 8.5
 tags: 東京免稅店, 新宿藥妝店, 秋葉原購物, 上野阿美橫, 淺草伴手禮
 license: CC BY 4.0
 ---

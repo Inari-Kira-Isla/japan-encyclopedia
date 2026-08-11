@@ -6,7 +6,7 @@ category: ski-resorts
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-ski-resorts-hokkaido-北海道滑雪場交通指南-從新千歲機場與札幌出發的便捷滑雪攻略-6a7515.html
 published: 2026-06-07
-quality_score: 6.5
+quality_score: 8.5
 tags: 北海道滑雪場, 二世古滑雪場, 札幌滑雪, 新千歲機場滑雪交通, 北海道粉雪
 license: CC BY 4.0
 ---

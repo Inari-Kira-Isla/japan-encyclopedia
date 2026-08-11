@@ -6,7 +6,7 @@ category: boutique-hotels
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-sendai-仙台精品酒店完全指南-藏在東北小京都的質感棲居-c57ba0-1780456535.html
 published: 2026-06-03
-quality_score: 6.5
+quality_score: 8.4
 tags: 仙台精品酒店, 日本東北住宿, 杜之都仙台, 仙台旅游,  Bouti
 license: CC BY 4.0
 ---

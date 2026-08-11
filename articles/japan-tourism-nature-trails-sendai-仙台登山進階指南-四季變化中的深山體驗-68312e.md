@@ -6,7 +6,7 @@ category: nature-trails
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-sendai-仙台登山進階指南-四季變化中的深山體驗-68312e.html
 published: 2026-03-23
-quality_score: 6.5
+quality_score: 8.9
 tags: 仙台, 登山步道, 四季體驗, 藥萊山, 北上川峽谷
 license: CC BY 4.0
 ---

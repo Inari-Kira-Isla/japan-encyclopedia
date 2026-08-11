@@ -6,7 +6,7 @@ category: historical-districts
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-osaka-大阪歷史街區-從晨起到深夜的町人生活時間學-4e65a4.html
 published: 2026-05-22
-quality_score: 6.5
+quality_score: 8.6
 tags: 大阪歷史街區, 大阪自由行, 町人文化, 黑門市場, 天滿橋
 license: CC BY 4.0
 ---

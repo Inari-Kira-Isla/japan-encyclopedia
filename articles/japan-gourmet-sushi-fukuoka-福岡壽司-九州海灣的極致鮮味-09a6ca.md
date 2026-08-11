@@ -6,7 +6,7 @@ category: sushi
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sushi-fukuoka-福岡壽司-九州海灣的極致鮮味-09a6ca.html
 published: 2026-03-21
-quality_score: 6.5
+quality_score: 8.5
 tags: 日本美食, 福岡, 壽司, 玄界灘, 有明海
 license: CC BY 4.0
 ---

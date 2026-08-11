@@ -6,7 +6,7 @@ category: tonkatsu
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tonkatsu-kanazawa-金澤炸豬排-加賀百萬石文化孕育的洋食風景-14571b.html
 published: 2026-06-24
-quality_score: 6.5
+quality_score: 8.9
 tags: 金澤炸豬排, 加賀料理, 石川縣美食, 金箔美食, 日式洋食
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: nature-trails
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-hokkaido-北海道四季自然步道-從山嶽到濕原的完整徒步指南-2b8edd.html
 published: 2026-06-03
-quality_score: 6.5
+quality_score: 8.5
 tags: 北海道, 自然步道, 徒步, 日本登山, 濕原
 license: CC BY 4.0
 ---

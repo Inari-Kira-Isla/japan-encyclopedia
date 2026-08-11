@@ -6,7 +6,7 @@ category: yakitori
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-yakitori-okinawa-沖繩燒鳥的在地邏輯-為什麼這座島嶼的串燒不一樣-55c087.html
 published: 2026-06-21
-quality_score: 6.5
+quality_score: 8.7
 tags: 沖繩美食, 燒鳥推薦, 沖繩自駕, 亞熱帶美食, Agu豬
 license: CC BY 4.0
 ---

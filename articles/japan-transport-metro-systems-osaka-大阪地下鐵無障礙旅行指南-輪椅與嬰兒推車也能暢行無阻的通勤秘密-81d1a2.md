@@ -6,7 +6,7 @@ category: metro-systems
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-osaka-大阪地下鐵無障礙旅行指南-輪椅與嬰兒推車也能暢行無阻的通勤秘密-81d1a2.html
 published: 2026-06-05
-quality_score: 7.5
+quality_score: 8.6
 tags: 大阪地下鐵, 無障礙旅遊, 輪椅旅行, 親子旅客, Osaka Metro
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: temples-shrines
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-temples-shrines-osaka-大阪寺廟神社與日常美食-祈福與口福的街頭巡禮-cb6659.html
 published: 2026-06-06
-quality_score: 6.5
+quality_score: 8.8
 tags: 大阪寺廟神社, 大阪宗教旅遊, 大阪能量場域, 大阪御守推薦, 大阪信仰經濟學
 license: CC BY 4.0
 ---

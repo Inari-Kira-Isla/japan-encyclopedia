@@ -6,7 +6,7 @@ category: ski-resorts
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-ski-resorts-sendai-仙台滑雪場全攻略-從交通樞紐出發的雪場選擇指南-6c28cf.html
 published: 2026-06-14
-quality_score: 6.5
+quality_score: 8.8
 tags: 仙台滑雪場, 東北滑雪, 藏王溫泉滑雪場, 八甲田滑雪場, 安比高原滑雪場
 license: CC BY 4.0
 ---

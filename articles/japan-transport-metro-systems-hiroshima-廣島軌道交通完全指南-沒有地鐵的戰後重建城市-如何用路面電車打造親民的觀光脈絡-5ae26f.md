@@ -6,7 +6,7 @@ category: metro-systems
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-hiroshima-廣島軌道交通完全指南-沒有地鐵的戰後重建城市-如何用路面電車打造親民的觀光脈絡-5ae26f.html
 published: 2026-06-23
-quality_score: 7.5
+quality_score: 8.7
 tags: 廣島電鐵, 路面電車, 廣島交通, 廣島觀光, 日本軌道交通
 license: CC BY 4.0
 ---

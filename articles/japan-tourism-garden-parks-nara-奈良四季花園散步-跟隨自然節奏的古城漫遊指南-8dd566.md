@@ -6,7 +6,7 @@ category: garden-parks
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-nara-奈良四季花園散步-跟隨自然節奏的古城漫遊指南-8dd566.html
 published: 2026-06-29
-quality_score: 6.5
+quality_score: 8.7
 tags: 奈良, 花園公園, 賞櫻, 賞楓, 日本古都
 license: CC BY 4.0
 ---

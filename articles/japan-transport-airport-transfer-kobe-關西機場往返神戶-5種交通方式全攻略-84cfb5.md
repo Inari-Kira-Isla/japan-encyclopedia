@@ -6,7 +6,7 @@ category: airport-transfer
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-airport-transfer-kobe-關西機場往返神戶-5種交通方式全攻略-84cfb5.html
 published: 2026-06-01
-quality_score: 7.5
+quality_score: 8.5
 tags: 神戶, 關西機場, 機場交通, JR, 南海電鐵
 license: CC BY 4.0
 ---

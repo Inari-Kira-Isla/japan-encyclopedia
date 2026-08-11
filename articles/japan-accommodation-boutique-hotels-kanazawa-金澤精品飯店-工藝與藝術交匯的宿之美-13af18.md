@@ -6,7 +6,7 @@ category: boutique-hotels
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-kanazawa-金澤精品飯店-工藝與藝術交匯的宿之美-13af18.html
 published: 2026-05-31
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤精品飯店, 石川縣住宿, 加賀百萬石, 日本溫泉, 北陸旅行
 license: CC BY 4.0
 ---

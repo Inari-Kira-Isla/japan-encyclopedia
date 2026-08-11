@@ -6,7 +6,7 @@ category: craft-markets
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-craft-markets-kanazawa-金澤晨間工藝市集-體驗加賀百萬石生活美學的在地方式-cff853.html
 published: 2026-05-25
-quality_score: 7.5
+quality_score: 8.7
 tags: 金澤工藝市集, 加賀百萬石, 晨間市集, 日本傳統工藝, 石川縣
 license: CC BY 4.0
 ---

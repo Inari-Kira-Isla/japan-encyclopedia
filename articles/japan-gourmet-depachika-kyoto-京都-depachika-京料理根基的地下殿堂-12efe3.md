@@ -6,7 +6,7 @@ category: depachika
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-depachika-kyoto-京都-depachika-京料理根基的地下殿堂-12efe3.html
 published: 2026-06-19
-quality_score: 6.5
+quality_score: 8.7
 tags: 京都, Depachika, 京料理, 地下食品街, 和果子
 license: CC BY 4.0
 ---

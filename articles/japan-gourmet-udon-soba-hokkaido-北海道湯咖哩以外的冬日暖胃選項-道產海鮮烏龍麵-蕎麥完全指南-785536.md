@@ -6,7 +6,7 @@ category: udon-soba
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-udon-soba-hokkaido-北海道湯咖哩以外的冬日暖胃選項-道產海鮮烏龍麵-蕎麥完全指南-785536.html
 published: 2026-05-25
-quality_score: 6.5
+quality_score: 8.8
 tags: 北海道美食, 烏龍麵, 蕎麥麵, 札幌, 小樽
 license: CC BY 4.0
 ---

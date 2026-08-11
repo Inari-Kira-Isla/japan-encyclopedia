@@ -6,7 +6,7 @@ category: festivals-matsuri
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-festivals-matsuri-hokkaido-北海道雪祭深潛攻略-避開人潮的在地冰雪慶典與小眾體驗-04ef98.html
 published: 2026-06-28
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道祭典, 小樽雪燈之路, 層雲峽冰瀑祭, 帶廣十勝火祭, 稚內日本海祭
 license: CC BY 4.0
 ---

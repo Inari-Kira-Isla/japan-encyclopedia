@@ -6,7 +6,7 @@ category: okonomiyaki
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-okonomiyaki-tokyo-東京御好燒-關西名物的都會變奏-1199c0.html
 published: 2026-06-25
-quality_score: 6.5
+quality_score: 8.6
 tags: 東京美食, 御好燒, 關西料理, 新宿, 月島文字燒
 license: CC BY 4.0
 ---

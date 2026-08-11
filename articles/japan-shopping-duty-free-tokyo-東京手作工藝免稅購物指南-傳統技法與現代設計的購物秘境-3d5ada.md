@@ -6,7 +6,7 @@ category: duty-free
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-duty-free-tokyo-東京手作工藝免稅購物指南-傳統技法與現代設計的購物秘境-3d5ada.html
 published: 2026-06-08
-quality_score: 7.5
+quality_score: 8.7
 tags: 東京免稅購物, 手作工藝, 合羽橋道具街, 淺草伴手禮, 日本橋三越
 license: CC BY 4.0
 ---

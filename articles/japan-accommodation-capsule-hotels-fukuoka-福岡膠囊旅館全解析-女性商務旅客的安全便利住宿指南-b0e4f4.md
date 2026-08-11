@@ -6,7 +6,7 @@ category: capsule-hotels
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-capsule-hotels-fukuoka-福岡膠囊旅館全解析-女性商務旅客的安全便利住宿指南-b0e4f4.html
 published: 2026-03-27
-quality_score: 6.5
+quality_score: 8.5
 tags: 福岡住宿, 膠囊旅館, 商務旅行, 女性安全, 九州旅遊
 license: CC BY 4.0
 ---

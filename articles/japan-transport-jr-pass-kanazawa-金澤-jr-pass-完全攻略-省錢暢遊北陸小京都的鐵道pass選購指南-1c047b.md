@@ -6,7 +6,7 @@ category: jr-pass
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-jr-pass-kanazawa-金澤-jr-pass-完全攻略-省錢暢遊北陸小京都的鐵道pass選購指南-1c047b.html
 published: 2026-06-01
-quality_score: 7.5
+quality_score: 8.6
 tags: 金澤JR Pass, 金澤交通, 北陸周遊券, 金澤自由行, JR關西北陸Pass
 license: CC BY 4.0
 ---

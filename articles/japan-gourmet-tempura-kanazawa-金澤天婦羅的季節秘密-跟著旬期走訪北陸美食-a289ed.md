@@ -6,7 +6,7 @@ category: tempura
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tempura-kanazawa-金澤天婦羅的季節秘密-跟著旬期走訪北陸美食-a289ed.html
 published: 2026-03-24
-quality_score: 6.5
+quality_score: 8.5
 tags: 金澤, 天婦羅, 日本美食, 季節海鮮, 北陸料理
 license: CC BY 4.0
 ---

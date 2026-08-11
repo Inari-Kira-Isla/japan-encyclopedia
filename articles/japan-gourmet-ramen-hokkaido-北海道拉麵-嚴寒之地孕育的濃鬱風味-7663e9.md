@@ -6,7 +6,7 @@ category: ramen
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-ramen-hokkaido-北海道拉麵-嚴寒之地孕育的濃鬱風味-7663e9.html
 published: 2026-06-02
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道拉麵, 札幌味噌拉麵, 函館鹽味拉麵, 旭川醬油拉麵, 日本美食
 license: CC BY 4.0
 ---

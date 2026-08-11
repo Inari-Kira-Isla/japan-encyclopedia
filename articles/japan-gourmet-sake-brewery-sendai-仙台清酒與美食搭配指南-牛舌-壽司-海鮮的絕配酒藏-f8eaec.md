@@ -6,7 +6,7 @@ category: sake-brewery
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sake-brewery-sendai-仙台清酒與美食搭配指南-牛舌-壽司-海鮮的絕配酒藏-f8eaec.html
 published: 2026-03-24
-quality_score: 6.5
+quality_score: 8.8
 tags: 仙台清酒, 日本東北美食, 清酒推薦, 宮城縣旅遊, 清酒配餐
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: matcha-sweets
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-matcha-sweets-fukuoka-福岡抹茶甜品・夜の-甘味と清醒の境界-c2440d.html
 published: 2026-06-21
-quality_score: 6.5
+quality_score: 8.5
 tags: 福岡抹茶甜品, 九州美食, 八女茶, 屋台文化, 夜間甜品
 license: CC BY 4.0
 ---

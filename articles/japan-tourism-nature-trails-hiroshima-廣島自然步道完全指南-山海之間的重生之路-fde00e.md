@@ -6,7 +6,7 @@ category: nature-trails
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-hiroshima-廣島自然步道完全指南-山海之間的重生之路-fde00e.html
 published: 2026-06-22
-quality_score: 6.5
+quality_score: 8.7
 tags: 廣島自然步道, 瀨戶內海步道, 宮島登山, 中國山地步道, 日本健行推薦
 license: CC BY 4.0
 ---

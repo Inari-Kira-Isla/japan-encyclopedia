@@ -6,7 +6,7 @@ category: vr-experiences
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-vr-experiences-tokyo-東京vr體驗完全攻略-沉浸式冒險樂園與特色場所推薦-bc5bac.html
 published: 2026-06-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京VR體驗, 東京景點, 東京親子遊, 東京娛樂, 沉浸式體驗
 license: CC BY 4.0
 ---

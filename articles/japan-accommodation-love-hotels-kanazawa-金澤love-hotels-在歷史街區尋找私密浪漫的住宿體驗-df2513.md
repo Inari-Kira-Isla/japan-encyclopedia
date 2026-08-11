@@ -6,7 +6,7 @@ category: love-hotels
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-love-hotels-kanazawa-金澤love-hotels-在歷史街區尋找私密浪漫的住宿體驗-df2513.html
 published: 2026-06-17
-quality_score: 6.5
+quality_score: 8.8
 tags: 金澤戀人旅宿, 石川縣住宿, 加賀百萬石, 東茶屋街, 隱密住宿
 license: CC BY 4.0
 ---

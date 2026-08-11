@@ -6,7 +6,7 @@ category: love-hotels
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-love-hotels-okinawa-沖繩love-hotels-島嶼度假的現代住宿選擇-31c3d7.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 沖繩住宿, Love Hotels, 度假住宿, 日本旅遊, 島嶼文化
 license: CC BY 4.0
 ---

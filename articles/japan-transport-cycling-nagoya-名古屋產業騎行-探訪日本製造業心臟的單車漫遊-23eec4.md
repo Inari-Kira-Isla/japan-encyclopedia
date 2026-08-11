@@ -6,7 +6,7 @@ category: cycling
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-nagoya-名古屋產業騎行-探訪日本製造業心臟的單車漫遊-23eec4.html
 published: 2026-06-19
-quality_score: 7.5
+quality_score: 8.8
 tags: 名古屋單車, 產業騎行, 工業旅遊, 名古屋自行車, 日本制造業
 license: CC BY 4.0
 ---

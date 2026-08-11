@@ -6,7 +6,7 @@ category: temple-stays
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-temple-stays-sendai-仙台寺廟住宿-四季禪風-體驗東北的自然靈性之旅-db3885.html
 published: 2026-07-01
-quality_score: 6.5
+quality_score: 8.7
 tags: 仙台住宿, 東北寺廟住宿, 日本禪修體驗, 宿坊推薦, 東北溫泉
 license: CC BY 4.0
 ---

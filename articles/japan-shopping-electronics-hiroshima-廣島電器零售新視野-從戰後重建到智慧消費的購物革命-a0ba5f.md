@@ -6,7 +6,7 @@ category: electronics
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-electronics-hiroshima-廣島電器零售新視野-從戰後重建到智慧消費的購物革命-a0ba5f.html
 published: 2026-04-04
-quality_score: 7.5
+quality_score: 8.8
 tags: 廣島購物, 電器零售, 免稅購物, 日本製造, 觀光購物
 license: CC BY 4.0
 ---

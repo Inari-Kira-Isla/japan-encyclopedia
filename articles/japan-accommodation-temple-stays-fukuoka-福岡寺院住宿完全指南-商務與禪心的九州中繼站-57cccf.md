@@ -6,7 +6,7 @@ category: temple-stays
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-temple-stays-fukuoka-福岡寺院住宿完全指南-商務與禪心的九州中繼站-57cccf.html
 published: 2026-06-24
-quality_score: 6.5
+quality_score: 8.5
 tags: 福岡, 寺院住宿, 九州, 禪修體驗, 太宰府
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: festivals-matsuri
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-festivals-matsuri-kobe-神戶冬夜祭典散步-港都燈火與異國風情的暖心之旅-898d0f.html
 published: 2026-06-19
-quality_score: 6.5
+quality_score: 8.7
 tags: 神戶祭典, 神戶光之祭典, 神戶冬季, 港都夜景, 神戶聖誕市集
 license: CC BY 4.0
 ---

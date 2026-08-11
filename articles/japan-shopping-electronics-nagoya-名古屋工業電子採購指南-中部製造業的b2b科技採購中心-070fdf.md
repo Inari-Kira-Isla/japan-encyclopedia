@@ -6,7 +6,7 @@ category: electronics
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-electronics-nagoya-名古屋工業電子採購指南-中部製造業的b2b科技採購中心-070fdf.html
 published: 2026-03-29
-quality_score: 7.5
+quality_score: 8.7
 tags: 名古屋, 工業電子, B2B採購, 製造業, 商務旅遊
 license: CC BY 4.0
 ---

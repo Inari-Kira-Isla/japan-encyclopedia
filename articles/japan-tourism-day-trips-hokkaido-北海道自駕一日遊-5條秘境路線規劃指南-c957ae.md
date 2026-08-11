@@ -6,7 +6,7 @@ category: day-trips
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-hokkaido-北海道自駕一日遊-5條秘境路線規劃指南-c957ae.html
 published: 2026-06-07
-quality_score: 6.5
+quality_score: 8.5
 tags: 北海道自駕, 支笏湖, 積丹半島, 美瑛, 羊蹄山
 license: CC BY 4.0
 ---

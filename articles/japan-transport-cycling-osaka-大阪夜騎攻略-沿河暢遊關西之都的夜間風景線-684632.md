@@ -6,7 +6,7 @@ category: cycling
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-osaka-大阪夜騎攻略-沿河暢遊關西之都的夜間風景線-684632.html
 published: 2026-06-03
-quality_score: 7.5
+quality_score: 8.7
 tags: 大阪單車, 關西夜遊, 大阪夜景, 河岸單車道, 大阪自由行
 license: CC BY 4.0
 ---

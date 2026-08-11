@@ -6,7 +6,7 @@ category: island-hopping
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-island-hopping-hokkaido-北海道北方的花與山-利尻禮文跳島的自然美學-cdf85d.html
 published: 2026-06-09
-quality_score: 6.5
+quality_score: 8.5
 tags: 北海道跳島, 利自理島, 禮文島, 自然生態, 登山
 license: CC BY 4.0
 ---

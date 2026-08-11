@@ -6,7 +6,7 @@ category: capsule-hotels
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-capsule-hotels-kanazawa-金澤膠囊旅館設計美學-當傳統工藝遇見現代住宿空間-2f2565.html
 published: 2026-03-28
-quality_score: 6.5
+quality_score: 8.8
 tags: 金澤住宿, 膠囊旅館, 日式美學, 工藝文化, 設計旅館
 license: CC BY 4.0
 ---

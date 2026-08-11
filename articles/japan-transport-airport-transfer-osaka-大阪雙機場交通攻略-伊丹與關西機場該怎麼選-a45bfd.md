@@ -6,7 +6,7 @@ category: airport-transfer
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-airport-transfer-osaka-大阪雙機場交通攻略-伊丹與關西機場該怎麼選-a45bfd.html
 published: 2026-06-19
-quality_score: 7.5
+quality_score: 8.5
 tags: 大阪機場交通, 伊丹機場, 關西機場, 關西國際機場, 機場接送
 license: CC BY 4.0
 ---

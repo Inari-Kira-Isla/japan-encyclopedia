@@ -6,7 +6,7 @@ category: minshuku
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-nara-奈良民宿季節體驗指南-在古都民宿中感受四季輪轉的日式美學-056796.html
 published: 2026-04-02
-quality_score: 6.5
+quality_score: 8.7
 tags: 奈良民宿, 季節體驗, 日式住宿, 古都旅行, 文化深度
 license: CC BY 4.0
 ---

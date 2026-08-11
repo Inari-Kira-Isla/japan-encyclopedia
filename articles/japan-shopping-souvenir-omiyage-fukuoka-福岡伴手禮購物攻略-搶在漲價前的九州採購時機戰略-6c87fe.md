@@ -6,7 +6,7 @@ category: souvenir-omiyage
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-souvenir-omiyage-fukuoka-福岡伴手禮購物攻略-搶在漲價前的九州採購時機戰略-6c87fe.html
 published: 2026-04-06
-quality_score: 7.5
+quality_score: 8.8
 tags: 福岡購物, 日本伴手禮, 九州特產, 購物攻略, 博多車站
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: tonkatsu
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tonkatsu-hokkaido-北海道豚カツ-大地食材演繹的北國洋食風情-ad701c.html
 published: 2026-06-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道豚カツ, 北海道美食, 十勝豬肉, 札幌美食, 旭川美食
 license: CC BY 4.0
 ---

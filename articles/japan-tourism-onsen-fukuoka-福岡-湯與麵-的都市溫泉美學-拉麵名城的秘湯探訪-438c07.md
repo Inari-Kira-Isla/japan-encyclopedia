@@ -6,7 +6,7 @@ category: onsen
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-onsen-fukuoka-福岡-湯與麵-的都市溫泉美學-拉麵名城的秘湯探訪-438c07.html
 published: 2026-06-08
-quality_score: 6.5
+quality_score: 8.8
 tags: 福岡溫泉, 都市溫泉, 錢湯, 公共浴場, 博多
 license: CC BY 4.0
 ---

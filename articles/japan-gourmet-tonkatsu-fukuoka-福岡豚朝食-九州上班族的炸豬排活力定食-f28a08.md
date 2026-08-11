@@ -6,7 +6,7 @@ category: tonkatsu
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tonkatsu-fukuoka-福岡豚朝食-九州上班族的炸豬排活力定食-f28a08.html
 published: 2026-06-10
-quality_score: 6.5
+quality_score: 8.7
 tags: 福岡美食, 豚朝食, 九州料理, 炸豬排定食, 早餐推薦
 license: CC BY 4.0
 ---

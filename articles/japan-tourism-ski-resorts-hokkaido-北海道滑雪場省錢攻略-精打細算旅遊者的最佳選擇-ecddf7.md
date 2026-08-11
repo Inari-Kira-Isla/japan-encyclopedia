@@ -6,7 +6,7 @@ category: ski-resorts
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-ski-resorts-hokkaido-北海道滑雪場省錢攻略-精打細算旅遊者的最佳選擇-ecddf7.html
 published: 2026-06-30
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道滑雪場, 省錢攻略, 滑雪旅遊, 精打細算, 日本滑雪
 license: CC BY 4.0
 ---

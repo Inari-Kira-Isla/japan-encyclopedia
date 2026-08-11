@@ -6,7 +6,7 @@ category: sumo
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-hiroshima-廣島相撲-跟隨力士足跡探索瀨戶內的相撲文化-140722.html
 published: 2026-03-20
-quality_score: 6.5
+quality_score: 8.4
 tags: 廣島相撲, 廣島美食, 相撲火鍋, 日本相撲巡業, 瀨戶內文化
 license: CC BY 4.0
 ---

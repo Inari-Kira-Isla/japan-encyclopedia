@@ -6,7 +6,7 @@ category: kabuki-theatre
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-kabuki-theatre-tokyo-東京kabuki劇場完整指南-五座特色劇院推薦與實用資訊-73e142.html
 published: 2026-05-21
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京Kabuki剧场, 东京国立剧场, 日本传统表演艺术, 新宿大国立剧场, 东京文化会馆
 license: CC BY 4.0
 ---

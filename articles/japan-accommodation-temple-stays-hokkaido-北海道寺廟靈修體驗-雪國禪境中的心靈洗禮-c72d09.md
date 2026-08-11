@@ -6,7 +6,7 @@ category: temple-stays
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-temple-stays-hokkaido-北海道寺廟靈修體驗-雪國禪境中的心靈洗禮-c72d09.html
 published: 2026-03-29
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道, 寺廟住宿, 禪修體驗, 雪國靈修, 日本文化
 license: CC BY 4.0
 ---

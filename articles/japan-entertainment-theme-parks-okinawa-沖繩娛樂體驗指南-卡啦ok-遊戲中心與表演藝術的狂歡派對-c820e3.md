@@ -6,7 +6,7 @@ category: theme-parks
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-theme-parks-okinawa-沖繩娛樂體驗指南-卡啦ok-遊戲中心與表演藝術的狂歡派對-c820e3.html
 published: 2026-03-25
-quality_score: 6.5
+quality_score: 8.9
 tags: 沖繩主題樂園, 卡拉OK, 遊戲中心, 密室逃脫, 表演藝術
 license: CC BY 4.0
 ---

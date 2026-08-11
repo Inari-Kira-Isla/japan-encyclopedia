@@ -6,7 +6,7 @@ category: minshuku
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-hiroshima-廣島民宿隱藏之美-探索宮島以外的在地住宿體驗-ebe8eb.html
 published: 2026-05-22
-quality_score: 6.5
+quality_score: 8.6
 tags: 廣島民宿, minshuku, 尾道住宿, 三次住宿, 瀨戶內海
 license: CC BY 4.0
 ---

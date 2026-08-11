@@ -6,7 +6,7 @@ category: vr-experiences
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-vr-experiences-fukuoka-福岡夜遊vr-當虛擬實境遇上九州屋臺文化-a05196.html
 published: 2026-06-06
-quality_score: 6.5
+quality_score: 8.6
 tags: 福岡VR, 九州科技娛樂, 屋台文化, 博多彩體驗, 夜間遊程
 license: CC BY 4.0
 ---

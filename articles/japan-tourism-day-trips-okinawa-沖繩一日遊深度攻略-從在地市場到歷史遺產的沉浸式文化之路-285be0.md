@@ -6,7 +6,7 @@ category: day-trips
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-okinawa-沖繩一日遊深度攻略-從在地市場到歷史遺產的沉浸式文化之路-285be0.html
 published: 2026-06-10
-quality_score: 6.5
+quality_score: 8.5
 tags: 沖繩一日遊, 琉球王國, 世界遺產, 牧志市場, 座喜味城跡
 license: CC BY 4.0
 ---

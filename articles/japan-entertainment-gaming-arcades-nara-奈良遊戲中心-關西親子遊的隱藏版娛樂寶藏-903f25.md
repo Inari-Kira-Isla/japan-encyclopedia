@@ -6,7 +6,7 @@ category: gaming-arcades
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-gaming-arcades-nara-奈良遊戲中心-關西親子遊的隱藏版娛樂寶藏-903f25.html
 published: 2026-06-16
-quality_score: 6.5
+quality_score: 8.8
 tags: 奈良遊戲中心, 奈良親子遊, 關西親子行程, 日本街機文化, 奈良自由行
 license: CC BY 4.0
 ---

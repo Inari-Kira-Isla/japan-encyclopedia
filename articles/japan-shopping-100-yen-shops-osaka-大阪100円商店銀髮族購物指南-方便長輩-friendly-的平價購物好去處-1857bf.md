@@ -6,7 +6,7 @@ category: 100-yen-shops
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-100-yen-shops-osaka-大阪100円商店銀髮族購物指南-方便長輩-friendly-的平價購物好去處-1857bf.html
 published: 2026-06-01
-quality_score: 7.5
+quality_score: 8.8
 tags: 100円商店, 大阪, 銀髮族友好, 購物指南, DAISO
 license: CC BY 4.0
 ---

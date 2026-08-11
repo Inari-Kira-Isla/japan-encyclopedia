@@ -6,7 +6,7 @@ category: craft-markets
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-craft-markets-kyoto-京都工藝市集預算完全指南-從千元到萬元的古城手作尋寶攻略-c8a638.html
 published: 2026-06-08
-quality_score: 7.5
+quality_score: 8.3
 tags: 京都, 工藝市集, 手作市集, 日本購物, 京都旅遊
 license: CC BY 4.0
 ---

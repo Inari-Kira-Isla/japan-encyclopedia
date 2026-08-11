@@ -6,7 +6,7 @@ category: ramen
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-ramen-okinawa-沖繩拉麵-琉球島嶼的獨特麵食文化-16dcbd.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 8.7
 tags: 沖繩拉麵, 琉球的拉麵,  Okinawa ramen, Ryukyu Ramen, 苦瓜拉麵
 license: CC BY 4.0
 ---

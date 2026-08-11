@@ -6,7 +6,7 @@ category: island-hopping
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-island-hopping-kyoto-京都-山島-漫遊-遠離塵囂的隔離體驗-23cc9b.html
 published: 2026-07-02
-quality_score: 6.5
+quality_score: 8.7
 tags: 京都跳島, 山島漫遊, 比叡山, 鞍馬貴船, 京都秘境
 license: CC BY 4.0
 ---

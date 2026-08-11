@@ -6,7 +6,7 @@ category: ryokan
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-hokkaido-北海道季節限定旅館體驗-從雪見風呂到海鮮會席的四季巡禮-f99bf8.html
 published: 2026-04-06
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道旅館, 溫泉, 季節限定, 海鮮料理, 雪見風呂
 license: CC BY 4.0
 ---

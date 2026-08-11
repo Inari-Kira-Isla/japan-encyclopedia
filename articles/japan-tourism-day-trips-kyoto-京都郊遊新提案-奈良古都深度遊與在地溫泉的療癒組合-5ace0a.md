@@ -6,7 +6,7 @@ category: day-trips
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-kyoto-京都郊遊新提案-奈良古都深度遊與在地溫泉的療癒組合-5ace0a.html
 published: 2026-06-29
-quality_score: 6.5
+quality_score: 8.8
 tags: 京都一日遊, 奈良溫泉, 關西深度遊, 奈良古蹟, 日本溫泉
 license: CC BY 4.0
 ---

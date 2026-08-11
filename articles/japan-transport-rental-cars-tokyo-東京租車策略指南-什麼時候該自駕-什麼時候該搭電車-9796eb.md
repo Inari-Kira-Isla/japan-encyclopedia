@@ -6,7 +6,7 @@ category: rental-cars
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-tokyo-東京租車策略指南-什麼時候該自駕-什麼時候該搭電車-9796eb.html
 published: 2026-06-18
-quality_score: 7.5
+quality_score: 8.5
 tags: 東京租車, 東京自駕, 關東租車, 東京自由行, 富士山租車
 license: CC BY 4.0
 ---

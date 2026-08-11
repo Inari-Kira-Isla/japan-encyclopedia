@@ -6,7 +6,7 @@ category: rental-cars
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-kanazawa-金澤租車選車指南-北陸5條經典路線的最佳車型配搭-c4a941.html
 published: 2026-03-21
-quality_score: 7.5
+quality_score: 8.7
 tags: 金澤租車, 北陸自駕, 合掌村, 能登半島, 富山黑部
 license: CC BY 4.0
 ---

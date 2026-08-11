@@ -6,7 +6,7 @@ category: metro-systems
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-kanazawa-金澤交通系統的逆向思考-沒有地鐵的便利之城如何運作-9bd6ce.html
 published: 2026-05-22
-quality_score: 7.5
+quality_score: 8.7
 tags: 金澤交通, 金澤巴士, 北陸自助, 金澤自由行, 日本地方交通
 license: CC BY 4.0
 ---

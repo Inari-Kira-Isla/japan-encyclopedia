@@ -6,7 +6,7 @@ category: ramen
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-ramen-osaka-大阪拉麵-巷弄裡的b級美食靈魂-0dcb4a.html
 published: 2026-06-04
-quality_score: 6.5
+quality_score: 8.6
 tags: 大阪拉麵, B級美食, 天下の台所, 在地拉麵, 大阪美食
 license: CC BY 4.0
 ---

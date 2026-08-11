@@ -6,7 +6,7 @@ category: matcha-sweets
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-matcha-sweets-osaka-大阪抹茶甜點-夜訪綠茶沙龍與秘密茶房的都市探險-658bb0.html
 published: 2026-06-24
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪抹茶, 抹茶甜點, 抹茶酒吧, 關西甜點, 日本夜生活
 license: CC BY 4.0
 ---

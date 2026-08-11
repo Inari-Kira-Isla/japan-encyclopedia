@@ -6,7 +6,7 @@ category: ryokan
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-hiroshima-廣島旅館美食之旅-瀨戶內海鮮與和式料亭的完美融合-71f2b4.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.8
 tags: 廣島旅館, 瀨戶內海美食, 溫泉住宿, 懷石料理, 廣島牡蠣
 license: CC BY 4.0
 ---

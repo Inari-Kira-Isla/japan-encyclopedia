@@ -6,7 +6,7 @@ category: tempura
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tempura-tokyo-東京天婦羅-從築地早市到巷弄老舖的兩極味覺-31fdad.html
 published: 2026-06-29
-quality_score: 6.5
+quality_score: 8.8
 tags: 東京天婦羅, 築地市場, 江戸前天婦羅, 港區美食, 新宿美食
 license: CC BY 4.0
 ---

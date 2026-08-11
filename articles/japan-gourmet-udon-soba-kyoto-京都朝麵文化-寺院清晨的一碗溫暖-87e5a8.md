@@ -6,7 +6,7 @@ category: udon-soba
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-udon-soba-kyoto-京都朝麵文化-寺院清晨的一碗溫暖-87e5a8.html
 published: 2026-06-28
-quality_score: 6.5
+quality_score: 8.7
 tags: 京都朝麵, 精進料理, 寺院文化, 清晨美食, 烏龍麵
 license: CC BY 4.0
 ---

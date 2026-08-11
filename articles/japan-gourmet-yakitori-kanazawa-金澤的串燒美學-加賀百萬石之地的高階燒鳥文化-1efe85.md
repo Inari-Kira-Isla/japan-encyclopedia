@@ -6,7 +6,7 @@ category: yakitori
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-yakitori-kanazawa-金澤的串燒美學-加賀百萬石之地的高階燒鳥文化-1efe85.html
 published: 2026-03-29
-quality_score: 6.5
+quality_score: 8.9
 tags: 金澤燒鳥, 加賀料理, 串燒文化, 日本海側美食, 金箔美學
 license: CC BY 4.0
 ---

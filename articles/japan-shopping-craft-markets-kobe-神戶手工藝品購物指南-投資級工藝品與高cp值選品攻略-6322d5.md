@@ -6,7 +6,7 @@ category: craft-markets
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-craft-markets-kobe-神戶手工藝品購物指南-投資級工藝品與高cp值選品攻略-6322d5.html
 published: 2026-03-24
-quality_score: 7.5
+quality_score: 8.6
 tags: 神戶, 手工藝品, 工藝市場, 購物指南, 日本購物
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: historical-districts
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-kyoto-京都歷史街區的日常脈動-從清晨到黃昏的在地生活地圖-f28469.html
 published: 2026-06-25
-quality_score: 6.5
+quality_score: 8.7
 tags: 京都歷史街區, 二年坂三年坂, 祇園, 先斗町, 京阪神奈散步
 license: CC BY 4.0
 ---

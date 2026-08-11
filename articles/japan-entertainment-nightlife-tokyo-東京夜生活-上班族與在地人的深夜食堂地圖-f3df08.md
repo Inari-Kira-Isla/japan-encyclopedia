@@ -6,7 +6,7 @@ category: nightlife
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-tokyo-東京夜生活-上班族與在地人的深夜食堂地圖-f3df08.html
 published: 2026-06-16
-quality_score: 6.5
+quality_score: 8.9
 tags: 東京夜生活, 上班族, 深夜食堂, 立ち飲み, 新橋
 license: CC BY 4.0
 ---

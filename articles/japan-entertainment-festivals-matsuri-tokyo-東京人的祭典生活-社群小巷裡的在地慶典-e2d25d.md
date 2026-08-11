@@ -6,7 +6,7 @@ category: festivals-matsuri
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-festivals-matsuri-tokyo-東京人的祭典生活-社群小巷裡的在地慶典-e2d25d.html
 published: 2026-06-21
-quality_score: 6.5
+quality_score: 8.6
 tags: 東京祭典, 社區祭典, 在地體驗, 東京夏日, 墨田區
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: onsen
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-onsen-nara-奈良溫泉-古都文化中的療癒體驗-46c560.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 奈良溫泉, 古都文化, 傳統錢湯, 溫泉旅館, 日本文化體驗
 license: CC BY 4.0
 ---

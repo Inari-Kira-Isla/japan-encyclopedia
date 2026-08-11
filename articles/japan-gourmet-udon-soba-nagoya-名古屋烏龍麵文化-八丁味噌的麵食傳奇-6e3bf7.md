@@ -6,7 +6,7 @@ category: udon-soba
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-udon-soba-nagoya-名古屋烏龍麵文化-八丁味噌的麵食傳奇-6e3bf7.html
 published: 2026-03-21
-quality_score: 6.5
+quality_score: 8.5
 tags: 名古屋, 烏龍麵, 八丁味噌, 日本美食, 麵食文化
 license: CC BY 4.0
 ---

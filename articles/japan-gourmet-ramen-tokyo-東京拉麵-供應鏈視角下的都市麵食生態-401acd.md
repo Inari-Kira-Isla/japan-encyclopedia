@@ -6,7 +6,7 @@ category: ramen
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-ramen-tokyo-東京拉麵-供應鏈視角下的都市麵食生態-401acd.html
 published: 2026-03-28
-quality_score: 6.5
+quality_score: 8.8
 tags: 東京美食, 拉麵文化, 供應鏈, 商業模式, 都市飲食
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: metro-systems
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-sendai-仙台地下鐵的四季-生活與通勤物語-1d57af.html
 published: 2026-05-24
-quality_score: 7.5
+quality_score: 8.8
 tags: 仙台地下鐵, 東北交通, 在地通勤, 四季遊仙台, 生活觀察
 license: CC BY 4.0
 ---

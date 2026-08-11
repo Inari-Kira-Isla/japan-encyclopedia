@@ -6,7 +6,7 @@ category: rental-cars
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-fukuoka-福岡租車自駕遊-從市中心出發的在地美食之路線規劃-3b4911.html
 published: 2026-06-24
-quality_score: 7.5
+quality_score: 8.7
 tags: 福岡租車, 九州自駕, 糸島半島, 門司港美食, 太宰府天滿宮
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: boutique-hotels
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-kanazawa-金澤住宿新選擇-近江町周邊的市場生活住宿體驗-121dcd.html
 published: 2026-06-12
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤住宿, 近江町市場, 市場生活體驗, 金澤自助旅行, 加賀百萬石
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: nightlife
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-kanazawa-金澤夜生活-北陸古城的溫暖夜色-cb20a6.html
 published: 2026-06-28
-quality_score: 6.5
+quality_score: 8.8
 tags: 金澤夜生活, 石川縣, 北陸小京都, 片町居酒屋街, 香林坊
 license: CC BY 4.0
 ---

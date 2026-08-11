@@ -6,7 +6,7 @@ category: airport-transfer
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-airport-transfer-kanazawa-金澤機場深夜凌晨航班攻略-紅眼班機的交通生存指南-bd261c.html
 published: 2026-06-17
-quality_score: 7.5
+quality_score: 8.5
 tags: 金澤機場, 小松空港, 機場交通, 紅眼班機, 石川縣
 license: CC BY 4.0
 ---

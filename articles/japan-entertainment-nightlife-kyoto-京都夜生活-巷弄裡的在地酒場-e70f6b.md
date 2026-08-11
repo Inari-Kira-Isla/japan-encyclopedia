@@ -6,7 +6,7 @@ category: nightlife
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-kyoto-京都夜生活-巷弄裡的在地酒場-e70f6b.html
 published: 2026-05-25
-quality_score: 6.5
+quality_score: 8.6
 tags: 京都夜生活, 伸見造酒屋, 先斗町, 在地酒吧, 京都小巷
 license: CC BY 4.0
 ---

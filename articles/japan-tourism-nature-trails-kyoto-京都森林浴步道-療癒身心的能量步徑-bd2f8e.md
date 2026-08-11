@@ -6,7 +6,7 @@ category: nature-trails
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-kyoto-京都森林浴步道-療癒身心的能量步徑-bd2f8e.html
 published: 2026-06-08
-quality_score: 6.5
+quality_score: 8.8
 tags: 京都自然步道, 森林浴, 療癒旅行, 鞍馬山, 比叡山
 license: CC BY 4.0
 ---

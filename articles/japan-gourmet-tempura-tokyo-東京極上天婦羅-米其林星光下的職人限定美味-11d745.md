@@ -6,7 +6,7 @@ category: tempura
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tempura-tokyo-東京極上天婦羅-米其林星光下的職人限定美味-11d745.html
 published: 2026-06-14
-quality_score: 6.5
+quality_score: 8.8
 tags: 東京天婦羅, 米其林, 極上美食, 預約制餐廳, 北海道食材
 license: CC BY 4.0
 ---

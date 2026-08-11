@@ -6,7 +6,7 @@ category: department-stores
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-department-stores-nagoya-名古屋百貨公司-製造名城的實用購物哲學-4db16c.html
 published: 2026-06-30
-quality_score: 7.5
+quality_score: 8.7
 tags: 名古屋購物, 中部地方, 百貨公司, 日本購物, 名鐵百货
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: capsule-hotels
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-capsule-hotels-kobe-kobe-capsule-hotels-6432c4.html
 published: 2026-03-23
-quality_score: 5.5
+quality_score: 0.0
 tags: capsule-hotels, kobe, japan
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: ferries
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-ferries-fukuoka-福岡渡輪天候對應指南-依季節規劃海上行程的實用策略-aa158c.html
 published: 2026-06-24
-quality_score: 7.5
+quality_score: 8.7
 tags: 福岡交通, 渡輪攻略, 九州島嶼, 對馬島, 釜山渡輪
 license: CC BY 4.0
 ---

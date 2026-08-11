@@ -6,7 +6,7 @@ category: ryokan
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-nara-奈良町家旅宿-古都巷弄中的日常風情-5bad54.html
 published: 2026-06-10
-quality_score: 6.5
+quality_score: 8.5
 tags: 奈良町家, 古都住宿, 日本傳統旅宿, 奈良自由行, 町家體驗
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: castle-towns
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-castle-towns-okinawa-沖繩的城堡城鎮-走進琉球王國的山城與海岸防線-41c8af.html
 published: 2026-05-23
-quality_score: 6.5
+quality_score: 8.7
 tags: 沖繩城堡, 琉球王國, グスク, 首里城, 世界遺產
 license: CC BY 4.0
 ---

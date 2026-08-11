@@ -6,7 +6,7 @@ category: jr-pass
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-jr-pass-hiroshima-hiroshima-jr-pass-5b5ee3.html
 published: 2026-03-24
-quality_score: 6.5
+quality_score: 7.0
 tags: jr-pass, hiroshima, japan
 license: CC BY 4.0
 ---

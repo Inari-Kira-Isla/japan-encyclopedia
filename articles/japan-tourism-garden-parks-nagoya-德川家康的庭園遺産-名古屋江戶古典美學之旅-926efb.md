@@ -6,7 +6,7 @@ category: garden-parks
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-nagoya-德川家康的庭園遺産-名古屋江戶古典美學之旅-926efb.html
 published: 2026-03-22
-quality_score: 6.5
+quality_score: 8.7
 tags: 名古屋, 庭園, 江戶文化, 德川家康, 日本美學
 license: CC BY 4.0
 ---

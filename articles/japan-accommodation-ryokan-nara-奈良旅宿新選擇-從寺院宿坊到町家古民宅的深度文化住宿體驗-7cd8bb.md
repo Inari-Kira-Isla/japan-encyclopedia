@@ -6,7 +6,7 @@ category: ryokan
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-nara-奈良旅宿新選擇-從寺院宿坊到町家古民宅的深度文化住宿體驗-7cd8bb.html
 published: 2026-07-02
-quality_score: 6.5
+quality_score: 8.5
 tags: 奈良住宿, 奈良溫泉旅館, 古都住宿, 寺院宿坊, 關西住宿推薦
 license: CC BY 4.0
 ---

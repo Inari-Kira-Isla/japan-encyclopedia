@@ -6,7 +6,7 @@ category: electronics
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-electronics-okinawa-沖繩電子產品購物完全指南-海島度假的科技配備攻略-af00f9.html
 published: 2026-06-15
-quality_score: 7.5
+quality_score: 8.7
 tags: 沖繩電子產品, 沖繩購物, 海島科技, 亞熱帶電子, 沖繩免稅
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: rental-cars
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-tokyo-東京租車自駕遊-關東輻射狀旅遊樞紐攻略-1c60bb.html
 published: 2026-06-26
-quality_score: 7.5
+quality_score: 8.7
 tags: 東京租車, 關東自駕, 富士山租車, 日光租車, 鎌倉租車
 license: CC BY 4.0
 ---

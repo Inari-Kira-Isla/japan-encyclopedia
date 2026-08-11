@@ -6,7 +6,7 @@ category: temples-shrines
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-temples-shrines-okinawa-沖繩神社寺廟的靈魂地圖-琉球信仰與長壽之地的精神旅遊-d55765.html
 published: 2026-06-12
-quality_score: 6.5
+quality_score: 8.7
 tags: 沖繩神社, 琉球王國, 御嶽, 靈性旅遊, 文化深度體驗
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: yakitori
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-yakitori-kyoto-京都燒鳥-隱藏在巷弄深處的本地人消費文化-3ec951.html
 published: 2026-06-22
-quality_score: 6.5
+quality_score: 8.7
 tags: 京都美食, 燒鳥推薦, 日本串燒, 京都夜生活, 關西美食
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: craft-markets
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-craft-markets-okinawa-沖繩離島工藝市集探索-石垣島與宮古島的手作秘境-671aa2.html
 published: 2026-06-21
-quality_score: 7.5
+quality_score: 8.4
 tags: 沖繩工藝市集, 石垣島, 宮古島, 離島手作, 琉球工藝
 license: CC BY 4.0
 ---

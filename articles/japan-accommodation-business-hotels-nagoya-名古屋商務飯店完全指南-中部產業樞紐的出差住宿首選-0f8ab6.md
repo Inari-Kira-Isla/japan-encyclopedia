@@ -6,7 +6,7 @@ category: business-hotels
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-business-hotels-nagoya-名古屋商務飯店完全指南-中部產業樞紐的出差住宿首選-0f8ab6.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 8.7
 tags: 名古屋商務飯店, 日本商務住宿, 名古屋出差, 中部國際機場
 license: CC BY 4.0
 ---

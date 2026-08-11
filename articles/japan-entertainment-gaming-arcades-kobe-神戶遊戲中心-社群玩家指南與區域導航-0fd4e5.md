@@ -6,7 +6,7 @@ category: gaming-arcades
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-gaming-arcades-kobe-神戶遊戲中心-社群玩家指南與區域導航-0fd4e5.html
 published: 2026-03-23
-quality_score: 6.5
+quality_score: 8.7
 tags: Kobe Gaming Arcades, 日本遊戲中心, 街機社群文化, 玩家指南, 區域娛樂
 license: CC BY 4.0
 ---

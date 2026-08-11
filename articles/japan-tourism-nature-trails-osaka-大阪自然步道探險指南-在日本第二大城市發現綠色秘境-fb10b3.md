@@ -6,7 +6,7 @@ category: nature-trails
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-osaka-大阪自然步道探險指南-在日本第二大城市發現綠色秘境-fb10b3.html
 published: 2026-03-21
-quality_score: 6.5
+quality_score: 8.8
 tags: 大阪登山, 自然步道, 四季旅遊, 日本戶外運動, 近郊健行
 license: CC BY 4.0
 ---

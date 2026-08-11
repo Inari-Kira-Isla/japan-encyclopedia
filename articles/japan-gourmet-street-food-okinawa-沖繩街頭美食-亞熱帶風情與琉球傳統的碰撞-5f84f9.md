@@ -6,7 +6,7 @@ category: street-food
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-street-food-okinawa-沖繩街頭美食-亞熱帶風情與琉球傳統的碰撞-5f84f9.html
 published: 2026-03-23
-quality_score: 6.5
+quality_score: 8.4
 tags: 沖繩, 街頭美食, 屋台文化, 琉球料理, 海鮮
 license: CC BY 4.0
 ---

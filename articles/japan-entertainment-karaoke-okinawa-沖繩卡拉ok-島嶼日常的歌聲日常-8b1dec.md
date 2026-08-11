@@ -6,7 +6,7 @@ category: karaoke
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-karaoke-okinawa-沖繩卡拉ok-島嶼日常的歌聲日常-8b1dec.html
 published: 2026-07-05
-quality_score: 6.5
+quality_score: 8.6
 tags: 沖繩, 卡拉OK, 夜生活,  Okinawa, 娛樂體驗
 license: CC BY 4.0
 ---

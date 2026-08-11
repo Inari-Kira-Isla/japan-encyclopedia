@@ -6,7 +6,7 @@ category: airport-transfer
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-airport-transfer-sendai-仙台機場交通指南-從-premium-包車到深夜抵達的完全攻略-90f195.html
 published: 2026-03-24
-quality_score: 7.5
+quality_score: 8.8
 tags: 仙台機場, 機場交通, 東北旅遊, 包車服務, 仙台
 license: CC BY 4.0
 ---

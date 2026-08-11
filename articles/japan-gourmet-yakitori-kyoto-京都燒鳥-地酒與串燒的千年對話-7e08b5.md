@@ -6,7 +6,7 @@ category: yakitori
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-yakitori-kyoto-京都燒鳥-地酒與串燒的千年對話-7e08b5.html
 published: 2026-05-23
-quality_score: 6.5
+quality_score: 8.6
 tags: 京都燒鳥, 京都美食, 日本串燒, 京都地酒, 京都旅遊
 license: CC BY 4.0
 ---

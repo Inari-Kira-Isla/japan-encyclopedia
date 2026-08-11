@@ -6,7 +6,7 @@ category: metro-systems
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-hiroshima-廣島軌道交通-沒有地鐵的和平都市-如何用路面電車說故事-12c9ae.html
 published: 2026-06-26
-quality_score: 7.5
+quality_score: 8.4
 tags: 廣島, 路面電車, 廣島電鐵, 和平紀念, 日本交通
 license: CC BY 4.0
 ---

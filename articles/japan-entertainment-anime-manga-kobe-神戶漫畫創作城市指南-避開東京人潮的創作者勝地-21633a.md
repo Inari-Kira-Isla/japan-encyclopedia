@@ -6,7 +6,7 @@ category: anime-manga
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-kobe-神戶漫畫創作城市指南-避開東京人潮的創作者勝地-21633a.html
 published: 2026-06-02
-quality_score: 6.5
+quality_score: 8.9
 tags: 神戶動漫, 神戶漫畫, 關西創作者, 異人館市集, 慢節奏御宅體驗
 license: CC BY 4.0
 ---

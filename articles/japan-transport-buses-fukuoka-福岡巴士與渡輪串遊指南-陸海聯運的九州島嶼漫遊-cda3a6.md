@@ -6,7 +6,7 @@ category: buses
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-buses-fukuoka-福岡巴士與渡輪串遊指南-陸海聯運的九州島嶼漫遊-cda3a6.html
 published: 2026-06-17
-quality_score: 7.5
+quality_score: 8.6
 tags: 福岡巴士, 九州交通, 陸海聯運, 博多港, 門司港
 license: CC BY 4.0
 ---

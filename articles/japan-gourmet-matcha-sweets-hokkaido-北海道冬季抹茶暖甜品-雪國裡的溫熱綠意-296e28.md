@@ -6,7 +6,7 @@ category: matcha-sweets
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-matcha-sweets-hokkaido-北海道冬季抹茶暖甜品-雪國裡的溫熱綠意-296e28.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道美食, 抹茶甜品, 冬季限定, 暖身甜品, 札幌小樽
 license: CC BY 4.0
 ---

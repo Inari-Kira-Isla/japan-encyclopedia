@@ -6,7 +6,7 @@ category: cycling
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-tokyo-東京河濱單車道-本地人推薦的都市騎行美學-ba5cb6.html
 published: 2026-04-02
-quality_score: 7.5
+quality_score: 8.5
 tags: 東京單車, 河濱騎行, 墨田區, 荒川, 都市慢遊
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: garden-parks
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-kanazawa-金澤海濱花園巡禮-港口城市與綠意的療癒共存-16aa64.html
 published: 2026-06-17
-quality_score: 6.5
+quality_score: 8.8
 tags: 金澤, 花園公園, 海濱, 自然散步, 石川縣
 license: CC BY 4.0
 ---

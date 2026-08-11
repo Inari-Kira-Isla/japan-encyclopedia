@@ -6,7 +6,7 @@ category: sushi
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sushi-tokyo-東京壽司-江戶前的極致海味-92a8c5.html
 published: 2026-03-23
-quality_score: 6.5
+quality_score: 8.5
 tags: 日本, 東京, 壽司, 江戶前, 美食文化
 license: CC BY 4.0
 ---

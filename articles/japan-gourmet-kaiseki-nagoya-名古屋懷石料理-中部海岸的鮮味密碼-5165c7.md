@@ -6,7 +6,7 @@ category: kaiseki
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-kaiseki-nagoya-名古屋懷石料理-中部海岸的鮮味密碼-5165c7.html
 published: 2026-05-25
-quality_score: 6.5
+quality_score: 8.6
 tags: 名古屋懷石, 中部日本料理, 伊勢灣海鮮, 名古屋美食推薦, 日本懷石料理
 license: CC BY 4.0
 ---

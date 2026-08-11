@@ -6,7 +6,7 @@ category: temple-stays
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-temple-stays-osaka-osaka-temple-stays-4097c5.html
 published: 2026-03-23
-quality_score: 5.5
+quality_score: 6.7
 tags: temple-stays, osaka, japan
 license: CC BY 4.0
 ---

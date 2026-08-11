@@ -6,7 +6,7 @@ category: karaoke
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-karaoke-kyoto-京都卡拉ok-巷弄深處的古都歌聲-7ff57a.html
 published: 2026-07-02
-quality_score: 6.5
+quality_score: 8.6
 tags: 京都卡拉OK, 京都娛樂, 京都夜生活, 京町家, 關西卡拉OK
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: minshuku
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-okinawa-沖繩離島民宿-慢節奏生活中的星空與海風-5a67eb.html
 published: 2026-07-04
-quality_score: 6.5
+quality_score: 8.7
 tags: 沖繩民宿, 離島住宿, 石垣島, 竹富島, 西表島
 license: CC BY 4.0
 ---

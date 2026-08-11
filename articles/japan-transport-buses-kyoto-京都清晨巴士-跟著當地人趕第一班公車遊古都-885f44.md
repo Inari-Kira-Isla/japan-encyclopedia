@@ -6,7 +6,7 @@ category: buses
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-buses-kyoto-京都清晨巴士-跟著當地人趕第一班公車遊古都-885f44.html
 published: 2026-06-21
-quality_score: 7.5
+quality_score: 8.6
 tags: 京都巴士, 京都交通, 古都慢遊, 清晨京都, 京都一日券
 license: CC BY 4.0
 ---

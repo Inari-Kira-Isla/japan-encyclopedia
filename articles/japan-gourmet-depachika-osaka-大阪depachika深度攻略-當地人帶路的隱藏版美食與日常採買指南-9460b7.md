@@ -6,7 +6,7 @@ category: depachika
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-depachika-osaka-大阪depachika深度攻略-當地人帶路的隱藏版美食與日常採買指南-9460b7.html
 published: 2026-07-06
-quality_score: 6.5
+quality_score: 8.8
 tags: 大阪美食, Depachika, 關西自由行, 百货地下, 日本伴手禮
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: department-stores
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-department-stores-hokkaido-北海道-seasonal-百貨公司-四季購物體驗完全指南-7f5da0.html
 published: 2026-05-22
-quality_score: 7.5
+quality_score: 8.6
 tags: hokkaido, seasonal shopping, department stores, sapporo, travel guide
 license: CC BY 4.0
 ---

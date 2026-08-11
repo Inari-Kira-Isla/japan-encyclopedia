@@ -6,7 +6,7 @@ category: department-stores
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-department-stores-kanazawa-金澤購物指南-古都小徑中的特色商店與隱藏寶藏-8e0ec1.html
 published: 2026-06-15
-quality_score: 7.5
+quality_score: 8.5
 tags: 金澤購物, 日本石川縣, 金箔工藝, 傳統工藝品, 古都購物
 license: CC BY 4.0
 ---

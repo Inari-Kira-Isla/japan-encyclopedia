@@ -6,7 +6,7 @@ category: temple-stays
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-temple-stays-sendai-仙台宿坊作為東北樞紐-從森林之都出發的寺院住宿中繼站之旅-d08dbf.html
 published: 2026-06-30
-quality_score: 6.5
+quality_score: 8.5
 tags: 仙台宿坊, 東北寺院住宿, 禪修體驗, 山形立石寺, 恐山閉關
 license: CC BY 4.0
 ---

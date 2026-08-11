@@ -6,7 +6,7 @@ category: shinkansen
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-tokyo-東京新幹線攻略-高效行程規劃的黃金路線-b4ca5b.html
 published: 2026-04-05
-quality_score: 7.5
+quality_score: 8.8
 tags: 東京新幹線, 日本交通, 行程規劃, JR Pass, 高速鐵路
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: airport-transfer
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-airport-transfer-sendai-仙台機場周邊的隱藏寶盒-非典型東北中途停靠站的完全指南-01e62f.html
 published: 2026-05-23
-quality_score: 7.5
+quality_score: 8.5
 tags: 仙台機場, 非典型旅行, 東北小众景點, 中途停靠站, 閏上
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: metro-systems
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-kyoto-京都地下鐵的文化深度-從車站看見千年古都的日常風貌-7a5e91.html
 published: 2026-06-23
-quality_score: 7.5
+quality_score: 8.7
 tags: 京都地下鐵, 京都交通, 京都Metro, 烏丸線, 東西線
 license: CC BY 4.0
 ---

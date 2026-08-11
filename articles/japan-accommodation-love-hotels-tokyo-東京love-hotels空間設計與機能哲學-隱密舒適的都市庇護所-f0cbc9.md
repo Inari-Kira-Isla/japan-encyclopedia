@@ -6,7 +6,7 @@ category: love-hotels
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-love-hotels-tokyo-東京love-hotels空間設計與機能哲學-隱密舒適的都市庇護所-f0cbc9.html
 published: 2026-06-29
-quality_score: 6.5
+quality_score: 8.9
 tags: 東京住宿, Love Hotel, 空間設計, 機能主義, 都市旅遊
 license: CC BY 4.0
 ---

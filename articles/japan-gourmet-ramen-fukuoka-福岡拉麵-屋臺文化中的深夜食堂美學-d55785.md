@@ -6,7 +6,7 @@ category: ramen
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-ramen-fukuoka-福岡拉麵-屋臺文化中的深夜食堂美學-d55785.html
 published: 2026-06-09
-quality_score: 6.5
+quality_score: 8.8
 tags: 屋台文化, 九州豚骨, 深夜食堂, 博多拉麵, 久留米拉麵
 license: CC BY 4.0
 ---

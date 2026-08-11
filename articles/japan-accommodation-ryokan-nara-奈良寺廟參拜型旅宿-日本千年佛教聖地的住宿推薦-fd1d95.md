@@ -6,7 +6,7 @@ category: ryokan
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-nara-奈良寺廟參拜型旅宿-日本千年佛教聖地的住宿推薦-fd1d95.html
 published: 2026-06-03
-quality_score: 6.5
+quality_score: 8.6
 tags: 奈良Ryokan, 寺宿, 日本佛教聖地, 法隆寺, 春日大社
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: temple-stays
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-temple-stays-nagoya-名古屋宿坊體驗-關西與中部寺廟住宿的中樞門戶-66eb82.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 8.7
 tags: 名古屋住宿, 寺廟住宿, 宿坊體驗, 高野山, 三重縣
 license: CC BY 4.0
 ---

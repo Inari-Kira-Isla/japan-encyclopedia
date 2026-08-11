@@ -6,7 +6,7 @@ category: buses
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-buses-kobe-神戶巴士交通-多元運輸網路的最後一哩路-f103cd.html
 published: 2026-04-05
-quality_score: 7.5
+quality_score: 8.5
 tags: 神戶交通, 巴士系統, 交通銜接, 港都交通, 日本關西
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: airport-transfer
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-airport-transfer-sendai-仙台機場交通全攻略-東北四季旅遊的最佳起點規劃-91464b.html
 published: 2026-04-06
-quality_score: 7.5
+quality_score: 8.7
 tags: 仙台機場, 東北交通, 機場接駁, 日本旅遊, 交通攻略
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: temples-shrines
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-temples-shrines-hokkaido-北海道神社寺院-雪國近代信仰的獨特軌跡-b4ed3c.html
 published: 2026-07-06
-quality_score: 6.5
+quality_score: 8.9
 tags: 北海道, 神社, 寺院, 札幌, 北海道神宮
 license: CC BY 4.0
 ---

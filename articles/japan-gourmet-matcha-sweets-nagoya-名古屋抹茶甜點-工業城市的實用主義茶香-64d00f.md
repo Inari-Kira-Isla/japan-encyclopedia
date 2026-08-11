@@ -6,7 +6,7 @@ category: matcha-sweets
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-matcha-sweets-nagoya-名古屋抹茶甜點-工業城市的實用主義茶香-64d00f.html
 published: 2026-06-28
-quality_score: 6.5
+quality_score: 8.7
 tags: 名古屋美食, 抹茶甜點, 中部地方, 名古屋コーチン, 榮町
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: vr-experiences
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-vr-experiences-hiroshima-廣島vr體驗-輕鬆嘗鮮的都市娛樂新選擇-4e6019.html
 published: 2026-06-18
-quality_score: 6.5
+quality_score: 8.8
 tags: 廣島VR體驗, 廣島娛樂, 廣島自由行, 廣島市區, 虛擬實境
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: rental-cars
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-kobe-神戶租車美食深度遊-清酒產地與和牛聖地的自駕攻略-a7bcf7.html
 published: 2026-06-20
-quality_score: 7.5
+quality_score: 8.9
 tags: 神戶租車, 神戶美食, 灘五鄉清酒, 神戶牛, 自駕遊
 license: CC BY 4.0
 ---

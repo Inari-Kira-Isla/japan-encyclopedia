@@ -6,7 +6,7 @@ category: escape-rooms
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-escape-rooms-nagoya-名古屋密室逃脫-toyota故鄉的隱藏版腦力樂園-7697ed.html
 published: 2026-05-21
-quality_score: 6.5
+quality_score: 8.7
 tags: 名古屋, 密室逃脫, 愛知縣, Escape Room, 名古屋自由行
 license: CC BY 4.0
 ---

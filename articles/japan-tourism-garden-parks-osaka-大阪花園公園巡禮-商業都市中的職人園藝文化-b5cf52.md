@@ -6,7 +6,7 @@ category: garden-parks
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-osaka-大阪花園公園巡禮-商業都市中的職人園藝文化-b5cf52.html
 published: 2026-04-06
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪公園, 職人園藝, 關西文化, 四季花卉, 都市綠地
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: minshuku
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-hokkaido-北海道民宿完全指南-農鄉原野的暖心物語-84f3c2.html
 published: 2026-06-03
-quality_score: 6.5
+quality_score: 8.3
 tags: 北海道民宿, 農業體驗, 十勝平原, 空知郡, 農泊
 license: CC BY 4.0
 ---

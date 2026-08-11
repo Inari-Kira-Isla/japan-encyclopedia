@@ -6,7 +6,7 @@ category: sumo
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-hokkaido-北海道相撲-沒有部屋也能體驗的北國力士文化-d9a1b1.html
 published: 2026-06-17
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道相撲, 相撲體驗, 札幌美食, ちゃんこ鍋, 冬季北海道
 license: CC BY 4.0
 ---

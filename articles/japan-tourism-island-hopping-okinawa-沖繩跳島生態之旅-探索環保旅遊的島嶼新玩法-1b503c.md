@@ -6,7 +6,7 @@ category: island-hopping
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-island-hopping-okinawa-沖繩跳島生態之旅-探索環保旅遊的島嶼新玩法-1b503c.html
 published: 2026-06-27
-quality_score: 6.5
+quality_score: 8.6
 tags: 沖繩跳島, 生態旅遊, 慶良間諸島, 永續旅遊, 島嶼度假
 license: CC BY 4.0
 ---

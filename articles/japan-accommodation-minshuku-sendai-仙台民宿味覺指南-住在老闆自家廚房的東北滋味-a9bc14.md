@@ -6,7 +6,7 @@ category: minshuku
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-sendai-仙台民宿味覺指南-住在老闆自家廚房的東北滋味-a9bc14.html
 published: 2026-05-31
-quality_score: 6.5
+quality_score: 8.7
 tags: 仙台民宿, 東北美食, 気仙沼, 海產住宿, 家庭民宿
 license: CC BY 4.0
 ---

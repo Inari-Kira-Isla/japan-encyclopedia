@@ -6,7 +6,7 @@ category: shinkansen
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-tokyo-東京樞紐新幹線完全指南-從東京站出發的高速鐵路網路-ca3410.html
 published: 2026-05-24
-quality_score: 7.5
+quality_score: 8.8
 tags: 東京新干线, 东海道新干线, 东北新干线, 上越新干线, jr pass
 license: CC BY 4.0
 ---

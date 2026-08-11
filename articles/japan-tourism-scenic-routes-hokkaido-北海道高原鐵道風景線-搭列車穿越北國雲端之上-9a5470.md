@@ -6,7 +6,7 @@ category: scenic-routes
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-hokkaido-北海道高原鐵道風景線-搭列車穿越北國雲端之上-9a5470.html
 published: 2026-06-16
-quality_score: 6.5
+quality_score: 8.5
 tags: 北海道鐵道, 鐵道風景, 秘境車站, 觀光列車, 北海道自助旅行
 license: CC BY 4.0
 ---

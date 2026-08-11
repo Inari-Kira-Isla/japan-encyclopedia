@@ -6,7 +6,7 @@ category: sake-brewery
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sake-brewery-osaka-大阪清酒釀造所-關西商都的百年釀酒傳承-809c1c.html
 published: 2026-03-20
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪清酒, 酒造見學, 日本酒, 關西旅遊, 傳統工藝
 license: CC BY 4.0
 ---

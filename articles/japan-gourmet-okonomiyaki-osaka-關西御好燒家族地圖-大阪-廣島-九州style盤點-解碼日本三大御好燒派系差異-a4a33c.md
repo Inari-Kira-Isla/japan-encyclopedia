@@ -6,7 +6,7 @@ category: okonomiyaki
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-okonomiyaki-osaka-關西御好燒家族地圖-大阪-廣島-九州style盤點-解碼日本三大御好燒派系差異-a4a33c.html
 published: 2026-05-21
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪御好燒, 广島御好燒, 九州御好燒, 日本美食, 關西料理
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: shinkansen
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-sendai-仙台新娘株沿線深度攻略-從東京出發的東北小旅行提案-8893b8.html
 published: 2026-06-21
-quality_score: 7.5
+quality_score: 8.7
 tags: 仙台新娘株, 東北新娘株, 日本東北溫泉, 松島海岸, 仙台自由行
 license: CC BY 4.0
 ---

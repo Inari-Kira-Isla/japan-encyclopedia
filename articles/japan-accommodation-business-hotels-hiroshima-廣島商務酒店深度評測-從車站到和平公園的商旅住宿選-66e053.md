@@ -6,7 +6,7 @@ category: business-hotels
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-business-hotels-hiroshima-廣島商務酒店深度評測-從車站到和平公園的商旅住宿選-66e053.html
 published: 2026-06-17
-quality_score: 6.5
+quality_score: 8.7
 tags: 廣島商務酒店, 中國地區出差, 山陽鐵道沿線, 商務旅客住宿, 廣島交通
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: wagyu
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-wagyu-hokkaido-北海道和牛的牧場物語-產地到餐桌的極致距離-3fdfa3.html
 published: 2026-06-18
-quality_score: 6.5
+quality_score: 8.8
 tags: 北海道和牛, 十勝和牛, 帶廣燒肉, 札幌美食, 日本和牛
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: boutique-hotels
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-kyoto-京都精品酒店推薦-設計師打造的町家美學與在地文化體驗-14157a.html
 published: 2026-06-19
-quality_score: 6.5
+quality_score: 8.6
 tags: 京都精品酒店, 京都住宿, 町家住宿, 設計酒店, 祇園住宿
 license: CC BY 4.0
 ---

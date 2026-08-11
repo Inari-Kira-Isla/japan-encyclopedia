@@ -6,7 +6,7 @@ category: scenic-routes
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-tokyo-東京晨起散步-迎曙光的城市步道與在地風情-22db09.html
 published: 2026-06-18
-quality_score: 6.5
+quality_score: 8.5
 tags: 東京晨間散步, 東京步道, 日出景點, 在地體驗, 東京慢遊
 license: CC BY 4.0
 ---

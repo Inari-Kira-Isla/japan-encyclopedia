@@ -6,7 +6,7 @@ category: historical-districts
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-okinawa-沖繩歷史街區的經濟脈動-從家族小店到新創商店的生存觀察-3eceec.html
 published: 2026-06-17
-quality_score: 6.5
+quality_score: 8.7
 tags: 沖繩歷史街區, 琉球王國, 首里, 那霸, 家族老店
 license: CC BY 4.0
 ---

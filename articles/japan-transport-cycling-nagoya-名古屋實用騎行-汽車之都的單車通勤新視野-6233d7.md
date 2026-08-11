@@ -6,7 +6,7 @@ category: cycling
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-nagoya-名古屋實用騎行-汽車之都的單車通勤新視野-6233d7.html
 published: 2026-04-04
-quality_score: 7.5
+quality_score: 8.7
 tags: 名古屋, 單車騎行, 都市交通, 通勤, 基礎建設
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: department-stores
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-department-stores-kanazawa-金澤購物指南-古都百貨公司的特色與推薦-9d78b2.html
 published: 2026-05-23
-quality_score: 7.5
+quality_score: 8.8
 tags: 金澤購物, 石川縣, 金箔工藝, 日本中部, 日本百货公司
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: kabuki-theatre
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-kabuki-theatre-hiroshima-廣島表演藝術與文化體驗-穿越歷史的沉浸式劇場之旅-5fb38f.html
 published: 2026-06-30
-quality_score: 6.5
+quality_score: 8.7
 tags: 廣島表演藝術, VR體驗, 廣島和平紀念, 沉浸式劇場, 廣島彈詞
 license: CC BY 4.0
 ---

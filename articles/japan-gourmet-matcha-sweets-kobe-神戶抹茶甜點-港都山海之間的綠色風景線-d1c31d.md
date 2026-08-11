@@ -6,7 +6,7 @@ category: matcha-sweets
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-matcha-sweets-kobe-神戶抹茶甜點-港都山海之間的綠色風景線-d1c31d.html
 published: 2026-05-22
-quality_score: 6.5
+quality_score: 8.5
 tags: 神戶抹茶, 神戶甜點, 神戶美食, 抹茶甜點, 關西抹茶
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: festivals-matsuri
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-festivals-matsuri-hiroshima-廣島在地祭典散步-5個被忽略的社群盛典與隱藏版體驗-1bd9f3.html
 published: 2026-06-25
-quality_score: 6.5
+quality_score: 8.5
 tags: 廣島祭典, 社區文化, 日本夏日祭典, 在地體驗, 瀨戶內海
 license: CC BY 4.0
 ---

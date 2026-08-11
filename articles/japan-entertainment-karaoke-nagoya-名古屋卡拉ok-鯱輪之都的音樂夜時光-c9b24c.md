@@ -6,7 +6,7 @@ category: karaoke
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-karaoke-nagoya-名古屋卡拉ok-鯱輪之都的音樂夜時光-c9b24c.html
 published: 2026-03-29
-quality_score: 6.5
+quality_score: 8.8
 tags: 名古屋, 卡拉OK, 中部地方, 夜生活, 榮區
 license: CC BY 4.0
 ---

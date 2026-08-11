@@ -6,7 +6,7 @@ category: buses
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-buses-hiroshima-廣島周邊巴士小旅行-搭公車深入瀨戶內海古城與港町-4e6cfd.html
 published: 2026-06-17
-quality_score: 7.5
+quality_score: 8.5
 tags: 廣島巴士, 瀨戶內海, 尾道, 福山, 鞆之浦
 license: CC BY 4.0
 ---

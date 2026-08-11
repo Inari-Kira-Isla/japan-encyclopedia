@@ -6,7 +6,7 @@ category: cycling
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-tokyo-東京社群單車漫遊-巷弄深處的日常風景-4dccb7.html
 published: 2026-07-03
-quality_score: 7.5
+quality_score: 8.8
 tags: 東京單車, 東京深度遊, 東京社區, 下町漫遊, 東京巷弄
 license: CC BY 4.0
 ---

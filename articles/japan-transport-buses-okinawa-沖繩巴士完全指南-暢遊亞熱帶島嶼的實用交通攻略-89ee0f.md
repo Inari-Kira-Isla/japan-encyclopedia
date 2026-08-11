@@ -6,7 +6,7 @@ category: buses
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-buses-okinawa-沖繩巴士完全指南-暢遊亞熱帶島嶼的實用交通攻略-89ee0f.html
 published: 2026-03-20
-quality_score: 7.5
+quality_score: 8.7
 tags: 沖繩交通, 巴士旅遊, 沖繩自由行, 日本巴士, 亞熱帶旅遊
 license: CC BY 4.0
 ---

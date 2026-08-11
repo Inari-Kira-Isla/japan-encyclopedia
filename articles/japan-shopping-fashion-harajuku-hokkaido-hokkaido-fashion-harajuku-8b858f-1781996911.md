@@ -6,7 +6,7 @@ category: fashion-harajuku
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-fashion-harajuku-hokkaido-hokkaido-fashion-harajuku-8b858f-1781996911.html
 published: 2026-06-20
-quality_score: 6.5
+quality_score: 0.0
 tags: fashion-harajuku, hokkaido, japan
 license: CC BY 4.0
 ---

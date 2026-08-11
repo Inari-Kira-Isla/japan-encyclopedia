@@ -6,7 +6,7 @@ category: sake-brewery
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sake-brewery-kanazawa-金澤酒蔵散步-從東茶屋街到淺野川的微醺古都-f606ec.html
 published: 2026-06-22
-quality_score: 6.5
+quality_score: 8.5
 tags: 金澤清酒, 石川縣美食, 日本釀酒體驗, 加賀料理, 淺野川
 license: CC BY 4.0
 ---

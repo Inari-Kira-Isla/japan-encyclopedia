@@ -6,7 +6,7 @@ category: duty-free
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-duty-free-kanazawa-金澤免稅購物新玩法-美食與工藝的雙重體驗-d143a6.html
 published: 2026-07-05
-quality_score: 7.5
+quality_score: 8.7
 tags: 金澤免稅, 金澤購物, 近江町市場, 金箔工藝, 日本免稅攻略
 license: CC BY 4.0
 ---

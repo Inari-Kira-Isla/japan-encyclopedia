@@ -6,7 +6,7 @@ category: metro-systems
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-fukuoka-福岡地下鐵的經濟學-省錢達人的通勤攻略與隱藏版玩法-b03fed.html
 published: 2026-07-02
-quality_score: 7.5
+quality_score: 8.9
 tags: 福岡地下鐵, 九州交通, 福岡自由行, 地下鐵攻略, 日本省錢交通
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: festivals-matsuri
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-festivals-matsuri-nara-奈良祭典視覺攻略-火光-鹿群與千年古都的壯觀夜景-464d87.html
 published: 2026-06-24
-quality_score: 6.5
+quality_score: 8.7
 tags: 奈良祭典, 若草山燒山, 春日大社, 万燈籠, 日本祭典
 license: CC BY 4.0
 ---

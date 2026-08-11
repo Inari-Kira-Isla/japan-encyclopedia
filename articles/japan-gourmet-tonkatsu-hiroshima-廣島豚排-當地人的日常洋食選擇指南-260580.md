@@ -6,7 +6,7 @@ category: tonkatsu
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tonkatsu-hiroshima-廣島豚排-當地人的日常洋食選擇指南-260580.html
 published: 2026-06-19
-quality_score: 6.5
+quality_score: 9.0
 tags: 廣島美食, 豚かつ, 洋食, 廣島定食, 平價美食
 license: CC BY 4.0
 ---

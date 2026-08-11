@@ -6,7 +6,7 @@ category: gaming-arcades
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-gaming-arcades-osaka-大阪遊戲中心-親子同樂與情-約會的關西娛樂新體驗-63c4f5.html
 published: 2026-06-08
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪遊戲中心, 大阪親子遊樂, 大阪情侶約會, 關西娛樂, 大阪夜生活
 license: CC BY 4.0
 ---

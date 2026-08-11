@@ -6,7 +6,7 @@ category: escape-rooms
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-escape-rooms-sendai-仙台密室逃脫-雪國冬日裡的燒腦暖身攻略-91266b.html
 published: 2026-06-24
-quality_score: 6.5
+quality_score: 8.7
 tags: 仙台密室逃脫, 東北娛樂, 仙台冬季活動, 日本燒腦體驗, 仙台自由行
 license: CC BY 4.0
 ---

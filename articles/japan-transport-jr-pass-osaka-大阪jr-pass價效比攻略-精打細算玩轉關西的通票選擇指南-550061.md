@@ -6,7 +6,7 @@ category: jr-pass
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-jr-pass-osaka-大阪jr-pass價效比攻略-精打細算玩轉關西的通票選擇指南-550061.html
 published: 2026-03-29
-quality_score: 7.5
+quality_score: 8.7
 tags: 大阪交通, JR Pass, 關西旅遊, 交通攻略, 成本效益
 license: CC BY 4.0
 ---

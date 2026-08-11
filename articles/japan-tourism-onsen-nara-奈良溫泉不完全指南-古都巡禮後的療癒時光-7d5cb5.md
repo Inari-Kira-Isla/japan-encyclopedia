@@ -6,7 +6,7 @@ category: onsen
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-onsen-nara-奈良溫泉不完全指南-古都巡禮後的療癒時光-7d5cb5.html
 published: 2026-06-23
-quality_score: 6.5
+quality_score: 8.7
 tags: 奈良溫泉, 奈良縣, 古都溫泉, 日歸溫泉, 吉野山溫泉
 license: CC BY 4.0
 ---

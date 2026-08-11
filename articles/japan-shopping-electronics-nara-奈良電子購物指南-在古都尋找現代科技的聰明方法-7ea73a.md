@@ -6,7 +6,7 @@ category: electronics
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-electronics-nara-奈良電子購物指南-在古都尋找現代科技的聰明方法-7ea73a.html
 published: 2026-03-23
-quality_score: 7.5
+quality_score: 8.7
 tags: 日本購物, 奈良電器, 免稅指南, 購物策略, 電子產品
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: festivals-matsuri
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-festivals-matsuri-nara-奈良祭典完全攻略-千年古都的深度文化體驗與夜遊推薦-87967a.html
 published: 2026-05-24
-quality_score: 6.5
+quality_score: 8.7
 tags: 奈良, 日本祭典, 春日大社, 文化體驗, 關西旅遊
 license: CC BY 4.0
 ---

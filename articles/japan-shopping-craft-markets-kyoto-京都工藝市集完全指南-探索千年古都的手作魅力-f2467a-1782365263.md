@@ -6,7 +6,7 @@ category: craft-markets
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-craft-markets-kyoto-京都工藝市集完全指南-探索千年古都的手作魅力-f2467a-1782365263.html
 published: 2026-06-25
-quality_score: 7.5
+quality_score: 8.6
 tags: 京都工藝市集, 京都手作, 京都購物, 日本工藝, 京燒
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: scenic-routes
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-nara-奈良晨間神社散步-日出時分的千年古社靜謐遊-335ee1.html
 published: 2026-06-14
-quality_score: 6.5
+quality_score: 8.8
 tags: 奈良晨間散步, 神社步道, 日出景點, 日本古都旅遊, 春季賞櫻
 license: CC BY 4.0
 ---

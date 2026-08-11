@@ -6,7 +6,7 @@ category: minshuku
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-hiroshima-廣島民宿完全指南-在原爆記憶與宮島神跡之間的住宿選擇-abf764.html
 published: 2026-06-08
-quality_score: 6.5
+quality_score: 8.5
 tags: 廣島民宿, 宮島住宿, 平和紀念, 瀨戶內海, 廣島住宿指南
 license: CC BY 4.0
 ---

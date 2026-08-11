@@ -6,7 +6,7 @@ category: escape-rooms
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-escape-rooms-hokkaido-北海道密室逃脫冬季特別指南-雪國降溫不降溫的室內燒腦提案-af2791.html
 published: 2026-06-05
-quality_score: 6.5
+quality_score: 8.6
 tags: 北海道, 密室逃脫, 冬季旅遊, 室內活動, 札幌
 license: CC BY 4.0
 ---

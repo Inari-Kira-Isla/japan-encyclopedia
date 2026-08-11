@@ -6,7 +6,7 @@ category: day-trips
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-hiroshima-廣島美食探索一日遊-瀨戶內海風味與傳統酒藏巡禮-7ba1f0.html
 published: 2026-04-06
-quality_score: 6.5
+quality_score: 8.9
 tags: 廣島, 美食觀光, 瀨戶內海, 日本酒, 一日遊
 license: CC BY 4.0
 ---

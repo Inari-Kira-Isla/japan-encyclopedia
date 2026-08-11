@@ -6,7 +6,7 @@ category: karaoke
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-karaoke-fukuoka-福岡卡拉ok-屋臺與音符的都市冒險-02e783.html
 published: 2026-05-22
-quality_score: 6.5
+quality_score: 8.9
 tags: 福岡卡拉OK, 博多夜生活, 屋台文化, 天神商圈, 九州娱乐
 license: CC BY 4.0
 ---

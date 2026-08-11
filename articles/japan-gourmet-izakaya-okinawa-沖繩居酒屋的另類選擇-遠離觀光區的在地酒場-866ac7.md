@@ -6,7 +6,7 @@ category: izakaya
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-izakaya-okinawa-沖繩居酒屋的另類選擇-遠離觀光區的在地酒場-866ac7.html
 published: 2026-05-23
-quality_score: 6.5
+quality_score: 8.7
 tags: 沖繩, 居酒屋, 泡盛, 島唄, 那霸
 license: CC BY 4.0
 ---

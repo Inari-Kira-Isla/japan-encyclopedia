@@ -6,7 +6,7 @@ category: department-stores
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-department-stores-tokyo-東京車站樞紐型百貨完全指南-與地鐵-新幹線無縫接軌的購物體驗-59acd9.html
 published: 2026-07-05
-quality_score: 7.5
+quality_score: 8.7
 tags: 東京, 百貨公司, 車站購物, 日本購物, 東京自由行
 license: CC BY 4.0
 ---

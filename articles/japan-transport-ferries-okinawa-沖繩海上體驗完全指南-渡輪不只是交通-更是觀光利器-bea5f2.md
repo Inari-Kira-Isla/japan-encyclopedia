@@ -6,7 +6,7 @@ category: ferries
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-ferries-okinawa-沖繩海上體驗完全指南-渡輪不只是交通-更是觀光利器-bea5f2.html
 published: 2026-06-12
-quality_score: 7.5
+quality_score: 8.4
 tags: 沖繩渡輪, 賞鯨巡航, 夕陽航程, 島際交通, 沖繩跳島
 license: CC BY 4.0
 ---

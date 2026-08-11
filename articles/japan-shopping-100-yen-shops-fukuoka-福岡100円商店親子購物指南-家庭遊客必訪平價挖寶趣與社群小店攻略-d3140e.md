@@ -6,7 +6,7 @@ category: 100-yen-shops
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-100-yen-shops-fukuoka-福岡100円商店親子購物指南-家庭遊客必訪平價挖寶趣與社群小店攻略-d3140e.html
 published: 2026-06-11
-quality_score: 7.5
+quality_score: 8.5
 tags: 福岡100円商店, 親子購物, 家庭自由行, 九州平價購物, 福岡景點推薦
 license: CC BY 4.0
 ---

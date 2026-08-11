@@ -6,7 +6,7 @@ category: ferries
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-ferries-kanazawa-金澤周邊海岸航運-探索日本海側的海上移動選項-b3240b.html
 published: 2026-06-06
-quality_score: 7.5
+quality_score: 8.5
 tags: 金澤交通, 日本海渡輪, 石川縣海岸, 輪島航線, 能登半島
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: minshuku
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-fukuoka-福岡民宿完全指南-屋臺包圍下的深夜食堂驛站-092d5b.html
 published: 2026-06-08
-quality_score: 6.5
+quality_score: 8.6
 tags: 福岡民宿, 日本住宿, 屋台文化, 九州旅行, 太宰府
 license: CC BY 4.0
 ---

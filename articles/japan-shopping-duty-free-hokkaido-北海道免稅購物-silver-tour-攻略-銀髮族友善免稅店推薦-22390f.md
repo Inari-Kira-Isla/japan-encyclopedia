@@ -6,7 +6,7 @@ category: duty-free
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-duty-free-hokkaido-北海道免稅購物-silver-tour-攻略-銀髮族友善免稅店推薦-22390f.html
 published: 2026-06-24
-quality_score: 7.5
+quality_score: 8.8
 tags: 北海道免稅店, 銀髮族旅遊, 新千歲機場, 北海道伴手禮, 日本免稅攻略
 license: CC BY 4.0
 ---

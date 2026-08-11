@@ -6,7 +6,7 @@ category: vintage-thrift
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-vintage-thrift-kobe-神戶古著尋寶-中山手通與港區的復古時尚密徑-57cbab.html
 published: 2026-06-24
-quality_score: 7.5
+quality_score: 8.8
 tags: 神戶古著, Vintage, 中山手通, 復古時尚, 關西購物
 license: CC BY 4.0
 ---

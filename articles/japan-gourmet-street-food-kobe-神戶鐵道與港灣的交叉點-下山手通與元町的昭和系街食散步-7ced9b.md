@@ -6,7 +6,7 @@ category: street-food
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-street-food-kobe-神戶鐵道與港灣的交叉點-下山手通與元町的昭和系街食散步-7ced9b.html
 published: 2026-06-20
-quality_score: 6.5
+quality_score: 8.7
 tags: 神戶, 街頭美食, 昭和風情, 鐵道美食, 港都夜景
 license: CC BY 4.0
 ---

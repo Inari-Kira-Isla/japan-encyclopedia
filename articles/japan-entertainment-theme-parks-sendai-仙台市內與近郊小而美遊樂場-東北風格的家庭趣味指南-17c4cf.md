@@ -6,7 +6,7 @@ category: theme-parks
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-theme-parks-sendai-仙台市內與近郊小而美遊樂場-東北風格的家庭趣味指南-17c4cf.html
 published: 2026-06-28
-quality_score: 6.5
+quality_score: 8.5
 tags: 仙台主題樂園, 東北遊樂場, 仙台親子遊, 日本溫泉主題樂園, 仙台滑雪場
 license: CC BY 4.0
 ---

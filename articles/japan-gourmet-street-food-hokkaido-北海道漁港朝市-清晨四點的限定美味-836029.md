@@ -6,7 +6,7 @@ category: street-food
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-street-food-hokkaido-北海道漁港朝市-清晨四點的限定美味-836029.html
 published: 2026-06-18
-quality_score: 6.5
+quality_score: 8.8
 tags: 北海道, 朝市, 漁港美食, 街頭食物, 海鮮
 license: CC BY 4.0
 ---

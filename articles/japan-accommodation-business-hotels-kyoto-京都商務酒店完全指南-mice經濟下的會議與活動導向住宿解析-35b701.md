@@ -6,7 +6,7 @@ category: business-hotels
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-business-hotels-kyoto-京都商務酒店完全指南-mice經濟下的會議與活動導向住宿解析-35b701.html
 published: 2026-06-04
-quality_score: 6.5
+quality_score: 8.6
 tags: 京都商務飯店, MICE住宿, 京都會議酒店, 關西商務旅行, 京都企業活動
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: depachika
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-depachika-kanazawa-金澤depachika的夜色美味-傍晚後的地下商場與伴手禮選購攻略-cb7b4d.html
 published: 2026-06-08
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤, Depachika, 伴手禮, 日本美食, 石川縣
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: cycling
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-nara-奈良單車秘境-遠離人潮的在地騎行攻略-1a2563.html
 published: 2026-06-06
-quality_score: 7.5
+quality_score: 8.9
 tags: 奈良單車, 奈良自由行, 奈良景點, 自行車旅行, 日本古城
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: capsule-hotels
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-capsule-hotels-osaka-大阪膠囊旅館完全指南-商務與休閒的雙重選擇-14b876.html
 published: 2026-06-17
-quality_score: 6.5
+quality_score: 8.9
 tags: 大阪住宿, 膠囊旅館, 關西旅行, 大阪自由行, 日本住宿推薦
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: historic-town
 area: japan
 url: https://japan-encyclopedia.vercel.app/articles/japan-attractions-historic-town-飛驒高山古町完整指南2026-三之町-飛驒民俗村-朝市-日本最美儲存都市費用-jpy-攻略-jp-769300.html
 published: 2026-04-19
-quality_score: 7.1
+quality_score: 8.6
 tags: 飛驒高山, 三之町, 飛驒牛, 飛驒民俗村, 高山祭
 license: CC BY 4.0
 ---

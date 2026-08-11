@@ -6,7 +6,7 @@ category: garden-parks
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-kanazawa-金澤四季生態探險-公園裡的自然教室與季節物候-ef173d.html
 published: 2026-03-23
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤, 公園, 四季生態, 親子旅遊, 自然教育
 license: CC BY 4.0
 ---

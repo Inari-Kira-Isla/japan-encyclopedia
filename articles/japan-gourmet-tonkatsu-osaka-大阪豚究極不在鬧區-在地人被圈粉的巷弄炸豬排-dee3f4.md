@@ -6,7 +6,7 @@ category: tonkatsu
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tonkatsu-osaka-大阪豚究極不在鬧區-在地人被圈粉的巷弄炸豬排-dee3f4.html
 published: 2026-05-25
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪美食, 豚桔, 關西洋食, 炸豬排, 大阪旅行
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: castle-towns
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-castle-towns-nara-奈良城下町-被遺忘的武家據點與遺產-10ee60.html
 published: 2026-04-04
-quality_score: 6.5
+quality_score: 8.7
 tags: 奈良城下町, 郡山城, 片桐城, 日本城郭, 歷史散步
 license: CC BY 4.0
 ---

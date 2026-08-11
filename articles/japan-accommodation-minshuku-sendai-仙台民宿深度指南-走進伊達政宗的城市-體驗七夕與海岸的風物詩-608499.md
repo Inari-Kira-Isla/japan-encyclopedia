@@ -6,7 +6,7 @@ category: minshuku
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-sendai-仙台民宿深度指南-走進伊達政宗的城市-體驗七夕與海岸的風物詩-608499.html
 published: 2026-06-08
-quality_score: 6.5
+quality_score: 8.9
 tags: 仙台民宿, 松岛海岸, 七夕祭典, 伊达政宗, 奥之细道
 license: CC BY 4.0
 ---

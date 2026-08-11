@@ -6,7 +6,7 @@ category: kabuki-theatre
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-kabuki-theatre-tokyo-外國人第一次看東京kabuki-從購入票到現場體驗的完整攻略-c53fa1.html
 published: 2026-06-26
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京Kabuki, 外國人體驗, 歌舞伎座, 國立劇場, 明治座
 license: CC BY 4.0
 ---

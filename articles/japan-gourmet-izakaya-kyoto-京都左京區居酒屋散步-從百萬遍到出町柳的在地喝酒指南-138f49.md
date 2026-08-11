@@ -6,7 +6,7 @@ category: izakaya
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-izakaya-kyoto-京都左京區居酒屋散步-從百萬遍到出町柳的在地喝酒指南-138f49.html
 published: 2026-06-07
-quality_score: 6.5
+quality_score: 8.6
 tags: 京都居酒屋, 左京區, 出町柳, 百萬遍, 京都美食
 license: CC BY 4.0
 ---

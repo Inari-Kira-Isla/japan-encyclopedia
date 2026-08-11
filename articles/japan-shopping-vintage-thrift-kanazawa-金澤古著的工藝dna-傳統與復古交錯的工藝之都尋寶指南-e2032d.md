@@ -6,7 +6,7 @@ category: vintage-thrift
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-vintage-thrift-kanazawa-金澤古著的工藝dna-傳統與復古交錯的工藝之都尋寶指南-e2032d.html
 published: 2026-06-22
-quality_score: 7.5
+quality_score: 8.8
 tags: 金澤古著, 日本古著, 二手衣物, 工藝之都, 加賀友禪
 license: CC BY 4.0
 ---

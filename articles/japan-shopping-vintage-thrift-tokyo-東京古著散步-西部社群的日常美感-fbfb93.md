@@ -6,7 +6,7 @@ category: vintage-thrift
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-vintage-thrift-tokyo-東京古著散步-西部社群的日常美感-fbfb93.html
 published: 2026-03-28
-quality_score: 7.5
+quality_score: 8.7
 tags: 東京古著, vintage, 古著推薦, 吉祥寺, 下北澤
 license: CC BY 4.0
 ---

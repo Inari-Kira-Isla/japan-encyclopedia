@@ -6,7 +6,7 @@ category: minshuku
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-fukuoka-福岡民宿完全指南-博多運河與商鋪街的市民宿體驗-e3a5ed.html
 published: 2026-06-12
-quality_score: 6.5
+quality_score: 8.7
 tags: 福岡民宿, 博多住宿, 屋台文化, 九州旅行, 市民宿
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: temples-shrines
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-temples-shrines-fukuoka-福岡神社寺院-市中心就能造訪的靈性空間-79e23e.html
 published: 2026-03-29
-quality_score: 6.5
+quality_score: 8.7
 tags: 福岡神社, 博多寺廟, 太宰府天滿宮, 櫛田神社, 九州宗教景點
 license: CC BY 4.0
 ---

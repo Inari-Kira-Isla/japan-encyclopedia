@@ -6,7 +6,7 @@ category: shinkansen
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-fukuoka-九州玄關的極速驛站-博多車站與山陽新幹線完全指南-b714d1.html
 published: 2026-06-13
-quality_score: 7.5
+quality_score: 8.7
 tags: 博多站, 山陽新幹線, 福岡交通, 九州鐵道, 日本鐵道旅遊
 license: CC BY 4.0
 ---

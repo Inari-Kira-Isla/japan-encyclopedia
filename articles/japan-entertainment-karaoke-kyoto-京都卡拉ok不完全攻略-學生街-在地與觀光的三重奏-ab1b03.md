@@ -6,7 +6,7 @@ category: karaoke
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-karaoke-kyoto-京都卡拉ok不完全攻略-學生街-在地與觀光的三重奏-ab1b03.html
 published: 2026-06-09
-quality_score: 6.5
+quality_score: 8.7
 tags: 京都卡拉OK, 京都娛樂, 京都夜生活, 學生街, 關西卡拉OK
 license: CC BY 4.0
 ---

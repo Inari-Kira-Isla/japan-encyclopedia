@@ -6,7 +6,7 @@ category: izakaya
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-izakaya-kanazawa-金澤居酒屋的-工藝職人-哲學-巷弄深處的在地喝酒指南-c629bd.html
 published: 2026-06-28
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤居酒屋, 石川縣美食, 日本海海鮮, 職人文化, 在地體驗
 license: CC BY 4.0
 ---

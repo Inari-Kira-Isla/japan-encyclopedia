@@ -6,7 +6,7 @@ category: festivals-matsuri
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-festivals-matsuri-kanazawa-金澤祭典深度體驗-走進加賀百萬石的秋季盛典-感受工藝與慶典的完美融-d358bc.html
 published: 2026-06-02
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤祭典, 加賀百萬石, 金箔祭, 東茶屋街祭, 日本秋季祭典
 license: CC BY 4.0
 ---

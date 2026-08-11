@@ -6,7 +6,7 @@ category: izakaya
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-izakaya-fukuoka-福岡暖心居酒屋冬季攻略-不起眼小店裡的人情溫度-038d1e.html
 published: 2026-05-21
-quality_score: 6.5
+quality_score: 8.6
 tags: 福岡居酒屋, 冬季, 暖桌居酒屋, 女性友善, 在地
 license: CC BY 4.0
 ---

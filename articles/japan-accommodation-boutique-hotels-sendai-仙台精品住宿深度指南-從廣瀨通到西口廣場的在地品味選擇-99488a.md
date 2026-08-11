@@ -6,7 +6,7 @@ category: boutique-hotels
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-sendai-仙台精品住宿深度指南-從廣瀨通到西口廣場的在地品味選擇-99488a.html
 published: 2026-06-05
-quality_score: 6.5
+quality_score: 8.5
 tags: 仙台, 精品住宿, 東北旅行, 日本住宿, 杜之都
 license: CC BY 4.0
 ---

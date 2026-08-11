@@ -6,7 +6,7 @@ category: karaoke
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-karaoke-osaka-大阪卡拉ok-天王寺新世界區的庶民歌聲-bfd4d7.html
 published: 2026-06-10
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪卡拉OK, 天王寺, 新世界, 關西娛樂, 大阪夜生活
 license: CC BY 4.0
 ---

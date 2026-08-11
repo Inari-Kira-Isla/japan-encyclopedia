@@ -6,7 +6,7 @@ category: scenic-routes
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-kyoto-京都工藝之路-走進千年古城的手作與產業文化巡禮-ee9378.html
 published: 2026-06-23
-quality_score: 6.5
+quality_score: 8.8
 tags: 京都工藝, 西陣織, 伏見清酒, 宇治茶, 清水燒
 license: CC BY 4.0
 ---

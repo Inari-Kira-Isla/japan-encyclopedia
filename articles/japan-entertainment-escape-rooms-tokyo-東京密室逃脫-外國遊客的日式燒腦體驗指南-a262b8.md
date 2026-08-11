@@ -6,7 +6,7 @@ category: escape-rooms
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-escape-rooms-tokyo-東京密室逃脫-外國遊客的日式燒腦體驗指南-a262b8.html
 published: 2026-06-07
-quality_score: 6.5
+quality_score: 8.5
 tags: 東京密室逃脫, 東京娛樂, 東京體驗, 日本旅遊, 密室逃脫
 license: CC BY 4.0
 ---

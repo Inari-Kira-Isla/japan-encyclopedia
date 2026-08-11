@@ -6,7 +6,7 @@ category: fashion-harajuku
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-fashion-harajuku-hiroshima-廣島年輕時尚購物指南-遠離東京原宿的中國地方潮流密境-f0c15d.html
 published: 2026-03-29
-quality_score: 7.5
+quality_score: 8.7
 tags: 廣島購物, 日本中國地方時尚, 廣島年輕人文化, 紙屋町商圈, 八丁堀潮流
 license: CC BY 4.0
 ---

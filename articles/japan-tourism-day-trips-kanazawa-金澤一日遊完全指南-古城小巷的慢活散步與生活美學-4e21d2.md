@@ -6,7 +6,7 @@ category: day-trips
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-kanazawa-金澤一日遊完全指南-古城小巷的慢活散步與生活美學-4e21d2.html
 published: 2026-05-23
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤一日遊, 金澤自由行, 石川縣旅遊, 金澤散步, 關西近郊
 license: CC BY 4.0
 ---

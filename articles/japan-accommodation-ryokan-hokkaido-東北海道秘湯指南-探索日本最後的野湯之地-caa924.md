@@ -6,7 +6,7 @@ category: ryokan
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-hokkaido-東北海道秘湯指南-探索日本最後的野湯之地-caa924.html
 published: 2026-06-19
-quality_score: 6.5
+quality_score: 8.8
 tags: 北海道秘溫泉, 東北海道Ryokan, 強鹼性溫泉, 弟子屈拉, 川湯溫泉
 license: CC BY 4.0
 ---

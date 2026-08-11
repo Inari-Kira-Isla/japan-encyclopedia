@@ -6,7 +6,7 @@ category: escape-rooms
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-escape-rooms-okinawa-沖繩密室逃脫完全攻略-渡假勝地的室內解謎新穎體驗-357500.html
 published: 2026-05-23
-quality_score: 6.5
+quality_score: 7.9
 tags: 沖繩娛樂, 密室逃脫, 室內活動, 那霸市區, 南國度假
 license: CC BY 4.0
 ---

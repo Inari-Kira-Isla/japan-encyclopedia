@@ -6,7 +6,7 @@ category: 100-yen-shops
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-100-yen-shops-kyoto-京都銀髮族生活秘境-100円商店中的古都日常-2dcfe4.html
 published: 2026-06-26
-quality_score: 7.5
+quality_score: 8.7
 tags: 京都100円商店, 銀髮族購物, 古都生活, 京都自由行, 平價購物
 license: CC BY 4.0
 ---

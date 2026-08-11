@@ -6,7 +6,7 @@ category: scenic-routes
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-hiroshima-廣島山嶽攝影路線指南-捕捉中國山地的絕美光影-27b9c9.html
 published: 2026-03-27
-quality_score: 6.5
+quality_score: 8.8
 tags: 廣島, 山岳攝影, 自駕旅遊, 風景攝影, 中國山地
 license: CC BY 4.0
 ---

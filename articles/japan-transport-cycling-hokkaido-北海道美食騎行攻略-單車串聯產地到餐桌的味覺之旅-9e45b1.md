@@ -6,7 +6,7 @@ category: cycling
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-hokkaido-北海道美食騎行攻略-單車串聯產地到餐桌的味覺之旅-9e45b1.html
 published: 2026-04-04
-quality_score: 7.5
+quality_score: 8.7
 tags: 北海道, 單車旅行, 美食探索, 產地體驗, 海鮮
 license: CC BY 4.0
 ---

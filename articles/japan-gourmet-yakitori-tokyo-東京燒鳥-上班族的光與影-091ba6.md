@@ -6,7 +6,7 @@ category: yakitori
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-yakitori-tokyo-東京燒鳥-上班族的光與影-091ba6.html
 published: 2026-06-22
-quality_score: 6.5
+quality_score: 8.8
 tags: 東京美食, 燒鳥, 日本料理, 宵夜, 職場文化
 license: CC BY 4.0
 ---

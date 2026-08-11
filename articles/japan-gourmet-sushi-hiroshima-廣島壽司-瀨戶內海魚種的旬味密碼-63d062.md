@@ -6,7 +6,7 @@ category: sushi
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sushi-hiroshima-廣島壽司-瀨戶內海魚種的旬味密碼-63d062.html
 published: 2026-06-18
-quality_score: 6.5
+quality_score: 8.5
 tags: 廣島壽司, 瀨戶內海, 旬, 在地食材, 真鯛
 license: CC BY 4.0
 ---

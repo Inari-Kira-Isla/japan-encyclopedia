@@ -6,7 +6,7 @@ category: love-hotels
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-love-hotels-nagoya-名古屋商務戀人旅宿-中部產業重鎮的隱密驛站-5cc4d4.html
 published: 2026-06-19
-quality_score: 6.5
+quality_score: 8.7
 tags: 名古屋, Love Hotel, 中部地方, 商務出差, 情侶住宿
 license: CC BY 4.0
 ---

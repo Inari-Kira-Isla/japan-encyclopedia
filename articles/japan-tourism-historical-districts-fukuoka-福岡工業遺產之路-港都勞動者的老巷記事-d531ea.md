@@ -6,7 +6,7 @@ category: historical-districts
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-fukuoka-福岡工業遺產之路-港都勞動者的老巷記事-d531ea.html
 published: 2026-06-28
-quality_score: 6.5
+quality_score: 8.7
 tags: 福岡歷史街區, 港口城市, 產業文化, 工人階級, 清晨景點
 license: CC BY 4.0
 ---

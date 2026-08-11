@@ -6,7 +6,7 @@ category: boutique-hotels
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-tokyo-東京精品酒店文化體驗指南-藝術與設計的住宿美學-908498.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.8
 tags: 東京住宿, 精品酒店, 文化體驗, 藝術旅遊, 設計美學
 license: CC BY 4.0
 ---

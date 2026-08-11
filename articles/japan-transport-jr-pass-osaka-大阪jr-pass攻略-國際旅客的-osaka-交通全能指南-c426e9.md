@@ -6,7 +6,7 @@ category: jr-pass
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-jr-pass-osaka-大阪jr-pass攻略-國際旅客的-osaka-交通全能指南-c426e9.html
 published: 2026-05-31
-quality_score: 7.5
+quality_score: 8.8
 tags: 大阪交通, JR Pass攻略, 關西機場交通, 大阪自由行, 神戶奈良
 license: CC BY 4.0
 ---

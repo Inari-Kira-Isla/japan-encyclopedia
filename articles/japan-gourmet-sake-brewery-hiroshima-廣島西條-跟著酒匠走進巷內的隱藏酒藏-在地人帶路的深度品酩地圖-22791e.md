@@ -6,7 +6,7 @@ category: sake-brewery
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sake-brewery-hiroshima-廣島西條-跟著酒匠走進巷內的隱藏酒藏-在地人帶路的深度品酩地圖-22791e.html
 published: 2026-06-21
-quality_score: 6.5
+quality_score: 8.7
 tags: 廣島清酒, 西條酒藏, 日本釀酒, 隱藏版店家, 品酒體驗
 license: CC BY 4.0
 ---

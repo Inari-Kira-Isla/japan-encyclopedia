@@ -6,7 +6,7 @@ category: craft-markets
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-craft-markets-okinawa-沖繩手工藝市集省錢攻略-離島原創小物的價格優勢與尋寶技巧-e29bf5.html
 published: 2026-06-29
-quality_score: 7.5
+quality_score: 8.6
 tags: 沖繩市集, 手作市集, 自由行, 省錢攻略, 離島旅遊
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: escape-rooms
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-escape-rooms-fukuoka-福岡-escape-rooms-深度玩法-從-玩家視角看博多的密室逃脫文化-528f84.html
 published: 2026-06-02
-quality_score: 6.5
+quality_score: 8.8
 tags: 福岡娛樂, 密室逃脫, 博多體驗, 福岡自由行, 九州燒腦
 license: CC BY 4.0
 ---

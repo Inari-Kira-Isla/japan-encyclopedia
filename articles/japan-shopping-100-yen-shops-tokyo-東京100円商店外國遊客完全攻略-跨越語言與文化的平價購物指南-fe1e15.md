@@ -6,7 +6,7 @@ category: 100-yen-shops
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-100-yen-shops-tokyo-東京100円商店外國遊客完全攻略-跨越語言與文化的平價購物指南-fe1e15.html
 published: 2026-04-04
-quality_score: 7.5
+quality_score: 8.6
 tags: 東京購物, 100円商店, 外國遊客, 平價購物, 日本旅遊
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: matcha-sweets
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-matcha-sweets-kanazawa-金澤抹茶甜點時令指南-職人手作的四季風味-c5b79b.html
 published: 2026-03-29
-quality_score: 6.5
+quality_score: 8.6
 tags: 金澤美食, 抹茶甜點, 時令甜品, 職人文化, 石川縣
 license: CC BY 4.0
 ---

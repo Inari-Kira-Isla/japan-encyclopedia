@@ -6,7 +6,7 @@ category: kaiseki
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-kaiseki-hokkaido-北海道會席料理-極北食材的舞臺-477130.html
 published: 2026-06-29
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道會席料理, 小樽美食, 札幌薄野, 旭川會席, 俱知安溫泉會席
 license: CC BY 4.0
 ---

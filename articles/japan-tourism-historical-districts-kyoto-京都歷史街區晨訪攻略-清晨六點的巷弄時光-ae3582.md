@@ -6,7 +6,7 @@ category: historical-districts
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-kyoto-京都歷史街區晨訪攻略-清晨六點的巷弄時光-ae3582.html
 published: 2026-06-24
-quality_score: 6.5
+quality_score: 9.0
 tags: 京都, 歷史街區, 嵐山, 祇園, 伏見稻荷
 license: CC BY 4.0
 ---

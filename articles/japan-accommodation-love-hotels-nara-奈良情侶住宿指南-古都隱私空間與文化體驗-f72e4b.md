@@ -6,7 +6,7 @@ category: love-hotels
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-love-hotels-nara-奈良情侶住宿指南-古都隱私空間與文化體驗-f72e4b.html
 published: 2026-04-04
-quality_score: 6.5
+quality_score: 8.8
 tags: 奈良住宿, 情侶旅館, 古都文化, 隱私空間, 關西旅遊
 license: CC BY 4.0
 ---

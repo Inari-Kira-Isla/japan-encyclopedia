@@ -6,7 +6,7 @@ category: ski-resorts
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-ski-resorts-osaka-大阪出發關西滑雪指南-近郊雪場與交通攻略-37f3ca.html
 published: 2026-06-30
-quality_score: 6.5
+quality_score: 8.5
 tags: 大阪滑雪, 關西滑雪場, 近江滑雪, 六甲山滑雪, 信樂高原滑雪
 license: CC BY 4.0
 ---

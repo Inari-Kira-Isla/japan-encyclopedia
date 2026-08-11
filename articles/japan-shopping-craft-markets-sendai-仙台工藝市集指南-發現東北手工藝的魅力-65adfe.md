@@ -6,7 +6,7 @@ category: craft-markets
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-craft-markets-sendai-仙台工藝市集指南-發現東北手工藝的魅力-65adfe.html
 published: 2026-03-16
-quality_score: 7.5
+quality_score: 8.6
 tags: 仙台, 日本東北, 工藝市集, 手工藝, 旅遊指南
 license: CC BY 4.0
 ---

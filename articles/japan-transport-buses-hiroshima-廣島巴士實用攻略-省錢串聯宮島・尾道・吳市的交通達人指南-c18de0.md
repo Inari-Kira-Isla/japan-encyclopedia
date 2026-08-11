@@ -6,7 +6,7 @@ category: buses
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-buses-hiroshima-廣島巴士實用攻略-省錢串聯宮島・尾道・吳市的交通達人指南-c18de0.html
 published: 2026-06-11
-quality_score: 7.5
+quality_score: 8.6
 tags: 廣島巴士, 宮島交通, 尾道旅遊, 吳市, 瀨戶內海
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: tempura
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tempura-kobe-神戶天婦羅-國際港都的海鮮革新-122b4f.html
 published: 2026-04-04
-quality_score: 6.5
+quality_score: 8.7
 tags: 神戶美食, 天婦羅, 瀨戶內海鮮, 港口文化, 關西料理
 license: CC BY 4.0
 ---

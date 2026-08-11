@@ -6,7 +6,7 @@ category: boutique-hotels
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-kyoto-京都郊區精品宿-遠離人群的山林隱密住宿體驗-75b9f4.html
 published: 2026-06-19
-quality_score: 6.5
+quality_score: 8.9
 tags: 京都精品酒店, 郊區住宿, 山林溫泉, 鞍馬山, 大原
 license: CC BY 4.0
 ---

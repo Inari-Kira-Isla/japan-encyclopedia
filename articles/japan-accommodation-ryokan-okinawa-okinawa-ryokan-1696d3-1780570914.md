@@ -6,7 +6,7 @@ category: ryokan
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-okinawa-okinawa-ryokan-1696d3-1780570914.html
 published: 2026-06-04
-quality_score: 5.5
+quality_score: 6.7
 tags: ryokan, okinawa, japan
 license: CC BY 4.0
 ---

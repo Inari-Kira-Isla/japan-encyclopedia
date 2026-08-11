@@ -6,7 +6,7 @@ category: garden-parks
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-osaka-大阪花園公園巡禮-港都綠境的四季度假美學-63892a.html
 published: 2026-05-24
-quality_score: 6.5
+quality_score: 8.9
 tags: 大阪花園, 大阪公園, 關西賞櫻, 大阪親子, 日本庭園
 license: CC BY 4.0
 ---

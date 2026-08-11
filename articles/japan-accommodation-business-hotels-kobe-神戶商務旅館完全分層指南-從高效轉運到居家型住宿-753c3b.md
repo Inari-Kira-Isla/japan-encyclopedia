@@ -6,7 +6,7 @@ category: business-hotels
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-business-hotels-kobe-神戶商務旅館完全分層指南-從高效轉運到居家型住宿-753c3b.html
 published: 2026-03-22
-quality_score: 6.5
+quality_score: 8.6
 tags: 神戶住宿, 商務旅館, 日本出差, 預算住宿, 交通樞紐
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: metro-systems
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-kyoto-京都地下鐵實用攻略-遊客常見問題與聰明出行方案-112026.html
 published: 2026-06-26
-quality_score: 7.5
+quality_score: 9.0
 tags: 京都地下鐵, 京都交通, 京都Metro, 烏丸線, 東西線
 license: CC BY 4.0
 ---

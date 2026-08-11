@@ -6,7 +6,7 @@ category: boutique-hotels
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-hiroshima-廣島精品酒店-療癒之旅的住宿選擇-df1d85.html
 published: 2026-06-20
-quality_score: 6.5
+quality_score: 8.7
 tags: 廣島精品酒店, 廣島住宿推薦, 瀨戶內海, 和平紀念, 日本自由行
 license: CC BY 4.0
 ---

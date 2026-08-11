@@ -6,7 +6,7 @@ category: garden-parks
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-okinawa-沖繩花園夕暮紀行-熱帶島嶼的黃金時刻與夜間質感-c97455.html
 published: 2026-06-24
-quality_score: 6.5
+quality_score: 8.6
 tags: 沖繩, 花園, 公園, 傍晚, 夕陽
 license: CC BY 4.0
 ---

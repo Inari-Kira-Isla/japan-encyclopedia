@@ -6,7 +6,7 @@ category: cycling
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-okinawa-沖繩單車慢遊-陽光與海風的島嶼騎行指南-56bcf0.html
 published: 2026-03-29
-quality_score: 7.5
+quality_score: 8.7
 tags: 沖繩單車, 沖繩自行車, Okinawa Cycling, 島嶼騎行, 沖繩自由行
 license: CC BY 4.0
 ---

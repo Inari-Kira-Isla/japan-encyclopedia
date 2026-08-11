@@ -6,7 +6,7 @@ category: sumo
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-okinawa-沖繩相撲文化-失落與重生的力士精神體驗-38fb39.html
 published: 2026-03-20
-quality_score: 6.5
+quality_score: 8.5
 tags: 沖繩相撲, 琉球文化, 日本國技, 傳統體驗, 武道文化
 license: CC BY 4.0
 ---

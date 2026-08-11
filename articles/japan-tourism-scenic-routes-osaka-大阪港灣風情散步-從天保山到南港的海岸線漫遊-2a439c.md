@@ -6,7 +6,7 @@ category: scenic-routes
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-osaka-大阪港灣風情散步-從天保山到南港的海岸線漫遊-2a439c.html
 published: 2026-06-22
-quality_score: 6.5
+quality_score: 8.9
 tags: 大阪景點, 港灣散步, 海岸線, 天保山, 南港
 license: CC BY 4.0
 ---

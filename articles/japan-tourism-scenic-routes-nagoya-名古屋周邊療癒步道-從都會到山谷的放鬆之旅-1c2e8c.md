@@ -6,7 +6,7 @@ category: scenic-routes
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-nagoya-名古屋周邊療癒步道-從都會到山谷的放鬆之旅-1c2e8c.html
 published: 2026-04-06
-quality_score: 6.5
+quality_score: 8.8
 tags: 名古屋, 療癒步道, 自然之旅, 近郊一日遊, 賞楓景點
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: yakitori
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-yakitori-nagoya-名古屋燒鳥-西山與港區之間的名古屋流串燒地圖-32b2ea.html
 published: 2026-06-03
-quality_score: 6.5
+quality_score: 8.5
 tags: 名古屋燒鳥, 名古屋美食, 中部國際機場, 榮商圈, 港區
 license: CC BY 4.0
 ---

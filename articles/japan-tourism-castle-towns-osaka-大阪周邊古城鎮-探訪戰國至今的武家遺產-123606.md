@@ -6,7 +6,7 @@ category: castle-towns
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-castle-towns-osaka-大阪周邊古城鎮-探訪戰國至今的武家遺產-123606.html
 published: 2026-05-31
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪旅遊, 關西古城, 城下町, 日本城堡, 姬路城
 license: CC BY 4.0
 ---

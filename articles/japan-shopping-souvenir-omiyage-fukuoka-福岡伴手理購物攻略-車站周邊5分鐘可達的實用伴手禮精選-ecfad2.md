@@ -6,7 +6,7 @@ category: souvenir-omiyage
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-souvenir-omiyage-fukuoka-福岡伴手理購物攻略-車站周邊5分鐘可達的實用伴手禮精選-ecfad2.html
 published: 2026-07-01
-quality_score: 7.5
+quality_score: 8.7
 tags: 福岡伴手禮, 博多車站, 九州特產, 日本購物, 天神商圈
 license: CC BY 4.0
 ---

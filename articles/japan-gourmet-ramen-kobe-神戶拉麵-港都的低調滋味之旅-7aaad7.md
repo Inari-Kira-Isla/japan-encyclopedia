@@ -6,7 +6,7 @@ category: ramen
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-ramen-kobe-神戶拉麵-港都的低調滋味之旅-7aaad7.html
 published: 2026-03-21
-quality_score: 6.5
+quality_score: 8.6
 tags: 神戶美食, 拉麵, 日本港都, 海鮮高湯, 季節美食
 license: CC BY 4.0
 ---

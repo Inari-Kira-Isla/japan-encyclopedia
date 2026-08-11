@@ -6,7 +6,7 @@ category: ryokan
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-okinawa-沖繩傳統住宿指南-體驗島嶼慢活的和式待客之道-4c7c97.html
 published: 2026-07-04
-quality_score: 6.5
+quality_score: 8.6
 tags: 沖繩住宿, 傳統民宿, Guesthouse, 琉球文化, 島嶼慢旅
 license: CC BY 4.0
 ---

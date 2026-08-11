@@ -6,7 +6,7 @@ category: ryokan
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-nara-奈良旅館文化體驗-佛國古都的和式住宿美學-d6e81c.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.6
 tags: 奈良住宿, 日式旅館, 佛教文化, 古都體驗, 傳統建築
 license: CC BY 4.0
 ---

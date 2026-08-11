@@ -6,7 +6,7 @@ category: boutique-hotels
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-hiroshima-廣島質感旅宿-從和平之城到瀨戶內藝術跳島的設計據點-7156cd.html
 published: 2026-06-28
-quality_score: 6.5
+quality_score: 8.7
 tags: 廣島精品飯店, boutique hotels, 和平紀念公園, 瀨戶內藝術, 宮島住宿
 license: CC BY 4.0
 ---

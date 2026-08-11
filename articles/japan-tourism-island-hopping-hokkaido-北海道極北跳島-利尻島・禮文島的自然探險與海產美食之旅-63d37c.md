@@ -6,7 +6,7 @@ category: island-hopping
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-island-hopping-hokkaido-北海道極北跳島-利尻島・禮文島的自然探險與海產美食之旅-63d37c.html
 published: 2026-06-22
-quality_score: 6.5
+quality_score: 8.5
 tags: 北海道跳島, 利沓島, 禮文島, 極北島嶼, 海膽美食
 license: CC BY 4.0
 ---

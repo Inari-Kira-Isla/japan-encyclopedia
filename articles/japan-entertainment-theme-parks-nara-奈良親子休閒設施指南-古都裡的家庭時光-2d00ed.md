@@ -6,7 +6,7 @@ category: theme-parks
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-theme-parks-nara-奈良親子休閒設施指南-古都裡的家庭時光-2d00ed.html
 published: 2026-06-09
-quality_score: 6.5
+quality_score: 8.4
 tags: 奈良主题乐园, 奈良亲子游, 奈良休闲设施, 奈良家庭旅游, 奈良公园
 license: CC BY 4.0
 ---

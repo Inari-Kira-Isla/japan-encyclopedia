@@ -6,7 +6,7 @@ category: boutique-hotels
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-hokkaido-北海道精品酒店-雪國旬味與湯治生活的深度漫遊-b64b51.html
 published: 2026-06-24
-quality_score: 6.5
+quality_score: 8.6
 tags: 北海道精品酒店, 雪國住宿, 溫泉飯店, 小樽住宿, 阿寒湖溫泉
 license: CC BY 4.0
 ---

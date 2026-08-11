@@ -6,7 +6,7 @@ category: okonomiyaki
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-okonomiyaki-hiroshima-廣島御好燒-職人傳承的庶民美食藝術-964519.html
 published: 2026-04-06
-quality_score: 6.5
+quality_score: 8.9
 tags: 廣島美食, 御好燒, 日式鐵板燒, 庶民料理, 職人技藝
 license: CC BY 4.0
 ---

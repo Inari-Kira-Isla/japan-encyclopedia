@@ -6,7 +6,7 @@ category: matcha-sweets
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-matcha-sweets-sendai-仙台抹茶甜點-下午茶時光的綠色療癒-9e3ac1.html
 published: 2026-06-05
-quality_score: 6.5
+quality_score: 8.8
 tags: 仙台抹茶甜點, 東北美食, 下午茶推薦, 學府城市, 咖啡廳
 license: CC BY 4.0
 ---

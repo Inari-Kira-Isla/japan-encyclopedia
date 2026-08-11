@@ -6,7 +6,7 @@ category: rental-cars
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-kanazawa-金澤租車攝影攻略-自駕探尋北陸光影秘境的拍攝指南-8aa268.html
 published: 2026-05-25
-quality_score: 7.5
+quality_score: 7.9
 tags: 金澤租車, 北陸自駕, 攝影旅行, 能登半島, 千里濱
 license: CC BY 4.0
 ---

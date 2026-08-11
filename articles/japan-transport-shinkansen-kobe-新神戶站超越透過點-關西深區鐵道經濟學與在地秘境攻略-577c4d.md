@@ -6,7 +6,7 @@ category: shinkansen
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-kobe-新神戶站超越透過點-關西深區鐵道經濟學與在地秘境攻略-577c4d.html
 published: 2026-07-05
-quality_score: 7.5
+quality_score: 8.7
 tags: 新神戶站, 神戶交通, 關西鐵道, 姬路城, 六甲山
 license: CC BY 4.0
 ---

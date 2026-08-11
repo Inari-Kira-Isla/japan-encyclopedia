@@ -6,7 +6,7 @@ category: castle-towns
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-castle-towns-fukuoka-福岡城下町散步-巷弄間的武家風情與ローカル美食-e04a2d.html
 published: 2026-05-22
-quality_score: 6.5
+quality_score: 8.6
 tags: 福岡, 城下町, 散步, 武家住宅, 屋台
 license: CC BY 4.0
 ---

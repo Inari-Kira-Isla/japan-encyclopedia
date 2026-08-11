@@ -6,7 +6,7 @@ category: tonkatsu
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tonkatsu-kobe-神戶炸豬排-港都洋食文化中的關西風洋食體驗-5115fe.html
 published: 2026-06-20
-quality_score: 6.5
+quality_score: 8.7
 tags: 神戶, 炸豬排, 洋食, 關西, 豚カツ
 license: CC BY 4.0
 ---

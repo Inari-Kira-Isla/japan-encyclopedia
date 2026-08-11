@@ -6,7 +6,7 @@ category: vintage-thrift
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-vintage-thrift-hiroshima-廣島古著散步-從和平紀念區到尾道老街的質感尋寶指南-909b4b.html
 published: 2026-07-04
-quality_score: 7.5
+quality_score: 8.8
 tags: 廣島古著, 日本古著店, 廣島購物, 瀨戶內海, 復古時尚
 license: CC BY 4.0
 ---

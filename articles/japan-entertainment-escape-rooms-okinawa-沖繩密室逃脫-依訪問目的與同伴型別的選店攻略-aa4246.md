@@ -6,7 +6,7 @@ category: escape-rooms
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-escape-rooms-okinawa-沖繩密室逃脫-依訪問目的與同伴型別的選店攻略-aa4246.html
 published: 2026-05-22
-quality_score: 6.5
+quality_score: 8.8
 tags: 沖繩密室, 沖繩娛樂, 情侶約會, 親子活動, 南國體驗
 license: CC BY 4.0
 ---

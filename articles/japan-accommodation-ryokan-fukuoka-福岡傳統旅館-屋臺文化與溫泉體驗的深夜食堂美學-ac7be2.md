@@ -6,7 +6,7 @@ category: ryokan
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-fukuoka-福岡傳統旅館-屋臺文化與溫泉體驗的深夜食堂美學-ac7be2.html
 published: 2026-07-01
-quality_score: 6.5
+quality_score: 8.8
 tags: 福岡住宿, 九州旅行, 傳統旅馆, 屋台文化, 博多
 license: CC BY 4.0
 ---

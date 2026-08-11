@@ -6,7 +6,7 @@ category: historical-districts
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-nara-奈良歷史街區-探訪古都巷弄間的生活紋理-404eea.html
 published: 2026-05-24
-quality_score: 6.5
+quality_score: 8.6
 tags: 奈良歷史街區, 奈良深度遊, 古都漫遊, 日本文化體驗, 關西自由行
 license: CC BY 4.0
 ---

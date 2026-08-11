@@ -6,7 +6,7 @@ category: cycling
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-okinawa-沖繩單車深度遊-在地人帶路的5條秘境路線與實用租車指南-1bd5e3.html
 published: 2026-06-20
-quality_score: 7.5
+quality_score: 8.7
 tags: 沖繩單車, 沖繩自行車, 沖繩秘境路線, Okinawa Cycling, 島嶼騎行
 license: CC BY 4.0
 ---

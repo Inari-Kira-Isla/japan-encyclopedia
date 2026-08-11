@@ -6,7 +6,7 @@ category: minshuku
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-okinawa-沖繩民宿完全指南-感受島嶼風情的家庭式住宿體驗-f6ade8.html
 published: 2026-05-31
-quality_score: 6.5
+quality_score: 8.5
 tags: 沖繩民宿, 沖繩住宿, 沖繩自由行, 石垣島民宿, 那霸住宿
 license: CC BY 4.0
 ---

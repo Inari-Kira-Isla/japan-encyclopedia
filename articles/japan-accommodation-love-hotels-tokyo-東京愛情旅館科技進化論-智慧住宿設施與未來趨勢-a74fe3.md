@@ -6,7 +6,7 @@ category: love-hotels
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-love-hotels-tokyo-東京愛情旅館科技進化論-智慧住宿設施與未來趨勢-a74fe3.html
 published: 2026-06-13
-quality_score: 6.5
+quality_score: 8.3
 tags: 東京住宿, Love Hotel, 科技體驗, 智慧旅宿, 東京愛情旅館
 license: CC BY 4.0
 ---

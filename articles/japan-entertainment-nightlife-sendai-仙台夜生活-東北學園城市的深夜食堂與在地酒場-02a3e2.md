@@ -6,7 +6,7 @@ category: nightlife
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-sendai-仙台夜生活-東北學園城市的深夜食堂與在地酒場-02a3e2.html
 published: 2026-06-28
-quality_score: 6.5
+quality_score: 8.6
 tags: 仙台夜生活, 東北美食, 牛舌料理, 立飲店文化, 日本酒吧
 license: CC BY 4.0
 ---

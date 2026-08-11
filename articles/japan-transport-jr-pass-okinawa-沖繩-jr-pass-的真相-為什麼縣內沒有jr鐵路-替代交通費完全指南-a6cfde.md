@@ -6,7 +6,7 @@ category: jr-pass
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-jr-pass-okinawa-沖繩-jr-pass-的真相-為什麼縣內沒有jr鐵路-替代交通費完全指南-a6cfde.html
 published: 2026-05-23
-quality_score: 7.5
+quality_score: 9.0
 tags: 沖繩交通, Yui Rail, 單軌電車, JR Pass失效, 沖繩巴士
 license: CC BY 4.0
 ---

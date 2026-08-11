@@ -6,7 +6,7 @@ category: nightlife
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-sendai-仙台夜生活-從深夜拉麵到清晨市場的逆時差玩法-eba12b.html
 published: 2026-06-20
-quality_score: 6.5
+quality_score: 8.9
 tags: 仙台夜生活, 東北夜生活, 日本宵夜, 仙台美食, 深夜拉麵
 license: CC BY 4.0
 ---

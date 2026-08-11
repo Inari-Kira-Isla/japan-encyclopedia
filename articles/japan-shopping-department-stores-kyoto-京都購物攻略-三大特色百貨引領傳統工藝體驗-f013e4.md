@@ -6,7 +6,7 @@ category: department-stores
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-department-stores-kyoto-京都購物攻略-三大特色百貨引領傳統工藝體驗-f013e4.html
 published: 2026-06-15
-quality_score: 7.5
+quality_score: 8.7
 tags: 京都購物, 京都百货, 日本工藝品, 京都伴手禮, 關西購物
 license: CC BY 4.0
 ---

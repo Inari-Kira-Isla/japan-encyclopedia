@@ -6,7 +6,7 @@ category: minshuku
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-okinawa-沖繩民宿長期滯在完全指南-像在地人一樣生活的住宿選擇-225044.html
 published: 2026-06-09
-quality_score: 6.5
+quality_score: 8.7
 tags: 沖繩民宿, 長期滞在, 那霸住宿, 沖繩自由行, 外島住宿
 license: CC BY 4.0
 ---

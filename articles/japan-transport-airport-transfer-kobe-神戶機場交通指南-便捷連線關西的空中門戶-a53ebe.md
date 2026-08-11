@@ -6,7 +6,7 @@ category: airport-transfer
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-airport-transfer-kobe-神戶機場交通指南-便捷連線關西的空中門戶-a53ebe.html
 published: 2026-03-20
-quality_score: 7.5
+quality_score: 8.5
 tags: 神戶機場, 關西交通, 港灣人工島線, 機場巴士, 日本國內航線
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: karaoke
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-karaoke-tokyo-東京卡拉ok-音效工程與科技體驗的極致主義-90e7bf.html
 published: 2026-06-04
-quality_score: 6.5
+quality_score: 8.6
 tags: 東京, 卡拉OK, 東京都, 娛樂, 夜生活
 license: CC BY 4.0
 ---

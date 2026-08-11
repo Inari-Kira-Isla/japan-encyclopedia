@@ -6,7 +6,7 @@ category: castle-towns
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-castle-towns-kanazawa-金澤城下町-懷舊茶屋街區的微醺時光-39cc7f.html
 published: 2026-05-22
-quality_score: 6.5
+quality_score: 8.5
 tags: 金澤城下町, 東茶屋街, 茶屋文化, 主計町, 金箔工藝
 license: CC BY 4.0
 ---

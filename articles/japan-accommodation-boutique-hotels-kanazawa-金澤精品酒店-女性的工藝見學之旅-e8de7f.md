@@ -6,7 +6,7 @@ category: boutique-hotels
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-kanazawa-金澤精品酒店-女性的工藝見學之旅-e8de7f.html
 published: 2026-07-01
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤精品酒店, 女性旅行者, 加賀百萬石, 工藝見學, 北陸住宿
 license: CC BY 4.0
 ---

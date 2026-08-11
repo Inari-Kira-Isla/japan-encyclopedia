@@ -6,7 +6,7 @@ category: udon-soba
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-udon-soba-nara-nara-udon-soba-9b618e.html
 published: 2026-06-17
-quality_score: 5.5
+quality_score: 0.0
 tags: udon-soba, nara, japan
 license: CC BY 4.0
 ---

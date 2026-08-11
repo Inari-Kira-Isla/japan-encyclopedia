@@ -6,7 +6,7 @@ category: ryokan
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-fukuoka-福岡傳統旅館指南-九州商都的溫泉與美食之旅-6318e0.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.8
 tags: 福岡旅館, 九州溫泉, 博多文化, 海鮮料理, 商務旅行
 license: CC BY 4.0
 ---

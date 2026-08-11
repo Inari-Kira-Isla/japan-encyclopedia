@@ -6,7 +6,7 @@ category: izakaya
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-izakaya-fukuoka-福岡居酒屋的釀酒廠周邊散步-清酒產地的酒場文化-9effa4.html
 published: 2026-06-24
-quality_score: 6.5
+quality_score: 8.6
 tags: 福岡居酒屋, 九州清酒, 釀酒廠周邊, 屋台文化, 在地體驗
 license: CC BY 4.0
 ---

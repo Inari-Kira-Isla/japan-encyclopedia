@@ -6,7 +6,7 @@ category: wagyu
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-wagyu-hiroshima-廣島和牛流通樞紐-中國地區頂級牛肉採購完全指南-54398b.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 廣島美食, 和牛採購, 日本畜牧, 食材流通, 中國地區
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: onsen
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-onsen-osaka-大阪錢湯文化-深入城市街區的日常溫泉體驗-9a0a5f.html
 published: 2026-07-03
-quality_score: 6.5
+quality_score: 8.8
 tags: 大阪溫泉, 錢湯, 大阪自由行, 大阪文化體驗, 日本溫泉
 license: CC BY 4.0
 ---

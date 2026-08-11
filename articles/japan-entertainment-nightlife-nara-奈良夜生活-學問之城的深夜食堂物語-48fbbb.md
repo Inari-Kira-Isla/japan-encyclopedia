@@ -6,7 +6,7 @@ category: nightlife
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-nara-奈良夜生活-學問之城的深夜食堂物語-48fbbb.html
 published: 2026-06-14
-quality_score: 6.5
+quality_score: 8.7
 tags: 奈良夜生活, 奈良美食, 日本古城, 深夜食堂, 學問之城
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: karaoke
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-karaoke-hiroshima-廣島年輕世代卡拉ok-新時代歌聲文化的潮流聚點-cea915.html
 published: 2026-04-02
-quality_score: 6.5
+quality_score: 8.8
 tags: 廣島娛樂, 卡拉OK, 年輕人文化, 夜生活, 學生聚會
 license: CC BY 4.0
 ---

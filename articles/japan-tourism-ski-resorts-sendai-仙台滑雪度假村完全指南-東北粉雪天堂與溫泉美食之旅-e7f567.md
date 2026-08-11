@@ -6,7 +6,7 @@ category: ski-resorts
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-ski-resorts-sendai-仙台滑雪度假村完全指南-東北粉雪天堂與溫泉美食之旅-e7f567.html
 published: 2026-03-15
-quality_score: 6.5
+quality_score: 8.7
 tags: 仙台, 滑雪場, 東北, 溫泉, 冬季運動
 license: CC BY 4.0
 ---

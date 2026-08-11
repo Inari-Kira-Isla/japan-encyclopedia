@@ -6,7 +6,7 @@ category: kabuki-theatre
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-kabuki-theatre-nagoya-名古屋戲劇藝術巡禮-從傳統劇場到現代表演的血脈傳承-7226f9.html
 published: 2026-05-22
-quality_score: 6.5
+quality_score: 8.6
 tags: Nagoya戲劇, 名古屋表演藝術, 日本中部演出, 名古屋劇場, 名古屋文化
 license: CC BY 4.0
 ---

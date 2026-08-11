@@ -6,7 +6,7 @@ category: kaiseki
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-kaiseki-kobe-神戶會席料理-港都商道的務實味覺哲學-9491a5.html
 published: 2026-06-11
-quality_score: 6.5
+quality_score: 8.7
 tags: 神戶美食, 會席料理, 關西料理, 神戶牛, 瀨戶內海
 license: CC BY 4.0
 ---

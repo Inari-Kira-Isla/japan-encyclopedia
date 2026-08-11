@@ -6,7 +6,7 @@ category: sake-brewery
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sake-brewery-fukuoka-福岡清酒蔵-脊振山水釀造的醇味之旅-78597b.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 8.6
 tags: 福岡, 清酒, 酒藏, 釀造, 九州
 license: CC BY 4.0
 ---

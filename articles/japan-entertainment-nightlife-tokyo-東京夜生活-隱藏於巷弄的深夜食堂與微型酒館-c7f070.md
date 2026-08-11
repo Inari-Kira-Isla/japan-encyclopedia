@@ -6,7 +6,7 @@ category: nightlife
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-tokyo-東京夜生活-隱藏於巷弄的深夜食堂與微型酒館-c7f070.html
 published: 2026-06-14
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京夜生活, 深夜食堂, 微型酒館, 自由之丘, 中目黑
 license: CC BY 4.0
 ---

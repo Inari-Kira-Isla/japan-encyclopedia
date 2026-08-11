@@ -6,7 +6,7 @@ category: wagyu
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-wagyu-nagoya-名古屋和牛供應鏈解密-三重縣桑名牛為何才是真正的-名古屋和牛-4c0214.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.6
 tags: 名古屋和牛, 三重縣桑名牛, 日本和牛, 和牛供應鏈, 名古屋美食
 license: CC BY 4.0
 ---

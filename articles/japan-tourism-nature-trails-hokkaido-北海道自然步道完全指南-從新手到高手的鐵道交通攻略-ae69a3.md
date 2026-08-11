@@ -6,7 +6,7 @@ category: nature-trails
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-hokkaido-北海道自然步道完全指南-從新手到高手的鐵道交通攻略-ae69a3.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 8.5
 tags: 北海道自然步道, 日本秘境, 铁道交通攻略, 自然徒步, 北海道旅游
 license: CC BY 4.0
 ---

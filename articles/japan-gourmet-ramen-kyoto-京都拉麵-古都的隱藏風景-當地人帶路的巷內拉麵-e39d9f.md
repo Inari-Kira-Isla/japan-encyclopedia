@@ -6,7 +6,7 @@ category: ramen
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-ramen-kyoto-京都拉麵-古都的隱藏風景-當地人帶路的巷內拉麵-e39d9f.html
 published: 2026-06-16
-quality_score: 6.5
+quality_score: 8.7
 tags: 京都拉麵, 日本拉麵, 京都美食, 關西拉麵, 京都旅遊
 license: CC BY 4.0
 ---

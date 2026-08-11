@@ -6,7 +6,7 @@ category: temple-stays
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-temple-stays-sendai-仙台宿坊秋季賞楓指南-東北山城裡的禪意秋色-474374.html
 published: 2026-06-20
-quality_score: 6.5
+quality_score: 8.5
 tags: 仙台宿坊, 東北賞楓, 山形寺廟住宿, 秋田溫泉宿坊, 山寺修行
 license: CC BY 4.0
 ---

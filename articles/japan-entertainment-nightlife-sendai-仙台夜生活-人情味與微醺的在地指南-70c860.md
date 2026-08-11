@@ -6,7 +6,7 @@ category: nightlife
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-sendai-仙台夜生活-人情味與微醺的在地指南-70c860.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 8.7
 tags: 仙台夜生活, 日本東北, 居酒屋文化, 人情味餐廳, 地方都市體驗
 license: CC BY 4.0
 ---

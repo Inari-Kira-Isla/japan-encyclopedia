@@ -6,7 +6,7 @@ category: duty-free
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-duty-free-okinawa-沖繩免稅購物隱藏版攻略-當地人推薦的亞熱帶特產與限定好物-5fe17e.html
 published: 2026-07-04
-quality_score: 7.5
+quality_score: 8.5
 tags: 沖繩免稅購物, 沖繩限定特產, 亞熱帶購物, 沖繩伴手禮, 日本免稅攻略
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: rental-cars
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-kobe-神戶租車指南-清酒釀造區與港都海味的美食自駕路線-fc7f16.html
 published: 2026-06-20
-quality_score: 7.5
+quality_score: 8.5
 tags: 神戶租車, 神戶美食, 灘五鄉清酒, 六甲山, 自駕遊
 license: CC BY 4.0
 ---

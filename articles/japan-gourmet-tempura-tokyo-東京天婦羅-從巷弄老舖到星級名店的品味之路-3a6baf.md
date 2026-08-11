@@ -6,7 +6,7 @@ category: tempura
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tempura-tokyo-東京天婦羅-從巷弄老舖到星級名店的品味之路-3a6baf.html
 published: 2026-06-06
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京美食, 天婦羅, 日本料理, 東京旅遊, 江戶前
 license: CC BY 4.0
 ---

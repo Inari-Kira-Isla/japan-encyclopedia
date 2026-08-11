@@ -6,7 +6,7 @@ category: nature-trails
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-sendai-仙台森林療法步道-走進太古森林的能量景點之旅-a54b8b.html
 published: 2026-05-25
-quality_score: 6.5
+quality_score: 8.9
 tags: 仙台能量景點, 森林浴步道, 比叡山自然散步道, 三近之道, 岩出山舊道
 license: CC BY 4.0
 ---

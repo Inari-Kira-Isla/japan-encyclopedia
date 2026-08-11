@@ -6,7 +6,7 @@ category: ferries
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-ferries-kanazawa-金澤渡輪體驗提案-搭船深入能登半島島嶼的慢活之旅-803480.html
 published: 2026-07-03
-quality_score: 7.5
+quality_score: 8.5
 tags: 金澤交通, 能登半島, 日本海渡輪, 石川縣觀光, 島嶼旅行
 license: CC BY 4.0
 ---

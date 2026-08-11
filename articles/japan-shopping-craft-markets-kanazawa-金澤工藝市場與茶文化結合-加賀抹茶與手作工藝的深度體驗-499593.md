@@ -6,7 +6,7 @@ category: craft-markets
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-craft-markets-kanazawa-金澤工藝市場與茶文化結合-加賀抹茶與手作工藝的深度體驗-499593.html
 published: 2026-06-22
-quality_score: 7.5
+quality_score: 8.5
 tags: 金澤, 工藝市場, 茶文化, 加賀抹茶, 日本茶道
 license: CC BY 4.0
 ---

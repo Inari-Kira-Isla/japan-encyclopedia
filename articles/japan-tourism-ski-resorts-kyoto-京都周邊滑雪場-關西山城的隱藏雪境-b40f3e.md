@@ -6,7 +6,7 @@ category: ski-resorts
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-ski-resorts-kyoto-京都周邊滑雪場-關西山城的隱藏雪境-b40f3e.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 8.5
 tags: 京都滑雪, 關西滑雪場, 日本滑雪一日遊, 京都周邊雪場, Biwako Valley
 license: CC BY 4.0
 ---

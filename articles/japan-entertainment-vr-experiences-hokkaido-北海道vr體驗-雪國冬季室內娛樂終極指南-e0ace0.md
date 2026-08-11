@@ -6,7 +6,7 @@ category: vr-experiences
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-vr-experiences-hokkaido-北海道vr體驗-雪國冬季室內娛樂終極指南-e0ace0.html
 published: 2026-06-30
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道VR, 札幌VR, 旭川VR, 室內活動, 親子遊
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: nightlife
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-tokyo-東京深夜脈動-凌晨時分的城市探險地圖-2da1ae.html
 published: 2026-06-17
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京夜生活, 深夜景點, 東京遊戲中心, 東京體驗, 城市探險
 license: CC BY 4.0
 ---

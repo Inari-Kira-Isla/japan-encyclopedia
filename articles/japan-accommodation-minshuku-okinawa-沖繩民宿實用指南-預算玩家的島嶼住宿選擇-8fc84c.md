@@ -6,7 +6,7 @@ category: minshuku
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-okinawa-沖繩民宿實用指南-預算玩家的島嶼住宿選擇-8fc84c.html
 published: 2026-06-09
-quality_score: 6.5
+quality_score: 8.6
 tags: 沖繩民宿, 自由行住宿, Budget住宿, 石垣島民宿, 外島住宿
 license: CC BY 4.0
 ---

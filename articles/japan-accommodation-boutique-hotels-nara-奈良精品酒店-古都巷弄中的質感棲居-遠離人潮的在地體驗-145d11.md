@@ -6,7 +6,7 @@ category: boutique-hotels
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-nara-奈良精品酒店-古都巷弄中的質感棲居-遠離人潮的在地體驗-145d11.html
 published: 2026-05-31
-quality_score: 6.5
+quality_score: 8.5
 tags: 奈良精品酒店, 古都住宿, 奈良町, 法隆寺宿坊, 日本溫泉
 license: CC BY 4.0
 ---

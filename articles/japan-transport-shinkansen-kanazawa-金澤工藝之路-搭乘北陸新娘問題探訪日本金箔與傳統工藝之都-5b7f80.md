@@ -6,7 +6,7 @@ category: shinkansen
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-kanazawa-金澤工藝之路-搭乘北陸新娘問題探訪日本金箔與傳統工藝之都-5b7f80.html
 published: 2026-06-05
-quality_score: 7.5
+quality_score: 8.8
 tags: 金澤, 北陸新娘問題, 日本工藝, 金箔, 輪島漆器
 license: CC BY 4.0
 ---

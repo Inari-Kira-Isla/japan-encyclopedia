@@ -6,7 +6,7 @@ category: ski-resorts
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-ski-resorts-kanazawa-金澤周邊滑雪場-從古都出發的北陸粉雪秘境-21c28a.html
 published: 2026-05-21
-quality_score: 6.5
+quality_score: 8.5
 tags: 金澤滑雪, 石川縣滑雪, 北陸粉雪, 日本滑雪推薦, 白馬滑雪場
 license: CC BY 4.0
 ---

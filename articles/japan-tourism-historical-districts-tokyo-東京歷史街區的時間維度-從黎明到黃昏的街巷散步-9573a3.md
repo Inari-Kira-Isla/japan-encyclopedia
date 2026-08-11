@@ -6,7 +6,7 @@ category: historical-districts
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-tokyo-東京歷史街區的時間維度-從黎明到黃昏的街巷散步-9573a3.html
 published: 2026-06-11
-quality_score: 6.5
+quality_score: 8.5
 tags: 東京歷史街區, 下町散步, 谷中七福神, 人形町, 文字燒
 license: CC BY 4.0
 ---

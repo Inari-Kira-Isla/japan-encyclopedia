@@ -6,7 +6,7 @@ category: capsule-hotels
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-capsule-hotels-osaka-大阪膠囊旅館-設計審美與社交體驗的新型住宿革命-977088.html
 published: 2026-03-24
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪住宿, 膠囊旅館, 預算旅遊, 設計住宿, 背包客
 license: CC BY 4.0
 ---

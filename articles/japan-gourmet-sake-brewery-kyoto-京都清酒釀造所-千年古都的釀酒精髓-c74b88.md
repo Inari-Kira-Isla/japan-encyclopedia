@@ -6,7 +6,7 @@ category: sake-brewery
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sake-brewery-kyoto-京都清酒釀造所-千年古都的釀酒精髓-c74b88.html
 published: 2026-03-20
-quality_score: 6.5
+quality_score: 8.7
 tags: 京都, 清酒, 伏見, 日本酒, 釀造所
 license: CC BY 4.0
 ---

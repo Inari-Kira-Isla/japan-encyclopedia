@@ -6,7 +6,7 @@ category: department-stores
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-department-stores-kobe-神戶購物散步地圖-從港口到山坡的多元商圈-75b09c.html
 published: 2026-06-16
-quality_score: 7.5
+quality_score: 8.7
 tags: 神戶購物, 三之宮, 元町商圈, 臨海購物, 港都購物
 license: CC BY 4.0
 ---

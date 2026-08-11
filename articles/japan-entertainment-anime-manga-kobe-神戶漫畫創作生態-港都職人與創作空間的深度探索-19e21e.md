@@ -6,7 +6,7 @@ category: anime-manga
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-kobe-神戶漫畫創作生態-港都職人與創作空間的深度探索-19e21e.html
 published: 2026-05-22
-quality_score: 6.5
+quality_score: 8.4
 tags: 神戶漫畫, 神戶動漫, 大阪京都周邊, 創作工作坊, 關西自由行
 license: CC BY 4.0
 ---

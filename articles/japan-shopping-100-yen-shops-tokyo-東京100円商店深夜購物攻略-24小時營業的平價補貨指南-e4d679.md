@@ -6,7 +6,7 @@ category: 100-yen-shops
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-100-yen-shops-tokyo-東京100円商店深夜購物攻略-24小時營業的平價補貨指南-e4d679.html
 published: 2026-07-01
-quality_score: 7.5
+quality_score: 8.7
 tags: 東京100円商店, 深夜購物, 24小時營業, 新宿購物, 澀谷購物
 license: CC BY 4.0
 ---

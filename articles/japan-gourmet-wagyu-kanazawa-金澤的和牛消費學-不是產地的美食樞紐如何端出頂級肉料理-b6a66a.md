@@ -6,7 +6,7 @@ category: wagyu
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-wagyu-kanazawa-金澤的和牛消費學-不是產地的美食樞紐如何端出頂級肉料理-b6a66a.html
 published: 2026-04-07
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤美食, 和牛, 石川縣, 北陸, 黑毛和牛
 license: CC BY 4.0
 ---

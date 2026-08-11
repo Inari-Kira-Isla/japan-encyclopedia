@@ -6,7 +6,7 @@ category: sushi
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sushi-kanazawa-金澤壽司-四季日本海的魚味記事-5b68d4.html
 published: 2026-06-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤壽司, 日本海魚獲, 近江町市場, 北陸美食, 壽司季節
 license: CC BY 4.0
 ---

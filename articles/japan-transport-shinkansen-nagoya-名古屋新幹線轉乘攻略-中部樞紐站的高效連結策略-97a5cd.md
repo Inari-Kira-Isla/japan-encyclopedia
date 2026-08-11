@@ -6,7 +6,7 @@ category: shinkansen
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-nagoya-名古屋新幹線轉乘攻略-中部樞紐站的高效連結策略-97a5cd.html
 published: 2026-04-06
-quality_score: 7.5
+quality_score: 8.7
 tags: 名古屋新幹線, 轉乘攻略, 中部交通, JR中央線, 商務旅行
 license: CC BY 4.0
 ---

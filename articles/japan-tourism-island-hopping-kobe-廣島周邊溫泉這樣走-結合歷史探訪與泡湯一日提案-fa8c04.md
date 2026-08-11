@@ -6,7 +6,7 @@ category: island-hopping
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-island-hopping-kobe-廣島周邊溫泉這樣走-結合歷史探訪與泡湯一日提案-fa8c04.html
 published: 2026-06-03
-quality_score: 6.5
+quality_score: 8.7
 tags: 廣島溫泉, 山口縣溫泉, 愛媛縣溫泉, 道後溫泉, 溫泉一日遊
 license: CC BY 4.0
 ---

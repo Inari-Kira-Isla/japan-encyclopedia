@@ -6,7 +6,7 @@ category: festivals-matsuri
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-festivals-matsuri-nagoya-名古屋祭典美食攻略-邊走邊吃的中京之都風味巡禮-e763aa.html
 published: 2026-06-08
-quality_score: 6.5
+quality_score: 8.6
 tags: 名古屋, 祭典, 美食, 日本祭典, 名古屋祭
 license: CC BY 4.0
 ---

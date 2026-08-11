@@ -6,7 +6,7 @@ category: souvenir-omiyage
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-souvenir-omiyage-osaka-大阪平價伴手禮攻略-100圓商店與車站周邊的聰明採購術-cebf79.html
 published: 2026-07-05
-quality_score: 7.5
+quality_score: 8.7
 tags: 大阪伴手禮, 平價購物, 100圓商店, 抹茶甜品, 車站周邊
 license: CC BY 4.0
 ---

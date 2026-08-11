@@ -6,7 +6,7 @@ category: anime-manga
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-hiroshima-廣島動漫創作者生態-隱藏在歷史城市中的獨立動漫工作站-7b30ef.html
 published: 2026-05-23
-quality_score: 6.5
+quality_score: 8.6
 tags: 廣島動漫, 日本動漫創作, 廣島旅遊, 独立漫畫家, 動漫聖地巡禮
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: kabuki-theatre
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-kabuki-theatre-sendai-仙台傳統表演藝術-東北kabuki文化與芝居藝術的沉浸之旅-bc4de5.html
 published: 2026-06-20
-quality_score: 6.5
+quality_score: 8.7
 tags: 仙台, 傳統表演藝術, Kabuki, 芝居, 折尾蓬萊
 license: CC BY 4.0
 ---

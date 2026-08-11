@@ -6,7 +6,7 @@ category: yakitori
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-yakitori-kobe-神戶燒鳥的食材密碼-港都水產優勢如何成就串燒美學-b28f76.html
 published: 2026-03-23
-quality_score: 6.5
+quality_score: 8.9
 tags: 神戶, 燒鳥, 日本美食, 兵庫縣, 港口文化
 license: CC BY 4.0
 ---

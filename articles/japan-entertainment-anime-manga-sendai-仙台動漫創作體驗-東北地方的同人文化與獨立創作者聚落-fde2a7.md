@@ -6,7 +6,7 @@ category: anime-manga
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-sendai-仙台動漫創作體驗-東北地方的同人文化與獨立創作者聚落-fde2a7.html
 published: 2026-04-06
-quality_score: 6.5
+quality_score: 8.7
 tags: 仙台, 動漫, 同人文化, 創作體驗, 東北
 license: CC BY 4.0
 ---

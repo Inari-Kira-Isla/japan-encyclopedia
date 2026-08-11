@@ -6,7 +6,7 @@ category: okonomiyaki
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-okonomiyaki-osaka-大阪御好燒與酒-走進關西人的微醺深夜食堂-78c86c.html
 published: 2026-06-22
-quality_score: 6.5
+quality_score: 8.6
 tags: 大阪御好燒, 關西美食, 飲酒文化, 鐵板料理, 深夜食堂
 license: CC BY 4.0
 ---

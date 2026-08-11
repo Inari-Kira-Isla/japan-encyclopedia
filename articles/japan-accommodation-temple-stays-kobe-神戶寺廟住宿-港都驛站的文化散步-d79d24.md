@@ -6,7 +6,7 @@ category: temple-stays
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-temple-stays-kobe-神戶寺廟住宿-港都驛站的文化散步-d79d24.html
 published: 2026-07-03
-quality_score: 6.5
+quality_score: 8.8
 tags: 神戶寺廟住宿, 關西禪修, 六甲山住宿, 有馬溫泉, 神戶旅遊
 license: CC BY 4.0
 ---

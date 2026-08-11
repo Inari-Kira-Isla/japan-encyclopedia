@@ -6,7 +6,7 @@ category: day-trips
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-kanazawa-金澤周邊一日遊-能登半島・加賀溫泉・山代溫泉的在地秘境探索-b4ea77.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤一日遊, 能登半島, 加賀溫泉, 山代溫泉, 近江町市場
 license: CC BY 4.0
 ---

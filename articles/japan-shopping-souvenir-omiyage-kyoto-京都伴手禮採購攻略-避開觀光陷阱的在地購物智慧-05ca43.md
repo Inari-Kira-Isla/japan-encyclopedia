@@ -6,7 +6,7 @@ category: souvenir-omiyage
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-souvenir-omiyage-kyoto-京都伴手禮採購攻略-避開觀光陷阱的在地購物智慧-05ca43.html
 published: 2026-04-06
-quality_score: 7.5
+quality_score: 8.9
 tags: 京都購物, 伴手禮攻略, 日本特產, 節省預算, 在地購物
 license: CC BY 4.0
 ---

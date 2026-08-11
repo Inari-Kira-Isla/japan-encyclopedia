@@ -6,7 +6,7 @@ category: day-trips
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-okinawa-沖繩一日遊-遠離觀光客的正宗琉球文化深度體驗-8ed418.html
 published: 2026-06-04
-quality_score: 6.5
+quality_score: 8.9
 tags: 沖繩, 一日遊, 琉球文化, 文化體驗, 壺屋燒
 license: CC BY 4.0
 ---

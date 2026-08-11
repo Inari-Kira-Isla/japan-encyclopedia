@@ -6,7 +6,7 @@ category: kaiseki
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-kaiseki-fukuoka-福岡會席料理-九州食材與山海滋味的一年之計-743b97.html
 published: 2026-06-16
-quality_score: 6.5
+quality_score: 8.3
 tags: 福岡會席料理, 九州美食, 博多吃喝, 日本料理, 天神
 license: CC BY 4.0
 ---

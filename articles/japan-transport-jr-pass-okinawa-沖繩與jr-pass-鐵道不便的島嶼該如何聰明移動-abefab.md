@@ -6,7 +6,7 @@ category: jr-pass
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-jr-pass-okinawa-沖繩與jr-pass-鐵道不便的島嶼該如何聰明移動-abefab.html
 published: 2026-06-02
-quality_score: 7.5
+quality_score: 8.7
 tags: 沖繩自助旅行, JR Pass攻略, 沖繩交通, 日本鐵道,  Okinawa travel
 license: CC BY 4.0
 ---

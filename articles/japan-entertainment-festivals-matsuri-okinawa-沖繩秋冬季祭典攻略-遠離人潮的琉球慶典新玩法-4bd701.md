@@ -6,7 +6,7 @@ category: festivals-matsuri
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-festivals-matsuri-okinawa-沖繩秋冬季祭典攻略-遠離人潮的琉球慶典新玩法-4bd701.html
 published: 2026-06-06
-quality_score: 6.5
+quality_score: 8.7
 tags: 沖繩祭典, 冬季活動, 琉球文化, Eisa太鼓舞, 非主流景點
 license: CC BY 4.0
 ---

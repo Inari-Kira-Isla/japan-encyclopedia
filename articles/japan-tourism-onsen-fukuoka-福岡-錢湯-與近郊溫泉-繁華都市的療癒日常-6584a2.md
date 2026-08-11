@@ -6,7 +6,7 @@ category: onsen
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-onsen-fukuoka-福岡-錢湯-與近郊溫泉-繁華都市的療癒日常-6584a2.html
 published: 2026-06-25
-quality_score: 6.5
+quality_score: 8.7
 tags: 福岡溫泉, 九州溫泉, 錢湯, 日歸溫泉, 筑後川溫泉
 license: CC BY 4.0
 ---

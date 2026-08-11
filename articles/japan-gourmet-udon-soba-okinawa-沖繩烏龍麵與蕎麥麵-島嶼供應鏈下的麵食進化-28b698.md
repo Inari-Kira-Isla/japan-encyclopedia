@@ -6,7 +6,7 @@ category: udon-soba
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-udon-soba-okinawa-沖繩烏龍麵與蕎麥麵-島嶼供應鏈下的麵食進化-28b698.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 沖繩美食, 烏龍麵, 蕎麥麵, 琉球文化, 島嶼料理
 license: CC BY 4.0
 ---

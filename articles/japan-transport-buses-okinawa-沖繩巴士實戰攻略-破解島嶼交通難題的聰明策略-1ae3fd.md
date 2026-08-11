@@ -6,7 +6,7 @@ category: buses
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-buses-okinawa-沖繩巴士實戰攻略-破解島嶼交通難題的聰明策略-1ae3fd.html
 published: 2026-04-02
-quality_score: 7.5
+quality_score: 8.6
 tags: 沖繩交通, 巴士攻略, 自由行, 實戰指南, 交通規劃
 license: CC BY 4.0
 ---

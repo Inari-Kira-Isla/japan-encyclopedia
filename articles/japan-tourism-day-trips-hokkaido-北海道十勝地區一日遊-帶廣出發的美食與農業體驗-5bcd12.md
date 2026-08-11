@@ -6,7 +6,7 @@ category: day-trips
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-hokkaido-北海道十勝地區一日遊-帶廣出發的美食與農業體驗-5bcd12.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道, 十勝, 帶廣, 一日遊, 美食
 license: CC BY 4.0
 ---

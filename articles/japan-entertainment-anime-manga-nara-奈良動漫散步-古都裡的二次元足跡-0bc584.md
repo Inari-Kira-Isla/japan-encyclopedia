@@ -6,7 +6,7 @@ category: anime-manga
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-nara-奈良動漫散步-古都裡的二次元足跡-0bc584.html
 published: 2026-06-02
-quality_score: 6.5
+quality_score: 9.0
 tags: 奈良, 日本動漫, 聖地巡禮, 關西動漫, 二次元旅遊
 license: CC BY 4.0
 ---

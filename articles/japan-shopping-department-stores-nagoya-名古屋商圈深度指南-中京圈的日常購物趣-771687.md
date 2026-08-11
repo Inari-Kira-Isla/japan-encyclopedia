@@ -6,7 +6,7 @@ category: department-stores
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-department-stores-nagoya-名古屋商圈深度指南-中京圈的日常購物趣-771687.html
 published: 2026-05-24
-quality_score: 7.5
+quality_score: 8.8
 tags: Nagoya, Department Stores, Shopping, Aichi, Japan
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: shinkansen
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-nagoya-名古屋新幹線-中部地區交通樞紐的高速鐵路體驗-85d226.html
 published: 2026-03-15
-quality_score: 7.5
+quality_score: 8.7
 tags: 名古屋, 新幹線, 東海道新幹線, 日本交通, 中部地區
 license: CC BY 4.0
 ---

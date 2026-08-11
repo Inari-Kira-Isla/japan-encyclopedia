@@ -6,7 +6,7 @@ category: izakaya
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-izakaya-hiroshima-廣島職場居酒屋文化-下班後的深夜社交密碼-be2394.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.8
 tags: 廣島居酒屋, 日本職場文化, 瀨戶內海美食, 廣島美食, 日本商務餐飲
 license: CC BY 4.0
 ---

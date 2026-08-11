@@ -6,7 +6,7 @@ category: electronics
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-electronics-tokyo-東京銀座電子產品購物指南-高質感免稅科技購物聖地-a0c0e7.html
 published: 2026-06-03
-quality_score: 7.5
+quality_score: 8.6
 tags: 東京電子產品, 銀座購物, 東京免稅, 日本電器行, 東京敗家指南
 license: CC BY 4.0
 ---

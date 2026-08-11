@@ -6,7 +6,7 @@ category: depachika
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-depachika-hokkaido-北海道depachika-札幌車站地下發現的在地食材寶庫-4aa366.html
 published: 2026-06-13
-quality_score: 6.5
+quality_score: 8.5
 tags: 北海道, 札幌, Depachika, 地下食品街, 日本美食
 license: CC BY 4.0
 ---

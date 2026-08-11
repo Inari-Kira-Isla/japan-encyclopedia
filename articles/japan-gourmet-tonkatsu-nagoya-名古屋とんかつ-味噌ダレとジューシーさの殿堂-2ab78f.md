@@ -6,7 +6,7 @@ category: tonkatsu
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tonkatsu-nagoya-名古屋とんかつ-味噌ダレとジューシーさの殿堂-2ab78f.html
 published: 2026-05-31
-quality_score: 6.5
+quality_score: 9.0
 tags: 名古屋美食, とんかつ, 味噌かつ, 名古屋旅遊, 名古屋特産
 license: CC BY 4.0
 ---

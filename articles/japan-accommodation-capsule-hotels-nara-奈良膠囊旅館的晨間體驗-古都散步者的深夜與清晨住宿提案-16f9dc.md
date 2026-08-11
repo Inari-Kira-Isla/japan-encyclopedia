@@ -6,7 +6,7 @@ category: capsule-hotels
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-capsule-hotels-nara-奈良膠囊旅館的晨間體驗-古都散步者的深夜與清晨住宿提案-16f9dc.html
 published: 2026-06-28
-quality_score: 6.5
+quality_score: 8.8
 tags: 奈良膠囊旅館, 古都住宿, 奈良公園, 晨間體驗, 日本背包旅遊
 license: CC BY 4.0
 ---

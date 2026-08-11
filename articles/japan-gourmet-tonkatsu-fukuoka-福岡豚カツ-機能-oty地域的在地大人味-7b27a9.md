@@ -6,7 +6,7 @@ category: tonkatsu
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tonkatsu-fukuoka-福岡豚カツ-機能-oty地域的在地大人味-7b27a9.html
 published: 2026-05-25
-quality_score: 6.5
+quality_score: 8.8
 tags: 博徳, 豚イツ, 炸豬排, 九州美食, 機能групу
 license: CC BY 4.0
 ---

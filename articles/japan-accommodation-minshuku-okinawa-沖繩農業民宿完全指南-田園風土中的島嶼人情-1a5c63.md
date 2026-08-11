@@ -6,7 +6,7 @@ category: minshuku
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-okinawa-沖繩農業民宿完全指南-田園風土中的島嶼人情-1a5c63.html
 published: 2026-05-24
-quality_score: 6.5
+quality_score: 8.6
 tags: 沖繩民宿, 農業體驗, 沖繩自由行, 民宿推薦, 冲绳旅游住宿
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: street-food
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-street-food-nara-奈良街頭美食-古都的傳統滋味與醃菜文化-d83281.html
 published: 2026-03-23
-quality_score: 6.5
+quality_score: 8.6
 tags: 日本街食, 奈良, 傳統美食, 柿葉壽司, 奈良漬
 license: CC BY 4.0
 ---

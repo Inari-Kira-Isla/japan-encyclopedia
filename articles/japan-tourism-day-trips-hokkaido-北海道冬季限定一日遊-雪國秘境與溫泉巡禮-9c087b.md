@@ -6,7 +6,7 @@ category: day-trips
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-hokkaido-北海道冬季限定一日遊-雪國秘境與溫泉巡禮-9c087b.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.8
 tags: 北海道, 冬季旅遊, 溫泉, 雪祭, 一日遊
 license: CC BY 4.0
 ---

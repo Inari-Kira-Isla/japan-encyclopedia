@@ -6,7 +6,7 @@ category: duty-free
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-duty-free-kanazawa-金澤免稅購物完全攻略-車站與-近江町市場的隱藏版伴手禮-7c18fa.html
 published: 2026-06-25
-quality_score: 7.5
+quality_score: 9.0
 tags: 金澤免稅, 金澤購物, 近江町市場, 金澤伴手禮, 日本免稅
 license: CC BY 4.0
 ---

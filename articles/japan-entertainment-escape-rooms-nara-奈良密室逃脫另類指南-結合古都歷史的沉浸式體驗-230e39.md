@@ -6,7 +6,7 @@ category: escape-rooms
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-escape-rooms-nara-奈良密室逃脫另類指南-結合古都歷史的沉浸式體驗-230e39.html
 published: 2026-07-03
-quality_score: 6.5
+quality_score: 8.8
 tags: 
 license: CC BY 4.0
 ---

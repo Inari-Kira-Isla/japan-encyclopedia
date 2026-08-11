@@ -6,7 +6,7 @@ category: udon-soba
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-udon-soba-kyoto-京都的烏龍蕎麥-曖昧之美中的在地麵食文化-96f0c3.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 8.9
 tags: 京都美食, 烏龍麵, 蕎麥麵, 日本料理, 在地美食
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: nightlife
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-sendai-仙台夜生活-從街巷酒場到銀杏啤酒的在地味覺探索-a88383.html
 published: 2026-06-27
-quality_score: 6.5
+quality_score: 8.6
 tags: 仙台夜生活, 東北夜生活, 仙台美食, 居酒屋推薦, 日本夜生活指南
 license: CC BY 4.0
 ---

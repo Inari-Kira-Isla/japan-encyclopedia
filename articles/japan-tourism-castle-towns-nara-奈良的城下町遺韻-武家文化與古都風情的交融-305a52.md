@@ -6,7 +6,7 @@ category: castle-towns
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-castle-towns-nara-奈良的城下町遺韻-武家文化與古都風情的交融-305a52.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 奈良, 城下町, 武家文化, 歷史街區, 傳統建築
 license: CC BY 4.0
 ---

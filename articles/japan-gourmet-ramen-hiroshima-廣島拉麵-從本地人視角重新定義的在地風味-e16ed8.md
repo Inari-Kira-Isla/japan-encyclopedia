@@ -6,7 +6,7 @@ category: ramen
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-ramen-hiroshima-廣島拉麵-從本地人視角重新定義的在地風味-e16ed8.html
 published: 2026-06-18
-quality_score: 6.5
+quality_score: 8.7
 tags: 廣島拉麵, 在地美食, 醬油拉麵, 瀨戶內海, 廣島自由行
 license: CC BY 4.0
 ---

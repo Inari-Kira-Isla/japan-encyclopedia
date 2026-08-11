@@ -6,7 +6,7 @@ category: okonomiyaki
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-okonomiyaki-kyoto-京都御好燒-關西風味的京都體驗-5bdf0f.html
 published: 2026-03-18
-quality_score: 6.5
+quality_score: 8.7
 tags: 京都美食, 御好燒, 關西料理, 京都必吃, 日本平民美食
 license: CC BY 4.0
 ---

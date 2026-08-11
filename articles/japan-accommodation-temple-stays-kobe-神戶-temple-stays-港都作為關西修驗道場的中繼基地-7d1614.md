@@ -6,7 +6,7 @@ category: temple-stays
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-temple-stays-kobe-神戶-temple-stays-港都作為關西修驗道場的中繼基地-7d1614.html
 published: 2026-06-30
-quality_score: 6.5
+quality_score: 8.5
 tags: 神戶寺廟住宿, Temple Stay, 關西修驗道場, 神戶住宿, 有馬溫泉
 license: CC BY 4.0
 ---

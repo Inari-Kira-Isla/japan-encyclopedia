@@ -6,7 +6,7 @@ category: souvenir-omiyage
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-souvenir-omiyage-fukuoka-福岡伴手禮完全指南-從博多通りもん到明太子的九州味覺記憶-56a6de.html
 published: 2026-03-15
-quality_score: 7.5
+quality_score: 8.6
 tags: 福岡, 伴手禮, 博多通りもん, 明太子, 九州
 license: CC BY 4.0
 ---

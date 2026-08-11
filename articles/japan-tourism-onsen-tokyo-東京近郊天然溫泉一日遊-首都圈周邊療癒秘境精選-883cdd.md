@@ -6,7 +6,7 @@ category: onsen
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-onsen-tokyo-東京近郊天然溫泉一日遊-首都圈周邊療癒秘境精選-883cdd.html
 published: 2026-06-23
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京溫泉, 近郊溫泉, 一日遊, 強羅溫泉, 鬼怒川溫泉
 license: CC BY 4.0
 ---

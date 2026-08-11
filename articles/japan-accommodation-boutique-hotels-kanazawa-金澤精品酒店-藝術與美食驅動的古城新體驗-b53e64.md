@@ -6,7 +6,7 @@ category: boutique-hotels
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-kanazawa-金澤精品酒店-藝術與美食驅動的古城新體驗-b53e64.html
 published: 2026-06-29
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤精品酒店, 加賀百萬石, 近江町市場, 金澤21世紀美術館, 藝術旅行
 license: CC BY 4.0
 ---

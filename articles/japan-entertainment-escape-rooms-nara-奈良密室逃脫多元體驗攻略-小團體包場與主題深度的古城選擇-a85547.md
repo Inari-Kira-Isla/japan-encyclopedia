@@ -6,7 +6,7 @@ category: escape-rooms
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-escape-rooms-nara-奈良密室逃脫多元體驗攻略-小團體包場與主題深度的古城選擇-a85547.html
 published: 2026-06-04
-quality_score: 6.5
+quality_score: 8.7
 tags: 奈良密室逃脫, 奈良旅遊, 關西娛樂, 密室攻略, 古都體驗
 license: CC BY 4.0
 ---

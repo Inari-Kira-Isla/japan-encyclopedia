@@ -6,7 +6,7 @@ category: jr-pass
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-jr-pass-sendai-仙台jr-pass完全攻略-暢遊東北的超值交通利器-6393dc.html
 published: 2026-03-21
-quality_score: 7.5
+quality_score: 8.7
 tags: 仙台, JR Pass, 東北旅遊, 鐵道旅行, 日本交通
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: theme-parks
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-theme-parks-nagoya-名古屋主題樂園完整攻略-中部之都的娛樂體驗新發現-8bc0a3.html
 published: 2026-06-16
-quality_score: 6.5
+quality_score: 8.6
 tags: 名古屋主題樂園, 日本中部旅遊, 家族旅行, 親子景點, 名古屋港
 license: CC BY 4.0
 ---

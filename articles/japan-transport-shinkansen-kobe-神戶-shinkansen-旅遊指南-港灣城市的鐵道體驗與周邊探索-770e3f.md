@@ -6,7 +6,7 @@ category: shinkansen
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-kobe-神戶-shinkansen-旅遊指南-港灣城市的鐵道體驗與周邊探索-770e3f.html
 published: 2026-06-27
-quality_score: 7.5
+quality_score: 8.9
 tags: 神戶, 新干线, 關西, 鐵道旅遊, 港灣城市
 license: CC BY 4.0
 ---

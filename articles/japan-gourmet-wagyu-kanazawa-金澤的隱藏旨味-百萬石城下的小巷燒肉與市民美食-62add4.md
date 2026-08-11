@@ -6,7 +6,7 @@ category: wagyu
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-wagyu-kanazawa-金澤的隱藏旨味-百萬石城下的小巷燒肉與市民美食-62add4.html
 published: 2026-06-20
-quality_score: 6.5
+quality_score: 8.8
 tags: 金澤和牛, 金澤美食, 石川縣燒肉, 加賀料理, 能登半島
 license: CC BY 4.0
 ---

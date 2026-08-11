@@ -6,7 +6,7 @@ category: festivals-matsuri
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-festivals-matsuri-fukuoka-福岡祭典完全指南-九州最大祭典盛會與在地文化體驗-0af0e3.html
 published: 2026-03-27
-quality_score: 6.5
+quality_score: 8.8
 tags: 福岡祭典, 博多どんたく, 博多山笠, 九州祭典, 日本夏日祭典
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: 100-yen-shops
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-100-yen-shops-fukuoka-福岡100円商店完全攻略-用百元日圓挖寶的聰明消費指南-425bad.html
 published: 2026-03-31
-quality_score: 7.5
+quality_score: 8.7
 tags: 福岡購物, 百元商店, 日本省錢攻略, 九州購物, 平價好物
 license: CC BY 4.0
 ---

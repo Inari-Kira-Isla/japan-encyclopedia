@@ -6,7 +6,7 @@ category: udon-soba
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-udon-soba-osaka-大阪的烏龍麵與蕎麥麵-商人之城的麵食智慧-315c6a.html
 published: 2026-06-24
-quality_score: 6.5
+quality_score: 8.8
 tags: 大阪美食, 烏龍麵, 蕎麥麵, 關西料理, 日本拉麵
 license: CC BY 4.0
 ---

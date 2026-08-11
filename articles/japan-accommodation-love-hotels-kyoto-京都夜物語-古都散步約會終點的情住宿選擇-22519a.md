@@ -6,7 +6,7 @@ category: love-hotels
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-love-hotels-kyoto-京都夜物語-古都散步約會終點的情住宿選擇-22519a.html
 published: 2026-06-04
-quality_score: 6.5
+quality_score: 8.4
 tags: 京都住宿, 情侶約會, 京都夜生, 關西住宿, 古都浪漫
 license: CC BY 4.0
 ---

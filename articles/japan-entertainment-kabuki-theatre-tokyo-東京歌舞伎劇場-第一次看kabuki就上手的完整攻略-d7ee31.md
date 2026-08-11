@@ -6,7 +6,7 @@ category: kabuki-theatre
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-kabuki-theatre-tokyo-東京歌舞伎劇場-第一次看kabuki就上手的完整攻略-d7ee31.html
 published: 2026-05-21
-quality_score: 6.5
+quality_score: 8.0
 tags: 東京, Kabuki, 歌舞伎, 表演藝術, 日本文化
 license: CC BY 4.0
 ---

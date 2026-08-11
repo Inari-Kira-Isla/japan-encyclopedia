@@ -6,7 +6,7 @@ category: festivals-matsuri
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-festivals-matsuri-osaka-大阪祭典夜遊指南-商都不夜城的娛樂經濟奇蹟-475bee.html
 published: 2026-04-06
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪祭典, 夜間娛樂, 關西旅遊
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: onsen
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-onsen-okinawa-沖繩溫泉-亞熱帶島嶼的礦物湯療美學-47e550.html
 published: 2026-06-13
-quality_score: 6.5
+quality_score: 8.8
 tags: 沖繩溫泉, 亞熱帶溫泉, 礦泉水溫泉, 恩納村溫泉, 碳酸泉
 license: CC BY 4.0
 ---

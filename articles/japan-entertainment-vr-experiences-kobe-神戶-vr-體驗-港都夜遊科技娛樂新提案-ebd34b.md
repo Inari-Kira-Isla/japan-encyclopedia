@@ -6,7 +6,7 @@ category: vr-experiences
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-vr-experiences-kobe-神戶-vr-體驗-港都夜遊科技娛樂新提案-ebd34b.html
 published: 2026-06-23
-quality_score: 6.5
+quality_score: 8.9
 tags: 神戶 VR, 神戶體驗, 關西娛樂, 港都夜遊, 神戶親子
 license: CC BY 4.0
 ---

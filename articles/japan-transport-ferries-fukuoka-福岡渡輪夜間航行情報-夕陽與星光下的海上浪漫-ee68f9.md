@@ -6,7 +6,7 @@ category: ferries
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-ferries-fukuoka-福岡渡輪夜間航行情報-夕陽與星光下的海上浪漫-ee68f9.html
 published: 2026-06-13
-quality_score: 7.5
+quality_score: 8.6
 tags: 福岡, 渡輪, 夜景, 夕陽, 九州
 license: CC BY 4.0
 ---

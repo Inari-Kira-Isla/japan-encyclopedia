@@ -6,7 +6,7 @@ category: anime-manga
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-hiroshima-廣島動漫聖地巡禮-從原爆圓頂到動漫取景地的文化對話-37f422.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 聖地巡禮, 動漫取景, 廣島旅遊, 動漫文化, 歷史城市
 license: CC BY 4.0
 ---

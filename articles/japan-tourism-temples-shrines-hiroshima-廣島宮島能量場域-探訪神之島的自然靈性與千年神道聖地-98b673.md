@@ -6,7 +6,7 @@ category: temples-shrines
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-temples-shrines-hiroshima-廣島宮島能量場域-探訪神之島的自然靈性與千年神道聖地-98b673.html
 published: 2026-06-05
-quality_score: 6.5
+quality_score: 8.8
 tags: 廣島神社, 廣島寺院, 宮島, 嚴島神社, 能量景點
 license: CC BY 4.0
 ---

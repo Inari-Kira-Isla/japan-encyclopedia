@@ -6,7 +6,7 @@ category: capsule-hotels
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-capsule-hotels-kanazawa-金澤膠囊飯店-藝術之旅的實用住宿樞紐-32427a.html
 published: 2026-06-29
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤膠囊飯店, 北路藝術之旅, 金澤住宿推薦, budget-travel, 金澤交通
 license: CC BY 4.0
 ---

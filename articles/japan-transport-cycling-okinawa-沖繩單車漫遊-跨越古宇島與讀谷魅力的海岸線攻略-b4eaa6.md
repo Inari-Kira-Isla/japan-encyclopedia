@@ -6,7 +6,7 @@ category: cycling
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-okinawa-沖繩單車漫遊-跨越古宇島與讀谷魅力的海岸線攻略-b4eaa6.html
 published: 2026-06-27
-quality_score: 7.5
+quality_score: 8.6
 tags: 沖繩單車, 島嶼騎行, 古宇島, 讀谷村, 海岸線
 license: CC BY 4.0
 ---

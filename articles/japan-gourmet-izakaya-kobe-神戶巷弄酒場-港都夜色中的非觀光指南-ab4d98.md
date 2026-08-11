@@ -6,7 +6,7 @@ category: izakaya
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-izakaya-kobe-神戶巷弄酒場-港都夜色中的非觀光指南-ab4d98.html
 published: 2026-06-22
-quality_score: 6.5
+quality_score: 8.5
 tags: 神戶, 居酒屋, 港都, 瀨戶內海, 在地推薦
 license: CC BY 4.0
 ---

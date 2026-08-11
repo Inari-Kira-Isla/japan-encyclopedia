@@ -6,7 +6,7 @@ category: metro-systems
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-kobe-神戶地下鐵的在地生活味-駅弁から見る神戸市內の移動食學-3ebb27.html
 published: 2026-06-06
-quality_score: 7.5
+quality_score: 8.8
 tags: 神戶地下鐵, 神戶交通, 神戶美食, 駅弁, 南京町
 license: CC BY 4.0
 ---

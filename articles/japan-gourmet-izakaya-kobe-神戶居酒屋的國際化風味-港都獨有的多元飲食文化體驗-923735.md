@@ -6,7 +6,7 @@ category: izakaya
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-izakaya-kobe-神戶居酒屋的國際化風味-港都獨有的多元飲食文化體驗-923735.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 神戶美食, 居酒屋文化, 港都飲食, 國際化, 神戶牛
 license: CC BY 4.0
 ---

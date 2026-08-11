@@ -6,7 +6,7 @@ category: cycling
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-okinawa-沖繩單車慢旅-沿海岸線追風的島嶼日常-a0cb7c.html
 published: 2026-07-03
-quality_score: 7.5
+quality_score: 8.9
 tags: 沖繩單車, 島嶼騎行,  Okinawa Cycling, 跳島旅行, 海岸線單車
 license: CC BY 4.0
 ---

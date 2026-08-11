@@ -6,7 +6,7 @@ category: metro-systems
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-sendai-仙台地下鐵沿線散步-從廣瀨通到勾當臺公園的城市綠洲巡禮-09d8f1.html
 published: 2026-07-03
-quality_score: 7.5
+quality_score: 8.7
 tags: 仙台地下鐵, 仙台交通, 東北自助旅行, 勾當台公園, 日本地鐵
 license: CC BY 4.0
 ---

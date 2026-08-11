@@ -6,7 +6,7 @@ category: buses
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-buses-hiroshima-廣島高速巴士周遊攻略-跨城市移動的彈性選擇-52dc8d.html
 published: 2026-05-25
-quality_score: 7.5
+quality_score: 8.7
 tags: 廣島交通, 高速巴士, 瀨戶內海, 日本自助旅行, Budget Travel
 license: CC BY 4.0
 ---

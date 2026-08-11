@@ -6,7 +6,7 @@ category: seafood-market
 area: japan
 url: https://japan-encyclopedia.vercel.app/articles/japan-food-seafood-market-東京築地市場完整指南2026-築地外市場-豐洲市場-海鮮丼-築地海鮮費用-jpy-攻略-jp-tokyo-t-effef9.html
 published: 2026-04-28
-quality_score: 7.6
+quality_score: 8.3
 tags: 築地市場, 豐洲市場, 築地海鮮丼, 東京海鮮, 金槍魚競拍
 license: CC BY 4.0
 ---

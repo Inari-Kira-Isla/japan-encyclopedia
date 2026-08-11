@@ -6,7 +6,7 @@ category: rental-cars
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-osaka-大阪租車美食攻略-從清晨市場到隱藏版食堂的自駕美味探險-e039db.html
 published: 2026-07-06
-quality_score: 7.5
+quality_score: 8.9
 tags: 大阪租車, 關西自駕, 大阪美食, 清晨市場, 天保山
 license: CC BY 4.0
 ---

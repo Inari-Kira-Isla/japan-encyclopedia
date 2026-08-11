@@ -6,7 +6,7 @@ category: business-hotels
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-business-hotels-fukuoka-福岡商務飯店與在地美食的連結-從早餐到宵夜的通勤味覺地圖-b4e769.html
 published: 2026-06-09
-quality_score: 6.5
+quality_score: 8.6
 tags: 福岡商務飯店, 天神藥院住宿, 博多出差, 福岡美食, 屋台文化
 license: CC BY 4.0
 ---

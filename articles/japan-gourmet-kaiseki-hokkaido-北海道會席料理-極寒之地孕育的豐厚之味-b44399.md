@@ -6,7 +6,7 @@ category: kaiseki
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-kaiseki-hokkaido-北海道會席料理-極寒之地孕育的豐厚之味-b44399.html
 published: 2026-06-20
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道會席料理, 北海道美食, 札幌美食, 日本料理, 懷石料理
 license: CC BY 4.0
 ---

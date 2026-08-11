@@ -6,7 +6,7 @@ category: boutique-hotels
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-kyoto-京都精品酒店-古都魅力與現代奢華的完美融合-0f3d09.html
 published: 2026-03-15
-quality_score: 6.5
+quality_score: 8.5
 tags: 京都, 精品酒店, 町屋, 傳統文化, 日式美學
 license: CC BY 4.0
 ---

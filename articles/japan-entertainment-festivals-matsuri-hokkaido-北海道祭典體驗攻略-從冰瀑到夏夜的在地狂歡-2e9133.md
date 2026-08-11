@@ -6,7 +6,7 @@ category: festivals-matsuri
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-festivals-matsuri-hokkaido-北海道祭典體驗攻略-從冰瀑到夏夜的在地狂歡-2e9133.html
 published: 2026-07-02
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道祭典, 冰瀑祭, 啤酒花祭, 薰衣草祭, 日本祭典
 license: CC BY 4.0
 ---

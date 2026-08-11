@@ -6,7 +6,7 @@ category: jr-pass
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-jr-pass-kyoto-jr-west-pass京都周邊探險指南-打破古都刻板印象的鐵道冒險-735c81.html
 published: 2026-03-24
-quality_score: 7.5
+quality_score: 8.7
 tags: 京都交通, JR West Pass, 日本周遊券, 丹後半島, 冷門景點
 license: CC BY 4.0
 ---

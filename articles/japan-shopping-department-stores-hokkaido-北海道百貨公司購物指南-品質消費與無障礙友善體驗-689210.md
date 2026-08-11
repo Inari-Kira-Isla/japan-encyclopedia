@@ -6,7 +6,7 @@ category: department-stores
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-department-stores-hokkaido-北海道百貨公司購物指南-品質消費與無障礙友善體驗-689210.html
 published: 2026-03-24
-quality_score: 7.5
+quality_score: 8.6
 tags: 北海道, 札幌購物, 百貨公司, 無障礙友善, 品質消費
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: fashion-harajuku
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-fashion-harajuku-nagoya-名古屋潮流購物指南-大須區的街頭時尚與古著文化-e47bdc.html
 published: 2026-06-27
-quality_score: 7.5
+quality_score: 8.7
 tags: 名古屋購物, 大須商圈, 古著, 街頭時尚, 日本潮流
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: karaoke
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-karaoke-sendai-仙台卡拉ok-學園都市的音樂日常-4ace57.html
 published: 2026-06-05
-quality_score: 6.5
+quality_score: 8.8
 tags: 仙台, 卡拉OK, 東北樂都, 學生街, 大學城
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: ryokan
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-tokyo-東京都心隱秘旅館-在國際大都市中體驗純正和風禪意-412928.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.9
 tags: 東京住宿, 日式旅館, 溫泉文化, 和風體驗, 都市禪境
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: rental-cars
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-osaka-大阪租車攻略-從關西機場出發的放射狀旅遊路線規劃-c7dd06.html
 published: 2026-06-20
-quality_score: 7.5
+quality_score: 8.6
 tags: 大阪租車, 關西機場, 自駕旅遊, 關西自由行, 放射狀路線
 license: CC BY 4.0
 ---

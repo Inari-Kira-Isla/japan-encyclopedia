@@ -6,7 +6,7 @@ category: scenic-routes
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-kobe-神戶風景道路完全指南-港灣山城的絕美自駕與步行路線-ac270b.html
 published: 2026-03-20
-quality_score: 6.5
+quality_score: 8.6
 tags: 神戶, 風景道路, 自駕旅遊, 六甲山, 有馬溫泉
 license: CC BY 4.0
 ---

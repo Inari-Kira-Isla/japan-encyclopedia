@@ -6,7 +6,7 @@ category: tonkatsu
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tonkatsu-tokyo-東京豚カツ-從明治洋食到米其林級的味覺演進-a45547.html
 published: 2026-07-05
-quality_score: 6.5
+quality_score: 8.8
 tags: 東京美食, 豚カツ, 洋食, 東京旅遊, 炸豬排
 license: CC BY 4.0
 ---

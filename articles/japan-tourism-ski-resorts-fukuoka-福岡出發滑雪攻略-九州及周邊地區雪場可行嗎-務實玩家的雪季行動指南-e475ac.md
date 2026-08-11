@@ -6,7 +6,7 @@ category: ski-resorts
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-ski-resorts-fukuoka-福岡出發滑雪攻略-九州及周邊地區雪場可行嗎-務實玩家的雪季行動指南-e475ac.html
 published: 2026-06-05
-quality_score: 6.5
+quality_score: 8.3
 tags: 福岡滑雪, 九州雪場, 阿蘇滑雪場, 湯布院滑雪, 日本滑雪攻略
 license: CC BY 4.0
 ---

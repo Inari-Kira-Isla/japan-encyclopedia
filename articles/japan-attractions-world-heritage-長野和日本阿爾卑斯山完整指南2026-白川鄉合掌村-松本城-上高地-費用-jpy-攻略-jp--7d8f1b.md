@@ -6,7 +6,7 @@ category: world-heritage
 area: japan
 url: https://japan-encyclopedia.vercel.app/articles/japan-attractions-world-heritage-長野和日本阿爾卑斯山完整指南2026-白川鄉合掌村-松本城-上高地-費用-jpy-攻略-jp--7d8f1b.html
 published: 2026-04-05
-quality_score: 7.1
+quality_score: 8.7
 tags: 白川鄉合掌村, 松本城, 上高地, 長野旅遊, 日本阿爾卑斯
 license: CC BY 4.0
 ---

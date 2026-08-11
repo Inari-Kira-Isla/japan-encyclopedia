@@ -6,7 +6,7 @@ category: buses
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-buses-kobe-神戶巴士風景線-搭公車穿越港都的山海絕景-c3ba21.html
 published: 2026-07-06
-quality_score: 7.5
+quality_score: 8.7
 tags: 神戶巴士, 神戶交通, 神戶自由行, 神戶景點, 神戶山海線
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: castle-towns
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-castle-towns-kobe-神戸周辺の城下町-播磨地方の武家遺産を辿る-e5f16c.html
 published: 2026-03-23
-quality_score: 6.5
+quality_score: 8.5
 tags: 兵庫県, 城下町, 龍野, 明石, 武家文化
 license: CC BY 4.0
 ---

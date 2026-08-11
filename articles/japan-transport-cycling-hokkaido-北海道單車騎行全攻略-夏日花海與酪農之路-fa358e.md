@@ -6,7 +6,7 @@ category: cycling
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-hokkaido-北海道單車騎行全攻略-夏日花海與酪農之路-fa358e.html
 published: 2026-04-01
-quality_score: 7.5
+quality_score: 8.7
 tags: 北海道單車, 富良野騎行, 美瑛單車, 十勝酪農, 日本騎行攻略
 license: CC BY 4.0
 ---

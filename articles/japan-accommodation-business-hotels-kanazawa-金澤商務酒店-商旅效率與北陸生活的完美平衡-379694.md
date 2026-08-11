@@ -6,7 +6,7 @@ category: business-hotels
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-business-hotels-kanazawa-金澤商務酒店-商旅效率與北陸生活的完美平衡-379694.html
 published: 2026-06-16
-quality_score: 6.5
+quality_score: 8.5
 tags: 金澤, 商務酒店, 石川縣, 北陸, 商務出差
 license: CC BY 4.0
 ---

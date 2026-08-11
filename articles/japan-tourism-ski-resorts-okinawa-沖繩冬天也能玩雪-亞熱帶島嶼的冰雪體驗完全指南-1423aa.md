@@ -6,7 +6,7 @@ category: ski-resorts
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-ski-resorts-okinawa-沖繩冬天也能玩雪-亞熱帶島嶼的冰雪體驗完全指南-1423aa.html
 published: 2026-06-18
-quality_score: 6.5
+quality_score: 8.5
 tags: 沖繩冬季旅遊, 沖繩人造雪, 沖繩滑雪場, 亞熱帶滑雪, 沖繩親子旅遊
 license: CC BY 4.0
 ---

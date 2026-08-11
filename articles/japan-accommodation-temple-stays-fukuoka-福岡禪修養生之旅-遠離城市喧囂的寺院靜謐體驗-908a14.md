@@ -6,7 +6,7 @@ category: temple-stays
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-temple-stays-fukuoka-福岡禪修養生之旅-遠離城市喧囂的寺院靜謐體驗-908a14.html
 published: 2026-06-14
-quality_score: 6.5
+quality_score: 8.5
 tags: 九州寺院住宿, 福岡禪修體驗, 太宰府宿坊, 數位排毒, 山岳修行
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: matcha-sweets
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-matcha-sweets-hokkaido-北海道抹茶甜點-雪國溫泉鄉的綠意暖意-c12666.html
 published: 2026-06-21
-quality_score: 6.5
+quality_score: 8.5
 tags: 北海道, 抹茶甜點, 溫泉, 滑雪, 冬季旅遊
 license: CC BY 4.0
 ---

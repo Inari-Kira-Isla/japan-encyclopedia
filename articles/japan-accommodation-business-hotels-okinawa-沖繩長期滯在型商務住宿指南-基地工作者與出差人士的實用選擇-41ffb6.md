@@ -6,7 +6,7 @@ category: business-hotels
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-business-hotels-okinawa-沖繩長期滯在型商務住宿指南-基地工作者與出差人士的實用選擇-41ffb6.html
 published: 2026-06-08
-quality_score: 6.5
+quality_score: 8.7
 tags: 沖繩商務住宿, 長期滯在, 美軍基地工作者, 派駐住宿, 月租公寓
 license: CC BY 4.0
 ---

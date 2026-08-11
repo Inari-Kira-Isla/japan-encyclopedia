@@ -6,7 +6,7 @@ category: love-hotels
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-love-hotels-sendai-仙台情侶旅館-傳統溫泉文化與現代隱私的東北式融合-3507f0.html
 published: 2026-04-06
-quality_score: 6.5
+quality_score: 8.6
 tags: 仙台住宿, 情侶旅館, 溫泉體驗, 東北旅遊, 日本住宿文化
 license: CC BY 4.0
 ---

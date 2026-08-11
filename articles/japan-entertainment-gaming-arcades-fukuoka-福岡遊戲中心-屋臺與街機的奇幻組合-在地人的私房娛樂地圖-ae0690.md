@@ -6,7 +6,7 @@ category: gaming-arcades
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-gaming-arcades-fukuoka-福岡遊戲中心-屋臺與街機的奇幻組合-在地人的私房娛樂地圖-ae0690.html
 published: 2026-07-04
-quality_score: 6.5
+quality_score: 8.8
 tags: 福岡遊戲中心, 街機文化, 屋台美食, 博多夜生活, 九州娛樂
 license: CC BY 4.0
 ---

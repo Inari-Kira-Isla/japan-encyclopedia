@@ -6,7 +6,7 @@ category: boutique-hotels
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-kobe-神戶質感住宿深度評點-從港口到山手的在地體驗指南-50aa06.html
 published: 2026-05-25
-quality_score: 6.5
+quality_score: 8.4
 tags: 神戶住宿, 精品酒店, 質感旅宿, 港區住宿, 日本自由行
 license: CC BY 4.0
 ---

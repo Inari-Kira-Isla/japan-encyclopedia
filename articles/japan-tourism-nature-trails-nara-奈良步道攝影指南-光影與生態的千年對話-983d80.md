@@ -6,7 +6,7 @@ category: nature-trails
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-nara-奈良步道攝影指南-光影與生態的千年對話-983d80.html
 published: 2026-06-14
-quality_score: 6.5
+quality_score: 8.7
 tags: 奈良自然步道, 生態攝影, 古都秘境
 license: CC BY 4.0
 ---

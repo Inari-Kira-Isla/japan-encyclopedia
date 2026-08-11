@@ -6,7 +6,7 @@ category: convenience-store
 area: japan
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-convenience-store-日本便利店完整指南2026-7-eleven-lawson-全家-最值得買的食物和服務-jpy-0a5fb3.html
 published: 2026-03-28
-quality_score: 7.6
+quality_score: 8.3
 tags: 日本便利店, 日本7-Eleven, 日本全家, 日本Lawson, 日本旅遊必知
 license: CC BY 4.0
 ---

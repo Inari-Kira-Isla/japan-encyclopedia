@@ -6,7 +6,7 @@ category: vr-experiences
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-vr-experiences-nagoya-名古屋vr夜間娛樂指南-汽車工業城的科技社交新體驗-8823ba.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.9
 tags: 名古屋VR, 夜間娛樂, 科技體驗, 社交娛樂, 中部旅遊
 license: CC BY 4.0
 ---

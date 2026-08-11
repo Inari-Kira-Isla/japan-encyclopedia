@@ -6,7 +6,7 @@ category: nightlife
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-osaka-大阪上班族夜生活-關西商務社交的酒文化深度指南-90b287.html
 published: 2026-06-28
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪夜生活, 上班族文化, 關西酒場, 在地美食, 商務接待
 license: CC BY 4.0
 ---

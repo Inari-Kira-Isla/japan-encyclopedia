@@ -6,7 +6,7 @@ category: sumo
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-tokyo-東京相撲觀賽全攻略-國技館內的震撼體驗-6e6063.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.6
 tags: 東京相撲, 國技館, 相撲觀賽, 日本文化體驗, 東京旅遊
 license: CC BY 4.0
 ---

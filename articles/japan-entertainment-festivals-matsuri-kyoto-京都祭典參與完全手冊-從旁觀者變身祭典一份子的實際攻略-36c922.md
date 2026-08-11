@@ -6,7 +6,7 @@ category: festivals-matsuri
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-festivals-matsuri-kyoto-京都祭典參與完全手冊-從旁觀者變身祭典一份子的實際攻略-36c922.html
 published: 2026-06-04
-quality_score: 6.5
+quality_score: 8.6
 tags: 京都祭典, 祇園祭, 祭典體驗, 日本文化, 旅行攻略
 license: CC BY 4.0
 ---

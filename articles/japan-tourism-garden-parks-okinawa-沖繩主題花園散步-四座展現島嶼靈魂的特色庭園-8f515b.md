@@ -6,7 +6,7 @@ category: garden-parks
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-okinawa-沖繩主題花園散步-四座展現島嶼靈魂的特色庭園-8f515b.html
 published: 2026-06-22
-quality_score: 6.5
+quality_score: 8.6
 tags: 沖繩景點, 花園公園, 自駕旅遊, 亞熱帶風情, 黃昏美景
 license: CC BY 4.0
 ---

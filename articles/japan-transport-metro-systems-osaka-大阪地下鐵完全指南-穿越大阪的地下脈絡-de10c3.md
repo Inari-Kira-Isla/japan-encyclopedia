@@ -6,7 +6,7 @@ category: metro-systems
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-osaka-大阪地下鐵完全指南-穿越大阪的地下脈絡-de10c3.html
 published: 2026-05-31
-quality_score: 7.5
+quality_score: 8.8
 tags: 大阪交通, 大阪地下鐵,  Osaka Metro , 關西自由行, 大阪地鐵
 license: CC BY 4.0
 ---

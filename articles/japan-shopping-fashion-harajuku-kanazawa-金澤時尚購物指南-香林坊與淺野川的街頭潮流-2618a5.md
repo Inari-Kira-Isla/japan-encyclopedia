@@ -6,7 +6,7 @@ category: fashion-harajuku
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-fashion-harajuku-kanazawa-金澤時尚購物指南-香林坊與淺野川的街頭潮流-2618a5.html
 published: 2026-06-22
-quality_score: 7.5
+quality_score: 8.5
 tags: 金澤購物, 香林坊, 日本古著, 石川縣, 街頭時尚
 license: CC BY 4.0
 ---

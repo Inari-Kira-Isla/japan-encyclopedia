@@ -6,7 +6,7 @@ category: castle-towns
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-castle-towns-nara-奈良周邊的古城小鎮-被時光遺留的巷弄與生活-adcc6b.html
 published: 2026-06-05
-quality_score: 6.5
+quality_score: 8.9
 tags: 奈良, 寺社町, 三輪, 明日香村, 城下町
 license: CC BY 4.0
 ---

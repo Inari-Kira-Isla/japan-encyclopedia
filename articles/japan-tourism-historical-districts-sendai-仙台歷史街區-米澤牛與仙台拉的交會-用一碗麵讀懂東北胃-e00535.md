@@ -6,7 +6,7 @@ category: historical-districts
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-sendai-仙台歷史街區-米澤牛與仙台拉的交會-用一碗麵讀懂東北胃-e00535.html
 published: 2026-06-13
-quality_score: 6.5
+quality_score: 8.6
 tags: 仙台, 历史街区, 美食, 东北地方, 日本料理
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: nightlife
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-tokyo-tokyo隱藏版深夜食堂-在地人才知的深夜美味地圖-373455.html
 published: 2026-05-31
-quality_score: 6.5
+quality_score: 8.7
 tags: Tokyo夜生活, 深夜食堂, 在地美食, Tokyo攻略, 日本旅行
 license: CC BY 4.0
 ---

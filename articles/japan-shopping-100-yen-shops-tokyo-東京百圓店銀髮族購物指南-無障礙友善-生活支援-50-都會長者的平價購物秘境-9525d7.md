@@ -6,7 +6,7 @@ category: 100-yen-shops
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-100-yen-shops-tokyo-東京百圓店銀髮族購物指南-無障礙友善-生活支援-50-都會長者的平價購物秘境-9525d7.html
 published: 2026-06-16
-quality_score: 7.5
+quality_score: 8.6
 tags: 東京百圓店, 銀髮族購物, 無障礙友善, 生活支援, Silver Economy
 license: CC BY 4.0
 ---

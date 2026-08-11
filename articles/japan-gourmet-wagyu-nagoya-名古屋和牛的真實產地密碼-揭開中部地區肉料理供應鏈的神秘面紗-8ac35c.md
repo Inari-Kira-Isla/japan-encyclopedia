@@ -6,7 +6,7 @@ category: wagyu
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-wagyu-nagoya-名古屋和牛的真實產地密碼-揭開中部地區肉料理供應鏈的神秘面紗-8ac35c.html
 published: 2026-05-22
-quality_score: 6.5
+quality_score: 8.6
 tags: nagoya, wagyu, aichi, mie, 美食
 license: CC BY 4.0
 ---

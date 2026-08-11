@@ -6,7 +6,7 @@ category: metro-systems
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-kyoto-京都地下鐵的時間哲學-轉乘與等待的美學生活-5fb106.html
 published: 2026-06-05
-quality_score: 7.5
+quality_score: 8.7
 tags: 京都地下鐵, 京都交通, 烏丸線, 東西線, 京都自由行
 license: CC BY 4.0
 ---

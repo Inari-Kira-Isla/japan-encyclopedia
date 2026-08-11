@@ -6,7 +6,7 @@ category: historical-districts
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-hiroshima-廣島歷史街區-傍晚後的老街魅力-在地人的廣島夜散步-e2a805.html
 published: 2026-06-24
-quality_score: 6.5
+quality_score: 8.7
 tags: 廣島歷史街區, 屋台文化, 廣島夜生活, 昭和風情, 廣島燒
 license: CC BY 4.0
 ---

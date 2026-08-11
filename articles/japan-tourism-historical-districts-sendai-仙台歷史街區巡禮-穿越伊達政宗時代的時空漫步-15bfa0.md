@@ -6,7 +6,7 @@ category: historical-districts
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-sendai-仙台歷史街區巡禮-穿越伊達政宗時代的時空漫步-15bfa0.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 9.0
 tags: 仙台, 歷史街區, 伊達政宗, 日本古城, 東北旅遊
 license: CC BY 4.0
 ---

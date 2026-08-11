@@ -6,7 +6,7 @@ category: ramen
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-ramen-hokkaido-北海道拉麵-四季食材演進與革新風潮-13e04c.html
 published: 2026-04-06
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道美食, 日式拉麵, 季節料理, 札幌美食, 旭川拉麵
 license: CC BY 4.0
 ---

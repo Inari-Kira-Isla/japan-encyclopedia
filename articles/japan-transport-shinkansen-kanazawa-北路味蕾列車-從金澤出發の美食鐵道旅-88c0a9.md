@@ -6,7 +6,7 @@ category: shinkansen
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-kanazawa-北路味蕾列車-從金澤出發の美食鐵道旅-88c0a9.html
 published: 2026-05-22
-quality_score: 7.5
+quality_score: 8.6
 tags: 金澤美食, 北陸新幹綫, 站弁, 富山黑拉麵, 敦賀鯖魚
 license: CC BY 4.0
 ---

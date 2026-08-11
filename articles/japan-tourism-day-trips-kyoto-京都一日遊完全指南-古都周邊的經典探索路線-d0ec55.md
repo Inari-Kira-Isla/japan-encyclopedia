@@ -6,7 +6,7 @@ category: day-trips
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-kyoto-京都一日遊完全指南-古都周邊的經典探索路線-d0ec55.html
 published: 2026-03-14
-quality_score: 6.5
+quality_score: 8.9
 tags: 京都, 一日遊, 奈良, 宇治, 嵐山
 license: CC BY 4.0
 ---

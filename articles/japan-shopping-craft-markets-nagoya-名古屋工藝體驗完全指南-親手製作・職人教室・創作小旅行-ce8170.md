@@ -6,7 +6,7 @@ category: craft-markets
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-craft-markets-nagoya-名古屋工藝體驗完全指南-親手製作・職人教室・創作小旅行-ce8170.html
 published: 2026-06-25
-quality_score: 7.5
+quality_score: 8.6
 tags: nagoya, craft-experience, 手作體驗, 陶藝, 工藝教室
 license: CC BY 4.0
 ---

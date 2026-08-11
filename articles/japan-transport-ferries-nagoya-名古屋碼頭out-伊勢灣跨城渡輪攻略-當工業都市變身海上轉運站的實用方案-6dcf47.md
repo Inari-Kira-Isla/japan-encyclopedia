@@ -6,7 +6,7 @@ category: ferries
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-ferries-nagoya-名古屋碼頭out-伊勢灣跨城渡輪攻略-當工業都市變身海上轉運站的實用方案-6dcf47.html
 published: 2026-06-08
-quality_score: 7.5
+quality_score: 8.4
 tags: 名古屋, 渡輪, 伊勢灣, 港口, 三重縣
 license: CC BY 4.0
 ---

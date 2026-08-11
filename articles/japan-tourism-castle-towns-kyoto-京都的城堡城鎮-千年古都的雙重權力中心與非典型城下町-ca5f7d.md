@@ -6,7 +6,7 @@ category: castle-towns
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-castle-towns-kyoto-京都的城堡城鎮-千年古都的雙重權力中心與非典型城下町-ca5f7d.html
 published: 2026-06-18
-quality_score: 6.5
+quality_score: 8.7
 tags: 京都, 城堡城鎮, 城下町, 二条城, 伏見
 license: CC BY 4.0
 ---

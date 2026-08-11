@@ -6,7 +6,7 @@ category: minshuku
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-fukuoka-福岡民宿完整指南-作為九州玄關的據點住宿選擇-16f07e.html
 published: 2026-06-09
-quality_score: 6.5
+quality_score: 8.5
 tags: 福岡民宿, 九州旅行, 博多住宿, 屋台文化, 據點住宿
 license: CC BY 4.0
 ---

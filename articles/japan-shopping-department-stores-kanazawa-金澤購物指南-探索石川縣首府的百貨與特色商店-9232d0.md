@@ -6,7 +6,7 @@ category: department-stores
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-department-stores-kanazawa-金澤購物指南-探索石川縣首府的百貨與特色商店-9232d0.html
 published: 2026-06-14
-quality_score: 7.5
+quality_score: 8.7
 tags: 金澤購物, 石川縣, 香林坊, 近江町市場, 日本購物
 license: CC BY 4.0
 ---

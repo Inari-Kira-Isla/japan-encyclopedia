@@ -6,7 +6,7 @@ category: onsen
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-onsen-tokyo-東京溫泉完全指南-都會中的療癒密境-f6858f.html
 published: 2026-05-31
-quality_score: 6.5
+quality_score: 8.5
 tags: 東京溫泉, 錢湯, 日歸溫泉, 超級錢湯, 都內溫泉
 license: CC BY 4.0
 ---

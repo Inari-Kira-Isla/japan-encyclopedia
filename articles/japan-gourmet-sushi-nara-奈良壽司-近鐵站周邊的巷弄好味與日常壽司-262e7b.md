@@ -6,7 +6,7 @@ category: sushi
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sushi-nara-奈良壽司-近鐵站周邊的巷弄好味與日常壽司-262e7b.html
 published: 2026-06-23
-quality_score: 6.5
+quality_score: 8.6
 tags: 奈良壽司, 近鐵奈良, 大和川, 奈良美食, 日本壽司
 license: CC BY 4.0
 ---

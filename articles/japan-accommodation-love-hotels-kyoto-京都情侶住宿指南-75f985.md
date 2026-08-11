@@ -6,7 +6,7 @@ category: love-hotels
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-love-hotels-kyoto-京都情侶住宿指南-75f985.html
 published: 2026-06-29
-quality_score: 6.5
+quality_score: 8.9
 tags: 京都, 情侶住宿, 日本住宿, Love Hotel, 京都旅遊
 license: CC BY 4.0
 ---

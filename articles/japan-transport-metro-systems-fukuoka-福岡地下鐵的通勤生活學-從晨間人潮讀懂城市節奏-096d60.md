@@ -6,7 +6,7 @@ category: metro-systems
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-fukuoka-福岡地下鐵的通勤生活學-從晨間人潮讀懂城市節奏-096d60.html
 published: 2026-06-19
-quality_score: 7.5
+quality_score: 8.7
 tags: 福岡地下鐵, 福岡交通, 天神站, 博多站, 日本地下鐵
 license: CC BY 4.0
 ---

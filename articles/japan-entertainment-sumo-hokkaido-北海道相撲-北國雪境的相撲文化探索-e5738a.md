@@ -6,7 +6,7 @@ category: sumo
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-hokkaido-北海道相撲-北國雪境的相撲文化探索-e5738a.html
 published: 2026-06-15
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道相撲, 相撲文化, 札幌相撲, 相撲鍋, 北海道體驗
 license: CC BY 4.0
 ---

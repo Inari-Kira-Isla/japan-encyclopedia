@@ -6,7 +6,7 @@ category: izakaya
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-izakaya-nagoya-名古屋居酒屋的隱藏風景-探索在地飲酒文化的巷弄地圖-a442c8.html
 published: 2026-06-23
-quality_score: 6.5
+quality_score: 8.7
 tags: 名古屋居酒屋, 名古屋美食, 東海地方, 在地文化, 居酒屋推薦
 license: CC BY 4.0
 ---

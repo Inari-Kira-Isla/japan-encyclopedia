@@ -6,7 +6,7 @@ category: garden-parks
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-hiroshima-廣島綠意修復誌-從焦土到公民花園的城市新生-08c954.html
 published: 2026-06-06
-quality_score: 6.5
+quality_score: 8.9
 tags: 廣島花園公園, 修復式園林, 和平紀念公園, 縮景園, 市民花園體驗
 license: CC BY 4.0
 ---

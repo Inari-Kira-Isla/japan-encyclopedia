@@ -6,7 +6,7 @@ category: rental-cars
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-kyoto-京都自駕遊完全攻略-租車漫遊關西腹地的深度之旅-783e79.html
 published: 2026-05-22
-quality_score: 7.5
+quality_score: 8.7
 tags: 京都租車, 關西自駕, 京都一日遊, 日本租車攻略, 比叡山
 license: CC BY 4.0
 ---

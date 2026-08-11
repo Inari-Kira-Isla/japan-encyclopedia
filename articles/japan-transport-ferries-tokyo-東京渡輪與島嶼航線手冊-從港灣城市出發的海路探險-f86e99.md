@@ -6,7 +6,7 @@ category: ferries
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-ferries-tokyo-東京渡輪與島嶼航線手冊-從港灣城市出發的海路探險-f86e99.html
 published: 2026-06-24
-quality_score: 7.5
+quality_score: 8.3
 tags: 東京渡輪, 東京灣水上交通, 東京諸島, 式根島, 新島
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: festivals-matsuri
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-festivals-matsuri-sendai-仙台秋冬夜祭完全指南-jazz-鬥牛與街頭藝術的熱血盛典-a52706.html
 published: 2026-06-30
-quality_score: 6.5
+quality_score: 8.6
 tags: 仙台祭典, 定禪寺爵士音樂節, 仙台鬥牛, 東北旅遊, 日本祭典
 license: CC BY 4.0
 ---

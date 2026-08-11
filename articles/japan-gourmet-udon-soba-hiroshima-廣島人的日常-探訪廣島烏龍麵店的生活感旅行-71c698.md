@@ -6,7 +6,7 @@ category: udon-soba
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-udon-soba-hiroshima-廣島人的日常-探訪廣島烏龍麵店的生活感旅行-71c698.html
 published: 2026-05-22
-quality_score: 6.5
+quality_score: 8.7
 tags: 廣島美食, 廣島烏龍麵, 日本烏龍麵, 中國地方美食, 廣島旅遊
 license: CC BY 4.0
 ---

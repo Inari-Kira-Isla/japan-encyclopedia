@@ -6,7 +6,7 @@ category: kaiseki
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-kaiseki-kanazawa-金澤會席料理-弱日圓時代的高cp值選擇-解析加賀百萬石古城的旬味美學-daf77e.html
 published: 2026-07-03
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤會席料理, 加賀百萬石, 日本料理, 能登海鮮, 北陸美食
 license: CC BY 4.0
 ---

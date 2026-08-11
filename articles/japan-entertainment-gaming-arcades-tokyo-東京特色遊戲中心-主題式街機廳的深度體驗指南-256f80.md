@@ -6,7 +6,7 @@ category: gaming-arcades
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-gaming-arcades-tokyo-東京特色遊戲中心-主題式街機廳的深度體驗指南-256f80.html
 published: 2026-06-20
-quality_score: 6.5
+quality_score: 8.6
 tags: 東京遊戲中心, 街機推薦, 主題式遊戲廳, 秋葉原, 新宿
 license: CC BY 4.0
 ---

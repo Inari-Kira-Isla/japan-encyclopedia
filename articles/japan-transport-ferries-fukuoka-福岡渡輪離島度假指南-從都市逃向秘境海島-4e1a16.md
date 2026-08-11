@@ -6,7 +6,7 @@ category: ferries
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-ferries-fukuoka-福岡渡輪離島度假指南-從都市逃向秘境海島-4e1a16.html
 published: 2026-03-23
-quality_score: 7.5
+quality_score: 8.4
 tags: 福岡交通, 日本渡輪, 離島度假, 秘境小島, 日本海旅遊
 license: CC BY 4.0
 ---

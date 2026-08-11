@@ -6,7 +6,7 @@ category: ramen
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-ramen-sendai-仙台拉麵-牛舌燒肉之都的濃鬱麵食文化-061be7.html
 published: 2026-03-21
-quality_score: 6.5
+quality_score: 8.5
 tags: 仙台, 拉麵, 牛舌, 日本東北, 美食
 license: CC BY 4.0
 ---

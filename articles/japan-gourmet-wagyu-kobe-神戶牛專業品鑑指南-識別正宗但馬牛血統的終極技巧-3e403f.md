@@ -6,7 +6,7 @@ category: wagyu
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-wagyu-kobe-神戶牛專業品鑑指南-識別正宗但馬牛血統的終極技巧-3e403f.html
 published: 2026-03-29
-quality_score: 6.5
+quality_score: 8.7
 tags: 神戶牛, 但馬牛, 日本和牛, 美食品鑑, 兵庫縣
 license: CC BY 4.0
 ---

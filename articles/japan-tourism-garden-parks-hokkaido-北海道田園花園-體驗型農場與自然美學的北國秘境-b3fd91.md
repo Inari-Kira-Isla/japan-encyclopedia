@@ -6,7 +6,7 @@ category: garden-parks
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-hokkaido-北海道田園花園-體驗型農場與自然美學的北國秘境-b3fd91.html
 published: 2026-06-25
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道, 花園, 農場體驗, 富良野, 美瑛
 license: CC BY 4.0
 ---

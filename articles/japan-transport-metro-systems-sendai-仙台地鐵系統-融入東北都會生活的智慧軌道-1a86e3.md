@@ -6,7 +6,7 @@ category: metro-systems
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-sendai-仙台地鐵系統-融入東北都會生活的智慧軌道-1a86e3.html
 published: 2026-04-04
-quality_score: 7.5
+quality_score: 8.7
 tags: 仙台地鐵, 東北交通, 在地生活
 license: CC BY 4.0
 ---

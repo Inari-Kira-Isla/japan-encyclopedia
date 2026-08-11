@@ -6,7 +6,7 @@ category: ferries
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-ferries-hiroshima-廣島渡輪之旅-瀨戶內海島嶼串聯的海上移動美學-18a7bf.html
 published: 2026-05-23
-quality_score: 7.5
+quality_score: 8.7
 tags: 廣島渡輪, 瀨戶內海, 宮島交通, 島嶼跳島, 海上移動
 license: CC BY 4.0
 ---

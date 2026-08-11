@@ -6,7 +6,7 @@ category: day-trips
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-hiroshima-廣島週邊一日遊-從瀨戶內海島嶼到備後福山的在地深度體驗-b9897a.html
 published: 2026-06-30
-quality_score: 6.5
+quality_score: 8.6
 tags: 廣島一日遊, 尾道, 竹原, 福山市, 吳市
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: garden-parks
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-kyoto-京都庭園咖啡時刻-漫步綠意與茶香之間-052c79.html
 published: 2026-06-25
-quality_score: 6.5
+quality_score: 8.7
 tags: 京都, 庭園, 咖啡, 抹茶, 散步
 license: CC BY 4.0
 ---

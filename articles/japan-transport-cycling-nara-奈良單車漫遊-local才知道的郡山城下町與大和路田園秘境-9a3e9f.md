@@ -6,7 +6,7 @@ category: cycling
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-nara-奈良單車漫遊-local才知道的郡山城下町與大和路田園秘境-9a3e9f.html
 published: 2026-06-12
-quality_score: 7.5
+quality_score: 8.6
 tags: 奈良單車, 郡山市, 大和路, local推薦, 自行車旅行
 license: CC BY 4.0
 ---

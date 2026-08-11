@@ -6,7 +6,7 @@ category: airport-transfer
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-airport-transfer-sendai-仙台機場交通升級攻略-沿途停靠點打造質感旅途-5個你不知道的中途停留選擇-d0b460.html
 published: 2026-06-02
-quality_score: 7.5
+quality_score: 8.6
 tags: 仙台機場交通, 秋保溫泉, 中途停留, 名取市, 機場接送
 license: CC BY 4.0
 ---

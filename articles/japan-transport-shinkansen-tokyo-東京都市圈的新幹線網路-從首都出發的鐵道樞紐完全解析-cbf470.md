@@ -6,7 +6,7 @@ category: shinkansen
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-tokyo-東京都市圈的新幹線網路-從首都出發的鐵道樞紐完全解析-cbf470.html
 published: 2026-06-26
-quality_score: 7.5
+quality_score: 8.5
 tags: 東京駅, 上野駅, 品川駅, 東海道新干线, 東北新干线
 license: CC BY 4.0
 ---

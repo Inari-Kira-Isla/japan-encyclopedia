@@ -6,7 +6,7 @@ category: vr-experiences
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-vr-experiences-kobe-神戶夜景vr-俯瞰港都百萬美元璀璨-bcad4b.html
 published: 2026-05-23
-quality_score: 6.5
+quality_score: 8.9
 tags: 神戶VR, 神戶夜景, 關西VR體驗, 港都虛擬實境, 神戶自由行
 license: CC BY 4.0
 ---

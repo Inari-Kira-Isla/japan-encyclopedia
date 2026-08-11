@@ -6,7 +6,7 @@ category: 100-yen-shops
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-100-yen-shops-kanazawa-金澤百元店銀髮購物指南-加賀百萬石城下長輩友善平價購物地圖-95ba72.html
 published: 2026-06-15
-quality_score: 7.5
+quality_score: 8.7
 tags: 金澤百元店, 銀髮族購物, 日本百元店, 金澤旅遊, 加賀百萬石
 license: CC BY 4.0
 ---

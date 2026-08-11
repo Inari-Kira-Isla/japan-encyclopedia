@@ -6,7 +6,7 @@ category: matcha-sweets
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-matcha-sweets-tokyo-東京抹茶甜點職人傳承-從一保堂到現代創新的綠茶工藝-095ec2.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京美食, 抹茶甜點, 職人文化, 傳統工藝, 季節限定
 license: CC BY 4.0
 ---

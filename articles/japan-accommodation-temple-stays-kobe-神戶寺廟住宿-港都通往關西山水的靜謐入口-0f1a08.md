@@ -6,7 +6,7 @@ category: temple-stays
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-temple-stays-kobe-神戶寺廟住宿-港都通往關西山水的靜謐入口-0f1a08.html
 published: 2026-05-25
-quality_score: 6.5
+quality_score: 8.7
 tags: 神戶寺廟住宿, 關西寺廟住宿, 高野山宿坊, 比叡山住宿, 嵐山文化體驗
 license: CC BY 4.0
 ---

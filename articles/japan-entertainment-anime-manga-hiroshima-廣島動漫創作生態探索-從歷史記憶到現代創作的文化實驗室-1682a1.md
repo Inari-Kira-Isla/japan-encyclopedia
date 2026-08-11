@@ -6,7 +6,7 @@ category: anime-manga
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-hiroshima-廣島動漫創作生態探索-從歷史記憶到現代創作的文化實驗室-1682a1.html
 published: 2026-04-11
-quality_score: 6.5
+quality_score: 8.7
 tags: 廣島, 動漫創作, 獨立工作室, 歷史文化, 創作社群
 license: CC BY 4.0
 ---

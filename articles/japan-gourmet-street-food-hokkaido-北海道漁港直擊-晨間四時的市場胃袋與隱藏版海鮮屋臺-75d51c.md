@@ -6,7 +6,7 @@ category: street-food
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-street-food-hokkaido-北海道漁港直擊-晨間四時的市場胃袋與隱藏版海鮮屋臺-75d51c.html
 published: 2026-06-22
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道, 街頭美食, 漁港早市, 海鮮, 在地體驗
 license: CC BY 4.0
 ---

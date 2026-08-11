@@ -6,7 +6,7 @@ category: island-hopping
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-island-hopping-kobe-海上廚房-神戶出發的瀨戶內海食文化跳島之旅-f5a33a.html
 published: 2026-03-24
-quality_score: 6.5
+quality_score: 8.7
 tags: 日本旅遊, 瀨戶內海, 美食旅遊, 島嶼跳島, 神戶
 license: CC BY 4.0
 ---

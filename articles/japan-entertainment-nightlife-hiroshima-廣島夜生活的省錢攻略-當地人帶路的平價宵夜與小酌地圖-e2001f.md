@@ -6,7 +6,7 @@ category: nightlife
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-hiroshima-廣島夜生活的省錢攻略-當地人帶路的平價宵夜與小酌地圖-e2001f.html
 published: 2026-05-24
-quality_score: 6.5
+quality_score: 8.7
 tags: 廣島夜生活, 日本中國地方, 平價美食, budget travel, 深度旅遊
 license: CC BY 4.0
 ---

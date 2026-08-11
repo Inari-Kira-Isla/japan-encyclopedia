@@ -6,7 +6,7 @@ category: craft-markets
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-craft-markets-sendai-仙台工藝品購物地圖-聰明買家的淘寶攻略-e3f180.html
 published: 2026-03-24
-quality_score: 7.5
+quality_score: 8.4
 tags: 仙台, 工藝品, 購物指南, 日本工藝, 漆器
 license: CC BY 4.0
 ---

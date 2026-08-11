@@ -6,7 +6,7 @@ category: jr-pass
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-jr-pass-sendai-仙台-jr-pass-攻略-暢遊東北-從海岸到山嶽的深度之旅-e8f7de.html
 published: 2026-04-02
-quality_score: 7.5
+quality_score: 8.9
 tags: JR Pass, 東北自助旅行, 仙台自由行, 日本交通攻略, 松島景點
 license: CC BY 4.0
 ---

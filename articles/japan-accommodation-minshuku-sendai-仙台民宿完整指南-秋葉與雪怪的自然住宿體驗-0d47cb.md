@@ -6,7 +6,7 @@ category: minshuku
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-sendai-仙台民宿完整指南-秋葉與雪怪的自然住宿體驗-0d47cb.html
 published: 2026-06-22
-quality_score: 6.5
+quality_score: 8.7
 tags: 仙台民宿, 藏王溫泉, 東北秋葉, 雪怪奇景, 松島海岸
 license: CC BY 4.0
 ---

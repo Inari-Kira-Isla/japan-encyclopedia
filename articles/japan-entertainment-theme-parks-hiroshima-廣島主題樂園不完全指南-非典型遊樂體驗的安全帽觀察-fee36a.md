@@ -6,7 +6,7 @@ category: theme-parks
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-theme-parks-hiroshima-廣島主題樂園不完全指南-非典型遊樂體驗的安全帽觀察-fee36a.html
 published: 2026-05-23
-quality_score: 6.5
+quality_score: 8.5
 tags: hiroshima, theme-park, vr-experience, miyajima, peace-memorial
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: day-trips
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-kyoto-京都鐵道慢旅行-用地方線路串聯的私房一日遊-f118f5.html
 published: 2026-06-04
-quality_score: 6.5
+quality_score: 8.6
 tags: 京都一日遊, 鐵道旅行, 地方線路, 鞍馬山, 宇治抹茶
 license: CC BY 4.0
 ---

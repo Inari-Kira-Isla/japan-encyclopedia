@@ -6,7 +6,7 @@ category: duty-free
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-duty-free-tokyo-東京商務客免稅購物指南-odaiba-臨海副都心一日往返全攻略-a86383.html
 published: 2026-06-01
-quality_score: 7.5
+quality_score: 8.6
 tags: 東京免稅購物, 台場, 商務旅客, Odaiba, 百合海鷗號
 license: CC BY 4.0
 ---

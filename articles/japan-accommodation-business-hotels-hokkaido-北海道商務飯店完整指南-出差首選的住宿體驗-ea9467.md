@@ -6,7 +6,7 @@ category: business-hotels
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-business-hotels-hokkaido-北海道商務飯店完整指南-出差首選的住宿體驗-ea9467.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 8.5
 tags: 北海道商務飯店, 札幌住宿, 旭川商務飯店, 函館商務飯店, 出差住宿
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: tonkatsu
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tonkatsu-kanazawa-金澤とんかつ-加賀料理之都的洋食另一面-b4867c.html
 published: 2026-06-11
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤美食, 金澤とんかつ, 加賀料理, 洋食, 石川縣美食
 license: CC BY 4.0
 ---

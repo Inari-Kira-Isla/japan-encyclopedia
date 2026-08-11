@@ -6,7 +6,7 @@ category: ferries
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-ferries-kanazawa-金澤港渡輪冬季物語-日本海上的歲末限定航程-6e2f0e.html
 published: 2026-06-08
-quality_score: 7.5
+quality_score: 8.5
 tags: 金澤交通, 日本海渡輪, 冬季金澤, 能登半島, 金澤港
 license: CC BY 4.0
 ---

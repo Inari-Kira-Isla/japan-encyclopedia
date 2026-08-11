@@ -6,7 +6,7 @@ category: electronics
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-electronics-sendai-仙台電子產品購物指南-大學生と地域の特色小店完全攻略-d2647e.html
 published: 2026-06-18
-quality_score: 7.5
+quality_score: 8.6
 tags: 仙台電子產品, 東北購物, 日本電器, 學都仙台, 仙台旅遊
 license: CC BY 4.0
 ---

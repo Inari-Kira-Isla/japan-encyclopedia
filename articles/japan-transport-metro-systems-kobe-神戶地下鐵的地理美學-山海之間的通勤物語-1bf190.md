@@ -6,7 +6,7 @@ category: metro-systems
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-kobe-神戶地下鐵的地理美學-山海之間的通勤物語-1bf190.html
 published: 2026-06-13
-quality_score: 7.5
+quality_score: 8.8
 tags: 神戶地下鐵, 神戶交通, 神戶 Metro, 神戶山海, 神戶夜景
 license: CC BY 4.0
 ---

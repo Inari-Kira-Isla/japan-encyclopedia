@@ -6,7 +6,7 @@ category: depachika
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-depachika-kanazawa-金澤depachika-北陸海味與加賀工藝的美食殿堂-1c1dbf.html
 published: 2026-03-29
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤, Depachika, 百貨地下街, 加賀料理, 日本海海鮮
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: fashion-harajuku
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-fashion-harajuku-kyoto-京都潮流聖地巡禮-河原町・四條通的年輕時尚文化-0f030e.html
 published: 2026-06-11
-quality_score: 7.5
+quality_score: 8.6
 tags: 京都購物, 河原町, 四條通, 年輕時尚, 潮流文化
 license: CC BY 4.0
 ---

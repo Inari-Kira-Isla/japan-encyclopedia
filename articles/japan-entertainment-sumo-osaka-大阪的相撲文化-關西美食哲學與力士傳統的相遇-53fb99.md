@@ -6,7 +6,7 @@ category: sumo
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-osaka-大阪的相撲文化-關西美食哲學與力士傳統的相遇-53fb99.html
 published: 2026-06-02
-quality_score: 6.5
+quality_score: 8.8
 tags: 大阪相撲, 關西美食, 相撲火鍋, 力士料理, 大阪旅遊
 license: CC BY 4.0
 ---

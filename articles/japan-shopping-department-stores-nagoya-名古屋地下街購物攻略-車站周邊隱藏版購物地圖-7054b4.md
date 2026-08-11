@@ -6,7 +6,7 @@ category: department-stores
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-department-stores-nagoya-名古屋地下街購物攻略-車站周邊隱藏版購物地圖-7054b4.html
 published: 2026-07-04
-quality_score: 7.5
+quality_score: 8.9
 tags: 名古屋地下街, 購物攻略, 車站購物, 伴手禮推薦, 無障礙旅遊
 license: CC BY 4.0
 ---

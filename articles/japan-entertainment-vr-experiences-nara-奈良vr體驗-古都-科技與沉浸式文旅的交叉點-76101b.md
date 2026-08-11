@@ -6,7 +6,7 @@ category: vr-experiences
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-vr-experiences-nara-奈良vr體驗-古都-科技與沉浸式文旅的交叉點-76101b.html
 published: 2026-05-24
-quality_score: 6.5
+quality_score: 8.8
 tags: 奈良VR體驗, 古都奈良, 關西科技娛樂, 沉浸式體驗, AR體驗
 license: CC BY 4.0
 ---

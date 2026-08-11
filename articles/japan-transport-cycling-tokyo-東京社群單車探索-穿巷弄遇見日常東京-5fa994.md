@@ -6,7 +6,7 @@ category: cycling
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-tokyo-東京社群單車探索-穿巷弄遇見日常東京-5fa994.html
 published: 2026-06-07
-quality_score: 7.5
+quality_score: 8.7
 tags: 東京單車, 社區探索, 下町風情, 東京深度遊, 在地文化
 license: CC BY 4.0
 ---

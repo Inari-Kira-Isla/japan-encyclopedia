@@ -6,7 +6,7 @@ category: nightlife
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-kobe-神戶夜生活-港都山丘與海岸的夜色漫步-848546.html
 published: 2026-06-02
-quality_score: 6.5
+quality_score: 8.9
 tags: 神戶夜生活, 神戶酒吧, 神戶夜景, 異人館街區, 元町
 license: CC BY 4.0
 ---

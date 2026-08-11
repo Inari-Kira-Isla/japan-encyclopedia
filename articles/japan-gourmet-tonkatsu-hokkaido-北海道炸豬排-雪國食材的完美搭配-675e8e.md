@@ -6,7 +6,7 @@ category: tonkatsu
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tonkatsu-hokkaido-北海道炸豬排-雪國食材的完美搭配-675e8e.html
 published: 2026-04-02
-quality_score: 6.5
+quality_score: 8.8
 tags: 北海道美食, 豚カツ, 日式洋食, 札幌薄野, 小樽運河
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: theme-parks
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-theme-parks-tokyo-東京非主流主題樂園-在地人私藏的數位藝術與隱藏版歡樂天地-fc05f2.html
 published: 2026-06-04
-quality_score: 6.5
+quality_score: 8.5
 tags: 東京主題樂園, 數位藝術樂園, teamLab, 室內遊樂園, 台場
 license: CC BY 4.0
 ---

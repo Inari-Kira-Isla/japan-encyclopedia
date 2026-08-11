@@ -6,7 +6,7 @@ category: historical-districts
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-nara-奈良歷史街區-從晨霧到夜幕的千年時光流轉-6b9acb.html
 published: 2026-06-11
-quality_score: 6.5
+quality_score: 8.7
 tags: 奈良, 歷史街區, 古都, 晨間漫步, 日本千年
 license: CC BY 4.0
 ---

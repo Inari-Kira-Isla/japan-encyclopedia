@@ -6,7 +6,7 @@ category: minshuku
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-nara-奈良民宿不完全指南-當千年古都成為關西探索的根據地-304479.html
 published: 2026-06-13
-quality_score: 6.5
+quality_score: 8.4
 tags: 奈良民宿, 關西自由行, 町家住宿, 寺院宿坊, 日本自助旅行
 license: CC BY 4.0
 ---

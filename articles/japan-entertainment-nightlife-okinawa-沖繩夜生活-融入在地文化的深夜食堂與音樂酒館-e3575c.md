@@ -6,7 +6,7 @@ category: nightlife
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-okinawa-沖繩夜生活-融入在地文化的深夜食堂與音樂酒館-e3575c.html
 published: 2026-06-15
-quality_score: 6.5
+quality_score: 8.7
 tags: 沖繩夜生活, 沖繩居酒屋, 沖繩酒吧, 那霸美食, 恩納村海灘
 license: CC BY 4.0
 ---

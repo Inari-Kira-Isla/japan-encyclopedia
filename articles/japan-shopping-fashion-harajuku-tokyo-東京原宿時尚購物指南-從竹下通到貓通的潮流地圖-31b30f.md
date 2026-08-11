@@ -6,7 +6,7 @@ category: fashion-harajuku
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-fashion-harajuku-tokyo-東京原宿時尚購物指南-從竹下通到貓通的潮流地圖-31b30f.html
 published: 2026-06-15
-quality_score: 7.5
+quality_score: 8.9
 tags: 原宿購物, 東京時尚, 貓通, 街頭潮流, 古著
 license: CC BY 4.0
 ---

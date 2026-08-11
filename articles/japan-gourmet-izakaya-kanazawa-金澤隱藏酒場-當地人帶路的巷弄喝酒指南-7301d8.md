@@ -6,7 +6,7 @@ category: izakaya
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-izakaya-kanazawa-金澤隱藏酒場-當地人帶路的巷弄喝酒指南-7301d8.html
 published: 2026-05-24
-quality_score: 6.5
+quality_score: 8.6
 tags: 金澤, 居酒屋, 石川縣, 加賀料理, 能登海鮮
 license: CC BY 4.0
 ---

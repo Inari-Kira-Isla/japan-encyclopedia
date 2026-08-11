@@ -6,7 +6,7 @@ category: temples-shrines
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-temples-shrines-kanazawa-金澤寺廟神社的在地生活-從加賀藩城到百姓日常的信仰軌跡-e27ef7.html
 published: 2026-06-20
-quality_score: 6.5
+quality_score: 8.8
 tags: 金澤寺廟, 金澤神社, 加賀藩, 尾山神社, 本願寺
 license: CC BY 4.0
 ---

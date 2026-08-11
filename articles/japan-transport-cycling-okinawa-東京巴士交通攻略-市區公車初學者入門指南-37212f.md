@@ -6,7 +6,7 @@ category: cycling
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-okinawa-東京巴士交通攻略-市區公車初學者入門指南-37212f.html
 published: 2026-06-06
-quality_score: 6.5
+quality_score: 7.8
 tags: 東京交通, 巴士遊覽, 東京自由行, 市區公車, 自助旅行
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: duty-free
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-duty-free-kyoto-京都文化免稅購物完全指南-傳統工藝品與現代免稅服務的完美結合-dd0130.html
 published: 2026-04-04
-quality_score: 7.5
+quality_score: 8.6
 tags: 京都購物, 日本免稅, 傳統工藝, 文化體驗, 茶道用品
 license: CC BY 4.0
 ---

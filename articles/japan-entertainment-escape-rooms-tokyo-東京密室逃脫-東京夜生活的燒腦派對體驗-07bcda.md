@@ -6,7 +6,7 @@ category: escape-rooms
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-escape-rooms-tokyo-東京密室逃脫-東京夜生活的燒腦派對體驗-07bcda.html
 published: 2026-06-27
-quality_score: 6.5
+quality_score: 8.4
 tags: 東京娛樂, 密室逃脫, 夜生活, 東京旅遊, 團體活動
 license: CC BY 4.0
 ---

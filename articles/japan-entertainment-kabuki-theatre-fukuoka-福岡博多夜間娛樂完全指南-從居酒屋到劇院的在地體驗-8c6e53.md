@@ -6,7 +6,7 @@ category: kabuki-theatre
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-kabuki-theatre-fukuoka-福岡博多夜間娛樂完全指南-從居酒屋到劇院的在地體驗-8c6e53.html
 published: 2026-03-31
-quality_score: 6.5
+quality_score: 8.7
 tags: 福岡夜生活, 博多娛樂, 屋台文化, 日本遊戲中心, 九州體驗
 license: CC BY 4.0
 ---

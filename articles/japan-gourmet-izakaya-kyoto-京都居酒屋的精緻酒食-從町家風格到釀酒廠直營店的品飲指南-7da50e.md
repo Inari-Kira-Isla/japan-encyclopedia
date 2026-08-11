@@ -6,7 +6,7 @@ category: izakaya
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-izakaya-kyoto-京都居酒屋的精緻酒食-從町家風格到釀酒廠直營店的品飲指南-7da50e.html
 published: 2026-06-28
-quality_score: 6.5
+quality_score: 8.8
 tags: 京都居酒屋, 京料理, 町家, 地酒, 祇園
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: cycling
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-nagoya-名古屋產業騎行-穿越機械之都的工業記憶之路-69bc0f.html
 published: 2026-06-21
-quality_score: 7.5
+quality_score: 8.7
 tags: 名古屋單車, 產業之旅, 工業遺產, 港區骑行, 名古屋自由行
 license: CC BY 4.0
 ---

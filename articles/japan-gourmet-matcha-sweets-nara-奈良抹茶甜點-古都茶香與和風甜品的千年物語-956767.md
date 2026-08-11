@@ -6,7 +6,7 @@ category: matcha-sweets
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-matcha-sweets-nara-奈良抹茶甜點-古都茶香與和風甜品的千年物語-956767.html
 published: 2026-03-20
-quality_score: 6.5
+quality_score: 8.6
 tags: 奈良抹茶, 大和茶, 奈良甜點, 日本茶道體驗, 關西美食
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: souvenir-omiyage
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-souvenir-omiyage-sendai-仙台古著散步-隱藏版復古伴手禮與挖寶秘境-e9998b.html
 published: 2026-07-02
-quality_score: 7.5
+quality_score: 8.7
 tags: 仙台伴手禮, 日本古著, 仙台購物, 東北伴手禮, 復古挖寶
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: fashion-harajuku
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-fashion-harajuku-kyoto-京都潮流購物新地標-河原町通與下鳥神社的街頭時尚散步-299a19.html
 published: 2026-07-03
-quality_score: 7.5
+quality_score: 8.9
 tags: 京都購物, 京都潮流, 河原町, 下鳥神社, 古著
 license: CC BY 4.0
 ---

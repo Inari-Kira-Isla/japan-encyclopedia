@@ -6,7 +6,7 @@ category: karaoke
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-karaoke-hokkaido-北海道卡拉ok-冰點之都的暖聲歡唱-a74dce.html
 published: 2026-06-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道卡拉OK, 札幌夜生活, 北海道娛樂, 雪國活動, 北海道美食
 license: CC BY 4.0
 ---

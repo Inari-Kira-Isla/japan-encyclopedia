@@ -6,7 +6,7 @@ category: theme-parks
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-theme-parks-okinawa-沖繩主題樂園-熱帶島嶼的歡樂體驗完全指南-9256a8.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 8.7
 tags: 沖繩主題樂園, 沖繩親子遊, 沖繩水上活動, 沖繩景點推薦, 沖繩自由行
 license: CC BY 4.0
 ---

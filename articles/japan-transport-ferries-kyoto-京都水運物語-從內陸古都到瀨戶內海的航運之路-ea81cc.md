@@ -6,7 +6,7 @@ category: ferries
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-ferries-kyoto-京都水運物語-從內陸古都到瀨戶內海的航運之路-ea81cc.html
 published: 2026-06-22
-quality_score: 7.5
+quality_score: 8.7
 tags: 京都交通, 水運歷史, 渡輪, 瀨戶內海, 大阪港
 license: CC BY 4.0
 ---

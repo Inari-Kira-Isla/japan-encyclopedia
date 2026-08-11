@@ -6,7 +6,7 @@ category: day-trips
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-hiroshima-廣島一日遊完全指南-從和平紀唸到宮島的歷史文化之旅-9eb6ec.html
 published: 2026-03-21
-quality_score: 6.5
+quality_score: 8.7
 tags: 廣島, 一日遊, 世界遺產, 宮島, 和平紀念
 license: CC BY 4.0
 ---

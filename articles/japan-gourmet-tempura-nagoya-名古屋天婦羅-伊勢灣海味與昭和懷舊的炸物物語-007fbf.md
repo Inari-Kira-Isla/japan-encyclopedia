@@ -6,7 +6,7 @@ category: tempura
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tempura-nagoya-名古屋天婦羅-伊勢灣海味與昭和懷舊的炸物物語-007fbf.html
 published: 2026-06-29
-quality_score: 6.5
+quality_score: 8.7
 tags: 名古屋美食, 天婦羅, 伊勢灣, 名古屋旅遊, 中部地方
 license: CC BY 4.0
 ---

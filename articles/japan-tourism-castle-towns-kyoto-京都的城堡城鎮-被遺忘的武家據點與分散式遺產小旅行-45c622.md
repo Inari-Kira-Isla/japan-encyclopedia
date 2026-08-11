@@ -6,7 +6,7 @@ category: castle-towns
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-castle-towns-kyoto-京都的城堡城鎮-被遺忘的武家據點與分散式遺產小旅行-45c622.html
 published: 2026-06-12
-quality_score: 6.5
+quality_score: 8.7
 tags: 京都, 城堡城鎮, 城下町, 歷史古蹟, 深度旅遊
 license: CC BY 4.0
 ---

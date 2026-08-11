@@ -6,7 +6,7 @@ category: island-hopping
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-island-hopping-hokkaido-北海道跳島美食輯-跟著島民的餐桌走-144a65.html
 published: 2026-06-28
-quality_score: 6.5
+quality_score: 8.4
 tags: 北海道跳島, 美食之旅, 利失常, 禮文島, 奧失常
 license: CC BY 4.0
 ---

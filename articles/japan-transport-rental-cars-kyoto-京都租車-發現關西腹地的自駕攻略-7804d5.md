@@ -6,7 +6,7 @@ category: rental-cars
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-kyoto-京都租車-發現關西腹地的自駕攻略-7804d5.html
 published: 2026-06-01
-quality_score: 7.5
+quality_score: 8.6
 tags: 京都租車, 關西自駕, 京都周邊秘境, 日本租车攻略, 京都自由行
 license: CC BY 4.0
 ---

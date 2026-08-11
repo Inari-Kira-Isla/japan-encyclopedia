@@ -6,7 +6,7 @@ category: depachika
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-depachika-fukuoka-福岡-depachika-港都食材輻輳的地下美食版圖-02a6e4.html
 published: 2026-06-17
-quality_score: 6.5
+quality_score: 8.5
 tags: 福岡Depachika, 博多地下食品, 九州食材, 玄界灘海產, 博多元氣
 license: CC BY 4.0
 ---

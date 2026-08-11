@@ -6,7 +6,7 @@ category: sumo
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-nagoya-名古屋相撲-從產業之都認識相撲的另一種方式-b0befa.html
 published: 2026-06-29
-quality_score: 6.5
+quality_score: 8.7
 tags: 名古屋相撲, 名古屋旅遊, 中部地方相撲, 相撲體驗, 日本傳統武術
 license: CC BY 4.0
 ---

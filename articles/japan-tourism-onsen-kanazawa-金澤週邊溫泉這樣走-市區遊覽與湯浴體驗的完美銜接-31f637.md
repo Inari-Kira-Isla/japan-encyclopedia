@@ -6,7 +6,7 @@ category: onsen
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-onsen-kanazawa-金澤週邊溫泉這樣走-市區遊覽與湯浴體驗的完美銜接-31f637.html
 published: 2026-06-06
-quality_score: 6.5
+quality_score: 8.5
 tags: 金澤溫泉, 加賀溫泉鄉, 山中溫泉, 山代溫泉, 日本溫泉指南
 license: CC BY 4.0
 ---

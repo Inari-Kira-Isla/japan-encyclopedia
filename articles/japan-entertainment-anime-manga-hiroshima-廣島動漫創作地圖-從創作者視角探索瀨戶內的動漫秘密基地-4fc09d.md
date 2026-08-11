@@ -6,7 +6,7 @@ category: anime-manga
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-hiroshima-廣島動漫創作地圖-從創作者視角探索瀨戶內的動漫秘密基地-4fc09d.html
 published: 2026-06-27
-quality_score: 6.5
+quality_score: 8.4
 tags: 廣島動漫, 廣島漫才, 瀨戶內動漫聖地, 尾道貓之細道, 日本獨立漫畫
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: tempura
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tempura-nara-奈良天婦羅-寺院與自然孕育的蔬食天婦羅美學-6905a6.html
 published: 2026-07-01
-quality_score: 6.5
+quality_score: 8.8
 tags: 奈良美食, 天婦羅, 蔬食天婦羅, 日本料理, 關西美食
 license: CC BY 4.0
 ---

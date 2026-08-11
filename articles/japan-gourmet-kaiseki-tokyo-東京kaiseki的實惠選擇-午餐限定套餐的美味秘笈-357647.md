@@ -6,7 +6,7 @@ category: kaiseki
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-kaiseki-tokyo-東京kaiseki的實惠選擇-午餐限定套餐的美味秘笈-357647.html
 published: 2026-05-21
-quality_score: 6.5
+quality_score: 8.9
 tags: 東京美食, Kaiseki, 午餐限定, 東京餐廳推薦, Tabelog高分
 license: CC BY 4.0
 ---

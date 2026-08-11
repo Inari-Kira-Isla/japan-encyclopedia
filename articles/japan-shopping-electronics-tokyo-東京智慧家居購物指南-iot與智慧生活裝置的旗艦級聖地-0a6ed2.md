@@ -6,7 +6,7 @@ category: electronics
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-electronics-tokyo-東京智慧家居購物指南-iot與智慧生活裝置的旗艦級聖地-0a6ed2.html
 published: 2026-06-28
-quality_score: 7.5
+quality_score: 8.7
 tags: 東京電子產品, 智慧家居, IoT, 秋葉原, 智能設備
 license: CC BY 4.0
 ---

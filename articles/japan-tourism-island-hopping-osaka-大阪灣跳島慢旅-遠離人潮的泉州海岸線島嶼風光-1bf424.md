@@ -6,7 +6,7 @@ category: island-hopping
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-island-hopping-osaka-大阪灣跳島慢旅-遠離人潮的泉州海岸線島嶼風光-1bf424.html
 published: 2026-05-24
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪跳島, 泉州海岸, 關西微度假, 島嶼慢旅, 非觀光主流
 license: CC BY 4.0
 ---

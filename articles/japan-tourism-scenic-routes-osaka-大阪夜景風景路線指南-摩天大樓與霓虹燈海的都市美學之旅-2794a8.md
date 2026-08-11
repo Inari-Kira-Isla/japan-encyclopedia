@@ -6,7 +6,7 @@ category: scenic-routes
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-osaka-大阪夜景風景路線指南-摩天大樓與霓虹燈海的都市美學之旅-2794a8.html
 published: 2026-03-27
-quality_score: 6.5
+quality_score: 8.8
 tags: 大阪夜景, 都市風景, 摩天大樓, 霓虹燈, 觀景台
 license: CC BY 4.0
 ---

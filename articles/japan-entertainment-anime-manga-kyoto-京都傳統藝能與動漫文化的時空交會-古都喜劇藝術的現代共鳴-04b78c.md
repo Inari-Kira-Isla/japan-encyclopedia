@@ -6,7 +6,7 @@ category: anime-manga
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-kyoto-京都傳統藝能與動漫文化的時空交會-古都喜劇藝術的現代共鳴-04b78c.html
 published: 2026-06-20
-quality_score: 6.5
+quality_score: 8.7
 tags: 京都動漫, 落語體驗, 漫才文化, 傳統藝能, 古都深度遊
 license: CC BY 4.0
 ---

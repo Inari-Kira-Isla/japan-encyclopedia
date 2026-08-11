@@ -6,7 +6,7 @@ category: ryokan
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-nagoya-名古屋旅館的實用美學-商人之都的和式待客哲學-bacf3f.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.8
 tags: 名古屋旅館, 商務住宿, 和式旅館, 中部地區, 實用主義
 license: CC BY 4.0
 ---

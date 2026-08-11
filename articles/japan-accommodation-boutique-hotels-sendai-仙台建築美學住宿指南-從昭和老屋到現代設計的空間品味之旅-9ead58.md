@@ -6,7 +6,7 @@ category: boutique-hotels
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-sendai-仙台建築美學住宿指南-從昭和老屋到現代設計的空間品味之旅-9ead58.html
 published: 2026-06-16
-quality_score: 6.5
+quality_score: 8.7
 tags: 仙台, 精品酒店, 建築美學, 東北小京都, 設計住宿
 license: CC BY 4.0
 ---

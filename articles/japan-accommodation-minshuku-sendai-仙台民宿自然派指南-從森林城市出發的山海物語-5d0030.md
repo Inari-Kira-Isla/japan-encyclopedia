@@ -6,7 +6,7 @@ category: minshuku
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-sendai-仙台民宿自然派指南-從森林城市出發的山海物語-5d0030.html
 published: 2026-06-25
-quality_score: 6.5
+quality_score: 8.8
 tags: 仙台民宿, 自然探索, 松島海岸, 藏王溫泉, 山形山寺
 license: CC BY 4.0
 ---

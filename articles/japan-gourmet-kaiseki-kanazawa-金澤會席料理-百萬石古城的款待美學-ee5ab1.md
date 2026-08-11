@@ -6,7 +6,7 @@ category: kaiseki
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-kaiseki-kanazawa-金澤會席料理-百萬石古城的款待美學-ee5ab1.html
 published: 2026-07-06
-quality_score: 6.5
+quality_score: 8.9
 tags: 金澤美食, 加賀料理, 會席料理, 日本海食材, 北陸旅行
 license: CC BY 4.0
 ---

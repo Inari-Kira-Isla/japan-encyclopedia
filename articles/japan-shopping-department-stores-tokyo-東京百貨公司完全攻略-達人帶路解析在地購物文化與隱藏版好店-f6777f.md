@@ -6,7 +6,7 @@ category: department-stores
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-department-stores-tokyo-東京百貨公司完全攻略-達人帶路解析在地購物文化與隱藏版好店-f6777f.html
 published: 2026-06-24
-quality_score: 7.5
+quality_score: 8.9
 tags: 東京購物, 東京百貨公司, 日本橋三越, 高島屋新宿, 大丸東京
 license: CC BY 4.0
 ---

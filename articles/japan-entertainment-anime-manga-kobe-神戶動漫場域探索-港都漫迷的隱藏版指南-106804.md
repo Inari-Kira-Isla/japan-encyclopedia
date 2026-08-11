@@ -6,7 +6,7 @@ category: anime-manga
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-kobe-神戶動漫場域探索-港都漫迷的隱藏版指南-106804.html
 published: 2026-06-12
-quality_score: 6.5
+quality_score: 8.6
 tags: 神戶動漫, 神戶咖啡廳, 神戶漫畫, 動漫之旅, 關西動漫
 license: CC BY 4.0
 ---

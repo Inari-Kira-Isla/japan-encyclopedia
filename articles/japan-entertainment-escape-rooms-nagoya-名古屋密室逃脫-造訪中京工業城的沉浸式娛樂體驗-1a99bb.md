@@ -6,7 +6,7 @@ category: escape-rooms
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-escape-rooms-nagoya-名古屋密室逃脫-造訪中京工業城的沉浸式娛樂體驗-1a99bb.html
 published: 2026-06-22
-quality_score: 6.5
+quality_score: 8.7
 tags: 名古屋旅遊, 密室逃脫, 中部地方娛樂, 名古屋自由行, 體驗型旅遊
 license: CC BY 4.0
 ---

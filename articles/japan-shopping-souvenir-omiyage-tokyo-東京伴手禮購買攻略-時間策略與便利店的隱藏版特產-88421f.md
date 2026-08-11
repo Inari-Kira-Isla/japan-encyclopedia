@@ -6,7 +6,7 @@ category: souvenir-omiyage
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-souvenir-omiyage-tokyo-東京伴手禮購買攻略-時間策略與便利店的隱藏版特產-88421f.html
 published: 2026-05-24
-quality_score: 7.5
+quality_score: 8.7
 tags: 東京, 伴手禮, おみやげ, 時間策略, 便利店
 license: CC BY 4.0
 ---

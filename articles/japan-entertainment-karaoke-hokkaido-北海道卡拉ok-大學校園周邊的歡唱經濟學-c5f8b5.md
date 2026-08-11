@@ -6,7 +6,7 @@ category: karaoke
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-karaoke-hokkaido-北海道卡拉ok-大學校園周邊的歡唱經濟學-c5f8b5.html
 published: 2026-05-24
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道卡拉OK, 學生街, 便宜體驗, 在地文化, 札幌
 license: CC BY 4.0
 ---

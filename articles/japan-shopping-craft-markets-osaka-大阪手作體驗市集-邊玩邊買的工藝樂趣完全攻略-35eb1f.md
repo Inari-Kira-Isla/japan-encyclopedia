@@ -6,7 +6,7 @@ category: craft-markets
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-craft-markets-osaka-大阪手作體驗市集-邊玩邊買的工藝樂趣完全攻略-35eb1f.html
 published: 2026-06-17
-quality_score: 7.5
+quality_score: 8.5
 tags: 大阪工藝市集, 手作體驗, 大阪旅遊, 關西手作, DIY市集
 license: CC BY 4.0
 ---

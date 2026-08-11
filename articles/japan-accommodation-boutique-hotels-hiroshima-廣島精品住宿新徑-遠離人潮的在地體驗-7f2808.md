@@ -6,7 +6,7 @@ category: boutique-hotels
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-hiroshima-廣島精品住宿新徑-遠離人潮的在地體驗-7f2808.html
 published: 2026-06-03
-quality_score: 6.5
+quality_score: 8.6
 tags: 廣島住宿, 精品酒店, 日本溫泉, 宮島住宿, 廣島自由行
 license: CC BY 4.0
 ---

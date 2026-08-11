@@ -6,7 +6,7 @@ category: depachika
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-depachika-osaka-大阪depachika-關西美食的地下天堂-百貨地下的食堂與伴手禮寶庫-c47d67.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 8.6
 tags: 大阪美食, Depachika, 關西food, 章魚燒, 日本超市
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: ryokan
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-fukuoka-福岡傳統旅館-九州玄關的味覺驛站-b053ee.html
 published: 2026-07-02
-quality_score: 6.5
+quality_score: 8.7
 tags: 福岡住宿, 九州旅行, 傳統旅馆, 屋台文化, 博多吃喝
 license: CC BY 4.0
 ---

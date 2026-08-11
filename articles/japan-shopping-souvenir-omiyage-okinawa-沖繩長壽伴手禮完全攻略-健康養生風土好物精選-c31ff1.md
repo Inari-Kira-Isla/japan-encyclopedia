@@ -6,7 +6,7 @@ category: souvenir-omiyage
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-souvenir-omiyage-okinawa-沖繩長壽伴手禮完全攻略-健康養生風土好物精選-c31ff1.html
 published: 2026-06-07
-quality_score: 7.5
+quality_score: 8.6
 tags: 沖繩伴手禮, 健康養生, 藍區, 長壽食品, 黑糖
 license: CC BY 4.0
 ---

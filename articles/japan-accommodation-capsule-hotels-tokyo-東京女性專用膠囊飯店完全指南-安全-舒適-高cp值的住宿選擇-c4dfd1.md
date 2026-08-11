@@ -6,7 +6,7 @@ category: capsule-hotels
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-capsule-hotels-tokyo-東京女性專用膠囊飯店完全指南-安全-舒適-高cp值的住宿選擇-c4dfd1.html
 published: 2026-06-22
-quality_score: 6.5
+quality_score: 8.8
 tags: 東京膠囊飯店, 女性專用膠囊, 東京住宿, 東京自由行, 膠囊飯店推薦
 license: CC BY 4.0
 ---

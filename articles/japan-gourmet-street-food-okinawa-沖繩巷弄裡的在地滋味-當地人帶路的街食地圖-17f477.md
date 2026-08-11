@@ -6,7 +6,7 @@ category: street-food
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-street-food-okinawa-沖繩巷弄裡的在地滋味-當地人帶路的街食地圖-17f477.html
 published: 2026-04-07
-quality_score: 6.5
+quality_score: 8.6
 tags: 沖繩美食, 街頭小吃, 在地推薦, 日本美食, 琉球料理
 license: CC BY 4.0
 ---

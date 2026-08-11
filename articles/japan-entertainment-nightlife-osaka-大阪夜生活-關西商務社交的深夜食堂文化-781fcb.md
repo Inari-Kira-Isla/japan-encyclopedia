@@ -6,7 +6,7 @@ category: nightlife
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-osaka-大阪夜生活-關西商務社交的深夜食堂文化-781fcb.html
 published: 2026-06-09
-quality_score: 6.5
+quality_score: 8.8
 tags: 大阪夜生活, 關西美食, 深夜食堂, 商務應酬, 日本居酒屋
 license: CC BY 4.0
 ---

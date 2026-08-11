@@ -6,7 +6,7 @@ category: minshuku
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-okinawa-沖繩民宿-深入琉球海洋文化的島嶼住宿體驗-8da010.html
 published: 2026-04-04
-quality_score: 6.5
+quality_score: 8.7
 tags: 沖繩民宿, 琉球文化, 海洋體驗, 離島住宿, 文化民宿
 license: CC BY 4.0
 ---

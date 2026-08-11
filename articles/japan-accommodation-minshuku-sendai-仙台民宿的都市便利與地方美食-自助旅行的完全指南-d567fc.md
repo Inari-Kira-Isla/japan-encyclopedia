@@ -6,7 +6,7 @@ category: minshuku
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-sendai-仙台民宿的都市便利與地方美食-自助旅行的完全指南-d567fc.html
 published: 2026-03-24
-quality_score: 6.5
+quality_score: 8.6
 tags: 仙台, 民宿, Minshuku, 日本旅游, 自助旅行
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: tempura
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tempura-hiroshima-廣島天婦羅-酥脆麵衣與鮮美海味的完美邂逅-101bcf.html
 published: 2026-03-14
-quality_score: 6.5
+quality_score: 8.7
 tags: 廣島美食, 天婦羅, 日本料理, 廣島必吃, 瀨戶內海美食
 license: CC BY 4.0
 ---

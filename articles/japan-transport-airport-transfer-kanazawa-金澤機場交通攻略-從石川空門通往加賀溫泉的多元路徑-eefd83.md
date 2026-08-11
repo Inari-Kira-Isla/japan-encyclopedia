@@ -6,7 +6,7 @@ category: airport-transfer
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-airport-transfer-kanazawa-金澤機場交通攻略-從石川空門通往加賀溫泉的多元路徑-eefd83.html
 published: 2026-06-16
-quality_score: 7.5
+quality_score: 8.7
 tags: 金澤機場, 小松空港, 石川縣, 機場交通, 加賀溫泉
 license: CC BY 4.0
 ---

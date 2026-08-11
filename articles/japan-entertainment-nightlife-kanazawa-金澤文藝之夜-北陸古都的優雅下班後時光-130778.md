@@ -6,7 +6,7 @@ category: nightlife
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-kanazawa-金澤文藝之夜-北陸古都的優雅下班後時光-130778.html
 published: 2026-06-05
-quality_score: 6.5
+quality_score: 8.4
 tags: 金澤夜生活, 石川縣, 北陸, 片町, 居酒屋
 license: CC BY 4.0
 ---

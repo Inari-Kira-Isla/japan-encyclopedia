@@ -6,7 +6,7 @@ category: street-food
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-street-food-fukuoka-福岡深夜清晨的上班前胃袋-解讀九州屋臺的時間層次與在地人才知的隱藏序列-0ee1a4.html
 published: 2026-06-02
-quality_score: 6.5
+quality_score: 8.9
 tags: 福岡, 屋台, 街頭美食, 豚骨拉麵, 九州美食
 license: CC BY 4.0
 ---

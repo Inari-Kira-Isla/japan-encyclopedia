@@ -6,7 +6,7 @@ category: department-stores
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-department-stores-okinawa-沖繩家庭親子購物指南-親子友善設施與在地限定商品全攻略-6fe461.html
 published: 2026-07-03
-quality_score: 7.5
+quality_score: 8.7
 tags: 沖繩購物, 家庭親子, 日本百货公司, 沖繩限定商品, 免稅購物
 license: CC BY 4.0
 ---

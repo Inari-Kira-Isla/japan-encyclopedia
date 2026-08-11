@@ -6,7 +6,7 @@ category: metro-systems
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-hokkaido-札幌地下鐵的冬季美學-極寒城市的出行智慧-2a3048.html
 published: 2026-06-03
-quality_score: 7.5
+quality_score: 8.6
 tags: 札幌地下鐵, 北海道交通, 冬季北海道, 札幌地下街, 北海道自助旅行
 license: CC BY 4.0
 ---

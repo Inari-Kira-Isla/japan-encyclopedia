@@ -6,7 +6,7 @@ category: udon-soba
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-udon-soba-sendai-仙台烏龍麵與蕎麥麵-味噌之城的麵食學-54f960.html
 published: 2026-04-08
-quality_score: 6.5
+quality_score: 8.7
 tags: 仙台美食, 烏龍麵, 蕎麥麵, 日本東北, 味噌
 license: CC BY 4.0
 ---

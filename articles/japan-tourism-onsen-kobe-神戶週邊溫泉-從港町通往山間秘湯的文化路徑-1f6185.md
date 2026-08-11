@@ -6,7 +6,7 @@ category: onsen
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-onsen-kobe-神戶週邊溫泉-從港町通往山間秘湯的文化路徑-1f6185.html
 published: 2026-06-29
-quality_score: 6.5
+quality_score: 8.5
 tags: 神戶溫泉, 有馬溫泉, 關西溫泉, 日本溫泉, 溫泉旅遊
 license: CC BY 4.0
 ---

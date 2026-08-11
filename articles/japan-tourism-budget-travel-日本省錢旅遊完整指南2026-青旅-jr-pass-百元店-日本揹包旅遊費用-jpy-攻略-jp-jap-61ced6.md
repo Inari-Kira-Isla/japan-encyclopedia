@@ -6,7 +6,7 @@ category: budget-travel
 area: japan
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-budget-travel-日本省錢旅遊完整指南2026-青旅-jr-pass-百元店-日本揹包旅遊費用-jpy-攻略-jp-jap-61ced6.html
 published: 2026-03-29
-quality_score: 7.6
+quality_score: 8.6
 tags: 日本省錢旅遊, 日本背包旅遊, JR Pass費用, 日本青旅, 日本便宜旅遊
 license: CC BY 4.0
 ---

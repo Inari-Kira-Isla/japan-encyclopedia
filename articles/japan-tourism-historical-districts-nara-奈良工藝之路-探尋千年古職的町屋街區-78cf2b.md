@@ -6,7 +6,7 @@ category: historical-districts
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-nara-奈良工藝之路-探尋千年古職的町屋街區-78cf2b.html
 published: 2026-05-24
-quality_score: 6.5
+quality_score: 8.6
 tags: 奈良历史街区, 传统工艺, 日本手作, 职人文化, 和文化体验
 license: CC BY 4.0
 ---

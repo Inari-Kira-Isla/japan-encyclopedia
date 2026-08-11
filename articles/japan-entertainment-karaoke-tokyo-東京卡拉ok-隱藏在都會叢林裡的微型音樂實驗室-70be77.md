@@ -6,7 +6,7 @@ category: karaoke
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-karaoke-tokyo-東京卡拉ok-隱藏在都會叢林裡的微型音樂實驗室-70be77.html
 published: 2026-06-23
-quality_score: 6.5
+quality_score: 8.5
 tags: 東京卡拉OK, 東京娛樂, 微型包廂, 下北澤, 中目黑
 license: CC BY 4.0
 ---

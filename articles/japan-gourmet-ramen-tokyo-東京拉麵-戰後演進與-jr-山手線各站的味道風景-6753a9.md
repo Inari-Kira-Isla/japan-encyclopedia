@@ -6,7 +6,7 @@ category: ramen
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-ramen-tokyo-東京拉麵-戰後演進與-jr-山手線各站的味道風景-6753a9.html
 published: 2026-05-24
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京拉麵, 日本美食, 拉麵, 东京旅游, 日本料理
 license: CC BY 4.0
 ---

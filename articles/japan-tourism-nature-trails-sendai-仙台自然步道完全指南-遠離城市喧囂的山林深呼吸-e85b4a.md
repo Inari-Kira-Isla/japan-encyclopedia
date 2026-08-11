@@ -6,7 +6,7 @@ category: nature-trails
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-sendai-仙台自然步道完全指南-遠離城市喧囂的山林深呼吸-e85b4a.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 8.7
 tags: 仙台, 自然步道, 日本东北, 登山健行, 森林浴
 license: CC BY 4.0
 ---

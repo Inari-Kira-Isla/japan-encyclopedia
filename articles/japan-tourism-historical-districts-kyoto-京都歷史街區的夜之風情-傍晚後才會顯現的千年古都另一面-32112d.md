@@ -6,7 +6,7 @@ category: historical-districts
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-kyoto-京都歷史街區的夜之風情-傍晚後才會顯現的千年古都另一面-32112d.html
 published: 2026-07-06
-quality_score: 6.5
+quality_score: 8.8
 tags: 京都歷史街區, 京都夜遊, 先斗町, 祇園, 京都散步
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: jr-pass
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-jr-pass-hiroshima-廣島jr-pass完全指南-從廣島出發的中國地區鐵道漫遊攻略-c2db70.html
 published: 2026-05-23
-quality_score: 7.5
+quality_score: 8.6
 tags: 广岛JR Pass, 中国地区铁道, 宫岛交通, 出云大社, 鸟取砂丘
 license: CC BY 4.0
 ---

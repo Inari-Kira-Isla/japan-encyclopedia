@@ -6,7 +6,7 @@ category: electronics
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-electronics-osaka-大阪電子產品購物完全攻略-關西最大電器商圈與特色店鋪推薦-c2ad20.html
 published: 2026-06-06
-quality_score: 7.5
+quality_score: 8.5
 tags: 大阪電子產品, 關西電器, 難波購物, 梅田電器行, 日本電器免稅
 license: CC BY 4.0
 ---

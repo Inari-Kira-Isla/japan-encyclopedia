@@ -6,7 +6,7 @@ category: sumo
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-kyoto-京都相撲-古都裡的力士美食地圖-420a45.html
 published: 2026-06-23
-quality_score: 6.5
+quality_score: 8.9
 tags: 京都相撲, 相撲鍋, 京都美食, 日本相撲文化, 京都旅行
 license: CC BY 4.0
 ---

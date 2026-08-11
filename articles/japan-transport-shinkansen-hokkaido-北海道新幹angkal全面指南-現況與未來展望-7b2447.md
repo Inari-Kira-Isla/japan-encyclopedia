@@ -6,7 +6,7 @@ category: shinkansen
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-hokkaido-北海道新幹angkal全面指南-現況與未來展望-7b2447.html
 published: 2026-06-01
-quality_score: 7.5
+quality_score: 8.7
 tags: 北海道, 新幹Linear, 日本鐵道, 北海道新幹Linear, 旅遊攻略
 license: CC BY 4.0
 ---

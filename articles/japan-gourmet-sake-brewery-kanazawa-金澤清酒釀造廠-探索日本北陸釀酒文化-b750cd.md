@@ -6,7 +6,7 @@ category: sake-brewery
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sake-brewery-kanazawa-金澤清酒釀造廠-探索日本北陸釀酒文化-b750cd.html
 published: 2026-03-20
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤, 清酒, 酒蔵, 釀造廠, 日本北陸
 license: CC BY 4.0
 ---

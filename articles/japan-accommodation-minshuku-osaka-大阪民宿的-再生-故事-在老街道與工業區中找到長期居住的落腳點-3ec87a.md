@@ -6,7 +6,7 @@ category: minshuku
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-osaka-大阪民宿的-再生-故事-在老街道與工業區中找到長期居住的落腳點-3ec87a.html
 published: 2026-03-24
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪民宿, 長期居住, 城市更生, 背包客, 大阪各區介紹
 license: CC BY 4.0
 ---

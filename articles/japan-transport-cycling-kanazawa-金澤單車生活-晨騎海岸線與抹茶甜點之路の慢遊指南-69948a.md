@@ -6,7 +6,7 @@ category: cycling
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-kanazawa-金澤單車生活-晨騎海岸線與抹茶甜點之路の慢遊指南-69948a.html
 published: 2026-03-30
-quality_score: 7.5
+quality_score: 8.7
 tags: 金澤單車, 石川單車旅遊, 金澤自由行, 北陸騎行, 金澤抹茶
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: minshuku
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-nara-奈良民宿完整指南-古都時光中的溫暖驛站-583878.html
 published: 2026-05-31
-quality_score: 6.5
+quality_score: 8.7
 tags: 奈良民宿, 日本古都住宿, 奈良公園, minshuku, 關西自助旅行
 license: CC BY 4.0
 ---

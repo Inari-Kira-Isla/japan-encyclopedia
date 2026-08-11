@@ -6,7 +6,7 @@ category: jr-pass
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-jr-pass-osaka-大阪jr-pass完全攻略-關西鐵道旅遊的最佳夥伴-d082c1.html
 published: 2026-03-15
-quality_score: 7.5
+quality_score: 8.6
 tags: 大阪交通, JR Pass, 關西旅遊, 鐵路周遊券, 日本自由行
 license: CC BY 4.0
 ---

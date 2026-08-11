@@ -6,7 +6,7 @@ category: rental-cars
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-nara-奈良租車自駕遊-探索大和古道與隱藏的能量景點-b33adc.html
 published: 2026-06-01
-quality_score: 7.5
+quality_score: 8.6
 tags: 奈良租車, 日本自駕遊, 古道巡禮, 吉野山, 明日香村
 license: CC BY 4.0
 ---

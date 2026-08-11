@@ -6,7 +6,7 @@ category: castle-towns
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-castle-towns-hokkaido-北海道歷史城鎮-探索明治開拓時代的港都風情-69e6df.html
 published: 2026-06-28
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道, 歷史城鎮, 明治開拓, 港都風情, 小樽
 license: CC BY 4.0
 ---

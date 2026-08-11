@@ -6,7 +6,7 @@ category: boutique-hotels
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-kobe-神戶精品旅宿隱藏版指南-港都山丘上的設計棲居-577c37.html
 published: 2026-07-04
-quality_score: 6.5
+quality_score: 8.8
 tags: 神戶精品旅宿, 神戶住宿, 神戶設計旅宿, 神戶boutique hotel, 神戶北野異人館
 license: CC BY 4.0
 ---

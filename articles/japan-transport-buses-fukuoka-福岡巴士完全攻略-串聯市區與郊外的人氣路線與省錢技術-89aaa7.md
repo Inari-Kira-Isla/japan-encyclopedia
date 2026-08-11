@@ -6,7 +6,7 @@ category: buses
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-buses-fukuoka-福岡巴士完全攻略-串聯市區與郊外的人氣路線與省錢技術-89aaa7.html
 published: 2026-06-05
-quality_score: 7.5
+quality_score: 8.8
 tags: 福岡, 巴士, 交通, 九州, 太宰府
 license: CC BY 4.0
 ---

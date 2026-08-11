@@ -6,7 +6,7 @@ category: vintage-thrift
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-vintage-thrift-nara-奈良古著散步-近鐵站周邊的復古時光小旅行-4b7053.html
 published: 2026-07-05
-quality_score: 7.5
+quality_score: 8.6
 tags: 奈良古著, 古著購物, 日本二手商店, 奈良自由行, 關西購物
 license: CC BY 4.0
 ---

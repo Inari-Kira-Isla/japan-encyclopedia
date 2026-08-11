@@ -6,7 +6,7 @@ category: electronics
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-electronics-hiroshima-廣島技術宅的秘密基地-在地電子零件行與維修專門店的尋寶攻略-bc3e57.html
 published: 2026-06-30
-quality_score: 7.5
+quality_score: 8.4
 tags: 廣島電子零件, 廣島維修服務, 廣島相機店, 日本業餘無線電, 廣島購物攻略
 license: CC BY 4.0
 ---

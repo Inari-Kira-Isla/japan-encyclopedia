@@ -6,7 +6,7 @@ category: scenic-routes
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-sendai-仙台深度漫遊-當地人帶路的隱藏版散步路線-81d7d6.html
 published: 2026-06-21
-quality_score: 6.5
+quality_score: 8.7
 tags: 仙台散步, 隱藏版景點, 在地人推薦, 深度旅遊, 東北自由度
 license: CC BY 4.0
 ---

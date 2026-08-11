@@ -6,7 +6,7 @@ category: ryokan
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-hiroshima-廣島日式傳統旅館指南-瀨戶內海藝術跳島之旅的住宿基地-8dc195.html
 published: 2026-06-06
-quality_score: 6.5
+quality_score: 8.9
 tags: 廣島住宿, 瀨戶內海, Ryokan, 藝術祭, 日本溫泉
 license: CC BY 4.0
 ---

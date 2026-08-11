@@ -6,7 +6,7 @@ category: souvenir-omiyage
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-souvenir-omiyage-kyoto-京都伴手禮-文青與設計迷的質感選物地圖-135979.html
 published: 2026-06-01
-quality_score: 7.5
+quality_score: 8.8
 tags: 京都伴手禮, 京都購物, 文青選物, 京都自由行, 日本工藝
 license: CC BY 4.0
 ---

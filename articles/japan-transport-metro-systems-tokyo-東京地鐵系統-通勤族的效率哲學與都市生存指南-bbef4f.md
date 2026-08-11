@@ -6,7 +6,7 @@ category: metro-systems
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-tokyo-東京地鐵系統-通勤族的效率哲學與都市生存指南-bbef4f.html
 published: 2026-04-05
-quality_score: 7.5
+quality_score: 8.7
 tags: 東京地鐵, 東京交通, 東京Metro, Tokyo Metro, 東京通勤
 license: CC BY 4.0
 ---

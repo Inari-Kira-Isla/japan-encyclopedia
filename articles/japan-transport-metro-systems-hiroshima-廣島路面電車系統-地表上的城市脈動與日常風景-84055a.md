@@ -6,7 +6,7 @@ category: metro-systems
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-hiroshima-廣島路面電車系統-地表上的城市脈動與日常風景-84055a.html
 published: 2026-06-03
-quality_score: 7.5
+quality_score: 8.8
 tags: 廣島交通, 路面電車, 日本軌道交通, 廣島旅遊, city transit
 license: CC BY 4.0
 ---

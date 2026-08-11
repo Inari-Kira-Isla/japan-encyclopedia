@@ -6,7 +6,7 @@ category: rental-cars
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-kobe-神戶租車自駕遊-關西樞紐的靈活探險指南-a2f1ae.html
 published: 2026-03-21
-quality_score: 7.5
+quality_score: 8.5
 tags: 神户, 租車自駕, 關西旅遊, 日本交通, 自駕路線
 license: CC BY 4.0
 ---

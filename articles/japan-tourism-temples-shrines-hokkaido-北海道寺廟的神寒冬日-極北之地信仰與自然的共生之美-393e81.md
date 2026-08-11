@@ -6,7 +6,7 @@ category: temples-shrines
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-temples-shrines-hokkaido-北海道寺廟的神寒冬日-極北之地信仰與自然的共生之美-393e81.html
 published: 2026-06-03
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道神社, 北海道寺院, 札幌宗教景點, 小樽神社, 函馆旅游
 license: CC BY 4.0
 ---

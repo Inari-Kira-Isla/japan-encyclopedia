@@ -6,7 +6,7 @@ category: escape-rooms
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-escape-rooms-kyoto-京都密室逃脫-傳統工藝與現代解謎的創意交融-9e9c28.html
 published: 2026-04-07
-quality_score: 6.5
+quality_score: 8.7
 tags: 京都密室逃脫, 日本傳統文化, 娛樂體驗, 古都旅遊, 解謎遊戲
 license: CC BY 4.0
 ---

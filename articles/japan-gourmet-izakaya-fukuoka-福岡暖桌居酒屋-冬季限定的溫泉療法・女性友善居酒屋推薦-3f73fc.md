@@ -6,7 +6,7 @@ category: izakaya
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-izakaya-fukuoka-福岡暖桌居酒屋-冬季限定的溫泉療法・女性友善居酒屋推薦-3f73fc.html
 published: 2026-05-21
-quality_score: 6.5
+quality_score: 8.7
 tags: 福岡居酒屋, 暖桌居酒屋, 日本冬季美食, 女性友善餐廳, 博多美食
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: sumo
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-nara-奈良-相撲-古都裡的武士道與傳統體驗提案-275309.html
 published: 2026-06-05
-quality_score: 6.5
+quality_score: 8.9
 tags: 奈良 相撲, 奈良 傳統武藝, 奈良 弓道體驗, 奈良 文化體驗, 古都 武術之旅
 license: CC BY 4.0
 ---

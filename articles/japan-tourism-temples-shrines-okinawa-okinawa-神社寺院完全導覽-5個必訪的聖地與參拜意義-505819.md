@@ -6,7 +6,7 @@ category: temples-shrines
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-temples-shrines-okinawa-okinawa-神社寺院完全導覽-5個必訪的聖地與參拜意義-505819.html
 published: 2026-05-21
-quality_score: 6.5
+quality_score: 8.3
 tags: Okinawa寺廟, Okinawa神社, 沖繩宗教巡禮, 琉球王國, 御嶽信仰
 license: CC BY 4.0
 ---

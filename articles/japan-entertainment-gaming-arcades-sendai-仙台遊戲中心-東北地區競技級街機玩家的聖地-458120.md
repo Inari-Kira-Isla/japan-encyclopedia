@@ -6,7 +6,7 @@ category: gaming-arcades
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-gaming-arcades-sendai-仙台遊戲中心-東北地區競技級街機玩家的聖地-458120.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.6
 tags: 仙台, 街機, 遊戲中心, 競技遊戲, 東北文化
 license: CC BY 4.0
 ---

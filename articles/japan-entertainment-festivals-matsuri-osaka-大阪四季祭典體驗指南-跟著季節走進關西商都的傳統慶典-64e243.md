@@ -6,7 +6,7 @@ category: festivals-matsuri
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-festivals-matsuri-osaka-大阪四季祭典體驗指南-跟著季節走進關西商都的傳統慶典-64e243.html
 published: 2026-04-06
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪祭典, 季節慶典, 傳統文化, 天神祭, だんじり祭
 license: CC BY 4.0
 ---

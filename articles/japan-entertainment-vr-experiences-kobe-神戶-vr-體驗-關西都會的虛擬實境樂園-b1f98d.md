@@ -6,7 +6,7 @@ category: vr-experiences
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-vr-experiences-kobe-神戶-vr-體驗-關西都會的虛擬實境樂園-b1f98d.html
 published: 2026-06-26
-quality_score: 6.5
+quality_score: 8.6
 tags: 神戶 VR, 關西虛擬實境, 神戶親子, 神戶夜景, 關西自由行
 license: CC BY 4.0
 ---

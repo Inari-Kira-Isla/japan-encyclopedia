@@ -6,7 +6,7 @@ category: onsen
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-onsen-tokyo-東京錢湯隱藏版攻略-造訪都內在地浴場的入門指南-81ab01.html
 published: 2026-06-02
-quality_score: 6.5
+quality_score: 8.6
 tags: Tokyo錢湯, 東京溫泉, 東京公共浴場, 墨田區溫泉, 台東區錢湯
 license: CC BY 4.0
 ---

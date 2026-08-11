@@ -6,7 +6,7 @@ category: festivals-matsuri
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-festivals-matsuri-nara-奈良夜間祭典完全攻略-提燈漫步與古都夜景的浪漫體驗-f6c365.html
 published: 2026-06-25
-quality_score: 6.5
+quality_score: 8.7
 tags: 奈良祭典, 夜間祭典, 奈良旅遊, 春日大社, 平城宮
 license: CC BY 4.0
 ---

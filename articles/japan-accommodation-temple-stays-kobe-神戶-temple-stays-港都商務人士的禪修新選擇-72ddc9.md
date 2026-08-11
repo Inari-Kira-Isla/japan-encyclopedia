@@ -6,7 +6,7 @@ category: temple-stays
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-temple-stays-kobe-神戶-temple-stays-港都商務人士的禪修新選擇-72ddc9.html
 published: 2026-04-04
-quality_score: 6.5
+quality_score: 8.7
 tags: 神戶住宿, 寺廟體驗, 商務旅遊, 都市禪修, 關西旅遊
 license: CC BY 4.0
 ---

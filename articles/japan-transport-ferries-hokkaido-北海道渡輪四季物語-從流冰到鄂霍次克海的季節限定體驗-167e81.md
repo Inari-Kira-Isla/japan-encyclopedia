@@ -6,7 +6,7 @@ category: ferries
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-ferries-hokkaido-北海道渡輪四季物語-從流冰到鄂霍次克海的季節限定體驗-167e81.html
 published: 2026-06-06
-quality_score: 7.5
+quality_score: 8.5
 tags: 北海道, 渡輪, 鄂霍次克海, 流冰, 津輕海峽
 license: CC BY 4.0
 ---

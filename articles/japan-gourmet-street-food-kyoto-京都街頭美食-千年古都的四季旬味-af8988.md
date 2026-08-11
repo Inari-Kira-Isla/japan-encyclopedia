@@ -6,7 +6,7 @@ category: street-food
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-street-food-kyoto-京都街頭美食-千年古都的四季旬味-af8988.html
 published: 2026-05-21
-quality_score: 6.5
+quality_score: 8.7
 tags: 京都街頭美食, 京都必吃, 京都自由行, 京都庶民美食, 四条河原町
 license: CC BY 4.0
 ---

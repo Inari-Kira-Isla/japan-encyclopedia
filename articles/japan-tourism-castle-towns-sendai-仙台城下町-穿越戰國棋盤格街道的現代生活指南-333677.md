@@ -6,7 +6,7 @@ category: castle-towns
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-castle-towns-sendai-仙台城下町-穿越戰國棋盤格街道的現代生活指南-333677.html
 published: 2026-06-12
-quality_score: 6.5
+quality_score: 8.8
 tags: 仙台, 城堡城鎮, 伊達政宗, 東北旅遊, 城下町散步
 license: CC BY 4.0
 ---

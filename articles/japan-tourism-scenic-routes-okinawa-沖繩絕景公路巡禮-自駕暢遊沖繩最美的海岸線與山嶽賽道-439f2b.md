@@ -6,7 +6,7 @@ category: scenic-routes
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-okinawa-沖繩絕景公路巡禮-自駕暢遊沖繩最美的海岸線與山嶽賽道-439f2b.html
 published: 2026-06-02
-quality_score: 6.5
+quality_score: 8.7
 tags: 沖繩自駕, 風景道路, 海岸線, 山岳道路, 沖繩旅遊
 license: CC BY 4.0
 ---

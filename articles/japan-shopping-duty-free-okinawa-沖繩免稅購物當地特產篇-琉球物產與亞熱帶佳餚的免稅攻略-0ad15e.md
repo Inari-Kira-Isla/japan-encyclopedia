@@ -6,7 +6,7 @@ category: duty-free
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-duty-free-okinawa-沖繩免稅購物當地特產篇-琉球物產與亞熱帶佳餚的免稅攻略-0ad15e.html
 published: 2026-06-15
-quality_score: 7.5
+quality_score: 8.6
 tags: 沖繩免稅購物, 琉球特產, 沖繩伴手禮, 泡盛酒, 紅芋甜點
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: temple-stays
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-temple-stays-hiroshima-福岡傳統旅館指南-九州門戶的都會驛站-3261df-1779644977.html
 published: 2026-05-24
-quality_score: 6.5
+quality_score: 8.9
 tags: 福岡, 傳統旅馆, 九州, 博多, 天神
 license: CC BY 4.0
 ---

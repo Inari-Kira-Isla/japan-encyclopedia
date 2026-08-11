@@ -6,7 +6,7 @@ category: sushi
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sushi-osaka-大阪壽司-土產海味的巷弄尋味指南-eb738e.html
 published: 2026-06-20
-quality_score: 6.5
+quality_score: 8.6
 tags: 大阪壽司, 關西美食, 大阪美食, 寿司, 大阪旅行
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: duty-free
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-duty-free-tokyo-東京compact免稅購物攻略-時間有限旅客的省時省錢選擇-331b09.html
 published: 2026-06-17
-quality_score: 7.5
+quality_score: 8.6
 tags: 東京免稅, 機場免稅, 轉機購物, 日本購物, 東京交通
 license: CC BY 4.0
 ---

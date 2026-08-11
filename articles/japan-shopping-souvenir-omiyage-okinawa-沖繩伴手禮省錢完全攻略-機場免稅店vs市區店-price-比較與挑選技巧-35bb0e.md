@@ -6,7 +6,7 @@ category: souvenir-omiyage
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-souvenir-omiyage-okinawa-沖繩伴手禮省錢完全攻略-機場免稅店vs市區店-price-比較與挑選技巧-35bb0e.html
 published: 2026-05-23
-quality_score: 7.5
+quality_score: 8.7
 tags: 沖繩伴手禮, 免稅購物, 琉球工藝, 省錢攻略, 那霸機場
 license: CC BY 4.0
 ---

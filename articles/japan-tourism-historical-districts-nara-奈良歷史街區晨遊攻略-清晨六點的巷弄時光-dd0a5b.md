@@ -6,7 +6,7 @@ category: historical-districts
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-nara-奈良歷史街區晨遊攻略-清晨六點的巷弄時光-dd0a5b.html
 published: 2026-06-20
-quality_score: 6.5
+quality_score: 8.7
 tags: 奈良, 歷史街區, 晨遊, 日本古都, 深度旅遊
 license: CC BY 4.0
 ---

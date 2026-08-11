@@ -6,7 +6,7 @@ category: temple-stays
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-temple-stays-osaka-大阪周邊寺廟住宿-從商都出發的禪意之旅-1a978f.html
 published: 2026-06-08
-quality_score: 6.5
+quality_score: 8.6
 tags: 大阪寺廟住宿, 高野山宿坊, 日本佛教體驗, 大阪周邊旅遊, 禪修體驗
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: craft-markets
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-craft-markets-sendai-仙台清晨市集攻略-東北青年的古著與手創尋寶聖地-40c668.html
 published: 2026-07-01
-quality_score: 7.5
+quality_score: 8.7
 tags: sendai, craft-markets, 古著, 手創市集, 清晨市集
 license: CC BY 4.0
 ---

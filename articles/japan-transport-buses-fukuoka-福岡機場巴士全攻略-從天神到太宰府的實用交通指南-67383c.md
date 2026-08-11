@@ -6,7 +6,7 @@ category: buses
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-buses-fukuoka-福岡機場巴士全攻略-從天神到太宰府的實用交通指南-67383c.html
 published: 2026-07-01
-quality_score: 7.5
+quality_score: 8.7
 tags: 福岡巴士, 機場交通, 九州自由行, 福岡機場, 太宰府巴士
 license: CC BY 4.0
 ---

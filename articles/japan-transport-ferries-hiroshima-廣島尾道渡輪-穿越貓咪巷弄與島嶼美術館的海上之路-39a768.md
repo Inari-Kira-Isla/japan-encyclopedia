@@ -6,7 +6,7 @@ category: ferries
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-ferries-hiroshima-廣島尾道渡輪-穿越貓咪巷弄與島嶼美術館的海上之路-39a768.html
 published: 2026-07-02
-quality_score: 7.5
+quality_score: 8.7
 tags: 廣島渡輪, 尾道, 瀨戶內海, 生口島, 大三島
 license: CC BY 4.0
 ---

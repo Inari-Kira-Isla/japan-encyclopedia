@@ -6,7 +6,7 @@ category: nightlife
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-hiroshima-廣島夜生活-牡蠣與酒的巷弄物語-551555.html
 published: 2026-06-11
-quality_score: 6.5
+quality_score: 8.5
 tags: 廣島夜生活, 廣島美食, 廣島酒吧, 廣島居酒屋, 廣島燒
 license: CC BY 4.0
 ---

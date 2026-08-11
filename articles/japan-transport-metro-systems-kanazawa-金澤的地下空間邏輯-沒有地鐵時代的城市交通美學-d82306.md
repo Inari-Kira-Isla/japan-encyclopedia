@@ -6,7 +6,7 @@ category: metro-systems
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-kanazawa-金澤的地下空間邏輯-沒有地鐵時代的城市交通美學-d82306.html
 published: 2026-06-08
-quality_score: 7.5
+quality_score: 8.5
 tags: 金澤交通, 金澤地下空間, 北鐵金澤線, 金澤周遊巴士, 金澤自由行
 license: CC BY 4.0
 ---

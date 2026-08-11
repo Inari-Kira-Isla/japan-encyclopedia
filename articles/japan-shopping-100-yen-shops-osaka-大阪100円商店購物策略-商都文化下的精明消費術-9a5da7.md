@@ -6,7 +6,7 @@ category: 100-yen-shops
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-100-yen-shops-osaka-大阪100円商店購物策略-商都文化下的精明消費術-9a5da7.html
 published: 2026-03-29
-quality_score: 7.5
+quality_score: 8.8
 tags: 大阪購物, 100円商店, 關西旅遊, 省錢攻略, 商都文化
 license: CC BY 4.0
 ---

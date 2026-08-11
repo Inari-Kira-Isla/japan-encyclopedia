@@ -6,7 +6,7 @@ category: scenic-routes
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-kobe-神戶立體景觀探索-從海平面到雲端的五層風景路線-4462b1.html
 published: 2026-03-29
-quality_score: 6.5
+quality_score: 8.7
 tags: 神戶, 風景路線, 觀景台, 六甲山, 夜景
 license: CC BY 4.0
 ---

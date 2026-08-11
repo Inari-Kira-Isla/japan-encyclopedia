@@ -6,7 +6,7 @@ category: business-hotels
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-business-hotels-nagoya-名古屋商務酒店-製造重鎮與展場周邊的策略住宿選擇-feea3c.html
 published: 2026-06-14
-quality_score: 6.5
+quality_score: 8.4
 tags: 名古屋商務住宿, 製造產業見本市, 中部國際空港, 名古屋港灣區, 金山站住宿
 license: CC BY 4.0
 ---

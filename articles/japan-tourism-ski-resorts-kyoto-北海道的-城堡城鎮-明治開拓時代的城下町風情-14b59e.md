@@ -6,7 +6,7 @@ category: ski-resorts
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-ski-resorts-kyoto-北海道的-城堡城鎮-明治開拓時代的城下町風情-14b59e.html
 published: 2026-06-06
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道, 城下町, 歷史小鎮, 明治時代, 開拓
 license: CC BY 4.0
 ---

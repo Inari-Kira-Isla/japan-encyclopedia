@@ -6,7 +6,7 @@ category: ramen
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-ramen-tokyo-東京拉麵商圈生態-從銀座到澀谷的價格與文化地圖-749903.html
 published: 2026-04-06
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京美食, 拉麵文化, 商圈分析, 消費指南, 日本料理
 license: CC BY 4.0
 ---

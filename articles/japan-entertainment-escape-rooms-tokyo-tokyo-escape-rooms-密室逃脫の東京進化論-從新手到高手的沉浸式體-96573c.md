@@ -6,7 +6,7 @@ category: escape-rooms
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-escape-rooms-tokyo-tokyo-escape-rooms-密室逃脫の東京進化論-從新手到高手的沉浸式體-96573c.html
 published: 2026-05-22
-quality_score: 6.5
+quality_score: 8.8
 tags: 東京密室逃脫, 東京室內活動, 東京雨天備案, 東京情侶約會, 東京團體活動
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: electronics
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-electronics-nagoya-名古屋-中-部國際空港-電子產品購物指南-轉機旅客的便-利購物攻略-ad0242.html
 published: 2026-06-01
-quality_score: 7.5
+quality_score: 8.4
 tags: 名古屋電子產品, 中部國際空港購物, 日本機場免稅, 轉機旅客購物, 名古屋伴手禮
 license: CC BY 4.0
 ---

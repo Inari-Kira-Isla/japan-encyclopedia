@@ -6,7 +6,7 @@ category: udon-soba
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-udon-soba-fukuoka-福岡深夜麵食文化-烏龍蕎麥的庶民夜宴-fcb35e.html
 published: 2026-04-01
-quality_score: 6.5
+quality_score: 8.9
 tags: 福岡美食, 深夜美食, 烏龍麵, 蕎麥麵, 九州料理
 license: CC BY 4.0
 ---

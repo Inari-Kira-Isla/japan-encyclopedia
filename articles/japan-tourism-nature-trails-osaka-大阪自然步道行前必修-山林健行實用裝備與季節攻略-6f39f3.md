@@ -6,7 +6,7 @@ category: nature-trails
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-osaka-大阪自然步道行前必修-山林健行實用裝備與季節攻略-6f39f3.html
 published: 2026-06-10
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪步道, 大阪登山, 箕面山, 金剛山, 山林健行
 license: CC BY 4.0
 ---

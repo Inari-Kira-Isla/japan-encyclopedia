@@ -6,7 +6,7 @@ category: electronics
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-electronics-kanazawa-金澤電子產品購物指南-遠離觀光區的生活電子商舖-da1e4e.html
 published: 2026-06-20
-quality_score: 7.5
+quality_score: 8.6
 tags: 金澤電子產品, 金澤購物, 北陸電子商舖, 金澤生活, 日本電器
 license: CC BY 4.0
 ---

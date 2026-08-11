@@ -6,7 +6,7 @@ category: temples-shrines
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-temples-shrines-kyoto-京都秘境寺廟神社-避開人潮的隱藏寶藏-9578f3.html
 published: 2026-06-02
-quality_score: 6.5
+quality_score: 8.7
 tags: 京都寺廟神社, 小眾秘境, 京都自由行, 避开人潮, 京都深度旅遊
 license: CC BY 4.0
 ---

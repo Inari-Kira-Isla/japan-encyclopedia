@@ -6,7 +6,7 @@ category: nature-trails
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-hokkaido-北海道進階步道挑戰-深入道央道東的山野秘境-0c0ce2.html
 published: 2026-04-06
-quality_score: 6.5
+quality_score: 8.8
 tags: 北海道登山, 進階步道, 百名山, 道央道東, 挑戰級
 license: CC BY 4.0
 ---

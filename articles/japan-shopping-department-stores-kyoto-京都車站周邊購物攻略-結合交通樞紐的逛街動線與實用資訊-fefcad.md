@@ -6,7 +6,7 @@ category: department-stores
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-department-stores-kyoto-京都車站周邊購物攻略-結合交通樞紐的逛街動線與實用資訊-fefcad.html
 published: 2026-06-22
-quality_score: 7.5
+quality_score: 8.7
 tags: 京都, 購物指南, 車站周邊, 百货公司, 京都站
 license: CC BY 4.0
 ---

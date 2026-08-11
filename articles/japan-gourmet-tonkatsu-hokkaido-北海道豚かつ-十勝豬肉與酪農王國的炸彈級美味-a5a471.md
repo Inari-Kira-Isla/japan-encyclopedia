@@ -6,7 +6,7 @@ category: tonkatsu
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tonkatsu-hokkaido-北海道豚かつ-十勝豬肉與酪農王國的炸彈級美味-a5a471.html
 published: 2026-06-17
-quality_score: 6.5
+quality_score: 8.5
 tags: 北海道美食, 豚かつ, 十勝, 帶廣, 札幌
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: island-hopping
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-island-hopping-kyoto-京都的島嶼漫遊-嵐山與周邊水岸的侘寂風景-71f103.html
 published: 2026-06-15
-quality_score: 6.5
+quality_score: 8.8
 tags: 京都, 嵐山, 渡月橋, 日本文化, 慢旅
 license: CC BY 4.0
 ---

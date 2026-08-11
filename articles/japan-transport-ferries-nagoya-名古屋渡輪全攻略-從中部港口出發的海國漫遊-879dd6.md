@@ -6,7 +6,7 @@ category: ferries
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-ferries-nagoya-名古屋渡輪全攻略-從中部港口出發的海國漫遊-879dd6.html
 published: 2026-06-01
-quality_score: 7.5
+quality_score: 8.5
 tags: 名古屋, 渡輪, 港口, 伊勢灣, 三重縣
 license: CC BY 4.0
 ---

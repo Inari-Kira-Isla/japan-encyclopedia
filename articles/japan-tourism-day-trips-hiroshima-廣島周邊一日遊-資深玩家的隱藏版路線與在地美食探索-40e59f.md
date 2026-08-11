@@ -6,7 +6,7 @@ category: day-trips
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-hiroshima-廣島周邊一日遊-資深玩家的隱藏版路線與在地美食探索-40e59f.html
 published: 2026-04-07
-quality_score: 6.5
+quality_score: 8.7
 tags: 廣島一日遊, 瀨戶內海, 竹原老街, 兔子島, 尾道
 license: CC BY 4.0
 ---

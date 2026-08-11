@@ -6,7 +6,7 @@ category: capsule-hotels
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-capsule-hotels-hokkaido-北海道膠囊飯店實用指南-交通樞紐與中繼住宿的策略選擇-c256e4.html
 published: 2026-06-18
-quality_score: 6.5
+quality_score: 8.5
 tags: 北海道膠囊飯店, 北海道住宿, 北海道自助旅行, JR北海道, 札幌住宿
 license: CC BY 4.0
 ---

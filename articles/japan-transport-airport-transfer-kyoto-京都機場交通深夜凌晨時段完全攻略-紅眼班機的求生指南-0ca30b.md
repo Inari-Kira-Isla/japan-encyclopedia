@@ -6,7 +6,7 @@ category: airport-transfer
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-airport-transfer-kyoto-京都機場交通深夜凌晨時段完全攻略-紅眼班機的求生指南-0ca30b.html
 published: 2026-06-11
-quality_score: 7.5
+quality_score: 8.7
 tags: 京都機場交通, 關西國際機場, 深夜航班, 紅眼班機, 京都交通攻略
 license: CC BY 4.0
 ---

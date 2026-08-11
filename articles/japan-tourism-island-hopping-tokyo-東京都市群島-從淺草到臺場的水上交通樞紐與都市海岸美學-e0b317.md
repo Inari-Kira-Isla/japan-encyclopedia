@@ -6,7 +6,7 @@ category: island-hopping
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-island-hopping-tokyo-東京都市群島-從淺草到臺場的水上交通樞紐與都市海岸美學-e0b317.html
 published: 2026-05-24
-quality_score: 6.5
+quality_score: 8.5
 tags: 東京, 都市島嶼, 台場, 水上交通, 跳島
 license: CC BY 4.0
 ---

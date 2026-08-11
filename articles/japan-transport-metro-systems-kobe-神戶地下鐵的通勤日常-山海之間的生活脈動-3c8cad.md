@@ -6,7 +6,7 @@ category: metro-systems
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-kobe-神戶地下鐵的通勤日常-山海之間的生活脈動-3c8cad.html
 published: 2026-03-24
-quality_score: 7.5
+quality_score: 8.9
 tags: 神戶交通, 地下鐵系統, 日本鐵路, 神戶生活, 關西旅遊
 license: CC BY 4.0
 ---

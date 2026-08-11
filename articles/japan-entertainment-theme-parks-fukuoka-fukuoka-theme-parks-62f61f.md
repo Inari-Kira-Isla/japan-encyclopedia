@@ -6,7 +6,7 @@ category: theme-parks
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-theme-parks-fukuoka-fukuoka-theme-parks-62f61f.html
 published: 2026-03-23
-quality_score: 5.5
+quality_score: 0.0
 tags: theme-parks, fukuoka, japan
 license: CC BY 4.0
 ---

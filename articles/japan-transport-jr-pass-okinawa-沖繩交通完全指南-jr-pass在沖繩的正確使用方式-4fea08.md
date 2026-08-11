@@ -6,7 +6,7 @@ category: jr-pass
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-jr-pass-okinawa-沖繩交通完全指南-jr-pass在沖繩的正確使用方式-4fea08.html
 published: 2026-05-25
-quality_score: 7.5
+quality_score: 8.7
 tags: 沖繩交通, JR Pass, 沖繩單軌電車, 那霸市內交通, 日本自由行
 license: CC BY 4.0
 ---

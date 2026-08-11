@@ -6,7 +6,7 @@ category: sumo
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-osaka-大阪相撲全攻略-推薦場館與觀賽指南-體驗關西力士的熱情舞臺-a8c9f2.html
 published: 2026-06-02
-quality_score: 6.5
+quality_score: 8.9
 tags: 大阪相撲, 關西相撲, edion arena大阪, 大阪場所, 相撲觀賽指南
 license: CC BY 4.0
 ---

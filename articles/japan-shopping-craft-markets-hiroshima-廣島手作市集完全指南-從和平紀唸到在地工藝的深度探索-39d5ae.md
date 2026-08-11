@@ -6,7 +6,7 @@ category: craft-markets
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-craft-markets-hiroshima-廣島手作市集完全指南-從和平紀唸到在地工藝的深度探索-39d5ae.html
 published: 2026-07-03
-quality_score: 7.5
+quality_score: 8.7
 tags: 廣島市集, 手作市集, 日本工藝, 宮島雕刻, 廣島漆器
 license: CC BY 4.0
 ---

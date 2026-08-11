@@ -6,7 +6,7 @@ category: festivals-matsuri
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-festivals-matsuri-tokyo-toyo的都會祭典提案-東京街頭的多元慶典文化與隱藏版盛典-785303.html
 published: 2026-05-24
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京祭典, 東京旅游, 都會文化, 日本夏日, 街頭祭典
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: historical-districts
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-tokyo-東京歷史街區的晨間工作風景-職人與老鋪的日常式漫步-6a1d14.html
 published: 2026-06-04
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京歷史街區, 下町散步, 谷中, 人形町, 向島墨田
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: onsen
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-onsen-okinawa-沖繩溫泉體驗-海島地質限制下的溫泉文化變革-0eb984.html
 published: 2026-04-06
-quality_score: 6.5
+quality_score: 8.6
 tags: 沖繩, 溫泉, 海水溫泉, 度假村, 亞熱帶
 license: CC BY 4.0
 ---

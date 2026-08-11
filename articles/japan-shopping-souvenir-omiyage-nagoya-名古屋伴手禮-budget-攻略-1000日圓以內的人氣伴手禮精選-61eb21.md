@@ -6,7 +6,7 @@ category: souvenir-omiyage
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-souvenir-omiyage-nagoya-名古屋伴手禮-budget-攻略-1000日圓以內的人氣伴手禮精選-61eb21.html
 published: 2026-06-22
-quality_score: 7.5
+quality_score: 8.7
 tags: 名古屋伴手禮, budget伴手禮, 名古屋土產, 平價伴手禮, 日本伴手禮攻略
 license: CC BY 4.0
 ---

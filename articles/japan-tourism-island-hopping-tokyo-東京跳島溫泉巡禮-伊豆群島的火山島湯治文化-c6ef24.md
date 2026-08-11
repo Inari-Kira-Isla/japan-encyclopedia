@@ -6,7 +6,7 @@ category: island-hopping
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-island-hopping-tokyo-東京跳島溫泉巡禮-伊豆群島的火山島湯治文化-c6ef24.html
 published: 2026-03-27
-quality_score: 6.5
+quality_score: 8.5
 tags: 東京島嶼, 溫泉文化, 伊豆群島, 湯治體驗, 火山溫泉
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: island-hopping
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-island-hopping-fukuoka-福岡跳島生活提案-從博多出發-循在地人的海岸線日常-790c63.html
 published: 2026-07-06
-quality_score: 6.5
+quality_score: 8.7
 tags: 福岡跳島, 九州自助, 能古島, 玄界灘, 島嶼旅遊
 license: CC BY 4.0
 ---

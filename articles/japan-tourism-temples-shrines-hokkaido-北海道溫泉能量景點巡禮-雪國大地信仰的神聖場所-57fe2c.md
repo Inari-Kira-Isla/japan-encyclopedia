@@ -6,7 +6,7 @@ category: temples-shrines
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-temples-shrines-hokkaido-北海道溫泉能量景點巡禮-雪國大地信仰的神聖場所-57fe2c.html
 published: 2026-06-20
-quality_score: 6.5
+quality_score: 8.6
 tags: 北海道神社, 北海道寺院, 登別溫泉, 洞爺湖, 札幌景點
 license: CC BY 4.0
 ---

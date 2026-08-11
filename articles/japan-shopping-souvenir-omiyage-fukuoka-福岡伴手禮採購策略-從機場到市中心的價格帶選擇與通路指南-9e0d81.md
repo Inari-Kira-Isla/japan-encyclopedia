@@ -6,7 +6,7 @@ category: souvenir-omiyage
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-souvenir-omiyage-fukuoka-福岡伴手禮採購策略-從機場到市中心的價格帶選擇與通路指南-9e0d81.html
 published: 2026-06-04
-quality_score: 7.5
+quality_score: 8.8
 tags: 福岡, 伴手禮, 九州特產, 天神商圈, 免稅購物
 license: CC BY 4.0
 ---

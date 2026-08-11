@@ -6,7 +6,7 @@ category: temples-shrines
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-temples-shrines-hiroshima-廣島神社寺院的日常切入-在地人的參拜生活與信仰經濟學-528268.html
 published: 2026-06-06
-quality_score: 6.5
+quality_score: 8.7
 tags: 廣島神社, 廣島寺院, 在地參拜, 信仰生活, 護國神社
 license: CC BY 4.0
 ---

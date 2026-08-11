@@ -6,7 +6,7 @@ category: sake-brewery
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sake-brewery-hokkaido-北海道清酒與海味的極致相遇-釀酒廠裡的限定餐酒體驗-b7b549.html
 published: 2026-07-01
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道清酒, 釀酒廠參觀, 海膽清酒搭配, 日本料理體驗, 北海道旅遊
 license: CC BY 4.0
 ---

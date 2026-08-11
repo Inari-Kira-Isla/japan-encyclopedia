@@ -6,7 +6,7 @@ category: department-stores
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-department-stores-kobe-神戶銀髮族購物指南-港都慢活購物體驗-6e8648.html
 published: 2026-06-12
-quality_score: 7.5
+quality_score: 8.8
 tags: 神戶購物, 銀髮族旅遊, 銀髮經濟, 無障礙購物, 港都購物
 license: CC BY 4.0
 ---

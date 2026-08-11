@@ -6,7 +6,7 @@ category: capsule-hotels
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-capsule-hotels-sendai-仙台膠囊旅館美食指南-車站周邊的味覺與住宿中繼-7420ae.html
 published: 2026-06-23
-quality_score: 6.5
+quality_score: 8.7
 tags: 仙台, 膠囊旅館, 東北住宿, 牛舌, 美食之旅
 license: CC BY 4.0
 ---

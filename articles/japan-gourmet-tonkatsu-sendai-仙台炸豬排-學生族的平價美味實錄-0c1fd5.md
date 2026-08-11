@@ -6,7 +6,7 @@ category: tonkatsu
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tonkatsu-sendai-仙台炸豬排-學生族的平價美味實錄-0c1fd5.html
 published: 2026-06-21
-quality_score: 6.5
+quality_score: 8.7
 tags: 仙台炸豬排, 仙台美食, 東北洋食, 平價日式料理, 學生城市
 license: CC BY 4.0
 ---

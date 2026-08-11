@@ -6,7 +6,7 @@ category: minshuku
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-kobe-神戶民宿完全指南-六甲山系溫泉與港都記憶的雙重姿態-6dd574.html
 published: 2026-06-06
-quality_score: 6.5
+quality_score: 8.6
 tags: 神戶民宿, 有馬溫泉, 六甲山, 港都住宿, 關西溫泉
 license: CC BY 4.0
 ---

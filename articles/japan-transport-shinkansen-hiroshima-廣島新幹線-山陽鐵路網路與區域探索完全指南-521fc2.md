@@ -6,7 +6,7 @@ category: shinkansen
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-hiroshima-廣島新幹線-山陽鐵路網路與區域探索完全指南-521fc2.html
 published: 2026-05-22
-quality_score: 7.5
+quality_score: 8.8
 tags: 山阳新干线, 广岛交通, 宫岛旅行, 尾道旅游, 濑户内海
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: street-food
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-street-food-kanazawa-金澤夜宵小旅行-下班後的居酒屋與橋場夜市的在地吃法-c033fe.html
 published: 2026-06-04
-quality_score: 6.5
+quality_score: 8.9
 tags: 金澤, 街頭美食, 居酒屋, 夜宵, 橋場
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: scenic-routes
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-kyoto-京都時段別風景路線攻略-從晨曦到夜色的古都光影變幻-d267db.html
 published: 2026-04-11
-quality_score: 6.5
+quality_score: 8.7
 tags: 京都, 風景路線, 時段安排, 攝影景點, 古都散策
 license: CC BY 4.0
 ---

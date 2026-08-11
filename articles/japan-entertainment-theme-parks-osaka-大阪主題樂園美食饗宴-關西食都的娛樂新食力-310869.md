@@ -6,7 +6,7 @@ category: theme-parks
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-theme-parks-osaka-大阪主題樂園美食饗宴-關西食都的娛樂新食力-310869.html
 published: 2026-04-06
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪主題樂園, 美食體驗, 關西旅遊, 環球影城, 天保山
 license: CC BY 4.0
 ---

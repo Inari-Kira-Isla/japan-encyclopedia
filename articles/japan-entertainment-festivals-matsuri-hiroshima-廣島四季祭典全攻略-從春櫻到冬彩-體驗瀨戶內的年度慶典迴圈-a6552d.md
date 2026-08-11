@@ -6,7 +6,7 @@ category: festivals-matsuri
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-festivals-matsuri-hiroshima-廣島四季祭典全攻略-從春櫻到冬彩-體驗瀨戶內的年度慶典迴圈-a6552d.html
 published: 2026-06-20
-quality_score: 6.5
+quality_score: 8.3
 tags: 廣島祭典, 四季祭典, 日本祭典, 瀨戶內, 廣島自由行
 license: CC BY 4.0
 ---

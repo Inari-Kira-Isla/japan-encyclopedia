@@ -6,7 +6,7 @@ category: izakaya
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-izakaya-kanazawa-金澤居酒屋-加賀百萬石大米釀造的在地酒藏巡禮-00bb8f.html
 published: 2026-06-02
-quality_score: 6.5
+quality_score: 8.8
 tags: 金澤居酒屋, 加賀地酒, 北陸美食, 日本海海鮮, 古都美食
 license: CC BY 4.0
 ---

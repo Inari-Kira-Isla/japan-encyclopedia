@@ -6,7 +6,7 @@ category: historical-districts
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-tokyo-東京歷史街區-避開人潮的深度文化體驗攻略-4dce6d.html
 published: 2026-04-06
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京, 歷史街區, 深度旅遊, 下町文化, 美食體驗
 license: CC BY 4.0
 ---

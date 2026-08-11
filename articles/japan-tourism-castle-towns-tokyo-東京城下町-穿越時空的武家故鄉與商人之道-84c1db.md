@@ -6,7 +6,7 @@ category: castle-towns
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-castle-towns-tokyo-東京城下町-穿越時空的武家故鄉與商人之道-84c1db.html
 published: 2026-06-17
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京城下町, 川越小江戶, 八王子城, 調布深大寺, 府中拉麵
 license: CC BY 4.0
 ---

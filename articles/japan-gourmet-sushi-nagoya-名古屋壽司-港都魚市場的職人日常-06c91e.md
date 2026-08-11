@@ -6,7 +6,7 @@ category: sushi
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sushi-nagoya-名古屋壽司-港都魚市場的職人日常-06c91e.html
 published: 2026-06-19
-quality_score: 6.5
+quality_score: 8.5
 tags: 名古屋壽司, 伊勢灣, 三河灣, 港區美食, 名古屋魚市場
 license: CC BY 4.0
 ---

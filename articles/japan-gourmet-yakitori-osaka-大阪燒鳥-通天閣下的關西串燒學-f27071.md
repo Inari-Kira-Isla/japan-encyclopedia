@@ -6,7 +6,7 @@ category: yakitori
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-yakitori-osaka-大阪燒鳥-通天閣下的關西串燒學-f27071.html
 published: 2026-06-13
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪燒鳥, 大阪美食, 關西料理, 通天閣, 新世界
 license: CC BY 4.0
 ---

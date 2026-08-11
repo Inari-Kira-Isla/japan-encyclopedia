@@ -6,7 +6,7 @@ category: department-stores
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-department-stores-nagoya-名古屋百購物完全指南-中京工業城的實用主義消費美學-33bf97.html
 published: 2026-05-23
-quality_score: 7.5
+quality_score: 8.8
 tags: 名古屋購物, 日本百stores, 中部地方 shopping, 名古屋自由行, 日本銀髮友善設施
 license: CC BY 4.0
 ---

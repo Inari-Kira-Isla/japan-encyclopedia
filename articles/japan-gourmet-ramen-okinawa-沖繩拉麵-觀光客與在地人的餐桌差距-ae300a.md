@@ -6,7 +6,7 @@ category: ramen
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-ramen-okinawa-沖繩拉麵-觀光客與在地人的餐桌差距-ae300a.html
 published: 2026-03-28
-quality_score: 6.5
+quality_score: 8.6
 tags: 沖繩美食, 在地體驗, 文化差異, 美食評鑑, 日本拉麵
 license: CC BY 4.0
 ---

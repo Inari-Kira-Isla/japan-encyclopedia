@@ -6,7 +6,7 @@ category: nightlife
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-okinawa-沖繩夜生活-當地人帶路的深夜食堂地圖-cb242e.html
 published: 2026-06-08
-quality_score: 6.5
+quality_score: 8.7
 tags: 沖繩夜生活, 那霸美食, 當地人推薦, 海灘露營, 美式酒吧
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: business-hotels
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-business-hotels-sendai-仙台女性商務旅客住宿指南-安全-溫暖-便利的東北出差選擇-7180f4.html
 published: 2026-06-02
-quality_score: 6.5
+quality_score: 8.2
 tags: 仙台, 商務住宿, 女性旅客, 東北 travel, 商務出差
 license: CC BY 4.0
 ---

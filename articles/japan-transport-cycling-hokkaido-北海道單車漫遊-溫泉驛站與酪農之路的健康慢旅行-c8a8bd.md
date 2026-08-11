@@ -6,7 +6,7 @@ category: cycling
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-hokkaido-北海道單車漫遊-溫泉驛站與酪農之路的健康慢旅行-c8a8bd.html
 published: 2026-06-15
-quality_score: 7.5
+quality_score: 8.6
 tags: 北海道單車, 溫泉驛站, 酪農體驗, 十勝平原, 北海道溫泉
 license: CC BY 4.0
 ---

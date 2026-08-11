@@ -6,7 +6,7 @@ category: vintage-thrift
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-vintage-thrift-sendai-仙台古著尋寶part2-學生價格的復古時尚-廣瀨通周邊高cp值店家精選-2c627c.html
 published: 2026-07-03
-quality_score: 7.5
+quality_score: 8.9
 tags: 仙台古著, 廣瀨通古著, 東北古著購物, 學生友善古著, 日本平價古著
 license: CC BY 4.0
 ---

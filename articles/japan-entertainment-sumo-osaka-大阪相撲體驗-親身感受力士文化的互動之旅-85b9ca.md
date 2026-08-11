@@ -6,7 +6,7 @@ category: sumo
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-osaka-大阪相撲體驗-親身感受力士文化的互動之旅-85b9ca.html
 published: 2026-03-24
-quality_score: 6.5
+quality_score: 8.6
 tags: 大阪, 相撲體驗, 日本傳統文化, 美食文化, 業餘運動
 license: CC BY 4.0
 ---

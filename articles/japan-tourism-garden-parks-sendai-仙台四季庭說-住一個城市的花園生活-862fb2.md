@@ -6,7 +6,7 @@ category: garden-parks
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-sendai-仙台四季庭說-住一個城市的花園生活-862fb2.html
 published: 2026-06-03
-quality_score: 6.5
+quality_score: 8.8
 tags: 仙台, 花園, 公園, 日本東北, 在地生活
 license: CC BY 4.0
 ---

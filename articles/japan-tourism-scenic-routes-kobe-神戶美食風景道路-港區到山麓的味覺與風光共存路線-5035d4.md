@@ -6,7 +6,7 @@ category: scenic-routes
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-kobe-神戶美食風景道路-港區到山麓的味覺與風光共存路線-5035d4.html
 published: 2026-06-28
-quality_score: 6.5
+quality_score: 8.7
 tags: 神戶美食, 風景道路, 港口城市, 清酒釀酒廠, 神戶夜景
 license: CC BY 4.0
 ---

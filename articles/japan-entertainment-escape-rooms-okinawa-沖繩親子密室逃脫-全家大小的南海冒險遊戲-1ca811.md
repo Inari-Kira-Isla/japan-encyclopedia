@@ -6,7 +6,7 @@ category: escape-rooms
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-escape-rooms-okinawa-沖繩親子密室逃脫-全家大小的南海冒險遊戲-1ca811.html
 published: 2026-06-17
-quality_score: 6.5
+quality_score: 8.6
 tags: 沖繩親子活動, 密室逃脫, 家庭旅遊, 室內遊戲, 那霸市區
 license: CC BY 4.0
 ---

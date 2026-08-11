@@ -6,7 +6,7 @@ category: vr-experiences
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-vr-experiences-sendai-仙台vr體驗-東北科技娛樂的現在進行式-51a648.html
 published: 2026-05-22
-quality_score: 6.5
+quality_score: 8.5
 tags: 仙台VR, 仙台科技娛樂, 東北虛擬實境, 仙台體驗推薦, 日本VR體驗
 license: CC BY 4.0
 ---

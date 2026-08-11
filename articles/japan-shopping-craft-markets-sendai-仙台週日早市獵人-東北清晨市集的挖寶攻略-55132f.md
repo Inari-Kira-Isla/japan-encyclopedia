@@ -6,7 +6,7 @@ category: craft-markets
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-craft-markets-sendai-仙台週日早市獵人-東北清晨市集的挖寶攻略-55132f.html
 published: 2026-06-22
-quality_score: 7.5
+quality_score: 8.5
 tags: 仙台市集, 東北早市, 日本手作, 古著挖寶, 周日旅行
 license: CC BY 4.0
 ---

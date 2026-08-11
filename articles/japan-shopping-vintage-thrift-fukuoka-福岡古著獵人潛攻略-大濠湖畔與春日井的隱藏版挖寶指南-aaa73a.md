@@ -6,7 +6,7 @@ category: vintage-thrift
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-vintage-thrift-fukuoka-福岡古著獵人潛攻略-大濠湖畔與春日井的隱藏版挖寶指南-aaa73a.html
 published: 2026-07-02
-quality_score: 7.5
+quality_score: 8.9
 tags: 福岡古著, 日本古著, vintage, thrift shopping, 九州購物
 license: CC BY 4.0
 ---

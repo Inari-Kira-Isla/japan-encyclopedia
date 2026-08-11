@@ -6,7 +6,7 @@ category: karaoke
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-karaoke-sendai-仙台卡拉ok-森林之都的音樂日常-6c8c7b.html
 published: 2026-06-15
-quality_score: 6.5
+quality_score: 8.7
 tags: 仙台, 卡拉OK, 東北, 夜生活, 日本娛樂
 license: CC BY 4.0
 ---

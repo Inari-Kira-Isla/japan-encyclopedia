@@ -6,7 +6,7 @@ category: department-stores
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-department-stores-kobe-神戶百貨公司-開港城市的洋風購物物語-996563.html
 published: 2026-06-24
-quality_score: 7.5
+quality_score: 8.6
 tags: 神戶購物, 神戶百貨, 關西購物, 日本購物指南, 神戶伴手禮
 license: CC BY 4.0
 ---

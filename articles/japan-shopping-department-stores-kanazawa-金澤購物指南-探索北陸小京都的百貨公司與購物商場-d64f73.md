@@ -6,7 +6,7 @@ category: department-stores
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-department-stores-kanazawa-金澤購物指南-探索北陸小京都的百貨公司與購物商場-d64f73.html
 published: 2026-07-05
-quality_score: 7.5
+quality_score: 8.7
 tags: 金澤購物, 日本百貨公司, 北陸旅行, 金澤伴手禮, 金箔工藝
 license: CC BY 4.0
 ---

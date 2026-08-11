@@ -6,7 +6,7 @@ category: street-food
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-street-food-kyoto-京都清晨市場-古城覺醒時分的庶民滋味-75608e.html
 published: 2026-06-20
-quality_score: 6.5
+quality_score: 8.7
 tags: 京都, 街頭美食, 清晨市場, 庶民美食, 關西
 license: CC BY 4.0
 ---

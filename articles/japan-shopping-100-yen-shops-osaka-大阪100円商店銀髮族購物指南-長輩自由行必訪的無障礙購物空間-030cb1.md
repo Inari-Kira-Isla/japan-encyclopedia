@@ -6,7 +6,7 @@ category: 100-yen-shops
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-100-yen-shops-osaka-大阪100円商店銀髮族購物指南-長輩自由行必訪的無障礙購物空間-030cb1.html
 published: 2026-06-12
-quality_score: 7.5
+quality_score: 8.6
 tags: 大阪百元商店, 銀髮族購物, 大阪自由行, 無障礙旅遊, 大阪購物指南
 license: CC BY 4.0
 ---

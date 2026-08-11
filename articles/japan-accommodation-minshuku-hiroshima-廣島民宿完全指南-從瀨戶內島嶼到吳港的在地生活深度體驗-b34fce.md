@@ -6,7 +6,7 @@ category: minshuku
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-hiroshima-廣島民宿完全指南-從瀨戶內島嶼到吳港的在地生活深度體驗-b34fce.html
 published: 2026-06-23
-quality_score: 6.5
+quality_score: 8.6
 tags: 廣島民宿, 瀨戶內海, 吳港, 宮島住宿, 日本自助旅行
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: duty-free
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-duty-free-kanazawa-金澤甜點伴手禮免稅購物指南-古城糖點與茶房體驗-de51f1.html
 published: 2026-06-13
-quality_score: 7.5
+quality_score: 8.5
 tags: 金澤免稅, 金澤甜點, 金澤伴手禮, 金澤美食, 金澤購物
 license: CC BY 4.0
 ---

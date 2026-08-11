@@ -6,7 +6,7 @@ category: castle-towns
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-castle-towns-kanazawa-金澤的城堡城鎮-穿越武家街巷與花街巷弄的時空散步-58557c.html
 published: 2026-06-11
-quality_score: 6.5
+quality_score: 8.5
 tags: 金澤城下町, 長町武家街, 東山花街, 兼六園, 金澤城
 license: CC BY 4.0
 ---

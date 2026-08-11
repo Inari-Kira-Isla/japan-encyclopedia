@@ -6,7 +6,7 @@ category: festivals-matsuri
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-festivals-matsuri-sendai-仙台祭典深度遊-在地人帶路的社群慶典體驗與隱藏版美食-8c345b.html
 published: 2026-06-23
-quality_score: 6.5
+quality_score: 8.6
 tags: 仙台祭典, 青葉祭, 光的嘉年華, 七夕祭, 東北祭典
 license: CC BY 4.0
 ---

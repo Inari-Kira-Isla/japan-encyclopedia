@@ -6,7 +6,7 @@ category: yakitori
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-yakitori-hokkaido-北海道燒鳥的另一個面向-海港城市的串燒進化論-d70496.html
 published: 2026-05-31
-quality_score: 6.5
+quality_score: 8.6
 tags: 北海道燒鳥, 室蘭燒鳥, 小樽海鮮燒鳥, 釧路馬糞海膽, 旭川醬油燒鳥
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: street-food
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-street-food-osaka-大阪甜點小吃百科-抹茶-crepe-與平成泡沫的甜蜜軌跡-5320b3.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪甜點, 抹茶, Crepe, 街頭小吃, 下午茶
 license: CC BY 4.0
 ---

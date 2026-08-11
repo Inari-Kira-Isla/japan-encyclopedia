@@ -6,7 +6,7 @@ category: temples-shrines
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-temples-shrines-osaka-大阪社群神社散步-從天王寺到新世界的在地信仰日常-24b005.html
 published: 2026-06-22
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪神社, 大阪寺院, 大阪散步, 關西宗教, 大阪自由行
 license: CC BY 4.0
 ---

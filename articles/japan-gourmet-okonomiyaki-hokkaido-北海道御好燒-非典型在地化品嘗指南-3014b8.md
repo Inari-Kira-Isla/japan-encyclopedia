@@ -6,7 +6,7 @@ category: okonomiyaki
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-okonomiyaki-hokkaido-北海道御好燒-非典型在地化品嘗指南-3014b8.html
 published: 2026-07-02
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道美食, 御好燒, 札幌美食, 小樽美食, 北海道料理
 license: CC BY 4.0
 ---

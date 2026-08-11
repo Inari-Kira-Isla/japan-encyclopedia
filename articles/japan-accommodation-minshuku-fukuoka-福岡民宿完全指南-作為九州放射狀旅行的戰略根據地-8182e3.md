@@ -6,7 +6,7 @@ category: minshuku
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-fukuoka-福岡民宿完全指南-作為九州放射狀旅行的戰略根據地-8182e3.html
 published: 2026-06-14
-quality_score: 6.5
+quality_score: 8.4
 tags: 福岡民宿, 九州旅行, 民宿推薦, 博多住宿, 天神住宿
 license: CC BY 4.0
 ---

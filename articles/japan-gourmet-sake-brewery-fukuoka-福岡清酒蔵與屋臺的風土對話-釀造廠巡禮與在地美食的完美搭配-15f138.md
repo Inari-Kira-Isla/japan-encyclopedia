@@ -6,7 +6,7 @@ category: sake-brewery
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sake-brewery-fukuoka-福岡清酒蔵與屋臺的風土對話-釀造廠巡禮與在地美食的完美搭配-15f138.html
 published: 2026-06-25
-quality_score: 6.5
+quality_score: 8.6
 tags: 福岡清酒, 九州釀造厂, 屋台文化, 日本清酒體驗, 博多吃喝
 license: CC BY 4.0
 ---

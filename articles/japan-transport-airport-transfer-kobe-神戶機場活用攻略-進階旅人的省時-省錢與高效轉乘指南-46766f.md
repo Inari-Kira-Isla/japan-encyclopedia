@@ -6,7 +6,7 @@ category: airport-transfer
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-airport-transfer-kobe-神戶機場活用攻略-進階旅人的省時-省錢與高效轉乘指南-46766f.html
 published: 2026-05-20
-quality_score: 7.5
+quality_score: 8.5
 tags: 神戶機場交通, Kobe Airport Transfer, 關西機場轉乘, 神戶到大阪, 港灣人工島線
 license: CC BY 4.0
 ---

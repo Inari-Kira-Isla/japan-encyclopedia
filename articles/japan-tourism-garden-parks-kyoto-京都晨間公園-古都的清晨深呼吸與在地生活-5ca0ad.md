@@ -6,7 +6,7 @@ category: garden-parks
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-kyoto-京都晨間公園-古都的清晨深呼吸與在地生活-5ca0ad.html
 published: 2026-06-21
-quality_score: 6.5
+quality_score: 8.7
 tags: 京都公園, 晨間散步, 古都慢遊, 在地體驗, 免費景點
 license: CC BY 4.0
 ---

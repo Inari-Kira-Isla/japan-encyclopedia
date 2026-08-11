@@ -6,7 +6,7 @@ category: shinkansen
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-nagoya-名古屋當日來回攻略-從名古屋出發的範圍與周邊城市一日遊-85850b.html
 published: 2026-07-06
-quality_score: 7.5
+quality_score: 8.6
 tags: 名古屋、新幹線、中部地區、當日來回、岐阜、犬山城、伊勢神宮
 license: CC BY 4.0
 ---

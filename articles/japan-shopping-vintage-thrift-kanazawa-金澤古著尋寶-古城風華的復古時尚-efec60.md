@@ -6,7 +6,7 @@ category: vintage-thrift
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-vintage-thrift-kanazawa-金澤古著尋寶-古城風華的復古時尚-efec60.html
 published: 2026-06-01
-quality_score: 7.5
+quality_score: 8.7
 tags: 金澤古著, vintage-thrift, 石川縣購物, 金澤購物指南, 日本古著尋寶
 license: CC BY 4.0
 ---

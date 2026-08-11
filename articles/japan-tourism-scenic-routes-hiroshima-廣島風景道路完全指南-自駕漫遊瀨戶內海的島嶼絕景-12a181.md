@@ -6,7 +6,7 @@ category: scenic-routes
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-hiroshima-廣島風景道路完全指南-自駕漫遊瀨戶內海的島嶼絕景-12a181.html
 published: 2026-04-07
-quality_score: 6.5
+quality_score: 8.7
 tags: 廣島自駕, 瀨戶內海, 尾道, 鞆之浦, 兔子島
 license: CC BY 4.0
 ---

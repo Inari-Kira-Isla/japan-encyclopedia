@@ -6,7 +6,7 @@ category: ferries
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-ferries-kanazawa-金澤海上交通實用手冊-能登半島渡輪與在地航線全攻略-aaaff5.html
 published: 2026-06-02
-quality_score: 7.5
+quality_score: 8.4
 tags: 金澤交通, 能登半島, 輪島碼頭, 海上交通, 日本海航線
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: sumo
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-kyoto-京都相撲-淡路的相撲聖地與關西觀賽完全攻略-e406b6.html
 published: 2026-05-25
-quality_score: 6.5
+quality_score: 8.7
 tags: 關西相撲, 京都旅遊, 大阪相撲, 相撲體驗, 業餘相撲
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: ferries
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-ferries-kobe-神戶航運全攻略-瀨戶內海東部門戶的渡輪服務-f68694.html
 published: 2026-06-02
-quality_score: 7.5
+quality_score: 8.9
 tags: 神戶, 渡輪, 瀨戶內海, 直島, 豐島
 license: CC BY 4.0
 ---

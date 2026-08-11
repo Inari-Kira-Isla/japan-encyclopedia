@@ -6,7 +6,7 @@ category: festivals-matsuri
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-festivals-matsuri-tokyo-東京社群祭典-分割槽體驗在地慶典的隱藏版指南-837d61.html
 published: 2026-06-24
-quality_score: 6.5
+quality_score: 7.6
 tags: 東京祭典, 東京文化, 東京自由行, 社區祭典, 東京深度遊
 license: CC BY 4.0
 ---

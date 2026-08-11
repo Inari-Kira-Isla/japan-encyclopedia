@@ -6,7 +6,7 @@ category: temples-shrines
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-temples-shrines-fukuoka-福岡寺廟神社現代參拜指南-都市叢林中的心靈綠洲-cb7017.html
 published: 2026-03-27
-quality_score: 6.5
+quality_score: 8.7
 tags: 福岡, 寺廟神社, 都市信仰, 博多文化, 現代參拜
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: buses
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-buses-hiroshima-廣島巴士生活圈-像在地人一樣融入這座城市-fbc6e7.html
 published: 2026-04-05
-quality_score: 7.5
+quality_score: 8.7
 tags: 廣島交通, 在地體驗, 巴士生活, 深度旅遊, 文化體驗
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: ferries
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-ferries-hiroshima-廣島渡輪藝術航線-瀨戶內海藝術跳島之旅的海上視角-d32bbe.html
 published: 2026-06-29
-quality_score: 7.5
+quality_score: 8.6
 tags: 廣島渡輪, 瀨戶內海, 藝術島嶼, 直島, 渡輪體驗
 license: CC BY 4.0
 ---

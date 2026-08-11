@@ -6,7 +6,7 @@ category: souvenir-omiyage
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-souvenir-omiyage-fukuoka-福岡伴手禮生活採購指南-根據送禮物件與場景的實用挑選策略-c5716f.html
 published: 2026-06-04
-quality_score: 7.5
+quality_score: 8.7
 tags: 福岡伴手禮, 九州名產, 博多彩伴手禮, 購物攻略, 天神地下街
 license: CC BY 4.0
 ---

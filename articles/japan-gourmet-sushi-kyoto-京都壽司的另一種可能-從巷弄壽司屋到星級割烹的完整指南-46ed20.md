@@ -6,7 +6,7 @@ category: sushi
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sushi-kyoto-京都壽司的另一種可能-從巷弄壽司屋到星級割烹的完整指南-46ed20.html
 published: 2026-06-09
-quality_score: 6.5
+quality_score: 8.6
 tags: 京都壽司, 京都美食, 關西壽司, 祇園壽司, 京野菜
 license: CC BY 4.0
 ---

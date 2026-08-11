@@ -6,7 +6,7 @@ category: theme-parks
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-theme-parks-kobe-神戶主題樂園完整攻略-港都的都市休閒體驗指南-d1eec1.html
 published: 2026-06-13
-quality_score: 6.5
+quality_score: 8.8
 tags: 神戶主題樂園, 神戶親子遊, 神戶休閒, 關西主題樂園, 神戶港灣
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: onsen
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-onsen-hiroshima-廣島溫泉不完全指南-歷史城市週邊的秘湯發現-90499d.html
 published: 2026-06-02
-quality_score: 6.5
+quality_score: 8.5
 tags: 廣島溫泉, 三次溫泉, 吳市溫泉, 山口縣溫泉, 湯田溫泉
 license: CC BY 4.0
 ---

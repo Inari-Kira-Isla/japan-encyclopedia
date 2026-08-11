@@ -6,7 +6,7 @@ category: izakaya
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-izakaya-kyoto-京都深夜酒場學-下班後的京都人會去這些店-897f56.html
 published: 2026-05-25
-quality_score: 6.5
+quality_score: 8.7
 tags: 京都, 居酒屋, 深夜美食, 當地體驗, 日本料理
 license: CC BY 4.0
 ---

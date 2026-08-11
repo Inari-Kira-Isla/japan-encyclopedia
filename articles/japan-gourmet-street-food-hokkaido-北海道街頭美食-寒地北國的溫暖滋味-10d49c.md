@@ -6,7 +6,7 @@ category: street-food
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-street-food-hokkaido-北海道街頭美食-寒地北國的溫暖滋味-10d49c.html
 published: 2026-03-15
-quality_score: 6.5
+quality_score: 8.8
 tags: 北海道, 街頭美食, 札幌拉麵, 成吉思汗, 函館朝市
 license: CC BY 4.0
 ---

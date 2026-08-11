@@ -6,7 +6,7 @@ category: escape-rooms
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-escape-rooms-fukuoka-福岡密室逃脫-九州推理之都的燒腦體驗-261a3a.html
 published: 2026-05-31
-quality_score: 6.5
+quality_score: 8.8
 tags: 福岡, 密室逃脫, 九州, 天神, 博多
 license: CC BY 4.0
 ---

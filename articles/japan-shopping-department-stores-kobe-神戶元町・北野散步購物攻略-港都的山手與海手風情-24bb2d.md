@@ -6,7 +6,7 @@ category: department-stores
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-department-stores-kobe-神戶元町・北野散步購物攻略-港都的山手與海手風情-24bb2d.html
 published: 2026-04-02
-quality_score: 7.5
+quality_score: 8.7
 tags: 神戶購物, 元町商圈, 北野異人館, 選品店, 神戶自由行
 license: CC BY 4.0
 ---

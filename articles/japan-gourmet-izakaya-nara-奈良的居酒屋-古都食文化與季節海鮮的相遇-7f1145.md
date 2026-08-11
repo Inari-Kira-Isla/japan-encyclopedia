@@ -6,7 +6,7 @@ category: izakaya
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-izakaya-nara-奈良的居酒屋-古都食文化與季節海鮮的相遇-7f1145.html
 published: 2026-03-21
-quality_score: 6.5
+quality_score: 8.5
 tags: 奈良居酒屋, 日本古都飲食文化, 季節海鮮, 奈良特產, 奈良漬
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: ramen
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-ramen-okinawa-沖繩拉麵-美軍基地滋養的島嶼拉麵美學-ecc497.html
 published: 2026-06-04
-quality_score: 6.5
+quality_score: 8.9
 tags: 沖繩拉麵, 沖繩美食, 那霸拉麵, 日本拉麵, 在地美食
 license: CC BY 4.0
 ---

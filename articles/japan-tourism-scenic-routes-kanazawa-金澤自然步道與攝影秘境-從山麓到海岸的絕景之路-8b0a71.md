@@ -6,7 +6,7 @@ category: scenic-routes
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-kanazawa-金澤自然步道與攝影秘境-從山麓到海岸的絕景之路-8b0a71.html
 published: 2026-06-19
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤步道, 金澤攝影, 日本自然散步, 金澤秘境, 兼六園
 license: CC BY 4.0
 ---

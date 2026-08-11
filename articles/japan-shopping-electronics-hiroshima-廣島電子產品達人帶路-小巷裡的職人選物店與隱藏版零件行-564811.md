@@ -6,7 +6,7 @@ category: electronics
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-electronics-hiroshima-廣島電子產品達人帶路-小巷裡的職人選物店與隱藏版零件行-564811.html
 published: 2026-05-22
-quality_score: 7.5
+quality_score: 8.5
 tags: 廣島電子產品, 廣島購物, 日本電子零件, 廣島自由行, 職人選物
 license: CC BY 4.0
 ---

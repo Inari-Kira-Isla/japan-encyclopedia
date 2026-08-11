@@ -6,7 +6,7 @@ category: tonkatsu
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tonkatsu-hiroshima-廣島的豬排飯-瀨戶內海風味的洋食日常-2c4bba.html
 published: 2026-05-31
-quality_score: 6.5
+quality_score: 8.7
 tags: 廣島美食, tontkatsu, 洋食,  Clare 豬, 瀨戶內海
 license: CC BY 4.0
 ---

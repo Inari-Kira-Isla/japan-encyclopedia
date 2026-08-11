@@ -6,7 +6,7 @@ category: cycling
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-okinawa-沖繩單車漫遊-亞熱帶島嶼的涼風騎跡-0d7d15.html
 published: 2026-05-22
-quality_score: 7.5
+quality_score: 8.7
 tags: 沖繩單車, 沖繩自由行, 島嶼骑行, 日本自助旅遊, 亞熱帶旅遊
 license: CC BY 4.0
 ---

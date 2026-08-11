@@ -6,7 +6,7 @@ category: anime-manga
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-osaka-大阪動漫沉浸體驗-主題空間與互動娛樂深度指南-205f9b.html
 published: 2026-04-03
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪動漫, 主題咖啡廳, VR體驗, 角色扮演, 沉浸式娛樂
 license: CC BY 4.0
 ---

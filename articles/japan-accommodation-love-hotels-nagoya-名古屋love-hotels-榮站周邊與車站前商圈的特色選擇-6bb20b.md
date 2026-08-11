@@ -6,7 +6,7 @@ category: love-hotels
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-love-hotels-nagoya-名古屋love-hotels-榮站周邊與車站前商圈的特色選擇-6bb20b.html
 published: 2026-06-29
-quality_score: 6.5
+quality_score: 8.8
 tags: 名古屋, 情侶旅館, 榮站, 名古屋車站, 中部地區
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: street-food
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-street-food-nagoya-名古屋街頭美食-中部內陸城市的味噌靈魂與庶民小食-73750e.html
 published: 2026-03-23
-quality_score: 6.5
+quality_score: 8.7
 tags: 名古屋, 街頭美食, 日本美食, 庶民小食, 八丁味噌
 license: CC BY 4.0
 ---

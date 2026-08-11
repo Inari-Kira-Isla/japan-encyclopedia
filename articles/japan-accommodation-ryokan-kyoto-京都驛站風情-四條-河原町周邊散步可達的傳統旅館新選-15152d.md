@@ -6,7 +6,7 @@ category: ryokan
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-kyoto-京都驛站風情-四條-河原町周邊散步可達的傳統旅館新選-15152d.html
 published: 2026-06-21
-quality_score: 6.5
+quality_score: 8.6
 tags: 京都住宿, 市區Ryokan, 四条河原町, 祇園, 町家住宿
 license: CC BY 4.0
 ---

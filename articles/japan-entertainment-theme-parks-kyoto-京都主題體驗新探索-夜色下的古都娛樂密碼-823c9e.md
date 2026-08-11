@@ -6,7 +6,7 @@ category: theme-parks
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-theme-parks-kyoto-京都主題體驗新探索-夜色下的古都娛樂密碼-823c9e.html
 published: 2026-03-29
-quality_score: 6.5
+quality_score: 8.8
 tags: 京都娛樂, 夜間體驗, 文化主題, VR體驗, 成人娛樂
 license: CC BY 4.0
 ---

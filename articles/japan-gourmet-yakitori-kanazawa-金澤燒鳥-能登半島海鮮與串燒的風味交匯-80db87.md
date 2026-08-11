@@ -6,7 +6,7 @@ category: yakitori
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-yakitori-kanazawa-金澤燒鳥-能登半島海鮮與串燒的風味交匯-80db87.html
 published: 2026-05-21
-quality_score: 6.5
+quality_score: 8.5
 tags: 金澤燒鳥, 能登海鮮, 石川縣美食, 日本串燒, 金澤居酒屋
 license: CC BY 4.0
 ---

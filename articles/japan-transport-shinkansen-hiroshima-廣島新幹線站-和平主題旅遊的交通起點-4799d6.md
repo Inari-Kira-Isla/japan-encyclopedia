@@ -6,7 +6,7 @@ category: shinkansen
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-hiroshima-廣島新幹線站-和平主題旅遊的交通起點-4799d6.html
 published: 2026-04-06
-quality_score: 7.5
+quality_score: 8.7
 tags: 廣島新幹線, 和平旅遊, 山陽新幹線, 原爆圓頂館, 國際交流
 license: CC BY 4.0
 ---

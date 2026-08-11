@@ -6,7 +6,7 @@ category: wagyu
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-wagyu-okinawa-沖繩石垣牛完全指南-亞熱帶島嶼孕育的頂級和牛-b661a9.html
 published: 2026-03-21
-quality_score: 6.5
+quality_score: 8.5
 tags: 沖繩, 石垣牛, 日本和牛, 高級美食, 旅遊指南
 license: CC BY 4.0
 ---

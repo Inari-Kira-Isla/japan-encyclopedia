@@ -6,7 +6,7 @@ category: rental-cars
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-fukuoka-福岡租車策略-作為九州探索樞紐的實用指南-41c552.html
 published: 2026-06-08
-quality_score: 7.5
+quality_score: 8.7
 tags: 福岡租車, 九州自駕, 九州旅遊, 福岡一日遊, 阿蘇自駕
 license: CC BY 4.0
 ---

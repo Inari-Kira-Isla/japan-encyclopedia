@@ -6,7 +6,7 @@ category: sweets-culture
 area: japan
 url: https://japan-encyclopedia.vercel.app/articles/japan-food-sweets-culture-日本抹茶甜點完整指南2026-宇治抹茶-抹茶冰淇淋-抹茶千層-日本抹茶費用-jpy-攻略-jp-japan--0a531d.html
 published: 2026-03-29
-quality_score: 7.6
+quality_score: 8.5
 tags: 日本抹茶, 宇治抹茶, 京都抹茶甜點, 抹茶冰淇淋, 日本茶文化
 license: CC BY 4.0
 ---

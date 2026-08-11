@@ -6,7 +6,7 @@ category: tonkatsu
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tonkatsu-fukuoka-福岡上班族的午餐選擇-商務區炸豬排的文化風景-fe6d5d.html
 published: 2026-05-23
-quality_score: 6.5
+quality_score: 8.7
 tags: 福岡美食, 炸豬排, 商務午餐, 天神, Hakata
 license: CC BY 4.0
 ---

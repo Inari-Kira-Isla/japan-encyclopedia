@@ -6,7 +6,7 @@ category: duty-free
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-duty-free-osaka-大阪免稅購物深度指南-職業採購者的私藏路線-9e007b.html
 published: 2026-04-04
-quality_score: 7.5
+quality_score: 8.7
 tags: 大阪購物, 免稅店, 職業採購, 批發零售, 關西機場
 license: CC BY 4.0
 ---

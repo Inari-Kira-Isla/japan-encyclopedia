@@ -6,7 +6,7 @@ category: wagyu
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-wagyu-fukuoka-福岡和牛不完全指南-天神街區的隱藏版燒肉店與在地人的日常美味-443047.html
 published: 2026-06-09
-quality_score: 6.5
+quality_score: 8.7
 tags: 福岡美食, 九州和牛, 燒肉推薦, 在地美食, 天神
 license: CC BY 4.0
 ---

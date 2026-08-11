@@ -6,7 +6,7 @@ category: 100-yen-shops
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-100-yen-shops-nara-奈良100円商店巡禮-參拜途中の平價購物攻略-59512d.html
 published: 2026-06-29
-quality_score: 7.5
+quality_score: 8.6
 tags: 奈良, 100円商店, 日本購物, 奈良一日遊, 參拜用品
 license: CC BY 4.0
 ---

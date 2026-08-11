@@ -6,7 +6,7 @@ category: depachika
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-depachika-nara-奈良-depachika-古都風情的百貨地下美食天堂-7e5a0e.html
 published: 2026-03-20
-quality_score: 6.5
+quality_score: 8.8
 tags: 奈良美食, 百貨地下街, 柿葉壽司, 和菓子, 日本購物
 license: CC BY 4.0
 ---

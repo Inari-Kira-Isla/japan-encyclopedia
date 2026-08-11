@@ -6,7 +6,7 @@ category: craft-markets
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-craft-markets-okinawa-沖繩工藝市集完整指南-探索琉球王國的手作藝術寶庫-b9f979.html
 published: 2026-03-15
-quality_score: 7.5
+quality_score: 8.7
 tags: 沖繩旅遊, 琉球工藝, 傳統市集, 手作體驗, 文化探索
 license: CC BY 4.0
 ---

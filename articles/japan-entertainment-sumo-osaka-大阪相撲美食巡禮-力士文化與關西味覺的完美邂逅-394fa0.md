@@ -6,7 +6,7 @@ category: sumo
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-osaka-大阪相撲美食巡禮-力士文化與關西味覺的完美邂逅-394fa0.html
 published: 2026-04-03
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪美食, 相撲文化, 關西體驗, 傳統運動, chanko nabe
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: duty-free
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-duty-free-osaka-大阪樂齡購物指南-銀髮族友善免稅店精選與無障礙購物攻略-37b32c.html
 published: 2026-06-12
-quality_score: 7.5
+quality_score: 8.6
 tags: 大阪購物, 銀髮族友善, 無障礙旅遊, 免稅攻略, 關西購物
 license: CC BY 4.0
 ---

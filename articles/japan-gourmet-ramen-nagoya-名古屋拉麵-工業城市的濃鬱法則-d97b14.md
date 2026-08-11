@@ -6,7 +6,7 @@ category: ramen
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-ramen-nagoya-名古屋拉麵-工業城市的濃鬱法則-d97b14.html
 published: 2026-06-08
-quality_score: 6.5
+quality_score: 8.6
 tags: 名古屋拉麵, 中部國際空港, 醬油拉麵, 台灣拉麵, 名古屋美食
 license: CC BY 4.0
 ---

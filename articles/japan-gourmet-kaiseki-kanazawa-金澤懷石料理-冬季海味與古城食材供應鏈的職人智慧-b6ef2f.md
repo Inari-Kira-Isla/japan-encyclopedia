@@ -6,7 +6,7 @@ category: kaiseki
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-kaiseki-kanazawa-金澤懷石料理-冬季海味與古城食材供應鏈的職人智慧-b6ef2f.html
 published: 2026-04-07
-quality_score: 6.5
+quality_score: 9.0
 tags: 金澤美食, 懷石料理, 日本海鮮, 加賀料理, 冬季日本
 license: CC BY 4.0
 ---

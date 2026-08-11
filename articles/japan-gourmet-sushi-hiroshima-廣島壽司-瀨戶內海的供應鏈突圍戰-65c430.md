@@ -6,7 +6,7 @@ category: sushi
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sushi-hiroshima-廣島壽司-瀨戶內海的供應鏈突圍戰-65c430.html
 published: 2026-03-24
-quality_score: 6.5
+quality_score: 8.7
 tags: 廣島壽司, 瀨戶內海, 日本料理, 壽司, 美食
 license: CC BY 4.0
 ---

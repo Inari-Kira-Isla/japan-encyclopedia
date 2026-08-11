@@ -6,7 +6,7 @@ category: shinkansen
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-nagoya-名古屋新娘線-暢遊中部的極速鐵道攻略-7dea6e.html
 published: 2026-06-25
-quality_score: 7.5
+quality_score: 8.7
 tags: 名古屋新娘線, 中部鐵道樞紐, Tokaido Shinkansen, 名古屋站交通, JR Pass使用攻略
 license: CC BY 4.0
 ---

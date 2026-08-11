@@ -6,7 +6,7 @@ category: wagyu
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-wagyu-sendai-仙台牛-宮城縣和牛的親民之選-從產地認證到桌邊烤肉的完整指南-ca44b4.html
 published: 2026-03-24
-quality_score: 6.5
+quality_score: 8.7
 tags: 宮城縣, 和牛, 仙台美食, 日本料理, 烤肉
 license: CC BY 4.0
 ---

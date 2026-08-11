@@ -6,7 +6,7 @@ category: business-hotels
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-business-hotels-kyoto-京都商務酒店完全指南-車站周邊商務住宿精選推薦-116aff.html
 published: 2026-06-23
-quality_score: 6.5
+quality_score: 8.5
 tags: 京都商務酒店, 京都住宿, 京都出差, 商務旅行, 關西商務
 license: CC BY 4.0
 ---

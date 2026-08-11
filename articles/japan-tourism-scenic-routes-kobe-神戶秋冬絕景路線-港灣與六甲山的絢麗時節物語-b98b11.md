@@ -6,7 +6,7 @@ category: scenic-routes
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-kobe-神戶秋冬絕景路線-港灣與六甲山的絢麗時節物語-b98b11.html
 published: 2026-06-07
-quality_score: 6.5
+quality_score: 8.7
 tags: 神戶, 風景道路, 秋冬, 攝影, 六甲山
 license: CC BY 4.0
 ---

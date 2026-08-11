@@ -6,7 +6,7 @@ category: duty-free
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-duty-free-kanazawa-金澤免稅購物完全指南-獻給長輩的質感伴手禮-c6ca72.html
 published: 2026-06-27
-quality_score: 7.5
+quality_score: 8.6
 tags: 金澤免稅, 日本伴手禮, 銀髮族旅遊, 金箔工藝, 茶道特產
 license: CC BY 4.0
 ---

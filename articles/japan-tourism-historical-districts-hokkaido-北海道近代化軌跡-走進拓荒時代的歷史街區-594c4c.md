@@ -6,7 +6,7 @@ category: historical-districts
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-hokkaido-北海道近代化軌跡-走進拓荒時代的歷史街區-594c4c.html
 published: 2026-06-19
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道歷史街區, 小樽運河, 函館元町, 札幌近代化, 北海道拓荒
 license: CC BY 4.0
 ---

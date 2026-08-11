@@ -6,7 +6,7 @@ category: nature-trails
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-kyoto-京都晨間攝影步道-日出時分的古都山林秘境-f949b0.html
 published: 2026-06-20
-quality_score: 6.5
+quality_score: 8.6
 tags: 京都自然步道, 京都登山, 京都攝影, 鞍馬山, 伏見稻荷
 license: CC BY 4.0
 ---

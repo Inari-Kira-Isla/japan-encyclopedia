@@ -6,7 +6,7 @@ category: shinkansen
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-kyoto-京都車站-關西門戶的新幹線樞紐全攻略-152f4e.html
 published: 2026-06-09
-quality_score: 7.5
+quality_score: 8.7
 tags: 京都車站, 關西交通, JR Pass, 京都旅遊, 新干线
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: ferries
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-ferries-hiroshima-廣島渡輪深度遊-從港口出發的瀨戶內海藝術跳島攻略-be5f58.html
 published: 2026-07-06
-quality_score: 7.5
+quality_score: 8.5
 tags: 廣島渡輪, 瀨戶內海, 兔子島, 藝術跳島, 日本自由行
 license: CC BY 4.0
 ---

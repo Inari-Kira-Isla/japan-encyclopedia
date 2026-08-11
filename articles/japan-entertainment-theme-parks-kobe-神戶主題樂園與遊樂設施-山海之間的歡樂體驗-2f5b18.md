@@ -6,7 +6,7 @@ category: theme-parks
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-theme-parks-kobe-神戶主題樂園與遊樂設施-山海之間的歡樂體驗-2f5b18.html
 published: 2026-06-02
-quality_score: 6.5
+quality_score: 8.7
 tags: 神戶主題樂園, 神戶親子遊, 六甲山牧場, 神戶港, 大阪周邊
 license: CC BY 4.0
 ---

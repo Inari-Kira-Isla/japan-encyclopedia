@@ -6,7 +6,7 @@ category: vintage-thrift
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-vintage-thrift-nagoya-名古屋機能古著巡禮-從金山步行的實用時尚挖寶指南-625cc3.html
 published: 2026-06-24
-quality_score: 7.5
+quality_score: 8.7
 tags: 名古屋古著, 古著購物, 日本中部, 金山站, 機能古著
 license: CC BY 4.0
 ---

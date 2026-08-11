@@ -6,7 +6,7 @@ category: love-hotels
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-love-hotels-kanazawa-金澤文化之旅新住宿選擇-藝術感休憩飯店完全指南-ca0124.html
 published: 2026-03-27
-quality_score: 6.5
+quality_score: 8.6
 tags: 金澤住宿, Love Hotels, 文化旅遊, 情侶住宿, 北陸旅行
 license: CC BY 4.0
 ---

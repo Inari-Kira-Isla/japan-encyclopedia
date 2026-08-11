@@ -6,7 +6,7 @@ category: street-food
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-street-food-kyoto-京都清晨的銅板味覺-當地人私藏的朝市散步地圖-896a3d.html
 published: 2026-06-07
-quality_score: 6.5
+quality_score: 8.7
 tags: 京都, 街頭美食, 朝市, 銅板美食, 在地體驗
 license: CC BY 4.0
 ---

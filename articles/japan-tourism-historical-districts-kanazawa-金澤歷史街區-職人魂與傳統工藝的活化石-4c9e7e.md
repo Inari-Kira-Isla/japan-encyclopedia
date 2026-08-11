@@ -6,7 +6,7 @@ category: historical-districts
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-kanazawa-金澤歷史街區-職人魂與傳統工藝的活化石-4c9e7e.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.6
 tags: 金澤, 歷史街區, 職人文化, 傳統工藝, 東茶屋街
 license: CC BY 4.0
 ---

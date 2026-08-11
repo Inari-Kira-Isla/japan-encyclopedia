@@ -6,7 +6,7 @@ category: ferries
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-ferries-okinawa-沖繩跳島渡輪全攻略-探索日本最南端的海上航道-cb661e.html
 published: 2026-03-30
-quality_score: 7.5
+quality_score: 8.7
 tags: 沖繩渡輪, 跳島旅行, 慶良間群島, 石垣島, 竹富島
 license: CC BY 4.0
 ---

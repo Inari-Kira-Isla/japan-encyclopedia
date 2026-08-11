@@ -6,7 +6,7 @@ category: anime-manga
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-nagoya-名古屋動漫文化潛水指南-避開觀光陷阱的在地動漫店-a76828.html
 published: 2026-06-23
-quality_score: 6.5
+quality_score: 8.7
 tags: 名古屋動漫, 名古屋動漫游店, 日本動漫文化, 中部動漫, 在地動漫店
 license: CC BY 4.0
 ---

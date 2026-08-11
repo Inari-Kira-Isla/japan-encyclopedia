@@ -6,7 +6,7 @@ category: urban-landmark
 area: japan
 url: https://japan-encyclopedia.vercel.app/articles/japan-attractions-urban-landmark-東京澀谷完整指南2026-澀谷scramble交叉路口-澀谷sky-109-東京最繁忙街區費用-caa77d.html
 published: 2026-04-28
-quality_score: 7.6
+quality_score: 8.4
 tags: 澀谷, 澀谷scramble, 澀谷Sky, ハチ公, 東京澀谷
 license: CC BY 4.0
 ---

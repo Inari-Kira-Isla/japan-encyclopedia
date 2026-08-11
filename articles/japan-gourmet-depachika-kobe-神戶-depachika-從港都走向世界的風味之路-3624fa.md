@@ -6,7 +6,7 @@ category: depachika
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-depachika-kobe-神戶-depachika-從港都走向世界的風味之路-3624fa.html
 published: 2026-06-13
-quality_score: 6.5
+quality_score: 8.7
 tags: 神戶, Depachika, 百貨地下食品, 神戶牛, 清酒
 license: CC BY 4.0
 ---

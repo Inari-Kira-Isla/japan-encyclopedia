@@ -6,7 +6,7 @@ category: castle-towns
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-castle-towns-kobe-神戶城下町-從武家商業中心到國際港都的華麗轉身-f4f8c4.html
 published: 2026-04-01
-quality_score: 6.5
+quality_score: 8.8
 tags: 神戶, 城下町, 兵庫津, 武家屋敷, 開港歷史
 license: CC BY 4.0
 ---

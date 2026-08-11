@@ -6,7 +6,7 @@ category: kaiseki
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-kaiseki-osaka-大阪會席料理-千元以下的道地割烹體驗-9b6fcf.html
 published: 2026-05-24
-quality_score: 6.5
+quality_score: 8.8
 tags: 大阪美食, 會席料理, 關西料理, 日本料理, 割烹
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: depachika
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-depachika-hiroshima-廣島depachika-當生活的味道-1cd3f0.html
 published: 2026-05-20
-quality_score: 6.5
+quality_score: 8.6
 tags: 廣島, depachika, 瀨戶內海, 牡蠣, 鄉土料理
 license: CC BY 4.0
 ---

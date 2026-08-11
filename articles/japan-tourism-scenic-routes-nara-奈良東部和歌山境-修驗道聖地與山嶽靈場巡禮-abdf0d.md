@@ -6,7 +6,7 @@ category: scenic-routes
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-nara-奈良東部和歌山境-修驗道聖地與山嶽靈場巡禮-abdf0d.html
 published: 2026-06-23
-quality_score: 6.5
+quality_score: 8.8
 tags: 奈良, 風景道路, 修驗道, 山岳靈場, 吉野山
 license: CC BY 4.0
 ---

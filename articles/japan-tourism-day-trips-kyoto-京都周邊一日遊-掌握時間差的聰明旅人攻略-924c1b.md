@@ -6,7 +6,7 @@ category: day-trips
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-kyoto-京都周邊一日遊-掌握時間差的聰明旅人攻略-924c1b.html
 published: 2026-03-30
-quality_score: 6.5
+quality_score: 8.8
 tags: 京都一日遊, 時間差攻略, 關西深度遊, 早晨出發, 冷門景點
 license: CC BY 4.0
 ---

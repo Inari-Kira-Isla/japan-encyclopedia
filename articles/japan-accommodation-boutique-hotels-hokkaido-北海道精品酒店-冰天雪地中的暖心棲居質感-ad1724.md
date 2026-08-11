@@ -6,7 +6,7 @@ category: boutique-hotels
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-hokkaido-北海道精品酒店-冰天雪地中的暖心棲居質感-ad1724.html
 published: 2026-06-02
-quality_score: 6.5
+quality_score: 8.6
 tags: 北海道, 精品住宿, 小樽, 登別溫泉, 洞爺湖
 license: CC BY 4.0
 ---

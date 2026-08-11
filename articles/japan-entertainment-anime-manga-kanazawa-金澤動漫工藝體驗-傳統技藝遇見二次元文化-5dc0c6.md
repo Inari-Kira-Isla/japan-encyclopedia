@@ -6,7 +6,7 @@ category: anime-manga
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-kanazawa-金澤動漫工藝體驗-傳統技藝遇見二次元文化-5dc0c6.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤, 動漫文化, 傳統工藝, 體驗旅遊, 文化融合
 license: CC BY 4.0
 ---

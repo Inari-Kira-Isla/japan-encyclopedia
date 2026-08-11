@@ -6,7 +6,7 @@ category: temples-shrines
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-temples-shrines-hokkaido-北海道神社寺院時間線-從屯墾到現代的百年足跡-ee6457.html
 published: 2026-06-08
-quality_score: 6.5
+quality_score: 8.8
 tags: 北海道, 神社, 寺院, 拓荒, 歷史
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: historical-districts
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-kobe-神戶歷史街區-港都風華的味覺漫步-c4e3c3.html
 published: 2026-06-24
-quality_score: 6.5
+quality_score: 8.4
 tags: 神戶, 歷史街區, 異人館, 港都, 明治時代
 license: CC BY 4.0
 ---

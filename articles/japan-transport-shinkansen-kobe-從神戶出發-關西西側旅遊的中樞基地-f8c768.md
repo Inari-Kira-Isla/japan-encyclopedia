@@ -6,7 +6,7 @@ category: shinkansen
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-kobe-從神戶出發-關西西側旅遊的中樞基地-f8c768.html
 published: 2026-06-16
-quality_score: 7.5
+quality_score: 8.6
 tags: 神戶, 關西鐵道, 新幹綫, 姬路城, 城崎溫泉
 license: CC BY 4.0
 ---

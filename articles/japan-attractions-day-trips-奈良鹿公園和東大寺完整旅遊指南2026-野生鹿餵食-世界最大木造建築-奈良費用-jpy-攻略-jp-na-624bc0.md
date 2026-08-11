@@ -6,7 +6,7 @@ category: day-trips
 area: japan
 url: https://japan-encyclopedia.vercel.app/articles/japan-attractions-day-trips-奈良鹿公園和東大寺完整旅遊指南2026-野生鹿餵食-世界最大木造建築-奈良費用-jpy-攻略-jp-na-624bc0.html
 published: 2026-04-07
-quality_score: 7.1
+quality_score: 8.8
 tags: 奈良鹿公園, 東大寺, 奈良旅遊, 春日大社, 奈良一日遊
 license: CC BY 4.0
 ---

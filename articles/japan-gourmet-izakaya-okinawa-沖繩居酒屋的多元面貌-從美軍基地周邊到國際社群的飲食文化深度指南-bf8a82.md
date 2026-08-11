@@ -6,7 +6,7 @@ category: izakaya
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-izakaya-okinawa-沖繩居酒屋的多元面貌-從美軍基地周邊到國際社群的飲食文化深度指南-bf8a82.html
 published: 2026-06-24
-quality_score: 6.5
+quality_score: 8.7
 tags: 沖繩居酒屋, 泡盛, 那霸美食, 美軍基地文化, 塔可飯
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: cycling
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-okinawa-沖繩單車漫遊-亞熱帶島嶼的海岸線與古城之路-47b5df.html
 published: 2026-06-12
-quality_score: 7.5
+quality_score: 8.6
 tags: 沖繩單車, 沖繩自行車, 沖繩海岸線, gusuku, 亞熱帶騎行
 license: CC BY 4.0
 ---

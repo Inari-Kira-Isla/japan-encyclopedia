@@ -6,7 +6,7 @@ category: sushi
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sushi-nagoya-名古屋壽司-工業之都的匠人哲學-f49e9b.html
 published: 2026-06-20
-quality_score: 6.5
+quality_score: 8.9
 tags: 名古屋壽司, 名古屋美食, 日本壽司, 中部地方美食, 伊勢灣海鮮
 license: CC BY 4.0
 ---

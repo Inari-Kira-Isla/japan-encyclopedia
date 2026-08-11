@@ -6,7 +6,7 @@ category: buses
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-buses-kobe-神戶的高速巴士-跨城移動的實用選擇-04504e.html
 published: 2026-05-23
-quality_score: 7.5
+quality_score: 8.9
 tags: 神戶交通, 高速巴士, 關西機場, 利木巴士, 城際巴士
 license: CC BY 4.0
 ---

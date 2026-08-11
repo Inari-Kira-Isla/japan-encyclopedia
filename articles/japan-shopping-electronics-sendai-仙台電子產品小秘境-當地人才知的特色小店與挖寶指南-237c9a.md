@@ -6,7 +6,7 @@ category: electronics
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-electronics-sendai-仙台電子產品小秘境-當地人才知的特色小店與挖寶指南-237c9a.html
 published: 2026-06-18
-quality_score: 7.5
+quality_score: 8.3
 tags: 仙台電子產品, 二手相機, 音響耳機, 戶外電子裝備, 東北挖寶指南
 license: CC BY 4.0
 ---

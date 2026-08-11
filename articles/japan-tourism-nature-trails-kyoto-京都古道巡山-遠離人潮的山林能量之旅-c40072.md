@@ -6,7 +6,7 @@ category: nature-trails
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-kyoto-京都古道巡山-遠離人潮的山林能量之旅-c40072.html
 published: 2026-07-04
-quality_score: 6.5
+quality_score: 8.7
 tags: 京都自然步道, 古道徒步, 鞍馬山, 比叡山, 能量景點
 license: CC BY 4.0
 ---

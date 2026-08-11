@@ -6,7 +6,7 @@ category: ski-resorts
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-ski-resorts-sendai-仙台滑雪度假村完全指南-東北粉雪秘境與在地人的隱藏雪場-73ae9c.html
 published: 2026-05-31
-quality_score: 6.5
+quality_score: 8.6
 tags: 仙台滑雪, 東北滑雪, 日本滑雪推薦, 藏王溫泉, 粉雪
 license: CC BY 4.0
 ---

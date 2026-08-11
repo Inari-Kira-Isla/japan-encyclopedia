@@ -6,7 +6,7 @@ category: depachika
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-depachika-osaka-大阪depachika的第二種玩法-local視角下的日常美食探險-b65a35.html
 published: 2026-06-03
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪美食, Depachika, 地下食品, local推薦, 關西料理
 license: CC BY 4.0
 ---

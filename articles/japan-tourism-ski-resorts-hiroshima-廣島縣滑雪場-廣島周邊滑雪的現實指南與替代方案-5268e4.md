@@ -6,7 +6,7 @@ category: ski-resorts
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-ski-resorts-hiroshima-廣島縣滑雪場-廣島周邊滑雪的現實指南與替代方案-5268e4.html
 published: 2026-05-31
-quality_score: 6.5
+quality_score: 8.4
 tags: 廣島滑雪, 廣島周邊滑雪, 山口縣滑雪場, 日本中國地方滑雪, 廣島冬季旅遊
 license: CC BY 4.0
 ---

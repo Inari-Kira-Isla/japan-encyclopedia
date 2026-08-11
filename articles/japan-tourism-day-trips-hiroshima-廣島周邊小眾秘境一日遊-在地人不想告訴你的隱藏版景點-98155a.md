@@ -6,7 +6,7 @@ category: day-trips
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-hiroshima-廣島周邊小眾秘境一日遊-在地人不想告訴你的隱藏版景點-98155a.html
 published: 2026-07-03
-quality_score: 6.5
+quality_score: 8.7
 tags: 廣島一日遊, 兔子島, 吳市海事, 竹原老街, 尾道自行車
 license: CC BY 4.0
 ---

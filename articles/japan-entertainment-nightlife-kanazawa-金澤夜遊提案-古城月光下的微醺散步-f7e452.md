@@ -6,7 +6,7 @@ category: nightlife
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-kanazawa-金澤夜遊提案-古城月光下的微醺散步-f7e452.html
 published: 2026-06-13
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤夜生活, 石川縣娛樂, 北陸古城體驗, 日本酒吧推薦, 金澤美食
 license: CC BY 4.0
 ---

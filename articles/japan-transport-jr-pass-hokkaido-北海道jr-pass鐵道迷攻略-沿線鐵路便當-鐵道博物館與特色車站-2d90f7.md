@@ -6,7 +6,7 @@ category: jr-pass
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-jr-pass-hokkaido-北海道jr-pass鐵道迷攻略-沿線鐵路便當-鐵道博物館與特色車站-2d90f7.html
 published: 2026-06-07
-quality_score: 7.5
+quality_score: 8.6
 tags: 北海道, JR Pass, 铁道迷, 铁道便当, 北海道铁路周游券
 license: CC BY 4.0
 ---

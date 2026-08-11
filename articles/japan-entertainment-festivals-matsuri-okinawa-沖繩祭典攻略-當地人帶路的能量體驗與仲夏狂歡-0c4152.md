@@ -6,7 +6,7 @@ category: festivals-matsuri
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-festivals-matsuri-okinawa-沖繩祭典攻略-當地人帶路的能量體驗與仲夏狂歡-0c4152.html
 published: 2026-06-15
-quality_score: 6.5
+quality_score: 8.7
 tags: 沖繩祭典, 夏日祭典, 盂蘭盆舞, 那霸大綱曳, 北谷海灘祭
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: garden-parks
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-okinawa-沖繩花園物語-亞熱帶風土孕育的庭院美學-801459.html
 published: 2026-06-17
-quality_score: 6.5
+quality_score: 8.8
 tags: 沖繩花園, 亞熱帶風情, 自然旅遊, 庭院美學, 琉球文化
 license: CC BY 4.0
 ---

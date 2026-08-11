@@ -6,7 +6,7 @@ category: cultural-experience
 area: japan
 url: https://japan-encyclopedia.vercel.app/articles/japan-attractions-cultural-experience-日本傳統工藝完整指南2026-池坊花道-盆栽-和紙-傳統藝術體驗費用-jpy-攻略--c8fbf5.html
 published: 2026-03-29
-quality_score: 7.6
+quality_score: 8.4
 tags: 日本花道體驗, 日本盆栽, 日本和紙, 日本傳統工藝, 友禪染
 license: CC BY 4.0
 ---

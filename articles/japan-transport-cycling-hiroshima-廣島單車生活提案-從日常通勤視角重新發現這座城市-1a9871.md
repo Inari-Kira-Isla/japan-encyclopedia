@@ -6,7 +6,7 @@ category: cycling
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-hiroshima-廣島單車生活提案-從日常通勤視角重新發現這座城市-1a9871.html
 published: 2026-03-29
-quality_score: 7.5
+quality_score: 8.6
 tags: 廣島單車, 廣島自由行, 城市騎行, 日本單車旅遊, 廣島交通
 license: CC BY 4.0
 ---

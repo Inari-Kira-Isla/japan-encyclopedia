@@ -6,7 +6,7 @@ category: sumo
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-nara-奈良相撲文化-古都品味橫綱級的力士美食體驗-b4ace9.html
 published: 2026-03-20
-quality_score: 6.5
+quality_score: 8.7
 tags: 奈良美食, 相撲文化, ちゃんこ鍋, 白鵬, 日本傳統
 license: CC BY 4.0
 ---

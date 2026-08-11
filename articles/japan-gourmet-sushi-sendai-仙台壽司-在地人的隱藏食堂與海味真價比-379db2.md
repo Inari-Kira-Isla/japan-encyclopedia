@@ -6,7 +6,7 @@ category: sushi
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sushi-sendai-仙台壽司-在地人的隱藏食堂與海味真價比-379db2.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.9
 tags: 仙台美食, 壽司, 在地小店, 東北料理, 性價比
 license: CC BY 4.0
 ---

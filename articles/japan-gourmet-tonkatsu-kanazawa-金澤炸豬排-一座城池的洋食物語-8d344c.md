@@ -6,7 +6,7 @@ category: tonkatsu
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tonkatsu-kanazawa-金澤炸豬排-一座城池的洋食物語-8d344c.html
 published: 2026-05-25
-quality_score: 6.5
+quality_score: 8.9
 tags: 金澤, 豚℃, 洋食, 北陸, 日本料理
 license: CC BY 4.0
 ---

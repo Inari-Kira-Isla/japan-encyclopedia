@@ -6,7 +6,7 @@ category: electronics
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-electronics-hokkaido-北海道電子產品購物指南-極光攝影與嚴寒裝備專家級攻略-d4ad0d.html
 published: 2026-06-06
-quality_score: 7.5
+quality_score: 8.6
 tags: 北海道電子產品, 極光攝影, 冬季戶外裝備, 低溫電子學, 相機維修
 license: CC BY 4.0
 ---

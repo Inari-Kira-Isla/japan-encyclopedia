@@ -6,7 +6,7 @@ category: yakitori
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-yakitori-nagoya-名古屋燒鳥-味噌之都的醬汁基因密碼-bd9616.html
 published: 2026-05-24
-quality_score: 6.5
+quality_score: 8.6
 tags: 名古屋美食, 燒鳥, 味噌, 日本料理, 在地美食
 license: CC BY 4.0
 ---

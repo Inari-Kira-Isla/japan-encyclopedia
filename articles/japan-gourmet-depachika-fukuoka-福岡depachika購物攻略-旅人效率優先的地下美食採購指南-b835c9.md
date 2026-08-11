@@ -6,7 +6,7 @@ category: depachika
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-depachika-fukuoka-福岡depachika購物攻略-旅人效率優先的地下美食採購指南-b835c9.html
 published: 2026-06-16
-quality_score: 6.5
+quality_score: 8.7
 tags: 福岡Depachika, 九州美食, 博多名產, 地下食品売場, 福岡購物
 license: CC BY 4.0
 ---

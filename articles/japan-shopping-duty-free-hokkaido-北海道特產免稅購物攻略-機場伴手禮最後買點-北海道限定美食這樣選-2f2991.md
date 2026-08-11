@@ -6,7 +6,7 @@ category: duty-free
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-duty-free-hokkaido-北海道特產免稅購物攻略-機場伴手禮最後買點-北海道限定美食這樣選-2f2991.html
 published: 2026-06-14
-quality_score: 7.5
+quality_score: 8.5
 tags: 北海道免稅店, 新千歲機場, 北海道伴手禮, 白色戀人, 馬糞海膽
 license: CC BY 4.0
 ---

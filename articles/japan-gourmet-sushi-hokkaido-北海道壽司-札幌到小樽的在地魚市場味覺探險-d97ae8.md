@@ -6,7 +6,7 @@ category: sushi
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sushi-hokkaido-北海道壽司-札幌到小樽的在地魚市場味覺探險-d97ae8.html
 published: 2026-06-16
-quality_score: 6.5
+quality_score: 8.5
 tags: 北海道壽司, 札幌壽司, 小樽壽司, 北海道美食, 日本壽司
 license: CC BY 4.0
 ---

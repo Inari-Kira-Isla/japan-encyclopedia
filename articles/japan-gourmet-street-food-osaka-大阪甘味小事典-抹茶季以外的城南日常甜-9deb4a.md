@@ -6,7 +6,7 @@ category: street-food
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-street-food-osaka-大阪甘味小事典-抹茶季以外的城南日常甜-9deb4a.html
 published: 2026-06-04
-quality_score: 6.5
+quality_score: 9.0
 tags: 大阪, 甘味, 和果子, 抹茶, 城南
 license: CC BY 4.0
 ---

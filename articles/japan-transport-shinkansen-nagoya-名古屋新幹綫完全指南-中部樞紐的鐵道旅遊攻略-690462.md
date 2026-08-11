@@ -6,7 +6,7 @@ category: shinkansen
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-nagoya-名古屋新幹綫完全指南-中部樞紐的鐵道旅遊攻略-690462.html
 published: 2026-05-31
-quality_score: 7.5
+quality_score: 8.6
 tags: 名古屋新幹綫, 日本中部旅遊, 名古屋交通, JR东海道新幹綫, 名古屋駅
 license: CC BY 4.0
 ---

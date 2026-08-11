@@ -6,7 +6,7 @@ category: nightlife
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-kyoto-京都夜遊指南-古都的微醺哲學-8da427.html
 published: 2026-06-21
-quality_score: 6.5
+quality_score: 8.8
 tags: 京都夜生活, 京都酒吧, 先斗町, 伏見清酒, 京都居酒屋
 license: CC BY 4.0
 ---

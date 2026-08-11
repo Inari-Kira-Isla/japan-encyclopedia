@@ -6,7 +6,7 @@ category: gaming-arcades
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-gaming-arcades-hokkaido-北海道遊戲中心-零下十度的室內熱血樂園-760e3b.html
 published: 2026-07-01
-quality_score: 6.5
+quality_score: 8.9
 tags: 北海道, 遊戲中心, 街機, 薄野, 札幌
 license: CC BY 4.0
 ---

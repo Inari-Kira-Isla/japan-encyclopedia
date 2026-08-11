@@ -6,7 +6,7 @@ category: love-hotels
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-love-hotels-nara-奈良休憩住宿攻略-往返關西新城的一天情侶旅行首選-ceae96.html
 published: 2026-06-04
-quality_score: 6.5
+quality_score: 8.8
 tags: 奈良住宿, 情侶旅行, 關西自由行, Love Hotel, 高CP值住宿
 license: CC BY 4.0
 ---

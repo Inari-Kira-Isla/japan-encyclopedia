@@ -6,7 +6,7 @@ category: scenic-routes
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-hiroshima-廣島田園秘徑-鄉間小鎮的四季絕景之路-3c7813.html
 published: 2026-06-03
-quality_score: 6.5
+quality_score: 8.7
 tags: 廣島自駕遊, 日本鄉間風景, 廣島秘境, 日本隱藏景點, 瀨戶內海
 license: CC BY 4.0
 ---

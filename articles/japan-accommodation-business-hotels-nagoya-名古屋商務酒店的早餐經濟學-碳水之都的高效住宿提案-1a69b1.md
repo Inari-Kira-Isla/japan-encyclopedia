@@ -6,7 +6,7 @@ category: business-hotels
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-business-hotels-nagoya-名古屋商務酒店的早餐經濟學-碳水之都的高效住宿提案-1a69b1.html
 published: 2026-06-28
-quality_score: 6.5
+quality_score: 8.7
 tags: 名古屋商務酒店, 中部國際空港, 名古屋車站, 商務出差, 碳水之都
 license: CC BY 4.0
 ---

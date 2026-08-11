@@ -6,7 +6,7 @@ category: gaming-arcades
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-gaming-arcades-kanazawa-金澤遊戲中心-淺草狂熱以外的加賀百萬石遊樂體驗-9f98ba.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤遊戲中心, 金澤親子遊, 金澤夜生活, 石川縣遊樂, 加賀百萬石
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: whisky-craft-beer
 area: japan
 url: https://japan-encyclopedia.vercel.app/articles/japan-dining-whisky-craft-beer-日本威士忌和精釀啤酒完整指南2026-山崎-響-餘市-日本威士忌與啤酒費用攻略-jp-japane-255b51.html
 published: 2026-04-01
-quality_score: 7.6
+quality_score: 8.5
 tags: 日本威士忌, 山崎蒸餾所, 余市蒸餾所, 日本精釀啤酒, 白州威士忌
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: anime-manga
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-kobe-神戶漫畫創作工作室-港都漫畫家的私房創作空間-d90e13-1779408615.html
 published: 2026-05-22
-quality_score: 6.5
+quality_score: 8.7
 tags: 神戶動漫, 神戶漫畫, 插畫教室, 漫畫工作室, 神戶 kreativ
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: ferries
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-ferries-osaka-大阪渡輪完全指南-從大阪港通往瀨戶內海藝術島嶼的水上門戶-f360dd.html
 published: 2026-06-01
-quality_score: 7.5
+quality_score: 8.8
 tags: 大阪交通, 大阪港, 渡輪, 瀨戶內海, 四國旅行
 license: CC BY 4.0
 ---

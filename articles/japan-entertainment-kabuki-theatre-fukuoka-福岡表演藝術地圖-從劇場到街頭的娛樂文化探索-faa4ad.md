@@ -6,7 +6,7 @@ category: kabuki-theatre
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-kabuki-theatre-fukuoka-福岡表演藝術地圖-從劇場到街頭的娛樂文化探索-faa4ad.html
 published: 2026-06-06
-quality_score: 6.5
+quality_score: 8.8
 tags: 福岡娛樂, 屋台文化, 博多表演藝術, 福岡夜景, 九州美食
 license: CC BY 4.0
 ---

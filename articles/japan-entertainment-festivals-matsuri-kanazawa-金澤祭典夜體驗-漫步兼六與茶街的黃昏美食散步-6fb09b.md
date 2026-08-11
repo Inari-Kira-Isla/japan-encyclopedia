@@ -6,7 +6,7 @@ category: festivals-matsuri
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-festivals-matsuri-kanazawa-金澤祭典夜體驗-漫步兼六與茶街的黃昏美食散步-6fb09b.html
 published: 2026-06-18
-quality_score: 6.5
+quality_score: 8.9
 tags: 金澤祭典, 加賀百萬石, 兼六園夜燈, 片町茶街, 東茶屋街
 license: CC BY 4.0
 ---

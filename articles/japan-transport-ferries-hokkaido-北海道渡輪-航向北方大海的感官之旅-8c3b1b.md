@@ -6,7 +6,7 @@ category: ferries
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-ferries-hokkaido-北海道渡輪-航向北方大海的感官之旅-8c3b1b.html
 published: 2026-06-10
-quality_score: 7.5
+quality_score: 6.8
 tags: 北海道, 渡輪, 日本交通, 北海道交通, 海上移動
 license: CC BY 4.0
 ---

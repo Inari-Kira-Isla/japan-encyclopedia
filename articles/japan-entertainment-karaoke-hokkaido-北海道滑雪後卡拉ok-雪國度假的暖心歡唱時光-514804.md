@@ -6,7 +6,7 @@ category: karaoke
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-karaoke-hokkaido-北海道滑雪後卡拉ok-雪國度假的暖心歡唱時光-514804.html
 published: 2026-06-09
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道卡拉OK, 二世谷滑雪, 札幌娛樂, 雪國體驗, 北海道冬季
 license: CC BY 4.0
 ---

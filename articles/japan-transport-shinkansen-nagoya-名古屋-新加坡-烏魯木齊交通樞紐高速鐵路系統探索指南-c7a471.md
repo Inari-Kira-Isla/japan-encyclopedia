@@ -6,7 +6,7 @@ category: shinkansen
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-nagoya-名古屋-新加坡-烏魯木齊交通樞紐高速鐵路系統探索指南-c7a471.html
 published: 2026-05-22
-quality_score: 7.5
+quality_score: 8.7
 tags: 名古屋, 新幹線, 鐵道旅行, 中部地方, 日本鐵道
 license: CC BY 4.0
 ---

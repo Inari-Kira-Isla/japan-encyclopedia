@@ -6,7 +6,7 @@ category: beauty-cosmetics
 area: japan
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-beauty-cosmetics-日本美妝和護膚完整指南2026-松本清-cosme-藥妝店-日本美容費用-jpy-攻略-jp-j-5bdfcf.html
 published: 2026-03-29
-quality_score: 7.1
+quality_score: 8.5
 tags: 日本美妝購物, 松本清藥妝, 日本護膚品, 日本藥妝必買, 日本美容旅遊
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: nightlife
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-hokkaido-北海道夜生活-札幌在地人的溫暖冬夜地圖-070e47.html
 published: 2026-06-27
-quality_score: 6.5
+quality_score: 8.5
 tags: 北海道夜生活, 札幌酒吧, 立飲店, 円山, 螃蟹料理
 license: CC BY 4.0
 ---

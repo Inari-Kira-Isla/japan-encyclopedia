@@ -6,7 +6,7 @@ category: izakaya
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-izakaya-hiroshima-廣島居酒屋的深度體驗-和平之城的小巷美味地圖-18eb20.html
 published: 2026-06-27
-quality_score: 6.5
+quality_score: 8.9
 tags: 廣島居酒屋, 廣島美食, 瀨戶內海海產, 廣島燒, 日本在地體驗
 license: CC BY 4.0
 ---

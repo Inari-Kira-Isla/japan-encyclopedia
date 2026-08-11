@@ -6,7 +6,7 @@ category: rental-cars
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-tokyo-東京租車反向思考-什麼情況下值得放棄地鐵改自駕-208604.html
 published: 2026-07-04
-quality_score: 7.5
+quality_score: 8.6
 tags: 東京租車, 關東自駕, 東京周邊一日遊, 富士山自駕, 日光鬼怒川
 license: CC BY 4.0
 ---

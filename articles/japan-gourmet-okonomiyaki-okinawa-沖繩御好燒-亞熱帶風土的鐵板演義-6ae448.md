@@ -6,7 +6,7 @@ category: okonomiyaki
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-okonomiyaki-okinawa-沖繩御好燒-亞熱帶風土的鐵板演義-6ae448.html
 published: 2026-06-07
-quality_score: 6.5
+quality_score: 8.5
 tags: 沖繩美食, 御好燒, 鐵板料理, 沖繩自由行, 日本料理
 license: CC BY 4.0
 ---

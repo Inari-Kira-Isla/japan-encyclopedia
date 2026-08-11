@@ -6,7 +6,7 @@ category: yakitori
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-yakitori-hokkaido-北海道燒鳥-港都冬夜的在地串燒魅力-d60f28.html
 published: 2026-05-31
-quality_score: 6.5
+quality_score: 9.0
 tags: 北海道燒鳥, 室蘭燒鳥, 小樽美食, 道產食材, 港都美食
 license: CC BY 4.0
 ---

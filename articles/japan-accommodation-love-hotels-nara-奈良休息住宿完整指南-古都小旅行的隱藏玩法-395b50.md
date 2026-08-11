@@ -6,7 +6,7 @@ category: love-hotels
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-love-hotels-nara-奈良休息住宿完整指南-古都小旅行的隱藏玩法-395b50.html
 published: 2026-06-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 奈良憩息, 奈良住宿, 古都旅宿, 奈良一日遊, 情人旅館
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: duty-free
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-duty-free-kanazawa-金澤購物達人帶路-從加賀友禪到箔席・漫步小京都的質感購物地圖-c84103.html
 published: 2026-06-08
-quality_score: 7.5
+quality_score: 8.6
 tags: 金澤免稅, 日本購物, 金箔工藝, 加賀友禪, 北陸購物
 license: CC BY 4.0
 ---

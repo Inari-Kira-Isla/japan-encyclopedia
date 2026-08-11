@@ -6,7 +6,7 @@ category: sake-brewery
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sake-brewery-sendai-仙台清酒釀造廠-探訪宮城的酒藏秘境-5a3a10.html
 published: 2026-03-20
-quality_score: 6.5
+quality_score: 8.7
 tags: 仙台, 清酒, 釀造, 日本東北, 宮城縣
 license: CC BY 4.0
 ---

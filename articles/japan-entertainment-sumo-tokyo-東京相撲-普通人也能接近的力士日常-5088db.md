@@ -6,7 +6,7 @@ category: sumo
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-tokyo-東京相撲-普通人也能接近的力士日常-5088db.html
 published: 2026-05-25
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京相撲, 兩國國技館, 墨田區, 力士文化, 日本伝統運動
 license: CC BY 4.0
 ---

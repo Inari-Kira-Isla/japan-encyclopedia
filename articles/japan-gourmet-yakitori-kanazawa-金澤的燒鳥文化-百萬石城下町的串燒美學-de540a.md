@@ -6,7 +6,7 @@ category: yakitori
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-yakitori-kanazawa-金澤的燒鳥文化-百萬石城下町的串燒美學-de540a.html
 published: 2026-03-30
-quality_score: 6.5
+quality_score: 8.9
 tags: 金澤燒鳥, 加賀料理, 城下町美食, 串燒文化, 日本海食材
 license: CC BY 4.0
 ---

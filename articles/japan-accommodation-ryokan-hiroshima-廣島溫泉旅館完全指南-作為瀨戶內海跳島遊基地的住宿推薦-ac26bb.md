@@ -6,7 +6,7 @@ category: ryokan
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-hiroshima-廣島溫泉旅館完全指南-作為瀨戶內海跳島遊基地的住宿推薦-ac26bb.html
 published: 2026-06-07
-quality_score: 6.5
+quality_score: 8.7
 tags: 廣島溫泉旅馆, 瀨戶內海跳島, 三次溫泉, 宮濱溫泉, HIROSHIMA住宿
 license: CC BY 4.0
 ---

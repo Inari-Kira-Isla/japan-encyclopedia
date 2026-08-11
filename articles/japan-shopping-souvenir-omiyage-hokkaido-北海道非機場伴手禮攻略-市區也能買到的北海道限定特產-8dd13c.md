@@ -6,7 +6,7 @@ category: souvenir-omiyage
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-souvenir-omiyage-hokkaido-北海道非機場伴手禮攻略-市區也能買到的北海道限定特產-8dd13c.html
 published: 2026-06-27
-quality_score: 7.5
+quality_score: 8.6
 tags: 北海道伴手禮, 札幌購物, 非機場免稅, 北海道特產, 北海道自由行
 license: CC BY 4.0
 ---

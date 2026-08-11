@@ -6,7 +6,7 @@ category: minshuku
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-hiroshima-廣島民宿-從和平紀念地到瀨戶內藝術祭的住宿選擇-3ebfb9.html
 published: 2026-06-22
-quality_score: 6.5
+quality_score: 8.6
 tags: 廣島民宿, 宮島住宿, 平和紀念, 瀨戶內海, 廣島蠣
 license: CC BY 4.0
 ---

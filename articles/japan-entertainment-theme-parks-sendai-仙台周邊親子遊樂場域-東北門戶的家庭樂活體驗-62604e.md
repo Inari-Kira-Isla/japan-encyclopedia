@@ -6,7 +6,7 @@ category: theme-parks
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-theme-parks-sendai-仙台周邊親子遊樂場域-東北門戶的家庭樂活體驗-62604e.html
 published: 2026-06-13
-quality_score: 6.5
+quality_score: 8.6
 tags: 仙台主題樂園, 東北親子遊, 日本家庭旅遊, 溫泉體驗, 戶外活動
 license: CC BY 4.0
 ---

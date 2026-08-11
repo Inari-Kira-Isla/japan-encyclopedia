@@ -6,7 +6,7 @@ category: ryokan
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-osaka-大阪微型傳統旅宿-隠身在商圈與巷弄的家庭式溫泉驛站-692161.html
 published: 2026-06-03
-quality_score: 6.5
+quality_score: 8.6
 tags: 大阪, 傳統旅宿, Ryokan, 家庭式住宿, 天王寺
 license: CC BY 4.0
 ---

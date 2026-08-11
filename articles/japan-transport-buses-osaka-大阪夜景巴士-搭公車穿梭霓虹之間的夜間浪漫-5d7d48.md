@@ -6,7 +6,7 @@ category: buses
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-buses-osaka-大阪夜景巴士-搭公車穿梭霓虹之間的夜間浪漫-5d7d48.html
 published: 2026-06-19
-quality_score: 7.5
+quality_score: 8.9
 tags: 大阪夜景, 夜間巴士, 大阪交通, 御堂筋線, 阿倍野HARUKAS
 license: CC BY 4.0
 ---

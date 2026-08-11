@@ -6,7 +6,7 @@ category: scenic-routes
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-kobe-神戶港都風華散步-從異人館到南京町的懷舊味蕾之路-8ca9fe.html
 published: 2026-07-01
-quality_score: 6.5
+quality_score: 8.7
 tags: 神戶, 異人館, 南京町, 港灣風光, 歷史建築
 license: CC BY 4.0
 ---

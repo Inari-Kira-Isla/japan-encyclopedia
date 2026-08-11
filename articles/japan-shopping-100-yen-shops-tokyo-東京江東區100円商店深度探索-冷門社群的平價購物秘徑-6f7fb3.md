@@ -6,7 +6,7 @@ category: 100-yen-shops
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-100-yen-shops-tokyo-東京江東區100円商店深度探索-冷門社群的平價購物秘徑-6f7fb3.html
 published: 2026-07-04
-quality_score: 7.5
+quality_score: 8.7
 tags: 東京100円商店, 江東區購物, 東京平價購物, 東京自由行, 豐洲市場
 license: CC BY 4.0
 ---

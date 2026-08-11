@@ -6,7 +6,7 @@ category: onsen
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-onsen-nara-奈良溫泉-千年古都的禪意湯治體驗-9dbd84.html
 published: 2026-04-06
-quality_score: 6.5
+quality_score: 8.9
 tags: 奈良溫泉, 古都文化, 禪意體驗, 日本溫泉, 奈良旅遊
 license: CC BY 4.0
 ---

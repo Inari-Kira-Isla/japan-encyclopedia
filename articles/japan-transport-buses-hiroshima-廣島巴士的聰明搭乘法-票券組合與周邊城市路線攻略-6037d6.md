@@ -6,7 +6,7 @@ category: buses
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-buses-hiroshima-廣島巴士的聰明搭乘法-票券組合與周邊城市路線攻略-6037d6.html
 published: 2026-03-23
-quality_score: 7.5
+quality_score: 8.3
 tags: 廣島交通, 巴士系統, 票券攻略, 周邊城市, 交通費節省
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: street-food
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-street-food-kyoto-京都街頭美食-千年古都的味蕾冒險-ddf3be.html
 published: 2026-03-15
-quality_score: 6.5
+quality_score: 8.9
 tags: 京都美食, 街頭小吃, 日本旅遊, 京都自由行, 祇園
 license: CC BY 4.0
 ---

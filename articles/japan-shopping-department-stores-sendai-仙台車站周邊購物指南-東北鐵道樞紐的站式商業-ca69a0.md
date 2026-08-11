@@ -6,7 +6,7 @@ category: department-stores
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-department-stores-sendai-仙台車站周邊購物指南-東北鐵道樞紐的站式商業-ca69a0.html
 published: 2026-05-23
-quality_score: 6.5
+quality_score: 8.0
 tags: 仙台, 車站購物, 東北伴手禮, 站式商業, 日本鐵道
 license: CC BY 4.0
 ---

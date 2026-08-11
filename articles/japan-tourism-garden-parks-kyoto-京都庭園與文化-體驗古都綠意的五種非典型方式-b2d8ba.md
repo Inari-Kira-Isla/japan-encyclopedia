@@ -6,7 +6,7 @@ category: garden-parks
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-kyoto-京都庭園與文化-體驗古都綠意的五種非典型方式-b2d8ba.html
 published: 2026-06-23
-quality_score: 6.5
+quality_score: 8.7
 tags: 京都庭園, 日本文化體驗, 古都綠意, 茶道體驗, 禪意庭園
 license: CC BY 4.0
 ---

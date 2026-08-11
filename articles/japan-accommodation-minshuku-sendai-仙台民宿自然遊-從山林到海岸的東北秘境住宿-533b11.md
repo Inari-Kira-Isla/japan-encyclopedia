@@ -6,7 +6,7 @@ category: minshuku
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-sendai-仙台民宿自然遊-從山林到海岸的東北秘境住宿-533b11.html
 published: 2026-05-23
-quality_score: 6.5
+quality_score: 8.5
 tags: 仙台民宿, 東北溫泉, 松島海岸, 秋保溫泉, 自然体験
 license: CC BY 4.0
 ---

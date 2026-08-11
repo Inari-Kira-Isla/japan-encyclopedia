@@ -6,7 +6,7 @@ category: scenic-routes
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-osaka-大阪昭和街區散步-穿越時代的下町風情與人情味之路-c6be6b.html
 published: 2026-06-20
-quality_score: 6.5
+quality_score: 8.9
 tags: 大阪散步, 下町風情, 天王寺新世界, 四天王寺, 昭和街區
 license: CC BY 4.0
 ---

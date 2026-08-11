@@ -6,7 +6,7 @@ category: temples-shrines
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-temples-shrines-sendai-仙台寺廟神社-四季限定的人文風景與隱藏秘境-8ce752.html
 published: 2026-06-07
-quality_score: 6.5
+quality_score: 8.7
 tags: 仙台寺廟, 仙台神社, 東北旅遊, 日本宗教文化, 四季旅遊
 license: CC BY 4.0
 ---

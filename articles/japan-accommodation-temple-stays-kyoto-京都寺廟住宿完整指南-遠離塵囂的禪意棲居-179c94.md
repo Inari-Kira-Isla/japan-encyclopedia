@@ -6,7 +6,7 @@ category: temple-stays
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-temple-stays-kyoto-京都寺廟住宿完整指南-遠離塵囂的禪意棲居-179c94.html
 published: 2026-06-12
-quality_score: 6.5
+quality_score: 8.5
 tags: 京都住宿, 寺廟住宿, 宿坊體驗, 日本佛教文化, 京都自由行
 license: CC BY 4.0
 ---

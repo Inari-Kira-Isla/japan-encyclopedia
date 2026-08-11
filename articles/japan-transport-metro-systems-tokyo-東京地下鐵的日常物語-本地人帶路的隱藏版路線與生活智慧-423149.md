@@ -6,7 +6,7 @@ category: metro-systems
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-tokyo-東京地下鐵的日常物語-本地人帶路的隱藏版路線與生活智慧-423149.html
 published: 2026-06-27
-quality_score: 7.5
+quality_score: 9.0
 tags: 東京地下鐵, 東京交通, Tokyo Metro, 都營地下鐵, 日本交通
 license: CC BY 4.0
 ---

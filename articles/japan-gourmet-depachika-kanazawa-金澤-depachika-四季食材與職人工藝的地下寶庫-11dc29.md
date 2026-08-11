@@ -6,7 +6,7 @@ category: depachika
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-depachika-kanazawa-金澤-depachika-四季食材與職人工藝的地下寶庫-11dc29.html
 published: 2026-04-06
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤美食, 北陸特產, 百貨地下街, 季節限定, 職人工藝
 license: CC BY 4.0
 ---

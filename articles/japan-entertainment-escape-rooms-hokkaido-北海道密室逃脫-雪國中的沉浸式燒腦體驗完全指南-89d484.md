@@ -6,7 +6,7 @@ category: escape-rooms
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-escape-rooms-hokkaido-北海道密室逃脫-雪國中的沉浸式燒腦體驗完全指南-89d484.html
 published: 2026-06-26
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道, 密室逃脫, 札幌, 日本娛樂, 室內活動
 license: CC BY 4.0
 ---

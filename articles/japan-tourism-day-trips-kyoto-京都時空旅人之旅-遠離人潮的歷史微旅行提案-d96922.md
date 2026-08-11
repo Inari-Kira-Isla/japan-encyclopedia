@@ -6,7 +6,7 @@ category: day-trips
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-kyoto-京都時空旅人之旅-遠離人潮的歷史微旅行提案-d96922.html
 published: 2026-06-13
-quality_score: 6.5
+quality_score: 8.7
 tags: 京都一日遊, 關西深度遊, 戰國歷史, 茶文化體驗, 日本文化
 license: CC BY 4.0
 ---

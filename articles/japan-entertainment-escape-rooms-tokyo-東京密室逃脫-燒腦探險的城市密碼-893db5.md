@@ -6,7 +6,7 @@ category: escape-rooms
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-escape-rooms-tokyo-東京密室逃脫-燒腦探險的城市密碼-893db5.html
 published: 2026-06-08
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京娛樂, 密室逃脫, 室內活動, 團體旅遊, 燒腦體驗
 license: CC BY 4.0
 ---

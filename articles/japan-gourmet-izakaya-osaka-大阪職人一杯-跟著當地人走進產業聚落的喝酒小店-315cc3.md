@@ -6,7 +6,7 @@ category: izakaya
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-izakaya-osaka-大阪職人一杯-跟著當地人走進產業聚落的喝酒小店-315cc3.html
 published: 2026-06-30
-quality_score: 6.5
+quality_score: 8.4
 tags: 大阪居酒屋, 職人文化, 產業聚落, 北濱, 阿波座
 license: CC BY 4.0
 ---

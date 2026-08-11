@@ -6,7 +6,7 @@ category: jr-pass
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-jr-pass-nara-奈良-jr-pass-攻略-如何用一張票暢遊千年古都-d62d4e.html
 published: 2026-05-23
-quality_score: 7.5
+quality_score: 8.5
 tags: 奈良景點, 關西JR Pass, 日本交通攻略, 奈良自由行, JR關西廣域
 license: CC BY 4.0
 ---

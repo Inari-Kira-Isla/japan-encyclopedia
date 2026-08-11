@@ -6,7 +6,7 @@ category: sumo
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-nagoya-名古屋-相撲與夏之陣-觀賽狂熱者的徹底攻略-f725dc.html
 published: 2026-05-21
-quality_score: 6.5
+quality_score: 8.7
 tags: 名古屋相撲, 名古屋場所, 名古屋巨蛋, 日本夏季，相撲, 相撲觀賽指南
 license: CC BY 4.0
 ---

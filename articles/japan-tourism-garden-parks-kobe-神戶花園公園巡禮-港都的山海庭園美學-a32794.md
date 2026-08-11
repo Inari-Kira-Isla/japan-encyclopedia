@@ -6,7 +6,7 @@ category: garden-parks
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-kobe-神戶花園公園巡禮-港都的山海庭園美學-a32794.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 8.5
 tags: 神戶, 花園公園, 六甲山, 摩耶山, 關西旅遊
 license: CC BY 4.0
 ---

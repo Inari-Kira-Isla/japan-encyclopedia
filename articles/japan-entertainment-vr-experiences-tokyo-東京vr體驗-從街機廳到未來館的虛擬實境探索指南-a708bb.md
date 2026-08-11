@@ -6,7 +6,7 @@ category: vr-experiences
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-vr-experiences-tokyo-東京vr體驗-從街機廳到未來館的虛擬實境探索指南-a708bb.html
 published: 2026-05-21
-quality_score: 6.5
+quality_score: 8.6
 tags: 東京VR, 東京虛擬實境, 東京主題樂園, 東京體驗, 東京約會
 license: CC BY 4.0
 ---

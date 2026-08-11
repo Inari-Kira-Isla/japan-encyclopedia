@@ -6,7 +6,7 @@ category: street-food
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-street-food-osaka-水都大阪的河道滋味-從運河碼頭到屋臺村的鹹香地圖-6c4d8a.html
 published: 2026-06-27
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪, 街頭美食, 運河文化, 道頓堀, 章魚燒
 license: CC BY 4.0
 ---

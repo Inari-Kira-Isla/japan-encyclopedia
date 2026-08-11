@@ -6,7 +6,7 @@ category: garden-parks
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-okinawa-沖繩熱帶花園散步地圖-亞熱帶植被的繽紛王國-b66daf.html
 published: 2026-06-06
-quality_score: 6.5
+quality_score: 8.7
 tags: 沖繩景點, 花園公園, 亞熱帶植物, 自然觀光, 沖繩自駕
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: rental-cars
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-osaka-大阪租車的停泊成本危機與周邊衛星基地策略-精明旅客的成本最佳化指南-4437c3.html
 published: 2026-03-24
-quality_score: 7.5
+quality_score: 8.6
 tags: 大阪租車, 停泊成本, 衛星基地, 自駕優化, 國際駕照
 license: CC BY 4.0
 ---

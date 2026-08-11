@@ -6,7 +6,7 @@ category: love-hotels
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-love-hotels-nagoya-名古屋love-hotels完全指南-商務人士的隱密住宿選擇-c71f9c.html
 published: 2026-06-14
-quality_score: 6.5
+quality_score: 8.8
 tags: 名古屋, 愛のホテル, 商務住宿, 中部地方, 休憩場所
 license: CC BY 4.0
 ---

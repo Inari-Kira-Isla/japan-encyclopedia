@@ -6,7 +6,7 @@ category: street-food
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-street-food-osaka-大阪街頭美食的時間維度-從清晨批發市場到深夜屋臺的味覺履跡-aa849b.html
 published: 2026-05-25
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪美食, 街頭小吃, 關西廚房, 屋台文化,  время小提醒
 license: CC BY 4.0
 ---

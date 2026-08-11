@@ -6,7 +6,7 @@ category: anime-manga
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-hokkaido-北海道動漫驛站-雪國中轉的動漫探索指南-9c8810.html
 published: 2026-06-14
-quality_score: 6.5
+quality_score: 8.6
 tags: 北海道, 動漫, 札幌, 漫畫咖啡廳, 小樽
 license: CC BY 4.0
 ---

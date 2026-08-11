@@ -6,7 +6,7 @@ category: garden-parks
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-hiroshima-廣島花園公園巡禮-從縮景園到宮島的自然美學-dd8ed2.html
 published: 2026-06-02
-quality_score: 6.5
+quality_score: 8.5
 tags: 廣島花園, 廣島公園, 縮景園, 世羅高原花公園, 廣島和平紀念公園
 license: CC BY 4.0
 ---

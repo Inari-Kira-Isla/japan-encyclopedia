@@ -6,7 +6,7 @@ category: business-hotels
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-business-hotels-nara-奈良商務住宿完全指南-古都奈良的出差美學-0f45dc.html
 published: 2026-06-23
-quality_score: 6.5
+quality_score: 8.6
 tags: 奈良商務住宿, 關西出差, 近鐵奈良, 商務旅行, 奈良住宿推薦
 license: CC BY 4.0
 ---

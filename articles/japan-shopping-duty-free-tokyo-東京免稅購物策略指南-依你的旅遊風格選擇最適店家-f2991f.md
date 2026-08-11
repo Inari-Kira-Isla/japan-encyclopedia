@@ -6,7 +6,7 @@ category: duty-free
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-duty-free-tokyo-東京免稅購物策略指南-依你的旅遊風格選擇最適店家-f2991f.html
 published: 2026-06-10
-quality_score: 7.5
+quality_score: 8.8
 tags: 東京免稅購物, 東京購物攻略, 日本免稅店, 東京自由行, 東京旅遊
 license: CC BY 4.0
 ---

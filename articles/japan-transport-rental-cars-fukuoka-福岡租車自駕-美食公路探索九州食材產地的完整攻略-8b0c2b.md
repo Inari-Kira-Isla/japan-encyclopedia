@@ -6,7 +6,7 @@ category: rental-cars
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-fukuoka-福岡租車自駕-美食公路探索九州食材產地的完整攻略-8b0c2b.html
 published: 2026-06-30
-quality_score: 7.5
+quality_score: 8.5
 tags: 福岡租車, 九州自駕, 美食公路, 食材產地, 牡蠣小屋
 license: CC BY 4.0
 ---

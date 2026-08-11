@@ -6,7 +6,7 @@ category: garden-parks
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-kobe-神戶花園公園巡禮-四季生態與港都風情的完美融合-add3a6.html
 published: 2026-04-02
-quality_score: 6.5
+quality_score: 8.7
 tags: 神戶旅遊, 日本花園, 生態教育, 親子景點, 四季賞花
 license: CC BY 4.0
 ---

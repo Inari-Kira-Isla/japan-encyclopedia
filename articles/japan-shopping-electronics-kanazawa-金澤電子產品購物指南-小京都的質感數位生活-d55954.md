@@ -6,7 +6,7 @@ category: electronics
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-electronics-kanazawa-金澤電子產品購物指南-小京都的質感數位生活-d55954.html
 published: 2026-05-22
-quality_score: 7.5
+quality_score: 8.0
 tags: 金澤購物, 日本電子產品, 北陸電子產品, 金澤自由行, 日本電器
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: ramen
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-ramen-sendai-仙台拉麵-學都風味的溫暖物語-610438.html
 published: 2026-06-26
-quality_score: 6.5
+quality_score: 8.7
 tags: 仙台拉麵, 東北美食, 學生拉麵, 平價拉麵, 日本拉麵
 license: CC BY 4.0
 ---

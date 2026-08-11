@@ -6,7 +6,7 @@ category: island-hopping
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-island-hopping-okinawa-沖繩跳島小眾秘境-慶良間諸島在地人玩法-a487df.html
 published: 2026-06-12
-quality_score: 6.5
+quality_score: 8.7
 tags: 沖繩, 慶良間諸島, 跳島, 渡嘉敷島, 座間味島
 license: CC BY 4.0
 ---

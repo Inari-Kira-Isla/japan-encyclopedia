@@ -6,7 +6,7 @@ category: yakitori
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-yakitori-sendai-仙台燒鳥-東北食材之光與炭火哲學-4cfd39.html
 published: 2026-07-02
-quality_score: 6.5
+quality_score: 8.6
 tags: 仙台燒鳥, 東北美食, 日本燒鳥, 仙台美食, 居酒屋文化
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: nightlife
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-tokyo-東京夜生活-巷弄深處的在地深夜食堂-b8c870.html
 published: 2026-06-07
-quality_score: 6.5
+quality_score: 8.8
 tags: 東京夜生活, 深夜食堂, 立ち飲み, 人形町, 月島
 license: CC BY 4.0
 ---

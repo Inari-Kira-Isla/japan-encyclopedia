@@ -6,7 +6,7 @@ category: sushi
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sushi-fukuoka-fukuoka-sushi-3a63a3.html
 published: 2026-03-24
-quality_score: 5.5
+quality_score: 6.7
 tags: sushi, fukuoka, japan
 license: CC BY 4.0
 ---

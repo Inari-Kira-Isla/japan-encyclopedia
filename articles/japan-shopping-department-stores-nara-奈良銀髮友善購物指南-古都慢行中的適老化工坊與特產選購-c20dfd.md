@@ -6,7 +6,7 @@ category: department-stores
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-department-stores-nara-奈良銀髮友善購物指南-古都慢行中的適老化工坊與特產選購-c20dfd.html
 published: 2026-06-03
-quality_score: 7.5
+quality_score: 8.7
 tags: 奈良購物, 銀髮友善, 古都慢遊, 日本傳統工藝, 奈良特產
 license: CC BY 4.0
 ---

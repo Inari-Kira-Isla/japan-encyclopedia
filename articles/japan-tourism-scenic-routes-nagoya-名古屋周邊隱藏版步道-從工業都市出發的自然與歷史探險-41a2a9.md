@@ -6,7 +6,7 @@ category: scenic-routes
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-nagoya-名古屋周邊隱藏版步道-從工業都市出發的自然與歷史探險-41a2a9.html
 published: 2026-06-06
-quality_score: 6.5
+quality_score: 8.7
 tags: 名古屋, 步道, 健行, 自然風光, 歷史古道
 license: CC BY 4.0
 ---

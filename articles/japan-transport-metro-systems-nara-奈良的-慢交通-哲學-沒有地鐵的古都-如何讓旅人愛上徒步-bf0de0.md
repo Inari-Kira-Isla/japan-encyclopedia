@@ -6,7 +6,7 @@ category: metro-systems
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-nara-奈良的-慢交通-哲學-沒有地鐵的古都-如何讓旅人愛上徒步-bf0de0.html
 published: 2026-06-03
-quality_score: 7.5
+quality_score: 8.7
 tags: 奈良交通, 奈良自助, 日本古都, 奈良公園, 慢旅行
 license: CC BY 4.0
 ---

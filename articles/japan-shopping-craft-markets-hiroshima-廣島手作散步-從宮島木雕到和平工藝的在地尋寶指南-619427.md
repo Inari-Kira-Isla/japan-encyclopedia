@@ -6,7 +6,7 @@ category: craft-markets
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-craft-markets-hiroshima-廣島手作散步-從宮島木雕到和平工藝的在地尋寶指南-619427.html
 published: 2026-06-08
-quality_score: 7.5
+quality_score: 8.7
 tags: 廣島手工藝, 宮島木雕, 日本中國地方, 手作散步, 和平工藝
 license: CC BY 4.0
 ---

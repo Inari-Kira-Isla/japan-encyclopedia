@@ -6,7 +6,7 @@ category: buses
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-buses-okinawa-沖繩公車旅遊達人路線-串聯亞熱帶海島的公車優先策略-75d03d.html
 published: 2026-06-03
-quality_score: 7.5
+quality_score: 8.8
 tags: 沖繩公車, 沖繩交通, Okinawa Bus, 自由行攻略, 非自駕
 license: CC BY 4.0
 ---

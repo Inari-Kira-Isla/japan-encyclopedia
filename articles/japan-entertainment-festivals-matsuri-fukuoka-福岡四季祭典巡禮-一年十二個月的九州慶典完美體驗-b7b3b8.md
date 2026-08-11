@@ -6,7 +6,7 @@ category: festivals-matsuri
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-festivals-matsuri-fukuoka-福岡四季祭典巡禮-一年十二個月的九州慶典完美體驗-b7b3b8.html
 published: 2026-04-06
-quality_score: 6.5
+quality_score: 8.6
 tags: 福岡祭典, 四季慶典, 博多山笠, 屋台文化, 九州旅遊
 license: CC BY 4.0
 ---

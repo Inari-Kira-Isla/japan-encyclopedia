@@ -6,7 +6,7 @@ category: karaoke
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-karaoke-kobe-神戶卡拉ok-異國情調港都的音樂夜晚-21cba1.html
 published: 2026-05-23
-quality_score: 6.5
+quality_score: 8.6
 tags: 神戶, 卡拉OK, 異國風情, 港都夜晚, 神戶自由行
 license: CC BY 4.0
 ---

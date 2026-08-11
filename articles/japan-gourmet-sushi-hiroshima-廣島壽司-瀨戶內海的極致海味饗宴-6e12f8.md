@@ -6,7 +6,7 @@ category: sushi
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sushi-hiroshima-廣島壽司-瀨戶內海的極致海味饗宴-6e12f8.html
 published: 2026-03-15
-quality_score: 6.5
+quality_score: 8.6
 tags: 廣島壽司, 瀨戶內海美食, 日本壽司, 廣島美食, 押壽司
 license: CC BY 4.0
 ---

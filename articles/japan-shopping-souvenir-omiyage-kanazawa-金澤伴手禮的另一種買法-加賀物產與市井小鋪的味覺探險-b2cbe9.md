@@ -6,7 +6,7 @@ category: souvenir-omiyage
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-souvenir-omiyage-kanazawa-金澤伴手禮的另一種買法-加賀物產與市井小鋪的味覺探險-b2cbe9.html
 published: 2026-04-06
-quality_score: 7.5
+quality_score: 8.6
 tags: 金澤伴手禮, 加賀物產, 近江町市場, 金澤美食, 日本伴手禮
 license: CC BY 4.0
 ---

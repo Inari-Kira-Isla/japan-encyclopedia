@@ -6,7 +6,7 @@ category: metro-systems
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-kanazawa-金澤市區交通完全指南-沒有地鐵的便利之城-fb1a52.html
 published: 2026-06-27
-quality_score: 7.5
+quality_score: 8.9
 tags: 金澤交通, 金澤公車, 金澤自助旅行, 石川縣, 日本中部
 license: CC BY 4.0
 ---

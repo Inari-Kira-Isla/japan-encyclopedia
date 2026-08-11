@@ -6,7 +6,7 @@ category: vr-experiences
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-vr-experiences-kyoto-京都vr體驗不完全指南-古都作為關西虛擬實境旅遊的根據地-e1f33b.html
 published: 2026-06-21
-quality_score: 6.5
+quality_score: 8.8
 tags: 京都VR, 關西VR體驗, 大阪VR, 神戶VR, 京都旅遊
 license: CC BY 4.0
 ---

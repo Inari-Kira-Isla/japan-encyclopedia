@@ -6,7 +6,7 @@ category: island-hopping
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-island-hopping-hiroshima-廣島跳島慢旅-瀨戶內海的生活美學與島嶼四季-c72bec.html
 published: 2026-04-07
-quality_score: 6.5
+quality_score: 8.9
 tags: 廣島跳島, 瀨戶內海, 日本島嶼旅遊, 宮島, 兔子島
 license: CC BY 4.0
 ---

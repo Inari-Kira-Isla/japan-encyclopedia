@@ -6,7 +6,7 @@ category: ferries
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-ferries-nagoya-名古屋港口體驗完全指南-港區周邊的海上休閒與碼頭風情-0d7d3a.html
 published: 2026-06-10
-quality_score: 7.5
+quality_score: 8.6
 tags: 名古屋港, 港口體驗, 水族館, 伊勢灣, 碼頭風光
 license: CC BY 4.0
 ---

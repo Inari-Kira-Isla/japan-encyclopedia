@@ -6,7 +6,7 @@ category: anime-manga
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-hiroshima-廣島動漫創作者生態-從原爆記憶到和平主題的創意基地-8ac58e.html
 published: 2026-06-21
-quality_score: 6.5
+quality_score: 8.8
 tags: 廣島動漫, 同人誌, 創作者生態, 和平主題, 獨立漫畫
 license: CC BY 4.0
 ---

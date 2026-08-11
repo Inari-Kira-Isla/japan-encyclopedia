@@ -6,7 +6,7 @@ category: anime-manga
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-hokkaido-北海道動漫文化探索-雪國動漫迷的另類尋寶之旅-7adb2f.html
 published: 2026-06-04
-quality_score: 6.5
+quality_score: 8.9
 tags: 北海道, 動漫文化, 札幌, 小樽, 在地體驗
 license: CC BY 4.0
 ---

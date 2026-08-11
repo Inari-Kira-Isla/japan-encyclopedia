@@ -6,7 +6,7 @@ category: kabuki-theatre
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-kabuki-theatre-kobe-神戶的現場表演場館-關西音樂與戲劇的城市脈動-48fa53.html
 published: 2026-06-08
-quality_score: 6.5
+quality_score: 8.7
 tags: 神戶表演藝術, 神戶現場演出, 神戶音樂場館, 神戶娛樂, 關西表演場所
 license: CC BY 4.0
 ---

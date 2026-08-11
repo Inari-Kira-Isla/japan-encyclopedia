@@ -6,7 +6,7 @@ category: fashion-harajuku
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-fashion-harajuku-hiroshima-廣島潮流購物指南-山陰地區年輕時尚的文化發現-b21b33.html
 published: 2026-06-25
-quality_score: 7.5
+quality_score: 8.7
 tags: 廣島購物, 日本潮流, 山陰山陽, 古著店, 街頭時尚
 license: CC BY 4.0
 ---

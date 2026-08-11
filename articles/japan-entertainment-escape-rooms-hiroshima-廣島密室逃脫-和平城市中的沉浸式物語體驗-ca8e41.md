@@ -6,7 +6,7 @@ category: escape-rooms
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-escape-rooms-hiroshima-廣島密室逃脫-和平城市中的沉浸式物語體驗-ca8e41.html
 published: 2026-04-07
-quality_score: 6.5
+quality_score: 8.9
 tags: 廣島密室逃脫, 廣島景點, 廣島親子活動, 日本室內景點, 沉浸式體驗
 license: CC BY 4.0
 ---

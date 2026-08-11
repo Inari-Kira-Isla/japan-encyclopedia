@@ -6,7 +6,7 @@ category: fashion-harajuku
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-fashion-harajuku-kyoto-京都潮流購物完全指南-河原町商圈與新興街頭文化-3cb23a.html
 published: 2026-07-01
-quality_score: 7.5
+quality_score: 8.9
 tags: 京都購物, 河原町, 京都潮流, 京都自由行, 日本逛街
 license: CC BY 4.0
 ---

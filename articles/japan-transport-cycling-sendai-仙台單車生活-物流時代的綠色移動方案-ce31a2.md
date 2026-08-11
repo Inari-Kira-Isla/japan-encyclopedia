@@ -6,7 +6,7 @@ category: cycling
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-sendai-仙台單車生活-物流時代的綠色移動方案-ce31a2.html
 published: 2026-06-13
-quality_score: 7.5
+quality_score: 8.7
 tags: 仙台單車, 東北單車旅行, 日本單車文化, 單車通勤, 綠色交通
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: tempura
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tempura-kobe-神戶天婦羅-港都海味的炸物風景-11d0a8.html
 published: 2026-06-11
-quality_score: 6.5
+quality_score: 8.5
 tags: 神戶, 天婦羅, 關西料理, 港都美食, 神戶旅遊
 license: CC BY 4.0
 ---

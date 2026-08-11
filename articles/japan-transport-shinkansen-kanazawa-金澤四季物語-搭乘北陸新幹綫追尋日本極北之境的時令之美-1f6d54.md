@@ -6,7 +6,7 @@ category: shinkansen
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-kanazawa-金澤四季物語-搭乘北陸新幹綫追尋日本極北之境的時令之美-1f6d54.html
 published: 2026-06-13
-quality_score: 7.5
+quality_score: 8.6
 tags: 金澤, 北陸新幹綫, 日本四季, 兼六園, 金澤21世紀美術館
 license: CC BY 4.0
 ---

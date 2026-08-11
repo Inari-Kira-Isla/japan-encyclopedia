@@ -6,7 +6,7 @@ category: duty-free
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-duty-free-fukuoka-福岡免稅購物攻略-市區vs機場的價格秘密與九州伴手精選-168a8d.html
 published: 2026-07-04
-quality_score: 7.5
+quality_score: 8.6
 tags: 福岡免稅, 九州購物, 福岡機場, 天神地下街, 博多運河城
 license: CC BY 4.0
 ---

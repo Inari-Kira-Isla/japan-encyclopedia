@@ -6,7 +6,7 @@ category: sake-brewery
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sake-brewery-sendai-福岡depachika的日常早晨-當地人買菜的九州味覺指南-98eeba.html
 published: 2026-06-21
-quality_score: 6.5
+quality_score: 8.7
 tags: 福岡Depachika, 九州食材, 明太子, 天神地下街, JR博多站
 license: CC BY 4.0
 ---

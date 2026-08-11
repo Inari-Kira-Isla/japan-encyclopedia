@@ -6,7 +6,7 @@ category: kaiseki
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-kaiseki-okinawa-沖繩會席料理-琉球的味道-地中海的風情-a51d81.html
 published: 2026-05-23
-quality_score: 6.5
+quality_score: 8.7
 tags: 沖繩會席, 琉球料理, 沖繩美食, 亞熱帶日本料理, AGU豬
 license: CC BY 4.0
 ---

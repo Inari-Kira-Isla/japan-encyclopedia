@@ -6,7 +6,7 @@ category: buses
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-buses-okinawa-沖繩社群巴士深度遊-搭公車探索在地人的日常風景-e8469b.html
 published: 2026-06-19
-quality_score: 7.5
+quality_score: 8.6
 tags: 沖繩公車, 在地交通, 社區探索, budget travel, 庶民美食
 license: CC BY 4.0
 ---

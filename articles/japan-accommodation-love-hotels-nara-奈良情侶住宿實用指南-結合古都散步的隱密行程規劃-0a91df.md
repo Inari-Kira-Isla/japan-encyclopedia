@@ -6,7 +6,7 @@ category: love-hotels
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-love-hotels-nara-奈良情侶住宿實用指南-結合古都散步的隱密行程規劃-0a91df.html
 published: 2026-06-07
-quality_score: 6.5
+quality_score: 8.7
 tags: 奈良住宿, 情侶旅館, 奈良公園, 近鐵奈良, 古都旅遊
 license: CC BY 4.0
 ---

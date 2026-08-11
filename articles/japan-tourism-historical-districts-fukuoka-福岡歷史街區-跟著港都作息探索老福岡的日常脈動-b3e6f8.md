@@ -6,7 +6,7 @@ category: historical-districts
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-fukuoka-福岡歷史街區-跟著港都作息探索老福岡的日常脈動-b3e6f8.html
 published: 2026-06-09
-quality_score: 6.5
+quality_score: 8.7
 tags: 福岡, 歷史街區, 港口城市, 港都散步, 九州玄關
 license: CC BY 4.0
 ---

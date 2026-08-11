@@ -6,7 +6,7 @@ category: festivals-matsuri
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-festivals-matsuri-nara-奈良夜間祭典與屋臺美食-古都的夜色狂歡-bdc8d2.html
 published: 2026-07-01
-quality_score: 6.5
+quality_score: 8.7
 tags: 奈良祭典, 日本祭典, 萬燈籠, 若草山燒山, 奈良屋台
 license: CC BY 4.0
 ---

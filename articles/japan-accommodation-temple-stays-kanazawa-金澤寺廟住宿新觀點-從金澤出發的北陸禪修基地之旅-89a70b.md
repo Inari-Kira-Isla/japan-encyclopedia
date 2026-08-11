@@ -6,7 +6,7 @@ category: temple-stays
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-temple-stays-kanazawa-金澤寺廟住宿新觀點-從金澤出發的北陸禪修基地之旅-89a70b.html
 published: 2026-06-26
-quality_score: 6.5
+quality_score: 8.6
 tags: 金澤寺廟住宿, 加賀溫泉禪修, 能登半島寺院, 北陸宿坊體驗, 禪修之旅
 license: CC BY 4.0
 ---

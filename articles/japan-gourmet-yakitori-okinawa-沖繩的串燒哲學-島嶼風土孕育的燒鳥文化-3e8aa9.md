@@ -6,7 +6,7 @@ category: yakitori
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-yakitori-okinawa-沖繩的串燒哲學-島嶼風土孕育的燒鳥文化-3e8aa9.html
 published: 2026-06-09
-quality_score: 6.5
+quality_score: 8.6
 tags: 沖繩燒鳥, 沖繩美食, 那霸串燒, AGU豬肉, 島嶼居酒屋
 license: CC BY 4.0
 ---

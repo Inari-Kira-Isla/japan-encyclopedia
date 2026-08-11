@@ -6,7 +6,7 @@ category: boutique-hotels
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-osaka-大阪精品酒店-關西都會中的質感住宿指南-9797b9.html
 published: 2026-03-18
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪住宿, 精品酒店, 關西旅遊, 大阪飯店, 日本住宿推薦
 license: CC BY 4.0
 ---

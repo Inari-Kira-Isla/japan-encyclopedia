@@ -6,7 +6,7 @@ category: business-hotels
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-business-hotels-okinawa-沖繩商務酒店完全指南-依據單軌電車沿線的商務住宿選擇-b4f60c.html
 published: 2026-06-16
-quality_score: 6.5
+quality_score: 8.7
 tags: 沖繩商務酒店, 那霸住宿, 單軌電車沿線, 出差住宿, 商務旅行
 license: CC BY 4.0
 ---

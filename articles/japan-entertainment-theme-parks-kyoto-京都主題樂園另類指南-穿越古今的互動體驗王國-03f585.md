@@ -6,7 +6,7 @@ category: theme-parks
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-theme-parks-kyoto-京都主題樂園另類指南-穿越古今的互動體驗王國-03f585.html
 published: 2026-06-20
-quality_score: 6.5
+quality_score: 8.6
 tags: 京都主題樂園, 京都體驗, 和服體驗, 京都文化, 嵐山小火車
 license: CC BY 4.0
 ---

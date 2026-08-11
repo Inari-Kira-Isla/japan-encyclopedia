@@ -6,7 +6,7 @@ category: tonkatsu
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tonkatsu-fukuoka-福岡炸豬排巡禮-九州美食之都的酥脆誘惑-c553ff.html
 published: 2026-03-14
-quality_score: 6.5
+quality_score: 8.7
 tags: 福岡美食, 炸豬排, 九州料理, 日本美食, 博多
 license: CC BY 4.0
 ---

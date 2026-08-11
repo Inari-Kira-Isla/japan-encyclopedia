@@ -6,7 +6,7 @@ category: onsen
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-onsen-nara-奈良週邊溫泉-古都文化與湯治體驗的完美結合-6487dd.html
 published: 2026-06-17
-quality_score: 6.5
+quality_score: 8.7
 tags: 奈良溫泉, 關西溫泉, 吉野溫泉, 秘湯, 溫泉旅館
 license: CC BY 4.0
 ---

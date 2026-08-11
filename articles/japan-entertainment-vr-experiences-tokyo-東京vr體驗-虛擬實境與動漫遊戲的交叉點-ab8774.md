@@ -6,7 +6,7 @@ category: vr-experiences
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-vr-experiences-tokyo-東京vr體驗-虛擬實境與動漫遊戲的交叉點-ab8774.html
 published: 2026-06-11
-quality_score: 6.5
+quality_score: 8.5
 tags: 東京VR, 東京虛擬實境, 東京娛樂, 秋葉原VR, teamLab Planets
 license: CC BY 4.0
 ---

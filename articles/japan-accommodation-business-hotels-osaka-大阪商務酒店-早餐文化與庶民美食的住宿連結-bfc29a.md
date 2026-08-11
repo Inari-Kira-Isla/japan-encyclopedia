@@ -6,7 +6,7 @@ category: business-hotels
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-business-hotels-osaka-大阪商務酒店-早餐文化與庶民美食的住宿連結-bfc29a.html
 published: 2026-06-22
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪商務酒店, 關西住宿, 商務旅行, 早餐文化, 大阪美食
 license: CC BY 4.0
 ---

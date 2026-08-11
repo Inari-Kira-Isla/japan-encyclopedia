@@ -6,7 +6,7 @@ category: rental-cars
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-hokkaido-北海道自駕冬季美食之路-冰天雪地中的極致鮮味探險-4db4e6.html
 published: 2026-06-01
-quality_score: 7.5
+quality_score: 8.3
 tags: 北海道租車, 冬季自駕, 北海道美食, 根室海鮮, 知床海膽
 license: CC BY 4.0
 ---

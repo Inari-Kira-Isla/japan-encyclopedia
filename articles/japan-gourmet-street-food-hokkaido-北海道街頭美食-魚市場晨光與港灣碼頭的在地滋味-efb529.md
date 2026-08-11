@@ -6,7 +6,7 @@ category: street-food
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-street-food-hokkaido-北海道街頭美食-魚市場晨光與港灣碼頭的在地滋味-efb529.html
 published: 2026-07-04
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道, 街頭美食, 魚市場, 港灣美食, 在地體驗
 license: CC BY 4.0
 ---

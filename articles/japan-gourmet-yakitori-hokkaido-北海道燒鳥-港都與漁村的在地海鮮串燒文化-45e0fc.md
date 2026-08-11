@@ -6,7 +6,7 @@ category: yakitori
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-yakitori-hokkaido-北海道燒鳥-港都與漁村的在地海鮮串燒文化-45e0fc.html
 published: 2026-06-29
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道燒鳥, 札幌薄野, 函館朝市, 海鮮串燒, 道產食材
 license: CC BY 4.0
 ---

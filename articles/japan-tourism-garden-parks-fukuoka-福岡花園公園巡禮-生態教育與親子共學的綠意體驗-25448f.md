@@ -6,7 +6,7 @@ category: garden-parks
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-fukuoka-福岡花園公園巡禮-生態教育與親子共學的綠意體驗-25448f.html
 published: 2026-03-25
-quality_score: 6.5
+quality_score: 8.7
 tags: 福岡, 花園公園, 生態教育, 親子旅遊, 九州
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: sumo
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-hiroshima-廣島相撲-從昭和記憶到和平文化的另類體驗-74d159.html
 published: 2026-06-18
-quality_score: 6.5
+quality_score: 8.5
 tags: 廣島相撲, 廣島自由行, 瀨戶內海文化, 日本相撲, 昭和記憶
 license: CC BY 4.0
 ---

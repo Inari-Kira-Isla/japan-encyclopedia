@@ -6,7 +6,7 @@ category: gaming-arcades
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-gaming-arcades-kobe-神戶遊戲中心的異國風情-港口城市的街機文化與國際化體驗-1165c9.html
 published: 2026-06-07
-quality_score: 6.5
+quality_score: 8.7
 tags: 神戶遊戲中心, 神戶娛樂, 港都文化, 街機文化, 神戶自由行
 license: CC BY 4.0
 ---

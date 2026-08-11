@@ -6,7 +6,7 @@ category: garden-parks
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-tokyo-東京歷史庭園親子遊-江戶美學的家庭教育場域-55bde2.html
 published: 2026-03-25
-quality_score: 6.5
+quality_score: 8.8
 tags: 東京, 親子旅遊, 歷史庭園, 日式庭園, 家庭教育
 license: CC BY 4.0
 ---

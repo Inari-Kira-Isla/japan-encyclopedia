@@ -6,7 +6,7 @@ category: vr-experiences
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-vr-experiences-sendai-仙台vr冬季體驗-東北雪季的室內娛樂革命-d14910.html
 published: 2026-04-06
-quality_score: 6.5
+quality_score: 8.8
 tags: 仙台VR, 冬季娛樂, 東北科技, 室內體驗, 虛擬實境
 license: CC BY 4.0
 ---

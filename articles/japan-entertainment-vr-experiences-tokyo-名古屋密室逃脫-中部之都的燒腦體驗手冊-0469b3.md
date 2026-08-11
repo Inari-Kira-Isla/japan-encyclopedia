@@ -6,7 +6,7 @@ category: vr-experiences
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-vr-experiences-tokyo-名古屋密室逃脫-中部之都的燒腦體驗手冊-0469b3.html
 published: 2026-06-22
-quality_score: 6.5
+quality_score: 8.8
 tags: 名古屋密室逃脫, 中部旅遊, 名古屋娛樂, 團體活動, 名古屋景點
 license: CC BY 4.0
 ---

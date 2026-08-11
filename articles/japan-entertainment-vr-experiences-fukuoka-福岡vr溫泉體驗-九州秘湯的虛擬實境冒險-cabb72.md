@@ -6,7 +6,7 @@ category: vr-experiences
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-vr-experiences-fukuoka-福岡vr溫泉體驗-九州秘湯的虛擬實境冒險-cabb72.html
 published: 2026-06-21
-quality_score: 6.5
+quality_score: 8.6
 tags: 福岡VR, 九州溫泉, 博多年體驗, VR溫泉, 日本VR
 license: CC BY 4.0
 ---

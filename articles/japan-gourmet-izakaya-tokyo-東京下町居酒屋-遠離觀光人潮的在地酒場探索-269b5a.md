@@ -6,7 +6,7 @@ category: izakaya
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-izakaya-tokyo-東京下町居酒屋-遠離觀光人潮的在地酒場探索-269b5a.html
 published: 2026-06-06
-quality_score: 6.5
+quality_score: 8.6
 tags: 東京居酒屋, 下町美食, 在地餐廳, 平價美食, 小岩
 license: CC BY 4.0
 ---

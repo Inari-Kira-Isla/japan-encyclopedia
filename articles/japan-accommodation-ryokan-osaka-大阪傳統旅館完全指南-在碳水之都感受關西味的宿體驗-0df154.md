@@ -6,7 +6,7 @@ category: ryokan
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-osaka-大阪傳統旅館完全指南-在碳水之都感受關西味的宿體驗-0df154.html
 published: 2026-05-23
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪, 傳統旅馆, Ryokan, 關西住宿, 日本旅遊
 license: CC BY 4.0
 ---

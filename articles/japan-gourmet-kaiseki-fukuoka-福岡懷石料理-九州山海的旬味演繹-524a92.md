@@ -6,7 +6,7 @@ category: kaiseki
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-kaiseki-fukuoka-福岡懷石料理-九州山海的旬味演繹-524a92.html
 published: 2026-05-21
-quality_score: 6.5
+quality_score: 9.0
 tags: 福岡懷石, 九州料理, 博多人文, 日本美食, 旬味
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: sake-brewery
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sake-brewery-kobe-神戶清酒釀造所-港都釀酒與六甲山風土的隱藏版圖-788613.html
 published: 2026-06-29
-quality_score: 6.5
+quality_score: 8.5
 tags: 神戶, 清酒釀造, 灘區, 日本料理, 酒藏參訪
 license: CC BY 4.0
 ---

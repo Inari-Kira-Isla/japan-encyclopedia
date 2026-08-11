@@ -6,7 +6,7 @@ category: capsule-hotels
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-capsule-hotels-osaka-大阪女性專用膠囊旅館推薦-安全-舒適-高cp值的住宿新選擇-96d890.html
 published: 2026-06-21
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪膠囊旅館, 女性專用住宿, 大阪自由行, 大阪住宿推薦, 關西住宿
 license: CC BY 4.0
 ---

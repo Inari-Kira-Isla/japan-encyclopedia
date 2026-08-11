@@ -6,7 +6,7 @@ category: capsule-hotels
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-capsule-hotels-kanazawa-金澤膠囊飯店完全指南-體驗北陸特色住宿的明智之選-043751.html
 published: 2026-03-16
-quality_score: 6.5
+quality_score: 8.9
 tags: 金澤住宿, 膠囊飯店, 石川縣, 北陸自助旅行, 金澤自由行
 license: CC BY 4.0
 ---

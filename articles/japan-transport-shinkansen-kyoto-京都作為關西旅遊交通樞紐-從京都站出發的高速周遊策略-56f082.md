@@ -6,7 +6,7 @@ category: shinkansen
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-kyoto-京都作為關西旅遊交通樞紐-從京都站出發的高速周遊策略-56f082.html
 published: 2026-06-21
-quality_score: 7.5
+quality_score: 8.8
 tags: 京都車站, 關西旅遊, 新娘物語, 京都嵐山, 奈良公園
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: shinkansen
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-kobe-新神戶站-關西西部門戶的策略性鐵道樞紐-2ddeca.html
 published: 2026-06-08
-quality_score: 7.5
+quality_score: 8.8
 tags: 神戶, 新神戶站, 關西, 山陽新幹綫, 鐵道旅遊
 license: CC BY 4.0
 ---

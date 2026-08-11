@@ -6,7 +6,7 @@ category: sake-brewery
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sake-brewery-nagoya-名古屋地酒魅力-巷弄裡的釀造所與在地好酒-fdc8f4.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 8.7
 tags: Nagoya, 清酒, 名古屋, 釀造所, 日本料理
 license: CC BY 4.0
 ---

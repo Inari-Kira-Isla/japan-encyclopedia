@@ -6,7 +6,7 @@ category: anime-manga
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-hiroshima-廣島動漫畫創作聖地-從創作者視角探索動畫之城-836b95.html
 published: 2026-05-20
-quality_score: 6.5
+quality_score: 8.8
 tags: 广岛, 动漫, 动画制作, 漫画创作, 创作者视角
 license: CC BY 4.0
 ---

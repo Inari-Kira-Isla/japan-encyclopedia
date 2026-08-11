@@ -6,7 +6,7 @@ category: craft-markets
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-craft-markets-sendai-仙台清晨市集物語-跟著東北人趕集的在地體驗-376771.html
 published: 2026-06-05
-quality_score: 7.5
+quality_score: 8.6
 tags: 仙台市集, 清晨市集, 骨董市集, 東北市集, 古道具
 license: CC BY 4.0
 ---

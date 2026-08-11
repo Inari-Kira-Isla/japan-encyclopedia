@@ -6,7 +6,7 @@ category: rental-cars
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-hokkaido-北海道冬季租車自駕-雪國駕駛完全手冊-fed3a3.html
 published: 2026-07-04
-quality_score: 7.5
+quality_score: 8.5
 tags: 北海道租車, 冬季自駕, 北海道滑雪, 雪地駕駛, 層雲峽
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: vr-experiences
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-vr-experiences-kanazawa-金澤vr體驗-穿越古今的沉浸式城下町探險-f4855c.html
 published: 2026-06-04
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤VR體驗, 北陸虛擬實境, 金澤深度遊, 加賀百萬石, 古城VR
 license: CC BY 4.0
 ---

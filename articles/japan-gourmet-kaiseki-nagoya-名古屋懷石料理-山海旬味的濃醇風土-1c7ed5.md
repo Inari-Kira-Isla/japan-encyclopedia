@@ -6,7 +6,7 @@ category: kaiseki
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-kaiseki-nagoya-名古屋懷石料理-山海旬味的濃醇風土-1c7ed5.html
 published: 2026-06-18
-quality_score: 6.5
+quality_score: 8.6
 tags: 名古屋懷石, 愛知縣美食, 山海食材, 八丁味噌, 名古屋旅行
 license: CC BY 4.0
 ---

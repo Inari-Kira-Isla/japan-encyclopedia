@@ -6,7 +6,7 @@ category: depachika
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-depachika-hokkaido-北海道-dekapachika-冬味指南-冰雪王國的極致海鮮treasures-eb5c28.html
 published: 2026-06-02
-quality_score: 6.5
+quality_score: 8.9
 tags: 北海道美食, depachika, 日本海鲜, 札幌购物, 马粪海胆
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: matcha-sweets
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-matcha-sweets-fukuoka-福岡抹茶甜點的港口風情-融入海味與地酒的創意甜品-532c1f.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 8.6
 tags: 福岡, 抹茶甜點, 九州抹茶','港口城市','久留米','和菓子','抹茶','日本甜點
 license: CC BY 4.0
 ---

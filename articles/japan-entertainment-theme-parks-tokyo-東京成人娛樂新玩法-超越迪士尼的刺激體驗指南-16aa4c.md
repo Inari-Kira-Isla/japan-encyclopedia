@@ -6,7 +6,7 @@ category: theme-parks
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-theme-parks-tokyo-東京成人娛樂新玩法-超越迪士尼的刺激體驗指南-16aa4c.html
 published: 2026-03-28
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京娛樂, 成人主題樂園, VR體驗, 數位藝術, 極限遊樂
 license: CC BY 4.0
 ---

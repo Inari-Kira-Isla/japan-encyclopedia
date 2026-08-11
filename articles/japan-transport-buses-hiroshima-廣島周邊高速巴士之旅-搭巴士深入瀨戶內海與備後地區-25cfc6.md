@@ -6,7 +6,7 @@ category: buses
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-buses-hiroshima-廣島周邊高速巴士之旅-搭巴士深入瀨戶內海與備後地區-25cfc6.html
 published: 2026-06-18
-quality_score: 7.5
+quality_score: 8.6
 tags: 廣島巴士, 瀨戶內海, 高速巴士, 尾道, 宮島
 license: CC BY 4.0
 ---

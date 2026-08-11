@@ -6,7 +6,7 @@ category: garden-parks
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-okinawa-沖繩花園生活-當地人帶路的日常散步美學-c32d11.html
 published: 2026-06-23
-quality_score: 6.5
+quality_score: 8.2
 tags: 沖繩花園, 在地體驗, 散步景點, 南國風情, 生活美學
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: airport-transfer
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-airport-transfer-kyoto-關西機場往返京都深夜凌晨交通全攻略-紅眼航班救星指南-2a891c.html
 published: 2026-06-22
-quality_score: 7.5
+quality_score: 8.4
 tags: 京都交通, 關西機場, 深夜交通, 機場接送, 紅眼航班
 license: CC BY 4.0
 ---

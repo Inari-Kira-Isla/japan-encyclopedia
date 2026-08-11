@@ -6,7 +6,7 @@ category: nightlife
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-kanazawa-金澤夜生活-從工藝之都到夜色工房的深度體驗-3bb4b1.html
 published: 2026-07-05
-quality_score: 6.5
+quality_score: 8.9
 tags: 金澤夜生活, 北陸深度旅遊, 日本工藝之旅, 金澤文化體驗, 加賀友禪
 license: CC BY 4.0
 ---

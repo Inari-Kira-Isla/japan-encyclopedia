@@ -6,7 +6,7 @@ category: scenic-routes
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-osaka-大阪垂直風景線-山水步道與城市邊界的立體漫步-03b98c.html
 published: 2026-03-24
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪風景路線, 山地步道, 郊野漫步, 城市邊界, 四季風光
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: historical-districts
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-kanazawa-金澤歷史街區四季巡禮-感受加賀百萬石的時光韻味-ff9085.html
 published: 2026-03-29
-quality_score: 6.5
+quality_score: 8.8
 tags: 金澤, 歷史街區, 茶屋街, 武家屋敷, 季節旅遊
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: karaoke
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-karaoke-hiroshima-廣島卡拉ok地圖-上班族的夜間據點與都市文化脈動-0fd6e5.html
 published: 2026-03-24
-quality_score: 6.5
+quality_score: 8.7
 tags: 廣島, 卡拉OK, 夜生活, 上班族文化, 日本娛樂
 license: CC BY 4.0
 ---

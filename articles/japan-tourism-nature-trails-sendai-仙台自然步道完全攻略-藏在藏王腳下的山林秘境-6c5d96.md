@@ -6,7 +6,7 @@ category: nature-trails
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-sendai-仙台自然步道完全攻略-藏在藏王腳下的山林秘境-6c5d96.html
 published: 2026-05-25
-quality_score: 6.5
+quality_score: 8.7
 tags: 仙台自然步道, 日本東北健行, 定義山, 森林浴, 戶外探險
 license: CC BY 4.0
 ---

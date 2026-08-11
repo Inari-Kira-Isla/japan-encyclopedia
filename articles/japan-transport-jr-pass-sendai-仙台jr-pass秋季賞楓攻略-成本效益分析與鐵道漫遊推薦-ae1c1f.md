@@ -6,7 +6,7 @@ category: jr-pass
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-jr-pass-sendai-仙台jr-pass秋季賞楓攻略-成本效益分析與鐵道漫遊推薦-ae1c1f.html
 published: 2026-07-01
-quality_score: 7.5
+quality_score: 8.5
 tags: JR Pass, 仙台, 東北賞楓, 鐵路周遊券, 秋季旅行
 license: CC BY 4.0
 ---

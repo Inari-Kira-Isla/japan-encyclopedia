@@ -6,7 +6,7 @@ category: jr-pass
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-jr-pass-okinawa-沖繩jr-pass迷思破解-為什麼沖繩不適用jr周遊券-95f366.html
 published: 2026-03-28
-quality_score: 7.5
+quality_score: 8.7
 tags: 沖繩交通, Yui Rail, 日本旅遊, 交通攻略, 誤解澄清
 license: CC BY 4.0
 ---

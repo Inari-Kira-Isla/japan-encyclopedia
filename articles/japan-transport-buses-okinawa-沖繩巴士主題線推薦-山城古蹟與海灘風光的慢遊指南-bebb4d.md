@@ -6,7 +6,7 @@ category: buses
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-buses-okinawa-沖繩巴士主題線推薦-山城古蹟與海灘風光的慢遊指南-bebb4d.html
 published: 2026-06-16
-quality_score: 7.5
+quality_score: 8.7
 tags: 沖繩巴士, gusuku, 慢遊, 山城遺址, 主題路線
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: ferries
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-ferries-kyoto-京都渡輪服務-古都水路的務實指南-e23ea7.html
 published: 2026-03-28
-quality_score: 7.5
+quality_score: 8.4
 tags: 京都交通, 水上觀光, 琵琶湖汽船, 保津川, 疏水船
 license: CC BY 4.0
 ---

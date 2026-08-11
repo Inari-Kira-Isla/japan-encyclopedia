@@ -6,7 +6,7 @@ category: karaoke
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-karaoke-kyoto-京都卡拉ok-學生城與觀光城的歡唱交錯-6bab6d.html
 published: 2026-06-16
-quality_score: 6.5
+quality_score: 8.6
 tags: 京都, 卡拉OK, 關西, 夜生活, 學生娛樂
 license: CC BY 4.0
 ---

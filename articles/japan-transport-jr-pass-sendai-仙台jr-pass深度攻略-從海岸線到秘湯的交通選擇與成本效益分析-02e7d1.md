@@ -6,7 +6,7 @@ category: jr-pass
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-jr-pass-sendai-仙台jr-pass深度攻略-從海岸線到秘湯的交通選擇與成本效益分析-02e7d1.html
 published: 2026-06-24
-quality_score: 7.5
+quality_score: 8.4
 tags: 仙台JR Pass, 東北交通, JR East Pass, 仙台旅遊, 山形溫泉
 license: CC BY 4.0
 ---

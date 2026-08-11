@@ -6,7 +6,7 @@ category: vintage-thrift
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-vintage-thrift-nagoya-名古屋上班族古著文化-工業城市中的復古品味生活-e503cc.html
 published: 2026-04-05
-quality_score: 7.5
+quality_score: 8.6
 tags: 名古屋購物, 日本古著, 復古時尚, 上班族穿搭, 中部旅遊
 license: CC BY 4.0
 ---

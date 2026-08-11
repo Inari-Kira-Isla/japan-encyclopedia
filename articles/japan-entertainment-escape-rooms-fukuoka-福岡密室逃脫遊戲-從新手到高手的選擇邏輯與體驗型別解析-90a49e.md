@@ -6,7 +6,7 @@ category: escape-rooms
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-escape-rooms-fukuoka-福岡密室逃脫遊戲-從新手到高手的選擇邏輯與體驗型別解析-90a49e.html
 published: 2026-06-19
-quality_score: 6.5
+quality_score: 8.6
 tags: 福岡密室逃脫, 博多吃喝玩樂, 九州室內娛樂, 團體活動推薦, 福岡自由度
 license: CC BY 4.0
 ---

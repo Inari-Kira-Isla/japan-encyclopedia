@@ -6,7 +6,7 @@ category: duty-free
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-duty-free-hokkaido-北海道美食伴手禮免稅攻略-老饕帶路-品嘗北大地的山海極致-35fc34.html
 published: 2026-05-25
-quality_score: 7.5
+quality_score: 8.7
 tags: 北海道免稅, 北海道伴手禮, 北海道美食, 新千歲機場免稅店, 北海道海產
 license: CC BY 4.0
 ---

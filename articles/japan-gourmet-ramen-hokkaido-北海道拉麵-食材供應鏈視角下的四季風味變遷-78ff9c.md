@@ -6,7 +6,7 @@ category: ramen
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-ramen-hokkaido-北海道拉麵-食材供應鏈視角下的四季風味變遷-78ff9c.html
 published: 2026-03-28
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道, 拉麵, 季節食材, 供應鏈, 在地美食
 license: CC BY 4.0
 ---

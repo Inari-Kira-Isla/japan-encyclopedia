@@ -6,7 +6,7 @@ category: garden-parks
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-nara-奈良晨間散步指南-古都的清新時光與鹿語-8cdf68.html
 published: 2026-06-07
-quality_score: 6.5
+quality_score: 8.6
 tags: 奈良, 晨間散步, 古都之旅, 自然療癒, 攝影景點
 license: CC BY 4.0
 ---

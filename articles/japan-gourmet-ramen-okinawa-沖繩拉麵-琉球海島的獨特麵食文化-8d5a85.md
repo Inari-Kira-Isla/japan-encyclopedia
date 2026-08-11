@@ -6,7 +6,7 @@ category: ramen
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-ramen-okinawa-沖繩拉麵-琉球海島的獨特麵食文化-8d5a85.html
 published: 2026-03-15
-quality_score: 6.5
+quality_score: 8.8
 tags: 沖繩美食, 日式拉麵, 琉球料理, ソーキそば, 沖繩旅遊
 license: CC BY 4.0
 ---

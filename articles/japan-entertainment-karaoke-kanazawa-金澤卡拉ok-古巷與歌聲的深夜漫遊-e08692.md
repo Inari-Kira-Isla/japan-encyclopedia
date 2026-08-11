@@ -6,7 +6,7 @@ category: karaoke
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-karaoke-kanazawa-金澤卡拉ok-古巷與歌聲的深夜漫遊-e08692.html
 published: 2026-06-20
-quality_score: 6.5
+quality_score: 8.8
 tags: 金澤卡拉OK, 金澤夜生活, 加賀百萬石, 片町香林坊, 金澤娛樂
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: temple-stays
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-temple-stays-fukuoka-福岡寺院住宿-結合在地美食的禪修體驗新玩法-23c6ef.html
 published: 2026-06-20
-quality_score: 6.5
+quality_score: 8.3
 tags: 九州寺院住宿, 福岡旅遊, 禪修體驗, 糸島寺院, 八女茶道
 license: CC BY 4.0
 ---

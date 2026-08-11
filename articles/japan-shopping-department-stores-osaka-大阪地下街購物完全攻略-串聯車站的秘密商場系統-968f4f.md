@@ -6,7 +6,7 @@ category: department-stores
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-department-stores-osaka-大阪地下街購物完全攻略-串聯車站的秘密商場系統-968f4f.html
 published: 2026-06-19
-quality_score: 7.5
+quality_score: 8.6
 tags: 大阪地下街, 大阪購物, Whity, 難波千日前, 阿倍野地下街
 license: CC BY 4.0
 ---

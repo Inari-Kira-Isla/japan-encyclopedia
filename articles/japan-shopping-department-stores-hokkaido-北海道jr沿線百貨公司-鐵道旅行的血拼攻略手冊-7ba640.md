@@ -6,7 +6,7 @@ category: department-stores
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-department-stores-hokkaido-北海道jr沿線百貨公司-鐵道旅行的血拼攻略手冊-7ba640.html
 published: 2026-07-02
-quality_score: 7.5
+quality_score: 8.8
 tags: 北海道, JR鐵路, 百货公司, 購物攻略, 札幌
 license: CC BY 4.0
 ---

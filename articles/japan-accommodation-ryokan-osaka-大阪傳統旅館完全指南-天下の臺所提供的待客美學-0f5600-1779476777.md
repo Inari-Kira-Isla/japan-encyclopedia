@@ -6,7 +6,7 @@ category: ryokan
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-osaka-大阪傳統旅館完全指南-天下の臺所提供的待客美學-0f5600-1779476777.html
 published: 2026-05-22
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪, 傳統旅馆, Ryokan, 天下の台所, 住宿推荐
 license: CC BY 4.0
 ---

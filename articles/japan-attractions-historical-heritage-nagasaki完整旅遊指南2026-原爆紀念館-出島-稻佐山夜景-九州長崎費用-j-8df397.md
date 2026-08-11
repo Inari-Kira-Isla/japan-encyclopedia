@@ -6,7 +6,7 @@ category: historical-heritage
 area: japan
 url: https://japan-encyclopedia.vercel.app/articles/japan-attractions-historical-heritage-nagasaki完整旅遊指南2026-原爆紀念館-出島-稻佐山夜景-九州長崎費用-j-8df397.html
 published: 2026-04-05
-quality_score: 7.6
+quality_score: 8.5
 tags:  Nagasaki原爆館, 出島荷蘭商館,  Nagasaki旅遊, 稻佐山夜景,  Nagasaki強棒
 license: CC BY 4.0
 ---

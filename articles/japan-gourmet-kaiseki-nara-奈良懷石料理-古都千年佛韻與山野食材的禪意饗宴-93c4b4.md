@@ -6,7 +6,7 @@ category: kaiseki
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-kaiseki-nara-奈良懷石料理-古都千年佛韻與山野食材的禪意饗宴-93c4b4.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 奈良, 懷石料理, 精進料理, 佛教文化, 吉野山
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: sumo
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-kyoto-京都相撲娛樂夜生活-力士主題的現代體驗之旅-6d7dbd.html
 published: 2026-04-06
-quality_score: 6.5
+quality_score: 8.7
 tags: 京都夜生活, 相撲體驗, 主題娛樂, 居酒屋文化, 京都遊戲
 license: CC BY 4.0
 ---

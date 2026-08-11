@@ -6,7 +6,7 @@ category: boutique-hotels
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-hiroshima-廣島-boutique-hotels-藏在巷弄裡的生活美學宿體驗-5d3535.html
 published: 2026-05-24
-quality_score: 6.5
+quality_score: 8.5
 tags: 廣島住宿, boutique hotels, 八丁掘, 袋町, 元安桥
 license: CC BY 4.0
 ---

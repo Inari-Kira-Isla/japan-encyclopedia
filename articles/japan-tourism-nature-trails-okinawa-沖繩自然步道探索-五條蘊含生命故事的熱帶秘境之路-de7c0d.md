@@ -6,7 +6,7 @@ category: nature-trails
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-okinawa-沖繩自然步道探索-五條蘊含生命故事的熱帶秘境之路-de7c0d.html
 published: 2026-04-06
-quality_score: 6.5
+quality_score: 8.5
 tags: 沖繩自然步道, 亞熱帶雨林, 山原生態, 歷史步道, 健行攻略
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: onsen
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-onsen-fukuoka-福岡市內秘湯指南-在繁華都市中尋找在地溫泉生活-5bc8b0.html
 published: 2026-05-21
-quality_score: 6.5
+quality_score: 8.8
 tags: 福岡溫泉, 九州溫泉, 市內溫泉, 溫泉一日遊, 博多溫泉
 license: CC BY 4.0
 ---

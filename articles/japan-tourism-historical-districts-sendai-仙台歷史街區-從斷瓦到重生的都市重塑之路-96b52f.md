@@ -6,7 +6,7 @@ category: historical-districts
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-sendai-仙台歷史街區-從斷瓦到重生的都市重塑之路-96b52f.html
 published: 2026-05-22
-quality_score: 6.5
+quality_score: 8.9
 tags: 仙台, 歷史街區, 大門横丁, 一番町, 定禅寺通
 license: CC BY 4.0
 ---

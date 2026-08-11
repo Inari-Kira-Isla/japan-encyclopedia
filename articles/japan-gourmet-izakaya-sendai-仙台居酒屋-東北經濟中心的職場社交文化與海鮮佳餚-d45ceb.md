@@ -6,7 +6,7 @@ category: izakaya
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-izakaya-sendai-仙台居酒屋-東北經濟中心的職場社交文化與海鮮佳餚-d45ceb.html
 published: 2026-04-08
-quality_score: 6.5
+quality_score: 8.9
 tags: 仙台, 居酒屋, 東北美食, 日本料理, 職場文化
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: electronics
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-electronics-hokkaido-北海道自駕電子配備攻略-租車旅遊的科技幫手-d423aa.html
 published: 2026-06-18
-quality_score: 7.5
+quality_score: 8.5
 tags: 北海道自駕, 電子產品, 車載設備, 露營電子, 北海道購物
 license: CC BY 4.0
 ---

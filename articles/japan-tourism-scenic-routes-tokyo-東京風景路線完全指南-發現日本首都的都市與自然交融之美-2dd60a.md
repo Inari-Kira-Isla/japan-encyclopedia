@@ -6,7 +6,7 @@ category: scenic-routes
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-tokyo-東京風景路線完全指南-發現日本首都的都市與自然交融之美-2dd60a.html
 published: 2026-03-20
-quality_score: 6.5
+quality_score: 8.5
 tags: 東京, 風景路線, 自行車, 自然步道, 旅遊指南
 license: CC BY 4.0
 ---

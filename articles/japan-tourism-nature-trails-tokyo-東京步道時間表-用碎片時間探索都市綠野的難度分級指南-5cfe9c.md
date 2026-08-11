@@ -6,7 +6,7 @@ category: nature-trails
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-tokyo-東京步道時間表-用碎片時間探索都市綠野的難度分級指南-5cfe9c.html
 published: 2026-03-24
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京自然步道, 登山難度分級, 季節體驗, 都市綠地, 日本戶外文化
 license: CC BY 4.0
 ---

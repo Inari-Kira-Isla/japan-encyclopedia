@@ -6,7 +6,7 @@ category: ski-resorts
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-ski-resorts-hokkaido-北海道隱藏版滑雪場-在地人推薦的私房雪場-6363ba.html
 published: 2026-03-31
-quality_score: 6.5
+quality_score: 8.5
 tags: 北海道滑雪, 隱藏版雪場, 二世古替代方案, 定山溪滑雪, 中山峠滑雪
 license: CC BY 4.0
 ---

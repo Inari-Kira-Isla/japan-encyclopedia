@@ -6,7 +6,7 @@ category: rental-cars
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-sendai-仙台租車自駕遊-太平洋沿岸海味之路與鹽灶神社的深度探索-60cf84.html
 published: 2026-06-23
-quality_score: 7.5
+quality_score: 8.5
 tags: 仙台租車, 東北自駕遊, 女川牡蠣, 石卷魚市場, 太平洋沿岸
 license: CC BY 4.0
 ---

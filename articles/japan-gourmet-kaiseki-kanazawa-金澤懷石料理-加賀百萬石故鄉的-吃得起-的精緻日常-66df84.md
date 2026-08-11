@@ -6,7 +6,7 @@ category: kaiseki
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-kaiseki-kanazawa-金澤懷石料理-加賀百萬石故鄉的-吃得起-的精緻日常-66df84.html
 published: 2026-07-02
-quality_score: 6.5
+quality_score: 8.8
 tags: 金澤美食, 日本海鮮, 會席料理, 加賀料理, 日本自由行
 license: CC BY 4.0
 ---

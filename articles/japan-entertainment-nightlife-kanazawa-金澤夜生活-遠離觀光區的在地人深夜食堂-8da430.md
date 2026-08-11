@@ -6,7 +6,7 @@ category: nightlife
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-kanazawa-金澤夜生活-遠離觀光區的在地人深夜食堂-8da430.html
 published: 2026-06-06
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤夜生活, 石川縣, 加賀料理, 北陸小京都, 在地人食堂
 license: CC BY 4.0
 ---

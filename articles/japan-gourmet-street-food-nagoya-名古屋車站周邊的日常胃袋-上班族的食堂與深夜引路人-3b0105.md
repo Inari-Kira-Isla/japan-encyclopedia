@@ -6,7 +6,7 @@ category: street-food
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-street-food-nagoya-名古屋車站周邊的日常胃袋-上班族的食堂與深夜引路人-3b0105.html
 published: 2026-06-12
-quality_score: 6.5
+quality_score: 8.7
 tags: 名古屋, 街頭美食, 車站周邊, 上班族, 味噌煮込み
 license: CC BY 4.0
 ---

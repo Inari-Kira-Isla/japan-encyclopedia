@@ -6,7 +6,7 @@ category: gaming-arcades
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-gaming-arcades-fukuoka-福岡遊戲中心-天神-中洲-藥院的街機樂園-70d689.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 9.0
 tags: 福岡遊戲中心, 天神地下街, 中洲娛樂, 藥院, 日本街機文化
 license: CC BY 4.0
 ---

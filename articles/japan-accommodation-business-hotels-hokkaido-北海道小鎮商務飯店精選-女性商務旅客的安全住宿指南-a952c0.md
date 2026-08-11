@@ -6,7 +6,7 @@ category: business-hotels
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-business-hotels-hokkaido-北海道小鎮商務飯店精選-女性商務旅客的安全住宿指南-a952c0.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道, 商務飯店, 女性旅客, 小樽, 室蘭
 license: CC BY 4.0
 ---

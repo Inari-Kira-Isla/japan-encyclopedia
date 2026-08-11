@@ -6,7 +6,7 @@ category: yakitori
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-yakitori-kanazawa-金澤燒鳥-日本海鮮與串燒的北陸碰撞-04a2f6.html
 published: 2026-06-15
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤燒鳥, 石川縣美食, 日本海海鮮, 加賀料理, 北路
 license: CC BY 4.0
 ---

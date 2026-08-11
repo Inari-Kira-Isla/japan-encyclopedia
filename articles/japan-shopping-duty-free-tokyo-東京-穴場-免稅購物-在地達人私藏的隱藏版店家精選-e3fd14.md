@@ -6,7 +6,7 @@ category: duty-free
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-duty-free-tokyo-東京-穴場-免稅購物-在地達人私藏的隱藏版店家精選-e3fd14.html
 published: 2026-06-06
-quality_score: 7.5
+quality_score: 8.5
 tags: 東京購物, 免稅攻略, 下北澤, 目黑, 清澄白河
 license: CC BY 4.0
 ---

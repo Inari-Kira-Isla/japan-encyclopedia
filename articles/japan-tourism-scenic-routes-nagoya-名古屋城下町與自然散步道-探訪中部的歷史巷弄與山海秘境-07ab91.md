@@ -6,7 +6,7 @@ category: scenic-routes
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-nagoya-名古屋城下町與自然散步道-探訪中部的歷史巷弄與山海秘境-07ab91.html
 published: 2026-06-27
-quality_score: 6.5
+quality_score: 8.6
 tags: 名古屋, 散步道, 城下町, 自然風光, 一日遊
 license: CC BY 4.0
 ---

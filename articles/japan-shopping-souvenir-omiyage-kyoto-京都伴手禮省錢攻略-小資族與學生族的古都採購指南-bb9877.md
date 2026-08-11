@@ -6,7 +6,7 @@ category: souvenir-omiyage
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-souvenir-omiyage-kyoto-京都伴手禮省錢攻略-小資族與學生族的古都採購指南-bb9877.html
 published: 2026-06-08
-quality_score: 7.5
+quality_score: 8.6
 tags: 京都伴手禮, 京都購物, 京都自由行, 省錢攻略, 小資族旅遊
 license: CC BY 4.0
 ---

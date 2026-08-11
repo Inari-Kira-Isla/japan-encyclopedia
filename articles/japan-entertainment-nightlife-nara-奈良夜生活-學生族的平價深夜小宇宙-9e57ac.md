@@ -6,7 +6,7 @@ category: nightlife
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-nara-奈良夜生活-學生族的平價深夜小宇宙-9e57ac.html
 published: 2026-06-14
-quality_score: 6.5
+quality_score: 8.8
 tags: 奈良夜生活, 學生友善, 平價美食, 卡拉OK, 關西深度遊
 license: CC BY 4.0
 ---

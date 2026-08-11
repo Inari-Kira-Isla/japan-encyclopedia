@@ -6,7 +6,7 @@ category: electronics
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-electronics-okinawa-沖繩電子產品購物隱藏版攻略-在地人帶路的巷弄電器行與特色小店-05e1db.html
 published: 2026-05-25
-quality_score: 7.5
+quality_score: 8.8
 tags: 沖繩購物, 電子產品, 在地電器行, 那霸市, 日本免稅
 license: CC BY 4.0
 ---

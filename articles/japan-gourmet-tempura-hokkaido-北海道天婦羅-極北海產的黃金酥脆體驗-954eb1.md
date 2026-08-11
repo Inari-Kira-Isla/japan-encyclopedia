@@ -6,7 +6,7 @@ category: tempura
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tempura-hokkaido-北海道天婦羅-極北海產的黃金酥脆體驗-954eb1.html
 published: 2026-06-19
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道天婦羅, 北海產海鮮, 北海道美食, 帶子天婦羅, 海膽天婦羅
 license: CC BY 4.0
 ---

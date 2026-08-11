@@ -6,7 +6,7 @@ category: department-stores
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-department-stores-osaka-大阪在地購物生活指南-居民日常採買與銀髮友善百貨-1377c6.html
 published: 2026-06-12
-quality_score: 7.5
+quality_score: 8.6
 tags: 大阪購物, 大阪百货公司, 关西购物, 生活购物, 银髮友善
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: buses
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-buses-kobe-神戶市巴士遊-公交通的美學與便捷-94cd2a.html
 published: 2026-06-01
-quality_score: 7.5
+quality_score: 8.6
 tags: 神戶交通, 神戶巴士, 神戶自由行, CityLoop, 神戶市區交通
 license: CC BY 4.0
 ---

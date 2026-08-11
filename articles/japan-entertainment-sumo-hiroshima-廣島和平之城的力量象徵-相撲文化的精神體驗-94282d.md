@@ -6,7 +6,7 @@ category: sumo
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-hiroshima-廣島和平之城的力量象徵-相撲文化的精神體驗-94282d.html
 published: 2026-03-29
-quality_score: 6.5
+quality_score: 8.8
 tags: 廣島相撲, 日本文化體驗, 精神修養, 瀨戶內海, 宮島
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: souvenir-omiyage
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-souvenir-omiyage-sendai-仙台職人伴手禮-四季工藝與限定美味的深度探索-cf6c85.html
 published: 2026-03-28
-quality_score: 7.5
+quality_score: 8.7
 tags: 仙台, 職人工藝, 季節限定, 東北特產, 日本伴手禮
 license: CC BY 4.0
 ---

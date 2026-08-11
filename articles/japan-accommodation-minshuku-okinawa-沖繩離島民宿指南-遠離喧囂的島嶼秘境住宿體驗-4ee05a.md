@@ -6,7 +6,7 @@ category: minshuku
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-okinawa-沖繩離島民宿指南-遠離喧囂的島嶼秘境住宿體驗-4ee05a.html
 published: 2026-03-26
-quality_score: 6.5
+quality_score: 8.9
 tags: 沖繩離島, 民宿住宿, 石垣島, 宮古島, 久米島
 license: CC BY 4.0
 ---

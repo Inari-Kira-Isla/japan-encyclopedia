@@ -6,7 +6,7 @@ category: historical-districts
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-tokyo-東京私鐵沿線歷史散步-從車站出發的生活圈物語-4810d4.html
 published: 2026-05-24
-quality_score: 6.5
+quality_score: 8.6
 tags: 東京歷史街區, 私鐵沿線, 自由が丘, 下北澤, 吉祥寺
 license: CC BY 4.0
 ---

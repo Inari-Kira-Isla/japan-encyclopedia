@@ -6,7 +6,7 @@ category: duty-free
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-duty-free-okinawa-沖繩自駕遊免稅購物攻略-租車人士專屬的隱藏版免稅店地圖-9eafdf.html
 published: 2026-06-27
-quality_score: 7.5
+quality_score: 8.6
 tags: 沖繩自駕遊, 免稅店推薦, 沖繩伴手禮, 租車購物,  Okinawa
 license: CC BY 4.0
 ---

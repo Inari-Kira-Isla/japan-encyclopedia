@@ -6,7 +6,7 @@ category: metro-systems
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-hokkaido-札幌地下鐵的冬日生存法則-雪國通勤的智慧選擇-f5d4a7.html
 published: 2026-05-23
-quality_score: 7.5
+quality_score: 8.5
 tags: 北海道地下鐵, 札幌交通, 北海道自助, 冬季北海道, 日本交通費
 license: CC BY 4.0
 ---

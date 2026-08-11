@@ -6,7 +6,7 @@ category: scenic-routes
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-sendai-仙台絕景兜風路線-從海岸線到山嶽的風景自駕指南-3377c4.html
 published: 2026-04-04
-quality_score: 6.5
+quality_score: 8.8
 tags: 仙台, 風景路線, 自駕, 東北日本, 自然景觀
 license: CC BY 4.0
 ---

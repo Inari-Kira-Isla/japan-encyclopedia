@@ -6,7 +6,7 @@ category: izakaya
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-izakaya-kyoto-京都居酒屋的另一面-從三條通到西陣-探訪古都的日常酒食風景-3ca093.html
 published: 2026-06-14
-quality_score: 6.5
+quality_score: 8.5
 tags: 京都居酒屋, 京都美食, 京料理, 寺町通, 西陣
 license: CC BY 4.0
 ---

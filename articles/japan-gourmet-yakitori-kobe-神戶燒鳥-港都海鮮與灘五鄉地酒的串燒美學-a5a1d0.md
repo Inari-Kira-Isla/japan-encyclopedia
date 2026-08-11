@@ -6,7 +6,7 @@ category: yakitori
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-yakitori-kobe-神戶燒鳥-港都海鮮與灘五鄉地酒的串燒美學-a5a1d0.html
 published: 2026-05-21
-quality_score: 6.5
+quality_score: 8.7
 tags: 神戶燒鳥, 神戶美食, 灘五鄉清酒, 港口城市, 串燒指南
 license: CC BY 4.0
 ---

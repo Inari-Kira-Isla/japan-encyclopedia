@@ -6,7 +6,7 @@ category: scenic-routes
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-kanazawa-金澤風景散步小徑-穿越加賀百萬石的歷史與自然之路-c9c107.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 8.5
 tags: 金澤, 石川縣, 日本風景, 歷史古城, 兼六園
 license: CC BY 4.0
 ---

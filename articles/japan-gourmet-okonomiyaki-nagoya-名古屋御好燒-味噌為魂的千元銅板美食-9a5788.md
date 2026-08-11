@@ -6,7 +6,7 @@ category: okonomiyaki
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-okonomiyaki-nagoya-名古屋御好燒-味噌為魂的千元銅板美食-9a5788.html
 published: 2026-04-11
-quality_score: 6.5
+quality_score: 8.7
 tags: 名古屋美食, 御好燒, 味噌料理, 中部地方, 銅板美食
 license: CC BY 4.0
 ---

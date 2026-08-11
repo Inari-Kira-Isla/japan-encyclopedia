@@ -6,7 +6,7 @@ category: sake-brewery
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sake-brewery-nara-奈良清酒釀造廠的深度之旅-古都釀酒的文化密碼-869034.html
 published: 2026-05-24
-quality_score: 6.5
+quality_score: 8.7
 tags: 奈良清酒, 釀酒廠巡禮, 日本在地體驗, 古都文化, 清酒愛好者
 license: CC BY 4.0
 ---

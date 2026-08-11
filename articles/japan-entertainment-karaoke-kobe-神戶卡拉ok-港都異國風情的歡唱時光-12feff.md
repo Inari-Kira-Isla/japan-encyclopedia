@@ -6,7 +6,7 @@ category: karaoke
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-karaoke-kobe-神戶卡拉ok-港都異國風情的歡唱時光-12feff.html
 published: 2026-07-01
-quality_score: 6.5
+quality_score: 8.7
 tags: 神戶, 卡拉OK, 關西, 夜生活, 日本娛樂
 license: CC BY 4.0
 ---

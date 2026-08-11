@@ -6,7 +6,7 @@ category: yakitori
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-yakitori-kyoto-京都燒鳥-從丹波地雞到洛南農場的食材之旅-05e97c.html
 published: 2026-06-28
-quality_score: 6.5
+quality_score: 8.9
 tags: 京都燒鳥, 丹波地雞, 京野菜, 燒鳥推薦, 京都美食
 license: CC BY 4.0
 ---

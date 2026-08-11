@@ -6,7 +6,7 @@ category: department-stores
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-department-stores-kobe-神戶購物完整指南-港都五大商圈與特色百貨公司-12aba4.html
 published: 2026-05-23
-quality_score: 7.5
+quality_score: 8.8
 tags: 神戶購物, 大阪都市購物, 關西免稅購物, 日本三大中華街, 港都購物指南
 license: CC BY 4.0
 ---

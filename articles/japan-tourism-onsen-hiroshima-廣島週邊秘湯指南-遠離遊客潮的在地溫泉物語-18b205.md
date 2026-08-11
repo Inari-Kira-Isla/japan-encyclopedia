@@ -6,7 +6,7 @@ category: onsen
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-onsen-hiroshima-廣島週邊秘湯指南-遠離遊客潮的在地溫泉物語-18b205.html
 published: 2026-04-06
-quality_score: 6.5
+quality_score: 8.4
 tags: 廣島溫泉, 秘湯, 日本溫泉, 三段峽, 在地體驗
 license: CC BY 4.0
 ---

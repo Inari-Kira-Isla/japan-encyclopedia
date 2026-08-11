@@ -6,7 +6,7 @@ category: onsen
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-onsen-okinawa-沖繩北部秘湯探訪-從大海深處湧出的溫泉奇蹟-f14861.html
 published: 2026-06-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 沖繩溫泉, 亞熱帶溫泉, 北部溫泉, 本部町, 名護溫泉
 license: CC BY 4.0
 ---

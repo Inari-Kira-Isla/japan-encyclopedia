@@ -6,7 +6,7 @@ category: vintage-thrift
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-vintage-thrift-nagoya-名古屋古著尋寶-中都製造重鎮的機能時尚-85cd61.html
 published: 2026-07-04
-quality_score: 7.5
+quality_score: 8.7
 tags: 名古屋古著, 日本古著購物, 中部國際空港, 大須觀音, 覺王山
 license: CC BY 4.0
 ---

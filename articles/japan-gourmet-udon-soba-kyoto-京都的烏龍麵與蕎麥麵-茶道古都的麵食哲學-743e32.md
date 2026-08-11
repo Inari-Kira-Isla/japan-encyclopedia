@@ -6,7 +6,7 @@ category: udon-soba
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-udon-soba-kyoto-京都的烏龍麵與蕎麥麵-茶道古都的麵食哲學-743e32.html
 published: 2026-06-09
-quality_score: 6.5
+quality_score: 8.8
 tags: 京都美食, 烏龍麵, 蕎麥麵, 京都旅遊, 茶道文化
 license: CC BY 4.0
 ---

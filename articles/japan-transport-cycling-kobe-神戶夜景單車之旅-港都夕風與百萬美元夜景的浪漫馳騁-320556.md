@@ -6,7 +6,7 @@ category: cycling
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-kobe-神戶夜景單車之旅-港都夕風與百萬美元夜景的浪漫馳騁-320556.html
 published: 2026-05-23
-quality_score: 7.5
+quality_score: 8.4
 tags: 神戶單車, 夜景神戶, 神戶夜騎, 港都單車遊, 神戶自行車
 license: CC BY 4.0
 ---

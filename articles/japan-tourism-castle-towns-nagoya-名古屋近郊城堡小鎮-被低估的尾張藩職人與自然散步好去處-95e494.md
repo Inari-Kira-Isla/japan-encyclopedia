@@ -6,7 +6,7 @@ category: castle-towns
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-castle-towns-nagoya-名古屋近郊城堡小鎮-被低估的尾張藩職人與自然散步好去處-95e494.html
 published: 2026-05-24
-quality_score: 6.5
+quality_score: 8.7
 tags: 名古屋城堡城镇, 尾張藩, 城下町散步, 名古屋近郊, 历史景点
 license: CC BY 4.0
 ---

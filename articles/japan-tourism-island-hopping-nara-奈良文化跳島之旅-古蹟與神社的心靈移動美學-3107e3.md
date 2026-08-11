@@ -6,7 +6,7 @@ category: island-hopping
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-island-hopping-nara-奈良文化跳島之旅-古蹟與神社的心靈移動美學-3107e3.html
 published: 2026-06-20
-quality_score: 6.5
+quality_score: 8.7
 tags: 奈良, 文化跳島, 世界遺產, 古蹟巡禮, 日本深度旅遊
 license: CC BY 4.0
 ---

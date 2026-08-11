@@ -6,7 +6,7 @@ category: duty-free
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-duty-free-tokyo-東京非機場型免稅購物深度指南-新宿・澀谷・池袋的隱藏版免稅攻略-def5ee.html
 published: 2026-06-07
-quality_score: 7.5
+quality_score: 8.5
 tags: 東京免稅購物, 新宿免稅店, 澀谷購物, 池袋購物, 日本免稅攻略
 license: CC BY 4.0
 ---

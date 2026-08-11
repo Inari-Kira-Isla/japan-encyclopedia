@@ -6,7 +6,7 @@ category: jr-pass
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-jr-pass-nagoya-名古屋出發的jr-pass選擇完全指南-沒有專用pass-這裡是正解-864916.html
 published: 2026-06-17
-quality_score: 7.5
+quality_score: 8.6
 tags: 名古屋交通, JR Pass教學, 日本鐵路, 中部旅遊, 關西廣域pass
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: rental-cars
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-nara-奈良租車自駕遊-放射狀路線與地域深度攻略-a89917.html
 published: 2026-06-19
-quality_score: 7.5
+quality_score: 8.4
 tags: 奈良租車, 自駕遊攻略, 日本自由行, 關西自駕, 奈良放射狀旅遊
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: historical-districts
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-nara-奈良歷史街區-走進日本千年古都的時光隧道-ee212d.html
 published: 2026-03-16
-quality_score: 6.5
+quality_score: 8.7
 tags: 奈良, 歷史街區, 日本古都, 飛鳥時代, 奈良町
 license: CC BY 4.0
 ---

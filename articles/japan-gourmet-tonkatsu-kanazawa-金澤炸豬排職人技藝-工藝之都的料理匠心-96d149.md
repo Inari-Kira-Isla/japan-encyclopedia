@@ -6,7 +6,7 @@ category: tonkatsu
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tonkatsu-kanazawa-金澤炸豬排職人技藝-工藝之都的料理匠心-96d149.html
 published: 2026-03-29
-quality_score: 6.5
+quality_score: 8.8
 tags: 金澤美食, 炸豬排, 職人技藝, 加賀料理, 石川縣特產
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: ramen
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-ramen-kobe-神戶拉麵-港都食材優勢下的庶民滋味-610ded.html
 published: 2026-03-24
-quality_score: 6.5
+quality_score: 8.3
 tags: 神戶, 拉麵, 庶民美食, 港都食文化, 淡路島海鮮
 license: CC BY 4.0
 ---

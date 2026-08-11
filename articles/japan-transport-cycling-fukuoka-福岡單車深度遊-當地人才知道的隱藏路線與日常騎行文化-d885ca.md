@@ -6,7 +6,7 @@ category: cycling
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-fukuoka-福岡單車深度遊-當地人才知道的隱藏路線與日常騎行文化-d885ca.html
 published: 2026-06-03
-quality_score: 7.5
+quality_score: 8.5
 tags: 福岡單車, 九州骑行, 糸島海岸线, 河内藤园, 甘木八女
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: anime-manga
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-nara-奈良漫畫家搖籃-古都孕育的日本漫畫教育之旅-bb55e3.html
 published: 2026-06-21
-quality_score: 6.5
+quality_score: 8.7
 tags: 奈良, 漫畫家, 動漫教育, 日本漫畫, 古都文化
 license: CC BY 4.0
 ---

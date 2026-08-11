@@ -6,7 +6,7 @@ category: buses
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-buses-nagoya-名古屋社群巴士漫遊-搭公車深入在地日常的隱藏玩法-0e7952.html
 published: 2026-06-07
-quality_score: 7.5
+quality_score: 8.6
 tags: 名古屋巴士, 市內交通, 一日券, 名古屋深度遊, 社區漫遊
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: udon-soba
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-udon-soba-osaka-大阪烏龍麵與蕎麥麵-四季食材的在地漫遊指南-6aa05a.html
 published: 2026-03-23
-quality_score: 6.5
+quality_score: 8.3
 tags: 大阪美食, 烏龍麵, 蕎麥麵, 季節食材, 關西飲食文化
 license: CC BY 4.0
 ---

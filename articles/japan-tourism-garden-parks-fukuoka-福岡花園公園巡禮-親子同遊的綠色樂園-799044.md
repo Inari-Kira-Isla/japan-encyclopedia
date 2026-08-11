@@ -6,7 +6,7 @@ category: garden-parks
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-fukuoka-福岡花園公園巡禮-親子同遊的綠色樂園-799044.html
 published: 2026-06-08
-quality_score: 6.5
+quality_score: 8.8
 tags: 福岡, 花園公園, 親子旅遊, 九州, 大濠公園
 license: CC BY 4.0
 ---

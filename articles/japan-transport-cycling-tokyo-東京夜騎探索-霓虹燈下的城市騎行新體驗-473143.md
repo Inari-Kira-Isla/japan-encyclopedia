@@ -6,7 +6,7 @@ category: cycling
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-tokyo-東京夜騎探索-霓虹燈下的城市騎行新體驗-473143.html
 published: 2026-03-28
-quality_score: 7.5
+quality_score: 8.8
 tags: 東京夜騎, 夜間觀光, 城市騎行, 東京夜景
 license: CC BY 4.0
 ---

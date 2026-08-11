@@ -6,7 +6,7 @@ category: tonkatsu
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-tonkatsu-kobe-神戶炸豬排-港都供應鏈優勢下的海陸饗宴-bf5dd7.html
 published: 2026-04-04
-quality_score: 6.5
+quality_score: 8.6
 tags: 神戶美食, 炸豬排, 港都文化, 海鮮配菜, 關西美食
 license: CC BY 4.0
 ---

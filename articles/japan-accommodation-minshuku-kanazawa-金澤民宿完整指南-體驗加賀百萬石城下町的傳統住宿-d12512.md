@@ -6,7 +6,7 @@ category: minshuku
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-kanazawa-金澤民宿完整指南-體驗加賀百萬石城下町的傳統住宿-d12512.html
 published: 2026-06-02
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤民宿, 金澤住宿, 加賀百萬石, 近江町市場, 兼六園
 license: CC BY 4.0
 ---

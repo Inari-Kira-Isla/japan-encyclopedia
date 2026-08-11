@@ -6,7 +6,7 @@ category: udon-soba
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-udon-soba-kyoto-京都巷弄散步麵食地圖-從銀閣寺到錦市場的烏龍麵散步徑-7f7478.html
 published: 2026-06-23
-quality_score: 6.5
+quality_score: 8.7
 tags: 京都烏龍麵, 京都散步, 京都美食, 京都自由行, 京料理
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: kaiseki
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-kaiseki-kobe-神戶懷石料理-國際商務場合的日式待客之道-1b697c.html
 published: 2026-04-06
-quality_score: 6.5
+quality_score: 8.9
 tags: 神戶美食, 懷石料理, 商務宴請, 瀨戶內海, 日本料理
 license: CC BY 4.0
 ---

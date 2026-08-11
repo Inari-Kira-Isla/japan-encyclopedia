@@ -6,7 +6,7 @@ category: scenic-routes
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-tokyo-東京水岸風光巡禮-從隅田川到臺場的水上都會之路-430b19.html
 published: 2026-06-01
-quality_score: 6.5
+quality_score: 8.6
 tags: 東京水岸, 隅田川, 台場, 夜景, 東京都心生
 license: CC BY 4.0
 ---

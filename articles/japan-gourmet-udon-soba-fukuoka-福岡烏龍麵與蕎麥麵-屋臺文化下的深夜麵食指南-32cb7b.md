@@ -6,7 +6,7 @@ category: udon-soba
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-udon-soba-fukuoka-福岡烏龍麵與蕎麥麵-屋臺文化下的深夜麵食指南-32cb7b.html
 published: 2026-04-02
-quality_score: 6.5
+quality_score: 8.9
 tags: 福岡美食, 烏龍麵, 蕎麥麵, 屋台文化, 深夜食堂
 license: CC BY 4.0
 ---

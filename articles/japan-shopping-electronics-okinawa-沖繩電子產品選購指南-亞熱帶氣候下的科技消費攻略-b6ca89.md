@@ -6,7 +6,7 @@ category: electronics
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-electronics-okinawa-沖繩電子產品選購指南-亞熱帶氣候下的科技消費攻略-b6ca89.html
 published: 2026-06-11
-quality_score: 7.5
+quality_score: 8.1
 tags: 沖繩電子產品, 亞熱帶購物, 日本電器, 沖繩自由行, 數碼相機
 license: CC BY 4.0
 ---

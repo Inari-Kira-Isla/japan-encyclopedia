@@ -6,7 +6,7 @@ category: souvenir-omiyage
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-souvenir-omiyage-osaka-大阪伴手禮購物攻略-在地人的隱藏版特產採買術-fed225.html
 published: 2026-04-06
-quality_score: 7.5
+quality_score: 8.8
 tags: 大阪購物, 伴手禮, 在地文化, 省錢攻略, 隱藏景點
 license: CC BY 4.0
 ---

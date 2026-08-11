@@ -6,7 +6,7 @@ category: okonomiyaki
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-okonomiyaki-fukuoka-福岡御好燒-深夜食堂的鐵板哲學-7a1919.html
 published: 2026-05-22
-quality_score: 6.5
+quality_score: 8.9
 tags: 福岡美食, 御好燒, 屋台文化, 深夜食堂, 九州料理
 license: CC BY 4.0
 ---

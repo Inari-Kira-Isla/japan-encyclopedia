@@ -6,7 +6,7 @@ category: jr-pass
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-jr-pass-kobe-神戶交通完全攻略-從關西機場進城的鐵道路線與票券選擇-b10c45.html
 published: 2026-05-25
-quality_score: 7.5
+quality_score: 8.7
 tags: 神戶, 關西機場交通, ICOCA, Haruka, Port Liner
 license: CC BY 4.0
 ---

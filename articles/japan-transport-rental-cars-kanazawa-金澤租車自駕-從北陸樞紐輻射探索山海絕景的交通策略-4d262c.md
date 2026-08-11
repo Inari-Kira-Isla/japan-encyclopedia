@@ -6,7 +6,7 @@ category: rental-cars
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-kanazawa-金澤租車自駕-從北陸樞紐輻射探索山海絕景的交通策略-4d262c.html
 published: 2026-06-18
-quality_score: 7.5
+quality_score: 8.4
 tags: 金澤租車, 北陸自駕, 能登半島, 白川鄉, 立山黑部
 license: CC BY 4.0
 ---

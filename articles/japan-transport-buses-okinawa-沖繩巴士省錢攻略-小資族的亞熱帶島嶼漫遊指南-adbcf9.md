@@ -6,7 +6,7 @@ category: buses
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-buses-okinawa-沖繩巴士省錢攻略-小資族的亞熱帶島嶼漫遊指南-adbcf9.html
 published: 2026-03-27
-quality_score: 7.5
+quality_score: 8.5
 tags: 沖繩巴士, 預算旅遊, 省錢攻略, 大眾運輸, 小資旅行
 license: CC BY 4.0
 ---

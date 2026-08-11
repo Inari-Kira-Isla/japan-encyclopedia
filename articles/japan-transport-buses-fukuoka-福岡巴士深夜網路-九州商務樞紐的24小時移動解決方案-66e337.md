@@ -6,7 +6,7 @@ category: buses
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-buses-fukuoka-福岡巴士深夜網路-九州商務樞紐的24小時移動解決方案-66e337.html
 published: 2026-04-04
-quality_score: 7.5
+quality_score: 8.5
 tags: 福岡交通, 商務巴士, 深夜交通, 九州通勤, 機場接駁
 license: CC BY 4.0
 ---

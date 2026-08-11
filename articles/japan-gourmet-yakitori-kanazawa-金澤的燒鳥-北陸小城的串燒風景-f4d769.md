@@ -6,7 +6,7 @@ category: yakitori
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-yakitori-kanazawa-金澤的燒鳥-北陸小城的串燒風景-f4d769.html
 published: 2026-05-31
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤燒鳥, 金澤美食, 石川縣, 加賀野菜, 能登雞
 license: CC BY 4.0
 ---

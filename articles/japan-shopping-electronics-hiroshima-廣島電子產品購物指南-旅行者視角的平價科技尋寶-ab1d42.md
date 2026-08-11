@@ -6,7 +6,7 @@ category: electronics
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-electronics-hiroshima-廣島電子產品購物指南-旅行者視角的平價科技尋寶-ab1d42.html
 published: 2026-06-03
-quality_score: 7.5
+quality_score: 7.9
 tags: 广岛、电子产品、购物指南、平价电器、广岛站, 自驾旅游 , 日本旅游, 伴手礼
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: onsen
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-onsen-sendai-仙台溫泉完全指南-探索宮城的秘湯與名湯-df7bda.html
 published: 2026-07-04
-quality_score: 6.5
+quality_score: 8.6
 tags: 仙台溫泉, 東北溫泉, 秋保溫泉, 鳴子溫泉, 作並溫泉
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: love-hotels
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-love-hotels-nagoya-名古屋love-hotels-實用主義導向的中部都會住宿選擇-e35834.html
 published: 2026-06-30
-quality_score: 6.5
+quality_score: 8.6
 tags: 名古屋, Love Hotels, 中部地方, 情侶住宿, 榮地區
 license: CC BY 4.0
 ---

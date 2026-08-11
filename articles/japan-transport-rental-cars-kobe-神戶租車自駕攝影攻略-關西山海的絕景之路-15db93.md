@@ -6,7 +6,7 @@ category: rental-cars
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-kobe-神戶租車自駕攝影攻略-關西山海的絕景之路-15db93.html
 published: 2026-06-05
-quality_score: 7.5
+quality_score: 8.0
 tags: 神戶租車, 自駕攝影, 關西山海, 六甲山, 明石海峽
 license: CC BY 4.0
 ---

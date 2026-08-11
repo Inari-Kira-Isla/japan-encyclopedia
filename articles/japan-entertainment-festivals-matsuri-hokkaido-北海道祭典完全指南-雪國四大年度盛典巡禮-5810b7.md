@@ -6,7 +6,7 @@ category: festivals-matsuri
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-festivals-matsuri-hokkaido-北海道祭典完全指南-雪國四大年度盛典巡禮-5810b7.html
 published: 2026-06-02
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道祭典, 札幌雪祭, 小樽雪灯之路, 旭川冬之祭, 富良野薰衣草祭
 license: CC BY 4.0
 ---

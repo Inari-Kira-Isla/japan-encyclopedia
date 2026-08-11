@@ -6,7 +6,7 @@ category: vr-experiences
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-vr-experiences-tokyo-東京vr體驗完全指南-從臺場到池袋-感受虛擬實境的未來脈動-cf816d.html
 published: 2026-05-22
-quality_score: 6.5
+quality_score: 8.6
 tags: 東京VR, 東京親子, 東京科技, 東京休閒, 台場景點
 license: CC BY 4.0
 ---

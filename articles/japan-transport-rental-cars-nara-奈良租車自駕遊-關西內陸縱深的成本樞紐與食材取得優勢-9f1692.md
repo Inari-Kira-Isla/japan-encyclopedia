@@ -6,7 +6,7 @@ category: rental-cars
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-nara-奈良租車自駕遊-關西內陸縱深的成本樞紐與食材取得優勢-9f1692.html
 published: 2026-06-23
-quality_score: 7.5
+quality_score: 8.5
 tags: 奈良租車, 關西自駕遊, 熊野古道, 三重自駕, 食材取得
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: kaiseki
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-kaiseki-nagoya-名古屋會席料理-味噌包圍的味覺堡壘-b82e6c.html
 published: 2026-07-06
-quality_score: 6.5
+quality_score: 8.8
 tags: 名古屋會席, 名古屋美食, 日本料理, 中部地方, 懷石料理
 license: CC BY 4.0
 ---

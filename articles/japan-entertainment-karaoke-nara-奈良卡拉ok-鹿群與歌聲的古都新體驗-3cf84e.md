@@ -6,7 +6,7 @@ category: karaoke
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-karaoke-nara-奈良卡拉ok-鹿群與歌聲的古都新體驗-3cf84e.html
 published: 2026-06-25
-quality_score: 6.5
+quality_score: 8.7
 tags: 奈良卡拉OK, 奈良旅遊, 關西卡拉OK, 大學城娛樂, 奈良女子大學
 license: CC BY 4.0
 ---

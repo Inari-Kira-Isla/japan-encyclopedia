@@ -6,7 +6,7 @@ category: theme-parks
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-theme-parks-nara-奈良主題樂園與遊樂設施-古都親子遊玩全攻略-7505bb.html
 published: 2026-06-02
-quality_score: 6.5
+quality_score: 8.7
 tags: 奈良主題樂園, 奈良親子遊, 奈良遊樂設施, 奈良自由行, 關西親子遊
 license: CC BY 4.0
 ---

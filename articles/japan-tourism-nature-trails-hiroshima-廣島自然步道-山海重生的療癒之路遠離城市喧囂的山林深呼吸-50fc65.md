@@ -6,7 +6,7 @@ category: nature-trails
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-hiroshima-廣島自然步道-山海重生的療癒之路遠離城市喧囂的山林深呼吸-50fc65.html
 published: 2026-06-03
-quality_score: 6.5
+quality_score: 8.6
 tags: 廣島自然步道, 廣島登山, 廣島徒步, 廣島山林, 日本自然ガイド
 license: CC BY 4.0
 ---

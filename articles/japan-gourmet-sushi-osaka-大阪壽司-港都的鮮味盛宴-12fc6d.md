@@ -6,7 +6,7 @@ category: sushi
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sushi-osaka-大阪壽司-港都的鮮味盛宴-12fc6d.html
 published: 2026-03-18
-quality_score: 6.5
+quality_score: 8.8
 tags: 大阪壽司, 日本美食, 關西壽司, 押壽司, 大阪美食
 license: CC BY 4.0
 ---

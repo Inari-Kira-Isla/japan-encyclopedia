@@ -6,7 +6,7 @@ category: gaming-arcades
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-gaming-arcades-hokkaido-北海道遊戲中心-札幌-薄野一帶的街機文化體驗-9853b1.html
 published: 2026-03-15
-quality_score: 6.5
+quality_score: 8.8
 tags: 北海道, 遊戲中心, 街機, 札幌, 日本娛樂
 license: CC BY 4.0
 ---

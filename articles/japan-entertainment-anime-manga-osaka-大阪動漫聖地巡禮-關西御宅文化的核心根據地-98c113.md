@@ -6,7 +6,7 @@ category: anime-manga
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-osaka-大阪動漫聖地巡禮-關西御宅文化的核心根據地-98c113.html
 published: 2026-06-02
-quality_score: 6.5
+quality_score: 8.6
 tags: 大阪動漫, 日本橋動漫店, 大阪御宅文化, 關西動漫之旅
 license: CC BY 4.0
 ---

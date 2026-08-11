@@ -6,7 +6,7 @@ category: wagyu
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-wagyu-tokyo-tokyo-wagyu-東京人的日常和牛食堂-當地達人的口袋名單-3cf127.html
 published: 2026-06-16
-quality_score: 6.5
+quality_score: 8.7
 tags: Tokyo Wagyu, 東京和牛, 東京美食, 燒肉推薦, 內臟料理
 license: CC BY 4.0
 ---

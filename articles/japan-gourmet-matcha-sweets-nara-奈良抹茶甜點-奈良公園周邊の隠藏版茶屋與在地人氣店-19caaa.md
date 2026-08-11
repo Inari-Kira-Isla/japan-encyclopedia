@@ -6,7 +6,7 @@ category: matcha-sweets
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-matcha-sweets-nara-奈良抹茶甜點-奈良公園周邊の隠藏版茶屋與在地人氣店-19caaa.html
 published: 2026-06-13
-quality_score: 6.5
+quality_score: 8.7
 tags: 奈良抹茶, 奈良甜點, 奈良美食, 關西抹茶, 古都美食
 license: CC BY 4.0
 ---

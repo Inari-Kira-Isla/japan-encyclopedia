@@ -6,7 +6,7 @@ category: wagyu
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-wagyu-okinawa-沖繩和牛-琉球王國的血統驕傲-f3a016.html
 published: 2026-04-07
-quality_score: 6.5
+quality_score: 8.9
 tags: 沖繩, 和牛, 琉球, 日本美食, 燒肉
 license: CC BY 4.0
 ---

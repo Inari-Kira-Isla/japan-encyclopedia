@@ -6,7 +6,7 @@ category: temples-shrines
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-temples-shrines-tokyo-東京寺廟神社巡禮-現代都市中的神聖境界-138f46.html
 published: 2026-03-14
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京, 寺廟神社, 日本文化, 宗教建築, 觀光景點
 license: CC BY 4.0
 ---

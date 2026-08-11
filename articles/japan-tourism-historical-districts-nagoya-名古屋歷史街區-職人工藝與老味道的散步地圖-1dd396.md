@@ -6,7 +6,7 @@ category: historical-districts
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-nagoya-名古屋歷史街區-職人工藝與老味道的散步地圖-1dd396.html
 published: 2026-06-28
-quality_score: 6.5
+quality_score: 8.7
 tags: 名古屋, 歷史街區, 職人, 散步, 城下町
 license: CC BY 4.0
 ---

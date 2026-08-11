@@ -6,7 +6,7 @@ category: duty-free
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-duty-free-tokyo-東京免稅購物聖地-品牌集中度最高的購物天堂完全攻略-7932b4.html
 published: 2026-04-02
-quality_score: 7.5
+quality_score: 8.7
 tags: 東京免稅, 購物攻略, 品牌集中, 機場免稅, 銀座購物
 license: CC BY 4.0
 ---

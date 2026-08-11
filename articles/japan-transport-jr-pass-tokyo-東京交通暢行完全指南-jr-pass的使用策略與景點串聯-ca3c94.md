@@ -6,7 +6,7 @@ category: jr-pass
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-jr-pass-tokyo-東京交通暢行完全指南-jr-pass的使用策略與景點串聯-ca3c94.html
 published: 2026-06-01
-quality_score: 7.5
+quality_score: 8.8
 tags: 東京交通, JR Pass教學, 山手線, 日本鐵路周遊券, 東京自助
 license: CC BY 4.0
 ---

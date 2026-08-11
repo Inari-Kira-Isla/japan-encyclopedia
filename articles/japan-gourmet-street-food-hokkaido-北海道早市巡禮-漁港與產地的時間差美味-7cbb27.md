@@ -6,7 +6,7 @@ category: street-food
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-street-food-hokkaido-北海道早市巡禮-漁港與產地的時間差美味-7cbb27.html
 published: 2026-06-26
-quality_score: 6.5
+quality_score: 8.6
 tags: 北海道, 街頭美食, 漁港, 早市, 海鮮
 license: CC BY 4.0
 ---

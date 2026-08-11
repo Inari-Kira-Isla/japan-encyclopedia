@@ -6,7 +6,7 @@ category: festivals
 area: japan
 url: https://japan-encyclopedia.vercel.app/articles/japan-events-festivals-仙台完整旅遊指南2026-東北第一城市的七夕祭-牛舌名物與松島絕景費用攻略-jp-sendai-tohoku-ta-0f3935.html
 published: 2026-04-13
-quality_score: 7.1
+quality_score: 8.7
 tags: 仙台七夕, 仙台牛舌, 松島, 東北旅遊, 仙台旅遊
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: minshuku
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-tokyo-東京民宿工作旅居指南-在日本實踐-workation-的最佳選擇-b99a28.html
 published: 2026-03-24
-quality_score: 6.5
+quality_score: 8.5
 tags: 東京民宿, 遠距工作, Workation, 長期居留, 東京住宿
 license: CC BY 4.0
 ---

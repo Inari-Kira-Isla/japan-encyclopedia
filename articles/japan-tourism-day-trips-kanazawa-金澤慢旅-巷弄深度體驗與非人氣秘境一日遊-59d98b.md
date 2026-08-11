@@ -6,7 +6,7 @@ category: day-trips
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-kanazawa-金澤慢旅-巷弄深度體驗與非人氣秘境一日遊-59d98b.html
 published: 2026-06-17
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤一日遊, 石川縣深度遊, 輪島漆器, 千里濱海水浴, 日本海自駕
 license: CC BY 4.0
 ---

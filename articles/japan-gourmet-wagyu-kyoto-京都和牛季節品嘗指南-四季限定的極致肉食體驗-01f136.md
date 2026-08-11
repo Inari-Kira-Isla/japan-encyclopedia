@@ -6,7 +6,7 @@ category: wagyu
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-wagyu-kyoto-京都和牛季節品嘗指南-四季限定的極致肉食體驗-01f136.html
 published: 2026-03-26
-quality_score: 6.5
+quality_score: 8.8
 tags: 京都美食, 和牛, 季節料理, 日本燒肉, 祗園
 license: CC BY 4.0
 ---

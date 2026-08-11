@@ -6,7 +6,7 @@ category: depachika
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-depachika-hokkaido-北海道-depachika-雪國甜點王國的地下美食殿堂-3297c8.html
 published: 2026-03-20
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道美食, 札幌購物, 日本百貨, 甜點天堂, 伴手禮
 license: CC BY 4.0
 ---

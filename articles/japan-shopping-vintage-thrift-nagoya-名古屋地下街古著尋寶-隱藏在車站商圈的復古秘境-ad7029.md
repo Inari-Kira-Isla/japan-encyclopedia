@@ -6,7 +6,7 @@ category: vintage-thrift
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-vintage-thrift-nagoya-名古屋地下街古著尋寶-隱藏在車站商圈的復古秘境-ad7029.html
 published: 2026-06-19
-quality_score: 7.5
+quality_score: 8.7
 tags: 名古屋古著, 中部古著, 日本古著, 二手衣, 古著推薦
 license: CC BY 4.0
 ---

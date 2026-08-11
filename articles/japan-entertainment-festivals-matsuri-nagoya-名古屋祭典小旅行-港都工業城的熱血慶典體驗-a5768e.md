@@ -6,7 +6,7 @@ category: festivals-matsuri
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-festivals-matsuri-nagoya-名古屋祭典小旅行-港都工業城的熱血慶典體驗-a5768e.html
 published: 2026-06-23
-quality_score: 6.5
+quality_score: 8.6
 tags: 名古屋祭典, 中京之都, 日本祭典, 名古屋城夏祭, 盆舞
 license: CC BY 4.0
 ---

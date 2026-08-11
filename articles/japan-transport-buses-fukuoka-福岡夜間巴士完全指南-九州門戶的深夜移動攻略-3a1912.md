@@ -6,7 +6,7 @@ category: buses
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-buses-fukuoka-福岡夜間巴士完全指南-九州門戶的深夜移動攻略-3a1912.html
 published: 2026-04-05
-quality_score: 7.5
+quality_score: 8.6
 tags: 福岡交通, 夜間巴士, 深夜移動, 九州旅遊, 國際交通
 license: CC BY 4.0
 ---

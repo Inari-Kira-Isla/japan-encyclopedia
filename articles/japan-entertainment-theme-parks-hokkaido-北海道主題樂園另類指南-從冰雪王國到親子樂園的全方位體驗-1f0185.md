@@ -6,7 +6,7 @@ category: theme-parks
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-theme-parks-hokkaido-北海道主題樂園另類指南-從冰雪王國到親子樂園的全方位體驗-1f0185.html
 published: 2026-05-22
-quality_score: 6.5
+quality_score: 8.4
 tags: 北海道主題樂園, 冬季運動, 親子旅遊, 滑雪場, 北海道旅遊
 license: CC BY 4.0
 ---

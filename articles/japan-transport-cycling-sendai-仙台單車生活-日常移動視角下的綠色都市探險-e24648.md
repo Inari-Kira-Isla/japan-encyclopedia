@@ -6,7 +6,7 @@ category: cycling
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-sendai-仙台單車生活-日常移動視角下的綠色都市探險-e24648.html
 published: 2026-07-02
-quality_score: 7.5
+quality_score: 8.9
 tags: 仙台單車, 杜之都, 東北單車遊, 日本單車旅行, 仙台自由行
 license: CC BY 4.0
 ---

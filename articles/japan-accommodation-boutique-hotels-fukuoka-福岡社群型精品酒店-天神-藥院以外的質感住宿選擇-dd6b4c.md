@@ -6,7 +6,7 @@ category: boutique-hotels
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-fukuoka-福岡社群型精品酒店-天神-藥院以外的質感住宿選擇-dd6b4c.html
 published: 2026-05-25
-quality_score: 6.5
+quality_score: 8.8
 tags: 福岡精品酒店, 九州住宿推薦, 福岡自由行, 社區型旅宿, 藥院周邊
 license: CC BY 4.0
 ---

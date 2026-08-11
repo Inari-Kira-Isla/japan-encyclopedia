@@ -6,7 +6,7 @@ category: metro-systems
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-kobe-神戶地下鐵遊客視角-山海之間的快速移動指南-924b78.html
 published: 2026-06-03
-quality_score: 7.5
+quality_score: 8.7
 tags: 神戶地下鐵, 神戶交通, 神戶觀光, 關西自由行, 六甲山
 license: CC BY 4.0
 ---

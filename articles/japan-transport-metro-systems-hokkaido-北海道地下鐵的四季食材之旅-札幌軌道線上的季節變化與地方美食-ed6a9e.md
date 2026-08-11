@@ -6,7 +6,7 @@ category: metro-systems
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-hokkaido-北海道地下鐵的四季食材之旅-札幌軌道線上的季節變化與地方美食-ed6a9e.html
 published: 2026-03-22
-quality_score: 7.5
+quality_score: 8.6
 tags: 北海道, 札幌地下鐵, 季節旅遊, 地方美食, 四季體驗
 license: CC BY 4.0
 ---

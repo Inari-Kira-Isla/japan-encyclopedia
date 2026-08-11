@@ -6,7 +6,7 @@ category: temple-stays
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-temple-stays-tokyo-東京寺廟住宿完全指南-從都市出發的禪修旅程樞紐-66672d.html
 published: 2026-06-02
-quality_score: 6.5
+quality_score: 8.6
 tags: 東京寺廟住宿, 日本宿坊體驗, 禪修旅行, 高野山, 日光
 license: CC BY 4.0
 ---

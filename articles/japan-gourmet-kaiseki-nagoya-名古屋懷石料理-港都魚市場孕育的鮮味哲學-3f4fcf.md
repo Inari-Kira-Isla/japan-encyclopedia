@@ -6,7 +6,7 @@ category: kaiseki
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-kaiseki-nagoya-名古屋懷石料理-港都魚市場孕育的鮮味哲學-3f4fcf.html
 published: 2026-06-11
-quality_score: 6.5
+quality_score: 8.7
 tags: 名古屋懷石, 港都料理, 三河灣海鮮, 名古屋美食, 會席料理
 license: CC BY 4.0
 ---

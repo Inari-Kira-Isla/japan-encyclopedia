@@ -6,7 +6,7 @@ category: business-hotels
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-business-hotels-tokyo-東京商務酒店-串聯城市節奏的專業住宿樞紐-d47906.html
 published: 2026-06-06
-quality_score: 6.5
+quality_score: 8.3
 tags: 東京商務酒店, 商務住宿, Tokyo, 出差住宿, 商旅指南
 license: CC BY 4.0
 ---

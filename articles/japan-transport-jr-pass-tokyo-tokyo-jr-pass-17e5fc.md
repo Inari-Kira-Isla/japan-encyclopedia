@@ -6,7 +6,7 @@ category: jr-pass
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-jr-pass-tokyo-tokyo-jr-pass-17e5fc.html
 published: 2026-03-24
-quality_score: 6.5
+quality_score: 7.3
 tags: jr-pass, tokyo, japan
 license: CC BY 4.0
 ---

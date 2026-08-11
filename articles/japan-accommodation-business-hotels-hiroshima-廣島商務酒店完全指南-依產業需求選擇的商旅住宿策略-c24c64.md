@@ -6,7 +6,7 @@ category: business-hotels
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-business-hotels-hiroshima-廣島商務酒店完全指南-依產業需求選擇的商旅住宿策略-c24c64.html
 published: 2026-06-16
-quality_score: 6.5
+quality_score: 8.7
 tags: 廣島商務住宿, 產業聚落住宿, 商旅策略, Mazda工廠住宿, 吳市出差
 license: CC BY 4.0
 ---

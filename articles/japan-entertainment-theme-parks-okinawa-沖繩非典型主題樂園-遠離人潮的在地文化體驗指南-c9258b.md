@@ -6,7 +6,7 @@ category: theme-parks
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-theme-parks-okinawa-沖繩非典型主題樂園-遠離人潮的在地文化體驗指南-c9258b.html
 published: 2026-07-03
-quality_score: 6.5
+quality_score: 8.7
 tags: 沖繩主題樂園, 沖繩文化體驗, 沖繩深度旅遊, 沖繩小眾景點,  Okinawa Theme Parks
 license: CC BY 4.0
 ---

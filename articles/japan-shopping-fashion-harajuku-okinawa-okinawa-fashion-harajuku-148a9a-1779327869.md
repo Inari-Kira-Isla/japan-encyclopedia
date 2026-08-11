@@ -6,7 +6,7 @@ category: fashion-harajuku
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-fashion-harajuku-okinawa-okinawa-fashion-harajuku-148a9a-1779327869.html
 published: 2026-05-21
-quality_score: 6.5
+quality_score: 6.9
 tags: fashion-harajuku, okinawa, japan
 license: CC BY 4.0
 ---

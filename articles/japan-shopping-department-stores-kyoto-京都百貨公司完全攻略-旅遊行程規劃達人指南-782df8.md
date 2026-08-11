@@ -6,7 +6,7 @@ category: department-stores
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-department-stores-kyoto-京都百貨公司完全攻略-旅遊行程規劃達人指南-782df8.html
 published: 2026-06-14
-quality_score: 7.5
+quality_score: 8.6
 tags: 京都購物, 京都自由行, 關西百货公司, 京都旅遊攻略, 行李寄放
 license: CC BY 4.0
 ---

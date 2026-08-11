@@ -6,7 +6,7 @@ category: electronics
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-electronics-kanazawa-金澤電子產品購買指南-當地人帶路的質感購物體驗-533e3c.html
 published: 2026-06-14
-quality_score: 7.5
+quality_score: 8.7
 tags: 金澤電子產品, 金澤購物, 日本電子產品, 金澤伴手禮, 北陸購物
 license: CC BY 4.0
 ---

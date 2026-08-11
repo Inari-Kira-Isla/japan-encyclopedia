@@ -6,7 +6,7 @@ category: electronics
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-electronics-okinawa-沖繩健康科技購物指南-長壽之島的健康電子產品探索-41213e.html
 published: 2026-04-01
-quality_score: 7.5
+quality_score: 8.8
 tags: 沖繩電子產品, 健康科技, 免稅購物, 日本購物, 長壽島
 license: CC BY 4.0
 ---

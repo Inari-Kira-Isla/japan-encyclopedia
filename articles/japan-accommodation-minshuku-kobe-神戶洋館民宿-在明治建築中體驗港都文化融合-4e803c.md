@@ -6,7 +6,7 @@ category: minshuku
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-kobe-神戶洋館民宿-在明治建築中體驗港都文化融合-4e803c.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.6
 tags: 神戶民宿, 洋館建築, 歷史住宿, 咖啡文化, 國際港都
 license: CC BY 4.0
 ---

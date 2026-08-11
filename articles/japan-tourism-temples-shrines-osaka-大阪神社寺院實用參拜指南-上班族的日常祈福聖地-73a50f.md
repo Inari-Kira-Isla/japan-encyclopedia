@@ -6,7 +6,7 @@ category: temples-shrines
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-temples-shrines-osaka-大阪神社寺院實用參拜指南-上班族的日常祈福聖地-73a50f.html
 published: 2026-06-15
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪, 神社, 寺院, 祈福, 实用指南
 license: CC BY 4.0
 ---

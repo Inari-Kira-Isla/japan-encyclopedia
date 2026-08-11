@@ -6,7 +6,7 @@ category: ramen
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-ramen-kyoto-京都拉麵-千年古都的食材革新與職人傳承-d09140.html
 published: 2026-04-06
-quality_score: 6.5
+quality_score: 8.8
 tags: 京都美食, 日式拉麵, 職人文化, 傳統食材, 古都料理
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: shinkansen
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-tokyo-東京新娘物語車站周邊漫遊-從東京出發的鐵道樞紐生活圈-ab457e.html
 published: 2026-06-11
-quality_score: 7.5
+quality_score: 8.8
 tags: 東京新娘物語, 東京站, 品川站, 日本鐵道, JR Pass
 license: CC BY 4.0
 ---

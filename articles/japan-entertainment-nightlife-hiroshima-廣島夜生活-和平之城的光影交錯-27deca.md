@@ -6,7 +6,7 @@ category: nightlife
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-hiroshima-廣島夜生活-和平之城的光影交錯-27deca.html
 published: 2026-03-31
-quality_score: 6.5
+quality_score: 8.9
 tags: 廣島夜生活, 日本夜生活, 廣島美食, Nagarekawa, 廣島旅遊
 license: CC BY 4.0
 ---

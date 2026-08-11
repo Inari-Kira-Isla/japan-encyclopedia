@@ -6,7 +6,7 @@ category: ryokan
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-kanazawa-金澤町家住宿之美-非溫泉傳統旅宿的在地文化體驗指南-71bc26.html
 published: 2026-06-07
-quality_score: 6.5
+quality_score: 8.6
 tags: 金澤住宿, 金澤 Ryokan, 町家住宿, 金澤文化旅行, 加賀百萬石
 license: CC BY 4.0
 ---

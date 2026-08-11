@@ -6,7 +6,7 @@ category: nightlife
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-hokkaido-北海道夜生活-雪國居民的暖桌社交學-7ed1fc.html
 published: 2026-06-24
-quality_score: 6.5
+quality_score: 8.7
 tags: 北海道夜生活, 札幌拉麵, 薄野, 小樽運河, 雪國冬季
 license: CC BY 4.0
 ---

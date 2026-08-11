@@ -6,7 +6,7 @@ category: metro-systems
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-hokkaido-北海道地下鐵美食指南-搭地鐵吃遍札幌的海味與拉麵-080f2c.html
 published: 2026-06-23
-quality_score: 7.5
+quality_score: 8.9
 tags: 北海道地下鐵, 札幌美食, 北海道拉麵, 札幌交通, 日本地下鐵
 license: CC BY 4.0
 ---

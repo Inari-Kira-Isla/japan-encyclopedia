@@ -6,7 +6,7 @@ category: anime-manga
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-tokyo-東京古漫尋寶-二手漫畫店的秘境探險-ad3408.html
 published: 2026-06-22
-quality_score: 6.5
+quality_score: 8.6
 tags: 東京動漫, 二手漫畫, 漫畫店, 古本屋, 動漫之旅
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: shinkansen
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-kobe-神戶新幹線-連線日本的港灣樞紐-cbe117.html
 published: 2026-03-21
-quality_score: 7.5
+quality_score: 8.7
 tags: 日本交通, 新幹線, 神戶旅遊, 港灣城市, 兵庫縣
 license: CC BY 4.0
 ---

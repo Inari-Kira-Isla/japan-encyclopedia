@@ -6,7 +6,7 @@ category: craft-markets
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-craft-markets-hokkaido-北海道手作市集撿寶攻略-本地人帶路的工藝小徑-e5c04a.html
 published: 2026-03-31
-quality_score: 7.5
+quality_score: 8.5
 tags: 北海道手作市集, 札幌工藝市場, 小樽玻璃工藝, 帶廣羊毛市集, 旭川冬祭
 license: CC BY 4.0
 ---

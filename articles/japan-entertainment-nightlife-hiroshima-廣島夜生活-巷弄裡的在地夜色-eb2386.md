@@ -6,7 +6,7 @@ category: nightlife
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-hiroshima-廣島夜生活-巷弄裡的在地夜色-eb2386.html
 published: 2026-05-25
-quality_score: 6.5
+quality_score: 8.6
 tags: 廣島夜生活, 廣島美食, 日本酒吧, 廣島旅行, 夜間景點
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: scenic-routes
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-kobe-神戶山林深呼吸-六甲有馬的自然療癒步道之旅-1f8c0b.html
 published: 2026-06-18
-quality_score: 6.5
+quality_score: 8.8
 tags: 神戶景點, 六甲山, 有馬溫泉, 山林步道, 關西溫泉
 license: CC BY 4.0
 ---

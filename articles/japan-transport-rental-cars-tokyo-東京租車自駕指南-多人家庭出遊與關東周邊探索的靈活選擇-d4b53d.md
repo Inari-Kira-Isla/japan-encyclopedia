@@ -6,7 +6,7 @@ category: rental-cars
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-tokyo-東京租車自駕指南-多人家庭出遊與關東周邊探索的靈活選擇-d4b53d.html
 published: 2026-03-23
-quality_score: 7.5
+quality_score: 8.7
 tags: 東京租車, 關東自駕, 日本自駕遊, 家庭出遊, 羽田機場
 license: CC BY 4.0
 ---

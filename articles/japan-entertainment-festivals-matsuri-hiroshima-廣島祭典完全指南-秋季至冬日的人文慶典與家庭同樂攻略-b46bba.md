@@ -6,7 +6,7 @@ category: festivals-matsuri
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-festivals-matsuri-hiroshima-廣島祭典完全指南-秋季至冬日的人文慶典與家庭同樂攻略-b46bba.html
 published: 2026-06-06
-quality_score: 6.5
+quality_score: 8.5
 tags: 廣島祭典, 秋季祭典, 冬季祭典, 廣島文化體驗, 三次燈籠祭
 license: CC BY 4.0
 ---

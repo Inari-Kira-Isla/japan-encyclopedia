@@ -6,7 +6,7 @@ category: wagyu
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-wagyu-osaka-大阪和牛流通解析-關西商都的頂級肉品供應鏈-55daef.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.8
 tags: 大阪和牛, 關西美食, 食肉市場, 商業文化, 供應鏈
 license: CC BY 4.0
 ---

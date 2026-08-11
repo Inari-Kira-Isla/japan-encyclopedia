@@ -6,7 +6,7 @@ category: buses
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-buses-kyoto-京都巴士省錢攻略-古都自助交通的聰明選擇-f1a852.html
 published: 2026-06-17
-quality_score: 7.5
+quality_score: 8.9
 tags: 京都巴士, 京都交通, 古都慢遊, 自助旅行, 省錢攻略
 license: CC BY 4.0
 ---

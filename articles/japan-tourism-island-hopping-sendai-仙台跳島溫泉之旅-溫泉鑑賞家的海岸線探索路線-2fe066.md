@@ -6,7 +6,7 @@ category: island-hopping
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-island-hopping-sendai-仙台跳島溫泉之旅-溫泉鑑賞家的海岸線探索路線-2fe066.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.6
 tags: 仙台, 跳島旅遊, 溫泉, 松島灣, 日式旅館
 license: CC BY 4.0
 ---

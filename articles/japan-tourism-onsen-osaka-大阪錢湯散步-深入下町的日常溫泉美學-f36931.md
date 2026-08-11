@@ -6,7 +6,7 @@ category: onsen
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-onsen-osaka-大阪錢湯散步-深入下町的日常溫泉美學-f36931.html
 published: 2026-07-02
-quality_score: 6.5
+quality_score: 8.9
 tags: 大阪錢湯, 大阪溫泉, 大阪公共澡堂, 關西溫泉, 大阪下町
 license: CC BY 4.0
 ---

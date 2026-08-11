@@ -6,7 +6,7 @@ category: love-hotels
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-love-hotels-kyoto-京都-love-hotels-古都巷弄中的隱密住宿美學與選擇指南-407b54.html
 published: 2026-06-30
-quality_score: 6.5
+quality_score: 8.8
 tags: 京都住宿, 京都情侶飯店, 京都Love Hotels, 京都夜生活, 先斗町
 license: CC BY 4.0
 ---

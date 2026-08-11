@@ -6,7 +6,7 @@ category: ramen
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-ramen-tokyo-東京拉麵-巷弄裡的地域性格地圖-2e1db3.html
 published: 2026-07-01
-quality_score: 6.5
+quality_score: 8.9
 tags: 東京拉麵, 日本拉麵, 新宿拉麵, 淺草美食, 池袋拉麵
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: nature-trails
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-sendai-仙台登山步道全攻略-從入門到進階的山形森林療法-c3cece.html
 published: 2026-06-04
-quality_score: 6.5
+quality_score: 8.7
 tags: 仙台步道, 日本東北自然, 登山健行, 藏王高原, 森林浴
 license: CC BY 4.0
 ---

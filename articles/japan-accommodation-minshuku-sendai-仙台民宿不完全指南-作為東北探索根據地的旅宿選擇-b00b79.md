@@ -6,7 +6,7 @@ category: minshuku
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-sendai-仙台民宿不完全指南-作為東北探索根據地的旅宿選擇-b00b79.html
 published: 2026-06-21
-quality_score: 6.5
+quality_score: 8.5
 tags: 仙台民宿, 東北旅遊, 自助旅行, 根據地式住宿, 日本住宿
 license: CC BY 4.0
 ---

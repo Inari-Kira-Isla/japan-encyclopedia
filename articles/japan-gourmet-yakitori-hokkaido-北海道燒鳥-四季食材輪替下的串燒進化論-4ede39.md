@@ -6,7 +6,7 @@ category: yakitori
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-yakitori-hokkaido-北海道燒鳥-四季食材輪替下的串燒進化論-4ede39.html
 published: 2026-03-29
-quality_score: 6.5
+quality_score: 8.8
 tags: 北海道美食, 室蘭燒鳥, 季節料理, 海鮮燒鳥, 豬肉串燒
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: love-hotels
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-love-hotels-nara-奈良縣-love-hotels-完全指南-古都周邊的情侶住宿選擇與交通攻略-8c558e.html
 published: 2026-06-07
-quality_score: 6.5
+quality_score: 8.6
 tags: 奈良縣, 情侶住宿, 奈良旅遊, love-hotel, 關西住宿
 license: CC BY 4.0
 ---

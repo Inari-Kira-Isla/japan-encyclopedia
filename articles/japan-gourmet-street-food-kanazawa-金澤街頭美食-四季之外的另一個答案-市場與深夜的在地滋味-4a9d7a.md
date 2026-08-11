@@ -6,7 +6,7 @@ category: street-food
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-street-food-kanazawa-金澤街頭美食-四季之外的另一個答案-市場與深夜的在地滋味-4a9d7a.html
 published: 2026-05-21
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤美食, 近江町市場, 石川縣, 金澤街頭食物, 日本北陸
 license: CC BY 4.0
 ---

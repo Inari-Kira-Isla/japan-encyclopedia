@@ -6,7 +6,7 @@ category: festivals-matsuri
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-festivals-matsuri-osaka-大阪祭典經濟學-商都特有的-攤位文化-與錢湯體驗-c2d638.html
 published: 2026-06-09
-quality_score: 6.5
+quality_score: 8.7
 tags: 大阪祭典, 天神祭, 岸和田花車祭, 日本祭典, 關西祭典
 license: CC BY 4.0
 ---

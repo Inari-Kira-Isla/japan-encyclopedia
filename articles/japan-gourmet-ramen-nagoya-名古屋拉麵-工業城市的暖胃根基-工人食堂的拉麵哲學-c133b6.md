@@ -6,7 +6,7 @@ category: ramen
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-ramen-nagoya-名古屋拉麵-工業城市的暖胃根基-工人食堂的拉麵哲學-c133b6.html
 published: 2026-05-24
-quality_score: 6.5
+quality_score: 8.7
 tags: ナゴヤラーメン, 台湾ラーメン, 中部地方,  Workers food,  Industrial city
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: historical-districts
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-nagoya-名古屋歷史街區-從戰國城下町到商人之城的時光漫步-9d59dd.html
 published: 2026-06-05
-quality_score: 6.5
+quality_score: 8.6
 tags: 名古屋歷史街區, 尾張藩, 戰國城下町, 商人之城, 大須觀音
 license: CC BY 4.0
 ---

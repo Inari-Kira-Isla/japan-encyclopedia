@@ -6,7 +6,7 @@ category: matcha-sweets
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-matcha-sweets-kanazawa-金澤抹茶甜點-東茶屋街的茶道風情與隱藏版甜品-4c26fa.html
 published: 2026-06-21
-quality_score: 6.5
+quality_score: 8.6
 tags: 金澤, 抹茶甜點, 東茶屋街, 加賀百萬石, 石川
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: shinkansen
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-tokyo-東京新幹線樞紐完全指南-品川站與東京站的站內外高效轉乘與美食體驗-535b10.html
 published: 2026-03-24
-quality_score: 7.5
+quality_score: 8.7
 tags: 新幹線, 東京交通, 轉乘指南, 站點美食, 旅遊實用
 license: CC BY 4.0
 ---

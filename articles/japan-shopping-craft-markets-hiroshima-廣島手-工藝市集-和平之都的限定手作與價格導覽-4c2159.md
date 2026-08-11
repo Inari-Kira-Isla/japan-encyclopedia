@@ -6,7 +6,7 @@ category: craft-markets
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-craft-markets-hiroshima-廣島手-工藝市集-和平之都的限定手作與價格導覽-4c2159.html
 published: 2026-06-12
-quality_score: 7.5
+quality_score: 8.6
 tags: 廣島市集, 手 工藝, 宮島木雕, 和平主題, 日本中國地方
 license: CC BY 4.0
 ---

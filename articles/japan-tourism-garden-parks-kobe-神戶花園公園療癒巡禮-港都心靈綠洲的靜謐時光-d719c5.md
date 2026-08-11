@@ -6,7 +6,7 @@ category: garden-parks
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-garden-parks-kobe-神戶花園公園療癒巡禮-港都心靈綠洲的靜謐時光-d719c5.html
 published: 2026-04-04
-quality_score: 6.5
+quality_score: 8.7
 tags: 神戶, 花園公園, 療癒, 都市綠洲, 冥想
 license: CC BY 4.0
 ---

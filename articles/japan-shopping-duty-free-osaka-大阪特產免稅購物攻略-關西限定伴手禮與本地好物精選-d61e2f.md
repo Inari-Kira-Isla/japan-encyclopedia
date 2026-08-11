@@ -6,7 +6,7 @@ category: duty-free
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-duty-free-osaka-大阪特產免稅購物攻略-關西限定伴手禮與本地好物精選-d61e2f.html
 published: 2026-05-24
-quality_score: 7.5
+quality_score: 8.7
 tags: 大阪免稅, 關西購物, 大阪特產, 伴手禮推薦, 關西機場
 license: CC BY 4.0
 ---

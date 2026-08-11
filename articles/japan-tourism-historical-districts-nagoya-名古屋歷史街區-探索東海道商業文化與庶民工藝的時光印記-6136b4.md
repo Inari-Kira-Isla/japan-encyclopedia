@@ -6,7 +6,7 @@ category: historical-districts
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-nagoya-名古屋歷史街區-探索東海道商業文化與庶民工藝的時光印記-6136b4.html
 published: 2026-03-26
-quality_score: 6.5
+quality_score: 8.7
 tags: 名古屋, 歷史街區, 傳統工藝, 有松絞染, 大須商店街
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: buses
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-buses-tokyo-東京巴士深度遊-探索鐵路到不了的隱藏東京-e0beb0.html
 published: 2026-04-02
-quality_score: 7.5
+quality_score: 8.7
 tags: 東京巴士, 深度旅遊, 隱藏景點, 當地體驗, 交通攻略
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: castle-towns
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-castle-towns-fukuoka-福岡城下町-武家遺風與屋臺人間的美食散步-efa38b.html
 published: 2026-07-06
-quality_score: 6.5
+quality_score: 8.8
 tags: 福岡城, 城下町, 武家文化, 屋台美食, 九州旅遊
 license: CC BY 4.0
 ---

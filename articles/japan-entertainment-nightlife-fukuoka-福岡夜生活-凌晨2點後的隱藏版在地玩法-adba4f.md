@@ -6,7 +6,7 @@ category: nightlife
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-fukuoka-福岡夜生活-凌晨2點後的隱藏版在地玩法-adba4f.html
 published: 2026-06-19
-quality_score: 6.5
+quality_score: 8.5
 tags: 福岡夜生活, 九州清酒, 屋台文化, 水炊雞湯, 內臟燒烤
 license: CC BY 4.0
 ---

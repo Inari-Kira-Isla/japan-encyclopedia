@@ -6,7 +6,7 @@ category: day-trips
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-tokyo-東京出發一日遊-交通樞紐優勢下的高效周遊策略-bc6449.html
 published: 2026-06-04
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京一日遊, 關東近郊, 鐵路交通, 日光東照宮, 富士山河口湖
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: shinkansen
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-kanazawa-金澤北陸新幹綫完全指南-從東京出發的鐵道門檓與沿線城市比較-033994.html
 published: 2026-06-28
-quality_score: 7.5
+quality_score: 8.5
 tags: 金澤, 北路新幹綫, 日本鐵道, 東京到金澤, 北陸自由行
 license: CC BY 4.0
 ---

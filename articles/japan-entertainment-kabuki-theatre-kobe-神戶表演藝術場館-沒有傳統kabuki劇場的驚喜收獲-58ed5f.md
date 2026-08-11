@@ -6,7 +6,7 @@ category: kabuki-theatre
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-kabuki-theatre-kobe-神戶表演藝術場館-沒有傳統kabuki劇場的驚喜收獲-58ed5f.html
 published: 2026-06-06
-quality_score: 6.5
+quality_score: 8.7
 tags: 神戶, 表演藝術, Live House, 能劇, 漫才
 license: CC BY 4.0
 ---

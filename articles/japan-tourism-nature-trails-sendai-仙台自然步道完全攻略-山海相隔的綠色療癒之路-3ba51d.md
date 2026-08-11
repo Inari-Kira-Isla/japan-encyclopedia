@@ -6,7 +6,7 @@ category: nature-trails
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-sendai-仙台自然步道完全攻略-山海相隔的綠色療癒之路-3ba51d.html
 published: 2026-05-22
-quality_score: 6.5
+quality_score: 8.7
 tags: 仙台自然步道, 宮城縣登山, 日本東北健行, 森林浴體驗
 license: CC BY 4.0
 ---

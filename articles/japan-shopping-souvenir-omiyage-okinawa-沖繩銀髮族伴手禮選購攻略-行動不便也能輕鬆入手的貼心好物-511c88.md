@@ -6,7 +6,7 @@ category: souvenir-omiyage
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-souvenir-omiyage-okinawa-沖繩銀髮族伴手禮選購攻略-行動不便也能輕鬆入手的貼心好物-511c88.html
 published: 2026-06-14
-quality_score: 7.5
+quality_score: 8.9
 tags: 沖繩伴手禮, 銀髮族旅遊, 琉球伴手禮, 那霸購物, 無障礙旅遊
 license: CC BY 4.0
 ---

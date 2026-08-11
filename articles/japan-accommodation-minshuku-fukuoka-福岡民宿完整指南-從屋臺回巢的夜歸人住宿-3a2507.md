@@ -6,7 +6,7 @@ category: minshuku
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-fukuoka-福岡民宿完整指南-從屋臺回巢的夜歸人住宿-3a2507.html
 published: 2026-06-15
-quality_score: 6.5
+quality_score: 8.4
 tags: 福岡民宿, 屋台文化, 九州旅行, 背包客住宿, 經濟型住宿
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: kabuki-theatre
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-kabuki-theatre-osaka-大阪的伝統演劇場-關西kabuki文化的草根魅力-5a687f.html
 published: 2026-06-03
-quality_score: 6.5
+quality_score: 8.8
 tags: 
 license: CC BY 4.0
 ---

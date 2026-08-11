@@ -6,7 +6,7 @@ category: sumo
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-osaka-大阪相撲-關西力士文化的熱血殿堂-ae7d02.html
 published: 2026-03-20
-quality_score: 6.5
+quality_score: 8.6
 tags: 大阪相撲, 日本國技, 相撲料理, 關西文化, 力士體驗
 license: CC BY 4.0
 ---

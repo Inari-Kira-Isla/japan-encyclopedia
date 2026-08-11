@@ -6,7 +6,7 @@ category: ryokan
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-ryokan-hokkaido-北海道東部的秘湯宿-遠離喧囂的極上溫泉之旅-8681f0.html
 published: 2026-06-29
-quality_score: 6.5
+quality_score: 8.6
 tags: 北海道溫泉, 道東秘湯, Ryokan推薦, 溫泉旅行, 日本溫泉
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: vr-experiences
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-vr-experiences-kyoto-京都vr體驗不完全指南-古都與未來的虛擬融合-0cd941.html
 published: 2026-05-20
-quality_score: 6.5
+quality_score: 8.8
 tags: 京都旅遊, 關西VR, 大阪娛樂, 神戶景點, 日本遊戲中心
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: ferries
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-ferries-tokyo-東京渡輪完全指南-從都會航向島嶼的水上之路-c69c6b.html
 published: 2026-06-03
-quality_score: 7.5
+quality_score: 8.8
 tags: 東京渡輪, 東京交通, 三浦半島, 城ヶ島, 竹芝碼頭
 license: CC BY 4.0
 ---

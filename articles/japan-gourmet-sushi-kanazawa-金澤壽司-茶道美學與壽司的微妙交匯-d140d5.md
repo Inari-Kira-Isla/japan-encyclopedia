@@ -6,7 +6,7 @@ category: sushi
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sushi-kanazawa-金澤壽司-茶道美學與壽司的微妙交匯-d140d5.html
 published: 2026-06-29
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤壽司, 日本海海產, 茶道文化, 加賀料理, 石川美食
 license: CC BY 4.0
 ---

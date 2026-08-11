@@ -6,7 +6,7 @@ category: airport-transfer
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-airport-transfer-hokkaido-北海道機場交通完全攻略-依航班時間選擇最適交通方案-b317d8.html
 published: 2026-06-25
-quality_score: 6.5
+quality_score: 7.4
 tags: 北海道機場交通, 新千歲機場, 札幌交通, 機場巴士, JR北海道
 license: CC BY 4.0
 ---

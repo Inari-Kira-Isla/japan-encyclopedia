@@ -6,7 +6,7 @@ category: cycling
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-kobe-神戶騎行完全指南-山海之間的港都慢速旅-74309e.html
 published: 2026-06-02
-quality_score: 7.5
+quality_score: 8.7
 tags: 神戶單車旅行, 六甲山騎行, 北野異人館, 神戶港騎行, 有馬溫泉單車道
 license: CC BY 4.0
 ---

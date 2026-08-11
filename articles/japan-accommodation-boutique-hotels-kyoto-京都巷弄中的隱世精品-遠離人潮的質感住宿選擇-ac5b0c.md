@@ -6,7 +6,7 @@ category: boutique-hotels
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-kyoto-京都巷弄中的隱世精品-遠離人潮的質感住宿選擇-ac5b0c.html
 published: 2026-06-15
-quality_score: 6.5
+quality_score: 8.3
 tags: 京都精品住宿, 京都巷弄, 西陣住宿, 銀閣寺周邊, 京都深度旅遊
 license: CC BY 4.0
 ---

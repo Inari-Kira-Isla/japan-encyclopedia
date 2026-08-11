@@ -6,7 +6,7 @@ category: craft-markets
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-craft-markets-kobe-神戶工藝市集深度攻略-港都限定的好物採購地圖-92bba8.html
 published: 2026-05-22
-quality_score: 7.5
+quality_score: 8.6
 tags: 神戶, craft-markets, 手作市集, 關西,  пор都市
 license: CC BY 4.0
 ---

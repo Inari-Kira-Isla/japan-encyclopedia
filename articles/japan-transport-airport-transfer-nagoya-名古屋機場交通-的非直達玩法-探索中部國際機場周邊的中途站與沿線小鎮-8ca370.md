@@ -6,7 +6,7 @@ category: airport-transfer
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-airport-transfer-nagoya-名古屋機場交通-的非直達玩法-探索中部國際機場周邊的中途站與沿線小鎮-8ca370.html
 published: 2026-05-25
-quality_score: 7.5
+quality_score: 8.7
 tags: 名古屋機場交通, 中部國際機場, 非典型玩法, 中途站, 常漫步
 license: CC BY 4.0
 ---

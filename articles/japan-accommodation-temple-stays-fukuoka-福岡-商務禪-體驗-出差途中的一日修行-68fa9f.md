@@ -6,7 +6,7 @@ category: temple-stays
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-temple-stays-fukuoka-福岡-商務禪-體驗-出差途中的一日修行-68fa9f.html
 published: 2026-05-25
-quality_score: 6.5
+quality_score: 8.5
 tags: 福岡寺院住宿, 商務禪修, 九州禪意體驗, 半日修行, 出差推荐
 license: CC BY 4.0
 ---

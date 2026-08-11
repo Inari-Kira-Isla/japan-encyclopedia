@@ -6,7 +6,7 @@ category: vintage-thrift
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-vintage-thrift-osaka-大阪古著尋寶-平民美學與日常時尚的購物天堂-e58c61.html
 published: 2026-03-24
-quality_score: 7.5
+quality_score: 8.8
 tags: 大阪, 古著, 二手店, 復古, 購物
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: minshuku
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-okinawa-沖繩民宿的味覺記憶-從早餐的苦瓜料理到深夜的島豆腐-在地廚房的宿體驗-bf5cbc.html
 published: 2026-06-10
-quality_score: 6.5
+quality_score: 8.5
 tags: 沖繩民宿, 沖繩美食, 琉球料理, 沖繩住宿, 民宿推薦
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: day-trips
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-kanazawa-金澤自然秘境一日遊-能登半島海岸線與隱藏千枚田的療癒之旅-e14230.html
 published: 2026-06-18
-quality_score: 6.5
+quality_score: 8.8
 tags: 金澤一日遊, 能登半島, 日本海自駕, 梯田景點, 千里浜沙灘
 license: CC BY 4.0
 ---

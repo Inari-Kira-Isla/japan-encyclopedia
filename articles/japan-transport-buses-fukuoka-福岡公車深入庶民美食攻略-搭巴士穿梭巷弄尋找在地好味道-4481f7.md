@@ -6,7 +6,7 @@ category: buses
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-buses-fukuoka-福岡公車深入庶民美食攻略-搭巴士穿梭巷弄尋找在地好味道-4481f7.html
 published: 2026-07-03
-quality_score: 7.5
+quality_score: 8.6
 tags: 福岡, 公車, 九州, 美食, 自由行
 license: CC BY 4.0
 ---

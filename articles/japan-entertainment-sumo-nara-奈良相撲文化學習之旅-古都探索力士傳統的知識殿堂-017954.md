@@ -6,7 +6,7 @@ category: sumo
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-nara-奈良相撲文化學習之旅-古都探索力士傳統的知識殿堂-017954.html
 published: 2026-03-29
-quality_score: 6.5
+quality_score: 8.8
 tags: 奈良, 相撲文化, 文化學習, 教育旅遊, 日本傳統
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: ferries
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-ferries-osaka-大阪渡輪商務指南-水路通勤的時間效益革命-3929fb.html
 published: 2026-04-05
-quality_score: 7.5
+quality_score: 8.6
 tags: 大阪交通, 商務旅行, 渡輪, 通勤, 時間效益
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: sumo
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-sumo-kanazawa-金澤相撲娛樂體驗-從觀眾到參與者的力士文化之旅-538cb5.html
 published: 2026-04-03
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤, 相撲, 體驗活動, 傳統文化, 石川縣
 license: CC BY 4.0
 ---

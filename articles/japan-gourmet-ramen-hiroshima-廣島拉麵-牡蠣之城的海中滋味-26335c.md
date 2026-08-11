@@ -6,7 +6,7 @@ category: ramen
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-ramen-hiroshima-廣島拉麵-牡蠣之城的海中滋味-26335c.html
 published: 2026-05-22
-quality_score: 6.5
+quality_score: 8.6
 tags: 廣島拉麵, 牡蠣拉麵, 瀨戶內海, 醬油拉麵, 日本拉麵
 license: CC BY 4.0
 ---

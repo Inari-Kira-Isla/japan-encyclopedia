@@ -6,7 +6,7 @@ category: island-hopping
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-island-hopping-tokyo-東京跳島之旅-從都會到海域的跨界探索-4d6c60.html
 published: 2026-06-08
-quality_score: 6.5
+quality_score: 8.7
 tags: 東京跳島, 台場, 小笠原群島, 八丈島, 青ヶ島
 license: CC BY 4.0
 ---

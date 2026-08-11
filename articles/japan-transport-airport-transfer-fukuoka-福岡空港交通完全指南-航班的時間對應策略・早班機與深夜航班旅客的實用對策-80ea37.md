@@ -6,7 +6,7 @@ category: airport-transfer
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-airport-transfer-fukuoka-福岡空港交通完全指南-航班的時間對應策略・早班機與深夜航班旅客的實用對策-80ea37.html
 published: 2026-06-22
-quality_score: 7.5
+quality_score: 8.3
 tags: 福岡空港, 機場交通, 早班機對策, 深夜航班, 博多車站
 license: CC BY 4.0
 ---

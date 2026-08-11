@@ -6,7 +6,7 @@ category: minshuku
 area: hiroshima
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-hiroshima-廣島和平主題民宿深度體驗-在歷史記憶中感受日式人情溫暖-f408df.html
 published: 2026-03-26
-quality_score: 6.5
+quality_score: 8.6
 tags: 廣島民宿, 和平文化, 深度旅行, 日式住宿, 文化交流
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: nightlife
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-nightlife-kyoto-京都夜生活-當地人私藏的深夜食堂與隱藏版玩法-269e0a.html
 published: 2026-07-03
-quality_score: 6.5
+quality_score: 8.7
 tags: 京都夜生活, 京都美食, 京都自由行, 日本深夜食堂, 京都立飲店
 license: CC BY 4.0
 ---

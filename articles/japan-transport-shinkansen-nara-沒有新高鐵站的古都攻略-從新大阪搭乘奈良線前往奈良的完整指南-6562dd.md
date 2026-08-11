@@ -6,7 +6,7 @@ category: shinkansen
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-nara-沒有新高鐵站的古都攻略-從新大阪搭乘奈良線前往奈良的完整指南-6562dd.html
 published: 2026-07-04
-quality_score: 7.5
+quality_score: 8.8
 tags: 
 license: CC BY 4.0
 ---

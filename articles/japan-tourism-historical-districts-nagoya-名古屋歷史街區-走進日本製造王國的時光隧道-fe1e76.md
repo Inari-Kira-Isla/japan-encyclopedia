@@ -6,7 +6,7 @@ category: historical-districts
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-historical-districts-nagoya-名古屋歷史街區-走進日本製造王國的時光隧道-fe1e76.html
 published: 2026-06-15
-quality_score: 6.5
+quality_score: 8.7
 tags: 名古屋, 歷史街區, 產業遺產, 日本制造, 昭和時代
 license: CC BY 4.0
 ---

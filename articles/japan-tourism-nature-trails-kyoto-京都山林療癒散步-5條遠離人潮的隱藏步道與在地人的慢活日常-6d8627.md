@@ -6,7 +6,7 @@ category: nature-trails
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-kyoto-京都山林療癒散步-5條遠離人潮的隱藏步道與在地人的慢活日常-6d8627.html
 published: 2026-06-30
-quality_score: 6.5
+quality_score: 8.6
 tags: 京都自然步道, 京都山林, 京都健行, 鞍馬山, 貴船
 license: CC BY 4.0
 ---

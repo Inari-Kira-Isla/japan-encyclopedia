@@ -6,7 +6,7 @@ category: vintage-thrift
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-vintage-thrift-kyoto-京都古著尋寶-質感學生的平價復古攻略-36212b.html
 published: 2026-06-02
-quality_score: 7.5
+quality_score: 8.8
 tags: 京都古著, 日本古著攻略, 京都vintage, 關西古著店推薦, 質感動古著
 license: CC BY 4.0
 ---

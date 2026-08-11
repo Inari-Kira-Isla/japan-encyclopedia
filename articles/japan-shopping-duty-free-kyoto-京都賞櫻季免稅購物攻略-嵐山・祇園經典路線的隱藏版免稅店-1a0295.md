@@ -6,7 +6,7 @@ category: duty-free
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-duty-free-kyoto-京都賞櫻季免稅購物攻略-嵐山・祇園經典路線的隱藏版免稅店-1a0295.html
 published: 2026-06-07
-quality_score: 7.5
+quality_score: 8.8
 tags: 京都免稅店, 嵐山購物, 祇園免稅, 賞櫻季購物, 京都伴手禮
 license: CC BY 4.0
 ---

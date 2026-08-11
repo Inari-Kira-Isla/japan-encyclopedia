@@ -6,7 +6,7 @@ category: ferries
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-ferries-hokkaido-北海道渡輪交通-嚴寒北國的海上門戶-a5bf48.html
 published: 2026-06-30
-quality_score: 7.5
+quality_score: 7.7
 tags: 北海道, 渡輪交通, 日本海, 苫小牧港, 小樽港
 license: CC BY 4.0
 ---

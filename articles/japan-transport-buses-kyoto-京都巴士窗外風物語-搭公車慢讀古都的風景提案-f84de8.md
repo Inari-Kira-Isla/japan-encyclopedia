@@ -6,7 +6,7 @@ category: buses
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-buses-kyoto-京都巴士窗外風物語-搭公車慢讀古都的風景提案-f84de8.html
 published: 2026-07-05
-quality_score: 7.5
+quality_score: 8.7
 tags: 京都巴士, 京都交通, 京都自由行, 古都慢遊, 巴士風景線
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: cycling
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-kyoto-京都單車生活-女性安心騎行與在地日常的深度探索-bd81d6.html
 published: 2026-06-09
-quality_score: 7.5
+quality_score: 8.6
 tags: 京都單車, 女性安心騎行, 在地日常體驗, 非觀光路線, 京都深度遊
 license: CC BY 4.0
 ---

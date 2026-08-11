@@ -6,7 +6,7 @@ category: electronics
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-electronics-hokkaido-北海道電子產品購物指南-冬季戶外運動與防寒科技裝備選購攻略-6ab21a.html
 published: 2026-06-14
-quality_score: 7.5
+quality_score: 8.7
 tags: 北海道電子產品, 防寒裝備, 冬季戶外運動, 極光觀測, 滑雪用品
 license: CC BY 4.0
 ---

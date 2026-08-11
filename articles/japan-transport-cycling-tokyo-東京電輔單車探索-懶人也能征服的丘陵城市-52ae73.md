@@ -6,7 +6,7 @@ category: cycling
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-cycling-tokyo-東京電輔單車探索-懶人也能征服的丘陵城市-52ae73.html
 published: 2026-06-03
-quality_score: 7.5
+quality_score: 8.9
 tags: 東京單車, 電輔單車, e-bike, 品川, 白金台
 license: CC BY 4.0
 ---

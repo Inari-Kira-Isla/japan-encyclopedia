@@ -6,7 +6,7 @@ category: rental-cars
 area: kobe
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-kobe-神戶租車自駕遊-關西機場門戶的放射狀探索指南-5a17d7.html
 published: 2026-06-21
-quality_score: 7.5
+quality_score: 8.8
 tags: 神戶租車, 關西自駕, 關西機場租車, 山陰自駕, 瀨戶內海
 license: CC BY 4.0
 ---

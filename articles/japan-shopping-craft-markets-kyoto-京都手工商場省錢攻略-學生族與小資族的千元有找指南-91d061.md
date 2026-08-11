@@ -6,7 +6,7 @@ category: craft-markets
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-shopping-craft-markets-kyoto-京都手工商場省錢攻略-學生族與小資族的千元有找指南-91d061.html
 published: 2026-06-03
-quality_score: 7.5
+quality_score: 8.5
 tags: 京都, 手 工藝市集, 省錢攻略, 学生旅遊, 平價好物
 license: CC BY 4.0
 ---

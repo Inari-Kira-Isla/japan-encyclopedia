@@ -6,7 +6,7 @@ category: metro-systems
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-metro-systems-hokkaido-北海道札幌地下鐵-外國遊客完全乘車指南-9d1a01.html
 published: 2026-07-04
-quality_score: 7.5
+quality_score: 8.7
 tags: 北海道地下鐵, 札幌交通, 札幌地鐵, 北海道自助旅行, 札幌地下街
 license: CC BY 4.0
 ---

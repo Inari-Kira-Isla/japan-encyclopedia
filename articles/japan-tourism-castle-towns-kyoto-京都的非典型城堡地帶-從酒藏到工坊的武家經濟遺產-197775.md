@@ -6,7 +6,7 @@ category: castle-towns
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-castle-towns-kyoto-京都的非典型城堡地帶-從酒藏到工坊的武家經濟遺產-197775.html
 published: 2026-05-23
-quality_score: 6.5
+quality_score: 8.7
 tags: 京都城堡, 伏見清酒, 非典型城下町, 京都産業遺産, 分散式遺產
 license: CC BY 4.0
 ---

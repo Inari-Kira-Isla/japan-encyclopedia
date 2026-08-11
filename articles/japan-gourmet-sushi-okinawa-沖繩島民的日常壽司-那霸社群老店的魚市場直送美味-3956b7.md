@@ -6,7 +6,7 @@ category: sushi
 area: okinawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sushi-okinawa-沖繩島民的日常壽司-那霸社群老店的魚市場直送美味-3956b7.html
 published: 2026-06-25
-quality_score: 6.5
+quality_score: 8.6
 tags: 沖繩壽司, 那霸美食, 亞熱帶海鮮,  Okinawa, 日本最南端
 license: CC BY 4.0
 ---

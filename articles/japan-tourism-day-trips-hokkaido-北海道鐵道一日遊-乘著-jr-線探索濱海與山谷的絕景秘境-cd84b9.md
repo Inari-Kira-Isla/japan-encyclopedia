@@ -6,7 +6,7 @@ category: day-trips
 area: hokkaido
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-day-trips-hokkaido-北海道鐵道一日遊-乘著-jr-線探索濱海與山谷的絕景秘境-cd84b9.html
 published: 2026-06-23
-quality_score: 6.5
+quality_score: 8.6
 tags: 北海道, 一日遊, JR鐵路, 小樽, 富良野
 license: CC BY 4.0
 ---

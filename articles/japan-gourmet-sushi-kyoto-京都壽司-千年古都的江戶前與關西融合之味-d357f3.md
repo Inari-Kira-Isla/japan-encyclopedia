@@ -6,7 +6,7 @@ category: sushi
 area: kyoto
 url: https://japan-encyclopedia.vercel.app/articles/japan-gourmet-sushi-kyoto-京都壽司-千年古都的江戶前與關西融合之味-d357f3.html
 published: 2026-03-21
-quality_score: 6.5
+quality_score: 8.5
 tags: 京都, 壽司, 日本美食, 海鮮, 日本旅遊
 license: CC BY 4.0
 ---

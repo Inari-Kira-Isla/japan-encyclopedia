@@ -6,7 +6,7 @@ category: festivals-matsuri
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-festivals-matsuri-kanazawa-金澤祭典的現代娛樂體驗-從傳統慶典到數位互動的完美融合-18759a.html
 published: 2026-04-05
-quality_score: 6.5
+quality_score: 8.7
 tags: 金澤祭典, 數位體驗, 夜間娛樂, 互動科技, 現代傳統
 license: CC BY 4.0
 ---

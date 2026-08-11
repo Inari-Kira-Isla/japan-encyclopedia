@@ -6,7 +6,7 @@ category: nature-trails
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-tokyo-東京自然步道完全指南-從晨曦到暮色-12小時的城市山林時態美學-88cd5f.html
 published: 2026-06-07
-quality_score: 6.5
+quality_score: 8.6
 tags: 東京自然步道, 晨間自然體驗, 季節限定景觀, 上野恩賜庭園, 浜離宮恩賜庭園
 license: CC BY 4.0
 ---

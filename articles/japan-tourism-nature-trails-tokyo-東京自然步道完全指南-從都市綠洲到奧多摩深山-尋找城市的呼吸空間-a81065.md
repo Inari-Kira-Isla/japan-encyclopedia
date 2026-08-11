@@ -6,7 +6,7 @@ category: nature-trails
 area: tokyo
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-nature-trails-tokyo-東京自然步道完全指南-從都市綠洲到奧多摩深山-尋找城市的呼吸空間-a81065.html
 published: 2026-04-06
-quality_score: 6.5
+quality_score: 8.9
 tags: 東京自然步道, 東京登山, 奧多摩, 高尾山, 皇居東御苑
 license: CC BY 4.0
 ---

@@ -6,7 +6,7 @@ category: temple-stays
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-accommodation-temple-stays-nara-奈良宿坊完全攻略-古都周邊的隱藏版修行道場-4fd7e9.html
 published: 2026-06-02
-quality_score: 6.5
+quality_score: 8.3
 tags: 日本宿坊, 奈良住宿, 比叡山, 吉野山, 修驗道
 license: CC BY 4.0
 ---

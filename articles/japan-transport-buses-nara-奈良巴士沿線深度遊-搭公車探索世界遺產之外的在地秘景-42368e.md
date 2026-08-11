@@ -6,7 +6,7 @@ category: buses
 area: nara
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-buses-nara-奈良巴士沿線深度遊-搭公車探索世界遺產之外的在地秘景-42368e.html
 published: 2026-06-18
-quality_score: 7.5
+quality_score: 8.7
 tags: 奈良巴士, 奈良交通, 奈良自由行, 奈良世界遺產, 奈良一日遊
 license: CC BY 4.0
 ---

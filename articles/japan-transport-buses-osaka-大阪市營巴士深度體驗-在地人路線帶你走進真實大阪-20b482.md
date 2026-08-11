@@ -6,7 +6,7 @@ category: buses
 area: osaka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-buses-osaka-大阪市營巴士深度體驗-在地人路線帶你走進真實大阪-20b482.html
 published: 2026-04-04
-quality_score: 7.5
+quality_score: 8.5
 tags: 大阪交通, 市營巴士, 在地體驗, 深度旅遊, 關西文化
 license: CC BY 4.0
 ---

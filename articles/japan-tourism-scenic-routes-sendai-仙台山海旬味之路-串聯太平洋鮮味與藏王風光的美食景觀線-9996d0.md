@@ -6,7 +6,7 @@ category: scenic-routes
 area: sendai
 url: https://japan-encyclopedia.vercel.app/articles/japan-tourism-scenic-routes-sendai-仙台山海旬味之路-串聯太平洋鮮味與藏王風光的美食景觀線-9996d0.html
 published: 2026-06-17
-quality_score: 6.5
+quality_score: 8.5
 tags: 仙台, 景觀道路, 美食之旅, 石卷, 女川溫泉
 license: CC BY 4.0
 ---

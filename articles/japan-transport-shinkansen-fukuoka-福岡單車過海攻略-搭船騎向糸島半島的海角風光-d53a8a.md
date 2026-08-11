@@ -6,7 +6,7 @@ category: shinkansen
 area: fukuoka
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-shinkansen-fukuoka-福岡單車過海攻略-搭船騎向糸島半島的海角風光-d53a8a.html
 published: 2026-06-28
-quality_score: 7.5
+quality_score: 8.5
 tags: 福岡單車, 糸島半島, 過海騎行, 能古島, 海岸線單車
 license: CC BY 4.0
 ---

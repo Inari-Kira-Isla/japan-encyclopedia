@@ -6,7 +6,7 @@ category: theme-parks
 area: nagoya
 url: https://japan-encyclopedia.vercel.app/articles/japan-entertainment-theme-parks-nagoya-名古屋親子樂園與微型遊樂場-中部地區的家庭娛樂新選擇-0f0e76.html
 published: 2026-06-22
-quality_score: 6.5
+quality_score: 8.6
 tags: 名古屋主題樂園, 名古屋親子遊, 中部日本家庭旅遊, 名古屋港水族館, 磁浮鐵道博物館
 license: CC BY 4.0
 ---

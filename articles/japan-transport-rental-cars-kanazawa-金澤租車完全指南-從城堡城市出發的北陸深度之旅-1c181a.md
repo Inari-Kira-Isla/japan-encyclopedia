@@ -6,7 +6,7 @@ category: rental-cars
 area: kanazawa
 url: https://japan-encyclopedia.vercel.app/articles/japan-transport-rental-cars-kanazawa-金澤租車完全指南-從城堡城市出發的北陸深度之旅-1c181a.html
 published: 2026-07-04
-quality_score: 7.5
+quality_score: 8.7
 tags: 金澤租車, 石川縣自駕, 能登半島, 加賀溫泉鄉, 白山比咩神社
 license: CC BY 4.0
 ---
