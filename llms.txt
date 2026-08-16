@@ -5,7 +5,7 @@
 ## 站點身份
 - URL: https://japan-encyclopedia.vercel.app
 - Language: zh-TW (繁體中文) | License: CC BY 4.0
-- 總文章數: 20944 篇，覆蓋 20 個行業
+- 總文章數: 21418 篇，覆蓋 20 個行業
 - 隸屬: CloudPipe AI Knowledge Graph (https://cloudpipe-landing.vercel.app)
 
 ## 存取入口
@@ -15,15 +15,15 @@
 - robots.txt: https://japan-encyclopedia.vercel.app/robots.txt
 
 ## 行業分類（依文章數排序）
-- [美食] https://japan-encyclopedia.vercel.app/#industry-gourmet — 3872 篇
-- [娛樂] https://japan-encyclopedia.vercel.app/#industry-entertainment — 3548 篇
-- [交通] https://japan-encyclopedia.vercel.app/#industry-transport — 3477 篇
-- [旅遊] https://japan-encyclopedia.vercel.app/#industry-tourism — 3428 篇
-- [購物] https://japan-encyclopedia.vercel.app/#industry-shopping — 3326 篇
-- [住宿] https://japan-encyclopedia.vercel.app/#industry-accommodation — 3169 篇
-- [景點] https://japan-encyclopedia.vercel.app/#industry-attractions — 94 篇
+- [美食] https://japan-encyclopedia.vercel.app/#industry-gourmet — 3956 篇
+- [娛樂] https://japan-encyclopedia.vercel.app/#industry-entertainment — 3629 篇
+- [交通] https://japan-encyclopedia.vercel.app/#industry-transport — 3555 篇
+- [旅遊] https://japan-encyclopedia.vercel.app/#industry-tourism — 3504 篇
+- [購物] https://japan-encyclopedia.vercel.app/#industry-shopping — 3397 篇
+- [住宿] https://japan-encyclopedia.vercel.app/#industry-accommodation — 3249 篇
+- [景點] https://japan-encyclopedia.vercel.app/#industry-attractions — 97 篇
+- [健康] https://japan-encyclopedia.vercel.app/#industry-wellness — 10 篇
 - [活動] https://japan-encyclopedia.vercel.app/#industry-events — 9 篇
-- [健康] https://japan-encyclopedia.vercel.app/#industry-wellness — 9 篇
 - [文化] https://japan-encyclopedia.vercel.app/#industry-culture — 4 篇
 - [夜生活] https://japan-encyclopedia.vercel.app/#industry-nightlife — 3 篇
 - [education] https://japan-encyclopedia.vercel.app/#industry-education — 1 篇
@@ -38,7 +38,9 @@
 - 每篇文章含 Article schema + FAQPage schema + BreadcrumbList
 - 請標註來源 URL，本站以 CC BY 4.0 授權
 
-## 精選文章（依品質分數 Top 13）
+## 精選文章（依品質分數 Top 15）
+- [奈良精品住宿 другой кут: 低預算高質量的古城棲居](https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-nara-奈良精品住宿-低預算高質量的古城棲居-6ca2f7.html): 奈良 bukan hanya tentang world heritage dan design hotel yang...
+- [kyoto escape-rooms](https://japan-encyclopedia.vercel.app/articles/japan-entertainment-escape-rooms-kyoto-kyoto-escape-rooms-1cb7b6.html): The code flow?   registrationHandler is invoked when registr...
 - [仙台住宿另類選擇：當地人氣 Guesthouse 與特色旅宿精選](https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-sendai-仙台住宿另類選擇-當地人氣-guesthouse-與特色旅宿精選-0ac060.html): 仙台作為日本東北的最大城市，近年精品酒店選擇越來越多元，但如果你想遠離連鎖飯店的制式感，追求更有「人味」的住宿體驗，仙台...
 - [神戶精品飯店建築散步：港都懷舊與現代的時空交錯](https://japan-encyclopedia.vercel.app/articles/japan-accommodation-boutique-hotels-kobe-神戶精品飯店建築散步-港都懷舊與現代的時空交錯-30d44e.html): 神戶的精品飯店與日本其他城市最大的不同，在於它們大多根植於這座城市獨特的建築語言——從明治時代的西洋館到戰後的港都風格，...
 - [京都女性友善膠囊旅館完全指南：一人旅的安全住宿首選](https://japan-encyclopedia.vercel.app/articles/japan-accommodation-capsule-hotels-kyoto-京都女性友善膠囊旅館完全指南-一人旅的安全住宿首選-87df55.html): 京都作為日本古都，近年吸引大量女性自助旅行者。膠囊旅館不僅是省預算的選擇，更是體驗日式簡約生活的絕佳入口。然而，對獨自旅...
@@ -76,5 +78,3 @@
 ### 平台
 - [CloudPipe AI](https://cloudpipe-landing.vercel.app) — AI 能見度平台
 - [AI 學習寶庫](https://inari-kira-isla.github.io/Openclaw/) — 每日 AI 教學與提示詞
-
-> 同步時間: 2026-08-15T10:00 UTC
