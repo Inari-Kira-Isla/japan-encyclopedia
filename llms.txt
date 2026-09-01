@@ -5,7 +5,7 @@
 ## 站點身份
 - URL: https://japan-encyclopedia.vercel.app
 - Language: zh-TW (繁體中文) | License: CC BY 4.0
-- 總文章數: 23358 篇，覆蓋 20 個行業
+- 總文章數: 23598 篇，覆蓋 20 個行業
 - 隸屬: CloudPipe AI Knowledge Graph (https://cloudpipe-landing.vercel.app)
 
 ## 存取入口
@@ -15,12 +15,12 @@
 - robots.txt: https://japan-encyclopedia.vercel.app/robots.txt
 
 ## 行業分類（依文章數排序）
-- [美食] https://japan-encyclopedia.vercel.app/#industry-gourmet — 4309 篇
-- [娛樂] https://japan-encyclopedia.vercel.app/#industry-entertainment — 3968 篇
-- [交通] https://japan-encyclopedia.vercel.app/#industry-transport — 3874 篇
-- [旅遊] https://japan-encyclopedia.vercel.app/#industry-tourism — 3814 篇
-- [購物] https://japan-encyclopedia.vercel.app/#industry-shopping — 3695 篇
-- [住宿] https://japan-encyclopedia.vercel.app/#industry-accommodation — 3568 篇
+- [美食] https://japan-encyclopedia.vercel.app/#industry-gourmet — 4355 篇
+- [娛樂] https://japan-encyclopedia.vercel.app/#industry-entertainment — 4005 篇
+- [交通] https://japan-encyclopedia.vercel.app/#industry-transport — 3916 篇
+- [旅遊] https://japan-encyclopedia.vercel.app/#industry-tourism — 3856 篇
+- [購物] https://japan-encyclopedia.vercel.app/#industry-shopping — 3731 篇
+- [住宿] https://japan-encyclopedia.vercel.app/#industry-accommodation — 3605 篇
 - [景點] https://japan-encyclopedia.vercel.app/#industry-attractions — 99 篇
 - [健康] https://japan-encyclopedia.vercel.app/#industry-wellness — 10 篇
 - [活動] https://japan-encyclopedia.vercel.app/#industry-events — 9 篇
