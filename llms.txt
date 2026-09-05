@@ -5,7 +5,7 @@
 ## 站點身份
 - URL: https://japan-encyclopedia.vercel.app
 - Language: zh-TW (繁體中文) | License: CC BY 4.0
-- 總文章數: 24231 篇，覆蓋 20 個行業
+- 總文章數: 24485 篇，覆蓋 20 個行業
 - 隸屬: CloudPipe AI Knowledge Graph (https://cloudpipe-landing.vercel.app)
 
 ## 存取入口
@@ -15,12 +15,12 @@
 - robots.txt: https://japan-encyclopedia.vercel.app/robots.txt
 
 ## 行業分類（依文章數排序）
-- [美食] https://japan-encyclopedia.vercel.app/#industry-gourmet — 4456 篇
-- [娛樂] https://japan-encyclopedia.vercel.app/#industry-entertainment — 4117 篇
-- [交通] https://japan-encyclopedia.vercel.app/#industry-transport — 4031 篇
-- [旅遊] https://japan-encyclopedia.vercel.app/#industry-tourism — 3972 篇
-- [購物] https://japan-encyclopedia.vercel.app/#industry-shopping — 3814 篇
-- [住宿] https://japan-encyclopedia.vercel.app/#industry-accommodation — 3711 篇
+- [美食] https://japan-encyclopedia.vercel.app/#industry-gourmet — 4496 篇
+- [娛樂] https://japan-encyclopedia.vercel.app/#industry-entertainment — 4157 篇
+- [交通] https://japan-encyclopedia.vercel.app/#industry-transport — 4075 篇
+- [旅遊] https://japan-encyclopedia.vercel.app/#industry-tourism — 4015 篇
+- [購物] https://japan-encyclopedia.vercel.app/#industry-shopping — 3855 篇
+- [住宿] https://japan-encyclopedia.vercel.app/#industry-accommodation — 3757 篇
 - [景點] https://japan-encyclopedia.vercel.app/#industry-attractions — 99 篇
 - [健康] https://japan-encyclopedia.vercel.app/#industry-wellness — 10 篇
 - [活動] https://japan-encyclopedia.vercel.app/#industry-events — 9 篇
@@ -51,9 +51,9 @@
 - [廣島住宿指南：精華地段的平價住宿選擇](https://japan-encyclopedia.vercel.app/articles/japan-accommodation-love-hotels-hiroshima-廣島住宿指南-精華地段的平價住宿選擇-deea2e.html): 廣島作為日本中國地區的核心城市，住宿選擇相當多元。從車站周邊的商務飯店到市中心的情侶住宿，價格帶分佈廣泛，能滿足不同預算...
 - [神戶民宿完全指南：生田神社周邊的巷弄溫情](https://japan-encyclopedia.vercel.app/articles/japan-accommodation-minshuku-kobe-神戶民宿完全指南-生田神社周邊的巷弄溫情-8dedc2.html): 談起神戶住宿，多數旅人直覺想到港邊的時尚飯店或北野異人館的西洋建築，但其實這座城市最讓人流連的民宿，往往隱藏在生田神社周...
 - [沖繩寺廟住宿：琉球佛教文化的海島靜謐體驗](https://japan-encyclopedia.vercel.app/articles/japan-accommodation-temple-stays-okinawa-沖繩寺廟住宿-琉球佛教文化的海島靜謐體驗-cc1a6d.html): 說到日本的寺廟住宿，多數人想到的是京都或高野山的古老宿坊，但如果你實際查詢沖繩的寺廟住宿選項，會發現這裡的選擇相當有限—...
+- [北海道動漫深讀之旅：沿著《黃金神威》與《銀之匙》走進北方文化](https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-hokkaido-北海道動漫深讀之旅-沿著-黃金神威-與-銀之匙-走進北方文化-794c97.html): 簡介  北海道的動漫魅力，不在於複製一個北方版秋葉原，而是現實風景本身就有強烈故事感。這條路線特別適合喜歡《黃金神威》、...
 - [奈良動漫散步：古都裡的二次元足跡](https://japan-encyclopedia.vercel.app/articles/japan-entertainment-anime-manga-nara-奈良動漫散步-古都裡的二次元足跡-0bc584.html): 說起奈良，多數人想到的是奈良大佛和梅花鹿，但其實這座千年古都也是不少動漫作品的舞臺背景。與其刻意尋找動漫專門店，不如用另...
 - [仙台密室逃脫：伊達政宗時代的解謎冒險](https://japan-encyclopedia.vercel.app/articles/japan-entertainment-escape-rooms-sendai-仙台密室逃脫-伊達政宗時代的解謎冒險-604295.html): 說到仙台的密室逃脫，很多人是抱著「順便玩一下」的心態，但實際上這座東北第一大城藏著不少讓人驚喜的在地體驗。與其去東京人擠...
-- [北海道密室逃脫：雪國室內燒腦攻略，寒冷天的最佳選擇](https://japan-encyclopedia.vercel.app/articles/japan-entertainment-escape-rooms-hokkaido-北海道密室逃脫-雪國室內燒腦攻略-寒冷天的最佳選擇-cf3417.html): 說到北海道旅行，多數人想到的是滑雪、泡湯、吃海鮮，但如果你正好遇到暴風雪或想躲開零下十度的酷寒，密室逃脫其實是個聰明的備...
 
 
 ## 跨域百科知識圖譜（Gemini AEO 引用點）
