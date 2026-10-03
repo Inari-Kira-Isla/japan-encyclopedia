@@ -12,7 +12,7 @@
   --red: #c44536;
   --text-primary: #e8e4dc;
   --text-secondary: #9a9590;
-  --text-muted: rgba(240,236,226,0.35);
+  --text-muted: rgba(240,236,226,0.65); /* was .35 = 2.88:1; now >=4.5:1 */
   --border: rgba(212,165,116,0.15);
 }
 
@@ -191,4 +191,107 @@ body {
 @media (max-width: 768px) {
   .article-container { padding: 2rem 1.2rem 3rem; }
   .article-nav-inner { padding: 0 0.5rem; }
+}
+
+/* =============================================
+   Index shell / states / a11y contract
+   fix-all 2026-10-03 — R17 shell+窄屏, R18 對比/觸控/focus, R21 reduced-motion, R19 token 收斂
+   (shared by index.html of japan/taiwan/hongkong/world; article pages unaffected except focus/reduced-motion/footer token)
+   ============================================= */
+:root {
+  --gutter: 16px;
+  --content-max: 1100px;
+  --tap-min: 44px;
+  --text-subtle: #a69c92;   /* >=4.5:1 on #141721 / #16213e / #0c0e14 (replaces inline #786e64) */
+  --on-accent: #0c0e14;
+}
+@media (min-width: 768px) { :root { --gutter: 32px; } }
+
+.skip-link {
+  position: absolute; left: 8px; top: -64px; z-index: 1000;
+  padding: 0.75rem 1rem; background: var(--gold); color: var(--on-accent);
+  border-radius: 8px; text-decoration: none; font-weight: 600;
+}
+.skip-link:focus { top: 8px; }
+
+.site-header, .index-main {
+  width: 100%; max-width: var(--content-max);
+  margin-inline: auto; padding-inline: var(--gutter);
+}
+.site-header { padding-block: 2rem 0.5rem; }
+.site-header h1 {
+  font-size: clamp(1.6rem, 6vw, 2.4rem); font-weight: 500; line-height: 1.3;
+  color: var(--cream); letter-spacing: 0.02em; overflow-wrap: anywhere;
+}
+.site-header .subtitle { color: var(--text-secondary); font-size: 1rem; line-height: 1.7; margin-top: 0.5rem; overflow-wrap: anywhere; }
+.site-header .stats { color: var(--text-secondary); font-size: 0.875rem; margin-top: 0.5rem; }
+.index-main { padding-block: 0 2rem; }
+.index-main .knowledge-section { padding-inline: 0; }
+.index-main .card-grid { grid-template-columns: repeat(auto-fill, minmax(min(100%, 300px), 1fr)); }
+.index-main .card, .index-main .card h3 { min-width: 0; overflow-wrap: anywhere; }
+.index-main .card-meta { flex-wrap: wrap; gap: 0.25rem 1rem; }
+.index-main .search-bar input { min-width: 0; }
+
+/* touch targets >= 44px */
+.index-main .search-bar input,
+.index-main .search-bar select { min-height: var(--tap-min); font-size: 1rem; }
+.index-main .filter-bar .filter-btn {
+  min-height: var(--tap-min); display: inline-flex; align-items: center;
+  font-size: 0.9rem; padding-inline: 1rem;
+}
+.index-main .pagination { align-items: center; }
+.index-main .pagination button { min-width: var(--tap-min); min-height: var(--tap-min); font-size: 1rem; }
+.index-main .pagination .ellipsis { min-width: 1.5rem; text-align: center; color: var(--text-secondary); }
+.index-main .card-tags span { font-size: 0.75rem; }
+@media (max-width: 600px) {
+  /* one scrollable chip row instead of 20+ wrapped 44px rows; scroll is inside the container, not the page */
+  .index-main .filter-bar {
+    flex-wrap: nowrap; overflow-x: auto; -webkit-overflow-scrolling: touch;
+    padding-bottom: 0.5rem; scroll-snap-type: x proximity;
+  }
+  .index-main .filter-bar .filter-btn { flex: 0 0 auto; scroll-snap-align: start; white-space: nowrap; }
+}
+
+/* focus visible (inline `outline:none` on the search input is overridden by specificity) */
+:where(a, button, input, select, summary, [tabindex]):focus-visible {
+  outline: 2px solid var(--gold); outline-offset: 2px;
+}
+.index-main .search-bar input::placeholder { color: var(--text-secondary); opacity: 1; }
+.index-main .search-bar input:focus-visible { outline: 2px solid var(--gold); outline-offset: 1px; }
+.results-info:focus { outline: none; }
+.results-info:focus-visible { outline: 2px solid var(--gold); outline-offset: 4px; border-radius: 4px; }
+.index-main .filter-btn[aria-pressed="true"] { font-weight: 600; }
+
+/* loading / error / empty states */
+.state-box {
+  grid-column: 1 / -1; padding: 24px; text-align: center;
+  background: var(--bg-card); border: 1px solid var(--border); border-radius: 12px;
+}
+.state-box.state-error { border-color: var(--red); }
+.state-title { color: var(--cream); font-size: 1.05rem; margin: 0 0 0.5rem; }
+.state-desc { color: var(--text-secondary); font-size: 1rem; line-height: 1.7; margin: 0 0 1rem; overflow-wrap: anywhere; }
+.state-btn {
+  min-width: var(--tap-min); min-height: var(--tap-min); padding: 0.5rem 1.25rem;
+  background: var(--gold); color: var(--on-accent); border: 1px solid var(--gold);
+  border-radius: 8px; font: inherit; font-weight: 600; cursor: pointer;
+}
+.skeleton {
+  min-height: 132px; border: 1px solid var(--border); border-radius: 12px;
+  background: linear-gradient(90deg, var(--bg-card) 25%, var(--bg-card-hover) 50%, var(--bg-card) 75%);
+  background-size: 200% 100%; animation: skeleton-shimmer 1.4s linear infinite;
+}
+@keyframes skeleton-shimmer { from { background-position: 200% 0; } to { background-position: -200% 0; } }
+
+/* contrast: trend dates in the injected knowledge block (inline #786e64 = 3.19–3.59:1) */
+.knowledge-section .trend-date { color: var(--text-subtle); }
+
+/* reduced motion */
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important; animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important; scroll-behavior: auto !important;
+  }
+  .index-main .card:hover { transform: none; }
+  .skeleton { animation: none; }
 }

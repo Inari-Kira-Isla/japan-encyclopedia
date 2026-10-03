@@ -221,22 +221,23 @@
   </style>
 </head>
 <body>
+  <a class="skip-link" href="#main">跳到主要內容</a>
   <header class="site-header">
     <h1>日本百科</h1>
     <p class="subtitle">Japan Encyclopedia — 探索日本八大地方：美食、旅遊、娛樂、住宿、購物、交通完全指南</p>
     <p class="stats">24485 篇文章 | 42,379,954 字 | 20 個分類</p>
   </header>
-  <main class="index-main">
-    <div class="search-bar">
-      <input type="text" id="searchInput" placeholder="搜索文章..." autocomplete="off" />
-      <select id="sortSelect">
+  <main class="index-main" id="main">
+    <div class="search-bar" role="search" aria-label="搜尋與排序文章">
+      <input type="text" id="searchInput" placeholder="搜索文章..." aria-label="搜尋文章" autocomplete="off" enterkeyhint="search" />
+      <select id="sortSelect" aria-label="排序方式">
         <option value="newest">最新</option>
         <option value="quality">品質最高</option>
         <option value="longest">最多字數</option>
         <option value="title">標題 A-Z</option>
       </select>
     </div>
-    <div class="filter-bar">
+    <div class="filter-bar" role="group" aria-label="文章分類篩選">
       <button class="filter-btn active" data-industry="all">全部 (24485)</button>
       <button class="filter-btn" data-industry="accommodation">住宿 (3754)</button>
 <button class="filter-btn" data-industry="attractions">景點 (99)</button>
@@ -260,9 +261,9 @@
 <button class="filter-btn" data-industry="wellness">健康 (10)</button>
 
     </div>
-    <p class="results-info" id="resultsInfo"></p>
-    <div class="card-grid" id="cardGrid"></div>
-    <div class="pagination" id="pagination"></div>
+    <p class="results-info" id="resultsInfo" role="status" aria-live="polite" tabindex="-1"></p>
+    <div class="card-grid" id="cardGrid" aria-busy="true"></div>
+    <nav class="pagination" id="pagination" aria-label="文章分頁"></nav>
     <noscript><section><h2>住宿 (3754)</h2><ul><li><a href="articles/japan-accommodation-boutique-hotels-sendai-一個人也住得從容-仙台精品酒店的聲景-浴場與獨處美學-a5399a.html">一個人也住得從容：仙台精品酒店的聲景、浴場與獨處美學</a></li>
 <li><a href="articles/japan-accommodation-boutique-hotels-fukuoka-九州門戶的質感棲居-福岡精品酒店完全指南-1a0ece.html">九州門戶的質感棲居：福岡精品酒店完全指南</a></li>
 <li><a href="articles/japan-accommodation-boutique-hotels-kyoto-京都不為人知的設計師精品酒店-隱巷中的建築重生美學-ff393d.html">京都不為人知的設計師精品酒店：隱巷中的建築重生美學</a></li>
@@ -25240,108 +25241,261 @@
     </nav>
   </footer>
   <script>
-  (function() {
-    const PER_PAGE = 24;
-    const INDUSTRY_NAMES = {"gourmet": "美食", "dining": "美食", "food": "美食", "tourism": "旅遊", "attractions": "景點", "entertainment": "娛樂", "nightlife": "夜生活", "accommodation": "住宿", "hotels": "住宿", "shopping": "購物", "retail": "零售", "transport": "交通", "transportation": "交通", "culture": "文化", "events": "活動", "wellness": "健康", "sports": "運動", "services": "服務", "food-supply": "食材供應", "seafood": "海鮮", "sea-urchin": "海膽"};
-    const INDUSTRY_ICONS = {"gourmet":"🍜","dining":"🍜","shopping":"🛍️","tourism":"🏛️","entertainment":"🎭","accommodation":"🏨","transport":"🚄","finance":"💰","education":"📚","tech":"💻"};
-    let articles = [];
-    let fuse = null;
-    let filtered = [];
-    let currentFilter = 'all';
-    let currentPage = 1;
-    let currentSort = 'newest';
+  (function () {
+    'use strict';
+    var PER_PAGE = 24;
+    var INDUSTRY_NAMES = {"gourmet": "美食", "dining": "美食", "food": "美食", "tourism": "旅遊", "attractions": "景點", "entertainment": "娛樂", "nightlife": "夜生活", "accommodation": "住宿", "hotels": "住宿", "shopping": "購物", "retail": "零售", "transport": "交通", "transportation": "交通", "culture": "文化", "events": "活動", "wellness": "健康", "sports": "運動", "services": "服務", "food-supply": "食材供應", "seafood": "海鮮", "sea-urchin": "海膽"};
+    var INDUSTRY_ICONS = {"gourmet":"🍜","dining":"🍜","shopping":"🛍️","tourism":"🏛️","entertainment":"🎭","accommodation":"🏨","transport":"🚄","finance":"💰","education":"📚","tech":"💻"};
+    var articles = [];
+    var filtered = [];
+    var currentFilter = 'all';
+    var currentPage = 1;
+    var currentSort = 'newest';
+    var fuseCache = {};
+    var searchTimer = null;
+    var collator = (typeof Intl !== 'undefined' && Intl.Collator) ? new Intl.Collator('zh') : null;
 
-    fetch('/articles.json').then(r => r.json()).then(data => {
-      articles = data;
-      filtered = [...articles];
-      fuse = new Fuse(articles, { keys: ['t', 'g', 'a', 'c'], threshold: 0.3 });
-      sortAndRender();
-    });
+    function $(id) { return document.getElementById(id); }
+    function esc(s) {
+      return String(s == null ? '' : s).replace(/&/g, '&amp;').replace(/</g, '&lt;')
+        .replace(/>/g, '&gt;').replace(/"/g, '&quot;').replace(/'/g, '&#39;');
+    }
+    function toNum(v) { var n = Number(v); return (v === null || v === '' || v === undefined || !isFinite(n)) ? null : n; }
+    function pick() { for (var i = 0; i < arguments.length; i++) { if (arguments[i] !== undefined && arguments[i] !== null) return arguments[i]; } return undefined; }
+    /* titles in both producers' articles.json are HTML-escaped text (&quot; &lt; ...): decode to plain text once,
+       then every output goes through esc() (no innerHTML of raw index data) */
+    function decodeEntities(s) {
+      return String(s).replace(/&(amp|lt|gt|quot|apos|#39|#(\d{1,7})|#x([0-9a-f]{1,6}));/gi, function (m, name, dec, hex) {
+        if (dec || hex) {
+          var cp = dec ? parseInt(dec, 10) : parseInt(hex, 16);
+          try { return String.fromCodePoint(cp); } catch (e) { return m; }
+        }
+        return { amp: '&', lt: '<', gt: '>', quot: '"', apos: "'", '#39': "'" }[name.toLowerCase()];
+      });
+    }
+    function slugTitle(s) { try { return decodeURIComponent(s).replace(/-/g, ' '); } catch (e) { return s; } }
 
-    document.getElementById('searchInput').addEventListener('input', function(e) {
-      const q = e.target.value.trim();
-      if (q.length === 0) {
-        filtered = currentFilter === 'all' ? [...articles] : articles.filter(a => a.i === currentFilter);
-      } else {
-        const base = currentFilter === 'all' ? articles : articles.filter(a => a.i === currentFilter);
-        fuse = new Fuse(base, { keys: ['t', 'g', 'a', 'c'], threshold: 0.3 });
-        filtered = fuse.search(q).map(r => r.item);
+    /* R04 adapter: accepts the compact shape {t,s,i,c,a,w,q,d,g} and the long shape
+       {title,slug,url,industry,date,description,quality_score} written by encyclopedia_maintenance.py */
+    function norm(r) {
+      if (!r || typeof r !== 'object') return null;
+      var s = pick(r.s, r.slug);
+      if (s === undefined || String(s) === '') return null;
+      s = String(s);
+      var t = decodeEntities(pick(r.t, r.title, '')).trim();
+      var g = pick(r.g, r.tags, []);
+      return {
+        s: s,
+        t: t || slugTitle(s),
+        i: String(pick(r.i, r.industry, '')),
+        c: String(pick(r.c, r.category, '')),
+        a: String(pick(r.a, r.area, '')),
+        w: toNum(pick(r.w, r.word_count, r.words)),
+        q: toNum(pick(r.q, r.quality_score)),
+        d: String(pick(r.d, r.date, '')),
+        g: Array.isArray(g) ? g.map(String) : []
+      };
+    }
+
+    function stateBox(kind, title, desc, btnLabel) {
+      return '<div class="state-box state-' + kind + '"' + (kind === 'error' ? ' role="alert"' : '') + '>'
+        + '<p class="state-title">' + esc(title) + '</p>'
+        + (desc ? '<p class="state-desc">' + esc(desc) + '</p>' : '')
+        + (btnLabel ? '<button type="button" class="state-btn" data-action="' + (kind === 'error' ? 'retry' : 'clear') + '">' + esc(btnLabel) + '</button>' : '')
+        + '</div>';
+    }
+    function showLoading() {
+      var grid = $('cardGrid');
+      grid.setAttribute('aria-busy', 'true');
+      var sk = '';
+      for (var i = 0; i < 6; i++) sk += '<div class="skeleton" aria-hidden="true"></div>';
+      grid.innerHTML = sk;
+      $('resultsInfo').textContent = '正在載入文章索引…';
+      $('pagination').innerHTML = '';
+    }
+    function showError(err) {
+      var grid = $('cardGrid');
+      grid.setAttribute('aria-busy', 'false');
+      grid.innerHTML = stateBox('error', '文章索引暫時載入失敗', '請檢查網絡連線後按「重新載入」再試一次。（' + (err && err.message ? err.message : '未知錯誤') + '）', '重新載入');
+      $('resultsInfo').textContent = '無法載入文章索引';
+      $('pagination').innerHTML = '';
+    }
+
+    function load(isRetry) {
+      showLoading();
+      var ctrl = (typeof AbortController !== 'undefined') ? new AbortController() : null;
+      var to = ctrl ? setTimeout(function () { ctrl.abort(); }, 60000) : null;
+      fetch('/articles.json', { cache: isRetry ? 'reload' : 'default', signal: ctrl ? ctrl.signal : undefined })
+        .then(function (r) { if (!r.ok) throw new Error('HTTP ' + r.status); return r.json(); })
+        .then(function (data) {
+          if (to) clearTimeout(to);
+          var list = Array.isArray(data) ? data : (data && Array.isArray(data.articles) ? data.articles : null);
+          if (!list) throw new Error('索引格式不符');
+          var ok = list.map(norm).filter(Boolean);
+          if (list.length && !ok.length) throw new Error('索引欄位不符');
+          articles = ok;
+          fuseCache = {};
+          setupSortOptions();
+          var q0 = '';
+          try { q0 = (new URLSearchParams(location.search).get('q') || '').trim(); } catch (e) {}
+          if (q0) $('searchInput').value = q0;
+          applyFilters();
+          sortAndRender();
+        })
+        .catch(function (err) {
+          if (to) clearTimeout(to);
+          if (err && err.name === 'AbortError') err = new Error('連線逾時');
+          showError(err);
+        });
+    }
+
+    function setupSortOptions() {
+      var sel = $('sortSelect');
+      var hasW = articles.some(function (a) { return a.w !== null; });
+      var hasQ = articles.some(function (a) { return a.q !== null; });
+      [['longest', hasW], ['quality', hasQ]].forEach(function (p) {
+        var opt = sel.querySelector('option[value="' + p[0] + '"]');
+        if (opt && !p[1]) { opt.disabled = true; opt.hidden = true; }
+      });
+    }
+
+    function baseList() { return currentFilter === 'all' ? articles : articles.filter(function (a) { return a.i === currentFilter; }); }
+    function search(base, q) {
+      if (window.Fuse) {
+        try {
+          if (!fuseCache[currentFilter]) fuseCache[currentFilter] = new Fuse(base, { keys: ['t', 'g', 'a', 'c'], threshold: 0.3, ignoreLocation: true });
+          return fuseCache[currentFilter].search(q).map(function (r) { return r.item; });
+        } catch (e) { /* fall through to substring search */ }
       }
+      var ql = q.toLowerCase();
+      return base.filter(function (a) { return (a.t + ' ' + a.g.join(' ') + ' ' + a.a + ' ' + a.c).toLowerCase().indexOf(ql) >= 0; });
+    }
+    function applyFilters() {
+      var base = baseList();
+      var q = $('searchInput').value.trim();
+      filtered = q ? search(base, q) : base.slice();
       currentPage = 1;
-      sortAndRender();
-    });
+    }
 
-    document.getElementById('sortSelect').addEventListener('change', function(e) {
-      currentSort = e.target.value;
-      currentPage = 1;
-      sortAndRender();
-    });
-
-    document.querySelector('.filter-bar').addEventListener('click', function(e) {
-      if (!e.target.classList.contains('filter-btn')) return;
-      document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
-      e.target.classList.add('active');
-      currentFilter = e.target.dataset.industry;
-      const q = document.getElementById('searchInput').value.trim();
-      if (q.length === 0) {
-        filtered = currentFilter === 'all' ? [...articles] : articles.filter(a => a.i === currentFilter);
-      } else {
-        const base = currentFilter === 'all' ? articles : articles.filter(a => a.i === currentFilter);
-        fuse = new Fuse(base, { keys: ['t', 'g', 'a', 'c'], threshold: 0.3 });
-        filtered = fuse.search(q).map(r => r.item);
-      }
-      currentPage = 1;
-      sortAndRender();
-    });
-
+    function cmpStr(a, b) { return a < b ? -1 : (a > b ? 1 : 0); }
     function sortAndRender() {
-      const sorted = [...filtered];
-      if (currentSort === 'newest') sorted.sort((a,b) => b.d.localeCompare(a.d));
-      else if (currentSort === 'quality') sorted.sort((a,b) => b.q - a.q);
-      else if (currentSort === 'longest') sorted.sort((a,b) => b.w - a.w);
-      else if (currentSort === 'title') sorted.sort((a,b) => a.t.localeCompare(b.t, 'zh'));
+      var sorted = filtered.slice();
+      if (currentSort === 'newest') sorted.sort(function (a, b) { return cmpStr(b.d, a.d); });
+      else if (currentSort === 'quality') sorted.sort(function (a, b) { return ((b.q || 0) - (a.q || 0)) || cmpStr(b.d, a.d); });
+      else if (currentSort === 'longest') sorted.sort(function (a, b) { return ((b.w || 0) - (a.w || 0)) || cmpStr(b.d, a.d); });
+      else if (currentSort === 'title') sorted.sort(function (a, b) { return collator ? collator.compare(a.t, b.t) : a.t.localeCompare(b.t, 'zh'); });
       filtered = sorted;
       render();
     }
 
+    function cardHtml(a) {
+      var ind = INDUSTRY_NAMES[a.i] || a.i;
+      var icon = INDUSTRY_ICONS[a.i] || '📄';
+      var tags = a.g.slice(0, 3).map(function (t) { return '<span>' + esc(t) + '</span>'; }).join('');
+      var meta = '';
+      if (a.w !== null) meta += '<span>' + esc(a.w) + ' 字</span>';
+      if (a.a) meta += '<span>' + esc(a.a.replace(/-/g, ' ')) + '</span>';
+      if (a.d) meta += '<span>' + esc(a.d) + '</span>';
+      return '<a class="card" href="articles/' + esc(encodeURIComponent(a.s)) + '.html">'
+        + '<span class="card-industry">' + icon + ' ' + esc(ind || '未分類') + '</span>'
+        + '<h3>' + esc(a.t) + '</h3>'
+        + (meta ? '<div class="card-meta">' + meta + '</div>' : '')
+        + (tags ? '<div class="card-tags">' + tags + '</div>' : '')
+        + '</a>';
+    }
+
     function render() {
-      const total = filtered.length;
-      const pages = Math.ceil(total / PER_PAGE);
+      var total = filtered.length;
+      var pages = Math.ceil(total / PER_PAGE);
       if (currentPage > pages) currentPage = pages || 1;
-      const start = (currentPage - 1) * PER_PAGE;
-      const slice = filtered.slice(start, start + PER_PAGE);
+      var start = (currentPage - 1) * PER_PAGE;
+      var slice = filtered.slice(start, start + PER_PAGE);
 
-      document.getElementById('resultsInfo').textContent = total + ' 篇文章' + (currentFilter !== 'all' ? ' (' + (INDUSTRY_NAMES[currentFilter] || currentFilter) + ')' : '');
+      $('resultsInfo').textContent = total + ' 篇文章' + (currentFilter !== 'all' ? ' (' + (INDUSTRY_NAMES[currentFilter] || currentFilter) + ')' : '')
+        + (pages > 1 ? '，第 ' + currentPage + ' / ' + pages + ' 頁' : '');
 
-      const grid = document.getElementById('cardGrid');
-      grid.innerHTML = slice.map(a => {
-        const ind = INDUSTRY_NAMES[a.i] || a.i;
-        const tags = (a.g || []).slice(0, 3).map(t => '<span>' + t + '</span>').join('');
-        const icon = INDUSTRY_ICONS[a.i] || '📄';
-        return '<a class="card" href="articles/' + a.s + '.html">'
-          + '<span class="card-industry">' + icon + ' ' + ind + '</span>'
-          + '<h3>' + a.t + '</h3>'
-          + '<div class="card-meta"><span>' + a.w + ' 字</span><span>' + a.a.replace(/-/g, ' ') + '</span><span>' + a.d + '</span></div>'
-          + (tags ? '<div class="card-tags">' + tags + '</div>' : '')
-          + '</a>';
-      }).join('');
+      var grid = $('cardGrid');
+      grid.setAttribute('aria-busy', 'false');
+      if (!total) {
+        var filtering = $('searchInput').value.trim() || currentFilter !== 'all';
+        grid.innerHTML = filtering
+          ? stateBox('empty', '找不到符合條件的文章', '試試其他關鍵字，或清除搜尋與分類。', '清除搜尋與分類')
+          : stateBox('empty', '目前未有文章', '', '');
+      } else {
+        grid.innerHTML = slice.map(cardHtml).join('');
+      }
 
-      const pag = document.getElementById('pagination');
+      var pag = $('pagination');
       if (pages <= 1) { pag.innerHTML = ''; return; }
-      let btns = '<button ' + (currentPage<=1?'disabled':'') + ' onclick="window._ep(' + (currentPage-1) + ')">&#8249;</button>';
-      const range = 3;
-      for (let i = 1; i <= pages; i++) {
-        if (i === 1 || i === pages || (i >= currentPage-range && i <= currentPage+range)) {
-          btns += '<button class="' + (i===currentPage?'active':'') + '" onclick="window._ep(' + i + ')">' + i + '</button>';
-        } else if (i === currentPage-range-1 || i === currentPage+range+1) {
-          btns += '<button disabled>...</button>';
+      var btns = '<button type="button" aria-label="上一頁" data-page="' + (currentPage - 1) + '"' + (currentPage <= 1 ? ' disabled' : '') + '>&#8249;</button>';
+      var range = 3;
+      for (var i = 1; i <= pages; i++) {
+        if (i === 1 || i === pages || (i >= currentPage - range && i <= currentPage + range)) {
+          btns += '<button type="button" aria-label="第 ' + i + ' 頁"' + (i === currentPage ? ' class="active" aria-current="page"' : '') + ' data-page="' + i + '">' + i + '</button>';
+        } else if (i === currentPage - range - 1 || i === currentPage + range + 1) {
+          btns += '<span class="ellipsis" aria-hidden="true">…</span>';
         }
       }
-      btns += '<button ' + (currentPage>=pages?'disabled':'') + ' onclick="window._ep(' + (currentPage+1) + ')">&#8250;</button>';
+      btns += '<button type="button" aria-label="下一頁" data-page="' + (currentPage + 1) + '"' + (currentPage >= pages ? ' disabled' : '') + '>&#8250;</button>';
       pag.innerHTML = btns;
     }
 
-    window._ep = function(p) { currentPage = p; render(); window.scrollTo(0, document.querySelector('.card-grid').offsetTop - 100); };
+    function goPage(p) {
+      currentPage = p;
+      render();
+      var info = $('resultsInfo');
+      var top = info.getBoundingClientRect().top + window.pageYOffset - 16;
+      window.scrollTo(0, Math.max(0, top));
+      try { info.focus({ preventScroll: true }); } catch (e) { info.focus(); }
+    }
+    window._ep = goPage;
+
+    function resetAll() {
+      $('searchInput').value = '';
+      currentFilter = 'all';
+      syncFilterButtons();
+      applyFilters();
+      sortAndRender();
+    }
+    function syncFilterButtons() {
+      var bs = document.querySelectorAll('.filter-btn');
+      for (var i = 0; i < bs.length; i++) {
+        var on = bs[i].dataset.industry === currentFilter;
+        bs[i].classList.toggle('active', on);
+        bs[i].setAttribute('aria-pressed', on ? 'true' : 'false');
+      }
+    }
+
+    $('searchInput').addEventListener('input', function () {
+      clearTimeout(searchTimer);
+      searchTimer = setTimeout(function () { applyFilters(); sortAndRender(); }, 180);
+    });
+    $('sortSelect').addEventListener('change', function (e) {
+      currentSort = e.target.value;
+      currentPage = 1;
+      sortAndRender();
+    });
+    document.querySelector('.filter-bar').addEventListener('click', function (e) {
+      var btn = e.target.closest ? e.target.closest('.filter-btn') : null;
+      if (!btn) return;
+      currentFilter = btn.dataset.industry;
+      syncFilterButtons();
+      applyFilters();
+      sortAndRender();
+    });
+    $('pagination').addEventListener('click', function (e) {
+      var btn = e.target.closest ? e.target.closest('button[data-page]') : null;
+      if (!btn || btn.disabled) return;
+      goPage(parseInt(btn.getAttribute('data-page'), 10));
+    });
+    $('cardGrid').addEventListener('click', function (e) {
+      var btn = e.target.closest ? e.target.closest('button[data-action]') : null;
+      if (!btn) return;
+      if (btn.getAttribute('data-action') === 'retry') load(true); else resetAll();
+    });
+
+    syncFilterButtons();
+    load(false);
   })();
   </script>
   <img src="https://client-ai-tracker.inariglobal.workers.dev/japan-encyclopedia/pixel.gif?p=/" width="1" height="1" alt="" loading="eager" style="position:absolute;left:-9999px" />
