@@ -1,0 +1,55 @@
+[data-region=japan]{--tempo:1.35;--dist:8px;--stagger:72ms;--ease-land:cubic-bezier(.22,.61,.36,1);
+  --paper:#F7F4EE;--ink:#22201C;--muted:#5C5850;--hairline:#DDD6C8;
+  --accent:#24476B;--signal:#A2462A;--stage:#F3EFE6;--stage-ink:#22201C;--stage-muted:#5C5850;--stage-accent:#24476B;
+  --chip-bg:#ECE6DA;--chip-ink:#3B342B;--focus:#24476B;
+  --radius-card:2px;--icon-stroke:1.25;
+  --font-display:"Songti TC","Noto Serif TC",serif;--display-weight:600;--display-tracking:.04em;}
+[data-region=japan] .lens-row{gap:4px}
+[data-region=japan] .lens-chip{border-radius:0;border:0;border-bottom:1.5px solid color-mix(in srgb,var(--lens-ink) 25%,transparent);padding:6px 18px;font-family:var(--font-display);font-size:19px;flex-direction:column;gap:0;line-height:1.3}
+[data-region=japan] .lens-chip[aria-pressed=true]{background:transparent;color:var(--signal);border-bottom:2px solid var(--signal)}
+[data-region=japan] .lens-chip small{font-family:var(--font-sans);font-size:11px;color:var(--lens-muted)}
+[data-region=japan] .art-japan{display:block}
+[data-region=japan] .ico{background:transparent;border-radius:0;border-bottom:1px solid var(--accent);width:26px}
+[data-region=japan] .card h3{font-weight:600}
+[data-region=japan] .stage .wrap{grid-template-columns:minmax(0,.85fr) minmax(0,1fr);gap:72px;min-height:580px}
+[data-region=japan] .art{order:-1;justify-self:start;max-width:440px;aspect-ratio:4/5}
+[data-region=japan] .stage h1{font-size:clamp(30px,3.6vw,48px);line-height:1.35}
+[data-region=japan] .grid{gap:0 40px}
+[data-region=japan] .card{border:0;border-top:1px solid var(--ink);border-radius:0;background:transparent;padding:18px 0 22px}
+[data-region=japan] .card::after{box-shadow:none}
+[data-region=japan] .card:hover{transform:translateX(calc(var(--dist) * .5))}
+[data-region=japan] .card-foot{border-top:0;padding-top:0}
+[data-region=japan] .stackwrap .ly{display:none}
+[data-region=japan] .stackwrap{margin-bottom:0}
+[data-region=japan] .art{overflow:hidden}
+@media (max-width:760px){[data-region=japan] .stage .wrap{grid-template-columns:minmax(0,1fr);gap:12px;min-height:0}
+[data-region=japan] .art{max-width:none;aspect-ratio:auto;justify-self:stretch}}
+@media (prefers-color-scheme:dark){[data-region=japan]{
+    --stage:#211F1B;--stage-ink:#F3EFE6;--stage-muted:#C8C0B2;--stage-accent:#ACC4DF;
+    --paper:#14181D;--surface:#1C232A;--ink:#EEEAE2;--muted:#A9B0B8;--hairline:#49545F;
+    --accent:#8EBDF3;--on-accent:#14284B;--signal:#F1A28E;--focus:#8EBDF3;
+    --chip-bg:#283745;--chip-ink:#C9E2FB;
+    --trust-l0:#F1AD9C;--trust-l1:#E0C77A;--trust-l2:#97C6EB;--trust-l3:#90D7AF;--trust-l4:#B7CCF0;
+  }}
+
+[data-region=japan] .lens-chip{border-bottom-color:var(--lens-muted)}
+/* Door geometry */
+.portal[data-region=japan] .p.paper-door{top:0;width:50.5%;height:100%;background:#F3EFE6}.portal[data-region=japan] .p.paper-door.a{left:0;border-right:1px solid #CFC6B5;--door-start:translateX(-101%);--door-end:translateX(-101%)}.portal[data-region=japan] .p.paper-door.b{right:0;border-left:1px solid #CFC6B5;--door-start:translateX(101%);--door-end:translateX(101%)}
+
+[data-region=japan] .stage .btn.sec{color:var(--stage-accent);box-shadow:inset 0 0 0 1.5px var(--stage-accent)}
+
+/* Lit washi stays a fixed palette on the sumi desk. CSS overrides SVG presentation opacity. */
+[data-region=japan] .art-japan{opacity:1}
+[data-region=japan] .art-japan rect.sheet[filter]{filter:none;stroke:#787266;stroke-width:1.5}
+[data-region=japan] .art-japan .sheet[fill="url(#seigaiha)"]{opacity:.7}
+[data-region=japan] .art-japan text.sheet{opacity:1;fill:#22201C}
+
+[data-region=japan] .lens{--lens-bg:var(--paper);--lens-ink:var(--ink);--lens-muted:var(--muted);--lens-accent:var(--accent);--focus:var(--lens-accent);margin-top:28px}[data-region=japan] .stage .lens{--lens-bg:var(--stage);--lens-ink:var(--stage-ink);--lens-muted:var(--stage-muted);--lens-accent:var(--stage-accent)}
+
+[data-region=japan] .stage .trust-note{color:var(--stage-muted)}[data-region=japan] .stage .trust-note a{color:var(--stage-accent)}
+
+[data-region=japan] .lens-chip small{opacity:1}
+[data-region=japan] .art-japan .season-mark rect{fill:#B24E2D}
+
+[data-region=japan] .search>.btn{margin:8px 8px 0 0}
+[data-region=japan] footer .btn[data-motion-toggle],[data-region=japan] footer .eco-btn[data-motion-toggle]{border-radius:8px}

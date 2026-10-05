@@ -1,0 +1,21 @@
+/* Phase A: class selectors only. Concatenate core + localized region + bridge. */
+.article-nav{--accent:var(--stage-ink);background:var(--stage);color:var(--stage-ink);border-bottom:1px solid var(--hairline);padding:16px var(--gutter);font-family:var(--font-sans)}
+.article-nav .article-nav-link{color:var(--stage-ink)}
+.article-container{width:min(100%,calc(42ic + var(--gutter)*2));max-width:100%;margin:0 auto;padding:32px var(--gutter) 64px;overflow-wrap:anywhere;color:var(--ink);font-family:var(--font-sans)}
+.article-title{font:var(--display-weight) clamp(28px,4vw,44px)/1.35 var(--font-display);letter-spacing:var(--display-tracking);color:var(--ink);margin:0 0 20px;overflow-wrap:anywhere}
+.article-meta{color:var(--muted);font:13px/1.7 var(--font-sans);font-variant-numeric:tabular-nums;display:flex;flex-wrap:wrap;gap:6px 16px;margin-bottom:24px}
+.article-desc{color:var(--ink);background:color-mix(in srgb,var(--ink) 4%,var(--paper));border:0;border-radius:var(--radius-card);padding:20px;font:19px/1.85 var(--font-sans);margin:24px 0}
+.article-content{color:var(--ink);font:17px/1.85 var(--font-sans);overflow-wrap:anywhere}
+.article-content .article-heading{font-family:var(--font-display);color:var(--ink);line-height:1.35}
+.article-content .article-image{max-width:100%;height:auto}
+.article-content .article-table-wrap{max-width:100%;overflow-x:auto}
+.article-content .article-link{color:var(--accent);text-underline-offset:.18em}
+.faq-section{margin-top:40px;padding:24px;background:var(--surface);color:var(--ink);border:1px solid var(--hairline);border-radius:var(--radius-card);font:17px/1.85 var(--font-sans)}
+.faq-section .faq-item{border-bottom:1px solid var(--hairline);padding:16px 0}
+.faq-section .faq-question{font-family:var(--font-display);font-weight:700;color:var(--ink)}
+.faq-section .faq-answer{color:var(--muted)}
+.ecosystem-footer{--accent:var(--stage-ink);background:var(--stage);color:var(--stage-ink);border-top:1px solid var(--hairline);padding:32px var(--gutter);font:14px/1.85 var(--font-sans);overflow-wrap:anywhere}
+.ecosystem-footer .ecosystem-link{color:var(--stage-ink)}
+
+/* Bare legacy h1 inherits the same display font as .article-title. */
+.article-header{font-family:var(--font-display)}

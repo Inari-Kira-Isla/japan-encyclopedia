@@ -1,0 +1,44 @@
+/* Homepage wiring; regional geometry lives in the approved shared assets. */
+.search>p{font-size:13px;margin:8px 0;color:var(--stage-muted)}
+.search>button{min-height:44px;border:1px solid var(--stage-muted);background:var(--stage);color:var(--stage-ink);padding:6px 14px;cursor:pointer}
+.pagination{display:flex;gap:12px;flex-wrap:wrap;margin:32px 0}
+.fchip{text-decoration:none}.fchip[aria-current=page]{background:var(--chip-bg);color:var(--chip-ink);border-color:var(--chip-ink)}
+.filters details{position:relative}.more-cats{display:flex;gap:8px;flex-wrap:wrap;padding:8px 0}
+.region-index{margin:48px 0}.region-index h2{font-family:var(--font-display);font-size:24px}
+.covers{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:24px;margin:48px 0}
+.cover{text-decoration:none;display:flex;flex-direction:column;gap:8px;color:var(--ink)}
+.cover picture{aspect-ratio:16/9;overflow:hidden}.cover img{width:100%;height:auto;display:block}.cover small{color:var(--muted)}
+.footer-links{display:flex;flex-wrap:wrap;gap:16px}.footer-links .door{color:var(--stage-ink);border-radius:0}.footer-links .door:hover{background:var(--chip-bg);color:var(--chip-ink)}
+.footer-links .door[aria-current=page]{background:transparent;color:var(--stage-ink);text-decoration:underline}
+#feed-state{margin:20px 0}.feed-busy{opacity:.65}.season-list{margin-bottom:32px}
+@media(max-width:760px){.covers{grid-template-columns:minmax(0,1fr)}.search-go{padding:0 12px}.footer-links{gap:4px}}
+.stackgroup{min-width:0}.cluster-details{padding:0 0 20px}.cluster-details summary{cursor:pointer;min-height:44px;color:var(--accent);font-size:13px}.cluster-details ul{padding-left:20px;font-size:14px;overflow-wrap:anywhere}.stackgroup .card{min-height:0}
+html[data-season=春]{--signal:#9A4A5C}
+html[data-season=夏]{--signal:#24476B}
+html[data-season=秋]{--signal:#A2462A}
+html[data-season=冬]{--signal:#4A5560}
+[data-region=japan] .lens-chip[aria-pressed=true]{color:var(--signal);border-bottom-color:var(--signal)}
+@media(prefers-color-scheme:dark){html[data-season=春]{--signal:#F1A28E}html[data-season=夏]{--signal:#8EBDF3}html[data-season=秋]{--signal:#F1A28E}html[data-season=冬]{--signal:#B7CCF0}}
+
+.card{display:flex;flex-direction:column;height:100%}.card-foot{margin-top:auto;min-height:24px}
+.stackgroup{display:flex;flex-direction:column}.stackgroup .stackwrap{flex:1;display:flex;min-height:0}.stackwrap .card{width:100%}.cluster-details{margin-top:0;padding-bottom:0}.cluster-details a{display:block;min-height:44px;padding:8px 0}.cluster-details summary{padding:10px 0}
+.grid{align-items:stretch}.browse-header{padding-top:32px;padding-bottom:32px}.browse-header h1{font:600 clamp(28px,4vw,44px)/1.35 var(--font-display)}.browse-header .search{max-width:680px;margin-top:24px}.region-facets{display:flex;flex-wrap:wrap;gap:8px}.region-facets .fchip{display:inline-flex;align-items:center;min-height:44px;min-width:44px}
+#trust-info{font-size:14px}#trust-info dt{font-weight:700}#trust-info dd{margin:0 0 12px}.sec-head p{overflow-wrap:anywhere}.footer-links a{min-height:44px;display:inline-flex;align-items:center}.faq-item summary{min-height:44px}
+
+.cluster-slot{min-height:0}.cluster-details summary{height:44px}.stackwrap .card{height:auto}
+
+.trust-note a,.ecosystem-footer p a,.browse-header nav[aria-label="麵包屑"] a{display:inline-flex;align-items:center;min-height:44px;min-width:44px}.skip{min-height:44px;display:inline-flex;align-items:center}
+
+.wordmark,.catnav a{min-height:44px;display:inline-flex;align-items:center}
+
+/* A detail row reserves space only for the cards sharing that grid row. */
+.pagination[hidden]{display:none}
+.stackgroup{display:grid;grid-row:span 2;grid-template-rows:subgrid;row-gap:0}
+.stackgroup .stackwrap{min-height:0}.cluster-slot{height:0}
+body[data-category]:not([data-category=""]) #result-status{font-size:13px;color:var(--muted)}
+@media(max-width:760px){
+ .stackgroup{display:flex;grid-row:auto}.stackgroup .stackwrap{flex:none;min-height:0}
+ .stackgroup .card{min-height:0}.card-foot{min-height:0}.cluster-slot{display:none}
+}
+
+.fchip[aria-current=true]{background:var(--chip-bg);border-color:var(--chip-ink);color:var(--chip-ink);font-weight:600}

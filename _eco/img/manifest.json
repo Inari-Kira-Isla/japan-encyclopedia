@@ -1,0 +1,769 @@
+{
+  "region": "japan",
+  "tool": "built-in image_gen",
+  "status": "candidate_for_Kira",
+  "source_note": "Native 1672×941 output preserved pixel-for-pixel after metadata stripping; separate 1600×900 normalized cover masters.",
+  "assets": [
+    {
+      "slot": "cover-food",
+      "alt_draft": "木枱上嘅串燒長碟、靛藍陶碗同一片秋葉。",
+      "palette": {
+        "washi": "#F7F4EE",
+        "sumi": "#22201C",
+        "indigo": "#24476B",
+        "persimmon": "#A2462A"
+      },
+      "palette_mapping": {
+        "paper": "washi",
+        "shadow": "sumi",
+        "ceramic_sky_pattern": "indigo",
+        "autumn_accent_stamp": "persimmon"
+      },
+      "prompt": "Editorial illustration for a regional city guide. Flat shapes with subtle paper grain, limited palette, soft daylight, calm composition with generous negative space in the upper third for overlaying a title. No people's faces in detail (if people appear they are small, distant, simplified, diverse). Absolutely no text, letters, numbers, signage writing, logos, watermarks, flags, religious icons or political symbols. Avoid tourist-postcard clichés and do not combine many landmarks in one frame. 16:9, high resolution.\nOverhead view of a plain wooden counter with a few small ceramic dishes and a single skewer plate, lots of empty wood grain, soft side light, indigo and persimmon accents, very minimal, washi paper texture. Seasonal hint: a single autumn leaf. No restaurant signage.\nPalette: washi #F7F4EE, sumi ink #22201C, indigo #24476B, seasonal persimmon #A2462A.\nKeep the main subject inside the central 60% of the canvas; outer 20% edges are expendable crop space. Quiet seasonal reader aesthetic, restrained matte paper-cut illustration. Output target 1600×900 landscape.\nAvoid: text, letters, characters, calligraphy, signage text, logo, watermark, flag, religious statue, shrine deity, protest, stereotype costume, geisha, samurai, rising sun, casino, neon cyberpunk fog, collage of landmarks, purple gradient, 3D render, glossy",
+      "source_dimensions": [
+        1672,
+        941
+      ],
+      "files": [
+        {
+          "filename": "cover-food-original.png",
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 2720980,
+          "sha256": "b05180dd5282460a4ef4ad7651c067b79ef84eef34e76422ac9817daa93a32c9",
+          "budget_bytes": null,
+          "quality": null
+        },
+        {
+          "filename": "cover-food-1600.png",
+          "dimensions": [
+            1600,
+            900
+          ],
+          "bytes": 2492682,
+          "sha256": "16ad8a5a3a314168e182594a8fab1973b38bc66ee7aaef1fb24261bb124cbcb7",
+          "budget_bytes": null,
+          "quality": null
+        },
+        {
+          "filename": "cover-food-1200.png",
+          "dimensions": [
+            1200,
+            675
+          ],
+          "bytes": 1433731,
+          "sha256": "6c0be3e63a878ce8c932a97d4f28693e13286a360388184cca7fd3a16e36bac0",
+          "budget_bytes": null,
+          "quality": null
+        },
+        {
+          "filename": "cover-food-1200.avif",
+          "dimensions": [
+            1200,
+            675
+          ],
+          "bytes": 49067,
+          "sha256": "042c43160a8b707a9ec58fc53feb0b425346d0bf49c1f88029439c343728f489",
+          "budget_bytes": 60000,
+          "quality": 45
+        },
+        {
+          "filename": "cover-food-1200.webp",
+          "dimensions": [
+            1200,
+            675
+          ],
+          "bytes": 105976,
+          "sha256": "6a56a3492782191b5fe39501a5cd6933efcf3acf86ec1ee928e49d783080d02f",
+          "budget_bytes": null,
+          "quality": 78
+        },
+        {
+          "filename": "cover-food-800.png",
+          "dimensions": [
+            800,
+            450
+          ],
+          "bytes": 639908,
+          "sha256": "055f882d18546bf1ff71ae7d773af0729eb14faf28a5afa894e569c592d6d7ef",
+          "budget_bytes": null,
+          "quality": null
+        },
+        {
+          "filename": "cover-food-800.avif",
+          "dimensions": [
+            800,
+            450
+          ],
+          "bytes": 27505,
+          "sha256": "0a2843648dead523395326b43d32a3df19ec09e0c0863c315d255e4ee6787979",
+          "budget_bytes": 28000,
+          "quality": 50
+        },
+        {
+          "filename": "cover-food-800.webp",
+          "dimensions": [
+            800,
+            450
+          ],
+          "bytes": 48272,
+          "sha256": "88d15d7ac246c022151d28d8aa5e7d247d79a472cb2628aa4b90cb98edee0d86",
+          "budget_bytes": null,
+          "quality": 78
+        },
+        {
+          "filename": "cover-food-480.png",
+          "dimensions": [
+            480,
+            270
+          ],
+          "bytes": 228782,
+          "sha256": "6f1de55fccde65591f5849592b7db0d9dc47a3567bd8cea6c887105f850a8237",
+          "budget_bytes": null,
+          "quality": null
+        },
+        {
+          "filename": "cover-food-480.avif",
+          "dimensions": [
+            480,
+            270
+          ],
+          "bytes": 12998,
+          "sha256": "c1160e3151082f95421abe4d10f59c39ef9f71ebe237f89673689534749bf257",
+          "budget_bytes": 14000,
+          "quality": 55
+        },
+        {
+          "filename": "cover-food-480.webp",
+          "dimensions": [
+            480,
+            270
+          ],
+          "bytes": 17914,
+          "sha256": "fe2c28d9b4bfce21065c24dfb4dc31272ffc0f8a87a8e40f66ed802d8dd13890",
+          "budget_bytes": null,
+          "quality": 78
+        }
+      ],
+      "intended_url": "/assets/japan/cover-food-{w}.{format}"
+    },
+    {
+      "slot": "cover-see",
+      "alt_draft": "秋色樹林之間，一條低木欄夾住嘅石徑延伸入晨霧。",
+      "palette": {
+        "washi": "#F7F4EE",
+        "sumi": "#22201C",
+        "indigo": "#24476B",
+        "persimmon": "#A2462A"
+      },
+      "palette_mapping": {
+        "paper": "washi",
+        "shadow": "sumi",
+        "ceramic_sky_pattern": "indigo",
+        "autumn_accent_stamp": "persimmon"
+      },
+      "prompt": "Editorial illustration for a regional city guide. Flat shapes with subtle paper grain, limited palette, soft daylight, calm composition with generous negative space in the upper third for overlaying a title. No people's faces in detail (if people appear they are small, distant, simplified, diverse). Absolutely no text, letters, numbers, signage writing, logos, watermarks, flags, religious icons or political symbols. Avoid tourist-postcard clichés and do not combine many landmarks in one frame. 16:9, high resolution.\nA quiet stone path between low wooden fences leading toward distant trees in autumn colour, morning mist, wide negative space in the sky, layered paper-cut depth. No shrine gates, no temples in detail, no mountains with snow caps.\nPalette: washi #F7F4EE, sumi ink #22201C, indigo #24476B, seasonal persimmon #A2462A.\nKeep the main subject inside the central 60% of the canvas; outer 20% edges are expendable crop space. Quiet seasonal reader aesthetic, restrained matte paper-cut illustration. Output target 1600×900 landscape.\nAvoid: text, letters, characters, calligraphy, signage text, logo, watermark, flag, religious statue, shrine deity, protest, stereotype costume, geisha, samurai, rising sun, casino, neon cyberpunk fog, collage of landmarks, purple gradient, 3D render, glossy",
+      "source_dimensions": [
+        1672,
+        941
+      ],
+      "files": [
+        {
+          "filename": "cover-see-original.png",
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 2676813,
+          "sha256": "b8650a398f6990cc5dd4dd921adfe4b4864124855db9249c0ea396e999d7b65b",
+          "budget_bytes": null,
+          "quality": null
+        },
+        {
+          "filename": "cover-see-1600.png",
+          "dimensions": [
+            1600,
+            900
+          ],
+          "bytes": 2468461,
+          "sha256": "d83b6da782e33082f312660a23a8441e1a2233c6881a92634946b79aa8b9db35",
+          "budget_bytes": null,
+          "quality": null
+        },
+        {
+          "filename": "cover-see-1200.png",
+          "dimensions": [
+            1200,
+            675
+          ],
+          "bytes": 1417689,
+          "sha256": "ccbe2742137e00def3de672dfed82681a490ea056662f159c0812a107987ca7a",
+          "budget_bytes": null,
+          "quality": null
+        },
+        {
+          "filename": "cover-see-1200.avif",
+          "dimensions": [
+            1200,
+            675
+          ],
+          "bytes": 52534,
+          "sha256": "816a50f05bb768beb9c760800b467a8c3f84dd15943fada7581a03ae880c4fce",
+          "budget_bytes": 60000,
+          "quality": 45
+        },
+        {
+          "filename": "cover-see-1200.webp",
+          "dimensions": [
+            1200,
+            675
+          ],
+          "bytes": 112348,
+          "sha256": "0d55b06ddd49258df18eff3e973540020a449908c7bd24003607deca2af23685",
+          "budget_bytes": null,
+          "quality": 78
+        },
+        {
+          "filename": "cover-see-800.png",
+          "dimensions": [
+            800,
+            450
+          ],
+          "bytes": 634481,
+          "sha256": "4005a43a0d5ec2e062aafbf19225556c139316c3b622fdcde3e54620e5d199cb",
+          "budget_bytes": null,
+          "quality": null
+        },
+        {
+          "filename": "cover-see-800.avif",
+          "dimensions": [
+            800,
+            450
+          ],
+          "bytes": 26041,
+          "sha256": "d2131e13d6e09189cacafa9c8fb7f9071c92780d102ad150fdad9f998c4aeb84",
+          "budget_bytes": 28000,
+          "quality": 45
+        },
+        {
+          "filename": "cover-see-800.webp",
+          "dimensions": [
+            800,
+            450
+          ],
+          "bytes": 56420,
+          "sha256": "77a115d1b851ba6b621c5693be53a46463db7464461cc077419baa988ff72cc6",
+          "budget_bytes": null,
+          "quality": 78
+        },
+        {
+          "filename": "cover-see-480.png",
+          "dimensions": [
+            480,
+            270
+          ],
+          "bytes": 231008,
+          "sha256": "f6c5073299dd00e8630927ff5c49278d9071931f40e9bc856d806a5694a6b975",
+          "budget_bytes": null,
+          "quality": null
+        },
+        {
+          "filename": "cover-see-480.avif",
+          "dimensions": [
+            480,
+            270
+          ],
+          "bytes": 13132,
+          "sha256": "d322fe98c857d57a2ef0ce2a9b1911af2b10d0c00bf01c27d8df4d9c3c98dc2f",
+          "budget_bytes": 14000,
+          "quality": 50
+        },
+        {
+          "filename": "cover-see-480.webp",
+          "dimensions": [
+            480,
+            270
+          ],
+          "bytes": 23378,
+          "sha256": "8e310d670cea55925bfeacadae475193bf0e7688cf9f16bfaf076189cd96b659",
+          "budget_bytes": null,
+          "quality": 78
+        }
+      ],
+      "intended_url": "/assets/japan/cover-see-{w}.{format}"
+    },
+    {
+      "slot": "cover-move",
+      "alt_draft": "暮色中嘅鄉郊月台，一列短火車停喺暖燈旁。",
+      "palette": {
+        "washi": "#F7F4EE",
+        "sumi": "#22201C",
+        "indigo": "#24476B",
+        "persimmon": "#A2462A"
+      },
+      "palette_mapping": {
+        "paper": "washi",
+        "shadow": "sumi",
+        "ceramic_sky_pattern": "indigo",
+        "autumn_accent_stamp": "persimmon"
+      },
+      "prompt": "Editorial illustration for a regional city guide. Flat shapes with subtle paper grain, limited palette, soft daylight, calm composition with generous negative space in the upper third for overlaying a title. No people's faces in detail (if people appear they are small, distant, simplified, diverse). Absolutely no text, letters, numbers, signage writing, logos, watermarks, flags, religious icons or political symbols. Avoid tourist-postcard clichés and do not combine many landmarks in one frame. 16:9, high resolution.\nA rural railway platform at dusk, a short two-car train as simple flat shapes, overhead wires as thin lines, indigo sky fading to warm paper tone. No station name boards, no text.\nPalette: washi #F7F4EE, sumi ink #22201C, indigo #24476B, seasonal persimmon #A2462A.\nKeep the main subject inside the central 60% of the canvas; outer 20% edges are expendable crop space. Quiet seasonal reader aesthetic, restrained matte paper-cut illustration. Output target 1600×900 landscape.\nAvoid: text, letters, characters, calligraphy, signage text, logo, watermark, flag, religious statue, shrine deity, protest, stereotype costume, geisha, samurai, rising sun, casino, neon cyberpunk fog, collage of landmarks, purple gradient, 3D render, glossy",
+      "source_dimensions": [
+        1672,
+        941
+      ],
+      "files": [
+        {
+          "filename": "cover-move-original.png",
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 2578073,
+          "sha256": "6d5c0ba16026bc274145db97aaa36dc65fce30e8985cc963c546811dd2553f4b",
+          "budget_bytes": null,
+          "quality": null
+        },
+        {
+          "filename": "cover-move-1600.png",
+          "dimensions": [
+            1600,
+            900
+          ],
+          "bytes": 2367762,
+          "sha256": "4ff0f57cb7f1a811d8043419ea12a21fb3e623bd5efef95fbbba32a1134a3159",
+          "budget_bytes": null,
+          "quality": null
+        },
+        {
+          "filename": "cover-move-1200.png",
+          "dimensions": [
+            1200,
+            675
+          ],
+          "bytes": 1365351,
+          "sha256": "fd942b3ad6d32f63cc708b09376a03795d14f14205830ae4270ab5935d3b3135",
+          "budget_bytes": null,
+          "quality": null
+        },
+        {
+          "filename": "cover-move-1200.avif",
+          "dimensions": [
+            1200,
+            675
+          ],
+          "bytes": 50628,
+          "sha256": "41e101b6a2736e42d5063ed621b562b782bec37fa18275a4e971cc5c8ec048ca",
+          "budget_bytes": 60000,
+          "quality": 50
+        },
+        {
+          "filename": "cover-move-1200.webp",
+          "dimensions": [
+            1200,
+            675
+          ],
+          "bytes": 82352,
+          "sha256": "3b6efcc721f5c35f693ea38965f101cac99c5add446b829885e2b0e6b3db0a0e",
+          "budget_bytes": null,
+          "quality": 78
+        },
+        {
+          "filename": "cover-move-800.png",
+          "dimensions": [
+            800,
+            450
+          ],
+          "bytes": 613104,
+          "sha256": "85feed9c0d877ece4723c2fbb022b06c1df66164c663b22ec2ac1f267f001468",
+          "budget_bytes": null,
+          "quality": null
+        },
+        {
+          "filename": "cover-move-800.avif",
+          "dimensions": [
+            800,
+            450
+          ],
+          "bytes": 24728,
+          "sha256": "2d8a950feb6321f6ddaa83995298794304843c2c9bffd7a1e281485312876b6b",
+          "budget_bytes": 28000,
+          "quality": 50
+        },
+        {
+          "filename": "cover-move-800.webp",
+          "dimensions": [
+            800,
+            450
+          ],
+          "bytes": 42280,
+          "sha256": "aa9fbdb4825aba58c5620103b5fa3ac7210bb7c7b9e8ce83b0de8c8b11c2f773",
+          "budget_bytes": null,
+          "quality": 78
+        },
+        {
+          "filename": "cover-move-480.png",
+          "dimensions": [
+            480,
+            270
+          ],
+          "bytes": 221359,
+          "sha256": "bf1ed1204ffffd508e093f2484d37d56e232da42b20c94aafadf66d80c13245b",
+          "budget_bytes": null,
+          "quality": null
+        },
+        {
+          "filename": "cover-move-480.avif",
+          "dimensions": [
+            480,
+            270
+          ],
+          "bytes": 11962,
+          "sha256": "869424be46e8d9b2ae8a4a981da10407dbccd7bdf42dc59febb0e05fb01a7519",
+          "budget_bytes": 14000,
+          "quality": 55
+        },
+        {
+          "filename": "cover-move-480.webp",
+          "dimensions": [
+            480,
+            270
+          ],
+          "bytes": 17668,
+          "sha256": "8950fbf96b889f5b459a17db155968525947f1cb37dab96b0b674f0282b1394d",
+          "budget_bytes": null,
+          "quality": 78
+        }
+      ],
+      "intended_url": "/assets/japan/cover-move-{w}.{format}"
+    },
+    {
+      "slot": "og",
+      "alt_draft": "米白和紙層疊，淡靛藍青海波旁放住一個冇字嘅柿色方印。",
+      "palette": {
+        "washi": "#F7F4EE",
+        "sumi": "#22201C",
+        "indigo": "#24476B",
+        "persimmon": "#A2462A"
+      },
+      "palette_mapping": {
+        "paper": "washi",
+        "shadow": "sumi",
+        "ceramic_sky_pattern": "indigo",
+        "autumn_accent_stamp": "persimmon"
+      },
+      "prompt": "Editorial illustration for a regional city guide. Flat shapes with subtle paper grain, limited palette, soft daylight, calm composition with generous negative space in the upper third for overlaying a title. No people's faces in detail (if people appear they are small, distant, simplified, diverse). Absolutely no text, letters, numbers, signage writing, logos, watermarks, flags, religious icons or political symbols. Avoid tourist-postcard clichés and do not combine many landmarks in one frame. 16:9, high resolution.\nAbstract layered washi paper sheets in off-white and beige overlapping, a faint seigaiha wave pattern in indigo on one sheet, a small solid persimmon-coloured square stamp shape (no character inside). No circles that resemble a sun.\nPalette: washi #F7F4EE, sumi ink #22201C, indigo #24476B, seasonal persimmon #A2462A.\nKeep the main subject inside the central 60% of the canvas; outer 20% edges are expendable crop space. Quiet seasonal reader aesthetic, restrained matte paper-cut illustration. Output target 1600×900 landscape.\nAvoid: text, letters, characters, calligraphy, signage text, logo, watermark, flag, religious statue, shrine deity, protest, stereotype costume, geisha, samurai, rising sun, casino, neon cyberpunk fog, collage of landmarks, purple gradient, 3D render, glossy\nStrict correction: This image is ONLY an abstract still life of overlapping plain paper sheets, NOT a landscape or city scene. No buildings, bridge, water, trees, leaves, train or people. Place the faint wave-pattern sheet and the small blank persimmon square within the CENTRAL 60% region. Upper third remains empty off-white paper. Flat paper shapes with subtle paper grain, not a realistic illustration.",
+      "source_dimensions": [
+        1672,
+        941
+      ],
+      "files": [
+        {
+          "filename": "og-original.png",
+          "dimensions": [
+            1672,
+            941
+          ],
+          "bytes": 2214523,
+          "sha256": "d62a0162c92f8b0ed3105b050e00d548329e5dff1308075b6319efc897a50c1d",
+          "budget_bytes": null,
+          "quality": null
+        },
+        {
+          "filename": "og-1200.png",
+          "dimensions": [
+            1200,
+            630
+          ],
+          "bytes": 1085313,
+          "sha256": "f55b72ad89cdce96d15aec00b2f2ec5cdaf0172a45cbb7c35056c47b6b1ba9a6",
+          "budget_bytes": null,
+          "quality": null
+        },
+        {
+          "filename": "og-1200.avif",
+          "dimensions": [
+            1200,
+            630
+          ],
+          "bytes": 54210,
+          "sha256": "8e4e1c347fdf7895f9754fc3c1647c15a96b554b91863fe13b55be18bea41166",
+          "budget_bytes": 60000,
+          "quality": 65
+        },
+        {
+          "filename": "og-1200.webp",
+          "dimensions": [
+            1200,
+            630
+          ],
+          "bytes": 42238,
+          "sha256": "77724716d422e15de78b6ced27fb48219733133ee8f231d43d336b7486a77470",
+          "budget_bytes": null,
+          "quality": 78
+        },
+        {
+          "filename": "og-1200.jpg",
+          "dimensions": [
+            1200,
+            630
+          ],
+          "bytes": 103291,
+          "sha256": "32bcaf3ccf5ee6f34e1a25a863b5ec473c35171d8dee878e8e169ddc038cce37",
+          "budget_bytes": 120000,
+          "quality": 85
+        }
+      ],
+      "intended_url": "/assets/japan/og-{w}.{format}"
+    }
+  ],
+  "encoding_log": [
+    {
+      "filename": "cover-food-1200.avif",
+      "attempts": [
+        {
+          "quality": 65,
+          "bytes": 110195
+        },
+        {
+          "quality": 60,
+          "bytes": 97582
+        },
+        {
+          "quality": 55,
+          "bytes": 79326
+        },
+        {
+          "quality": 50,
+          "bytes": 62896
+        },
+        {
+          "quality": 45,
+          "bytes": 49067
+        }
+      ],
+      "resized_below_spec": false
+    },
+    {
+      "filename": "cover-food-800.avif",
+      "attempts": [
+        {
+          "quality": 65,
+          "bytes": 49556
+        },
+        {
+          "quality": 60,
+          "bytes": 43568
+        },
+        {
+          "quality": 55,
+          "bytes": 34747
+        },
+        {
+          "quality": 50,
+          "bytes": 27505
+        }
+      ],
+      "resized_below_spec": false
+    },
+    {
+      "filename": "cover-food-480.avif",
+      "attempts": [
+        {
+          "quality": 65,
+          "bytes": 18193
+        },
+        {
+          "quality": 60,
+          "bytes": 16072
+        },
+        {
+          "quality": 55,
+          "bytes": 12998
+        }
+      ],
+      "resized_below_spec": false
+    },
+    {
+      "filename": "cover-see-1200.avif",
+      "attempts": [
+        {
+          "quality": 65,
+          "bytes": 106642
+        },
+        {
+          "quality": 60,
+          "bytes": 93758
+        },
+        {
+          "quality": 55,
+          "bytes": 75990
+        },
+        {
+          "quality": 50,
+          "bytes": 63903
+        },
+        {
+          "quality": 45,
+          "bytes": 52534
+        }
+      ],
+      "resized_below_spec": false
+    },
+    {
+      "filename": "cover-see-800.avif",
+      "attempts": [
+        {
+          "quality": 65,
+          "bytes": 52010
+        },
+        {
+          "quality": 60,
+          "bytes": 45715
+        },
+        {
+          "quality": 55,
+          "bytes": 37092
+        },
+        {
+          "quality": 50,
+          "bytes": 31298
+        },
+        {
+          "quality": 45,
+          "bytes": 26041
+        }
+      ],
+      "resized_below_spec": false
+    },
+    {
+      "filename": "cover-see-480.avif",
+      "attempts": [
+        {
+          "quality": 65,
+          "bytes": 21347
+        },
+        {
+          "quality": 60,
+          "bytes": 18809
+        },
+        {
+          "quality": 55,
+          "bytes": 15362
+        },
+        {
+          "quality": 50,
+          "bytes": 13132
+        }
+      ],
+      "resized_below_spec": false
+    },
+    {
+      "filename": "cover-move-1200.avif",
+      "attempts": [
+        {
+          "quality": 65,
+          "bytes": 88193
+        },
+        {
+          "quality": 60,
+          "bytes": 77065
+        },
+        {
+          "quality": 55,
+          "bytes": 61994
+        },
+        {
+          "quality": 50,
+          "bytes": 50628
+        }
+      ],
+      "resized_below_spec": false
+    },
+    {
+      "filename": "cover-move-800.avif",
+      "attempts": [
+        {
+          "quality": 65,
+          "bytes": 41751
+        },
+        {
+          "quality": 60,
+          "bytes": 36746
+        },
+        {
+          "quality": 55,
+          "bytes": 29665
+        },
+        {
+          "quality": 50,
+          "bytes": 24728
+        }
+      ],
+      "resized_below_spec": false
+    },
+    {
+      "filename": "cover-move-480.avif",
+      "attempts": [
+        {
+          "quality": 65,
+          "bytes": 16819
+        },
+        {
+          "quality": 60,
+          "bytes": 14773
+        },
+        {
+          "quality": 55,
+          "bytes": 11962
+        }
+      ],
+      "resized_below_spec": false
+    },
+    {
+      "filename": "og-1200.avif",
+      "attempts": [
+        {
+          "quality": 65,
+          "bytes": 54210
+        }
+      ],
+      "resized_below_spec": false
+    }
+  ],
+  "retries": [
+    {
+      "slot": "og",
+      "retries": 1,
+      "rejected": "rejected/og-attempt-1.png",
+      "reason": "First OG depicted a riverside landscape and placed the stamp outside the crop-safe centre; rejected for brief mismatch."
+    }
+  ],
+  "og_note": "Text-free JPEG background; final site-name HTML overlay belongs to integration after Kira selection.",
+  "auxiliary": [
+    {
+      "filename": "contact-sheet.png",
+      "dimensions": [
+        1600,
+        225
+      ],
+      "bytes": 593862,
+      "sha256": "166fcb610f8cbe19918a83a46f10c9d2fecc8a9b560fd98b58057e7233fae2c9",
+      "budget_bytes": null,
+      "quality": null
+    },
+    {
+      "filename": "qa/crop-contact-sheet.png",
+      "dimensions": [
+        1600,
+        225
+      ],
+      "bytes": 585461,
+      "sha256": "648308aea5bda5cba0593723e5ede6b4d544f19421e717d1fc521bfef0bd6e62",
+      "budget_bytes": null,
+      "quality": null
+    }
+  ]
+}

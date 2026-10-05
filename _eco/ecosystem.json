@@ -1,0 +1,50 @@
+[
+  {
+    "name": "澳門商戶智能百科",
+    "desc": "澳門商戶 AI 智能百科",
+    "url": "https://cloudpipemo.com",
+    "type": "platform",
+    "id": "macau",
+    "short": "澳門"
+  },
+  {
+    "name": "日本百科",
+    "desc": "日本八大地方完整指南",
+    "url": "https://japan-encyclopedia.vercel.app",
+    "type": "knowledge",
+    "id": "japan",
+    "short": "日本"
+  },
+  {
+    "name": "台灣百科",
+    "desc": "台灣十大城市深度指南",
+    "url": "https://taiwan-encyclopedia.vercel.app",
+    "type": "knowledge",
+    "id": "taiwan",
+    "short": "台灣"
+  },
+  {
+    "name": "香港百科",
+    "desc": "香港十大地區深度指南",
+    "url": "https://hongkong-encyclopedia.vercel.app",
+    "type": "knowledge",
+    "id": "hongkong",
+    "short": "香港"
+  },
+  {
+    "name": "世界百科",
+    "desc": "全球建築・文化・旅遊百科",
+    "url": "https://world-encyclopedia.vercel.app",
+    "type": "knowledge",
+    "id": "world",
+    "short": "世界"
+  },
+  {
+    "name": "馬來西亞百科",
+    "desc": "馬來西亞產業分析（清真食品/半導體/數據中心投資）",
+    "url": "https://malaysia-encyclopedia.vercel.app",
+    "type": "knowledge",
+    "id": "malaysia",
+    "short": "馬來西亞"
+  }
+]
