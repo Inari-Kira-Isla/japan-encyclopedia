@@ -1,1 +1,9 @@
 .vercel
+
+# Local redesign validation scratch (contains read-only live source copies)
+redesign-qa/scratch/
+redesign-qa/.render.html
+redesign-qa/.frame.html
+redesign-qa/.reference.html
+_eco/__pycache__/
+redesign-qa/__pycache__/
