@@ -86,6 +86,8 @@ def render(root=ROOT,category=None,page=1):
   # New browsing URLs have their own metadata and do not reuse homepage JSON-LD.
   head=re.sub(r'<script type="application/ld\+json">.*?</script>','',head,flags=re.S)
   head=head.replace('<title>','<title>'+title+' · 第 '+str(page)+' 頁 | ')
+  # D1 (2026-10-06): deep pagination (N>=4) is noindex,follow; canonical stays self.
+  if page>=4: head=head.replace('<meta name="robots" content="index, follow" />','<meta name="robots" content="noindex, follow" />')
   head=re.sub(r'<meta property="og:url"[^>]*>',f'<meta property="og:url" content="{base+path}" />',head)
  # Static assets use one render-blocking CSS, no runtime import.
  head+='\n<link rel="stylesheet" href="/_eco/home.css" />\n<script src="/_eco/eco-url.js" defer></script>\n<script src="/_eco/eco-motion.js" defer></script>\n<script src="/_eco/eco-shell.js" defer></script>\n<script src="/_eco/eco-search.js" defer></script>\n<script src="/_eco/home.js" defer></script>\n</head>'
