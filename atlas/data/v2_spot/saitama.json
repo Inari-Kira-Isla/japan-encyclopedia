@@ -1,0 +1,157 @@
+{
+  "id": "saitama",
+  "spots": [
+    {
+      "title_zh": "川越藏造街",
+      "title_ja": "川越一番街の蔵造りの町並み",
+      "category": "街區古鎮",
+      "area_zh": "川越市",
+      "summary_zh": "黑瓦白壁蔵造商家並列的「小江戶」老街",
+      "body_zh": "川越一番街一帶保留許多以厚重土牆與灰泥塗裝的蔵造り商家，素有「小江戶」之稱。蔵造り原是為了防火與防盜而發展的傳統建築，牆壁常厚達三十公分以上，後來成為富裕商家的象徵。川越舊市街因市民發起景觀保存運動，在1999年獲得首屆優良設計獎的都市設計獎，2004年又入選「美麗日本步行道路500選」。走在黑瓦、白壁與老店並列的街上，最能感受江戶風情。",
+      "facts": [
+        {"label": "所在地", "value": "埼玉縣川越市，以川越一番街為中心的舊市街"},
+        {"label": "開創／成因", "value": "蔵造り為防火防盜的土藏式商家建築；市民保存運動使舊市街景觀留存"},
+        {"label": "看點", "value": "蔵造り商家街景、1999年都市設計獎、2004年美麗日本步行道路500選"}
+      ],
+      "best_season_zh": "春（櫻）、秋",
+      "tips_zh": "假日街上人車混雜，建議平日上午先逛，再慢慢往支巷與博物館走；想省腳力可利用市內的自行車共享服務。",
+      "tags": ["小江戶", "蔵造り", "老街", "商家町"],
+      "sources": ["https://ja.wikipedia.org/wiki/川越市", "https://ja.wikipedia.org/wiki/土蔵"],
+      "confidence": "medium",
+      "prompt_en": "A quiet historic merchant street lined with traditional Japanese kura storehouse shops, thick white plaster walls and dark tiled roofs with raised ridge ornaments, late afternoon golden light, foreground of a clean paved lane and wooden lanterns, mid-ground rows of eaves, distant narrow street fading into soft haze, early autumn, no text, no signboards, no recognizable people"
+    },
+    {
+      "title_zh": "羊山公園芝櫻之丘",
+      "title_ja": "羊山公園（芝桜の丘）",
+      "category": "庭園公園",
+      "area_zh": "秩父市",
+      "summary_zh": "約40萬株芝櫻鋪滿山坡的粉白花毯",
+      "body_zh": "羊山公園位於秩父市，坐落在武甲山北面延伸出的羊山丘陵上，以「芝桜の丘」聞名。約17,600平方公尺的坡面種了9個品種、約40萬株芝櫻，每年4月上旬到5月上旬盛開，粉紅與白色分塊鋪成花毯，背後可望見武甲山。斜面圖案據說取意秩父夜祭山車上囃子手的襦袢花紋，芝櫻自2000年起開始栽種。「羊山」之名則來自戰前縣立綿羊種畜場。",
+      "facts": [
+        {"label": "所在地", "value": "埼玉縣秩父市大宮"},
+        {"label": "開創／成因", "value": "2000年起栽種芝櫻；園名源自戰前的縣立綿羊種畜場"},
+        {"label": "看點", "value": "約17,600平方公尺、9種約40萬株芝櫻；花期4月上旬至5月上旬"}
+      ],
+      "best_season_zh": "春（4月上旬至5月上旬）",
+      "tips_zh": "花季周邊道路嚴重壅塞，建議搭秩父鐵道或西武線前往，再從西武秩父站步行約15至20分鐘；花季入園費用以官方公告為準。",
+      "tags": ["芝櫻", "武甲山", "春季花景", "秩父"],
+      "sources": ["https://ja.wikipedia.org/wiki/羊山公園"],
+      "confidence": "high",
+      "prompt_en": "A broad hillside carpeted with pink and white moss phlox in neat patterned blocks, a large mountain with pale limestone scars rising behind, clear spring morning, soft side light, foreground close-up of tiny flower blooms, mid-ground colorful slope, distant ridge under pale blue sky, no text, no signs, no recognizable people"
+    },
+    {
+      "title_zh": "三峯神社",
+      "title_ja": "三峯神社",
+      "category": "神社寺院",
+      "area_zh": "秩父市三峰",
+      "summary_zh": "以狼為守護神、擁有三連鳥居的山中古社",
+      "body_zh": "三峯神社位於秩父市三峰，與秩父神社、寶登山神社合稱秩父三社。社傳為日本武尊東征時所創。境內最特別的是拜殿前少見的三連鳥居，並以狼為守護神，各處以狼像取代狛犬。江戶時代起，人們視秩父山中的狼為驅除野豬、守護農作的神使「お犬さま」，領取狼的護符之信仰盛行，各地組織參拜團體「三峯講」，使這座山上神社名聲遠播。",
+      "facts": [
+        {"label": "所在地", "value": "埼玉縣秩父市三峰"},
+        {"label": "開創／成因", "value": "社傳日本武尊東征時創建；江戶時代起盛行狼（お犬さま）信仰"},
+        {"label": "看點", "value": "三連鳥居、取代狛犬的狼像、秩父三社之一"}
+      ],
+      "best_season_zh": "新綠、秋（紅葉）",
+      "tips_zh": "位於山上，早晚溫差大，宜帶外套與好走的鞋；前往交通與路況請於出發前向官方確認，冬季留意道路結冰。",
+      "tags": ["秩父三社", "狼", "三連鳥居", "山中神社"],
+      "sources": ["https://ja.wikipedia.org/wiki/三峯神社"],
+      "confidence": "high",
+      "prompt_en": "A mountain shrine in deep forest, a rare triple torii gate in weathered vermilion and grey stone, giant old cedar trees, a stone wolf statue guardian in the foreground, drifting mountain mist, soft overcast light in early morning, mid-ground gravel path, distant forested peaks, no text, no signboards, no recognizable people"
+    },
+    {
+      "title_zh": "長瀞溪谷",
+      "title_ja": "長瀞（長瀞渓谷）",
+      "category": "自然絕景",
+      "area_zh": "秩父郡長瀞町",
+      "summary_zh": "荒川切出岩畳與清流的國家名勝",
+      "body_zh": "長瀞位於秩父盆地北端，荒川穿過町中形成長瀞溪谷，全町都被劃入縣立長瀞玉淀自然公園。上長瀞到高砂橋之間的荒川兩岸，自1924年起被指定為國家名勝與天然記念物，並入選「日本地質百選」（2007年）與「日本櫻花名所100選」（1990年）。岩石層層露出的溪畔景致是這裡最大特色。町內周邊還有寶登山等山景，一年四季皆有觀光客。",
+      "facts": [
+        {"label": "所在地", "value": "埼玉縣秩父郡長瀞町，荒川沿岸"},
+        {"label": "開創／成因", "value": "荒川侵蝕形成的溪谷；1924年指定為國名勝與天然記念物"},
+        {"label": "看點", "value": "荒川溪谷岩石景觀、日本地質百選（2007）、日本櫻花名所100選（1990）"}
+      ],
+      "best_season_zh": "春（櫻）、秋（紅葉）",
+      "tips_zh": "可搭秩父鐵道到長瀞站，沿河邊散步最輕鬆；想體驗河上活動請提前向業者確認營運日與水位狀況，不要在大雨後靠近水邊。",
+      "tags": ["荒川", "溪谷", "國家名勝", "日本地質百選"],
+      "sources": ["https://ja.wikipedia.org/wiki/長瀞", "https://ja.wikipedia.org/wiki/長瀞町"],
+      "confidence": "high",
+      "prompt_en": "A clear river flowing through a rocky gorge with broad layered stone terraces along the bank, green trees on both sides, a quiet small boat drifting on calm water in the distance, bright early summer afternoon, soft sunlight, foreground smooth riverside rocks, mid-ground turquoise water, background wooded hills, no text, no signs, no recognizable people"
+    },
+    {
+      "title_zh": "吉見百穴",
+      "title_ja": "吉見百穴",
+      "category": "城郭史蹟",
+      "area_zh": "比企郡吉見町",
+      "summary_zh": "密布山壁的古墳時代橫穴墓群與戰時坑道",
+      "body_zh": "吉見百穴位於吉見町，是古墳時代後期的橫穴墓群遺跡，目前確認現存219座，多鑿在凝灰質砂岩的丘陵斜面上。江戶時代中期已有數座洞口敞開，卻沒人知道是什麼；明治時代坪井正五郎主持發掘，曾引發「住居說」與「墳墓說」之爭，後來才確認是墓穴。二戰末期又在此挖掘地下軍需坑道，毀去十多座。岩壁下方有光蘚生長的洞穴，另被指定為天然記念物。",
+      "facts": [
+        {"label": "所在地", "value": "埼玉縣比企郡吉見町"},
+        {"label": "開創／成因", "value": "古墳時代後期的橫穴墓群；二戰末期另挖地下軍需坑道"},
+        {"label": "看點", "value": "現存219座橫穴、國家史跡（1923）、吉見百穴光蘚發生地（天然記念物）"}
+      ],
+      "best_season_zh": "新綠、秋",
+      "tips_zh": "園區有收費，坑道內通道狹窄潮濕，建議穿防滑鞋並帶薄外套；可順便走訪周邊松山城跡一帶的綠地景觀。",
+      "tags": ["橫穴墓群", "國家史跡", "光蘚", "考古"],
+      "sources": ["https://ja.wikipedia.org/wiki/吉見百穴"],
+      "confidence": "high",
+      "prompt_en": "A pale tuff hillside densely pocketed with hundreds of small dark arched burial cave openings arranged in irregular rows, green grass slope and a stone path in the foreground, a few trees at the top, hazy cloud-filtered afternoon light, calm archaeological atmosphere, no text, no signs, no recognizable people"
+    },
+    {
+      "title_zh": "鐵道博物館",
+      "title_ja": "鉄道博物館",
+      "category": "主題設施",
+      "area_zh": "さいたま市大宮區",
+      "summary_zh": "展示實物車輛並可體驗模擬駕駛的鐵道館",
+      "body_zh": "鐵道博物館位於埼玉市大宮區大成町，是JR東日本創立20週年的紀念事業，作為交通博物館的後繼設施，於2007年10月14日開館，由公益財團法人東日本鐵道文化財團營運。館內以實物車輛展示為主，現有42輛以舊國鐵與JR東日本車輛為主的展品，並按時代背景介紹鐵道系統的演變。館內還有駕駛模擬器及乘務員、站務員體驗，年參觀人數約80萬人，兼具體驗型主題設施色彩。",
+      "facts": [
+        {"label": "所在地", "value": "埼玉縣さいたま市大宮區大成町三丁目"},
+        {"label": "開創／成因", "value": "JR東日本創立20週年紀念事業，2007年10月14日開館"},
+        {"label": "看點", "value": "實物車輛展示（42輛）、駕駛模擬器、乘務員與站務員體驗"}
+      ],
+      "best_season_zh": "全年（室內為主）",
+      "tips_zh": "適合雨天或親子行程；模擬器與體驗項目常需預約或抽籤，開館時間與票價請事先查官方網站，假日建議早到。",
+      "tags": ["鐵道", "博物館", "親子", "車輛展示"],
+      "sources": ["https://ja.wikipedia.org/wiki/鉄道博物館_(さいたま市)"],
+      "confidence": "high",
+      "prompt_en": "A bright spacious museum hall with several historic steam and electric trains displayed on turntable and tracks, high glass-and-steel ceiling, soft warm daylight from skylights, foreground a polished locomotive wheel and rails, mid-ground rows of vintage carriages, no text, no signboards, no recognizable people"
+    },
+    {
+      "title_zh": "氷川神社",
+      "title_ja": "氷川神社（大宮氷川神社）",
+      "category": "神社寺院",
+      "area_zh": "さいたま市大宮區",
+      "summary_zh": "氷川神社總本社、大宮地名由來之古社",
+      "body_zh": "氷川神社位於埼玉市大宮區高鼻町，是武藏國一宮（或稱三宮）與敕祭社，也是東京、埼玉一帶約280座氷川神社的總本社。「大宮」之名即源自對此社「大いなる宮居」的尊稱。社傳創建於孝昭天皇時代，原本祭祀見沼的水神；南側的神池由神社西側湧出的地下水匯成，原是見沼的一部分。境內參道綿長，每年新年初詣有超過200萬人參拜。",
+      "facts": [
+        {"label": "所在地", "value": "埼玉縣さいたま市大宮區高鼻町一丁目"},
+        {"label": "開創／成因", "value": "社傳孝昭天皇時創建；原祭見沼水神"},
+        {"label": "看點", "value": "氷川神社總本社、神池、2008年起每年新年初詣超過200萬人"}
+      ],
+      "best_season_zh": "新綠、秋；新年初詣",
+      "tips_zh": "與相鄰的大宮公園可一併散步；新年初詣人潮極多，若想看靜謐的參道，建議選平日清晨前往。",
+      "tags": ["武藏一宮", "氷川信仰", "大宮", "初詣"],
+      "sources": ["https://ja.wikipedia.org/wiki/氷川神社"],
+      "confidence": "high",
+      "prompt_en": "A long shaded approach lined with tall old trees leading to a large stone torii gate, dappled morning light on the gravel path, a still pond with reflections of green trees in the mid-ground, serene Shinto shrine grounds in early summer, no text, no signboards, no recognizable people"
+    },
+    {
+      "title_zh": "川越城本丸御殿",
+      "title_ja": "川越城",
+      "category": "城郭史蹟",
+      "area_zh": "川越市",
+      "summary_zh": "現存嘉永元年本丸御殿的日本100名城",
+      "body_zh": "川越城位於川越市，是江戶時代川越藩的藩廳，別名初雁城、霧隱城，入選關東七名城與日本100名城。城位於武藏野台地東北端，為平山城，並無天守，以三層的富士見櫓取代其地位；1848年建造的本丸御殿一部分留存至今，列為埼玉縣有形文化財。歷代藩主多為幕府要職，老中人數在全國藩中居多，江戶中期之前被稱為「老中的居城」。",
+      "facts": [
+        {"label": "所在地", "value": "埼玉縣川越市，初雁公園至市役所一帶"},
+        {"label": "開創／成因", "value": "室町時代築城，江戶時代為川越藩藩廳；現存本丸御殿建於1848年"},
+        {"label": "看點", "value": "現存本丸御殿（縣有形文化財）、富士見櫓跡、日本100名城"}
+      ],
+      "best_season_zh": "春（櫻）、秋",
+      "tips_zh": "御殿內以榻榻米大廣間為主，需脫鞋參觀；建議與川越市立博物館連線安排，開館時間與休館日請先確認官方資訊。",
+      "tags": ["日本100名城", "本丸御殿", "川越藩", "老中"],
+      "sources": ["https://ja.wikipedia.org/wiki/川越城"],
+      "confidence": "high",
+      "prompt_en": "A low-profile historic palace hall of an old Japanese castle with long wooden veranda and tiled roof with gently curved gables, a gravel courtyard in the foreground, old pine tree on one side, cloud-softened late afternoon light, distant gentle earthen mound, no tall keep, no text, no signboards, no recognizable people"
+    }
+  ]
+}

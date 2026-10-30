@@ -1,0 +1,278 @@
+{
+ "id": "niigata",
+ "foods": [
+  {
+   "title_zh": "魚沼越光米",
+   "title_ja": "魚沼産コシヒカリ",
+   "category": "特產食材",
+   "summary_zh": "新潟魚沼是越光米名產地，白飯本身就是主角。",
+   "body_zh": "據維基百科，越光米（コシヒカリ）由福井縣農業試驗場育成的「越南17號」在新潟縣命名，意為「閃耀越之國的米」，1956年登錄為農林100號。魚沼地區是越光米的一大產地，以價格全國最高著稱；1989至2016年在日本穀物檢定協會食味排名維持最高級「特A」。特徵是黏性強、食味佳，但易倒伏、不耐稻熱病。",
+   "facts": [
+    {
+     "label": "起源",
+     "value": "1956年登錄，福井育成、新潟命名"
+    },
+    {
+     "label": "主要食材",
+     "value": "越光米（魚沼產）"
+    },
+    {
+     "label": "吃法",
+     "value": "白飯、飯糰、壽司飯"
+    }
+   ],
+   "season_zh": "新米約9至10月（依年份）",
+   "where_zh": "新潟縣魚沼地區（南魚沼、魚沼、十日町等）",
+   "tags": [
+    "米",
+    "越光米",
+    "魚沼",
+    "白飯"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/コシヒカリ"
+   ],
+   "confidence": "medium",
+   "prompt_en": "A single ceramic bowl of freshly cooked glossy white rice with rising steam, a small mound with visible grains, wooden chopsticks resting across the rim, plain wooden table, soft side light, no text"
+  },
+  {
+   "title_zh": "布海苔蕎麥麵",
+   "title_ja": "へぎそば",
+   "category": "麵飯",
+   "summary_zh": "以布海苔作連結的涼蕎麥麵，盛在木製「へぎ」盤。",
+   "body_zh": "據維基百科，へぎそば起源於新潟縣魚沼地區，被認為是小嶋屋總本店所創。特色是用布海苔（ふのり）代替小麥粉作連結，口感滑順。盛在剝板做成的長方形木盤「へぎ」，冷麵一口一口捲成小束。十日町市與小千谷市各自註冊了商標。傳統上當地少有山葵，配蔥或細香蔥與芥末，現已常用山葵。",
+   "facts": [
+    {
+     "label": "起源",
+     "value": "魚沼地區，一說小嶋屋總本店所創"
+    },
+    {
+     "label": "主要食材",
+     "value": "蕎麥粉、布海苔"
+    },
+    {
+     "label": "吃法",
+     "value": "冷麵蘸醬油汁，配蔥與芥末"
+    }
+   ],
+   "season_zh": "全年",
+   "where_zh": "十日町、小千谷、魚沼一帶蕎麥店",
+   "tags": [
+    "蕎麥麵",
+    "布海苔",
+    "魚沼",
+    "木盤"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/へぎそば"
+   ],
+   "confidence": "medium",
+   "prompt_en": "A single rectangular wooden hegi tray of chilled buckwheat noodles, rolled into neat bite-size bundles in a row, with a small dipping cup of tsuyu and chopped green onion beside, plain table, soft light, no text"
+  },
+  {
+   "title_zh": "新潟野甫湯",
+   "title_ja": "のっぺ",
+   "category": "鄉土料理",
+   "summary_zh": "里芋為主的新潟煮物，年節與喜慶料理。",
+   "body_zh": "據維基百科，のっぺ是新潟的鄉土料理，以切條或小丁的里芋為主，里芋自然產生濃稠感，不用太白粉。材料有雞肉、紅蘿蔔、牛蒡、油炸豆腐、鮭魚卵、干貝、香菇、銀杏、竹筍、蓮藕、魚板等，因地區與家庭差異很大。傳統上是正月與婚喪喜慶的食物，近年不分季節。新潟版比他處的「のっぺい汁」更接近煮物而非湯。",
+   "facts": [
+    {
+     "label": "起源",
+     "value": "新潟傳統年節與喜慶料理，起源年代未詳"
+    },
+    {
+     "label": "主要食材",
+     "value": "里芋、雞肉、紅蘿蔔、牛蒡、鮭魚卵等"
+    },
+    {
+     "label": "吃法",
+     "value": "作為煮物，熱食或冷食"
+    }
+   ],
+   "season_zh": "正月與喜慶時，現多全年",
+   "where_zh": "新潟縣內家庭料理與鄉土料理店",
+   "tags": [
+    "煮物",
+    "里芋",
+    "年節",
+    "鄉土"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/のっぺ",
+    "https://ja.wikipedia.org/wiki/のっぺい汁"
+   ],
+   "confidence": "medium",
+   "prompt_en": "A small lacquer bowl of Niigata noppe simmered taro, diced carrot, burdock, shiitake and chicken in a thick glossy broth with a few orange salmon roe on top, wooden table, steam, soft warm light, no text"
+  },
+  {
+   "title_zh": "竹葉糰子",
+   "title_ja": "笹団子",
+   "category": "甜點和菓子",
+   "summary_zh": "艾草糰子包紅豆餡，以竹葉包裹的新潟代表伴手禮。",
+   "body_zh": "據維基百科，竹葉糰子出現於戰國時代，作為旅途保存食，利用竹葉的抗菌性，傳說上杉謙信所創，但史上多認為是新潟的春季家庭食物。以艾草糰子包紅豆餡，用竹葉包裹並以燈心草繩綁起；三條有以日本薊代替艾草的特色。1964年新潟國民體育大會後，笹川祐吉改良使其耐存放，成為新潟代表伴手禮。",
+   "facts": [
+    {
+     "label": "起源",
+     "value": "戰國時代說法與上杉謙信傳說，史實未詳"
+    },
+    {
+     "label": "主要食材",
+     "value": "艾草、米粉、紅豆餡、竹葉"
+    },
+    {
+     "label": "吃法",
+     "value": "解開竹葉直接食用"
+    }
+   ],
+   "season_zh": "春季最盛，現全年",
+   "where_zh": "新潟車站、休息站及糕點店",
+   "tags": [
+    "和菓子",
+    "艾草",
+    "竹葉",
+    "伴手禮"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/笹団子"
+   ],
+   "confidence": "medium",
+   "prompt_en": "A single sasadango, a green mugwort rice dumpling wrapped in bamboo leaves tied with a rush cord, one wrapper opened to show the green dumpling with red bean paste, on a small wooden tray, soft natural light, no text"
+  },
+  {
+   "title_zh": "新潟醬汁豬排飯",
+   "title_ja": "タレカツ丼",
+   "category": "B級美食",
+   "summary_zh": "豬排蘸醬油甜汁、不加蛋的新潟式豬排蓋飯。",
+   "body_zh": "據維基百科，新潟的醬汁豬排飯，相傳由新潟市「とんかつ太郎」的初代店主於1945年所創；另有東京世田谷區「水光」老闆1918年創製「豬排飯」之說。做法是把炸豬排浸入醬油味的甜汁後放在飯上，也有把豬排夾在兩層飯之間的版本。和使用伍斯特醬的「ソースカツ丼」不同，被視為新潟代表的在地美食。",
+   "facts": [
+    {
+     "label": "起源",
+     "value": "傳為1945年新潟市「とんかつ太郎」，另有說法"
+    },
+    {
+     "label": "主要食材",
+     "value": "炸豬排、醬油甜汁、白飯"
+    },
+    {
+     "label": "吃法",
+     "value": "豬排蘸醬汁後鋪飯上食用"
+    }
+   ],
+   "season_zh": "全年",
+   "where_zh": "新潟市內豬排店與食堂",
+   "tags": [
+    "豬排",
+    "蓋飯",
+    "新潟市",
+    "B級美食"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/タレカツ丼"
+   ],
+   "confidence": "medium",
+   "prompt_en": "A single donburi bowl of tare katsudon, thick fried pork cutlet slices glazed in dark sweet soy sauce over white rice, ceramic bowl, wooden table, wooden chopsticks, soft warm light, no text"
+  },
+  {
+   "title_zh": "村上鹽引鮭",
+   "title_ja": "塩引き鮭",
+   "category": "海鮮",
+   "summary_zh": "村上以鮭魚文化聞名，冬季吊掛鹽引鮭成風物詩。",
+   "body_zh": "據維基百科，村上市是日本鮭魚文化的歷史中心，三面川流域自江戶時代便有獨特的保護與增殖思想。1713年出生的村上藩士青砥武平治被稱為發現鮭魚母川回歸的人，創設「種川」制度，是日本鮭魚資源管理的先驅。每年12月前後，市內各處吊掛的鹽引鮭成為村上的風物詩，三面川的傳統「コド漁」仍在進行。",
+   "facts": [
+    {
+     "label": "起源",
+     "value": "江戶時代三面川鮭魚保護與增殖"
+    },
+    {
+     "label": "主要食材",
+     "value": "鮭魚、鹽"
+    },
+    {
+     "label": "吃法",
+     "value": "切片烤食，配白飯"
+    }
+   ],
+   "season_zh": "約12月前後吊掛",
+   "where_zh": "新潟縣村上市",
+   "tags": [
+    "鮭魚",
+    "村上",
+    "鹽引",
+    "三面川"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/村上市"
+   ],
+   "confidence": "medium",
+   "prompt_en": "A single grilled thick slice of salt-cured salmon shioabiki with golden crisp skin on a rectangular ceramic plate, a little grated daikon beside, dark wooden table, soft light, no text"
+  },
+  {
+   "title_zh": "新潟清酒",
+   "title_ja": "新潟の日本酒",
+   "category": "酒與飲品",
+   "summary_zh": "新潟是日本主要的清酒產地之一。",
+   "body_zh": "新潟是日本清酒的主要產地之一。據維基百科，新潟縣的清酒產量約占全國8%，而且成人人均清酒銷售（消費）量為全國最高。至於「淡麗辛口」風格與具體酒款（如越乃寒梅、久保田）、酒藏數等細節，此次核實的頁面沒有記載，未能確認，故本條信心度標為低，待日後以酒造組合等資料補核。",
+   "facts": [
+    {
+     "label": "起源",
+     "value": "起源年代未核實"
+    },
+    {
+     "label": "主要食材",
+     "value": "米、米麴、水"
+    },
+    {
+     "label": "吃法",
+     "value": "常溫、冷飲或溫飲，未核實具體風格"
+    }
+   ],
+   "season_zh": "全年",
+   "where_zh": "新潟縣內各地酒藏",
+   "tags": [
+    "清酒",
+    "新潟",
+    "日本酒",
+    "酒藏"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/日本酒"
+   ],
+   "confidence": "low",
+   "prompt_en": "A single Japanese sake set: a small white ceramic tokkuri and one ochoko cup on a plain wooden tray, with the cup filled with clear sake, soft window light, minimal background, no text"
+  },
+  {
+   "title_zh": "栃尾油豆腐",
+   "title_ja": "栃尾の油揚げ",
+   "category": "特產食材",
+   "summary_zh": "長岡栃尾製作的厚實油炸豆腐。",
+   "body_zh": "栃尾油豆腐是新潟縣長岡市栃尾地區生產的油炸豆腐，當地稱為「あぶらげ」。據維基百科，其比一般油炸豆腐更厚，厚度幾乎與生揚げ相近。至於起源年代、傳說與製作細節，此次核實的頁面沒有記載，未能確認，故信心度標為低。一般吃法為烤後佐蔥、薑與醬油（此點未經核實）。",
+   "facts": [
+    {
+     "label": "起源",
+     "value": "起源年代未核實"
+    },
+    {
+     "label": "主要食材",
+     "value": "大豆（豆腐）、油"
+    },
+    {
+     "label": "吃法",
+     "value": "烤後加蔥薑醬油（常見吃法，未核實）"
+    }
+   ],
+   "season_zh": "全年",
+   "where_zh": "長岡市栃尾地區豆腐店",
+   "tags": [
+    "油豆腐",
+    "栃尾",
+    "長岡",
+    "大豆"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/油揚げ"
+   ],
+   "confidence": "low",
+   "prompt_en": "A single thick tochio aburaage fried tofu slab, lightly grilled golden brown, cut in half to show the soft interior, with chopped green onion and grated ginger on top, small white plate, wooden table, soft light, no text"
+  }
+ ]
+}

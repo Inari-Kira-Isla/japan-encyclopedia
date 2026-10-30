@@ -1,0 +1,149 @@
+{
+ "id": "nagano",
+ "foods": [
+  {
+   "title_zh": "信州蕎麥麵",
+   "title_ja": "信州そば",
+   "category": "麵飯",
+   "summary_zh": "寒冷山地孕育的蕎麥麵，長野是蕎麥切發祥地候選之一。",
+   "body_zh": "長野縣氣候寒冷、山間地多，耐寒耐旱的蕎麥自古廣泛栽培，成為代表名物。信州蕎麥麵的品質標準是蕎麥粉比例50%以上，常以山芋等為黏合劑。關於「蕎麥切」的發祥地有多處候補，其中木曾郡大桑村定勝寺1574年的記錄受到重視。江戶時代高遠藩、高島藩還曾向將軍家進獻「暑中寒晒蕎麥」。可吃冷蕎麥沾汁，味道清香。",
+   "facts": [
+    {"label": "起源", "value": "蕎麥切發祥地有多說，定勝寺1574年記錄為重要依據"},
+    {"label": "主要食材", "value": "蕎麥粉（50%以上）、山芋等黏合劑"},
+    {"label": "吃法", "value": "冷蕎麥沾汁，配蔥與山葵"}
+   ],
+   "season_zh": "新蕎麥約秋季，全年可吃",
+   "where_zh": "戶隱、松本、諏訪、木曾等地的蕎麥麵店",
+   "tags": ["蕎麥麵", "信州", "山地", "麵食"],
+   "sources": ["https://ja.wikipedia.org/wiki/蕎麦"],
+   "confidence": "medium",
+   "prompt_en": "A bamboo zaru tray of freshly cut soba noodles neatly arranged, beside a small ceramic cup of dark dipping sauce with wasabi and sliced scallion, rustic wooden table, soft side window light, single dish, no text"
+  },
+  {
+   "title_zh": "信州燒餅",
+   "title_ja": "おやき",
+   "category": "鄉土料理",
+   "summary_zh": "麵皮包野沢菜等餡料的信州山村主食點心。",
+   "body_zh": "おやき起源於長野縣北部與安曇野一帶的寒冷地區，在不適合種稻的環境中作為冬季代替米飯的主食。以小麥粉或蕎麥粉做皮，包入燉煮調味過的小豆、蔬菜，常見餡料有野沢菜、茄子、香菇與南瓜。傳統做法是先在煎板烘烤，再埋入爐灰蒸烤；長野盆地中部多用蒸的。現被列為長野縣選擇無形民俗文化財，也是熱門伴手禮。",
+   "facts": [
+    {"label": "起源", "value": "長野北部與安曇野，冬季代替米飯的食物"},
+    {"label": "主要食材", "value": "小麥粉或蕎麥粉皮，野沢菜、茄子、南瓜、香菇餡"},
+    {"label": "吃法", "value": "烤或蒸熟後趁熱吃"}
+   ],
+   "season_zh": "全年，冬季尤佳",
+   "where_zh": "長野市、小川村、安曇野的おやき專賣店與山村食堂",
+   "tags": ["鄉土料理", "野沢菜", "山村", "點心"],
+   "sources": ["https://ja.wikipedia.org/wiki/おやき"],
+   "confidence": "medium",
+   "prompt_en": "Three round golden-brown oyaki dumplings with a floured, lightly charred surface, one broken open to show seasoned nozawana filling, on a dark wooden board, soft warm light, single dish, no text"
+  },
+  {
+   "title_zh": "信州馬刺",
+   "title_ja": "馬刺し",
+   "category": "肉類",
+   "summary_zh": "長野有生食馬肉的習慣，以生薑蒜末配醬油蘸食。",
+   "body_zh": "長野縣是日本少數有生吃馬肉習慣的地區之一，這類地區多半自古是產馬之地，馬的生產與飲食文化直接相連。馬刺し通常切成薄片，沾加了薑泥、蒜泥與蔥花的醬油食用，口感清爽、肉味濃郁，常見於居酒屋，也是下酒佳餚。此條僅確認長野屬於馬肉食地區，具體的信州獨特吃法與名店未能核實。",
+   "facts": [
+    {"label": "起源", "value": "產馬地區的食用傳統（長野細節未核實）"},
+    {"label": "主要食材", "value": "生馬肉，薑泥、蒜泥、蔥"},
+    {"label": "吃法", "value": "切薄片沾醬油配辛香料"}
+   ],
+   "season_zh": "全年",
+   "where_zh": "長野市、松本一帶的居酒屋與郷土料理店",
+   "tags": ["馬肉", "生食", "居酒屋", "信州"],
+   "sources": ["https://ja.wikipedia.org/wiki/馬刺し"],
+   "confidence": "low",
+   "prompt_en": "Thin slices of deep red basashi horse sashimi fanned on a white ceramic plate, small mounds of grated ginger and garlic and chopped scallion beside, a tiny dish of soy sauce, dark wooden counter, soft light, single dish, no text"
+  },
+  {
+   "title_zh": "野澤菜漬",
+   "title_ja": "野沢菜漬け",
+   "category": "特產食材",
+   "summary_zh": "野澤溫泉發源，鹽漬後清脆微酸的信州代表醃菜。",
+   "body_zh": "野沢菜相傳是1756年野澤溫泉健命寺的住持從大阪帶回天王寺蕪菁的種子，但基因研究已否定此說，現今認為是適應寒冷山區的歐洲系蕪菁品種。每年10到12月收成，先在公共浴場洗淨（菜洗い），再以大木桶鹽漬，可做成琥珀色的完全發酵版或翠綠的淺漬。可直接配飯，亦用於炒物、炒飯、納豆配料或製成佃煮風味。",
+   "facts": [
+    {"label": "起源", "value": "野澤溫泉健命寺傳說（1756年），但基因研究否定"},
+    {"label": "主要食材", "value": "野沢菜、鹽、木桶"},
+    {"label": "吃法", "value": "直接配飯，或炒、做飯糰、納豆配料"}
+   ],
+   "season_zh": "10-12月收成與醃漬",
+   "where_zh": "野澤溫泉村及長野縣各處，醃菜專賣店與農家",
+   "tags": ["醃菜", "野沢菜", "冬季", "配飯"],
+   "sources": ["https://ja.wikipedia.org/wiki/野沢菜"],
+   "confidence": "medium",
+   "prompt_en": "A small ceramic dish of sliced nozawana pickles, glossy amber-green leaves and stems with a crisp texture, resting on a wooden board beside a small wooden barrel lid, soft diffused light, single dish, no text"
+  },
+  {
+   "title_zh": "小布施栗子點心",
+   "title_ja": "小布施の栗菓子",
+   "category": "甜點和菓子",
+   "summary_zh": "以小布施栗製成的栗羊羹、栗かの子與栗落雁。",
+   "body_zh": "小布施町以栗製菓業聞名，主要產品包括栗かの子、栗羊羹與栗落雁。栗子是町木，蘋果是町花，小布施栗成為地方認同的核心。1976年北斎館開館後，町推動文化觀光，栗菓子也成為觀光策略的重要一環。此條只核實到產地與品項，詳細起源年代未能確認，故信心度偏低。",
+   "facts": [
+    {"label": "起源", "value": "小布施栗的栽培與製菓傳統（年代未核實）"},
+    {"label": "主要食材", "value": "小布施栗、砂糖、寒天"},
+    {"label": "吃法", "value": "搭配日本茶，作為伴手禮"}
+   ],
+   "season_zh": "秋季栗子盛產期最盛",
+   "where_zh": "小布施町北斎館周邊的老舖菓子店",
+   "tags": ["栗子", "和菓子", "小布施", "伴手禮"],
+   "sources": ["https://ja.wikipedia.org/wiki/小布施町"],
+   "confidence": "low",
+   "prompt_en": "A single slice of chestnut yokan and two chestnut kanoko sweets with whole glazed chestnut pieces on a small ceramic plate, a cup of green tea blurred behind, light wooden table, soft natural light, no text"
+  },
+  {
+   "title_zh": "信州鮭魚",
+   "title_ja": "信州サーモン",
+   "category": "海鮮",
+   "summary_zh": "長野縣水產試驗場開發的雜交鱒魚，在山國養出的鮭魚風味。",
+   "body_zh": "信州サーモン是長野縣水產試驗場於2004年開發的養殖鱒魚，以虹鱒雌魚與褐鱒雄魚交配而成，沒有繁殖力。長野是內陸縣，卻藉此發展出新鮮養殖魚產業。以安曇野為中心推出的信州サーモン丼，將加熱後逼出油香的魚肉放在撒了青海苔與芝麻的飯上，是當地的新興名物。",
+   "facts": [
+    {"label": "起源", "value": "2004年長野縣水產試驗場開發"},
+    {"label": "主要食材", "value": "虹鱒與褐鱒雜交的養殖鱒魚"},
+    {"label": "吃法", "value": "做成海鮮丼、刺身或壽司"}
+   ],
+   "season_zh": "全年",
+   "where_zh": "安曇野一帶的餐廳與道之驛",
+   "tags": ["鱒魚", "養殖魚", "安曇野", "新名物"],
+   "sources": ["https://ja.wikipedia.org/wiki/信州サーモン"],
+   "confidence": "medium",
+   "prompt_en": "A ceramic donburi bowl of Shinshu salmon, glossy orange slices fanned over rice sprinkled with aonori and sesame, a small wasabi mound, light wooden table, soft side light, single dish, no text"
+  },
+  {
+   "title_zh": "山賊燒",
+   "title_ja": "山賊焼",
+   "category": "B級美食",
+   "summary_zh": "大蒜醬油醃過再裹粉炸的整塊雞腿，塩尻與松本名物。",
+   "body_zh": "山賊焼起源於長野縣中信地區，名稱來自塩尻一家叫「山賊」的居酒屋，據說創始老闆的祖父長得像山賊，在二戰前後發明了這道菜。做法是將帶骨雞腿以大蒜洋蔥醬油醃過，裹上太白粉後油炸，名稱雖叫「燒」實為炸。塩尻在2010年訂出三項標準，松本則在2012年發展自己的版本，兩市現在合作，每年3月8、9日為山賊焼日。",
+   "facts": [
+    {"label": "起源", "value": "塩尻居酒屋「山賊」，二戰前後"},
+    {"label": "主要食材", "value": "雞腿肉、蒜醬油醃料、太白粉"},
+    {"label": "吃法", "value": "大塊炸好切開，配高麗菜絲與啤酒"}
+   ],
+   "season_zh": "全年",
+   "where_zh": "塩尻市、松本市的居酒屋與食堂",
+   "tags": ["B級美食", "炸雞", "塩尻", "居酒屋"],
+   "sources": ["https://ja.wikipedia.org/wiki/山賊焼"],
+   "confidence": "medium",
+   "prompt_en": "A whole large piece of sanzokuyaki fried chicken thigh, deep golden crispy crust, sliced open to show juicy meat, with shredded cabbage and a lemon wedge on a plain plate, rustic izakaya table, warm light, no text"
+  },
+  {
+   "title_zh": "塩尻桔梗之原葡萄酒",
+   "title_ja": "桔梗ヶ原ワイン",
+   "category": "酒與飲品",
+   "summary_zh": "塩尻桔梗之原是長野葡萄酒的重鎮產區。",
+   "body_zh": "桔梗ヶ原位於長野縣塩尻市，過去主要栽培康考特、德拉瓦與尼加拉等品種，面積超過100公頃。1890年移居者豊島理喜治栽植3000株葡萄藤，1918年開始商業釀酒。據該頁記載，長野縣葡萄酒產量約八成出自塩尻市，區內有麒麟、三得利等大廠與小酒莊。本條只核實了產區概況，具體酒款與名酒莊未確認。",
+   "facts": [
+    {"label": "起源", "value": "1890年開始栽培，1918年商業釀酒"},
+    {"label": "主要食材", "value": "康考特、德拉瓦、尼加拉、梅洛等葡萄"},
+    {"label": "吃法", "value": "佐信州料理或肉類"}
+   ],
+   "season_zh": "葡萄9-10月收成",
+   "where_zh": "塩尻市桔梗ヶ原一帶的酒莊",
+   "tags": ["葡萄酒", "塩尻", "桔梗ヶ原", "酒莊"],
+   "sources": ["https://ja.wikipedia.org/wiki/桔梗ヶ原"],
+   "confidence": "low",
+   "prompt_en": "A glass of red wine and a bottle with a plain unlabeled front on a weathered wooden barrel top, rows of vineyard hills blurred in the background at golden hour, a small bunch of dark grapes beside, no text"
+  }
+ ]
+}

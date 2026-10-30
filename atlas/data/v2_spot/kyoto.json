@@ -1,0 +1,157 @@
+{
+  "id": "kyoto",
+  "spots": [
+    {
+      "title_zh": "天橋立",
+      "title_ja": "天橋立",
+      "category": "海島海岸",
+      "area_zh": "宮津市（京都府北部）",
+      "summary_zh": "橫隔宮津灣與阿蘇海的長條砂洲，日本三景之一",
+      "body_zh": "天橋立位於宮津市，是隔開宮津灣與阿蘇海的灣口砂洲，與松島、嚴島並稱日本三景。含第2小天橋全長約3.6公里，寬約20至170公尺，生長約5,000至8,000棵松樹。砂礫由海流搬運堆積而成，約2,200年前的地震與海面變動被認為是形成因素之一，但學說不一。從北側傘松地區可望見整條砂洲，砂洲上的府道並獲選為日本之道百選。",
+      "facts": [
+        {"label": "所在地", "value": "京都府宮津市，宮津灣與阿蘇海之間"},
+        {"label": "開創／成因", "value": "海流搬運砂礫在灣口堆積而成的砂洲，約2,200年前起逐漸出水（學說不一）"},
+        {"label": "看點", "value": "全長約3.6公里、松樹5,000至8,000棵、日本三景、日本遺產構成文化財"}
+      ],
+      "best_season_zh": "春秋晴天；冬季雪景亦具特色",
+      "tips_zh": "想看完整砂洲，可前往北側傘松地區的展望點俯瞰。砂洲上有步道，可慢慢走過松林；行程建議預留半天，交通與開放時間請查宮津市觀光官網。",
+      "tags": ["日本三景", "砂洲", "松林", "日本遺產"],
+      "sources": ["https://ja.wikipedia.org/wiki/天橋立"],
+      "confidence": "high",
+      "prompt_en": "Wide view from a hillside viewpoint looking down at a long narrow pine-covered sandbar stretching across a calm bay, clear autumn morning, soft golden light, foreground tree branches and railing out of focus, midground the green sandbar with a thin road, background blue sea and distant mountains; no text, no signs, no recognizable people"
+    },
+    {
+      "title_zh": "伊根舟屋",
+      "title_ja": "伊根の舟屋",
+      "category": "街區古鎮",
+      "area_zh": "與謝郡伊根町（丹後半島）",
+      "summary_zh": "沿伊根灣排開、一樓作船庫的海上民家群",
+      "body_zh": "伊根町位於丹後半島北端，面向日本海，伊根灣內沿岸排列著一樓作船庫、二樓作居室的「舟屋」，房屋緊貼海面。伊根浦於2005年7月22日成為日本首個以漁村身分入選的重要傳統建造物群保存地區，也是「日本最美麗村莊」聯盟的登錄地域資源。町內有青島、龜島等小島，可搭遊覽船由海上欣賞舟屋，並有咖啡座等利用舟屋地形的觀光設施。",
+      "facts": [
+        {"label": "所在地", "value": "京都府與謝郡伊根町，丹後半島北東部"},
+        {"label": "開創／成因", "value": "漁村沿海興建、兼具船庫的舟屋；伊根浦2005年選定為重要傳統建造物群保存地區"},
+        {"label": "看點", "value": "海面上的舟屋群、遊覽船、道之驛「舟屋之里伊根」"}
+      ],
+      "best_season_zh": "春至秋的晴天；冬季豪雪地帶，氣候嚴寒",
+      "tips_zh": "町內大眾運輸班次有限，出發前請先查好巴士時刻。建議搭乘遊覽船從海面看舟屋全景，居民仍在此生活，拍照時請保持安靜、勿進入私人土地。",
+      "tags": ["舟屋", "漁村", "重傳建", "日本最美麗村莊"],
+      "sources": ["https://ja.wikipedia.org/wiki/伊根町"],
+      "confidence": "high",
+      "prompt_en": "Row of wooden boat houses standing directly on the waterline of a quiet bay, seen from a sightseeing boat, late afternoon warm light, gentle ripples in the foreground, midground tiled-roof houses with open boat bays on the ground floor, background green hills and a small island; no text, no signs, no recognizable people"
+    },
+    {
+      "title_zh": "平等院",
+      "title_ja": "平等院",
+      "category": "神社寺院",
+      "area_zh": "宇治市",
+      "summary_zh": "藤原賴通1052年改建，鳳凰堂為世界遺產國寶",
+      "body_zh": "平等院位於宇治市，原為藤原道長的別莊「宇治殿」。其子藤原賴通於1052年改為寺院，翌年（1053年）建成阿彌陀堂，即後世所稱的鳳凰堂，正面朝東，隔著阿字池與對岸相望。堂內本尊阿彌陀如來坐像是佛師定朝確證現存的唯一作品。平等院屬1994年登錄的世界遺產「古都京都的文化財」之一，園內另有2001年開館的平等院博物館鳳翔館。",
+      "facts": [
+        {"label": "所在地", "value": "京都府宇治市宇治蓮華"},
+        {"label": "開創／成因", "value": "1052年藤原賴通由別莊改建為寺，1053年建成阿彌陀堂（鳳凰堂）"},
+        {"label": "看點", "value": "國寶鳳凰堂、定朝作阿彌陀如來坐像、阿字池、鳳翔館"}
+      ],
+      "best_season_zh": "春（新綠）與秋（紅葉）；秋季有夜間特別參拜",
+      "tips_zh": "堂內參觀通常需另行申請，名額與時間請查官方公告。宇治亦為《源氏物語》宇治十帖舞台，可順遊宇治川畔與茶鋪街，安排半日行程較從容。",
+      "tags": ["鳳凰堂", "世界遺產", "國寶", "宇治"],
+      "sources": ["https://ja.wikipedia.org/wiki/平等院"],
+      "confidence": "high",
+      "prompt_en": "Symmetrical wooden pavilion with wing corridors reflected in a still pond, early summer morning, soft diffused light, foreground water lilies and pond edge, midground vermilion-and-gray Heian-style hall with a bird-shaped roof ornament, background green trees; no text, no signs, no recognizable people"
+    },
+    {
+      "title_zh": "二條城",
+      "title_ja": "二条城",
+      "category": "城郭史蹟",
+      "area_zh": "京都市中京區",
+      "summary_zh": "德川家康所建，見證幕府始末的世界遺產名城",
+      "body_zh": "二條城由德川家康於關原之戰後，作為在京都的據點與上洛住所興建，1601年定案、1603年落成。天守後於1606年完成，現已不存。城內二之丸御殿共6棟為國寶，二之丸庭園為特別名勝；1867年德川慶喜在此發表大政奉還，象徵幕府的終結。明治時期收歸皇室成為離宮，1939年贈予京都市並對外開放，1994年與古都京都的文化財一同登錄世界遺產。",
+      "facts": [
+        {"label": "所在地", "value": "京都府京都市中京區二條通堀川西入"},
+        {"label": "開創／成因", "value": "德川家康築造，1603年落成，天下普請由諸大名分擔"},
+        {"label": "看點", "value": "國寶二之丸御殿（6棟）、障壁畫、特別名勝二之丸庭園"}
+      ],
+      "best_season_zh": "春季櫻花與秋季紅葉",
+      "tips_zh": "二之丸御殿內障壁畫與室內空間是重點，建議預留1至2小時。開放時間與休館日可能調整，出發前請查官方網站；與京都御所距離不遠，可同日安排。",
+      "tags": ["德川家康", "大政奉還", "國寶", "世界遺產"],
+      "sources": ["https://ja.wikipedia.org/wiki/二条城"],
+      "confidence": "high",
+      "prompt_en": "Grand ornate gate and wide gravel approach of an Edo-period castle, bright autumn day, crisp clear light, foreground pine branches framing the shot, midground a gilded and carved karamon-style gateway with tiled roofs, background stone walls and red maple trees; no text, no signs, no recognizable people"
+    },
+    {
+      "title_zh": "龍安寺石庭",
+      "title_ja": "龍安寺の石庭",
+      "category": "庭園公園",
+      "area_zh": "京都市右京區",
+      "summary_zh": "白砂配十五石的枯山水名庭，世界遺產",
+      "body_zh": "龍安寺位於京都市右京區，臨濟宗妙心寺派，1450年由細川勝元創建，應仁之亂時焚毀，後由勝元之子政元重建，方丈與石庭相傳約在1499年前後完成。石庭寬約25公尺、深約10公尺，白砂上以砂紋象徵波浪，從東起依序配置5、2、3、2、3，共15顆大小石頭。庭園為特別名勝與史跡，寺院屬世界遺產「古都京都的文化財」。",
+      "facts": [
+        {"label": "所在地", "value": "京都府京都市右京區龍安寺御陵下町"},
+        {"label": "開創／成因", "value": "1450年細川勝元創建，應仁之亂後由政元重建，石庭相傳此時作成"},
+        {"label": "看點", "value": "方丈石庭（寬25×深10公尺、15顆石）、蹲踞、鏡容池"}
+      ],
+      "best_season_zh": "新綠與紅葉；清晨人少較易靜觀",
+      "tips_zh": "從方丈緣廊靜坐觀賞，不論從哪個位置都無法同時看見全部15顆石頭，是流傳的說法，不妨親自試試。建議避開假日中午，以清晨或平日前往較為清靜。",
+      "tags": ["枯山水", "石庭", "世界遺產", "禪寺"],
+      "sources": ["https://ja.wikipedia.org/wiki/龍安寺"],
+      "confidence": "high",
+      "prompt_en": "Dry rock garden of raked white gravel with small moss-fringed rock groupings, seen from a wooden veranda, overcast soft morning light, foreground polished wood floor edge, midground raked gravel patterns and low stones, background low clay wall with weathered tiles and green trees; no text, no signs, no recognizable people"
+    },
+    {
+      "title_zh": "琴引濱",
+      "title_ja": "琴引浜",
+      "category": "自然絕景",
+      "area_zh": "京丹後市網野町",
+      "summary_zh": "日本最大級的鳴沙海灘，國家名勝與天然紀念物",
+      "body_zh": "琴引濱位於京丹後市網野町，是丹後天橋立大江山國定公園的一部分，花崗岩質白沙灘寬約70至80公尺，全長約1.8公里。沙中約七成是摩擦係數大的石英，乾燥時走動會因摩擦振動發出「吱吱」聲，是日本規模最大級的鳴沙海灘。沙子一旦被汙染便不再鳴響，因此當地推動清掃與禁菸保育。2007年指定為國家天然紀念物及名勝，並入選日本之渚百選。",
+      "facts": [
+        {"label": "所在地", "value": "京都府京丹後市網野町掛津、遊地區，面向日本海"},
+        {"label": "開創／成因", "value": "花崗岩質白沙含約七成石英，沙粒摩擦振動而鳴響"},
+        {"label": "看點", "value": "鳴沙、白砂青松、琴引濱鳴沙文化館；2007年國家名勝及天然紀念物"}
+      ],
+      "best_season_zh": "夏季海水浴；秋冬海況較差",
+      "tips_zh": "鳴沙需沙面乾燥，雨後或潮濕時聲音較弱。請勿丟棄垃圾、勿攜出沙子以保護鳴聲。交通可由網野站搭巴士約11至14分鐘，班次請事先確認。",
+      "tags": ["鳴沙", "白砂青松", "天然紀念物", "日本海"],
+      "sources": ["https://ja.wikipedia.org/wiki/琴引浜"],
+      "confidence": "high",
+      "prompt_en": "Long pale granite sand beach curving along the Sea of Japan, clear early summer morning, soft low light, foreground ripples in dry sand, midground smooth white beach and thin pine line, background gentle waves and headland; no text, no signs, no recognizable people"
+    },
+    {
+      "title_zh": "貴船神社",
+      "title_ja": "貴船神社",
+      "category": "神社寺院",
+      "area_zh": "京都市左京區鞍馬貴船町",
+      "summary_zh": "鴨川水源一帶的水神總本宮，山谷間的名社",
+      "body_zh": "貴船神社位於京都市左京區，鎮坐於貴船山與鞍馬山之間的山谷，社前流著貴船川，被視為鴨川水源之一。主祭神為水神高龗神，自古作為祈雨之神，被稱為全國約兩千社的水神總本宮。社伝稱創建於反正天皇時代，1055年社殿重建遷至現在本宮之地，舊址成為奧宮。社殿分本宮、結社（中宮）、奧宮三處，據說祈雨獻馬的習俗是繪馬的起源，附近也是紅葉名所。",
+      "facts": [
+        {"label": "所在地", "value": "京都府京都市左京區鞍馬貴船町"},
+        {"label": "開創／成因", "value": "社伝稱反正天皇時代創建，1055年重建並遷至現本宮，舊地為奧宮"},
+        {"label": "看點", "value": "本宮、結社、奧宮三處社殿，水神信仰，傳為繪馬起源之社"}
+      ],
+      "best_season_zh": "新綠與紅葉；夏季涼爽",
+      "tips_zh": "山谷內氣溫比市區低，夏季也建議帶薄外套。三處社殿之間需步行，穿好走的鞋；與鄰近的鞍馬山可安排同日連走，但行程較緊湊，請預留時間。",
+      "tags": ["水神", "貴船川", "紅葉名所", "奧宮"],
+      "sources": ["https://ja.wikipedia.org/wiki/貴船神社"],
+      "confidence": "high",
+      "prompt_en": "Long stone staircase lined with red lanterns rising through a dense cedar forest beside a clear mountain stream, misty early morning, soft green light, foreground wet stone steps and ferns, midground the winding stairs and vermilion fence, background layered mountain slopes; no text, no signs, no recognizable people"
+    },
+    {
+      "title_zh": "美山茅葺之里",
+      "title_ja": "かやぶきの里（美山町北）",
+      "category": "街區古鎮",
+      "area_zh": "南丹市美山町",
+      "summary_zh": "由良川上游保存茅葺民家的重傳建山村",
+      "body_zh": "美山町位於京都府中部山間，2006年與周邊町合併為南丹市。町內沿河而建的民家約有250棟是茅葺屋頂，其中北集落保存尤其完整，被選定為國家重要傳統建造物群保存地區，町也名列水之鄉百選。集落約50戶，其中約38戶為茅葺，多為江戶時代中期至末期所建的北山型民家，特色是高聳的入母屋屋頂與如神社千木般的屋脊裝飾。周圍是水田與山林，四季景色鮮明。",
+      "facts": [
+        {"label": "所在地", "value": "京都府南丹市美山町北（舊北桑田郡美山町）"},
+        {"label": "開創／成因", "value": "北山型茅葺民家，多建於江戶中期至末期；1993年選定為重傳建"},
+        {"label": "看點", "value": "約38戶茅葺民家、集落與水田山林、民俗資料館與民宿"}
+      ],
+      "best_season_zh": "新綠、秋天稻田與冬季雪景",
+      "tips_zh": "此地鐵路未通，需搭巴士轉乘，班次少，務必事先查好時刻，也可考慮自駕。居民仍在生活，請勿擅入民宅與田地；冬季積雪，需防滑鞋。",
+      "tags": ["茅葺民家", "重傳建", "山村", "北山型"],
+      "sources": ["https://ja.wikipedia.org/wiki/美山町_(京都府)", "https://ja.wikipedia.org/wiki/かやぶきの里・北村"],
+      "confidence": "medium",
+      "prompt_en": "Mountain hamlet of thatched-roof farmhouses on a gentle slope with stone retaining walls, golden evening light in early autumn, foreground rice field edge and stone wall, midground steep thatched gabled roofs with ridge ornaments, background forested mountains and soft haze; no text, no signs, no recognizable people"
+    }
+  ]
+}

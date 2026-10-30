@@ -1,0 +1,285 @@
+{
+  "id": "nagano",
+  "spots": [
+    {
+      "title_zh": "松本城",
+      "title_ja": "松本城",
+      "category": "城郭史蹟",
+      "area_zh": "松本市",
+      "summary_zh": "黑色外牆的國寶天守，建在平地上的平城。",
+      "body_zh": "松本城位於松本市，天守為安土桃山時代末期至江戶時代初期所建、現存的天守之一，被指定為國寶，與姬路城、犬山城、彥根城、松江城並列五座國寶天守。前身是戰國時代小笠原氏一族所築的深志城；之後石川數正、康長父子整建天守與城下町。國寶範圍包括天守、乾小天守、渡櫓、辰巳附櫓與月見櫓，是平地上的平城。",
+      "facts": [
+        {
+          "label": "所在地",
+          "value": "松本市丸之內"
+        },
+        {
+          "label": "開創／成因",
+          "value": "源自小笠原氏深志城，石川數正、康長整建天守與城郭，天守為安土桃山末期至江戶初期建造"
+        },
+        {
+          "label": "看點",
+          "value": "國寶天守與月見櫓、護城河倒影"
+        }
+      ],
+      "best_season_zh": "四月櫻花季與冬季雪景",
+      "tips_zh": "天守內階梯陡峭、須脫鞋，旺季宜早到；從護城河對岸拍天守倒影視野最好。",
+      "tags": [
+        "國寶",
+        "天守",
+        "黑城",
+        "護城河"
+      ],
+      "sources": [
+        "https://ja.wikipedia.org/wiki/松本城"
+      ],
+      "confidence": "medium",
+      "prompt_en": "Black-walled Japanese castle keep beside a calm moat with a red wooden bridge, snow-capped Alps in the distance, clear winter morning, reflection in the water, no text, no recognizable people"
+    },
+    {
+      "title_zh": "善光寺",
+      "title_ja": "善光寺",
+      "category": "神社寺院",
+      "area_zh": "長野市",
+      "summary_zh": "歷史悠久、不分宗派的古寺，長野市的象徵。",
+      "body_zh": "善光寺位於長野市元善町，是不屬任何宗派的單立佛寺，由天台宗與浄土宗的僧團共同護持。本尊為傳說日本最古老的一光三尊阿彌陀如來，屬絕對祕佛，平時不公開；約每七年（數算）舉行一次御開帳，公開的是分身「前立本尊」，並在本堂前豎立回向柱。古來有「一生一度參拜善光寺」之說，長野市中心也由善光寺門前町發展而來。",
+      "facts": [
+        {
+          "label": "所在地",
+          "value": "長野市元善町"
+        },
+        {
+          "label": "開創／成因",
+          "value": "傳說自7世紀的草堂而起，為不分宗派的靈場"
+        },
+        {
+          "label": "看點",
+          "value": "絕對祕佛本尊、本堂、御開帳與回向柱"
+        }
+      ],
+      "best_season_zh": "早晨參拜、春季與秋季",
+      "tips_zh": "本尊為祕佛不開放，開帳年份人潮極多；參拜以清晨早課時段最為肅靜，開帳日期請查官方公告。",
+      "tags": [
+        "古寺",
+        "國寶",
+        "參道",
+        "門前町"
+      ],
+      "sources": [
+        "https://ja.wikipedia.org/wiki/善光寺"
+      ],
+      "confidence": "medium",
+      "prompt_en": "Large wooden temple hall with a sweeping gabled roof at the end of a stone-paved approach, early morning light, mist among cedar trees, lanterns along the path, no text, no recognizable people"
+    },
+    {
+      "title_zh": "上高地",
+      "title_ja": "上高地",
+      "category": "山岳高原",
+      "area_zh": "松本市（安曇）",
+      "summary_zh": "北阿爾卑斯山中的高山谷地，梓川流經。",
+      "body_zh": "上高地位於松本市西部的梓川上游，海拔約1500公尺，屬中部山岳國立公園，並被指定為特別名勝與特別天然紀念物。它是前後約10公里、寬約1公里的堆積平地；1915年（大正4年）燒岳噴發堵住梓川，形成大正池。河童橋與大正池是代表景點，也是穗高連峰、槍之岳的登山基地。全年實施私家車管制，須搭巴士或計程車前往。",
+      "facts": [
+        {
+          "label": "所在地",
+          "value": "松本市西部（梓川上游，海拔約1500公尺）"
+        },
+        {
+          "label": "開創／成因",
+          "value": "堆積平地；1915年燒岳噴發形成大正池"
+        },
+        {
+          "label": "看點",
+          "value": "河童橋、大正池、穗高連峰"
+        }
+      ],
+      "best_season_zh": "十月上旬紅葉與夏季新綠",
+      "tips_zh": "私家車全年管制，需轉乘巴士；高地早晚溫差大，宜備外套，冬季多數設施休業，請先確認開放期間。",
+      "tags": [
+        "高山",
+        "河童橋",
+        "梓川",
+        "穗高連峰"
+      ],
+      "sources": [
+        "https://ja.wikipedia.org/wiki/上高地"
+      ],
+      "confidence": "medium",
+      "prompt_en": "Clear river in an alpine valley with a suspension footbridge, jagged snow-dusted mountains in the background, autumn colors on larch and birch, early morning mist, no text, no recognizable people"
+    },
+    {
+      "title_zh": "地獄谷野猿公苑",
+      "title_ja": "地獄谷野猿公苑",
+      "category": "自然絕景",
+      "area_zh": "下高井郡山之內町",
+      "summary_zh": "冬天猴子泡溫泉的山谷。",
+      "body_zh": "地獄谷野猿公苑位於長野縣下高井郡山之內町的地獄谷溫泉，是觀察野生日本獼猴的公園，以冬季猴子泡溫泉的景象聞名，英語圈稱為「Snow Monkey」。為減少猴群對蘋果農家的危害，業者花約三年時間馴化猴群，於1964年開苑；當年有好奇的小猴闖進旅館的露天浴池，才開始被人看見泡湯的樣子。猴子泡湯主要是為了禦寒。",
+      "facts": [
+        {
+          "label": "所在地",
+          "value": "長野縣下高井郡山之內町地獄谷溫泉"
+        },
+        {
+          "label": "開創／成因",
+          "value": "1964年開苑，目的是讓猴與人共存並減少農害"
+        },
+        {
+          "label": "看點",
+          "value": "冬季泡溫泉的野生獼猴"
+        }
+      ],
+      "best_season_zh": "一至二月積雪期",
+      "tips_zh": "入口需沿步道步行一段路，冬天路滑要穿防滑鞋；猴子是野生動物，不可餵食或觸摸，並與牠們保持距離。",
+      "tags": [
+        "猴子",
+        "溫泉",
+        "雪景",
+        "山谷"
+      ],
+      "sources": [
+        "https://ja.wikipedia.org/wiki/地獄谷野猿公苑"
+      ],
+      "confidence": "medium",
+      "prompt_en": "Steaming natural hot spring pool in a snowy mountain valley with Japanese macaques sitting in the water, snow-covered rocks and conifers, soft winter light, no text, no people"
+    },
+    {
+      "title_zh": "妻籠宿",
+      "title_ja": "妻籠宿",
+      "category": "街區古鎮",
+      "area_zh": "木曾郡南木曾町",
+      "summary_zh": "保存江戶時代風貌的中山道宿場町。",
+      "body_zh": "妻籠宿是中山道第42個宿場，屬木曾十一宿之一，位於長野縣木曾郡南木曾町，在蘭川東岸。1960年代為因應過疏問題，當地以保存作為發展方向，1968年制定「守護妻籠住民憲章」，1973年制定保存條例；1976年成為全國最早一批「重要傳統建造物群保存地區」，連農地等周邊環境也一併保存。與馬籠宿之間的舊中山道步道是熱門健行路線。",
+      "facts": [
+        {
+          "label": "所在地",
+          "value": "長野縣木曾郡南木曾町"
+        },
+        {
+          "label": "開創／成因",
+          "value": "江戶時代中山道宿場；1968年起保存，1976年選定重要傳統建造物群保存地區"
+        },
+        {
+          "label": "看點",
+          "value": "宿場街景、與馬籠宿相連的舊中山道"
+        }
+      ],
+      "best_season_zh": "初夏新綠與秋季",
+      "tips_zh": "若要走妻籠到馬籠的古道，建議預留半天並穿好走的鞋；街區是居民生活空間，拍照時請留意不要打擾。",
+      "tags": [
+        "中山道",
+        "宿場町",
+        "古街",
+        "木造建築"
+      ],
+      "sources": [
+        "https://ja.wikipedia.org/wiki/妻籠宿"
+      ],
+      "confidence": "medium",
+      "prompt_en": "Old post-town street lined with wooden lattice-front inns, gentle dusk light, lanterns glowing, forested mountain behind, stone-paved narrow road in the foreground, no text, no signs, no recognizable people"
+    },
+    {
+      "title_zh": "澀溫泉",
+      "title_ja": "渋温泉",
+      "category": "溫泉",
+      "area_zh": "下高井郡山之內町",
+      "summary_zh": "石板路與木造旅館並列的古老溫泉街。",
+      "body_zh": "澀溫泉位於長野縣下高井郡山之內町，屬「湯田中澀溫泉鄉」的一部分，石板路兩旁排列著木造旅館。最有名的是「九湯巡禮」：共有九處外湯（共同浴場），泉質與功效各異，住宿客可免費借用外湯的鑰匙，俗稱洗去「苦（九）勞」。開湯傳說可追溯至約1300年前的行基，江戶時代佐久間象山、小林一茶、葛飾北齋等文人曾到訪。",
+      "facts": [
+        {
+          "label": "所在地",
+          "value": "長野縣下高井郡山之內町"
+        },
+        {
+          "label": "開創／成因",
+          "value": "傳說約1300年前由行基發現"
+        },
+        {
+          "label": "看點",
+          "value": "石板路溫泉街、九處外湯"
+        }
+      ],
+      "best_season_zh": "冬季雪景與秋季",
+      "tips_zh": "外湯多半只供住宿客使用，日歸客可入浴的設施有限；晚間穿浴衣走石板路最有氛圍，行前請確認入浴規定。",
+      "tags": [
+        "溫泉街",
+        "石板路",
+        "共同浴場",
+        "木造旅館"
+      ],
+      "sources": [
+        "https://ja.wikipedia.org/wiki/渋温泉"
+      ],
+      "confidence": "medium",
+      "prompt_en": "Narrow stone-paved hot spring town street with wooden multi-storey inns, steam rising, soft lantern glow at dusk, light snow, no text, no signage, no recognizable people"
+    },
+    {
+      "title_zh": "高遠城址公園",
+      "title_ja": "高遠城址公園",
+      "category": "庭園公園",
+      "area_zh": "伊那市高遠町",
+      "summary_zh": "以紅色小彼岸櫻聞名的城跡公園。",
+      "body_zh": "高遠城址公園位於伊那市高遠町，以高遠城的城跡整備而成。高遠城是戰國時代武田信玄的家臣山本勘助規劃縄張的堅城，城主由武田氏一族擔任。1876年（明治9年），舊藩士在城跡植樹並移建城門，改為公園。園內約1500株「高遠小彼岸櫻」，1960年被列為長野縣天然紀念物；賞櫻季為4月上旬至5月上旬，並有夜間點燈。",
+      "facts": [
+        {
+          "label": "所在地",
+          "value": "伊那市高遠町東高遠"
+        },
+        {
+          "label": "開創／成因",
+          "value": "戰國時代高遠城，明治9年舊藩士植櫻並整建為公園"
+        },
+        {
+          "label": "看點",
+          "value": "約1500株高遠小彼岸櫻、櫻花祭與夜間點燈"
+        }
+      ],
+      "best_season_zh": "四月上中旬櫻花季",
+      "tips_zh": "櫻花季遊客密集，交通管制與停車位有限，建議平日早到或搭接駁；花期每年不同，須先查花況。",
+      "tags": [
+        "賞櫻",
+        "城跡",
+        "小彼岸櫻",
+        "春季"
+      ],
+      "sources": [
+        "https://ja.wikipedia.org/wiki/高遠城址公園"
+      ],
+      "confidence": "medium",
+      "prompt_en": "Castle ruins park densely filled with deep-pink cherry blossoms, wooden bridge over a moat, distant mountain ridges, soft spring morning light, petals on the ground, no text, no recognizable people"
+    },
+    {
+      "title_zh": "千疊敷圈谷",
+      "title_ja": "千畳敷カール",
+      "category": "山岳高原",
+      "area_zh": "駒ヶ根市",
+      "summary_zh": "中央阿爾卑斯山的冰斗地形，可搭纜車前往。",
+      "body_zh": "千疊敷圈谷（千畳敷カール）位於長野縣駒根市與宮田村之間，是中央阿爾卑斯（木曾山脈）寶劍岳下方的冰河地形，谷底海拔約2600公尺。夏季高山植物盛開成花田，冬季則是嚴酷雪山；春季限定設置T型滑雪纜車，開設千疊敷滑雪場。山麓有全年營運的駒岳纜車，千疊敷站是登山口與一般遊客的入口，環繞步道一圈約45分鐘。",
+      "facts": [
+        {
+          "label": "所在地",
+          "value": "長野縣駒根市／宮田村（寶劍岳下）"
+        },
+        {
+          "label": "開創／成因",
+          "value": "冰河侵蝕形成的圈谷（cirque），谷底海拔約2600公尺"
+        },
+        {
+          "label": "看點",
+          "value": "夏季高山花田、環繞步道、駒岳纜車"
+        }
+      ],
+      "best_season_zh": "九月下旬至十月上旬紅葉",
+      "tips_zh": "站在海拔約2600公尺，即使夏季也很冷，要帶保暖外套與防曬；纜車受天候與停駛影響，行前請確認營運狀況。",
+      "tags": [
+        "圈谷",
+        "纜車",
+        "高山",
+        "紅葉"
+      ],
+      "sources": [
+        "https://ja.wikipedia.org/wiki/千畳敷カール"
+      ],
+      "confidence": "medium",
+      "prompt_en": "Bowl-shaped glacial cirque in a high alpine mountain, autumn colors on the slopes, rocky peaks above, a small mountain station building at the edge, clear morning light, no text, no recognizable people"
+    }
+  ]
+}

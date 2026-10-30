@@ -1,0 +1,848 @@
+{
+ "id": "kochi",
+ "name_zh": "高知",
+ "name_ja": "高知県",
+ "region": "四國",
+ "overview": {
+  "intro_zh": "高知縣位於四國南部，面向太平洋，面積約7,104平方公里，是四國最大卻人口最少的縣，約65萬人。縣內約89%為山地，受黑潮影響，氣候溫暖多雨，颱風也多。縣民性格豪爽，愛喝酒與熱鬧，著名的夜來祭（よさこい祭）每年8月舉行。這裡有保存天守與本丸御殿的高知城、被稱為日本最後清流的四萬十川、桂濱與室戶岬、足摺岬等海岸地形，也是幕末志士坂本龍馬的故鄉。鰹魚藁燒與柚子是飲食代表。",
+  "capital_zh": "高知市",
+  "area_km2": 7104,
+  "population_approx": "約65萬（2025年2月652,459人）",
+  "flower_zh": "楊梅（ヤマモモ）",
+  "bird_zh": "仙八色鶇（八色鳥）",
+  "tree_zh": "柳瀨杉",
+  "climate_zh": "受黑潮影響，溫暖多雨，夏季颱風多、降雨量居全國前列，冬季少雪。",
+  "access_zh": "高知龍馬機場有國內線；JR由岡山經土讚線約2.5小時至高知；高速巴士連高松、松山。",
+  "specialties_zh": [
+   "鰹魚藁燒",
+   "柚子",
+   "土佐文旦",
+   "四萬十川鰻魚與香魚",
+   "金目鯛"
+  ],
+  "best_season_zh": "夏季（夜來祭）、初春至春季賞花與出海觀鯨；鰹魚以春季初鰹與秋季回鰹最肥美。"
+ },
+ "items": {
+  "architecture": {
+   "title_zh": "高知城",
+   "title_ja": "高知城",
+   "summary_zh": "保留天守與本丸御殿的現存城郭，18世紀建築完整。",
+   "body_zh": "高知城位於高知市中心的大高坂山，1601至1611年由山內一豐築造。原有城郭大部分在1727年燒毀，1729至1753年依原樣重建，因此本丸的建築全數為18世紀原物。高知城是日本唯一同時保留歷史天守與大名居住的本丸御殿的城，天守為四層六階。追手門與天守可一眼同框，是高知城的名景。城下有高知城歷史博物館與傍晚營業的弘人市場，適合散步一整天。城內設有歷史展示與導覽，可近距離觀察木造建築的結構與裝飾，了解土佐藩的歷史背景。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "高知縣高知市"
+    },
+    {
+     "label": "築城",
+     "value": "1601至1611年，山內一豐"
+    },
+    {
+     "label": "重建",
+     "value": "1729至1753年，依原樣"
+    },
+    {
+     "label": "特色",
+     "value": "天守與本丸御殿皆現存"
+    }
+   ],
+   "best_season_zh": "春（櫻）與秋",
+   "tips_zh": "可登天守眺望高知市街；入口追手門前階梯較陡，穿好走的鞋。出發前建議先確認開放時間與交通，並預留充足時間慢慢欣賞。",
+   "tags": [
+    "城堡",
+    "現存天守",
+    "本丸御殿",
+    "高知"
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/K%C5%8Dchi_Castle",
+    "https://visitkochijapan.com/en/"
+   ],
+   "confidence": "high",
+   "prompt_en": "Wooden castle keep with its attached residence hall on a hill, stone stairs and green maple trees in front, soft daylight, wide front view"
+  },
+  "food": {
+   "title_zh": "鰹魚藁燒",
+   "title_ja": "鰹のたたき",
+   "summary_zh": "高知名物，以稻草猛火炙烤魚皮的厚切鰹魚。",
+   "body_zh": "鰹魚藁燒是高知的靈魂美食，將厚切鰹魚用稻草點火炙烤表面，使外皮焦香、內部仍為鮮紅，再配蒜片、薑、蔥與柑橘醋或鹽。據說起源於土佐漁民在船上快速調理漁獲。稻草火力猛，能在短時間內烤香魚皮，同時保住魚肉汁水。弘人市場等處有多家專賣店，春天的初鰹與秋天的回鰹最受歡迎，高知人喜歡配上當地酒。盛夏以外的季節，冷盤與熱酒也很搭，在地人常把鰹魚藁燒當作居酒屋的第一道菜。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "高知縣全域"
+    },
+    {
+     "label": "做法",
+     "value": "稻草猛火炙烤魚皮"
+    },
+    {
+     "label": "配料",
+     "value": "蒜片、薑、蔥、柑橘醋或鹽"
+    },
+    {
+     "label": "時節",
+     "value": "春初鰹、秋回鰹"
+    }
+   ],
+   "best_season_zh": "春與秋",
+   "tips_zh": "可嘗試鹽與柑橘醋兩種吃法；人多的店先確認營業時間，旺季需預約。出發前建議先確認開放時間與交通，並預留充足時間慢慢欣賞。",
+   "tags": [
+    "鰹魚",
+    "藁燒",
+    "土佐",
+    "海鮮"
+   ],
+   "sources": [
+    "https://shikoku-tourism.com/en/about-shikoku/katsuo_no_tataki",
+    "https://jal.japantravel.com/kochi/katsuo-no-tataki-kochi-s-soul-food/67582"
+   ],
+   "confidence": "high",
+   "prompt_en": "Thick slices of straw-seared bonito with garlic chips, ginger and scallions on a plate, golden-brown seared edges, close-up, flames from burning straw softly blurred behind"
+  },
+  "culture": {
+   "title_zh": "夜來祭（よさこい祭）",
+   "title_ja": "よさこい祭り",
+   "summary_zh": "1954年起在高知舉行的夏日舞蹈祭，舞者手持鳴子。",
+   "body_zh": "夜來祭（よさこい祭）由高知商工會議所在1954年發起，目的是為景氣低迷中的市民提振士氣，每年8月9至12日舉行，是各地夜來祭的原型。舞者以團隊為單位，穿著各自設計的法被或浴衣，一邊揮舞鳴子一邊遊行，音樂融合傳統民謠與現代節奏。鳴子原是田間趕鳥用的木製響板，通常有黑黃兩色。活動期間全市熱鬧非常，吸引大量遊客與舞團參加。高知市內有多處主要演舞場與競演場，街上的表演氣氛熱烈，也有觀眾席和免費觀賞區。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "高知縣高知市"
+    },
+    {
+     "label": "起源",
+     "value": "1954年"
+    },
+    {
+     "label": "時節",
+     "value": "8月9至12日"
+    },
+    {
+     "label": "特色",
+     "value": "鳴子、團隊遊行、融合新舊音樂"
+    }
+   ],
+   "best_season_zh": "夏（8月9至12日）",
+   "tips_zh": "節慶期間住宿很早滿房，須提前預約；街上人多，備足水與防曬。出發前建議先確認開放時間與交通，並預留充足時間慢慢欣賞。",
+   "tags": [
+    "祭典",
+    "舞蹈",
+    "鳴子",
+    "夏日"
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Yosakoi",
+    "https://www.city.kochi.kochi.jp/kochi-city-travel-guide/yosakoi/"
+   ],
+   "confidence": "high",
+   "prompt_en": "Energetic street dance troupes in vibrant happi coats waving flags and wooden clappers, summer festival night, dynamic motion blur, crowded street"
+  },
+  "history": {
+   "title_zh": "龍馬出生地（上町）",
+   "title_ja": "龍馬生誕地",
+   "summary_zh": "幕末志士出生的高知上町老街，現設紀念館與紀念碑。",
+   "body_zh": "高知市上町一帶是土佐藩下級武士居住的城下町，幕末志士坂本龍馬1836年在此出生。如今這裡立有出生地紀念碑，並建有「高知市立龍馬出生地紀念館」，以影像、模型與展板重現龍馬成長時期的上町街景。從高知電鐵的上町一丁目站步行即可到達。附近還有龍馬成長的舊址與幾處與幕末相關的史蹟，適合以步行方式串連。本頁僅呈現史蹟場景，不繪製歷史人物。紀念館內有互動展示與當時街景的復原模型，適合小朋友與家庭同行，慢慢走過約一至兩小時。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "高知縣高知市上町"
+    },
+    {
+     "label": "史實",
+     "value": "1836年出生於此"
+    },
+    {
+     "label": "設施",
+     "value": "出生地紀念館、紀念碑"
+    },
+    {
+     "label": "交通",
+     "value": "電車上町一丁目站步行"
+    }
+   ],
+   "best_season_zh": "全年",
+   "tips_zh": "紀念館以兒童友善的展示著稱；可搭路面電車前往，沿途看老街。出發前建議先確認開放時間與交通，並預留充足時間慢慢欣賞。",
+   "tags": [
+    "幕末",
+    "史蹟",
+    "龍馬",
+    "高知"
+   ],
+   "sources": [
+    "https://visitkochijapan.com/en/see-and-do/10013",
+    "https://en.wikipedia.org/wiki/Ry%C5%8Dma%27s_Birthplace_Memorial_Museum"
+   ],
+   "confidence": "high",
+   "prompt_en": "Quiet historic townscape in Kochi Kamimachi with a stone monument, wooden fences and old lantern posts, evening light, no people in focus"
+  },
+  "mascot": {
+   "title_zh": "高知吉祥物 Kuroshio-kun",
+   "title_ja": "くろしおくん",
+   "summary_zh": "高知縣的形象角色，名字取自黑潮。",
+   "body_zh": "「くろしおくん」（黑潮君）是高知縣形象角色，著作權屬高知縣，用於宣傳縣內形象、擴大特產銷路與產業振興，使用時須向縣政府提出申請。名字取自流經高知外海的黑潮，象徵這片溫暖多雨、魚貨豐富的海洋。本站插圖不複製此角色，而是以鰹魚與柚子為靈感設計的原創角色。具體造型細節請以縣政府官方資料為準。縣內的物產展與觀光推廣活動中，常見此角色的蹤影，是高知形象的代表之一。",
+   "facts": [
+    {
+     "label": "名稱",
+     "value": "くろしおくん"
+    },
+    {
+     "label": "權屬",
+     "value": "高知縣"
+    },
+    {
+     "label": "用途",
+     "value": "形象宣傳、特產推廣"
+    },
+    {
+     "label": "名字由來",
+     "value": "黑潮"
+    }
+   ],
+   "best_season_zh": "全年",
+   "tips_zh": "如需商業使用，須向高知縣提交使用申請，並遵守使用規程。出發前建議先確認開放時間與交通，並預留充足時間慢慢欣賞。",
+   "tags": [
+    "吉祥物",
+    "黑潮",
+    "形象角色",
+    "高知"
+   ],
+   "sources": [
+    "https://www.pref.kochi.lg.jp/_files/00134859/siyoukitei.pdf"
+   ],
+   "confidence": "medium",
+   "prompt_en": "An original cute character shaped like a bonito fish wearing a yuzu citrus hat and holding tiny dance clappers, plain pastel background, not replicating any existing trademarked mascot"
+  },
+  "scenery": {
+   "title_zh": "四萬十川",
+   "title_ja": "四万十川",
+   "summary_zh": "日本最後的清流，沉下橋是標誌風景。",
+   "body_zh": "四萬十川全長約196公里，是高知縣西部的一級河川，沒有主流水壩，被稱為「日本最後的清流」，與長良川、柿田川並稱日本三大清流之一。河上有約47座沉下橋，為了避免洪水沖毀而不設欄杆，洪水來時沒入水中。川裡可見香魚、鰻魚與河蝦，兩岸是山林與農田，也有紫菜養殖與屋形船。清晨河面常見薄霧，景色寧靜。每年也有划獨木舟、釣香魚與賞螢等活動，讓遊客在不同季節感受這條河的魅力。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "高知縣西部"
+    },
+    {
+     "label": "全長",
+     "value": "約196公里"
+    },
+    {
+     "label": "特色",
+     "value": "主流無水壩、47座沉下橋"
+    },
+    {
+     "label": "產業",
+     "value": "漁業、紫菜"
+    }
+   ],
+   "best_season_zh": "夏至秋",
+   "tips_zh": "可租獨木舟或乘屋形船；沉下橋過橋時請注意安全，雨後水位上漲時勿接近。出發前建議先確認開放時間與交通，並預留充足時間慢慢欣賞。",
+   "tags": [
+    "河川",
+    "清流",
+    "沉下橋",
+    "自然"
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Shimanto_River"
+   ],
+   "confidence": "high",
+   "prompt_en": "Clear green river winding through forested mountains with a low railless submersible bridge, thin morning mist, quiet atmosphere, wide shot"
+  },
+  "spot": {
+   "title_zh": "桂濱",
+   "title_ja": "桂浜",
+   "summary_zh": "面向太平洋的月牙形海灘，海岸立有龍馬像。",
+   "body_zh": "桂濱位於高知市南部的浦戶灣口，弧形海灘夾在龍頭岬與龍王岬之間，以松林與五彩礫石著稱，常被稱為月牙形的海岸。1928年，一群青年籌資在海灘旁山丘設立了高約5.3公尺的坂本龍馬像（含基座總高約13.5公尺），面向太平洋。附近設有桂濱水族館、土佐犬中心與龍馬紀念館。由於海浪洶湧，海灘不可游泳，只供觀賞。海灘面向遼闊的太平洋，天氣晴朗時視野極佳，是高知縣代表性的觀光地點之一。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "高知縣高知市"
+    },
+    {
+     "label": "地形",
+     "value": "弧形礫石海灘，夾於兩岬之間"
+    },
+    {
+     "label": "設施",
+     "value": "水族館、龍馬紀念館、土佐犬中心"
+    },
+    {
+     "label": "注意",
+     "value": "不可游泳"
+    }
+   ],
+   "best_season_zh": "全年（日出、月夜）",
+   "tips_zh": "海浪大，勿靠近水邊；可從展望台眺望，日出與滿月夜景色尤其動人。出發前建議先確認開放時間與交通，並預留充足時間慢慢欣賞。",
+   "tags": [
+    "海灘",
+    "太平洋",
+    "松林",
+    "高知"
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Katsurahama_(beach)",
+    "https://www.tokyoweekender.com/location/katsurahama-beach/"
+   ],
+   "confidence": "high",
+   "prompt_en": "Crescent-shaped pebble beach with big Pacific waves, pine-covered headlands at both ends, sunrise colors in the sky, wide view"
+  },
+  "experience": {
+   "title_zh": "藁燒鰹魚體驗",
+   "title_ja": "鰹のたたき体験",
+   "summary_zh": "在高知親眼看稻草烈火炙烤鰹魚，再現吃現烤。",
+   "body_zh": "高知市有幾處地方可近距離看到鰹魚藁燒的過程：廚師把厚切鰹魚放在鐵串上，用燃燒的稻草猛火烤，火焰有時高達一米，十幾秒就完成表面炙烤。在弘人市場等地，有多達約七十家店舖與小吃攤，部分店提供讓遊客自己動手炙烤的體驗，多數需預約。烤好的鰹魚當場切片，配鹽與蒜片享用，鮮味無比。具體提供情形以各店公告為準。體驗場地通常搭配試吃與介紹，了解稻草選擇、火力控制與切片方式，非常有趣。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "高知市（弘人市場周邊）"
+    },
+    {
+     "label": "流程",
+     "value": "稻草點火、鐵串炙烤、切片"
+    },
+    {
+     "label": "店家",
+     "value": "弘人市場約70家店"
+    },
+    {
+     "label": "預約",
+     "value": "多需預約"
+    }
+   ],
+   "best_season_zh": "全年",
+   "tips_zh": "穿容易清洗的衣物，煙味較重；體驗時請遵循工作人員指示並保持安全距離。出發前建議先確認開放時間與交通，並預留充足時間慢慢欣賞。",
+   "tags": [
+    "體驗",
+    "鰹魚",
+    "藁燒",
+    "美食"
+   ],
+   "sources": [
+    "https://theculturetrip.com/asia/japan/articles/where-to-find-the-best-tataki-in-kochi",
+    "https://shikoku-tourism.com/en/about-shikoku/katsuo_no_tataki"
+   ],
+   "confidence": "medium",
+   "prompt_en": "A cook searing bonito skewers over a roaring straw fire in an open kitchen, tall flames, sparks and smoke, dramatic warm lighting"
+  },
+  "costume": {
+   "title_zh": "夜來舞衣",
+   "title_ja": "よさこいの装い",
+   "summary_zh": "夜來祭舞團的鮮豔法被與頭巾。",
+   "body_zh": "夜來祭的舞團通常各自設計服裝，常見款式有法被、浴衣、頭巾與腰帶，色彩大膽，圖案融合傳統花紋與現代設計。舞者手持鳴子，並依照團隊主題搭配旗幟與道具。同一團隊的服裝統一，遠看形成一片色塊，是祭典的視覺焦點。製作舞衣是團隊活動之一，常由成員手工縫製。此項以無名模特兒呈現，不涉及特定團體。在祭典前後的街頭與商場，也能看到舞團成員身穿舞衣練習，氣氛熱烈，十分有看頭。",
+   "facts": [
+    {
+     "label": "地點",
+     "value": "高知市夜來祭會場"
+    },
+    {
+     "label": "款式",
+     "value": "法被、浴衣、頭巾、腰帶"
+    },
+    {
+     "label": "配件",
+     "value": "鳴子、旗幟"
+    },
+    {
+     "label": "特色",
+     "value": "團隊統一設計、色彩鮮豔"
+    }
+   ],
+   "best_season_zh": "夏（8月）",
+   "tips_zh": "想體驗可租借或購買簡易法被；穿著時留意夏季炎熱，補充水分。出發前建議先確認開放時間與交通，並預留充足時間慢慢欣賞。",
+   "tags": [
+    "服飾",
+    "夜來祭",
+    "舞衣",
+    "夏日"
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Yosakoi"
+   ],
+   "confidence": "medium",
+   "prompt_en": "An anonymous dancer in a vivid colorful festival happi jacket and headband holding wooden clappers, vibrant street background, motion"
+  }
+ },
+ "areas": [
+  {
+   "id": "kochi_kochi_city",
+   "name_zh": "高知市",
+   "name_ja": "高知市",
+   "intro_zh": "高知市是高知縣的縣廳所在地，位於土佐灣北岸，有高知城、路面電車、弘人市場與日曜市等地方色彩強烈的景點。市區緊湊，步行與電車都方便。這裡也是夜來祭的主舞台，夏季尤其熱鬧。",
+   "items": {
+    "spot": {
+     "title_zh": "高知城追手門與石階",
+     "title_ja": "高知城",
+     "summary_zh": "追手門直登天守的石階，城內建築完整。",
+     "body_zh": "高知城的入口追手門正對著天守，登城石階兩旁有大樹，視野開闊，是知名拍照地點。城內本丸御殿與天守同時保存，屬日本唯一。城山上有四季花卉，春天為賞櫻名所。天守內部可上到最高層，眺望高知市街、鏡川與遠方山巒。城外每週有日曜市沿街延伸，是在地人採買與遊客逛街的場所。城下另有日曜市與資料館，可順路了解高知的歷史與日常生活，建議留出半日。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "高知縣高知市"
+      },
+      {
+       "label": "特色",
+       "value": "追手門與天守可同框"
+      },
+      {
+       "label": "賞花",
+       "value": "春櫻"
+      },
+      {
+       "label": "鄰近",
+       "value": "日曜市、弘人市場"
+      }
+     ],
+     "best_season_zh": "春與秋",
+     "tips_zh": "週日有日曜市，可搭配逛城；午後光線適合拍天守。出發前建議先確認開放時間與交通，並預留充足時間慢慢欣賞。",
+     "tags": [
+      "城堡",
+      "追手門",
+      "石階",
+      "高知"
+     ],
+     "sources": [
+      "https://en.wikipedia.org/wiki/K%C5%8Dchi_Castle"
+     ],
+     "confidence": "high",
+     "prompt_en": "Main castle gate and a stone staircase leading toward a wooden castle keep, maple trees, soft daylight, wide view"
+    },
+    "food": {
+     "title_zh": "弘人市場的藁燒鰹魚",
+     "title_ja": "ひろめ市場",
+     "summary_zh": "在城旁市場坐著吃現烤藁燒鰹魚。",
+     "body_zh": "弘人市場緊鄰高知城，是一座約有七十家酒吧與餐飲店的市場，高知人常在這裡一邊喝酒一邊吃鰹魚藁燒。店家多採共用座位，客人自行向各攤位買食物，再到公共座位享用。除了鰹魚，還有餃子、炸物與各式土佐料理。氣氛熱鬧，是體驗高知人性格的好地方。人潮在週末與晚餐時段特別多。市場內也有各式在地酒類與配菜，不少人在此以一杯啤酒搭配炙烤鰹魚，體會高知人的熱情好客。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "高知市帶屋町"
+      },
+      {
+       "label": "規模",
+       "value": "約70家店舖"
+      },
+      {
+       "label": "形式",
+       "value": "共用座位、各攤位自助"
+      },
+      {
+       "label": "特色",
+       "value": "藁燒鰹魚專賣店多"
+      }
+     ],
+     "best_season_zh": "全年",
+     "tips_zh": "午餐與晚餐尖峰搶座位要早，可由一人佔位、其他人買食物。出發前建議先確認開放時間與交通，並預留充足時間慢慢欣賞。",
+     "tags": [
+      "市場",
+      "鰹魚",
+      "居酒屋",
+      "高知"
+     ],
+     "sources": [
+      "https://jal.japantravel.com/kochi/katsuo-no-tataki-kochi-s-soul-food/67582",
+      "https://theculturetrip.com/asia/japan/articles/where-to-find-the-best-tataki-in-kochi"
+     ],
+     "confidence": "high",
+     "prompt_en": "Lively indoor food hall with shared tables, platters of straw-seared bonito, beer glasses and warm lights, evening atmosphere"
+    },
+    "scenery": {
+     "title_zh": "從天守眺望高知市街",
+     "title_ja": "高知市街の眺め",
+     "summary_zh": "高知城天守俯瞰市街、河川與遠山。",
+     "body_zh": "登上高知城天守，可從高處眺望高知市街。往南可見街道一路延伸到土佐灣，鏡川流經城下，周圍環繞著青山。晴天時視野遼闊，傍晚夕陽把屋頂染成金色。高知市是個緊湊的城市，路面電車在街上穿梭，從天守上也能見到電車軌道的線條。這是理解高知城下町格局的好地點。登天守時可從窗口向四個方向眺望，不同角度可以看到城下町的屋頂、河流與遠山。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "高知城天守"
+      },
+      {
+       "label": "視野",
+       "value": "市街、鏡川、遠山"
+      },
+      {
+       "label": "時段",
+       "value": "傍晚夕照"
+      },
+      {
+       "label": "特色",
+       "value": "路面電車穿梭"
+      }
+     ],
+     "best_season_zh": "晴天",
+     "tips_zh": "傍晚光線漂亮，但要留意天守關閉時間。出發前建議先確認開放時間與交通，並預留充足時間慢慢欣賞。",
+     "tags": [
+      "展望",
+      "市街",
+      "天守",
+      "高知"
+     ],
+     "sources": [
+      "https://en.wikipedia.org/wiki/K%C5%8Dchi_Castle"
+     ],
+     "confidence": "medium",
+     "prompt_en": "View from a castle keep balcony over the rooftops of Kochi city toward distant green mountains, a tram line visible, warm evening light"
+    }
+   }
+  },
+  {
+   "id": "kochi_shimanto",
+   "name_zh": "四萬十",
+   "name_ja": "四万十",
+   "intro_zh": "四萬十位於高知縣西部，以四萬十川為中心，是日本最後清流的流域。沉下橋、屋形船與鰻魚等是地方特色。這裡自然保存良好，適合獨木舟、泛舟與慢旅行。",
+   "items": {
+    "spot": {
+     "title_zh": "沉下橋",
+     "title_ja": "沈下橋",
+     "summary_zh": "沒有欄杆、洪水時沉入水中的低橋。",
+     "body_zh": "沉下橋是四萬十川特有的低矮橋樑，橋面不設欄杆，洪水時水位上升橋會沒入水中，水退後仍能使用，因而不會被沖毀。四萬十川流域約有四十七座，部分被縣指定為保存。橋面通常僅容一輛車或行人通過，橋下河水清澈。遊客可以步行過橋，也可以租獨木舟從橋下穿過。沉下橋與山林河川融為一體，是日本鄉村風景的代表。橋兩側視野開闊，適合拍攝寧靜的河景，也是不少電影與廣告的取景地。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "高知縣四萬十川流域"
+      },
+      {
+       "label": "數量",
+       "value": "約47座"
+      },
+      {
+       "label": "特色",
+       "value": "無欄杆、洪水時沒入水中"
+      },
+      {
+       "label": "保存",
+       "value": "縣指定文化財"
+      }
+     ],
+     "best_season_zh": "夏至秋",
+     "tips_zh": "雨後水位高時勿過橋；橋面窄，注意避讓車輛與腳下。出發前建議先確認開放時間與交通，並預留充足時間慢慢欣賞。",
+     "tags": [
+      "沉下橋",
+      "河川",
+      "鄉村",
+      "四萬十"
+     ],
+     "sources": [
+      "https://en.wikipedia.org/wiki/Shimanto_River"
+     ],
+     "confidence": "high",
+     "prompt_en": "Low concrete bridge without railings crossing a clear green river between forested hills, gentle light, wide shot"
+    },
+    "food": {
+     "title_zh": "四萬十川鰻魚",
+     "title_ja": "四万十川の鰻",
+     "summary_zh": "四萬十川的天然鰻魚，炭火燒烤配飯。",
+     "body_zh": "四萬十川流域的鰻魚以清流水質與食物豐富見稱，餐廳多以炭火直烤，先蒸再烤，外皮微脆內裡柔軟，配醬汁與米飯，呈漆盒鰻魚飯。此外還有香魚、河蝦與川蝦料理，是當地特色。由於天然鰻數量有限，供應量視季節與店家而異。品嚐時可配本地煎茶或啤酒。具體產季與店家資訊以餐廳公告為準。料理多使用當地炭火，香氣十足，吃的時候可配上山椒或醬菜，味道更有層次。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "高知縣四萬十市一帶"
+      },
+      {
+       "label": "做法",
+       "value": "蒸後炭火燒烤"
+      },
+      {
+       "label": "配料",
+       "value": "醬汁、米飯"
+      },
+      {
+       "label": "其他",
+       "value": "香魚、河蝦"
+      }
+     ],
+     "best_season_zh": "夏",
+     "tips_zh": "需提前確認天然鰻是否有供應；旺季餐廳可能要預約。出發前建議先確認開放時間與交通，並預留充足時間慢慢欣賞。",
+     "tags": [
+      "鰻魚",
+      "清流",
+      "炭烤",
+      "四萬十"
+     ],
+     "sources": [
+      "https://en.wikipedia.org/wiki/Shimanto_River"
+     ],
+     "confidence": "low",
+     "prompt_en": "Grilled eel glazed with sauce served over rice in a lacquer box, small side dishes, wooden table, soft light"
+    },
+    "scenery": {
+     "title_zh": "四萬十川下游的屋形船",
+     "title_ja": "四万十川の屋形船",
+     "summary_zh": "在下游搭屋形船，欣賞河面與兩岸景色。",
+     "body_zh": "四萬十川下游河面寬闊，水流緩慢，夏季至秋季可搭乘屋形船，船上提供川魚料理，欣賞兩岸山林與農田。河口一帶可見漁船、紫菜養殖與沙洲。傍晚時分，河面映出橙色天空，有靜謐的氛圍。遊客也可租獨木舟或在河畔健行。具體航班與餐點以業者公告為準。船上通常提供川魚料理與酒類，一邊進食一邊觀賞兩岸風景，輕鬆愜意，適合家人或朋友同行。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "高知縣四萬十市"
+      },
+      {
+       "label": "景色",
+       "value": "寬闊河面、漁船、沙洲"
+      },
+      {
+       "label": "活動",
+       "value": "屋形船、獨木舟"
+      },
+      {
+       "label": "時段",
+       "value": "傍晚"
+      }
+     ],
+     "best_season_zh": "夏至秋",
+     "tips_zh": "出發前確認船班與預約；日曬強烈，需帶帽與防曬。出發前建議先確認開放時間與交通，並預留充足時間慢慢欣賞。",
+     "tags": [
+      "河川",
+      "屋形船",
+      "夕陽",
+      "四萬十"
+     ],
+     "sources": [
+      "https://en.wikipedia.org/wiki/Shimanto_River"
+     ],
+     "confidence": "low",
+     "prompt_en": "Wide calm clear river with green banks, a traditional covered pleasure boat and small fishing boats, golden evening light"
+    }
+   }
+  },
+  {
+   "id": "kochi_muroto",
+   "name_zh": "室戶",
+   "name_ja": "室戸",
+   "intro_zh": "室戶位於高知縣東部，是突出太平洋的岬角，2011年成為室戶世界地質公園（UNESCO Global Geopark），地層與岩礁地形別具特色。這裡也是弘法大師空海修行之地，是四國八十八所遍路的重要一站。",
+   "items": {
+    "spot": {
+     "title_zh": "室戶岬",
+     "title_ja": "室戸岬",
+     "summary_zh": "突出太平洋的岬角，傳說空海悟道之地。",
+     "body_zh": "室戶岬位於高知縣東南端，突出於太平洋，2011年被認定為世界地質公園，岬角一帶的岩礁和地層顯示了大陸板塊活動的痕跡。傳說年輕時的空海（弘法大師）在附近的御厨人窟修行，悟道成佛，因此室戶岬也是四國八十八所遍路的重要一站。岬角附近有燈塔與遍路道，海岸風景壯闊，可以看到太平洋的巨浪。岬角周邊設有展望台與步道，另有地質公園中心，介紹這片土地的形成歷史與自然環境。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "高知縣室戶市"
+      },
+      {
+       "label": "認定",
+       "value": "2011年世界地質公園"
+      },
+      {
+       "label": "傳說",
+       "value": "空海於御厨人窟修行"
+      },
+      {
+       "label": "特色",
+       "value": "岩礁、太平洋巨浪"
+      }
+     ],
+     "best_season_zh": "春至秋",
+     "tips_zh": "岬角風大，需防風；可與遍路寺院一併參訪。出發前建議先確認開放時間與交通，並預留充足時間慢慢欣賞。",
+     "tags": [
+      "岬角",
+      "地質公園",
+      "空海",
+      "太平洋"
+     ],
+     "sources": [
+      "https://visitkochijapan.com/en/see-and-do/10001",
+      "https://visitkochijapan.com/en/highlights/muroto"
+     ],
+     "confidence": "high",
+     "prompt_en": "Rocky cape with a lighthouse and Pacific waves crashing on dark rocks, dramatic sky, wide view"
+    },
+    "food": {
+     "title_zh": "室戶金目鯛",
+     "title_ja": "金目鯛",
+     "summary_zh": "室戶近海的深海魚，口感脂肪豐腴。",
+     "body_zh": "金目鯛是紅色深海魚，眼睛大而金黃，高知室戶一帶是知名的漁獲地之一。魚肉脂肪豐腴、質地細膩，常見做法有鹽烤、煮物與生魚片。室戶的漁港與餐廳會依季節供應當日漁獲，並以整條烤魚呈現。金目鯛價格偏高，但在產地吃往往更實惠。具體產季與供應情況以餐廳公告為準。室戶的漁港還有其他深海魚與鮮蝦，旅客可以在港邊的食堂品嚐，價格比都會區實惠。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "高知縣室戶市"
+      },
+      {
+       "label": "特色",
+       "value": "脂肪豐腴、肉質細膩"
+      },
+      {
+       "label": "做法",
+       "value": "鹽烤、煮物、生魚片"
+      },
+      {
+       "label": "時節",
+       "value": "全年，依漁獲"
+      }
+     ],
+     "best_season_zh": "全年",
+     "tips_zh": "點整條烤魚較能嘗到肉汁；餐廳多於午前售完，宜早到。出發前建議先確認開放時間與交通，並預留充足時間慢慢欣賞。",
+     "tags": [
+      "金目鯛",
+      "深海魚",
+      "室戶",
+      "海鮮"
+     ],
+     "sources": [
+      "https://visitkochijapan.com/en/highlights/muroto"
+     ],
+     "confidence": "low",
+     "prompt_en": "Red alfonsino fish grilled whole on a plate with lemon wedge and grated radish, golden skin, soft side light"
+    },
+    "scenery": {
+     "title_zh": "室戶的海岸岩礁",
+     "title_ja": "室戸の海岸",
+     "summary_zh": "岩礁與太平洋浪花交織的海岸風景。",
+     "body_zh": "室戶一帶的海岸由岩礁與斷崖組成，是室戶世界地質公園的核心景觀。岩礁是海底沉積物被板塊推擠隆起而成，可見到彎曲的地層。黎明時分，太平洋海浪衝擊礁石，水花四濺，天空漸漸染成粉橘色。這片海岸受黑潮影響，氣候溫暖，岸邊可見亞熱帶植物。是風景攝影與地質觀察的熱門地點。當地設有地質導覽，由解說員介紹地層如何彎曲、岩礁如何形成，讓風景更有故事。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "高知縣室戶市"
+      },
+      {
+       "label": "成因",
+       "value": "板塊推擠隆起的沉積岩"
+      },
+      {
+       "label": "認定",
+       "value": "世界地質公園"
+      },
+      {
+       "label": "時段",
+       "value": "黎明"
+      }
+     ],
+     "best_season_zh": "全年",
+     "tips_zh": "海岸岩石濕滑，請勿太靠近水邊；大浪天不宜前往。出發前建議先確認開放時間與交通，並預留充足時間慢慢欣賞。",
+     "tags": [
+      "岩礁",
+      "海岸",
+      "地質",
+      "太平洋"
+     ],
+     "sources": [
+      "https://visitkochijapan.com/en/see-and-do/10001"
+     ],
+     "confidence": "medium",
+     "prompt_en": "Jagged rocks and layered coastal cliffs with strong ocean waves at dawn, pink and orange sky, spray in the air"
+    }
+   }
+  },
+  {
+   "id": "kochi_ashizuri",
+   "name_zh": "足摺岬",
+   "name_ja": "足摺岬",
+   "intro_zh": "足摺岬位於高知縣西南端，突出於太平洋，屬足摺宇和海國立公園，土佐清水市境內。這裡有白色的足摺岬燈塔、龍串海岸的奇岩與海中公園，也是四國八十八所遍路的重要一站。",
+   "items": {
+    "spot": {
+     "title_zh": "足摺岬燈塔",
+     "title_ja": "足摺岬灯台",
+     "summary_zh": "矗立於斷崖的白色燈塔，1914年開始運作。",
+     "body_zh": "足摺岬燈塔位於高知縣土佐清水市，1914年開始運作，高約18公尺，光度約46萬燭光，光程約38公里，是日本規模最大的燈塔之一。燈塔矗立於斷崖頂部，面向太平洋，周圍有椿樹林與遍路道。岬角有四國八十八所札所金剛福寺，連結信仰與風景。海岸風景壯闊，黃昏時分最為動人。岬角周邊設有展望台與步道，另有椿花隧道，花季時紅色花朵點綴著綠色林道。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "高知縣土佐清水市"
+      },
+      {
+       "label": "啟用",
+       "value": "1914年"
+      },
+      {
+       "label": "規格",
+       "value": "高約18公尺"
+      },
+      {
+       "label": "特色",
+       "value": "斷崖頂、面向太平洋"
+      }
+     ],
+     "best_season_zh": "春至秋",
+     "tips_zh": "岬角風大；可與金剛福寺一併參觀，建議開車前往。出發前建議先確認開放時間與交通，並預留充足時間慢慢欣賞。",
+     "tags": [
+      "燈塔",
+      "斷崖",
+      "足摺岬",
+      "遍路"
+     ],
+     "sources": [
+      "https://en.wikipedia.org/wiki/Cape_Ashizuri",
+      "https://en.japantravel.com/kochi/cape-ashizuri/1914"
+     ],
+     "confidence": "medium",
+     "prompt_en": "White lighthouse on top of a cliff over a deep blue Pacific sea, camellia trees, clear sky, wide view"
+    },
+    "food": {
+     "title_zh": "土佐清水鯖魚",
+     "title_ja": "土佐清水のさば",
+     "summary_zh": "新鮮鯖魚以生魚片形式享用，是土佐清水名物。",
+     "body_zh": "土佐清水一帶的鯖魚以新鮮聞名，魚肉肥厚，通常趁鮮切成生魚片或做成「鯖刺身」，配薑與醬油食用。由於鯖魚容易變質，能吃到生魚片代表漁獲十分新鮮。當地漁港與餐廳也供應鹽烤與煮物，搭配高知名物鰹魚藁燒。具體品牌與產季以店家公告為準。當地漁港的食堂常把鯖魚與鰹魚同盤供應，可一次比較不同魚種的口感。吃法簡單，常以蔥薑與醬油提味，搭配熱飯與味噌湯，是當地漁港的日常家常菜。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "高知縣土佐清水市"
+      },
+      {
+       "label": "做法",
+       "value": "生魚片、鹽烤、煮物"
+      },
+      {
+       "label": "配料",
+       "value": "薑、醬油"
+      },
+      {
+       "label": "特色",
+       "value": "新鮮度高"
+      }
+     ],
+     "best_season_zh": "秋至冬",
+     "tips_zh": "生食以鮮度為首，請選擇可靠店家；不吃生魚者可選鹽烤。出發前建議先確認開放時間與交通，並預留充足時間慢慢欣賞。",
+     "tags": [
+      "鯖魚",
+      "生魚片",
+      "土佐清水",
+      "海鮮"
+     ],
+     "sources": [
+      "https://visitkochijapan.com/en/"
+     ],
+     "confidence": "low",
+     "prompt_en": "Fresh mackerel sashimi arranged on a plate with grated ginger, soy dish and green shiso, soft light"
+    },
+    "scenery": {
+     "title_zh": "龍串海岸",
+     "title_ja": "竜串海岸",
+     "summary_zh": "奇岩與海中公園的海岸，有海底展望塔。",
+     "body_zh": "龍串海岸位於足摺宇和海國立公園，是風化形成的奇岩景觀，岩石如龍的身軀蜿蜒。附近海域有珊瑚礁，並設有足摺海底館，遊客可降到水下約十公尺，透過舷窗觀察海中魚群與潮流。海水因黑潮溫暖，珊瑚與熱帶魚也可見。海岸與海中公園合稱為海洋公園區，也提供玻璃底船等觀光活動。沿岸另有展望台與步道，可從不同角度欣賞奇岩與海面，天氣好時海水呈現深淺的藍綠色。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "高知縣土佐清水市"
+      },
+      {
+       "label": "特色",
+       "value": "奇岩、珊瑚礁"
+      },
+      {
+       "label": "設施",
+       "value": "足摺海底館（水下約10公尺）"
+      },
+      {
+       "label": "公園",
+       "value": "足摺宇和海國立公園"
+      }
+     ],
+     "best_season_zh": "夏",
+     "tips_zh": "玻璃底船依海況開航；岩岸濕滑，穿防滑鞋。出發前建議先確認開放時間與交通，並預留充足時間慢慢欣賞。",
+     "tags": [
+      "奇岩",
+      "海中公園",
+      "珊瑚",
+      "海岸"
+     ],
+     "sources": [
+      "https://en.japantravel.com/kochi/cape-ashizuri/1914",
+      "https://en.wikipedia.org/wiki/Cape_Ashizuri"
+     ],
+     "confidence": "medium",
+     "prompt_en": "Strange eroded rock formations on a shore with turquoise water, small tide pools, clear sky, wide view"
+    }
+   }
+  }
+ ]
+}

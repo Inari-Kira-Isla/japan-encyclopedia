@@ -1,0 +1,285 @@
+{
+ "id": "oita",
+ "spots": [
+  {
+   "title_zh": "別府地獄巡禮",
+   "title_ja": "別府地獄めぐり",
+   "category": "溫泉",
+   "area_zh": "別府市（鐵輪・柴石等地區）",
+   "summary_zh": "自然湧出的多彩觀賞型溫泉奇觀",
+   "body_zh": "別府溫泉有許多自然湧出、呈現奇景的「地獄」，因含有物不同而呈青、紅、白等泉色，主要供觀賞而非入浴。1910年海地獄整備設施並開始收費，成為觀光化的起點，昭和初期又陸續出現多處新地獄。其中海地獄、血之池地獄、白池地獄與龍卷地獄於2009年被指定為國家名勝。看點是各具特色的泉色與噴氣景象，可搭定期觀光巴士周遊。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "大分縣別府市別府溫泉，從鐵輪的海地獄到柴石的龍卷地獄"
+    },
+    {
+     "label": "開創／成因",
+     "value": "自然湧出的源泉；1910年海地獄開始收費觀覽"
+    },
+    {
+     "label": "看點",
+     "value": "海地獄、血之池、白池、龍卷四處為國家名勝（2009年指定）"
+    }
+   ],
+   "best_season_zh": "四季皆宜",
+   "tips_zh": "各地獄分散在市內不同區域，建議預留半天，並可善用從別府站出發的定期觀光巴士；營業時間與入場費請出發前查官方網站。",
+   "tags": [
+    "地獄溫泉",
+    "泉色",
+    "國家名勝",
+    "觀賞溫泉"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/別府地獄めぐり"
+   ],
+   "confidence": "high",
+   "prompt_en": "Steaming natural hot spring pond with vivid milky turquoise-blue water in the foreground, thick white steam rising across the middle ground, rocky rim and old stone paving, hillside town and distant bay faintly visible in the background, cool clear morning light, no text, no signs, no recognizable people"
+  },
+  {
+   "title_zh": "由布院溫泉",
+   "title_ja": "由布院温泉",
+   "category": "街區古鎮",
+   "area_zh": "由布市",
+   "summary_zh": "由布岳麓寧靜的田園溫泉小鎮",
+   "body_zh": "由布院溫泉位於由布岳山麓，湧出量與源泉數都排全國第2位。1925年車站開業後成為避暑地，昭和40年代起，町民每年舉辦映畫祭與音樂祭，排除歡樂街色彩，並抵抗泡沫期的大型開發，守住田園般的景觀。由布見通與湯之坪街道兩旁有雜貨店、餐廳與美術館，旅館則散布在河畔與林間，沒有高層大旅館，被多項調查評為九州最受歡迎的溫泉。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "大分縣由布市，由布岳山麓的盆地"
+    },
+    {
+     "label": "開創／成因",
+     "value": "1925年由布院站開業，後以町民主導的環境營造發展"
+    },
+    {
+     "label": "看點",
+     "value": "湯之坪街道、金鱗湖、各式美術館與分散的旅館"
+    }
+   ],
+   "best_season_zh": "四季皆宜",
+   "tips_zh": "連假時湯之坪街道人潮擁擠，建議清晨或傍晚前往散步；旅館散布在市街外圍，訂房前先確認與車站的距離。",
+   "tags": [
+    "溫泉小鎮",
+    "金鱗湖",
+    "田園景觀",
+    "美術館"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/由布院温泉"
+   ],
+   "confidence": "high",
+   "prompt_en": "Quiet hot spring town in a wide highland basin, low-rise wooden inns and a tree-lined lane in the middle ground, a cone-shaped twin-peaked mountain rising behind, morning mist drifting over rice fields in the foreground, soft golden early light, no text, no signs, no recognizable people"
+  },
+  {
+   "title_zh": "宇佐神宮",
+   "title_ja": "宇佐神宮",
+   "category": "神社寺院",
+   "area_zh": "宇佐市",
+   "summary_zh": "全國八幡宮的總本社",
+   "body_zh": "宇佐神宮是全國約4萬4千座八幡宮的總本社，與石清水八幡宮、筥崎宮（一說鶴岡八幡宮）並稱日本三大八幡宮，古代曾與伊勢神宮同被視為二所宗廟。神社位於御許山山麓，上宮建在小丘亀山山頂，下宮在山麓，本殿三棟為國寶，境內為國家史蹟。祭神是八幡大神、比賣大神與神功皇后，參拜作法為「二拜四拍手一拜」，與一般神社不同。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "大分縣宇佐市，國東半島根部的御許山山麓"
+    },
+    {
+     "label": "開創／成因",
+     "value": "社傳約6世紀創祀；八幡宮總本社，古代受皇室崇敬"
+    },
+    {
+     "label": "看點",
+     "value": "本殿三棟為國寶、上宮與下宮、獨特的二拜四拍手一拜"
+    }
+   ],
+   "best_season_zh": "四季皆宜",
+   "tips_zh": "參拜請依「二拜四拍手一拜」的作法；上宮位於丘陵山頂，需要爬坡，建議穿好走的鞋，並預留一個多小時參拜。",
+   "tags": [
+    "八幡總本社",
+    "國寶",
+    "二所宗廟",
+    "國家史蹟"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/宇佐神宮"
+   ],
+   "confidence": "high",
+   "prompt_en": "Vermilion-lacquered shrine hall with sweeping cypress-bark roof on a small wooded hilltop, stone steps and a covered corridor in the foreground, tall old camphor trees in the middle ground, forested sacred mountain behind, soft diffused morning light, no text, no signs, no recognizable people"
+  },
+  {
+   "title_zh": "臼杵石佛",
+   "title_ja": "臼杵磨崖仏",
+   "category": "城郭史蹟",
+   "area_zh": "臼杵市",
+   "summary_zh": "凝灰岩崖壁上的平安時代石佛群",
+   "body_zh": "臼杵磨崖佛是雕刻在凝灰岩崖壁上的石佛群，共4群61尊，1952年指定為特別史蹟，1995年成為日本首個磨崖佛國寶，2017年又追加2尊。造營年代與緣由沒有史料，依樣式推定大多屬平安時代後期，部分為鎌倉時代。石材是阿蘇火碎流熔結而成的凝灰岩，質地脆弱，經風雨侵蝕，許多佛像下半身缺失。古園石佛的大日如來像，佛首於1993年修復完成後重新接回身軀。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "大分縣臼杵市，山谷崖壁上的四個石佛群"
+    },
+    {
+     "label": "開創／成因",
+     "value": "推定多為平安時代後期雕造，確切緣由無史料"
+    },
+    {
+     "label": "看點",
+     "value": "古園石佛大日如來像、全數61尊國寶、苔蘚與崖壁質感"
+    }
+   ],
+   "best_season_zh": "四季皆宜",
+   "tips_zh": "石佛怕風雨與踩踏，請遵守步道與保護規定；當地有佛首接回後「參拜可保頭不落地（不被裁員）」的趣談，可當話題。",
+   "tags": [
+    "磨崖佛",
+    "國寶",
+    "特別史蹟",
+    "平安時代"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/臼杵石仏"
+   ],
+   "confidence": "high",
+   "prompt_en": "Row of ancient Buddha figures carved into a pale tuff cliff face, weathered stone with soft green moss, a narrow stone path and low green bushes in the foreground, dense forest above, gentle overcast light with dappled sunlight, no text, no signs, no recognizable people"
+  },
+  {
+   "title_zh": "耶馬溪",
+   "title_ja": "耶馬渓",
+   "category": "自然絕景",
+   "area_zh": "中津市（山國川流域）",
+   "summary_zh": "日本三大奇勝的奇岩溪谷",
+   "body_zh": "耶馬溪位於中津市，是山國川上中游及支流一帶的溪谷。第四紀火山活動形成的凝灰岩台地受風蝕與河水侵蝕，造就奇岩連綿的景觀，被稱為日本三大奇勝，也是日本新三景之一。名稱起於1818年頼山陽以漢詩讚歎「耶馬溪天下無」。福澤諭吉曾自掏腰包購地保護競秀峰。青之洞門是禪海和尚以鑿子開鑿的隧道，因菊池寬《恩仇之彼方》而聞名，傳為日本首條收費道路。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "大分縣中津市，山國川上中游一帶（本耶馬溪、深耶馬溪等）"
+    },
+    {
+     "label": "開創／成因",
+     "value": "火山凝灰岩台地受侵蝕形成；1923年指定名勝"
+    },
+    {
+     "label": "看點",
+     "value": "競秀峰、青之洞門等奇岩與隧道"
+    }
+   ],
+   "best_season_zh": "四季皆宜",
+   "tips_zh": "耶馬溪範圍涵蓋多個區域，各區距離不近，建議先以本耶馬溪的青之洞門與競秀峰為核心，並事先規劃交通方式。",
+   "tags": [
+    "奇岩溪谷",
+    "日本三大奇勝",
+    "青之洞門",
+    "名勝"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/耶馬渓"
+   ],
+   "confidence": "high",
+   "prompt_en": "Steep jagged rock peaks rising above a calm green river, a hand-carved cliffside tunnel mouth at the cliff foot, autumn-tinted trees on the slopes, a stone path along the riverbank in the foreground, soft misty morning light, no text, no signs, no recognizable people"
+  },
+  {
+   "title_zh": "九重夢大吊橋",
+   "title_ja": "九重“夢”大吊橋",
+   "category": "主題設施",
+   "area_zh": "九重町",
+   "summary_zh": "日本最高的步行專用吊橋",
+   "body_zh": "九重夢大吊橋位於九重町，2006年10月30日開通，水面高度173公尺、長390公尺，是日本最高的步行專用橋，長度則已被其他吊橋超越。橋寬僅1.5公尺，中央部分為格柵地板，可直接看見腳下。從橋上可遠望日本瀑布百選的震動瀑布，以及紅葉美麗的九酔溪。計畫源自1956年商店會成員的一句「在谷上架橋就能看瀑布與紅葉」，故名「夢」。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "大分縣玖珠郡九重町，鳴子川溪谷上"
+    },
+    {
+     "label": "開創／成因",
+     "value": "2006年10月30日開通，構想起於1956年的地方提案"
+    },
+    {
+     "label": "看點",
+     "value": "高173公尺、長390公尺；遠望震動瀑布與九酔溪"
+    }
+   ],
+   "best_season_zh": "秋（紅葉）",
+   "tips_zh": "橋面中央為格柵、可透視腳下，怕高者請留意；開通當年正值紅葉季，賞楓時節遊客特別多，宜避開尖峰時段。",
+   "tags": [
+    "吊橋",
+    "日本最高",
+    "震動瀑布",
+    "九酔溪"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/九重%22夢%22大吊橋"
+   ],
+   "confidence": "high",
+   "prompt_en": "Very long narrow pedestrian suspension bridge spanning a deep forested gorge, thin steel cables and towers, autumn red and orange foliage on both cliffs, a distant waterfall in the background, view from a viewpoint on the cliff edge, crisp clear morning light, no text, no signs, no recognizable people"
+  },
+  {
+   "title_zh": "岡城跡",
+   "title_ja": "岡城跡",
+   "category": "城郭史蹟",
+   "area_zh": "竹田市",
+   "summary_zh": "只剩石垣的豊後名城",
+   "body_zh": "岡城是竹田市天神山上的山城，別名臥牛城，標高325公尺。1586年城主志賀親次多次擊退島津軍，受豐臣秀吉褒獎。1594年中川秀成入城，歷時三年大規模修築，規模擴展為本丸、二之丸、三之丸及重臣屋敷。明治維新後因廢城令，建築全數拆除，如今僅存高聳石垣。1936年指定為國家史蹟，並入選日本百名城與日本櫻名所百選，有「雲海浮城」之稱。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "大分縣竹田市，天神山（標高325公尺）"
+    },
+    {
+     "label": "開創／成因",
+     "value": "傳為1185年始築，1594年中川秀成大修築"
+    },
+    {
+     "label": "看點",
+     "value": "高聳石垣、日本百名城第95番、櫻名所"
+    }
+   ],
+   "best_season_zh": "春（櫻）",
+   "tips_zh": "城內建築已拆除，只剩石垣，請多留意石垣的堆砌與配置想像舊貌；雲海是否出現視天氣與時間而定，不保證每次看得到。",
+   "tags": [
+    "石垣",
+    "日本百名城",
+    "賞櫻",
+    "山城"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/岡城_(豊後国)"
+   ],
+   "confidence": "high",
+   "prompt_en": "Massive tall stone castle ramparts stacked on a rocky hilltop, no buildings remaining, cherry blossoms framing the walls in the foreground, low sea of clouds filling the valley below in the background, soft pink sunrise light, no text, no signs, no recognizable people"
+  },
+  {
+   "title_zh": "由布岳",
+   "title_ja": "由布岳",
+   "category": "山岳高原",
+   "area_zh": "由布市",
+   "summary_zh": "雙峰圓錐形的「豊後富士」",
+   "body_zh": "由布岳位於由布市，標高約1,583公尺，是阿蘇くじゅう國立公園內的活火山，由東峰與最高峰西峰兩個山頭組成，圓錐形山容又稱「豊後富士」。《古事記》與《豊後國風土記》都有記載，自古受人信仰，是宇奈岐日女神社的祭神，中腹昔日還有山岳佛教寺院。最近一次噴發約在2,200年前。由布院盆地各處都能望見其獨特山形，是當地地標；從大分市府內大橋望去，還能看到它與鶴見岳稜線重疊的奇景。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "大分縣由布市，由布院盆地南側的火山"
+    },
+    {
+     "label": "開創／成因",
+     "value": "約9萬年前起活動的火山，最近一次噴發約2,200年前"
+    },
+    {
+     "label": "看點",
+     "value": "雙峰圓錐山形、從盆地遠眺、與鶴見岳稜線重疊"
+    }
+   ],
+   "best_season_zh": "四季皆宜",
+   "tips_zh": "最佳拍攝位置在由布院盆地的田野；若在大分市府內大橋遠望，可看到與鶴見岳稜線重疊；登山請依官方火山資訊與天候決定。",
+   "tags": [
+    "活火山",
+    "豊後富士",
+    "雙峰",
+    "阿蘇くじゅう國立公園"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/由布岳"
+   ],
+   "confidence": "high",
+   "prompt_en": "Cone-shaped twin-peaked volcano rising above a flat highland basin, golden pampas grass and rice paddies in the foreground, a few farmhouses and trees in the middle ground, early morning mist hugging the valley floor, crisp autumn light, no text, no signs, no recognizable people"
+  }
+ ]
+}

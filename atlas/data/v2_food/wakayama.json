@@ -1,0 +1,149 @@
+{
+ "id": "wakayama",
+ "foods": [
+  {
+   "title_zh": "和歌山拉麵",
+   "title_ja": "和歌山ラーメン",
+   "category": "麵飯",
+   "summary_zh": "豚骨醬油湯底，桌上放早壽司可自取的拉麵。",
+   "body_zh": "和歌山拉麵起於戰後和歌山市電車「車庫前」站周邊的屋台，以柴魚與小魚乾燉醬油為底的豚骨醬油湯。後來分為偏醬油清爽的「車庫前系」與豚骨濃厚的「井出系」。細直麵配叉燒、螺旋紋魚板、筍乾與蔥花。店內桌上常放蛋、卷壽司和早壽司，客人自取、自行報帳。1998年後全國知名。",
+   "facts": [
+    {"label": "起源", "value": "戰後車庫前站周邊屋台，後分車庫前系與井出系"},
+    {"label": "主要食材", "value": "豚骨醬油湯、細直麵、叉燒、魚板"},
+    {"label": "吃法", "value": "配桌上的早壽司，自助取用後自行報帳"}
+   ],
+   "season_zh": "全年",
+   "where_zh": "和歌山市區各拉麵店，井出商店等老店最具代表性",
+   "tags": ["拉麵", "豚骨醬油", "早壽司", "和歌山市"],
+   "sources": ["https://ja.wikipedia.org/wiki/和歌山ラーメン"],
+   "confidence": "high",
+   "prompt_en": "A bowl of Wakayama ramen with cloudy brown pork-bone soy broth, thin straight noodles, slices of braised pork, a swirl-patterned kamaboko and chopped scallions, on a dark wooden counter, steam rising, warm light, no text, no signage"
+  },
+  {
+   "title_zh": "南高梅梅干",
+   "title_ja": "南高梅の梅干し",
+   "category": "特產食材",
+   "summary_zh": "產自南部町的大粒梅，和歌山占全國約六成梅子產量。",
+   "body_zh": "南高梅出自和歌山縣南部町，1950年由園藝教師竹中勝太郎以「南部高校」與優良母樹「高田梅」命名，母樹高田梅於1902年發現。果實大、核小、果肉柔軟，是栽培面積全國最大的品種。和歌山縣約占全國六成梅子產量，2006年註冊地域團體商標。梅干酸鹹，適合搭配白飯或做飯糰。",
+   "facts": [
+    {"label": "起源", "value": "1950年命名，母樹高田梅於1902年發現"},
+    {"label": "主要食材", "value": "南高梅、鹽、紫蘇"},
+    {"label": "地位", "value": "和歌山約占全國六成梅子，2006年註冊地域團體商標"}
+   ],
+   "season_zh": "6月採收，梅干製作多在盛夏",
+   "where_zh": "日高郡南部町、田邊一帶的梅園與梅干工坊",
+   "tags": ["梅干", "南高梅", "紀州", "地域商標"],
+   "sources": ["https://ja.wikipedia.org/wiki/南高梅"],
+   "confidence": "high",
+   "prompt_en": "A small ceramic dish holding three plump wrinkled red umeboshi pickled plums, next to a bowl of steaming white rice, a few fresh green plums with leaves on the wooden table, soft natural daylight, no text, no signage"
+  },
+  {
+   "title_zh": "目張壽司",
+   "title_ja": "めはり寿司",
+   "category": "鄉土料理",
+   "summary_zh": "以高菜醃漬葉包住飯糰的熊野地區鄉土便當。",
+   "body_zh": "目張壽司是以高菜醃漬葉包裹飯糰的鄉土料理，起於熊野與吉野地區，涵蓋和歌山、三重與奈良。名稱由來有三種說法：吃時瞪大眼睛、尺寸與味道令人驚訝，或高菜葉完全包住飯糰。傳統用麥飯捏成壘球大小，現在多用白飯或醋飯。新宮的車站便當曾經很有名，如今在機場與百貨店仍有販售。",
+   "facts": [
+    {"label": "起源", "value": "熊野、吉野一帶的便當型飯糰，由來有三種說法"},
+    {"label": "主要食材", "value": "高菜醃漬葉、米飯（傳統為麥飯）"},
+    {"label": "吃法", "value": "以手拿著大口咬食，常作為便當"}
+   ],
+   "season_zh": "全年",
+   "where_zh": "熊野地區（新宮、那智勝浦）的食堂與伴手禮店",
+   "tags": ["飯糰", "高菜", "熊野", "便當"],
+   "sources": ["https://ja.wikipedia.org/wiki/めはり寿司"],
+   "confidence": "medium",
+   "prompt_en": "Two large rice balls wrapped in dark green pickled takana mustard leaves, one cut open to show the white rice inside, on a bamboo-leaf lined wooden tray, rustic table, soft natural light, no text, no signage"
+  },
+  {
+   "title_zh": "勝浦鮪魚",
+   "title_ja": "勝浦の生マグロ",
+   "category": "海鮮",
+   "summary_zh": "那智勝浦以延繩釣捕獲的生鮪魚，水揚量居全國前列。",
+   "body_zh": "勝浦漁港位於那智勝浦町，被稱為日本生鮪魚的主要產地，水揚量排名僅次於燒津與三崎之後的第三。以延繩釣為主，主要漁獲有黑鮪（3至5月為盛期）、大目鮪與長鰭鮪，也有旗魚與鯊魚。漁港年水揚量約14,236噸，登記漁船618艘。常見吃法有生魚片、鐵火丼與鮪魚排。",
+   "facts": [
+    {"label": "起源", "value": "勝浦漁港1951年指定為第3種漁港，起源的詳細年代未能核實"},
+    {"label": "主要食材", "value": "黑鮪、大目鮪、長鰭鮪（延繩釣）"},
+    {"label": "時節", "value": "黑鮪盛期為3至5月"}
+   ],
+   "season_zh": "全年，黑鮪3至5月",
+   "where_zh": "那智勝浦町勝浦漁港周邊的海鮮食堂與魚市場",
+   "tags": ["鮪魚", "勝浦", "延繩釣", "生魚片"],
+   "sources": ["https://ja.wikipedia.org/wiki/勝浦漁港_(和歌山県)"],
+   "confidence": "medium",
+   "prompt_en": "Thick slices of fresh red tuna sashimi fanned out on a black lacquer plate with shredded daikon, shiso leaf and a small mound of wasabi, on a wooden counter of a seaside fish restaurant, soft morning light, no text, no signage"
+  },
+  {
+   "title_zh": "熊野牛",
+   "title_ja": "熊野牛",
+   "category": "肉類",
+   "summary_zh": "和歌山南部飼養的黑毛和種，產量極少的地方牛肉品牌。",
+   "body_zh": "熊野牛來自和歌山縣南部熊野地區，原為農耕役用牛，後經改良為肉用牛。品種為黑毛和種，在和歌山縣內飼養，出貨月齡至少24個月，母牛須為未生產者。2004年12月起由熊野牛認定委員會認證制度，從牛的品牌轉為牛肉的品牌。數量稀少，現約200頭種牛，每月出貨約8頭。肉質細緻，適合燒肉與牛排。",
+   "facts": [
+    {"label": "起源", "value": "熊野地區的役用牛改良，2004年12月起實施牛肉認證"},
+    {"label": "主要食材", "value": "黑毛和種，母牛須為未生產者，24個月以上出貨"},
+    {"label": "地位", "value": "種牛約200頭，每月出貨約8頭"}
+   ],
+   "season_zh": "全年",
+   "where_zh": "新宮、那智勝浦與紀北一帶的指定店",
+   "tags": ["和牛", "熊野", "稀少", "地方品牌"],
+   "sources": ["https://ja.wikipedia.org/wiki/熊野牛"],
+   "confidence": "medium",
+   "prompt_en": "Several slices of marbled wagyu beef lightly seared on a cast iron plate, beside grilled shiitake mushrooms and a small dish of sea salt, on a dark wooden table, warm side lighting, no text, no signage"
+  },
+  {
+   "title_zh": "紀州梅酒",
+   "title_ja": "梅酒（紀州）",
+   "category": "酒與飲品",
+   "summary_zh": "以青梅浸泡酒類與糖製成的利口酒，和歌山為梅子最大產地。",
+   "body_zh": "梅酒是將6月前後採收的青梅浸泡於燒酒、白酒或白蘭地並加糖製成的利口酒，酒精度多在8至15度。最早見於江戶時代《本朝食鑑》。2015年訂立自願標準，只用梅、糖類與酒精者可標示「本格梅酒」。和歌山是日本最大梅子產地（約占全國六成），紀州梅酒因而知名，但本次未能直接核實紀州梅酒本身的起源，僅供參考。",
+   "facts": [
+    {"label": "起源", "value": "江戶時代《本朝食鑑》已有記載；紀州梅酒本身起源未能核實"},
+    {"label": "主要食材", "value": "青梅、糖、燒酒或白蘭地"},
+    {"label": "吃法", "value": "加冰、蘇打水或熱水稀釋"}
+   ],
+   "season_zh": "6月採青梅、浸漬，全年飲用",
+   "where_zh": "日高郡南部町、田邊一帶的酒廠與梅園",
+   "tags": ["梅酒", "紀州", "青梅", "利口酒"],
+   "sources": ["https://ja.wikipedia.org/wiki/梅酒", "https://ja.wikipedia.org/wiki/南高梅"],
+   "confidence": "low",
+   "prompt_en": "A clear glass of amber umeshu on the rocks with a single green plum floating, next to a glass jar of plums steeping in liquor, on a dark wooden table, soft warm window light, condensation on glass, no text, no signage"
+  },
+  {
+   "title_zh": "高野豆腐",
+   "title_ja": "高野豆腐",
+   "category": "鄉土料理",
+   "summary_zh": "高野山發展出的凍乾豆腐，今日主產地在長野。",
+   "body_zh": "高野豆腐是把豆腐冷凍後乾燥而成的保存食品，據說由高野山的木食五行完成製法，江戶時代作為高野山伴手禮而得名。傳統作法有兩種：凍み豆腐用稻草串起掛在屋簷下反覆日曬與夜凍；高野豆腐則在陰涼處夜凍數日再加熱乾燥。需注意現在90%以上產於長野縣，和歌山是名稱與起源地。多以高湯燉煮食用。",
+   "facts": [
+    {"label": "起源", "value": "高野山的木食五行完成製法，江戶時代作伴手禮"},
+    {"label": "主要食材", "value": "豆腐（冷凍乾燥）、高湯"},
+    {"label": "地位", "value": "現產量90%以上在長野縣，和歌山為起源地"}
+   ],
+   "season_zh": "全年（傳統製作於寒冬）",
+   "where_zh": "高野山的宿坊與精進料理店",
+   "tags": ["豆腐", "高野山", "精進料理", "保存食"],
+   "sources": ["https://ja.wikipedia.org/wiki/高野豆腐"],
+   "confidence": "medium",
+   "prompt_en": "Golden-brown simmered koya-dofu blocks soaking in dashi broth in a lacquer bowl, topped with a thin sliver of yuzu peel and a green snap pea, on a dark wooden tray at a temple lodging, soft natural light, no text, no signage"
+  },
+  {
+   "title_zh": "湯淺醬油",
+   "title_ja": "湯浅醤油",
+   "category": "特產食材",
+   "summary_zh": "和歌山湯淺町，被視為日本醬油的發祥地之一。",
+   "body_zh": "湯淺醬油出自和歌山縣湯淺町，被視為日本醬油的發祥地之一。傳統上與金山寺味噌關係密切，製味噌過程產生的汁液「たまり」是醬油的基礎。現存老店延續黑豆醬油與以味噌副產物製成的產品。本次僅核實湯淺為醬油發祥地之一與金山寺味噌的關係，鎌倉時代起源的細節未能直接核實。",
+   "facts": [
+    {"label": "起源", "value": "湯淺被視為醬油發祥地之一；鎌倉時代說法未能核實"},
+    {"label": "主要食材", "value": "黑豆、小麥、鹽，金山寺味噌的「たまり」"},
+    {"label": "吃法", "value": "用於生魚片沾醬、調味與煮物"}
+   ],
+   "season_zh": "全年",
+   "where_zh": "有田郡湯淺町的老醬油廠與歷史街區",
+   "tags": ["醬油", "湯淺", "金山寺味噌", "發酵"],
+   "sources": ["https://ja.wikipedia.org/wiki/湯浅醤油"],
+   "confidence": "low",
+   "prompt_en": "A small dark glass bottle of soy sauce and a tiny white saucer of soy sauce beside slices of white fish sashimi, on an old wooden barrel lid inside a traditional brewery with wooden vats softly blurred in the background, warm dim light, no text, no signage"
+  }
+]
+}

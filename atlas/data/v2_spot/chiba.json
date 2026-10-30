@@ -1,0 +1,157 @@
+{
+  "id": "chiba",
+  "spots": [
+    {
+      "title_zh": "成田山新勝寺",
+      "title_ja": "成田山新勝寺",
+      "category": "神社寺院",
+      "area_zh": "成田市",
+      "summary_zh": "供奉不動明王、初詣人潮冠絕全國寺院的大本山",
+      "body_zh": "成田山新勝寺位於成田市，是真言宗智山派的大本山，本尊為不動明王，寺傳開山於平安時代中期的天慶3年（940年），起因是為祈禱平定平將門之亂而奉請不動明王像。江戶時代因離江戶近，信眾增多，初代市川團十郎皈依後以「成田屋」為屋號，更助長了名聲。2020年初詣約305萬人，在寺院中排名全國第一，年參拜者超過1000萬人。",
+      "facts": [
+        {"label": "所在地", "value": "千葉縣成田市成田"},
+        {"label": "開創／成因", "value": "寺傳天慶3年（940年）寬朝僧正開山，為祈願平定平將門之亂"},
+        {"label": "看點", "value": "本尊不動明王；2020年初詣約305萬人，寺院中全國第一；年參拜逾1000萬人"}
+      ],
+      "best_season_zh": "新年初詣；秋",
+      "tips_zh": "離成田機場近，轉機空檔可順道參拜；通往寺門的表參道有不少老店，傍晚人潮較少，初詣期間請預留排隊時間。",
+      "tags": ["不動明王", "真言宗", "初詣", "表參道"],
+      "sources": ["https://ja.wikipedia.org/wiki/成田山新勝寺"],
+      "confidence": "high",
+      "prompt_en": "A grand Buddhist temple main hall with sweeping tiled roof and a tall multi-tiered pagoda beside it, stone steps in the foreground, red maple leaves framing the scene, warm late afternoon light, mid-ground courtyard with incense smoke drifting, background wooded hill, no text, no signboards, no recognizable people"
+    },
+    {
+      "title_zh": "犬吠埼",
+      "title_ja": "犬吠埼",
+      "category": "海島海岸",
+      "area_zh": "銚子市",
+      "summary_zh": "關東平原最東端、以白色燈塔聞名的岬角",
+      "body_zh": "犬吠埼位於銚子市，是關東平原最東端、突出太平洋的岬角，屬水鄉筑波國定公園。岬上的犬吠埼燈塔列入「世界燈塔100選」，並於2020年度被指定為重要文化財。這裡是日本最早迎接日出的地點之一，白堊紀地層被指定為天然記念物並入選日本地質百選。名字的由來有義經愛犬「若丸」等多種說法，北側的君ヶ浜為知名海灘，沿岸遊步道可走近觀海。",
+      "facts": [
+        {"label": "所在地", "value": "千葉縣銚子市犬吠埼周邊"},
+        {"label": "開創／成因", "value": "銚子半島突出太平洋的岬角，地名由來有義經愛犬等多種說法"},
+        {"label": "看點", "value": "犬吠埼燈塔（2020年度重要文化財、世界燈塔100選）、白堊紀地層、日出"}
+      ],
+      "best_season_zh": "冬（初日出）、夏",
+      "tips_zh": "海風強勁，拍日出需提早到並穿防風外套；燈塔登塔開放與否請先查官方時間，也可順道到外川看「犬岩」。",
+      "tags": ["燈塔", "日出", "岬角", "太平洋"],
+      "sources": ["https://ja.wikipedia.org/wiki/犬吠埼"],
+      "confidence": "high",
+      "prompt_en": "A white tall lighthouse standing on a rocky cape at the edge of the Pacific Ocean, crashing waves on dark jagged rocks in the foreground, a pastel pink and orange sunrise sky with thin clouds, mid-ground grassy cliff top, distant horizon over open sea, no text, no signs, no recognizable people"
+    },
+    {
+      "title_zh": "鋸山",
+      "title_ja": "鋸山",
+      "category": "山岳高原",
+      "area_zh": "安房郡鋸南町・富津市",
+      "summary_zh": "石切場遺跡與日本寺、地獄展望台並存的低山",
+      "body_zh": "鋸山位於鋸南町與富津市交界，標高329.5公尺，山體由凝灰岩構成，自江戶時代起大量開採「房州石」，山壁露出的岩面形似鋸齒而得名，採石到1985年才結束，石切場遺跡如今成為產業遺產。山上有日本寺與地獄展望台，可乘鋸山纜車登頂，晴天可遠眺東京灣直到伊豆大島。登山路線可從濱金谷站走到保田站，沿途途經百尺觀音與日本寺大佛。",
+      "facts": [
+        {"label": "所在地", "value": "千葉縣安房郡鋸南町與富津市交界"},
+        {"label": "開創／成因", "value": "凝灰岩山體，江戶時代起採「房州石」，1985年停止採石"},
+        {"label": "看點", "value": "標高329.5公尺、石切場遺跡、日本寺、地獄展望台、東京灣遠景"}
+      ],
+      "best_season_zh": "秋、冬（空氣清澈）",
+      "tips_zh": "登山步道石階多，建議穿防滑鞋；可選擇乘纜車上山、步行下山，減輕體力負擔，地獄展望台邊緣請勿靠近護欄外。",
+      "tags": ["石切場", "日本寺", "東京灣", "低山健行"],
+      "sources": ["https://ja.wikipedia.org/wiki/鋸山_(千葉県)"],
+      "confidence": "high",
+      "prompt_en": "A steep ridge of pale cut stone cliffs with jagged serrated edges above a calm bay, an old quarry wall with vertical chisel marks in the foreground, a few pine trees clinging to the rock, clear crisp winter morning, mid-ground rooftops of a temple among trees, distant hazy sea and far islands, no text, no signs, no recognizable people"
+    },
+    {
+      "title_zh": "佐原老街",
+      "title_ja": "佐原の町並み",
+      "category": "街區古鎮",
+      "area_zh": "香取市佐原",
+      "summary_zh": "沿小野川而建的「北總小江戶」水鄉商家町",
+      "body_zh": "佐原位於香取市，江戶時代因利根川東遷後舟運興盛而繁榮，沿小野川的商家町有「北總小江戶」「水鄉之町」之稱。小野川與香取街道沿岸約7.1公頃的區域，於1996年成為關東首個重要傳統建造物群保存地區，並於2018年與佐倉、成田、銚子一同列為日本遺產。伊能忠敬曾在此以商人身分活躍；每年7月與10月的佐原大祭有華麗山車巡行，2016年列入世界無形文化遺產。",
+      "facts": [
+        {"label": "所在地", "value": "千葉縣香取市佐原，小野川與香取街道沿線"},
+        {"label": "開創／成因", "value": "江戶時代利根川舟運集散地，商家町發展而成"},
+        {"label": "看點", "value": "1996年關東首個重傳建地區、小野川河岸景色、佐原大祭山車（2016年世界無形文化遺產）"}
+      ],
+      "best_season_zh": "春、秋；7月與10月祭典",
+      "tips_zh": "沿小野川步行最能感受水鄉氛圍，建議傍晚光線柔和時拍攝；祭典期間街道封閉人潮多，宜提早安排住宿。",
+      "tags": ["水鄉", "小江戶", "重傳建", "伊能忠敬"],
+      "sources": ["https://ja.wikipedia.org/wiki/佐原の町並み"],
+      "confidence": "high",
+      "prompt_en": "A calm narrow canal lined with traditional wooden merchant houses and willow trees, a small arched wooden bridge in the mid-ground, reflections of tiled roofs in the still water, soft early evening light, foreground stone edge of the canal bank with a moored small flat boat, no text, no signs, no recognizable people"
+    },
+    {
+      "title_zh": "養老溪谷",
+      "title_ja": "養老渓谷",
+      "category": "自然絕景",
+      "area_zh": "夷隅郡大多喜町・市原市",
+      "summary_zh": "房總丘陵中以瀑布與紅葉聞名的溪谷",
+      "body_zh": "養老溪谷是養老川在房總丘陵侵蝕出的溪谷，位於大多喜町與市原市交界一帶，2007年以「養老溪谷・黑瀧不整合」入選日本地質百選。這裡是千葉縣內有名的賞楓與健行地，春天有杜鵑與紫藤，秋天雜木林染紅。粟又之滝落差30公尺，為縣內最大的瀑布，另有「弘文洞跡」等景點；步道串起粟又之滝、千代之滝等數座瀑布，被稱為瀑布巡遊。",
+      "facts": [
+        {"label": "所在地", "value": "千葉縣夷隅郡大多喜町粟又至市原市朝生原"},
+        {"label": "開創／成因", "value": "養老川侵蝕房總丘陵形成；2007年入選日本地質百選"},
+        {"label": "看點", "value": "粟又之滝（落差30公尺）、弘文洞跡、瀑布巡遊步道、秋季紅葉"}
+      ],
+      "best_season_zh": "秋（11月下旬紅葉）",
+      "tips_zh": "可搭小湊鐵道到養老溪谷站，再沿步道走；紅葉期間車流壅塞，開車者請避開週末中午，步道濕滑要穿防滑鞋。",
+      "tags": ["溪谷", "瀑布", "紅葉", "房總丘陵"],
+      "sources": ["https://ja.wikipedia.org/wiki/養老渓谷"],
+      "confidence": "high",
+      "prompt_en": "A winding forest stream flowing over mossy rocks beneath a canopy of red and orange maple leaves, a small waterfall cascading in the mid-ground, soft diffused light filtering through foliage, foreground wet stones and fallen leaves, quiet late autumn morning, no text, no signs, no recognizable people"
+    },
+    {
+      "title_zh": "大多喜城",
+      "title_ja": "大多喜城",
+      "category": "城郭史蹟",
+      "area_zh": "夷隅郡大多喜町",
+      "summary_zh": "房總山間、以再建天守為象徵的城下町古城",
+      "body_zh": "大多喜城位於大多喜町，原是戰國時代至江戶時代的平山城，一般認為以1521年真里谷信清所築的小田喜城為前身，江戶時代曾設大多喜藩。天守在1842年焚毀，明治3年城被拆除，本丸跡於1966年列為千葉縣史跡，1975年依1835年的圖面以鋼筋混凝土再建天守，內設博物館分館，現已長期休館並移交町方。2017年入選「續日本100名城」第122號。",
+      "facts": [
+        {"label": "所在地", "value": "千葉縣夷隅郡大多喜町"},
+        {"label": "開創／成因", "value": "1521年真里谷信清築小田喜城，江戶時代為大多喜藩城"},
+        {"label": "看點", "value": "1975年再建天守、本丸跡（縣史跡）、續日本100名城第122號"}
+      ],
+      "best_season_zh": "春（櫻）、秋",
+      "tips_zh": "內部展示的開放狀況與天守參觀方式近年有變動，行前務必向大多喜町官方確認；城下町小巷適合慢走，也可順遊養老溪谷。",
+      "tags": ["續日本100名城", "天守再建", "大多喜藩", "城下町"],
+      "sources": ["https://ja.wikipedia.org/wiki/大多喜城"],
+      "confidence": "medium",
+      "prompt_en": "A small three-tier white castle keep with grey tiled roofs rising on a wooded hill above a quiet valley town, stone wall and a stone path in the foreground, cherry blossoms framing the right side, soft spring morning light with light mist, distant rolling green hills, no text, no signs, no recognizable people"
+    },
+    {
+      "title_zh": "九十九里濱",
+      "title_ja": "九十九里浜",
+      "category": "海島海岸",
+      "area_zh": "旭市至いすみ市沿岸",
+      "summary_zh": "全長約66公里的日本最大級弧形砂灘",
+      "body_zh": "九十九里濱位於千葉縣東部，從旭市刑部岬到いすみ市太東崎，全長約66公里，是日本列島最大級的砂灘海岸，跨越5市4町1村。傳說源賴朝命人每隔一里插一支箭，插到99支而得名。砂灘由利根川河口流出的土砂與屏風浦海蝕崖侵蝕的土砂經潮流堆積而成。古來是保養療養勝地，文人墨客留下許多詩碑；刑部岬的飯岡燈塔一帶可俯瞰全景，被選入朝日與夕陽百選。",
+      "facts": [
+        {"label": "所在地", "value": "千葉縣東部，刑部岬（旭市）至太東崎（いすみ市）"},
+        {"label": "開創／成因", "value": "利根川與屏風浦侵蝕土砂經潮流堆積而成；名稱源於源賴朝插箭傳說"},
+        {"label": "看點", "value": "全長約66公里日本最大級砂灘、刑部岬展望、朝日與夕陽百選"}
+      ],
+      "best_season_zh": "夏、秋",
+      "tips_zh": "海岸線很長，建議先選定一處據點（如刑部岬看全景）；海浪與離岸流強，下水務必遵守當地海灘公告，勿單獨遠游。",
+      "tags": ["砂灘", "太平洋", "日出", "海岸"],
+      "sources": ["https://ja.wikipedia.org/wiki/九十九里浜"],
+      "confidence": "high",
+      "prompt_en": "An endless gently curving sandy beach stretching to the horizon under a vast sky, long white surf lines rolling in, wet sand reflecting the sky in the foreground, golden low sun and scattered clouds, calm and empty coast, distant cape faint in the haze, no text, no signs, no recognizable people"
+    },
+    {
+      "title_zh": "濱海主題度假區（舞濱）",
+      "title_ja": "舞浜のリゾートエリア",
+      "category": "主題設施",
+      "area_zh": "浦安市舞浜",
+      "summary_zh": "填海造陸而成的東京灣畔大型主題樂園度假區",
+      "body_zh": "舞浜位於浦安市最西端，是第一期填海事業造成的中町地區，浦安市將這一帶定位為「都會度假區」。東京灣畔集中了大型主題樂園、度假飯店與購物餐飲設施，構成日本代表性的家庭旅遊目的地之一。園區內城堡、旋轉木馬與夜間煙火等通用主題意象最為常見。本卡片以通用方式描述，不涉及任何商標內容，細節與營業資訊請以營運方官方公告為準。",
+      "facts": [
+        {"label": "所在地", "value": "千葉縣浦安市舞浜"},
+        {"label": "開創／成因", "value": "第1期海面填埋事業造成的中町地區，1975年新設舞浜町"},
+        {"label": "看點", "value": "東京灣畔的大型主題樂園度假區、夜間煙火與燈飾（通用描述）"}
+      ],
+      "best_season_zh": "全年；冬季夜景",
+      "tips_zh": "此為通用描述，不依賴任何商標畫面；假日人潮極多，票價與入園方式請以官方公告為準，建議平日並提早抵達。",
+      "tags": ["主題樂園", "度假區", "東京灣", "親子"],
+      "sources": ["https://ja.wikipedia.org/wiki/舞浜"],
+      "confidence": "medium",
+      "prompt_en": "A generic fairytale-style amusement resort at dusk, a fantasy castle-like tower with colorful lights, a carousel and tree-lined plaza in the mid-ground, fireworks bursting in a deep blue evening sky, a calm lagoon reflecting lights in the foreground, no logos, no characters, no text, no recognizable people"
+    }
+  ]
+}

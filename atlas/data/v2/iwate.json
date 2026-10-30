@@ -1,0 +1,853 @@
+{
+ "id": "iwate",
+ "name_zh": "岩手",
+ "name_ja": "岩手",
+ "region": "東北",
+ "overview": {
+  "intro_zh": "岩手縣位於東北地方東北部，面積約15,275平方公里，是本州最大的縣，面積僅次於北海道。西側是奧羽山脈，東側為北上高地與面向太平洋的三陸海岸。縣內以北上川流域的盛岡、平泉為歷史與文化中心；平泉的遺跡於2011年成為世界遺產，橋野鐵礦山也在2015年登錄世界遺產。遠野的民間傳說、盛岡三大麵、南部鐵器與三陸海產構成豐富的地方特色。2011年東日本大地震對沿岸造成重大損害，如今持續復興與紀念。",
+  "capital_zh": "盛岡市",
+  "area_km2": 15275,
+  "population_approx": "約116萬（2024年）",
+  "flower_zh": "桐花（キリ）",
+  "bird_zh": "綠雉（キジ）",
+  "tree_zh": "南部赤松（ナンブアカマツ）",
+  "climate_zh": "內陸冬季寒冷多雪、夏季炎熱，沿岸夏涼，常受山背風（やませ）影響。",
+  "access_zh": "東北新幹線至盛岡站（東京約2小時15分）；另有花卷機場，三陸沿岸多靠鐵路與巴士。",
+  "specialties_zh": [
+   "盛岡冷麵",
+   "碗子蕎麥麵",
+   "南部鐵器",
+   "三陸海膽與鮑魚",
+   "前澤牛",
+   "南部煎餅"
+  ],
+  "best_season_zh": "4–5月櫻花、8月夏祭、10月紅葉"
+ },
+ "items": {
+  "architecture": {
+   "title_zh": "中尊寺金色堂",
+   "title_ja": "中尊寺金色堂",
+   "summary_zh": "平泉世界遺產，通體貼金箔的平安佛堂。",
+   "body_zh": "中尊寺金色堂建於1124年（天治元年），由奧州藤原氏初代藤原清衡所建，是平泉現存最古老的建築。堂內外貼滿金箔，須彌壇上有以螺鈿、蒔繪與金工打造的精緻裝飾，堂內安置奧州藤原氏四代的遺體。為了保護，現今金色堂被納入鋼筋混凝土的新覆堂中，參觀者隔著玻璃觀看。中尊寺全山為國家特別史蹟，2011年與周邊遺跡一同登錄世界文化遺產「平泉」。金色堂之外，中尊寺境內另有讚衡藏收藏國寶級佛像與經卷，是理解平泉佛教文化的重要場所。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "西磐井郡平泉町衣關"
+    },
+    {
+     "label": "建成",
+     "value": "1124年（天治元年）"
+    },
+    {
+     "label": "建造者",
+     "value": "藤原清衡"
+    },
+    {
+     "label": "世界遺產",
+     "value": "2011年登錄（平泉）"
+    }
+   ],
+   "best_season_zh": "春季新綠、秋季紅葉",
+   "tips_zh": "金色堂內光線暗，建議先到旁邊的讚衡藏看佛像與寶物再入堂；山坡參道長，穿好走的鞋子。",
+   "tags": [
+    "金色堂",
+    "世界遺產",
+    "平安時代",
+    "平泉"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/%E4%B8%AD%E5%B0%8A%E5%AF%BA%E9%87%91%E8%89%B2%E5%A0%82",
+    "https://www.chusonji.or.jp/"
+   ],
+   "confidence": "high",
+   "prompt_en": "Golden Hall Konjikido of Chusonji temple in Hiraizumi, gilded interior glimpsed through the protective outer hall, surrounded by tall cedar trees, soft mist"
+  },
+  "food": {
+   "title_zh": "盛岡冷麵",
+   "title_ja": "盛岡冷麺",
+   "summary_zh": "彈牙透明麵條配辣泡菜與西瓜片。",
+   "body_zh": "盛岡冷麵與盛岡炸醬麵、碗子蕎麥麵並稱「盛岡三大麵」。一般認為1954年盛岡的燒肉店「食道園」將平壤冷麵與咸興冷麵的風味混合，創出盛岡冷麵。麵條用小麥粉與澱粉製成，透明且特別有嚼勁，湯頭以牛骨為底，清爽中帶酸辣。常見配料有牛肉片、泡菜、水煮蛋與西瓜或梨片，辣度可自行調整。今天，盛岡冷麵已成為全日本知名的名物。盛岡市內有多家專門店，講究的店家會在店內自製麵條，並以「辛味」與「甜味」的搭配凸顯口感。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "盛岡市"
+    },
+    {
+     "label": "起源",
+     "value": "1954年，食道園（盛岡燒肉店）"
+    },
+    {
+     "label": "特色",
+     "value": "彈牙透明麵條、辣泡菜"
+    },
+    {
+     "label": "配料",
+     "value": "牛肉、水煮蛋、西瓜片"
+    }
+   ],
+   "best_season_zh": "全年；夏季尤佳",
+   "tips_zh": "點餐時可指定辣度；多數店也提供燒肉，與冷麵搭配享用最受歡迎，夏天也有清爽的冷湯版。",
+   "tags": [
+    "冷麵",
+    "盛岡三大麵",
+    "燒肉",
+    "盛岡"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/%E7%9B%9B%E5%B2%A1%E5%86%B7%E9%BA%BA",
+    "https://iwatetabi.jp/"
+   ],
+   "confidence": "medium",
+   "prompt_en": "Bowl of Morioka reimen cold noodles with clear chewy noodles, beef slices, kimchi, boiled egg and watermelon slice in a cold beef broth, top-down view"
+  },
+  "culture": {
+   "title_zh": "南部鐵器",
+   "title_ja": "南部鉄器",
+   "summary_zh": "盛岡、奧州傳統鑄鐵茶壺工藝。",
+   "body_zh": "南部鐵器是以岩手縣盛岡市與奧州市為產地的傳統鑄鐵工藝，歷史可上溯至江戶時代，盛岡藩南部氏重視茶道，延請京都工匠製作茶釜，奠定了盛岡鐵器的基礎。主要產品有鐵壺、茶釜與鍋具，外表常有凸起的「霰」紋。用鐵壺煮水，據說可補充鐵質並使水質更溫和。南部鐵器在1975年被指定為國家傳統工藝品，近年也受到海外茶具市場的歡迎。現在盛岡與奧州都有工坊可供參觀，也能預約鑄造或上色的體驗課，並購買到適合當伴手禮的小型鐵器。",
+   "facts": [
+    {
+     "label": "產地",
+     "value": "盛岡市、奧州市"
+    },
+    {
+     "label": "起源",
+     "value": "江戶時代南部藩茶釜"
+    },
+    {
+     "label": "特色",
+     "value": "霰紋鐵壺"
+    },
+    {
+     "label": "指定",
+     "value": "國家傳統工藝品（1975年）"
+    }
+   ],
+   "best_season_zh": "全年",
+   "tips_zh": "購買時要選擇內部經琺瑯或上釉者，並留意使用後需擦乾以防生鏽。盛岡有工坊可參觀。",
+   "tags": [
+    "鐵器",
+    "鐵壺",
+    "傳統工藝",
+    "盛岡"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/%E5%8D%97%E9%83%A8%E9%89%84%E5%99%A8",
+    "https://iwatetabi.jp/"
+   ],
+   "confidence": "medium",
+   "prompt_en": "Black cast iron Nambu tekki teapot with raised arare pellet pattern on a wooden table beside small cups, steam rising, warm indoor light"
+  },
+  "history": {
+   "title_zh": "橋野鐵礦山",
+   "title_ja": "橋野鉄鉱山",
+   "summary_zh": "釜石山中的近代煉鐵高爐石砌遺構。",
+   "body_zh": "橋野鐵礦山位於釜石市山中，是幕末盛岡藩於1858年建造的西式高爐遺跡。主導者大島高任曾在釜石以西洋式高爐成功煉鐵，橋野則是其後建造的實用高爐群，被視為日本近代製鐵的起點。遺址保留了高爐基座、水車引水道與採礦遺構，2015年與其他遺產一起登錄世界遺產「明治日本的產業革命遺產」。今天可沿步道探訪苔蘚覆蓋的石砌遺構。遺址與釜石市內的展示設施相互呼應，可了解當年的採礦、運輸與製鐵過程，是認識日本工業起步的好教材。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "釜石市橋野町"
+    },
+    {
+     "label": "開爐",
+     "value": "1858年（安政5年）"
+    },
+    {
+     "label": "主導者",
+     "value": "大島高任"
+    },
+    {
+     "label": "世界遺產",
+     "value": "2015年登錄"
+    }
+   ],
+   "best_season_zh": "5月至10月",
+   "tips_zh": "山路步道需穿登山鞋；遺跡周邊設有展示館可先了解背景，再沿步道走一圈，約需兩小時。",
+   "tags": [
+    "製鐵",
+    "世界遺產",
+    "幕末",
+    "釜石"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/%E6%A9%8B%E9%87%8E%E9%89%84%E9%89%B1%E5%B1%B1"
+   ],
+   "confidence": "medium",
+   "prompt_en": "Mossy stone remains of a Meiji-era blast furnace at Hashino iron mine in a forested mountain valley in Kamaishi, shafts of light through trees"
+  },
+  "mascot": {
+   "title_zh": "岩手吉祥物與座敷童子鐵壺",
+   "title_ja": "座敷わらし風キャラ（原創）",
+   "summary_zh": "介紹碗子兄弟，並以座敷童子與鐵壺構想原創角色。",
+   "body_zh": "岩手縣的代表吉祥物之一是「碗子兄弟（わんこきょうだい）」，以碗子蕎麥麵為題材，其中的「そばっち」常在縣外宣傳活動登場，曾作為2016年岩手國民體育大會的吉祥物。本頁插畫另行構想一隻原創角色，靈感來自遠野的座敷童子傳說與南部鐵壺：一個穿紅色和服、躲在迷你鐵壺後的小精靈。該設定並非複製任何現有商標吉祥物，用以呈現岩手的民俗與工藝。碗子兄弟以不同顏色的小碗為形象，象徵岩手各地的代表特色，也常出現在伴手禮與活動布置。",
+   "facts": [
+    {
+     "label": "代表吉祥物",
+     "value": "碗子兄弟（そばっち等）"
+    },
+    {
+     "label": "起用場合",
+     "value": "2016年岩手國體"
+    },
+    {
+     "label": "插畫角色",
+     "value": "原創座敷童子與鐵壺"
+    },
+    {
+     "label": "靈感",
+     "value": "遠野傳說、南部鐵器"
+    }
+   ],
+   "best_season_zh": "全年",
+   "tips_zh": "在盛岡車站與物產館常能看到相關周邊；購買時留意是否為官方授權品項。",
+   "tags": [
+    "吉祥物",
+    "座敷童子",
+    "鐵壺",
+    "原創角色"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/%E3%82%8F%E3%82%93%E3%81%93%E3%81%8D%E3%82%87%E3%81%86%E3%81%A0%E3%81%84",
+    "https://ja.wikipedia.org/wiki/%E5%BA%A7%E6%95%B7%E7%AB%A5%E5%AD%90"
+   ],
+   "confidence": "medium",
+   "prompt_en": "Cute original small child-spirit character in a red kimono hiding behind a miniature iron kettle inside a traditional Tono magariya farmhouse, storybook style. Original cute character, not replicating any existing trademarked mascot."
+  },
+  "scenery": {
+   "title_zh": "淨土濱",
+   "title_ja": "浄土ヶ浜",
+   "summary_zh": "三陸海岸白色流紋岩與碧藍海水。",
+   "body_zh": "淨土濱位於宮古市，是三陸復興國立公園的代表景點。白色的流紋岩尖石與黑松林，襯著碧綠清澈的海灣，宛如佛教經典中描述的極樂淨土，因此得名。海灘適合散步與夏季戲水，亦可搭乘遊覽船或乘船出海，觀賞海鳥與海蝕洞。2011年東日本大震災時此區受到影響，現已恢復並持續整備。三陸地區在2013年整併為三陸復興國立公園，沿岸遊覽船、步道與觀景台可從不同角度欣賞，海岸線曲折，適合安排半日遊。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "宮古市日立濱町"
+    },
+    {
+     "label": "特色",
+     "value": "白色流紋岩、黑松林"
+    },
+    {
+     "label": "公園",
+     "value": "三陸復興國立公園"
+    },
+    {
+     "label": "活動",
+     "value": "遊覽船、夏季海水浴"
+    }
+   ],
+   "best_season_zh": "夏季（海水浴）、日出時分",
+   "tips_zh": "日出時分的光線最柔和；船班依海況調整，夏季遊客多，建議提早購票，並確認當日是否運行。",
+   "tags": [
+    "海岸",
+    "三陸",
+    "流紋岩",
+    "宮古"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/%E6%B5%84%E5%9C%9F%E3%83%B6%E6%B5%9C",
+    "https://ja.wikipedia.org/wiki/%E4%B8%89%E9%99%B8%E6%B5%B7%E5%B2%B8"
+   ],
+   "confidence": "medium",
+   "prompt_en": "Jodogahama beach with white rhyolite rocks and pine trees, turquoise sea, sunrise light, Sanriku coast, wide shot"
+  },
+  "spot": {
+   "title_zh": "小岩井農場",
+   "title_ja": "小岩井農場",
+   "summary_zh": "岩手山下遼闊牧場與一本櫻。",
+   "body_zh": "小岩井農場位於雫石町，1891年（明治24年）由小野義真、岩崎彌之助、井上勝三人共同創立，場名取三人姓氏的首字而成。廣闊的牧場面朝岩手山，園內有牧草地、乳牛與綿羊，也有牧場資料館與體驗設施，可品嚐乳製品、冰淇淋與起司。春季著名的「一本櫻」佇立在綠色牧場中央，成為岩手的象徵景觀。夏季牧場綠草如茵，秋季楓紅，冬季則是白茫茫的雪景，四季各有風情，也常是家庭出遊與攝影愛好者的目的地。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "岩手郡雫石町"
+    },
+    {
+     "label": "創立",
+     "value": "1891年（明治24年）"
+    },
+    {
+     "label": "看點",
+     "value": "牧場、一本櫻、岩手山"
+    },
+    {
+     "label": "特產",
+     "value": "乳製品、冰淇淋"
+    }
+   ],
+   "best_season_zh": "4月下旬至5月初（櫻花）、夏季",
+   "tips_zh": "農場面積大，可租自行車或搭乘導覽車；牧場動物請勿餵食，也要留意入園時間與季節性休業日。",
+   "tags": [
+    "牧場",
+    "一本櫻",
+    "岩手山",
+    "乳製品"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/%E5%B0%8F%E5%B2%A9%E4%BA%95%E8%BE%B2%E5%A0%B4",
+    "https://iwatetabi.jp/"
+   ],
+   "confidence": "medium",
+   "prompt_en": "Koiwai Farm grassy pasture with a lone cherry tree and Mount Iwate in the background, cows grazing, bright blue sky"
+  },
+  "experience": {
+   "title_zh": "碗子蕎麥麵挑戰",
+   "title_ja": "わんこそば体験",
+   "summary_zh": "店員不斷投入小碗蕎麥麵的趣味用餐。",
+   "body_zh": "碗子蕎麥麵是岩手盛岡與花卷的特色吃法：店員站在客人旁，把一口分量的蕎麥麵不斷放進小漆碗，客人須在碗空後立刻接下一碗，直到蓋上蓋子才算停止。一般說15碗約等於一碗普通蕎麥麵，常見挑戰是吃到100碗以上，店家會發放挑戰證明或紀念品。相傳其起源與南部藩的待客習俗有關。享用時可搭配各種小菜，如海苔、納豆與山藥泥。盛岡與花卷的蕎麥麵店會依店家規則提供挑戰，嘗試之前可先詢問價位與碗數，並避免暴飲暴食。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "盛岡市、花卷市"
+    },
+    {
+     "label": "吃法",
+     "value": "店員不斷投放，蓋碗結束"
+    },
+    {
+     "label": "基準",
+     "value": "約15碗≈一碗蕎麥麵"
+    },
+    {
+     "label": "配料",
+     "value": "海苔、納豆、山藥泥等"
+    }
+   ],
+   "best_season_zh": "全年",
+   "tips_zh": "吃之前不要先吃太多；若想結束，把碗蓋蓋上即可。部分店家有挑戰證書。",
+   "tags": [
+    "蕎麥麵",
+    "體驗",
+    "盛岡",
+    "花卷"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/%E3%82%8F%E3%82%93%E3%81%93%E3%81%9D%E3%81%B0"
+   ],
+   "confidence": "medium",
+   "prompt_en": "Person eating wanko soba with a stack of empty small lacquer bowls beside them while a server tosses fresh noodles in, lively traditional restaurant, close-up"
+  },
+  "costume": {
+   "title_zh": "鬼劍舞服飾",
+   "title_ja": "鬼剣舞の衣装",
+   "summary_zh": "岩手傳統舞蹈的鬼面與華麗服飾。",
+   "body_zh": "鬼劍舞是岩手縣北上市與奧州市傳承的民俗舞蹈，屬於念佛劍舞的一種，用以供養盆節的亡靈。舞者戴著威嚇表情的鬼面，象徵佛教的五大明王，身披繡有華麗紋樣的上衣，頭戴金色飾帶，持扇或刀跳著剛健的舞步。鬼劍舞已被指定為國家重要無形民俗文化財，北上市夏季的民俗藝能活動可欣賞演出。鬼劍舞的舞姿勇猛有力，與面具、服裝結合，形成強烈的視覺印象，也是岩手最具代表性的民俗藝能之一。",
+   "facts": [
+    {
+     "label": "傳承地",
+     "value": "北上市、奧州市"
+    },
+    {
+     "label": "類型",
+     "value": "念佛劍舞（民俗舞蹈）"
+    },
+    {
+     "label": "特色",
+     "value": "鬼面、金色頭飾、剛健舞姿"
+    },
+    {
+     "label": "指定",
+     "value": "國家重要無形民俗文化財"
+    }
+   ],
+   "best_season_zh": "夏季祭典期間（盆節前後）",
+   "tips_zh": "演出多在祭典與盆節期間，出發前可查詢各地舉辦日期，並尊重表演者與當地信仰儀式。",
+   "tags": [
+    "鬼劍舞",
+    "民俗舞蹈",
+    "服飾",
+    "北上"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/%E9%AC%BC%E5%89%A3%E8%88%9E"
+   ],
+   "confidence": "medium",
+   "prompt_en": "Anonymous dancer in traditional Oni Kenbai costume with a fierce red demon mask crown, golden decorated headpiece and white hakama, standing at a temple courtyard, dramatic light"
+  }
+ },
+ "areas": [
+  {
+   "id": "iwate_morioka",
+   "name_zh": "盛岡",
+   "name_ja": "盛岡",
+   "intro_zh": "岩手縣首府，位於北上川、雫石川與中津川匯流處的城下町，面朝岩手山。市內保留歷史建築，冷麵、炸醬麵與碗子蕎麥麵並稱盛岡三大麵，也是南部鐵器的產地。",
+   "items": {
+    "spot": {
+     "title_zh": "盛岡城跡公園",
+     "title_ja": "盛岡城跡公園",
+     "summary_zh": "南部氏居城的石垣遺跡與櫻花名所。",
+     "body_zh": "盛岡城是盛岡藩南部氏的居城，慶長年間（1598年）起築，花了數十年才完成，以花崗岩石垣聞名，沒有天守。明治後城池荒廢，現為岩手公園（盛岡城跡公園），春季染井吉野與石垣相映成趣，是市民賞櫻的名所。公園附近的地方裁判所前，還有從巨石縫中長出的名木「石割櫻」，可一併走訪。春季賞櫻之外，夏日綠蔭與秋日紅葉也各有風情，登上石垣上方可望見岩手山，是市區輕鬆的歷史散步路線。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "盛岡市內丸"
+      },
+      {
+       "label": "築城",
+       "value": "慶長年間（約1598年起）"
+      },
+      {
+       "label": "特色",
+       "value": "花崗岩石垣"
+      },
+      {
+       "label": "現況",
+       "value": "岩手公園"
+      }
+     ],
+     "best_season_zh": "4月下旬櫻花、秋季紅葉",
+     "tips_zh": "公園就在市中心，可步行；石垣高處有觀景台，傍晚視野佳，也可順道逛附近的歷史建築。",
+     "tags": [
+      "城跡",
+      "石垣",
+      "櫻花",
+      "盛岡"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/%E7%9B%9B%E5%B2%A1%E5%9F%8E",
+      "https://iwatetabi.jp/"
+     ],
+     "confidence": "medium",
+     "prompt_en": "Morioka Castle ruins with massive granite stone walls surrounded by cherry blossoms, spring morning light, wide view"
+    },
+    "food": {
+     "title_zh": "盛岡冷麵與炸醬麵",
+     "title_ja": "盛岡冷麺・盛岡じゃじゃ麺",
+     "summary_zh": "盛岡三大麵中最具特色的兩種。",
+     "body_zh": "盛岡冷麵以彈牙的透明麵條、辣泡菜與牛骨湯頭聞名；盛岡炸醬麵（じゃじゃ麺）則是在平麵上淋上味噌肉醬、小黃瓜與薑，吃完後可打入蛋加湯成「ちいたんたん」收尾。炸醬麵由「白龍」創始人在旅居滿洲後改良而成，約1950年代開始供應。兩者常被遊客一同品嚐，市內有多家專門店。盛岡市區有多家專門店，從老店到新店都有，旅客可依喜好挑選，也能和碗子蕎麥麵組合成三大麵巡禮。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "盛岡市"
+      },
+      {
+       "label": "冷麵",
+       "value": "1954年食道園"
+      },
+      {
+       "label": "炸醬麵",
+       "value": "白龍（約1953年創業）"
+      },
+      {
+       "label": "特色",
+       "value": "收尾打蛋加湯"
+      }
+     ],
+     "best_season_zh": "全年",
+     "tips_zh": "炸醬麵可依喜好加辣油、大蒜與醋；收尾時請務必試試「ちいたんたん」，通常需另外點單。",
+     "tags": [
+      "冷麵",
+      "炸醬麵",
+      "盛岡",
+      "麵食"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/%E7%9B%9B%E5%B2%A1%E5%86%B7%E9%BA%BA",
+      "https://ja.wikipedia.org/wiki/%E7%9B%9B%E5%B2%A1%E3%81%98%E3%82%83%E3%81%98%E3%82%83%E9%BA%BA"
+     ],
+     "confidence": "medium",
+     "prompt_en": "Plate of Morioka jajamen flat noodles topped with miso meat sauce, cucumber and ginger next to a bowl of cold noodles, warm restaurant light, top-down view"
+    },
+    "scenery": {
+     "title_zh": "岩手山與北上川",
+     "title_ja": "岩手山と北上川",
+     "summary_zh": "盛岡市內可遠眺的南部富士與河景。",
+     "body_zh": "岩手山海拔2,038公尺，是岩手縣最高峰，山形端正，被稱為「南部片富士」，從盛岡市區許多地方都能遠眺。北上川流經市區，河畔有開運橋、散步道等，春季櫻花、夏季綠蔭、秋季紅葉與冬季雪山都有不同面貌。晴天傍晚時，岩手山與河面倒映的景色最受攝影者喜愛。河畔的散步道平坦好走，傍晚時分炊煙、街燈與山影交織，是在地人日常的風景，也是拍攝市區的好角度。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "盛岡市、滝沢市、八幡平市"
+      },
+      {
+       "label": "山高",
+       "value": "2,038公尺"
+      },
+      {
+       "label": "河流",
+       "value": "北上川"
+      },
+      {
+       "label": "景點",
+       "value": "開運橋"
+      }
+     ],
+     "best_season_zh": "全年；晴天傍晚",
+     "tips_zh": "開運橋是看岩手山的經典位置；登山請查詢火山警戒資訊，並依季節調整裝備。",
+     "tags": [
+      "岩手山",
+      "北上川",
+      "河景",
+      "盛岡"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/%E5%B2%A9%E6%89%8B%E5%B1%B1",
+      "https://ja.wikipedia.org/wiki/%E5%8C%97%E4%B8%8A%E5%B7%9D"
+     ],
+     "confidence": "medium",
+     "prompt_en": "Mount Iwate with a clean cone shape rising over Kitakami River in Morioka at sunset, calm water reflecting orange sky, wide shot"
+    }
+   }
+  },
+  {
+   "id": "iwate_hiraizumi",
+   "name_zh": "平泉",
+   "name_ja": "平泉",
+   "intro_zh": "12世紀奧州藤原氏的政治與信仰中心，2011年登錄世界遺產。中尊寺、毛越寺與無量光院跡等遺跡呈現佛國淨土的理想，如今是寧靜而富有歷史氣息的小鎮。",
+   "items": {
+    "spot": {
+     "title_zh": "中尊寺金色堂",
+     "title_ja": "中尊寺金色堂",
+     "summary_zh": "貼滿金箔的平安時代佛堂。",
+     "body_zh": "金色堂位於中尊寺境內，是藤原清衡於1124年建立的阿彌陀堂，內外貼金箔，內部以螺鈿與蒔繪裝飾，是平安時代佛教美術的代表作。堂內安置奧州藤原氏四代的遺體與佛像。現在建築被保護在新覆堂中，隔玻璃觀賞。中尊寺還有讚衡藏收藏大量佛像與經典，參拜時可一併參觀。參拜後可順遊境內的其他堂宇，如能樂舞台與經藏，了解中尊寺在平安時代作為東北佛教中心的角色。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "平泉町衣關"
+      },
+      {
+       "label": "建成",
+       "value": "1124年"
+      },
+      {
+       "label": "建造者",
+       "value": "藤原清衡"
+      },
+      {
+       "label": "特色",
+       "value": "金箔、螺鈿、蒔繪"
+      }
+     ],
+     "best_season_zh": "4月至11月",
+     "tips_zh": "坡道參道需步行約20分鐘，建議穿好走的鞋；金色堂內禁止拍照，請遵守規定。",
+     "tags": [
+      "金色堂",
+      "中尊寺",
+      "世界遺產",
+      "佛堂"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/%E4%B8%AD%E5%B0%8A%E5%AF%BA%E9%87%91%E8%89%B2%E5%A0%82",
+      "https://www.chusonji.or.jp/"
+     ],
+     "confidence": "high",
+     "prompt_en": "Konjikido Golden Hall inside its protective hall at Chusonji, glowing gold leaf, cedar trees, soft light, close view"
+    },
+    "food": {
+     "title_zh": "平泉餅料理",
+     "title_ja": "平泉餅料理",
+     "summary_zh": "以餅為主角的傳統宴客料理。",
+     "body_zh": "平泉一帶自古以來有「餅料理」的飲食文化，在婚喪喜慶與年節時用糯米製成各種餅招待賓客。常見的有胡桃餅、納豆餅、蘿蔔泥餅、芝麻餅等，口味從甜到鹹，一套約有十多種。傳說這一習俗來自奧州藤原氏的宴客，如今平泉的餐廳可品嚐這種傳統料理。在平泉的餐廳，一套餅料理常附上小菜與湯品，口感軟糯，味道偏清爽，適合在參拜後的午餐享用。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "平泉町、一關市一帶"
+      },
+      {
+       "label": "特色",
+       "value": "多種餅的宴客料理"
+      },
+      {
+       "label": "口味",
+       "value": "胡桃、納豆、蘿蔔泥、芝麻"
+      },
+      {
+       "label": "場合",
+       "value": "慶典與年節"
+      }
+     ],
+     "best_season_zh": "全年",
+     "tips_zh": "一套餅料理分量大，可兩三人共享；部分店舖需預約，營業時間與休息日請事先確認。",
+     "tags": [
+      "餅料理",
+      "平泉",
+      "鄉土料理",
+      "糯米"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/%E5%B9%B3%E6%B3%89%E7%94%BA"
+     ],
+     "confidence": "low",
+     "prompt_en": "Assorted mochi dishes in small lacquer bowls with walnut, natto and grated daikon toppings on a wooden tray, soft natural light, top-down view"
+    },
+    "scenery": {
+     "title_zh": "毛越寺淨土庭園",
+     "title_ja": "毛越寺",
+     "summary_zh": "以淨土思想打造的池泉庭園。",
+     "body_zh": "毛越寺是平安時代由慈覺大師開山、藤原基衡與秀衡擴建的古剎。大泉池為中心的淨土庭園，保留平安時代的池泉造景，池水中映照松林與石組，被指定為特別史蹟與特別名勝。初夏的菖蒲花開，秋季紅葉，舊時殿堂雖已不存，但遺跡足以想像當年的規模。寺中常舉行「曲水之宴」等傳統活動。寺內還有保存良好的建築與古蹟，如本堂、開山堂等，與庭園一起構成完整的寺院風貌，值得慢慢參觀。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "平泉町大沢"
+      },
+      {
+       "label": "庭園",
+       "value": "大泉池淨土庭園"
+      },
+      {
+       "label": "指定",
+       "value": "特別史蹟、特別名勝"
+      },
+      {
+       "label": "活動",
+       "value": "曲水之宴"
+      }
+     ],
+     "best_season_zh": "6月菖蒲、10月紅葉",
+     "tips_zh": "庭園平坦易行，約需1小時；曲水之宴等活動的舉辦日期需先查詢，不同季節入場費用可能不同。",
+     "tags": [
+      "庭園",
+      "毛越寺",
+      "淨土",
+      "世界遺產"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/%E6%AF%9B%E8%B6%8A%E5%AF%BA"
+     ],
+     "confidence": "medium",
+     "prompt_en": "Moutsuji Jodo garden with a large pond reflecting pine trees and stone arrangements, irises blooming, soft morning light, wide view"
+    }
+   }
+  },
+  {
+   "id": "iwate_tono",
+   "name_zh": "遠野",
+   "name_ja": "遠野",
+   "intro_zh": "位於岩手縣內陸山間，因柳田國男《遠野物語》而聞名的民俗之鄉。曲家農舍、河童與座敷童子等傳說融入田園風景，也盛產啤酒花與成吉思汗烤羊肉。",
+   "items": {
+    "spot": {
+     "title_zh": "遠野傳說之里",
+     "title_ja": "とおの昔話村",
+     "summary_zh": "重現曲家農舍與民間傳說的主題村。",
+     "body_zh": "遠野傳說之里是遠野的觀光設施，整理了遠野流傳的民間故事、民俗與曲家（L字型農舍）建築。所謂「曲家」是主屋與馬廄相連成L形的農家，讓人與馬同屋共居。遠野流傳河童、座敷童子與山神等傳說，柳田國男於1910年出版《遠野物語》而使其廣為人知。設施內提供說書、手作體驗與傳統料理。園內還有水車小屋、傳統工藝體驗與餐廳，適合半日停留，了解遠野人如何透過故事與農村生活相處。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "遠野市"
+      },
+      {
+       "label": "特色",
+       "value": "曲家、傳說、說書"
+      },
+      {
+       "label": "文獻",
+       "value": "柳田國男《遠野物語》（1910年）"
+      },
+      {
+       "label": "體驗",
+       "value": "民間故事、手作"
+      }
+     ],
+     "best_season_zh": "春至秋",
+     "tips_zh": "說書多為日語，可先閱讀簡介再參加；部分體驗需預約，建議以巴士或租車前往。",
+     "tags": [
+      "遠野",
+      "傳說",
+      "曲家",
+      "民俗"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/%E9%81%A0%E9%87%8E%E7%89%A9%E8%AA%9E",
+      "https://ja.wikipedia.org/wiki/%E9%81%A0%E9%87%8E%E5%B8%82"
+     ],
+     "confidence": "medium",
+     "prompt_en": "Traditional Tono magariya L-shaped thatched farmhouse in a green valley with rice fields, soft evening light, wide view"
+    },
+    "food": {
+     "title_zh": "成吉思汗烤羊肉",
+     "title_ja": "ジンギスカン",
+     "summary_zh": "遠野以羊肉聞名的鐵板烤肉。",
+     "body_zh": "成吉思汗烤羊肉是以特殊的凸起鐵板烤羊肉與蔬菜的料理，在北海道最為人知，遠野也有悠久的羊肉食用文化，當地以醬汁或味噌醃製的羊肉聞名。遠野的特色店會用炭火烤，搭配蔬菜與當地啤酒。遠野也是日本重要的啤酒花產地，當地啤酒搭配烤肉是絕配。店家會依季節提供不同醬汁與配菜，遠野的羊肉口味與北海道略有差異，值得與當地啤酒一起品嚐。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "遠野市"
+      },
+      {
+       "label": "食材",
+       "value": "羊肉、蔬菜"
+      },
+      {
+       "label": "烤法",
+       "value": "凸起鐵板或炭火"
+      },
+      {
+       "label": "搭配",
+       "value": "遠野產啤酒花啤酒"
+      }
+     ],
+     "best_season_zh": "全年",
+     "tips_zh": "烤肉煙較大，衣服會沾味，穿著要留意；人氣店建議預約，晚餐時段尤其熱門。",
+     "tags": [
+      "烤羊肉",
+      "成吉思汗",
+      "遠野",
+      "鄉土料理"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%B3%E3%82%AE%E3%82%B9%E3%82%AB%E3%83%B3_%28%E6%96%99%E7%90%86%29"
+     ],
+     "confidence": "low",
+     "prompt_en": "Sizzling lamb and vegetables on a dome-shaped jingisukan grill pan with charcoal fire and steam, rustic restaurant, warm lighting, close-up"
+    },
+    "scenery": {
+     "title_zh": "河童淵",
+     "title_ja": "カッパ淵",
+     "summary_zh": "遠野傳說中河童出沒的溪淵。",
+     "body_zh": "河童淵位於遠野市土淵町，常堅寺旁的小川溪淵，傳說河童會在這裡出沒，據說牠們喜歡惡作劇。這裡的河童在《遠野物語》中也有記載。溪邊有一座河童祠，旁邊有河童像，釣黃瓜是一項特別的體驗，遊客可用黃瓜作餌，試著在溪邊釣河童。祠堂旁的溪流水聲潺潺，樹蔭涼爽，與傳說交織出獨特的氣氛。拜訪時建議保持安靜，不要隨意丟棄垃圾。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "遠野市土淵町"
+      },
+      {
+       "label": "傳說",
+       "value": "河童出沒溪淵"
+      },
+      {
+       "label": "特色",
+       "value": "河童祠、黃瓜釣河童"
+      },
+      {
+       "label": "文獻",
+       "value": "遠野物語"
+      }
+     ],
+     "best_season_zh": "夏季至初秋",
+     "tips_zh": "溪邊濕滑，需穿防滑鞋；請尊重祠堂的信仰性質，並遵守現場的指示標誌。",
+     "tags": [
+      "河童",
+      "傳說",
+      "溪淵",
+      "遠野"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%83%E3%83%91%E6%B7%B5",
+      "https://ja.wikipedia.org/wiki/%E9%81%A0%E9%87%8E%E7%89%A9%E8%AA%9E"
+     ],
+     "confidence": "medium",
+     "prompt_en": "Kappa-buchi quiet stream pool in Tono with a small shrine and a kappa statue, mossy stones, dappled forest light, wide shot"
+    }
+   }
+  },
+  {
+   "id": "iwate_sanriku",
+   "name_zh": "三陸海岸",
+   "name_ja": "三陸海岸",
+   "intro_zh": "岩手縣東部的鋸齒狀海岸，屬三陸復興國立公園，擁有斷崖、白色岩礁與豐富漁場。2011年大地震曾受災，如今海產、觀光與紀念設施並重。",
+   "items": {
+    "spot": {
+     "title_zh": "淨土濱",
+     "title_ja": "浄土ヶ浜",
+     "summary_zh": "白色流紋岩與碧海的三陸名勝。",
+     "body_zh": "淨土濱位於宮古市，是三陸復興國立公園的代表景點。白色流紋岩與松樹，加上清澈碧綠的海水，宛如佛教的淨土世界。遊客可乘船出海，欣賞海蝕洞與岩礁，也可在海灘散步。夏季是熱門的海水浴場，日出與夕陽時分的景色尤其動人。除了風景，周邊也設有展示館介紹海岸的形成與震災後的復興，讓遊客在觀光的同時了解區域歷史。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "宮古市"
+      },
+      {
+       "label": "景觀",
+       "value": "白色流紋岩、松林"
+      },
+      {
+       "label": "公園",
+       "value": "三陸復興國立公園"
+      },
+      {
+       "label": "活動",
+       "value": "遊覽船"
+      }
+     ],
+     "best_season_zh": "夏季、日出時分",
+     "tips_zh": "船班依海況與季節調整，出發前請先查詢；日出前後光線好，適合攝影。",
+     "tags": [
+      "淨土濱",
+      "三陸",
+      "海岸",
+      "宮古"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/%E6%B5%84%E5%9C%9F%E3%83%B6%E6%B5%9C"
+     ],
+     "confidence": "medium",
+     "prompt_en": "Jodogahama white rhyolite rocks and pine trees with turquoise water at sunrise, Sanriku coast, calm sea, wide shot"
+    },
+    "food": {
+     "title_zh": "海膽與鮑魚",
+     "title_ja": "ウニ・アワビ",
+     "summary_zh": "三陸冷水域孕育的高級海味。",
+     "body_zh": "三陸海岸的冷暖流交會，孕育出豐富漁場，海膽與鮑魚尤其著名。夏季是海膽的盛產期，久慈、宮古等地有「開口」制度，限定採捕日期以保護資源。海膽可直接生吃、做成丼飯，鮑魚則可做成刺身、燒烤或酒蒸。岩手的另一知名海味是「海女」文化，久慈的小袖海岸仍可看到海女潛水。餐廳與魚市場提供海膽丼、鮑魚燒與各式生魚片，產季到來時，港邊食堂與民宿料理最能體驗當地鮮味。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "三陸沿岸（久慈、宮古等）"
+      },
+      {
+       "label": "食材",
+       "value": "海膽、鮑魚"
+      },
+      {
+       "label": "盛產",
+       "value": "夏季為海膽期"
+      },
+      {
+       "label": "制度",
+       "value": "限定採捕日期"
+      }
+     ],
+     "best_season_zh": "6月至8月",
+     "tips_zh": "採捕日期有限，造訪前確認海膽解禁日；鮮度高但價格依漁獲而異，建議事先預算。",
+     "tags": [
+      "海膽",
+      "鮑魚",
+      "海鮮",
+      "三陸"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/%E3%82%A6%E3%83%8B",
+      "https://ja.wikipedia.org/wiki/%E4%B8%89%E9%99%B8%E6%B5%B7%E5%B2%B8"
+     ],
+     "confidence": "low",
+     "prompt_en": "Fresh sea urchin and abalone on a plate at a Sanriku harbor restaurant, glistening texture, ocean in the background, warm light, close-up"
+    },
+    "scenery": {
+     "title_zh": "北山崎斷崖",
+     "title_ja": "北山崎",
+     "summary_zh": "三陸海岸最具代表性的海蝕斷崖。",
+     "body_zh": "北山崎位於田野畑村，是三陸海岸最具代表性的景勝地，海蝕斷崖綿延約8公里，最高可達約200公尺。斷崖、岩礁與海蝕洞交織，被稱為「海的阿爾卑斯」。設有觀景台，可沿步道欣賞。遊客也可乘船從海上仰望斷崖，壯觀程度不同。沿岸另有步道與觀景台，視野遼闊，是欣賞三陸海岸地形的好地點；遊客亦可選擇搭乘遊覽船從海面欣賞。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "下閉伊郡田野畑村"
+      },
+      {
+       "label": "長度",
+       "value": "約8公里"
+      },
+      {
+       "label": "斷崖高度",
+       "value": "最高約200公尺"
+      },
+      {
+       "label": "暱稱",
+       "value": "海的阿爾卑斯"
+      }
+     ],
+     "best_season_zh": "5月至10月",
+     "tips_zh": "觀景台風大，需防風外套；霧天視野差，行前確認天氣與道路是否通行。",
+     "tags": [
+      "斷崖",
+      "海蝕",
+      "北山崎",
+      "三陸"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/%E5%8C%97%E5%B1%B1%E5%B4%8E",
+      "https://ja.wikipedia.org/wiki/%E4%B8%89%E9%99%B8%E6%B5%B7%E5%B2%B8"
+     ],
+     "confidence": "medium",
+     "prompt_en": "Kitayamazaki towering sea cliffs along the Sanriku coast, jagged rock formations, deep blue ocean, clear sky, wide shot"
+    }
+   }
+  }
+ ]
+}

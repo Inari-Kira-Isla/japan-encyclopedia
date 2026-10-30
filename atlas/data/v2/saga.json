@@ -1,0 +1,842 @@
+{
+ "id": "saga",
+ "name_zh": "佐賀",
+ "name_ja": "佐賀",
+ "region": "九州",
+ "overview": {
+  "intro_zh": "佐賀縣位於九州西北部，北面玄界灘、南面有明海，面積約2,441平方公里，人口約78萬，是九州面積最小的縣之一。縣廳設於佐賀市。縣內歷史遺跡豐富，吉野里遺跡是彌生時代代表；有田燒是日本瓷器的發祥地之一；嬉野以溫泉與茶聞名；佐賀牛是嚴格認定的和牛品牌。有明海的海苔產量位居全國前列，每年秋天的熱氣球節吸引大批遊客。縣內以平原為主，生活步調悠閒，是九州北部不可忽略的低調名所。",
+  "capital_zh": "佐賀市",
+  "area_km2": 2441,
+  "population_approx": "約78萬",
+  "flower_zh": "樟樹之花",
+  "bird_zh": "喜鵲",
+  "tree_zh": "樟樹",
+  "climate_zh": "氣候溫和多雨，夏季悶熱，冬季較暖；北部沿海多雲，山區冬季偶降雪。",
+  "access_zh": "佐賀機場有航班往返東京、大阪；JR長崎線、九州新幹線（嬉野溫泉、武雄溫泉）連結博多。",
+  "specialties_zh": [
+   "佐賀牛",
+   "有田燒",
+   "嬉野茶",
+   "海苔",
+   "呼子烏賊",
+   "佐賀米"
+  ],
+  "best_season_zh": "秋季（10—11月）熱氣球節；春季4—5月陶瓷市集與新茶"
+ },
+ "items": {
+  "architecture": {
+   "title_zh": "吉野里遺跡",
+   "title_ja": "吉野ヶ里遺跡",
+   "summary_zh": "彌生時代大型環壕聚落，復原有望樓與高床倉庫。",
+   "body_zh": "吉野里遺跡位於佐賀縣神埼郡與吉野ヶ里町，是日本彌生時代（約公元前3世紀至公元3世紀）的大型環壕聚落。聚落以內外兩重壕溝圍繞，外壕長約2.5公里，內部有北內郭、南內郭，包含豎穴住居、高床式建築、祭祀空間與望樓。1986年起進行系統調查，1989年媒體大幅報導後引起全國關注，1991年被指定為特別史跡。現為國營吉野ヶ里歷史公園（2001年開園），復原建築可供入內參觀，並有彌生生活體驗。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "佐賀縣吉野ヶ里町、神埼市"
+    },
+    {
+     "label": "年代",
+     "value": "彌生時代"
+    },
+    {
+     "label": "外壕",
+     "value": "約2.5公里"
+    },
+    {
+     "label": "指定",
+     "value": "特別史跡（1991年）"
+    }
+   ],
+   "best_season_zh": "春與秋；晴天下午",
+   "tips_zh": "園區廣大，建議租借導覽或預留半天；夏天陽光強，需防曬。",
+   "tags": [
+    "考古遺址",
+    "彌生時代",
+    "環壕聚落",
+    "歷史公園"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/%E5%90%89%E9%87%8E%E3%83%B6%E9%87%8C%E9%81%BA%E8%B7%A1",
+    "https://en.wikipedia.org/wiki/Yoshinogari_site"
+   ],
+   "confidence": "high",
+   "prompt_en": "A reconstructed Yayoi village with thatched pit dwellings, raised-floor storehouses and a wooden watchtower surrounded by a moat, green field, blue sky"
+  },
+  "food": {
+   "title_zh": "佐賀牛",
+   "title_ja": "佐賀牛",
+   "summary_zh": "嚴格等級的黑毛和牛，油花細緻。",
+   "body_zh": "佐賀牛是佐賀縣的和牛品牌，指由JA佐賀等體系內肥育農家飼養的黑毛和種，並要求肉質等級為5，或為4且BMS（脂肪交雜）達No.7以上。1984年開始商業銷售，2000年完成商標登錄。牛隻約飼養30個月出貨，肉質柔軟，油花細膩，入口即化。主要產地包括伊萬里市與武雄市一帶。可在縣內餐廳以壽喜燒、鐵板燒或燒肉品嚐，價格因部位與等級而異。縣內壽喜燒、鐵板燒與燒肉專賣店眾多，午餐套餐比晚餐划算，是品嚐頂級和牛的實惠方式；也可在道之驛買到肉品與加工品當伴手禮。",
+   "facts": [
+    {
+     "label": "認定",
+     "value": "等級5，或等級4且BMS No.7以上"
+    },
+    {
+     "label": "品種",
+     "value": "黑毛和種"
+    },
+    {
+     "label": "銷售",
+     "value": "1984年起"
+    },
+    {
+     "label": "商標",
+     "value": "2000年登錄"
+    }
+   ],
+   "best_season_zh": "全年",
+   "tips_zh": "選擇縣內專賣店可吃到較新鮮的部位；午餐套餐通常較划算。",
+   "tags": [
+    "和牛",
+    "品牌牛",
+    "霜降",
+    "高級食材"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/%E4%BD%90%E8%B3%80%E7%89%9B"
+   ],
+   "confidence": "high",
+   "prompt_en": "Thin slices of marbled beef grilling on a hot iron plate with vegetables, glossy shine, close-up food photography"
+  },
+  "culture": {
+   "title_zh": "有田燒",
+   "title_ja": "有田焼",
+   "summary_zh": "日本最早的瓷器之一，青花與色繪聞名。",
+   "body_zh": "有田燒是佐賀縣有田町一帶燒製的瓷器，相傳由朝鮮陶工李參平在17世紀初發現瓷石後開窯，1616年被視為起點，此說也有歷史學者質疑。早期以青花（染付）為主，17世紀中葉發展出色彩鮮豔的色繪。經長崎，由荷蘭東印度公司大量出口歐洲，被稱為「伊萬里」，並促使中國與歐洲仿製。相關樣式包括鍋島、柿右衛門等。每年黃金週的有田陶瓷市集吸引眾多遊客。有田的老街與窯元可預約參觀，也可體驗彩繪陶盤；選購時留意是否適用微波爐與洗碗機，以及有田燒與伊萬里燒的差異。",
+   "facts": [
+    {
+     "label": "產地",
+     "value": "佐賀縣有田町"
+    },
+    {
+     "label": "相傳起點",
+     "value": "1616年（李參平，有爭議）"
+    },
+    {
+     "label": "特色",
+     "value": "青花、色繪"
+    },
+    {
+     "label": "外銷",
+     "value": "經長崎、荷蘭東印度公司"
+    }
+   ],
+   "best_season_zh": "4月底至5月初陶瓷市集",
+   "tips_zh": "有田內山的老街可逛窯元與店鋪；挑選時問清楚是否可用於微波爐與洗碗機。",
+   "tags": [
+    "陶瓷",
+    "傳統工藝",
+    "青花",
+    "外銷"
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Arita_ware",
+    "https://ja.wikipedia.org/wiki/%E6%9C%89%E7%94%B0%E7%84%BC"
+   ],
+   "confidence": "medium",
+   "prompt_en": "A rack of hand-painted porcelain plates in cobalt blue and red patterns in a kiln workshop, warm light, no people in focus"
+  },
+  "history": {
+   "title_zh": "唐津城",
+   "title_ja": "唐津城",
+   "summary_zh": "面向海岸的白色天守，別名舞鶴城。",
+   "body_zh": "唐津城位於佐賀縣唐津市，由唐津藩主寺澤廣高在關原之戰後築造，1602年至1608年完成，因形如鶴展翅而別名「舞鶴城」。它是平山城，石垣直接面向海，海水形成天然護城。江戶時代並未有正式天守，現存五層天守為1966年重建，現作資料館。登上天守可眺望唐津灣與虹之松原，春天櫻花與藤花盛開，是唐津市的象徵景色。城下有唐津神社與老街，可與天守、虹之松原串連成半日行程。春天櫻花盛開，夜間有點燈，氣氛與白天不同，也有人在此賞日落。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "佐賀縣唐津市"
+    },
+    {
+     "label": "築造",
+     "value": "1602—1608年"
+    },
+    {
+     "label": "築造者",
+     "value": "寺澤廣高"
+    },
+    {
+     "label": "天守",
+     "value": "1966年重建"
+    }
+   ],
+   "best_season_zh": "3月底至4月初櫻花",
+   "tips_zh": "天守頂層可看海岸與松原；從唐津站步行約15分鐘。",
+   "tags": [
+    "城郭",
+    "舞鶴城",
+    "海景",
+    "櫻花"
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Karatsu_Castle"
+   ],
+   "confidence": "high",
+   "prompt_en": "A white castle keep on a small hill beside a pine-lined beach and the sea, clear day, wide shot"
+  },
+  "mascot": {
+   "title_zh": "佐賀的吉祥物與縣花縣鳥",
+   "title_ja": "佐賀県のシンボルと吉祥物",
+   "summary_zh": "以縣鳥喜鵲與樟樹為靈感，創作原創角色。",
+   "body_zh": "日本各縣市多設有地方吉祥物，佐賀縣內亦有各市町的角色。本欄不列舉特定官方吉祥物，以免誤植；改以已核實的縣級象徵為靈感：縣鳥是喜鵲（カササギ），縣花與縣樹都是樟樹（クスノキ）。喜鵲在佐賀平原是代表性的鳥類。圖像將設計一個結合喜鵲與有田燒藍白花紋的可愛角色，原創、不模仿任何已註冊商標的現有吉祥物。縣內道之驛與車站常販售喜鵲或佐賀特產造型的周邊商品，可作為角色設計的參考素材。",
+   "facts": [
+    {
+     "label": "縣鳥",
+     "value": "喜鵲（カササギ）"
+    },
+    {
+     "label": "縣花",
+     "value": "樟樹之花"
+    },
+    {
+     "label": "縣樹",
+     "value": "樟樹"
+    },
+    {
+     "label": "備註",
+     "value": "官方吉祥物未核實"
+    }
+   ],
+   "best_season_zh": "全年",
+   "tips_zh": "各地道の駅常販售當地角色周邊，可順便尋找。",
+   "tags": [
+    "吉祥物",
+    "喜鵲",
+    "樟樹",
+    "原創角色"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/%E4%BD%90%E8%B3%80%E7%9C%8C"
+   ],
+   "confidence": "low",
+   "prompt_en": "An original cute character inspired by a magpie in black and white feathers wearing a tiny blue-and-white porcelain pattern scarf, not replicating any existing trademarked mascot"
+  },
+  "scenery": {
+   "title_zh": "虹之松原",
+   "title_ja": "虹の松原",
+   "summary_zh": "沿海黑松林，日本三大松原之一。",
+   "body_zh": "虹之松原位於唐津灣，長約4.5公里、寬約500公尺，面積約216公頃，約有一百萬株黑松呈弧形排列。17世紀初由唐津藩主寺澤廣高為防風防沙而栽種，江戶時代稱「二里松原」，名稱在明治時代改為現在稱呼。它被指定為特別名勝，並與靜岡三保松原、福井氣比松原合稱日本三大松原。從唐津城可遠眺全景，林間可散步或騎單車。松林中有步道與自行車道，沿海一側有海水浴場與沙灘，夏季適合游泳與野餐。若想拍攝全景，可到鏡山展望台，從高處俯瞰弧形海岸。",
+   "facts": [
+    {
+     "label": "長度",
+     "value": "約4.5公里"
+    },
+    {
+     "label": "松樹",
+     "value": "約100萬株黑松"
+    },
+    {
+     "label": "栽種",
+     "value": "17世紀初，寺澤廣高"
+    },
+    {
+     "label": "指定",
+     "value": "特別名勝"
+    }
+   ],
+   "best_season_zh": "全年；晴天海岸景色佳",
+   "tips_zh": "可從唐津城天守或鏡山展望台眺望弧形松林；單車租借便利。",
+   "tags": [
+    "松原",
+    "海岸",
+    "名勝",
+    "唐津"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/%E8%99%B9%E3%81%AE%E6%9D%BE%E5%8E%9F"
+   ],
+   "confidence": "high",
+   "prompt_en": "A long pine forest along a curved bay with soft morning light and white sand, aerial view"
+  },
+  "spot": {
+   "title_zh": "嬉野溫泉",
+   "title_ja": "嬉野温泉",
+   "summary_zh": "日本三大美肌之湯之一，湯質滑潤。",
+   "body_zh": "嬉野溫泉位於佐賀縣嬉野市，被稱為日本三大美肌之湯之一。泉質為碳酸氫鈉‧氯化物泉，pH約7.8，泡後肌膚有滑潤感。最早記載見於奈良時代的《肥前國風土記》，稱能治「萬人之病」。這裡也以溫泉水煮的湯豆腐與釜炒茶聞名，豆腐因溫泉水的弱鹼性而軟滑。九州新幹線設有嬉野溫泉站，從博多出發交通方便，市內約有四十家以上溫泉設施。旅館多附有私人湯屋與大浴場，並提供湯豆腐與當地茶；溫泉街也有足湯與藝術景點，適合散步，白天與傍晚的氣氛各有不同。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "佐賀縣嬉野市"
+    },
+    {
+     "label": "泉質",
+     "value": "碳酸氫鈉‧氯化物泉，pH約7.8"
+    },
+    {
+     "label": "名物",
+     "value": "溫泉湯豆腐、釜炒茶"
+    },
+    {
+     "label": "交通",
+     "value": "九州新幹線嬉野溫泉站"
+    }
+   ],
+   "best_season_zh": "秋至冬；氣溫低更適合泡湯",
+   "tips_zh": "泡湯後可到茶園或茶店試飲釜炒茶；選擇住宿可含溫泉湯豆腐套餐。",
+   "tags": [
+    "溫泉",
+    "美肌",
+    "湯豆腐",
+    "茶"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/%E5%AC%89%E9%87%8E%E6%B8%A9%E6%B3%89",
+    "https://en.wikipedia.org/wiki/Ureshino%2C_Saga"
+   ],
+   "confidence": "high",
+   "prompt_en": "A steaming outdoor hot spring bath beside green tea fields with mist and soft lantern light, evening mood"
+  },
+  "experience": {
+   "title_zh": "佐賀熱氣球節",
+   "title_ja": "佐賀インターナショナルバルーンフェスタ",
+   "summary_zh": "亞洲規模最大的熱氣球盛會。",
+   "body_zh": "佐賀國際熱氣球節於每年10月底至11月初在佐賀市嘉瀬川河岸舉行。活動起源於1978年，最初在福岡縣甘木舉辦，1980年遷到佐賀。2023年約有90.7萬名觀眾，自遷址以來累計超過一千萬人。活動包含競賽、清晨升空與夜間「夜之氣球」展示，並曾舉辦世界錦標賽，吸引近四十個國家與地區的選手參加。清晨的天空被繽紛氣球填滿，是秋季佐賀的象徵。活動期間有清晨升空、競技與夜間展示，並設有美食攤位與接駁交通；人潮龐大，住宿需提早預訂，參觀時請依主辦方指示。",
+   "facts": [
+    {
+     "label": "地點",
+     "value": "佐賀市嘉瀬川河岸"
+    },
+    {
+     "label": "時間",
+     "value": "每年10月底至11月初"
+    },
+    {
+     "label": "起源",
+     "value": "1978年，1980年遷佐賀"
+    },
+    {
+     "label": "觀眾",
+     "value": "2023年約90.7萬人"
+    }
+   ],
+   "best_season_zh": "10月底至11月初",
+   "tips_zh": "清晨氣球升空最壯觀，需早起；賽事期間交通管制，建議搭乘接駁巴士。",
+   "tags": [
+    "熱氣球",
+    "祭典",
+    "秋季",
+    "嘉瀬川"
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Saga_International_Balloon_Fiesta"
+   ],
+   "confidence": "high",
+   "prompt_en": "Dozens of colorful hot-air balloons rising over a river plain at sunrise, crowds below, crisp blue sky"
+  },
+  "costume": {
+   "title_zh": "有田窯匠工作服",
+   "title_ja": "有田の窯元の装い",
+   "summary_zh": "窯匠身穿藍染工作服，在轆轤前工作。",
+   "body_zh": "有田的窯元（窯場）是製作瓷器的作坊，工匠在轆轤前拉坯、上釉與彩繪。傳統工作服常見藍染或素色圍裙，便於活動並耐髒，頭上繫手巾防止粉塵。有田燒自17世紀起外銷歐洲，窯元也是有田町歷史的一部分。這套裝束並無單一規範，圖像以匿名模特兒呈現職人形象。參觀窯元時可看到工匠示範，並有體驗課程可試做。部分窯元提供拉坯與彩繪體驗課程，參加者可穿著工作圍裙，親手製作自己的陶器；成品通常需數週後燒製完成並郵寄。",
+   "facts": [
+    {
+     "label": "場所",
+     "value": "有田町窯元"
+    },
+    {
+     "label": "工序",
+     "value": "拉坯、上釉、彩繪"
+    },
+    {
+     "label": "服裝",
+     "value": "藍染或素色圍裙、手巾"
+    },
+    {
+     "label": "體驗",
+     "value": "部分窯元開放"
+    }
+   ],
+   "best_season_zh": "全年；4月底陶瓷市集期間",
+   "tips_zh": "參觀窯元前先預約；工作坊內地板可能有粉塵，穿著易行動的衣服。",
+   "tags": [
+    "職人",
+    "陶藝",
+    "藍染",
+    "工作服"
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Arita_ware"
+   ],
+   "confidence": "low",
+   "prompt_en": "An anonymous potter in an indigo work apron and head towel at a pottery wheel in a workshop, soft daylight, hands shaping clay"
+  }
+ },
+ "areas": [
+  {
+   "id": "saga_karatsu",
+   "name_zh": "唐津",
+   "name_ja": "唐津",
+   "intro_zh": "唐津位於佐賀縣西北部，面向玄界灘，是古代與朝鮮半島、中國往來的港口。唐津城與虹之松原是代表景色，近郊的呼子以活烏賊料理聞名。唐津燒、唐津供日（秋祭）也具有傳統色彩，適合以城、海、美食串連行程。",
+   "items": {
+    "spot": {
+     "title_zh": "唐津城",
+     "title_ja": "唐津城",
+     "summary_zh": "面海的白色天守，別名舞鶴城。",
+     "body_zh": "唐津城建於1602年至1608年，由唐津藩主寺澤廣高所築，因其形狀如鶴展翅，亦稱舞鶴城。石垣直接浸入海水，視野開闊。現今天守為1966年重建的五層建築，內設資料館，展示唐津藩與唐津燒等歷史資料。登上天守頂樓，可遠眺唐津灣與綿延的松原。春季櫻花與藤花盛開，景色更佳。天守下的城下町有唐津神社與傳統商店街，與虹之松原相連，適合半日散步；城內夜間也有點燈，營造不同氣氛。",
+     "facts": [
+      {
+       "label": "築造",
+       "value": "1602—1608年"
+      },
+      {
+       "label": "別名",
+       "value": "舞鶴城"
+      },
+      {
+       "label": "天守",
+       "value": "1966年重建"
+      },
+      {
+       "label": "交通",
+       "value": "JR唐津站步行約15分鐘"
+      }
+     ],
+     "best_season_zh": "3月底至4月初櫻花",
+     "tips_zh": "傍晚登頂看夕陽與松原；城下町可順遊。",
+     "tags": [
+      "城郭",
+      "海景",
+      "舞鶴城",
+      "唐津"
+     ],
+     "sources": [
+      "https://en.wikipedia.org/wiki/Karatsu_Castle"
+     ],
+     "confidence": "high",
+     "prompt_en": "A castle on a coastal hill with a pine grove and the sea beyond, clear weather, wide shot"
+    },
+    "food": {
+     "title_zh": "呼子烏賊活造",
+     "title_ja": "呼子のイカ",
+     "summary_zh": "呼子町名物，透明的活烏賊生魚片。",
+     "body_zh": "呼子位於唐津市北部，是以烏賊聞名的漁港。「活造」指現點現殺，師傅在數十秒內處理完畢，端上桌時烏賊仍微微蠕動，肉質透明、口感爽脆帶甜。烏賊不耐溫度變化，需快速處理才能保持鮮度。吃完生魚片後，烏賊腳通常再炸成天婦羅或煮湯。呼子早市也是遊客熱門去處。呼子的早市每天清晨開市，賣海產與乾貨，遊客可順便品嚐新鮮烏賊與海鮮丼，是了解漁港日常的好地方。遊客也可買到乾燥烏賊與加工品作伴手禮，帶回家與家人分享。",
+     "facts": [
+      {
+       "label": "地點",
+       "value": "佐賀縣唐津市呼子町"
+      },
+      {
+       "label": "特色",
+       "value": "現點現殺、透明"
+      },
+      {
+       "label": "口感",
+       "value": "爽脆、帶甜"
+      },
+      {
+       "label": "後續",
+       "value": "腳部炸物或湯"
+      }
+     ],
+     "best_season_zh": "全年；夏季產季",
+     "tips_zh": "餐廳多需排隊，建議預約；部分人對活動的烏賊畫面可能不適。",
+     "tags": [
+      "烏賊",
+      "活造",
+      "漁港",
+      "海鮮"
+     ],
+     "sources": [
+      "https://www.mapple.net/collection/4b63f64c4180438eb34c5c297f1dd51b/"
+     ],
+     "confidence": "medium",
+     "prompt_en": "Translucent squid sashimi on a plate with its tentacles, fresh and glistening, lemon and soy dish beside it, close-up"
+    },
+    "scenery": {
+     "title_zh": "虹之松原",
+     "title_ja": "虹の松原",
+     "summary_zh": "約百萬株黑松呈弧形排列的海岸林。",
+     "body_zh": "虹之松原長約4.5公里、寬約500公尺，約有一百萬株黑松沿唐津灣呈弧形生長，從高處看如彩虹，故得名。17世紀初由寺澤廣高為防風沙而栽種，現為特別名勝，並是日本三大松原之一。松林中有步道與單車道，可以散步，夏季也有海水浴場。登鏡山展望台可看到完整的弧形海岸線。若想拍攝全景，可到鏡山展望台，或從唐津城天守眺望弧形海岸。夏季沙灘有海水浴場，秋季天氣涼爽，騎單車穿越松林也很舒適。",
+     "facts": [
+      {
+       "label": "長度",
+       "value": "約4.5公里"
+      },
+      {
+       "label": "松樹",
+       "value": "約100萬株"
+      },
+      {
+       "label": "指定",
+       "value": "特別名勝"
+      },
+      {
+       "label": "地位",
+       "value": "日本三大松原"
+      }
+     ],
+     "best_season_zh": "全年",
+     "tips_zh": "騎單車穿越松林舒適；登鏡山看全景更完整。",
+     "tags": [
+      "松原",
+      "海灘",
+      "名勝",
+      "唐津灣"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/%E8%99%B9%E3%81%AE%E6%9D%BE%E5%8E%9F"
+     ],
+     "confidence": "high",
+     "prompt_en": "A long curved pine grove along a sandy bay, aerial view, soft morning light and calm water"
+    }
+   }
+  },
+  {
+   "id": "saga_arita",
+   "name_zh": "有田",
+   "name_ja": "有田",
+   "intro_zh": "有田是日本瓷器的發祥地之一，17世紀起以「伊萬里燒」外銷歐洲。城鎮坐落在山谷中，窯煙與紅磚煙囪是特色。老街上有許多窯元與瓷器店，每年黃金週的陶瓷市集聚集百萬遊客。",
+   "items": {
+    "spot": {
+     "title_zh": "有田內山",
+     "title_ja": "有田内山",
+     "summary_zh": "瓷器之町，保存窯元老街與重要傳統建築群。",
+     "body_zh": "有田內山是有田町中保存江戶至昭和時期建築的老街，沿街有窯元、瓷器商店與古老洋館。街道兩側可看到以瓷片、窯具砌成的磚牆，稱為「トンバイ塀」。這裡曾是有田燒的商業中心，現今仍有許多店舖販售青花、色繪瓷器。街區適合步行，並可入內參觀窯元或體驗彩繪。每年黃金週的有田陶瓷市集有數百家店鋪出展，並有特價瓷器；平日則較安靜，可慢慢逛窯元與工房，也可預約繪製體驗。街區步行即可逛完，建議穿舒適鞋子並預留半日以上。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "佐賀縣有田町"
+      },
+      {
+       "label": "特色",
+       "value": "窯元老街、瓷片磚牆"
+      },
+      {
+       "label": "名物",
+       "value": "青花、色繪瓷器"
+      },
+      {
+       "label": "交通",
+       "value": "JR有田站步行"
+      }
+     ],
+     "best_season_zh": "4月底至5月初陶瓷市集",
+     "tips_zh": "市集期間人潮擁擠，建議提早到；購買瓷器可請店家包裝以防碎。",
+     "tags": [
+      "瓷器",
+      "老街",
+      "窯元",
+      "有田"
+     ],
+     "sources": [
+      "https://en.wikipedia.org/wiki/Arita_ware"
+     ],
+     "confidence": "low",
+     "prompt_en": "A porcelain town street with old kiln chimneys, shop fronts displaying plates, and a wall built of old kiln bricks, photorealistic"
+    },
+    "food": {
+     "title_zh": "有田燒餐具料理",
+     "title_ja": "有田焼の器",
+     "summary_zh": "以彩繪瓷器盛裝的料理。",
+     "body_zh": "在有田，許多餐廳使用當地製造的瓷器盛裝料理，青花與色繪的圖案襯托食物色彩。常見料理包括佐賀牛、湯豆腐與季節定食，並可在餐桌上近距離欣賞瓷器的細節。部分餐廳附設窯元商店，客人用餐後可直接購買同款器皿。這是將飲食與工藝結合的體驗。有田町的餐廳常把瓷器與料理搭配，客人可近距離欣賞器皿紋樣；部分店家兼營窯元商店，用餐後可購買同款餐具。店內常有說明牌介紹瓷器圖案與製作技法，用餐之餘也能增長見聞。",
+     "facts": [
+      {
+       "label": "特色",
+       "value": "瓷器盛裝料理"
+      },
+      {
+       "label": "器皿",
+       "value": "青花、色繪"
+      },
+      {
+       "label": "地點",
+       "value": "有田町餐廳"
+      },
+      {
+       "label": "延伸",
+       "value": "可買同款器皿"
+      }
+     ],
+     "best_season_zh": "全年",
+     "tips_zh": "詢問店家器皿是否販售；小心拿取。",
+     "tags": [
+      "料理",
+      "瓷器",
+      "定食",
+      "工藝"
+     ],
+     "sources": [
+      "https://en.wikipedia.org/wiki/Arita_ware"
+     ],
+     "confidence": "low",
+     "prompt_en": "Colorful hand-painted Arita porcelain plates holding delicate Japanese dishes on a wooden table, soft natural light"
+    },
+    "scenery": {
+     "title_zh": "有田盆地",
+     "title_ja": "有田の町",
+     "summary_zh": "窯煙與山景交織的瓷器城鎮。",
+     "body_zh": "有田町位於山谷盆地中，紅磚煙囪與窯場散布在山坡之間。早晨可見窯煙升起，與周邊翠綠山脈形成對比。泉山磁石場是發現瓷石的地方，被視為有田燒起源地。城鎮規模不大，適合慢慢走。春天陶瓷市集時，街道擠滿遊客，平日則較為安靜。泉山磁石場是有田燒的起源地，現在有展望台與紀念碑；站在山坡上，可看到整個盆地與窯煙，晴天視野特別開闊。黃昏時山坡染上暖色，窯煙與煙囪的剪影特別有風情，適合拍照。",
+     "facts": [
+      {
+       "label": "地形",
+       "value": "山谷盆地"
+      },
+      {
+       "label": "特色",
+       "value": "窯煙、紅磚煙囪"
+      },
+      {
+       "label": "起源地",
+       "value": "泉山磁石場"
+      },
+      {
+       "label": "遊覽",
+       "value": "步行或自駕"
+      }
+     ],
+     "best_season_zh": "春與秋",
+     "tips_zh": "清晨拍攝窯煙最佳。",
+     "tags": [
+      "盆地",
+      "窯煙",
+      "山景",
+      "小鎮"
+     ],
+     "sources": [
+      "https://en.wikipedia.org/wiki/Arita_ware"
+     ],
+     "confidence": "low",
+     "prompt_en": "A valley town with brick kiln chimneys and green hills in morning mist, photorealistic wide shot"
+    }
+   }
+  },
+  {
+   "id": "saga_ureshino",
+   "name_zh": "嬉野",
+   "name_ja": "嬉野",
+   "intro_zh": "嬉野位於佐賀縣西南部，以溫泉與茶聞名。嬉野茶為釜炒茶產地，茶園遍布丘陵；嬉野溫泉被稱為日本三大美肌之湯之一。九州新幹線設有嬉野溫泉站，交通方便，適合泡湯與品茶。",
+   "items": {
+    "spot": {
+     "title_zh": "嬉野溫泉",
+     "title_ja": "嬉野温泉",
+     "summary_zh": "碳酸氫鈉泉，肌膚滑潤。",
+     "body_zh": "嬉野溫泉為佐賀縣代表溫泉，泉質為碳酸氫鈉‧氯化物泉，pH約7.8。最早記載於《肥前國風土記》。溫泉街上有多家旅館與公共浴場，並有足湯可免費體驗。這裡也有名物溫泉湯豆腐，豆腐在溫泉水中會融化成濃湯狀。晚間溫泉街亮起燈籠，氣氛閒適。溫泉街步行即可逛完，旅館與餐廳集中在中心地帶；傍晚亮燈後別有風情。從博多搭九州新幹線與接駁巴士，交通相當便利。夏季悶熱，冬季泡湯更舒服；日歸入浴設施很多，不住宿也能體驗。",
+     "facts": [
+      {
+       "label": "泉質",
+       "value": "碳酸氫鈉‧氯化物泉"
+      },
+      {
+       "label": "pH",
+       "value": "約7.8"
+      },
+      {
+       "label": "名物",
+       "value": "溫泉湯豆腐"
+      },
+      {
+       "label": "交通",
+       "value": "嬉野溫泉站"
+      }
+     ],
+     "best_season_zh": "秋至冬",
+     "tips_zh": "足湯可帶毛巾；多家旅館提供日歸泡湯。",
+     "tags": [
+      "溫泉",
+      "美肌",
+      "溫泉街",
+      "足湯"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/%E5%AC%89%E9%87%8E%E6%B8%A9%E6%B3%89"
+     ],
+     "confidence": "high",
+     "prompt_en": "A hot spring town street at dusk with steam rising and paper lanterns glowing, quiet atmosphere"
+    },
+    "food": {
+     "title_zh": "嬉野溫泉湯豆腐",
+     "title_ja": "嬉野温泉湯豆腐",
+     "summary_zh": "用溫泉水煮的豆腐，入口即化。",
+     "body_zh": "嬉野溫泉湯豆腐是以溫泉水煮豆腐的鄉土料理。由於溫泉水為弱鹼性，豆腐在鍋中會慢慢融化，變成如牛奶般濃稠的湯，可連湯一起喝。傳統吃法是豆腐煮到半融狀後，加醬油與蔥花。此地的豆腐味道濃郁，帶有淡淡甜味。許多旅館與餐廳提供湯豆腐定食，搭配嬉野茶一起享用。湯豆腐通常搭配嬉野茶與漬物一起提供，也有加了鮮雞或蔬菜的鍋物；許多旅館的晚餐菜單會包含湯豆腐，非常適合泡湯後暖身。",
+     "facts": [
+      {
+       "label": "料理",
+       "value": "溫泉水煮豆腐"
+      },
+      {
+       "label": "原理",
+       "value": "溫泉水弱鹼性"
+      },
+      {
+       "label": "特色",
+       "value": "豆腐融化成濃湯"
+      },
+      {
+       "label": "搭配",
+       "value": "嬉野茶"
+      }
+     ],
+     "best_season_zh": "秋至冬",
+     "tips_zh": "趁熱吃；不要久煮，否則豆腐全融化。",
+     "tags": [
+      "湯豆腐",
+      "溫泉",
+      "鄉土料理",
+      "豆腐"
+     ],
+     "sources": [
+      "https://en.wikipedia.org/wiki/Ureshino%2C_Saga"
+     ],
+     "confidence": "medium",
+     "prompt_en": "Soft tofu simmering in a clay pot with milky broth, green onions and a cup of green tea beside it, close-up"
+    },
+    "scenery": {
+     "title_zh": "嬉野茶園",
+     "title_ja": "嬉野の茶畑",
+     "summary_zh": "連綿丘陵上的茶樹梯田。",
+     "body_zh": "嬉野地區自1504年起即有茶葉生產，茶園分布在丘陵上，茶樹排列成整齊的綠色波浪。這裡以「釜炒茶」聞名，與一般蒸製煎茶不同，以鍋炒方式殺青，香氣獨特。春季新茶期間，茶園一片嫩綠，採茶人忙碌。茶園附近有茶屋與觀景台，可一邊品茶一邊眺望景色。茶園附近設有觀景台與茶屋，可坐下品茶賞景；春季採茶期間可看到採茶機運作。參觀時請遵守園區規定，避免踏入茶畦。茶園的露水與清晨薄霧，使畫面柔和，適合早起拍攝。",
+     "facts": [
+      {
+       "label": "茶歷史",
+       "value": "自1504年起"
+      },
+      {
+       "label": "製法",
+       "value": "釜炒茶"
+      },
+      {
+       "label": "季節",
+       "value": "新茶為春季"
+      },
+      {
+       "label": "地點",
+       "value": "嬉野市丘陵"
+      }
+     ],
+     "best_season_zh": "4月底至5月新茶",
+     "tips_zh": "可參觀茶園並品茶；購買茶葉可詢問沖泡溫度。",
+     "tags": [
+      "茶園",
+      "釜炒茶",
+      "丘陵",
+      "春季"
+     ],
+     "sources": [
+      "https://en.wikipedia.org/wiki/Ureshino%2C_Saga"
+     ],
+     "confidence": "medium",
+     "prompt_en": "Rolling green tea terraces on gentle hills under a clear sky, neat rows of tea bushes, wide shot"
+    }
+   }
+  },
+  {
+   "id": "saga_yoshinogari",
+   "name_zh": "吉野里",
+   "name_ja": "吉野ヶ里",
+   "intro_zh": "吉野里位於佐賀平原東部，以彌生時代環壕聚落遺跡聞名。遺跡現為國營歷史公園，復原了望樓、住居與壕溝。周邊為廣闊的稻田平原，同時是佐賀牛與農業的產地。",
+   "items": {
+    "spot": {
+     "title_zh": "吉野里遺跡",
+     "title_ja": "吉野ヶ里遺跡",
+     "summary_zh": "彌生時代環壕聚落。",
+     "body_zh": "吉野里遺跡在1986年起進行大規模調查，發現雙重壕溝、望樓、墓地與大量青銅器、玻璃珠、陶器。約於公元3世紀達到全盛，中心聚落估計約1,200人。1991年被指定為特別史跡，2001年國營公園開園。園區約104公頃，復原了南內郭、北內郭與祭祀場所，並有彌生人生活的體驗活動。園區分為多個主題區域，包括環壕集落、南內郭、北內郭與墳丘墓；園內有導覽與體驗，從入口到各區都需步行，建議預留三至四小時。",
+     "facts": [
+      {
+       "label": "調查",
+       "value": "1986年起"
+      },
+      {
+       "label": "全盛",
+       "value": "3世紀，約1,200人"
+      },
+      {
+       "label": "指定",
+       "value": "特別史跡（1991年）"
+      },
+      {
+       "label": "公園",
+       "value": "2001年開園"
+      }
+     ],
+     "best_season_zh": "春與秋",
+     "tips_zh": "園區廣闊，穿舒適鞋子；有導覽服務。",
+     "tags": [
+      "遺跡",
+      "彌生",
+      "歷史公園",
+      "望樓"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/%E5%90%89%E9%87%8E%E3%83%B6%E9%87%8C%E9%81%BA%E8%B7%A1"
+     ],
+     "confidence": "high",
+     "prompt_en": "A reconstructed Yayoi village with a wooden watchtower and thatched huts, green lawns and blue sky, photorealistic"
+    },
+    "food": {
+     "title_zh": "佐賀牛",
+     "title_ja": "佐賀牛",
+     "summary_zh": "等級嚴格的霜降黑毛和牛。",
+     "body_zh": "佐賀牛要求肉質等級為5，或等級4且BMS No.7以上，是日本相當嚴格的認定標準之一。牛隻約飼養30個月，油花細緻、口感柔軟。縣內有許多專賣店提供壽喜燒、鐵板燒與燒肉，也可在吉野里周邊的食堂品嚐。1984年起商業銷售，2000年登錄商標。佐賀牛可在縣內餐廳品嚐，也有午餐限定套餐；道之驛與農產品直賣所也販售加工肉品，適合買回家當伴手禮或烹調。道之驛與園區食堂也提供當地農產品與特色料理。",
+     "facts": [
+      {
+       "label": "認定",
+       "value": "等級5或等級4且BMS No.7以上"
+      },
+      {
+       "label": "飼養",
+       "value": "約30個月"
+      },
+      {
+       "label": "吃法",
+       "value": "壽喜燒、鐵板燒"
+      },
+      {
+       "label": "商標",
+       "value": "2000年"
+      }
+     ],
+     "best_season_zh": "全年",
+     "tips_zh": "午餐套餐較實惠；注意是否為認證店。",
+     "tags": [
+      "和牛",
+      "佐賀牛",
+      "霜降",
+      "燒肉"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/%E4%BD%90%E8%B3%80%E7%89%9B"
+     ],
+     "confidence": "high",
+     "prompt_en": "Marbled Saga wagyu beef slices on a hot iron plate with vegetables, glossy shine, close-up"
+    },
+    "scenery": {
+     "title_zh": "佐賀平原",
+     "title_ja": "佐賀平野",
+     "summary_zh": "一望無際的田園與遠山。",
+     "body_zh": "佐賀平原位於縣的中央，地勢平坦，稻田與麥田連綿，遠處有脊振山地。因有明海潮差大，沿海有廣闊灘塗，海苔養殖發達。秋季稻穗金黃，平原與天空相接。喜鵲（縣鳥）常在田野間出沒。平原上也散落著遺跡與古墳，歷史與農業景觀並存。平原上稻田四季更替，春季翠綠、秋季金黃；冬季偶有候鳥。遠處的脊振山地襯托平原，天氣晴朗時視野特別遼闊。秋天稻田金黃，常見農家活動與收割景象，田園風光很有日本鄉間的味道。",
+     "facts": [
+      {
+       "label": "地形",
+       "value": "平坦沖積平原"
+      },
+      {
+       "label": "作物",
+       "value": "稻、麥、海苔（沿海）"
+      },
+      {
+       "label": "縣鳥",
+       "value": "喜鵲"
+      },
+      {
+       "label": "遠景",
+       "value": "脊振山地"
+      }
+     ],
+     "best_season_zh": "秋季稻穗金黃",
+     "tips_zh": "自駕或單車遊覽最方便。",
+     "tags": [
+      "平原",
+      "田園",
+      "稻田",
+      "農業"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/%E4%BD%90%E8%B3%80%E7%9C%8C"
+     ],
+     "confidence": "low",
+     "prompt_en": "A broad flat plain with golden rice paddies and distant mountains under a wide sky, photorealistic"
+    }
+   }
+  }
+ ]
+}

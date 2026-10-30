@@ -1,0 +1,157 @@
+{
+ "id": "ehime",
+ "spots": [
+  {
+   "title_zh": "道後溫泉",
+   "title_ja": "道後温泉",
+   "category": "溫泉",
+   "area_zh": "松山市",
+   "summary_zh": "與有馬、白濱並稱日本三古湯的名湯",
+   "body_zh": "道後溫泉位於愛媛縣松山市，與有馬溫泉、白濱溫泉並稱日本三古湯，萬葉集中已有記載。泉質為單純溫泉，源泉溫度約42至51度，屬非火山型的地熱溫泉。夏目漱石的小說《少爺》曾描寫此地，令它成為愛媛的代表性觀光地。溫泉街以道後溫泉本館為中心，另有椿之湯、飛鳥乃湯兩處公共浴場，車站前的放生園設有足湯與少爺機關鐘，周邊還有道後公園與湯築城跡。",
+   "facts": [
+    {"label": "所在地", "value": "愛媛縣松山市道後地區"},
+    {"label": "開創／成因", "value": "古代已知的地熱溫泉，萬葉集有載，與有馬、白濱並稱日本三古湯"},
+    {"label": "看點", "value": "道後溫泉本館、椿之湯、飛鳥乃湯、放生園足湯與少爺機關鐘"}
+   ],
+   "best_season_zh": "全年皆宜，秋冬泡湯尤佳",
+   "tips_zh": "本館假日午後常需排隊等候，建議挑平日或早上前往；想避開人潮可改去椿之湯或飛鳥乃湯。入浴料與開放時間以現場公告為準。",
+   "tags": ["三古湯", "溫泉街", "少爺", "松山"],
+   "sources": ["https://ja.wikipedia.org/wiki/道後温泉"],
+   "confidence": "high",
+   "prompt_en": "A historic wooden public bathhouse with multi-tiered tiled roofs and a small cupola at dusk, warm lantern glow on the facade, a quiet stone-paved shopping street in the foreground, soft steam drifting up, mountains faintly visible behind, evening blue hour, eye-level angle, no text, no signs, no recognizable people"
+  },
+  {
+   "title_zh": "松山城",
+   "title_ja": "松山城",
+   "category": "城郭史蹟",
+   "area_zh": "松山市",
+   "summary_zh": "現存十二天守之一的四國最大城郭",
+   "body_zh": "松山城位於松山市中心的勝山山頂，由加藤嘉明在關原之戰後於1602年動工興建，是四國最大的城郭，也是日本三大平山城之一。大天守為現存十二天守之一，採連立式配置，因1784年遭雷擊燒毀，現存建築是1854年重建，是十二座之中最新的。大天守等21棟建築為國家重要文化財，另有22棟以木造復原，山麓則有二之丸史跡庭園。",
+   "facts": [
+    {"label": "所在地", "value": "愛媛縣松山市勝山（城山公園內）"},
+    {"label": "開創／成因", "value": "1602年加藤嘉明動工，現存大天守為1854年重建"},
+    {"label": "看點", "value": "連立式天守群、重要文化財21棟、二之丸史跡庭園"}
+   ],
+   "best_season_zh": "春季櫻花季與秋季晴天",
+   "tips_zh": "天守位於山頂，可選擇步行上山或改搭纜車與吊椅，穿好走路的鞋；入館時間與票價請於出發前查詢官方資訊。",
+   "tags": ["現存天守", "平山城", "連立式", "重要文化財"],
+   "sources": ["https://ja.wikipedia.org/wiki/松山城_(伊予国)"],
+   "confidence": "high",
+   "prompt_en": "A hilltop castle keep with white plastered walls and gray tiled roofs on stone ramparts, small turrets linked by walls around the main keep, spring cherry blossoms in the foreground, city skyline faintly behind, clear morning light, low angle from the slope below, no text, no signs, no recognizable people"
+  },
+  {
+   "title_zh": "大山祇神社",
+   "title_ja": "大山祇神社",
+   "category": "神社寺院",
+   "area_zh": "今治市（大三島）",
+   "summary_zh": "瀨戶內海大三島上的日本總鎮守",
+   "body_zh": "大山祇神社位於瀨戶內海的大三島西岸，以鷲ヶ頭山為神體山，是伊予國一宮，被稱為日本總鎮守，也是全國供奉大山積神的神社總本社。大山積神兼為山神與海神，歷代源氏、平氏等武將紛紛獻納武具祈求武運，使神社保存全國指定為國寶、重要文化財的甲冑約四成。境內有國家天然紀念物的大山祇神社樟樹群，其中乎千命手植之楠相傳繞行三圈可許願。",
+   "facts": [
+    {"label": "所在地", "value": "愛媛縣今治市大三島町宮浦"},
+    {"label": "開創／成因", "value": "伊予國一宮，供奉大山積神，由來有多種說法"},
+    {"label": "看點", "value": "樟樹群、國寶與重要文化財的武具甲冑（紫陽殿、國寶館）"}
+   ],
+   "best_season_zh": "新綠的春夏之間",
+   "tips_zh": "大三島在島波海道沿線，可搭車或騎單車過橋前往；參拜後務必到國寶館看武具展示，並預留在島上走動的時間。",
+   "tags": ["伊予國一宮", "武具", "樟樹", "島波海道"],
+   "sources": ["https://ja.wikipedia.org/wiki/大山祇神社"],
+   "confidence": "high",
+   "prompt_en": "An ancient island shrine approach under towering camphor trees, a weathered wooden shrine gate and hall with dark roof tiles, dappled sunlight through huge gnarled trunks, moss on stone paving in the foreground, calm early morning, wide low angle, no text, no signs, no recognizable people"
+  },
+  {
+   "title_zh": "內子八日市護國町並",
+   "title_ja": "内子町 八日市護国の町並み",
+   "category": "街區古鎮",
+   "area_zh": "喜多郡內子町",
+   "summary_zh": "因木蠟致富而留下的白壁商家街",
+   "body_zh": "內子町位於愛媛縣南予地區，江戶到明治時代以和紙與木蠟生產繁榮，木蠟最盛期約占全國產量三成，品質在海外也受好評。大正時代後石油與電力普及使產業衰退，卻留下沿「八日市道路」排列的商家宅邸町並，1982年被選為國家重要傳統建造物群保存地區。該地區的道路獲選日本之道100選，並獲都市景觀大賞，鎮上亦有修理復原後的內子座。",
+   "facts": [
+    {"label": "所在地", "value": "愛媛縣喜多郡內子町（八日市護國地區）"},
+    {"label": "開創／成因", "value": "以木蠟與和紙產業致富，商家群形成町並"},
+    {"label": "看點", "value": "八日市道路的白壁商家、重要傳統建造物群保存地區、內子座"}
+   ],
+   "best_season_zh": "秋季與春季的晴天",
+   "tips_zh": "町並不大，步行約一兩個小時即可逛完；多數宅邸仍有居民生活，拍照時請保持安靜、勿擅自進入私人範圍。",
+   "tags": ["木蠟", "傳統建築群", "白壁", "南予"],
+   "sources": ["https://ja.wikipedia.org/wiki/内子町"],
+   "confidence": "high",
+   "prompt_en": "A quiet historic merchant street with long two-story houses, white plaster walls, wooden lattice windows and tiled eaves, a narrow stone-paved lane receding into the distance, soft overcast afternoon light, gentle autumn leaves hanging at the edge of frame, eye-level view, no text, no signs, no recognizable people"
+  },
+  {
+   "title_zh": "石鎚山",
+   "title_ja": "石鎚山",
+   "category": "山岳高原",
+   "area_zh": "西條市、上浮穴郡久萬高原町",
+   "summary_zh": "西日本最高峰的修驗道靈山",
+   "body_zh": "石鎚山海拔1,982公尺，是四國山地西部石鎚山脈的主峰，被視為西日本最高峰，自古作為修驗道的靈山受人崇敬，名列日本百名山、日本百景與日本七靈山。最高點天狗岳、設有石鎚神社山頂社的彌山與南尖峰合稱石鎚山，北面的鎖場與險峻北壁由天狗岳火碎流堆積物形成。2018年以西日本最高峰的眺望入選四國八十八景第64番。",
+   "facts": [
+    {"label": "所在地", "value": "愛媛縣西條市與久萬高原町交界，石鎚國定公園"},
+    {"label": "開創／成因", "value": "山岳信仰（修驗道）靈山，山頂由火碎流堆積物構成"},
+    {"label": "看點", "value": "天狗岳、彌山山頂社、北面鎖場與北壁"}
+   ],
+   "best_season_zh": "初夏至秋季（紅葉期）",
+   "tips_zh": "山頂氣溫遠低於平地，須帶防風保暖衣物；鎖場為較有難度的路段，天候不佳或經驗不足時請改走一般登山路線。",
+   "tags": ["西日本最高峰", "修驗道", "日本百名山", "靈山"],
+   "sources": ["https://ja.wikipedia.org/wiki/石鎚山"],
+   "confidence": "high",
+   "prompt_en": "A rugged granite-like mountain summit with steep cliff faces rising above layered forested ridges, low morning clouds filling the valleys, autumn foliage in orange and red on the slopes, crisp clear air, distant view from a ridge viewpoint, no text, no signs, no recognizable people"
+  },
+  {
+   "title_zh": "臥龍山莊",
+   "title_ja": "臥龍山荘",
+   "category": "庭園公園",
+   "area_zh": "大洲市",
+   "summary_zh": "借景肱川的明治數寄屋山莊與名勝庭園",
+   "body_zh": "臥龍山莊位於愛媛縣大洲市，1897年由靠木蠟出口致富的貿易商河內寅次郎購入，邀請京都茶室建築家八木甚兵衛擔任顧問，歷時構想10年、施工4年、動員約9,000人，於1907年落成。園內有臥龍院、不老庵、知止庵與借景庭園，可眺望冨士山與肱川，庭園為國家名勝；臥龍院、不老庵與文庫三棟於2016年度被指定為重要文化財。",
+   "facts": [
+    {"label": "所在地", "value": "愛媛縣大洲市（肱川畔）"},
+    {"label": "開創／成因", "value": "1907年由貿易商河內寅次郎建成，臥龍之名來自「蓬萊山似龍臥」"},
+    {"label": "看點", "value": "臥龍院數寄屋建築、不老庵、借景庭園，庭園為國家名勝"}
+   ],
+   "best_season_zh": "新綠與秋季紅葉",
+   "tips_zh": "建築多為木造與榻榻米空間，入內需脫鞋，建議穿好脫的鞋襪；放慢腳步坐在廊下看庭園，最能體會借景的設計。",
+   "tags": ["借景", "數寄屋", "名勝庭園", "肱川"],
+   "sources": ["https://ja.wikipedia.org/wiki/臥龍山荘"],
+   "confidence": "high",
+   "prompt_en": "A traditional Japanese villa with wooden veranda and a small hillside teahouse cantilevered over a river gorge, carefully pruned garden trees and stepping stones in the foreground, maple leaves turning red, a calm river and soft hills behind, late afternoon warm light, no text, no signs, no recognizable people"
+  },
+  {
+   "title_zh": "滑床溪谷",
+   "title_ja": "滑床渓谷",
+   "category": "自然絕景",
+   "area_zh": "宇和島市、北宇和郡松野町",
+   "summary_zh": "花崗岩岩盤上的清流與雪輪瀑布",
+   "body_zh": "滑床溪谷位於宇和島市與北宇和郡松野町之間，是四萬十川支流目黑川最上游約12公里的溪谷，屬足摺宇和海國立公園。因幾乎全由花崗岩構成，長年侵蝕使岩面光滑而得名。最大看點是落差約80公尺、沿單一岩盤滑落的雪輪瀑布，另有霧之瀑、象頭岩、千疊敷等景勝；周邊的滑床水源之森有四國南限的山毛櫸林，並有野生獼猴與鹿棲息。",
+   "facts": [
+    {"label": "所在地", "value": "愛媛縣宇和島市與北宇和郡松野町，足摺宇和海國立公園"},
+    {"label": "開創／成因", "value": "花崗岩經長年侵蝕，岩面光滑如床"},
+    {"label": "看點", "value": "雪輪瀑布（落差約80公尺）、千疊敷、象頭岩、山毛櫸林"}
+   ],
+   "best_season_zh": "新綠與紅葉季",
+   "tips_zh": "濕滑岩面容易跌倒，請穿防滑鞋並避免雨後涉水；從宇和島市區沒有直達道路，需經松野町方向進入，行前先確認路況。",
+   "tags": ["溪谷", "瀑布", "花崗岩", "水源之森"],
+   "sources": ["https://ja.wikipedia.org/wiki/滑床渓谷"],
+   "confidence": "high",
+   "prompt_en": "A clear mountain stream flowing over smooth pale granite slabs, a slender waterfall sliding down a single rock face in the background, lush green beech forest on both banks, mist rising, soft diffuse daylight, long exposure silky water, low angle from the stream bed, no text, no signs, no recognizable people"
+  },
+  {
+   "title_zh": "來島海峽大橋",
+   "title_ja": "来島海峡大橋",
+   "category": "海島海岸",
+   "area_zh": "今治市",
+   "summary_zh": "世界首座三連吊橋，島波海道名景",
+   "body_zh": "來島海峽大橋橫跨今治市的來島海峽，連接大島與四國，由來島海峽第一至第三大橋組成，是世界首座三連吊橋，全長4,105公尺，屬本州四國連絡橋尾道・今治路線。橋面中央為西瀨戶自動車道（島波海道），北側設有自行車與行人道，南側為機車道。行人通行免費，自行車與原付則在中途馬島之間依規定繳費，可近距離欣賞橋塔與瀨戶內海的島嶼風景。",
+   "facts": [
+    {"label": "所在地", "value": "愛媛縣今治市，連接大島與四國"},
+    {"label": "開創／成因", "value": "本州四國連絡橋尾道・今治路線的一部分，三座吊橋相連"},
+    {"label": "看點", "value": "世界首座三連吊橋、全長4,105公尺、自行車與行人道"}
+   ],
+   "best_season_zh": "春秋晴天，日落時段",
+   "tips_zh": "騎自行車過橋要留意海風與橋面接縫，並依現場指示繳費；通行規定與費用可能調整，出發前請查詢最新公告。",
+   "tags": ["吊橋", "島波海道", "瀨戶內海", "單車"],
+   "sources": ["https://ja.wikipedia.org/wiki/来島海峡大橋"],
+   "confidence": "high",
+   "prompt_en": "Three connected suspension bridges spanning a blue island-dotted sea strait, tall towers and sweeping cables, small green islands scattered below, calm water with gentle tidal ripples, golden hour sky, elevated viewpoint from a hillside, no text, no signs, no recognizable people"
+  }
+ ]
+}

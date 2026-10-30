@@ -1,0 +1,149 @@
+{
+ "id": "saga",
+ "foods": [
+  {
+   "title_zh": "佐賀牛",
+   "title_ja": "佐賀牛",
+   "category": "肉類",
+   "summary_zh": "JA佐賀系統飼養的黑毛和牛，油花標準嚴格。",
+   "body_zh": "佐賀牛是由JA佐賀系統的農戶所飼養的黑毛和種，必須達到肉質等級5或4、油花（BMS）7以上的標準。據維基百科，1984年起以「佐賀牛」之名銷售，2000年註冊商標，2004至2007年間整理標準與組織。飼養採獨自調配的飼料與方法，約30個月齡出貨，並被形容為全國第二嚴格的等級標準，僅次於仙台牛。常見吃法有牛排、壽喜燒與燒肉。",
+   "facts": [
+    {"label": "起源", "value": "1984年起銷售，2000年註冊商標（維基記載）"},
+    {"label": "主要食材", "value": "黑毛和種，等級5或4、BMS 7以上"},
+    {"label": "吃法", "value": "牛排、壽喜燒、燒肉"}
+   ],
+   "season_zh": "全年",
+   "where_zh": "佐賀市區、嬉野的牛排館與燒肉店",
+   "tags": ["和牛", "黑毛和種", "牛排", "佐賀"],
+   "sources": ["https://ja.wikipedia.org/wiki/佐賀牛"],
+   "confidence": "medium",
+   "prompt_en": "A single thick-cut grilled Saga wagyu steak sliced into pieces, finely marbled pink interior, on a dark ceramic plate with a pinch of sea salt and a small wasabi mound, on a dark wooden table, warm directional light, no text"
+  },
+  {
+   "title_zh": "呼子烏賊",
+   "title_ja": "呼子のイカ",
+   "category": "海鮮",
+   "summary_zh": "呼子港的鮮烏賊，配合呼子朝市成為代表名物。",
+   "body_zh": "呼子位於佐賀縣唐津市，是漁業興盛的港町，以新鮮海產與「呼子朝市」聞名，朝市被維基百科形容為日本三大朝市之一。烏賊被視為當地名物，鎮上也有呼子烏賊乾。至於是哪一種烏賊、活造的具體做法與起源年份，本次查閱的資料沒有詳述，故不在此斷言。一般是在港邊餐廳或朝市購買新鮮烏賊，以生魚片或其他形式享用。",
+   "facts": [
+    {"label": "起源", "value": "未能核實，僅知烏賊為呼子名物"},
+    {"label": "主要食材", "value": "呼子漁港捕獲的烏賊"},
+    {"label": "吃法", "value": "在港邊餐廳或朝市購買新鮮烏賊享用"}
+   ],
+   "season_zh": "全年，具體盛產季未核實",
+   "where_zh": "唐津市呼子町的朝市與港邊餐廳",
+   "tags": ["烏賊", "呼子", "朝市", "海鮮"],
+   "sources": ["https://ja.wikipedia.org/wiki/呼子町"],
+   "confidence": "low",
+   "prompt_en": "A single plate of fresh translucent squid sashimi arranged in thin strips with the squid body shape, shiso leaf and grated ginger, small dish of soy sauce beside, on a dark ceramic plate by a seaside restaurant table, soft daylight, no text"
+  },
+  {
+   "title_zh": "嬉野溫泉豆腐鍋",
+   "title_ja": "嬉野温泉湯どうふ",
+   "category": "鄉土料理",
+   "summary_zh": "用嬉野溫泉水煮的豆腐，自江戶時代就是名物。",
+   "body_zh": "嬉野溫泉湯豆腐是以溫泉水煮製的豆腐料理，據維基百科是自江戶時代起的名物。嬉野市將其表記為「湯どうふ」，「嬉野溫泉湯どうふ」並已註冊商標。至於豆腐為何煮到柔滑、確切起源年份，這次參考的資料沒有說明，故不下定論。嬉野同時是茶產地，市與觀光協會以「茶與溫泉之地」大力宣傳，到訪溫泉街時湯豆腐常與嬉野茶一起推薦。",
+   "facts": [
+    {"label": "起源", "value": "江戶時代起已有（維基記載），細節未核實"},
+    {"label": "主要食材", "value": "豆腐、嬉野溫泉水"},
+    {"label": "吃法", "value": "在溫泉水中煮熟後蘸醬油或佐料"}
+   ],
+   "season_zh": "全年，冬季尤宜",
+   "where_zh": "嬉野溫泉街的旅館與湯豆腐料理店",
+   "tags": ["豆腐", "溫泉", "嬉野", "鄉土料理"],
+   "sources": ["https://ja.wikipedia.org/wiki/嬉野温泉"],
+   "confidence": "low",
+   "prompt_en": "A small earthenware pot of silky white tofu cubes simmering in cloudy milky broth with a few scallion slices, a small dish of soy sauce and bonito flakes beside, on a wooden table in a ryokan, warm soft steam and gentle light, no text"
+  },
+  {
+   "title_zh": "西西里飯",
+   "title_ja": "シシリアンライス",
+   "category": "B級美食",
+   "summary_zh": "熱飯鋪炒肉與生菜、淋美乃滋的佐賀市B級美食。",
+   "body_zh": "西西里飯是佐賀市的在地美食，基本構成是熱飯、生菜、肉與美乃滋四樣。據維基百科，1975年前後誕生於佐賀市中心的咖啡店，另有福岡市餐廳「田々夢詩」發祥說，確切起源地不明。肉以牛肉為主，蔬菜有生菜、番茄與小黃瓜，各店也有佐賀牛牛排、豬肉或雞肉版本。2008年起正式宣傳，2009年九州B-1大賽獲銀獎，2022年獲選「100年食物」。",
+   "facts": [
+    {"label": "起源", "value": "約1975年佐賀市咖啡店，另有福岡說"},
+    {"label": "主要食材", "value": "熱飯、炒牛肉、生菜、番茄、美乃滋"},
+    {"label": "吃法", "value": "肉與生菜、美乃滋一起拌飯"}
+   ],
+   "season_zh": "全年",
+   "where_zh": "佐賀市中心的咖啡店與食堂",
+   "tags": ["B級美食", "佐賀市", "美乃滋", "丼飯"],
+   "sources": ["https://ja.wikipedia.org/wiki/シシリアンライス"],
+   "confidence": "medium",
+   "prompt_en": "A single oval plate of Sicilian rice, warm white rice topped with sauteed sliced beef, fresh lettuce, tomato and cucumber slices, drizzled with white mayonnaise, in a retro Japanese cafe with wooden table, soft daylight, no text"
+  },
+  {
+   "title_zh": "小城羊羹",
+   "title_ja": "小城羊羹",
+   "category": "甜點和菓子",
+   "summary_zh": "表面結出糖霜、外脆內潤的小城切羊羹。",
+   "body_zh": "小城羊羹是佐賀縣小城市的代表和菓子。據維基百科，約1872年森永惣吉向大阪的點心師傅學習紅豆處理後，開始試做羊羹。主要材料是砂糖、水與在地紅豆，採傳統「切羊羹」做法，表面會形成糖的結晶，口感外層脆、內部濕潤。小城羊羹已登錄為地域團體商標，2020年更列入日本遺產「砂糖文化之路」的構成要素。",
+   "facts": [
+    {"label": "起源", "value": "約1872年，森永惣吉（維基記載）"},
+    {"label": "主要食材", "value": "紅豆、砂糖、水"},
+    {"label": "吃法", "value": "切塊直接吃，搭配綠茶"}
+   ],
+   "season_zh": "全年",
+   "where_zh": "小城市的羊羹老舖與羊羹資料館周邊",
+   "tags": ["羊羹", "小城", "砂糖之路", "和菓子"],
+   "sources": ["https://ja.wikipedia.org/wiki/小城羊羹"],
+   "confidence": "medium",
+   "prompt_en": "Three thick rectangular slices of Ogi yokan stacked on a small ceramic plate, dark red-brown red bean jelly with a faint sugar crust on the surface, a cup of green tea beside, on a pale wooden table, soft natural light, no text"
+  },
+  {
+   "title_zh": "佐賀海苔",
+   "title_ja": "佐賀海苔",
+   "category": "特產食材",
+   "summary_zh": "有明海產海苔，佐賀縣產量連續居全國第一。",
+   "body_zh": "佐賀縣沿有明海的海苔養殖相當興盛。據維基百科，2012年佐賀縣的海苔產量為全國第一，已連續9年，年產量約7萬噸。有明海產海苔常被選作贈禮，品牌地位穩固；但諫早灣乾拓工程曾因水質惡化影響產量。有明海環境與佐賀固有養殖技術的細節，這次資料未載，故只能保守描述為：海苔是佐賀沿海最具規模的水產之一，可做成烤海苔配飯或做飯糰。",
+   "facts": [
+    {"label": "起源", "value": "未能核實，僅知產量2012年為全國第一"},
+    {"label": "主要食材", "value": "有明海養殖海苔"},
+    {"label": "吃法", "value": "烤海苔配白飯、包飯糰"}
+   ],
+   "season_zh": "冬季至早春採收（常識性說法，未核實）",
+   "where_zh": "佐賀縣有明海沿岸的海苔養殖與加工業者",
+   "tags": ["海苔", "有明海", "產量第一", "特產"],
+   "sources": ["https://ja.wikipedia.org/wiki/海苔"],
+   "confidence": "low",
+   "prompt_en": "A single stack of crisp dark green-black roasted nori sheets, one sheet wrapped around a small rice ball, on a light wooden board, soft window light, close-up texture, no text"
+  },
+  {
+   "title_zh": "嬉野茶",
+   "title_ja": "嬉野茶",
+   "category": "酒與飲品",
+   "summary_zh": "圓潤亮綠的玉綠茶，香氣與旨味都強。",
+   "body_zh": "嬉野茶產自佐賀縣嬉野一帶，維基百科記載其起源可追溯到永享12年（1440年），一位來到平戶的明朝陶工為尋找適合種茶的地方而遷居不動山皿屋谷。傳統為釜炒茶，但現在以蒸製為主，成品呈圓潤光亮的綠色，香氣與旨味較強。2008年「うれしの茶」取得地域商標，傳統釜炒茶僅占產量約2至5%。是九州主要茶產地之一。",
+   "facts": [
+    {"label": "起源", "value": "1440年，明朝陶工傳入（維基記載）"},
+    {"label": "主要食材", "value": "嬉野茶葉，蒸製玉綠茶與釜炒茶"},
+    {"label": "吃法", "value": "熱水沖泡，旨味強，也見於溫泉街"}
+   ],
+   "season_zh": "新茶約初夏（常識性說法，未核實）",
+   "where_zh": "嬉野市茶園與溫泉街茶舖",
+   "tags": ["茶", "釜炒茶", "嬉野", "地域商標"],
+   "sources": ["https://ja.wikipedia.org/wiki/嬉野茶"],
+   "confidence": "medium",
+   "prompt_en": "A small Japanese ceramic teapot and a single white teacup of bright green tea on a wooden tray, a pinch of rolled glossy green tea leaves on a small dish beside, soft morning light, tea garden blur behind, no text"
+  },
+  {
+   "title_zh": "丸棒露",
+   "title_ja": "丸ぼうろ",
+   "category": "甜點和菓子",
+   "summary_zh": "只用麵粉、雞蛋、砂糖烤成的南蠻風圓餅乾。",
+   "body_zh": "丸棒露是佐賀的傳統點心，名稱可能源自葡萄牙語的「bolo」（蛋糕）。維基百科指它是大航海時代隨南蠻文化傳入的點心，簡單由麵粉、雞蛋和砂糖三種材料製成，質地柔軟，後來也有加入小蘇打、蜂蜜與芝麻油的版本。多家店舖各自主張起源，例如北島17世紀完成說，因此確切由來難定，但現今日本流通的丸棒露多源自佐賀，2020年列入日本遺產「砂糖文化之路」。",
+   "facts": [
+    {"label": "起源", "value": "南蠻傳入，各家起源說法不一"},
+    {"label": "主要食材", "value": "麵粉、雞蛋、砂糖"},
+    {"label": "吃法", "value": "直接吃，配茶"}
+   ],
+   "season_zh": "全年",
+   "where_zh": "佐賀市與長崎街道沿線的和菓子老舖",
+   "tags": ["南蠻菓子", "砂糖之路", "佐賀", "點心"],
+   "sources": ["https://ja.wikipedia.org/wiki/丸ぼうろ"],
+   "confidence": "medium",
+   "prompt_en": "Three round golden-brown Maru Boro cookies, domed and slightly crackled, on a small plain ceramic plate with a cup of tea beside, light linen cloth on a wooden table, soft daylight, no text"
+  }
+ ]
+}

@@ -1,0 +1,285 @@
+{
+ "id": "wakayama",
+ "spots": [
+  {
+   "title_zh": "高野山",
+   "title_ja": "高野山",
+   "category": "神社寺院",
+   "area_zh": "伊都郡高野町",
+   "summary_zh": "空海開創的真言密教聖地，山上寺院林立。",
+   "body_zh": "高野山位於和歌山縣高野町，平安時代弘仁7年（816年）由嵯峨天皇賜予空海（弘法大師），作為修禪道場而開創，是日本佛教的聖地之一。全山稱為一山境內地，元來高野山全體與金剛峯寺同義，以壇上伽藍為根本道場，與奧之院並為二大聖地。山內除總本山金剛峯寺外，另有子院117座，約半數兼營宿坊，可體驗住宿。2004年高野山町石道與金剛峯寺境內建築等，隨熊野、吉野大峰一同登錄世界遺產。看點是寺院群與宗教都市的氛圍。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "和歌山縣伊都郡高野町"
+    },
+    {
+     "label": "開創／成因",
+     "value": "816年嵯峨天皇賜地，空海開創修禪道場"
+    },
+    {
+     "label": "看點",
+     "value": "壇上伽藍、奧之院、宿坊體驗，2004年登錄世界遺產"
+    }
+   ],
+   "best_season_zh": "新綠與紅葉季",
+   "tips_zh": "山上氣溫比平地低，四季都宜準備保暖衣物。住宿宿坊需提前預約，並留意早課等作息；進入奧之院參道時請保持肅靜。",
+   "tags": [
+    "真言密教",
+    "空海",
+    "宿坊",
+    "世界遺產"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/高野山"
+   ],
+   "confidence": "high",
+   "prompt_en": "Quiet stone path through towering old cedar forest with moss-covered stone lanterns and gravestones on both sides, shafts of soft light filtering through mist, a vermilion temple gate faintly visible in the far background, early morning, no text, no signs, no recognizable people"
+  },
+  {
+   "title_zh": "那智瀑布",
+   "title_ja": "那智滝",
+   "category": "自然絕景",
+   "area_zh": "東牟婁郡那智勝浦町",
+   "summary_zh": "落差133公尺、日本落差最大的一段瀑布。",
+   "body_zh": "那智瀑布位於和歌山縣那智勝浦町的那智川中游，水流沿近乎垂直的石英斑岩斷崖落下，落口寬13公尺，到滝潭落差達133公尺，從熊野灘上也可遠望。以一段瀑布而言，若不計位於北方領土的ラッキベツの滝，是日本落差最大者，與華嚴瀑布、袋田瀑布並稱日本三名瀑。1972年被指定為國家名勝，2004年作為紀伊山地的靈場與參詣道的一部分登錄世界遺產。那智山中的原始林有六十多條溪流，瀑布在宗教繪畫中也屢屢出現。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "和歌山縣東牟婁郡那智勝浦町，那智川中游"
+    },
+    {
+     "label": "開創／成因",
+     "value": "石英斑岩垂直斷崖，落差133m、落口寬13m"
+    },
+    {
+     "label": "看點",
+     "value": "日本三名瀑，1972年指定名勝，2004年登錄世界遺產"
+    }
+   ],
+   "best_season_zh": "雨後與新綠時節",
+   "tips_zh": "瀑布周邊有參拜設施，行走時留意濕滑石階。夏季日照強，可預備水與防曬，也建議留意當天天氣與水量。",
+   "tags": [
+    "日本三名瀑",
+    "世界遺產",
+    "熊野",
+    "名勝"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/那智滝"
+   ],
+   "confidence": "high",
+   "prompt_en": "A very tall narrow waterfall plunging down a vertical dark cliff face surrounded by dense green cedar forest, mist at the base, a stone staircase and mossy rocks in the foreground, soft overcast light, early summer, no text, no signs, no recognizable people"
+  },
+  {
+   "title_zh": "熊野本宮大社",
+   "title_ja": "熊野本宮大社",
+   "category": "神社寺院",
+   "area_zh": "田邊市本宮町",
+   "summary_zh": "熊野三山之一，舊社地大齋原立有巨大鳥居。",
+   "body_zh": "熊野本宮大社位於和歌山縣田邊市本宮町，與熊野速玉大社、熊野那智大社合稱熊野三山，是紀伊山地的靈場與參詣道的構成資產之一。主祭神為家都美御子大神。創建年代不明，社傳指崇神天皇65年創建於熊野川中洲的大齋原一帶。神使為八咫烏，被視為太陽使者；主神也有水神、木神等多種說法。2000年在大齋原建成高33.9公尺、寬42公尺的鋼筋混凝土大鳥居，據稱為日本最高。看點是大鳥居與舊社地的莊嚴氣氛。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "和歌山縣田邊市本宮町"
+    },
+    {
+     "label": "開創／成因",
+     "value": "社傳崇神天皇65年創建於大齋原，創建年代不詳"
+    },
+    {
+     "label": "看點",
+     "value": "大齋原大鳥居（33.9m）、八咫烏、熊野三山"
+    }
+   ],
+   "best_season_zh": "新綠與秋季",
+   "tips_zh": "本宮一帶位處山區，交通班次有限，建議事先查好巴士時刻並預留彈性。參拜時沿石階上行，穿防滑好走的鞋。",
+   "tags": [
+    "熊野三山",
+    "八咫烏",
+    "大鳥居",
+    "世界遺產"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/熊野本宮大社"
+   ],
+   "confidence": "high",
+   "prompt_en": "A giant dark torii gate standing in an open field of green grass at a river-island shrine site, forested mountains rising behind, a long stone staircase with cedar trees leading up to a wooden shrine in the middle ground, soft morning light and mist, no text, no signs, no recognizable people"
+  },
+  {
+   "title_zh": "和歌山城",
+   "title_ja": "和歌山城",
+   "category": "城郭史蹟",
+   "area_zh": "和歌山市",
+   "summary_zh": "建於虎伏山上的紀州德川家居城，戰後重建天守。",
+   "body_zh": "和歌山城位於和歌山市中心，建在標高48.9公尺的虎伏山山頂，北側的紀之川形成天然護城河。豐臣秀吉於1585年出兵紀州征伐，豐臣秀長隨行為副將，其後築城；江戶時代德川賴宣自1621年起大規模改修並擴建城下町，規模之大甚至被幕府懷疑有謀反之意。維新後天守與櫓群留存，但在太平洋戰爭末期的和歌山大空襲中被焚毀，1958年以鋼筋混凝土重建天守群。西之丸庭園保留江戶初期遺構，為國家名勝。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "和歌山縣和歌山市，虎伏山（標高48.9m）"
+    },
+    {
+     "label": "開創／成因",
+     "value": "1585年紀州征伐後築城，德川賴宣自1621年大規模改修"
+    },
+    {
+     "label": "看點",
+     "value": "1958年重建的天守群、西之丸庭園（國家名勝）"
+    }
+   ],
+   "best_season_zh": "春季櫻花季",
+   "tips_zh": "城位於市區，從車站步行即可到達，適合半日短遊。登上天守可俯瞰市區與紀之川，建議挑選晴天以便遠眺。",
+   "tags": [
+    "紀州藩",
+    "平山城",
+    "西之丸庭園",
+    "重建天守"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/和歌山城"
+   ],
+   "confidence": "high",
+   "prompt_en": "A white castle keep with gray tiled roofs on a small wooded hill seen from below across a stone-walled moat, a stone bridge and cherry blossom branches in the foreground, clear spring sky, soft late-afternoon light, no text, no signs, no recognizable people"
+  },
+  {
+   "title_zh": "湯之峰溫泉",
+   "title_ja": "湯の峰温泉",
+   "category": "溫泉",
+   "area_zh": "田邊市本宮町",
+   "summary_zh": "擁有「壺湯」的熊野古道名湯，列為世界遺產。",
+   "body_zh": "湯之峰溫泉位於田邊市本宮町，是約有1800年歷史的溫泉，其中的壺湯被稱為日本最古老的共同浴場。這裡留有小栗判官與照手姬的傳說：化為餓鬼阿彌、徘徊於死亡邊緣的小栗判官，在照手姬幫助下浸浴溫泉而痊癒。泉質為含硫黃的碳酸氫鹽泉，湧出溫度達92.5度，每分鐘湧出量885公升。2004年作為紀伊山地的靈場與參詣道的構成資產之一，成為溫泉中首例登錄世界遺產者。看點是古樸的小浴場與溫泉街氛圍。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "和歌山縣田邊市本宮町"
+    },
+    {
+     "label": "開創／成因",
+     "value": "約1800年歷史，小栗判官與照手姬傳說"
+    },
+    {
+     "label": "看點",
+     "value": "壺湯（日本最古共同浴場一說）、溫泉初例登錄世界遺產"
+    }
+   ],
+   "best_season_zh": "秋冬",
+   "tips_zh": "壺湯容量小，使用時段與預約規定需事先確認。泉溫很高，入浴時間不宜過長，並請先補充水分。",
+   "tags": [
+    "壺湯",
+    "小栗判官",
+    "世界遺產",
+    "熊野古道"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/湯の峰温泉"
+   ],
+   "confidence": "high",
+   "prompt_en": "Small wooden bathhouse with a tiled roof beside a narrow mountain stream in a quiet hot spring hamlet, white steam rising from the water, stone steps and moss in the foreground, forested hills behind, soft misty morning light, no text, no signs, no recognizable people"
+  },
+  {
+   "title_zh": "三段壁",
+   "title_ja": "三段壁",
+   "category": "海島海岸",
+   "area_zh": "西牟婁郡白濱町",
+   "summary_zh": "長約2公里的隆起砂岩海蝕斷崖。",
+   "body_zh": "三段壁位於和歌山縣白濱町，在南紀白濱溫泉崎之湯以南約1.8公里處，是紀伊半島南部西海岸的海蝕斷崖。崖壁由隆起的砂岩層構成，長約2公里、高50至60公尺，直立於海上，屬吉野熊野國立公園，以斷崖絕壁之名勝而知名。海浪不斷拍打崖面，形成粗獷而壯闊的海岸景觀。從JR白濱站搭乘巴士約23分鐘可抵達，下車後步行約2分鐘即到崖邊。看點是站在崖頂俯瞰海面與岩壁，適合欣賞日落前後的海景與壯闊的太平洋氣勢。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "和歌山縣西牟婁郡白濱町，吉野熊野國立公園內"
+    },
+    {
+     "label": "開創／成因",
+     "value": "隆起的砂岩層經海蝕形成，長約2km、高50–60m"
+    },
+    {
+     "label": "交通",
+     "value": "JR白濱站搭明光巴士約23分鐘，下車步行約2分鐘"
+    }
+   ],
+   "best_season_zh": "風浪較大的秋冬與日落時分",
+   "tips_zh": "崖邊風大，靠近邊緣務必遵守安全提示，勿越過護欄。海風強勁時體感溫度較低，請多帶一件外套。",
+   "tags": [
+    "海蝕斷崖",
+    "南紀白濱",
+    "吉野熊野國立公園",
+    "砂岩"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/三段壁"
+   ],
+   "confidence": "medium",
+   "prompt_en": "Tall sheer layered sandstone sea cliff dropping into dark blue ocean, waves crashing white at the base, flat rock ledge in the foreground, wide Pacific horizon, low warm sunlight at late afternoon, no text, no signs, no recognizable people"
+  },
+  {
+   "title_zh": "湯淺町町並",
+   "title_ja": "湯浅町",
+   "category": "街區古鎮",
+   "area_zh": "有田郡湯淺町",
+   "summary_zh": "傳說為醬油發祥地的醬油藏街區。",
+   "body_zh": "湯淺町位於和歌山縣有田郡，因傳說為醬油發祥地而知名。町內湯淺一帶保留著醬油藏林立的傳統街景，並被選定為重要傳統建造物群保存地區。町內設有湯淺醬油資料館，並有創業於1841年的角長等醬油業者。平安時代末期至南北朝時期，以湯淺莊為根據地的湯淺宗重等湯淺黨，曾活躍於整個紀伊國，熊野古道也經過町內。金山寺味噌、白子魚乾與田村蜜柑也是當地名產。看點是古老醬油蔵並列的老街，以及醬油與味噌的飲食文化。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "和歌山縣有田郡湯淺町湯淺"
+    },
+    {
+     "label": "開創／成因",
+     "value": "傳說為醬油發祥地，平安末期湯淺黨以此為根據地"
+    },
+    {
+     "label": "看點",
+     "value": "醬油藏街區（重要傳統建造物群保存地區）、金山寺味噌"
+    }
+   ],
+   "best_season_zh": "春秋季",
+   "tips_zh": "街區不大，步行半天可逛完，可順道參觀醬油資料館與釀造店。購買醬油與味噌伴手禮前，先確認各店營業時間。",
+   "tags": [
+    "醬油發祥",
+    "重傳建",
+    "醬油藏",
+    "熊野古道"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/湯浅町"
+   ],
+   "confidence": "medium",
+   "prompt_en": "Narrow old street lined with traditional dark wooden storehouses with lattice windows and tiled roofs, wooden barrels stacked beside a doorway, stone-paved lane receding into the distance, warm afternoon light, no text, no signs, no recognizable people"
+  },
+  {
+   "title_zh": "橋杭岩",
+   "title_ja": "橋杭岩",
+   "category": "海島海岸",
+   "area_zh": "東牟婁郡串本町",
+   "summary_zh": "海邊一列延伸約850公尺的奇岩群，朝日名所。",
+   "body_zh": "橋杭岩位於和歌山縣串本町，從海岸向紀伊大島方向，約40塊大小岩石綿延約850公尺，排成一列，看似橋墩而得名。成因是約1500萬年前的火成活動，使流紋岩侵入泥岩層，之後軟弱的泥岩被快速侵蝕，堅硬的石英斑岩便像樁柱般殘留。乾潮時可步行至岩列中間的弁天島。這裡屬吉野熊野國立公園，同時為國家名勝與天然記念物，並被選為日本朝日百選，穿過岩列的朝陽極為出名。另有弘法大師與天邪鬼競賽造橋的傳說。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "和歌山縣東牟婁郡串本町"
+    },
+    {
+     "label": "開創／成因",
+     "value": "約1500萬年前流紋岩貫入泥岩層，經差別侵蝕殘留成岩柱"
+    },
+    {
+     "label": "看點",
+     "value": "約40塊、長約850m岩列，日本朝日百選，乾潮可步行至弁天島"
+    }
+   ],
+   "best_season_zh": "日出時分與乾潮時段",
+   "tips_zh": "想走到弁天島需先查詢潮汐時間表，漲潮時勿冒險前往。清晨觀賞朝日要提早抵達，岩石濕滑，請穿防滑鞋。",
+   "tags": [
+    "奇岩",
+    "朝日百選",
+    "國家名勝",
+    "吉野熊野國立公園"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/橋杭岩"
+   ],
+   "confidence": "high",
+   "prompt_en": "A long straight row of tall dark rock pillars extending from the shore into shallow sea, wet tidal rock flat in the foreground reflecting sky, a small island at the end of the row, glowing orange sunrise on the horizon, calm water, no text, no signs, no recognizable people"
+  }
+ ]
+}

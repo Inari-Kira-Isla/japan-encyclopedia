@@ -1,0 +1,277 @@
+{
+ "id": "fukushima",
+ "foods": [
+  {
+   "title_zh": "喜多方拉麵",
+   "title_ja": "喜多方ラーメン",
+   "category": "麵飯",
+   "summary_zh": "會津喜多方的醬油豚骨拉麵，平打捲麵配清澈湯頭。",
+   "body_zh": "喜多方拉麵是福島縣喜多方市的代表美食，與札幌、博多並稱日本三大拉麵之一。湯頭以豚骨加小魚乾熬成，調味以醬油為主，口味清爽不膩。最大特色是使用加水率高的平打捲麵，口感Q彈有嚼勁，吸附湯汁。碗中常見叉燒、筍乾與蔥花。當地有早上吃拉麵的「朝ラー」習慣，市內拉麵店密度極高，許多店家一早便開門迎客。",
+   "facts": [
+    {
+     "label": "起源",
+     "value": "喜多方市在地發展的庶民拉麵，具體創始年份說法不一"
+    },
+    {
+     "label": "主要食材",
+     "value": "平打捲麵、豚骨小魚乾醬油湯、叉燒、筍乾"
+    },
+    {
+     "label": "吃法",
+     "value": "可於早晨享用，稱為朝ラー"
+    }
+   ],
+   "season_zh": "全年",
+   "where_zh": "會津地區喜多方市內的拉麵專門店",
+   "tags": [
+    "拉麵",
+    "喜多方",
+    "朝ラー",
+    "會津"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/喜多方ラーメン"
+   ],
+   "confidence": "medium",
+   "prompt_en": "A single ceramic ramen bowl of Kitakata ramen with clear soy-pork broth, flat curly noodles, sliced chashu, menma bamboo shoots and green onion, on a dark wooden counter, steam rising, warm soft side lighting, shallow depth of field, no text, no signage"
+  },
+  {
+   "title_zh": "小菜湯",
+   "title_ja": "こづゆ",
+   "category": "鄉土料理",
+   "summary_zh": "會津婚喪喜慶必備的干貝高湯什錦湯。",
+   "body_zh": "こづゆ是會津地區的代表鄉土料理，過去在婚禮、年節等喜慶場合必定端上桌。以干貝熬出的清湯為底，加入芋頭、紅蘿蔔、香菇、木耳、麩與銀杏等多種材料，味道清淡鮮甜。傳統上用漆器小碗盛裝，可以多次續碗，是待客心意的象徵。因會津遠離海邊，珍貴的干貝乾貨成為款待貴客的食材。",
+   "facts": [
+    {
+     "label": "起源",
+     "value": "會津地區招待客人的宴席料理"
+    },
+    {
+     "label": "主要食材",
+     "value": "干貝高湯、芋頭、紅蘿蔔、香菇、麩"
+    },
+    {
+     "label": "吃法",
+     "value": "以漆器小碗盛裝，宴席上常續碗"
+    }
+   ],
+   "season_zh": "全年，年節尤多",
+   "where_zh": "會津地區的家庭、料亭與鄉土料理店",
+   "tags": [
+    "會津",
+    "干貝",
+    "漆器",
+    "宴席料理"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/こづゆ"
+   ],
+   "confidence": "medium",
+   "prompt_en": "A single red lacquer bowl of Kozuyu clear scallop broth with diced taro, carrot, shiitake mushroom, wood ear and fu, on a dark wooden tray, subtle steam, soft window light, traditional Japanese table, no text"
+  },
+  {
+   "title_zh": "福島蜜桃",
+   "title_ja": "福島の桃",
+   "category": "特產食材",
+   "summary_zh": "福島盆地盛產的多汁白桃，日本桃子產量數一數二。",
+   "body_zh": "福島縣是日本桃子的主要產地之一，福島盆地一帶因日夜溫差大、日照充足，果園林立。品種有「あかつき」「川中島白桃」等，果肉細緻多汁、甜味高。桃子成熟期集中在夏季，農園多提供採果體驗，也常見作為贈禮。除生食外，也被做成果凍、甜點與果汁。挑選時以果皮轉為乳白帶淡粉、香氣濃郁者為佳。",
+   "facts": [
+    {
+     "label": "產地",
+     "value": "福島市、桑折町、伊達市一帶的福島盆地"
+    },
+    {
+     "label": "代表品種",
+     "value": "あかつき、川中島白桃"
+    },
+    {
+     "label": "吃法",
+     "value": "冷藏後削皮生食，或製成甜點"
+    }
+   ],
+   "season_zh": "7月下旬至9月",
+   "where_zh": "福島盆地的果園與直售所",
+   "tags": [
+    "水果",
+    "桃",
+    "福島盆地",
+    "夏季"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/福島県"
+   ],
+   "confidence": "medium",
+   "prompt_en": "A single ripe Fukushima white peach with soft pink blush, one half sliced open showing juicy pale flesh, on a plain ceramic plate, light linen cloth on a wooden table, bright natural morning light, no text"
+  },
+  {
+   "title_zh": "薄皮饅頭",
+   "title_ja": "薄皮饅頭",
+   "category": "甜點和菓子",
+   "summary_zh": "以薄皮包裹滿滿紅豆餡的福島代表和菓子。",
+   "body_zh": "薄皮饅頭是福島縣的經典和菓子，特色是外皮極薄，內餡紅豆沙飽滿，甜度適中、口感綿細。外皮使用酒種發酵，帶有淡淡酒香。福島縣內的老鋪如郡山與會津地區都有販售，是常見的伴手禮。一般一口一個、搭配煎茶最合適，口味也有紅豆粒餡與漉餡之分。常見做為旅遊伴手禮，包裝多以小盒裝。",
+   "facts": [
+    {
+     "label": "起源",
+     "value": "福島縣內老鋪和菓子店的傳統點心"
+    },
+    {
+     "label": "主要食材",
+     "value": "紅豆餡、小麥粉、酒種"
+    },
+    {
+     "label": "吃法",
+     "value": "搭配煎茶或抹茶"
+    }
+   ],
+   "season_zh": "全年",
+   "where_zh": "郡山、福島、會津的和菓子老鋪",
+   "tags": [
+    "和菓子",
+    "紅豆",
+    "伴手禮",
+    "饅頭"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/薄皮饅頭"
+   ],
+   "confidence": "medium",
+   "prompt_en": "Three small round thin-skinned Usukawa manju, one broken open to show smooth red bean paste, on a small ceramic plate beside a cup of green tea, light wooden table, soft natural side light, no text"
+  },
+  {
+   "title_zh": "會津日本酒",
+   "title_ja": "会津の日本酒",
+   "category": "酒與飲品",
+   "summary_zh": "以會津好水好米釀成，酒質乾淨俐落的地酒。",
+   "body_zh": "福島縣在全國新酒鑑評會中屢獲金賞，會津地區更是酒藏集中之地。這裡擁有來自磐梯山與飯豐山的優質伏流水，加上冬季嚴寒，適合低溫發酵。會津酒多給人乾淨、俐落又帶米香的印象，酒藏常推出純米與吟釀等類型。品嚐時可冷飲或常溫，搭配こづゆ與鄉土料理相當合適。",
+   "facts": [
+    {
+     "label": "產地",
+     "value": "福島縣會津地區"
+    },
+    {
+     "label": "主要食材",
+     "value": "米、水、麴"
+    },
+    {
+     "label": "吃法",
+     "value": "冷酒或常溫，搭配鄉土料理"
+    }
+   ],
+   "season_zh": "新酒約冬季至春季",
+   "where_zh": "會津若松、喜多方一帶的酒藏",
+   "tags": [
+    "日本酒",
+    "會津",
+    "酒藏",
+    "地酒"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/福島県"
+   ],
+   "confidence": "low",
+   "prompt_en": "A single tokkuri sake flask and one small ochoko cup of Aizu sake on a dark wooden tray, a small bowl of salted snack beside it, soft warm lantern-style light, quiet Japanese interior, no label text, no signage"
+  },
+  {
+   "title_zh": "福島圓盤餃子",
+   "title_ja": "福島円盤餃子",
+   "category": "B級美食",
+   "summary_zh": "福島市獨有、整盤排成圓形的煎餃。",
+   "body_zh": "福島市的圓盤餃子是B級美食，特色是把煎好的餃子以圓形環狀排列盛盤，中央常放上豆芽菜或炒菜。餃子個頭小、外皮煎得酥脆，內餡清爽，可吃很多個。傳說是為了方便大量煎製與快速上桌而形成，在福島市的餃子店可以見到。通常搭配醋與辣油、啤酒一起享用。外皮煎出焦香，一口一個，吃起來毫無負擔。",
+   "facts": [
+    {
+     "label": "起源",
+     "value": "福島市餃子店發展出的盛盤方式，說法不一"
+    },
+    {
+     "label": "主要食材",
+     "value": "豬肉、高麗菜、韭菜、餃子皮"
+    },
+    {
+     "label": "吃法",
+     "value": "沾醋與辣油，搭配啤酒"
+    }
+   ],
+   "season_zh": "全年",
+   "where_zh": "福島市內的餃子專門店與居酒屋",
+   "tags": [
+    "餃子",
+    "B級美食",
+    "福島市",
+    "圓盤"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/福島市"
+   ],
+   "confidence": "low",
+   "prompt_en": "A single round white plate of pan-fried gyoza arranged in a neat circle with a small mound of bean sprouts in the center, crisp golden bottoms, small dish of vinegar soy sauce beside it, wooden table, warm side light, no text"
+  },
+  {
+   "title_zh": "紅蘿蔔魷魚絲",
+   "title_ja": "いかにんじん",
+   "category": "海鮮",
+   "summary_zh": "魷魚絲與紅蘿蔔絲以醬油酒醃漬的福島家常小菜。",
+   "body_zh": "いかにんじん是福島縣的鄉土小菜，將乾魷魚絲與切絲的紅蘿蔔，以醬油、味醂與酒醃漬而成。魷魚吸收醬汁後變得柔軟，與紅蘿蔔的清甜形成對比。據說源自缺少新鮮海產的內陸地區，運用保存性高的乾貨製作。常見於餐桌配菜、下酒小菜與白飯的好搭檔，也有販售成品的包裝。",
+   "facts": [
+    {
+     "label": "起源",
+     "value": "以乾魷魚入菜的福島縣內家庭料理"
+    },
+    {
+     "label": "主要食材",
+     "value": "乾魷魚絲、紅蘿蔔、醬油、味醂"
+    },
+    {
+     "label": "吃法",
+     "value": "冷藏後作為配菜或下酒菜"
+    }
+   ],
+   "season_zh": "全年",
+   "where_zh": "福島縣內家庭餐桌、超市與物產店",
+   "tags": [
+    "魷魚",
+    "紅蘿蔔",
+    "小菜",
+    "醃漬"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/いかにんじん"
+   ],
+   "confidence": "medium",
+   "prompt_en": "A small ceramic bowl of ika-ninjin, shredded dried squid and thin carrot strips glistening in soy marinade, on a wooden table with a pair of chopsticks resting beside, soft diffused window light, no text"
+  },
+  {
+   "title_zh": "會津馬刺",
+   "title_ja": "会津の馬刺し",
+   "category": "肉類",
+   "summary_zh": "以薑泥或蒜泥與醬油享用的生馬肉薄片。",
+   "body_zh": "馬刺是將新鮮馬肉切成薄片生食的料理，在福島縣會津地區也有食用文化。馬肉紅色鮮豔、脂肪少、口感柔嫩，味道清爽。通常搭配薑泥、蒜泥與醬油，或用味噌沾食，也有放上蔥花與紫蘇。會津的居酒屋與料理店常見馬肉菜單，包括馬肉刺身與馬肉鍋。肉質低脂高蛋白，是當地人喜愛的下酒菜。",
+   "facts": [
+    {
+     "label": "起源",
+     "value": "會津地區的馬肉食用傳統"
+    },
+    {
+     "label": "主要食材",
+     "value": "馬肉、薑泥、蒜泥、醬油"
+    },
+    {
+     "label": "吃法",
+     "value": "切薄片生食，沾醬油與辛香料"
+    }
+   ],
+   "season_zh": "全年",
+   "where_zh": "會津若松的居酒屋與郷土料理店",
+   "tags": [
+    "馬肉",
+    "刺身",
+    "會津",
+    "居酒屋"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/馬刺し"
+   ],
+   "confidence": "low",
+   "prompt_en": "A single round plate of thinly sliced red horse meat sashimi arranged in an overlapping fan, with a small mound of grated ginger and a shiso leaf, dark ceramic plate on a dark wooden counter, cool soft light, no text"
+  }
+ ]
+}

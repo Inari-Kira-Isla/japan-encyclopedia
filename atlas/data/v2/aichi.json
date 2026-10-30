@@ -1,0 +1,798 @@
+{
+ "id": "aichi",
+ "name_zh": "愛知縣",
+ "name_ja": "愛知県",
+ "region": "中部",
+ "overview": {
+  "intro_zh": "愛知縣位於本州中部太平洋側，面積約5,173平方公里，人口約744萬，居全國第四，縣廳所在地為名古屋，是中京都市圈的核心。織田信長、豐臣秀吉、德川家康三位戰國英傑皆出身於此，留下名古屋城、犬山城、岡崎城等歷史遺產。縣內製造業發達，製造品出貨額連續多年居全國之冠，是豐田汽車的大本營，同時也有常滑燒、有松絞染與獨特的「名古屋飯」飲食文化。",
+  "capital_zh": "名古屋市",
+  "area_km2": 5173,
+  "population_approx": "約744萬人",
+  "flower_zh": "燕子花（杜若）",
+  "bird_zh": "角鴞（小鴞）",
+  "tree_zh": "花之木",
+  "climate_zh": "太平洋側氣候，夏季悶熱，冬季乾燥少雪，名古屋夏熱冬冷。",
+  "access_zh": "名古屋站有東海道新幹線；中部國際機場（Centrair）位於常滑沖。",
+  "specialties_zh": [
+   "味噌豬排",
+   "鰻魚飯三吃",
+   "八丁味噌",
+   "常滑燒",
+   "有松絞染"
+  ],
+  "best_season_zh": "春季（賞櫻、犬山祭）與秋季（氣候宜人）"
+ },
+ "items": {
+  "architecture": {
+   "title_zh": "名古屋城",
+   "title_ja": "名古屋城",
+   "summary_zh": "德川家康築造的尾張藩居城，天守頂有金鯱。",
+   "body_zh": "名古屋城由德川家康下令於1610年開始興建，是尾張德川家的居城，歷經250餘年。為此將清洲城下約5萬居民與110座寺院遷移而來，稱為「清洲越」。1612年天守完工，天守頂端的一對金鯱為象徵。1945年5月的空襲使天守與大部分御殿燒毀，現今天守為1959年重建的鋼筋混凝土建築，本丸御殿則經2009至2018年木造復原，並指定為特別史蹟。二之丸一帶的庭園與櫻花也值得一遊，整座城堡是了解尾張德川家權勢的最佳場所。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "名古屋市中區本丸"
+    },
+    {
+     "label": "始建",
+     "value": "1610年（慶長15年）"
+    },
+    {
+     "label": "天守完工",
+     "value": "1612年"
+    },
+    {
+     "label": "現況",
+     "value": "天守1959年重建，本丸御殿2018年全部復原"
+    },
+    {
+     "label": "指定",
+     "value": "特別史蹟"
+    }
+   ],
+   "best_season_zh": "春季櫻花、秋季",
+   "tips_zh": "目前天守因整修與木造復原爭議有休館或開放限制，出發前請務必先查官方網站；本丸御殿內部華麗，值得入內參觀。",
+   "tags": [
+    "城池",
+    "金鯱",
+    "德川家康",
+    "特別史蹟"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/名古屋城"
+   ],
+   "confidence": "high",
+   "prompt_en": "Nagoya Castle main keep with a pair of golden shachihoko ornaments on the roof, stone walls and moat in foreground, blue sky"
+  },
+  "food": {
+   "title_zh": "味噌豬排與鰻魚飯三吃",
+   "title_ja": "味噌カツとひつまぶし",
+   "summary_zh": "名古屋飯代表：濃厚味噌豬排與三吃鰻魚。",
+   "body_zh": "名古屋飯是以愛知縣為中心的獨特飲食文化，味噌豬排淋上以八丁味噌為基底的濃稠醬汁，口味偏甜鹹。鰻魚飯三吃（ひつまぶし）則將烤鰻切塊鋪在飯上，吃法是分成四份：第一份原味、第二份加蔥花山葵等佐料、第三份淋上高湯或茶做成茶泡飯，第四份隨意。起源有熱田蓬萊軒等說法，一說源於明治時代，名稱亦於1987年被註冊商標，但法院後來認定為一般料理名稱。若想嘗試更多口味，也可搭配味噌煮烏龍麵、天婦羅飯糰等同屬名古屋飯的鄉土料理。",
+   "facts": [
+    {
+     "label": "味噌豬排",
+     "value": "以八丁味噌醬汁淋在炸豬排上"
+    },
+    {
+     "label": "三吃",
+     "value": "原味、加佐料、茶泡飯、自選"
+    },
+    {
+     "label": "起源",
+     "value": "熱田蓬萊軒等說法，說法不一"
+    }
+   ],
+   "best_season_zh": "全年",
+   "tips_zh": "兩種名物都可在名古屋站周邊與榮、大須一帶找到，人多的名店建議避開尖峰；味噌醬汁偏濃，可請店家醬汁分開放。",
+   "tags": [
+    "名古屋飯",
+    "味噌豬排",
+    "鰻魚",
+    "美食"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/ひつまぶし"
+   ],
+   "confidence": "medium",
+   "prompt_en": "A plate of miso katsu pork cutlet with dark miso sauce next to a lacquer box of hitsumabushi eel on rice, warm light, table setting"
+  },
+  "culture": {
+   "title_zh": "犬山祭",
+   "title_ja": "犬山祭",
+   "summary_zh": "針綱神社例祭，車山與機關人偶遊行。",
+   "body_zh": "犬山祭是每年4月第一個週六、週日舉行的春祭，為犬山市針綱神社的例祭，起源可追溯至1635年。13輛三層構造的「車山」是主角，下層為樂隊，上層有機關人偶（からくり）表演，中層則操控機關。夜晚的「夜車山」掛上365盞提燈，象徵一年的日數，場面華麗。2006年被指定為重要無形民俗文化財，2016年以「山、鉾、屋台行事」之一登錄聯合國無形文化遺產。白天的車山會在城下町各處停駐，觀眾可近距離欣賞人偶如何隨音樂翩翩起舞。",
+   "facts": [
+    {
+     "label": "日期",
+     "value": "每年4月第一個週六、日"
+    },
+    {
+     "label": "主角",
+     "value": "13輛車山"
+    },
+    {
+     "label": "特色",
+     "value": "機關人偶、夜車山365盞燈"
+    },
+    {
+     "label": "遺產",
+     "value": "2016年登錄無形文化遺產"
+    }
+   ],
+   "best_season_zh": "4月第一個週末",
+   "tips_zh": "祭典當天犬山城下町人潮極多，宜提早到並選定觀賞位置；夜車山的拍攝請注意安全，避免擋住遊行路線。",
+   "tags": [
+    "祭典",
+    "車山",
+    "機關人偶",
+    "無形文化遺產"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/犬山祭"
+   ],
+   "confidence": "high",
+   "prompt_en": "Elaborate three-tier festival floats with karakuri puppets lit by paper lanterns at night in Inuyama old town"
+  },
+  "history": {
+   "title_zh": "桶狹間古戰場",
+   "title_ja": "桶狭間古戦場",
+   "summary_zh": "織田信長奇襲今川義元的戰國轉折點。",
+   "body_zh": "桶狹間之戰發生於1560年（永祿3年）5月19日，今川義元率領約25,000人進入尾張，織田信長以約2,000至3,000人從清洲出發，在大雨中奇襲義元本陣，義元戰死。這場以少勝多的戰役讓信長聲名大振，同時使松平元康（日後的德川家康）得以脫離今川獨立，後來與信長結成清洲同盟。關於戰場確切位置有多種說法，名古屋市緑區與豐明市各有古戰場傳承地。如今古戰場公園整潔安靜，是想追溯戰國故事的歷史迷必訪之地。",
+   "facts": [
+    {
+     "label": "年代",
+     "value": "1560年5月19日"
+    },
+    {
+     "label": "交戰",
+     "value": "織田信長 對 今川義元"
+    },
+    {
+     "label": "兵力",
+     "value": "今川約25,000；織田約2,000–3,000"
+    },
+    {
+     "label": "古戰場",
+     "value": "名古屋市緑區、豐明市均有傳承地"
+    }
+   ],
+   "best_season_zh": "春秋兩季；新綠或紅葉",
+   "tips_zh": "兩處傳承地都有紀念公園與石碑，步行不遠；建議配合地圖與導覽資料，因確切戰場位置至今仍有討論。",
+   "tags": [
+    "戰國",
+    "織田信長",
+    "古戰場",
+    "史蹟"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/桶狭間の戦い"
+   ],
+   "confidence": "medium",
+   "prompt_en": "Okehazama battlefield memorial park with a stone monument and old pine trees, soft evening light, no people"
+  },
+  "mascot": {
+   "title_zh": "金鯱角色",
+   "title_ja": "金のしゃちほこのキャラ",
+   "summary_zh": "以名古屋城金鯱為靈感的原創吉祥物。",
+   "body_zh": "金鯱是名古屋城天守頂端的象徵，頭似虎、身為魚，被視為防火的守護獸，成為名古屋與愛知的代表性圖像。名古屋市與愛知縣的官方活動也常以金鯱做為意象，例如名古屋城週邊的紀念品與徽章。本頁以此為靈感設計一個原創角色：一隻小小的金色鯱，鱗片閃閃發亮，色調柔和可愛。圖像不複製任何現有的商標吉祥物，只取名古屋城的象徵意涵與粉彩風格。若在名古屋街頭看到金鯱造型的商品，可留意其造型是否來自官方授權，選購更安心。",
+   "facts": [
+    {
+     "label": "靈感來源",
+     "value": "名古屋城金鯱"
+    },
+    {
+     "label": "意涵",
+     "value": "傳說可防火災"
+    },
+    {
+     "label": "本頁性質",
+     "value": "原創設計，非官方角色"
+    }
+   ],
+   "best_season_zh": "全年",
+   "tips_zh": "在名古屋城與名古屋站周邊的紀念品店常能買到金鯱周邊，行前不妨先確認店家是否有最新款。",
+   "tags": [
+    "吉祥物",
+    "金鯱",
+    "名古屋",
+    "原創"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/名古屋城"
+   ],
+   "confidence": "medium",
+   "prompt_en": "A cute small golden shachihoko fish-tiger character with sparkling scales, pastel illustration. Original cute character inspired by local symbols, not replicating any existing trademarked mascot."
+  },
+  "scenery": {
+   "title_zh": "渥美半島伊良湖岬",
+   "title_ja": "伊良湖岬",
+   "summary_zh": "三灣交會處的海岬與燈塔。",
+   "body_zh": "伊良湖岬位於田原市，是渥美半島的前端，伊勢灣、三河灣與太平洋在此交會。岬上有1929年建成的伊良湖岬燈塔，1998年入選日本燈塔50選；附近的戀路之濱也是知名海灘。1898年柳田國男在此撿到椰子果實，轉述給島崎藤村，後者寫下了名詩《椰子之實》。這裡也是伊勢灣渡輪的出發點，可搭船前往三重縣鳥羽。附近的伊良湖港設有觀光設施和市場，也可品嘗當地新鮮的海產與蔬果。傍晚時岬角被晚霞染紅，是攝影愛好者喜愛的時刻。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "愛知縣田原市"
+    },
+    {
+     "label": "燈塔",
+     "value": "1929年建成，日本燈塔50選"
+    },
+    {
+     "label": "文學",
+     "value": "《椰子之實》靈感來源"
+    },
+    {
+     "label": "渡輪",
+     "value": "連接三重縣鳥羽"
+    }
+   ],
+   "best_season_zh": "秋冬晴天、日落時分",
+   "tips_zh": "搭伊勢灣渡輪可從海上欣賞渥美半島；夏季海邊風大，請留意天候，傍晚的夕陽尤其漂亮。",
+   "tags": [
+    "海岬",
+    "燈塔",
+    "太平洋",
+    "文學"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/伊良湖岬"
+   ],
+   "confidence": "high",
+   "prompt_en": "Irago Cape lighthouse and rocky coast with crashing waves at sunset, wide landscape view of Pacific Ocean"
+  },
+  "spot": {
+   "title_zh": "犬山城",
+   "title_ja": "犬山城",
+   "summary_zh": "現存最古老天守之一，位於木曾川畔。",
+   "body_zh": "犬山城位於犬山市，座落於木曾川南岸約88公尺的小山丘上，天守被認為是日本現存12座天守中年代最古老者，1952年被指定為國寶，全國僅五座國寶天守。江戶時代為成瀨家居城，直到2004年才由私人所有轉為財團法人所有，曾是日本最後一座私有城堡。登上天守可眺望木曾川與遠方的濃尾平原，城下町則保留了古色古香的街道。從天守向外看出去的視野開闊，若遇上晴朗的日子，連遠方的山稜線都清楚可見。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "愛知縣犬山市"
+    },
+    {
+     "label": "國寶指定",
+     "value": "天守，1952年"
+    },
+    {
+     "label": "標高",
+     "value": "約88公尺的山丘"
+    },
+    {
+     "label": "入場費",
+     "value": "成人1,000日圓（以官方公告為準）"
+    }
+   ],
+   "best_season_zh": "春季櫻花、秋季紅葉",
+   "tips_zh": "天守內樓梯陡峭，需脫鞋登樓，請穿方便行走的服裝；下午光線柔和，適合在木曾川畔拍攝城堡全景。",
+   "tags": [
+    "國寶",
+    "天守",
+    "木曾川",
+    "城下町"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/犬山城"
+   ],
+   "confidence": "high",
+   "prompt_en": "Inuyama Castle national treasure keep on a hill above the Kiso River, autumn morning mist, wide shot"
+  },
+  "experience": {
+   "title_zh": "常滑招財貓陶藝",
+   "title_ja": "常滑焼の体験",
+   "summary_zh": "常滑燒陶藝體驗與招財貓。",
+   "body_zh": "常滑燒是日本六古窯之一，起源於平安時代後期（約12世紀），江戶時代發展出以紅土製成的朱泥茶壺，明治以後土管、建築用陶磚也成為重要產品。常滑市內有「やきもの散歩道」，沿路陶房與展售店林立，不少工房提供手捏陶或彩繪招財貓體驗。近年還有以招財貓為主題的街景與裝置藝術，成為熱門打卡地。實際體驗內容與價格依各工房而異，請預約確認。工房老闆多半會親自示範，初學者也能很快做出屬於自己的招財貓，非常適合親子或情侶同遊。",
+   "facts": [
+    {
+     "label": "起源",
+     "value": "平安時代後期（約12世紀）"
+    },
+    {
+     "label": "六古窯",
+     "value": "日本六古窯之一"
+    },
+    {
+     "label": "名產",
+     "value": "朱泥茶壺、土管、招財貓"
+    },
+    {
+     "label": "體驗",
+     "value": "陶藝、彩繪招財貓"
+    }
+   ],
+   "best_season_zh": "全年；春秋氣候舒適",
+   "tips_zh": "體驗多需預約，作品常需數週燒製後郵寄，若返國前需拿到作品，行前務必詢問交件方式與運費。",
+   "tags": [
+    "常滑燒",
+    "陶藝",
+    "招財貓",
+    "手作"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/常滑焼"
+   ],
+   "confidence": "medium",
+   "prompt_en": "Pottery workshop in Tokoname with hands painting a maneki-neko clay cat figure, shelves of ceramics, warm light"
+  },
+  "costume": {
+   "title_zh": "有松絞染",
+   "title_ja": "有松絞り",
+   "summary_zh": "有松鳴海絞的絞染浴衣。",
+   "body_zh": "有松絞染（有松・鳴海絞）是名古屋市緑區有松地區的傳統染織，起源於江戶時代初期，因位於東海道旁，成為旅人的紀念品而興盛。以線將布料綁、縫、捲後染色，可形成多達上百種花紋。有松的老街保存了江戶以來的商家建築，已被指定為重要傳統建造物群保存地區。每年初夏舉辦的「有松絞祭」展示傳統技法，也可購買浴衣、手帕等製品。若想購買成品，也可在老街的店家挑選手帕、扇子等小物，價格親民，很適合當伴手禮。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "名古屋市緑區有松"
+    },
+    {
+     "label": "技法",
+     "value": "綁、縫、捲後染色"
+    },
+    {
+     "label": "街景",
+     "value": "重要傳統建造物群保存地區"
+    },
+    {
+     "label": "活動",
+     "value": "每年初夏有松絞祭（日期以官方為準）"
+    }
+   ],
+   "best_season_zh": "初夏至夏季（浴衣季）",
+   "tips_zh": "老街可免費散步，絞染工房設有體驗行程，建議預約；購買浴衣時留意尺寸，通常需要試穿或測量。",
+   "tags": [
+    "絞染",
+    "浴衣",
+    "傳統工藝",
+    "有松"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/有松"
+   ],
+   "confidence": "low",
+   "prompt_en": "Anonymous model in a yukata with Arimatsu shibori tie-dye indigo pattern standing on an old merchant street, soft light"
+  }
+ },
+ "areas": [
+  {
+   "id": "aichi_nagoya",
+   "name_zh": "名古屋",
+   "name_ja": "名古屋",
+   "intro_zh": "名古屋是愛知縣廳所在地，也是中京都市圈的核心，以名古屋城、熱田神宮與獨特的名古屋飯聞名。市區兼具歷史與現代，交通便利，適合作為前往愛知各地的起點。周邊的大須商店街也值得一逛。",
+   "items": {
+    "spot": {
+     "title_zh": "名古屋城",
+     "title_ja": "名古屋城",
+     "summary_zh": "金色鯱鉾聞名的城。",
+     "body_zh": "名古屋城是德川家康於1610年下令興建的尾張藩居城，天守頂端的金鯱是名古屋的象徵。1945年空襲燒毀天守與大部分御殿，1959年重建天守，本丸御殿則在2018年完成復原。城址是特別史蹟，護城河與石垣保留了江戶初期的氣勢。春季櫻花盛開時，城內公園是熱門賞花地，也常舉辦活動與夜間開放。天守周邊與二之丸庭園也常舉辦活動，結合城內的導覽可以更了解尾張德川家的歷史脈絡。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "名古屋市中區"
+      },
+      {
+       "label": "始建",
+       "value": "1610年"
+      },
+      {
+       "label": "指定",
+       "value": "特別史蹟"
+      }
+     ],
+     "best_season_zh": "春季櫻花",
+     "tips_zh": "市營地下鐵名城線「市役所」站步行可達；入內參觀前請先查詢天守與御殿的開放資訊，避免撲空。",
+     "tags": [
+      "城池",
+      "金鯱",
+      "櫻花",
+      "史蹟"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/名古屋城"
+     ],
+     "confidence": "high",
+     "prompt_en": "Nagoya Castle with golden shachihoko ornaments on the roof, blue sky, stone walls"
+    },
+    "food": {
+     "title_zh": "味噌豬排與雞翅",
+     "title_ja": "味噌カツと手羽先",
+     "summary_zh": "名古屋飯代表。",
+     "body_zh": "味噌豬排使用八丁味噌醬汁，味道濃郁偏甜；手羽先則是油炸雞翅，外皮酥脆，撒上胡椒與芝麻，名古屋居酒屋幾乎必點。兩者都是名古屋飯的代表，與鰻魚飯三吃、味噌煮烏龍麵、天婦羅飯糰等並稱。名古屋市區的名店分布於榮、名古屋站與大須一帶，晚上居酒屋特別熱鬧，夫妻或朋友結伴共享最為合適。許多名古屋飯店家也在百貨公司美食街設分店，沒時間排隊的旅人可選擇這類地點，方便又快速。建議搭配白飯和味噌湯點成定食，吃起來更完整。",
+     "facts": [
+      {
+       "label": "味噌豬排",
+       "value": "八丁味噌醬汁"
+      },
+      {
+       "label": "手羽先",
+       "value": "炸雞翅，胡椒與芝麻調味"
+      },
+      {
+       "label": "名古屋飯",
+       "value": "地方美食統稱"
+      }
+     ],
+     "best_season_zh": "全年",
+     "tips_zh": "手羽先吃時可戴塑膠手套，啤酒是最佳搭配；點餐時味噌醬汁可請店家分開放，出發前建議先查詢最新營業與開放資訊。",
+     "tags": [
+      "名古屋飯",
+      "味噌",
+      "炸雞翅",
+      "居酒屋"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/ひつまぶし"
+     ],
+     "confidence": "medium",
+     "prompt_en": "Miso katsu pork cutlet with thick dark sauce and fried chicken wings on a table, close-up"
+    },
+    "scenery": {
+     "title_zh": "熱田神宮",
+     "title_ja": "熱田神宮",
+     "summary_zh": "市區中的古老神宮與茂密樹林。",
+     "body_zh": "熱田神宮位於名古屋市熱田區，是供奉三種神器之一草薙神劍的重要神社，傳說創祀於西元113年。境內樹林茂密，有據說樹齡千年以上的大樟樹，參道兩旁綠意盎然，一進入便感到都市中少有的幽靜。本殿為神明造，與伊勢神宮同樣風格，每年新年期間都有超過兩百萬人參拜。境內另設有寶物館，收藏約450把刀劍。神宮內另有茶屋供應熱田名物「宮きしめん」，參拜之後順道品嘗最是合適。早晨前往人潮較少，更能感受參道的清幽。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "名古屋市熱田區"
+      },
+      {
+       "label": "祭神",
+       "value": "草薙神劍所在"
+      },
+      {
+       "label": "相傳創祀",
+       "value": "113年"
+      },
+      {
+       "label": "新年參拜",
+       "value": "超過200萬人"
+      }
+     ],
+     "best_season_zh": "全年；新年與春秋最熱鬧",
+     "tips_zh": "從名鐵「神宮前」站步行即到；參拜請保持安靜，樹林內有許多小社殿，慢慢逛約需一小時。",
+     "tags": [
+      "神宮",
+      "草薙劍",
+      "樹林",
+      "參拜"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/熱田神宮"
+     ],
+     "confidence": "high",
+     "prompt_en": "Atsuta Shrine approach lined with ancient camphor trees, dappled sunlight, stone lanterns"
+    }
+   }
+  },
+  {
+   "id": "aichi_inuyama",
+   "name_zh": "犬山",
+   "name_ja": "犬山",
+   "intro_zh": "犬山位於縣北部木曾川畔，以國寶犬山城聞名，城下町保留江戶風情。每年春季的犬山祭與夏季的木曾川鵜飼，都是來訪的重點，適合半日至一日慢遊。城下町步行即可逛遍，輕鬆好走。",
+   "items": {
+    "spot": {
+     "title_zh": "犬山城",
+     "title_ja": "犬山城",
+     "summary_zh": "國寶天守，位於木曾川畔。",
+     "body_zh": "犬山城建於木曾川南岸的山丘上，天守是現存12座天守中最古老者，1952年指定為國寶。江戶時代由成瀨家世代居住，直到2004年才由私人轉為財團法人持有。天守小而樸素，登上頂層可環視木曾川與濃尾平原。下方城下町保留了江戶街景，有許多販賣和菓子與小吃的老店，適合邊走邊吃。城下町裡有許多古色古香的店家與小吃，可在登城前後一併逛逛，感受江戶時代的氛圍。登城前先在城下町走走，更能感受氣氛。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "犬山市"
+      },
+      {
+       "label": "國寶指定",
+       "value": "1952年"
+      },
+      {
+       "label": "私有期間",
+       "value": "至2004年"
+      }
+     ],
+     "best_season_zh": "春季櫻花、秋季紅葉",
+     "tips_zh": "可先逛城下町再登城，天守需脫鞋；週末人潮多，建議早點抵達以避開排隊，出發前建議先查詢最新營業與開放資訊。",
+     "tags": [
+      "國寶",
+      "天守",
+      "木曾川",
+      "城下町"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/犬山城"
+     ],
+     "confidence": "high",
+     "prompt_en": "Inuyama Castle on a hill above the Kiso River, morning mist"
+    },
+    "food": {
+     "title_zh": "五平餅",
+     "title_ja": "五平餅",
+     "summary_zh": "味噌塗烤的米餅串。",
+     "body_zh": "五平餅是中部山區常見的鄉土點心，將搗過的米飯捏成餅狀並插在竹串上，塗上以味噌、核桃或芝麻調成的醬料後烘烤。形狀與口味因地區而異，犬山城下町有數家店家販售，邊走邊吃十分方便。外表焦香、內裡軟糯，醬料帶有甜鹹的香氣，是搭配茶的好點心，也是旅人在城下町散步時的熱門小吃。城下町裡常能看到以炭火現烤的攤位，香氣四溢，邊走邊吃是犬山最有代表性的逛街方式之一。通常一串價格不高，可多嘗試幾家比較風味差異。",
+     "facts": [
+      {
+       "label": "特色",
+       "value": "米飯串烤，味噌醬料"
+      },
+      {
+       "label": "形狀",
+       "value": "依地區有圓形、草鞋形等"
+      },
+      {
+       "label": "購買",
+       "value": "城下町多家店販售"
+      }
+     ],
+     "best_season_zh": "全年；春秋散步時最適合",
+     "tips_zh": "趁熱吃最香；吃完竹串請放回店家指定的回收處，避免丟棄在街上，出發前建議先查詢最新營業與開放資訊。",
+     "tags": [
+      "點心",
+      "味噌",
+      "鄉土料理",
+      "城下町"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/五平餅"
+     ],
+     "confidence": "low",
+     "prompt_en": "Gohei mochi skewers brushed with miso grilled over charcoal, close-up"
+    },
+    "scenery": {
+     "title_zh": "木曾川與鵜飼",
+     "title_ja": "木曽川",
+     "summary_zh": "夏夜鵜飼與木曾川河岸。",
+     "body_zh": "犬山的木曾川鵜飼（木曽川うかい）每年6月1日至10月15日舉行，起源於江戶時代，後來一度中止，明治時代經人努力而復活。最大特色是全國唯一也有白天鵜飼的場所，一般鵜飼多在夜晚以篝火進行。傍晚遊船逐漸駛入河中，鵜匠操控鵜鳥捕捉香魚，火光映在水面，與背後的犬山城形成壯麗的景色。遊船行程通常含有鵜匠的解說與表演，若想拍攝，建議事先確認座位位置與船班時間。河畔步道也適合傍晚散步，可與城下町一併安排。",
+     "facts": [
+      {
+       "label": "期間",
+       "value": "6月1日至10月15日"
+      },
+      {
+       "label": "特色",
+       "value": "全國唯一有白天鵜飼"
+      },
+      {
+       "label": "景觀",
+       "value": "犬山城倒映於木曾川"
+      }
+     ],
+     "best_season_zh": "6月至10月",
+     "tips_zh": "需事先預約乘船；夜間遊船江風較涼，請帶薄外套；天候或水位不佳時可能停航，出發前建議先查詢最新營業與開放資訊。",
+     "tags": [
+      "鵜飼",
+      "木曾川",
+      "夏季",
+      "遊船"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/鵜飼"
+     ],
+     "confidence": "medium",
+     "prompt_en": "Kiso River at Inuyama with cormorant fishing boats lit by fire baskets and the castle behind at dusk"
+    }
+   }
+  },
+  {
+   "id": "aichi_toyohashi_mikawa",
+   "name_zh": "三河",
+   "name_ja": "三河",
+   "intro_zh": "三河是愛知縣東部舊國，岡崎為德川家康出生地，豐橋、豐川一帶與渥美半島則是農業和海岸景觀。八丁味噌與三河灣的海產，是這裡最具代表的味道。自駕或轉乘私鐵可輕鬆抵達。",
+   "items": {
+    "spot": {
+     "title_zh": "岡崎城",
+     "title_ja": "岡崎城",
+     "summary_zh": "德川家康出生地。",
+     "body_zh": "岡崎城位於岡崎市，是德川家康誕生的城池，約於1452年由西鄉氏所建，後歷經松平氏與德川氏經營，江戶時代為岡崎藩所在。1873年因廢城令被拆除，1959年以鋼筋混凝土重建高約28公尺的天守。城址所在的岡崎公園是日本櫻花名所百選之一，春季賞櫻與櫻花祭十分熱鬧，附近還有三河武士之家家康館。公園內的櫻花隧道與護城河相映，傍晚打燈時尤其漂亮，是三河地區最受歡迎的賞花景點之一。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "愛知縣岡崎市"
+      },
+      {
+       "label": "特色",
+       "value": "德川家康誕生地"
+      },
+      {
+       "label": "天守",
+       "value": "1959年重建，約28公尺"
+      },
+      {
+       "label": "名勝",
+       "value": "日本櫻花名所百選"
+      }
+     ],
+     "best_season_zh": "春季櫻花",
+     "tips_zh": "櫻花季人潮多，建議平日前往；公園內還有家康館可一併參觀，以了解三河武士文化，出發前建議先查詢最新營業與開放資訊。",
+     "tags": [
+      "德川家康",
+      "城池",
+      "櫻花",
+      "三河"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/岡崎城"
+     ],
+     "confidence": "high",
+     "prompt_en": "Okazaki Castle by a river with cherry blossoms, spring morning"
+    },
+    "food": {
+     "title_zh": "八丁味噌",
+     "title_ja": "八丁味噌",
+     "summary_zh": "深色豆味噌與味噌煮烏龍麵。",
+     "body_zh": "八丁味噌是岡崎市八丁町一帶生產的長期熟成豆味噌，名稱來自距岡崎城西方八丁（約870公尺）。只使用大豆製麴，不使用米或麥，裝入大木桶並以石塊加壓，熟成約一年半至兩年以上。主要有兩家老鋪，岡崎在地人常以它做成味噌煮烏龍麵與味噌豬排醬。近年地理標示（GI）問題曾引發爭議，2025年1月已獲進一步登記。岡崎市內仍有老鋪保留傳統製法，參觀工廠時可看到巨大的木桶與堆疊如小山的石塊，非常壯觀。",
+     "facts": [
+      {
+       "label": "特色",
+       "value": "純大豆麴、木桶石壓"
+      },
+      {
+       "label": "熟成",
+       "value": "約1.5至2年以上"
+      },
+      {
+       "label": "名稱由來",
+       "value": "距岡崎城約八丁"
+      },
+      {
+       "label": "GI",
+       "value": "2025年1月追加登記"
+      }
+     ],
+     "best_season_zh": "全年",
+     "tips_zh": "可到八丁味噌之里的老鋪參觀，味噌煮烏龍麵在當地店家各有風味；伴手禮以真空包裝最方便。",
+     "tags": [
+      "味噌",
+      "八丁",
+      "岡崎",
+      "發酵"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/八丁味噌"
+     ],
+     "confidence": "high",
+     "prompt_en": "Hatcho miso nabe udon in a clay pot bubbling, wooden table, steam"
+    },
+    "scenery": {
+     "title_zh": "渥美半島海岸",
+     "title_ja": "渥美半島",
+     "summary_zh": "太平洋側的伊良湖岬風景。",
+     "body_zh": "渥美半島位於愛知縣南部，伸入太平洋，與伊勢灣、三河灣相接。半島前端的伊良湖岬有燈塔與戀路之濱，海岸線漫長，是衝浪與賞夕陽的熱門地點。這裡也是農業大縣愛知的重要產地，盛產高麗菜、花卉與蜜瓜。1898年柳田國男在此撿到椰子果實，後來啟發島崎藤村名詩《椰子之實》。半島的農業景觀與海岸線並存，沿途的蔬菜直售所也值得停留，可買到當季新鮮蔬果和花卉。沿途的蔬菜直售所可順道採買當季農產。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "田原市"
+      },
+      {
+       "label": "燈塔",
+       "value": "1929年建成"
+      },
+      {
+       "label": "文學",
+       "value": "《椰子之實》"
+      }
+     ],
+     "best_season_zh": "秋冬晴天、日落時分",
+     "tips_zh": "半島很長，以自駕最方便；海邊風大請小心，傍晚時分的夕陽尤其美，出發前建議先查詢最新營業與開放資訊。",
+     "tags": [
+      "海岸",
+      "燈塔",
+      "衝浪",
+      "半島"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/伊良湖岬"
+     ],
+     "confidence": "high",
+     "prompt_en": "Irago Cape coastline on Atsumi Peninsula with waves and lighthouse, clear day"
+    }
+   }
+  },
+  {
+   "id": "aichi_tokoname",
+   "name_zh": "常滑",
+   "name_ja": "常滑",
+   "intro_zh": "常滑位於知多半島，是日本六古窯之一常滑燒的產地。陶器步道、窯場與朱泥茶壺是主要風景，臨海的伊勢灣沙灘與夕陽也很美，中部國際機場即位於此地外海。從名古屋搭名鐵約半小時可達。",
+   "items": {
+    "spot": {
+     "title_zh": "常滑陶瓷散步道",
+     "title_ja": "やきもの散歩道",
+     "summary_zh": "窯與陶管排列的古街。",
+     "body_zh": "常滑的「やきもの散歩道」是一條約1.6公里的A路線散步道，沿路有舊窯場、煙囪、以土管砌成的牆面與古老工房。常滑燒的歷史可上溯至平安時代後期，明治時代大量生產土管與建築用陶磚，成為產業核心。如今不少舊工房改為咖啡廳與展售店，行走其間彷彿穿越到舊時工業街區，是攝影與散步的好去處。路線設有解說牌，介紹窯場歷史與陶管使用方式，行走其間也可學習到常滑燒的背景知識。附近也有招財貓主題的街景，增添散步的趣味。",
+     "facts": [
+      {
+       "label": "路線",
+       "value": "約1.6公里"
+      },
+      {
+       "label": "特色",
+       "value": "土管牆、煙囪、古窯"
+      },
+      {
+       "label": "起源",
+       "value": "平安時代後期"
+      }
+     ],
+     "best_season_zh": "春秋兩季",
+     "tips_zh": "沿路有路標，可從常滑車站出發；陶器易碎，建議購買後請店家妥善包裝，出發前建議先查詢最新營業與開放資訊。",
+     "tags": [
+      "陶器",
+      "散步",
+      "古窯",
+      "工業遺產"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/常滑焼"
+     ],
+     "confidence": "medium",
+     "prompt_en": "Tokoname pottery walking path with old kilns, clay pipes and tiled walls, warm light"
+    },
+    "food": {
+     "title_zh": "知多半島海鮮",
+     "title_ja": "知多半島の海鮮",
+     "summary_zh": "章魚與河豚等。",
+     "body_zh": "知多半島三面環海，漁業發達，章魚、河豚、海苔、魩仔魚等均為知名特產。師崎（南知多町）一帶以章魚與河豚聞名，冬天是吃河豚的季節，海鮮丼、天婦羅都相當受歡迎。半島上也有許多漁港食堂與市場，不論是烤章魚、炸物或生魚片，皆能吃到新鮮滋味，適合開車慢遊品嘗。各漁港食堂常有新鮮漁獲，也有市場提供外帶與宅配，帶一份回家也不錯。河豚料理冬季較受歡迎，建議事先預約並選有執照的店家，也可詢問當日推薦海鮮。",
+     "facts": [
+      {
+       "label": "特產",
+       "value": "章魚、河豚、魩仔魚等"
+      },
+      {
+       "label": "名所",
+       "value": "師崎、日間賀島"
+      },
+      {
+       "label": "吃法",
+       "value": "海鮮丼、天婦羅、燒烤"
+      }
+     ],
+     "best_season_zh": "冬季河豚；春夏章魚",
+     "tips_zh": "日間賀島有章魚與河豚的人氣料理，可搭船前往；河豚料理請選擇有執照的店家，出發前建議先查詢最新營業與開放資訊。",
+     "tags": [
+      "海鮮",
+      "章魚",
+      "河豚",
+      "知多半島"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/知多半島"
+     ],
+     "confidence": "low",
+     "prompt_en": "Grilled octopus and fresh seafood on a plate in Chita Peninsula, close-up"
+    },
+    "scenery": {
+     "title_zh": "知多半島海岸",
+     "title_ja": "知多半島の海岸",
+     "summary_zh": "伊勢灣旁沙灘與夕照。",
+     "body_zh": "知多半島位於伊勢灣與三河灣之間，西側面向伊勢灣，沙灘與漁港散布，傍晚夕陽落入海面，景色寧靜。半島地勢平緩，夏季海水浴場熱鬧，其他季節則適合散步與騎行。從常滑海岸遠望，可見中部國際機場的燈火與飛機起降，與夕照一同形成特別的畫面。從常滑出發到半島各處都很方便，騎單車或自駕皆宜，沿路景色變化豐富，可隨性停留。沿岸漁港與小型市場也能順道逛逛，體驗在地的生活感，也可在海邊小店喝杯咖啡休息。",
+     "facts": [
+      {
+       "label": "位置",
+       "value": "伊勢灣與三河灣之間"
+      },
+      {
+       "label": "特色",
+       "value": "沙灘、夕陽、漁港"
+      },
+      {
+       "label": "鄰近",
+       "value": "中部國際機場"
+      }
+     ],
+     "best_season_zh": "傍晚夕陽時分",
+     "tips_zh": "傍晚前往能看到夕陽與機場燈火，注意帶外套；海邊風大，攝影時要保護鏡頭，出發前建議先查詢最新營業與開放資訊。",
+     "tags": [
+      "海岸",
+      "夕陽",
+      "沙灘",
+      "機場"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/知多半島"
+     ],
+     "confidence": "low",
+     "prompt_en": "Chita Peninsula beach at sunset with calm sea and orange sky"
+    }
+   }
+  }
+ ]
+}

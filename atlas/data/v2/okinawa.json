@@ -1,0 +1,959 @@
+{
+ "id": "okinawa",
+ "name_zh": "沖繩",
+ "name_ja": "沖縄",
+ "region": "九州・沖縄",
+ "overview": {
+  "intro_zh": "沖繩縣由約691座島嶼組成，東西綿延約1,000公里，是日本最南端的有人居住地區，面積約2,282平方公里，縣廳設在那霸。琉球王國時代曾是連結中國、日本與東南亞的貿易中心，留下首里城與座喜味城等世界遺產，並發展出獨特的語言、音樂與工藝，如三線、紅型與壺屋燒。氣候為亞熱帶至熱帶，終年溫暖，海洋與珊瑚礁資源豐富；美食以沖繩麵、苦瓜炒、石垣牛等聞名，也有美軍基地占本島約15%面積的歷史與現實議題。",
+  "capital_zh": "那霸市",
+  "area_km2": 2282,
+  "population_approx": "約147萬",
+  "flower_zh": "刺桐（デイゴ）",
+  "bird_zh": "野口啄木鳥（ノグチゲラ）",
+  "tree_zh": "琉球松",
+  "climate_zh": "亞熱帶至熱帶，終年溫暖，氣溫幾乎不會低於冰點；夏秋為颱風季。",
+  "access_zh": "主要門戶為那霸機場，市區有單軌電車；離島由那霸或石垣、宮古機場轉機或乘船。",
+  "specialties_zh": [
+   "沖繩麵",
+   "苦瓜炒",
+   "石垣牛",
+   "紅型",
+   "泡盛",
+   "壺屋燒"
+  ],
+  "best_season_zh": "4至10月適合海灘，注意夏秋颱風；11至3月較涼，適合觀光"
+ },
+ "items": {
+  "architecture": {
+   "title_zh": "首里城",
+   "title_ja": "首里城",
+   "summary_zh": "琉球王國王宮，朱紅色中日混合建築。",
+   "body_zh": "首里城是琉球王國的政治與文化中心，推定創建於14世紀末，15世紀初尚巴志整備內郭與龍潭。建築受中國影響，門與殿宇塗上朱漆、鋪紅瓦，屋簷與裝飾大量使用龍紋，設計重視政治中樞而非軍事防禦。2000年12月與座喜味城等一同登錄世界遺產「琉球王國的城及相關遺產群」（復原建築本身不在遺產範圍內）。2019年10月31日凌晨發生大火，正殿、北殿、南殿等8處設施焚毀，目前正殿木造復原工程進行中，預定2026年秋完成。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "那霸市首里金城町"
+    },
+    {
+     "label": "創建",
+     "value": "約14世紀末"
+    },
+    {
+     "label": "世界遺產",
+     "value": "2000年12月（遺跡部分）"
+    },
+    {
+     "label": "火災",
+     "value": "2019年10月31日；正殿復原預定2026年秋"
+    }
+   ],
+   "best_season_zh": "全年；春秋舒適",
+   "tips_zh": "復原期間可參觀工地見學設施；從單軌電車「首里站」步行約15分鐘。",
+   "tags": [
+    "琉球王國",
+    "世界遺產",
+    "朱紅",
+    "王宮"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/首里城"
+   ],
+   "confidence": "high",
+   "prompt_en": "A vivid red royal palace with golden dragon ornaments and tiered tiled roofs on a hill, stone walls in the foreground, blue sky with tropical clouds"
+  },
+  "food": {
+   "title_zh": "苦瓜炒（ゴーヤーチャンプルー）",
+   "title_ja": "ゴーヤーチャンプルー",
+   "summary_zh": "沖繩家常菜，苦瓜、島豆腐與豬肉同炒。",
+   "body_zh": "チャンプルー在沖繩方言中指把豆腐與蔬菜一起用油炒的料理，是沖繩最具代表性的家庭菜。ゴーヤーチャンプルー以苦瓜為主角，配上手撕的島豆腐、豬肉（常用豬油或午餐肉）與蛋，以鹽或醬油調味。語源有多種說法，可能來自中文「炒腐兒」、沖繩語擬聲詞，或與長崎的「ちゃんぽん」有關，並無定論。苦瓜微苦、豆腐扎實，夏天吃特別開胃，在居酒屋與食堂幾乎必備。",
+   "facts": [
+    {
+     "label": "名稱",
+     "value": "チャンプルー（混炒）"
+    },
+    {
+     "label": "食材",
+     "value": "苦瓜、島豆腐、豬肉、蛋"
+    },
+    {
+     "label": "特色",
+     "value": "以豬油炒香，本土少見"
+    },
+    {
+     "label": "相關",
+     "value": "ソーミンチャンプルー等"
+    }
+   ],
+   "best_season_zh": "夏季（苦瓜產季）",
+   "tips_zh": "苦瓜太苦可先用鹽搓揉；搭配白飯或啤酒都好。",
+   "tags": [
+    "苦瓜",
+    "家常菜",
+    "島豆腐",
+    "沖繩料理"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/チャンプルー"
+   ],
+   "confidence": "medium",
+   "prompt_en": "A plate of stir-fried bitter melon with tofu, pork and egg in a rustic diner, bowl of rice beside it, bright tabletop light"
+  },
+  "culture": {
+   "title_zh": "紅型染",
+   "title_ja": "紅型",
+   "summary_zh": "琉球傳統型染，色彩鮮豔。",
+   "body_zh": "紅型（びんがた）是沖繩的傳統型染技法，現存最古老的紅型布料可追溯到14世紀，起源推測約在13世紀。琉球王國時代主要供王族與士族作正式服裝，王府把染匠安置在首里城附近加以保護。工序包括設計、型彫、紗張、地張與型置等，用紅、黃、藍等鮮豔顏料配合型紙糊染。二戰期間大量型紙與工具被毀，戰後由城間榮喜、知念績弘等匠人復興；1984年被指定為經濟產業大臣認定的傳統工藝品。",
+   "facts": [
+    {
+     "label": "起源",
+     "value": "約13至14世紀"
+    },
+    {
+     "label": "對象",
+     "value": "王族、士族"
+    },
+    {
+     "label": "指定",
+     "value": "傳統工藝品（1984年）"
+    },
+    {
+     "label": "特色",
+     "value": "型紙糊染、鮮豔色彩"
+    }
+   ],
+   "best_season_zh": "全年",
+   "tips_zh": "那霸與首里有工房可體驗染布，通常需預約。",
+   "tags": [
+    "紅型",
+    "染織",
+    "琉球",
+    "傳統工藝"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/紅型"
+   ],
+   "confidence": "high",
+   "prompt_en": "Hands applying brilliant red and yellow floral dye through a stencil on cotton in a craft studio, brushes and dye pots on the table, warm daylight"
+  },
+  "history": {
+   "title_zh": "座喜味城跡",
+   "title_ja": "座喜味城跡",
+   "summary_zh": "琉球時代石砌城堡遺址，世界遺產。",
+   "body_zh": "座喜味城跡位於讀谷村，由琉球王國名將護佐丸於1416年至1422年築造，2000年12月與首里城等一同登錄世界遺產。城牆以優美曲線的石灰岩堆砌，城門使用楔石砌成拱形，在拱門中屬較古老的形式，城郭突出部也有琉球城堡特有的防禦設計。遺址高處可眺望周邊平原與海岸，附近設有「世界遺產座喜味城跡ユンタンザミュージアム」展出出土文物與說明。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "讀谷村"
+    },
+    {
+     "label": "築造",
+     "value": "1416至1422年，護佐丸"
+    },
+    {
+     "label": "世界遺產",
+     "value": "2000年12月"
+    },
+    {
+     "label": "特色",
+     "value": "曲線石牆、楔石拱門"
+    }
+   ],
+   "best_season_zh": "全年；陰天或傍晚拍照佳",
+   "tips_zh": "城跡免費自由參觀；可順遊讀谷的陶藝村與海灘。",
+   "tags": [
+    "城堡",
+    "世界遺產",
+    "石牆",
+    "琉球"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/座喜味城"
+   ],
+   "confidence": "high",
+   "prompt_en": "Curved dry-stone limestone castle walls with an arched gate on a hilltop, tropical vegetation around, blue sky, no people"
+  },
+  "mascot": {
+   "title_zh": "シーサー與沖繩吉祥物",
+   "title_ja": "シーサー",
+   "summary_zh": "取材守護獅，沖繩以獅子像驅邪。",
+   "body_zh": "沖繩常見的守護獅「シーサー」其名來自「獅子」的沖繩語發音，是驅邪避災、招福的象徵，最古老的石獅可追溯到13至15世紀，原見於王陵與聖地。一般民宅在屋頂安置是明治時代瓦屋頂普及後的事。傳說張口者迎福、閉口者擋災，並以左右成對安放。縣內單位也各有吉祥物，如農林水產物的「イーサーくん」就以獅子為造型，肚臍紋樣代表太陽、尾巴象徵苦瓜。本頁插圖另創原創角色，不複製任何現有商標吉祥物。",
+   "facts": [
+    {
+     "label": "原型",
+     "value": "守護獅シーサー"
+    },
+    {
+     "label": "寓意",
+     "value": "驅邪、招福"
+    },
+    {
+     "label": "擺放",
+     "value": "常成對；張口迎福、閉口擋災"
+    },
+    {
+     "label": "縣內角色",
+     "value": "農林水產物吉祥物イーサーくん等"
+    }
+   ],
+   "best_season_zh": "全年",
+   "tips_zh": "造訪屋頂、門柱常見的各式シーサー；壺屋是購買手工款的好地方。",
+   "tags": [
+    "守護獅",
+    "吉祥物",
+    "驅邪",
+    "原創角色"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/シーサー",
+    "https://www.pref.okinawa.jp/_res/projects/default_project/_page_/001/019/593/isakuntoha.pdf"
+   ],
+   "confidence": "medium",
+   "prompt_en": "An original cute character shaped like a shisa lion cub with hibiscus flowers and sea-wave patterns, sitting on a red-tiled roof, inspired by local symbols, not replicating any existing trademarked mascot"
+  },
+  "scenery": {
+   "title_zh": "古宇利島",
+   "title_ja": "古宇利島",
+   "summary_zh": "翠綠海中的小島，跨海大橋聞名。",
+   "body_zh": "古宇利島位於沖繩本島北部今歸仁村，面積約3.17平方公里，周長約7.9公里，人口約三百多人。2005年2月8日通車的古宇利大橋全長1,960公尺，在一般橋梁中是日本最長之一（官方資料稱一般橋最長）。橋兩側是翡翠色的淺海，白沙與天空構成鮮明對比。島上景點包括形似心形的ハートロック（ティーヌ浜）以及2013年落成、高33公尺的古宇利海洋塔。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "今歸仁村"
+    },
+    {
+     "label": "橋",
+     "value": "古宇利大橋，全長1,960公尺，2005年通車"
+    },
+    {
+     "label": "面積",
+     "value": "約3.17平方公里"
+    },
+    {
+     "label": "景點",
+     "value": "Heart Rock、古宇利海洋塔"
+    }
+   ],
+   "best_season_zh": "春至秋，晴天正午海色最美",
+   "tips_zh": "租車兜風最方便；橋上禁止停車，請在島內停車場停好後再拍照。",
+   "tags": [
+    "離島",
+    "跨海大橋",
+    "海景",
+    "古宇利"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/古宇利島"
+   ],
+   "confidence": "high",
+   "prompt_en": "A long causeway bridge crossing emerald shallow water to a small green island, white sand and bright blue sky, aerial three-quarter view"
+  },
+  "spot": {
+   "title_zh": "沖繩美麗海水族館",
+   "title_ja": "沖縄美ら海水族館",
+   "summary_zh": "鯨鯊與鬼蝠魟悠游的大型水族館。",
+   "body_zh": "沖繩美麗海水族館位於本部町國營沖繩紀念公園（海洋博公園）內，新館於2002年11月1日開幕（舊館於1979年8月開幕、2002年8月底閉館）。主缸「黑潮之海」長35公尺、寬27公尺、深10公尺，水量約7,500立方公尺，飼養鯨鯊與南洋鬼蝠魟等，並成功做到世界首例的長期飼育。館內另有深海、珊瑚礁及海豚表演區，全年遊客眾多。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "本部町石川424"
+    },
+    {
+     "label": "開館",
+     "value": "新館2002年11月1日"
+    },
+    {
+     "label": "主缸",
+     "value": "黑潮之海，約7,500立方公尺"
+    },
+    {
+     "label": "門票",
+     "value": "成人2,180日圓（2022年10月起）"
+    }
+   ],
+   "best_season_zh": "全年；平日及傍晚較不擠",
+   "tips_zh": "建議開館或傍晚入場避開團客；門票與營業時間請先查官網。",
+   "tags": [
+    "水族館",
+    "鯨鯊",
+    "海洋博公園",
+    "親子"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/沖縄美ら海水族館"
+   ],
+   "confidence": "high",
+   "prompt_en": "A huge aquarium tank with a whale shark and manta rays seen from a viewing window, deep blue light, silhouettes of visitors"
+  },
+  "experience": {
+   "title_zh": "三線彈奏體驗",
+   "title_ja": "三線体験",
+   "summary_zh": "沖繩傳統三弦樂器，蛇皮琴身。",
+   "body_zh": "三線（さんしん）是源自沖繩及奄美的三弦撥奏樂器，可溯源到中國福建的三弦，14至15世紀傳入琉球王國。琴身蒙蟒蛇皮，琴桿用黑檀等硬木，琴弦傳統為絲、今多為尼龍。16世紀影響了日本本土三味線的發展，在琉球宮廷與民謠中都是核心樂器；2018年被指定為傳統工藝品，每年3月4日（さんしんの日）各地同步演奏。沖繩許多民謠酒館與體驗教室提供入門課程。",
+   "facts": [
+    {
+     "label": "起源",
+     "value": "14至15世紀由中國傳入"
+    },
+    {
+     "label": "構造",
+     "value": "蟒蛇皮琴身、三弦"
+    },
+    {
+     "label": "紀念日",
+     "value": "3月4日 三線之日"
+    },
+    {
+     "label": "指定",
+     "value": "傳統工藝品（2018年）"
+    }
+   ],
+   "best_season_zh": "全年",
+   "tips_zh": "體驗教室多為1小時內入門課，通常可學一兩首簡單曲子，建議事先預約。",
+   "tags": [
+    "三線",
+    "音樂",
+    "沖繩民謠",
+    "體驗"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/三線"
+   ],
+   "confidence": "high",
+   "prompt_en": "Hands playing a three-stringed snakeskin instrument sitting on a wooden veranda with tropical garden behind, warm evening light"
+  },
+  "costume": {
+   "title_zh": "琉球舞蹈衣裳",
+   "title_ja": "琉球衣装",
+   "summary_zh": "紅型染的琉球傳統服飾。",
+   "body_zh": "琉球傳統服飾以紅型染布裁成的寬袖衣裳為代表，王國時代供王族與士族穿著，色彩鮮豔、花鳥與波紋圖案豐富。舞蹈表演時，女性多披紅型衣裳，頭戴花笠或花冠，腰束帶，男性則以頭巾與長衣為主。服飾反映琉球與中國、日本和東南亞的交流，色彩與紋樣受其影響。現代婚禮與觀光體驗中，也常可租借紅型衣裳拍照。（具體形制因場合而異，此處為概略介紹。）",
+   "facts": [
+    {
+     "label": "材質",
+     "value": "紅型染棉、麻、絲"
+    },
+    {
+     "label": "圖案",
+     "value": "花鳥、波紋、松竹梅"
+    },
+    {
+     "label": "配件",
+     "value": "花笠、帶飾"
+    },
+    {
+     "label": "用途",
+     "value": "舞蹈、儀式、觀光體驗"
+    }
+   ],
+   "best_season_zh": "全年",
+   "tips_zh": "首里與那霸有服飾租借拍照服務，通常含髮飾，建議預約。",
+   "tags": [
+    "琉球服飾",
+    "紅型",
+    "舞蹈",
+    "文化"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/紅型"
+   ],
+   "confidence": "low",
+   "prompt_en": "An anonymous model in a brightly dyed Ryukyuan costume with floral patterns and a flower headdress in a palace courtyard, soft light, face turned slightly away"
+  }
+ },
+ "areas": [
+  {
+   "id": "okinawa_naha",
+   "name_zh": "那霸",
+   "name_ja": "那覇",
+   "intro_zh": "那霸是沖繩縣廳所在地與門戶，從古代的港口發展為琉球王國的外港，二戰後重建成今日的商業與觀光中心。市內有國際通的商店街、首里城、壺屋陶藝老街與緊鄰港口的波上宮，並有單軌電車連結機場與市區，沖繩麵與雜炒是日常美味。",
+   "items": {
+    "spot": {
+     "title_zh": "壺屋陶藝老街",
+     "title_ja": "壺屋やちむん通り",
+     "summary_zh": "那霸的陶藝街，守護獅與荒燒聞名。",
+     "body_zh": "壺屋是那霸的傳統窯場區，壺屋燒於1682年琉球王府將湧田、知花與宝口三個窯場統合到牧志村南部而成。分兩類：荒燒（あらやき）為不上釉、以高鐵質陶土約1000°C燒成，原作儲物容器，現今包括有名的シーサー；上燒（じょうやき）是自17世紀由朝鮮陶工傳入的上釉彩繪，魚紋是招牌。二戰後，1945年11月14日有140名匠人先行入區復業，12月開窯，對那霸的復興貢獻甚大。",
+     "facts": [
+      {
+       "label": "起源",
+       "value": "1682年統合三窯場"
+      },
+      {
+       "label": "類型",
+       "value": "荒燒、上燒"
+      },
+      {
+       "label": "特色",
+       "value": "守護獅、魚紋彩繪"
+      },
+      {
+       "label": "所在地",
+       "value": "那霸市壺屋"
+      }
+     ],
+     "best_season_zh": "全年",
+     "tips_zh": "老街步行約20分鐘，可到工房選購守護獅與日用器。",
+     "tags": [
+      "壺屋燒",
+      "やちむん",
+      "陶藝",
+      "那霸"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/壺屋焼"
+     ],
+     "confidence": "high",
+     "prompt_en": "A narrow stone-paved pottery street with shops displaying shisa figures and glazed ceramics, tropical plants, warm afternoon light"
+    },
+    "food": {
+     "title_zh": "沖繩麵",
+     "title_ja": "沖縄そば",
+     "summary_zh": "全小麥麵，豬肉湯底，傳統名稱「そば」。",
+     "body_zh": "沖繩麵（沖縄そば）完全不含蕎麥粉，以小麥粉加鹼水或木灰水製成，工序與中華麵相近；煮好後會拌油、不用冷水沖，自然放涼，形成獨特口感。湯底多以豬骨與鰹魚高湯混合，常見配料有三枚肉、軟骨排骨（ソーキ）、蒲鉾與蔥。沖繩一向稱為「そば」，因1976年公正取引委員會指出名稱問題，歷經交涉後於1978年10月17日獲正式認可為「本場沖繩そば」，該日現為沖繩麵之日。",
+     "facts": [
+      {
+       "label": "麵",
+       "value": "小麥粉＋鹼水，不含蕎麥"
+      },
+      {
+       "label": "湯",
+       "value": "豬骨與鰹魚高湯"
+      },
+      {
+       "label": "配料",
+       "value": "三枚肉、軟骨排骨"
+      },
+      {
+       "label": "紀念日",
+       "value": "10月17日（沖繩麵之日）"
+      }
+     ],
+     "best_season_zh": "全年",
+     "tips_zh": "可加紅薑（紅しょうが）與島辣椒泡盛（コーレーグース）調味。",
+     "tags": [
+      "沖繩麵",
+      "豬肉",
+      "麵食",
+      "在地美食"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/沖縄そば"
+     ],
+     "confidence": "high",
+     "prompt_en": "A bowl of Okinawa soba with pork belly, kamaboko and green onion in clear broth, red pickled ginger on the side, wooden counter"
+    },
+    "scenery": {
+     "title_zh": "波上宮與波之上海灘",
+     "title_ja": "波上宮",
+     "summary_zh": "崖上神社，下方是那霸唯一的市區海灘。",
+     "body_zh": "波上宮位於那霸市若狹，坐落在俯瞰那霸港的高地上，古稱「波之上」，原為海岬上的御嶽信仰之地。據《琉球神道記》，傳說漁夫在此發現發光的靈石，後得示現熊野權現，建社祭祀；它列為琉球八社之首，地位尊崇。神社旁的波之上海灘是那霸唯一可游泳的海灘，把宗教聖地與市民休閒融為一處，也是從跨海橋仰望的名景。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "那霸市若狹1-25-11"
+      },
+      {
+       "label": "地位",
+       "value": "琉球八社之首"
+      },
+      {
+       "label": "景點",
+       "value": "波之上海灘（那霸唯一游泳海灘）"
+      },
+      {
+       "label": "景觀",
+       "value": "崖上神社俯瞰港口"
+      }
+     ],
+     "best_season_zh": "全年",
+     "tips_zh": "傍晚可拍港灣夕陽；神社為宗教場所，請端正遊覽。",
+     "tags": [
+      "神社",
+      "波之上",
+      "崖上",
+      "海景"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/波上宮"
+     ],
+     "confidence": "high",
+     "prompt_en": "A small red-and-white shrine perched on a limestone cliff above a harbor and a narrow city beach, sunset light over the sea, no people"
+    }
+   }
+  },
+  {
+   "id": "okinawa_motobu",
+   "name_zh": "本部",
+   "name_ja": "本部",
+   "intro_zh": "本部町位於沖繩本島北部本部半島，1975年舉辦沖繩國際海洋博覽會，之後成為觀光重鎮。這裡有美麗海水族館、海洋博公園、備瀨的福木林道與離島連結，農漁產以柑橘、芒果、鳳梨與鰹魚、魷魚為主。",
+   "items": {
+    "spot": {
+     "title_zh": "海洋博公園",
+     "title_ja": "海洋博公園",
+     "summary_zh": "海洋博跡地改建的海濱大公園。",
+     "body_zh": "海洋博公園（國營沖繩紀念公園）位於本部町，是1975年7月至1976年1月沖繩國際海洋博覽會的場地，1976年9月1日起開放，面積約77.2公頃，主題為「太陽、花與海」。園內有美麗海水族館、熱帶夢幻中心（熱帶植物展示）、翡翠海灘（可免費游泳，2001年入選環境省「日本水浴場88選」）等，適合全家人一整天遊玩。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "本部町"
+      },
+      {
+       "label": "開園",
+       "value": "1976年9月1日"
+      },
+      {
+       "label": "面積",
+       "value": "約77.2公頃"
+      },
+      {
+       "label": "設施",
+       "value": "水族館、熱帶夢幻中心、翡翠海灘"
+      }
+     ],
+     "best_season_zh": "全年；春至秋戲水",
+     "tips_zh": "園區廣闊，可搭園內接駁；水族館另購票。",
+     "tags": [
+      "公園",
+      "海洋博",
+      "翡翠海灘",
+      "親子"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/国営沖縄記念公園"
+     ],
+     "confidence": "high",
+     "prompt_en": "A wide seaside park with palm-lined paths, a crescent white-sand beach with emerald water in the background, families strolling, bright sky"
+    },
+    "food": {
+     "title_zh": "本部蕎麥麵",
+     "title_ja": "本部そば",
+     "summary_zh": "本部町的沖繩麵，沿縣道84號聚集數十家店。",
+     "body_zh": "本部町的沖繩麵是自成一格的在地美食，沿縣道84號一帶聚集二十多家麵店，被稱為「本部蕎麥麵街」。湯頭多以鰹魚與豬骨熬製，清爽順口；部分老店使用木灰水製麵（如以車輪梅等木材燒成的灰），麵條口感彈牙有嚼勁。代表店家如山原蕎麥麵、八重善等，午餐時段常大排長龍，賣完即打烊。",
+     "facts": [
+      {
+       "label": "集中地",
+       "value": "縣道84號沿線"
+      },
+      {
+       "label": "店數",
+       "value": "二十多家"
+      },
+      {
+       "label": "湯底",
+       "value": "鰹魚、豬骨"
+      },
+      {
+       "label": "特色",
+       "value": "部分用木灰水製麵"
+      }
+     ],
+     "best_season_zh": "全年",
+     "tips_zh": "中午前抵達，賣完即止；可配炒物定食。",
+     "tags": [
+      "本部",
+      "沖繩麵",
+      "木灰",
+      "老店"
+     ],
+     "sources": [
+      "https://www.mapple.net/article/50031/"
+     ],
+     "confidence": "low",
+     "prompt_en": "A bowl of Okinawa-style soba with sliced pork and green onion in light broth, in a rustic local noodle shop, warm tones"
+    },
+    "scenery": {
+     "title_zh": "備瀨福木林道",
+     "title_ja": "備瀬のフクギ並木",
+     "summary_zh": "約兩萬棵福木守護的古村落。",
+     "body_zh": "備瀨是本部町的古老集落，約230戶民家被約兩萬棵福木（フクギ）林與宅林環繞，成為碁盤式的村落景觀。主要林道從入口停車場到備瀨崎約0.9公里，福木具防風作用，部分古樹推定樹齡300年。集落有約400年傳承的文化與習俗，漫步在樹蔭下，常見水牛車與步行遊客。林道盡頭是備瀨崎海灘，可遠眺伊江島。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "本部町備瀨"
+      },
+      {
+       "label": "樹數",
+       "value": "約2萬棵福木"
+      },
+      {
+       "label": "林道",
+       "value": "約0.9公里"
+      },
+      {
+       "label": "樹齡",
+       "value": "部分推定約300年"
+      }
+     ],
+     "best_season_zh": "全年；夏季樹蔭涼爽",
+     "tips_zh": "可租自行車或步行；請尊重居民生活，勿擅入私宅。",
+     "tags": [
+      "福木",
+      "古村落",
+      "備瀨",
+      "防風林"
+     ],
+     "sources": [
+      "https://www.jeepe.jp/ja/articles/bise-fukugi-namiki-guide-1597"
+     ],
+     "confidence": "medium",
+     "prompt_en": "A sunlit village lane lined with dense tropical fukugi trees casting dappled shade, coral-stone walls and a bicycle, no people"
+    }
+   }
+  },
+  {
+   "id": "okinawa_ishigaki",
+   "name_zh": "石垣島",
+   "name_ja": "石垣島",
+   "intro_zh": "石垣島是八重山群島的中心，面積約222平方公里，人口約5萬，位於那霸西南約410公里，距台灣約270公里。島上有珊瑚礁與潛水點、日本最南端的星空，並以石垣牛、八重山麵聞名，是前往竹富、西表等離島的交通樞紐。",
+   "items": {
+    "spot": {
+     "title_zh": "川平灣",
+     "title_ja": "川平湾",
+     "summary_zh": "翡翠綠海灣，可搭玻璃底船觀珊瑚。",
+     "body_zh": "川平灣位於石垣島西北部，灣內散布小島，海面下有各種造礁珊瑚群，海水顏色隨光線與潮汐不斷變化。1997年被指定為國家名勝，2007年西表石垣國立公園擴大後列為第1種特別地域。遊客可乘玻璃底船觀賞珊瑚；因潮流強勁，嚴禁游泳。灣內也有黑珍珠養殖，但水質與淡水化問題逐漸受到關注。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "石垣島西北部"
+      },
+      {
+       "label": "指定",
+       "value": "國家名勝（1997年）"
+      },
+      {
+       "label": "活動",
+       "value": "玻璃底船"
+      },
+      {
+       "label": "注意",
+       "value": "禁止游泳"
+      }
+     ],
+     "best_season_zh": "春至秋，晴天海色最美",
+     "tips_zh": "最好在天氣晴朗、潮位適中時前往；玻璃底船通常30分鐘上下。",
+     "tags": [
+      "川平灣",
+      "名勝",
+      "玻璃底船",
+      "珊瑚"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/川平湾"
+     ],
+     "confidence": "high",
+     "prompt_en": "An emerald bay with small islets and a glass-bottom boat floating over coral, white sand shore, bright tropical sky"
+    },
+    "food": {
+     "title_zh": "石垣牛",
+     "title_ja": "石垣牛",
+     "summary_zh": "八重山飼育的黑毛和牛，主要在島內消費。",
+     "body_zh": "石垣牛是在石垣市與八重山郡內飼育的黑毛和種，認定須「生後約20個月以上在八重山郡內肥育」，去勢牛24至35個月、母牛24至40個月出貨，肉質等級須達5至2級。1997年統一名稱，2000年九州沖繩高峰會晚宴以其為主菜後名氣大增。如今以「島內出貨」為主，形成地產地消，2018年獲日本農業賞特別賞。島上的燒肉店與牛排屋都可吃到，價位依等級而異。",
+     "facts": [
+      {
+       "label": "品種",
+       "value": "黑毛和種"
+      },
+      {
+       "label": "條件",
+       "value": "八重山郡內肥育約20個月以上"
+      },
+      {
+       "label": "品牌化",
+       "value": "1997年統一名稱"
+      },
+      {
+       "label": "流通",
+       "value": "以島內消費為主"
+      }
+     ],
+     "best_season_zh": "全年",
+     "tips_zh": "點餐時問清「特選」與「銘產」等級；多數店家建議預約。",
+     "tags": [
+      "石垣牛",
+      "和牛",
+      "燒肉",
+      "地產地消"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/石垣牛"
+     ],
+     "confidence": "high",
+     "prompt_en": "Grilled marbled Ishigaki beef slices on a hot plate with vegetables, tropical restaurant table, warm tones"
+    },
+    "scenery": {
+     "title_zh": "石垣島星空",
+     "title_ja": "石垣島の星空",
+     "summary_zh": "西表石垣國立公園被認證為星空保護區。",
+     "body_zh": "石垣島位置偏南，空氣清澈，光害低，是日本少數可見到南十字星（季節性）的地點之一。據報導，國際暗天協會（IDA）已認證西表石垣國立公園為「星空保護區」（2018年），說法以官方資料為準。夏夜銀河橫跨海面，多處海灘與高地可作觀星點，島上也有天文台與星空導覽。晴朗無月之夜，觀星最理想。",
+     "facts": [
+      {
+       "label": "位置",
+       "value": "八重山群島"
+      },
+      {
+       "label": "特點",
+       "value": "低光害，可見南十字星（季節）"
+      },
+      {
+       "label": "認證",
+       "value": "國際暗天協會星空保護區（待官方確認）"
+      },
+      {
+       "label": "設施",
+       "value": "天文台、觀星導覽"
+      }
+     ],
+     "best_season_zh": "夏季銀河；冬春可見南十字星",
+     "tips_zh": "遠離市區光源，帶蚊香與外套；使用紅光手電筒保護夜視。",
+     "tags": [
+      "星空",
+      "銀河",
+      "石垣島",
+      "觀星"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/石垣島"
+     ],
+     "confidence": "low",
+     "prompt_en": "The Milky Way arching over a quiet island beach at night, silhouettes of palm trees, soft glow on the horizon, no people"
+    }
+   }
+  },
+  {
+   "id": "okinawa_miyako",
+   "name_zh": "宮古島",
+   "name_ja": "宮古島",
+   "intro_zh": "宮古島位於沖繩本島西南，是宮古群島的中心，地勢平坦，以珊瑚礁與透明海水聞名。伊良部大橋與來間大橋把周邊島嶼連成一線，與那霸前濱等海灘年年入選日本最美海灘榜單，宮古蕎麥麵風味獨具。",
+   "items": {
+    "spot": {
+     "title_zh": "伊良部大橋",
+     "title_ja": "伊良部大橋",
+     "summary_zh": "全長3,540公尺，不收費的日本最長橋。",
+     "body_zh": "伊良部大橋連接宮古島與伊良部島，全長3,540公尺，2015年1月31日通車，是日本不收通行費橋梁中最長者。工程於2006年3月動工，歷時約9年完成。橋面在碧藍海水上延伸，行車時如同駛進海中，可眺望遠方的珊瑚礁與白沙淺灘。橋上提供休憩點，但不可停車。",
+     "facts": [
+      {
+       "label": "全長",
+       "value": "3,540公尺"
+      },
+      {
+       "label": "通車",
+       "value": "2015年1月31日"
+      },
+      {
+       "label": "連接",
+       "value": "宮古島與伊良部島"
+      },
+      {
+       "label": "特色",
+       "value": "免費通行的最長橋"
+      }
+     ],
+     "best_season_zh": "春夏晴天",
+     "tips_zh": "租車最方便；橋上禁止停車，請用橋兩端停車場。",
+     "tags": [
+      "跨海大橋",
+      "宮古島",
+      "海景",
+      "免費"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/伊良部大橋"
+     ],
+     "confidence": "high",
+     "prompt_en": "A long bridge extending over turquoise water to a green island, light traffic, bright blue sky, aerial view"
+    },
+    "food": {
+     "title_zh": "宮古麵",
+     "title_ja": "宮古そば",
+     "summary_zh": "麵條偏細，配料藏在麵下。",
+     "body_zh": "宮古麵（宮古そば）為宮古島的鄉土麵食，麵條偏細直、波浪少，湯頭清淡，以鰹魚高湯加豬骨與雞骨熬成。傳統上配料會藏在麵條下面，據說與過去生活困苦及重稅有關；觀光客店家多已改為擺在上面。桌上常備咖哩粉，可灑入變換風味。與八重山蕎麥麵不同，宮古麵不加ピパーチ（長胡椒）。",
+     "facts": [
+      {
+       "label": "麵",
+       "value": "細直、波浪少"
+      },
+      {
+       "label": "湯",
+       "value": "鰹魚＋豬骨、雞骨"
+      },
+      {
+       "label": "特色",
+       "value": "配料藏在麵下"
+      },
+      {
+       "label": "調味",
+       "value": "咖哩粉"
+      }
+     ],
+     "best_season_zh": "全年",
+     "tips_zh": "可試試加咖哩粉的吃法；不少老店中午即賣完。",
+     "tags": [
+      "宮古",
+      "麵食",
+      "咖哩粉",
+      "在地美食"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/宮古そば"
+     ],
+     "confidence": "high",
+     "prompt_en": "A bowl of Miyako soba with thin straight noodles in light broth, small bowl of curry powder beside it, simple local restaurant table"
+    },
+    "scenery": {
+     "title_zh": "與那霸前濱海灘",
+     "title_ja": "与那覇前浜",
+     "summary_zh": "全長約7公里的白沙海灘。",
+     "body_zh": "與那霸前濱位於宮古島西南端，延綿約7公里的白色沙灘，當地稱「前濱（マイパマ）」，對面是來間島，東南端有來間大橋相連。曾於2013年至2015年連三年獲TripAdvisor評為日本第一，2019年更獲「日本最佳海灘TOP10」第1名。近年海岸侵蝕嚴重，部分區域侵蝕深達約3公尺，對觀光影響受到關注。",
+     "facts": [
+      {
+       "label": "長度",
+       "value": "約7公里"
+      },
+      {
+       "label": "位置",
+       "value": "宮古島西南端"
+      },
+      {
+       "label": "相鄰",
+       "value": "來間島、來間大橋"
+      },
+      {
+       "label": "榮譽",
+       "value": "TripAdvisor日本第一（2013至2015年）"
+      }
+     ],
+     "best_season_zh": "春至秋；平靜日海色透亮",
+     "tips_zh": "防曬及水鞋必備；注意潮汐與離岸流警示。",
+     "tags": [
+      "海灘",
+      "宮古島",
+      "白沙",
+      "透明海水"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/与那覇前浜"
+     ],
+     "confidence": "high",
+     "prompt_en": "A long white sand beach curving along turquoise water with a small island across the strait, bright sky, no people"
+    }
+   }
+  },
+  {
+   "id": "okinawa_taketomi",
+   "name_zh": "竹富島",
+   "name_ja": "竹富島",
+   "intro_zh": "竹富島位於石垣島西南，高速船約10分鐘可達，面積約5.43平方公里，人口僅約340人。島上保存紅瓦屋頂、白砂小徑與珊瑚石牆的傳統聚落，1987年列為重要傳統建造物群保存地區，水牛車與守護獅是代表風景。",
+   "items": {
+    "spot": {
+     "title_zh": "竹富島聚落",
+     "title_ja": "竹富島の集落",
+     "summary_zh": "紅瓦、白砂路與珊瑚石牆的傳統聚落。",
+     "body_zh": "竹富島的聚落完整保存沖繩傳統景觀：木造紅瓦民宅、鋪滿白沙的道路，以及用珊瑚石堆砌的圍牆，屋頂上多安置守護獅（シーサー）。1987年「竹富町竹富島」被選為重要傳統建造物群保存地區。島上主要交通是水牛車與自行車，水牛車夫會彈三線唱民謠。居民維護傳統習俗，島內建築與街道皆受規範，漫步時請保持安靜。",
+     "facts": [
+      {
+       "label": "位置",
+       "value": "石垣島西南，高速船約10分鐘"
+      },
+      {
+       "label": "面積",
+       "value": "約5.43平方公里"
+      },
+      {
+       "label": "指定",
+       "value": "重要傳統建造物群保存地區（1987年）"
+      },
+      {
+       "label": "景觀",
+       "value": "紅瓦、白砂路、珊瑚石牆、守護獅"
+      }
+     ],
+     "best_season_zh": "全年；乾季較舒適",
+     "tips_zh": "白天遊客多，住一晚可看到寧靜的傍晚與星空。",
+     "tags": [
+      "傳統聚落",
+      "紅瓦",
+      "水牛車",
+      "守護獅"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/竹富島"
+     ],
+     "confidence": "high",
+     "prompt_en": "A village lane of white coral sand lined with low coral-stone walls and red-tiled roof houses topped with shisa statues, hibiscus flowers, bright sunlight, no people"
+    },
+    "food": {
+     "title_zh": "八重山麵",
+     "title_ja": "八重山そば",
+     "summary_zh": "圓麵、豬骨湯底，配醬燒豬肉與魚板。",
+     "body_zh": "八重山麵（八重山そば）是八重山群島的特色麵食，麵條為細直的圓麵，據稱1972年起出現，有時用薑黃或梔子染成淡黃色。湯底以豬骨為基底，帶淡淡甘味；與沖繩本島常見三枚肉不同，配料多是醬油燉煮的豬瘦肉與切成細絲的魚板。桌上常見辛香料，其中有ピパーチ（長胡椒）可添風味，是宮古麵所無的特點。",
+     "facts": [
+      {
+       "label": "麵",
+       "value": "圓細麵，有時染黃"
+      },
+      {
+       "label": "湯",
+       "value": "豬骨湯，微甜"
+      },
+      {
+       "label": "配料",
+       "value": "醬燒瘦肉、魚板絲"
+      },
+      {
+       "label": "特色",
+       "value": "可加長胡椒"
+      }
+     ],
+     "best_season_zh": "全年",
+     "tips_zh": "到石垣港周邊與竹富島食堂都可吃到；可試加長胡椒。",
+     "tags": [
+      "八重山",
+      "麵食",
+      "圓麵",
+      "離島美食"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/八重山そば"
+     ],
+     "confidence": "high",
+     "prompt_en": "A bowl of Yaeyama soba with round thin noodles, braised lean pork and shredded fish cake, on a wooden table in a small island eatery"
+    },
+    "scenery": {
+     "title_zh": "星砂海灘（カイジ浜）",
+     "title_ja": "カイジ浜（星砂）",
+     "summary_zh": "沙粒呈星形的有孔蟲殼，竹富島名物。",
+     "body_zh": "竹富島的カイジ浜（Kaiji海灘）以「星砂」聞名——星形的細小沙粒，實為有孔蟲的殼，在沙灘上俯身細尋即可找到。海水清澈，景色開闊，是竹富島最受遊客喜愛的海灘之一。島上另有好幾處適合戲水與觀日落的海灘。星砂雖小，卻是八重山自然的象徵，請勿大量帶走，以維護沙灘的生態。",
+     "facts": [
+      {
+       "label": "位置",
+       "value": "竹富島西南部"
+      },
+      {
+       "label": "特色",
+       "value": "星形有孔蟲殼"
+      },
+      {
+       "label": "活動",
+       "value": "尋星砂、玩水、日落"
+      },
+      {
+       "label": "提醒",
+       "value": "勿大量帶走"
+      }
+     ],
+     "best_season_zh": "春至秋",
+     "tips_zh": "建議帶放大鏡或蹲下細找；也可當日來回石垣島。",
+     "tags": [
+      "星砂",
+      "竹富島",
+      "海灘",
+      "日落"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/竹富島"
+     ],
+     "confidence": "medium",
+     "prompt_en": "A white sand beach with clear shallow water and a hand holding tiny star-shaped sand grains in the foreground, soft light, tropical sea behind"
+    }
+   }
+  }
+ ]
+}

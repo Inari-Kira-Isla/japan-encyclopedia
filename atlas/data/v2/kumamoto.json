@@ -1,0 +1,830 @@
+{
+ "id": "kumamoto",
+ "name_zh": "熊本",
+ "name_ja": "熊本県",
+ "region": "九州",
+ "overview": {
+  "intro_zh": "熊本縣位於九州中部，面積約7,409平方公里，縣廳所在地為熊本市。縣內擁有世界級的阿蘇破火山口、加藤清正築造的熊本城，以及天草群島的潛伏基督徒遺產。農業發達，番茄、西瓜等產量居全國前列，馬肉刺身、赤牛、辣味蓮藕都是代表性鄉土美食。2016年熊本地震曾使城堡與神社嚴重受損，如今多處已陸續修復，吉祥物「熊本熊」更成為縣的代表形象。",
+  "capital_zh": "熊本市",
+  "area_km2": 7409,
+  "population_approx": "約168萬（2025年）",
+  "flower_zh": "龍膽",
+  "bird_zh": "雲雀",
+  "tree_zh": "樟樹",
+  "climate_zh": "屬溫暖的太平洋側氣候，夏季悶熱、冬季偏冷，盆地區日夜溫差大；阿蘇一帶高原涼爽。",
+  "access_zh": "阿蘇熊本機場有國內外航班；九州新幹線停靠熊本站，從博多約30至40分鐘。",
+  "specialties_zh": [
+   "馬肉刺身",
+   "赤牛",
+   "辣味蓮藕",
+   "番茄與西瓜",
+   "不知火柑（Dekopon）"
+  ],
+  "best_season_zh": "春季（賞櫻與阿蘇草原轉綠）與秋季（黑川溫泉楓葉）最宜；夏季高原避暑。"
+ },
+ "items": {
+  "architecture": {
+   "title_zh": "熊本城",
+   "title_ja": "熊本城",
+   "summary_zh": "加藤清正築造、以黑色天守與扇形石垣聞名的名城。",
+   "body_zh": "熊本城位於熊本市中心的茶臼山，15世紀中葉已有城塞，1601至1607年間由加藤清正大幅擴建成擁有多座櫓與城門的大城。天守外觀偏黑，石垣下緩上陡，呈弧形向上翹起，稱為「武者返」，使敵人難以攀爬。2016年4月地震令石垣崩塌、多處建築受損，天守閣其後修復並於2021年重新開放，城內其他部分仍在長期復原中，現已設參觀通道讓遊客見到復原過程。熊本城常與名古屋城、大阪城並稱「日本三名城」。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "熊本縣熊本市中央區本丸"
+    },
+    {
+     "label": "築城",
+     "value": "1601至1607年由加藤清正擴建"
+    },
+    {
+     "label": "特色",
+     "value": "弧形『武者返』石垣、黑色天守"
+    },
+    {
+     "label": "現況",
+     "value": "2016年地震受損，天守閣2021年重開，全面復原預計持續至2050年代"
+    }
+   ],
+   "best_season_zh": "春季賞櫻、秋季",
+   "tips_zh": "建議預留2小時以上，並先查最新開放區域與參觀路線；夜間點燈期間的天守輪廓特別好拍。",
+   "tags": [
+    "城堡",
+    "石垣",
+    "加藤清正",
+    "震後復原"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/熊本城",
+    "https://en.wikipedia.org/wiki/Kumamoto_Castle"
+   ],
+   "confidence": "high",
+   "prompt_en": "Black castle keep rising above sweeping curved stone walls that flare upward at the base, under a clear blue sky, wide shot from the plaza below"
+  },
+  "food": {
+   "title_zh": "馬肉刺身",
+   "title_ja": "馬刺し",
+   "summary_zh": "熊本代表鄉土料理，馬肉生食薄切配蒜泥薑泥。",
+   "body_zh": "馬刺し是把新鮮馬肉切成薄片生食的料理，熊本縣是日本最大的馬肉產地，據稱佔全國屠宰後馬肉產量約四成。常見部位有霜降、赤身、鬃脂（たてがみ），一般蘸醬油，配薑泥、蒜泥或蔥。民間流傳加藤清正出兵朝鮮時以馬肉充飢而傳下食法，但此說屬傳聞、未有定論。馬肉脂肪低、蛋白質高，口感清爽微甜，是居酒屋與料亭的必點項目。在熊本市的居酒屋與專門店幾乎都能點到，價格依部位和等級而異，也有馬肉壽司、燒馬肉等延伸菜式，可一次嘗試不同口感。",
+   "facts": [
+    {
+     "label": "類別",
+     "value": "鄉土料理／生食"
+    },
+    {
+     "label": "產量",
+     "value": "熊本縣約佔全國馬肉產量四成"
+    },
+    {
+     "label": "常見部位",
+     "value": "霜降、赤身、鬃脂"
+    },
+    {
+     "label": "吃法",
+     "value": "醬油蘸薑泥、蒜泥、蔥"
+    }
+   ],
+   "best_season_zh": "全年；冬季配溫酒",
+   "tips_zh": "生食須在信譽良好、有衛生管理的店家享用；孕婦與免疫力低者宜避免。",
+   "tags": [
+    "馬肉",
+    "刺身",
+    "鄉土料理",
+    "居酒屋"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/馬刺し"
+   ],
+   "confidence": "medium",
+   "prompt_en": "Thin slices of pink and marbled horse-meat sashimi fanned on a dark plate with grated garlic, ginger and sliced scallion, wooden table, close-up"
+  },
+  "culture": {
+   "title_zh": "肥後象嵌",
+   "title_ja": "肥後象嵌",
+   "summary_zh": "在黑鐵上鑲嵌金銀花紋的細川藩工藝。",
+   "body_zh": "肥後象嵌是熊本的傳統金工，在鐵地上刻出細密紋路，嵌入金銀絲片，再經上銹與茶水煮製使鐵面轉黑，與金銀形成強烈對比。相傳17世紀初細川忠興由近江招來鍛冶師平田彥三，傳授技法，最初用於武士的刀鍔、鐵砲與煙管。1876年廢刀令後市場縮減，轉而製作袖扣、領帶夾、墜飾等飾品。現時從業者約十餘人，作品仍可在熊本城附近的工藝館見到。今日在熊本市的工藝館與部分店鋪可看到職人現場製作與展示，也有體驗課程可預約，作為紀念品別具特色。",
+   "facts": [
+    {
+     "label": "類別",
+     "value": "金工／鑲嵌"
+    },
+    {
+     "label": "起源",
+     "value": "17世紀初，細川忠興延請平田彥三"
+    },
+    {
+     "label": "特色",
+     "value": "黑鐵地鑲金銀、布目象嵌等技法"
+    },
+    {
+     "label": "現況",
+     "value": "從業者約十餘人，轉做飾品與小物"
+    }
+   ],
+   "best_season_zh": "全年",
+   "tips_zh": "工藝館可見成品與工序展示；選購時留意是否標明手工與作者，價格差異大。",
+   "tags": [
+    "金工",
+    "傳統工藝",
+    "細川家",
+    "象嵌"
+   ],
+   "sources": [
+    "https://www.mlit.go.jp/tagengo-db/R2-02047.html"
+   ],
+   "confidence": "medium",
+   "prompt_en": "Close-up of delicate gold and silver inlay floral patterns on a dark blackened iron plate, a craftsman's chisel beside it, soft studio light"
+  },
+  "history": {
+   "title_zh": "熊本城石垣與武者返",
+   "title_ja": "熊本城の石垣",
+   "summary_zh": "弧形石垣是築城名家加藤清正技術的象徵。",
+   "body_zh": "熊本城的石垣以「扇之勾配」著名：底部坡度緩，向上漸陡，最頂端近乎垂直並向外翹起，稱為武者返，意即連武士也難以翻越。加藤清正曾參與多場築城與戰役，累積了石垣技術，把它用在熊本城。2016年地震後，部分石垣崩落，修復時把石塊逐一編號、記錄原位再回砌，工程耗時甚長。遊客現可沿參觀通道近距離看到修復中的石垣，了解城堡與災後重建的歷史。這套石垣築法反映了江戶初期的築城技術，也是理解熊本城防禦設計的最佳切入點。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "熊本縣熊本市熊本城內"
+    },
+    {
+     "label": "技法",
+     "value": "扇形勾配、武者返"
+    },
+    {
+     "label": "年代",
+     "value": "江戶時代初期（約1600年代）"
+    },
+    {
+     "label": "現況",
+     "value": "地震後逐步修復，部分區域可近距離參觀"
+    }
+   ],
+   "best_season_zh": "全年",
+   "tips_zh": "石垣修復工程進度會變，出發前請查熊本城官方資訊；穿防滑鞋較安心。",
+   "tags": [
+    "石垣",
+    "城郭",
+    "災後重建",
+    "築城技術"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/熊本城",
+    "https://en.wikipedia.org/wiki/Kumamoto_Castle"
+   ],
+   "confidence": "high",
+   "prompt_en": "Curved castle stone walls that steepen and flare upward at the top, rows of fitted dark grey stones, afternoon sun, low angle, no people"
+  },
+  "mascot": {
+   "title_zh": "熊本熊與原創火山蜜柑角色",
+   "title_ja": "くまモン",
+   "summary_zh": "縣吉祥物為熊本熊；本頁以原創角色呈現地方象徵。",
+   "body_zh": "熊本縣的官方吉祥物是黑熊造型、紅臉頰的「熊本熊」（くまモン），2010年為配合九州新幹線全線通車而誕生，後來成為全國知名的地方角色，屬受版權與商標保護的設計。本站不複製其造型，改以阿蘇火山、不知火柑、赤牛等縣內象徵為靈感，創作一個原創的火山小精靈，示範地方角色如何把風土轉化成可愛形象。熊本熊在縣內機場、車站與商店街幾乎隨處可見，周邊商品與主題店也成為旅遊動線的一部分。",
+   "facts": [
+    {
+     "label": "縣吉祥物",
+     "value": "熊本熊（くまモン）"
+    },
+    {
+     "label": "誕生",
+     "value": "2010年"
+    },
+    {
+     "label": "靈感來源",
+     "value": "阿蘇火山、不知火柑等"
+    },
+    {
+     "label": "備註",
+     "value": "本頁插圖為原創，並非熊本熊"
+    }
+   ],
+   "best_season_zh": "全年",
+   "tips_zh": "在熊本市區與熊本機場常見熊本熊相關展示與周邊商品，可作紀念。",
+   "tags": [
+    "吉祥物",
+    "熊本熊",
+    "地方角色",
+    "原創"
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Kumamon",
+    "https://en.wikipedia.org/wiki/Kumamoto_Prefecture"
+   ],
+   "confidence": "medium",
+   "prompt_en": "An original cute character shaped like a small volcano with a mandarin orange on top and tiny round cheeks, standing on a grassy meadow, not replicating any existing trademarked mascot"
+  },
+  "scenery": {
+   "title_zh": "阿蘇火山",
+   "title_ja": "阿蘇山",
+   "summary_zh": "世界級的巨大破火山口與五岳。",
+   "body_zh": "阿蘇山位於熊本縣東北部，破火山口東西約18公里、南北約25公里，外輪山周長約120公里，內部有城鎮、農田與鐵道。中央的阿蘇五岳包括根子岳、高岳、中岳、烏帽子岳與杵島岳，最高的高岳海拔1,592公尺，其中中岳至今仍是活火山，火山口可能因火山活動限制進入。外輪山上的草原為放牧地，春夏一片碧綠，是日本最具代表性的火山景觀之一。登上外輪山展望台俯瞰，可看到火山口內農田、村落與中央五岳的完整構圖，四季色彩不同，值得多停留一些時間。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "熊本縣阿蘇市、南阿蘇村等"
+    },
+    {
+     "label": "規模",
+     "value": "破火山口東西約18公里、南北約25公里"
+    },
+    {
+     "label": "最高峰",
+     "value": "高岳1,592公尺"
+    },
+    {
+     "label": "注意",
+     "value": "中岳為活火山，火山口開放視火山活動而定"
+    }
+   ],
+   "best_season_zh": "春至秋",
+   "tips_zh": "出發前務必查詢火山噴氣與火口開放資訊；風大時氣溫比山下低許多，要帶外套。",
+   "tags": [
+    "火山",
+    "破火山口",
+    "草原",
+    "國立公園"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/阿蘇山",
+    "https://en.wikipedia.org/wiki/Mount_Aso"
+   ],
+   "confidence": "high",
+   "prompt_en": "A vast volcanic caldera with green grassland slopes and steaming crater peaks of five mountains, drifting clouds, wide aerial-like view at golden hour"
+  },
+  "spot": {
+   "title_zh": "草千里濱",
+   "title_ja": "草千里ヶ浜",
+   "summary_zh": "阿蘇中岳山麓的火口原與放牧草地。",
+   "body_zh": "草千里濱位於阿蘇中岳山麓，標高約1,140公尺，是約3萬年前火山噴出物形成的雙重火口遺跡，直徑約1公里，地形寬而淺。草原上有雨水積成的淺池，成為牛馬的飲水處，當地人也在此放牧並定期燒野以維持草原景觀。後方可望烏帽子岳與中岳，是阿蘇最受歡迎的拍照點與騎馬體驗區之一，旁邊設有遊客服務中心與火山博物館。夏季草原翠綠，冬季則枯黃並偶有薄雪，景色隨季節大幅變化，是在阿蘇停留時一定會經過的景點。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "熊本縣阿蘇市阿蘇山上"
+    },
+    {
+     "label": "標高",
+     "value": "約1,140公尺"
+    },
+    {
+     "label": "面積",
+     "value": "約78萬平方公尺"
+    },
+    {
+     "label": "成因",
+     "value": "約3萬年前火山活動形成的火口遺跡"
+    }
+   ],
+   "best_season_zh": "5至10月",
+   "tips_zh": "天候變化大，霧起時能見度低；想看牛馬與藍天，盡量早上到訪。",
+   "tags": [
+    "草原",
+    "火口",
+    "放牧",
+    "火山"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/草千里ヶ浜"
+   ],
+   "confidence": "high",
+   "prompt_en": "A wide grassy plateau with a small pond and grazing horses, volcano silhouette behind, soft clouds, morning light"
+  },
+  "experience": {
+   "title_zh": "黑川溫泉巡禮",
+   "title_ja": "黒川温泉",
+   "summary_zh": "以『入湯手形』逐間旅館泡露天風呂。",
+   "body_zh": "黑川溫泉位於阿蘇郡南小國町，約有二十多間旅館沿田之原川山谷分布，泉質為硫磺泉。1986年起推行的「入湯手形」是一塊檜木牌，附三張貼紙，可在三間旅館的露天風呂各泡一次，近年也擴展到部分餐飲店。1960至70年代曾一度冷清，旅館合作改建成貼近自然的露天風呂和統一的街景，後來成為九州人氣溫泉地。來訪時建議搭配溫泉街的散步和當地料理，一天行程即可充分體會山間溫泉文化。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "熊本縣阿蘇郡南小國町"
+    },
+    {
+     "label": "旅館數",
+     "value": "約20多間"
+    },
+    {
+     "label": "特色",
+     "value": "入湯手形（1986年起）、露天風呂"
+    },
+    {
+     "label": "泉質",
+     "value": "硫磺泉"
+    }
+   ],
+   "best_season_zh": "秋季（紅葉）、冬季",
+   "tips_zh": "手形可在多間旅館使用，但各館入浴時間不同，宜先確認；平日人較少。",
+   "tags": [
+    "溫泉",
+    "露天風呂",
+    "入湯手形",
+    "溫泉街"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/黒川温泉"
+   ],
+   "confidence": "high",
+   "prompt_en": "A rustic hot spring village lane in a mountain valley with steam, wooden bathhouse fronts and lanterns, evening glow"
+  },
+  "costume": {
+   "title_zh": "肥後農家的藍染作業服",
+   "title_ja": "肥後の装い",
+   "summary_zh": "以藍染棉布為意象的鄉村服飾，模特兒為匿名。",
+   "body_zh": "熊本的傳統農村服飾多用棉布與藍染，是日本各地農家常見的作業服款式，如上衣加綁腿與頭巾，利於田間勞作並耐髒。本條目屬意象呈現而非特定文物的考證，目的是以藍染質感和田園景色，傳達阿蘇、天草一帶的農耕與漁村生活氛圍。若想了解熊本的實際工藝，可參考肥後象嵌與當地的染織、藤編等手工藝品。（此條對具體服飾的歷史資訊仍較保守。）實際旅遊時，更容易體驗的是在熊本城附近租借和服，或在阿蘇、天草的市集購買手工藍染小物。",
+   "facts": [
+    {
+     "label": "類別",
+     "value": "意象呈現／農村作業服"
+    },
+    {
+     "label": "素材",
+     "value": "棉布、藍染"
+    },
+    {
+     "label": "風格",
+     "value": "日本鄉村常見款式"
+    },
+    {
+     "label": "備註",
+     "value": "非特定文物考證"
+    }
+   ],
+   "best_season_zh": "全年",
+   "tips_zh": "想體驗和服可在熊本市街區的和服出租店預約，搭配城下町散步。",
+   "tags": [
+    "藍染",
+    "農村",
+    "服飾",
+    "意象"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/熊本県"
+   ],
+   "confidence": "low",
+   "prompt_en": "An anonymous model seen from the back in indigo-dyed cotton work clothes and a headcloth standing in a green field, warm light, no face visible"
+  }
+ },
+ "areas": [
+  {
+   "id": "kumamoto_kumamoto_city",
+   "name_zh": "熊本市",
+   "name_ja": "熊本市",
+   "intro_zh": "熊本市是縣廳所在地，人口約74萬，以熊本城為中心形成城下町。市內有水前寺成趣園、馬肉料理與辣味蓮藕等名物，並設有電車與巴士串連市區，是遊覽熊本縣的起點與交通樞紐。",
+   "items": {
+    "spot": {
+     "title_zh": "熊本城",
+     "title_ja": "熊本城",
+     "summary_zh": "加藤清正築造的城郭，市中心地標。",
+     "body_zh": "熊本城是熊本市最具代表性的景點，由加藤清正在17世紀初擴建，石垣以弧形外翹的設計聞名。2016年地震後仍在修復，天守閣已重新開放，遊客可從參觀通道了解復原過程。城內建築與庭園規模宏大，建議留足半天。附近的櫻之馬場城彩苑有餐廳與特產店，適合順道休息和購物。城內設有解說牌與影像館，並可看到石垣修復中的實況，十分適合家庭同行。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "熊本市中央區本丸"
+      },
+      {
+       "label": "築城",
+       "value": "約1601至1607年"
+      },
+      {
+       "label": "現況",
+       "value": "部分區域仍在復原"
+      },
+      {
+       "label": "鄰近",
+       "value": "櫻之馬場城彩苑"
+      }
+     ],
+     "best_season_zh": "春、秋",
+     "tips_zh": "建議從二之丸入口進入，並先在官方網站確認可參觀區域。",
+     "tags": [
+      "城堡",
+      "地標",
+      "城下町"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/熊本城"
+     ],
+     "confidence": "high",
+     "prompt_en": "Tall curved stone walls and a black castle keep in clear daylight, wide shot, no people"
+    },
+    "food": {
+     "title_zh": "馬肉刺身",
+     "title_ja": "馬刺し",
+     "summary_zh": "熊本市居酒屋必點的鄉土料理。",
+     "body_zh": "在熊本市的繁華區與居酒屋，馬刺し是最常見的招牌菜。店家通常提供霜降、赤身與鬃脂等部位拼盤，配上蒜泥、薑泥與醬油。馬肉脂肪低、味道清甜，與九州甜口醬油很搭。也有店家供應馬肉壽司、燒肉與馬肉火鍋等多種吃法，適合第一次嘗試的人以小份點菜比較。市區老店常提供搭配辣味蓮藕的套餐，是在熊本市最具代表性的鄉土味之一。",
+     "facts": [
+      {
+       "label": "類別",
+       "value": "馬肉生食"
+      },
+      {
+       "label": "常見部位",
+       "value": "霜降、赤身、鬃脂"
+      },
+      {
+       "label": "搭配",
+       "value": "蒜泥、薑泥、蔥"
+      },
+      {
+       "label": "供應",
+       "value": "居酒屋、料亭"
+      }
+     ],
+     "best_season_zh": "全年",
+     "tips_zh": "選有衛生管理的老店，並按店員建議的蘸法享用。",
+     "tags": [
+      "馬肉",
+      "刺身",
+      "居酒屋"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/馬刺し"
+     ],
+     "confidence": "medium",
+     "prompt_en": "Red horse meat sashimi slices with grated garlic and sliced onion on a plate, izakaya counter, close-up"
+    },
+    "scenery": {
+     "title_zh": "水前寺成趣園",
+     "title_ja": "水前寺成趣園",
+     "summary_zh": "桃山式迴遊庭園，湧泉池為特色。",
+     "body_zh": "水前寺成趣園是熊本藩主細川家的庭園，1630年代由細川忠利開始營建，至細川綱利時代完成主要造園。園內以湧泉池為中心，以築山模仿東海道的名勝與富士山，屬桃山式迴遊庭園，1929年被指定為國家名勝與史跡。園內湧水形成水質清澈的池，日本稀有藻類「水前寺海苔」也是在此被發現。庭園內的池水源自阿蘇伏流水，水質澄澈，與園內松樹、石橋構成典型的日式迴遊景色。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "熊本市中央區水前寺公園"
+      },
+      {
+       "label": "形式",
+       "value": "桃山式迴遊庭園"
+      },
+      {
+       "label": "指定",
+       "value": "1929年國家名勝與史跡"
+      },
+      {
+       "label": "特色",
+       "value": "湧泉池、富士山形築山"
+      }
+     ],
+     "best_season_zh": "春、秋",
+     "tips_zh": "繞園一圈約30至40分鐘，傍晚人少、光線柔和。",
+     "tags": [
+      "庭園",
+      "名勝",
+      "湧泉"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/水前寺成趣園"
+     ],
+     "confidence": "high",
+     "prompt_en": "A landscaped Japanese garden with a miniature Mount Fuji-shaped hill reflected in a clear spring-fed pond, stepping stones, morning light"
+    }
+   }
+  },
+  {
+   "id": "kumamoto_aso",
+   "name_zh": "阿蘇",
+   "name_ja": "阿蘇",
+   "intro_zh": "阿蘇地區位於縣東北部，圍繞世界級破火山口，居民在盆地中耕作畜牧。草原、火山口與阿蘇神社構成多樣景觀，是熊本縣最具代表性的自然與信仰區域。春夏草原翠綠，適合健行與騎馬。",
+   "items": {
+    "spot": {
+     "title_zh": "阿蘇神社",
+     "title_ja": "阿蘇神社",
+     "summary_zh": "肥後國一宮，震後重建的樓門引人注目。",
+     "body_zh": "阿蘇神社位於阿蘇市一之宮町，是肥後國的一宮，據傳創建於孝靈天皇時代，祭祀阿蘇十二神，被認為是全國約450座阿蘇神社的總本社。神社的樓門高約18公尺，與日本其他兩座著名樓門並稱日本三大樓門之一。2016年地震令樓門與拜殿倒塌，2019年起陸續修復，樓門於2023年底完成重建。神社周邊的門前商店街有湧水和小吃，是遊覽阿蘇市區前的休息點。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "熊本縣阿蘇市一之宮町"
+      },
+      {
+       "label": "地位",
+       "value": "肥後國一宮"
+      },
+      {
+       "label": "樓門",
+       "value": "高約18公尺，2023年12月重建完成"
+      },
+      {
+       "label": "指定",
+       "value": "國家重要文化財"
+      }
+     ],
+     "best_season_zh": "全年",
+     "tips_zh": "參道有名水與商店街（門前町），可順便喝湧水、嘗小吃。",
+     "tags": [
+      "神社",
+      "一宮",
+      "震後重建"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/阿蘇神社"
+     ],
+     "confidence": "high",
+     "prompt_en": "A large wooden two-story shrine gate with a volcano in the background, clear sky, wide view"
+    },
+    "food": {
+     "title_zh": "赤牛丼",
+     "title_ja": "あか牛丼",
+     "summary_zh": "阿蘇草原放牧的赤牛，以丼飯呈現。",
+     "body_zh": "赤牛（あか牛）是熊本褐毛和種，主要在阿蘇草原放牧飼養，肉質紅色且脂肪較少，味道濃郁。在阿蘇一帶的餐廳常見赤牛丼，把烤好的赤牛薄片鋪在飯上，有時加溫泉蛋。也可以吃到赤牛排與牛排定食，風味比霜降和牛更清爽，適合想吃肉又不想太油膩的人。在阿蘇地區的道之驛和餐廳，也常可買到赤牛的加工品和乳製品，作為伴手禮。",
+     "facts": [
+      {
+       "label": "食材",
+       "value": "熊本褐毛和種（赤牛）"
+      },
+      {
+       "label": "產地",
+       "value": "阿蘇一帶為主"
+      },
+      {
+       "label": "特色",
+       "value": "紅肉多、脂肪較少"
+      },
+      {
+       "label": "吃法",
+       "value": "丼飯、牛排、燒肉"
+      }
+     ],
+     "best_season_zh": "全年",
+     "tips_zh": "可向店家詢問肉的產地與品牌，是否為阿蘇放牧的赤牛。",
+     "tags": [
+      "赤牛",
+      "丼飯",
+      "阿蘇"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/あか牛"
+     ],
+     "confidence": "medium",
+     "prompt_en": "A bowl of grilled sliced red beef over rice topped with a soft egg yolk, wooden tray, side of pickles"
+    },
+    "scenery": {
+     "title_zh": "阿蘇火山草原",
+     "title_ja": "阿蘇のカルデラ",
+     "summary_zh": "外輪山下的草原與牧牛景色。",
+     "body_zh": "阿蘇的草原由居民世代以放牧和燒野維持，每年春天的燒野（野焼き）能防止樹木入侵，也讓新草生長。從大觀峰或外輪山展望台可以看到整個火山口內的田園與五岳，雲海在某些季節的清晨會填滿盆地。夏季草地翠綠、牛馬悠閒，是日本最具代表性的高原景觀之一。若要拍攝草原與火山，早晨光線較柔和，遊客也較少，是理想的時段。春天的燒野景象、夏季翠綠草原與秋日芒草，各有不同面貌，每個季節來訪都有新的體驗。",
+     "facts": [
+      {
+       "label": "地貌",
+       "value": "外輪山、草原、中央火口丘"
+      },
+      {
+       "label": "維護",
+       "value": "燒野與放牧"
+      },
+      {
+       "label": "景點",
+       "value": "大觀峰、米塚等"
+      },
+      {
+       "label": "現象",
+       "value": "秋冬清晨偶見雲海"
+      }
+     ],
+     "best_season_zh": "春至秋",
+     "tips_zh": "雲海需要特定天氣與清晨，建議住在阿蘇一晚。",
+     "tags": [
+      "草原",
+      "雲海",
+      "放牧"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/阿蘇山"
+     ],
+     "confidence": "medium",
+     "prompt_en": "Vast caldera grassland with grazing red cattle, morning mist in the valley, volcano ridge behind"
+    }
+   }
+  },
+  {
+   "id": "kumamoto_amakusa",
+   "name_zh": "天草",
+   "name_ja": "天草",
+   "intro_zh": "天草是熊本縣西南的群島，面積約684平方公里，以海鮮、潛伏基督徒遺產與海豚觀賞聞名。海岸線蜿蜒，漁村氣氛濃厚，是九州的一處寧靜離島型旅遊地。旅客可搭船或自駕環島慢遊。",
+   "items": {
+    "spot": {
+     "title_zh": "崎津教會",
+     "title_ja": "崎津教会",
+     "summary_zh": "漁村中的天主堂，世界遺產的一部分。",
+     "body_zh": "崎津教會位於天草市河浦町的漁村崎津，現有天主堂建於1934年，是一座哥德式建築，立在漁港旁。崎津聚落於2011年被指定為重要文化景觀，2018年「長崎與天草地方的潛伏基督徒相關遺產」列入世界遺產，崎津為其構成資產之一。江戶禁教時期，居民以貝殼等物件隱藏信仰，形成獨特的信仰文化。漁村裡的細窄巷弄和海邊的小碼頭，構成與一般教會觀光不同的樸素風景。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "熊本縣天草市河浦町崎津"
+      },
+      {
+       "label": "天主堂",
+       "value": "1934年建成"
+      },
+      {
+       "label": "世界遺產",
+       "value": "2018年登錄"
+      },
+      {
+       "label": "背景",
+       "value": "江戶禁教時期的潛伏基督徒"
+      }
+     ],
+     "best_season_zh": "全年",
+     "tips_zh": "教堂為信仰場所，入內請保持安靜，並遵守拍攝規定。",
+     "tags": [
+      "教堂",
+      "世界遺產",
+      "漁村"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/崎津集落"
+     ],
+     "confidence": "high",
+     "prompt_en": "A small gothic-style church beside a fishing village harbor with moored boats, overcast soft light"
+    },
+    "food": {
+     "title_zh": "天草海鮮丼",
+     "title_ja": "天草の海鮮丼",
+     "summary_zh": "新鮮漁獲鋪滿飯面的在地丼飯。",
+     "body_zh": "天草三面環海，漁獲豐富，道之驛與港邊食堂常提供海鮮丼，內容隨季節變化，常見有鯛魚、章魚、蝦與貝類。也可吃到天草大王（地雞）與其他鄉土料理。以市場直送的鮮度為賣點，價格與份量因店而異，建議在午間用餐以挑選當日漁獲。在漁港旁的食堂用餐，能直接感受離島飲食的新鮮與樸素，是天草旅遊的樂趣之一。若想吃得更豐富，也可以選擇島上的海鮮定食或壽司店，品嚐其他在地魚種。",
+     "facts": [
+      {
+       "label": "類別",
+       "value": "丼飯／海鮮"
+      },
+      {
+       "label": "食材",
+       "value": "當日漁獲（魚、蝦、貝類）"
+      },
+      {
+       "label": "產地",
+       "value": "天草近海"
+      },
+      {
+       "label": "供應處",
+       "value": "港邊食堂、道之驛"
+      }
+     ],
+     "best_season_zh": "全年",
+     "tips_zh": "食材隨漁獲而變，可先問店員當日推薦。",
+     "tags": [
+      "海鮮",
+      "丼飯",
+      "天草"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/天草市"
+     ],
+     "confidence": "medium",
+     "prompt_en": "A bowl of rice topped with assorted fresh sashimi, shrimp and shellfish, wooden counter, bright light"
+    },
+    "scenery": {
+     "title_zh": "天草的海",
+     "title_ja": "天草の海",
+     "summary_zh": "在海面看野生海豚的海域。",
+     "body_zh": "天草周邊海域有野生海豚棲息，天草市的通詞島附近以海豚觀賞船聞名，一年中多數時間有機會看到群游的海豚，但是否出現視海況而定。除海豚外，島嶼與入海口風景也很迷人，夕陽時分特別美。搭船前請留意天候和航班資訊，風浪大時可能停航。除了海豚，島嶼間的夕陽與海面倒影也是天草海域的一大看點，值得預留傍晚時間。搭船前建議確認班次與海況，並可在碼頭附近的商店購買當地小吃作為途中點心。",
+     "facts": [
+      {
+       "label": "活動",
+       "value": "海豚觀賞船"
+      },
+      {
+       "label": "地點",
+       "value": "天草近海（通詞島周邊）"
+      },
+      {
+       "label": "條件",
+       "value": "視天氣與海況而定"
+      },
+      {
+       "label": "特色",
+       "value": "多島嶼地形"
+      }
+     ],
+     "best_season_zh": "春至秋",
+     "tips_zh": "出發前確認船班與天候；暈船者先服藥。",
+     "tags": [
+      "海豚",
+      "海",
+      "離島"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/天草市"
+     ],
+     "confidence": "medium",
+     "prompt_en": "Calm sea with a few dolphin fins breaking the surface among small green islands, soft morning light"
+    }
+   }
+  },
+  {
+   "id": "kumamoto_kurokawa",
+   "name_zh": "黑川溫泉",
+   "name_ja": "黒川温泉",
+   "intro_zh": "黑川溫泉是阿蘇郡南小國町的山中溫泉地，以木造旅館與露天風呂聞名。旅館之間互相配合，維持統一的田園景觀與入湯手形制度，是日本溫泉街營造的代表案例。漫步其間，可感受濃厚的溫泉鄉風情。",
+   "items": {
+    "spot": {
+     "title_zh": "黑川溫泉街",
+     "title_ja": "黒川温泉街",
+     "summary_zh": "溪谷兩側的木造旅館街。",
+     "body_zh": "黑川溫泉的旅館沿田之原川溪谷排列，建築以木造與茅葺風格為主，街上沒有大型霓虹招牌，營造安靜氣氛。旅館數約20多間，各有特色露天風呂，部分提供洞窟風呂與森林風呂。入湯手形讓遊客用一張木牌周遊三間旅館，是這裡最具特色的制度。整個街區禁止大型廣告看板，旅館之間也共同維護景觀，這種做法使黑川成為溫泉街營造的典範。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "熊本縣阿蘇郡南小國町"
+      },
+      {
+       "label": "旅館數",
+       "value": "約20多間"
+      },
+      {
+       "label": "制度",
+       "value": "入湯手形（1986年起）"
+      },
+      {
+       "label": "泉質",
+       "value": "硫磺泉"
+      }
+     ],
+     "best_season_zh": "秋、冬",
+     "tips_zh": "手形可買一張用三次，但要在營業時間內，且部分旅館會限制人數。",
+     "tags": [
+      "溫泉街",
+      "旅館",
+      "木造"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/黒川温泉"
+     ],
+     "confidence": "high",
+     "prompt_en": "A wooden ryokan street in a mountain valley with rising steam and soft evening lanterns"
+    },
+    "food": {
+     "title_zh": "田樂",
+     "title_ja": "田楽",
+     "summary_zh": "味噌烤串，溫泉街常見的小吃。",
+     "body_zh": "田樂是把豆腐、蒟蒻、蔬菜等串在竹籤上，塗抹甜味噌後燒烤的傳統料理，在黑川溫泉等山間溫泉街很常見。有些店家用炭火或爐灶烤製，邊走邊吃很方便。味噌帶甜香，與山菜、豆腐的樸素風味相配，適合泡湯途中補充。此頁屬一般鄉土料理介紹，具體店家與品項會依季節變化。溫泉街的小店也供應手工甜點和山菜料理，搭配泡湯行程很適合。",
+     "facts": [
+      {
+       "label": "類別",
+       "value": "串燒／鄉土小吃"
+      },
+      {
+       "label": "主料",
+       "value": "豆腐、蒟蒻、蔬菜"
+      },
+      {
+       "label": "調味",
+       "value": "甜味噌"
+      },
+      {
+       "label": "供應",
+       "value": "溫泉街小店"
+      }
+     ],
+     "best_season_zh": "全年",
+     "tips_zh": "趁熱吃口感最好；注意燙口。",
+     "tags": [
+      "串燒",
+      "豆腐",
+      "小吃"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/黒川温泉"
+     ],
+     "confidence": "low",
+     "prompt_en": "Skewered tofu and vegetables glazed with miso grilling over charcoal, rustic wooden table"
+    },
+    "scenery": {
+     "title_zh": "露天風呂",
+     "title_ja": "露天風呂",
+     "summary_zh": "溪畔山谷中的露天溫泉。",
+     "body_zh": "黑川的露天風呂大多利用溪谷與山林的天然地形，以石頭和樹木營造野趣，部分有混浴或預約制的包租湯。秋季楓葉倒映在池面，冬季偶有雪景。入浴前請先沖洗身體，毛巾不可放入湯中。入湯手形可用於多間旅館的露天風呂，但是否開放外來客入浴依各館規定。許多露天風呂在溪畔或樹林中，水聲和鳥鳴讓人更放鬆；最佳時段是早晨與傍晚。",
+     "facts": [
+      {
+       "label": "類別",
+       "value": "露天溫泉"
+      },
+      {
+       "label": "環境",
+       "value": "溪谷、山林"
+      },
+      {
+       "label": "季節看點",
+       "value": "秋楓、冬雪"
+      },
+      {
+       "label": "規定",
+       "value": "各旅館開放時間不同"
+      }
+     ],
+     "best_season_zh": "秋、冬",
+     "tips_zh": "旅館公休與入浴時間不同，請事先確認；紋身規定因館而異。",
+     "tags": [
+      "露天風呂",
+      "溫泉",
+      "山谷"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/黒川温泉"
+     ],
+     "confidence": "medium",
+     "prompt_en": "An outdoor hot spring bath beside a stream among autumn maple trees, steam rising, quiet morning"
+    }
+   }
+  }
+ ]
+}

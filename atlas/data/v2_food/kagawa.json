@@ -1,0 +1,149 @@
+{
+ "id": "kagawa",
+ "foods": [
+  {
+   "title_zh": "讚岐烏冬",
+   "title_ja": "讃岐うどん",
+   "category": "麵飯",
+   "summary_zh": "香川代表名物，以彈牙麵體與小魚乾高湯聞名的烏冬。",
+   "body_zh": "讚岐烏冬是香川縣最具代表性的麵食，據日文維基百科記載，元祿末年（18世紀初）的屏風畫中已可見到烏冬店，江戶後期當地二毛作使小麥產量增加。麵體彈牙，湯頭多用伊吹島特產的小魚乾熬製。吃法多樣，包括剛煮好不過冷水的釜揚げ、淋上濃高湯的ぶっかけ、拌生蛋與醬油的釜玉等。縣內烏冬店密集，許多當地人每週都會吃上一次以上，也有店家採自助式，客人自行加配料。",
+   "facts": [
+    {"label": "起源", "value": "元祿末年（18世紀初）屏風畫已見烏冬店，後期因二毛作小麥增產而發展"},
+    {"label": "主要食材", "value": "小麥粉、鹽、水，湯頭用伊吹島小魚乾與醬油"},
+    {"label": "吃法", "value": "釜揚げ、ぶっかけ、釜玉、かけ等"}
+   ],
+   "season_zh": "全年",
+   "where_zh": "香川縣各地的烏冬專門店，尤以高松、丸龜一帶集中",
+   "tags": ["烏冬", "讚岐", "麵食", "小魚乾高湯"],
+   "sources": ["https://ja.wikipedia.org/wiki/讃岐うどん"],
+   "confidence": "high",
+   "prompt_en": "A single ceramic bowl of Sanuki udon with thick glossy noodles in clear iriko dashi broth, topped with chopped green onion and a small piece of tempura, steam rising, rustic wooden counter, soft window light, no text, no signage"
+  },
+  {
+   "title_zh": "骨付雞",
+   "title_ja": "骨付鳥",
+   "category": "肉類",
+   "summary_zh": "丸龜發跡的香辣烤雞腿，與烏冬並稱香川名物。",
+   "body_zh": "骨付雞是香川縣丸龜市發展出來的名物。據日文維基百科記載，居酒屋「一鶴」的創業者受好萊塢電影中的烤雞啟發，於1953年開始販售。做法是將帶骨雞腿以鹽、胡椒與大蒜調味後烤製，外皮焦香、肉汁豐富，店家通常提供較有嚼勁的親鳥與較軟嫩的雛鳥兩種選擇。傳統上用手拿著骨頭直接啃食，搭配啤酒很合適，丸龜市政府也積極推廣這道料理。",
+   "facts": [
+    {"label": "起源", "value": "丸龜市居酒屋「一鶴」於1953年開始販售"},
+    {"label": "主要食材", "value": "帶骨雞腿，以鹽、胡椒、大蒜調味"},
+    {"label": "吃法", "value": "趁熱直接用手拿骨頭啃食，搭配啤酒"}
+   ],
+   "season_zh": "全年",
+   "where_zh": "丸龜市及縣內居酒屋",
+   "tags": ["烤雞", "丸龜", "居酒屋", "雞腿"],
+   "sources": ["https://ja.wikipedia.org/wiki/骨付鳥"],
+   "confidence": "high",
+   "prompt_en": "A single bone-in grilled chicken leg with crisp golden-brown skin and black pepper, on a metal tray lined with parchment, a lemon wedge and shredded cabbage on the side, dark izakaya wooden table, warm low light, no text, no signage"
+  },
+  {
+   "title_zh": "餡餅雜煮",
+   "title_ja": "あん餅雑煮",
+   "category": "鄉土料理",
+   "summary_zh": "白味噌湯裡放紅豆餡年糕的香川新年雜煮。",
+   "body_zh": "餡餅雜煮是香川縣東部一帶的新年料理，白味噌湯裡放入包著紅豆餡的年糕。日文維基百科的「雜煮」條目提到，香川部分地區（以東部為中心）會做白味噌加餡餅的雜煮，但當地人是否喜歡也各半，口味因人而異。甜甜的紅豆餡與鹹香的白味噌湯相遇，口感獨特，常與蘿蔔、紅蘿蔔等蔬菜一同煮成。其起源與確切做法的細節本次未能查證，以上僅依條目的簡短記載。",
+   "facts": [
+    {"label": "起源", "value": "確切起源本次未能查證"},
+    {"label": "主要食材", "value": "白味噌湯、包紅豆餡的年糕"},
+    {"label": "時節", "value": "新年"}
+   ],
+   "season_zh": "新年",
+   "where_zh": "香川縣東部的家庭年節餐桌",
+   "tags": ["雜煮", "白味噌", "紅豆餡", "新年"],
+   "sources": ["https://ja.wikipedia.org/wiki/雑煮"],
+   "confidence": "low",
+   "prompt_en": "A single lacquer bowl of white miso zoni soup with a round white mochi cut open to show sweet red bean filling inside, a few slices of carrot and daikon, steam rising, wooden table with a New Year pine ornament softly blurred, soft daylight, no text"
+  },
+  {
+   "title_zh": "橄欖鰤魚",
+   "title_ja": "オリーブハマチ",
+   "category": "海鮮",
+   "summary_zh": "以小豆島橄欖葉粉末餵養的香川品牌養殖鰤魚。",
+   "body_zh": "橄欖鰤魚是香川縣的品牌養殖魚。據日文維基百科記載，研究始於2008年，為紀念世界首位成功事業化鰤魚養殖者野網和三郎誕辰100週年而展開；養殖時在飼料中混入香川縣產（如小豆島）的橄欖葉粉末，需餵食兩至三週以上才能掛上品牌。香川縣另有體型更大的橄欖鰤魚，於2011年取得商標。肉質清爽，常作為生魚片與壽司食材，是結合在地橄欖的新式名產。",
+   "facts": [
+    {"label": "起源", "value": "2008年開始研究，為紀念鰤魚養殖創始者野網和三郎"},
+    {"label": "主要食材", "value": "養殖鰤魚，飼料混入香川縣產橄欖葉粉末"},
+    {"label": "吃法", "value": "生魚片與壽司"}
+   ],
+   "season_zh": "全年（依養殖出貨）",
+   "where_zh": "香川縣的瀨戶內海養殖區及縣內壽司店",
+   "tags": ["鰤魚", "橄欖", "養殖", "生魚片"],
+   "sources": ["https://ja.wikipedia.org/wiki/オリーブハマチ"],
+   "confidence": "high",
+   "prompt_en": "A single slate plate of sliced Olive Hamachi sashimi arranged in a fan, pale pink-white flesh with fine fat lines, a small olive sprig and a dab of wasabi, dark stone table, soft side light, no text, no signage"
+  },
+  {
+   "title_zh": "讚岐和三盆",
+   "title_ja": "讃岐和三盆",
+   "category": "甜點和菓子",
+   "summary_zh": "粒子極細、甜味清爽的傳統含蜜砂糖，高級和菓子之源。",
+   "body_zh": "和三盆是主要產於香川縣與德島縣的傳統含蜜砂糖，以細緻的粒子、入口即化的口感與清爽甜味著稱。據日文維基百科記載，讚岐一帶在1799年由向山周慶向薩摩出身的砂糖師傅學習後，首次成功製出白糖，1840年確立現代製法。傳統上以當地竹糖為原料，反覆研磨與壓榨以去除糖蜜。常用於高級和菓子，也被做成入口即化的乾菓子，直接搭配茶品嚐。",
+   "facts": [
+    {"label": "起源", "value": "1799年向山周慶在讚岐首度製出白糖，1840年確立現代製法"},
+    {"label": "主要食材", "value": "竹糖（傳統甘蔗品種）"},
+    {"label": "吃法", "value": "做成乾菓子，或用於高級和菓子"}
+   ],
+   "season_zh": "全年",
+   "where_zh": "縣東部東香川一帶的製糖老店與和菓子店",
+   "tags": ["和三盆", "砂糖", "乾菓子", "傳統"],
+   "sources": ["https://ja.wikipedia.org/wiki/和三盆"],
+   "confidence": "high",
+   "prompt_en": "A single small lacquer tray holding a few delicate molded wasanbon higashi sweets in pale cream flower shapes, a tiny ceramic cup of green tea beside it, tatami or pale wood surface, soft diffused daylight, no text"
+  },
+  {
+   "title_zh": "醬油豆",
+   "title_ja": "しょうゆ豆",
+   "category": "鄉土料理",
+   "summary_zh": "炒香蠶豆浸醬油的香川鄉土小菜，常見於學校餐與伴手禮。",
+   "body_zh": "醬油豆是香川縣的鄉土料理，外觀像黑豆，但味道不如黑豆甜。據日文維基百科記載，原料是乾燥蠶豆，先放入焙烙炒到出現焦痕，再浸入由砂糖、醬油、味醂與辣椒調成的醬汁中一晚。成品帶有嚼勁，鹹甜帶微辣，是下酒、配飯的小菜。在香川的學校供餐、機場與車站都能見到，也常作為伴手禮販售。",
+   "facts": [
+    {"label": "起源", "value": "香川縣鄉土料理，確切年代本次未能查證"},
+    {"label": "主要食材", "value": "乾燥蠶豆、砂糖、醬油、味醂、辣椒"},
+    {"label": "吃法", "value": "當小菜或下酒配菜直接食用"}
+   ],
+   "season_zh": "全年",
+   "where_zh": "縣內家庭、學校供餐，以及機場與車站伴手禮店",
+   "tags": ["蠶豆", "醬油", "小菜", "鄉土料理"],
+   "sources": ["https://ja.wikipedia.org/wiki/しょうゆ豆"],
+   "confidence": "medium",
+   "prompt_en": "A single small ceramic bowl filled with glossy dark soy-braised fava beans shaped like black beans, a few red chili slices on top, plain linen cloth on a wooden table, soft side light, no text"
+  },
+  {
+   "title_zh": "橄欖牛",
+   "title_ja": "オリーブ牛",
+   "category": "肉類",
+   "summary_zh": "以橄欖榨渣飼料養出的香川品牌讚岐牛。",
+   "body_zh": "橄欖牛是香川縣的品牌牛肉。據日文維基百科記載，定義是出貨前兩個月以上、每天每頭餵食100公克以上橄欖飼料的讚岐牛。品牌最初源自小豆島，2011年7月完成商標登記；起因是農民石井正樹在2007年注意到橄欖富含油酸，開始用橄欖榨油後的殘渣製作飼料，一舉解決廢棄物並帶動地方循環。2016年調查顯示，橄欖牛在縣內認知度達86.7%。",
+   "facts": [
+    {"label": "起源", "value": "2007年起以橄欖榨渣試作飼料，2011年商標登記"},
+    {"label": "主要食材", "value": "讚岐牛，飼料含橄欖榨渣"},
+    {"label": "吃法", "value": "牛排、燒肉等，具體吃法本次未查證"}
+   ],
+   "season_zh": "全年",
+   "where_zh": "小豆島及香川縣內餐廳與肉店",
+   "tags": ["橄欖牛", "和牛", "小豆島", "品牌牛"],
+   "sources": ["https://ja.wikipedia.org/wiki/オリーブ牛"],
+   "confidence": "high",
+   "prompt_en": "A single white plate of medium-rare sliced Olive Beef steak with fine marbling, a small olive branch and sea salt beside it, dark wooden table, warm directional light, no text, no signage"
+  },
+  {
+   "title_zh": "小豆島手延素麵",
+   "title_ja": "小豆島手延べそうめん",
+   "category": "特產食材",
+   "summary_zh": "小豆島歷史悠久的傳統手延素麵。",
+   "body_zh": "小豆島手延素麵是小豆島的傳統特產。據日文維基百科「小豆島」條目記載，素麵的起源可追溯到1598年，島民去伊勢參拜後向三輪學習了素麵製法，並發展出島上獨有的手延技法，被視為日本三大素麵之一。同一條目也提到島上的胡麻油、醬油、佃煮與橄欖等產業。麵條細長，常見吃法是冷素麵蘸醬汁，或做成熱湯麵。關於製作細節，本次未能找到更詳細資料，以上僅依條目簡述。",
+   "facts": [
+    {"label": "起源", "value": "1598年島民向三輪學習素麵製法（依日文維基百科「小豆島」條目）"},
+    {"label": "主要食材", "value": "小麥粉、鹽；製作細節本次未能查證"},
+    {"label": "吃法", "value": "冷麵蘸醬汁，或熱湯麵"}
+   ],
+   "season_zh": "冷麵適合夏季，全年皆可",
+   "where_zh": "小豆島的素麵工房與島上食堂",
+   "tags": ["素麵", "小豆島", "手延", "特產"],
+   "sources": ["https://ja.wikipedia.org/wiki/小豆島"],
+   "confidence": "low",
+   "prompt_en": "A single round bamboo zaru tray of thin white hand-pulled somen noodles coiled neatly, a small dipping bowl with chopped scallion and ginger beside it, ice cubes, pale wood table, bright soft daylight, no text"
+  }
+ ]
+}

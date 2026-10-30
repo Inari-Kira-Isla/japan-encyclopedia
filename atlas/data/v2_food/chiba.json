@@ -1,0 +1,277 @@
+{
+ "id": "chiba",
+ "foods": [
+  {
+   "title_zh": "房總壽司卷",
+   "title_ja": "太巻き祭り寿司",
+   "category": "麵飯",
+   "summary_zh": "切面呈現花紋的粗卷壽司，房總節慶料理。",
+   "body_zh": "太巻き祭り寿司是千葉縣房總地區的鄉土料理，在粗卷壽司中用玉子燒、鳴門卷、乾瓢、菠菜等食材排列，切開後現出花朵、圖案或文字。常見於節慶、祭典與婚喪場合，由家庭主婦代代相傳。農林水產省將其列入鄉土料理，是千葉的代表飲食文化。製作需要經驗，把各色食材配置得好看，切開時才會出現預定圖案。現在各地也有料理教室教學，是千葉縣重要的家庭料理傳承。",
+   "facts": [
+    {
+     "label": "起源",
+     "value": "房總農漁村家庭節慶料理，細節未詳"
+    },
+    {
+     "label": "主要食材",
+     "value": "醋飯、海苔、玉子燒、乾瓢、蔬菜"
+    },
+    {
+     "label": "吃法",
+     "value": "切片後欣賞切面再食用"
+    }
+   ],
+   "season_zh": "節慶、祭典",
+   "where_zh": "房總各地家庭料理教室與鄉土料理店",
+   "tags": [
+    "壽司",
+    "卷壽司",
+    "節慶",
+    "鄉土"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/太巻き祭り寿司"
+   ],
+   "confidence": "medium",
+   "prompt_en": "A platter-free close up of sliced futomaki matsuri sushi showing a flower pattern in the cut face, arranged on a plain wooden board, soft natural light, single dish, no text"
+  },
+  {
+   "title_zh": "漁師生魚拌",
+   "title_ja": "なめろう",
+   "category": "鄉土料理",
+   "summary_zh": "將竹筴魚等與味噌、蔥薑拍碎的漁師料理。",
+   "body_zh": "なめろう是千葉縣房總半島的漁師料理，將竹筴魚、沙丁魚等新鮮魚肉與味噌、蔥、薑、紫蘇一起以刀拍打至黏稠。因為美味到連盤子都想舔而得名。可直接當下酒菜或拌飯，也可做成烤的「さんが焼き」。是南房總漁港的特色。吃的時候可以搭配紫蘇葉、白飯或日本酒。將拍好的魚泥放在烤盤上烤熟就是「さんが焼き」，兩種做法各有風味，皆是房總漁港的招牌。",
+   "facts": [
+    {
+     "label": "起源",
+     "value": "傳說起於漁船上的簡易料理"
+    },
+    {
+     "label": "主要食材",
+     "value": "竹筴魚、味噌、蔥、薑、紫蘇"
+    },
+    {
+     "label": "吃法",
+     "value": "直接食用、拌飯或烤成さんが焼き"
+    }
+   ],
+   "season_zh": "竹筴魚春至夏",
+   "where_zh": "南房總、館山、勝浦的漁港食堂",
+   "tags": [
+    "魚",
+    "味噌",
+    "漁師",
+    "下酒"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/なめろう"
+   ],
+   "confidence": "medium",
+   "prompt_en": "A small ceramic dish of namerou, finely chopped horse mackerel mixed with miso, ginger and scallion, shaped in a mound with a shiso leaf, wooden table, soft light, single dish, no text"
+  },
+  {
+   "title_zh": "勝浦擔擔麵",
+   "title_ja": "勝浦タンタンメン",
+   "category": "B級美食",
+   "summary_zh": "勝浦的辣油醬油湯麵，洋蔥和肉末為特色。",
+   "body_zh": "勝浦タンタンメン是千葉縣勝浦市的B級美食，與四川擔擔麵不同，是醬油湯底加大量辣油，配料有洋蔥和絞肉。據說起於海女與漁師在寒冷中取暖的需求，湯面浮滿紅色辣油，辣而不燥。如今勝浦市內有多家店提供，已成為地方名物。湯頭中洋蔥的甜味中和了辣油的刺激，所以雖然看起來很辣，實際吃起來層次豐富。到勝浦旅遊時，許多店家門口都會掛旗標示是否提供。",
+   "facts": [
+    {
+     "label": "起源",
+     "value": "傳說與海女、漁師取暖有關，細節未詳"
+    },
+    {
+     "label": "主要食材",
+     "value": "醬油湯、辣油、洋蔥、絞肉"
+    },
+    {
+     "label": "吃法",
+     "value": "趁熱吃，油辣帶甜"
+    }
+   ],
+   "season_zh": "全年，冬季尤佳",
+   "where_zh": "勝浦市的拉麵店",
+   "tags": [
+    "拉麵",
+    "辣",
+    "勝浦",
+    "B級美食"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/タンタンメン"
+   ],
+   "confidence": "medium",
+   "prompt_en": "A bowl of Katsuura tantanmen with red chili oil on soy broth, chopped onion and minced pork, ceramic bowl on a wooden counter, steam rising, warm light, single dish, no text"
+  },
+  {
+   "title_zh": "銚子金目鯛",
+   "title_ja": "銚子の金目鯛",
+   "category": "海鮮",
+   "summary_zh": "銚子漁港卸的金目鯛，燉煮或刺身都受歡迎。",
+   "body_zh": "千葉縣銚子港是日本主要漁港之一，鮮魚品類豐富，金目鯛是其中名產之一。肉質細緻、脂肪豐富，常見吃法有醬油燉煮、刺身和火烤。銚子與房總漁港的食堂都能以合理價格品嘗，是海鮮愛好者的目標。金目鯛眼睛大而金黃，故得其名。燉煮時醬汁甜鹹，魚皮的膠質與肉相合，搭配白飯非常下飯。冬季油脂最肥美。",
+   "facts": [
+    {
+     "label": "產地",
+     "value": "銚子港及房總沿岸"
+    },
+    {
+     "label": "主要食材",
+     "value": "金目鯛"
+    },
+    {
+     "label": "吃法",
+     "value": "燉煮、刺身"
+    }
+   ],
+   "season_zh": "冬季",
+   "where_zh": "銚子、勝浦的漁港食堂",
+   "tags": [
+    "金目鯛",
+    "漁港",
+    "海鮮",
+    "燉魚"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/銚子市"
+   ],
+   "confidence": "low",
+   "prompt_en": "A whole simmered kinmedai splendid alfonsino with red skin glazed in soy sauce on a white oval plate, with ginger and a green vegetable, wooden table, soft side light, single dish, no text"
+  },
+  {
+   "title_zh": "成田羊羹",
+   "title_ja": "成田羊羹",
+   "category": "甜點和菓子",
+   "summary_zh": "成田山新勝寺參道的老字號羊羹。",
+   "body_zh": "成田羊羹是千葉縣成田市的名物，在成田山新勝寺參道上的老店供應。以紅豆與砂糖寒天製成，口感細緻、甜度適中，也有栗子和抹茶口味。參拜完新勝寺後買羊羹當伴手禮是常見行程。成田山參道上有多家羊羹老店，通常可試吃。羊羹保存期較長，適合作為旅行伴手禮，也可搭配熱茶在參道旁的茶屋享用。",
+   "facts": [
+    {
+     "label": "產地",
+     "value": "成田市成田山參道"
+    },
+    {
+     "label": "主要食材",
+     "value": "紅豆、砂糖、寒天"
+    },
+    {
+     "label": "吃法",
+     "value": "切片配茶"
+    }
+   ],
+   "season_zh": "全年",
+   "where_zh": "成田山新勝寺參道",
+   "tags": [
+    "羊羹",
+    "成田",
+    "伴手禮",
+    "和菓子"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/羊羹"
+   ],
+   "confidence": "medium",
+   "prompt_en": "Thick slices of dark red bean yokan stacked on a small ceramic plate with a cup of green tea beside, wooden table, soft light, single dish, no text"
+  },
+  {
+   "title_zh": "千葉落花生",
+   "title_ja": "千葉の落花生",
+   "category": "特產食材",
+   "summary_zh": "千葉縣為日本落花生產量第一縣，八街為著名產地。",
+   "body_zh": "千葉縣是日本落花生最大產地，八街市、千葉市一帶尤其有名。主要品種為「千葉半立」和「ナカテユタカ」，帶殼炒或水煮都很常見。剛採收的新豆水煮風味特別，也被用於點心和花生醬。千葉縣內到處都有販賣店。八街的花生田在秋季收穫時會把花生倒掛晾乾，是當地獨特景象。水煮花生口感軟糯，與炒花生的香脆風味截然不同。",
+   "facts": [
+    {
+     "label": "產地",
+     "value": "千葉縣八街、千葉等地"
+    },
+    {
+     "label": "主要食材",
+     "value": "落花生"
+    },
+    {
+     "label": "吃法",
+     "value": "帶殼炒或水煮"
+    }
+   ],
+   "season_zh": "秋季新豆",
+   "where_zh": "八街市與縣內物產店",
+   "tags": [
+    "花生",
+    "八街",
+    "伴手禮",
+    "特產"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/落花生"
+   ],
+   "confidence": "medium",
+   "prompt_en": "A small pile of roasted in-shell Chiba peanuts with a few shelled peanuts on a rustic wooden board, soft natural light, single subject, no text"
+  },
+  {
+   "title_zh": "MAX咖啡",
+   "title_ja": "マックスコーヒー",
+   "category": "酒與飲品",
+   "summary_zh": "千葉茨城常見的加煉乳甜咖啡罐裝飲料。",
+   "body_zh": "マックスコーヒー（MAX COFFEE）是在千葉與茨城一帶特別受歡迎的罐裝咖啡，以大量煉乳製成，非常甜。黃藍相間的罐子成為地方象徵，被當地人稱為「千葉のソウルドリンク」。外地人多感到過甜，但當地居民視為成長記憶。許多人形容它像是液態的甜點，適合在寒冷的日子加熱飲用。自動販賣機與便利店常見，也成為遊客尋找的千葉紀念飲品。",
+   "facts": [
+    {
+     "label": "特色",
+     "value": "加煉乳的甜咖啡"
+    },
+    {
+     "label": "主要食材",
+     "value": "咖啡、煉乳、砂糖"
+    },
+    {
+     "label": "吃法",
+     "value": "冰涼或加熱罐裝"
+    }
+   ],
+   "season_zh": "全年",
+   "where_zh": "縣內自動販賣機與便利店",
+   "tags": [
+    "咖啡",
+    "罐裝",
+    "地方飲品",
+    "甜"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/MAXコーヒー"
+   ],
+   "confidence": "low",
+   "prompt_en": "A yellow and blue canned sweet condensed milk coffee drink next to a glass of iced coffee with milk on a wooden table, soft light, single subject, no readable text"
+  },
+  {
+   "title_zh": "南房總磯料理",
+   "title_ja": "南房総の磯料理",
+   "category": "海鮮",
+   "summary_zh": "南房總的海女與漁師海鮮，如鮑魚、龍蝦、栄螺。",
+   "body_zh": "千葉縣南房總沿海有海女漁業的傳統，鮑魚、伊勢海老、栄螺等海鮮是當地的代表。許多民宿與食堂提供現撈的刺身與烤物。外房的鴨川、勝浦與內房的館山都有類似的海鮮文化，是觀光客體驗房總海味的方式。當地民宿多提供海女漁獲的套餐，包含刺身、烤物與味噌湯。若想親自體驗，可在漁港周邊找食堂，享用現撈的海味。",
+   "facts": [
+    {
+     "label": "特色",
+     "value": "海女漁獲，現撈"
+    },
+    {
+     "label": "主要食材",
+     "value": "鮑魚、伊勢海老、栄螺"
+    },
+    {
+     "label": "吃法",
+     "value": "刺身、烤物"
+    }
+   ],
+   "season_zh": "夏季為佳",
+   "where_zh": "南房總民宿與海邊食堂",
+   "tags": [
+    "鮑魚",
+    "海女",
+    "房總",
+    "海鮮"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/房総半島"
+   ],
+   "confidence": "low",
+   "prompt_en": "A plate of grilled turban shell sazae and abalone on a wooden board with lemon wedge, glossy and fresh, soft side light, single dish, no text"
+  }
+ ]
+}

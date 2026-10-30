@@ -1,0 +1,285 @@
+{
+  "id": "iwate",
+  "spots": [
+    {
+      "title_zh": "中尊寺",
+      "title_ja": "中尊寺",
+      "category": "神社寺院",
+      "area_zh": "平泉町",
+      "summary_zh": "奧州藤原氏清衡建立，金色堂為平安時代黃金建築",
+      "body_zh": "中尊寺位於岩手縣平泉町，是天台宗東北大本山，傳說於850年由僧人創建，實際大規模興建始於奧州藤原氏初代清衡約1105年。代表建築金色堂建於1124年，內外貼金，是平安時代工藝的結晶。寺內藏有2,700多卷經卷、佛像與莊嚴具等國寶，大多出自12世紀。2011年6月26日，作為「平泉」遺產群的一部分登錄世界文化遺產。維基記載拜觀料為1,000日圓，開放時間依季節而異。",
+      "facts": [
+        {
+          "label": "所在地",
+          "value": "岩手縣西磐井郡平泉町"
+        },
+        {
+          "label": "開創／成因",
+          "value": "傳說850年創建，藤原清衡約1105年起大規模興建，金色堂建於1124年"
+        },
+        {
+          "label": "看點",
+          "value": "金色堂、國寶經卷與佛像；維基記載拜觀料1,000日圓"
+        }
+      ],
+      "best_season_zh": "秋季紅葉、新綠期",
+      "tips_zh": "金色堂保存在覆堂內，內部空間有限，建議早上前往避開人潮。票價與開放時間以官方公告為準，常有調整。",
+      "tags": [
+        "金色堂",
+        "世界文化遺產",
+        "奧州藤原氏",
+        "天台宗"
+      ],
+      "sources": [
+        "https://ja.wikipedia.org/wiki/中尊寺"
+      ],
+      "confidence": "high",
+      "prompt_en": "Cedar-lined temple approach path leading up a gentle slope to a hall roof, late autumn red and gold maple leaves, soft morning mist and light shafts, foreground fallen leaves on stone path, midground tall old cedar trunks, background distant temple roof among trees, no text, no signs, no recognizable people"
+    },
+    {
+      "title_zh": "毛越寺庭園",
+      "title_ja": "毛越寺庭園",
+      "category": "庭園公園",
+      "area_zh": "平泉町",
+      "summary_zh": "平安時代淨土庭園，大泉池與保存罕見的遣水",
+      "body_zh": "毛越寺位於平泉町，據寺傳於850年由僧人創建，與中尊寺同年，後由奧州藤原氏第二代基衡與第三代秀衡重建擴建。毛越寺庭園為淨土式庭園，以大泉池為中心，其中罕見保存的平安時代遣水（引水小溪）曾舉辦吟詠和歌的曲水之宴。庭園被指定為特別史蹟與特別名勝，也是2011年平泉世界遺產的組成之一。維基記載拜觀時間4月至11月為8:30至17:00，入場費700日圓。",
+      "facts": [
+        {
+          "label": "所在地",
+          "value": "岩手縣平泉町"
+        },
+        {
+          "label": "開創／成因",
+          "value": "傳說850年創建，藤原基衡、秀衡重建擴建"
+        },
+        {
+          "label": "看點",
+          "value": "大泉池、平安時代遣水；維基記載入場費700日圓"
+        }
+      ],
+      "best_season_zh": "春季新綠、初夏、秋季",
+      "tips_zh": "庭園以池塘為中心繞行約一圈，慢慢走約需半小時以上。票價與開放時間請以官方為準，冬季時間較短。",
+      "tags": [
+        "淨土庭園",
+        "世界文化遺產",
+        "特別史蹟",
+        "平安時代"
+      ],
+      "sources": [
+        "https://ja.wikipedia.org/wiki/毛越寺"
+      ],
+      "confidence": "high",
+      "prompt_en": "Spacious Pure Land style Japanese garden with a large calm pond reflecting sky and trees, early summer fresh green, soft hazy light, foreground pond-edge rocks and grass, midground wide still water surface, background tree line and distant gentle hills, no text, no signs, no recognizable people"
+    },
+    {
+      "title_zh": "龍泉洞",
+      "title_ja": "龍泉洞",
+      "category": "自然絕景",
+      "area_zh": "岩泉町",
+      "summary_zh": "日本三大鐘乳洞，透明度極高的藍色地底湖",
+      "body_zh": "龍泉洞位於岩手縣岩泉町，與秋芳洞、龍河洞並稱日本三大鐘乳洞。洞窟總長約4,088米，高低差約249米，居日本第五，內有七個地底湖，以「龍之藍」般的水色與世界級透明度聞名，湖水還是當地的飲用水。第三地底湖深98米，第四地底湖超過120米但不對外開放。1938年指定為國家天然紀念物，1985年入選日本名水百選，2007年入選日本地質百選。",
+      "facts": [
+        {
+          "label": "所在地",
+          "value": "岩手縣下閉伊郡岩泉町"
+        },
+        {
+          "label": "開創／成因",
+          "value": "石灰岩鐘乳洞，1938年指定國家天然紀念物"
+        },
+        {
+          "label": "看點",
+          "value": "七個地底湖、藍色透明水色、鐘乳石"
+        }
+      ],
+      "best_season_zh": "全年（洞內氣溫恆定偏涼）",
+      "tips_zh": "洞內偏涼，建議多帶一件外套，地面濕滑請穿防滑鞋。可搭巴士從岩泉站或岩泉小本站前往。",
+      "tags": [
+        "鐘乳洞",
+        "地底湖",
+        "日本三大鐘乳洞",
+        "天然紀念物"
+      ],
+      "sources": [
+        "https://ja.wikipedia.org/wiki/龍泉洞"
+      ],
+      "confidence": "high",
+      "prompt_en": "Deep underground limestone cave pool with intensely clear sapphire-blue water, stalactites above, soft warm spotlights on rock walls, foreground wet rock edge, midground glassy blue lake with reflections, background dark cavern with pale stalactites, no text, no signs, no recognizable people"
+    },
+    {
+      "title_zh": "淨土濱",
+      "title_ja": "浄土ヶ浜",
+      "category": "海島海岸",
+      "area_zh": "宮古市",
+      "summary_zh": "白色流紋岩峭壁與平靜海灣的三陸海岸名勝",
+      "body_zh": "淨土濱位於宮古市，屬三陸復興國立公園，被指定為國家名勝。海岸岩石形成於約5,200萬年前的古近紀，屬流紋岩，在太平洋波浪侵蝕下，外側形成險峻的崖壁，內側海灣則風平浪靜，兩者形成對比。名稱據當地觀光說法，來自一位僧人覺得景色像佛教的淨土，但維基指出此說在1950年代前並無文獻佐證。宮沢賢治1917年曾到訪，2011年海嘯曾重創休息所，已於2012年7月重開。",
+      "facts": [
+        {
+          "label": "所在地",
+          "value": "岩手縣宮古市（三陸復興國立公園）"
+        },
+        {
+          "label": "開創／成因",
+          "value": "約5,200萬年前的流紋岩，經太平洋波浪侵蝕"
+        },
+        {
+          "label": "看點",
+          "value": "白色崖壁、平靜海灣、海水浴場"
+        }
+      ],
+      "best_season_zh": "夏季（海水浴）、晴天",
+      "tips_zh": "晴朗時白色岩壁與海面的藍色對比最漂亮。海邊天氣多變，出發前請確認風浪與當地公告。",
+      "tags": [
+        "三陸海岸",
+        "流紋岩",
+        "海灣",
+        "國家名勝"
+      ],
+      "sources": [
+        "https://ja.wikipedia.org/wiki/浄土ヶ浜"
+      ],
+      "confidence": "high",
+      "prompt_en": "Jagged pale rhyolite rock pillars rising from a calm turquoise cove with a small pebble beach, clear summer morning, bright soft light, foreground clear shallow water, midground white rock formations with pine trees, background open Pacific horizon, no text, no signs, no recognizable people"
+    },
+    {
+      "title_zh": "遠野",
+      "title_ja": "遠野（遠野物語の里）",
+      "category": "街區古鎮",
+      "area_zh": "遠野市",
+      "summary_zh": "柳田國男《遠野物語》的故事舞台，河童與曲家",
+      "body_zh": "遠野市位於岩手縣內陸、北上山地最大的盆地，因柳田國男1910年出版的民俗經典《遠野物語》而聞名，書中記載河童與座敷童子等傳說，故事提供者佐々木喜善即是遠野人。市內以「民間故事之鄉」為號召，有河童淵、傳統的曲家（L字形農舍）與遠野故鄉村等景點。市區面積825.97平方公里，包含早池峰山的一部分，屬大陸性氣候，也是大雪地區。成吉思汗烤羊肉與啤酒花是當地特色。",
+      "facts": [
+        {
+          "label": "所在地",
+          "value": "岩手縣遠野市（北上山地盆地）"
+        },
+        {
+          "label": "開創／成因",
+          "value": "柳田國男1910年《遠野物語》記錄當地傳說"
+        },
+        {
+          "label": "看點",
+          "value": "河童淵、曲家、遠野故鄉村、座敷童子傳說"
+        }
+      ],
+      "best_season_zh": "春季至秋季",
+      "tips_zh": "景點分散，建議租車或預先查好巴士班次。冬季積雪較深，前往前先確認道路狀況，並預留充裕時間。",
+      "tags": [
+        "遠野物語",
+        "河童",
+        "曲家",
+        "民間傳說"
+      ],
+      "sources": [
+        "https://ja.wikipedia.org/wiki/遠野市"
+      ],
+      "confidence": "medium",
+      "prompt_en": "Traditional L-shaped thatched farmhouse in a quiet rural basin, mountains beyond, early autumn golden rice fields and soft evening light, foreground rice stalks, midground thatched farmhouse and stable, background hazy blue mountain ridge, no text, no signs, no recognizable people"
+    },
+    {
+      "title_zh": "八幡平",
+      "title_ja": "八幡平",
+      "category": "山岳高原",
+      "area_zh": "八幡平市（岩手・秋田縣境）",
+      "summary_zh": "標高1,614米的平頂火山，火口沼澤與高山濕原",
+      "body_zh": "八幡平橫跨岩手與秋田兩縣，標高1,614米，列名日本百名山，位於十和田八幡平國立公園內。它形成於約100萬年前的多次噴發，現今歸類為侵蝕後頂部平坦的成層火山，山頂平緩到幾乎看不出像山。山頂一帶有5,000至9,000年前水蒸氣爆發形成的火口沼，包括岩手縣第二大天然湖八幡沼，以及每年5月底到6月初可見「龍眼」景象的鏡沼。周圍有八處溫泉，八幡平Aspite Line公路可自駕登頂。",
+      "facts": [
+        {
+          "label": "所在地",
+          "value": "岩手縣・秋田縣交界（十和田八幡平國立公園）"
+        },
+        {
+          "label": "開創／成因",
+          "value": "約100萬年前多次噴發形成的成層火山，頂部平坦"
+        },
+        {
+          "label": "看點",
+          "value": "八幡沼、鏡沼龍眼、青森冷杉、冬季樹冰"
+        }
+      ],
+      "best_season_zh": "初夏（龍眼）、秋季紅葉、冬季樹冰",
+      "tips_zh": "山頂一帶開放期間因積雪而有限，請在出發前確認Aspite Line的通行情況。山上天氣多變，帶好保暖衣物。",
+      "tags": [
+        "平頂火山",
+        "火口沼",
+        "龍眼",
+        "日本百名山"
+      ],
+      "sources": [
+        "https://ja.wikipedia.org/wiki/八幡平"
+      ],
+      "confidence": "medium",
+      "prompt_en": "Broad gentle volcanic highland with small crater ponds, wooden boardwalk, dwarf conifers and wet meadow, early summer remaining snow patches, clear bright morning light, foreground boardwalk and marsh grass, midground calm pond with sky reflection, background gently rounded summit, no text, no signs, no recognizable people"
+    },
+    {
+      "title_zh": "小岩井農場",
+      "title_ja": "小岩井農場",
+      "category": "主題設施",
+      "area_zh": "雫石町・滝沢市",
+      "summary_zh": "1891年創業的民營牧場，一本櫻成地標",
+      "body_zh": "小岩井農場位於雫石町與滝沢市，1891年創業，名稱取自三位創辦相關人士小野義眞、岩崎彌之助、井上勝的姓氏。農場總面積約3,000公頃，其中約40公頃開放為「牧場園」。園內明治時期為牛隻遮蔭而栽種的江戶彼岸櫻「一本櫻」，已成為標誌景色，也曾是電視劇外景地。2017年有21棟建築被指定為重要文化財，亦與宮沢賢治詩作相關，每年訪客約70萬人，另有乳牛飼育、林業與乳製品加工。",
+      "facts": [
+        {
+          "label": "所在地",
+          "value": "岩手縣雫石町・滝沢市"
+        },
+        {
+          "label": "開創／成因",
+          "value": "1891年創業，乳牛飼育自1901年"
+        },
+        {
+          "label": "看點",
+          "value": "牧場園、一本櫻、21棟重要文化財建築"
+        }
+      ],
+      "best_season_zh": "春季（櫻花）、夏季綠草",
+      "tips_zh": "園內可分區慢逛，也有乳製品相關的飲食可品嚐。入場費與營業時間請以官方資訊為準，出發前先確認。",
+      "tags": [
+        "牧場",
+        "一本櫻",
+        "重要文化財",
+        "宮沢賢治"
+      ],
+      "sources": [
+        "https://ja.wikipedia.org/wiki/小岩井農場"
+      ],
+      "confidence": "medium",
+      "prompt_en": "Wide open green dairy pasture with a single large blooming cherry tree standing alone in the field, a snowy volcano on the horizon, clear spring morning, soft golden light, foreground grass, midground lone tree, background distant mountain and blue sky, no text, no signs, no recognizable people"
+    },
+    {
+      "title_zh": "鉛溫泉",
+      "title_ja": "鉛温泉",
+      "category": "溫泉",
+      "area_zh": "花巻市",
+      "summary_zh": "花卷溫泉鄉的老牌溫泉，站著泡的白猿之湯",
+      "body_zh": "鉛溫泉位於花巻市的花巻溫泉區，從花巻站搭巴士約30分鐘。共有五處源泉，皆為不循環的源泉放流，泉質為鹼性單純泉。藤三旅館沿豐沢川而建，名物「白猿之湯」要站著入浴，水深約1.25米，被稱為日本最深的天然岩浴。相傳開湯已有約600年，與白猿在桂樹下泡泉的傳說有關，現今旅館於1841年天保年間開業。宮沢賢治的童話《なめとこ山の熊》也出現此溫泉。",
+      "facts": [
+        {
+          "label": "所在地",
+          "value": "岩手縣花巻市（花巻溫泉區）"
+        },
+        {
+          "label": "開創／成因",
+          "value": "傳說開湯約600年，藤三旅館1841年開業，鹼性單純泉"
+        },
+        {
+          "label": "看點",
+          "value": "站著泡的白猿之湯（深約1.25米）、源泉放流"
+        }
+      ],
+      "best_season_zh": "全年；秋冬泡湯尤佳",
+      "tips_zh": "白猿之湯水深要站立入浴，進出請小心防滑。如打算入住或日歸，請先向旅館確認入浴規定。",
+      "tags": [
+        "秘湯",
+        "站立浴",
+        "源泉放流",
+        "宮沢賢治"
+      ],
+      "sources": [
+        "https://ja.wikipedia.org/wiki/鉛温泉"
+      ],
+      "confidence": "medium",
+      "prompt_en": "Old wooden riverside hot spring inn beside a mountain stream in autumn, steam rising from the bathhouse, warm lantern-like glow from windows at dusk, foreground river rocks and red maple leaves, midground wooden inn building, background forested hillside, no text, no signs, no recognizable people"
+    }
+  ]
+}

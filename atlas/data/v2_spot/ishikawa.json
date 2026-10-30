@@ -1,0 +1,285 @@
+{
+  "id": "ishikawa",
+  "spots": [
+    {
+      "title_zh": "兼六園",
+      "title_ja": "兼六園",
+      "category": "庭園公園",
+      "area_zh": "金澤市",
+      "summary_zh": "日本三名園之一，加賀藩前田家的庭園。",
+      "body_zh": "兼六園位於金澤市中心，面積約11.7公頃，與水戶偕樂園、岡山後樂園並稱日本三名園。1676年前田綱紀在此建別墅並造園，1759年大火後由第十代藩主前田治脩於1774年重建，第十一代藩主前田齊廣自1819年起大幅擴建。1822年由松平定信命名「兼六」，取宏大、幽邃、人力、蒼古、水泉、眺望六種兼備之意。園內有霞之池畔的徽軫燈籠，以及僅靠水位落差運作的古老噴水，冬季有雪吊。",
+      "facts": [
+        {
+          "label": "所在地",
+          "value": "石川縣金澤市，位於金澤城旁"
+        },
+        {
+          "label": "開創／成因",
+          "value": "1676年前田綱紀造園，1822年命名「兼六園」，1874年全面開放"
+        },
+        {
+          "label": "看點",
+          "value": "徽軫燈籠、霞之池、雪吊、日本最古老噴水之一"
+        }
+      ],
+      "best_season_zh": "冬季雪吊（11月至3月）、春季賞櫻與新綠",
+      "tips_zh": "早上開園時段人較少，適合拍照。雪吊約於11月中旬完成，冬季雪景需看天氣。入園費請查官方網站。",
+      "tags": [
+        "日本三名園",
+        "雪吊",
+        "池泉回遊式",
+        "前田家"
+      ],
+      "sources": [
+        "https://ja.wikipedia.org/wiki/兼六園"
+      ],
+      "confidence": "high",
+      "prompt_en": "Japanese stroll garden at a pond with a two-legged stone lantern at the water's edge, pine trees supported by rope cones (yukitsuri), light snow, early winter morning, soft light, pond reflections in foreground, no text, no recognizable people"
+    },
+    {
+      "title_zh": "金澤城公園",
+      "title_ja": "金沢城",
+      "category": "城郭史蹟",
+      "area_zh": "金澤市",
+      "summary_zh": "加賀百萬石前田家居城，白牆鉛瓦為特色。",
+      "body_zh": "金澤城位於金澤市小立野台地，前身是一向一揆據點尾山御坊，1580年佐久間盛政改建為城，其後豐臣秀吉將此地賜予前田利家，前田家歷代在此統治加賀藩。城的外觀以海鼠壁白牆與鉛瓦屋頂為特色。現已規劃為免費入園的金澤城公園，園內有2001年復原的菱櫓、歷史建築石川門，以及2020年復原的鼠多門。二之丸御殿自2025年起進行長期復原工程。",
+      "facts": [
+        {
+          "label": "所在地",
+          "value": "石川縣金澤市，小立野台地"
+        },
+        {
+          "label": "開創／成因",
+          "value": "尾山御坊改建，1580年起成城；後為前田家居城"
+        },
+        {
+          "label": "看點",
+          "value": "石川門、菱櫓、鼠多門、白牆鉛瓦"
+        }
+      ],
+      "best_season_zh": "春季賞櫻、秋季紅葉",
+      "tips_zh": "公園區域可自由出入，部分復原建築內部須購票。與鄰接的兼六園連成一線，可安排半日一起遊覽。",
+      "tags": [
+        "前田家",
+        "鉛瓦",
+        "石川門",
+        "城郭"
+      ],
+      "sources": [
+        "https://ja.wikipedia.org/wiki/金沢城"
+      ],
+      "confidence": "high",
+      "prompt_en": "Restored castle gate and long white-plastered wall with gray lead tiles, stone-wall base, large lawn in front, clear autumn afternoon, warm light, low corner angle from the lawn, no text, no recognizable people"
+    },
+    {
+      "title_zh": "東茶屋街",
+      "title_ja": "ひがし茶屋街",
+      "category": "街區古鎮",
+      "area_zh": "金澤市",
+      "summary_zh": "加賀藩許可開設的茶屋町，格子町屋保存完好。",
+      "body_zh": "東茶屋街位於金澤市，1820年加賀藩允許在河川兩岸開設茶屋町，這裡便是其中之一。保存地區面積約1.8公頃，約140棟建築中大部分仍為茶屋時代至明治初期的傳統建築。街上可見木格子窗與二樓挑高的茶屋樣式町屋，2001年被指定為重要傳統建造物群保存地區，類別為「茶屋町」。其中志摩茶屋於2003年指定為重要文化財，目前開放參觀。",
+      "facts": [
+        {
+          "label": "所在地",
+          "value": "石川縣金澤市東山一帶"
+        },
+        {
+          "label": "開創／成因",
+          "value": "1820年加賀藩許可開設茶屋町；2001年指定重要傳統建造物群保存地區"
+        },
+        {
+          "label": "看點",
+          "value": "木格子町屋、志摩茶屋（重要文化財）、石板路"
+        }
+      ],
+      "best_season_zh": "秋冬傍晚、雪天",
+      "tips_zh": "白天遊客多，清晨或傍晚較悠閒。街上也有金箔工藝店，購買前可多比較。部分茶屋為私人場所，請勿擅入。",
+      "tags": [
+        "茶屋街",
+        "町屋",
+        "金澤",
+        "傳統建築"
+      ],
+      "sources": [
+        "https://ja.wikipedia.org/wiki/ひがし茶屋街"
+      ],
+      "confidence": "medium",
+      "prompt_en": "Narrow stone-paved street lined with wooden lattice-front tea house buildings, warm lantern glow, blue hour after light rain, wet pavement reflections in foreground, receding street in midground, no text, no signboards, no recognizable people"
+    },
+    {
+      "title_zh": "白米千枚田",
+      "title_ja": "白米千枚田",
+      "category": "自然絕景",
+      "area_zh": "輪島市",
+      "summary_zh": "面海的梯田，約千枚小田，為國指定名勝。",
+      "body_zh": "白米千枚田位於輪島市，距市中心東約8公里，面積約4公頃，從山坡層層延伸到日本海邊，高低差約50公尺。地震前共有1,004枚水田，大小不一，小的甚至被稻草蓑衣蓋住。2001年被指定為國家名勝，2011年作為「能登里山里海」的一部分登錄為世界農業遺產。每年有「畦道的閃爍」點燈活動，約2.5萬顆太陽能LED燈。2024年能登半島地震造成大量水田受損，之後逐步復耕。",
+      "facts": [
+        {
+          "label": "所在地",
+          "value": "石川縣輪島市白米町，面向日本海"
+        },
+        {
+          "label": "開創／成因",
+          "value": "2001年指定國家名勝；2011年登錄世界農業遺產（能登里山里海）"
+        },
+        {
+          "label": "看點",
+          "value": "梯田與海景、夜間LED點燈活動"
+        }
+      ],
+      "best_season_zh": "初夏插秧期、秋季稻穗期",
+      "tips_zh": "2024年地震後復原仍在進行，現況與開放範圍請查輪島市官方最新資訊。田地屬農家耕作，請勿走入田中。",
+      "tags": [
+        "梯田",
+        "世界農業遺產",
+        "能登",
+        "日本海"
+      ],
+      "sources": [
+        "https://ja.wikipedia.org/wiki/白米千枚田"
+      ],
+      "confidence": "high",
+      "prompt_en": "Terraced rice paddies cascading down a hillside to the sea, hundreds of small curved fields filled with water reflecting the sky, sunset gold light, Sea of Japan in background, no text, no buildings, no recognizable people"
+    },
+    {
+      "title_zh": "和倉溫泉",
+      "title_ja": "和倉温泉",
+      "category": "溫泉",
+      "area_zh": "七尾市",
+      "summary_zh": "面向七尾灣的海濱溫泉，能登觀光門戶。",
+      "body_zh": "和倉溫泉位於七尾市，面向七尾灣，是能登觀光的門戶。泉質為鈉鈣氯化物泉，溫度約89度，水質無色透明、鹽分很濃，泡後身體溫暖不易冷。傳說平安時代漁民見白鷺在冒煙的海水中沐浴，因而發現溫泉。名稱意為「湧出熱水的海灣」。明治時代開始發展，戰後更為興盛，著名旅館加賀屋常名列日本頂級旅館。2024年1月地震後曾受重創，之後逐步恢復營運。",
+      "facts": [
+        {
+          "label": "所在地",
+          "value": "石川縣七尾市和倉町，面向七尾灣"
+        },
+        {
+          "label": "開創／成因",
+          "value": "傳說漁民見白鷺入海浴而發現；泉質鈉鈣氯化物泉"
+        },
+        {
+          "label": "看點",
+          "value": "海景溫泉旅館、七尾灣夕陽"
+        }
+      ],
+      "best_season_zh": "秋冬（牡蠣與海鮮季）",
+      "tips_zh": "地震後各設施營運情況不一，預約前請向旅館或七尾市官網確認。夕陽時段在海邊散步景色最佳。",
+      "tags": [
+        "溫泉",
+        "七尾灣",
+        "能登",
+        "海景"
+      ],
+      "sources": [
+        "https://ja.wikipedia.org/wiki/和倉温泉"
+      ],
+      "confidence": "high",
+      "prompt_en": "Seaside hot spring resort skyline along a calm bay at sunset, gentle orange and purple sky, still water reflecting lights, wooden pier in foreground, small islands in background, no text, no signboards, no recognizable people"
+    },
+    {
+      "title_zh": "見附島",
+      "title_ja": "見附島",
+      "category": "海島海岸",
+      "area_zh": "珠洲市",
+      "summary_zh": "珠洲市海邊的巨岩小島，形似軍艦。",
+      "body_zh": "見附島是石川縣珠洲市的無人島，位於鵜飼海岸東南200至300公尺處，全長158.5公尺、最大寬45.3公尺、高28.8公尺，因形似軍艦而有「軍艦島」之稱，為能登地區象徵，列石川縣天然紀念物。島由新第三紀中新世的泥岩與矽藻泥岩構成，島上有見附神社，退潮時有踏石可走近。2024年1月能登半島地震（M7.6）使島的東南側大幅崩壞，軍艦般的景觀已不復見。",
+      "facts": [
+        {
+          "label": "所在地",
+          "value": "石川縣珠洲市（鵜飼海岸外）"
+        },
+        {
+          "label": "開創／成因",
+          "value": "新第三紀中新世泥岩與矽藻泥岩，經海蝕與多次地震崩落"
+        },
+        {
+          "label": "看點",
+          "value": "無人岩島、見附神社、退潮時的踏石"
+        }
+      ],
+      "best_season_zh": "晴天的日出或黃昏",
+      "tips_zh": "2024年地震後島體仍有崩落風險，請勿靠近岩壁；前往前先查珠洲市公告確認周邊遊步道與設施是否開放。",
+      "tags": [
+        "岩島",
+        "能登",
+        "日本海",
+        "日出"
+      ],
+      "sources": [
+        "https://ja.wikipedia.org/wiki/見附島_(石川県)"
+      ],
+      "confidence": "high",
+      "prompt_en": "Tall rocky sea stack islet shaped like a ship rising from shallow water near a sandy beach, dawn light, calm sea, wet sand reflections in foreground, soft pink horizon, no text, no recognizable people"
+    },
+    {
+      "title_zh": "妙成寺",
+      "title_ja": "妙成寺",
+      "category": "神社寺院",
+      "area_zh": "羽咋市",
+      "summary_zh": "北陸日蓮宗名剎，五重塔為重要文化財。",
+      "body_zh": "妙成寺位於羽咋市滝谷町，1294年由日蓮宗祖師的孫弟子日像開創，是日蓮宗在北陸地方的總寺院，境內十分寬廣。江戶初期受加賀藩前田家庇護，前田利家側室壽福院與此寺有淵源。寺內的五重塔建於1618年，高約34.27公尺，據說與日光東照宮的五重塔設計相仿；本堂建於1604年。多棟建築被指定為國家重要文化財，從羽咋站可搭乘巴士前往。",
+      "facts": [
+        {
+          "label": "所在地",
+          "value": "石川縣羽咋市滝谷町"
+        },
+        {
+          "label": "開創／成因",
+          "value": "1294年日像創建，日蓮宗；江戶初期受前田家庇護"
+        },
+        {
+          "label": "門票",
+          "value": "成人約500日圓（頁面記載，請以現況為準）"
+        }
+      ],
+      "best_season_zh": "新綠與紅葉季",
+      "tips_zh": "距羽咋站有一段距離，需搭巴士或自駕，班次較少。參拜時請保持肅靜，並留意寺方開放時間。",
+      "tags": [
+        "五重塔",
+        "日蓮宗",
+        "前田家",
+        "重要文化財"
+      ],
+      "sources": [
+        "https://ja.wikipedia.org/wiki/妙成寺"
+      ],
+      "confidence": "high",
+      "prompt_en": "Five-story wooden pagoda beside a main hall in a quiet temple precinct surrounded by tall cedar trees, soft mist in early morning, moss-covered stone path in foreground, no text, no recognizable people"
+    },
+    {
+      "title_zh": "金澤21世紀美術館",
+      "title_ja": "金沢21世紀美術館",
+      "category": "主題設施",
+      "area_zh": "金澤市",
+      "summary_zh": "SANAA設計的圓形玻璃美術館，開放式公園概念。",
+      "body_zh": "金澤21世紀美術館位於金澤市廣坂，2004年10月開館，由SANAA的妹島和世與西澤立衛設計。建築為圓形、四周全玻璃，概念是「向城市敞開的公園式美術館」，設有四個出入口，不必經過驗票閘門即可進出。館內長期展出的作品包括雷安卓·艾利希的「游泳池」，在地面層可免費觀賞，詹姆斯·特瑞爾的「藍色星球天空」也在免費區域。開館後入館人數遠超預期，每年約150萬人次。",
+      "facts": [
+        {
+          "label": "所在地",
+          "value": "石川縣金澤市廣坂1丁目2-1"
+        },
+        {
+          "label": "開創／成因",
+          "value": "2004年開館，建築設計SANAA（妹島和世、西澤立衛）"
+        },
+        {
+          "label": "看點",
+          "value": "圓形玻璃建築、「游泳池」作品、免費展區"
+        }
+      ],
+      "best_season_zh": "全年（雨天亦宜）",
+      "tips_zh": "館內分免費區與收費展覽區，館休日與展覽票價請查官網。「游泳池」地下層需購票，人多時需排隊。",
+      "tags": [
+        "當代藝術",
+        "SANAA",
+        "玻璃建築",
+        "游泳池作品"
+      ],
+      "sources": [
+        "https://ja.wikipedia.org/wiki/金沢21世紀美術館"
+      ],
+      "confidence": "high",
+      "prompt_en": "Circular all-glass contemporary art museum with a flat roof, green lawn in front, bright clear day, wide low-angle view across the lawn, glass reflecting sky and trees, no text, no signage, no recognizable people"
+    }
+  ]
+}

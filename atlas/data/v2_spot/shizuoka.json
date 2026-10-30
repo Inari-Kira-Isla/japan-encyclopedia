@@ -1,0 +1,157 @@
+{
+  "id": "shizuoka",
+  "spots": [
+    {
+      "title_zh": "大室山",
+      "title_ja": "大室山",
+      "category": "山岳高原",
+      "area_zh": "伊東市",
+      "summary_zh": "年年早春燒山、圓錐形草坡的伊豆火山",
+      "body_zh": "大室山位於伊東市，標高580公尺，是約4000年前噴發形成的單成火山渣丘，山頂有直徑約250公尺、深約40公尺的缽狀火口。因700年以上的傳統「山燒」每年早春舉行，山上不長樹木，覆滿一年生草本，呈現圓潤的草坡輪廓，是伊東市的象徵。山體於2010年被指定為國家天然記念物，並屬於富士箱根伊豆國立公園；可搭纜車約6分鐘登頂，在火口緣步道繞行。",
+      "facts": [
+        {"label": "所在地", "value": "靜岡縣伊東市"},
+        {"label": "開創／成因", "value": "約4000年前噴發的單成火山渣丘；700年以上傳統山燒維持草坡"},
+        {"label": "看點", "value": "標高580公尺、火口繞行步道、2010年國家天然記念物"}
+      ],
+      "best_season_zh": "早春（山燒後）、秋（芒草）",
+      "tips_zh": "山頂風大，即使夏天也建議帶薄外套；搭纜車上下最輕鬆，要繞行火口約需預留一小段時間，山燒活動日期請查市公告。",
+      "tags": ["火山", "山燒", "天然記念物", "伊豆高原"],
+      "sources": ["https://ja.wikipedia.org/wiki/大室山_(静岡県)"],
+      "confidence": "high",
+      "prompt_en": "A perfectly rounded cone-shaped volcano covered entirely with golden-brown grass and no trees, a winding path along the crater rim, soft early spring morning light, foreground of dry pampas grass blades, mid-ground gentle highland meadows, distant sea and sky with thin clouds, no text, no signs, no recognizable people"
+    },
+    {
+      "title_zh": "修善寺溫泉",
+      "title_ja": "修善寺温泉",
+      "category": "溫泉",
+      "area_zh": "伊豆市修善寺",
+      "summary_zh": "伊豆最古老、以獨鈷之湯與竹林小徑聞名的溫泉鄉",
+      "body_zh": "修善寺溫泉位於伊豆市，是伊豆半島歷史最悠久的溫泉，入選日本百名湯，泉質為鹼性單純泉。溫泉街中心有修善寺川（桂川）流過，河中的獨鈷之湯相傳是弘法大師用獨鈷杵擊岩湧出，是溫泉發祥之湯，現開放足浴。附近的修禪寺相傳由空海於807年開基，鎌倉幕府第二代將軍源賴家曾被幽禁於此。沿河的「竹林小徑」是人氣散步路線，另有指月殿、賴家之墓等源氏史跡。",
+      "facts": [
+        {"label": "所在地", "value": "靜岡縣伊豆市修善寺"},
+        {"label": "開創／成因", "value": "相傳弘法大師以獨鈷杵擊岩湧泉；修禪寺傳為807年開基"},
+        {"label": "看點", "value": "獨鈷之湯（足浴）、竹林小徑、修禪寺、指月殿、源賴家之墓"}
+      ],
+      "best_season_zh": "秋（紅葉）、新綠",
+      "tips_zh": "街區不大，步行半日即可逛完；建議傍晚入住旅館泡湯，白天先走竹林小徑避開人潮，足浴區請維持安靜與乾淨。",
+      "tags": ["伊豆最古溫泉", "獨鈷之湯", "竹林小徑", "源氏史跡"],
+      "sources": ["https://ja.wikipedia.org/wiki/修善寺温泉"],
+      "confidence": "high",
+      "prompt_en": "A quiet hot spring town beside a gentle river, a small red-roofed pavilion over a footbath standing in the stream, a bamboo grove path along the bank, warm lantern-less dusk light with soft steam rising, foreground wet stone edge, mid-ground wooden inn facades, background forested mountains, no text, no signboards, no recognizable people"
+    },
+    {
+      "title_zh": "三保松原",
+      "title_ja": "三保松原",
+      "category": "海島海岸",
+      "area_zh": "靜岡市清水區",
+      "summary_zh": "隔駿河灣遠眺富士山的世界遺產松林海濱",
+      "body_zh": "三保松原位於靜岡市清水區的三保半島，是御穗神社的鎮守之森，與虹之松原、氣比松原並稱日本三大松原。三保半島是安倍川流出的土砂經海浪堆積而成的沙嘴，松林與海灘後方遠望富士山的景色最為有名，也曾入畫浮世繪。傳說天女曾在此將羽衣掛在「羽衣之松」，是能劇《羽衣》的舞台。1922年與天橋立並列為日本最早的名勝，並屬「富士山」世界文化遺產構成資產。",
+      "facts": [
+        {"label": "所在地", "value": "靜岡縣靜岡市清水區三保半島"},
+        {"label": "開創／成因", "value": "安倍川土砂經海流堆積成沙嘴；1922年指定為名勝"},
+        {"label": "看點", "value": "駿河灣對岸遠眺富士山、羽衣之松、世界文化遺產構成資產"}
+      ],
+      "best_season_zh": "冬（空氣清澈、富士山較易見）",
+      "tips_zh": "富士山能否露臉要看天氣，早晨較有機會；可沿松林間的步道散步，並順道參拜附近的御穗神社，注意保持海濱整潔。",
+      "tags": ["富士山", "羽衣傳說", "世界遺產", "日本三大松原"],
+      "sources": ["https://ja.wikipedia.org/wiki/三保松原"],
+      "confidence": "high",
+      "prompt_en": "A long curving beach lined with ancient twisted pine trees, calm bay water in the mid-ground, a distant snow-capped Mount Fuji with a perfect cone across the sea, soft pale morning light and thin mist, foreground smooth pebbles and a gnarled pine branch, no text, no signs, no recognizable people"
+    },
+    {
+      "title_zh": "白絲瀑布",
+      "title_ja": "白糸の滝",
+      "category": "自然絕景",
+      "area_zh": "富士宮市",
+      "summary_zh": "富士山地下水從岩層湧出如白絲的瀑布",
+      "body_zh": "白糸之滝位於富士宮市，古富士泥流堆積物上方覆蓋白糸熔岩流，富士山地下水從熔岩層縫隙滲出，宛如垂下的絹絲而得名。瀑布寬約200公尺、高約20公尺，水量每秒約1.5噸。1936年被指定為國家名勝與天然記念物，1990年入選日本瀑布百選，2013年成為「富士山」世界文化遺產構成資產。相鄰的音止之滝步行約5分鐘，源賴朝、富士講信眾與畫家池大雅皆與此地有淵源。",
+      "facts": [
+        {"label": "所在地", "value": "靜岡縣富士宮市"},
+        {"label": "開創／成因", "value": "富士山地下水自白糸熔岩流層縫隙湧出"},
+        {"label": "看點", "value": "寬約200公尺、高約20公尺；國家名勝與天然記念物；2013年列世界文化遺產構成資產"}
+      ],
+      "best_season_zh": "新綠、秋；夏季涼爽",
+      "tips_zh": "瀑布區有階梯與觀瀑橋，雨後石面濕滑；可與音止之滝一併走訪，山間氣溫低，夏天也建議攜帶薄外套。",
+      "tags": ["富士山湧水", "瀑布", "世界遺產", "名勝"],
+      "sources": ["https://ja.wikipedia.org/wiki/白糸の滝_(静岡県)"],
+      "confidence": "high",
+      "prompt_en": "A wide curtain of many thin white threads of water streaming from a mossy cliff edge into a clear green pool, lush green forest on both sides, soft misty air, gentle overcast light, foreground wet rocks and ferns, mid-ground foam and ripples, long exposure feel, no text, no signs, no recognizable people"
+    },
+    {
+      "title_zh": "久能山東照宮",
+      "title_ja": "久能山東照宮",
+      "category": "神社寺院",
+      "area_zh": "靜岡市駿河區",
+      "summary_zh": "供奉德川家康、需登1159級石階的國寶神社",
+      "body_zh": "久能山東照宮位於靜岡市駿河區，德川家康於1616年去世，依遺命埋葬於此，次年由二代將軍秀忠建造東照社社殿。神社位於面向駿河灣的久能山南坡，需沿表參道登上1159級彎曲石階才能到達。社殿定期以漆重塗，本殿、石之間與拝殿於2010年12月被指定為國寶。家康遺命除了葬於久能山，也要在日光建神社，日光東照宮因此成為全國東照宮的總本社。",
+      "facts": [
+        {"label": "所在地", "value": "靜岡縣靜岡市駿河區根古屋"},
+        {"label": "開創／成因", "value": "1616年家康歿後葬於此，1617年建東照社社殿"},
+        {"label": "看點", "value": "1159級表參道石階、本殿・石之間・拝殿（2010年國寶）、駿河灣景色"}
+      ],
+      "best_season_zh": "春、秋",
+      "tips_zh": "石階陡長，體力有限者可考慮搭乘纜車上山，下山再走石階；穿好走的鞋，山上海風大，行前請查官方開放時間與拜觀費用。",
+      "tags": ["德川家康", "國寶", "東照宮", "久能山"],
+      "sources": ["https://ja.wikipedia.org/wiki/久能山東照宮"],
+      "confidence": "high",
+      "prompt_en": "An ornately painted shrine gate with intricate colorful carvings and gold ornaments in vivid red and gold lacquer, a long stone staircase climbing through dense green forest in the foreground, soft afternoon light, glimpse of blue bay far below, no text, no signboards, no recognizable people"
+    },
+    {
+      "title_zh": "駿府城公園",
+      "title_ja": "駿府城公園",
+      "category": "城郭史蹟",
+      "area_zh": "靜岡市葵區",
+      "summary_zh": "德川家康隱居之城舊址上的復原櫓與歷史公園",
+      "body_zh": "駿府城公園位於靜岡市葵區，是將駿府城中堀內側的舊本丸與二之丸整備而成的公園，2006年入選「日本歷史公園100選」。園內復原了巽櫓（1989年）、東御門（1996年）與坤櫓（2014年），皆以傳統工法建造，內部開放為資料館；另有紅葉山庭園（2001年整備）、德川家康像與傳說家康親手栽種的蜜柑樹。富士見廣場是公園內唯一能望見富士山之處，每年也是靜岡祭等活動的會場。",
+      "facts": [
+        {"label": "所在地", "value": "靜岡縣靜岡市葵區駿府城公園"},
+        {"label": "開創／成因", "value": "駿府城舊本丸與二之丸整備為公園，2012年改稱駿府城公園"},
+        {"label": "看點", "value": "巽櫓、東御門、坤櫓復原建築，紅葉山庭園，2006年歷史公園100選"}
+      ],
+      "best_season_zh": "春（櫻、靜岡祭）、秋",
+      "tips_zh": "公園位於市中心，距車站步行可達，適合半日散步；登櫓參觀與庭園收費項目請事先確認開放時間，春季賞花人潮多。",
+      "tags": ["德川家康", "復原櫓", "歷史公園", "市中心"],
+      "sources": ["https://ja.wikipedia.org/wiki/駿府城公園"],
+      "confidence": "high",
+      "prompt_en": "A reconstructed white-walled castle corner turret with grey tiled roof beside a wide stone-lined moat, cherry blossoms drooping over the water in the foreground, a stone bridge in the mid-ground, bright clear spring morning light, distant faint snow-capped mountain behind the trees, no text, no signs, no recognizable people"
+    },
+    {
+      "title_zh": "三島天空步道",
+      "title_ja": "三島スカイウォーク（箱根西麓・三島大吊橋）",
+      "category": "主題設施",
+      "area_zh": "三島市",
+      "summary_zh": "長400公尺、可望富士山與駿河灣的人行吊橋",
+      "body_zh": "三島天空步道正式名稱為箱根西麓・三島大吊橋，位於三島市，是長400公尺、橋面高約70.6公尺的人行吊橋，2015年12月14日開業，開通時為日本最長的人行吊橋。從橋上向西遠眺，天氣好時可看到富士山與駿河灣，橋邊還有餐廳、博物館與遊樂設施。2025年3月大阪府茨木市的420公尺「GODA BRIDGE」完成，現為日本第二長；夜間與強風、颱風等惡劣天氣時不開放往返。",
+      "facts": [
+        {"label": "所在地", "value": "靜岡縣三島市笹原新田313"},
+        {"label": "開創／成因", "value": "2015年12月14日開業的收費觀光吊橋，總工費約40億日圓"},
+        {"label": "看點", "value": "長400公尺、橋高約70.6公尺，遠眺富士山與駿河灣"}
+      ],
+      "best_season_zh": "秋、冬（晴朗日）",
+      "tips_zh": "怕高者過橋時請握穩扶手；強風或颱風會停止營運，建議看天氣預報再出發，夜間開放時間與票價請查官方網站。",
+      "tags": ["吊橋", "富士山景", "觀光設施", "駿河灣"],
+      "sources": ["https://ja.wikipedia.org/wiki/箱根西麓・三島大吊橋"],
+      "confidence": "high",
+      "prompt_en": "A very long narrow suspension footbridge crossing a deep green valley, thin steel cables and tall tower, seen from one end looking along the deck, distant Mount Fuji and a hazy bay on the horizon, bright clear autumn afternoon, foreground railing and deck planks in perspective, no text, no signs, no recognizable people"
+    },
+    {
+      "title_zh": "濱名湖",
+      "title_ja": "浜名湖",
+      "category": "自然絕景",
+      "area_zh": "濱松市・湖西市",
+      "summary_zh": "海水流入的汽水湖，盛產鰻魚與牡蠣",
+      "body_zh": "濱名湖橫跨濱松市與湖西市，經今切口與遠州灘相連，是太平洋海水流入的汽水湖。原本是淡水湖，1498年明應地震與高潮沖潰沙洲才與外海相通，湖面積為日本第10大。湖形複雜，有細江湖、豬鼻湖等支湖，周長在日本汽水湖中最長。生物多樣性豐富，養殖鰻魚尤其有名，也有以燈光誘魚的傳統「たきや漁」與蛤蜊撈採。湖南端的弁天島是知名觀景點，周邊也是度假勝地。",
+      "facts": [
+        {"label": "所在地", "value": "靜岡縣濱松市與湖西市"},
+        {"label": "開創／成因", "value": "1498年明應地震與高潮沖破沙洲，淡水湖變汽水湖"},
+        {"label": "看點", "value": "日本第10大湖、汽水湖生態、養殖鰻魚、傳統たきや漁、弁天島"}
+      ],
+      "best_season_zh": "春（賞櫻、潮干狩）、夏",
+      "tips_zh": "湖岸很長，建議先決定要看日落（弁天島一帶）還是吃鰻魚；潮干狩當季漁獲量逐年變化，請以當地漁協公告為準。",
+      "tags": ["汽水湖", "鰻魚", "弁天島", "遠州灘"],
+      "sources": ["https://ja.wikipedia.org/wiki/浜名湖"],
+      "confidence": "high",
+      "prompt_en": "A vast calm brackish lake at sunset with a large torii-like gate standing in shallow water near the shore, glowing orange and purple sky reflected on the still water, small fishing boats moored in the mid-ground, foreground wet sand and reeds, distant low hills and a thin sea strip, no text, no signs, no recognizable people"
+    }
+  ]
+}

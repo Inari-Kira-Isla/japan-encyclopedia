@@ -1,0 +1,832 @@
+{
+ "id": "miyazaki",
+ "name_zh": "宮崎",
+ "name_ja": "宮崎県",
+ "region": "九州",
+ "overview": {
+  "intro_zh": "宮崎縣位於九州東南部，面向太平洋，面積約7,735平方公里，縣廳所在地為宮崎市。這裡日照充足，黑潮帶來亞熱帶風情，海岸遍植鳳凰椰子，是日本著名的衝浪與職棒春訓地。內陸的高千穗是日本神話傳說的舞台，峽谷與夜神樂聞名；西都原古墳群則是九州最大規模的古墳遺跡。農畜業發達，宮崎牛、地雞炭火燒、芒果與日向夏都是名產。",
+  "capital_zh": "宮崎市",
+  "area_km2": 7735,
+  "population_approx": "約103萬（2025年）",
+  "flower_zh": "濱萬年青（ハマユウ）",
+  "bird_zh": "小雉雞（コシジロヤマドリ）",
+  "tree_zh": "鳳凰椰子（フェニックス）",
+  "climate_zh": "屬暖溫帶至亞熱帶氣候，冬季溫暖、日照長；夏秋雨量多，常受颱風影響。",
+  "access_zh": "宮崎機場有航班往返東京、大阪等；從福岡可乘特急經日豐本線至宮崎，約需數小時。",
+  "specialties_zh": [
+   "地雞炭火燒",
+   "宮崎牛",
+   "芒果（太陽之蛋）",
+   "日向夏",
+   "飫肥天"
+  ],
+  "best_season_zh": "春秋舒適；冬季職棒春訓（2月）與油菜花；夏季衝浪與海岸。"
+ },
+ "items": {
+  "architecture": {
+   "title_zh": "鵜戶神宮",
+   "title_ja": "鵜戸神宮",
+   "summary_zh": "本殿位於海岸洞窟中的『下宮』神社。",
+   "body_zh": "鵜戶神宮位於日南市的日向灘海岸，本殿建在面海的天然洞窟內，參拜時需要沿階梯向下走，因此又稱「下り宮」。主祭神為鵜草葺不合尊，傳為神武天皇之父，信仰上與安產、育兒及夫婦圓滿有關。傳說豐玉姬曾在洞窟中生產。神社前有『運玉投』習俗：把刻有『運』字的陶球投入海邊岩石上的圈中，成功者可祈福，據說始於1954年。周邊海岸風光於2017年被指定為國家名勝。參拜前建議查詢潮汐與天候，風浪大時階梯與岩石可能濕滑。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "宮崎縣日南市"
+    },
+    {
+     "label": "特色",
+     "value": "本殿位於海蝕洞窟，向下參拜"
+    },
+    {
+     "label": "習俗",
+     "value": "運玉投（陶球投擲）"
+    },
+    {
+     "label": "景觀",
+     "value": "周邊海岸為國家名勝"
+    }
+   ],
+   "best_season_zh": "全年",
+   "tips_zh": "海風強勁，石階濕滑，請穿防滑鞋；投運玉時注意安全。",
+   "tags": [
+    "神社",
+    "洞窟",
+    "海岸",
+    "神話"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/鵜戸神宮"
+   ],
+   "confidence": "high",
+   "prompt_en": "A vermilion shrine hall nestled inside a seaside cave above crashing Pacific waves, dramatic cliffs, stone steps leading down"
+  },
+  "food": {
+   "title_zh": "炭火烤地雞",
+   "title_ja": "地鶏の炭火焼",
+   "summary_zh": "宮崎的招牌酒菜：炭火直烤、焦香帶嚼勁的雞肉。",
+   "body_zh": "地鶏の炭火焼是宮崎縣居酒屋與家庭常見的料理，把雞肉切成小塊，直接放在炭火上烤至表面焦香，口感有嚼勁，帶煙燻香氣，通常撒鹽與胡椒，並配檸檬或柚子胡椒。宮崎縣也有『みやざき地頭雞』等地雞品種。此料理常搭配燒酎或啤酒，是宮崎縣民的日常下酒菜，也是遊客必嚐的在地味道。也可買到真空包裝的伴手禮版本，帶回家加熱即可享用，是宮崎縣常見的土產。在宮崎縣的居酒屋常見到各種店家自己的烤法與調味，值得比較不同店家的風味。",
+   "facts": [
+    {
+     "label": "類別",
+     "value": "炭火燒烤／居酒屋料理"
+    },
+    {
+     "label": "食材",
+     "value": "地雞（如宮崎地頭雞）"
+    },
+    {
+     "label": "調味",
+     "value": "鹽、胡椒、檸檬或柚子胡椒"
+    },
+    {
+     "label": "搭配",
+     "value": "燒酎、啤酒"
+    }
+   ],
+   "best_season_zh": "全年",
+   "tips_zh": "選擇有『地雞』標示的店家，並可點整份拼盤分享。",
+   "tags": [
+    "地雞",
+    "炭火燒",
+    "居酒屋",
+    "下酒菜"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/宮崎県",
+    "https://ja.wikipedia.org/wiki/地鶏"
+   ],
+   "confidence": "medium",
+   "prompt_en": "Chicken pieces grilling over charcoal with smoke and a lemon wedge, rustic izakaya counter, warm light"
+  },
+  "culture": {
+   "title_zh": "高千穗神樂",
+   "title_ja": "高千穂神楽",
+   "summary_zh": "在村落民宅或公民館徹夜演出的神話舞蹈。",
+   "body_zh": "高千穗的夜神樂是在秋末至冬季，由村落居民邀請當地氏神到民宅或公民館，徹夜獻上舞蹈的傳統儀式，共有33番舞，多以日本神話為題。演出通常從夜間持續至翌日上午。1978年被指定為國家重要無形民俗文化財。高千穗神社的神樂殿則全年為遊客演出其中四番舞蹈，是一般旅客體驗神樂的主要場所。高千穗周邊的村落各有自己的神樂團體，演出日程不同，建議事先向觀光協會洽詢。若想近距離欣賞，可預先向高千穗觀光協會確認當季哪些集落有開放遊客參觀的夜神樂。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "宮崎縣高千穗町"
+    },
+    {
+     "label": "內容",
+     "value": "33番神話舞蹈"
+    },
+    {
+     "label": "時節",
+     "value": "約11月中旬至2月上旬"
+    },
+    {
+     "label": "指定",
+     "value": "1978年國家重要無形民俗文化財"
+    }
+   ],
+   "best_season_zh": "11月中旬至2月上旬",
+   "tips_zh": "徹夜神樂在寒冷季節舉行，須帶好保暖衣物；遊客可參加村落開放的夜神樂，但須遵守現場禮儀。",
+   "tags": [
+    "神樂",
+    "神話",
+    "無形文化財",
+    "夜祭"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/高千穂神楽",
+    "https://en.wikipedia.org/wiki/Takachiho,_Miyazaki"
+   ],
+   "confidence": "high",
+   "prompt_en": "A night shrine dance with masked performers in white robes by firelight inside a wooden hall, ritual atmosphere"
+  },
+  "history": {
+   "title_zh": "西都原古墳群",
+   "title_ja": "西都原古墳群",
+   "summary_zh": "九州最大規模的古墳群。",
+   "body_zh": "西都原古墳群位於宮崎縣西都市的台地上，有高塚墳約319座，包括前方後圓墳31座、方墳2座與圓墳286座，築造時間約從4世紀初至7世紀前半。這裡自1912年起進行系統性的考古發掘，是日本古墳研究的重要地點。1952年被指定為國家特別史蹟，之後範圍多次擴大。春季油菜花、秋季波斯菊盛開，與古墳形成美麗景色。園區附設博物館與休憩設施，可先了解古墳的背景再散步參觀，更有體會。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "宮崎縣西都市"
+    },
+    {
+     "label": "古墳數",
+     "value": "高塚墳約319座"
+    },
+    {
+     "label": "年代",
+     "value": "4世紀初至7世紀前半"
+    },
+    {
+     "label": "指定",
+     "value": "1952年國家特別史蹟"
+    }
+   ],
+   "best_season_zh": "春（油菜花）",
+   "tips_zh": "園區廣大，可租腳踏車；附設的博物館有出土文物展示。",
+   "tags": [
+    "古墳",
+    "考古",
+    "特別史蹟",
+    "油菜花"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/西都原古墳群"
+   ],
+   "confidence": "high",
+   "prompt_en": "Grassy ancient burial mounds with blooming yellow canola flowers and blue sky, wide landscape, a keyhole-shaped mound in the distance"
+  },
+  "mascot": {
+   "title_zh": "宮崎犬與原創芒果角色",
+   "title_ja": "みやざき犬",
+   "summary_zh": "縣角色為『宮崎犬』；本頁為原創芒果角色。",
+   "body_zh": "宮崎縣推出的角色「みやざき犬」於2011年誕生，設定為在宮崎發現的新犬種，共有三隻，分別戴著日向夏、鳳凰椰子與地頭雞等縣內特產造型。設計來自2011年的公開徵件。本站不複製既有角色，改以芒果與陽光為靈感，創作一個原創角色，示範如何把南國風土做成可愛形象。縣內機場與車站可見みやざき犬的商品與展示，也是購買伴手禮時的常見選項。三隻角色分別有各自的名字與性格，由縣政府作為宮崎觀光與農產品的宣傳大使。",
+   "facts": [
+    {
+     "label": "縣角色",
+     "value": "みやざき犬（三隻）"
+    },
+    {
+     "label": "誕生",
+     "value": "2011年11月"
+    },
+    {
+     "label": "靈感來源",
+     "value": "日向夏、鳳凰椰子、地頭雞"
+    },
+    {
+     "label": "備註",
+     "value": "本頁為原創插圖"
+    }
+   ],
+   "best_season_zh": "全年",
+   "tips_zh": "縣內機場、道之驛可見みやざき犬周邊商品。",
+   "tags": [
+    "吉祥物",
+    "宮崎犬",
+    "地方角色",
+    "原創"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/みやざき犬"
+   ],
+   "confidence": "high",
+   "prompt_en": "An original cute character shaped like a ripe mango with palm leaves on its head and tiny sunglasses, not replicating any existing trademarked mascot"
+  },
+  "scenery": {
+   "title_zh": "高千穗峽",
+   "title_ja": "高千穂峡",
+   "summary_zh": "五瀨川切開的柱狀節理峽谷與瀑布。",
+   "body_zh": "高千穗峽是五瀨川在阿蘇火山噴發堆積的熔結凝灰岩上侵蝕而成的V字形峽谷，斷崖平均高約80公尺，最高約100公尺，綿延約7公里。約12萬年前阿蘇火碎流堆積後，河水雕刻出柱狀節理的岩壁。著名的真名井瀑布落差17公尺，列入日本瀑布百選。峽谷於1934年被指定為國家名勝與天然紀念物，遊客可步行賞景，也可租借小船划過峽谷。峽谷周邊還有步道與展望台，從上方俯瞰與乘船仰望，兩種角度的景色各有不同風貌。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "宮崎縣高千穗町"
+    },
+    {
+     "label": "規模",
+     "value": "斷崖高約80至100公尺，綿延約7公里"
+    },
+    {
+     "label": "瀑布",
+     "value": "真名井瀑布落差17公尺"
+    },
+    {
+     "label": "指定",
+     "value": "1934年國家名勝與天然紀念物"
+    }
+   ],
+   "best_season_zh": "新綠與秋季",
+   "tips_zh": "租船常需排隊，熱門時段建議提前到；雨後水量大，景色更壯觀但步道濕滑。",
+   "tags": [
+    "峽谷",
+    "柱狀節理",
+    "瀑布",
+    "名勝"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/高千穂峡"
+   ],
+   "confidence": "high",
+   "prompt_en": "A deep emerald gorge with columnar basalt cliffs and a slender waterfall, a small rowboat on the green water below, sun beams"
+  },
+  "spot": {
+   "title_zh": "日南海岸",
+   "title_ja": "日南海岸",
+   "summary_zh": "南國風情的海岸線，國定公園。",
+   "body_zh": "日南海岸國定公園自宮崎市延伸至串間市，於1955年指定，沿黑潮暖流形成亞熱帶景觀，海岸線有鬼之洗衣板、鵜戶神宮、都井岬與堀切峠等景點。鳳凰椰子與蘇鐵沿路生長，岩礁、海灣交錯。都井岬以半野生的岬馬聞名。公園每年有數百萬遊客，是宮崎最具代表性的觀光海岸。沿線設有多處停車展望台，自駕時可隨時停下拍照，也可順遊鵜戶神宮與青島等景點。整段海岸線自駕約需數小時，建議留出半日到一日慢慢走，並順遊幾處景點。",
+   "facts": [
+    {
+     "label": "範圍",
+     "value": "宮崎市至串間市沿岸"
+    },
+    {
+     "label": "指定",
+     "value": "1955年國定公園"
+    },
+    {
+     "label": "景點",
+     "value": "鬼之洗衣板、鵜戶神宮、都井岬"
+    },
+    {
+     "label": "特色",
+     "value": "黑潮帶來的亞熱帶植物"
+    }
+   ],
+   "best_season_zh": "全年",
+   "tips_zh": "沿海公路適合自駕，風大浪高時請勿靠近岩礁邊緣。",
+   "tags": [
+    "海岸",
+    "國定公園",
+    "亞熱帶",
+    "自駕"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/日南海岸",
+    "https://en.wikipedia.org/wiki/Nichinan_Kaigan_Quasi-National_Park"
+   ],
+   "confidence": "high",
+   "prompt_en": "A subtropical coastline with palm trees, rugged volcanic rocks and turquoise water, bright blue sky"
+  },
+  "experience": {
+   "title_zh": "衝浪體驗",
+   "title_ja": "宮崎サーフィン",
+   "summary_zh": "宮崎的太平洋海岸浪點眾多。",
+   "body_zh": "宮崎縣面向太平洋，海岸線長，水溫較暖，被視為日本重要的衝浪地區之一，青島、木崎濱一帶有不少浪點與衝浪店。初學者可以在衝浪學校報名體驗課，由教練帶領在淺灘練習。冬季浪況與水溫因地區而異，須注意防寒。此條屬一般介紹，具體浪況與規定以地方資訊為準。沿岸也有適合初學者的緩浪海灘，體驗課通常包含器材租借和基本安全教學。衝浪之外，海邊散步與沙灘休閒也很受歡迎，旅客可依自己的程度選擇活動。",
+   "facts": [
+    {
+     "label": "地點",
+     "value": "宮崎市青島、木崎濱周邊"
+    },
+    {
+     "label": "活動",
+     "value": "衝浪體驗課程"
+    },
+    {
+     "label": "條件",
+     "value": "視浪況與季節"
+    },
+    {
+     "label": "備註",
+     "value": "一般性介紹"
+    }
+   ],
+   "best_season_zh": "夏、秋",
+   "tips_zh": "請參加有資格的教練課程，並留意當日浪況與離岸流。",
+   "tags": [
+    "衝浪",
+    "海灘",
+    "體驗",
+    "運動"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/宮崎県",
+    "https://ja.wikipedia.org/wiki/サーフィン"
+   ],
+   "confidence": "low",
+   "prompt_en": "A surfer riding a wave at sunrise on a golden coastline, spray in the air, distant palm trees"
+  },
+  "costume": {
+   "title_zh": "南國休閒夏裝",
+   "title_ja": "宮崎の南国スタイル",
+   "summary_zh": "草帽與輕薄亞麻衣，呼應海岸棕櫚風情。",
+   "body_zh": "宮崎縣氣候溫暖，海岸多棕櫚與鳳凰椰子，旅遊時適合輕薄的亞麻或棉質夏裝與草帽。此條目屬於意象呈現，並非特定傳統服飾的考證。若想了解宮崎的歷史服飾，可到飫肥城下町或西都原考古博物館等地參觀相關展示。若要體驗當地服飾，可在飫肥城下町等觀光地租借和服，與古老街景搭配，更有拍照價值。搭配海邊的鳳凰椰子與藍天，拍照時更能營造南國度假的氛圍，這也是宮崎旅遊的一種風格。若想更貼近當地，也可在海邊咖啡館或市集挑選當季水果當作旅途的小點心。",
+   "facts": [
+    {
+     "label": "類別",
+     "value": "意象呈現／夏季休閒裝"
+    },
+    {
+     "label": "素材",
+     "value": "亞麻、棉"
+    },
+    {
+     "label": "場景",
+     "value": "海岸、棕櫚林"
+    },
+    {
+     "label": "備註",
+     "value": "非特定文物"
+    }
+   ],
+   "best_season_zh": "夏",
+   "tips_zh": "日照強，記得帶帽子與防曬。",
+   "tags": [
+    "夏裝",
+    "南國",
+    "意象",
+    "草帽"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/宮崎県"
+   ],
+   "confidence": "low",
+   "prompt_en": "An anonymous model in a light linen outfit and straw hat among palm trees, seaside portrait, back view, soft sunlight"
+  }
+ },
+ "areas": [
+  {
+   "id": "miyazaki_takachiho",
+   "name_zh": "高千穗",
+   "name_ja": "高千穂",
+   "intro_zh": "高千穗位於宮崎縣最北部的山區，是日本神話中天孫降臨之地，人口約1.1萬。神社、峽谷與夜神樂構成獨特的神話文化景觀，也是九州最受歡迎的自然與文化旅遊地之一。當地交通以自駕或巴士為主，行程宜預留彈性時間。",
+   "items": {
+    "spot": {
+     "title_zh": "高千穗神社",
+     "title_ja": "高千穂神社",
+     "summary_zh": "神話之地的古社，附有觀光神樂。",
+     "body_zh": "高千穗神社位於高千穗町，傳說起源於神代，現存社殿建於江戶時代，供奉高千穗皇神與十社大明神。境內有被視為天然紀念物的秩父杉，傳說為源平時代的畠山重忠所植。神樂殿全年演出33番夜神樂中的4番，是旅客最容易體驗神樂的地方。神社周邊有杉木林與石階，空氣清涼，適合早晨參拜後再前往峽谷。參拜後可轉往附近的天岩戶神社與峽谷，行程安排上可以半天走完主要景點。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "宮崎縣高千穗町"
+      },
+      {
+       "label": "社殿",
+       "value": "江戶時代建築"
+      },
+      {
+       "label": "特色",
+       "value": "秩父杉、觀光神樂"
+      },
+      {
+       "label": "神樂",
+       "value": "全年演出4番"
+      }
+     ],
+     "best_season_zh": "全年",
+     "tips_zh": "觀光神樂通常在晚上，需提前確認時間與票價。",
+     "tags": [
+      "神社",
+      "神話",
+      "神樂"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/高千穂神社"
+     ],
+     "confidence": "high",
+     "prompt_en": "A cedar-shrouded shrine with stone steps and a wooden hall in soft light"
+    },
+    "food": {
+     "title_zh": "流水麵線",
+     "title_ja": "流しそうめん",
+     "summary_zh": "把麵線放在竹筒流水中撈食的夏日料理。",
+     "body_zh": "流水麵線是在竹製水槽中讓麵線順水流下，遊客用筷子撈起蘸汁享用。高千穗被認為是這種吃法商業化的發源地之一，有店家自1955年開業。夏季冰涼的水流與麵線很消暑。其他地方如江戶時代的薩摩藩也有類似記錄，故起源說法不止一種。夏季店家會準備蘸汁與配料，水流清涼，體驗感十足，家庭客群也相當喜愛。店家多設在山間，環境清幽，用餐同時可聽見流水聲，夏季特別受遊客歡迎。",
+     "facts": [
+      {
+       "label": "類別",
+       "value": "夏季麵食"
+      },
+      {
+       "label": "方式",
+       "value": "竹樋流水撈食"
+      },
+      {
+       "label": "起源",
+       "value": "高千穗為商業化發源說"
+      },
+      {
+       "label": "季節",
+       "value": "夏季"
+      }
+     ],
+     "best_season_zh": "夏",
+     "tips_zh": "店家通常分時段營業，旺季先查營業資訊。",
+     "tags": [
+      "麵線",
+      "夏季",
+      "竹樋"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/流しそうめん"
+     ],
+     "confidence": "medium",
+     "prompt_en": "Bamboo flume with somen noodles flowing in clear water, wooden table with dipping bowls"
+    },
+    "scenery": {
+     "title_zh": "高千穗峽",
+     "title_ja": "高千穂峡",
+     "summary_zh": "柱狀節理峽谷與瀑布。",
+     "body_zh": "高千穗峽是五瀨川侵蝕阿蘇火碎流堆積岩形成的峽谷，斷崖平均約80公尺，真名井瀑布落差17公尺。步道與划船都能欣賞。1934年被指定為國家名勝與天然紀念物。可從步道俯瞰，也可租小船划行到瀑布下，兩種視角各有魅力，建議兩者都體驗。峽谷步道約1公里，沿途有展望台，建議穿著好走的鞋，雨天需特別留意濕滑。午後的陽光斜照在峽谷時，水面反射出翠綠色，是攝影的好時機。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "高千穗町"
+      },
+      {
+       "label": "斷崖",
+       "value": "約80至100公尺"
+      },
+      {
+       "label": "瀑布",
+       "value": "真名井瀑布17公尺"
+      },
+      {
+       "label": "活動",
+       "value": "步行、划船"
+      }
+     ],
+     "best_season_zh": "新綠、秋",
+     "tips_zh": "船票需排隊，建議上午前往。",
+     "tags": [
+      "峽谷",
+      "瀑布",
+      "名勝"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/高千穂峡"
+     ],
+     "confidence": "high",
+     "prompt_en": "A gorge with a waterfall and a rowing boat below tall basalt cliffs"
+    }
+   }
+  },
+  {
+   "id": "miyazaki_miyazaki_city",
+   "name_zh": "宮崎市",
+   "name_ja": "宮崎市",
+   "intro_zh": "宮崎市是縣廳所在地，人口約40萬，海岸邊有鬼之洗衣板與青島，市區帶有南國氛圍，鳳凰椰子林立，也是職棒春訓與衝浪的據點，兼具都市便利與海岸風光。當地交通以自駕或巴士為主，行程宜預留彈性時間。",
+   "items": {
+    "spot": {
+     "title_zh": "青島神社",
+     "title_ja": "青島神社",
+     "summary_zh": "小島上的神社，靠橋與陸地相連。",
+     "body_zh": "青島是宮崎市外海的小島，周長約860公尺，以彌生橋與陸地連接。島上有青島神社，祭祀山幸彥的傳說人物。島上的蒲葵（ビロウ）群落約200種植物為北半球最北的亞熱帶植物群，1952年被指定為特別天然紀念物。退潮時周邊露出海蝕岩礁。周邊還有鬼之洗衣板與海灘，適合傍晚時散步，並順遊附近的商店與餐廳。島上也有許多亞熱帶植物，進入島嶼的步行時間約十分鐘，適合安排為半日行程。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "宮崎市青島"
+      },
+      {
+       "label": "交通",
+       "value": "彌生橋步行"
+      },
+      {
+       "label": "植物",
+       "value": "蒲葵群落，特別天然紀念物"
+      },
+      {
+       "label": "周長",
+       "value": "約860公尺"
+      }
+     ],
+     "best_season_zh": "全年",
+     "tips_zh": "退潮時間可查潮汐表，穿能下水的鞋。",
+     "tags": [
+      "神社",
+      "小島",
+      "亞熱帶"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/鬼の洗濯板"
+     ],
+     "confidence": "medium",
+     "prompt_en": "A small shrine island connected to the shore by a bridge, with palm trees and shallow reef"
+    },
+    "food": {
+     "title_zh": "炭燒地雞",
+     "title_ja": "地鶏の炭火焼き",
+     "summary_zh": "宮崎市居酒屋常見的招牌。",
+     "body_zh": "宮崎市區的居酒屋與食堂都可吃到炭火烤地雞，雞肉有咬勁，帶焦香。通常搭配檸檬、蔥與柚子胡椒。除了地雞炭火燒外，宮崎市也有許多使用縣產食材的料理。一般搭配燒酎或啤酒，也有店家提供地雞刺身與其他雞肉料理，可一併品嚐。這道菜是宮崎縣民常吃的下酒菜，隨處可見，從小酒館到家庭餐桌都會出現，很具代表性。店家通常也提供搭配的小菜，如醃漬物與涼拌菜，適合邊聊邊吃。",
+     "facts": [
+      {
+       "label": "類別",
+       "value": "炭火燒烤"
+      },
+      {
+       "label": "食材",
+       "value": "地雞"
+      },
+      {
+       "label": "調味",
+       "value": "鹽、胡椒、檸檬"
+      },
+      {
+       "label": "供應",
+       "value": "居酒屋"
+      }
+     ],
+     "best_season_zh": "全年",
+     "tips_zh": "不同店家烤法不同，可比較。",
+     "tags": [
+      "地雞",
+      "炭火燒",
+      "宮崎",
+      "雞肉"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/宮崎県"
+     ],
+     "confidence": "medium",
+     "prompt_en": "Charcoal-grilled chicken pieces on a plate with lemon, smoky"
+    },
+    "scenery": {
+     "title_zh": "鬼之洗衣板",
+     "title_ja": "鬼の洗濯板",
+     "summary_zh": "波浪狀排列的海蝕岩礁。",
+     "body_zh": "鬼之洗衣板位於青島周圍，是砂岩與泥岩互層受海水侵蝕後，硬的砂岩凸出、軟的泥岩凹陷形成的洗衣板狀岩礁。1934年「青島的隆起海床與奇形波蝕痕」被指定為國家天然紀念物。退潮時可走近觀察岩礁的規律紋理，適合攝影與地質觀察，但請留意腳下濕滑。它與青島相鄰，周圍有海灘與步道，傍晚的夕陽照射在岩礁上，景色尤其動人，值得停留。",
+     "facts": [
+      {
+       "label": "地點",
+       "value": "宮崎市青島周邊"
+      },
+      {
+       "label": "成因",
+       "value": "砂岩與泥岩互層侵蝕"
+      },
+      {
+       "label": "指定",
+       "value": "1934年天然紀念物"
+      },
+      {
+       "label": "最佳時機",
+       "value": "退潮時"
+      }
+     ],
+     "best_season_zh": "全年",
+     "tips_zh": "退潮時最清楚，注意潮汐與岩石濕滑。",
+     "tags": [
+      "海岸",
+      "地質",
+      "岩礁"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/鬼の洗濯板"
+     ],
+     "confidence": "high",
+     "prompt_en": "Wave-patterned washboard rock shore at low tide with surf, golden light"
+    }
+   }
+  },
+  {
+   "id": "miyazaki_nichinan",
+   "name_zh": "日南",
+   "name_ja": "日南",
+   "intro_zh": "日南市位於宮崎縣南部，有飫肥城下町與日南海岸，鵜戶神宮也在市內。城下町保有藩政時代的風貌，被稱為『九州的小京都』，海岸則受黑潮影響呈亞熱帶景觀，適合自駕慢遊。適合安排半日至一日。",
+   "items": {
+    "spot": {
+     "title_zh": "飫肥城下町",
+     "title_ja": "飫肥城下町",
+     "summary_zh": "保存良好的城下町，九州首個重要傳統建築群保存地區。",
+     "body_zh": "飫肥城是伊東氏統治的飫肥藩城，位於日南市飫肥地區，以白砂地形建成，城內沒有天守。城下町於1977年被指定為重要傳統建築物群保存地區，是九州首個。街道石垣與飫肥杉並立，保留江戶時代的氛圍。城內有歷史資料館與武家屋敷可參觀，沿著石垣與杉樹的街道散步，十分愜意。街區內有多處老屋與庭園開放，適合花半天慢慢走，並可在咖啡館休息。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "宮崎縣日南市飫肥"
+      },
+      {
+       "label": "指定",
+       "value": "1977年重要傳統建築物群保存地區"
+      },
+      {
+       "label": "特色",
+       "value": "石垣、飫肥杉"
+      },
+      {
+       "label": "日本百名城",
+       "value": "飫肥城"
+      }
+     ],
+     "best_season_zh": "全年",
+     "tips_zh": "可租和服漫步，並到城內資料館參觀。",
+     "tags": [
+      "城下町",
+      "石垣",
+      "飫肥杉"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/飫肥城"
+     ],
+     "confidence": "high",
+     "prompt_en": "A castle town with stone walls and tall cedar trees, traditional gate, soft light"
+    },
+    "food": {
+     "title_zh": "飫肥天",
+     "title_ja": "飫肥天",
+     "summary_zh": "加入豆腐的甜味炸魚漿。",
+     "body_zh": "飫肥天是飫肥藩的鄉土料理，將日向灘捕獲的魚打成泥，加豆腐，並用味噌、醬油與黑糖調味後油炸而成。口感柔軟鬆軟，味道偏甜。據說因19世紀中期開始種植甘蔗而出現。不需蘸醬即可食用。在飫肥地區的老店有現炸版本，趁熱吃口感最好，也有真空包裝可作伴手禮。店家常見的口味有原味與添加蔬菜的變化版本，可一次買幾種比較看看，作為路邊小吃也很方便。",
+     "facts": [
+      {
+       "label": "類別",
+       "value": "炸魚漿"
+      },
+      {
+       "label": "食材",
+       "value": "魚漿、豆腐"
+      },
+      {
+       "label": "調味",
+       "value": "味噌、醬油、黑糖"
+      },
+      {
+       "label": "口感",
+       "value": "柔軟偏甜"
+      }
+     ],
+     "best_season_zh": "全年",
+     "tips_zh": "在飫肥的老店可吃現炸。",
+     "tags": [
+      "魚漿",
+      "炸物",
+      "鄉土料理"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/飫肥天"
+     ],
+     "confidence": "high",
+     "prompt_en": "Fried fish cake with a golden surface on a bamboo skewer, rustic plate"
+    },
+    "scenery": {
+     "title_zh": "日南海岸",
+     "title_ja": "日南海岸",
+     "summary_zh": "亞熱帶海岸線。",
+     "body_zh": "日南海岸國定公園擁有受黑潮影響的亞熱帶植物與岩礁，1955年指定，景點包括堀切峠、鵜戶神宮與都井岬。沿途有多處展望台與停車點，建議自駕慢遊，並順道拜訪鵜戶神宮與都井岬。這條海岸線因為黑潮的影響，冬天也相對溫暖，可以看到蘇鐵與鳳凰椰子等熱帶植物，景色獨特，值得細細品味。冬季氣溫較其他地區溫暖，海風與陽光讓這條海岸線成為四季皆宜的旅遊地。",
+     "facts": [
+      {
+       "label": "指定",
+       "value": "1955年國定公園"
+      },
+      {
+       "label": "景點",
+       "value": "堀切峠、鵜戶神宮、都井岬"
+      },
+      {
+       "label": "氣候",
+       "value": "亞熱帶"
+      },
+      {
+       "label": "植物",
+       "value": "鳳凰椰子"
+      }
+     ],
+     "best_season_zh": "全年",
+     "tips_zh": "沿海公路自駕最方便。",
+     "tags": [
+      "海岸",
+      "國定公園",
+      "黑潮",
+      "自駕"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/日南海岸"
+     ],
+     "confidence": "high",
+     "prompt_en": "Subtropical coast with palm trees and rocks under blue sky"
+    }
+   }
+  },
+  {
+   "id": "miyazaki_miyakonojo",
+   "name_zh": "都城",
+   "name_ja": "都城",
+   "intro_zh": "都城市是宮崎縣第二大城，人口約16萬，位於縣西南部盆地，肉牛與豬隻產量居全國前列，也是島津氏發祥地，著名燒酎蒸餾廠所在地，農業與畜產相當發達，歷史與美食兼具。當地交通以自駕或巴士為主，行程宜預留彈性時間。",
+   "items": {
+    "spot": {
+     "title_zh": "都城島津邸",
+     "title_ja": "都城島津邸",
+     "summary_zh": "島津氏分家的武家宅邸。",
+     "body_zh": "都城島津邸是都城島津家的歷史建築，位於都城市，保留武家建築與庭園。此處為島津氏歷史的一部分，都城是島津氏的發祥地。此條目對建築年代與開放情況尚未逐項核實，建議出發前查官方資訊。都城市保有島津氏相關史蹟，適合與市區其他觀光點一併安排，建議預先查詢開放資訊。建議在拜訪前先查看開放日與參觀方式，並可與市內其他史蹟一起安排半日到一日行程。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "宮崎縣都城市"
+      },
+      {
+       "label": "類別",
+       "value": "武家宅邸"
+      },
+      {
+       "label": "背景",
+       "value": "島津氏發祥地"
+      },
+      {
+       "label": "備註",
+       "value": "詳細資料待核實"
+      }
+     ],
+     "best_season_zh": "全年",
+     "tips_zh": "出發前查開放時間。",
+     "tags": [
+      "武家宅邸",
+      "島津氏",
+      "歷史"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/都城市"
+     ],
+     "confidence": "low",
+     "prompt_en": "A traditional samurai mansion with a gravel garden and wooden verandah"
+    },
+    "food": {
+     "title_zh": "都城牛肉與燒酎",
+     "title_ja": "都城の和牛",
+     "summary_zh": "全國屈指的肉牛與燒酎產地。",
+     "body_zh": "都城市是日本的畜產重鎮，肉用牛與豬的產量均為全國前列，同時市內有霧島酒造等大型燒酎蒸餾廠，生產『霧島』與『黑霧島』等品牌。當地餐廳提供燒肉與牛排，並可搭配燒酎。市內餐廳與居酒屋可吃到在地牛肉料理，搭配霧島系燒酎是當地常見的飲食組合。都城的畜產品如牛肉、豬肉也常見於伴手禮，若有時間，可到產地直銷所購買新鮮食材。",
+     "facts": [
+      {
+       "label": "產業",
+       "value": "肉牛、豬、燒酎"
+      },
+      {
+       "label": "品牌",
+       "value": "霧島、黑霧島"
+      },
+      {
+       "label": "吃法",
+       "value": "燒肉、牛排"
+      },
+      {
+       "label": "搭配",
+       "value": "燒酎"
+      }
+     ],
+     "best_season_zh": "全年",
+     "tips_zh": "可參觀酒造的見學設施（需預約）。",
+     "tags": [
+      "和牛",
+      "燒酎",
+      "畜產"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/都城市"
+     ],
+     "confidence": "medium",
+     "prompt_en": "Grilled wagyu beef slices on a plate with a glass of shochu on the side"
+    },
+    "scenery": {
+     "title_zh": "關之尾瀑布",
+     "title_ja": "関之尾の滝",
+     "summary_zh": "寬約40公尺的瀑布與甌穴群。",
+     "body_zh": "關之尾瀑布位於都城市庄內川，寬約40公尺、落差約18公尺，由約33至34萬年前堆積的熔結凝灰岩被侵蝕而成。上游有長約80公尺的甌穴群，被認為世界罕見。瀑布為日本瀑布百選，1928年被指定為國家天然紀念物。上游甌穴群與瀑布形成獨特景觀，可沿步道欣賞，夏季也適合在公園涼爽休憩。園區設施包含步道、咖啡廳與露營場，適合家庭同行，在夏季也是避暑勝地。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "宮崎縣都城市"
+      },
+      {
+       "label": "規模",
+       "value": "寬約40公尺，落差約18公尺"
+      },
+      {
+       "label": "特色",
+       "value": "上游甌穴群"
+      },
+      {
+       "label": "指定",
+       "value": "1928年天然紀念物、日本瀑布百選"
+      }
+     ],
+     "best_season_zh": "新綠、夏",
+     "tips_zh": "園區有露營場與咖啡廳，適合半日遊。",
+     "tags": [
+      "瀑布",
+      "甌穴",
+      "天然紀念物"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/関之尾滝"
+     ],
+     "confidence": "high",
+     "prompt_en": "A wide waterfall spreading across rock in a green gorge, mist and sunlight"
+    }
+   }
+  }
+ ]
+}

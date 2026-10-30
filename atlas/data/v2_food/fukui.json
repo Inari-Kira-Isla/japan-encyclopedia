@@ -1,0 +1,278 @@
+{
+ "id": "fukui",
+ "foods": [
+  {
+   "title_zh": "越前蘿蔔泥蕎麥麵",
+   "title_ja": "越前おろしそば",
+   "category": "麵飯",
+   "summary_zh": "蘿蔔泥蕎麥麵，入選農山漁村鄉土料理百選。",
+   "body_zh": "越前蕎麥的歷史可追溯到戰國時代，朝倉孝景在饑荒時獎勵種蕎麥；江戶時代家臣本多富正推廣種植，並傳是首位加入蘿蔔泥的人。特色是淋上辛辣的蘿蔔泥，另配蔥花、柴魚片與海苔，麵以強力粉作黏合，可淋汁或沾汁，多用冷湯。2007年12月「越前おろしそば」被選為農山漁村鄉土料理百選之一。",
+   "facts": [
+    {
+     "label": "起源",
+     "value": "戰國朝倉氏獎勵種蕎麥，江戶時代加入蘿蔔泥"
+    },
+    {
+     "label": "主要食材",
+     "value": "蕎麥麵、辛味蘿蔔泥、蔥、柴魚片"
+    },
+    {
+     "label": "地位",
+     "value": "2007年農山漁村鄉土料理百選"
+    }
+   ],
+   "season_zh": "全年（新蕎麥秋季）",
+   "where_zh": "福井市、越前市一帶蕎麥麵店",
+   "tags": [
+    "蕎麥麵",
+    "蘿蔔泥",
+    "冷麵",
+    "百選"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/越前そば"
+   ],
+   "confidence": "high",
+   "prompt_en": "A round lacquer or ceramic bowl of cold soba noodles topped with a mound of grated daikon radish, chopped green onion, bonito flakes and nori, a small jug of dark broth beside, wooden table, soft light, no text"
+  },
+  {
+   "title_zh": "醬汁豬排飯",
+   "title_ja": "ソースカツ丼",
+   "category": "麵飯",
+   "summary_zh": "浸過伍斯特醬的炸豬排蓋飯，福井的『豬排飯』。",
+   "body_zh": "福井的醬汁豬排飯，是把浸過伍斯特醬的炸豬排放在白飯上。最早的說法是福井出身的高畠增太郎從德國留學歸國後，1913年在東京的料理發表會首次展示，並開始供應，後來的歐洲軒系店家承襲。在福井縣單說「カツ丼」通常指的就是這種醬汁豬排飯，加蛋的則另稱「卵カツ丼」。",
+   "facts": [
+    {
+     "label": "起源",
+     "value": "1913年高畠增太郎於東京發表（最早說法）"
+    },
+    {
+     "label": "主要食材",
+     "value": "炸豬排、伍斯特醬、白飯"
+    },
+    {
+     "label": "地位",
+     "value": "在福井單稱カツ丼即指此物"
+    }
+   ],
+   "season_zh": "全年",
+   "where_zh": "福井市、敦賀市的歐洲軒及各豬排飯店",
+   "tags": [
+    "豬排",
+    "蓋飯",
+    "伍斯特醬",
+    "洋食"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/ソースカツ丼"
+   ],
+   "confidence": "high",
+   "prompt_en": "A ceramic donburi bowl of rice topped with several sauce-soaked breaded pork cutlets, glossy dark brown, a side pickle and miso soup out of focus, wooden table, warm light, no text"
+  },
+  {
+   "title_zh": "越前蟹",
+   "title_ja": "越前ガニ",
+   "category": "海鮮",
+   "summary_zh": "福井縣漁港上岸的雄楚蟹，黃色標籤是證明。",
+   "body_zh": "越前蟹是福井縣水產上岸的雄性楚蟹，是日本最高級的蟹品牌之一，2007年取得地域團體商標。腳上掛黃色標籤，標明漁船與漁港，約1916年起日本首先實行貼標。雄蟹漁期為11月6日至翌年3月20日；雌蟹稱「清子蟹」，漁期較短，11月6日至1月10日。",
+   "facts": [
+    {
+     "label": "產地",
+     "value": "福井縣漁港"
+    },
+    {
+     "label": "主要食材",
+     "value": "雄楚蟹（黃色標籤）"
+    },
+    {
+     "label": "漁期",
+     "value": "雄蟹11月6日至3月20日"
+    }
+   ],
+   "season_zh": "11月至3月",
+   "where_zh": "三國港、越前町等福井縣漁港與旅館",
+   "tags": [
+    "螃蟹",
+    "黃色標籤",
+    "冬季",
+    "品牌"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/越前蟹"
+   ],
+   "confidence": "high",
+   "prompt_en": "A boiled red Echizen snow crab with a yellow tag on its leg on a dark ceramic platter, steam rising, a small dish of vinegar beside, slate table, soft light, no text"
+  },
+  {
+   "title_zh": "鯖魚糠漬",
+   "title_ja": "へしこ",
+   "category": "鄉土料理",
+   "summary_zh": "將青魚鹽漬再埋米糠的若狹發酵保存食。",
+   "body_zh": "へしこ是把鯖魚等青魚先鹽漬，再以米糠醃漬的發酵保存食，主要產地是福井縣若狹、京都丹後半島與石川縣。名字可能來自「へし込む」（壓緊塞入桶中）。2007年入選農山漁村鄉土料理百選。美濱町以此為觀光與振興題材，近年也用在義大利麵、三明治等。福井縣立大學研究指出胺基酸含量約為生鯖魚2.5倍。",
+   "facts": [
+    {
+     "label": "產地",
+     "value": "福井縣若狹、京都丹後、石川縣"
+    },
+    {
+     "label": "主要食材",
+     "value": "鯖魚等青魚、鹽、米糠"
+    },
+    {
+     "label": "地位",
+     "value": "2007年農山漁村鄉土料理百選"
+    }
+   ],
+   "season_zh": "全年",
+   "where_zh": "福井縣若狹地區（美濱町等）",
+   "tags": [
+    "發酵",
+    "鯖魚",
+    "米糠",
+    "保存食"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/へしこ"
+   ],
+   "confidence": "high",
+   "prompt_en": "Thin slices of heshiko rice-bran cured mackerel, deep red-brown flesh with bran specks, on a small ceramic plate with a lemon wedge and a bowl of white rice beside, rustic wooden table, soft light, no text"
+  },
+  {
+   "title_zh": "福井水羊羹",
+   "title_ja": "水ようかん",
+   "category": "甜點和菓子",
+   "summary_zh": "冬季限定的黑糖水羊羹，盛在紙盒裡。",
+   "body_zh": "福井的水羊羹是冬季甜點，約在11月至3月製作，源自沒有冷藏的年代，水分多、含糖低的點心容易變質，只好在冬天做。以黑糖製成，盛在約A4大小、高約2公分的紙盒中；以前曾用漆盒盛裝，顧客買完要歸還容器。福井也把它放進新年御節，大野市每年2月舉辦「でっち羊かんまつり」。",
+   "facts": [
+    {
+     "label": "起源",
+     "value": "冬季無冷藏年代的點心"
+    },
+    {
+     "label": "主要食材",
+     "value": "黑糖"
+    },
+    {
+     "label": "特色",
+     "value": "紙盒包裝，冬季限定"
+    }
+   ],
+   "season_zh": "11月至3月",
+   "where_zh": "福井市、大野市各和菓子店",
+   "tags": [
+    "水羊羹",
+    "黑糖",
+    "冬季",
+    "紙盒"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/水ようかん"
+   ],
+   "confidence": "medium",
+   "prompt_en": "Square slices of dark brown brown-sugar mizu yokan, glossy and wobbly, cut from a flat paper box, on a small ceramic plate with a wooden pick, wooden table, soft winter light, no text"
+  },
+  {
+   "title_zh": "黑龍",
+   "title_ja": "黒龍",
+   "category": "酒與飲品",
+   "summary_zh": "創業於1804年的永平寺町大吟釀名廠。",
+   "body_zh": "黑龍酒造位於福井縣吉田郡永平寺町松岡，1804年由石田屋二左衛門創業，現任為第八代水野直人。代表酒款「黑龍」是追求精米度的純米大吟釀，另有較親民的「九頭龍」，使用福井五百萬石米。借白山融雪的地下水釀造，在全國新酒鑑評會多次獲金賞。酒廠結合傳承技術與最新設備，重視手工釀造。",
+   "facts": [
+    {
+     "label": "產地",
+     "value": "福井縣永平寺町松岡"
+    },
+    {
+     "label": "創業",
+     "value": "1804年"
+    },
+    {
+     "label": "主要食材",
+     "value": "酒米（五百萬石）、白山伏流水"
+    }
+   ],
+   "season_zh": "全年（新酒冬季）",
+   "where_zh": "永平寺町黑龍酒造及福井縣內酒販店",
+   "tags": [
+    "日本酒",
+    "大吟釀",
+    "福井",
+    "老鋪"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/黒龍酒造"
+   ],
+   "confidence": "high",
+   "prompt_en": "A slender clear glass sake bottle with a dark label beside a small white sake cup filled with clear sake, on a dark wooden counter, soft side light, subtle reflections, no text"
+  },
+  {
+   "title_zh": "小濱焼き鯖",
+   "title_ja": "焼き鯖（小濱）",
+   "category": "特產食材",
+   "summary_zh": "若狹小濱的鯖魚料理，連結鯖街道。",
+   "body_zh": "若狹小濱自古屬「御食國」，鯖魚是主要運往京都的貨物，沿鯖街道以鹽醃著走一天抵京，鹹度剛好。2015年此路線被認定為日本遺產。小濱現今仍以烤鯖魚、魚加工品與河豚等食文化聞名。但「焼き鯖」的具體起源與作法，此處未能核實專屬資料，故信心較低。日後需補查專賣店資料。",
+   "facts": [
+    {
+     "label": "產地",
+     "value": "福井縣小濱市（若狹）"
+    },
+    {
+     "label": "主要食材",
+     "value": "鯖魚、鹽"
+    },
+    {
+     "label": "相關",
+     "value": "鯖街道，2015年日本遺產"
+    }
+   ],
+   "season_zh": "全年",
+   "where_zh": "小濱市海邊的燒鯖專賣店",
+   "tags": [
+    "鯖魚",
+    "鯖街道",
+    "小濱",
+    "烤魚"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/鯖街道",
+    "https://ja.wikipedia.org/wiki/小浜市"
+   ],
+   "confidence": "low",
+   "prompt_en": "A whole grilled mackerel on a bamboo skewer, golden charred skin with salt crust, on a rustic wooden tray with grated daikon, seaside table, soft light, no text"
+  },
+  {
+   "title_zh": "若狹河豚",
+   "title_ja": "若狭ふぐ",
+   "category": "特產食材",
+   "summary_zh": "小濱食文化中的河豚料理。",
+   "body_zh": "小濱市屬歷史上的「御食國」，其食文化中除了烤鯖魚與魚加工品，還包括河豚。若狹河豚多為河豚類料理，可做刺身、火鍋等。但關於若狹河豚的品種、養殖方式與品牌認定，本次未能核實，僅確認小濱以河豚聞名這一點，因此信心較低，日後需補查。實際料理與產地需再查官方資料。",
+   "facts": [
+    {
+     "label": "產地",
+     "value": "福井縣小濱市一帶"
+    },
+    {
+     "label": "主要食材",
+     "value": "河豚（品種未核實）"
+    },
+    {
+     "label": "吃法",
+     "value": "刺身、火鍋（一般做法，未核實）"
+    }
+   ],
+   "season_zh": "冬季（一般認知）",
+   "where_zh": "小濱市的河豚料理店",
+   "tags": [
+    "河豚",
+    "小濱",
+    "御食國",
+    "冬季"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/小浜市"
+   ],
+   "confidence": "low",
+   "prompt_en": "Paper-thin translucent fugu sashimi arranged in a circular chrysanthemum pattern on a large blue-and-white porcelain plate, with ponzu and chopped scallion, dark table, soft light, no text"
+  }
+ ]
+}

@@ -1,0 +1,839 @@
+{
+ "id": "nagano",
+ "name_zh": "長野縣",
+ "name_ja": "長野県",
+ "region": "中部",
+ "overview": {
+  "intro_zh": "長野縣位於本州中央，被稱為「日本的屋脊」，北、中、南阿爾卑斯山縱貫境內，日本十二座最高峰中有九座在此。舊稱信濃國，現在也常稱「信州」。1998年冬季奧運在長野舉行，白馬、野澤溫泉、志賀高原等滑雪場享譽國際。夏季的上高地與輕井澤是避暑勝地，松本城與善光寺則承載著濃厚的歷史與信仰。蕎麥、蘋果、野澤菜與味噌是代表性食材，長野縣的平均壽命也長年居日本前列。搭乘北陸新幹線約1至2小時可從東京直達。",
+  "capital_zh": "長野市",
+  "area_km2": 13562,
+  "population_approx": "約200萬（2023年）",
+  "flower_zh": "龍膽",
+  "bird_zh": "雷鳥",
+  "tree_zh": "白樺",
+  "climate_zh": "內陸山岳氣候，夏涼冬寒、日夜溫差大；北部與山區降雪豐沛。",
+  "access_zh": "東京搭北陸新幹線約80分鐘到長野；松本可搭中央線特急約2.5小時。",
+  "specialties_zh": [
+   "信州蕎麥麵",
+   "蘋果",
+   "野澤菜",
+   "信州味噌",
+   "葡萄與桃",
+   "燒餅（御焼き）"
+  ],
+  "best_season_zh": "夏季避暑、10月紅葉、12至3月滑雪"
+ },
+ "items": {
+  "architecture": {
+   "title_zh": "松本城",
+   "title_ja": "松本城",
+   "summary_zh": "現存十二天守之一的國寶黑色平城。",
+   "body_zh": "松本城位於松本市，是日本現存十二座天守之一，現存建築建於1594年前後，由石川數正與其子康長興建。與山城不同，它是建在平地上的「平城」，外牆以黑漆為主，與周邊護城河上的朱紅「埋橋」相映成趣，天守於1952年被指定為國寶，天守、乾小天守、渡櫓、辰巳附櫓與月見櫓合稱國寶五棟。明治初年政府下令拆除封建城池時，當地居民市川量造等人奔走保存了天守，後來又歷經明治與昭和年間的大修。城內陡峭的木樓梯與窗外的北阿爾卑斯山景是參觀亮點。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "松本市丸之內"
+    },
+    {
+     "label": "建造",
+     "value": "約1594年"
+    },
+    {
+     "label": "指定",
+     "value": "天守為國寶（1952年）"
+    },
+    {
+     "label": "類型",
+     "value": "平城，現存十二天守之一"
+    }
+   ],
+   "best_season_zh": "櫻花季與冬季雪景",
+   "tips_zh": "天守內樓梯極陡，需脫鞋並排隊；旺季建議先預訂或避開週末中午。",
+   "tags": [
+    "國寶",
+    "天守",
+    "黑城",
+    "北阿爾卑斯"
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Matsumoto_Castle"
+   ],
+   "confidence": "high",
+   "prompt_en": "Matsumoto Castle black keep with the red bridge over the moat, snow-capped Alps behind, clear winter morning"
+  },
+  "food": {
+   "title_zh": "信州蕎麥麵",
+   "title_ja": "信州そば",
+   "summary_zh": "高原水土孕育的蕎麥麵。",
+   "body_zh": "信州蕎麥麵是長野縣的代表美食，山地氣候與清冽水質適合蕎麥生長，縣內自古就有許多蕎麥產地與名店。蕎麥麵多以冷盛搭配沾醬，佐山葵與蔥花，也有帶「戶隱蕎麥」等地方特色的盛法，如戶隱蕎麥常將麵條以竹篩分成幾束盛出。蕎麥在高冷地、貧瘠土地也能生長，長期是山間居民的重要主食，因此各地發展出不同的製法與吃法。各地蕎麥店也常提供天婦羅蕎麥、蕎麥丸子與蕎麥饅頭等延伸料理，值得一併品嚐。",
+   "facts": [
+    {
+     "label": "名稱",
+     "value": "信州蕎麥（長野縣各地）"
+    },
+    {
+     "label": "吃法",
+     "value": "冷蕎麥配沾醬、山葵、蔥"
+    },
+    {
+     "label": "特色",
+     "value": "高冷地栽培、水質好"
+    },
+    {
+     "label": "著名產地",
+     "value": "戶隱、鹽尻等"
+    }
+   ],
+   "best_season_zh": "秋季新蕎麥（約10至11月）",
+   "tips_zh": "新蕎麥上市時風味最鮮；店家常有限量，建議中午前去。",
+   "tags": [
+    "蕎麥麵",
+    "信州",
+    "鄉土料理",
+    "山葵"
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Nagano_Prefecture"
+   ],
+   "confidence": "medium",
+   "prompt_en": "Cold soba noodles on a bamboo tray with dipping sauce, wasabi and scallion, rustic table, soft daylight"
+  },
+  "culture": {
+   "title_zh": "諏訪御柱祭",
+   "title_ja": "諏訪大社の御柱祭",
+   "summary_zh": "數年一度砍伐巨木並滑下山坡的奇祭。",
+   "body_zh": "御柱祭是諏訪大社最重要的祭典，約1,200年歷史，每寅年與申年（以傳統算法稱七年一度，實際每六年）舉行，最近一次是2022年，下次為2028年。祭典要選出16根樅樹，由春天的「山出」從山上砍伐，再拖往神社，到「里曳」時立於上社與下社的四宮四隅，每個社殿四角各立一根。參加者騎乘在巨木上沿陡坡滑下，場面驚險，被稱為日本最危險的祭典，歷來也有受傷與死亡事故。諏訪大社分上社與下社，共有四座宮，每座各立四根御柱，因此每次祭典共需十六根。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "諏訪大社（諏訪湖周邊）"
+    },
+    {
+     "label": "頻率",
+     "value": "每六年（申年與寅年）"
+    },
+    {
+     "label": "最近",
+     "value": "2022年；下次2028年"
+    },
+    {
+     "label": "流程",
+     "value": "山出（4月）、里曳（5月）"
+    }
+   ],
+   "best_season_zh": "祭典年的4至5月",
+   "tips_zh": "祭典年份才有；平時可參觀諏訪大社四宮與立好的御柱。",
+   "tags": [
+    "御柱祭",
+    "諏訪大社",
+    "奇祭",
+    "巨木"
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Onbashira_Festival"
+   ],
+   "confidence": "high",
+   "prompt_en": "Giant log being pulled down a slope with crowds in happi coats at Onbashira festival, dynamic action, spring mountain"
+  },
+  "history": {
+   "title_zh": "善光寺",
+   "title_ja": "善光寺",
+   "summary_zh": "無宗派古剎，千年信仰中心。",
+   "body_zh": "善光寺位於長野市，相傳創建於七世紀，創建者不明，現存本堂為國寶。寺內供奉的本尊是不公開的秘佛，傳說是最早傳入日本的佛像，每六年才公開一次替身「前立本尊」，最近一次於2022年。寺院由天台宗與淨土宗的僧侶共同管理，歷來不分宗派接納各方信眾，「一生一度善光寺參拜」更是江戶時代起的庶民信仰。寺前參道與宿坊構成古老的門前町。寺院本堂規模宏大，屋頂呈獨特的「撞木造」形式，從遠處即可看出其格局，也是長野市區最重要的觀光地標。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "長野市元善町"
+    },
+    {
+     "label": "創建",
+     "value": "約七世紀，創建者不詳"
+    },
+    {
+     "label": "本堂",
+     "value": "國寶"
+    },
+    {
+     "label": "特色",
+     "value": "秘佛本尊、六年一度御開帳"
+    }
+   ],
+   "best_season_zh": "全年；早課清晨",
+   "tips_zh": "清晨「御朝事」法會氣氛莊嚴；可參加「戒壇巡」。",
+   "tags": [
+    "善光寺",
+    "國寶",
+    "古剎",
+    "門前町"
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Zenk%C5%8D-ji"
+   ],
+   "confidence": "high",
+   "prompt_en": "Zenkoji temple main hall with a huge sloping roof and incense smoke, early morning light, long stone approach"
+  },
+  "mascot": {
+   "title_zh": "阿爾克馬與猴蘋果角色",
+   "title_ja": "アルクマ",
+   "summary_zh": "縣PR角色為阿爾克馬，本作畫為原創角色。",
+   "body_zh": "據查，長野縣的官方宣傳角色是阿爾克馬（アルクマ），是一隻在信州各地走動、宣傳地方魅力的熊，頭上總戴著不同的帽子。本圖不複製任何既有商標吉祥物，而是以地獄谷泡溫泉的雪猴與信州名產蘋果為靈感，創作原創可愛角色。長野縣是日本蘋果主要產地之一，冬季泡湯的雪猴更是世界知名的長野形象。信州各地的產業展與觀光活動中，吉祥物形象常用於包裝、海報與伴手禮，是地方宣傳的重要符號。",
+   "facts": [
+    {
+     "label": "縣宣傳角色",
+     "value": "阿爾克馬"
+    },
+    {
+     "label": "靈感",
+     "value": "地獄谷雪猴、蘋果"
+    },
+    {
+     "label": "本圖概念",
+     "value": "原創猴子與蘋果角色"
+    },
+    {
+     "label": "特產",
+     "value": "蘋果、蕎麥"
+    }
+   ],
+   "best_season_zh": "秋季蘋果、冬季雪猴",
+   "tips_zh": "吉祥物活動多見於觀光展與物產展。",
+   "tags": [
+    "吉祥物",
+    "雪猴",
+    "蘋果",
+    "溫泉"
+   ],
+   "sources": [
+    "https://www.pref.nagano.lg.jp/kankoshin/documents/02arukuma_illust_manual_20240405.pdf"
+   ],
+   "confidence": "medium",
+   "prompt_en": "A cute original snow monkey character wearing an apple-shaped hat sitting in a steaming hot spring, pastel illustration. Original cute character, not replicating any existing trademarked mascot."
+  },
+  "scenery": {
+   "title_zh": "上高地",
+   "title_ja": "上高地",
+   "summary_zh": "北阿爾卑斯山中的清澈河谷。",
+   "body_zh": "上高地位於飛驒山脈之間，是一條長約18公里、海拔約1,400至1,600公尺的高原河谷。梓川（信濃川上游）清澈見底，流向燒岳山腳的大正池，河童橋與穗高連峰是最經典的取景。1994年起，私家車禁止通行，只能由平湯或澤渡轉乘巴士。景區每年約4月中旬至11月中旬開放，被指定為特別名勝與特別天然紀念物，屬中部山岳國立公園。沿河童橋散步約一小時即可看到梓川與穗高連峰，也可繼續走到明神池，輕鬆體驗高山景色。",
+   "facts": [
+    {
+     "label": "位置",
+     "value": "北阿爾卑斯山，松本市"
+    },
+    {
+     "label": "海拔",
+     "value": "約1,400至1,600公尺"
+    },
+    {
+     "label": "交通",
+     "value": "私家車管制，需轉乘巴士"
+    },
+    {
+     "label": "開放",
+     "value": "約4月中旬至11月中旬"
+    }
+   ],
+   "best_season_zh": "10月中旬紅葉；夏季避暑",
+   "tips_zh": "山區清晨寒冷，請帶保暖外套；旺季巴士排隊久。",
+   "tags": [
+    "上高地",
+    "河童橋",
+    "秋葉",
+    "國立公園"
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Kamikochi"
+   ],
+   "confidence": "high",
+   "prompt_en": "Kamikochi Azusa River with crystal clear water and Hotaka mountains in the background, autumn colors, morning mist"
+  },
+  "spot": {
+   "title_zh": "輕井澤",
+   "title_ja": "軽井沢",
+   "summary_zh": "避暑勝地，林間教堂與別墅。",
+   "body_zh": "輕井澤位於淺間山山麓，江戶時代是中山道的宿場町。1886年加拿大傳教士與東京教授將其介紹為避暑地後，逐漸發展成西式高原度假地，人口約2萬，海拔800公尺以上，夏涼冬寒。1964年東京奧運曾在此舉行馬術，1998年冬奧則舉辦冰壺，使它成為全球首個同時舉辦夏季與冬季奧運項目的城市。1997年北陸新幹線開通後，從東京約1小時可達。林間教堂、舊輕井澤銀座與購物村是旅客常訪景點。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "北佐久郡輕井澤町"
+    },
+    {
+     "label": "海拔",
+     "value": "約800公尺以上"
+    },
+    {
+     "label": "歷史",
+     "value": "1886年起成為避暑地"
+    },
+    {
+     "label": "交通",
+     "value": "北陸新幹線約1小時"
+    }
+   ],
+   "best_season_zh": "夏季與10月紅葉",
+   "tips_zh": "夏季旺季住宿極貴，需提前預訂；市區租自行車逛景點很方便。",
+   "tags": [
+    "輕井澤",
+    "避暑",
+    "教堂",
+    "別墅"
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Karuizawa"
+   ],
+   "confidence": "high",
+   "prompt_en": "Karuizawa stone chapel in a birch forest, dappled light, green summer, quiet path"
+  },
+  "experience": {
+   "title_zh": "地獄谷野猿公苑",
+   "title_ja": "地獄谷野猿公苑",
+   "summary_zh": "雪猴泡溫泉的世界名景。",
+   "body_zh": "地獄谷野猿公苑位於山內町，從停車場需沿著約2公里的森林步道前往。冬季雪地中，日本獼猴會從周圍山崖下來，泡在天然溫泉中取暖，形成世界知名的畫面。「地獄谷」之名來自谷中蒸汽與熱水從地面噴出的景觀。園區海拔約850公尺，冬天積雪深，春夏猴子也會出現，但泡湯多在冬季。遊客需與猴子保持距離，不得餵食，也不要直視其眼睛，以免引起牠們的警戒。園區為保護猴群與遊客，設有管理規則，行前可確認營運時間。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "山內町"
+    },
+    {
+     "label": "步道",
+     "value": "約2公里森林步道"
+    },
+    {
+     "label": "海拔",
+     "value": "約850公尺"
+    },
+    {
+     "label": "特色",
+     "value": "冬季雪猴泡湯"
+    }
+   ],
+   "best_season_zh": "1至2月",
+   "tips_zh": "冬季步道結冰，需穿防滑雪鞋；請勿餵食或觸摸猴子。",
+   "tags": [
+    "雪猴",
+    "溫泉",
+    "冬季",
+    "野生動物"
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Jigokudani_Monkey_Park"
+   ],
+   "confidence": "high",
+   "prompt_en": "Japanese macaques bathing in a steaming hot spring surrounded by snow, close-up, soft cold light"
+  },
+  "costume": {
+   "title_zh": "信州紬",
+   "title_ja": "信州紬",
+   "summary_zh": "手織紬織物的信州和服。",
+   "body_zh": "信州紬是長野縣各地織造的紬織物統稱，以蠶絲手工紡織，質地樸實、略帶光澤，常見於日常和服與腰帶。長野一帶因養蠶業興盛，絲織產業歷史悠久。本圖以無名模特兒身穿條紋紬和服，站在舊宿場町街道上的情境呈現，表現質樸優雅的信州風格。此圖為創意詮釋。如今仍有工坊提供織布體驗與成品販售，也是了解信州絲織傳統的好機會。紬以蠶絲手工紡織，越穿越柔軟，因此一直受到愛好者珍視，穿著時也比較耐用。",
+   "facts": [
+    {
+     "label": "織物",
+     "value": "紬（絲織）"
+    },
+    {
+     "label": "產地",
+     "value": "長野縣各地"
+    },
+    {
+     "label": "風格",
+     "value": "質樸、條紋或格子"
+    },
+    {
+     "label": "性質",
+     "value": "創意詮釋"
+    }
+   ],
+   "best_season_zh": "春秋",
+   "tips_zh": "可在松本、上田等地的工坊買到或體驗織布。",
+   "tags": [
+    "紬",
+    "和服",
+    "織物",
+    "宿場町"
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Nagano_Prefecture"
+   ],
+   "confidence": "low",
+   "prompt_en": "Anonymous model wearing a handwoven tsumugi kimono with subtle stripes, standing on an old post town street in Nagano, soft light"
+  }
+ },
+ "areas": [
+  {
+   "id": "nagano_matsumoto",
+   "name_zh": "松本",
+   "name_ja": "松本",
+   "intro_zh": "松本市位於縣中部的松本盆地，北阿爾卑斯山在城市西側拔地而起。城內有國寶松本城，以及許多古老町屋、咖啡館與美術館；從市區搭巴士可前往上高地與乘鞍高原，是登山與文化旅遊的基地。",
+   "items": {
+    "spot": {
+     "title_zh": "松本城",
+     "title_ja": "松本城",
+     "summary_zh": "國寶天守，黑牆紅橋。",
+     "body_zh": "松本城是現存十二天守之一，約1594年建成，天守於1952年被指定為國寶。城下町保留許多老店與咖啡館，漫步護城河畔，可看到天守與阿爾卑斯山同框。",
+     "facts": [
+      {
+       "label": "建造",
+       "value": "約1594年"
+      },
+      {
+       "label": "指定",
+       "value": "國寶"
+      },
+      {
+       "label": "類型",
+       "value": "平城"
+      },
+      {
+       "label": "所在",
+       "value": "松本市"
+      }
+     ],
+     "best_season_zh": "春櫻與冬雪",
+     "tips_zh": "可搭配松本市美術館與縄手通散步。",
+     "tags": [
+      "松本城",
+      "國寶",
+      "城下町",
+      "護城河"
+     ],
+     "sources": [
+      "https://en.wikipedia.org/wiki/Matsumoto_Castle"
+     ],
+     "confidence": "high",
+     "prompt_en": "Matsumoto Castle across the moat with a red bridge, spring cherry blossoms, morning light"
+    },
+    "food": {
+     "title_zh": "信州蕎麥麵與馬肉刺身",
+     "title_ja": "信州そばと馬刺し",
+     "summary_zh": "蕎麥麵搭配馬肉刺身的信州式飲食。",
+     "body_zh": "松本一帶是信州蕎麥麵的名產地之一，市區有許多蕎麥麵店。馬肉刺身（馬刺）也是長野縣內常見的鄉土料理，口味清淡，常配蒜泥與醬油。",
+     "facts": [
+      {
+       "label": "代表",
+       "value": "蕎麥麵、馬肉刺身"
+      },
+      {
+       "label": "吃法",
+       "value": "蕎麥冷食、馬刺配蒜"
+      },
+      {
+       "label": "地點",
+       "value": "松本市區"
+      },
+      {
+       "label": "搭配",
+       "value": "地酒"
+      }
+     ],
+     "best_season_zh": "全年",
+     "tips_zh": "馬刺屬生食，請選擇信譽好的店家。",
+     "tags": [
+      "蕎麥麵",
+      "馬刺",
+      "鄉土料理",
+      "信州"
+     ],
+     "sources": [
+      "https://en.wikipedia.org/wiki/Nagano_Prefecture"
+     ],
+     "confidence": "low",
+     "prompt_en": "Cold soba noodles beside a plate of sliced horse sashimi with garlic and ginger on a wooden table, izakaya lighting"
+    },
+    "scenery": {
+     "title_zh": "上高地",
+     "title_ja": "上高地",
+     "summary_zh": "清澈梓川與穗高連峰。",
+     "body_zh": "上高地位於松本市西側，海拔約1,400至1,600公尺，梓川清澈，河童橋與穗高連峰是經典景色。每年約4月中旬至11月中旬開放，私家車禁止通行。",
+     "facts": [
+      {
+       "label": "位置",
+       "value": "松本市"
+      },
+      {
+       "label": "開放",
+       "value": "約4月中旬至11月中旬"
+      },
+      {
+       "label": "交通",
+       "value": "巴士"
+      },
+      {
+       "label": "景點",
+       "value": "河童橋、大正池"
+      }
+     ],
+     "best_season_zh": "10月紅葉",
+     "tips_zh": "山區天氣多變，請帶防寒衣物。",
+     "tags": [
+      "上高地",
+      "河童橋",
+      "秋葉",
+      "清流"
+     ],
+     "sources": [
+      "https://en.wikipedia.org/wiki/Kamikochi"
+     ],
+     "confidence": "high",
+     "prompt_en": "Kappa Bridge over the clear Azusa River with Hotaka peaks behind, autumn colors, early morning"
+    }
+   }
+  },
+  {
+   "id": "nagano_karuizawa",
+   "name_zh": "輕井澤",
+   "name_ja": "軽井沢",
+   "intro_zh": "輕井澤是東京人夏季避暑的首選之地，淺間山山腳下氣候涼爽，林間散布著教堂、別墅與咖啡館。舊輕井澤銀座是歷史悠久的商店街，白絲瀑布則是清涼的自然景點。",
+   "items": {
+    "spot": {
+     "title_zh": "舊輕井澤銀座與石之教會",
+     "title_ja": "旧軽井沢銀座と石の教会",
+     "summary_zh": "保留西式度假氛圍的老街與教會。",
+     "body_zh": "舊輕井澤銀座是輕井澤最古老的商店街，保存洋風店鋪與別墅風情，兩側有果醬、麵包與紀念品店。石之教會以石材與玻璃構成，常被視為婚禮聖地。",
+     "facts": [
+      {
+       "label": "地點",
+       "value": "輕井澤町"
+      },
+      {
+       "label": "特色",
+       "value": "西式老街、石教堂"
+      },
+      {
+       "label": "歷史",
+       "value": "1886年起成為避暑地"
+      },
+      {
+       "label": "交通",
+       "value": "新幹線約1小時"
+      }
+     ],
+     "best_season_zh": "夏季",
+     "tips_zh": "假日人潮多，可平日早晨前往。",
+     "tags": [
+      "輕井澤",
+      "老街",
+      "教堂",
+      "度假"
+     ],
+     "sources": [
+      "https://en.wikipedia.org/wiki/Karuizawa"
+     ],
+     "confidence": "medium",
+     "prompt_en": "Old Karuizawa street lined with Western-style shops, green trees, summer morning, few visitors"
+    },
+    "food": {
+     "title_zh": "輕井澤果醬與烘焙",
+     "title_ja": "軽井沢のジャムとパン",
+     "summary_zh": "高原水果果醬與麵包名物。",
+     "body_zh": "輕井澤以高原水果做成的果醬與麵包聞名，舊輕井澤一帶有多間果醬店與麵包店。涼爽氣候適合栽種莓果與蘋果，是夏季旅客的伴手禮首選。",
+     "facts": [
+      {
+       "label": "特產",
+       "value": "果醬、烘焙麵包"
+      },
+      {
+       "label": "原料",
+       "value": "高原水果"
+      },
+      {
+       "label": "地點",
+       "value": "舊輕井澤"
+      },
+      {
+       "label": "用途",
+       "value": "伴手禮"
+      }
+     ],
+     "best_season_zh": "夏季",
+     "tips_zh": "試吃後再購買，可挑選小罐便於攜帶。",
+     "tags": [
+      "果醬",
+      "麵包",
+      "高原",
+      "伴手禮"
+     ],
+     "sources": [
+      "https://en.wikipedia.org/wiki/Karuizawa"
+     ],
+     "confidence": "low",
+     "prompt_en": "Jars of colorful fruit jam and fresh bread on a wooden table in a Karuizawa bakery, soft morning light"
+    },
+    "scenery": {
+     "title_zh": "白絲瀑布",
+     "title_ja": "白糸の滝",
+     "summary_zh": "清涼的絲狀瀑布。",
+     "body_zh": "白絲瀑布位於輕井澤町北部，水流自岩壁縫隙中如白絲般流下，周邊夏季涼爽。是避暑時的人氣景點。",
+     "facts": [
+      {
+       "label": "位置",
+       "value": "輕井澤町"
+      },
+      {
+       "label": "特色",
+       "value": "從岩縫流出的絲狀瀑布"
+      },
+      {
+       "label": "季節",
+       "value": "夏季清涼"
+      },
+      {
+       "label": "交通",
+       "value": "自駕或巴士"
+      }
+     ],
+     "best_season_zh": "夏季",
+     "tips_zh": "石階潮濕，穿防滑鞋較安全。",
+     "tags": [
+      "瀑布",
+      "白絲",
+      "夏季",
+      "森林"
+     ],
+     "sources": [
+      "https://en.wikipedia.org/wiki/Karuizawa"
+     ],
+     "confidence": "low",
+     "prompt_en": "Shiraito Falls in Karuizawa, thin curtains of water over mossy rock, lush green forest, soft light"
+    }
+   }
+  },
+  {
+   "id": "nagano_nozawa_hakuba",
+   "name_zh": "白馬・野澤",
+   "name_ja": "白馬・野沢",
+   "intro_zh": "白馬與野澤溫泉是長野縣北部的滑雪與溫泉重鎮。白馬山谷擁有近十個滑雪場與兩百多條雪道，1998年冬奧也在此舉辦滑雪跳躍與越野滑雪等項目；野澤溫泉則以十三處共同浴場與醃漬野澤菜聞名。",
+   "items": {
+    "spot": {
+     "title_zh": "白馬滑雪場",
+     "title_ja": "白馬のスキー場",
+     "summary_zh": "日本頂級粉雪滑雪區。",
+     "body_zh": "白馬村是日本北阿爾卑斯山的滑雪重鎮，白馬谷聚集10處滑雪場、超過200條雪道，年均積雪約655公分，2024至2025冬季曾達782公分。1998年冬奧的高山滑雪、跳台滑雪等項目在此舉辦。",
+     "facts": [
+      {
+       "label": "位置",
+       "value": "白馬村"
+      },
+      {
+       "label": "滑雪場",
+       "value": "約10處"
+      },
+      {
+       "label": "積雪",
+       "value": "年均約655公分"
+      },
+      {
+       "label": "冬奧",
+       "value": "1998年舉辦部分項目"
+      }
+     ],
+     "best_season_zh": "12月至3月",
+     "tips_zh": "外國旅客眾多，旺季住宿需提早預訂。",
+     "tags": [
+      "滑雪",
+      "白馬",
+      "粉雪",
+      "冬奧"
+     ],
+     "sources": [
+      "https://en.wikipedia.org/wiki/Hakuba,_Nagano"
+     ],
+     "confidence": "high",
+     "prompt_en": "Hakuba ski slope with powder snow and skiers, Northern Alps peaks behind, bright winter day"
+    },
+    "food": {
+     "title_zh": "野澤菜與燒餅",
+     "title_ja": "野沢菜とおやき",
+     "summary_zh": "野澤溫泉的醃漬菜與包餡燒餅。",
+     "body_zh": "野澤菜是長野縣的代表漬物，以野澤溫泉一帶出產最為出名，常見的吃法是醃漬後配飯或做成燒餅（おやき）的餡料。燒餅是以麵粉皮包蔬菜或紅豆餡烘烤或蒸製的點心，是信州的家常小吃。",
+     "facts": [
+      {
+       "label": "食材",
+       "value": "野澤菜（漬物）"
+      },
+      {
+       "label": "小吃",
+       "value": "おやき"
+      },
+      {
+       "label": "餡料",
+       "value": "野澤菜、南瓜、紅豆"
+      },
+      {
+       "label": "地點",
+       "value": "野澤溫泉"
+      }
+     ],
+     "best_season_zh": "全年",
+     "tips_zh": "溫泉街店鋪常提供試吃，可買真空包裝伴手禮。",
+     "tags": [
+      "野澤菜",
+      "燒餅",
+      "漬物",
+      "小吃"
+     ],
+     "sources": [
+      "https://en.wikipedia.org/wiki/Nagano_Prefecture"
+     ],
+     "confidence": "low",
+     "prompt_en": "Plate of oyaki dumplings and pickled nozawana greens in a small mountain village shop, warm light"
+    },
+    "scenery": {
+     "title_zh": "白馬三山",
+     "title_ja": "白馬三山",
+     "summary_zh": "白馬岳、杓子岳、白馬鑓岳三座山峰。",
+     "body_zh": "白馬三山是北阿爾卑斯山北部的三座山峰，白馬岳的名稱來自春季積雪融化後岩石形成的馬形圖案，農民以此判斷插秧時節。山峰終年有壯闊景觀，夏天高山花卉盛開。",
+     "facts": [
+      {
+       "label": "位置",
+       "value": "北阿爾卑斯山"
+      },
+      {
+       "label": "命名來源",
+       "value": "春季雪融後形成馬形"
+      },
+      {
+       "label": "特色",
+       "value": "高山花卉與雪壑"
+      },
+      {
+       "label": "據點",
+       "value": "白馬村"
+      }
+     ],
+     "best_season_zh": "夏季與秋季",
+     "tips_zh": "登山需裝備與經驗，注意天氣。",
+     "tags": [
+      "白馬岳",
+      "北阿爾卑斯",
+      "雪融",
+      "登山"
+     ],
+     "sources": [
+      "https://en.wikipedia.org/wiki/Hakuba,_Nagano"
+     ],
+     "confidence": "medium",
+     "prompt_en": "Mount Shirouma three peaks above a meadow of alpine flowers, early summer, snow patches, clear sky"
+    }
+   }
+  },
+  {
+   "id": "nagano_nagano_city",
+   "name_zh": "長野市",
+   "name_ja": "長野市",
+   "intro_zh": "長野市是縣廳所在地，也是1998年冬奧的主辦城市。市區北部的善光寺有千年歷史，是日本屈指可數的信仰中心；近郊的地獄谷則因雪猴泡溫泉而成為世界知名景點。",
+   "items": {
+    "spot": {
+     "title_zh": "善光寺",
+     "title_ja": "善光寺",
+     "summary_zh": "七世紀創建的無宗派古剎。",
+     "body_zh": "善光寺位於長野市，相傳創建於七世紀，本堂為國寶，供奉不公開的秘佛本尊，每六年才公開替身「前立本尊」。寺前參道兩側是商店與宿坊。",
+     "facts": [
+      {
+       "label": "創建",
+       "value": "約七世紀"
+      },
+      {
+       "label": "本堂",
+       "value": "國寶"
+      },
+      {
+       "label": "特色",
+       "value": "秘佛、御開帳"
+      },
+      {
+       "label": "宗派",
+       "value": "天台宗與淨土宗共管"
+      }
+     ],
+     "best_season_zh": "清晨",
+     "tips_zh": "可參加清晨法會，並體驗戒壇巡。",
+     "tags": [
+      "善光寺",
+      "國寶",
+      "古剎",
+      "參道"
+     ],
+     "sources": [
+      "https://en.wikipedia.org/wiki/Zenk%C5%8D-ji"
+     ],
+     "confidence": "high",
+     "prompt_en": "Zenkoji main hall with a vast sloping roof and incense smoke, early morning light"
+    },
+    "food": {
+     "title_zh": "信州味噌與蕎麥",
+     "title_ja": "信州味噌とそば",
+     "summary_zh": "長野市周邊的味噌與蕎麥名物。",
+     "body_zh": "信州味噌是日本代表性的米味噌之一，長野縣為主要產地，長野市周邊有許多釀造所。戶隱一帶的蕎麥麵亦享有盛名。",
+     "facts": [
+      {
+       "label": "特產",
+       "value": "信州味噌、蕎麥"
+      },
+      {
+       "label": "產地",
+       "value": "長野市周邊、戶隱"
+      },
+      {
+       "label": "特色",
+       "value": "米味噌、竹篩蕎麥"
+      },
+      {
+       "label": "用途",
+       "value": "味噌湯、料理"
+      }
+     ],
+     "best_season_zh": "全年",
+     "tips_zh": "可參觀味噌釀造所並購買。",
+     "tags": [
+      "味噌",
+      "蕎麥",
+      "戶隱",
+      "醃漬"
+     ],
+     "sources": [
+      "https://en.wikipedia.org/wiki/Nagano_Prefecture"
+     ],
+     "confidence": "low",
+     "prompt_en": "Wooden barrels of Shinshu miso at a traditional brewery and a bowl of soba on a rustic table"
+    },
+    "scenery": {
+     "title_zh": "地獄谷野猿公苑",
+     "title_ja": "地獄谷野猿公苑",
+     "summary_zh": "雪猴泡溫泉的世界名景。",
+     "body_zh": "地獄谷野猿公苑在長野市近郊的山內町，從停車場需步行約2公里。冬季雪地中，獼猴泡溫泉取暖，形成世界知名的畫面，園區海拔約850公尺。",
+     "facts": [
+      {
+       "label": "位置",
+       "value": "山內町"
+      },
+      {
+       "label": "步道",
+       "value": "約2公里"
+      },
+      {
+       "label": "海拔",
+       "value": "約850公尺"
+      },
+      {
+       "label": "特色",
+       "value": "雪猴泡湯"
+      }
+     ],
+     "best_season_zh": "1至2月",
+     "tips_zh": "防滑鞋必備，請勿餵食猴子。",
+     "tags": [
+      "雪猴",
+      "溫泉",
+      "冬季",
+      "山谷"
+     ],
+     "sources": [
+      "https://en.wikipedia.org/wiki/Jigokudani_Monkey_Park"
+     ],
+     "confidence": "high",
+     "prompt_en": "Snow monkeys bathing in a steaming natural hot spring in a snowy valley, soft light"
+    }
+   }
+  }
+ ]
+}

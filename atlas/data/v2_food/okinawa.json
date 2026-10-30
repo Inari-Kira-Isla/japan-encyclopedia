@@ -1,0 +1,277 @@
+{
+  "id": "okinawa",
+  "foods": [
+    {
+      "title_zh": "苦瓜雜炒",
+      "title_ja": "ゴーヤーチャンプルー",
+      "category": "鄉土料理",
+      "summary_zh": "苦瓜、島豆腐與豬肉快炒，沖繩家庭的代表菜。",
+      "body_zh": "苦瓜雜炒是沖繩最具代表性的家庭料理。基本材料為島豆腐、蔬菜（如苦瓜、高麗菜）與豬肉，特色是先把豆腐煎出焦色取出，再炒蔬菜與肉，最後回鍋拌合。傳統上用豬油炒，現在多用植物油。據維基百科，「チャンプルー」語源有中文「炒腐兒」等數說，並無定論；這道菜自琉球王國時代即有，被形容為沖繩幾乎家家都會做的菜，營養足、烹調快。",
+      "facts": [
+        {
+          "label": "起源",
+          "value": "琉球王國時代已有，語源說法不一"
+        },
+        {
+          "label": "主要食材",
+          "value": "苦瓜、島豆腐、豬肉"
+        },
+        {
+          "label": "吃法",
+          "value": "與白飯同食，家常配菜或定食"
+        }
+      ],
+      "season_zh": "夏季苦瓜當季，全年可食",
+      "where_zh": "沖繩全縣的食堂與居酒屋",
+      "tags": [
+        "苦瓜",
+        "島豆腐",
+        "家庭料理",
+        "琉球"
+      ],
+      "sources": [
+        "https://ja.wikipedia.org/wiki/ゴーヤーチャンプルー"
+      ],
+      "confidence": "high",
+      "prompt_en": "A single plate of goya champuru: stir-fried bitter melon half-moon slices, golden-seared chunks of Okinawan firm tofu, thin pork slices and soft scrambled egg, on a round white ceramic plate with a light sheen, steam rising, on a rustic wooden table in an Okinawan diner, warm natural daylight, no text"
+    },
+    {
+      "title_zh": "沖繩麵",
+      "title_ja": "沖縄そば",
+      "category": "麵飯",
+      "summary_zh": "不含蕎麥粉的小麥麵，配豬骨柴魚湯與三層肉。",
+      "body_zh": "沖繩麵雖叫「そば」，卻完全不用蕎麥粉，只用小麥粉，做法與中華麵相同，以鹼水或灰汁製成。煮好後拌油、不過冷水自然放涼，形成表面較硬的獨特口感。據維基百科，源頭是琉球王國時代由中國傳入的麵食，戰後小麥粉豐富才迅速普及。湯底多為豬骨與柴魚混合，配料以三層肉為基本，另有排骨軟骨、豬腳等。",
+      "facts": [
+        {
+          "label": "起源",
+          "value": "琉球王國時代由中國傳入，戰後普及"
+        },
+        {
+          "label": "主要食材",
+          "value": "小麥麵、豬骨柴魚湯、三層肉"
+        },
+        {
+          "label": "吃法",
+          "value": "配三層肉、蔥等配料，依喜好調味"
+        }
+      ],
+      "season_zh": "全年",
+      "where_zh": "沖繩全縣的沖繩麵專門店與食堂",
+      "tags": [
+        "沖繩麵",
+        "豬骨柴魚",
+        "三層肉",
+        "麵食"
+      ],
+      "sources": [
+        "https://ja.wikipedia.org/wiki/沖縄そば"
+      ],
+      "confidence": "high",
+      "prompt_en": "A single bowl of Okinawa soba: thick wavy wheat noodles in clear pork and bonito broth, topped with a slab of braised pork belly, a slice of pink kamaboko fish cake, chopped green onion and red pickled ginger, in a deep ceramic bowl with a blue pattern, on a plain wooden table, soft warm light, no text"
+    },
+    {
+      "title_zh": "琉球東坡肉",
+      "title_ja": "ラフテー",
+      "category": "肉類",
+      "summary_zh": "豬五花以泡盛、醬油、黑糖燉煮數小時，軟而不膩。",
+      "body_zh": "ラフテー是帶皮豬三層肉塊的燉煮料理。做法是燒去殘毛、用豆渣或米糠汆燙去味，切塊後以泡盛、醬油與砂糖（常用黑糖）燉煮數小時，有時長達兩三天，冷卻後去掉浮在表面凝固的豬油再加熱。據維基百科，它自琉球王國時代即有，一般認為與中國東坡肉同源，保留豬皮，與鹿兒島去皮版本不同。常作為單品，或配沖繩麵、出現在新年與法事膳食，常配薑絲。",
+      "facts": [
+        {
+          "label": "起源",
+          "value": "琉球王國時代，一般認為與東坡肉同源"
+        },
+        {
+          "label": "主要食材",
+          "value": "帶皮豬三層肉、泡盛、醬油、黑糖"
+        },
+        {
+          "label": "吃法",
+          "value": "切塊配薑絲，或作沖繩麵配料"
+        }
+      ],
+      "season_zh": "全年（新年膳食尤常見）",
+      "where_zh": "沖繩居酒屋與琉球料理店",
+      "tags": [
+        "豬三層肉",
+        "泡盛",
+        "黑糖",
+        "琉球料理"
+      ],
+      "sources": [
+        "https://ja.wikipedia.org/wiki/ラフテー"
+      ],
+      "confidence": "high",
+      "prompt_en": "A single serving of Okinawan rafute: three thick glossy braised pork belly cubes with skin, deep amber soy-and-brown-sugar glaze, a small mound of julienned ginger on top, on a small round Ryukyuan pottery plate, dark wooden table, warm moody lamp light, no text"
+    },
+    {
+      "title_zh": "海葡萄",
+      "title_ja": "海ぶどう",
+      "category": "海鮮",
+      "summary_zh": "口感啵啵作響的綠色海藻，沖繩夏季常見食材。",
+      "body_zh": "海葡萄的正式名稱是蕨藻科的クビレズタ，是沖繩料理食材之一，一粒粒小球狀的藻體咬下去有獨特的啵啵口感。據維基百科，日本自九州南部至西南諸島都有自生，宮古島一帶尤其多；1990年代陸上養殖發展，產量大增。因為浸泡調味汁過久會因滲透壓而萎縮，所以要在吃前才淋醋醬或拌入。常見吃法是當沙拉、配壽司或蓋飯。",
+      "facts": [
+        {
+          "label": "起源",
+          "value": "南西諸島自生，1990年代起陸上養殖盛行"
+        },
+        {
+          "label": "主要食材",
+          "value": "クビレズタ（綠藻），配醋醬或柑橘醬汁"
+        },
+        {
+          "label": "吃法",
+          "value": "吃前才淋醬汁，直接吃或當沙拉、蓋飯配料"
+        }
+      ],
+      "season_zh": "夏季較旺（全年有養殖）",
+      "where_zh": "沖繩本島與宮古島的海鮮餐廳、市場",
+      "tags": [
+        "海藻",
+        "啵啵口感",
+        "沖繩",
+        "養殖"
+      ],
+      "sources": [
+        "https://ja.wikipedia.org/wiki/クビレズタ"
+      ],
+      "confidence": "high",
+      "prompt_en": "A single small glass bowl of fresh sea grapes (umi-budo): glistening bright green translucent bead clusters on short stems, a small side dish of ponzu dressing, on crushed ice in a shallow white ceramic dish, on a pale blue-tinted table, bright tropical daylight, no text"
+    },
+    {
+      "title_zh": "沖繩甜甜圈",
+      "title_ja": "サーターアンダギー",
+      "category": "甜點和菓子",
+      "summary_zh": "不加水的蛋麵糰炸成球形，裂口象徵吉祥的沖繩點心。",
+      "body_zh": "サーターアンダギー意為「砂糖油炸」，沖繩方言中「サーター」是砂糖，「アンダギー」是油炸。材料是麵粉、雞蛋、砂糖（或黑糖）與泡打粉，特色是多用蛋而不加水。炸時內部膨脹，表面自然裂開，在沖繩被視為吉祥象徵，結婚等慶典常見。據維基百科，可能源自中國的「開口笑」，大約於清朝時由琉球王國採納，不過沒有確切文獻。",
+      "facts": [
+        {
+          "label": "起源",
+          "value": "可能源自中國「開口笑」，無明確文獻"
+        },
+        {
+          "label": "主要食材",
+          "value": "麵粉、雞蛋、砂糖（黑糖）、泡打粉"
+        },
+        {
+          "label": "吃法",
+          "value": "趁熱當點心，配茶；慶典上也常見"
+        }
+      ],
+      "season_zh": "全年",
+      "where_zh": "沖繩市場、道路休息站與點心店",
+      "tags": [
+        "炸點心",
+        "黑糖",
+        "吉祥",
+        "琉球菓子"
+      ],
+      "sources": [
+        "https://ja.wikipedia.org/wiki/サーターアンダギー"
+      ],
+      "confidence": "high",
+      "prompt_en": "A small woven bamboo basket holding three round golden-brown sata andagi Okinawan doughnuts, each with a characteristic cracked split top, one broken open to show the dense fluffy interior, on a rustic wooden table with a soft cloth, warm tropical daylight, no text"
+    },
+    {
+      "title_zh": "泡盛",
+      "title_ja": "泡盛",
+      "category": "酒與飲品",
+      "summary_zh": "以泰國米與黑麴釀造的琉球蒸餾酒，越陳越香。",
+      "body_zh": "泡盛是以米為主原料、用黑麴菌糖化的沖繩蒸餾酒。據維基百科，泰國產秈米的黑麴菌絲容易生長，發酵溫度也較好控制，因此被廣泛使用。蒸餾技術一說於14至15世紀由暹羅傳到琉球，之後經黑麴菌等改良誕生泡盛。貯存三年以上的稱為古酒（クースー），並以「仕次ぎ」傳統方式維持品質。一般水割，古酒常用小酒杯慢飲。",
+      "facts": [
+        {
+          "label": "起源",
+          "value": "蒸餾術一說14至15世紀自暹羅傳入琉球"
+        },
+        {
+          "label": "主要食材",
+          "value": "泰國米、黑麴菌"
+        },
+        {
+          "label": "吃法",
+          "value": "水割、加冰、熱水或汽水；古酒以小杯細飲"
+        }
+      ],
+      "season_zh": "全年",
+      "where_zh": "沖繩本島及離島的酒造與居酒屋",
+      "tags": [
+        "泡盛",
+        "古酒",
+        "黑麴",
+        "琉球"
+      ],
+      "sources": [
+        "https://ja.wikipedia.org/wiki/泡盛"
+      ],
+      "confidence": "high",
+      "prompt_en": "A single traditional Okinawan karakara ceramic sake flask with a small ceramic cup beside it, amber awamori poured halfway, on a dark wooden table with a hibiscus flower nearby, soft warm evening light, no text, no labels"
+    },
+    {
+      "title_zh": "塔可飯",
+      "title_ja": "タコライス",
+      "category": "B級美食",
+      "summary_zh": "白飯鋪塔可肉醬、起司、生菜與番茄的金武町發祥吃法。",
+      "body_zh": "塔可飯是白飯上放牛絞肉做的塔可肉醬、起司、生菜與番茄，再淋上番茄基底的紅色莎莎醬。據維基百科，1984年誕生於沖繩縣金武町，發明者為「パーラー千里」創辦人儀保松三。口感接近肉鬆飯或乾咖哩。初期只有白飯加塔可肉醬，現在配料豐富，1990年代起沖繩縣內也進入學校營養午餐，十分普及。",
+      "facts": [
+        {
+          "label": "起源",
+          "value": "1984年，金武町「パーラー千里」儀保松三"
+        },
+        {
+          "label": "主要食材",
+          "value": "白飯、牛絞肉塔可肉醬、起司、生菜、番茄"
+        },
+        {
+          "label": "吃法",
+          "value": "淋莎莎醬後拌勻食用"
+        }
+      ],
+      "season_zh": "全年",
+      "where_zh": "金武町及沖繩各地的食堂、輕食店",
+      "tags": [
+        "塔可飯",
+        "金武町",
+        "美式影響",
+        "B級"
+      ],
+      "sources": [
+        "https://ja.wikipedia.org/wiki/タコライス"
+      ],
+      "confidence": "high",
+      "prompt_en": "A single plate of Okinawan taco rice: warm white rice topped with seasoned ground beef taco meat, shredded cheddar cheese, shredded lettuce and diced tomato, a ladle of red salsa on the side, on a simple white plate in a casual diner, bright natural window light, no text"
+    },
+    {
+      "title_zh": "花生豆腐",
+      "title_ja": "ジーマーミ豆腐",
+      "category": "特產食材",
+      "summary_zh": "以花生汁與番薯澱粉製成、口感軟糯的豆腐狀小菜。",
+      "body_zh": "ジーマーミ豆腐是沖繩與鹿兒島的鄉土料理，雖名為豆腐，卻不是大豆製品，而是在花生榨汁中加入番薯澱粉（芋くず）凝固而成，口感軟糯似芝麻豆腐。一般淋高湯醬汁或醬油醬汁食用，也有淋黑蜜或砂糖的甜吃，或炸成唐揚風。沖繩超市與市場都買得到，另有黑糖味、紅芋味等變化。對花生過敏者須特別小心。",
+      "facts": [
+        {
+          "label": "起源",
+          "value": "沖繩與鹿兒島的鄉土料理，確切年代本次未核實"
+        },
+        {
+          "label": "主要食材",
+          "value": "花生汁、番薯澱粉"
+        },
+        {
+          "label": "吃法",
+          "value": "淋高湯醬汁或黑蜜，亦可炸食"
+        }
+      ],
+      "season_zh": "全年",
+      "where_zh": "沖繩居酒屋、市場與超市",
+      "tags": [
+        "花生",
+        "豆腐",
+        "軟糯",
+        "小菜"
+      ],
+      "sources": [
+        "https://ja.wikipedia.org/wiki/ジーマーミ豆腐"
+      ],
+      "confidence": "medium",
+      "prompt_en": "A single small square of jimami tofu peanut tofu, smooth ivory-colored and softly wobbling, in a small Ryukyuan ceramic dish with a glossy dashi-soy sauce poured over, topped with a tiny pinch of wasabi, on a dark wooden table, soft side lighting, no text"
+    }
+  ]
+}

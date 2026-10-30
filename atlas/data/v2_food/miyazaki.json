@@ -1,0 +1,149 @@
+{
+  "id": "miyazaki",
+  "foods": [
+    {
+      "title_zh": "南蠻炸雞",
+      "title_ja": "チキン南蛮",
+      "category": "B級美食",
+      "summary_zh": "炸雞浸甜醋、淋塔塔醬，發祥於延岡。",
+      "body_zh": "南蠻炸雞是把雞胸肉裹麵粉與蛋液油炸，再浸入甜醋醬，通常淋上塔塔醬。據日文維基百科，這是宮崎縣延岡市的料理，有兩家店宣稱是起源：「小倉」約1965年起附塔塔醬，「直ちゃん」約1970年起只用甜醋，兩家都說靈感來自當地西餐廳「London」。2007年入選農林水產省「農山漁村郷土料理百選」，2009年雙方共同宣告延岡為發祥地。",
+      "facts": [
+        {"label": "起源", "value": "延岡市，約1960年代後期，由小倉與直ちゃん兩店並稱元祖"},
+        {"label": "主要食材", "value": "雞胸肉、麵粉蛋液、甜醋、塔塔醬"},
+        {"label": "吃法", "value": "炸雞浸甜醋後淋塔塔醬，配飯或定食"}
+      ],
+      "season_zh": "全年",
+      "where_zh": "延岡市與宮崎縣內的定食屋、洋食屋",
+      "tags": ["炸雞", "塔塔醬", "延岡", "郷土料理百選"],
+      "sources": ["https://ja.wikipedia.org/wiki/チキン南蛮"],
+      "confidence": "high",
+      "prompt_en": "A single plate of chicken nanban, golden fried chicken pieces soaked in sweet vinegar sauce and topped with creamy tartar sauce with chopped egg, a small side of shredded cabbage, white ceramic plate on a light wooden table in a casual Japanese diner, warm soft light, no text, no signage"
+    },
+    {
+      "title_zh": "冷汁",
+      "title_ja": "冷や汁",
+      "category": "鄉土料理",
+      "summary_zh": "味噌魚鬆冷湯淋在涼飯上，宮崎夏日代表。",
+      "body_zh": "冷汁是以高湯與味噌調成的冷湯。據日文維基百科，鎌倉時代的文獻已有記載，宮崎版本最接近原型，原是農民與武士講求快速準備的食物，戰後發展成較講究的家庭料理。做法是把魚（多用小魚乾或竹筴魚）與味噌烤香、磨碎，加高湯做成冷湯，淋在涼飯上，常配豆腐、黃瓜與芝麻，讓夏天沒胃口也吃得下，被視為日本代表性鄉土料理之一。",
+      "facts": [
+        {"label": "起源", "value": "鎌倉時代文獻已見記載，宮崎版最接近原型"},
+        {"label": "主要食材", "value": "味噌、魚（小魚乾或竹筴魚）、高湯、涼飯"},
+        {"label": "吃法", "value": "冷湯淋涼飯，夏天開胃"}
+      ],
+      "season_zh": "夏季",
+      "where_zh": "宮崎縣內的家庭與鄉土料理店",
+      "tags": ["冷湯", "味噌", "夏日料理", "郷土料理"],
+      "sources": ["https://ja.wikipedia.org/wiki/冷や汁"],
+      "confidence": "high",
+      "prompt_en": "A single ceramic bowl of Miyazaki hiyajiru, chilled miso soup poured over cooled rice with thin cucumber slices, cubes of tofu, toasted sesame and shiso, a few ice cubes in the broth, wooden table with bamboo mat, soft bright summer daylight, no text, no signage"
+    },
+    {
+      "title_zh": "地雞炭火燒",
+      "title_ja": "地鶏の炭火焼",
+      "category": "肉類",
+      "summary_zh": "宮崎的炭火烤地雞，焦香帶嚼勁，常配啤酒。",
+      "body_zh": "地雞炭火燒是宮崎縣有名的下酒菜。這次查到的維基百科頁面只確認宮崎縣有「みやざき地頭鶏」這種地雞，但並未說明炭火燒的起源與做法，所以來由和細節沒有核實到，這裡只能保守介紹：一般是把雞肉切塊，在炭火上直接烤出焦香，吃起來有嚼勁，常在居酒屋配啤酒或燒酎，也有人加黑胡椒或擠柑橘。",
+      "facts": [
+        {"label": "起源", "value": "未能核實，頁面只確認宮崎縣有地頭鶏"},
+        {"label": "主要食材", "value": "地雞肉（宮崎縣有みやざき地頭鶏）"},
+        {"label": "吃法", "value": "炭火烤後配酒，細節未核實"}
+      ],
+      "season_zh": "全年",
+      "where_zh": "宮崎縣內的居酒屋與炭火燒專門店",
+      "tags": ["地雞", "炭火燒", "下酒菜", "居酒屋"],
+      "sources": ["https://ja.wikipedia.org/wiki/地鶏"],
+      "confidence": "low",
+      "prompt_en": "A single iron plate of charcoal-grilled free-range chicken pieces with charred edges and juicy surfaces, sprinkled with coarse salt and black pepper, a wedge of citrus on the side, dark wooden izakaya counter, faint glowing charcoal smoke in the background, warm low light, no text, no signage"
+    },
+    {
+      "title_zh": "宮崎牛",
+      "title_ja": "宮崎牛",
+      "category": "肉類",
+      "summary_zh": "宮崎縣產黑毛和牛，肉質等級4以上，連奪首相獎。",
+      "body_zh": "宮崎牛是在宮崎縣內生產並肥育的黑毛和種，肉質等級須為4級以上。據日文維基百科，在全國和牛能力共進會中，2007年同時獲得育種與肉牛兩部門的內閣總理大臣賞，2012年再得育種部門，2017年肉牛部門獲獎，成為連續三屆得獎，2022年更創下連續第四屆的歷史首例。宮崎自古以繁殖小牛見長，1971年才開始縣內肥育。肉質纖維細緻，吃起來柔軟。",
+      "facts": [
+        {"label": "起源", "value": "縣內肥育自1971年起步，2007至2022年共進會多次獲獎"},
+        {"label": "主要食材", "value": "黑毛和種，肉質等級4級以上"},
+        {"label": "吃法", "value": "燒肉、牛排、壽喜燒等"}
+      ],
+      "season_zh": "全年",
+      "where_zh": "宮崎縣內的燒肉店與牛排餐廳",
+      "tags": ["和牛", "黑毛和種", "首相獎", "燒肉"],
+      "sources": ["https://ja.wikipedia.org/wiki/宮崎牛"],
+      "confidence": "high",
+      "prompt_en": "A single plate of Miyazaki wagyu beef steak, a few thick slices seared outside and rosy inside with fine marbling, a pinch of sea salt and a small mound of grated wasabi on the side, black ceramic plate on a dark wooden table, soft side lighting, no text, no signage"
+    },
+    {
+      "title_zh": "宮崎芒果",
+      "title_ja": "宮崎マンゴー",
+      "category": "特產食材",
+      "summary_zh": "樹上完熟自然落果，頂級品牌稱「太陽のタマゴ」。",
+      "body_zh": "宮崎縣與沖繩、鹿兒島並列為日本國產芒果的主要產地，主要在溫室栽培，品種幾乎都是愛文芒果。據日文維基百科，宮崎以「完熟芒果」聞名，即在樹上成熟、自然落果後才出貨。最高級的品牌是「太陽のタマゴ」，只有嚴格篩選的果實才能使用，初拍時曾出現兩顆50萬日圓的高價。完熟芒果4月下旬到7月出貨，6至7月糖度最高。",
+      "facts": [
+        {"label": "起源", "value": "未載明確起源年份，宮崎為日本主要產地之一"},
+        {"label": "主要食材", "value": "愛文芒果（溫室栽培）"},
+        {"label": "時節", "value": "完熟品4月下旬至7月，6至7月最甜"}
+      ],
+      "season_zh": "4月下旬至7月",
+      "where_zh": "宮崎縣內的產地直銷店與水果店",
+      "tags": ["芒果", "完熟", "太陽のタマゴ", "溫室栽培"],
+      "sources": ["https://ja.wikipedia.org/wiki/マンゴー"],
+      "confidence": "high",
+      "prompt_en": "A single perfectly ripe red-and-yellow Irwin mango resting in a small woven basket, next to a halved mango showing deep orange flesh cut in a cross-hatch pattern, soft green leaves, light wooden table, bright natural daylight, glossy fresh fruit, no text, no signage"
+    },
+    {
+      "title_zh": "辛麵",
+      "title_ja": "辛麺",
+      "category": "麵飯",
+      "summary_zh": "紅辣湯配蕎麥小麥混合彈牙麵，延岡發祥。",
+      "body_zh": "辛麵是宮崎縣延岡市的辣味麵食。據日文維基百科，1987年由「からめん屋ますもと」在居酒屋副餐單中推出，被視為元祖。特色是鮮紅又很辣的湯，搭配用小麥粉與蕎麥粉製成、口感像蒟蒻般彈牙的麵。主要配料有雞蛋、絞肉、蒜頭、辣椒與韭菜，也可加起司或番茄。後來因電視節目「秘密のケンミンSHOW」介紹而在全國走紅。",
+      "facts": [
+        {"label": "起源", "value": "1987年，延岡市からめん屋ますもと"},
+        {"label": "主要食材", "value": "小麥粉與蕎麥粉麵、絞肉、蛋、蒜、辣椒、韭菜"},
+        {"label": "吃法", "value": "趁熱連紅辣湯吃，可加起司或番茄"}
+      ],
+      "season_zh": "全年",
+      "where_zh": "延岡與宮崎市內的辛麵專門店",
+      "tags": ["辣麵", "延岡", "蕎麥麵", "B級美食"],
+      "sources": ["https://ja.wikipedia.org/wiki/辛麺"],
+      "confidence": "high",
+      "prompt_en": "A single bowl of Miyazaki karamen, bright red spicy soup with chewy noodles, ground meat, a softly beaten egg swirled in, lots of chopped garlic chives and sliced red chili, steam rising, black ceramic bowl on a dark wooden counter, warm moody light, no text, no signage"
+    },
+    {
+      "title_zh": "宮崎芋燒酎",
+      "title_ja": "芋焼酎",
+      "category": "酒與飲品",
+      "summary_zh": "地瓜燒酎，宮崎產量居九州之冠，偏愛加冰喝。",
+      "body_zh": "芋燒酎是以地瓜為原料的燒酎，口感柔和、香氣獨特。據日文維基百科，製法由沖繩經中國傳到薩摩，地瓜約1705年傳入山川一帶，18世紀初開始釀造，後來傳到宮崎。2017年宮崎的產量為117,367公秉，超過鹿兒島的80,994公秉，兩縣合計占九州98%。宮崎縣內「霧島」品牌佔有率高，當地人偏愛20度、加冰塊的喝法。",
+      "facts": [
+        {"label": "起源", "value": "約18世紀初於薩摩開始釀造，後傳至宮崎"},
+        {"label": "主要食材", "value": "地瓜（黃金千貫等品種）與麴"},
+        {"label": "吃法", "value": "宮崎偏愛20度加冰，也可兌水或熱水"}
+      ],
+      "season_zh": "全年",
+      "where_zh": "宮崎縣內的酒藏與居酒屋",
+      "tags": ["燒酎", "地瓜", "霧島", "產量九州第一"],
+      "sources": ["https://ja.wikipedia.org/wiki/芋焼酎"],
+      "confidence": "high",
+      "prompt_en": "A single rocks glass of sweet potato shochu with a large clear ice cube, a roasted purple-skinned sweet potato cut open beside the glass, plain ceramic bottle blurred behind without any label, dark wooden table, soft warm lamp light, no text, no label, no signage"
+    },
+    {
+      "title_zh": "日向夏",
+      "title_ja": "日向夏",
+      "category": "特產食材",
+      "summary_zh": "宮崎發現的柑橘，連白棉皮一起吃，酸甜清爽。",
+      "body_zh": "日向夏是在宮崎發現的柑橘。據日文維基百科，原產地為日向國那珂郡曾井（今宮崎縣），江戶時代文政年間（1818至1829年）被發現。宮崎縣占全國產量約55%。味道酸味明顯、甜度偏低，風味近似葡萄柚。特殊吃法是只削掉黃色外皮，保留鬆軟的白色內皮一起吃，不帶苦味。果汁可做橙醋，也能做果醬與糖漬果皮，成熟採收期約在6月。",
+      "facts": [
+        {"label": "起源", "value": "江戶文政年間（1818至1829年）於日向國被發現"},
+        {"label": "主要食材", "value": "日向夏柑橘，宮崎占全國約55%"},
+        {"label": "吃法", "value": "只削黃皮，連白色內皮一起吃"}
+      ],
+      "season_zh": "春至初夏（成熟約6月）",
+      "where_zh": "宮崎縣內的產地與水果店",
+      "tags": ["柑橘", "白皮果肉", "宮崎原產", "初夏"],
+      "sources": ["https://ja.wikipedia.org/wiki/ヒュウガナツ"],
+      "confidence": "high",
+      "prompt_en": "A single Hyuganatsu citrus peeled to leave the soft white pith on, cut into wedges showing pale juicy flesh, a second whole yellow fruit with leaves beside it, small white ceramic plate on a light wooden table, bright natural daylight, fresh and clean, no text, no signage"
+    }
+  ]
+}

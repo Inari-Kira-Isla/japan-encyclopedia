@@ -1,0 +1,285 @@
+{
+ "id": "miyazaki",
+ "spots": [
+  {
+   "title_zh": "高千穗峽",
+   "title_ja": "高千穂峡",
+   "category": "自然絕景",
+   "area_zh": "高千穗町",
+   "summary_zh": "柱狀節理斷崖與真名井瀑布",
+   "body_zh": "高千穗峽位於高千穗町三田井，是五ヶ瀨川切出的V字峽谷，長達東西約7公里。阿蘇山約12萬年前與約9萬年前噴出的火碎流堆積後急速冷卻，形成發達的柱狀節理，再經河水侵蝕，斷崖平均高80公尺、最高約100公尺。1934年指定為國家名勝與天然紀念物。看點是高17公尺、被選為日本瀑布百選的真名井瀑布，可沿步道漫步，也能租小船近觀。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "宮崎縣西臼杵郡高千穗町三田井，五ヶ瀨川峽谷"
+    },
+    {
+     "label": "開創／成因",
+     "value": "阿蘇火碎流冷卻成柱狀節理，經河水侵蝕成V字谷"
+    },
+    {
+     "label": "看點",
+     "value": "真名井瀑布（高17公尺）、遊步道、租借小船"
+    }
+   ],
+   "best_season_zh": "夏〜秋",
+   "tips_zh": "遊步道全長約1公里，可租小船近看真名井瀑布；每年約7月中旬至9月中旬瀑布周邊夜間點燈，實際時間請以官方為準。",
+   "tags": [
+    "峽谷",
+    "柱狀節理",
+    "瀑布",
+    "神話"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/高千穂峡"
+   ],
+   "confidence": "high",
+   "prompt_en": "Deep V-shaped river gorge with tall dark columnar basalt cliffs, a slender waterfall dropping into a calm emerald-green pool, a small rowboat on the water in the foreground, lush green trees along the rim, soft summer morning light, no text, no signs, no recognizable people"
+  },
+  {
+   "title_zh": "青島神社",
+   "title_ja": "青島神社",
+   "category": "海島海岸",
+   "area_zh": "宮崎市（青島）",
+   "summary_zh": "全島都是境內的亞熱帶小島",
+   "body_zh": "青島神社位於宮崎市青島，整座周長約1.5公里的小島都是境內，全島作為熱帶與亞熱帶植物群生地，被指定為國家特別天然紀念物。祭神是山幸海幸神話中的彥火火出見命與其妃豐玉姬命，被視為姻緣、安產與航海安全之神。青島自古被視為靈域，直到1737年才解除只准神職與島奉行入島的限制。每年成人之日的冬祭，信徒會入海沐浴、靜心祈願。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "宮崎縣宮崎市青島，全島為境內"
+    },
+    {
+     "label": "開創／成因",
+     "value": "社傳起於山幸海幸神話；1737年起一般人可入島參拜"
+    },
+    {
+     "label": "看點",
+     "value": "全島亞熱帶植物（特別天然紀念物）、姻緣與安產信仰"
+    }
+   ],
+   "best_season_zh": "四季皆宜",
+   "tips_zh": "青島以彌生橋與本土相連，可步行入島；全島都是神社境內，請保持安靜，不要採集島上的植物。",
+   "tags": [
+    "離島神社",
+    "亞熱帶植物",
+    "特別天然紀念物",
+    "姻緣"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/青島神社"
+   ],
+   "confidence": "medium",
+   "prompt_en": "Small lush subtropical island with a vermilion shrine gate among palm and fan-leaf trees, a short wooden bridge across shallow turquoise water in the foreground, gentle sea waves on the beach, soft blue morning sky, no text, no signs, no recognizable people"
+  },
+  {
+   "title_zh": "鵜戶神宮",
+   "title_ja": "鵜戸神宮",
+   "category": "神社寺院",
+   "area_zh": "日南市",
+   "summary_zh": "建在海蝕洞窟裡的「下行神社」",
+   "body_zh": "鵜戶神宮位於日南市，面向日向灘，本殿座落在斷崖中腹一個東西38公尺、南北29公尺、高8.5公尺的海蝕洞內，參拜時得沿崖邊石階往下走，是少見的「下り宮」。社傳洞窟是豐玉姬為生下主祭神而建產屋之處，主祭神鸕鷀草葺不合尊的降誕地，信仰涵蓋姻緣、夫婦和合與安產。附近海岸有許多海蝕洞與波食棚，被指定為名勝。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "宮崎縣日南市，日向灘沿岸斷崖"
+    },
+    {
+     "label": "開創／成因",
+     "value": "社傳推古天皇時代在岩窟內創建社殿"
+    },
+    {
+     "label": "看點",
+     "value": "洞窟本殿、下り宮、海蝕洞與波食棚的名勝海岸"
+    }
+   ],
+   "best_season_zh": "四季皆宜",
+   "tips_zh": "因是向下走的神社，回程要沿石階向上爬；海風與階梯濕滑時需穿防滑好走的鞋，行程宜預留體力。",
+   "tags": [
+    "洞窟神社",
+    "海蝕洞",
+    "下り宮",
+    "日向灘"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/鵜戸神宮"
+   ],
+   "confidence": "high",
+   "prompt_en": "Vermilion shrine hall tucked inside a large sea cave in a coastal cliff, steep stone steps descending toward it in the foreground, rugged wave-cut rocks and deep blue ocean waves below, warm sunset light glowing into the cave, no text, no signs, no recognizable people"
+  },
+  {
+   "title_zh": "飫肥城",
+   "title_ja": "飫肥城",
+   "category": "城郭史蹟",
+   "area_zh": "日南市（飫肥）",
+   "summary_zh": "伊東氏飫肥藩的台地平山城",
+   "body_zh": "飫肥城位於日南市飫肥，酒谷川北岸，利用白砂台地地形排列多個曲輪，是群郭式平山城，江戶時代是伊東氏飫肥藩的藩廳所在地。傳說南北朝時期由土持氏築城，戰國時代伊東氏與島津氏為爭奪此城長期交戰，1588年伊東祐兵在九州平定後重回飫肥城。此地經河運與油津港相連，江戶時代是知名良材飫肥杉的集散地，藩廳所在的城下町也因此繁榮。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "宮崎縣日南市飫肥，酒谷川北岸台地"
+    },
+    {
+     "label": "開創／成因",
+     "value": "傳南北朝時期土持氏築城，江戶時代為飫肥藩廳"
+    },
+    {
+     "label": "看點",
+     "value": "群郭式平山城、飫肥杉與河運歷史、城下町"
+    }
+   ],
+   "best_season_zh": "四季皆宜",
+   "tips_zh": "建議沿台地與城下町散步，順便了解飫肥杉與油津港的河運歷史；開放區域與時間因整修而異，出發前請查官方網站。",
+   "tags": [
+    "平山城",
+    "飫肥藩",
+    "飫肥杉",
+    "城下町"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/飫肥城"
+   ],
+   "confidence": "medium",
+   "prompt_en": "Old samurai-town castle gate and stone walls on a low plateau, tall straight cedar trees behind, a stone-paved lane and trimmed hedges in the foreground, soft afternoon sunlight with long shadows, no text, no signs, no recognizable people"
+  },
+  {
+   "title_zh": "西都原古墳群",
+   "title_ja": "西都原古墳群",
+   "category": "城郭史蹟",
+   "area_zh": "西都市",
+   "summary_zh": "日本最大級的台地古墳群",
+   "body_zh": "西都原古墳群位於西都市，在標高約70公尺的洪積台地上，是日本最大級的古墳群，築造年代估計從4世紀初到7世紀前半。現存高塚古墳319基，包含前方後圓墳31基、方墳2基與圓墳286基，另有橫穴墓與南九州特有的地下式橫穴墓。1912至1917年這裡進行了日本首次本格的學術調查，1952年指定為特別史蹟，也是風土記之丘第1號。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "宮崎縣西都市，西都原台地"
+    },
+    {
+     "label": "開創／成因",
+     "value": "4世紀初至7世紀前半陸續築造"
+    },
+    {
+     "label": "看點",
+     "value": "319基高塚古墳、前方後圓墳、西都原考古博物館"
+    }
+   ],
+   "best_season_zh": "四季皆宜",
+   "tips_zh": "園區廣闊，先到西都原考古博物館看出土品再散步較易理解；要認古墳形狀可挑姬塚（202號墳）等較明顯的前方後圓墳。",
+   "tags": [
+    "古墳",
+    "特別史蹟",
+    "前方後圓墳",
+    "風土記之丘"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/西都原古墳群"
+   ],
+   "confidence": "high",
+   "prompt_en": "Wide grassy plateau dotted with many round and keyhole-shaped ancient burial mounds, a wide green lawn in the foreground, scattered trees in the middle ground, distant blue mountains on the horizon, bright spring sky with soft clouds, no text, no signs, no recognizable people"
+  },
+  {
+   "title_zh": "都井岬",
+   "title_ja": "都井岬",
+   "category": "海島海岸",
+   "area_zh": "串間市",
+   "summary_zh": "野生御崎馬棲息的草原海岬",
+   "body_zh": "都井岬位於串間市，面向太平洋，是志布志灣與日向灘的分界，屬日南海岸國定公園。岬上草原有半野生的御崎馬棲息，這些馬由江戶時代高鍋藩為養軍馬放牧而來，後來逐漸半野生化，「岬馬及其繁殖地」被指定為國家天然紀念物，「都井岬蘇鐵自生地」則是特別天然紀念物。海拔255公尺的都井岬燈塔1929年點燈，可遠眺270度的太平洋，附近海上的小島是以洗芋猴聞名的幸島。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "宮崎縣串間市大納，面臨太平洋"
+    },
+    {
+     "label": "開創／成因",
+     "value": "江戶時代高鍋藩放牧軍馬，後來半野生化"
+    },
+    {
+     "label": "看點",
+     "value": "御崎馬、蘇鐵自生地、燈塔與270度海景"
+    }
+   ],
+   "best_season_zh": "四季皆宜",
+   "tips_zh": "馬匹是半野生動物，請保持距離、不要餵食或追趕；岬上的觀光交流會館可先了解御崎馬與環境保育資訊。",
+   "tags": [
+    "岬",
+    "野生馬",
+    "燈塔",
+    "天然紀念物"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/都井岬"
+   ],
+   "confidence": "high",
+   "prompt_en": "Grassy cape plateau with a few free-roaming brown horses grazing in the foreground, a small white lighthouse on the headland in the middle ground, wide blue Pacific Ocean and a small island offshore in the background, soft late afternoon light, no text, no signs, no recognizable people"
+  },
+  {
+   "title_zh": "蝦野高原",
+   "title_ja": "えびの高原",
+   "category": "山岳高原",
+   "area_zh": "えびの市",
+   "summary_zh": "霧島連峰環抱的火口湖高原",
+   "body_zh": "えびの高原是被霧島山的韓國岳、蝦野岳、白鳥山與甑岳環抱的盆地狀高原，標高約1,200公尺，位於えびの市，屬霧島錦江灣國立公園，每年約有80萬人造訪。北部散布不動池、六觀音御池與白紫池等火口湖，環池自然研究路被選入「想走走看的步道500選」。秋季芒草原因硫磺山噴出的氣體作用而轉紅，傳說「えびの」之名即來自葡萄（えび）色的景色。秋天雄鹿的鳴叫聲亦入選日本音風景百選。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "宮崎縣えびの市，霧島山北西側"
+    },
+    {
+     "label": "開創／成因",
+     "value": "霧島火山噴發形成的火山性扇狀地與火口湖"
+    },
+    {
+     "label": "看點",
+     "value": "不動池等火口湖、芒草原、自然研究路與鹿鳴"
+    }
+   ],
+   "best_season_zh": "秋（芒草紅葉）",
+   "tips_zh": "環繞火口湖的自然研究路適合半日步行；若想登韓國岳或大浪池，須事先查火山警戒與登山路況，天候急變請留意。",
+   "tags": [
+    "火口湖",
+    "高原",
+    "霧島",
+    "秋景"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/えびの高原"
+   ],
+   "confidence": "high",
+   "prompt_en": "Highland basin ringed by volcanic peaks, a still crater lake with mirrored mountains in the middle ground, red-tinted pampas grass slope and a boardwalk path in the foreground, a few autumn trees, clear crisp autumn morning light, no text, no signs, no recognizable people"
+  },
+  {
+   "title_zh": "綾照葉大吊橋",
+   "title_ja": "綾の照葉大吊橋",
+   "category": "主題設施",
+   "area_zh": "綾町",
+   "summary_zh": "照葉樹林上的步行吊橋",
+   "body_zh": "照葉大吊橋位於綾町的本庄川上，是橫跨照葉樹林溪谷的步行專用吊橋。1984年架設，長250公尺、高142公尺、寬1.2公尺，當時是日本第二高的步行吊橋，2006年九重夢大吊橋啟用後被超越。因老化於2010年起重建，2011年10月重新開通，橋面部分改成網狀，可往下看，驚險感更強。這座橋曾獲2004年度土木學會設計獎優秀賞。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "宮崎縣東諸縣郡綾町，本庄川"
+    },
+    {
+     "label": "開創／成因",
+     "value": "1984年架設，2011年重建後重新開通"
+    },
+    {
+     "label": "看點",
+     "value": "長250公尺、高142公尺；橋下是照葉樹林"
+    }
+   ],
+   "best_season_zh": "秋（紅葉）",
+   "tips_zh": "新橋部分踏板為網狀，下方一覽無遺，怕高者請有心理準備；可結合周邊照葉樹林步道，一併欣賞原生森林景致。",
+   "tags": [
+    "吊橋",
+    "照葉樹林",
+    "步行橋",
+    "溪谷"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/綾の照葉大吊橋"
+   ],
+   "confidence": "high",
+   "prompt_en": "Long pedestrian suspension bridge spanning a deep valley full of dense evergreen laurel forest, steel towers and thin cables, view from the cliff-side approach in the foreground, soft mist rising from the trees below, gentle morning sunlight, no text, no signs, no recognizable people"
+  }
+ ]
+}

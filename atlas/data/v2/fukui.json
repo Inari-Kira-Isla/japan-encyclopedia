@@ -1,0 +1,842 @@
+{
+ "id": "fukui",
+ "name_zh": "福井縣",
+ "name_ja": "福井県",
+ "region": "中部（北陸）",
+ "overview": {
+  "intro_zh": "福井縣位於本州中部日本海側，由嶺北（舊越前國）與嶺南（舊若狹國）兩個文化圈構成，海岸線曲折，內陸多山。這裡擁有曹洞宗大本山永平寺、戰國朝倉氏的一乘谷遺跡、日本最古老天守之一丸岡城，以及東尋坊的海蝕斷崖。恐龍化石出土量居日本之冠，福井縣立恐龍博物館是世界級設施。冬季的越前蟹、越前和紙、鯖魚料理亦各具特色。北陸新幹線於2024年3月延伸至敦賀，往返關東與關西更便捷。",
+  "capital_zh": "福井市",
+  "area_km2": 4191,
+  "population_approx": "約72萬（2026年推計）",
+  "flower_zh": "水仙",
+  "bird_zh": "鶇（ツグミ）",
+  "tree_zh": "松",
+  "climate_zh": "日本海側氣候，冬季多雪，夏季悶熱；嶺南海岸相對溫和。",
+  "access_zh": "北陸新幹線至福井站或敦賀站；小松機場與京都、大阪方向轉乘皆便利。",
+  "specialties_zh": [
+   "越前蟹",
+   "越前和紙",
+   "醬汁豬排飯",
+   "烤鯖魚壽司",
+   "越前蘿蔔泥蕎麥麵",
+   "眼鏡框"
+  ],
+  "best_season_zh": "11月至3月品蟹，春季賞櫻，秋季紅葉與蕎麥"
+ },
+ "items": {
+  "architecture": {
+   "title_zh": "丸岡城",
+   "title_ja": "丸岡城",
+   "summary_zh": "現存最古老的天守之一。",
+   "body_zh": "丸岡城位於坂井市，天正4年（1576年）由柴田勝家的侄子柴田勝豐建造，是日本現存十二天守之一，也被視為最古老的一座。天守為兩層三階的望樓式建築，屋頂覆蓋以笏谷石製成的石瓦，在雨雪後呈青綠色。1948年福井地震時倒塌，之後以原材料重建，並被指定為國家重要文化財。城址內種有約四百株櫻花，春季極為壯觀。天守內部陡峭的樓梯與木造梁柱保留了戰國末期的風貌，登上頂層可眺望三國方向的平野與遠山。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "坂井市丸岡町"
+    },
+    {
+     "label": "建造",
+     "value": "1576年，柴田勝豐"
+    },
+    {
+     "label": "指定",
+     "value": "現存十二天守、重要文化財"
+    },
+    {
+     "label": "特色",
+     "value": "笏谷石瓦屋頂"
+    }
+   ],
+   "best_season_zh": "4月上旬（櫻）",
+   "tips_zh": "天守內樓梯陡峭；每年春季有櫻花祭，須避開高峰人潮。",
+   "tags": [
+    "天守",
+    "城郭",
+    "櫻花",
+    "石瓦"
+   ],
+   "sources": [
+    "https://www.fuku-e.com/",
+    "https://ja.wikipedia.org/wiki/丸岡城"
+   ],
+   "confidence": "high",
+   "prompt_en": "Maruoka Castle old wooden keep with stone-tile roof among cherry blossoms, clear spring sky"
+  },
+  "food": {
+   "title_zh": "越前蟹與醬汁豬排飯",
+   "title_ja": "越前ガニとソースカツ丼",
+   "summary_zh": "冬季蟹與福井獨特的醬汁豬排。",
+   "body_zh": "越前蟹是福井港捕獲的雄性松葉蟹，每年11月6日左右解禁，至3月中旬結束，須繫上黃色標籤作為品牌保證。肉質甘甜，可蒸煮、刺身或火鍋。醬汁豬排飯則是福井市的庶民美食，將炸豬排浸入特製醬汁後放在白飯上，不加蛋，與一般勝丼不同，大正時代由歐洲歸國的廚師傳入，如今成為福井代表。福井的飲食注重季節感，旅館常把兩者放進同一份套餐，也可在福井車站周邊與名店比較不同風味。",
+   "facts": [
+    {
+     "label": "越前蟹漁期",
+     "value": "約11月6日–3月20日"
+    },
+    {
+     "label": "品牌標示",
+     "value": "黃色標籤"
+    },
+    {
+     "label": "醬汁豬排飯",
+     "value": "炸豬排、醬汁、不加蛋"
+    },
+    {
+     "label": "發源",
+     "value": "福井市"
+    }
+   ],
+   "best_season_zh": "11月–3月",
+   "tips_zh": "越前蟹價格高，建議事先預約民宿或餐廳；醬汁豬排飯平日午餐常見套餐。",
+   "tags": [
+    "越前蟹",
+    "醬汁豬排飯",
+    "福井",
+    "美食"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/越前ガニ",
+    "https://ja.wikipedia.org/wiki/ソースカツ丼"
+   ],
+   "confidence": "high",
+   "prompt_en": "Boiled red Echizen crab on a platter next to a bowl of katsudon with sauce, tabletop shot, warm light"
+  },
+  "culture": {
+   "title_zh": "越前和紙",
+   "title_ja": "越前和紙",
+   "summary_zh": "約千五百年歷史的手抄和紙。",
+   "body_zh": "越前和紙產於越前市今立地區，傳說約1,500年前，川上御前將造紙技術傳授給村民，並被奉為紙神。以楮、三椏與雁皮為原料，用河水手抄而成，質地堅韌，歷史上曾為朝廷公文紙，也被用作藩札（藩內通用紙幣）。現在除書畫用紙外，也用於室內設計與藝術創作，今立有「紙之里」可體驗抄紙，並有紙神社岡太神社・大瀧神社。工房多採預約制，除抄紙外，也有染紙、製作明信片與燈罩等課程，適合作為手作旅行的行程之一。",
+   "facts": [
+    {
+     "label": "產地",
+     "value": "越前市（舊今立町）"
+    },
+    {
+     "label": "歷史",
+     "value": "傳說約1,500年"
+    },
+    {
+     "label": "原料",
+     "value": "楮、三椏、雁皮"
+    },
+    {
+     "label": "紙神社",
+     "value": "岡太神社・大瀧神社"
+    }
+   ],
+   "best_season_zh": "全年",
+   "tips_zh": "體驗抄紙需約30–60分鐘；成品需乾燥，可郵寄。",
+   "tags": [
+    "和紙",
+    "工藝",
+    "越前",
+    "傳統"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/越前和紙",
+    "https://www.fuku-e.com/"
+   ],
+   "confidence": "high",
+   "prompt_en": "Papermaker lifting a screen with wet washi pulp in a traditional workshop, steam and soft window light, hands only"
+  },
+  "history": {
+   "title_zh": "一乘谷朝倉氏遺跡",
+   "title_ja": "一乗谷朝倉氏遺跡",
+   "summary_zh": "戰國城下町的復原街道。",
+   "body_zh": "一乘谷是戰國大名朝倉氏五代的據點，約100年間繁榮，1573年被織田信長攻滅後焚毀，遺址深埋地下，因此保存狀態良好。遺跡被指定為國家特別史跡、特別名勝（朝倉氏庭園）、重要文化財，是同時具有三重特別指定的稀有例子。現場復原了部分武家屋敷、商家街道，建築採用當時工法，並設有資料館，讓人想像戰國時代的城下町日常。遺跡現場的資料館收藏出土物，可先參觀以了解城下町的規模，再沿復原街道漫步，更容易想像當年景象。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "福井市城戶之內町"
+    },
+    {
+     "label": "朝倉氏",
+     "value": "五代約100年"
+    },
+    {
+     "label": "毀滅",
+     "value": "1573年（織田信長）"
+    },
+    {
+     "label": "指定",
+     "value": "特別史跡、特別名勝"
+    }
+   ],
+   "best_season_zh": "春至秋",
+   "tips_zh": "遺跡範圍廣，需步行或租腳踏車；夏季炎熱，備好飲水。",
+   "tags": [
+    "戰國",
+    "遺跡",
+    "城下町",
+    "朝倉氏"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/一乗谷朝倉氏遺跡",
+    "https://www.fuku-e.com/"
+   ],
+   "confidence": "high",
+   "prompt_en": "Reconstructed samurai town street at Ichijodani Asakura Clan ruins with wooden houses and stone walls, soft morning light, no people"
+  },
+  "mascot": {
+   "title_zh": "福井恐龍吉祥物",
+   "title_ja": "ジュラチックの恐竜キャラ",
+   "summary_zh": "縣恐龍品牌「Juratic」角色。",
+   "body_zh": "福井縣的公式恐龍品牌「Juratic（ジュラチック）」由多款恐龍角色組成，包括根據福井出土恐龍設計的「ラプト」、「サウタン」與「ティッチー」，胸前都有「F」字樣，故事設定來自「Juratic王國」。本頁插圖不複製這些角色，而是原創一隻小恐龍，戴著螃蟹造型帽子站在岩岸上，象徵福井的恐龍與越前蟹。縣內的恐龍造型常見於福井站、列車與街道裝飾，抵達福井站時就能感受到「恐龍王國」的氣氛。",
+   "facts": [
+    {
+     "label": "官方品牌",
+     "value": "Juratic（ジュラチック）"
+    },
+    {
+     "label": "代表角色",
+     "value": "ラプト、サウタン、ティッチー"
+    },
+    {
+     "label": "原型",
+     "value": "福井出土恐龍"
+    },
+    {
+     "label": "本頁角色",
+     "value": "原創設計"
+    }
+   ],
+   "best_season_zh": "全年",
+   "tips_zh": "在福井站與恐龍博物館可見到相關周邊；活動日程見縣觀光網站。",
+   "tags": [
+    "吉祥物",
+    "恐龍",
+    "Juratic",
+    "原創"
+   ],
+   "sources": [
+    "https://allabout.co.jp/gm/gc/458870/"
+   ],
+   "confidence": "medium",
+   "prompt_en": "A cute small dinosaur character wearing a crab-shaped hat, standing on a rocky coast, pastel illustration. Original cute character, not replicating any existing trademarked mascot."
+  },
+  "scenery": {
+   "title_zh": "東尋坊",
+   "title_ja": "東尋坊",
+   "summary_zh": "柱狀節理的海蝕斷崖。",
+   "body_zh": "東尋坊位於坂井市三國町，是由輝石安山岩形成的柱狀節理海崖，長約1公里，被指定為國家天然紀念物與名勝。這種大規模的柱狀節理海岸，據說在全世界也相當罕見。名字傳說來自一位名為東尋坊的僧侶。崖邊風浪強勁，夕陽時分與冬季怒濤尤其壯觀。附近設有遊覽船與商店街，亦是福井縣最知名的觀光地之一。崖邊另有大池、雄島等景點，可搭配遊覽船與步道，形成海岸線半日行程。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "坂井市三國町"
+    },
+    {
+     "label": "地質",
+     "value": "輝石安山岩柱狀節理"
+    },
+    {
+     "label": "規模",
+     "value": "崖長約1公里"
+    },
+    {
+     "label": "指定",
+     "value": "天然紀念物、名勝"
+    }
+   ],
+   "best_season_zh": "全年，日落與冬季怒濤",
+   "tips_zh": "崖邊風大且無欄杆處多，請遠離邊緣，保持安全；冬季海浪特別危險。",
+   "tags": [
+    "斷崖",
+    "柱狀節理",
+    "日本海",
+    "夕陽"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/東尋坊",
+    "https://www.fuku-e.com/"
+   ],
+   "confidence": "high",
+   "prompt_en": "Tojinbo columnar basalt sea cliffs with crashing waves on the Sea of Japan, dramatic sunset sky"
+  },
+  "spot": {
+   "title_zh": "永平寺",
+   "title_ja": "永平寺",
+   "summary_zh": "曹洞宗大本山，禪修道場。",
+   "body_zh": "永平寺位於永平寺町，寬元2年（1244年）由道元禪師開創，是曹洞宗兩大本山之一，至今仍有約200位雲水（修行僧）在此生活。山內約70棟殿堂以迴廊相連，建於杉林之中。遊客可在規定範圍內參拜，並可預約參加坐禪或宿泊參禪，體驗清晨的靜坐與勤行。冬季積雪覆蓋殿堂時更顯莊嚴。參觀約需一小時，建議安排上午前往以避開團體；寺內停車場與接駁資訊可在官網查詢。",
+   "facts": [
+    {
+     "label": "開創",
+     "value": "1244年，道元禪師"
+    },
+    {
+     "label": "宗派",
+     "value": "曹洞宗大本山"
+    },
+    {
+     "label": "殿堂",
+     "value": "約70棟"
+    },
+    {
+     "label": "修行僧",
+     "value": "約200人（約數）"
+    }
+   ],
+   "best_season_zh": "秋季紅葉、冬季雪景",
+   "tips_zh": "寺內是修行場所，請保持安靜，部分區域禁止拍攝；穿著便於脫鞋的服裝。",
+   "tags": [
+    "禪寺",
+    "曹洞宗",
+    "杉林",
+    "修行"
+   ],
+   "sources": [
+    "https://daihonzan-eiheiji.com/",
+    "https://ja.wikipedia.org/wiki/永平寺"
+   ],
+   "confidence": "high",
+   "prompt_en": "Eiheiji Zen temple halls among tall cedar trees, mossy stone stairs, quiet morning mist"
+  },
+  "experience": {
+   "title_zh": "恐龍博物館",
+   "title_ja": "福井県立恐竜博物館",
+   "summary_zh": "全日本最大規模的恐龍博物館。",
+   "body_zh": "福井縣立恐龍博物館位於勝山市，2000年開館，是日本最大規模的恐龍專門博物館，也是世界三大恐龍博物館之一。勝山一帶出土福井龍、福井盜龍等多種恐龍化石。館內擁有約40具全身骨架，並設置化石發掘體驗區，2023年重新開館後展示規模擴大。外觀為大型橢圓形建築，位於山丘上。館內並提供解說導覽與工作坊，建議預留至少半天；親子遊客可同時參加戶外化石園區體驗。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "勝山市"
+    },
+    {
+     "label": "開館",
+     "value": "2000年（2023年重新開幕）"
+    },
+    {
+     "label": "展示",
+     "value": "約40具全身骨架"
+    },
+    {
+     "label": "體驗",
+     "value": "化石發掘"
+    }
+   ],
+   "best_season_zh": "全年，暑假與連假人多",
+   "tips_zh": "暑假與假日很擁擠，建議提早預約；化石發掘體驗多為預約制。",
+   "tags": [
+    "恐龍",
+    "博物館",
+    "化石",
+    "親子"
+   ],
+   "sources": [
+    "https://www.dinosaur.pref.fukui.jp/",
+    "https://ja.wikipedia.org/wiki/福井県立恐竜博物館"
+   ],
+   "confidence": "high",
+   "prompt_en": "Children brushing fossil dig site replica beside a huge dinosaur skeleton in a bright museum hall"
+  },
+  "costume": {
+   "title_zh": "越前蟹漁師打扮",
+   "title_ja": "漁師の装い",
+   "summary_zh": "漁師的橡膠圍裙與頭巾。",
+   "body_zh": "福井縣的漁師在日本海捕撈越前蟹，作業時穿著防水橡膠圍裙與長靴，頭上綁毛巾防風寒，手戴厚實橡膠手套。越前蟹漁期在冬季，海上風浪大，漁船需於凌晨出海，作業環境嚴苛。港口邊的市場可見到漁師拍賣與整理漁獲的景象。本頁以匿名模特兒呈現日常職人裝束，不指向特定人物。福井縣沿海的漁師社群也積極推廣蟹的品牌化，在拍賣時使用標準等級與標籤確保品質與產地。",
+   "facts": [
+    {
+     "label": "衣著",
+     "value": "橡膠圍裙、長靴、頭巾"
+    },
+    {
+     "label": "漁期",
+     "value": "約11月–3月"
+    },
+    {
+     "label": "漁港",
+     "value": "三國港、越前町等"
+    },
+    {
+     "label": "拍賣",
+     "value": "凌晨港邊市場"
+    }
+   ],
+   "best_season_zh": "11月–3月",
+   "tips_zh": "拍攝港邊作業請先徵得同意，避免妨礙作業。",
+   "tags": [
+    "漁師",
+    "越前蟹",
+    "職人",
+    "服飾"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/越前ガニ",
+    "https://www.fuku-e.com/"
+   ],
+   "confidence": "low",
+   "prompt_en": "Anonymous fisher model in weathered rubber apron and head towel standing on a Fukui fishing harbor pier at dawn"
+  }
+ },
+ "areas": [
+  {
+   "id": "fukui_tojinbo",
+   "name_zh": "東尋坊",
+   "name_ja": "東尋坊",
+   "intro_zh": "東尋坊位於福井縣北部的三國町，以柱狀節理海崖聞名，是日本海沿岸的代表景點。這一帶同時是越前蟹的主要漁港，三國港一帶冬季海鮮餐廳林立，傍晚夕陽映照海面與斷崖，景色壯麗。",
+   "items": {
+    "spot": {
+     "title_zh": "東尋坊柱狀節理",
+     "title_ja": "東尋坊",
+     "summary_zh": "長約一公里的海蝕斷崖。",
+     "body_zh": "東尋坊的柱狀節理由輝石安山岩構成，海崖長約1公里，是國家天然紀念物。可沿崖邊步道觀賞，也可搭遊覽船從海面看全景。崖邊地形危險，請遵守指示，勿越過安全線。周邊景點與設施的營業時間因季節而異，出發前建議查詢官方資訊。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "坂井市三國町"
+      },
+      {
+       "label": "地質",
+       "value": "輝石安山岩柱狀節理"
+      },
+      {
+       "label": "指定",
+       "value": "天然紀念物、名勝"
+      },
+      {
+       "label": "遊覽",
+       "value": "遊覽船（季節性）"
+      }
+     ],
+     "best_season_zh": "全年，日落",
+     "tips_zh": "強風與高浪下請勿靠近崖邊。",
+     "tags": [
+      "斷崖",
+      "節理",
+      "日本海"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/東尋坊"
+     ],
+     "confidence": "high",
+     "prompt_en": "Tojinbo columnar basalt sea cliffs with crashing waves on the Sea of Japan, dramatic sunset sky"
+    },
+    "food": {
+     "title_zh": "越前蟹",
+     "title_ja": "越前ガニ",
+     "summary_zh": "冬季福井港的雄蟹。",
+     "body_zh": "越前蟹是福井縣冬季代表海產，漁期約11月6日至3月，須佩帶黃色標籤。可蒸、煮、做成刺身或火鍋。三國港與越前町是主要產地，旅館常提供蟹宴套餐。周邊景點與設施的營業時間因季節而異，出發前建議查詢官方資訊。",
+     "facts": [
+      {
+       "label": "漁期",
+       "value": "約11月6日–3月"
+      },
+      {
+       "label": "標籤",
+       "value": "黃色標籤"
+      },
+      {
+       "label": "吃法",
+       "value": "蒸煮、刺身、火鍋"
+      },
+      {
+       "label": "產地",
+       "value": "三國港、越前町"
+      }
+     ],
+     "best_season_zh": "11月–3月",
+     "tips_zh": "價格高，建議預約；選擇附標籤的店家。",
+     "tags": [
+      "越前蟹",
+      "冬季",
+      "海鮮"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/越前ガニ"
+     ],
+     "confidence": "high",
+     "prompt_en": "Boiled red Echizen crab on a platter with tag, tabletop shot, warm light"
+    },
+    "scenery": {
+     "title_zh": "三國海岸日落",
+     "title_ja": "三国海岸の夕日",
+     "summary_zh": "日本海岸傍晚的海面金光。",
+     "body_zh": "三國海岸面向日本海，傍晚日落時海面與斷崖被染成金橙色，波浪拍打岩礁。冬季雲層與浪花交織，景色更顯壯闊。海岸沿線有步道與觀景台，適合拍攝落日。周邊景點與設施的營業時間因季節而異，出發前建議查詢官方資訊。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "坂井市三國町"
+      },
+      {
+       "label": "時段",
+       "value": "傍晚日落"
+      },
+      {
+       "label": "景觀",
+       "value": "海面、岩礁"
+      },
+      {
+       "label": "設施",
+       "value": "步道、觀景台"
+      }
+     ],
+     "best_season_zh": "全年，冬季更壯闊",
+     "tips_zh": "海邊風大，穿著保暖並遠離浪濤。",
+     "tags": [
+      "日落",
+      "海岸",
+      "日本海"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/坂井市",
+      "https://www.fuku-e.com/"
+     ],
+     "confidence": "low",
+     "prompt_en": "Sunset over the Sea of Japan at the Mikuni coast, golden light on rocks and waves, calm composition"
+    }
+   }
+  },
+  {
+   "id": "fukui_eiheiji",
+   "name_zh": "永平寺",
+   "name_ja": "永平寺",
+   "intro_zh": "永平寺町位於福井市東郊，因曹洞宗大本山永平寺而聞名。這裡的山林幽靜，杉木參天，寺內仍保持嚴格的修行生活，遊客可參觀殿堂或預約參禪。附近還有一乘谷遺跡等歷史景點，適合安排半日到一日的靜心旅行。",
+   "items": {
+    "spot": {
+     "title_zh": "永平寺",
+     "title_ja": "永平寺",
+     "summary_zh": "曹洞宗大本山。",
+     "body_zh": "永平寺由道元禪師於1244年開創，是曹洞宗的修行中心，山內約70棟殿堂由迴廊連接，約有200名修行僧生活其中。遊客可在指定路線參觀，並可預約參禪。周邊景點與設施的營業時間因季節而異，出發前建議查詢官方資訊。",
+     "facts": [
+      {
+       "label": "開創",
+       "value": "1244年"
+      },
+      {
+       "label": "開山",
+       "value": "道元禪師"
+      },
+      {
+       "label": "殿堂",
+       "value": "約70棟"
+      },
+      {
+       "label": "參禪",
+       "value": "需預約"
+      }
+     ],
+     "best_season_zh": "秋季、冬季",
+     "tips_zh": "寺內禁止喧譁，注意禮儀。",
+     "tags": [
+      "禪寺",
+      "曹洞宗",
+      "修行"
+     ],
+     "sources": [
+      "https://daihonzan-eiheiji.com/",
+      "https://ja.wikipedia.org/wiki/永平寺"
+     ],
+     "confidence": "high",
+     "prompt_en": "Eiheiji Zen temple halls among tall cedar trees, mossy stone stairs, quiet morning mist"
+    },
+    "food": {
+     "title_zh": "永平寺素齋精進料理",
+     "title_ja": "精進料理",
+     "summary_zh": "禪寺的素食料理。",
+     "body_zh": "精進料理是禪宗寺院的素食，不使用肉與魚，以蔬菜、豆腐、麩與海藻為主，重視簡樸與季節感。永平寺周邊有餐廳提供精進料理套餐，也可在寺內參禪時體驗修行僧的飲食禮儀。周邊景點與設施的營業時間因季節而異，出發前建議查詢官方資訊。",
+     "facts": [
+      {
+       "label": "特色",
+       "value": "不使用肉魚"
+      },
+      {
+       "label": "食材",
+       "value": "蔬菜、豆腐、麩"
+      },
+      {
+       "label": "供應",
+       "value": "寺院及周邊餐廳"
+      },
+      {
+       "label": "理念",
+       "value": "簡樸與感謝"
+      }
+     ],
+     "best_season_zh": "全年",
+     "tips_zh": "部分餐廳需預約，用餐時請保持安靜。",
+     "tags": [
+      "精進料理",
+      "素食",
+      "禪"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/精進料理"
+     ],
+     "confidence": "medium",
+     "prompt_en": "Traditional Buddhist shojin ryori vegetarian meal on lacquer trays in a quiet temple dining room, soft light"
+    },
+    "scenery": {
+     "title_zh": "永平寺杉林參道",
+     "title_ja": "永平寺の杉並木",
+     "summary_zh": "參道兩側的參天古杉。",
+     "body_zh": "永平寺的參道兩旁是高聳古杉，樹齡可達數百年，晨間薄霧中光線穿透樹冠，氣氛靜謐。四季各有風貌，冬季積雪時最為莊嚴。參道石階有青苔，需小心行走。周邊景點與設施的營業時間因季節而異，出發前建議查詢官方資訊。",
+     "facts": [
+      {
+       "label": "特色",
+       "value": "古杉林"
+      },
+      {
+       "label": "季節",
+       "value": "全年皆宜"
+      },
+      {
+       "label": "最佳",
+       "value": "晨霧、雪景"
+      },
+      {
+       "label": "注意",
+       "value": "石階有青苔"
+      }
+     ],
+     "best_season_zh": "全年，晨霧與冬季",
+     "tips_zh": "石階濕滑，穿好走鞋；請勿攀折。",
+     "tags": [
+      "杉林",
+      "參道",
+      "霧"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/永平寺"
+     ],
+     "confidence": "low",
+     "prompt_en": "Avenue of ancient cedar trees leading to Eiheiji temple in morning mist, stone steps with moss"
+    }
+   }
+  },
+  {
+   "id": "fukui_obama",
+   "name_zh": "小濱",
+   "name_ja": "小浜",
+   "intro_zh": "小濱位於福井縣西南部的若狹灣，自古是將海產與鹽運往京都的「鯖街道」起點，保留古老的町並與寺社。烤鯖魚壽司、若狹灣沿岸與鄰近的三方五湖，構成這裡風格溫和的海岸風景。",
+   "items": {
+    "spot": {
+     "title_zh": "小濱西組町並",
+     "title_ja": "小浜の町並み",
+     "summary_zh": "保留鯖街道起點的古街區。",
+     "body_zh": "小濱西組地區是舊茶屋町與商家町，2008年被指定為重要傳統建造物群保存地區，石板路旁保存著江戶至明治時期的町家。這裡是「鯖街道」的起點，歷史上若狹的魚貨與鹽經此運往京都，今日仍可見到傳統店舖與寺社。周邊景點與設施的營業時間因季節而異，出發前建議查詢官方資訊。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "小濱市"
+      },
+      {
+       "label": "指定",
+       "value": "重要傳統建造物群保存地區（2008）"
+      },
+      {
+       "label": "歷史",
+       "value": "鯖街道起點"
+      },
+      {
+       "label": "景觀",
+       "value": "町家、石板路"
+      }
+     ],
+     "best_season_zh": "全年",
+     "tips_zh": "街區範圍不大，可步行一至兩小時；注意居民生活。",
+     "tags": [
+      "古街",
+      "鯖街道",
+      "町家"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/小浜市",
+      "https://ja.wikipedia.org/wiki/鯖街道"
+     ],
+     "confidence": "medium",
+     "prompt_en": "Old Obama district with traditional wooden townhouses along a quiet stone-paved street, soft morning light, no people"
+    },
+    "food": {
+     "title_zh": "烤鯖魚壽司",
+     "title_ja": "焼き鯖寿司",
+     "summary_zh": "若狹名產的鯖魚壽司。",
+     "body_zh": "烤鯖魚壽司是將鹽烤鯖魚鋪在醋飯上壓製而成，起源與鯖街道有關。若狹灣捕獲的鯖魚經鹽漬後運往京都，也衍生出多種鯖魚料理。小濱的店家常以炭火燒烤，香氣濃郁。周邊景點與設施的營業時間因季節而異，出發前建議查詢官方資訊。",
+     "facts": [
+      {
+       "label": "做法",
+       "value": "烤鯖魚+醋飯"
+      },
+      {
+       "label": "起源",
+       "value": "鯖街道運魚文化"
+      },
+      {
+       "label": "烹調",
+       "value": "炭火燒烤"
+      },
+      {
+       "label": "產地",
+       "value": "若狹灣、小濱"
+      }
+     ],
+     "best_season_zh": "全年",
+     "tips_zh": "建議當日購買食用；也可在小濱車站周邊購買。",
+     "tags": [
+      "鯖魚",
+      "壽司",
+      "若狹"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/鯖寿司",
+      "https://ja.wikipedia.org/wiki/鯖街道"
+     ],
+     "confidence": "medium",
+     "prompt_en": "Grilled mackerel pressed sushi sliced on a wooden board, tabletop shot, warm light"
+    },
+    "scenery": {
+     "title_zh": "若狹灣海岸",
+     "title_ja": "若狭湾",
+     "summary_zh": "複雜曲折的海岸線。",
+     "body_zh": "若狹灣是日本海的海灣，海岸線複雜曲折，形成多處入江與島嶼，景色細緻。附近有三方五湖的湖光水色，海面平靜時適合遊船與散步。周邊景點與設施的營業時間因季節而異，出發前建議查詢官方資訊。",
+     "facts": [
+      {
+       "label": "類型",
+       "value": "海灣、複雜海岸線"
+      },
+      {
+       "label": "附近",
+       "value": "三方五湖"
+      },
+      {
+       "label": "活動",
+       "value": "遊船、散步"
+      },
+      {
+       "label": "景觀",
+       "value": "入江與島嶼"
+      }
+     ],
+     "best_season_zh": "春至秋",
+     "tips_zh": "海邊風大，注意防曬。",
+     "tags": [
+      "海灣",
+      "海岸",
+      "若狹"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/若狭湾"
+     ],
+     "confidence": "low",
+     "prompt_en": "Wakasa Bay coast with calm inlet, small fishing boats and green hills, soft afternoon light"
+    }
+   }
+  },
+  {
+   "id": "fukui_echizen_city",
+   "name_zh": "越前市",
+   "name_ja": "越前市",
+   "intro_zh": "越前市位於福井縣中部的武生盆地，是越前和紙與傳統工藝的產地，並有越前蘿蔔泥蕎麥麵等地方料理。市內有岡太神社・大瀧神社與「紙之里」等場所，田園風景與工藝文化交織，適合體驗手作與品嚐蕎麥。",
+   "items": {
+    "spot": {
+     "title_zh": "越前和紙之里",
+     "title_ja": "越前和紙の里",
+     "summary_zh": "和紙工房與紙神社所在。",
+     "body_zh": "越前和紙之里位於越前市今立地區，設有紙文化博物館、卯立工藝館與抄紙體驗設施，並鄰近供奉紙神的岡太神社・大瀧神社。遊客可學習歷史與抄紙工序，並購買工藝紙製品。周邊景點與設施的營業時間因季節而異，出發前建議查詢官方資訊。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "越前市今立地區"
+      },
+      {
+       "label": "設施",
+       "value": "博物館、工藝館、體驗"
+      },
+      {
+       "label": "紙神社",
+       "value": "岡太神社・大瀧神社"
+      },
+      {
+       "label": "體驗",
+       "value": "抄紙"
+      }
+     ],
+     "best_season_zh": "全年",
+     "tips_zh": "體驗需預約；紙製品易受潮，包裝好。",
+     "tags": [
+      "和紙",
+      "工藝",
+      "博物館"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/越前和紙",
+      "https://www.fuku-e.com/"
+     ],
+     "confidence": "medium",
+     "prompt_en": "Echizen washi village workshop entrance with traditional paper drying boards and a gentle stream, soft morning light"
+    },
+    "food": {
+     "title_zh": "越前蘿蔔泥蕎麥麵",
+     "title_ja": "越前おろしそば",
+     "summary_zh": "蘿蔔泥搭配蕎麥麵。",
+     "body_zh": "越前蘿蔔泥蕎麥麵是福井的代表鄉土料理，將辣味蘿蔔泥與醬汁淋在蕎麥麵上，直接冷食，口感清爽。福井縣盛產蕎麥，傳統上蘿蔔泥與蕎麥搭配，無需過多調味。周邊景點與設施的營業時間因季節而異，出發前建議查詢官方資訊。",
+     "facts": [
+      {
+       "label": "特色",
+       "value": "辛味蘿蔔泥+冷麵"
+      },
+      {
+       "label": "原料",
+       "value": "在地蕎麥"
+      },
+      {
+       "label": "吃法",
+       "value": "直接淋醬汁"
+      },
+      {
+       "label": "產地",
+       "value": "福井縣，越前地區"
+      }
+     ],
+     "best_season_zh": "秋季（新蕎麥）",
+     "tips_zh": "新蕎麥上市約秋季，品質最佳。",
+     "tags": [
+      "蕎麥麵",
+      "蘿蔔泥",
+      "鄉土料理"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/越前そば",
+      "https://ja.wikipedia.org/wiki/越前市"
+     ],
+     "confidence": "medium",
+     "prompt_en": "Cold soba noodles topped with grated daikon radish in a ceramic bowl, wooden table, soft light"
+    },
+    "scenery": {
+     "title_zh": "武生盆地田園",
+     "title_ja": "武生盆地の田園風景",
+     "summary_zh": "盆地稻田與遠山。",
+     "body_zh": "武生盆地是越前市的平原，周圍群山環繞，稻田與村落錯落。夏季稻浪翻滾，秋季金黃稻穗，遠處山脈層次分明。田園之間有工藝工房與古老神社，風景平和。周邊景點與設施的營業時間因季節而異，出發前建議查詢官方資訊。",
+     "facts": [
+      {
+       "label": "地形",
+       "value": "盆地"
+      },
+      {
+       "label": "景觀",
+       "value": "稻田、村落、遠山"
+      },
+      {
+       "label": "季節",
+       "value": "夏綠秋黃"
+      },
+      {
+       "label": "附近",
+       "value": "和紙工房、神社"
+      }
+     ],
+     "best_season_zh": "夏季（綠）、秋季（金）",
+     "tips_zh": "適合騎自行車或自駕慢遊。",
+     "tags": [
+      "田園",
+      "盆地",
+      "稻田"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/越前市",
+      "https://ja.wikipedia.org/wiki/武生盆地"
+     ],
+     "confidence": "low",
+     "prompt_en": "Takefu basin rice paddies in late summer with distant green mountains and a small village, golden evening light"
+    }
+   }
+  }
+ ]
+}

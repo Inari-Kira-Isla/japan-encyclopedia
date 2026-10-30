@@ -1,0 +1,277 @@
+{
+ "id": "saitama",
+ "foods": [
+  {
+   "title_zh": "草加煎餅",
+   "title_ja": "草加せんべい",
+   "category": "甜點和菓子",
+   "summary_zh": "以粳米烤製、醬油刷面的硬脆米果，草加宿名物。",
+   "body_zh": "草加せんべい是埼玉縣草加市的代表名產，以粳米製成，經蒸、搗、成形後曬乾，再以炭火或電爐烤製並刷上醬油。口感硬脆、米香濃郁，需要用力咬才能嘗到風味。草加為日光街道的宿場町，傳說煎餅隨旅人流傳開來，如今市內仍有許多老店。如今草加市內有煎餅體驗工坊，可以自己烤製並刷醬油。除了原味醬油，也有海苔、七味辣椒與甜口等多種口味。",
+   "facts": [
+    {
+     "label": "起源",
+     "value": "傳說起於江戶時代的草加宿，細節說法不一"
+    },
+    {
+     "label": "主要食材",
+     "value": "粳米、醬油"
+    },
+    {
+     "label": "吃法",
+     "value": "直接咬食，配茶"
+    }
+   ],
+   "season_zh": "全年",
+   "where_zh": "草加市的煎餅老店與車站周邊",
+   "tags": [
+    "煎餅",
+    "米果",
+    "醬油",
+    "伴手禮"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/草加せんべい"
+   ],
+   "confidence": "medium",
+   "prompt_en": "Several round soy-glazed Soka senbei rice crackers stacked on a small ceramic plate beside a cup of green tea, wooden table, soft natural light, no text"
+  },
+  {
+   "title_zh": "炸薯餅",
+   "title_ja": "ゼリーフライ",
+   "category": "B級美食",
+   "summary_zh": "行田市的炸豆渣馬鈴薯餅，形似小判而得名。",
+   "body_zh": "ゼリーフライ是埼玉縣行田市的B級美食，由豆渣、馬鈴薯和蔬菜拌勻後炸成小判形，沾上醬汁食用。名字來自外形像「銭フライ」而訛傳為Jelly Fry，並非果凍。口感鬆軟帶些許嚼勁，是當地街頭小吃，與行田的炸麵包（フライ）並列地方代表。食用時以醬汁調味，常裝在紙袋或小盤中邊走邊吃。價格便宜、份量不大，適合在逛行田古蹟之餘當點心，也是了解地方庶民飲食的入口。",
+   "facts": [
+    {
+     "label": "起源",
+     "value": "傳說與行田足袋產業的職人小食有關，細節未詳"
+    },
+    {
+     "label": "主要食材",
+     "value": "豆渣、馬鈴薯、蔬菜"
+    },
+    {
+     "label": "吃法",
+     "value": "沾醬汁現炸食用"
+    }
+   ],
+   "season_zh": "全年",
+   "where_zh": "行田市的老店與地方活動",
+   "tags": [
+    "炸物",
+    "B級美食",
+    "行田",
+    "小吃"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/ゼリーフライ"
+   ],
+   "confidence": "medium",
+   "prompt_en": "Two golden oval fried Jelly Fry cakes on paper, brushed with brown sauce, on a simple plate on a wooden counter, warm light, single dish, no text"
+  },
+  {
+   "title_zh": "狹山茶",
+   "title_ja": "狭山茶",
+   "category": "酒與飲品",
+   "summary_zh": "埼玉入間、狹山一帶的茶，氣味濃郁、風味醇厚。",
+   "body_zh": "狭山茶是埼玉縣入間市、所沢市等地所產的茶，位處日本茶產地的北限之一，冬季寒冷使茶葉厚實，風味濃郁醇厚。以煎茶為主，以「色は静岡、香りは宇治、味は狭山」的俗語聞名。製成後經過火入的加工，帶有獨特香氣，是埼玉的代表飲品。茶園多分布在丘陵地形上，採摘期在5月前後。當地有多家茶行提供試飲，也有茶點與抹茶甜點。購買新茶時留意製造日期，沖泡水溫約八十度為宜。",
+   "facts": [
+    {
+     "label": "產地",
+     "value": "埼玉縣入間、所沢一帶"
+    },
+    {
+     "label": "特色",
+     "value": "火入工序，味濃"
+    },
+    {
+     "label": "吃法",
+     "value": "煎茶熱沖"
+    }
+   ],
+   "season_zh": "新茶為5月",
+   "where_zh": "入間市、所沢市茶園與茶行",
+   "tags": [
+    "茶",
+    "煎茶",
+    "入間",
+    "飲品"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/狭山茶"
+   ],
+   "confidence": "medium",
+   "prompt_en": "A small ceramic cup of bright green Sayama tea beside a Japanese iron kyusu teapot on a wooden tray, steam rising, soft window light, no text"
+  },
+  {
+   "title_zh": "炸豬排蓋飯",
+   "title_ja": "わらじカツ丼",
+   "category": "麵飯",
+   "summary_zh": "秩父名物，兩片鞋底大小的豬排蓋在飯上。",
+   "body_zh": "わらじカツ丼是埼玉縣秩父地區的名物，把兩片如草鞋般大的豬排鋪在白飯上，淋上甜鹹醬汁。與一般蛋汁豬排丼不同，以醬汁調味，炸衣酥脆。秩父地區的飲食店常見此料理，份量十足，是登山與觀光客熟悉的在地美食。醬汁以醬油為基底，略帶甜味，淋在炸衣上而不使其過度濕軟。許多店家同時提供味噌湯與漬物，一份可吃得非常飽足。",
+   "facts": [
+    {
+     "label": "起源",
+     "value": "傳說起於秩父的食堂，細節未詳"
+    },
+    {
+     "label": "主要食材",
+     "value": "豬排、白飯、醬汁"
+    },
+    {
+     "label": "吃法",
+     "value": "整片蓋飯大口吃"
+    }
+   ],
+   "season_zh": "全年",
+   "where_zh": "秩父市的食堂與觀光區餐廳",
+   "tags": [
+    "豬排丼",
+    "秩父",
+    "醬汁",
+    "大份量"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/カツ丼"
+   ],
+   "confidence": "low",
+   "prompt_en": "A bowl of Chichibu waraji katsudon with two large flat crisp pork cutlets glazed in brown sauce over rice, ceramic bowl on a wooden table, warm soft light, single dish, no text"
+  },
+  {
+   "title_zh": "深谷蔥",
+   "title_ja": "深谷ねぎ",
+   "category": "特產食材",
+   "summary_zh": "深谷市出產的白蔥，肥厚甘甜，冬季尤其受歡迎。",
+   "body_zh": "深谷ねぎ是埼玉縣深谷市的名產，屬於根深蔥，白色部分長且肥厚，柔軟甘甜。利根川沖積土壤與冬季的氣候使蔥品質出眾，是全國知名的蔬菜產地。適合煮湯、鍋物與燒烤，是關東冬季料理的重要食材。深谷蔥的煮食特點是煮熟後白色部分滑嫩，清甜味明顯。市內也有以深谷蔥入菜的拉麵、天婦羅與蔥燒料理，值得在冬季前往品嘗。",
+   "facts": [
+    {
+     "label": "產地",
+     "value": "埼玉縣深谷市"
+    },
+    {
+     "label": "主要食材",
+     "value": "白蔥"
+    },
+    {
+     "label": "吃法",
+     "value": "鍋物、燒烤、煮湯"
+    }
+   ],
+   "season_zh": "11月至2月",
+   "where_zh": "深谷市農產直銷所與鍋物店",
+   "tags": [
+    "蔥",
+    "深谷",
+    "冬季",
+    "蔬菜"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/深谷ねぎ"
+   ],
+   "confidence": "medium",
+   "prompt_en": "A bundle of fresh Fukaya leeks with thick white stalks and green tops on a wooden board, a few slices cut aside, soft natural light, single subject, no text"
+  },
+  {
+   "title_zh": "浦和鰻魚飯",
+   "title_ja": "浦和のうなぎ",
+   "category": "海鮮",
+   "summary_zh": "浦和以鰻魚聞名，蒲燒鰻魚搭配白飯。",
+   "body_zh": "浦和曾是鰻魚的知名產地，市內保留多家老字號鰻魚店，供應關東風蒲燒：背部剖開後先蒸再烤，刷上醬汁。口感柔軟、醬香濃郁，常以鰻重（鰻魚飯盒）形式提供。夏季土用丑日更是熱鬧，是浦和代表性的美食。關東風做法與關西不同，會先蒸去多餘脂肪再烤，口感更加柔軟。浦和的鰻魚店歷史悠久，部分老店仍使用傳承的醬汁，慢慢熬煮保存。",
+   "facts": [
+    {
+     "label": "特色",
+     "value": "關東風，先蒸再烤"
+    },
+    {
+     "label": "主要食材",
+     "value": "鰻魚、醬汁、白飯"
+    },
+    {
+     "label": "吃法",
+     "value": "鰻重配肝吸"
+    }
+   ],
+   "season_zh": "夏季土用丑日最盛",
+   "where_zh": "埼玉市浦和區老鰻魚店",
+   "tags": [
+    "鰻魚",
+    "蒲燒",
+    "浦和",
+    "鰻重"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/ウナギ"
+   ],
+   "confidence": "low",
+   "prompt_en": "A lacquer box unajyu of glossy kabayaki eel over rice with a bowl of clear soup beside it, dark wooden table, warm soft light, single dish, no text"
+  },
+  {
+   "title_zh": "刺球饅頭",
+   "title_ja": "いがまんじゅう",
+   "category": "鄉土料理",
+   "summary_zh": "埼玉東部的豆餡饅頭，外裹紅色糯米粒似刺球。",
+   "body_zh": "いがまんじゅう是埼玉縣東部的鄉土點心，在豆沙饅頭外層裹上染成紅色或原色的糯米粒，外形像栗子的刺球而得名。蒸熟後糯米粒軟黏，內餡甘甜，常見於祭典和節日。屬於農家的手作點心，在熊谷、行田一帶常見。外層的糯米粒摸起來有點黏，咬下時能同時嘗到糯米的彈牙和豆餡的甜味。現在仍有地方團體與點心店保存這個傳統，向遊客介紹。",
+   "facts": [
+    {
+     "label": "起源",
+     "value": "農家節慶點心，細節未詳"
+    },
+    {
+     "label": "主要食材",
+     "value": "糯米、豆沙"
+    },
+    {
+     "label": "吃法",
+     "value": "蒸熟後趁熱"
+    }
+   ],
+   "season_zh": "祭典與節日",
+   "where_zh": "熊谷、行田一帶的鄉土點心店",
+   "tags": [
+    "饅頭",
+    "糯米",
+    "節慶",
+    "點心"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/饅頭"
+   ],
+   "confidence": "low",
+   "prompt_en": "Several steamed igamanju buns covered in red-tinted glutinous rice grains arranged in a bamboo steamer, wooden table, soft steam, warm light, single dish, no text"
+  },
+  {
+   "title_zh": "加須烏龍麵",
+   "title_ja": "加須うどん",
+   "category": "麵飯",
+   "summary_zh": "加須市的手打烏龍麵，麵粗而有嚼勁。",
+   "body_zh": "加須うどん是埼玉縣加須市的名物，以當地小麥手打製成，麵條粗、有嚼勁。冷食時搭配醬油沾汁，熱食則配蔬菜湯。當地推動「加須手打うどん」的品牌，市內有多家專門店。埼玉縣的小麥麵食文化在這一帶尤其突出。加須市每年有手打烏龍麵的活動，也有麵店提供手打體驗。麵條粗細不均反而是手工的特點，吃起來彈牙，沾汁或熱湯皆宜。",
+   "facts": [
+    {
+     "label": "特色",
+     "value": "手打粗麵"
+    },
+    {
+     "label": "主要食材",
+     "value": "小麥粉、鹽、水"
+    },
+    {
+     "label": "吃法",
+     "value": "冷麵沾汁"
+    }
+   ],
+   "season_zh": "全年",
+   "where_zh": "加須市手打烏龍麵店",
+   "tags": [
+    "烏龍麵",
+    "手打",
+    "加須",
+    "麵飯"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/うどん"
+   ],
+   "confidence": "low",
+   "prompt_en": "A bamboo zaru tray of thick hand-cut udon noodles with a dipping broth bowl and sliced scallion beside, wooden table, soft daylight, single dish, no text"
+  }
+ ]
+}

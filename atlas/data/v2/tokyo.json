@@ -1,0 +1,493 @@
+{
+ "id": "tokyo",
+ "name_zh": "東京",
+ "name_ja": "東京都",
+ "region": "關東",
+ "overview": {
+  "intro_zh": "東京都位於關東平原南端，面積約2,194平方公里，人口逾1,400萬，是日本首都與政治、經濟、文化中心。前身為德川幕府所在的江戶，1868年明治維新後改稱東京。全都包含23特別區、26市、5町8村，西部有奧多摩山地，南方海上更有遠離本土約1,000公里的小笠原諸島。這裡既有淺草寺與江戶城跡的歷史，也有澀谷、新宿的前衛都會風景，新舊並存是最大魅力。每年吸引數千萬旅客到訪。",
+  "capital_zh": "東京（新宿）",
+  "area_km2": 2194,
+  "population_approx": "約1,400萬",
+  "flower_zh": "染井吉野櫻",
+  "bird_zh": "紅嘴鷗（都鳥）",
+  "tree_zh": "銀杏",
+  "climate_zh": "屬溫暖濕潤氣候，夏季悶熱多雨，冬季乾燥晴朗，很少下雪。",
+  "access_zh": "羽田與成田兩大機場，東京站是新幹線樞紐，JR山手線串連主要市區。",
+  "specialties_zh": [
+   "江戶前壽司",
+   "最中與淺草和菓子",
+   "江戶切子",
+   "佃煮",
+   "東京Banana",
+   "深川飯"
+  ],
+  "best_season_zh": "3月底至4月初賞櫻，11月下旬賞銀杏與楓葉，氣候最舒適。"
+ },
+ "items": {
+  "architecture": {
+   "title_zh": "東京車站丸之內站舍",
+   "title_ja": "東京駅丸の内駅舎",
+   "summary_zh": "紅磚與圓頂交織的大正名建築。",
+   "body_zh": "東京車站丸之內站舍由建築家辰野金吾設計，1914年12月啟用，磚造三層，兩端有圓頂，是日本近代建築代表作。1945年5月空襲燒毀圓頂與三樓，戰後以兩層簡化修復。2012年10月完成約五年的復原工程，重現開業時的外觀與兩座圓頂，並被指定為重要文化財。夜間打燈後暖色磚牆格外好看，站前行幸通可直望皇居，是東京最具代表性的歷史門面。站內另有東京車站飯店，內部可見保留的紅磚牆。丸之內南北兩側的圓頂大廳挑高，天花板有八隻鷹的浮雕與干支裝飾，是許多旅客出站後第一眼驚艷之處，值得停下抬頭欣賞。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "千代田區丸之內"
+    },
+    {
+     "label": "啟用",
+     "value": "1914年12月20日"
+    },
+    {
+     "label": "設計",
+     "value": "辰野金吾"
+    },
+    {
+     "label": "復原",
+     "value": "2012年10月完成"
+    }
+   ],
+   "best_season_zh": "全年；黃昏點燈後最美",
+   "tips_zh": "在丸之內廣場或KITTE屋上庭園可拍到站舍全景，傍晚到夜間光線最理想。站內北、南圓頂天花板的浮雕也別錯過，抬頭細看。",
+   "tags": [
+    "近代建築",
+    "紅磚",
+    "重要文化財",
+    "車站"
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Tokyo_Station"
+   ],
+   "confidence": "high",
+   "prompt_en": "Tokyo Station Marunouchi red-brick building with two domes lit warmly at twilight, wide plaza in foreground, symmetrical front view, deep blue sky"
+  },
+  "food": {
+   "title_zh": "江戶前壽司",
+   "title_ja": "江戸前寿司",
+   "summary_zh": "江戶灣取材的握壽司發源地。",
+   "body_zh": "江戶前壽司起源於江戶時代，原指用東京灣（江戶前）捕到的魚製作的握壽司。當時沒有冷藏技術，師傅以醋漬、醬油醃漬、燙煮等方式處理魚料，如小肌、鰆、星鰻，味道層次鮮明。握壽司在江戶後期成為街頭小吃，今日發展成高級料理。築地場外與豐洲一帶有許多名店，從站著吃的平價壽司到需預約的高級吧台都有，各具特色。近年也興起無預約的立食壽司與迴轉壽司，價位親民，讓旅客可輕鬆體驗。若想吃到最新鮮的江戶前風味，可挑選當季的時令魚，並請師傅依序推薦，通常從白身魚開始，最後以玉子或卷物收尾。",
+   "facts": [
+    {
+     "label": "起源",
+     "value": "江戶時代後期"
+    },
+    {
+     "label": "代表食材",
+     "value": "小肌、星鰻、鮪魚、玉子"
+    },
+    {
+     "label": "吃法",
+     "value": "直接用手拿，沾少許醬油"
+    },
+    {
+     "label": "名店區",
+     "value": "銀座、築地、豐洲"
+    }
+   ],
+   "best_season_zh": "全年",
+   "tips_zh": "高級店多須事前預約；初次嘗試可選午間套餐，價錢較親民。可請師傅推薦當日時令魚，並依白身、光物、鮪魚的順序品嘗。",
+   "tags": [
+    "壽司",
+    "江戶前",
+    "名物",
+    "美食"
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Sushi"
+   ],
+   "confidence": "medium",
+   "prompt_en": "Edomae nigiri sushi on a hinoki counter freshly made by a chef's hands, tuna, shrimp, conger eel, warm light, close-up"
+  },
+  "culture": {
+   "title_zh": "三社祭",
+   "title_ja": "三社祭",
+   "summary_zh": "淺草神社的盛大抬神轎祭典。",
+   "body_zh": "三社祭是淺草神社的例大祭，每年5月第三個週末舉行，與神田祭、山王祭並稱東京三大祭。傳說628年，檜前濱成與竹成兄弟在隅田川撈到觀音像，與土師真中知三人後來被祀為淺草神社祭神，祭名因此為「三社」。週日三座本社神轎各約一噸，由眾多抬轎人在淺草街頭抬行，法被與刺青的氣勢十足，三日參與者據稱達150至200萬人。祭典期間，淺草街頭有鼓樂、町會遊行與街邊小吃，氣氛如同整區的大型慶典。三社祭也是江戶庶民信仰的縮影，至今仍保留濃厚的下町人情，前一日還有「檢番」藝妓的花街遊行。",
+   "facts": [
+    {
+     "label": "時節",
+     "value": "5月第三個週末（三日）"
+    },
+    {
+     "label": "地點",
+     "value": "淺草神社、淺草寺周邊"
+    },
+    {
+     "label": "起源",
+     "value": "傳說628年"
+    },
+    {
+     "label": "特色",
+     "value": "約一噸的三座本社神轎"
+    }
+   ],
+   "best_season_zh": "5月中下旬",
+   "tips_zh": "人潮極擁擠，宜提早到場；神轎行進時請留意安全距離，勿越過警戒線。現場禁止拍攝時請遵守規定，並避免佔用主要通道。",
+   "tags": [
+    "祭典",
+    "神轎",
+    "淺草",
+    "江戶文化"
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Sanja_Matsuri"
+   ],
+   "confidence": "high",
+   "prompt_en": "Sanja Matsuri portable shrine mikoshi carried by many people in happi coats on Asakusa streets, Senso-ji gate behind, summer sun, dynamic crowd"
+  },
+  "history": {
+   "title_zh": "江戶城跡（富士見櫓）",
+   "title_ja": "江戸城跡・富士見櫓",
+   "summary_zh": "德川幕府居城遺構，今為皇居。",
+   "body_zh": "江戶城最初由太田道灌於1457年築城，1590年德川家康入城後大規模擴建，1603年幕府成立後成為統治日本的中心，曾是世界最大級的城郭。1868年幕府無血開城，城成為皇居。天守在1657年明曆大火後未重建，今日仍可見石垣、護城河與少數現存櫓，如富士見櫓。皇居東御苑對外開放，可在大手門一帶步行參觀，是感受江戶舊貌的好去處。今日皇居東御苑內還可見本丸、二之丸庭園與天守台遺構，其中天守台的石垣最為壯觀。每逢春季櫻花與秋季紅葉，園內風景宜人，是在市中心感受歷史縱深與綠意的絕佳去處。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "千代田區皇居東御苑"
+    },
+    {
+     "label": "築城",
+     "value": "1457年（太田道灌）"
+    },
+    {
+     "label": "幕府居城",
+     "value": "1603年起"
+    },
+    {
+     "label": "現況",
+     "value": "皇居，東御苑開放參觀"
+    }
+   ],
+   "best_season_zh": "3–4月與11月",
+   "tips_zh": "東御苑週一、五休園，另有特定休園日，出發前請查官網。建議穿舒適的鞋，石垣與坡道較多，全程約需一至兩小時。",
+   "tags": [
+    "江戶城",
+    "石垣",
+    "德川",
+    "皇居"
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Edo_Castle"
+   ],
+   "confidence": "medium",
+   "prompt_en": "Edo Castle ruins with massive stone walls and a white turret above the moat, evening light, pine trees, no people"
+  },
+  "mascot": {
+   "title_zh": "東京2020吉祥物與都鳥",
+   "title_ja": "ミライトワとソメイティ",
+   "summary_zh": "奧運吉祥物與都鳥的靈感。",
+   "body_zh": "東京都的象徵鳥是紅嘴鷗（都鳥），傳說在《伊勢物語》中也有登場，常見於隅田川與東京灣。近年與東京最有名的吉祥物，是2018年7月公開的東京2020奧運吉祥物「未來永遠（Miraitowa）」與帕運吉祥物「Someity」，前者靈感來自藍色市松紋，後者取自櫻花與粉色市松紋。本圖以原創角色呈現：一隻戴圍巾的小海鷗在東京灣夜景上飛翔，不複製任何現有吉祥物。對旅客而言，到台場或東京車站可見到奧運相關紀念商品，也有許多以海鷗為題的在地設計，如百合海鷗號電車命名，都與都鳥一脈相承，使這種水鳥成為東京水岸風景的一部分。",
+   "facts": [
+    {
+     "label": "都鳥",
+     "value": "紅嘴鷗"
+    },
+    {
+     "label": "官方活動吉祥物",
+     "value": "Miraitowa／Someity（2018年公開）"
+    },
+    {
+     "label": "設計靈感",
+     "value": "市松紋、櫻花"
+    },
+    {
+     "label": "本圖",
+     "value": "原創角色"
+    }
+   ],
+   "best_season_zh": "全年",
+   "tips_zh": "想看都鳥，冬季到隅田川或台場海濱公園最容易見到成群紅嘴鷗。搭乘百合海鷗號（Yurikamome）新交通可沿海岸欣賞都鳥與東京灣。",
+   "tags": [
+    "吉祥物",
+    "都鳥",
+    "原創角色",
+    "海鷗"
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Miraitowa_and_Someity"
+   ],
+   "confidence": "medium",
+   "prompt_en": "Cute original seagull-like character with a small scarf flying over Tokyo Bay with city lights at dusk, pastel colors. Original cute character, not replicating any existing trademarked mascot."
+  },
+  "scenery": {
+   "title_zh": "奧多摩溪谷",
+   "title_ja": "奥多摩渓谷",
+   "summary_zh": "東京西部的深山溪流與新綠。",
+   "body_zh": "奧多摩位於東京都西部，屬秩父多摩甲斐國立公園，與市區只隔著約一小時多的電車。多摩川上游切出清澈溪谷，春季新綠、秋季紅葉、夏季涼爽，吸引大量登山與健行者。奧多摩湖是小河內水壩形成的人工湖，作為東京水源；東京都最高峰雲取山（約2,017公尺）也在此區。步道、吊橋與山村景色，與都心形成鮮明對比。春天滿山新綠、夏季是戲水與露營的好去處，秋季紅葉點綴溪谷。除了登山，奧多摩的鐘乳洞「日原鍾乳洞」與古民宅聚落，也是適合半日遊的景點，可享受與都心完全不同的悠閒空氣。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "西多摩郡奧多摩町"
+    },
+    {
+     "label": "最高峰",
+     "value": "雲取山約2,017公尺"
+    },
+    {
+     "label": "特色",
+     "value": "溪谷、奧多摩湖、登山步道"
+    },
+    {
+     "label": "交通",
+     "value": "JR青梅線至奧多摩站"
+    }
+   ],
+   "best_season_zh": "4–5月新綠、10–11月紅葉",
+   "tips_zh": "山區天氣變化快，登山請準備雨具與保暖衣物；末班電車較早，須注意時間。日原鍾乳洞等景點交通班次少，建議事先查好巴士時刻。",
+   "tags": [
+    "溪谷",
+    "新綠",
+    "登山",
+    "國立公園"
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Okutama,_Tokyo"
+   ],
+   "confidence": "medium",
+   "prompt_en": "Okutama gorge with clear emerald river among rocky cliffs and lush green trees, soft diffused light, a narrow suspension bridge in the distance"
+  },
+  "spot": {
+   "title_zh": "東京鐵塔",
+   "title_ja": "東京タワー",
+   "summary_zh": "紅白色的昭和經典地標。",
+   "body_zh": "東京鐵塔於1958年12月23日對外開放，高332.9公尺，建築師為內藤多仲，外型仿巴黎艾菲爾鐵塔，當年是世界最高自立式鐵塔之一。鐵塔塗成白色與國際橙色，是依航空安全規定而定，大展望台高150公尺、特別展望台約249.6公尺。雖然後來東京晴空塔更高，但夜間點燈的鐵塔依舊是昭和時代的象徵，也常出現在電影、動漫中，是遊客必拍景點。塔下的「足下」建築設有商店與餐廳，頂樓天線在夜間也隨季節變換點燈色彩。近年與晴空塔相互輝映，兩座塔成為東京新舊地標的對照，登塔體驗仍有其獨特的懷舊魅力。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "港區芝公園"
+    },
+    {
+     "label": "啟用",
+     "value": "1958年12月23日"
+    },
+    {
+     "label": "高度",
+     "value": "332.9公尺"
+    },
+    {
+     "label": "展望台",
+     "value": "150公尺／249.6公尺"
+    }
+   ],
+   "best_season_zh": "全年；黃昏至夜景",
+   "tips_zh": "想拍全景可到芝公園或增上寺，以增上寺前搭配鐵塔最為經典。購買展望台套票可省時間；平日傍晚前往可避開大量人潮。",
+   "tags": [
+    "地標",
+    "夜景",
+    "昭和",
+    "展望台"
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Tokyo_Tower"
+   ],
+   "confidence": "high",
+   "prompt_en": "Tokyo Tower glowing orange and white against a deep blue dusk sky with city lights below, wide view from Zojoji direction"
+  },
+  "experience": {
+   "title_zh": "相撲觀賞",
+   "title_ja": "相撲観戦",
+   "summary_zh": "兩國國技館看力士對決。",
+   "body_zh": "大相撲每年六場本場所，其中1月、5月、9月在東京兩國國技館舉行，每場為期15天。國技館現址啟用於1985年，可容納約1萬1千人，館內還有相撲博物館。觀眾可看到力士登場、撒鹽、立合與取組，氣氛既莊重又熱烈。若未買到票，也可在相撲部屋的早稽古見學，但須事前預約並遵守禮儀。現場也能品嘗相撲火鍋「相撲鍋」。平日較不擁擠的早場也能看到未來的新星力士，價格親民，可近距離感受儀式。館內餐廳與外帶店會販售「燒鳥便當」與相撲鍋，吃完還可在隔壁的相撲博物館了解歷史，一天可安排得很充實。",
+   "facts": [
+    {
+     "label": "場地",
+     "value": "墨田區兩國國技館"
+    },
+    {
+     "label": "本場所",
+     "value": "1、5、9月（各15天）"
+    },
+    {
+     "label": "容量",
+     "value": "約11,098人"
+    },
+    {
+     "label": "啟用",
+     "value": "1985年"
+    }
+   ],
+   "best_season_zh": "1月、5月、9月",
+   "tips_zh": "購票最好提早數週；上午幕下以下較安靜便宜，下午十兩與幕內最熱鬧。自由席票價較親民，可向官方預售；多帶一件外套，館內冷氣較強。",
+   "tags": [
+    "相撲",
+    "國技",
+    "力士",
+    "體驗"
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Ry%C5%8Dgoku_Kokugikan"
+   ],
+   "confidence": "high",
+   "prompt_en": "Sumo tournament bout inside Ryogoku Kokugikan with referee in ornate robes and spectators, hanging roof above ring, wide interior view"
+  },
+  "costume": {
+   "title_zh": "江戶火消半纏",
+   "title_ja": "江戸火消の半纏",
+   "summary_zh": "染有圖紋的消防隊外套。",
+   "body_zh": "江戶時代木造房屋密集，火災頻繁，町人組成的「町火消」負責滅火，八代將軍吉宗時期由町奉行大岡忠相整頓，據傳於1718年前後組成。火消穿的半纏以厚棉布製作、浸水後能防火，背面常繪有組名與波浪、龍等吉祥圖案，纏（matoi）則是各組的標誌。至今每年1月仍有出初式，在東京舉行消防演習與傳統梯子表演，是延續下來的江戶文化。展示火消服飾的博物館與出初式會場，也常有身穿半纏的人員演練，讓遊客得以近距離欣賞圖案。這些設計將防火、辨識與美感融合，如今也成為和風服飾與浮世繪題材中的常見元素。",
+   "facts": [
+    {
+     "label": "時代",
+     "value": "江戶時代"
+    },
+    {
+     "label": "材質",
+     "value": "厚棉布、浸水可防火"
+    },
+    {
+     "label": "特色",
+     "value": "背面繪有組名與圖案"
+    },
+    {
+     "label": "現今",
+     "value": "出初式（每年1月）"
+    }
+   ],
+   "best_season_zh": "1月（出初式）",
+   "tips_zh": "想親眼看，可在1月的東京消防出初式觀賞；江戶東京博物館也有展示。購買相似半纏作紀念品時，可挑選棉質並注意尺寸。",
+   "tags": [
+    "火消",
+    "半纏",
+    "江戶",
+    "傳統服飾"
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Edo_period"
+   ],
+   "confidence": "medium",
+   "prompt_en": "Anonymous model in an indigo hikeshi hanten firefighter coat with bold white wave patterns carrying a matoi standard, Edo-style street at dusk, back view"
+  }
+ },
+ "areas": [
+  {
+   "id": "tokyo_asakusa",
+   "name_zh": "淺草",
+   "name_ja": "浅草",
+   "intro_zh": "淺草是江戶庶民文化的中心，以創建於7世紀的淺草寺為核心，雷門與仲見世通連成參道。隅田川對岸可見東京晴空塔，新舊並置構成特色。小吃、和菓子、人力車與下町風情，加上三社祭等年中活動，使淺草成為外國旅客最熟悉的老東京。",
+   "items": {
+    "spot": {
+     "title_zh": "淺草寺雷門",
+     "title_ja": "浅草寺・雷門",
+     "desc_zh": "大燈籠下的雷門與仲見世通。",
+     "prompt_en": "Sensoji Kaminarimon gate with giant red lantern, bustling Nakamise street, daytime"
+    },
+    "food": {
+     "title_zh": "淺草天婦羅蓋飯",
+     "title_ja": "浅草の天丼",
+     "desc_zh": "江戶前天婦羅丼。",
+     "prompt_en": "Edo-style tendon tempura bowl with prawn and vegetables, sweet sauce, dark lacquer bowl"
+    },
+    "scenery": {
+     "title_zh": "隅田川與晴空塔",
+     "title_ja": "隅田川と東京スカイツリー",
+     "desc_zh": "河畔看晴空塔。",
+     "prompt_en": "Sumida River with Tokyo Skytree rising behind, sunset, calm river and boat"
+    }
+   }
+  },
+  {
+   "id": "tokyo_shibuya_harajuku",
+   "name_zh": "澀谷・原宿",
+   "name_ja": "渋谷・原宿",
+   "intro_zh": "澀谷與原宿是年輕文化的發源地。澀谷站前的十字路口人流壯觀，周邊商場、百貨林立；原宿竹下通是流行與可麗餅的聚集地，一旁的明治神宮則是1920年創建的大片人工森林，鬧中取靜，兩種氛圍只隔數百公尺。",
+   "items": {
+    "spot": {
+     "title_zh": "澀谷十字路口",
+     "title_ja": "渋谷スクランブル交差点",
+     "desc_zh": "全球人流最大的路口之一。",
+     "prompt_en": "Shibuya Scramble Crossing from above, crowds crossing, neon lights, dusk"
+    },
+    "food": {
+     "title_zh": "原宿可麗餅",
+     "title_ja": "原宿のクレープ",
+     "desc_zh": "色彩繽紛的甜點。",
+     "prompt_en": "Harajuku crepe with strawberries and whipped cream, colorful paper wrap, takeshita street background"
+    },
+    "scenery": {
+     "title_zh": "明治神宮森林",
+     "title_ja": "明治神宮の森",
+     "desc_zh": "都市中的神聖森林。",
+     "prompt_en": "Meiji Jingu forest path with torii gate, towering trees, soft light"
+    }
+   }
+  },
+  {
+   "id": "tokyo_ginza_marunouchi",
+   "name_zh": "銀座・丸之內",
+   "name_ja": "銀座・丸の内",
+   "intro_zh": "銀座與丸之內是東京的商業與高級消費區。銀座有百年老鋪、高級壽司與百貨，丸之內則是辦公大樓與東京車站所在，紅磚站舍與現代高樓並置。夜晚點燈後街景典雅，適合散步與用餐。",
+   "items": {
+    "spot": {
+     "title_zh": "東京車站丸之內站舍",
+     "title_ja": "東京駅丸の内駅舎",
+     "desc_zh": "紅磚歷史車站。",
+     "prompt_en": "Tokyo Station red brick Marunouchi building at dusk, warm illumination, plaza"
+    },
+    "food": {
+     "title_zh": "銀座壽司",
+     "title_ja": "銀座の寿司",
+     "desc_zh": "高級江戶前壽司。",
+     "prompt_en": "Ginza edomae sushi nigiri on lacquered counter, chef hands, minimal"
+    },
+    "scenery": {
+     "title_zh": "銀座街景夜景",
+     "title_ja": "銀座の夜景",
+     "desc_zh": "高樓與霓虹。",
+     "prompt_en": "Ginza night street with bright shop windows and skyscrapers, rain reflections"
+    }
+   }
+  },
+  {
+   "id": "tokyo_shinjuku",
+   "name_zh": "新宿",
+   "name_ja": "新宿",
+   "intro_zh": "新宿是東京的副都心，擁有全球客流最大的新宿站。西口高樓群中，東京都廳設有免費展望台；東口歌舞伎町是不夜城，另有思い出橫丁的小巷燒鳥攤，以及新宿御苑的大片庭園，可見到都會的多重面貌。",
+   "items": {
+    "spot": {
+     "title_zh": "東京都廳展望台",
+     "title_ja": "東京都庁",
+     "desc_zh": "雙塔形大樓，展望台免費。",
+     "prompt_en": "Tokyo Metropolitan Government Building twin towers at sunset, clear sky, plaza"
+    },
+    "food": {
+     "title_zh": "回憶橫丁燒鳥",
+     "title_ja": "思い出横丁の焼き鳥",
+     "desc_zh": "小巷燒鳥串。",
+     "prompt_en": "Yakitori skewers grilling on charcoal in narrow Omoide Yokocho alley, lantern light, smoke"
+    },
+    "scenery": {
+     "title_zh": "新宿御苑",
+     "title_ja": "新宿御苑",
+     "desc_zh": "都會綠洲，櫻花或楓葉。",
+     "prompt_en": "Shinjuku Gyoen garden with cherry blossoms, pond and lawn, skyscrapers behind"
+    }
+   }
+  },
+  {
+   "id": "tokyo_ogasawara",
+   "name_zh": "小笠原諸島",
+   "name_ja": "小笠原諸島",
+   "intro_zh": "小笠原諸島位於東京南方海上約1,000公里，行政屬東京都，2011年被列為世界自然遺產，獨特生態有「東洋加拉巴哥」之稱。島上無機場，只能搭船，單程約24小時。可賞鯨、潛水，也有島寿司等獨特島嶼風味。",
+   "items": {
+    "spot": {
+     "title_zh": "父島二見港",
+     "title_ja": "父島・二見港",
+     "desc_zh": "世界自然遺產島嶼的港口。",
+     "prompt_en": "Futami Port on Chichijima with small boats and tropical hills, clear blue water"
+    },
+    "food": {
+     "title_zh": "島壽司",
+     "title_ja": "島寿司",
+     "desc_zh": "小笠原的醬油漬魚握壽司。",
+     "prompt_en": "Island sushi with soy-marinated fish and hot mustard on rice, tropical plate"
+    },
+    "scenery": {
+     "title_zh": "小笠原藍色海灘",
+     "title_ja": "小笠原の海",
+     "desc_zh": "清澈的藍色海灣。",
+     "prompt_en": "Ogasawara turquoise bay with white sand, tropical green cliffs, bright sun"
+    }
+   }
+  }
+ ]
+}

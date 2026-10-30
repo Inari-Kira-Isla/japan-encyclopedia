@@ -1,0 +1,285 @@
+{
+ "id": "kagoshima",
+ "spots": [
+  {
+   "title_zh": "櫻島",
+   "title_ja": "桜島",
+   "category": "山岳高原",
+   "area_zh": "鹿兒島市",
+   "summary_zh": "鹿兒島灣中持續活動的活火山",
+   "body_zh": "櫻島位於鹿兒島灣（錦江灣）北部，東西約12公里、南北約10公里、周長約55公里，是鹿兒島市的活火山，也是縣內象徵。火山誕生於約2.9萬年前姶良火山口南緣，歷史上噴發頻繁，現在仍活躍。1914年大正大噴發使東側瀨戶海峽被熔岩填滿，島嶼與大隅半島相連。主峰御岳由北岳、中岳、南岳構成，2007年被選為日本地質百選，並被列為縣指定名勝。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "鹿兒島縣鹿兒島市，鹿兒島灣北部"
+    },
+    {
+     "label": "開創／成因",
+     "value": "姶良火山口南緣的活火山，1914年大噴發後與陸地相連"
+    },
+    {
+     "label": "看點",
+     "value": "御岳三峰、海中聳立的山形、日本地質百選"
+    }
+   ],
+   "best_season_zh": "四季皆宜",
+   "tips_zh": "從鹿兒島市區隔灣遠望最能看出火山突出海面的姿態；火山灰與入山規制隨活動狀況變動，出發前請查官方火山資訊。",
+   "tags": [
+    "活火山",
+    "鹿兒島灣",
+    "大正大噴發",
+    "地質百選"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/桜島"
+   ],
+   "confidence": "high",
+   "prompt_en": "Large active volcano rising directly from a calm bay, a thin plume of ash drifting from the summit, city shoreline and a small harbour in the foreground across the water, warm sunset glow on the sea, no text, no signs, no recognizable people"
+  },
+  {
+   "title_zh": "仙巖園",
+   "title_ja": "仙巌園",
+   "category": "庭園公園",
+   "area_zh": "鹿兒島市（吉野町）",
+   "summary_zh": "借景櫻島的薩摩藩主別邸庭園",
+   "body_zh": "仙巖園位於鹿兒島市吉野町，是薩摩藩主島津氏的別邸與大名庭園，又稱磯庭園。萬治年間（1658至1661年）由第19代島津光久建造，隔著錦江灣借景櫻島，被指定為國家名勝。1852年在此興建反射爐，是集成館事業的一環，園內的舊集成館反射爐跡已列入世界遺產「明治日本的產業革命遺產」。1857年園內石燈籠接上瓦斯管點燈，據載是日本首次的瓦斯燈。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "鹿兒島縣鹿兒島市吉野町，面臨錦江灣"
+    },
+    {
+     "label": "開創／成因",
+     "value": "萬治年間由島津光久建為別邸"
+    },
+    {
+     "label": "看點",
+     "value": "借景櫻島、反射爐跡（世界遺產）、日本首次瓦斯燈"
+    }
+   ],
+   "best_season_zh": "四季皆宜",
+   "tips_zh": "最佳構圖是庭園水池與櫻島疊在一起；園內另有反射爐跡等產業遺產，可先看歷史說明再散步；入園費用請查官方。",
+   "tags": [
+    "大名庭園",
+    "借景",
+    "世界遺產",
+    "島津氏"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/仙巌園"
+   ],
+   "confidence": "high",
+   "prompt_en": "Traditional Japanese daimyo garden with a still pond, pine trees and stone lanterns in the foreground, a tiled-roof villa in the middle ground, a large volcano across the calm bay in the background, soft clear morning light, no text, no signs, no recognizable people"
+  },
+  {
+   "title_zh": "知覽武家屋敷",
+   "title_ja": "知覧武家屋敷",
+   "category": "街區古鎮",
+   "area_zh": "南九州市（知覽町）",
+   "summary_zh": "薩摩小京都的石垣生籬武士町",
+   "body_zh": "武家屋敷通位於南九州市知覽町，是全長約0.8公里的武士町街道，被稱為「薩摩小京都」。薩摩藩把領地分成113個「外城」，由武士分散駐守，知覽是其中之一，現存的武家屋敷多建於第18代領主島津久峰時期。街道兩側有石垣與修剪成大圓形的イヌマキ生籬，約700公尺間有多處國家名勝庭園。1981年被選為重要傳統建造物群保存地區，電線已移設，路面也配合庭土使用沙色鋪裝。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "鹿兒島縣南九州市知覽町郡"
+    },
+    {
+     "label": "開創／成因",
+     "value": "薩摩藩外城制度下形成的武士集落"
+    },
+    {
+     "label": "看點",
+     "value": "石垣與生籬、國家名勝庭園、重要傳統建造物群保存地區"
+    }
+   ],
+   "best_season_zh": "四季皆宜",
+   "tips_zh": "街道不長，適合慢慢步行拍照；電線已移設並使用與庭土同色的鋪裝，可留意整體景觀；各庭園入園方式請出發前查官方。",
+   "tags": [
+    "武家屋敷",
+    "石垣",
+    "薩摩小京都",
+    "傳建地區"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/知覧武家屋敷"
+   ],
+   "confidence": "high",
+   "prompt_en": "Narrow samurai-district lane lined with tall stone walls and neatly clipped dense hedges, a pale sandy path leading into the distance, a traditional gate with tiled roof in the middle ground, soft late-afternoon light and long shadows, no text, no signs, no recognizable people"
+  },
+  {
+   "title_zh": "屋久島",
+   "title_ja": "屋久島",
+   "category": "海島海岸",
+   "area_zh": "屋久島町",
+   "summary_zh": "世界自然遺產的杉林山島",
+   "body_zh": "屋久島位於大隅半島佐多岬南南西約60公里的海上，面積約504平方公里、周長約130公里，近似圓形的五角形。島上九成為森林，九州最高峰宮之浦岳（1,936公尺）位於島中央，連峰有「海上阿爾卑斯」之稱。1993年登錄世界自然遺產，是日本最早登錄的世界遺產之一，登錄範圍約占全島面積的21%，包含屋久杉自生林與西部林道一帶。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "鹿兒島縣熊毛郡屋久島町，大隅諸島"
+    },
+    {
+     "label": "開創／成因",
+     "value": "1993年登錄世界自然遺產，約21%面積為遺產地"
+    },
+    {
+     "label": "看點",
+     "value": "宮之浦岳（1,936公尺）、屋久杉自生林、森林覆蓋九成"
+    }
+   ],
+   "best_season_zh": "四季皆宜",
+   "tips_zh": "山區行程視天候與體力而定，進入遺產核心區前請向官方確認入山規定與路線狀況，並預留充足時間。",
+   "tags": [
+    "世界自然遺產",
+    "屋久杉",
+    "宮之浦岳",
+    "離島"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/屋久島"
+   ],
+   "confidence": "high",
+   "prompt_en": "Dense ancient cedar forest with moss-covered boulders and a clear stream in the foreground, thick tree trunks rising into soft mist in the middle ground, rounded green mountain ridge faintly visible beyond, cool diffused misty light, no text, no signs, no recognizable people"
+  },
+  {
+   "title_zh": "指宿溫泉",
+   "title_ja": "指宿温泉",
+   "category": "溫泉",
+   "area_zh": "指宿市",
+   "summary_zh": "以砂蒸聞名的海濱溫泉",
+   "body_zh": "指宿溫泉是指宿市東部摺ヶ浜、彌次ヶ湯與二月田等溫泉的總稱，其中摺ヶ浜以砂蒸最著名。泉質多為鈉-氯化物泉，約有500處活動泉源，一日總湧出量約12萬噸。水源是池田湖與鰻池的雨水混合鹿兒島灣海水，熱源則與阿多火山口的岩漿有關。1960年代起因蜜月熱潮，被稱為「東洋夏威夷」，2003年觀光客約285萬人。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "鹿兒島縣指宿市東部，摺ヶ浜一帶旅館集中"
+    },
+    {
+     "label": "開創／成因",
+     "value": "地下熱源與雨水、海水混合形成，約500處泉源"
+    },
+    {
+     "label": "看點",
+     "value": "砂蒸、海濱景致、「東洋夏威夷」之稱"
+    }
+   ],
+   "best_season_zh": "四季皆宜",
+   "tips_zh": "大型住宿多集中在摺ヶ浜附近；砂蒸體驗的營業時間、費用與注意事項請出發前查官方，避免在身體不適時嘗試。",
+   "tags": [
+    "砂蒸",
+    "海濱溫泉",
+    "東洋夏威夷",
+    "鈉氯化物泉"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/指宿温泉"
+   ],
+   "confidence": "medium",
+   "prompt_en": "Wide dark sandy beach along a calm bay at low tide, rows of simple open-air sand-bathing mounds with wooden frames in the middle ground, volcanic cone far across the water, warm golden evening light, no text, no signs, no recognizable people"
+  },
+  {
+   "title_zh": "霧島神宮",
+   "title_ja": "霧島神宮",
+   "category": "神社寺院",
+   "area_zh": "霧島市",
+   "summary_zh": "供奉天孫降臨神話的國寶神社",
+   "body_zh": "霧島神宮位於霧島市霧島田口，本殿、幣殿與拜殿被指定為國寶，主祭神是瓊瓊杵尊。高千穗峰被視為日本神話「天孫降臨」的傳承地，神社起源推測是對高千穗峰的山岳信仰，傳說6世紀僧人慶胤上人建於高千穗峰與御鉢之間。舊社殿多次因噴發燒毀，輾轉遷建，1484年由兼慶上人在現址再興，現在社殿是1715年島津吉貴奉納重建。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "鹿兒島縣霧島市霧島田口"
+    },
+    {
+     "label": "開創／成因",
+     "value": "起於高千穗峰山岳信仰，因噴發多次遷建"
+    },
+    {
+     "label": "看點",
+     "value": "國寶本殿・幣殿・拜殿、天孫降臨神話"
+    }
+   ],
+   "best_season_zh": "四季皆宜",
+   "tips_zh": "神社位於山中，早晚溫差明顯，可多帶外套；想了解高千穗峰與神話淵源，可一併參考官方導覽資訊。",
+   "tags": [
+    "國寶",
+    "天孫降臨",
+    "霧島山",
+    "島津氏"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/霧島神宮"
+   ],
+   "confidence": "high",
+   "prompt_en": "Vermilion shrine complex with ornate gold-ornamented eaves among enormous old cedar trees, a stone-paved approach and steps in the foreground, faint volcanic peak above the treeline, cool mountain mist and soft morning sunbeams through the trees, no text, no signs, no recognizable people"
+  },
+  {
+   "title_zh": "種子島宇宙中心",
+   "title_ja": "種子島宇宙センター",
+   "category": "主題設施",
+   "area_zh": "南種子町（種子島）",
+   "summary_zh": "面向海洋的日本火箭發射場",
+   "body_zh": "種子島宇宙中心是JAXA在鹿兒島縣種子島營運的大型火箭發射場設施群，位於南種子町，太平洋側竹崎與吉信崎環抱的海灣一帶。1966年種子島被選為火箭發射場，1969年10月1日於宇宙開發事業團成立時正式開設，面積約970萬平方公尺，擁有3個發射場。和世界各地常見的廣闊平原不同，這裡的設施散落在綠色山林間，發射台設在珊瑚礁環繞的岬角附近。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "鹿兒島縣熊毛郡南種子町，種子島南部太平洋側"
+    },
+    {
+     "label": "開創／成因",
+     "value": "1966年選定為發射場，1969年10月1日開設"
+    },
+    {
+     "label": "看點",
+     "value": "山林與珊瑚礁環繞的發射台、3處發射場"
+    }
+   ],
+   "best_season_zh": "四季皆宜",
+   "tips_zh": "發射日程與見學開放狀況會變動，請先查JAXA官方公告；發射時期可能影響參觀安排，行程宜預留彈性。",
+   "tags": [
+    "火箭",
+    "JAXA",
+    "發射場",
+    "離島"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/種子島宇宙センター"
+   ],
+   "confidence": "medium",
+   "prompt_en": "Rocket launch pad tower on a green coastal headland, white steel gantry structure with a slender rocket standing inside, turquoise sea and coral reef edge in the foreground, green hills behind, bright clear sky with soft clouds, no text, no signs, no logos, no recognizable people"
+  },
+  {
+   "title_zh": "鶴丸城（鹿兒島城）",
+   "title_ja": "鹿児島城（鶴丸城）",
+   "category": "城郭史蹟",
+   "area_zh": "鹿兒島市（城山町）",
+   "summary_zh": "沒有天守的島津氏居城",
+   "body_zh": "鹿兒島城通稱鶴丸城，位於鹿兒島市城山町，1601年由島津忠恒（家久）興建，直到廢藩置縣一直是島津氏居城，如今城跡是國家史蹟。城山是南北朝時代上山氏的山城，島津氏在山麓築起屋形。名義上七十七萬石的大名居城，卻沒有天守與高石垣，據說是對江戶幕府示意恭順。藩內另以113個外城制度分散防守，裡山的城山則作為後備籠城的據點。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "鹿兒島縣鹿兒島市城山町"
+    },
+    {
+     "label": "開創／成因",
+     "value": "1601年島津忠恒築城，山麓屋形加城山後備山城"
+    },
+    {
+     "label": "看點",
+     "value": "無天守的屋形造、石垣、城山後備山城、國家史蹟"
+    }
+   ],
+   "best_season_zh": "四季皆宜",
+   "tips_zh": "沒有天守是此城最大特色，可留意石垣與屋形配置；城山一帶適合散步，建議與周邊歷史設施一併參觀，開放時間請查官方。",
+   "tags": [
+    "鶴丸城",
+    "島津氏",
+    "無天守",
+    "國家史蹟"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/鶴丸城"
+   ],
+   "confidence": "medium",
+   "prompt_en": "Low castle site with massive stone walls, a stone bridge or gate entrance in the foreground, lush green forested hill rising behind with no castle keep, soft morning light, no text, no signs, no recognizable people"
+  }
+ ]
+}

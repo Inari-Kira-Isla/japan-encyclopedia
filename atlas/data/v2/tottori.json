@@ -1,0 +1,767 @@
+{
+ "id": "tottori",
+ "name_zh": "鳥取",
+ "name_ja": "鳥取",
+ "region": "中國",
+ "overview": {
+  "intro_zh": "鳥取縣位於本州西部的日本海沿岸，人口約53萬，是日本人口最少的都道府縣。縣內有日本規模最大的海岸沙丘鳥取砂丘、中國地方最高峰大山（1729公尺），以及嵌在懸崖中的國寶三佛寺投入堂。冬季的松葉蟹、盛產的二十世紀梨，加上境港出身漫畫家水木茂留下的妖怪街景，構成這個低調縣份獨特的風貌。縣內另有因州和紙等傳統工藝，整體節奏悠閒，適合慢遊。",
+  "capital_zh": "鳥取市",
+  "area_km2": 3507,
+  "population_approx": "約53萬",
+  "flower_zh": "二十世紀梨之花",
+  "bird_zh": "鴛鴦（オシドリ）",
+  "tree_zh": "大山躑躅柏（ダイセンキャラボク）",
+  "climate_zh": "日本海側氣候，冬季多雪多雲，夏季炎熱，山區（大山）積雪深。",
+  "access_zh": "空路可抵鳥取砂丘柯南機場或米子鬼太郎機場；鐵路走JR山陰本線，自岡山可乘特急「Super Inaba」往鳥取。",
+  "specialties_zh": [
+   "松葉蟹",
+   "二十世紀梨",
+   "砂丘長芋",
+   "砂丘蕗蕎（らっきょう）",
+   "因州和紙"
+  ],
+  "best_season_zh": "秋冬賞蟹與紅葉，夏季遊海與大山，春秋最適合走沙丘。"
+ },
+ "items": {
+  "architecture": {
+   "title_zh": "三佛寺投入堂",
+   "title_ja": "三徳山三佛寺投入堂",
+   "summary_zh": "嵌在三德山懸崖凹洞裡的平安時代國寶佛堂。",
+   "body_zh": "投入堂是三德山三佛寺奧院的佛堂，建在斷崖凹陷處，以懸造（舞台式）手法由細長木柱支撐，被指定為國寶。三佛寺相傳由修驗道始祖役小角開創，屬天台宗，一般認為堂宇建於平安時代，至今仍位於修行山道的盡頭。「投入」之名來自傳說，說是役小角將佛堂「投」進岩洞。參拜奧院的山路陡峭，入山前須經寺方確認裝備與服裝，並非人人都能攀登。整座建築與周圍的原生林、岩壁融為一體，被視為日本信仰建築中最難到達的名勝之一，也是旅人到訪三朝時最具象徵性的一站。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "鳥取縣三朝町三德"
+    },
+    {
+     "label": "宗派",
+     "value": "天台宗（三佛寺）"
+    },
+    {
+     "label": "文化財",
+     "value": "國寶"
+    },
+    {
+     "label": "構造",
+     "value": "懸造，位於岩壁凹洞"
+    }
+   ],
+   "best_season_zh": "新綠與紅葉季",
+   "tips_zh": "攀登奧院路段陡峭需手腳並用，須穿著合適鞋子並遵守寺方入山規定，雨後路滑，建議預留半日以上並避開午後出發。",
+   "tags": [
+    "國寶",
+    "懸崖建築",
+    "修驗道",
+    "平安時代"
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Sanbutsu-ji"
+   ],
+   "confidence": "high",
+   "prompt_en": "An ancient wooden Buddhist hall wedged into a cliff hollow on a forested mountain, supported by tall slender wooden pillars, drifting mist, early morning light, wide shot from the valley"
+  },
+  "food": {
+   "title_zh": "松葉蟹",
+   "title_ja": "松葉ガニ（とっとり松葉がに）",
+   "summary_zh": "鳥取冬季名物，每年11月6日解禁的日本海雄蟹。",
+   "body_zh": "「松葉蟹」是日本海一帶對雄性楚蟹（ズワイガニ）的稱呼，在鳥取縣捕撈上岸者稱為「とっとり松葉がに」。漁期自每年11月6日開始，至翌年3月底，是縣內秋冬最具代表性的美味。境港為西日本重要的卸貨港，解禁前後縣內會舉行初拍儀式，各地旅館與食堂也推出蟹料理套餐。吃法以水煮、燒烤、刺身與蟹火鍋為主，蟹肉甘甜，蟹膏濃郁。縣內另有特別高級的品牌蟹，講究蟹身大小、鮮度與外觀，價格也相對較高，是蟹季旅遊中最令人期待的主角。",
+   "facts": [
+    {
+     "label": "產地",
+     "value": "日本海（境港、賀露等港）"
+    },
+    {
+     "label": "漁期",
+     "value": "11月6日至翌年3月底"
+    },
+    {
+     "label": "吃法",
+     "value": "水煮、燒烤、刺身、火鍋"
+    }
+   ],
+   "best_season_zh": "11月至3月",
+   "tips_zh": "解禁初期價格較高，想平價享用可選冬季中後期，並預先訂含蟹套餐的旅館，蟹季週末人多，宜提早預約。",
+   "tags": [
+    "松葉蟹",
+    "日本海",
+    "冬季美食",
+    "海鮮"
+   ],
+   "sources": [
+    "https://www.pref.tottori.lg.jp/318896.htm"
+   ],
+   "confidence": "high",
+   "prompt_en": "A bright red boiled snow crab with long legs on a ceramic platter beside a small bowl of vinegar, steam rising, warm wooden table, close-up food photography"
+  },
+  "culture": {
+   "title_zh": "因州和紙",
+   "title_ja": "因州和紙",
+   "summary_zh": "鳥取東部流傳千餘年的手漉和紙，柔韌而堅牢。",
+   "body_zh": "因州和紙主要產於鳥取市青谷町與佐治町一帶，仰賴千代川水系的清水，傳承約一千三百年。文獻記載平安時代已向朝廷進獻，現為國家指定的傳統工藝品，書道用紙的產量居全國前列。特色是質地柔軟、輕盈而強韌，用途涵蓋書法紙、工藝紙與染紙。青谷和紙工房設有展示與手漉體驗，並有因幡傘踊等表演，是認識這項工藝的入門地點。近年也有年輕工藝家嘗試把和紙運用在燈具、室內裝飾與文具上，讓千年工藝走進現代生活，成為縣內值得推廣的特色。",
+   "facts": [
+    {
+     "label": "產地",
+     "value": "鳥取市青谷町、佐治町"
+    },
+    {
+     "label": "歷史",
+     "value": "約1300年（平安時代已有記載）"
+    },
+    {
+     "label": "指定",
+     "value": "國家傳統工藝品"
+    },
+    {
+     "label": "用途",
+     "value": "書法紙、工藝紙、染紙"
+    }
+   ],
+   "best_season_zh": "全年（冬季水冷質佳）",
+   "tips_zh": "體驗手漉多需事先預約，剛做好的紙需要乾燥，可請工房事後郵寄；也可在店裡買紙製的信紙與燈罩作紀念。",
+   "tags": [
+    "和紙",
+    "傳統工藝",
+    "手作體驗",
+    "因州"
+   ],
+   "sources": [
+    "https://www.pref.tottori.lg.jp/304437.htm"
+   ],
+   "confidence": "medium",
+   "prompt_en": "Artisan hands lifting a bamboo screen from a vat of pulp to make traditional Japanese washi paper in a rustic workshop, soft window light"
+  },
+  "history": {
+   "title_zh": "鳥取城跡與久松山",
+   "title_ja": "鳥取城跡（久松山）",
+   "summary_zh": "1581年羽柴秀吉以斷糧圍城聞名的山城遺址。",
+   "body_zh": "鳥取城建於久松山，據載在1532至1555年間築城，1581年羽柴（豐臣）秀吉率軍包圍，先高價買光因幡一帶糧食，並築起長達十二公里的環城營寨，城中斷糧約三個月後投降，史稱「鳥取之渴殺」。1879年建築被拆除，今僅存部分石垣與城門等遺構，自1957年起為國家史蹟，並入選日本百名城。從鳥取站步行約三十分鐘可達登山口。遺址現況清靜，石垣旁的步道配合四季花木，是理解戰國攻防與城下町發展的歷史現場，也很適合當地居民晨間散步。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "鳥取市東町"
+    },
+    {
+     "label": "史事",
+     "value": "1581年圍城戰"
+    },
+    {
+     "label": "現存",
+     "value": "石垣與部分城門"
+    },
+    {
+     "label": "指定",
+     "value": "國家史蹟（1957年）"
+    }
+   ],
+   "best_season_zh": "春季櫻花季",
+   "tips_zh": "登城步道有不少石階，備好舒適鞋子與飲水；山頂視野良好，可遠眺鳥取市街與日本海，春天賞櫻時尤其熱鬧。",
+   "tags": [
+    "山城",
+    "戰國",
+    "石垣",
+    "史蹟"
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Tottori_Castle"
+   ],
+   "confidence": "high",
+   "prompt_en": "Moss-covered stone castle walls and a stone stairway climbing a wooded hill, ruins of a Japanese hilltop castle, late afternoon light, cherry blossom petals"
+  },
+  "mascot": {
+   "title_zh": "鳥取吉祥物",
+   "title_ja": "トリピー（鳥取県PRキャラクター）",
+   "summary_zh": "以二十世紀梨與「鳥」為靈感的鳥取縣吉祥物。",
+   "body_zh": "鳥取縣的PR角色「トリピー」，造型取自縣內特產二十世紀梨與縣名中的「鳥」，平日穿水兵風服裝，也會在鳥取砂丘玩沙板、使用社群媒體宣傳縣內魅力。縣內其他在地吉祥物不少，但トリピー最常與縣廳宣傳連結。本頁不重現任何既有商標吉祥物，而是另創一個靈感來自梨、沙丘與松葉蟹的原創角色，作為鳥取意象的視覺代表。在宣傳活動中，吉祥物也經常與特產、觀光地點合照，使縣內較少人知道的景點得到更多曝光，是推廣觀光的好幫手。",
+   "facts": [
+    {
+     "label": "角色",
+     "value": "トリピー"
+    },
+    {
+     "label": "靈感",
+     "value": "二十世紀梨＋鳥"
+    },
+    {
+     "label": "特色",
+     "value": "常以水兵風服裝登場"
+    }
+   ],
+   "best_season_zh": "全年",
+   "tips_zh": "旅遊時可留意縣內特產店、車站與活動會場的角色周邊商品，選購伴手禮時也能順便看看各式聯名商品。",
+   "tags": [
+    "吉祥物",
+    "二十世紀梨",
+    "原創角色"
+   ],
+   "sources": [
+    "https://www.stat.go.jp/data/shakai/2006/pub/toripi.html"
+   ],
+   "confidence": "low",
+   "prompt_en": "An original cute round character shaped like a juicy pear with small sand-dune humps and a tiny crab-claw hat, pastel colors, sitting on sand, original character not replicating any existing trademarked mascot"
+  },
+  "scenery": {
+   "title_zh": "鳥取砂丘",
+   "title_ja": "鳥取砂丘",
+   "summary_zh": "日本規模最大的海岸沙丘，風紋與日本海相映。",
+   "body_zh": "鳥取砂丘東西綿延十多公里、南北寬約兩公里，是日本最大的海岸沙丘，最大高低差約九十公尺。沙子來自中國山地，由千代川搬運入海，再被風吹回岸上堆積，歷時約十萬年。景觀有擂缽狀凹地「すり鉢」與稱為「砂簾」的風紋，凹地底部還有因地下水形成的綠洲。沙丘屬山陰海岸地質公園（聯合國教科文組織世界地質公園）的一部分，當地亦有保護環境的條例。沙丘周邊還有展望台與纜車可以輕鬆欣賞全景，海風、夕陽與沙紋交織的畫面，是日本海沿岸最具辨識度的風景之一。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "鳥取市福部町"
+    },
+    {
+     "label": "規模",
+     "value": "東西約14–16公里，高低差約90公尺"
+    },
+    {
+     "label": "形成",
+     "value": "約10萬年"
+    },
+    {
+     "label": "地質公園",
+     "value": "山陰海岸世界地質公園"
+    }
+   ],
+   "best_season_zh": "春秋與黃昏",
+   "tips_zh": "夏季沙面燙腳，宜穿好鞋襪；風大時風紋最美，傍晚看日落最推薦，但要注意退場時間並備好防風沙用品。",
+   "tags": [
+    "沙丘",
+    "日本海",
+    "地質公園",
+    "風紋"
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Tottori_Sand_Dunes"
+   ],
+   "confidence": "high",
+   "prompt_en": "Vast coastal sand dunes with wind-rippled patterns, a few tiny distant visitors, deep blue Sea of Japan on the horizon, golden hour light"
+  },
+  "spot": {
+   "title_zh": "水木茂之路",
+   "title_ja": "水木しげるロード（境港）",
+   "summary_zh": "境港市以妖怪銅像聞名的商店街。",
+   "body_zh": "水木茂之路位於境港市，沿路排列多尊以漫畫家水木茂作品《鬼太郎》妖怪為造型的銅像，據稱超過一百五十尊，兩旁有土產店與餐廳，也是縣內人氣最高的商店街之一。水木茂本名武良茂，生於大阪，在境港成長，2015年過世。街道另有水木茂紀念館等設施。境港同時是松葉蟹的重要漁港，妖怪觀光與海鮮美食可一併安排。本圖僅畫通用的妖怪風格街景。街上的妖怪造型郵筒、路燈與商店招牌也值得逐一觀察，傍晚燈光亮起後，整條街更添幾分神祕氣氛，是拍照與散步的好地方。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "鳥取縣境港市"
+    },
+    {
+     "label": "特色",
+     "value": "妖怪銅像街"
+    },
+    {
+     "label": "交通",
+     "value": "JR境線「境港站」步行即達"
+    },
+    {
+     "label": "相關",
+     "value": "水木茂紀念館"
+    }
+   ],
+   "best_season_zh": "全年",
+   "tips_zh": "可搭乘JR境線的妖怪彩繪列車前往，抵達後預留時間逛海鮮食堂與紀念館，週末午餐時段人潮較多。",
+   "tags": [
+    "妖怪",
+    "漫畫",
+    "商店街",
+    "境港"
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Sakaiminato"
+   ],
+   "confidence": "medium",
+   "prompt_en": "A charming shopping street lined with whimsical bronze folklore monster statues, lanterns and old-style shop fronts, lively afternoon atmosphere, no readable lettering"
+  },
+  "experience": {
+   "title_zh": "鳥取砂丘沙板體驗",
+   "title_ja": "鳥取砂丘サンドボード",
+   "summary_zh": "在砂丘斜面滑沙板，或騎駱駝漫步的沙丘體驗。",
+   "body_zh": "鳥取砂丘是日本少見可進行沙地活動的地方，常見體驗包括在斜坡滑行的沙板（サンドボード）、騎乘駱駝，以及攀上沙丘稜線拍照。縣內吉祥物也常以沙板形象宣傳。砂丘旁還有以沙雕為主題的砂之美術館，作品每年更換主題，展期結束後又還原成沙，與沙丘形成有趣的呼應。各項體驗的場次與價格依季節、天氣而異，宜事先向現場確認。如果想在沙丘看到更完整的日落，建議午後入場，避開午間最熱時段，同時順道把周邊的展館與餐廳排進同一天行程。",
+   "facts": [
+    {
+     "label": "活動",
+     "value": "沙板、駱駝、散步"
+    },
+    {
+     "label": "地點",
+     "value": "鳥取砂丘周邊"
+    },
+    {
+     "label": "相關",
+     "value": "砂之美術館（2006年開館）"
+    }
+   ],
+   "best_season_zh": "春至秋",
+   "tips_zh": "沙板需穿著運動服並做好防曬，風強或雨天可能停辦；駱駝等體驗項目以現場公布為準，出發前先查官方資訊。",
+   "tags": [
+    "沙板",
+    "駱駝",
+    "戶外體驗",
+    "砂丘"
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Tottori_Sand_Dunes",
+    "https://www.japan.travel/tw/spot/951/"
+   ],
+   "confidence": "low",
+   "prompt_en": "A person in sporty clothes sliding down a steep sand dune slope on a sandboard, spray of sand, wide dune landscape behind, bright daylight"
+  },
+  "costume": {
+   "title_zh": "因幡傘踊與浴衣",
+   "title_ja": "因幡の傘踊り",
+   "summary_zh": "鳥取祭典中撐傘而舞時的浴衣裝扮。",
+   "body_zh": "鳥取市夏季祭典的傘舞，舞者撐著裝飾的傘，隨鼓聲整齊起舞，是縣東部具代表性的民俗表演之一。服裝多為輕便的浴衣或法被，配上手持的紙傘；傘的製作與因州和紙等地方工藝有關，青谷和紙工房等處也有傘踊的展演。具體祭典日期與舞蹈細節每年有些差異，宜查詢官方活動資訊，本圖以無名模特兒呈現浴衣與紙傘的搭配。此類傳統裝扮兼顧輕便與涼爽，配合夏夜祭典氣氛，是了解鳥取庶民文化的另一個角度，也適合想拍攝在地風情的旅人參考。",
+   "facts": [
+    {
+     "label": "意象",
+     "value": "傘舞、浴衣"
+    },
+    {
+     "label": "地區",
+     "value": "鳥取市周邊"
+    },
+    {
+     "label": "相關",
+     "value": "因州和紙"
+    }
+   ],
+   "best_season_zh": "夏季",
+   "tips_zh": "祭典日期每年不同，出發前請先上鳥取市觀光網站或縣內觀光協會確認，夏夜活動記得帶輕便外套。",
+   "tags": [
+    "傘舞",
+    "浴衣",
+    "夏祭",
+    "民俗"
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Tottori"
+   ],
+   "confidence": "low",
+   "prompt_en": "An anonymous model in a light indigo yukata holding an open traditional paper umbrella in a quiet old street, gentle summer evening light, full body shot, cultural fashion photography"
+  }
+ },
+ "areas": [
+  {
+   "id": "tottori_sakyu",
+   "name_zh": "鳥取砂丘",
+   "name_ja": "鳥取砂丘",
+   "intro_zh": "鳥取砂丘位於鳥取市東郊，是日本海沿岸的代表景點。沙丘東西綿延、背靠日本海，周邊有砂之美術館、砂丘會館與鳥取砂丘柯南機場。這一帶也是日本沙丘農業的名產地，可品嘗以砂地栽培的蔬果，適合安排半日到一日行程。",
+   "items": {
+    "spot": {
+     "title_zh": "砂之美術館",
+     "title_ja": "砂の美術館",
+     "summary_zh": "以真砂雕刻世界主題的室內展館。",
+     "body_zh": "砂之美術館位於鳥取砂丘旁，2006年開館，是以沙雕為主題的展館，據稱是同類美術館中的先驅。每年更換一個「用沙環遊世界」之類的主題，由各國雕刻家合作創作，作品以砂與水塑成，展期結束後又還原成沙。作品放在室內展覽，不受風雨影響，但每期開閉館日期與主題不同，行前應查詢官方公布，並預留約一小時參觀。館外的廣場與周邊餐廳也可順道逛逛，若遇主題更換前後，館內氣氛較安靜，適合慢慢欣賞每件作品的細部紋理。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "鳥取市福部町"
+      },
+      {
+       "label": "開館",
+       "value": "2006年"
+      },
+      {
+       "label": "特色",
+       "value": "每年換主題的沙雕展"
+      }
+     ],
+     "best_season_zh": "全年（依展期）",
+     "tips_zh": "展期之間會休館整備，出發前務必確認開放日，並可與砂丘行程合併安排，先看沙雕再走沙丘更有對照。",
+     "tags": [
+      "沙雕",
+      "美術館",
+      "砂丘"
+     ],
+     "sources": [
+      "https://www.japan.travel/tw/spot/951/"
+     ],
+     "confidence": "medium",
+     "prompt_en": "Interior of a sand sculpture museum with towering intricate sand carvings of historic scenes under warm gallery lighting"
+    },
+    "food": {
+     "title_zh": "砂丘蕗蕎",
+     "title_ja": "砂丘らっきょう",
+     "summary_zh": "鳥取砂地栽培的特產蕗蕎。",
+     "body_zh": "鳥取沿海砂地栽培的蕗蕎（らっきょう）是縣內知名特產，常以甜醋醃漬，也用於咖哩配菜與下酒小菜，口感清脆帶微辣。除了蕗蕎之外，砂丘一帶還出產長芋與西瓜等作物，鳥取縣整體以農業為重要產業。在砂丘附近的食堂與特產店可以試吃不同口味，作為旅途伴手禮也很方便，甜醋與辣味口味各有擁護者。不少食堂還把蕗蕎入菜，做成天婦羅或加入沙拉，風味比單純醃漬更溫和，也是另一種認識這項特產的方式。",
+     "facts": [
+      {
+       "label": "產地",
+       "value": "鳥取砂丘周邊砂地"
+      },
+      {
+       "label": "吃法",
+       "value": "醃漬、配咖哩"
+      },
+      {
+       "label": "相關作物",
+       "value": "長芋、西瓜"
+      }
+     ],
+     "best_season_zh": "初夏（收成季）",
+     "tips_zh": "選購時留意口味差異，伴手禮可挑選真空包裝；也可在食堂點蕗蕎配咖哩，嘗試當地的吃法。",
+     "tags": [
+      "蕗蕎",
+      "砂地農業",
+      "伴手禮"
+     ],
+     "sources": [
+      "https://en.wikipedia.org/wiki/Tottori_Prefecture"
+     ],
+     "confidence": "low",
+     "prompt_en": "A small ceramic dish of pickled rakkyo scallion bulbs next to a bowl of curry rice on a wooden table, soft natural light, food photography"
+    },
+    "scenery": {
+     "title_zh": "馬之背砂丘",
+     "title_ja": "馬の背",
+     "summary_zh": "沙丘最高的稜線，登頂可望日本海。",
+     "body_zh": "「馬之背」是鳥取砂丘中高聳的稜線，由入口向海走並攀上沙坡，可看到整片沙丘與日本海。沿途風紋隨風變化，日出與日落時分光影層次最佳，連遠處行人都成為尺度的對照。沙地行走費力，往返約需數十分鐘，登頂後視野開闊，是拍攝砂丘全景的最好位置之一，適合預留時間慢走。遇到雨後或風向轉變，沙紋會被重新塑形，每次到訪都能看到不同的圖案，這種變化正是砂丘最吸引人的地方。站在稜線上回望來時的足跡，沙面上的腳印很快就被風抹平，別有一番虛無與寧靜的詩意。",
+     "facts": [
+      {
+       "label": "位置",
+       "value": "砂丘中央偏海側"
+      },
+      {
+       "label": "特色",
+       "value": "最大沙坡與海景"
+      },
+      {
+       "label": "所需",
+       "value": "來回約數十分鐘"
+      }
+     ],
+     "best_season_zh": "春秋與黃昏",
+     "tips_zh": "穿著易行走的鞋，避開正午高溫並自備飲水；風大時要保護相機，傍晚光線最柔和，是人像與風景的好時段。",
+     "tags": [
+      "沙丘",
+      "稜線",
+      "日落"
+     ],
+     "sources": [
+      "https://en.wikipedia.org/wiki/Tottori_Sand_Dunes"
+     ],
+     "confidence": "medium",
+     "prompt_en": "Sweeping sand dune ridge with wind ripples leading down to the Sea of Japan at golden hour, tiny distant walkers"
+    }
+   }
+  },
+  {
+   "id": "tottori_sakaiminato",
+   "name_zh": "境港",
+   "name_ja": "境港",
+   "intro_zh": "境港市位於弓濱半島北端，三面被中海、日本海與境水道環繞，是山陰地區重要漁港，也是漫畫家水木茂成長的故鄉。街道上妖怪銅像林立，港口每逢蟹季十分熱鬧，並有渡輪通往隱岐，是美食與妖怪觀光的結合點。",
+   "items": {
+    "spot": {
+     "title_zh": "水木茂紀念館周邊",
+     "title_ja": "水木しげる記念館",
+     "summary_zh": "展示水木茂生平與妖怪世界的紀念館。",
+     "body_zh": "境港是漫畫家水木茂成長的故鄉，水木茂之路上除了妖怪銅像外，還設有以其生平與作品為主題的紀念館。館內介紹這位漫畫家的創作歷程，包括妖怪的描繪與他的人生經驗。行程可與商店街一併安排，約一小時足夠參觀，適合喜歡日本漫畫與民俗的旅客，也是了解《鬼太郎》背景的好起點。館內的導覽與展示也介紹水木茂的戰爭經歷與人生觀，看完後再走上商店街，會對路上的每尊銅像有不一樣的感受。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "境港市本町"
+      },
+      {
+       "label": "主題",
+       "value": "水木茂生平與妖怪"
+      },
+      {
+       "label": "推薦時間",
+       "value": "約1小時"
+      }
+     ],
+     "best_season_zh": "全年",
+     "tips_zh": "可與水木茂之路同日安排，館內展示以日文為主，行前先看簡介更易理解；午餐時段周邊餐廳較擠。",
+     "tags": [
+      "水木茂",
+      "妖怪",
+      "紀念館"
+     ],
+     "sources": [
+      "https://en.wikipedia.org/wiki/Sakaiminato"
+     ],
+     "confidence": "low",
+     "prompt_en": "Exterior of a small modern museum on a seaside shopping street lined with whimsical bronze folklore monster statues, afternoon light, no readable lettering"
+    },
+    "food": {
+     "title_zh": "境港海鮮丼",
+     "title_ja": "境港の海鮮丼",
+     "summary_zh": "漁港直送的新鮮海產蓋飯。",
+     "body_zh": "境港是西日本重要的漁業基地，松葉蟹與紅楚蟹的卸貨量居日本前列，港邊食堂用當日漁獲製作海鮮丼，常見配料有鮮魚刺身、蟹肉與鮭魚卵。蟹季期間全市一片熱鬧，各家餐廳推出蟹料理套餐，價格依漁獲與季節波動。吃之前不妨先比較不同店的份量與時價，再決定是否加點蟹味噌湯或蟹腳。港邊另有販賣海產乾貨與加工品的市場，可以順便挑選伴手禮，如烤魚乾、蟹肉罐頭等，帶回家也方便保存。有些店還提供當日限定的漁獲定食與炸物，菜單隨漁況更換，值得向店員詢問推薦。",
+     "facts": [
+      {
+       "label": "特色",
+       "value": "漁港直送海鮮"
+      },
+      {
+       "label": "代表食材",
+       "value": "蟹、白身魚、魚卵"
+      },
+      {
+       "label": "旺季",
+       "value": "秋冬"
+      }
+     ],
+     "best_season_zh": "11月至3月",
+     "tips_zh": "午餐時段排隊多，建議提早入店或預約；想吃蟹最好在11月至3月，其他季節則以白身魚與蝦為主。",
+     "tags": [
+      "海鮮丼",
+      "漁港",
+      "松葉蟹"
+     ],
+     "sources": [
+      "https://www.pref.tottori.lg.jp/318896.htm"
+     ],
+     "confidence": "medium",
+     "prompt_en": "A fresh seafood rice bowl topped with sashimi, snow crab and salmon roe on a wooden counter near a fishing port, bright natural light"
+    },
+    "scenery": {
+     "title_zh": "弓濱半島與中海",
+     "title_ja": "弓ヶ浜と中海",
+     "summary_zh": "半島、潟湖與遠方大山構成的海景。",
+     "body_zh": "境港位在弓濱半島北端，南邊是中海，北邊是日本海，晴天時從港邊可遠望大山的山形。中海是一個潟湖，湖面平靜，與外海的波浪形成對比。早晚的港口漁船、倒影與山影構成寧靜的畫面，適合散步攝影，也有渡輪由此前往隱岐，港區的海景因而與離島旅行連成一線。傍晚時分，漁船返港，天空漸染橘粉，是一天中最安靜的時間，也是欣賞港口生活感的最佳時機。港邊還設有觀景台與散步道，可近距離看漁船進出，空氣中帶有淡淡海味，是感受漁港日常的好地方。",
+     "facts": [
+      {
+       "label": "位置",
+       "value": "弓濱半島北端"
+      },
+      {
+       "label": "水域",
+       "value": "中海、日本海、境水道"
+      },
+      {
+       "label": "遠景",
+       "value": "大山"
+      }
+     ],
+     "best_season_zh": "清晨與黃昏",
+     "tips_zh": "天氣晴朗才看得到大山，清晨空氣最清澈；從港口散步到海濱公園約需半小時，記得帶外套防海風。",
+     "tags": [
+      "潟湖",
+      "漁港",
+      "大山遠景"
+     ],
+     "sources": [
+      "https://en.wikipedia.org/wiki/Sakaiminato"
+     ],
+     "confidence": "medium",
+     "prompt_en": "Calm harbor with small fishing boats and a distant cone-shaped mountain silhouette at dawn, pastel sky, still water"
+    }
+   }
+  },
+  {
+   "id": "tottori_daisen",
+   "name_zh": "大山",
+   "name_ja": "大山",
+   "intro_zh": "大山高1729公尺，是中國地方最高峰，山形端正，因從伯耆與出雲兩側看形似富士山，有「伯耆富士」之稱。山中的大山寺相傳718年創立，是天台宗古剎，山麓有牧場、滑雪場與步道，四季都有不同玩法。",
+   "items": {
+    "spot": {
+     "title_zh": "大山寺",
+     "title_ja": "大山寺",
+     "summary_zh": "山腰上的天台宗古剎，石階蒼翠。",
+     "body_zh": "大山寺位於大山半山腰，相傳718年由天台宗開創，自平安時代起就是山岳信仰的中心，江戶時代之前一般人未經許可不得入山。寺前有長長的參道石階，兩旁杉木與苔蘚環繞。2000年鳥取縣西部地震後，大山最高處劍峰禁止進入，現今登山路線通往彌山，約一千七百公尺的高度，可眺望山下的牧場與日本海。沿參道向上走，兩旁有石燈籠與老樹，氣氛肅穆，春夏新綠、秋日紅葉各有千秋，是一年四季都值得造訪的名剎。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "鳥取縣大山町"
+      },
+      {
+       "label": "創立",
+       "value": "相傳718年"
+      },
+      {
+       "label": "宗派",
+       "value": "天台宗"
+      },
+      {
+       "label": "登山",
+       "value": "一般登彌山（約1709公尺）"
+      }
+     ],
+     "best_season_zh": "新綠與紅葉季",
+     "tips_zh": "登彌山往返約需三小時，天氣變化快，務必準備雨具與保暖衣物；只想參拜的人可在寺前參道散步，輕鬆許多。",
+     "tags": [
+      "古剎",
+      "山岳信仰",
+      "參道"
+     ],
+     "sources": [
+      "https://en.wikipedia.org/wiki/Mount_Daisen",
+      "https://en.wikipedia.org/wiki/Daisen-ji"
+     ],
+     "confidence": "high",
+     "prompt_en": "An ancient mountain temple with moss-covered stone steps lined with towering cedar trees, drifting mist, Japan"
+    },
+    "food": {
+     "title_zh": "大山おこわ",
+     "title_ja": "大山おこわ",
+     "summary_zh": "大山山麓的傳統糯米飯，配山菜與栗子。",
+     "body_zh": "大山おこわ是大山山麓常見的糯米蒸飯，用蒸籠炊製，配上山菜、栗子與雞肉等食材，口感軟糯有嚼勁。這是大山一帶的地方料理，在大山寺參道與周邊食堂都能吃到，也有便當形式供登山使用。食材會隨季節變化，春天多山菜、秋天配栗子，是補充體力的家常料理，味道樸實而有飽足感。在地也有人把おこわ做成飯糰，方便攜帶，與溫泉蛋、味噌湯組合成簡單的登山早餐，成為許多登山客的固定選擇。山麓一些旅館和民宿也把おこわ列入早餐或晚餐菜單，住宿時不妨詢問有無供應。",
+     "facts": [
+      {
+       "label": "食材",
+       "value": "糯米、山菜、栗子"
+      },
+      {
+       "label": "吃法",
+       "value": "蒸籠炊製"
+      },
+      {
+       "label": "地點",
+       "value": "大山寺周邊食堂"
+      }
+     ],
+     "best_season_zh": "秋季",
+     "tips_zh": "登山前可買便當帶上山當午餐；冬天去滑雪時，山麓食堂也常供應熱騰騰的おこわ套餐，值得一試。",
+     "tags": [
+      "糯米飯",
+      "山菜",
+      "鄉土料理"
+     ],
+     "sources": [
+      "https://en.wikipedia.org/wiki/Mount_Daisen"
+     ],
+     "confidence": "low",
+     "prompt_en": "A bamboo steamer of glutinous okowa rice with chestnuts and mountain vegetables on a rustic wooden table, warm light"
+    },
+    "scenery": {
+     "title_zh": "伯耆富士大山",
+     "title_ja": "伯耆富士・大山",
+     "summary_zh": "山形端正、因形似富士山而得名的火山。",
+     "body_zh": "大山是休眠中的複合火山，最後一次噴發約在一萬七八千年前，海拔1729公尺，為中國地方最高峰。因從伯耆（鳥取）方向看形似富士山，被稱為「伯耆富士」，從出雲（島根）方向看則稱為「出雲富士」。從山麓牧場遠望，夏季是綠色草原襯著山形，冬季則是雪景與滑雪季，四季變化明顯，是縣內最具代表性的風景。冬季山麓設有滑雪場，是中國地方少數可以玩雪的地方，夏天則有牧場與步道，讓同一座山呈現截然不同的風貌。",
+     "facts": [
+      {
+       "label": "海拔",
+       "value": "1729公尺"
+      },
+      {
+       "label": "別稱",
+       "value": "伯耆富士、出雲富士"
+      },
+      {
+       "label": "類型",
+       "value": "休眠火山"
+      }
+     ],
+     "best_season_zh": "夏季與冬季",
+     "tips_zh": "最佳視角在山麓牧場與周邊湖畔，晴朗的早晨可見完整山形；冬季道路可能積雪，開車請裝雪鏈或搭乘巴士。",
+     "tags": [
+      "火山",
+      "百名山",
+      "高原"
+     ],
+     "sources": [
+      "https://en.wikipedia.org/wiki/Mount_Daisen"
+     ],
+     "confidence": "high",
+     "prompt_en": "A cone-shaped mountain rising over green highland pastures in summer, clear blue sky, a few grazing cows in the foreground"
+    }
+   }
+  },
+  {
+   "id": "tottori_misasa",
+   "name_zh": "三朝・倉吉",
+   "name_ja": "三朝・倉吉",
+   "intro_zh": "三朝町與倉吉市位於鳥取縣中部，包含三朝溫泉街與倉吉的白壁土藏街區，並有三德山三佛寺的入口。這一帶以溫泉、古街與山岳佛寺聞名，適合安排兩天一夜的休閒行程。",
+   "items": {
+    "spot": {
+     "title_zh": "倉吉白壁土藏群",
+     "title_ja": "倉吉・白壁土蔵群",
+     "summary_zh": "紅瓦、白壁土藏沿河排列的古街。",
+     "body_zh": "倉吉市打吹玉川地區保留江戶至明治時代的商家與白壁土藏，紅瓦屋頂與白色牆壁沿著玉川排列，是鳥取縣中部著名的古街景。該區被指定為重要傳統建造物群保存地區，現在不少土藏改建為咖啡店、雜貨店與酒造。步行約一小時可逛完全區，可順道品嚐傳統和菓子，並欣賞河邊柳樹與石橋。街上也有赤瓦的展示館與酒藏，可入內參觀釀酒歷史；夏季傍晚河邊微風涼爽，是慢慢散步的好時機。漫步時可留意老店門口的招牌與木格窗，這些細節都保留了舊時商家的風情，值得細看。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "鳥取縣倉吉市"
+      },
+      {
+       "label": "特色",
+       "value": "白壁土藏、紅瓦屋頂"
+      },
+      {
+       "label": "交通",
+       "value": "JR倉吉站轉巴士"
+      }
+     ],
+     "best_season_zh": "全年",
+     "tips_zh": "白天逛街、傍晚光線柔和，適合拍照；多數店家週一或週二休息，出發前先查營業日，避免撲空。",
+     "tags": [
+      "古街",
+      "土藏",
+      "傳統建築"
+     ],
+     "sources": [
+      "https://en.wikipedia.org/wiki/Kurayoshi"
+     ],
+     "confidence": "medium",
+     "prompt_en": "A row of white-walled storehouses with red tile roofs along a quiet stream in a historic town, willows, soft afternoon light"
+    },
+    "food": {
+     "title_zh": "鳥取二十世紀梨",
+     "title_ja": "二十世紀梨",
+     "summary_zh": "鳥取代表水果，多汁清脆的青梨。",
+     "body_zh": "二十世紀梨是鳥取縣的代表水果，縣花亦是其梨花。果皮青綠，肉質多汁清脆，帶清爽甜味，於夏末至秋季上市。縣內中部產區有採摘園，也可買到梨子冰淇淋、果汁與甜點，是在鳥取旅行很容易吃到的在地味道。作為伴手禮常見的是新鮮梨子與加工品，挑選時可留意產地標示與等級。當地也常把梨做成冰淇淋、軟糖與烘焙點心，咖啡店菜單上若見到相關甜點，不妨點一份當作旅途中的小休憩。秋天正值產季，市集與道路驛站常有試吃，可以買幾顆回旅館享用，感受鳥取的季節味。",
+     "facts": [
+      {
+       "label": "特色",
+       "value": "多汁清脆的青梨"
+      },
+      {
+       "label": "縣花",
+       "value": "二十世紀梨之花"
+      },
+      {
+       "label": "季節",
+       "value": "夏末至秋"
+      }
+     ],
+     "best_season_zh": "8月下旬至10月",
+     "tips_zh": "鮮果不耐久放，宜當日食用或冷藏；若搭機返程，可選擇加工品如梨子果醬與果凍，較方便攜帶。",
+     "tags": [
+      "梨",
+      "水果",
+      "縣花"
+     ],
+     "sources": [
+      "https://en.wikipedia.org/wiki/Tottori_Prefecture"
+     ],
+     "confidence": "medium",
+     "prompt_en": "Fresh green Japanese pears on a wooden tray, one cut open showing juicy white flesh, a pear orchard blurred behind, soft natural light"
+    },
+    "scenery": {
+     "title_zh": "三朝溫泉街",
+     "title_ja": "三朝川の温泉街",
+     "summary_zh": "河畔溫泉旅館與柳樹構成的靜謐街景。",
+     "body_zh": "三朝溫泉位在三朝川沿岸，河邊有溫泉旅館與柳樹，是鳥取縣中部著名的溫泉地，以含放射能的泉質聞名。夜晚燈籠與河岸燈光映在水面，街區安靜，適合散步與泡足湯。這裡也是前往三德山三佛寺的入口，可將溫泉與投入堂行程一併安排，在山中修行路與溫泉鄉之間切換。溫泉街上有足湯與河畔步道，白天可悠閒散步，晚上則適合在旅館享用晚餐後，再外出沿河看夜景。住宿時可選擇有露天風呂的旅館，邊泡湯邊聽河水聲，是這個溫泉街最具代表性的體驗之一。",
+     "facts": [
+      {
+       "label": "位置",
+       "value": "三朝町"
+      },
+      {
+       "label": "特色",
+       "value": "河畔溫泉街"
+      },
+      {
+       "label": "相關",
+       "value": "三佛寺投入堂"
+      }
+     ],
+     "best_season_zh": "春秋",
+     "tips_zh": "溫泉旅館多需預約，想參拜投入堂的話，前一晚住在三朝最方便；河邊散步建議傍晚，燈光氣氛最好。",
+     "tags": [
+      "溫泉",
+      "河岸",
+      "夜景"
+     ],
+     "sources": [
+      "https://en.wikipedia.org/wiki/Misasa,_Tottori"
+     ],
+     "confidence": "low",
+     "prompt_en": "A quiet hot spring town along a river with willow trees and ryokan lanterns at dusk, reflections on water"
+    }
+   }
+  }
+ ]
+}

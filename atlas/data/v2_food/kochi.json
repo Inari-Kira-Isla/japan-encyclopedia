@@ -1,0 +1,149 @@
+{
+ "id": "kochi",
+ "foods": [
+  {
+   "title_zh": "炙烤鰹魚",
+   "title_ja": "鰹のたたき",
+   "category": "海鮮",
+   "summary_zh": "以稻草火炙烤表面的高知名物鰹魚生魚片。",
+   "body_zh": "炙烤鰹魚是高知縣最具代表性的料理，又稱「土佐造」。據日文維基百科記載，做法是將鰹魚分塊並保留魚皮，以稻草火快速炙烤表面，再冷卻、切成約一公分厚片。起源有漁夫乾糧、土佐藩時代防食物中毒、去除寄生蟲等多種說法。配料有蔥、薑、大蒜、紫蘇、茗荷等，沾醬可用柑橘醋、三杯醋，或柚子汁加鹽，口味清爽。",
+   "facts": [
+    {"label": "起源", "value": "有漁夫乾糧、藩政時代防食物中毒等多種說法"},
+    {"label": "主要食材", "value": "鰹魚，配蔥、薑、大蒜、茗荷、紫蘇"},
+    {"label": "吃法", "value": "稻草炙烤後切片，沾柑橘醋或鹽與柚子汁"}
+   ],
+   "season_zh": "春至秋（初鰹與回鰹）",
+   "where_zh": "高知市的居酒屋與廣屋市場等",
+   "tags": ["鰹魚", "炙烤", "稻草燒", "土佐造"],
+   "sources": ["https://ja.wikipedia.org/wiki/カツオのたたき"],
+   "confidence": "high",
+   "prompt_en": "A single plate of thickly sliced Tosa katsuo no tataki with seared dark edges and red interior, topped with sliced garlic, ginger, scallion and myoga, a small dish of ponzu beside it, dark wooden table, warm light, no text"
+  },
+  {
+   "title_zh": "皿缽料理",
+   "title_ja": "皿鉢料理",
+   "category": "鄉土料理",
+   "summary_zh": "把生魚片、壽司與煮物盛在大盤上的高知宴席料理。",
+   "body_zh": "皿缽料理是高知縣將多種料理盛在大型淺盤上的宴客料理。據日文維基百科，起源於農耕祭典中神人共食的供饌，典型內容有鋪滿整盤的生魚片、以葉片隔開的蔬菜與煮物等「組物」，以及鯖魚、鯛魚等各式壽司。江戶時代土佐藩曾視之為奢侈品加以限制，明治時代買賣自由後才在庶民間普及，並出現專門外燴店，現在也加入西式與中式料理。",
+   "facts": [
+    {"label": "起源", "value": "源自農耕祭典中神人共食的供饌，江戶時代曾受藩限制"},
+    {"label": "主要食材", "value": "生魚片、壽司、煮物與水果"},
+    {"label": "吃法", "value": "多人圍坐，共享大盤"}
+   ],
+   "season_zh": "全年，節慶宴席最常見",
+   "where_zh": "高知縣各地的宴席、料理店與外燴",
+   "tags": ["皿缽", "宴席", "生魚片", "壽司"],
+   "sources": ["https://ja.wikipedia.org/wiki/皿鉢料理"],
+   "confidence": "high",
+   "prompt_en": "A large round shallow ceramic sawachi platter on a tatami table filled with an arrangement of sashimi slices, assorted sushi and simmered vegetables separated by green leaves, soft overhead daylight, no text, no people"
+  },
+  {
+   "title_zh": "鍋燒拉麵",
+   "title_ja": "鍋焼きラーメン",
+   "category": "B級美食",
+   "summary_zh": "須崎的在地特產拉麵，細節本次未能完全查證。",
+   "body_zh": "鍋燒拉麵是高知縣須崎市的在地特產。日文維基百科「須崎市」條目只列出鍋燒拉麵為當地特產，附有圖片，並沒有說明起源或做法。一般常聽到的特徵是用小鍋盛裝、以雞骨醬油湯底並加生蛋，但這些細節本次沒有在所開啟的資料中得到證實，因此這裡只作保守介紹：這是須崎市的庶民麵食，建議到當地麵店實際品嚐。",
+   "facts": [
+    {"label": "起源", "value": "本次未能查證"},
+    {"label": "主要食材", "value": "拉麵（湯頭與配料細節本次未能查證）"},
+    {"label": "吃法", "value": "連鍋趁熱食用"}
+   ],
+   "season_zh": "全年",
+   "where_zh": "須崎市內的拉麵店",
+   "tags": ["拉麵", "須崎", "鍋燒", "庶民美食"],
+   "sources": ["https://ja.wikipedia.org/wiki/須崎市"],
+   "confidence": "low",
+   "prompt_en": "A single small metal pot of Susaki nabeyaki ramen with soy-brown broth, noodles, scallion and an egg, steam rising, wooden table in a small noodle shop, warm light, no text, no signage"
+  },
+  {
+   "title_zh": "芋頭薯條糖",
+   "title_ja": "芋けんぴ",
+   "category": "甜點和菓子",
+   "summary_zh": "地瓜切條油炸再裹糖的高知經典甜點。",
+   "body_zh": "芋けんぴ是把地瓜切成細條、油炸後裹上砂糖的點心，常撒上芝麻，口感酥脆，形狀像薯條卻是甜食。據日文維基百科，這是高知縣的名產，名稱來自當地舊有的以麵粉製成的乾點心「けんぴ」，不過現在的做法與材料已完全不同。也有削成薄片的「けずり芋」等變化版，是高知常見的伴手禮，在全國的零食排行榜中也有名。",
+   "facts": [
+    {"label": "起源", "value": "名稱源自高知舊有點心「けんぴ」，詳細年代本次未查證"},
+    {"label": "主要食材", "value": "地瓜、砂糖、油，常加芝麻"},
+    {"label": "吃法", "value": "當零食直接食用"}
+   ],
+   "season_zh": "全年",
+   "where_zh": "高知縣各地伴手禮店與車站",
+   "tags": ["地瓜", "零食", "伴手禮", "高知"],
+   "sources": ["https://ja.wikipedia.org/wiki/芋けんぴ"],
+   "confidence": "medium",
+   "prompt_en": "A small pile of crisp sugar-coated sweet potato sticks with sesame seeds on a plain ceramic plate, a few raw sweet potatoes blurred behind, light wooden table, soft side light, no text, no packaging"
+  },
+  {
+   "title_zh": "高知柚子",
+   "title_ja": "高知のゆず",
+   "category": "特產食材",
+   "summary_zh": "高知縣是日本最大柚子產地，佔全國約四至五成。",
+   "body_zh": "高知縣是日本柚子的最大產地。據日文維基百科「ユズ」條目，高知縣國內產量第一，年產量一萬噸以上，約占全國四到五成，四國三縣（高知、德島、愛媛）更占國產近八成。柚子原產於中國長江上游，平安時代初期傳入日本。夏天出產青柚子，秋冬則是成熟的黃柚子，用於柚子胡椒、柑橘醋、冬至的柚子湯，也常搭配炙烤鰹魚的沾醬。",
+   "facts": [
+    {"label": "起源", "value": "原產中國長江上游，平安時代初期傳入日本"},
+    {"label": "主要食材", "value": "柚子"},
+    {"label": "時節", "value": "夏季青柚子，秋冬黃柚子"}
+   ],
+   "season_zh": "夏至冬",
+   "where_zh": "高知縣中山間地的柚子產地",
+   "tags": ["柚子", "柑橘", "特產", "高知"],
+   "sources": ["https://ja.wikipedia.org/wiki/ユズ"],
+   "confidence": "high",
+   "prompt_en": "Several ripe yellow yuzu fruits with leaves on a rustic wooden board, one halved to show juicy segments, soft morning light, no text, no labels"
+  },
+  {
+   "title_zh": "土佐赤牛",
+   "title_ja": "土佐あかうし",
+   "category": "肉類",
+   "summary_zh": "只在高知縣飼養的稀少褐毛和牛，肉質紅肉多鮮味。",
+   "body_zh": "土佐赤牛是褐毛和種的高知系，只在高知縣內飼養。據日文維基百科「褐毛和種」條目，2019年2月全數僅2,399頭，年出貨平均約470頭，約占全國和牛產量的0.1%，十分稀少。毛色褐色，眼周、鼻、蹄等處為黑色。肉質為紅肉為主，脂肪含量約8%至15%，鮮味佳，且維生素A與E含量高，多以牛排或燒肉形式品嚐。",
+   "facts": [
+    {"label": "起源", "value": "褐毛和種的高知系，只在高知縣飼養"},
+    {"label": "主要食材", "value": "褐毛和種牛肉"},
+    {"label": "吃法", "value": "牛排、燒肉等"}
+   ],
+   "season_zh": "全年",
+   "where_zh": "高知縣內的肉店與餐廳",
+   "tags": ["赤牛", "和牛", "褐毛和種", "稀少"],
+   "sources": ["https://ja.wikipedia.org/wiki/褐毛和種"],
+   "confidence": "medium",
+   "prompt_en": "A single plate of sliced medium-rare Tosa red beef with lean red meat and light marbling, sea salt and wasabi on the side, dark stone surface, warm directional light, no text"
+  },
+  {
+   "title_zh": "土佐地雞",
+   "title_ja": "土佐ジロー",
+   "category": "肉類",
+   "summary_zh": "高知縣開發的蛋肉兼用地雞品種，名字取自土佐與紅島。",
+   "body_zh": "土佐ジロー是高知縣畜產試驗場開發的蛋肉兼用雞種。據日文維基百科，它由高知縣特產的土佐地雞公雞與美國原產的洛島紅母雞雜交而成，屬於一代雜種，體重約1.3至1.5公斤，個頭較小。因洛島紅體型較大，無法自然交配，必須以人工授精繁殖。名字取自「土佐地雞」的「地」與「洛島紅」的「ロー」。關於味道與吃法，本次未能查證。",
+   "facts": [
+    {"label": "起源", "value": "高知縣畜產試驗場開發，土佐地雞公與洛島紅母雜交"},
+    {"label": "主要食材", "value": "雞肉與雞蛋"},
+    {"label": "吃法", "value": "本次未能查證"}
+   ],
+   "season_zh": "全年",
+   "where_zh": "高知縣內的養雞場與餐廳",
+   "tags": ["地雞", "雞蛋", "高知", "品種"],
+   "sources": ["https://ja.wikipedia.org/wiki/土佐ジロー"],
+   "confidence": "medium",
+   "prompt_en": "A single bowl of freshly grilled Tosa Jiro chicken thigh slices with a raw egg yolk on a small side dish, wooden table, soft side light, no text"
+  },
+  {
+   "title_zh": "土佐酒",
+   "title_ja": "土佐の地酒",
+   "category": "酒與飲品",
+   "summary_zh": "高知的清酒文化，細節本次未能核實。",
+   "body_zh": "土佐酒指高知縣各酒藏釀造的在地清酒，是高知飲食文化的一部分。本次嘗試開啟日文維基百科的「土佐酒」與「高知縣」條目，都沒有找到關於酒廠、風味特色與歷史的可靠說明，因此這些部分這裡不下定論，也不推測。若有機會到高知，可以在居酒屋或酒藏詢問店家推薦的在地清酒，搭配當地的料理一起品嚐，親自感受其風味與特色。",
+   "facts": [
+    {"label": "起源", "value": "本次未能查證"},
+    {"label": "主要食材", "value": "米、水（具體酒米與酒廠未能查證）"},
+    {"label": "吃法", "value": "本次未能查證"}
+   ],
+   "season_zh": "全年",
+   "where_zh": "高知市的居酒屋與縣內酒藏",
+   "tags": ["清酒", "土佐", "居酒屋", "地酒"],
+   "sources": ["https://ja.wikipedia.org/wiki/高知県"],
+   "confidence": "low",
+   "prompt_en": "A single ceramic sake bottle and one small sake cup on a wooden tray with a small dish of salted snacks, dark izakaya table, warm low light, no text, no label"
+  }
+ ]
+}

@@ -1,0 +1,285 @@
+{
+  "id": "tokyo",
+  "spots": [
+    {
+      "title_zh": "淺草寺",
+      "title_ja": "浅草寺",
+      "category": "神社寺院",
+      "area_zh": "台東區淺草",
+      "summary_zh": "傳說創建於628年的東京最古老寺院，雷門與仲見世通名揚海外。",
+      "body_zh": "淺草寺位於台東區淺草，相傳創建於628年，是東京最古老的寺院，供奉秘佛聖觀音。江戶時代受德川幕府庇護，現今建築多為1945年東京大空襲後重建，本堂為1958年、寶藏門為1964年、五重塔為1973年。參道由雷門經約250公尺長的仲見世通通往本堂，兩旁商店林立，充滿江戶下町氣氛。入內參拜免費，是日本最多遊客到訪的寺院之一。",
+      "facts": [
+        {
+          "label": "所在地",
+          "value": "東京都台東區淺草二丁目"
+        },
+        {
+          "label": "開創／成因",
+          "value": "相傳628年創建，戰後重建"
+        },
+        {
+          "label": "門票",
+          "value": "境內參拜免費"
+        }
+      ],
+      "best_season_zh": "全年皆宜，清晨人少最適合拍攝",
+      "tips_zh": "最近站為淺草站，步行約5分鐘。建議清晨或夜間點燈後前往，可避開人潮，雷門大燈籠與夜色同框特別好看。",
+      "tags": [
+        "雷門",
+        "仲見世",
+        "江戶下町",
+        "古寺"
+      ],
+      "sources": [
+        "https://ja.wikipedia.org/wiki/浅草寺"
+      ],
+      "confidence": "medium",
+      "prompt_en": "Wide low-angle view of a vermilion Japanese temple gate with a giant red paper lantern in the foreground, a long shop-lined approach street in the middle ground and a five-story pagoda rising in the soft background, early morning golden light, spring, no text, no signboards, no recognizable people"
+    },
+    {
+      "title_zh": "江戶城（皇居東御苑）",
+      "title_ja": "江戸城（皇居東御苑）",
+      "category": "城郭史蹟",
+      "area_zh": "千代田區",
+      "summary_zh": "德川幕府政治中心舊址，石垣、護城河與二重橋仍存。",
+      "body_zh": "江戶城位於千代田區，1457年由太田道灌築城，1590年德川家康入城後大規模擴建，成為幕府政權的中心超過260年。1657年明曆大火燒毀天守後再未重建，1868年無血開城移交明治政府。今日皇居東御苑仍保留石垣、護城河與城門，富士見櫓、伏見櫓、巽櫓等櫓台尚存，櫻田門等城門為重要文化財，二重橋亦是代表景點。東御苑可免費進入。",
+      "facts": [
+        {
+          "label": "所在地",
+          "value": "東京都千代田區"
+        },
+        {
+          "label": "開創／成因",
+          "value": "1457年太田道灌築城，1590年起德川家康擴建"
+        },
+        {
+          "label": "門票",
+          "value": "東御苑及周邊免費"
+        }
+      ],
+      "best_season_zh": "春季櫻花與秋季紅葉",
+      "tips_zh": "最近站為大手町、竹橋或日比谷。東御苑有開放時間與休園日，出發前宜先查官方資訊。出發前請再查官方資訊確認。",
+      "tags": [
+        "德川幕府",
+        "石垣",
+        "二重橋",
+        "護城河"
+      ],
+      "sources": [
+        "https://ja.wikipedia.org/wiki/江戸城"
+      ],
+      "confidence": "medium",
+      "prompt_en": "Massive stone-wall fortress ramparts reflected in a calm moat in the foreground, a white-walled turret on the stone base in the middle ground, modern skyscrapers faintly in the far background, spring cherry blossoms, soft late-afternoon light, no text, no recognizable people"
+    },
+    {
+      "title_zh": "小笠原諸島",
+      "title_ja": "小笠原諸島",
+      "category": "海島海岸",
+      "area_zh": "小笠原村（父島・母島）",
+      "summary_zh": "距東京約1000公里的海洋島群，2011年列入世界自然遺產。",
+      "body_zh": "小笠原諸島位於東京特別區南南東約1000公里的太平洋上，由太平洋板塊俯衝至菲律賓海板塊東緣形成的海洋性島弧組成。島嶼自形成以來未與大陸相連，孕育出豐富的固有種動植物，有「東洋加拉巴哥」之稱，2011年6月29日登錄為世界自然遺產。看點包括賞鯨、珊瑚礁與被稱為「小笠原藍」的深邃海色。從東京竹芝棧橋乘「小笠原丸」到父島約需24小時。",
+      "facts": [
+        {
+          "label": "所在地",
+          "value": "東京南南東約1000公里的太平洋上"
+        },
+        {
+          "label": "開創／成因",
+          "value": "板塊俯衝形成的海洋性島弧，2011年登錄世界自然遺產"
+        },
+        {
+          "label": "交通",
+          "value": "竹芝棧橋乘小笠原丸至父島約24小時，班次稀少"
+        }
+      ],
+      "best_season_zh": "賞鯨季節為冬春，夏季適合海上活動",
+      "tips_zh": "船班每三到六天才一班，行程需預留往返與停留日數。出發前務必先查最新船期與訂位。出發前請再查官方資訊確認。",
+      "tags": [
+        "世界自然遺產",
+        "賞鯨",
+        "珊瑚礁",
+        "固有種"
+      ],
+      "sources": [
+        "https://ja.wikipedia.org/wiki/小笠原諸島"
+      ],
+      "confidence": "high",
+      "prompt_en": "Aerial view of a remote subtropical island with a deep cobalt-blue sea, white coral-sand cove, forested green ridges rising behind, small fishing boat wake in the foreground, clear summer midday light, no text, no recognizable people"
+    },
+    {
+      "title_zh": "高尾山",
+      "title_ja": "高尾山",
+      "category": "山岳高原",
+      "area_zh": "八王子市高尾町",
+      "summary_zh": "標高599.3公尺的修驗道靈山，離都心約一小時的登山勝地。",
+      "body_zh": "高尾山位於八王子市，標高599.3公尺，是關東山地東緣的靈山。744年由行基開山，山腹有真言宗智山派大本山高尾山藥王院，自古為修驗道道場。江戶時代受幕府直轄保護，森林得以保存。山頂可眺望關東平原與富士山，冬至前後有機會看見鑽石富士。登山可搭乘纜車或登山吊椅到山腰，被米其林指南評為三星景點，每年約有260萬人到訪。",
+      "facts": [
+        {
+          "label": "所在地",
+          "value": "東京都八王子市高尾町，標高599.3公尺"
+        },
+        {
+          "label": "開創／成因",
+          "value": "744年行基開山，修驗道靈場"
+        },
+        {
+          "label": "交通",
+          "value": "京王高尾線高尾山口站，都心約1小時"
+        }
+      ],
+      "best_season_zh": "秋季紅葉與冬季晴天遠眺富士",
+      "tips_zh": "可搭纜車或吊椅省力上山，再步行至山頂。假日人多，建議清晨出發，並穿防滑的運動鞋。",
+      "tags": [
+        "米其林三星",
+        "藥王院",
+        "富士眺望",
+        "登山"
+      ],
+      "sources": [
+        "https://ja.wikipedia.org/wiki/高尾山"
+      ],
+      "confidence": "high",
+      "prompt_en": "Forested mountain ridge in autumn with red and orange maple leaves in the foreground, a stone-lantern lined path winding through mid-ground trees, distant snow-capped Mount Fuji silhouette on the horizon at dusk, soft golden light, no text, no recognizable people"
+    },
+    {
+      "title_zh": "濱離宮恩賜庭園",
+      "title_ja": "浜離宮恩賜庭園",
+      "category": "庭園公園",
+      "area_zh": "中央區濱離宮庭園",
+      "summary_zh": "引東京灣海水入池的江戶大名庭園，與高樓同框。",
+      "body_zh": "濱離宮恩賜庭園位於中央區，面積約25萬平方公尺。江戶時代原為甲府藩的別墅，後成為將軍家的「御濱御殿」，明治維新後歸皇室並稱濱離宮，1945年移交東京都，1946年4月起對外開放。園內最大特色是引入東京灣海水的潮入池，隨潮汐漲退改變景致；另有東京最大的黑松「三百年松」與重建的茶屋。庭園為特別史蹟及特別名勝，入園費300日圓。",
+      "facts": [
+        {
+          "label": "所在地",
+          "value": "東京都中央區濱離宮庭園"
+        },
+        {
+          "label": "開創／成因",
+          "value": "江戶時代甲府藩別墅，後為將軍家別邸，1946年開放"
+        },
+        {
+          "label": "門票",
+          "value": "一般300日圓，65歲以上150日圓"
+        }
+      ],
+      "best_season_zh": "春季櫻花與初秋晴天",
+      "tips_zh": "最近站為汐留站，步行約5至7分鐘。可由園內茶屋看潮入池與背後的高樓景觀，費用以現場公告為準。",
+      "tags": [
+        "潮入池",
+        "特別名勝",
+        "江戶庭園",
+        "高樓借景"
+      ],
+      "sources": [
+        "https://ja.wikipedia.org/wiki/浜離宮恩賜庭園"
+      ],
+      "confidence": "high",
+      "prompt_en": "Traditional Japanese tidal-pond garden with a small thatched tea house on a pond island and a wooden bridge in the foreground, ancient pine trees mid-ground, modern glass skyscrapers rising behind in soft haze, clear spring morning light, no text, no recognizable people"
+    },
+    {
+      "title_zh": "東京晴空塔",
+      "title_ja": "東京スカイツリー",
+      "category": "主題設施",
+      "area_zh": "墨田區押上",
+      "summary_zh": "高634公尺的世界最高塔，設計靈感取自五重塔。",
+      "body_zh": "東京晴空塔位於墨田區押上，高度634公尺，2011年獲金氏世界紀錄認定為世界第一高塔，2012年5月22日開業。因東京鐵塔的電波被高樓遮擋，NHK與在京民營電視台於2003年底成立推進計畫，2008年7月動工。設計概念源自日本傳統五重塔的結構系統，塔身斷面由底部的正三角形逐漸變成圓形。350公尺的天望甲板與450公尺的天望迴廊提供全景視野。",
+      "facts": [
+        {
+          "label": "所在地",
+          "value": "東京都墨田區押上一丁目"
+        },
+        {
+          "label": "開創／成因",
+          "value": "為改善電波傳送而興建，2008年動工、2012年開業"
+        },
+        {
+          "label": "看點",
+          "value": "350公尺天望甲板與450公尺天望迴廊"
+        }
+      ],
+      "best_season_zh": "冬季空氣清澈，黃昏至夜景最佳",
+      "tips_zh": "最近站為東京晴空塔站或押上站。展望台票價與預約規定常有調整，出發前請查官方網站。",
+      "tags": [
+        "世界第一高塔",
+        "夜景",
+        "五重塔靈感",
+        "展望台"
+      ],
+      "sources": [
+        "https://ja.wikipedia.org/wiki/東京スカイツリー"
+      ],
+      "confidence": "high",
+      "prompt_en": "Slender futuristic broadcasting tower rising into a deep blue twilight sky, a calm river with city lights reflecting in the foreground, low-rise rooftops in the middle ground, soft glowing illumination along the tower, no text, no signage, no recognizable people"
+    },
+    {
+      "title_zh": "日原鐘乳洞",
+      "title_ja": "日原鍾乳洞",
+      "category": "自然絕景",
+      "area_zh": "西多摩郡奧多摩町",
+      "summary_zh": "全長1270公尺的關東屈指可數大型鐘乳洞，為東京都天然紀念物。",
+      "body_zh": "日原鐘乳洞位於西多摩郡奧多摩町，全長約1270公尺、高低差134公尺，是關東規模最大級的鐘乳洞之一。洞窟由日原川支流小川谷的水流侵蝕石灰岩而成，沿著陡峭的溪谷分布。昔日為山岳信仰的參拜地，現為東京都指定天然紀念物，洞內石柱與鐘乳石景觀吸引遊客。成人入洞費用為900日圓，4至11月開放時間為9點至17點。",
+      "facts": [
+        {
+          "label": "所在地",
+          "value": "東京都西多摩郡奧多摩町"
+        },
+        {
+          "label": "開創／成因",
+          "value": "石灰岩受小川谷水流侵蝕形成"
+        },
+        {
+          "label": "門票",
+          "value": "成人900日圓（2026年）"
+        }
+      ],
+      "best_season_zh": "夏季洞內涼爽，秋季溪谷紅葉",
+      "tips_zh": "由JR青梅線奧多摩站搭巴士約30分鐘。道路狹窄、易有落石，洞內濕滑且氣溫低，宜穿防滑鞋並帶外套。",
+      "tags": [
+        "鐘乳洞",
+        "奧多摩",
+        "天然紀念物",
+        "溪谷"
+      ],
+      "sources": [
+        "https://ja.wikipedia.org/wiki/日原鍾乳洞"
+      ],
+      "confidence": "high",
+      "prompt_en": "Interior of a limestone cave with dramatic stalactites and stalagmites lit by warm amber lights, a narrow stone path and wet reflective floor in the foreground, deeper dark chambers in the background, no text, no signs, no recognizable people"
+    },
+    {
+      "title_zh": "谷根千（谷中・根津・千駄木）",
+      "title_ja": "谷根千（谷中・根津・千駄木）",
+      "category": "街區古鎮",
+      "area_zh": "文京區・台東區",
+      "summary_zh": "躲過戰火、保留下町風貌的三個懷舊街區。",
+      "body_zh": "谷根千是谷中、根津、千駄木三個街區的合稱，橫跨文京區與台東區。這一帶躲過了二戰空襲，戰後也未經大規模再開發，仍保有老街風貌與傳統下町氣氛。1984年創刊的地方小誌《谷根千》以介紹在地歷史與文化而聞名，帶動了下町散步的風潮，雜誌於2009年停刊。街區內保存木造町屋，並與新式小店、餐廳並存，適合慢慢步行探索。",
+      "facts": [
+        {
+          "label": "所在地",
+          "value": "東京都文京區與台東區"
+        },
+        {
+          "label": "開創／成因",
+          "value": "躲過二戰空襲而保留老街，地方小誌帶動知名度"
+        },
+        {
+          "label": "看點",
+          "value": "木造町屋、傳統街景與在地小店"
+        }
+      ],
+      "best_season_zh": "春季櫻花與秋季漫步",
+      "tips_zh": "以步行為主，可從日暮里站一帶出發。巷弄居民生活區多，拍照與聲量請保持禮貌。出發前請再查官方資訊確認。",
+      "tags": [
+        "下町",
+        "老街",
+        "木造町屋",
+        "散步"
+      ],
+      "sources": [
+        "https://ja.wikipedia.org/wiki/谷根千"
+      ],
+      "confidence": "medium",
+      "prompt_en": "Narrow nostalgic Tokyo old-town lane with low wooden townhouses, hanging potted plants and a gentle stone staircase in the mid-ground, warm late-afternoon sunlight casting long shadows, a bicycle leaning in the foreground, no text, no signboards, no recognizable people"
+    }
+  ]
+}

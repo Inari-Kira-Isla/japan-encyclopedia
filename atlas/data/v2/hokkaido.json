@@ -1,0 +1,971 @@
+{
+ "id": "hokkaido",
+ "name_zh": "北海道",
+ "name_ja": "北海道",
+ "region": "北海道",
+ "overview": {
+  "intro_zh": "北海道是日本最北、面積最大的一級行政區，隔津輕海峽與本州相望。1869年設置開拓使後大規模開發，札幌、函館、小樽等城市發展出獨特的西式街景。氣候冷涼，冬季雪量充沛，夏季乾爽宜人，孕育出薰衣草田、丘陵農地與廣闊牧場。原住民族阿伊努的文化是島上重要的歷史底蘊，知床則於2005年成為世界自然遺產。乳製品、海鮮、拉麵、馬鈴薯與玉米等食材享譽全國，是日本人氣最高的旅遊目的地之一。",
+  "capital_zh": "札幌",
+  "area_km2": 83400,
+  "population_approx": "約504萬（2024年推計）",
+  "flower_zh": "濱茄子（ハマナス，玫瑰類）",
+  "bird_zh": "丹頂鶴（タンチョウ）",
+  "tree_zh": "蝦夷松（エゾマツ）",
+  "climate_zh": "冷溫帶氣候，冬季長且雪量大，夏季涼爽乾燥，梅雨影響小。",
+  "access_zh": "新千歲機場為主要門戶，另有函館、旭川、釧路等機場；本州可搭北海道新幹線至新函館北斗。",
+  "specialties_zh": [
+   "夕張哈密瓜",
+   "帝王蟹與海膽",
+   "札幌味噌拉麵",
+   "乳製品與冰淇淋",
+   "石狩鍋與鮭魚",
+   "成吉思汗烤羊肉"
+  ],
+  "best_season_zh": "夏季（6–8月）賞花與避暑，冬季（1–2月）滑雪與雪祭"
+ },
+ "items": {
+  "architecture": {
+   "title_zh": "北海道廳舊本廳舍（赤煉瓦）",
+   "title_ja": "北海道庁旧本庁舎",
+   "summary_zh": "1888年落成的美式新巴洛克紅磚廳舍，札幌象徵。",
+   "body_zh": "北海道廳舊本廳舍俗稱「赤煉瓦」，1888年（明治21年）落成，是以美國麻薩諸塞州議事堂為範本的新巴洛克式建築，使用約250萬塊紅磚，中央矗立八角形圓頂。它是開拓使時代之後北海道行政的中樞，1969年被指定為國家重要文化財。至1968年為道廳本廳舍，現開放內部參觀，設有北方領土展示室與公文書館。前庭的銀杏在秋季染成金黃，與紅磚形成強烈對比。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "札幌市中央區北3條西6丁目"
+    },
+    {
+     "label": "落成",
+     "value": "1888年（明治21年）"
+    },
+    {
+     "label": "文化財",
+     "value": "國家重要文化財（1969年指定）"
+    },
+    {
+     "label": "樣式",
+     "value": "新巴洛克式紅磚建築"
+    }
+   ],
+   "best_season_zh": "秋季（銀杏）、冬季雪景",
+   "tips_zh": "內部免費參觀，建議平日前往較安靜；每年夏冬也會舉辦夜間燈光活動，出發前先查官網開放時間。",
+   "tags": [
+    "紅磚",
+    "明治建築",
+    "重要文化財",
+    "札幌"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/%E5%8C%97%E6%B5%B7%E9%81%93%E5%BA%81%E6%97%A7%E6%9C%AC%E5%BA%81%E8%88%8E"
+   ],
+   "confidence": "medium",
+   "prompt_en": "Historic red-brick neo-baroque Hokkaido former government building with white-trimmed octagonal central dome, ginkgo trees in golden autumn leaves in front, soft afternoon light, wide front view"
+  },
+  "food": {
+   "title_zh": "札幌味噌拉麵",
+   "title_ja": "札幌味噌ラーメン",
+   "summary_zh": "濃郁味噌湯底配粗捲麵，北海道拉麵代表。",
+   "body_zh": "札幌味噌拉麵是札幌拉麵的代表，一般認為1950年代中期由札幌店家「味の三平」創始，在豚骨或雞骨湯中加入味噌，用大火快炒豆芽與洋蔥提香，再配上有彈性的粗捲麵。湯面常浮一層熱油保溫，以抵禦北國寒冬。常見配料有叉燒、玉米、奶油與筍乾。札幌市內有「拉麵橫丁」集中多家店舖，也是遊客必訪的美食體驗。拉麵的味噌多採用北海道產大豆製作，各店會調配出不同的紅味噌與白味噌比例。札幌味噌拉麵常與函館鹽味、旭川醬油並稱北海道三大拉麵。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "札幌市（全道皆有）"
+    },
+    {
+     "label": "起源",
+     "value": "1950年代中期，札幌（傳為味の三平）"
+    },
+    {
+     "label": "特色",
+     "value": "味噌湯底、粗捲麵、炒蔬菜"
+    },
+    {
+     "label": "常見配料",
+     "value": "叉燒、玉米、奶油、豆芽"
+    }
+   ],
+   "best_season_zh": "冬季最合時令",
+   "tips_zh": "熱門店常需排隊，建議避開正午；奶油與玉米可依喜好加點，並留意店家是否供應加大麵量或免費加麵服務。",
+   "tags": [
+    "拉麵",
+    "味噌",
+    "札幌",
+    "B級美食"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/%E6%9C%AD%E5%B9%8C%E3%83%A9%E3%83%BC%E3%83%A1%E3%83%B3"
+   ],
+   "confidence": "medium",
+   "prompt_en": "Steaming bowl of Sapporo miso ramen with curly noodles, corn, butter pat, chashu and bean sprouts on a wooden counter, warm steam, close-up top-down 45 degree view"
+  },
+  "culture": {
+   "title_zh": "札幌雪祭",
+   "title_ja": "さっぽろ雪まつり",
+   "summary_zh": "每年二月於大通公園展出巨大雪像與冰雕。",
+   "body_zh": "札幌雪祭始於1950年，起初是當地高中生在大通公園堆了六座雪像，之後發展成北海道冬季最大的活動。會場主要分為大通、薄野（冰雕）和つどーむ（遊樂型）三處，每年二月上旬舉行，約一週。大型雪像由市民、札幌市政府與日本陸上自衛隊等協力製作，夜間配合燈光與投影，十分壯觀。祭典也促成海外多國隊伍參加的國際雪像比賽。雪像完成後，會在夜間以彩色燈光與投影重新演出，讓冰雪化為光影舞台。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "札幌市大通公園、薄野、つどーむ"
+    },
+    {
+     "label": "起源",
+     "value": "1950年"
+    },
+    {
+     "label": "時節",
+     "value": "二月上旬，約一週"
+    },
+    {
+     "label": "特色",
+     "value": "大型雪像、冰雕、夜間投影"
+    }
+   ],
+   "best_season_zh": "2月上旬",
+   "tips_zh": "會場氣溫常在零下，需防滑鞋與保暖；大通會場夜間燈光最美，當日可順道逛薄野冰雕，若想拍攝雪像細節，建議白天先看、晚上再回訪。",
+   "tags": [
+    "雪祭",
+    "冬季",
+    "大通公園",
+    "冰雕"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/%E3%81%95%E3%81%A3%E3%81%BD%E3%82%8D%E9%9B%AA%E3%81%BE%E3%81%A4%E3%82%8A",
+    "https://www.snowfes.com/"
+   ],
+   "confidence": "high",
+   "prompt_en": "Giant illuminated snow sculpture of a castle at Odori Park Sapporo Snow Festival at night, crowds in winter coats, colorful projection lights on snow, wide shot"
+  },
+  "history": {
+   "title_zh": "五稜郭",
+   "title_ja": "五稜郭",
+   "summary_zh": "函館的星形西式要塞，幕末箱館戰爭舞台。",
+   "body_zh": "五稜郭是江戶幕府為防備外國船隻，在箱館（今函館）建造的西洋式星形城塞，由武田斐三郎參考法國築城學設計，1857年動工，約1864年完成。1868至1869年，舊幕府軍榎本武揚等人在此成立短暫政權，與新政府軍展開箱館戰爭，最終投降，象徵戊辰戰爭落幕。五稜郭為國家特別史蹟，現為公園，春季櫻花盛開，從五稜郭塔可俯瞰完整的星形輪廓。戰役結束後，五稜郭曾長期由政府管理，1914年起對外開放為公園，1952年指定為特別史蹟。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "函館市五稜郭町"
+    },
+    {
+     "label": "動工",
+     "value": "1857年"
+    },
+    {
+     "label": "事件",
+     "value": "箱館戰爭（1868–69）"
+    },
+    {
+     "label": "指定",
+     "value": "國家特別史蹟"
+    }
+   ],
+   "best_season_zh": "4月下旬至5月上旬（櫻花）",
+   "tips_zh": "登五稜郭塔最能看見星形全貌；冬季會點亮燈飾「五稜星之夢」，可與夜景行程併排，旅客可在公園內走完整圈護城河步道。",
+   "tags": [
+    "要塞",
+    "幕末",
+    "櫻花",
+    "函館"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/%E4%BA%94%E7%A8%9C%E9%83%AD"
+   ],
+   "confidence": "high",
+   "prompt_en": "Aerial view of Goryokaku star-shaped fortress in Hakodate with moat and cherry blossoms, geometric five-pointed layout, clear morning light"
+  },
+  "mascot": {
+   "title_zh": "北海道吉祥物巡禮與原創哈密瓜小熊",
+   "title_ja": "メロンベア（原創）",
+   "summary_zh": "介紹北海道觀光吉祥物，並以夕張哈密瓜與棕熊構想原創角色。",
+   "body_zh": "北海道觀光振興機構的官方吉祥物是「Kyun-chan（キュンちゃん）」，用於推廣北海道觀光，近年周邊商品銷售成長。此處的插畫則另行構想一隻原創角色「哈密瓜小熊」，靈感來自夕張哈密瓜的網紋外觀與棕熊（ヒグマ）這個北海道象徵動物，並不複製任何現有商標吉祥物。畫面設定為夏日丘陵田野，帶出北海道農業與大自然的印象。北海道的許多地方也有各自的吉祥物，如各市町村的當地角色，常出現在伴手禮與活動中。",
+   "facts": [
+    {
+     "label": "官方吉祥物",
+     "value": "Kyun-chan（北海道觀光振興機構）"
+    },
+    {
+     "label": "插畫角色",
+     "value": "原創「哈密瓜小熊」"
+    },
+    {
+     "label": "靈感",
+     "value": "夕張哈密瓜、棕熊"
+    },
+    {
+     "label": "用途",
+     "value": "旅遊插畫與周邊構想"
+    }
+   ],
+   "best_season_zh": "全年",
+   "tips_zh": "北海道各地車站與機場常有吉祥物周邊專賣；購買時留意是否為官方授權商品，也可到道內物產館找尋各式角色周邊。",
+   "tags": [
+    "吉祥物",
+    "原創角色",
+    "哈密瓜",
+    "棕熊"
+   ],
+   "sources": [
+    "https://www.hokkaido-np.co.jp/article/1364254/",
+    "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%A5%E3%83%B3%E3%81%A1%E3%82%83%E3%82%93"
+   ],
+   "confidence": "medium",
+   "prompt_en": "Cute original bear character with a melon-patterned round body and green vine tail, standing in a Hokkaido field of rolling hills, soft pastel colors, children's picture-book style. Original cute character, not replicating any existing trademarked mascot."
+  },
+  "scenery": {
+   "title_zh": "富良野薰衣草田",
+   "title_ja": "富良野ラベンダー畑",
+   "summary_zh": "夏季紫色花田連綿至十勝岳山麓。",
+   "body_zh": "富良野位於北海道中央，是日本最知名的薰衣草產地。七月中旬前後，富田農場、日之出公園一帶的薰衣草田盛開，紫色花浪向十勝岳連峰延伸，並與黃色、粉紅色花帶交織成彩色條紋。薰衣草原本為香料原料作物，後來因觀光與影視作品而聞名。夏季的富良野氣候涼爽，周邊還有哈密瓜、玉米等農產可品嚐。富良野的觀光季節集中在六月下旬到八月上旬，之後花田轉為收割，景色隨之轉為田園風貌。拍照時請留意別踩進農田，也盡量避免占用農家道路。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "富良野市、中富良野町"
+    },
+    {
+     "label": "時節",
+     "value": "7月上中旬為盛開期"
+    },
+    {
+     "label": "背景",
+     "value": "十勝岳連峰"
+    },
+    {
+     "label": "相關",
+     "value": "富田農場、日之出公園"
+    }
+   ],
+   "best_season_zh": "7月上中旬",
+   "tips_zh": "盛開期人潮多，建議早上前往；JR富良野線夏季有臨時「薰衣草花田站」可利用，前往前請查詢當年花期預報。",
+   "tags": [
+    "薰衣草",
+    "夏季",
+    "花田",
+    "富良野"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/%E5%AF%8C%E8%89%AF%E9%87%8E",
+    "https://www.visit-hokkaido.jp/"
+   ],
+   "confidence": "medium",
+   "prompt_en": "Rows of blooming purple lavender fields in Furano in July with Tokachi mountain range in the distance, blue sky with soft clouds, golden sunlight, wide landscape"
+  },
+  "spot": {
+   "title_zh": "小樽運河",
+   "title_ja": "小樽運河",
+   "summary_zh": "石造倉庫與瓦斯燈映照的懷舊運河。",
+   "body_zh": "小樽運河建於1914至1923年間，是為了讓船隻把貨物卸到倉庫而開鑿的運河，全長約1,140公尺。隨著港口功能衰退，一度面臨被填平的命運，經市民保存運動，部分保留並整修為散步道，沿岸石造倉庫改為餐廳與工藝店。傍晚瓦斯燈亮起，倒映在水面，是小樽最具代表性的風景。冬季雪中的運河更添浪漫氣氛。運河也是小樽的活動核心，每年2月舉辦「雪燈之路」，讓運河化為一片雪夜燈海。夏季運河旁也有遊船，可從水面欣賞倉庫與街景。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "小樽市港町、色內"
+    },
+    {
+     "label": "建成",
+     "value": "1914–1923年"
+    },
+    {
+     "label": "長度",
+     "value": "約1,140公尺"
+    },
+    {
+     "label": "現況",
+     "value": "散步道、石造倉庫群"
+    }
+   ],
+   "best_season_zh": "全年；2月雪燈之路",
+   "tips_zh": "傍晚藍調時刻最漂亮；沿岸可坐遊船，從水面看倉庫又是另一種景色，運河附近停車位有限，建議搭乘電車前往。",
+   "tags": [
+    "運河",
+    "倉庫",
+    "夜景",
+    "小樽"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/%E5%B0%8F%E6%A8%BD%E9%81%8B%E6%B2%B3",
+    "https://www.otaru.gr.jp/"
+   ],
+   "confidence": "medium",
+   "prompt_en": "Otaru Canal at dusk with old stone warehouses and gas lamps reflecting on calm water, gentle blue hour light, light snow, wide composition"
+  },
+  "experience": {
+   "title_zh": "二世谷粉雪滑雪",
+   "title_ja": "ニセコ パウダースノー",
+   "summary_zh": "羊蹄山下享受世界級粉雪滑行。",
+   "body_zh": "二世谷位於北海道西南部，與羊蹄山（海拔1,898公尺，有「蝦夷富士」之稱）相望。冬季受日本海的潮濕空氣影響，降下乾爽輕盈的粉雪，吸引海外滑雪者長期造訪。由多個滑雪場連成的區域涵蓋初學至進階雪道，並有溫泉與多國餐廳，度假設施集中。除了滑雪，也可嘗試雪鞋健行與雪地摩托車等活動。二世谷整體雪質以乾燥輕盈著稱，從12月下旬到3月初為最佳雪況，吸引許多海外滑雪客。夏季這裡也變成登山、泛舟的度假勝地。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "虻田郡二世谷町、倶知安町一帶"
+    },
+    {
+     "label": "山岳",
+     "value": "羊蹄山（約1,898公尺）"
+    },
+    {
+     "label": "雪季",
+     "value": "約12月至4月"
+    },
+    {
+     "label": "特色",
+     "value": "乾爽粉雪、國際度假村"
+    }
+   ],
+   "best_season_zh": "12月下旬至3月",
+   "tips_zh": "雪季旅館需提早訂；租借雪具可在山腳店面辦理，亦建議參加有證照教練的導覽以確保安全，抵達時建議先評估自己的滑雪程度再選雪道。",
+   "tags": [
+    "滑雪",
+    "粉雪",
+    "羊蹄山",
+    "冬季運動"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%82%BB%E3%82%B3",
+    "https://ja.wikipedia.org/wiki/%E7%BE%8A%E8%B9%84%E5%B1%B1"
+   ],
+   "confidence": "medium",
+   "prompt_en": "Skier carving through deep powder snow at Niseko with Mount Yotei in the background, snow spray in the air, bright winter morning, dynamic action shot"
+  },
+  "costume": {
+   "title_zh": "阿伊努傳統服飾",
+   "title_ja": "アイヌの伝統衣装",
+   "summary_zh": "刺繡花紋的阿伊努民族長袍。",
+   "body_zh": "阿伊努族是北海道、庫頁島與千島一帶的原住民族。傳統衣服依地區與材質不同，常見的有以鬼胡桃或榆樹內皮纖維織成的「厚司（アットゥシ）」，以及以棉布縫製、施以刺繡的衣物。衣服上的曲線、渦紋與鋸齒紋樣被認為具有護身意義，各家族與地區的圖案略有差異。2019年日本通過阿伊努政策推進法，確認其為原住民族；2020年位於白老的民族共生象徵空間「Upopoy」開幕，成為認識其文化的據點。",
+   "facts": [
+    {
+     "label": "族群",
+     "value": "阿伊努（アイヌ）"
+    },
+    {
+     "label": "代表布料",
+     "value": "厚司（榆樹皮纖維織物）"
+    },
+    {
+     "label": "特色",
+     "value": "曲線、渦紋刺繡"
+    },
+    {
+     "label": "學習據點",
+     "value": "白老町Upopoy（2020年開幕）"
+    }
+   ],
+   "best_season_zh": "夏季至秋季",
+   "tips_zh": "參觀時請以尊重態度對待文化；Upopoy內設有工藝與歌舞體驗，部分需預約，也可在祭典期間欣賞相關演出。",
+   "tags": [
+    "阿伊努",
+    "原住民",
+    "刺繡",
+    "傳統服飾"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%83%E3%83%88%E3%82%A5%E3%82%B7",
+    "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%A4%E3%83%8C"
+   ],
+   "confidence": "medium",
+   "prompt_en": "Anonymous model wearing a traditional Ainu robe with bold white and dark blue embroidered curved patterns and a headband, standing in a forest clearing in autumn, full body, natural light"
+  }
+ },
+ "areas": [
+  {
+   "id": "hokkaido_sapporo",
+   "name_zh": "札幌",
+   "name_ja": "札幌",
+   "intro_zh": "北海道最大都市，人口近兩百萬，街道呈棋盤式，大通公園貫穿市中心，冬季雪祭聞名全國。味噌拉麵、湯咖哩與成吉思汗烤羊肉等美食集中，也是前往全道各地的交通樞紐。",
+   "items": {
+    "spot": {
+     "title_zh": "札幌電視塔與大通公園",
+     "title_ja": "さっぽろテレビ塔・大通公園",
+     "summary_zh": "大通公園東端的鐵塔，札幌市中心地標。",
+     "body_zh": "札幌電視塔高約147公尺，1957年啟用，位於大通公園東端，是札幌市區最具辨識度的地標。展望台約90公尺高，可俯瞰橫貫市中心、長約1.5公里的大通公園，夏季有啤酒花園，冬季則是雪祭會場。大通公園原是區隔官廳區與商業區的防火帶，之後成為市民休憩的綠地，四季活動不斷。夜間燈光亮起後，塔身與大通公園的綠地形成市中心的夜景焦點，適合傍晚散步前往。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "札幌市中央區大通西1丁目"
+      },
+      {
+       "label": "啟用",
+       "value": "1957年"
+      },
+      {
+       "label": "高度",
+       "value": "約147公尺"
+      },
+      {
+       "label": "展望台",
+       "value": "約90公尺"
+      }
+     ],
+     "best_season_zh": "夏季啤酒節、2月雪祭",
+     "tips_zh": "夜間點燈後的塔身最好看；展望台日落前入場可同時看到晝景與夜景，附近有地下街可避雨雪。",
+     "tags": [
+      "電視塔",
+      "大通公園",
+      "市中心",
+      "地標"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/%E3%81%95%E3%81%A3%E3%81%BD%E3%82%8D%E3%83%86%E3%83%AC%E3%83%93%E5%A1%94",
+      "https://ja.wikipedia.org/wiki/%E5%A4%A7%E9%80%9A%E5%85%AC%E5%9C%92"
+     ],
+     "confidence": "medium",
+     "prompt_en": "Sapporo TV Tower at the east end of Odori Park, green lawns and flower beds in summer, blue sky, wide view along the park"
+    },
+    "food": {
+     "title_zh": "札幌味噌拉麵",
+     "title_ja": "札幌味噌ラーメン",
+     "summary_zh": "濃厚味噌湯頭的札幌代表拉麵。",
+     "body_zh": "札幌的拉麵店密度極高，味噌拉麵以濃稠湯底、炒過的蔬菜與粗捲麵最為人熟知，湯面常有一層熱油保溫。拉麵橫丁位於薄野附近，狹窄小巷內聚集多家名店，每家風味不同，有的偏濃厚豚骨，有的偏清爽。除了拉麵，札幌的湯咖哩與成吉思汗烤羊肉也是在地名物。除了湯麵店，薄野一帶還有居酒屋與海鮮餐廳，適合安排晚餐後再去吃一碗收尾拉麵。札幌也有湯咖哩與成吉思汗烤羊肉等在地料理，可在同一趟行程中一併體驗。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "札幌市中央區薄野一帶"
+      },
+      {
+       "label": "特色",
+       "value": "味噌湯底、炒蔬菜"
+      },
+      {
+       "label": "名店區",
+       "value": "拉麵橫丁"
+      },
+      {
+       "label": "搭配",
+       "value": "啤酒、飯糰"
+      }
+     ],
+     "best_season_zh": "冬季",
+     "tips_zh": "深夜收尾的一碗拉麵也是札幌人的習慣；店多現金為主，先備好零錢，可先用地圖確認各店的公休日，營業時間以各店公告為準。",
+     "tags": [
+      "拉麵",
+      "薄野",
+      "夜宵",
+      "札幌"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/%E6%9C%AD%E5%B9%8C%E3%83%A9%E3%83%BC%E3%83%A1%E3%83%B3"
+     ],
+     "confidence": "medium",
+     "prompt_en": "Bowl of rich Sapporo miso ramen with corn, butter and chashu served at a small ramen alley counter at night, steam rising, warm neon glow behind"
+    },
+    "scenery": {
+     "title_zh": "藻岩山夜景",
+     "title_ja": "藻岩山の夜景",
+     "summary_zh": "札幌近郊小山上俯瞰市街夜景。",
+     "body_zh": "藻岩山海拔531公尺，位於札幌市區西南側，可搭纜車與小型登山纜車到山頂展望台，俯瞰札幌市街與石狩平原。夜景曾被票選為日本新三大夜景之一，日落後街燈漸亮的景色最受歡迎。山上另有餐廳與散步道，晴天視野可延伸到石狩灣。電車抵達山腳後，旅客也可選擇步行登山道或乘專用巴士，從不同角度欣賞市街與山林。山腳設有纜車站，來回約需半小時，頂端的展望台附設餐廳，天氣晴朗時視野開闊。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "札幌市中央區"
+      },
+      {
+       "label": "海拔",
+       "value": "531公尺"
+      },
+      {
+       "label": "交通",
+       "value": "纜車＋小型登山纜車"
+      },
+      {
+       "label": "特色",
+       "value": "市區夜景"
+      }
+     ],
+     "best_season_zh": "全年；夏季黃昏最佳",
+     "tips_zh": "山頂風大，夜間氣溫低，需外套；纜車營業時間隨季節調整，出發前先查，晚間可預留一小時以上欣賞點燈過程，天候不佳時請先查看纜車營運狀況。",
+     "tags": [
+      "夜景",
+      "藻岩山",
+      "纜車",
+      "札幌"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/%E8%97%BB%E5%B2%A9%E5%B1%B1"
+     ],
+     "confidence": "medium",
+     "prompt_en": "Night view of Sapporo city lights from Mount Moiwa summit, glittering grid of streets, dusk sky with deep blue gradient, wide shot"
+    }
+   }
+  },
+  {
+   "id": "hokkaido_otaru",
+   "name_zh": "小樽",
+   "name_ja": "小樽",
+   "intro_zh": "臨日本海的港口城市，距札幌約半小時車程。因運河與石造倉庫群聞名，海鮮壽司、玻璃工藝與音樂盒店舖集中，二月的雪燈之路更添浪漫，是熱門的一日遊目的地。",
+   "items": {
+    "spot": {
+     "title_zh": "小樽運河",
+     "title_ja": "小樽運河",
+     "summary_zh": "石造倉庫與瓦斯燈映照的運河。",
+     "body_zh": "小樽運河是1923年完成的運河，如今成為小樽的象徵。沿岸的石造倉庫經過改造，變成咖啡館、餐廳與雜貨店。運河與北一硝子館、音樂盒堂、堺町通商店街步行距離都很近，適合半日散步。傍晚點燈後，水面倒映暖光，常有攝影者駐足。運河南側的石造倉庫群是小樽港繁榮時期的物流據點，歷史厚重，如今成為重要的觀光資產。沿運河散步約需半小時，途中可坐下欣賞水面光影，是小樽最具代表性的畫面。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "小樽市港町、色內"
+      },
+      {
+       "label": "完成",
+       "value": "1923年"
+      },
+      {
+       "label": "周邊",
+       "value": "堺町通、北一硝子"
+      },
+      {
+       "label": "交通",
+       "value": "JR小樽站步行約10分鐘"
+      }
+     ],
+     "best_season_zh": "全年",
+     "tips_zh": "運河邊的商店多在傍晚關門，想拍夜景可先逛街再回運河，也可順道走訪旁邊的北一硝子館，雪天路面濕滑，請穿防滑鞋。",
+     "tags": [
+      "運河",
+      "倉庫",
+      "散步",
+      "小樽"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/%E5%B0%8F%E6%A8%BD%E9%81%8B%E6%B2%B3"
+     ],
+     "confidence": "medium",
+     "prompt_en": "Otaru Canal at dusk with old stone warehouses and gas lamps reflecting on calm water, gentle blue hour light, wide composition"
+    },
+    "food": {
+     "title_zh": "小樽壽司",
+     "title_ja": "小樽寿司",
+     "summary_zh": "運河旁壽司屋通的新鮮海鮮握壽司。",
+     "body_zh": "小樽臨日本海，漁港供應各式鮮魚、海膽與甜蝦，因此握壽司享譽全國。市內的「壽司屋通」聚集多家壽司店，師傅會以北海道當季食材捏製，米飯偏小，更突出魚料新鮮。價位從迴轉壽司到高級板前皆有。冬季的鰤魚、春季的鮭魚與夏季的海膽等，隨季節而異。店家多以當季漁獲為主，部分店也供應壽司定食與單品海鮮料理，讓旅客依預算選擇。市內也常見把壽司與海鮮丼並列的定食，讓人以合理價格品嚐多樣食材。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "小樽市（壽司屋通）"
+      },
+      {
+       "label": "特色",
+       "value": "當地鮮魚、海膽、甜蝦"
+      },
+      {
+       "label": "形式",
+       "value": "板前、迴轉壽司"
+      },
+      {
+       "label": "代表時令",
+       "value": "冬季鰤魚、夏季海膽"
+      }
+     ],
+     "best_season_zh": "秋冬魚料肥美",
+     "tips_zh": "午餐常有划算套餐；人氣店建議先預約或錯開用餐時段，用餐前可查詢店家是否需要預約，旺季週末人多，建議提早訂位。",
+     "tags": [
+      "壽司",
+      "海鮮",
+      "小樽",
+      "握壽司"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/%E5%AF%BF%E5%8F%B8",
+      "https://www.otaru.gr.jp/"
+     ],
+     "confidence": "medium",
+     "prompt_en": "Assorted fresh nigiri sushi with sea urchin, sweet shrimp and salmon roe on a wooden plate at a sushi counter in Otaru, warm light, close-up"
+    },
+    "scenery": {
+     "title_zh": "小樽雪燈之路",
+     "title_ja": "小樽雪あかりの路",
+     "summary_zh": "二月以數千盞蠟燭點亮雪夜的活動。",
+     "body_zh": "小樽雪燈之路自1999年起每年二月舉行，在運河與舊鐵路遺址（手宮線）沿線擺放雪燈籠與漂浮燭光，夜裡一片柔和燈海。活動由市民義工協力製作，期間街道散發靜謐氣氛。運河會場以漂浮蠟燭為特色，手宮線會場則有雪造小徑與雪屋。活動以運河與手宮線為主要會場，雪燈由市民義工事前製作。燈光在雪地上營造出柔和的暖色調，雪燈籠的造型與擺放各有巧思，值得放慢腳步細看。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "小樽運河、舊手宮線一帶"
+      },
+      {
+       "label": "起始",
+       "value": "1999年"
+      },
+      {
+       "label": "時節",
+       "value": "2月上中旬"
+      },
+      {
+       "label": "特色",
+       "value": "雪燈籠、漂浮燭光"
+      }
+     ],
+     "best_season_zh": "2月上中旬",
+     "tips_zh": "夜間氣溫極低且路面結冰，務必穿防滑鞋；會場分散，可預留兩小時慢走，會場之間距離不近，可考慮搭巴士移動，建議穿著保暖並帶好手套。",
+     "tags": [
+      "雪燈",
+      "冬季",
+      "夜景",
+      "小樽"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/%E5%B0%8F%E6%A8%BD%E9%9B%AA%E3%81%82%E3%81%8B%E3%82%8A%E3%81%AE%E8%B7%AF"
+     ],
+     "confidence": "medium",
+     "prompt_en": "Otaru Snow Light Path at night with glowing snow lanterns and floating candles along the canal, soft orange glow on white snow, tranquil winter scene"
+    }
+   }
+  },
+  {
+   "id": "hokkaido_hakodate",
+   "name_zh": "函館",
+   "name_ja": "函館",
+   "intro_zh": "本州進入北海道的南方門戶，1859年開港，是日本最早的國際通商港之一。西洋教會、紅磚倉庫與山上夜景保留異國風情，鹽味拉麵與海鮮朝市也深受旅客喜愛。",
+   "items": {
+    "spot": {
+     "title_zh": "金森紅磚倉庫",
+     "title_ja": "金森赤レンガ倉庫",
+     "summary_zh": "函館港邊的紅磚倉庫群，現為購物餐飲區。",
+     "body_zh": "金森紅磚倉庫是函館港邊的紅磚建築群，最初建於明治時期，倉庫群原作貨物保管用途，1988年起改建為商店、餐廳與啤酒館。倉庫外牆的紅磚與港灣風景相映，傍晚燈光亮起後最具氣氛。周邊還有函館灣遊覽船與港邊散步道。倉庫群內有餐廳、雜貨店和啤酒屋，也有販賣玻璃工藝與海產伴手禮的店舖，適合半日逛街。紅磚倉庫與港灣、遠方的函館山構成經典畫面，也是散步與拍照的好去處。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "函館市末廣町"
+      },
+      {
+       "label": "前身",
+       "value": "明治時期的貨物倉庫"
+      },
+      {
+       "label": "用途",
+       "value": "購物、餐飲、啤酒館"
+      },
+      {
+       "label": "鄰近",
+       "value": "函館灣、舊公會堂區"
+      }
+     ],
+     "best_season_zh": "全年；夏季夜晚",
+     "tips_zh": "晚餐時段人多，可先逛倉庫再到港邊拍夜景；冬季風大需保暖，傍晚前往可同時看夕陽與夜景，週末假日需預留較多時間。",
+     "tags": [
+      "紅磚",
+      "港灣",
+      "函館",
+      "購物"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/%E9%87%91%E6%A3%AE%E8%B5%A4%E3%83%AC%E3%83%B3%E3%82%AC%E5%80%89%E5%BA%AB",
+      "https://www.hakodate-kankou.com/"
+     ],
+     "confidence": "medium",
+     "prompt_en": "Kanemori red brick warehouses in Hakodate harbor at dusk, warm lights in windows, calm bay, wide view"
+    },
+    "food": {
+     "title_zh": "函館鹽味拉麵與烏賊",
+     "title_ja": "函館塩ラーメン・イカ",
+     "summary_zh": "清澈鹽味湯頭與函館名產烏賊。",
+     "body_zh": "函館拉麵以鹽味為代表，湯頭澄澈、味道清爽，使用豚骨與雞骨及昆布熬製，麵條偏細直。函館也是烏賊重鎮，生魚片「烏賊素麵」口感透明有彈性，早市（朝市）內可自行釣烏賊現場料理。兩者都是旅客常選擇的在地味道。函館的朝市就在JR函館站旁，店家早上七點左右陸續營業，吃完海鮮丼再逛市場最能感受在地氣氛。早餐可選擇朝市的海鮮丼或烤魚定食，之後再搭電車前往五稜郭或元町。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "函館市"
+      },
+      {
+       "label": "拉麵特色",
+       "value": "鹽味清湯、細直麵"
+      },
+      {
+       "label": "烏賊吃法",
+       "value": "生魚片、烏賊素麵"
+      },
+      {
+       "label": "體驗",
+       "value": "函館朝市"
+      }
+     ],
+     "best_season_zh": "夏秋（烏賊盛產）",
+     "tips_zh": "朝市在早上營業，營業時間依店而異；烏賊釣體驗需看當日貨源，各店營業與公休日不一，建議先查詢，若怕腥，可選擇鹽烤或熟食菜單。",
+     "tags": [
+      "拉麵",
+      "鹽味",
+      "烏賊",
+      "函館朝市"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/%E5%87%BD%E9%A4%A8%E3%83%A9%E3%83%BC%E3%83%A1%E3%83%B3",
+      "https://www.hakodate-kankou.com/"
+     ],
+     "confidence": "medium",
+     "prompt_en": "Bowl of clear Hakodate shio ramen beside a plate of translucent squid sashimi strips on a wooden table, soft natural light, close-up"
+    },
+    "scenery": {
+     "title_zh": "函館山夜景",
+     "title_ja": "函館山の夜景",
+     "summary_zh": "兩側海灣夾出的蜿蜒夜景，世界知名。",
+     "body_zh": "函館山海拔334公尺，從山頂展望台往下看，函館市區位於兩片海灣之間的狹長陸地，夜間燈火匯聚成扇形，被稱為「百萬夜景」。可搭乘纜車上山；冬季空氣清澈，夜景尤為清晰，但風大且寒冷。日落前上山，可同時看日落與點燈過程。山下的元町地區有石板坡道與西式教堂，白天可散步，夜晚再搭纜車上山，是函館經典的一日行程。夜景以日落後的藍調時刻最漂亮，天空仍帶一抹深藍，與市街燈光形成對比。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "函館市函館山"
+      },
+      {
+       "label": "海拔",
+       "value": "334公尺"
+      },
+      {
+       "label": "交通",
+       "value": "纜車、巴士"
+      },
+      {
+       "label": "特色",
+       "value": "兩灣夾陸的扇形夜景"
+      }
+     ],
+     "best_season_zh": "全年；冬季空氣最清澈",
+     "tips_zh": "展望台風大，需圍巾與手套；天氣差時山頂可能起霧，出發前看即時影像，纜車排隊時間可能很長，建議提早抵達，上山前請先確認天氣狀況。",
+     "tags": [
+      "夜景",
+      "函館山",
+      "纜車",
+      "函館"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/%E5%87%BD%E9%A4%A8%E5%B1%B1",
+      "https://www.hakodate-kankou.com/"
+     ],
+     "confidence": "medium",
+     "prompt_en": "Night view from Mount Hakodate showing the narrow city between two bays glittering with lights, deep blue twilight sky, wide shot"
+    }
+   }
+  },
+  {
+   "id": "hokkaido_furano_biei",
+   "name_zh": "富良野・美瑛",
+   "name_ja": "富良野・美瑛",
+   "intro_zh": "位於北海道中央，夏季薰衣草與丘陵花田連綿成海，冬季則是粉雪與冰上活動的舞台。田園景觀與哈密瓜等農產豐富，適合自駕或搭觀光列車慢遊與攝影取景。",
+   "items": {
+    "spot": {
+     "title_zh": "富田農場薰衣草田",
+     "title_ja": "ファーム富田",
+     "summary_zh": "北海道最知名的薰衣草觀光農場。",
+     "body_zh": "富田農場位於中富良野，以薰衣草田聞名，七月中旬前後，紫色、粉紅與黃色花帶在十勝岳連峰前延伸。農場起初是栽培薰衣草的農家，據說曾因月曆照片而廣為人知，之後開放為觀光農場。園內有彩色花田、薰衣草蒸餾工房與薰衣草冰淇淋，也能購買乾燥花與精油。每年七月的盛花期，園內與周邊道路會湧入大量遊客，部分區域也設有販賣紀念品與輕食的商店。園區內另設有薰衣草製品商店，可選購香氛、乾燥花與冰淇淋等伴手禮。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "空知郡中富良野町"
+      },
+      {
+       "label": "時節",
+       "value": "7月上中旬最盛"
+      },
+      {
+       "label": "看點",
+       "value": "彩色花帶、十勝岳"
+      },
+      {
+       "label": "特產",
+       "value": "薰衣草冰淇淋、精油"
+      }
+     ],
+     "best_season_zh": "7月上中旬",
+     "tips_zh": "早晨光線柔和且人較少；夏季日照強，需防曬，若在假日前往，建議早點出發，花期以官方公告為準。",
+     "tags": [
+      "薰衣草",
+      "農場",
+      "夏季",
+      "中富良野"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/%E5%AF%8C%E7%94%B0%E3%83%95%E3%82%A1%E3%83%BC%E3%83%A0"
+     ],
+     "confidence": "medium",
+     "prompt_en": "Furano lavender farm with bands of purple, pink and yellow flowers and distant Tokachi mountains, summer sunshine, wide shot"
+    },
+    "food": {
+     "title_zh": "富良野哈密瓜",
+     "title_ja": "富良野メロン",
+     "summary_zh": "甜度高、果肉橘紅的富良野特產。",
+     "body_zh": "富良野盆地日夜溫差大，適合栽培哈密瓜，多為橘紅果肉的品種，甜度高、香氣濃郁。收成期約在七月到九月，產地直銷點與咖啡館提供切片哈密瓜、冰淇淋與甜點。夕張哈密瓜雖然更知名，富良野的同類產品也深受當地人喜愛。富良野一帶也有以哈密瓜為主題的甜點店，當季水果成熟度高時，果肉入口即化、香氣濃郁。富良野市區也有哈密瓜聖代與冰淇淋店，可買來邊逛邊吃，比較兩地品種的甜度差異。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "富良野市"
+      },
+      {
+       "label": "特色",
+       "value": "橘紅果肉、高甜度"
+      },
+      {
+       "label": "收成期",
+       "value": "約7–9月"
+      },
+      {
+       "label": "吃法",
+       "value": "切片、聖代、冰淇淋"
+      }
+     ],
+     "best_season_zh": "7月至9月",
+     "tips_zh": "直銷店常有試吃或即食切片；想帶回家可選擇宅配以免途中碰傷，行李較多時可請店家代寄，水果易熟，購買後請盡快食用。",
+     "tags": [
+      "哈密瓜",
+      "水果",
+      "富良野",
+      "夏季"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/%E5%A4%95%E5%BC%B5%E3%83%A1%E3%83%AD%E3%83%B3"
+     ],
+     "confidence": "low",
+     "prompt_en": "Sliced orange-fleshed Furano melon on a plate beside a whole netted melon, sunny farm stand, bright summer light, close-up"
+    },
+    "scenery": {
+     "title_zh": "美瑛丘陵",
+     "title_ja": "美瑛の丘",
+     "summary_zh": "丘陵與田園拼布般的風景。",
+     "body_zh": "美瑛的丘陵地帶因農田依作物呈現不同色塊，被稱為「拼布之路」（パッチワークの路）。小麥、馬鈴薯、甜菜與花卉輪作，使丘陵在夏秋呈現色彩條紋。有名的觀景點包括四季彩之丘與「Ken & Mary之樹」等，冬季則變成純白雪原。因攝影愛好者與廣告取景而聞名，但請注意不要進入私有農田。丘陵上有成排的白樺與孤立的樹木，經常出現在日本廣告與旅遊攝影作品中，形成鮮明的景觀印象。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "上川郡美瑛町"
+      },
+      {
+       "label": "特色",
+       "value": "拼布般的農田丘陵"
+      },
+      {
+       "label": "季節",
+       "value": "夏秋色彩最豐富"
+      },
+      {
+       "label": "注意",
+       "value": "勿進入私人農田"
+      }
+     ],
+     "best_season_zh": "7月至9月",
+     "tips_zh": "自駕或租自行車最方便；農地是農家生計來源，拍照請保持在道路上，冬季道路結冰，行車務必小心。",
+     "tags": [
+      "丘陵",
+      "拼布之路",
+      "攝影",
+      "美瑛"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/%E7%BE%8E%E7%91%9B%E7%94%BA",
+      "https://www.biei-hokkaido.jp/"
+     ],
+     "confidence": "medium",
+     "prompt_en": "Rolling patchwork hills of Biei in summer with colorful stripes of crops, lone tree on a hill, soft clouds, wide landscape"
+    }
+   }
+  },
+  {
+   "id": "hokkaido_shiretoko",
+   "name_zh": "知床",
+   "name_ja": "知床",
+   "intro_zh": "位於北海道東北端的半島，2005年登錄世界自然遺產。棕熊、虎鯨與冬季流冰構成截然不同的季節風貌，旅遊前須先確認步道開放狀態並遵守生態保護規範。",
+   "items": {
+    "spot": {
+     "title_zh": "知床五湖",
+     "title_ja": "知床五湖",
+     "summary_zh": "原始森林中的五個湖泊，有高架步道與地上步道。",
+     "body_zh": "知床五湖是知床半島上的五個湖泊，位於原始森林與知床連山之間，晴天湖面倒映山影。為保護環境與避免棕熊遭遇，高架木棧道全年開放，沿道可看第一湖，地上步道則在特定季節需參加導覽或接受說明。園區內可能遇到棕熊，須遵守規定。步道入口設有遊客中心，提供棕熊活動資訊與安全說明，建議出發前先到訪確認當日狀況。五湖周邊的步道以不同路線安排，各有不同的風景與難度，可依體力選擇行程。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "斜里町知床"
+      },
+      {
+       "label": "類型",
+       "value": "湖泊、森林步道"
+      },
+      {
+       "label": "特色",
+       "value": "高架木棧道、導覽制度"
+      },
+      {
+       "label": "注意",
+       "value": "棕熊活動區"
+      }
+     ],
+     "best_season_zh": "5月至10月",
+     "tips_zh": "請事先確認步道開放狀態與導覽預約；攜帶熊鈴並遵守現場指示，園區天氣多變，請備好雨具，路線開放時間依季節調整。",
+     "tags": [
+      "知床",
+      "世界遺產",
+      "湖泊",
+      "步道"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/%E7%9F%A5%E5%BA%8A%E4%BA%94%E6%B9%96",
+      "https://ja.wikipedia.org/wiki/%E7%9F%A5%E5%BA%8A"
+     ],
+     "confidence": "medium",
+     "prompt_en": "Shiretoko Five Lakes with calm water reflecting the mountains, wooden boardwalk in the foreground, fresh summer morning"
+    },
+    "food": {
+     "title_zh": "知床鮭魚與海鮮丼",
+     "title_ja": "知床サーモン・海鮮丼",
+     "summary_zh": "鮭魚、海膽、鮭魚卵滿滿的海鮮丼。",
+     "body_zh": "知床半島周邊的漁港羅臼、宇登呂盛產鮭魚、鱒魚、海膽與扇貝。丼飯以新鮮鮭魚生魚片、鮭魚卵和海膽鋪滿米飯，是旅客在港邊食堂的首選。秋季是鮭魚洄游季節，可看到魚群溯河而上；在地人也常把鮭魚做成鹽烤、味噌湯與石狩鍋。羅臼一側的漁港以昆布與海膽聞名，宇登呂一側則有許多提供當地海鮮的食堂，各有特色。漁港食堂的菜單依當日漁獲調整，常有鮭魚親子丼與海膽丼等選擇。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "斜里町、羅臼町"
+      },
+      {
+       "label": "食材",
+       "value": "鮭魚、鮭魚卵、海膽"
+      },
+      {
+       "label": "吃法",
+       "value": "海鮮丼、鹽烤、石狩鍋"
+      },
+      {
+       "label": "季節",
+       "value": "秋季鮭魚最佳"
+      }
+     ],
+     "best_season_zh": "9月至11月",
+     "tips_zh": "海膽盛產期約夏季，價格依漁獲而定；小店營業時間較短，請提早前往，離島或偏遠區域用餐選擇有限，可提早預約，離峰時段用餐較輕鬆。",
+     "tags": [
+      "海鮮丼",
+      "鮭魚",
+      "羅臼",
+      "宇登呂"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/%E7%9F%A5%E5%BA%8A"
+     ],
+     "confidence": "low",
+     "prompt_en": "Seafood rice bowl topped with fresh salmon, orange salmon roe and sea urchin in a rustic harbor restaurant, warm light, close-up"
+    },
+    "scenery": {
+     "title_zh": "知床流冰",
+     "title_ja": "知床の流氷",
+     "summary_zh": "冬季從鄂霍次克海漂來的流冰。",
+     "body_zh": "每年一到二月，來自黑龍江（阿穆爾河）一帶的海冰順著海流漂向北海道鄂霍次克海沿岸，稱為流冰。知床是可看流冰的代表地點，流冰期約在一月下旬至三月。參加流冰漫步（穿乾式防寒衣在冰上行走）或乘流冰觀光船，是獨特的冬季體驗。流冰也帶來浮游生物，養育豐富的海洋生態。流冰通常在二月中旬抵達最多，冰面隨風潮變化，日出時分的冰原染成淡粉色，格外動人。當地也提供乘船觀賞流冰與海鳥的行程，參加前請確認當日風況與冰況。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "斜里町宇登呂、羅臼町"
+      },
+      {
+       "label": "時節",
+       "value": "1月下旬至3月"
+      },
+      {
+       "label": "來源",
+       "value": "鄂霍次克海北部的海冰"
+      },
+      {
+       "label": "體驗",
+       "value": "流冰漫步、觀光船"
+      }
+     ],
+     "best_season_zh": "2月",
+     "tips_zh": "體驗活動需要事先報名並穿著規定裝備；氣候不佳可能停駛，戶外活動請務必聽從導遊指示，防寒裝備請依指示穿著。",
+     "tags": [
+      "流冰",
+      "冬季",
+      "鄂霍次克海",
+      "知床"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/%E6%B5%81%E6%B0%B7"
+     ],
+     "confidence": "medium",
+     "prompt_en": "Drift ice floes covering the Okhotsk Sea at Shiretoko in winter, pale blue light, snowy mountains in the distance, wide shot"
+    }
+   }
+  }
+ ]
+}

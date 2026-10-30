@@ -1,0 +1,149 @@
+{
+ "id": "osaka",
+ "foods": [
+  {
+   "title_zh": "章魚燒",
+   "title_ja": "たこ焼き",
+   "category": "B級美食",
+   "summary_zh": "裹麵糊與章魚的圓球小吃，大阪靈魂。",
+   "body_zh": "章魚燒據說由大阪西區「会津屋」的遠藤留吉創製。他原賣肉燒，1935年左右因客人提到明石有放章魚，改用章魚與雞蛋，才有此名。麵糊以高湯與雞蛋調成，內放切塊章魚（以真蛸為主），並加紅薑、天婦羅屑與青海苔。1955年大阪估計有約五千家店，關西家庭普遍有章魚燒機。",
+   "facts": [
+    {"label": "起源", "value": "約1933至1935年，大阪会津屋遠藤留吉創製"},
+    {"label": "主要食材", "value": "麵粉、高湯、雞蛋、章魚、紅薑、青海苔"},
+    {"label": "吃法", "value": "趁熱淋醬汁與美乃滋，撒柴魚與青海苔"}
+   ],
+   "season_zh": "全年",
+   "where_zh": "道頓堀與大阪市內街頭攤販、專門店",
+   "tags": ["章魚", "街頭小吃", "道頓堀", "麵糊"],
+   "sources": ["https://ja.wikipedia.org/wiki/たこ焼き"],
+   "confidence": "high",
+   "prompt_en": "Six round golden takoyaki with sauce, mayonnaise and bonito flakes on a small wooden boat tray with toothpicks, steam rising, dark wooden counter, warm street-stall light, no text"
+  },
+  {
+   "title_zh": "大阪燒",
+   "title_ja": "お好み焼き（大阪風）",
+   "category": "B級美食",
+   "summary_zh": "高麗菜與麵糊混合煎的大阪風混燒。",
+   "body_zh": "大阪風お好み焼き採「混ぜ焼き」：把切碎的高麗菜、雞蛋、小蝦乾等拌進麵糊再煎，常加山藥讓口感蓬鬆，主角是麵糊。一說這種混燒由東京傳到大阪，戰前關西以「洋食焼き」的鋪放式為主，戰後混燒才迅速普及。最後淋醬汁與美乃滋，據說1953年大阪「ぼてぢゅう」最早用美乃滋。",
+   "facts": [
+    {"label": "起源", "value": "混燒由東京傳入，戰後在大阪普及"},
+    {"label": "主要食材", "value": "麵粉、高麗菜、雞蛋、山藥、豬肉"},
+    {"label": "吃法", "value": "鐵板煎，淋醬汁與美乃滋"}
+   ],
+   "season_zh": "全年",
+   "where_zh": "大阪市內鐵板燒專門店",
+   "tags": ["鐵板燒", "高麗菜", "醬汁", "混ぜ焼き"],
+   "sources": ["https://ja.wikipedia.org/wiki/お好み焼き"],
+   "confidence": "medium",
+   "prompt_en": "A single Osaka-style okonomiyaki on a hot iron griddle plate, glossy brown sauce, zigzag mayonnaise, bonito flakes and green nori, small spatulas beside, dark counter, warm light, no text"
+  },
+  {
+   "title_zh": "炸串",
+   "title_ja": "串カツ",
+   "category": "肉類",
+   "summary_zh": "新世界發祥的一口大小炸串，嚴禁二次沾醬。",
+   "body_zh": "大阪式串カツ於1929年成形：新世界「だるま」開始為勞動者提供一口大小的牛肉串。特色是站食吧台、小塊串燒，以及共用醬料盅的「禁止二次沾醬」規矩，客人用免費高麗菜舀醬代替。食材除牛、豬、雞，還有海鮮、蔬菜、起司等。",
+   "facts": [
+    {"label": "起源", "value": "1929年新世界「だるま」提供小塊牛肉串"},
+    {"label": "主要食材", "value": "牛肉為主，豬、雞、海鮮、蔬菜皆有"},
+    {"label": "吃法", "value": "共用醬料盅只沾一次，用高麗菜舀醬"}
+   ],
+   "season_zh": "全年",
+   "where_zh": "新世界、通天閣周邊串炸店",
+   "tags": ["炸串", "新世界", "二度漬け禁止", "站食"],
+   "sources": ["https://ja.wikipedia.org/wiki/串カツ"],
+   "confidence": "high",
+   "prompt_en": "Several skewers of golden breaded fried beef kushikatsu standing in a metal pan beside a shared sauce container, fresh cabbage leaves, dark counter, warm bar lighting, no text"
+  },
+  {
+   "title_zh": "大阪箱壽司",
+   "title_ja": "箱寿司",
+   "category": "鄉土料理",
+   "summary_zh": "木模壓成的大阪押壽司，料不用生食。",
+   "body_zh": "大阪箱壽司是以木模壓製的押壽司，江戶時代已成立，1728年刊的《料理網目調味抄》就出現「箱寿司に酢を注ぐ」的說法。特色是壽司料不用生魚，常用醋漬鯖魚、昆布漬鯛、烤星鰻、燙蝦與玉子燒或蛋絲；壽司飯用昆布高湯炊煮。冷了也好吃。",
+   "facts": [
+    {"label": "起源", "value": "江戶時代，1728年文獻已見「箱寿司」"},
+    {"label": "主要食材", "value": "醋鯖、昆布漬鯛、烤星鰻、蝦、玉子燒"},
+    {"label": "吃法", "value": "木模壓製後切方塊，冷食也美味"}
+   ],
+   "season_zh": "全年",
+   "where_zh": "大阪市區的壽司老鋪與百貨便當",
+   "tags": ["押壽司", "木模", "醋鯖", "江戶時代"],
+   "sources": ["https://ja.wikipedia.org/wiki/箱寿司"],
+   "confidence": "high",
+   "prompt_en": "Square cut pieces of hakozushi pressed sushi showing layers of vinegared mackerel, egg and shrimp on a rectangular lacquer plate, wooden mold at the side, soft window light, no text"
+  },
+  {
+   "title_zh": "狐狸烏龍麵",
+   "title_ja": "きつねうどん",
+   "category": "麵飯",
+   "summary_zh": "放甜鹹油豆腐的大阪烏龍麵代表。",
+   "body_zh": "一般認為，在烏龍麵上放油豆腐的做法，是1893年創業於大阪船場的烏龍麵店「松葉家」所創，店內立有「大阪きつねうどん」石碑。油豆腐先去油，再以砂糖、醬油、味醂煮成甜鹹；湯底以濃口醬油與柴魚為主、味道偏濃。關西稱放油豆腐的為「きつね」，蕎麥麵版本則叫「たぬき」。",
+   "facts": [
+    {"label": "起源", "value": "1893年創業的大阪船場「松葉家」被視為考案者"},
+    {"label": "主要食材", "value": "烏龍麵、甜煮油豆腐、柴魚湯"},
+    {"label": "吃法", "value": "關西稱放油豆腐者為きつね"}
+   ],
+   "season_zh": "全年",
+   "where_zh": "船場周邊與大阪市內各烏龍麵老鋪",
+   "tags": ["烏龍麵", "油豆腐", "船場", "松葉家"],
+   "sources": ["https://ja.wikipedia.org/wiki/きつねうどん"],
+   "confidence": "high",
+   "prompt_en": "A bowl of Osaka kitsune udon with a large sweet-simmered fried tofu pouch on thick white noodles, clear amber broth, green onions, ceramic bowl on wooden table, steam, warm light, no text"
+  },
+  {
+   "title_zh": "泉州水茄子",
+   "title_ja": "泉州水なす",
+   "category": "特產食材",
+   "summary_zh": "泉州出產的多汁圓茄，可生食淺漬。",
+   "body_zh": "水なす因擰絞時水會滴出而得名，是圓形茄子，澀味幾乎沒有，可以生食，帶淡淡甜味與柔嫩口感，最適合做漬物。大阪泉州地區是主產地，溫暖多雨與排水良好的土質適合栽培，「泉州水なす」已是地域團體商標。泉州把糠漬一兩晚稱為「淺漬」，是最常見吃法；露地栽培盛產期為6至9月。",
+   "facts": [
+    {"label": "起源", "value": "大阪泉州地區為主產地，已登錄地域團體商標"},
+    {"label": "主要食材", "value": "水茄子、米糠床"},
+    {"label": "時節", "value": "盛產期6至9月，5月起已出貨"}
+   ],
+   "season_zh": "初夏至初秋",
+   "where_zh": "泉州（泉佐野、岸和田一帶）的產地與居酒屋",
+   "tags": ["茄子", "淺漬", "泉州", "夏季蔬菜"],
+   "sources": ["https://ja.wikipedia.org/wiki/水ナス"],
+   "confidence": "medium",
+   "prompt_en": "A round pale purple mizunasu eggplant cut open showing juicy white flesh, a few pickled slices on a small ceramic dish, glass bowl of ice water, dark wooden table, cool soft light, no text"
+  },
+  {
+   "title_zh": "粟米花糖",
+   "title_ja": "粟おこし",
+   "category": "甜點和菓子",
+   "summary_zh": "以飴糖凝固穀物的硬質大阪傳統和菓子。",
+   "body_zh": "粟おこし是大阪府名物，屬硬質和菓子。おこし的源頭為平安時代遣唐使帶回的唐菓子「粔籹」；江戶時代只要有穀物與水飴，庶民也能製作，於是流傳全國。基本做法是把加工過的穀物用飴糖凝固，各地使用的穀物不同。大阪的粟おこし以名稱所示的粟為主料，這一點本次未於來源核實。",
+   "facts": [
+    {"label": "起源", "value": "源於平安時代遣唐使帶回的唐菓子，江戶時代普及"},
+    {"label": "主要食材", "value": "穀物（粟おこし以粟為名）、水飴"},
+    {"label": "吃法", "value": "切塊硬脆，配茶"}
+   ],
+   "season_zh": "全年",
+   "where_zh": "大阪市內的老鋪和菓子店與伴手禮店",
+   "tags": ["和菓子", "小米", "水飴", "伴手禮"],
+   "sources": ["https://ja.wikipedia.org/wiki/おこし"],
+   "confidence": "medium",
+   "prompt_en": "Neatly cut rectangular pieces of awaokoshi millet candy stacked on a small ceramic plate, a cup of green tea beside, light wooden table, soft daylight, no text"
+  },
+  {
+   "title_zh": "堺昆布",
+   "title_ja": "とろろ昆布（堺の昆布）",
+   "category": "特產食材",
+   "summary_zh": "北前船運來昆布，在堺削成絲的大阪昆布文化。",
+   "body_zh": "江戶時代，北前船西迴航路把蝦夷地與東北的昆布運到大坂和堺卸貨，上方因此發展出昆布加工業。堺以刀具產業聞名，據說這門手藝讓表面薄削的「おぼろ昆布」成為名產。大阪的代表昆布製品包括とろろ昆布、塩昆布與佃煮，可入湯、拌飯或做飯糰。",
+   "facts": [
+    {"label": "起源", "value": "江戶時代北前船運昆布至大坂、堺，形成加工業"},
+    {"label": "主要食材", "value": "昆布（削成絲或薄片）"},
+    {"label": "吃法", "value": "放湯、拌飯、做飯糰；也有塩昆布、佃煮"}
+   ],
+   "season_zh": "全年",
+   "where_zh": "堺市與大阪市內的昆布專門店",
+   "tags": ["昆布", "堺", "北前船", "高湯文化"],
+   "sources": ["https://ja.wikipedia.org/wiki/昆布"],
+   "confidence": "medium",
+   "prompt_en": "A soft mound of fine shaved tororo kombu in a clear soup bowl with a few green onion slices, beside a small dish of salted kombu, light wooden table, soft daylight, no text"
+  }
+ ]
+}

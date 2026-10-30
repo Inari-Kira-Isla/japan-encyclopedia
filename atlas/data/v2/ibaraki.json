@@ -1,0 +1,840 @@
+{
+ "id": "ibaraki",
+ "name_zh": "茨城",
+ "name_ja": "茨城県",
+ "region": "關東",
+ "overview": {
+  "intro_zh": "茨城縣位於關東地方東北部，東臨太平洋，面積約6,098平方公里，人口約287萬。縣廳所在地水戶是德川御三家之一水戶藩的城下町，留下偕樂園與弘道館；筑波研究學園都市匯集眾多研究機關；霞浦是日本第二大湖，周邊水鄉與蓮田風光獨特。縣內平坦的台地與沿海漁港，使農林水產都很發達，納豆、蓮藕、地瓜與鮟鱇魚皆是代表。一小時多的車程即可從東京抵達，適合短途旅行。",
+  "capital_zh": "水戶市",
+  "area_km2": 6098,
+  "population_approx": "約287萬人（2020年代中期）",
+  "flower_zh": "玫瑰",
+  "bird_zh": "雲雀",
+  "tree_zh": "梅",
+  "climate_zh": "太平洋側氣候，夏季多雨濕熱，冬季乾燥少雪，山間較冷。",
+  "access_zh": "從東京搭特急「常磐線」約1.5小時到水戶；筑波快線從秋葉原約45分鐘到筑波。",
+  "specialties_zh": [
+   "水戶納豆",
+   "蓮藕",
+   "地瓜",
+   "鮟鱇鍋",
+   "笠間燒",
+   "梅子"
+  ],
+  "best_season_zh": "2至3月（梅花）、4月（粉蝶花）、10月（掃帚草）"
+ },
+ "items": {
+  "architecture": {
+   "title_zh": "好文亭",
+   "title_ja": "偕楽園 好文亭",
+   "summary_zh": "偕樂園內的木造別邸，二層三階，可眺望梅林與千波湖。",
+   "body_zh": "好文亭是偕樂園內的主建築，由水戶藩第九代藩主德川齊昭親自設計，作為與藩士、領民共同遊樂與接待客人的別邸。偕樂園於1842年開園，與兼六園、後樂園並稱日本三名園。好文亭為木造二層（外觀二層、內部三階）的建築，屋頂鋪杉皮，內部有三十多個房間，以和歌與障壁畫裝飾。原建築在二戰空襲中燒毀，1958年復原。登上三樓「樂寿楼」可遠眺千波湖與梅林，是早春賞梅的最佳地點。館內也介紹偕樂園的歷史與水戶藩的文化，進入前可先參觀庭園，再上樓眺望。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "茨城縣水戶市（偕樂園內）"
+    },
+    {
+     "label": "創建",
+     "value": "1842年（天保13年）"
+    },
+    {
+     "label": "復原",
+     "value": "1958年"
+    },
+    {
+     "label": "特色",
+     "value": "杉皮屋頂、三階樂寿楼"
+    }
+   ],
+   "best_season_zh": "2月下旬至3月中旬（梅花）",
+   "tips_zh": "賞梅季人潮多，建議平日上午入園；好文亭內需脫鞋，並可品嚐梅子茶點。",
+   "tags": [
+    "別邸",
+    "偕樂園",
+    "梅",
+    "水戶"
+   ],
+   "sources": [
+    "https://www.pref.ibaraki.jp/bugai/koho/kenmin/download/kairakuen.html",
+    "https://en.wikipedia.org/wiki/Kairaku-en"
+   ],
+   "confidence": "high",
+   "prompt_en": "Kobuntei wooden two-story pavilion in Kairakuen garden overlooking plum blossoms in bloom, soft early spring light"
+  },
+  "food": {
+   "title_zh": "水戶納豆",
+   "title_ja": "水戸納豆",
+   "summary_zh": "以小粒大豆製成的納豆，是茨城最知名的名產。",
+   "body_zh": "水戶納豆是茨城縣水戶地區的代表食品，以小粒大豆製作為主流。傳說源自1083年，源義家在當地時，用馬飼料的煮豆自然發酵而成，但這類起源說法各地都有。1889年，笹沼清左衛門創立「天狗納豆」，把農家副業轉為商品，並在水戶站販賣，成為有名的土產。茨城縣是全日本納豆產量最大的縣之一，水戶市也在2022年訂定7月10日為「納豆日」。吃法除了拌飯，也有納豆料理與甜點。在水戶，納豆的種類豐富，從小粒到大粒、有無醬汁、附芥末或蔥，各有風味，也能在站前買到伴手禮。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "茨城縣水戶市"
+    },
+    {
+     "label": "特色",
+     "value": "小粒大豆"
+    },
+    {
+     "label": "歷史",
+     "value": "1889年天狗納豆創業"
+    },
+    {
+     "label": "紀念",
+     "value": "納豆日（7月10日）"
+    }
+   ],
+   "best_season_zh": "全年",
+   "tips_zh": "可買冷藏的小盒納豆當土產；不習慣氣味者可用芥末、蔥花與醬油調味。",
+   "tags": [
+    "納豆",
+    "土產",
+    "水戶",
+    "發酵食品"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/水戸納豆"
+   ],
+   "confidence": "high",
+   "prompt_en": "Bowl of steaming rice topped with stringy natto, mustard and green onions on a wooden table, chopsticks lifting strands, close-up"
+  },
+  "culture": {
+   "title_zh": "日立風流物",
+   "title_ja": "日立風流物",
+   "summary_zh": "五層山車上演出機關人偶劇，列入聯合國無形文化遺產。",
+   "body_zh": "日立風流物是茨城縣日立市的傳統祭典活動，約高15公尺的巨大山車有五層，平時為華麗的外觀，演出時山車的前後與兩側會像花瓣般展開，變成舞台，上面進行機關人偶戲。日立市東町、北町、本町與西町四個町內各有一台山車，輪流公開。2009年與京都祇園祭一同列入聯合國教科文組織無形文化遺產，2016年擴大為「山、鉾、屋台行事」的一部分，也是國家重要無形民俗文化財。山車由居民世代守護，是日立市的驕傲。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "茨城縣日立市"
+    },
+    {
+     "label": "規模",
+     "value": "高約15公尺、五層"
+    },
+    {
+     "label": "登錄",
+     "value": "聯合國無形文化遺產（2009年，2016年擴大）"
+    },
+    {
+     "label": "特色",
+     "value": "山車展開變舞台、機關人偶"
+    }
+   ],
+   "best_season_zh": "春季神峰神社大祭（日期請查官方）",
+   "tips_zh": "四個町內每年輪流公開一台，要先確認當年是哪一台與日期；開演前就有人佔位，需提早到場。",
+   "tags": [
+    "山車",
+    "機關人偶",
+    "無形文化遺產",
+    "日立"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/日立風流物"
+   ],
+   "confidence": "high",
+   "prompt_en": "Large five-tier Hitachi Furyumono festival float about 15 meters tall with carved panels and ornate roof, parked on a street at dusk with lanterns lit, mechanism stage partly unfolded, wide view"
+  },
+  "history": {
+   "title_zh": "弘道館",
+   "title_ja": "弘道館",
+   "summary_zh": "水戶藩的藩校，正門與正廳保存至今。",
+   "body_zh": "弘道館是水戶藩第九代藩主德川齊昭於1841年創設的藩校，規模為當時藩校中全日本最大之一，教授文武醫學等。1868年戊辰戰爭中遭戰火波及，正門留有彈痕。現存正門、正廳與至善堂三處被指定為重要文化財，整個舊弘道館區域則是國家特別史跡。後期最後的將軍德川慶喜在大政奉還後曾在至善堂謹慎蟄居。院內種有約六十種、八百株梅花，與偕樂園並稱梅名所，初春的景色尤佳。每年梅花季，弘道館與偕樂園常一併遊覽，館內也介紹水戶學與藩校教育，內容十分豐富。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "茨城縣水戶市"
+    },
+    {
+     "label": "創設",
+     "value": "1841年"
+    },
+    {
+     "label": "指定",
+     "value": "國家特別史跡"
+    },
+    {
+     "label": "特色",
+     "value": "正門、正廳、至善堂、梅林"
+    }
+   ],
+   "best_season_zh": "2月下旬至3月（梅花）",
+   "tips_zh": "與偕樂園同屬一日行程，可買共通券；正廳內會說明水戶學與藩校制度。",
+   "tags": [
+    "藩校",
+    "水戶藩",
+    "特別史跡",
+    "梅"
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Kodokan"
+   ],
+   "confidence": "high",
+   "prompt_en": "Kodokan former domain school main gate and hall with black wooden walls and plum trees in front, calm sunlight"
+  },
+  "mascot": {
+   "title_zh": "納豆與草莓小精靈",
+   "title_ja": "納豆と梅と苺",
+   "summary_zh": "茨城有多個活動吉祥物，這裡以納豆與梅花為靈感設計原創角色。",
+   "body_zh": "茨城縣有多個吉祥物，例如2019年茨城國體的「いばラッキー」，另外縣產草莓「いばらキッス」也是縣廣告的主角。茨城縣長期被日本人認為魅力度排名偏低，因此在宣傳上反而以自嘲式幽默廣受討論。這裡不引用既有商標角色，而以水戶納豆、偕樂園梅花與茨城的草莓為靈感，設計一隻原創可愛角色，用梅花作頭飾、手捧一粒納豆，呈現茨城的鄉土味。設計可加入梅花的粉紅色調與草莓的紅色，營造溫暖可愛的氛圍，不依賴任何既有商標形象。",
+   "facts": [
+    {
+     "label": "相關角色",
+     "value": "2019年國體吉祥物「いばラッキー」"
+    },
+    {
+     "label": "縣產草莓",
+     "value": "いばらキッス"
+    },
+    {
+     "label": "靈感元素",
+     "value": "納豆、梅花、草莓"
+    },
+    {
+     "label": "風格",
+     "value": "原創可愛"
+    }
+   ],
+   "best_season_zh": "全年",
+   "tips_zh": "縣內道之驛與土產店常有各式納豆、草莓周邊，可看當季限定。",
+   "tags": [
+    "吉祥物",
+    "納豆",
+    "梅花",
+    "草莓"
+   ],
+   "sources": [
+    "https://www.pref.ibaraki.jp/bugai/koho/kenmin/profile/symbol.html"
+   ],
+   "confidence": "low",
+   "prompt_en": "Cute original small soybean-shaped character with a plum blossom on its head, holding a tiny strawberry, sitting on a straw mat in a Mito garden, soft pastel look. Original cute character, not replicating any existing trademarked mascot."
+  },
+  "scenery": {
+   "title_zh": "袋田瀑布",
+   "title_ja": "袋田の滝",
+   "summary_zh": "高120公尺、寬73公尺，分四段落下的名瀑。",
+   "body_zh": "袋田瀑布位於茨城縣大子町，高約120公尺，寬約73公尺，與日光華嚴瀑布、和歌山那智瀑布合稱日本三名瀑。瀑布在岩壁上分四段落下，又稱「四度瀑布」，相傳西行法師說「須四季各來一次，才能體會真正風趣」。參觀道穿過隧道到第一觀瀑台，再搭電梯到第二觀瀑台，可從不同高度觀賞。春天新綠、秋天紅葉最美，冬季低溫時瀑布會結成冰瀑，景色別具一格。周邊設有步道與餐廳，秋季紅葉時期人潮多，建議平日前往，並預留時間觀賞瀑布的不同角度。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "茨城縣久慈郡大子町"
+    },
+    {
+     "label": "規模",
+     "value": "高約120公尺、寬約73公尺"
+    },
+    {
+     "label": "別稱",
+     "value": "四度瀑布、日本三名瀑"
+    },
+    {
+     "label": "設施",
+     "value": "隧道與電梯觀瀑台"
+    }
+   ],
+   "best_season_zh": "11月中旬（紅葉）、1至2月（冰瀑）",
+   "tips_zh": "冰瀑要在極冷的年份才形成，出發前查官方資訊；觀瀑台入場費需另付。",
+   "tags": [
+    "瀑布",
+    "日本三名瀑",
+    "紅葉",
+    "大子"
+   ],
+   "sources": [
+    "https://tabi-mag.jp/ib0016/"
+   ],
+   "confidence": "high",
+   "prompt_en": "Fukuroda Falls cascading in four tiers over a rocky cliff, surrounded by autumn foliage, long exposure, bright day"
+  },
+  "spot": {
+   "title_zh": "國營常陸海濱公園",
+   "title_ja": "国営ひたち海浜公園",
+   "summary_zh": "春天藍色粉蝶花與秋天紅色掃帚草覆蓋丘陵。",
+   "body_zh": "國營常陸海濱公園位於茨城縣ひたちなか市，前身是美軍水戶射擊場，1991年10月開園，總面積約350公頃，目前開放約200多公頃。園內最著名的是「見晴之丘」，約4.2公頃的丘陵上種有約530萬株粉蝶花，4月下旬至5月初盛開成藍色花毯，與天空與海連成一片；秋季則換成紅色的掃帚草。丘陵由建築廢土堆成，約58公尺高。園內還有摩天輪和遊樂區，也曾舉辦大型音樂祭。園區另有玫瑰園與花卉展區，一年四季皆有花朵，園內自行車租借方便，適合慢慢探索。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "茨城縣ひたちなか市"
+    },
+    {
+     "label": "開園",
+     "value": "1991年10月"
+    },
+    {
+     "label": "面積",
+     "value": "總面積約350公頃"
+    },
+    {
+     "label": "花",
+     "value": "粉蝶花約530萬株、掃帚草"
+    }
+   ],
+   "best_season_zh": "4月下旬（粉蝶花）、10月（掃帚草）",
+   "tips_zh": "花季停車場與入口排隊時間長，建議一早入園；園區很大，可搭園內遊園車。",
+   "tags": [
+    "花海",
+    "粉蝶花",
+    "掃帚草",
+    "公園"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/国営ひたち海浜公園"
+   ],
+   "confidence": "high",
+   "prompt_en": "Hitachi Seaside Park blue nemophila flowers covering a hillside under bright sky and sea beyond, wide landscape"
+  },
+  "experience": {
+   "title_zh": "笠間燒陶藝",
+   "title_ja": "笠間焼 陶芸体験",
+   "summary_zh": "在關東最古老的窯業產地之一親手捏陶。",
+   "body_zh": "笠間燒起源於江戶時代安永年間（1772至1780年）前後，是關東地區歷史最悠久的窯業產地之一，被指定為國家傳統工藝品。笠間離益子約30分鐘車程，兩地陶藝風格各有特色：益子偏民藝，笠間則更自由、重視設計，現在約有三百位陶藝家與窯主在此活動。許多工房與陶藝館提供轆轤、手捏和彩繪體驗，費用平易近人，作品燒成後再寄送回家，適合第一次接觸陶藝的旅客。陶藝館也設有展覽與販售區，可購買個性化的茶碗與盤子，旅行中的手作回憶特別珍貴。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "茨城縣笠間市"
+    },
+    {
+     "label": "起源",
+     "value": "江戶安永年間（1772至1780年）"
+    },
+    {
+     "label": "指定",
+     "value": "國家傳統工藝品"
+    },
+    {
+     "label": "體驗",
+     "value": "轆轤、手捏、彩繪"
+    }
+   ],
+   "best_season_zh": "春秋陶器市（4月底至5月初、10至11月）",
+   "tips_zh": "體驗後作品需乾燥與燒製，通常一至兩個月才能完成，可選擇宅配到住處或預先確認。",
+   "tags": [
+    "陶藝",
+    "笠間燒",
+    "手作體驗",
+    "傳統工藝"
+   ],
+   "sources": [
+    "https://www.city.kasama.lg.jp/data/doc/1595984968_doc_78_1.pdf"
+   ],
+   "confidence": "medium",
+   "prompt_en": "Hands shaping wet clay on a pottery wheel in a Kasama workshop, finished earthenware shelves behind, warm natural light"
+  },
+  "costume": {
+   "title_zh": "結城紬",
+   "title_ja": "結城紬",
+   "summary_zh": "茨城與栃木交界的手紡絹織，登錄無形文化遺產。",
+   "body_zh": "結城紬是以茨城縣結城市與栃木縣小山市一帶為中心生產的絹織品，傳說可追溯到奈良時代，「結城紬」之名在1638年已見於文獻。傳統技法包括：以手工把真綿紡成無撚線、以手綁方式製作絣染圖案、用地機（傳統織機）織造，這三項被指定為重要無形文化財。一匹織物的製作需數月至一年以上。2010年被列入聯合國教科文組織無形文化遺產，成品質地輕柔、耐穿，是高級和服布料。後繼者不足是現今的課題。",
+   "facts": [
+    {
+     "label": "產地",
+     "value": "茨城縣結城市、栃木縣小山市"
+    },
+    {
+     "label": "登錄",
+     "value": "聯合國無形文化遺產（2010年）"
+    },
+    {
+     "label": "技法",
+     "value": "手紡無撚線、手綁絣、地機織"
+    },
+    {
+     "label": "工期",
+     "value": "數月至一年以上"
+    }
+   ],
+   "best_season_zh": "全年",
+   "tips_zh": "結城市內有紬資料館與工房可看製作過程；手工品價格高，可先從小物件如手帕、錢包入手。",
+   "tags": [
+    "和服",
+    "絹織",
+    "無形文化遺產",
+    "結城"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/結城紬"
+   ],
+   "confidence": "high",
+   "prompt_en": "Anonymous model wearing a hand-woven Yuki tsumugi silk kimono in subtle checked pattern, standing in a traditional wooden room, soft natural light"
+  }
+ },
+ "areas": [
+  {
+   "id": "ibaraki_mito",
+   "name_zh": "水戶",
+   "name_ja": "水戸",
+   "intro_zh": "水戶是茨城縣廳所在地，也是德川御三家之一水戶藩的城下町。偕樂園與弘道館是主要景點，千波湖提供散步與賞鳥空間。每年2至3月的梅花祭是最熱鬧的季節；美食則以納豆為最具代表性，還有鮟鱇與常陸牛。",
+   "items": {
+    "spot": {
+     "title_zh": "偕樂園",
+     "title_ja": "偕楽園",
+     "summary_zh": "日本三名園之一，以梅林聞名。",
+     "body_zh": "偕樂園由水戶藩第九代藩主德川齊昭於1842年開園，與金澤的兼六園、岡山的後樂園並稱日本三名園。名稱出自「與民眾同樂」之意，開放給領民遊覽。園內約有一百種、三千株梅樹，每年2月下旬至3月舉辦水戶梅花祭，是關東屈指可數的賞梅勝地。其他季節有孟宗竹林、杉林、萩花與紅葉。園內的好文亭為主建築，可眺望千波湖與水戶市區。園內還有孟宗竹林與杉木林，並設有茶室可品茶，適合慢慢散步半天。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "茨城縣水戶市見川"
+      },
+      {
+       "label": "開園",
+       "value": "1842年"
+      },
+      {
+       "label": "梅樹",
+       "value": "約100種、3,000株"
+      },
+      {
+       "label": "活動",
+       "value": "水戶梅花祭（2至3月）"
+      }
+     ],
+     "best_season_zh": "2月下旬至3月中旬",
+     "tips_zh": "梅花祭期間門票需另計，晚間有夜梅點燈；平日人潮較少。",
+     "tags": [
+      "庭園",
+      "梅花",
+      "三名園",
+      "水戶"
+     ],
+     "sources": [
+      "https://www.pref.ibaraki.jp/bugai/koho/kenmin/download/kairakuen.html"
+     ],
+     "confidence": "high",
+     "prompt_en": "Kairakuen garden plum blossoms in full bloom, white and pink petals, old pavilion, early spring"
+    },
+    "food": {
+     "title_zh": "水戶納豆",
+     "title_ja": "水戸納豆",
+     "summary_zh": "用小粒大豆製作的茨城代表名產。",
+     "body_zh": "水戶納豆以小粒大豆製成，是日本納豆的基準款之一。1889年，天狗納豆在水戶站前開始販賣，因為鐵路旅客的口耳相傳而成為土產。茨城縣是日本主要的納豆產地，水戶市也在2022年訂7月10日為納豆日以推廣消費。在水戶市可看到各種納豆料理，包括納豆拌飯、納豆蕎麥麵與納豆甜點。部分工廠提供參觀和試吃。水戶站前與市區的商店都有納豆專賣，可以選購不同風味，也有以納豆為材料的甜點與麵包。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "茨城縣水戶市"
+      },
+      {
+       "label": "特色",
+       "value": "小粒大豆"
+      },
+      {
+       "label": "歷史",
+       "value": "1889年開始站前販賣"
+      },
+      {
+       "label": "紀念日",
+       "value": "7月10日"
+      }
+     ],
+     "best_season_zh": "全年",
+     "tips_zh": "水戶站內商店有各種小包裝納豆，適合送禮；冰箱冷藏保存。",
+     "tags": [
+      "納豆",
+      "水戶",
+      "土產",
+      "小粒"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/水戸納豆"
+     ],
+     "confidence": "high",
+     "prompt_en": "Mito natto in small bowl with strings, soy sauce and mustard, rice beside, simple breakfast"
+    },
+    "scenery": {
+     "title_zh": "千波湖",
+     "title_ja": "千波湖",
+     "summary_zh": "偕樂園腳下的淺水湖，天鵝與噴水是特色。",
+     "body_zh": "千波湖是水戶市中心的湖泊，面積約0.33平方公里，周長約3公里，湖形像葫蘆，水深最多約1.2公尺。位於偕樂園的西南側，被視為偕樂園的借景。湖上有三座噴水和人工島，湖畔有黑天鵝與白天鵝，秋冬時節還有候鳥。環湖步道是水戶居民散步與慢跑的好去處，從這裡也可眺望偕樂園的崖面與市區。環湖有兒童遊樂設施與餐廳，從湖畔回望偕樂園的崖面與樹林，構成一幅有層次的風景。天氣晴朗時湖面倒映著天空與周邊建築，清晨最安靜，也很適合欣賞水鳥群在湖上休息的樣子。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "茨城縣水戶市"
+      },
+      {
+       "label": "面積",
+       "value": "約0.33平方公里"
+      },
+      {
+       "label": "周長",
+       "value": "約3公里"
+      },
+      {
+       "label": "特色",
+       "value": "天鵝、噴水"
+      }
+     ],
+     "best_season_zh": "春秋",
+     "tips_zh": "繞湖一圈約40分鐘；與偕樂園合遊約半天。",
+     "tags": [
+      "湖",
+      "天鵝",
+      "散步",
+      "水戶"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/千波湖"
+     ],
+     "confidence": "high",
+     "prompt_en": "Lake Senba with white swans near shore, city skyline hazy, calm morning"
+    }
+   }
+  },
+  {
+   "id": "ibaraki_hitachi",
+   "name_zh": "日立海濱公園",
+   "name_ja": "国営ひたち海浜公園",
+   "intro_zh": "ひたちなか市的海濱公園是茨城最受歡迎的賞花景點，春季的粉蝶花與秋季的掃帚草都吸引大批遊客。鄰近的大洗與那珂湊漁港是海鮮與鮟鱇鍋的好去處。整個地區適合一日遊，與東京之間可搭特急直達。",
+   "items": {
+    "spot": {
+     "title_zh": "見晴之丘的粉蝶花",
+     "title_ja": "ひたち海浜公園",
+     "summary_zh": "約530萬株粉蝶花在春天覆蓋丘陵。",
+     "body_zh": "海濱公園的見晴之丘是由建築廢土堆成的人工丘陵，高約58公尺，總面積4.2公頃左右。每年4月下旬至5月初，約530萬株粉蝶花盛開，藍色花毯與天空、海洋連成一氣，是日本代表性的春季景色。除了粉蝶花，園區也有鬱金香、水仙等花卉，並設有摩天輪「Blue Eyes」等遊樂設施。園區面積很大，建議乘園內遊園車移動。園內還有遊樂區與步道，是適合全家出遊的景點，園區很大，可租借自行車環遊。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "茨城縣ひたちなか市"
+      },
+      {
+       "label": "見晴之丘",
+       "value": "高約58公尺"
+      },
+      {
+       "label": "粉蝶花",
+       "value": "約530萬株"
+      },
+      {
+       "label": "花期",
+       "value": "4月下旬至5月初"
+      }
+     ],
+     "best_season_zh": "4月下旬",
+     "tips_zh": "花季入場排隊可能超過一小時，提早到場最好；可選擇平日。",
+     "tags": [
+      "粉蝶花",
+      "花海",
+      "春天",
+      "公園"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/国営ひたち海浜公園"
+     ],
+     "confidence": "high",
+     "prompt_en": "Hitachi Seaside Park hill covered with blue nemophila flowers merging with sky"
+    },
+    "food": {
+     "title_zh": "鮟鱇鍋",
+     "title_ja": "あんこう鍋",
+     "summary_zh": "大洗與那珂湊一帶冬季代表的海鮮鍋。",
+     "body_zh": "茨城縣沿海地區是日本鮟鱇魚的主要產區，大洗、北茨城一帶的鮟鱇鍋尤其有名，其中「どぶ汁」是以魚肝炒煮、不加水的濃稠做法。鮟鱇魚全身除骨以外都能食用，有「七道具」之稱：肝、鰭、卵巢、肉、胃、鰓與皮。以「吊切」法解體是傳統做法，已有數百年歷史。旬季為11月至2月，當季的鮟鱇鍋配日本酒，是茨城冬季的味覺享受。除了鮟鱇鍋，附近的那珂湊魚市場也能吃到新鮮海鮮丼與烤魚，是海邊旅行的另一個重點。",
+     "facts": [
+      {
+       "label": "產地",
+       "value": "茨城縣大洗町、北茨城市"
+      },
+      {
+       "label": "旬季",
+       "value": "11月至2月"
+      },
+      {
+       "label": "特色",
+       "value": "魚肝湯頭"
+      },
+      {
+       "label": "做法",
+       "value": "吊切、どぶ汁"
+      }
+     ],
+     "best_season_zh": "12月至2月",
+     "tips_zh": "需要預約，適合兩人以上；剩下的湯可加飯煮成雜炊。",
+     "tags": [
+      "鮟鱇鍋",
+      "冬季",
+      "海鮮",
+      "大洗"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/アンコウ鍋"
+     ],
+     "confidence": "medium",
+     "prompt_en": "Ibaraki anko nabe with monkfish liver, tofu and vegetables in miso broth"
+    },
+    "scenery": {
+     "title_zh": "掃帚草紅色丘",
+     "title_ja": "コキア",
+     "summary_zh": "秋季見晴之丘被紅色掃帚草染滿。",
+     "body_zh": "掃帚草（コキア）是夏天呈綠色、秋天變成紅色的圓球狀植物。海濱公園的見晴之丘每年10月中旬前後，掃帚草變成鮮紅色，與藍天和遠處的太平洋形成鮮明對比。夏天則是綠色的小球群，也很可愛。園內花卉隨季節更換，秋季還有大波斯菊。這個景色的高峰期約在10月中旬，視天氣與氣溫略有不同。除了紅色，掃帚草在夏天是柔和的綠色，因此春夏秋都能拍到不同的風景，攝影者可分季節再訪。掃帚草的紅色會逐漸加深，從淡黃綠轉為橙紅再轉為深紅，因此挑選不同週末前往會看到不同的色調。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "茨城縣ひたちなか市"
+      },
+      {
+       "label": "植物",
+       "value": "掃帚草（コキア）"
+      },
+      {
+       "label": "紅葉期",
+       "value": "10月中旬前後"
+      },
+      {
+       "label": "位置",
+       "value": "見晴之丘"
+      }
+     ],
+     "best_season_zh": "10月中旬",
+     "tips_zh": "秋季傍晚光線柔和，攝影效果最佳；請不要踏入花叢。",
+     "tags": [
+      "掃帚草",
+      "秋天",
+      "紅色",
+      "海濱公園"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/国営ひたち海浜公園"
+     ],
+     "confidence": "medium",
+     "prompt_en": "Hill of round red kochia plants in autumn at Hitachi Seaside Park, fluffy red mounds, blue sky"
+    }
+   }
+  },
+  {
+   "id": "ibaraki_tsukuba",
+   "name_zh": "筑波山",
+   "name_ja": "筑波山",
+   "intro_zh": "筑波山是茨城縣南部的名山，有男體山與女體山兩峰，被稱為「西有富士、東有筑波」。山腰的筑波山神社歷史悠久，登山可用纜車、空中纜車或步行。筑波市區則是研究學園都市，一邊是自然、一邊是科學。",
+   "items": {
+    "spot": {
+     "title_zh": "筑波山神社",
+     "title_ja": "筑波山神社",
+     "summary_zh": "祭祀男體、女體二神的古老神社。",
+     "body_zh": "筑波山神社位於筑波山南麓，祭祀筑波男神與筑波女神，自古被視為「兩峰」神靈的所在。《萬葉集》中就有許多詠嘆筑波山的和歌，古代這裡也有男女聚會唱歌的歌垣習俗。神社的拜殿位於山腰，山頂另有奧宮。從神社旁可搭纜車上山，到女體山頂海拔約877公尺。每年有許多登山客與祈福的人造訪，被視為結緣的神社。參拜後可沿參道逛街，品嚐當地的點心與小吃，也可選擇步行上山，約需兩小時左右。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "茨城縣筑波市"
+      },
+      {
+       "label": "祭神",
+       "value": "筑波男神、筑波女神"
+      },
+      {
+       "label": "山頂",
+       "value": "女體山約877公尺"
+      },
+      {
+       "label": "文獻",
+       "value": "《萬葉集》"
+      }
+     ],
+     "best_season_zh": "春秋",
+     "tips_zh": "神社附近有商店街，可嘗蒟蒻與味噌關東煮；登山前確認天氣。",
+     "tags": [
+      "神社",
+      "筑波山",
+      "結緣",
+      "登山"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/筑波山"
+     ],
+     "confidence": "medium",
+     "prompt_en": "Tsukuba Shrine main gate under tall cedar trees, mountain slope, mist"
+    },
+    "food": {
+     "title_zh": "筑波山鄉土料理",
+     "title_ja": "筑波山の郷土料理",
+     "summary_zh": "山麓有蒟蒻、納豆與蕎麥等鄉土吃法。",
+     "body_zh": "筑波山山麓的商店街和神社附近有許多餐廳，提供蒟蒻田樂、蕎麥麵與納豆料理等鄉土味。茨城縣是納豆大縣，不少店家在定食中加入納豆。筑波山也以「蟾蜍油」的傳說聞名，土產店可以看到相關商品。登山前後在山麓的店家補充體力，是常見的行程。內容細節因店家而異，到訪前可先查最新營業資訊。不少旅館也有使用在地食材的套餐，筑波山也出產梅子與梨子，因此伴手禮選擇相當豐富。因此建議先決定想吃的類型，再選擇靠近纜車站或神社入口的店，既節省體力，也能有一頓悠閒的休息時間。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "茨城縣筑波市筑波山麓"
+      },
+      {
+       "label": "特色",
+       "value": "蒟蒻、蕎麥、納豆"
+      },
+      {
+       "label": "傳說",
+       "value": "蟾蜍油"
+      },
+      {
+       "label": "提示",
+       "value": "店家各異"
+      }
+     ],
+     "best_season_zh": "全年",
+     "tips_zh": "假日午餐時段排隊多，登山者可選擇下山後再用餐。",
+     "tags": [
+      "鄉土料理",
+      "蒟蒻",
+      "納豆",
+      "筑波"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/筑波山"
+     ],
+     "confidence": "low",
+     "prompt_en": "Tsukuba local meal set with konjac, tofu and pickles on tray, rustic style"
+    },
+    "scenery": {
+     "title_zh": "筑波山雙峰",
+     "title_ja": "筑波山",
+     "summary_zh": "男體山與女體山兩峰並立，百名山中最低的一座。",
+     "body_zh": "筑波山由男體山（約871公尺）與女體山（約877公尺）兩座山峰組成，被列為日本百名山，是其中海拔最低的一座，但因位於平原上，視野開闊。山的地質並非火山，而是花崗岩隆起後長期風化形成。山頂可眺望關東平原、霞浦與遠方的富士山，被稱為「東邊的富士」。四季皆可登，春季賞梅與櫻花，秋季紅葉。登山路線有多條，從山麓徒步到頂約需數小時，也可以搭纜車下山，輕鬆往返。登山步道的岩石與樹林在不同季節呈現不同顏色，路線上偶有陡坡，需留意腳下。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "茨城縣筑波市"
+      },
+      {
+       "label": "標高",
+       "value": "男體山約871公尺、女體山約877公尺"
+      },
+      {
+       "label": "類型",
+       "value": "非火山、花崗岩山"
+      },
+      {
+       "label": "稱號",
+       "value": "日本百名山"
+      }
+     ],
+     "best_season_zh": "4月、11月",
+     "tips_zh": "可搭纜車與空中纜車節省體力，雙峰之間約需15分鐘；天氣好時能遠眺富士山。",
+     "tags": [
+      "名山",
+      "筑波山",
+      "日本百名山",
+      "展望"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/筑波山"
+     ],
+     "confidence": "high",
+     "prompt_en": "Mount Tsukuba twin peaks viewed from rice paddies, sunrise light, mist in valley"
+    }
+   }
+  },
+  {
+   "id": "ibaraki_kasumigaura",
+   "name_zh": "霞浦・潮來",
+   "name_ja": "霞ヶ浦・潮来",
+   "intro_zh": "霞浦是日本第二大湖，面積約220平方公里，湖岸水田與蓮田遍布。南邊的潮來自江戶時代起就是水運港町，如今以水鄉、手划船和6月的菖蒲祭聞名。霞浦周邊也是日本最大的蓮藕產區。",
+   "items": {
+    "spot": {
+     "title_zh": "潮來水鄉",
+     "title_ja": "潮来の水郷",
+     "summary_zh": "手划小舟穿梭水路，6月菖蒲盛開。",
+     "body_zh": "潮來位於霞浦、北浦與常陸利根川之間，是典型的水鄉，自江戶時代起是水運重鎮。現在可搭乘「さっぱ舟」（手搖櫓小舟）遊覽十二橋，穿過水路和蘆葦，體驗悠閒的水鄉風情。每年6月舉辦的水鄉潮來菖蒲祭，會在菖蒲園種植約500種、100萬株的花菖蒲，是潮來最盛大的活動，期間也有新娘乘舟的演出。除了乘舟，鎮上也有老街與港町風情的建築，並有不少販賣當地特產的商店，適合半日散步。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "茨城縣潮來市"
+      },
+      {
+       "label": "交通工具",
+       "value": "さっぱ舟（手搖櫓小舟）"
+      },
+      {
+       "label": "活動",
+       "value": "菖蒲祭（6月）"
+      },
+      {
+       "label": "特色",
+       "value": "水鄉、十二橋"
+      }
+     ],
+     "best_season_zh": "6月",
+     "tips_zh": "菖蒲祭期間遊客眾多，船班需預約；午後逆光拍照較好。",
+     "tags": [
+      "水鄉",
+      "小舟",
+      "菖蒲",
+      "潮來"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/潮来市"
+     ],
+     "confidence": "high",
+     "prompt_en": "Itako water town with traditional sarubune boat on canal, irises blooming, bridge, summer"
+    },
+    "food": {
+     "title_zh": "蓮藕料理",
+     "title_ja": "れんこん料理",
+     "summary_zh": "茨城是日本蓮藕第一大產地。",
+     "body_zh": "茨城縣長年是日本蓮藕收穫量第一，2020年度約佔全國52%，土浦市、霞浦市、行方市等地是主要產區，集中在霞浦周邊。蓮藕的旬季約為10月到3月，夏季則有口感清脆、色白的新蓮藕。料理方法很多，如天婦羅、金平、涼拌、炸蓮藕夾肉與蓮藕餅，口感爽脆或鬆軟因品種與做法而異。在土浦一帶的餐廳與道之驛常能吃到當地蓮藕料理。當地道之驛常有蓮藕天婦羅與蓮藕湯，也有人把蓮藕做成冰淇淋與零食，不同形式都值得一試。",
+     "facts": [
+      {
+       "label": "產區",
+       "value": "土浦市、霞浦市、行方市"
+      },
+      {
+       "label": "產量",
+       "value": "全國第一（2020年度約52%）"
+      },
+      {
+       "label": "旬季",
+       "value": "10月至3月"
+      },
+      {
+       "label": "料理",
+       "value": "天婦羅、金平、涼拌"
+      }
+     ],
+     "best_season_zh": "10月至3月",
+     "tips_zh": "在直銷所買蓮藕新鮮價格便宜；切開後泡醋水防變色。",
+     "tags": [
+      "蓮藕",
+      "霞浦",
+      "蔬菜",
+      "茨城"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/れんこん"
+     ],
+     "confidence": "high",
+     "prompt_en": "Lotus root dishes: tempura, stir-fried and simmered, ceramic plates, white background wooden table"
+    },
+    "scenery": {
+     "title_zh": "霞浦日落",
+     "title_ja": "霞ヶ浦の夕日",
+     "summary_zh": "日本第二大湖，傍晚的湖面與帆引船最有韻味。",
+     "body_zh": "霞浦（廣義）面積約220平方公里，僅次於琵琶湖，是日本第二大湖，平均水深約4公尺，屬淺水湖。湖岸有廣闊的田園與蓮田。夏秋的週末與假日會有觀光用的「帆引船」出航，白色大帆在湖面上緩緩前進，是霞浦的象徵風景。傍晚的夕陽映照湖面，天空變成橙紅，也適合騎單車環湖。沿湖有自行車專用道與賞鳥點，湖畔的公園與道之驛也是休息與看夕陽的好去處。湖面遼闊而安靜，附近的村落與水路也很有味道，騎單車或自駕環湖，一天可以走完其中一部分。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "茨城縣南東部"
+      },
+      {
+       "label": "面積",
+       "value": "約220平方公里（廣義）"
+      },
+      {
+       "label": "水深",
+       "value": "平均約4公尺"
+      },
+      {
+       "label": "特色",
+       "value": "帆引船"
+      }
+     ],
+     "best_season_zh": "夏秋傍晚",
+     "tips_zh": "帆引船營運日有限，出發前查時刻；環湖單車路線約百餘公里，可選取一段。",
+     "tags": [
+      "湖",
+      "日落",
+      "帆引船",
+      "霞浦"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/霞ヶ浦"
+     ],
+     "confidence": "high",
+     "prompt_en": "Sunset over Lake Kasumigaura with traditional sail boat silhouette, orange reflection"
+    }
+   }
+  }
+ ]
+}

@@ -1,0 +1,853 @@
+{
+ "id": "tokushima",
+ "name_zh": "德島縣",
+ "name_ja": "徳島県",
+ "region": "四國",
+ "overview": {
+  "intro_zh": "德島縣位於四國東部，舊稱阿波國，東面臨紀伊水道，北隔鳴門海峽與淡路島相望。縣內有世界級的鳴門漩渦、祖谷的秘境峽谷與藤蔓橋，也以阿波舞、阿波藍染與阿波人形淨瑠璃等傳統文化聞名。特產包括酸橘、阿波尾雞與鳴門金時，是兼具自然景觀與傳統風情的四國門戶。由大阪、神戶經淡路島與大鳴門橋，搭高速巴士約兩至三小時即可抵達。",
+  "capital_zh": "德島市",
+  "area_km2": "約4,147",
+  "population_approx": "約68萬",
+  "flower_zh": "酸橘花",
+  "bird_zh": "白鷺",
+  "tree_zh": "楊梅（山桃）",
+  "climate_zh": "北部瀨戶內側少雨，南部太平洋側多雨溫暖，山區冬季較冷。",
+  "access_zh": "德島阿波舞機場；大阪、神戶有高速巴士經鳴門到德島；無新幹線。",
+  "specialties_zh": [
+   "酸橘",
+   "阿波尾雞",
+   "鳴門金時",
+   "半田手延素麵",
+   "阿波藍染",
+   "鳴門若芽"
+  ],
+  "best_season_zh": "夏季（阿波舞）與秋季（楓葉、祖谷）最佳"
+ },
+ "items": {
+  "architecture": {
+   "title_zh": "大鳴門橋",
+   "title_ja": "大鳴門橋",
+   "summary_zh": "連接淡路島與四國的吊橋，橋下是鳴門漩渦。",
+   "body_zh": "大鳴門橋橫跨鳴門海峽，連接兵庫縣淡路島南部與德島縣鳴門市，是神戶淡路鳴門自動車道的一部分，1985年完工，主跨徑為876公尺。這座吊橋位於瀨戶內海與太平洋交界的急流之上，橋下的潮汐形成世界級的漩渦。橋體內側設有名為『渦之道』的步道，遊客可走到橋下，隔著玻璃地板直視海面上的漩渦。橋梁是從京阪神通往四國的重要通道，每年有大量車輛通過，也是德島的象徵風景之一。夜間橋身亮起燈光，遠望氣勢十足。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "德島縣鳴門市與兵庫縣淡路島之間"
+    },
+    {
+     "label": "完工",
+     "value": "1985年"
+    },
+    {
+     "label": "主跨徑",
+     "value": "876公尺"
+    },
+    {
+     "label": "橋內步道",
+     "value": "渦之道（約450公尺）"
+    }
+   ],
+   "best_season_zh": "全年；春秋潮流大時",
+   "tips_zh": "從大阪或神戶搭高速巴士可直達鳴門；步道風大，帽子與頭髮請注意固定。車站與巴士站有觀光案內所，可索取地圖。",
+   "tags": [
+    "吊橋",
+    "鳴門海峽",
+    "四國",
+    "基礎建設"
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Onaruto_Bridge",
+    "https://ja.wikipedia.org/wiki/%E6%B8%A6%E3%81%AE%E9%81%93"
+   ],
+   "confidence": "high",
+   "prompt_en": "A long suspension bridge spanning a strait with dramatic swirling whirlpools below, clear sky, aerial view"
+  },
+  "food": {
+   "title_zh": "德島拉麵",
+   "title_ja": "徳島ラーメン",
+   "summary_zh": "濃褐色豚骨醬油湯底配豬五花與生蛋。",
+   "body_zh": "德島拉麵是德島縣的代表地方拉麵，最大特色是以豬骨熬湯再兌入偏甜的濃口醬油，湯色呈濃褐色，味道醇厚。配料常見用醬油與糖燉煮的豬五花肉片，再打上一顆生蛋黃，吃時可把蛋黃拌入麵湯，緩和鹹度。麵條多為偏細的直麵，常搭配白飯一起吃。據說起源於戰後的中華麵店與路邊攤，今日在德島市區與各地都有人氣店家，每家的湯頭濃淡也略有差異。在德島市的拉麵店，常見附贈白飯或小菜的套餐，是在地人午餐的熟悉選擇。",
+   "facts": [
+    {
+     "label": "湯底",
+     "value": "豬骨與濃口醬油"
+    },
+    {
+     "label": "配料",
+     "value": "甜煮豬五花、生蛋、蔥"
+    },
+    {
+     "label": "色澤",
+     "value": "濃褐色"
+    },
+    {
+     "label": "吃法",
+     "value": "常搭配白飯"
+    }
+   ],
+   "best_season_zh": "全年",
+   "tips_zh": "湯頭偏鹹偏濃，建議搭配白飯；生蛋可依個人喜好選擇是否拌入。不同店家甜度各異，可多試幾家。",
+   "tags": [
+    "拉麵",
+    "豚骨醬油",
+    "德島",
+    "地方美食"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/%E5%BE%B3%E5%B3%B6%E3%83%A9%E3%83%BC%E3%83%A1%E3%83%B3"
+   ],
+   "confidence": "medium",
+   "prompt_en": "A bowl of rich brown pork bone broth ramen topped with sliced pork belly and a raw egg yolk, close-up, steam"
+  },
+  "culture": {
+   "title_zh": "阿波舞",
+   "title_ja": "阿波踊り",
+   "summary_zh": "日本最大規模的盂蘭盆舞，每年8月12至15日舉行。",
+   "body_zh": "阿波舞是德島縣的盂蘭盆節舞蹈，每年8月12日至15日在德島市舉行，據稱是日本最大規模的盆舞，參觀人次逾百萬。傳統上由稱為『連』的舞蹈團隊在街頭遊行表演，搭配三味線、太鼓、笛與鉦，口中唱著『跳舞的是傻瓜，看舞的也是傻瓜，同樣是傻瓜，不跳白不跳』的歌詞。關於起源有多種說法，其中一說是1587年蜂須賀家政完成德島城時，城下居民慶祝起舞，已有約400年的傳承。祭典期間還有夜間的大型演出與白天的自由參加區，適合初次造訪的遊客。",
+   "facts": [
+    {
+     "label": "時間",
+     "value": "每年8月12至15日"
+    },
+    {
+     "label": "地點",
+     "value": "德島市街道與舞臺"
+    },
+    {
+     "label": "形式",
+     "value": "連（團隊）街頭遊行"
+    },
+    {
+     "label": "伴奏",
+     "value": "三味線、太鼓、笛、鉦"
+    }
+   ],
+   "best_season_zh": "夏季（8月12至15日）",
+   "tips_zh": "祭典期間住宿與交通極為擁擠，要提早數月訂房；舞蹈有付費觀覽席，也有自由參加的『飛入』環節。夜間街頭人潮很多，請注意隨身物品。",
+   "tags": [
+    "祭典",
+    "盂蘭盆舞",
+    "夏季",
+    "德島"
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Awa_Odori",
+    "https://pref.tokushima.lg.jp/en/japanese/natural_culture/traditional_culture/awa-odori"
+   ],
+   "confidence": "high",
+   "prompt_en": "A lively summer street dance procession with performers in indigo yukata and woven straw hats forming lines, paper lanterns overhead, motion blur"
+  },
+  "history": {
+   "title_zh": "阿波人形淨瑠璃",
+   "title_ja": "阿波人形浄瑠璃",
+   "summary_zh": "德島的傳統木偶劇，曾在農村舞臺廣為流傳。",
+   "body_zh": "阿波人形淨瑠璃是德島縣的傳統人形劇，結合義太夫節的說唱與三味線，由操偶師操縱木偶演出。江戶時代，在阿波藩的支持下，劇團以農村的臨時舞臺巡迴演出，成為地方的庶民娛樂。故事以『阿波十郎兵衛』等為代表，演出細膩動人（細節以現場介紹為準）。德島市內的阿波十郎兵衛屋敷設有常設的演出與展示，介紹傳統與歷史，也能體驗操偶。現今仍有保存團體持續活動。現場常有解說員以簡單的語言說明木偶的構造與動作，讓不懂日語的觀眾也能理解。",
+   "facts": [
+    {
+     "label": "類型",
+     "value": "人形淨瑠璃（木偶劇）"
+    },
+    {
+     "label": "代表劇目",
+     "value": "阿波十郎兵衛"
+    },
+    {
+     "label": "盛行時期",
+     "value": "江戶時代"
+    },
+    {
+     "label": "可見之處",
+     "value": "阿波十郎兵衛屋敷"
+    }
+   ],
+   "best_season_zh": "全年；秋季有地方公演",
+   "tips_zh": "演出日期各處不同，行前查詢十郎兵衛屋敷的公演時間；劇情多為日文，建議先看簡介。館內多為榻榻米座席，請穿方便的襪子。",
+   "tags": [
+    "木偶劇",
+    "傳統藝能",
+    "江戶時代",
+    "德島"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/%E9%98%BF%E6%B3%A2%E4%BA%BA%E5%BD%A2%E6%B5%84%E7%91%A0%E7%92%83",
+    "https://ja.wikipedia.org/wiki/%E9%98%BF%E6%B3%A2%E5%8D%81%E9%83%8E%E5%85%B5%E8%A1%9B"
+   ],
+   "confidence": "low",
+   "prompt_en": "A traditional Japanese puppet theater scene with an ornate costume puppet held by dark-clad handlers, stage lights"
+  },
+  "mascot": {
+   "title_zh": "德島的吉祥物（原創角色）",
+   "title_ja": "徳島のご当地キャラ",
+   "summary_zh": "真實吉祥物是『酸橘君』，此處以酸橘與藍染原創角色。",
+   "body_zh": "德島縣的代表性吉祥物是『すだちくん（酸橘君）』，以德島特產酸橘為造型，原是東四國國體時的縣吉祥物，之後作為農林水產物品牌推廣與縣形象宣傳的角色，深受居民喜愛。此條目則是以德島象徵創作的原創角色：酸橘是縣花，藍染是阿波的傳統工藝，把圓圓的綠色酸橘配上藍色漩渦臉頰與小舞帽，結合阿波舞的歡樂氣氛，並刻意不複製任何既有商標吉祥物。縣內各地的特產店也常看到酸橘君的周邊商品，從文具到零食都有。",
+   "facts": [
+    {
+     "label": "官方吉祥物",
+     "value": "酸橘君（すだちくん）"
+    },
+    {
+     "label": "縣花",
+     "value": "酸橘"
+    },
+    {
+     "label": "象徵",
+     "value": "阿波舞、藍染"
+    },
+    {
+     "label": "用途",
+     "value": "農林水產品牌與縣形象宣傳"
+    }
+   ],
+   "best_season_zh": "全年",
+   "tips_zh": "想看真實的酸橘君，可在德島的車站、特產店與活動會場找到周邊商品。原創角色僅為示意，非官方圖像。",
+   "tags": [
+    "吉祥物",
+    "酸橘",
+    "藍染",
+    "原創角色"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/%E3%81%99%E3%81%A0%E3%81%A1%E3%81%8F%E3%82%93",
+    "https://en.wikipedia.org/wiki/Sudachi"
+   ],
+   "confidence": "medium",
+   "prompt_en": "An original cute character shaped like a green sudachi citrus with indigo swirl patterns on its cheeks and a small dancing hat, not replicating any existing trademarked mascot"
+  },
+  "scenery": {
+   "title_zh": "祖谷溪",
+   "title_ja": "祖谷渓",
+   "summary_zh": "深邃峽谷與山間秘境，傳說平家殘黨隱居之地。",
+   "body_zh": "祖谷位於德島縣西部的三好市，是吉野川支流祖谷川切割形成的深邃峽谷，山勢陡峭，雲霧繚繞，長久以來交通不便，被視為日本三大秘境之一。傳說壇之浦之戰後，平家殘黨逃入此地隱居，山間的茅草屋聚落與藤蔓橋成為象徵。如今道路改善，遊客能搭乘巴士或自駕前往，體驗溫泉、峽谷步道與小村落的靜謐氛圍，晨霧時分尤其迷人。深山中的旅館與民宿提供在地料理，晚間可聆聽溪水聲與蟲鳴，非常療癒；秋季的紅葉與冬季的薄霧也各有不同的風貌。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "德島縣三好市祖谷地區"
+    },
+    {
+     "label": "地形",
+     "value": "祖谷川切割的V字峽谷"
+    },
+    {
+     "label": "傳說",
+     "value": "平家殘黨隱居"
+    },
+    {
+     "label": "特色",
+     "value": "藤蔓橋、茅草屋、溫泉"
+    }
+   ],
+   "best_season_zh": "秋季楓葉與春季新綠",
+   "tips_zh": "山路彎多狹窄，開車請小心；夜間氣溫低，需帶外套。巴士班次少，行前務必查好時刻表與末班車。",
+   "tags": [
+    "峽谷",
+    "秘境",
+    "祖谷",
+    "山景"
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Iya_Valley",
+    "https://ja.wikipedia.org/wiki/%E7%A5%96%E8%B0%B7%E6%B8%A9%E6%B3%89"
+   ],
+   "confidence": "medium",
+   "prompt_en": "A deep forested gorge with a vine suspension bridge crossing a green river, mist over the mountains"
+  },
+  "spot": {
+   "title_zh": "鳴門漩渦",
+   "title_ja": "鳴門の渦潮",
+   "summary_zh": "世界最大級的潮汐漩渦，最大直徑可達20公尺。",
+   "body_zh": "鳴門漩渦發生在鳴門海峽，海峽寬約1.3公里，連接太平洋與瀨戶內海。每日兩次漲落潮，大量海水流過狹窄水道，流速最快可達時速約20公里，形成直徑最大達約20公尺的漩渦，是世界最大規模的潮汐漩渦之一。遊客可搭觀潮船近距離觀賞，或走大鳴門橋的『渦之道』從高處俯瞰。漩渦大小與潮汐週期有關，大潮前後的春、秋季尤其壯觀。觀潮船分為大型與小型兩種，小型船離漩渦更近，但搖晃也較大；陸上的展望台雖然距離較遠，卻能同時拍到海峽與大橋。",
+   "facts": [
+    {
+     "label": "位置",
+     "value": "鳴門海峽（鳴門市與淡路島間）"
+    },
+    {
+     "label": "海峽寬度",
+     "value": "約1.3公里"
+    },
+    {
+     "label": "流速",
+     "value": "最快約20公里／小時"
+    },
+    {
+     "label": "漩渦直徑",
+     "value": "最大約20公尺"
+    }
+   ],
+   "best_season_zh": "春秋季大潮期間",
+   "tips_zh": "出發前先查詢潮汐時間表並確認船班；船上風浪大，請穿防風外套並顧好隨身物品。容易暈船者請提前服用暈船藥。",
+   "tags": [
+    "漩渦",
+    "鳴門海峽",
+    "潮汐",
+    "觀潮船"
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Naruto_whirlpools",
+    "https://ja.wikipedia.org/wiki/%E9%B3%B4%E9%96%80%E5%85%AC%E5%9C%92"
+   ],
+   "confidence": "high",
+   "prompt_en": "Powerful swirling whirlpools in blue ocean water viewed from a tour boat railing, white foam spirals, dramatic light"
+  },
+  "experience": {
+   "title_zh": "阿波藍染體驗",
+   "title_ja": "阿波藍染め",
+   "summary_zh": "在德島體驗傳統靛藍染布。",
+   "body_zh": "德島舊稱阿波，以藍的栽培聞名，阿波藍以蓼藍葉發酵製成『蒅』（すくも），是染料的原料。江戶時代阿波藩獎勵藍作，藍商累積巨富，成為地方經濟的支柱。如今德島縣內的工房與博物館提供藍染體驗，讓遊客把手帕、T恤或圍巾放入藍液中浸染，再取出於空氣中氧化，由黃綠漸漸變成深藍。每件作品花紋不同，是旅行中最具紀念性的體驗之一。店家會依作品大小與難度提供不同價位的課程，初學者通常能在一小時內完成，也能把成品直接帶回家作紀念。",
+   "facts": [
+    {
+     "label": "原料",
+     "value": "蓼藍發酵而成的蒅"
+    },
+    {
+     "label": "染法",
+     "value": "浸染後氧化變藍"
+    },
+    {
+     "label": "時間",
+     "value": "約1小時"
+    },
+    {
+     "label": "可製作",
+     "value": "手帕、T恤、圍巾"
+    }
+   ],
+   "best_season_zh": "全年",
+   "tips_zh": "請穿容易髒的衣服，並用手套保護雙手；染好的布第一次清洗時請單獨洗，避免染色其他衣物。冬季水冷，可預先詢問是否有溫水設備。",
+   "tags": [
+    "藍染",
+    "手作體驗",
+    "傳統工藝",
+    "德島"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/%E9%98%BF%E6%B3%A2%E8%97%8D",
+    "https://ja.wikipedia.org/wiki/%E8%97%8D%E6%9F%93"
+   ],
+   "confidence": "medium",
+   "prompt_en": "Hands dipping a white cloth into a vat of deep indigo dye in a rustic workshop, indigo-stained fabrics hanging to dry"
+  },
+  "costume": {
+   "title_zh": "阿波舞浴衣與編笠",
+   "title_ja": "阿波踊りの装い",
+   "summary_zh": "阿波舞專用的浴衣、法被與編笠。",
+   "body_zh": "阿波舞的服裝依性別與團隊而略有不同：女性多穿著浴衣或短和服，腰間繫帶，腳踩木屐，頭戴形如斗笠的『編笠』，姿態優雅；男性則常著法被與短褲，赤腳或穿地下足袋，舞步粗獷豪邁。色彩以藍白、紅與黑為主，團隊會統一圖案與配色，在夜色中格外醒目。許多舞蹈團體的服飾由專門店縫製，遊客也可租借浴衣體驗跳舞，感受祭典的熱鬧氣氛。不少團隊還會在夜間穿著配色統一的服裝，跟著鼓點與鉦聲整齊前進，場面非常壯觀。",
+   "facts": [
+    {
+     "label": "女裝",
+     "value": "浴衣、編笠、木屐"
+    },
+    {
+     "label": "男裝",
+     "value": "法被、短褲、足袋"
+    },
+    {
+     "label": "色調",
+     "value": "藍白、紅、黑"
+    },
+    {
+     "label": "體驗",
+     "value": "可租借浴衣"
+    }
+   ],
+   "best_season_zh": "夏季祭典期間",
+   "tips_zh": "租借多為旺季滿檔，建議提前預約；編笠遮光視野有限，走路時請注意腳下與周圍人群。雨天時浴衣與木屐容易濕滑，需特別注意腳下。",
+   "tags": [
+    "阿波舞",
+    "浴衣",
+    "編笠",
+    "傳統服飾"
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Awa_Odori"
+   ],
+   "confidence": "medium",
+   "prompt_en": "An anonymous model wearing an indigo and white yukata with a conical woven hat, mid-dance pose, festival night lanterns"
+  }
+ },
+ "areas": [
+  {
+   "id": "tokushima_naruto",
+   "name_zh": "鳴門",
+   "name_ja": "鳴門",
+   "intro_zh": "鳴門市位於德島縣東北端，面對鳴門海峽，是前往四國的門戶之一。除了世界級漩渦，市內有大塚國際美術館、板東俘虜收容所遺址等，海產與紅薯也是地方招牌。從大阪或神戶搭高速巴士可直達。",
+   "items": {
+    "spot": {
+     "title_zh": "大塚國際美術館",
+     "title_ja": "大塚国際美術館",
+     "summary_zh": "把西洋名畫以陶板原寸複製的大型美術館。",
+     "body_zh": "大塚國際美術館位於鳴門公園內，1998年3月開館，是以陶板將世界名畫原寸複製的特殊美術館。館內展示來自約25國、190餘間美術館的西洋名畫1,000多件，有梵蒂岡西斯汀禮拜堂的壁畫重現，以及許多以立體空間復原的教堂。陶板不易褪色，可長久保存。參觀路線全長約4公里，需要半天以上才能逛完，是德島最具代表性的文化設施之一。參觀時可使用語音導覽，適合家庭與喜愛藝術的旅客，館內也設有餐廳與商店，方便補充體力。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "德島縣鳴門市鳴門町"
+      },
+      {
+       "label": "開館",
+       "value": "1998年3月"
+      },
+      {
+       "label": "展示",
+       "value": "陶板複製名畫約1,000餘件"
+      },
+      {
+       "label": "路線",
+       "value": "約4公里"
+      }
+     ],
+     "best_season_zh": "全年",
+     "tips_zh": "館內路線長、階梯多，請穿舒適的鞋；可先拿導覽圖規劃想看的區域，避免走回頭路。館內餐廳午間人多，建議錯開時段。",
+     "tags": [
+      "美術館",
+      "陶板",
+      "名畫",
+      "鳴門"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/%E5%A4%A7%E5%A1%9A%E5%9B%BD%E9%9A%9B%E7%BE%8E%E8%A1%93%E9%A4%A8"
+     ],
+     "confidence": "high",
+     "prompt_en": "A grand museum hall replicating a vaulted chapel with ornate ceiling frescoes and visitors seen from behind, soft warm lighting"
+    },
+    "food": {
+     "title_zh": "鳴門金時與鳴門鯛",
+     "title_ja": "鳴門金時・鳴門鯛",
+     "summary_zh": "鳴門海峽的甜紅薯與急流中成長的鯛魚。",
+     "body_zh": "鳴門金時是德島縣鳴門市一帶栽培的紅薯品牌，生長於砂質土壤，肉質呈鮮黃，甜味濃郁，口感鬆軟，常做成烤地瓜、地瓜燒酎與各式甜點。鳴門海峽湍急的潮流造就肉質緊實的鳴門鯛，鮮甜彈牙，當地有燒烤與刺身等多種吃法。鳴門海峽附近還盛產鳴門若芽（海帶芽），口感爽脆，也是地方特色。鳴門海峽的急流造就肉質緊實的魚貨，市區的料理店與道之驛都能品嚐到，也有加工的乾貨與點心可帶回家，是旅行中的美味回憶。",
+     "facts": [
+      {
+       "label": "紅薯品牌",
+       "value": "鳴門金時"
+      },
+      {
+       "label": "產地特徵",
+       "value": "砂質土壤，甜味濃"
+      },
+      {
+       "label": "海產",
+       "value": "鳴門鯛、鳴門若芽"
+      },
+      {
+       "label": "吃法",
+       "value": "烤地瓜、甜點、刺身"
+      }
+     ],
+     "best_season_zh": "秋季（地瓜）、春季（若芽）",
+     "tips_zh": "地瓜點心很適合買來當伴手禮；鳴門鯛料理可選擇定食，口味較全面。鳴門若芽的產季在春天，剛採收的最鮮脆。",
+     "tags": [
+      "紅薯",
+      "鯛魚",
+      "海帶芽",
+      "鳴門"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/%E9%B3%B4%E9%96%80%E3%82%8F%E3%81%8B%E3%82%81",
+      "https://ja.wikipedia.org/wiki/%E9%B3%B4%E9%96%80%E5%B8%82"
+     ],
+     "confidence": "medium",
+     "prompt_en": "Roasted purple-skinned sweet potatoes cut open to show golden flesh on a wooden board beside a plate of sea bream sashimi, warm natural light"
+    },
+    "scenery": {
+     "title_zh": "鳴門公園千疊敷",
+     "title_ja": "鳴門公園",
+     "summary_zh": "從山頂展望台遠眺鳴門海峽與大鳴門橋。",
+     "body_zh": "鳴門公園位於鳴門海峽的高台上，是瀨戶內海國立公園的一部分，視野開闊，可從展望台望見海峽、淡路島與大鳴門橋。其中千疊敷展望台是著名的觀景點，山坡上遍布櫻花與杜鵑，春季花開時特別漂亮。公園附近設有觀潮船乘船處，以及大塚國際美術館等設施，適合與漩渦觀賞一起安排行程。夕陽西下時的海面與橋影，景色十分柔和。附近還有登山步道和小型的休憩設施，沿途能邊走邊欣賞海景，視野相當壯闊，晴朗無雲的日子還能遠眺淡路島連綿的山稜線。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "德島縣鳴門市"
+      },
+      {
+       "label": "地位",
+       "value": "瀨戶內海國立公園的一部分"
+      },
+      {
+       "label": "景點",
+       "value": "千疊敷展望台"
+      },
+      {
+       "label": "景觀",
+       "value": "鳴門海峽、淡路島、大鳴門橋"
+      }
+     ],
+     "best_season_zh": "春季（櫻花）與傍晚",
+     "tips_zh": "展望台位在高處，風強時請注意；可搭配巴士抵達，沿途班次不多，請預先確認時刻表。山頂風大，建議穿防風外套。",
+     "tags": [
+      "國立公園",
+      "展望台",
+      "海峽",
+      "鳴門"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/%E9%B3%B4%E9%96%80%E5%85%AC%E5%9C%92"
+     ],
+     "confidence": "medium",
+     "prompt_en": "A coastal hilltop viewpoint overlooking a strait with a large bridge and calm sea at sunset, cherry blossoms in the foreground"
+    }
+   }
+  },
+  {
+   "id": "tokushima_iya",
+   "name_zh": "祖谷",
+   "name_ja": "祖谷",
+   "intro_zh": "祖谷位於德島縣西部的三好市，被稱為日本三大秘境之一，山高谷深，傳說是平家殘黨的隱居地。藤蔓橋、峽谷、溫泉與祖谷蕎麥，構成山間獨特的旅行風景。從德島市搭JR土讚線往大步危站，再轉巴士。",
+   "items": {
+    "spot": {
+     "title_zh": "祖谷藤蔓橋",
+     "title_ja": "祖谷のかずら橋",
+     "summary_zh": "以山野藤蔓編成的吊橋，橫跨祖谷川。",
+     "body_zh": "祖谷藤蔓橋是跨越祖谷川的吊橋，全以山野藤蔓編織而成，橋長約45公尺，離河面約14公尺，橋面木板間隙很大，走在上面可直視溪水，驚險刺激。相傳為弘法大師所建或平家殘黨為了方便逃脫而架設的傳說。藤蔓橋大約每三年重新更換一次材料，以維持安全。入橋需購買門票，費用大約數百日圓，以現場公告為準。橋的下游有鄰近的另一座藤蔓橋『奧祖谷二重藤蔓橋』，是男女橋並列的特殊造型，值得一併拜訪，兩座橋各有不同的風貌，也適合安排半天行程。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "德島縣三好市西祖谷山村"
+      },
+      {
+       "label": "橋長",
+       "value": "約45公尺"
+      },
+      {
+       "label": "橋高",
+       "value": "約14公尺"
+      },
+      {
+       "label": "更新",
+       "value": "約每三年重建"
+      }
+     ],
+     "best_season_zh": "秋季楓葉；春夏新綠",
+     "tips_zh": "橋面有縫隙，請抓緊扶手、勿邊走邊拍照；不建議懼高者與穿裙裝者嘗試。旺季時橋面人流需要輪流通行，請耐心等候。",
+     "tags": [
+      "吊橋",
+      "藤蔓",
+      "祖谷",
+      "秘境"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/%E7%A5%96%E8%B0%B7%E3%81%AE%E3%81%8B%E3%81%9A%E3%82%89%E6%A9%8B",
+      "https://en.wikipedia.org/wiki/Iya_Valley"
+     ],
+     "confidence": "medium",
+     "prompt_en": "A vine suspension bridge across a deep green valley, wooden planks with gaps, river far below, soft light through trees"
+    },
+    "food": {
+     "title_zh": "祖谷蕎麥",
+     "title_ja": "祖谷そば",
+     "summary_zh": "山間粗麵配野菜，口感彈牙。",
+     "body_zh": "祖谷蕎麥是德島縣祖谷地區的鄉土料理，由於山地陡峭，水田很少，當地人自古以種植蕎麥與雜糧為主，製成的麵條偏粗、偏短，口感紮實，香氣濃郁，帶有蕎麥本身的樸實風味。傳統吃法是搭配山菜、炸豆腐、山藥泥或烤香魚，並以清淡湯汁調味。不少店家鄰近藤蔓橋與溫泉旅館，遊客在探訪景點後就能順道品嚐。祖谷溫泉旅館與山村食堂經常提供蕎麥麵加山菜、烤香魚與炸豆腐等定食，用餐環境質樸而安靜，也是旅途中放慢腳步的好地方。",
+     "facts": [
+      {
+       "label": "特色",
+       "value": "粗短麵條、口感紮實"
+      },
+      {
+       "label": "配菜",
+       "value": "山菜、炸豆腐、山藥泥"
+      },
+      {
+       "label": "背景",
+       "value": "山區雜糧文化"
+      },
+      {
+       "label": "所在地",
+       "value": "德島縣三好市祖谷地區"
+      }
+     ],
+     "best_season_zh": "全年；秋季新蕎麥",
+     "tips_zh": "麵量不大，可再加點炸豆腐或山菜定食；偏遠地區店家營業時間較短，建議午餐時段抵達。點餐前可先詢問是否有賣完的菜色。",
+     "tags": [
+      "蕎麥麵",
+      "山菜",
+      "鄉土料理",
+      "祖谷"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/%E7%A5%96%E8%B0%B7%E3%81%9D%E3%81%B0"
+     ],
+     "confidence": "medium",
+     "prompt_en": "Buckwheat soba in a ceramic bowl with mountain vegetables and fried tofu, steam rising, rustic wooden table"
+    },
+    "scenery": {
+     "title_zh": "大步危與小步危峽谷",
+     "title_ja": "大歩危・小歩危",
+     "summary_zh": "吉野川切割的壯闊峽谷，可搭船遊覽。",
+     "body_zh": "大步危、小步危是吉野川上游的峽谷地形，兩岸聳立著岩壁，岩石年代古老，是四國有名的地質景觀。大步危峽的遊覽船行駛在碧綠水面上，船夫會介紹岩壁形貌，並可看到兩岸綠意與四季變化。『大步危』原意是『走路需特別小心危險的地方』。附近有溫泉旅館、藤蔓橋與祖谷溪，常被安排成一條山間旅遊路線，秋季楓紅尤其動人。祖谷一帶還有著名的『小便小僧』雕像，立於高聳的懸崖邊，是許多遊客拍照的人氣景點，也是峽谷旅行時一個有趣的小插曲。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "德島縣三好市"
+      },
+      {
+       "label": "河流",
+       "value": "吉野川"
+      },
+      {
+       "label": "遊覽",
+       "value": "遊覽船約30分鐘"
+      },
+      {
+       "label": "特色",
+       "value": "古老岩壁與清澈碧水"
+      }
+     ],
+     "best_season_zh": "秋季與新綠季",
+     "tips_zh": "遊覽船班次視水位與天候而定，行前確認營運；可搭JR土讚線前往大步危站。山區天氣多變，請準備雨具。",
+     "tags": [
+      "峽谷",
+      "遊船",
+      "吉野川",
+      "祖谷"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/%E5%A4%A7%E6%AD%A9%E5%8D%B1%E3%83%BB%E5%B0%8F%E6%AD%A9%E5%8D%B1",
+      "https://ja.wikipedia.org/wiki/%E5%90%89%E9%87%8E%E5%B7%9D"
+     ],
+     "confidence": "medium",
+     "prompt_en": "A deep river gorge with towering rock walls and emerald water, a small sightseeing boat passing, autumn trees on the cliffs"
+    }
+   }
+  },
+  {
+   "id": "tokushima_tokushima_city",
+   "name_zh": "德島市",
+   "name_ja": "徳島市",
+   "intro_zh": "德島市是縣廳所在地，位於吉野川下游三角洲，城中有眉山與德島城遺址。每年8月的阿波舞使整個城市沸騰，平時則以拉麵、阿波尾雞與藍染等地方風味聞名。從德島阿波舞機場搭巴士約三十分鐘即達。",
+   "items": {
+    "spot": {
+     "title_zh": "阿波舞會館",
+     "title_ja": "阿波おどり会館",
+     "summary_zh": "一年四季都能欣賞阿波舞的展示館。",
+     "body_zh": "阿波舞會館位於德島市眉山山腳，是介紹與展演阿波舞的設施，五樓還設有通往眉山山頂的空中纜車乘車處。館內有常態的阿波舞表演，專業舞團輪番登場，也能實際參與學舞，體驗『飛入』的樂趣；另有展示區介紹歷史、樂器與服飾。平時想感受阿波舞氣氛，不必等到8月，館內表演每日都有，是不錯的選擇。館內也販售阿波舞周邊商品，包括鼓、扇子與毛巾，是旅行時順便購買紀念品的好地方，也有不少遊客專程為了體驗舞步而來。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "德島市新町橋"
+      },
+      {
+       "label": "功能",
+       "value": "阿波舞展演與體驗"
+      },
+      {
+       "label": "交通",
+       "value": "近眉山纜車"
+      },
+      {
+       "label": "特色",
+       "value": "全年可看舞蹈"
+      }
+     ],
+     "best_season_zh": "全年",
+     "tips_zh": "表演時間與場次請以官方公告為準；建議安排到表演後再搭纜車上眉山看夜景。舞蹈體驗建議穿輕便服裝與襪子。",
+     "tags": [
+      "阿波舞",
+      "展示館",
+      "體驗",
+      "德島市"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/%E9%98%BF%E6%B3%A2%E3%81%8A%E3%81%A9%E3%82%8A%E4%BC%9A%E9%A4%A8",
+      "https://ja.wikipedia.org/wiki/%E7%9C%89%E5%B1%B1%E3%83%AD%E3%83%BC%E3%83%97%E3%82%A6%E3%82%A7%E3%82%A4"
+     ],
+     "confidence": "medium",
+     "prompt_en": "Festival dancers in traditional costume under lanterns on a stage at night, warm spotlight, motion blur"
+    },
+    "food": {
+     "title_zh": "阿波尾雞",
+     "title_ja": "阿波尾鶏",
+     "summary_zh": "德島縣的地雞品牌，肉質彈牙。",
+     "body_zh": "阿波尾雞是德島縣培育的品牌地雞，以阿波地雞血統與其他品種交配而成，飼養期較長，肉質結實彈牙，雞肉香氣濃郁，是縣內最受推崇的食材之一。常見料理有炭火燒烤、水炊鍋與炸雞，湯頭也因為脂肪少而清爽。在德島市區的居酒屋與雞肉專賣店都能品嚐，產量與出貨量為全國名列前茅的地雞品牌之一，也是德島縣的重要特產。在德島市的居酒屋與雞肉專賣店，常見將阿波尾雞做成炭烤、燉煮與雞肉鍋的套餐，也可搭配當地的日本酒，是晚餐的絕佳選擇。",
+     "facts": [
+      {
+       "label": "類別",
+       "value": "品牌地雞"
+      },
+      {
+       "label": "特色",
+       "value": "肉質彈牙、脂肪較少"
+      },
+      {
+       "label": "料理",
+       "value": "炭烤、水炊、炸雞"
+      },
+      {
+       "label": "產地",
+       "value": "德島縣"
+      }
+     ],
+     "best_season_zh": "全年",
+     "tips_zh": "炭烤最能吃出肉本身的甜味與口感；若想一次吃到多種部位，可點拼盤。價格依部位而異，可看菜單比較。",
+     "tags": [
+      "地雞",
+      "阿波尾雞",
+      "烤雞",
+      "德島市"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/%E9%98%BF%E6%B3%A2%E5%B0%BE%E9%B6%8F"
+     ],
+     "confidence": "medium",
+     "prompt_en": "Skewers of charcoal grilled chicken on a binchotan grill with glowing embers, juicy browned skin, izakaya atmosphere"
+    },
+    "scenery": {
+     "title_zh": "眉山夜景",
+     "title_ja": "眉山の夜景",
+     "summary_zh": "從市區眉山山頂俯瞰德島市夜景。",
+     "body_zh": "眉山是德島市區西側的山，標高約280公尺，名稱據說源於從各方向看都像一彎眉毛的山形。山上有空中纜車，1957年開通，由阿波舞會館五樓搭乘，約數分鐘登頂。山頂展望台可俯瞰新町川、吉野川三角洲與市區，夜晚燈火閃爍，也能遠眺紀伊水道。山頂也設有公園與小型餐廳，傍晚時分很受歡迎。夜景之外，白天也能在山頂看到吉野川與紀伊水道遠景，天氣好的日子甚至可望見遠方的淡路島，登頂後在展望台小坐，也很舒適。",
+     "facts": [
+      {
+       "label": "標高",
+       "value": "約280公尺"
+      },
+      {
+       "label": "交通",
+       "value": "眉山纜車（1957年開通）"
+      },
+      {
+       "label": "景觀",
+       "value": "市區、吉野川三角洲"
+      },
+      {
+       "label": "位置",
+       "value": "德島市"
+      }
+     ],
+     "best_season_zh": "傍晚至夜間",
+     "tips_zh": "夜間山頂風涼，需帶外套；纜車的營運時間請事先確認。雲霧多的日子建議改天再上山，視野較好。",
+     "tags": [
+      "夜景",
+      "纜車",
+      "展望台",
+      "德島市"
+     ],
+     "sources": [
+      "https://en.wikipedia.org/wiki/Mount_Bizan",
+      "https://ja.wikipedia.org/wiki/%E7%9C%89%E5%B1%B1%E3%83%AD%E3%83%BC%E3%83%97%E3%82%A6%E3%82%A7%E3%82%A4"
+     ],
+     "confidence": "high",
+     "prompt_en": "A night view of a river delta city from a mountain top lookout, glittering lights and bridges, deep blue twilight sky"
+    }
+   }
+  },
+  {
+   "id": "tokushima_mima",
+   "name_zh": "美馬",
+   "name_ja": "美馬",
+   "intro_zh": "美馬地區位於吉野川中游北岸，古代為阿波藍商的集散地，脇町至今保留富商的『卯建』街道。鄰近的劍町以半田手延素麵聞名，吉野川的河谷景色開闊。從德島站搭JR德島線約一小時可達美馬。",
+   "items": {
+    "spot": {
+     "title_zh": "脇町卯建町並",
+     "title_ja": "うだつの町並み",
+     "summary_zh": "藍商留下的防火牆瓦屋街道。",
+     "body_zh": "脇町位於吉野川北岸的美馬市，江戶時代因藍的交易而繁榮，富商們在屋頂兩側築起防火兼彰顯財力的『卯建』，現今仍保留卯建連綿的老街，被指定為重要傳統建築物群保存地區。這條街道上有白牆瓦頂的商家老宅，以及改建的店鋪與資料館。日語『うだつが上がらない』（出不了頭）一詞即源自卯建，代表出人頭地的象徵。街道上的店家有些改建為咖啡廳、手作坊與藍染工房，邊走邊逛十分愜意，也有餐廳提供在地料理，適合安排半日散步與用餐。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "德島縣美馬市脇町"
+      },
+      {
+       "label": "特色",
+       "value": "卯建（防火牆）與商家老宅"
+      },
+      {
+       "label": "歷史背景",
+       "value": "江戶時代藍商繁榮"
+      },
+      {
+       "label": "指定",
+       "value": "重要傳統建築物群保存地區"
+      }
+     ],
+     "best_season_zh": "全年；春季櫻花時節",
+     "tips_zh": "老街範圍不大，步行約1小時；部分老宅有收費開放參觀，營業時間請預先確認。冬季風大，建議帶圍巾。",
+     "tags": [
+      "老街",
+      "卯建",
+      "藍商",
+      "美馬"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/%E7%BE%8E%E9%A6%AC%E5%B8%82"
+     ],
+     "confidence": "medium",
+     "prompt_en": "An old merchant street with udatsu fire walls and tiled roofs, whitewashed walls, quiet morning light, no people in focus"
+    },
+    "food": {
+     "title_zh": "半田手延素麵",
+     "title_ja": "半田そうめん",
+     "summary_zh": "劍町特產的手延細麵，口感滑順。",
+     "body_zh": "半田素麵是德島縣美馬郡劍町的特產，以手延方式反覆拉長、風乾製成，麵條細而均勻，口感滑順有彈性。製作過程需要在寒冷季節進行，傳統上冬季為製麵季節，製成後再經風乾與熟成，保存性佳。夏季常見的吃法是冷麵蘸醬油汁，或加入冰塊與配料，清爽開胃。劍町與美馬一帶的商家與道之驛皆有販售，也常被製成伴手禮禮盒。素麵的粗細與口感因店家而異，有些店還推出加入當地食材的創意吃法，如搭配蔬菜天婦羅或加入柑橘，風味更豐富，值得嘗試不同的組合。",
+     "facts": [
+      {
+       "label": "產地",
+       "value": "德島縣劍町（美馬郡）"
+      },
+      {
+       "label": "製法",
+       "value": "手延、風乾"
+      },
+      {
+       "label": "吃法",
+       "value": "冷麵蘸汁、湯麵"
+      },
+      {
+       "label": "特色",
+       "value": "細滑、有彈性"
+      }
+     ],
+     "best_season_zh": "夏季（冷麵）",
+     "tips_zh": "冷麵吃法最能凸顯口感；若想買伴手禮，可選禮盒裝，保存期較長。夏季限定的冷麵最受歡迎。",
+     "tags": [
+      "素麵",
+      "手延麵",
+      "劍町",
+      "伴手禮"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/%E5%8D%8A%E7%94%B0%E7%B4%A0%E9%BA%BA",
+      "https://ja.wikipedia.org/wiki/%E3%81%A4%E3%82%8B%E3%81%8E%E7%94%BA"
+     ],
+     "confidence": "medium",
+     "prompt_en": "Thin white somen noodles in a glass bowl with ice cubes and a dipping sauce cup, green onion garnish, summer light"
+    },
+    "scenery": {
+     "title_zh": "吉野川",
+     "title_ja": "吉野川",
+     "summary_zh": "四國三郎，四國最大的河流。",
+     "body_zh": "吉野川是四國最長的河流，全長約194公里，由高知縣發源，穿越德島縣後注入紀伊水道。由於昔日洪水頻繁，與坂東太郎（利根川）、筑紫次郎（筑後川）並稱為日本三大暴川，又有『四國三郎』之稱。如今河谷寬廣，兩岸為稻田、果園與山林，美馬一帶的河岸可看到開闊的河景與遠山。河水孕育了阿波的藍作與農業，是德島重要的母親河。河川沿線還有許多自行車步道與公園，可在春天賞花、夏天納涼、秋天欣賞紅葉，四季風景皆不同，是了解德島日常生活的好地方。",
+     "facts": [
+      {
+       "label": "長度",
+       "value": "約194公里"
+      },
+      {
+       "label": "流經",
+       "value": "高知縣、德島縣"
+      },
+      {
+       "label": "別名",
+       "value": "四國三郎"
+      },
+      {
+       "label": "河口",
+       "value": "紀伊水道"
+      }
+     ],
+     "best_season_zh": "春季與秋季",
+     "tips_zh": "沿岸有騎車與散步的步道；河岸地形開闊，夏季日照強，請做好防曬。颱風與豪雨過後水位高，請勿靠近河邊。",
+     "tags": [
+      "河流",
+      "四國三郎",
+      "河谷",
+      "美馬"
+     ],
+     "sources": [
+      "https://en.wikipedia.org/wiki/Yoshino_River",
+      "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E4%B8%89%E5%A4%A7%E6%9A%B4%E3%82%8C%E5%B7%9D"
+     ],
+     "confidence": "medium",
+     "prompt_en": "A wide river valley with green rice fields and mountains in the distance, a long bridge crossing the river, soft morning mist"
+    }
+   }
+  }
+ ]
+}

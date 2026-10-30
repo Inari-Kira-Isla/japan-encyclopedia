@@ -1,0 +1,157 @@
+{
+ "id": "kumamoto",
+ "spots": [
+  {
+   "title_zh": "熊本城",
+   "title_ja": "熊本城",
+   "category": "城郭史蹟",
+   "area_zh": "熊本市中央區",
+   "summary_zh": "加藤清正築造的銀杏城，日本三名城之一。",
+   "body_zh": "熊本城別名銀杏城，位於熊本市中央區，是加藤清正在中世城郭基礎上改築的平山城，加藤氏改易後直到幕末都是熊本藩細川家的居城。城跡為國家特別史蹟，宇土櫓等13棟建築是重要文化財；天守於1960年以鋼筋混凝土外觀復原，2000年以後陸續以木造復原門、櫓與部分御殿。西南戰爭前夕天守與御殿燒毀，2016年熊本地震又令石垣大量崩塌，修復仍在進行，也是日本櫻花名所百選。",
+   "facts": [
+    {"label": "所在地", "value": "熊本縣熊本市中央區"},
+    {"label": "開創／成因", "value": "加藤清正築城，後為細川家居城"},
+    {"label": "看點", "value": "宇土櫓、石垣、復原天守與木造復原建築、春櫻"}
+   ],
+   "best_season_zh": "春季櫻花期",
+   "tips_zh": "2016年地震後仍在修復，部分區域有動線限制，行前查官方公告；可沿外圍石垣走一圈，看崩塌修復與保存的對比，比只看天守更有感。",
+   "tags": ["日本三名城", "特別史蹟", "石垣", "銀杏城"],
+   "sources": ["https://ja.wikipedia.org/wiki/熊本城"],
+   "confidence": "high",
+   "prompt_en": "Black-and-white castle keep on a high stone-walled hill with sweeping curved stone ramparts in the foreground, cherry blossom branches framing the top of the view, a secondary tower with white plaster walls to the side, clear spring morning, no text, no signs, no recognizable people"
+  },
+  {
+   "title_zh": "阿蘇山",
+   "title_ja": "阿蘇山",
+   "category": "山岳高原",
+   "area_zh": "阿蘇市・南阿蘇村",
+   "summary_zh": "擁有日本第二大破火山口的活火山。",
+   "body_zh": "阿蘇山位於熊本縣阿蘇地方，是帶有大型破火山口的活火山，破火山口南北25公里、東西18公里，為日本第二大。中央火口丘群的高岳、中岳、根子岳、烏帽子岳、杵島岳合稱阿蘇五岳，最高點為高岳1592公尺，從北側遠望，狀如涅槃像。中岳設有火口，火山平穩時可接近觀看，但活動升高或有毒氣體時會限制進入。阿蘇為日本百名山、阿蘇九重國立公園的一部分，亦被認定為世界地質公園。",
+   "facts": [
+    {"label": "所在地", "value": "熊本縣阿蘇地方，阿蘇九重國立公園內"},
+    {"label": "開創／成因", "value": "巨大火山噴發形成的破火山口與中央火口丘"},
+    {"label": "看點", "value": "阿蘇五岳、中岳火口、外輪山與世界地質公園景觀"}
+   ],
+   "best_season_zh": "初夏山頂杜鵑期與秋季",
+   "tips_zh": "火口能否靠近要看當天火山活動，出發前務必查最新管制；山頂風強、氣溫較低，加上有毒氣體風險，氣喘或心肺不適者要特別留意。",
+   "tags": ["破火山口", "活火山", "阿蘇五岳", "世界地質公園"],
+   "sources": ["https://ja.wikipedia.org/wiki/阿蘇山"],
+   "confidence": "high",
+   "prompt_en": "Vast volcanic caldera view with five rugged peaks in a row, a steaming crater plume rising from the central cone, golden grassland slopes in the foreground, layered ridges of the outer rim fading into soft haze, early morning light with a sea of clouds, no text, no signs, no recognizable people"
+  },
+  {
+   "title_zh": "草千里濱",
+   "title_ja": "草千里ヶ浜",
+   "category": "自然絕景",
+   "area_zh": "阿蘇市・南阿蘇村",
+   "summary_zh": "火口跡形成的開闊草原，阿蘇代表景點。",
+   "body_zh": "草千里濱位於熊本縣阿蘇市與南阿蘇村，是面積約78.5萬平方公尺的草原，標高1140公尺，是阿蘇的代表景點。這裡是約三萬年前浮石噴發形成的淺平二重火口遺跡，直徑約1公里，中央有小丘隔開東西窪地，雨水積成池塘，也是放牧牛馬的飲水處。2013年與米塚一起被指定為國家名勝天然紀念物。草原景觀靠長年野燒與放牧維持，三好達治曾以此為題寫詩集《艸千里》。",
+   "facts": [
+    {"label": "所在地", "value": "熊本縣阿蘇市與南阿蘇村，標高1140公尺"},
+    {"label": "開創／成因", "value": "約三萬年前浮石噴發形成的二重火口跡"},
+    {"label": "看點", "value": "火口池塘、放牧牛馬、草原與中岳遠景"}
+   ],
+   "best_season_zh": "夏季新綠與初秋",
+   "tips_zh": "可從阿蘇站搭阿蘇山觀光巴士到草千里阿蘇火山博物館前下車；草原上的池塘是牛馬飲水處，拍照時保持距離，勿餵食或驚擾牲畜。",
+   "tags": ["火口跡", "草原", "放牧", "名勝天然紀念物"],
+   "sources": ["https://ja.wikipedia.org/wiki/草千里ヶ浜"],
+   "confidence": "high",
+   "prompt_en": "Wide open grassy crater plain with a shallow pond reflecting the sky, a few grazing horses as small dots, a volcanic peak with a thin plume of smoke behind, low drifting clouds, fresh green grass, soft summer morning light, no text, no signs, no recognizable people"
+  },
+  {
+   "title_zh": "黑川溫泉",
+   "title_ja": "黒川温泉",
+   "category": "溫泉",
+   "area_zh": "阿蘇郡南小國町",
+   "summary_zh": "峽谷間的靜謐溫泉鄉，入湯手形聞名。",
+   "body_zh": "黑川溫泉位於熊本縣阿蘇郡南小國町，在阿蘇山北側，是南小國溫泉鄉的一部分，為全國屈指可數的人氣溫泉地，2009年版米其林綠色指南日本版給了溫泉地罕見的二星，名稱並已註冊地域團體商標。田之原川峽谷兩側約有24家小型和風旅館，在旅館組合主導下去除歡樂街元素與華麗招牌，維持統一的寧靜街景。溫泉為硫磺泉，源泉80至98度。1986年起推行『入湯手形』木牌，可巡遊露天風呂。",
+   "facts": [
+    {"label": "所在地", "value": "熊本縣阿蘇郡南小國町，田之原川峽谷"},
+    {"label": "開創／成因", "value": "傳說地藏湯為發祥，1986年起推行入湯手形"},
+    {"label": "看點", "value": "和風旅館街景、露天風呂巡遊、地藏湯與穴湯共同浴場"}
+   ],
+   "best_season_zh": "秋冬季",
+   "tips_zh": "入湯手形是一枚木牌，附三枚貼紙，可在不同旅館的露天風呂各用一次；近年部分餐飲店也可兌換，購買前先確認各家規則與時間。",
+   "tags": ["入湯手形", "露天風呂", "硫磺泉", "南小國"],
+   "sources": ["https://ja.wikipedia.org/wiki/黒川温泉"],
+   "confidence": "high",
+   "prompt_en": "Narrow riverside hot-spring village in a wooded valley, small wooden inns with tiled roofs and an old wooden footbridge over a stream, thin steam drifting from a bath hut, autumn leaves in warm orange tones, soft diffused afternoon light, no text, no signs, no recognizable people"
+  },
+  {
+   "title_zh": "通潤橋",
+   "title_ja": "通潤橋",
+   "category": "城郭史蹟",
+   "area_zh": "上益城郡山都町",
+   "summary_zh": "日本首座國寶土木構造物，石造單拱水路橋。",
+   "body_zh": "通潤橋位於熊本縣上益城郡山都町，是1854年（嘉永7年）建於五老之瀧川谷上的石造單拱水路橋，用來把水送到缺水的白糸台地。橋長78公尺、寬6.3公尺、高逾20公尺，橋上有三條石管。2023年成為日本首座被指定為國寶的橋梁等土木構造物。農閑期會限時放水約15分鐘，本意是排除石管內的泥沙，如今成為熱門景象，橋與白糸台地的梯田是國家重要文化景觀。",
+   "facts": [
+    {"label": "所在地", "value": "熊本縣上益城郡山都町"},
+    {"label": "開創／成因", "value": "1854年為輸水至白糸台地而建"},
+    {"label": "看點", "value": "石造單拱橋、橋身放水、白糸台地梯田景觀"}
+   ],
+   "best_season_zh": "農閑期的放水日",
+   "tips_zh": "放水只在農閑期的特定日子限時進行，且橋上觀覽須事前登記並有人數限制，行程前先查山都町的放水日與預約方式。",
+   "tags": ["國寶", "石造拱橋", "放水", "白糸台地"],
+   "sources": ["https://ja.wikipedia.org/wiki/通潤橋"],
+   "confidence": "high",
+   "prompt_en": "Tall single-arch stone aqueduct bridge spanning a green gorge, strong jets of water shooting out from the sides of the bridge into mist, terraced rice fields on the plateau at the left, lush forest, soft morning light with rainbow in the spray, no text, no signs, no recognizable people"
+  },
+  {
+   "title_zh": "水前寺成趣園",
+   "title_ja": "水前寺成趣園",
+   "category": "庭園公園",
+   "area_zh": "熊本市中央區",
+   "summary_zh": "細川氏營造的桃山式回遊式大名庭園。",
+   "body_zh": "水前寺成趣園位於熊本市中央區，是熊本藩主細川氏營造的桃山式回遊式大名庭園，面積約7.3萬平方公尺，國家名勝兼史蹟，通稱水前寺公園。1636年細川忠利建御茶屋，其後細川綱利於1670至1671年大規模造園，園名取自陶淵明《歸去來辭》『園日涉以成趣』。園中築山與平地相傳模仿富士山與東海道名勝。1877年西南戰爭燒毀酔月亭，1912年移建『古今傳授之間』。",
+   "facts": [
+    {"label": "所在地", "value": "熊本縣熊本市中央區水前寺公園"},
+    {"label": "開創／成因", "value": "細川忠利、綱利兩代營造，桃山式回遊式庭園"},
+    {"label": "看點", "value": "模擬富士山的築山、水池、古今傳授之間"}
+   ],
+   "best_season_zh": "新綠與秋季",
+   "tips_zh": "依園內回遊路線順時針走，可由不同角度看築山倒映水池；古今傳授之間有狩野永徳傳筆的杉戶畫等，建議留意室內的展示說明。",
+   "tags": ["大名庭園", "回遊式庭園", "細川氏", "古今傳授之間"],
+   "sources": ["https://ja.wikipedia.org/wiki/水前寺成趣園"],
+   "confidence": "high",
+   "prompt_en": "Japanese stroll garden with a wide still pond reflecting a smooth conical grass-covered hill resembling a small mountain, pine trees leaning over the water, a stone path and wooden pavilion on the far bank, clear soft morning light, no text, no signs, no recognizable people"
+  },
+  {
+   "title_zh": "崎津聚落",
+   "title_ja": "﨑津集落",
+   "category": "街區古鎮",
+   "area_zh": "天草市河浦町",
+   "summary_zh": "臨羊角灣的潛伏基督徒漁村，世界遺產。",
+   "body_zh": "崎津聚落位於熊本縣天草市河浦町，臨羊角灣，是知名的潛伏基督徒之里，名列『長崎與天草地方潛伏基督徒相關遺產』世界遺產，並被選為重要文化景觀。1613年禁教令後信徒轉入潛伏，江戶時代設有監視南蠻船的遠見番所，居民表面上裝作佛教徒，並以鮑魚等貝殼作為聖具。聚落靠海，過去只有海路可通，適合隱居；崎津也因定浦制度而發展起以吉備奈子（キビナゴ）為主的漁業。",
+   "facts": [
+    {"label": "所在地", "value": "熊本縣天草市河浦町，羊角灣畔"},
+    {"label": "開創／成因", "value": "禁教令後的潛伏基督徒漁村，2018年登錄世界遺產"},
+    {"label": "看點", "value": "漁村景觀、潛伏信仰遺產、羊角灣海景"}
+   ],
+   "best_season_zh": "春秋季與清晨",
+   "tips_zh": "這裡是居民仍在生活的漁村與信仰場所，拍照不要闖入私人宅地或聖堂，保持低聲交談；沿海岸散步最能看出聚落與海的關係。",
+   "tags": ["潛伏基督徒", "世界遺產", "漁村", "羊角灣"],
+   "sources": ["https://ja.wikipedia.org/wiki/﨑津集落"],
+   "confidence": "high",
+   "prompt_en": "Small fishing village on a calm bay, dense low houses and wooden boat sheds along the waterfront, a modest Gothic-style church tower rising among the roofs, moored small fishing boats in the foreground, hills behind, soft early morning light and gentle mist, no text, no signs, no recognizable people"
+  },
+  {
+   "title_zh": "青井阿蘇神社",
+   "title_ja": "青井阿蘇神社",
+   "category": "神社寺院",
+   "area_zh": "人吉市上青井町",
+   "summary_zh": "球磨地方總社，本殿等五棟為國寶。",
+   "body_zh": "青井阿蘇神社位於熊本縣人吉市上青井町，當地人暱稱『青井桑』，本殿等五棟建築為國寶。傳說806年自阿蘇神社分靈祭祀建磐龍命、阿蘇津媛命與國造速甕玉神三神而創。鎌倉時代初期相良長賴下向球磨後，相良氏世代崇敬，1597年相良長毎定為球磨郡內二百五十餘社的總社，並因祈求戰勝而大規模造營。神社位於球磨川氾濫區，歷來多次遭浸水。",
+   "facts": [
+    {"label": "所在地", "value": "熊本縣人吉市上青井町"},
+    {"label": "開創／成因", "value": "傳為806年自阿蘇神社分靈而創"},
+    {"label": "看點", "value": "國寶本殿等五棟建築、相良氏歷代崇敬的歷史"}
+   ],
+   "best_season_zh": "新綠與秋季",
+   "tips_zh": "參拜時先注意國寶建築的屋簷、木雕與彩繪等細部，再看境內與球磨川的位置關係；因位於氾濫區，大雨後前往要留意當地交通資訊。",
+   "tags": ["國寶", "相良氏", "人吉", "阿蘇三社"],
+   "sources": ["https://ja.wikipedia.org/wiki/青井阿蘇神社"],
+   "confidence": "high",
+   "prompt_en": "Old Shinto shrine with a thatched-style heavy roofed gate and richly colored carved wooden eaves, moss-covered stone steps leading up, tall cedar trees around, quiet town rooftops in the soft background, gentle overcast light, no text, no signs, no recognizable people"
+  }
+ ]
+}

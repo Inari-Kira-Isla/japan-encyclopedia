@@ -1,0 +1,839 @@
+{
+ "id": "wakayama",
+ "name_zh": "和歌山縣",
+ "name_ja": "和歌山県",
+ "region": "近畿",
+ "overview": {
+  "intro_zh": "和歌山縣位於紀伊半島西部，東接奈良、三重，西臨太平洋與紀伊水道，江戶時代是德川御三家之一的紀州藩所在。縣內山地多、海岸線長，擁有高野山、熊野古道等「紀伊山地的靈場與參拜道」世界遺產，也是日本梅子、柿子與柑橘的重要產地。白濱、那智勝浦有溫泉與生鮪魚，和歌山城、和歌浦則承載藩政與古歌的記憶。近年還因貓站長小玉走紅，鐵道吉祥物成為觀光話題。",
+  "capital_zh": "和歌山市",
+  "area_km2": 4725,
+  "population_approx": "約88萬（2025年）",
+  "flower_zh": "梅",
+  "bird_zh": "綠繡眼（メジロ）",
+  "tree_zh": "烏目櫟（ウバメガシ）",
+  "climate_zh": "沿海溫暖多雨，夏季潮濕，內陸山區涼爽，颱風季雨量大。",
+  "access_zh": "關西機場、南紀白濱機場；JR紀勢本線特急，南海電鐵高野線往高野山。",
+  "specialties_zh": [
+   "梅干",
+   "蜜柑",
+   "柿子",
+   "生鮪魚",
+   "高野豆腐",
+   "紀州漆器"
+  ],
+  "best_season_zh": "春（梅花、新綠）與秋（古道步行）"
+ },
+ "items": {
+  "architecture": {
+   "title_zh": "和歌山城",
+   "title_ja": "和歌山城",
+   "summary_zh": "紀州德川家居城",
+   "body_zh": "和歌山城建於1585至1586年，由豐臣秀長在虎伏山上築城，江戶時代為紀州藩（德川御三家之一）的居城，地位極為重要。原天守與建築在1945年空襲中被毀，現天守於1958年以混凝土重建，作為資料館使用。城內仍有岡口門等原構，1957年被指定為重要文化財；西之丸庭園1987年列為國家名勝，1931年全城指定為國家史蹟。春季賞櫻時節，天守與櫻花相映成趣。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "和歌山市"
+    },
+    {
+     "label": "築城",
+     "value": "1585至1586年"
+    },
+    {
+     "label": "重建",
+     "value": "1958年"
+    },
+    {
+     "label": "現存",
+     "value": "岡口門（重要文化財）"
+    }
+   ],
+   "best_season_zh": "春（櫻花）",
+   "tips_zh": "登天守可俯瞰市區；城下有動物園與庭園，可一併遊覽。",
+   "tags": [
+    "古城",
+    "紀州藩",
+    "德川",
+    "重建"
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Wakayama_Castle"
+   ],
+   "confidence": "high",
+   "prompt_en": "Wakayama Castle keep on a hill with cherry blossoms, spring sky"
+  },
+  "food": {
+   "title_zh": "梅干與蜜柑",
+   "title_ja": "梅干しとみかん",
+   "summary_zh": "和歌山的代表農產",
+   "body_zh": "和歌山的梅子與柑橘是縣內代表農產，紀州梅干尤其著名。南部町、田邊一帶是梅子主產地，據稱和歌山縣梅子產量居全國第一，南高梅是代表品種。梅干以鹽漬而成，常配飯糰或日式便當，是日本人餐桌上的常備品。縣內也盛產蜜柑，有「有田蜜柑」等品牌；柿子產量亦位居全國前列。伴手禮的蜂蜜梅干鹽分較低、味道較甜，初次嘗試者較容易入口，也有減鹽款式可選擇。",
+   "facts": [
+    {
+     "label": "產品",
+     "value": "梅干、蜜柑"
+    },
+    {
+     "label": "梅子",
+     "value": "全國第一（產量）"
+    },
+    {
+     "label": "品種",
+     "value": "南高梅"
+    },
+    {
+     "label": "備註",
+     "value": "柑橘類排名依年份"
+    }
+   ],
+   "best_season_zh": "梅：6月；蜜柑：11至1月",
+   "tips_zh": "梅干鹽分高，初次品嚐宜少量；伴手禮多為蜂蜜梅干，較不酸。",
+   "tags": [
+    "梅干",
+    "蜜柑",
+    "農產",
+    "紀州"
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Umeboshi"
+   ],
+   "confidence": "medium",
+   "prompt_en": "Umeboshi pickled plums beside mandarin oranges on a wooden table, soft light"
+  },
+  "culture": {
+   "title_zh": "熊野古道",
+   "title_ja": "熊野古道",
+   "summary_zh": "通往熊野三山的朝聖道",
+   "body_zh": "熊野古道是通往熊野三山（本宮、速玉、那智）的參拜道，已有千年以上歷史。908年宇多上皇首次參詣，平安後期皇室頻繁前往，白河上皇曾九度參詣。中世起平民成群結隊，被稱為「螞蟻的熊野詣」。2004年列入世界遺產，是日本第一條被列入的道路。1998年與西班牙聖地牙哥之路結為姊妹道，兩條都完成者可領取雙朝聖證書。中邊路最受歡迎，沿途石階、杉林與茶屋保留古風。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "和歌山縣南部、奈良、三重"
+    },
+    {
+     "label": "世界遺產",
+     "value": "2004年"
+    },
+    {
+     "label": "路線",
+     "value": "中邊路、小邊路、大邊路、伊勢路等"
+    },
+    {
+     "label": "特色",
+     "value": "石階古道與杉林"
+    }
+   ],
+   "best_season_zh": "春、秋",
+   "tips_zh": "中邊路難度中等，山路需穿登山鞋；住宿宜提早預約。",
+   "tags": [
+    "世界遺產",
+    "朝聖",
+    "古道",
+    "熊野"
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Kumano_Kodo"
+   ],
+   "confidence": "high",
+   "prompt_en": "Kumano Kodo stone path through moss-covered cedar forest, misty morning, no people"
+  },
+  "history": {
+   "title_zh": "熊野本宮大社",
+   "title_ja": "熊野本宮大社",
+   "summary_zh": "熊野三山之首",
+   "body_zh": "熊野本宮大社位於田邊市，是熊野三山之一，所有熊野古道在此匯集。原社殿位於大齋原的河灘，1889年洪水毀損，殘存建築1891年遷至現址。2000年，在原址入口建起高33.9米、寬42米的大鳥居，是世界最大級的鳥居。建築採用檜皮葺屋頂與傳統木構，祭祀熊野權現。2004年列入世界遺產，是熊野信仰與古道文化的核心，也是許多朝聖者的終點。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "田邊市本宮町"
+    },
+    {
+     "label": "遷座",
+     "value": "1891年"
+    },
+    {
+     "label": "大鳥居",
+     "value": "高33.9米（2000年）"
+    },
+    {
+     "label": "世界遺產",
+     "value": "2004年"
+    }
+   ],
+   "best_season_zh": "春、秋",
+   "tips_zh": "大齋原的大鳥居與本宮相隔約十分鐘，可一併參拜；本宮石階有158級（常見說法）。",
+   "tags": [
+    "神社",
+    "熊野",
+    "世界遺產",
+    "鳥居"
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Kumano_Hongu_Taisha"
+   ],
+   "confidence": "high",
+   "prompt_en": "Kumano Hongu Taisha shrine approach with stone stairs and banners, morning light"
+  },
+  "mascot": {
+   "title_zh": "貓站長小玉（吉祥物）",
+   "title_ja": "たま駅長",
+   "summary_zh": "貴志站的三花貓站長",
+   "body_zh": "小玉是和歌山電鐵貴志川線貴志站的三花貓站長，1999年4月29日出生。2006年鐵路為節省成本減少站務員，公司社長以招財貓之意讓小玉留任，2007年1月5日正式任命為站長，帶動乘客增加與經濟效益。2008年升任「超級站長」，2010年升為「執行董事」，是首隻成為鐵路公司幹部的貓。2015年6月22日去世，其後由數代三花貓繼任。本頁出圖採用原創的貓角色與梅花、車站帽意象。",
+   "facts": [
+    {
+     "label": "名稱",
+     "value": "小玉（たま）"
+    },
+    {
+     "label": "車站",
+     "value": "貴志站（貴志川線）"
+    },
+    {
+     "label": "任命",
+     "value": "2007年1月5日"
+    },
+    {
+     "label": "去世",
+     "value": "2015年6月22日"
+    }
+   ],
+   "best_season_zh": "全年",
+   "tips_zh": "可搭貴志川線到貴志站；貓站長出勤時間不固定，出發前查官方資訊。",
+   "tags": [
+    "貓站長",
+    "鐵道",
+    "吉祥物",
+    "和歌山電鐵"
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Tama_(cat)"
+   ],
+   "confidence": "high",
+   "prompt_en": "A cute cat character wearing a train station cap with plum blossoms in a pastel illustration. Original cute character inspired by local symbols, not replicating any existing trademarked mascot."
+  },
+  "scenery": {
+   "title_zh": "那智瀑布",
+   "title_ja": "那智の滝",
+   "summary_zh": "日本落差最大的一段瀑布",
+   "body_zh": "那智瀑布位於那智勝浦町，落差約133米、寬約13米，是日本落差最大的單段瀑布。瀑布被視為熊野那智大社的神體，神號為飛瀧權現，2004年列入世界遺產。瀑布旁有青岸渡寺與紅色三重塔，與瀑布同框成為經典構圖。每日有神職人員在瀑前祭祀，延續數百年的信仰。雨後水量增加，氣勢更為驚人；可由大門坂古道一路步行前往那智大社與瀑布，沿途石階與杉林氣氛莊嚴。",
+   "facts": [
+    {
+     "label": "落差",
+     "value": "約133米"
+    },
+    {
+     "label": "寬度",
+     "value": "約13米"
+    },
+    {
+     "label": "神體",
+     "value": "飛瀧權現（熊野那智大社）"
+    },
+    {
+     "label": "世界遺產",
+     "value": "2004年"
+    }
+   ],
+   "best_season_zh": "春、秋",
+   "tips_zh": "瀑布雨後水量大；熊野古道大門坂可步行至那智大社。",
+   "tags": [
+    "瀑布",
+    "世界遺產",
+    "熊野",
+    "神域"
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Nachi_Falls"
+   ],
+   "confidence": "high",
+   "prompt_en": "Nachi Falls with vermilion pagoda in front, misty forest, wide angle"
+  },
+  "spot": {
+   "title_zh": "南紀白濱溫泉",
+   "title_ja": "白浜温泉",
+   "summary_zh": "與道後、有馬並稱的古湯",
+   "body_zh": "南紀白濱溫泉位於白濱町，與愛媛的道後溫泉、兵庫的有馬溫泉並列為日本最古老的溫泉之一。白良濱是新月形白沙灘，因沙子流失，自1989年起從澳洲珀斯進口沙子補充。周邊還有圓月島、三段壁、Adventure World動物園等。早期是新婚旅行的勝地，後來成為家庭度假地，也盛產溫室花卉與漁產。夏季海水浴場擁擠，淡季泡溫泉則更清靜，關西機場與南紀白濱機場皆可到達。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "白濱町"
+    },
+    {
+     "label": "溫泉",
+     "value": "日本古湯之一"
+    },
+    {
+     "label": "海灘",
+     "value": "白良濱"
+    },
+    {
+     "label": "特色",
+     "value": "圓月島、三段壁"
+    }
+   ],
+   "best_season_zh": "夏（海水浴）、秋冬（溫泉）",
+   "tips_zh": "夏季海水浴場擁擠，淡季泡溫泉更清靜。",
+   "tags": [
+    "溫泉",
+    "海灘",
+    "度假",
+    "白濱"
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Shirahama,_Wakayama"
+   ],
+   "confidence": "high",
+   "prompt_en": "Shirahama beach and onsen coast with white sand and clear blue water, sunny day, wide shot"
+  },
+  "experience": {
+   "title_zh": "高野山宿坊體驗",
+   "title_ja": "高野山の宿坊",
+   "summary_zh": "在寺院過夜與素食",
+   "body_zh": "高野山是空海（弘法大師）開創的真言宗聖地，位於海拔約800米的山上平地，開創年代一般說在9世紀初。現約有117座寺院，其中約52間提供宿坊住宿。體驗包括早課、護摩祈禱與精進料理，並可漫步奧之院參道，那裡有二十萬座以上墓碑。2004年成為紀伊山地靈場與參拜道世界遺產的一部分。搭南海電鐵到極樂橋站，再乘纜車上山，很適合安排一晚住宿，感受寺院日常。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "高野町"
+    },
+    {
+     "label": "寺院",
+     "value": "約117座，宿坊約52間"
+    },
+    {
+     "label": "體驗",
+     "value": "早課、精進料理、奧之院"
+    },
+    {
+     "label": "世界遺產",
+     "value": "2004年"
+    }
+   ],
+   "best_season_zh": "春、秋",
+   "tips_zh": "早課清晨很早開始；寺院住宿多提供素食，過敏者先告知。",
+   "tags": [
+    "宿坊",
+    "精進料理",
+    "真言宗",
+    "世界遺產"
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Mount_K%C5%8Dya"
+   ],
+   "confidence": "medium",
+   "prompt_en": "Koyasan temple lodging room with tatami and shoji screens, morning light through paper doors, shojin ryori tray"
+  },
+  "costume": {
+   "title_zh": "熊野詣的白衣",
+   "title_ja": "熊野詣の装い",
+   "summary_zh": "朝聖者的白色行裝",
+   "body_zh": "古代朝聖者穿白衣、戴斗笠，前往熊野修行與參拜，白色象徵清淨。今日走熊野古道，有人仍穿白衣，也有許多人穿一般登山服。部分觀光設施提供「平安裝束」等體驗，可穿上古裝漫步古道，但內容與是否可行，以各設施的說明為準，本頁僅作概述，可信度較低。古道石階多、路面濕滑，實際行走仍以舒適、防滑的服裝與鞋子為優先，並遵守當地規範，保持古道整潔。",
+   "facts": [
+    {
+     "label": "色彩",
+     "value": "白色為主"
+    },
+    {
+     "label": "配件",
+     "value": "斗笠、拐杖"
+    },
+    {
+     "label": "意義",
+     "value": "清淨與朝聖"
+    },
+    {
+     "label": "備註",
+     "value": "體驗內容依設施"
+    }
+   ],
+   "best_season_zh": "春、秋",
+   "tips_zh": "山路穿著請以舒適為主；勿在古道丟棄垃圾。",
+   "tags": [
+    "朝聖",
+    "白衣",
+    "熊野",
+    "古道"
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Kumano_Kodo"
+   ],
+   "confidence": "low",
+   "prompt_en": "Anonymous model in white pilgrim outfit and straw hat walking on Kumano Kodo trail, soft light"
+  }
+ },
+ "areas": [
+  {
+   "id": "wakayama_koyasan",
+   "name_zh": "高野山",
+   "name_ja": "高野山",
+   "intro_zh": "高野山是真言宗總本山，位於海拔約800米的山上盆地，約有117座寺院。壇上伽藍、金剛峯寺與奧之院是主要景點，宿坊與精進料理是特色體驗，2004年列為世界遺產。可安排一晚宿坊。",
+   "items": {
+    "spot": {
+     "title_zh": "奧之院",
+     "title_ja": "高野山奥之院",
+     "summary_zh": "杉林參道與二十萬座墓碑",
+     "body_zh": "奧之院是高野山最深處的聖地，供奉空海入定的御廟。從一之橋到御廟，參道約2公里，兩側杉林巨木參天，有二十萬座以上的墓碑與供養塔，包括戰國大名與企業的供養塔。清晨與黃昏氛圍莊嚴，晨霧中的石燈籠與苔石尤其動人。參道禁止飲食與喧嘩，進入前宜鞠躬致意；也有導覽可預約，了解各墓塔的故事。夜間導覽需事先確認是否開放，並帶好照明與保暖衣物。",
+     "facts": [
+      {
+       "label": "參道",
+       "value": "約2公里"
+      },
+      {
+       "label": "墓碑",
+       "value": "二十萬座以上"
+      },
+      {
+       "label": "供奉",
+       "value": "弘法大師御廟"
+      },
+      {
+       "label": "世界遺產",
+       "value": "2004年"
+      }
+     ],
+     "best_season_zh": "春、秋",
+     "tips_zh": "參道禁止飲食與喧嘩，鞠躬入內；可請導覽解說。",
+     "tags": [
+      "參道",
+      "墓地",
+      "杉林",
+      "真言宗"
+     ],
+     "sources": [
+      "https://en.wikipedia.org/wiki/Mount_K%C5%8Dya"
+     ],
+     "confidence": "high",
+     "prompt_en": "Okunoin cemetery path lined with giant cedars and moss-covered stone lanterns, mist, no people"
+    },
+    "food": {
+     "title_zh": "胡麻豆腐",
+     "title_ja": "胡麻豆腐",
+     "summary_zh": "高野山精進料理的代表",
+     "body_zh": "高野山的精進料理以植物性食材為主，不使用肉與魚，胡麻豆腐是不可或缺的一道，以葛粉與芝麻糊製成，口感濃稠綿密。高野豆腐也是此地名物，是冷凍乾燥的豆腐，吸湯汁後滋味豐富。寺院宿坊提供的晚餐多以胡麻豆腐、湯葉與時令蔬菜構成，擺盤精緻，在寺院內用餐更添風味。部分食堂也提供精進料理午餐，不住宿也能品嚐，但熱門時段須先預約。",
+     "facts": [
+      {
+       "label": "特色",
+       "value": "葛粉與芝麻"
+      },
+      {
+       "label": "吃法",
+       "value": "沾芥末與醬油"
+      },
+      {
+       "label": "場所",
+       "value": "宿坊、食堂"
+      },
+      {
+       "label": "備註",
+       "value": "店家做法各異"
+      }
+     ],
+     "best_season_zh": "全年",
+     "tips_zh": "可在宿坊用餐或山上食堂品嚐。",
+     "tags": [
+      "精進料理",
+      "胡麻豆腐",
+      "素食",
+      "寺院"
+     ],
+     "sources": [
+      "https://www.ana.co.jp/zh/tw/japan-travel-planner/wakayama/0000023.html"
+     ],
+     "confidence": "medium",
+     "prompt_en": "Shojin ryori with sesame tofu in lacquerware on a temple tray"
+    },
+    "scenery": {
+     "title_zh": "高野山杉林",
+     "title_ja": "高野山の杉林",
+     "summary_zh": "靜謐的森林",
+     "body_zh": "高野山的杉林高聳，晨霧與光束穿過樹林，營造莊嚴靜謐的氣氛。奧之院周邊與參道的杉木尤其巨大，樹齡很高，苔石燈籠與墓碑散落其間，讓人覺得時間彷彿靜止。秋天楓葉與杉林對比鮮明，冬季積雪時更是一片靜寂。高野山海拔約800米，氣溫比山下低許多，即使夏天也需帶外套；霧天更有氣氛，但路面濕滑，行走時需小心。清晨的光線最適合拍照。",
+     "facts": [
+      {
+       "label": "特色",
+       "value": "巨杉與苔蘚"
+      },
+      {
+       "label": "氛圍",
+       "value": "靜謐"
+      },
+      {
+       "label": "地點",
+       "value": "奧之院參道"
+      },
+      {
+       "label": "備註",
+       "value": "季節變化豐富"
+      }
+     ],
+     "best_season_zh": "秋",
+     "tips_zh": "霧天更有氣氛，路面濕滑請小心。",
+     "tags": [
+      "杉林",
+      "森林",
+      "晨霧",
+      "靜謐"
+     ],
+     "sources": [
+      "https://en.wikipedia.org/wiki/Mount_K%C5%8Dya"
+     ],
+     "confidence": "medium",
+     "prompt_en": "Koyasan cedar forest with shafts of light, quiet atmosphere, mist"
+    }
+   }
+  },
+  {
+   "id": "wakayama_kumano",
+   "name_zh": "熊野",
+   "name_ja": "熊野",
+   "intro_zh": "熊野包括熊野本宮、速玉、那智三處大社，是熊野古道的目的地。紀伊半島南部森林茂密，那智勝浦以生鮪魚聞名，山海之間孕育出獨特的信仰與飲食文化。行程宜預留充足交通時間。",
+   "items": {
+    "spot": {
+     "title_zh": "熊野本宮大社",
+     "title_ja": "熊野本宮大社",
+     "summary_zh": "古道終點的神社",
+     "body_zh": "熊野本宮大社是熊野古道的匯集處，所有古道在此交會，是熊野三山之一。原社殿在大齋原河灘，1889年洪水毀損，殘存建築於1891年遷至現址。2000年，在大齋原入口建起高33.9米的大鳥居，是世界最大級的鳥居。2004年列入世界遺產，建築採檜皮葺屋頂與傳統木構，祭祀熊野權現。參拜完可步行約十分鐘到大齋原看大鳥居，並感受朝聖終點的氛圍。",
+     "facts": [
+      {
+       "label": "遷座",
+       "value": "1891年"
+      },
+      {
+       "label": "大鳥居",
+       "value": "33.9米"
+      },
+      {
+       "label": "世界遺產",
+       "value": "2004年"
+      },
+      {
+       "label": "祭神",
+       "value": "熊野權現"
+      }
+     ],
+     "best_season_zh": "春、秋",
+     "tips_zh": "參拜完可走至大齋原看大鳥居。",
+     "tags": [
+      "神社",
+      "古道",
+      "世界遺產",
+      "熊野"
+     ],
+     "sources": [
+      "https://en.wikipedia.org/wiki/Kumano_Hongu_Taisha"
+     ],
+     "confidence": "high",
+     "prompt_en": "Kumano Hongu Taisha shrine approach with stone steps and large torii, forest light"
+    },
+    "food": {
+     "title_zh": "勝浦生鮪魚",
+     "title_ja": "勝浦の生まぐろ",
+     "summary_zh": "日本生鮪魚漁獲重鎮",
+     "body_zh": "那智勝浦港是日本生鮪魚（未經冷凍的鮪魚）漁獲量名列前茅的港口，以鮪魚丼與刺身聞名，肉質彈潤，與冷凍鮪魚口感不同。熊野一帶也有品牌牛熊野牛，山海料理是熊野飲食的特色。市場與食堂提供當日漁獲，午餐時段較為熱門。漁獲排名與品牌牛的資料以官方公布為準，本頁可信度較低，出發前建議查詢最新資訊，並預約想去的餐廳以避免客滿。",
+     "facts": [
+      {
+       "label": "港口",
+       "value": "那智勝浦港"
+      },
+      {
+       "label": "特色",
+       "value": "生鮪魚"
+      },
+      {
+       "label": "料理",
+       "value": "鮪魚丼、刺身"
+      },
+      {
+       "label": "備註",
+       "value": "漁獲排名以官方資料為準"
+      }
+     ],
+     "best_season_zh": "全年",
+     "tips_zh": "市場與食堂提供當日漁獲，午餐時段較熱門。",
+     "tags": [
+      "鮪魚",
+      "海鮮",
+      "熊野",
+      "漁港"
+     ],
+     "sources": [
+      "https://en.wikipedia.org/wiki/Nachikatsuura"
+     ],
+     "confidence": "low",
+     "prompt_en": "Fresh tuna sashimi bowl and Kumano beef on plates, rustic table"
+    },
+    "scenery": {
+     "title_zh": "那智瀑布與三重塔",
+     "title_ja": "那智の滝",
+     "summary_zh": "瀑布與紅色塔",
+     "body_zh": "那智瀑布落差約133米，與青岸渡寺三重塔同框，是熊野最具代表性的風景。瀑布被視為飛瀧權現，是熊野那智大社的神體，2004年列入世界遺產。紅色的三重塔與白色水柱、深綠森林形成強烈對比，是攝影愛好者必訪的構圖。可由大門坂古道步行至那智大社與青岸渡寺，沿途石階與杉林氣氛莊嚴；雨後瀑布水量增加，氣勢更為驚人，但石階濕滑，須注意腳步與安全。",
+     "facts": [
+      {
+       "label": "落差",
+       "value": "約133米"
+      },
+      {
+       "label": "世界遺產",
+       "value": "2004年"
+      },
+      {
+       "label": "地點",
+       "value": "那智勝浦町"
+      },
+      {
+       "label": "神體",
+       "value": "飛瀧權現"
+      }
+     ],
+     "best_season_zh": "春、秋",
+     "tips_zh": "可由大門坂古道步行前往。",
+     "tags": [
+      "瀑布",
+      "三重塔",
+      "神域",
+      "世界遺產"
+     ],
+     "sources": [
+      "https://en.wikipedia.org/wiki/Nachi_Falls"
+     ],
+     "confidence": "high",
+     "prompt_en": "Nachi Falls tall waterfall beside red pagoda, green forest"
+    }
+   }
+  },
+  {
+   "id": "wakayama_shirahama",
+   "name_zh": "白濱",
+   "name_ja": "白浜",
+   "intro_zh": "白濱位於紀伊半島西南，擁有日本古老的溫泉與壯麗海岸。白良濱的白沙、三段壁的斷崖與圓月島是代表，冬季溫暖，夏季海水浴盛行，是關西人熱門的度假地。可與熊野行程結合。",
+   "items": {
+    "spot": {
+     "title_zh": "三段壁",
+     "title_ja": "三段壁",
+     "summary_zh": "海蝕斷崖與洞窟",
+     "body_zh": "三段壁是白濱西端綿延約2公里的海蝕崖，高約50米，是波浪侵蝕砂岩所形成。崖下有三段壁洞窟，傳為熊野水軍藏船處，可乘電梯下到約36米深處，近距離感受海浪聲響。附近的千疊敷是寬廣平坦的岩盤，因彷彿可鋪千張榻榻米而得名。風浪大時須留意安全，避免靠近崖邊。此處與圓月島、白良濱同為白濱的海岸代表景點，黃昏的夕陽景色尤其壯觀，適合安排在一天行程最後。",
+     "facts": [
+      {
+       "label": "崖高",
+       "value": "約50米"
+      },
+      {
+       "label": "洞窟",
+       "value": "電梯下降約36米"
+      },
+      {
+       "label": "歷史",
+       "value": "傳為熊野水軍藏船處"
+      },
+      {
+       "label": "鄰近",
+       "value": "千疊敷"
+      }
+     ],
+     "best_season_zh": "四季",
+     "tips_zh": "風浪大時要留意安全，避免靠近崖邊。",
+     "tags": [
+      "海蝕崖",
+      "洞窟",
+      "海岸",
+      "熊野水軍"
+     ],
+     "sources": [
+      "https://tabi-mag.jp/wa0090/"
+     ],
+     "confidence": "medium",
+     "prompt_en": "Sandanbeki sea cliffs with waves crashing, dramatic coast"
+    },
+    "food": {
+     "title_zh": "紀州梅干",
+     "title_ja": "紀州の梅干し",
+     "summary_zh": "酸鹹的伴手禮",
+     "body_zh": "和歌山縣是日本梅干主產地，南高梅是代表品種。梅干以鹽漬，也有蜂蜜與減鹽款式，伴手禮多選蜂蜜梅，較不酸。白濱臨海，也有鮪魚與各種海產料理，適合與梅干搭配，為行程添加在地風味。梅子成熟在6月，可在這個時期看到曬梅的景象。梅干鹽分高，初次品嚐宜少量；縣內商店與休息站都有販售各式梅干與加工品，可比較不同鹽度與味道後再購買。",
+     "facts": [
+      {
+       "label": "產品",
+       "value": "梅干"
+      },
+      {
+       "label": "特色",
+       "value": "酸鹹"
+      },
+      {
+       "label": "伴手禮",
+       "value": "蜂蜜梅"
+      },
+      {
+       "label": "鮮魚",
+       "value": "鮪魚等海產"
+      }
+     ],
+     "best_season_zh": "6月（梅子季）",
+     "tips_zh": "蜂蜜梅較甜，適合初嚐。",
+     "tags": [
+      "梅干",
+      "伴手禮",
+      "鮪魚",
+      "和歌山"
+     ],
+     "sources": [
+      "https://en.wikipedia.org/wiki/Umeboshi"
+     ],
+     "confidence": "medium",
+     "prompt_en": "Umeboshi plums and tuna sashimi in small dishes, close-up"
+    },
+    "scenery": {
+     "title_zh": "白良濱",
+     "title_ja": "白良浜",
+     "summary_zh": "新月形白沙灘",
+     "body_zh": "白良濱是新月形白沙灘，長度約數百米，因沙子流失，自1989年起從澳洲珀斯進口沙子補充。夏季海水清澈，是關西人熱門的海水浴場，冬季則可欣賞海岸日落。海灘旁就是溫泉街，泡完溫泉可到沙灘散步。夏季人多，傍晚散步較為舒適；若想看較不擁擠的景色，可選擇春秋季或早晨前來。白沙在陽光下閃耀，與藍色海水形成對比，是白濱最具代表性的風景之一。",
+     "facts": [
+      {
+       "label": "形狀",
+       "value": "新月形"
+      },
+      {
+       "label": "補沙",
+       "value": "自1989年進口澳洲沙子"
+      },
+      {
+       "label": "季節",
+       "value": "夏季海水浴"
+      },
+      {
+       "label": "鄰近",
+       "value": "溫泉街"
+      }
+     ],
+     "best_season_zh": "夏",
+     "tips_zh": "夏季人多，傍晚散步較舒適。",
+     "tags": [
+      "海灘",
+      "白沙",
+      "夏季",
+      "白濱"
+     ],
+     "sources": [
+      "https://en.wikipedia.org/wiki/Shirahama,_Wakayama"
+     ],
+     "confidence": "high",
+     "prompt_en": "Shirarahama white sand beach with turquoise water, summer day"
+    }
+   }
+  },
+  {
+   "id": "wakayama_wakayama_city",
+   "name_zh": "和歌山市",
+   "name_ja": "和歌山市",
+   "intro_zh": "和歌山市是縣廳所在地，沿紀之川河口發展，江戶時代是紀州藩城下町。和歌山城居高臨下，和歌浦是《萬葉集》詠唱的海灣，另有和歌山拉麵與早壽司等庶民美食。從大阪搭JR約一小時可達。",
+   "items": {
+    "spot": {
+     "title_zh": "和歌山城",
+     "title_ja": "和歌山城",
+     "summary_zh": "虎伏山上的城堡",
+     "body_zh": "和歌山城位於市中心的虎伏山，1585至1586年由豐臣秀長築城，江戶時代為紀州德川家居城，是德川御三家之一的根據地。原天守在1945年空襲中被毀，現天守於1958年重建，內部為展示館。城內有岡口門等原構，被指定為重要文化財，西之丸庭園為國家名勝。春季櫻花與天守相映，夜間也有點燈。登上天守可俯瞰和歌山市區與紀之川，適合半日遊覽。",
+     "facts": [
+      {
+       "label": "築城",
+       "value": "1585至1586年"
+      },
+      {
+       "label": "天守",
+       "value": "1958年重建"
+      },
+      {
+       "label": "文化財",
+       "value": "岡口門"
+      },
+      {
+       "label": "史蹟",
+       "value": "1931年"
+      }
+     ],
+     "best_season_zh": "春（櫻花）",
+     "tips_zh": "登天守看市景，櫻季夜櫻也美。",
+     "tags": [
+      "古城",
+      "紀州",
+      "天守",
+      "櫻花"
+     ],
+     "sources": [
+      "https://en.wikipedia.org/wiki/Wakayama_Castle"
+     ],
+     "confidence": "high",
+     "prompt_en": "Wakayama Castle on a hill with stone walls and cherry blossoms"
+    },
+    "food": {
+     "title_zh": "和歌山拉麵",
+     "title_ja": "和歌山ラーメン",
+     "summary_zh": "豚骨醬油中華蕎麥麵",
+     "body_zh": "和歌山拉麵湯頭分豚骨醬油系與醬油系，豚骨醬油系濃郁，麵多為直細麵，配料有叉燒、筍乾與魚板。許多店家的桌上放著早壽司（鯖魚押壽司）與水煮蛋，供客人自由取用，結帳時再申報數量。井出商店創於1953年，是帶動和歌山拉麵熱潮的名店，白濁的豚骨醬油湯被稱為井出系。市內有許多拉麵店，各有特色，可以多家比較，建議午餐時段前往，避免排隊過久。",
+     "facts": [
+      {
+       "label": "湯頭",
+       "value": "豚骨醬油或醬油"
+      },
+      {
+       "label": "配菜",
+       "value": "叉燒、筍乾、魚板"
+      },
+      {
+       "label": "特色",
+       "value": "桌上早壽司與蛋"
+      },
+      {
+       "label": "名店",
+       "value": "井出商店（1953年創業）"
+      }
+     ],
+     "best_season_zh": "全年",
+     "tips_zh": "早壽司與蛋通常按個數計價，結帳時申報。",
+     "tags": [
+      "拉麵",
+      "豚骨醬油",
+      "早壽司",
+      "和歌山市"
+     ],
+     "sources": [
+      "https://www.nap-camp.com/mag/60844"
+     ],
+     "confidence": "medium",
+     "prompt_en": "Wakayama ramen bowl with pork bone soy broth and narutomaki, close-up"
+    },
+    "scenery": {
+     "title_zh": "和歌浦",
+     "title_ja": "和歌浦",
+     "summary_zh": "古歌詠頌的海灣",
+     "body_zh": "和歌浦是和歌山市南部的海灣，《萬葉集》的歌人山部赤人曾詠其風景。玉津島神社相傳724年聖武天皇行幸後創建，與住吉大社、北野天滿宮並稱和歌三神。奈良時代的和歌浦有許多小島浮於海中，潮退時形成長長的沙洲與泥灘。片男波一帶為人造沙灘，設有公園。海面平靜，黃昏時分夕陽映照島嶼，景色宜人，適合散步與攝影。細節以當地觀光資料為準，本頁可信度中等。",
+     "facts": [
+      {
+       "label": "歌人",
+       "value": "山部赤人"
+      },
+      {
+       "label": "神社",
+       "value": "玉津島神社（相傳724年）"
+      },
+      {
+       "label": "景點",
+       "value": "片男波公園"
+      },
+      {
+       "label": "特色",
+       "value": "海灣與島嶼"
+      }
+     ],
+     "best_season_zh": "春、秋",
+     "tips_zh": "適合黃昏散步，海面平靜。",
+     "tags": [
+      "海灣",
+      "萬葉集",
+      "和歌",
+      "神社"
+     ],
+     "sources": [
+      "https://tabi-mag.jp/wa0166/"
+     ],
+     "confidence": "medium",
+     "prompt_en": "Wakanoura bay with calm water and distant islands at sunset"
+    }
+   }
+  }
+ ]
+}

@@ -1,0 +1,285 @@
+{
+  "id": "kanagawa",
+  "spots": [
+    {
+      "title_zh": "鎌倉大佛（高德院）",
+      "title_ja": "鎌倉大仏（高徳院）",
+      "category": "神社寺院",
+      "area_zh": "鎌倉市長谷",
+      "summary_zh": "高約11.39公尺的露天阿彌陀佛銅像，列為國寶。",
+      "body_zh": "高德院位於鎌倉市長谷，院內的銅造阿彌陀如來坐像即鎌倉大佛，像高約11.39公尺、連台座約13.35公尺，重約121噸，已指定為國寶。鑄造於1252年開始，推測1260年代前半完成。大佛原本安置在大佛殿內，歷經1335年大風等多次倒塌，至1486年已確定為露天安置，此後未見殿宇重建。大佛端坐於山谷間，是鎌倉最具代表性的景點。",
+      "facts": [
+        {
+          "label": "所在地",
+          "value": "神奈川縣鎌倉市長谷四丁目"
+        },
+        {
+          "label": "開創／成因",
+          "value": "1252年起鑄造，殿宇倒塌後成露座"
+        },
+        {
+          "label": "交通",
+          "value": "江之島電鐵長谷站步行約9分鐘"
+        }
+      ],
+      "best_season_zh": "春季新綠與秋季紅葉",
+      "tips_zh": "拜觀費用請查官方網站。參拜人多，建議平日上午前往；大佛內部是否開放也需現場確認。",
+      "tags": [
+        "國寶",
+        "阿彌陀佛",
+        "鎌倉",
+        "銅像"
+      ],
+      "sources": [
+        "https://ja.wikipedia.org/wiki/高徳院"
+      ],
+      "confidence": "high",
+      "prompt_en": "Front view of a giant bronze seated Buddha statue in the open air, serene half-closed eyes, surrounded by green trees and a stone-paved courtyard in the foreground, soft overcast morning light, spring, no text, no recognizable people"
+    },
+    {
+      "title_zh": "小田原城",
+      "title_ja": "小田原城",
+      "category": "城郭史蹟",
+      "area_zh": "小田原市城內",
+      "summary_zh": "後北條氏的根據地，1590年被豐臣秀吉大軍包圍後開城。",
+      "body_zh": "小田原城位於小田原市，1417年由大森氏所建，約在1495至1501年間被北條早雲奪取，成為後北條氏五代的據點。1590年豐臣秀吉出兵小田原，圍城約三個月後幾乎無血開城。江戶時代德川家康任命大久保忠世為城主，城池於1633年與1703年地震後數度重建，天守最後一次重建於1706年。明治初年拆毀，現存天守為1960年以鋼筋混凝土重建，被列為國家史蹟。",
+      "facts": [
+        {
+          "label": "所在地",
+          "value": "神奈川縣小田原市城內"
+        },
+        {
+          "label": "開創／成因",
+          "value": "1417年大森氏築城，後為後北條氏據點"
+        },
+        {
+          "label": "交通",
+          "value": "小田原站步行約10至15分鐘"
+        }
+      ],
+      "best_season_zh": "春季櫻花",
+      "tips_zh": "天守內部設有展示，入場費與開館時間請查官方網站。從小田原站步行可達，可順道逛城下町。",
+      "tags": [
+        "後北條氏",
+        "天守",
+        "國家史蹟",
+        "城下町"
+      ],
+      "sources": [
+        "https://ja.wikipedia.org/wiki/小田原城"
+      ],
+      "confidence": "high",
+      "prompt_en": "White castle keep with dark roof tiles seen across a moat and stone-walled bridge in the foreground, spring cherry blossoms framing the mid-ground, clear blue sky behind, soft morning light, no text, no recognizable people"
+    },
+    {
+      "title_zh": "蘆之湖",
+      "title_ja": "芦ノ湖",
+      "category": "自然絕景",
+      "area_zh": "足柄下郡箱根町",
+      "summary_zh": "約3100年前形成的火山湖，周長21.1公里，遠眺富士山。",
+      "body_zh": "蘆之湖位於箱根町，湖面海拔723公尺、面積約7.03平方公里、周長約21.1公里、最大水深43.5公尺。約3100年前，箱根火山中央火口丘發生水蒸氣爆炸與火碎流並崩塌，堵住早川而形成此湖。晴天可由湖畔遠眺富士山，也是東京箱根間往復大學驛傳的終點。湖上有海賊船造型的觀光船航行，並且湖中放流虹鱒與褐鱒，為垂釣名所。",
+      "facts": [
+        {
+          "label": "所在地",
+          "value": "神奈川縣足柄下郡箱根町"
+        },
+        {
+          "label": "開創／成因",
+          "value": "約3100年前火山崩塌堵住早川形成"
+        },
+        {
+          "label": "看點",
+          "value": "富士山眺望與湖上遊覽船"
+        }
+      ],
+      "best_season_zh": "秋冬空氣清澈，晴日眺望富士山",
+      "tips_zh": "遊覽船分兩家公司營運，碼頭不同，搭乘前先確認上下船地點。富士山常被雲遮，宜選晴朗早晨。",
+      "tags": [
+        "火山湖",
+        "富士山眺望",
+        "遊覽船",
+        "箱根"
+      ],
+      "sources": [
+        "https://ja.wikipedia.org/wiki/芦ノ湖"
+      ],
+      "confidence": "high",
+      "prompt_en": "Calm mountain caldera lake at dawn with mist on the water, a sightseeing boat in the middle ground, forested hills ringing the shore, distant snow-capped Mount Fuji silhouette rising behind in pink morning light, no text, no recognizable people"
+    },
+    {
+      "title_zh": "箱根湯本溫泉",
+      "title_ja": "箱根湯本温泉",
+      "category": "溫泉",
+      "area_zh": "足柄下郡箱根町",
+      "summary_zh": "傳說738年開湯的箱根溫泉門戶，箱根七湯之首。",
+      "body_zh": "箱根溫泉的開湯傳說在738年（天平10年），由釋淨定坊發現的「總湯」被視為湯本之源。豐臣秀吉攻打小田原時，駐軍曾在此泡湯休憩，使此地聲名大噪。江戶時代的箱根七湯包括湯本、塔之澤、宮之下、底倉、堂島、木賀與蘆之湯，沿東海道分布；明治以後陸續鑿井開發，擴大為十七湯、二十湯。小田急箱根湯本站是進入箱根的主要門戶，宮之下有著名的富士屋飯店。",
+      "facts": [
+        {
+          "label": "所在地",
+          "value": "神奈川縣足柄下郡箱根町"
+        },
+        {
+          "label": "開創／成因",
+          "value": "傳738年開湯，箱根七湯之一"
+        },
+        {
+          "label": "交通",
+          "value": "小田急線箱根湯本站"
+        }
+      ],
+      "best_season_zh": "秋冬泡湯，秋季紅葉",
+      "tips_zh": "各旅館的泉質與一日入浴規定不同，請先向旅館確認。紋身規定亦因設施而異。出發前請再查官方資訊確認。",
+      "tags": [
+        "箱根七湯",
+        "溫泉街",
+        "東海道",
+        "門戶"
+      ],
+      "sources": [
+        "https://ja.wikipedia.org/wiki/箱根湯本温泉"
+      ],
+      "confidence": "medium",
+      "prompt_en": "Traditional outdoor hot spring bath with steam rising, wooden railing and smooth rocks in the foreground, maple trees in autumn colors in the mid-ground, forested mountain valley behind in soft twilight, no text, no recognizable people"
+    },
+    {
+      "title_zh": "三溪園",
+      "title_ja": "三溪園",
+      "category": "庭園公園",
+      "area_zh": "橫濱市中區本牧",
+      "summary_zh": "1906年造園，移建多棟古建築的國家名勝日式庭園。",
+      "body_zh": "三溪園位於橫濱市中區本牧，由原富太郎（號三溪）於1906年造園，園區約17.5公頃，內有17棟建築，其中10棟為從日本各地移建的重要文化財。名建築包括1649年的紀州德川家別墅臨春閣、1603年自京都三室戶寺移建的月華殿，以及1457年的舊燈明寺三重塔，三重塔倒映池中，景色如畫。2006年11月17日被指定為國家名勝。",
+      "facts": [
+        {
+          "label": "所在地",
+          "value": "神奈川縣橫濱市中區本牧"
+        },
+        {
+          "label": "開創／成因",
+          "value": "原富太郎1906年造園，移建古建築"
+        },
+        {
+          "label": "看點",
+          "value": "舊燈明寺三重塔、臨春閣、月華殿"
+        }
+      ],
+      "best_season_zh": "春季櫻花、初夏蓮花與秋季紅葉",
+      "tips_zh": "可由根岸站、櫻木町站或橫濱站搭巴士前往。入園費與開園時間請查官方資訊。出發前請再查官方資訊確認。",
+      "tags": [
+        "原三溪",
+        "三重塔",
+        "名勝",
+        "日式庭園"
+      ],
+      "sources": [
+        "https://ja.wikipedia.org/wiki/三溪園"
+      ],
+      "confidence": "high",
+      "prompt_en": "Japanese stroll garden with a still pond in the foreground, an old three-story wooden pagoda on a green hill reflected in the water in the mid-ground, autumn maple foliage, soft golden afternoon light, no text, no recognizable people"
+    },
+    {
+      "title_zh": "橫濱中華街",
+      "title_ja": "横浜中華街",
+      "category": "街區古鎮",
+      "area_zh": "橫濱市中區山下町",
+      "summary_zh": "日本最大級唐人街，約有500家店，九座牌樓守護街區。",
+      "body_zh": "橫濱中華街位於橫濱市中區山下町，面積約0.2平方公里，約有500家店舖。1858年日美修好通商條約簽訂、橫濱開港後，華人最初以西洋商人的隨從身分來到此地，後來自行開業。1867年的籍牌制度使在留華人取得法律居留依據。街區以關帝廟與媽祖廟為精神中心，從1955年起陸續興建牌樓，最後一座於2003年完成。最近站為2004年開通的元町・中華街站。",
+      "facts": [
+        {
+          "label": "所在地",
+          "value": "神奈川縣橫濱市中區山下町"
+        },
+        {
+          "label": "開創／成因",
+          "value": "1858年開港後華僑聚居形成"
+        },
+        {
+          "label": "看點",
+          "value": "牌樓、關帝廟、媽祖廟與約500家店"
+        }
+      ],
+      "best_season_zh": "春節燈籠期與全年夜景",
+      "tips_zh": "最近站為港未來線元町・中華街站。週末人潮多，建議平日前往，並可順遊山下公園。出發前請再查官方資訊確認。",
+      "tags": [
+        "唐人街",
+        "牌樓",
+        "關帝廟",
+        "開港歷史"
+      ],
+      "sources": [
+        "https://ja.wikipedia.org/wiki/横浜中華街"
+      ],
+      "confidence": "high",
+      "prompt_en": "Ornate colorful Chinese-style gate with gold dragon decorations in the foreground, a lantern-lined street stretching into the mid-ground, dusk with warm glowing lights, no text, no signboards, no recognizable people"
+    },
+    {
+      "title_zh": "江之島",
+      "title_ja": "江の島",
+      "category": "海島海岸",
+      "area_zh": "藤澤市",
+      "summary_zh": "以沙洲連陸的陸繫島，供奉辯財天，眺望富士山。",
+      "body_zh": "江之島位於藤澤市的相模灣，是由約600公尺沙洲與本土相連的陸繫島，周長約4公里、面積0.41平方公里、最高處60.4公尺。1923年關東大地震使島隆起約2公尺。相傳1182年僧侶在此供奉辯財天，成立江島神社，由奧津宮、中津宮、邊津宮三宮組成，江戶時代成為著名參拜與遊覽地。看點有岩屋洞窟、Samuel Cocking庭園與可眺望富士山的展望燈塔，並有兩座橋連接本土。",
+      "facts": [
+        {
+          "label": "所在地",
+          "value": "神奈川縣藤澤市，相模灣"
+        },
+        {
+          "label": "開創／成因",
+          "value": "沙洲連接的陸繫島，傳1182年起奉祀辯財天"
+        },
+        {
+          "label": "交通",
+          "value": "小田急片瀨江之島站或江之電江之島站"
+        }
+      ],
+      "best_season_zh": "晴朗的秋冬傍晚，夕陽與富士山",
+      "tips_zh": "島上多階梯，可預留體力或利用付費手扶梯。海上風大，天氣差時岩屋可能封閉。出發前請再查官方資訊確認。",
+      "tags": [
+        "陸繫島",
+        "辯財天",
+        "江島神社",
+        "夕陽"
+      ],
+      "sources": [
+        "https://ja.wikipedia.org/wiki/江の島"
+      ],
+      "confidence": "high",
+      "prompt_en": "Small island joined to the shore by a long bridge in the foreground, a lighthouse tower and dense green hill in the middle ground, calm sea in golden sunset, silhouette of Mount Fuji faint on the horizon, no text, no recognizable people"
+    },
+    {
+      "title_zh": "大山（阿夫利神社）",
+      "title_ja": "大山（阿夫利神社）",
+      "category": "山岳高原",
+      "area_zh": "伊勢原市・秦野市・厚木市",
+      "summary_zh": "標高1252公尺的丹澤山地靈山，江戶庶民熱衷的大山詣。",
+      "body_zh": "大山標高1252公尺，位於伊勢原、秦野與厚木三市交界，屬丹澤山地。山中有阿夫利神社（本社在山頂）與大山寺，因與降雨神信仰有關而稱「阿夫利（雨降り）山」。江戶時代，庶民組織的「大山詣」成為流行的參拜旅行。纜車連接山腳與阿夫利神社下社，晴天可遠望新宿高樓與房總半島；山麓特產有大山陀螺與豆腐。登山路線有伊勢原、秦野與厚木三條。",
+      "facts": [
+        {
+          "label": "所在地",
+          "value": "神奈川縣伊勢原市・秦野市・厚木市"
+        },
+        {
+          "label": "開創／成因",
+          "value": "雨降信仰靈山，江戶時代盛行大山詣"
+        },
+        {
+          "label": "交通",
+          "value": "小田急伊勢原站轉巴士至纜車站"
+        }
+      ],
+      "best_season_zh": "秋季紅葉與晴冬眺望",
+      "tips_zh": "假日停車位少，建議搭乘巴士。登山者需備足飲水與防滑登山鞋，山頂氣溫較低。出發前請再查官方資訊確認。",
+      "tags": [
+        "阿夫利神社",
+        "大山詣",
+        "纜車",
+        "丹澤"
+      ],
+      "sources": [
+        "https://ja.wikipedia.org/wiki/大山_(神奈川県)"
+      ],
+      "confidence": "high",
+      "prompt_en": "Forested mountain slope with a long stone staircase leading up to a shrine hall in the mid-ground, autumn leaves in red and gold in the foreground, hazy distant city skyline and sea far below in the background, soft late-afternoon light, no text, no recognizable people"
+    }
+  ]
+}

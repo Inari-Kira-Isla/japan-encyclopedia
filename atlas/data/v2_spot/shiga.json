@@ -1,0 +1,157 @@
+{
+  "id": "shiga",
+  "spots": [
+    {
+      "title_zh": "彥根城",
+      "title_ja": "彦根城",
+      "category": "城郭史蹟",
+      "area_zh": "彥根市（湖東）",
+      "summary_zh": "井伊家居城，天守列為國寶的五城之一",
+      "body_zh": "彥根城位於彥根市金龜町，是江戶時代彥根藩的政廳。關原之戰後，井伊直政入封近江，其家臣木俁守勝依遺志，於1603年在琵琶湖畔的彥根山開始築城，屬七國十二大名協力的天下普請，1606年天守完成，1622年全部竣工。天守、附櫓及多聞櫓為國寶，是全日本僅五座國寶天守之一。天秤櫓的石垣可見「牛蒡積」與「落積」兩種砌法，城內玄宮園則是庭園名所。",
+      "facts": [
+        {"label": "所在地", "value": "滋賀縣彥根市金龜町"},
+        {"label": "開創／成因", "value": "1603年起築，井伊氏居城，1606年天守完成、1622年竣工"},
+        {"label": "看點", "value": "國寶天守、天秤櫓石垣、櫻花、玄宮園"}
+      ],
+      "best_season_zh": "春（櫻花）與秋",
+      "tips_zh": "登天守的階梯狹窄陡峭，穿好走的鞋。櫻花季人潮多，早上較從容。城下町一帶亦可順遊。",
+      "tags": ["國寶天守", "井伊家", "櫻花", "琵琶湖"],
+      "sources": ["https://ja.wikipedia.org/wiki/彦根城"],
+      "confidence": "high",
+      "prompt_en": "Compact white castle keep with layered gabled roofs standing on a stone-walled hill above a moat lined with cherry trees in bloom, clear spring morning, soft golden light, foreground blossom branches, midground stone wall and keep, background pale blue sky and distant lake haze; no text, no signs, no recognizable people"
+    },
+    {
+      "title_zh": "白鬚神社",
+      "title_ja": "白鬚神社",
+      "category": "神社寺院",
+      "area_zh": "高島市鵜川（湖西）",
+      "summary_zh": "立於琵琶湖中的大鳥居，被稱作近江的嚴島",
+      "body_zh": "白鬚神社位於高島市鵜川，被視為全國白鬚神社的總本社。主祭神為猿田彥命，社殿背後的比良山被認為是神體山，社傳稱由倭姬命在垂仁天皇25年建立。最大特色是立在琵琶湖水中的大鳥居，以湖上的沖島為背景，被稱為「近江的嚴島」。鳥居原本畫在陸地上，隨湖水位上升而立在水中。豐臣秀賴於慶長8年（1603年）重建的本殿為重要文化財，並屬日本遺產。",
+      "facts": [
+        {"label": "所在地", "value": "滋賀縣高島市鵜川"},
+        {"label": "開創／成因", "value": "社傳垂仁天皇25年由倭姬命創建；1603年豐臣秀賴重建本殿"},
+        {"label": "看點", "value": "湖中大鳥居、沖島背景、重要文化財本殿、日本遺產"}
+      ],
+      "best_season_zh": "晴朗的早晨與日落時分",
+      "tips_zh": "鳥居立在國道旁的湖面，過馬路時務必留意來往車輛。想拍水面倒影，可挑無風的清晨。社內交通與參拜時間請事先確認。",
+      "tags": ["湖中鳥居", "琵琶湖", "日本遺產", "比良山"],
+      "sources": ["https://ja.wikipedia.org/wiki/白鬚神社"],
+      "confidence": "high",
+      "prompt_en": "Large vermilion torii gate standing in the calm water of a lake with a small island and mountains behind, early morning mist, soft pastel light, foreground gentle ripples, midground the gate with its reflection, background hazy island silhouette and pale sky; no text, no signs, no recognizable people"
+    },
+    {
+      "title_zh": "比叡山延曆寺",
+      "title_ja": "比叡山延暦寺",
+      "category": "神社寺院",
+      "area_zh": "大津市（比叡山）",
+      "summary_zh": "最澄創立的天台宗本山，世界遺產",
+      "body_zh": "延曆寺位於比叡山，是日本天台宗的總本山，由最澄於延曆7年（788年）在東塔北谷結庵「一乘止觀院」開始，823年才獲賜延曆寺寺號。它不是單一堂宇的名稱，而是東塔、西塔、橫川等「三塔十六谷」約150處堂塔的總稱。與高野山並列為平安佛教的中心，教義兼納法華、密教、禪與念佛，被稱為佛教的綜合大學。1994年與古都京都的文化財一同登錄世界遺產，並屬琵琶湖國定公園。",
+      "facts": [
+        {"label": "所在地", "value": "滋賀縣大津市坂本本町，比叡山"},
+        {"label": "開創／成因", "value": "788年最澄創建一乘止觀院，823年獲賜延曆寺寺號"},
+        {"label": "看點", "value": "東塔、西塔、橫川三區，約150處堂塔，1994年世界遺產"}
+      ],
+      "best_season_zh": "新綠與秋季紅葉；山上夏季涼爽",
+      "tips_zh": "三區之間相隔較遠，需搭接駁巴士或步行，建議預留半天至一天。山上氣溫比山下低，冬季積雪，請準備保暖衣物並確認交通班次。",
+      "tags": ["天台宗", "最澄", "世界遺產", "三塔"],
+      "sources": ["https://ja.wikipedia.org/wiki/延暦寺"],
+      "confidence": "high",
+      "prompt_en": "Old wooden temple hall with a large hipped roof among tall cedar trees on a mountaintop, light mist, early morning soft light, foreground mossy stone steps and a stone lantern, midground the dark timber hall with deep eaves, background layered misty ridgelines; no text, no signs, no recognizable people"
+    },
+    {
+      "title_zh": "竹生島",
+      "title_ja": "竹生島",
+      "category": "海島海岸",
+      "area_zh": "長濱市早崎町（琵琶湖北部）",
+      "summary_zh": "神之棲島，寶嚴寺與都久夫須麻神社並立",
+      "body_zh": "竹生島位於琵琶湖北部，屬長濱市早崎町，是無人島，面積約0.14平方公里，一周約2公里，島全體是花崗岩一枚岩，被陡峭岩壁圍繞。自古被視為神之棲島，傳說奈良時代行基安置四天王像為島上信仰之始。島上有西國三十三所第三十番的寶嚴寺與都久夫須麻神社（國寶本殿），竹生島弁才天與江島、嚴島並列日本三大弁天。竹生島屬國家名勝及史跡，需乘船前往。",
+      "facts": [
+        {"label": "所在地", "value": "滋賀縣長濱市早崎町，琵琶湖北部"},
+        {"label": "開創／成因", "value": "島全域為花崗岩一枚岩；傳奈良時代行基安置四天王像為信仰之始"},
+        {"label": "看點", "value": "寶嚴寺、都久夫須麻神社本殿（國寶）、弁才天信仰、湖上奇岩與絕壁"}
+      ],
+      "best_season_zh": "初夏至秋季",
+      "tips_zh": "需搭遊覽船往返，航班與天候會影響行程，出發前請查船公司時刻。登島後多是石階與坡道，穿防滑好走的鞋；島上設施有限，餐飲建議先在岸上解決。",
+      "tags": ["琵琶湖", "弁才天", "國寶", "湖上孤島"],
+      "sources": ["https://ja.wikipedia.org/wiki/竹生島"],
+      "confidence": "high",
+      "prompt_en": "Small steep forested island rising from a calm lake with tiny shrine rooftops among dark evergreens, soft misty morning light, foreground clear water ripples, midground rocky cliff shoreline and a pier, background pale mountains across the lake; no text, no signs, no recognizable people"
+    },
+    {
+      "title_zh": "近江八幡水鄉與八幡堀",
+      "title_ja": "近江八幡",
+      "category": "街區古鎮",
+      "area_zh": "近江八幡市（湖東）",
+      "summary_zh": "豐臣秀次所建城下町，近江商人發祥地",
+      "body_zh": "近江八幡位於近江八幡市，1585至1590年豐臣秀次築八幡城，建起棋盤狀城下町，並把安土城下的居民遷來，規定琵琶湖航行的船須入八幡堀停靠，成為商業都市，也是近江商人的發祥地。新町通、永原町通與八幡堀沿岸街區於1991年選定為國家重要傳統建造物群保存地區，常作為時代劇拍攝場景。西之湖一帶的水鄉景觀，2006年成為日本首個重要文化景觀。",
+      "facts": [
+        {"label": "所在地", "value": "滋賀縣近江八幡市"},
+        {"label": "開創／成因", "value": "1585至1590年豐臣秀次築城下町，八幡堀為商業水運要衝"},
+        {"label": "看點", "value": "八幡堀沿岸、新町通舊商家、水鄉景觀（重要文化景觀）"}
+      ],
+      "best_season_zh": "春季櫻花與秋季",
+      "tips_zh": "八幡堀沿岸適合散步，也可參加水鄉遊船（需確認營運時段）。街區以步行最合適，約半天可走完；水鄉的蘆葦季節與日落光線特別好看。",
+      "tags": ["近江商人", "八幡堀", "重傳建", "水鄉"],
+      "sources": ["https://ja.wikipedia.org/wiki/近江八幡市"],
+      "confidence": "high",
+      "prompt_en": "Narrow canal lined with old stone embankment, willow trees and traditional white-walled warehouses, small wooden boat on the water, warm late afternoon light, foreground calm water reflections, midground the canal bend and merchant houses, background tiled rooftops and soft sky; no text, no signs, no recognizable people"
+    },
+    {
+      "title_zh": "醒井宿與地藏川",
+      "title_ja": "醒井宿",
+      "category": "自然絕景",
+      "area_zh": "米原市醒井（湖東）",
+      "summary_zh": "中山道宿場，名泉與梅花藻流水的古道小鎮",
+      "body_zh": "醒井位於米原市，是中山道六十九次的第61個宿場，1602年隨家康整備傳馬制而設。地名相傳來自《古事記》「居寤清泉」與《日本書紀》「居醒泉」，日本武尊征討伊吹山歸途病弱，在此泉水稍微恢復。南東方靈仙山的豐富湧水潤澤地藏川，清澈水流沿宿場街道流過，是旅人歇腳之處。1843年《中山道宿村大概帳》記載家數138戶，今為日本遺產「琵琶湖及其水邊景觀」的構成文化財。",
+      "facts": [
+        {"label": "所在地", "value": "滋賀縣米原市醒井"},
+        {"label": "開創／成因", "value": "1602年設中山道宿場；地名源自《古事記》「居寤清泉」傳說"},
+        {"label": "看點", "value": "地藏川清流、古宿場街道、居醒之清水、日本遺產"}
+      ],
+      "best_season_zh": "初夏至夏季",
+      "tips_zh": "沿地藏川散步約1小時即可看完主要街道。梅花藻的花期請以當地觀光協會公告為準；步行時留意水邊濕滑，夏天水涼，也可帶薄外套。",
+      "tags": ["中山道", "名水", "宿場", "日本遺產"],
+      "sources": ["https://ja.wikipedia.org/wiki/醒井宿"],
+      "confidence": "medium",
+      "prompt_en": "Clear shallow spring-fed stream running beside an old post-town street with stone steps and tiled wooden houses, bright early summer morning, dappled green light, foreground clear water with trailing aquatic plants, midground stone bridge and old houses, background tree-covered hill; no text, no signs, no recognizable people"
+    },
+    {
+      "title_zh": "伊吹山",
+      "title_ja": "伊吹山",
+      "category": "山岳高原",
+      "area_zh": "米原市（滋賀縣最高峰）",
+      "summary_zh": "標高1,377公尺，日本百名山與花之山",
+      "body_zh": "伊吹山是伊吹山地的主峰，標高1,377公尺，為滋賀縣最高峰，山頂在米原市。自古被視為靈峰，《古事記》記載日本武尊東征歸途挑戰山神失敗，病倒後在醒井泉水恢復。1558至1570年間，織田信長從南蠻人處取得藥草，命人在山上設藥草園。1927年2月14日觀測到11.82公尺積雪，是世界山岳氣象觀測史上最深紀錄。1965年伊吹山Drive Way開通後可輕鬆上到九合目，1964年更被選為日本百名山。",
+      "facts": [
+        {"label": "所在地", "value": "滋賀縣米原市（與岐阜縣交界）"},
+        {"label": "開創／成因", "value": "伊吹山地主峰；《古事記》日本武尊傳說，山上產石灰岩"},
+        {"label": "看點", "value": "日本百名山、山頂日本武尊像、Drive Way、藥草與高山花卉"}
+      ],
+      "best_season_zh": "初夏至秋季（花季）；冬季積雪量大",
+      "tips_zh": "山頂氣溫比山下低許多，風也強，須準備擋風外套。冬季積雪量大、道路與登山道可能封閉，出發前請查最新路況。夏季花季人潮較多。",
+      "tags": ["日本百名山", "靈峰", "日本武尊", "高山花卉"],
+      "sources": ["https://ja.wikipedia.org/wiki/伊吹山"],
+      "confidence": "high",
+      "prompt_en": "Broad rounded mountain with grassy upper slopes and patches of wildflowers, summer morning with drifting clouds, bright clear light, foreground wildflowers and a winding trail, midground the long green ridge, background layered blue hills and a cloud-filled sky; no text, no signs, no recognizable people"
+    },
+    {
+      "title_zh": "石山寺",
+      "title_ja": "石山寺",
+      "category": "神社寺院",
+      "area_zh": "大津市石山（湖南）",
+      "summary_zh": "建於巨大硅灰石上，與《源氏物語》傳說相關",
+      "body_zh": "石山寺位於大津市，在琵琶湖唯一的出口瀨田川右岸，東寺真言宗大本山，是西國三十三所第13番札所。本堂建在國家天然紀念物「石山寺硅灰石」巨大岩盤上，寺名即由此而來。據《石山寺緣起繪卷》，天平19年（747年）良弁奉聖武天皇敕願，將如意輪觀音像安置於此。傳說紫式部在此閉關時得到《源氏物語》的靈感，但並無史料可證；寺院也登場於《蜻蛉日記》等文學作品，並屬日本遺產構成文化財。",
+      "facts": [
+        {"label": "所在地", "value": "滋賀縣大津市石山寺，瀨田川右岸"},
+        {"label": "開創／成因", "value": "傳天平19年（747年）良弁受聖武天皇敕願開創；本堂建於硅灰石岩盤上"},
+        {"label": "看點", "value": "硅灰石岩盤（天然紀念物）、本堂、多寶塔、源氏物語傳說"}
+      ],
+      "best_season_zh": "秋季紅葉與春季櫻花、梅花",
+      "tips_zh": "境內有石階與坡道，穿好走的鞋。紅葉季節可能有夜間特別開放，時間與費用請以官方公告為準。交通請事先確認。",
+      "tags": ["硅灰石", "源氏物語", "西國三十三所", "紅葉"],
+      "sources": ["https://ja.wikipedia.org/wiki/石山寺"],
+      "confidence": "high",
+      "prompt_en": "Hillside temple with a wooden hall supported on stilts above huge pale rock outcrops, bright autumn maples in red and orange, soft warm afternoon light, foreground fallen leaves on stone steps, midground the rock face and hall, background tree-covered slope and clear sky; no text, no signs, no recognizable people"
+    }
+  ]
+}

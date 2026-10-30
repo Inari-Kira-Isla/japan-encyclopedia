@@ -1,0 +1,277 @@
+{
+ "id": "iwate",
+ "foods": [
+  {
+   "title_zh": "碗子蕎麥麵",
+   "title_ja": "わんこそば",
+   "category": "麵飯",
+   "summary_zh": "服務員不斷把一口量蕎麥麵放入碗中的花卷與盛岡名物。",
+   "body_zh": "わんこそば是岩手縣花卷市與盛岡市的名物，客人面前的碗吃完，服務員就把一口量的小碗蕎麥麵再加進去，並喊著打氣聲。吃的人用蓋碗表示結束。配菜有海苔、蘿蔔泥、納豆等，帶有招待與競技的氛圍。一碗只有一口的量，一般成人約可吃下數十碗，體驗重點是享受過程與店員的氣氛，不必勉強。",
+   "facts": [
+    {
+     "label": "起源",
+     "value": "招待客人的習俗（細節說法不一）"
+    },
+    {
+     "label": "主要食材",
+     "value": "蕎麥麵、各式配料"
+    },
+    {
+     "label": "吃法",
+     "value": "碗內有麵就繼續，蓋碗代表結束"
+    }
+   ],
+   "season_zh": "全年",
+   "where_zh": "盛岡市、花卷市的蕎麥麵店",
+   "tags": [
+    "蕎麥麵",
+    "盛岡",
+    "花卷",
+    "體驗"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/わんこそば"
+   ],
+   "confidence": "high",
+   "prompt_en": "A stack of small red lacquer wanko bowls with bite-sized soba and a tray of small condiments of nori, grated daikon, natto, scallion, wooden table, soft light. Single dish only, no text, no signs, no other dishes."
+  },
+  {
+   "title_zh": "盛岡冷麵",
+   "title_ja": "盛岡冷麺",
+   "category": "麵飯",
+   "summary_zh": "半透明有彈性的麵條配牛肉高湯與泡菜，是盛岡三大麵之一。",
+   "body_zh": "盛岡冷麵源自韓國北部的冷麵，在盛岡發展出日本風味。麵條以小麥粉和澱粉製成，彈性強，湯頭用牛骨熬製，清爽帶酸。配料有叉燒、水煮蛋、泡菜、西瓜或梨。夏天特別受歡迎。麵條很有彈性，用牙齒咬斷有明顯口感，湯頭則是酸辣甜的平衡，吃完很清爽，尤其適合夏天或燒肉後收尾。",
+   "facts": [
+    {
+     "label": "起源",
+     "value": "由韓國冷麵發展（說法不一）"
+    },
+    {
+     "label": "主要食材",
+     "value": "麵條、牛骨高湯、泡菜"
+    },
+    {
+     "label": "吃法",
+     "value": "加辣泡菜與醋"
+    }
+   ],
+   "season_zh": "夏季較受歡迎",
+   "where_zh": "盛岡市的燒肉店與冷麵店",
+   "tags": [
+    "冷麵",
+    "泡菜",
+    "牛骨湯",
+    "盛岡"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/盛岡冷麺"
+   ],
+   "confidence": "high",
+   "prompt_en": "A white bowl of Morioka reimen with translucent chewy noodles, beef slices, kimchi, boiled egg and pear slices in clear cold broth, on a dark table, cool light. Single dish only, no text, no signs, no other dishes."
+  },
+  {
+   "title_zh": "盛岡炸醬麵",
+   "title_ja": "盛岡じゃじゃ麺",
+   "category": "B級美食",
+   "summary_zh": "寬扁麵淋上肉味噌，吃完用蛋湯收尾。",
+   "body_zh": "じゃじゃ麺是盛岡三大麵之一，使用扁平的烏龍麵風麵條，淋上以味噌、肉末與蔬菜製成的肉味噌，加黃瓜與蔥，依喜好加醋、辣油、蒜。吃完剩下的醬汁會打入蛋，加熱湯做成「ちーたん」。收尾的蛋湯是當地人的吃法，湯裡有剩餘肉味噌的香氣，值得一試，也可請店員幫忙做。這是外地客人最有趣的體驗。",
+   "facts": [
+    {
+     "label": "起源",
+     "value": "由中國炸醬麵變化（說法不一）"
+    },
+    {
+     "label": "主要食材",
+     "value": "麵條、肉味噌、黃瓜"
+    },
+    {
+     "label": "吃法",
+     "value": "拌勻後以蛋湯收尾"
+    }
+   ],
+   "season_zh": "全年",
+   "where_zh": "盛岡市的じゃじゃ麺專門店",
+   "tags": [
+    "炸醬麵",
+    "盛岡",
+    "味噌",
+    "B級"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/盛岡じゃじゃ麺"
+   ],
+   "confidence": "high",
+   "prompt_en": "A plate of flat white noodles topped with dark miso meat sauce, cucumber strips and scallions, ginger, on a white ceramic plate, soft light. Single dish only, no text, no signs, no other dishes."
+  },
+  {
+   "title_zh": "手撕麵疙瘩湯",
+   "title_ja": "ひっつみ",
+   "category": "鄉土料理",
+   "summary_zh": "把麵團手撕下鍋的岩手鄉土湯品。",
+   "body_zh": "ひっつみ是岩手縣的鄉土料理，把揉好的麵團用手撕成片放入醬油湯，與雞肉、牛蒡、胡蘿蔔、菇等同煮。名稱取自「引っ付ける（捏）」的動作。口感滑嫩有嚼勁，是寒冷時期的家常暖湯。各家的湯底有醬油與味噌之分，麵片的厚薄也是家家不同的特色，是岩手家庭常見的日常菜色，用料樸實。",
+   "facts": [
+    {
+     "label": "特色",
+     "value": "手撕麵片"
+    },
+    {
+     "label": "主要食材",
+     "value": "小麥麵團、雞肉、根菜"
+    },
+    {
+     "label": "吃法",
+     "value": "趁熱連湯食用"
+    }
+   ],
+   "season_zh": "秋至冬",
+   "where_zh": "岩手縣內的鄉土料理店與家庭",
+   "tags": [
+    "麵片",
+    "湯",
+    "鄉土",
+    "暖身"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/ひっつみ"
+   ],
+   "confidence": "medium",
+   "prompt_en": "A rustic bowl of hittsumi soup with hand-torn flat dough pieces, chicken, burdock, carrot and mushrooms in soy broth, steam, wooden table. Single dish only, no text, no signs, no other dishes."
+  },
+  {
+   "title_zh": "前澤牛",
+   "title_ja": "前沢牛",
+   "category": "肉類",
+   "summary_zh": "奧州市前澤地區產的高級黑毛和牛。",
+   "body_zh": "前澤牛是岩手縣奧州市前澤地區飼養的黑毛和牛品牌，要求肉質等級與血統管理，油花細緻、風味濃郁。肉質柔嫩，適合壽喜燒、牛排或燒烤。是岩手最有名的高級牛肉品牌。在奧州市的專門店，可以吃到壽喜燒、鐵板燒、牛排等不同的吃法，也有牛肉餐廳提供午餐套餐，價格比外地更親切。",
+   "facts": [
+    {
+     "label": "產地",
+     "value": "奧州市前澤"
+    },
+    {
+     "label": "品種",
+     "value": "黑毛和牛"
+    },
+    {
+     "label": "吃法",
+     "value": "牛排、壽喜燒、燒肉"
+    }
+   ],
+   "season_zh": "全年",
+   "where_zh": "奧州市及岩手縣的餐廳",
+   "tags": [
+    "和牛",
+    "前澤",
+    "牛排",
+    "高級"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/前沢牛"
+   ],
+   "confidence": "medium",
+   "prompt_en": "Thick slices of marbled Maezawa wagyu steak seared, with a pinch of salt and a small vegetable garnish, on a dark stone plate, warm light. Single dish only, no text, no signs, no other dishes."
+  },
+  {
+   "title_zh": "三陸海膽",
+   "title_ja": "三陸のウニ",
+   "category": "海鮮",
+   "summary_zh": "三陸海岸夏季的海膽，鮮甜無苦味。",
+   "body_zh": "三陸海岸的海膽以北紫海膽與蝦夷馬糞海膽為主，夏季解禁。岩手沿岸的久慈等地以「海女」採捕聞名。新鮮海膽味道清甜，口感綿滑。常做成海膽丼、生食，也有「いちご煮」使用。當地漁協在夏季會舉辦海膽節活動，並提供現開現吃的體驗，是三陸夏季的代表海鮮，旅客不可錯過這個時令。",
+   "facts": [
+    {
+     "label": "產地",
+     "value": "三陸海岸"
+    },
+    {
+     "label": "主要食材",
+     "value": "北紫海膽等"
+    },
+    {
+     "label": "吃法",
+     "value": "生食、海膽丼"
+    }
+   ],
+   "season_zh": "夏季解禁",
+   "where_zh": "久慈、宮古等三陸沿岸港口",
+   "tags": [
+    "海膽",
+    "三陸",
+    "夏季",
+    "海鮮"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/ウニ"
+   ],
+   "confidence": "medium",
+   "prompt_en": "A glossy bright-orange sea urchin on its spiky shell, opened to show golden uni lobes, on crushed ice, soft light. Single dish only, no text, no signs, no other dishes."
+  },
+  {
+   "title_zh": "海鷗之蛋",
+   "title_ja": "かもめの玉子",
+   "category": "甜點和菓子",
+   "summary_zh": "大船渡さいとう製菓的蛋形和菓子。",
+   "body_zh": "かもめの玉子是大船渡さいとう製菓的代表和菓子，外形是蛋形，外層是白巧克力糖衣，中間是蛋黃餡與外層蛋糕。口感綿密甜蜜，是岩手最有人氣的伴手禮之一。名稱取自大船渡海岸常見的海鷗，造型可愛，適合當作送人的小禮物。外觀像蛋，也因此成為許多人的回憶之味，值得一嘗。",
+   "facts": [
+    {
+     "label": "製造",
+     "value": "さいとう製菓（大船渡）"
+    },
+    {
+     "label": "主要食材",
+     "value": "白豆沙、蛋黃、白巧克力"
+    },
+    {
+     "label": "吃法",
+     "value": "可冷食"
+    }
+   ],
+   "season_zh": "全年",
+   "where_zh": "大船渡及岩手縣各地伴手禮店",
+   "tags": [
+    "伴手禮",
+    "和菓子",
+    "大船渡",
+    "蛋形"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/さいとう製菓"
+   ],
+   "confidence": "medium",
+   "prompt_en": "A single egg-shaped Kamome no Tamago sweet cut in half showing white bean paste inside, on a small plate, soft light. Single dish only, no text, no signs, no other dishes."
+  },
+  {
+   "title_zh": "南部美人",
+   "title_ja": "南部美人",
+   "category": "酒與飲品",
+   "summary_zh": "二戶市南部美人酒造的日本酒。",
+   "body_zh": "南部美人是岩手縣二戶市南部美人酒造的日本酒，使用岩手縣產米與南部杜氏的技術。酒質清爽，果香明顯，也有「特別純米」等系列。在海外亦有銷售，推動日本酒國際化。二戶地區冬天寒冷，適合慢慢低溫發酵，使酒質更加細膩。可搭配三陸海鮮與當地鄉土料理一起享用，風味更突出。",
+   "facts": [
+    {
+     "label": "釀造",
+     "value": "南部美人（二戶市）"
+    },
+    {
+     "label": "特色",
+     "value": "清爽果香"
+    },
+    {
+     "label": "吃法",
+     "value": "冷酒"
+    }
+   ],
+   "season_zh": "全年",
+   "where_zh": "二戶市及岩手縣酒販",
+   "tags": [
+    "日本酒",
+    "二戶",
+    "南部杜氏",
+    "純米"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/南部美人"
+   ],
+   "confidence": "low",
+   "prompt_en": "A chilled sake bottle with a plain label and a ceramic cup of sake on a wooden tray, soft light. Single dish only, no text, no signs, no other dishes."
+  }
+ ]
+}

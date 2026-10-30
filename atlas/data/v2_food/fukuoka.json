@@ -1,0 +1,149 @@
+{
+ "id": "fukuoka",
+ "foods": [
+  {
+   "title_zh": "博多拉麵",
+   "title_ja": "博多ラーメン",
+   "category": "麵飯",
+   "summary_zh": "乳白豚骨湯配極細直麵，可加點「替玉」的福岡代表。",
+   "body_zh": "博多拉麵是福岡市的代表鄉土料理，以豚骨熬成的乳白色濃湯搭配加水率低的極細直麵。維基百科記載其屋台於1940年代前半在中洲、長濱一帶開業，確立了現今風格，而豚骨拉麵的最早源流則一般認為在久留米。吃法上最有名的是麵吃完後可追加的「替玉」，還能指定麵的硬度，桌上常備白芝麻、紅薑與辣高菜供自行調味。",
+   "facts": [
+    {"label": "起源", "value": "1940年代前半，福岡市中洲、長濱的屋台"},
+    {"label": "主要食材", "value": "豚骨湯、極細直麵、蔥、叉燒、木耳"},
+    {"label": "吃法", "value": "可追加替玉並指定硬度，自加辣高菜與紅薑"}
+   ],
+   "season_zh": "全年",
+   "where_zh": "福岡市中洲屋台與長濱一帶的拉麵店",
+   "tags": ["拉麵", "豚骨", "替玉", "屋台"],
+   "sources": ["https://ja.wikipedia.org/wiki/博多ラーメン"],
+   "confidence": "medium",
+   "prompt_en": "A single bowl of Hakata tonkotsu ramen in a white ceramic bowl, milky pork bone broth, extra-thin straight noodles, sliced chashu, chopped scallion, wood ear mushroom, sesame seeds, a small mound of red pickled ginger, on a dark wooden counter, warm steamy soft light, no text"
+  },
+  {
+   "title_zh": "辛子明太子",
+   "title_ja": "辛子明太子",
+   "category": "特產食材",
+   "summary_zh": "以辣椒醬汁醃漬的鱈魚子，福岡最具代表的伴手禮。",
+   "body_zh": "辛子明太子是將介黨鱈（スケトウダラ）魚卵先鹽漬，再浸入含辣椒、昆布、砂糖與醬油等的調味液製成。據維基百科，1949年1月10日福屋的川原俊夫在福岡十日惠比須神社祭典上以「味之明太子」發售，是現代版的原型。1975年新幹線延伸至博多站後，更在全國打響名氣。最常配白飯食用，也用於飯糰、義大利麵或與美乃滋拌成抹醬。",
+   "facts": [
+    {"label": "起源", "value": "1949年1月，福屋川原俊夫在福岡販售（維基記載）"},
+    {"label": "主要食材", "value": "介黨鱈魚卵、辣椒、昆布、砂糖、醬油"},
+    {"label": "吃法", "value": "配白飯、飯糰、義大利麵、美乃滋抹醬"}
+   ],
+   "season_zh": "全年",
+   "where_zh": "博多車站與天神一帶的明太子專賣店、伴手禮店",
+   "tags": ["明太子", "魚卵", "伴手禮", "博多"],
+   "sources": ["https://ja.wikipedia.org/wiki/辛子明太子"],
+   "confidence": "medium",
+   "prompt_en": "A single whole pair of glossy red spicy marinated pollock roe on a small white rectangular plate, beside a small mound of steamed white rice in a ceramic bowl, light wooden table, soft natural window light, close-up, no text"
+  },
+  {
+   "title_zh": "牛雜鍋",
+   "title_ja": "もつ鍋",
+   "category": "肉類",
+   "summary_zh": "牛雜配大量韭菜高麗菜的福岡鍋物，尾聲加麵收尾。",
+   "body_zh": "牛雜鍋是以牛或豬的內臟配上大量韭菜與高麗菜煮成的鍋物，並用大蒜去腥，也可加辣椒。維基百科記載，戰後曾以鋁鍋用醬油煮內臟與韭菜，至1960年代以芝麻油和香辛料形成近代風格，是福岡、博多的名物。湯底有醬油或味噌口味，最後常加烏龍麵，約1990年後也流行加長崎式強棒麵收尾。盛器多為有柄的淺不鏽鋼鍋，而非陶鍋。",
+   "facts": [
+    {"label": "起源", "value": "福岡、博多，1960年代形成近代風格（維基記載）"},
+    {"label": "主要食材", "value": "牛或豬內臟、韭菜、高麗菜、大蒜"},
+    {"label": "吃法", "value": "湯為醬油或味噌口味，最後加烏龍麵或強棒麵"}
+   ],
+   "season_zh": "秋冬最受歡迎",
+   "where_zh": "博多、天神一帶的牛雜鍋專門店",
+   "tags": ["鍋物", "內臟", "韭菜", "博多"],
+   "sources": ["https://ja.wikipedia.org/wiki/もつ鍋"],
+   "confidence": "medium",
+   "prompt_en": "A shallow stainless steel pot with handles of Fukuoka motsunabe, simmering beef offal, a mound of green garlic chives, cabbage, sliced garlic and red chili in a clear soy broth, steam rising, on a wooden restaurant table, warm light, no text"
+  },
+  {
+   "title_zh": "博多水炊",
+   "title_ja": "水炊き",
+   "category": "鄉土料理",
+   "summary_zh": "雞骨長時間熬成乳白湯底，蘸橙醋食用的雞肉鍋。",
+   "body_zh": "水炊是以帶骨雞肉為主的鍋物，博多版本的特色是長時間熬煮雞骨所得的乳白色濃湯，湯中不另加調味，吃時蘸柚子醋或橙醋，常配柚子胡椒。維基百科指，1643年的料理書已有長崎的「雞水炊」記載，明治時期傳入福岡；水月自稱於1905年完成博多式，1910年創業的新三浦則使白湯版本普及。2012年入選農林水產省的福岡縣鄉土料理。",
+   "facts": [
+    {"label": "起源", "value": "長崎傳入，博多式於明治至1900年代初確立（維基記載）"},
+    {"label": "主要食材", "value": "帶骨雞肉、雞骨白湯、蔬菜"},
+    {"label": "吃法", "value": "蘸柚子醋，可加柚子胡椒，湯可加配料續煮"}
+   ],
+   "season_zh": "秋冬",
+   "where_zh": "博多市區的水炊專門老店",
+   "tags": ["雞肉", "鍋物", "白湯", "博多"],
+   "sources": ["https://ja.wikipedia.org/wiki/水炊き"],
+   "confidence": "medium",
+   "prompt_en": "A single earthenware pot of Hakata mizutaki with milky white chicken broth, bone-in chicken pieces, napa cabbage and tofu, a small dish of ponzu with yuzu kosho on the side, on a quiet wooden table, soft warm light, no text"
+  },
+  {
+   "title_zh": "梅枝餅",
+   "title_ja": "梅ヶ枝餅",
+   "category": "甜點和菓子",
+   "summary_zh": "太宰府天滿宮參道的紅豆烤餅，外酥內軟。",
+   "body_zh": "梅枝餅是福岡縣太宰府市的名物，把紅豆餡包進薄薄的餅皮，放在印有梅花紋的鐵板上烤成。傳說菅原道真被貶到太宰府時，一位老婆婆在寺門前獻餅鼓勵他，他死後老婆婆還在墓前供奉插著梅枝的餅。名稱雖有「梅」，餡料並無梅子味。新烤的最酥脆，帶回家的會逐漸變軟；店家同屬梅枝餅協同組合。",
+   "facts": [
+    {"label": "起源", "value": "傳說與菅原道真貶居太宰府有關"},
+    {"label": "主要食材", "value": "紅豆餡、米粉餅皮"},
+    {"label": "吃法", "value": "現烤趁熱吃最酥脆，可回烤加熱"}
+   ],
+   "season_zh": "全年，賞梅季人潮最多",
+   "where_zh": "太宰府天滿宮參道的餅店",
+   "tags": ["和菓子", "太宰府", "紅豆", "烤餅"],
+   "sources": ["https://ja.wikipedia.org/wiki/梅ヶ枝餅"],
+   "confidence": "medium",
+   "prompt_en": "A single freshly grilled umegae mochi, a flat round rice cake with a plum blossom pattern branded on its surface, on a small paper-lined wooden tray, a hint of red bean paste showing at the edge, soft daylight, shallow depth of field, no text"
+  },
+  {
+   "title_zh": "胡麻鯖",
+   "title_ja": "ごまさば",
+   "category": "海鮮",
+   "summary_zh": "鯖魚生魚片拌醬油與芝麻，福岡的生食文化代表。",
+   "body_zh": "胡麻鯖是福岡縣的鄉土料理，把鯖魚生魚片與醬油、炒香的芝麻及味醂拌勻，可加薑、山葵或海苔。維基百科指這種做法在江戶後期至明治時期、醬油普及後流傳開來。可直接配酒或白飯，也可做成鯖魚茶泡飯，澆上熱高湯享用。鯖魚需極為新鮮，因為有異尖線蟲等食安風險，維基也提醒單靠醋無法去除。具體起源年份記載有限，故以文獻說法為準。",
+   "facts": [
+    {"label": "起源", "value": "江戶後期至明治時期隨醬油普及而流傳（維基記載）"},
+    {"label": "主要食材", "value": "鯖魚生魚片、醬油、炒芝麻、味醂"},
+    {"label": "吃法", "value": "直接吃，或鋪在飯上淋熱高湯做茶泡飯"}
+   ],
+   "season_zh": "全年，需要新鮮鯖魚",
+   "where_zh": "福岡市區的居酒屋與海鮮料理店",
+   "tags": ["鯖魚", "芝麻", "生魚片", "居酒屋"],
+   "sources": ["https://ja.wikipedia.org/wiki/胡麻鯖"],
+   "confidence": "medium",
+   "prompt_en": "A small ceramic dish of goma saba, glossy mackerel sashimi slices dressed in soy sauce and toasted sesame seeds, with a little grated ginger and shredded nori on top, on a dark slate table, soft side lighting, no text"
+  },
+  {
+   "title_zh": "博多烏龍麵",
+   "title_ja": "博多うどん",
+   "category": "麵飯",
+   "summary_zh": "麵條軟綿、湯頭清爽，搭配牛蒡天婦羅的博多風味。",
+   "body_zh": "博多烏龍麵最大的特色是口感蓬鬆、彈性偏弱的軟麵，湯頭以小魚乾、鯖節、鰹節、飛魚乾與昆布熬成清湯，再以淡口醬油調味。常見配料包括牛蒡天婦羅、圓形魚板與甜味牛肉。維基百科記載傳說聖一國師約1241年從中國帶回製麵技術，並說軟麵與商人需要快速、易消化的餐點有關。文獻中最古老的持續營業店家是1882年創業的「かろのうろん」。",
+   "facts": [
+    {"label": "起源", "value": "傳說聖一國師約1241年傳入製麵技術"},
+    {"label": "主要食材", "value": "軟麵、小魚乾與昆布高湯、牛蒡天婦羅"},
+    {"label": "吃法", "value": "可加柚子胡椒，配牛蒡天或魚板"}
+   ],
+   "season_zh": "全年",
+   "where_zh": "博多市區的老牌烏龍麵店與立食店",
+   "tags": ["烏龍麵", "軟麵", "牛蒡天", "博多"],
+   "sources": ["https://ja.wikipedia.org/wiki/博多うどん"],
+   "confidence": "medium",
+   "prompt_en": "A single bowl of Hakata udon with soft thick noodles in clear pale dashi broth, topped with a crisp burdock root tempura and a slice of round fish cake, chopped scallion, on a wooden counter, warm steam, soft light, no text"
+  },
+  {
+   "title_zh": "小倉炒烏龍麵",
+   "title_ja": "小倉焼うどん",
+   "category": "B級美食",
+   "summary_zh": "北九州小倉的乾麵炒烏龍，戰後以代用麵誕生。",
+   "body_zh": "炒烏龍麵的確切發源地不明，一般認為出自北九州的小倉。維基百科記載，戰後小倉食堂「達磨堂」老闆想做炒麵卻沒有蕎麥麵，改用乾烏龍麵炒製而成。以豬五花、高麗菜、洋蔥與豆芽炒香，用伍斯特醬、醬油或味噌調味，撒上青海苔和柴魚片。小倉炒烏龍麵研究所訂有標準，包含使用乾麵、若松高麗菜、豬五花，最後以當地熟成清酒提香。",
+   "facts": [
+    {"label": "起源", "value": "戰後小倉食堂「達磨堂」說（維基記載）"},
+    {"label": "主要食材", "value": "乾烏龍麵、豬五花、高麗菜、豆芽"},
+    {"label": "吃法", "value": "撒青海苔與柴魚片，可加荷包蛋"}
+   ],
+   "season_zh": "全年",
+   "where_zh": "北九州市小倉的食堂與炒烏龍麵專門店",
+   "tags": ["炒烏龍麵", "北九州", "B級美食", "小倉"],
+   "sources": ["https://ja.wikipedia.org/wiki/焼うどん"],
+   "confidence": "medium",
+   "prompt_en": "A single plate of Kokura yaki udon, stir-fried dried udon noodles with pork belly, cabbage and bean sprouts, topped with aonori seaweed powder and bonito flakes, a fried egg on top, on a plain white plate on a diner table, warm light, no text"
+  }
+ ]
+}

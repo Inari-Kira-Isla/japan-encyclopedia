@@ -1,0 +1,285 @@
+{
+ "id": "hyogo",
+ "spots": [
+  {
+   "title_zh": "姬路城",
+   "title_ja": "姫路城",
+   "category": "城郭史蹟",
+   "area_zh": "姬路市",
+   "summary_zh": "白漆喰天守保存完整的世界遺產名城，別名白鷺城。",
+   "body_zh": "姬路城位於兵庫縣姬路市，築於姬山與鷺山之上，是日本近世城郭的代表遺構。相傳最早於1346年由赤松貞範築城，其後池田輝政自1601年起歷時八年大規模改建，奠定今日規模。城牆整體以白漆喰總塗籠，兼具防火、防鐵砲與美觀，因此又稱白鷺城。大天守、小天守等八棟為國寶，另有七十四棟為重要文化財，1993年登錄世界遺產。看點是連立式天守群的白色輪廓、層層石垣與迂迴的城內動線，近年亦完成平成大修理。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "兵庫縣姬路市，姬山．鷺山一帶"
+    },
+    {
+     "label": "開創／成因",
+     "value": "1346年赤松貞範築城說；池田輝政1601–1609年大改建"
+    },
+    {
+     "label": "看點",
+     "value": "白漆喰連立式天守群、石垣，1993年登錄世界遺產"
+    }
+   ],
+   "best_season_zh": "春季櫻花期、晴朗的秋日",
+   "tips_zh": "建議早上入城避開人潮，並預留足夠時間走完曲折的登城路線。城外可由好古園或護城河外側遠眺天守全貌，拍照光線以午前順光最佳。",
+   "tags": [
+    "世界遺產",
+    "國寶天守",
+    "白鷺城",
+    "平山城"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/姫路城"
+   ],
+   "confidence": "high",
+   "prompt_en": "Himeji Castle main keep complex viewed from the lower bailey across a stone wall, gleaming white plaster walls and gray tiled gables stacked in tiers, cherry blossom branches framing the foreground, deep blue sky in the morning, soft side light, no text, no signs, no recognizable people"
+  },
+  {
+   "title_zh": "竹田城跡",
+   "title_ja": "竹田城",
+   "category": "山岳高原",
+   "area_zh": "朝來市和田山町",
+   "summary_zh": "雲海中浮現的山城石垣遺跡，有天空之城之稱。",
+   "body_zh": "竹田城跡位於朝來市和田山町，建在標高約353.7公尺的古城山山頂，因縄張形似臥虎而別名虎臥城。相傳於1443年由山名宗全築城，初代城主為太田垣光景，後來江戶幕府方針下廢城。雖已廢城約四百年，石垣仍幾乎完整保留，是日本屈指的山城遺構。城跡常被圓山川的川霧籠罩，從立雲峽或藤和峠眺望，石垣群宛如浮在雲海之上，故有天空之城、日本馬丘比丘之稱。看點是天守台、南北千疊與連郭式的石垣配置。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "兵庫縣朝來市和田山町竹田，古城山山頂（標高353.7m）"
+    },
+    {
+     "label": "開創／成因",
+     "value": "相傳1443年山名宗全築城，後遭廢城"
+    },
+    {
+     "label": "看點",
+     "value": "完整石垣群、雲海中的城跡，可由立雲峽、藤和峠遠望"
+    }
+   ],
+   "best_season_zh": "秋季至初冬的清晨",
+   "tips_zh": "想看雲海需早起並留意天氣與氣溫變化，雲海並非每天出現。登城路為山路，建議穿防滑鞋；也可改由立雲峽遠眺全景。",
+   "tags": [
+    "天空之城",
+    "山城",
+    "雲海",
+    "石垣"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/竹田城"
+   ],
+   "confidence": "high",
+   "prompt_en": "Ruined stone castle walls on a mountaintop emerging above a sea of white morning mist in a river valley, layered stone terraces in the middle ground, distant ridgelines in soft pink-orange sunrise light, autumn atmosphere, no text, no signs, no recognizable people"
+  },
+  {
+   "title_zh": "有馬溫泉",
+   "title_ja": "有馬温泉",
+   "category": "溫泉",
+   "area_zh": "神戶市北區有馬町",
+   "summary_zh": "日本三古湯之一，以紅褐色金泉聞名。",
+   "body_zh": "有馬溫泉位於神戶市北區有馬町，被列為日本三古湯，也曾出現在《枕草子》三名泉之中。溫泉水沿活斷層的破碎帶湧出，其中含鐵的鹽化物泉接觸空氣後變為紅褐色，稱為金泉，無色透明者則稱銀泉。《日本書紀》記載631年舒明天皇曾停留約三個月，豐臣秀吉一生更造訪九次，並整修泉源與浴場。江戶時代的溫泉番付曾列為西大關。看點是沿湯本坂漫步的溫泉街、金之湯、銀之湯等外湯，以及周邊紅葉谷與有馬四十八瀑。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "兵庫縣神戶市北區有馬町"
+    },
+    {
+     "label": "開創／成因",
+     "value": "沿有馬-高槻構造線湧出，分金泉（含鐵鹽化物泉）與銀泉"
+    },
+    {
+     "label": "看點",
+     "value": "金之湯、銀之湯等外湯，湯本坂溫泉街，秀吉九度造訪"
+    }
+   ],
+   "best_season_zh": "秋季紅葉期與冬季",
+   "tips_zh": "外湯與旅館日歸浴的營業時間各異，出發前宜先查好。溫泉街坡道不少，穿好走的鞋；金泉泡後易出汗，記得補充水分。",
+   "tags": [
+    "日本三古湯",
+    "金泉",
+    "溫泉街",
+    "太閤"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/有馬温泉"
+   ],
+   "confidence": "high",
+   "prompt_en": "Narrow old hot spring town lane lined with wooden inns and small shops, faint steam rising, a small stream and stone bridge in the foreground, autumn maple leaves on the hillside behind, warm lantern light at dusk, no text, no signs, no recognizable people"
+  },
+  {
+   "title_zh": "北野異人館街",
+   "title_ja": "北野異人館",
+   "category": "街區古鎮",
+   "area_zh": "神戶市中央區北野町",
+   "summary_zh": "山手坡地上保存明治至大正洋館的歷史街區。",
+   "body_zh": "北野異人館街位於神戶市中央區北野町，是以異人館聞名的觀光區。依地名資料，這一帶留有明治二十年代至大正初期建造的洋館，截至2007年共有33棟。神戶市把約32公頃劃為都市景觀形成地域，其中9.3公頃更以北野町山本通之名，被指定為重要傳統建造物群保存地區。街區沿山坡展開，各棟洋館風格各異，如山手八番館、中國館、うろこの家等都在其中。看點是坡道上並列的洋館外觀、老街氛圍與居高臨下的港城景致。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "兵庫縣神戶市中央區北野町一至四丁目"
+    },
+    {
+     "label": "開創／成因",
+     "value": "明治20年代至大正初期建造的異人館，2007年存33棟"
+    },
+    {
+     "label": "看點",
+     "value": "重要傳統建造物群保存地區（9.3公頃）、山手八番館、うろこの家"
+    }
+   ],
+   "best_season_zh": "春秋季晴天",
+   "tips_zh": "街區沿坡地展開，需要多爬樓梯與坡道，建議穿舒適的鞋。各館開放時間與入館費用不同，可先選定重點兩三棟，避免行程過滿。",
+   "tags": [
+    "異人館",
+    "洋館",
+    "重傳建",
+    "坡道"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/北野町_(神戸市)"
+   ],
+   "confidence": "medium",
+   "prompt_en": "Sloping quiet street in an old hillside foreign-residence district, early twentieth-century Western-style wooden houses with bay windows and gables, stone steps and trees in the foreground, hazy harbor city in the far background, soft afternoon light in spring, no text, no signs, no recognizable people"
+  },
+  {
+   "title_zh": "書寫山圓教寺",
+   "title_ja": "圓教寺",
+   "category": "神社寺院",
+   "area_zh": "姬路市書寫",
+   "summary_zh": "有西之比叡山之稱的天台宗山岳古剎。",
+   "body_zh": "圓教寺位於姬路市書寫的書寫山山上，為天台宗別格本山，也是西國三十三所第27番札所。據傳由性空上人於966年在山上結庵創建，986年花山法皇賜予圓教寺之勅號。寺格崇高，有西之比叡山之稱，中世與比叡山、大山並列天台三大道場。境內分東谷、中谷與西谷，以摩尼殿為中心；西谷有大講堂、食堂與常行堂。相傳武藏坊弁慶曾在此修行，但史實未獲確認。也曾是多部電影與大河劇的取景地，看點是山林間的木造堂宇。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "兵庫縣姬路市書寫，書寫山山上（標高371m）"
+    },
+    {
+     "label": "開創／成因",
+     "value": "966年性空上人結庵創建，986年獲賜圓教寺勅號"
+    },
+    {
+     "label": "交通",
+     "value": "搭書寫山纜車上山，再步行經仁王門前往摩尼殿"
+    }
+   ],
+   "best_season_zh": "新綠與紅葉季節",
+   "tips_zh": "山上境內範圍廣闊，西谷三堂距離摩尼殿尚有一段步行路程，宜預留半天。纜車上山後路面有起伏，穿好走的鞋。",
+   "tags": [
+    "西之比叡山",
+    "天台宗",
+    "西國三十三所",
+    "山岳寺院"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/圓教寺_(姫路市)"
+   ],
+   "confidence": "high",
+   "prompt_en": "Large wooden mountain temple hall with a sweeping tiled roof set on a cliff-side platform among tall cedar and maple trees, stone path and steps in the foreground, filtered morning light through forest, autumn leaves, calm atmosphere, no text, no signs, no recognizable people"
+  },
+  {
+   "title_zh": "淡路島．鳴門海峽",
+   "title_ja": "淡路島",
+   "category": "海島海岸",
+   "area_zh": "淡路市、洲本市、南淡路市",
+   "summary_zh": "連接本州與四國的瀨戶內海最大島，可遠眺渦潮。",
+   "body_zh": "淡路島位於瀨戶內海東部，是瀨戶內海中面積最大的島，南北約53公里，東西約22公里，分屬淡路市、洲本市與南淡路市。島上傳說是日本神話中伊弉諾尊與伊弉冉尊最早創造的島。北端以明石海峽大橋連接本州，南端以大鳴門橋連接四國，兩橋分別於1998年與1985年完成。鳴門海峽因內海與外海潮位差而形成著名的鳴門渦潮，可乘觀潮船近觀。西側海岸面向播磨灘，近年以夕陽景致吸引遊客。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "兵庫縣，瀨戶內海東部"
+    },
+    {
+     "label": "開創／成因",
+     "value": "日本神話國生傳說之島；1985年大鳴門橋、1998年明石海峽大橋通車"
+    },
+    {
+     "label": "看點",
+     "value": "鳴門渦潮、明石海峽大橋、播磨灘夕陽"
+    }
+   ],
+   "best_season_zh": "春秋季，潮汐變化大的時段",
+   "tips_zh": "渦潮的大小與潮汐有關，行前查好當日潮汐時間表較能看到壯觀景象。島面積大，建議租車或搭配巴士分區遊玩。",
+   "tags": [
+    "瀨戶內海",
+    "大鳴門橋",
+    "渦潮",
+    "國生神話"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/淡路島"
+   ],
+   "confidence": "high",
+   "prompt_en": "Wide seascape of a long suspension bridge spanning a narrow strait, strong tidal currents forming whirlpools in the blue-green water below, rocky coastline in the foreground, a small island on the horizon, clear late-afternoon light, no text, no signs, no recognizable people"
+  },
+  {
+   "title_zh": "好古園",
+   "title_ja": "好古園",
+   "category": "庭園公園",
+   "area_zh": "姬路市本町（姬路城西側）",
+   "summary_zh": "依姬路城西御屋敷遺跡打造的九座池泉回遊式庭園。",
+   "body_zh": "好古園位於姬路公園內，正式名稱為姬路城西御屋敷跡庭園好古園，1992年開園。園區依1618年造營的西御屋敷與武家屋敷遺構規劃，總面積約3.5公頃，由九座日式庭園組成，各庭園依原屋敷區劃以築地塀分隔。園內有以姬山原生林為借景的池泉回遊式庭園、茶之庭、竹之庭與花之庭等，其中流之平庭可借景姬路城連立天守。園內長屋門與迴廊等江戶風建築也常成為時代劇的取景地。看點是庭園與天守相映的景致。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "兵庫縣姬路市本町68，姬路公園內"
+    },
+    {
+     "label": "開創／成因",
+     "value": "依姬路城西御屋敷遺跡作庭，1992年開園，共九座庭園"
+    },
+    {
+     "label": "交通",
+     "value": "JR姬路站步行約15分鐘"
+    }
+   ],
+   "best_season_zh": "新綠與紅葉季",
+   "tips_zh": "可與姬路城合併安排半日行程，先看天守再入園放鬆。園內設有茶室與餐廳，適合在池畔慢走小憩。",
+   "tags": [
+    "池泉回遊式",
+    "借景",
+    "江戶庭園",
+    "九座庭園"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/好古園"
+   ],
+   "confidence": "high",
+   "prompt_en": "Japanese stroll garden with a large pond of koi, a wooden covered corridor and tiled earthen wall in the middle ground, pine trees and maple foliage, a white castle keep faintly visible in the far background, soft morning light, autumn, no text, no signs, no recognizable people"
+  },
+  {
+   "title_zh": "城崎溫泉",
+   "title_ja": "城崎温泉",
+   "category": "溫泉",
+   "area_zh": "豐岡市城崎町",
+   "summary_zh": "柳樹河畔以七座外湯巡遊聞名的溫泉小鎮。",
+   "body_zh": "城崎溫泉位於豐岡市城崎町，是以七座外湯巡遊為主的溫泉街。相傳奈良時代初期的717年，道智上人為救難病者誦經千日而開湯，道智也是溫泉寺的開山。江戶時代曾被稱為海內第一泉，外湯之首一之湯即由漢方醫香川修德改名而來。溫泉街沿大谿川展開，河畔種有柳樹，木造三層旅館連綿，穿浴衣、踩木屐漫步是此地特色。志賀直哉《城崎にて》亦以此為舞台。冬天可品嘗蟹料理，夏天則可前往附近海邊。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "兵庫縣豐岡市城崎町，大谿川沿岸"
+    },
+    {
+     "label": "開創／成因",
+     "value": "相傳717年道智上人開湯，泉質為食鹽泉"
+    },
+    {
+     "label": "看點",
+     "value": "七座外湯巡遊、柳樹河畔、志賀直哉《城崎にて》"
+    }
+   ],
+   "best_season_zh": "冬季蟹季與柳綠時節",
+   "tips_zh": "購買外湯通票可方便巡遊多座浴場，並可依各外湯的公休日安排順序。傍晚穿浴衣散步最有氣氛，冬季氣溫低，記得防寒。",
+   "tags": [
+    "外湯巡遊",
+    "柳並木",
+    "浴衣木屐",
+    "志賀直哉"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/城崎温泉"
+   ],
+   "confidence": "high",
+   "prompt_en": "Quiet hot spring town canal lined with weeping willows and small arched stone bridges, traditional three-story wooden inns with lit windows along the water, faint steam, dusk blue hour with warm lantern glow, no text, no signs, no recognizable people"
+  }
+ ]
+}

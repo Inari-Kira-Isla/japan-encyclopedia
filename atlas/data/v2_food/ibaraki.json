@@ -1,0 +1,277 @@
+{
+ "id": "ibaraki",
+ "foods": [
+  {
+   "title_zh": "水戶納豆",
+   "title_ja": "水戸納豆",
+   "category": "特產食材",
+   "summary_zh": "茨城最具代表性的發酵大豆名產，以小粒大豆製成。",
+   "body_zh": "納豆是茨城縣的代表性特產，水戶更是納豆的名產地，市內有納豆紀念碑與眾多專賣店。水戶納豆多採用小粒大豆，豆體小、容易拌開，拉絲綿密。一般搭配醬油與黃芥末拌勻後覆於白飯上。稻草包裝的「藁苞納豆」是常見的伴手禮樣式，帶有傳統風味。想吃得講究，可再加入蛋黃或蔥花增添香氣與層次。",
+   "facts": [
+    {
+     "label": "起源",
+     "value": "水戶地區以小粒大豆發展的傳統名產"
+    },
+    {
+     "label": "主要食材",
+     "value": "大豆、納豆菌"
+    },
+    {
+     "label": "吃法",
+     "value": "拌醬油與芥末，放在白飯上"
+    }
+   ],
+   "season_zh": "全年",
+   "where_zh": "水戶市的納豆店與車站伴手禮",
+   "tags": [
+    "納豆",
+    "水戶",
+    "發酵",
+    "早餐"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/納豆"
+   ],
+   "confidence": "medium",
+   "prompt_en": "A single ceramic bowl of steaming white rice topped with Mito natto, sticky threads lifted by chopsticks, finely chopped green onion on top, wooden table, soft morning window light, no text"
+  },
+  {
+   "title_zh": "鮟鱇鍋",
+   "title_ja": "あんこう鍋",
+   "category": "鄉土料理",
+   "summary_zh": "以整隻鮟鱇魚燉煮的茨城冬季代表火鍋。",
+   "body_zh": "あんこう鍋是茨城縣北部沿海的冬季名物，以鮟鱇魚的肉、皮、內臟與魚鰭放入鍋中燉煮，加入白菜、蔥、豆腐等蔬菜。鮟鱇魚幾乎全身都能食用，被稱為「沒有可丟棄的部分」。調味以味噌或醬油為主，魚肝濃郁，是味道的核心。吃完還可加入飯與蛋做成雜炊。冬天去北茨城旅行，吃上一鍋熱騰騰的鮟鱇鍋最能暖身。",
+   "facts": [
+    {
+     "label": "起源",
+     "value": "茨城縣北茨城、大洗一帶的漁村料理"
+    },
+    {
+     "label": "主要食材",
+     "value": "鮟鱇魚、魚肝、白菜、豆腐"
+    },
+    {
+     "label": "吃法",
+     "value": "火鍋，最後以雜炊收尾"
+    }
+   ],
+   "season_zh": "11月至3月",
+   "where_zh": "北茨城市、大洗町的海鮮料理店與旅館",
+   "tags": [
+    "火鍋",
+    "鮟鱇",
+    "冬季",
+    "漁村料理"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/アンコウ鍋"
+   ],
+   "confidence": "medium",
+   "prompt_en": "A single earthenware donabe pot of Ankou nabe, simmering monkfish pieces, napa cabbage, tofu and green onion in miso broth, steam rising, rustic wooden table, warm lantern-style light, no text"
+  },
+  {
+   "title_zh": "常陸秋蕎麥麵",
+   "title_ja": "常陸秋そば",
+   "category": "麵飯",
+   "summary_zh": "以茨城在地蕎麥品種「常陸秋蕎麥」製作的香氣蕎麥麵。",
+   "body_zh": "常陸秋そば是茨城縣的蕎麥品種，主要產於縣北的常陸太田、大子一帶。這種蕎麥香氣濃郁、甜味明顯，被許多蕎麥麵職人愛用。蕎麥麵以手打、現磨方式製作，最常見的吃法是冷蕎麥麵「ざるそば」，沾以醬油為基底的沾汁。也有店家提供天婦羅蕎麥麵與熱湯麵。蕎麥湯（蕎麥麵煮汁）也可兌入沾汁最後飲用。",
+   "facts": [
+    {
+     "label": "產地",
+     "value": "茨城縣北部，如常陸太田、大子町"
+    },
+    {
+     "label": "主要食材",
+     "value": "常陸秋蕎麥粉、水"
+    },
+    {
+     "label": "吃法",
+     "value": "冷蕎麥麵沾醬汁，加芥末與蔥"
+    }
+   ],
+   "season_zh": "新蕎麥約10月底至11月",
+   "where_zh": "縣北山間地區的手打蕎麥麵店",
+   "tags": [
+    "蕎麥麵",
+    "手打",
+    "常陸",
+    "新蕎麥"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/常陸秋そば"
+   ],
+   "confidence": "medium",
+   "prompt_en": "A single bamboo zaru tray of cold hand-cut soba noodles with a small dish of dipping sauce, wasabi and chopped scallion, on a rustic wooden table, soft natural window light, no text"
+  },
+  {
+   "title_zh": "常陸牛",
+   "title_ja": "常陸牛",
+   "category": "肉類",
+   "summary_zh": "茨城縣產的黑毛和牛品牌，肉質細緻、油花均勻。",
+   "body_zh": "常陸牛是茨城縣內飼養的黑毛和牛品牌，肉質柔軟，脂肪甜味清爽，肌理細緻。品牌有嚴格的認定標準，以肉質等級做出分級。常見吃法有牛排、壽喜燒與燒肉，簡單以鹽與山葵調味最能嘗到牛肉本味。縣內許多餐廳與道之驛都有販售。想了解牛肉原味，建議先試最簡單的鹽烤吃法。",
+   "facts": [
+    {
+     "label": "種類",
+     "value": "黑毛和牛品牌"
+    },
+    {
+     "label": "主要食材",
+     "value": "茨城縣內飼育的和牛"
+    },
+    {
+     "label": "吃法",
+     "value": "牛排、壽喜燒、燒肉"
+    }
+   ],
+   "season_zh": "全年",
+   "where_zh": "縣內牛排店、燒肉店與道之驛",
+   "tags": [
+    "和牛",
+    "牛排",
+    "品牌牛",
+    "常陸"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/常陸牛"
+   ],
+   "confidence": "medium",
+   "prompt_en": "A single thick slice of seared Hitachi wagyu steak, pink center with fine marbling, on a dark slate plate with a touch of wasabi and flaky salt, dark wooden table, warm side light, no text"
+  },
+  {
+   "title_zh": "地瓜乾",
+   "title_ja": "干し芋",
+   "category": "甜點和菓子",
+   "summary_zh": "茨城為日本最大產地，蒸熟後曬乾的甘甜地瓜乾。",
+   "body_zh": "茨城縣是日本干し芋的最大產地，尤其以ひたちなか市一帶最為出名。製作方式是將地瓜蒸熟、削皮、切片後於冬季寒風中曬乾，糖分濃縮，口感軟糯帶嚼勁，表面常見白色糖粉。品種以「玉豐」「紅遙」等為主。可直接當零食食用，也可以稍微烘烤，風味更濃。冬季產地常見成排曬架，是茨城的冬日風景。",
+   "facts": [
+    {
+     "label": "產地",
+     "value": "茨城縣ひたちなか市、東海村一帶"
+    },
+    {
+     "label": "主要食材",
+     "value": "地瓜"
+    },
+    {
+     "label": "吃法",
+     "value": "直接食用，或略烤後更香甜"
+    }
+   ],
+   "season_zh": "12月至2月",
+   "where_zh": "ひたちなか市的產地直售店與道之驛",
+   "tags": [
+    "地瓜乾",
+    "零食",
+    "ひたちなか",
+    "冬季"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/干し芋"
+   ],
+   "confidence": "medium",
+   "prompt_en": "A few slices of golden-orange Hoshi-imo dried sweet potato fanned on a small woven bamboo tray, soft chewy texture with a light white sugar bloom, rustic wooden table, soft natural light, no text"
+  },
+  {
+   "title_zh": "水戶梅酒",
+   "title_ja": "水戸の梅酒",
+   "category": "酒與飲品",
+   "summary_zh": "偕樂園梅林名產，以當地梅子釀成的甜酸梅酒。",
+   "body_zh": "水戶的偕樂園是日本三名園之一，園內栽種大量梅樹，每年早春梅花盛開。當地用梅子製作的梅酒與梅製品成為名產。梅酒以梅子浸漬於燒酒或日本酒中，酸甜平衡，可冰飲、加蘇打水或加冰塊。在偕樂園周邊的商店與水戶車站可買到。酸甜度與酒精濃度因店家而異，建議先少量試飲，再選購自己喜好的口味。",
+   "facts": [
+    {
+     "label": "起源",
+     "value": "偕樂園梅林周邊發展的名產"
+    },
+    {
+     "label": "主要食材",
+     "value": "梅子、酒、糖"
+    },
+    {
+     "label": "吃法",
+     "value": "加冰或兌蘇打水"
+    }
+   ],
+   "season_zh": "梅花約2月下旬至3月；梅酒全年",
+   "where_zh": "水戶偕樂園周邊與水戶站商店",
+   "tags": [
+    "梅酒",
+    "偕樂園",
+    "水戶",
+    "梅"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/偕楽園"
+   ],
+   "confidence": "low",
+   "prompt_en": "A single glass of amber Mito plum liqueur over a large ice cube with one whole green plum inside, a small sprig of white plum blossom beside it, on a dark wooden table, soft window light, no label text"
+  },
+  {
+   "title_zh": "鹿島灘蛤蜊",
+   "title_ja": "鹿島灘はまぐり",
+   "category": "海鮮",
+   "summary_zh": "鹿島灘海岸出產，肉厚鮮甜的大顆文蛤。",
+   "body_zh": "鹿島灘是茨城縣東部的海岸，這裡產的蛤蜊（はまぐり）個頭大、肉質肥厚、甜味鮮明，是縣內知名海產。貝殼表面有花紋，常見吃法是炭火燒烤，使其在殼中自行煮開，保有鮮汁；也可做成蛤蜊湯與壽司食材。神栖市、鹿嶋市等地的料理店可以品嚐。海邊的料理店常以時令炭烤方式呈現，建議現烤現吃，才能嘗到最鮮的汁水。",
+   "facts": [
+    {
+     "label": "產地",
+     "value": "鹿島灘沿岸，如神栖市、鹿嶋市"
+    },
+    {
+     "label": "主要食材",
+     "value": "蛤蜊（文蛤）"
+    },
+    {
+     "label": "吃法",
+     "value": "炭火燒烤、蛤蜊湯"
+    }
+   ],
+   "season_zh": "約冬季至春季",
+   "where_zh": "神栖、鹿嶋一帶的海鮮餐廳與魚市",
+   "tags": [
+    "蛤蜊",
+    "鹿島灘",
+    "炭烤",
+    "海鮮"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/ハマグリ"
+   ],
+   "confidence": "low",
+   "prompt_en": "Three large grilled hamaguri clams, shells opened slightly with glistening juices, on a small black ceramic plate with a lemon wedge, dark wooden table, warm soft light, no text"
+  },
+  {
+   "title_zh": "常陸太田炒麵",
+   "title_ja": "常陸太田やきそば",
+   "category": "B級美食",
+   "summary_zh": "常陸太田市的B級美食，以蕎麥麵炒製的獨特炒麵。",
+   "body_zh": "常陸太田やきそば是茨城縣常陸太田市的B級美食。有別於一般小麥麵炒麵，它使用蕎麥麵製作，口感更接近蕎麥。調味清爽，與當地盛產的蕎麥文化結合。加入豬肉、高麗菜與洋蔥，再淋上醬汁炒香，在當地小店與活動中可以吃到。當地人以此作為地方活化的代表之一，常在祭典與市集販售。",
+   "facts": [
+    {
+     "label": "起源",
+     "value": "結合常陸太田蕎麥文化的在地創作"
+    },
+    {
+     "label": "主要食材",
+     "value": "蕎麥麵、豬肉、高麗菜"
+    },
+    {
+     "label": "吃法",
+     "value": "趁熱享用，可加紅薑"
+    }
+   ],
+   "season_zh": "全年",
+   "where_zh": "常陸太田市的食堂與活動攤位",
+   "tags": [
+    "炒麵",
+    "蕎麥",
+    "B級美食",
+    "常陸太田"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/常陸太田市"
+   ],
+   "confidence": "low",
+   "prompt_en": "A single white plate of stir-fried soba noodles with pork, cabbage and a glossy brown sauce, sprinkled with fine bonito flakes, wooden table, warm side light, shallow depth of field, no text"
+  }
+ ]
+}

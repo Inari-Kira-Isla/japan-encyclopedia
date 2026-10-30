@@ -1,0 +1,285 @@
+{
+"id": "kagawa",
+"spots": [
+{
+"title_zh": "栗林公園",
+"title_ja": "栗林公園",
+"category": "庭園公園",
+"area_zh": "高松市",
+"summary_zh": "背倚紫雲山的迴遊式大名庭園，國家特別名勝。",
+"body_zh": "栗林公園位於高松市，是江戶時代初期築成的迴遊式大名庭園，1953年被指定為國家特別名勝。園內背靠紫雲山，配置六座池塘與十三座假山，面積約75公頃，是日本文化財庭園中面積最大的一座。前身為高松藩主松平家的下屋敷「栗林莊」，前後使用228年，第五代藩主賴恭於1745年選定「名所60景」，作庭大致完成。園內有楓、杜鵑與約一千株修剪過的松樹，以及梅、櫻、蓮、菖蒲等，四季各有景致，被稱為「一步一景」。",
+"facts": [
+{
+"label": "所在地",
+"value": "香川縣高松市（紫雲山東麓）"
+},
+{
+"label": "開創／成因",
+"value": "江戶初期築庭，松平家下屋敷，1745年選定名所60景"
+},
+{
+"label": "看點",
+"value": "六池十三山、手入松、南庭與北庭、一步一景"
+}
+],
+"best_season_zh": "春季與秋季",
+"tips_zh": "園區廣大，南庭最精華，建議預留兩小時以上，沿著園路慢慢逛。不妨在池畔停下腳步，欣賞松樹與水面的倒影。",
+"tags": [
+"特別名勝",
+"大名庭園",
+"紫雲山",
+"松平家"
+],
+"sources": [
+"https://ja.wikipedia.org/wiki/栗林公園"
+],
+"confidence": "high",
+"prompt_en": "A classic Japanese stroll garden with a calm pond, a gently arched stone bridge, carefully pruned pines on a small island, a forested mountain rising behind, a thatched tea-house on the shore, soft clear morning light with water reflections, no text, no signs, no recognizable people"
+},
+{
+"title_zh": "丸龜城",
+"title_ja": "丸亀城",
+"category": "城郭史蹟",
+"area_zh": "丸龜市",
+"summary_zh": "擁有日本最高總高度石垣與現存天守的平山城。",
+"body_zh": "丸龜城位於丸龜市，利用海拔66公尺的龜山建成，別名龜山城、蓬萊城，為漩渦式的平山城。石垣從山麓到山頂疊築四重，總高度約60公尺，是日本總高度第一的石垣，並帶有稱為「扇之勾配」的優美弧度。本丸現存高15公尺的御三階櫓，是現存天守中規模最小者，與大手一之門、大手二之門同列重要文化財。城於1602年完成大致規模，1615年一國一城令時，藩主生駒正俊用樹木遮掩城郭而保住，因此天守與大手門並存，十分難得。",
+"facts": [
+{
+"label": "所在地",
+"value": "香川縣丸龜市（龜山公園）"
+},
+{
+"label": "開創／成因",
+"value": "生駒親正築城，1602年完成大致城郭"
+},
+{
+"label": "看點",
+"value": "四層疊築的高石垣、現存天守（重要文化財）、大手門"
+}
+],
+"best_season_zh": "春季（櫻花）與秋季",
+"tips_zh": "登上天守的坡道不短，建議穿好走的鞋。想拍石垣全景，可站在護城河對面的視角，清晨光線最柔和。",
+"tags": [
+"現存天守",
+"石垣",
+"扇之勾配",
+"重要文化財"
+],
+"sources": [
+"https://ja.wikipedia.org/wiki/丸亀城"
+],
+"confidence": "high",
+"prompt_en": "A hilltop castle with a small three-story white keep crowning enormous layered curved stone walls rising from a moat, cherry blossoms in the foreground, clear blue sky, soft early morning light, no text, no signs, no recognizable people"
+},
+{
+"title_zh": "金刀比羅宮",
+"title_ja": "金刀比羅宮",
+"category": "神社寺院",
+"area_zh": "仲多度郡琴平町",
+"summary_zh": "象頭山中腹的「讚岐金比羅」，以長石階參道聞名。",
+"body_zh": "金刀比羅宮位於琴平町象頭山中腹，俗稱「讚岐的金毘羅先生」，明治神佛分離之前稱為金毘羅大權現，是神佛習合的信仰中心，如今祭祀大物主神。山形像象頭，因而名為象頭山。通往本宮的參道石階共785級（海拔251公尺），登到奧社則要1368級（海拔421公尺）。每年例大祭會舉辦利用石階的「金比羅石段馬拉松」。本宮是重要文化財，境內還有旭社等建築與書院，是四國首屈一指的參拜聖地，登階後可俯瞰讚岐平原。",
+"facts": [
+{
+"label": "所在地",
+"value": "香川縣仲多度郡琴平町象頭山中腹"
+},
+{
+"label": "開創／成因",
+"value": "舊稱金毘羅大權現，明治初年神佛分離後改為神社"
+},
+{
+"label": "看點",
+"value": "785級石階到本宮、1368級到奧社、重要文化財本宮"
+}
+],
+"best_season_zh": "春秋季及清晨",
+"tips_zh": "石階爬到本宮約需一小時，建議清晨出發避開人潮與炎熱。沿途有多處可休息，體力不足可考慮只到本宮。",
+"tags": [
+"金毘羅",
+"象頭山",
+"石階參道",
+"神佛分離"
+],
+"sources": [
+"https://ja.wikipedia.org/wiki/金刀比羅宮"
+],
+"confidence": "high",
+"prompt_en": "A long stone staircase climbing a forested mountainside lined with old stone lanterns and tall trees, a traditional wooden shrine gate and tiled roofs near the top, sunlight filtering through leaves, gentle morning mist, no text, no signs, no recognizable people"
+},
+{
+"title_zh": "屋島",
+"title_ja": "屋島",
+"category": "山岳高原",
+"area_zh": "高松市",
+"summary_zh": "平頂熔岩台地，源平屋島之戰的古戰場。",
+"body_zh": "屋島位於高松市，標高292公尺，是一座頂部平坦、周圍陡崖環繞的台地狀山，因形似屋頂而得名，是高松市的象徵，也是瀨戶內海航路的地標。這種典型的桌狀地形，由約1,400萬年前噴出的安山岩質熔岩形成，登山步道旁可見稱為「疊石」的板狀節理。江戶時代以前是離陸地的島，後來經鹽田與干拓才與陸地相連。663年白村江之戰後曾築山城「屋嶋城」，南嶺有相傳鑑真創建的屋島寺，山下的壇之浦則是源平合戰「屋島之戰」的戰場。",
+"facts": [
+{
+"label": "所在地",
+"value": "香川縣高松市（屋島）"
+},
+{
+"label": "開創／成因",
+"value": "約1,400萬年前安山岩質熔岩形成的桌狀台地，江戶時代起陸連"
+},
+{
+"label": "看點",
+"value": "南嶺的屋島寺、疊石、壇之浦古戰場、瀨戶內海眺望"
+}
+],
+"best_season_zh": "春秋季及黃昏",
+"tips_zh": "搭車或登山道皆可抵達山頂，日落前後的瀨戶內海景色最佳。南嶺與北嶺有步道相連，請留意天色以確保下山時間。",
+"tags": [
+"源平合戰",
+"熔岩台地",
+"屋島寺",
+"瀨戶內海"
+],
+"sources": [
+"https://ja.wikipedia.org/wiki/屋島"
+],
+"confidence": "high",
+"prompt_en": "A flat-topped mesa-like mountain with steep cliffs rising beside a calm inland sea, small islands in the distance, a hillside temple roof among trees, warm golden sunset sky reflected on the water, no text, no signs, no recognizable people"
+},
+{
+"title_zh": "直島",
+"title_ja": "直島",
+"category": "海島海岸",
+"area_zh": "香川郡直島町",
+"summary_zh": "從銅冶煉之島轉型為現代藝術之島的瀨戶內島嶼。",
+"body_zh": "直島是香川縣直島町的瀨戶內海島嶼，位於高松北方約13公里，東西約2公里、南北約5公里。1917年三菱金屬礦業在此建造銅冶煉所而繁榮，1960年代後轉衰。1985年福武哲彥與町長三宅親連相會，萌生在島上打造兒童聚集之地的構想，後由福武總一郎延續，在安藤忠雄監修下成為「直島計畫」。2004年地中美術館開館，2010年起與周邊島嶼舉辦瀨戶內國際藝術祭，草間彌生的紅南瓜是戶外標誌作品。",
+"facts": [
+{
+"label": "所在地",
+"value": "香川縣香川郡直島町（瀨戶內海）"
+},
+{
+"label": "開創／成因",
+"value": "1917年銅冶煉所發展工業，1985年起推動「直島計畫」轉型藝術島"
+},
+{
+"label": "看點",
+"value": "地中美術館、家計畫、戶外藝術作品、瀨戶內海景"
+}
+],
+"best_season_zh": "春秋季（藝術祭年份更熱鬧）",
+"tips_zh": "島上景點分散，可租電動自行車或搭町營巴士。熱門美術館須事前預約，船班與開放時間請先查官方資訊。",
+"tags": [
+"現代藝術",
+"安藤忠雄",
+"瀨戶內國際藝術祭",
+"地中美術館"
+],
+"sources": [
+"https://ja.wikipedia.org/wiki/直島"
+],
+"confidence": "high",
+"prompt_en": "A quiet Seto Inland Sea island coastline with a small fishing port, a minimalist concrete-and-glass building on a green hillside, a ferry silhouette on calm blue water, pale pastel sky and soft late-afternoon light, no text, no signs, no recognizable people"
+},
+{
+"title_zh": "小豆島寒霞溪",
+"title_ja": "寒霞渓",
+"category": "自然絕景",
+"area_zh": "小豆郡小豆島町・土庄町",
+"summary_zh": "小豆島的大溪谷，日本三大溪谷美之一，紅葉絕景。",
+"body_zh": "寒霞溪位於小豆島，介於星之城山與美之原高原之間，東西長7公里、南北寬4公里，是約1,300萬年前火山活動堆積的凝灰角礫岩，再經地殼變動與風雨侵蝕而成的斷崖奇岩群。名稱原作「鍵掛」等寫法，指崩落的崖壁，明治初年儒學者藤澤南岳改稱寒霞溪。1923年被指定為國家名勝，也是1934年瀨戶內海國立公園設置的契機。可搭寒霞溪纜車，或沿「表十二景」登山道欣賞，新綠與紅葉時期尤其壯觀，可一覽溪谷與大海。",
+"facts": [
+{
+"label": "所在地",
+"value": "香川縣小豆島（小豆島町、土庄町一帶）"
+},
+{
+"label": "開創／成因",
+"value": "約1,300萬年前火山堆積物經侵蝕成斷崖奇岩，1923年列國家名勝"
+},
+{
+"label": "看點",
+"value": "表十二景登山道、寒霞溪纜車、紅葉與瀨戶內海眺望"
+}
+],
+"best_season_zh": "秋季（紅葉）與新綠季",
+"tips_zh": "紅葉旺季纜車與山路易塞，建議早上出發。可選纜車上山、步道下山，欣賞奇岩景觀，注意鞋底防滑。",
+"tags": [
+"日本三大溪谷美",
+"小豆島",
+"紅葉",
+"國家名勝"
+],
+"sources": [
+"https://ja.wikipedia.org/wiki/寒霞渓"
+],
+"confidence": "high",
+"prompt_en": "A deep rugged gorge with jagged rock pillars and cliffs covered in red, orange and green foliage, a distant calm sea with small islands beyond, hazy layers of mist, soft diffused autumn morning light, no text, no signs, no recognizable people"
+},
+{
+"title_zh": "父母濱",
+"title_ja": "父母ヶ浜",
+"category": "海島海岸",
+"area_zh": "三豐市仁尾町",
+"summary_zh": "退潮鏡面倒影，被稱為日本的烏尤尼的夕陽海灘。",
+"body_zh": "父母濱位於三豐市仁尾町，是面向燧灘的海岸，自古就是知名的海水浴場，並入選「四國八十八景」第70號，景名是「日落前魔幻時刻的父母濱夕陽」。2010年代起，因為退潮時水面呈鏡面、能拍出類似烏尤尼鹽湖的照片，在社群網站上走紅，周邊陸續開設咖啡店。三豐市觀光交流局指出，最佳拍攝時機是風平浪靜、日落前後約30分鐘的魔幻時刻，且日落時間最好與乾潮前後重疊。前往前宜先查日落與乾潮時間。",
+"facts": [
+{
+"label": "所在地",
+"value": "香川縣三豐市仁尾町（燧灘沿岸）"
+},
+{
+"label": "開創／成因",
+"value": "自古為海水浴場，2010年代因鏡面倒影照片在社群走紅"
+},
+{
+"label": "看點",
+"value": "退潮鏡面倒影、日落魔幻時刻、四國八十八景第70號"
+}
+],
+"best_season_zh": "日落與乾潮重疊的無風日",
+"tips_zh": "出發前先查日落時間與氣象廳的乾潮時刻，無風晴天最理想。公共交通班次少且假日停駛，自駕或搭乘觀光巴士較方便。",
+"tags": [
+"夕陽",
+"鏡面倒影",
+"燧灘",
+"四國八十八景"
+],
+"sources": [
+"https://ja.wikipedia.org/wiki/父母ヶ浜"
+],
+"confidence": "high",
+"prompt_en": "A wide shallow tidal beach at sunset with a thin film of water creating a mirror reflection of a pink and orange gradient sky, tiny distant wooden posts on the sand, calm sea at the horizon, no text, no signs, no recognizable people"
+},
+{
+"title_zh": "善通寺",
+"title_ja": "善通寺",
+"category": "神社寺院",
+"area_zh": "善通寺市",
+"summary_zh": "弘法大師空海誕生地，真言宗善通寺派總本山。",
+"body_zh": "善通寺位於善通寺市，是真言宗善通寺派總本山，與高野山、東寺並列弘法大師三大靈場，也是四國八十八所第七十五番札所。真言宗開祖空海出生於讚岐國，據《多度郡屏風浦善通寺之記》，寺院由空海之父佐伯田公（諱善通）捐地，於807年開建、813年落成，仿其師惠果所居的長安青龍寺而建。境內分為創建地的東院（伽藍）與空海誕生地的西院（誕生院），寺域約4萬5千平方公尺。1558年遭兵火燒毀，後獲生駒氏等庇護重建。",
+"facts": [
+{
+"label": "所在地",
+"value": "香川縣善通寺市"
+},
+{
+"label": "開創／成因",
+"value": "807年起建，813年落成，空海出生地"
+},
+{
+"label": "看點",
+"value": "東院伽藍、西院誕生院、四國八十八所第七十五番"
+}
+],
+"best_season_zh": "春秋季及清晨",
+"tips_zh": "境內分東院與西院，兩處相隔一條馬路，需預留約一小時分別參拜。若順路做遍路巡禮，可拿納經帳請寺方蓋章。",
+"tags": [
+"空海",
+"弘法大師",
+"四國八十八所",
+"真言宗"
+],
+"sources": [
+"https://ja.wikipedia.org/wiki/善通寺"
+],
+"confidence": "high",
+"prompt_en": "A large Buddhist temple precinct with a tall wooden five-story pagoda rising above a tiled hall, a wide gravel courtyard and an old camphor tree in the foreground, soft clear morning light, quiet solemn atmosphere, no text, no signs, no recognizable people"
+}
+]
+}

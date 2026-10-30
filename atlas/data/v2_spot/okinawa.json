@@ -1,0 +1,285 @@
+{
+ "id": "okinawa",
+ "spots": [
+  {
+   "title_zh": "沖繩美麗海水族館",
+   "title_ja": "沖縄美ら海水族館",
+   "category": "主題設施",
+   "area_zh": "本部町（海洋博公園內）",
+   "summary_zh": "大水槽裡有鯨鯊的海洋水族館",
+   "body_zh": "沖繩美麗海水族館位於沖繩本島西北部本部半島的備瀨崎附近，在國營沖繩紀念公園（海洋博公園）內。「ちゅらうみ」在沖繩方言是「清麗的海」之意。館內有水量7,500立方公尺的大水槽「黑潮之海」，完成當時是世界最大，鯨鯊與鬼蝠魟悠游其中。館方以世界首度長期飼育鯨鯊成功著稱，總展示槽數77個，另有珊瑚礁與深海展區，館外還有可免費參觀的設施。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "沖繩縣國頭郡本部町，海洋博公園內"
+    },
+    {
+     "label": "開創／成因",
+     "value": "沖繩紀念公園內的水族館，由沖繩美麗島財團管理營運"
+    },
+    {
+     "label": "看點",
+     "value": "黑潮之海大水槽、鯨鯊與鬼蝠魟、77個展示槽"
+    }
+   ],
+   "best_season_zh": "四季皆宜",
+   "tips_zh": "園區廣大，除館內外還有免費的海豚表演設施；開館時間與票價請查官方網站，建議早點入場避開人潮。",
+   "tags": [
+    "水族館",
+    "鯨鯊",
+    "黑潮之海",
+    "海洋博公園"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/沖縄美ら海水族館"
+   ],
+   "confidence": "high",
+   "prompt_en": "Enormous aquarium tank viewed from the dark viewing hall, a giant whale shark and a large manta ray gliding through blue water with schools of small fish, soft blue light rippling across the tank wall and floor, no text, no signs, no recognizable people"
+  },
+  {
+   "title_zh": "竹富島",
+   "title_ja": "竹富島",
+   "category": "海島海岸",
+   "area_zh": "竹富町（八重山列島）",
+   "summary_zh": "珊瑚礁環繞的低平離島",
+   "body_zh": "竹富島位於八重山列島中心石垣島南方約6公里，從石垣港搭高速船約10分鐘可達。島嶼由隆起的珊瑚礁石灰岩構成，地勢平坦，周長約9公里，全島屬西表石垣國立公園，西側有人氣海灘「コンドイ浜」，以及以星砂聞名的皆治浜。島位於日本最大珊瑚礁石西礁湖內，周邊珊瑚群落發達，也是潛水者喜愛的海域。島名據傳來自傳說人物タキンドゥン。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "沖繩縣八重山郡竹富町，石垣島南約6公里"
+    },
+    {
+     "label": "開創／成因",
+     "value": "隆起珊瑚礁形成的低島，位於石西礁湖內"
+    },
+    {
+     "label": "看點",
+     "value": "コンドイ浜、星砂海灘、周邊珊瑚礁"
+    }
+   ],
+   "best_season_zh": "春〜秋",
+   "tips_zh": "從石垣港乘高速船約10分鐘可達；島嶼平坦、周長約9公里，夏季日曬強，記得補水防曬，往返船班請事先查詢。",
+   "tags": [
+    "離島",
+    "珊瑚礁",
+    "星砂",
+    "八重山"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/竹富島"
+   ],
+   "confidence": "medium",
+   "prompt_en": "Flat small island ringed by shallow turquoise lagoon and white coral sand beach, gentle clear waves in the foreground, a low line of green trees across the middle ground, deep blue horizon and bright clouds, high midday sun, no text, no signs, no recognizable people"
+  },
+  {
+   "title_zh": "齋場御嶽",
+   "title_ja": "斎場御嶽",
+   "category": "神社寺院",
+   "area_zh": "南城市（知念）",
+   "summary_zh": "琉球王國最高位的聖地",
+   "body_zh": "齋場御嶽位於南城市知念，是15至16世紀琉球王國尚真王時代的御嶽，「せーふぁ」意為最高位，是王國最高聖地。最深處的三庫理有三處拜所，其中「チョウノハナ」格調最高，傳說創世神アマミク沿著クバ樹降臨。這裡曾是國家最高神職聞得大君就任儀式「御新下り」的場所，過去御嶽男子禁制，國王也須改穿女裝式衣襟才能越過入口。2000年與首里城跡等列入世界遺產，出土品被指定為國家重要文化財。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "沖繩縣南城市知念"
+    },
+    {
+     "label": "開創／成因",
+     "value": "15至16世紀尚真王時代的王國最高御嶽"
+    },
+    {
+     "label": "看點",
+     "value": "三庫理拜所、世界遺產、聞得大君的就任儀式聖地"
+    }
+   ],
+   "best_season_zh": "四季皆宜",
+   "tips_zh": "此處是現役聖地，請保持肅靜並遵守導覽指示；三庫理內部目前禁止進入，因此無法再從那裡遙拜久高島。",
+   "tags": [
+    "御嶽",
+    "世界遺產",
+    "琉球信仰",
+    "聖地"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/斎場御嶽"
+   ],
+   "confidence": "high",
+   "prompt_en": "Sacred forest sanctuary with two huge leaning slabs of limestone forming a triangular passage, dense subtropical trees and ferns around, a stone-paved path in the foreground, soft green dappled light filtering through leaves, quiet mysterious mood, no text, no signs, no recognizable people"
+  },
+  {
+   "title_zh": "今歸仁城跡",
+   "title_ja": "今帰仁城跡",
+   "category": "城郭史蹟",
+   "area_zh": "今歸仁村",
+   "summary_zh": "北山王國的石灰岩城堡遺址",
+   "body_zh": "今歸仁城位於沖繩縣今歸仁村，別名北山城，是14世紀琉球王國成立前北山王的居城，目前已指定為國家史蹟，並屬世界文化遺產。發現的城郭跡推定築於12至13世紀，文獻上最早的記載見於明朝《明太祖實錄》。1416年北山被中山王尚巴志所滅，之後設置北山監守，1609年琉球遭侵攻，1665年監守廢止。城內出土了大量中國與東南亞陶瓷，反映當時繁榮的貿易活動。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "沖繩縣國頭郡今歸仁村"
+    },
+    {
+     "label": "開創／成因",
+     "value": "12至13世紀築城，14世紀為北山王居城"
+    },
+    {
+     "label": "看點",
+     "value": "石灰岩石垣、世界遺產、出土的中國與東南亞陶瓷"
+    }
+   ],
+   "best_season_zh": "四季皆宜",
+   "tips_zh": "城跡佔地廣，石垣沿山勢起伏，建議穿防滑好走的鞋；出土陶瓷可顯示昔日貿易盛況，入場資訊請查官方。",
+   "tags": [
+    "グスク",
+    "世界遺產",
+    "北山王",
+    "石垣"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/今帰仁城"
+   ],
+   "confidence": "high",
+   "prompt_en": "Curved ancient limestone castle walls snaking along a green ridge, wide gate and stone steps in the foreground, subtropical trees along the wall, distant blue sea and sky behind, warm late-afternoon light, no text, no signs, no recognizable people"
+  },
+  {
+   "title_zh": "萬座毛",
+   "title_ja": "万座毛",
+   "category": "自然絕景",
+   "area_zh": "恩納村",
+   "summary_zh": "象鼻形奇岩的海崖草原",
+   "body_zh": "萬座毛位於沖繩縣恩納村，是面向東海、標高約20公尺的琉球石灰岩斷崖，有一塊形似象鼻的奇岩，崖上是平坦的草坪台地。1726年尚敬王巡視國頭時造訪恩納，村民在這片草地跳臼太鼓歡迎，國王讚歎此地是「足以讓萬人坐下的毛（草地）」，因而得名。1972年指定為縣名勝，位於沖繩海岸國定公園內，北東側崖地帶的石灰岩植物群落則是縣天然紀念物。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "沖繩縣國頭郡恩納村，東海海岸"
+    },
+    {
+     "label": "開創／成因",
+     "value": "琉球石灰岩的海蝕斷崖，1726年尚敬王讚歎而得名"
+    },
+    {
+     "label": "看點",
+     "value": "象鼻岩、崖上草坪、石灰岩植物群落"
+    }
+   ],
+   "best_season_zh": "四季皆宜",
+   "tips_zh": "崖頂是開闊草坪，走動時請留在步道與護欄內；北東側崖地帶有受保護的石灰岩植物群落，請勿採摘。",
+   "tags": [
+    "象鼻岩",
+    "海崖",
+    "琉球石灰岩",
+    "名勝"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/万座毛"
+   ],
+   "confidence": "high",
+   "prompt_en": "Limestone sea cliff with a rock formation shaped like an elephant trunk reaching over the sea, flat green lawn on the clifftop in the foreground, deep blue ocean waves below, golden sunset light on the cliff face, no text, no signs, no recognizable people"
+  },
+  {
+   "title_zh": "古宇利島",
+   "title_ja": "古宇利島",
+   "category": "海島海岸",
+   "area_zh": "今歸仁村",
+   "summary_zh": "以大橋連通本島的碧海小島",
+   "body_zh": "古宇利島屬今歸仁村，位於沖繩本島北部屋我地島之北，面積約3.17平方公里、周長約7.9公里，最高點107公尺，是圓形台地狀的小島，周邊被潟湖與外洋環抱。2005年2月8日古宇利大橋開通，讓島嶼與本島以橋相連。島上自古半農半漁，種植甘蔗與紅芋，並有海膽漁與水雲（モズク）養殖。人口約346人，分為三個聚落。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "沖繩縣國頭郡今歸仁村，屋我地島北方"
+    },
+    {
+     "label": "開創／成因",
+     "value": "圓形台地狀小島，2005年古宇利大橋開通"
+    },
+    {
+     "label": "看點",
+     "value": "潟湖與外洋、古宇利大橋、島上農漁風光"
+    }
+   ],
+   "best_season_zh": "春〜秋",
+   "tips_zh": "可從屋我地島方向開車過橋，沿島環繞一圈約8公里；島上居民生活與農漁業仍活躍，拍照時請尊重當地人。",
+   "tags": [
+    "離島",
+    "古宇利大橋",
+    "潟湖",
+    "海岸"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/古宇利島"
+   ],
+   "confidence": "medium",
+   "prompt_en": "Long low bridge curving across shallow turquoise lagoon toward a green round island, white sand patches under clear water in the foreground, small waves, bright blue sky and soft clouds, high clear daylight, no text, no signs, no recognizable people"
+  },
+  {
+   "title_zh": "識名園",
+   "title_ja": "識名園",
+   "category": "庭園公園",
+   "area_zh": "那霸市（真地）",
+   "summary_zh": "琉球王家的中琉折衷迴遊庭園",
+   "body_zh": "識名園位於那霸市真地，是琉球王家的別邸庭園，因位於首里城南方又稱南苑，完成於1799年尚溫時代，建築與庭園融合中國與沖繩的折衷樣式，當時用來款待中國皇帝派來的冊封使，相當於迎賓館。園內有稱為「勸耕台」的瞭望台，卻看不見海，據說是為了讓琉球看起來更大。二戰中多數建築遭毀，1975至1995年復原。2000年指定為國家特別名勝並列入世界遺產。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "沖繩縣那霸市真地"
+    },
+    {
+     "label": "開創／成因",
+     "value": "尚穆時代起造，1799年尚溫時代完成，二戰後復原"
+    },
+    {
+     "label": "看點",
+     "value": "心字池與六角堂、中國風石橋、育德泉"
+    }
+   ],
+   "best_season_zh": "四季皆宜",
+   "tips_zh": "園內有育德泉，生長著國家天然紀念物的淡水紅藻シマチスジノリ；每年11月3日有歌會，11月第四個週日有地方傳統表演。",
+   "tags": [
+    "琉球庭園",
+    "世界遺產",
+    "冊封使",
+    "特別名勝"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/識名園"
+   ],
+   "confidence": "high",
+   "prompt_en": "Traditional Ryukyuan garden with a calm pond, a small hexagonal pavilion on an island linked by a gently arched Chinese-style stone bridge, subtropical trees and red-tiled roofs reflected in the water, soft afternoon light, no text, no signs, no recognizable people"
+  },
+  {
+   "title_zh": "玉泉洞",
+   "title_ja": "玉泉洞",
+   "category": "自然絕景",
+   "area_zh": "南城市（玉城）",
+   "summary_zh": "沖繩南部的大型鐘乳洞",
+   "body_zh": "玉泉洞位於南城市玉城，是沖繩島南部的鐘乳洞，廣義指沿雄樋川流域發達、全長超過5,000公尺的洞窟群，狹義指其中的前川第6洞。觀光洞長約800公尺，1972年4月28日開放，1987年設置了世界首座洞內電扶梯。地下約30公尺有水流貫穿洞內，棲息著沖繩小菊頭蝠、大鰻等生物。舊入口的隧道式階梯利用洞內穩定的溫度，作為古酒（クース）甕的貯藏處。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "沖繩縣南城市玉城前川，沖繩世界園區內"
+    },
+    {
+     "label": "開創／成因",
+     "value": "琉球石灰岩地層受侵蝕形成，1972年開放觀光"
+    },
+    {
+     "label": "看點",
+     "value": "洞內鐘乳石、地下水流、古酒甕貯藏處"
+    }
+   ],
+   "best_season_zh": "四季皆宜",
+   "tips_zh": "洞內溫度穩定但濕度高，路面可能濕滑，請穿防滑鞋；洞外所在的園區另有其他設施，行程可一併安排。",
+   "tags": [
+    "鐘乳洞",
+    "洞窟",
+    "古酒",
+    "琉球石灰岩"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/玉泉洞"
+   ],
+   "confidence": "high",
+   "prompt_en": "Inside a large limestone cave, dense stalactites hanging from the ceiling and stalagmites rising from the floor, a lit walkway with a handrail leading into the depth, warm amber and blue lights on the rock surfaces, cool damp atmosphere, no text, no signs, no recognizable people"
+  }
+ ]
+}

@@ -1,0 +1,808 @@
+{
+ "id": "gunma",
+ "name_zh": "群馬",
+ "name_ja": "群馬県",
+ "region": "關東",
+ "overview": {
+  "intro_zh": "群馬縣位於關東平原西北，是日本少數內陸縣之一，面積約6362平方公里，人口約194萬。縣廳在前橋，最大城市是高崎。這裡有草津、伊香保等名湯，有世界遺產富岡製絲場，也有尾瀨濕原、谷川岳的自然景觀。冬季刮強勁的乾燥北風，被稱為「空風」；農產以蒟蒻、高原高麗菜聞名，達摩產量亦高。",
+  "capital_zh": "前橋",
+  "area_km2": 6362,
+  "population_approx": "約194萬（2020年）",
+  "flower_zh": "蓮華躑躅（レンゲツツジ）",
+  "bird_zh": "山雞（ヤマドリ）",
+  "tree_zh": "黑松（クロマツ）",
+  "climate_zh": "內陸氣候；夏熱，冬季乾燥且有強風（空風），山區多雪。",
+  "access_zh": "東京搭新幹線至高崎約50分鐘；再轉乘JR或巴士往各溫泉地。",
+  "specialties_zh": [
+   "蒟蒻",
+   "高崎達摩",
+   "烤饅頭",
+   "水澤烏龍麵",
+   "草津溫泉",
+   "高原高麗菜"
+  ],
+  "best_season_zh": "春至秋季賞景健行；冬季泡湯滑雪"
+ },
+ "items": {
+  "architecture": {
+   "title_zh": "富岡製絲場",
+   "title_ja": "富岡製糸場",
+   "summary_zh": "明治政府創辦的官營機械繅絲廠，世界遺產。",
+   "body_zh": "富岡製絲場位於群馬縣富岡市，1872年由明治政府創辦，是日本最早的近代官營機械繅絲示範工廠，引進法國技術，以推廣機械繅絲。建築採「木骨磚造」：以木框架砌入紅磚，再覆以日式瓦屋頂，中西合璧。工廠後來轉由民間企業經營，1987年停止操業，其後建築大多保存完好。繅絲所、東西置繭所等於2014年被列為國寶，同年以「富岡製絲場與絹產業遺產群」登錄世界文化遺產。現為開放參觀的歷史遺址，可看到巨大的紅磚倉庫與繅絲機器。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "群馬縣富岡市"
+    },
+    {
+     "label": "創辦",
+     "value": "1872年（明治5年）"
+    },
+    {
+     "label": "結構",
+     "value": "木骨磚造、瓦屋頂"
+    },
+    {
+     "label": "世遺登錄",
+     "value": "2014年"
+    },
+    {
+     "label": "門票",
+     "value": "收費參觀，價格請查官方網站"
+    }
+   ],
+   "best_season_zh": "全年；春秋天氣舒適",
+   "tips_zh": "建議預留約2小時，搭配導覽才能看懂機器與建築；上信電鐵「上州富岡站」步行約15分鐘。",
+   "tags": [
+    "世界遺產",
+    "明治",
+    "紅磚",
+    "絲綢"
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Tomioka_Silk_Mill",
+    "https://ja.wikipedia.org/wiki/%E5%AF%8C%E5%B2%A1%E8%A3%BD%E7%B3%B8%E5%A0%B4"
+   ],
+   "confidence": "high",
+   "prompt_en": "Tomioka Silk Mill red brick warehouse with wooden frame and tiled roof, long facade with rows of arched windows, clear blue sky, wide shot"
+  },
+  "food": {
+   "title_zh": "烤饅頭",
+   "title_ja": "焼きまんじゅう",
+   "summary_zh": "竹籤串起、塗味噌醬炭烤的群馬鄉土點心。",
+   "body_zh": "烤饅頭是群馬縣的鄉土小吃：把以麴發酵、蒸好的無餡饅頭插上竹籤，刷上以黑糖或水飴調成的濃稠甜味噌醬，再放在炭火上烤出焦香。起源一般認為在幕末（19世紀中期），以前橋發祥說最有力，但伊勢崎、沼田等地的老店也各自自稱元祖。外皮微焦、內裡鬆軟，鹹甜交織，是當地人從小吃到大的輕食，也常在祭典與車站附近的店面販售。味噌醬的配方各家不同，是比較的樂趣。",
+   "facts": [
+    {
+     "label": "起源",
+     "value": "幕末（19世紀中期），前橋發祥說有力"
+    },
+    {
+     "label": "做法",
+     "value": "發酵蒸饅頭刷甜味噌醬炭烤"
+    },
+    {
+     "label": "主要地區",
+     "value": "前橋、高崎、伊勢崎一帶"
+    },
+    {
+     "label": "特色",
+     "value": "無餡、鹹甜焦香"
+    }
+   ],
+   "best_season_zh": "全年",
+   "tips_zh": "現烤趁熱吃最好，約需等候數分鐘；各店味噌醬甜度不同，可多家比較。",
+   "tags": [
+    "鄉土小吃",
+    "味噌",
+    "炭烤",
+    "甜點"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/%E7%84%BC%E3%81%8D%E3%81%BE%E3%82%93%E3%81%98%E3%82%85%E3%81%86"
+   ],
+   "confidence": "high",
+   "prompt_en": "Skewered yaki-manju steamed buns brushed with sweet miso sauce grilled over charcoal, smoke and steam, close-up on wooden counter"
+  },
+  "culture": {
+   "title_zh": "高崎達摩",
+   "title_ja": "高崎だるま",
+   "summary_zh": "日本達摩的重要產地，祈願與選舉常見。",
+   "body_zh": "達摩是日本代表性的不倒翁吉祥物，群馬縣高崎市是最主要的產地之一，被登記為地域團體商標「高崎達摩」。據傳其源頭是1667年（延寶5年）東皋心越禪師開山的少林山達磨寺，每年正月分發親筆的達磨像為護符；後來江戶後期文化年間，附近農家開始以木模和紙糊製成達摩，成為農閒副業。達摩一般先畫左眼許願，達成後再補右眼，政治人物當選時所用的「選舉達摩」大多出自高崎。每年元旦前後的達摩市也很熱鬧。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "群馬縣高崎市（少林山達磨寺一帶）"
+    },
+    {
+     "label": "起源",
+     "value": "1667年少林山達磨寺的達磨護符"
+    },
+    {
+     "label": "特色",
+     "value": "眉似鶴、鬍似龜，先點左眼"
+    },
+    {
+     "label": "名稱",
+     "value": "地域團體商標「高崎達摩」"
+    }
+   ],
+   "best_season_zh": "正月前後（達摩市）",
+   "tips_zh": "可到少林山達磨寺求達摩；有些工房開放彩繪體驗，需先預約。",
+   "tags": [
+    "達摩",
+    "祈願",
+    "傳統工藝",
+    "新年"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/%E3%81%A0%E3%82%8B%E3%81%BE",
+    "https://ja.wikipedia.org/wiki/%E5%B0%91%E6%9E%97%E5%B1%B1%E9%81%94%E7%A3%A8%E5%AF%BA"
+   ],
+   "confidence": "high",
+   "prompt_en": "Rows of red Takasaki daruma dolls with white faces on wooden shelves, one with a single painted eye, warm indoor light, close-up"
+  },
+  "history": {
+   "title_zh": "碓冰峠眼鏡橋",
+   "title_ja": "碓氷峠 めがね橋",
+   "summary_zh": "碓冰峠鐵路的紅磚四連拱橋，重要文化財。",
+   "body_zh": "碓冰第三橋樑俗稱「眼鏡橋」，位於安中市松井田町，原是信越本線橫川至輕井澤間的鐵路橋，1893年（明治26年）竣工，由英國技師帕烏納爾等人指導設計。這是一座四連拱的紅磚橋，全長約91公尺，橋面距河床約31公尺，使用約200萬塊磚，是現存磚造橋樑中規模最大者之一。因坡度陡，這段曾採用齒軌式（アプト式）鐵路，1963年新線通車後廢止。1993年與其他設施一同被指定為重要文化財，舊線現已改為步道「アプトの道」。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "群馬縣安中市松井田町"
+    },
+    {
+     "label": "竣工",
+     "value": "1893年（明治26年）"
+    },
+    {
+     "label": "規模",
+     "value": "全長約91公尺、高約31公尺"
+    },
+    {
+     "label": "文化財",
+     "value": "1993年重要文化財（碓冰峠鐵路設施）"
+    }
+   ],
+   "best_season_zh": "新綠與紅葉（10月下旬至11月）",
+   "tips_zh": "可從橫川站沿「アプトの道」步行前往，單程約40分鐘；橋上可行走，冬季注意結冰。",
+   "tags": [
+    "鐵道遺產",
+    "紅磚",
+    "拱橋",
+    "健行"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/%E7%A2%93%E6%B0%B7%E7%AC%AC%E4%B8%89%E6%A9%8B%E6%A2%81",
+    "https://en.wikipedia.org/wiki/Usui_Pass"
+   ],
+   "confidence": "high",
+   "prompt_en": "Usui Pass Meganebashi red-brick four-arch railway bridge spanning a lush green valley, mist among trees, wide low angle shot"
+  },
+  "mascot": {
+   "title_zh": "群馬吉祥物・小群",
+   "title_ja": "ぐんまちゃん",
+   "summary_zh": "以馬為原型的縣吉祥物；此處畫原創角色。",
+   "body_zh": "群馬縣的官方吉祥物「ぐんまちゃん」以馬為原型，初代於1983年作為在群馬舉辦的國民體育大會吉祥物登場，由漫畫家馬場のぼる設計；之後經過改版，成為縣的代表形象。群馬在古代是養馬與馬匹交易的重鎮，馬因此成為象徵。本項不重現任何官方商標吉祥物，而是畫一隻原創角色，取材於群馬的蒟蒻、達摩與溫泉三項象徵：圓潤柔軟的身形像蒟蒻，大圓眼睛像達摩，旁邊飄著溫泉蒸氣。",
+   "facts": [
+    {
+     "label": "官方吉祥物",
+     "value": "ぐんまちゃん（馬）"
+    },
+    {
+     "label": "初代登場",
+     "value": "1983年國民體育大會"
+    },
+    {
+     "label": "設計者",
+     "value": "馬場のぼる（初代）"
+    },
+    {
+     "label": "本項",
+     "value": "原創角色，取材蒟蒻、達摩、溫泉"
+    }
+   ],
+   "best_season_zh": "全年",
+   "tips_zh": "縣內車站與物產館常見吉祥物商品，可作伴手禮。",
+   "tags": [
+    "吉祥物",
+    "馬",
+    "蒟蒻",
+    "達摩"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/%E3%81%90%E3%82%93%E3%81%BE%E3%81%A1%E3%82%83%E3%82%93"
+   ],
+   "confidence": "medium",
+   "prompt_en": "Cute original konnyaku-jelly character with daruma-style round eyes and a soft rounded body, sitting on a tray beside hot spring steam, pastel storybook style. Original cute character, not replicating any existing trademarked mascot."
+  },
+  "scenery": {
+   "title_zh": "尾瀨原",
+   "title_ja": "尾瀬ヶ原",
+   "summary_zh": "高層濕原，木棧道穿越，拉姆薩爾濕地。",
+   "body_zh": "尾瀨位於群馬、福島、新潟、栃木四縣交界處，尾瀨原是被至佛山、燧岳等2000公尺級群山環繞的盆地型高層濕原，東西約6公里、南北約3公里，標高約1400公尺。尾瀨原與尾瀨沼在2005年登錄為拉姆薩爾公約濕地，2007年成為尾瀨國立公園。為保護環境，遊客只能走木棧道，水芭蕉（5至6月）與日光萱草（7月）是代表花季，秋季草原轉為金黃。需步行進入，沒有車路直達。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "群馬、福島、新潟、栃木四縣交界"
+    },
+    {
+     "label": "標高",
+     "value": "約1400公尺"
+    },
+    {
+     "label": "規模",
+     "value": "東西約6公里、南北約3公里"
+    },
+    {
+     "label": "登錄",
+     "value": "2005年拉姆薩爾濕地、2007年國立公園"
+    }
+   ],
+   "best_season_zh": "6月（水芭蕉）、7月（日光萱草）、10月（草紅葉）",
+   "tips_zh": "冬季積雪不開放一般步道；請穿防水登山鞋、備好雨具，並把垃圾帶走。",
+   "tags": [
+    "濕原",
+    "國立公園",
+    "健行",
+    "水芭蕉"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/%E5%B0%BE%E7%80%AC%E3%83%B6%E5%8E%9F",
+    "https://en.wikipedia.org/wiki/Oze_National_Park"
+   ],
+   "confidence": "high",
+   "prompt_en": "Oze wetlands with wooden boardwalk running across golden marsh grass and mountain reflected in pools, clear morning light"
+  },
+  "spot": {
+   "title_zh": "草津溫泉・湯畑",
+   "title_ja": "草津温泉 湯畑",
+   "summary_zh": "日本湧出量第一的溫泉，湯畑是街中心的象徵。",
+   "body_zh": "草津溫泉位於群馬縣草津町，標高約1200公尺，自然湧出量每分鐘超過3萬2千公升，居日本第一，被列為「日本三名泉」之一。溫泉為強酸性，殺菌力強，傳說「除了戀愛的病，什麼都能治」。街中心的湯畑是源泉池，熱水沿著木製導流槽（木樋）流動降溫，並散去硫化氫氣體，蒸氣瀰漫，夜間打燈尤其夢幻。湯畑周邊有足湯與商店街，是遊客必到之處。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "群馬縣吾妻郡草津町"
+    },
+    {
+     "label": "標高",
+     "value": "約1200公尺"
+    },
+    {
+     "label": "泉質",
+     "value": "強酸性（pH約2）"
+    },
+    {
+     "label": "湧出量",
+     "value": "每分鐘3萬2千公升以上，日本第一"
+    }
+   ],
+   "best_season_zh": "全年；冬季雪景、夏季涼爽",
+   "tips_zh": "湯畑周邊可免費泡足湯；強酸性泉水對肌膚刺激較強，泡後需沖洗，入浴時間不宜過長。",
+   "tags": [
+    "溫泉",
+    "湯畑",
+    "日本三名泉",
+    "強酸性"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/%E6%B9%AF%E7%95%91",
+    "https://ja.wikipedia.org/wiki/%E8%8D%89%E6%B4%A5%E6%B8%A9%E6%B3%89",
+    "https://en.wikipedia.org/wiki/Kusatsu,_Gunma"
+   ],
+   "confidence": "high",
+   "prompt_en": "Yubatake hot spring field in Kusatsu with long wooden channels and steaming mineral water at dusk, warm lantern glow around, townscape behind"
+  },
+  "experience": {
+   "title_zh": "水上泛舟",
+   "title_ja": "水上ラフティング",
+   "summary_zh": "在利根川上激流泛舟，日本知名泛舟地。",
+   "body_zh": "水上町位於群馬縣北部利根川上游，是關東代表性的戶外運動據點，春至秋季有多家業者提供泛舟（rafting）。利根川在此有急流與落差，融雪期水量大，刺激度最高，夏季則以清涼與嬉水為主。參加者需穿救生衣與安全帽，由嚮導帶領，團隊協力划行。此外水上也有登山、溪降（canyoning）與滑雪等活動，因此四季都有人來。行程多為半日到整日，適合初學者與家庭。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "群馬縣利根郡みなかみ町"
+    },
+    {
+     "label": "河川",
+     "value": "利根川上游"
+    },
+    {
+     "label": "適合",
+     "value": "初學者到進階，各業者分級"
+    },
+    {
+     "label": "同地活動",
+     "value": "溪降、登山、滑雪"
+    }
+   ],
+   "best_season_zh": "4月至11月；融雪期（4至6月）最刺激",
+   "tips_zh": "需預約並確認年齡與體重限制；請穿著可濕的衣物並備替換衣物。",
+   "tags": [
+    "戶外運動",
+    "泛舟",
+    "利根川",
+    "夏季"
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Minakami,_Gunma"
+   ],
+   "confidence": "medium",
+   "prompt_en": "Group in helmets and life jackets rafting through whitewater rapids on the Tone River in Minakami, splashing water, bright summer light"
+  },
+  "costume": {
+   "title_zh": "草津湯揉姿",
+   "title_ja": "草津 湯もみ衣装",
+   "summary_zh": "以長木板攪拌降溫溫泉水的傳統裝束。",
+   "body_zh": "「湯揉」是草津溫泉獨有的傳統：因泉水高溫，過去在入浴前不能加冷水稀釋（會稀釋藥效），於是人們邊唱草津節，邊用長木板（湯揉板）反覆攪拌，使水溫降低。如今在「熱之湯」湯小屋有湯揉表演，表演者多穿藍染的法被（半纏）、頭綁白巾，動作整齊、節奏明快。這項表演兼具生活智慧與民俗色彩，也是遊客了解草津溫泉文化的好機會。以下畫面僅畫匿名表演者的服裝，不涉及特定人物。",
+   "facts": [
+    {
+     "label": "地點",
+     "value": "群馬縣草津町「熱之湯」"
+    },
+    {
+     "label": "道具",
+     "value": "長木板（湯揉板）"
+    },
+    {
+     "label": "服裝",
+     "value": "藍染法被、白頭巾"
+    },
+    {
+     "label": "作用",
+     "value": "降溫但不加水，保留藥效"
+    }
+   ],
+   "best_season_zh": "全年（表演日以官網為準）",
+   "tips_zh": "表演通常每日數場，請先查時間；可付費體驗親手攪拌。",
+   "tags": [
+    "傳統民俗",
+    "溫泉",
+    "法被",
+    "草津節"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/%E6%B9%AF%E3%82%82%E3%81%BF",
+    "https://ja.wikipedia.org/wiki/%E8%8D%89%E6%B4%A5%E6%B8%A9%E6%B3%89"
+   ],
+   "confidence": "medium",
+   "prompt_en": "Anonymous women in indigo happi coats and white headbands stirring hot spring water with long wooden paddles in a wooden bath house at Kusatsu onsen, steam rising, side view"
+  }
+ },
+ "areas": [
+  {
+   "id": "gunma_kusatsu",
+   "name_zh": "草津",
+   "name_ja": "草津",
+   "intro_zh": "草津位於群馬縣西北部高原，標高約1200公尺，是日本最知名的溫泉街之一。街區圍繞湯畑展開，周邊有足湯、商店與傳統旅館。更往西是草津白根山，山頂湖泊湯釜呈乳綠色。夏季涼爽、冬季積雪，吸引滑雪客與泡湯客，是群馬觀光的核心。",
+   "items": {
+    "spot": {
+     "title_zh": "草津湯畑",
+     "title_ja": "草津温泉 湯畑",
+     "summary_zh": "溫泉源泉池與木製導流槽，街區中心。",
+     "body_zh": "湯畑是草津溫泉街中心的源泉池，溫泉水沿著木樋流動，一方面降溫，一方面讓硫化氫散逸，同時析出的湯之花（溫泉結晶）可採收。周邊是餐廳、旅館與伴手禮店，夜晚燈光照亮蒸氣，畫面很有氛圍。附近另有光泉寺、西之河原公園等景點，可徒步串聯，是遊覽草津的起點。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "群馬縣草津町"
+      },
+      {
+       "label": "特色",
+       "value": "木樋導流、湯之花採收"
+      },
+      {
+       "label": "夜間",
+       "value": "打燈，蒸氣更顯眼"
+      }
+     ],
+     "best_season_zh": "全年",
+     "tips_zh": "傍晚至夜間最美；周邊坡道石階多，請穿防滑鞋。",
+     "tags": [
+      "溫泉街",
+      "夜景",
+      "蒸氣",
+      "散步"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/%E6%B9%AF%E7%95%91"
+     ],
+     "confidence": "high",
+     "prompt_en": "Kusatsu Yubatake hot spring field with long wooden channels, steam rising, evening lantern glow, hotels in background"
+    },
+    "food": {
+     "title_zh": "草津溫泉饅頭",
+     "title_ja": "温泉まんじゅう",
+     "summary_zh": "溫泉街常見的現蒸小饅頭。",
+     "body_zh": "溫泉饅頭是日本溫泉地的代表性伴手點心，以酒饅頭或黑糖皮包裹紅豆餡蒸製，現蒸時熱氣騰騰。草津街上多家和菓子店在店頭現蒸現賣，皮薄而鬆軟，豆沙甜度不高，邊逛街邊吃剛好。各店會蓋上不同印章或以不同口味區分。群馬縣其他溫泉地如伊香保也有各自知名的溫泉饅頭，可比較差異。",
+     "facts": [
+      {
+       "label": "類型",
+       "value": "蒸饅頭，紅豆餡"
+      },
+      {
+       "label": "食用",
+       "value": "現蒸趁熱"
+      },
+      {
+       "label": "地點",
+       "value": "草津溫泉街各和菓子店"
+      }
+     ],
+     "best_season_zh": "全年；冬季尤其暖胃",
+     "tips_zh": "現蒸的最好吃，買了當場吃；伴手禮可選真空包裝。",
+     "tags": [
+      "和菓子",
+      "溫泉",
+      "伴手禮",
+      "紅豆"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/%E8%8D%89%E6%B4%A5%E6%B8%A9%E6%B3%89"
+     ],
+     "confidence": "medium",
+     "prompt_en": "Freshly steamed onsen manju buns in a bamboo steamer with stamped pattern, rising steam, warm shop light"
+    },
+    "scenery": {
+     "title_zh": "白根山湯釜",
+     "title_ja": "白根山 湯釜",
+     "summary_zh": "乳綠色火山口湖，需留意噴火警戒。",
+     "body_zh": "草津白根山是活火山，山頂的湯釜是一個直徑約數百公尺的酸性火口湖，湖水因溶解礦物呈乳綠色，與灰白色的火山岩岸形成強烈對比。標高約2160公尺，可由山頂停車場短步行到展望台。因火山活動，歷來多次實施入山限制，2018年本白根山也曾噴發。前往前務必查詢最新的火山警戒級別與開放狀況。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "群馬縣草津町、長野縣邊界一帶"
+      },
+      {
+       "label": "標高",
+       "value": "白根山約2160公尺"
+      },
+      {
+       "label": "湖水",
+       "value": "酸性、乳綠色"
+      }
+     ],
+     "best_season_zh": "夏至初秋（冬季道路封閉）",
+     "tips_zh": "出發前務必查氣象廳與當地公告的火山警戒與道路開放；火山氣體敏感者勿久留。",
+     "tags": [
+      "火山湖",
+      "活火山",
+      "絕景",
+      "高原"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/%E8%8D%89%E6%B4%A5%E6%B8%A9%E6%B3%89",
+      "https://en.wikipedia.org/wiki/Mount_Kusatsu-Shirane"
+     ],
+     "confidence": "medium",
+     "prompt_en": "Mount Shirane Yugama crater lake in milky emerald green, barren grey volcanic rim, clear sky, wide view"
+    }
+   }
+  },
+  {
+   "id": "gunma_ikaho",
+   "name_zh": "伊香保",
+   "name_ja": "伊香保",
+   "intro_zh": "伊香保溫泉位於榛名山東麓，以綿長的石階街聞名，是群馬的代表溫泉地之一。街上有傳統旅館、饅頭店與射箭場，風情濃厚。周邊還有水澤寺與水澤烏龍麵街道，以及榛名湖，可安排半日到一日的悠閒行程。",
+   "items": {
+    "spot": {
+     "title_zh": "伊香保石階街",
+     "title_ja": "伊香保温泉 石段街",
+     "summary_zh": "石階兩側旅館與商店並列的溫泉街。",
+     "body_zh": "伊香保溫泉的石階街是溫泉街的象徵，石階沿坡向上延伸，相傳約360餘級，兩側排列著旅館、饅頭店、遊戲場與商店。石階中央有溫泉流過，是暖色調的黃金湯。歷史上伊香保是江戶時代以來的溫泉療養地，近代也有文人到訪。傍晚點燈後，石階與木造建築顯得特別有情調，適合漫步。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "群馬縣渋川市伊香保町"
+      },
+      {
+       "label": "特色",
+       "value": "石階街、金色溫泉水"
+      },
+      {
+       "label": "級數",
+       "value": "約360餘級（以現場為準）"
+      }
+     ],
+     "best_season_zh": "全年；秋季紅葉",
+     "tips_zh": "石階陡，穿好走的鞋；溫泉饅頭店沿階可邊逛邊吃。",
+     "tags": [
+      "溫泉街",
+      "石階",
+      "懷舊",
+      "散步"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/%E4%BC%8A%E9%A6%99%E4%BF%9D%E6%B8%A9%E6%B3%89"
+     ],
+     "confidence": "medium",
+     "prompt_en": "Ikaho onsen stone steps street with wooden inns and lanterns on both sides, evening glow, steam, no signboard text"
+    },
+    "food": {
+     "title_zh": "水澤烏龍麵",
+     "title_ja": "水沢うどん",
+     "summary_zh": "與讚岐、稻庭並稱日本三大烏龍麵之一的說法。",
+     "body_zh": "水澤烏龍麵源於水澤寺（水澤觀音）一帶，據說最早是向參拜者提供的手打麵。麵條粗細適中、透明而Q彈，一般冷食，盛在竹籠上，沾醬油汁或芝麻醬食用。與讚岐烏龍麵、稻庭烏龍麵並稱「日本三大烏龍麵」的說法流傳甚廣（各說不一）。伊香保東南約4公里的「水澤烏龍麵街道」有一排老店，是當地午餐首選。",
+     "facts": [
+      {
+       "label": "起源",
+       "value": "水澤寺（水澤觀音）參道"
+      },
+      {
+       "label": "吃法",
+       "value": "冷麵配芝麻醬或醬油汁"
+      },
+      {
+       "label": "地點",
+       "value": "渋川市水澤烏龍麵街道"
+      }
+     ],
+     "best_season_zh": "全年；夏季冷麵尤佳",
+     "tips_zh": "假日午餐時段排隊多，建議避開高峰；可搭配天婦羅。",
+     "tags": [
+      "烏龍麵",
+      "手打",
+      "水澤寺",
+      "午餐"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/%E6%B0%B4%E6%B2%A2%E3%81%86%E3%81%A9%E3%82%93"
+     ],
+     "confidence": "high",
+     "prompt_en": "Mizusawa udon cold noodles on a bamboo tray with sesame dipping sauce, translucent firm noodles, wooden table"
+    },
+    "scenery": {
+     "title_zh": "榛名湖",
+     "title_ja": "榛名湖",
+     "summary_zh": "榛名山火山口湖與榛名富士。",
+     "body_zh": "榛名湖是榛名山的火山口湖，標高約1100公尺，湖面平靜，北側有圓錐形的榛名富士，倒映於水中。榛名山在6世紀末曾噴發。春季櫻花、夏季避暑、秋季紅葉都有景可看，冬季則有結冰的湖面與釣魚活動。環湖有步道、天鵝船與餐廳，距離伊香保車程約30分鐘，常與伊香保一起規劃。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "群馬縣高崎市榛名湖町"
+      },
+      {
+       "label": "類型",
+       "value": "火山口湖"
+      },
+      {
+       "label": "標高",
+       "value": "約1100公尺"
+      }
+     ],
+     "best_season_zh": "4月（櫻）與10月下旬（紅葉）",
+     "tips_zh": "清晨湖面最平靜，倒影最美；冬季山路可能結冰，請用雪胎。",
+     "tags": [
+      "火山湖",
+      "榛名山",
+      "避暑",
+      "倒影"
+     ],
+     "sources": [
+      "https://en.wikipedia.org/wiki/Lake_Haruna"
+     ],
+     "confidence": "medium",
+     "prompt_en": "Lake Haruna with the cone-shaped Haruna Fuji peak reflected in calm water, autumn morning mist"
+    }
+   }
+  },
+  {
+   "id": "gunma_tomioka",
+   "name_zh": "富岡",
+   "name_ja": "富岡",
+   "intro_zh": "富岡市以富岡製絲場聞名，是群馬絹產業遺產群的核心，周邊還有荒船風穴等相關遺跡。再往東是奇岩聳立的妙義山，屬於日本三大奇景的說法之一（各說不一）。富岡也是蒟蒻等農產的產地，適合歷史與山景並行的旅程。",
+   "items": {
+    "spot": {
+     "title_zh": "荒船風穴",
+     "title_ja": "荒船風穴",
+     "summary_zh": "絹產業遺產群的一部分，天然冷風養蠶種。",
+     "body_zh": "荒船風穴位於下仁田町，是利用山中岩縫自然吹出的冷風，貯藏蠶種的設施，屬於「富岡製絲場與絹產業遺產群」的構成資產之一。明治後期，養蠶農家需要在一年中分批孵蠶，冷藏蠶種可延後孵化，增加養蠶次數。遺址保存石砌的貯藏庫遺跡，位於深山中，可步行前往，現場有解說板。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "群馬縣甘樂郡下仁田町"
+      },
+      {
+       "label": "功能",
+       "value": "蠶種冷藏設施"
+      },
+      {
+       "label": "身分",
+       "value": "絹產業遺產群構成資產"
+      }
+     ],
+     "best_season_zh": "春至秋季",
+     "tips_zh": "位置偏遠，需先確認道路與開放狀況；穿登山鞋。",
+     "tags": [
+      "世界遺產",
+      "養蠶",
+      "冷風",
+      "石砌"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/%E8%8D%92%E8%88%B9%E9%A2%A8%E7%A9%B4",
+      "https://ja.wikipedia.org/wiki/%E5%AF%8C%E5%B2%A1%E8%A3%BD%E7%B3%B8%E5%A0%B4"
+     ],
+     "confidence": "medium",
+     "prompt_en": "Arafune Fuketsu stone-walled cold storage ruins in a forested mountain slope, cool mist from rock crevices, quiet morning"
+    },
+    "food": {
+     "title_zh": "上州蒟蒻料理",
+     "title_ja": "こんにゃく料理",
+     "summary_zh": "群馬產量居日本之冠的蒟蒻。",
+     "body_zh": "群馬縣是日本蒟蒻芋的主要產地，蒟蒻產量位居全國前列，尤以下仁田町一帶有名。蒟蒻以蒟蒻芋磨粉製成，口感Q彈、熱量低。當地常見做法有蒟蒻刺身（沾味噌或山葵醬油）、關東煮串、蒟蒻拉麵與甜點。下仁田蒟蒻的質地偏硬、帶有嚼勁。許多觀光工廠可參觀製作過程並現場試吃。",
+     "facts": [
+      {
+       "label": "產地",
+       "value": "群馬縣，尤其下仁田町"
+      },
+      {
+       "label": "原料",
+       "value": "蒟蒻芋"
+      },
+      {
+       "label": "吃法",
+       "value": "刺身、關東煮、串燒"
+      }
+     ],
+     "best_season_zh": "全年",
+     "tips_zh": "可選蒟蒻刺身搭配味噌；工廠體驗請事先查是否需預約。",
+     "tags": [
+      "蒟蒻",
+      "低熱量",
+      "鄉土料理",
+      "下仁田"
+     ],
+     "sources": [
+      "https://en.wikipedia.org/wiki/Konjac"
+     ],
+     "confidence": "medium",
+     "prompt_en": "Konnyaku sashimi slices and oden skewers stacked on a white plate with miso dip, simple wooden table"
+    },
+    "scenery": {
+     "title_zh": "妙義山",
+     "title_ja": "妙義山",
+     "summary_zh": "奇岩聳立的鋸齒山稜，紅葉名所。",
+     "body_zh": "妙義山位於群馬縣富岡市、下仁田町與安中市一帶，是由火山岩侵蝕形成的鋸齒狀山峰，山稜線犀利，與周邊平緩地形形成對比，與榛名山、赤城山並稱「上毛三山」。山中有妙義神社，位於山腳，建築裝飾華麗。秋季紅葉與岩壁交映，是攝影愛好者的熱門地。登山路線陡峭，部分有鎖鏈，需有經驗者前往。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "群馬縣富岡市、下仁田町、安中市"
+      },
+      {
+       "label": "類型",
+       "value": "火山岩侵蝕地形"
+      },
+      {
+       "label": "稱號",
+       "value": "上毛三山之一"
+      }
+     ],
+     "best_season_zh": "10月下旬至11月上旬",
+     "tips_zh": "登山難度高，初學者可只參拜妙義神社並從道路觀景；勿單獨攀登危險路段。",
+     "tags": [
+      "奇岩",
+      "紅葉",
+      "上毛三山",
+      "山景"
+     ],
+     "sources": [
+      "https://en.wikipedia.org/wiki/Mount_My%C5%8Dgi"
+     ],
+     "confidence": "medium",
+     "prompt_en": "Mount Myogi jagged rock peaks with autumn foliage in red and gold, dramatic ridges, soft morning light"
+    }
+   }
+  },
+  {
+   "id": "gunma_minakami",
+   "name_zh": "水上",
+   "name_ja": "水上",
+   "intro_zh": "水上位於群馬縣最北，是利根川上游的山間溫泉鄉，兼具滑雪、泛舟、登山等戶外活動。谷川岳是當地的象徵，新潟縣界線一帶為日本海與太平洋側氣候的分界。冬季雪量豐富，吸引滑雪客，春至秋季則有泛舟與溪降。",
+   "items": {
+    "spot": {
+     "title_zh": "谷川岳",
+     "title_ja": "谷川岳",
+     "summary_zh": "日本百名山，雲霧纏繞的雙耳峰。",
+     "body_zh": "谷川岳位於群馬與新潟縣界，是日本百名山之一，標高約1977公尺，雙峰（俗稱「雙耳」）高聳。山脈位在太平洋與日本海氣候的分界，天氣多變，降雪量大。由土合口搭纜車可至天神平，輕鬆賞景；也有多條登山路線，但因天候變化劇烈，歷史上發生過許多山難。夏季高山植物盛開，秋季紅葉由山頂向下蔓延。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "群馬縣與新潟縣界"
+      },
+      {
+       "label": "標高",
+       "value": "約1977公尺"
+      },
+      {
+       "label": "稱號",
+       "value": "日本百名山"
+      },
+      {
+       "label": "交通",
+       "value": "搭纜車至天神平"
+      }
+     ],
+     "best_season_zh": "6至7月（高山花）、10月（紅葉）",
+     "tips_zh": "天氣變化快，登山請備足防寒與雨具；初學者可只搭纜車賞景。",
+     "tags": [
+      "日本百名山",
+      "纜車",
+      "登山",
+      "高山植物"
+     ],
+     "sources": [
+      "https://en.wikipedia.org/wiki/Mount_Tanigawa"
+     ],
+     "confidence": "medium",
+     "prompt_en": "Mount Tanigawa twin peaks with drifting clouds above a green alpine slope, cable car line below, clear summer day"
+    },
+    "food": {
+     "title_zh": "溪流鹽烤香魚",
+     "title_ja": "川魚の塩焼き",
+     "summary_zh": "溪流香魚鹽烤，簡單而鮮美。",
+     "body_zh": "水上一帶有清澈的利根川溪流，夏季是香魚季，當地旅館與餐廳常提供鹽烤香魚。做法是將整尾香魚穿上竹籤，撒鹽後以炭火慢烤，皮脆肉嫩，吃的時候連肉到內臟的微苦一併享用。山間料理還有岩魚、山菜、蕎麥麵等。溫泉旅館的晚餐多以此類山河鮮為主。",
+     "facts": [
+      {
+       "label": "食材",
+       "value": "香魚、岩魚等溪魚"
+      },
+      {
+       "label": "做法",
+       "value": "鹽烤、炭火"
+      },
+      {
+       "label": "季節",
+       "value": "夏季（香魚季）"
+      }
+     ],
+     "best_season_zh": "6至9月",
+     "tips_zh": "香魚帶骨，可從背部慢慢剝下；搭配冰涼的日本酒更佳。",
+     "tags": [
+      "香魚",
+      "鹽烤",
+      "溪流",
+      "溫泉料理"
+     ],
+     "sources": [
+      "https://en.wikipedia.org/wiki/Minakami,_Gunma"
+     ],
+     "confidence": "low",
+     "prompt_en": "Salt-grilled sweetfish skewered over charcoal, riverside rustic setting, smoke rising"
+    },
+    "scenery": {
+     "title_zh": "奧利根山谷",
+     "title_ja": "奥利根",
+     "summary_zh": "水庫與深山峽谷的紅葉風景。",
+     "body_zh": "奧利根是利根川上游的山谷地帶，有水庫與峽谷，秋季紅葉由山頂向谷底推進，色彩層次分明。這裡遠離市區，交通較不便，因此人潮少，適合想要安靜賞楓的旅人。具體景點與開放時間隨季節而異，前往前建議向水上町的觀光協會查詢最新資訊。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "群馬縣みなかみ町北部"
+      },
+      {
+       "label": "特色",
+       "value": "水庫與峽谷紅葉"
+      },
+      {
+       "label": "注意",
+       "value": "部分道路冬季封閉"
+      }
+     ],
+     "best_season_zh": "10月中旬至下旬",
+     "tips_zh": "山區道路冬季封閉，請先查路況；手機訊號可能不穩。",
+     "tags": [
+      "紅葉",
+      "峽谷",
+      "水庫",
+      "秘境"
+     ],
+     "sources": [
+      "https://en.wikipedia.org/wiki/Minakami,_Gunma"
+     ],
+     "confidence": "low",
+     "prompt_en": "Okutone mountain valley in autumn leaves with a calm river and morning mist, red and gold trees"
+    }
+   }
+  }
+ ]
+}

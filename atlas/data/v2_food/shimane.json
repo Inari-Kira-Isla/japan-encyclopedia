@@ -1,0 +1,149 @@
+{
+ "id": "shimane",
+ "foods": [
+  {
+   "title_zh": "出雲蕎麥麵",
+   "title_ja": "出雲そば",
+   "category": "麵飯",
+   "summary_zh": "連皮磨粉、色深香濃，以割子與釜揚聞名。",
+   "body_zh": "出雲蕎麥麵採用連皮一起以石臼研磨的「挽きぐるみ」製法，麵色深黑、香氣濃烈。代表吃法有兩種：割子蕎麥麵以漆器圓形疊盒盛裝，通常三層為一人份，放上青蔥、海苔與柴魚片，把湯汁依序淋在每一層；釜揚蕎麥麵則連煮麵湯一起上桌，自己加入沾汁。相傳松平直政1638年轉任松江藩時帶來蕎麥職人，2022年獲認定為「傳統百年美食」。",
+   "facts": [
+    {"label": "起源", "value": "傳說1638年松平直政轉封松江時帶來職人"},
+    {"label": "主要食材", "value": "連皮石臼磨的蕎麥粉、青蔥、海苔、柴魚片"},
+    {"label": "吃法", "value": "割子（三層漆盒）或釜揚（連煮麵湯）"}
+   ],
+   "season_zh": "全年，新蕎麥季節尤佳",
+   "where_zh": "出雲大社周邊與松江的蕎麥麵老店",
+   "tags": ["蕎麥麵", "割子", "出雲", "百年美食"],
+   "sources": ["https://ja.wikipedia.org/wiki/出雲そば"],
+   "confidence": "high",
+   "prompt_en": "Three stacked round red lacquer warikawa soba boxes, the top one open showing dark buckwheat noodles topped with scallions, nori and bonito flakes, a small pitcher of dipping broth beside, dark wooden table, soft warm light, no text"
+  },
+  {
+   "title_zh": "宍道湖蜆",
+   "title_ja": "宍道湖のしじみ",
+   "category": "特產食材",
+   "summary_zh": "宍道湖產量日本第一的大和蜆，湯頭鮮甜。",
+   "body_zh": "宍道湖的蜆（ヤマトシジミ）占湖內漁獲量約九成。漁獲量在1970年代達到最盛，之後急速減少，2013年一度跌破2000噸，2014年回升，湖沼別與縣別都重奪日本第一。蜆也是「宍道湖七珍」之一。本次未能核實具體的料理起源與最佳季節，一般做法是做成味噌湯或清湯，連殼煮出鮮甜湯汁，依店家說明食用。",
+   "facts": [
+    {"label": "起源", "value": "宍道湖的湖產漁業，細節歷史未核實"},
+    {"label": "主要食材", "value": "大和蜆（ヤマトシジミ）"},
+    {"label": "吃法", "value": "味噌湯、清湯（一般做法）"}
+   ],
+   "season_zh": "未核實",
+   "where_zh": "松江市宍道湖畔的料理店與旅館",
+   "tags": ["蜆", "宍道湖", "七珍", "湯品"],
+   "sources": ["https://ja.wikipedia.org/wiki/宍道湖"],
+   "confidence": "medium",
+   "prompt_en": "A small ceramic bowl of clear shijimi clam soup with open dark shells and a sprinkle of green scallion, steam rising, wooden tray, soft lake-side morning light, no text"
+  },
+  {
+   "title_zh": "喉黑",
+   "title_ja": "のどぐろ（アカムツ）",
+   "category": "海鮮",
+   "summary_zh": "被稱為白身魚中的鮪魚腹，島根濱田的市之魚。",
+   "body_zh": "のどぐろ即赤鯥（アカムツ），在島根縣濱田市以「ノドグロ」之名被指定為市之魚。山陰與北陸一帶約從2014年起逐漸被視為高級魚。肉質脂肪豐厚，被形容為「白身魚的大腹」，味道獨特而高雅，不論燒烤或燉煮都好吃，百科記載一年四季都有油脂。常見做法為鹽烤與生魚片，適合第一次來訪的旅客。",
+   "facts": [
+    {"label": "起源", "value": "2014年起在山陰、北陸被視為高級魚"},
+    {"label": "主要食材", "value": "赤鯥（アカムツ）"},
+    {"label": "吃法", "value": "燒烤、燉煮，亦可生食"}
+   ],
+   "season_zh": "百科記載全年皆有油脂",
+   "where_zh": "濱田、出雲一帶港口的海鮮店",
+   "tags": ["喉黑", "高級魚", "濱田", "海鮮"],
+   "sources": ["https://ja.wikipedia.org/wiki/アカムツ"],
+   "confidence": "medium",
+   "prompt_en": "A whole grilled nodoguro fish with glistening golden-red skin and lightly charred edges on a long rectangular ceramic plate, a lemon wedge and grated daikon beside, dark wooden table, soft side light, no text"
+  },
+  {
+   "title_zh": "隱岐岩牡蠣",
+   "title_ja": "隠岐の岩ガキ",
+   "category": "海鮮",
+   "summary_zh": "隱岐海域夏季盛產的大顆岩牡蠣。",
+   "body_zh": "岩牡蠣（イワガキ）棲息於潮線下至水深20公尺處，以夏季為旬，也稱「夏牡蠣」，有天然與養殖兩種。隱岐是島根縣的離島群，常被介紹為岩牡蠣產地，但這次打開的百科頁面並沒有提及隱岐岩牡蠣或「春香」等品牌，因此隱岐的具體產期、品牌與養殖方式都未核實。常見吃法為生食，可擠檸檬或搭配醬汁享用。",
+   "facts": [
+    {"label": "起源", "value": "隱岐產地細節未核實"},
+    {"label": "主要食材", "value": "岩牡蠣（イワガキ）"},
+    {"label": "吃法", "value": "生食，擠檸檬（一般吃法）"}
+   ],
+   "season_zh": "夏季（岩牡蠣一般旬期）",
+   "where_zh": "隱岐諸島及松江一帶的海鮮店",
+   "tags": ["岩牡蠣", "隱岐", "夏季", "海鮮"],
+   "sources": ["https://ja.wikipedia.org/wiki/イワガキ", "https://ja.wikipedia.org/wiki/隠岐諸島"],
+   "confidence": "low",
+   "prompt_en": "One large raw rock oyster on its rough craggy shell resting on crushed ice on a stone plate, a lemon wedge beside, cool blue-white light, wooden table, no text"
+  },
+  {
+   "title_zh": "鯛魚碎飯",
+   "title_ja": "うずめ飯",
+   "category": "鄉土料理",
+   "summary_zh": "把鯛魚與蔬菜藏在飯下、淋高湯吃的津和野名飯。",
+   "body_zh": "うずめ飯（埋飯）源自島根縣西部石見地方，特別是舊津和野藩一帶，1939年曾入選「日本五大名飯」。飯下藏著切碎的鯛魚與蔬菜，傳說是江戶時代為避免被看出奢侈，或受佛教信仰影響而得名。做法是先炒蔬菜，再以鯛魚高湯燉煮，盛入碗中，鋪上山葵後蓋飯，吃時淋上高湯，像茶泡飯一樣享用。",
+   "facts": [
+    {"label": "起源", "value": "石見地方、舊津和野藩，有避免奢侈的說法"},
+    {"label": "主要食材", "value": "鯛魚、蔬菜、山葵、白飯、高湯"},
+    {"label": "吃法", "value": "淋高湯如茶泡飯"}
+   ],
+   "season_zh": "全年",
+   "where_zh": "津和野的鄉土料理店",
+   "tags": ["鄉土料理", "鯛魚", "津和野", "石見"],
+   "sources": ["https://ja.wikipedia.org/wiki/うずめ飯"],
+   "confidence": "medium",
+   "prompt_en": "A ceramic donburi bowl of steamed rice with a mound of grated wasabi and a small pitcher of hot dashi broth beside, hints of diced sea bream and vegetables peeking from under the rice, wooden tray, soft warm light, no text"
+  },
+  {
+   "title_zh": "咕嚕咕嚕茶",
+   "title_ja": "ぼてぼて茶",
+   "category": "酒與飲品",
+   "summary_zh": "以茶筅打出泡沫、可配小菜的出雲庶民茶飯。",
+   "body_zh": "ぼてぼて茶以番茶為基底，煮茶時加入5到6朵茶花。用茶筅沾鹽打出像抹茶般的泡沫，再配上小飯糰、紅豆飯、煮豆、香菇、凍豆腐、蕨菜等煮物食用。起源說法不一：一說是奧出雲踏鞴煉鐵工人與漁民的勞動餐，也有飢荒備糧與庶民對抗茶道的說法。昭和初期隨民藝運動被命名並復興，主要見於島根縣出雲地方的仁多郡與安來市周邊。",
+   "facts": [
+    {"label": "起源", "value": "起源說不一，昭和初期隨民藝運動復興"},
+    {"label": "主要食材", "value": "番茶、茶花、鹽、飯糰與各種煮物"},
+    {"label": "吃法", "value": "茶筅沾鹽打泡，配小菜"}
+   ],
+   "season_zh": "全年",
+   "where_zh": "出雲地方的仁多郡、安來市周邊",
+   "tags": ["茶", "出雲", "民藝", "庶民飲食"],
+   "sources": ["https://ja.wikipedia.org/wiki/ぼてぼて茶"],
+   "confidence": "medium",
+   "prompt_en": "A wide ceramic tea bowl filled with frothy tea whisked with a bamboo sasara whisk, a few tiny white tea flowers floating, a small side dish of simmered shiitake and beans beside, dark wooden table, soft natural light, no text"
+  },
+  {
+   "title_zh": "出雲善哉",
+   "title_ja": "出雲ぜんざい",
+   "category": "甜點和菓子",
+   "summary_zh": "相傳源自神在祭「神在餅」的紅豆年糕湯。",
+   "body_zh": "ぜんざい（善哉）的語源有一說，是出雲神在祭的「神在餅」（じんざいもち）轉音而來。松江藩記錄寫道，祭日百姓以紅豆煮白年糕食用，稱為神在餅。島根縣的佐太神社自稱是善哉的發祥地，與11月25日的祭祀有關，但這只是兩種語源說之一。在出雲，紅豆甜湯配年糕，是參拜後暖身的甜點。",
+   "facts": [
+    {"label": "起源", "value": "一說由「神在餅」轉音，與神在祭有關"},
+    {"label": "主要食材", "value": "紅豆、白年糕"},
+    {"label": "吃法", "value": "熱的紅豆甜湯加年糕"}
+   ],
+   "season_zh": "秋冬（神在祭在農曆十月前後，細節未核實）",
+   "where_zh": "出雲大社周邊的甜品店",
+   "tags": ["善哉", "紅豆", "神在祭", "出雲"],
+   "sources": ["https://ja.wikipedia.org/wiki/ぜんざい"],
+   "confidence": "medium",
+   "prompt_en": "A lacquer bowl of hot sweet red bean soup with two soft white mochi, a small pickled plum on the side, steam rising, dark wooden table, warm soft light, no text"
+  },
+  {
+   "title_zh": "宍道湖七珍",
+   "title_ja": "宍道湖七珍（スズキ）",
+   "category": "鄉土料理",
+   "summary_zh": "以鱸魚為首的宍道湖七種名產魚貝總稱。",
+   "body_zh": "宍道湖七珍（しんじこしっちん）是宍道湖盛產的七種水產：鱸魚、モロゲエビ（ヨシエビ）、鰻魚、アマサギ（公魚）、蜆、鯉魚與白魚，取頭文字有「スモウアシコシ」的順口溜。這裡以七珍之首的鱸魚（スズキ）為代表入畫。各魚的具體料理方式與旬期，本次未能逐一核實，建議依當季與店家介紹點餐。",
+   "facts": [
+    {"label": "起源", "value": "宍道湖七種名產魚貝的總稱"},
+    {"label": "主要食材", "value": "鱸魚、蝦、鰻、公魚、蜆、鯉、白魚"},
+    {"label": "吃法", "value": "各魚做法未核實，依店家"}
+   ],
+   "season_zh": "依魚種而異，未核實",
+   "where_zh": "松江市宍道湖畔的料理店",
+   "tags": ["七珍", "宍道湖", "鱸魚", "湖鮮"],
+   "sources": ["https://ja.wikipedia.org/wiki/宍道湖"],
+   "confidence": "medium",
+   "prompt_en": "A single lightly seared sea bass fillet slices arranged on a long ceramic plate with a little grated daikon and a shiso leaf, a small dish of soy sauce, wooden table beside a lake window, soft cool light, no text"
+  }
+ ]
+}

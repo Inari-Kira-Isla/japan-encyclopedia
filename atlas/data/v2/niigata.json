@@ -1,0 +1,470 @@
+{
+ "id": "niigata",
+ "name_zh": "新潟",
+ "name_ja": "新潟県",
+ "region": "中部",
+ "overview": {
+  "intro_zh": "新潟縣位於本州日本海沿岸，面積約12,584平方公里，為日本第五大縣，人口約207萬。縣內包含佐渡島，東南側的越後山脈把這裡變成世界級的豪雪地帶，也孕育了魚沼越光米，新潟是日本稻米產量第一的縣。沿海的新潟市、長岡的煙火、湯澤的滑雪場與2024年登錄世界遺產的佐渡金山，各自展現不同風貌。四季分明，冬季雪景與夏季稻浪都是亮點。",
+  "capital_zh": "新潟",
+  "area_km2": 12584,
+  "population_approx": "約207萬",
+  "flower_zh": "鬱金香",
+  "bird_zh": "朱鷺",
+  "tree_zh": "雪椿",
+  "climate_zh": "屬日本海側氣候，冬季多雪且潮濕，夏季炎熱晴朗，晝夜溫差大，有利稻米。",
+  "access_zh": "上越新幹線東京至新潟約2小時；新潟機場有國內外航班；佐渡搭渡輪。",
+  "specialties_zh": [
+   "魚沼越光米",
+   "日本酒",
+   "笹糰子",
+   "小千谷縮",
+   "へぎ蕎麥麵",
+   "鹽引鮭魚"
+  ],
+  "best_season_zh": "冬季滑雪、8月初長岡煙火、9–10月新米與稻田風光。"
+ },
+ "items": {
+  "architecture": {
+   "title_zh": "萬代橋",
+   "title_ja": "万代橋",
+   "summary_zh": "新潟市信濃川上的六連拱橋。",
+   "body_zh": "萬代橋橫跨信濃川，連接新潟市中心的兩岸，現橋於1927年7月動工、1929年8月竣工，橋長約306.9公尺、寬22公尺，由六個優美拱形構成。橋面兩側以石材裝飾，與新潟市的城市景觀融合，並曾挺過1964年新潟地震，被視為城市復原力的象徵。2004年被指定為國家重要文化財，現今仍供車輛與行人通行，夜間點燈與夕陽時分尤其美麗。橋頭設有紀念碑與解說，說明昔日的木橋變遷。新潟是港町，信濃川與日本海孕育了這座城市，萬代橋因而成為許多人記憶中的家鄉風景，每逢夕陽，天空與橋影倒映水面，被視為市內最美的時刻之一。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "新潟市中央區"
+    },
+    {
+     "label": "竣工",
+     "value": "1929年8月"
+    },
+    {
+     "label": "規格",
+     "value": "全長約306.9公尺、寬22公尺、六連拱"
+    },
+    {
+     "label": "指定",
+     "value": "2004年重要文化財"
+    }
+   ],
+   "best_season_zh": "全年；黃昏與夜間",
+   "tips_zh": "可從信濃川畔的「やすらぎ堤」步道欣賞全橋；夕陽照射時最為好看。沿河岸步道從橋下走到附近朱鷺Messe大樓的展望室，視野更廣。",
+   "tags": [
+    "橋樑",
+    "重要文化財",
+    "信濃川",
+    "夕陽"
+   ],
+   "sources": [
+    "https://www.hrr.mlit.go.jp/niikoku/bandaibridge/about_en.html",
+    "https://en.wikipedia.org/wiki/Bandai_Bridge"
+   ],
+   "confidence": "high",
+   "prompt_en": "Bandai Bridge in Niigata city, a six-arch bridge over the wide Shinano River at dusk, warm street lights reflecting on water, wide angle from riverbank"
+  },
+  "food": {
+   "title_zh": "魚沼越光米飯糰",
+   "title_ja": "コシヒカリのおにぎり",
+   "summary_zh": "新潟越光米，配鹽鮭最經典。",
+   "body_zh": "新潟是日本稻米產量第一的縣，魚沼地區出產的越光米被視為日本最高等級的米之一。盆地氣候、雪融水與晝夜溫差，使米粒飽滿、黏性與甘味均衡。最簡單的吃法是白飯與飯糰，搭配鹽鮭、梅子與醃菜，就足以展現米本身的香氣。縣內另有以米釀製的日本酒，酒藏數量居全國前列，米與酒是新潟飲食文化的兩根支柱。新米上市時，不少飯店與民宿都會推出現煮的魚沼米定食，讓人品嘗到不加調味也香甜的飯粒。若想帶回家，可買真空包裝的新潟米或加工品如米菓、糰子，都是日本人常見的伴手禮。",
+   "facts": [
+    {
+     "label": "產地",
+     "value": "魚沼地區（南魚沼、十日町等）"
+    },
+    {
+     "label": "品種",
+     "value": "越光米（Koshihikari）"
+    },
+    {
+     "label": "搭配",
+     "value": "鹽鮭、梅子、醃菜"
+    },
+    {
+     "label": "延伸",
+     "value": "新潟日本酒"
+    }
+   ],
+   "best_season_zh": "9–10月新米",
+   "tips_zh": "想吃新米，可選秋季到魚沼的農家民宿或米飯專門店；多買一小包米帶回家最實際。買米時留意產地標示「魚沼產」，並選擇當年的新米。",
+   "tags": [
+    "稻米",
+    "越光米",
+    "飯糰",
+    "名物"
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Niigata_Prefecture"
+   ],
+   "confidence": "medium",
+   "prompt_en": "Close-up of freshly cooked Koshihikari rice onigiri with grilled salted salmon on a wooden tray, steam rising, soft natural window light"
+  },
+  "culture": {
+   "title_zh": "長岡煙火",
+   "title_ja": "長岡花火",
+   "summary_zh": "長岡祭大花火，日本三大煙火之一。",
+   "body_zh": "長岡煙火大會每年8月2、3日在信濃川河畔舉行，目的是悼念1945年8月1至2日夜間長岡空襲的罹難者，據記載該次空襲造成約1,489人死亡、市區約八成被毀。煙火以悼念與復興為主題，最受矚目的是「復興祈願煙火 Phoenix」，由多處同時施放，象徵市民重新站起來。每晚約2萬發，吸引數十萬觀眾，近年座位需事先預購。各種大型煙火在長岡祭中一同登場，包括「正三尺玉」的巨大花火，直徑可達約650公尺。這些煙火結合音樂與燈光，在夜空中描繪出一場場視覺饗宴，是日本三大煙火大會之一，每年夏天吸引無數人前來。",
+   "facts": [
+    {
+     "label": "時節",
+     "value": "每年8月2–3日"
+    },
+    {
+     "label": "地點",
+     "value": "長岡市信濃川河畔"
+    },
+    {
+     "label": "意義",
+     "value": "悼念1945年長岡空襲"
+    },
+    {
+     "label": "規模",
+     "value": "約2萬發／晚（官方宣傳）"
+    }
+   ],
+   "best_season_zh": "8月初",
+   "tips_zh": "座位票販售很早，臨近日期幾乎售罄；人潮極多，宜提早訂住宿。提前到河畔卡位，帶坐墊與驅蟲用品，散場時人潮擁擠，要耐心等待。",
+   "tags": [
+    "煙火",
+    "復興",
+    "信濃川",
+    "夏祭"
+   ],
+   "sources": [
+    "https://www.japan.travel/en/ca/news/nagaoka-fireworks-festival/"
+   ],
+   "confidence": "medium",
+   "prompt_en": "Huge chrysanthemum fireworks bursting over the Shinano River in Nagaoka night sky, crowds silhouetted on the riverbank, long exposure"
+  },
+  "history": {
+   "title_zh": "佐渡金山",
+   "title_ja": "佐渡金山",
+   "summary_zh": "江戶以來的金銀礦山，世界遺產。",
+   "body_zh": "佐渡金山位於佐渡島，1589年上杉景勝掌管，之後德川家康在1601年前後直接管轄，開採金銀，是江戶幕府的重要財源。礦脈有相川與西三川兩大區，至1989年停止採礦，可見到江戶時代的手工採礦與冶煉。2024年7月27日，「佐渡島的金山」被登錄為世界文化遺產，是日本第26處遺產，特點在於250年間持續以高度手工技術採礦。佐渡金山在江戶時代最盛時期，每年產出大量黃金，推動幕府財政。現今遊客可在「宗太夫坑」進入坑道，看人偶重現當年的挖掘場景，也能在「道遊坑」見到近代機械化的礦山遺構，體會時間的堆疊。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "新潟縣佐渡市"
+    },
+    {
+     "label": "開發",
+     "value": "1589年起（上杉景勝）"
+    },
+    {
+     "label": "採礦終止",
+     "value": "1989年"
+    },
+    {
+     "label": "世界遺產",
+     "value": "2024年7月27日"
+    }
+   ],
+   "best_season_zh": "4–10月",
+   "tips_zh": "坑道內溫度低，夏天也建議帶薄外套；想看更完整可搭配相川的博物館。坑道參觀約需1小時；佐渡島交通不便，建議租車或搭乘觀光巴士。",
+   "tags": [
+    "世界遺產",
+    "金山",
+    "江戶",
+    "佐渡"
+   ],
+   "sources": [
+    "https://whc.unesco.org/en/list/1698",
+    "https://www.pref.niigata.lg.jp/site/sado-goldmine-en/"
+   ],
+   "confidence": "high",
+   "prompt_en": "Historic Sado gold mine entrance and old wooden mining facilities among green hills, overcast soft light, documentary style, no people"
+  },
+  "mascot": {
+   "title_zh": "新潟縣吉祥物 Tokkikki",
+   "title_ja": "トッキッキ",
+   "summary_zh": "縣鳥朱鷺為靈感的吉祥物。",
+   "body_zh": "新潟縣的官方吉祥物是「トッキッキ（Tokkikki）」，2005年11月17日誕生，靈感來自縣鳥朱鷺，圓滾身軀、臉上有紅色愛心，男生「Toppy」與女生「Kippy」成對活動，2009年10月被任命為「新潟縣宣傳課長」。朱鷺曾在日本野外滅絕，後來在佐渡以人工繁殖復育，是新潟的重要象徵。本圖為原創米粒角色，不複製任何現有商標吉祥物。朱鷺在2008年開始放回野外，現今佐渡島上已有數百隻野生朱鷺棲息，成為復育成功的象徵。縣政府與在地商家常以朱鷺為標誌，包含包裝、車站與活動海報，讓這隻鳥成為新潟人的驕傲。",
+   "facts": [
+    {
+     "label": "官方角色",
+     "value": "Tokkikki（Toppy／Kippy）"
+    },
+    {
+     "label": "誕生",
+     "value": "2005年11月17日"
+    },
+    {
+     "label": "靈感",
+     "value": "縣鳥朱鷺"
+    },
+    {
+     "label": "本圖",
+     "value": "原創米粒角色"
+    }
+   ],
+   "best_season_zh": "全年",
+   "tips_zh": "佐渡有朱鷺保護中心，可見到復育的朱鷺，是認識新潟象徵的好方法。在佐渡的朱鷺交流會館可近距離認識朱鷺的歷史與復育故事。",
+   "tags": [
+    "吉祥物",
+    "朱鷺",
+    "原創角色",
+    "稻米"
+   ],
+   "sources": [
+    "https://www.pref.niigata.lg.jp/sec/kouhou/"
+   ],
+   "confidence": "medium",
+   "prompt_en": "A cute round rice-grain shaped character with small crested ibis wings holding a rice ear, standing in a golden paddy field, pastel illustration. Original cute character, not replicating any existing trademarked mascot."
+  },
+  "scenery": {
+   "title_zh": "越後山脈雪景",
+   "title_ja": "越後山脈の雪景色",
+   "summary_zh": "豪雪地帶的白雪森林與山脈。",
+   "body_zh": "新潟縣南部與東南部是日本有名的豪雪地帶，冬季日本海吹來濕潤季風，撞上越後山脈後化為大量降雪，積雪可達數公尺。山毛櫸林覆滿白雪，晴天早晨在朝陽下呈現粉紅色的光暈，是雪國的典型景色。雪融水則滋養了下游稻田與溫泉，成為縣內農業與觀光的根基，滑雪場與雪國風情也因此得以發展。冬季的新潟人還會舉辦雪祭與冰雕活動，讓人將嚴寒轉為節慶。每年12月到3月，滑雪客、泡湯客與攝影師紛紛湧入，山脈與田野被白雪覆蓋，構成日本海側獨有的冬季景觀，也是了解新潟生活的重要背景。",
+   "facts": [
+    {
+     "label": "地區",
+     "value": "越後山脈（湯澤、十日町等）"
+    },
+    {
+     "label": "成因",
+     "value": "日本海側季風帶來的水氣"
+    },
+    {
+     "label": "影響",
+     "value": "滑雪、稻作、溫泉"
+    },
+    {
+     "label": "特色",
+     "value": "山毛櫸林與深雪"
+    }
+   ],
+   "best_season_zh": "12月至3月",
+   "tips_zh": "冬季交通與天候變化大，自駕請確認雪胎與鏈條；也可搭新幹線更安全。清晨光線最美，穿防滑鞋與保暖衣物，並留意雪崩區警示。",
+   "tags": [
+    "雪景",
+    "豪雪",
+    "山脈",
+    "冬季"
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Niigata_Prefecture"
+   ],
+   "confidence": "medium",
+   "prompt_en": "Snow-covered Echigo mountain range at sunrise, deep untouched snow on beech forest, pink alpenglow, wide landscape"
+  },
+  "spot": {
+   "title_zh": "彌彥神社",
+   "title_ja": "弥彦神社",
+   "summary_zh": "越後國一宮，背靠彌彥山。",
+   "body_zh": "彌彥神社位於彌彥山腳下，是越後國一宮，社殿與參道被杉木環繞，氛圍莊嚴。祭神為天香山命，傳說是開拓越後、教導製鹽與稻作的神。每年7月25日舉行燈籠祭，秋季則有菊花祭，境內並有麓纜車可登上標高634公尺的彌彥山山頂。周邊的彌彥溫泉與老街也很適合順遊，是新潟的代表性祈福景點。神社每年新年初詣人潮眾多，也是許多人祈求農業與航海平安之地。參道旁有溫泉街與商店街，可品嘗當地的糰子與名產，並結合彌彥山的登山步道，一日可安排完整，適合喜歡自然與信仰的旅人。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "西蒲原郡彌彥村"
+    },
+    {
+     "label": "地位",
+     "value": "越後國一宮"
+    },
+    {
+     "label": "祭神",
+     "value": "天香山命"
+    },
+    {
+     "label": "活動",
+     "value": "燈籠祭（7月25日）、菊花祭（秋）"
+    }
+   ],
+   "best_season_zh": "10–11月紅葉、7月燈籠祭",
+   "tips_zh": "參拜後可搭纜車上彌彥山，視野極佳；神社周邊有溫泉可泡腳。從彌彥站步行約15分鐘到達，可安排纜車與健行一起玩。",
+   "tags": [
+    "神社",
+    "一宮",
+    "彌彥山",
+    "參道"
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Yahiko_Shrine"
+   ],
+   "confidence": "medium",
+   "prompt_en": "Yahiko Shrine vermilion approach and shrine hall surrounded by tall cedar trees, morning mist, serene mood"
+  },
+  "experience": {
+   "title_zh": "越後湯澤滑雪",
+   "title_ja": "越後湯沢でスキー",
+   "summary_zh": "新幹線直達的粉雪滑雪勝地。",
+   "body_zh": "越後湯澤位於新潟縣南端，從東京搭上越新幹線約80分鐘即可抵達，是日本最方便的滑雪度假地之一。周邊有苗場、神立、GALA湯澤等大小滑雪場，雪質乾爽、季節長，多在12月至4月營業。川端康成小說《雪國》的開頭場景據說就是此地，小鎮也有溫泉與居酒屋，滑雪之外還能感受雪國氛圍。新手可選擇設有大面積初級坡的雪場，並有雪具租借、教練與日語、英語課程。滑完雪後，湯澤溫泉與居酒屋是放鬆的好去處，冬季夜晚雪花飄落的小鎮氣氛，很難在其他地方複製，十分療癒。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "南魚沼郡湯澤町"
+    },
+    {
+     "label": "交通",
+     "value": "東京搭上越新幹線約80分鐘"
+    },
+    {
+     "label": "季節",
+     "value": "12月至4月"
+    },
+    {
+     "label": "名著",
+     "value": "川端康成《雪國》"
+    }
+   ],
+   "best_season_zh": "12月至3月",
+   "tips_zh": "GALA湯澤站直通雪場，租借裝備與寄放行李都很方便，適合當日往返。自備滑雪裝備較省錢，也可在車站附近租借，並提前網路預約。",
+   "tags": [
+    "滑雪",
+    "雪國",
+    "溫泉",
+    "新幹線"
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Yuzawa,_Niigata"
+   ],
+   "confidence": "medium",
+   "prompt_en": "Skier carving through powder snow on a sunny slope at Echigo-Yuzawa ski resort, blue sky, mountains in background"
+  },
+  "costume": {
+   "title_zh": "小千谷縮與越後上布",
+   "title_ja": "小千谷縮",
+   "summary_zh": "苧麻手織的夏季傳統布料。",
+   "body_zh": "小千谷縮與越後上布是魚沼地區以苧麻手織的夏季布料，質地輕薄涼爽，適合高溫潮濕的日本夏季。製作須在冬季的雪國中進行，織好的布會攤在雪地上漂白，稱為「雪晒」，是一道獨特的工序。小千谷縮於1955年被指定為重要無形文化財，2009年與越後上布一同登錄聯合國教科文組織非物質文化遺產，是雪國手工藝的代表。小千谷縮最特別的工序是「雪晒」，利用雪融時的紫外線與臭氧漂白布料，讓顏色更潔白柔和。如今傳統和服之外，也有以苧麻製成的襯衫、圍巾與小物，結合現代設計，使這項技術得以延續。",
+   "facts": [
+    {
+     "label": "產地",
+     "value": "小千谷市、魚沼地區"
+    },
+    {
+     "label": "材質",
+     "value": "苧麻"
+    },
+    {
+     "label": "工序",
+     "value": "冬季織布、雪地漂白"
+    },
+    {
+     "label": "認定",
+     "value": "2009年UNESCO非遺"
+    }
+   ],
+   "best_season_zh": "夏季穿著、冬季製作",
+   "tips_zh": "小千谷市有織物館可體驗織布，也可購買小物帶回家。購買時注意產地證明與織布編號，真品價格較高但耐用。",
+   "tags": [
+    "傳統織物",
+    "苧麻",
+    "非遺",
+    "和服"
+   ],
+   "sources": [
+    "https://ich.unesco.org/en/RL/ojiya-chijimi-echigo-jofu-techniques-of-making-ramie-fabric-in-uonuma-region-niigata-prefecture-00266",
+    "https://en.wikipedia.org/wiki/Ojiya-chijimi"
+   ],
+   "confidence": "high",
+   "prompt_en": "Model in a light summer ramie kimono with fine crepe weave, standing in a snowy-country wooden townhouse veranda, soft light, back view partially"
+  }
+ },
+ "areas": [
+  {
+   "id": "niigata_sado",
+   "name_zh": "佐渡島",
+   "name_ja": "佐渡島",
+   "intro_zh": "佐渡島是日本第六大島，距新潟本土約55公里，要搭渡輪前往。江戶時代因金銀礦而繁榮，2024年「佐渡島的金山」登錄世界遺產。島上並有朱鷺復育、能樂、海岸斷崖，海鮮豐富，是新潟最具個性的區域。",
+   "items": {
+    "spot": {
+     "title_zh": "佐渡金山",
+     "title_ja": "佐渡金山",
+     "desc_zh": "江戶時代起開採的金銀礦山，坑道與遺構保存完好。",
+     "prompt_en": "Historic Sado gold mine entrance with old stone-lined tunnel and wooden mining structures among green hills, soft morning light, wide shot"
+    },
+    "food": {
+     "title_zh": "佐渡海鮮丼",
+     "title_ja": "佐渡の海鮮丼",
+     "desc_zh": "以寒鰤、甜蝦與鮑魚等當地海產鋪滿白飯的海鮮丼。",
+     "prompt_en": "Bowl of fresh Sado Island seafood rice with yellowtail, sweet shrimp and abalone on a wooden counter, close-up, natural light"
+    },
+    "scenery": {
+     "title_zh": "尖閣灣",
+     "title_ja": "尖閣湾",
+     "desc_zh": "斷崖與碧藍海灣交錯，搭小船可近觀海蝕洞。",
+     "prompt_en": "Rugged sea cliffs and turquoise bay at Sado Island with a small tour boat, clear blue sky, wide angle"
+    }
+   }
+  },
+  {
+   "id": "niigata_echigoyuzawa",
+   "name_zh": "湯澤",
+   "name_ja": "湯沢",
+   "intro_zh": "越後湯澤是上越新幹線沿線的雪國小鎮，從東京約80分鐘即達。川端康成《雪國》的舞台，周邊有苗場等大型滑雪場與溫泉。夏季有登山與避暑，也有魚沼越光米的產地風味。很適合安排二至三天慢遊。",
+   "items": {
+    "spot": {
+     "title_zh": "苗場滑雪場",
+     "title_ja": "苗場スキー場",
+     "desc_zh": "日本具代表性的大型滑雪度假地，雪季遊客雲集。",
+     "prompt_en": "Large ski resort slopes at Naeba in Yuzawa with skiers and gondola on a bright winter day, snow-covered mountains"
+    },
+    "food": {
+     "title_zh": "魚沼越光米",
+     "title_ja": "魚沼産コシヒカリ",
+     "desc_zh": "日本頂級米產地的白米飯，晶瑩粒粒分明。",
+     "prompt_en": "Steaming bowl of premium white Koshihikari rice with pickles and grilled fish on a rustic table, soft window light"
+    },
+    "scenery": {
+     "title_zh": "越後湯澤雪國風光",
+     "title_ja": "越後湯沢の雪景色",
+     "desc_zh": "川端康成《雪國》舞台，群山覆雪的溫泉小鎮。",
+     "prompt_en": "Snow-covered hot spring town of Echigo-Yuzawa surrounded by white mountains at dusk, warm window lights, falling snow"
+    }
+   }
+  },
+  {
+   "id": "niigata_niigata_city",
+   "name_zh": "新潟市",
+   "name_ja": "新潟市",
+   "intro_zh": "新潟市是縣廳所在地，也是日本海沿岸最大的城市。港町自古繁榮，萬代橋橫跨信濃川，海岸可看日本海落日。壽司與新鮮海產、日本酒是飲食重點，是縣內的行政與交通中心。很適合安排二至三天慢遊。",
+   "items": {
+    "spot": {
+     "title_zh": "萬代橋",
+     "title_ja": "万代橋",
+     "desc_zh": "跨越信濃川的六連拱橋，是新潟市的象徵地標。",
+     "prompt_en": "Bandai Bridge arches over the wide Shinano River at sunset, city skyline in the distance, golden light"
+    },
+    "food": {
+     "title_zh": "新潟港町壽司",
+     "title_ja": "新潟の寿司",
+     "desc_zh": "新潟市以日本海鮮魚壽司聞名，港町風味濃厚。",
+     "prompt_en": "Plate of fresh nigiri sushi from the Sea of Japan with local sake on a wooden counter, bright izakaya setting"
+    },
+    "scenery": {
+     "title_zh": "日本海夕陽",
+     "title_ja": "日本海の夕日",
+     "desc_zh": "新潟海岸看日本海落日，海面染成金橙色。",
+     "prompt_en": "Sunset over the Sea of Japan from the Niigata coast, orange sky reflecting on waves, silhouette of a pine tree"
+    }
+   }
+  },
+  {
+   "id": "niigata_tokamachi",
+   "name_zh": "十日町",
+   "name_ja": "十日町",
+   "intro_zh": "十日町位於魚沼地區，以豪雪與梯田文化著名。越後妻有地區每三年舉辦大地藝術祭，作品散落田野與村落；星峠梯田在雲海與晨光中形成壯麗景觀；周邊也是小千谷縮與へぎ蕎麥麵的產地。",
+   "items": {
+    "spot": {
+     "title_zh": "大地藝術祭",
+     "title_ja": "大地の芸術祭",
+     "desc_zh": "越後妻有地區的戶外藝術祭，作品散落梯田與村落。",
+     "prompt_en": "Contemporary outdoor art installation placed among rice terraces in Tokamachi Echigo-Tsumari, summer greenery, wide shot"
+    },
+    "food": {
+     "title_zh": "布海苔蕎麥麵",
+     "title_ja": "へぎそば",
+     "desc_zh": "以布海苔做麵筋的蕎麥麵，盛在木製托盤上。",
+     "prompt_en": "Hegi soba noodles arranged in neat bundles on a square wooden tray with dipping sauce, close-up, soft light"
+    },
+    "scenery": {
+     "title_zh": "星峠梯田",
+     "title_ja": "星峠の棚田",
+     "desc_zh": "山坡層疊梯田，雲海與晨光交織成景。",
+     "prompt_en": "Hoshitoge terraced rice fields at dawn with sea of clouds and layered green hills, soft golden light"
+    }
+   }
+  }
+ ]
+}

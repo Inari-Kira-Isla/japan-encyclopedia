@@ -1,0 +1,149 @@
+{
+ "id": "yamaguchi",
+ "foods": [
+  {
+   "title_zh": "下關河豚",
+   "title_ja": "下関のふく",
+   "category": "海鮮",
+   "summary_zh": "下關稱河豚為「ふく」，是日本河豚之都。",
+   "body_zh": "山口縣下關是日本的河豚中心，當地把河豚叫作「ふく」，取福氣之意。維基百科記載1888年伊藤博文造訪下關春帆樓，品嚐河豚後讚賞，推動山口縣解除河豚禁食令，春帆樓成為首家官方許可的河豚料理店。常見吃法有薄切生魚片「てっさ」與火鍋「てっちり」，冬季最肥美。唐戶市場是河豚交易與料理的重要據點，下關處理全國大半河豚。",
+   "facts": [
+    {"label": "起源", "value": "1888年伊藤博文在春帆樓品嚐後解禁"},
+    {"label": "主要食材", "value": "河豚（虎河豚等）、橙醋、蔥"},
+    {"label": "吃法", "value": "薄切生魚片てっさ、河豚鍋てっちり"}
+   ],
+   "season_zh": "冬季（約11月至3月）",
+   "where_zh": "下關市唐戶市場周邊與春帆樓等專門料理店",
+   "tags": ["河豚", "下關", "てっさ", "冬季"],
+   "sources": ["https://ja.wikipedia.org/wiki/フグ料理", "https://ja.wikipedia.org/wiki/山口県"],
+   "confidence": "high",
+   "prompt_en": "Paper-thin translucent fugu sashimi arranged in a chrysanthemum circle on a large blue-and-white porcelain plate, chopped scallion and ponzu dipping dish beside, dark lacquer table, soft light, no text"
+  },
+  {
+   "title_zh": "瓦蕎麥",
+   "title_ja": "瓦そば",
+   "category": "麵飯",
+   "summary_zh": "茶蕎麥放在燒熱瓦片上，蘸熱麵露吃。",
+   "body_zh": "瓦蕎麥是把茶蕎麥麵與配料放在燒熱的瓦片上，蘸溫熱麵露享用的料理。維基百科記載1961年由豐浦町川棚溫泉的旅館老闆高瀨慎一創製，靈感來自傳說中1877年西南戰爭時薩摩士兵用瓦片燒烤食物。常見配料有蛋絲、牛肉片、蔥、海苔、檸檬與蘿蔔泥。使用的是食用專用瓦片，不是建材。有些店改用鐵板，山口縣內也有家用組合販售。",
+   "facts": [
+    {"label": "起源", "value": "1961年川棚溫泉旅館創製，瓦片靈感為傳說"},
+    {"label": "主要食材", "value": "茶蕎麥、蛋絲、牛肉、蔥、檸檬、蘿蔔泥"},
+    {"label": "吃法", "value": "蘸溫熱麵露，趁底部微焦時吃"}
+   ],
+   "season_zh": "全年",
+   "where_zh": "下關市豐浦川棚溫泉一帶與縣內餐廳",
+   "tags": ["瓦蕎麥", "川棚溫泉", "茶蕎麥", "下關"],
+   "sources": ["https://ja.wikipedia.org/wiki/瓦そば"],
+   "confidence": "high",
+   "prompt_en": "Green tea soba noodles served on a hot rectangular roof tile with shredded egg, thin beef, nori, lemon slices and grated daikon, small cup of dipping sauce beside, dark wooden table, warm light, no text"
+  },
+  {
+   "title_zh": "岩國壽司",
+   "title_ja": "岩国寿司",
+   "category": "鄉土料理",
+   "summary_zh": "木框壓成的方形押壽司，又稱殿樣壽司。",
+   "body_zh": "岩國壽司是岩國地區的押壽司，又稱「殿樣壽司」或「角壽司」。維基百科記載其起源約380年前，傳為岩國藩初代藩主吉川廣家下令製作的保存食，用來準備戰事。做法是在大木框中將醋飯與蓮藕、春菊、香菇、錦糸蛋、近海魚肉等食材一層層疊放，像三明治般，再用重石壓緊後切塊。色彩鮮豔，常見於節慶與聚會，可再添加蝦子點綴。",
+   "facts": [
+    {"label": "起源", "value": "相傳約380年前吉川廣家下令製作的保存食"},
+    {"label": "主要食材", "value": "醋飯、蓮藕、香菇、錦糸蛋、近海魚"},
+    {"label": "吃法", "value": "壓製後切成方塊，常見於節慶聚會"}
+   ],
+   "season_zh": "全年，節慶期間常見",
+   "where_zh": "岩國市的壽司店與傳統料理店",
+   "tags": ["押壽司", "岩國", "殿樣壽司", "鄉土料理"],
+   "sources": ["https://ja.wikipedia.org/wiki/岩国寿司"],
+   "confidence": "medium",
+   "prompt_en": "A square cut of layered Iwakuni pressed sushi showing stripes of vinegared rice, lotus root, shiitake, egg threads and fish, on a small ceramic plate, wooden mold behind, soft natural light, no text"
+  },
+  {
+   "title_zh": "萩夏蜜柑",
+   "title_ja": "夏みかん（萩）",
+   "category": "特產食材",
+   "summary_zh": "萩市以夏蜜柑聞名，源自明治時代士族救濟。",
+   "body_zh": "夏蜜柑在山口縣萩市有悠久的栽培歷史。維基百科指出明治時期萩藩為救濟失業的武士，鼓勵栽培夏橙（夏蜜柑），當年的樹木至今仍留在萩市。果實秋天結果時酸味強不宜食用，經冬越過，翌年4至6月才成熟適合吃，味道酸中帶苦，帶清香。除了直接剝食，萩市也有夏蜜柑果醬、糕點與果凍等加工品，是春夏之交的代表風物。",
+   "facts": [
+    {"label": "起源", "value": "明治時期萩藩為救濟失業武士而獎勵栽培"},
+    {"label": "主要食材", "value": "夏蜜柑（夏橙）"},
+    {"label": "吃法", "value": "直接剝食，或做果醬、糕點、果凍"}
+   ],
+   "season_zh": "4月至6月",
+   "where_zh": "萩市的城下町與土產店",
+   "tags": ["夏蜜柑", "萩", "柑橘", "特產"],
+   "sources": ["https://ja.wikipedia.org/wiki/ナツミカン"],
+   "confidence": "medium",
+   "prompt_en": "Several bright orange natsumikan citrus fruits, one peeled open showing thick pith and segments, on a weathered wooden table, old white-walled samurai district wall blurred behind, soft daylight, no text"
+  },
+  {
+   "title_zh": "獺祭",
+   "title_ja": "獺祭",
+   "category": "酒與飲品",
+   "summary_zh": "岩國市周東町釀造的純米大吟釀，精米歩合23%。",
+   "body_zh": "獺祭是山口縣岩國市周東町的清酒品牌，蔵元為株式会社獺祭（舊旭酒造），主打純米大吟釀，代表款精米歩合23%。名稱取自當地地名「獺越」，並與明治俳人正岡子規的別號「獺祭書屋主人」有關，寄託了像子規一樣進取、追求高品質的心意。「獺祭」本指水獺把捕到的魚排列在岸邊的樣子。酒體細緻，可冰鎮配生魚片。",
+   "facts": [
+    {"label": "起源", "value": "岩國市周東町的酒藏，名稱取自地名「獺越」與正岡子規別號"},
+    {"label": "主要食材", "value": "山田錦等酒米（精米歩合23%款）、水"},
+    {"label": "吃法", "value": "冰鎮後配生魚片等清淡料理"}
+   ],
+   "season_zh": "全年（四季釀造）",
+   "where_zh": "岩國市周東町的酒藏，縣內與全國酒販店",
+   "tags": ["清酒", "獺祭", "純米大吟釀", "岩國"],
+   "sources": ["https://ja.wikipedia.org/wiki/獺祭_(日本酒)"],
+   "confidence": "medium",
+   "prompt_en": "A single elegant clear glass sake bottle with a minimalist white label beside a thin glass sake cup filled with sake, dark slate surface, cool soft side light, snowy mountain village blur behind, no text"
+  },
+  {
+   "title_zh": "山口外郎",
+   "title_ja": "外郎（山口）",
+   "category": "甜點和菓子",
+   "summary_zh": "以蕨粉做成，口感柔滑似蕨餅的山口名果。",
+   "body_zh": "山口的外郎（ういろう）和名古屋的米粉版不同，維基百科記載以蕨粉加砂糖蒸製而成，有時加入紅豆或抹茶。特色是口感柔軟滑順，類似蕨餅，味道不膩。山口外郎的歷史淵源與起源年份這裡未能核實，一般以棹狀或切塊販售，是山口縣的人氣土產，適合配茶，冷藏後吃口感更清爽。可作為山口市與萩市一帶旅人的伴手禮。",
+   "facts": [
+    {"label": "起源", "value": "歷史年份未核實"},
+    {"label": "主要食材", "value": "蕨粉、砂糖，有時加紅豆或抹茶"},
+    {"label": "吃法", "value": "切塊配茶，冷藏後口感更清爽"}
+   ],
+   "season_zh": "全年",
+   "where_zh": "山口市與萩市的和菓子店、土產店",
+   "tags": ["外郎", "蕨粉", "和菓子", "山口"],
+   "sources": ["https://ja.wikipedia.org/wiki/外郎_(菓子)"],
+   "confidence": "low",
+   "prompt_en": "Slices of translucent soft Yamaguchi uiro sweet cut from a log, dusted lightly, on a small celadon plate with a cup of green tea beside, pale wooden table, soft diffused light, no text"
+  },
+  {
+   "title_zh": "長州黑樫和",
+   "title_ja": "長州黒かしわ",
+   "category": "肉類",
+   "summary_zh": "長門市飼養、山口縣原創的地雞品種。",
+   "body_zh": "長州黑樫和（長州黒かしわ）是山口縣的原創地雞，維基百科的山口縣條目提到它在長門市飼養，被稱為縣內的原創地雞。關於品種的育成年份、雜交來源與飼養日數，這裡未能找到可靠資料，故不作斷定。常見做法是炭烤或做成雞肉串，也可煮成火鍋，肉質據說結實有咬勁。長門一帶雞肉料理與烤雞肉串店較多，是當地的代表肉類食材之一。",
+   "facts": [
+    {"label": "起源", "value": "山口縣原創地雞，育成年份未核實"},
+    {"label": "主要食材", "value": "地雞肉"},
+    {"label": "吃法", "value": "炭烤、雞肉串、火鍋"}
+   ],
+   "season_zh": "全年",
+   "where_zh": "長門市一帶的雞肉料理與烤雞肉串店",
+   "tags": ["地雞", "長門", "雞肉", "炭烤"],
+   "sources": ["https://ja.wikipedia.org/wiki/山口県", "https://ja.wikipedia.org/wiki/長門市"],
+   "confidence": "low",
+   "prompt_en": "Skewers of charcoal-grilled free-range chicken thigh with glossy glaze on a ceramic plate, small bowl of shredded cabbage and a lemon wedge beside, dark counter, warm light, no text"
+  },
+  {
+   "title_zh": "下關鯨魚料理",
+   "title_ja": "下関のクジラ料理",
+   "category": "海鮮",
+   "summary_zh": "下關是捕鯨基地，鯨魚料理是當地飲食文化。",
+   "body_zh": "山口縣自古與捕鯨關係深，長門一帶有「抓到一頭鯨魚，七個漁港都熱鬧」的說法。維基百科的山口縣條目記載，日本2019年退出國際捕鯨委員會後，商業捕鯨在下關重新展開。下關有鯨魚料理店，供應生魚片、炸鯨魚、鯨魚火鍋等，不過這裡未能核實具體菜色起源與年份，因此用保守說法。鯨肉在當地是歷史悠久的海產飲食。",
+   "facts": [
+    {"label": "起源", "value": "山口縣捕鯨歷史悠久，具體菜色起源未核實"},
+    {"label": "主要食材", "value": "鯨魚肉"},
+    {"label": "吃法", "value": "生魚片、炸鯨魚、火鍋（依店家）"}
+   ],
+   "season_zh": "全年",
+   "where_zh": "下關市的鯨魚料理店與市場周邊",
+   "tags": ["鯨魚", "下關", "捕鯨", "海鮮"],
+   "sources": ["https://ja.wikipedia.org/wiki/山口県"],
+   "confidence": "low",
+   "prompt_en": "Thin slices of dark red whale sashimi fanned out on a black lacquer plate with grated ginger and shiso leaf, small soy dish beside, dark wooden table, soft side light, no text"
+  }
+ ]
+}

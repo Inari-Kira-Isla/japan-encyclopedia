@@ -1,0 +1,285 @@
+{
+"id": "aichi",
+"spots": [
+{
+"title_zh": "名古屋城",
+"title_ja": "名古屋城",
+"category": "城郭史蹟",
+"area_zh": "名古屋市中區・北區",
+"summary_zh": "德川家康為九男義直興建的尾張名城，以金鯱天守聞名。",
+"body_zh": "名古屋城位於名古屋市中心，是德川家康於1609年決定興建、供九男義直作為尾張藩居城的名城，工事自1612年起全面展開。此後直到明治維新，一直是尾張德川家十七代的居城。大天守頂上的金鯱是名古屋街區的象徵，城池與大阪城、熊本城並稱日本三名城，也是日本百名城與國家特別史蹟。大小天守與本丸御殿大部分毀於1945年空襲，戰後天守以鋼筋混凝土重建，西南隅櫓等六棟倖免。看點是金鯱天守、本丸御殿與石垣。",
+"facts": [
+{
+"label": "所在地",
+"value": "愛知縣名古屋市中區本丸、北區名城"
+},
+{
+"label": "開創／成因",
+"value": "1609年德川家康決定築城，1612年起正式施工，為尾張德川家居城"
+},
+{
+"label": "看點",
+"value": "金鯱天守、本丸御殿、西南隅櫓、石垣與外護城河"
+}
+],
+"best_season_zh": "春季（櫻花）與秋季",
+"tips_zh": "本丸一帶範圍頗廣，建議先看天守再到御殿，預留兩小時以上。春天可順著外堀賞櫻，傍晚打燈後的石垣與天守輪廓特別好拍。",
+"tags": [
+"金鯱",
+"日本三名城",
+"尾張德川家",
+"百名城"
+],
+"sources": [
+"https://ja.wikipedia.org/wiki/名古屋城"
+],
+"confidence": "high",
+"prompt_en": "A grand Japanese castle keep with a copper-green roof and golden shachi ornaments rising behind a massive stone-walled moat, cherry blossom branches in the foreground, mid-ground grassy embankment, soft clear spring morning light, no text, no signs, no recognizable people"
+},
+{
+"title_zh": "熱田神宮",
+"title_ja": "熱田神宮",
+"category": "神社寺院",
+"area_zh": "名古屋市熱田區",
+"summary_zh": "供奉三種神器草薙劍的古社，地位僅次於伊勢神宮。",
+"body_zh": "熱田神宮位於名古屋市熱田區，祭祀三種神器之一的草薙劍，傳說創祀於景行天皇時代，熱田社則相傳創建於646年。古時是尾張國的大社，中世以後被稱為「日本第三之鎮守」，受到僅次於伊勢神宮的崇敬。本殿與伊勢神宮同為神明造，直到1893年前都是獨特的尾張造樣式。神宮位在熱田台地南端，昔日是突入伊勢灣的海岬，如今被濃密的樹林包圍，鬧市中有難得的幽靜。每年初詣參拜者超過兩百萬人，是東海地區最具代表性的神社。",
+"facts": [
+{
+"label": "所在地",
+"value": "愛知縣名古屋市熱田區神宮"
+},
+{
+"label": "開創／成因",
+"value": "草薙劍創祀傳為景行天皇43年，熱田社相傳創建於646年"
+},
+{
+"label": "看點",
+"value": "草薙劍的神域、神明造本殿、茂密的神宮之森"
+}
+],
+"best_season_zh": "新年初詣與四季皆宜",
+"tips_zh": "參道長且有樹蔭，夏天也算涼爽，建議早上進入較清靜。正月初詣人潮極多，想細看境內請避開三天假期。",
+"tags": [
+"草薙劍",
+"三種神器",
+"尾張國",
+"神明造"
+],
+"sources": [
+"https://ja.wikipedia.org/wiki/熱田神宮"
+],
+"confidence": "high",
+"prompt_en": "A quiet forest shrine approach with a wide gravel path beneath towering ancient camphor trees, a plain wooden torii gate in the middle distance and a hint of a cypress-bark roofed shrine hall at the end, dappled morning sunlight, misty atmosphere, no text, no signs, no recognizable people"
+},
+{
+"title_zh": "香嵐溪",
+"title_ja": "香嵐渓",
+"category": "自然絕景",
+"area_zh": "豐田市足助町",
+"summary_zh": "以紅葉聞名的巴川溪谷，秋天楓葉染紅全谷。",
+"body_zh": "香嵐溪位於豐田市足助町，是矢作川支流巴川形成的溪谷，以紅葉與片栗花（猪牙花）聞名。源頭可追溯到1634年，足助香積寺的三榮和尚在參道上種下楓樹與杉樹，其後經居民不斷補植、開闢散步道，才有今日的景觀。名稱則出自1930年當時的住持與町長請大阪每日新聞社社長命名，以「薰風透過青楓帶來山氣」的意境得名。象徵性的待月橋於1953年命名，現橋為2007年重建。秋季紅葉季遊客極多，是愛知縣內最著名的賞楓名所。",
+"facts": [
+{
+"label": "所在地",
+"value": "愛知縣豐田市足助町（巴川沿岸）"
+},
+{
+"label": "開創／成因",
+"value": "1634年香積寺三榮和尚於參道植楓，後由居民擴充"
+},
+{
+"label": "看點",
+"value": "待月橋、楓葉隧道般的散步道、春季片栗花"
+}
+],
+"best_season_zh": "秋季（紅葉）與早春（片栗花）",
+"tips_zh": "紅葉季週日與假日國道153號嚴重塞車，建議搭大眾運輸或平日清晨前往。傍晚夜間點燈時的待月橋倒影相當值得等待。",
+"tags": [
+"紅葉",
+"待月橋",
+"巴川",
+"片栗花"
+],
+"sources": [
+"https://ja.wikipedia.org/wiki/香嵐渓"
+],
+"confidence": "high",
+"prompt_en": "A small red wooden footbridge over a clear mountain river, surrounded by dense vivid red and orange maple trees on both banks, layered hills in the background, soft diffused autumn afternoon light with reflections in the water, no text, no signs, no recognizable people"
+},
+{
+"title_zh": "有松",
+"title_ja": "有松",
+"category": "街區古鎮",
+"area_zh": "名古屋市綠區",
+"summary_zh": "舊東海道沿線保留老建築的宿場町風貌街區。",
+"body_zh": "有松位於名古屋市綠區，是1608年為整備東海道而開發的新村，1625年正式獨立為有松村。舊東海道沿線至今仍保留許多古老建築，1984年被名古屋市指定為町並保存地區，1986年還獲得「手づくり郷土賞」。街上設有有松・鳴海絞會館，延續當地絞染工藝的傳統。街區的建築細節與店家資訊，本次僅核實到基本資料，出發前請以官方資訊為準。看點是沿著舊街道漫步，欣賞連續的傳統町家外觀與宿場町的氛圍。",
+"facts": [
+{
+"label": "所在地",
+"value": "愛知縣名古屋市綠區有松（舊東海道沿線）"
+},
+{
+"label": "開創／成因",
+"value": "1608年因整備東海道而開發，1625年獨立為有松村"
+},
+{
+"label": "看點",
+"value": "舊東海道沿線的傳統町家街景、有松・鳴海絞會館"
+}
+],
+"best_season_zh": "春秋季及平日白天",
+"tips_zh": "全程步行即可，慢慢走完整條老街約一小時。想看絞染工藝可先到絞會館了解背景，再逛沿街店家，多數老屋為私人住宅請勿擅入。",
+"tags": [
+"東海道",
+"町並保存",
+"絞染",
+"宿場町"
+],
+"sources": [
+"https://ja.wikipedia.org/wiki/有松_(名古屋市)"
+],
+"confidence": "medium",
+"prompt_en": "A quiet old post-town street lined with traditional two-story merchant houses with latticed windows, dark tiled roofs and white plaster walls, gentle perspective along the road, soft overcast daylight, small noren curtains without lettering, no text, no signs, no recognizable people"
+},
+{
+"title_zh": "博物館明治村",
+"title_ja": "博物館明治村",
+"category": "主題設施",
+"area_zh": "犬山市",
+"summary_zh": "遷建明治時代建築的露天博物館，位於入鹿池畔。",
+"body_zh": "博物館明治村位於犬山市，是將明治時代的歷史建築遷建保存的露天博物館式主題園區。構想源自谷口吉郎與名鐵會長土川元夫，有感於戰後經濟快速成長下珍貴建築接連消失，1962年成立財團，1965年在入鹿池畔開館。開村時只有十五件建築，現已增至六十七件，占地約一百萬平方公尺，其中十一件（十四棟）為重要文化財。園內可見舊京都市電、蒸汽機車，以及1923年竣工的帝國飯店中央玄關等，能一次體驗明治時代的社會與文化。",
+"facts": [
+{
+"label": "所在地",
+"value": "愛知縣犬山市內山1（入鹿池畔）"
+},
+{
+"label": "開創／成因",
+"value": "1962年成立財團，1965年3月18日開館"
+},
+{
+"label": "看點",
+"value": "帝國飯店中央玄關、舊京都市電與蒸汽機車、重要文化財建築"
+}
+],
+"best_season_zh": "春秋季",
+"tips_zh": "園區廣大，建議穿好走的鞋並預留半天以上。可利用園內的市電與巴士代步，先看想看的重點建物再慢慢逛。",
+"tags": [
+"明治建築",
+"露天博物館",
+"帝國飯店",
+"入鹿池"
+],
+"sources": [
+"https://ja.wikipedia.org/wiki/博物館明治村"
+],
+"confidence": "high",
+"prompt_en": "A restored Meiji-era Western-style brick building with arched windows and a small tramway line in front, ginkgo trees in autumn colors, wide lawn midground and wooded hills behind, warm late-afternoon light, no text, no signs, no recognizable people"
+},
+{
+"title_zh": "竹島",
+"title_ja": "竹島（蒲郡）",
+"category": "海島海岸",
+"area_zh": "蒲郡市",
+"summary_zh": "以橋連接的三河灣小島，全島為八百富神社神域。",
+"body_zh": "竹島是愛知縣蒲郡市外海三河灣上的無人小島，面積約1.9公頃、周長約680公尺，與本土相距約400公尺，可經竹島橋步行抵達；退潮時也能與陸地相連。全島是八百富神社的神域，暖地性植被與對岸截然不同，1930年以「八百富神社社叢」被指定為天然紀念物。早期僅開帳時臨時架木橋，1932年由瀧信四郎自費建成橋梁捐給蒲郡町。島旁的蒲郡經典酒店有城郭風外觀與裝飾藝術內裝，春天可以杜鵑花為前景遠眺竹島。",
+"facts": [
+{
+"label": "所在地",
+"value": "愛知縣蒲郡市沖的三河灣（三河灣國定公園內）"
+},
+{
+"label": "開創／成因",
+"value": "島為花崗岩質，1930年指定天然紀念物，1932年建橋"
+},
+{
+"label": "看點",
+"value": "竹島橋、八百富神社、暖地性植被、潮汐陸連島景觀"
+}
+],
+"best_season_zh": "春季（杜鵑）與黃昏",
+"tips_zh": "過橋入島只需十餘分鐘，適合與蒲郡海濱散步合併安排。退潮時間可先查詢，若想看陸連的景象需配合潮汐。",
+"tags": [
+"三河灣",
+"八百富神社",
+"天然紀念物",
+"陸連島"
+],
+"sources": [
+"https://ja.wikipedia.org/wiki/竹島_(愛知県)"
+],
+"confidence": "high",
+"prompt_en": "A small forested island connected to the shore by a long gently curved wooden-and-concrete footbridge, calm bay water, a tiny shrine roof peeking through dense evergreen trees, soft golden hour light with pastel sky, no text, no signs, no recognizable people"
+},
+{
+"title_zh": "湯谷溫泉",
+"title_ja": "湯谷温泉",
+"category": "溫泉",
+"area_zh": "新城市",
+"summary_zh": "鳳來峽宇連川畔的古老溫泉，日本百名湯之一。",
+"body_zh": "湯谷溫泉位於新城市，是沿著景勝鳳來峽宇連川發展的溫泉街，入選日本百名湯。相傳開湯已有約一千三百年，傳說由鳳來寺開山祖師利修仙人發現。泉質以鈉・鈣－氯化物泉為主，屬低溫的冷礦泉。溫泉街內有國家天然紀念物「馬背岩」、落差約四公尺的湯谷大滝，以及可眺望兩者的吊橋「浮石橋」。入口處設有溫泉取水站，2008年還設置了足湯。周邊可串聯鳳來寺山、長篠城等景點，交通可搭JR飯田線在湯谷溫泉站下車。",
+"facts": [
+{
+"label": "所在地",
+"value": "愛知縣新城市（鳳來峽宇連川沿岸）"
+},
+{
+"label": "開創／成因",
+"value": "相傳約1300年前由鳳來寺開祖利修仙人發現"
+},
+{
+"label": "看點",
+"value": "馬背岩（天然紀念物）、湯谷大滝、浮石橋、足湯"
+}
+],
+"best_season_zh": "新綠與紅葉季",
+"tips_zh": "搭飯田線抵達最方便，車程班次較少需先查時刻。可順遊鳳來寺山或長篠城，入住前先在溪畔浮石橋散步看夕景。",
+"tags": [
+"鳳來峽",
+"宇連川",
+"日本百名湯",
+"馬背岩"
+],
+"sources": [
+"https://ja.wikipedia.org/wiki/湯谷温泉_(愛知県)"
+],
+"confidence": "high",
+"prompt_en": "A quiet river gorge with a narrow suspension footbridge over green water, a low rocky weir waterfall, a small hot-spring town with wooden inn buildings on the bank, forested slopes with soft mist, gentle diffused morning light, no text, no signs, no recognizable people"
+},
+{
+"title_zh": "德川園",
+"title_ja": "徳川園",
+"category": "庭園公園",
+"area_zh": "名古屋市東區",
+"summary_zh": "尾張藩二代藩主隱居所遺跡，池泉迴遊式大名庭園。",
+"body_zh": "德川園位於名古屋市東區，是1695年尾張藩二代藩主德川光友的隱居所「大曾根御屋敷」遺址上築成的池泉迴遊式大名庭園，當年敷地約44公頃。園內的山、大曾根之瀧、溪流、龍仙湖、牡丹園與菖蒲田，分別象徵木曾山脈、木曾三川、伊勢灣與濃尾平野，把尾張的風土濃縮其中。龍門瀑布是自江戶戶山莊遺構移設，約每二十分鐘會有激流沖沒飛石。另有三疊台目茶室瑞龍亭，西側黑門是戰火中倖存的徳川邸遺構。",
+"facts": [
+{
+"label": "所在地",
+"value": "愛知縣名古屋市東區德川町"
+},
+{
+"label": "開創／成因",
+"value": "1695年德川光友隱居所，庭園以尾張風土為意象築成"
+},
+{
+"label": "看點",
+"value": "龍門瀑布、龍仙湖、牡丹園、茶室瑞龍亭、黑門"
+}
+],
+"best_season_zh": "春（牡丹）與秋季",
+"tips_zh": "園旁有徳川美術館，可同日安排；龍門瀑布每約二十分鐘有一次激流，記得停留等待。冬季牡丹草花期可留意園方公告。",
+"tags": [
+"大名庭園",
+"龍門瀑布",
+"徳川美術館",
+"池泉迴遊式"
+],
+"sources": [
+"https://ja.wikipedia.org/wiki/徳川園"
+],
+"confidence": "high",
+"prompt_en": "A Japanese stroll garden with a still pond, a stone-lantern and a small cascade flowing over rocks, carefully pruned pines and maples, a thatched tea-house in the mid-ground, soft early autumn light with water reflections, no text, no signs, no recognizable people"
+}
+]
+}

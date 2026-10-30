@@ -1,0 +1,157 @@
+{
+  "id": "ibaraki",
+  "spots": [
+    {
+      "title_zh": "偕樂園",
+      "title_ja": "偕楽園",
+      "category": "庭園公園",
+      "area_zh": "水戶市",
+      "summary_zh": "日本三名園之一、以梅林聞名的水戶藩庭園",
+      "body_zh": "偕樂園位於水戶市，由水戶藩第九代藩主德川齊昭於1842年7月創設，與金澤兼六園、岡山後樂園並稱日本三名園。園內種有約100個品種、3000株梅樹，二至三月梅花盛開時香氣瀰漫。園內的好文亭是三層樓木造建築，設計巧思別具特色，由此可遠眺仙波湖。除了梅花節，還有夜梅祭、四月櫻花與五月杜鵑，一年四季皆有看頭。",
+      "facts": [
+        {"label": "所在地", "value": "茨城縣水戶市"},
+        {"label": "開創／成因", "value": "1842年水戶藩主德川齊昭創設，日本三名園之一"},
+        {"label": "看點", "value": "約100品種3000株梅樹、三層樓好文亭、遠眺仙波湖"}
+      ],
+      "best_season_zh": "2月至3月（梅花）",
+      "tips_zh": "JR常磐線水戶站轉乘巴士可達，梅花節期間設有臨時車站。縣外遊客入園需付費，梅花節期間人多，建議早到；實際收費與開放時間以官方公告為準。",
+      "tags": ["日本三名園", "梅林", "德川齊昭", "好文亭"],
+      "sources": ["https://ja.wikipedia.org/wiki/偕楽園"],
+      "confidence": "high",
+      "prompt_en": "A traditional Japanese garden with a grove of blossoming plum trees in white and pink, a wooden multi-story pavilion with a gently sloping roof visible among the branches, a calm lake in the far background, early spring late-morning light, fallen petals on the ground in the foreground. No text, no signage, no recognizable people."
+    },
+    {
+      "title_zh": "筑波山",
+      "title_ja": "筑波山",
+      "category": "山岳高原",
+      "area_zh": "筑波市",
+      "summary_zh": "男體、女體雙峰並列、自古入詠的紫峰",
+      "body_zh": "筑波山位於筑波市北端，由男體山（871公尺）與女體山（877公尺）雙峰構成，最高點為女體山。山體以花崗岩為主，並非火山，在《萬葉集》等古典文學中屢屢出現，因遠望色澤呈紫色而別稱「紫峰」。兩座山頂各有筑波山神社的奧宮。山上有纜車與空中纜車連接山腳與中段，登山步道有平緩也有岩石陡峭之處，登頂可俯瞰關東平原。",
+      "facts": [
+        {"label": "所在地", "value": "茨城縣筑波市北端"},
+        {"label": "開創／成因", "value": "以花崗岩為主的雙峰山體，非火山"},
+        {"label": "看點", "value": "男體山871公尺、女體山877公尺雙峰，纜車與登山步道"}
+      ],
+      "best_season_zh": "秋（紅葉）、初春（梅花節）",
+      "tips_zh": "黃金週與紅葉季遊客多，纜車可能排隊。岩場步道較陡，請穿防滑登山鞋；纜車運行時間與山頂天候請出發前先確認。",
+      "tags": ["雙峰", "萬葉集", "筑波山神社", "關東平原"],
+      "sources": ["https://ja.wikipedia.org/wiki/筑波山"],
+      "confidence": "high",
+      "prompt_en": "A twin-peaked granite mountain rising alone above a flat plain, seen from a rice-field foreground in early autumn, golden light of late afternoon, soft clouds around the summits, subtle purple haze on the slopes, wide-angle composition. No text, no signage, no recognizable people."
+    },
+    {
+      "title_zh": "袋田瀑布",
+      "title_ja": "袋田の滝",
+      "category": "自然絕景",
+      "area_zh": "久慈郡大子町",
+      "summary_zh": "四段落下、名列日本三名瀑的大瀑布",
+      "body_zh": "袋田瀑布位於大子町，水流分四段落下，落差約120公尺、寬約73公尺，又名「四度瀑布」。名稱有兩種說法：一說因四段水流，一說因西行法師稱讚須四季來訪才能盡賞其美。它與華嚴瀑布、那智瀑布並列日本三名瀑，並曾在1990年日本瀑布百選票選中獲第一名。遊客穿過276公尺隧道到達觀瀑台，2008年啟用的第二觀瀑台有電梯，可一次看到四段落水；冬季偶爾結成冰瀑。",
+      "facts": [
+        {"label": "所在地", "value": "茨城縣久慈郡大子町"},
+        {"label": "開創／成因", "value": "四段落水，落差約120公尺；日本三名瀑之一"},
+        {"label": "看點", "value": "276公尺隧道步道、第二觀瀑台電梯、冬季冰瀑"}
+      ],
+      "best_season_zh": "秋（紅葉）、冬（冰瀑）",
+      "tips_zh": "搭JR水郡線到袋田站，再轉巴士，下車後步行約8分鐘到入口。冰瀑並非每年完全結冰，出發前請查最新狀況；冬季隧道內地面濕滑。",
+      "tags": ["日本三名瀑", "四度瀑布", "冰瀑", "紅葉"],
+      "sources": ["https://ja.wikipedia.org/wiki/袋田の滝"],
+      "confidence": "high",
+      "prompt_en": "A tall multi-tiered waterfall cascading down a steep dark rock face in four steps, surrounded by vivid autumn maple foliage in red and orange, a wooden observation deck at the lower edge, soft overcast light with silky long-exposure water, mist at the base. No text, no signage, no recognizable people."
+    },
+    {
+      "title_zh": "常陸海濱公園",
+      "title_ja": "国営ひたち海浜公園",
+      "category": "庭園公園",
+      "area_zh": "ひたちなか市",
+      "summary_zh": "粉蝶花藍色花海與掃帚草紅丘的海濱公園",
+      "body_zh": "國營常陸海濱公園位於ひたちなか市，前身為戰後美軍的射擊場，1973年歸還後整備，1991年10月開園，總面積約350公頃，約為東京迪士尼樂園的七倍。園區最有名的是「見晴之丘」：春季粉蝶花覆蓋山丘，形成一片藍色花海；秋季則換成會轉紅的掃帚草。園內另有高約100公尺的大型摩天輪和遊樂設施、花園，全年都有不同花卉登場。",
+      "facts": [
+        {"label": "所在地", "value": "茨城縣ひたちなか市"},
+        {"label": "開創／成因", "value": "原為美軍射擊場，1973年返還，1991年開園"},
+        {"label": "看點", "value": "春季粉蝶花、秋季掃帚草、見晴之丘"}
+      ],
+      "best_season_zh": "4月下旬至5月上旬（粉蝶花）、10月（掃帚草）",
+      "tips_zh": "從勝田站搭巴士約20分鐘。花季週末人潮多，建議早上入園；週二通常休園，入園費與開園時間依季節變動，請查官方公告。",
+      "tags": ["粉蝶花", "掃帚草", "花海", "海濱公園"],
+      "sources": ["https://ja.wikipedia.org/wiki/国営ひたち海浜公園"],
+      "confidence": "high",
+      "prompt_en": "A gently rolling hill completely covered in tiny sky-blue flowers stretching to the horizon, bright blue sky meeting the blue flowers, a distant sea line and a few windbreak trees, late April midday light, wide landscape with soft white clouds. No text, no signage, no recognizable people."
+    },
+    {
+      "title_zh": "鹿島神宮",
+      "title_ja": "鹿島神宮",
+      "category": "神社寺院",
+      "area_zh": "鹿嶋市",
+      "summary_zh": "祭祀武神武甕槌大神、鎮壓地震的要石所在",
+      "body_zh": "鹿島神宮位於鹿嶋市宮中，主祭神為武甕槌大神，是日本神話中的武神，傳說創建於神武天皇元年，受到武士與武道家崇敬，也是藤原氏的氏神。境內的要石據說壓住引發地震的大鯰魚，石頭凹陷、露出地面部分小卻深入地下。1634年由德川賴房所建的樓門，列為日本三大樓門之一；另有國寶直刀「布都御魂劍」，長約2.24公尺。與香取神宮、息栖神社並稱東國三社。",
+      "facts": [
+        {"label": "所在地", "value": "茨城縣鹿嶋市宮中2306-1"},
+        {"label": "開創／成因", "value": "傳說創建於神武天皇元年，主祭神武甕槌大神"},
+        {"label": "看點", "value": "要石、1634年樓門、國寶布都御魂劍"}
+      ],
+      "best_season_zh": "全年，新綠與秋季靜謐",
+      "tips_zh": "境內森林茂密，可沿參道慢慢走到奧參道。交通資訊與參拜時間請以官方公告為準；要石位於境內深處，建議留足半天。",
+      "tags": ["武神", "要石", "東國三社", "樓門"],
+      "sources": ["https://ja.wikipedia.org/wiki/鹿島神宮"],
+      "confidence": "medium",
+      "prompt_en": "A vermilion two-story shrine gate standing at the edge of a dense ancient cedar forest, a gravel approach path leading toward it, dappled morning sunlight filtering through tall trees, quiet misty atmosphere, stone lanterns lining the path in the midground. No text, no signage, no recognizable people."
+    },
+    {
+      "title_zh": "弘道館",
+      "title_ja": "弘道館",
+      "category": "城郭史蹟",
+      "area_zh": "水戶市",
+      "summary_zh": "日本最大規模藩校之一的水戶藩學府",
+      "body_zh": "弘道館位於水戶市，由水戶藩主德川齊昭創設，1841年7月完成，1857年5月正式開學，占地約10萬5千平方公尺，是日本最大級的藩校之一。除武藝外，也教授各種學問與科學。主要建築有政務用的正廳、供藩主與世子學習的至善堂，以及孔子廟。園內約有60個品種、800株梅樹，是賞梅名所。列為國特別史蹟，2015年入選日本遺產，2011年地震受損後於2013年修復。",
+      "facts": [
+        {"label": "所在地", "value": "茨城縣水戶市"},
+        {"label": "開創／成因", "value": "1841年水戶藩主德川齊昭創設，1857年正式開學"},
+        {"label": "看點", "value": "正廳、至善堂、孔子廟、約800株梅樹"}
+      ],
+      "best_season_zh": "2月至3月（梅花）",
+      "tips_zh": "與偕樂園同在水戶市，可安排同日參觀。歷史建築需付費入館，開館時間與費用請查官方公告；2011年地震後已修復，現況以現場為準。",
+      "tags": ["藩校", "水戶學", "特別史蹟", "梅"],
+      "sources": ["https://ja.wikipedia.org/wiki/弘道館"],
+      "confidence": "high",
+      "prompt_en": "A traditional Japanese samurai school compound with a long low-eaved wooden hall and wide veranda, plum trees blooming in the courtyard foreground, gravel path, black tiled roof against a clear pale winter sky, soft early spring morning light. No text, no signage, no recognizable people."
+    },
+    {
+      "title_zh": "大洗磯前神社",
+      "title_ja": "大洗磯前神社",
+      "category": "海島海岸",
+      "area_zh": "東茨城郡大洗町",
+      "summary_zh": "海中神磯鳥居與日出聞名的海岸神社",
+      "body_zh": "大洗磯前神社位於大洗町，建於俯瞰太平洋的海岸高地，祭祀大己貴命與少彥名命。據古記錄，856年有神明降臨大洗，漁夫見到海中出現光芒與奇石。神社中世因戰亂衰微，1690年代由水戶藩主德川光圀重興。最具代表性的是立於海浪中的「神磯鳥居」，據說是神明降臨之處，也是知名的日出觀賞點，是大洗町的象徵。",
+      "facts": [
+        {"label": "所在地", "value": "茨城縣東茨城郡大洗町"},
+        {"label": "開創／成因", "value": "傳856年神降於此，1690年代由德川光圀重興"},
+        {"label": "看點", "value": "矗立海中的神磯鳥居、太平洋日出"}
+      ],
+      "best_season_zh": "冬季日出最受歡迎",
+      "tips_zh": "神磯鳥居位於海岸岩礁，浪大時務必保持距離，不要靠近岩石。從鹿島臨海鐵道大洗站步行約40分鐘，也可改搭巴士；日出時間請事先查詢。",
+      "tags": ["神磯鳥居", "日出", "太平洋", "大洗"],
+      "sources": ["https://ja.wikipedia.org/wiki/大洗磯前神社"],
+      "confidence": "medium",
+      "prompt_en": "A stone torii gate standing on a rocky outcrop in crashing ocean waves, golden sunrise on the horizon, pink and orange sky reflected in the wet rocks, long-exposure foamy surf in the foreground, dramatic coastal atmosphere, early winter morning. No text, no signage, no recognizable people."
+    },
+    {
+      "title_zh": "龍神大吊橋",
+      "title_ja": "竜神大吊橋",
+      "category": "主題設施",
+      "area_zh": "常陸太田市",
+      "summary_zh": "橫跨龍神峽水庫、長375公尺的人行吊橋",
+      "body_zh": "龍神大吊橋位於常陸太田市的龍神峽，橫跨龍神川水庫，1994年4月完工，全長375公尺，離水面高約100公尺，工程費約33億日圓，橋塔造型為龍形。完工時是全日本最長的人行吊橋，並維持了12年，現為全國第四長。龍神峽為V字形峽谷，有「關東的耶馬溪」之稱。橋上可遠眺阿武隈高地與八溝山地，2014年3月起提供高空彈跳；4至5月有鯉魚旗祭，約掛出1000條。",
+      "facts": [
+        {"label": "所在地", "value": "茨城縣常陸太田市（龍神峽）"},
+        {"label": "開創／成因", "value": "1994年4月完工，全長375公尺、高約100公尺"},
+        {"label": "看點", "value": "龍形橋塔、V字峽谷、紅葉、鯉魚旗祭與高空彈跳"}
+      ],
+      "best_season_zh": "秋（紅葉）、4至5月（鯉魚旗）",
+      "tips_zh": "從JR水郡線常陸太田站搭巴士約1小時，班次不多，建議先查時刻。橋面風大，請固定好帽子與手機；通行費與營業時間以官方公告為準。",
+      "tags": ["吊橋", "龍神峽", "紅葉", "鯉魚旗"],
+      "sources": ["https://ja.wikipedia.org/wiki/竜神大吊橋"],
+      "confidence": "medium",
+      "prompt_en": "A very long pedestrian suspension bridge spanning a deep forested V-shaped valley with a reservoir far below, dragon-shaped towers at each end, vivid autumn foliage in red and gold on the slopes, hazy morning light, wide view from slightly above the bridge. No text, no signage, no recognizable people."
+    }
+  ]
+}
