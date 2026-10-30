@@ -79,3 +79,10 @@ python3 build_site.py --images /path/to/原始圖片目錄
 - **吉祥物（mascot）為原創角色，非官方吉祥物**，與各地真實吉祥物及其商標無關。
 - 商標地標以上位概念描述；歷史人物、服飾模特兒皆不描繪可辨識真人。
 - 未做多語言校對；日文名稱與細節可能有誤。
+
+
+## 圖片存放位置（已設定）
+圖片 1,751 張（含縮圖共 3,502 檔，約 404MB）存放在獨立 repo：
+[Inari-Kira-Isla/japan-encyclopedia-assets](https://github.com/Inari-Kira-Isla/japan-encyclopedia-assets)，
+網站透過 `atlas/site/config.js` 的 `JP_IMG_BASE` 經 jsDelivr 讀取（固定標籤 `@v1`）。
+原圖（1536px）另有 Google Drive 備份，不作為網站來源。若日後搬到其他圖床，只需改 `config.js` 一行。
