@@ -1,0 +1,149 @@
+{
+  "id": "kumamoto",
+  "foods": [
+    {
+      "title_zh": "馬刺し",
+      "title_ja": "馬刺し",
+      "category": "肉類",
+      "summary_zh": "切成薄片生食的馬肉，熊本是日本馬肉最大產地。",
+      "body_zh": "馬刺是把馬肉切成薄片生吃的料理，依部位分成霜降、赤身、鬃脂等，口感各有不同。據日文維基百科，熊本縣的馬肉產量約佔全國四成，是日本最主要的產地，縣內加工設施也有嚴格的衛生管理。常見吃法是蘸醬油，再配薑泥、蒜泥與蔥花，部分店家也會附上熊本特有的甘口醬油。吃的時候講究肉質新鮮，建議到專門店品嚐。",
+      "facts": [
+        {"label": "起源", "value": "頁面未載明確年代，只說明熊本為日本馬肉主要產地"},
+        {"label": "主要食材", "value": "馬肉（霜降、赤身、鬃脂等部位）"},
+        {"label": "吃法", "value": "薄切生食，蘸醬油並配薑、蒜、蔥"}
+      ],
+      "season_zh": "全年",
+      "where_zh": "熊本市區的馬肉專門店與居酒屋",
+      "tags": ["馬肉", "生食", "熊本名物", "居酒屋"],
+      "sources": ["https://ja.wikipedia.org/wiki/馬刺し"],
+      "confidence": "high",
+      "prompt_en": "A single elegant plate of fresh basashi, thin slices of marbled and lean raw horse meat fanned out on a black lacquer plate, small mound of grated ginger and garlic and chopped green onion on the side, a tiny dish of soy sauce, dark wooden izakaya counter, soft warm side lighting, shallow depth of field, no text, no signage"
+    },
+    {
+      "title_zh": "熊本拉麵",
+      "title_ja": "熊本ラーメン",
+      "category": "麵飯",
+      "summary_zh": "豚骨湯頭加蒜片與蒜油，味道比博多更圓潤。",
+      "body_zh": "熊本拉麵源自福岡久留米的豚骨拉麵傳統，經玉名傳入熊本市。據日文維基百科，1950年代中期，熊本市內幾家名店陸續開業，並開創了在拉麵中加入炸蒜片或蒜油（マー油）的做法，使味道比博多拉麵更圓潤。湯頭以豚骨為主，部分店家混入雞骨，麵條為偏硬的中粗直麵，常配台式滷蛋、木耳、叉燒、筍乾與豆芽。",
+      "facts": [
+        {"label": "起源", "value": "1950年代中期於熊本市的名店興起"},
+        {"label": "主要食材", "value": "豚骨湯、中粗直麵、蒜片與蒜油"},
+        {"label": "吃法", "value": "配滷蛋、木耳、叉燒、筍乾、豆芽一起吃"}
+      ],
+      "season_zh": "全年",
+      "where_zh": "熊本市內的拉麵專門店",
+      "tags": ["拉麵", "豚骨", "蒜油", "熊本名物"],
+      "sources": ["https://ja.wikipedia.org/wiki/熊本ラーメン"],
+      "confidence": "high",
+      "prompt_en": "A single bowl of Kumamoto tonkotsu ramen, creamy pork bone broth with a swirl of black garlic oil, crispy fried garlic chips on top, slices of chashu, wood ear mushrooms, bamboo shoots, a halved marinated egg and green onion, white ceramic bowl on a worn wooden counter, rising steam, warm soft light, no text, no signage"
+    },
+    {
+      "title_zh": "團子湯",
+      "title_ja": "だご汁",
+      "category": "鄉土料理",
+      "summary_zh": "手撕麵疙瘩與根莖蔬菜同煮的熊本家常湯。",
+      "body_zh": "だご汁是熊本的鄉土料理，「だご」是熊本方言中的團子。據農林水產省的介紹，這道菜過去是農忙休息時吃的家常料理，做法是把麵粉和水揉好靜置，再用手拉成扁平的麵疙瘩，下入以小魚乾與乾香菇熬成的高湯，與芋頭、牛蒡、紅蘿蔔、白蘿蔔等蔬菜同煮，以醬油或味噌調味。秋冬蔬菜收成時最受歡迎，也常配高菜飯。",
+      "facts": [
+        {"label": "起源", "value": "農忙休息時吃的家常料理，確切年代不詳"},
+        {"label": "主要食材", "value": "麵粉團子、芋頭、牛蒡、紅蘿蔔、白蘿蔔、乾香菇"},
+        {"label": "吃法", "value": "趁熱連湯食用，常配高菜飯"}
+      ],
+      "season_zh": "全年，秋冬尤其常見",
+      "where_zh": "熊本縣內家庭與鄉土料理店",
+      "tags": ["鄉土料理", "湯品", "麵疙瘩", "家常菜"],
+      "sources": ["https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/dagojiru_kumamoto.html"],
+      "confidence": "high",
+      "prompt_en": "A single rustic earthenware bowl of dago-jiru, flat hand-pulled flour dumplings in a clear soy-based broth with taro, burdock, carrot, daikon and shiitake, chopped green onion on top, steam rising, on a plain wooden farmhouse table, soft natural window light, no text, no signage"
+    },
+    {
+      "title_zh": "辣味蓮藕",
+      "title_ja": "からし蓮根",
+      "category": "特產食材",
+      "summary_zh": "蓮藕孔洞塞芥末味噌後裹粉油炸的熊本名產。",
+      "body_zh": "辣味蓮藕是在蓮藕孔洞中填入芥末味噌，再裹上加了薑黃的麵衣，以菜籽油炸成金黃色。據日文維基百科，傳說1632年廚師平五郎為讓體弱的藩主細川忠利有食慾而創製，切面的圖案也像細川家的家紋。這個說法屬傳說，細節難以考證。成品切成5至10毫米厚片直接吃，也有人沾醬油或美乃滋，是熊本常見的伴手禮與年節菜。",
+      "facts": [
+        {"label": "起源", "value": "傳說1632年為細川忠利所創（屬傳說）"},
+        {"label": "主要食材", "value": "蓮藕、芥末味噌、麵衣、薑黃"},
+        {"label": "吃法", "value": "切成厚片直接吃，或沾醬油、美乃滋"}
+      ],
+      "season_zh": "全年",
+      "where_zh": "熊本市的特產店與伴手禮店",
+      "tags": ["蓮藕", "熊本名產", "伴手禮", "細川家"],
+      "sources": ["https://ja.wikipedia.org/wiki/辛子蓮根"],
+      "confidence": "medium",
+      "prompt_en": "A single plate of karashi renkon, thick golden-fried slices of lotus root stuffed with mustard miso showing the hole pattern in cross section, a few slices fanned on a small ceramic plate, tiny dab of mustard on the side, light grey linen cloth on a wooden table, soft daylight, no text, no signage"
+    },
+    {
+      "title_zh": "突然糰子",
+      "title_ja": "いきなり団子",
+      "category": "甜點和菓子",
+      "summary_zh": "地瓜片與紅豆餡包進麵皮蒸成的熊本鄉土點心。",
+      "body_zh": "突然糰子是把切片的地瓜包在麵粉、糰子粉與鹽揉成的麵皮裡蒸熟的熊本鄉土點心。據日文維基百科，過去是農家在地瓜收成季節吃的點心，現在多半加入紅豆餡。名稱有「簡單快速」的意思，也指客人突然來訪時能立刻做出來招待。口感樸實，現在也有冷凍或真空包裝版，半解凍冷吃是另一種人氣吃法。",
+      "facts": [
+        {"label": "起源", "value": "農家在地瓜收成季吃的點心，確切年代不詳"},
+        {"label": "主要食材", "value": "地瓜、麵粉、糰子粉、紅豆餡"},
+        {"label": "吃法", "value": "趁熱吃，或半解凍冷吃"}
+      ],
+      "season_zh": "全年",
+      "where_zh": "熊本縣內的和菓子店與休息站",
+      "tags": ["地瓜", "蒸點心", "紅豆餡", "鄉土點心"],
+      "sources": ["https://ja.wikipedia.org/wiki/いきなり団子"],
+      "confidence": "high",
+      "prompt_en": "A single ikinari dango cut in half on a small ceramic dish, soft steamed pale dough revealing a slice of purple-skinned sweet potato and sweet red bean paste, a pair of wooden picks beside it, rustic wooden table, soft natural daylight, no text, no signage"
+    },
+    {
+      "title_zh": "球磨燒酎",
+      "title_ja": "球磨焼酎",
+      "category": "酒與飲品",
+      "summary_zh": "人吉球磨產的米燒酎，已獲地理標示保護。",
+      "body_zh": "球磨燒酎是用米釀造的燒酎，產於熊本縣球磨郡與人吉市。據日文維基百科，1995年取得地理標示，2006年成為燒酎中首個地域團體商標。人吉盆地冬季氣溫較低、日夜溫差大，加上球磨川水系的軟水，讓米的甜味更突出，風味柔和乾淨。江戶時代已有酒藏紀錄，傳統上以小杯飲用，現在多喝冰塊或兌熱水。",
+      "facts": [
+        {"label": "起源", "value": "江戶時代已有酒藏，1710年有紀錄"},
+        {"label": "主要食材", "value": "米與麴，使用球磨川水系軟水"},
+        {"label": "吃法", "value": "加冰塊或兌熱水飲用"}
+      ],
+      "season_zh": "全年",
+      "where_zh": "人吉球磨地區的酒藏與當地居酒屋",
+      "tags": ["燒酎", "米燒酎", "人吉球磨", "地理標示"],
+      "sources": ["https://ja.wikipedia.org/wiki/球磨焼酎"],
+      "confidence": "high",
+      "prompt_en": "A single glass of Kuma rice shochu on the rocks with a large clear ice sphere, a ceramic shochu bottle behind it slightly out of focus, small plain ceramic cup beside, old wooden table in a traditional sake brewery setting, soft warm lamp light, no text, no label, no signage"
+    },
+    {
+      "title_zh": "太平燕",
+      "title_ja": "太平燕",
+      "category": "B級美食",
+      "summary_zh": "春雨粉配炸蛋與海鮮蔬菜的熊本中華風湯麵。",
+      "body_zh": "太平燕源自福建福州，原為雲吞加鴨蛋的湯品，明治時期移居日本的華僑以當地食材改良，改用春雨粉和炸雞蛋。據日文維基百科，大約在1933至1934年間，熊本的中華料理店已推出這道菜，不過無法確定單一創始者。如今它是熊本的在地美食，也出現在學校營養午餐中，湯頭清爽，配料有蔬菜、海鮮與炸蛋。",
+      "facts": [
+        {"label": "起源", "value": "福建福州菜，約1930年代於熊本形成在地版本"},
+        {"label": "主要食材", "value": "春雨粉、炸雞蛋、蔬菜與海鮮"},
+        {"label": "吃法", "value": "像湯麵一樣連湯食用"}
+      ],
+      "season_zh": "全年",
+      "where_zh": "熊本市的中華料理店與麵店",
+      "tags": ["春雨", "炸蛋", "中華風", "熊本B級美食"],
+      "sources": ["https://ja.wikipedia.org/wiki/太平燕"],
+      "confidence": "medium",
+      "prompt_en": "A single large white bowl of Taipien, clear savory broth with translucent glass noodles, a golden fried egg on top, shrimp, squid, cabbage, wood ear mushroom and sliced green onion, steam rising, round wooden table in a casual Chinese-Japanese diner, warm soft light, no text, no signage"
+    },
+    {
+      "title_zh": "熊本赤牛",
+      "title_ja": "あか牛",
+      "category": "肉類",
+      "summary_zh": "褐毛和種的熊本系赤身牛肉，脂肪適中。",
+      "body_zh": "赤牛是褐毛和種的通稱，由熊本與高知的在來紅牛，與西門塔爾牛等雜交改良而成，分為熊本系與高知系。據日文維基百科，其特色是瘦肉為主、脂肪約8至15%，肉質柔嫩又有鮮味，脂肪含β-胡蘿蔔素而呈淡奶油色。此牛耐寒耐熱、性情溫順，適合放牧飼養。常見吃法是烤肉或牛排，能吃到紅肉原味。",
+      "facts": [
+        {"label": "起源", "value": "熊本與高知在來牛雜交改良，1944年獲官方認定"},
+        {"label": "主要食材", "value": "褐毛和種牛肉，脂肪約8至15%"},
+        {"label": "吃法", "value": "烤肉、牛排等，品嚐赤身原味"}
+      ],
+      "season_zh": "全年",
+      "where_zh": "熊本縣內的燒肉店與牛排餐廳",
+      "tags": ["和牛", "赤身", "褐毛和種", "牛排"],
+      "sources": ["https://ja.wikipedia.org/wiki/あか牛"],
+      "confidence": "medium",
+      "prompt_en": "A single plate of grilled Akaushi beef steak sliced into pieces showing a rosy medium-rare center and lean red meat with light fat, small mound of coarse salt and a wedge of lemon, dark stone plate on a wooden table, soft side lighting, no text, no signage"
+    }
+  ]
+}

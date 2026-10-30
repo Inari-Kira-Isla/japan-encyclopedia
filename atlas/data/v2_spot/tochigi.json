@@ -1,0 +1,157 @@
+{
+  "id": "tochigi",
+  "spots": [
+    {
+      "title_zh": "日光東照宮",
+      "title_ja": "日光東照宮",
+      "category": "神社寺院",
+      "area_zh": "日光市",
+      "summary_zh": "供奉德川家康、極盡雕飾的世界遺產神社",
+      "body_zh": "日光東照宮位於日光市山內，祭祀德川家康（東照大權現）。1617年初建，1636年寬永年間大規模改建成現今面貌，採權現造樣式。標誌性的陽明門被稱為「日暮門」，裝飾精緻到看一整天也不覺膩；神廄舍的三猿雕刻與「眠貓」也很有名，全區共有5173件雕刻裝飾。1999年與周邊寺社一同列入世界文化遺產，是日本全國東照宮的總本社。",
+      "facts": [
+        {"label": "所在地", "value": "栃木縣日光市山內2301"},
+        {"label": "開創／成因", "value": "1617年創建，1636年寬永大改建；1999年列世界遺產"},
+        {"label": "看點", "value": "陽明門、三猿雕刻、眠貓、5173件裝飾雕刻"}
+      ],
+      "best_season_zh": "秋（紅葉）、新綠",
+      "tips_zh": "從日光站搭巴士約15分鐘。境內階梯多、占地廣，建議預留半天；拜觀費與開放時間請出發前到官方網站確認，旺季人潮多。",
+      "tags": ["世界遺產", "德川家康", "陽明門", "三猿"],
+      "sources": ["https://ja.wikipedia.org/wiki/日光東照宮"],
+      "confidence": "high",
+      "prompt_en": "An ornate lavishly carved shrine gate in white, red and gold with intricate relief decoration, seen through towering ancient cedar trees, dappled sunlight filtering in autumn, stone lanterns and stone steps in the foreground, slightly misty atmosphere. No text, no signage, no recognizable people."
+    },
+    {
+      "title_zh": "華嚴瀑布",
+      "title_ja": "華厳滝",
+      "category": "自然絕景",
+      "area_zh": "日光市中禪寺湖",
+      "summary_zh": "中禪寺湖水一氣墜落97公尺的名瀑",
+      "body_zh": "華嚴瀑布位於日光市，是中禪寺湖唯一的出水口。湖水經大尻川直落，落差97公尺、寬約7公尺，與袋田瀑布、那智瀑布並列日本三名瀑。岩壁底部另有十二條細流滲出，形成稱為「十二瀑」的小瀑布。觀瀑台設有電梯，可降至瀑潭附近近距離觀賞。水量由水壩調節，白天約每秒1至2.5噸，遇颱風可暴增數十倍，隨降雨變化大。1931年指定名勝，2007年列地質遺產。",
+      "facts": [
+        {"label": "所在地", "value": "栃木縣日光市中禪寺湖畔"},
+        {"label": "開創／成因", "value": "中禪寺湖水經大尻川直落，落差97公尺"},
+        {"label": "看點", "value": "電梯觀瀑台、岩壁十二瀑、日本三名瀑之一"}
+      ],
+      "best_season_zh": "秋（紅葉）、雨後水量大時",
+      "tips_zh": "自日光站或東武日光站搭巴士到中禪寺溫泉，再步行約5分鐘。瀑布水量因天氣與調節變化大，雨後最壯觀；瀑潭附近水霧重，請備雨衣。",
+      "tags": ["日本三名瀑", "中禪寺湖", "奧日光", "紅葉"],
+      "sources": ["https://ja.wikipedia.org/wiki/華厳滝"],
+      "confidence": "high",
+      "prompt_en": "A single tall narrow waterfall plunging down a sheer dark rock cliff into a misty gorge, surrounded by autumn red and yellow foliage, water mist rising at the base, soft overcast light, view from a lower observation platform looking up. No text, no signage, no recognizable people."
+    },
+    {
+      "title_zh": "戰場之原",
+      "title_ja": "戦場ヶ原",
+      "category": "山岳高原",
+      "area_zh": "日光市奧日光",
+      "summary_zh": "男體山噴發堵河而成的高層濕原",
+      "body_zh": "戰場之原位於日光國立公園內，海拔約1390至1400公尺，面積約400公頃，是廣闊的高層濕原。約兩萬年前男體山噴發，熔岩堵住湯川形成堰塞湖，其後泥沙與火山噴出物堆積，在冷涼氣候下植物形成泥炭，逐漸變成濕原。木棧道的自然研究路沿湯川南北延伸，可望見男體山，夏季盛開各種野花。2005年11月登錄為拉姆薩爾公約濕地。",
+      "facts": [
+        {"label": "所在地", "value": "栃木縣日光市奧日光（日光國立公園）"},
+        {"label": "開創／成因", "value": "約2萬年前男體山噴發堵塞湯川，堰塞湖淤積成濕原"},
+        {"label": "看點", "value": "木棧道自然研究路、男體山眺望、2005年登錄拉姆薩爾濕地"}
+      ],
+      "best_season_zh": "6至8月（野花）、10月（草原轉黃紅）",
+      "tips_zh": "從日光站搭巴士前往，步道起點在赤沼附近，設有遊客中心。濕原內請勿離開棧道；高地早晚涼，夏天也建議帶薄外套。",
+      "tags": ["濕原", "拉姆薩爾", "男體山", "奧日光"],
+      "sources": ["https://ja.wikipedia.org/wiki/戦場ヶ原"],
+      "confidence": "high",
+      "prompt_en": "A wide open highland wetland with golden autumn grasses and a winding wooden boardwalk, a large volcanic mountain rising in the background, small stream through the grass, low morning sun and light mist, sparse white-barked trees at the edge. No text, no signage, no recognizable people."
+    },
+    {
+      "title_zh": "鬼怒川溫泉",
+      "title_ja": "鬼怒川温泉",
+      "category": "溫泉",
+      "area_zh": "日光市",
+      "summary_zh": "鬼怒川峽谷畔、江戶元祿年間發現的溫泉鄉",
+      "body_zh": "鬼怒川溫泉位於日光市，舊稱「瀧溫泉」，1691年在鬼怒川右岸發現泉源，成為前往日光參拜途中的溫泉；1927年兩處泉源合併後改稱現名。泉質為鹼性單純泉，過去被認為對燒燙傷有效，共有32處泉源。周邊有鬼怒川空中纜車、龍王峽、立岩吊橋、東武世界廣場與日光江戶村等景點。泡沫經濟後一度衰退，近年因特急列車與高速道路改善，吸引不少外國遊客。",
+      "facts": [
+        {"label": "所在地", "value": "栃木縣日光市（鬼怒川沿岸）"},
+        {"label": "開創／成因", "value": "1691年發現泉源，1927年改稱鬼怒川溫泉"},
+        {"label": "看點", "value": "鹼性單純泉、32處泉源、周邊龍王峽與空中纜車"}
+      ],
+      "best_season_zh": "秋（紅葉）、冬（泡湯）",
+      "tips_zh": "可搭東武鐵道特急從新宿或淺草直達，約兩小時內可到。旅館多集中在河畔，建議先確認住宿與日歸溫泉的入浴時間；週末與紅葉季較擁擠。",
+      "tags": ["峽谷溫泉", "鬼怒川", "龍王峽", "鹼性單純泉"],
+      "sources": ["https://ja.wikipedia.org/wiki/鬼怒川温泉"],
+      "confidence": "medium",
+      "prompt_en": "A river gorge with a hot spring resort town perched on the steep bank, steam rising from an outdoor bath terrace, a suspension bridge across the river in the distance, autumn foliage on the cliffs, dusk blue light with warm window glow. No text, no signage, no recognizable people."
+    },
+    {
+      "title_zh": "足利花卉公園",
+      "title_ja": "あしかがフラワーパーク",
+      "category": "庭園公園",
+      "area_zh": "足利市",
+      "summary_zh": "以大紫藤花棚與冬季燈飾聞名的花園",
+      "body_zh": "足利花卉公園位於足利市，1997年4月開園，前身為1968年開設的農園。最大看點是紫藤，有四株大藤被指定為栃木縣天然紀念物，最大的藤棚面積約2000平方公尺，為日本最大級，推定樹齡約160年（2021年時），1996年2月由日本首位女性樹醫移植到現址。「藤花物語」期間約在4月中旬到5月中旬，夜間點燈使藤花更夢幻；冬季「光之花園」使用約500萬顆LED燈泡。",
+      "facts": [
+        {"label": "所在地", "value": "栃木縣足利市"},
+        {"label": "開創／成因", "value": "1997年4月開園，前身為1968年農園"},
+        {"label": "看點", "value": "約2000平方公尺大藤棚、夜間點燈、冬季燈飾"}
+      ],
+      "best_season_zh": "4月中旬至5月中旬（藤花）",
+      "tips_zh": "園內有足利花卉公園站，下車步行約1分鐘。入園費隨花況與季節浮動，每日早上7時公布；花季假日人潮多，建議平日傍晚前往看夜景。",
+      "tags": ["紫藤", "大藤棚", "夜間點燈", "冬季燈飾"],
+      "sources": ["https://ja.wikipedia.org/wiki/あしかがフラワーパーク"],
+      "confidence": "high",
+      "prompt_en": "A huge wisteria trellis with long hanging clusters of purple and pink flowers forming a dense canopy, a calm pond reflecting the blossoms below, dusk blue-hour light with soft warm glow, gentle haze, symmetrical garden composition. No text, no signage, no recognizable people."
+    },
+    {
+      "title_zh": "足利學校",
+      "title_ja": "足利学校",
+      "category": "城郭史蹟",
+      "area_zh": "足利市",
+      "summary_zh": "被沙勿略稱為「坂東大學」的中世學府",
+      "body_zh": "足利學校位於足利市，創建年代學界尚無定論，到室町至戰國時代以「坂東的大學」之名著稱，耶穌會傳教士沙勿略形容為日本最有名的學府。1432年上杉憲實重興，延請學者僧人，教授儒學經典，尤重易學，也涵蓋兵法、歷史與醫學，卻不教佛學。16世紀第七任庠主時期學生約達3000人。1872年廢校，1980年代起修復，1990年復原方丈與庭園，1921年指定國史蹟，藏有宋版國寶典籍。",
+      "facts": [
+        {"label": "所在地", "value": "栃木縣足利市"},
+        {"label": "開創／成因", "value": "創建年代不明，1432年上杉憲實重興"},
+        {"label": "看點", "value": "復原方丈與庭園、孔子廟、宋版國寶典籍，國史蹟"}
+      ],
+      "best_season_zh": "秋（銀杏與紅葉）",
+      "tips_zh": "館內以建築和展示為主，建議放慢腳步細看。入館料與開館時間請查官方公告；可與足利花卉公園或鑁阿寺排在同一天走訪。",
+      "tags": ["中世學府", "孔子廟", "國史蹟", "日本遺產"],
+      "sources": ["https://ja.wikipedia.org/wiki/足利学校"],
+      "confidence": "high",
+      "prompt_en": "A quiet traditional Japanese school courtyard with a thatched-roof main hall, a stone-lined pond garden in front, a gate with a tiled roof, autumn ginkgo leaves scattered on the gravel, soft diffused afternoon light, calm scholarly atmosphere. No text, no signage, no recognizable people."
+    },
+    {
+      "title_zh": "栃木藏之街",
+      "title_ja": "栃木の蔵の街",
+      "category": "街區古鎮",
+      "area_zh": "栃木市",
+      "summary_zh": "巴波川畔保存完好、稱為「小江戶」的藏造街區",
+      "body_zh": "栃木市位於縣南部，市中心有巴波川由北向南流過。江戶時代這裡是利用巴波川舟運及例幣使街道的宿場町，商業繁榮，又因逃過戰災，保留許多江戶至明治時代的建築。街區內藏造商家與寺院並列，有「小江戶」「小京都」「關東的倉敷」之稱。2012年嘉右衛門町地區被選為重要傳統建造物群保存地區，也曾獲「美麗街景大賞」。",
+      "facts": [
+        {"label": "所在地", "value": "栃木縣栃木市（巴波川沿岸）"},
+        {"label": "開創／成因", "value": "江戶時代因巴波川舟運與例幣使街道而繁榮"},
+        {"label": "看點", "value": "藏造商家群、巴波川風景，嘉右衛門町為重傳建地區"}
+      ],
+      "best_season_zh": "春秋適合散步",
+      "tips_zh": "JR兩毛線與東武線的栃木站、新栃木站之間即為中心街區，可步行遊覽。商家營業日不一，建議白天前往；巷弄狹窄，請勿阻擋居民出入。",
+      "tags": ["藏造", "巴波川", "小江戶", "重傳建"],
+      "sources": ["https://ja.wikipedia.org/wiki/栃木市"],
+      "confidence": "medium",
+      "prompt_en": "A quiet canal lined with traditional white-walled storehouses with black tile roofs and old wooden merchant houses, willow trees along the water edge, a small bridge in the midground, calm reflections, soft late-afternoon light. No text, no signage, no recognizable people."
+    },
+    {
+      "title_zh": "大谷資料館",
+      "title_ja": "大谷資料館",
+      "category": "主題設施",
+      "area_zh": "宇都宮市大谷町",
+      "summary_zh": "大谷石採石場遺留的巨大地下空間",
+      "body_zh": "大谷資料館位於宇都宮市大谷町，是大谷石採掘後留下的巨大地下空洞。大谷石是容易加工的火山凝灰岩，古墳時代已用作石棺材料。1943至1945年這裡曾作為軍方地下倉庫與飛機製造設施，1969年因溫度穩定約8度，一度用作政府米穀倉庫，1979年起對外開放。館內可見採石方法與運輸演變的展示，地下空間有音樂會、拍攝與投影展覽等活動。",
+      "facts": [
+        {"label": "所在地", "value": "栃木縣宇都宮市大谷町909"},
+        {"label": "開創／成因", "value": "大谷石採掘遺留的地下空洞，1979年起公開"},
+        {"label": "看點", "value": "凝灰岩地下大空間、採石歷史展示、攝影與演出場地"}
+      ],
+      "best_season_zh": "夏季避暑最佳",
+      "tips_zh": "地下溫度偏低，夏天也建議帶外套與好走的鞋。開館4至11月為9:00至17:00，12至3月為9:30至16:30，冬季週二休館；實際請以官方公告為準。",
+      "tags": ["大谷石", "地下空間", "採石場", "凝灰岩"],
+      "sources": ["https://ja.wikipedia.org/wiki/大谷資料館"],
+      "confidence": "medium",
+      "prompt_en": "A vast underground quarry cavern with tall rough-cut stone walls and square pillars of pale tuff, a shaft of natural light entering from an opening above, dark still water on the floor reflecting the walls, mysterious cool atmosphere, wide symmetrical composition. No text, no signage, no recognizable people."
+    }
+  ]
+}

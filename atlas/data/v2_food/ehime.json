@@ -1,0 +1,149 @@
+{
+ "id": "ehime",
+ "foods": [
+  {
+   "title_zh": "宇和島鯛魚飯",
+   "title_ja": "宇和島鯛めし",
+   "category": "鄉土料理",
+   "summary_zh": "生鯛魚片裹蛋醬油汁淋在白飯上，南予的漁家料理。",
+   "body_zh": "鯛魚飯在愛媛有兩種風格。宇和島風的做法，是將鯛魚生魚片拌入以醬油為底、加了生蛋、芝麻與蔥花的醬汁，再鋪在白飯上，不用火，被認為適合在船上食用。據日文維基百科記載，這種吃法原本是部分家庭料理，昭和50年代由名為「六寶」的店以「ひゅうが飯」之名供應，之後在南予地區推廣開來，2007年入選農林水產省的「郷土料理百選」。另一種松山風則是烤鯛魚與米一起炊煮的炊飯。",
+   "facts": [
+    {"label": "起源", "value": "原為家庭料理，昭和50年代起由餐廳供應，2007年入選郷土料理百選"},
+    {"label": "主要食材", "value": "鯛魚生魚片、醬油、生蛋、芝麻、蔥"},
+    {"label": "吃法", "value": "生魚片拌蛋醬油汁後蓋在白飯上"}
+   ],
+   "season_zh": "全年",
+   "where_zh": "宇和島市等南予地區的食堂與料理店",
+   "tags": ["鯛魚", "鯛飯", "宇和島", "鄉土料理"],
+   "sources": ["https://ja.wikipedia.org/wiki/鯛めし"],
+   "confidence": "high",
+   "prompt_en": "A single ceramic rice bowl of Uwajima-style tai meshi, sliced raw sea bream coated in egg-soy sauce with sesame and chopped scallion over white rice, small pickles beside it, light wood table, soft daylight, no text, no signage"
+  },
+  {
+   "title_zh": "雜魚天",
+   "title_ja": "じゃこ天",
+   "category": "海鮮",
+   "summary_zh": "近海小魚打成魚漿油炸的南予魚肉製品。",
+   "body_zh": "雜魚天是愛媛縣南予地方的魚肉製品，把近海捕獲的小魚打成魚漿後油炸而成。據日文維基百科記載，傳說伊達秀宗約在1615年從仙台帶來蒲鉾職人，並用做蒲鉾剩下的魚製作。主要原料是ホタルジャコ（當地稱ハランボ），加入其他魚類與澱粉，壓成長約七八公分的扁平狀。可直接吃，也可稍微烤過，另外常放入關東煮、烏龍麵或咖哩中，主要產地是八幡浜與宇和島一帶。",
+   "facts": [
+    {"label": "起源", "value": "傳說約1615年伊達秀宗帶來蒲鉾職人（依維基百科）"},
+    {"label": "主要食材", "value": "ホタルジャコ等近海小魚、澱粉"},
+    {"label": "吃法", "value": "直接吃或烤熱，也放進關東煮與烏龍麵"}
+   ],
+   "season_zh": "全年",
+   "where_zh": "八幡浜市、宇和島市等南予沿海",
+   "tags": ["魚漿", "炸物", "南予", "八幡浜"],
+   "sources": ["https://ja.wikipedia.org/wiki/じゃこ天"],
+   "confidence": "high",
+   "prompt_en": "A single plate of two lightly grilled flat jakoten fish cakes with brown fried surface, a small mound of grated ginger and a few drops of soy sauce, plain ceramic dish on wooden counter, warm side light, no text"
+  },
+  {
+   "title_zh": "鍋燒烏龍麵",
+   "title_ja": "松山鍋焼きうどん",
+   "category": "麵飯",
+   "summary_zh": "鋁鍋盛裝、湯偏甜、麵偏軟的松山靈魂麵食。",
+   "body_zh": "鍋燒烏龍麵是在單人小鍋中煮好、連鍋上桌的烏龍麵，配料常見魚板、香菇、油豆腐、蝦天婦羅與生蛋。日文維基百科指出，松山有獨特的在地版本：使用可重複使用的鋁鍋，麵條偏軟，湯頭偏甜，主角是甜煮牛肉，多數店全年供應，戰後起便是當地人的靈魂食物。與讚岐烏冬的彈牙風格相反，松山版強調柔軟麵體與溫和甜味，趁熱連湯一起吃。",
+   "facts": [
+    {"label": "起源", "value": "松山版自戰後成為在地人的靈魂食物（依維基百科）"},
+    {"label": "主要食材", "value": "烏龍麵、甜煮牛肉、魚板、生蛋"},
+    {"label": "吃法", "value": "連鍋上桌，趁熱連湯享用"}
+   ],
+   "season_zh": "全年，冬季尤其受歡迎",
+   "where_zh": "松山市內的老牌烏龍麵店與食堂",
+   "tags": ["烏龍麵", "鍋燒", "松山", "甜煮牛肉"],
+   "sources": ["https://ja.wikipedia.org/wiki/鍋焼きうどん"],
+   "confidence": "medium",
+   "prompt_en": "A single small aluminum pot of Matsuyama nabeyaki udon with soft noodles, sweet simmered beef slices, kamaboko, shiitake and a raw egg in clear light broth, steam rising, wooden table, warm light, no text"
+  },
+  {
+   "title_zh": "今治烤雞串",
+   "title_ja": "今治焼き鳥",
+   "category": "B級美食",
+   "summary_zh": "今治以烤雞串聞名的在地庶民美食，細節未能完全查證。",
+   "body_zh": "今治市除了毛巾與造船，在地也以烤雞串聞名。日文維基百科的「今治市」條目僅簡短提到「焼き鳥などでも知られている」，並沒有說明起源與做法。一般印象中，今治的店家常用鐵板煎烤雞肉，但這一點本次沒有在所開啟的資料中得到證實，因此在此只保守地說明：這是今治的庶民美食，可到市內的烤雞串店實際品嚐其特色。",
+   "facts": [
+    {"label": "起源", "value": "本次未能查證"},
+    {"label": "主要食材", "value": "雞肉（細節本次未能查證）"},
+    {"label": "吃法", "value": "烤雞串，於店內趁熱食用"}
+   ],
+   "season_zh": "全年",
+   "where_zh": "今治市內的烤雞串店",
+   "tags": ["烤雞串", "今治", "庶民美食", "居酒屋"],
+   "sources": ["https://ja.wikipedia.org/wiki/今治市"],
+   "confidence": "low",
+   "prompt_en": "A single plate of grilled chicken yakitori skewers with glossy browned surface and a little char, a lemon wedge on the side, dark wooden counter, warm low light, no text, no signage"
+  },
+  {
+   "title_zh": "一六塔",
+   "title_ja": "一六タルト",
+   "category": "甜點和菓子",
+   "summary_zh": "松山的代表和菓子，以捲著餡料的蛋糕卷聞名。",
+   "body_zh": "松山的「タルト」是當地代表性的和菓子，並非西式塔，而是在蛋糕般的海綿體裡捲入餡料的點心。據日文維基百科「一六本舖」條目，一六本舖創業於1883年（明治16年），公司名即來自創業年份，タルト是其招牌商品，在愛媛縣的百貨公司、超市、車站與休息站都買得到。關於タルト本身的起源與餡料細節，本次未能在所開啟資料中核實，因此只能保守介紹。",
+   "facts": [
+    {"label": "起源", "value": "一六本舖1883年於松山創業；タルト起源本次未能查證"},
+    {"label": "主要食材", "value": "本次未能查證（一般認為為蛋糕體包餡）"},
+    {"label": "吃法", "value": "切片配茶享用"}
+   ],
+   "season_zh": "全年",
+   "where_zh": "松山市及愛媛縣內的車站、百貨與伴手禮店",
+   "tags": ["塔", "和菓子", "松山", "伴手禮"],
+   "sources": ["https://ja.wikipedia.org/wiki/一六本舗"],
+   "confidence": "low",
+   "prompt_en": "A single sliced Ehime tart roll on a small white plate showing spiral of sponge cake and sweet filling, a cup of green tea beside it, light wooden table, soft daylight, no text, no logo"
+  },
+  {
+   "title_zh": "愛媛蜜柑",
+   "title_ja": "愛媛みかん",
+   "category": "特產食材",
+   "summary_zh": "愛媛長年居日本蜜柑產量前列的代表特產。",
+   "body_zh": "愛媛縣是日本蜜柑的代表產地之一。據日文維基百科「溫州蜜柑」條目，該品種原產於鹿兒島縣長島，無籽、味道溫和；愛媛縣曾從1970年起連續34年蟬聯全國收穫量第一，後來被和歌山縣超越，目前居第二，2016年產量約12.78萬噸，佔全國約16%。收穫期依品種不同：極早生種九至十月，早生種十至十二月，普通溫州則在十一月下旬至十二月成熟，除了直接吃也常做成果汁。",
+   "facts": [
+    {"label": "起源", "value": "溫州蜜柑原產於鹿兒島縣長島"},
+    {"label": "主要食材", "value": "溫州蜜柑"},
+    {"label": "時節", "value": "9月至12月，依品種不同"}
+   ],
+   "season_zh": "9月至12月",
+   "where_zh": "愛媛縣瀨戶內海沿岸與南予的柑橘園",
+   "tags": ["蜜柑", "柑橘", "特產", "果汁"],
+   "sources": ["https://ja.wikipedia.org/wiki/温州蜜柑"],
+   "confidence": "high",
+   "prompt_en": "A single wooden crate corner holding several ripe orange mikan with green leaves attached, one peeled mikan in front showing glossy segments, soft morning light, rustic table, no text, no label"
+  },
+  {
+   "title_zh": "伊予薩摩",
+   "title_ja": "伊予さつま",
+   "category": "鄉土料理",
+   "summary_zh": "烤魚碎與味噌調成的醬，淋在熱白飯上的愛媛鄉土料理。",
+   "body_zh": "伊予薩摩是愛媛縣的鄉土料理。據日文維基百科，做法是將烤過的魚（傳統上用鯛魚或香魚等小型魚）去骨、搗碎，再與慢慢烘香的味噌混合，加入高湯調成比一般味噌湯濃稠的醬汁，然後淋在熱飯上，也常加入蒟蒻和蔥。起源有多種說法，包括來自薩摩地方、漁村自然發展，或江戶時代由鰹魚漁夫創作。由於製作費工，現在多半在鄉土料理店才吃得到。",
+   "facts": [
+    {"label": "起源", "value": "有薩摩傳來、漁村自然發展等多種說法"},
+    {"label": "主要食材", "value": "烤魚、味噌、蒟蒻、蔥、高湯"},
+    {"label": "吃法", "value": "淋在熱白飯上"}
+   ],
+   "season_zh": "全年",
+   "where_zh": "愛媛縣內的鄉土料理店",
+   "tags": ["味噌", "烤魚", "鄉土料理", "蓋飯"],
+   "sources": ["https://ja.wikipedia.org/wiki/伊予さつま"],
+   "confidence": "medium",
+   "prompt_en": "A single ceramic bowl of hot white rice topped with thick fish miso sauce made from flaked grilled fish, chopped scallion and small konnyaku pieces, steam rising, wooden tray, soft side light, no text"
+  },
+  {
+   "title_zh": "少爺糰子",
+   "title_ja": "坊っちゃん団子",
+   "category": "甜點和菓子",
+   "summary_zh": "取自夏目漱石小說的松山三色糰子。",
+   "body_zh": "少爺糰子是松山市的代表甜點，一串三顆，顏色分別是抹茶綠、蛋黃與紅豆。據日文維基百科記載，名稱來自夏目漱石1906年的小說《少爺》，書中提到糰子是當地名物。現代版本由「坪屋」的老闆野田宇太郎於1921年製作並命名，早期的「湯晒し糰子」則是單串紅白豆餡。目前松山有多家和菓子店製作，旅館、車站與伴手禮店都能買到，其中「うつぼ屋」的版本最常見。",
+   "facts": [
+    {"label": "起源", "value": "1921年坪屋野田宇太郎製作現代版，命名自夏目漱石《少爺》"},
+    {"label": "主要食材", "value": "糯米糰、抹茶、蛋黃餡、紅豆餡"},
+    {"label": "吃法", "value": "一串三色，搭配茶食用"}
+   ],
+   "season_zh": "全年",
+   "where_zh": "松山市的和菓子店、車站與道後溫泉周邊伴手禮店",
+   "tags": ["糰子", "松山", "夏目漱石", "三色"],
+   "sources": ["https://ja.wikipedia.org/wiki/坊っちゃん団子"],
+   "confidence": "high",
+   "prompt_en": "A single skewer of three colored dango, green matcha, yellow egg and brown red-bean, lying on a small ceramic plate, a cup of green tea beside it, light wooden table, soft daylight, no text"
+  }
+ ]
+}

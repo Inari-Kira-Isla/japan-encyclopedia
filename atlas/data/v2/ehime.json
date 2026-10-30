@@ -1,0 +1,849 @@
+{
+ "id": "ehime",
+ "name_zh": "愛媛",
+ "name_ja": "愛媛県",
+ "region": "四國",
+ "overview": {
+  "intro_zh": "愛媛縣位於四國西北部，北面瀨戶內海、西面宇和海，面積約5,676平方公里，人口約133萬。氣候溫暖，是日本最重要的柑橘產地之一，蜜柑與伊予柑聞名全國；養殖真鯛與珍珠也名列前茅。縣廳所在地松山有日本最古老溫泉之一的道後溫泉與現存天守松山城，北部的島波海道以自行車路線享譽世界。內子、宇和島、砥部等地保存了江戶至明治的街道與工藝，適合深度慢遊。",
+  "capital_zh": "松山市",
+  "area_km2": 5676,
+  "population_approx": "約133萬（2020年國勢調查1,334,841人）",
+  "flower_zh": "蜜柑花",
+  "bird_zh": "日本歌鴝（駒鳥）",
+  "tree_zh": "松",
+  "climate_zh": "瀨戶內側溫暖少雨，南部宇和海側暖濕；夏季炎熱，颱風季偶有影響。",
+  "access_zh": "松山機場有國內線；JR由岡山約2.5至3小時；松山港有船往廣島、小倉；島波海道連尾道。",
+  "specialties_zh": [
+   "蜜柑與伊予柑",
+   "鯛魚飯",
+   "砥部燒",
+   "今治毛巾",
+   "今治燒鳥"
+  ],
+  "best_season_zh": "春秋氣候宜人，適合騎單車與賞花；柑橘盛產於11月至次年2月。"
+ },
+ "items": {
+  "architecture": {
+   "title_zh": "道後溫泉本館",
+   "title_ja": "道後温泉本館",
+   "summary_zh": "1894年落成的木造三層公共浴場，重要文化財。",
+   "body_zh": "道後溫泉本館位於松山市道後，1894年（明治27年）完工，是木造三層樓公共浴場，屋頂有小型的振鷺閣鼓樓。1994年12月被指定為國家重要文化財，是首座獲此指定的公共浴場。建築兼具和風與洋風設計，館內另有皇室專用的又新殿，1899年落成。道後溫泉被視為日本最古老溫泉之一，也是夏目漱石小說《少爺》的舞台。本館經過約五年半的保存修理工程，2024年7月全面重新開放。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "愛媛縣松山市道後"
+    },
+    {
+     "label": "落成",
+     "value": "1894年（明治27年）"
+    },
+    {
+     "label": "指定",
+     "value": "1994年國家重要文化財"
+    },
+    {
+     "label": "特色",
+     "value": "木造三層、振鷺閣"
+    }
+   ],
+   "best_season_zh": "全年（冬季熱鬧）",
+   "tips_zh": "本館入浴有多種方案，午後與傍晚較擁擠；街上另有足湯與商店街，可散步體驗。出發前建議先確認開放時間與交通，並預留充足時間慢慢欣賞。",
+   "tags": [
+    "溫泉",
+    "木造建築",
+    "重要文化財",
+    "松山"
+   ],
+   "sources": [
+    "https://dogo.jp/en/honkan.php",
+    "https://shikoku-tourism.com/en/see-and-do/10016"
+   ],
+   "confidence": "high",
+   "prompt_en": "Historic multi-tiered wooden bathhouse with ornate tiled roof and a small drum tower, glowing lanterns at dusk, light steam in the air, quiet street"
+  },
+  "food": {
+   "title_zh": "宇和島式鯛魚飯",
+   "title_ja": "鯛めし",
+   "summary_zh": "愛媛名物，生鯛魚片淋醬汁與蛋黃蓋飯。",
+   "body_zh": "愛媛的鯛魚飯有兩大系統：南予（宇和島）一帶是將鯛魚生魚片以醬油、味醂與出汁調的醬汁醃過，加上蛋黃淋在熱飯上；中予（松山）一帶則是把整條鯛魚與米一起炊熟。宇和島式充分利用當地養殖真鯛的新鮮，是漁民的日常料理，近年成為觀光名物。縣內餐廳供應兩種風格，可並排比較。吃法簡單，搭配海苔、芝麻、蔥花與熱茶更添風味。在宇和島市區，許多餐廳門口都會標示自己的鯛魚飯做法，可以邊吃邊比較不同店家的醬汁風味。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "愛媛縣宇和島一帶（南予）"
+    },
+    {
+     "label": "特色",
+     "value": "生鯛魚片、醬汁、蛋黃"
+    },
+    {
+     "label": "對照",
+     "value": "松山式為整條鯛魚炊飯"
+    },
+    {
+     "label": "食材",
+     "value": "養殖真鯛"
+    }
+   ],
+   "best_season_zh": "全年",
+   "tips_zh": "不吃生魚者可選松山式炊飯；宇和島式適合配熱茶泡成茶泡飯。出發前建議先確認開放時間與交通，並預留充足時間慢慢欣賞。",
+   "tags": [
+    "鯛魚",
+    "蓋飯",
+    "宇和島",
+    "鄉土料理"
+   ],
+   "sources": [
+    "https://shikoku-tourism.com/en/about-shikoku/taimeshi",
+    "https://www.japan.travel/en/sg/jbyj-blog/uwajima-tai-meshi/"
+   ],
+   "confidence": "high",
+   "prompt_en": "Bowl of rice topped with raw sea bream slices, egg yolk and soy-dashi sauce with scallions and sesame, plain ceramic bowl on a wooden table, soft side light"
+  },
+  "culture": {
+   "title_zh": "砥部燒",
+   "title_ja": "砥部焼",
+   "summary_zh": "白底藍紋、厚實耐用的伊予陶瓷。",
+   "body_zh": "砥部燒產於愛媛縣砥部町，據說1777年大洲藩主加藤泰候延請肥前（佐賀）陶工，開始製作白瓷，成為砥部燒的起源。特色是胎體厚實、底釉乳白，以手繪青花紋樣如唐草、梅花、魚紋等裝飾，日用食器耐用耐摔。1976年被指定為國家傳統工藝品。町內有多家工坊與砥部燒陶藝館，遊客能體驗彩繪陶器。砥部燒適合日常使用，在愛媛旅遊相當受歡迎。燒好的器皿帶有溫潤的白色，與藍色筆觸形成對比，日常使用越久越有味道。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "愛媛縣砥部町"
+    },
+    {
+     "label": "起源",
+     "value": "1777年開始燒製白瓷"
+    },
+    {
+     "label": "指定",
+     "value": "1976年國家傳統工藝品"
+    },
+    {
+     "label": "特色",
+     "value": "厚實胎體、手繪藍花紋"
+    }
+   ],
+   "best_season_zh": "全年",
+   "tips_zh": "陶藝館提供彩繪體驗，約需數週燒製後郵寄；選購時可試握手感，並留意可否微波與洗碗機。",
+   "tags": [
+    "陶瓷",
+    "傳統工藝",
+    "砥部",
+    "日用器皿"
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Tobe_ware",
+    "https://www.pref.ehime.jp/"
+   ],
+   "confidence": "high",
+   "prompt_en": "White ceramic plates and bowls with hand-painted blue floral and arabesque patterns arranged on a wooden table, soft daylight, close-up"
+  },
+  "history": {
+   "title_zh": "松山城",
+   "title_ja": "松山城",
+   "summary_zh": "山頂的現存十二天守之一，加藤嘉明築城。",
+   "body_zh": "松山城建於松山市中心的勝山山頂，1602年由加藤嘉明著手築城，歷時約二十五年，1627年完成。天守原為五層，1642年縮小改建為三層，1854年再次重建，成為現存十二天守之一。城內有多座建築被列為重要文化財，城跡於1952年被指定為國家史蹟。登城可搭纜車或吊椅，山頂可眺望松山市街與瀨戶內海。城下町保留了古老的街道結構，是松山觀光的核心。城內本壇有多座櫓與門，石垣層層堆疊，登城途中可從不同角度欣賞城郭防禦的設計。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "愛媛縣松山市"
+    },
+    {
+     "label": "築城",
+     "value": "1602年始，1627年完成"
+    },
+    {
+     "label": "天守",
+     "value": "1854年重建，三層"
+    },
+    {
+     "label": "指定",
+     "value": "重要文化財、國家史蹟"
+    }
+   ],
+   "best_season_zh": "春（櫻）與秋",
+   "tips_zh": "纜車與吊椅都能上山；步行約10至15分鐘也可，沿途可看石垣。出發前建議先確認開放時間與交通，並預留充足時間慢慢欣賞。",
+   "tags": [
+    "城堡",
+    "現存天守",
+    "松山",
+    "石垣"
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Matsuyama_Castle_(Iyo)"
+   ],
+   "confidence": "high",
+   "prompt_en": "White-walled three-story castle keep on a forested hilltop above Matsuyama city, ropeway lift on the slope, clear blue sky, wide view"
+  },
+  "mascot": {
+   "title_zh": "愛媛吉祥物 Mikyan",
+   "title_ja": "みきゃん",
+   "summary_zh": "以蜜柑為頭的小狗吉祥物，愛媛縣的代表角色。",
+   "body_zh": "みきゃん（Mikyan）是愛媛縣推廣用的吉祥物，外形是頭部像蜜柑的小狗，耳朵是葉片，鼻子是愛心形狀，尾巴是柑橘花。名字取自「みかん（蜜柑）」的「み」與狗叫聲「きゃん」，也能寫作「mican」。這個角色被縣政府用來推廣愛媛的柑橘與觀光，並成為多款周邊商品的設計主角。本站插圖並不複製みきゃん，而是以蜜柑與鯛魚為靈感設計的原創角色。縣內機場、百貨與車站常見其身影，也有以蜜柑為主題的食品與文具周邊。",
+   "facts": [
+    {
+     "label": "名稱",
+     "value": "みきゃん（Mikyan）"
+    },
+    {
+     "label": "外形",
+     "value": "蜜柑頭、葉片耳朵、愛心鼻"
+    },
+    {
+     "label": "名字由來",
+     "value": "みかん＋狗叫聲"
+    },
+    {
+     "label": "用途",
+     "value": "推廣柑橘與觀光"
+    }
+   ],
+   "best_season_zh": "全年",
+   "tips_zh": "在松山機場與百貨有大量周邊，可作伴手禮；如擔心商標，請另用原創版本。出發前建議先確認開放時間與交通，並預留充足時間慢慢欣賞。",
+   "tags": [
+    "吉祥物",
+    "蜜柑",
+    "角色",
+    "愛媛"
+   ],
+   "sources": [
+    "https://www.pref.ehime.jp/site/mican/16897.html"
+   ],
+   "confidence": "medium",
+   "prompt_en": "An original cute character shaped like a round mandarin orange with sea bream fins and a tiny hot spring towel on its head, plain pastel background, not replicating any existing trademarked mascot"
+  },
+  "scenery": {
+   "title_zh": "島波海道",
+   "title_ja": "しまなみ海道",
+   "summary_zh": "連接瀨戶內島嶼的跨海大橋與自行車道。",
+   "body_zh": "島波海道（西瀨戶自動車道）於1999年5月通車，連接廣島縣尾道與愛媛縣今治，全長約59.4公里，沿途橫越瀨戶內海的多座島嶼，包括因島、大三島、大島等。自行車道約70公里，是日本最著名的長距離單車路線之一，也是本州與四國之間唯一可步行或騎單車通過的連接路線。其中來島海峽大橋為世界首座三連吊橋。騎行沿途可看到柑橘園、小漁港與藍色海面。沿途經過因島、生口島、大三島、伯方島、大島等島嶼，每座島各有柑橘、造船與港町的風景。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "廣島縣尾道至愛媛縣今治"
+    },
+    {
+     "label": "通車",
+     "value": "1999年5月"
+    },
+    {
+     "label": "全長",
+     "value": "約59.4公里，單車道約70公里"
+    },
+    {
+     "label": "特色",
+     "value": "跨海大橋、島嶼風光"
+    }
+   ],
+   "best_season_zh": "春與秋",
+   "tips_zh": "單車可在沿線租借並異地歸還；全程一天騎完較辛苦，可分兩天，沿途島上住宿。出發前建議先確認開放時間與交通，並預留充足時間慢慢欣賞。",
+   "tags": [
+    "跨海大橋",
+    "單車",
+    "瀨戶內海",
+    "島嶼"
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Shimanami_Kaid%C5%8D",
+    "https://imabari-shimanami.jp/en/"
+   ],
+   "confidence": "high",
+   "prompt_en": "Long white suspension bridge over a bright blue strait with small forested islands, cycling path in the foreground, sunny day, wide shot"
+  },
+  "spot": {
+   "title_zh": "內子座與八日市護國老街",
+   "title_ja": "内子座・八日市護国",
+   "summary_zh": "大正年間的歌舞伎劇場與蠟業商家老街。",
+   "body_zh": "內子町曾因製蠟業繁榮，1916年（大正5年）落成的內子座是木造歌舞伎劇場，內部保留榻榻米座席、花道與舞台機關，至今仍用於演出與參觀。八日市護國地區的老街以白牆與格子窗的商家宅邸組成，1982年被指定為國家重要傳統建造物群保存地區，是四國首個、全國第18處。街區保存了製蠟商家的豪宅，可入內參觀，展示蠟的製作過程。街區裡也有販售木蠟製品與蠟燭的商店，可買到小巧的手作蠟燭作紀念，非常適合慢逛。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "愛媛縣內子町"
+    },
+    {
+     "label": "內子座",
+     "value": "1916年落成"
+    },
+    {
+     "label": "老街",
+     "value": "1982年指定重要傳統建造物群保存地區"
+    },
+    {
+     "label": "特色",
+     "value": "製蠟商家、白牆格子窗"
+    }
+   ],
+   "best_season_zh": "全年",
+   "tips_zh": "老街不長，步行即可，半天足夠；順路買當地農產與蠟燭製品。出發前建議先確認開放時間與交通，並預留充足時間慢慢欣賞。",
+   "tags": [
+    "老街",
+    "歌舞伎",
+    "製蠟",
+    "保存地區"
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Uchiko,_Ehime",
+    "https://www.japan-guide.com/e/e5554.html"
+   ],
+   "confidence": "high",
+   "prompt_en": "Old wooden kabuki theater with a tiled roof and wooden lattice facade on a quiet historic street, warm morning light, a few lanterns"
+  },
+  "experience": {
+   "title_zh": "島波海道單車體驗",
+   "title_ja": "しまなみサイクリング",
+   "summary_zh": "騎單車縱走瀨戶內島嶼與跨海大橋。",
+   "body_zh": "島波海道設有專用的單車路線，沿線標有藍色指引線，並在尾道與今治等地設有租借站，可異地還車。路線橫越多座大橋，騎行時可近距離看到來島海峽的潮流與島上柑橘園。全程約70公里，通常分一至兩天完成，體力較弱者可選電動輔助單車，或只騎其中一段。沿途有休息站、咖啡廳與簡單民宿，補給方便。路線以藍色線標示，初學者也可從較短的區段開始，沿途有多處休息站可補給與休息。",
+   "facts": [
+    {
+     "label": "路線",
+     "value": "尾道至今治，約70公里"
+    },
+    {
+     "label": "租借",
+     "value": "沿線租借站，可異地歸還"
+    },
+    {
+     "label": "標示",
+     "value": "藍色指引線"
+    },
+    {
+     "label": "建議",
+     "value": "分一至兩天騎完"
+    }
+   ],
+   "best_season_zh": "春與秋",
+   "tips_zh": "夏季炎熱，需補水；風大時過橋要放慢，記得提前查租車站營業時間。出發前建議先確認開放時間與交通，並預留充足時間慢慢欣賞。",
+   "tags": [
+    "單車",
+    "體驗",
+    "島嶼",
+    "運動"
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Shimanami_Kaid%C5%8D",
+    "https://imabari-shimanami.jp/en/"
+   ],
+   "confidence": "medium",
+   "prompt_en": "Cyclist seen from behind riding on a dedicated bike path beside the sea on a bridge approach, sunny day, subtle motion feel"
+  },
+  "costume": {
+   "title_zh": "柑橘農家裝扮",
+   "title_ja": "みかん農家の装い",
+   "summary_zh": "愛媛柑橘園的草帽與棉質作業服。",
+   "body_zh": "愛媛的柑橘產地多在山坡與沿海梯田，採收期在秋冬，農家常見的裝扮是棉質作業服、長袖、手套與寬邊帽，便於攀爬與防曬。採收的蜜柑會放在背籃或籃子裡，再以手推車或單軌車運下山。這種裝扮反映了日常農作樣貌，並非傳統民族服飾。以無名模特兒呈現，場景為柑橘園，畫面重在質樸與生活氣息。這套裝扮強調實用，布料耐髒耐磨，與柑橘園的環境相當搭配，也是體驗採收活動時的基本穿著。",
+   "facts": [
+    {
+     "label": "地點",
+     "value": "愛媛縣各柑橘產地"
+    },
+    {
+     "label": "款式",
+     "value": "棉質作業服、寬邊帽、手套"
+    },
+    {
+     "label": "季節",
+     "value": "秋冬採收期"
+    },
+    {
+     "label": "用途",
+     "value": "採收與運送"
+    }
+   ],
+   "best_season_zh": "秋冬",
+   "tips_zh": "若參加採柑橘體驗，請穿好走的鞋與長褲，並自備防曬。出發前建議先確認開放時間與交通，並預留充足時間慢慢欣賞。",
+   "tags": [
+    "服飾",
+    "柑橘",
+    "農家",
+    "生活"
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Ehime_Prefecture"
+   ],
+   "confidence": "low",
+   "prompt_en": "An anonymous model in a cotton work outfit and wide-brimmed hat holding a basket of mandarin oranges in a terraced orchard, warm winter sunlight"
+  }
+ },
+ "areas": [
+  {
+   "id": "ehime_matsuyama",
+   "name_zh": "松山",
+   "name_ja": "松山",
+   "intro_zh": "松山是愛媛縣的縣廳所在地，也是四國最大的城市。城市中心有松山城，近郊有道後溫泉，兩者是松山的觀光核心。市內有路面電車，行走方便；俳句與正岡子規的文學氣息也是城市特色。",
+   "items": {
+    "spot": {
+     "title_zh": "道後溫泉街",
+     "title_ja": "道後温泉街",
+     "summary_zh": "本館周邊的溫泉街，有商店街與足湯。",
+     "body_zh": "道後溫泉街以道後溫泉本館為中心，周邊有拱廊商店街、足湯與土產店。道後溫泉被視為日本最古老溫泉之一，有「三千年歷史」之說。夏目漱石的小說《少爺》以此地為舞台，因此街區裡常見少爺主題的紀念品。本館2024年完成約五年半的修理工程，全面重新開放。入夜後本館亮燈，是松山夜間散步的熱門場所。街區裡有機關鐘、商店街與足湯，傍晚時分燈籠亮起，散步氣氛尤其浪漫。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "愛媛縣松山市道後"
+      },
+      {
+       "label": "特色",
+       "value": "本館、商店街、足湯"
+      },
+      {
+       "label": "文學",
+       "value": "夏目漱石《少爺》舞台"
+      },
+      {
+       "label": "交通",
+       "value": "路面電車道後溫泉站"
+      }
+     ],
+     "best_season_zh": "全年",
+     "tips_zh": "傍晚逛街最有氣氛；想避開人潮可選平日上午泡湯。出發前建議先確認開放時間與交通，並預留充足時間慢慢欣賞。",
+     "tags": [
+      "溫泉街",
+      "商店街",
+      "足湯",
+      "松山"
+     ],
+     "sources": [
+      "https://shikoku-tourism.com/en/see-and-do/10016",
+      "https://dogo.jp/en/honkan.php"
+     ],
+     "confidence": "high",
+     "prompt_en": "Historic wooden bathhouse with an ornate tiled roof and lanterns glowing at night, shopping arcade with warm lights in the background, steam"
+    },
+    "food": {
+     "title_zh": "松山式鯛魚飯",
+     "title_ja": "松山の鯛めし",
+     "summary_zh": "鯛魚整條與米同炊的中予風格鯛魚飯。",
+     "body_zh": "松山一帶的鯛魚飯屬「炊飯」風格：將整條鯛魚放入米中同炊，煮熟後取出拆骨，再把魚肉拌入飯中，由於魚的鮮味滲入米粒，十分香甜。吃時可加熱茶或湯泡著吃，多半附有小菜與味噌湯。據說起源於漁民在船上簡單炊煮的料理。松山市內的餐廳同時供應宇和島式生魚版，遊客可比較兩種風格。餐廳常把魚骨熬成湯，搭配醃漬小菜，整套定食簡單卻有層次，也適合團體分享。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "愛媛縣松山市（中予）"
+      },
+      {
+       "label": "做法",
+       "value": "整條鯛魚與米同炊"
+      },
+      {
+       "label": "對照",
+       "value": "宇和島式為生魚片蓋飯"
+      },
+      {
+       "label": "吃法",
+       "value": "拆骨拌飯，可泡茶"
+      }
+     ],
+     "best_season_zh": "全年",
+     "tips_zh": "整條鯛魚炊飯通常需預約或等候；不吃生魚者特別適合。出發前建議先確認開放時間與交通，並預留充足時間慢慢欣賞。",
+     "tags": [
+      "鯛魚",
+      "炊飯",
+      "松山",
+      "鄉土料理"
+     ],
+     "sources": [
+      "https://shikoku-tourism.com/en/about-shikoku/taimeshi"
+     ],
+     "confidence": "high",
+     "prompt_en": "Cooked sea bream rice served in a ceramic bowl with a whole fish on a platter beside it, steam rising, small side dishes, warm light"
+    },
+    "scenery": {
+     "title_zh": "松山城與城下景色",
+     "title_ja": "松山城",
+     "summary_zh": "山頂天守眺望松山市街與瀨戶內海。",
+     "body_zh": "松山城位於市中心的勝山山頂，從天守可以眺望松山市街、道後方向與遠處瀨戶內海。天守1854年重建，是現存十二天守之一。山腳有二之丸庭園與賞櫻名所。春季櫻花盛開，夜間則會亮燈。站在城上俯瞰，可以看出松山作為城下町的格局，路面電車在街上穿行，是市區的代表風景。天守內部展示武具與古地圖，可進一步了解松山城的歷史，也適合安排半日行程。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "愛媛縣松山市"
+      },
+      {
+       "label": "視野",
+       "value": "市街與瀨戶內海"
+      },
+      {
+       "label": "天守",
+       "value": "1854年重建"
+      },
+      {
+       "label": "特色",
+       "value": "現存十二天守之一"
+      }
+     ],
+     "best_season_zh": "春（櫻）",
+     "tips_zh": "天氣晴朗時視野最佳；夜間亮燈時也很好看，可確認開放時間。出發前建議先確認開放時間與交通，並預留充足時間慢慢欣賞。",
+     "tags": [
+      "城堡",
+      "展望",
+      "夜景",
+      "松山"
+     ],
+     "sources": [
+      "https://en.wikipedia.org/wiki/Matsuyama_Castle_(Iyo)"
+     ],
+     "confidence": "high",
+     "prompt_en": "View from a hilltop castle keep over Matsuyama city rooftops toward the Seto Inland Sea, white castle walls in foreground, clear blue sky"
+    }
+   }
+  },
+  {
+   "id": "ehime_imabari",
+   "name_zh": "今治",
+   "name_ja": "今治",
+   "intro_zh": "今治位於愛媛縣北部，是島波海道的四國側起點，也是日本毛巾的重要產地。來島海峽的急流與跨海大橋，是這裡的標誌景觀。今治的食物特色是鐵板壓燒的雞皮燒鳥。",
+   "items": {
+    "spot": {
+     "title_zh": "來島海峽大橋",
+     "title_ja": "来島海峡大橋",
+     "summary_zh": "世界首座三連吊橋，橫跨潮流急劇的海峽。",
+     "body_zh": "來島海峽大橋是島波海道的一部分，由三座連續的吊橋組成，總長約4.1公里，連接今治與大島，被稱為世界首座三連吊橋。橋下的來島海峽是日本三大急潮之一，最大流速接近十節，漩渦與潮流是它的特色。橋上設有行人與單車通道，騎單車經過能近距離感受橋樑規模與海上風勢。附近設有展望台，可以從高處看海峽與橋。附近的展望台能同時看到海峽、大橋與島嶼，是拍攝島波海道全景的熱門地點。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "愛媛縣今治市"
+      },
+      {
+       "label": "總長",
+       "value": "約4.1公里"
+      },
+      {
+       "label": "特色",
+       "value": "世界首座三連吊橋"
+      },
+      {
+       "label": "海峽",
+       "value": "日本三大急潮之一"
+      }
+     ],
+     "best_season_zh": "全年",
+     "tips_zh": "潮流變化大，渦流時段請查觀潮船班；行走橋上風大，注意安全。出發前建議先確認開放時間與交通，並預留充足時間慢慢欣賞。",
+     "tags": [
+      "吊橋",
+      "海峽",
+      "急流",
+      "島波海道"
+     ],
+     "sources": [
+      "https://en.wikipedia.org/wiki/Shimanami_Kaid%C5%8D",
+      "https://www.mlit.go.jp/sogoseisaku/region/infratourism/en/pickup/kurushima/index01.html"
+     ],
+     "confidence": "high",
+     "prompt_en": "Three consecutive suspension bridges spanning a narrow strait with swirling tidal currents, small islands, bright blue sky, aerial wide view"
+    },
+    "food": {
+     "title_zh": "今治燒鳥",
+     "title_ja": "今治焼き鳥",
+     "summary_zh": "在鐵板上壓燒的雞皮，今治獨有的燒鳥。",
+     "body_zh": "今治燒鳥的特色是不串成串，而是把雞肉與雞皮直接放在厚鐵板上，用鐵製重物壓著煎烤，利用雞自身的油脂煎熟，外皮酥脆、內部多汁。鐵板略傾斜，讓多餘的脂肪流走，口味清爽。最具代表的是雞皮，常與炸雞「せんざんき」一起吃。據說這種做法約五十年前發明，只在今治及周邊見到，被列入農林水產省選出的鄉土料理。店家多為地方居酒屋，客人常邊看師傅在鐵板上翻烤，邊等待熱騰騰的雞皮上桌。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "愛媛縣今治市"
+      },
+      {
+       "label": "做法",
+       "value": "鐵板壓燒，不串"
+      },
+      {
+       "label": "名物",
+       "value": "雞皮、炸雞せんざんき"
+      },
+      {
+       "label": "特色",
+       "value": "外酥內多汁"
+      }
+     ],
+     "best_season_zh": "全年",
+     "tips_zh": "通常搭配啤酒；先點雞皮，再吃炸雞，最後加上鮮蔬沙拉解膩。出發前建議先確認開放時間與交通，並預留充足時間慢慢欣賞。",
+     "tags": [
+      "燒鳥",
+      "鐵板",
+      "今治",
+      "鄉土料理"
+     ],
+     "sources": [
+      "https://www.maff.go.jp/e/policies/market/k_ryouri/search_menu/5300/index.html"
+     ],
+     "confidence": "high",
+     "prompt_en": "Chicken skin and chicken pieces grilled flat on a thick iron plate under a small iron weight, golden crispy surface, sizzling, close-up"
+    },
+    "scenery": {
+     "title_zh": "島波海道的跨海風景",
+     "title_ja": "しまなみ海道の眺め",
+     "summary_zh": "沿單車道看大橋、島嶼與藍色海面。",
+     "body_zh": "從今治出發，島波海道的單車道沿著海岸延伸，路面上畫有藍色指引線。沿線可見小漁港、柑橘園、造船廠與連綿橋樑，海面上不時有貨船經過。天氣晴朗時，島嶼層層疊疊，海面呈深淺藍色，適合拍照。傍晚日落時，橋身與海面反射金色，景色格外柔和。這是今治作為單車旅遊起點的魅力所在。沿路的休息站設有簡單餐點與租借服務，累了可隨時停下，適合邊騎邊拍。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "愛媛縣今治市及島嶼"
+      },
+      {
+       "label": "特色",
+       "value": "大橋、島嶼、柑橘園"
+      },
+      {
+       "label": "標示",
+       "value": "藍色指引線"
+      },
+      {
+       "label": "拍攝時段",
+       "value": "傍晚"
+      }
+     ],
+     "best_season_zh": "春與秋",
+     "tips_zh": "多備水與簡單補給；路上有許多休息站，隨時可停下拍照。出發前建議先確認開放時間與交通，並預留充足時間慢慢欣賞。",
+     "tags": [
+      "單車",
+      "島嶼",
+      "大橋",
+      "海景"
+     ],
+     "sources": [
+      "https://imabari-shimanami.jp/en/"
+     ],
+     "confidence": "medium",
+     "prompt_en": "Coastal cycling path with a blue guide line beside the sea, small harbor and island silhouettes in the distance, golden evening light"
+    }
+   }
+  },
+  {
+   "id": "ehime_uchiko",
+   "name_zh": "內子",
+   "name_ja": "内子",
+   "intro_zh": "內子位於愛媛縣山區，曾因製蠟業繁榮，留下大量江戶至明治時代的商家老宅。內子座是大正年間的歌舞伎劇場，八日市護國老街是國家指定保存地區。町上也有農產直銷所，適合慢遊半日。",
+   "items": {
+    "spot": {
+     "title_zh": "內子座",
+     "title_ja": "内子座",
+     "summary_zh": "1916年落成的木造歌舞伎劇場。",
+     "body_zh": "內子座是1916年（大正5年）興建的木造歌舞伎劇場，由地方富商出資，為了紀念大正天皇即位並提供鄉親娛樂場所。劇場內部保留榻榻米座位、二樓桟敷席與迴轉舞台，並可看到舞台下方的機關與迴廊。建築屬瓦葺兩層，外觀為格子窗與白牆。目前仍舉辦歌舞伎與音樂會等演出，平時開放參觀。劇場附近的老街與商家宅邸相連，可與八日市護國老街一併參觀，半日行程剛好。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "愛媛縣內子町"
+      },
+      {
+       "label": "落成",
+       "value": "1916年（大正5年）"
+      },
+      {
+       "label": "特色",
+       "value": "榻榻米座位、迴轉舞台"
+      },
+      {
+       "label": "用途",
+       "value": "演出與參觀"
+      }
+     ],
+     "best_season_zh": "全年",
+     "tips_zh": "平日可參觀舞台與地下機關，演出時需購票；入內需脫鞋。出發前建議先確認開放時間與交通，並預留充足時間慢慢欣賞。",
+     "tags": [
+      "劇場",
+      "歌舞伎",
+      "大正",
+      "內子"
+     ],
+     "sources": [
+      "https://en.wikipedia.org/wiki/Uchiko,_Ehime",
+      "https://www.japan.travel/en/spot/245/"
+     ],
+     "confidence": "medium",
+     "prompt_en": "Wooden kabuki theater interior with tatami seating, a revolving stage and hanging paper lanterns, warm soft light"
+    },
+    "food": {
+     "title_zh": "內子栗子甜點",
+     "title_ja": "内子の栗",
+     "summary_zh": "山區秋季栗子製成的和菓子與甜點。",
+     "body_zh": "內子町位於山區，盛產栗子，秋季有栗子甜點與栗子飯，町內的農產直銷所與咖啡廳常見以栗子製成的和菓子、蛋糕與蒙布朗。這些點心的特色是濃郁栗香與樸素甜味，多搭配煎茶或抹茶。由於產地小、產量有限，部分商品僅限季節販售。町上也有農家直送的蔬果與在地手工食品，適合作為老街散步時的小憩。農產直銷所也有販售蔬菜、水果與手工點心，適合在老街散步後順道採購。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "愛媛縣內子町"
+      },
+      {
+       "label": "食材",
+       "value": "栗子"
+      },
+      {
+       "label": "季節",
+       "value": "秋季"
+      },
+      {
+       "label": "特色",
+       "value": "和菓子與甜點"
+      }
+     ],
+     "best_season_zh": "秋",
+     "tips_zh": "部分商品季節限定；可在農產直銷所挑選伴手禮，營業時間先確認。出發前建議先確認開放時間與交通，並預留充足時間慢慢欣賞。",
+     "tags": [
+      "栗子",
+      "甜點",
+      "內子",
+      "農產"
+     ],
+     "sources": [
+      "https://www.japan-guide.com/e/e5554.html"
+     ],
+     "confidence": "low",
+     "prompt_en": "Chestnut sweets and a small cake on a lacquer plate with green tea, rustic wooden table, soft natural light"
+    },
+    "scenery": {
+     "title_zh": "八日市護國老街",
+     "title_ja": "八日市護国の町並み",
+     "summary_zh": "白牆格子窗的製蠟商家街道。",
+     "body_zh": "八日市護國地區是內子町保存完整的製蠟商家街道，約從江戶末期至明治時代形成，因木蠟出口繁榮而建造白牆、格子窗與瓦頂宅邸。1982年被指定為國家重要傳統建造物群保存地區，是四國首個、全國第18處。街區長不過數百公尺，保存相當完整，部分宅邸可入內參觀，展示製蠟工具與生活空間。街上很安靜，適合慢慢走、拍照。其中一些商家宅邸對外開放，可看到蠟的加工器具與昔日的生活空間，了解老街的由來。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "愛媛縣內子町"
+      },
+      {
+       "label": "指定",
+       "value": "1982年重要傳統建造物群保存地區"
+      },
+      {
+       "label": "產業",
+       "value": "木蠟"
+      },
+      {
+       "label": "特色",
+       "value": "白牆、格子窗、瓦頂"
+      }
+     ],
+     "best_season_zh": "全年",
+     "tips_zh": "街區不大，建議半天；參觀蠟的資料館能理解老街繁榮的背景。出發前建議先確認開放時間與交通，並預留充足時間慢慢欣賞。",
+     "tags": [
+      "老街",
+      "製蠟",
+      "保存地區",
+      "內子"
+     ],
+     "sources": [
+      "https://en.wikipedia.org/wiki/Uchiko,_Ehime",
+      "https://www.japan-guide.com/e/e5554.html"
+     ],
+     "confidence": "high",
+     "prompt_en": "Preserved merchant street with white plaster walls, wooden lattice windows and tiled roofs, empty quiet lane, soft morning light"
+    }
+   }
+  },
+  {
+   "id": "ehime_uwajima",
+   "name_zh": "宇和島",
+   "name_ja": "宇和島",
+   "intro_zh": "宇和島位於愛媛縣南部，面向宇和海，是養殖鯛魚與珍珠的重要產地。宇和島城保留了江戶時代的天守，城下町有伊達家的歷史痕跡。這裡也是宇和島式鯛魚飯的發源地。",
+   "items": {
+    "spot": {
+     "title_zh": "宇和島城",
+     "title_ja": "宇和島城",
+     "summary_zh": "保留1666年天守的小巧山城，現存十二天守之一。",
+     "body_zh": "宇和島城位於宇和島市市區的城山上，1601年由藤堂高虎築城，後由伊達家統治。現存天守於1666年由伊達宗利重建，大小與格局沿用藤堂高虎原建的天守，是現存十二天守之一。天守規模不大，外觀簡潔，屬三層樓設計。登城石階蜿蜒，上去後可眺望宇和島市街與宇和海。城下町有伊達家的歷史建築與庭園，適合半日遊。登城路程不長，沿途能看到石垣與樹林，天守內設有展示，介紹歷代藩主與城下町歷史。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "愛媛縣宇和島市"
+      },
+      {
+       "label": "築城",
+       "value": "1601年，藤堂高虎"
+      },
+      {
+       "label": "天守",
+       "value": "1666年重建，現存十二天守之一"
+      },
+      {
+       "label": "特色",
+       "value": "小巧簡潔、可望宇和海"
+      }
+     ],
+     "best_season_zh": "春與秋",
+     "tips_zh": "石階陡，穿好走的鞋；天守規模小，半小時內可看完。出發前建議先確認開放時間與交通，並預留充足時間慢慢欣賞。",
+     "tags": [
+      "城堡",
+      "現存天守",
+      "宇和島",
+      "伊達"
+     ],
+     "sources": [
+      "https://en.wikipedia.org/wiki/Uwajima_Castle"
+     ],
+     "confidence": "high",
+     "prompt_en": "Compact three-story castle keep on a hill with stone steps winding up through trees, clear sky, wide view from below"
+    },
+    "food": {
+     "title_zh": "宇和島鯛魚飯",
+     "title_ja": "宇和島鯛めし",
+     "summary_zh": "宇和島的生鯛魚醬汁蓋飯，是鯛魚飯原型。",
+     "body_zh": "宇和島鯛魚飯是將新鮮真鯛的生魚片與以醬油、味醂與出汁調成的醬汁，加上生蛋黃，淋在熱飯上食用。宇和島擁有日本屈指可數的真鯛養殖規模，因此能以新鮮魚肉直接入菜。吃法簡單，可加海苔絲、芝麻與蔥花，也可在最後淋上熱茶做成茶泡飯。這是宇和島漁家的日常料理，現已成為縣內代表性鄉土料理，在市內多家餐廳都能吃到。店家常附上小碟配菜與味噌湯，吃完後再倒入熱茶，是一道簡單而滿足的鄉土料理。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "愛媛縣宇和島市"
+      },
+      {
+       "label": "做法",
+       "value": "生鯛魚片、醬汁、蛋黃"
+      },
+      {
+       "label": "吃法",
+       "value": "可加茶泡成茶泡飯"
+      },
+      {
+       "label": "特色",
+       "value": "新鮮養殖真鯛"
+      }
+     ],
+     "best_season_zh": "全年",
+     "tips_zh": "點餐時可問店家是否附熱茶；不吃生魚者宜選松山式炊飯。出發前建議先確認開放時間與交通，並預留充足時間慢慢欣賞。",
+     "tags": [
+      "鯛魚",
+      "蓋飯",
+      "宇和島",
+      "鄉土料理"
+     ],
+     "sources": [
+      "https://www.japan.travel/en/sg/jbyj-blog/uwajima-tai-meshi/",
+      "https://shikoku-tourism.com/en/about-shikoku/taimeshi"
+     ],
+     "confidence": "high",
+     "prompt_en": "Raw sea bream slices and an egg yolk over rice in a bowl with scallions and nori, hot tea pot beside, wooden table, soft light"
+    },
+    "scenery": {
+     "title_zh": "宇和海",
+     "title_ja": "宇和海",
+     "summary_zh": "複雜海岸線與養殖筏的溫暖海域。",
+     "body_zh": "宇和海位於愛媛縣南西部，海岸是典型的溺谷海岸，曲折的海灣與島嶼眾多，海面平穩，是魚類與珍珠養殖的理想水域。海面上可見排列整齊的養殖筏，岸邊山坡為柑橘園，海與山相鄰，構成特色風景。這片海域屬足摺宇和海國立公園，海水清澈，冬季氣候溫暖。傍晚的漁港與養殖筏，是宇和島周邊代表景色。柑橘園沿著山坡展開，與海上的養殖筏相互呼應，是宇和島周邊最具代表性的風景。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "愛媛縣宇和島周邊"
+      },
+      {
+       "label": "海岸類型",
+       "value": "溺谷海岸"
+      },
+      {
+       "label": "產業",
+       "value": "真鯛與珍珠養殖"
+      },
+      {
+       "label": "公園",
+       "value": "足摺宇和海國立公園"
+      }
+     ],
+     "best_season_zh": "全年",
+     "tips_zh": "可搭船或登高處眺望，傍晚光線最柔和。出發前建議先確認開放時間與交通，並預留充足時間慢慢欣賞。",
+     "tags": [
+      "海景",
+      "養殖",
+      "海灣",
+      "宇和島"
+     ],
+     "sources": [
+      "https://en.wikipedia.org/wiki/Uwajima"
+     ],
+     "confidence": "medium",
+     "prompt_en": "Rias coastline with neat fish farm rafts floating on calm water and green citrus-covered hills, small boat, late afternoon light, wide aerial view"
+    }
+   }
+  }
+ ]
+}

@@ -1,0 +1,838 @@
+{
+ "id": "ishikawa",
+ "name_zh": "石川縣",
+ "name_ja": "石川県",
+ "region": "中部（北陸）",
+ "overview": {
+  "intro_zh": "石川縣位於本州中部日本海側，南北狹長，南部為加賀、北部為突出海面的能登半島。縣廳所在地金澤是江戶時代加賀藩前田家的城下町，保留兼六園、茶屋街與武家屋敷，金箔、九谷燒、加賀友禪與輪島塗等工藝聞名全國。北部能登擁有梯田與漁村風景，2024年元旦能登半島地震造成嚴重災害，復興仍在進行中。北陸新幹線通車後，東京到金澤約2.5小時，成為熱門的文化旅遊地。",
+  "capital_zh": "金澤市",
+  "area_km2": 4191,
+  "population_approx": "約108萬",
+  "flower_zh": "黑百合",
+  "bird_zh": "金鵰",
+  "tree_zh": "能登羅漢柏（アテ）",
+  "climate_zh": "日本海側氣候，冬季多雪多雨，夏季炎熱潮濕，全年降水多。",
+  "access_zh": "北陸新幹線至金澤站，東京約2.5小時；小松機場連國內與國際航線。",
+  "specialties_zh": [
+   "金箔",
+   "九谷燒",
+   "輪島塗",
+   "加賀友禪",
+   "海鮮丼",
+   "治部煮"
+  ],
+  "best_season_zh": "春季賞櫻、秋季紅葉、冬季雪吊與螃蟹"
+ },
+ "items": {
+  "architecture": {
+   "title_zh": "兼六園",
+   "title_ja": "兼六園",
+   "summary_zh": "日本三名園之一，雪吊是冬季詩意。",
+   "body_zh": "兼六園位於金澤市中心，由加賀藩歷代藩主於江戶時代營造，與水戶偕樂園、岡山後樂園並稱日本三名園，並被指定為國家特別名勝。園名取自宋代李格非《洛陽名園記》中提到的「六勝」。園內有霞之池、徽軫燈籠與大小松樹，以借景和曲水構成。每年約11月起，園丁為松樹加設雪吊，以繩索支撐樹枝防雪壓，成為冬季代表景象。園內亦有日本最古老的噴水之一。園內佔地約11萬平方公尺，分區設有茶屋、瀑布與石橋，沿步道慢走約一至兩小時可看完主要景點。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "金澤市兼六町"
+    },
+    {
+     "label": "名園",
+     "value": "日本三名園"
+    },
+    {
+     "label": "指定",
+     "value": "國家特別名勝"
+    },
+    {
+     "label": "雪吊",
+     "value": "約11月起設置"
+    }
+   ],
+   "best_season_zh": "4月（櫻）、11月（雪吊）、冬季",
+   "tips_zh": "徽軫燈籠與霞之池是拍照熱點，早上遊客較少；冬季地面濕滑，穿防滑鞋。",
+   "tags": [
+    "庭園",
+    "日本三名園",
+    "雪吊",
+    "金澤"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/兼六園"
+   ],
+   "confidence": "high",
+   "prompt_en": "Kenrokuen garden in winter with yukitsuri rope supports on pine trees, Kotoji stone lantern beside pond, snow falling softly"
+  },
+  "food": {
+   "title_zh": "海鮮丼與治部煮",
+   "title_ja": "海鮮丼と治部煮",
+   "summary_zh": "近江町市場海鮮與加賀鴨肉料理。",
+   "body_zh": "金澤近江町市場是歷史長達約三百年的「金澤之廚房」，攤位販賣螃蟹、甜蝦與當季魚貨，市場內也能吃到鮮度高的海鮮丼。冬季香箱蟹（雌性松葉蟹）是石川名產，需在11月起漁期才可品嚐。治部煮則是加賀的代表鄉土料理，以鴨肉或雞肉沾粉煮成，加入麩與香菇，湯汁濃稠，味道溫和，常見於宴席與年菜。若想享受在地風味，可在市場周邊的食堂分享不同料理，並搭配加賀的地酒與和菓子。",
+   "facts": [
+    {
+     "label": "近江町市場",
+     "value": "金澤市，約三百年歷史"
+    },
+    {
+     "label": "冬季名物",
+     "value": "香箱蟹（約11–12月）"
+    },
+    {
+     "label": "治部煮",
+     "value": "鴨肉、麩、香菇"
+    },
+    {
+     "label": "海鮮丼",
+     "value": "螃蟹、甜蝦、當季魚"
+    }
+   ],
+   "best_season_zh": "11月–2月（螃蟹）",
+   "tips_zh": "市場午後會有部分店舖收攤，建議早上去；香箱蟹漁期固定，勿期待其他季節。",
+   "tags": [
+    "海鮮丼",
+    "治部煮",
+    "近江町市場",
+    "香箱蟹"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/近江町市場",
+    "https://ja.wikipedia.org/wiki/治部煮"
+   ],
+   "confidence": "high",
+   "prompt_en": "Colorful seafood rice bowl with crab and sweet shrimp next to a lacquer bowl of jibuni duck stew, tabletop shot, warm light"
+  },
+  "culture": {
+   "title_zh": "金箔工藝",
+   "title_ja": "金沢箔",
+   "summary_zh": "日本九成以上金箔產自金澤。",
+   "body_zh": "金澤箔自江戶時代起成為加賀藩的特產，現在全國金箔生產量中約有99%出自金澤。工匠將黃金與少量銀、銅合金反覆鍛打，延展至約萬分之一毫米的薄度，須在恆濕的環境下以竹製工具撿拾。金箔廣泛用於佛壇、漆器與九谷燒，也被製成食品與化妝品。金澤市內有多間工房和體驗店，可嘗試貼箔製作小物，亦可見到金箔霜淇淋等觀光商品。金澤站周邊與市內多處商店皆有販售金箔小物，從飾品、文具到食品都有，價格依品質與用途差異很大。",
+   "facts": [
+    {
+     "label": "產量占比",
+     "value": "約全國99%"
+    },
+    {
+     "label": "厚度",
+     "value": "約0.0001毫米"
+    },
+    {
+     "label": "用途",
+     "value": "佛壇、漆器、食品"
+    },
+    {
+     "label": "體驗",
+     "value": "貼箔小物DIY"
+    }
+   ],
+   "best_season_zh": "全年",
+   "tips_zh": "金箔雪糕雖貴但很受歡迎；購買工藝品建議看有無「金澤箔」認證標示。",
+   "tags": [
+    "金箔",
+    "工藝",
+    "金澤",
+    "傳統"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/金沢箔",
+    "https://www.chubu.meti.go.jp/b36tokkyo/sesaku/chiiki_dantai_shohyo/pdf/ishikawa/kanazawa_haku.pdf"
+   ],
+   "confidence": "high",
+   "prompt_en": "Craftsperson's hands gently placing thin gold leaf on a lacquer tray, shimmering gold sheets, macro, workshop light"
+  },
+  "history": {
+   "title_zh": "金澤城石川門",
+   "title_ja": "金沢城石川門",
+   "summary_zh": "加賀藩前田家居城的正門之一。",
+   "body_zh": "金澤城原為一向一揆據點，後來成為加賀藩前田家居城，歷經火災多次重建。石川門建於江戶後期，被指定為國家重要文化財，白色鉛瓦屋頂與海鼠壁相映，是城內保留下來的重要建築之一，與兼六園相鄰。近年城址公園復原了菱櫓、五十間長屋等建築，採傳統木造工法，使人能直接觀察江戶時期的防禦與居住空間。城址公園免費開放戶外區域，部分復原建築需另購票入內；與兼六園相連，可規劃半日散步路線。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "金澤市丸之內"
+    },
+    {
+     "label": "石川門",
+     "value": "重要文化財"
+    },
+    {
+     "label": "城主",
+     "value": "加賀藩前田家"
+    },
+    {
+     "label": "復原",
+     "value": "菱櫓、五十間長屋"
+    }
+   ],
+   "best_season_zh": "春季（櫻）",
+   "tips_zh": "石川門與兼六園相鄰，可同日遊覽；城址公園夜間有點燈活動，需確認日期。",
+   "tags": [
+    "城郭",
+    "加賀藩",
+    "重要文化財",
+    "金澤"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/金沢城",
+    "https://ja.wikipedia.org/wiki/石川門"
+   ],
+   "confidence": "high",
+   "prompt_en": "Ishikawa Gate of Kanazawa Castle with white lead-tile roofs and stone walls, spring cherry blossoms, clear sky"
+  },
+  "mascot": {
+   "title_zh": "百萬先生與金箔角色",
+   "title_ja": "ひゃくまんさん",
+   "summary_zh": "石川縣觀光吉祥物。",
+   "body_zh": "石川縣的觀光吉祥物「ひゃくまんさん」於2013年為北陸新幹線通車前夕誕生，造型取自加賀鄉土玩具「加賀八幡起上」，身體貼有金箔，鬍鬚是輪島塗，並融入加賀友禪與九谷燒的設計。名字取自加賀百萬石。為避免複製商標吉祥物，本頁插圖改用原創角色，以金箔光澤和友禪花卉為靈感，戴著小畫筆，表現石川的工藝特色。在金澤站、機場與各大景點，常可見到以百萬石為主題的伴手禮與活動，節慶時有機會與吉祥物合照。",
+   "facts": [
+    {
+     "label": "官方吉祥物",
+     "value": "ひゃくまんさん"
+    },
+    {
+     "label": "誕生",
+     "value": "2013年"
+    },
+    {
+     "label": "造型來源",
+     "value": "加賀八幡起上"
+    },
+    {
+     "label": "工藝元素",
+     "value": "金箔、輪島塗、友禪"
+    }
+   ],
+   "best_season_zh": "全年",
+   "tips_zh": "吉祥物周邊在金澤站與機場物產店容易買到；活動日程見官方觀光網。",
+   "tags": [
+    "吉祥物",
+    "金箔",
+    "加賀",
+    "原創"
+   ],
+   "sources": [
+    "https://www.hot-ishikawa.jp/",
+    "https://www.pref.ishikawa.lg.jp/kisya/2019/documents/0528yuukyaku.pdf"
+   ],
+   "confidence": "medium",
+   "prompt_en": "A cute character covered with gold leaf sparkles holding a small paintbrush, floral Kaga yuzen patterned scarf, pastel illustration. Original cute character, not replicating any existing trademarked mascot."
+  },
+  "scenery": {
+   "title_zh": "白米千枚田",
+   "title_ja": "白米千枚田",
+   "summary_zh": "能登海邊層層疊疊的梯田。",
+   "body_zh": "白米千枚田位於輪島市白米町，沿海岸斜坡由約1,000塊小型水田堆疊而成，是日本罕見的臨海梯田，被指定為國家名勝，並與「能登的里山里海」一同登錄為世界農業遺產。2024年能登半島地震與同年9月的豪雨造成田地龜裂與崩壞，經過志工與居民復原，2026年秋季已可在部分田地收割稻穀，重建仍在持續。梯田旁設有道之驛與展望處，傳統上每年有「田地主人制度」，由城市居民認養田地參與耕作；災後該制度亦重新規劃。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "輪島市白米町"
+    },
+    {
+     "label": "規模",
+     "value": "原約1,004塊"
+    },
+    {
+     "label": "指定",
+     "value": "國家名勝、世界農業遺產"
+    },
+    {
+     "label": "災後",
+     "value": "2026年部分復耕"
+    }
+   ],
+   "best_season_zh": "插秧季（5月）、秋收（9月）",
+   "tips_zh": "受災後旅遊設施可能仍有限制，出發前查詢輪島市官方資訊；請勿進入田地。",
+   "tags": [
+    "梯田",
+    "海岸",
+    "世界農業遺產",
+    "能登"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/白米千枚田"
+   ],
+   "confidence": "medium",
+   "prompt_en": "White Rice Terraces Senmaida in Noto, hundreds of small rice paddies stepping down to the sea, golden hour"
+  },
+  "spot": {
+   "title_zh": "東茶屋街",
+   "title_ja": "ひがし茶屋街",
+   "summary_zh": "保留江戶風情的藝伎茶屋街。",
+   "body_zh": "東茶屋街位於金澤市淺野川旁，1820年代由加賀藩設立，木造兩層格子窗茶屋沿石板路排列，被指定為重要傳統建造物群保存地區。街內有至今仍營業的茶屋，可在「志摩」等開放參觀的茶屋了解藝伎文化。現今街邊也有金箔工房、和菓子與咖啡店，傍晚燈籠亮起後，氣氛尤其優雅。街內商店多為純木造建築，進入店內請勿觸摸展示品；人氣店舖如金箔霜淇淋常需排隊，建議避開週末午後。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "金澤市東山"
+    },
+    {
+     "label": "建立",
+     "value": "1820年代"
+    },
+    {
+     "label": "指定",
+     "value": "重要傳統建造物群保存地區"
+    },
+    {
+     "label": "開放茶屋",
+     "value": "志摩、懷華樓"
+    }
+   ],
+   "best_season_zh": "全年，傍晚尤佳",
+   "tips_zh": "傍晚遊客較少，適合散步；不少店舖18:00前收，有些茶屋禁止拍攝。",
+   "tags": [
+    "茶屋街",
+    "傳統街區",
+    "金澤",
+    "夜景"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/ひがし茶屋街",
+    "https://ja.wikipedia.org/wiki/金沢市"
+   ],
+   "confidence": "high",
+   "prompt_en": "Higashi Chaya district wooden latticed teahouses along stone-paved street at dusk, glowing lanterns, empty street"
+  },
+  "experience": {
+   "title_zh": "輪島塗體驗",
+   "title_ja": "輪島塗の体験",
+   "summary_zh": "蒔繪或沉金漆器工藝。",
+   "body_zh": "輪島塗是能登輪島市的傳統漆器，以堅實的木胎和多次髹漆聞名，並以蒔繪、沉金裝飾，被指定為國家重要無形文化財。工房和體驗設施提供蒔繪、沉金小物製作，遊客可在漆器碗上描繪簡單花紋。2024年地震造成輪島市許多工房與店舖受損，部分體驗暫停或移至金澤等地，須先確認最新營業狀況。實際製作過程需要數週乾燥，體驗通常是在已完成漆器上描繪蒔繪，體驗品可郵寄；建議預約並詢問當日所需時間。",
+   "facts": [
+    {
+     "label": "產地",
+     "value": "輪島市"
+    },
+    {
+     "label": "技法",
+     "value": "蒔繪、沉金"
+    },
+    {
+     "label": "指定",
+     "value": "國家重要無形文化財"
+    },
+    {
+     "label": "災後",
+     "value": "部分工房受損，需先確認"
+    }
+   ],
+   "best_season_zh": "全年",
+   "tips_zh": "出發前務必電話或官網確認工房是否營業；購買漆器請認明產地標示。",
+   "tags": [
+    "輪島塗",
+    "漆器",
+    "體驗",
+    "能登"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/輪島塗"
+   ],
+   "confidence": "medium",
+   "prompt_en": "Close-up of hands decorating a black Wajima lacquerware bowl with gold maki-e, workshop table, soft light"
+  },
+  "costume": {
+   "title_zh": "加賀友禪和服",
+   "title_ja": "加賀友禅",
+   "summary_zh": "寫實花卉彩繪的染織和服。",
+   "body_zh": "加賀友禪是金澤的傳統染織工藝，特徵是以寫實風格描繪花草、昆蟲與風景，並採用「虫喰い」（蟲蛀葉）的獨特技法表現自然。顏色以臙脂、藍、黃、綠、紫五種「加賀五彩」為基調。製作須經過手繪、防染、蒸、水洗等多道工序，每一件皆為手工，現在金澤也設有染色體驗與資料館。本頁以匿名模特兒呈現，不指向特定人物。染色後需多次水洗以去除多餘染料，成品以柔和的色調著稱；常見於婚禮、茶會等正式場合。",
+   "facts": [
+    {
+     "label": "特徵",
+     "value": "寫實花卉、蟲蛀葉"
+    },
+    {
+     "label": "配色",
+     "value": "加賀五彩"
+    },
+    {
+     "label": "工序",
+     "value": "手繪、防染、蒸、水洗"
+    },
+    {
+     "label": "所在地",
+     "value": "金澤"
+    }
+   ],
+   "best_season_zh": "全年（和服出遊春秋最佳）",
+   "tips_zh": "金澤站周邊可租借和服逛茶屋街；友禪染體驗需預約。",
+   "tags": [
+    "加賀友禪",
+    "和服",
+    "染織",
+    "金澤"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/加賀友禅",
+    "https://ja.wikipedia.org/wiki/金沢市"
+   ],
+   "confidence": "high",
+   "prompt_en": "Anonymous model in a Kaga yuzen kimono with realistic floral patterns standing in Kanazawa Nagamachi samurai district, soft afternoon light"
+  }
+ },
+ "areas": [
+  {
+   "id": "ishikawa_kanazawa",
+   "name_zh": "金澤",
+   "name_ja": "金沢",
+   "intro_zh": "金澤是北陸最大都市，江戶時代為加賀藩百萬石城下町，戰爭中倖免於空襲，保留大量古街區。市內有兼六園、茶屋街、近江町市場、21世紀美術館等，傳統與現代並存，北陸新幹線讓往返東京更便利。",
+   "items": {
+    "spot": {
+     "title_zh": "兼六園",
+     "title_ja": "兼六園",
+     "summary_zh": "日本三名園，雪吊聞名。",
+     "body_zh": "兼六園位於金澤城旁，屬日本三名園之一，國家特別名勝。園內以霞之池、徽軫燈籠與曲水為特色，四季各有景致，冬季雪吊更是代表。開園時間早，可於清晨避開人潮。周邊景點與設施的營業時間因季節而異，出發前建議查詢官方資訊。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "金澤市兼六町"
+      },
+      {
+       "label": "名園",
+       "value": "日本三名園"
+      },
+      {
+       "label": "雪吊",
+       "value": "11月起"
+      },
+      {
+       "label": "開園",
+       "value": "早晨起"
+      }
+     ],
+     "best_season_zh": "春櫻、秋楓、冬雪吊",
+     "tips_zh": "清晨入園人少，拍照光線佳。",
+     "tags": [
+      "庭園",
+      "名園",
+      "雪吊"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/兼六園"
+     ],
+     "confidence": "high",
+     "prompt_en": "Kenrokuen garden in winter with yukitsuri rope supports on pine trees, Kotoji stone lantern beside pond, snow falling softly"
+    },
+    "food": {
+     "title_zh": "金澤海鮮丼與治部煮",
+     "title_ja": "金沢の海鮮丼と治部煮",
+     "summary_zh": "市場海鮮與加賀鄉土燉煮。",
+     "body_zh": "近江町市場提供螃蟹、甜蝦與當季魚做成的海鮮丼；治部煮則是加賀代表鄉土料理，以鴨肉、麩與香菇燉成，湯汁濃稠。兩者分別代表海與城下町的飲食文化。周邊景點與設施的營業時間因季節而異，出發前建議查詢官方資訊。",
+     "facts": [
+      {
+       "label": "市場",
+       "value": "近江町市場"
+      },
+      {
+       "label": "海鮮丼",
+       "value": "螃蟹、甜蝦"
+      },
+      {
+       "label": "治部煮",
+       "value": "鴨肉、麩、香菇"
+      },
+      {
+       "label": "季節",
+       "value": "冬季螃蟹最佳"
+      }
+     ],
+     "best_season_zh": "11月–2月",
+     "tips_zh": "午後攤位陸續收攤，早去較好。",
+     "tags": [
+      "海鮮丼",
+      "治部煮",
+      "市場"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/近江町市場",
+      "https://ja.wikipedia.org/wiki/治部煮"
+     ],
+     "confidence": "high",
+     "prompt_en": "Colorful seafood rice bowl with crab and sweet shrimp next to a lacquer bowl of jibuni duck stew, tabletop shot, warm light"
+    },
+    "scenery": {
+     "title_zh": "東茶屋街",
+     "title_ja": "ひがし茶屋街",
+     "summary_zh": "木格子茶屋沿石板路。",
+     "body_zh": "東茶屋街是金澤代表的傳統街景，兩層木造格子窗茶屋沿石板路排列。傍晚燈籠點亮時氣氛最佳，街內有茶屋、金箔店與甜點店，適合慢步閒逛。周邊景點與設施的營業時間因季節而異，出發前建議查詢官方資訊。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "金澤市東山"
+      },
+      {
+       "label": "指定",
+       "value": "重要傳統建造物群保存地區"
+      },
+      {
+       "label": "特色",
+       "value": "格子窗茶屋"
+      },
+      {
+       "label": "夜景",
+       "value": "傍晚燈籠"
+      }
+     ],
+     "best_season_zh": "全年，傍晚最佳",
+     "tips_zh": "傍晚遊客少，注意部分茶屋禁止拍攝。",
+     "tags": [
+      "茶屋街",
+      "街景",
+      "夜景"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/ひがし茶屋街"
+     ],
+     "confidence": "high",
+     "prompt_en": "Higashi Chaya district wooden latticed teahouses along stone-paved street at dusk, glowing lanterns, empty street"
+    }
+   }
+  },
+  {
+   "id": "ishikawa_noto",
+   "name_zh": "能登",
+   "name_ja": "能登",
+   "intro_zh": "能登是向日本海突出的半島，擁有漁村、梯田與朝市等傳統風景，並以輪島塗與牡蠣聞名。2024年1月能登半島地震造成輪島朝市周邊大火與嚴重災情，復興仍在進行，前往旅遊前務必確認最新營運與道路狀況。",
+   "items": {
+    "spot": {
+     "title_zh": "輪島朝市",
+     "title_ja": "輪島朝市",
+     "summary_zh": "千年傳統朝市，災後復興中。",
+     "body_zh": "輪島朝市曾是日本三大朝市之一，歷史可追溯一千年以上。2024年地震後朝市通因大火受災，目前通常在市內他處舉辦「出張朝市」，並於2026年9月在朝市通周邊首度恢復露天攤位，官方目標為2030年完整重建。周邊景點與設施的營業時間因季節而異，出發前建議查詢官方資訊。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "輪島市"
+      },
+      {
+       "label": "歷史",
+       "value": "傳說約千年"
+      },
+      {
+       "label": "災後",
+       "value": "出張朝市、臨時攤位"
+      },
+      {
+       "label": "復原目標",
+       "value": "2030年（官方計畫）"
+      }
+     ],
+     "best_season_zh": "以官方公布為準",
+     "tips_zh": "前往前務必查詢輪島市最新公告；災後道路與設施狀況會變動。",
+     "tags": [
+      "朝市",
+      "輪島",
+      "災後復興"
+     ],
+     "sources": [
+      "https://kumanichi.com/articles/2035462",
+      "https://ja.wikipedia.org/wiki/輪島朝市"
+     ],
+     "confidence": "medium",
+     "prompt_en": "Morning market stalls under tents in a coastal Japanese town, vendors with baskets of dried fish and vegetables, early light, wide shot"
+    },
+    "food": {
+     "title_zh": "能登牡蠣與海鮮",
+     "title_ja": "能登の牡蠣・海鮮",
+     "summary_zh": "七尾灣牡蠣與日本海魚貨。",
+     "body_zh": "能登的七尾灣水域平穩，盛產牡蠣，尤其是能登島的牡蠣在冬季肥美。日本海冷水域所產的鰤魚、螃蟹與甜蝦也很有名，餐廳多以燒烤、刺身與鍋物呈現。受地震影響，部分養殖與店家正在復原。周邊景點與設施的營業時間因季節而異，出發前建議查詢官方資訊。",
+     "facts": [
+      {
+       "label": "牡蠣",
+       "value": "七尾灣、能登島"
+      },
+      {
+       "label": "魚貨",
+       "value": "鰤魚、螃蟹、甜蝦"
+      },
+      {
+       "label": "季節",
+       "value": "冬季為佳"
+      },
+      {
+       "label": "災後",
+       "value": "部分店家仍在復原"
+      }
+     ],
+     "best_season_zh": "11月–3月",
+     "tips_zh": "出發前查詢店舖營業狀態；牡蠣建議熟食以策安全。",
+     "tags": [
+      "牡蠣",
+      "海鮮",
+      "七尾灣"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/七尾湾",
+      "https://zh.wikipedia.org/wiki/能登半島"
+     ],
+     "confidence": "low",
+     "prompt_en": "Grilled oysters on shells beside a plate of fresh seafood at a coastal restaurant in Noto, tabletop, soft window light"
+    },
+    "scenery": {
+     "title_zh": "白米千枚田",
+     "title_ja": "白米千枚田",
+     "summary_zh": "海邊層層梯田，災後復耕。",
+     "body_zh": "白米千枚田是輪島市海岸邊的梯田，原有約1,004塊小田，被指定為國家名勝與世界農業遺產。2024年地震與豪雨造成田地受損，2026年秋季已在部分田地收割。周邊景點與設施的營業時間因季節而異，出發前建議查詢官方資訊。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "輪島市白米町"
+      },
+      {
+       "label": "規模",
+       "value": "原約1,004塊"
+      },
+      {
+       "label": "指定",
+       "value": "名勝、世界農業遺產"
+      },
+      {
+       "label": "災後",
+       "value": "部分復耕"
+      }
+     ],
+     "best_season_zh": "插秧與秋收",
+     "tips_zh": "請勿進入田地；留意最新復原消息。",
+     "tags": [
+      "梯田",
+      "海岸",
+      "能登"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/白米千枚田"
+     ],
+     "confidence": "medium",
+     "prompt_en": "White Rice Terraces Senmaida in Noto, hundreds of small rice paddies stepping down to the sea, golden hour"
+    }
+   }
+  },
+  {
+   "id": "ishikawa_kaga_onsen",
+   "name_zh": "加賀溫泉鄉",
+   "name_ja": "加賀温泉郷",
+   "intro_zh": "加賀溫泉鄉是石川縣南部的溫泉群，包括山中溫泉、山代溫泉、片山津溫泉等，歷史悠久。這一帶同時是九谷燒產地，山中溫泉旁的鶴仙溪峽谷以步道和橋樑聞名，柴山潟風景宜人，適合泡湯慢遊。",
+   "items": {
+    "spot": {
+     "title_zh": "山中溫泉鶴仙溪",
+     "title_ja": "山中温泉・鶴仙渓",
+     "summary_zh": "溪谷步道與古老溫泉街。",
+     "body_zh": "山中溫泉位於大聖寺川上游，相傳松尾芭蕉曾造訪。旁邊的鶴仙溪是一段約1.3公里的峽谷，沿路有「蟋蟀橋」、「黑谷橋」等景點，秋季紅葉尤其美。溫泉街還有山中漆器工藝與傳統商店。周邊景點與設施的營業時間因季節而異，出發前建議查詢官方資訊。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "加賀市山中溫泉"
+      },
+      {
+       "label": "鶴仙溪",
+       "value": "約1.3公里（約數）"
+      },
+      {
+       "label": "名橋",
+       "value": "蟋蟀橋、黑谷橋"
+      },
+      {
+       "label": "工藝",
+       "value": "山中漆器"
+      }
+     ],
+     "best_season_zh": "秋季（紅葉）",
+     "tips_zh": "步道有台階，穿好走鞋；紅葉時期人多，宜早到。",
+     "tags": [
+      "溫泉",
+      "峽谷",
+      "紅葉"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/山中温泉",
+      "https://ja.wikipedia.org/wiki/鶴仙渓"
+     ],
+     "confidence": "medium",
+     "prompt_en": "Kakusenkei gorge with a wooden arched bridge among autumn leaves and a clear stream, morning light"
+    },
+    "food": {
+     "title_zh": "九谷燒與加賀料理",
+     "title_ja": "九谷焼と加賀料理",
+     "summary_zh": "色彩濃烈的瓷器與鄉土料理。",
+     "body_zh": "九谷燒是江戶初期在加賀地方開始的彩繪瓷器，以濃烈的綠、黃、紫、紺青與紅色為特徵，有「九谷五彩」之稱。加賀料理則包含治部煮、蕪菁壽司等，講究季節感，常用九谷燒器皿盛裝，兩者相得益彰。周邊景點與設施的營業時間因季節而異，出發前建議查詢官方資訊。",
+     "facts": [
+      {
+       "label": "九谷燒",
+       "value": "彩繪瓷器，九谷五彩"
+      },
+      {
+       "label": "起源",
+       "value": "江戶初期"
+      },
+      {
+       "label": "加賀料理",
+       "value": "治部煮、蕪菁壽司"
+      },
+      {
+       "label": "器皿",
+       "value": "九谷燒"
+      }
+     ],
+     "best_season_zh": "全年",
+     "tips_zh": "可購買九谷燒作紀念，注意易碎；部分窯場提供彩繪體驗。",
+     "tags": [
+      "九谷燒",
+      "加賀料理",
+      "工藝"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/九谷焼"
+     ],
+     "confidence": "medium",
+     "prompt_en": "Colorful Kutani porcelain plates with vivid green yellow and purple patterns holding a Kaga cuisine meal, tabletop, soft light"
+    },
+    "scenery": {
+     "title_zh": "柴山潟風景",
+     "title_ja": "柴山潟の風景",
+     "summary_zh": "溫泉街旁的潟湖與遠山。",
+     "body_zh": "柴山潟位於加賀市片山津溫泉旁，是與日本海相隔不遠的潟湖，湖面常見水鳥，天氣晴朗時可遠眺白山。湖畔有步道與噴泉，傍晚與日落時段景色柔和。周邊景點與設施的營業時間因季節而異，出發前建議查詢官方資訊。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "加賀市片山津"
+      },
+      {
+       "label": "類型",
+       "value": "潟湖"
+      },
+      {
+       "label": "遠景",
+       "value": "白山（晴天）"
+      },
+      {
+       "label": "設施",
+       "value": "湖畔步道、足湯（部分）"
+      }
+     ],
+     "best_season_zh": "傍晚與日落",
+     "tips_zh": "風大時湖邊較冷，攜帶外套。",
+     "tags": [
+      "潟湖",
+      "溫泉",
+      "日落"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/柴山潟"
+     ],
+     "confidence": "low",
+     "prompt_en": "Shibayamagata lagoon at sunset with hot spring town on the shore and distant Hakusan mountains, calm water"
+    }
+   }
+  },
+  {
+   "id": "ishikawa_hakusan",
+   "name_zh": "白山",
+   "name_ja": "白山",
+   "intro_zh": "白山地區位於石川縣南部，白山為日本三靈山之一，山麓有白山比咩神社，是全國約三千座白山神社的總本社。手取川流經此地，孕育出手取峽谷與鮎魚，山區有山菜、溫泉與滑雪場，是自然與信仰交織的地區。",
+   "items": {
+    "spot": {
+     "title_zh": "白山比咩神社",
+     "title_ja": "白山比咩神社",
+     "summary_zh": "全國白山神社總本社。",
+     "body_zh": "白山比咩神社位於白山市，是全國約三千座白山神社的總本社，祭祀白山比咩大神，與富士山、立山並稱日本三靈山信仰。境內杉林幽深，參道莊嚴，每年有許多信眾參拜。周邊景點與設施的營業時間因季節而異，出發前建議查詢官方資訊。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "白山市三宮町"
+      },
+      {
+       "label": "祭神",
+       "value": "白山比咩大神"
+      },
+      {
+       "label": "地位",
+       "value": "白山神社總本社"
+      },
+      {
+       "label": "環境",
+       "value": "杉林參道"
+      }
+     ],
+     "best_season_zh": "全年",
+     "tips_zh": "參道有石階，穿防滑鞋；清晨安靜。",
+     "tags": [
+      "神社",
+      "白山信仰",
+      "杉林"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/白山比咩神社"
+     ],
+     "confidence": "medium",
+     "prompt_en": "Hakusan Hime Shrine approach lined with tall cedar trees and stone lanterns, quiet morning mist"
+    },
+    "food": {
+     "title_zh": "手取川鮎魚與山菜",
+     "title_ja": "手取川の鮎と山菜",
+     "summary_zh": "清流鮎魚與山菜料理。",
+     "body_zh": "手取川是石川縣的主要河川，水質清澈，夏季鮎魚肥美，常以鹽燒方式呈現。白山山麓還有山菜、蕎麥與地方鄉土料理，春季嫩芽，秋季菇類，適合入住山莊嘗鮮。周邊景點與設施的營業時間因季節而異，出發前建議查詢官方資訊。",
+     "facts": [
+      {
+       "label": "河川",
+       "value": "手取川"
+      },
+      {
+       "label": "魚類",
+       "value": "鮎魚（夏季）"
+      },
+      {
+       "label": "山菜",
+       "value": "春季嫩芽"
+      },
+      {
+       "label": "烹調",
+       "value": "鹽燒"
+      }
+     ],
+     "best_season_zh": "夏季（鮎）、春季（山菜）",
+     "tips_zh": "鮎魚漁期依年份而異，請洽當地餐廳。",
+     "tags": [
+      "鮎魚",
+      "山菜",
+      "清流"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/手取川",
+      "https://ja.wikipedia.org/wiki/アユ"
+     ],
+     "confidence": "low",
+     "prompt_en": "Salt-grilled sweetfish on a bamboo skewer beside a clear mountain stream, summer light"
+    },
+    "scenery": {
+     "title_zh": "手取峽谷",
+     "title_ja": "手取峡谷",
+     "summary_zh": "手取川沖刷的峽谷景觀。",
+     "body_zh": "手取峽谷位於手取川上游，由長期侵蝕形成的陡峭谷壁，兩岸山林在秋季紅葉燦爛。谷中有水壩與橋樑，是白山地區代表性的自然景觀，適合攝影與散步。周邊景點與設施的營業時間因季節而異，出發前建議查詢官方資訊。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "白山市"
+      },
+      {
+       "label": "成因",
+       "value": "河川侵蝕"
+      },
+      {
+       "label": "景觀",
+       "value": "谷壁、紅葉"
+      },
+      {
+       "label": "設施",
+       "value": "水壩、橋樑"
+      }
+     ],
+     "best_season_zh": "秋季（紅葉）",
+     "tips_zh": "山區道路有彎道，行車注意安全。",
+     "tags": [
+      "峽谷",
+      "紅葉",
+      "白山"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/手取川"
+     ],
+     "confidence": "low",
+     "prompt_en": "Tedori river gorge with steep cliffs and autumn foliage, a bridge over turquoise water, wide shot"
+    }
+   }
+  }
+ ]
+}

@@ -1,0 +1,277 @@
+{
+ "id": "tokyo",
+ "foods": [
+  {
+   "title_zh": "江戶前壽司",
+   "title_ja": "江戸前寿司",
+   "category": "麵飯",
+   "summary_zh": "江戶時代發展成形的握壽司，用東京灣鮮魚現做現吃。",
+   "body_zh": "江戶前壽司是東京最具代表性的料理之一。據維基百科，握壽司約於1829年（文政12年）前後在江戶誕生，創始人有兩國的華屋與兵衛與安宅的堺屋松五郎兩說，尚無定論。壽司最初是屋台小吃，講求握好即食，並發展出醋漬、醬油漬等處理手法，常用鮪魚、蝦、貝類與星鰻。關東大地震後，職人移居各地，使握壽司普及全國。",
+   "facts": [
+    {
+     "label": "起源",
+     "value": "約1829年前後，創始人有與兵衛、松五郎兩說"
+    },
+    {
+     "label": "主要食材",
+     "value": "鮪魚、蝦、貝類、星鰻等江戶前魚貝"
+    },
+    {
+     "label": "吃法",
+     "value": "握好即食，常配醬油與山葵"
+    }
+   ],
+   "season_zh": "全年",
+   "where_zh": "東京市區壽司店，從屋台傳統到高級壽司屋皆有",
+   "tags": [
+    "壽司",
+    "江戶前",
+    "握壽司",
+    "東京名物"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/江戸前寿司"
+   ],
+   "confidence": "medium",
+   "prompt_en": "A single piece of edo-mae nigiri sushi of lean tuna on hand-pressed vinegared rice, served on a plain hinoki wood geta board with a small mound of pickled ginger and a dab of wasabi, dark lacquer counter, soft warm side light, one dish only, no text or signage"
+  },
+  {
+   "title_zh": "文字燒",
+   "title_ja": "もんじゃ焼き",
+   "category": "B級美食",
+   "summary_zh": "以鐵板煎煮的稀麵糊小吃，月島為名店街。",
+   "body_zh": "文字燒是源自東京的鐵板料理，維基百科記載其於1950年代前後出現在淺草一帶的墨田區附近。將稀釋的麵粉糊與醬汁、配料拌在一起下鐵板，煮好後仍呈糊狀，不像大阪燒會凝固，食客用小鐵鏟直接刮著吃。1980年代後駄菓子店減少，維基記載1988年地鐵（丸之內線）通車後，月島成為文字燒聚集地，店約75家。",
+   "facts": [
+    {
+     "label": "起源",
+     "value": "約1950年代東京淺草、墨田區一帶"
+    },
+    {
+     "label": "主要食材",
+     "value": "麵粉糊、醬汁、高麗菜等配料"
+    },
+    {
+     "label": "吃法",
+     "value": "在鐵板上以小鐵鏟刮著吃"
+    }
+   ],
+   "season_zh": "全年",
+   "where_zh": "東京月島「もんじゃ通り」及下町鐵板店",
+   "tags": [
+    "鐵板燒",
+    "月島",
+    "下町",
+    "B級美食"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/もんじゃ焼き"
+   ],
+   "confidence": "medium",
+   "prompt_en": "Freshly cooked monjayaki on a hot iron teppan griddle, a thin pasty layer with a ring-shaped cabbage base in the centre, small metal spatula resting beside it, steam rising, warm indoor light, single dish, no text"
+  },
+  {
+   "title_zh": "深川飯",
+   "title_ja": "深川めし",
+   "category": "鄉土料理",
+   "summary_zh": "漁夫賄飯演變成的蛤蜊蔥飯，有淋湯與炊飯兩型。",
+   "body_zh": "深川飯是東京下町的鄉土料理，用蛤蜊（早期用青柳貝）、蔥烹煮。據維基百科，其源頭是深川漁夫工作空檔吃的「ぶっかけめし」（淋湯飯）；明治至大正時期，食材由青柳貝轉為蛤蜊。現有兩種型態：把湯料淋在白飯上，或一起炊煮；約2000年後新開的店多為炊飯型。後來亦成為東海道新幹線沿線的車站便當。",
+   "facts": [
+    {
+     "label": "起源",
+     "value": "深川漁夫的賄飯「ぶっかけめし」"
+    },
+    {
+     "label": "主要食材",
+     "value": "蛤蜊（早期為青柳貝）、蔥"
+    },
+    {
+     "label": "吃法",
+     "value": "淋湯飯或炊飯兩種型態"
+    }
+   ],
+   "season_zh": "全年",
+   "where_zh": "東京江東區深川一帶的食堂與料理店",
+   "tags": [
+    "蛤蜊",
+    "丼飯",
+    "下町",
+    "漁師飯"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/深川丼"
+   ],
+   "confidence": "medium",
+   "prompt_en": "A single donburi bowl of Fukagawa meshi, steamed rice with clams and chopped green onion in a light miso broth, in a simple ceramic bowl on a wooden table, wooden chopsticks beside, soft window light, one dish, no text"
+  },
+  {
+   "title_zh": "泥鰍鍋",
+   "title_ja": "どぜう鍋",
+   "category": "鄉土料理",
+   "summary_zh": "江戶時代淺草駒形的泥鰍鐵鍋，加滿蔥花而食。",
+   "body_zh": "泥鰍鍋是江戶庶民料理。維基百科記載，最有名的「丸鍋」約1804年起源於淺草駒形，由一家叫越後屋的店所創；駒形どぜう約創業於1801年，「どぜう」的寫法約在1806年定型。活泥鰍先以酒浸，再放入淺鐵鍋用炭火煮，用甜鹹的割下汁調味，加大量蔥，最後撒山椒或七味粉。另有拔骨的「抜き鍋」與蛋汁的柳川鍋。",
+   "facts": [
+    {
+     "label": "起源",
+     "value": "約1804年淺草駒形（丸鍋）"
+    },
+    {
+     "label": "主要食材",
+     "value": "泥鰍、蔥、牛蒡（柳川鍋）"
+    },
+    {
+     "label": "吃法",
+     "value": "淺鐵鍋炭火煮，撒山椒或七味粉"
+    }
+   ],
+   "season_zh": "全年",
+   "where_zh": "東京淺草駒形一帶的老鋪",
+   "tags": [
+    "鍋物",
+    "泥鰍",
+    "江戶",
+    "老店"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/どじょう鍋"
+   ],
+   "confidence": "medium",
+   "prompt_en": "A shallow black cast-iron pot of maru-nabe whole loaches simmering in sweet soy broth buried under a heap of chopped green onion, on a small charcoal brazier, wooden table, a small dish of sansho pepper beside, warm light, no text"
+  },
+  {
+   "title_zh": "江戶前天婦羅",
+   "title_ja": "天ぷら",
+   "category": "海鮮",
+   "summary_zh": "以江戶前魚蝦為主，曾是屋台立食的庶民小吃。",
+   "body_zh": "據維基百科，江戶前天婦羅源自長崎天婦羅，向東傳到江戶，是「江戶三味」之一。江戶時代是屋台立食小吃，把食材串起現炸，主流為用芝麻油炸的「黑天婦羅」；高級座敷天婦羅則用太白油炸得色白酥脆。代表食材有車海老、星鰻、沙鮻、鱚魚、白魚和青柳貝等江戶前魚貝，現已是日本代表料理。",
+   "facts": [
+    {
+     "label": "起源",
+     "value": "由長崎天婦羅傳至江戶，江戶時代確立"
+    },
+    {
+     "label": "主要食材",
+     "value": "車海老、星鰻、鱚、白魚等江戶前魚貝"
+    },
+    {
+     "label": "吃法",
+     "value": "現炸現吃，蘸天汁或鹽"
+    }
+   ],
+   "season_zh": "全年",
+   "where_zh": "東京的天婦羅專門店",
+   "tags": [
+    "天婦羅",
+    "江戶前",
+    "炸物",
+    "海鮮"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/天ぷら"
+   ],
+   "confidence": "medium",
+   "prompt_en": "Two pieces of freshly fried tempura, one prawn and one conger eel, with light golden crisp batter, stacked on washi paper on a small black lacquer tray with a small dish of tentsuyu dipping sauce, warm side light, no text"
+  },
+  {
+   "title_zh": "佃煮",
+   "title_ja": "佃煮",
+   "category": "特產食材",
+   "summary_zh": "佃島漁民的保存食，以醬油糖煮小魚貝海藻。",
+   "body_zh": "據維基百科，佃煮源於江戶：德川家康把攝津國佃村的漁夫帶到填海地「佃島」，漁民把小魚、貝類用鹽或醬油煮乾，作為壞天氣或出海時的常備菜與保存食。其後發展成商品，參勤交代的武士把它當作江戶名物帶回各地，因而普及全國。食材包括小魚、蝦、貝類、昆布和蔬菜，用醬油、砂糖、味醂等濃味煮成。",
+   "facts": [
+    {
+     "label": "起源",
+     "value": "江戶佃島漁民的保存食"
+    },
+    {
+     "label": "主要食材",
+     "value": "小魚、蝦、貝類、昆布、蔬菜"
+    },
+    {
+     "label": "吃法",
+     "value": "配白飯、茶泡飯或飯糰"
+    }
+   ],
+   "season_zh": "全年",
+   "where_zh": "東京佃島、日本橋一帶的老鋪",
+   "tags": [
+    "佃煮",
+    "保存食",
+    "江戶",
+    "配飯"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/佃煮"
+   ],
+   "confidence": "medium",
+   "prompt_en": "A small ceramic dish of glossy dark tsukudani, soy-simmered tiny fish and clams, next to a small bowl of white rice, on a plain wooden table, soft natural light, one dish, no text"
+  },
+  {
+   "title_zh": "人形燒",
+   "title_ja": "人形焼",
+   "category": "甜點和菓子",
+   "summary_zh": "人形町起源的小蛋糕狀紅豆餡和菓子。",
+   "body_zh": "據維基百科，人形燒起源於東京日本橋人形町，傳統上用文樂人偶與七福神的模具烤成。外皮是類似蜂蜜蛋糕的麵糊，內包紅豆餡等內餡，常用漉餡，近年也有抹茶、櫻花、卡士達等口味。它是東京代表性伴手禮；淺草寺一帶現烤現賣的風味最佳，真空包裝品則可保存約一個月。",
+   "facts": [
+    {
+     "label": "起源",
+     "value": "東京日本橋人形町"
+    },
+    {
+     "label": "主要食材",
+     "value": "蛋糕麵糊、紅豆餡"
+    },
+    {
+     "label": "吃法",
+     "value": "趁熱現吃，或作伴手禮"
+    }
+   ],
+   "season_zh": "全年",
+   "where_zh": "東京人形町、淺草的老鋪",
+   "tags": [
+    "和菓子",
+    "伴手禮",
+    "人形町",
+    "紅豆"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/人形焼"
+   ],
+   "confidence": "medium",
+   "prompt_en": "Three hand-sized baked ningyo-yaki cakes shaped like lucky gods with golden-brown surface, on a small paper-lined tray, soft warm light, wooden table, no text"
+  },
+  {
+   "title_zh": "伊豆群島臭魚乾",
+   "title_ja": "くさや",
+   "category": "特產食材",
+   "summary_zh": "伊豆群島以發酵魚汁浸泡後曬乾的臭味魚乾。",
+   "body_zh": "臭魚乾是東京伊豆群島的特產，主要產地為新島、八丈島和大島。據維基百科，漁獲（以室鰺、飛魚、鬼頭刀等為主）剖開內臟後浸入發酵的「くさや汁」，新島浸約10至20小時，再曬乾48至60小時。江戶時代鹽稅沉重，島民重複使用鹽水，演變出發酵液，據說可傳承200至300年；含丁酸等成分，氣味強烈。",
+   "facts": [
+    {
+     "label": "起源",
+     "value": "江戶時代伊豆群島因鹽稀少而重複使用鹽水"
+    },
+    {
+     "label": "主要食材",
+     "value": "室鰺（ムロアジ）等魚、發酵くさや汁"
+    },
+    {
+     "label": "吃法",
+     "value": "炙烤後撕開，配日本酒"
+    }
+   ],
+   "season_zh": "全年",
+   "where_zh": "東京伊豆群島（新島、八丈島、大島）",
+   "tags": [
+    "魚乾",
+    "發酵",
+    "伊豆群島",
+    "下酒菜"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/くさや"
+   ],
+   "confidence": "medium",
+   "prompt_en": "A single whole grilled kusaya dried horse mackerel on a small rectangular ceramic plate, lightly charred skin, a lemon wedge beside, dark wooden table, warm side light, no text"
+  }
+ ]
+}

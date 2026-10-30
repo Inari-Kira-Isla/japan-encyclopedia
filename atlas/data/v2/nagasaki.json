@@ -1,0 +1,842 @@
+{
+ "id": "nagasaki",
+ "name_zh": "長崎",
+ "name_ja": "長崎",
+ "region": "九州",
+ "overview": {
+  "intro_zh": "長崎縣位於九州西北端，面積約4,131平方公里，人口約122萬，縣廳設在長崎市。縣內擁有1,479座島嶼，居全國之首，海岸線長約4,137公里，列全國第二，沒有任何地點距離海超過15公里。自16世紀起，長崎就是對外窗口，葡萄牙、荷蘭與中國文化在此交匯，出島是鎖國時代唯一的對外貿易據點。縣內有兩項世界遺產：明治日本的產業革命遺產（含軍艦島）、長崎與天草地方潛伏基督徒相關遺產。美食有強棒麵、蛋糕與佐世保漢堡；祭典有長崎宮日與長崎燈會。",
+  "capital_zh": "長崎市",
+  "area_km2": 4131,
+  "population_approx": "約122萬",
+  "flower_zh": "雲仙杜鵑",
+  "bird_zh": "鴛鴦",
+  "tree_zh": "",
+  "climate_zh": "受對馬暖流影響氣候溫暖，夏季多颱風，冬季偶有寒流；離島與本土略有差異。",
+  "access_zh": "長崎機場位於大村灣上；JR西九州新幹線連結武雄溫泉；長崎市區有路面電車。",
+  "specialties_zh": [
+   "強棒麵",
+   "長崎蛋糕",
+   "佐世保漢堡",
+   "五島烏龍麵",
+   "枇杷",
+   "島原素麵"
+  ],
+  "best_season_zh": "春秋舒適；2月燈會、10月宮日；夏季留意颱風"
+ },
+ "items": {
+  "architecture": {
+   "title_zh": "大浦天主堂",
+   "title_ja": "大浦天主堂",
+   "summary_zh": "日本現存最古的哥德式教堂，信徒重現之地。",
+   "body_zh": "大浦天主堂位於長崎市南山手，由巴黎外方傳教會的法國神父富列與布提尚於1863年起興建，建成於1864年，由木匠小山秀之進施工，是為祭祀「二十六聖人」而建。1865年，一群潛伏信徒走進教堂向神父表明信仰，史稱「發現信徒」，被教宗庇護九世稱為「東方的奇蹟」。教堂1933年被列為國寶，2018年作為「長崎與天草地方潛伏基督徒相關遺產」之一列入世界遺產。教堂採哥德復興式，彩色玻璃由法國進口。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "長崎市南山手町"
+    },
+    {
+     "label": "建成",
+     "value": "1864年"
+    },
+    {
+     "label": "歷史事件",
+     "value": "1865年發現潛伏信徒"
+    },
+    {
+     "label": "遺產",
+     "value": "國寶（1933年）、世界遺產（2018年）"
+    }
+   ],
+   "best_season_zh": "全年；傍晚光線柔和",
+   "tips_zh": "教堂內不宜喧嘩；入堂時避開禮拜時段，並留意拍攝限制。",
+   "tags": [
+    "教堂",
+    "哥德式",
+    "潛伏基督徒",
+    "世界遺產"
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/%C5%8Cura_Church",
+    "https://ja.wikipedia.org/wiki/%E5%A4%A7%E6%B5%A6%E5%A4%A9%E4%B8%BB%E5%A0%82"
+   ],
+   "confidence": "high",
+   "prompt_en": "A white Gothic-style church on a hillside with arched windows and a small garden, soft afternoon light, tropical plants"
+  },
+  "food": {
+   "title_zh": "長崎強棒麵",
+   "title_ja": "長崎ちゃんぽん",
+   "summary_zh": "豚骨與海鮮蔬菜同煮的長崎名物湯麵。",
+   "body_zh": "強棒麵（ちゃんぽん）起源於19世紀末的長崎，傳說1899年由華人料理店四海樓創辦人陳平順為照顧留日華人學生，設計出便宜又飽足的一碗麵。做法是將豬肉、海鮮、蔬菜與雞骨豬骨高湯一起在鍋中炒煮，再把麵條直接放入湯中煮熟。名稱可能源自閩南語「吃飯」或印尼語「混合」。長崎市區的新地中華街一帶有許多名店。另有蛋糕（カステラ）為葡萄牙人傳入的甜點，也是長崎名物。長崎市新地中華街一帶有多家名店，另有皿烏龍麵等同類料理；蛋糕（カステラ）可作伴手禮，最老的老鋪福砂屋創業於1624年。",
+   "facts": [
+    {
+     "label": "起源",
+     "value": "長崎，約1899年（四海樓）"
+    },
+    {
+     "label": "湯底",
+     "value": "雞骨與豬骨"
+    },
+    {
+     "label": "特色",
+     "value": "麵條直接在湯中煮"
+    },
+    {
+     "label": "相關",
+     "value": "長崎蛋糕カステラ"
+    }
+   ],
+   "best_season_zh": "全年；冬天最暖身",
+   "tips_zh": "可搭配長崎皿烏龍麵；最好比較不同店的湯頭。",
+   "tags": [
+    "強棒麵",
+    "長崎名物",
+    "中華料理",
+    "海鮮"
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Champon",
+    "https://en.wikipedia.org/wiki/Castella"
+   ],
+   "confidence": "high",
+   "prompt_en": "A bowl of creamy broth noodles with seafood, pork, cabbage and kamaboko, bright steam rising, close-up photography"
+  },
+  "culture": {
+   "title_zh": "長崎宮日",
+   "title_ja": "長崎くんち",
+   "summary_zh": "10月7至9日舉行的長崎秋祭，有龍舞與山車。",
+   "body_zh": "長崎宮日（くんち）是諏訪神社的秋祭，每年10月7日至9日舉行，名稱可能源自舊曆九月九日的「九日」。其起源可追溯至16世紀末的秋收慶典，1614年諏訪神社成立後成為正式祭典。祭典以各町輪流獻上的奉納踊為主，最知名的是龍舞（蛇踊），原為長崎華人在除夕演出的舞蹈。其他節目包括鯨魚噴水、太鼓踊與荷蘭船。江戶時代，祭典也具有確認潛伏基督徒的功能，至今仍有開放住宅供人參觀的習俗。",
+   "facts": [
+    {
+     "label": "日期",
+     "value": "10月7—9日"
+    },
+    {
+     "label": "神社",
+     "value": "諏訪神社"
+    },
+    {
+     "label": "名物",
+     "value": "龍舞（蛇踊）"
+    },
+    {
+     "label": "起源",
+     "value": "16世紀末秋收慶典"
+    }
+   ],
+   "best_season_zh": "10月7—9日",
+   "tips_zh": "熱門座位需提前預約；祭典氣氛熱烈，注意舞者移動動線。",
+   "tags": [
+    "祭典",
+    "龍舞",
+    "秋祭",
+    "諏訪神社"
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Nagasaki_Kunchi"
+   ],
+   "confidence": "high",
+   "prompt_en": "A large dragon puppet danced by performers in a street with bright colors, festival energy, motion blur, crowd in the background"
+  },
+  "history": {
+   "title_zh": "出島",
+   "title_ja": "出島",
+   "summary_zh": "江戶鎖國時代唯一的對外貿易窗口。",
+   "body_zh": "出島是長崎港內的扇形人工島，1636年由幕府興建，面積約120公尺乘75公尺，原本是葡萄牙人居住地。1639年葡萄牙人被驅逐後，荷蘭東印度公司商館自1641年遷入，直到1858年左右。鎖國期間，荷蘭與中國船是唯一允許入港的船隻，出島成為「蘭學」（荷蘭學問）與西洋科學、醫學傳入日本的窗口。1922年被指定為國家史跡，1996年起進行復原，約十棟建築已恢復到19世紀初的樣貌。",
+   "facts": [
+    {
+     "label": "興建",
+     "value": "1636年"
+    },
+    {
+     "label": "尺寸",
+     "value": "約120公尺乘75公尺"
+    },
+    {
+     "label": "荷蘭商館",
+     "value": "1641—1858年"
+    },
+    {
+     "label": "指定",
+     "value": "國家史跡（1922年）"
+    }
+   ],
+   "best_season_zh": "全年；春秋氣候宜人",
+   "tips_zh": "園區內有多棟復原建築與展示，建議安排約1至2小時；附近有新地中華街。",
+   "tags": [
+    "鎖國",
+    "荷蘭",
+    "蘭學",
+    "史跡"
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Dejima",
+    "https://ja.wikipedia.org/wiki/%E5%87%BA%E5%B3%B6"
+   ],
+   "confidence": "high",
+   "prompt_en": "A reconstructed fan-shaped trading island with wooden warehouses, a canal and a harbor, afternoon sunlight, no people in focus"
+  },
+  "mascot": {
+   "title_zh": "長崎的吉祥物與縣花縣鳥",
+   "title_ja": "長崎県のシンボルと吉祥物",
+   "summary_zh": "以縣鳥鴛鴦與雲仙杜鵑為靈感，創作原創角色。",
+   "body_zh": "長崎縣與各市町有不少地方角色，本欄不列舉特定官方吉祥物，以免誤植。改以已核實的象徵為靈感：縣花是雲仙杜鵑（ミヤマキリシマ），縣鳥是鴛鴦（オシドリ）。長崎縣有1,479座島嶼，居全國之首，海岸線長約4,137公里，位居全國第二，海洋形象鮮明。圖像將設計結合鴛鴦、杜鵑花與長崎蛋糕元素的原創可愛角色，不模仿任何已註冊商標的現有吉祥物。長崎縣各處的伴手禮店與觀光景點常有以蛋糕、燈籠與鴛鴦為主題的設計，適合作為角色創作的素材參考。",
+   "facts": [
+    {
+     "label": "縣花",
+     "value": "雲仙杜鵑"
+    },
+    {
+     "label": "縣鳥",
+     "value": "鴛鴦"
+    },
+    {
+     "label": "島嶼數",
+     "value": "1,479座（全國最多）"
+    },
+    {
+     "label": "備註",
+     "value": "官方吉祥物未核實"
+    }
+   ],
+   "best_season_zh": "全年",
+   "tips_zh": "各觀光案內所常販售長崎當地角色周邊。",
+   "tags": [
+    "吉祥物",
+    "鴛鴦",
+    "杜鵑花",
+    "原創角色"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/%E9%95%B7%E5%B4%8E%E7%9C%8C"
+   ],
+   "confidence": "low",
+   "prompt_en": "An original cute character inspired by a mandarin duck with a pink azalea flower on its head and a tiny castella cake charm, not replicating any existing trademarked mascot"
+  },
+  "scenery": {
+   "title_zh": "長崎夜景",
+   "title_ja": "長崎の夜景",
+   "summary_zh": "被評為世界新三大夜景之一的港灣燈海。",
+   "body_zh": "長崎市三面環山、一面向港，山坡上的住宅燈光倒映在港灣，構成獨特夜景，被評定為世界新三大夜景之一，也有「千萬美元夜景」之稱。最著名的觀景點是稻佐山，標高333公尺，可搭乘長崎纜車或斜行電車上山，山頂有展望台。稻佐山公園另設有露天音樂場與動物設施。日落後燈光漸亮，從藍調時刻到夜景全盛，是長崎旅行的必看行程。長崎夜景以稻佐山最著名，另有鍋冠山展望台可從不同角度欣賞。夜景以晴朗的冬夜視野最清晰，建議在日落前抵達，欣賞天色由藍轉暗。",
+   "facts": [
+    {
+     "label": "觀景點",
+     "value": "稻佐山（333公尺）"
+    },
+    {
+     "label": "交通",
+     "value": "長崎纜車、斜行電車"
+    },
+    {
+     "label": "評價",
+     "value": "世界新三大夜景"
+    },
+    {
+     "label": "別稱",
+     "value": "千萬美元夜景"
+    }
+   ],
+   "best_season_zh": "晴朗的日落後；冬季空氣清晰",
+   "tips_zh": "山頂風大，需外套；傍晚前提早抵達佔位。",
+   "tags": [
+    "夜景",
+    "稻佐山",
+    "港灣",
+    "纜車"
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Mount_Inasa"
+   ],
+   "confidence": "high",
+   "prompt_en": "A glittering bay-side city night view from a hilltop with lights spreading across slopes like jewels, tranquil water, blue hour sky"
+  },
+  "spot": {
+   "title_zh": "軍艦島",
+   "title_ja": "軍艦島",
+   "summary_zh": "廢棄的海上煤礦島，外形如軍艦。",
+   "body_zh": "軍艦島正式名稱端島（Hashima），位於長崎市外海約15公里。1887年開始採煤，1974年1月閉礦，同年4月20日居民全數離島。1959年人口達最高5,259人，人口密度極高。島上留下鋼筋混凝土高樓，遠看形如軍艦。2009年重新開放登島參觀，2015年被列入世界遺產「明治日本的產業革命遺產」，但因二戰期間強迫勞動的歷史而引發爭議。登島須參加官方認可的遊船行程。",
+   "facts": [
+    {
+     "label": "位置",
+     "value": "長崎市外海約15公里"
+    },
+    {
+     "label": "採煤",
+     "value": "1887—1974年"
+    },
+    {
+     "label": "人口最高",
+     "value": "1959年5,259人"
+    },
+    {
+     "label": "世界遺產",
+     "value": "2015年"
+    }
+   ],
+   "best_season_zh": "夏季海況較穩；視天氣停航",
+   "tips_zh": "登島需看海況，可能因風浪取消；行前應了解其歷史與強迫勞動爭議。",
+   "tags": [
+    "廢墟",
+    "煤礦",
+    "世界遺產",
+    "海島"
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Hashima_Island"
+   ],
+   "confidence": "high",
+   "prompt_en": "An abandoned concrete island resembling a battleship rising from the sea, overcast sky, aerial view"
+  },
+  "experience": {
+   "title_zh": "長崎燈會",
+   "title_ja": "長崎ランタンフェスティバル",
+   "summary_zh": "中國新年的燈籠節，全市點綴紅色燈籠。",
+   "body_zh": "長崎燈會源自長崎新地中華街的「春節祭」，起初是華人為在冬季淡季帶動人潮而辦的中國舊曆新年慶典，1994年起擴大並改稱長崎燈會。節日期間，市中心以約一萬五千個燈籠與裝飾點綴，橋樑與河道染成紅金色，並有龍舞、皇帝遊行等節目。2026年在2月6日至23日舉行，共18天，每年吸引約一百萬人。日期會因農曆新年而異，請查官網。燈會期間市中心有多個會場，包括湊公園、新地中華街與中島川一帶，各場地均有舞台表演與攤位；夜間氣氛最熱烈，建議提前確認節目時間。",
+   "facts": [
+    {
+     "label": "起源",
+     "value": "新地中華街春節祭"
+    },
+    {
+     "label": "擴大",
+     "value": "1994年起稱燈會"
+    },
+    {
+     "label": "燈籠數",
+     "value": "約15,000個"
+    },
+    {
+     "label": "期間",
+     "value": "約2月，約18天"
+    }
+   ],
+   "best_season_zh": "農曆新年前後（約2月）",
+   "tips_zh": "人潮多，晚上拍照最美；穿保暖衣物。",
+   "tags": [
+    "燈會",
+    "中國新年",
+    "燈籠",
+    "冬季"
+   ],
+   "sources": [
+    "https://tabi-mag.jp/nagasaki-lanternfes/"
+   ],
+   "confidence": "high",
+   "prompt_en": "Thousands of red and gold lanterns strung across a canal and stone bridge at night, warm glow, festive scene"
+  },
+  "costume": {
+   "title_zh": "長崎的中華風節慶服飾",
+   "title_ja": "長崎の中華風衣装",
+   "summary_zh": "受華人文化影響的節慶服飾。",
+   "body_zh": "長崎自江戶時代設有唐人屋敷，華人聚居，形成獨特的中華文化。長崎燈會與長崎宮日的龍舞（蛇踊）都有中國影響，表演者穿著紅色或金色的絲質服裝。這類服飾用鮮豔的紅與金，配刺繡紋樣，在燈籠下特別醒目。圖像以匿名模特兒呈現，並不指涉特定人物或單一固定樣式。節慶期間，遊客也可租借中華服飾拍照，體驗異國風情。燈會與長崎宮日期間，街頭可見穿著傳統服裝的表演者與遊客，拍照時請尊重表演者並避免遮擋動線，也可到中華街租借服飾體驗。",
+   "facts": [
+    {
+     "label": "文化背景",
+     "value": "唐人屋敷與華人聚居"
+    },
+    {
+     "label": "色彩",
+     "value": "紅與金"
+    },
+    {
+     "label": "場合",
+     "value": "燈會、龍舞"
+    },
+    {
+     "label": "體驗",
+     "value": "節慶期間可租借"
+    }
+   ],
+   "best_season_zh": "2月燈會；10月宮日",
+   "tips_zh": "租借前確認是否含妝髮；穿鞋以舒適為主。",
+   "tags": [
+    "服飾",
+    "中華風",
+    "節慶",
+    "紅金"
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Nagasaki_Kunchi"
+   ],
+   "confidence": "low",
+   "prompt_en": "An anonymous model in a red-and-gold silk Chinese-style festival outfit standing under lantern light, full-length portrait, warm glow"
+  }
+ },
+ "areas": [
+  {
+   "id": "nagasaki_nagasaki_city",
+   "name_zh": "長崎市",
+   "name_ja": "長崎市",
+   "intro_zh": "長崎市是縣廳所在地，自16世紀起作為對外貿易港口，混合了葡萄牙、荷蘭、中國文化。市區有出島、新地中華街、眼鏡橋與大浦天主堂，也有原爆資料館等和平設施。坡道多，路面電車穿梭，是步行與電車結合的城市。",
+   "items": {
+    "spot": {
+     "title_zh": "眼鏡橋",
+     "title_ja": "眼鏡橋",
+     "summary_zh": "跨越中島川的雙拱石橋，重要文化財。",
+     "body_zh": "眼鏡橋位於長崎市中島川，據傳為興福寺第二代住持黙子如定於寬永11年（1634年）興建，是日本最早的石造拱橋，長約23公尺、寬約4.5公尺。因水面倒影與橋拱合成兩個圓，如一副眼鏡而得名。橋為國家重要文化財，1982年大水曾受損後修復。附近有興福寺，為日本最古老的黃檗宗寺院。傍晚水面平靜時倒影最完整。附近的興福寺是日本最古老的黃檗宗寺院，中島川沿岸有多座石橋，合稱眼鏡橋群，適合沿河散步，也可到附近咖啡館休息。",
+     "facts": [
+      {
+       "label": "建造",
+       "value": "1634年（相傳）"
+      },
+      {
+       "label": "尺寸",
+       "value": "長約23公尺、寬約4.5公尺"
+      },
+      {
+       "label": "指定",
+       "value": "重要文化財"
+      },
+      {
+       "label": "地點",
+       "value": "中島川"
+      }
+     ],
+     "best_season_zh": "全年；水面平靜時",
+     "tips_zh": "可沿中島川走訪其他石橋群；雨後水位高需留意。",
+     "tags": [
+      "石橋",
+      "雙拱",
+      "倒影",
+      "中島川"
+     ],
+     "sources": [
+      "https://tabi-mag.jp/ns0090"
+     ],
+     "confidence": "medium",
+     "prompt_en": "A stone double-arch bridge over a calm river with a circular reflection in the water, trees along the bank, soft afternoon light"
+    },
+    "food": {
+     "title_zh": "長崎強棒麵",
+     "title_ja": "長崎ちゃんぽん",
+     "summary_zh": "海鮮蔬菜豚骨濃湯麵。",
+     "body_zh": "長崎強棒麵相傳由四海樓在1899年創立，是為華人留學生設計的廉價飽足餐點。以豬肉、海鮮與蔬菜炒煮後，加入雞骨豬骨高湯與粗麵。四海樓位於長崎市南山手，該店至今仍供應。市區的新地中華街一帶也有許多專門店。湯頭濃白，蔬菜量足，是長崎市的在地代表料理。長崎市區四海樓位於南山手，頂樓可遠眺長崎港與市景，至今仍供應強棒麵；也有許多店家提供皿烏龍麵與蛋糕等長崎名物可一併品嚐。",
+     "facts": [
+      {
+       "label": "起源",
+       "value": "1899年，四海樓"
+      },
+      {
+       "label": "特色",
+       "value": "炒料後煮麵"
+      },
+      {
+       "label": "地點",
+       "value": "新地中華街一帶"
+      },
+      {
+       "label": "湯底",
+       "value": "雞骨豬骨"
+      }
+     ],
+     "best_season_zh": "全年",
+     "tips_zh": "食量大的人可點大碗；人氣店需排隊。",
+     "tags": [
+      "強棒麵",
+      "中華",
+      "海鮮",
+      "長崎"
+     ],
+     "sources": [
+      "https://en.wikipedia.org/wiki/Champon"
+     ],
+     "confidence": "high",
+     "prompt_en": "A bowl of champon noodles with seafood and vegetables in creamy broth, steam, photorealistic close-up"
+    },
+    "scenery": {
+     "title_zh": "長崎夜景",
+     "title_ja": "長崎の夜景",
+     "summary_zh": "港灣山坡的燈海。",
+     "body_zh": "從稻佐山或鍋冠山望下，長崎港灣被山坡包圍，住宅燈光層層堆疊，形成如寶石般閃爍的夜景。稻佐山海拔333公尺，可搭纜車到山頂展望台。夜景被評為世界新三大夜景之一。日落後約半小時，天空仍有深藍色，與燈光交織最為迷人。冬天空氣乾燥，視野更清晰。除了稻佐山，市內還有鍋冠山、長崎港遊船夜景等觀賞選擇。夜景以晴朗的冬夜視野最佳，建議提早預訂纜車座位，並攜帶保暖衣物。各觀景點視角不同，可選一處作為主要拍攝地。",
+     "facts": [
+      {
+       "label": "觀景點",
+       "value": "稻佐山（333公尺）"
+      },
+      {
+       "label": "評價",
+       "value": "世界新三大夜景"
+      },
+      {
+       "label": "最佳時段",
+       "value": "日落後約30分鐘"
+      },
+      {
+       "label": "交通",
+       "value": "纜車、斜行電車"
+      }
+     ],
+     "best_season_zh": "晴朗冬夜",
+     "tips_zh": "提前預訂纜車時段；山頂風大。",
+     "tags": [
+      "夜景",
+      "港灣",
+      "山坡",
+      "稻佐山"
+     ],
+     "sources": [
+      "https://en.wikipedia.org/wiki/Mount_Inasa"
+     ],
+     "confidence": "high",
+     "prompt_en": "A harbor city night panorama from a hill with layered lights on slopes, calm bay, blue hour sky"
+    }
+   }
+  },
+  {
+   "id": "nagasaki_sasebo",
+   "name_zh": "佐世保",
+   "name_ja": "佐世保",
+   "intro_zh": "佐世保位於長崎縣北部，是海軍港與美軍基地所在地，也是西海國立公園的門戶。九十九島的眾多島嶼散布海上，佐世保漢堡起源於戰後與美軍的交流。城市兼具軍港與觀光色彩。",
+   "items": {
+    "spot": {
+     "title_zh": "九十九島",
+     "title_ja": "九十九島",
+     "summary_zh": "散布著眾多小島的海域，西海國立公園。",
+     "body_zh": "九十九島是位於佐世保市沿岸的海域，隸屬西海國立公園，大小島嶼約有208座，形成「多島美」。「九十九」並非實際數字，而是形容數量眾多。可從展望台眺望，也可搭遊覽船近觀，並有獨木舟體驗。島嶼地形受海蝕與沉降影響，形成錯落的海灣。養殖珍珠與牡蠣是當地特色產業。九十九島可從展海峰、石岳等展望台俯瞰，也可搭遊覽船在島間穿梭；西海國立公園另有珍珠養殖與獨木舟等體驗，適合半日或一日行程。",
+     "facts": [
+      {
+       "label": "島數",
+       "value": "大小約208座"
+      },
+      {
+       "label": "公園",
+       "value": "西海國立公園"
+      },
+      {
+       "label": "特色",
+       "value": "多島美"
+      },
+      {
+       "label": "產業",
+       "value": "珍珠、牡蠣養殖"
+      }
+     ],
+     "best_season_zh": "全年；日落時段尤佳",
+     "tips_zh": "展望台日落時人多；遊船行程可看更近的島嶼。",
+     "tags": [
+      "群島",
+      "國立公園",
+      "多島美",
+      "佐世保"
+     ],
+     "sources": [
+      "https://www.nta.co.jp/media/tripa/articles/aVflR"
+     ],
+     "confidence": "medium",
+     "prompt_en": "Many small forested islands scattered across a calm sea seen from a viewpoint, soft light, photorealistic"
+    },
+    "food": {
+     "title_zh": "佐世保漢堡",
+     "title_ja": "佐世保バーガー",
+     "summary_zh": "手工製作的大份量漢堡。",
+     "body_zh": "佐世保漢堡源於1950年代，當地人向美軍學習漢堡製作並在基地附近販賣，之後為迎合本地口味而改良，發展為市民日常的飲食。特色是手工製作、份量大，常加培根、蛋與蔬菜，現點現做。佐世保市內有許多專門店，各家有不同風格。現已成為佐世保的代表性鄉土美食。佐世保漢堡專門店遍布市內，各家在配料與醬汁上有不同特色，可比較；部分店家有大份量的組合，與同伴分享較合適。部分店家有限量或推薦組合，值得詢問店員。",
+     "facts": [
+      {
+       "label": "起源",
+       "value": "1950年代，美軍基地附近"
+      },
+      {
+       "label": "特色",
+       "value": "手工、現做、大份量"
+      },
+      {
+       "label": "常見配料",
+       "value": "培根、蛋、蔬菜"
+      },
+      {
+       "label": "地點",
+       "value": "佐世保市"
+      }
+     ],
+     "best_season_zh": "全年",
+     "tips_zh": "漢堡份量大，可與同伴分食；等候時間可能較長。",
+     "tags": [
+      "漢堡",
+      "鄉土美食",
+      "美軍",
+      "佐世保"
+     ],
+     "sources": [
+      "https://www.nta.co.jp/media/tripa/articles/aVflR"
+     ],
+     "confidence": "low",
+     "prompt_en": "A large handmade hamburger with egg, bacon, lettuce and a thick patty on paper, glistening, close-up"
+    },
+    "scenery": {
+     "title_zh": "九十九島夕陽",
+     "title_ja": "九十九島の夕景",
+     "summary_zh": "島影在夕陽中呈剪影。",
+     "body_zh": "日落時，九十九島的島嶼層層疊疊，海面染成金橙，島影呈現深藍或黑色剪影。展望台上遊客聚集，等待太陽沉入水平線。天氣晴朗時，色彩變化豐富，從橙紅到紫藍。夏季日落較晚，冬季天氣較冷，但空氣清澈，景色更鮮明。最佳拍攝時間是日落前後，島嶼層層疊疊，天空由金橙轉紅紫；展望台通常有免費或低價入場，建議提早佔位，並準備三腳架或穩定的拍攝裝備。日落前一小時就可開始拍攝，捕捉天色變化。",
+     "facts": [
+      {
+       "label": "看點",
+       "value": "島影剪影"
+      },
+      {
+       "label": "時間",
+       "value": "日落前後"
+      },
+      {
+       "label": "視角",
+       "value": "展望台、遊船"
+      },
+      {
+       "label": "天氣",
+       "value": "晴天最佳"
+      }
+     ],
+     "best_season_zh": "全年；晴天傍晚",
+     "tips_zh": "提早抵達展望台佔位；備好相機三腳架。",
+     "tags": [
+      "夕陽",
+      "群島",
+      "剪影",
+      "海景"
+     ],
+     "sources": [
+      "https://www.nta.co.jp/media/tripa/articles/aVflR"
+     ],
+     "confidence": "low",
+     "prompt_en": "Islands silhouetted against a golden orange sunset over a calm sea, layered islands, photorealistic"
+    }
+   }
+  },
+  {
+   "id": "nagasaki_shimabara",
+   "name_zh": "島原",
+   "name_ja": "島原",
+   "intro_zh": "島原位於島原半島，與雲仙岳相鄰，城下町保留武家屋敷與湧水水路。島原曾發生島原之亂（1637—1638年），具雜煮傳說與此相關。火山與溫泉資源豐富，風景獨特。",
+   "items": {
+    "spot": {
+     "title_zh": "島原城",
+     "title_ja": "島原城",
+     "summary_zh": "白色五層天守，島原之亂的舞台。",
+     "body_zh": "島原城由松倉重政於1618年至1624年興建，五層天守高約33公尺，護城壕深15公尺、寬30至50公尺，規模遠超藩的石高（4萬石），重稅導致1637年的島原之亂。城在島原之亂中被圍攻但未受損，1876年拆除，現存天守為1964年重建的鋼筋混凝土建築，並於2025年被指定為國家史跡。城內現設有資料館。城內資料館展示島原之亂與基督教歷史，並設有登天守的展望台；城下町另有武家屋敷與湧水水路，可徒步遊覽，行程輕鬆。",
+     "facts": [
+      {
+       "label": "興建",
+       "value": "1618—1624年"
+      },
+      {
+       "label": "建造者",
+       "value": "松倉重政"
+      },
+      {
+       "label": "天守",
+       "value": "1964年重建"
+      },
+      {
+       "label": "事件",
+       "value": "島原之亂（1637—1638）"
+      }
+     ],
+     "best_season_zh": "春季櫻花",
+     "tips_zh": "資料館展示島原之亂與基督教歷史；附近有武家屋敷。",
+     "tags": [
+      "城郭",
+      "島原之亂",
+      "史跡",
+      "白色天守"
+     ],
+     "sources": [
+      "https://en.wikipedia.org/wiki/Shimabara_Castle"
+     ],
+     "confidence": "high",
+     "prompt_en": "A white castle keep with a moat and cherry blossoms, clear sky, photorealistic"
+    },
+    "food": {
+     "title_zh": "具雜煮",
+     "title_ja": "具雑煮",
+     "summary_zh": "食材豐富的島原鄉土雜煮。",
+     "body_zh": "具雜煮是島原的鄉土料理，傳說在島原之亂時，天草四郎於島原城籠城，將年糕與雞肉、蔬菜等食材合煮作為軍糧而起。這個說法流傳廣泛，但屬民間傳說。特色是材料豐富，常含雞肉、魚板、白菜、牛蒡、白蘿蔔、紅蘿蔔、乾香菇與年糕，達七至十種以上。湯頭清爽，暖身飽足，原本是新年食物，現在島原一年四季都有供應。具雜煮在島原市區多家餐廳都有供應，也有販售即食或套裝商品；搭配島原素麵等地方料理品嚐，感受半島的飲食風格。",
+     "facts": [
+      {
+       "label": "傳說",
+       "value": "島原之亂的軍糧"
+      },
+      {
+       "label": "食材",
+       "value": "雞肉、蔬菜、年糕"
+      },
+      {
+       "label": "種類",
+       "value": "7—10種以上食材"
+      },
+      {
+       "label": "地點",
+       "value": "島原"
+      }
+     ],
+     "best_season_zh": "冬季；新年",
+     "tips_zh": "傳說說法不一；可在島原市區餐廳品嚐。",
+     "tags": [
+      "雜煮",
+      "鄉土料理",
+      "島原之亂",
+      "暖湯"
+     ],
+     "sources": [
+      "https://www.ny.us.emb-japan.go.jp/Foods/kyodoryori/03_guzoni_jp.pdf"
+     ],
+     "confidence": "medium",
+     "prompt_en": "A bowl of zoni soup with chicken, vegetables, kamaboko and rice cake in clear broth, steam, close-up"
+    },
+    "scenery": {
+     "title_zh": "雲仙岳",
+     "title_ja": "雲仙岳",
+     "summary_zh": "火山地形與熔岩圓頂，國立公園核心。",
+     "body_zh": "雲仙岳位於島原半島，是火山群，1990年起噴發，1991年發生火碎流，形成平成新山熔岩圓頂。這裡屬雲仙天草國立公園，山上有溫泉區與地獄谷噴氣地帶。春天雲仙杜鵑（縣花）盛開，山坡一片粉紅。附近的島原半島地質公園結合了火山與地質教育。半島上有雲仙地獄、溫泉與火山地質公園，並可乘纜車到妙見岳展望台；春季杜鵑與秋季紅葉各有風情，天氣好時視野遼闊。若要上山，建議查詢火山與天氣資訊，並預留交通時間。",
+     "facts": [
+      {
+       "label": "類型",
+       "value": "火山群"
+      },
+      {
+       "label": "噴發",
+       "value": "1990—1995年"
+      },
+      {
+       "label": "縣花",
+       "value": "雲仙杜鵑（ミヤマキリシマ）"
+      },
+      {
+       "label": "公園",
+       "value": "雲仙天草國立公園"
+      }
+     ],
+     "best_season_zh": "5月中旬杜鵑盛開",
+     "tips_zh": "山區天氣多變，需防寒；留意火山氣體警示。",
+     "tags": [
+      "火山",
+      "國立公園",
+      "杜鵑",
+      "溫泉"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/%E9%95%B7%E5%B4%8E%E7%9C%8C"
+     ],
+     "confidence": "low",
+     "prompt_en": "A volcano peak with a lava dome and rising steam, azalea blooms on the slopes, photorealistic wide shot"
+    }
+   }
+  },
+  {
+   "id": "nagasaki_goto",
+   "name_zh": "五島",
+   "name_ja": "五島",
+   "intro_zh": "五島列島位於長崎縣西側，約140座島嶼，距長崎市約100公里。島上有許多天主堂，反映潛伏基督徒的歷史。海岸線清澈，沙灘白淨，物產有椿油與五島烏龍麵。",
+   "items": {
+    "spot": {
+     "title_zh": "堂崎天主堂",
+     "title_ja": "堂崎天主堂",
+     "summary_zh": "五島福江島的磚造哥德式天主堂。",
+     "body_zh": "堂崎天主堂位於五島市福江島，1880年由巴黎外方傳教會的馬爾曼神父建立，現存建築為1908年由佩魯神父設計的哥德式磚造，具三廊式肋拱天花。教堂現為五島基督教資料館，展示潛伏基督徒文物與迫害歷史。五島曾有三千多名潛伏基督徒從外海移居，教堂至今散布島上。外觀紅磚映襯藍海，景色獨特。堂崎天主堂位於福江島東部海岸，資料館內展示潛伏基督徒歷史；島上另有多座教堂，建議租車或搭乘觀光巴士巡遊，並留意各教堂的開放時間。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "五島市福江島"
+      },
+      {
+       "label": "現存建築",
+       "value": "1908年"
+      },
+      {
+       "label": "風格",
+       "value": "哥德式磚造"
+      },
+      {
+       "label": "功能",
+       "value": "五島基督教資料館"
+      }
+     ],
+     "best_season_zh": "全年",
+     "tips_zh": "參觀請遵守教堂禮儀；部分教堂須預約。",
+     "tags": [
+      "教堂",
+      "潛伏基督徒",
+      "磚造",
+      "福江島"
+     ],
+     "sources": [
+      "https://rurubu.jp/andmore/spot/80039639"
+     ],
+     "confidence": "medium",
+     "prompt_en": "A red-brick Gothic Catholic church on a coast with a blue sea behind, clear sky, photorealistic"
+    },
+    "food": {
+     "title_zh": "五島烏龍麵",
+     "title_ja": "五島うどん",
+     "summary_zh": "手拉細麵，在熱湯中享用。",
+     "body_zh": "五島烏龍麵是五島列島的特產，以手工拉長的細麵為特徵，麵條上塗椿油以防黏，口感緊實。常見吃法是「地獄炊き」，直接從煮麵鍋夾出麵條，沾醬或湯品嚐。五島以椿油聞名，椿油在烏龍麵製作和料理中扮演重要角色。島上也有海鮮與烤飛魚等風味。除烏龍麵外，島上還有海鮮、烤飛魚與五島牛等特色；椿油也是特產，可在土產店購買。想嘗新鮮海味，可到福江港附近的食堂。手拉麵多為乾麵或煮好的鍋煮套餐，可依店家調味。",
+     "facts": [
+      {
+       "label": "特色",
+       "value": "手拉細麵、椿油"
+      },
+      {
+       "label": "吃法",
+       "value": "地獄炊き"
+      },
+      {
+       "label": "地點",
+       "value": "五島列島"
+      },
+      {
+       "label": "相關",
+       "value": "椿油"
+      }
+     ],
+     "best_season_zh": "全年",
+     "tips_zh": "購買乾麵作伴手禮；現場可看製麵工房。",
+     "tags": [
+      "烏龍麵",
+      "手拉麵",
+      "椿油",
+      "五島"
+     ],
+     "sources": [
+      "https://en.wikipedia.org/wiki/Goto_Islands"
+     ],
+     "confidence": "low",
+     "prompt_en": "Thin hand-pulled udon noodles served in a pot with hot broth and dipping sauce, steam, close-up"
+    },
+    "scenery": {
+     "title_zh": "高濱海灘",
+     "title_ja": "高浜海水浴場",
+     "summary_zh": "白沙與透明海水的天然海灘。",
+     "body_zh": "高濱海水浴場位於五島福江島，以白色細沙、翠綠到靛藍的海水聞名，被選為日本渚百選，也是日本海水浴場百選之一。海灘腹地不大，但水質清澈，夏季可游泳、浮潛。附近的魚籃觀音展望台可眺望海色漸層，從淺藍到深藍。這裡是五島的代表性海景。魚籃觀音展望台可欣賞海色漸層，夏季是海水浴場旺季；周邊另有多處海岸與岬角景點，可自駕或搭計程車，拍照以晴天正午前後色彩最鮮明。沙灘上沒有太多遮蔭，建議自備陽傘或帽子與飲水。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "五島市福江島"
+      },
+      {
+       "label": "特色",
+       "value": "白沙、透明海水"
+      },
+      {
+       "label": "選定",
+       "value": "日本渚百選"
+      },
+      {
+       "label": "附近",
+       "value": "魚籃觀音展望台"
+      }
+     ],
+     "best_season_zh": "7—8月夏季",
+     "tips_zh": "需自備防曬；夏季遊客較多，建議平日前往。",
+     "tags": [
+      "海灘",
+      "白沙",
+      "透明海水",
+      "五島"
+     ],
+     "sources": [
+      "https://www.ana.co.jp/ja/jp/japan-travel-planner/nagasaki/0000002.html"
+     ],
+     "confidence": "medium",
+     "prompt_en": "A turquoise beach with white sand and green cliffs, crystal-clear water, no people in focus, photorealistic"
+    }
+   }
+  }
+ ]
+}

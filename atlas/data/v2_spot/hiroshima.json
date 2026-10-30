@@ -1,0 +1,157 @@
+{
+  "id": "hiroshima",
+  "spots": [
+    {
+      "title_zh": "嚴島神社",
+      "title_ja": "厳島神社",
+      "category": "神社寺院",
+      "area_zh": "廿日市市（宮島）",
+      "summary_zh": "海上社殿與大鳥居，世界文化遺產",
+      "body_zh": "嚴島神社位於廣島灣的嚴島（宮島），祭祀宗像三女神。社傳創建於推古天皇元年（593年），平安末期經平清盛營造，才有今日規模龐大的海上社殿，並成為平家氏神。現存社殿多為13世紀仁治年間以後重建，本殿、拝殿、迴廊等6棟屬國寶，另有14棟重要文化財，1996年列入世界文化遺產。漲潮時殿宇與高16公尺的大鳥居宛如浮在海上，退潮時則可走近鳥居腳下。",
+      "facts": [
+        {"label": "所在地", "value": "廣島縣廿日市市嚴島（宮島）東北部，彌山北麓"},
+        {"label": "開創／成因", "value": "社傳推古天皇元年（593年）創建；平清盛於12世紀後期擴建海上社殿"},
+        {"label": "看點", "value": "海上社殿、高16公尺的大鳥居、平舞台"}
+      ],
+      "best_season_zh": "漲潮時賞浮海殿宇；秋季紅葉",
+      "tips_zh": "先查潮汐時間表：漲潮看浮海殿宇，退潮可走近大鳥居。島上交通需搭渡輪，建議預留半天以上。",
+      "tags": ["世界遺產", "國寶", "宮島", "平清盛"],
+      "sources": ["https://ja.wikipedia.org/wiki/厳島神社"],
+      "confidence": "high",
+      "prompt_en": "Wide view of a vermilion Shinto shrine complex and a giant torii gate standing in calm shallow sea water at high tide, wooden corridors on stilts in the middle ground, forested mountain behind, soft golden light at dusk, long exposure smooth water, no text, no signs, no recognizable people"
+    },
+    {
+      "title_zh": "原爆圓頂館",
+      "title_ja": "原爆ドーム",
+      "category": "城郭史蹟",
+      "area_zh": "廣島市中區",
+      "summary_zh": "原爆倖存的建築遺構，和平象徵",
+      "body_zh": "原爆圓頂館原為1915年落成的廣島縣物產陳列館，由捷克建築師揚·萊澤爾設計，後改稱廣島縣產業獎勵館。1945年原子彈在附近上空爆炸，建築嚴重受損，鋼骨圓頂與部分牆體卻殘存下來。它位於平和記念公園一隅，被指定為國家特別史蹟，並列入世界文化遺產，是呼籲和平的象徵。看點是裸露的鋼架圓頂與斷牆殘壁，適合隔著元安川靜靜觀看。",
+      "facts": [
+        {"label": "所在地", "value": "廣島市中區大手町一丁目，相生橋東側"},
+        {"label": "開創／成因", "value": "1915年竣工，原為廣島縣物產陳列館；1945年遭原爆"},
+        {"label": "看點", "value": "殘存的鋼骨圓頂與斷牆，國家特別史蹟、世界文化遺產"}
+      ],
+      "best_season_zh": "全年；黃昏與清晨較寧靜",
+      "tips_zh": "建議搭配平和記念公園與資料館一併參觀，隔著元安川從對岸觀看視角最完整。夜間有照明，氣氛肅穆，請保持安靜。",
+      "tags": ["世界遺產", "特別史蹟", "和平", "近代建築"],
+      "sources": ["https://ja.wikipedia.org/wiki/原爆ドーム"],
+      "confidence": "high",
+      "prompt_en": "The ruined domed brick and steel-framed building seen across a calm river, bare steel dome skeleton against a pale evening sky, riverside trees in the foreground, quiet somber atmosphere, soft overcast light, no text, no signs, no recognizable people"
+    },
+    {
+      "title_zh": "縮景園",
+      "title_ja": "縮景園",
+      "category": "庭園公園",
+      "area_zh": "廣島市中區",
+      "summary_zh": "淺野家藩主別邸的大名庭園",
+      "body_zh": "縮景園是廣島藩初代藩主淺野長晟於元和6年（1620年）下令興建的別邸庭園，最初由上田宗箇作庭，後經京都庭師清水七郎右衛門大幅改修，明治末期形成現在的模樣。庭園位於廣島城東側的京橋川畔，被指定為國家名勝。1945年遭原子彈爆炸摧殘而荒廢，至1970年代前後陸續重建。置身市中心卻有綠意與水景，適合春賞櫻、秋賞楓時悠閒散步。",
+      "facts": [
+        {"label": "所在地", "value": "廣島市中區上幟町，京橋川沿岸"},
+        {"label": "開創／成因", "value": "1620年淺野長晟下令建造；1940年捐贈予廣島縣"},
+        {"label": "看點", "value": "大名庭園景致、國家名勝；原爆後重建的庭園"}
+      ],
+      "best_season_zh": "春（櫻）與秋（紅葉）",
+      "tips_zh": "位於廣島城與縣立美術館附近，可與之串連半日行程。園內以步行遊覽，入園費與開放時間出發前請至官方網站確認。",
+      "tags": ["大名庭園", "國家名勝", "淺野氏", "市區綠洲"],
+      "sources": ["https://ja.wikipedia.org/wiki/縮景園"],
+      "confidence": "medium",
+      "prompt_en": "Traditional Japanese stroll garden with a still pond, small arched stone bridge and a wooden pavilion on the shore, pine trees and maples framing the view, autumn foliage, early morning soft light, mirror reflections, no text, no signs, no recognizable people"
+    },
+    {
+      "title_zh": "大久野島（兔子島）",
+      "title_ja": "大久野島",
+      "category": "海島海岸",
+      "area_zh": "竹原市",
+      "summary_zh": "兔子與戰時毒氣製造遺跡並存的小島",
+      "body_zh": "大久野島位於瀬戶內海芸予諸島，隸屬竹原市，距本州忠海約3公里，面積約0.7平方公里，以「兔子島」聞名。島上在1929年至1945年間曾由日本陸軍秘密製造毒氣，如今留有毒氣資料館與戰時遺構，提醒人們這段歷史。島上多數土地屬國有，設有休暇村與遊客中心，一般車輛不得入島。看點是漫步海岸與遇見島上野兔，同時了解島嶼的雙重面貌。",
+      "facts": [
+        {"label": "所在地", "value": "廣島縣竹原市忠海町，距忠海約3公里的瀬戶內海"},
+        {"label": "開創／成因", "value": "1929年至1945年作為毒氣製造據點，戰後成為休暇與觀光島"},
+        {"label": "看點", "value": "島上野兔、毒氣資料館、環島海岸散步"}
+      ],
+      "best_season_zh": "春秋氣候溫和；夏季日照強",
+      "tips_zh": "從忠海港搭渡輪前往。請勿隨意餵食兔子，並遵守島上指引；一般車輛不可入島，建議穿好走的鞋步行環島。",
+      "tags": ["兔子", "瀬戶內海", "戰爭遺跡", "離島"],
+      "sources": ["https://ja.wikipedia.org/wiki/大久野島"],
+      "confidence": "high",
+      "prompt_en": "Small Seto Inland Sea island coast with a gentle shoreline of rocks and short grass, several wild rabbits resting on a grassy slope in the foreground, calm blue sea with distant islands in the background, bright spring morning light, no text, no signs, no recognizable people"
+    },
+    {
+      "title_zh": "尾道坡道街區與尾道水道",
+      "title_ja": "尾道",
+      "category": "街區古鎮",
+      "area_zh": "尾道市",
+      "summary_zh": "海峽邊的坡道、文學與電影之町",
+      "body_zh": "尾道位於廣島縣東南部，面向瀬戶內海，與對岸向島之間夾著狹窄的尾道水道。自古是海運集散的港町，市區平地少，住宅與寺社沿山坡密集，道路狹窄又傾斜，因此被稱為「坡道之街」。林芙美子、志賀直哉等文人曾居住於此並以尾道為題材創作，也常成為電影取景地。看點是登高俯瞰水道、船隻與屋瓦，並漫步在巷弄與貓咪出沒的小路。",
+      "facts": [
+        {"label": "所在地", "value": "廣島縣尾道市，面向尾道水道（與向島之間）"},
+        {"label": "開創／成因", "value": "古來為瀬戶內海運集散港町，山坡地形形成坡道街景"},
+        {"label": "看點", "value": "坡道巷弄、寺社、尾道水道景觀；文學與電影之町"}
+      ],
+      "best_season_zh": "春秋；黃昏光線佳",
+      "tips_zh": "街區多坡道與階梯，請穿好走的鞋。建議由高處往下逛，並沿途留意舊寺社與巷弄風景；與瀬戶內島波海道同路線可安排輕旅行。",
+      "tags": ["坡道", "港町", "文學之町", "瀬戶內海"],
+      "sources": ["https://ja.wikipedia.org/wiki/尾道市"],
+      "confidence": "medium",
+      "prompt_en": "Hillside port town overlooking a narrow strait, dense tiled roofs and a temple pagoda roof on the slope, a ferry crossing the calm water below, soft golden hour light, view from an elevated lookout, no text, no signs, no recognizable people"
+    },
+    {
+      "title_zh": "帝釋峽",
+      "title_ja": "帝釈峡",
+      "category": "自然絕景",
+      "area_zh": "庄原市・神石高原町",
+      "summary_zh": "石灰岩峽谷與天然橋雄橋",
+      "body_zh": "帝釋峽位於中國山地的廣島縣東北部，橫跨庄原市與神石高原町，全長約18公里，1923年被指定為國家名勝，是比婆道後帝釋國定公園的主要景點。石灰岩台地受到溶蝕與侵蝕，形成深200至300公尺的喀斯特地形，其中溶蝕形成的天然橋「雄橋」是最大看點，另有白雲洞等鍾乳洞。神龍湖上設有遊覽船，也有步道可邊走邊賞景，新綠與紅葉時節尤其漂亮。",
+      "facts": [
+        {"label": "所在地", "value": "廣島縣庄原市・神石高原町，全長約18公里的峽谷"},
+        {"label": "開創／成因", "value": "石灰岩台地溶蝕、侵蝕形成喀斯特地形；1923年指定國家名勝"},
+        {"label": "看點", "value": "天然橋雄橋、神龍湖遊覽船、白雲洞等鍾乳洞"}
+      ],
+      "best_season_zh": "新綠（5月）與秋季紅葉",
+      "tips_zh": "自駕較方便，公共交通班次較少，出發前請確認班次與步道開放狀況；步道有落石封閉區段，需留意告示。",
+      "tags": ["峽谷", "天然橋", "國家名勝", "喀斯特"],
+      "sources": ["https://ja.wikipedia.org/wiki/帝釈峡"],
+      "confidence": "medium",
+      "prompt_en": "Deep limestone gorge with a natural stone arch bridge spanning a clear green river, steep forested cliffs on both sides, lush fresh green foliage, soft diffused morning light and light mist, no text, no signs, no recognizable people"
+    },
+    {
+      "title_zh": "鞆之浦",
+      "title_ja": "鞆の浦",
+      "category": "街區古鎮",
+      "area_zh": "福山市",
+      "summary_zh": "潮待港，江戶港灣設施完整留存",
+      "body_zh": "鞆之浦位於福山市沼隈半島南端，瀬戶內海的潮流在此海域交會逆轉，古時航行船隻必須在此等待潮水，因此成為「潮待港」，萬葉集中亦有大伴旅人的歌詠。江戶時代的常夜燈、雁木、波止場、焚場與船番所全部保存，據說全國只有鞆港如此齊全。2017年11月成為重要傳統建築物群保存地區。近年也因宮崎駿構思《崖上的波妞》而聞名。",
+      "facts": [
+        {"label": "所在地", "value": "廣島縣福山市鞆町，沼隈半島南端"},
+        {"label": "開創／成因", "value": "瀬戶內海潮流在鞆沖逆轉，古來作為等待潮水的港口"},
+        {"label": "看點", "value": "常夜燈、雁木等江戶港灣設施、傳統建築群保存地區"}
+      ],
+      "best_season_zh": "春秋；傍晚點燈時",
+      "tips_zh": "港區步行即可遊覽，建議黃昏時到常夜燈一帶欣賞暮色；可搭配渡輪前往附近的仙醉島，出發前確認班次。",
+      "tags": ["港町", "常夜燈", "潮待", "傳統建築群"],
+      "sources": ["https://ja.wikipedia.org/wiki/鞆の浦"],
+      "confidence": "high",
+      "prompt_en": "Old harbor with a stone lantern tower at the quay edge, traditional wooden fishing boats moored in calm water, stone steps descending to the water, tiled roofs of a historic port town behind, warm dusk light, no text, no signs, no recognizable people"
+    },
+    {
+      "title_zh": "廣島城",
+      "title_ja": "広島城",
+      "category": "城郭史蹟",
+      "area_zh": "廣島市中區",
+      "summary_zh": "三角洲上的平城，鯉城之稱",
+      "body_zh": "廣島城是毛利輝元於1589年起在太田川河口三角洲上興建的平城，別名「鯉城」，被列為日本三大平城之一，現為國家史蹟。江戶初期福島正則增築，城域擴大。昔日天守等建築保存至1945年，卻在原子彈爆炸中倒塌，如今所見城郭建築全部是1958年以後重建。護城河環繞的天守倒映水面，是市區中少見的歷史景觀，天守內設有展示廳可了解城與城下町的歷史。",
+      "facts": [
+        {"label": "所在地", "value": "廣島市中區基町，市中心中央公園內"},
+        {"label": "開創／成因", "value": "毛利輝元於1589年起築城；1945年原爆倒塌，1958年起重建"},
+        {"label": "看點", "value": "護城河與重建天守、史蹟石垣"}
+      ],
+      "best_season_zh": "春季（櫻花）與晴朗日子",
+      "tips_zh": "距離縮景園與平和記念公園不遠，可串連步行。出發前請確認天守內展示館的開放時間與費用。",
+      "tags": ["平城", "鯉城", "毛利輝元", "國家史蹟"],
+      "sources": ["https://ja.wikipedia.org/wiki/広島城"],
+      "confidence": "high",
+      "prompt_en": "Black-walled five-story Japanese castle keep reflected in a calm moat, stone wall base and a small bridge in the foreground, cherry blossom branches framing the top, clear blue morning sky, no text, no signs, no recognizable people"
+    }
+  ]
+}

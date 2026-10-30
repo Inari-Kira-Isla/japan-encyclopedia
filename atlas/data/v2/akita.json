@@ -1,0 +1,839 @@
+{
+ "id": "akita",
+ "name_zh": "秋田",
+ "name_ja": "秋田県",
+ "region": "東北",
+ "overview": {
+  "intro_zh": "秋田縣位於東北地方西北部，面向日本海，全縣皆為豪雪地帶，冬季嚴寒。縣內有世界遺產白神山地的原生山毛櫸林、世界文化遺產大湯環狀列石，以及日本最深的田澤湖。傳統文化包括竿燈祭、橫手雪屋與男鹿生剝鬼，後者已列入聯合國教科文組織無形文化遺產。飲食方面有切蒲英鍋、稻庭烏龍麵與秋田米，秋田犬更是聞名世界的縣犬。",
+  "capital_zh": "秋田市",
+  "area_km2": 11638,
+  "population_approx": "約86萬（2026年）",
+  "flower_zh": "蜂斗菜花莖",
+  "bird_zh": "山雉",
+  "tree_zh": "秋田杉",
+  "climate_zh": "日本海側氣候，冬季全縣豪雪、氣溫常在零下；夏季偏熱。",
+  "access_zh": "秋田新幹線經盛岡至角館、秋田；秋田機場有航班；羽越本線通新潟。",
+  "specialties_zh": [
+   "切蒲英鍋",
+   "稻庭烏龍麵",
+   "秋田米",
+   "鰰魚",
+   "比內地雞",
+   "秋田犬"
+  ],
+  "best_season_zh": "夏季（竿燈祭）、春季賞櫻（角館）、冬季雪屋與溫泉"
+ },
+ "items": {
+  "architecture": {
+   "title_zh": "角館武家屋敷",
+   "title_ja": "角館の武家屋敷",
+   "summary_zh": "黑板牆與垂櫻並立的江戶武士町。",
+   "body_zh": "角館是仙北市的舊城下町，1620年（元和6年）由蘆名義勝遷至現址規劃，至今仍保留藩政時代的街區劃分。武家屋敷地區於1976年被選為重要傳統建造物群保存地區，黑色木板牆圍起的武士宅邸排列兩側，並有約400株枝垂櫻，被指定為國家天然紀念物。春季櫻花盛開時，古老街景與粉紅垂櫻相映，被稱為「陸奧的小京都」。町內也保留櫻皮細工等傳統工藝。街區內設有數處對外開放的宅邸，如青柳家與石黑家，可入內參觀庭園、書院與武具，了解中下級武士的生活。步道兩側的黑板牆與垂櫻形成經典構圖，是東北最受歡迎的賞櫻地。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "秋田縣仙北市角館町"
+    },
+    {
+     "label": "町割",
+     "value": "1620年蘆名義勝規劃"
+    },
+    {
+     "label": "指定",
+     "value": "1976年重傳建地區"
+    },
+    {
+     "label": "特色",
+     "value": "黑板牆與枝垂櫻"
+    }
+   ],
+   "best_season_zh": "4月下旬至5月上旬櫻花期",
+   "tips_zh": "櫻花季最擁擠，可早上七八點前抵達；部分宅邸需另付入場費。",
+   "tags": [
+    "武家屋敷",
+    "城下町",
+    "枝垂櫻",
+    "小京都"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/角館"
+   ],
+   "confidence": "high",
+   "prompt_en": "Kakunodate samurai residence street with black board fences and weeping cherry trees in bloom, quiet old townscape, soft spring light"
+  },
+  "food": {
+   "title_zh": "切蒲英鍋",
+   "title_ja": "きりたんぽ鍋",
+   "summary_zh": "烤米棒配雞肉與舞茸的鄉土火鍋。",
+   "body_zh": "切蒲英（きりたんぽ）是把米飯搗碎裹在杉木棒上烤成的米棒，相傳起源於獵人「又鬼」進山打獵時，把剩飯搗碎烤來吃，大館與鹿角一帶為公認發祥地。切蒲英鍋以比內地雞骨熬湯，放入切塊的米棒、雞肉、蔥、芹菜、牛蒡與舞茸，鹿角傳統還會加絲狀蒟蒻。名稱由來有一說是形似稽古用的槍頭布包「短穂」，也有說法指蒲草穗。冬天吃來暖身。鍋中的米棒吸收雞湯後變得鬆軟有嚼勁，與牛蒡的香氣、芹菜的清新很搭。秋田縣內旅館與居酒屋冬季都會供應，亦可選購冷凍或真空包裝作為伴手禮帶回家。",
+   "facts": [
+    {
+     "label": "發祥地",
+     "value": "大館市、鹿角市"
+    },
+    {
+     "label": "湯底",
+     "value": "比內地雞"
+    },
+    {
+     "label": "配料",
+     "value": "雞肉、牛蒡、芹菜、舞茸"
+    },
+    {
+     "label": "特色",
+     "value": "烤米棒入鍋"
+    }
+   ],
+   "best_season_zh": "秋冬",
+   "tips_zh": "秋田站與各旅館多有供應；可買真空包裝作伴手禮。",
+   "tags": [
+    "火鍋",
+    "米棒",
+    "鄉土料理",
+    "比內地雞"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/きりたんぽ"
+   ],
+   "confidence": "high",
+   "prompt_en": "Kiritanpo nabe hot pot with grilled rice sticks, chicken, burdock, mushrooms and green onion in an iron pot, steam rising, wooden table"
+  },
+  "culture": {
+   "title_zh": "秋田竿燈祭",
+   "title_ja": "秋田竿燈まつり",
+   "summary_zh": "男子以額頭肩膀平衡數十盞燈的夏祭。",
+   "body_zh": "秋田竿燈祭於每年8月3日至6日在秋田市舉行，與青森睡魔祭、仙台七夕祭並稱東北三大祭。竿燈以竹竿橫向掛滿燈籠，最大的「大若」高12公尺、重約50公斤、懸46個燈籠。演技者用手掌、額頭、肩膀、腰部等部位支撐竿燈，展示平衡技術。其起源與「睡魔流し」習俗有關，是祈願驅除夏日睏倦與病邪的七夕儀式。1980年被指定為國家重要無形民俗文化財。祭典期間，夜幕降臨後數百根竿燈同時點亮，人群隨太鼓與笛聲吆喝節奏，場面壯觀。秋田市內設有竿燈大樂堂，平時也可參觀展示並體驗使用小型竿燈練習平衡。",
+   "facts": [
+    {
+     "label": "日期",
+     "value": "8月3–6日"
+    },
+    {
+     "label": "地點",
+     "value": "秋田市中心"
+    },
+    {
+     "label": "最大竿燈",
+     "value": "高12公尺、約50公斤、46燈"
+    },
+    {
+     "label": "指定",
+     "value": "1980年重要無形民俗文化財"
+    }
+   ],
+   "best_season_zh": "8月上旬",
+   "tips_zh": "夜間場最壯觀；白天也有練習展示與竿燈館可預習。",
+   "tags": [
+    "竿燈",
+    "夏祭",
+    "東北三大祭",
+    "平衡技"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/秋田竿燈まつり"
+   ],
+   "confidence": "high",
+   "prompt_en": "Kanto festival performers balancing tall bamboo poles hung with many glowing paper lanterns on a night street in Akita, dramatic glow"
+  },
+  "history": {
+   "title_zh": "大湯環狀列石",
+   "title_ja": "大湯環状列石",
+   "summary_zh": "繩文時代後期的大型環狀石陣遺跡。",
+   "body_zh": "大湯環狀列石位於秋田縣鹿角市十和田大湯，是繩文時代後期的環狀石陣，由河原石排成同心圓與菱形圖案，推測與祭祀或墓地有關。主要有萬座與野中堂兩處，最大直徑分別約52公尺與44公尺，是日本目前發現規模最大的環狀列石。1956年被指定為特別史跡，並於2021年7月27日作為「北海道・北東北繩文遺跡群」之一登錄世界文化遺產。遺址旁的大湯環狀列石館展示出土的土器與石器，並說明列石排列與日晷狀石組的推測用途。開闊草原與遠山相襯，夕陽下更顯神祕，是世界遺產北方繩文遺跡群的重要一站。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "秋田縣鹿角市"
+    },
+    {
+     "label": "年代",
+     "value": "繩文時代後期"
+    },
+    {
+     "label": "規模",
+     "value": "萬座約52公尺、野中堂約44公尺"
+    },
+    {
+     "label": "世界遺產",
+     "value": "2021年登錄"
+    }
+   ],
+   "best_season_zh": "5月至10月",
+   "tips_zh": "遺址旁設有展示館，建議先看影片與出土品再走遺址。",
+   "tags": [
+    "繩文",
+    "世界遺產",
+    "環狀列石",
+    "特別史跡"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/大湯環状列石"
+   ],
+   "confidence": "high",
+   "prompt_en": "Oyu stone circles Jomon-period ring of arranged stones on a grassy plain under dramatic evening sky, wide view"
+  },
+  "mascot": {
+   "title_zh": "秋田犬",
+   "title_ja": "秋田犬",
+   "summary_zh": "日本名犬，忠誠敦厚。",
+   "body_zh": "秋田犬是秋田縣大館一帶培育的大型日本犬，捲尾、豎耳、體態沉穩，1931年被指定為國家天然紀念物，是縣的象徵。其忠誠形象因渋谷站前「忠犬八公」的故事而世界聞名。縣內另有官方角色「んだッチ」，此處圖像不複製任何既有角色，改繪原創的秋田犬風格小角色，肚子以飯糰紋為飾，置於雪景中。大館市的忠犬ハチ公像與秋田犬會館是認識這種犬的好地方，遊客可在指定時間近距離接觸。秋田犬在歐美也有愛好者，是日本向世界輸出的犬種象徵之一。",
+   "facts": [
+    {
+     "label": "原產地",
+     "value": "秋田縣大館地區"
+    },
+    {
+     "label": "指定",
+     "value": "1931年天然紀念物"
+    },
+    {
+     "label": "特徵",
+     "value": "捲尾、豎耳"
+    },
+    {
+     "label": "名犬",
+     "value": "忠犬八公"
+    }
+   ],
+   "best_season_zh": "全年；冬季雪景尤佳",
+   "tips_zh": "大館駅前有八公像，並設有秋田犬會館可近距離接觸。",
+   "tags": [
+    "秋田犬",
+    "忠犬",
+    "吉祥物",
+    "犬"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/秋田県"
+   ],
+   "confidence": "medium",
+   "prompt_en": "Original cute Akita-dog-inspired chibi character with curled tail and a rice-ball pattern on its belly, standing in snowy Akita scenery, soft illustration. Original cute character, not replicating any existing trademarked mascot."
+  },
+  "scenery": {
+   "title_zh": "田澤湖",
+   "title_ja": "田沢湖",
+   "summary_zh": "日本最深湖泊，湛藍澄澈。",
+   "body_zh": "田澤湖位於仙北市，水深423.4公尺，是日本最深的湖，近圓形的火山口湖，成因為140至180萬年前的火山活動。湖面海拔約249公尺，最深處已在海平面以下約174公尺。傳說美女辰子為追求永恆青春而變成龍，棲於湖中。湖中曾有固有種國鱒，1940年引入強酸性玉川溫泉水後絕跡，2010年於山梨縣西湖再度確認存活。如今中和工程已使水質逐步改善。湖畔的御座石神社與辰子像是熱門景點，環湖約20公里道路適合騎單車。秋天紅葉倒映湖面，冬季雪景更顯寧靜，可搭配乳頭溫泉鄉安排一至兩天行程。",
+   "facts": [
+    {
+     "label": "最大水深",
+     "value": "423.4公尺（日本第一）"
+    },
+    {
+     "label": "所在地",
+     "value": "秋田縣仙北市"
+    },
+    {
+     "label": "傳說",
+     "value": "辰子化龍"
+    },
+    {
+     "label": "固有種",
+     "value": "國鱒（2010年於西湖再發現）"
+    }
+   ],
+   "best_season_zh": "5–10月",
+   "tips_zh": "可搭遊覽船環湖，或在湖畔騎自行車；冬天湖面不結冰。",
+   "tags": [
+    "最深湖",
+    "火山口湖",
+    "傳說",
+    "秋田"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/田沢湖"
+   ],
+   "confidence": "high",
+   "prompt_en": "Lake Tazawa deep sapphire blue water with surrounding forested mountains, quiet shoreline, early morning mist"
+  },
+  "spot": {
+   "title_zh": "乳頭溫泉鄉",
+   "title_ja": "乳頭温泉郷",
+   "summary_zh": "茅葺老溫泉旅館與乳白色湯池。",
+   "body_zh": "乳頭溫泉鄉位於仙北市十和田八幡平國立公園內的乳頭山麓，由鶴之湯、黑湯、妙乃湯、大釜、蟹場、孫六、休暇村乳頭等七處溫泉組成，泉質多樣，包含硫磺泉與氯化物泉。據傳開湯可追溯至1615年，1967年被指定為國民保養溫泉地。最有名的鶴之湯以茅葺屋頂與乳白色露天湯池聞名，冬季雪景下尤為迷人。可從田澤湖站搭巴士約55分鐘抵達。各家旅館泉質與風格不同，如鶴之湯強調茅葺長屋與混浴露天湯，黑湯則為茅葺建築。冬季雪壓屋頂，湯面蒸氣升騰，是日本最具代表性的秘湯之一。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "秋田縣仙北市"
+    },
+    {
+     "label": "溫泉數",
+     "value": "七處"
+    },
+    {
+     "label": "交通",
+     "value": "田澤湖站搭巴士約55分"
+    },
+    {
+     "label": "指定",
+     "value": "1967年國民保養溫泉地"
+    }
+   ],
+   "best_season_zh": "冬季與新綠",
+   "tips_zh": "購買「湯めぐり帖」可泡多家；冬季道路積雪，請預留時間。",
+   "tags": [
+    "秘湯",
+    "溫泉",
+    "茅葺",
+    "乳白色"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/乳頭温泉郷"
+   ],
+   "confidence": "high",
+   "prompt_en": "Nyuto Onsen traditional thatched-roof bathhouse with milky white outdoor hot spring in a snowy forest, steam rising, quiet dusk"
+  },
+  "experience": {
+   "title_zh": "橫手雪屋祭",
+   "title_ja": "横手のかまくら",
+   "summary_zh": "雪洞中供奉水神、孩子們在內招待甘酒。",
+   "body_zh": "橫手雪屋（かまくら）傳說已有約450年歷史，是橫手市小正月的傳統習俗：在雪洞中設祭壇供奉水神，孩子們招待來訪者甘酒與年糕。傳統日期為2月15至16日，自2026年起改為2月第二個週五至週六。雪屋與動態的「ぼんでん」祭並稱「靜與動」。活動規模包括約100座大型雪屋與約3,500座迷你雪屋，每年吸引約47萬人。傍晚雪屋內點燭光，孩子們以「入ってたんせ、入ってたんせ」招呼遊客，並遞上甘酒與年糕。同一時期另有ぼんでん祭，男子扛著華麗的竿隊前進，與靜謐的雪屋形成對比。",
+   "facts": [
+    {
+     "label": "舉辦地",
+     "value": "秋田縣橫手市"
+    },
+    {
+     "label": "歷史",
+     "value": "約450年"
+    },
+    {
+     "label": "傳統日期",
+     "value": "2月15–16日（2026年起改為2月第二個週五、六）"
+    },
+    {
+     "label": "特色",
+     "value": "雪洞祭水神"
+    }
+   ],
+   "best_season_zh": "2月中旬",
+   "tips_zh": "夜晚燭光最美但氣溫極低，請穿防寒鞋；可入雪屋喝甘酒。",
+   "tags": [
+    "雪屋",
+    "冬祭",
+    "甘酒",
+    "水神"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/横手の雪まつり"
+   ],
+   "confidence": "high",
+   "prompt_en": "Interior of a Yokote kamakura snow hut glowing with candlelight, small altar and children offering warm drinks, night snowfall outside"
+  },
+  "costume": {
+   "title_zh": "生剝鬼服飾",
+   "title_ja": "なまはげの衣装",
+   "summary_zh": "男鹿的稻草蓑衣與鬼面守護神。",
+   "body_zh": "生剝鬼（なまはげ）是男鹿半島的傳統習俗，每年除夕夜，戴鬼面、身披稻草蓑衣的男子挨家挨戶拜訪，高喊「有沒有愛哭的孩子」，勸誡懶惰與孩子。傳說源自漢武帝來訪男鹿，帶來的五隻鬼。1978年被指定為國家重要無形民俗文化財，並於2018年以「來訪神：戴面具、穿裝束的精靈」列入教科文組織無形文化遺產。男鹿真山傳承館全年可體驗儀式。各村落的鬼面與蓑衣風格不同，有的面相凶猛、有的帶笑。男鹿市設有生剝鬼館，館內可試穿簡易道具並了解各集落的差異，是理解傳統信仰與地域文化的最佳入口。",
+   "facts": [
+    {
+     "label": "習俗日期",
+     "value": "除夕夜（12月31日）"
+    },
+    {
+     "label": "名句",
+     "value": "「泣ぐ子はいねがー」"
+    },
+    {
+     "label": "指定",
+     "value": "1978年國家重要無形民俗文化財"
+    },
+    {
+     "label": "世界遺產",
+     "value": "2018年無形文化遺產"
+    }
+   ],
+   "best_season_zh": "12月31日；全年可到傳承館",
+   "tips_zh": "當地人家的除夕儀式不開放外人，建議到傳承館或生剝鬼館觀看。",
+   "tags": [
+    "生剝鬼",
+    "民俗",
+    "聯合國遺產",
+    "男鹿"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/男鹿のナマハゲ"
+   ],
+   "confidence": "high",
+   "prompt_en": "Anonymous performer dressed as Namahage with a red demon mask, straw cape and holding a wooden knife prop, standing in a snowy Oga peninsula village at dusk"
+  }
+ },
+ "areas": [
+  {
+   "id": "akita_kakunodate",
+   "name_zh": "角館",
+   "name_ja": "角館",
+   "intro_zh": "角館是江戶初期規劃的城下町，保留武家屋敷街區，被譽為陸奧小京都。春季武家屋敷的枝垂櫻與檜木內川堤的染井吉野櫻先後盛開，吸引大量遊客。稻庭烏龍麵與櫻皮細工是當地特色。",
+   "items": {
+    "spot": {
+     "title_zh": "角館武家屋敷",
+     "title_ja": "角館の武家屋敷",
+     "summary_zh": "黑板牆武家宅邸街區。",
+     "body_zh": "角館武家屋敷地區位於仙北市，以黑色板牆與古宅聞名，1976年成為重要傳統建造物群保存地區。街區內設有數棟開放參觀的宅邸，如青柳家與石黑家，展示武士生活與器物。春季垂櫻盛開、秋季楓紅，四季各有姿態。參觀路線沿著步道，從武家屋敷通到商家區。可選購櫻皮細工（樺細工）等傳統工藝品，並在街邊茶屋品嚐和菓子，感受小京都的悠閒時光。若想深入了解，可在開放的宅邸內聽解說，認識武士家的家具與日常用品。",
+     "facts": [
+      {
+       "label": "指定",
+       "value": "1976年重傳建"
+      },
+      {
+       "label": "規劃",
+       "value": "1620年"
+      },
+      {
+       "label": "特色",
+       "value": "黑板牆、枝垂櫻"
+      },
+      {
+       "label": "交通",
+       "value": "JR角館站步行約20分"
+      }
+     ],
+     "best_season_zh": "4月下旬",
+     "tips_zh": "部分宅邸需入場券，多館共通券較划算。",
+     "tags": [
+      "武家屋敷",
+      "古街",
+      "櫻花",
+      "歷史"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/角館"
+     ],
+     "confidence": "high",
+     "prompt_en": "Samurai district street with black wooden fences and weeping cherry in Kakunodate, quiet afternoon"
+    },
+    "food": {
+     "title_zh": "稻庭烏龍麵",
+     "title_ja": "稲庭うどん",
+     "summary_zh": "手延乾麵，細滑有彈性。",
+     "body_zh": "稻庭烏龍麵發祥於秋田縣湯澤市稻庭町，是手延式乾麵，製作過程中以手綯、拉長，使麵條內部形成空氣層，口感滑順。麵條略帶黃色，比冷麵更扁。據記載寬文年間前（1661年以前）已在小川集落由佐藤市兵衛開始生產，長期為家傳秘法，1972年起公開技術、產量增加。2007年被農林水產省選為「農山漁村的郷土料理百選」。冷食時可蘸以濃口醬汁或沾麵汁，並搭配蔥花與山葵；熱食則可體驗溫潤的湯頭。湯澤市有多家老店可見學製作，角館的餐廳也有套餐，適合與武家屋敷散步安排同一天。",
+     "facts": [
+      {
+       "label": "發祥地",
+       "value": "湯澤市稻庭町"
+      },
+      {
+       "label": "製法",
+       "value": "手延、手綯"
+      },
+      {
+       "label": "特徵",
+       "value": "細扁滑順"
+      },
+      {
+       "label": "認可",
+       "value": "2007年郷土料理百選"
+      }
+     ],
+     "best_season_zh": "全年；夏季冷吃",
+     "tips_zh": "可選冷麵蘸汁，也可熱湯；乾麵適合作伴手禮。",
+     "tags": [
+      "烏龍麵",
+      "手延麵",
+      "鄉土料理",
+      "湯澤"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/稲庭うどん"
+     ],
+     "confidence": "high",
+     "prompt_en": "Chilled Inaniwa udon thin flat noodles served on a bamboo tray with dipping sauce, soft light"
+    },
+    "scenery": {
+     "title_zh": "檜木內川堤櫻花",
+     "title_ja": "桧木内川堤のサクラ",
+     "summary_zh": "約2公里的櫻花隧道。",
+     "body_zh": "檜木內川堤的染井吉野櫻沿河堤綿延約2公里，形成「櫻花隧道」，被指定為國家名勝。與武家屋敷的垂櫻相比，這裡更像開闊的河畔櫻花景，夜間也有點燈。花期通常在4月下旬，可與武家屋敷合併一日遊。河堤旁設有步道與臨時攤販，櫻花祭期間晚間點燈，與白天景色截然不同。若想避開人潮，建議平日清晨前往，並可在附近咖啡店歇腳，回程搭乘JR秋田新幹線。沿岸另設有賞櫻散步路線與停車場，人潮集中於週末，建議使用接駁巴士。",
+     "facts": [
+      {
+       "label": "長度",
+       "value": "約2公里"
+      },
+      {
+       "label": "品種",
+       "value": "染井吉野"
+      },
+      {
+       "label": "指定",
+       "value": "國家名勝"
+      },
+      {
+       "label": "花期",
+       "value": "約4月下旬"
+      }
+     ],
+     "best_season_zh": "4月下旬",
+     "tips_zh": "櫻花祭期間可坐人力車或散步，人潮多。",
+     "tags": [
+      "櫻花",
+      "河堤",
+      "名勝",
+      "春季"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/角館"
+     ],
+     "confidence": "high",
+     "prompt_en": "Row of cherry trees in full bloom along the Hinokinai river embankment, pink tunnel over a path, spring afternoon"
+    }
+   }
+  },
+  {
+   "id": "akita_oga",
+   "name_zh": "男鹿半島",
+   "name_ja": "男鹿半島",
+   "intro_zh": "男鹿半島伸入日本海，海岸風光與民俗為最大魅力。這裡是生剝鬼的故鄉，設有真山傳承館與生剝鬼館；入道崎的草地與黑白條紋燈塔適合眺望夕陽。海鮮與石燒鍋是漁家傳統料理，值得慢慢品嚐。",
+   "items": {
+    "spot": {
+     "title_zh": "生剝鬼體驗",
+     "title_ja": "なまはげ体験",
+     "summary_zh": "在傳承館體驗除夕儀式。",
+     "body_zh": "男鹿真山傳承館全年重現生剝鬼儀式，遊客可坐在傳統茅葺民宅內，看戴鬼面的演員闖入並訓誡。相鄰的男鹿生剝鬼館展示各村落的鬼面與裝束。生剝鬼已於1978年列入國家重要無形民俗文化財，2018年列入教科文組織無形文化遺產。傳承館使用實際的茅葺屋，儀式依照傳統流程進行，會有解說人員說明語句與禮儀。館內另展示各集落鬼面，建議預約並預留1至2小時，適合親子與外籍旅客。館內亦提供日文與簡易英文導覽，讓不同語言的旅客皆能理解儀式的意義。",
+     "facts": [
+      {
+       "label": "設施",
+       "value": "男鹿真山傳承館"
+      },
+      {
+       "label": "指定",
+       "value": "2018年無形文化遺產"
+      },
+      {
+       "label": "特色",
+       "value": "全年體驗"
+      },
+      {
+       "label": "習俗",
+       "value": "除夕夜"
+      }
+     ],
+     "best_season_zh": "全年",
+     "tips_zh": "體驗場次有限，需確認時間；儀式有時會嚇到小孩。",
+     "tags": [
+      "生剝鬼",
+      "體驗",
+      "民俗",
+      "男鹿"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/男鹿のナマハゲ"
+     ],
+     "confidence": "high",
+     "prompt_en": "Interior of a traditional thatched farmhouse in Oga with Namahage performers entering, warm lamp light, folk ritual"
+    },
+    "food": {
+     "title_zh": "男鹿石燒鍋",
+     "title_ja": "男鹿の石焼き鍋",
+     "summary_zh": "燒石入鍋煮開魚湯的漁家料理。",
+     "body_zh": "石燒鍋是男鹿漁師的傳統料理：把燒得極熱的石頭放入木桶，倒入魚貝與味噌湯，瞬間沸騰煮熟，湯頭鮮甜。常見食材有鯛魚、鱈魚等當季鮮魚，吃法豪邁。本資料依據一般知識整理，詳細起源請以當地說法為準。以大木桶盛放魚貝與味噌湯，燒紅石頭放入瞬間讓湯沸騰，產生豪邁的香氣。食材多使用當季的鯛魚、鱈魚或雜魚，在海邊旅館與餐廳均可品嚐，建議先確認供應時間。品嚐時請小心燙口，湯汁會因石頭而劇烈沸騰，現場氣氛熱鬧。",
+     "facts": [
+      {
+       "label": "特色",
+       "value": "燒石入桶"
+      },
+      {
+       "label": "地點",
+       "value": "男鹿半島"
+      },
+      {
+       "label": "湯底",
+       "value": "味噌"
+      },
+      {
+       "label": "食材",
+       "value": "當季魚貝"
+      }
+     ],
+     "best_season_zh": "冬季較佳",
+     "tips_zh": "部分餐廳需預約，現場表演很有看頭。",
+     "tags": [
+      "石燒鍋",
+      "漁家料理",
+      "男鹿",
+      "味噌"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/男鹿市"
+     ],
+     "confidence": "low",
+     "prompt_en": "Wooden tub fisherman's soup with a glowing hot stone dropped in, boiling fish and miso soup, steam, Oga restaurant"
+    },
+    "scenery": {
+     "title_zh": "入道崎",
+     "title_ja": "入道崎",
+     "summary_zh": "北緯40度的岬角與黑白燈塔。",
+     "body_zh": "入道崎位於男鹿半島西北端，是突出日本海的岬角，海蝕崖高約30公尺，上方是開闊的草地。入道崎燈塔於1898年啟用，黑白條紋外觀醒目，並有標示北緯40度的石碑。因夕陽美景入選「日本夕陽百選」，從男鹿站搭巴士約1小時10分可達。灣內與岬角周邊有觀景台、土產店與餐廳，可品嚐海膽與鮮魚。傍晚日落時分，天空與海面同染橘紅，黑白燈塔成為剪影，是男鹿半島的必訪景點。岬角周邊風大，草地上有步道與觀景座椅，適合久坐看海。",
+     "facts": [
+      {
+       "label": "位置",
+       "value": "男鹿半島西北端"
+      },
+      {
+       "label": "燈塔",
+       "value": "1898年啟用"
+      },
+      {
+       "label": "北緯",
+       "value": "40度標誌碑"
+      },
+      {
+       "label": "景觀",
+       "value": "日本夕陽百選"
+      }
+     ],
+     "best_season_zh": "夏季日落",
+     "tips_zh": "傍晚風大，注意保暖；夕陽時刻提早到佔位置。",
+     "tags": [
+      "岬角",
+      "燈塔",
+      "夕陽",
+      "日本海"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/入道崎"
+     ],
+     "confidence": "high",
+     "prompt_en": "Nyudozaki cape with black and white striped lighthouse on green lawn and Japan Sea cliffs at golden sunset"
+    }
+   }
+  },
+  {
+   "id": "akita_tazawako",
+   "name_zh": "田澤湖",
+   "name_ja": "田沢湖",
+   "intro_zh": "田澤湖以日本第一的深度著稱，近圓形的湖面藍得深邃，湖畔金色辰子像是地標。附近的乳頭溫泉鄉是知名秘湯，冬季雪景與溫泉是精華，山芋鍋是當地暖身料理，適合安排兩天一夜行程。",
+   "items": {
+    "spot": {
+     "title_zh": "辰子像",
+     "title_ja": "辰子像",
+     "summary_zh": "湖畔金色的少女雕像。",
+     "body_zh": "辰子像矗立在田澤湖北岸，是以辰子傳說為題的金色雕像，成為湖的象徵。傳說辰子為追求永恆青春而飲泉水，化身為龍棲於湖中。像身金光與湖水的藍形成對比，可從湖畔步道近距離欣賞，也是遊覽船的主要停靠點之一。雕像年代與作者資料以當地導覽為準。雕像面朝湖面，背景是深藍湖水與山稜，拍照時常把金色像身與湖色並置。步行環湖時還可造訪御座石神社，傍晚逆光下更添神祕氛圍，是田澤湖的地標與必拍景點。",
+     "facts": [
+      {
+       "label": "位置",
+       "value": "田澤湖北岸"
+      },
+      {
+       "label": "題材",
+       "value": "辰子傳說"
+      },
+      {
+       "label": "外觀",
+       "value": "金色雕像"
+      },
+      {
+       "label": "特色",
+       "value": "湖的象徵"
+      }
+     ],
+     "best_season_zh": "夏季",
+     "tips_zh": "可搭遊覽船繞湖，或在湖畔散步取景。",
+     "tags": [
+      "雕像",
+      "傳說",
+      "田澤湖",
+      "地標"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/田沢湖"
+     ],
+     "confidence": "low",
+     "prompt_en": "Golden maiden statue standing at the shore of deep blue Lake Tazawa, surrounded by green mountains, calm morning"
+    },
+    "food": {
+     "title_zh": "山芋鍋",
+     "title_ja": "山の芋鍋",
+     "summary_zh": "田澤湖周邊的暖身鄉土火鍋。",
+     "body_zh": "山芋鍋是以山藥磨泥入湯的暖身火鍋，在乳頭溫泉鄉鶴之湯等旅館可嚐到，口感滑順，常搭配當地野菜與菇類。冬季旅客多以此取暖。本項依一般知識整理，供應店家與季節請以現場為準。山芋泥口感黏滑，湯頭清爽溫潤，常放入雞肉、蔥與菇類。冬天泡完溫泉後喝上一碗最是暖心，鄰近餐廳亦有蕎麥麵、燻製蛋等山區料理可搭配品嚐。部分旅館以住宿客為對象供應，日歸客可先電話確認是否開放用餐。",
+     "facts": [
+      {
+       "label": "地區",
+       "value": "田澤湖、乳頭溫泉鄉"
+      },
+      {
+       "label": "食材",
+       "value": "山藥、野菜"
+      },
+      {
+       "label": "特色",
+       "value": "滑順暖身"
+      },
+      {
+       "label": "旅館",
+       "value": "鶴之湯等"
+      }
+     ],
+     "best_season_zh": "冬季",
+     "tips_zh": "部分旅館僅對住客供應，請事先確認。",
+     "tags": [
+      "火鍋",
+      "山藥",
+      "鄉土料理",
+      "冬季"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/乳頭温泉郷"
+     ],
+     "confidence": "low",
+     "prompt_en": "Steaming pot of yamaimo yam soup with vegetables on a wooden table in a snowy Tazawako inn"
+    },
+    "scenery": {
+     "title_zh": "田澤湖湖景",
+     "title_ja": "田沢湖の湖景",
+     "summary_zh": "湖水湛藍，四周森林環繞。",
+     "body_zh": "田澤湖水深423.4公尺，水色呈深邃藍色，周圍為森林山脈。環湖道路約20公里，可騎自行車或自駕，沿途設有多個停車眺望點。清晨常見薄霧，湖面如鏡，是攝影人愛好的時段。冬季雪景下別具寂靜之美。湖畔設有多處停靠點與拍照位置，晴天湖水深藍，陰天則呈灰藍，各有風姿。冬季氣溫低時湖面不會結冰，岸邊白雪與深色湖水形成強烈對比。湖畔有咖啡店與租借單車，適合安排半日慢遊，也可搭乘巴士抵達乳頭溫泉鄉。",
+     "facts": [
+      {
+       "label": "最大水深",
+       "value": "423.4公尺"
+      },
+      {
+       "label": "環湖",
+       "value": "約20公里"
+      },
+      {
+       "label": "景觀",
+       "value": "藍色湖水"
+      },
+      {
+       "label": "時段",
+       "value": "清晨最佳"
+      }
+     ],
+     "best_season_zh": "5–10月",
+     "tips_zh": "清晨霧氣濃時景色最好，但注意路滑。",
+     "tags": [
+      "湖景",
+      "深湖",
+      "自然",
+      "晨霧"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/田沢湖"
+     ],
+     "confidence": "medium",
+     "prompt_en": "Lake Tazawa at dawn with mist over calm deep blue water and forested mountains in the background"
+    }
+   }
+  },
+  {
+   "id": "akita_akita_city",
+   "name_zh": "秋田市",
+   "name_ja": "秋田市",
+   "intro_zh": "秋田市是縣廳所在地，位於日本海沿岸，也是秋田竿燈祭的舉辦地。千秋公園即久保田城跡，春季櫻花盛開；冬季漁獲鰰魚是代表海味。傍晚日本海的夕陽也值得欣賞，交通便利，適合作為旅程起點。",
+   "items": {
+    "spot": {
+     "title_zh": "千秋公園",
+     "title_ja": "千秋公園",
+     "summary_zh": "久保田城跡改建的賞櫻公園。",
+     "body_zh": "千秋公園位於秋田市中心，是佐竹氏居城久保田城的遺跡，現為市民公園，園內有護城河、石垣與復原的御隅櫓。春季櫻花盛開，夜間有點燈；秋季也有楓葉。可從秋田站步行約10分抵達，是了解城下町歷史的好去處。園內有展示佐竹氏歷史的小型資料館與茶室，春季櫻花祭期間夜間點燈。從公園高處可俯瞰秋田市區，是安排半日散步的輕鬆選擇，也適合與市區的秋田市民市場同日走訪。公園占地不小，沿著護城河走一圈約需一小時，適合早晚散步。",
+     "facts": [
+      {
+       "label": "前身",
+       "value": "久保田城"
+      },
+      {
+       "label": "景觀",
+       "value": "櫻花、護城河"
+      },
+      {
+       "label": "交通",
+       "value": "秋田站步行約10分"
+      },
+      {
+       "label": "設施",
+       "value": "復原御隅櫓"
+      }
+     ],
+     "best_season_zh": "4月櫻花期",
+     "tips_zh": "櫻花季夜晚有燈飾，氣溫低請加外套。",
+     "tags": [
+      "城跡",
+      "公園",
+      "櫻花",
+      "秋田市"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/秋田市"
+     ],
+     "confidence": "low",
+     "prompt_en": "Senshu Park Akita former castle moat with cherry blossoms and a small turret reflected on water, spring"
+    },
+    "food": {
+     "title_zh": "鰰魚",
+     "title_ja": "ハタハタ",
+     "summary_zh": "秋田冬季代表魚，卵如魚子。",
+     "body_zh": "鰰（ハタハタ）是秋田縣的縣魚，冬季在日本海近海洄游產卵，漁獲量曾大減而實施禁漁。雌魚帶有「ブリコ」卵，口感獨特，常以鹽烤、味噌湯鍋（しょっつる鍋）烹調。冬季秋田市內居酒屋與市場都能嚐到。具體漁期與規則請依當地公告。一般煮法有鹽烤與以魚醬「しょっつる」調味的鍋物，口味鹹香溫和。冬季漁獲時，秋田市居酒屋與市場都能嚐到新鮮鰰魚，也可買乾貨或加工品作為伴手禮。鰰魚料理有時需預訂，旺季前建議確認餐廳是否供應。",
+     "facts": [
+      {
+       "label": "季節",
+       "value": "冬季"
+      },
+      {
+       "label": "名產",
+       "value": "ブリコ（魚卵）"
+      },
+      {
+       "label": "料理",
+       "value": "鹽烤、鍋物"
+      },
+      {
+       "label": "身份",
+       "value": "縣魚"
+      }
+     ],
+     "best_season_zh": "11–12月",
+     "tips_zh": "鹽烤整條連卵一起吃，是常見吃法。",
+     "tags": [
+      "鰰魚",
+      "海鮮",
+      "冬季",
+      "鄉土料理"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/秋田県"
+     ],
+     "confidence": "low",
+     "prompt_en": "Grilled hatahata fish with roe on a ceramic plate, winter izakaya table in Akita, warm light"
+    },
+    "scenery": {
+     "title_zh": "日本海夕陽",
+     "title_ja": "日本海の夕日",
+     "summary_zh": "秋田市沿海的海岸夕陽。",
+     "body_zh": "秋田市沿日本海，傍晚夕陽落入海面，染紅天空。海岸線有多處觀賞點，夏季日落較晚，冬季海面較暗沉，各有風情。若想看更壯闊的夕陽，可前往男鹿入道崎。具體觀景點請依當日天氣選擇。海岸線有多處長堤與公園可望見夕陽，晴朗日落時天空由金轉紅。夏季日落較晚，傍晚散步舒適；冬季風大，海面波濤洶湧，則呈現較粗獷的日本海印象。想拍照可選擇天氣晴朗且雲層稀薄的傍晚，並提前半小時抵達尋找位置。",
+     "facts": [
+      {
+       "label": "方位",
+       "value": "秋田市日本海沿岸"
+      },
+      {
+       "label": "季節",
+       "value": "夏季日落較晚"
+      },
+      {
+       "label": "推薦",
+       "value": "入道崎"
+      },
+      {
+       "label": "特徵",
+       "value": "開闊海平線"
+      }
+     ],
+     "best_season_zh": "夏季",
+     "tips_zh": "日落時間隨季節變，出發前查日落時刻。",
+     "tags": [
+      "夕陽",
+      "海岸",
+      "日本海",
+      "攝影"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/秋田市"
+     ],
+     "confidence": "low",
+     "prompt_en": "Orange sunset over the Japan Sea from an Akita coast, silhouette of rocks and calm waves"
+    }
+   }
+  }
+ ]
+}

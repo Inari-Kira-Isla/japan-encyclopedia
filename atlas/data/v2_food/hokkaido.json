@@ -1,0 +1,277 @@
+{
+ "id": "hokkaido",
+ "foods": [
+  {
+   "title_zh": "札幌味噌拉麵",
+   "title_ja": "札幌味噌ラーメン",
+   "category": "麵飯",
+   "summary_zh": "濃郁味噌湯頭配豬油炒香的蔬菜與黃色捲麵，北海道拉麵代表。",
+   "body_zh": "札幌味噌拉麵是北海道最具代表性的拉麵，一般認為在昭和三十年代由札幌的店家推廣開來。湯頭以味噌為底，加入豬骨或雞骨高湯，並用大火和豬油快炒豆芽、洋蔥等蔬菜後再沖入湯，使香氣濃郁。麵條多為粗捲麵，嚼勁十足。常見配料有叉燒、玉米、奶油，冬天吃特別暖身。",
+   "facts": [
+    {
+     "label": "起源",
+     "value": "昭和三十年代札幌店家推廣（細節說法不一）"
+    },
+    {
+     "label": "主要食材",
+     "value": "味噌、豬骨高湯、捲麵、炒蔬菜"
+    },
+    {
+     "label": "吃法",
+     "value": "趁熱連同炒蔬菜一起吃，可加奶油玉米"
+    }
+   ],
+   "season_zh": "全年，冬季最受歡迎",
+   "where_zh": "札幌市區拉麵橫丁及各地拉麵專門店",
+   "tags": [
+    "拉麵",
+    "味噌",
+    "札幌",
+    "暖身"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/札幌ラーメン"
+   ],
+   "confidence": "high",
+   "prompt_en": "A steaming ceramic ramen bowl of Sapporo miso ramen with yellow curly noodles, wok-fried bean sprouts and onions, chashu slices, corn and a pat of butter, on a dark wooden counter, warm side lighting with rising steam. Single dish only, no text, no signs, no other dishes."
+  },
+  {
+   "title_zh": "石狩鍋",
+   "title_ja": "石狩鍋",
+   "category": "鄉土料理",
+   "summary_zh": "以鮭魚與蔬菜入味噌湯的鄉土火鍋，源自石狩川漁場。",
+   "body_zh": "石狩鍋是北海道的鄉土火鍋，名稱來自石狩川河口一帶的漁場。傳說漁夫在捕鮭季節把整條鮭魚連同內臟下鍋煮食。做法是用昆布高湯加味噌，放入鮭魚塊、豆腐、高麗菜、蔥等，起鍋前常加一片奶油或撒山椒。味道醇厚，是秋冬鮭魚季的暖胃代表。湯頭帶有味噌的甜香與鮭魚的油脂，非常適合寒冷的北國冬天，也常出現在家庭餐桌。",
+   "facts": [
+    {
+     "label": "起源",
+     "value": "石狩川漁場的漁夫料理（傳說）"
+    },
+    {
+     "label": "主要食材",
+     "value": "鮭魚、味噌、豆腐、高麗菜"
+    },
+    {
+     "label": "吃法",
+     "value": "趁熱連湯食用，可加奶油"
+    }
+   ],
+   "season_zh": "秋至冬（鮭魚季）",
+   "where_zh": "石狩市及北海道各地的鄉土料理店",
+   "tags": [
+    "鮭魚",
+    "火鍋",
+    "味噌",
+    "鄉土"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/石狩鍋"
+   ],
+   "confidence": "medium",
+   "prompt_en": "A black cast-iron nabe pot of Ishikari salmon miso hotpot with salmon chunks, tofu, cabbage and leeks, a pat of butter melting on top, on a rustic wooden table, soft warm light, gentle steam. Single dish only, no text, no signs, no other dishes."
+  },
+  {
+   "title_zh": "成吉思汗烤羊肉",
+   "title_ja": "ジンギスカン",
+   "category": "肉類",
+   "summary_zh": "中央隆起的鐵鍋烤羊肉，搭配蔬菜，是北海道的靈魂燒肉。",
+   "body_zh": "成吉思汗是北海道的代表烤肉，用中央隆起、周圍有凹槽的專用鐵鍋，讓羊肉在頂部燒烤，肉汁流下煮熟周邊的洋蔥、豆芽與南瓜等蔬菜。羊肉分為醃漬後烤與先烤後蘸醬兩種風格，滝川、札幌、遠軽等地各有特色。北海道人在賞花、烤肉聚會時也常吃。北海道人也常把它當作戶外聚會的招牌料理，香氣十足，配啤酒更對味。",
+   "facts": [
+    {
+     "label": "起源",
+     "value": "與日本推廣綿羊飼養有關（細節說法不一）"
+    },
+    {
+     "label": "主要食材",
+     "value": "羊肉、洋蔥、豆芽、南瓜"
+    },
+    {
+     "label": "吃法",
+     "value": "先烤羊肉，肉汁煮蔬菜，蘸醬食用"
+    }
+   ],
+   "season_zh": "全年",
+   "where_zh": "札幌、滝川、遠軽等地的專門店",
+   "tags": [
+    "烤肉",
+    "羊肉",
+    "鐵鍋",
+    "北海道"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/ジンギスカン"
+   ],
+   "confidence": "medium",
+   "prompt_en": "A domed Genghis Khan grill pan with sizzling lamb slices on the dome and onions, bean sprouts and pumpkin around the moat, on a dark table, warm lighting, light smoke. Single dish only, no text, no signs, no other dishes."
+  },
+  {
+   "title_zh": "毛蟹",
+   "title_ja": "毛ガニ",
+   "category": "海鮮",
+   "summary_zh": "北海道冷海特產，蟹肉鮮甜、蟹膏濃厚，常整隻水煮。",
+   "body_zh": "毛蟹是北海道代表的蟹類，身體覆蓋短毛，主要在鄂霍次克海與太平洋沿岸捕撈。蟹肉細緻鮮甜，蟹膏濃厚，通常整隻水煮後直接品嚐，或拆肉做成蟹肉湯、鍋物。與帝王蟹、松葉蟹相比體型較小，但味道濃縮，是北海道旅遊的必嘗海鮮之一。在市場可現場挑選活蟹，請店家當場蒸煮，蟹殼內的蟹膏可拌飯。",
+   "facts": [
+    {
+     "label": "產地",
+     "value": "鄂霍次克海、太平洋沿岸"
+    },
+    {
+     "label": "主要食材",
+     "value": "毛蟹整隻"
+    },
+    {
+     "label": "吃法",
+     "value": "水煮後拆肉，連蟹膏一起吃"
+    }
+   ],
+   "season_zh": "春至夏較盛（依產地而異）",
+   "where_zh": "紋別、網走、函館等漁港及市場",
+   "tags": [
+    "螃蟹",
+    "海鮮",
+    "鮮甜",
+    "蟹膏"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/ケガニ"
+   ],
+   "confidence": "medium",
+   "prompt_en": "A whole boiled hairy crab on a white ceramic platter, bright red shell with fine hairs, a small dish of vinegar nearby, on a wooden table by a window, soft natural light. Single dish only, no text, no signs, no other dishes."
+  },
+  {
+   "title_zh": "Marusei 奶油夾心餅",
+   "title_ja": "マルセイバターサンド",
+   "category": "甜點和菓子",
+   "summary_zh": "六花亭名物，奶油加葡萄乾夾在酥脆餅乾間。",
+   "body_zh": "マルセイバターサンド是帶廣製菓店六花亭的代表甜點，包裝靈感來自開拓時代十勝的「マルセイ」奶油標籤。內餡是白巧克力風味奶油加朗姆酒漬葡萄乾，夾在兩片酥脆餅乾之間。口感濃郁而不膩，常被當作北海道伴手禮，建議冰過後食用更有層次。每一口都有奶油的濃香和葡萄乾的酸甜，配茶或咖啡都合適。",
+   "facts": [
+    {
+     "label": "起源",
+     "value": "六花亭製作，包裝取自十勝開拓時代的奶油標籤"
+    },
+    {
+     "label": "主要食材",
+     "value": "奶油、葡萄乾、白巧克力、餅乾"
+    },
+    {
+     "label": "吃法",
+     "value": "可略冰後食用"
+    }
+   ],
+   "season_zh": "全年",
+   "where_zh": "帶廣六花亭本店及北海道各地分店",
+   "tags": [
+    "伴手禮",
+    "奶油",
+    "葡萄乾",
+    "十勝"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/六花亭"
+   ],
+   "confidence": "medium",
+   "prompt_en": "Two Marusei butter sandwich cookies, one cut open to show cream and rum raisins, on a small white plate with a classic vintage-style wrapper beside it, soft window light, wooden table. Single dish only, no text, no signs, no other dishes."
+  },
+  {
+   "title_zh": "余市威士忌",
+   "title_ja": "余市ウイスキー",
+   "category": "酒與飲品",
+   "summary_zh": "余市蒸餾所生產，以煤直火蒸餾聞名的日本威士忌。",
+   "body_zh": "余市蒸餾所位於後志的余市町，由竹鶴政孝在1934年創立。選址原因包括氣候與海風接近蘇格蘭。蒸餾仍採用煤炭直火加熱，使酒體濃厚帶煙燻與海風氣息，成為日本威士忌的代表之一。蒸餾所開放參觀，可品嚐並了解製作過程。在蒸餾所內的試飲區，遊客可以比較不同酒款的風味，並了解木桶熟成的過程。",
+   "facts": [
+    {
+     "label": "創立",
+     "value": "1934年，竹鶴政孝"
+    },
+    {
+     "label": "特色",
+     "value": "煤炭直火蒸餾，酒體厚重"
+    },
+    {
+     "label": "吃法",
+     "value": "純飲、加冰或水割"
+    }
+   ],
+   "season_zh": "全年",
+   "where_zh": "後志地區的余市町蒸餾所",
+   "tags": [
+    "威士忌",
+    "余市",
+    "蒸餾所",
+    "竹鶴"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/ニッカウヰスキー"
+   ],
+   "confidence": "high",
+   "prompt_en": "A crystal tumbler of amber whisky with a large clear ice sphere beside a dark whisky bottle with a plain label, on an old oak table, warm moody lighting, subtle reflection. Single dish only, no text, no signs, no other dishes."
+  },
+  {
+   "title_zh": "夕張哈密瓜",
+   "title_ja": "夕張メロン",
+   "category": "特產食材",
+   "summary_zh": "夕張產的橙肉哈密瓜，糖度高、香氣濃，是北海道高級水果。",
+   "body_zh": "夕張哈密瓜是以夕張市為產地的橙肉哈密瓜，由夕張的農業組織培育，品種是夕張KING。因當地晝夜溫差大、栽培管理嚴格，果肉軟甜多汁、香氣濃郁。通常在初夏至盛夏收成，作為高級禮品很受歡迎，也用於冰淇淋、果凍等加工品。完熟的果肉帶有清香，建議在常溫下放至果蒂微軟再吃，風味最好。",
+   "facts": [
+    {
+     "label": "產地",
+     "value": "夕張市（北海道中部）"
+    },
+    {
+     "label": "品種",
+     "value": "夕張KING"
+    },
+    {
+     "label": "吃法",
+     "value": "切塊直接吃，也做甜點"
+    }
+   ],
+   "season_zh": "初夏至夏",
+   "where_zh": "夕張市及北海道各地直銷與百貨",
+   "tags": [
+    "哈密瓜",
+    "水果",
+    "高級",
+    "夏季"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/夕張メロン"
+   ],
+   "confidence": "high",
+   "prompt_en": "A halved orange-fleshed Yubari melon with a wedge cut, on a white plate, wooden table, bright soft daylight, droplets of juice. Single dish only, no text, no signs, no other dishes."
+  },
+  {
+   "title_zh": "室蘭烤雞肉串",
+   "title_ja": "室蘭やきとり",
+   "category": "B級美食",
+   "summary_zh": "用豬肉與洋蔥串燒，配芥末，是室蘭的名物。",
+   "body_zh": "室蘭やきとり雖叫「やきとり」，但用的是豬肉而非雞肉，並插入洋蔥一同燒烤。當地習慣蘸黃芥末而不是山椒或七味。說法是因戰後食材與文化影響逐漸形成，現已成為室蘭的B級美食代表，店家遍布市區，居酒屋常見。當地人說這種吃法是室蘭人從小吃到大的家鄉味，與一般雞肉串很不同。",
+   "facts": [
+    {
+     "label": "特色",
+     "value": "用豬肉與洋蔥，配黃芥末"
+    },
+    {
+     "label": "主要食材",
+     "value": "豬肉、洋蔥"
+    },
+    {
+     "label": "吃法",
+     "value": "蘸芥末，配啤酒"
+    }
+   ],
+   "season_zh": "全年",
+   "where_zh": "室蘭市的居酒屋與專門店",
+   "tags": [
+    "串燒",
+    "豬肉",
+    "芥末",
+    "B級"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/室蘭やきとり"
+   ],
+   "confidence": "medium",
+   "prompt_en": "A plate of Muroran yakitori skewers of pork and onion with a dab of yellow mustard on the side, charred glaze, on a dark ceramic plate, izakaya counter, warm light. Single dish only, no text, no signs, no other dishes."
+  }
+ ]
+}

@@ -1,0 +1,157 @@
+{
+ "id": "nagasaki",
+ "spots": [
+  {
+   "title_zh": "大浦天主堂",
+   "title_ja": "大浦天主堂",
+   "category": "神社寺院",
+   "area_zh": "長崎市",
+   "summary_zh": "日本現存最古的基督教建築，國寶教堂。",
+   "body_zh": "大浦天主堂位於長崎市，1864年竣工，是日本現存最古的基督教建築，也是國寶，並為『長崎與天草地方的潛伏基督徒相關遺產』世界遺產的構成文化財之一。1859年開港後長崎設外國人居留地，教堂為外籍信徒而建，朝向日本二十六聖人殉教地西坂。外觀屬哥德式，內部為肋拱頂『蝙蝠天花』，由天草出身的小山秀之進以竹、泥土與灰泥施工，融入日本工法。1945年原爆時未全毀。",
+   "facts": [
+    {"label": "所在地", "value": "長崎縣長崎市"},
+    {"label": "開創／成因", "value": "1864年為外國人居留地的信徒建造"},
+    {"label": "看點", "value": "哥德式外觀、蝙蝠天花、國寶與世界遺產身分"}
+   ],
+   "best_season_zh": "春秋季與晴朗上午",
+   "tips_zh": "參觀需購票。日常彌撒在隔壁的大浦教會舉行，天主堂聖堂內只在聖誕節與3月17日信徒發現紀念日舉行彌撒，入內請保持肅靜。",
+   "tags": ["國寶", "世界遺產", "哥德式", "潛伏基督徒"],
+   "sources": ["https://ja.wikipedia.org/wiki/大浦天主堂"],
+   "confidence": "high",
+   "prompt_en": "White Gothic-style church facade with a pointed central spire at the top of a short stone staircase on a hillside, tall arched windows, lush green trees at the sides, a glimpse of a harbor below in the background, soft clear morning light, no text, no signs, no recognizable people"
+  },
+  {
+   "title_zh": "端島（軍艦島）",
+   "title_ja": "端島（軍艦島）",
+   "category": "海島海岸",
+   "area_zh": "長崎市（外海）",
+   "summary_zh": "昔日海底煤礦島，世界遺產，現為無人島。",
+   "body_zh": "端島通稱軍艦島，位於長崎市外海，距高島南端約2.5公里，原本只是南北約320公尺的小礁，經1897至1931年六次填海擴至約三倍，南北約480公尺、東西約160公尺，面積約6.3公頃。明治至昭和年間作為海底煤礦而繁榮，建有日本首座鋼筋混凝土高層集合住宅，1960年代人口密度超越東京。1974年閉山後成為無人島，2015年作為明治日本產業革命遺產之一登錄世界遺產。",
+   "facts": [
+    {"label": "所在地", "value": "長崎縣長崎市，高島西南約2.5公里外海"},
+    {"label": "開創／成因", "value": "海底煤礦開採，1897至1931年填海擴張"},
+    {"label": "看點", "value": "鋼筋混凝土高層住宅廢墟、護岸堤防、無人島景觀"}
+   ],
+   "best_season_zh": "海況平穩的晴天",
+   "tips_zh": "島上老化嚴重，維基指保全是課題；多數人是乘船從外側觀看。出航與登島受天候影響，需預先確認航班，並留意海上風浪與暈船。",
+   "tags": ["軍艦島", "世界遺產", "海底炭鉱", "無人島"],
+   "sources": ["https://ja.wikipedia.org/wiki/端島_(長崎県)"],
+   "confidence": "high",
+   "prompt_en": "Small flat island densely covered with weathered concrete apartment blocks and industrial ruins, enclosed by a long sea wall, seen from a boat across open dark-blue water, dramatic cloudy sky with a break of sunlight on the island, no text, no signs, no recognizable people"
+  },
+  {
+   "title_zh": "稻佐山",
+   "title_ja": "稲佐山",
+   "category": "山岳高原",
+   "area_zh": "長崎市",
+   "summary_zh": "標高333公尺，世界新三大夜景之一。",
+   "body_zh": "稻佐山是長崎市區西側標高333公尺的山，山頂設有展望台與電波塔，可一覽全市。這裡的夜景被稱為『一千萬美元夜景』，與函館山、神戶摩耶山並列日本三大夜景，2012年又與摩納哥、香港並列為世界新三大夜景。山上建有稻佐山公園，有草地滑道與可容納一萬五千人的戶外舞台。可搭乘長崎纜車直達山頂，登山道旁的火碎岩地質還孕育出長崎萬年草等特有植物。",
+   "facts": [
+    {"label": "所在地", "value": "長崎縣長崎市西側，標高333公尺"},
+    {"label": "開創／成因", "value": "夜景名所，2012年獲認定為世界新三大夜景"},
+    {"label": "看點", "value": "山頂展望台夜景、稻佐山公園、長崎纜車"}
+   ],
+   "best_season_zh": "秋冬空氣清澈的夜晚",
+   "tips_zh": "夜景最佳時段是日落前後，建議提早上山佔位，看從黃昏到亮燈的過渡；山頂風大，夜間也比市區冷，帶一件外套。",
+   "tags": ["夜景", "世界新三大夜景", "長崎纜車", "展望台"],
+   "sources": ["https://ja.wikipedia.org/wiki/稲佐山"],
+   "confidence": "high",
+   "prompt_en": "Panoramic night view from a hilltop observation deck over a harbor city built on steep slopes, countless warm city lights climbing the hillsides around a curved bay, deep blue twilight sky with a faint glow on the horizon, a tall lit radio tower silhouette at the edge, no text, no signs, no recognizable people"
+  },
+  {
+   "title_zh": "雲仙溫泉",
+   "title_ja": "雲仙温泉",
+   "category": "溫泉",
+   "area_zh": "雲仙市小濱町雲仙",
+   "summary_zh": "日本第一個國立公園內的硫磺泉與雲仙地獄。",
+   "body_zh": "雲仙溫泉位於長崎縣雲仙市小濱町，是日本第一個國立公園（雲仙天草國立公園）內的溫泉保養地，泉質為硫磺泉。溫泉街圍繞著噴氣地帶『雲仙地獄』而建，地獄共約30處，沿途有遊步道、足湯與基督徒殉教碑。傳說701年行基開創溫泉山滿明寺，江戶時代經肯普弗與西博爾德介紹到歐洲，明治後成為長崎外國人及上海、香港西洋人的避暑地。1990年噴發的普賢岳在妙見岳另一側，街上看不到。",
+   "facts": [
+    {"label": "所在地", "value": "長崎縣雲仙市小濱町雲仙，標高約700公尺"},
+    {"label": "開創／成因", "value": "傳說701年行基開創，噴氣帶形成雲仙地獄"},
+    {"label": "看點", "value": "雲仙地獄遊步道、共同浴場、春季杜鵑"}
+   ],
+   "best_season_zh": "春季杜鵑與秋季紅葉",
+   "tips_zh": "雲仙地獄以硫磺蒸氣與熱水為主，沿木棧道行走，請勿越過圍欄；共同浴場各有歷史，其中湯之里被稱為最古老，可擇一體驗。",
+   "tags": ["雲仙地獄", "硫磺泉", "國立公園", "避暑地"],
+   "sources": ["https://ja.wikipedia.org/wiki/雲仙温泉"],
+   "confidence": "high",
+   "prompt_en": "Volcanic steaming ground in a mountain hot-spring resort, white sulfur steam rising from rocky vents beside a wooden boardwalk, yellow mineral stains on the rocks, green hills and a few old inn roofs in the background, cool misty morning light, no text, no signs, no recognizable people"
+  },
+  {
+   "title_zh": "豪斯登堡",
+   "title_ja": "ハウステンボス",
+   "category": "主題設施",
+   "area_zh": "佐世保市針尾島",
+   "summary_zh": "重現荷蘭街景的大型主題樂園，園區面積約152公頃。",
+   "body_zh": "豪斯登堡位於長崎縣佐世保市針尾島，臨大村灣北端，以荷蘭街景為藍本、以整個歐洲為主題的主題樂園，名稱在荷語意為『森林之家』，取自荷蘭王室的豪斯登堡宮。開發面積約152公頃，被稱為日本單一主題樂園中面積最大者。它被當成一座完整的城鎮建造，沒有所謂後台，運貨與服務車輛也行駛在街上，以古典設計與統一色調融入街景。園區大部分原是江戶時代的填海水田。",
+   "facts": [
+    {"label": "所在地", "value": "長崎縣佐世保市針尾島，大村灣北端"},
+    {"label": "開創／成因", "value": "以荷蘭宮殿命名，建於江戶時代填海水田舊址"},
+    {"label": "看點", "value": "荷蘭風街區、占地約152公頃的完整城鎮設計"}
+   ],
+   "best_season_zh": "晴朗的春秋季",
+   "tips_zh": "園區範圍大，建議先決定想看的街區與水道，再安排走路與乘船的順序；整體以街景和植栽取勝，不必依賴任何特定遊樂設施。",
+   "tags": ["荷蘭街景", "大村灣", "主題樂園", "佐世保"],
+   "sources": ["https://ja.wikipedia.org/wiki/ハウステンボス"],
+   "confidence": "high",
+   "prompt_en": "European-style canal town with red-brick Dutch gabled buildings and a tall brick tower reflected in a calm canal, a row of colorful tulip beds in the foreground, blue sky with soft clouds, golden afternoon light, no text, no signs, no recognizable people"
+  },
+  {
+   "title_zh": "島原城",
+   "title_ja": "島原城",
+   "category": "城郭史蹟",
+   "area_zh": "島原市城內",
+   "summary_zh": "背靠雲仙岳、面向有明海的石垣名城。",
+   "body_zh": "島原城位於長崎縣島原市，面向有明海、背靠雲仙岳，又名森岳城，為國家史蹟。這是近乎長方形的連郭式平城，以高聳堅固的石垣聞名，本丸有水壕環繞。江戶初期松倉重政自1618年起築城，歷時七年完成，總石垣並建有天守與49座櫓，但重政與勝家的苛政成為島原之亂的起因。1874年廢城後，現本丸已復原天守、櫓與長塀，天守內設資料館，展出基督徒、鄉土與民俗史料。",
+   "facts": [
+    {"label": "所在地", "value": "長崎縣島原市城內"},
+    {"label": "開創／成因", "value": "1618年松倉重政築城，歷時七年"},
+    {"label": "看點", "value": "高大石垣、水壕、復原天守與資料館"}
+   ],
+   "best_season_zh": "春季與秋季",
+   "tips_zh": "天守內分層展示基督徒史料與鄉土民俗，建議由頂層往下看；水壕與石垣最好沿外圍走一圈，再入城，更能體會城的防禦配置。",
+   "tags": ["島原之亂", "石垣", "雲仙岳", "平城"],
+   "sources": ["https://ja.wikipedia.org/wiki/島原城"],
+   "confidence": "high",
+   "prompt_en": "Five-storey white castle keep with dark roof tiles rising behind massive stone walls and a still moat, a wooden covered corridor bridge in the foreground, a large volcanic mountain looming in the distant background, clear blue sky, soft morning light, no text, no signs, no recognizable people"
+  },
+  {
+   "title_zh": "九十九島",
+   "title_ja": "九十九島",
+   "category": "自然絕景",
+   "area_zh": "佐世保市（北松浦半島西岸）",
+   "summary_zh": "西海國立公園的リアス式海岸群島，島數逾兩百。",
+   "body_zh": "九十九島是長崎縣北松浦半島西岸（相浦至小佐佐一帶）的リアス式海岸群島，面向五島灘，全域屬西海國立公園，並入選日本百景。島數官方公佈為208座，多為無人小島與岩礁，有人島僅黑島、高島及以橋相連的前島與鼕泊島。島名據傳為平戶藩主松浦靜山仿象潟九十九島而取，2018年獲認定加入世界最美海灣俱樂部。南九十九島有遊覽船與獨木舟、帆船等海上活動，冬季還是牡蠣產地。",
+   "facts": [
+    {"label": "所在地", "value": "長崎縣北松浦半島西岸，西海國立公園內"},
+    {"label": "開創／成因", "value": "リアス式海岸的群島，官方統計島數208座"},
+    {"label": "看點", "value": "展海峰等九十九島八景展望點、遊覽船與海上活動"}
+   ],
+   "best_season_zh": "晴天日落與冬季",
+   "tips_zh": "想看全景可到弓張岳或展海峰等展望台；若要貼近島嶼，可從鹿子前的西海珍珠海灘度假區搭遊覽船出海，冬天可順道嘗牡蠣。",
+   "tags": ["西海國立公園", "リアス式海岸", "展望台", "牡蠣"],
+   "sources": ["https://ja.wikipedia.org/wiki/九十九島_(西海国立公園)"],
+   "confidence": "high",
+   "prompt_en": "Aerial-style view from a hilltop of countless small forested islands scattered across a calm blue sea, winding indented coastline and tiny coves, layered islands fading into haze toward the horizon, warm low sunset light, no text, no signs, no recognizable people"
+  },
+  {
+   "title_zh": "出島",
+   "title_ja": "出島",
+   "category": "城郭史蹟",
+   "area_zh": "長崎市",
+   "summary_zh": "鎖國時代對外貿易窗口的人工島史蹟。",
+   "body_zh": "出島是江戶幕府1634至1636年在長崎興建的日本首座本格人工島，呈扇形，面積約1.5公頃。最初用來管理葡萄牙人，1641年起平戶荷蘭商館遷入，成為鎖國期間唯一對西方開放的貿易據點，荷蘭東印度公司在此貿易至1859年。明治後因港灣填海與陸地相連，扇形面貌消失，1922年以『出島和蘭商館跡』指定為國家史蹟，長崎市自1996年起推動復原整備計畫。",
+   "facts": [
+    {"label": "所在地", "value": "長崎縣長崎市"},
+    {"label": "開創／成因", "value": "1634至1636年幕府築造的人工島"},
+    {"label": "看點", "value": "荷蘭商館舊址、復原整備中的江戶建築與扇形島跡"}
+   ],
+   "best_season_zh": "全年皆宜，晴天較佳",
+   "tips_zh": "因復原整備仍持續進行，各棟建築的開放狀況可能改變，行前請看長崎市官方資訊；建議配合歷史背景閱讀展板，更容易理解貿易窗口的角色。",
+   "tags": ["荷蘭商館", "鎖國", "人工島", "國家史蹟"],
+   "sources": ["https://ja.wikipedia.org/wiki/出島"],
+   "confidence": "high",
+   "prompt_en": "Restored two-storey Edo-period Western-influenced wooden buildings with pale walls and green shutters around a quiet gravel courtyard, tiled roofs and warehouse rows, modern city buildings softly blurred in the distance, clear soft daylight, no text, no signs, no recognizable people"
+  }
+ ]
+}

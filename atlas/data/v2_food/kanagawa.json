@@ -1,0 +1,279 @@
+{
+ "id": "kanagawa",
+ "foods": [
+  {
+   "title_zh": "家系拉麵",
+   "title_ja": "家系ラーメン",
+   "category": "麵飯",
+   "summary_zh": "橫濱發祥的豚骨醬油拉麵，配雞油、菠菜與三片海苔。",
+   "body_zh": "家系拉麵是橫濱代表拉麵。據維基百科，1974年吉村實在橫濱磯子區開設「吉村家」，構想把九州豚骨與東京醬油結合。湯底為豚骨加雞骨，醬油醬汁，浮著雞油，配中粗直麵、叉燒、三片海苔與菠菜。分店多以「家」結尾而得名；2025年全國約2000間，神奈川縣內超過400間。",
+   "facts": [
+    {
+     "label": "起源",
+     "value": "1974年橫濱磯子「吉村家」"
+    },
+    {
+     "label": "主要食材",
+     "value": "豚骨雞骨湯、醬油醬汁、雞油、中粗麵"
+    },
+    {
+     "label": "吃法",
+     "value": "可按喜好調整濃度與油量"
+    }
+   ],
+   "season_zh": "全年",
+   "where_zh": "橫濱及神奈川縣內家系拉麵店",
+   "tags": [
+    "拉麵",
+    "橫濱",
+    "豚骨醬油",
+    "家系"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/家系ラーメン"
+   ],
+   "confidence": "medium",
+   "prompt_en": "A single bowl of Yokohama iekei ramen, opaque pork bone soy broth with a shiny chicken oil layer, thick straight noodles, three sheets of nori standing at the rim, chashu slices and spinach, ceramic bowl on a dark wood counter, steam, warm light, no text"
+  },
+  {
+   "title_zh": "崎陽軒燒賣",
+   "title_ja": "崎陽軒のシウマイ",
+   "category": "B級美食",
+   "summary_zh": "冷了也好吃的橫濱名物燒賣，加入乾干貝。",
+   "body_zh": "據維基百科，崎陽軒於1928年（昭和3年）推出燒賣。創辦人野並茂吉以「冷了也美味」為目標，把用水泡一夜的乾干貝與豬肉組合。崎陽軒稱燒賣發售前橫濱並無特別的名物，之後燒賣與「燒賣便當」成為橫濱的象徵。賣點在於以乾干貝帶出鮮味，冷食也不失風味，因此適合當車站便當與伴手禮，是到橫濱旅行時常被推薦購買的名物。",
+   "facts": [
+    {
+     "label": "起源",
+     "value": "1928年崎陽軒創辦人野並茂吉"
+    },
+    {
+     "label": "主要食材",
+     "value": "豬肉、乾干貝"
+    },
+    {
+     "label": "吃法",
+     "value": "冷熱皆可，可配燒賣便當"
+    }
+   ],
+   "season_zh": "全年",
+   "where_zh": "橫濱站及崎陽軒門市",
+   "tags": [
+    "燒賣",
+    "橫濱",
+    "車站便當",
+    "點心"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/崎陽軒"
+   ],
+   "confidence": "medium",
+   "prompt_en": "A small plate of six steamed shumai dumplings with a small dab of yellow mustard, a little dish of soy sauce, white ceramic plate, soft natural light, wooden table, one dish, no text"
+  },
+  {
+   "title_zh": "湘南生吻仔魚飯",
+   "title_ja": "生しらす丼",
+   "category": "海鮮",
+   "summary_zh": "湘南、鎌倉一帶漁港旁的生吻仔魚蓋飯。",
+   "body_zh": "據維基百科，生吻仔魚蓋飯主要在漁港附近的店供應，因新鮮度與批發價低而成為觀光導向的料理。湘南沿岸（茅崎、片瀨、逗子、葉山等）是吻仔魚的主要漁場，鎌倉、江之島一帶有許多店家供應。維基同時提到吻仔魚漁獲逐年減少。神奈川縣有「湘南しらす」的品牌認定。",
+   "facts": [
+    {
+     "label": "起源",
+     "value": "漁港附近的漁業飲食，起源年代未詳"
+    },
+    {
+     "label": "主要食材",
+     "value": "生吻仔魚、白飯，配蔥、紫蘇、海苔或蛋黃"
+    },
+    {
+     "label": "吃法",
+     "value": "淋醬油或配薑、芥末食用"
+    }
+   ],
+   "season_zh": "依漁況，休漁期請查證",
+   "where_zh": "鎌倉、江之島、湘南漁港周邊食堂",
+   "tags": [
+    "吻仔魚",
+    "湘南",
+    "鎌倉",
+    "海鮮丼"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/しらす丼"
+   ],
+   "confidence": "medium",
+   "prompt_en": "A single donburi bowl of raw shirasu whitebait heaped over white rice topped with sliced green onion, shiso leaf and a little grated ginger, in a ceramic bowl on a wooden table, soft sea-side daylight, no text"
+  },
+  {
+   "title_zh": "三崎鮪魚",
+   "title_ja": "三崎まぐろ",
+   "category": "海鮮",
+   "summary_zh": "三崎漁港是日本屈指的鮪魚水揚港。",
+   "body_zh": "三崎漁港位於三浦市，是全國13個特定第3種漁港之一。據維基百科，其為日本有數的鮪魚基地，2024年水揚量約1萬7千噸、金額逾185億日圓，主要為大目鮪等。15世紀應仁年間起紀伊半島漁民季節性來此出漁，戰前成為鮪魚漁業大據點。漁港周邊鮪魚料理店集中，京急有發售「三崎鮪魚車票」招攬遊客。",
+   "facts": [
+    {
+     "label": "起源",
+     "value": "15世紀起漁村形成，戰前成為鮪魚漁業據點"
+    },
+    {
+     "label": "主要食材",
+     "value": "大目鮪等鮪魚類"
+    },
+    {
+     "label": "吃法",
+     "value": "生魚片、鮪魚丼、鮪魚料理套餐"
+    }
+   ],
+   "season_zh": "全年",
+   "where_zh": "三浦市三崎漁港周邊鮪魚料理店",
+   "tags": [
+    "鮪魚",
+    "三崎",
+    "漁港",
+    "生魚片"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/三崎漁港",
+    "https://ja.wikipedia.org/wiki/三浦市"
+   ],
+   "confidence": "medium",
+   "prompt_en": "A single plate of fresh tuna sashimi, several slices of deep red akami and pale pink fatty chutoro fanned out, with a little shredded daikon and a shiso leaf and wasabi, on a dark ceramic plate, soft light, no text"
+  },
+  {
+   "title_zh": "小田原魚板",
+   "title_ja": "小田原蒲鉾",
+   "category": "特產食材",
+   "summary_zh": "小田原的板付魚板，使用白身魚為主材料。",
+   "body_zh": "小田原魚板是小田原的代表特產。據維基百科，至少到江戶末期已有板付魚板，後成為小田原名產。明治到大正時期用石首魚、黑鯛、真鯛等當地魚，1912年起以色白、黏性強的白口魚（グチ）為主流，至今小田原仍比其他產地更常用。2006年登錄地域團體商標，2022年獲文化廳選為「百年フード」。",
+   "facts": [
+    {
+     "label": "起源",
+     "value": "最遲江戶末期已有板付魚板"
+    },
+    {
+     "label": "主要食材",
+     "value": "白口魚等白身魚魚漿"
+    },
+    {
+     "label": "吃法",
+     "value": "切片蘸山葵醬油，或入料理"
+    }
+   ],
+   "season_zh": "全年",
+   "where_zh": "小田原市內魚板老鋪與直營店",
+   "tags": [
+    "魚板",
+    "小田原",
+    "百年フード",
+    "特產"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/小田原蒲鉾",
+    "https://ja.wikipedia.org/wiki/小田原市"
+   ],
+   "confidence": "medium",
+   "prompt_en": "A single sliced pink-and-white Odawara kamaboko fish cake on its small wooden board, six neat slices fanned out, with a small dish of soy sauce and wasabi, plain table, soft light, no text"
+  },
+  {
+   "title_zh": "橫濱牛鍋",
+   "title_ja": "牛鍋",
+   "category": "肉類",
+   "summary_zh": "開港後橫濱外國人居留地帶動的牛肉鍋物。",
+   "body_zh": "據維基百科，橫濱於1859年開港後，外國人居留地帶來吃肉文化，牛肉需求上升。1862年橫濱入船町的「伊勢熊」被視為最早的牛鍋店之一，同年生絲商久保田松之助也在料理店供應牛鍋。基本是薄切牛肉配蔥、白菜、茼蒿、豆腐等，沾蛋汁而食。1871年《安愚樂鍋》描寫東京的牛肉店，關東大地震後關西式壽喜燒傳入東京。",
+   "facts": [
+    {
+     "label": "起源",
+     "value": "1862年橫濱入船町「伊勢熊」被視為最早之一"
+    },
+    {
+     "label": "主要食材",
+     "value": "薄切牛肉、蔥、白菜、豆腐等"
+    },
+    {
+     "label": "吃法",
+     "value": "鍋煮後沾蛋汁"
+    }
+   ],
+   "season_zh": "全年",
+   "where_zh": "橫濱老牌牛鍋店",
+   "tags": [
+    "牛鍋",
+    "橫濱",
+    "開港",
+    "明治"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/牛鍋"
+   ],
+   "confidence": "medium",
+   "prompt_en": "A small iron pot of gyunabe, thinly sliced beef simmering with leeks, tofu and shiitake in dark soy-sweet broth, a raw egg in a small dish beside, steam rising, wooden table, warm low light, no text"
+  },
+  {
+   "title_zh": "那不勒斯義大利麵",
+   "title_ja": "ナポリタン",
+   "category": "麵飯",
+   "summary_zh": "橫濱飯店發祥說的番茄醬炒義大利麵。",
+   "body_zh": "據維基百科，那不勒斯義大利麵（ナポリタン）傳說由橫濱ホテルニューグランド的第二任主廚入江茂忠所創，在戰後見到美軍吃番茄醬拌麵，改用自製番茄醬汁、火腿、青椒與蘑菇。是日本獨有的西式麵食。常見食材為洋蔥、青椒、培根和番茄醬，煮軟的麵先拌油冷藏隔夜再炒，造成特有的軟Q口感。",
+   "facts": [
+    {
+     "label": "起源",
+     "value": "戰後橫濱ホテルニューグランド入江茂忠所創（傳說）"
+    },
+    {
+     "label": "主要食材",
+     "value": "義大利麵、洋蔥、青椒、培根、番茄醬"
+    },
+    {
+     "label": "吃法",
+     "value": "趁熱食用"
+    }
+   ],
+   "season_zh": "全年",
+   "where_zh": "橫濱老牌洋食店與酒店餐廳",
+   "tags": [
+    "義大利麵",
+    "橫濱",
+    "洋食",
+    "番茄醬"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/ナポリタン"
+   ],
+   "confidence": "medium",
+   "prompt_en": "A single plate of Japanese Napolitan spaghetti, ketchup-red noodles stir-fried with sliced onion, green pepper and sausage, served on a white oval plate with a fork, warm cafe table light, no text"
+  },
+  {
+   "title_zh": "鴿子酥餅",
+   "title_ja": "鳩サブレー",
+   "category": "甜點和菓子",
+   "summary_zh": "鎌倉豐島屋的鴿形奶油酥餅，1894年起售。",
+   "body_zh": "鴿子酥餅是鎌倉代表伴手禮。據維基百科，豐島屋於1894年（明治27年）推出，1921年前後因兒科醫生推薦為「斷奶期幼兒的理想點心」而廣為人知。材料為小麥粉、奶油、雞蛋與砂糖，用有鹽奶油，配方自創業起少有改變。鴿子造型來自創辦人久保久次郎所敬仰的鶴岡八幡宮，名稱Sablé來自船長辨認的法國餅乾。",
+   "facts": [
+    {
+     "label": "起源",
+     "value": "1894年鎌倉豐島屋"
+    },
+    {
+     "label": "主要食材",
+     "value": "小麥粉、有鹽奶油、雞蛋、砂糖"
+    },
+    {
+     "label": "吃法",
+     "value": "直接食用，常作鎌倉伴手禮"
+    }
+   ],
+   "season_zh": "全年",
+   "where_zh": "鎌倉小町通及豐島屋門市",
+   "tags": [
+    "酥餅",
+    "鎌倉",
+    "伴手禮",
+    "鴿子"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/鳩サブレー"
+   ],
+   "confidence": "medium",
+   "prompt_en": "A single pigeon-shaped golden baked sable cookie lying on a small plain plate, with visible embossed wing and eye details, soft natural light, wooden table, no text"
+  }
+ ]
+}

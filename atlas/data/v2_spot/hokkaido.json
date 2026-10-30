@@ -1,0 +1,157 @@
+{
+  "id": "hokkaido",
+  "spots": [
+    {
+      "title_zh": "五稜郭",
+      "title_ja": "五稜郭",
+      "category": "城郭史蹟",
+      "area_zh": "函館市",
+      "summary_zh": "江戶末期建成的星形西洋式要塞，箱館戰爭舊幕府軍據點",
+      "body_zh": "五稜郭位於函館市，1857至1866年由江戶幕府興建，是呈五角星形的西洋式要塞，面積約12萬平方米，四周環繞護城河與土壘。戊辰戰爭期間，榎本武揚率領的舊幕府軍於1868年10月佔據此地作為主要據點，1869年5月投降。園內有2010年復原的箱館奉行所，以及江戶時代唯一留存的火藥庫，約1,600棵櫻樹使春季成為賞花名所，五稜郭塔可俯瞰星形全貌。",
+      "facts": [
+        {"label": "所在地", "value": "北海道函館市"},
+        {"label": "開創／成因", "value": "1857至1866年由江戶幕府建成，為星形要塞"},
+        {"label": "看點", "value": "復原箱館奉行所、火藥庫、約1,600棵櫻樹、五稜郭塔（107米）"}
+      ],
+      "best_season_zh": "春季（櫻花）、冬季（雪景）",
+      "tips_zh": "想看到完整星形，可登上五稜郭塔俯瞰；春季賞櫻期人潮較多，建議早上前往。交通可搭函館市電到五稜郭公園前站再步行約15分鐘。",
+      "tags": ["星形要塞", "戊辰戰爭", "賞櫻", "特別史蹟"],
+      "sources": ["https://ja.wikipedia.org/wiki/五稜郭"],
+      "confidence": "high",
+      "prompt_en": "Aerial view from an observation tower looking down on a star-shaped Edo-period fortress surrounded by a moat, spring afternoon with pink cherry blossoms lining the ramparts, soft golden light, foreground tower railing blur, midground star-shaped moat and earthen walls, background Hakodate city and distant mountains, no text, no signs, no recognizable people"
+    },
+    {
+      "title_zh": "小樽運河",
+      "title_ja": "小樽運河",
+      "category": "街區古鎮",
+      "area_zh": "小樽市",
+      "summary_zh": "1923年完工的填海式運河，倉庫群與瓦斯燈夜景",
+      "body_zh": "小樽運河位於小樽市，全長約1,140米，1923年完工，採取向海面填築的方式建成，被稱為日本唯一的同類運河，目的是讓駁船把貨物直接運到倉庫。戰後港口設施現代化，運河一度失去用途；1973年起市民發起保存運動，1986年達成折衷方案，一半填平成散步道、一半保留水面。如今沿岸有63盞瓦斯燈，夜間為石造與木造倉庫打光，倉庫改建成博物館、餐廳與商店。",
+      "facts": [
+        {"label": "所在地", "value": "北海道小樽市"},
+        {"label": "開創／成因", "value": "1923年完工，向海面填築而成，全長約1,140米"},
+        {"label": "看點", "value": "63盞瓦斯燈、夜間打光的倉庫群、改建店舖，另有遊船"}
+      ],
+      "best_season_zh": "冬季雪燈節期間及夏季傍晚",
+      "tips_zh": "傍晚到入夜是瓦斯燈與倉庫打光最好看的時段；運河旁有散步道，可慢慢走一圈再轉入倉庫改建的店舖。",
+      "tags": ["運河", "倉庫群", "瓦斯燈", "夜景"],
+      "sources": ["https://ja.wikipedia.org/wiki/小樽運河"],
+      "confidence": "high",
+      "prompt_en": "Historic canal lined with old stone and timber warehouses at blue hour, gas lamps glowing warm orange reflected on still water, light snow dusting the promenade in winter, foreground canal-side railing, midground curved canal, background illuminated warehouse facades, no text, no signs, no recognizable people"
+    },
+    {
+      "title_zh": "知床半島",
+      "title_ja": "知床半島",
+      "category": "海島海岸",
+      "area_zh": "斜里町・羅臼町",
+      "summary_zh": "2005年登錄世界自然遺產，擁有流冰與高密度棕熊",
+      "body_zh": "知床半島伸入鄂霍次克海，橫跨斜里町與羅臼町，長約70公里，基部寬約25公里，山脈最高峰為羅臼岳（1,660.4米），山海之間平地極少。冬季流冰漂來，形成從冰藻、浮游生物到海洋哺乳類與陸上動物的獨特食物鏈，這裡也是同緯度全球最南的季節性結冰海域。半島棲息棕熊密度居世界級水準，還有白尾海鵰與多種鯨類，2005年登錄為世界自然遺產。",
+      "facts": [
+        {"label": "所在地", "value": "北海道斜里町・羅臼町"},
+        {"label": "開創／成因", "value": "2005年登錄世界自然遺產，冬季流冰造就獨特食物鏈"},
+        {"label": "看點", "value": "羅臼岳（1,660.4米）、流冰、棕熊與鯨類等野生動物"}
+      ],
+      "best_season_zh": "冬季（流冰）、夏秋季（野生動物與山景）",
+      "tips_zh": "半島有棕熊出沒，入山步行請遵守當地規定並留意最新開放資訊。東側羅臼與西側斜里氣候不同，行程前先查天氣。",
+      "tags": ["世界自然遺產", "流冰", "棕熊", "半島"],
+      "sources": ["https://ja.wikipedia.org/wiki/知床半島"],
+      "confidence": "high",
+      "prompt_en": "Rugged Shiretoko peninsula coastline with steep forested mountains plunging into the Sea of Okhotsk, late winter drift ice floating near shore, low golden sunrise light, foreground ice floes, midground rocky coast, background snow-capped ridge, no text, no signs, no recognizable people"
+    },
+    {
+      "title_zh": "青池",
+      "title_ja": "青い池",
+      "category": "自然絕景",
+      "area_zh": "美瑛町",
+      "summary_zh": "防泥流堤壩意外形成的乳藍色水池，枯樹立於水中",
+      "body_zh": "青池位於美瑛町白金，是為防範十勝岳1988年噴發可能引發的泥流災害而建的混凝土堤壩，1989年壩後積水意外形成的人工池。池水含氫氧化鋁微粒，使陽光散射而呈獨特的藍色，水中立著枯死的落葉松與白樺。攝影師高橋真澄1997年拍下後，1998年出版的攝影集讓此地廣為人知，蘋果也曾用其影像作桌布。距美瑛站約18公里，離白金溫泉約2.5公里。",
+      "facts": [
+        {"label": "所在地", "value": "北海道上川郡美瑛町白金"},
+        {"label": "開創／成因", "value": "1989年防泥流堤壩積水，水中氫氧化鋁使光線散射成藍色"},
+        {"label": "看點", "value": "水中枯樹、藍色水面、冬季點燈"}
+      ],
+      "best_season_zh": "晴天無風的夏季；冬季有點燈活動",
+      "tips_zh": "水色會隨天氣、光線與季節變化，晴朗無風時水面最藍也最能映出倒影。2016年颱風曾令道路封閉，出發前先查最新開放情況。",
+      "tags": ["藍色水池", "枯樹", "美瑛", "人工形成"],
+      "sources": ["https://ja.wikipedia.org/wiki/青い池"],
+      "confidence": "high",
+      "prompt_en": "Still milky turquoise-blue pond with dead larch tree trunks standing in the water, calm clear summer morning, soft diffused light, foreground water surface reflections, midground bare trunks, background green forest edge, no text, no signs, no recognizable people"
+    },
+    {
+      "title_zh": "登別地獄谷",
+      "title_ja": "登別温泉・地獄谷",
+      "category": "溫泉",
+      "area_zh": "登別市",
+      "summary_zh": "日和山爆裂火口形成，噴氣與溫泉景觀的登別溫泉主景",
+      "body_zh": "地獄谷是登別溫泉的主要景點，是日和山噴發形成的爆裂火口，谷內可見噴氣孔與冒出的溫泉，沿步道即可近看。登別溫泉位於登別市，距登別站約6公里，湧出硫磺泉、食鹽泉、明礬泉、鐵泉等多種泉質，每日湧出約一萬噸、水溫45至90度，有「溫泉百貨公司」之稱。1858年起設有溫泉旅宿，1905年成為傷兵療養地，後來由栗林五朔推動擴建，1927年入選日本百景。",
+      "facts": [
+        {"label": "所在地", "value": "北海道登別市登別溫泉"},
+        {"label": "開創／成因", "value": "日和山噴發形成的爆裂火口，地獄谷有噴氣孔與溫泉"},
+        {"label": "看點", "value": "步道近看噴氣、大湯沼、多種泉質"}
+      ],
+      "best_season_zh": "全年；秋季紅葉及冬季雪景皆宜",
+      "tips_zh": "地獄谷附近有硫磺氣體與高溫地面，請沿步道行走並留意現場告示。可順道走到大湯沼一帶，並安排入住泡湯。",
+      "tags": ["火口地形", "噴氣", "多種泉質", "日本百景"],
+      "sources": ["https://ja.wikipedia.org/wiki/登別温泉"],
+      "confidence": "high",
+      "prompt_en": "Steaming volcanic valley with bare grey and ochre slopes and white fumaroles rising, autumn red foliage on surrounding hills, overcast soft light, foreground wooden boardwalk edge, midground steaming vents, background forested ridge, no text, no signs, no recognizable people"
+    },
+    {
+      "title_zh": "旭岳",
+      "title_ja": "旭岳",
+      "category": "山岳高原",
+      "area_zh": "東川町（大雪山國立公園）",
+      "summary_zh": "海拔2,291米的北海道最高峰，活火山與高山花園",
+      "body_zh": "旭岳位於東川町，標高2,291米，是北海道最高峰，屬於大雪山火山群的成層火山，位於大雪山國立公園內。西坡有仍在噴氣的爆裂火口「地獄谷」。旭岳纜車可上到海拔約1,600米的姿見站，周圍的姿見之池一帶生長高山植物，全山記錄約250種。從纜車站步行登頂約需2.5小時。愛努人視此地為神聖之處，稱之為「ヌタㇷ゚カムイシㇼ」。",
+      "facts": [
+        {"label": "所在地", "value": "北海道上川郡東川町（大雪山國立公園）"},
+        {"label": "開創／成因", "value": "大雪山火山群的成層火山，標高2,291米"},
+        {"label": "看點", "value": "旭岳纜車、姿見之池、噴氣的地獄谷、高山植物"}
+      ],
+      "best_season_zh": "夏季高山植物期、秋季紅葉",
+      "tips_zh": "山上氣溫比山下低，天氣變化快，登山請帶保暖與防雨裝備。從纜車姿見站走到姿見之池為輕鬆路線，登頂約需2.5小時。",
+      "tags": ["北海道最高峰", "成層火山", "纜車", "高山植物"],
+      "sources": ["https://ja.wikipedia.org/wiki/旭岳"],
+      "confidence": "high",
+      "prompt_en": "Smoking volcanic summit of a high mountain rising above alpine meadow and a small calm pond, early autumn colors, crisp clear morning light, foreground low alpine shrubs, midground still pond reflection, background steaming peak, no text, no signs, no recognizable people"
+    },
+    {
+      "title_zh": "大通公園",
+      "title_ja": "大通公園",
+      "category": "庭園公園",
+      "area_zh": "札幌市中央區",
+      "summary_zh": "札幌市中心東西長約1.5公里的帶狀公園，雪祭主場",
+      "body_zh": "大通公園位於札幌市中央區，東西長約1.5公里、面積7.89公頃。1871年由開拓使官員岩村通俊設為防火線，寬105米，用來隔開北側官署與南側民居，名稱在1881年定為「大通」。園內有1957年落成的札幌電視塔，以及野口勇1993年設計的雕塑「黑色滑梯」。每年2月的札幌雪祭、5月的紫丁香祭、6月的YOSAKOI索朗祭都在此舉行。",
+      "facts": [
+        {"label": "所在地", "value": "北海道札幌市中央區"},
+        {"label": "開創／成因", "value": "1871年作為防火線設置，寬105米"},
+        {"label": "看點", "value": "札幌電視塔、野口勇雕塑、雪祭與紫丁香祭"}
+      ],
+      "best_season_zh": "2月（雪祭）、5月（紫丁香）",
+      "tips_zh": "公園把札幌市中心南北分開，北側是官署與企業總部，南側是商店街與薄野，適合邊逛邊在兩側穿梭。活動期間人潮多，建議錯開尖峰。",
+      "tags": ["雪祭", "札幌電視塔", "防火線", "都市公園"],
+      "sources": ["https://ja.wikipedia.org/wiki/大通公園"],
+      "confidence": "high",
+      "prompt_en": "Long tree-lined urban park strip in a northern Japanese city with a lattice red-and-white broadcasting tower at one end, fresh green leaves in early summer, bright late-afternoon light, foreground flowerbeds and fountain spray, midground wide promenade, background tower and city buildings, no text, no signs, no recognizable people"
+    },
+    {
+      "title_zh": "洞爺湖",
+      "title_ja": "洞爺湖",
+      "category": "自然絕景",
+      "area_zh": "洞爺湖町・壯瞥町",
+      "summary_zh": "約10萬年前火山噴發形成的火口湖，湖中央有中島",
+      "body_zh": "洞爺湖橫跨洞爺湖町與壯瞥町，面積為日本第九大湖，也是第三大破火山口湖，最大水深180米。約10.6至10.9萬年前發生伴隨洞爺火碎流的大噴發，形成洞爺破火山口。湖心的中島實為四座島，由約5萬年前的火山活動形成。這裡與有珠山、昭和新山一帶合稱洞爺湖有珠山地質公園，2009年登錄為世界地質公園，2008年曾是八大工業國高峰會的舉辦地。",
+      "facts": [
+        {"label": "所在地", "value": "北海道洞爺湖町・壯瞥町"},
+        {"label": "開創／成因", "value": "約10.6至10.9萬年前洞爺火碎流噴發形成的破火山口湖"},
+        {"label": "看點", "value": "湖心中島、有珠山、昭和新山、溫泉區"}
+      ],
+      "best_season_zh": "夏季（湖光）、秋季",
+      "tips_zh": "湖周有溫泉街，可搭配有珠山與昭和新山一併遊覽。有珠山仍是活火山，行程前請留意當地最新公告。",
+      "tags": ["破火山口湖", "世界地質公園", "中島", "火山"],
+      "sources": ["https://ja.wikipedia.org/wiki/洞爺湖"],
+      "confidence": "high",
+      "prompt_en": "Wide calm caldera lake with forested islands at its center and an active volcano ridge on the far shore, clear early summer evening, warm low sunlight, foreground lake edge ripples, midground wooded islands, background volcanic mountains and soft clouds, no text, no signs, no recognizable people"
+    }
+  ]
+}

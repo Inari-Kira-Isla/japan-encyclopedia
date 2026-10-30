@@ -1,0 +1,285 @@
+{
+  "id": "okayama",
+  "spots": [
+    {
+      "title_zh": "後樂園",
+      "title_ja": "後楽園",
+      "category": "庭園公園",
+      "area_zh": "岡山市北區",
+      "summary_zh": "日本三名園之一，旭川中洲的池泉回遊式大名庭園。",
+      "body_zh": "後樂園位於岡山市，與岡山城隔旭川相望，是日本三名園之一，也是國家特別名勝，面積14.4公頃。由岡山藩主池田綱政命津田永忠營造，1687年動工，歷時14年於1700年完成，代表元祿文化。庭園以招待賓客的建築「延養亭」為中心，是池泉回遊式庭園，並把岡山城與周邊山景納入借景。1871年起向一般人開放並定名為後樂園。",
+      "facts": [
+        {
+          "label": "所在地",
+          "value": "岡山縣岡山市北區，旭川中洲"
+        },
+        {
+          "label": "開創／成因",
+          "value": "池田綱政下令，1687年動工、1700年完成"
+        },
+        {
+          "label": "看點",
+          "value": "延養亭、池泉回遊式庭園與岡山城借景"
+        }
+      ],
+      "best_season_zh": "新綠、紅葉；晴天清晨最舒服",
+      "tips_zh": "園區範圍廣，沿回遊路線慢走約需一至兩小時；可順路參觀對岸的岡山城。園內草坪與步道寬闊，春季賞櫻與秋季賞楓人潮較多，宜選平日。",
+      "tags": [
+        "日本三名園",
+        "大名庭園",
+        "池泉回遊式",
+        "特別名勝"
+      ],
+      "sources": [
+        "https://ja.wikipedia.org/wiki/岡山後楽園"
+      ],
+      "confidence": "medium",
+      "prompt_en": "Spacious Japanese stroll garden with a wide lawn, a pond with small islands and arched stone lanterns, a thatched teahouse at the water edge, a dark castle keep faintly visible beyond the trees as borrowed scenery, soft early morning light, no people, no text, no signs"
+    },
+    {
+      "title_zh": "倉敷美觀地區",
+      "title_ja": "倉敷美観地区",
+      "category": "街區古鎮",
+      "area_zh": "倉敷市",
+      "summary_zh": "倉敷川畔的白壁海參壁天領町並，重要傳統建造物群保存地區。",
+      "body_zh": "倉敷美觀地區位於倉敷市，廣義範圍約21公頃，其中倉敷川周邊列為國家重要傳統建造物群保存地區。1642年江戶幕府將此地劃為天領並設倉敷代官所，之後成為備中南部的物資集散地。倉敷川畔白壁、海參壁的宅邸與倉庫並列，保留天領時代的樣貌。1930年建成的大原美術館是日本最早的西洋美術館，舊紡織工場改建的倉敷常春藤廣場也是代表建築。",
+      "facts": [
+        {
+          "label": "所在地",
+          "value": "岡山縣倉敷市本町周邊，倉敷川畔"
+        },
+        {
+          "label": "開創／成因",
+          "value": "1642年成為幕府天領，設倉敷代官所"
+        },
+        {
+          "label": "看點",
+          "value": "白壁海參壁倉庫群、倉敷川與大原美術館"
+        }
+      ],
+      "best_season_zh": "全年；新綠與傍晚點燈時段氣氛佳",
+      "tips_zh": "適合步行，傍晚水面倒影最美；週末人多，想拍乾淨畫面宜早到。運河遊船與老街小店很多，建議預留半天慢逛，穿舒適鞋子。",
+      "tags": [
+        "白壁",
+        "天領",
+        "倉敷川",
+        "傳建地區"
+      ],
+      "sources": [
+        "https://ja.wikipedia.org/wiki/倉敷美観地区"
+      ],
+      "confidence": "medium",
+      "prompt_en": "Quiet canal flanked by white plastered storehouses with black-and-white lattice wall patterns, weeping willows trailing over still water, a small stone bridge and a traditional flat-bottomed boat, soft dusk light with warm lamps beginning to glow, no people, no text, no signs"
+    },
+    {
+      "title_zh": "備中松山城",
+      "title_ja": "備中松山城",
+      "category": "城郭史蹟",
+      "area_zh": "高梁市",
+      "summary_zh": "日本唯一現存的山城天守，立於臥牛山小松山。",
+      "body_zh": "備中松山城位於岡山縣高梁市，是日本百名城之一，也是現存十二天守中唯一的山城。城建於臥牛山，現存天守所在的小松山標高約430公尺，城跡為國家史蹟，天守、二重櫓與土牆的一部分是重要文化財。1240年秋庭重信築起最初的城，江戶時代水谷勝宗在1681至1683年大修築，奠定今日面貌。城下仍可想像山上詰之城與山腳藩主居所並用的構造。",
+      "facts": [
+        {
+          "label": "所在地",
+          "value": "岡山縣高梁市內山下，臥牛山"
+        },
+        {
+          "label": "開創／成因",
+          "value": "1240年起築，1681至1683年水谷氏大修築"
+        },
+        {
+          "label": "看點",
+          "value": "唯一現存山城天守與山頂石垣"
+        }
+      ],
+      "best_season_zh": "秋季；有雲海的清晨尤佳",
+      "tips_zh": "登城路程約1.5公里、約1小時，需穿好走的鞋；旺季可能有接駁，行前查官方公告。秋冬清晨氣溫低，爬山前宜備保暖衣物，早出發可避開人潮。",
+      "tags": [
+        "現存天守",
+        "山城",
+        "百名城",
+        "高梁"
+      ],
+      "sources": [
+        "https://ja.wikipedia.org/wiki/備中松山城"
+      ],
+      "confidence": "medium",
+      "prompt_en": "Small dark-timbered castle keep perched on a steep forested mountain summit among stone walls, early autumn morning, low clouds drifting through the valley below, warm light on the ridgeline, layered misty hills behind, no people, no text, no modern structures"
+    },
+    {
+      "title_zh": "吉備津神社",
+      "title_ja": "吉備津神社",
+      "category": "神社寺院",
+      "area_zh": "岡山市北區",
+      "summary_zh": "備中國一宮，本殿為全國唯一的比翼入母屋造國寶。",
+      "body_zh": "吉備津神社位於岡山市北區，鎮座於神體山吉備之中山西北麓，是備中國一宮，主祭神為大吉備津彥命。本來是吉備國的總鎮守，吉備分為三國後成為備中一宮，備前、備後的一宮由此分靈。相傳足利義滿營造的本殿，是全國唯一的「比翼入母屋造（吉備津造）」，與拜殿同列國寶。另以聽釜鳴聲占吉凶的「鳴釜神事」聞名。",
+      "facts": [
+        {
+          "label": "所在地",
+          "value": "岡山縣岡山市北區吉備津"
+        },
+        {
+          "label": "開創／成因",
+          "value": "吉備國總鎮守，後為備中國一宮"
+        },
+        {
+          "label": "看點",
+          "value": "比翼入母屋造本殿、迴廊與鳴釜神事"
+        }
+      ],
+      "best_season_zh": "新綠與紅葉季；晨間氣氛最佳",
+      "tips_zh": "社殿沿山麓成長階梯與迴廊布局，建議慢行細看；祭典與神事日期以官方為準。迴廊長達約360公尺，行走平緩，適合慢慢拍照散步。",
+      "tags": [
+        "一宮",
+        "國寶",
+        "迴廊",
+        "鳴釜神事"
+      ],
+      "sources": [
+        "https://ja.wikipedia.org/wiki/吉備津神社"
+      ],
+      "confidence": "medium",
+      "prompt_en": "Large Shinto shrine hall with a distinctive double-gabled cypress-bark roof at the foot of a wooded hill, a long covered corridor stretching along the slope, ancient trees overhead, soft diffused morning light, mossy stone steps in the foreground, no people, no text, no signs"
+    },
+    {
+      "title_zh": "湯原溫泉",
+      "title_ja": "湯原温泉",
+      "category": "溫泉",
+      "area_zh": "真庭市湯原",
+      "summary_zh": "旭川河畔的露天浴場「砂湯」，自噴泉量豐富。",
+      "body_zh": "湯原溫泉位於岡山縣真庭市，溫泉街沿著湯原水壩下游的旭川展開，與湯鄉溫泉、奧津溫泉並稱美作三湯。15處源泉全是自噴泉，水溫40至44.9度，推測熱源來自鄰近伯耆大山與蒜山火山的岩漿。河床上的露天浴場「砂湯」曾被評為西之橫綱，是最具代表性的景點。南邊還有下湯原等溫泉，合稱湯原溫泉鄉，適合在山間河畔悠閒泡湯。",
+      "facts": [
+        {
+          "label": "所在地",
+          "value": "岡山縣真庭市湯原溫泉"
+        },
+        {
+          "label": "開創／成因",
+          "value": "15處自噴泉，熱源推測為大山、蒜山火山岩漿"
+        },
+        {
+          "label": "看點",
+          "value": "旭川河畔露天浴場「砂湯」"
+        }
+      ],
+      "best_season_zh": "秋冬泡湯尤佳",
+      "tips_zh": "砂湯為公共露天浴場，使用前請查開放時間與規則；可與蒜山高原同行程安排。露天浴場夜間氣溫低，冬季泡湯後注意保暖，並自備毛巾。",
+      "tags": [
+        "溫泉",
+        "露天風呂",
+        "美作三湯",
+        "旭川"
+      ],
+      "sources": [
+        "https://ja.wikipedia.org/wiki/湯原温泉"
+      ],
+      "confidence": "medium",
+      "prompt_en": "Open-air riverside hot spring bath set into a river bed beneath a small dam, steam rising into cool misty morning air, rocks and shallow flowing water in the foreground, forested hills with autumn color behind, a few wooden inn roofs on the bank, no people, no text, no signs"
+    },
+    {
+      "title_zh": "蒜山高原",
+      "title_ja": "蒜山高原",
+      "category": "山岳高原",
+      "area_zh": "真庭市北部",
+      "summary_zh": "蒜山三座下的高原，以澤西牛酪農與火山地形聞名。",
+      "body_zh": "蒜山高原位於岡山縣真庭市北部，是東西約20公里、南北約10公里、標高500至600公尺的台地，1936年納入大山國立公園（今大山隱岐國立公園）。約100萬年前火山活動形成蒜山三座，後來大山噴發堵住河流形成古蒜山原湖，湖水乾涸後成為今日的高原。戰後開墾後發展蘿蔔種植與酪農，飼養頭數居日本前列的澤西牛乳製品與蒜山炒麵是代表。",
+      "facts": [
+        {
+          "label": "所在地",
+          "value": "岡山縣真庭市北部，蒜山地方"
+        },
+        {
+          "label": "開創／成因",
+          "value": "約100萬年前火山活動形成蒜山三座，古湖乾涸成高原"
+        },
+        {
+          "label": "看點",
+          "value": "蒜山三座、高原牧場與澤西牛製品"
+        }
+      ],
+      "best_season_zh": "夏季避暑與新綠；秋季草原金黃",
+      "tips_zh": "高原景點分散，建議自駕或事先查好交通；可順遊鄰近的湯原溫泉。高原夏季涼爽但紫外線強，建議攜帶薄外套與防曬用品。",
+      "tags": [
+        "高原",
+        "酪農",
+        "火山地形",
+        "牧場"
+      ],
+      "sources": [
+        "https://ja.wikipedia.org/wiki/蒜山高原"
+      ],
+      "confidence": "medium",
+      "prompt_en": "Wide open highland pasture with three rounded mountain peaks standing in a row on the horizon, a few dairy cows grazing in the middle ground, rolling green grass in the foreground, cool summer morning light with soft clouds, no people, no text, no buildings in focus"
+    },
+    {
+      "title_zh": "鷲羽山",
+      "title_ja": "鷲羽山",
+      "category": "海島海岸",
+      "area_zh": "倉敷市下津井",
+      "summary_zh": "瀨戶內海國立公園名勝，可眺望瀨戶大橋與塩飽諸島。",
+      "body_zh": "鷲羽山位於倉敷市下津井，在兒島半島最南端附近，屬瀨戶內海國立公園，國家名勝「下津井鷲羽山」。名稱據說來自從東北方遠望，如同鷹展翅的形狀。山頂海拔133公尺，被德富蘇峰命名為「鍾秀峰」。山頂展望台可看到瀨戶大橋全景與備讚瀨戶上的塩飽諸島，往北則可望兒島市區，晴天遠至玉野市、高松市；山腰至山頂也有古墳分布。",
+      "facts": [
+        {
+          "label": "所在地",
+          "value": "岡山縣倉敷市下津井田之浦，兒島半島南端"
+        },
+        {
+          "label": "開創／成因",
+          "value": "瀨戶內海國立公園內，指定國家名勝"
+        },
+        {
+          "label": "看點",
+          "value": "瀨戶大橋全景與塩飽諸島"
+        }
+      ],
+      "best_season_zh": "晴天傍晚與日落時段",
+      "tips_zh": "展望台視野開闊，風強時請注意安全；日落前後光線最佳，行前查日落時間。展望台風大且山路有坡度，建議穿防滑鞋並避免強風日登高。",
+      "tags": [
+        "瀨戶大橋",
+        "瀨戶內海",
+        "展望台",
+        "國家名勝"
+      ],
+      "sources": [
+        "https://ja.wikipedia.org/wiki/鷲羽山"
+      ],
+      "confidence": "medium",
+      "prompt_en": "Elevated viewpoint over a calm inland sea at sunset with a long suspension bridge crossing between small forested islands in the distance, pine branches in the foreground, glowing orange-pink sky reflecting on the water, layered island silhouettes, no people, no text, no vehicles in focus"
+    },
+    {
+      "title_zh": "舊閑谷學校",
+      "title_ja": "旧閑谷学校",
+      "category": "城郭史蹟",
+      "area_zh": "備前市閑谷",
+      "summary_zh": "日本最古的庶民學校，講堂為國寶、備前燒瓦屋頂。",
+      "body_zh": "舊閑谷學校位於岡山縣備前市，是江戶前期由岡山藩主池田光政開設的庶民學校，被稱為日本最古老的「為庶民設立的學校」，整體為國家特別史蹟，講堂為國寶，另有小齋、飲室、文庫、聖廟等24棟為重要文化財。建築分兩期，花了32年完成，屋頂改用耐久的備前燒瓦，整備持續到1702年。兩棵巨大的楷樹與周邊楓樹，使這裡也是秋季賞楓名所。",
+      "facts": [
+        {
+          "label": "所在地",
+          "value": "岡山縣備前市閑谷"
+        },
+        {
+          "label": "開創／成因",
+          "value": "池田光政開設的岡山藩庶民學校，歷32年建成"
+        },
+        {
+          "label": "看點",
+          "value": "國寶講堂、備前燒瓦屋頂與楷樹、紅葉"
+        }
+      ],
+      "best_season_zh": "秋季紅葉",
+      "tips_zh": "講堂地板與柱子保養精細，參觀時請依規定脫鞋、勿觸摸；紅葉季人潮較多。木造講堂地板珍貴，參觀請放輕腳步，秋季紅葉期建議早到。",
+      "tags": [
+        "學校史蹟",
+        "國寶",
+        "備前燒",
+        "紅葉"
+      ],
+      "sources": [
+        "https://ja.wikipedia.org/wiki/旧閑谷学校"
+      ],
+      "confidence": "medium",
+      "prompt_en": "Traditional Japanese lecture hall with a long sweeping roof of glazed dark-brown tiles, a low stone wall curving along the lawn in front, red and golden maple trees framing the building, soft autumn afternoon light, polished wooden veranda, no people, no text, no signs"
+    }
+  ]
+}

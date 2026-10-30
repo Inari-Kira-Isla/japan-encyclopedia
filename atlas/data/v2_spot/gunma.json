@@ -1,0 +1,157 @@
+{
+  "id": "gunma",
+  "spots": [
+    {
+      "title_zh": "草津溫泉・湯畑",
+      "title_ja": "草津温泉",
+      "category": "溫泉",
+      "area_zh": "吾妻郡草津町",
+      "summary_zh": "日本湧出量第一的強酸性名泉，湯畑為溫泉街象徵。",
+      "body_zh": "草津溫泉位於群馬縣吾妻郡草津町、草津白根山東麓，泉質為強酸性硫磺泉，pH約1.0至2.2，每分鐘湧出量超過三萬公升，被稱為日本第一。溫泉街中心的湯畑以木製湯樋引導高溫泉水散熱，並採集礦物結晶湯之花；傳統的湯揉以木板攪動泉水降溫。室町時代已被列入日本三名泉，名稱相傳源自硫化氫的濃烈氣味。",
+      "facts": [
+        {"label": "所在地", "value": "群馬縣吾妻郡草津町，草津白根山東麓"},
+        {"label": "開創／成因", "value": "名稱相傳源自硫化氫氣味；室町時代被列為日本三名泉之一"},
+        {"label": "看點", "value": "湯畑木製湯樋、湯揉傳統入浴法、強酸性硫磺泉"}
+      ],
+      "best_season_zh": "秋冬",
+      "tips_zh": "泉質酸性強，入浴時間宜短並充分沖水。可由JR長野原草津口站轉巴士約30分鐘，或從新宿搭高速巴士直達。",
+      "tags": ["名泉", "湯畑", "湯揉", "酸性泉"],
+      "sources": ["https://ja.wikipedia.org/wiki/草津温泉"],
+      "confidence": "medium",
+      "prompt_en": "Wide view of a Japanese hot spring town centered on a long wooden trough channel steaming gently in a sunken plaza, stone steps and wooden inns around it, cool autumn dusk, warm lantern-lit windows, steam in the foreground, dark mountain slope behind, no text or signs, no recognizable people"
+    },
+    {
+      "title_zh": "尾瀨",
+      "title_ja": "尾瀬",
+      "category": "自然絕景",
+      "area_zh": "群馬縣（與福島、栃木、新潟四縣交界）",
+      "summary_zh": "日本最大山地濕原，以木道與水芭蕉聞名。",
+      "body_zh": "尾瀨是橫跨福島、栃木、群馬、新潟四縣的高原盆地，擁有日本最大的山地濕原尾瀨原，以及火山口形成的尾瀨沼。濕原生長水芭蕉與水苔等珍貴植物群落，2005年登錄拉姆薩爾濕地，2007年成為獨立的國立公園。1972年起推行「垃圾帶走」運動，成為自然保育典範；園內木道長約60公里，保護脆弱濕地。",
+      "facts": [
+        {"label": "所在地", "value": "福島、栃木、群馬、新潟四縣交界的高原盆地"},
+        {"label": "開創／成因", "value": "1934年納入日光國立公園，2007年獨立為尾瀨國立公園"},
+        {"label": "看點", "value": "尾瀨原濕原、尾瀨沼、水芭蕉、約60公里木道"}
+      ],
+      "best_season_zh": "6月水芭蕉、9至10月草紅葉",
+      "tips_zh": "濕原內禁止車輛，須徒步進入，鳩待峠入口最多人使用。請依「垃圾帶走」原則自備垃圾袋，並準備防寒衣物。",
+      "tags": ["濕原", "水芭蕉", "木道", "拉姆薩爾"],
+      "sources": ["https://ja.wikipedia.org/wiki/尾瀬"],
+      "confidence": "medium",
+      "prompt_en": "Expansive high-altitude marsh with a long wooden boardwalk curving through golden grasses, small pools reflecting a pale blue sky, distant forested mountains, early summer morning light with soft mist, boardwalk in the foreground, no text, no recognizable people"
+    },
+    {
+      "title_zh": "富岡製絲廠",
+      "title_ja": "富岡製糸場",
+      "category": "城郭史蹟",
+      "area_zh": "富岡市",
+      "summary_zh": "明治初年官營模範繅絲廠，世界遺產。",
+      "body_zh": "富岡製絲廠位於群馬縣富岡市，創業於1872年。開國後生絲出口激增，卻因粗製濫造損害國際評價，明治政府遂設立官營模範工廠，引進法國技術與設備。主要建築為木骨磚造，繅絲所長約140公尺，設計者為法國人巴斯蒂安，另有直徑15公尺、被稱為現存最古老的國產鐵構造物的貯水槽。2014年登錄世界遺產「富岡製絲廠與絹產業遺產群」。",
+      "facts": [
+        {"label": "所在地", "value": "群馬縣富岡市富岡1番地1"},
+        {"label": "開創／成因", "value": "1872年由明治政府設立的官營模範工廠"},
+        {"label": "看點", "value": "木骨磚造繅絲所、東西置繭所、2014年登錄世界遺產"}
+      ],
+      "best_season_zh": "四季皆宜",
+      "tips_zh": "提供約40分鐘的定時導覽，富岡市民免費、其他人需購票；詳細票價與時間請查官方網站。",
+      "tags": ["世界遺產", "明治", "絹產業", "紅磚建築"],
+      "sources": ["https://ja.wikipedia.org/wiki/富岡製糸場"],
+      "confidence": "medium",
+      "prompt_en": "Long two-story brick-and-timber 19th-century silk mill building with a tiled roof, symmetrical facade seen from a courtyard, clear spring afternoon, soft side light, gravel ground in the foreground, tall trees behind, no text or signs, no recognizable people"
+    },
+    {
+      "title_zh": "伊香保溫泉・石階街",
+      "title_ja": "伊香保温泉",
+      "category": "街區古鎮",
+      "area_zh": "澀川市伊香保町",
+      "summary_zh": "以365級石階為象徵的山腰溫泉街。",
+      "body_zh": "伊香保溫泉位於群馬縣澀川市，溫泉街以傳說共有365級的石階為象徵，兩側旅館與商店沿坡而建。這裡有含鐵、呈茶褐色的「黃金之湯」，以及另一種「白銀之湯」。據當地傳說，溫泉開湯可追溯至垂仁天皇時代，戰國時代則曾作為傷兵療養地；石階街的格局由此發展而來。1910年相傳在此誕生了「湯之花饅頭」。",
+      "facts": [
+        {"label": "所在地", "value": "群馬縣澀川市伊香保町"},
+        {"label": "開創／成因", "value": "傳說開湯於垂仁天皇時代，戰國時代為傷兵療養地"},
+        {"label": "看點", "value": "365級石階街、黃金之湯與白銀之湯、湯之花饅頭"}
+      ],
+      "best_season_zh": "秋季",
+      "tips_zh": "石階陡峭，建議穿好走的鞋。可由東京搭高速巴士約2.5小時，或在JR澀川站轉乘巴士。",
+      "tags": ["石階街", "黃金之湯", "溫泉街", "昭和氛圍"],
+      "sources": ["https://ja.wikipedia.org/wiki/伊香保温泉"],
+      "confidence": "medium",
+      "prompt_en": "Long stone staircase street climbing a mountain slope lined with traditional wooden inns and shops, lanterns glowing, light steam rising, autumn leaves on the sides, dusk blue hour, view looking up the stairs from the bottom, no text or signs, no recognizable people"
+    },
+    {
+      "title_zh": "榛名神社",
+      "title_ja": "榛名神社",
+      "category": "神社寺院",
+      "area_zh": "高崎市榛名山町",
+      "summary_zh": "建於榛名山麓奇岩之間的古社。",
+      "body_zh": "榛名神社位於高崎市，坐落於上毛三山之一的榛名山。祭祀火神火產靈神與土神埴山姬等神明，相傳創建於公元586年，927年的《延喜式》已有記載。2005年包括本殿（1806年）、神樂殿（1764年）與雙龍門（1856年）在內的六棟建築被指定為重要文化財。本殿與巨岩御姿岩合為一體，另有一株高約55公尺的神木為國家天然紀念物。",
+      "facts": [
+        {"label": "所在地", "value": "群馬縣高崎市，榛名山（上毛三山之一）"},
+        {"label": "開創／成因", "value": "傳說創建於586年；927年《延喜式》已有記載"},
+        {"label": "看點", "value": "與巨岩一體的本殿、雙龍門、六棟重要文化財、神木"}
+      ],
+      "best_season_zh": "新綠與紅葉季",
+      "tips_zh": "參道需走一段坡路與石階，建議預留1至2小時並穿防滑鞋。前往交通請查榛名山一帶巴士與自駕資訊。",
+      "tags": ["奇岩", "重要文化財", "山岳信仰", "上毛三山"],
+      "sources": ["https://ja.wikipedia.org/wiki/榛名神社"],
+      "confidence": "medium",
+      "prompt_en": "Ancient shrine hall tucked beneath towering vertical rock cliffs in a cedar forest, moss-covered stone steps and a red-lacquered gate in the middle ground, dappled morning light through trees, mist, rock face in the background, no text or signs, no recognizable people"
+    },
+    {
+      "title_zh": "吹割瀑布",
+      "title_ja": "吹割の滝",
+      "category": "自然絕景",
+      "area_zh": "沼田市",
+      "summary_zh": "片品川上被稱為「東洋尼加拉瓜」的橫向大瀑布。",
+      "body_zh": "吹割瀑布位於沼田市片品川，高約7公尺、寬約30公尺，河水沿V字形岩縫從三個方向匯流，因此被稱為「東洋的尼加拉瓜」。岩盤為約900萬年前火山噴發形成的熔結凝灰岩，被河水侵蝕出深溝。1936年被指定為名勝及天然紀念物，並入選日本瀑布百選。下游尚有鱒飛瀑布，沿線步道可近看般若岩、獅子岩等奇岩。",
+      "facts": [
+        {"label": "所在地", "value": "群馬縣沼田市，片品川（利根川水系）"},
+        {"label": "開創／成因", "value": "約900萬年前火山噴發形成的熔結凝灰岩被河水侵蝕"},
+        {"label": "看點", "value": "高7公尺寬30公尺、鱒飛瀑布、般若岩與獅子岩"}
+      ],
+      "best_season_zh": "新綠與紅葉季",
+      "tips_zh": "從沼田站搭巴士約45分鐘，或由沼田IC走國道120號約20公里。步道旁岩面濕滑，請小心行走。",
+      "tags": ["瀑布", "熔結凝灰岩", "名勝", "天然紀念物"],
+      "sources": ["https://ja.wikipedia.org/wiki/吹割の滝"],
+      "confidence": "medium",
+      "prompt_en": "Wide low waterfall cascading into a deep V-shaped gorge cut into dark volcanic rock, water rushing from several directions, wooden viewing path along the cliff edge, soft diffused light on a cloudy autumn day, spray in the foreground, forest in the background, no text, no recognizable people"
+    },
+    {
+      "title_zh": "谷川岳",
+      "title_ja": "谷川岳",
+      "category": "山岳高原",
+      "area_zh": "利根郡水上町",
+      "summary_zh": "群馬與新潟縣界的雙耳峰，日本百名山之一。",
+      "body_zh": "谷川岳位於群馬縣水上町與新潟縣湯澤町交界，屬三國山脈，由標高1,977公尺的奧之耳與1,963公尺的トマの耳兩座山峰組成，形成雙耳般的山形，入選日本百名山。山上岩壁陡峭，被視為難度極高的攀登對象，1931年至2012年間記錄的遇難者約805人，因此有「魔之山」之稱。1960年底起有谷川岳纜車通行，上越線土合站是常見登山口。",
+      "facts": [
+        {"label": "所在地", "value": "群馬縣水上町與新潟縣湯澤町交界，三國山脈"},
+        {"label": "開創／成因", "value": "雙耳峰：奧之耳1,977公尺、トマの耳1,963公尺"},
+        {"label": "看點", "value": "日本百名山、陡峭岩壁、谷川岳纜車"}
+      ],
+      "best_season_zh": "夏季至初秋",
+      "tips_zh": "山區天氣變化急劇，須備齊裝備並查看天氣預報。可搭纜車縮短上山時間，不熟悉山路者不宜勉強攀登岩壁路線。",
+      "tags": ["百名山", "雙耳峰", "纜車", "登山"],
+      "sources": ["https://ja.wikipedia.org/wiki/谷川岳"],
+      "confidence": "medium",
+      "prompt_en": "Twin-peaked rugged mountain with steep rocky faces rising above green alpine slopes, summer morning with scattered clouds, a ridge trail in the foreground, deep valley in the middle, crisp blue sky, no text, no recognizable people"
+    },
+    {
+      "title_zh": "樂山園",
+      "title_ja": "楽山園",
+      "category": "庭園公園",
+      "area_zh": "甘樂郡甘樂町",
+      "summary_zh": "織田信雄建造的大名池泉回遊式庭園，國家名勝。",
+      "body_zh": "樂山園位於甘樂町，是江戶時代初期由織田信長次子織田信雄所建的大名庭園。園名取自《論語》「智者樂水，仁者樂山」。庭園以名為昆明的大水池為中心，屬池泉回遊式，並借景遠方的熊倉山與紅葉山。2000年成為群馬縣首個國家指定名勝，2012年完成復原整備後正式開放。入園費高中生以上300日圓，中學生以下免費。",
+      "facts": [
+        {"label": "所在地", "value": "群馬縣甘樂郡甘樂町"},
+        {"label": "開創／成因", "value": "江戶初期由織田信雄建造，2000年指定為國家名勝"},
+        {"label": "看點", "value": "昆明池為中心的池泉回遊式庭園、借景遠山"}
+      ],
+      "best_season_zh": "新綠與紅葉季",
+      "tips_zh": "開園時間約9至17時（11至2月至16時），門票高中生以上300日圓；以官方公告為準，可順遊富岡製絲廠。",
+      "tags": ["大名庭園", "池泉回遊式", "國家名勝", "借景"],
+      "sources": ["https://ja.wikipedia.org/wiki/楽山園"],
+      "confidence": "medium",
+      "prompt_en": "Japanese stroll garden with a large pond, carefully arranged stones, pine trees and a small thatched pavilion, distant mountains borrowed as scenery, late afternoon golden light, still water reflecting autumn foliage, stepping stones in the foreground, no text, no recognizable people"
+    }
+  ]
+}

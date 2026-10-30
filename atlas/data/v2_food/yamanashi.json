@@ -1,0 +1,149 @@
+{
+ "id": "yamanashi",
+ "foods": [
+  {
+   "title_zh": "餺飥麵",
+   "title_ja": "ほうとう",
+   "category": "鄉土料理",
+   "summary_zh": "寬厚麵條與南瓜等時蔬一起味噌燉煮的山梨代表家常鍋。",
+   "body_zh": "ほうとう是山梨縣最具代表性的鄉土料理，把不經久醒的粗寬麵條，連同南瓜、根莖類與當季蔬菜放進以小魚乾熬出的味噌湯裡一起燉煮。山梨因養蠶業興盛而普及種麥，需要經濟又能飽肚的麥食，於是衍生出這道料理。麵粉澱粉使湯汁濃稠、特別保暖，南瓜甜味與甲州味噌融為一體，通常用大鍋煮好再盛入碗中趁熱吃。",
+   "facts": [
+    {"label": "起源", "value": "養蠶業帶動種麥，發展為麥食家常菜；名稱據說源自中國「餺飥」"},
+    {"label": "主要食材", "value": "寬麵、南瓜、當季蔬菜、味噌、小魚乾高湯"},
+    {"label": "吃法", "value": "大鍋煮好盛碗趁熱吃；亦有冷食的「おざら」"}
+   ],
+   "season_zh": "秋冬最盛，全年可吃",
+   "where_zh": "甲府、河口湖一帶的ほうとう專門店與鄉土料理店",
+   "tags": ["鄉土料理", "味噌鍋", "南瓜", "麵食"],
+   "sources": ["https://ja.wikipedia.org/wiki/ほうとう"],
+   "confidence": "medium",
+   "prompt_en": "A black cast-iron pot of hoto, thick flat wheat noodles simmered with kabocha pumpkin chunks, taro, mushrooms and green onion in miso broth, rising steam, on a dark wooden table with a wooden ladle and ceramic bowl, warm soft window light, no text"
+  },
+  {
+   "title_zh": "吉田烏龍麵",
+   "title_ja": "吉田のうどん",
+   "category": "麵飯",
+   "summary_zh": "富士吉田名物，極硬極有嚼勁的粗方麵配高麗菜與辣醬。",
+   "body_zh": "吉田のうどん是富士吉田市一帶的在地烏龍麵，最大特色是麵條粗硬、切面近乎方形，需要用力咀嚼才咬得斷。湯底多用小魚乾或香菇熬製，醬油或味噌調味，配料有水煮高麗菜、油豆腐與調味肉（傳統用馬肉，現多為豬肉）。桌上放著以辣椒、芝麻、花椒調成的「すりだね」，可依喜好加進湯裡增添辛香。",
+   "facts": [
+    {"label": "起源", "value": "山梨氣候冷涼不利稻作而盛行麥食；富士參拜與紡織業男性掌廚的傳統有關"},
+    {"label": "主要食材", "value": "硬質粗麵、水煮高麗菜、油豆腐、馬肉或豬肉、すりだね辣醬"},
+    {"label": "吃法", "value": "熱湯或冷沾醬皆有，依喜好加すりだね"}
+   ],
+   "season_zh": "全年",
+   "where_zh": "富士吉田市內的庶民烏龍麵店",
+   "tags": ["烏龍麵", "硬麵", "富士吉田", "庶民美食"],
+   "sources": ["https://ja.wikipedia.org/wiki/吉田のうどん"],
+   "confidence": "medium",
+   "prompt_en": "A single ceramic bowl of Yoshida udon, very thick square-cut firm noodles in soy broth topped with boiled cabbage, fried tofu and sliced simmered meat, a small dish of red chili sesame paste beside it, rustic wooden counter, soft side light, no text"
+  },
+  {
+   "title_zh": "醬煮鮑魚",
+   "title_ja": "鮑の煮貝",
+   "category": "海鮮",
+   "summary_zh": "把駿河灣鮑魚以醬油煮製，傳說由馬背運到甲斐的內陸海味。",
+   "body_zh": "鮑の煮貝是山梨縣這個內陸縣獨有的海鮮加工名物，用黑鮑、眼高鮑等鮑魚去殼後整顆以醬油湯汁燉煮。傳說駿河灣的鮑魚以醬油醃煮後由馬匹馱往甲斐，馬的體溫與震動使味道恰好滲入，抵達甲府時正好入味。可切薄片當刺身吃，也能用鐵板煎成鮑魚排，是夏季送禮與慶典的佳餚。",
+   "facts": [
+    {"label": "起源", "value": "傳說由駿河灣運往甲斐途中入味；江戶後期文獻已見記載"},
+    {"label": "主要食材", "value": "黑鮑、眼高鮑、真高鮑，醬油煮汁"},
+    {"label": "吃法", "value": "切薄片當刺身，或鐵板煎烤"}
+   ],
+   "season_zh": "夏季送禮最盛，全年販售",
+   "where_zh": "甲府一帶的特產店與和食料亭",
+   "tags": ["鮑魚", "醬煮", "內陸海味", "伴手禮"],
+   "sources": ["https://ja.wikipedia.org/wiki/煮貝"],
+   "confidence": "medium",
+   "prompt_en": "Thickly sliced soy-simmered abalone nigai arranged on a small slate plate, glossy dark amber surface, a wedge of lemon and a few shiso leaves, dark lacquer tray, moody soft light, single dish only, no text"
+  },
+  {
+   "title_zh": "甲府雞雜煮",
+   "title_ja": "鳥もつ煮",
+   "category": "B級美食",
+   "summary_zh": "以糖與醬油燒得油亮的雞雜，B-1大賽冠軍名物。",
+   "body_zh": "甲府鳥もつ煮約於1950年前後誕生在甲府一家蕎麥麵店，為了善用被丟棄的雞內臟而創。以雞胗、雞心、雞肝與未成形的雞卵為主，只用砂糖與醬油燒煮收汁，成品像烤雞串醬般油亮甜鹹，湯汁很少。常當下酒小菜或做成蓋飯。2010年首度參戰B-1大賽即奪得冠軍，使其全國聞名。",
+   "facts": [
+    {"label": "起源", "value": "約1950年於甲府蕎麥麵店創作"},
+    {"label": "主要食材", "value": "雞胗、雞心、雞肝、雞卵，砂糖與醬油"},
+    {"label": "吃法", "value": "下酒小菜、蓋飯或配麵"}
+   ],
+   "season_zh": "全年",
+   "where_zh": "甲府市內的蕎麥麵店與居酒屋",
+   "tags": ["B級美食", "雞雜", "B-1大賽", "甲府"],
+   "sources": ["https://ja.wikipedia.org/wiki/甲府鳥もつ煮"],
+   "confidence": "medium",
+   "prompt_en": "A small ceramic dish of glossy soy-sugar glazed chicken giblets, gizzard heart and liver pieces with a sticky shine, sprinkled with chopped scallion, on a rustic wooden counter, warm izakaya lighting, single dish, no text"
+  },
+  {
+   "title_zh": "桔梗信玄餅",
+   "title_ja": "桔梗信玄餅",
+   "category": "甜點和菓子",
+   "summary_zh": "黃豆粉年糕淋黑蜜，包裝如風呂敷的山梨伴手禮。",
+   "body_zh": "桔梗信玄餅由山梨縣的桔梗屋於1968年推出，盒中有三塊求肥年糕、撒滿黃豆粉，另附黑蜜小包。吃時把黑蜜淋在撒了黃豆粉的年糕上一起享用。名稱取自甲斐戰國大名武田信玄，靈感來自當地盂蘭盆節在佛壇供奉類似甜點的習俗，外層以風呂敷包巾的形式包裝，成為山梨最具代表的伴手禮。",
+   "facts": [
+    {"label": "起源", "value": "1968年由桔梗屋（山梨縣）推出"},
+    {"label": "主要食材", "value": "求肥年糕、黃豆粉、黑蜜"},
+    {"label": "吃法", "value": "把黑蜜淋在年糕與黃豆粉上"}
+   ],
+   "season_zh": "全年",
+   "where_zh": "山梨縣各處伴手禮店、桔梗信玄餅工廠直營店",
+   "tags": ["和菓子", "黃豆粉", "黑蜜", "伴手禮"],
+   "sources": ["https://ja.wikipedia.org/wiki/桔梗信玄餅"],
+   "confidence": "medium",
+   "prompt_en": "Opened Kikyo Shingen mochi: three soft mochi pieces generously dusted with golden kinako soybean powder in a small tray, a pot of dark kuromitsu syrup being poured over, furoshiki-style wrapping cloth unfolded beside, clean wooden table, soft daylight, no text"
+  },
+  {
+   "title_zh": "甲州葡萄酒",
+   "title_ja": "甲州ワイン",
+   "category": "酒與飲品",
+   "summary_zh": "以日本固有品種甲州葡萄釀造的勝沼白葡萄酒。",
+   "body_zh": "甲州種葡萄發源自山梨縣勝沼一帶，相傳1186年雨宮勘解由在山路發現奇特藤蔓，五年後結出甜美果實。這種淺紫灰色的葡萄兼具食用與釀酒用途，2010年成為日本首個登錄於國際葡萄與葡萄酒組織（OIV）的日本固有品種。釀出的白酒口感清爽細緻，適合搭配日本料理與海鮮，山梨也是日本葡萄酒的重鎮。",
+   "facts": [
+    {"label": "起源", "value": "勝沼一帶發源，傳說可追溯至1186年"},
+    {"label": "主要食材", "value": "甲州種葡萄（灰色葡萄，白酒用）"},
+    {"label": "吃法", "value": "冰鎮後搭配日本料理、海鮮"}
+   ],
+   "season_zh": "葡萄9-10月收成，新酒冬季問世",
+   "where_zh": "勝沼、甲州市一帶的酒莊",
+   "tags": ["葡萄酒", "甲州種", "勝沼", "白酒"],
+   "sources": ["https://ja.wikipedia.org/wiki/甲州ワイン"],
+   "confidence": "medium",
+   "prompt_en": "A single glass of pale golden Koshu white wine beside a bottle with a plain label, a small bunch of pale mauve-grey Koshu grapes on a wooden barrel top, vineyard terrace softly blurred behind, golden hour light, no text"
+  },
+  {
+   "title_zh": "陽光玫瑰葡萄",
+   "title_ja": "シャインマスカット",
+   "category": "特產食材",
+   "summary_zh": "可連皮吃、無籽高糖的大粒青葡萄，山梨產量居首。",
+   "body_zh": "シャインマスカット由日本農研機構自1973年起歷時約33年育成，2003年命名登錄，結合歐洲系麝香葡萄的風味與美洲系的抗病性。特徵是可連皮吃、無籽、果粒大、糖度約20度且酸度低，帶優雅麝香香氣。山梨縣栽培面積由2007年的2公頃暴增至2022年約2673公頃，已超越巨峰與德拉瓦，成為縣內第一葡萄品種。",
+   "facts": [
+    {"label": "起源", "value": "農研機構1973年起育種，2003年命名登錄"},
+    {"label": "主要食材", "value": "無籽大粒青葡萄，糖度約20度"},
+    {"label": "吃法", "value": "洗淨連皮直接吃"}
+   ],
+   "season_zh": "8月下旬至10月",
+   "where_zh": "甲州市、笛吹市、山梨市的果園與直賣所",
+   "tags": ["水果", "葡萄", "無籽", "高糖度"],
+   "sources": ["https://ja.wikipedia.org/wiki/シャインマスカット"],
+   "confidence": "medium",
+   "prompt_en": "A single large cluster of Shine Muscat green grapes, plump translucent yellow-green berries with a light bloom, resting on a pale wooden board with a few vine leaves, soft diffused daylight, clean background, no text"
+  },
+  {
+   "title_zh": "山梨水蜜桃",
+   "title_ja": "山梨の桃",
+   "category": "特產食材",
+   "summary_zh": "笛吹川扇狀地盛產，產量全國第一的桃子。",
+   "body_zh": "山梨縣的桃產量為全國第一，2013年統計約3.91萬噸，占全國約三成。其中笛吹市是收穫量最高的自治體，笛吹川對岸的扇狀地是日本最密集的桃栽培區，春天盛開時被稱為「桃源鄉」。一宮、御坂、春日居、八代等地皆是名產地。桃子果肉多汁香甜，夏季可直接切片享用或製成甜點。",
+   "facts": [
+    {"label": "起源", "value": "笛吹川扇狀地的果樹栽培傳統（確切年代未核實）"},
+    {"label": "主要食材", "value": "水蜜桃，產量約占全國三成（2013年）"},
+    {"label": "吃法", "value": "夏季切片生食，或做甜點"}
+   ],
+   "season_zh": "7-8月（全國一般產期，未見山梨細節）",
+   "where_zh": "笛吹市、山梨市、甲州市的果園與直賣所",
+   "tags": ["水果", "桃", "笛吹市", "夏季"],
+   "sources": ["https://ja.wikipedia.org/wiki/モモ"],
+   "confidence": "low",
+   "prompt_en": "Two ripe Yamanashi peaches with soft pink blush, one sliced open showing juicy pale flesh and pit, on a rustic wooden board with a green leaf, soft summer window light, single subject, no text"
+  }
+ ]
+}

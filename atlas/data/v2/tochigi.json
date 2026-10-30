@@ -1,0 +1,841 @@
+{
+ "id": "tochigi",
+ "name_zh": "栃木",
+ "name_ja": "栃木県",
+ "region": "關東",
+ "overview": {
+  "intro_zh": "栃木縣位於關東地方北部，是不臨海的內陸縣，面積約6,408平方公里，為關東最大，人口約187萬。北部有日光、那須的山岳與高原，南部則是平坦的關東平原。日光的社寺在1999年列入世界文化遺產，東照宮是德川家康的靈廟；縣內還有宇都宮煎餃、益子燒、足利學校與足利紫藤花園等多樣景點。溫泉、酪農與草莓產業也很發達，從東京搭新幹線約50分鐘可達宇都宮，一年四季都是熱門的近郊旅遊地。",
+  "capital_zh": "宇都宮市",
+  "area_km2": 6408,
+  "population_approx": "約187萬人（2025年）",
+  "flower_zh": "八汐杜鵑（ヤシオツツジ）",
+  "bird_zh": "大瑠璃（オオルリ）",
+  "tree_zh": "七葉樹（トチノキ）",
+  "climate_zh": "內陸氣候，夏季雷雨多、冬季乾冷；北部山區冬季多雪。",
+  "access_zh": "東北新幹線到宇都宮約50分鐘；東武線從淺草到日光約2小時。",
+  "specialties_zh": [
+   "宇都宮煎餃",
+   "草莓（とちおとめ）",
+   "益子燒",
+   "日光湯波",
+   "那須乳製品",
+   "大谷石"
+  ],
+  "best_season_zh": "4月底至5月（新綠與紫藤）、10至11月（紅葉）"
+ },
+ "items": {
+  "architecture": {
+   "title_zh": "日光東照宮陽明門",
+   "title_ja": "日光東照宮 陽明門",
+   "summary_zh": "雕刻與金箔滿佈的國寶門樓，世界遺產的核心。",
+   "body_zh": "日光東照宮供奉德川家康，現今面貌是三代將軍德川家光在1636年（寬永13年）大規模改建的成果。陽明門是參拜道上的門樓，被指定為國寶，門上滿布約508體的極彩色雕刻，包括龍、鳳凰、聖人與想像中的動物，並貼有大量金箔，因為看一整天也不厭倦，又被稱為「日暮門」。東照宮與輪王寺、二荒山神社一同以「日光的社寺」之名，於1999年登錄世界文化遺產。境內還有眠貓和三猿等著名雕刻，需一併參觀。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "栃木縣日光市"
+    },
+    {
+     "label": "改建",
+     "value": "1636年（寬永13年）"
+    },
+    {
+     "label": "雕刻",
+     "value": "約508體"
+    },
+    {
+     "label": "登錄",
+     "value": "世界文化遺產（1999年）"
+    }
+   ],
+   "best_season_zh": "4月底至5月、10至11月",
+   "tips_zh": "境內台階多，建議穿平底鞋；陽明門及部分建築依修繕情況有時被遮蓋，出發前查官方資訊。",
+   "tags": [
+    "世界遺產",
+    "東照宮",
+    "國寶",
+    "雕刻"
+   ],
+   "sources": [
+    "https://tabi-mag.jp/tg0123",
+    "https://ja.wikipedia.org/wiki/日光東照宮"
+   ],
+   "confidence": "high",
+   "prompt_en": "Yomeimon gate of Nikko Toshogu shrine with intricate colorful carvings in gold, white and red, cedar forest background, soft light"
+  },
+  "food": {
+   "title_zh": "宇都宮煎餃",
+   "title_ja": "宇都宮餃子",
+   "summary_zh": "外皮煎得酥脆，是宇都宮代表的庶民美食。",
+   "body_zh": "宇都宮煎餃是宇都宮市的名物，一般認為與二戰後從滿洲回國的人把餃子做法帶回有關，日本式的煎餃以豬肉、白菜、大蒜與韭菜為餡，搭配白飯食用。宇都宮餃子會於1991年成立，會員店家約九十家以上，由此推動「餃子之街」的形象。宇都宮與濱松、宮崎常被拿來比較家庭餃子消費額，排名每年互有升降。市區有許多專賣店，點法以煎餃、水餃或兩種拼盤，配啤酒更佳。宇都宮市區的餃子店通常搭配白飯、湯與漬物，價格親民，也有人把餃子當作宵夜與下酒菜。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "栃木縣宇都宮市"
+    },
+    {
+     "label": "餡料",
+     "value": "豬肉、白菜、大蒜、韭菜"
+    },
+    {
+     "label": "組織",
+     "value": "宇都宮餃子會（1991年成立）"
+    },
+    {
+     "label": "特色",
+     "value": "煎餃為主、多為專賣店"
+    }
+   ],
+   "best_season_zh": "全年",
+   "tips_zh": "很多名店只賣餃子、飯與湯，有的只收現金；熱門店排隊久，可以選擇非用餐尖峰時段。",
+   "tags": [
+    "餃子",
+    "庶民美食",
+    "宇都宮",
+    "煎餃"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/宇都宮餃子"
+   ],
+   "confidence": "medium",
+   "prompt_en": "Plate of pan-fried Utsunomiya gyoza with crispy browned bottoms, soy dipping sauce and chopsticks, steam rising, close-up"
+  },
+  "culture": {
+   "title_zh": "益子燒",
+   "title_ja": "益子焼",
+   "summary_zh": "厚實釉色與手感的民藝陶器。",
+   "body_zh": "益子燒是栃木縣益子町的陶器，江戶末期，在笠間學習窯業的大塚啓三郎在益子開窯，成為產地之始。1927年起，陶藝家濱田庄司把民藝運動的理念帶到益子，使它從日用品產地轉為重視手感的民藝陶器中心，濱田也被視為「益子燒中興之祖」。主要釉藥為含鐵的黑釉、柿釉與飴釉，作品厚實溫潤。每年春季黃金週與秋季文化日前後舉辦益子陶器市，有五百攤以上的陶藝家與店家參加，是關東最大規模的陶器市集之一。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "栃木縣益子町"
+    },
+    {
+     "label": "起源",
+     "value": "江戶末期，大塚啓三郎"
+    },
+    {
+     "label": "代表",
+     "value": "濱田庄司（民藝運動）"
+    },
+    {
+     "label": "活動",
+     "value": "益子陶器市（春、秋）"
+    }
+   ],
+   "best_season_zh": "黃金週（5月初）、11月初",
+   "tips_zh": "陶器市期間人潮多，需提早到；陶器易碎，可請店家包裝或宅配。",
+   "tags": [
+    "陶器",
+    "民藝",
+    "益子",
+    "手作"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/益子焼",
+    "https://en.wikipedia.org/wiki/Mashiko,_Tochigi"
+   ],
+   "confidence": "high",
+   "prompt_en": "Mashiko ware pottery bowls and plates with earthy brown and green glazes arranged on a wooden shelf, soft window light"
+  },
+  "history": {
+   "title_zh": "足利學校",
+   "title_ja": "足利学校",
+   "summary_zh": "中世紀日本代表性的學校，現存為復原建築。",
+   "body_zh": "足利學校位於足利市，創立年代與創立者眾說紛紜，說法從奈良、平安時代至1432年不等。1432年上杉憲實重興學校，聘請圓覺寺僧人為校長，以儒學與易學為核心，並排除佛經，到戰國時代聚集了大批僧侶學生，據說高峰期學生多達三千人。耶穌會傳教士方濟各·沙勿略在書信中稱其為坂東最有名的大學。1872年關閉，1921年被指定為國家史跡，現在的方丈與庫裡等建築在1990年復原。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "栃木縣足利市"
+    },
+    {
+     "label": "重興",
+     "value": "1432年（上杉憲實）"
+    },
+    {
+     "label": "史跡",
+     "value": "國家史跡（1921年）"
+    },
+    {
+     "label": "復原",
+     "value": "1990年"
+    }
+   ],
+   "best_season_zh": "春秋",
+   "tips_zh": "入場費不高，建議租導覽解說；旁邊的鑁阿寺也值得順道參觀。",
+   "tags": [
+    "學校",
+    "史跡",
+    "足利",
+    "儒學"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/足利学校"
+   ],
+   "confidence": "high",
+   "prompt_en": "Ashikaga Gakko historic school with thatched-roof hall, gate and garden, traditional wooden buildings, soft autumn light"
+  },
+  "mascot": {
+   "title_zh": "とちまるくん與草莓精靈",
+   "title_ja": "とちまるくん",
+   "summary_zh": "縣吉祥物以七葉樹為靈感，這裡另創草莓精靈原創角色。",
+   "body_zh": "栃木縣官方吉祥物「とちまるくん」是為了2011年的運動休閒活動「Sporec Eco 栃木 2011」而誕生，後來在2011年11月被指定為縣吉祥物，據設定他出生於縣廳前的七葉樹（トチノキ）。栃木縣名也與七葉樹有關。此處不複製既有角色，而是以縣產草莓「とちおとめ」與七葉樹葉為靈感，設計一隻原創可愛的草莓精靈，戴著葉片帽子，在溫室裡提著小籃子。設計時可加入草莓的紅色與七葉樹葉的綠色，兩色搭配鮮明易辨，表現栃木豐富的自然與農產。",
+   "facts": [
+    {
+     "label": "縣吉祥物",
+     "value": "とちまるくん（2011年指定）"
+    },
+    {
+     "label": "靈感",
+     "value": "七葉樹（縣木）"
+    },
+    {
+     "label": "名產",
+     "value": "草莓とちおとめ"
+    },
+    {
+     "label": "原創角色",
+     "value": "草莓精靈"
+    }
+   ],
+   "best_season_zh": "全年",
+   "tips_zh": "縣內道之驛與車站有各式とちまるくん周邊；草莓季為12月至5月。",
+   "tags": [
+    "吉祥物",
+    "草莓",
+    "七葉樹",
+    "原創角色"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/とちまるくん"
+   ],
+   "confidence": "medium",
+   "prompt_en": "Cute original strawberry-shaped character wearing a horse-chestnut leaf hat, holding a small basket in a greenhouse, soft pastel palette. Original cute character, not replicating any existing trademarked mascot."
+  },
+  "scenery": {
+   "title_zh": "華嚴瀑布",
+   "title_ja": "華厳の滝",
+   "summary_zh": "中禪寺湖流出的97公尺高瀑布，日本三名瀑之一。",
+   "body_zh": "華嚴瀑布位於日光國立公園，中禪寺湖唯一的出水口，水自約97公尺的玄武岩岩壁一口氣落下。瀑布側面與背後還有約十二條小瀑布，在岩縫中滲出。與茨城袋田瀑布、和歌山那智瀑布並稱日本三名瀑，1927年被選為昭和日本八景之一，也在環境省的日本百名瀑中。可搭電梯到觀瀑台近看。秋天紅葉季節，從日光到中禪寺湖的路線容易塞車。附近也有明智平纜車可俯瞰整座瀑布與中禪寺湖，視野遼闊，天氣好時還能看到遠方群山。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "栃木縣日光市中禪寺湖畔"
+    },
+    {
+     "label": "落差",
+     "value": "約97公尺"
+    },
+    {
+     "label": "來源",
+     "value": "中禪寺湖"
+    },
+    {
+     "label": "稱號",
+     "value": "日本三名瀑"
+    }
+   ],
+   "best_season_zh": "10月中旬至下旬（紅葉）",
+   "tips_zh": "紅葉季道路壅塞，建議搭電車與巴士；觀瀑台濕氣重，要帶防水外套。",
+   "tags": [
+    "瀑布",
+    "日本三名瀑",
+    "日光",
+    "紅葉"
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Kegon_Falls"
+   ],
+   "confidence": "high",
+   "prompt_en": "Kegon Falls plunging 97 meters from Lake Chuzenji rocky cliff with autumn colors around, misty spray, clear day"
+  },
+  "spot": {
+   "title_zh": "日光神橋",
+   "title_ja": "日光 神橋",
+   "summary_zh": "朱紅色拱橋橫跨大谷川，日光的入口象徵。",
+   "body_zh": "神橋是跨越大谷川的朱漆木橋，屬於二荒山神社，長約28公尺、寬約7.4公尺，距河面約10公尺。傳說奈良時代勝道上人渡河時，神明放出兩條蛇化為彩虹般的橋，因此稱為「蛇橋」，是日本三大奇橋之一。現在的樣式在1636年確立，1973年起開放一般人通行，1999年與日光社寺一起列入世界遺產。橋的顏色在綠色山谷與河水映襯下特別醒目，四季皆有不同風景，是日光的入口意象。橋畔也有商店與咖啡店，是日光散步的起點，從橋上可看大谷川的溪流與兩岸山林的季節變化。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "栃木縣日光市"
+    },
+    {
+     "label": "尺寸",
+     "value": "長約28公尺、寬約7.4公尺"
+    },
+    {
+     "label": "樣式確立",
+     "value": "1636年"
+    },
+    {
+     "label": "登錄",
+     "value": "世界文化遺產（1999年）"
+    }
+   ],
+   "best_season_zh": "4月新綠、11月紅葉",
+   "tips_zh": "可付費登橋；從日光車站走路約25分鐘，沿途有商店街。",
+   "tags": [
+    "朱紅橋",
+    "世界遺產",
+    "二荒山神社",
+    "日光"
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Shinkyo_Bridge"
+   ],
+   "confidence": "high",
+   "prompt_en": "Shinkyo red lacquered arched bridge over Daiya River in Nikko with forested mountain and mist, early morning"
+  },
+  "experience": {
+   "title_zh": "鬼怒川泛舟",
+   "title_ja": "鬼怒川ライン下り",
+   "summary_zh": "乘木船順著鬼怒川峽谷漂流，感受溪谷風光。",
+   "body_zh": "鬼怒川ライン下り是在栃木縣日光市鬼怒川溫泉附近運行的觀光船，乘客搭乘木舟，由船夫以長槳掌舵，順著鬼怒川峽谷一路漂流而下，兩岸岩壁、森林與紅葉在眼前流動。營運期間約為4月中旬至11月下旬，由鬼怒川高原開發公司經營。航程的時長與長度依年度與水量有所不同，出發前請查官方資料。秋季紅葉時期搭乘最受歡迎，也是鬼怒川溫泉旅遊的一大亮點。沿岸的奇岩與杉林是主要景觀，下船後可到鬼怒川溫泉泡湯，是一日往返的經典行程。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "栃木縣日光市（鬼怒川）"
+    },
+    {
+     "label": "營運期",
+     "value": "約4月中旬至11月下旬"
+    },
+    {
+     "label": "船型",
+     "value": "木船、船夫操槳"
+    },
+    {
+     "label": "季節亮點",
+     "value": "新綠與紅葉"
+    }
+   ],
+   "best_season_zh": "10月下旬至11月上旬",
+   "tips_zh": "水量與天候會影響開航，雨後水位高可能停航；備好防風外套與防水鞋。",
+   "tags": [
+    "泛舟",
+    "溪谷",
+    "鬼怒川",
+    "紅葉"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/鬼怒川ライン下り"
+   ],
+   "confidence": "low",
+   "prompt_en": "Wooden boat ride down Kinugawa river gorge with colorful autumn trees, boatman steering, sunlight on the water"
+  },
+  "costume": {
+   "title_zh": "日光千人武者行列",
+   "title_ja": "日光東照宮 千人武者行列",
+   "summary_zh": "重現家康靈柩遷葬日光的古裝大遊行。",
+   "body_zh": "日光東照宮每年5月17、18日舉行春季例大祭，18日舉辦「百物揃千人武者行列」，約一千人身穿甲冑、持旗幟，簇擁著德川家康的神輿，重現將家康遺骸從靜岡久能山遷往日光的盛景，另有流鏑馬在17日舉行。秋季大祭在10月16、17日也有同類遊行。隊列以武士、足輕與旗手為主，沿著杉木參道行進。此處以無名參加者為題，不描繪可辨識個人。遊行服飾包含甲冑、陣羽織與旗指物，造型多為江戶時代風格，攝影時應尊重參加者，避免拍攝特寫面部。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "栃木縣日光市"
+    },
+    {
+     "label": "時節",
+     "value": "春季5月18日、秋季10月17日"
+    },
+    {
+     "label": "規模",
+     "value": "約一千人"
+    },
+    {
+     "label": "內容",
+     "value": "重現家康靈柩遷葬行列"
+    }
+   ],
+   "best_season_zh": "5月18日、10月17日",
+   "tips_zh": "觀賞位置要提早佔位；遊行當天道路管制，宜搭電車前往。",
+   "tags": [
+    "祭典",
+    "武者行列",
+    "東照宮",
+    "甲冑"
+   ],
+   "sources": [
+    "https://rurubu.jp/andmore/spot/20002129"
+   ],
+   "confidence": "medium",
+   "prompt_en": "Anonymous participants in samurai armor and banners marching along a Nikko cedar road during a spring procession, dramatic lighting, faces blurred"
+  }
+ },
+ "areas": [
+  {
+   "id": "tochigi_nikko",
+   "name_zh": "日光",
+   "name_ja": "日光",
+   "intro_zh": "日光位於栃木縣北部，是世界文化遺產「日光的社寺」所在地，有東照宮、輪王寺與二荒山神社，另有華嚴瀑布、中禪寺湖與奧日光溼原等自然景勝。冬天寒冷，夏天涼爽，是關東的避暑聖地；食物以湯波與蕎麥麵聞名。",
+   "items": {
+    "spot": {
+     "title_zh": "日光東照宮",
+     "title_ja": "日光東照宮",
+     "summary_zh": "供奉德川家康的靈廟，豪華的建築群。",
+     "body_zh": "日光東照宮建於1617年，祭祀德川家康，現今規模為三代將軍家光於1636年的大造替完成。境內有陽明門、五重塔、眠貓與三猿等雕刻，以金箔與極彩色雕刻聞名。與輪王寺、二荒山神社一同，1999年登錄世界文化遺產。參拜道兩側是高大的杉木，從表參道進入，沿途有石鳥居與社殿，後方的奧宮要走約200多級台階。境內還有神廄舍、輪王寺與二荒山神社，值得一整天慢慢參觀，並體會德川幕府時代的建築美學。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "栃木縣日光市山內"
+      },
+      {
+       "label": "創建",
+       "value": "1617年，1636年大改建"
+      },
+      {
+       "label": "特色",
+       "value": "陽明門、眠貓、三猿"
+      },
+      {
+       "label": "登錄",
+       "value": "世界文化遺產（1999年）"
+      }
+     ],
+     "best_season_zh": "4至5月、10至11月",
+     "tips_zh": "參拜時間約需2至3小時；可購買社寺共通券，同遊輪王寺。",
+     "tags": [
+      "東照宮",
+      "世界遺產",
+      "德川家康",
+      "日光"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/日光東照宮"
+     ],
+     "confidence": "high",
+     "prompt_en": "Nikko Toshogu shrine ornate gate with gold carvings, cedar trees, sunlight"
+    },
+    "food": {
+     "title_zh": "日光湯波",
+     "title_ja": "日光ゆば",
+     "summary_zh": "日光式湯波厚實，以二折疊起的豆皮為特色。",
+     "body_zh": "日光是古老的門前町，湯波（豆皮）是代表食品。京都的湯葉用細竹籤從膜的邊緣拉起，呈薄片；日光的湯波則把竹籤插在膜的中央，向上拉起後對折成二層，因此較厚、更有口感，食用方式多為新鮮的生湯波或油炸。在當地料亭，可吃到湯波定食、湯波卷與炸湯波。因為寺院文化的飲食影響，日光的素食料理也有悠久傳統。湯波的做法細緻，豆乳加熱後在表面形成薄膜，以竹籤拉起，各家料亭與店舖有不同的料理和口味。",
+     "facts": [
+      {
+       "label": "產地",
+       "value": "栃木縣日光市"
+      },
+      {
+       "label": "特色",
+       "value": "從中央拉起、對折二層"
+      },
+      {
+       "label": "吃法",
+       "value": "生食、油炸、湯波卷"
+      },
+      {
+       "label": "與京都",
+       "value": "日光較厚，京都較薄"
+      }
+     ],
+     "best_season_zh": "全年",
+     "tips_zh": "餐廳多提供湯波套餐，午餐可預約；伴手禮可選真空包裝。",
+     "tags": [
+      "湯波",
+      "豆皮",
+      "素食",
+      "日光"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/湯葉"
+     ],
+     "confidence": "medium",
+     "prompt_en": "Nikko yuba tofu skin dishes in lacquer bowls, delicate arrangement"
+    },
+    "scenery": {
+     "title_zh": "華嚴瀑布",
+     "title_ja": "華厳の滝",
+     "summary_zh": "落差約97公尺的名瀑，中禪寺湖的唯一出口。",
+     "body_zh": "華嚴瀑布的水流來自中禪寺湖，約97公尺的落差一口氣垂直落下，水霧瀰漫。瀑布後方的岩壁還有十餘條小瀑布。是日本三名瀑之一，1927年入選昭和日本八景。秋天紅葉盛期，沿路的伊呂波坡道會塞車；冬天可看到結冰的壯觀景色。電梯可下到觀瀑台，近距離聽到轟鳴聲。周邊還有中禪寺湖，奧日光的湖泊與溼原也都值得一遊，秋季紅葉時是日光最熱門的季節。瀑布前的觀瀑台有收費電梯，離開後可沿著中禪寺湖畔散步，湖邊還有餐廳與咖啡店可休息。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "栃木縣日光市"
+      },
+      {
+       "label": "落差",
+       "value": "約97公尺"
+      },
+      {
+       "label": "水源",
+       "value": "中禪寺湖"
+      },
+      {
+       "label": "稱號",
+       "value": "日本三名瀑"
+      }
+     ],
+     "best_season_zh": "10月中旬",
+     "tips_zh": "觀瀑台附近有溼滑，要帶防滑鞋；可與中禪寺湖同遊。",
+     "tags": [
+      "瀑布",
+      "日光",
+      "中禪寺湖",
+      "紅葉"
+     ],
+     "sources": [
+      "https://en.wikipedia.org/wiki/Kegon_Falls"
+     ],
+     "confidence": "high",
+     "prompt_en": "Kegon Falls plunging from cliff with autumn leaves, mist and rainbow, dramatic view"
+    }
+   }
+  },
+  {
+   "id": "tochigi_utsunomiya",
+   "name_zh": "宇都宮",
+   "name_ja": "宇都宮",
+   "intro_zh": "宇都宮是栃木縣廳所在地，以餃子聞名，也盛產大谷石。市郊的大谷地區有巨大的地下採石場遺跡與磨崖佛，是獨特的觀光地。城市也有新的輕軌電車連接，生活與歷史文化並存。此外宇都宮的夜晚熱鬧，酒場與餃子店林立。",
+   "items": {
+    "spot": {
+     "title_zh": "大谷資料館",
+     "title_ja": "大谷資料館",
+     "summary_zh": "大谷石採石場遺跡，改建的地下空間。",
+     "body_zh": "大谷資料館是1979年開館的資料館，利用原來的大谷石採石場遺跡，地下空間寬廣，常年氣溫約8度，涼爽而神秘。大谷石是一種火山凝灰岩，自古被用於建築，早在8世紀就被用於寺院基礎，採掘已超過千年。這個地下空間在二戰期間曾作軍用倉庫與飛機工廠，戰後又當作米倉，後來才開放參觀。由於獨特的景觀，經常成為電影、電視劇與音樂錄影帶的拍攝地。地下空間的光影與冷空氣營造出獨特氛圍，是拍照與參觀的人氣景點。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "栃木縣宇都宮市大谷町"
+      },
+      {
+       "label": "開館",
+       "value": "1979年"
+      },
+      {
+       "label": "溫度",
+       "value": "常年約8度"
+      },
+      {
+       "label": "石材",
+       "value": "大谷石（凝灰岩）"
+      }
+     ],
+     "best_season_zh": "夏季（避暑）",
+     "tips_zh": "地下很涼，夏天也要帶外套；地面濕滑，要穿好走的鞋。",
+     "tags": [
+      "採石場",
+      "大谷石",
+      "地下空間",
+      "宇都宮"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/大谷資料館"
+     ],
+     "confidence": "high",
+     "prompt_en": "Oya stone quarry underground cavern with massive carved walls and cool blue light"
+    },
+    "food": {
+     "title_zh": "宇都宮餃子",
+     "title_ja": "宇都宮餃子",
+     "summary_zh": "市區專賣店林立的煎餃名物。",
+     "body_zh": "宇都宮餃子以豬肉、白菜與韭菜為餡，煎得外皮酥脆，常搭白飯、啤酒一起吃。宇都宮餃子會在1991年成立，推動餃子成為城市形象，市區車站附近有餃子像與餃子通。許多名店只賣餃子，也有煎餃與水餃拼盤，價格平易近人。與濱松、宮崎相比，家庭餃子消費額排名每年互有升降，但宇都宮仍是餃子愛好者朝聖地。許多店家也賣冷凍餃子，旅客可買回家自己煎，在家重現宇都宮的味道。若想嘗試不同風格，可選擇多家店各點一份，比較麵皮厚薄、餡料比例與沾醬的差異，樂趣十足。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "栃木縣宇都宮市"
+      },
+      {
+       "label": "組織",
+       "value": "宇都宮餃子會（1991年）"
+      },
+      {
+       "label": "餡料",
+       "value": "豬肉、白菜、韭菜"
+      },
+      {
+       "label": "特色",
+       "value": "專賣店多"
+      }
+     ],
+     "best_season_zh": "全年",
+     "tips_zh": "熱門店在假日需排隊，可選平日；許多店只收現金。",
+     "tags": [
+      "餃子",
+      "宇都宮",
+      "庶民美食",
+      "煎餃"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/宇都宮餃子"
+     ],
+     "confidence": "medium",
+     "prompt_en": "Pan-fried Utsunomiya gyoza on plate, crispy bottoms, dipping sauce, steam"
+    },
+    "scenery": {
+     "title_zh": "大谷觀音",
+     "title_ja": "大谷観音",
+     "summary_zh": "刻在岩壁上的磨崖佛，最高約3.9公尺。",
+     "body_zh": "大谷磨崖佛是在凝灰岩崖壁上雕刻的佛像群，共四組十尊，推定為平安中期至鎌倉時代所作。中間的千手觀音高約3.89公尺，被稱為「大谷觀音」，是附近大谷寺的本尊。1926年被指定為國家史跡，1954年升為特別史跡，1961年佛像本身列為重要文化財。因為岩壁保護，現在需到大谷寺內參觀，周邊還有奇岩與大谷石景觀。周邊的大谷石建築、岩壁與採石場遺跡都有獨特景觀，與資料館一起遊覽大約需要半天。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "栃木縣宇都宮市大谷"
+      },
+      {
+       "label": "尺寸",
+       "value": "千手觀音約3.89公尺"
+      },
+      {
+       "label": "時代",
+       "value": "平安中期至鎌倉時代"
+      },
+      {
+       "label": "指定",
+       "value": "特別史跡、重要文化財"
+      }
+     ],
+     "best_season_zh": "全年",
+     "tips_zh": "參觀時間不長，約30分鐘，可與大谷資料館同遊。",
+     "tags": [
+      "磨崖佛",
+      "大谷寺",
+      "特別史跡",
+      "觀音"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/大谷観音"
+     ],
+     "confidence": "high",
+     "prompt_en": "Oya Kannon carved into stone cliff, tall relief statue, green moss, quiet"
+    }
+   }
+  },
+  {
+   "id": "tochigi_nasu",
+   "name_zh": "那須",
+   "name_ja": "那須",
+   "intro_zh": "那須高原位於栃木縣北端，在那須岳的南麓，是東京近郊的熱門避暑勝地。這裡有溫泉、牧場、美術館與皇室別墅，也有殺生石的傳說。酪農發達，起司蛋糕與牛奶製品是土產。夏季涼爽，冬季可滑雪，四季皆適合度假。",
+   "items": {
+    "spot": {
+     "title_zh": "那須高原",
+     "title_ja": "那須高原",
+     "summary_zh": "自古以來的溫泉度假地，東京可當日往返。",
+     "body_zh": "那須高原位於那須岳南麓，從約1,000公尺的山腰向下緩緩延伸，是日本代表的度假地，那須溫泉鄉自古知名。這裡有1926年啟用的那須御用邸、牧場、動物園、美術館與滑雪場。2011年又開設那須平成之森。氣候涼爽，冬季多雪，年平均氣溫約9.5度。東北新幹線與高速道路使東京出發可當日往返。夏季可打高爾夫或健行，冬季可滑雪，四季皆有活動，酪農牧場與美術館也點綴其中。秋季的紅葉與高原的藍天形成鮮明對比，許多旅客喜歡自駕沿路邊走邊停。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "栃木縣那須町"
+      },
+      {
+       "label": "特色",
+       "value": "溫泉、牧場、避暑"
+      },
+      {
+       "label": "設施",
+       "value": "那須御用邸、那須平成之森"
+      },
+      {
+       "label": "氣候",
+       "value": "涼爽、冬季多雪"
+      }
+     ],
+     "best_season_zh": "夏季、10月",
+     "tips_zh": "夏季也需薄外套；自駕最方便，巴士班次有限。",
+     "tags": [
+      "高原",
+      "避暑",
+      "溫泉",
+      "那須"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/那須高原"
+     ],
+     "confidence": "high",
+     "prompt_en": "Nasu highland pasture with cows and mountains behind, summer green, blue sky"
+    },
+    "food": {
+     "title_zh": "那須乳製品與起司蛋糕",
+     "title_ja": "那須の乳製品",
+     "summary_zh": "高原牧場生產的牛奶、起司與甜點。",
+     "body_zh": "那須高原從明治時代起發展酪農，涼爽的氣候適合牧場。這裡有牧場直營的冰淇淋、優格、起司與起司蛋糕，不少甜點店在高原沿路營業。那須是東京人週末的熱門甜點之旅地，以當地牛奶製作的布丁與乳酪蛋糕尤受歡迎。品牌與店家眾多，口味各有不同，建議到訪時親自比較。那須高原的道之驛與咖啡店也供應現擠牛奶與起司拼盤，是高原旅行不可缺的甜蜜回憶。除了甜點，高原的餐廳也提供使用當地牛奶與蔬菜製作的料理，如起司鍋和濃湯，值得細細品嚐。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "栃木縣那須町"
+      },
+      {
+       "label": "特色",
+       "value": "牛奶、起司、甜點"
+      },
+      {
+       "label": "起源",
+       "value": "明治時代的牧場開墾"
+      },
+      {
+       "label": "提示",
+       "value": "店家各異"
+      }
+     ],
+     "best_season_zh": "夏季、秋季",
+     "tips_zh": "部分店家週間休息，先查營業日；起司蛋糕易融化，需冷藏帶回。",
+     "tags": [
+      "乳製品",
+      "起司蛋糕",
+      "牧場",
+      "那須"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/那須高原"
+     ],
+     "confidence": "low",
+     "prompt_en": "Nasu cheesecake and fresh milk bottles on wooden table, soft light, farm-style"
+    },
+    "scenery": {
+     "title_zh": "殺生石",
+     "title_ja": "殺生石",
+     "summary_zh": "冒著火山氣體的岩石地帶，與九尾狐傳說相連。",
+     "body_zh": "殺生石位於那須町湯本溫泉附近，是持續噴出硫化氫和二氧化硫等火山氣體的熔岩地帶，周圍寸草不生。傳說九尾狐玉藻前化身為鳥羽上皇的寵姬，被陰陽師識破後逃到此處，被武士擊退並化為石頭，後來僧人玄翁在1385年將其擊碎。松尾芭蕉也曾到訪並寫入《奧之細道》。2014年被指定為國家名勝。2022年3月石頭裂開，曾引起關注。附近的那須湯本溫泉自古有名，參觀殺生石後泡湯是常見的行程。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "栃木縣那須町湯本"
+      },
+      {
+       "label": "傳說",
+       "value": "九尾狐、玄翁和尚"
+      },
+      {
+       "label": "指定",
+       "value": "國家名勝（2014年）"
+      },
+      {
+       "label": "注意",
+       "value": "火山氣體"
+      }
+     ],
+     "best_season_zh": "夏季至秋季",
+     "tips_zh": "火山氣體濃度高時會封鎖，要遵守指示；不要觸摸地面。",
+     "tags": [
+      "殺生石",
+      "九尾狐",
+      "火山",
+      "那須"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/殺生石"
+     ],
+     "confidence": "high",
+     "prompt_en": "Sesshoseki volcanic rock field with gas vents, bare gray rocks, eerie mood, Mount Nasu"
+    }
+   }
+  },
+  {
+   "id": "tochigi_ashikaga",
+   "name_zh": "足利",
+   "name_ja": "足利",
+   "intro_zh": "足利位於栃木縣西南部，是室町幕府足利氏的發祥地，也是學問之城。足利學校、鑁阿寺與足利紫藤花園是主要景點。春天的藤花、秋冬的燈飾使這裡一年四季吸引觀光客。從東京搭電車約1.5小時即可到達，適合一日往返。",
+   "items": {
+    "spot": {
+     "title_zh": "足利紫藤花園",
+     "title_ja": "あしかがフラワーパーク",
+     "summary_zh": "樹齡約一百多年的大藤，4月中旬至5月中旬盛開。",
+     "body_zh": "足利紫藤花園於1997年4月在現址開園，原址的大藤在1996年2月移植約20公里而來，樹齡據稱約一百六十年。紫藤花期約為4月中旬至5月中旬，大藤棚鋪展開約六百榻榻米大，另有白藤隧道與長藤。冬季的「光之花庭」燈飾約有五百萬顆LED，從10月到2月舉辦。2014年被CNN選為世界夢幻旅遊地之一，是當年唯一入選的日本景點。園內除了紫藤，一年中還有不同季節的花卉輪流開放，冬季則以燈飾吸引遊客。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "栃木縣足利市"
+      },
+      {
+       "label": "開園",
+       "value": "1997年4月"
+      },
+      {
+       "label": "花期",
+       "value": "4月中旬至5月中旬"
+      },
+      {
+       "label": "燈飾",
+       "value": "光之花庭（10月至2月）"
+      }
+     ],
+     "best_season_zh": "4月下旬至5月初",
+     "tips_zh": "花季入園人多，建議平日或清晨；夜間點燈也非常美。",
+     "tags": [
+      "紫藤",
+      "花園",
+      "夜景",
+      "足利"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/あしかがフラワーパーク"
+     ],
+     "confidence": "high",
+     "prompt_en": "Ashikaga Flower Park giant wisteria trellis glowing at night, cascading purple blossoms, reflection on pond"
+    },
+    "food": {
+     "title_zh": "足利手打蕎麥麵",
+     "title_ja": "足利の蕎麦",
+     "summary_zh": "足利有手打蕎麥麵店，適合配合城鎮散步。",
+     "body_zh": "足利市區有許多提供手打蕎麥麵的店家，使用當地或北關東的蕎麥粉，口感有嚼勁。在足利學校與鑁阿寺周邊散步後，吃一碗蕎麥麵是常見的行程。此外足利也有炒麵與地方小吃。具體店家與名物會隨時代變動，建議出發前搜尋最新資訊，這裡內容僅為概括，可信度較低。另一個選擇是參觀鑁阿寺周邊的老街，品嚐點心與茶飲，行程輕鬆自在，也可延伸去其他景點。若想嘗試不同口味，可挑選提供冷蕎麥與熱湯蕎麥兩種吃法的店家，感受蕎麥香氣與口感的差異。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "栃木縣足利市"
+      },
+      {
+       "label": "特色",
+       "value": "手打蕎麥麵"
+      },
+      {
+       "label": "建議",
+       "value": "配合市區散步"
+      },
+      {
+       "label": "注意",
+       "value": "資訊需再確認"
+      }
+     ],
+     "best_season_zh": "全年",
+     "tips_zh": "多數店家午餐售完即打烊，建議中午前到。",
+     "tags": [
+      "蕎麥麵",
+      "手打",
+      "足利",
+      "小吃"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/足利学校"
+     ],
+     "confidence": "low",
+     "prompt_en": "Handmade soba noodles at an Ashikaga soba restaurant, simple bowl, wooden table"
+    },
+    "scenery": {
+     "title_zh": "足利學校",
+     "title_ja": "足利学校",
+     "summary_zh": "日本中世紀的學府，復原的方丈與庭園。",
+     "body_zh": "足利學校是中世紀日本代表性的學校，1432年上杉憲實重興後學生人數快速增加，戰國時代據說高峰期達三千人，方濟各·沙勿略也稱它為坂東最有名的大學。1872年閉校，1921年被指定為國家史跡，現在的方丈、庫裡與學校門等在1990年復原，周邊有池泉與楷樹。秋季銀杏與紅葉時景色尤佳。鄰近的鑁阿寺與足利氏有淵源，兩處可併遊，沿路也有不少古老的街道與店舖。秋季銀杏轉黃時，庭園與建築相映成趣。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "栃木縣足利市昌平町"
+      },
+      {
+       "label": "重興",
+       "value": "1432年"
+      },
+      {
+       "label": "史跡",
+       "value": "國家史跡（1921年）"
+      },
+      {
+       "label": "復原",
+       "value": "1990年"
+      }
+     ],
+     "best_season_zh": "11月",
+     "tips_zh": "可付費進入方丈；入場後約1小時可逛完，建議搭配鑁阿寺。",
+     "tags": [
+      "學校",
+      "史跡",
+      "足利",
+      "庭園"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/足利学校"
+     ],
+     "confidence": "high",
+     "prompt_en": "Ashikaga Gakko old school traditional hall with thatched roof, garden, autumn"
+    }
+   }
+  }
+ ]
+}

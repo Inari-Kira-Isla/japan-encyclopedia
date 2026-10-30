@@ -1,0 +1,287 @@
+{
+"id": "mie",
+"spots": [
+{
+"title_zh": "伊勢神宮內宮",
+"title_ja": "皇大神宮（伊勢神宮 內宮）",
+"category": "神社寺院",
+"area_zh": "伊勢市",
+"summary_zh": "祭祀天照大御神的伊勢神宮正宮，日本神社的總本宗。",
+"body_zh": "伊勢神宮內宮正式名稱為皇大神宮，與祭祀豐受大御神的外宮並列為伊勢神宮的兩座正宮，主祭神是天照大御神，被尊為日本國民的總氏神。依《日本書紀》記載，倭姬命奉天照大神巡遊各地尋找安座之處，最後來到伊勢國。正殿被板垣、外玉垣、內玉垣與瑞垣四重垣圍繞，境內另有荒祭宮、風日祈宮等別宮。傳統上祭祀先外宮後內宮，參拜也以此順序為宜。宇治橋內側的神域與門前的御祓町商店街，構成伊勢參拜最核心的風景。",
+"facts": [
+{
+"label": "所在地",
+"value": "三重縣伊勢市（近鐵五十鈴川站最近）"
+},
+{
+"label": "開創／成因",
+"value": "相傳垂仁天皇時由倭姬命擇地奉祀天照大御神"
+},
+{
+"label": "看點",
+"value": "正宮、四重垣、荒祭宮與風日祈宮、宇治橋內神域"
+}
+],
+"best_season_zh": "清晨與四季皆宜",
+"tips_zh": "依習慣先參拜外宮再到內宮。正宮內不可拍照，請遵守標示；清晨空氣清澈、人潮較少，最適合沿神路慢慢走。",
+"tags": [
+"天照大御神",
+"皇大神宮",
+"神宮",
+"伊勢參拜"
+],
+"sources": [
+"https://ja.wikipedia.org/wiki/皇大神宮",
+"https://ja.wikipedia.org/wiki/伊勢神宮"
+],
+"confidence": "high",
+"prompt_en": "A sacred forest shrine approach with a long gravel path through towering ancient cedar trees, a simple unpainted wooden shrine gate in the mid-ground, sunlight filtering through mist in the early morning, calm and solemn mood, no text, no signs, no recognizable people"
+},
+{
+"title_zh": "夫婦岩",
+"title_ja": "夫婦岩（二見興玉神社）",
+"category": "海島海岸",
+"area_zh": "伊勢市二見町",
+"summary_zh": "以大注連繩相連的兩塊海中巨岩，是二見浦象徵。",
+"body_zh": "夫婦岩位於伊勢市二見町的二見興玉神社境內，兩塊海中巨岩以粗大的注連繩相連，是夫婦圓滿與家內安全的象徵，也是古神道磐座信仰的遺存。社伝稱興玉社的歷史始於在岩上張注連繩、遙拜距岸約700公尺海中的興玉神石。夫婦岩同時是迎接日之大神的鳥居，夏至前後約四個月可見日出自岩間升起，夏至前後兩週甚至可見遠方富士山頂的日出。神社的神使是青蛙，境內有無數蛙像，取「無事歸來」的諧音。",
+"facts": [
+{
+"label": "所在地",
+"value": "三重縣伊勢市二見町江（二見興玉神社）"
+},
+{
+"label": "開創／成因",
+"value": "社伝稱雄略天皇時期（456年）起即有祭祀，岩上張注連繩遙拜興玉神石"
+},
+{
+"label": "看點",
+"value": "大注連繩、夏季岩間日出、境內的蛙像"
+}
+],
+"best_season_zh": "夏季（日出）",
+"tips_zh": "想拍日出從岩間升起需在夏至前後清晨抵達，冬季日出方位不在兩岩之間，不要期待。境內蛙像很多，可順便逛逛。",
+"tags": [
+"二見浦",
+"注連繩",
+"磐座信仰",
+"日出"
+],
+"sources": [
+"https://ja.wikipedia.org/wiki/二見興玉神社",
+"https://ja.wikipedia.org/wiki/夫婦岩"
+],
+"confidence": "high",
+"prompt_en": "Two large rocks rising from calm sea water joined by a thick twisted straw rope, a small stone torii on the larger rock, sunrise glow behind with a faint mountain silhouette far on the horizon, gentle waves in the foreground, no text, no signs, no recognizable people"
+},
+{
+"title_zh": "托福橫丁",
+"title_ja": "おかげ横丁",
+"category": "街區古鎮",
+"area_zh": "伊勢市",
+"summary_zh": "重現江戶末至明治初「托福參拜」榮景的門前街區。",
+"body_zh": "托福橫丁位於伊勢神宮內宮門前的御祓町中段，重現江戶時代末期至明治初期因「托福參拜」而熱鬧的鳥居前町。由赤福前社長濱田益嗣主導，耗資約140億日圓，於1993年完成，共有28棟建築群，包括忠實重現或遷建的伊勢特有妻入建築、伊勢河崎的藏屋與桑名的洋館。園區與御祓町之間沒有門柵也不收門票，並非主題樂園。中有49家店鋪，主要販售伊勢志摩的特產與伴手禮，是伊勢志摩代表性的觀光地。",
+"facts": [
+{
+"label": "所在地",
+"value": "三重縣伊勢市（伊勢神宮內宮前、御祓町中段）"
+},
+{
+"label": "開創／成因",
+"value": "赤福主導，1993年完成，重現江戶末期至明治初期的鳥居前町"
+},
+{
+"label": "看點",
+"value": "妻入建築群、伊勢河崎藏屋、桑名洋館、特產小吃"
+}
+],
+"best_season_zh": "全年，早上與平日較悠閒",
+"tips_zh": "營業時間約為上午9點半至下午5點，建議參拜完內宮再來慢慢品嚐小吃。假日午間人潮擁擠，想拍街景請選平日早上。",
+"tags": [
+"御祓町",
+"托福參拜",
+"赤福",
+"鳥居前町"
+],
+"sources": [
+"https://ja.wikipedia.org/wiki/おかげ横丁"
+],
+"confidence": "high",
+"prompt_en": "A lively historic Japanese shrine-town street with rows of wooden gable-end merchant buildings, dark tile roofs and plain fabric curtains without writing, a stone-paved lane curving into the distance, warm afternoon sunlight, no text, no signs, no recognizable people"
+},
+{
+"title_zh": "鬼城",
+"title_ja": "鬼ヶ城",
+"category": "自然絕景",
+"area_zh": "熊野市木本町",
+"summary_zh": "熊野灘海蝕洞連綿1.2公里的海岸名勝。",
+"body_zh": "鬼城（鬼ヶ城）位於熊野市木本町，是熊野灘荒浪侵蝕形成的海岸景勝地。大小無數的海蝕洞經地震隆起而呈階梯狀排列，沿海延伸約1.2公里，是志摩半島延續下來的里亞斯式海岸最南端，再往南便轉為平緩的七里御濱。1935年被指定為國家天然紀念物，1958年追加獅子岩，成為名勝及天然紀念物，並屬世界遺產「紀伊山地的靈場與參詣道」，亦入選日本百景。傳說坂上田村麻呂曾在此討伐被視為鬼的海賊多娥丸，因而得名。",
+"facts": [
+{
+"label": "所在地",
+"value": "三重縣熊野市木本町"
+},
+{
+"label": "開創／成因",
+"value": "熊野灘波浪侵蝕海蝕洞，經地震隆起成階梯狀"
+},
+{
+"label": "看點",
+"value": "長約1.2公里的海蝕洞岩棚、獅子岩、海岸步道"
+}
+],
+"best_season_zh": "春季（櫻花）與晴天海況",
+"tips_zh": "岩棚表面凹凸濕滑，請穿防滑鞋，海浪大時避免靠近邊緣。可順走東口登山步道，春天沿途有多種櫻花。",
+"tags": [
+"熊野灘",
+"海蝕洞",
+"世界遺產",
+"日本百景"
+],
+"sources": [
+"https://ja.wikipedia.org/wiki/鬼ヶ城"
+],
+"confidence": "high",
+"prompt_en": "A rugged coastline of layered sandstone terraces pocked with sea caves, waves crashing gently against the rocks, a long rocky promenade curving along the shore, deep blue Pacific sea, crisp clear daytime light with soft shadows, no text, no signs, no recognizable people"
+},
+{
+"title_zh": "御在所岳",
+"title_ja": "御在所岳",
+"category": "山岳高原",
+"area_zh": "三重郡菰野町",
+"summary_zh": "鈴鹿山脈名峰，纜車直達山頂附近賞四季之美。",
+"body_zh": "御在所岳位於三重縣菰野町與滋賀縣東近江市交界，海拔1,212公尺，屬鈴鹿國定公園，名列日本二百名山。鈴鹿山脈是斷層山脈，三重縣側山壁陡峭、山稜線格外優美。山上春有杜鵑與櫻花，夏有紅蜻蜓，秋有紅葉，冬有樹冰，也是藤內壁等岩壁的攀岩名所。1959年4月開通的御在所纜車自湯之山溫泉直達山頂下方，約12分鐘即可抵達，山頂寬廣處另有滑雪場與纜椅，可登上一等三角點所在的西端山頂。",
+"facts": [
+{
+"label": "所在地",
+"value": "三重縣三重郡菰野町與滋賀縣東近江市交界"
+},
+{
+"label": "開創／成因",
+"value": "鈴鹿山脈為斷層山脈，三重縣側山壁陡峭"
+},
+{
+"label": "看點",
+"value": "御在所纜車、藤內壁、四季植物與冬季樹冰"
+}
+],
+"best_season_zh": "秋季（紅葉）與冬季（樹冰）",
+"tips_zh": "山上氣溫比山腳低很多，即使夏天也要多帶一件外套。纜車全年運行，但冬季強風或積雪時可能停駛，出發前先確認。",
+"tags": [
+"鈴鹿山脈",
+"纜車",
+"樹冰",
+"日本二百名山"
+],
+"sources": [
+"https://ja.wikipedia.org/wiki/御在所岳"
+],
+"confidence": "high",
+"prompt_en": "A steep rocky mountain ridge with rugged cliffs and autumn-coloured forest slopes, a cable car line crossing the valley, hazy lowland plain visible far below, crisp cold morning light with thin clouds, no text, no signs, no recognizable people"
+},
+{
+"title_zh": "湯之山溫泉",
+"title_ja": "湯の山温泉",
+"category": "溫泉",
+"area_zh": "三重郡菰野町",
+"summary_zh": "御在所岳東麓的溫泉鄉，鹼性鐳泉，毗鄰纜車。",
+"body_zh": "湯之山溫泉位於菰野町，座落在御在所岳東麓，是三瀧川溪谷旁的溫泉鄉，約有十四間飯店旅館依山坡而建。泉質為鹼性鐳泉，沒有歡樂街化，主打家庭旅行與鈴鹿山脈的休閒據點，許多旅館提供日歸入浴。溫泉街設有御在所纜車的搭乘處，夏天也是避暑地。每年十月初舉辦「僧兵祭」，附近的三嶽寺以祈求戀愛成就聞名。同時位於鈴鹿國定公園內，距名古屋、大阪都市圈都近，交通便利。",
+"facts": [
+{
+"label": "所在地",
+"value": "三重縣三重郡菰野町（御在所岳東麓）"
+},
+{
+"label": "開創／成因",
+"value": "位於三瀧川溪谷，鈴鹿國定公園內"
+},
+{
+"label": "看點",
+"value": "鹼性鐳泉、溪谷景觀、御在所纜車、10月僧兵祭"
+}
+],
+"best_season_zh": "秋季與夏季避暑",
+"tips_zh": "不少旅館提供日歸泡湯，可搭配御在所纜車安排半日行程。十月初僧兵祭期間活動熱鬧，住宿須提早預約。",
+"tags": [
+"鐳泉",
+"三瀧川",
+"僧兵祭",
+"鈴鹿國定公園"
+],
+"sources": [
+"https://ja.wikipedia.org/wiki/湯の山温泉_(三重県)"
+],
+"confidence": "high",
+"prompt_en": "A mountain hot-spring village built on a forested valley slope along a clear stream, steam rising from a stone bath beside the water, soft misty morning light, layered green hills in the background, no text, no signs, no recognizable people"
+},
+{
+"title_zh": "伊賀上野城",
+"title_ja": "上野城",
+"category": "城郭史蹟",
+"area_zh": "伊賀市上野丸之內",
+"summary_zh": "藤堂高虎改築的平山城，以高聳石垣聞名。",
+"body_zh": "上野城（伊賀上野城）位於伊賀市上野公園，是建在上野盆地中央、海拔約184公尺小丘上的平山城，別名白鳳城。1585年由筒井定次改修，1611年遵德川家康之命，築城名人藤堂高虎大規模擴建，重點加強面向大坂的西側防禦。但因大坂之陣後豐臣氏滅亡而中止築城，主要曲輪未完成，天守也未再建。高約30公尺的石垣長年被稱為日本第一，1967年舊城域列為國家史蹟。公園內另有俳聖殿、芭蕉翁紀念館與伊賀流忍者博物館。",
+"facts": [
+{
+"label": "所在地",
+"value": "三重縣伊賀市上野丸之內（上野公園內）"
+},
+{
+"label": "開創／成因",
+"value": "1611年藤堂高虎奉家康之命擴建，1967年列為國家史蹟"
+},
+{
+"label": "看點",
+"value": "約30公尺高的石垣、俳聖殿、伊賀流忍者博物館"
+}
+],
+"best_season_zh": "春季（櫻花）與秋季",
+"tips_zh": "石垣西側最能感受高度，建議沿城下走一圈再上到城內。可與園區內的忍者博物館、芭蕉紀念館一併安排半日行程。",
+"tags": [
+"藤堂高虎",
+"石垣",
+"忍者",
+"松尾芭蕉"
+],
+"sources": [
+"https://ja.wikipedia.org/wiki/上野城"
+],
+"confidence": "high",
+"prompt_en": "A very tall steep stone castle wall rising above a moat on a small hill, pine trees on top and cherry blossoms in the foreground, a white-walled small keep visible above the trees, clear spring morning light, no text, no signs, no recognizable people"
+},
+{
+"title_zh": "志摩西班牙村",
+"title_ja": "志摩スペイン村",
+"category": "主題設施",
+"area_zh": "志摩市磯部町",
+"summary_zh": "以西班牙為主題的度假型主題樂園，近鐵開發。",
+"body_zh": "志摩西班牙村位於志摩市磯部町，是近畿日本鐵道依三重陽光地帶構想與《度假法》開發的複合度假設施，由主題樂園「西班牙公園」、飯店及天然溫泉「向日葵之湯」三部分構成。近鐵自伊勢志摩於1946年列為國立公園後陸續推動觀光開發，1970年代起充實人工觀光資源，鎖定年輕族群與家庭客。園區以西班牙文化為概念，樂園開發費最後定為約600億日圓，2001年增設溫泉以與大阪環球影城區隔。營業資訊請以官方網站為準。",
+"facts": [
+{
+"label": "所在地",
+"value": "三重縣志摩市磯部町坂崎"
+},
+{
+"label": "開創／成因",
+"value": "近鐵依1988年三重陽光地帶構想與度假法開發，開發費約600億日圓"
+},
+{
+"label": "看點",
+"value": "西班牙主題樂園、飯店、天然溫泉「向日葵之湯」"
+}
+],
+"best_season_zh": "春秋季及避開假日人潮",
+"tips_zh": "可與伊勢神宮、鳥羽方向行程串聯成兩天一夜。入園前先查官方營業日與演出時刻，旺季搭近鐵特急最方便。",
+"tags": [
+"西班牙",
+"主題樂園",
+"近鐵",
+"伊勢志摩"
+],
+"sources": [
+"https://ja.wikipedia.org/wiki/志摩スペイン村"
+],
+"confidence": "medium",
+"prompt_en": "A Mediterranean-style resort park with terracotta-roofed whitewashed buildings, a tiled plaza with a fountain and palm trees, an abstract roller-coaster track curving behind in a blue sky, warm sunny afternoon light, no text, no signs, no logos, no recognizable people"
+}
+]
+}

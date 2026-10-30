@@ -1,0 +1,277 @@
+{
+ "id": "mie",
+ "foods": [
+  {
+   "title_zh": "伊勢烏龍麵",
+   "title_ja": "伊勢うどん",
+   "category": "麵飯",
+   "summary_zh": "粗軟麵條淋濃黑溜り醬油汁，伊勢神宮參拜名物。",
+   "body_zh": "伊勢うどん的麵條特別粗（至少6毫米）且軟，口感Q彈，與讚岐烏龍麵的硬脆不同。醬汁用豆味噌製程的「たまり」醬油加柴魚高湯調成，顏色濃黑但鹹度適中。麵先長時間煮好備用，點餐時再快速汆燙淋汁，配蔥末，有時加生蛋。相傳江戶時代以前由農民發展，後來專為伊勢神宮參拜者提供。",
+   "facts": [
+    {
+     "label": "起源",
+     "value": "江戶時代以前，農民以麥類製麵，後服務參拜客"
+    },
+    {
+     "label": "主要食材",
+     "value": "粗麵條、たまり醬油、柴魚高湯、蔥"
+    },
+    {
+     "label": "吃法",
+     "value": "拌匀濃汁後直接吃"
+    }
+   ],
+   "season_zh": "全年",
+   "where_zh": "伊勢市伊勢神宮參道周邊的麵店",
+   "tags": [
+    "烏龍麵",
+    "伊勢神宮",
+    "溜り醬油",
+    "粗麵"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/伊勢うどん"
+   ],
+   "confidence": "high",
+   "prompt_en": "A single ceramic bowl of thick soft Ise udon noodles coated in dark tamari sauce with chopped scallions on top, wooden table, soft warm light, no text"
+  },
+  {
+   "title_zh": "松阪牛",
+   "title_ja": "松阪牛",
+   "category": "肉類",
+   "summary_zh": "未生產過的黑毛和牛母牛，日本三大和牛之一。",
+   "body_zh": "松阪牛自江戶時代起由三重縣松阪地區農家向外地購入優質小牛育肥而成，與神戶牛、近江牛並稱日本三大和牛。標準為未生產過的黑毛和種母牛，在指定的22個市町飼育，並登錄個體識別管理系統，約肥育三年。霜降紋理細緻，常見吃法有壽喜燒、燒肉與牛排。肉質柔軟入口即化，是三重縣最具代表性的高級食材。",
+   "facts": [
+    {
+     "label": "起源",
+     "value": "江戶時代起，外購小牛在松阪育肥"
+    },
+    {
+     "label": "主要食材",
+     "value": "黑毛和種未生產母牛，約飼育3年"
+    },
+    {
+     "label": "吃法",
+     "value": "壽喜燒、燒肉、牛排"
+    }
+   ],
+   "season_zh": "全年",
+   "where_zh": "松阪市的牛肉專門店與燒肉店",
+   "tags": [
+    "和牛",
+    "霜降",
+    "壽喜燒",
+    "三大和牛"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/松阪牛"
+   ],
+   "confidence": "high",
+   "prompt_en": "A single plate of thinly sliced heavily marbled raw Matsusaka beef, arranged neatly on a black ceramic plate, dark wooden table, soft side light, no text"
+  },
+  {
+   "title_zh": "手揉壽司",
+   "title_ja": "てこね寿司",
+   "category": "鄉土料理",
+   "summary_zh": "漁夫將鰹魚醃醬油，與醋飯手拌而成。",
+   "body_zh": "てこね寿司是三重縣志摩地方的鄉土料理，據傳由志摩町和具漁民所創。漁夫在捕魚空檔把鰹魚切片，浸入醬油為主的醬汁，與剛煮好的飯用手拌著吃，約始於江戶時代。主要用鰹魚或鮪魚等紅肉魚，可配大葉、薑與海苔。因為是漁夫在船上用手拌飯，所以才叫「手揉」，做法簡單而直接。",
+   "facts": [
+    {
+     "label": "起源",
+     "value": "志摩和具漁民所創（相傳），約始於江戶時代"
+    },
+    {
+     "label": "主要食材",
+     "value": "鰹魚或鮪魚、醬油醬汁、壽司飯、大葉"
+    },
+    {
+     "label": "吃法",
+     "value": "魚片醃醬後與飯拌食"
+    }
+   ],
+   "season_zh": "鰹魚季節春至秋",
+   "where_zh": "志摩、鳥羽的漁村與食堂",
+   "tags": [
+    "壽司",
+    "鰹魚",
+    "志摩",
+    "漁師飯"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/てこね寿司"
+   ],
+   "confidence": "medium",
+   "prompt_en": "A wooden bowl of tekone-zushi, marinated red bonito slices over sushi rice topped with shredded shiso and nori, simple fishing-village table, soft natural light, no text"
+  },
+  {
+   "title_zh": "赤福餅",
+   "title_ja": "赤福",
+   "category": "甜點和菓子",
+   "summary_zh": "伊勢名物，外形象徵五十鈴川水流的紅豆餅。",
+   "body_zh": "赤福是伊勢市的代表和菓子，屬於餡包餅類的あんころ餅。官方以1707年（寶永4年）為創業年，因文獻首次提到赤福這個商號。餅上的三道波紋象徵五十鈴川的水流，成分為砂糖、北海道產紅豆與國產糯米，是伊勢參拜者的名物伴手禮。一盒內通常有紅豆餡與煎茶搭配，在伊勢神宮前的本店可以現場配茶品嚐。",
+   "facts": [
+    {
+     "label": "起源",
+     "value": "官方創業年為1707年（寶永4年），確切年份不明"
+    },
+    {
+     "label": "主要食材",
+     "value": "糯米、北海道紅豆、砂糖"
+    },
+    {
+     "label": "吃法",
+     "value": "配煎茶吃"
+    }
+   ],
+   "season_zh": "全年",
+   "where_zh": "伊勢神宮內宮前的赤福本店",
+   "tags": [
+    "紅豆餅",
+    "伊勢神宮",
+    "和菓子",
+    "伴手禮"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/赤福"
+   ],
+   "confidence": "medium",
+   "prompt_en": "Akafuku mochi on a small plate, soft rice cake topped with smooth red bean paste marked with three wave lines, a cup of green tea beside, wooden table, soft natural light, no text"
+  },
+  {
+   "title_zh": "伊勢龍蝦",
+   "title_ja": "伊勢海老",
+   "category": "海鮮",
+   "summary_zh": "三重縣魚，志摩的名貴海產。",
+   "body_zh": "伊勢海老被指定為三重縣的縣魚（1990年11月2日），主要產地是志摩市。三重縣漁期為10月至4月，5至8月為產卵期，多地禁漁以保護資源。1642年的《料理物語》已記載水煮或燒烤的做法，現代有生魚片、湯品、燒烤與炸物等吃法。外殼鮮紅、肉質緊實甘甜，是新年與慶典的吉祥食材。",
+   "facts": [
+    {
+     "label": "起源",
+     "value": "1642年《料理物語》已有烹調記載"
+    },
+    {
+     "label": "主要食材",
+     "value": "伊勢龍蝦"
+    },
+    {
+     "label": "時節",
+     "value": "三重縣漁期10月至4月"
+    }
+   ],
+   "season_zh": "10月至4月",
+   "where_zh": "志摩市、鳥羽的漁港與旅館",
+   "tags": [
+    "龍蝦",
+    "志摩",
+    "縣魚",
+    "生魚片"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/イセエビ"
+   ],
+   "confidence": "high",
+   "prompt_en": "A whole live-colored spiny lobster (ise-ebi) served as sashimi on crushed ice with the shell and antennae on a dark plate, with shiso leaf, soft side light, no text"
+  },
+  {
+   "title_zh": "伊勢茶",
+   "title_ja": "伊勢茶",
+   "category": "酒與飲品",
+   "summary_zh": "三重縣綠茶，全國第三，加工用茶份額居冠。",
+   "body_zh": "伊勢茶產自舊伊勢國，傳說平安時代僧侶玄庵曾植茶樹，江戶時代由御師與伊勢商人推向全國。三重縣茶園面積與荒茶產量居全國第三，加工用原料茶市佔約82%居首。北勢地區以含茶氨酸豐富的蓋茶聞名，南勢地區以深蒸煎茶為主。2004年首次供奉伊勢神宮，2007年取得地域團體商標。",
+   "facts": [
+    {
+     "label": "起源",
+     "value": "傳說平安時代，1594年檢地帳已記載茶"
+    },
+    {
+     "label": "主要食材",
+     "value": "蓋茶、深蒸煎茶"
+    },
+    {
+     "label": "吃法",
+     "value": "以煎茶沖泡熱飲"
+    }
+   ],
+   "season_zh": "新茶4至5月",
+   "where_zh": "四日市、鈴鹿、多氣一帶茶園",
+   "tags": [
+    "綠茶",
+    "蓋茶",
+    "伊勢",
+    "地域商標"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/伊勢茶"
+   ],
+   "confidence": "high",
+   "prompt_en": "A ceramic cup of bright green kabusecha tea with a small teapot, tea fields softly blurred behind, wooden tray, soft morning light, no text"
+  },
+  {
+   "title_zh": "松阪雞燒肉",
+   "title_ja": "松阪鶏焼き肉",
+   "category": "B級美食",
+   "summary_zh": "松阪市的雞肉燒肉，在地名物之一。",
+   "body_zh": "松阪鶏焼き肉是松阪市的在地名物，以醬汁醃漬的雞肉在鐵板或網上燒烤，常搭配高麗菜。本次僅在松阪市條目中確認它被列為名產，來由與調味細節無法核實，內容為概述，需另行查證。通常會配上高麗菜等蔬菜，並以辛香醬汁調味，是松阪牛之外的另一種在地選擇。",
+   "facts": [
+    {
+     "label": "起源",
+     "value": "未核實"
+    },
+    {
+     "label": "主要食材",
+     "value": "雞肉、醬汁、高麗菜"
+    },
+    {
+     "label": "吃法",
+     "value": "鐵板或網上燒烤"
+    }
+   ],
+   "season_zh": "全年",
+   "where_zh": "松阪市內的雞燒肉店",
+   "tags": [
+    "雞肉",
+    "燒肉",
+    "松阪",
+    "B級"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/松阪市"
+   ],
+   "confidence": "low",
+   "prompt_en": "Marinated chicken pieces grilling on a small iron plate with cabbage beside, on a wooden table in a casual yakiniku shop, warm light, no text"
+  },
+  {
+   "title_zh": "的矢牡蠣",
+   "title_ja": "的矢かき",
+   "category": "特產食材",
+   "summary_zh": "的矢灣養殖的三重品牌牡蠣。",
+   "body_zh": "的矢灣位於志摩，是典型的里亞斯式海岸，牡蠣與珍珠貝養殖興盛。1956年當地漁民反對將海灣變成淡水湖的計畫，保住了養殖。如今的矢牡蠣是三重品牌的重要商品，可生食、燒烤或炸。本次未核實的矢牡蠣的無菌化技術與具體時節。的矢灣平靜的海水適合牡蠣成長，也供應燒烤與炸牡蠣等不同吃法。",
+   "facts": [
+    {
+     "label": "起源",
+     "value": "1950年代起有養殖，細節未核實"
+    },
+    {
+     "label": "主要食材",
+     "value": "的矢灣養殖牡蠣"
+    },
+    {
+     "label": "時節",
+     "value": "冬季為主（未核實）"
+    }
+   ],
+   "season_zh": "冬季（未核實）",
+   "where_zh": "志摩市的矢灣周邊牡蠣小屋",
+   "tags": [
+    "牡蠣",
+    "志摩",
+    "的矢灣",
+    "海鮮"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/的矢湾"
+   ],
+   "confidence": "low",
+   "prompt_en": "Four fresh raw oysters on the half shell on crushed ice with a lemon wedge on a dark slate plate, window light from a seaside hut, no text"
+  }
+ ]
+}

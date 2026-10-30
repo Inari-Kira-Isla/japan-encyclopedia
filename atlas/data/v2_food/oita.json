@@ -1,0 +1,149 @@
+{
+  "id": "oita",
+  "foods": [
+    {
+      "title_zh": "關鰺",
+      "title_ja": "関あじ",
+      "category": "海鮮",
+      "summary_zh": "佐賀關一本釣的高級竹筴魚，以生魚片最受歡迎。",
+      "body_zh": "關鰺是在豐予海峽捕獲、於大分市佐賀關上岸的竹筴魚，與關鯖並列頂級海產品牌。據日文維基百科，這一帶海流強勁、浮游生物豐富，魚終年留在當地，因此體型大、色澤偏金黃。傳統用一本釣捕撈，上岸後活殺處理以減少魚體受損。產季為3至10月，大尺寸又新鮮，最適合做成生魚片。1996年註冊商標，被稱為全國水產品首例。",
+      "facts": [
+        {"label": "起源", "value": "豐予海峽一本釣，1996年註冊商標"},
+        {"label": "主要食材", "value": "佐賀關上岸的竹筴魚"},
+        {"label": "時節", "value": "3至10月，生魚片最美味"}
+      ],
+      "season_zh": "3至10月",
+      "where_zh": "大分市佐賀關周邊的漁港食堂與鮮魚店",
+      "tags": ["竹筴魚", "一本釣", "生魚片", "品牌魚"],
+      "sources": ["https://ja.wikipedia.org/wiki/関あじ"],
+      "confidence": "high",
+      "prompt_en": "A single plate of Seki aji sashimi, thick glossy slices of fresh horse mackerel arranged on shredded daikon with shiso leaf, grated ginger and a tiny dish of soy sauce on the side, simple white ceramic plate on a light wooden counter in a seaside restaurant, soft bright natural light, no text, no signage"
+    },
+    {
+      "title_zh": "炸雞天",
+      "title_ja": "とり天",
+      "category": "B級美食",
+      "summary_zh": "調味雞肉裹天婦羅衣炸成，沾醋醬油與黃芥末。",
+      "body_zh": "とり天是把雞肉用醬油、蒜泥醃過，再裹蛋與麵粉調的天婦羅衣油炸的大分名物。據日文維基百科，起源有多種說法：別府市有說法指東洋軒（1926年開業）為源頭，昭和初期菜單已有「鶏肉ノテンプラ」，大分市則以いこい與キッチン丸山為元祖。常用醋醬油加黃芥末當沾醬，也可擠上酸橘，在大分被稱為「縣民美食」。",
+      "facts": [
+        {"label": "起源", "value": "別府東洋軒（1926年開業）與大分市店家等多種說法"},
+        {"label": "主要食材", "value": "雞肉、醬油蒜泥調味、天婦羅衣"},
+        {"label": "吃法", "value": "沾醋醬油加黃芥末，也可擠酸橘"}
+      ],
+      "season_zh": "全年",
+      "where_zh": "別府與大分市的定食屋、居酒屋",
+      "tags": ["炸雞", "天婦羅", "縣民美食", "芥末醋醬油"],
+      "sources": ["https://ja.wikipedia.org/wiki/とり天"],
+      "confidence": "high",
+      "prompt_en": "A single plate of toriten, golden crispy tempura-battered bite-sized chicken pieces on a small plate with shredded cabbage, a small dish of vinegar soy sauce with a dab of yellow mustard and a halved green kabosu citrus, wooden table in a casual Japanese diner, warm light, no text, no signage"
+    },
+    {
+      "title_zh": "團子湯",
+      "title_ja": "だんご汁",
+      "category": "鄉土料理",
+      "summary_zh": "手撕扁麵疙瘩放進味噌蔬菜湯的大分家常菜。",
+      "body_zh": "だんご汁是大分縣全域都吃的鄉土料理，把小麥粉加鹽水揉好靜置，用手拉成扁平的麵疙瘩，放進味噌或醬油湯底。湯裡有牛蒡、紅蘿蔔、香菇與豬肉，風味近似豬肉味噌湯，並以麥味噌與小魚乾提味。據日文維基百科，大分平地少、不利種稻，過去多種麥，因此發展出許多麵食。它是日常菜而非節慶菜，同樣的麵加黃豆粉與糖就成了やせうま。",
+      "facts": [
+        {"label": "起源", "value": "發想時間與店家不詳，與大分以麥為主的農業背景有關"},
+        {"label": "主要食材", "value": "小麥粉麵疙瘩、牛蒡、紅蘿蔔、香菇、豬肉、麥味噌"},
+        {"label": "吃法", "value": "趁熱連湯食用，日常家庭菜"}
+      ],
+      "season_zh": "全年",
+      "where_zh": "大分縣內家庭與鄉土料理店",
+      "tags": ["鄉土料理", "麵疙瘩", "味噌湯", "家常菜"],
+      "sources": ["https://ja.wikipedia.org/wiki/だんご汁"],
+      "confidence": "high",
+      "prompt_en": "A single rustic ceramic bowl of dango-jiru, flat hand-stretched wheat dumplings in a cloudy miso broth with burdock, carrot, shiitake mushroom and thin pork slices, chopped green onion on top, steam rising, plain wooden table, soft window light, no text, no signage"
+    },
+    {
+      "title_zh": "琉球丼",
+      "title_ja": "りゅうきゅう",
+      "category": "鄉土料理",
+      "summary_zh": "生魚片醃進醬油芝麻醬汁，可蓋飯或做茶泡飯。",
+      "body_zh": "りゅうきゅう是大分的代表鄉土料理，把當季魚類的生魚片，泡進以醬油、砂糖與酒調成並加了芝麻與薑的醬汁裡。據農林水產省的介紹，名稱由來有諸說，有說向沖繩漁夫學來，也有說由「利休和え」衍生；它原是漁夫的便餐與保存食，由南部沿海傳到全縣。常蓋在熱飯上吃，也可以淋茶做成茶泡飯，換一種風味。",
+      "facts": [
+        {"label": "起源", "value": "漁夫便餐與保存食，名稱由來有沖繩說與利休和說"},
+        {"label": "主要食材", "value": "鰤魚、竹筴魚、鯛魚等生魚片、醬油、芝麻、薑"},
+        {"label": "吃法", "value": "蓋熱飯，或淋茶做成茶泡飯"}
+      ],
+      "season_zh": "全年（依當季魚）",
+      "where_zh": "大分縣內的家庭與居酒屋、定食屋",
+      "tags": ["醃生魚片", "芝麻醬汁", "漁夫料理", "蓋飯"],
+      "sources": ["https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/ryukyu_oita.html"],
+      "confidence": "high",
+      "prompt_en": "A single ceramic bowl of ryukyu, glossy slices of marinated yellowtail sashimi in a soy sesame sauce over hot white rice, sprinkled with toasted sesame, shredded ginger and chopped green onion, small shiso leaf, dark wooden table, soft side lighting, no text, no signage"
+    },
+    {
+      "title_zh": "別府冷麵",
+      "title_ja": "別府冷麺",
+      "category": "麵飯",
+      "summary_zh": "別府的蕎麥小麥混合彈牙冷麵，湯底偏日式海鮮風味。",
+      "body_zh": "別府冷麵是別府市民的靈魂美食。據日文維基百科，大約1950年，一位從滿洲回國的廚師在當地開店，當時別府有不少韓國籍居民。麵條由小麥粉、蕎麥粉與澱粉製成，專門店的麵較粗而有嚼勁，燒肉店則較細滑。與韓國冷麵不同，湯底是以海鮮為基底的日式風味，搭配泡菜。2009年起市府推動「別府冷麵計畫」，目前約有六、七十家店供應。",
+      "facts": [
+        {"label": "起源", "value": "約1950年，滿洲歸國廚師於別府開店"},
+        {"label": "主要食材", "value": "小麥粉、蕎麥粉與澱粉製的麵，海鮮系湯底，泡菜"},
+        {"label": "吃法", "value": "連冷湯與泡菜一起吃，專門店與燒肉店風格不同"}
+      ],
+      "season_zh": "全年",
+      "where_zh": "別府市的冷麵專門店與燒肉店",
+      "tags": ["冷麵", "別府", "泡菜", "燒肉店"],
+      "sources": ["https://ja.wikipedia.org/wiki/別府冷麺"],
+      "confidence": "high",
+      "prompt_en": "A single large bowl of Beppu reimen, chewy pale cold noodles in a clear chilled seafood-based broth, topped with cucumber slices, a boiled egg half, thin slices of beef and a small mound of napa cabbage kimchi, a couple of ice cubes in the broth, white ceramic bowl on a wooden table, soft daylight, no text, no signage"
+    },
+    {
+      "title_zh": "黃豆粉扁麵",
+      "title_ja": "やせうま",
+      "category": "甜點和菓子",
+      "summary_zh": "水煮扁麵裹黃豆粉與砂糖的大分傳統點心。",
+      "body_zh": "やせうま是大分的小麥粉點心，把手捏壓扁的麵條煮熟，再撒上黃豆粉與砂糖。據日文維基百科，傳說藤原鶴清麿向侍女「八瀬」索要點心時叫著「八瀬，馬」，因此得名，但這是傳說。可熱吃也可放涼吃，常出現在當地學校營養午餐，也有生麵與乾麵販售。在大分，與8月14日盂蘭盆節及3月21日弘法大師忌日等佛教儀式有關。",
+      "facts": [
+        {"label": "起源", "value": "名稱有藤原鶴清麿與侍女八瀬的傳說（屬傳說）"},
+        {"label": "主要食材", "value": "小麥粉扁麵、黃豆粉、砂糖"},
+        {"label": "吃法", "value": "熱吃或冷吃當點心"}
+      ],
+      "season_zh": "全年，佛教節日常吃",
+      "where_zh": "大分縣內的家庭、學校午餐與產地市集",
+      "tags": ["黃豆粉", "麵食點心", "佛教節日", "傳統點心"],
+      "sources": ["https://ja.wikipedia.org/wiki/やせうま"],
+      "confidence": "medium",
+      "prompt_en": "A single shallow ceramic dish of yaseuma, flat pinched wheat noodles generously dusted with pale golden kinako roasted soybean powder and sugar, a pair of wooden chopsticks resting on the side, rustic wooden table, soft natural daylight, warm and simple, no text, no signage"
+    },
+    {
+      "title_zh": "大分麥燒酎",
+      "title_ja": "麦焼酎",
+      "category": "酒與飲品",
+      "summary_zh": "大分是麥燒酎最大產地，口感圓潤帶麥香。",
+      "body_zh": "麥燒酎以大麥為原料，據日文維基百科，起源可追溯到江戶時代的壹岐島，1951年麥管制解除後產量大增，1970至80年代因技術改良與大分縣的「一村一品」運動而掀起熱潮。大分縣以麥麴釀造，2017年產量占九州約64.7%，代表酒廠有二階堂的「吉四六」與三和酒類的「いいちこ」。口感圓潤帶甜味，減壓蒸餾的款式較清爽，傳統蒸餾則帶烘烤麥香。",
+      "facts": [
+        {"label": "起源", "value": "江戶時代壹岐島，1970至80年代大分帶動熱潮"},
+        {"label": "主要食材", "value": "二條大麥與麥麴"},
+        {"label": "吃法", "value": "可加冰塊或兌水兌熱水"}
+      ],
+      "season_zh": "全年",
+      "where_zh": "大分縣內的酒藏與居酒屋",
+      "tags": ["麥燒酎", "吉四六", "いいちこ", "一村一品"],
+      "sources": ["https://ja.wikipedia.org/wiki/麦焼酎"],
+      "confidence": "high",
+      "prompt_en": "A single tall glass of barley shochu on the rocks with large clear ice, a few ears of golden barley placed beside the glass, a plain ceramic bottle blurred behind without any label, dark wooden bar counter, soft warm lamp light, no text, no label, no signage"
+    },
+    {
+      "title_zh": "酸橘",
+      "title_ja": "カボス",
+      "category": "特產食材",
+      "summary_zh": "大分占全國產量99%的綠色香酸柑橘。",
+      "body_zh": "酸橘是香氣濃、酸味強的香酸柑橘。據日文維基百科，大分縣占全國產量的99%，是絕對的主產地，推測為柚子與東南亞柑橘雜交而來。果實約100至150克，採收時仍為綠色，成熟後轉黃，比酢橘大，果蒂周圍有環狀隆起。常擠在生魚片、烤魚與火鍋上提味，也做成橙醋、果汁與點心，是大分餐桌上不可少的調味。",
+      "facts": [
+        {"label": "起源", "value": "推測為柚子與東南亞柑橘的雜交，細節不詳"},
+        {"label": "主要食材", "value": "綠色香酸柑橘，果重約100至150克"},
+        {"label": "吃法", "value": "擠汁搭配生魚片、烤魚、火鍋或做橙醋"}
+      ],
+      "season_zh": "約夏末至秋季採收綠果",
+      "where_zh": "大分縣內的產地與各類料理店",
+      "tags": ["香酸柑橘", "大分99%", "調味", "橙醋"],
+      "sources": ["https://ja.wikipedia.org/wiki/カボス"],
+      "confidence": "high",
+      "prompt_en": "A single cluster of fresh green kabosu citrus fruits with leaves, one fruit cut in half showing pale juicy segments, resting on a small woven bamboo tray, rustic wooden table, soft natural daylight, fresh and bright, no text, no signage"
+    }
+  ]
+}

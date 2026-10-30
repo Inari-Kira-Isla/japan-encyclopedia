@@ -1,0 +1,149 @@
+{
+ "id": "nagasaki",
+ "foods": [
+  {
+   "title_zh": "長崎強棒麵",
+   "title_ja": "長崎ちゃんぽん",
+   "category": "麵飯",
+   "summary_zh": "豬肉海鮮蔬菜與麵同鍋煮的濃郁長崎麵食。",
+   "body_zh": "長崎強棒麵相傳由長崎市中華料理店「四海樓」初代店主陳平順在明治中期創作，原為給清國留學生提供便宜又營養的餐點。用豬肉、蔬菜與魚板等十多種配料以豬油炒過，再以雞骨或豬骨湯調味，與其他中華麵最大差別在於麵直接和配料一起在鍋中煮開。麵使用長崎特有的唐灰汁製成，並被認為影響了九州各地豚骨拉麵。",
+   "facts": [
+    {"label": "起源", "value": "明治中期，四海樓陳平順（維基記載）"},
+    {"label": "主要食材", "value": "豬肉、蔬菜、魚板、雞骨豬骨湯、唐灰汁麵"},
+    {"label": "吃法", "value": "麵與配料同鍋煮，連湯享用"}
+   ],
+   "season_zh": "全年",
+   "where_zh": "長崎市新地中華街與四海樓周邊",
+   "tags": ["強棒麵", "四海樓", "中華料理", "麵食"],
+   "sources": ["https://ja.wikipedia.org/wiki/長崎ちゃんぽん"],
+   "confidence": "medium",
+   "prompt_en": "A single large white bowl of Nagasaki champon, creamy milky pork-chicken broth with thick chewy noodles, pork, cabbage, bean sprouts, shrimp, squid and a slice of fish cake, steam rising, on a dark wooden table, warm soft light, no text"
+  },
+  {
+   "title_zh": "什錦炒麵",
+   "title_ja": "皿うどん",
+   "category": "麵飯",
+   "summary_zh": "細脆麵或粗麵淋上海鮮蔬菜勾芡，常加伍斯特醬。",
+   "body_zh": "皿うどん相傳也是四海樓的陳平順，參考炒麵類並為了外送而由強棒麵改良出來。有兩種麵：細麵先炸成酥脆口感再淋濃稠的勾芡；粗麵則是蒸或煮過的中華麵，像炒麵般炒或煎。配料有牡蠣、烏賊、蝦、豬肉、魚板與高麗菜、豆芽，用豬雞湯和太白粉勾芡。在長崎常會淋伍斯特醬增添酸味。據維基百科，長崎南部偏好細麵，北部偏好粗麵。",
+   "facts": [
+    {"label": "起源", "value": "四海樓陳平順，由強棒麵改良（維基記載）"},
+    {"label": "主要食材", "value": "炸細麵或粗麵、海鮮、豬肉、蔬菜"},
+    {"label": "吃法", "value": "淋伍斯特醬，細麵版趁酥脆享用"}
+   ],
+   "season_zh": "全年",
+   "where_zh": "長崎市中華料理店與強棒麵專門店",
+   "tags": ["皿うどん", "炸麵", "勾芡", "中華料理"],
+   "sources": ["https://ja.wikipedia.org/wiki/皿うどん"],
+   "confidence": "medium",
+   "prompt_en": "A single white plate of Nagasaki sara udon, crispy thin fried noodles topped with glossy thick sauce, shrimp, squid, pork, cabbage and quail egg, a small bottle of Worcestershire sauce at the side, dark wooden table, warm light, no text"
+  },
+  {
+   "title_zh": "長崎蛋糕",
+   "title_ja": "カステラ",
+   "category": "甜點和菓子",
+   "summary_zh": "葡萄牙傳入、以白雙糖烤成的長崎代表蛋糕。",
+   "body_zh": "蛋糕（カステラ）約16世紀由葡萄牙傳入，語源說是「卡斯蒂利亞王國的點心」。維基百科指，因長崎在江戶鎖國期間仍是貿易港、為砂糖的大集散地，加上氣候適合製作，成為長崎特產。材料是雞蛋、砂糖、水飴與麵粉，烤出鬆軟蛋糕，會用白雙糖，有時加蜂蜜。2006年長崎縣菓子工業組合取得「長崎カステラ」地域團體商標。",
+   "facts": [
+    {"label": "起源", "value": "16世紀自葡萄牙傳入（維基記載）"},
+    {"label": "主要食材", "value": "雞蛋、砂糖、水飴、麵粉、白雙糖"},
+    {"label": "吃法", "value": "切片直接吃，搭配茶"}
+   ],
+   "season_zh": "全年",
+   "where_zh": "長崎市的老舖蛋糕店與伴手禮店",
+   "tags": ["蛋糕", "葡萄牙", "雙糖", "伴手禮"],
+   "sources": ["https://ja.wikipedia.org/wiki/カステラ"],
+   "confidence": "medium",
+   "prompt_en": "Three thick slices of Nagasaki castella sponge cake with golden brown top crust and soft yellow crumb, granulated sugar crystals visible on the bottom, on a small white plate with a cup of tea, pale wooden table, soft daylight, no text"
+  },
+  {
+   "title_zh": "桌袱料理",
+   "title_ja": "卓袱料理",
+   "category": "鄉土料理",
+   "summary_zh": "和華蘭融合、圍圓桌分食的長崎宴席料理。",
+   "body_zh": "桌袱料理是長崎發展出的宴席料理，結合日本、中國與荷蘭（西洋）元素，故別稱「和華蘭料理」。不同於一人一份的膳食，食物盛在大盤，大家圍著圓桌分食，用各自筷子夾取，並配小陶匙。開席由稱為「御鰭」的鯛魚湯開始。維基百科記載最早文獻約1761年，江戶後期大為流行，現代菜單形式成於1900年代。代表料理有東坡煮、蝦吐司（ハトシ）與天婦羅。",
+   "facts": [
+    {"label": "起源", "value": "長崎，最早文獻約1761年（維基記載）"},
+    {"label": "主要食材", "value": "鯛魚湯、東坡煮、蝦吐司、天婦羅"},
+    {"label": "吃法", "value": "圍圓桌，各自以私筷從大盤取食"}
+   ],
+   "season_zh": "全年",
+   "where_zh": "長崎市內的老料亭與桌袱料理專門店",
+   "tags": ["宴席料理", "和華蘭", "圓桌", "長崎"],
+   "sources": ["https://ja.wikipedia.org/wiki/卓袱料理"],
+   "confidence": "medium",
+   "prompt_en": "A single large round red lacquer platter holding a small braised pork belly kakuni dish (tonpo-ni) with a green vegetable garnish, beside a small ceramic spoon, on a dark round table in a traditional Nagasaki restaurant, warm soft light, no text"
+  },
+  {
+   "title_zh": "土耳其飯",
+   "title_ja": "トルコライス",
+   "category": "B級美食",
+   "summary_zh": "炸豬排、炒飯類與義大利麵併盤的長崎洋食。",
+   "body_zh": "土耳其飯被維基百科認定以長崎縣、尤其長崎市為發祥地，1950年代誕生。基本是在一盤中放炸豬排、炒飯（或乾咖哩）與義大利麵（多為拿坡里），再淋上多蜜醬或咖哩醬，附沙拉，被形容為「大人的兒童餐」。名稱由來說法不一，有取自店名、與服裝有關、三色旗轉音等說，無定論。各地內容差異大，故以「長崎的洋食B級美食」描述較穩妥。",
+   "facts": [
+    {"label": "起源", "value": "長崎，1950年代，名稱由來有多說"},
+    {"label": "主要食材", "value": "炸豬排、炒飯類、拿坡里義大利麵"},
+    {"label": "吃法", "value": "一盤中混著吃，淋多蜜醬或咖哩醬"}
+   ],
+   "season_zh": "全年",
+   "where_zh": "長崎市的老牌咖啡店與洋食屋",
+   "tags": ["洋食", "B級美食", "炸豬排", "拿坡里"],
+   "sources": ["https://ja.wikipedia.org/wiki/トルコライス"],
+   "confidence": "medium",
+   "prompt_en": "A single large oval plate of Turkish rice, a breaded pork cutlet with demi-glace sauce, pilaf rice and spaghetti napolitan side by side, small green salad, in a retro Nagasaki cafe, warm lighting, no text"
+  },
+  {
+   "title_zh": "佐世保漢堡",
+   "title_ja": "佐世保バーガー",
+   "category": "肉類",
+   "summary_zh": "接單才現做的手工漢堡，源自佐世保美軍基地文化。",
+   "body_zh": "佐世保漢堡是長崎縣佐世保市的在地美食。據維基百科，約1950年隨美軍進駐，當地人向美海軍相關人員學得漢堡食譜，開啟佐世保的漢堡文化。定義是手工製作、依訂單才開始製作（不預先做好）的漢堡總稱，認定標準的基本構成為麵包、肉餅、蔬菜與醬汁，尺寸則資料未載。被視為高級漢堡的先驅，2019年登錄為地域團體商標。",
+   "facts": [
+    {"label": "起源", "value": "約1950年美軍進駐後（維基記載）"},
+    {"label": "主要食材", "value": "麵包、肉餅、蔬菜、醬汁"},
+    {"label": "吃法", "value": "接單現做，趁熱用手拿著吃"}
+   ],
+   "season_zh": "全年",
+   "where_zh": "佐世保市區與基地周邊的漢堡店",
+   "tags": ["漢堡", "佐世保", "美軍", "地域商標"],
+   "sources": ["https://ja.wikipedia.org/wiki/佐世保バーガー"],
+   "confidence": "medium",
+   "prompt_en": "A single tall handmade Sasebo burger on a paper-lined wooden board, thick beef patty, fresh lettuce, tomato, fried egg and bacon in a toasted bun, held together with a skewer, warm soft light, no text"
+  },
+  {
+   "title_zh": "五島烏龍麵",
+   "title_ja": "五島うどん",
+   "category": "特產食材",
+   "summary_zh": "以椿油拉細曬乾的手延細麵，常以地獄炊吃法聞名。",
+   "body_zh": "五島烏龍麵是長崎縣五島列島的手延麵，材料只有麵粉、鹽和椿油。做法是用鹽水揉麵，邊搓邊拉細，反覆手拉20次以上再曬乾，麵徑約2毫米，彈性強，椿油可防止氧化、保持口感。起源有多種說法，其中遣唐使傳來說最有力，因為五島位於日唐航路上。維基百科列其為日本三大烏龍麵之一，吃法有「地獄炊」，直接從沸騰的鍋中撈麵吃。",
+   "facts": [
+    {"label": "起源", "value": "多說並存，以遣唐使傳入說較有力"},
+    {"label": "主要食材", "value": "麵粉、鹽、椿油"},
+    {"label": "吃法", "value": "地獄炊，從沸騰鍋中直接撈麵蘸醬"}
+   ],
+   "season_zh": "全年，乾麵製作多在冬季（常識性說法，未核實）",
+   "where_zh": "五島列島新上五島町的製麵所",
+   "tags": ["烏龍麵", "手延麵", "椿油", "五島"],
+   "sources": ["https://ja.wikipedia.org/wiki/五島うどん"],
+   "confidence": "medium",
+   "prompt_en": "A single bundle of thin hand-stretched Goto udon noodles lifted from a bubbling iron pot, beside a small dipping bowl with raw egg and soy broth, camellia flower on a wooden table, warm steam, soft light, no text"
+  },
+  {
+   "title_zh": "壹岐燒酎",
+   "title_ja": "壱岐焼酎",
+   "category": "酒與飲品",
+   "summary_zh": "以大麥加米麴蒸餾的壹岐麥燒酎，登錄GI。",
+   "body_zh": "壹岐燒酎是長崎縣壹岐島產的麥燒酎，原料只使用大麥與米麴，與其他產地多用麥麴不同，因此有大麥的清香與米麴的甘醇。維基百科記載，蒸餾技術可能於15世紀後自朝鮮傳來，1791年有確切的生產記載，1995年登錄為國稅廳的地理標示（GI）。據說壹岐的地下水經玄武岩層過濾，帶來深度與爽口後味，被視為日本麥燒酎的發祥地。",
+   "facts": [
+    {"label": "起源", "value": "15世紀後傳入說，1791年有生產記載"},
+    {"label": "主要食材", "value": "大麥、米麴、壹岐地下水"},
+    {"label": "吃法", "value": "可純飲、加冰或兌水"}
+   ],
+   "season_zh": "全年",
+   "where_zh": "壹岐島上的酒造與島內居酒屋",
+   "tags": ["燒酎", "麥燒酎", "GI", "壹岐"],
+   "sources": ["https://ja.wikipedia.org/wiki/壱岐焼酎"],
+   "confidence": "medium",
+   "prompt_en": "A single clear glass of Iki barley shochu on the rocks beside a small ceramic bottle, on a dark wooden bar counter, soft warm lamp light, condensation on glass, simple setting, no text"
+  }
+ ]
+}

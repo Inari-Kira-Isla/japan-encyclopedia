@@ -1,0 +1,157 @@
+{
+ "id": "saga",
+ "spots": [
+  {
+   "title_zh": "吉野ヶ里遺跡",
+   "title_ja": "吉野ヶ里遺跡",
+   "category": "城郭史蹟",
+   "area_zh": "神埼郡吉野ヶ里町・神埼市",
+   "summary_zh": "彌生時代大型環濠聚落遺址，國家特別史蹟。",
+   "body_zh": "吉野ヶ里遺跡位於佐賀縣神埼郡吉野ヶ里町與神埼市之間的丘陵，是國家特別史蹟，也是約117公頃的彌生時代大型環濠聚落遺址，1986年起的發掘調查使其廣為人知。後期形成外壕與內壕雙重環濠，V字形外壕總長約2.5公里，壕內外設有木柵、土壘與瞭望樓。內郭發現祭祀用的主祭殿與高床倉庫，墓地出土的人骨留有箭傷，可想見當時戰亂。現為國營吉野ヶ里歷史公園。",
+   "facts": [
+    {"label": "所在地", "value": "佐賀縣神埼郡吉野ヶ里町與神埼市之間的吉野ヶ里丘陵"},
+    {"label": "開創／成因", "value": "彌生時代大型環濠聚落，1986年起發掘調查"},
+    {"label": "看點", "value": "雙重環濠、瞭望樓遺構、祭殿與高床倉庫、甕棺墓與墳丘墓"}
+   ],
+   "best_season_zh": "春秋季晴天",
+   "tips_zh": "園區佔地遼闊，先看環濠與內郭的整體配置，再挑出土品與墓地細看，約預留半天；夏季日照強，記得防曬補水。",
+   "tags": ["彌生時代", "環濠聚落", "特別史蹟", "歷史公園"],
+   "sources": ["https://ja.wikipedia.org/wiki/吉野ヶ里遺跡"],
+   "confidence": "high",
+   "prompt_en": "Wide grassy archaeological hillside park with reconstructed ancient pit dwellings and raised-floor storehouses with thatched roofs, a deep V-shaped moat with wooden palisade fencing and a tall wooden watchtower in the middle distance, distant green mountain ridge, clear afternoon sunlight, no text, no signs, no recognizable people"
+  },
+  {
+   "title_zh": "唐津城",
+   "title_ja": "唐津城",
+   "category": "城郭史蹟",
+   "area_zh": "唐津市東城內",
+   "summary_zh": "別名舞鶴城，臨海而建的海城，可眺虹之松原。",
+   "body_zh": "唐津城又名舞鶴城，位於佐賀縣唐津市，建在松浦川注入唐津灣的河口左岸滿島山上，北面臨海，是少見直接聳立於海邊石垣的海城。據傳由寺澤廣高於1602至1608年興建，並挪用名護屋城的遺材，但近年調查發現更古老的石垣，築城年代有異論。現存天守是1966年依慶長樣式建造的模擬天守，另有復原的櫓、門與石垣。城上可望見虹之松原向兩側展開，宛如鶴翼，故有舞鶴之名。",
+   "facts": [
+    {"label": "所在地", "value": "佐賀縣唐津市東城內，唐津灣畔的滿島山"},
+    {"label": "開創／成因", "value": "傳為寺澤廣高1602至1608年築城，年代尚有異論"},
+    {"label": "看點", "value": "海邊石垣、1966年建的模擬天守、復原櫓門、虹之松原遠景"}
+   ],
+   "best_season_zh": "春季櫻花期與晴朗傍晚",
+   "tips_zh": "麓下到上段廣場高低差約34公尺，可選斜行電梯或步行上山；建議順著海岸走一段，從海側仰望石垣最能看出海城的特色。",
+   "tags": ["舞鶴城", "海城", "模擬天守", "唐津灣"],
+   "sources": ["https://ja.wikipedia.org/wiki/唐津城"],
+   "confidence": "high",
+   "prompt_en": "Reconstructed white-walled castle keep on a forested hill beside a calm bay, massive stone ramparts rising directly from the sea edge in the foreground, a long curved pine-covered beach stretching away in the background, late afternoon golden light, light haze over the water, no text, no signs, no recognizable people"
+  },
+  {
+   "title_zh": "虹之松原",
+   "title_ja": "虹の松原",
+   "category": "自然絕景",
+   "area_zh": "唐津市唐津灣沿岸",
+   "summary_zh": "約百萬株黑松連綿四公里的特別名勝。",
+   "body_zh": "虹之松原位於佐賀縣唐津市唐津灣沿岸，約100萬株黑松沿弧形海岸連綿，寬約500公尺、長約4.5公里，是日本三大松原之一，並列為特別名勝。17世紀初唐津藩主寺澤廣高為開墾新田，在自然林基礎上植樹作防風防砂林，藩政時代嚴禁砍伐。1960年代起松材線蟲病造成大量枯死，至今仍須藥劑噴灑與伐除維護。松林旁連接海水浴場，鐵路有筑肥線虹之松原站。",
+   "facts": [
+    {"label": "所在地", "value": "佐賀縣唐津市唐津灣沿岸，玄海國定公園的一部分"},
+    {"label": "開創／成因", "value": "17世紀初寺澤廣高為防風防砂而植林"},
+    {"label": "看點", "value": "寬約500公尺、長約4.5公里的百萬株黑松與白沙海岸"}
+   ],
+   "best_season_zh": "初夏至秋季晴天",
+   "tips_zh": "可搭JR筑肥線在虹之松原站下車，沿舊國道的松林路散步；若想看整體弧形，宜到唐津城上眺望，而不是只在林內行走。",
+   "tags": ["日本三大松原", "特別名勝", "黑松林", "玄海國定公園"],
+   "sources": ["https://ja.wikipedia.org/wiki/虹の松原"],
+   "confidence": "high",
+   "prompt_en": "Long arc of dense dark green pine forest curving along a white sand beach and a calm blue bay, seen from an elevated viewpoint, low-angle sunlight casting long shadows between the trunks, a few distant hills on the horizon, clear sky, no text, no signs, no recognizable people"
+  },
+  {
+   "title_zh": "嬉野溫泉",
+   "title_ja": "嬉野温泉",
+   "category": "溫泉",
+   "area_zh": "嬉野市嬉野町",
+   "summary_zh": "日本三大美肌之湯，溫泉湯豆腐為名物。",
+   "body_zh": "嬉野溫泉位於佐賀縣嬉野市，與武雄溫泉並列佐賀縣代表溫泉，泉質為鈉-碳酸氫鹽‧氯化物泉（重曹泉），入浴後肌膚滑潤，被稱為日本三大美肌之湯。塩田川兩岸有近50家旅館，是九州屈指可數的大型溫泉街。《肥前國風土記》已有疑似記載，江戶時代是長崎街道的宿場町。溫泉亦適合飲用，以溫泉煮成的溫泉湯豆腐是名物，街上有可免費使用的『西博爾德足湯』。",
+   "facts": [
+    {"label": "所在地", "value": "佐賀縣嬉野市嬉野町，塩田川兩岸"},
+    {"label": "開創／成因", "value": "《肥前國風土記》已有記載，江戶時代為長崎街道宿場"},
+    {"label": "看點", "value": "美肌泉質、溫泉湯豆腐、西博爾德足湯與公共浴場"}
+   ],
+   "best_season_zh": "秋冬季",
+   "tips_zh": "先在中心商店街的足湯暖腳，再找一間提供溫泉湯豆腐的餐廳；泉質偏滑，泡後可補充水分，避免久泡頭暈。",
+   "tags": ["美肌之湯", "溫泉湯豆腐", "長崎街道", "足湯"],
+   "sources": ["https://ja.wikipedia.org/wiki/嬉野温泉"],
+   "confidence": "high",
+   "prompt_en": "Quiet hot-spring town along a gentle river with traditional multi-storey Japanese inns on both banks, wisps of steam rising from a small public foot-bath pavilion in the foreground, soft overcast winter dusk with warm lantern glow from windows, no text, no signs, no recognizable people"
+  },
+  {
+   "title_zh": "祐德稻荷神社",
+   "title_ja": "祐徳稲荷神社",
+   "category": "神社寺院",
+   "area_zh": "鹿島市",
+   "summary_zh": "日本三大稻荷之一，朱漆舞台造本殿，別名鎮西日光。",
+   "body_zh": "祐德稻荷神社位於佐賀縣鹿島市，與伏見稻荷大社、笠間稻荷神社並稱日本三大稻荷，據稱每年有三百萬人參拜，別名『鎮西日光』，樓門仿日光東照宮陽明門。起源是鹿島藩主鍋島直朝的繼室萬子媛，從伏見稻荷勸請分靈，1687年於石壁山建社。現本殿為1957年重建的第三代，建於舞台造之上，位於117級階梯上方，主要建築全面髹漆，另設有付費電梯。",
+   "facts": [
+    {"label": "所在地", "value": "佐賀縣鹿島市"},
+    {"label": "開創／成因", "value": "鍋島直朝之妻萬子媛勸請稻荷分靈，1687年建社"},
+    {"label": "看點", "value": "仿陽明門的樓門、舞台造總漆本殿、117級階梯、日本庭園"}
+   ],
+   "best_season_zh": "晴朗清晨或初詣期間",
+   "tips_zh": "從肥前鹿島站搭祐德巴士約10分鐘可達；年末年始的初詣期間道路容易壅塞，建議避開深夜時段或改搭巴士前往。",
+   "tags": ["日本三大稻荷", "鎮西日光", "舞台造", "鹿島藩"],
+   "sources": ["https://ja.wikipedia.org/wiki/祐徳稲荷神社"],
+   "confidence": "high",
+   "prompt_en": "Vermilion-lacquered Shinto shrine hall built on a tall wooden stage structure against a forested hillside, a long steep stone staircase leading up through red torii-like gates in the foreground, soft morning mist among the trees, bright but diffused light, no text, no signs, no recognizable people"
+  },
+  {
+   "title_zh": "御船山樂園",
+   "title_ja": "御船山楽園",
+   "category": "庭園公園",
+   "area_zh": "武雄市武雄町",
+   "summary_zh": "武雄領主別邸庭園，杜鵑與紅葉名所。",
+   "body_zh": "御船山樂園位於佐賀縣武雄市，是池泉回遊式庭園，以杜鵑與紅葉聞名，2010年登錄為國家記念物。前身是第28代武雄領主鍋島茂義耗時約三年、於1845年前完成的別邸庭園『萩之尾園』，明治末年後大量栽植櫻花與久留米杜鵑、平戶杜鵑，成為今貌。總面積約15萬坪，園內可望見御船山的斷崖絕壁，另有樹齡170年的大藤、20萬株杜鵑谷、2000株櫻花及五百羅漢。",
+   "facts": [
+    {"label": "所在地", "value": "佐賀縣武雄市武雄町，御船山西南麓"},
+    {"label": "開創／成因", "value": "鍋島茂義造園，1845年前完成，原名萩之尾園"},
+    {"label": "看點", "value": "杜鵑谷、大藤、櫻花、紅葉、五百羅漢與御船山斷崖"}
+   ],
+   "best_season_zh": "4月杜鵑與11月紅葉",
+   "tips_zh": "維基載大人約700日圓、4月至5月上旬及11月另有季節價，行前以官方公告為準；從武雄溫泉站走路約30分鐘，亦可搭車再慢逛。",
+   "tags": ["回遊式庭園", "杜鵑", "紅葉", "武雄"],
+   "sources": ["https://ja.wikipedia.org/wiki/御船山楽園"],
+   "confidence": "high",
+   "prompt_en": "Japanese stroll garden with a still pond reflecting a sheer rocky cliff of a small mountain, masses of pink and magenta azalea bushes on the slopes in the foreground, a few stone lanterns and a wooden teahouse between maple trees, bright spring morning light, no text, no signs, no recognizable people"
+  },
+  {
+   "title_zh": "有田町",
+   "title_ja": "有田町",
+   "category": "街區古鎮",
+   "area_zh": "西松浦郡有田町",
+   "summary_zh": "有田燒產地，群山環抱、有田川穿城而過的陶瓷小鎮。",
+   "body_zh": "有田町位於佐賀縣西部、西松浦郡，是日本傳統工藝有田燒的產地，西南部至南部與長崎縣接壤。全町約七成為森林與山地，有田川穿過町內並流向伊萬里灣，形成沿河而建的獨特地形。明治年間，有田皿山依町村制成為極少見的『町名不帶町字』行政區，後改稱有田町。本次僅讀到概況資料，對老街建築群、窯場與陶器祭等細節未逐項核實，行前請另查官方觀光資訊。",
+   "facts": [
+    {"label": "所在地", "value": "佐賀縣西部西松浦郡，西南與長崎縣接壤"},
+    {"label": "開創／成因", "value": "有田燒（日本傳統工藝品）的產地"},
+    {"label": "看點", "value": "陶瓷小鎮、有田川與山地地形（細節待官方資訊核實）"}
+   ],
+   "best_season_zh": "春秋季",
+   "tips_zh": "若想看陶瓷，先上有田町官方觀光網確認窯場與陶瓷店的營業日及活動日期，再安排步行路線；山城地形坡道多，穿好走的鞋。",
+   "tags": ["有田燒", "陶瓷小鎮", "有田川", "傳統工藝"],
+   "sources": ["https://ja.wikipedia.org/wiki/有田町"],
+   "confidence": "low",
+   "prompt_en": "Small hillside porcelain town in a river valley, old tiled-roof houses and brick kiln chimneys along a narrow street, shop windows with blue-and-white ceramic plates in the foreground, forested green mountains behind, soft overcast light, no text, no signs, no recognizable people"
+  },
+  {
+   "title_zh": "大魚神社海中鳥居",
+   "title_ja": "大魚神社",
+   "category": "海島海岸",
+   "area_zh": "藤津郡太良町",
+   "summary_zh": "面向有明海、海中立有多座鳥居的神社。",
+   "body_zh": "大魚神社位於佐賀縣藤津郡太良町多良，面向有明海，海中立有多座鳥居。社傳因被困沖之島的代官獲大魚相救，為感恩而建。諫早氏第六代諫早茂元時，為祈求海運平安，於1682年重建社殿、1693年建立鳥居，並傳下每三十年重建鳥居的習俗。本殿位於多良岳與沖之島的連線上，海中鳥居位於神社與沖之島之間，扁額題『沖之神』。每年8月另有千乃燈籠祭。",
+   "facts": [
+    {"label": "所在地", "value": "佐賀縣藤津郡太良町多良，臨有明海"},
+    {"label": "開創／成因", "value": "創立年代不明，傳為感謝大魚救代官而建"},
+    {"label": "看點", "value": "海中鳥居、沖之島、本殿與多良岳連線、8月千乃燈籠祭"}
+   ],
+   "best_season_zh": "晴天傍晚（宜先查潮汐）",
+   "tips_zh": "海中鳥居的樣貌會隨潮位變化，出發前先查太良町的潮汐時間；日落時分逆光剪影最美，海邊風大，注意保暖與腳下濕滑。",
+   "tags": ["海中鳥居", "有明海", "沖之島", "多良岳"],
+   "sources": ["https://ja.wikipedia.org/wiki/大魚神社"],
+   "confidence": "medium",
+   "prompt_en": "Several weathered wooden torii gates standing in shallow tidal water of a calm bay, a small wooded islet on the horizon, mud-flat reflections in the foreground, glowing orange and pink sunset sky, long exposure feel, no text, no signs, no recognizable people"
+  }
+ ]
+}

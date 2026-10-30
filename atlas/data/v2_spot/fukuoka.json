@@ -1,0 +1,157 @@
+{
+ "id": "fukuoka",
+ "spots": [
+  {
+   "title_zh": "太宰府天滿宮",
+   "title_ja": "太宰府天満宮",
+   "category": "神社寺院",
+   "area_zh": "太宰府市",
+   "summary_zh": "供奉菅原道真的學問之神總本社",
+   "body_zh": "太宰府天滿宮供奉菅原道真，與京都北野天滿宮並稱全國天滿宮總本社，被尊為學問之神。道真在901年被讒言貶至大宰府，903年病逝，905年門人在安葬處建廟，後來發展為今日神社。神紋是梅花，每年參拜者約1,000萬人，正月三日內約有200萬人初詣。本殿於1591年由小早川隆景重建，參道盡頭的延壽王院是幕末公卿三條實美等人的居所。",
+   "facts": [
+    {"label": "所在地", "value": "福岡縣太宰府市宰府"},
+    {"label": "開創／成因", "value": "905年於菅原道真安葬處建廟，後發展為天滿宮"},
+    {"label": "看點", "value": "梅花神紋、本殿、參道、延壽王院"}
+   ],
+   "best_season_zh": "早春梅花季與初詣",
+   "tips_zh": "正月與考季人潮擁擠，建議平日早晨前往；本殿曾搭設臨時仮殿進行整修，行前請先查詢最新的參拜與整修情況。",
+   "tags": ["學問之神", "菅原道真", "梅花", "初詣"],
+   "sources": ["https://ja.wikipedia.org/wiki/太宰府天満宮"],
+   "confidence": "high",
+   "prompt_en": "A grand shrine approach with a red arched bridge over a pond, a vermilion-and-black shrine gate, plum blossoms in pink and white in the foreground, tall camphor trees, soft early spring morning light, calm atmosphere, eye-level view, no text, no signs, no recognizable people"
+  },
+  {
+   "title_zh": "福岡城跡",
+   "title_ja": "福岡城",
+   "category": "城郭史蹟",
+   "area_zh": "福岡市中央區",
+   "summary_zh": "黑田氏築造的城跡，現為舞鶴與大濠公園",
+   "body_zh": "福岡城由關原之戰立功的黑田長政築於博多西側丘陵，並依黑田氏發跡地備前福岡，把地名從福崎改為福岡，後來成為市名與縣名。屬梯郭式平山城，別名舞鶴城，主要部分為國家史跡，現已整備為舞鶴公園與大濠公園。南二之丸多聞櫓與南隅櫓是國家重要文化財，另有復原的北隅櫓；天守台上是否曾建天守，至今仍有不同說法。",
+   "facts": [
+    {"label": "所在地", "value": "福岡縣福岡市中央區（舞鶴公園、大濠公園）"},
+    {"label": "開創／成因", "value": "黑田長政於關原之戰後築城，地名由福崎改為福岡"},
+    {"label": "看點", "value": "多聞櫓、南隅櫓、石垣、天守台、舞鶴公園"}
+   ],
+   "best_season_zh": "春季櫻花",
+   "tips_zh": "城跡範圍很大，以石垣和櫓為主，少有完整建築；建議配合公園散步安排，並順遊旁邊的大濠公園池畔。",
+   "tags": ["城跡", "石垣", "黑田長政", "舞鶴公園"],
+   "sources": ["https://ja.wikipedia.org/wiki/福岡城"],
+   "confidence": "high",
+   "prompt_en": "Massive moss-covered stone ramparts of a castle ruin with a restored corner turret on top, cherry blossoms in full bloom in the foreground, a moat reflection, blue sky, gentle afternoon light, low angle from the moat side, no text, no signs, no recognizable people"
+  },
+  {
+   "title_zh": "柳川",
+   "title_ja": "柳川",
+   "category": "街區古鎮",
+   "area_zh": "柳川市",
+   "summary_zh": "掘割縱橫的水都與川下り",
+   "body_zh": "柳川市位於筑後地方西南部，市內掘割縱橫交錯，故被稱為水都。關原之戰後入主柳河城的田中吉政整備城周圍的掘割，並著手築五層天守，奠定城下町的基礎。如今最知名的是乘船遊掘割的川下り、鰻魚蒸籠飯，以及舊藩主立花氏的別邸「立花氏庭園（御花）」。從福岡市搭西鐵天神大牟田線約45分鐘即可抵達，也是有明海旁的海苔與藺草產地。",
+   "facts": [
+    {"label": "所在地", "value": "福岡縣柳川市（筑後地方西南部）"},
+    {"label": "開創／成因", "value": "城下町時代整備的掘割水道網延續至今"},
+    {"label": "看點", "value": "掘割川下り、立花氏庭園（御花）、鰻魚蒸籠飯"}
+   ],
+   "best_season_zh": "春季新綠與秋季",
+   "tips_zh": "川下り需預留船班與等候時間，旺季建議先查詢是否可預約；行程可與午餐的鰻魚蒸籠飯一併安排。",
+   "tags": ["水都", "掘割", "川下り", "立花氏"],
+   "sources": ["https://ja.wikipedia.org/wiki/柳川市"],
+   "confidence": "high",
+   "prompt_en": "A narrow canal lined with weeping willows and old stone walls, a flat-bottomed wooden boat gliding along the calm green water, traditional white-walled buildings on the bank, soft diffused spring light, gentle reflections, low angle from water level, no text, no signs, no recognizable people"
+  },
+  {
+   "title_zh": "門司港懷舊區",
+   "title_ja": "門司港レトロ",
+   "category": "街區古鎮",
+   "area_zh": "北九州市門司區",
+   "summary_zh": "大正復古風的港口舊建築群",
+   "body_zh": "門司港レトロ是北九州市門司區JR門司港站周邊的觀光區，保留因對外貿易繁榮而建的近代建築，並以大正復古風格整備旅館與商業設施。1988年起整備，1995年3月全面開幕，獲選都市景觀100選與土木學會設計賞2001最優秀賞。區內有1921年建的舊門司三井俱樂部（重要文化財）、1912年建的舊門司稅關，以及全國唯一的行人專用跳橋「ブルーウイングもじ」，也是遊關門海峽的起點。",
+   "facts": [
+    {"label": "所在地", "value": "福岡縣北九州市門司區（JR門司港站周邊）"},
+    {"label": "開創／成因", "value": "1988年起整備，1995年全面開幕，保存貿易繁榮時代建築"},
+    {"label": "看點", "value": "舊門司三井俱樂部、舊門司稅關、跳橋、烤咖哩"}
+   ],
+   "best_season_zh": "春秋，傍晚點燈時",
+   "tips_zh": "景點集中，步行就能逛完；傍晚建築打燈氣氛最佳，可搭船往返對岸下關，行前先查船班。",
+   "tags": ["大正復古", "港口", "近代建築", "關門海峽"],
+   "sources": ["https://ja.wikipedia.org/wiki/門司港レトロ"],
+   "confidence": "high",
+   "prompt_en": "A retro harbor district at dusk with red-brick and cream-colored early 20th century buildings, a pedestrian drawbridge over a calm basin, warm street lamps reflecting on the water, soft blue sky with pink clouds, wide-angle view from the waterfront, no text, no signs, no recognizable people"
+  },
+  {
+   "title_zh": "桜井二見浦（夫婦岩）",
+   "title_ja": "桜井二見ヶ浦",
+   "category": "海島海岸",
+   "area_zh": "糸島市",
+   "summary_zh": "玄界灘中的夫婦岩與白色鳥居",
+   "body_zh": "櫻井二見浦（筑前二見浦）位於糸島半島北部，面向玄界灘，屬玄海國定公園。距岸約150公尺的海中矗立夫婦岩，男岩高11.8公尺、女岩高11.2公尺，以長30公尺、重約1噸的大注連繩相連，每年4月下旬至5月上旬的大潮日更換。海中另有白色鳥居，1968年被指定為福岡縣名勝，並入選日本渚百選與日本夕陽百選，夏至夕陽落於兩岩之間尤其受稱道。",
+   "facts": [
+    {"label": "所在地", "value": "福岡縣糸島市志摩櫻井，玄海國定公園"},
+    {"label": "開創／成因", "value": "海中夫婦岩，並由櫻井神社供奉伊弉諾與伊弉冉"},
+    {"label": "看點", "value": "夫婦岩與大注連繩、白色鳥居、夕陽"}
+   ],
+   "best_season_zh": "夏至前後的黃昏",
+   "tips_zh": "想拍夕陽請提早到場佔位並留意潮汐；海邊風大，傍晚氣溫轉涼，須帶外套，離岸岩石勿攀爬。",
+   "tags": ["夫婦岩", "夕陽", "鳥居", "玄界灘"],
+   "sources": ["https://ja.wikipedia.org/wiki/桜井二見ヶ浦"],
+   "confidence": "high",
+   "prompt_en": "Two sea rocks standing side by side offshore joined by a thick twisted rope, a small white torii gate rising from shallow water in the foreground, sun setting between the rocks with orange and purple sky, calm waves, long exposure, wide shot from the sandy beach, no text, no signs, no recognizable people"
+  },
+  {
+   "title_zh": "平尾台",
+   "title_ja": "平尾台",
+   "category": "自然絕景",
+   "area_zh": "北九州市小倉南區等",
+   "summary_zh": "日本三大喀斯特之一的石灰岩草原",
+   "body_zh": "平尾台橫跨北九州市小倉南區、行橋市、苅田町等地，海拔370至710公尺，台上面積約12平方公里，是由結晶質石灰岩構成的喀斯特台地，與山口秋吉台、四國喀斯特並稱日本三大喀斯特，屬北九州國定公園並為國家天然紀念物。台上散布千佛鐘乳洞、目白洞等鐘乳洞與大小窪地，每年2月下旬至3月上旬進行野燒，以維持半自然的草原景觀。",
+   "facts": [
+    {"label": "所在地", "value": "福岡縣北九州市小倉南區、行橋市、苅田町等"},
+    {"label": "開創／成因", "value": "結晶質石灰岩台地經溶蝕形成喀斯特地形"},
+    {"label": "看點", "value": "喀斯特草原、千佛鐘乳洞、野燒、貫山"}
+   ],
+   "best_season_zh": "新綠與秋季芒草期",
+   "tips_zh": "台上視野開闊但遮蔭少，夏天防曬要做足；氣溫比市區低，春季偶有降雪，保暖外套不可少。",
+   "tags": ["喀斯特", "草原", "石灰岩", "野燒"],
+   "sources": ["https://ja.wikipedia.org/wiki/平尾台"],
+   "confidence": "high",
+   "prompt_en": "A rolling highland meadow dotted with pale limestone boulders resembling grazing sheep, golden grass swaying, distant low mountain ridges, wide blue sky with scattered clouds, late afternoon side light, wide-angle view from a low rise, no text, no signs, no recognizable people"
+  },
+  {
+   "title_zh": "英彥山",
+   "title_ja": "英彦山",
+   "category": "山岳高原",
+   "area_zh": "田川郡添田町",
+   "summary_zh": "日本三大修驗山之一的神體山",
+   "body_zh": "英彥山海拔1,199公尺，跨福岡縣添田町與大分縣中津市，由北岳、中岳、南岳三峰組成，最高點在南岳，屬耶馬日田英彥山國定公園，名列日本百景與日本二百名山，山域為國家史跡。它是英彥山神宮的神體山，修驗道歷史悠久，被視為日本三大修驗山之一。原本寫作「彥山」，據記載於1729年因靈元法皇的院宣加上「英」字；山腰約720公尺處有奉幣殿。",
+   "facts": [
+    {"label": "所在地", "value": "福岡縣田川郡添田町與大分縣中津市山國町"},
+    {"label": "開創／成因", "value": "複合火山體的主峰，後成為修驗道靈山"},
+    {"label": "看點", "value": "三峰、英彥山神宮奉幣殿與山頂上津宮、修驗道遺址"}
+   ],
+   "best_season_zh": "秋季紅葉與冬季",
+   "tips_zh": "參道有階梯與石段，登山需預留體力；山頂氣溫偏低，入冬可能結冰路滑，須備防滑鞋與保暖衣物。",
+   "tags": ["修驗道", "神體山", "日本二百名山", "三彥山"],
+   "sources": ["https://ja.wikipedia.org/wiki/英彦山"],
+   "confidence": "high",
+   "prompt_en": "A forested sacred mountain with three rounded peaks under mist, a long stone stairway with moss-covered lanterns climbing into cedar trees, autumn foliage in orange and red, soft morning fog, low angle looking up the stairs, no text, no signs, no recognizable people"
+  },
+  {
+   "title_zh": "宗像大社",
+   "title_ja": "宗像大社",
+   "category": "神社寺院",
+   "area_zh": "宗像市",
+   "summary_zh": "沖之島信仰與世界遺產的海之神社",
+   "body_zh": "宗像大社是供奉宗像三女神的總本社，由沖之島的沖津宮、筑前大島的中津宮、宗像市田島的邊津宮三社合稱，三處在地圖上排成直線，邊津宮至中津宮約11公里、至沖津宮約49公里。神域沖之島自古被視為神體，島上出土4至9世紀的祭祀遺物，被稱為「海的正倉院」，多件奉獻品為國寶。2017年與關聯遺產群登錄世界文化遺產，也被視為交通安全之神。",
+   "facts": [
+    {"label": "所在地", "value": "福岡縣宗像市田島（邊津宮），另有大島與沖之島"},
+    {"label": "開創／成因", "value": "記紀有載的古老神社，沖之島自古為祭祀場"},
+    {"label": "看點", "value": "邊津宮本殿與拜殿、沖之島祭祀遺物、世界文化遺產"}
+   ],
+   "best_season_zh": "新綠與秋季",
+   "tips_zh": "邊津宮提供汽車交通安全祈願，可事先查詢受理時間；沖之島上陸受到嚴格限制，大島設有沖津宮遙拜所可供遙拜。",
+   "tags": ["世界文化遺產", "宗像三女神", "沖之島", "交通安全"],
+   "sources": ["https://ja.wikipedia.org/wiki/宗像大社"],
+   "confidence": "high",
+   "prompt_en": "A tranquil shrine precinct with a wooden worship hall under tall evergreen trees, a stone path and torii gate in the foreground, shafts of soft light through the leaves, gentle morning mist, calm and solemn atmosphere, eye-level view, no text, no signs, no recognizable people"
+  }
+ ]
+}

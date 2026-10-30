@@ -1,0 +1,149 @@
+{
+ "id": "tokushima",
+ "foods": [
+  {
+   "title_zh": "德島拉麵",
+   "title_ja": "徳島ラーメン",
+   "category": "麵飯",
+   "summary_zh": "豬骨醬油湯配甜辣豬五花，茶系再加生蛋。",
+   "body_zh": "德島拉麵以豬骨為湯底，湯色可分白、茶、黃三種系統。最大特色是配料用薄切豬五花以醬油、砂糖、味醂與酒甜辣燉煮，茶系版本幾乎都會加生蛋，邊拌邊吃。維基百科記載其約於戰後1949年前後從攤販開始，背景與德島火腿（日本火腿前身）工廠大量供應便宜豬骨有關。常配白飯一起吃，是德島的庶民美食。",
+   "facts": [
+    {"label": "起源", "value": "約1949年戰後攤販，豬骨來自德島火腿工廠"},
+    {"label": "主要食材", "value": "豬骨湯、甜辣豬五花、生蛋、麵"},
+    {"label": "吃法", "value": "拌入生蛋，常配白飯"}
+   ],
+   "season_zh": "全年",
+   "where_zh": "德島市內的拉麵專門店",
+   "tags": ["拉麵", "豬骨醬油", "生蛋", "德島"],
+   "sources": ["https://ja.wikipedia.org/wiki/徳島ラーメン"],
+   "confidence": "high",
+   "prompt_en": "A single bowl of Tokushima ramen with cloudy brown pork bone soy broth, thin sweet-braised pork belly slices, a raw egg yolk in the center and chopped scallion, white bowl on a worn counter, steam, warm light, no text"
+  },
+  {
+   "title_zh": "酢橘",
+   "title_ja": "すだち",
+   "category": "特產食材",
+   "summary_zh": "徳島占全國約98%的香橙類，縣花與GI。",
+   "body_zh": "酢橘是徳島縣最具代表性的柑橘類，維基百科記載徳島縣占全國產量約98%，2010年約產5,882噸。花朵於1974年被指定為縣花，2023年3月登錄為地理標示（GI）。果實綠色時以露地栽培的8至10月最香。吃法是把果汁擠在烤魚、秋刀魚、生魚片和火鍋上，也可刨青皮當調味，酢橘汁也能當醋，加進味噌湯或酒裡增添清香。",
+   "facts": [
+    {"label": "起源", "value": "徳島縣占全國產量約98%，2023年登錄GI"},
+    {"label": "主要食材", "value": "酢橘果汁與青皮"},
+    {"label": "吃法", "value": "擠汁淋烤魚、火鍋，刨皮做調味，入酒"}
+   ],
+   "season_zh": "8月至10月",
+   "where_zh": "徳島縣全域，名產店與居酒屋",
+   "tags": ["酢橘", "柑橘", "GI", "調味"],
+   "sources": ["https://ja.wikipedia.org/wiki/スダチ"],
+   "confidence": "high",
+   "prompt_en": "A pile of small bright green sudachi citrus fruits with leaves, one cut in half showing juicy segments, beside a grilled whole fish on a ceramic plate, rustic wooden table, bright natural light, no text"
+  },
+  {
+   "title_zh": "鳴門金時",
+   "title_ja": "なると金時",
+   "category": "特產食材",
+   "summary_zh": "鳴門砂地種出的紅番薯，甜味濃、口感綿密。",
+   "body_zh": "鳴門金時是徳島縣鳴門市一帶砂地栽培的番薯總稱。維基百科記載，指定栽培地區包含鳴門市大津町、里浦町、徳島市川內町、松茂町與北島町，品種由高系14號選拔而來，昭和50年代從「土佐紅」與「坂出金時」育成。2007年登錄為地域團體商標，產品多半在關西圈消費。可烤番薯、做成甜點或製成燒酎，也可蒸煮直接吃。",
+   "facts": [
+    {"label": "起源", "value": "昭和50年代育成，2007年登錄地域團體商標"},
+    {"label": "主要食材", "value": "鳴門金時番薯"},
+    {"label": "吃法", "value": "烤番薯、蒸煮、甜點、番薯燒酎"}
+   ],
+   "season_zh": "秋冬（約10月至翌年2月）",
+   "where_zh": "鳴門市大津町、里浦町與徳島市川內町一帶",
+   "tags": ["番薯", "鳴門", "砂地栽培", "特產"],
+   "sources": ["https://ja.wikipedia.org/wiki/鳴門金時"],
+   "confidence": "medium",
+   "prompt_en": "A single roasted Naruto kintoki sweet potato split open showing golden yellow flesh with steam, red-purple skin, on a dark ceramic plate, rustic wooden table, warm side light, no text"
+  },
+  {
+   "title_zh": "阿波尾雞",
+   "title_ja": "阿波尾鶏",
+   "category": "肉類",
+   "summary_zh": "徳島縣研發的地雞，出貨數自1998年起日本第一。",
+   "body_zh": "阿波尾雞是徳島縣立農林水產綜合技術支援中心畜產研究所開發的地雞品種，1989年開始生產。維基百科記載開發目標是約80至85日齡長到出貨體重，自1998年起地雞出貨羽數為日本第一。肉質彈牙、味道濃郁，常見吃法有炭烤、烤雞肉串、鍋物與唐揚。關於血統細節與飼養密度這裡未逐項核實，僅引用上述可確認的部分。",
+   "facts": [
+    {"label": "起源", "value": "徳島縣畜產研究所開發，1989年起生產"},
+    {"label": "主要食材", "value": "阿波尾雞肉"},
+    {"label": "吃法", "value": "炭烤、雞肉串、鍋物、唐揚"}
+   ],
+   "season_zh": "全年",
+   "where_zh": "徳島市與縣內的居酒屋、雞肉料理店",
+   "tags": ["地雞", "阿波尾雞", "炭烤", "徳島"],
+   "sources": ["https://ja.wikipedia.org/wiki/阿波尾鶏"],
+   "confidence": "medium",
+   "prompt_en": "Skewers of juicy charcoal-grilled Awaodori chicken thigh with glaze and charred edges on a black plate, a lemon wedge and a small bowl of salt beside, dark counter, warm light, no text"
+  },
+  {
+   "title_zh": "蕎麥米雜炊",
+   "title_ja": "そば米雑炊",
+   "category": "鄉土料理",
+   "summary_zh": "祖谷山區用蕎麥粒煮成的鄉土雜炊。",
+   "body_zh": "蕎麥米雜炊（そば米汁）是徳島縣三好市祖谷地方的鄉土料理，使用鹽煮過後去殼、曬乾的蕎麥粒「蕎麥米」，不磨成粉直接吃，在日本全國都很少見。維基百科記載以蔬菜、雞肉和小魚乾高湯加淡口醬油燉煮。因祖谷土地貧瘠不適合稻作，才栽培蕎麥。相傳是源平合戰後逃到祖谷的平家落人為思念京都，在正月料理中創製，但這屬傳說。",
+   "facts": [
+    {"label": "起源", "value": "傳說為平家落人所創，屬傳說"},
+    {"label": "主要食材", "value": "蕎麥米、紅蘿蔔、白蘿蔔、乾香菇、烤竹輪"},
+    {"label": "吃法", "value": "與高湯同煮，像湯粥般熱食"}
+   ],
+   "season_zh": "冬季，正月料理",
+   "where_zh": "三好市祖谷地區的民宿與鄉土料理店",
+   "tags": ["蕎麥米", "祖谷", "雜炊", "鄉土料理"],
+   "sources": ["https://ja.wikipedia.org/wiki/そば米雑炊"],
+   "confidence": "medium",
+   "prompt_en": "A rustic earthenware bowl of soba-rice zosui soup with round hulled buckwheat grains, carrot, daikon, shiitake and sliced grilled chikuwa in clear broth, steam rising, dark wooden table, warm dim light, no text"
+  },
+  {
+   "title_zh": "阿波和三盆",
+   "title_ja": "阿波和三盆",
+   "category": "甜點和菓子",
+   "summary_zh": "徳島與香川產的細緻砂糖，是和菓子的重要原料。",
+   "body_zh": "和三盆是以手工研磨製成的細緻砂糖，主要產於香川縣與徳島縣。徳島縣的代表產地是板野郡上板町、板野町與阿波市。維基百科記載製法是把白下糖在盆上加水研磨，再裝入麻布壓榨去除黑糖蜜，反覆多次後乾燥約一週。阿波的製糖大約在1798年左右成功，但資料不明確。入口即化、風味高雅，常做成落雁與干菓子，也可直接加進茶裡。",
+   "facts": [
+    {"label": "起源", "value": "阿波約1798年前後製糖成功，史料不明確"},
+    {"label": "主要食材", "value": "白下糖（砂糖原料）"},
+    {"label": "吃法", "value": "做成落雁、干菓子，或加入茶中"}
+   ],
+   "season_zh": "冬季製糖，全年可買",
+   "where_zh": "上板町、板野町與阿波市一帶的製糖所與和菓子店",
+   "tags": ["和三盆", "砂糖", "干菓子", "徳島"],
+   "sources": ["https://ja.wikipedia.org/wiki/和三盆"],
+   "confidence": "medium",
+   "prompt_en": "Small delicate molded wasanbon sugar sweets in flower shapes, pale ivory, on a lacquer tray with a cup of green tea, soft diffused light, wooden table, no text"
+  },
+  {
+   "title_zh": "鳴門鯛與鳴門若布",
+   "title_ja": "鳴門鯛",
+   "category": "海鮮",
+   "summary_zh": "鳴門海峽急流養出的鯛魚，與鳴門若布齊名。",
+   "body_zh": "鳴門市的海產以「鳴門鯛」與「鳴門若布（鳴門わかめ）」聞名，維基百科的鳴門市條目將兩者列為代表海產。鳴門海峽有急流與漩渦，一般認為在這裡的海流下魚肉較結實，不過這裡未能核實具體的品牌標準與捕撈方式，故僅作保守描述。鯛魚常做成生魚片、鹽烤或鯛飯，鳴門若布則在冬春收穫，可煮湯或涼拌。",
+   "facts": [
+    {"label": "起源", "value": "鳴門市代表海產，歷史起源未核實"},
+    {"label": "主要食材", "value": "鯛魚、鳴門若布"},
+    {"label": "吃法", "value": "生魚片、鹽烤、鯛飯；若布煮湯涼拌"}
+   ],
+   "season_zh": "鯛魚以春季為佳，若布冬至春季",
+   "where_zh": "鳴門市的漁港周邊與海鮮料理店",
+   "tags": ["鯛魚", "鳴門", "海鮮", "漩渦"],
+   "sources": ["https://ja.wikipedia.org/wiki/鳴門市", "https://ja.wikipedia.org/wiki/ワカメ"],
+   "confidence": "low",
+   "prompt_en": "A whole salt-grilled red sea bream with glossy skin on a long ceramic platter, lemon wedge and a small pile of green wakame beside, dark wooden table, window light from the side, no text"
+  },
+  {
+   "title_zh": "阿波晚茶",
+   "title_ja": "阿波晩茶",
+   "category": "酒與飲品",
+   "summary_zh": "乳酸發酵的後發酵茶，已列國家重要無形民俗文化財。",
+   "body_zh": "阿波晚茶是徳島縣的後發酵茶，製法是在夏天土用時節摘下茶葉煮過，放進木桶裡壓著發酵，產生乳酸發酵。維基百科記載主要產地為那賀町（相生晚茶）與上勝町，美波町赤松也有少量生產。因為經過乳酸發酵，茶香帶有類似漬物的酸香，澀味與咖啡因減少，容易入口。2021年3月被指定為國家重要無形民俗文化財，常當作日常茶，冷熱皆可喝。",
+   "facts": [
+    {"label": "起源", "value": "山區傳統製法，2021年列重要無形民俗文化財"},
+    {"label": "主要食材", "value": "夏季採收的茶葉"},
+    {"label": "吃法", "value": "煮開或沖泡，冷熱皆宜"}
+   ],
+   "season_zh": "夏季採製，全年飲用",
+   "where_zh": "那賀町、上勝町等山區的茶農與土產店",
+   "tags": ["晚茶", "發酵茶", "上勝", "飲品"],
+   "sources": ["https://ja.wikipedia.org/wiki/阿波晩茶"],
+   "confidence": "high",
+   "prompt_en": "A rustic ceramic teapot and a small cup of golden amber Awa-bancha tea, a small bundle of dark dried fermented tea leaves on a wooden board, mountain village window light, no text"
+  }
+ ]
+}

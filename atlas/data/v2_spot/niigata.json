@@ -1,0 +1,295 @@
+{
+  "id": "niigata",
+  "spots": [
+    {
+      "title_zh": "彌彥神社",
+      "title_ja": "弥彦神社",
+      "category": "神社寺院",
+      "area_zh": "西蒲原郡彌彥村",
+      "summary_zh": "供奉越後開拓神的古社，神體山為彌彥山，見於萬葉集。",
+      "body_zh": "彌彥神社位於新潟縣西蒲原郡彌彥村，主祭神為天香山命，被視為開拓越後的神明，相傳教導當地人漁撈、製鹽、稻作與養蠶。傳說創建於孝安天皇元年（公元前392年），學界對實際創建時期仍有討論，但神社已見於《萬葉集》。標高634公尺的彌彥山為神體山，山頂有奧宮，可搭纜車上山。每年7月25日有燈籠神事，11月舉辦菊花祭，展出大量菊花。",
+      "facts": [
+        {
+          "label": "所在地",
+          "value": "新潟縣西蒲原郡彌彥村"
+        },
+        {
+          "label": "開創／成因",
+          "value": "傳說創建於孝安天皇元年，見於萬葉集"
+        },
+        {
+          "label": "交通",
+          "value": "JR彌彥線彌彥站步行約15分鐘"
+        }
+      ],
+      "best_season_zh": "秋季菊花祭與紅葉",
+      "tips_zh": "可由彌彥站步行參拜，再搭纜車到彌彥山山頂。燈籠神事在7月25日，期間人潮較多，建議提早規劃。",
+      "tags": [
+        "萬葉集",
+        "神體山",
+        "菊花祭",
+        "燈籠神事"
+      ],
+      "sources": [
+        "https://ja.wikipedia.org/wiki/弥彦神社"
+      ],
+      "confidence": "high",
+      "prompt_en": "Quiet Shinto shrine approach lined with towering old cedar trees, a vermilion torii gate in the mid-ground, a forested mountain rising behind in soft morning mist, autumn light, no text, no signboards, no recognizable people"
+    },
+    {
+      "title_zh": "清津峽",
+      "title_ja": "清津峡",
+      "category": "自然絕景",
+      "area_zh": "十日町市・湯澤町周邊",
+      "summary_zh": "V字形的深邃溪谷，以岩壁與溪流景觀聞名。",
+      "body_zh": "清津峽是信濃川支流清津川切出的峽谷，位於新潟縣十日町市小出至湯澤町八木澤，全長約12.5公里，1941年被指定為國家名勝及天然紀念物，被稱為日本三大峽谷之一。約700萬年前岩漿侵入地層，冷卻收縮成柱狀節理，後經隆起與河水侵蝕成谷。1996年啟用全長750公尺的步行隧道，設三處觀景所與終點全景站；2018年大地藝術祭將隧道改建為藝術作品，水面映照溪谷。",
+      "facts": [
+        {
+          "label": "所在地",
+          "value": "新潟縣十日町市小出至湯澤町八木澤，全長約12.5公里"
+        },
+        {
+          "label": "開創／成因",
+          "value": "約700萬年前岩漿冷卻成柱狀節理，經隆起與清津川侵蝕形成"
+        },
+        {
+          "label": "看點",
+          "value": "柱狀節理岩壁、秋季紅葉、清津峽溪谷隧道全景站"
+        }
+      ],
+      "best_season_zh": "秋季紅葉",
+      "tips_zh": "隧道全長750公尺且有三處觀景所，適合預留1小時以上慢慢走；終點全景站的水面倒影是2018年改建後的名物，建議挑無風晴天前往。",
+      "tags": [
+        "V字溪谷",
+        "柱狀節理",
+        "紅葉",
+        "溪流"
+      ],
+      "sources": [
+        "https://ja.wikipedia.org/wiki/清津峡"
+      ],
+      "confidence": "high",
+      "prompt_en": "Deep V-shaped river gorge with sheer columnar rock walls, emerald river at the bottom in the foreground, autumn red and orange foliage along the cliffs in the mid-ground, soft diffused light, no text, no recognizable people"
+    },
+    {
+      "title_zh": "佐渡金山",
+      "title_ja": "佐渡金山",
+      "category": "城郭史蹟",
+      "area_zh": "佐渡市相川",
+      "summary_zh": "江戶時代幕府直轄的金銀礦山，礦坑與採掘遺跡聞名。",
+      "body_zh": "佐渡金山是新潟縣佐渡島上金銀礦山的總稱，國家史跡「佐渡金銀山」由西三川砂金山、鶴子銀山、相川金銀山三區組成，並以「佐渡島的金山」列入世界遺產，其中相川是觀光據點。1601年佐渡成為德川家康領地，同年北山發現金脈，此後成為江戶幕府重要財源；17世紀前半最盛期，推定年產金400公斤以上，銀約37.5噸上繳幕府。",
+      "facts": [
+        {
+          "label": "所在地",
+          "value": "新潟縣佐渡市相川（佐渡島）"
+        },
+        {
+          "label": "開創／成因",
+          "value": "16世紀末開發相川金銀山，1601年北山發現金脈，由幕府直轄經營"
+        },
+        {
+          "label": "看點",
+          "value": "江戶時代礦山遺跡、史跡與重要文化的景觀"
+        }
+      ],
+      "best_season_zh": "春夏秋適合遊島",
+      "tips_zh": "佐渡島面積大，各礦區分散，建議以相川為中心租車或搭巴士分日安排；渡海船班受天候影響，行程宜保留彈性。",
+      "tags": [
+        "金銀礦山",
+        "江戶幕府",
+        "礦坑",
+        "佐渡島"
+      ],
+      "sources": [
+        "https://ja.wikipedia.org/wiki/佐渡金山"
+      ],
+      "confidence": "high",
+      "prompt_en": "Historic gold mine hillside with a dramatic split in the mountain ridge, wooden mine entrance and stone steps in the foreground, green island forest in the mid-ground, overcast soft light, no text, no recognizable people"
+    },
+    {
+      "title_zh": "月岡溫泉",
+      "title_ja": "月岡温泉",
+      "category": "溫泉",
+      "area_zh": "新發田市",
+      "summary_zh": "以含硫黃的翠綠色溫泉聞名的溫泉街。",
+      "body_zh": "月岡溫泉位於新潟縣新發田市，以弱鹼性翡翠綠硫黃泉聞名，硫化氫離子含量在日本國內居首。1915年開湯，位處越後平原東緣，被稱為「新潟的奧座敷」。泡沫經濟崩潰後遊客與旅館大減，2014年開湯百年前後展開街區再生：整備可飲泉的「源泉之森」、將商店街外觀統一為茶色系，2018年設置和風庭園「月あかりの庭」，並有空屋改造的體驗型店鋪。",
+      "facts": [
+        {
+          "label": "所在地",
+          "value": "新潟縣新發田市月岡溫泉"
+        },
+        {
+          "label": "開創／成因",
+          "value": "1915年（大正4年）開湯"
+        },
+        {
+          "label": "看點",
+          "value": "翡翠綠硫黃泉、源泉之森飲泉、茶色系溫泉街散步"
+        }
+      ],
+      "best_season_zh": "秋冬泡湯",
+      "tips_zh": "溫泉街適合傍晚步行，可順道到「源泉之森」試飲溫泉水；硫黃泉泡完建議補充水分，飾品銀器可能變黑，入浴前先取下。",
+      "tags": [
+        "硫黃泉",
+        "美肌之湯",
+        "溫泉街",
+        "新發田"
+      ],
+      "sources": [
+        "https://ja.wikipedia.org/wiki/月岡温泉"
+      ],
+      "confidence": "high",
+      "prompt_en": "Quiet hot spring town street with a traditional wooden inn and a steaming emerald-green bath in the foreground, gentle hills behind, dusk with warm lantern light, no text, no signboards, no recognizable people"
+    },
+    {
+      "title_zh": "北方文化博物館",
+      "title_ja": "北方文化博物館",
+      "category": "庭園公園",
+      "area_zh": "新潟市江南區",
+      "summary_zh": "越後大地主伊藤家的宅邸與回遊式庭園。",
+      "body_zh": "北方文化博物館位於新潟市江南區沢海，是戰後首間私立博物館。二戰後農地改革期間，豪農伊藤文吉的宅邸在GHQ民間情報教育部門的萊特中尉協助下改為博物館，展出美術工藝品與考古資料。主要建築建於1882至1889年，2000年主屋等26件登錄為國家有形文化財，館藏《雪村友梅墨跡》為重要文化財。另設新潟分館與新發田市的清水園。",
+      "facts": [
+        {
+          "label": "所在地",
+          "value": "新潟縣新潟市江南區沢海"
+        },
+        {
+          "label": "開創／成因",
+          "value": "豪農伊藤文吉邸宅於戰後改為博物館，主要建築為明治15至22年所建"
+        },
+        {
+          "label": "看點",
+          "value": "豪農宅邸建築群、庭園與美術工藝館藏"
+        },
+        {
+          "label": "交通",
+          "value": "新潟交通巴士「上沢海博物館前」站步行約2分鐘"
+        }
+      ],
+      "best_season_zh": "春季新綠與秋季紅葉",
+      "tips_zh": "位置在市區外圍，搭巴士前請先確認班次；紅葉季有新潟站南口發車的接駁巴士。也可與新潟分館、清水園串連成豪農與藩邸庭園之旅。",
+      "tags": [
+        "大地主宅邸",
+        "和風庭園",
+        "池泉",
+        "博物館"
+      ],
+      "sources": [
+        "https://ja.wikipedia.org/wiki/北方文化博物館"
+      ],
+      "confidence": "high",
+      "prompt_en": "Large traditional Japanese mansion with deep eaves seen across a quiet garden pond in the foreground, pine trees and stone lanterns in the mid-ground, autumn foliage, soft afternoon light, no text, no recognizable people"
+    },
+    {
+      "title_zh": "村上城下町",
+      "title_ja": "村上城下町",
+      "category": "街區古鎮",
+      "area_zh": "村上市",
+      "summary_zh": "保留城下町風貌的老街，以鮭魚文化聞名。",
+      "body_zh": "村上市位於新潟縣北部，市街是村上藩的城下町，至今仍可見武家町與商人町的遺貌，中心區進行町屋再生，2008年獲「美麗街景大賞」。村上城建在市區東端標高135公尺的臥牛山，為歷代藩主居城，1993年列國家史跡；1667年天守遭雷擊燒毀後未重建。當地另以三面川鮭魚、北限茶園與村上牛聞名。",
+      "facts": [
+        {
+          "label": "所在地",
+          "value": "新潟縣村上市村上"
+        },
+        {
+          "label": "開創／成因",
+          "value": "村上藩城下町；村上城建於臥牛山，1667年天守遭雷擊燒毀"
+        },
+        {
+          "label": "看點",
+          "value": "武家町與商人町遺貌、町屋通り、村上城跡"
+        }
+      ],
+      "best_season_zh": "秋冬鮭魚季",
+      "tips_zh": "老街以步行為主，可順路登臥牛山看城跡石垣；想吃鮭魚料理或喝村上茶，請確認店家營業日。",
+      "tags": [
+        "城下町",
+        "町屋",
+        "鮭魚文化",
+        "老街"
+      ],
+      "sources": [
+        "https://ja.wikipedia.org/wiki/村上市",
+        "https://ja.wikipedia.org/wiki/村上城"
+      ],
+      "confidence": "medium",
+      "prompt_en": "Narrow old merchant-town street with traditional wooden townhouses and dried salmon hanging under the eaves in the mid-ground, quiet lane in the foreground, cool autumn light, no text, no signboards, no recognizable people"
+    },
+    {
+      "title_zh": "妙高高原",
+      "title_ja": "妙高高原",
+      "category": "山岳高原",
+      "area_zh": "妙高市",
+      "summary_zh": "被稱為越後富士的妙高山山麓，高原與滑雪聞名。",
+      "body_zh": "妙高高原是新潟縣妙高市的山麓高原地區，2005年由舊妙高高原町併入妙高市，冬季滑雪客眾多，海外旅客也不少。象徵的妙高山標高2454公尺，是成層火山，有「越後富士」之稱，為日本百名山與北信五岳最高峰，屬妙高戶隱連山國立公園。山麓有溫泉湧出，全市為特別豪雪地帶，年平均降雪量約1061公分。",
+      "facts": [
+        {
+          "label": "所在地",
+          "value": "新潟縣妙高市（舊妙高高原町地區）"
+        },
+        {
+          "label": "開創／成因",
+          "value": "妙高山為多世代成層火山，約2萬年前形成火山口"
+        },
+        {
+          "label": "看點",
+          "value": "妙高山山景、冬季滑雪、山麓溫泉"
+        },
+        {
+          "label": "交通",
+          "value": "JR系統轉乘至えちごトキめき鉄道／しなの鉄道「妙高高原駅」"
+        }
+      ],
+      "best_season_zh": "秋季紅葉與冬季雪景",
+      "tips_zh": "冬季積雪深，需備防滑鞋與保暖衣物；夏季較適合健行與避暑，登山前請查妙高山入山與天氣資訊。",
+      "tags": [
+        "越後富士",
+        "高原",
+        "滑雪",
+        "火山"
+      ],
+      "sources": [
+        "https://ja.wikipedia.org/wiki/妙高市",
+        "https://ja.wikipedia.org/wiki/妙高山"
+      ],
+      "confidence": "medium",
+      "prompt_en": "Symmetrical volcanic mountain mirrored in a still highland pond in the foreground, grassland and birch trees in the mid-ground, autumn color, clear soft morning light, no text, no recognizable people"
+    },
+    {
+      "title_zh": "尖閣灣",
+      "title_ja": "尖閣湾",
+      "category": "海島海岸",
+      "area_zh": "佐渡市相川",
+      "summary_zh": "佐渡島西岸奇岩絕壁與清澈海水交織的海灣。",
+      "body_zh": "尖閣灣位於佐渡市北狄至姬津之間，由約3公里內的5個小灣組成，屬外海府海岸，是佐渡彌彥米山國定公園的代表景勝，外海府海岸也被指定為國家名勝。名稱取自挪威哈當厄爾峽灣的峽尖美之意。斷崖下岩礁據說是珊瑚礁遺跡，呈灰白色，海水透明度高，灣內為海域公園，可乘玻璃底船（海中透視船）觀賞。",
+      "facts": [
+        {
+          "label": "所在地",
+          "value": "新潟縣佐渡市北狄至姬津（相川地區）"
+        },
+        {
+          "label": "開創／成因",
+          "value": "斷崖與岩礁發達的海岸地形，岩礁為珊瑚礁遺跡"
+        },
+        {
+          "label": "看點",
+          "value": "斷崖岩礁、透明海水、玻璃底船"
+        }
+      ],
+      "best_season_zh": "夏季海況穩定",
+      "tips_zh": "玻璃底船受浪況影響，風浪大時可能停航；海府海岸公車班次不多，建議先查班表或自駕。",
+      "tags": [
+        "海蝕崖",
+        "奇岩",
+        "玻璃底船",
+        "佐渡島"
+      ],
+      "sources": [
+        "https://ja.wikipedia.org/wiki/外海府海岸"
+      ],
+      "confidence": "medium",
+      "prompt_en": "Rugged sea cliffs with vertical columnar rock faces rising from crystal-clear turquoise water, a small sightseeing boat in the middle ground, rocky shore in the foreground, bright summer light, no text, no recognizable people"
+    }
+  ]
+}

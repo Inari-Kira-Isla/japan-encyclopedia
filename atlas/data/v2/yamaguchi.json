@@ -1,0 +1,852 @@
+{
+ "id": "yamaguchi",
+ "name_zh": "山口縣",
+ "name_ja": "山口県",
+ "region": "中國",
+ "overview": {
+  "intro_zh": "山口縣位於本州最西端，北臨日本海，南接瀨戶內海，並透過關門海峽與九州相望。江戶時代屬長州藩，萩與下關是幕末維新的舞台，今日有世界文化遺產『明治日本的產業革命遺產』的多處構成資產。縣內還有錦帶橋、秋芳洞、角島大橋等景點，以及河豚、日本酒等特產，是一處兼具歷史與自然景觀的旅遊地。海峽對岸的九州也只需短暫的移動，適合安排跨區行程。",
+  "capital_zh": "山口市",
+  "area_km2": "約6,112",
+  "population_approx": "約130萬",
+  "flower_zh": "夏蜜柑花",
+  "bird_zh": "白頭鶴（鍋鶴）",
+  "tree_zh": "赤松",
+  "climate_zh": "瀨戶內側溫暖少雨，日本海側冬季多雲，山間偶有降雪。",
+  "access_zh": "山陽新幹線停靠新下關、新山口等站；山口宇部機場。",
+  "specialties_zh": [
+   "河豚",
+   "萩燒",
+   "夏蜜柑",
+   "瓦蕎麥",
+   "日本酒"
+  ],
+  "best_season_zh": "春秋季最佳；冬季吃河豚"
+ },
+ "items": {
+  "architecture": {
+   "title_zh": "錦帶橋",
+   "title_ja": "錦帯橋",
+   "summary_zh": "岩國錦川上的五連拱木橋，江戶時代名橋。",
+   "body_zh": "錦帶橋架設於岩國市的錦川，由五座木造拱橋相連，全長約193公尺，是日本三名橋之一。吉川家第三代領主吉川廣嘉於1673年建成，以傳統木工組合的拱形結構抵擋河水沖刷。1950年遭颱風沖毀後於1953年重建，2001至2004年又完成橋體的全面修復，木材每隔數十年需要輪替更新。橋畔的吉香公園與岩國城是賞櫻名所，四月初最為熱鬧。橋面有階梯狀坡度，走在上面可感受木板的觸感與橋身起伏。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "山口縣岩國市錦川"
+    },
+    {
+     "label": "創建",
+     "value": "1673年"
+    },
+    {
+     "label": "全長",
+     "value": "約193公尺、五座拱橋"
+    },
+    {
+     "label": "特色",
+     "value": "傳統木工技法、日本三名橋之一"
+    }
+   ],
+   "best_season_zh": "春季賞櫻（4月初）與秋季楓葉",
+   "tips_zh": "過橋需另付通行費，金額以現場公告為準。橋下河灘可拍整座橋的倒影，早晨光線柔和人也較少。夜間橋身有照明，另有不同角度的拍攝點。",
+   "tags": [
+    "木橋",
+    "名勝",
+    "櫻花",
+    "岩國"
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Kintai_Bridge",
+    "https://ja.wikipedia.org/wiki/%E9%8C%A6%E5%B8%AF%E6%A9%8B"
+   ],
+   "confidence": "high",
+   "prompt_en": "A five-arched wooden bridge crossing a clear river, with a hilltop castle in the background, spring cherry blossoms, wide shot"
+  },
+  "food": {
+   "title_zh": "河豚料理",
+   "title_ja": "ふぐ料理",
+   "summary_zh": "下關稱河豚為『福』，薄切生魚片與火鍋聞名。",
+   "body_zh": "山口縣下關市是日本河豚的最大集散地，當地把『ふぐ』讀作『ふく』，取福氣之意。河豚雖在豐臣秀吉時代曾被禁食，1888年伊藤博文在下關料亭品嚐後解禁，下關因而成為首個公開許可食用河豚的地方。料理以薄如紙的生魚片（てっさ）、河豚火鍋（てっちり）、炸河豚與雜炊最具代表，須由持有執照的廚師處理，在料亭與市場都能安心品嚐。料理由前菜到收尾的雜炊循序上桌，吃法有固定的次序與講究。",
+   "facts": [
+    {
+     "label": "特色",
+     "value": "當地稱『ふく』，取福氣之意"
+    },
+    {
+     "label": "代表料理",
+     "value": "てっさ（生魚片）、てっちり（火鍋）"
+    },
+    {
+     "label": "旺季",
+     "value": "約10月至翌年3月"
+    },
+    {
+     "label": "安全",
+     "value": "須持有河豚處理執照的廚師處理"
+    }
+   ],
+   "best_season_zh": "冬季（11月至2月）",
+   "tips_zh": "料亭套餐價格較高，午餐套餐比較平價；也可到唐戶市場的海鮮店購買小份河豚握壽司。也可事先詢問是否提供單點。",
+   "tags": [
+    "河豚",
+    "下關",
+    "冬季美食",
+    "海鮮"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/%E3%81%B5%E3%81%90",
+    "https://en.wikipedia.org/wiki/Fugu"
+   ],
+   "confidence": "medium",
+   "prompt_en": "Paper-thin pufferfish sashimi arranged in a chrysanthemum pattern on a large ceramic plate, garnishes beside it, elegant food photography"
+  },
+  "culture": {
+   "title_zh": "萩燒",
+   "title_ja": "萩焼",
+   "summary_zh": "山口縣萩市的柔和色調茶陶，素有『萩之七化』之稱。",
+   "body_zh": "萩燒是山口縣萩市的陶器，起源於江戶時代初期，毛利輝元自朝鮮半島帶回陶工，在萩築窯而始。釉色以乳白、淡粉橘為主，質地溫潤、吸水性強，長年使用後茶漬滲入胎土，色澤會慢慢變化，稱為『萩之七化』。茶道界有『一樂、二萩、三唐津』之說，足見其在茶陶中的地位。萩市至今窯場林立，遊客可參觀窯場並購買茶碗，或體驗手捏陶。釉面常見細小開片，更增添手感與使用時的變化樂趣，適合日常茶具。",
+   "facts": [
+    {
+     "label": "產地",
+     "value": "山口縣萩市（部分在長門市）"
+    },
+    {
+     "label": "起源",
+     "value": "江戶時代初期，毛利輝元帶回朝鮮陶工"
+    },
+    {
+     "label": "特色",
+     "value": "乳白與淡橘色釉、使用後色澤會變化"
+    },
+    {
+     "label": "茶道評價",
+     "value": "一樂、二萩、三唐津"
+    }
+   ],
+   "best_season_zh": "全年",
+   "tips_zh": "新碗首次使用前可先泡水再煮，減少茶漬滲入；許多窯場開放參觀與體驗，建議事先預約。價格從數千日圓到數萬日圓不等。",
+   "tags": [
+    "陶器",
+    "茶道",
+    "萩市",
+    "傳統工藝"
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Hagi_ware",
+    "https://ja.wikipedia.org/wiki/%E8%90%A9%E7%84%BC"
+   ],
+   "confidence": "high",
+   "prompt_en": "A soft cream-pink glazed tea bowl on a wooden stand, with a bamboo whisk and gentle window light, still life"
+  },
+  "history": {
+   "title_zh": "松下村塾",
+   "title_ja": "松下村塾",
+   "summary_zh": "培養幕末維新人物的私塾，世界遺產構成資產之一。",
+   "body_zh": "松下村塾位於山口縣萩市，是長州藩士吉田松陰於1857年起主持的私塾。雖然松陰只在此授課約兩年，就在1859年的安政大獄中被處死，但門下弟子高杉晉作、伊藤博文、山縣有朋等人，在日後的幕末維新乃至明治政府中扮演重要角色。小小的木造教室保存至今，與萩城下町等一同被列入2015年的『明治日本的產業革命遺產』世界文化遺產，是理解日本近代化起點的重要場所。塾內保存著當年學生的座席與講課的痕跡，氣氛安靜。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "山口縣萩市"
+    },
+    {
+     "label": "創辦人",
+     "value": "吉田松陰（1857年起授課）"
+    },
+    {
+     "label": "著名門下",
+     "value": "高杉晉作、伊藤博文等"
+    },
+    {
+     "label": "世界遺產",
+     "value": "2015年，明治日本的產業革命遺產"
+    }
+   ],
+   "best_season_zh": "全年",
+   "tips_zh": "塾屋很小，一次容納人數有限；松陰神社旁設有歷史館，建議一併參觀，約需1小時。週末人潮較多，建議平日前往。",
+   "tags": [
+    "幕末",
+    "維新",
+    "世界遺產",
+    "萩市"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/%E6%9D%BE%E4%B8%8B%E6%9D%91%E5%A1%BE",
+    "https://ja.wikipedia.org/wiki/%E6%98%8E%E6%B2%BB%E6%97%A5%E6%9C%AC%E3%81%AE%E7%94%A3%E6%A5%AD%E9%9D%A9%E5%91%BD%E9%81%BA%E7%94%A3"
+   ],
+   "confidence": "high",
+   "prompt_en": "A small old wooden schoolhouse with sliding paper doors in a quiet garden, morning light, no people in focus"
+  },
+  "mascot": {
+   "title_zh": "山口的吉祥物（原創角色）",
+   "title_ja": "山口のご当地キャラ",
+   "summary_zh": "真實吉祥物為『ちょるる』，此處以河豚與夏蜜柑原創角色。",
+   "body_zh": "山口縣的官方宣傳角色是『ちょるる』，2007年首次亮相，原為2011年山口國體的吉祥物，之後擔任縣的觀光宣傳部長，名字取自山口方言的語尾『ちょる』。此條目則是依山口象徵所創作的原創角色：河豚是下關名物，夏蜜柑是縣花，兩者結合為圓滾滾的小河豚頭戴橘色帽子，色彩明亮可愛，並刻意不複製任何既有商標吉祥物。它的造型在山口縣內的祭典、車站與縣政府宣傳活動中隨處可見，深受居民喜愛。",
+   "facts": [
+    {
+     "label": "官方吉祥物",
+     "value": "ちょるる（山口縣PR本部長）"
+    },
+    {
+     "label": "初亮相",
+     "value": "2007年10月"
+    },
+    {
+     "label": "名稱由來",
+     "value": "山口方言語尾『ちょる』"
+    },
+    {
+     "label": "象徵",
+     "value": "河豚、夏蜜柑"
+    }
+   ],
+   "best_season_zh": "全年",
+   "tips_zh": "想看真正的ちょるる，可在山口縣的觀光活動與車站特產店找到周邊商品。此條目的圖像為原創設計，非官方角色。",
+   "tags": [
+    "吉祥物",
+    "河豚",
+    "夏蜜柑",
+    "原創角色"
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Choruru",
+    "https://en.wikipedia.org/wiki/Yamaguchi_Prefecture"
+   ],
+   "confidence": "high",
+   "prompt_en": "An original cute character shaped like a round pufferfish wearing a bright orange citrus hat, kawaii style, floating, not replicating any existing trademarked mascot"
+  },
+  "scenery": {
+   "title_zh": "秋芳洞",
+   "title_ja": "秋芳洞",
+   "summary_zh": "日本最大級鐘乳石洞，洞內常年約17度。",
+   "body_zh": "秋芳洞位於山口縣美祢市的秋吉台下方，是日本最大級的鐘乳石洞，已知洞道全長約8.8公里（近年調查數字更長），開放遊覽的路線約一公里多。洞內常年約17度左右，夏涼冬暖，洞中有『黃金柱』『百枚皿』梯田狀水池等景觀，並有地下河流穿行。洞口附近的山路與商店街可一併遊覽，另有電梯可直達洞內上層。出洞後可到秋吉台高原散步。洞內多處有燈光打亮的鐘乳石與石筍，行走時需注意頭頂與腳下的水滴。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "山口縣美祢市"
+    },
+    {
+     "label": "全長",
+     "value": "約8.8公里（含未開放區）"
+    },
+    {
+     "label": "遊覽路線",
+     "value": "約1至1.5公里"
+    },
+    {
+     "label": "洞內溫度",
+     "value": "約17度"
+    }
+   ],
+   "best_season_zh": "全年（夏季避暑尤佳）",
+   "tips_zh": "洞內濕滑且階梯多，請穿防滑鞋；夏天涼爽但仍建議帶薄外套。洞口外的商店街也可買紀念品。",
+   "tags": [
+    "鐘乳洞",
+    "天然紀念物",
+    "美祢",
+    "避暑"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/%E7%A7%8B%E8%8A%B3%E6%B4%9E",
+    "https://en.wikipedia.org/wiki/Akiyoshidai"
+   ],
+   "confidence": "medium",
+   "prompt_en": "A vast limestone cave with layered terraced pools and glowing stalactites lit by warm lights, mysterious atmosphere"
+  },
+  "spot": {
+   "title_zh": "角島大橋",
+   "title_ja": "角島大橋",
+   "summary_zh": "連接日本海島嶼的絕美大橋，1,780公尺長。",
+   "body_zh": "角島大橋是山口縣下關市豐北町通往角島的橋樑，全長1,780公尺，2000年11月通車，是日本免費通行橋樑中屬最長級的一座。橋身沿著海面緩緩起伏，兩側是淺綠與碧藍交疊的海水，晴天時色澤特別鮮明，因此常出現在電視廣告與旅遊攝影中。島上有1876年啟用的角島燈塔，沙灘與海岸步道也值得散步。夕陽時分的橋面與海景同樣迷人。橋的另一端還有島上的小村落與咖啡店，可順道休息，也有許多攝影愛好者前來。",
+   "facts": [
+    {
+     "label": "全長",
+     "value": "1,780公尺"
+    },
+    {
+     "label": "通車",
+     "value": "2000年11月（免費通行）"
+    },
+    {
+     "label": "所在地",
+     "value": "山口縣下關市"
+    },
+    {
+     "label": "島上景點",
+     "value": "角島燈塔（1876年）"
+    }
+   ],
+   "best_season_zh": "夏季晴天；日落時分",
+   "tips_zh": "最好有車；橋面上無法停車，請到兩端的展望停車處拍照，注意海風與交通。島上用餐地點不多，建議預先安排。",
+   "tags": [
+    "大橋",
+    "日本海",
+    "攝影",
+    "下關"
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Tsunoshima_Bridge",
+    "https://ja.wikipedia.org/wiki/%E8%A7%92%E5%B3%B6%E5%A4%A7%E6%A9%8B"
+   ],
+   "confidence": "high",
+   "prompt_en": "A long gently curving bridge across turquoise coastal water to a small island, bright summer sky, aerial wide shot"
+  },
+  "experience": {
+   "title_zh": "唐戶市場握壽司體驗",
+   "title_ja": "唐戸市場",
+   "summary_zh": "在下關唐戶市場挑選新鮮壽司現場吃。",
+   "body_zh": "唐戶市場是下關市的水產市場，平日供批發，但每週五至週日及假日會舉行『活きいき馬關街』活動，市場內的店家把新鮮海產做成握壽司、海鮮丼與炸物，客人可自選一份份貼好標價的壽司盤，再到屋外的海濱座位邊吃邊看關門海峽。河豚握壽司與炙燒壽司都是人氣選擇，早晨最熱鬧，常有排隊人潮與在地住民採買的氣氛。市場內也有海鮮丼、炸物與現烤魚貨，可依喜好組合成一頓豐盛的早午餐，也能邊走邊吃，十分自在。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "山口縣下關市唐戶町"
+    },
+    {
+     "label": "活動",
+     "value": "週五至週日與假日開放壽司販售"
+    },
+    {
+     "label": "名物",
+     "value": "河豚握壽司、炙燒壽司"
+    },
+    {
+     "label": "景觀",
+     "value": "關門海峽與關門橋"
+    }
+   ],
+   "best_season_zh": "全年；清晨至中午",
+   "tips_zh": "壽司通常早上賣完得快，建議上午早些前往；可帶飲料到戶外座位享用。週末人潮較多，請遵守市場秩序並注意保持環境整潔。",
+   "tags": [
+    "市場",
+    "握壽司",
+    "下關",
+    "海鮮"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/%E5%94%90%E6%88%B8%E5%B8%82%E5%A0%B4"
+   ],
+   "confidence": "medium",
+   "prompt_en": "A tray of fresh sushi pieces at a seafood market with stalls and wooden counters, morning bustle, close-up of nigiri"
+  },
+  "costume": {
+   "title_zh": "長州藩武士服飾",
+   "title_ja": "長州の装い",
+   "summary_zh": "以長州藩武士袴與羽織為靈感的歷史服飾。",
+   "body_zh": "長州藩是今日山口縣一帶的舊藩，藩主毛利家的家紋為『一文字三星』。江戶時代武士平日穿著小袖搭配袴與羽織，外出或公務時佩帶大小刀，色調以深藍、灰黑為主，搭配簡潔配件。幕末時期長州藩士在動盪中積極參與維新運動，這份歷史也成為當地觀光的特色之一。此處服飾描述為概括說明，具體樣式因階層與年代而不同，並非逐一重現。在萩或下關的觀光區，也可看到穿和服散步的旅客，增添城鎮的歷史氣氛。",
+   "facts": [
+    {
+     "label": "藩名",
+     "value": "長州藩（今山口縣）"
+    },
+    {
+     "label": "家紋",
+     "value": "一文字三星"
+    },
+    {
+     "label": "常見色調",
+     "value": "深藍、灰黑"
+    },
+    {
+     "label": "服飾構成",
+     "value": "小袖、袴、羽織"
+    }
+   ],
+   "best_season_zh": "春秋季",
+   "tips_zh": "萩市等地有武家屋敷街區，部分店家提供和服體驗，可在城下町中穿著散步。和服租借店多需預約，請事先確認。",
+   "tags": [
+    "武士",
+    "長州藩",
+    "和服",
+    "歷史服飾"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/%E9%95%B7%E5%B7%9E%E8%97%A9"
+   ],
+   "confidence": "low",
+   "prompt_en": "An anonymous model in traditional samurai-era hakama and haori standing before an old castle town wall, gentle light, full-body portrait"
+  }
+ },
+ "areas": [
+  {
+   "id": "yamaguchi_hagi",
+   "name_zh": "萩",
+   "name_ja": "萩",
+   "intro_zh": "萩市位於山口縣北部日本海沿岸，是江戶時代長州藩的城下町，也是幕末志士輩出的地方。白壁土牆、夏蜜柑樹與武家屋敷保存良好，2015年列入世界文化遺產。從新山口站搭巴士約一小時可達。",
+   "items": {
+    "spot": {
+     "title_zh": "萩城下町",
+     "title_ja": "萩城下町",
+     "summary_zh": "保存完好的武家屋敷街區與白壁土牆。",
+     "body_zh": "萩城下町是長州藩藩主毛利家的城下町，1604年築城後，以三角洲上的格子狀街道發展而成。道路兩側保留江戶時代的武家屋敷、白壁土牆與蜜柑樹，菊屋家住宅等商家與武家宅邸對外開放。萩城本身在明治初年被拆除，如今僅剩石垣與護城河遺跡。2015年萩城下町與周邊遺跡被列入『明治日本的產業革命遺產』世界文化遺產。散步時可看到古地圖與導覽牌。街道兩旁的水路與石牆也是特色，傍晚時分的光影特別美。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "山口縣萩市"
+      },
+      {
+       "label": "成立",
+       "value": "1604年築城後發展"
+      },
+      {
+       "label": "特色",
+       "value": "武家屋敷、白壁土牆、夏蜜柑樹"
+      },
+      {
+       "label": "世界遺產",
+       "value": "2015年"
+      }
+     ],
+     "best_season_zh": "秋季或夏蜜柑開花時節",
+     "tips_zh": "城下町範圍廣闊，可租借自行車；建議配合導覽地圖，約需半天。路面較窄，騎車時請留意行人。",
+     "tags": [
+      "城下町",
+      "武家屋敷",
+      "世界遺產",
+      "萩市"
+     ],
+     "sources": [
+      "https://en.wikipedia.org/wiki/Hagi_Castle",
+      "https://ja.wikipedia.org/wiki/%E8%90%A9%E5%B8%82"
+     ],
+     "confidence": "high",
+     "prompt_en": "A quiet old samurai town lane lined with white plastered walls and citrus trees overhead, morning light, no people in focus"
+    },
+    "food": {
+     "title_zh": "萩夏蜜柑",
+     "title_ja": "萩の夏みかん",
+     "summary_zh": "萩是夏蜜柑的原產地，酸甜帶苦的香氣。",
+     "body_zh": "夏蜜柑原產自山口縣長門市，江戶時代傳到萩，明治維新後武士失去俸祿，藩士們拿來種植夏蜜柑作為生計，因此萩的街道至今仍可見到許多夏蜜柑樹。果皮厚、香氣足，酸味較強，常被加工成果醬、羊羹、軟糖與冰淇淋，在城下町的商店與道之驛都很受歡迎。萩市周邊的日本海也盛產烏賊與其他海產，可以一起品嚐。市區的商店街也有夏蜜柑口味的飲品與甜點，一邊散步一邊品嚐很愜意；果園附近的道路旁常能買到當季新鮮的果實。",
+     "facts": [
+      {
+       "label": "原產",
+       "value": "山口縣長門市一帶"
+      },
+      {
+       "label": "特色",
+       "value": "果皮厚、酸味強、香氣濃"
+      },
+      {
+       "label": "加工品",
+       "value": "果醬、羊羹、糖果、冰淇淋"
+      },
+      {
+       "label": "收成",
+       "value": "約3月至5月"
+      }
+     ],
+     "best_season_zh": "春季（夏蜜柑果期）",
+     "tips_zh": "新鮮夏蜜柑偏酸，可買加工品或甜點當伴手禮，保存也方便。果皮可做成蜜餞帶回家，保存期較長也方便分送。",
+     "tags": [
+      "夏蜜柑",
+      "柑橘",
+      "萩市",
+      "伴手禮"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/%E8%90%A9%E5%B8%82",
+      "https://en.wikipedia.org/wiki/Yamaguchi_Prefecture"
+     ],
+     "confidence": "medium",
+     "prompt_en": "Bright orange natsumikan citrus fruits piled in a bamboo basket beside jars of marmalade and sweets, soft window light, still life"
+    },
+    "scenery": {
+     "title_zh": "指月山",
+     "title_ja": "指月山",
+     "summary_zh": "萩城遺跡所在的山，面向日本海。",
+     "body_zh": "指月山是萩市區北側三角洲邊緣的小山，山腳下是萩城的遺跡，石垣與護城河保存完整，現為指月公園。1604年毛利輝元築城於此，一直到1863年移往山口之前都是長州藩的藩廳。萩城在明治初年被拆除，僅留下石垣與天守台。山上有松林和展望處，可遠眺日本海與市區，沿海岸線的步道也很適合散步。山腳的指月公園內有茶屋與花崗岩造的石垣，春天賞櫻、秋天賞楓都很適合，旁邊還有小型的史料館可供參觀，整體景色開闊。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "山口縣萩市"
+      },
+      {
+       "label": "標高",
+       "value": "約140公尺左右"
+      },
+      {
+       "label": "遺跡",
+       "value": "萩城石垣與護城河"
+      },
+      {
+       "label": "景觀",
+       "value": "日本海與城下町"
+      }
+     ],
+     "best_season_zh": "春季與秋季",
+     "tips_zh": "登山步道約半小時，需穿好走的鞋；冬季海風強勁，請注意保暖。海岸一帶的風景也值得順道欣賞。",
+     "tags": [
+      "山",
+      "城跡",
+      "日本海",
+      "萩市"
+     ],
+     "sources": [
+      "https://en.wikipedia.org/wiki/Hagi_Castle",
+      "https://ja.wikipedia.org/wiki/%E6%8C%87%E6%9C%88%E5%B1%B1"
+     ],
+     "confidence": "medium",
+     "prompt_en": "A castle ruin hill beside the sea with pine trees, stone walls and a moat, morning mist"
+    }
+   }
+  },
+  {
+   "id": "yamaguchi_shimonoseki",
+   "name_zh": "下關",
+   "name_ja": "下関",
+   "intro_zh": "下關位於本州最西端，隔著關門海峽與九州的門司相望，是河豚與歷史的港都。壇之浦之戰、日清議和與近代貿易都在這裡留下足跡，海峽兩岸夜景尤其迷人。從廣島與福岡都有新幹線，轉乘方便。",
+   "items": {
+    "spot": {
+     "title_zh": "赤間神宮",
+     "title_ja": "赤間神宮",
+     "summary_zh": "祭祀安德天皇的朱紅水天門神社，面向關門海峽。",
+     "body_zh": "赤間神宮位於下關市的關門海峽邊，主祭神是1185年壇之浦之戰中殞命的安德天皇，社門『水天門』仿龍宮設計，朱紅色門樓格外醒目。壇之浦之戰是平氏與源氏的最終決戰，平家敗亡，成為日本中世的分水嶺。小泉八雲筆下的『無耳芳一』故事便以此為背景，神社內設有芳一堂。海峽對岸是九州門司，登高眺望，關門橋橫跨海峽。神社內另有寶物館，展示平家與安德天皇相關的文物，並且每年會舉行重現平家公卿遊行的祭典，吸引不少遊客前來。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "山口縣下關市阿彌陀寺町"
+      },
+      {
+       "label": "祭神",
+       "value": "安德天皇"
+      },
+      {
+       "label": "歷史背景",
+       "value": "1185年壇之浦之戰"
+      },
+      {
+       "label": "特色",
+       "value": "水天門與無耳芳一堂"
+      }
+     ],
+     "best_season_zh": "全年；清晨寧靜",
+     "tips_zh": "神社旁有平家一門之墓與古戰場遺址，可一併步行參觀，約需1小時。祭典日期請事先查詢。",
+     "tags": [
+      "神社",
+      "壇之浦",
+      "歷史",
+      "下關"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/%E8%B5%A4%E9%96%93%E7%A5%9E%E5%AE%AE"
+     ],
+     "confidence": "medium",
+     "prompt_en": "A vermilion dragon-palace style gate beside a calm strait with a suspension bridge in the distance, morning light, quiet atmosphere"
+    },
+    "food": {
+     "title_zh": "瓦蕎麥",
+     "title_ja": "瓦そば",
+     "summary_zh": "把蕎麥麵放在燒熱的瓦片上的下關名物。",
+     "body_zh": "瓦蕎麥是下關市豐浦町的鄉土料理，把茶蕎麥放在燒得滾燙的瓦片上，鋪上錦絲蛋、牛肉絲、蔥花、海苔，再附上檸檬與蘿蔔泥，蘸著溫熱的醬汁享用。相傳靈感來自1877年西南戰爭時薩摩士兵在瓦片上烤食材的故事，現代版本則是1961年川棚溫泉的老闆高瀨慎一創作。瓦片底部烤得微焦，口感獨特，現今已推廣到山口縣各地。下關市區與豐浦町都有專門店，除了蕎麥麵本身，湯汁與配料搭配也是樂趣，有些店家還提供附瓦片的小火鍋套餐。",
+     "facts": [
+      {
+       "label": "發祥",
+       "value": "山口縣下關市豐浦町川棚溫泉"
+      },
+      {
+       "label": "創作者",
+       "value": "高瀨慎一（1961年）"
+      },
+      {
+       "label": "配料",
+       "value": "茶蕎麥、牛肉絲、蛋絲、檸檬"
+      },
+      {
+       "label": "特色",
+       "value": "在燒熱的瓦片上上桌"
+      }
+     ],
+     "best_season_zh": "全年",
+     "tips_zh": "趁麵底的瓦片還燙時吃，底部會形成微焦的口感；醬汁偏甜，檸檬可調節。初次嘗試的人可選小份。",
+     "tags": [
+      "瓦蕎麥",
+      "鄉土料理",
+      "下關",
+      "蕎麥"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/%E7%93%A6%E3%81%9D%E3%81%B0"
+     ],
+     "confidence": "high",
+     "prompt_en": "Green tea soba noodles served on a hot roof tile topped with shredded egg, sliced beef, nori and lemon, small dipping bowl, warm food photography"
+    },
+    "scenery": {
+     "title_zh": "火之山關門海峽夜景",
+     "title_ja": "火の山公園",
+     "summary_zh": "從山頂俯瞰關門海峽與兩岸燈火。",
+     "body_zh": "火之山公園位於下關市區北側，山頂海拔約268公尺，可以搭乘空中纜車或開車上山。從展望台向外望去，關門海峽的船隻往來，關門橋與九州門司的燈火在夜間連成一線，景色開闊。海峽最窄處僅約700公尺，是日本海運重要航道。傍晚日落到夜間是最熱門的時段，也有人專程在這裡看煙火大會時的夜景。山上另有砲台遺跡與公園設施，春天櫻花盛開時，山頂與步道也是賞花的好去處，視野遼闊，可同時看到海面上來往的巨型貨輪與渡輪。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "山口縣下關市"
+      },
+      {
+       "label": "標高",
+       "value": "約268公尺"
+      },
+      {
+       "label": "交通",
+       "value": "空中纜車或汽車"
+      },
+      {
+       "label": "景觀",
+       "value": "關門橋與門司夜景"
+      }
+     ],
+     "best_season_zh": "傍晚至夜間",
+     "tips_zh": "山頂風大，夜間氣溫下降，請穿外套；纜車營運日與時段請事先確認。山路蜿蜒，開車請小心。",
+     "tags": [
+      "夜景",
+      "海峽",
+      "展望台",
+      "下關"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/%E7%81%AB%E3%81%AE%E5%B1%B1%E5%85%AC%E5%9C%92",
+      "https://en.wikipedia.org/wiki/Kanmon_Straits"
+     ],
+     "confidence": "medium",
+     "prompt_en": "A night view over a narrow strait with a suspension bridge lit up and city lights across the water, observation deck foreground, deep blue sky"
+    }
+   }
+  },
+  {
+   "id": "yamaguchi_iwakuni",
+   "name_zh": "岩國",
+   "name_ja": "岩国",
+   "intro_zh": "岩國位於山口縣最東端，緊鄰廣島縣，是吉川氏的城下町。錦川畔的錦帶橋與岩國城為地標，沿著河岸可以賞櫻、看鵜飼，也能品嚐岩國壽司與當地日本酒。從廣島搭JR山陽本線約一小時內可抵達。",
+   "items": {
+    "spot": {
+     "title_zh": "岩國城與吉香公園",
+     "title_ja": "岩国城・吉香公園",
+     "summary_zh": "錦川畔的吉香公園與山頂的岩國城天守。",
+     "body_zh": "岩國城建於橫山山頂，1601年起築城，1608年完成，但1615年因一國一城令而被拆除，現存天守是1962年以鋼筋混凝土重建，視野開闊，可眺望錦帶橋與瀨戶內海。山腳的吉香公園原是吉川家的居館，現為賞櫻名所，園內保存武家屋敷與歷史資料館。從錦帶橋畔可搭空中纜車上山，再步行數分鐘抵達天守。登上天守可看到岩國市區與遠方的瀨戶內海，晴天時視野極佳；城內設有展示館，介紹吉川家的歷史與武具，也是了解藩政的好地方。",
+     "facts": [
+      {
+       "label": "岩國城築城",
+       "value": "1601年起，1608年完成"
+      },
+      {
+       "label": "拆除",
+       "value": "1615年（一國一城令）"
+      },
+      {
+       "label": "重建",
+       "value": "1962年"
+      },
+      {
+       "label": "交通",
+       "value": "纜車＋步行"
+      }
+     ],
+     "best_season_zh": "春季賞櫻（4月初）",
+     "tips_zh": "吉香公園的賞櫻期人潮多；纜車與錦帶橋通行費可買套票，較為划算。纜車營運時間請先確認。",
+     "tags": [
+      "城跡",
+      "賞櫻",
+      "公園",
+      "岩國"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/%E5%B2%A9%E5%9B%BD%E5%9F%8E",
+      "https://ja.wikipedia.org/wiki/%E5%90%89%E9%A6%99%E5%85%AC%E5%9C%92"
+     ],
+     "confidence": "high",
+     "prompt_en": "A small white castle keep on a forested hilltop above a river valley, cherry blossoms in the foreground, soft spring light"
+    },
+    "food": {
+     "title_zh": "岩國壽司",
+     "title_ja": "岩国寿司",
+     "summary_zh": "把魚、蓮藕與蔬菜層疊壓製的箱壽司。",
+     "body_zh": "岩國壽司是山口縣岩國市的鄉土料理，使用大木框將壽司飯與魚、蓮藕、香菇、蛋絲等食材一層層疊起，再壓製成大塊，切成方形供應。傳說起源於藩主在戰時需要保存食物，也是岩國人在慶典與款待賓客時的傳統食物。岩國以蓮藕聞名，口感爽脆，是壽司中不可缺少的配料。如今在岩國的料亭與旅遊商店都能買到，適合當伴手禮。岩國壽司的口味清爽而不甜膩，搭配當地的日本酒更是絕配，在錦帶橋周邊的食堂與旅館也經常能見到，是旅途中很適合品嚐的一道料理。",
+     "facts": [
+      {
+       "label": "類型",
+       "value": "箱壓壽司"
+      },
+      {
+       "label": "食材",
+       "value": "蓮藕、香菇、魚、蛋絲"
+      },
+      {
+       "label": "地位",
+       "value": "慶典與待客料理"
+      },
+      {
+       "label": "所在地",
+       "value": "山口縣岩國市"
+      }
+     ],
+     "best_season_zh": "全年",
+     "tips_zh": "壽司切成大塊，可兩人分食；做好後當日食用口感最佳。預約團體餐時可事先詢問，多人分享更方便。",
+     "tags": [
+      "壓壽司",
+      "蓮藕",
+      "鄉土料理",
+      "岩國"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/%E5%B2%A9%E5%9B%BD%E5%AF%BF%E5%8F%B8"
+     ],
+     "confidence": "low",
+     "prompt_en": "Rectangular layered oshizushi with fish and vegetables on a wooden tray, lotus root slices visible, soft natural light, food photography"
+    },
+    "scenery": {
+     "title_zh": "錦川鵜飼",
+     "title_ja": "錦川の鵜飼",
+     "summary_zh": "錦帶橋下游夜晚的鵜飼漁火。",
+     "body_zh": "鵜飼是以鸕鶿捕魚的傳統漁法，在岩國的錦川上於夏季夜晚舉行，約每年6月到9月，觀光船在錦帶橋下游停泊，漁夫駕著小船、點燃篝火，數隻鸕鶿在河面潛水捕捉香魚。火光映照河面與橋影，氣氛神祕。岩國鵜飼自江戶時代起由藩主保護延續，是岩國最具代表性的夏季風物詩。可乘坐觀光船近距離觀賞，也有餐桌船可邊用餐邊欣賞。鵜匠穿著傳統的服裝、駕船操縱鸕鶿，繩索牽引之間，動作俐落而專注，圍觀的遊客常為此屏息，是江戶時代傳承下來的古老技藝。",
+     "facts": [
+      {
+       "label": "時節",
+       "value": "約6月至9月"
+      },
+      {
+       "label": "漁法",
+       "value": "鸕鶿捕香魚、篝火照明"
+      },
+      {
+       "label": "觀賞方式",
+       "value": "觀光船或餐桌船"
+      },
+      {
+       "label": "所在地",
+       "value": "山口縣岩國市錦川"
+      }
+     ],
+     "best_season_zh": "夏季夜晚",
+     "tips_zh": "需預約觀光船；夜間河面涼意，請備薄外套與防蚊用品。雨天或河水暴漲時會停辦，出發前請確認消息。",
+     "tags": [
+      "鵜飼",
+      "夏季",
+      "夜景",
+      "岩國"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/%E9%B5%9C%E9%A3%BC",
+      "https://ja.wikipedia.org/wiki/%E5%B2%A9%E5%9B%BD%E5%B8%82"
+     ],
+     "confidence": "medium",
+     "prompt_en": "A traditional wooden boat with a blazing fire basket on a dark river at night, cormorants swimming, a wooden arch bridge silhouette in the background"
+    }
+   }
+  },
+  {
+   "id": "yamaguchi_akiyoshidai",
+   "name_zh": "秋吉台",
+   "name_ja": "秋吉台",
+   "intro_zh": "秋吉台位於山口縣中部的美祢市，是日本最大規模的喀斯特高原，面積約130平方公里。石灰岩散落在草原上，春天有山燒，夏天綠草如茵，地下則是秋芳洞等多座洞窟。從新山口站搭巴士約四十分鐘可達。",
+   "items": {
+    "spot": {
+     "title_zh": "秋吉台喀斯特展望台",
+     "title_ja": "秋吉台カルスト展望台",
+     "summary_zh": "俯瞰喀斯特高原的白色岩塊與草原。",
+     "body_zh": "秋吉台喀斯特展望台位於高原中心，視野遼闊，可望見石灰岩岩塊像羊群般散落在草原上，是日本最大規模的喀斯特地形。秋吉台已指定為國定公園，地下水系更於2005年登錄為拉姆薩爾濕地。高原上有環狀公路和步道，遊客可以健行。春天以及秋天視野尤其清晰。展望台旁設有停車場與休息所，周邊還有秋吉台科學博物館，介紹喀斯特的形成過程與洞窟生態，適合親子同遊，也可購買紀念品，作為旅程的回憶。",
+     "facts": [
+      {
+       "label": "面積",
+       "value": "約130平方公里"
+      },
+      {
+       "label": "地形",
+       "value": "日本最大規模喀斯特"
+      },
+      {
+       "label": "所在地",
+       "value": "山口縣美祢市"
+      },
+      {
+       "label": "地位",
+       "value": "國定公園、拉姆薩爾濕地"
+      }
+     ],
+     "best_season_zh": "春季與秋季",
+     "tips_zh": "高原遮蔽物少，夏天曝曬、冬天風大，請準備防曬或防風衣物。展望台全年開放，冬季風大請注意保暖與路面結冰。",
+     "tags": [
+      "喀斯特",
+      "高原",
+      "健行",
+      "美祢"
+     ],
+     "sources": [
+      "https://en.wikipedia.org/wiki/Akiyoshidai",
+      "https://ja.wikipedia.org/wiki/%E7%A7%8B%E5%90%89%E5%8F%B0"
+     ],
+     "confidence": "medium",
+     "prompt_en": "A wide karst plateau with white limestone rocks scattered across green grass like grazing sheep, blue sky, wide shot"
+    },
+    "food": {
+     "title_zh": "美祢山菜與長州黑雞",
+     "title_ja": "美祢の山菜と長州黒かしわ",
+     "summary_zh": "山區質樸家常菜與山口縣的地雞。",
+     "body_zh": "美祢市位於山間，當地餐廳常以山菜、蕎麥與季節野菜入菜，口味樸實清爽。山口縣的地雞『長州黑雞』（長州黑かしわ）肉質彈牙、味道濃郁，常見於烤雞與雞肉火鍋。遊客在遊覽秋芳洞或秋吉台後，可在附近的食堂品嚐以山菜與地雞為主的定食。此條目細節因店家與季節而異，請依現場菜單為準。遊客也可在秋芳洞入口附近的商店街買到當地特產，如蕎麥麵、饅頭與乾貨，也有人氣的夏蜜柑製品，適合在遊覽洞窟後休憩補給，也可順道欣賞周邊的景色與商店櫥窗。",
+     "facts": [
+      {
+       "label": "特色",
+       "value": "山菜、地雞、定食"
+      },
+      {
+       "label": "地雞",
+       "value": "長州黑雞（山口縣）"
+      },
+      {
+       "label": "季節",
+       "value": "春季山菜較豐富"
+      },
+      {
+       "label": "所在地",
+       "value": "山口縣美祢市"
+      }
+     ],
+     "best_season_zh": "春季",
+     "tips_zh": "山菜供應視季節而定；午餐時段人多，建議先確認店家營業時間。旺季時餐廳常客滿，建議提早入座或避開午餐尖峰。",
+     "tags": [
+      "山菜",
+      "地雞",
+      "家常菜",
+      "美祢"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/%E5%B1%B1%E5%8F%A3%E7%9C%8C"
+     ],
+     "confidence": "low",
+     "prompt_en": "A rustic Japanese set meal with mountain vegetables and grilled chicken on wooden trays, steam rising, warm light"
+    },
+    "scenery": {
+     "title_zh": "秋吉台山燒",
+     "title_ja": "秋吉台の山焼き",
+     "summary_zh": "春季燒草以維護草原，火線在高原上蔓延。",
+     "body_zh": "秋吉台的草原自古靠燒草維持，每年約二月中旬至三月，會在高原上舉行山燒：點燃枯草，火線沿著山坡擴散，燒掉雜草與灌木，使石灰岩景觀和草原得以保存，也防止森林化。燒後的黑色大地在春雨之後長出新綠，形成季節性的變化。山燒是由當地居民與消防團共同進行的傳統作業，也是近年受歡迎的賞景活動。實際日期因天氣而異。為了安全，山燒會設置防火線並由消防團待命，遊客可在指定的觀賞點遠觀，山火映襯夕陽的景色常被攝影愛好者拍下。",
+     "facts": [
+      {
+       "label": "時節",
+       "value": "約2月中旬至3月（視天候）"
+      },
+      {
+       "label": "目的",
+       "value": "維護草原與喀斯特景觀"
+      },
+      {
+       "label": "執行者",
+       "value": "當地居民與消防團"
+      },
+      {
+       "label": "所在地",
+       "value": "山口縣美祢市"
+      }
+     ],
+     "best_season_zh": "早春",
+     "tips_zh": "山燒日期視天氣決定，行前請查詢官方消息；現場煙霧大，請遠離火線。請遵守現場工作人員的指示。",
+     "tags": [
+      "山燒",
+      "草原",
+      "早春",
+      "喀斯特"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/%E7%A7%8B%E5%90%89%E5%8F%B0"
+     ],
+     "confidence": "low",
+     "prompt_en": "A line of fire creeping across a dry grassy karst plateau with white limestone rocks, smoke drifting, late winter dusk"
+    }
+   }
+  }
+ ]
+}

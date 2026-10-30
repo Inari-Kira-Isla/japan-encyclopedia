@@ -1,0 +1,277 @@
+{
+ "id": "yamagata",
+ "foods": [
+  {
+   "title_zh": "芋煮",
+   "title_ja": "芋煮",
+   "category": "鄉土料理",
+   "summary_zh": "里芋與牛肉的河畔鍋，山形秋季靈魂。",
+   "body_zh": "芋煮是山形縣內陸地區的秋季鄉土料理，在河邊用大鍋煮里芋、牛肉、蒟蒻、蔥，以醬油調味，是秋天的聚會活動「芋煮會」。山形市每年舉辦日本一大芋煮會，用巨型鍋煮上萬人份。山形偏醬油牛肉口味，庄內地區則多用豬肉與味噌。山形與庄內的芋煮口味不同，常引發「醬油還是味噌」的在地話題，反映東北各地的飲食差異。",
+   "facts": [
+    {
+     "label": "起源",
+     "value": "江戶時代舟運傳承說法，細節不一"
+    },
+    {
+     "label": "主要食材",
+     "value": "里芋、牛肉、蒟蒻、蔥"
+    },
+    {
+     "label": "吃法",
+     "value": "河畔大鍋聚餐"
+    }
+   ],
+   "season_zh": "秋季（9至11月）",
+   "where_zh": "山形市、村山、最上一帶",
+   "tags": [
+    "芋煮",
+    "鍋物",
+    "里芋",
+    "秋季"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/芋煮"
+   ],
+   "confidence": "medium",
+   "prompt_en": "Large cast-iron pot of imoni stew with taro, beef slices, konnyaku and green onion in soy broth, steam, outdoor riverside autumn setting, warm light, no text"
+  },
+  {
+   "title_zh": "山形板蕎麥",
+   "title_ja": "山形そば（板そば）",
+   "category": "麵飯",
+   "summary_zh": "長木盤盛裝的粗蕎麥麵，山形庶民代表。",
+   "body_zh": "山形縣是日本蕎麥重要產地，特色是粗而有嚼勁的田舍蕎麥，以長方形木盤「板」盛裝，稱為板そば，多人分食。蕎麥香氣重、口感結實，沾醬汁食用。村山地區尾花澤、大石田一帶有許多名店。蕎麥麵粗細不均、帶有咬勁，山形人認為用木板盛裝能保持麵條的透氣與香味，是縣內飲食特色。",
+   "facts": [
+    {
+     "label": "起源",
+     "value": "山形縣內陸，蕎麥生產歷史悠久"
+    },
+    {
+     "label": "主要食材",
+     "value": "蕎麥粉"
+    },
+    {
+     "label": "吃法",
+     "value": "木盤盛裝，沾醬汁分食"
+    }
+   ],
+   "season_zh": "全年，新蕎麥秋季",
+   "where_zh": "尾花澤、大石田及山形市蕎麥店",
+   "tags": [
+    "蕎麥麵",
+    "板蕎麥",
+    "田舍",
+    "山形"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/そば"
+   ],
+   "confidence": "low",
+   "prompt_en": "Rustic thick buckwheat noodles served on a long wooden board with a dipping sauce bowl and scallions, wooden table, soft side light, no text"
+  },
+  {
+   "title_zh": "米澤牛",
+   "title_ja": "米沢牛",
+   "category": "肉類",
+   "summary_zh": "日本三大和牛之一，細緻油花與柔嫩肉質。",
+   "body_zh": "米澤牛是山形縣置賜地區產的黑毛和牛，與神戶牛、松阪牛（或近江牛）並稱日本三大和牛之一。肉質柔嫩、油花細緻、甘甜。常見吃法有壽喜燒、涮涮鍋、牛排與燒肉，在米澤市有許多專門店。米澤牛的脂肪熔點低，入口即化，因此牛排只需簡單用鹽調味即可，也有米澤牛丼與漢堡肉等平價吃法。",
+   "facts": [
+    {
+     "label": "起源",
+     "value": "置賜地區（米澤）飼育的黑毛和牛"
+    },
+    {
+     "label": "主要食材",
+     "value": "黑毛和種牛肉"
+    },
+    {
+     "label": "吃法",
+     "value": "壽喜燒、牛排、燒肉"
+    }
+   ],
+   "season_zh": "全年",
+   "where_zh": "米澤市及山形市和牛專門店",
+   "tags": [
+    "和牛",
+    "壽喜燒",
+    "牛排",
+    "米澤"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/米沢牛"
+   ],
+   "confidence": "medium",
+   "prompt_en": "Slices of marbled Yonezawa wagyu beef steak on a hot stone or dark plate, fine fat marbling, soft light, no text"
+  },
+  {
+   "title_zh": "佐藤錦櫻桃",
+   "title_ja": "佐藤錦",
+   "category": "特產食材",
+   "summary_zh": "山形縣產量日本第一的櫻桃，佐藤錦最具代表。",
+   "body_zh": "山形縣是日本櫻桃（さくらんぼ）產量最高的縣，約占全國七成以上，東根市與寒河江一帶為主要產區。「佐藤錦」由佐藤榮助育成，果實紅黃色、甜度高、酸味柔和，被稱為櫻桃女王。產季短，多為生食，也做成果醬與酒。櫻桃採收期短暫，盛產期在山形的觀光果園可現採現吃，成為初夏旅遊的熱門行程之一。",
+   "facts": [
+    {
+     "label": "起源",
+     "value": "東根市，佐藤榮助育成"
+    },
+    {
+     "label": "主要食材",
+     "value": "櫻桃"
+    },
+    {
+     "label": "吃法",
+     "value": "新鮮生食"
+    }
+   ],
+   "season_zh": "初夏（6月至7月）",
+   "where_zh": "東根市、寒河江、天童一帶",
+   "tags": [
+    "櫻桃",
+    "水果",
+    "初夏",
+    "東根"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/佐藤錦"
+   ],
+   "confidence": "medium",
+   "prompt_en": "Cluster of bright red and yellow cherries with stems in a small wooden basket, fresh dew drops, white background table, soft natural light, no text"
+  },
+  {
+   "title_zh": "冷拉麵",
+   "title_ja": "冷やしラーメン",
+   "category": "B級美食",
+   "summary_zh": "冰涼湯頭的山形拉麵，夏季名物。",
+   "body_zh": "冷やしラーメン是山形市的夏季名物，一說源自1952年山形市榮屋本店。特色是冰涼的醬油湯頭，麵條與湯一起冷卻，不加冰塊也呈清涼口感。配料有叉燒、筍乾、蔥花，清爽順口，與一般冷麵不同。冷湯用雞骨與昆布等熬製後冷卻，並去除浮油，口感清爽，如今山形許多店家推出不同版本。",
+   "facts": [
+    {
+     "label": "起源",
+     "value": "山形市榮屋本店，1952年（店家傳說）"
+    },
+    {
+     "label": "主要食材",
+     "value": "麵條、冷醬油湯、叉燒、筍乾"
+    },
+    {
+     "label": "吃法",
+     "value": "冷湯麵"
+    }
+   ],
+   "season_zh": "夏季",
+   "where_zh": "山形市內拉麵店",
+   "tags": [
+    "拉麵",
+    "冷麵",
+    "夏季",
+    "山形"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/冷やしラーメン"
+   ],
+   "confidence": "low",
+   "prompt_en": "Bowl of chilled ramen in clear amber soy broth with chashu slices, bamboo shoots and scallions, ceramic bowl, beads of condensation, soft light, no text"
+  },
+  {
+   "title_zh": "鱈魚內臟味噌湯",
+   "title_ja": "どんがら汁",
+   "category": "海鮮",
+   "summary_zh": "庄內寒鱈整尾入湯，冬季暖身鄉土味。",
+   "body_zh": "どんがら汁是山形縣庄內地區的冬季鄉土料理，用寒冬捕獲的鱈魚整尾，包括魚骨、魚肝、魚白等一起入鍋，以味噌調味。湯頭濃郁、鮮甜暖身，是鶴岡、酒田一帶冬季的名物，也常在寒鱈祭中供應。鱈魚全身都可入鍋，湯中帶著魚肝的濃郁與魚白的綿滑，是漁村講究不浪費食材的料理智慧。",
+   "facts": [
+    {
+     "label": "起源",
+     "value": "庄內海岸的冬季漁家料理"
+    },
+    {
+     "label": "主要食材",
+     "value": "寒鱈、味噌、蔥、豆腐"
+    },
+    {
+     "label": "吃法",
+     "value": "整尾入鍋的味噌湯"
+    }
+   ],
+   "season_zh": "冬季（1至2月最盛）",
+   "where_zh": "鶴岡、酒田及庄內濱海一帶",
+   "tags": [
+    "鱈魚",
+    "味噌湯",
+    "冬季",
+    "庄內"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/どんがら汁"
+   ],
+   "confidence": "low",
+   "prompt_en": "Big bowl of miso soup with whole cod pieces, liver and milt, tofu and green onions, steam rising, rustic ceramic bowl, wooden table, warm light, no text"
+  },
+  {
+   "title_zh": "山形日本酒",
+   "title_ja": "山形の日本酒",
+   "category": "酒與飲品",
+   "summary_zh": "吟釀王國山形，十四代等名酒出自縣內。",
+   "body_zh": "山形縣是日本酒的名產地，也是日本第一個獲地理標示（GI）的縣。酒造如高木酒造（十四代）、出羽櫻、東光等。使用「出羽燦燦」「雪女神」等縣產酒米，酒質多偏華麗、細緻、乾淨，常搭配芋煮與山菜料理。縣內擁有許多小型酒藏，每年舉辦酒祭與試飲活動，吸引日本全國與海外的愛酒人士前來。",
+   "facts": [
+    {
+     "label": "主要食材",
+     "value": "米、米麴、水"
+    },
+    {
+     "label": "特色",
+     "value": "GI山形，吟釀酒知名"
+    },
+    {
+     "label": "吃法",
+     "value": "冷酒、搭配鄉土料理"
+    }
+   ],
+   "season_zh": "全年，新酒冬季",
+   "where_zh": "山形縣內各地酒造",
+   "tags": [
+    "日本酒",
+    "吟釀",
+    "十四代",
+    "山形"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/山形県"
+   ],
+   "confidence": "low",
+   "prompt_en": "Glass sake bottle and small white cup of clear ginjo sake on a dark wooden table, soft moody window light, no text"
+  },
+  {
+   "title_zh": "山形夏野菜拌醬",
+   "title_ja": "だし",
+   "category": "鄉土料理",
+   "summary_zh": "夏野菜切碎拌黏性醬，山形夏季拌飯與涼菜。",
+   "body_zh": "「だし」是山形縣的夏季鄉土料理，把茄子、小黃瓜、茗荷、青紫蘇、秋葵等夏野菜細切，加醬油與昆布出汁拌成黏稠的涼菜。可配冷豆腐、白飯或蕎麥。清爽下飯，是山形家庭餐桌常備的夏季小菜。切得越細越能出現黏性，山形人常在炎夏時冰鎮後享用，是改善食慾不振的夏季家常菜。",
+   "facts": [
+    {
+     "label": "起源",
+     "value": "山形縣內，家庭料理傳承"
+    },
+    {
+     "label": "主要食材",
+     "value": "茄子、小黃瓜、茗荷、秋葵、昆布"
+    },
+    {
+     "label": "吃法",
+     "value": "拌飯、冷豆腐或蕎麥"
+    }
+   ],
+   "season_zh": "夏季",
+   "where_zh": "山形縣各家庭、食堂",
+   "tags": [
+    "夏野菜",
+    "涼菜",
+    "家庭料理",
+    "山形"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/山形県"
+   ],
+   "confidence": "low",
+   "prompt_en": "Small ceramic bowl of finely diced summer vegetables with okra, cucumber, eggplant, myoga and shiso in glossy sticky dressing, over a block of tofu, soft light, no text"
+  }
+ ]
+}

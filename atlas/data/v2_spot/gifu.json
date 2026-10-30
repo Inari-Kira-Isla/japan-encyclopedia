@@ -1,0 +1,285 @@
+{
+  "id": "gifu",
+  "spots": [
+    {
+      "title_zh": "白川鄉合掌造聚落",
+      "title_ja": "白川郷",
+      "category": "街區古鎮",
+      "area_zh": "大野郡白川村",
+      "summary_zh": "陡峭茅葺屋頂的世界遺產聚落。",
+      "body_zh": "白川鄉位於岐阜縣北西部庄川流域、白山東麓。1995年與富山縣五箇山的相倉、菅沼聚落一同登錄世界遺產，其中荻町地區因至今仍是居民實際生活的場所而特別有價值，1976年已被指定為重要傳統建造物群保存地區。合掌造是屋頂陡峭的茅葺民居，適應豪雪。每年1至2月週末有夜間點燈，2019年起改為完全預約制。",
+      "facts": [
+        {
+          "label": "所在地",
+          "value": "岐阜縣大野郡白川村荻町（庄川流域）"
+        },
+        {
+          "label": "開創／成因",
+          "value": "1995年與五箇山一同登錄世界遺產；荻町1976年被指定為重傳建地區"
+        },
+        {
+          "label": "看點",
+          "value": "合掌造民居群、冬季週末夜間點燈（2019年起須預約）"
+        }
+      ],
+      "best_season_zh": "冬季雪景與點燈活動",
+      "tips_zh": "居民仍在此生活，請勿擅入私人土地；冬季點燈活動通常需事先預約，交通請預留彈性時間。",
+      "tags": [
+        "世界遺產",
+        "合掌造",
+        "茅葺",
+        "雪景"
+      ],
+      "sources": [
+        "https://ja.wikipedia.org/wiki/白川郷"
+      ],
+      "confidence": "medium",
+      "prompt_en": "Traditional steep thatched-roof farmhouses in a mountain village covered in deep snow at dusk, warm light glowing from windows, wide view from an elevated vantage point, no text, no recognizable people"
+    },
+    {
+      "title_zh": "高山古街並",
+      "title_ja": "高山の古い町並",
+      "category": "街區古鎮",
+      "area_zh": "高山市",
+      "summary_zh": "保存江戶風貌的飛驒城下町商家街區。",
+      "body_zh": "高山古街並即「三町伝統的建造物群保存地区」，保留江戶時代以來的城下町與商家町風貌。城下町格局源於1585年金森長近奉豐臣秀吉之命築飛驒高山城，江戶時代轉為幕府直轄後街區仍得以保存。街道兩側為木造格子窗町屋，鄰近還有傳統的宮川朝市，以及享譽全國的高山祭。",
+      "facts": [
+        {
+          "label": "所在地",
+          "value": "岐阜縣高山市中心的三町地區"
+        },
+        {
+          "label": "開創／成因",
+          "value": "1585年金森長近築高山城，奠定城下町格局"
+        },
+        {
+          "label": "看點",
+          "value": "江戶風貌町屋、宮川朝市、高山祭"
+        }
+      ],
+      "best_season_zh": "春秋高山祭與冬季雪景",
+      "tips_zh": "街區步行約半天可逛完；高山祭期間住宿極難預訂，建議提早數月；店家清晨與傍晚營業時間不同，請先確認。",
+      "tags": [
+        "古街",
+        "町屋",
+        "酒藏",
+        "小京都"
+      ],
+      "sources": [
+        "https://ja.wikipedia.org/wiki/高山市"
+      ],
+      "confidence": "medium",
+      "prompt_en": "Old merchant street with dark wooden lattice-front townhouses, narrow canal beside the road, morning light, a cedar-ball sake sign hanging under eaves, mountain backdrop, no text, no recognizable people"
+    },
+    {
+      "title_zh": "下呂溫泉",
+      "title_ja": "下呂温泉",
+      "category": "溫泉",
+      "area_zh": "下呂市",
+      "summary_zh": "以滑潤泉質聞名、日本三名泉之一的溫泉鄉。",
+      "body_zh": "下呂溫泉位於下呂市，沿飛驒川分布，泉質為鹼性單純溫泉，pH值在9以上，源泉最高溫80.2度，混合12處源泉每分鐘供應約4,100公升。室町時代禪僧萬里集九將其與有馬、草津並稱三名泉，江戶時代林羅山再予確認。傳說白鷺化身藥師佛指示泉源，因而建溫泉寺。",
+      "facts": [
+        {
+          "label": "所在地",
+          "value": "岐阜縣下呂市（飛驒川沿岸，JR高山本線下呂站）"
+        },
+        {
+          "label": "開創／成因",
+          "value": "白鷺指示泉源的開湯傳說，建有溫泉寺"
+        },
+        {
+          "label": "看點",
+          "value": "鹼性單純泉（pH9以上）、日本三名泉、河畔旅館街"
+        }
+      ],
+      "best_season_zh": "秋冬泡湯",
+      "tips_zh": "從名古屋搭特急「飛驒號」可直達；部分旅館提供日歸入浴，須確認時間與費用。出發前請再確認最新開放資訊。",
+      "tags": [
+        "日本三名泉",
+        "美肌之湯",
+        "足湯",
+        "飛驒川"
+      ],
+      "sources": [
+        "https://ja.wikipedia.org/wiki/下呂温泉"
+      ],
+      "confidence": "medium",
+      "prompt_en": "Hot spring town beside a mountain river, traditional inns with wooden balconies, steam rising from a public foot bath, soft evening light, autumn foliage, no text, no recognizable people"
+    },
+    {
+      "title_zh": "岐阜城",
+      "title_ja": "岐阜城",
+      "category": "城郭史蹟",
+      "area_zh": "岐阜市（金華山）",
+      "summary_zh": "織田信長改名並經營的金華山山城。",
+      "body_zh": "岐阜城建於金華山山頂，標高約320公尺，原稱稻葉山城，戰國時期由齋藤道三大力經營。1567年織田信長攻下後，把地名由「井之口」改為「岐阜」，並以此為天下布武的據點。天守曾為四層，1943年燒毀，1956年以三層鋼筋混凝土重建。2011年列為國家史蹟，可由山腳搭約3分鐘纜車上山。",
+      "facts": [
+        {
+          "label": "所在地",
+          "value": "岐阜縣岐阜市金華山山頂（標高約320公尺）"
+        },
+        {
+          "label": "開創／成因",
+          "value": "原稱稻葉山城；1567年信長攻下後改名岐阜"
+        },
+        {
+          "label": "看點",
+          "value": "重建天守（1956年）、纜車、國家史蹟（2011年）"
+        }
+      ],
+      "best_season_zh": "春季新綠與秋季紅葉",
+      "tips_zh": "纜車上山後仍須走一小段山路；步行上山路線較陡，請備足飲水與防滑鞋。出發前請再確認最新開放資訊。",
+      "tags": [
+        "山城",
+        "織田信長",
+        "金華山",
+        "纜車"
+      ],
+      "sources": [
+        "https://ja.wikipedia.org/wiki/岐阜城"
+      ],
+      "confidence": "medium",
+      "prompt_en": "Hilltop castle keep on a forested mountain overlooking a wide plain and winding river, morning haze, cable car line visible, autumn colors, no text, no recognizable people"
+    },
+    {
+      "title_zh": "養老瀑布",
+      "title_ja": "養老の滝",
+      "category": "自然絕景",
+      "area_zh": "養老郡養老町",
+      "summary_zh": "傳說中孝子汲酒之泉的名瀑與名水。",
+      "body_zh": "養老瀑布位於岐阜縣養老町的養老公園內，落差約32公尺、寬約4公尺，屬木曾川水系，入選日本瀑布百選與名水百選。相傳元正天皇行幸此地，認為泉水有養老之效，遂將年號改為「養老」。孝子取水變成酒的傳說也與此地相關。從養老站步行前往約4公里，沿途有東側自然步道。",
+      "facts": [
+        {
+          "label": "所在地",
+          "value": "岐阜縣養老郡養老町（養老公園內）"
+        },
+        {
+          "label": "開創／成因",
+          "value": "元正天皇行幸並改元「養老」的傳說"
+        },
+        {
+          "label": "看點",
+          "value": "落差約32公尺、日本瀑布百選、名水百選"
+        }
+      ],
+      "best_season_zh": "十一月紅葉季",
+      "tips_zh": "自養老站步行至瀑布約需一段時間，沿途有上坡；水質與使用規定請依現場告示。出發前請再確認最新開放資訊。",
+      "tags": [
+        "瀑布",
+        "名水",
+        "孝子傳說",
+        "紅葉"
+      ],
+      "sources": [
+        "https://ja.wikipedia.org/wiki/養老の滝"
+      ],
+      "confidence": "medium",
+      "prompt_en": "Tall waterfall cascading over a rock face in a forest of red and orange maples, mist at the base, a stone path and small bridge in the foreground, soft autumn light, no text, no recognizable people"
+    },
+    {
+      "title_zh": "新穗高空中纜車",
+      "title_ja": "新穂高ロープウェイ",
+      "category": "山岳高原",
+      "area_zh": "高山市奧飛驒溫泉鄉",
+      "summary_zh": "兩段式纜車直上北阿爾卑斯高處。",
+      "body_zh": "新穗高空中纜車位於高山市的中部山岳國立公園北阿爾卑斯，分為兩段：第一段長573公尺，第二段長2,598公尺，上站標高2,156公尺。第二段是日本唯一的雙層纜車，1970年開業，2020年更換新車廂。山頂設有360度展望台，可遠眺穗高岳與西穗高岳，另有海拔極高的「山彥郵筒」。",
+      "facts": [
+        {
+          "label": "所在地",
+          "value": "岐阜縣高山市（北阿爾卑斯，上站標高2,156公尺）"
+        },
+        {
+          "label": "開創／成因",
+          "value": "1970年開業，2020年第二段更換新車廂"
+        },
+        {
+          "label": "看點",
+          "value": "日本唯一雙層纜車、360度展望台、穗高連峰"
+        }
+      ],
+      "best_season_zh": "十月上旬紅葉",
+      "tips_zh": "山上氣溫比山下低很多，須準備外套；天氣不佳時可能停駛，出發前先確認營運情況。出發前請再確認最新開放資訊。",
+      "tags": [
+        "纜車",
+        "穗高連峰",
+        "高山",
+        "展望台"
+      ],
+      "sources": [
+        "https://ja.wikipedia.org/wiki/新穂高ロープウェイ"
+      ],
+      "confidence": "medium",
+      "prompt_en": "Cable car gondola rising toward jagged snow-dusted alpine peaks, autumn forest slopes below, clear blue morning sky, a high mountain station in the distance, no text, no recognizable people"
+    },
+    {
+      "title_zh": "莫內池（根道神社之池）",
+      "title_ja": "モネの池",
+      "category": "庭園公園",
+      "area_zh": "關市板取",
+      "summary_zh": "睡蓮與錦鯉的小池，因像莫內畫作而走紅。",
+      "body_zh": "莫內池正式名稱為「無名之池」，位於岐阜縣關市板取，緊鄰根道神社，面積約400平方公尺，水深最深約0.5公尺，因湧泉流入全年水溫約14度。池中有睡蓮、黃色萍蓬草與錦鯉，錦鯉原是居民捐出的。2015年前後因網路與電視傳開而走紅，2016年入場約24萬人次。",
+      "facts": [
+        {
+          "label": "所在地",
+          "value": "岐阜縣關市板取（根道神社旁）"
+        },
+        {
+          "label": "開創／成因",
+          "value": "2015年前後因社群媒體與電視而走紅"
+        },
+        {
+          "label": "看點",
+          "value": "睡蓮、錦鯉、湧泉水質清澈，約400平方公尺"
+        }
+      ],
+      "best_season_zh": "初夏睡蓮盛開時",
+      "tips_zh": "池位於鄉間，開車較方便；神社是信仰場所，請保持安靜，不要餵食魚或進入水中。出發前請再確認最新開放資訊。",
+      "tags": [
+        "睡蓮",
+        "錦鯉",
+        "池塘",
+        "印象派"
+      ],
+      "sources": [
+        "https://ja.wikipedia.org/wiki/モネの池"
+      ],
+      "confidence": "medium",
+      "prompt_en": "Small clear pond with water lilies and colorful koi under dappled sunlight, trees reflected on the water, a quiet path along the edge, impressionist-like mood, early summer morning, no text, no recognizable people"
+    },
+    {
+      "title_zh": "永保寺",
+      "title_ja": "永保寺",
+      "category": "神社寺院",
+      "area_zh": "多治見市",
+      "summary_zh": "臨溪的古禪寺，國寶觀音堂與池庭名勝。",
+      "body_zh": "永保寺是位於岐阜縣多治見市的臨濟宗南禪寺派禪寺，山號虎溪山，1313年創建，開山為夢窗疏石與元翁本元。觀音堂（1314年）與開山堂（1352年）皆為國寶，庭園於1969年列為國家名勝，無際橋入選日本百名橋。2003年火災燒毀本堂等建築，2011年前後完成重建。",
+      "facts": [
+        {
+          "label": "所在地",
+          "value": "岐阜縣多治見市（虎溪山）"
+        },
+        {
+          "label": "開創／成因",
+          "value": "1313年創建，開山為夢窗疏石"
+        },
+        {
+          "label": "看點",
+          "value": "國寶觀音堂與開山堂、國家名勝庭園、無際橋"
+        }
+      ],
+      "best_season_zh": "十一月紅葉",
+      "tips_zh": "寺內是修行與信仰場所，請保持安靜；入場費及開放時間請以官方公告為準。出發前請再確認最新開放資訊。",
+      "tags": [
+        "禪寺",
+        "國寶",
+        "池庭",
+        "紅葉"
+      ],
+      "sources": [
+        "https://ja.wikipedia.org/wiki/永保寺"
+      ],
+      "confidence": "medium",
+      "prompt_en": "Zen temple with a small wooden hall beside a still pond with a stone bridge, autumn maple foliage reflected in the water, valley forest behind, soft morning light, no text, no recognizable people"
+    }
+  ]
+}

@@ -1,0 +1,841 @@
+{
+ "id": "kyoto",
+ "name_zh": "京都府",
+ "name_ja": "京都府",
+ "region": "近畿",
+ "overview": {
+  "intro_zh": "京都府位於近畿地方中北部，府廳所在地京都市自794年平安遷都起，連續千餘年為日本的政治與文化中心，擁有清水寺、二條城、伏見稻荷大社等多處世界遺產「古都京都的文化財」。傳統工藝如京友禪、西陣織與清水燒流傳至今，祇園祭、舞妓與茶道等文化活動每年吸引大批遊客。府北部則面向日本海，有日本三景之一的天橋立與伊根舟屋；南部宇治更是名茶產地，四季風景與歷史文化相得益彰。",
+  "capital_zh": "京都市",
+  "area_km2": 4612,
+  "population_approx": "約249萬",
+  "flower_zh": "垂枝櫻",
+  "bird_zh": "大水薙鳥",
+  "tree_zh": "北山杉",
+  "climate_zh": "盆地氣候，夏季悶熱、冬季寒冷；北部日本海側冬季多雪。",
+  "access_zh": "新幹線約2小時餘自東京至京都駅；關西機場搭特急HARUKA約75分鐘；市內以巴士與地鐵為主。",
+  "specialties_zh": [
+   "宇治抹茶",
+   "湯豆腐與京料理",
+   "八橋",
+   "京友禪",
+   "清水燒",
+   "伏見清酒"
+  ],
+  "best_season_zh": "春（櫻花）與秋（紅葉）"
+ },
+ "items": {
+  "architecture": {
+   "title_zh": "清水寺",
+   "title_ja": "清水寺",
+   "summary_zh": "懸造大舞台矗立山崖，古都京都世界遺產。",
+   "body_zh": "清水寺位於京都東山音羽山，相傳創建於778年，現存本堂為1633年在德川家光捐助下重建。著名的「清水舞台」以懸造工法建成，由約139根檜木柱支撐，離地約13公尺，全程未使用一根釘子。1994年與其他寺社共同列入世界遺產「古都京都的文化財」。舞台下的音羽瀑布清泉，亦是寺名「清水」的由來。寺內另有三重塔、子安塔與地主神社，參拜動線沿山坡展開；春櫻秋楓與夜間特別拜觀的燈火，使舞台景色隨季節展現不同風貌。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "京都市東山區清水"
+    },
+    {
+     "label": "起源",
+     "value": "相傳778年創建；現本堂1633年重建"
+    },
+    {
+     "label": "特色",
+     "value": "懸造舞台、約139根檜木柱、不用釘"
+    },
+    {
+     "label": "認定",
+     "value": "1994年世界遺產"
+    }
+   ],
+   "best_season_zh": "秋（紅葉）、春（櫻花）",
+   "tips_zh": "秋季夜間特別拜觀有點燈活動（請先查日程）；沿途二年坂、三年坂可一併遊覽，早晨人少。",
+   "tags": [
+    "世界遺產",
+    "古剎",
+    "懸造",
+    "紅葉"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/清水寺"
+   ],
+   "confidence": "high",
+   "prompt_en": "Kiyomizu-dera wooden stage jutting out over a valley of red and gold autumn maple trees at golden sunset, wide angle, no people"
+  },
+  "food": {
+   "title_zh": "湯豆腐與宇治抹茶",
+   "title_ja": "湯豆腐と抹茶",
+   "summary_zh": "南禪寺一帶發祥的湯豆腐，配宇治抹茶。",
+   "body_zh": "湯豆腐是將豆腐放入熱水中煮暖後，沾醬汁、佐蔥花、柚子與柴魚片食用的簡單料理，相傳發源於京都南禪寺周邊，與寺院的精進料理文化密切相關，是冬季的代表詞。宇治茶自鎌倉時代由榮西與明惠推廣栽培，戰國時期確立「覆下栽培」，造就抹茶與玉露的高級品質。搭配和菓子享用，是京都飲食的經典組合。京都人也將湯豆腐視為冬日家常料理；南禪寺周邊與嵐山名店多採座席式料亭，並附湯葉、胡麻豆腐等配菜，口味清淡。",
+   "facts": [
+    {
+     "label": "湯豆腐起源",
+     "value": "南禪寺周邊一帶"
+    },
+    {
+     "label": "宇治茶",
+     "value": "鎌倉時代起栽培，覆下栽培提升品質"
+    },
+    {
+     "label": "代表",
+     "value": "抹茶、玉露"
+    },
+    {
+     "label": "吃法",
+     "value": "湯豆腐沾醬、茶配和菓子"
+    }
+   ],
+   "best_season_zh": "冬季（湯豆腐）、春季（新茶）",
+   "tips_zh": "許多湯豆腐名店位於南禪寺、嵐山一帶，需預約；宇治可順道參觀平等院與茶舖。用餐前建議先查營業時間，人氣店家宜預約，並留意當季供應情況。",
+   "tags": [
+    "精進料理",
+    "宇治茶",
+    "抹茶",
+    "和菓子"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/湯豆腐",
+    "https://ja.wikipedia.org/wiki/宇治茶"
+   ],
+   "confidence": "high",
+   "prompt_en": "A clay pot of yudofu hot tofu with dipping sauce beside a bowl of frothy matcha and wagashi sweets on a dark wooden table, soft window light, close-up"
+  },
+  "culture": {
+   "title_zh": "祇園祭",
+   "title_ja": "祇園祭",
+   "summary_zh": "七月整月舉行的八坂神社祭典，山鉾巡行為高潮。",
+   "body_zh": "祇園祭是京都八坂神社的祭典，起源於869年為驅除瘟疫而舉行的御靈會，2019年迎來1150週年。整個7月舉行，核心的山鉾巡行分為前祭（7月17日）與後祭（7月24日），現有33座山鉾，以華麗的織物與雕刻裝飾。山鉾巡行於2009年列入UNESCO無形文化遺產，2018年擴大登錄範圍。宵山夜晚街區掛滿燈籠，氣氛熱鬧。7月上旬的「吉符入」到月底的疫神社夏越祭，各項儀式環環相扣；山鉾町內也有屏風祭，居民把傳家寶陳列於格子窗內供人欣賞。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "京都市（八坂神社與市中心）"
+    },
+    {
+     "label": "起源",
+     "value": "869年御靈會"
+    },
+    {
+     "label": "時節",
+     "value": "7月整月；巡行17日與24日"
+    },
+    {
+     "label": "認定",
+     "value": "山鉾行事列入UNESCO無形文化遺產（2009年）"
+    }
+   ],
+   "best_season_zh": "7月",
+   "tips_zh": "宵山期間人潮極多，建議先查交通管制；巡行日觀賞位置宜早到。出發前請查官方資訊確認開放時間與交通，並預留充裕的遊覽時間。",
+   "tags": [
+    "祭典",
+    "日本三大祭",
+    "山鉾",
+    "UNESCO"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/祇園祭"
+   ],
+   "confidence": "high",
+   "prompt_en": "Giant yamaboko festival float with ornate tapestries rolling down a Kyoto street at dusk, lanterns glowing along the street, crowd silhouettes"
+  },
+  "history": {
+   "title_zh": "二條城",
+   "title_ja": "二条城",
+   "summary_zh": "德川家康築造的京都居所，大政奉還舞台。",
+   "body_zh": "二條城由德川家康於慶長六年（1601）起築，1603年完成，作為將軍上洛時的居所，並具守護皇居之意。1867年末代將軍德川慶喜於城內二之丸御殿表明「大政奉還」，象徵江戶幕府的終結。二之丸御殿六棟建築於1952年指定國寶，唐門與狩野派障壁畫極具價值。1994年列入世界遺產「古都京都的文化財」。二之丸御殿六棟建築群的內部裝飾精緻，狩野派障壁畫多為複製品，真跡則保存於收藏館；城內庭園二之丸庭園是桃山風格的名園，值得細看。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "京都市中京區"
+    },
+    {
+     "label": "起源",
+     "value": "1601年起築，1603年完成"
+    },
+    {
+     "label": "歷史",
+     "value": "1867年大政奉還於此宣布"
+    },
+    {
+     "label": "認定",
+     "value": "二之丸御殿國寶；1994年世界遺產"
+    }
+   ],
+   "best_season_zh": "春（櫻花）、秋",
+   "tips_zh": "二之丸御殿的「鶯張」走廊走動時會發出聲響，相傳為防範刺客，參觀請放輕腳步；內部多禁止拍照。",
+   "tags": [
+    "世界遺產",
+    "江戶幕府",
+    "國寶",
+    "城郭"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/二条城"
+   ],
+   "confidence": "high",
+   "prompt_en": "Nijo Castle ornate gilded Karamon gate with intricate carvings framed by cherry blossoms, soft morning light, no people"
+  },
+  "mascot": {
+   "title_zh": "八橋與京都角色",
+   "title_ja": "八ツ橋のキャラ",
+   "summary_zh": "以八橋餅與京都象徵為靈感的原創角色。",
+   "body_zh": "京都府推廣的「Mayumaro」（まゆまろ）是府廣報監，形象為「繭」，設定年齡約2000歲，以「讓大家愛上京都」為工作。八橋是京都著名點心，名稱取自筝曲之祖八橋檢校，形狀仿筝而成，1960年代起生八橋成為主流。本圖並非複製任何既有角色，而是以八橋、抹茶茶筅與京都古寺為靈感的原創角色。京都的觀光角色常以寺社、和菓子與傳統工藝為題材；八橋店家的包裝上也時常出現卡通形象，旅客可在車站伴手禮店遇見。",
+   "facts": [
+    {
+     "label": "Mayumaro",
+     "value": "京都府廣報監，形象為繭"
+    },
+    {
+     "label": "八橋由來",
+     "value": "取自八橋檢校，形仿筝"
+    },
+    {
+     "label": "生八橋",
+     "value": "1960年代登場"
+    },
+    {
+     "label": "本圖設計",
+     "value": "原創角色，非既有吉祥物"
+    }
+   ],
+   "best_season_zh": "全年",
+   "tips_zh": "八橋在京都各處與車站伴手禮店均有販售，生八橋保存期短，宜儘早食用。出發前請查官方資訊確認開放時間與交通，並預留充裕的遊覽時間。",
+   "tags": [
+    "吉祥物",
+    "八橋",
+    "京都",
+    "原創角色"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/八ツ橋",
+    "https://www.pref.kyoto.jp/mayumaro/documents/design.pdf"
+   ],
+   "confidence": "medium",
+   "prompt_en": "A cute triangular yatsuhashi sweet character holding a tiny bamboo tea whisk, a Kyoto temple pagoda softly behind, pastel illustration. Original cute character inspired by local symbols, not replicating any trademarked mascot."
+  },
+  "scenery": {
+   "title_zh": "嵐山竹林",
+   "title_ja": "嵐山の竹林",
+   "summary_zh": "高聳竹林形成的光影小徑。",
+   "body_zh": "嵐山位於京都西郊，渡月橋與桂川、嵯峨野一帶長年是賞櫻與賞楓名所。其中「竹林之道」位於天龍寺北門與野宮神社之間，兩側孟宗竹高聳，光線穿過竹葉形成斑駁的綠影，風吹時竹葉沙沙作響。清晨人少時最適合欣賞；周邊有天龍寺、常寂光寺、嵯峨野小火車等景點，可安排半日行程。每年12月的「嵐山花燈路」會在竹林沿途點燈，營造夢幻夜景；若想避開人潮，可選擇平日早晨前往，再順遊常寂光寺或落柿舍。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "京都市右京區嵯峨野"
+    },
+    {
+     "label": "特色",
+     "value": "孟宗竹林、綠色光影"
+    },
+    {
+     "label": "周邊",
+     "value": "天龍寺、野宮神社、渡月橋"
+    },
+    {
+     "label": "最佳時間",
+     "value": "清晨"
+    }
+   ],
+   "best_season_zh": "全年；新綠與秋",
+   "tips_zh": "竹林道較窄，旺季人多，建議清晨抵達；沿途請勿觸碰竹子，保護景觀。出發前請查官方資訊確認開放時間與交通，並預留充裕的遊覽時間。",
+   "tags": [
+    "竹林",
+    "嵯峨野",
+    "散步",
+    "光影"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/嵯峨野"
+   ],
+   "confidence": "medium",
+   "prompt_en": "Arashiyama bamboo grove path with tall green bamboo stalks forming a tunnel, soft morning light, empty path"
+  },
+  "spot": {
+   "title_zh": "伏見稻荷大社",
+   "title_ja": "伏見稲荷大社",
+   "summary_zh": "約一萬座鳥居延伸入山的稻荷總本宮。",
+   "body_zh": "伏見稻荷大社位於京都市伏見區，據傳創建於和銅四年（711），為全國約三萬座稻荷神社的總本宮，供奉稻荷神。社殿後方的稻荷山（海拔約233公尺）內，朱紅色鳥居層層排列，傳說山中約有一萬座，形成著名的「千本鳥居」。每座鳥居由信徒奉納，上刻捐獻者名與日期。外國遊客人氣極高，全年皆可參拜。鳥居顏色的朱紅取自象徵生命與驅魔的色彩，每年有許多信眾與企業奉納；山中也有多處供奉狐狸像的小祠，狐狸被視為稻荷神的使者。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "京都市伏見區深草藪之內町"
+    },
+    {
+     "label": "起源",
+     "value": "711年（和銅4年）"
+    },
+    {
+     "label": "特色",
+     "value": "稻荷山約一萬座鳥居"
+    },
+    {
+     "label": "定位",
+     "value": "全國稻荷神社總本宮"
+    }
+   ],
+   "best_season_zh": "全年；清晨或傍晚",
+   "tips_zh": "全程登山約2–3小時，可依體力走到「四辻」折返；穿好走的鞋，日間氣溫較高。出發前請查官方資訊確認開放時間與交通，並預留充裕的遊覽時間。",
+   "tags": [
+    "神社",
+    "千本鳥居",
+    "稻荷",
+    "人氣景點"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/伏見稲荷大社"
+   ],
+   "confidence": "high",
+   "prompt_en": "Thousands of vermilion torii gates forming a tunnel up a forested hill in Fushimi Inari, dappled sunlight, no people"
+  },
+  "experience": {
+   "title_zh": "舞妓變身體驗",
+   "title_ja": "舞妓体験",
+   "summary_zh": "穿上舞妓裝束，漫步祇園石板路。",
+   "body_zh": "舞妓是京都花街中學習舞蹈與藝能、仍在修行階段的年輕女性，京都共有上七軒、先斗町、宮川町、祇園甲部、祇園東五個花街。遊客可在京都許多工作室體驗「舞妓變身」，由專業人員化妝、梳髮、著裝，並於祇園、花見小路一帶拍照散步。需注意體驗與真正舞妓不同，是觀光性質；進入花街時請尊重在地居民與舞妓，勿追逐拍攝。體驗地點多集中在祇園、清水寺附近；完成變身後，常會在白川、花見小路、八坂神社等場景拍照，也可選擇外出時間較短的方案。",
+   "facts": [
+    {
+     "label": "花街數",
+     "value": "京都共5處"
+    },
+    {
+     "label": "舞妓",
+     "value": "藝妓的見習階段"
+    },
+    {
+     "label": "體驗內容",
+     "value": "化妝、髮型、和服、拍照"
+    },
+    {
+     "label": "注意",
+     "value": "尊重花街居民，勿追拍舞妓"
+    }
+   ],
+   "best_season_zh": "全年；春、秋",
+   "tips_zh": "熱門工房需提前預約，行程約2–3小時；攝影時請勿擋住通道。出發前請查官方資訊確認開放時間與交通，並預留充裕的遊覽時間。",
+   "tags": [
+    "舞妓",
+    "和服",
+    "祇園",
+    "花街"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/舞妓"
+   ],
+   "confidence": "medium",
+   "prompt_en": "Anonymous model in an elegant floral kimono walking along a stone-paved Kyoto Gion street at dusk, wooden machiya houses and lanterns, soft glowing light, seen from behind"
+  },
+  "costume": {
+   "title_zh": "京友禪和服",
+   "title_ja": "京友禅",
+   "summary_zh": "以手描與型染營造絢麗圖樣的京都和服。",
+   "body_zh": "京友禪相傳與江戶時代扇繪師宮崎友禪齋有關，但學者認為是京都商人與工匠共同改良而成。主要技法有手描友禪（約需二十餘道工序）、型友禪，現亦有機械印染與數位染色。以植物、花鳥為主題，色彩華麗，是日本經濟產業大臣指定的傳統工藝品。京都多處工房提供染色體驗與和服租借，旅客可近距離了解製作過程。京友禪的圖案多取自花鳥與四季風物，由設計、糊置、染色、蒸熱到水洗等多道工序完成；京都市內也設有友禪染體驗工房，可親手製作手帕或扇面。",
+   "facts": [
+    {
+     "label": "起源",
+     "value": "江戶時代，宮崎友禪齋相傳"
+    },
+    {
+     "label": "技法",
+     "value": "手描友禪、型友禪"
+    },
+    {
+     "label": "特色",
+     "value": "華麗色彩與花鳥圖案"
+    },
+    {
+     "label": "認定",
+     "value": "經濟產業大臣指定傳統工藝品"
+    }
+   ],
+   "best_season_zh": "全年",
+   "tips_zh": "購買前可先參觀工房說明會；手描友禪價格高昂，購買需確認是否為京友禪認證品。出發前請查官方資訊確認開放時間與交通，並預留充裕的遊覽時間。",
+   "tags": [
+    "和服",
+    "傳統工藝",
+    "染色",
+    "友禪"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/京友禅"
+   ],
+   "confidence": "medium",
+   "prompt_en": "Anonymous model in a Kyo-yuzen kimono with colorful flower-and-bird patterns standing in a quiet traditional Kyoto garden, soft diffused light"
+  }
+ },
+ "areas": [
+  {
+   "id": "kyoto_arashiyama",
+   "name_zh": "嵐山",
+   "name_ja": "嵐山",
+   "intro_zh": "嵐山位於京都西郊，以渡月橋、竹林小徑與天龍寺聞名，四季皆有景色，春櫻秋楓尤其動人。周邊另有嵯峨野小火車與豆腐料理名店，適合半日至一日的悠閒行程，另有天龍寺與嵯峨野的竹林、茶屋，一日行程也不顯倉促。",
+   "items": {
+    "spot": {
+     "title_zh": "渡月橋",
+     "title_ja": "渡月橋",
+     "summary_zh": "橫跨桂川的嵐山象徵木橋。",
+     "body_zh": "渡月橋架於桂川（又稱大堰川）上，全長約155公尺，寬約12公尺。最初架橋可追溯至平安時代，相傳為道昌於約836年所建；現橋為1934年完成的鋼筋混凝土橋，外觀仍保留木造風貌。名稱相傳來自龜山上皇見月色橫越河面，而稱「似乎無暇之月渡橋」。橋畔背後即嵐山，四季景觀各異。橋的上游側有觀光船乘場，可乘小船欣賞河上景色；春季櫻花與秋季紅葉倒映水面，是嵐山最具代表性的風景。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "京都市右京區"
+      },
+      {
+       "label": "橋長",
+       "value": "約155公尺"
+      },
+      {
+       "label": "現橋",
+       "value": "1934年完成"
+      },
+      {
+       "label": "名稱由來",
+       "value": "相傳龜山上皇讚月"
+      }
+     ],
+     "best_season_zh": "春、秋",
+     "tips_zh": "橋畔可租小船或搭觀光人力車；晨間人少，光線柔和。出發前請查官方資訊確認開放時間與交通，並預留充裕的遊覽時間。",
+     "tags": [
+      "橋",
+      "嵐山",
+      "桂川",
+      "古都"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/渡月橋"
+     ],
+     "confidence": "high",
+     "prompt_en": "Togetsukyo Bridge spanning the calm Katsura River with Arashiyama mountains in vivid autumn colors behind, soft afternoon light, no people"
+    },
+    "food": {
+     "title_zh": "湯豆腐",
+     "title_ja": "湯豆腐",
+     "summary_zh": "嵐山與南禪寺一帶的素食名物。",
+     "body_zh": "湯豆腐相傳發祥於京都南禪寺周邊，是寺院精進料理的代表，作法是將豆腐與昆布水同煮，暖熱後沾醬汁、佐蔥與柚子食用。嵐山一帶不少料亭與餐廳以湯豆腐為招牌，常搭配胡麻豆腐、湯葉與季節蔬菜的懷石套餐，口味清淡，最適合冬日暖身。嵐山的湯豆腐店多位於天龍寺附近，有些店面保留町家風格，座位臨窗可賞庭園。價位依套餐而異，建議事先瀏覽店家菜單。",
+     "facts": [
+      {
+       "label": "起源",
+       "value": "南禪寺周邊"
+      },
+      {
+       "label": "做法",
+       "value": "豆腐與水同煮後沾醬"
+      },
+      {
+       "label": "搭配",
+       "value": "蔥、柚子、柴魚片"
+      },
+      {
+       "label": "季語",
+       "value": "冬季"
+      }
+     ],
+     "best_season_zh": "冬季",
+     "tips_zh": "名店午間需預約，可先查營業時間；素食者請事先確認高湯是否含柴魚。用餐前建議先查營業時間，人氣店家宜預約，並留意當季供應情況。",
+     "tags": [
+      "湯豆腐",
+      "素食",
+      "京料理",
+      "嵐山"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/湯豆腐"
+     ],
+     "confidence": "medium",
+     "prompt_en": "Yudofu hot tofu in a clay pot with dipping sauce and garnishes at a quiet Kyoto restaurant, warm window light"
+    },
+    "scenery": {
+     "title_zh": "竹林小徑",
+     "title_ja": "竹林の小径",
+     "summary_zh": "孟宗竹形成的綠色通道。",
+     "body_zh": "竹林之道位於天龍寺北門到野宮神社、大河內山莊一帶，兩旁孟宗竹筆直高聳，綠色光影隨風搖曳，被視為嵐山最具代表性的景色之一。清晨光線清冷、人潮較少，最適合拍照與散步；傍晚點燈活動也為竹林增添幻想氛圍。步道不長，約數百公尺，可與天龍寺、常寂光寺串連遊覽。若時間充裕，可再前往附近的野宮神社，祈求良緣；也可搭乘嵯峨野觀光小火車，沿保津川欣賞溪谷風光。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "京都市右京區嵯峨野"
+      },
+      {
+       "label": "特色",
+       "value": "高聳孟宗竹、光影"
+      },
+      {
+       "label": "長度",
+       "value": "步道約數百公尺（概數）"
+      },
+      {
+       "label": "周邊",
+       "value": "天龍寺、野宮神社"
+      }
+     ],
+     "best_season_zh": "全年",
+     "tips_zh": "穿著好走的鞋；旺季中午人潮擁擠，建議清晨前往。出發前請查官方資訊確認開放時間與交通，並預留充裕的遊覽時間。",
+     "tags": [
+      "竹林",
+      "步道",
+      "光影",
+      "嵯峨野"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/嵯峨野"
+     ],
+     "confidence": "medium",
+     "prompt_en": "Arashiyama bamboo grove path with tall green stalks overhead, soft diffused morning light, empty path"
+    }
+   }
+  },
+  {
+   "id": "kyoto_higashiyama",
+   "name_zh": "東山",
+   "name_ja": "東山",
+   "intro_zh": "東山位於京都東側，沿山麓連綿排列清水寺、八坂神社、祇園與石板路巷弄。二年坂、三年坂與八坂塔是古都風情的代表，傍晚點燈時分特別迷人，周邊的產寧坂與祇園商店街也提供茶屋與甜點，適合久逛。",
+   "items": {
+    "spot": {
+     "title_zh": "清水寺（東山）",
+     "title_ja": "清水寺",
+     "summary_zh": "東山山麓的懸造古剎。",
+     "body_zh": "清水寺是東山地區的核心景點，開創傳說為778年，現本堂於1633年重建。舞台由約139根檜木柱支撐、離地約13公尺，全程不用釘子。從舞台俯瞰京都市景與山谷紅葉，景致壯闊。寺內另有地主神社、音羽瀑布等參拜點，沿參道兩旁的茶屋與紀念品店也很熱鬧。參拜結束後，可由清水坂一路下山，沿途茶屋可歇腳；夜間特別拜觀期間，舞台會點燈，與白天景色完全不同。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "京都市東山區"
+      },
+      {
+       "label": "創建",
+       "value": "相傳778年"
+      },
+      {
+       "label": "現本堂",
+       "value": "1633年重建"
+      },
+      {
+       "label": "認定",
+       "value": "1994年世界遺產"
+      }
+     ],
+     "best_season_zh": "秋、春",
+     "tips_zh": "午後參觀可順便看夕陽；舞台旁人潮擁擠，請小心貴重物品。出發前請查官方資訊確認開放時間與交通，並預留充裕的遊覽時間。",
+     "tags": [
+      "世界遺產",
+      "清水舞台",
+      "東山",
+      "古剎"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/清水寺"
+     ],
+     "confidence": "high",
+     "prompt_en": "Kiyomizu-dera wooden stage extending over a valley of autumn trees, afternoon golden light, no people"
+    },
+    "food": {
+     "title_zh": "八橋與抹茶",
+     "title_ja": "八ツ橋と抹茶",
+     "summary_zh": "京都代表點心配濃茶。",
+     "body_zh": "八橋是京都的代表和菓子，名稱取自筝曲之祖八橋檢校，形狀仿筝而成；傳統烤製品口感酥脆帶肉桂香，1960年代出現的生八橋以米粉皮包紅豆餡，口感軟糯，成為伴手禮主流。東山一帶茶屋常以八橋配抹茶供應，是逛街歇腳的好選擇。東山有許多百年老舖，招牌是八橋與季節和菓子；茶屋多半提供手沖抹茶，座席可望見庭園，適合歇息放鬆。",
+     "facts": [
+      {
+       "label": "由來",
+       "value": "八橋檢校"
+      },
+      {
+       "label": "種類",
+       "value": "烤八橋、生八橋"
+      },
+      {
+       "label": "生八橋登場",
+       "value": "1960年代"
+      },
+      {
+       "label": "搭配",
+       "value": "抹茶"
+      }
+     ],
+     "best_season_zh": "全年",
+     "tips_zh": "生八橋保存期較短，購買後宜儘早食用。用餐前建議先查營業時間，人氣店家宜預約，並留意當季供應情況。",
+     "tags": [
+      "和菓子",
+      "八橋",
+      "抹茶",
+      "伴手禮"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/八ツ橋"
+     ],
+     "confidence": "high",
+     "prompt_en": "Yatsuhashi sweets and a bowl of matcha on a wooden tray in a traditional Kyoto tea house, soft natural light, close-up"
+    },
+    "scenery": {
+     "title_zh": "二年坂與三年坂",
+     "title_ja": "二年坂・三年坂",
+     "summary_zh": "石板路與八坂塔的古都小巷。",
+     "body_zh": "二年坂與三年坂是通往清水寺的石板坡道，沿途保存町家與傳統商店，夜晚點燈氣氛浪漫。八坂塔（法觀寺五重塔）高聳於街景之上，是東山的象徵之一。三年坂相傳若在此跌倒，三年內會有災厄，因此遊客總是格外小心。清晨與黃昏的人潮較少，攝影效果最佳。坡道兩旁多為町家改建的咖啡廳與工藝店，可買京扇子、清水燒等紀念品；日落後燈光亮起，氛圍最浪漫。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "京都市東山區"
+      },
+      {
+       "label": "特色",
+       "value": "石板坡道、町家、八坂塔"
+      },
+      {
+       "label": "傳說",
+       "value": "三年坂跌倒三年內有災"
+      },
+      {
+       "label": "景致",
+       "value": "夜晚點燈"
+      }
+     ],
+     "best_season_zh": "全年；黃昏",
+     "tips_zh": "坡道石板濕滑，雨後請小心；請勿在狹窄巷弄阻擋通行。出發前請查官方資訊確認開放時間與交通，並預留充裕的遊覽時間。",
+     "tags": [
+      "石板路",
+      "町家",
+      "八坂塔",
+      "夜景"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/清水寺"
+     ],
+     "confidence": "low",
+     "prompt_en": "Ninenzaka stone-paved lane with traditional wooden machiya shops and the five-story Yasaka Pagoda at dusk, glowing lanterns, no people"
+    }
+   }
+  },
+  {
+   "id": "kyoto_fushimi",
+   "name_zh": "伏見",
+   "name_ja": "伏見",
+   "intro_zh": "伏見位於京都南部，擁有伏見稻荷大社與歷史悠久的酒藏街。以豐富名水釀造的清酒聞名，運河旁白壁酒藏與柳樹營造出悠閒風情，可嘗試酒藏參觀與試飲，可順道前往寺田屋等幕末史跡，感受歷史氛圍。",
+   "items": {
+    "spot": {
+     "title_zh": "伏見稻荷大社（伏見）",
+     "title_ja": "伏見稲荷大社",
+     "summary_zh": "全國稻荷總本宮，千本鳥居聞名。",
+     "body_zh": "伏見稻荷大社創建於711年，是全國約三萬座稻荷神社的總本宮。社殿後方的稻荷山（海拔約233公尺）有傳說約一萬座的朱紅鳥居，連綿成隧道般的參道。主祭神為稻荷神，與農業與商業繁榮有關，因此吸引眾多商人參拜。登山路途中有多處小祠、茶屋與眺望點，可看到京都市景。鳥居隧道約需數小時才能走完全程，多數遊客走到奧社奉拜所或四辻折返；沿路狐狸像、小祠與石燈籠也是看點。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "京都市伏見區"
+      },
+      {
+       "label": "創建",
+       "value": "711年"
+      },
+      {
+       "label": "山高",
+       "value": "稻荷山約233公尺"
+      },
+      {
+       "label": "信仰",
+       "value": "農業、商業繁榮"
+      }
+     ],
+     "best_season_zh": "全年",
+     "tips_zh": "夏季建議清晨參拜以避暑；登山帶水與防蚊。出發前請查官方資訊確認開放時間與交通，並預留充裕的遊覽時間。",
+     "tags": [
+      "神社",
+      "鳥居",
+      "稻荷山",
+      "參拜"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/伏見稲荷大社"
+     ],
+     "confidence": "high",
+     "prompt_en": "Fushimi Inari vermilion torii gates winding up a forested hill, afternoon dappled light, no people"
+    },
+    "food": {
+     "title_zh": "伏見清酒",
+     "title_ja": "伏見の日本酒",
+     "summary_zh": "以名水釀造的柔順型清酒。",
+     "body_zh": "伏見自古以「伏水」之名聞名，地下水質溫和，適合釀造口感柔和細緻的清酒，是日本主要清酒產地之一。區內有月桂冠、黃櫻等酒造，部分酒藏設有博物館與試飲空間。酒藏街沿運河分布，可購買小瓶試飲組合帶回家，並搭配京都料理享用。伏見多家酒造開放參觀，部分提供付費試飲；酒粕製作的甜點、甘酒與酒饅頭也是人氣伴手禮，適合不飲酒的遊客。",
+     "facts": [
+      {
+       "label": "產地",
+       "value": "京都市伏見區"
+      },
+      {
+       "label": "水質",
+       "value": "軟水，口感柔順"
+      },
+      {
+       "label": "特色",
+       "value": "酒藏博物館與試飲"
+      },
+      {
+       "label": "代表",
+       "value": "月桂冠、黃櫻等"
+      }
+     ],
+     "best_season_zh": "全年；冬季新酒",
+     "tips_zh": "試飲酒藏多需門票或購買酒券；駕車者請勿飲酒。用餐前建議先查營業時間，人氣店家宜預約，並留意當季供應情況。",
+     "tags": [
+      "清酒",
+      "酒藏",
+      "名水",
+      "伏見"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/月桂冠"
+     ],
+     "confidence": "low",
+     "prompt_en": "Sake cups and wooden barrels in a Fushimi sake brewery, a tray of small sake bottles on a wooden counter, warm lantern light"
+    },
+    "scenery": {
+     "title_zh": "伏見酒藏運河",
+     "title_ja": "伏見の酒蔵",
+     "summary_zh": "白壁酒藏與柳樹相映的運河風景。",
+     "body_zh": "伏見的濠川沿岸保存了許多江戶至明治時期的酒藏與町屋，黑瓦白壁倒映在水面，岸邊柳樹隨風搖曳。春季櫻花、秋季紅葉時，運河上的「十石舟」遊船最受歡迎，船夫會講解歷史與風土。這一帶也與坂本龍馬的故事有關，沿路有相關史跡與紀念館。漫步運河沿岸，可看見酒藏的杉玉（杉木球）掛在門口，象徵新酒釀成；沿線的月桂冠大倉紀念館等設施，也提供歷史展示。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "京都市伏見區"
+      },
+      {
+       "label": "特色",
+       "value": "白壁酒藏、柳樹、運河"
+      },
+      {
+       "label": "活動",
+       "value": "十石舟遊船"
+      },
+      {
+       "label": "季節",
+       "value": "春季櫻花尤佳"
+      }
+     ],
+     "best_season_zh": "春、秋",
+     "tips_zh": "遊船為季節營運，行前請查時刻；沿河步行約半日可逛完。出發前請查官方資訊確認開放時間與交通，並預留充裕的遊覽時間。",
+     "tags": [
+      "運河",
+      "酒藏",
+      "遊船",
+      "町屋"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/寺田屋"
+     ],
+     "confidence": "low",
+     "prompt_en": "Fushimi canal with willow trees and white-walled sake breweries, a small wooden boat on calm water, spring cherry blossoms, soft light"
+    }
+   }
+  },
+  {
+   "id": "kyoto_amanohashidate",
+   "name_zh": "天橋立",
+   "name_ja": "天橋立",
+   "intro_zh": "天橋立位於京都北部丹後半島，與松島、宮島並稱日本三景。細長砂州上松林連綿，鄰近伊根舟屋、日本海海鮮與松葉蟹，是與京都市區風格完全不同的海岸旅行，並可搭配溫泉旅館住宿，享受悠閒的海邊時光。",
+   "items": {
+    "spot": {
+     "title_zh": "天橋立",
+     "title_ja": "天橋立",
+     "summary_zh": "日本三景之一的海灣砂州。",
+     "body_zh": "天橋立是橫跨宮津灣、全長約3.6公里的海灣砂州，砂洲上松樹約五千至八千株，與松島、宮島並稱日本三景，1952年被指定為特別名勝。傳統賞景法是背對海灣彎腰從兩腿之間看「股望」，風景像天橋懸於空中。可從傘松公園或笠松公園各角度眺望，也可租自行車穿越砂洲。賞景點之一傘松公園可搭纜車或纜椅上去，天氣好時視野遼闊；砂洲上也可租自行車，騎行單程約需數十分鐘，享受松林間的海風。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "京都府宮津市"
+      },
+      {
+       "label": "長度",
+       "value": "約3.6公里"
+      },
+      {
+       "label": "松樹",
+       "value": "約五千至八千株"
+      },
+      {
+       "label": "指定",
+       "value": "1952年特別名勝"
+      }
+     ],
+     "best_season_zh": "全年；春秋天氣佳",
+     "tips_zh": "賞景點有纜車或登山車，建議先查營運時間；股望時請注意腳下安全。出發前請查官方資訊確認開放時間與交通，並預留充裕的遊覽時間。",
+     "tags": [
+      "日本三景",
+      "砂洲",
+      "松林",
+      "海景"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/天橋立"
+     ],
+     "confidence": "high",
+     "prompt_en": "Amanohashidate pine-covered sand spit stretching across a blue bay seen from the viewing point, clear sky, no people"
+    },
+    "food": {
+     "title_zh": "丹後海鮮",
+     "title_ja": "丹後の海鮮",
+     "summary_zh": "日本海捕獲的松葉蟹與當季漁獲。",
+     "body_zh": "丹後半島面向日本海，冬季是松葉蟹（又稱京丹後的松葉蟹）季節，鮮甜蟹肉可做成刺身、蟹鍋或燒蟹。周邊漁港也有當日捕撈的海鮮丼、烤魚與生魚片拼盤，小漁村的民宿多以現捕漁獲招待旅客。蟹季約從11月起，須提前訂房。當地民宿與料亭的蟹料理包含蟹刺身、燒蟹、蟹鍋、蟹殼燒等，一次可吃到多種吃法；非蟹季也有豐富的鯖魚、烏賊與牡蠣可選。",
+     "facts": [
+      {
+       "label": "地區",
+       "value": "京都府北部丹後半島"
+      },
+      {
+       "label": "代表",
+       "value": "松葉蟹、當季漁獲"
+      },
+      {
+       "label": "蟹季",
+       "value": "約11月起（概數）"
+      },
+      {
+       "label": "吃法",
+       "value": "刺身、蟹鍋、燒蟹"
+      }
+     ],
+     "best_season_zh": "冬季（蟹季）",
+     "tips_zh": "蟹季房間易滿，宜提前數月預約；蟹類價格較高，建議確認套餐內容。用餐前建議先查營業時間，人氣店家宜預約，並留意當季供應情況。",
+     "tags": [
+      "海鮮",
+      "松葉蟹",
+      "日本海",
+      "丹後"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/京丹後市"
+     ],
+     "confidence": "low",
+     "prompt_en": "Tango snow crab legs and fresh sashimi platter on a wooden table at a seaside inn, warm light, close-up"
+    },
+    "scenery": {
+     "title_zh": "伊根舟屋",
+     "title_ja": "伊根の舟屋",
+     "summary_zh": "沿海灣而建的船屋民居。",
+     "body_zh": "伊根位於丹後半島東北端，海灣沿岸排列著一樓為船庫、二樓為住居的「舟屋」。2005年「伊根浦」被選為首個漁村型重要傳統建造物群保存地區，2008年加入日本最美麗村莊聯盟。海灣平靜，舟屋緊貼水面，清晨與黃昏的倒影尤其美麗。可搭遊船從海上欣賞，也可在舟屋民宿住宿。舟屋群前方的海灣平靜，可搭觀光船繞行，也能租腳踏車環遊；天候好的日子，海面與舟屋的倒影映襯出寧靜漁村景致。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "京都府與謝郡伊根町"
+      },
+      {
+       "label": "特色",
+       "value": "一樓船庫、二樓居住"
+      },
+      {
+       "label": "指定",
+       "value": "2005年重要傳統建造物群保存地區"
+      },
+      {
+       "label": "遊客",
+       "value": "年約30萬人（概數）"
+      }
+     ],
+     "best_season_zh": "全年；清晨",
+     "tips_zh": "舟屋為居民住家，拍照請避免打擾，並勿擅入私人土地。出發前請查官方資訊確認開放時間與交通，並預留充裕的遊覽時間。",
+     "tags": [
+      "舟屋",
+      "漁村",
+      "傳統建築",
+      "海灣"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/伊根町"
+     ],
+     "confidence": "high",
+     "prompt_en": "Ine funaya boat houses lined along a calm bay at dawn, wooden boathouses reflected in still water, soft golden light"
+    }
+   }
+  }
+ ]
+}

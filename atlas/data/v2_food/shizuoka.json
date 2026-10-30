@@ -1,0 +1,278 @@
+{
+ "id": "shizuoka",
+ "foods": [
+  {
+   "title_zh": "靜岡黑湯關東煮",
+   "title_ja": "静岡おでん",
+   "category": "鄉土料理",
+   "summary_zh": "牛筋熬成黑湯、撒青海苔與柴魚粉的靜岡式關東煮。",
+   "body_zh": "靜岡おでん是靜岡的在地關東煮，湯頭偏深色，以牛筋或雞骨熬煮，食材串成一串，上桌後撒上柴魚粉與青海苔粉再吃。與關東、關西的清淡或昆布湯頭不同，風味濃郁醇厚。常見於靜岡市街頭的おでん店與居酒屋，也是當地人冬天的日常小吃。確切的起源年代本次未能核實。",
+   "facts": [
+    {
+     "label": "起源",
+     "value": "由江戶時代的田樂演變而來，靜岡式確切起源年代未核實"
+    },
+    {
+     "label": "主要食材",
+     "value": "牛筋或雞骨湯、白蘿蔔、蒟蒻、黑輪、雞蛋"
+    },
+    {
+     "label": "吃法",
+     "value": "串起來上桌，撒柴魚粉與青海苔粉"
+    }
+   ],
+   "season_zh": "秋冬最盛",
+   "where_zh": "靜岡市區的おでん專門店與街頭小店",
+   "tags": [
+    "關東煮",
+    "黑湯",
+    "串物",
+    "靜岡市"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/静岡おでん"
+   ],
+   "confidence": "medium",
+   "prompt_en": "A single bowl of Shizuoka-style oden with dark beef-tendon broth, skewered fish cakes, daikon and egg, sprinkled with bonito flakes and green seaweed powder, simple ceramic dish on a wooden counter, warm soft light, no text"
+  },
+  {
+   "title_zh": "富士宮炒麵",
+   "title_ja": "富士宮やきそば",
+   "category": "B級美食",
+   "summary_zh": "蒸麵配肉渣與柴魚粉，兩度奪得B-1大賽冠軍。",
+   "body_zh": "富士宮やきそば出自富士宮市，使用專用蒸麵，先炒食材再加麵與少量水，最後拌醬。特色是加入「肉かす」（炸豬油渣）提鮮，起鍋後撒上鰹魚或沙丁魚製的削り粉，配料有高麗菜，也常見駿河灣的櫻花蝦。2006、2007年在B-1大賽拿下第一，成為以美食振興地方的成功例子。",
+   "facts": [
+    {
+     "label": "起源",
+     "value": "戰後由工廠創辦人仿台灣米粉概念做出蒸麵，約1999至2000年成為地方名物"
+    },
+    {
+     "label": "主要食材",
+     "value": "專用蒸麵、肉かす、削り粉、高麗菜"
+    },
+    {
+     "label": "吃法",
+     "value": "鐵板上現炒，撒削り粉後直接吃"
+    }
+   ],
+   "season_zh": "全年",
+   "where_zh": "富士宮市內的炒麵專門店與富士山周邊",
+   "tags": [
+    "炒麵",
+    "B-1",
+    "肉渣",
+    "富士宮"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/富士宮やきそば"
+   ],
+   "confidence": "high",
+   "prompt_en": "A single plate of Fujinomiya yakisoba with thick steamed noodles, cabbage, crispy pork lard bits and bonito powder on top, on a simple white plate placed on a griddle-side counter, warm steam, natural light, no text"
+  },
+  {
+   "title_zh": "濱松煎餃",
+   "title_ja": "浜松餃子",
+   "category": "B級美食",
+   "summary_zh": "圓形排列、配一堆煮豆芽的濱松煎餃。",
+   "body_zh": "濱松餃子是濱松的代表庶民美食，煎餃常排成圓形，中央放上燙過的豆芽。餡料一般是豬肉、高麗菜、大蒜與韭菜，煎到底部金黃酥脆，以醋醬油沾食。濱松與宇都宮、宮崎常被並稱為日本餃子消費量冠軍之爭的城市。圓形擺法的由來本次未能核實。豆芽的清爽正好中和煎餃的油脂，是濱松當地常見的吃法。",
+   "facts": [
+    {
+     "label": "起源",
+     "value": "日式餃子戰後在地化，濱松版細節未核實"
+    },
+    {
+     "label": "主要食材",
+     "value": "豬肉、高麗菜、大蒜、韭菜、煮豆芽"
+    },
+    {
+     "label": "吃法",
+     "value": "煎香後配豆芽，沾醋醬油"
+    }
+   ],
+   "season_zh": "全年",
+   "where_zh": "濱松車站周邊的餃子專門店",
+   "tags": [
+    "餃子",
+    "煎餃",
+    "豆芽",
+    "濱松"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/浜松餃子"
+   ],
+   "confidence": "low",
+   "prompt_en": "Pan-fried gyoza arranged in a circle on a round white plate with a mound of boiled bean sprouts in the center, golden crispy bottoms facing up, small dish of soy and vinegar beside, warm light, no text"
+  },
+  {
+   "title_zh": "駿河灣櫻花蝦",
+   "title_ja": "サクラエビ",
+   "category": "海鮮",
+   "summary_zh": "日本國內漁獲全來自駿河灣的粉紅小蝦。",
+   "body_zh": "櫻花蝦是靜岡的代表海產，日本國內漁獲全部來自駿河灣，1894年由靜岡漁民首次發現。漁期為春漁4至6月、秋漁10至12月，夏季為繁殖期禁漁。常見吃法有水煮「釜揚」、素炸、做成天婦羅蓋飯，鮮紅透明、鮮甜有香氣。當地已建立認證標章防止產地冒充。除了水煮與炸物，也常曬乾後撒在飯或麵上提味。",
+   "facts": [
+    {
+     "label": "起源",
+     "value": "1894年由靜岡漁民首次發現"
+    },
+    {
+     "label": "主要食材",
+     "value": "櫻花蝦（可水煮、生食、天婦羅）"
+    },
+    {
+     "label": "時節",
+     "value": "春漁4至6月、秋漁10至12月"
+    }
+   ],
+   "season_zh": "春季4至6月、秋季10至12月",
+   "where_zh": "由比、大井川（駿河灣沿岸漁港）",
+   "tags": [
+    "櫻花蝦",
+    "駿河灣",
+    "釜揚",
+    "天婦羅"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/サクラエビ"
+   ],
+   "confidence": "high",
+   "prompt_en": "A small ceramic bowl of freshly boiled pink sakura ebi shrimp (kama-age) with a few raw translucent ones, on a dark wooden table beside a fishing-port window, soft morning light, no text"
+  },
+  {
+   "title_zh": "安倍川黃豆粉年糕",
+   "title_ja": "安倍川もち",
+   "category": "甜點和菓子",
+   "summary_zh": "裹黃豆粉加白糖或紅豆餡的靜岡傳統年糕。",
+   "body_zh": "安倍川もち是靜岡的傳統點心，在年糕上撒黃豆粉再加白砂糖，或裹上紅豆餡。相傳慶長年間德川家康巡視時，當地人獻上黃豆粉餅，家康因其機智而命名；另有還俗山伏販售的說法。江戶時代在安倍川兩岸販售，竹製小盤盛十個。2020年被認定為日本遺產，是常見的伴手禮。",
+   "facts": [
+    {
+     "label": "起源",
+     "value": "相傳慶長年間與德川家康有關，另有山伏說，兩說均為傳說"
+    },
+    {
+     "label": "主要食材",
+     "value": "年糕、黃豆粉、白砂糖、紅豆餡"
+    },
+    {
+     "label": "吃法",
+     "value": "黃豆粉與紅豆餡兩種口味並盛"
+    }
+   ],
+   "season_zh": "全年",
+   "where_zh": "靜岡市安倍川周邊與東海道沿線名店",
+   "tags": [
+    "年糕",
+    "黃豆粉",
+    "紅豆",
+    "靜岡市"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/安倍川餅"
+   ],
+   "confidence": "medium",
+   "prompt_en": "Abekawa mochi on a small bamboo-style tray, pieces coated in golden kinako soybean powder with sugar and others wrapped in smooth red bean paste, wooden table, soft natural light, no text"
+  },
+  {
+   "title_zh": "靜岡茶",
+   "title_ja": "静岡茶",
+   "category": "酒與飲品",
+   "summary_zh": "日本產量最大的綠茶產區，牧之原為深蒸茶發源地。",
+   "body_zh": "靜岡茶是日本最大的茶產地，荒茶產量約佔全國36%（2020年），與宇治茶、狹山茶並稱日本三大茶。相傳鎌倉時代聖一國師從宋朝帶回茶種，種於駿河國足窪。牧之原台地是最大產區，也是深蒸茶的發源地；另有掛川茶、川根茶等地域品牌。近年產出額已被鹿兒島超越。",
+   "facts": [
+    {
+     "label": "起源",
+     "value": "鎌倉時代聖一國師自宋朝帶回茶種"
+    },
+    {
+     "label": "主要食材",
+     "value": "蒸製綠茶（深蒸煎茶為代表）"
+    },
+    {
+     "label": "吃法",
+     "value": "以煎茶沖泡熱飲"
+    }
+   ],
+   "season_zh": "新茶4至5月",
+   "where_zh": "牧之原台地、掛川、川根等產區",
+   "tags": [
+    "綠茶",
+    "牧之原",
+    "深蒸茶",
+    "三大茶"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/静岡茶"
+   ],
+   "confidence": "high",
+   "prompt_en": "A Japanese ceramic teacup of bright green Shizuoka sencha with a small kyusu teapot beside it, tea fields softly blurred through a window, soft natural light, no text"
+  },
+  {
+   "title_zh": "伊豆山葵",
+   "title_ja": "わさび",
+   "category": "特產食材",
+   "summary_zh": "疊石式栽培獲世界農業遺產的靜岡山葵。",
+   "body_zh": "靜岡是日本主要山葵產地，江戶時代有東木（今靜岡市葵區）村民將野生山葵移植到田圃栽培，後獲德川家康讚賞。傳統「疊石式栽培」於2018年被聯合國糧農組織認定為世界農業遺產。靜岡特產わさび漬け以切碎的根莖拌酒粕醃製，可配酒或白飯。山葵需要乾淨冷涼的流水，山間梯田式的栽培景觀本身也很有特色。",
+   "facts": [
+    {
+     "label": "起源",
+     "value": "江戶時代有東木村民移植野生山葵栽培"
+    },
+    {
+     "label": "主要食材",
+     "value": "山葵根莖、酒粕（わさび漬け）"
+    },
+    {
+     "label": "吃法",
+     "value": "現磨配生魚片或壽司，或わさび漬け配飯"
+    }
+   ],
+   "season_zh": "全年（秋冬品質佳）",
+   "where_zh": "靜岡市葵區、伊豆山間",
+   "tags": [
+    "山葵",
+    "世界農業遺產",
+    "わさび漬け",
+    "伊豆"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/ワサビ"
+   ],
+   "confidence": "medium",
+   "prompt_en": "A fresh wasabi rhizome with green leaves on a small sharkskin grater, with a tiny mound of freshly grated wasabi, on a dark slate plate, cool mountain-stream light, no text"
+  },
+  {
+   "title_zh": "濱名湖鰻魚",
+   "title_ja": "浜名湖うなぎ",
+   "category": "肉類",
+   "summary_zh": "濱名湖周邊養殖鰻魚聞名，烤成蒲燒。",
+   "body_zh": "濱名湖的養殖鰻魚相當有名。1891年原田仙右衛門在今湖西市建造池塘，被視為日本最早的人工池養鰻嘗試。濱名湖和天龍川河口易捕鰻苗，加上溫暖氣候與豐富地下水，使濱松成為養鰻中心。常見吃法是蒲燒鰻魚飯。1980年代起養殖業者與漁獲量持續減少。鰻魚經蒸烤再刷醬汁，口感鬆軟，是濱松的代表名物之一。",
+   "facts": [
+    {
+     "label": "起源",
+     "value": "1891年原田仙右衛門於今湖西市建池養鰻"
+    },
+    {
+     "label": "主要食材",
+     "value": "養殖鰻魚、醬油醬汁"
+    },
+    {
+     "label": "吃法",
+     "value": "蒲燒鰻魚飯"
+    }
+   ],
+   "season_zh": "夏季土用丑日前後最盛",
+   "where_zh": "濱名湖周邊濱松市、湖西市的鰻魚店",
+   "tags": [
+    "鰻魚",
+    "蒲燒",
+    "濱名湖",
+    "鰻重"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/浜名湖",
+    "https://ja.wikipedia.org/wiki/ウナギ"
+   ],
+   "confidence": "medium",
+   "prompt_en": "A single lacquer box of grilled kabayaki eel over rice, glossy dark sauce, a small bowl of clear soup beside, wooden table with soft window light, no text"
+  }
+ ]
+}

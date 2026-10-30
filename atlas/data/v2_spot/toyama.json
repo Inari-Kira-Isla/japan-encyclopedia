@@ -1,0 +1,157 @@
+{
+  "id": "toyama",
+  "spots": [
+    {
+      "title_zh": "立山黑部阿爾卑斯路線",
+      "title_ja": "立山黒部アルペンルート",
+      "category": "山岳高原",
+      "area_zh": "立山町（連接長野縣大町市）",
+      "summary_zh": "穿越北阿爾卑斯的山岳觀光路線，春季有雪壁。",
+      "body_zh": "立山黑部阿爾卑斯路線全長約37.2公里，於1971年全線開通，連接富山縣立山町與長野縣大町市。行程要轉乘纜車、高原巴士、電車與空中纜車，最高點室堂海拔2,450公尺，高低差近2,000公尺。4至5月可在雪之大谷步行於十多公尺高的雪壁之間，亦可步行橫越日本最高的黑部水壩。每年約4月中旬開放、11月中旬關閉，視天候而定。",
+      "facts": [
+        {"label": "所在地", "value": "富山縣立山町至長野縣大町市，屬中部山岳國立公園"},
+        {"label": "開創／成因", "value": "1971年全線開通，全長約37.2公里，最高點室堂2,450公尺"},
+        {"label": "看點", "value": "雪之大谷雪壁、黑部水壩、室堂高原"}
+      ],
+      "best_season_zh": "4月中旬至5月（雪壁）、10月（紅葉）",
+      "tips_zh": "路線每年約4月中旬開放、11月中旬關閉，實際日期視天候而定，出發前請查官方運行資訊。高山氣溫低，春季也需帶厚外套。",
+      "tags": ["雪壁", "黑部水壩", "北阿爾卑斯", "高山交通"],
+      "sources": ["https://ja.wikipedia.org/wiki/立山黒部アルペンルート"],
+      "confidence": "high",
+      "prompt_en": "Wide view of a towering white snow corridor with walls many meters high on a mountain road, bright blue sky, late April morning, crisp sidelight, snow-cut road in foreground, jagged Alps peaks in background, no text, no recognizable people"
+    },
+    {
+      "title_zh": "五箇山相倉合掌造聚落",
+      "title_ja": "五箇山 相倉合掌造り集落",
+      "category": "街區古鎮",
+      "area_zh": "南砺市（五箇山）",
+      "summary_zh": "與白川鄉同列世界遺產的合掌造山村。",
+      "body_zh": "五箇山位於富山縣西南部的南砺市，相倉與菅沼兩處聚落同被指定為重要傳統建造物群保存地區，並於1995年與白川鄉一併登錄為世界遺產。陡斜的茅草屋頂是為了應付大雪而設計。江戶時代這裡是加賀藩的火藥原料煙硝產地，四周被千公尺以上山峰與庄川峽谷包圍，也曾是流放之地。當地民謠麥屋節與古謠也被指定為民俗文化財。",
+      "facts": [
+        {"label": "所在地", "value": "富山縣南砺市（舊平村、上平村、利賀村一帶的五箇山）"},
+        {"label": "開創／成因", "value": "1995年登錄世界遺產；江戶時代為加賀藩煙硝產地"},
+        {"label": "看點", "value": "茅草合掌造屋、雪景、傳統民謠"}
+      ],
+      "best_season_zh": "冬季雪景（1至2月）、初夏新綠",
+      "tips_zh": "聚落內仍有居民生活，拍照請勿闖入住家範圍。冬季積雪路滑，請穿防滑鞋，並預留往返巴士或自駕的時間。",
+      "tags": ["世界遺產", "合掌造", "雪景", "山村"],
+      "sources": ["https://ja.wikipedia.org/wiki/五箇山"],
+      "confidence": "medium",
+      "prompt_en": "Gassho-zukuri thatched farmhouses with steep roofs in a mountain village, soft snowfall, winter dusk, warm window glow, rice fields covered in snow in foreground, forested mountains in background, no text, no recognizable people"
+    },
+    {
+      "title_zh": "瑞龍寺",
+      "title_ja": "瑞龍寺",
+      "category": "神社寺院",
+      "area_zh": "高岡市",
+      "summary_zh": "前田利長菩提寺，山門佛殿法堂為國寶。",
+      "body_zh": "瑞龍寺是曹洞宗寺院，位於高岡市，1614年由前田利常為紀念兄長前田利長而創建，開山為廣山恕陽。寺內以山門、佛殿、法堂成一直線，左右以迴廊環繞，建築對稱嚴整，其中山門、佛殿、法堂三棟為國寶，另有七棟為重要文化財。佛殿屋頂鋪設鉛瓦，是特色之一。整體伽藍保存完好，氣氛莊嚴寧靜。",
+      "facts": [
+        {"label": "所在地", "value": "富山縣高岡市關本町35"},
+        {"label": "開創／成因", "value": "1614年由前田利常創建，開山廣山恕陽，曹洞宗"},
+        {"label": "門票", "value": "拜觀約500日圓（頁面記載，開放時間9:00至16:30）"}
+      ],
+      "best_season_zh": "初夏新綠、秋季",
+      "tips_zh": "拜觀時間與費用可能調整，出發前請查寺方最新公告。迴廊與殿堂內請保持安靜，部分區域禁止攝影。",
+      "tags": ["國寶", "曹洞宗", "前田家", "伽藍"],
+      "sources": ["https://ja.wikipedia.org/wiki/瑞龍寺_(高岡市)"],
+      "confidence": "high",
+      "prompt_en": "Symmetrical Zen temple compound with a grand gate, buddha hall and covered corridors, dark gray lead-tile roofs, calm lawn courtyard, soft overcast light in early summer, low front angle along the central axis, no text, no recognizable people"
+    },
+    {
+      "title_zh": "雨晴海岸",
+      "title_ja": "雨晴海岸",
+      "category": "海島海岸",
+      "area_zh": "高岡市",
+      "summary_zh": "隔富山灣遠眺立山連峰的海岸。",
+      "body_zh": "雨晴海岸位於高岡市北部，屬能登半島國定公園，也是日本海濱百選之一。相傳源義經一行在此躲雨，雨停天晴，因而得名，海邊留有義經岩。天氣晴朗時，可隔著富山灣望見三千公尺級的立山連峰，海中散布著女岩等小島。冬季有海霧景觀與元旦日出吸引攝影者。JR氷見線沿海岸行駛，鐵道迷也常在此拍攝列車與山景同框的畫面。",
+      "facts": [
+        {"label": "所在地", "value": "富山縣高岡市北部，能登半島國定公園內"},
+        {"label": "開創／成因", "value": "名稱源於源義經避雨傳說；2014年富山灣加入世界最美海灣俱樂部"},
+        {"label": "交通", "value": "JR氷見線雨晴站步行可達"}
+      ],
+      "best_season_zh": "冬季晴天（立山連峰積雪）",
+      "tips_zh": "要看到立山連峰須空氣清澈的晴天，冬季日出前氣溫很低。氷見線班次不多，建議先查好時刻表。",
+      "tags": ["立山連峰", "富山灣", "日出", "鐵道"],
+      "sources": ["https://ja.wikipedia.org/wiki/雨晴海岸"],
+      "confidence": "high",
+      "prompt_en": "Rocky coast with small islets in a calm bay at winter sunrise, snow-capped alpine range glowing pink across the water, thin sea mist, wet rocks in foreground, a single small shrine-like rock in midground, no text, no recognizable people"
+    },
+    {
+      "title_zh": "富山城",
+      "title_ja": "富山城",
+      "category": "城郭史蹟",
+      "area_zh": "富山市",
+      "summary_zh": "富山藩藩廳舊址，現為城址公園。",
+      "body_zh": "富山城位於富山市丸之內，1543年由神保長職築城，佐佐成政曾大規模整修。江戶時代前田利長在1609年火災後加以修築，1639年起成為富山藩的藩廳，直到1871年廢藩。現在看到的模擬天守於1954年完成，為鋼筋混凝土建築，並非歷史上的原貌復原，內部作為富山市鄉土博物館。城址現為富山城址公園，護城河與石垣沿岸四季有花卉，春季櫻花尤其受歡迎。",
+      "facts": [
+        {"label": "所在地", "value": "富山縣富山市丸之內"},
+        {"label": "開創／成因", "value": "1543年神保長職築城；1639年起為富山藩藩廳"},
+        {"label": "看點", "value": "模擬天守（鄉土博物館）、護城河與石垣、櫻花"}
+      ],
+      "best_season_zh": "春季賞櫻（4月上旬）",
+      "tips_zh": "天守為1954年所建的模擬建築，並非歷史原貌，參觀時請留意。城址公園可自由散步，賞櫻季人多。",
+      "tags": ["城跡", "櫻花", "護城河", "藩廳"],
+      "sources": ["https://ja.wikipedia.org/wiki/富山城"],
+      "confidence": "high",
+      "prompt_en": "White concrete-reconstructed castle keep beside a moat with stone walls, cherry blossoms in full bloom, clear spring morning, pink blossom branches in foreground, still water reflection in midground, no text, no recognizable people"
+    },
+    {
+      "title_zh": "宇奈月溫泉",
+      "title_ja": "宇奈月温泉",
+      "category": "溫泉",
+      "area_zh": "黑部市",
+      "summary_zh": "黑部峽谷入口的溫泉街，泉水由七公里外引來。",
+      "body_zh": "宇奈月溫泉位於黑部市，1923年因黑部川電源開發而開湯，是黑部峽谷的門戶。泉水並非就地湧出，而是由約七公里外黑薙溫泉經引湯管輸送而來，這種長距離引湯在日本相當罕見。泉質為單純溫泉，源頭溫度可達約98度。溫泉街沿峽谷而建，有旅館、公共浴場與足湯。由此可搭乘黑部峽谷鐵道的觀光小火車深入峽谷，欣賞山谷風光與紅葉。",
+      "facts": [
+        {"label": "所在地", "value": "富山縣黑部市宇奈月町"},
+        {"label": "開創／成因", "value": "1923年開湯，由約7公里外黑薙溫泉引湯"},
+        {"label": "看點", "value": "黑部峽谷鐵道小火車、溫泉街、峽谷紅葉"}
+      ],
+      "best_season_zh": "秋季紅葉（10月下旬至11月上旬）",
+      "tips_zh": "黑部峽谷鐵道為季節性營運，冬季通常休止，行前請查官方運行日。溫泉街設有足湯可免費體驗。",
+      "tags": ["溫泉", "黑部峽谷", "小火車", "紅葉"],
+      "sources": ["https://ja.wikipedia.org/wiki/宇奈月温泉"],
+      "confidence": "high",
+      "prompt_en": "Hot spring town nestled in a deep river gorge, mist rising from the valley, autumn foliage in red and gold, a small red trestle bridge in midground, soft early morning light, slightly elevated angle, no text, no recognizable people"
+    },
+    {
+      "title_zh": "富岩運河環水公園",
+      "title_ja": "富岩運河環水公園",
+      "category": "庭園公園",
+      "area_zh": "富山市",
+      "summary_zh": "運河盡頭的親水公園，設有景觀橋與咖啡店。",
+      "body_zh": "富岩運河環水公園位於富山市，1997年開園，建在富岩運河南端的船隻停泊處，原本是廢棄物處理用地，改造後成為市民休憩空間。園內的天門橋有兩座約20公尺高的塔，橋身造型獨特。園中有號稱日本首間都市公園內的星巴克，曾獲店舖設計獎，另有水邊的露天舞台。傍晚水景被燈光點亮，湖面倒影與橋影相映，是富山市區的人氣夜景地點。",
+      "facts": [
+        {"label": "所在地", "value": "富山縣富山市湊入船町"},
+        {"label": "開創／成因", "value": "1997年開園，位於富岩運河南端船泊處"},
+        {"label": "看點", "value": "天門橋、水邊咖啡店、夜間燈光"}
+      ],
+      "best_season_zh": "春秋季傍晚",
+      "tips_zh": "傍晚時段光線最美，可先在咖啡店休息等天黑，再沿水邊散步看夜景。假日人多，座位需預留時間。",
+      "tags": ["運河", "夜景", "親水公園", "咖啡店"],
+      "sources": ["https://ja.wikipedia.org/wiki/富岩運河環水公園"],
+      "confidence": "medium",
+      "prompt_en": "Waterside park at blue hour with a modern twin-tower pedestrian bridge reflected in calm canal water, soft glowing lights, wooden deck in foreground, lawn and trees in midground, city skyline faint behind, no text, no recognizable people"
+    },
+    {
+      "title_zh": "稱名瀑布",
+      "title_ja": "称名滝",
+      "category": "自然絕景",
+      "area_zh": "立山町",
+      "summary_zh": "落差約350公尺，為日本落差第一的瀑布。",
+      "body_zh": "稱名瀑布位於立山町，落差約350公尺，被視為日本落差最大的瀑布，分四段落下，各段約70、58、96、126公尺。名稱來自佛教傳說，相傳瀑布水聲聽來像念佛的聲音。春季融雪期或大雨之後，主瀑布旁會出現半夏瀑布，有時再出現素麵瀑布，形成多條瀑布並列的壯觀景象。從停車場步行約1.3公里、約30分鐘可抵達觀賞處，是日本瀑布百選與日本音風景百選。",
+      "facts": [
+        {"label": "所在地", "value": "富山縣立山町"},
+        {"label": "開創／成因", "value": "落差約350公尺，四段瀑布；名稱源於念佛聲傳說"},
+        {"label": "交通", "value": "由停車場步行約1.3公里、約30分鐘"}
+      ],
+      "best_season_zh": "5至6月融雪期",
+      "tips_zh": "道路與步道有季節性封閉，行前請查路況。步道有濕滑路段，請穿防滑鞋，並留意落石與天候。",
+      "tags": ["瀑布", "日本第一", "融雪", "立山"],
+      "sources": ["https://ja.wikipedia.org/wiki/称名滝"],
+      "confidence": "high",
+      "prompt_en": "Very tall multi-tiered waterfall dropping down a sheer rock cliff into a green forested valley, secondary thin falls beside it, spring snowmelt, mist at the base, wide vertical composition from the trail, soft diffuse light, no text, no recognizable people"
+    }
+  ]
+}

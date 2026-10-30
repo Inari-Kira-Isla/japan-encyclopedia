@@ -1,0 +1,853 @@
+{
+ "id": "hiroshima",
+ "name_zh": "廣島縣",
+ "name_ja": "広島県",
+ "region": "中國",
+ "overview": {
+  "intro_zh": "廣島縣位於本州西部、中國地方的瀨戶內海沿岸，縣廳所在地廣島市是區域最大城市。1945年遭原子彈轟炸後重建，如今以和平紀念公園與原爆圓頂屋為象徵。縣內另有世界遺產嚴島神社、瀨戶內海島嶼群，以及牡蠣、廣島燒、檸檬等飲食特產，是兼具歷史沉重與海島景致的旅遊地。從大阪、東京皆可搭新幹線直達，也可與四國以島波海道相連，交通便利。",
+  "capital_zh": "廣島市",
+  "area_km2": "約8,480",
+  "population_approx": "約270至280萬",
+  "flower_zh": "楓葉（紅葉）",
+  "bird_zh": "紅喉潛鳥（アビ）",
+  "tree_zh": "楓樹",
+  "climate_zh": "瀨戶內海式氣候，沿海溫暖少雨，山區冬季較冷偶有積雪。",
+  "access_zh": "山陽新幹線至廣島站，廣島機場；宮島可搭JR與渡輪。",
+  "specialties_zh": [
+   "牡蠣",
+   "廣島燒",
+   "楓葉饅頭",
+   "檸檬",
+   "熊野筆"
+  ],
+  "best_season_zh": "春秋季最佳；秋季賞楓、冬季吃牡蠣"
+ },
+ "items": {
+  "architecture": {
+   "title_zh": "嚴島神社大鳥居",
+   "title_ja": "厳島神社の大鳥居",
+   "summary_zh": "宮島海面上的朱紅色鳥居，退潮時可步行靠近。",
+   "body_zh": "宮島嚴島神社的大鳥居立於海中，是神社最具代表性的象徵。島上自古被視為神域，神社相傳創建於六世紀末，平安末期平清盛擴建成今日海上社殿的規模。現存鳥居為1875年重建，以天然樟木作主柱，靠自身重量站立而非埋入海底。嚴島神社於1996年列入世界文化遺產，鳥居也曾於2019至2022年進行大規模修繕。漲潮時彷彿浮於海上，退潮時遊客可走到鳥居腳下。鳥居高約16公尺，遠看小巧，走近才感受到體量。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "廣島縣廿日市市宮島町"
+    },
+    {
+     "label": "現存鳥居",
+     "value": "1875年重建"
+    },
+    {
+     "label": "世界遺產",
+     "value": "1996年登錄"
+    },
+    {
+     "label": "特色",
+     "value": "主柱為樟木，靠自重站立"
+    }
+   ],
+   "best_season_zh": "全年；春秋季與日落時段尤佳",
+   "tips_zh": "先查當日潮汐表：滿潮看『浮海』、退潮可走近。島上以步行為主，建議預留半天。拍照最佳時間是日出與滿潮，逆光剪影也很美。",
+   "tags": [
+    "世界遺產",
+    "神社",
+    "鳥居",
+    "宮島"
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Itsukushima_Shrine",
+    "https://ja.wikipedia.org/wiki/%E5%8E%B3%E5%B3%B6"
+   ],
+   "confidence": "high",
+   "prompt_en": "A vermilion torii gate standing in calm sea water at high tide with a shrine on stilts behind, forested mountain, soft sunrise haze"
+  },
+  "food": {
+   "title_zh": "廣島燒",
+   "title_ja": "広島風お好み焼き",
+   "summary_zh": "把麵條、高麗菜與肉蛋逐層疊起的鐵板料理。",
+   "body_zh": "廣島燒（廣島風御好燒）與大阪式不同，是把材料分層疊煎：先煎薄麵皮，再鋪上大量高麗菜、豆芽、豬五花，最後加上炒麵或烏龍麵與蛋，淋上偏甜的濃稠醬汁。一般認為它在戰後物資匱乏時期於廣島市街頭發展成形，是平民的飽肚美食。當地許多店家在鐵板前現煎，客人可坐在吧檯看師傅翻鏟，連同香氣與聲響一起品嚐。蔥、起司與牡蠣等配料也很常見。店家通常附上辣味醬或蔥花，可依喜好調整口味。",
+   "facts": [
+    {
+     "label": "起源",
+     "value": "戰後廣島市街頭發展成形"
+    },
+    {
+     "label": "特色",
+     "value": "麵皮、高麗菜、麵條、蛋分層煎"
+    },
+    {
+     "label": "常見配料",
+     "value": "豬五花、蛋、牡蠣、蔥"
+    },
+    {
+     "label": "吃法",
+     "value": "鐵板前以小鏟直接食用"
+    }
+   ],
+   "best_season_zh": "全年",
+   "tips_zh": "點餐時可選『そば（炒麵）』或『うどん』作麵底；店家多為吧檯座，熱氣足，夏天也要有心理準備。建議到廣島市的御好燒集合街區比較不同店家。",
+   "tags": [
+    "B級美食",
+    "鐵板燒",
+    "廣島",
+    "麵食"
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Okonomiyaki",
+    "https://ja.wikipedia.org/wiki/%E5%BA%83%E5%B3%B6%E9%A2%A8%E3%81%8A%E5%A5%BD%E3%81%BF%E7%84%BC%E3%81%8D"
+   ],
+   "confidence": "medium",
+   "prompt_en": "A layered savory pancake with noodles, cabbage and egg being cooked on a hot iron griddle, spatula, steam and sizzle, warm food photography"
+  },
+  "culture": {
+   "title_zh": "熊野筆",
+   "title_ja": "熊野筆",
+   "summary_zh": "廣島熊野町以毛筆與化妝刷聞名的傳統工藝。",
+   "body_zh": "熊野筆產自廣島縣安芸郡熊野町，相傳江戶時代末期當地農民外出打工，帶回筆的製作技術而發展成產業。1975年被指定為日本國家的傳統工藝品，也是廣島縣內第一件獲此指定的工藝品。毛筆之外，也生產畫筆與化妝刷，據報導其化妝刷占日本國內產量約九成，因觸感柔軟、貼膚而受海外歡迎。製作需經選毛、整毛、結束、成形等多道細緻工序，多由職人手工完成。不少職人家族世代相傳，工房也接受預約參觀。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "廣島縣熊野町"
+    },
+    {
+     "label": "傳統工藝指定",
+     "value": "1975年"
+    },
+    {
+     "label": "主要產品",
+     "value": "毛筆、畫筆、化妝刷"
+    },
+    {
+     "label": "特色",
+     "value": "多道手工工序、動物毛選用講究"
+    }
+   ],
+   "best_season_zh": "全年",
+   "tips_zh": "熊野町有筆之里工房可看示範與製作體驗；化妝刷價格從數千日圓到上萬日圓不等，購買時可請店員示範試用。也可買書法筆當伴手禮，輕巧不易壞。",
+   "tags": [
+    "傳統工藝",
+    "毛筆",
+    "化妝刷",
+    "職人"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/%E7%86%8A%E9%87%8E%E7%AD%86",
+    "https://en.wikipedia.org/wiki/Kumano,_Hiroshima"
+   ],
+   "confidence": "medium",
+   "prompt_en": "A craftsman's hands trimming fine animal-hair brush tips at a workbench, rows of finished makeup and calligraphy brushes, soft studio light"
+  },
+  "history": {
+   "title_zh": "原爆圓頂屋",
+   "title_ja": "原爆ドーム",
+   "summary_zh": "和平紀念公園內保存的被爆建築遺構。",
+   "body_zh": "原爆圓頂屋原為1915年落成的廣島縣物產陳列館，由外籍建築師揚·列捷爾設計。1945年8月6日原子彈在其附近上空爆炸，建築大部分被毀，僅磚石骨架與穹頂鋼架留存。戰後曾有保存與拆除之爭，後來決定以遺構形式保存，並多次補強。1996年被列入世界文化遺產，成為呼籲廢除核武與祈求和平的象徵。遺構位於元安川畔，園內另設有和平紀念資料館。遺構周邊有導覽牌，可用多語言了解背景與保存經過。",
+   "facts": [
+    {
+     "label": "原建築",
+     "value": "1915年落成，廣島縣物產陳列館"
+    },
+    {
+     "label": "被爆日",
+     "value": "1945年8月6日"
+    },
+    {
+     "label": "世界遺產",
+     "value": "1996年登錄"
+    },
+    {
+     "label": "所在地",
+     "value": "廣島市中區和平紀念公園旁"
+    }
+   ],
+   "best_season_zh": "全年；8月6日前後有追悼活動",
+   "tips_zh": "以肅穆態度參觀，不要攀爬或觸碰遺構。建議與和平紀念資料館安排同一天，參觀約需半天。建議先看資料館再到遺構旁，理解更完整。",
+   "tags": [
+    "世界遺產",
+    "和平",
+    "歷史遺構",
+    "廣島"
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Atomic_Bomb_Dome",
+    "https://ja.wikipedia.org/wiki/%E5%8E%9F%E7%88%86%E3%83%89%E3%83%BC%E3%83%A0"
+   ],
+   "confidence": "high",
+   "prompt_en": "The skeletal dome ruin of a historic brick building beside a river at dusk, quiet reflective atmosphere, no people in focus, solemn mood"
+  },
+  "mascot": {
+   "title_zh": "廣島的吉祥物（原創角色）",
+   "title_ja": "広島のご当地キャラ",
+   "summary_zh": "廣島縣沒有單一統一吉祥物，此處以牡蠣與楓葉原創角色。",
+   "body_zh": "廣島縣雖有『ひろしま都市犬はっしー』等地區性角色（為廣島廣域都市圈的吉祥物），但我們未能查到全縣統一的官方吉祥物，所以此處改以當地象徵發想原創角色。牡蠣是廣島的代表海產，楓葉（紅葉）是縣花縣木，宮島又以楓葉饅頭聞名，檸檬則是瀨戶內島嶼的特產，三者組合成親切可愛的形象，並刻意不複製任何既有商標吉祥物。如想收集周邊，可在車站商店與觀光案內所找到各式角色商品。也可把牡蠣殼與楓葉當作主視覺。",
+   "facts": [
+    {
+     "label": "縣花縣木",
+     "value": "楓葉（紅葉）"
+    },
+    {
+     "label": "縣鳥",
+     "value": "紅喉潛鳥（アビ）"
+    },
+    {
+     "label": "象徵食材",
+     "value": "牡蠣、檸檬"
+    },
+    {
+     "label": "地區吉祥物",
+     "value": "ひろしま都市犬はっしー"
+    }
+   ],
+   "best_season_zh": "全年",
+   "tips_zh": "想看真實吉祥物，可在廣島市區與活動會場尋找區域宣傳角色，周邊商品多在車站與觀光案內所販售。此條目為原創設定，並非官方角色。",
+   "tags": [
+    "吉祥物",
+    "牡蠣",
+    "楓葉",
+    "原創角色"
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Hiroshima_Prefecture",
+    "https://www.city.hiroshima.lg.jp/kouiki/hasshi/1012291.html"
+   ],
+   "confidence": "low",
+   "prompt_en": "An original cute character shaped like a plump oyster shell with a lemon slice hat and red maple leaf scarf, soft pastel style, not replicating any existing trademarked mascot"
+  },
+  "scenery": {
+   "title_zh": "瀨戶內海島嶼群",
+   "title_ja": "瀬戸内海の島々",
+   "summary_zh": "大小島嶼散布的多島海，夕照下層層剪影。",
+   "body_zh": "瀨戶內海被本州與四國包圍，是日本最大的內海，廣島縣南側海域島嶼密布。瀨戶內海國立公園於1934年成為日本最早指定的國立公園之一。從尾道經多座島嶼通往愛媛縣今治的島波海道約60公里，1999年全線開通，可騎單車欣賞多島海景。海面風平浪靜，渡輪與漁船往來，日落時島影一層層疊在薄霧中，是廣島最典型的海景。沿線的柑橘田與造船廠也值得停留，順道買檸檬製品。不少島嶼還有柑橘園，秋天可嚐到當季水果。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "廣島縣南部海域"
+    },
+    {
+     "label": "國立公園",
+     "value": "瀨戶內海國立公園（1934年）"
+    },
+    {
+     "label": "島波海道",
+     "value": "尾道—今治約60公里，1999年開通"
+    },
+    {
+     "label": "特色",
+     "value": "多島海、柑橘與漁業"
+    }
+   ],
+   "best_season_zh": "春秋季；日落時段",
+   "tips_zh": "島波海道單車可在尾道租借，沿途有還車點；夏季日曬強烈，宜早出發並攜帶足夠飲水。海風強的日子渡輪可能停駛，行前請確認班次。",
+   "tags": [
+    "瀨戶內海",
+    "島嶼",
+    "夕陽",
+    "島波海道"
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Seto_Inland_Sea",
+    "https://ja.wikipedia.org/wiki/%E7%80%AC%E6%88%B8%E5%86%85%E6%B5%B7"
+   ],
+   "confidence": "high",
+   "prompt_en": "A calm inland sea dotted with forested islands at golden hour, a small ferry crossing, layered silhouettes and soft haze"
+  },
+  "spot": {
+   "title_zh": "宮島彌山",
+   "title_ja": "宮島 弥山",
+   "summary_zh": "宮島最高峰，山頂可俯瞰瀨戶內海。",
+   "body_zh": "彌山是宮島的最高峰，海拔535公尺，位於嚴島神社的世界遺產範圍內，自古被視為神山。山上原始林保存良好，並有獼猴與野生鹿棲息。遊客可從紅葉谷搭乘空中纜車再步行上山，山頂展望台能遠眺瀨戶內海的島嶼與廣島灣。山中還有弘法大師所開創的古剎與靈火堂，相傳堂內的靈火燃燒至今不滅，是登山時順道參拜的名所。沿途設有休憩處，可坐下來看海，也能順道參觀沿山路的小祠與石像。整趟行程約需三到四小時。",
+   "facts": [
+    {
+     "label": "海拔",
+     "value": "535公尺"
+    },
+    {
+     "label": "所在地",
+     "value": "廣島縣廿日市市宮島町"
+    },
+    {
+     "label": "交通",
+     "value": "空中纜車＋步行"
+    },
+    {
+     "label": "特色",
+     "value": "原始林、展望台、古剎"
+    }
+   ],
+   "best_season_zh": "春秋季",
+   "tips_zh": "纜車後仍需步行約30分鐘；請穿防滑鞋，並留意野生動物，不要餵食。紅葉季的週末纜車常需排隊，建議早上出發。",
+   "tags": [
+    "登山",
+    "宮島",
+    "展望台",
+    "世界遺產"
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Mount_Misen",
+    "https://ja.wikipedia.org/wiki/%E5%BC%A5%E5%B1%B1"
+   ],
+   "confidence": "high",
+   "prompt_en": "A mountaintop observation point with weathered rocks overlooking distant islands and the sea, wild deer resting nearby, bright clear day"
+  },
+  "experience": {
+   "title_zh": "宮島牡蠣體驗",
+   "title_ja": "宮島の牡蠣",
+   "summary_zh": "在宮島現場品嚐炭烤廣島牡蠣。",
+   "body_zh": "廣島是日本最大的牡蠣產地，產量占全國過半，據一般說法約六成以上，養殖以吊掛式為主。牡蠣旺季大約在秋末到春初，宮島的表參道一帶有許多攤販與食堂，能現場炭烤、清蒸或做成炸牡蠣。鮮甜多汁的肉質配上檸檬汁特別爽口。每年2月宮島也會舉辦牡蠣祭，供應烤牡蠣與牡蠣飯，是冬季造訪宮島的熱門理由。店家多半提供檸檬與醬油，可依自己喜歡的方式調味，價格也相對親民。不少店家提供套餐，可同時嚐到不同做法。",
+   "facts": [
+    {
+     "label": "產地",
+     "value": "廣島縣沿岸，以宮島周邊聞名"
+    },
+    {
+     "label": "旺季",
+     "value": "約10月至翌年3月"
+    },
+    {
+     "label": "吃法",
+     "value": "炭烤、清蒸、炸物、牡蠣飯"
+    },
+    {
+     "label": "活動",
+     "value": "宮島牡蠣祭（2月）"
+    }
+   ],
+   "best_season_zh": "冬季（11月至3月）",
+   "tips_zh": "牡蠣祭常有人潮，建議早到；生食與加熱品質視店家而定，敏感體質者請選擇熟食。炭火很熱，請注意燙傷，也別趁熱用手直接撥殼。",
+   "tags": [
+    "牡蠣",
+    "海鮮",
+    "宮島",
+    "冬季美食"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/%E5%BA%83%E5%B3%B6%E3%81%8B%E3%81%8D",
+    "https://en.wikipedia.org/wiki/Miyajima"
+   ],
+   "confidence": "medium",
+   "prompt_en": "Fresh oysters grilling on charcoal at a seaside stall, steam and lemon wedges, wooden stools, warm evening lights"
+  },
+  "costume": {
+   "title_zh": "廣島神樂舞服飾",
+   "title_ja": "広島神楽の装束",
+   "summary_zh": "廣島神樂以色彩鮮艷、刺繡華麗的舞服聞名。",
+   "body_zh": "神樂是向神明奉獻的歌舞，廣島縣山間地區（尤其是安芸高田一帶）有豐富的民間神樂傳統，常在秋季祭典夜晚演出。表演者身穿繡有金銀絲線的華麗裝束，頭戴面具或冠，配合太鼓、笛與銅鈸的節奏演出『大蛇』等神話故事。近年也有劇場化的新作神樂，服裝更為誇張鮮艷。具體裝束與流派因地區而異，此處的描述為概括說明。近年也有觀光型神樂演出，可在廣島市區的會館輕鬆觀賞，不必遠赴山區。整體氣氛神祕而熱鬧。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "廣島縣北部山間地區為主"
+    },
+    {
+     "label": "演出時節",
+     "value": "秋季祭典夜晚"
+    },
+    {
+     "label": "伴奏",
+     "value": "太鼓、笛、銅鈸"
+    },
+    {
+     "label": "代表劇目",
+     "value": "『大蛇』等神話故事"
+    }
+   ],
+   "best_season_zh": "秋季祭典期間",
+   "tips_zh": "多數演出在夜間於神社或會館舉行，行前請查詢各地神樂定期公演時間表。拍照前請先確認劇場是否允許，避免打擾演出。",
+   "tags": [
+    "神樂",
+    "民俗",
+    "傳統服飾",
+    "祭典"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/%E7%A5%9E%E6%A5%BD"
+   ],
+   "confidence": "low",
+   "prompt_en": "An anonymous dancer in an ornate red and gold embroidered traditional ritual costume and ornate headdress, stage setting with lantern glow"
+  }
+ },
+ "areas": [
+  {
+   "id": "hiroshima_hiroshima_city",
+   "name_zh": "廣島市",
+   "name_ja": "広島市",
+   "intro_zh": "廣島市是縣政府所在地，也是中國地方最大的城市，位於太田川三角洲。戰後重建而成的城市，以和平紀念公園為核心，同時保有廣島燒與牡蠣料理的庶民味道。市內有電車縱橫，移動十分方便。",
+   "items": {
+    "spot": {
+     "title_zh": "和平紀念公園與資料館",
+     "title_ja": "平和記念公園",
+     "summary_zh": "紀念原爆犧牲者、傳達和平訊息的城市公園。",
+     "body_zh": "和平紀念公園位於太田川分流之間的三角洲上，原是戰前繁華的市中心，戰後規劃成紀念被爆犧牲者的公園。園內有慰靈碑、和平之鐘、原爆之子像，以及展示被爆實物與資料的和平紀念資料館。每年8月6日在此舉行和平紀念儀式，並有放水燈等活動。資料館近年完成改裝，展示重視個人遺物與證言，遊客大多需要半天以上才能細細參觀。園內的原爆之子像常有折紙鶴供奉，也是許多學生旅行的重要一站。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "廣島市中區中島町"
+      },
+      {
+       "label": "主要設施",
+       "value": "慰靈碑、和平之鐘、資料館"
+      },
+      {
+       "label": "每年儀式",
+       "value": "8月6日和平紀念儀式"
+      },
+      {
+       "label": "參觀時間",
+       "value": "約半天"
+      }
+     ],
+     "best_season_zh": "全年；8月6日有追悼活動",
+     "tips_zh": "資料館內容沉重，請預留心理準備與充分時間；園區免費進入，資料館需購票。園區範圍廣，建議安排半天並穿好走的鞋。",
+     "tags": [
+      "和平公園",
+      "資料館",
+      "歷史",
+      "廣島市"
+     ],
+     "sources": [
+      "https://en.wikipedia.org/wiki/Hiroshima_Peace_Memorial_Park",
+      "https://ja.wikipedia.org/wiki/%E5%B9%B3%E5%92%8C%E8%A8%98%E5%BF%B5%E5%85%AC%E5%9C%92"
+     ],
+     "confidence": "high",
+     "prompt_en": "A wide peaceful memorial park with a curved arch monument framing a distant dome ruin, green lawns and calm pond, soft morning light"
+    },
+    "food": {
+     "title_zh": "牡蠣土手鍋",
+     "title_ja": "牡蠣の土手鍋",
+     "summary_zh": "以味噌沿鍋緣塗抹、與牡蠣同煮的廣島冬季鍋物。",
+     "body_zh": "牡蠣土手鍋是廣島的代表冬季鍋物：在土鍋內側沿鍋緣塗上一圈味噌，像堤防（土手）一樣，再放入牡蠣、豆腐、蔬菜，慢慢將味噌融入湯底。牡蠣的鮮味與味噌的濃香互相提味，也能用來防止海味過重。這道料理據說源自江戶時代的牡蠣船，船上食客以味噌煮牡蠣取暖。在廣島市區的料理店與牡蠣專門店都能找到，冬季尤其受歡迎。也有蒸牡蠣、炸牡蠣等多種吃法，可依喜好搭配。搭配日本酒更是絕配。",
+     "facts": [
+      {
+       "label": "類型",
+       "value": "冬季鍋物"
+      },
+      {
+       "label": "主要食材",
+       "value": "牡蠣、豆腐、蔬菜、味噌"
+      },
+      {
+       "label": "特色",
+       "value": "味噌塗於鍋緣、逐漸融入湯底"
+      },
+      {
+       "label": "旺季",
+       "value": "約11月至2月"
+      }
+     ],
+     "best_season_zh": "冬季",
+     "tips_zh": "牡蠣土手鍋多為兩人以上點餐；吃完可以加烏龍麵或飯做收尾。餐廳多半要預約，旺季尤其建議提早訂位。",
+     "tags": [
+      "牡蠣",
+      "鍋物",
+      "冬季美食",
+      "廣島市"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/%E5%BA%83%E5%B3%B6%E3%81%8B%E3%81%8D",
+      "https://en.wikipedia.org/wiki/Hiroshima"
+     ],
+     "confidence": "medium",
+     "prompt_en": "A traditional clay pot with miso paste lined along the inner rim, fresh oysters, tofu and vegetables simmering, steam rising, warm winter dining table"
+    },
+    "scenery": {
+     "title_zh": "元安川夕景",
+     "title_ja": "元安川の夕景",
+     "summary_zh": "原爆圓頂屋旁的河景，8月有水燈祈念。",
+     "body_zh": "元安川是太田川的支流，流經和平紀念公園東側，與原爆圓頂屋隔河相望。傍晚時分河面倒映城市燈光，兩岸樹木與河堤步道讓人放慢腳步。每年8月6日夜晚，市民會在河面放流寫有祈願的水燈（燈籠流し），成千上萬的燈火順流漂向下游，構成肅穆而美麗的景象。平日夜晚則以安靜的夜景著稱，適合散步與攝影。河畔常有咖啡座與散步市民，是了解城市日常氛圍的好地方。河岸綠樹成蔭，四季景色不同。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "廣島市中區"
+      },
+      {
+       "label": "水燈活動",
+       "value": "8月6日夜晚"
+      },
+      {
+       "label": "特色",
+       "value": "河畔步道與圓頂屋夜景"
+      },
+      {
+       "label": "參觀",
+       "value": "免費、全天候開放"
+      }
+     ],
+     "best_season_zh": "夏季（8月6日）；日落至夜間",
+     "tips_zh": "水燈活動人潮極多，請提早佔位；請勿越過河堤護欄。傍晚日落前後最漂亮，記得帶輕薄外套抵擋河風。",
+     "tags": [
+      "河景",
+      "夜景",
+      "水燈",
+      "廣島市"
+     ],
+     "sources": [
+      "https://en.wikipedia.org/wiki/Atomic_Bomb_Dome",
+      "https://ja.wikipedia.org/wiki/%E5%85%83%E5%AE%89%E5%B7%9D"
+     ],
+     "confidence": "medium",
+     "prompt_en": "A calm river at dusk with floating paper lanterns glowing on the water, silhouette of a distant dome ruin, tree-lined banks and city lights reflecting"
+    }
+   }
+  },
+  {
+   "id": "hiroshima_miyajima",
+   "name_zh": "宮島",
+   "name_ja": "宮島",
+   "intro_zh": "宮島正式名稱為嚴島，位於廣島灣內，自古被視為神明居住的島。嚴島神社與野生鹿、楓葉點綴其間，島上不通汽車道，漫步在表參道商店街與山徑之間，最能感受它的氛圍。從廣島市搭電車和渡輪約一小時即達。",
+   "items": {
+    "spot": {
+     "title_zh": "嚴島神社社殿與迴廊",
+     "title_ja": "厳島神社",
+     "summary_zh": "建在海灣潮間帶的朱紅社殿與長迴廊。",
+     "body_zh": "嚴島神社的社殿建於潮間帶之上，以朱紅色迴廊連結本殿、拜殿與能舞台，退潮時露出海灘、漲潮時彷彿漂浮海面。傳統認為島本身是神，因此建築刻意建在海邊，避免觸碰神聖的土地。平安末期平清盛擴建奠定今日規模，1996年登錄為世界文化遺產，部分建築與寶物為國寶。參拜時需沿迴廊單向行進，約需一小時。社殿內有多座祭祀神明的小神社，細節雕飾與燈籠值得細看。每逢節慶還會舉行神事與雅樂。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "廣島縣廿日市市宮島町"
+      },
+      {
+       "label": "世界遺產",
+       "value": "1996年"
+      },
+      {
+       "label": "結構",
+       "value": "建於潮間帶的朱紅迴廊與社殿"
+      },
+      {
+       "label": "參觀",
+       "value": "需購買參拜券，迴廊單向"
+      }
+     ],
+     "best_season_zh": "全年；滿潮與日落時分",
+     "tips_zh": "不同潮位有不同景致，行前查潮汐表；穿平底鞋較好行走。參拜券通常與其他設施合購較划算，可先確認。",
+     "tags": [
+      "神社",
+      "世界遺產",
+      "迴廊",
+      "宮島"
+     ],
+     "sources": [
+      "https://en.wikipedia.org/wiki/Itsukushima_Shrine",
+      "https://ja.wikipedia.org/wiki/%E5%8E%B3%E5%B3%B6"
+     ],
+     "confidence": "high",
+     "prompt_en": "A long vermilion covered corridor and shrine pavilions built over shallow tidal water, lanterns, calm sea reflections, golden afternoon light"
+    },
+    "food": {
+     "title_zh": "楓葉饅頭",
+     "title_ja": "もみじ饅頭",
+     "summary_zh": "宮島代表伴手禮，楓葉形烤饅頭。",
+     "body_zh": "楓葉饅頭是宮島最具代表性的甜點，外形仿宮島的楓葉，以麵糊烤成外皮，內餡傳統為紅豆沙，近年也有卡士達、巧克力與起司等多種口味。相傳於明治時期由宮島旅館的菓子師傅創作，成為島上名物。表參道上有多家老店，部分店家可看到現烤製作，甚至有油炸楓葉饅頭。另有穴子飯（星鰻飯）也是宮島名物，與楓葉饅頭一起品嚐最具島上風味。購買時可選單個零售，邊走邊吃，也有盒裝方便攜帶回國。",
+     "facts": [
+      {
+       "label": "形狀",
+       "value": "楓葉形烤饅頭"
+      },
+      {
+       "label": "餡料",
+       "value": "紅豆沙、卡士達、巧克力等"
+      },
+      {
+       "label": "起源",
+       "value": "明治時期（約1900年代前後）"
+      },
+      {
+       "label": "同場推薦",
+       "value": "宮島穴子飯"
+      }
+     ],
+     "best_season_zh": "全年；秋季楓葉季最佳",
+     "tips_zh": "現烤的最好吃；可在表參道比較不同店家的口味與外皮厚度。油炸版需現場食用，最好剛炸好熱熱吃。",
+     "tags": [
+      "伴手禮",
+      "甜點",
+      "宮島",
+      "名物"
+     ],
+     "sources": [
+      "https://en.wikipedia.org/wiki/Momiji_manj%C5%AB",
+      "https://ja.wikipedia.org/wiki/%E3%82%82%E3%81%BF%E3%81%98%E9%A5%85%E9%A0%AD"
+     ],
+     "confidence": "medium",
+     "prompt_en": "Maple leaf shaped baked manju sweets freshly arranged on a wooden tray next to a plate of conger eel rice, warm light, food photography"
+    },
+    "scenery": {
+     "title_zh": "紅葉谷",
+     "title_ja": "紅葉谷",
+     "summary_zh": "彌山山麓的楓葉名所，秋天一片紅黃。",
+     "body_zh": "紅葉谷位於嚴島神社背後、彌山山麓，是宮島秋季賞楓的代表景點，谷中的楓樹與溪流相映成趣。每年11月中旬至下旬是楓葉最盛的時期，吸引大批遊客，紅葉谷公園也是前往彌山纜車站的起點之一。其他季節則是綠意蓊鬱，溪水潺潺，適合在潮間帶漫步後來此小憩。園內也常見野生鹿出沒，請保持距離。不少遊客以紅葉谷為起點，沿著山徑前往彌山，一路都有景可看。山上也有登山步道可供健行，行程可彈性安排。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "宮島彌山山麓"
+      },
+      {
+       "label": "楓葉見頃",
+       "value": "約11月中旬至下旬"
+      },
+      {
+       "label": "特色",
+       "value": "溪流與楓樹"
+      },
+      {
+       "label": "交通",
+       "value": "可步行至紅葉谷公園"
+      }
+     ],
+     "best_season_zh": "秋季（11月）",
+     "tips_zh": "賞楓期人潮多，建議平日早上前往；鹿不要餵食，食物請收好。山徑有石階，建議穿防滑鞋並隨身帶水。",
+     "tags": [
+      "賞楓",
+      "秋景",
+      "宮島",
+      "溪谷"
+     ],
+     "sources": [
+      "https://en.wikipedia.org/wiki/Miyajima"
+     ],
+     "confidence": "medium",
+     "prompt_en": "A mountain stream valley filled with brilliant red and orange maple leaves in autumn, stone path and wooden bridge, soft diffused light"
+    }
+   }
+  },
+  {
+   "id": "hiroshima_onomichi",
+   "name_zh": "尾道",
+   "name_ja": "尾道",
+   "intro_zh": "尾道位於廣島縣東南部，沿著山坡建在海峽北岸，是島波海道的起點。窄坡、古寺與文學足跡交織，也以貓咪與懷舊氣氛聞名，吸引許多喜歡散步的旅人。這裡也出現在許多電影與小說之中。",
+   "items": {
+    "spot": {
+     "title_zh": "千光寺公園與坡道",
+     "title_ja": "千光寺公園",
+     "summary_zh": "俯瞰尾道水道的山頂公園與古寺。",
+     "body_zh": "千光寺位於尾道市區北側的千光寺山，相傳創建於九世紀，朱紅色的本堂依山而建，是尾道的象徵。山麓有空中纜車通往千光寺公園，山頂展望台能遠眺尾道水道與向島，景色開闊。沿山腰有『文學之小路』，路旁立有許多文人的詩句石碑；沿坡道向下則是狹窄巷弄與古民宅，也有不少貓咪散步其間，形成獨特的尾道風景。山腰的『貓之細道』以彩繪石頭貓聞名，是散步時的小驚喜。寺內也有小型展示與茶室。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "廣島縣尾道市"
+      },
+      {
+       "label": "交通",
+       "value": "纜車＋步行"
+      },
+      {
+       "label": "特色",
+       "value": "寺廟、展望台、文學之小路"
+      },
+      {
+       "label": "景觀",
+       "value": "尾道水道與向島"
+      }
+     ],
+     "best_season_zh": "春季櫻花與傍晚",
+     "tips_zh": "坡道多石階，請穿好走的鞋；可由纜車上山、步行下山。紀念品店常賣貓咪周邊，也可順道買尾道帆布包。",
+     "tags": [
+      "古寺",
+      "坡道",
+      "展望台",
+      "尾道"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/%E5%8D%83%E5%85%89%E5%AF%BA_%28%E5%B0%BE%E9%81%93%E5%B8%82%29",
+      "https://en.wikipedia.org/wiki/Onomichi,_Hiroshima"
+     ],
+     "confidence": "medium",
+     "prompt_en": "A hillside temple with a vermilion pavilion overlooking a narrow strait and tiled rooftops at sunset, stone steps and cherry trees"
+    },
+    "food": {
+     "title_zh": "尾道拉麵",
+     "title_ja": "尾道ラーメン",
+     "summary_zh": "醬油雞骨底、背脂與扁細麵的懷舊拉麵。",
+     "body_zh": "尾道拉麵是廣島縣的代表地方拉麵之一，湯底為醬油搭配雞骨與小魚乾（瀨戶內小魚）熬製，上面浮著一層背脂，味道鮮而不膩。麵條常用較扁的細麵，配料有叉燒、蔥與筍乾。據說起源於昭和初期，由中華料理屋與路邊攤發展而來，店家多在老街巷弄之間營業。許多店都有排隊人潮，到尾道散步時順道一嚐最合適。湯頭帶有瀨戶內小魚的香氣，是別處少見的特色，建議配白飯。店家多為老字號，氛圍懷舊。",
+     "facts": [
+      {
+       "label": "湯底",
+       "value": "醬油、雞骨、小魚乾與背脂"
+      },
+      {
+       "label": "麵條",
+       "value": "扁細麵"
+      },
+      {
+       "label": "起源",
+       "value": "昭和初期"
+      },
+      {
+       "label": "配料",
+       "value": "叉燒、蔥、筍乾"
+      }
+     ],
+     "best_season_zh": "全年",
+     "tips_zh": "老店排隊較久，建議避開正午；部分店家週休不定，請事先查詢。麵量偏少，想吃飽可加點叉燒飯或餃子。",
+     "tags": [
+      "拉麵",
+      "醬油湯底",
+      "尾道",
+      "地方美食"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/%E5%B0%BE%E9%81%93%E3%83%A9%E3%83%BC%E3%83%A1%E3%83%B3"
+     ],
+     "confidence": "medium",
+     "prompt_en": "A bowl of shoyu ramen with flat thin noodles, sliced pork, green onion and a film of fat on the broth, steam rising, close-up food photography"
+    },
+    "scenery": {
+     "title_zh": "尾道水道",
+     "title_ja": "尾道水道",
+     "summary_zh": "僅幾百公尺寬的狹窄海峽，渡輪往來。",
+     "body_zh": "尾道水道是本州尾道市與對岸向島之間的狹窄海道，寬度僅約數百公尺，卻是瀨戶內海上重要的航道。海峽上的渡輪每隔數分鐘往返，船、橋、造船廠與山坡民宅構成獨特的港町風景。傍晚時刻，山坡上的民宅亮起燈光，海面映出夕陽餘暉，從千光寺或渡輪上都能欣賞。這裡也是島波海道單車之旅的起點。在商店街旁的海岸步道散步，可近距離看船隻靠岸與漁港日常。對岸也能俯瞰整個港町，視角截然不同。",
+     "facts": [
+      {
+       "label": "位置",
+       "value": "尾道市與向島之間"
+      },
+      {
+       "label": "寬度",
+       "value": "約數百公尺"
+      },
+      {
+       "label": "特色",
+       "value": "渡輪、造船廠、坡地民宅"
+      },
+      {
+       "label": "相關路線",
+       "value": "島波海道起點"
+      }
+     ],
+     "best_season_zh": "日落與黃昏",
+     "tips_zh": "渡輪車資便宜，可搭乘當作短途海上散步；單車可以直接上船。渡輪上可吹海風、拍港町，平日清晨人少。",
+     "tags": [
+      "海峽",
+      "港町",
+      "渡輪",
+      "尾道"
+     ],
+     "sources": [
+      "https://en.wikipedia.org/wiki/Onomichi,_Hiroshima"
+     ],
+     "confidence": "medium",
+     "prompt_en": "A narrow sea strait with a small ferry and hillside houses on the far shore at dusk, shipyard cranes silhouette, warm sky"
+    }
+   }
+  },
+  {
+   "id": "hiroshima_kure",
+   "name_zh": "吳",
+   "name_ja": "呉",
+   "intro_zh": "吳市位於廣島灣東南，自明治時代起因海軍工廠而發展，造船與海軍歷史是城市的核心記憶。如今也有海上自衛隊基地，保留了不少海事文化，是了解日本近代造船的好去處。從廣島市搭JR呉線約一小時可達。",
+   "items": {
+    "spot": {
+     "title_zh": "大和博物館",
+     "title_ja": "大和ミュージアム",
+     "summary_zh": "以十分之一戰艦大和模型為象徵的海事博物館。",
+     "body_zh": "大和博物館（吳市海事歷史科學館）於2005年4月23日開館，館內大廳展示以十分之一比例製作的戰艦大和模型，長約26公尺，是最大特色。展品涵蓋吳市海軍工廠與造船的歷史、近代技術如何轉用於戰後產業，並展示零式艦上戰鬥機與特殊潛航艇等實物。博物館曾因整修閉館，2026年4月重新開放，詳細開放時間與展示內容請以官方資訊為準。旁邊的鐵鯨館展示海上自衛隊的退役潛水艦，可進入艦內參觀。",
+     "facts": [
+      {
+       "label": "開館",
+       "value": "2005年4月23日"
+      },
+      {
+       "label": "所在地",
+       "value": "廣島縣吳市"
+      },
+      {
+       "label": "主要展品",
+       "value": "十分之一戰艦大和模型"
+      },
+      {
+       "label": "近況",
+       "value": "整修後2026年4月重新開放"
+      }
+     ],
+     "best_season_zh": "全年",
+     "tips_zh": "展示內容多，建議預留2至3小時；旅遊旺季可預先購票或確認入場方式。建議上午抵達，避開午後旅行團高峰。",
+     "tags": [
+      "博物館",
+      "造船",
+      "海事歷史",
+      "吳市"
+     ],
+     "sources": [
+      "https://en.wikipedia.org/wiki/Yamato_Museum",
+      "https://ja.wikipedia.org/wiki/%E5%A4%A7%E5%92%8C%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%82%A2%E3%83%A0"
+     ],
+     "confidence": "medium",
+     "prompt_en": "A large detailed scale model of a historic battleship displayed in a high-ceilinged museum hall, dramatic spotlighting, no people in focus"
+    },
+    "food": {
+     "title_zh": "吳海自咖哩",
+     "title_ja": "呉海自カレー",
+     "summary_zh": "傳承海軍餐食傳統的咖哩，各艦船各有配方。",
+     "body_zh": "咖哩傳到日本後，海軍為了預防腳氣病並讓士兵吃得飽，把咖哩列入餐食，這一傳統在吳市延續下來。如今海上自衛隊艦艇常在每週五吃咖哩以作為辨識星期的習慣，吳市因此推出『吳海自咖哩』的地方美食企劃，各店以艦艇的食譜為靈感供應。咖哩通常搭配沙拉與牛奶，帶有軍隊餐食的樸實風格。想吃到各艦船配方可到吳市中心的餐廳探訪。市區餐廳與咖啡館也推出各式咖哩甜點與周邊商品，值得巡訪。",
+     "facts": [
+      {
+       "label": "起源",
+       "value": "日本海軍時代的餐食傳統"
+      },
+      {
+       "label": "特色",
+       "value": "各艦船各有配方"
+      },
+      {
+       "label": "配餐",
+       "value": "常見搭配沙拉與牛奶"
+      },
+      {
+       "label": "所在地",
+       "value": "廣島縣吳市"
+      }
+     ],
+     "best_season_zh": "全年",
+     "tips_zh": "餐廳菜單常標示所對應的艦艇名稱，可挑選有興趣的配方；週末店家較擁擠。有些店只供午餐時段，晚上可能已售完。",
+     "tags": [
+      "咖哩",
+      "海軍",
+      "吳市",
+      "地方美食"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/%E5%91%89%E6%B5%B7%E8%87%AA%E3%82%AB%E3%83%AC%E3%83%BC"
+     ],
+     "confidence": "medium",
+     "prompt_en": "Japanese curry rice with a side salad on a ceramic plate, nautical themed cafe, white tablecloth, warm window light, food photography"
+    },
+    "scenery": {
+     "title_zh": "音戶瀨戶",
+     "title_ja": "音戸の瀬戸",
+     "summary_zh": "狹窄潮汐海峽上的紅色拱橋。",
+     "body_zh": "音戶瀨戶是吳市與倉橋島之間最窄處僅約數十公尺的海峽，潮流湍急，卻是瀨戶內海重要的航道。相傳平清盛於平安末期為縮短航程而開鑿此處，雖屬傳說但廣為人知。海峽上跨著紅色的音戶大橋，橋下可見渡輪與小船往來。清晨日出時分，船影與紅橋倒映在海面，景致特別寧靜，是攝影愛好者喜歡的角度。橋頭有小公園與展望台，可用長鏡頭拍下船隻穿過橋下的瞬間。附近也設有小型資料展示。若遇滿潮或大潮，水流更顯湍急。",
+     "facts": [
+      {
+       "label": "位置",
+       "value": "吳市與倉橋島之間"
+      },
+      {
+       "label": "特色",
+       "value": "最窄處僅數十公尺的潮流海峽"
+      },
+      {
+       "label": "傳說",
+       "value": "平清盛開鑿（傳說）"
+      },
+      {
+       "label": "景觀",
+       "value": "紅色音戶大橋"
+      }
+     ],
+     "best_season_zh": "清晨日出時",
+     "tips_zh": "海峽附近有展望點與公園，可拍到橋與渡輪；潮流強，請勿靠近岸邊。從市區搭巴士前往，班次不多，請先查好時間表。",
+     "tags": [
+      "海峽",
+      "紅橋",
+      "日出",
+      "吳市"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/%E9%9F%B3%E6%88%B8%E3%81%AE%E7%80%AC%E6%88%B8"
+     ],
+     "confidence": "medium",
+     "prompt_en": "A red arch bridge spanning a narrow tidal strait with small boats passing beneath, sunrise haze, calm water reflections"
+    }
+   }
+  }
+ ]
+}

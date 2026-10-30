@@ -1,0 +1,149 @@
+{
+ "id": "hiroshima",
+ "foods": [
+  {
+   "title_zh": "廣島燒",
+   "title_ja": "広島風お好み焼き",
+   "category": "B級美食",
+   "summary_zh": "麵、高麗菜、豬肉層層疊燒，廣島戰後復興的代表美食。",
+   "body_zh": "廣島燒是廣島的鄉土代表，據說戰後約1950年前後從廣島市中央通一帶的攤販街發展起來，被視為原爆後復興的象徵。特色是「疊燒」：先把麵糊薄薄煎成餅皮，再依序疊上高麗菜、豆芽、蔥、豬五花與中華麵或烏龍麵，翻面後用餅皮蓋住蒸烤，最後加蛋，淋上濃稠醬汁。多在鐵板前直接用小鏟子吃，廣島市內有八百家以上的店。",
+   "facts": [
+    {"label": "起源", "value": "戰後約1950年，廣島市中央通攤販街"},
+    {"label": "主要食材", "value": "麵糊餅皮、高麗菜、豆芽、豬五花、麵、雞蛋"},
+    {"label": "吃法", "value": "鐵板上用小鏟子直接吃，淋醬汁"}
+   ],
+   "season_zh": "全年",
+   "where_zh": "廣島市內的お好み焼き專門店與鐵板店",
+   "tags": ["廣島燒", "B級美食", "鐵板", "戰後復興"],
+   "sources": ["https://ja.wikipedia.org/wiki/広島風お好み焼き", "https://ja.wikipedia.org/wiki/広島県"],
+   "confidence": "medium",
+   "prompt_en": "A single Hiroshima-style okonomiyaki on a hot iron griddle, layered with thin crepe, cabbage, pork belly and fried noodles under a fried egg, glossy dark sauce and green onion, small metal spatula beside, warm steamy light, no text"
+  },
+  {
+   "title_zh": "廣島牡蠣",
+   "title_ja": "広島のカキ",
+   "category": "海鮮",
+   "summary_zh": "廣島灣養殖的牡蠣，產量占全國約六成多。",
+   "body_zh": "廣島是日本最大的牡蠣產地，維基百科記載2014年全國牡蠣捕獲量約18萬噸中，廣島縣占約11萬7千噸，約64%。牡蠣養殖始於廣島灣的潮灘，江戶到明治時代，載著牡蠣的「牡蠣船」曾到大阪叫賣。牡蠣冬季最肥美，常見吃法有生食、炭烤、炸牡蠣，以及用味噌圍著鍋邊的土手鍋與牡蠣炊飯。近年也開發出夏天也能吃的三倍體品種。",
+   "facts": [
+    {"label": "起源", "value": "養殖始於廣島灣潮灘，江戶時代已有牡蠣船販售"},
+    {"label": "主要食材", "value": "真牡蠣；土手鍋另用味噌"},
+    {"label": "吃法", "value": "生食、炭烤、炸牡蠣、土手鍋、牡蠣炊飯"}
+   ],
+   "season_zh": "冬季（約10月至3月）",
+   "where_zh": "廣島灣沿岸、宮島口與廣島市內的牡蠣小屋和料理店",
+   "tags": ["牡蠣", "廣島灣", "海鮮", "冬季"],
+   "sources": ["https://ja.wikipedia.org/wiki/カキ_(貝)", "https://ja.wikipedia.org/wiki/広島県"],
+   "confidence": "medium",
+   "prompt_en": "Six freshly shucked plump Hiroshima oysters on crushed ice in a shallow ceramic dish, lemon wedge on the side, dark slate table, soft window light, glistening shells, no text"
+  },
+  {
+   "title_zh": "尾道拉麵",
+   "title_ja": "尾道ラーメン",
+   "category": "麵飯",
+   "summary_zh": "醬油湯頭浮著豬背脂，配扁平麵的備後名物。",
+   "body_zh": "尾道拉麵是廣島縣尾道市一帶備後地方的在地拉麵，特色是醬油底的湯頭上浮著豬背脂，搭配扁平麵，不過各店做法不一，也有用豬骨或雞骨熬湯的店。維基百科提到有兩個系統：1947年台灣出身的朱阿俊在攤販賣的中華麵為源頭之一；另一系統是1990年代福山的珍味廠商推出以雞骨與小沙丁魚熬湯的版本。已有杯麵等商品，全國知名。",
+   "facts": [
+    {"label": "起源", "value": "1947年攤販中華麵為一說；另有1990年代小魚湯頭系統"},
+    {"label": "主要食材", "value": "醬油湯、豬背脂、扁平麵、叉燒"},
+    {"label": "吃法", "value": "趁熱連湯品嚐，湯面浮著背脂"}
+   ],
+   "season_zh": "全年",
+   "where_zh": "尾道市商店街與港邊的拉麵店",
+   "tags": ["尾道", "拉麵", "醬油", "背脂"],
+   "sources": ["https://ja.wikipedia.org/wiki/尾道ラーメン"],
+   "confidence": "medium",
+   "prompt_en": "A single bowl of Onomichi shoyu ramen with clear dark soy broth, floating pork back fat, flat noodles, slices of chashu and chopped scallion, in a white ceramic bowl on a worn wooden counter, steam rising, warm light, no text"
+  },
+  {
+   "title_zh": "宮島穴子飯",
+   "title_ja": "あなごめし",
+   "category": "鄉土料理",
+   "summary_zh": "蒲燒星鰻鋪在飯上，源自宮島口車站便當。",
+   "body_zh": "穴子飯是把蒲燒星鰻鋪在飯上的料理，維基百科指出原型是為山陽本線宮島口站而構想的車站便當，現在已成為宮島名物。星鰻在瀨戶內海出產，烤過後以醬汁調味，鋪在拌有醬汁的米飯上，吃起來鬆軟帶香。宮島口一帶有多家專門店，許多人搭渡輪登島前後會先來一份。關於創始店與年份各說法不一，這裡不作斷定。",
+   "facts": [
+    {"label": "起源", "value": "據說源自宮島口站的車站便當，詳細年份未核實"},
+    {"label": "主要食材", "value": "蒲燒星鰻、米飯、醬汁"},
+    {"label": "吃法", "value": "鋪在飯上趁熱吃，可配山椒"}
+   ],
+   "season_zh": "全年",
+   "where_zh": "宮島口與宮島表參道的鰻魚飯專門店",
+   "tags": ["穴子", "宮島", "便當", "瀨戶內海"],
+   "sources": ["https://ja.wikipedia.org/wiki/アナゴ", "https://ja.wikipedia.org/wiki/宮島口"],
+   "confidence": "low",
+   "prompt_en": "A single lacquered box of Miyajima anago-meshi, glazed grilled conger eel fillets laid over seasoned rice, a small pot of tea and pickles on the side, light wooden table, soft natural light, no text"
+  },
+  {
+   "title_zh": "紅葉饅頭",
+   "title_ja": "もみじ饅頭",
+   "category": "甜點和菓子",
+   "summary_zh": "楓葉形狀的蛋糕皮包餡點心，宮島代表伴手禮。",
+   "body_zh": "紅葉饅頭是廣島宮島最具代表性的和菓子，維基百科記載於1906年（明治39年）由宮島的和菓子師傅高津常助創製，據說起因是紅葉谷旅館「岩惣」的老闆娘希望有特別的點心招待貴賓。用麵粉、雞蛋、砂糖與蜂蜜做成類似蛋糕的外皮，包入餡料，放進楓葉形模具烘烤。最初只有紅豆泥餡，現有抹茶、起司、奶油、竹炭黑皮與炸紅葉等多種變化。",
+   "facts": [
+    {"label": "起源", "value": "1906年由宮島的高津常助創製"},
+    {"label": "主要食材", "value": "麵粉、雞蛋、砂糖、蜂蜜、紅豆餡"},
+    {"label": "吃法", "value": "現烤趁熱吃或當伴手禮；另有炸紅葉"}
+   ],
+   "season_zh": "全年",
+   "where_zh": "宮島表參道與廣島縣內的和菓子店",
+   "tags": ["饅頭", "宮島", "和菓子", "伴手禮"],
+   "sources": ["https://ja.wikipedia.org/wiki/もみじ饅頭"],
+   "confidence": "high",
+   "prompt_en": "Several maple-leaf shaped momiji manju cakes stacked on a small ceramic plate, one broken open to show smooth red bean paste, green tea in a small cup beside, wooden tray, soft diffused light, no text"
+  },
+  {
+   "title_zh": "廣島檸檬",
+   "title_ja": "瀬戸内・広島レモン",
+   "category": "特產食材",
+   "summary_zh": "瀨戶內島嶼栽培，占日本國產檸檬六成。",
+   "body_zh": "廣島縣是日本檸檬的最大產地，維基百科記載2013年統計約占國內生產約61%。主要產地是瀨戶內海的島嶼，尤其是尾道的生口島（舊瀨戶田町）與吳市大崎下島的大長地區。1899年檸檬苗木從和歌山縣傳入芸予諸島，後來因進口自由化與寒潮一度衰退，再因重視食品安全而復興。以「瀨戶內・廣島檸檬」品牌出貨，常用於調味、檸檬蛋糕與飲品。",
+   "facts": [
+    {"label": "起源", "value": "1899年自和歌山傳入芸予諸島"},
+    {"label": "主要食材", "value": "檸檬（可連皮食用的國產低農藥栽培居多）"},
+    {"label": "吃法", "value": "榨汁調味、檸檬蛋糕、檸檬汽水"}
+   ],
+   "season_zh": "約10月至翌年4月",
+   "where_zh": "尾道生口島、吳市大崎下島一帶",
+   "tags": ["檸檬", "瀨戶內", "生口島", "特產"],
+   "sources": ["https://ja.wikipedia.org/wiki/レモン"],
+   "confidence": "medium",
+   "prompt_en": "A wooden crate of freshly picked bright yellow Setouchi lemons with glossy green leaves, one lemon sliced in half in front, sunlit stone terrace, calm sea blurred behind, no text"
+  },
+  {
+   "title_zh": "西條清酒",
+   "title_ja": "西条の酒",
+   "category": "酒與飲品",
+   "summary_zh": "與伏見、灘並稱三大酒處的釀酒小鎮。",
+   "body_zh": "西條位於東廣島市，是廣島的釀酒重鎮，維基百科稱其與京都伏見、兵庫灘並列為日本三大酒處。龍王山流下的中硬水適合釀酒，加上日夜溫差大，使釀造業得以發展。鎮上有磚造酒藏林立的「酒藏通」，每年10月舉辦酒祭（1990年起），1995年國稅廳釀造研究所也遷到西條。口味以柔和甘潤為人所知，適合搭配瀨戶內海鮮。",
+   "facts": [
+    {"label": "起源", "value": "酒藏聚集於東廣島市西條，確切年份未核實"},
+    {"label": "主要食材", "value": "米、龍王山水系的中硬水"},
+    {"label": "時節", "value": "10月舉辦酒祭"}
+   ],
+   "season_zh": "酒祭在10月，全年可喝",
+   "where_zh": "東廣島市西條的酒藏通與各酒造",
+   "tags": ["清酒", "西條", "酒藏", "酒祭"],
+   "sources": ["https://ja.wikipedia.org/wiki/西条_(東広島市)"],
+   "confidence": "medium",
+   "prompt_en": "A small white sake bottle and a ceramic ochoko cup on a dark wooden tray, brick sake brewery wall and cedar sugidama ball softly blurred behind, warm evening light, no text"
+  },
+  {
+   "title_zh": "廣島菜漬",
+   "title_ja": "広島菜漬",
+   "category": "鄉土料理",
+   "summary_zh": "帶微辣的廣島菜醃漬物，日本三大漬菜之一。",
+   "body_zh": "廣島菜是十字花科葉菜，葉色翠綠、口感爽脆，帶有微微辛辣味。維基百科記載其名稱在1933年確立，傳說明治時期居民取得京菜種子後育種而成，主要在廣島縣北部種植。傳統上做成重度發酵的醃漬物，戰後轉為口味較淡的漬法，與高菜、野澤菜並稱日本三大漬菜。除了配白飯，也可切碎拌飯、包飯糰，近年還有做成拌飯香鬆的新吃法。",
+   "facts": [
+    {"label": "起源", "value": "明治時期由京菜種子育種，名稱1933年確立"},
+    {"label": "主要食材", "value": "廣島菜、鹽"},
+    {"label": "吃法", "value": "配白飯、切碎拌飯、包飯糰"}
+   ],
+   "season_zh": "冬季收成醃漬",
+   "where_zh": "廣島縣北部產地與廣島市的土產店",
+   "tags": ["漬物", "廣島菜", "鄉土料理", "發酵"],
+   "sources": ["https://ja.wikipedia.org/wiki/広島菜"],
+   "confidence": "medium",
+   "prompt_en": "A small ceramic dish of vivid green pickled Hiroshima-na mustard greens, chopped and glossy, beside a bowl of steaming white rice, simple wooden table, soft side light, no text"
+  }
+ ]
+}

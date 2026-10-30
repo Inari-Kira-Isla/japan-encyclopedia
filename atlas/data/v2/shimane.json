@@ -1,0 +1,766 @@
+{
+ "id": "shimane",
+ "name_zh": "島根",
+ "name_ja": "島根",
+ "region": "中國",
+ "overview": {
+  "intro_zh": "島根縣位於本州西部的日本海沿岸，包含東部的出雲、西部的石見與外海的隱岐諸島，人口約64萬。出雲大社是日本最古老的神社之一，被視為諸神聚集的地方，因而有「神話之國」之稱；松江城是現存十二座天守之一，並於2015年升格為國寶；石見銀山在2007年登錄為世界遺產。再加上宍道湖的夕陽、出雲蕎麥與隱岐的壯麗海蝕崖，是一個歷史、神話與自然並存的縣份。",
+  "capital_zh": "松江市",
+  "area_km2": 6708,
+  "population_approx": "約64萬",
+  "flower_zh": "牡丹",
+  "bird_zh": "天鵝（ハクチョウ）",
+  "tree_zh": "黑松",
+  "climate_zh": "日本海側氣候，冬季多雲多雪，夏季悶熱；隱岐受對馬暖流影響較溫和。",
+  "access_zh": "空路可抵出雲緣結機場或石見機場；鐵路自岡山搭特急「八雲」約三小時至松江、出雲市。",
+  "specialties_zh": [
+   "出雲蕎麥",
+   "宍道湖蜆",
+   "赤鯥（のどぐろ）",
+   "隱岐岩牡蠣",
+   "石見神樂"
+  ],
+  "best_season_zh": "10月「神在月」最具神話氣氛；春秋氣候宜人，夏季適合隱岐。"
+ },
+ "items": {
+  "architecture": {
+   "title_zh": "出雲大社",
+   "title_ja": "出雲大社",
+   "summary_zh": "日本最古老神社之一，擁有巨大注連繩的神樂殿。",
+   "body_zh": "出雲大社祭祀大國主大神，被視為日本最古老的神社之一，創建年代已無明確紀錄，傳說比伊勢神宮更早。現今的本殿高約24公尺，歷史上曾有更高的記載。神樂殿的大注連繩長約13.5公尺、重約5噸，是日本最大級的注連繩。日本人相信農曆十月諸神聚集於此，所以出雲稱十月為「神在月」。參拜方式為二拜四拍手一拜，與一般神社的二拜二拍手不同。境內松林成蔭、參道寬闊，另有各座攝社與寶物殿可一併參觀，整體需預留半天時間，才能細細體會這座古社的氣氛。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "島根縣出雲市大社町"
+    },
+    {
+     "label": "祭神",
+     "value": "大國主大神"
+    },
+    {
+     "label": "特色",
+     "value": "大注連繩（約13.5公尺）"
+    },
+    {
+     "label": "拜法",
+     "value": "二拜四拍手一拜"
+    }
+   ],
+   "best_season_zh": "全年（神在月氣氛最濃）",
+   "tips_zh": "參拜時從正門走進參道，約需一小時以上；神在月前後人潮多，建議提早到達或平日前往。",
+   "tags": [
+    "神社",
+    "大國主",
+    "注連繩",
+    "緣結"
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Izumo-taisha"
+   ],
+   "confidence": "high",
+   "prompt_en": "A grand Shinto shrine hall with an enormous twisted sacred straw rope hanging at its entrance, gravel path, tall cedar trees, soft morning light"
+  },
+  "food": {
+   "title_zh": "出雲蕎麥",
+   "title_ja": "出雲そば（割子そば）",
+   "summary_zh": "以圓形漆器分裝的深色蕎麥，是島根代表麵食。",
+   "body_zh": "出雲蕎麥連殼磨粉，麵色偏深、香氣濃郁，最具代表的吃法是「割子そば」：把冷麵盛在圓形漆器中，通常疊成三層，淋上醬汁，加蔥花與蘿蔔泥，一層吃完後再把剩下的醬汁倒入下一層。相傳松江藩主松平直政於1666年從信州帶來蕎麥職人，使蕎麥文化擴及出雲地區，與岩手的碗子蕎麥、長野的戶隱蕎麥並稱日本三大蕎麥。另有熱湯麵配蕎麥湯的「釜揚げそば」。當地蕎麥店多附設自家製麵，講究水質與手打口感，也常提供蕎麥冰淇淋與蕎麥湯圓等點心，值得一併嘗試。",
+   "facts": [
+    {
+     "label": "特色",
+     "value": "連殼磨粉，麵色深"
+    },
+    {
+     "label": "名物吃法",
+     "value": "三層割子、釜揚げ"
+    },
+    {
+     "label": "相傳起源",
+     "value": "1666年松平直政"
+    }
+   ],
+   "best_season_zh": "全年（新蕎麥秋季）",
+   "tips_zh": "割子一般三層，若想吃飽可加點；吃完後可請店家提供蕎麥湯，加入剩下的醬汁當作收尾飲用。",
+   "tags": [
+    "蕎麥",
+    "漆器",
+    "出雲",
+    "鄉土料理"
+   ],
+   "sources": [
+    "https://hoshinoresorts.com/jp/guide/area/chugoku/shimane/izumo/izumo-soba/"
+   ],
+   "confidence": "medium",
+   "prompt_en": "Three stacked round red lacquer bowls of cold buckwheat noodles with scallions and grated radish on a wooden tray, top-down food photograph"
+  },
+  "culture": {
+   "title_zh": "石見神樂",
+   "title_ja": "石見神楽",
+   "summary_zh": "石見地區夜通宵演出的神話神樂，以大蛇最具人氣。",
+   "body_zh": "石見神楽是流傳於島根縣西部石見地區（並及廣島北部）的傳統表演，原是神社祭禮時夜晚奉納的里神樂，現今仍有一百多個團體傳承。劇目約有三十種，多取材神話，最受歡迎的是「大蛇」，演員穿華麗刺繡衣裳、手持面具，操縱巨大的蛇身，配上激烈的鼓與笛，節奏明快。與一般神樂相比，石見神樂速度較快，近年也發展成觀光表演，在大型活動中常見。觀眾可以近距離欣賞面具與衣裳的精細刺繡，演出中常有煙霧與鼓聲營造氣氛，是了解島根民間信仰的生動入口。",
+   "facts": [
+    {
+     "label": "地區",
+     "value": "島根縣西部石見地區"
+    },
+    {
+     "label": "團體",
+     "value": "一百多個"
+    },
+    {
+     "label": "劇目",
+     "value": "約30種（大蛇最有名）"
+    },
+    {
+     "label": "樂器",
+     "value": "大鼓、小鼓、笛、手拍子"
+    }
+   ],
+   "best_season_zh": "秋季祭典（10–11月）",
+   "tips_zh": "傳統神樂多在秋季夜晚的神社祭禮演出，也有常設舞台；觀賞前可先查當地觀光網站的演出日。",
+   "tags": [
+    "神樂",
+    "大蛇",
+    "民俗藝能",
+    "石見"
+   ],
+   "sources": [
+    "https://www.mlit.go.jp/tagengo-db/en/R2-00291.html",
+    "https://www.japan.travel/tw/spot/2201/"
+   ],
+   "confidence": "medium",
+   "prompt_en": "A dynamic stage performance of traditional Japanese dance with a huge dragon-like serpent costume in gold and red embroidery, dramatic lighting, rhythmic movement blur"
+  },
+  "history": {
+   "title_zh": "石見銀山",
+   "title_ja": "石見銀山",
+   "summary_zh": "曾為日本最大銀礦的世界遺產礦山城。",
+   "body_zh": "石見銀山據載於1526年由神屋壽禎開發，營運近四個世紀，1923年關閉，是日本史上最大的銀礦。最盛期在17世紀初，年產量約38噸，約占當時日本產銀量的五分之一，石見產的白銀是東亞貿易的重要貨幣，曾與中國、葡萄牙、荷蘭交易。2007年登錄為世界遺產「石見銀山遺跡及其文化景觀」，範圍涵蓋約600處礦坑、山城、港口與運輸道路。開發時採取節制砍伐，山林得以保存。今日在大森町漫步，仍可見到昔日礦山街道與武家屋敷的遺跡，建議穿著舒適步行鞋，並預留半日以上的行程。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "島根縣大田市"
+    },
+    {
+     "label": "發現",
+     "value": "1526年"
+    },
+    {
+     "label": "關閉",
+     "value": "1923年"
+    },
+    {
+     "label": "世界遺產",
+     "value": "2007年"
+    }
+   ],
+   "best_season_zh": "春季與秋季",
+   "tips_zh": "部分礦坑（如龍源寺間步）可入內參觀，需步行；可租腳踏車逛大森町，穿好走路的鞋子。",
+   "tags": [
+    "世界遺產",
+    "銀礦",
+    "大森町",
+    "礦山遺跡"
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Iwami_Ginzan_Silver_Mine"
+   ],
+   "confidence": "high",
+   "prompt_en": "An old silver mine tunnel entrance cut into a green mountainside with a quiet historic stone path, dappled forest light, nobody in view"
+  },
+  "mascot": {
+   "title_zh": "島根吉祥物",
+   "title_ja": "しまねっこ",
+   "summary_zh": "以貓、神社屋頂與注連繩為設計的島根縣吉祥物。",
+   "body_zh": "島根縣的吉祥物「しまねっこ」是一隻貓，名稱結合縣名「島根」與日文「ねこ」。造型上，頭上戴著神社屋頂風格的帽子，脖子繫著注連繩，呼應縣內出雲大社與神話文化，常在縣內活動與觀光宣傳中登場。縣內另有各市町村的在地角色，不過這個角色最常出現在縣級宣傳。本頁不重現任何既有商標吉祥物，而創作一個靈感來自天鵝、蜆與緋紅圍巾的原創角色。在機場、車站與觀光案內所常見角色造型的紀念品與點心，也適合作為輕鬆的伴手禮，帶回去與家人朋友分享。",
+   "facts": [
+    {
+     "label": "角色",
+     "value": "しまねっこ（貓）"
+    },
+    {
+     "label": "意象",
+     "value": "神社屋頂帽、注連繩"
+    },
+    {
+     "label": "用途",
+     "value": "縣觀光宣傳"
+    }
+   ],
+   "best_season_zh": "全年",
+   "tips_zh": "縣內車站與特產店常有角色周邊商品，可順手帶幾件當伴手禮，也可在觀光案內所索取地圖與簡介。",
+   "tags": [
+    "吉祥物",
+    "貓",
+    "神社",
+    "原創角色"
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Shimanekko",
+    "https://www.visit-matsue.com/more/know_more/symbols_and_mascots"
+   ],
+   "confidence": "medium",
+   "prompt_en": "An original cute character shaped like a small plump swan with a clam shell on its head and a shimmering red scarf, kawaii style, not replicating any existing trademarked mascot"
+  },
+  "scenery": {
+   "title_zh": "宍道湖夕陽",
+   "title_ja": "宍道湖の夕日",
+   "summary_zh": "日本夕陽名所，湖面映照紅橙天空與嫁島剪影。",
+   "body_zh": "宍道湖是位於島根縣東北部的汽水潟湖，周長約48公里，為日本第七大湖，湖水混有淡水與海水。2005年登錄為拉姆薩爾濕地。湖中有小島「嫁島」，日落時分天空與水面染成橘紅，小島與松樹的剪影成為經典畫面，被視為日本夕陽名所之一。湖岸有松江城、散步道與觀景處，從松江市區步行可達，傍晚是最佳拍攝時段。湖岸還有展望館與散步道，傍晚時分聚集不少攝影愛好者，天空層次分明，夕陽沒入湖面的瞬間十分壯觀。",
+   "facts": [
+    {
+     "label": "類型",
+     "value": "汽水潟湖"
+    },
+    {
+     "label": "周長",
+     "value": "約48公里"
+    },
+    {
+     "label": "拉姆薩爾",
+     "value": "2005年登錄"
+    },
+    {
+     "label": "名景",
+     "value": "嫁島夕陽"
+    }
+   ],
+   "best_season_zh": "秋冬日落（約17–18時）",
+   "tips_zh": "夕陽時刻依季節不同，可先查日落時間，提早半小時卡位；風大時湖畔較冷，需多帶一件外套。",
+   "tags": [
+    "湖",
+    "夕陽",
+    "嫁島",
+    "潟湖"
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Lake_Shinji"
+   ],
+   "confidence": "high",
+   "prompt_en": "A broad calm lake at sunset with a lone small islet and silhouetted pine tree, glowing orange and pink sky reflected on water"
+  },
+  "spot": {
+   "title_zh": "松江城",
+   "title_ja": "松江城",
+   "summary_zh": "現存十二座天守之一，2015年升格國寶的黑色木造城堡。",
+   "body_zh": "松江城天守於1607年起建，1611年完成，是日本僅存十二座天守之一，外牆為黑色下見板，又稱「千鳥城」。天守在2015年7月指定為國寶，是日本第五座國寶城。登上天守可遠眺宍道湖與市區，城下護城河環繞，周邊保留武家屋敷街區，並有小泉八雲舊居。城山一帶種有櫻花，春季人潮多，夜間有點燈。天守內展示著當年的武具與城主資料，登頂可眺望宍道湖與松江市區全景，是了解松江歷史與地形的最好位置。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "島根縣松江市殿町"
+    },
+    {
+     "label": "完成",
+     "value": "1611年"
+    },
+    {
+     "label": "指定",
+     "value": "國寶（2015年）"
+    },
+    {
+     "label": "別名",
+     "value": "千鳥城"
+    }
+   ],
+   "best_season_zh": "春季櫻花與秋季",
+   "tips_zh": "天守內階梯陡峭，需脫鞋或穿著易行走的服裝；可搭堀川遊覽船，由水路欣賞城牆與護城河。",
+   "tags": [
+    "天守",
+    "國寶",
+    "護城河",
+    "城下町"
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Matsue_Castle"
+   ],
+   "confidence": "high",
+   "prompt_en": "A black-timbered Japanese castle keep with layered roofs standing above a moat, willow trees and a small passenger boat, clear blue sky"
+  },
+  "experience": {
+   "title_zh": "堀川遊覽船",
+   "title_ja": "堀川めぐり",
+   "summary_zh": "在松江城護城河乘小船穿越低矮石橋。",
+   "body_zh": "堀川遊覽船在松江城周圍的護城河上航行，繞行一圈約需五十分鐘，船夫會一邊划船一邊講解沿途風景。河上有多座低矮橋樑，通過時船篷會降下，乘客需低頭。沿途經過武家屋敷、城牆與柳樹，四季景色不同，櫻花與紅葉季尤其受歡迎。遊覽船由城附近多個乘船處出發，是從水路認識松江城下町的簡單方式。船夫的導覽語帶幽默，常會提醒乘客拍照時機，沿途還能看到城牆倒映水面與岸邊居民的生活景象，頗有意思。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "松江城周邊護城河"
+    },
+    {
+     "label": "耗時",
+     "value": "約50分鐘"
+    },
+    {
+     "label": "特色",
+     "value": "過低橋時需低頭"
+    }
+   ],
+   "best_season_zh": "春、秋",
+   "tips_zh": "通過低橋時船篷會下降，要順著船夫指示低頭；冬季有暖爐船，雨天一般也照常航行但看水位。",
+   "tags": [
+    "遊船",
+    "護城河",
+    "櫻花",
+    "松江"
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Matsue_Castle",
+    "https://www.visit-matsue.com/more/know_more/symbols_and_mascots"
+   ],
+   "confidence": "low",
+   "prompt_en": "A small flat-roofed boat floating along a castle moat beneath a low stone bridge, passengers seen from behind, willow branches overhead, calm afternoon"
+  },
+  "costume": {
+   "title_zh": "出雲神前婚禮的白無垢",
+   "title_ja": "出雲の装い（白無垢）",
+   "summary_zh": "以出雲大社的緣結信仰聯想的神前婚禮裝束。",
+   "body_zh": "出雲被稱為「緣結之地」，出雲大社祭祀掌管緣分的大國主大神，因此許多日本人視其為祈求良緣的聖地，也有人選擇在神前舉行婚禮。新娘傳統穿著的白無垢是純白打褂，頭戴綿帽子或角隱，象徵純潔與新生，新郎則穿紋付羽織袴。此類服飾與神前式儀式相關，具體服務與預約方式須向神社或旅行社查詢，本圖以無名模特兒呈現白無垢的整體氣質。白無垢的潔白與緞面光澤，在神社的松林與石燈籠背景下特別柔和，也展現日本傳統婚禮服飾的細膩工藝與象徵意義。",
+   "facts": [
+    {
+     "label": "意象",
+     "value": "緣結、神前式"
+    },
+    {
+     "label": "服飾",
+     "value": "白無垢、綿帽子"
+    },
+    {
+     "label": "地點",
+     "value": "出雲大社周邊"
+    }
+   ],
+   "best_season_zh": "全年（吉日較多）",
+   "tips_zh": "若想拍攝或參觀神前式，請事先向神社與業者查詢規定，不要擅自打擾正式儀式，也避免閃光燈。",
+   "tags": [
+    "白無垢",
+    "緣結",
+    "神前式",
+    "傳統服飾"
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Izumo-taisha"
+   ],
+   "confidence": "low",
+   "prompt_en": "An anonymous model in a pure white traditional wedding kimono with a wide-brimmed hood standing before a shrine gate, soft diffuse light, formal portrait composition"
+  }
+ },
+ "areas": [
+  {
+   "id": "shimane_izumo",
+   "name_zh": "出雲",
+   "name_ja": "出雲",
+   "intro_zh": "出雲市位於島根縣東部，以出雲大社為中心，是日本神話中大國主命統治的舞台。旅人可以參拜神社、走訪稻佐之濱的迎神儀式地點，也能吃到出雲蕎麥與善哉等在地美食。10月稱「神在月」，是全國諸神聚會的傳說時期。",
+   "items": {
+    "spot": {
+     "title_zh": "出雲大社參道",
+     "title_ja": "出雲大社・神門通り",
+     "summary_zh": "出雲大社前通往正殿的神門通商店街。",
+     "body_zh": "神門通是通往出雲大社的主要參道，兩旁有土產店、蕎麥店與咖啡店，是參拜前後逛街的好去處。出雲大社祭祀大國主大神，被視為日本最古老的神社之一，農曆十月諸神聚集於此，當地稱此月為「神在月」。從神門通走到本殿，可以看到寬廣的松林參道與銅鳥居，沿路能體會神社的莊嚴氣氛。參道上也有各式名物，包括蕎麥、善哉與當地手作的御守，適合在參拜前後慢慢逛，順便尋找適合旅行紀念的小物。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "出雲市大社町"
+      },
+      {
+       "label": "特色",
+       "value": "土產、蕎麥、咖啡"
+      },
+      {
+       "label": "相關",
+       "value": "出雲大社"
+      }
+     ],
+     "best_season_zh": "全年",
+     "tips_zh": "參拜前後逛街，可品嘗當地蕎麥與甜點；神在月前後人潮多，建議平日前往或提早到達，行程更順利。",
+     "tags": [
+      "參道",
+      "商店街",
+      "神社"
+     ],
+     "sources": [
+      "https://en.wikipedia.org/wiki/Izumo-taisha"
+     ],
+     "confidence": "medium",
+     "prompt_en": "A broad approach road lined with shops and pine trees leading to a Shinto shrine gate, soft morning light"
+    },
+    "food": {
+     "title_zh": "出雲善哉",
+     "title_ja": "出雲ぜんざい（神在餅）",
+     "summary_zh": "據傳為善哉起源的紅豆年糕湯。",
+     "body_zh": "出雲地區流傳「ぜんざい」（紅豆年糕湯）源自神在祭時供奉的「神在餅」，出雲方言中的「ずーざい」轉音成「善哉」，因而被視為其發源地之說。這種說法在地方上流傳甚廣，但嚴謹的起源說法並非單一。如今在出雲大社周邊的茶屋、甜點店，可以吃到暖呼呼的紅豆年糕湯，成為參拜後的小點心。有些茶屋還保留傳統作法，用炭火烤餅，搭配濃稠的紅豆湯，外酥內軟，更添一層香氣，值得細細品嚐，暖身又暖心。",
+     "facts": [
+      {
+       "label": "特色",
+       "value": "紅豆年糕湯"
+      },
+      {
+       "label": "傳說",
+       "value": "神在餅起源說"
+      },
+      {
+       "label": "地點",
+       "value": "出雲大社周邊茶屋"
+      }
+     ],
+     "best_season_zh": "秋冬",
+     "tips_zh": "冬季特別適合暖身；起源說法屬地方傳說，品嘗時可當作文化趣味，不必太拘泥於真偽，行程更順利。",
+     "tags": [
+      "甜點",
+      "紅豆",
+      "神在餅"
+     ],
+     "sources": [
+      "https://en.wikipedia.org/wiki/Izumo,_Shimane"
+     ],
+     "confidence": "low",
+     "prompt_en": "A lacquer bowl of sweet red bean soup with soft mochi, steam rising, wooden table in a traditional tea house, warm light"
+    },
+    "scenery": {
+     "title_zh": "稻佐之濱",
+     "title_ja": "稲佐の浜",
+     "summary_zh": "傳說眾神登陸的海灘，弁天島矗立海中。",
+     "body_zh": "稻佐之濱位於出雲大社西側，是日本神話中「國讓」的舞台，也是神在月時迎接諸神的神迎神事舉行地點。海邊有一座小岩島「弁天島」，島上建有小祠，日落時與海面相映成趣。沙灘開闊，是島根縣內有名的夕陽景點，可與出雲大社一同安排。每年神在月，這片沙灘會舉行迎接諸神的儀式，夜晚點起篝火，氣氛神聖，是出雲最具神話色彩的場景。海面在黃昏時呈現金色，弁天島的剪影與海浪聲搭配，使這片沙灘成為島根縣內最具神話氣氛的海岸之一，值得停留。",
+     "facts": [
+      {
+       "label": "位置",
+       "value": "出雲大社西側海岸"
+      },
+      {
+       "label": "神事",
+       "value": "神迎神事（神在月）"
+      },
+      {
+       "label": "名景",
+       "value": "弁天島、日落"
+      }
+     ],
+     "best_season_zh": "傍晚",
+     "tips_zh": "日落時段拍照最佳，海邊風大時沙子易吹起，要照顧好相機；夜間迎神事請遵守現場規範。",
+     "tags": [
+      "海灘",
+      "夕陽",
+      "神話"
+     ],
+     "sources": [
+      "https://en.wikipedia.org/wiki/Izumo-taisha"
+     ],
+     "confidence": "medium",
+     "prompt_en": "A sandy beach with a small rocky islet topped by a tiny shrine at sunset, golden sea, gentle waves"
+    }
+   }
+  },
+  {
+   "id": "shimane_matsue",
+   "name_zh": "松江",
+   "name_ja": "松江",
+   "intro_zh": "松江市是島根縣縣廳所在地，位於宍道湖與中海之間，以松江城、護城河與湖畔景色聞名。這裡也是小泉八雲（拉夫卡迪奧·赫恩）曾居住過的城市，保留了不少城下町的風情，茶道文化亦盛，適合慢遊。",
+   "items": {
+    "spot": {
+     "title_zh": "小泉八雲舊居",
+     "title_ja": "小泉八雲旧居",
+     "summary_zh": "文學家小泉八雲在松江居住過的武家屋敷。",
+     "body_zh": "小泉八雲（拉夫卡迪奧·赫恩）於1890年來到松江任教，隔年遷往熊本。他在松江居住期間曾住在城旁的武家屋敷，如今舊居與紀念館保存下來，位於松江城北側的塩見縄手一帶。屋敷內有庭園與居室，展示八雲的生平與其對日本民俗的記述，是認識松江文學與歷史的好去處。舊居旁還有紀念館，展出八雲的遺物、手稿與當年的生活照片，也介紹他所記錄的松江傳說與民間故事。紀念館內也展出小泉八雲在松江的生活軌跡，以及他寫下的怪談與民間故事，讓人更容易想像當年的街景。",
+     "facts": [
+      {
+       "label": "人物",
+       "value": "小泉八雲（赫恩）"
+      },
+      {
+       "label": "居住",
+       "value": "1890至1891年（約一年）"
+      },
+      {
+       "label": "位置",
+       "value": "松江城北側武家屋敷區"
+      }
+     ],
+     "best_season_zh": "全年",
+     "tips_zh": "與堀川遊覽船和松江城安排在同一天，步行即可抵達；入館前先確認開放時間與休館日，行程更順利。",
+     "tags": [
+      "文學",
+      "武家屋敷",
+      "小泉八雲"
+     ],
+     "sources": [
+      "https://en.wikipedia.org/wiki/Lafcadio_Hearn",
+      "https://en.wikipedia.org/wiki/Matsue"
+     ],
+     "confidence": "medium",
+     "prompt_en": "A traditional samurai residence with a small moss garden and sliding paper doors, afternoon light, quiet atmosphere"
+    },
+    "food": {
+     "title_zh": "宍道湖七珍與蜆湯",
+     "title_ja": "宍道湖七珍・しじみ汁",
+     "summary_zh": "宍道湖特產蜆湯，湯頭清鮮。",
+     "body_zh": "宍道湖特產的大和蜆是島根縣的名物，蜆湯湯頭清鮮、常被視為宿醉的良方。宍道湖還有「七珍」的說法，指鱸魚、日本沼蝦、鰻魚、白鷺魚、鯉魚、白魚與蜆等七種湖產，湖畔餐廳會製作成料理。蜆肉雖小但味道濃郁，加入味噌湯可讓湯頭鮮甜，是旅途中很值得嘗試的地方美食。湖畔不少料理店會將蜆做成味噌湯、燉飯與燒烤，湖產店也提供小盤七珍組合，一次吃到不同滋味，非常划算。建議搭配當地清酒或日本茶，味道更為協調。",
+     "facts": [
+      {
+       "label": "特產",
+       "value": "大和蜆"
+      },
+      {
+       "label": "七珍",
+       "value": "鱸魚、沼蝦、鰻魚等"
+      },
+      {
+       "label": "吃法",
+       "value": "蜆湯、燒烤"
+      }
+     ],
+     "best_season_zh": "冬季（蜆最肥美）",
+     "tips_zh": "品嘗時可請店家介紹各道湖產，並注意部分料理含有小骨；冬季蜆最肥美，是首選季節，行程更順利。",
+     "tags": [
+      "蜆",
+      "湖產",
+      "鄉土料理"
+     ],
+     "sources": [
+      "https://en.wikipedia.org/wiki/Lake_Shinji"
+     ],
+     "confidence": "medium",
+     "prompt_en": "A bowl of clear shijimi clam miso soup with tiny clams, in a traditional lacquer bowl, soft light, close-up"
+    },
+    "scenery": {
+     "title_zh": "塩見縄手武家屋敷街",
+     "title_ja": "塩見縄手",
+     "summary_zh": "護城河邊的黑塀與松樹，保留城下町風情。",
+     "body_zh": "塩見縄手是松江城北側沿護城河延伸的街區，保留江戶時代武家屋敷的面貌，黑色板牆與松樹沿著水道排列，被稱為「日本の道百選」之一。這裡可以走到小泉八雲舊居與武家屋敷，河上還有遊覽船經過，景色寧靜。無論晴天或雨天，都能感受城下町的氣氛。街區與護城河相鄰，白天可走到松江城，傍晚光線溫和，木板牆與松樹的影子拉長，氣氛格外寧靜。沿路還有茶屋與咖啡店可休息，若逢櫻花季，黑色板牆與櫻花、水面倒影相映，是松江最受歡迎的拍照角度。",
+     "facts": [
+      {
+       "label": "位置",
+       "value": "松江城北側護城河沿線"
+      },
+      {
+       "label": "特色",
+       "value": "黑板牆、松樹、護城河"
+      },
+      {
+       "label": "相關",
+       "value": "小泉八雲舊居"
+      }
+     ],
+     "best_season_zh": "春、秋",
+     "tips_zh": "步行約一小時可走完，可配合遊覽船；雨天石板路滑，宜穿防滑鞋，傍晚逛起來最舒服，行程更順利。",
+     "tags": [
+      "城下町",
+      "護城河",
+      "散步"
+     ],
+     "sources": [
+      "https://en.wikipedia.org/wiki/Matsue_Castle"
+     ],
+     "confidence": "low",
+     "prompt_en": "A quiet castle-town street beside a moat with black wooden fences and pine trees, soft afternoon light"
+    }
+   }
+  },
+  {
+   "id": "shimane_iwami",
+   "name_zh": "石見",
+   "name_ja": "石見",
+   "intro_zh": "石見地區位於島根縣西部，以世界遺產石見銀山為代表，保留了古老的礦山街道與傳統街屋。這一帶也是石見神樂的故鄉，並有濱田漁港出產的赤鯥等海鮮，旅程可兼顧歷史、藝能與美食。",
+   "items": {
+    "spot": {
+     "title_zh": "龍源寺間步",
+     "title_ja": "龍源寺間歩",
+     "summary_zh": "世界遺產中可入內參觀的銀礦坑道。",
+     "body_zh": "龍源寺間步是石見銀山中少數開放給遊客入內的礦坑，坑道以人工鑿成，內壁可見鑿痕，狹窄處需彎身通過，內部以燈光照明。這是江戶時代採礦技術的實物證據，沿著坑道可以體會礦工的工作環境。石見銀山自2007年登錄為世界遺產，坑道所在區域步行約數十分鐘，需穿好鞋子。坑道出口接上山路，可順走至附近的寺院與石窟，沿途杉木與苔蘚密布，整段行程約一至兩小時，體力需求不高。入口附近設有售票處與說明牌，可先了解坑道歷史再入內。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "島根縣大田市"
+      },
+      {
+       "label": "特色",
+       "value": "人工鑿成的礦坑"
+      },
+      {
+       "label": "世界遺產",
+       "value": "石見銀山（2007年）"
+      }
+     ],
+     "best_season_zh": "春秋",
+     "tips_zh": "礦坑內較涼，夏天也可帶薄外套；坑道狹窄，彎腰通過時要注意頭部，並穿好步行鞋，行程更順利。",
+     "tags": [
+      "礦坑",
+      "世界遺產",
+      "江戶時代"
+     ],
+     "sources": [
+      "https://en.wikipedia.org/wiki/Iwami_Ginzan_Silver_Mine"
+     ],
+     "confidence": "medium",
+     "prompt_en": "A narrow hand-carved silver mine tunnel with lantern lighting, rough rock walls, visitors seen from behind"
+    },
+    "food": {
+     "title_zh": "濱田赤鯥（のどぐろ）",
+     "title_ja": "のどぐろ（赤むつ）",
+     "summary_zh": "石見海域有名的高級魚，脂肪豐厚。",
+     "body_zh": "赤鯥又稱「のどぐろ」，因喉嚨呈黑色而得名，是日本海一帶的高級魚，脂肪豐厚、肉質細嫩。石見地區的濱田等漁港有出產，常見吃法是鹽烤、煮物或做成刺身，也有壽司與蓋飯。價格高低依季節與尺寸而異，是島根旅遊中常被推薦的海鮮。在濱田漁港周邊的食堂，午間常有赤鯥定食與海鮮丼，價格比晚餐平易近人，是享用在地漁獲的好時機。也有餐廳把赤鯥做成茶泡飯或炊飯，吃法多樣，沿海小鎮的鮮度與價格往往比都市更具吸引力。",
+     "facts": [
+      {
+       "label": "魚種",
+       "value": "赤鯥（のどぐろ）"
+      },
+      {
+       "label": "特色",
+       "value": "脂肪豐厚"
+      },
+      {
+       "label": "吃法",
+       "value": "鹽烤、刺身、壽司"
+      }
+     ],
+     "best_season_zh": "秋冬",
+     "tips_zh": "價格較高，可選擇午間定食降低預算；店家也可能提供小尺寸魚，點餐時先問清楚，行程更順利。",
+     "tags": [
+      "赤鯥",
+      "海鮮",
+      "日本海"
+     ],
+     "sources": [
+      "https://en.wikipedia.org/wiki/Shimane_Prefecture"
+     ],
+     "confidence": "low",
+     "prompt_en": "A whole grilled red-fleshed fish with golden skin on a ceramic plate, lemon wedge and grated radish, Japanese seafood restaurant, warm light"
+    },
+    "scenery": {
+     "title_zh": "大森町街道",
+     "title_ja": "大森町の町並み",
+     "summary_zh": "山谷間保留古老街屋與綠意的礦山町。",
+     "body_zh": "大森町是石見銀山的核心聚落，山谷間沿著一條主要道路保留了江戶至明治時代的武家屋敷、商家與町家，屋瓦與木格窗讓街景別具古意。不少老宅已改成咖啡店、雜貨店與民宿，在清晨或傍晚人少時散步最舒服。這裡的街景自然融入世界遺產的整體景觀之中。街上也有展示銀山歷史的資料館與代官所遺跡，可先參觀再散步，更容易讀懂街景背後的歷史脈絡。傍晚時分，屋瓦映著夕照，山谷中的炊煙與蟲鳴讓時間彷彿慢了下來，是石見銀山最迷人的時刻之一。",
+     "facts": [
+      {
+       "label": "位置",
+       "value": "石見銀山內大森町"
+      },
+      {
+       "label": "特色",
+       "value": "古民宅與山谷"
+      },
+      {
+       "label": "活動",
+       "value": "散步、騎單車"
+      }
+     ],
+     "best_season_zh": "春季新綠、秋季紅葉",
+     "tips_zh": "可租借腳踏車逛，但坡度不小，也可步行；老宅店家多在下午較早休息，要注意時間，行程更順利。",
+     "tags": [
+      "古街",
+      "山谷",
+      "世界遺產"
+     ],
+     "sources": [
+      "https://en.wikipedia.org/wiki/Iwami_Ginzan_Silver_Mine"
+     ],
+     "confidence": "medium",
+     "prompt_en": "A quiet historic mining town street with wooden houses and green hills, morning light, no people"
+    }
+   }
+  },
+  {
+   "id": "shimane_oki",
+   "name_zh": "隱岐",
+   "name_ja": "隠岐",
+   "intro_zh": "隱岐諸島位於日本海上，包含島後與島前三島，是火山形成的群島，2013年入選世界地質公園。歷史上後鳥羽上皇與後醍醐天皇曾被流放至此。島上有壯闊的海蝕崖、放牧牛馬的草原與夏季的岩牡蠣，需搭渡輪或飛機前往。",
+   "items": {
+    "spot": {
+     "title_zh": "國賀海岸",
+     "title_ja": "国賀海岸",
+     "summary_zh": "隱岐西之島斷崖連綿的壯闊海岸線。",
+     "body_zh": "國賀海岸位於隱岐西之島，沿海岸線可見高聳的海蝕崖、奇岩與洞穴，其中有名的「通天橋」是天然岩拱。海岸上方的草地放牧牛馬，與斷崖形成鮮明對比。這是隱岐地質公園的代表景點之一，可搭遊覽船或沿步道觀賞，天氣好時景色最為壯闊，但風浪大時船班可能取消。隱岐的遊覽船會穿過洞窟與岩拱，近距離觀察海蝕地形，也有機會見到海鳥與海浪拍擊斷崖的震撼場景，十分難忘。若時間充裕，也可考慮在島上住一晚，避開當日往返的匆忙。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "隱岐西之島"
+      },
+      {
+       "label": "地質",
+       "value": "海蝕崖、奇岩"
+      },
+      {
+       "label": "名景",
+       "value": "通天橋、摩天崖"
+      }
+     ],
+     "best_season_zh": "夏季",
+     "tips_zh": "遊覽船需看海況而定，出發前務必確認航班；岸上風大，帽子與外套要固定好，別被吹走。",
+     "tags": [
+      "海蝕崖",
+      "地質公園",
+      "離島"
+     ],
+     "sources": [
+      "https://en.wikipedia.org/wiki/Oki_Islands"
+     ],
+     "confidence": "medium",
+     "prompt_en": "Dramatic sea cliffs and rock arches along a rugged coastline with grazing cattle on the green grass above, deep blue ocean"
+    },
+    "food": {
+     "title_zh": "隱岐岩牡蠣",
+     "title_ja": "隠岐の岩牡蠣",
+     "summary_zh": "夏季肥厚多汁的生食岩牡蠣。",
+     "body_zh": "岩牡蠣是隱岐夏季的代表海鮮，個頭大、肉質肥厚，帶有海水的鮮甜，通常生食，淋上檸檬即可。隱岐一帶以「春香」等品牌推廣，產期在初夏至夏季。島上餐廳與民宿會提供生食、燒烤與蒸煮等做法，是隱岐旅遊的夏季亮點，需注意產期與預約。島上居民也常以岩牡蠣入菜，如做成蒸牡蠣、牡蠣飯與牡蠣天婦羅，料理方式豐富，口味層次多變。也可請民宿代為預約，並確認供應日期，因為岩牡蠣受天候與海況影響，產量有時不穩，宜提前規劃行程。",
+     "facts": [
+      {
+       "label": "產期",
+       "value": "初夏至夏季"
+      },
+      {
+       "label": "吃法",
+       "value": "生食、燒烤"
+      },
+      {
+       "label": "特色",
+       "value": "大顆肥厚"
+      }
+     ],
+     "best_season_zh": "5–8月",
+     "tips_zh": "產期與品牌依年度而異，行前向民宿詢問；生食宜選擇信譽良好的店家，注意身體狀況，行程更順利。",
+     "tags": [
+      "岩牡蠣",
+      "夏季",
+      "離島"
+     ],
+     "sources": [
+      "https://en.wikipedia.org/wiki/Oki_Islands"
+     ],
+     "confidence": "low",
+     "prompt_en": "Large fresh rock oysters on ice with lemon wedges, rustic plate with the sea in the background"
+    },
+    "scenery": {
+     "title_zh": "摩天崖",
+     "title_ja": "摩天崖",
+     "summary_zh": "日本海上高約257公尺的懸崖草原。",
+     "body_zh": "摩天崖是隱岐西之島國賀海岸的名景，崖高約257公尺，是日本海沿岸屈指可數的斷崖。崖頂為廣闊的草原，放牧牛馬，從崖邊俯瞰深藍色的海，景色壯觀。步道從停車處出發，輕鬆即可抵達。這裡是隱岐世界地質公園的核心景觀之一。崖頂草原上的牛馬悠閒吃草，與蔚藍大海形成對比，被視為隱岐最具代表性的田園風景。從停車處到崖邊步行不遠，沿途有指標與安全柵欄，但仍要注意腳下與強風，拍照時不要太靠近崖緣。",
+     "facts": [
+      {
+       "label": "高度",
+       "value": "約257公尺"
+      },
+      {
+       "label": "位置",
+       "value": "西之島國賀海岸"
+      },
+      {
+       "label": "特色",
+       "value": "斷崖草原"
+      }
+     ],
+     "best_season_zh": "夏季",
+     "tips_zh": "崖邊風勢強，請遵守安全柵欄；天氣不穩時請改期，並備好防風外套與穩固的步行鞋，行程更順利。",
+     "tags": [
+      "斷崖",
+      "草原",
+      "地質公園"
+     ],
+     "sources": [
+      "https://en.wikipedia.org/wiki/Oki_Islands"
+     ],
+     "confidence": "medium",
+     "prompt_en": "A towering sea cliff with a green plateau and grazing horses, deep blue ocean below, wide shot"
+    }
+   }
+  }
+ ]
+}

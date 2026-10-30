@@ -1,0 +1,285 @@
+{
+  "id": "shimane",
+  "spots": [
+    {
+      "title_zh": "出雲大社",
+      "title_ja": "出雲大社",
+      "category": "神社寺院",
+      "area_zh": "出雲市大社町",
+      "summary_zh": "祭祀大國主大神的出雲國一宮，明治時代唯一稱「大社」的神社。",
+      "body_zh": "出雲大社位於島根縣出雲市大社町，祭神為大國主大神，是出雲國的一宮。古代稱為「杵築大社」，1871年改稱出雲大社，在近代社格制度下是唯一稱「大社」的神社。社殿曾於1609年由豐臣秀賴、1667年由將軍德川家綱修造，現今的社殿建於1744年。境內以莊嚴的社殿群與古木參道為特色，是日本最具代表性的神話與信仰名所之一。",
+      "facts": [
+        {
+          "label": "所在地",
+          "value": "島根縣出雲市大社町杵築東"
+        },
+        {
+          "label": "開創／成因",
+          "value": "古稱杵築大社，1871年改稱出雲大社，現社殿為1744年造營"
+        },
+        {
+          "label": "看點",
+          "value": "祭祀大國主大神的社殿群與參道古木"
+        }
+      ],
+      "best_season_zh": "全年；新綠與秋季較舒適",
+      "tips_zh": "境內範圍大，宜留足時間沿參道慢行；周邊可順遊日禦碕等出雲西部景點。參拜方式與一般神社不同，常見為「二禮四拍手一禮」，可先留意。",
+      "tags": [
+        "出雲神話",
+        "大國主",
+        "一宮",
+        "古社"
+      ],
+      "sources": [
+        "https://ja.wikipedia.org/wiki/出雲大社"
+      ],
+      "confidence": "medium",
+      "prompt_en": "Ancient Shinto shrine precinct with a broad gravel approach, large pine and cedar trees lining the path, a grand thatched-roof shrine hall with elevated floor in the middle ground, soft morning mist and filtered sunlight, deep green foreground foliage, no people, no text, no signs"
+    },
+    {
+      "title_zh": "松江城",
+      "title_ja": "松江城",
+      "category": "城郭史蹟",
+      "area_zh": "松江市",
+      "summary_zh": "山陰唯一現存天守，別名千鳥城，可眺宍道湖。",
+      "body_zh": "松江城位於松江市，別名千鳥城，是由小瀨甫庵規劃縄張的平山城，建於龜田山（標高29公尺）。1611年落成，江戶時代是松江藩的政廳。它是山陰地方唯一現存的天守，現存天守列為國寶，是日本五座國寶城之一。明治初年廢城令後天守曾要被拍賣拆除，幸由當地有志者買回而保存下來，如今天守可遠眺宍道湖，城山亦開放為公園。",
+      "facts": [
+        {
+          "label": "所在地",
+          "value": "島根縣松江市殿町"
+        },
+        {
+          "label": "開創／成因",
+          "value": "1611年落成，江戶時代為松江藩政廳"
+        },
+        {
+          "label": "看點",
+          "value": "山陰唯一現存天守，天守可眺宍道湖"
+        }
+      ],
+      "best_season_zh": "櫻花季與秋季",
+      "tips_zh": "天守內樓梯陡峭，宜穿好脫的鞋；城山公園可環繞護城河散步，順遊塩見繩手一帶。傍晚的宍道湖夕陽很受歡迎，可把登城安排在日落前後。",
+      "tags": [
+        "現存天守",
+        "國寶",
+        "松江藩",
+        "宍道湖"
+      ],
+      "sources": [
+        "https://ja.wikipedia.org/wiki/松江城"
+      ],
+      "confidence": "medium",
+      "prompt_en": "Dark-timbered Japanese castle keep with layered gabled roofs on a low stone-walled hill, reflected in a still moat, pine branches framing the top of the frame, late afternoon warm light, calm lake glimmering faintly behind, no people, no text, no signs"
+    },
+    {
+      "title_zh": "足立美術館庭園",
+      "title_ja": "足立美術館",
+      "category": "庭園公園",
+      "area_zh": "安來市",
+      "summary_zh": "以橫山大觀收藏與借景日本庭園聞名的美術館。",
+      "body_zh": "足立美術館位於島根縣安來市，由當地出身的實業家足立全康於1970年創立，以近現代日本畫為主，收藏橫山大觀作品約120件。庭園面積約4.3萬平方公尺，由中根金作設計，含枯山水庭、白砂青松庭、苔庭與池庭，並將遠處的勝山（標高252公尺）納入借景。美國日本庭園專門雜誌的庭園排名，自2003年首屆起連續評為日本第一。",
+      "facts": [
+        {
+          "label": "所在地",
+          "value": "島根縣安來市"
+        },
+        {
+          "label": "開創／成因",
+          "value": "足立全康1970年創立，庭園由中根金作設計"
+        },
+        {
+          "label": "看點",
+          "value": "借景勝山的枯山水、白砂青松庭與橫山大觀作品"
+        }
+      ],
+      "best_season_zh": "新綠與紅葉季；雪景亦佳",
+      "tips_zh": "庭園多以窗框方式觀賞，請沿館內動線慢看；參觀時間與票價以官方公告為準。庭園景色隨光線變化，天氣晴朗的上午通常最好拍攝。",
+      "tags": [
+        "日本庭園",
+        "借景",
+        "橫山大觀",
+        "枯山水"
+      ],
+      "sources": [
+        "https://ja.wikipedia.org/wiki/足立美術館"
+      ],
+      "confidence": "medium",
+      "prompt_en": "Meticulously raked white gravel and clipped pines in a Japanese dry landscape garden, a mossy hillside and distant forested mountain as borrowed scenery behind, framed by a wooden veranda edge, soft autumn light, still pond reflecting maple leaves, no people, no text, no signs"
+    },
+    {
+      "title_zh": "石見銀山",
+      "title_ja": "石見銀山",
+      "category": "城郭史蹟",
+      "area_zh": "大田市大森",
+      "summary_zh": "日本最大銀礦遺跡，2007年登錄世界遺產。",
+      "body_zh": "石見銀山位於島根縣大田市大森一帶，是戰國後期至江戶前期達到全盛的日本最大銀山，最盛期日本產銀量據推估約占世界三分之一，其中石見銀山占相當大比例。據傳戰國時代由博多商人神屋壽禎等人本格開發，礦脈延伸到仁摩町、溫泉津町。1969年指定為國家史蹟，2007年登錄為聯合國教科文組織世界遺產，以保留礦山與周邊街區的整體景觀著稱。",
+      "facts": [
+        {
+          "label": "所在地",
+          "value": "島根縣大田市大森及周邊"
+        },
+        {
+          "label": "開創／成因",
+          "value": "戰國後期由博多商人神屋壽禎等開發，江戶前期達最盛"
+        },
+        {
+          "label": "看點",
+          "value": "礦山遺跡與周邊街區，2007年登錄世界遺產"
+        }
+      ],
+      "best_season_zh": "春秋；綠意與紅葉時景色最美",
+      "tips_zh": "礦坑與遺跡區多為步行，山路較長，穿耐走的鞋；開放區域以官方現況為準。礦區山路與隧道內涼，建議帶薄外套並穿好走的鞋。",
+      "tags": [
+        "世界遺產",
+        "銀山",
+        "礦山遺跡",
+        "戰國"
+      ],
+      "sources": [
+        "https://ja.wikipedia.org/wiki/石見銀山"
+      ],
+      "confidence": "medium",
+      "prompt_en": "Narrow stone-lined path leading into a dark old mine tunnel entrance on a forested hillside, moss-covered rocks, dappled green light through tall trees, a quiet old village roofline faintly visible in the distance, damp misty atmosphere, no people, no text, no signs"
+    },
+    {
+      "title_zh": "玉造溫泉",
+      "title_ja": "玉造温泉",
+      "category": "溫泉",
+      "area_zh": "松江市玉湯町",
+      "summary_zh": "奈良時代古湯，《出雲國風土記》有載，以美肌湯聞名。",
+      "body_zh": "玉造溫泉位於松江市玉湯町，傳為奈良時代開湯的古湯，據說由少彥名命發現，733年的《出雲國風土記》已有記載，《枕草子》也提到「玉造之湯」。名稱來自此地曾產青瑪瑙、人們以製作玉器（勾玉）為業。泉質為硫酸鹽、氯化物泉，源泉溫度42度以上，被認為有化妝水般的潤澤效果。玉湯川畔櫻樹成排，旅館林立，氣氛沉靜。",
+      "facts": [
+        {
+          "label": "所在地",
+          "value": "島根縣松江市玉湯町玉造"
+        },
+        {
+          "label": "開創／成因",
+          "value": "相傳奈良時代開湯，733年《出雲國風土記》有載"
+        },
+        {
+          "label": "看點",
+          "value": "玉湯川畔櫻並木、勾玉橋與足湯"
+        }
+      ],
+      "best_season_zh": "櫻花季；秋冬泡湯亦宜",
+      "tips_zh": "可與松江城、出雲大社連成一日行程；沿玉湯川散步並泡足湯，旅館價位偏高宜提早預約。",
+      "tags": [
+        "溫泉",
+        "美肌湯",
+        "勾玉",
+        "風土記"
+      ],
+      "sources": [
+        "https://ja.wikipedia.org/wiki/玉造温泉"
+      ],
+      "confidence": "medium",
+      "prompt_en": "Peaceful hot spring town along a shallow river lined with cherry trees in bloom, traditional low-rise inns with tiled roofs, a small curved footbridge, soft pastel dusk light, gentle steam from a footbath, no people, no text, no signs"
+    },
+    {
+      "title_zh": "國賀海岸（摩天崖）",
+      "title_ja": "国賀海岸",
+      "category": "海島海岸",
+      "area_zh": "隱岐郡西之島町",
+      "summary_zh": "隱岐西之島的海蝕斷崖，摩天崖高257公尺。",
+      "body_zh": "國賀海岸位於隱岐諸島西之島北西部，1938年列為國家名勝，並屬大山隱岐國立公園。約13公里長的海蝕崖高200至250公尺，其中高257公尺的摩天崖是日本國內最大級的海崖。此外還有鬼城、天然洞門通天橋等奇景。崖頂草地放牧牛馬，與壯闊斷崖形成寧靜的對比，一條步道連接摩天崖與國賀浜，約需上行60分鐘。",
+      "facts": [
+        {
+          "label": "所在地",
+          "value": "島根縣隱岐郡西之島町（西之島北西部）"
+        },
+        {
+          "label": "開創／成因",
+          "value": "海蝕作用形成的斷崖，1938年指定國家名勝"
+        },
+        {
+          "label": "看點",
+          "value": "摩天崖、通天橋，與放牧牛馬的草地對比"
+        }
+      ],
+      "best_season_zh": "夏季前後視野佳；晴朗少霧時最好",
+      "tips_zh": "步道高低差大，需預留體力與時間；離島交通受海況影響，行前請確認船班。崖邊風大，行走時請遠離邊緣，並留意放牧牛馬的路段。",
+      "tags": [
+        "隱岐",
+        "海蝕崖",
+        "放牧",
+        "國立公園"
+      ],
+      "sources": [
+        "https://ja.wikipedia.org/wiki/国賀海岸"
+      ],
+      "confidence": "medium",
+      "prompt_en": "Towering sea cliff dropping vertically into deep blue ocean, green grass plateau on top with a few grazing cattle in the foreground, a natural rock arch at the water line, golden late-afternoon light, wide dramatic perspective, no people, no text, no buildings"
+    },
+    {
+      "title_zh": "津和野",
+      "title_ja": "津和野",
+      "category": "街區古鎮",
+      "area_zh": "鹿足郡津和野町",
+      "summary_zh": "島根最西部的小京都，殿町通的海參壁與鯉魚水渠。",
+      "body_zh": "津和野町位於島根縣最西部，山間小盆地的城下町被稱為「小京都」，津和野地區列為國家重要傳統建造物群保存地區，紅褐色的石州瓦屋頂是一大特色。主街殿町通上有海參壁（なまこ壁）與水渠，水中游著許多錦鯉。文豪森鷗外出生於此，每年7月底的祇園祭中的「鷺舞」於2022年登錄聯合國教科文組織無形文化遺產。",
+      "facts": [
+        {
+          "label": "所在地",
+          "value": "島根縣鹿足郡津和野町（縣最西部）"
+        },
+        {
+          "label": "開創／成因",
+          "value": "1282年吉見氏入駐，後為城下町"
+        },
+        {
+          "label": "看點",
+          "value": "殿町通海參壁與鯉魚水渠、石州瓦家並"
+        }
+      ],
+      "best_season_zh": "新綠與秋季；7月底有鷺舞",
+      "tips_zh": "適合沿殿町通步行慢逛，水渠邊請勿餵食或干擾錦鯉；山口方向可順路連結。小鎮適合步行或租借單車，夏季炎熱可挑早上或傍晚閒逛。",
+      "tags": [
+        "小京都",
+        "城下町",
+        "石州瓦",
+        "鷺舞"
+      ],
+      "sources": [
+        "https://ja.wikipedia.org/wiki/津和野町"
+      ],
+      "confidence": "medium",
+      "prompt_en": "Historic castle-town street with whitewashed walls patterned in black-and-white grid tiles, a narrow stone-edged canal with koi swimming in it beside the lane, reddish-brown roof tiles on old houses, soft overcast light, green hills in the distance, no people, no text, no signage"
+    },
+    {
+      "title_zh": "三瓶山",
+      "title_ja": "三瓶山",
+      "category": "山岳高原",
+      "area_zh": "大田市、飯石郡飯南町",
+      "summary_zh": "六峰環繞火口湖的火山，列日本二百名山。",
+      "body_zh": "三瓶山位於島根縣大田市與飯南町之間，屬大山隱岐國立公園，是列入日本二百名山的火山，2003年被定義為活火山。男三瓶山（1,126公尺）等六座山峰圍繞直徑約1.2公里的爆裂火口「室之內」，火口內有淺淺的室之內池。山麓有姬逃池、浮布池等湖泊與草原，男三瓶山北麓至室之內的自然林「三瓶山自然林」列為國家天然紀念物，登山與健行風景優美。",
+      "facts": [
+        {
+          "label": "所在地",
+          "value": "島根縣大田市與飯石郡飯南町交界"
+        },
+        {
+          "label": "開創／成因",
+          "value": "火山，約4000年前最後噴發後形成現今地形"
+        },
+        {
+          "label": "看點",
+          "value": "男三瓶山、室之內火口池與山麓草原湖泊"
+        }
+      ],
+      "best_season_zh": "新綠與秋季，草原風景最佳",
+      "tips_zh": "草原區視野開闊，天氣變化大，宜備風衣；登山路線請依山況與公告選擇。草原日曬強且少遮蔭，建議備帽子、防曬與足夠飲水。",
+      "tags": [
+        "火山",
+        "火口湖",
+        "草原",
+        "百名山"
+      ],
+      "sources": [
+        "https://ja.wikipedia.org/wiki/三瓶山"
+      ],
+      "confidence": "medium",
+      "prompt_en": "Gentle volcanic peak with rounded domes rising above a wide green grassland meadow, a small reflective lake in the foreground, scattered clouds, clear summer morning light with long shadows on the grass, no people, no text, no buildings"
+    }
+  ]
+}

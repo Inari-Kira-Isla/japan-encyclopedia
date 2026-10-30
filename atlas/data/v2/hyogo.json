@@ -1,0 +1,839 @@
+{
+ "id": "hyogo",
+ "name_zh": "兵庫縣",
+ "name_ja": "兵庫県",
+ "region": "近畿",
+ "overview": {
+  "intro_zh": "兵庫縣位於本州中西部，北臨日本海、南濱瀨戶內海，是日本少有同時擁有兩片海岸的縣份，縣內氣候與風土差異極大。縣廳設於神戶，1868年神戶港開港後成為接納西洋文化的窗口；姬路城於1993年列入世界遺產，是日本最具代表性的古城。縣內另有有馬溫泉、城崎溫泉等名湯，灘五鄉釀酒區出產全國約四分之一的清酒，神戶牛與松葉蟹則是享譽海外的美食。淡路島與四國之間有明石海峽大橋相連，也是縣內重要的觀光地。",
+  "capital_zh": "神戶市",
+  "area_km2": 8401,
+  "population_approx": "約531萬（2025年）",
+  "flower_zh": "野路菊",
+  "bird_zh": "東方白鸛（鸛）",
+  "tree_zh": "樟樹",
+  "climate_zh": "北部日本海側冬雪多，南部瀨戶內海側溫暖少雨，縣內南北氣候差異明顯。",
+  "access_zh": "神戶機場、大阪伊丹機場；山陽新幹線經新神戶、姬路站，山陰側有但馬機場。",
+  "specialties_zh": [
+   "神戶牛",
+   "松葉蟹",
+   "灘清酒",
+   "淡路島洋蔥",
+   "姬路關東煮",
+   "備前燒"
+  ],
+  "best_season_zh": "春（姬路城賞櫻）、秋（楓葉）與冬（松葉蟹、溫泉）"
+ },
+ "items": {
+  "architecture": {
+   "title_zh": "姬路城",
+   "title_ja": "姫路城",
+   "summary_zh": "白色天守閣的世界遺產名城",
+   "body_zh": "姬路城又稱白鷺城，因外牆潔白、形似展翅白鷺而得名。據記載，1346年已有城砦；1581年豐臣秀吉擴建，1601至1609年池田輝政大規模改建，奠定今日規模。城內約有83棟建築，主天守高約46.4米，其中五處為國寶。1993年與法隆寺同為日本首批世界遺產。2010至2015年完成大修，白色屋頂與牆面重現光彩。城防設計複雜，曲折的登城路與約千個射擊孔，可見戰國末期的防禦思維。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "姬路市本町"
+    },
+    {
+     "label": "起源",
+     "value": "14世紀築砦，1601至1609年大改建"
+    },
+    {
+     "label": "世界遺產",
+     "value": "1993年列入"
+    },
+    {
+     "label": "特色",
+     "value": "83棟建築，5處國寶，天守高約46.4米"
+    }
+   ],
+   "best_season_zh": "春（櫻花）、秋",
+   "tips_zh": "建議預留2至3小時登城；週末與櫻季人潮多，早上開放時間入場較舒適。城旁好古園可一併遊覽。",
+   "tags": [
+    "世界遺產",
+    "國寶",
+    "古城",
+    "白鷺城"
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Himeji_Castle"
+   ],
+   "confidence": "high",
+   "prompt_en": "Himeji Castle white keep with cherry blossoms in full bloom, clear blue sky, wide angle, early morning light"
+  },
+  "food": {
+   "title_zh": "神戶牛",
+   "title_ja": "神戸ビーフ",
+   "summary_zh": "以但馬牛培育的頂級和牛品牌",
+   "body_zh": "神戶牛源自兵庫縣飼養的但馬牛，屬日本黑毛和種，其祖先於1868至1887年間與外來牛種雜交改良。要稱為神戶牛，必須是兵庫縣出生、縣內肥育的但馬牛，在指定屠宰場處理，並達到脂肪交雜度（BMS）6以上及肉質等級4或5。每年符合標準者僅約三千頭，稀少性造就高價。1983年成立推廣協會制定規格保護品牌，2012年起才開始出口海外，首站為澳門與香港。",
+   "facts": [
+    {
+     "label": "產地",
+     "value": "兵庫縣"
+    },
+    {
+     "label": "品種",
+     "value": "但馬牛（日本黑毛和種）"
+    },
+    {
+     "label": "標準",
+     "value": "BMS 6以上、肉質等級4或5"
+    },
+    {
+     "label": "年產量",
+     "value": "約三千頭符合認證"
+    }
+   ],
+   "best_season_zh": "全年（冬季牛肉風味濃厚）",
+   "tips_zh": "認證店門口會有神戶牛標誌與個體識別號證明；初次品嚐可選鐵板燒，更能嚐到油脂香氣。",
+   "tags": [
+    "和牛",
+    "鐵板燒",
+    "高級食材",
+    "品牌牛"
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Kobe_beef"
+   ],
+   "confidence": "high",
+   "prompt_en": "Seared Kobe beef steak slices on a hot teppan plate, marbled texture, close-up, warm light"
+  },
+  "culture": {
+   "title_zh": "灘五鄉酒造",
+   "title_ja": "灘五郷の酒造り",
+   "summary_zh": "日本最大的清酒產地",
+   "body_zh": "灘五鄉指神戶與西宮沿海的五個釀酒區：西鄉、御影鄉、魚崎鄉、西宮鄉與今津鄉，清酒產量約占全日本四分之一以上。釀酒歷史可追溯至1330年左右，江戶時代由伊丹遷來的酒商因應運往江戶的需求而大幅擴張。名酒條件包括山田錦米、取自六甲山水系的宮水、丹波杜氏技術，以及冬季的六甲颪冷風。1995年阪神大地震曾重創酒藏，其後多數已復原，不少酒藏設有資料館供參觀。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "神戶市灘區、東灘區與西宮市"
+    },
+    {
+     "label": "起源",
+     "value": "約14世紀（1330年前後）"
+    },
+    {
+     "label": "特色",
+     "value": "宮水、山田錦、丹波杜氏、六甲颪"
+    },
+    {
+     "label": "規模",
+     "value": "約占全國清酒產量四分之一"
+    }
+   ],
+   "best_season_zh": "冬（新酒釀造季）",
+   "tips_zh": "新酒季的冬天可參觀酒藏資料館；宮水取自特定井水，試飲時留意酒標產地。",
+   "tags": [
+    "清酒",
+    "酒藏",
+    "傳統釀造",
+    "灘"
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Nada-Gog%C5%8D"
+   ],
+   "confidence": "high",
+   "prompt_en": "Traditional sake brewery with cedar barrels and brewers in work clothes, warm light, Nada Kobe"
+  },
+  "history": {
+   "title_zh": "明石海峽大橋",
+   "title_ja": "明石海峡大橋",
+   "summary_zh": "連結本州與淡路島的現代工程里程碑",
+   "body_zh": "明石海峽大橋連接神戶與淡路島岩屋，1988年4月動工，1998年4月5日通車，全長3,911米，主跨1,991米，橋塔高約282.8米，通車時為世界最長懸索橋主跨，直到2022年才被土耳其恰納卡萊1915大橋超越。施工期間發生1995年阪神大地震，震動使兩座橋塔間距增加約1米，主跨因此延長。設計可抵禦時速約286公里強風與規模8.5地震，象徵災後復興與日本橋梁技術。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "神戶市垂水區與淡路市"
+    },
+    {
+     "label": "通車",
+     "value": "1998年4月5日"
+    },
+    {
+     "label": "規格",
+     "value": "全長3,911米，主跨1,991米"
+    },
+    {
+     "label": "特色",
+     "value": "橋塔高約282.8米"
+    }
+   ],
+   "best_season_zh": "全年（黃昏與夜間點燈）",
+   "tips_zh": "可到舞子海上步道或淡路島側的海邊公園遠眺；黃昏時段燈光與夕陽景色最佳。",
+   "tags": [
+    "橋梁",
+    "工程",
+    "復興",
+    "瀨戶內海"
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Akashi_Kaiky%C5%8D_Bridge"
+   ],
+   "confidence": "high",
+   "prompt_en": "Akashi Kaikyo Bridge at twilight over the strait, illuminated cables, wide angle"
+  },
+  "mascot": {
+   "title_zh": "はばタン（吉祥物）",
+   "title_ja": "はばタン",
+   "summary_zh": "兵庫縣官方吉祥物，象徵震災復興",
+   "body_zh": "はばタン是兵庫縣的官方吉祥物，2003年1月17日誕生，形象為黃色的不死鳥，用以表現從阪神淡路大震災復興、振翅高飛的兵庫。因外型圓潤偏黃，有時被誤認為小雞。2006年以前也曾擔任國民體育大會「のじぎく兵庫國體」及全國障礙者運動大會的吉祥物。縣內活動、宣傳品與防災宣導常見其蹤影。本頁出圖不複製官方形象，而是以神戶港與復興意象為靈感，創作一隻原創的黃色雛鳥角色。",
+   "facts": [
+    {
+     "label": "名稱",
+     "value": "はばタン"
+    },
+    {
+     "label": "誕生",
+     "value": "2003年1月17日"
+    },
+    {
+     "label": "形象",
+     "value": "黃色不死鳥"
+    },
+    {
+     "label": "象徵",
+     "value": "震災復興"
+    }
+   ],
+   "best_season_zh": "全年",
+   "tips_zh": "縣內活動、車站與觀光設施有時會有周邊商品；想看布偶可留意縣廳活動日。",
+   "tags": [
+    "吉祥物",
+    "不死鳥",
+    "復興",
+    "兵庫縣"
+   ],
+   "sources": [
+    "https://web.pref.hyogo.lg.jp/kk03/habtan_design.html"
+   ],
+   "confidence": "high",
+   "prompt_en": "A cute yellow phoenix chick character with small golden wing feathers near Kobe harbor at dawn, pastel illustration. Original cute character inspired by local symbols, not replicating any existing trademarked mascot."
+  },
+  "scenery": {
+   "title_zh": "六甲山夜景",
+   "title_ja": "六甲山の夜景",
+   "summary_zh": "俯瞰神戶港灣與大阪灣的百萬夜景",
+   "body_zh": "六甲山是神戶北面的山脈，延伸約56公里，最高點約931.6米，是關西人常去的避暑與登山地。山上有六甲纜車與多處展望台，夜晚可眺望神戶市街、港口與大阪灣的燈海，被稱為「百萬夜景」，是日本人氣夜景之一。1903年，英國人格魯姆在山上開辦日本第一座高爾夫球場；阪神虎隊的隊歌「六甲颪」亦以此山命名。山上另有高山植物園與香草園，白天同樣適合健行。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "神戶市灘區、北區"
+    },
+    {
+     "label": "最高點",
+     "value": "約931.6米"
+    },
+    {
+     "label": "特色",
+     "value": "百萬夜景、六甲颪"
+    },
+    {
+     "label": "交通",
+     "value": "六甲纜車、巴士"
+    }
+   ],
+   "best_season_zh": "秋、冬（空氣清澈）",
+   "tips_zh": "夜景以日落後約半小時至天色全暗之間最漂亮；山上氣溫比市區低，需帶外套。",
+   "tags": [
+    "夜景",
+    "登山",
+    "展望台",
+    "神戶"
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Mount_Rokk%C5%8D"
+   ],
+   "confidence": "high",
+   "prompt_en": "Kobe night view from Mount Rokko with harbor lights and Osaka Bay, long exposure, clear night"
+  },
+  "spot": {
+   "title_zh": "有馬溫泉",
+   "title_ja": "有馬温泉",
+   "summary_zh": "日本最古老的名湯之一",
+   "body_zh": "有馬溫泉位於神戶北區六甲山北側，與道後溫泉、南紀白濱溫泉並列為日本最古老的溫泉之一。《枕草子》曾將其列為三名泉之一，江戶時代被視為日本最具聲望的溫泉。行基、仁西與豐臣秀吉皆與此地有淵源。泉質分「金泉」與「銀泉」：金泉含鐵與鹽分，呈黃褐色；銀泉無色，含鐳與碳酸。溫泉街狹窄古樸，有溫泉寺、足湯與碳酸煎餅等小店，從神戶市區交通約半小時可達。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "神戶市北區有馬町"
+    },
+    {
+     "label": "起源",
+     "value": "古代已見記載，歷史逾千年"
+    },
+    {
+     "label": "泉質",
+     "value": "金泉（含鐵鹽）、銀泉（含鐳、碳酸）"
+    },
+    {
+     "label": "特色",
+     "value": "溫泉街、足湯、碳酸煎餅"
+    }
+   ],
+   "best_season_zh": "秋（楓紅）、冬",
+   "tips_zh": "金泉會染色衣物，浸泡後建議用清水沖洗毛巾；日歸入浴設施不少，不需住宿。",
+   "tags": [
+    "溫泉",
+    "古湯",
+    "金泉銀泉",
+    "溫泉街"
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Arima_Onsen"
+   ],
+   "confidence": "high",
+   "prompt_en": "Arima Onsen old narrow streets with wooden ryokan and steaming bathhouse, dusk, warm lanterns"
+  },
+  "experience": {
+   "title_zh": "神戶港",
+   "title_ja": "神戸港",
+   "summary_zh": "開港150年的港灣散步與夜景體驗",
+   "body_zh": "神戶港於1868年1月開港，是日本最早對外開放的港口之一，帶動周邊成為西洋文化流入的窗口。今日港灣區域有港口塔、海洋博物館與商場，傍晚漫步水岸，可見紅色港口塔與船隻倒影，入夜點燈更有氣氛。港區也有遊覽船，可從海上欣賞港灣與明石海峽方向的景色。港口塔1963年落成，高約108米，造型像鼓，適合以半日行程連結元町、南京町與北野異人館。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "神戶市中央區"
+    },
+    {
+     "label": "起源",
+     "value": "1868年開港"
+    },
+    {
+     "label": "特色",
+     "value": "港口塔、海洋博物館、遊覽船"
+    },
+    {
+     "label": "備註",
+     "value": "塔高等細節以現場公告為準"
+    }
+   ],
+   "best_season_zh": "傍晚、夜間",
+   "tips_zh": "日落前後到達可同時看日景與夜景；遊覽船班次依季節與天氣調整，出發前先查官方時刻。",
+   "tags": [
+    "港灣",
+    "夜景",
+    "散步",
+    "開港"
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Port_of_Kobe"
+   ],
+   "confidence": "medium",
+   "prompt_en": "Kobe harbor at dusk with the red port tower and ships, reflections on calm water, wide shot"
+  },
+  "costume": {
+   "title_zh": "神戶洋服",
+   "title_ja": "神戸の洋装",
+   "summary_zh": "受異人館文化影響的明治大正洋裝",
+   "body_zh": "神戶港開港後，外國人聚居北野一帶，建起大量洋式住宅，即今日的異人館街，其中風見雞之館建於1909年。居留地帶動神戶成為日本西洋服飾、洋裁與時尚的先行地，也孕育了洋菓子、咖啡與爵士文化。今日在北野可租借明治大正風洋裝或和洋折衷服飾，在洋館前拍照留念。本頁出圖以無名模特兒穿著復古洋裝，配合異人館洋館外觀，營造港都早期的摩登氣氛。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "神戶市中央區北野"
+    },
+    {
+     "label": "起源",
+     "value": "1868年開港後的外國人居留文化"
+    },
+    {
+     "label": "特色",
+     "value": "明治大正洋裝、異人館"
+    },
+    {
+     "label": "備註",
+     "value": "租借服務以各店現況為準"
+    }
+   ],
+   "best_season_zh": "春、秋",
+   "tips_zh": "異人館多為坡道，穿高跟鞋需留意；部分館內不可拍照，事前確認。",
+   "tags": [
+    "洋裝",
+    "異人館",
+    "復古",
+    "時尚"
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Kitano-ch%C5%8D"
+   ],
+   "confidence": "medium",
+   "prompt_en": "Anonymous model in early twentieth century western-style dress in front of a Kitano Ijinkan Western mansion, soft light"
+  }
+ },
+ "areas": [
+  {
+   "id": "hyogo_kobe",
+   "name_zh": "神戶",
+   "name_ja": "神戸",
+   "intro_zh": "神戶是兵庫縣縣廳所在地，1868年開港後成為日本接納西洋文化的窗口。市區北靠六甲山、南臨大阪灣，異人館、南京町與港灣風景交織出獨特的異國氛圍。這裡也是神戶牛與灘酒的故鄉，山與海之間的距離很近，夜景尤其出名。",
+   "items": {
+    "spot": {
+     "title_zh": "北野異人館街",
+     "title_ja": "北野異人館街",
+     "summary_zh": "保存明治大正洋館的山手街區",
+     "body_zh": "北野町位於神戶山手，保存了不少明治後期到大正初期的外國人住宅，稱為異人館。風見雞之館建於1909年，是最具代表性的建築，其他如舊巴拿馬領事館也對外開放。與函館、長崎的異人館相比，北野一帶保存得相當完整。部分仍為私人住宅，部分已開放為展館或咖啡店。街區沿坡道而建，從三宮或新神戶步行上坡，適合安排半日散步，邊走邊欣賞洋館與街景。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "神戶市中央區北野町"
+      },
+      {
+       "label": "年代",
+       "value": "明治後期至大正初期"
+      },
+      {
+       "label": "代表",
+       "value": "風見雞之館（1909年）"
+      },
+      {
+       "label": "特色",
+       "value": "洋館與坡道街景"
+      }
+     ],
+     "best_season_zh": "春、秋",
+     "tips_zh": "建議從新神戶站或三宮步行上坡，買通票可參觀多間館；提早到可避開團客。",
+     "tags": [
+      "異人館",
+      "洋館",
+      "歷史街區",
+      "散步"
+     ],
+     "sources": [
+      "https://en.wikipedia.org/wiki/Kitano-ch%C5%8D"
+     ],
+     "confidence": "high",
+     "prompt_en": "Kitano Ijinkan Western-style mansions on a Kobe hillside street, autumn light, no people"
+    },
+    "food": {
+     "title_zh": "神戶牛鐵板燒",
+     "title_ja": "神戸牛の鉄板焼き",
+     "summary_zh": "在地吃到的神戶牛",
+     "body_zh": "神戶牛須為兵庫縣飼養的但馬牛，並符合脂肪交雜度BMS 6以上及肉質等級4或5的標準，每年符合者約三千頭，十分稀少。在神戶市區的鐵板燒店，廚師會在客人面前現煎，肉質入口即化，油脂香氣濃郁。價位偏高，午餐套餐通常較為親民。認證店門口多懸掛神戶牛標誌，可作辨認；點餐時可詢問個體識別號與部位，了解來源，也可選擇牛排、壽喜燒等不同吃法。",
+     "facts": [
+      {
+       "label": "產地",
+       "value": "兵庫縣"
+      },
+      {
+       "label": "標準",
+       "value": "BMS 6以上、肉質等級4或5"
+      },
+      {
+       "label": "吃法",
+       "value": "鐵板燒、牛排、壽喜燒"
+      },
+      {
+       "label": "備註",
+       "value": "價位依店家與部位而異"
+      }
+     ],
+     "best_season_zh": "全年",
+     "tips_zh": "午餐時段常有較便宜套餐；預約熱門店更保險。",
+     "tags": [
+      "神戶牛",
+      "鐵板燒",
+      "和牛",
+      "美食"
+     ],
+     "sources": [
+      "https://en.wikipedia.org/wiki/Kobe_beef"
+     ],
+     "confidence": "high",
+     "prompt_en": "Kobe beef steak grilled on teppan with vegetables, close-up, chef's hands"
+    },
+    "scenery": {
+     "title_zh": "六甲山夜景",
+     "title_ja": "六甲山の夜景",
+     "summary_zh": "俯瞰港灣的百萬夜景",
+     "body_zh": "從六甲山展望台可俯瞰神戶市區、港口與大阪灣的萬家燈火，被稱為百萬夜景，是日本人氣夜景之一。六甲山最高點約931.6米，可搭纜車上山，山上設有多處展望台與餐廳。夜晚氣溫比市區低許多，需帶外套。日落前上山，可以同時欣賞夕陽、暮色與夜景三種表情，天色全暗後燈海最為璀璨。纜車與巴士營運時間依季節調整，回程務必留意末班時間，避免滯留山上。",
+     "facts": [
+      {
+       "label": "最高點",
+       "value": "約931.6米"
+      },
+      {
+       "label": "交通",
+       "value": "六甲纜車、巴士"
+      },
+      {
+       "label": "特色",
+       "value": "百萬夜景"
+      },
+      {
+       "label": "時段",
+       "value": "日落後最佳"
+      }
+     ],
+     "best_season_zh": "秋、冬",
+     "tips_zh": "纜車營運時間依季節變動，夜景時段須留意末班。",
+     "tags": [
+      "夜景",
+      "展望台",
+      "纜車",
+      "神戶"
+     ],
+     "sources": [
+      "https://en.wikipedia.org/wiki/Mount_Rokk%C5%8D"
+     ],
+     "confidence": "high",
+     "prompt_en": "Kobe night view from Mount Rokko observatory with sparkling city and harbor lights"
+    }
+   }
+  },
+  {
+   "id": "hyogo_himeji",
+   "name_zh": "姬路",
+   "name_ja": "姫路",
+   "intro_zh": "姬路位於兵庫縣西南部，以姬路城為中心發展，是播磨平原的中心都市。白色天守閣聳立於市街，是城下町的象徵。這裡有獨特的姬路關東煮與穴子飯，城旁的好古園則以庭園景色補足歷史文化之旅。",
+   "items": {
+    "spot": {
+     "title_zh": "姬路城",
+     "title_ja": "姫路城",
+     "summary_zh": "白鷺城的完整大天守",
+     "body_zh": "姬路城的主天守高約46.4米，群集83棟建築，是日本現存最完整的古城之一，外牆潔白，形似展翅白鷺，因此又稱白鷺城。1993年列入世界遺產，2010至2015年大修後重新開放。登城路迂迴曲折，設有許多射擊孔，可見戰國末期的防禦思維。從三之丸廣場遠眺最能欣賞全景，櫻花盛開時與天守同框尤其壯觀。入城參觀約需兩三小時，建議穿好走的鞋。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "姬路市本町"
+      },
+      {
+       "label": "世界遺產",
+       "value": "1993年"
+      },
+      {
+       "label": "大修",
+       "value": "2015年3月完成"
+      },
+      {
+       "label": "特色",
+       "value": "白色外牆、國寶五件"
+      }
+     ],
+     "best_season_zh": "春（櫻花）",
+     "tips_zh": "櫻季與假日人多，建議開放時間一到就入場。",
+     "tags": [
+      "古城",
+      "世界遺產",
+      "白鷺城",
+      "天守閣"
+     ],
+     "sources": [
+      "https://en.wikipedia.org/wiki/Himeji_Castle"
+     ],
+     "confidence": "high",
+     "prompt_en": "Himeji Castle white keep with cherry blossoms, blue sky, view from the castle plaza"
+    },
+    "food": {
+     "title_zh": "姬路關東煮",
+     "title_ja": "姫路おでん",
+     "summary_zh": "配薑醬油的在地關東煮",
+     "body_zh": "姬路關東煮的特色是把薑末加進醬油，用小碟沾食或淋在關東煮上，與一般清爽或濃口的做法不同。據說起源於昭和初期姬路濱手地區，是在關東煮上加薑醬油調整口味而成，2011年註冊為地域團體商標。這道冬季料理常見於車站周邊居酒屋與小吃店，湯頭有濃有淡，各店不同，常與同為姬路名物的穴子飯搭配。冬天走累了，來一碗熱呼呼的關東煮，是當地人的日常。",
+     "facts": [
+      {
+       "label": "起源",
+       "value": "昭和初期姬路濱手地區"
+      },
+      {
+       "label": "特色",
+       "value": "薑醬油沾食"
+      },
+      {
+       "label": "商標",
+       "value": "2011年註冊地域團體商標"
+      },
+      {
+       "label": "季節",
+       "value": "冬季為主"
+      }
+     ],
+     "best_season_zh": "冬",
+     "tips_zh": "點餐時可問店家是否有薑醬油，是這道菜的特色。",
+     "tags": [
+      "關東煮",
+      "薑醬油",
+      "鄉土料理",
+      "姬路"
+     ],
+     "sources": [
+      "https://www.japan.travel/tw/spot/1029/"
+     ],
+     "confidence": "medium",
+     "prompt_en": "Himeji oden in broth with ginger soy sauce dipping in a small dish, close-up"
+    },
+    "scenery": {
+     "title_zh": "好古園",
+     "title_ja": "好古園",
+     "summary_zh": "姬路城旁的九座日式庭園",
+     "body_zh": "好古園於1992年為紀念姬路市制100週年開園，建於姬路城西御屋敷遺址，共分九個庭園，包括築山池泉庭、茶庭、流水平庭、夏木立之庭等。園內依考古發掘出的建築痕跡與道路復原，並以築地牆與連廊營造江戶風貌，同時把姬路城納入借景。春櫻、秋楓、池中錦鯉皆是看點，也有茶室可小坐品茶。與姬路城可購買共通券，適合一併遊覽。",
+     "facts": [
+      {
+       "label": "開園",
+       "value": "1992年"
+      },
+      {
+       "label": "構成",
+       "value": "9個庭園"
+      },
+      {
+       "label": "所在地",
+       "value": "姬路城西側"
+      },
+      {
+       "label": "特色",
+       "value": "借景姬路城"
+      }
+     ],
+     "best_season_zh": "春、秋",
+     "tips_zh": "和姬路城可購買共通券，一次逛完；茶室可小憩品茶。",
+     "tags": [
+      "日式庭園",
+      "借景",
+      "錦鯉",
+      "姬路"
+     ],
+     "sources": [
+      "https://www.japan.travel/tw/spot/1029/"
+     ],
+     "confidence": "high",
+     "prompt_en": "Koko-en Japanese garden with koi pond and Himeji Castle in the background, autumn"
+    }
+   }
+  },
+  {
+   "id": "hyogo_awaji",
+   "name_zh": "淡路島",
+   "name_ja": "淡路島",
+   "intro_zh": "淡路島是瀨戶內海最大的島嶼，面積約592平方公里，人口約12.9萬，經明石海峽大橋與神戶連結。島上盛產洋蔥與淡路牛，傳統人形淨琉璃已有五百年以上歷史，也是日本神話中創生國土的島嶼。安藤忠雄設計的建築散布島上。",
+   "items": {
+    "spot": {
+     "title_zh": "淡路夢舞台",
+     "title_ja": "淡路夢舞台",
+     "summary_zh": "安藤忠雄設計的複合設施",
+     "body_zh": "淡路夢舞台位於淡路島北部，由建築師安藤忠雄設計，結合會議場館、飯店、庭園與展示空間，是島上具代表性的現代建築群。同為安藤忠雄作品的本福寺水御堂也位於島上，以蓮池與水中階梯聞名，夏季蓮花盛開時尤其特別。這些建築以清水混凝土、水與自然光營造出沉靜的空間感，吸引許多建築愛好者專程前來。營業時間與票價可能調整，出發前請先查官方網站。",
+     "facts": [
+      {
+       "label": "設計",
+       "value": "安藤忠雄"
+      },
+      {
+       "label": "所在地",
+       "value": "淡路市"
+      },
+      {
+       "label": "特色",
+       "value": "清水混凝土、庭園、水景"
+      },
+      {
+       "label": "備註",
+       "value": "營業時間與票價以官網為準"
+      }
+     ],
+     "best_season_zh": "全年",
+     "tips_zh": "夏季蓮花盛開時，水御堂最特別；建議確認開放時間。",
+     "tags": [
+      "建築",
+      "安藤忠雄",
+      "庭園",
+      "淡路島"
+     ],
+     "sources": [
+      "https://en.wikipedia.org/wiki/Awaji_Island"
+     ],
+     "confidence": "medium",
+     "prompt_en": "Awaji Yumebutai concrete architecture with water garden and sea view, soft daylight"
+    },
+    "food": {
+     "title_zh": "淡路島洋蔥",
+     "title_ja": "淡路島の玉ねぎ",
+     "summary_zh": "甜度高辛味少的名產",
+     "body_zh": "淡路島洋蔥以甜味高、辛味少、口感柔軟著稱，據說糖度比一般洋蔥高，辛味成分丙酮酸較少。生長期約6至7個月，比一般洋蔥更長，收成後吊在小屋中熟成，甜味更濃。日照長、氣候溫暖的瀨戶內環境也有助於成長。常見料理包括炸洋蔥圈、烤洋蔥、生洋蔥沙拉與洋蔥漢堡，島上商店也賣洋蔥醬與洋蔥加工品，是受歡迎的伴手禮，初夏是品嚐的好時機。",
+     "facts": [
+      {
+       "label": "特色",
+       "value": "甜、辛味少、柔嫩"
+      },
+      {
+       "label": "生長期",
+       "value": "約6至7個月"
+      },
+      {
+       "label": "處理",
+       "value": "吊小屋熟成"
+      },
+      {
+       "label": "料理",
+       "value": "天婦羅、烤洋蔥、沙拉"
+      }
+     ],
+     "best_season_zh": "春至初夏",
+     "tips_zh": "淡路島多處商店賣洋蔥醬與洋蔥加工品，適合買伴手禮。",
+     "tags": [
+      "洋蔥",
+      "在地食材",
+      "淡路牛",
+      "伴手禮"
+     ],
+     "sources": [
+      "https://furu-sato.com/hyogo/226"
+     ],
+     "confidence": "medium",
+     "prompt_en": "Awaji onion tempura and sweet roasted onions on a plate, close-up, rustic table"
+    },
+    "scenery": {
+     "title_zh": "淡路島夕陽",
+     "title_ja": "淡路島の夕日",
+     "summary_zh": "瀨戶內海的橘紅夕景",
+     "body_zh": "淡路島西岸面對播磨灘，日落時海面與天空染成橘紅色，沿海公路與漁港常是賞夕陽的好地點；島嶼北端與東側則可望見明石海峽大橋，日落後燈光與夕陽交疊，是攝影熱門主題。淡路島是瀨戶內海最大的島，面積約592平方公里，自駕環島約需半日到一日。日落時間隨季節變化，建議提早抵達並留意回程交通，秋冬空氣清澈，天空的色彩層次最為豐富。",
+     "facts": [
+      {
+       "label": "方位",
+       "value": "西岸夕陽、東岸望橋"
+      },
+      {
+       "label": "海域",
+       "value": "瀨戶內海"
+      },
+      {
+       "label": "時段",
+       "value": "日落前後"
+      },
+      {
+       "label": "備註",
+       "value": "觀賞地點多處"
+      }
+     ],
+     "best_season_zh": "秋、冬",
+     "tips_zh": "自駕環島最方便，日落時間每季不同，建議提早抵達。",
+     "tags": [
+      "夕陽",
+      "海景",
+      "瀨戶內海",
+      "島嶼"
+     ],
+     "sources": [
+      "https://en.wikipedia.org/wiki/Awaji_Island"
+     ],
+     "confidence": "medium",
+     "prompt_en": "Sunset over the Seto Inland Sea from Awaji Island coast with orange sky, small boats"
+    }
+   }
+  },
+  {
+   "id": "hyogo_kinosaki",
+   "name_zh": "城崎・但馬",
+   "name_ja": "城崎・但馬",
+   "intro_zh": "兵庫縣北部的但馬地區面向日本海，山多雪多。城崎溫泉有約1300年歷史，是外湯巡遊的代表；冬季松葉蟹是名物；竹田城跡在雲海中猶如浮於空中，是攝影者嚮往之地。冬季旅客眾多，建議提早預約住宿。",
+   "items": {
+    "spot": {
+     "title_zh": "城崎溫泉街",
+     "title_ja": "城崎温泉",
+     "summary_zh": "穿浴衣巡遊七處外湯",
+     "body_zh": "城崎溫泉位於豐岡市，據說已有約1300年歷史，作家志賀直哉1913年到訪並寫下短篇《在城崎》。溫泉街沿大谿川而建，兩岸垂柳成蔭，旅人穿浴衣木屐在七處外湯間漫步：鴻之湯、曼荼羅湯、御所之湯、一之湯、柳湯、地藏湯與里之湯。住宿客通常不必在旅館以外換衣，直接穿浴衣巡遊。傍晚柳樹與燈籠的景色最有風情，是兵庫縣北部最具代表性的溫泉街。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "豐岡市城崎町"
+      },
+      {
+       "label": "歷史",
+       "value": "約1300年"
+      },
+      {
+       "label": "外湯",
+       "value": "7處"
+      },
+      {
+       "label": "特色",
+       "value": "柳樹、浴衣、外湯巡遊"
+      }
+     ],
+     "best_season_zh": "秋、冬",
+     "tips_zh": "可買外湯通票；傍晚柳樹與燈籠景色最漂亮。",
+     "tags": [
+      "溫泉",
+      "外湯",
+      "浴衣",
+      "溫泉街"
+     ],
+     "sources": [
+      "https://en.wikipedia.org/wiki/Kinosaki_Onsen"
+     ],
+     "confidence": "high",
+     "prompt_en": "Kinosaki Onsen town with willow-lined river and yukata visitors, evening glow"
+    },
+    "food": {
+     "title_zh": "松葉蟹",
+     "title_ja": "松葉ガニ",
+     "summary_zh": "日本海冬季代表食材",
+     "body_zh": "松葉蟹即日本海的雪場蟹，是兵庫縣北部但馬地區的冬季代表食材。蟹季一般自11月上旬開始，到翌年3月結束，期間旅館與餐廳會推出蟹壽喜鍋、蟹刺身、炭烤蟹腳與蟹粥等多種做法。漁港水揚的蟹會繫上標籤以示產地與品質。想吃蟹的旅客最好選擇附蟹料理的旅館套餐，通常可一次吃到多種吃法，但蟹季為熱門旺季，須提早預約，價格也比平常更高。",
+     "facts": [
+      {
+       "label": "季節",
+       "value": "約11月至3月"
+      },
+      {
+       "label": "產地",
+       "value": "日本海但馬沿岸"
+      },
+      {
+       "label": "吃法",
+       "value": "蟹鍋、刺身、炭烤"
+      },
+      {
+       "label": "備註",
+       "value": "漁期依官方公告"
+      }
+     ],
+     "best_season_zh": "冬",
+     "tips_zh": "蟹季旅館須提早預約；蟹腳吃法可請教店家。",
+     "tags": [
+      "蟹",
+      "日本海",
+      "冬季美食",
+      "但馬"
+     ],
+     "sources": [
+      "https://en.wikipedia.org/wiki/Kinosaki_Onsen"
+     ],
+     "confidence": "medium",
+     "prompt_en": "Matsuba crab legs and crab hot pot at a ryokan table, steam rising"
+    },
+    "scenery": {
+     "title_zh": "竹田城跡雲海",
+     "title_ja": "竹田城跡",
+     "summary_zh": "雲海上的天空之城",
+     "body_zh": "竹田城跡位於朝來市，海拔約353米，山頂石垣保存完整。築城年代約為15世紀中葉，細節不明；1600年城主赤松廣秀自刃後城被廢，1943年指定為國家史蹟，2006年入選日本百名城。秋季清晨河谷升起雲海時，遠望猶如城池浮在雲上，被稱為日本的馬丘比丘或天空之城。登城需要步行約一小時，山路陡峭，要穿登山鞋；觀賞雲海一般在對岸展望台，需看天氣與氣溫。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "朝來市和田山町"
+      },
+      {
+       "label": "海拔",
+       "value": "約353米"
+      },
+      {
+       "label": "史蹟",
+       "value": "1943年指定國家史蹟"
+      },
+      {
+       "label": "特色",
+       "value": "石垣、雲海"
+      }
+     ],
+     "best_season_zh": "秋（清晨）",
+     "tips_zh": "雲海多在秋季清晨出現，需看天氣；觀賞雲海一般於對岸立雲峽展望台。",
+     "tags": [
+      "城跡",
+      "雲海",
+      "石垣",
+      "天空之城"
+     ],
+     "sources": [
+      "https://en.wikipedia.org/wiki/Takeda_Castle"
+     ],
+     "confidence": "high",
+     "prompt_en": "Takeda Castle ruins above a sea of clouds at sunrise, golden light"
+    }
+   }
+  }
+ ]
+}

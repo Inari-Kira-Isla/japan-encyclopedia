@@ -1,0 +1,277 @@
+{
+  "id": "kagoshima",
+  "foods": [
+    {
+      "title_zh": "鹿兒島黑豚",
+      "title_ja": "鹿児島黒豚",
+      "category": "肉類",
+      "summary_zh": "薩摩傳統黑豚，與英國伯克夏種交配改良而成的名物豬肉。",
+      "body_zh": "鹿兒島黑豚是薩摩藩自江戶時代起飼養食用的黑豬，據維基百科記載，薩英戰爭結束時英方曾贈送伯克夏種，與當地原有黑豚交配後改良品質。鹿兒島的豬肉文化深厚，連西鄉隆盛也相傳愛吃豬肉。黑豚肉質細緻，脂肪帶甜味，料理方式（如涮涮鍋、炸豬排）為一般認知，未逐項查證。具體飼養規格與認證標準本次未逐項核實。",
+      "facts": [
+        {
+          "label": "起源",
+          "value": "江戶時代薩摩藩已養豬食用，後與伯克夏種交配改良"
+        },
+        {
+          "label": "主要食材",
+          "value": "黑豚肉（豬肩里肌、五花等部位）"
+        },
+        {
+          "label": "吃法",
+          "value": "涮涮鍋、炸豬排等（一般認知，未核實）"
+        }
+      ],
+      "season_zh": "全年（冬季涮涮鍋較應景）",
+      "where_zh": "鹿兒島市及薩摩半島的黑豚專門餐廳與旅館料理",
+      "tags": [
+        "黑豚",
+        "薩摩",
+        "涮涮鍋",
+        "豬肉"
+      ],
+      "sources": [
+        "https://ja.wikipedia.org/wiki/黒豚"
+      ],
+      "confidence": "low",
+      "prompt_en": "A single serving of kurobuta pork shabu-shabu: thinly sliced marbled black pork loin fanned out on a round white ceramic plate beside a small bowl of ponzu, with a few blanched cabbage leaves and spring onion, a steaming clay pot softly blurred behind, on a dark wooden table in a warm Japanese restaurant, soft side window light, no text, no signage"
+    },
+    {
+      "title_zh": "薩摩炸魚餅",
+      "title_ja": "さつま揚げ",
+      "category": "鄉土料理",
+      "summary_zh": "魚漿調味後油炸，鹿兒島稱「つけ揚げ」的炸魚餅。",
+      "body_zh": "薩摩炸魚餅是把魚肉打成漿，加鹽與砂糖調味後成形油炸的魚漿製品，不裹麵衣，與天婦羅做法不同。據維基百科，其源頭可追溯到琉球傳來的「ちきあぎ」。在鹿兒島當地多稱為「つけ揚げ」，關西一帶則叫天ぷら。常加入牛蒡、蔥、魷魚或水煮蛋，可直接吃，或略烤後蘸薑汁醬油、芥末醬，也常放進關東煮、烏龍麵與燉菜。本次未核實各店配方。",
+      "facts": [
+        {
+          "label": "起源",
+          "value": "一說源自琉球的「ちきあぎ」傳入薩摩"
+        },
+        {
+          "label": "主要食材",
+          "value": "魚漿、鹽、砂糖，常加牛蒡、蔥、魷魚"
+        },
+        {
+          "label": "吃法",
+          "value": "直接吃或略烤，蘸薑汁醬油；亦入關東煮"
+        }
+      ],
+      "season_zh": "全年",
+      "where_zh": "鹿兒島市及沿海城鎮的魚漿店、伴手禮店",
+      "tags": [
+        "魚漿",
+        "炸物",
+        "琉球傳來",
+        "伴手禮"
+      ],
+      "sources": [
+        "https://ja.wikipedia.org/wiki/さつま揚げ"
+      ],
+      "confidence": "high",
+      "prompt_en": "A single plate of freshly fried satsuma-age fish cakes: three golden-brown oval and round fried fish paste pieces, one cut open to show the white springy interior with burdock flecks, on a small rustic ceramic plate with a dab of grated ginger and a drizzle of soy sauce, on a light wooden counter in a Japanese kitchen, soft natural daylight, no text"
+    },
+    {
+      "title_zh": "奄美雞飯",
+      "title_ja": "鶏飯（けいはん）",
+      "category": "麵飯",
+      "summary_zh": "白飯配雞絲配料，淋上雞湯的奄美大島代表鄉土飯。",
+      "body_zh": "雞飯是奄美大島的代表鄉土料理，據維基百科以笠利町一帶為發祥，早年用野鳥，江戶時代改用雞肉，現行樣式相傳於1945年由旅館「みなとや」確立。白飯上鋪雞絲、蛋絲、香菇、醃菜、蔥、海苔與椪柑皮，再淋上整隻雞熬成的清湯。店家通常把飯、配料與湯分開上桌，客人自行調配、像茶泡飯般吃。1968年皇太子明仁親王曾品嚐並續碗，使其廣為人知。",
+      "facts": [
+        {
+          "label": "起源",
+          "value": "奄美大島笠利町一帶，現行樣式約1945年確立"
+        },
+        {
+          "label": "主要食材",
+          "value": "雞絲、蛋絲、香菇、醃菜、蔥、海苔、椪柑皮、雞湯"
+        },
+        {
+          "label": "吃法",
+          "value": "飯與配料盛碗，自行淋上熱雞湯"
+        }
+      ],
+      "season_zh": "全年",
+      "where_zh": "奄美大島的雞飯專門店與旅館食堂",
+      "tags": [
+        "奄美",
+        "雞湯",
+        "茶泡飯風",
+        "鄉土料理"
+      ],
+      "sources": [
+        "https://ja.wikipedia.org/wiki/鶏飯"
+      ],
+      "confidence": "high",
+      "prompt_en": "A single bowl of Amami keihan chicken rice: steamed white rice topped with shredded chicken, thin egg strands, sliced shiitake, pickles, chopped spring onion and shredded nori, hot clear chicken broth being poured from a small ceramic pitcher, on a dark wooden tray, soft warm light, no text"
+    },
+    {
+      "title_zh": "白熊刨冰",
+      "title_ja": "白くま",
+      "category": "甜點和菓子",
+      "summary_zh": "刨冰淋煉乳、鋪水果與紅豆餡的鹿兒島夏日名物。",
+      "body_zh": "白熊是鹿兒島市發祥的冰品，據維基百科，1947年由咖啡店「むじゃき」創辦人久保武構思，1949年開始販售。做法是在現刨冰上淋加糖煉乳，鋪上罐頭水果，再放紅豆餡，乳香濃郁。名稱由來有兩說：一是煉乳罐頭標籤上的白熊圖案，二是葡萄乾外形像白熊。天文館的「むじゃき」最為知名，也有杯裝、冰棒版本在便利商店全國販售。",
+      "facts": [
+        {
+          "label": "起源",
+          "value": "1947年構思、1949年販售，鹿兒島市「むじゃき」"
+        },
+        {
+          "label": "主要食材",
+          "value": "刨冰、加糖煉乳、水果、紅豆餡"
+        },
+        {
+          "label": "吃法",
+          "value": "趁冰未融用湯匙連同水果、紅豆一起挖食"
+        }
+      ],
+      "season_zh": "夏季",
+      "where_zh": "鹿兒島市天文館一帶的甜品咖啡店",
+      "tags": [
+        "刨冰",
+        "煉乳",
+        "夏日",
+        "天文館"
+      ],
+      "sources": [
+        "https://ja.wikipedia.org/wiki/白くま"
+      ],
+      "confidence": "high",
+      "prompt_en": "A single tall glass dish of Shirokuma shaved ice: a mound of fluffy shaved ice drenched in condensed milk, topped with colorful canned fruit slices, cherries, raisins and a scoop of sweet red bean paste, on a small round table in a retro Japanese cafe, bright summer window light, condensation on the glass, no text"
+    },
+    {
+      "title_zh": "輕羹",
+      "title_ja": "かるかん",
+      "category": "甜點和菓子",
+      "summary_zh": "山藥、米粉與砂糖蒸成的鬆軟白色薩摩傳統和菓子。",
+      "body_zh": "輕羹是鹿兒島的代表和菓子，據維基百科誕生於薩摩藩約1686至1715年間，火山灰地的野生山藥與琉球、奄美傳來的砂糖是條件。做法是把磨碎的山藥加砂糖、輕羹粉（粗磨曬乾的米粉）與水，蒸二十分鐘以上，口感有彈性、似海綿蛋糕，色白。也有包紅豆餡的饅頭型。除鹿兒島外，宮崎與大分也有製作。",
+      "facts": [
+        {
+          "label": "起源",
+          "value": "薩摩藩約1686至1715年間"
+        },
+        {
+          "label": "主要食材",
+          "value": "山藥、輕羹粉（米粉）、砂糖、水"
+        },
+        {
+          "label": "吃法",
+          "value": "切片直接吃，或包紅豆餡的饅頭型"
+        }
+      ],
+      "season_zh": "全年",
+      "where_zh": "鹿兒島市的老字號和菓子店與伴手禮專櫃",
+      "tags": [
+        "山藥",
+        "蒸菓子",
+        "薩摩",
+        "伴手禮"
+      ],
+      "sources": [
+        "https://ja.wikipedia.org/wiki/かるかん"
+      ],
+      "confidence": "high",
+      "prompt_en": "A single piece of karukan Japanese steamed yam cake: a pure white soft sponge-like rectangular block, one slice cut to show the fine airy crumb, resting on a small green lacquer tray with a bamboo pick, on a pale wooden table, soft diffused daylight, calm minimal style, no text"
+    },
+    {
+      "title_zh": "薩摩芋燒酎",
+      "title_ja": "芋焼酎",
+      "category": "酒與飲品",
+      "summary_zh": "以番薯與黑麴釀造，鹿兒島最具代表性的蒸餾酒。",
+      "body_zh": "芋燒酎是以番薯為主原料的蒸餾酒。據維基百科，燒酎製法由琉球傳到薩摩，1705年番薯傳入後應用其上，18世紀前半薩摩藩內已有製造。常用品種為黃白肉的黃金千貫，黑麴菌能產生檸檬酸抑制雜菌。鹿兒島慣以25度兌水或熱水飲用，加熱更能帶出香甜。2005年「薩摩焼酎」登錄為地理標示。",
+      "facts": [
+        {
+          "label": "起源",
+          "value": "1705年番薯傳入後，約18世紀前半在薩摩藩製造"
+        },
+        {
+          "label": "主要食材",
+          "value": "番薯（黃金千貫等）、黑麴、米麴"
+        },
+        {
+          "label": "吃法",
+          "value": "25度兌水或熱水（水割、お湯割り）"
+        }
+      ],
+      "season_zh": "全年（秋季新酒季較熱鬧）",
+      "where_zh": "鹿兒島縣各地酒造與居酒屋",
+      "tags": [
+        "燒酎",
+        "番薯",
+        "黑麴",
+        "薩摩"
+      ],
+      "sources": [
+        "https://ja.wikipedia.org/wiki/芋焼酎"
+      ],
+      "confidence": "high",
+      "prompt_en": "A single traditional Satsuma-style kuro-jyoka clay pot with a small ceramic cup of imo shochu served warm, beside a small dish of pickled radish, a roasted sweet potato slice nearby, on a dark aged wooden table in a quiet Japanese izakaya, warm lantern light, no text, no labels"
+    },
+    {
+      "title_zh": "枕崎鰹節",
+      "title_ja": "枕崎の鰹節",
+      "category": "特產食材",
+      "summary_zh": "枕崎自江戶時代傳承的燻乾發黴鰹魚乾，日式高湯之本。",
+      "body_zh": "枕崎是鹿兒島的鰹節重鎮。據維基百科，寶永年間（1704至1711年）紀州的森彌兵衛把製法傳到此地，之後逐漸發展。當地採用由土佐傳來的改良土佐節製法，先燻乾，再利用黴菌使其乾燥，適合長期保存，風味濃郁。大正時期，捕撈與加工分工專業化，品質提升。鰹節削成薄片，用來煮高湯或撒在料理上。",
+      "facts": [
+        {
+          "label": "起源",
+          "value": "寶永年間（1704至1711年）由紀州人傳入枕崎"
+        },
+        {
+          "label": "主要食材",
+          "value": "鰹魚"
+        },
+        {
+          "label": "吃法",
+          "value": "削片熬高湯，或撒在飯、豆腐上"
+        }
+      ],
+      "season_zh": "全年",
+      "where_zh": "枕崎市的鰹節工廠與鰹魚加工業者",
+      "tags": [
+        "鰹節",
+        "枕崎",
+        "高湯",
+        "發酵"
+      ],
+      "sources": [
+        "https://ja.wikipedia.org/wiki/鰹節"
+      ],
+      "confidence": "medium",
+      "prompt_en": "A single whole katsuobushi dried bonito block next to a small mound of fine shaved bonito flakes on a wooden board, a traditional Japanese wooden katsuobushi shaver box beside it, warm earthy tones, on a rustic wooden counter in a fish-processing workshop, soft side light, no text"
+    },
+    {
+      "title_zh": "鹿兒島拉麵",
+      "title_ja": "鹿児島ラーメン",
+      "category": "B級美食",
+      "summary_zh": "豚骨湯加偏甜醬油、軟麵與蔬菜，配醃蘿蔔的在地拉麵。",
+      "body_zh": "鹿兒島拉麵以豬骨為湯底，湯色半濁或清澈，搭配直麵。據維基百科，與九州其他拉麵相比，它使用偏甜的當地醬油，麵條較軟，蔬菜配料多。歷史上沒有單一源流，最古老的有紀錄店家創業於1947年，各店又吸收中華與台灣系影響，因此風格各異。點餐後店家習慣先上茶與醃蘿蔔，客人邊等邊吃。",
+      "facts": [
+        {
+          "label": "起源",
+          "value": "戰後1947年起有店家創業，各店風格不一"
+        },
+        {
+          "label": "主要食材",
+          "value": "豬骨湯、偏甜醬油、軟直麵、蔬菜"
+        },
+        {
+          "label": "吃法",
+          "value": "先吃店家附上的醃蘿蔔與茶，再吃麵"
+        }
+      ],
+      "season_zh": "全年",
+      "where_zh": "鹿兒島市內的老字號拉麵店",
+      "tags": [
+        "拉麵",
+        "豚骨",
+        "醃蘿蔔",
+        "在地麵食"
+      ],
+      "sources": [
+        "https://ja.wikipedia.org/wiki/鹿児島ラーメン"
+      ],
+      "confidence": "medium",
+      "prompt_en": "A single bowl of Kagoshima-style pork bone ramen: lightly cloudy soup, soft straight noodles, slices of chashu pork, bean sprouts and cabbage, spring onion, with a small side dish of yellow pickled radish, on a worn wooden counter in a Japanese ramen shop, steam rising, warm overhead light, no text"
+    }
+  ]
+}

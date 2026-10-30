@@ -1,0 +1,149 @@
+{
+ "id": "okayama",
+ "foods": [
+  {
+   "title_zh": "岡山散壽司",
+   "title_ja": "岡山ばらずし",
+   "category": "鄉土料理",
+   "summary_zh": "又稱備前散壽司，把多種配料拌入醋飯的鄉土壽司。",
+   "body_zh": "岡山ばらずし（散壽司）是岡山縣的鄉土料理，也稱「備前ばらずし」，一般是把多種蔬菜與魚貝類等配料拌入醋飯的壽司。三好野本店製作的車站便當版本名為「祭ずし」。本次打開的百科頁面沒有寫出岡山版的具體配料與由來，所以不確認配料清單，也不採用坊間的節儉令傳說。實際內容會因店家與季節而不同。",
+   "facts": [
+    {"label": "起源", "value": "由來未核實"},
+    {"label": "主要食材", "value": "醋飯與多種蔬菜、魚貝類（一般說明）"},
+    {"label": "吃法", "value": "盛盤直接食用，亦有車站便當版「祭ずし」"}
+   ],
+   "season_zh": "全年",
+   "where_zh": "岡山市的鄉土料理店與車站便當",
+   "tags": ["散壽司", "鄉土料理", "備前", "壽司"],
+   "sources": ["https://ja.wikipedia.org/wiki/ばら寿司", "https://ja.wikipedia.org/wiki/岡山県"],
+   "confidence": "low",
+   "prompt_en": "A round lacquer box filled with vinegared rice generously topped with colorful scattered ingredients such as shrimp, egg strands, green peas and pickled vegetables, wooden table, soft natural light, no text"
+  },
+  {
+   "title_zh": "多蜜醬豬排飯",
+   "title_ja": "デミカツ丼",
+   "category": "麵飯",
+   "summary_zh": "炸豬排淋棕醬、鋪高麗菜的岡山B級名飯。",
+   "body_zh": "岡山的ドミグラスソースカツ丼（多蜜醬豬排飯）相傳由岡山市「味司野村」的創業者野村佐一郎所創。他在帝國飯店吃到多蜜醬後深受感動，1931年開業時就開始供應。野村用法式作法的多蜜醬，調整成適合白飯。也有拉麵店用番茄醬與伍斯特醬調成的仿多蜜醬。做法是白飯上放切好的炸豬排淋醬，下面常鋪燙高麗菜。",
+   "facts": [
+    {"label": "起源", "value": "相傳1931年岡山市「味司野村」開始供應"},
+    {"label": "主要食材", "value": "白飯、炸豬排、多蜜醬、高麗菜"},
+    {"label": "吃法", "value": "淋醬後趁熱吃，可加青豆或生蛋"}
+   ],
+   "season_zh": "全年",
+   "where_zh": "岡山市的洋食店與食堂",
+   "tags": ["豬排飯", "多蜜醬", "B級", "岡山市"],
+   "sources": ["https://ja.wikipedia.org/wiki/デミカツ丼"],
+   "confidence": "medium",
+   "prompt_en": "A donburi bowl of rice topped with sliced fried pork cutlet covered in glossy dark demi-glace sauce, boiled cabbage beneath, a few green peas on top, plain ceramic bowl on a wooden table, warm light, no text"
+  },
+  {
+   "title_zh": "醋漬ままかり",
+   "title_ja": "ままかり",
+   "category": "海鮮",
+   "summary_zh": "好吃到要向鄰家借飯，用醋漬的瀨戶內小魚。",
+   "body_zh": "ままかり是鯡科小魚サッパ在岡山的叫法，名稱有「好吃到要向鄰家借飯來吃」之意，另有說法是漁夫向鄰船借飯。常見做法是用鹽醃後，與嫩薑、辣椒、昆布一同浸醋。傳統作法是撒鹽，以醋浸一晚，隔天換甕後再倒入加糖的醋再醃一晚。這次打開的頁面沒有寫旬期，所以季節未核實。",
+   "facts": [
+    {"label": "起源", "value": "名稱由來有「向鄰家借飯」說"},
+    {"label": "主要食材", "value": "サッパ、嫩薑、辣椒、昆布、醋"},
+    {"label": "吃法", "value": "醋漬後直接吃，配飯或下酒"}
+   ],
+   "season_zh": "未核實",
+   "where_zh": "岡山市與倉敷一帶的鄉土料理店",
+   "tags": ["ままかり", "醋漬", "瀨戶內", "小魚"],
+   "sources": ["https://ja.wikipedia.org/wiki/ママカリ"],
+   "confidence": "medium",
+   "prompt_en": "Several vinegar-pickled mamakari small silver fish arranged in a row on a small rectangular ceramic plate with thin slices of young ginger and a red chili, wooden table, soft natural light, no text"
+  },
+  {
+   "title_zh": "日生牡蠣燒",
+   "title_ja": "日生のカキオコ",
+   "category": "B級美食",
+   "summary_zh": "把牡蠣大量放進大阪燒的備前日生名物。",
+   "body_zh": "カキオコ是用牡蠣做的大阪燒，發祥於岡山縣備前市日生地區。據說1960年代日生牡蠣養殖興盛，當地漁民與在地客人的店家，把便宜又大量取得的牡蠣放進大阪燒代替肉，因而誕生。高麗菜的切法是廣島風，麵糊的混合方式是關西風，介於兩者之間。使用大量當地牡蠣，因此是10月下旬到3月前後的季節限定，其他季節則以蝦子等代替。",
+   "facts": [
+    {"label": "起源", "value": "1960年代日生牡蠣養殖興盛時"},
+    {"label": "主要食材", "value": "牡蠣、高麗菜、麵糊"},
+    {"label": "吃法", "value": "在鐵板上煎熟，淋醬食用"}
+   ],
+   "season_zh": "10月下旬至3月前後",
+   "where_zh": "備前市日生地區中心部與寒河一帶的店",
+   "tags": ["牡蠣", "大阪燒", "日生", "B級"],
+   "sources": ["https://ja.wikipedia.org/wiki/カキオコ"],
+   "confidence": "high",
+   "prompt_en": "One round okonomiyaki loaded with plump oysters on a hot iron griddle, glossy brown sauce, a drizzle of mayonnaise and sprinkled green onion, a metal spatula beside, warm steam, dim restaurant light, no text"
+  },
+  {
+   "title_zh": "吉備糰子",
+   "title_ja": "吉備団子",
+   "category": "甜點和菓子",
+   "summary_zh": "求肥製的小圓餅，與桃太郎傳說相連的岡山銘菓。",
+   "body_zh": "吉備糰子是岡山的代表土產點心，據說1855年（安政2年）由岡山城下的町人所構想，廣榮堂的產品最為人知，實際上有多位職人參與。現在這種求肥製的形狀在明治時代確立。以糯米粉混合做成求肥，整成小而扁的圓形，有些會加黍粉增添風味，也有不加的。日清戰爭時隨士兵移動傳向全國，並與桃太郎傳說結合，成為名物。",
+   "facts": [
+    {"label": "起源", "value": "1855年由岡山城下町人構想"},
+    {"label": "主要食材", "value": "糯米粉、求肥，部分加黍粉"},
+    {"label": "吃法", "value": "直接當點心，配茶"}
+   ],
+   "season_zh": "全年",
+   "where_zh": "岡山車站與市內的土產名店",
+   "tags": ["吉備糰子", "和菓子", "桃太郎", "岡山"],
+   "sources": ["https://ja.wikipedia.org/wiki/吉備団子"],
+   "confidence": "high",
+   "prompt_en": "A small wooden tray of several flat round soft white kibi dango rice cakes lightly dusted with starch, a cup of green tea beside, bare wooden table, soft natural light, no text"
+  },
+  {
+   "title_zh": "清水白桃",
+   "title_ja": "清水白桃",
+   "category": "特產食材",
+   "summary_zh": "套袋栽培、肉質入口即化的岡山白桃代表。",
+   "body_zh": "清水白桃是1932年在岡山縣偶然以實生苗發現的品種。為避免日曬，每顆桃子都要一顆一顆套袋，成品甜味高雅、肉質入口即化。主要產地是岡山縣與和歌山縣。岡山縣的桃子收穫量位居全國第6位，過去曾居第一，倉敷市、岡山市、淺口市等是主要產地。桃的旬期一般在7至9月，外皮有細毛、形狀左右對稱飽滿者為上品。",
+   "facts": [
+    {"label": "起源", "value": "1932年岡山縣偶然發現的實生品種"},
+    {"label": "主要食材", "value": "白桃，需逐顆套袋栽培"},
+    {"label": "吃法", "value": "削皮生吃"}
+   ],
+   "season_zh": "夏季（桃一般旬期7至9月）",
+   "where_zh": "倉敷、岡山、淺口一帶的產地與水果店",
+   "tags": ["白桃", "水果", "夏季", "岡山"],
+   "sources": ["https://ja.wikipedia.org/wiki/モモ", "https://ja.wikipedia.org/wiki/岡山県"],
+   "confidence": "medium",
+   "prompt_en": "One whole pale pink-white peach next to a halved peach showing creamy white flesh and a stone, on a small ceramic plate, soft natural light, light wooden table, no text"
+  },
+  {
+   "title_zh": "雄町清酒",
+   "title_ja": "雄町（酒米）の日本酒",
+   "category": "酒與飲品",
+   "summary_zh": "岡山發現的酒米雄町所釀的日本酒。",
+   "body_zh": "雄町是酒造好適米，1859年岡山縣高島村雄町的岸本甚造，在從伯耆大山參拜返途中發現稀有品種，1866年命名為「二本草」，後以地名稱雄町米。米粒大、心白大而軟質。昭和初期是最高級酒米，但稻株高達1.8公尺，怕颱風與病蟲害，昭和40年代栽培面積曾剩6公頃，後由岡山酒造業者復興。目前全國九成雄町產自岡山。",
+   "facts": [
+    {"label": "起源", "value": "1859年岸本甚造於岡山雄町發現"},
+    {"label": "主要食材", "value": "雄町米（酒造好適米）"},
+    {"label": "吃法", "value": "清酒，冷飲或常溫"}
+   ],
+   "season_zh": "全年（新酒季節未核實）",
+   "where_zh": "岡山縣內各酒藏與酒鋪",
+   "tags": ["雄町", "日本酒", "酒米", "岡山"],
+   "sources": ["https://ja.wikipedia.org/wiki/雄町"],
+   "confidence": "medium",
+   "prompt_en": "A clear glass sake bottle with a plain label next to a small ceramic ochoko cup filled with sake, a few rice ears in a small vase, dark wooden table, soft side light, no text"
+  },
+  {
+   "title_zh": "千屋牛",
+   "title_ja": "千屋牛",
+   "category": "肉類",
+   "summary_zh": "新見千屋地區的黑毛和牛，小量生產的品牌牛。",
+   "body_zh": "千屋牛產於岡山縣新見市千屋地區，江戶時代原是鐵山業的勞役牛。豪農太田辰五郎（1802至1855年）引進但馬產優良種公牛，1834年開設千屋牛馬市，推動品種改良。品種為黑毛和種，特色是細緻霜降與肉的甘甜，紅肉與脂肪均衡。已登記地域團體商標，因小規模生產，出貨頭數有限，須符合千屋牛振興會的認定標準。",
+   "facts": [
+    {"label": "起源", "value": "江戶時代，1834年開設千屋牛馬市"},
+    {"label": "主要食材", "value": "黑毛和種，細緻霜降"},
+    {"label": "吃法", "value": "燒肉、壽喜燒（未核實）"}
+   ],
+   "season_zh": "全年",
+   "where_zh": "新見市千屋與岡山縣內的燒肉店",
+   "tags": ["千屋牛", "和牛", "新見", "品牌牛"],
+   "sources": ["https://ja.wikipedia.org/wiki/千屋牛"],
+   "confidence": "medium",
+   "prompt_en": "Three slices of finely marbled raw wagyu beef on a dark ceramic plate beside a small tabletop grill, a pinch of salt, wooden table, warm dim light, no text"
+  }
+ ]
+}

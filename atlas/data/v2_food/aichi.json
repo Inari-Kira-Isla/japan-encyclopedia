@@ -1,0 +1,277 @@
+{
+ "id": "aichi",
+ "foods": [
+  {
+   "title_zh": "鰻魚三吃飯",
+   "title_ja": "ひつまぶし",
+   "category": "麵飯",
+   "summary_zh": "切塊蒲燒鰻魚鋪在木桶飯上，一碗三種吃法。",
+   "body_zh": "ひつまぶし是把蒲燒鰻魚切塊，鋪在盛於木飯桶（お櫃）的白飯上。附芥末、海苔絲、蔥與高湯或茶。推薦三種吃法：先原味，再加佐料拌食，最後淋高湯做成茶泡飯。發祥有爭議，名古屋「あつた蓬莱軒」「いば昇」與三重津市的店都曾主張是發祥地。名稱「ひつまぶし」一般認為與「まぶす」（拌）一詞有關，本次未核實。",
+   "facts": [
+    {
+     "label": "起源",
+     "value": "發祥有多說，名古屋兩店與三重津市店皆主張"
+    },
+    {
+     "label": "主要食材",
+     "value": "蒲燒鰻魚、白飯、芥末、蔥、海苔"
+    },
+    {
+     "label": "吃法",
+     "value": "原味、加佐料、淋高湯茶泡三階段"
+    }
+   ],
+   "season_zh": "全年",
+   "where_zh": "名古屋市內的鰻魚專門店",
+   "tags": [
+    "鰻魚",
+    "名古屋めし",
+    "三吃",
+    "木桶"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/ひつまぶし"
+   ],
+   "confidence": "high",
+   "prompt_en": "A wooden ohitsu rice tub filled with sliced grilled eel over rice, small dishes of wasabi, nori and chopped scallions and a teapot beside, dark wooden table, warm light, no text"
+  },
+  {
+   "title_zh": "味噌煮烏龍麵",
+   "title_ja": "味噌煮込みうどん",
+   "category": "鄉土料理",
+   "summary_zh": "在土鍋用八丁味噌煮的硬口感烏龍麵。",
+   "body_zh": "味噌煮込みうどん用豆味噌（尤其是八丁味噌）熬煮，以個人土鍋盛裝，保溫性佳。麵條只用麵粉與水不加鹽，避免與味噌疊加太鹹，口感偏硬。常見配料有雞肉、月見蛋、蔥、香菇與魚板。起源有武田信玄「餺飥」傳承說，也有明治時代一宮紡織女工說。湯頭濃郁帶甜鹹，麵條硬度高，慢慢吃也不易糊掉。",
+   "facts": [
+    {
+     "label": "起源",
+     "value": "有武田信玄餺飥說與明治一宮紡織女工說，並無定論"
+    },
+    {
+     "label": "主要食材",
+     "value": "八丁味噌、無鹽烏龍麵、雞肉、雞蛋、蔥"
+    },
+    {
+     "label": "吃法",
+     "value": "用土鍋蓋當小碟，趁熱吃"
+    }
+   ],
+   "season_zh": "秋冬最宜",
+   "where_zh": "名古屋市內的味噌煮込み老店",
+   "tags": [
+    "烏龍麵",
+    "八丁味噌",
+    "土鍋",
+    "名古屋めし"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/味噌煮込みうどん"
+   ],
+   "confidence": "medium",
+   "prompt_en": "A single small clay donabe pot of bubbling dark miso nikomi udon with an egg, chicken and scallions, lid placed beside, wooden table, rising steam, warm light, no text"
+  },
+  {
+   "title_zh": "味噌炸豬排",
+   "title_ja": "味噌カツ",
+   "category": "B級美食",
+   "summary_zh": "淋八丁味噌醬的炸豬排，名古屋めし代表。",
+   "body_zh": "味噌カツ是在炸豬排上淋以八丁味噌等豆味噌為基底的甜鹹醬汁。起源有多說：一說三重津市的店1965年考案，名古屋則有1945年「気晴亭」與1947年「矢場とん」開業時已供應的說法。可單吃、做成丼飯或三明治，是名古屋めし的代表。酥脆的炸衣配上濃稠味噌醬，口味偏甜鹹，常配白飯與高麗菜絲一起吃。",
+   "facts": [
+    {
+     "label": "起源",
+     "value": "有津市1965年說與名古屋說，並無定論"
+    },
+    {
+     "label": "主要食材",
+     "value": "炸豬排、八丁味噌醬、高麗菜絲"
+    },
+    {
+     "label": "吃法",
+     "value": "單吃、丼飯或三明治"
+    }
+   ],
+   "season_zh": "全年",
+   "where_zh": "名古屋市內的豬排店",
+   "tags": [
+    "豬排",
+    "味噌",
+    "名古屋めし",
+    "B級"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/味噌カツ"
+   ],
+   "confidence": "medium",
+   "prompt_en": "Sliced pork cutlet generously coated in glossy dark miso sauce on a white plate with shredded cabbage on the side, wooden table, soft warm light, no text"
+  },
+  {
+   "title_zh": "名古屋炸雞翅",
+   "title_ja": "手羽先唐揚げ",
+   "category": "肉類",
+   "summary_zh": "名古屋式辛口調味炸雞翅，下酒首選。",
+   "body_zh": "手羽先唐揚げ被視為名古屋市發祥的名古屋めし。連鎖店「世界の山ちゃん」約2001年起擴展至東京，把這道菜推向全國。名古屋式普遍調味濃郁，常用豆味噌或溜り醬油，並以胡椒或香辛料增添辛口風味。具體發明店家與年份本次未能核實。皮脆肉嫩，辛香料味道濃，吃的時候通常用手拿著啃骨邊的肉。",
+   "facts": [
+    {
+     "label": "起源",
+     "value": "名古屋發祥，發明店家與年份未核實"
+    },
+    {
+     "label": "主要食材",
+     "value": "雞翅、醬汁、胡椒"
+    },
+    {
+     "label": "吃法",
+     "value": "直接拿著吃，配啤酒"
+    }
+   ],
+   "season_zh": "全年",
+   "where_zh": "名古屋市內居酒屋與手羽先專門店",
+   "tags": [
+    "雞翅",
+    "炸雞",
+    "名古屋めし",
+    "居酒屋"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/名古屋めし"
+   ],
+   "confidence": "low",
+   "prompt_en": "A single plate of glazed fried chicken wings sprinkled with black pepper and sesame, wooden table in a warm izakaya, soft light, no text"
+  },
+  {
+   "title_zh": "名古屋外郎糕",
+   "title_ja": "ういろう",
+   "category": "甜點和菓子",
+   "summary_zh": "以米粉蒸成的彈牙和菓子，名古屋名物。",
+   "body_zh": "名古屋ういろう以米粉為主原料，口感如年糕彈牙。一般認為元祖是1659年創業的餅文總本店，製法相傳由尾張藩的陳元贇傳入。傳統上有黑糖口味，現代一口大小的巾著絞型很受歡迎，青柳ういろう自1931年起在名古屋站販售，新幹線車內販售使其全國知名。口味有白糖、黑糖、抹茶與紅豆等，切成片狀搭配熱茶食用。",
+   "facts": [
+    {
+     "label": "起源",
+     "value": "元祖為1659年創業的餅文總本店，製法傳自陳元贇（相傳）"
+    },
+    {
+     "label": "主要食材",
+     "value": "米粉、砂糖（黑糖、抹茶等口味）"
+    },
+    {
+     "label": "吃法",
+     "value": "切片直接食用"
+    }
+   ],
+   "season_zh": "全年",
+   "where_zh": "名古屋站與市內和菓子老店",
+   "tags": [
+    "和菓子",
+    "米粉",
+    "伴手禮",
+    "名古屋"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/ういろう_(菓子)"
+   ],
+   "confidence": "medium",
+   "prompt_en": "Sliced blocks of Nagoya uiro rice cake in white and brown sugar flavors on a small ceramic plate with a bamboo pick, wooden table, soft natural light, no text"
+  },
+  {
+   "title_zh": "八丁味噌",
+   "title_ja": "八丁味噌",
+   "category": "特產食材",
+   "summary_zh": "岡崎八丁町的豆味噌，名古屋料理的靈魂。",
+   "body_zh": "八丁味噌起源於愛知縣岡崎市八丁町，江戶時代由早川久右衛門家與大田弥治右衛門家創立。以全大豆做成豆麴，不用米麴或麥麴，在木桶中用石頭加壓，天然發酵一年半至兩年以上，鹹度高、帶澀味與鮮味。是味噌カツ、味噌煮込みうどん等名古屋料理的基底。除了做味噌湯，也常用於燉煮與醬汁，是三河到尾張一帶飲食文化的基礎。",
+   "facts": [
+    {
+     "label": "起源",
+     "value": "江戶時代於岡崎市八丁町創立"
+    },
+    {
+     "label": "主要食材",
+     "value": "大豆（全豆麴）、鹽"
+    },
+    {
+     "label": "時節",
+     "value": "熟成約1.5至2年以上"
+    }
+   ],
+   "season_zh": "全年",
+   "where_zh": "岡崎市八丁町的老味噌廠",
+   "tags": [
+    "味噌",
+    "岡崎",
+    "豆味噌",
+    "發酵"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/八丁味噌"
+   ],
+   "confidence": "high",
+   "prompt_en": "A wooden barrel of dark hatcho miso weighted with stacked river stones inside an old brewery, a small wooden spoon holding a dollop of miso, dim warm light, no text"
+  },
+  {
+   "title_zh": "小倉吐司",
+   "title_ja": "小倉トースト",
+   "category": "B級美食",
+   "summary_zh": "名古屋喫茶店的奶油紅豆厚片吐司。",
+   "body_zh": "小倉トースト約在1921年起源於名古屋一家叫「満つ葉」的喫茶店：客人把奶油吐司沾紅豆湯，老闆因而想出在吐司上放紅豆。做法是厚片吐司烤後塗奶油或人造奶油，再抹小倉餡。屬於名古屋めし，現在連鎖咖啡店如Komeda咖啡也能吃到。紅豆的甜與奶油的鹹香相互搭配，名古屋人常把它當作喫茶店早餐套餐。",
+   "facts": [
+    {
+     "label": "起源",
+     "value": "約1921年名古屋喫茶店「満つ葉」"
+    },
+    {
+     "label": "主要食材",
+     "value": "厚片吐司、奶油、小倉紅豆餡"
+    },
+    {
+     "label": "吃法",
+     "value": "配咖啡當早餐"
+    }
+   ],
+   "season_zh": "全年",
+   "where_zh": "名古屋市的喫茶店",
+   "tags": [
+    "吐司",
+    "紅豆",
+    "喫茶店",
+    "名古屋めし"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/小倉トースト"
+   ],
+   "confidence": "medium",
+   "prompt_en": "A thick slice of toasted bread topped with butter and sweet red bean paste on a small white plate, wooden cafe table with a coffee cup, morning light, no text"
+  },
+  {
+   "title_zh": "名古屋棋子麵",
+   "title_ja": "きしめん",
+   "category": "麵飯",
+   "summary_zh": "寬扁薄滑的烏龍麵，配豆皮與柴魚片。",
+   "body_zh": "きしめん是寬4.5毫米以上、厚2毫米以下的扁平烏龍麵，煮的時間短，表面光滑。起源於江戶時代，說法之一是東海道芋川（今刈谷市）名物的平打烏龍麵，另有三河雉肉麵傳入名古屋演變而來的說法。常見配料有豆皮、雞肉、蔥與柴魚片，也有冷盤和咖哩等變化。湯頭清爽，麵條滑順好入口，是名古屋站周邊上班族的簡便午餐。",
+   "facts": [
+    {
+     "label": "起源",
+     "value": "江戶時代，有芋川平打烏龍麵說與雉肉麵說"
+    },
+    {
+     "label": "主要食材",
+     "value": "扁平烏龍麵、豆皮、蔥、柴魚片"
+    },
+    {
+     "label": "吃法",
+     "value": "熱湯麵為主，也有冷食"
+    }
+   ],
+   "season_zh": "全年",
+   "where_zh": "名古屋站周邊與熱田神宮周邊的麵店",
+   "tags": [
+    "烏龍麵",
+    "扁麵",
+    "名古屋めし",
+    "柴魚"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/きしめん"
+   ],
+   "confidence": "medium",
+   "prompt_en": "A single bowl of kishimen flat wide udon noodles in clear broth topped with fried tofu, scallions and bonito flakes, ceramic bowl on a wooden table, soft steam, warm light, no text"
+  }
+ ]
+}

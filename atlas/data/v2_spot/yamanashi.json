@@ -1,0 +1,285 @@
+{
+  "id": "yamanashi",
+  "spots": [
+    {
+      "title_zh": "忍野八海",
+      "title_ja": "忍野八海",
+      "category": "自然絕景",
+      "area_zh": "南都留郡忍野村",
+      "summary_zh": "富士山伏流水湧出的八個清澈水池。",
+      "body_zh": "忍野八海位於忍野村，是八處湧水池的總稱，水源來自富士山及周邊山地的地下水。八個水池各以龍神之名命名，其中湧池水量最大、最清澈，出口池則最小；1843年起形成參拜八池的巡禮路線。這裡1934年被指定為國家天然紀念物，1985年入選名水百選，2013年成為世界遺產「富士山—信仰對象與藝術源泉」的構成資產。池水清澈見底，背後常見富士山，是欣賞湧水與山景的代表地點。",
+      "facts": [
+        {
+          "label": "所在地",
+          "value": "南都留郡忍野村"
+        },
+        {
+          "label": "開創／成因",
+          "value": "富士山地下水湧出，八池成為巡禮路線（1843年）"
+        },
+        {
+          "label": "看點",
+          "value": "清澈湧水池；1934年天然紀念物、2013年世界遺產構成資產"
+        }
+      ],
+      "best_season_zh": "春至秋天晴朗的清晨",
+      "tips_zh": "請勿向池中投擲硬幣，以免影響水質；各池之間步行即可串連，建議預留一至兩小時，並留意池畔私人店舖的用地範圍。",
+      "tags": [
+        "湧水",
+        "世界遺產",
+        "名水百選",
+        "富士山"
+      ],
+      "sources": [
+        "https://ja.wikipedia.org/wiki/忍野八海"
+      ],
+      "confidence": "high",
+      "prompt_en": "Crystal-clear spring pond in a quiet Japanese village, thatched-roof farmhouse and wooden railing in the middle ground, Mount Fuji faintly visible in the background, early morning soft light, aquatic plants visible under the water, no text, no recognizable people"
+    },
+    {
+      "title_zh": "新倉山淺間公園",
+      "title_ja": "新倉山浅間公園",
+      "category": "庭園公園",
+      "area_zh": "富士吉田市",
+      "summary_zh": "以五重塔、櫻花與富士山同框聞名的山丘公園。",
+      "body_zh": "新倉山淺間公園位於富士吉田市，1959年10月開園，面積約4.29公頃，園內約有650棵染井吉野櫻。山腰的五重塔外形雖似佛塔，實為1962年建成的戰歿者慰靈塔，高約19.5公尺，鋼筋混凝土結構，祭祀當地約1,055名戰歿者。從山坡觀景台可將櫻花、慰靈塔與富士山收進同一畫面，這個構圖因海外媒體與旅遊指南介紹而聞名，花季時遊客眾多。",
+      "facts": [
+        {
+          "label": "所在地",
+          "value": "富士吉田市"
+        },
+        {
+          "label": "開創／成因",
+          "value": "1959年開園；慰靈塔1962年建成"
+        },
+        {
+          "label": "看點",
+          "value": "約650棵染井吉野櫻、五重塔與富士山同框"
+        }
+      ],
+      "best_season_zh": "四月上旬至中旬櫻花季",
+      "tips_zh": "自下吉田站步行約10分鐘可達；花季人潮擁擠，建議清早到訪並遵守現場動線，慰靈塔是紀念設施，請保持安靜與敬意。",
+      "tags": [
+        "櫻花",
+        "富士山",
+        "慰靈塔",
+        "觀景"
+      ],
+      "sources": [
+        "https://ja.wikipedia.org/wiki/新倉山浅間公園"
+      ],
+      "confidence": "high",
+      "prompt_en": "Hillside park with a five-story red pagoda among blooming cherry trees, Mount Fuji rising behind, spring morning, stone steps in the foreground, soft pink petals, no text, no recognizable people"
+    },
+    {
+      "title_zh": "身延山久遠寺",
+      "title_ja": "身延山久遠寺",
+      "category": "神社寺院",
+      "area_zh": "南巨摩郡身延町",
+      "summary_zh": "日蓮宗總本山，以長石階與枝垂櫻聞名。",
+      "body_zh": "久遠寺位於身延町，是日蓮宗的總本山。1281年由日蓮在地方領主波木井（南部）實長的支持下創建；日蓮自1274年起在此居住約九年，據稱寫下了其著作的大部分。寺內有287級的石階「菩提梯」，直通本堂，五重塔於2008年重建，現今的本堂則於1985年完成。春天樹齡悠久的枝垂櫻盛開，是寺內最受歡迎的景色，也有許多信徒前來參拜。",
+      "facts": [
+        {
+          "label": "所在地",
+          "value": "南巨摩郡身延町"
+        },
+        {
+          "label": "開創／成因",
+          "value": "1281年由日蓮創建，為日蓮宗總本山"
+        },
+        {
+          "label": "看點",
+          "value": "287級菩提梯、2008年重建的五重塔、春天枝垂櫻"
+        }
+      ],
+      "best_season_zh": "四月初枝垂櫻盛開時",
+      "tips_zh": "自身延站搭巴士約15分鐘；石階不少，請穿好走的鞋。寺內是信仰場所，拍照時留意參拜者與禁止攝影的區域。",
+      "tags": [
+        "日蓮宗",
+        "枝垂櫻",
+        "石階",
+        "五重塔"
+      ],
+      "sources": [
+        "https://ja.wikipedia.org/wiki/久遠寺"
+      ],
+      "confidence": "high",
+      "prompt_en": "Long stone staircase leading up to a large Buddhist temple hall in a forested valley, weeping cherry blossoms framing the path, five-story pagoda on the side, spring morning mist, no text, no recognizable people"
+    },
+    {
+      "title_zh": "武田神社（躑躅崎館跡）",
+      "title_ja": "武田神社",
+      "category": "城郭史蹟",
+      "area_zh": "甲府市",
+      "summary_zh": "祭祀武田信玄、建於武田氏居館遺址上的神社。",
+      "body_zh": "武田神社位於甲府市古府中町，建在戰國時代武田氏居館躑躅崎館（武田氏館）的遺址上，主祭神為武田信玄。該館於1519年由武田信虎興建，歷信虎、信玄、勝頼三代，是武田領國的政治中心；神社則在大正年間因信玄獲追贈從三位而籌建，1919年社殿竣工。境內寶物殿收藏信玄軍扇、武田二十四將圖等遺物，每年4月12日前的週末還有信玄公祭。",
+      "facts": [
+        {
+          "label": "所在地",
+          "value": "甲府市古府中町"
+        },
+        {
+          "label": "開創／成因",
+          "value": "1519年武田信虎築躑躅崎館；1919年（大正8年）社殿竣工，祭祀武田信玄"
+        },
+        {
+          "label": "看點",
+          "value": "館跡遺構、寶物殿（武田家遺物）、信玄公祭"
+        }
+      ],
+      "best_season_zh": "春季櫻花與初夏新綠",
+      "tips_zh": "寶物殿另需購票，可與館跡的護城壕一併慢逛；信玄公祭人潮多，想靜靜參拜宜避開4月中旬週末。",
+      "tags": [
+        "武田信玄",
+        "居館遺址",
+        "戰國",
+        "護城壕"
+      ],
+      "sources": [
+        "https://ja.wikipedia.org/wiki/武田神社"
+      ],
+      "confidence": "medium",
+      "prompt_en": "Shrine approach at the site of a samurai-era mansion, old stone walls and a moat reflecting trees, torii gate and wooden shrine hall in the middle ground, mountains behind, soft spring light, no text, no recognizable people"
+    },
+    {
+      "title_zh": "昇仙峽",
+      "title_ja": "昇仙峡",
+      "category": "自然絕景",
+      "area_zh": "甲府市北部",
+      "summary_zh": "奇岩與溪流構成的甲府近郊溪谷。",
+      "body_zh": "昇仙峽位於甲府市北側的荒川上游，是被指定為特別名勝的溪谷，名列「日本五大名峽」。自長潭橋至仙娥瀑全長約5公里，由河水深切花崗岩而成，沿途可見柱狀節理的花崗岩與輝石安山岩奇岩。精華段落在能泉地區至仙娥瀑之間，另有被選為日本瀑布百選的仙娥瀑與羅漢寺；旺季假日部分路段限制車輛，改為步行。",
+      "facts": [
+        {
+          "label": "所在地",
+          "value": "甲府市（甲府盆地北側、荒川上游）"
+        },
+        {
+          "label": "開創／成因",
+          "value": "荒川深切花崗岩形成，全長約5公里，特別名勝"
+        },
+        {
+          "label": "看點",
+          "value": "奇岩、仙娥瀑（日本瀑布百選）、羅漢寺"
+        }
+      ],
+      "best_season_zh": "十月下旬至十一月紅葉季",
+      "tips_zh": "旺季假日車道多段管制，可停在仙娥瀑一帶再沿溪步行；秋季紅葉期最擁擠，建議清晨出發。",
+      "tags": [
+        "溪谷",
+        "奇岩",
+        "紅葉",
+        "瀑布"
+      ],
+      "sources": [
+        "https://ja.wikipedia.org/wiki/昇仙峡"
+      ],
+      "confidence": "medium",
+      "prompt_en": "Narrow river gorge with towering granite rock formations and a small waterfall, autumn foliage in red and orange, a footpath along the stream, soft diffused light, no text, no recognizable people"
+    },
+    {
+      "title_zh": "石和溫泉",
+      "title_ja": "石和温泉",
+      "category": "溫泉",
+      "area_zh": "笛吹市",
+      "summary_zh": "位於果樹園之中、離東京較近的溫泉鄉。",
+      "body_zh": "石和溫泉位於山梨縣笛吹市（舊石和町），與鄰近的春日居溫泉在實際營運上已合為「石和溫泉鄉」。它是相當年輕的溫泉：1956年12月，小松安則在自家遊覽農場以西式機械鑽井，湧出40℃以上的溫泉，其後周邊陸續有旅館鑿井開業，形成溫泉街。因位在甲府盆地的葡萄產區，常與賞花、採果行程結合。",
+      "facts": [
+        {
+          "label": "所在地",
+          "value": "山梨縣笛吹市（舊石和町）"
+        },
+        {
+          "label": "開創／成因",
+          "value": "1956年12月鑽井湧出40℃以上溫泉，其後旅館陸續開業"
+        },
+        {
+          "label": "看點",
+          "value": "旅館區溫泉、與春日居溫泉一體的溫泉鄉"
+        }
+      ],
+      "best_season_zh": "四月桃花盛開時",
+      "tips_zh": "住宿型溫泉街為主，建議預訂含泡湯的住宿；與甲府盆地的水果行程搭配，季節以果期為準。",
+      "tags": [
+        "溫泉",
+        "果樹園",
+        "桃花",
+        "葡萄酒"
+      ],
+      "sources": [
+        "https://ja.wikipedia.org/wiki/石和温泉"
+      ],
+      "confidence": "medium",
+      "prompt_en": "Hot spring resort town in a basin, peach blossoms in full bloom in the foreground orchard, traditional inn building in the middle ground, distant mountains with soft haze, spring afternoon light, no text, no recognizable people"
+    },
+    {
+      "title_zh": "富士急樂園",
+      "title_ja": "富士急ハイランド",
+      "category": "主題設施",
+      "area_zh": "富士吉田市",
+      "summary_zh": "以高速過山車與富士山景著稱的遊樂園。",
+      "body_zh": "富士急樂園（Fuji-Q Highland）位於富士吉田市與富士河口湖町之間，由富士急集團經營。前身是1961年12月開園的富士五湖國際溜冰中心，1964年改為遊樂園「富士拉瑪公園」，1969年更名現名。園方以FUJIYAMA、ええじゃないか、高飛車、ZOKKON等大型雲霄飛車聞名，歷年屢創金氏紀錄，近年也增設湯瑪士樂園等親子區域。",
+      "facts": [
+        {
+          "label": "所在地",
+          "value": "富士吉田市／富士河口湖町"
+        },
+        {
+          "label": "開創／成因",
+          "value": "1961年溜冰中心，1964年成為遊樂園，1969年更名富士急樂園"
+        },
+        {
+          "label": "看點",
+          "value": "FUJIYAMA等大型雲霄飛車、親子主題區"
+        }
+      ],
+      "best_season_zh": "秋季天氣晴朗、視野佳時",
+      "tips_zh": "熱門機台排隊長，旺季可考慮住園方官方飯店或買能提早入園的通票（制度以官網為準）；天氣好時搭機台可遠眺富士山。",
+      "tags": [
+        "遊樂園",
+        "過山車",
+        "富士山",
+        "家庭"
+      ],
+      "sources": [
+        "https://ja.wikipedia.org/wiki/富士急ハイランド"
+      ],
+      "confidence": "medium",
+      "prompt_en": "Large roller coaster tracks sweeping through an amusement park with Mount Fuji rising behind, clear autumn day, bright blue sky, colorful rides in the middle ground, wide shot, no text, no signage, no recognizable people"
+    },
+    {
+      "title_zh": "清里高原",
+      "title_ja": "清里高原",
+      "category": "山岳高原",
+      "area_zh": "北杜市",
+      "summary_zh": "八岳山麓的避暑高原，牧場與森林環繞。",
+      "body_zh": "清里高原位於北杜市高根町，在八岳東南麓，是山梨縣代表性的高原度假地。地名源自1875年浅川村與樫山村合併而成的清里村。被稱為「清里開拓之父」的美國傳教士保羅・拉什（Paul Rusch）所創的KEEP協會，營運著清泉寮與KEEP農場；另有工藝家商店聚集的「萌木之村」與清里溫泉，是避暑與兜風的熱門去處。",
+      "facts": [
+        {
+          "label": "所在地",
+          "value": "北杜市高根町清里（八岳東南麓）"
+        },
+        {
+          "label": "開創／成因",
+          "value": "地名源自1875年的清里村；保羅・拉什推動清里開拓"
+        },
+        {
+          "label": "看點",
+          "value": "清泉寮、KEEP農場、萌木之村、清里溫泉"
+        }
+      ],
+      "best_season_zh": "七至八月避暑、十月紅葉",
+      "tips_zh": "高原夏季涼爽適合避暑，冬季氣溫低、路面可能結冰；可把清泉寮與萌木之村排在同一天。",
+      "tags": [
+        "高原",
+        "八岳",
+        "牧場",
+        "避暑"
+      ],
+      "sources": [
+        "https://ja.wikipedia.org/wiki/清里高原"
+      ],
+      "confidence": "medium",
+      "prompt_en": "Open highland meadow with grazing pasture and scattered larch trees, Yatsugatake mountains in the distance with clouds, summer morning, wooden fence in the foreground, soft green light, no text, no recognizable people"
+    }
+  ]
+}

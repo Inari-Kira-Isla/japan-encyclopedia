@@ -1,0 +1,831 @@
+{
+ "id": "oita",
+ "name_zh": "大分",
+ "name_ja": "大分県",
+ "region": "九州",
+ "overview": {
+  "intro_zh": "大分縣位於九州東北部，面積約6,341平方公里，縣廳所在地為大分市。這裡是日本聞名的溫泉王國，源泉數與湧出量均居全國之冠，別府的地獄巡禮與由布院的晨霧湖面最具代表性。縣內另有宇佐神宮、臼杵石佛等歷史遺產，以及關鯵關鯖、雞天、地獄蒸等飲食文化。香橙類的臭橙（Kabosu）和乾香菇的產量也居全國第一，山海資源豐富。",
+  "capital_zh": "大分市",
+  "area_km2": 6341,
+  "population_approx": "約106萬（2025年前後）",
+  "flower_zh": "豐後梅",
+  "bird_zh": "綠繡眼（メジロ）",
+  "tree_zh": "豐後梅",
+  "climate_zh": "北部沿海偏瀨戶內海氣候、冬天多雲；南部溫暖多雨，山區冬季較冷，由布院、九重一帶高原涼爽。",
+  "access_zh": "大分機場有往返東京等地航班，機場至市區可乘氣墊船或巴士；也可由福岡乘特急「音速號」到大分、別府。",
+  "specialties_zh": [
+   "關鯵關鯖",
+   "臭橙（Kabosu）",
+   "乾香菇",
+   "雞天",
+   "地獄蒸料理"
+  ],
+  "best_season_zh": "秋季（楓葉與高原草原）及冬季（溫泉）；春季賞花亦宜。"
+ },
+ "items": {
+  "architecture": {
+   "title_zh": "宇佐神宮",
+   "title_ja": "宇佐神宮",
+   "summary_zh": "全國八幡宮的總本宮，朱紅社殿位於林間。",
+   "body_zh": "宇佐神宮位於大分縣宇佐市，是日本各地約四萬座八幡神社的總本宮，地位僅次於伊勢神宮。社傳創建於8世紀初，自古受朝廷崇敬，曾位列「一宮」。上宮與下宮的本殿採「八幡造」，是兩棟並列、中間相連的獨特形式，已被指定為國寶。參道兩旁古木參天，朱紅社殿在綠意中特別醒目，是了解日本神佛習合信仰的重要場所。參拜時可順道參觀鄰近的大元神社與宇佐歷史博物館，了解八幡信仰如何傳遍全國。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "大分縣宇佐市南宇佐"
+    },
+    {
+     "label": "地位",
+     "value": "全國八幡宮總本宮"
+    },
+    {
+     "label": "建築",
+     "value": "本殿採八幡造，為國寶"
+    },
+    {
+     "label": "創建",
+     "value": "傳為8世紀初"
+    }
+   ],
+   "best_season_zh": "春、秋",
+   "tips_zh": "上宮需爬較長石階，參拜按『二拜二拍手一拜』（宇佐為四拍手）。",
+   "tags": [
+    "神社",
+    "八幡宮",
+    "國寶",
+    "朱紅"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/宇佐神宮",
+    "https://en.wikipedia.org/wiki/Usa_Shrine"
+   ],
+   "confidence": "high",
+   "prompt_en": "A vermilion shrine hall and long stone steps amid tall cedar trees, soft morning mist, dappled light"
+  },
+  "food": {
+   "title_zh": "關鯵關鯖",
+   "title_ja": "関あじ・関さば",
+   "summary_zh": "佐賀關漁獲，一本釣的高級品牌魚。",
+   "body_zh": "關鯵、關鯖指在豐予海峽（速吸瀨戶）捕獲、於大分市佐賀關上岸的竹筴魚與鯖魚。因海流急、餌料豐富，魚肉結實有彈性。漁民堅持以一本釣方式捕魚，並以活〆處理維持鮮度。1996年「關鯵、關鯖」被登記為商標，被稱為水產品中首例，之後也登錄為地域團體商標，出貨時附有尾部標籤防偽。最常見的吃法是刺身，鮮度極高，鯖魚也可生食。在佐賀關周邊的食堂與大分市區的料理店可品嚐，也有鹽烤、味噌拌等不同做法，可一次嘗試不同風味。",
+   "facts": [
+    {
+     "label": "產地",
+     "value": "大分市佐賀關（豐予海峽）"
+    },
+    {
+     "label": "漁法",
+     "value": "一本釣、活〆"
+    },
+    {
+     "label": "商標",
+     "value": "1996年登記，2006年登錄地域團體商標"
+    },
+    {
+     "label": "吃法",
+     "value": "刺身、鹽燒"
+    }
+   ],
+   "best_season_zh": "全年（秋冬脂肪較多）",
+   "tips_zh": "在佐賀關周邊的食堂可吃到；選有『關』標籤的魚種較有保證。",
+   "tags": [
+    "竹筴魚",
+    "鯖魚",
+    "品牌魚",
+    "刺身"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/関あじ"
+   ],
+   "confidence": "high",
+   "prompt_en": "Fresh horse mackerel and mackerel sashimi arranged on a plate over crushed ice with garnish, glistening, close-up"
+  },
+  "culture": {
+   "title_zh": "別府竹細工",
+   "title_ja": "別府竹細工",
+   "summary_zh": "以真竹編織的溫泉地傳統工藝。",
+   "body_zh": "別府竹細工是大分縣別府市的竹編工藝，1979年被指定為經濟產業省的傳統工藝品。主要使用真竹，依用途挑選青竹、白竹、煤竹等，編成花籃、茶具、提包與燈具等。據傳起源可追溯到古代，室町時代起漸成產業，江戶時代因溫泉客需要日用竹器而興盛。大分縣的真竹產量約佔全國三成，是別府竹編的材料基礎。近年也有結合時尚設計的竹包與燈飾。工房中能看到職人如何將竹子剖片、編織與整形，具有觀賞和學習價值。",
+   "facts": [
+    {
+     "label": "類別",
+     "value": "竹編工藝"
+    },
+    {
+     "label": "指定",
+     "value": "1979年傳統工藝品"
+    },
+    {
+     "label": "材料",
+     "value": "真竹"
+    },
+    {
+     "label": "現況",
+     "value": "認證傳統工匠約十餘人"
+    }
+   ],
+   "best_season_zh": "全年",
+   "tips_zh": "別府市內有竹工藝展示館與工房，可看工序，部分提供體驗課程。",
+   "tags": [
+    "竹編",
+    "傳統工藝",
+    "溫泉地",
+    "手工"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/別府竹細工"
+   ],
+   "confidence": "high",
+   "prompt_en": "Hands weaving thin bamboo strips into a round basket in a bright workshop, finished bamboo baskets in the background"
+  },
+  "history": {
+   "title_zh": "臼杵石佛",
+   "title_ja": "臼杵石仏",
+   "summary_zh": "平安至鎌倉時代的岩壁雕刻佛像群。",
+   "body_zh": "臼杵石佛位於臼杵市，是在凝灰岩崖壁上雕出的摩崖佛群，分成古園、山王山、堀越等四個區域，共約六十尊，製作年代推定在平安後期至鎌倉時代。中央的大日如來像是代表，1993年完成大規模保存修復，並重新接上佛頭。1995年石佛被指定為國寶，是日本唯一被列為國寶的摩崖佛雕塑，並與周邊一併被指定為特別史蹟。石佛位於林木與田野之間，環境靜謐，很適合安靜地慢慢欣賞佛像表情與岩壁紋理。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "大分縣臼杵市"
+    },
+    {
+     "label": "年代",
+     "value": "平安後期至鎌倉時代"
+    },
+    {
+     "label": "指定",
+     "value": "1995年國寶（摩崖佛）、特別史蹟"
+    },
+    {
+     "label": "規模",
+     "value": "四群約六十尊"
+    }
+   ],
+   "best_season_zh": "春、秋",
+   "tips_zh": "參觀路徑為步行約30至40分鐘；雨後路滑，宜穿防滑鞋。",
+   "tags": [
+    "摩崖佛",
+    "國寶",
+    "平安時代",
+    "佛像"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/臼杵石仏",
+    "https://en.wikipedia.org/wiki/Usuki_Stone_Buddhas"
+   ],
+   "confidence": "high",
+   "prompt_en": "Ancient Buddha figures carved into a tuff cliff face with moss and soft shadows, covered viewing hall roof edge, quiet atmosphere"
+  },
+  "mascot": {
+   "title_zh": "綠繡眼吉祥物與原創溫泉蛋角色",
+   "title_ja": "めじろん",
+   "summary_zh": "縣角色為綠繡眼『めじろん』；本頁為原創角色。",
+   "body_zh": "大分縣的官方吉祥物是以縣鳥綠繡眼為原型的「めじろん」，2004年經公開徵件選出，原為2008年大分國體的角色，賽後轉任縣的『應援團』，其身高以20.08個乾香菇、體重以200.8個臭橙計，致敬2008年。本站不複製既有角色，改以溫泉、臭橙的元素創作原創角色。縣內道之驛、機場與觀光案內所常見めじろん主題商品，是旅遊紀念品的選項之一。縣內的物產館與道之驛常見以めじろん為主題的玩偶、文具與食品包裝，可作為輕巧的伴手禮。",
+   "facts": [
+    {
+     "label": "縣吉祥物",
+     "value": "めじろん（綠繡眼）"
+    },
+    {
+     "label": "誕生",
+     "value": "2004年選出，用於2008年國體"
+    },
+    {
+     "label": "設計靈感",
+     "value": "縣鳥綠繡眼、乾香菇、臭橙"
+    },
+    {
+     "label": "備註",
+     "value": "本頁為原創插圖"
+    }
+   ],
+   "best_season_zh": "全年",
+   "tips_zh": "縣內道之驛與觀光案內所常見めじろん周邊商品。",
+   "tags": [
+    "吉祥物",
+    "綠繡眼",
+    "地方角色",
+    "原創"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/めじろん",
+    "https://en.wikipedia.org/wiki/Oita_Prefecture"
+   ],
+   "confidence": "high",
+   "prompt_en": "An original cute character shaped like a steaming onsen egg wearing a tiny towel and a green kabosu citrus hat, not replicating any existing trademarked mascot"
+  },
+  "scenery": {
+   "title_zh": "金鱗湖",
+   "title_ja": "金鱗湖",
+   "summary_zh": "由布院的小湖，秋冬清晨水面升霧。",
+   "body_zh": "金鱗湖位於由布院溫泉街，面積約0.8公頃、周長約400公尺，水深約2公尺。湖底湧出溫泉與冷泉，另有數條小河注入，部分水溫約30度，故秋冬清晨與氣溫差大時會升起晨霧。名稱據傳是1884年儒者毛利空桑見夕陽照射魚鱗如金，故命名「金鱗湖」。湖畔有咖啡館與藝廊，後方可望由布岳，是由布院最具代表性的景色。湖畔步道只需十幾分鐘即可繞行，但最好多留時間，坐在咖啡館靜靜觀看湖面光影變化。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "大分縣由布市湯布院町"
+    },
+    {
+     "label": "規模",
+     "value": "面積約0.8公頃，周長約400公尺"
+    },
+    {
+     "label": "特色",
+     "value": "秋冬清晨升霧"
+    },
+    {
+     "label": "命名",
+     "value": "1884年由毛利空桑命名"
+    }
+   ],
+   "best_season_zh": "秋、冬清晨",
+   "tips_zh": "晨霧多見於天氣放晴的冷天清晨，建議住宿一晚再早起前往。",
+   "tags": [
+    "湖",
+    "晨霧",
+    "由布院",
+    "咖啡館"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/金鱗湖"
+   ],
+   "confidence": "high",
+   "prompt_en": "A small misty lake at dawn with reflections of trees and lakeside cafes, soft pastel sky, mountain behind"
+  },
+  "spot": {
+   "title_zh": "別府地獄巡禮",
+   "title_ja": "別府地獄めぐり",
+   "summary_zh": "在高溫噴氣與彩色池水之間巡遊的溫泉景點。",
+   "body_zh": "別府地獄巡禮是別府市鐵輪、柴石一帶高溫自然湧出的溫泉景觀。別府地獄組合有七處：海地獄、鬼石坊主地獄、竈地獄、鬼山地獄、白池地獄、血池地獄與龍卷地獄。海地獄因含硫酸鐵而呈鈷藍色，血池地獄為紅色泥水；其中四處（海、血池、白池、龍卷）於2009年被指定為國家名勝。遊客以觀賞為主，不可入浴。除了觀賞，部分地獄附設足湯、溫泉蛋與布丁，可以邊逛邊品嚐，很適合家庭同遊。各處入場費約數百日圓，共通券較划算，並可在鐵輪區的足湯放鬆雙腳。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "大分縣別府市鐵輪・柴石"
+    },
+    {
+     "label": "組成",
+     "value": "七處地獄（組合加盟）"
+    },
+    {
+     "label": "指定",
+     "value": "2009年四處為國家名勝"
+    },
+    {
+     "label": "注意",
+     "value": "觀賞用，不可入浴"
+    }
+   ],
+   "best_season_zh": "全年",
+   "tips_zh": "七處可購共通券，分兩區：鐵輪五處、柴石兩處，建議用公車或自駕，各處路程約半天。",
+   "tags": [
+    "地獄",
+    "溫泉",
+    "噴氣",
+    "名勝"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/別府地獄めぐり"
+   ],
+   "confidence": "high",
+   "prompt_en": "A bright cobalt-blue hot spring pool emitting steam against dark rocks, vivid color contrast, wooden railing, no people"
+  },
+  "experience": {
+   "title_zh": "地獄蒸料理體驗",
+   "title_ja": "地獄蒸し",
+   "summary_zh": "用溫泉蒸氣蒸熟食材的別府鐵輪特色。",
+   "body_zh": "地獄蒸是利用溫泉的高溫蒸氣蒸煮食物的方法，江戶時代起在鐵輪溫泉一帶流傳。自炊旅館有供住客使用的地獄釜，食材如蔬菜、肉、海鮮與番薯被放在竹篩上，蓋上蓋子利用含鹽蒸氣蒸熟。遊客也可到『地獄蒸工房』買食材當場蒸煮，常見有溫泉蛋、布丁、玉米與番薯。蒸氣讓食材保持甜味，口感鬆軟。不少溫泉旅館也提供自炊套餐，讓住客自己動手蒸煮，體驗當地生活。若不想自己動手，也可選擇由旅館或工房代為蒸好，邊聊邊品嚐，輕鬆體驗。",
+   "facts": [
+    {
+     "label": "地點",
+     "value": "別府市鐵輪溫泉、明礬溫泉"
+    },
+    {
+     "label": "起源",
+     "value": "江戶時代起"
+    },
+    {
+     "label": "做法",
+     "value": "食材放竹篩，蒸氣加熱"
+    },
+    {
+     "label": "常見食材",
+     "value": "蔬菜、肉、海鮮、溫泉蛋"
+    }
+   ],
+   "best_season_zh": "全年",
+   "tips_zh": "蒸氣溫度很高，取食材請戴隔熱手套並聽從工作人員指示。",
+   "tags": [
+    "地獄蒸",
+    "溫泉",
+    "蒸料理",
+    "體驗"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/地獄蒸し"
+   ],
+   "confidence": "high",
+   "prompt_en": "Seafood, vegetables and eggs steamed in a natural hot spring vent steamer, steam clouds, wooden tongs and a bamboo basket"
+  },
+  "costume": {
+   "title_zh": "浴衣漫步溫泉街",
+   "title_ja": "湯の街の装い",
+   "summary_zh": "穿浴衣漫步湯布院與別府溫泉街，模特兒為匿名。",
+   "body_zh": "在大分的溫泉街，浴衣是最自然的服裝：旅館提供輕薄的棉浴衣，泡湯後可穿著在街上散步。由布院的湯之坪街道與別府的鐵輪一帶，常見旅客穿浴衣配木屐。浴衣以棉為主，夏季穿著透氣，冬季則需外加羽織。此條屬體驗性的服飾介紹，並非單一文物考證。在溫泉街租借浴衣和木屐也很普遍，可以搭配漫步湯之坪街道或鐵輪溫泉一帶，營造濃厚的溫泉旅行氛圍。夜晚穿浴衣漫步，加上街燈和蒸氣的氛圍，很適合拍照留念。",
+   "facts": [
+    {
+     "label": "類別",
+     "value": "浴衣／溫泉街穿著"
+    },
+    {
+     "label": "場景",
+     "value": "由布院、別府"
+    },
+    {
+     "label": "素材",
+     "value": "棉"
+    },
+    {
+     "label": "備註",
+     "value": "意象式介紹"
+    }
+   ],
+   "best_season_zh": "夏秋夜晚",
+   "tips_zh": "浴衣前襟要『右壓左』，腰帶綁好；出門請遵守旅館對外穿浴衣的規定。",
+   "tags": [
+    "浴衣",
+    "溫泉街",
+    "木屐",
+    "夏夜"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/浴衣"
+   ],
+   "confidence": "medium",
+   "prompt_en": "An anonymous model in a cotton yukata strolling a hot spring street at dusk, lanterns, soft steam, back view"
+  }
+ },
+ "areas": [
+  {
+   "id": "oita_beppu",
+   "name_zh": "別府",
+   "name_ja": "別府",
+   "intro_zh": "別府位於大分縣東部，是日本代表的溫泉都市，別府八湯分布於市內，源泉數與湧出量居全國第一。蒸氣從街道間升起，成為獨特的城市風景，也是進行地獄巡禮與地獄蒸體驗的最佳起點。",
+   "items": {
+    "spot": {
+     "title_zh": "別府地獄巡禮",
+     "title_ja": "別府地獄めぐり",
+     "summary_zh": "色彩獨特的噴氣溫泉景觀。",
+     "body_zh": "別府地獄巡禮是鐵輪與柴石一帶的觀光溫泉景點，其中海地獄的藍色池面、血池地獄的紅色泥水最為知名。這些地獄以觀賞為主，附設足湯、蒸料理與紀念品店。2009年四處被指定為國家名勝。路線分散在兩個區域，建議安排半天到一天遊覽。參觀順序可先看鐵輪區五處，再轉往柴石區兩處，最後在附近泡湯或吃地獄蒸料理休息。各處入場費約數百日圓，共通券較划算；同區間步行和公車皆可到達，建議預留充足時間。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "別府市鐵輪、柴石"
+      },
+      {
+       "label": "數量",
+       "value": "組合七處"
+      },
+      {
+       "label": "指定",
+       "value": "2009年四處國家名勝"
+      },
+      {
+       "label": "門票",
+       "value": "可買共通券"
+      }
+     ],
+     "best_season_zh": "全年",
+     "tips_zh": "注意避開正午人潮，早上或傍晚較舒適。",
+     "tags": [
+      "地獄",
+      "溫泉",
+      "名勝"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/別府地獄めぐり"
+     ],
+     "confidence": "high",
+     "prompt_en": "Bright blue and red boiling hot spring ponds with rising steam, dark rocks, wooden handrails"
+    },
+    "food": {
+     "title_zh": "地獄蒸",
+     "title_ja": "地獄蒸し",
+     "summary_zh": "溫泉蒸氣烹調的鐵輪料理。",
+     "body_zh": "在鐵輪溫泉一帶，居民與旅客使用天然溫泉蒸氣蒸煮食物，是自江戶時代傳下來的生活智慧。蔬菜、肉類、海鮮和番薯放在蒸籠中蒸煮，味道清甜。可在地獄蒸工房自選食材，也有旅館提供蒸料理套餐。蒸出的食物帶有淡淡的溫泉鹽味，不需過多調味。附近的旅館和食堂提供蒸料理套餐，不需要自己操作，也能享受蒸氣帶來的甜味。有些店家還提供蒸好的海鮮與肉類套餐，並可加購蒸布丁與番薯等甜點，一次品嚐多種風味。",
+     "facts": [
+      {
+       "label": "地點",
+       "value": "鐵輪溫泉"
+      },
+      {
+       "label": "起源",
+       "value": "江戶時代"
+      },
+      {
+       "label": "方式",
+       "value": "溫泉蒸氣蒸煮"
+      },
+      {
+       "label": "食材",
+       "value": "蔬菜、肉、海鮮"
+      }
+     ],
+     "best_season_zh": "全年",
+     "tips_zh": "蒸氣燙，請使用工房提供的工具。",
+     "tags": [
+      "蒸料理",
+      "溫泉",
+      "鐵輪",
+      "蒸氣"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/地獄蒸し"
+     ],
+     "confidence": "high",
+     "prompt_en": "Vegetables and seafood steamed in a hot spring steamer with white steam clouds, bamboo baskets"
+    },
+    "scenery": {
+     "title_zh": "別府的湯煙",
+     "title_ja": "別府の湯けむり",
+     "summary_zh": "溫泉蒸氣升騰的城市景觀。",
+     "body_zh": "別府市區處處可見白色蒸氣升起，鐵輪一帶尤其明顯，是別府的標誌景象。從高處如別府塔或觀海寺方向俯瞰，蒸氣與海灣交織成獨特天際線。傍晚日落後的蒸氣在街燈下顯得朦朧，很有氛圍。別府八湯各有不同泉質，從市營溫泉到名湯都可以入浴體驗。晚上可以到高處眺望夜景，蒸氣在燈光下更顯朦朧，並可順便去市營溫泉泡湯。白天沿著海岸散步也很舒服，並可從高處眺望別府灣，觀賞蒸氣與海面交織的風景。",
+     "facts": [
+      {
+       "label": "地點",
+       "value": "別府市區、鐵輪"
+      },
+      {
+       "label": "特色",
+       "value": "處處升起蒸氣"
+      },
+      {
+       "label": "溫泉",
+       "value": "別府八湯"
+      },
+      {
+       "label": "口號",
+       "value": "『湯は別府』"
+      }
+     ],
+     "best_season_zh": "秋、冬",
+     "tips_zh": "冬季蒸氣更明顯，傍晚拍攝效果佳。",
+     "tags": [
+      "湯煙",
+      "溫泉都市",
+      "夜景"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/別府温泉"
+     ],
+     "confidence": "high",
+     "prompt_en": "Hot spring steam rising between rooftops of a coastal city at dusk with a bay behind, soft warm light"
+    }
+   }
+  },
+  {
+   "id": "oita_yufuin",
+   "name_zh": "由布院",
+   "name_ja": "由布院",
+   "intro_zh": "由布院位於由布岳山麓盆地，重視環境保護，不設歡樂街，維持安靜的田園溫泉氣氛。金鱗湖、湯之坪街道與咖啡館、藝廊構成人氣散步路線，是日本最受歡迎的溫泉鄉之一。漫步其間頗為愜意。",
+   "items": {
+    "spot": {
+     "title_zh": "金鱗湖",
+     "title_ja": "金鱗湖",
+     "summary_zh": "清晨升霧的湖面。",
+     "body_zh": "金鱗湖是由布院的中心景點，湖底有溫泉與冷泉湧出，注入的河水溫度不同，因此秋冬清晨會升起晨霧。湖畔有咖啡館和小商店，從車站沿湯之坪街道步行可到。名稱據傳是明治時代儒者看到夕陽映照魚鱗而取。清晨人少，最能體會霧中湖面的靜謐。周邊還有街道上的手作雜貨店與藝廊，建議預留半日到一日慢慢散步。步行約十餘分鐘即可繞湖一圈，湖畔設有長椅，可坐著欣賞水面倒影，非常愜意。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "由布市湯布院町"
+      },
+      {
+       "label": "周長",
+       "value": "約400公尺"
+      },
+      {
+       "label": "特色",
+       "value": "晨霧"
+      },
+      {
+       "label": "交通",
+       "value": "由布院站步行約25分鐘"
+      }
+     ],
+     "best_season_zh": "秋、冬清晨",
+     "tips_zh": "清晨前往最佳，停留時間建議30分鐘到1小時。",
+     "tags": [
+      "湖",
+      "晨霧",
+      "湯之坪街道"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/金鱗湖"
+     ],
+     "confidence": "high",
+     "prompt_en": "A lake with morning mist and trees around it, quiet atmosphere, soft light"
+    },
+    "food": {
+     "title_zh": "由布院甜點",
+     "title_ja": "由布院のスイーツ",
+     "summary_zh": "湯之坪街道上的咖啡館甜點。",
+     "body_zh": "由布院的湯之坪街道兩旁是手工雜貨店和甜點店，常見起司蛋糕、布丁、可樂餅與烤糰子等小吃。許多店家使用在地牛乳與雞蛋，並以洗練的外觀吸引遊客。邊走邊吃是遊覽由布院的樂趣之一。此頁為一般性的街區介紹，具體店家與品項依時節而異。甜點店多集中在湯之坪街道，建議先走一圈比較後再決定要吃哪家。也有以在地牛乳製作的冰淇淋與烤糰子，口味多樣，可挑選自己喜愛的店家慢慢品嚐。",
+     "facts": [
+      {
+       "label": "地點",
+       "value": "湯之坪街道"
+      },
+      {
+       "label": "品類",
+       "value": "甜點、小吃"
+      },
+      {
+       "label": "特色",
+       "value": "使用在地食材"
+      },
+      {
+       "label": "消費",
+       "value": "邊走邊吃"
+      }
+     ],
+     "best_season_zh": "全年",
+     "tips_zh": "假日街道擁擠，早上或平日較舒適。",
+     "tags": [
+      "甜點",
+      "咖啡館",
+      "散步"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/由布院温泉"
+     ],
+     "confidence": "low",
+     "prompt_en": "A wooden table with a slice of cheesecake and a pudding in a cozy cafe, soft window light"
+    },
+    "scenery": {
+     "title_zh": "由布岳",
+     "title_ja": "由布岳",
+     "summary_zh": "雙峰的豐後富士。",
+     "body_zh": "由布岳標高約1,583公尺，因山形似富士山而有「豐後富士」之稱，屬雙峰山，西峰為最高點，橫跨由布市與別府市。從由布院盆地望去，山形立在溫泉街前方，是城鎮的地標。登山路線在春至秋季開放，夏季草原翠綠，冬季偶有霧淞。登山健行以春至秋最適合，視野良好的日子可遠望整個由布院盆地。由布院的街道有許多地方可遠望山形，晴天時尤其清晰，是拍攝全景的好位置。",
+     "facts": [
+      {
+       "label": "標高",
+       "value": "約1,583公尺"
+      },
+      {
+       "label": "別名",
+       "value": "豐後富士"
+      },
+      {
+       "label": "形狀",
+       "value": "東西雙峰"
+      },
+      {
+       "label": "位置",
+       "value": "由布市與別府市交界"
+      }
+     ],
+     "best_season_zh": "春、秋",
+     "tips_zh": "登山需準備充足，山區天氣多變。",
+     "tags": [
+      "山",
+      "豐後富士",
+      "雙峰"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/由布岳"
+     ],
+     "confidence": "high",
+     "prompt_en": "A twin-peaked mountain rising over highland fields and a small town, clear sky"
+    }
+   }
+  },
+  {
+   "id": "oita_taketa",
+   "name_zh": "竹田",
+   "name_ja": "竹田",
+   "intro_zh": "竹田是大分縣西南的城下町，被群山環繞，有岡城跡與竹田湧水群，並與九重連山相鄰，也因瀧廉太郎的〈荒城之月〉而知名。人口約1.7萬，氣氛安靜，適合慢遊與健行。當地交通以自駕或巴士為主，行程宜預留彈性時間。",
+   "items": {
+    "spot": {
+     "title_zh": "岡城跡",
+     "title_ja": "岡城跡",
+     "summary_zh": "以高聳石垣聞名的山城遺跡。",
+     "body_zh": "岡城建於標高約325公尺的天神山，相傳築於1185年，江戶時代為岡藩居城。如今天守等建築已不存，但大規模石垣仍高聳於山脊之上，被指定為國家史蹟，並入選日本百名城。瀧廉太郎少年時期住在竹田，其名曲〈荒城之月〉的靈感來自此地，城內設有他的銅像。春天為賞櫻名所，秋季可賞紅葉。登上城跡後可遠眺九重連山與周邊盆地，視野開闊，適合安排半日慢遊。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "大分縣竹田市"
+      },
+      {
+       "label": "築城",
+       "value": "傳為1185年"
+      },
+      {
+       "label": "指定",
+       "value": "1936年國家史蹟、日本百名城"
+      },
+      {
+       "label": "關聯",
+       "value": "瀧廉太郎〈荒城之月〉"
+      }
+     ],
+     "best_season_zh": "春、秋",
+     "tips_zh": "石垣區坡路較多，建議穿好走的鞋；夜間點燈期間有特別活動。",
+     "tags": [
+      "城跡",
+      "石垣",
+      "荒城之月",
+      "百名城"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/岡城_(豊後国)"
+     ],
+     "confidence": "high",
+     "prompt_en": "Massive stone walls of a ruined castle on a ridge among cherry blossoms, wide landscape"
+    },
+    "food": {
+     "title_zh": "豐後牛",
+     "title_ja": "豊後牛",
+     "summary_zh": "大分縣的銘柄和牛。",
+     "body_zh": "竹田市一帶畜牧業發達，豐後牛是大分縣出產的和牛品牌，口感柔軟、脂肪細緻。當地餐廳提供燒肉、牛排與火鍋，也有以牛肉入味的鄉土料理。此條屬一般飲食介紹，品牌認定條件與具體餐廳請以官方資訊為準。竹田周邊也有以在地湧水和高原蔬菜入菜的餐廳，可以順便品嚐。此外，竹田的臭橙、香菇等特產也很有名，餐廳常會用在地食材入菜，不妨一併品嚐。",
+     "facts": [
+      {
+       "label": "食材",
+       "value": "豐後牛"
+      },
+      {
+       "label": "產地",
+       "value": "大分縣（竹田一帶）"
+      },
+      {
+       "label": "吃法",
+       "value": "燒肉、牛排、火鍋"
+      },
+      {
+       "label": "備註",
+       "value": "品牌條件以官方為準"
+      }
+     ],
+     "best_season_zh": "全年",
+     "tips_zh": "點餐時可詢問牛肉的產地與等級。",
+     "tags": [
+      "和牛",
+      "燒肉",
+      "品牌"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/竹田市"
+     ],
+     "confidence": "low",
+     "prompt_en": "Sliced beef grilling on a small charcoal grill with vegetables, rustic restaurant"
+    },
+    "scenery": {
+     "title_zh": "九重連山",
+     "title_ja": "くじゅう連山",
+     "summary_zh": "九州本島最高峰所在的高原山群。",
+     "body_zh": "九重連山橫跨九重町與竹田市，最高峰中岳海拔1,791公尺，是九州本島最高點，屬阿蘇九重國立公園。山群間有廣闊高原草地，如坊ガツル濕地已登錄為拉姆薩爾公約濕地。春夏草原翠綠，秋季草原轉金色，是登山與健行的熱門地。高原有放牧和步道，夏季涼爽，秋季芒草搖曳，適合健行與賞景。高原上的步道平緩，適合各年齡層的遊客健行，並可遠眺連綿的山稜與草原的四季變化。",
+     "facts": [
+      {
+       "label": "最高峰",
+       "value": "中岳1,791公尺"
+      },
+      {
+       "label": "位置",
+       "value": "九重町與竹田市"
+      },
+      {
+       "label": "公園",
+       "value": "阿蘇九重國立公園"
+      },
+      {
+       "label": "特色",
+       "value": "高原草原、坊ガツル濕地"
+      }
+     ],
+     "best_season_zh": "春至秋",
+     "tips_zh": "高山氣候多變，帶保暖與雨具。",
+     "tags": [
+      "高原",
+      "登山",
+      "國立公園"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/九重連山"
+     ],
+     "confidence": "high",
+     "prompt_en": "Grassy highland with a mountain ridge behind, golden light, scattered clouds"
+    }
+   }
+  },
+  {
+   "id": "oita_usuki",
+   "name_zh": "臼杵",
+   "name_ja": "臼杵",
+   "intro_zh": "臼杵位於大分縣東部、臨豐後水道，是保有城下町風貌的小城，以臼杵石佛聞名，也因河豚料理及歷史街道而受歡迎。人口約3萬，街區緊湊，適合以步行方式半日到一日遊覽。當地交通以自駕或巴士為主，行程宜預留彈性時間。",
+   "items": {
+    "spot": {
+     "title_zh": "臼杵石佛",
+     "title_ja": "臼杵石仏",
+     "summary_zh": "平安時代的摩崖佛像群。",
+     "body_zh": "臼杵石佛是刻在崖壁上的佛像群，分四區共約六十尊，製作年代在平安後期至鎌倉時代，1995年指定為國寶，是日本唯一被列為國寶的石雕摩崖佛。大日如來像為代表，1993年完成保存修復。佛像周圍林木掩映，環境靜謐，與稻田景色相襯。建議搭配城下町的散步，一天內可同時看到史蹟與老街。石佛群前設有遮雨的覆蓋設施和解說牌，可了解各尊佛像的特色與修復歷程，值得細看。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "臼杵市"
+      },
+      {
+       "label": "年代",
+       "value": "平安後期至鎌倉"
+      },
+      {
+       "label": "指定",
+       "value": "1995年國寶"
+      },
+      {
+       "label": "區域",
+       "value": "古園、山王山、堀越等"
+      }
+     ],
+     "best_season_zh": "春、秋",
+     "tips_zh": "步行約30至40分鐘，雨後石階易滑。",
+     "tags": [
+      "石佛",
+      "國寶",
+      "佛教"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/臼杵石仏"
+     ],
+     "confidence": "high",
+     "prompt_en": "Ancient Buddha statues carved into a cliff face with moss and soft shadows"
+    },
+    "food": {
+     "title_zh": "臼杵河豚",
+     "title_ja": "臼杵ふぐ",
+     "summary_zh": "臼杵的冬季河豚料理。",
+     "body_zh": "臼杵面向豐後水道，漁業發達，河豚料理是知名美食，常見有刺身與火鍋。河豚須由具備資格的廚師處理，才能安全食用。冬季是河豚的當季，味道鮮美。此條屬一般介紹，具體店家與價位請另行查詢。河豚在日本屬於需要有資格的廚師處理的食材，請在有專業證照的店家用餐。除了河豚，臼杵的海鮮、黃飯與醃漬物等鄉土料理也值得一試，可配合行程選擇。",
+     "facts": [
+      {
+       "label": "季節",
+       "value": "冬季為佳"
+      },
+      {
+       "label": "吃法",
+       "value": "刺身、火鍋"
+      },
+      {
+       "label": "產地",
+       "value": "臼杵（豐後水道）"
+      },
+      {
+       "label": "安全",
+       "value": "須由有資格廚師處理"
+      }
+     ],
+     "best_season_zh": "冬",
+     "tips_zh": "須到有資格的專門店食用。",
+     "tags": [
+      "河豚",
+      "海鮮",
+      "冬季"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/臼杵市"
+     ],
+     "confidence": "low",
+     "prompt_en": "Thin fugu sashimi arranged in a chrysanthemum pattern on a blue-patterned plate next to a hot pot"
+    },
+    "scenery": {
+     "title_zh": "臼杵城下町",
+     "title_ja": "臼杵の城下町",
+     "summary_zh": "石板路與歷史街道。",
+     "body_zh": "臼杵市保有城下町的風貌，二王座歷史之道是石板路與古民家並列的步行街，臼杵城跡已整備為臼杵公園，供散步。街道巷弄安靜，適合慢遊，與臼杵石佛搭配成半日遊。街道上保有許多古建築與寺院，適合慢慢步行，並可在老店品嚐地方料理與甜點。街道兩旁保留許多古民家、寺院與石板坡道，在其中漫步可感受到江戶時代城下町的氣氛。",
+     "facts": [
+      {
+       "label": "景點",
+       "value": "二王座歷史之道、臼杵公園"
+      },
+      {
+       "label": "特色",
+       "value": "石板路、古民家"
+      },
+      {
+       "label": "類別",
+       "value": "城下町"
+      },
+      {
+       "label": "人口",
+       "value": "約3萬"
+      }
+     ],
+     "best_season_zh": "春、秋",
+     "tips_zh": "街區較小，步行即可；注意店家公休日。",
+     "tags": [
+      "城下町",
+      "石板路",
+      "歷史街道"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/臼杵市"
+     ],
+     "confidence": "medium",
+     "prompt_en": "A stone-paved old castle town street with traditional wooden houses and tiled roofs, soft afternoon light"
+    }
+   }
+  }
+ ]
+}

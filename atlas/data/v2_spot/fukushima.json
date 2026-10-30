@@ -1,0 +1,157 @@
+{
+  "id": "fukushima",
+  "spots": [
+    {
+      "title_zh": "鶴城（會津若松城）",
+      "title_ja": "鶴ヶ城（若松城）",
+      "category": "城郭史蹟",
+      "area_zh": "會津若松市",
+      "summary_zh": "赤瓦天守見證戊辰戰爭會津籠城的會津象徵",
+      "body_zh": "鶴城正式名稱為若松城，位於會津若松市中心。1384年由蘆名直盛築城，1592年蒲生氏郷改建為近世城郭，翌年完成七重望樓型天守。1868年戊辰戰爭中，會津藩在此籠城約一個月後開城。現天守為1965年以鋼筋混凝土外觀復原，2011年屋頂換回罕見的赤瓦。城內另有復原的干飯櫓與南走長屋，以及茶室麟閣，適合慢慢走一圈。",
+      "facts": [
+        {"label": "所在地", "value": "福島縣會津若松市追手町"},
+        {"label": "開創／成因", "value": "1384年蘆名直盛築城，1593年蒲生氏郷完成七重天守"},
+        {"label": "看點", "value": "赤瓦屋頂、復原的干飯櫓與南走長屋、茶室麟閣"}
+      ],
+      "best_season_zh": "春（櫻花）、秋（紅葉）、冬（雪景）",
+      "tips_zh": "從JR會津若松站搭巴士約8至22分鐘可達。入場料與開放時間請出發前到官方網站確認；遇雪天石垣濕滑，行走要留意腳下。",
+      "tags": ["赤瓦天守", "戊辰戰爭", "會津藩", "城下町"],
+      "sources": ["https://ja.wikipedia.org/wiki/会津若松城"],
+      "confidence": "high",
+      "prompt_en": "Wide view of a white Japanese castle keep with distinctive red roof tiles, seen from across a stone-walled moat, early spring with cherry blossom branches framing the foreground, soft morning light, stone walls and pine trees in the midground, pale blue sky behind. No text, no signage, no recognizable people."
+    },
+    {
+      "title_zh": "大內宿",
+      "title_ja": "大内宿",
+      "category": "街區古鎮",
+      "area_zh": "南會津郡下鄉町",
+      "summary_zh": "茅葺屋頂沿街並列的江戶時代宿場町",
+      "body_zh": "大內宿位於下鄉町，是會津西街道上的宿場町，約於1643年前後形成。街道兩側整齊排列著茅葺屋頂民家，保存下來的街景長約450公尺。1981年被指定為重要傳統建造物群保存地區，是全國第三處。昔日貧困的農村在1970年代後逐漸發展為觀光地，特色料理是以蔥代替筷子吃的高遠蕎麥麵。冬季積雪覆蓋茅葺屋頂時，景色尤為迷人。",
+      "facts": [
+        {"label": "所在地", "value": "福島縣南會津郡下鄉町"},
+        {"label": "開創／成因", "value": "江戶時代約1643年前後成為會津西街道宿場；1981年列重傳建地區"},
+        {"label": "看點", "value": "約450公尺茅葺民家街景、以蔥代筷的蕎麥麵"}
+      ],
+      "best_season_zh": "冬（雪景）、夏季（新綠）",
+      "tips_zh": "最近車站為會津鐵道湯野上溫泉站，距離約5.3公里，需再轉乘巴士或計程車。冬季路面積雪，請穿防滑鞋，班次與路況出發前先查。",
+      "tags": ["茅葺屋", "宿場町", "重傳建", "蕎麥麵"],
+      "sources": ["https://ja.wikipedia.org/wiki/大内宿"],
+      "confidence": "high",
+      "prompt_en": "A long straight village street lined with rows of thatched-roof farmhouses on both sides, gently sloping toward distant mountains, deep winter with snow on the roofs and street, late afternoon golden light, small stream channel in the foreground, bare trees behind. No text, no signage, no recognizable people."
+    },
+    {
+      "title_zh": "裏磐梯五色沼",
+      "title_ja": "五色沼（裏磐梯）",
+      "category": "自然絕景",
+      "area_zh": "耶麻郡北鹽原村",
+      "summary_zh": "磐梯山噴發後誕生、水色多變的湖沼群",
+      "body_zh": "五色沼位於磐梯高原的北鹽原村，是裏磐梯最具代表性的景點。1888年磐梯山的小磐梯發生山體崩壞，岩屑流截斷河川，留下大小眾多湖沼，五色沼便是其中一組。各沼的水色會因水質、沉澱物與水生植物不同而呈現差異，在森林中靜靜相伴。園區設有自然探勝路，可徒步串連各沼；春秋適合林間散步，夏天可泛舟，冬季則有雪鞋健行。",
+      "facts": [
+        {"label": "所在地", "value": "福島縣耶麻郡北鹽原村（裏磐梯）"},
+        {"label": "開創／成因", "value": "1888年磐梯山山體崩壞，岩屑流堵塞河川而成"},
+        {"label": "看點", "value": "隨水質與沉澱物變化的多彩沼面、森林自然探勝路"}
+      ],
+      "best_season_zh": "初夏新綠至秋季紅葉",
+      "tips_zh": "沼群之間以步道連接，建議穿好走的鞋、預留半天。水色隨天氣與光線改變，晴天上午較容易看到清楚的色差；冬季步道積雪，請事先確認開放狀況。",
+      "tags": ["火山湖沼", "磐梯山", "自然步道", "水色"],
+      "sources": ["https://ja.wikipedia.org/wiki/裏磐梯"],
+      "confidence": "medium",
+      "prompt_en": "A calm turquoise-green volcanic pond surrounded by dense deciduous forest, a wooden boardwalk trail along the shore, reflection of trees on the still water surface, early summer fresh green, soft diffused light on a slightly overcast morning, distant volcanic slope in the background. No text, no signage, no recognizable people."
+    },
+    {
+      "title_zh": "三春瀧櫻",
+      "title_ja": "三春滝桜",
+      "category": "庭園公園",
+      "area_zh": "田村郡三春町",
+      "summary_zh": "樹齡逾千年、花如瀑布垂落的紅枝垂櫻",
+      "body_zh": "三春瀧櫻位於三春町，是一棵江戶彼岸系的枝垂櫻，推定樹齡超過一千年，被列為日本三大櫻、五大櫻之一。樹高約12公尺，根圍約11公尺，枝幅東西約22公尺，從四面如瀑布般垂落的花枝因此得名。1922年被指定為國家天然紀念物，花期約在四月中旬至下旬，每年吸引約30萬人造訪，也是日本櫻花百選之一，滿開時整片坡地彷彿被粉紅色覆蓋。",
+      "facts": [
+        {"label": "所在地", "value": "福島縣田村郡三春町"},
+        {"label": "開創／成因", "value": "江戶彼岸系枝垂櫻，推定樹齡逾1000年；1922年列國家天然紀念物"},
+        {"label": "看點", "value": "高約12公尺、枝幅約22公尺，花枝如瀑布垂落"}
+      ],
+      "best_season_zh": "4月中旬至下旬",
+      "tips_zh": "花期短且人潮集中，建議平日早上前往。JR三春站距離約8公里，花季期間有接駁巴士；開車者可由船引三春IC約3公里，花季多有交通管制，請預先查詢。",
+      "tags": ["枝垂櫻", "天然紀念物", "日本三大櫻", "賞櫻"],
+      "sources": ["https://ja.wikipedia.org/wiki/三春滝桜"],
+      "confidence": "high",
+      "prompt_en": "One enormous ancient weeping cherry tree in full pink bloom on a gentle grassy hillside, branches cascading to the ground like a waterfall, wooden support posts visible beneath, rural farmland and low hills behind, late April morning, soft warm light and pale blue sky. No text, no signage, no recognizable people."
+    },
+    {
+      "title_zh": "飯坂溫泉",
+      "title_ja": "飯坂温泉",
+      "category": "溫泉",
+      "area_zh": "福島市飯坂地區",
+      "summary_zh": "傳說日本武尊發現、芭蕉亦曾投宿的古湯",
+      "body_zh": "飯坂溫泉位於福島市北部，有「福島的奧座敷」之稱。相傳由日本武尊發現，古稱鯖湖溫泉；1689年松尾芭蕉旅行奧州時曾在此投宿。泉質為單純溫泉，鎮上有八處共同浴場，其中鯖湖湯被視為發源地，1993年重建為木造建築，入浴費約400至500日圓。溫泉街沿河而建，保留濃厚的舊時湯治氣氛，適合隨意走訪各處公共浴場。",
+      "facts": [
+        {"label": "所在地", "value": "福島縣福島市飯坂地區"},
+        {"label": "開創／成因", "value": "傳說由日本武尊發現；單純溫泉；1689年芭蕉曾投宿"},
+        {"label": "看點", "value": "八處共同浴場，鯖湖湯為發源地，1993年重建"}
+      ],
+      "best_season_zh": "秋冬泡湯最宜",
+      "tips_zh": "可搭福島交通飯坂線到飯坂溫泉站，或自東北道開車約15分鐘。共同浴場多為當地人使用，記得自備毛巾、保持安靜；各浴場營業時間請事先確認。",
+      "tags": ["共同浴場", "芭蕉", "湯治", "單純溫泉"],
+      "sources": ["https://ja.wikipedia.org/wiki/飯坂温泉"],
+      "confidence": "high",
+      "prompt_en": "A small Japanese hot spring town street along a river at dusk, traditional wooden bathhouse with steam rising from a rooftop vent, warm glowing paper lanterns without text, old inn buildings on both sides, autumn foliage in the background, soft blue-hour light. No text, no signage, no recognizable people."
+    },
+    {
+      "title_zh": "磐梯山",
+      "title_ja": "磐梯山",
+      "category": "山岳高原",
+      "area_zh": "豬苗代町・磐梯町・北鹽原村",
+      "summary_zh": "南側似富士、北側留有噴發崩壞痕跡的活火山",
+      "body_zh": "磐梯山橫跨豬苗代町、磐梯町與北鹽原村，標高1816.29公尺，是複式火山，也是日本百名山之一。從南面看如同圓錐，被稱為「會津富士」；北面則因1888年水蒸氣爆發，小磐梯山體崩壞而留下巨大崩壞崖，造成461至477人死亡，並促成日本首次近代救災行動。登山路線共八條，其中八方台路線最受歡迎，上山約2小時，也是日本地質公園的一部分。",
+      "facts": [
+        {"label": "所在地", "value": "福島縣豬苗代町、磐梯町、北鹽原村"},
+        {"label": "開創／成因", "value": "複式火山，1888年水蒸氣爆發造成小磐梯山體崩壞"},
+        {"label": "看點", "value": "南側圓錐山形與北側崩壞地形的強烈對比，日本百名山"}
+      ],
+      "best_season_zh": "6月至10月（登山季）",
+      "tips_zh": "為活火山，出發前請查最新火山警戒與登山口開放資訊。八方台路線上山約2小時、全程約3.5公里，仍請準備雨具與足夠飲水，並留意天氣變化。",
+      "tags": ["活火山", "會津富士", "日本百名山", "火山地形"],
+      "sources": ["https://ja.wikipedia.org/wiki/磐梯山"],
+      "confidence": "high",
+      "prompt_en": "A symmetrical cone-shaped volcano rising above a large calm lake, seen from the south shore, autumn grassland and red foliage in the foreground, golden sunset light on the slopes, scattered clouds in the sky, wide landscape composition. No text, no signage, no recognizable people."
+    },
+    {
+      "title_zh": "夏威夷度假村（常磐夏威夷中心）",
+      "title_ja": "スパリゾートハワイアンズ",
+      "category": "主題設施",
+      "area_zh": "磐城市",
+      "summary_zh": "由煤礦轉型而生的溫泉水上樂園",
+      "body_zh": "夏威夷度假村位於磐城市常磐藤原町，前身為1966年1月開業的常磐夏威夷中心，是常磐煤礦走下坡時的轉型事業，1990年改為現名。溫泉從磐城湯本溫泉引來，原本的源泉曾因採礦而枯竭，後來花費鉅資重新開發。園區包含多座水上設施、旅館與高爾夫球場，並有常設的草裙舞表演。2006年電影《扶桑花女孩》即取材於它的歷史，是以溫泉打造南國氛圍的獨特設施。",
+      "facts": [
+        {"label": "所在地", "value": "福島縣磐城市常磐藤原町"},
+        {"label": "開創／成因", "value": "1966年開業，為常磐煤礦轉型事業，1990年改名"},
+        {"label": "看點", "value": "溫泉水上樂園、草裙舞表演、1997年啟用的露天浴場"}
+      ],
+      "best_season_zh": "全年（室內設施，冬季尤佳）",
+      "tips_zh": "JR常磐線湯本站有免費接駁巴士約15分鐘；東京主要車站有住宿客專用的免費接駁巴士。門票與營業時間請先查官方網站；使用場內泳池要留意各區規定。",
+      "tags": ["溫泉樂園", "草裙舞", "煤礦轉型", "磐城"],
+      "sources": ["https://ja.wikipedia.org/wiki/スパリゾートハワイアンズ"],
+      "confidence": "medium",
+      "prompt_en": "A large glass-roofed indoor tropical water park interior with palm trees and a lagoon pool, warm steam in the air, bright sunlight streaming through the glass dome, colorful water slides in the background, no commercial logos. No text, no signage, no recognizable people."
+    },
+    {
+      "title_zh": "南湖公園",
+      "title_ja": "南湖公園",
+      "category": "庭園公園",
+      "area_zh": "白河市",
+      "summary_zh": "松平定信創設、被譽為日本最古老的公園",
+      "body_zh": "南湖公園位於白河市，由白河藩主松平定信於1801年創設，據稱是日本最古老的公園。園區約44.4公頃，以人工湖與湖中小島為中心，結合灌溉蓄水池與公共遊憩功能。創設理念為「士民共樂」，讓武士與庶民同樂。園內選出17處名勝景緻，松林之間有櫻花、楓葉隨季節變換，1924年被指定為國家史蹟及名勝，是規劃周到的大型回遊式庭園。",
+      "facts": [
+        {"label": "所在地", "value": "福島縣白河市"},
+        {"label": "開創／成因", "value": "1801年白河藩主松平定信創設，理念為「士民共樂」"},
+        {"label": "看點", "value": "約44.4公頃人工湖與島嶼、17處名勝景緻，1924年指定史蹟名勝"}
+      ],
+      "best_season_zh": "春（櫻花）、秋（紅葉）",
+      "tips_zh": "可從JR白河站或新白河站轉搭巴士到南湖公園站，也有市內循環巴士。沿湖步行一圈需要不少時間，建議穿好走的鞋；營運資訊請以官方公告為準。",
+      "tags": ["日本最古公園", "松平定信", "回遊式庭園", "史蹟名勝"],
+      "sources": ["https://ja.wikipedia.org/wiki/南湖公園"],
+      "confidence": "high",
+      "prompt_en": "A broad calm artificial lake with pine-covered small islands and a traditional garden pavilion on the shore, spring cherry blossoms along the water's edge, gentle morning mist, mirror-like reflections, distant low hills, soft pastel light. No text, no signage, no recognizable people."
+    }
+  ]
+}

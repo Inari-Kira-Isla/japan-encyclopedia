@@ -1,0 +1,149 @@
+{
+ "id": "hyogo",
+ "foods": [
+  {
+   "title_zh": "神戶牛",
+   "title_ja": "神戸ビーフ",
+   "category": "肉類",
+   "summary_zh": "但馬牛中通過嚴格規格的頂級和牛，神戶開港後揚名。",
+   "body_zh": "神戶牛並非牛種，而是以兵庫縣但馬牛為原料、通過規格審查的肉品商品名。1868年神戶港開港後，外國人稱讚當地但馬牛，奠定名聲；1983年由神戶肉流通推進協議會訂立規格，油花等級（BMS）需達6以上。2015年取得地理標示保護。常見吃法是鐵板燒、牛排與涮涮鍋，油花細緻、入口即化。",
+   "facts": [
+    {"label": "起源", "value": "1868年神戶開港後外國人稱讚但馬牛，1983年訂立品牌規格"},
+    {"label": "主要食材", "value": "兵庫縣但馬牛（黑毛和種），BMS 6以上"},
+    {"label": "吃法", "value": "鐵板燒、牛排、涮涮鍋、壽喜燒"}
+   ],
+   "season_zh": "全年",
+   "where_zh": "神戶市區的鐵板燒與牛排專門店最具代表性",
+   "tags": ["和牛", "神戶", "地理標示", "鐵板燒"],
+   "sources": ["https://ja.wikipedia.org/wiki/神戸牛"],
+   "confidence": "high",
+   "prompt_en": "A single thick slice of seared Kobe beef steak with fine marbling on a warm white ceramic plate, glistening juices, a few roasted garlic chips and a small mound of flaky sea salt on the side, dark wooden teppanyaki counter background, soft warm side lighting, shallow depth of field, no text, no signage"
+  },
+  {
+   "title_zh": "出石皿蕎麥麵",
+   "title_ja": "出石皿そば",
+   "category": "麵飯",
+   "summary_zh": "以出石燒小皿分裝的蕎麥麵，一人份通常五皿。",
+   "body_zh": "出石位於但馬地區，被稱為「小京都」。相傳1706年仙石政明由信州上田轉封出石時帶來蕎麥師傅，成為出石蕎麥麵的起源；現今小皿形式於昭和30年代確立為「出石皿そば」。麵分裝在出石燒小皿中，一人份約五皿，配蘿蔔泥、蔥、山藥泥與生蛋，把沾汁倒入小皿中，邊疊空皿邊吃。",
+   "facts": [
+    {"label": "起源", "value": "相傳1706年仙石政明轉封出石時帶來蕎麥師傅"},
+    {"label": "主要食材", "value": "蕎麥麵、出石燒小皿、沾汁、蘿蔔泥、蔥、生蛋"},
+    {"label": "吃法", "value": "一人份約五皿，將沾汁倒入小皿沾食"}
+   ],
+   "season_zh": "全年",
+   "where_zh": "豐岡市出石町城下町一帶約50家蕎麥麵店",
+   "tags": ["蕎麥麵", "出石", "但馬", "小皿"],
+   "sources": ["https://ja.wikipedia.org/wiki/出石そば"],
+   "confidence": "high",
+   "prompt_en": "Five small hand-painted white porcelain dishes stacked in a neat row, each holding a small bundle of cold soba noodles, beside a small cup of dipping sauce, grated daikon, chopped scallion and a raw quail egg, on a dark wooden table of a traditional soba restaurant, soft natural window light, no text, no signage"
+  },
+  {
+   "title_zh": "明石燒（玉子燒）",
+   "title_ja": "明石焼（玉子焼）",
+   "category": "鄉土料理",
+   "summary_zh": "蛋香濃郁的章魚小丸，沾高湯享用，被視為章魚燒前身。",
+   "body_zh": "明石燒在明石當地稱「玉子燒」，以雞蛋、小麥粉與章魚製成，約5公分的小橢圓，蛋味比章魚燒濃，色澤偏黃、質地很軟。於銅製淺模中烘烤，盛在小木板上，沾高湯食用。起源說法不一，一說與當地製作珊瑚裝飾「明石玉」而剩下蛋黃有關，江戶後期已出現，被視為章魚燒的前身。",
+   "facts": [
+    {"label": "起源", "value": "江戶後期出現，起源說法不一（一說與明石玉剩餘蛋黃有關）"},
+    {"label": "主要食材", "value": "雞蛋、小麥粉、章魚、高湯"},
+    {"label": "吃法", "value": "盛在小木板上，沾溫熱高湯食用"}
+   ],
+   "season_zh": "全年",
+   "where_zh": "明石市魚之棚商店街與明石站周邊的專門店",
+   "tags": ["章魚", "高湯", "明石", "小吃"],
+   "sources": ["https://ja.wikipedia.org/wiki/明石焼き"],
+   "confidence": "medium",
+   "prompt_en": "About ten soft pale-yellow round egg and octopus balls arranged on a small wooden board, next to a small lacquer bowl of warm dashi broth with a few chopped scallions, on a plain wooden counter, steam rising, soft diffused daylight, no text, no signage"
+  },
+  {
+   "title_zh": "松葉蟹（津居山蟹）",
+   "title_ja": "松葉ガニ（津居山かに）",
+   "category": "海鮮",
+   "summary_zh": "但馬冬季名物，雄性紅雪蟹的地方稱呼。",
+   "body_zh": "松葉蟹是北近畿與山陰地區對雄性楚蟹（ズワイガニ）的稱呼。兵庫縣但馬地區是主要產地，雄蟹漁期為11月6日至翌年3月20日。津居山漁港捕獲的蟹自2001年漁期起掛上藍色標籤，確立「津居山蟹」品牌。冬季多以蟹鍋、水煮或燒烤方式享用，蟹肉甘甜。",
+   "facts": [
+    {"label": "起源", "value": "地方對雄性楚蟹的稱呼，津居山蟹自2001年漁期起掛藍色標籤"},
+    {"label": "主要食材", "value": "雄性楚蟹（ズワイガニ）"},
+    {"label": "時節", "value": "11月6日至翌年3月20日"}
+   ],
+   "season_zh": "11月至3月",
+   "where_zh": "香美町、豐岡市津居山港周邊但馬海岸的旅館與蟹料理店",
+   "tags": ["螃蟹", "但馬", "冬季", "津居山"],
+   "sources": ["https://ja.wikipedia.org/wiki/ズワイガニ"],
+   "confidence": "medium",
+   "prompt_en": "A single freshly boiled male snow crab with bright red shell and long legs, with a blue tag tied to one leg, resting on crushed ice on a rustic wooden tray, a small dish of vinegar dipping sauce beside it, soft cold morning light, no text, no signage"
+  },
+  {
+   "title_zh": "灘之酒",
+   "title_ja": "灘の酒",
+   "category": "酒與飲品",
+   "summary_zh": "灘五鄉釀造的日本酒，約占日本產量四分之一。",
+   "body_zh": "灘五鄉由今津鄉、西宮鄉、魚崎鄉、御影鄉與西鄉組成，約占全國清酒產量的25%。江戶初期（1624至1645年），伊丹的雜喉屋文右衛門移居西宮開始釀酒，其後酒造陸續成立。礦物質豐富的地下水「宮水」、六甲颪寒風、港口運輸與鄰近酒米產地，是灘酒興盛的條件。多為辛口、口感硬朗的酒。",
+   "facts": [
+    {"label": "起源", "value": "江戶初期（1624至1645年）雜喉屋文右衛門在西宮開始釀酒"},
+    {"label": "主要食材", "value": "酒米、宮水（礦物質地下水）"},
+    {"label": "地位", "value": "約占日本清酒生產量25%"}
+   ],
+   "season_zh": "寒造期（冬季）釀造，全年飲用",
+   "where_zh": "神戶東灘區、灘區至西宮市沿海的酒藏群",
+   "tags": ["日本酒", "灘五鄉", "宮水", "酒藏"],
+   "sources": ["https://ja.wikipedia.org/wiki/灘五郷"],
+   "confidence": "high",
+   "prompt_en": "A chilled clear glass sake bottle with plain label-less body next to a small ceramic ochoko cup filled with sake, set on an old cedar barrel lid inside a traditional stone sake brewery, soft light from a high window, subtle condensation, no text, no signage"
+  },
+  {
+   "title_zh": "淡路島洋蔥",
+   "title_ja": "淡路島たまねぎ",
+   "category": "特產食材",
+   "summary_zh": "淡路島名產，自明治年間引進種子後發展成大產地。",
+   "body_zh": "淡路島洋蔥是淡路島的代表農產品，栽培面積約1946公頃，占全國約9.3%。1888年兵庫縣自美國直接進口洋蔥種子分發農家，以舊賀集村栽培為契機，以南部為中心普及，成為一大產地。「淡路島たまねぎ」已註冊地域團體商標。生吃辛味較淡，也常用於洋蔥片、燒烤與洋蔥湯。",
+   "facts": [
+    {"label": "起源", "value": "1888年兵庫縣自美國進口種子分發農家"},
+    {"label": "主要食材", "value": "洋蔥（淡路島產）"},
+    {"label": "地位", "value": "栽培面積約1946公頃，全國占比約9.3%，已註冊地域團體商標"}
+   ],
+   "season_zh": "春季至初夏（收穫期未能核實，僅供參考）",
+   "where_zh": "淡路島南部（南あわじ市）田地與直賣所",
+   "tags": ["洋蔥", "淡路島", "農產品", "地域商標"],
+   "sources": ["https://ja.wikipedia.org/wiki/淡路島"],
+   "confidence": "medium",
+   "prompt_en": "Three whole golden-brown Awaji onions with a cut half showing fine white concentric layers, on a rustic wooden crate with a few green stalks, a small sea-view farmland out of focus in the background, soft morning light, no text, no signage"
+  },
+  {
+   "title_zh": "姬路關東煮",
+   "title_ja": "姫路おでん",
+   "category": "B級美食",
+   "summary_zh": "沾薑汁醬油而非黃芥末食用的關東煮。",
+   "body_zh": "姬路關東煮是姬路市的鄉土料理，最大特色是不沾黃芥末，而是沾「薑汁醬油」。這種習慣被認為與姬路周邊是著名醬油產地有關。市內有兩種風格：一是味濃偏甜的「關東煮」，一是味淡的關東煮；老店另有以豬排醬與伍斯特醬調成的特製醬汁。2011年註冊地域團體商標。",
+   "facts": [
+    {"label": "起源", "value": "姬路周邊為醬油產地，一般認為因此形成薑汁醬油吃法"},
+    {"label": "主要食材", "value": "關東煮料、薑汁醬油"},
+    {"label": "吃法", "value": "沾薑汁醬油，或老店特製醬汁"}
+   ],
+   "season_zh": "秋冬最常食用",
+   "where_zh": "姬路站周邊的關東煮專門店與居酒屋",
+   "tags": ["關東煮", "姬路", "薑汁醬油", "鄉土"],
+   "sources": ["https://ja.wikipedia.org/wiki/姫路おでん"],
+   "confidence": "medium",
+   "prompt_en": "A white ceramic bowl of light-brown oden with daikon, boiled egg, konnyaku and fish cake in clear broth, with a small side dish of ginger soy sauce, on a worn wooden counter of a small izakaya, gentle steam, warm lamp light, no text, no signage"
+  },
+  {
+   "title_zh": "神戶風月堂法蘭酥",
+   "title_ja": "ゴーフル（神戸凮月堂）",
+   "category": "甜點和菓子",
+   "summary_zh": "以薄脆煎餅夾奶油的名菓，是神戶經典伴手禮。",
+   "body_zh": "法蘭酥（ゴーフル）把和菓子的煎餅技術應用於洋菓子，是兩片直徑約15公分、厚約1毫米的圓形薄脆餅夾著薄薄奶油。據神戶凮月堂所述，1927年（昭和2年）由米津、北濱與神戶三家凮月堂同時發售，另有東京發祥說稱1929年。現由三家凮月堂製造販售，在神戶被視為代表性伴手禮。",
+   "facts": [
+    {"label": "起源", "value": "1927年三家凮月堂同時發售（另有1929年東京說）"},
+    {"label": "主要食材", "value": "薄脆餅、奶油夾餡（香草、巧克力等）"},
+    {"label": "吃法", "value": "直接食用，常作為伴手禮盒"}
+   ],
+   "season_zh": "全年",
+   "where_zh": "神戶元町、三宮的神戶凮月堂本店與百貨伴手禮專櫃",
+   "tags": ["神戶", "伴手禮", "洋菓子", "凮月堂"],
+   "sources": ["https://ja.wikipedia.org/wiki/ゴーフル"],
+   "confidence": "medium",
+   "prompt_en": "A large round thin wafer sandwich with delicate cream filling, one wafer broken to reveal the layer, placed on a small cream-colored plate, beside a cup of black tea, on a marble tabletop in a classic Kobe tea room, soft window light, no text, no signage"
+  }
+]
+}

@@ -1,0 +1,468 @@
+{
+ "id": "kanagawa",
+ "name_zh": "神奈川",
+ "name_ja": "神奈川県",
+ "region": "關東",
+ "overview": {
+  "intro_zh": "神奈川縣位於東京南側，面積約2,416平方公里，人口約920萬，為日本第二多人口的縣，縣廳設於橫濱。東臨東京灣、南接相模灣，西有丹澤山地與箱根火山。鎌倉曾在1185至1333年間是幕府所在地；橫濱則因幕末開港成為日本最早的國際都市之一。海岸、溫泉、古寺與港灣夜景集於一縣，是東京近郊最熱門的當日往返旅遊地。交通便利，一日遊也相當適合。",
+  "capital_zh": "橫濱",
+  "area_km2": 2416,
+  "population_approx": "約920萬",
+  "flower_zh": "山百合",
+  "bird_zh": "海鷗",
+  "tree_zh": "銀杏",
+  "climate_zh": "沿海屬溫暖濕潤氣候，冬季乾燥少雪，夏季炎熱；山區箱根較涼且多霧。",
+  "access_zh": "新橫濱、小田原有東海道新幹線；羽田機場距橫濱約30分鐘；小田急、JR、京急聯絡東京。",
+  "specialties_zh": [
+   "吻仔魚（しらす）",
+   "崎陽軒燒賣",
+   "小田原蒲鉾",
+   "鎌倉雕",
+   "橫濱牛鍋",
+   "箱根寄木細工"
+  ],
+  "best_season_zh": "5–6月繡球花與新綠，10–11月箱根楓葉，夏季湘南海灘。"
+ },
+ "items": {
+  "architecture": {
+   "title_zh": "橫濱紅磚倉庫",
+   "title_ja": "横浜赤レンガ倉庫",
+   "summary_zh": "明治末年的海關倉庫改建設施。",
+   "body_zh": "橫濱紅磚倉庫位於新港地區，由妻木賴黃設計，2號館於1911年、1號館於1913年竣工，原作為海關保稅倉庫，是當時最先進的設備之一，裝有日本最早的貨物電梯。後因港口機能變化閒置，2002年整修後轉為購物與活動空間，並以歷史建築面貌保存。夜間點燈與港邊廣場有季節活動，如冬季聖誕市集與夏季啤酒節，十分熱鬧。兩棟建築之間的廣場常舉辦市集、音樂祭與花卉展，海風與港景使這裡成為散步與約會的人氣場所。倉庫內部則有多家餐廳、雜貨店與咖啡廳，也保留部分舊構造，讓人體會百年前的港口風華。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "橫濱市中區新港"
+    },
+    {
+     "label": "竣工",
+     "value": "2號館1911年／1號館1913年"
+    },
+    {
+     "label": "設計",
+     "value": "妻木賴黃"
+    },
+    {
+     "label": "現況",
+     "value": "2002年起作為商業設施"
+    }
+   ],
+   "best_season_zh": "全年；冬季聖誕市集",
+   "tips_zh": "現場常有季節活動，傍晚到入夜時分光線最適合拍攝，近旁即港未來地區。傍晚點燈後再拍攝，並預留時間在港邊散步，步行到大棧橋也很近。",
+   "tags": [
+    "紅磚",
+    "港灣",
+    "明治建築",
+    "夜景"
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Yokohama_Red_Brick_Warehouse"
+   ],
+   "confidence": "medium",
+   "prompt_en": "Yokohama Red Brick Warehouse at dusk beside the harbor, string lights and Ferris wheel in the background, calm water"
+  },
+  "food": {
+   "title_zh": "湘南生吻仔魚丼",
+   "title_ja": "湘南の生しらす丼",
+   "summary_zh": "湘南海岸的新鮮吻仔魚蓋飯。",
+   "body_zh": "吻仔魚（しらす）是沙丁魚等魚類的幼魚，相模灣沿岸的江之島、鎌倉、茅崎一帶都以此聞名。生吻仔魚丼是將剛捕獲、未經加工的白色小魚鋪在飯上，搭配薑末、紫蘇與海苔，口感柔和帶微甘。因容易變質，必須當日捕撈當日食用，故在湘南才吃得到最新鮮的版本。每年1月至3月初為禁漁期，期間店家多改供煮熟的釜揚げ吻仔魚。鎌倉、江之島一帶有許多專門店，常見搭配的還有溫泉蛋、梅子與海苔絲。除了丼飯，也有吻仔魚披薩、可樂餅與吻仔魚煎餅等加工料理，讓人用不同方式享用這種湘南的在地風味。",
+   "facts": [
+    {
+     "label": "產地",
+     "value": "相模灣沿岸（湘南）"
+    },
+    {
+     "label": "吃法",
+     "value": "生吻仔魚＋薑、紫蘇"
+    },
+    {
+     "label": "禁漁",
+     "value": "約1月至3月初"
+    },
+    {
+     "label": "對比",
+     "value": "釜揚げ（煮熟）"
+    }
+   ],
+   "best_season_zh": "3月中旬至12月",
+   "tips_zh": "遇天候或漁獲不佳時會缺貨，建議午餐時段盡早前往；也可選生與煮熟各半的「二色丼」。午餐時段排隊久，建議避開正午；也可到漁港直營食堂吃。",
+   "tags": [
+    "吻仔魚",
+    "海鮮",
+    "湘南",
+    "丼飯"
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Shirasu"
+   ],
+   "confidence": "medium",
+   "prompt_en": "Bowl of fresh shirasu whitebait on rice with grated ginger, shiso and seaweed, sea view window light, close-up"
+  },
+  "culture": {
+   "title_zh": "鶴岡八幡宮流鏑馬",
+   "title_ja": "鶴岡八幡宮 流鏑馬",
+   "summary_zh": "騎馬射箭的傳統武家儀式。",
+   "body_zh": "流鏑馬是騎馬疾馳並射箭的武家儀式。鶴岡八幡宮由源賴朝供奉，1187年8月賴朝舉行放生會與流鏑馬，被視為鎌倉流鏑馬的起源。現今在每年9月14至16日的例大祭中，16日舉行「流鏑馬神事」，射手身穿狩裝，沿著參道旁的馬場依序射三個靶，騎手與馬的速度感與弓聲讓人屏息。另有4月春季祭也舉行類似活動。祭典期間，鎌倉街頭也有神輿與市集，氣氛熱烈。流鏑馬是日本武家文化的代表，射手需長年訓練，騎馬並在奔馳時射中靶心，並非容易，因此成功時會響起觀眾的掌聲與歡呼。",
+   "facts": [
+    {
+     "label": "時節",
+     "value": "9月16日（例大祭最終日）"
+    },
+    {
+     "label": "地點",
+     "value": "鎌倉市鶴岡八幡宮"
+    },
+    {
+     "label": "起源",
+     "value": "1187年源賴朝"
+    },
+    {
+     "label": "特色",
+     "value": "騎射三靶"
+    }
+   ],
+   "best_season_zh": "9月中旬",
+   "tips_zh": "要看座位需先到場或預約，現場觀眾眾多；射手與馬匹動作快，攝影宜用高速快門。最佳觀賞位置多在參道兩側，宜提早數小時占位並帶水。",
+   "tags": [
+    "流鏑馬",
+    "武家",
+    "鎌倉",
+    "祭典"
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Tsurugaoka_Hachiman-g%C5%AB"
+   ],
+   "confidence": "high",
+   "prompt_en": "Yabusame rider galloping in traditional hunting costume drawing a bow along the treelined path of Tsurugaoka Hachimangu shrine, dynamic motion, faces not shown"
+  },
+  "history": {
+   "title_zh": "浦賀黑船來航",
+   "title_ja": "浦賀沖の黒船",
+   "summary_zh": "1853年美國艦隊抵達浦賀。",
+   "body_zh": "1853年7月8日，美國海軍準將培里率領蒸汽軍艦密西西比號等四艘船駛入浦賀，艦身塗黑且冒黑煙，日本人稱之為「黑船」。他遞交美國總統國書，要求開國通商，震動幕府。翌年1854年再度來航，3月31日在橫濱簽訂《神奈川條約》，結束近兩百年的鎖國。今日浦賀與久里濱留有培里紀念碑，橫須賀也有黑船相關紀念館。浦賀港曾是江戶灣的重要海關關口，幕府在此設有奉行所，船隻進出需受檢查。黑船來航後，幕末政局急速變動，促成開港與明治維新，使神奈川成為近代日本的起點之一。",
+   "facts": [
+    {
+     "label": "事件",
+     "value": "黑船來航"
+    },
+    {
+     "label": "日期",
+     "value": "1853年7月8日"
+    },
+    {
+     "label": "條約",
+     "value": "1854年3月31日《神奈川條約》"
+    },
+    {
+     "label": "遺跡",
+     "value": "久里濱培里登陸紀念碑"
+    }
+   ],
+   "best_season_zh": "全年；6月橫須賀黑船祭",
+   "tips_zh": "每年夏季橫須賀市舉行黑船祭，可同時參觀久里濱的紀念公園與資料館。可順遊橫須賀的三笠紀念艦與久里濱的培里公園，一日行程剛好。",
+   "tags": [
+    "黑船",
+    "幕末",
+    "開國",
+    "浦賀"
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Perry_Expedition",
+    "https://en.wikipedia.org/wiki/Uraga,_Kanagawa"
+   ],
+   "confidence": "high",
+   "prompt_en": "Historic scene of black iron steamships anchored off Uraga bay in 1853 with small Japanese boats around, misty morning, painterly style"
+  },
+  "mascot": {
+   "title_zh": "神奈川縣吉祥物與湘南白魚",
+   "title_ja": "かながわキンタロウ",
+   "summary_zh": "縣公關角色與湘南意象。",
+   "body_zh": "神奈川縣官方的縣公關角色是「神奈川金太郎（かながわキンタロウ）」，設定為住在南足柄山、與熊和鹿角力的小男孩，後來受知事邀請，成為縣的社群媒體寫手。本圖則採原創角色：一隻戴著衝浪項鍊的銀色小吻仔魚，靈感來自湘南海岸最有代表性的食材，與金太郎無直接關係，也不複製任何現有商標吉祥物。在縣內的物產展、車站與觀光區常能看到金太郎的蹤影，縣政府官方網站也提供授權的插圖。以吻仔魚為意象的原創角色，則是為了呼應湘南的海洋與衝浪文化，並與官方角色區隔。",
+   "facts": [
+    {
+     "label": "官方角色",
+     "value": "神奈川金太郎"
+    },
+    {
+     "label": "生日",
+     "value": "3月19日（縣成立日）"
+    },
+    {
+     "label": "設定",
+     "value": "南足柄山長大的小男孩"
+    },
+    {
+     "label": "本圖",
+     "value": "原創吻仔魚角色"
+    }
+   ],
+   "best_season_zh": "全年",
+   "tips_zh": "縣內的活動、物產展常有金太郎登場，可留意縣政府社群帳號。若想買角色周邊，可到縣廳或橫濱站內的物產店尋找。",
+   "tags": [
+    "吉祥物",
+    "金太郎",
+    "原創角色",
+    "湘南"
+   ],
+   "sources": [
+    "https://www.pref.kanagawa.jp/osirase/1197/kintaro/"
+   ],
+   "confidence": "medium",
+   "prompt_en": "Cute original small silvery whitebait-shaped character wearing a tiny surfer's necklace swimming in turquoise waves, pastel style. Original cute character, not replicating any existing trademarked mascot."
+  },
+  "scenery": {
+   "title_zh": "蘆之湖與富士山",
+   "title_ja": "芦ノ湖と富士山",
+   "summary_zh": "箱根湖畔可遠眺富士山。",
+   "body_zh": "蘆之湖位於箱根火山的火山口湖，因約三千年前的火山活動與堰塞形成，湖面海拔約723公尺，是箱根的代表景觀。晴朗時，湖面能倒映富士山，湖畔的箱根神社紅色「平和鳥居」立於水中，成為最受歡迎的拍照點。遊客可搭乘海盜船造型的遊覽船橫越湖面，或搭纜車登上駒岳，從高處俯瞰湖景與遠方富士山。箱根海盜船連結桃源台、元箱根與箱根町，船程約30至40分鐘，可近距離欣賞鳥居與富士山。冬季天氣晴朗時，空氣乾燥清澈，山頂白雪映照湖面，風景更加壯麗，也是攝影愛好者的熱點。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "足柄下郡箱根町"
+    },
+    {
+     "label": "海拔",
+     "value": "約723公尺"
+    },
+    {
+     "label": "特色",
+     "value": "平和鳥居、遊覽船、富士山倒影"
+    },
+    {
+     "label": "交通",
+     "value": "小田原搭巴士約40分鐘"
+    }
+   ],
+   "best_season_zh": "秋冬清晨與黃昏（空氣清澈）",
+   "tips_zh": "早晨空氣清澈、富士山最易見；夏季常有霧氣，視野較差。可買「箱根周遊券」，涵蓋登山鐵道、纜車與海盜船，較划算。",
+   "tags": [
+    "火山湖",
+    "富士山",
+    "鳥居",
+    "遊船"
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Lake_Ashi"
+   ],
+   "confidence": "medium",
+   "prompt_en": "Lake Ashi with Mount Fuji reflected under a clear sky and a red torii shrine standing at the water's edge, calm morning"
+  },
+  "spot": {
+   "title_zh": "橫濱港未來21",
+   "title_ja": "横浜みなとみらい21",
+   "summary_zh": "夜景璀璨的港灣新都心。",
+   "body_zh": "港未來21（Minato Mirai 21）是橫濱港邊的大型再開發區，1983年起動工，將原造船廠與貨場轉為商業、住宅與觀光區。橫濱地標塔高約296公尺，1993年啟用，曾是日本最高建築，頂部有展望台。附近有大摩天輪、紅磚倉庫、日本丸帆船與橫濱杯麵博物館，沿海步道串連。夜晚燈光倒映海面，被稱為日本代表性的港灣夜景。港未來地區夜間燈光與步道，非常適合散步。也可從橫濱站搭乘空中纜車「Yokohama Air Cabin」，欣賞港灣景色。附近還有橫濱美術館、潮汐廣場與購物中心，足夠玩上大半天，也方便順遊中華街。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "橫濱市西區"
+    },
+    {
+     "label": "開發",
+     "value": "1983年起"
+    },
+    {
+     "label": "地標",
+     "value": "橫濱地標塔約296公尺（1993年）"
+    },
+    {
+     "label": "特色",
+     "value": "摩天輪、日本丸、海岸步道"
+    }
+   ],
+   "best_season_zh": "全年；黃昏至夜景",
+   "tips_zh": "搭乘櫻木町站出發步行或搭乘空中纜車最方便；想拍夜景可到大棧橋或山下公園。傍晚抵達，先看夕陽再看夜景，可一次欣賞兩種風貌。",
+   "tags": [
+    "夜景",
+    "港灣",
+    "摩天輪",
+    "都市"
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Minato_Mirai_21"
+   ],
+   "confidence": "medium",
+   "prompt_en": "Minato Mirai skyline at night with Landmark Tower, Ferris wheel and glowing harbor reflections, wide panorama"
+  },
+  "experience": {
+   "title_zh": "江之電漫遊",
+   "title_ja": "江ノ電乗車体験",
+   "summary_zh": "電車行駛在鎌倉海岸與住宅區間。",
+   "body_zh": "江之島電鐵（江之電）連結藤澤與鎌倉，全長約10公里、共15站，1902年開通最早路段，今日仍保留復古車廂。沿線穿過住宅區窄巷，並在鎌倉高校前站旁貼著相模灣前進，窗外就是海與江之島。因動畫《灌籃高手》取景而聞名，平交道附近常聚集拍照遊客。使用一日乘車券可自由上下車，順遊長谷寺、高德院大佛、江之島，十分方便。鎌倉高校前站是熱門景點，月台上可直接望見海面與江之島。沿線還有長谷站的長谷寺，以及七里濱的衝浪海灘，非常適合下車慢遊，領略湘南慢活步調，也有多家咖啡館和甜點店。",
+   "facts": [
+    {
+     "label": "區間",
+     "value": "藤澤—鎌倉，約10公里"
+    },
+    {
+     "label": "開通",
+     "value": "1902年"
+    },
+    {
+     "label": "站數",
+     "value": "15站"
+    },
+    {
+     "label": "特色",
+     "value": "沿海與住宅區窄巷"
+    }
+   ],
+   "best_season_zh": "全年；夕陽時分",
+   "tips_zh": "週末與連假人潮多，鎌倉高校前站平交道附近請注意安全，勿越線拍照。購買一日券「のりおりくん」，可無限次上下車並享部分景點折扣。",
+   "tags": [
+    "電車",
+    "海岸",
+    "江之電",
+    "湘南"
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Enoshima_Electric_Railway"
+   ],
+   "confidence": "medium",
+   "prompt_en": "Enoden tram crossing near Kamakurakokomae station with sea and Enoshima in the background, sunset, street-level view"
+  },
+  "costume": {
+   "title_zh": "箱根大名行列服飾",
+   "title_ja": "箱根大名行列",
+   "summary_zh": "仿古武士隊伍的華麗裝扮。",
+   "body_zh": "箱根大名行列是每年11月3日（文化日）在箱根湯本舉行的遊行，重現江戶時代大名參勤交代經過箱根的場景。約400人身穿武士、奴僕、公主等古裝，從湯本的早雲寺出發，沿街步行約6公里，隊伍有舉長槍、挑箱的槍持奴與傘持等角色，後方更有行李隊，整個隊伍氣勢恢宏。這是湯本祭的重點活動，沿途設有觀賞區。遊行服飾還原了大名與家臣的階級，從頭戴烏帽子的武士到持長槍的足輕，以及抬轎、背負行李的隨從，分工細緻。若想體驗，箱根町公所偶爾會辦活動讓民眾試穿，但需預約，詳情以當年公告為準。",
+   "facts": [
+    {
+     "label": "日期",
+     "value": "每年11月3日"
+    },
+    {
+     "label": "地點",
+     "value": "箱根湯本"
+    },
+    {
+     "label": "人數",
+     "value": "約400人"
+    },
+    {
+     "label": "路程",
+     "value": "約6公里"
+    }
+   ],
+   "best_season_zh": "11月初",
+   "tips_zh": "當日人潮多，建議提早在湯本站附近卡位；沿線店家也會推出限定餐點。需要拍照時請避免擋住隊伍，並在規定區域內觀賞。",
+   "tags": [
+    "大名行列",
+    "古裝",
+    "箱根",
+    "祭典"
+   ],
+   "sources": [
+    "https://hakone-japan.com/things-to-do/events-festivals/procession-of-the-feudal-lord/"
+   ],
+   "confidence": "high",
+   "prompt_en": "Anonymous participants in Edo-period daimyo procession costumes with banners, pikes and black lacquered hats in autumn Hakone mountains"
+  }
+ },
+ "areas": [
+  {
+   "id": "kanagawa_yokohama",
+   "name_zh": "橫濱",
+   "name_ja": "横浜",
+   "intro_zh": "橫濱是神奈川縣廳所在地，也是日本第二大城市。1859年開港後成為日本通往世界的門戶，留下中華街、山手洋館與紅磚倉庫等異國風情。港未來21的現代天際線與老港口共存，夜景尤其迷人。",
+   "items": {
+    "spot": {
+     "title_zh": "橫濱紅磚倉庫",
+     "title_ja": "横浜赤レンガ倉庫",
+     "desc_zh": "港邊紅磚建築群。",
+     "prompt_en": "Yokohama Red Brick Warehouse at harbor, evening light, ferris wheel in distance"
+    },
+    "food": {
+     "title_zh": "橫濱中華街肉包",
+     "title_ja": "横浜中華街",
+     "desc_zh": "中華街的肉包與點心。",
+     "prompt_en": "Yokohama Chinatown steamed meat buns in a bamboo steamer, red lanterns behind"
+    },
+    "scenery": {
+     "title_zh": "港未來夜景",
+     "title_ja": "みなとみらい",
+     "desc_zh": "摩天輪與港灣夜景。",
+     "prompt_en": "Minato Mirai night skyline with Ferris wheel and bay reflection, deep blue dusk"
+    }
+   }
+  },
+  {
+   "id": "kanagawa_kamakura",
+   "name_zh": "鎌倉",
+   "name_ja": "鎌倉",
+   "intro_zh": "鎌倉在12世紀末成為源賴朝建立的武家政權中心，留下鶴岡八幡宮、高德院大佛等古蹟。三面環山、一面臨海，古寺與湘南海岸相鄰，繡球花與紅葉季特別熱鬧，也是東京近郊的人氣散策地。",
+   "items": {
+    "spot": {
+     "title_zh": "鎌倉大佛",
+     "title_ja": "鎌倉大仏",
+     "desc_zh": "高德院的青銅大佛。",
+     "prompt_en": "Great Buddha of Kamakura bronze statue seated in open air, trees behind"
+    },
+    "food": {
+     "title_zh": "吻仔魚丼",
+     "title_ja": "しらす丼",
+     "desc_zh": "湘南特色小魚丼。",
+     "prompt_en": "Shirasu rice bowl with raw and boiled whitebait, egg yolk, lemon, seaside"
+    },
+    "scenery": {
+     "title_zh": "江之電與海岸",
+     "title_ja": "江ノ電と湘南の海",
+     "desc_zh": "電車經過海岸。",
+     "prompt_en": "Enoden tram passing by ocean coast, Enoshima in the distance, evening light"
+    }
+   }
+  },
+  {
+   "id": "kanagawa_hakone",
+   "name_zh": "箱根",
+   "name_ja": "箱根",
+   "intro_zh": "箱根是富士箱根伊豆國立公園的核心，擁有蘆之湖、大涌谷與眾多溫泉，距東京約90分鐘，是長年熱門的度假地。可搭登山鐵道、纜車與海盜船遊覽，並在晴天遠眺富士山。一年四季皆宜。",
+   "items": {
+    "spot": {
+     "title_zh": "箱根神社與蘆之湖",
+     "title_ja": "箱根神社",
+     "desc_zh": "湖面上的紅色鳥居。",
+     "prompt_en": "Hakone Shrine red torii standing in Lake Ashi with misty mountains"
+    },
+    "food": {
+     "title_zh": "箱根黑蛋",
+     "title_ja": "黒たまご",
+     "desc_zh": "大涌谷黑蛋。",
+     "prompt_en": "Hakone black eggs boiled in sulfur hot springs, small basket, steam"
+    },
+    "scenery": {
+     "title_zh": "大涌谷與富士山",
+     "title_ja": "大涌谷",
+     "desc_zh": "火山噴煙地帶遠眺富士山。",
+     "prompt_en": "Owakudani volcanic valley with steam vents, Mt Fuji in background, clear day"
+    }
+   }
+  },
+  {
+   "id": "kanagawa_enoshima",
+   "name_zh": "江之島",
+   "name_ja": "江の島",
+   "intro_zh": "江之島是相模灣上以橋連接陸地的小島，島上有江島神社、洞窟與展望燈塔。傳說祭祀弁財天，神社歷史悠久。島周圍有海灘與海鮮店，夕陽與富士山剪影是最受歡迎的景色。假日人潮眾多。",
+   "items": {
+    "spot": {
+     "title_zh": "江島神社",
+     "title_ja": "江島神社",
+     "desc_zh": "島上的神社與階梯。",
+     "prompt_en": "Enoshima Shrine entrance and stone steps with torii, sea breeze"
+    },
+    "food": {
+     "title_zh": "章魚仙貝",
+     "title_ja": "たこせんべい",
+     "desc_zh": "整隻章魚壓成的仙貝。",
+     "prompt_en": "Enoshima octopus rice cracker pressed flat with whole octopus, golden-brown, street food"
+    },
+    "scenery": {
+     "title_zh": "江之島燈塔夕景",
+     "title_ja": "江の島シーキャンドル",
+     "desc_zh": "夕陽與富士山剪影。",
+     "prompt_en": "Enoshima Sea Candle lighthouse at sunset, silhouette of Mt Fuji, orange sky"
+    }
+   }
+  }
+ ]
+}

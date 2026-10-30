@@ -1,0 +1,277 @@
+{
+ "id": "aomori",
+ "foods": [
+  {
+   "title_zh": "津輕蘋果",
+   "title_ja": "津軽りんご",
+   "category": "特產食材",
+   "summary_zh": "青森是日本最大蘋果產地，津輕地區的蘋果甜脆多汁。",
+   "body_zh": "青森縣的蘋果產量居日本之冠，主要產區集中在津輕地區的弘前一帶。涼爽的氣候與晝夜溫差使蘋果甜度高、口感脆。代表品種有富士、王林等，農家會摘葉讓果實均勻著色。除了直接食用，也製成蘋果汁、蘋果派等產品，是青森的象徵。秋季收成季節，果園也開放遊客採摘，並提供蘋果汁與蘋果醋等加工品，值得一試。",
+   "facts": [
+    {
+     "label": "產地",
+     "value": "弘前市、津輕地區"
+    },
+    {
+     "label": "品種",
+     "value": "富士、王林等"
+    },
+    {
+     "label": "吃法",
+     "value": "生食、榨汁、做甜點"
+    }
+   ],
+   "season_zh": "秋至冬",
+   "where_zh": "弘前市及津輕各地果園",
+   "tags": [
+    "蘋果",
+    "青森",
+    "弘前",
+    "水果"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/青森県"
+   ],
+   "confidence": "high",
+   "prompt_en": "Several red apples, one cut open showing white juicy flesh, in a rustic wooden crate, soft daylight, orchard feel. Single dish only, no text, no signs, no other dishes."
+  },
+  {
+   "title_zh": "貝殼燒味噌",
+   "title_ja": "ホタテ貝焼き味噌",
+   "category": "鄉土料理",
+   "summary_zh": "在扇貝殼上用味噌與蛋煮的青森鄉土料理。",
+   "body_zh": "貝焼き味噌是青森縣的鄉土料理，把扇貝殼當鍋，放入扇貝肉、蔥、味噌與蛋後加熱煮成。原本是漁村在家中以貝殼為鍋的簡易料理，據說也是病人補充營養的食物。味道鹹香，常配白飯或當下酒菜。扇貝是青森陸奧灣的名產，這道菜完整展現漁村的簡樸飲食文化，作法也簡單。",
+   "facts": [
+    {
+     "label": "起源",
+     "value": "漁村的簡易家庭料理（說法不一）"
+    },
+    {
+     "label": "主要食材",
+     "value": "扇貝、味噌、蛋、蔥"
+    },
+    {
+     "label": "吃法",
+     "value": "配白飯或下酒"
+    }
+   ],
+   "season_zh": "全年，冬季多",
+   "where_zh": "陸奧灣沿岸及青森市區居酒屋",
+   "tags": [
+    "扇貝",
+    "味噌",
+    "蛋",
+    "鄉土"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/貝焼き"
+   ],
+   "confidence": "medium",
+   "prompt_en": "A large scallop shell used as a pan holding simmering miso, egg, scallop meat and chopped green onion, set on a small wooden board, steam, soft warm light. Single dish only, no text, no signs, no other dishes."
+  },
+  {
+   "title_zh": "煎餅湯",
+   "title_ja": "せんべい汁",
+   "category": "鄉土料理",
+   "summary_zh": "把南部煎餅放入湯鍋煮的八戶鄉土火鍋。",
+   "body_zh": "せんべい汁是青森縣南部地區（以八戶為中心）的鄉土料理，把專供煮湯的南部煎餅掰開放入醬油湯底，與雞肉、牛蒡、蔥、菇等一同煮。煎餅吸收湯汁後口感像麵疙瘩，帶有嚼勁。在寒冷的冬天特別受歡迎。八戶地區的店家都有專用的湯用煎餅，煮久也不會爛掉，湯汁吸進去更好吃。",
+   "facts": [
+    {
+     "label": "產地",
+     "value": "青森縣南部、八戶一帶"
+    },
+    {
+     "label": "主要食材",
+     "value": "南部煎餅、雞肉、蔬菜"
+    },
+    {
+     "label": "吃法",
+     "value": "煎餅掰開下鍋煮"
+    }
+   ],
+   "season_zh": "秋至冬",
+   "where_zh": "八戶市及南部地區鄉土料理店",
+   "tags": [
+    "煎餅",
+    "鍋物",
+    "八戶",
+    "南部"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/せんべい汁"
+   ],
+   "confidence": "high",
+   "prompt_en": "A ceramic bowl of senbei-jiru soy broth with broken round senbei crackers softened in it, chicken, burdock, mushrooms and scallions, steam rising, on a wooden table. Single dish only, no text, no signs, no other dishes."
+  },
+  {
+   "title_zh": "大間鮪魚",
+   "title_ja": "大間のマグロ",
+   "category": "海鮮",
+   "summary_zh": "津輕海峽大間產的本鮪魚，以一本釣聞名。",
+   "body_zh": "大間位於下北半島，津輕海峽急流孕育出脂肪豐厚的本鮪魚，漁民以一本釣方式捕撈，品質聞名全日本。鮪魚常在東京豐洲拍賣拍出高價。可做成生魚片、壽司，赤身與大腹各有風味。在當地可吃到較新鮮的版本。在大間漁港能看到漁船卸貨，當地也有鮪魚丼等較容易入口的吃法。",
+   "facts": [
+    {
+     "label": "產地",
+     "value": "下北半島大間町"
+    },
+    {
+     "label": "捕撈",
+     "value": "一本釣"
+    },
+    {
+     "label": "吃法",
+     "value": "生魚片、壽司"
+    }
+   ],
+   "season_zh": "秋至冬較盛",
+   "where_zh": "大間町漁港及周邊壽司店、食堂",
+   "tags": [
+    "鮪魚",
+    "大間",
+    "一本釣",
+    "生魚片"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/大間町"
+   ],
+   "confidence": "high",
+   "prompt_en": "Slices of fresh otoro and akami bluefin tuna sashimi on a dark slate plate with shredded daikon and a shiso leaf, soft light. Single dish only, no text, no signs, no other dishes."
+  },
+  {
+   "title_zh": "青森煮干拉麵",
+   "title_ja": "青森煮干しラーメン",
+   "category": "麵飯",
+   "summary_zh": "以小魚乾熬湯的醬油拉麵，魚香濃郁。",
+   "body_zh": "青森煮干拉麵以煮干（小魚乾）長時間熬出湯底，香氣強烈、鮮味深厚，並以醬油調味。青森一帶有多家以此聞名的店，有清爽與濃稠等風格。麵條以細麵至中粗麵為主，配叉燒、蔥與筍乾。魚乾愛好者特別喜歡。有些店家加入大量煮干，湯色深褐，魚香非常強烈，喜歡魚乾味的人必嘗。",
+   "facts": [
+    {
+     "label": "特色",
+     "value": "小魚乾湯底"
+    },
+    {
+     "label": "主要食材",
+     "value": "煮干、醬油、麵條"
+    },
+    {
+     "label": "吃法",
+     "value": "可加蔥花與洋蔥"
+    }
+   ],
+   "season_zh": "全年",
+   "where_zh": "青森市、弘前市的拉麵店",
+   "tags": [
+    "拉麵",
+    "魚乾",
+    "醬油",
+    "青森"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/青森ラーメン"
+   ],
+   "confidence": "medium",
+   "prompt_en": "A ceramic bowl of dark-golden niboshi ramen with chashu, menma, scallions and thin noodles, on a dark counter, warm side light, steam. Single dish only, no text, no signs, no other dishes."
+  },
+  {
+   "title_zh": "十和田烤牛五花",
+   "title_ja": "十和田バラ焼き",
+   "category": "B級美食",
+   "summary_zh": "用鐵板把牛五花與大量洋蔥以甜鹹醬汁燒炒。",
+   "body_zh": "十和田バラ焼き是十和田市的B級美食，把牛五花（バラ肉）與大量洋蔥放在鐵板上，用醬油為基底的甜鹹醬汁燒炒。據說起源於美軍基地附近的食堂，是食堂與居酒屋的家常菜。肉香濃厚，配白飯很下飯。醬汁偏甜，洋蔥煮到軟甜，與牛肉脂香互相融合，一口接一口。常見於食堂定食。",
+   "facts": [
+    {
+     "label": "起源",
+     "value": "十和田市食堂傳承（說法不一）"
+    },
+    {
+     "label": "主要食材",
+     "value": "牛五花、洋蔥、醬油醬汁"
+    },
+    {
+     "label": "吃法",
+     "value": "配白飯"
+    }
+   ],
+   "season_zh": "全年",
+   "where_zh": "十和田市的食堂與燒肉店",
+   "tags": [
+    "牛肉",
+    "洋蔥",
+    "鐵板",
+    "B級"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/十和田バラ焼き"
+   ],
+   "confidence": "medium",
+   "prompt_en": "A sizzling iron plate of beef short plate and onions in sweet soy sauce, glossy caramelized, with steam, dark table, warm light. Single dish only, no text, no signs, no other dishes."
+  },
+  {
+   "title_zh": "田酒",
+   "title_ja": "田酒",
+   "category": "酒與飲品",
+   "summary_zh": "西田酒造的純米酒，青森日本酒代表。",
+   "body_zh": "田酒是青森市西田酒造的代表日本酒，以純米酒路線著名，使用青森縣產米釀造。口感紮實、米味與酸味均衡，有純米吟釀等不同系列。在日本酒迷之間有高人氣。在青森的居酒屋與酒販能找到，適合配當地海鮮一起品嚐，也是很好的伴手禮。也常見於青森各地餐廳的酒單，風味因年份與系列而異。",
+   "facts": [
+    {
+     "label": "釀造",
+     "value": "西田酒造（青森市）"
+    },
+    {
+     "label": "特色",
+     "value": "純米酒路線"
+    },
+    {
+     "label": "吃法",
+     "value": "常溫或冷飲"
+    }
+   ],
+   "season_zh": "全年",
+   "where_zh": "青森市及縣內酒販",
+   "tags": [
+    "日本酒",
+    "純米",
+    "西田酒造",
+    "青森"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/田酒"
+   ],
+   "confidence": "medium",
+   "prompt_en": "A tokkuri sake bottle and a small ochoko cup of clear sake on a wooden tray, plain bottle with calligraphy-free label, snow-colored background, soft light. Single dish only, no text, no signs, no other dishes."
+  },
+  {
+   "title_zh": "弘前蘋果派",
+   "title_ja": "弘前アップルパイ",
+   "category": "甜點和菓子",
+   "summary_zh": "用津輕蘋果烤的派，弘前各店風味不同。",
+   "body_zh": "弘前市以蘋果聞名，當地咖啡店與西點店推出許多蘋果派，並有「アップルパイマップ」介紹各家風味。用津輕蘋果烤製，口感有酥脆派皮、軟嫩或帶酸味的內餡。有的加肉桂，有的加卡士達醬。是來弘前必吃甜點。在弘前街頭逛咖啡店，比較不同的蘋果派，是很受歡迎的玩法，可看觀光地圖。",
+   "facts": [
+    {
+     "label": "特色",
+     "value": "使用津輕蘋果製作"
+    },
+    {
+     "label": "主要食材",
+     "value": "蘋果、派皮、肉桂"
+    },
+    {
+     "label": "吃法",
+     "value": "配咖啡或紅茶"
+    }
+   ],
+   "season_zh": "全年",
+   "where_zh": "弘前市的咖啡店與西點店",
+   "tags": [
+    "蘋果派",
+    "弘前",
+    "甜點",
+    "咖啡"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/弘前市"
+   ],
+   "confidence": "low",
+   "prompt_en": "A slice of golden apple pie with visible apple pieces and cinnamon on a small white plate, a cup of coffee behind, wooden table, soft light. Single dish only, no text, no signs, no other dishes."
+  }
+ ]
+}

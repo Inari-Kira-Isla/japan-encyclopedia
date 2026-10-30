@@ -1,0 +1,289 @@
+{
+  "id": "fukui",
+  "spots": [
+    {
+      "title_zh": "東尋坊",
+      "title_ja": "東尋坊",
+      "category": "海島海岸",
+      "area_zh": "坂井市（三國町）",
+      "summary_zh": "日本海岸邊的柱狀岩壁斷崖。",
+      "body_zh": "東尋坊位於福井縣坂井市三國町安島，是面向日本海的海蝕崖，最高處垂直岩壁約25公尺，屬越前加賀海岸國定公園特別保護地區。岩石為輝石安山岩的柱狀節理，約1300至1200萬年前岩漿侵入沉積岩層後冷卻而成，規模在世界僅有三處，1935年指定為國家天然紀念物及名勝。地名相傳來自1182年被推落懸崖的平泉寺僧東尋坊。",
+      "facts": [
+        {
+          "label": "所在地",
+          "value": "福井縣坂井市三國町安島"
+        },
+        {
+          "label": "開創／成因",
+          "value": "新第三紀中新世火山活動，岩漿冷卻形成柱狀節理，再受波浪侵蝕"
+        },
+        {
+          "label": "看點",
+          "value": "柱狀節理斷崖、千疊敷、遊覽船與展望塔"
+        }
+      ],
+      "best_season_zh": "晴天日落時分",
+      "tips_zh": "岩壁邊緣無欄杆處多，風浪大時請遠離崖邊；可搭遊覽船從海上看斷崖全貌。",
+      "tags": [
+        "斷崖",
+        "柱狀節理",
+        "日本海",
+        "日落"
+      ],
+      "sources": [
+        "https://ja.wikipedia.org/wiki/東尋坊"
+      ],
+      "confidence": "high",
+      "prompt_en": "Sheer coastal cliffs of hexagonal basalt-like columns above rough sea, dramatic sunset sky, crashing waves, wide angle from the rock top, foreground rock ledge, no text, no recognizable people"
+    },
+    {
+      "title_zh": "永平寺",
+      "title_ja": "永平寺",
+      "category": "神社寺院",
+      "area_zh": "永平寺町",
+      "summary_zh": "曹洞宗大本山，道元開創的修行道場。",
+      "body_zh": "永平寺位於福井縣吉田郡永平寺町，是曹洞宗大本山，與總持寺並列為宗門中心，開山祖師為道元。道元1244年在越前建傘松峰大佛寺，1246年改名吉祥山永平寺，寺號取自後漢明帝年號「永平」，意為永久和平。歷經戰火與火災，現存堂宇均為近世以後所建；2025年仍有約百名雲水僧在此修行，主要建築以回廊相連，設有參觀路線。",
+      "facts": [
+        {
+          "label": "所在地",
+          "value": "福井縣吉田郡永平寺町"
+        },
+        {
+          "label": "開創／成因",
+          "value": "1244年道元創建傘松峰大佛寺，1246年改稱永平寺"
+        },
+        {
+          "label": "看點",
+          "value": "曹洞宗修行道場、回廊連接的伽藍"
+        }
+      ],
+      "best_season_zh": "新綠與紅葉季、雪景",
+      "tips_zh": "寺內是修行道場，參觀時請保持安靜、不要高聲交談；回廊多為木階，請穿容易脫的鞋子。",
+      "tags": [
+        "曹洞宗",
+        "道元",
+        "修行道場",
+        "杉木林"
+      ],
+      "sources": [
+        "https://ja.wikipedia.org/wiki/永平寺"
+      ],
+      "confidence": "high",
+      "prompt_en": "Mountain Zen temple halls connected by covered wooden corridors among tall cedar trees, light fog, early morning, stone steps in foreground, calm and solemn mood, no text, no recognizable people"
+    },
+    {
+      "title_zh": "一乘谷朝倉氏遺跡",
+      "title_ja": "一乗谷朝倉氏遺跡",
+      "category": "城郭史蹟",
+      "area_zh": "福井市",
+      "summary_zh": "戰國大名朝倉氏的城下町遺跡。",
+      "body_zh": "一乘谷朝倉氏遺跡位於福井市城戶之內町，是戰國大名朝倉氏的根據地，由一乘谷城與山麓城下町組成，全區278公頃為國家特別史跡，4座庭園並列特別名勝。一乘谷東西約500公尺、南北約3公里，三面環山、北臨足羽川，兩端設城戶，其間約1.7公里的區域規劃了朝倉館、武士宅邸、寺院與町屋。應仁之亂後京都公家與僧侶來此，有「北之京」之稱。",
+      "facts": [
+        {
+          "label": "所在地",
+          "value": "福井縣福井市城戶之內町"
+        },
+        {
+          "label": "開創／成因",
+          "value": "戰國時代朝倉氏以一乘谷為據點，山城與城下町並置"
+        },
+        {
+          "label": "看點",
+          "value": "城下町遺構、4處特別名勝庭園、一乘谷城"
+        }
+      ],
+      "best_season_zh": "新綠與秋季",
+      "tips_zh": "遺跡範圍大，從城戶沿主街步行，可先到資料館了解配置；山城需登山，要另外預留體力與時間。",
+      "tags": [
+        "戰國",
+        "朝倉氏",
+        "城下町",
+        "史跡"
+      ],
+      "sources": [
+        "https://ja.wikipedia.org/wiki/一乗谷朝倉氏遺跡"
+      ],
+      "confidence": "high",
+      "prompt_en": "Reconstructed samurai-era townscape with wooden houses and a stone-paved lane in a narrow mountain valley, early summer green hills, soft afternoon light, low angle along the street, no text, no recognizable people"
+    },
+    {
+      "title_zh": "福井縣立恐龍博物館",
+      "title_ja": "福井県立恐竜博物館",
+      "category": "主題設施",
+      "area_zh": "勝山市",
+      "summary_zh": "日本代表性的恐龍專門博物館。",
+      "body_zh": "福井縣立恐龍博物館位於勝山市村岡町的長尾山綜合公園，以恐龍為主題，2000年7月14日開館、2023年重新開幕，與加拿大皇家泰瑞爾古生物學博物館、中國自貢恐龍博物館並稱世界三大恐龍博物館。館內全身骨骼化石由44具增至50具，含福井龍等在福井縣出土的恐龍；另有手取層群北谷層的野外恐龍博物館。觀覽券採事先預約制。",
+      "facts": [
+        {
+          "label": "所在地",
+          "value": "福井縣勝山市村岡町（長尾山綜合公園內）"
+        },
+        {
+          "label": "開創／成因",
+          "value": "勝山一帶手取層群（下部白堊系）出土化石，2000年開館、2023年擴建"
+        },
+        {
+          "label": "看點",
+          "value": "全身骨骼標本、3面大銀幕、野外發掘現場"
+        }
+      ],
+      "best_season_zh": "全年（室內為主）",
+      "tips_zh": "門票需事先預約購買，旺季容易額滿，請先預訂；要看野外發掘現場得另行安排移動時間。",
+      "tags": [
+        "恐龍",
+        "化石",
+        "博物館",
+        "親子"
+      ],
+      "sources": [
+        "https://ja.wikipedia.org/wiki/福井県立恐竜博物館"
+      ],
+      "confidence": "high",
+      "prompt_en": "Large museum hall with a full dinosaur skeleton mounted in a dynamic pose, dramatic overhead lighting, dark ambient background, low angle view up at the skeleton, no text, no signage, no recognizable people"
+    },
+    {
+      "title_zh": "三方五湖",
+      "title_ja": "三方五湖",
+      "category": "自然絕景",
+      "area_zh": "若狹町、美濱町",
+      "summary_zh": "五個相連的湖泊，湖色各異。",
+      "body_zh": "三方五湖橫跨福井縣美濱町與若狹町，由三方湖、水月湖、菅湖、久久子湖、日向湖五湖組成，屬若狹灣國定公園，1937年列國家名勝，2005年登錄拉姆薩爾濕地。五湖原多為內陸湖，江戶時代開鑿水路相連，因此有淡水、汽水、海水之別，水色深淺不一，從梅丈岳山頂展望台可見不同藍色。周圍梅林遍布，水月湖為二重底的湖。",
+      "facts": [
+        {
+          "label": "所在地",
+          "value": "福井縣美濱町、若狹町"
+        },
+        {
+          "label": "開創／成因",
+          "value": "江戶時代開鑿水路連接五湖，形成淡水、汽水與海水湖"
+        },
+        {
+          "label": "看點",
+          "value": "五色湖面、梅丈岳展望、梅林"
+        }
+      ],
+      "best_season_zh": "晴朗的秋季與早晨",
+      "tips_zh": "想看湖水藍色差異，可上梅丈岳（彩虹線）展望台；春季梅花季周邊梅林最美。",
+      "tags": [
+        "湖泊",
+        "展望台",
+        "若狹灣",
+        "自然"
+      ],
+      "sources": [
+        "https://ja.wikipedia.org/wiki/三方五湖"
+      ],
+      "confidence": "high",
+      "prompt_en": "Elevated view over several connected lakes of different blue-green hues separated by narrow land strips, forested hills, bay visible beyond, clear morning light, wide panorama, no text, no recognizable people"
+    },
+    {
+      "title_zh": "蘆原溫泉",
+      "title_ja": "あわら温泉",
+      "category": "溫泉",
+      "area_zh": "蘆原市（あわら市）",
+      "summary_zh": "福井北部具代表性的溫泉街。",
+      "body_zh": "蘆原溫泉位於福井縣蘆原市（あわら市），有「關西奧座敷」之稱。1883年農田灌溉用的井湧出溫泉，成為開湯之始，後趁大正至昭和初期的旅遊熱發展，1927年入選日本百景。1956年大火燒毀26間旅館中的19間，之後重新規劃為棋盤狀街區。泉質為含鹽化土類食鹽泉，各設施自有源泉，泉溫約33.5至77.5度，也是永平寺參拜後的「精進落とし」之湯。",
+      "facts": [
+        {
+          "label": "所在地",
+          "value": "福井縣あわら市"
+        },
+        {
+          "label": "開創／成因",
+          "value": "1883年灌溉井湧出溫泉而開湯"
+        },
+        {
+          "label": "看點",
+          "value": "溫泉街散步、鹽化土類食鹽泉、租借自行車遊覽"
+        },
+        {
+          "label": "交通",
+          "value": "えちぜん鉄道「あわら湯のまち駅」"
+        }
+      ],
+      "best_season_zh": "秋冬",
+      "tips_zh": "車站可租借自行車逛棋盤狀的溫泉街；多數旅館有自家源泉，泉質略有差異，住宿前可查各館泉種。",
+      "tags": [
+        "溫泉",
+        "旅館",
+        "北陸",
+        "泡湯"
+      ],
+      "sources": [
+        "https://ja.wikipedia.org/wiki/芦原温泉"
+      ],
+      "confidence": "high",
+      "prompt_en": "Quiet hot spring town street at dusk with soft lantern lights and light snow, wooden inn facades, steam rising from a small footbath in foreground, warm window glow, no text, no signboards, no recognizable people"
+    },
+    {
+      "title_zh": "平泉寺白山神社",
+      "title_ja": "平泉寺白山神社",
+      "category": "神社寺院",
+      "area_zh": "勝山市",
+      "summary_zh": "白山信仰古社，參道旁有大片青苔。",
+      "body_zh": "平泉寺白山神社位於福井縣勝山市平泉寺町，是白山信仰在越前側的據點，相傳717年由泰澄開山。平安時代起隸屬比叡山延曆寺，稱「靈應山平泉寺」，山伏與僧兵聚集；明治神佛分離前為佛寺。1440年全山遭大火後，重建時開始大量使用石垣。現今本殿祭祀伊奘冊尊，歷史與出土文物陳列於白山平泉寺歷史探遊館。",
+      "facts": [
+        {
+          "label": "所在地",
+          "value": "福井縣勝山市平泉寺町"
+        },
+        {
+          "label": "開創／成因",
+          "value": "相傳717年泰澄開山，越前側白山禪定道的據點"
+        },
+        {
+          "label": "看點",
+          "value": "白山信仰古道、石垣遺構、歷史探遊館"
+        }
+      ],
+      "best_season_zh": "梅雨至初夏（青苔最翠綠）",
+      "tips_zh": "境內為歷史遺址，建議先到歷史探遊館了解背景再參拜；山區夏季蚊蟲較多，雨後石階濕滑。",
+      "tags": [
+        "青苔",
+        "白山信仰",
+        "杉木林",
+        "史跡"
+      ],
+      "sources": [
+        "https://ja.wikipedia.org/wiki/平泉寺白山神社"
+      ],
+      "confidence": "high",
+      "prompt_en": "Moss-covered forest shrine path under tall cedar trees, deep green carpet of moss, shafts of soft light through mist, stone steps in foreground, quiet early morning after rain, no text, no recognizable people"
+    },
+    {
+      "title_zh": "養浩館庭園",
+      "title_ja": "養浩館庭園",
+      "category": "庭園公園",
+      "area_zh": "福井市",
+      "summary_zh": "福井藩主別邸的池泉回遊式庭園。",
+      "body_zh": "養浩館庭園位於福井市宝永3丁目，距福井城本丸約400公尺，是國家名勝的大名庭園。原為福井藩主松平家的別邸「御泉水屋敷」，1699年完成現今規模的建築與迴遊式林泉庭園，1884年由松平春嶽改稱「養浩館」。1945年福井空襲中建築燒毀，現存建物為復原；建築被池水環繞，部分以水面承托。美國日本庭園雜誌曾在2008至2010年連續三年排名第三。",
+      "facts": [
+        {
+          "label": "所在地",
+          "value": "福井縣福井市宝永3丁目"
+        },
+        {
+          "label": "開創／成因",
+          "value": "福井藩主松平家別邸，1699年完成迴遊式林泉庭園"
+        },
+        {
+          "label": "看點",
+          "value": "池水環繞的數寄屋建築、迴遊式庭園"
+        }
+      ],
+      "best_season_zh": "新綠與秋季",
+      "tips_zh": "建築為戰後復原，從池邊與室內走廊看庭園的角度不同，建議兩邊都走一次；可與福井城跡、市立郷土歷史博物館順路。",
+      "tags": [
+        "庭園",
+        "福井藩",
+        "池泉",
+        "數寄屋"
+      ],
+      "sources": [
+        "https://ja.wikipedia.org/wiki/養浩館庭園"
+      ],
+      "confidence": "high",
+      "prompt_en": "Japanese pond garden with an elegant low wooden villa with deep eaves reflected in still water, pine trees leaning over the pond, soft autumn afternoon light, stepping stones in foreground, no text, no recognizable people"
+    }
+  ]
+}

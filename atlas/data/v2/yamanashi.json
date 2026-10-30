@@ -1,0 +1,840 @@
+{
+ "id": "yamanashi",
+ "name_zh": "山梨縣",
+ "name_ja": "山梨県",
+ "region": "中部",
+ "overview": {
+  "intro_zh": "山梨縣位於本州中部內陸，四面環山，富士山北麓與八岳、南阿爾卑斯山並列境內。縣廳所在地甲府是戰國名將武田信玄的根據地，盆地日照充足、晝夜溫差大，孕育出全日本居前的葡萄、桃子與李子，也是日本葡萄酒的發源地。富士五湖是欣賞富士山的熱門據點，名水與礦泉水產量亦高，機械人與寶石加工等產業同樣知名。從東京搭乘巴士或電車約兩小時可達，是首都圈近郊的山岳與果園之縣。",
+  "capital_zh": "甲府市",
+  "area_km2": 4465,
+  "population_approx": "約79萬（2025年）",
+  "flower_zh": "富士櫻",
+  "bird_zh": "鶯（日本樹鶯）",
+  "tree_zh": "楓",
+  "climate_zh": "內陸性氣候，雨量偏少（約800毫米），夏熱冬寒、晝夜溫差大，富士山麓夏涼。",
+  "access_zh": "東京新宿搭中央線特急到甲府約90分鐘；往河口湖由新宿搭高速巴士約2小時。",
+  "specialties_zh": [
+   "葡萄（甲州、巨峰）",
+   "桃子",
+   "葡萄酒",
+   "餺飥",
+   "礦泉水",
+   "水晶寶石工藝"
+  ],
+  "best_season_zh": "4月桃花與櫻花、8月下旬火祭、10至11月紅葉與葡萄收成"
+ },
+ "items": {
+  "architecture": {
+   "title_zh": "河口湖大橋",
+   "title_ja": "河口湖大橋",
+   "summary_zh": "橫跨河口湖、與富士山同框的湖上大橋。",
+   "body_zh": "河口湖大橋連接河口湖北岸與南岸，全長約500公尺，是環湖交通的要道。大橋所在位置能把富士山與湖面同時收進視野，天氣晴朗、無風的清晨，山影倒映湖中，是攝影愛好者的熱門取景點。據公開資料，大橋曾於1971年至2005年間收取通行費，現已免費通行。橋畔一帶設有遊覽船碼頭、步道與觀景處，四季都有不同風貌：春天山櫻、夏天湖畔薰衣草、秋天紅葉、冬天則有清澈空氣下的雪頂富士。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "富士河口湖町"
+    },
+    {
+     "label": "全長",
+     "value": "約500公尺"
+    },
+    {
+     "label": "通行",
+     "value": "現已免費（曾於1971至2005年收費）"
+    },
+    {
+     "label": "特色",
+     "value": "富士山與湖面倒影"
+    }
+   ],
+   "best_season_zh": "秋冬清晨空氣最清澈",
+   "tips_zh": "想拍倒影請挑無風的清晨，並注意不要在車道旁停留；人潮多時可改走湖畔步道，從不同角度取景。",
+   "tags": [
+    "河口湖",
+    "大橋",
+    "富士山",
+    "倒影"
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Fujikawaguchiko"
+   ],
+   "confidence": "medium",
+   "prompt_en": "Lake Kawaguchi bridge crossing the calm lake with Mount Fuji rising beyond, mirror-like reflection, early morning light, a few small boats"
+  },
+  "food": {
+   "title_zh": "餺飥麵",
+   "title_ja": "ほうとう",
+   "summary_zh": "南瓜與味噌煮成的山梨鄉土寬麵鍋。",
+   "body_zh": "餺飥是山梨縣的代表鄉土料理，把加了高筋度的寬麵片與南瓜、根莖蔬菜一同放進味噌湯中煮成。與烏龍麵不同的是，麵條不需先汆燙，直接與蔬菜同煮，麵粉的澱粉讓湯汁濃稠、特別暖身。相傳是在養蠶業取代稻田、小麥成為重要作物後，為應對糧食不足而普及；戰後觀光宣傳常說它是武田信玄與家臣的出陣飯，但這個說法偏屬傳說。如今在甲府、河口湖一帶的餐廳都能吃到，通常用鐵鍋盛裝，冬天尤其受歡迎。",
+   "facts": [
+    {
+     "label": "起源",
+     "value": "養蠶興盛後以麵粉補糧的農家料理"
+    },
+    {
+     "label": "主要食材",
+     "value": "寬麵片、南瓜、味噌、根莖蔬菜"
+    },
+    {
+     "label": "特色",
+     "value": "麵不汆燙、直接同煮"
+    },
+    {
+     "label": "傳說",
+     "value": "與武田信玄出陣飯有關（屬傳說）"
+    }
+   ],
+   "best_season_zh": "秋冬",
+   "tips_zh": "湯汁濃稠且燙，建議先把南瓜壓碎融入湯中；店家多以鐵鍋上桌，小心燙口。",
+   "tags": [
+    "鄉土料理",
+    "味噌",
+    "南瓜",
+    "鐵鍋"
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Hōtō"
+   ],
+   "confidence": "high",
+   "prompt_en": "Steaming cast-iron pot of houtou flat noodle stew with pumpkin, mushrooms and miso broth on a rustic wooden table, warm light"
+  },
+  "culture": {
+   "title_zh": "吉田火祭",
+   "title_ja": "吉田の火祭り",
+   "summary_zh": "8月底為富士山封山而點燃的火炬祭典。",
+   "body_zh": "吉田火祭每年8月26至27日在富士吉田市舉行，由北口本宮冨士淺間神社與諏訪神社共同舉辦，被視為富士山夏季登山季節結束的儀式，感謝一年登山平安並封山。26日傍晚，市區主街沿線約2公里排列起三公尺以上高的火炬並同時點燃，街道化為一片火海；神轎「御明神」與「御影」被抬出巡行，並在神社內繞行高天原。祭典名列日本三大奇祭之一，現場火星四散、氣氛肅穆而熱烈。祭典期間街道會封閉，沿途攤販林立，是富士吉田市一年中最熱鬧的夜晚。",
+   "facts": [
+    {
+     "label": "日期",
+     "value": "每年8月26至27日"
+    },
+    {
+     "label": "地點",
+     "value": "富士吉田市北口本宮冨士淺間神社周邊"
+    },
+    {
+     "label": "意義",
+     "value": "富士山封山祭"
+    },
+    {
+     "label": "特色",
+     "value": "沿街約2公里的巨大火炬"
+    }
+   ],
+   "best_season_zh": "8月26至27日",
+   "tips_zh": "現場人潮擁擠、火星飛濺，建議穿耐燃的長袖與不怕弄髒的衣物，並預留返程交通時間。",
+   "tags": [
+    "祭典",
+    "火炬",
+    "富士山",
+    "奇祭"
+   ],
+   "sources": [
+    "https://www.japan.travel/spot/198"
+   ],
+   "confidence": "high",
+   "prompt_en": "Towering bonfire torches lining a Fujiyoshida street at night with Mount Fuji silhouette beyond, sparks flying, crowd in happi coats"
+  },
+  "history": {
+   "title_zh": "武田神社與躑躅崎館遺跡",
+   "title_ja": "武田神社",
+   "summary_zh": "戰國武田氏居館遺址上建成的神社。",
+   "body_zh": "武田神社位於甲府市，原址是戰國大名武田信玄一族居住的躑躅崎館。武田氏滅亡後居館荒廢，直到明治時代才受到保護；神社於1915年由大正天皇下令創建，1919年落成，主祀武田信玄，每年4月12日（信玄忌日）舉行例祭。境內保留護城河與土壘，寶物殿展出甲冑、軍旗等與信玄相關的文物，並有被指定為重要文化財的太刀。每年春天的信玄公祭更是縣內最大的歷史祭典之一。神社位於甲府市北側，從甲府車站搭巴士或步行均可抵達，周邊另有信玄公像與武田氏相關史蹟。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "甲府市古府中町"
+    },
+    {
+     "label": "創建",
+     "value": "1915年下令、1919年落成"
+    },
+    {
+     "label": "祭神",
+     "value": "武田信玄"
+    },
+    {
+     "label": "例祭",
+     "value": "每年4月12日"
+    }
+   ],
+   "best_season_zh": "春季櫻花與秋季紅葉",
+   "tips_zh": "可順路走訪甲府城跡與信玄公像，一天可串連甲府市區的戰國史蹟。",
+   "tags": [
+    "武田信玄",
+    "戰國",
+    "神社",
+    "居館遺跡"
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Takeda_Shrine"
+   ],
+   "confidence": "high",
+   "prompt_en": "Takeda Shrine gate and moat on the grounds of a former samurai residence, autumn leaves, quiet atmosphere, stone bridge"
+  },
+  "mascot": {
+   "title_zh": "菱丸與葡萄桃子角色",
+   "title_ja": "ひしまる",
+   "summary_zh": "縣吉祥物為甲斐犬，本作畫為原創葡萄與桃子角色。",
+   "body_zh": "據資料，山梨縣的吉祥物名叫「菱丸」（Hishimaru），設計靈感來自縣內的甲斐犬與武田信玄，。本圖不複製任何既有商標吉祥物，而是以山梨最著名的特產葡萄與桃子為靈感，創作原創可愛角色，讓人聯想到盆地裡一望無際的果園與初夏的粉色桃花。山梨果樹產量居日本前列，葡萄與桃子也是各地農協與觀光宣傳常用的象徵。在山梨，葡萄與桃子也是農協包裝與伴手禮常見的圖案，因此很適合作為原創角色的主題。",
+   "facts": [
+    {
+     "label": "縣吉祥物",
+     "value": "菱丸（甲斐犬造型）"
+    },
+    {
+     "label": "靈感",
+     "value": "武田信玄、甲斐犬"
+    },
+    {
+     "label": "本圖概念",
+     "value": "葡萄與桃子的原創角色"
+    },
+    {
+     "label": "特產",
+     "value": "葡萄、桃子"
+    }
+   ],
+   "best_season_zh": "5至6月桃子、8至10月葡萄",
+   "tips_zh": "吉祥物周邊常見於甲府車站與休息站，可作為伴手禮參考。",
+   "tags": [
+    "吉祥物",
+    "葡萄",
+    "桃子",
+    "甲斐犬"
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Yamanashi_Prefecture"
+   ],
+   "confidence": "medium",
+   "prompt_en": "A cute original character shaped like a bunch of purple grapes with a small peach friend, standing in an orchard, pastel illustration. Original cute character, inspired by local symbols, not replicating any existing trademarked mascot."
+  },
+  "scenery": {
+   "title_zh": "富士山與櫻花",
+   "title_ja": "富士山と桜",
+   "summary_zh": "富士五湖一帶櫻花與富士山同框的春景。",
+   "body_zh": "每年4月上旬至中旬，富士五湖一帶的染井吉野櫻盛開，與山頂尚有積雪的富士山相映成趣。河口湖畔、忍野八海、新倉山淺間公園與富士吉田市區都是賞櫻名所，位置不同，取景角度也不同。山梨縣位於富士山北側，擁有比靜岡縣側更多的湖畔視角，湖面倒影是特色之一。由於富士山在春季常被雲遮住，早晨的短暫晴空特別珍貴。拍攝時建議早晨前往，空氣較清澈，也較少雲遮山頂，並請遵守各地的拍攝規定。",
+   "facts": [
+    {
+     "label": "地點",
+     "value": "富士五湖周邊"
+    },
+    {
+     "label": "花期",
+     "value": "約4月上旬至中旬"
+    },
+    {
+     "label": "特色",
+     "value": "櫻花、雪頂富士、湖面倒影"
+    },
+    {
+     "label": "近年",
+     "value": "旅遊旺季人潮擁擠"
+    }
+   ],
+   "best_season_zh": "4月上旬至中旬",
+   "tips_zh": "春季山區仍冷，需帶外套；人潮多的熱門點建議平日清晨前往。",
+   "tags": [
+    "富士山",
+    "櫻花",
+    "富士五湖",
+    "春天"
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Fujikawaguchiko"
+   ],
+   "confidence": "medium",
+   "prompt_en": "Mount Fuji with snow-capped peak behind blooming cherry trees along Lake Kawaguchi, clear spring sky, wide landscape"
+  },
+  "spot": {
+   "title_zh": "新倉山淺間公園忠靈塔",
+   "title_ja": "新倉山浅間公園",
+   "summary_zh": "五重塔、櫻花與富士山同框的名景。",
+   "body_zh": "新倉山淺間公園位於富士吉田市，山坡上的朱紅色五重塔是1962年建成的忠靈塔，高約19.5公尺，為鋼筋混凝土結構，祭祀富士吉田市約1,055名戰歿者。登上被稱為「咲耶姬階梯」的398級台階，即可看到五重塔、櫻花與富士山同框的景象，被環境省列入「富士見百景」之一。公園內約有650棵櫻樹，近年因樹齡老化而進行復育。這一畫面已成為日本旅遊宣傳的代表影像。櫻花季之外，秋季紅葉與冬季雪景同樣吸引攝影愛好者，一年四季都有不同風貌。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "富士吉田市"
+    },
+    {
+     "label": "忠靈塔建成",
+     "value": "1962年，高約19.5公尺"
+    },
+    {
+     "label": "階梯",
+     "value": "398級"
+    },
+    {
+     "label": "櫻樹",
+     "value": "約650棵"
+    }
+   ],
+   "best_season_zh": "4月上旬至中旬櫻花期",
+   "tips_zh": "賞櫻季人潮極多，建議平日清晨前往；階梯陡，需穿防滑好走的鞋。",
+   "tags": [
+    "五重塔",
+    "富士山",
+    "櫻花",
+    "展望台"
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Arakurayama_Sengen_Park"
+   ],
+   "confidence": "high",
+   "prompt_en": "Red five-story pagoda with Mount Fuji beyond at Arakurayama Sengen Park, spring cherry blossoms, stone steps, morning light"
+  },
+  "experience": {
+   "title_zh": "勝沼酒莊體驗",
+   "title_ja": "勝沼のワイナリー体験",
+   "summary_zh": "走訪日本葡萄酒發源地的酒莊試飲。",
+   "body_zh": "勝沼位於甲州市，被稱為日本葡萄酒的搖籃。甲州葡萄在日本已有千年以上的栽培歷史，長期作為鮮食葡萄；1877年，日本第一間民營釀酒公司「大日本山梨葡萄酒會社」在此成立，高野正誠與土屋龍憲兩位青年被派往法國學習，回國後開始釀造葡萄酒。如今勝沼一帶有許多酒莊，提供地窖參觀、橡木桶展示與甲州白酒試飲，可順道搭配當地料理。如今縣內酒莊提供從地窖參觀到試飲的各種行程，也能搭配甲州白酒享用當地料理。",
+   "facts": [
+    {
+     "label": "地點",
+     "value": "甲州市勝沼"
+    },
+    {
+     "label": "歷史",
+     "value": "1877年起步的日本葡萄酒產業"
+    },
+    {
+     "label": "代表品種",
+     "value": "甲州（白）"
+    },
+    {
+     "label": "體驗",
+     "value": "地窖參觀、試飲"
+    }
+   ],
+   "best_season_zh": "9至10月葡萄收成季",
+   "tips_zh": "試飲後請勿自行駕車，可利用巴士或計程車，部分酒莊有預約制。",
+   "tags": [
+    "葡萄酒",
+    "甲州葡萄",
+    "酒莊",
+    "試飲"
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Japanese_wine",
+    "https://closetomountfuji.com/2018/10/18/chateau-mercian-miyakoen/"
+   ],
+   "confidence": "medium",
+   "prompt_en": "Wine tasting in a Katsunuma winery cellar, oak barrels, glasses of white Koshu wine on a wooden table, warm light"
+  },
+  "costume": {
+   "title_zh": "武田菱紋風和服",
+   "title_ja": "武田菱の装い",
+   "summary_zh": "以武田氏菱形家紋為靈感的裝扮。",
+   "body_zh": "武田氏的家紋「武田菱」是由四個菱形組成的紋樣，在山梨縣的神社、祭典與紀念品上隨處可見。本圖以此為靈感，描繪無名模特兒身穿深色和服，衣料上有簡約菱形圖案，手提小束口袋，站在甲州葡萄園中的場景，呈現戰國風格與田園景致結合的氛圍。每年4月的信玄公祭，也能看到穿戰國甲冑與戰國裝束的遊行。此圖屬創意詮釋，並非傳統服飾的歷史復原。武田菱常見於山梨的神社、祭典與紀念品，可說是縣內最具辨識度的歷史符號。",
+   "facts": [
+    {
+     "label": "靈感",
+     "value": "武田氏家紋「武田菱」"
+    },
+    {
+     "label": "相關活動",
+     "value": "信玄公祭（甲府）"
+    },
+    {
+     "label": "色調",
+     "value": "深色和服加菱形紋"
+    },
+    {
+     "label": "性質",
+     "value": "創意詮釋"
+    }
+   ],
+   "best_season_zh": "春秋",
+   "tips_zh": "若想體驗，可在甲府或河口湖周邊的和服租借店租借，搭配景點散步。",
+   "tags": [
+    "和服",
+    "武田菱",
+    "家紋",
+    "葡萄園"
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Takeda_Shrine"
+   ],
+   "confidence": "low",
+   "prompt_en": "Anonymous model in a dark kimono with a subtle diamond-lattice crest pattern, carrying a small drawstring bag, standing in a Koshu vineyard, soft light"
+  }
+ },
+ "areas": [
+  {
+   "id": "yamanashi_kawaguchiko",
+   "name_zh": "河口湖",
+   "name_ja": "河口湖",
+   "intro_zh": "河口湖是富士五湖中交通最便利、旅遊設施最齊全的一座，湖畔可欣賞富士山、搭遊覽船與纜車，附近的富士吉田則是登山口與吉田烏龍麵的故鄉。春有櫻、夏有薰衣草、秋有紅葉，一年四季都有不同景緻，是東京近郊最受外國旅客歡迎的富士山據點。",
+   "items": {
+    "spot": {
+     "title_zh": "河口湖與富士山",
+     "title_ja": "河口湖",
+     "summary_zh": "湖畔欣賞富士山倒影與湖上遊覽。",
+     "body_zh": "河口湖是富士五湖中面積最大、旅客設施最完備的湖。湖北岸的大石公園、湖畔步道與纜車都是欣賞富士山的好位置，天氣好時可見山影倒映湖面。近年人潮暴增，鎮上曾在2024年5月於熱門拍攝點設置遮擋布幕，以減輕對居民的干擾，造訪時請留意禮儀。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "富士河口湖町"
+      },
+      {
+       "label": "特色",
+       "value": "五湖中旅遊設施最齊全"
+      },
+      {
+       "label": "交通",
+       "value": "新宿高速巴士約2小時"
+      },
+      {
+       "label": "提醒",
+       "value": "熱門拍攝點人潮多"
+      }
+     ],
+     "best_season_zh": "4月、10至11月",
+     "tips_zh": "請遵守當地拍照禮儀，不要闖入私有地或馬路中央。",
+     "tags": [
+      "河口湖",
+      "富士山",
+      "湖畔",
+      "遊覽船"
+     ],
+     "sources": [
+      "https://en.wikipedia.org/wiki/Fujikawaguchiko"
+     ],
+     "confidence": "medium",
+     "prompt_en": "Lake Kawaguchi shoreline with Mount Fuji rising over calm water, pleasure boat and lavender in foreground, summer morning"
+    },
+    "food": {
+     "title_zh": "吉田烏龍麵",
+     "title_ja": "吉田のうどん",
+     "summary_zh": "口感極硬、配高麗菜與馬肉的富士吉田名物。",
+     "body_zh": "吉田烏龍麵是富士吉田市的鄉土麵食，麵條粗而且非常有嚼勁，湯底以醬油與味噌調成，常配高麗菜、炸豆腐與馬肉，並淋上辣味的「擂辣椒」。傳說與當地織物業有關：忙碌的織工需要吃得快又耐餓的食物。市內有數十家小店，多為民宅改建，風格質樸。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "富士吉田市"
+      },
+      {
+       "label": "特色",
+       "value": "硬而有嚼勁的粗麵"
+      },
+      {
+       "label": "常見配料",
+       "value": "高麗菜、炸豆腐、馬肉"
+      },
+      {
+       "label": "調味",
+       "value": "醬油味噌湯底加辣味擂辣椒"
+      }
+     ],
+     "best_season_zh": "全年",
+     "tips_zh": "許多店營業到午後就收攤，建議中午前往。",
+     "tags": [
+      "烏龍麵",
+      "鄉土料理",
+      "富士吉田",
+      "嚼勁"
+     ],
+     "sources": [
+      "https://en.wikipedia.org/wiki/Fujiyoshida"
+     ],
+     "confidence": "low",
+     "prompt_en": "Bowl of thick chewy Yoshida udon noodles topped with cabbage and fried tofu, rustic wooden counter, small shop interior, warm light"
+    },
+    "scenery": {
+     "title_zh": "新倉山淺間公園",
+     "title_ja": "新倉山浅間公園",
+     "summary_zh": "櫻花與五重塔、富士山同框的春景。",
+     "body_zh": "新倉山淺間公園位於富士吉田市，山坡朱紅五重塔旁盛開染井吉野櫻，遠方是雪頂富士山，被環境省選入「富士見百景」。春季花期高峰需排隊上階梯，可考慮清晨前往，空氣清新、光線柔和。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "富士吉田市"
+      },
+      {
+       "label": "階梯",
+       "value": "398級"
+      },
+      {
+       "label": "花期",
+       "value": "4月上旬至中旬"
+      },
+      {
+       "label": "名次",
+       "value": "富士見百景之一"
+      }
+     ],
+     "best_season_zh": "4月上旬至中旬",
+     "tips_zh": "櫻花期間人潮極多，請預留時間並遵守秩序。",
+     "tags": [
+      "櫻花",
+      "五重塔",
+      "富士山",
+      "春天"
+     ],
+     "sources": [
+      "https://en.wikipedia.org/wiki/Arakurayama_Sengen_Park"
+     ],
+     "confidence": "high",
+     "prompt_en": "Pagoda and cherry blossoms framing Mount Fuji, Arakurayama Sengen Park, spring morning mist, stone steps"
+    }
+   }
+  },
+  {
+   "id": "yamanashi_kofu_basin",
+   "name_zh": "甲府盆地",
+   "name_ja": "甲府盆地",
+   "intro_zh": "甲府盆地是山梨縣的政治與農業中心，四面群山環繞，日照長、晝夜溫差大，是葡萄與桃子的主要產區。盆地東部的勝沼一帶是日本葡萄酒的發源地，市區則留有戰國武田氏與甲府城的歷史痕跡，春天桃花盛開時，整片盆地染成粉色。",
+   "items": {
+    "spot": {
+     "title_zh": "甲府城舞鶴城公園",
+     "title_ja": "舞鶴城公園",
+     "summary_zh": "甲府市中心的城跡公園，保留大面積石垣。",
+     "body_zh": "舞鶴城公園是甲府城（又稱舞鶴城）的遺跡，位於甲府車站旁，現存大規模的石垣與復原的城門、櫓。甲府城是安土桃山時代至江戶時代統治甲斐國的重要城池，如今成為市民散步與賞櫻的公園。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "甲府市"
+      },
+      {
+       "label": "特色",
+       "value": "保留石垣與復原城門"
+      },
+      {
+       "label": "交通",
+       "value": "甲府車站步行即達"
+      },
+      {
+       "label": "季節",
+       "value": "春季賞櫻"
+      }
+     ],
+     "best_season_zh": "3月底至4月初櫻花期",
+     "tips_zh": "可與武田神社、信玄公像一併安排半日散步。",
+     "tags": [
+      "甲府城",
+      "石垣",
+      "舞鶴城",
+      "城跡"
+     ],
+     "sources": [
+      "https://en.wikipedia.org/wiki/Takeda_Shrine"
+     ],
+     "confidence": "low",
+     "prompt_en": "Kofu castle stone walls and restored gate with cherry blossoms, spring morning, empty park path"
+    },
+    "food": {
+     "title_zh": "葡萄酒與甲州葡萄",
+     "title_ja": "ワインと甲州ぶどう",
+     "summary_zh": "千年栽培歷史的甲州葡萄與日本葡萄酒。",
+     "body_zh": "甲州葡萄在日本已有超過千年的栽培歷史，1877年高野正誠與土屋龍憲赴法學習釀酒，開啟日本葡萄酒產業。以甲州葡萄釀造的白酒口感清爽、帶柑橘與礦物感，適合搭配壽司與清淡料理。山梨縣是日本最大的葡萄酒產地之一，擁有數十間酒莊。",
+     "facts": [
+      {
+       "label": "品種",
+       "value": "甲州（白）、Muscat Bailey A（紅）"
+      },
+      {
+       "label": "歷史",
+       "value": "1877年起步"
+      },
+      {
+       "label": "產地",
+       "value": "勝沼、甲州市一帶"
+      },
+      {
+       "label": "搭配",
+       "value": "壽司、天婦羅"
+      }
+     ],
+     "best_season_zh": "9至10月",
+     "tips_zh": "購買時可直接向酒莊購買限量款，部分只在現場販售。",
+     "tags": [
+      "葡萄酒",
+      "甲州",
+      "酒莊",
+      "白酒"
+     ],
+     "sources": [
+      "https://en.wikipedia.org/wiki/Japanese_wine"
+     ],
+     "confidence": "medium",
+     "prompt_en": "Glass of pale Koshu white wine beside a bunch of grapes on an oak barrel in a Yamanashi winery, soft window light"
+    },
+    "scenery": {
+     "title_zh": "盆地桃花盛開",
+     "title_ja": "盆地の桃の花",
+     "summary_zh": "春天整個盆地被桃花染成粉色。",
+     "body_zh": "每年4月上旬，甲府盆地一帶桃花盛開，從高處望去，整片盆地被粉色覆蓋，遠處是仍有積雪的南阿爾卑斯山與富士山。山梨縣是日本桃子主要產地，四月是賞花季，六至八月則是採桃季。",
+     "facts": [
+      {
+       "label": "花期",
+       "value": "約4月上旬"
+      },
+      {
+       "label": "地點",
+       "value": "甲府盆地各地果園"
+      },
+      {
+       "label": "特色",
+       "value": "桃花、雪山遠景"
+      },
+      {
+       "label": "果季",
+       "value": "6至8月"
+      }
+     ],
+     "best_season_zh": "4月上旬",
+     "tips_zh": "賞花時請沿步道，不要踏入果園私人區域。",
+     "tags": [
+      "桃花",
+      "果園",
+      "春天",
+      "盆地"
+     ],
+     "sources": [
+      "https://en.wikipedia.org/wiki/Yamanashi_Prefecture"
+     ],
+     "confidence": "medium",
+     "prompt_en": "Pink peach blossom orchards filling the Kofu basin with snow-capped mountains beyond, spring morning, wide landscape"
+    }
+   }
+  },
+  {
+   "id": "yamanashi_hokuto",
+   "name_zh": "北杜",
+   "name_ja": "北杜",
+   "intro_zh": "北杜市位於縣北部，八岳山麓與南阿爾卑斯山之間，高原氣候涼爽，是避暑與乳製品產地。清里高原是知名度假地，附近有牧場、教堂與咖啡廳，也擁有日本代表性的名水與威士忌蒸餾所，適合夏季避暑與秋季賞葉。",
+   "items": {
+    "spot": {
+     "title_zh": "清里高原",
+     "title_ja": "清里高原",
+     "summary_zh": "八岳山麓的高原度假地。",
+     "body_zh": "清里高原位於北杜市，海拔約1,000公尺以上，夏季涼爽，自昭和時代以來就是知名的高原度假地。這裡的牧場、教會與咖啡廳形成歐式度假村風格，夏天是避暑勝地。從這裡可遠眺八岳連峰。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "北杜市高根町"
+      },
+      {
+       "label": "特色",
+       "value": "高原度假、牧場"
+      },
+      {
+       "label": "景觀",
+       "value": "八岳連峰"
+      },
+      {
+       "label": "適合",
+       "value": "避暑、家庭旅遊"
+      }
+     ],
+     "best_season_zh": "6至9月",
+     "tips_zh": "高原早晚涼，夏季也需帶薄外套。",
+     "tags": [
+      "高原",
+      "清里",
+      "避暑",
+      "八岳"
+     ],
+     "sources": [
+      "https://en.wikipedia.org/wiki/Yatsugatake_Mountains"
+     ],
+     "confidence": "low",
+     "prompt_en": "Kiyosato highland meadow with small wooden church and cows grazing, Yatsugatake peaks beyond, summer morning"
+    },
+    "food": {
+     "title_zh": "高原乳製品與冰淇淋",
+     "title_ja": "高原の乳製品",
+     "summary_zh": "高原牧場產牛奶製成的冰淇淋與乳酪。",
+     "body_zh": "北杜一帶有多處高原牧場，產出牛奶、優格、乳酪與冰淇淋，是清里高原的名物之一。涼爽氣候讓乳牛生長環境良好，牧場附近的咖啡廳常提供現擠鮮奶製作的甜點，夏天尤為受歡迎。",
+     "facts": [
+      {
+       "label": "產地",
+       "value": "北杜市高原"
+      },
+      {
+       "label": "產品",
+       "value": "牛奶、乳酪、冰淇淋"
+      },
+      {
+       "label": "特色",
+       "value": "現擠鮮奶甜點"
+      },
+      {
+       "label": "適合",
+       "value": "夏季"
+      }
+     ],
+     "best_season_zh": "6至9月",
+     "tips_zh": "牧場常有採收或擠奶體驗，建議提前預約。",
+     "tags": [
+      "乳製品",
+      "冰淇淋",
+      "牧場",
+      "高原"
+     ],
+     "sources": [
+      "https://en.wikipedia.org/wiki/Yamanashi_Prefecture"
+     ],
+     "confidence": "low",
+     "prompt_en": "Soft-serve ice cream cone beside a bottle of fresh milk at a highland farm cafe, meadow and mountains behind, summer"
+    },
+    "scenery": {
+     "title_zh": "八岳連峰",
+     "title_ja": "八ヶ岳連峰",
+     "summary_zh": "橫跨山梨與長野的火山群山。",
+     "body_zh": "八岳是位於山梨與長野縣界的火山山脈，最高峰赤岳海拔2,899公尺，分為北八岳與南八岳兩部分，南八岳山勢陡峭，北八岳較平緩。山麓的高原與森林四季分明，夏季綠意蔥蘢，秋季楓紅，冬季雪景壯闊。",
+     "facts": [
+      {
+       "label": "最高峰",
+       "value": "赤岳2,899公尺"
+      },
+      {
+       "label": "位置",
+       "value": "山梨與長野縣界"
+      },
+      {
+       "label": "類型",
+       "value": "火山群"
+      },
+      {
+       "label": "特色",
+       "value": "南北風貌差異大"
+      }
+     ],
+     "best_season_zh": "夏至秋",
+     "tips_zh": "登山需裝備與天氣評估，山區天氣多變。",
+     "tags": [
+      "八岳",
+      "火山",
+      "高原",
+      "登山"
+     ],
+     "sources": [
+      "https://en.wikipedia.org/wiki/Yatsugatake_Mountains"
+     ],
+     "confidence": "high",
+     "prompt_en": "Yatsugatake mountain ridge rising over a golden autumn forest plateau, clear morning, wide landscape"
+    }
+   }
+  },
+  {
+   "id": "yamanashi_minobu",
+   "name_zh": "身延",
+   "name_ja": "身延",
+   "intro_zh": "身延町位於縣南部，富士川流域，是日蓮宗總本山久遠寺所在地。日蓮晚年在此隱居，寺院如今每年吸引大量信眾與賞櫻遊客，春天時垂枝櫻盛開，是山梨最具代表性的宗教名勝。",
+   "items": {
+    "spot": {
+     "title_zh": "身延山久遠寺",
+     "title_ja": "身延山久遠寺",
+     "summary_zh": "日蓮宗總本山，287級菩提梯聞名。",
+     "body_zh": "久遠寺由日蓮於1281年創建，是日蓮宗的總本山。日蓮在1274年遷居甲斐國，隨後在此隱居並撰寫大量書簡與教義。寺院最知名的是「菩提梯」，共287級，信眾邊誦經邊攀登；春天的垂枝櫻樹齡約百年，盛開時吸引大批遊客。",
+     "facts": [
+      {
+       "label": "創建",
+       "value": "1281年"
+      },
+      {
+       "label": "宗派",
+       "value": "日蓮宗總本山"
+      },
+      {
+       "label": "階梯",
+       "value": "287級"
+      },
+      {
+       "label": "特色",
+       "value": "垂枝櫻"
+      }
+     ],
+     "best_season_zh": "4月上旬櫻花期",
+     "tips_zh": "階梯較陡，建議穿舒適鞋子，可搭索道上山。",
+     "tags": [
+      "久遠寺",
+      "日蓮宗",
+      "垂枝櫻",
+      "菩提梯"
+     ],
+     "sources": [
+      "https://en.wikipedia.org/wiki/Kuon-ji"
+     ],
+     "confidence": "high",
+     "prompt_en": "Kuonji temple stone staircase with weeping cherry blossoms in full bloom, five-story pagoda beyond, spring morning"
+    },
+    "food": {
+     "title_zh": "身延湯葉料理",
+     "title_ja": "身延の湯葉料理",
+     "summary_zh": "寺院門前常見的豆腐皮料理。",
+     "body_zh": "身延山一帶為寺院門前町，素食與湯葉（豆腐皮）料理是傳統之一，湯葉可做成刺身、湯品與炸物，口感細膩。多家食堂提供精進風格的定食，適合參拜之後品嚐。",
+     "facts": [
+      {
+       "label": "特色",
+       "value": "素食與湯葉"
+      },
+      {
+       "label": "地點",
+       "value": "身延町"
+      },
+      {
+       "label": "風格",
+       "value": "精進料理"
+      },
+      {
+       "label": "適合",
+       "value": "參拜後午餐"
+      }
+     ],
+     "best_season_zh": "全年",
+     "tips_zh": "門前食堂多在傍晚前打烊，午餐時段較合適。",
+     "tags": [
+      "湯葉",
+      "精進料理",
+      "豆腐皮",
+      "門前町"
+     ],
+     "sources": [
+      "https://en.wikipedia.org/wiki/Kuon-ji"
+     ],
+     "confidence": "low",
+     "prompt_en": "Delicate yuba tofu skin dishes served in lacquer bowls on a wooden tray at a temple-front restaurant, soft daylight"
+    },
+    "scenery": {
+     "title_zh": "富士川溪谷",
+     "title_ja": "富士川の渓谷",
+     "summary_zh": "日本三大急流之一的富士川。",
+     "body_zh": "富士川流經身延，水流湍急，是日本三大急流之一，沿岸山谷峭立，四季景色分明。春有櫻、夏有綠意，秋天紅葉點綴，沿著富士川的鐵路與道路是觀賞溪谷景色的好路線。",
+     "facts": [
+      {
+       "label": "河川",
+       "value": "富士川"
+      },
+      {
+       "label": "特色",
+       "value": "日本三大急流之一"
+      },
+      {
+       "label": "景觀",
+       "value": "溪谷峭壁"
+      },
+      {
+       "label": "交通",
+       "value": "JR身延線沿線"
+      }
+     ],
+     "best_season_zh": "4月與11月",
+     "tips_zh": "搭乘身延線可一路欣賞溪谷景色。",
+     "tags": [
+      "富士川",
+      "溪谷",
+      "急流",
+      "紅葉"
+     ],
+     "sources": [
+      "https://en.wikipedia.org/wiki/Yamanashi_Prefecture"
+     ],
+     "confidence": "low",
+     "prompt_en": "Fuji River gorge with steep green hillsides and a rushing river, a railway bridge in the distance, early summer"
+    }
+   }
+  }
+ ]
+}

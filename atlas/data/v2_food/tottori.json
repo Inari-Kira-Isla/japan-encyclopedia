@@ -1,0 +1,149 @@
+{
+ "id": "tottori",
+ "foods": [
+  {
+   "title_zh": "松葉蟹",
+   "title_ja": "松葉ガニ",
+   "category": "海鮮",
+   "summary_zh": "山陰對雄性楚蟹的稱呼，鳥取冬季味覺之王。",
+   "body_zh": "松葉蟹是北近畿與山陰地方對捕獲的雄性楚蟹（ズワイガニ）的稱呼。鳥取縣在漁獲上使用「とっとり松葉ガニ」的標籤，最高級的品牌是「五輝星」。雄蟹的捕撈期為每年11月6日至翌年3月20日。最標準的吃法是鹽水煮，被視為冬季味覺之王，也常做成火鍋、涮涮鍋與生魚片，沿海港口一帶的料理店與旅館在冬季都以此為招牌。",
+   "facts": [
+    {"label": "起源", "value": "山陰地方對雄性楚蟹的稱呼"},
+    {"label": "主要食材", "value": "雄性楚蟹（ズワイガニ）"},
+    {"label": "吃法", "value": "以鹽水煮為標準，也做火鍋、涮涮鍋、生魚片"}
+   ],
+   "season_zh": "11月6日至翌年3月20日（雄蟹捕撈期）",
+   "where_zh": "鳥取縣沿海漁港周邊的海鮮料理店與溫泉旅館",
+   "tags": ["松葉蟹", "冬季", "五輝星", "海鮮"],
+   "sources": ["https://ja.wikipedia.org/wiki/ズワイガニ"],
+   "confidence": "high",
+   "prompt_en": "A single large boiled red snow crab on a shallow ceramic plate with the legs fanned out, a small dish of vinegar on the side, a wedge of citrus, dark wooden table, soft steam, warm winter window light, no text"
+  },
+  {
+   "title_zh": "牛骨拉麵",
+   "title_ja": "鳥取牛骨ラーメン",
+   "category": "麵飯",
+   "summary_zh": "以牛骨熬湯、帶牛脂甘香的鳥取中西部拉麵。",
+   "body_zh": "牛骨拉麵發源於鳥取縣中西部。依鳥取縣觀光連盟的調查，當地報紙《日本海新聞》於1951年3月29日刊出米子市「滿洲味」的中華そば廣告，是最早的紀錄。當時湯頭混合牛骨與豬骨，傳播過程中豬骨逐漸消失。特色是牛脂獨有的甘甜與香氣，搭配中粗捲麵，配料有叉燒、筍乾、豆芽與蔥，不少店家也會放魚板。",
+   "facts": [
+    {"label": "起源", "value": "1951年米子市「滿洲味」的廣告為最早紀錄"},
+    {"label": "主要食材", "value": "牛骨高湯、中粗捲麵、叉燒、筍乾、蔥、魚板"},
+    {"label": "吃法", "value": "有醬油、鹽味、牛骨強棒麵等變化"}
+   ],
+   "season_zh": "全年",
+   "where_zh": "米子、倉吉、境港一帶的拉麵店",
+   "tags": ["拉麵", "牛骨", "米子", "鄉土麵食"],
+   "sources": ["https://ja.wikipedia.org/wiki/牛骨ラーメン"],
+   "confidence": "medium",
+   "prompt_en": "A bowl of beef-bone ramen with clear brown broth, shiny beef fat droplets on the surface, medium-thick wavy noodles, sliced chashu, bamboo shoots, bean sprouts, scallions and a slice of kamaboko, plain ceramic bowl on a wooden counter, warm steam, soft light, no text"
+  },
+  {
+   "title_zh": "二十世紀梨",
+   "title_ja": "二十世紀梨",
+   "category": "特產食材",
+   "summary_zh": "黃綠果皮、多汁清爽的青梨，鳥取代表水果。",
+   "body_zh": "二十世紀梨是1888年由當時13歲的松戶覺之助在千葉縣松戶市發現的青梨品種。1904年由北脇永治引進鳥取縣，後來成為縣內的特產，鳥取縣產的產量占全國約53%。果皮黃綠色，甜味與酸味平衡，果汁豐富、口感清爽。缺點是收穫較晚，無法趕上夏末初秋最需要多汁水果的時期。一般直接削皮生吃，在秋季上市。",
+   "facts": [
+    {"label": "起源", "value": "1888年千葉縣松戶發現，1904年引進鳥取"},
+    {"label": "主要食材", "value": "青梨系品種，果皮黃綠、多汁"},
+    {"label": "吃法", "value": "削皮生吃"}
+   ],
+   "season_zh": "秋季（收穫期較晚）",
+   "where_zh": "鳥取縣內各梨園與產地直銷處",
+   "tags": ["梨", "水果", "特產", "秋季"],
+   "sources": ["https://ja.wikipedia.org/wiki/ナシ", "https://ja.wikipedia.org/wiki/鳥取県"],
+   "confidence": "high",
+   "prompt_en": "One whole yellow-green Japanese pear next to a halved pear with juicy white flesh, on a small ceramic plate, a few green leaves, pale wooden table, bright natural morning light, no text"
+  },
+  {
+   "title_zh": "豆腐竹輪",
+   "title_ja": "とうふちくわ",
+   "category": "鄉土料理",
+   "summary_zh": "木棉豆腐混魚漿蒸成的鳥取東部鄉土食品。",
+   "body_zh": "豆腐竹輪是把木棉豆腐與魚肉漿混合後蒸製而成的食品，流行於鳥取縣東部。相傳1648年成為鳥取藩主的池田光仲，勸人以豆腐代替魚；當時藩內漁港整備落後，魚很珍貴，大豆卻產量豐富，城下町又有許多豆腐店。現在被視為低熱量、高蛋白的健康食品，有咖哩、檸檬等口味，也曾連續參加B-1大獎賽。",
+   "facts": [
+    {"label": "起源", "value": "傳說與1648年藩主池田光仲勸食豆腐有關"},
+    {"label": "主要食材", "value": "木棉豆腐、魚肉漿"},
+    {"label": "吃法", "value": "直接切片吃，有咖哩、檸檬等口味"}
+   ],
+   "season_zh": "全年",
+   "where_zh": "鳥取市一帶東部的魚板店與超市",
+   "tags": ["豆腐", "竹輪", "鄉土料理", "鳥取東部"],
+   "sources": ["https://ja.wikipedia.org/wiki/とうふちくわ"],
+   "confidence": "medium",
+   "prompt_en": "A cut tofu chikuwa fish-paste tube with the hollow center visible, a few thick slices fanned beside it, pale golden surface with light grill marks, simple stoneware plate, a little grated ginger and soy sauce dish, wooden table, soft daylight, no text"
+  },
+  {
+   "title_zh": "砂丘蕗蕎",
+   "title_ja": "砂丘らっきょう",
+   "category": "特產食材",
+   "summary_zh": "鳥取砂丘一帶栽培、獲地理標示登記的蕗蕎。",
+   "body_zh": "蕗蕎（らっきょう）是鳥取縣的代表農產品之一，尤其以鳥取砂丘一帶的栽培聞名，「砂丘らっきょう」已登記為地理標示產品。蕗蕎的產季約在初夏到夏季（6至8月），品質好的呈白色、芽尚未伸長。蕗蕎的花更是鳥取市的市花。一般做成醋漬或甜漬，脆口酸甜，常配咖哩與酒食。細節的栽培歷史，本文未能核實。",
+   "facts": [
+    {"label": "起源", "value": "砂丘地帶栽培，細節歷史未核實"},
+    {"label": "主要食材", "value": "蕗蕎鱗莖"},
+    {"label": "吃法", "value": "醋漬、甜漬，配咖哩或下酒"}
+   ],
+   "season_zh": "初夏至夏季（約6至8月）",
+   "where_zh": "鳥取砂丘周邊農地與土產店",
+   "tags": ["蕗蕎", "砂丘", "地理標示", "漬物"],
+   "sources": ["https://ja.wikipedia.org/wiki/ラッキョウ", "https://ja.wikipedia.org/wiki/鳥取県"],
+   "confidence": "medium",
+   "prompt_en": "A small white ceramic dish of pickled rakkyo bulbs, glossy white and crisp, a few sprigs of green stem beside, bare wooden table, soft natural light, no text"
+  },
+  {
+   "title_zh": "白烏賊",
+   "title_ja": "白イカ（ケンサキイカ）",
+   "category": "海鮮",
+   "summary_zh": "山陰常見的透明鮮甜烏賊，常做成生魚片。",
+   "body_zh": "白イカ是劍先烏賊（ケンサキイカ）在山陰一帶常用的叫法，鳥取縣的農林水產介紹中也列入白イカ。劍先烏賊另有アカイカ、シロイカ、マルイカ等地方名，主要在日本海至東海捕獲，常做成活造生魚片、天婦羅或乾製品。鳥取當地的旬期與專屬料理，本文未能核實，建議出發前向店家確認當季供應。",
+   "facts": [
+    {"label": "起源", "value": "劍先烏賊的山陰地方叫法"},
+    {"label": "主要食材", "value": "劍先烏賊"},
+    {"label": "吃法", "value": "活造生魚片、天婦羅、乾製"}
+   ],
+   "season_zh": "未核實，依店家當季供應",
+   "where_zh": "鳥取縣沿海漁港的海鮮店",
+   "tags": ["烏賊", "生魚片", "山陰", "海鮮"],
+   "sources": ["https://ja.wikipedia.org/wiki/ケンサキイカ", "https://ja.wikipedia.org/wiki/鳥取県"],
+   "confidence": "low",
+   "prompt_en": "Translucent white squid sashimi cut into thin strips arranged on a dark slate plate, a shiso leaf, a little grated ginger, a small dish of soy sauce, wooden counter, cool soft light, no text"
+  },
+  {
+   "title_zh": "鳥取咖哩",
+   "title_ja": "鳥取カレー",
+   "category": "B級美食",
+   "summary_zh": "鳥取縣內被列為食文化的在地咖哩。",
+   "body_zh": "鳥取縣的飲食文化介紹中，除了牛骨拉麵與豆腐竹輪，也把咖哩與砂場咖啡（すなば珈琲）一併列出。關於鳥取咖哩的起源、規格與代表店家，本次只確認到它被列入縣內食文化，具體由來尚未核實，因此這裡不做細節斷言。建議當地觀光客以店家說明為準，從砂丘周邊的餐廳或咖啡店當作入門。",
+   "facts": [
+    {"label": "起源", "value": "未核實"},
+    {"label": "主要食材", "value": "未核實，一般為咖哩醬與米飯"},
+    {"label": "吃法", "value": "配白飯享用"}
+   ],
+   "season_zh": "全年",
+   "where_zh": "鳥取市、砂丘周邊的餐廳",
+   "tags": ["咖哩", "B級美食", "鳥取"],
+   "sources": ["https://ja.wikipedia.org/wiki/鳥取県"],
+   "confidence": "low",
+   "prompt_en": "A single plate of Japanese curry rice, white rice on one side and brown curry sauce on the other with a small spoon, simple white plate, a pickled vegetable on the rim, wooden table, warm light, no text"
+  },
+  {
+   "title_zh": "鳥取和牛",
+   "title_ja": "鳥取和牛",
+   "category": "肉類",
+   "summary_zh": "鳥取縣產的和牛品牌，油脂風味受好評。",
+   "body_zh": "鳥取和牛是鳥取縣生產的和牛。不過這一次打開的百科與官方頁面，沒有找到鳥取和牛的歷史、飼養條件、品牌標示與認定標準，因此其來歷與細節都未能核實，也不在此用記憶補寫。僅能確認鳥取縣有畜產業，本條屬保守收錄，建議出發前向縣內燒肉店或肉鋪確認當季是否供應鳥取產和牛，以及實際的品牌名稱。",
+   "facts": [
+    {"label": "起源", "value": "未核實"},
+    {"label": "主要食材", "value": "和牛肉"},
+    {"label": "吃法", "value": "燒肉、壽喜燒（未核實）"}
+   ],
+   "season_zh": "全年",
+   "where_zh": "鳥取縣內燒肉店與肉鋪",
+   "tags": ["和牛", "肉類", "鳥取"],
+   "sources": ["https://ja.wikipedia.org/wiki/鳥取県"],
+   "confidence": "low",
+   "prompt_en": "Three slices of well-marbled raw wagyu beef on a dark ceramic plate beside a small tabletop charcoal grill, a pinch of salt, a lemon wedge, wooden table, warm dim lighting, no text"
+  }
+ ]
+}

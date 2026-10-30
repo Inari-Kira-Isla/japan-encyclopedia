@@ -1,0 +1,807 @@
+{
+ "id": "shizuoka",
+ "name_zh": "靜岡縣",
+ "name_ja": "静岡県",
+ "region": "中部",
+ "overview": {
+  "intro_zh": "靜岡縣位於本州太平洋沿岸，東西綿長約155公里，由伊豆、駿河、遠江三個舊國合成，約六成以上土地為森林。縣內坐擁富士山，沿海有駿河灣與濱名湖，山麓與台地遍布茶園，是日本代表性的茶產地。東海道新幹線與東名高速貫穿全縣，德川家康一生與此地淵源深厚，如今既是汽機車與樂器製造重鎮，也有熱海、伊豆等溫泉度假地。",
+  "capital_zh": "靜岡市",
+  "area_km2": 7777,
+  "population_approx": "約344萬人",
+  "flower_zh": "杜鵑花",
+  "bird_zh": "三光鳥",
+  "tree_zh": "桂花（木犀）",
+  "climate_zh": "太平洋側氣候，冬暖少雪，夏季濕熱；山區較涼。",
+  "access_zh": "東海道新幹線停靠熱海、靜岡、濱松等站，另有富士山靜岡機場。",
+  "specialties_zh": [
+   "靜岡茶",
+   "山葵",
+   "櫻花蝦",
+   "濱松餃子與鰻魚",
+   "富士宮炒麵"
+  ],
+  "best_season_zh": "春季（新茶、櫻花）與冬季晴天（富士山最清晰）"
+ },
+ "items": {
+  "architecture": {
+   "title_zh": "久能山東照宮",
+   "title_ja": "久能山東照宮",
+   "summary_zh": "德川家康最初安葬之地，社殿為國寶。",
+   "body_zh": "久能山東照宮位於靜岡市駿河區，座落海拔約216公尺的久能山上。1616年德川家康去世後，遵其遺命先葬於此，翌年（1617年）由二代將軍秀忠主持建成社殿。本殿、石之間與拜殿採權現造，漆色與金飾華麗，2010年被指定為國寶。登山可走約1,159級石階，也可從日本平搭纜車前往，境內另藏有家康使用過的西班牙製時鐘等寶物，是欣賞江戶初期工藝的好地方。社殿雖不如日光東照宮聞名，卻是東照宮系統中最早的一座，具有重要的歷史價值。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "靜岡市駿河區根古屋"
+    },
+    {
+     "label": "創建",
+     "value": "1617年（元和3年）"
+    },
+    {
+     "label": "祭神",
+     "value": "德川家康（東照大權現）"
+    },
+    {
+     "label": "國寶指定",
+     "value": "本殿、石之間、拜殿，2010年"
+    },
+    {
+     "label": "到達方式",
+     "value": "日本平纜車或約1,159級石階"
+    }
+   ],
+   "best_season_zh": "全年；新綠與秋天空氣清晰時最佳",
+   "tips_zh": "建議從日本平搭纜車上山，再慢慢逛社殿與博物館；想挑戰石階者請穿舒適好走的鞋子，預留約兩小時。",
+   "tags": [
+    "國寶",
+    "德川家康",
+    "權現造",
+    "海景"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/久能山東照宮"
+   ],
+   "confidence": "high",
+   "prompt_en": "Kunozan Toshogu Shrine, richly colored gold, vermilion and black lacquer carved shrine buildings on a mountain above Suruga Bay, clear sky, wide angle"
+  },
+  "food": {
+   "title_zh": "鰻魚飯與靜岡茶",
+   "title_ja": "うなぎと静岡茶",
+   "summary_zh": "濱名湖鰻魚搭配全國聞名的靜岡綠茶。",
+   "body_zh": "靜岡縣西部的濱名湖自明治年代起發展鰻魚養殖，是濱松名物鰻魚飯的產地背景。靜岡茶則以牧之原台地與川根等地為主產區，傳說鎌倉時代聖一國師圓爾自宋朝帶回茶種，栽種於足久保（今靜岡市內）。2020年靜岡的荒茶產量約2.52萬噸，約佔全國36%，近年與鹿兒島的差距逐漸縮小，產值更在2019年首次被鹿兒島超越。一口鰻魚飯配上一杯熱茶，是縣內經典的吃法。若想深入了解，可到濱名湖畔的鰻魚店與牧之原茶園各走一趟，感受縣內山海兩種風土。",
+   "facts": [
+    {
+     "label": "鰻魚產地",
+     "value": "濱名湖一帶（濱松市）"
+    },
+    {
+     "label": "茶主產區",
+     "value": "牧之原台地、川根等地"
+    },
+    {
+     "label": "茶產量",
+     "value": "2020年約2.52萬噸，佔全國約36%"
+    },
+    {
+     "label": "相傳茶種來歷",
+     "value": "鎌倉時代圓爾自宋帶回"
+    }
+   ],
+   "best_season_zh": "新茶約4月底至5月；鰻魚全年皆可",
+   "tips_zh": "到濱松吃鰻魚飯建議避開週末中午高峰並先訂位；買新茶可挑深蒸茶，也可嘗試冷泡法，風味更清爽。",
+   "tags": [
+    "鰻魚",
+    "綠茶",
+    "濱名湖",
+    "名物"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/静岡茶",
+    "https://ja.wikipedia.org/wiki/浜名湖"
+   ],
+   "confidence": "medium",
+   "prompt_en": "Grilled eel on rice in a lacquer box next to a cup of green tea, tabletop, warm light"
+  },
+  "culture": {
+   "title_zh": "濱松祭風箏",
+   "title_ja": "浜松まつり",
+   "summary_zh": "每年五月連假在中田島砂丘比拚大風箏。",
+   "body_zh": "濱松祭於每年黃金週的5月3日至5日舉行，源自為長男出生祝賀而放風箏的習俗，相傳有數百年歷史，近代的競技形式約在1884年前後成形。白天在中田島砂丘，各町組放出繪有町徽的大風箏，互相以風箏線纏繞切斷較量；夜晚則有華麗的御殿屋台在市區巡遊，並伴有喇叭信號的繞行。「濱松祭」之名定於1950年，近年參加町數超過170個，三日內約有兩百萬人次到訪。祭典期間街頭彌漫熱鬧氣氛，是認識濱松町內自治與傳統的最佳機會。",
+   "facts": [
+    {
+     "label": "日期",
+     "value": "每年5月3日至5日"
+    },
+    {
+     "label": "會場",
+     "value": "中田島砂丘與市區"
+    },
+    {
+     "label": "特色",
+     "value": "風箏比拚、屋台巡遊"
+    },
+    {
+     "label": "名稱確立",
+     "value": "1950年"
+    },
+    {
+     "label": "參加人次",
+     "value": "約200萬（三日）"
+    }
+   ],
+   "best_season_zh": "5月3日至5日",
+   "tips_zh": "風箏比拚在沙丘舉行，風大沙多，建議帶太陽眼鏡與防沙外套；夜間屋台巡遊人潮擁擠，需提早佔位並留意安全。",
+   "tags": [
+    "祭典",
+    "風箏",
+    "黃金週",
+    "濱松"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/浜松まつり"
+   ],
+   "confidence": "high",
+   "prompt_en": "Giant colorful kites flying over Nakatajima sand dunes in Hamamatsu with festival crowds below, bright blue sky"
+  },
+  "history": {
+   "title_zh": "登呂遺跡",
+   "title_ja": "登呂遺跡",
+   "summary_zh": "彌生時代稻作聚落，日本稻作研究的代表。",
+   "body_zh": "登呂遺跡位於靜岡市駿河區，是彌生時代後期（約1世紀）的聚落與水田遺跡，1943年因軍需工廠建設而被偶然發現。發掘出約8萬平方公尺的水田遺構，以及水井、半地穴式住居與高床倉庫的痕跡，是研究日本古代稻作的重要依據，1952年被指定為特別史蹟。今日遺址成為登呂公園，園內復原了住居與倉庫，並設有靜岡市立登呂博物館，可近距離了解兩千年前的農耕生活。遺址旁的博物館也展出出土木製農具，有助想像古代農耕景象。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "靜岡市駿河區登呂"
+    },
+    {
+     "label": "時代",
+     "value": "彌生時代（約1世紀）"
+    },
+    {
+     "label": "發現",
+     "value": "1943年"
+    },
+    {
+     "label": "史蹟指定",
+     "value": "特別史蹟，1952年"
+    },
+    {
+     "label": "設施",
+     "value": "登呂博物館、復原住居"
+    }
+   ],
+   "best_season_zh": "春秋兩季；新綠及稻穗季節",
+   "tips_zh": "從靜岡站搭巴士約10分鐘可到；園區平坦好走，適合親子同遊，建議搭配博物館展示與導覽一起參觀。",
+   "tags": [
+    "彌生時代",
+    "特別史蹟",
+    "稻作",
+    "考古"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/登呂遺跡"
+   ],
+   "confidence": "high",
+   "prompt_en": "Toro archaeological site reconstructed Yayoi period thatched semi-subterranean houses and a raised-floor storehouse beside rice paddies, soft evening light"
+  },
+  "mascot": {
+   "title_zh": "茶葉與富士山的角色",
+   "title_ja": "お茶と富士のキャラ",
+   "summary_zh": "以茶葉與富士山為靈感的原創吉祥物。",
+   "body_zh": "靜岡縣以茶與富士山聞名，縣內各市町也推出不少吉祥物，例如登呂博物館的「Torobei」，就是以半地穴住居為造型的角色，名字取自「登呂」與「米」。本頁另以靜岡的象徵為靈感，設計一個原創角色：身形像一片嫩茶葉，手捧小茶杯，背後是白雪覆頂的富士山。圖像不複製任何現有商標吉祥物，只想表達靜岡與茶、富士山之間的連結，並保持柔和可愛的粉彩風格。若在當地看到官方角色，其造型多與茶、富士山或鰻魚相關，十分好辨認。",
+   "facts": [
+    {
+     "label": "靈感來源",
+     "value": "茶葉、富士山"
+    },
+    {
+     "label": "縣內例子",
+     "value": "登呂博物館的Torobei"
+    },
+    {
+     "label": "本頁性質",
+     "value": "原創設計，非官方角色"
+    }
+   ],
+   "best_season_zh": "全年",
+   "tips_zh": "想看當地吉祥物，可留意登呂博物館或各市觀光案內所的周邊商品與活動資訊，行前先查官方網站較準確。",
+   "tags": [
+    "吉祥物",
+    "茶",
+    "富士山",
+    "原創"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/登呂遺跡"
+   ],
+   "confidence": "medium",
+   "prompt_en": "A cute original tea-leaf shaped character holding a small teacup with a snowcapped mountain behind, pastel illustration. Original cute character inspired by local symbols, not replicating any existing trademarked mascot."
+  },
+  "scenery": {
+   "title_zh": "三保松原與富士山",
+   "title_ja": "三保松原",
+   "summary_zh": "松林海岸遠眺富士山，世界遺產構成資產。",
+   "body_zh": "三保松原位於靜岡市清水區的三保半島，是長長的黑色砂礫海灘與松林海岸，從這裡越過駿河灣可眺望富士山。2013年作為「富士山——信仰的對象與藝術的源泉」構成資產之一登錄世界文化遺產，也名列日本新三景。這裡流傳天女把羽衣掛在松樹上的傳說，傳說中的松樹已傳到第三代。松林曾因海岸侵蝕與蟲害大量減少，至2014年約剩3萬株，目前仍持續進行保護。春秋兩季常有攝影愛好者在此等待富士山與朝陽同框的一刻。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "靜岡市清水區三保"
+    },
+    {
+     "label": "世界遺產",
+     "value": "2013年登錄"
+    },
+    {
+     "label": "傳說",
+     "value": "天女羽衣傳說"
+    },
+    {
+     "label": "別稱",
+     "value": "日本新三景之一"
+    }
+   ],
+   "best_season_zh": "冬季清晨空氣最清晰，富士山最易出現",
+   "tips_zh": "富士山多在冬季清晨最清楚；可沿松林步道走到羽衣之松，海灘石礫多，請穿好走又防滑的鞋子。",
+   "tags": [
+    "世界遺產",
+    "松林",
+    "富士山",
+    "海岸"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/三保松原"
+   ],
+   "confidence": "high",
+   "prompt_en": "Miho no Matsubara pine-lined black sand beach with Mount Fuji across Suruga Bay, misty morning"
+  },
+  "spot": {
+   "title_zh": "白絲瀑布",
+   "title_ja": "白糸の滝",
+   "summary_zh": "富士山湧水形成的幕狀瀑布。",
+   "body_zh": "白絲瀑布位於富士宮市，是富士山融雪滲入火山岩層後湧出而成的瀑布，高約20公尺、寬約200公尺，水從岩壁各處如白絲般流下，因而得名。它與近旁的音止瀑布同屬富士山世界文化遺產的構成資產，並被指定為國家名勝及天然紀念物。因水源為湧泉，水量全年穩定，不同季節各有景色，周邊步道整備良好，是富士山麓最受歡迎的自然景點之一。瀑布前方設有觀瀑台，可近距離欣賞水霧中的彩虹，夏天特別清涼。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "富士宮市上井出"
+    },
+    {
+     "label": "規模",
+     "value": "高約20公尺、寬約200公尺"
+    },
+    {
+     "label": "水源",
+     "value": "富士山湧水"
+    },
+    {
+     "label": "指定",
+     "value": "國家名勝、天然紀念物；世界遺產構成資產"
+    }
+   ],
+   "best_season_zh": "全年；新綠與紅葉時尤佳",
+   "tips_zh": "步道不長，搭配音止瀑布一起走約1小時；水霧頗大，建議帶薄外套，相機也要注意防水。",
+   "tags": [
+    "瀑布",
+    "世界遺產",
+    "湧水",
+    "名勝"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/白糸の滝"
+   ],
+   "confidence": "high",
+   "prompt_en": "Shiraito Falls curtain waterfall of countless thin streams pouring from mossy cliffs into a green pool, long exposure"
+  },
+  "experience": {
+   "title_zh": "採茶體驗",
+   "title_ja": "茶摘み体験",
+   "summary_zh": "春季茶園採茶與手工茶體驗。",
+   "body_zh": "靜岡縣內許多茶園與觀光設施提供採茶或手揉茶體驗，一般在新茶季節的4月下旬至5月間舉行，遊客可跟著茶農學習摘取新芽，再體驗炒茶、揉茶的手工流程。牧之原台地的茶園綿延不絕，天氣好時背景還能望見富士山。部分茶農直營店也開放品茶與茶點，是了解靜岡茶文化的入門方式。實際日期、費用與是否開放，請事先向各設施確認。報名時也可順便詢問是否包含茶點與伴手禮，行程多半約一至兩小時。",
+   "facts": [
+    {
+     "label": "季節",
+     "value": "新茶期（約4月底至5月）"
+    },
+    {
+     "label": "地點",
+     "value": "牧之原、川根、富士等茶產區"
+    },
+    {
+     "label": "內容",
+     "value": "採茶、手揉茶、品茶"
+    },
+    {
+     "label": "費用",
+     "value": "依設施而異，請預約確認"
+    }
+   ],
+   "best_season_zh": "4月底至5月（新茶季）",
+   "tips_zh": "體驗多需預約；請穿方便活動的服裝並戴帽子，茶園日照強烈，也記得補充水分與防曬。另外記得攜帶毛巾或手帕。",
+   "tags": [
+    "採茶",
+    "茶園",
+    "體驗",
+    "新茶"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/静岡茶"
+   ],
+   "confidence": "low",
+   "prompt_en": "Tea picking in rolling green tea fields with Mount Fuji beyond, spring morning, hands holding fresh tea leaves"
+  },
+  "costume": {
+   "title_zh": "茶農服飾",
+   "title_ja": "茶摘み姿",
+   "summary_zh": "茶農的頭巾與手甲，傳統採茶裝束。",
+   "body_zh": "傳統採茶裝束以頭巾、手甲（護手背）、腳絆與圍裙為主，目的是兼顧防曬、防露水與行動方便。各茶產地的茶摘女，至今仍會在觀光活動與茶祭中以此造型登場。這套打扮的色彩常與綠色茶園形成鮮明對比，也是靜岡茶文化中常見的影像之一。實際的色彩與樣式依地區與年代略有差異，本頁僅作概略介紹，並以無名模特兒呈現，不指涉特定人物。本頁以服裝文化為主題，並不涉及特定人物或品牌，僅供認識傳統風貌。",
+   "facts": [
+    {
+     "label": "頭部",
+     "value": "頭巾（手拭巾）"
+    },
+    {
+     "label": "手部",
+     "value": "手甲（護手背）"
+    },
+    {
+     "label": "下身",
+     "value": "腳絆、圍裙"
+    },
+    {
+     "label": "用途",
+     "value": "防曬、防露水、方便作業"
+    }
+   ],
+   "best_season_zh": "春季採茶季",
+   "tips_zh": "到茶園或茶祭遇到採茶裝扮的活動時，若想拍攝當地人，請先徵得對方同意，並不要踏入私人茶畦。",
+   "tags": [
+    "茶摘み",
+    "傳統服飾",
+    "茶農",
+    "春季"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/静岡茶"
+   ],
+   "confidence": "low",
+   "prompt_en": "Anonymous model in traditional tea picker outfit with head cloth, arm covers and apron standing in a green tea field, soft sunlight"
+  }
+ },
+ "areas": [
+  {
+   "id": "shizuoka_fuji_area",
+   "name_zh": "富士山麓",
+   "name_ja": "富士山麓",
+   "intro_zh": "富士山麓位於縣東北部，涵蓋富士宮與富士市一帶。這裡有富士山湧水形成的瀑布、廣闊的茶園，也是富士山信仰的重要據點。富士宮炒麵是當地代表庶民美食，晴天時茶園與富士山構成經典構圖。",
+   "items": {
+    "spot": {
+     "title_zh": "白絲瀑布與音止瀑布",
+     "title_ja": "白糸の滝",
+     "summary_zh": "富士山湧水形成的瀑布群。",
+     "body_zh": "白絲瀑布與音止瀑布位於富士宮市，皆由富士山融雪滲出的泉水形成。白絲瀑布寬約200公尺，水如白絲般從岩壁流下，姿態柔美；音止瀑布則以奔流直落的氣勢著稱，據說水聲大到連曾我兄弟的談話都被蓋住。兩處皆為富士山世界遺產構成資產，步道相連，是富士山麓最受歡迎的自然景點，一年四季都有不同風貌。瀑布一帶也有販賣溫泉饅頭與冰品的小店，走累了可順便休息，是安排富士宮一日遊時不可錯過的行程。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "富士宮市上井出"
+      },
+      {
+       "label": "白絲瀑布",
+       "value": "高約20公尺、寬約200公尺"
+      },
+      {
+       "label": "指定",
+       "value": "世界遺產構成資產"
+      }
+     ],
+     "best_season_zh": "全年",
+     "tips_zh": "兩處步行串連約10分鐘，可一次逛完；夏季水氣涼爽，適合避暑，但步道濕滑要穿防滑鞋。",
+     "tags": [
+      "瀑布",
+      "湧水",
+      "富士山",
+      "世界遺產"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/白糸の滝"
+     ],
+     "confidence": "medium",
+     "prompt_en": "Shiraito Falls with fine water curtains from Mount Fuji spring water in green forest"
+    },
+    "food": {
+     "title_zh": "富士宮炒麵",
+     "title_ja": "富士宮やきそば",
+     "summary_zh": "硬質蒸麵配肉渣與魚粉。",
+     "body_zh": "富士宮炒麵是以B級美食聞名的炒麵，特色是使用有嚼勁的蒸麵，配料用「肉かす」（豬油渣）而非天婦羅渣，最後撒上柴魚或沙丁魚粉。它由戰後當地麵廠研發的蒸麵發展而來，後來有店家改用肉渣而成定型。2000年起以品牌方式推廣，並在2006、2007年連續贏得B-1大賽冠軍，成為以美食振興地方的代表案例。點餐時可選擇加蛋、加青蔥，或以「肉渣多一點」的方式客製化口味，是當地人日常的庶民滋味。",
+     "facts": [
+      {
+       "label": "特色",
+       "value": "嚼勁蒸麵、肉渣、魚粉"
+      },
+      {
+       "label": "品牌化",
+       "value": "2000年起推廣"
+      },
+      {
+       "label": "B-1大賽",
+       "value": "2006、2007年冠軍"
+      }
+     ],
+     "best_season_zh": "全年",
+     "tips_zh": "可在富士宮車站周邊比較不同店家的風味，加蛋或加青海苔都很常見；一份份量不小，結伴點不同口味更好。",
+     "tags": [
+      "B級美食",
+      "炒麵",
+      "富士宮",
+      "名物"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/富士宮やきそば"
+     ],
+     "confidence": "high",
+     "prompt_en": "Fujinomiya yakisoba noodles on a hot iron griddle with fish powder topping, steam, close-up"
+    },
+    "scenery": {
+     "title_zh": "富士山與茶田",
+     "title_ja": "富士山と茶畑",
+     "summary_zh": "富士山下一望無際的茶園。",
+     "body_zh": "富士山腳的茶園是靜岡最具代表性的風景之一，茶樹整齊排成圓弧狀的畦壟，在晴天時與山頂積雪形成鮮明對比。牧之原台地、富士市周邊都有這類景觀，春季新芽鮮綠，冬季則常見防霜設備與晨霧。茶園多為私有農地，拍照時請從公共道路與展望處進行，避免進入茶畦或影響農作，也請保持安靜、愛護環境。每年新茶採收前後，田間設有防霜風扇，是少見卻很有靜岡特色的景象，是最受攝影愛好者歡迎的角度。",
+     "facts": [
+      {
+       "label": "景觀特色",
+       "value": "茶畦與富士山並列"
+      },
+      {
+       "label": "代表產地",
+       "value": "牧之原台地、富士山麓"
+      },
+      {
+       "label": "觀賞重點",
+       "value": "新綠、雪頂富士"
+      }
+     ],
+     "best_season_zh": "春季新芽與冬季晴天",
+     "tips_zh": "茶園為私有農地，請在公共道路或展望處觀賞；富士山早晨較清晰，建議一早出發，午後常被雲遮住。",
+     "tags": [
+      "茶園",
+      "富士山",
+      "風景",
+      "攝影"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/静岡茶"
+     ],
+     "confidence": "medium",
+     "prompt_en": "Mount Fuji rising behind rows of green tea fields, clear blue sky"
+    }
+   }
+  },
+  {
+   "id": "shizuoka_izu",
+   "name_zh": "伊豆",
+   "name_ja": "伊豆",
+   "intro_zh": "伊豆半島位於縣東部，溫泉、海岸與火山地貌並存，屬富士箱根伊豆國立公園。修善寺、熱海、城崎海岸都是人氣旅遊地，並以金目鯛與山葵聞名，是東京近郊的度假勝地。半島的海景與夕陽也十分迷人。",
+   "items": {
+    "spot": {
+     "title_zh": "修善寺",
+     "title_ja": "修善寺",
+     "summary_zh": "溫泉鄉中心的古寺與竹林小徑。",
+     "body_zh": "修善寺是伊豆市修善寺溫泉街的中心，溫泉街沿桂川而建，可以走竹林小徑，也有獨鈷之湯等景點。相傳修禪寺由空海於平安時代初期創建，是溫泉鄉的起點；鎌倉時代源賴家曾被幽禁並死於此地，留下「修禪寺之變」的歷史故事。秋天紅葉尤其美麗，從三島搭伊豆箱根鐵道駿豆線即可到達終點的修善寺站，再轉巴士入鎮。溫泉街的商店也販售竹細工與溫泉饅頭，可順手帶些伴手禮回家，最適合悠閒慢遊的半日行程。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "伊豆市修善寺"
+      },
+      {
+       "label": "交通",
+       "value": "伊豆箱根鐵道駿豆線修善寺站"
+      },
+      {
+       "label": "名勝",
+       "value": "竹林小徑、獨鈷之湯"
+      }
+     ],
+     "best_season_zh": "秋季紅葉；春季新綠",
+     "tips_zh": "溫泉街小而好逛，可穿浴衣在街上漫步，附近的足湯也很適合休息；紅葉季人多，建議早點到。",
+     "tags": [
+      "溫泉",
+      "古寺",
+      "竹林",
+      "伊豆"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/修善寺温泉"
+     ],
+     "confidence": "low",
+     "prompt_en": "Shuzenji bamboo path along the Katsura River in Izu, soft green light"
+    },
+    "food": {
+     "title_zh": "伊豆金目鯛與山葵",
+     "title_ja": "伊豆の金目鯛とわさび",
+     "summary_zh": "烹煮金目鯛與新鮮山葵。",
+     "body_zh": "伊豆半島東海岸的稻取、下田一帶以金目鯛聞名，常見的吃法是用醬油與糖燉煮，魚皮帶膠質、肉質肥嫩。山葵則以天城山一帶的清流栽培聞名，吃時可現磨成泥，配飯、刺身或蕎麥麵，辛香而帶甜。兩者都能在伊豆各地的定食屋與溫泉旅館吃到，是當地典型的海山滋味，也常成為伴手禮與加工品的主題。此外伊豆各地的定食店常把金目鯛做成味噌湯或茶泡飯，風味同樣出色，餐廳通常以套餐方式供應，份量充足。",
+     "facts": [
+      {
+       "label": "名物",
+       "value": "煮金目鯛、現磨山葵"
+      },
+      {
+       "label": "產地",
+       "value": "稻取、下田；天城山一帶"
+      },
+      {
+       "label": "吃法",
+       "value": "燉煮、刺身、山葵飯"
+      }
+     ],
+     "best_season_zh": "金目鯛冬季較肥美",
+     "tips_zh": "在溫泉旅館晚餐或漁港食堂都可吃到；山葵現磨才香，建議用鯊魚皮磨板轉圈慢慢磨成泥再食用。",
+     "tags": [
+      "金目鯛",
+      "山葵",
+      "海鮮",
+      "伊豆"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/静岡県"
+     ],
+     "confidence": "low",
+     "prompt_en": "Simmered golden eye snapper in soy broth with fresh grated wasabi on a plate"
+    },
+    "scenery": {
+     "title_zh": "城崎海岸",
+     "title_ja": "城ヶ崎海岸",
+     "summary_zh": "火山熔岩形成的斷崖與吊橋。",
+     "body_zh": "城崎海岸位於伊東市，是約4,000年前以大室山為主的伊豆東部火山群噴發，熔岩流入海中所形成的海岸，使海岸線向外延伸近2公里，留下錯落的岬角與海蝕崖。最著名的是門脇吊橋，全長48公尺、離海面23公尺，1968年建造、1997年重建。兩條步道串聯共約9公里，屬富士箱根伊豆國立公園，海邊危險，請務必遵守安全告示。沿線步道還有數處觀景點與燈塔，可從不同角度欣賞太平洋海景。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "伊東市"
+      },
+      {
+       "label": "成因",
+       "value": "約4,000年前大室山熔岩"
+      },
+      {
+       "label": "門脇吊橋",
+       "value": "長48公尺、高23公尺"
+      },
+      {
+       "label": "步道",
+       "value": "共約9公里"
+      }
+     ],
+     "best_season_zh": "全年；晴天景觀最佳",
+     "tips_zh": "海崖邊風浪大，請走步道勿靠近岩緣；穿防滑鞋，風大或下雨時請特別小心，並避免單獨涉險。",
+     "tags": [
+      "海岸",
+      "熔岩",
+      "吊橋",
+      "國立公園"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/城ヶ崎海岸"
+     ],
+     "confidence": "high",
+     "prompt_en": "Jogasaki Coast lava cliffs with a suspension bridge over deep blue sea, sunny day"
+    }
+   }
+  },
+  {
+   "id": "shizuoka_hamamatsu",
+   "name_zh": "濱松",
+   "name_ja": "浜松",
+   "intro_zh": "濱松位於縣西部，是縣內人口最多的政令指定都市，也是樂器與機車製造的城市。德川家康曾在此居住多年，濱名湖盛產鰻魚，餃子與鰻魚是代表美食，濱松祭更是春季盛事。市內另有樂器博物館等文化設施。",
+   "items": {
+    "spot": {
+     "title_zh": "濱松城",
+     "title_ja": "浜松城",
+     "summary_zh": "德川家康居城，有「出世城」之稱。",
+     "body_zh": "濱松城是德川家康在1570年移居，並由引馬城（舊稱曳馬城）改名而來的城池，1573年的三方原之戰也與此城有關，家康據說在撤退時使用空城計。歷代城主不少後來成為江戶幕府重臣，因而有「出世城」之稱。現存天守為1958年重建的鋼筋混凝土建築，天守門於2014年以木造復原，城下石垣以野面積著稱，春天櫻花盛開。天守內展出家康相關史料，頂樓則可俯瞰濱松市區與遠方山脈，也是市民喜愛的休憩場所。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "濱松市中區"
+      },
+      {
+       "label": "家康入城",
+       "value": "1570年"
+      },
+      {
+       "label": "現天守",
+       "value": "1958年重建"
+      },
+      {
+       "label": "特色",
+       "value": "野面積石垣、出世城"
+      }
+     ],
+     "best_season_zh": "春季櫻花",
+     "tips_zh": "城址公園可自由散步，天守內為博物館；賞櫻季建議傍晚前往，光線漂亮，也能一併逛附近的商店街。",
+     "tags": [
+      "城池",
+      "德川家康",
+      "櫻花",
+      "出世城"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/浜松城"
+     ],
+     "confidence": "high",
+     "prompt_en": "Hamamatsu Castle keep with old fieldstone walls surrounded by cherry blossoms against blue sky"
+    },
+    "food": {
+     "title_zh": "濱松餃子與鰻魚",
+     "title_ja": "浜松餃子とうなぎ",
+     "summary_zh": "圓形排列的餃子與濱名湖鰻魚飯。",
+     "body_zh": "濱松餃子的特色是將煎餃排成圓形，中央放上燙過的豆芽菜，用料豐富、高麗菜的甜味明顯。濱松、宇都宮、宮崎三市曾因家庭餃子消費額而相互競爭，成為地方宣傳的話題。濱松同時也是鰻魚名產地，濱名湖一帶養殖歷史悠久，兩者經常出現在同一趟美食行程中，是來濱松必試的庶民滋味。許多店家也提供外帶冷凍餃子，方便旅途結束後在家中重溫滋味。餃子常搭配白飯與味噌湯作為定食，份量足夠當正餐。",
+     "facts": [
+      {
+       "label": "餃子特色",
+       "value": "圓形排列、配豆芽菜"
+      },
+      {
+       "label": "競爭對象",
+       "value": "宇都宮、宮崎"
+      },
+      {
+       "label": "鰻魚",
+       "value": "濱名湖養殖"
+      }
+     ],
+     "best_season_zh": "全年",
+     "tips_zh": "餃子店常有午餐限定組合；鰻魚飯建議預約或避開午餐尖峰，兩種美食可分兩餐品嘗，比較不會太油膩。",
+     "tags": [
+      "餃子",
+      "鰻魚",
+      "B級美食",
+      "濱松"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/浜松餃子"
+     ],
+     "confidence": "medium",
+     "prompt_en": "Round-arranged pan-fried gyoza with blanched bean sprouts in the center and a grilled eel rice box, close-up"
+    },
+    "scenery": {
+     "title_zh": "浜名湖",
+     "title_ja": "浜名湖",
+     "summary_zh": "廣闊汽水湖，養殖鰻魚、牡蠣與海苔。",
+     "body_zh": "浜名湖面積約64.9平方公里，是日本第10大湖。原本是淡水湖，1498年的明應地震使砂洲決口，海水流入而轉為汽水湖，湖內魚類超過400種，生態豐富。湖區盛行鰻魚、牡蠣、海苔與甲魚養殖，也保留利用燈火誘魚的傳統漁法。湖畔有溫泉與水上運動設施，傍晚夕陽映照湖面的景色特別動人。沿湖有多處公園和海水浴場，夏季也有煙火大會與水上活動，是濱松周邊休閒度假的首選地點之一。",
+     "facts": [
+      {
+       "label": "面積",
+       "value": "約64.91平方公里"
+      },
+      {
+       "label": "成因",
+       "value": "1498年明應地震後轉為汽水湖"
+      },
+      {
+       "label": "產業",
+       "value": "鰻魚、牡蠣、海苔養殖"
+      }
+     ],
+     "best_season_zh": "傍晚夕陽時分；秋冬牡蠣季",
+     "tips_zh": "可環湖開車或搭遊船遊湖；牡蠣季可到湖邊食堂嘗鮮，傍晚前往可欣賞夕陽與漁船剪影。。",
+     "tags": [
+      "湖",
+      "汽水湖",
+      "鰻魚",
+      "夕陽"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/浜名湖"
+     ],
+     "confidence": "high",
+     "prompt_en": "Lake Hamana at sunset with calm water, oyster rafts and fishing boats, orange sky"
+    }
+   }
+  },
+  {
+   "id": "shizuoka_shimizu_suruga",
+   "name_zh": "駿河灣・清水",
+   "name_ja": "駿河湾・清水",
+   "intro_zh": "駿河灣沿岸以清水港與靜岡市為中心，是日本最深的海灣。這裡有三保松原與日本平兩大富士山展望點，海產則以櫻花蝦與吻仔魚聞名，是欣賞富士與海景的好地方。海岸線風光細膩，四季皆宜。",
+   "items": {
+    "spot": {
+     "title_zh": "三保松原",
+     "title_ja": "三保松原",
+     "summary_zh": "松林海岸與富士山的世界遺產景觀。",
+     "body_zh": "三保松原是清水區三保半島上的松林海岸，沿著黑色砂礫海灘延伸，隔著駿河灣可望見富士山。2013年列入富士山世界文化遺產，亦是日本新三景之一。羽衣傳說流傳於此，相傳天女把羽衣掛在松樹上，羽衣之松已傳至第三代。松樹因海岸侵蝕與蟲害減少，目前持續進行保護，沿岸也設有步道供遊客散步。若天氣晴朗，從步道盡頭的海邊望去，富士山倒映在灣上的景色最為難忘，值得安排半天時間慢慢欣賞。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "靜岡市清水區"
+      },
+      {
+       "label": "世界遺產",
+       "value": "2013年"
+      },
+      {
+       "label": "傳說",
+       "value": "羽衣傳說"
+      }
+     ],
+     "best_season_zh": "冬季早晨",
+     "tips_zh": "從清水站搭巴士前往，建議早晨出發，光線與能見度較佳；夏季日曬強烈，請戴帽子並備好飲水。",
+     "tags": [
+      "世界遺產",
+      "松林",
+      "羽衣傳說",
+      "富士山"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/三保松原"
+     ],
+     "confidence": "high",
+     "prompt_en": "Miho no Matsubara pine-lined beach with Mount Fuji across Suruga Bay, early morning"
+    },
+    "food": {
+     "title_zh": "櫻花蝦與生吻仔魚",
+     "title_ja": "桜えびと生しらす",
+     "summary_zh": "駿河灣特產，鮮甜小海鮮。",
+     "body_zh": "櫻花蝦是體長約4公分的小型深海蝦，殼帶紅色色素而呈半透明粉紅，日本國內漁獲全部來自駿河灣，漁季為春季（約4至6月）與秋季（約10至12月）。漁業起源於1894年，漁民偶然大量捕獲而開始。可做成炸什錦、炒飯或乾蝦，整隻連殼吃，帶有堅果般的香氣。2018至2022年漁獲曾大幅減少，2023年起明顯好轉。生吻仔魚口感柔嫩，常與櫻花蝦並列為「雙拼丼」，是清水港周邊的招牌。",
+     "facts": [
+      {
+       "label": "產地",
+       "value": "駿河灣"
+      },
+      {
+       "label": "漁期",
+       "value": "春4–6月、秋10–12月"
+      },
+      {
+       "label": "漁業起源",
+       "value": "1894年"
+      }
+     ],
+     "best_season_zh": "春季與秋季漁期",
+     "tips_zh": "在由比港周邊食堂可吃到生櫻花蝦丼，但漁期與供應量每年不同，行前請先查詢；乾貨很適合當伴手禮。",
+     "tags": [
+      "櫻花蝦",
+      "海鮮",
+      "駿河灣",
+      "吻仔魚"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/桜えび"
+     ],
+     "confidence": "high",
+     "prompt_en": "Rice bowl topped with fresh whitebait and tiny pink sakura shrimp, close-up"
+    },
+    "scenery": {
+     "title_zh": "日本平",
+     "title_ja": "日本平",
+     "summary_zh": "可看富士山與駿河灣的展望台。",
+     "body_zh": "日本平是靜岡市內標高約307公尺的丘陵展望地，可遠眺富士山、伊豆半島與清水港。名稱傳說源自日本武尊曾在此眺望。2018年開設的「日本平夢テラス」提供觀景平台，2016年獲選為日本夜景遺產。纜車可通往久能山東照宮，是景觀與參拜結合的熱門行程；這裡也有日本平動物園，適合家庭同遊。遠處可見富士山、伊豆半島，夜晚則能看到清水港燈火點點，十分浪漫，值得安排在傍晚或夜間造訪。",
+     "facts": [
+      {
+       "label": "標高",
+       "value": "約307公尺"
+      },
+      {
+       "label": "設施",
+       "value": "日本平夢テラス（2018年）"
+      },
+      {
+       "label": "交通",
+       "value": "靜岡站搭巴士約45分鐘"
+      }
+     ],
+     "best_season_zh": "秋冬晴天、日落夜景",
+     "tips_zh": "可搭纜車連結久能山東照宮；傍晚前往能同時看夕陽與夜景，天冷請多帶一件外套，山上風大。",
+     "tags": [
+      "展望台",
+      "富士山",
+      "夜景",
+      "纜車"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/日本平"
+     ],
+     "confidence": "high",
+     "prompt_en": "View from Nihondaira of Mount Fuji, Suruga Bay and harbor town below, clear day"
+    }
+   }
+  }
+ ]
+}

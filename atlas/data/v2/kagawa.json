@@ -1,0 +1,851 @@
+{
+ "id": "kagawa",
+ "name_zh": "香川",
+ "name_ja": "香川県",
+ "region": "四國",
+ "overview": {
+  "intro_zh": "香川縣位於四國東北部，面向瀨戶內海，面積約1,877平方公里，是日本面積最小的縣。縣內平原上散佈著圓錐形小山，氣候溫暖少雨，自古缺水而造就了眾多蓄水池。這裡是讚岐烏龍麵的故鄉，日本最早成功栽培橄欖的小豆島也在轄下，丸龜團扇更佔全國約九成產量。近年直島、豐島等島嶼以現代藝術聞名，每三年舉辦瀨戶內國際藝術祭。栗林公園、金刀比羅宮、丸龜城等名勝，使香川成為小而精緻、適合慢遊的目的地。",
+  "capital_zh": "高松市",
+  "area_km2": 1877,
+  "population_approx": "約95萬（2020年國勢調查949,358人）",
+  "flower_zh": "橄欖",
+  "bird_zh": "杜鵑（小杜鵑）",
+  "tree_zh": "橄欖",
+  "climate_zh": "瀨戶內海式氣候，全年少雨、日照長，冬季溫和，夏季較乾熱。",
+  "access_zh": "高松機場、高松港（往小豆島、直島船班）；JR瀨戶大橋線由岡山約1小時可達高松。",
+  "specialties_zh": [
+   "讚岐烏龍麵",
+   "小豆島橄欖與橄欖油",
+   "小豆島手延素麵",
+   "丸龜團扇",
+   "和三盆糖"
+  ],
+  "best_season_zh": "春（賞櫻）與秋（寒霞溪紅葉、藝術祭年份）最適合；夏季炎熱乾燥。"
+ },
+ "items": {
+  "architecture": {
+   "title_zh": "栗林公園",
+   "title_ja": "栗林公園",
+   "summary_zh": "江戶時代的大名庭園，特別名勝，一步一景。",
+   "body_zh": "栗林公園位於高松市，面積約75公頃，1625年起由生駒家著手營建，其後由松平家歷時約百年完成，是藩主的別邸庭園。園內有六個池塘、十三座假山與眾多造型黑松，南庭保留傳統回遊式風格，掬月亭為代表茶屋。1953年被指定為國家特別名勝，在日本庭園中以面積與保存度著稱。庭園背靠紫雲山，借景天然山色，四季皆有景致，夜間也會依季節舉辦點燈活動。園內分為南庭與北庭，南庭保留江戶時代的古典格局，是多數遊客的主要路線。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "香川縣高松市"
+    },
+    {
+     "label": "起源",
+     "value": "1625年起營建，約百年完成"
+    },
+    {
+     "label": "指定",
+     "value": "1953年國家特別名勝"
+    },
+    {
+     "label": "特色",
+     "value": "借景紫雲山、回遊式庭園"
+    }
+   ],
+   "best_season_zh": "春（櫻）與秋（紅葉）",
+   "tips_zh": "建議預留2小時以上慢逛，可在掬月亭坐下喝抹茶；早上入園人較少，拍池塘與松樹倒影最漂亮。",
+   "tags": [
+    "庭園",
+    "特別名勝",
+    "江戶",
+    "高松"
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Ritsurin_Garden",
+    "https://www.my-kagawa.jp/en/"
+   ],
+   "confidence": "high",
+   "prompt_en": "Classical Japanese strolling garden in Takamatsu with a wooden arched bridge over a calm pond, sculpted black pines and a thatched tea house, Mount Shiun forested backdrop, soft morning light, wide view"
+  },
+  "food": {
+   "title_zh": "讚岐烏龍麵",
+   "title_ja": "讃岐うどん",
+   "summary_zh": "香川最具代表的粗麵，口感Q彈有嚼勁。",
+   "body_zh": "讚岐烏龍麵是香川的代表美食，以麵條粗、口感紮實、彈牙有勁見稱。傳說與空海從唐朝帶回製麵技術有關；江戶時代金刀比羅宮參拜者增加，門前町已有烏龍麵店。香川縣民的烏龍麵消費量遠高於全國平均，縣內有大量專門店，不少是自助式，客人自己加湯、配天婦羅與蔥。2011年縣政府推出「烏龍麵縣」宣傳，名氣更響。常見吃法有釜玉、醬油烏龍麵與冷麵。當地人早餐、午餐都可能吃烤，因此有些店清晨就開門，價格相當親民。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "香川縣全域"
+    },
+    {
+     "label": "起源",
+     "value": "傳說與空海有關，江戶時代已見記載"
+    },
+    {
+     "label": "特色",
+     "value": "粗麵、Q彈、自助式店家多"
+    },
+    {
+     "label": "名物吃法",
+     "value": "釜玉、醬油烏龍麵、掛湯"
+    }
+   ],
+   "best_season_zh": "全年",
+   "tips_zh": "烏龍麵店多在午前營業、賣完即止；熱門店要提早排隊。可以一天吃兩三家小份量比較麵質。",
+   "tags": [
+    "烏龍麵",
+    "讚岐",
+    "庶民美食",
+    "麵食"
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Sanuki_udon",
+    "https://www.my-kagawa.jp/en/"
+   ],
+   "confidence": "high",
+   "prompt_en": "Bowl of thick chewy Sanuki udon noodles in clear dashi broth topped with scallions and a crisp tempura piece, steam rising, plain wooden counter, close-up 45 degree view"
+  },
+  "culture": {
+   "title_zh": "丸龜團扇",
+   "title_ja": "丸亀うちわ",
+   "summary_zh": "日本國內約九成團扇產自丸龜的傳統工藝。",
+   "body_zh": "丸龜團扇是香川縣丸龜市的傳統工藝品，約佔日本國內團扇產量九成，1997年被指定為國家傳統工藝品。相傳江戶時代為了供應參拜金刀比羅宮的旅客紀念品，丸龜藩鼓勵武士以製扇作副業，才奠定產業。其特色是一根竹子劈出扇骨與握柄、再貼上紙面，約有四十多道工序，分工細密。丸龜市設有團扇博物館，可看到歷史展品與製作示範，也能體驗彩繪自己的團扇。每一把團扇多由多名師傅分工完成，從裁竹、貼紙到收邊，保留手工的溫度。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "香川縣丸龜市"
+    },
+    {
+     "label": "起源",
+     "value": "江戶時代，與金刀比羅宮參拜客相關"
+    },
+    {
+     "label": "指定",
+     "value": "1997年國家傳統工藝品"
+    },
+    {
+     "label": "特色",
+     "value": "約佔全國九成產量"
+    }
+   ],
+   "best_season_zh": "夏季前",
+   "tips_zh": "可到團扇博物館參觀製作示範並體驗彩繪，作為旅行紀念品很別緻；團扇輕薄好攜帶。出發前建議先確認開放時間與交通，並預留充足時間慢慢欣賞。",
+   "tags": [
+    "傳統工藝",
+    "團扇",
+    "丸龜",
+    "手作"
+   ],
+   "sources": [
+    "https://kougeihin.jp/en/craft/1416/",
+    "https://www.my-kagawa.jp/en/see-and-do/10131"
+   ],
+   "confidence": "high",
+   "prompt_en": "Colorful handmade Japanese uchiwa paper fans stacked in a craft workshop, an artisan pasting paper onto bamboo ribs, soft daylight, shallow depth of field"
+  },
+  "history": {
+   "title_zh": "丸龜城",
+   "title_ja": "丸亀城",
+   "summary_zh": "擁有日本最高石垣的現存天守，天守建於1660年。",
+   "body_zh": "丸龜城位於香川縣丸龜市龜山上，以四層疊起的高大石垣聞名，從山腳到本丸石垣總高約60公尺，被稱為日本最高的石垣。現存的三層天守建於1660年（萬治3年），由京極氏所建，約15公尺高，屬於日本僅十二座現存木造天守之一，1943年被列為重要文化財。城跡於1953年指定為國家史蹟。石垣以弧線向上收窄的「扇之勾配」技法砌成，登城時可從不同角度欣賞，春季賞櫻亦負盛名。登城途中穿過多重門與石垣，可近距離欣賞石材堆疊工藝，城山也是賞櫻名所。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "香川縣丸龜市"
+    },
+    {
+     "label": "天守",
+     "value": "1660年建，三層，約15公尺"
+    },
+    {
+     "label": "指定",
+     "value": "天守為重要文化財；城跡國家史蹟"
+    },
+    {
+     "label": "特色",
+     "value": "石垣總高約60公尺，扇之勾配"
+    }
+   ],
+   "best_season_zh": "春（櫻）",
+   "tips_zh": "登城石階頗陡，建議穿好走的鞋；從大手門一路往上，沿途石垣越看越壯觀。出發前建議先確認開放時間與交通，並預留充足時間慢慢欣賞。",
+   "tags": [
+    "城堡",
+    "石垣",
+    "現存天守",
+    "丸龜"
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Marugame_Castle",
+    "https://www.my-kagawa.jp/en/see-and-do/10084"
+   ],
+   "confidence": "high",
+   "prompt_en": "Small white-walled three-story castle keep atop towering curved stacked stone walls on a hillside, cherry blossom trees, blue sky, wide shot from below"
+  },
+  "mascot": {
+   "title_zh": "香川的在地角色",
+   "title_ja": "香川のご当地キャラ",
+   "summary_zh": "香川有許多機關角色，也有以烏龍麵為題的人氣角色。",
+   "body_zh": "香川縣官方網站列出多個縣內機關的宣傳角色，例如推廣在地農產的「讃太くん」、栗林公園的「りんちゃん」等，被稱為「角色王國」。此外，以烏龍麵為主題、由縣民創作的「うどん脳」系列，曾在2020年的民間調查中被選為香川縣民最喜愛的在地角色。香川的角色多取材自烏龍麵、橄欖、瀨戶內海與栗林公園。本站不複製任何現有商標吉祥物，插圖為取材當地象徵的原創角色設計。在高松的車站與特產店，常能看到以烏龍麵與橄欖為主題的周邊商品。",
+   "facts": [
+    {
+     "label": "縣內角色",
+     "value": "如讃太くん、りんちゃん等"
+    },
+    {
+     "label": "主題",
+     "value": "烏龍麵、橄欖、庭園"
+    },
+    {
+     "label": "民間人氣",
+     "value": "うどん脳系列"
+    },
+    {
+     "label": "本站做法",
+     "value": "原創設計，不複製商標角色"
+    }
+   ],
+   "best_season_zh": "全年",
+   "tips_zh": "在高松的特產店與烏龍麵店常見角色周邊，可作輕鬆的伴手禮。出發前建議先確認開放時間與交通，並預留充足時間慢慢欣賞。",
+   "tags": [
+    "吉祥物",
+    "角色",
+    "烏龍麵",
+    "橄欖"
+   ],
+   "sources": [
+    "https://www.pref.kagawa.lg.jp/kocho/shokai/character.html"
+   ],
+   "confidence": "medium",
+   "prompt_en": "An original cute mascot character shaped like a soft swirl of udon noodle with small olive-branch leaves on its head and tiny chopsticks, friendly smile, plain pastel background, not replicating any existing trademarked mascot"
+  },
+  "scenery": {
+   "title_zh": "小豆島橄欖園",
+   "title_ja": "小豆島のオリーブ畑",
+   "summary_zh": "瀨戶內海島上，日本最早成功栽培橄欖的產地。",
+   "body_zh": "小豆島是瀨戶內海第二大島，屬香川縣小豆郡。1908年，日本政府選定三處試種橄欖，其中只有小豆島成功結果，此後成為日本橄欖栽培的發祥地。島上氣候溫暖少雨，類似地中海，山坡上一排排橄欖樹在海風中閃著銀綠色的葉光。橄欖園旁可見石階小徑與風車造型景點，秋季是採收季節。橄欖油、橄欖茶與橄欖冰淇淋都是島上特產，也是香川縣花與縣樹的由來。島上橄欖園多設有步道與觀景台，遊客可邊走邊欣賞海景，也能品嚐橄欖製品。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "香川縣小豆島"
+    },
+    {
+     "label": "起源",
+     "value": "1908年試種成功"
+    },
+    {
+     "label": "時節",
+     "value": "10至11月為採收期"
+    },
+    {
+     "label": "特色",
+     "value": "地中海式氣候、橄欖產品"
+    }
+   ],
+   "best_season_zh": "秋（採收）、初夏開花",
+   "tips_zh": "可租電動單車環島，在橄欖公園買橄欖冰淇淋；從高松港乘船約35至60分鐘到達。出發前建議先確認開放時間與交通，並預留充足時間慢慢欣賞。",
+   "tags": [
+    "橄欖",
+    "小島",
+    "瀨戶內海",
+    "風景"
+   ],
+   "sources": [
+    "https://www.japan.travel/en/gastronomy/article-an-island-paradise-for-gastronomy/",
+    "https://en.wikipedia.org/wiki/Kagawa_Prefecture"
+   ],
+   "confidence": "high",
+   "prompt_en": "Sunny olive grove on a hillside above the Seto Inland Sea, rows of silvery-green olive trees, rustic stone path and a small white windmill, Mediterranean-like light, wide shot"
+  },
+  "spot": {
+   "title_zh": "寒霞溪",
+   "title_ja": "寒霞渓",
+   "summary_zh": "小豆島的奇岩峽谷，日本三大渓谷美之一。",
+   "body_zh": "寒霞溪位於小豆島中央，是由約一千三百萬年前火山活動形成的火山岩被侵蝕而成的峽谷，與大分的耶馬溪、群馬的妙義山並稱為日本三大渓谷美。奇岩怪石與紅葉交織，並可眺望瀨戶內海。山頂與山麓之間有纜車往返，紅葉季約在11月下旬前後最壯觀，也有登山步道可步行。寒霞溪被選入日本二十一世紀自然遺產百選，被視為小豆島自然景觀的代表。山頂另有纜車站與觀景台，視野開闊，天氣好時可望見瀨戶內海的島影與對岸的山脈。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "香川縣小豆島町"
+    },
+    {
+     "label": "特色",
+     "value": "奇岩與紅葉、可望瀨戶內海"
+    },
+    {
+     "label": "交通",
+     "value": "纜車往返山麓與山頂"
+    },
+    {
+     "label": "時節",
+     "value": "11月下旬紅葉最盛"
+    }
+   ],
+   "best_season_zh": "秋（紅葉）",
+   "tips_zh": "紅葉季纜車排隊久，建議早上去；也可選一邊搭纜車、一邊步行下山。出發前建議先確認開放時間與交通，並預留充足時間慢慢欣賞。",
+   "tags": [
+    "峽谷",
+    "紅葉",
+    "纜車",
+    "小豆島"
+   ],
+   "sources": [
+    "https://www.my-kagawa.jp/en/see-and-do/10122",
+    "https://japan-guide.com/e/e5435.html"
+   ],
+   "confidence": "medium",
+   "prompt_en": "Rugged volcanic rock cliffs with vivid red and orange autumn foliage in a deep gorge, a ropeway gondola crossing the valley, Seto Inland Sea glimpsed in the distance, crisp morning light"
+  },
+  "experience": {
+   "title_zh": "手打烏龍麵體驗",
+   "title_ja": "うどん打ち体験",
+   "summary_zh": "在烏龍麵學校親手踩麵、擀麵、切麵再品嚐。",
+   "body_zh": "在香川，許多烏龍麵學校與觀光設施提供手打烏龍麵體驗，通常由師傅示範，客人親自揉麵、踩麵、擀開再切條，最後現煮現吃。傳統做法會把麵糰放在袋中用腳踩，讓麵筋有彈性，這也是讚岐烏龍麵Q彈口感的來源。體驗約一至兩小時，多數需預約，部分提供英語或圖示說明。完成後的麵能當場品嚐，有的還可帶走生麵。是家庭與團體旅客相當喜歡的活動。體驗完成後通常可品嚐親手做的麵，也有店家提供證書作為紀念，適合親子同行。",
+   "facts": [
+    {
+     "label": "地點",
+     "value": "高松、琴平等地烏龍麵學校"
+    },
+    {
+     "label": "時長",
+     "value": "約1至2小時"
+    },
+    {
+     "label": "流程",
+     "value": "揉麵、踩麵、擀麵、切麵、品嚐"
+    },
+    {
+     "label": "預約",
+     "value": "通常需預約"
+    }
+   ],
+   "best_season_zh": "全年",
+   "tips_zh": "穿容易活動的衣服；有些場地提供圍裙，記得先確認是否能帶走生麵及保存期限。出發前建議先確認開放時間與交通，並預留充足時間慢慢欣賞。",
+   "tags": [
+    "體驗",
+    "烏龍麵",
+    "手作",
+    "親子"
+   ],
+   "sources": [
+    "https://www.my-kagawa.jp/en/",
+    "https://en.wikipedia.org/wiki/Sanuki_udon"
+   ],
+   "confidence": "medium",
+   "prompt_en": "Hands kneading and rolling out udon dough on a wooden board dusted with flour, rolling pin and long knife nearby, bright clean kitchen, top-down 45 degree view"
+  },
+  "costume": {
+   "title_zh": "橄欖農服",
+   "title_ja": "オリーブ農家の装い",
+   "summary_zh": "小豆島橄欖園的亞麻圍裙與草帽裝扮。",
+   "body_zh": "小豆島的橄欖採收季多在秋季，農家與遊客常見的裝扮是輕便的作業服、圍裙與草帽，布料以棉麻為主，方便在坡地行走。島上氣候溫暖日照足，防曬草帽與輕薄長袖是日常。這種裝扮呈現島上農作與生活的樸素質感，也是近年旅遊雜誌拍攝橄欖園主題照時的常用造型。此項為生活風格描寫，不涉及特定傳統民族服飾。這類裝扮強調輕便與透氣，也常見於島上體驗活動與雜誌拍攝，帶有悠閒的島嶼氣氛。",
+   "facts": [
+    {
+     "label": "地點",
+     "value": "香川縣小豆島"
+    },
+    {
+     "label": "款式",
+     "value": "亞麻圍裙、草帽、輕便長袖"
+    },
+    {
+     "label": "季節",
+     "value": "秋季採收期"
+    },
+    {
+     "label": "用途",
+     "value": "田間作業、拍攝體驗"
+    }
+   ],
+   "best_season_zh": "秋",
+   "tips_zh": "若想體驗採橄欖，可選在秋季到訪並預約農園活動；需準備防曬與好走的鞋。出發前建議先確認開放時間與交通，並預留充足時間慢慢欣賞。",
+   "tags": [
+    "服飾",
+    "橄欖",
+    "農家",
+    "生活風格"
+   ],
+   "sources": [
+    "https://www.japan.travel/en/gastronomy/article-an-island-paradise-for-gastronomy/"
+   ],
+   "confidence": "low",
+   "prompt_en": "An anonymous model seen from the side in a linen apron and straw hat picking olives in a sunny grove, candid lifestyle portrait, warm light, shallow depth of field"
+  }
+ },
+ "areas": [
+  {
+   "id": "kagawa_takamatsu",
+   "name_zh": "高松",
+   "name_ja": "高松",
+   "intro_zh": "高松是香川縣的縣廳所在地，也是四國的重要門戶。港口有往小豆島與直島的船班，市內有栗林公園、屋島等名勝。城市面向瀨戶內海，街上自助式烏龍麵店林立，適合作為遊香川的起點。市區距離不大，公共交通與單車都方便，也能一天往返屋島與栗林公園。",
+   "items": {
+    "spot": {
+     "title_zh": "屋島",
+     "title_ja": "屋島",
+     "summary_zh": "桌狀山丘，源平合戰古戰場，可俯瞰瀨戶內海。",
+     "body_zh": "屋島是高松市東北的平頂山丘，由堅硬的熔岩台地被侵蝕而成，標高約293公尺，形似屋頂，因此得名。1185年的屋島之戰是源平合戰的重要戰役，源義經在此擊敗平氏。山頂有四國八十八所靈場第八十四番札所屋島寺，並設有展望台，可眺望瀨戶內海與五劍山。山上有開車路線與纜車以外的登山步道，夕陽時分景色尤其動人。山頂另有展望台與賣店，可買到當地小吃；下山可選擇步行或搭乘接駁巴士。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "香川縣高松市"
+      },
+      {
+       "label": "標高",
+       "value": "約293公尺"
+      },
+      {
+       "label": "歷史",
+       "value": "1185年屋島之戰"
+      },
+      {
+       "label": "特色",
+       "value": "桌狀熔岩台地、屋島寺"
+      }
+     ],
+     "best_season_zh": "春秋傍晚",
+     "tips_zh": "可開車或搭巴士上山，山頂展望台看夕陽很好；山頂風大，帶件薄外套。出發前建議先確認開放時間與交通，並預留充足時間慢慢欣賞。",
+     "tags": [
+      "山丘",
+      "源平合戰",
+      "展望",
+      "寺院"
+     ],
+     "sources": [
+      "https://en.wikipedia.org/wiki/Battle_of_Yashima",
+      "https://www.my-kagawa.jp/en/"
+     ],
+     "confidence": "high",
+     "prompt_en": "Flat-topped Yashima plateau rising above the Seto Inland Sea at dusk, observation platform in foreground, warm orange sky, wide landscape view"
+    },
+    "food": {
+     "title_zh": "高松自助式烏龍麵",
+     "title_ja": "セルフうどん",
+     "summary_zh": "自己取麵、加湯、選天婦羅的庶民烏龍麵店。",
+     "body_zh": "高松市區及近郊有許多自助式烏龍麵店，客人先在櫃檯點麵份量，再自己端盤到天婦羅區取配料，最後自行加湯、蔥與薑。價格親民，一碗約數百日圓，是當地人日常午餐的樣貌。麵條硬度與湯頭風格因店而異，有些店還有自己的小麥粉配方與小魚乾出汁。因為多為立食或簡單座位，用餐時間短，所以不少人一日內連吃數家。這類店舖的湯頭多以小魚乾熬製，風味清爽，配上炸物或溫泉蛋，簡單而滿足。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "高松市及周邊"
+      },
+      {
+       "label": "特色",
+       "value": "自助取麵、取配料、自行加湯"
+      },
+      {
+       "label": "價格",
+       "value": "一碗約數百日圓"
+      },
+      {
+       "label": "名物配料",
+       "value": "天婦羅、半熟蛋"
+      }
+     ],
+     "best_season_zh": "全年",
+     "tips_zh": "跟著店內動線走，先拿麵再拿配料最後付錢；午餐尖峰時間人多，可避開12點。出發前建議先確認開放時間與交通，並預留充足時間慢慢欣賞。",
+     "tags": [
+      "烏龍麵",
+      "自助式",
+      "庶民",
+      "高松"
+     ],
+     "sources": [
+      "https://www.my-kagawa.jp/en/",
+      "https://en.wikipedia.org/wiki/Sanuki_udon"
+     ],
+     "confidence": "medium",
+     "prompt_en": "Self-service udon shop counter with a steaming bowl of udon in clear broth, tray, tempura on a side rack, scallion bowl, warm lighting, close-up"
+    },
+    "scenery": {
+     "title_zh": "栗林公園南湖與掬月亭",
+     "title_ja": "栗林公園・南湖",
+     "summary_zh": "南庭池面的茶屋與假山，是栗林公園經典構圖。",
+     "body_zh": "栗林公園的南庭是庭園最精華的部分，南湖是其中最大的池塘，岸邊的掬月亭是著名的茶屋，坐在亭內可從低角度眺望池面、小島與松樹，並借景紫雲山。飛來峰是園內的人工假山，可登上俯瞰全園。園中有造型黑松千餘株，每年有專人修剪造型，維持「一步一景」的構圖。秋季紅葉與春季櫻花時最多人拍照。從亭內向外看，視線穿過池面與松枝，景色如畫框，是公園最經典的取景角度之一。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "高松市栗林公園內"
+      },
+      {
+       "label": "景點",
+       "value": "南湖、掬月亭、飛來峰"
+      },
+      {
+       "label": "特色",
+       "value": "借景紫雲山、造型黑松"
+      },
+      {
+       "label": "拍攝重點",
+       "value": "池面倒影"
+      }
+     ],
+     "best_season_zh": "秋（紅葉）",
+     "tips_zh": "可在掬月亭付費喝抹茶，坐在窗邊看池景；想拍倒影宜選無風的清晨。出發前建議先確認開放時間與交通，並預留充足時間慢慢欣賞。",
+     "tags": [
+      "庭園",
+      "池塘",
+      "茶屋",
+      "借景"
+     ],
+     "sources": [
+      "https://en.wikipedia.org/wiki/Ritsurin_Garden"
+     ],
+     "confidence": "high",
+     "prompt_en": "Nanko pond at Ritsurin Garden with a thatched tea pavilion on the shore, pine-covered islets and Mount Shiun behind, still water reflections, golden autumn light"
+    }
+   }
+  },
+  {
+   "id": "kagawa_shodoshima",
+   "name_zh": "小豆島",
+   "name_ja": "小豆島",
+   "intro_zh": "小豆島是瀨戶內海第二大島，以橄欖、手延素麵與醬油聞名。島上有寒霞溪的峽谷景觀、天使之路沙洲與橄欖公園。從高松乘船約35至60分鐘可達，島上交通以巴士、租車、單車為主，適合住一兩晚慢慢走。",
+   "items": {
+    "spot": {
+     "title_zh": "小豆島橄欖公園",
+     "title_ja": "小豆島オリーブ公園",
+     "summary_zh": "山丘上的橄欖公園，有地中海風格的白色風車。",
+     "body_zh": "小豆島橄欖公園位於島的南側山坡，面向瀨戶內海，是島上推廣橄欖文化的主題公園。園內有地中海風格的白色風車、橄欖樹林、玻璃溫室與販賣橄欖製品的商店，並設有橄欖冰淇淋。這裡是遊客體驗橄欖島氛圍、拍照留念的熱門景點。小豆島自1908年起試種橄欖成功，成為日本橄欖發祥地。公園內可以租借掃帚，騎上去拍飛行姿勢的照片，是旅客熱門玩法。園內的商店可買到橄欖油、橄欖茶與橄欖護膚品，適合當作伴手禮，也有簡單餐點。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "香川縣小豆島町"
+      },
+      {
+       "label": "特色",
+       "value": "白色風車、橄欖樹林、玻璃溫室"
+      },
+      {
+       "label": "名物",
+       "value": "橄欖冰淇淋、橄欖油"
+      },
+      {
+       "label": "背景",
+       "value": "日本橄欖發祥地"
+      }
+     ],
+     "best_season_zh": "春至秋",
+     "tips_zh": "公園景色以晴天最美；可先在商店試吃橄欖產品再決定買哪些伴手禮。出發前建議先確認開放時間與交通，並預留充足時間慢慢欣賞。",
+     "tags": [
+      "橄欖",
+      "風車",
+      "公園",
+      "小豆島"
+     ],
+     "sources": [
+      "https://www.japan.travel/en/gastronomy/article-an-island-paradise-for-gastronomy/"
+     ],
+     "confidence": "medium",
+     "prompt_en": "White Greek-style windmill on an olive hill above the sea, olive trees and gravel path, blue sky, bright Mediterranean-like light, wide shot"
+    },
+    "food": {
+     "title_zh": "小豆島手延素麵",
+     "title_ja": "小豆島の手延べそうめん",
+     "summary_zh": "相傳四百年前由奈良三輪傳入的手延素麵。",
+     "body_zh": "小豆島手延素麵已有約四百年歷史，據說江戶時代島民前往伊勢參拜途中，在奈良三輪習得製麵技術後帶回島上，與三輪素麵、播州素麵並稱日本三大素麵之一。製作過程需將麵糰反覆拉細，並使用小豆島的食鹽與麻油，麵條帶有細緻的滑順口感。冬季寒冷乾燥的氣候適合曬麵，成束麵條垂掛於戶外的光景是島上冬景。島上另有醬油、佃煮與橄欖，構成豐富的食文化。素麵不只可以冷食，也常搭配湯汁、芝麻與小豆島醬油食用，味道樸實而細緻。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "香川縣小豆島"
+      },
+      {
+       "label": "起源",
+       "value": "約400年前自奈良三輪傳入"
+      },
+      {
+       "label": "特色",
+       "value": "手延拉細、使用島產食鹽與麻油"
+      },
+      {
+       "label": "時節",
+       "value": "冬季為曬麵期"
+      }
+     ],
+     "best_season_zh": "冬（曬麵）",
+     "tips_zh": "可預約工坊參觀曬麵或體驗拉麵；吃法有冷麵、熱湯麵及配橄欖油，值得嘗試。出發前建議先確認開放時間與交通，並預留充足時間慢慢欣賞。",
+     "tags": [
+      "素麵",
+      "手延",
+      "小豆島",
+      "傳統"
+     ],
+     "sources": [
+      "https://shikoku-tourism.com/en/about-shikoku/Shodoshima%20somen",
+      "https://www.kensanpin.org/en/product/crops/988/"
+     ],
+     "confidence": "medium",
+     "prompt_en": "Rows of freshly stretched somen noodles hanging to dry outdoors in winter sunlight on wooden racks, a bowl of cold somen with toppings in foreground"
+    },
+    "scenery": {
+     "title_zh": "天使之路",
+     "title_ja": "エンジェルロード",
+     "summary_zh": "退潮時浮現、連接小島的沙洲步道。",
+     "body_zh": "天使之路是小豆島土庄町海邊的沙洲，退潮時，約500公尺長的沙路會從主島連到中余島、小余島等數座小島，漲潮時沒入海中。一天約有兩次可通行，時間由潮汐決定，需查潮汐時間表。當地流傳牽著心上人的手走過沙洲，願望就會實現的說法，因此被稱為「戀人的聖地」，也獲選為「戀人聖地」。沙洲兩旁的海水清澈，漲潮時景色又完全不同，是島上最受歡迎的拍照景點之一。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "香川縣小豆島土庄町"
+      },
+      {
+       "label": "長度",
+       "value": "約500公尺"
+      },
+      {
+       "label": "特色",
+       "value": "退潮才出現"
+      },
+      {
+       "label": "注意",
+       "value": "需對照潮汐時間"
+      }
+     ],
+     "best_season_zh": "春至秋",
+     "tips_zh": "出發前務必查當日潮汐時間，並留意回程，別被漲潮困在小島上。出發前建議先確認開放時間與交通，並預留充足時間慢慢欣賞。",
+     "tags": [
+      "沙洲",
+      "潮汐",
+      "戀人聖地",
+      "海景"
+     ],
+     "sources": [
+      "https://www.my-kagawa.jp/en/see-and-do/10086",
+      "https://www.japan-guide.com/e/e5438.html"
+     ],
+     "confidence": "high",
+     "prompt_en": "Narrow sandbar path emerging at low tide connecting small green islets across shallow clear water, a few distant walkers, soft evening light, wide shot"
+    }
+   }
+  },
+  {
+   "id": "kagawa_naoshima",
+   "name_zh": "直島",
+   "name_ja": "直島",
+   "intro_zh": "直島是瀨戶內海的小島，以現代藝術與建築聞名。福武財團與安藤忠雄合作的地中美術館、家計畫、海邊的大型戶外雕塑，讓島嶼成為藝術朝聖地。每三年舉辦的瀨戶內國際藝術祭亦將此島納入核心展區。從高松或岡山的宇野港乘船可達，島上以巴士與單車移動。",
+   "items": {
+    "spot": {
+     "title_zh": "地中美術館",
+     "title_ja": "地中美術館",
+     "summary_zh": "安藤忠雄設計、半埋於地下的美術館，依靠自然光。",
+     "body_zh": "地中美術館2004年開幕，由建築師安藤忠雄設計，建於直島南部的山丘中，大部分空間埋入地下，以不破壞瀨戶內海景觀。館內主要展出莫內的《睡蓮》系列四幅、詹姆斯·特瑞爾的光之裝置，以及沃爾特·德·瑪利亞的作品，展品會隨日照改變觀感。美術館隸屬福武財團，館內禁止攝影，需事先網上預約入場時段。建築本身以清水混凝土、幾何形天井與長走廊構成，體驗本身就是展覽的一部分。建築刻意讓光線隨時間在牆面移動，參觀者要放慢腳步，才能感受空間與作品的對話。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "香川縣直島町"
+      },
+      {
+       "label": "開館",
+       "value": "2004年7月"
+      },
+      {
+       "label": "設計",
+       "value": "安藤忠雄"
+      },
+      {
+       "label": "展品",
+       "value": "莫內睡蓮、特瑞爾、德·瑪利亞"
+      }
+     ],
+     "best_season_zh": "全年",
+     "tips_zh": "需事先網上預約入場時段，館內禁拍照；建議上午前往，避開午後人潮。出發前建議先確認開放時間與交通，並預留充足時間慢慢欣賞。",
+     "tags": [
+      "美術館",
+      "安藤忠雄",
+      "現代藝術",
+      "直島"
+     ],
+     "sources": [
+      "https://en.wikipedia.org/wiki/Chichu_Art_Museum"
+     ],
+     "confidence": "high",
+     "prompt_en": "Minimalist concrete underground museum entrance with a geometric open-air courtyard, natural light and long shadows, a few distant visitors, clean architectural photograph"
+    },
+    "food": {
+     "title_zh": "直島瀨戶內海鮮",
+     "title_ja": "直島の海の幸",
+     "summary_zh": "島上餐廳以瀨戶內海產與柑橘入菜的定食。",
+     "body_zh": "直島周邊海域盛產各種瀨戶內海魚貨，島上的餐廳與民宿常見以當日捕獲的魚、章魚與蝦蟹入菜的定食，並搭配本地蔬菜與柑橘調味。近年因為藝術觀光，島上也開了不少咖啡廳與融合式餐廳，在古民家改建的店裡享受簡單的瀨戶內風味。由於餐廳數量不多，用餐時段容易客滿，建議先預約或避開高峰。具體菜色因店家與季節而異。直島的餐飲多以小規模經營為主，很多店設在翻新的老房子裡，氣氛悠閒自在。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "香川縣直島町"
+      },
+      {
+       "label": "食材",
+       "value": "瀨戶內海產、柑橘"
+      },
+      {
+       "label": "形式",
+       "value": "定食、咖啡廳"
+      },
+      {
+       "label": "注意",
+       "value": "具體菜色因店家而異"
+      }
+     ],
+     "best_season_zh": "全年",
+     "tips_zh": "午餐時段餐廳容易客滿，建議先預約或自備輕食；部分店家週一二休息。出發前建議先確認開放時間與交通，並預留充足時間慢慢欣賞。",
+     "tags": [
+      "海鮮",
+      "瀨戶內",
+      "定食",
+      "直島"
+     ],
+     "sources": [
+      "https://www.my-kagawa.jp/en/"
+     ],
+     "confidence": "low",
+     "prompt_en": "A set meal of fresh Seto Inland Sea seafood and citrus slices on ceramic dishes at a wooden table in a renovated old house cafe, soft window light"
+    },
+    "scenery": {
+     "title_zh": "海邊的大型波點南瓜雕塑",
+     "title_ja": "直島の海辺のかぼちゃ",
+     "summary_zh": "碼頭上的大型戶外藝術，成為直島象徵。",
+     "body_zh": "直島的宮之浦與南部海邊都設有大型戶外藝術，其中一件黃色波點南瓜雕塑自1994年起立於南部碼頭，成為直島的象徵。2021年颱風將雕塑沖入海中受損，修復後於2022年10月重新安置原處。作品配合海與天空，與周圍環境融為一體。島上另一件紅色南瓜位於港口。此處以通用描述呈現波點南瓜雕塑，並不依賴任何作品細節。作品與海、碼頭和天空相互呼應，吸引許多旅客前來拍照，是直島最具象徵性的畫面。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "香川縣直島町"
+      },
+      {
+       "label": "設置",
+       "value": "1994年起設於碼頭"
+      },
+      {
+       "label": "事件",
+       "value": "2021年颱風受損，2022年重新安置"
+      },
+      {
+       "label": "特色",
+       "value": "與海景融為一體"
+      }
+     ],
+     "best_season_zh": "晴天",
+     "tips_zh": "日落前後光線最好；碼頭拍照需排隊，可避開中午時段。出發前建議先確認開放時間與交通，並預留充足時間慢慢欣賞。",
+     "tags": [
+      "藝術",
+      "雕塑",
+      "海景",
+      "直島"
+     ],
+     "sources": [
+      "https://benesse-artsite.jp/en/story/20210611-1661.html",
+      "https://artreview.com/yayoi-kusamas-pumpkin-returns-to-naoshima-island-after-typhoon/"
+     ],
+     "confidence": "high",
+     "prompt_en": "Large polka-dot pumpkin sculpture on a concrete pier by the calm sea, blue sky, a few small figures nearby, wide shot"
+    }
+   }
+  },
+  {
+   "id": "kagawa_kotohira",
+   "name_zh": "琴平",
+   "name_ja": "琴平",
+   "intro_zh": "琴平位於香川縣西部，因金刀比羅宮而成為「金毘羅參拜」的門前町。江戶時代起吸引大量參拜者，如今仍保留舊金毘羅大芝居、石燈籠與烏龍麵店。周邊的讚岐平原點綴著圓錐形小山，景色獨特。",
+   "items": {
+    "spot": {
+     "title_zh": "金刀比羅宮",
+     "title_ja": "金刀比羅宮",
+     "summary_zh": "石階1,368級的神社，守護航海與漁業。",
+     "body_zh": "金刀比羅宮位於象頭山中腹，主祭神為大物主神，並自1165年起合祀崇德天皇，歷來被視為海上航行與漁業的守護神。從門前町到本宮有785級石階，海拔約251公尺；再往上583級到奧社，合計1,368級。江戶時代參拜者極多，琴平因而繁榮。參道兩旁有土產店與烏龍麵店，攀登途中可眺望讚岐平原。明治時代神佛分離後於1889年改稱「琴平」。參道兩旁的店家販售傳統糕點與紀念品，沿途石燈籠與樹木遮蔭，適合慢慢攀登。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "香川縣琴平町"
+      },
+      {
+       "label": "石階",
+       "value": "785級至本宮；奧社共1,368級"
+      },
+      {
+       "label": "祭神",
+       "value": "大物主神、崇德天皇"
+      },
+      {
+       "label": "特色",
+       "value": "航海守護、參道商店"
+      }
+     ],
+     "best_season_zh": "春與秋",
+     "tips_zh": "穿好走的鞋，至本宮約需40分鐘；也可租當地轎子體驗，旺季人潮多宜早到。出發前建議先確認開放時間與交通，並預留充足時間慢慢欣賞。",
+     "tags": [
+      "神社",
+      "石階",
+      "參拜",
+      "琴平"
+     ],
+     "sources": [
+      "https://en.wikipedia.org/wiki/Kotohira-g%C5%AB"
+     ],
+     "confidence": "high",
+     "prompt_en": "Long stone staircase lined with stone lanterns and souvenir shops leading up a wooded mountain to a hilltop shrine, morning haze, wide angle from below"
+    },
+    "food": {
+     "title_zh": "琴平烏龍麵",
+     "title_ja": "琴平のうどん",
+     "summary_zh": "金刀比羅宮參道上的烏龍麵店。",
+     "body_zh": "琴平是讚岐烏龍麵的重要起源地之一，江戶時代的《金毘羅祭禮圖屏風》已畫出門前町的烏龍麵店。至今參道入口與周邊仍有多家烏龍麵店，參拜完可吃一碗熱烏龍麵恢復體力。常見口味有掛湯烏龍麵、加炸豆皮的狐狸烏龍麵，以及在地的釜玉。也有烏龍麵學校提供體驗課程，可以親手做麵。這些店鋪多為家族經營，午餐尖峰時間常見排隊。店家多設在參道入口與老街，營業時間較早，適合在參拜前後安排一餐。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "香川縣琴平町"
+      },
+      {
+       "label": "歷史",
+       "value": "江戶時代已有烏龍麵店"
+      },
+      {
+       "label": "常見吃法",
+       "value": "掛湯、狐狸、釜玉"
+      },
+      {
+       "label": "特色",
+       "value": "參拜後吃麵"
+      }
+     ],
+     "best_season_zh": "全年",
+     "tips_zh": "攀登前先吃或登後吃皆可；店家多在下午早關，行程宜早排。出發前建議先確認開放時間與交通，並預留充足時間慢慢欣賞。",
+     "tags": [
+      "烏龍麵",
+      "門前町",
+      "琴平",
+      "參拜"
+     ],
+     "sources": [
+      "https://www.mlit.go.jp/tagengo-db/en/R2-01903.html",
+      "https://www.kagawa-u.ac.jp/iecms_english/history_and_culture_of_kagawa/index.html"
+     ],
+     "confidence": "medium",
+     "prompt_en": "Bowl of udon with sweet fried tofu in clear broth on a table of a small restaurant near a shrine approach, warm light, wood interior"
+    },
+    "scenery": {
+     "title_zh": "讚岐平原的圓錐小山",
+     "title_ja": "讃岐平野",
+     "summary_zh": "平原上點綴圓錐形小山的獨特景色。",
+     "body_zh": "香川縣的讚岐平原平坦開闊，平原上散佈著許多形似飯碗倒扣的圓錐形小山，統稱為「讚岐富士」之類的小山，是火山活動和侵蝕後留下的殘丘。平原降雨量少，自古以來開鑿了大量蓄水池，如日本最大的灌溉池滿濃池，是農業灌溉的重要設施。傍晚時分，夕陽映在稻田與小山之間，景色柔和，是琴平周邊的代表風景。登上金刀比羅宮的石階，也能從高處望見這片平原與遠處的瀨戶內海，景色十分開闊。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "香川縣讚岐平原"
+      },
+      {
+       "label": "特色",
+       "value": "圓錐形小山、大量蓄水池"
+      },
+      {
+       "label": "成因",
+       "value": "火山活動與侵蝕"
+      },
+      {
+       "label": "拍攝時段",
+       "value": "傍晚"
+      }
+     ],
+     "best_season_zh": "夏至秋",
+     "tips_zh": "可搭JR在沿線窗邊觀賞，或在琴平周邊開車尋找展望點。出發前建議先確認開放時間與交通，並預留充足時間慢慢欣賞。",
+     "tags": [
+      "平原",
+      "小山",
+      "蓄水池",
+      "田園"
+     ],
+     "sources": [
+      "https://www.my-kagawa.jp/en/"
+     ],
+     "confidence": "low",
+     "prompt_en": "Wide plain with several small cone-shaped hills rising among rice fields at evening, golden light, a small irrigation pond reflecting the sky"
+    }
+   }
+  }
+ ]
+}

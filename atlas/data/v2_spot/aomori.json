@@ -1,0 +1,157 @@
+{
+  "id": "aomori",
+  "spots": [
+    {
+      "title_zh": "弘前城",
+      "title_ja": "弘前城",
+      "category": "城郭史蹟",
+      "area_zh": "弘前市",
+      "summary_zh": "津輕氏居城，現存十二天守之一，約2,600棵櫻樹",
+      "body_zh": "弘前城位於弘前市，由津輕為信籌劃、其子津輕信枚於1610至1611年建成，是津輕氏居城，也是江戶時代津輕地方的政治與經濟中心。三層天守為1810年建造，屬日本現存十二天守之一，同時是重要文化財與國家史蹟。為了修繕石垣，約400噸的天守於2015年起以曳家方式移動，2026年已移回原位。園內約有2,600棵櫻樹，賞櫻祭配合黃金週，吸引全國遊客。",
+      "facts": [
+        {"label": "所在地", "value": "青森縣弘前市"},
+        {"label": "開創／成因", "value": "1610至1611年建成，天守為1810年建造"},
+        {"label": "看點", "value": "現存天守、約2,600棵櫻樹、石垣修復工程"}
+      ],
+      "best_season_zh": "春季（黃金週前後的櫻花）",
+      "tips_zh": "賞櫻祭期間遊客眾多，建議早到。天守曾為修繕石垣而移動，現況與入場規定請以官方公告為準。",
+      "tags": ["現存天守", "賞櫻", "津輕氏", "重要文化財"],
+      "sources": ["https://ja.wikipedia.org/wiki/弘前城"],
+      "confidence": "high",
+      "prompt_en": "Small three-story white Edo-period castle keep behind a moat bridge, surrounded by full-bloom cherry blossoms, spring morning soft light, foreground petals floating on moat water, midground stone-walled moat, background castle keep and clear sky, no text, no signs, no recognizable people"
+    },
+    {
+      "title_zh": "奧入瀨溪流",
+      "title_ja": "奥入瀬渓流",
+      "category": "自然絕景",
+      "area_zh": "十和田市・十和田湖町",
+      "summary_zh": "從十和田湖流出的約14公里溪流，苔蘚與瀑布名勝",
+      "body_zh": "奧入瀨溪流從十和田湖東岸流向十和田市焼山，全長約14公里。十和田湖出水口潰決後水流沖刷火山碎屑堆積物，約1.5萬年前形成現今的U字形谷。1928年指定為名勝及天然紀念物，1952年升為特別名勝及特別天然紀念物，1936年起屬十和田八幡平國立公園。沿線有銚子大瀑布、阿修羅之流、雲井之瀑等30多處名勝，岸邊的苔蘚也入選日本貴重苔蘚森林。",
+      "facts": [
+        {"label": "所在地", "value": "青森縣十和田市（十和田湖東岸至焼山）"},
+        {"label": "開創／成因", "value": "十和田湖出水口潰決，沖刷火山碎屑堆積物形成，約1.5萬年前"},
+        {"label": "看點", "value": "銚子大瀑布、阿修羅之流、雲井之瀑、苔蘚森林"}
+      ],
+      "best_season_zh": "新綠期與秋季紅葉",
+      "tips_zh": "國道102號沿溪而行，步道可分段步行。新綠與紅葉季人潮較多，可分段散步，不必一次走完全程。",
+      "tags": ["溪流", "苔蘚", "瀑布", "特別名勝"],
+      "sources": ["https://ja.wikipedia.org/wiki/奥入瀬渓流"],
+      "confidence": "high",
+      "prompt_en": "Clear mountain stream flowing over mossy boulders through a lush beech forest, early summer fresh green, soft dappled morning light through the canopy, foreground wet mossy rocks, midground gentle cascade, background forest depth with light haze, no text, no signs, no recognizable people"
+    },
+    {
+      "title_zh": "白神山地",
+      "title_ja": "白神山地",
+      "category": "山岳高原",
+      "area_zh": "西目屋村・深浦町（青森・秋田縣境）",
+      "summary_zh": "1993年登錄日本首批世界自然遺產，山毛櫸原生林",
+      "body_zh": "白神山地跨越青森與秋田兩縣，山地總面積約13萬公頃，其中169.71平方公里於1993年12月9日與屋久島一同成為日本首批世界自然遺產。這裡有受人為影響極少、規模居世界之冠的山毛櫸原生林，約棲息4,000種生物，包括日本黑熊、鹿、獼猴與黑啄木鳥。主要景點有三段瀑布的暗門瀑布、十二湖以及主峰白神岳（1,231.9米），核心區出入受嚴格管制。",
+      "facts": [
+        {"label": "所在地", "value": "青森縣・秋田縣交界"},
+        {"label": "開創／成因", "value": "1993年登錄世界自然遺產，山毛櫸原生林"},
+        {"label": "看點", "value": "暗門瀑布、十二湖、白神岳（1,231.9米）"}
+      ],
+      "best_season_zh": "新綠期與秋季紅葉",
+      "tips_zh": "核心區出入受管制，一般遊客可選暗門瀑布步道或十二湖等開放區域。出發前請查詢步道開放情況。",
+      "tags": ["世界自然遺產", "山毛櫸林", "原生林", "暗門瀑布"],
+      "sources": ["https://ja.wikipedia.org/wiki/白神山地"],
+      "confidence": "high",
+      "prompt_en": "Dense primeval beech forest with pale trunks and bright translucent green canopy, early summer after rain, soft misty light, foreground fern-covered forest floor, midground tall slender trunks, background faint mountain ridge in haze, no text, no signs, no recognizable people"
+    },
+    {
+      "title_zh": "酸湯溫泉",
+      "title_ja": "酸ヶ湯温泉",
+      "category": "溫泉",
+      "area_zh": "青森市（八甲田山麓）",
+      "summary_zh": "八甲田山麓強酸性溫泉，檜木建的千人風呂",
+      "body_zh": "酸湯溫泉位於青森市八甲田山山麓，自青森站搭JR巴士約1.5小時可達。泉質為酸性硫磺泉，pH低於2.0，源泉溫度48至64度，名稱由「鹿之湯」演變而來。代表設施是全檜木建造的「檜木千人風呂」，設有兩個大浴池與瀑布浴，混浴區以中間隔板分隔男女。1684年開湯，1954年與四万、日光湯元同列首批國民保養溫泉地，冬季年積雪量達1,706公分。",
+      "facts": [
+        {"label": "所在地", "value": "青森縣青森市（八甲田山麓）"},
+        {"label": "開創／成因", "value": "1684年開湯，酸性硫磺泉，pH低於2.0"},
+        {"label": "看點", "value": "檜木千人風呂、冬季深雪"}
+      ],
+      "best_season_zh": "冬季（積雪）與秋季",
+      "tips_zh": "冬季嚴寒且積雪極深，行程請預留彈性並查看道路與巴士狀況。強酸泉對皮膚刺激較大，入浴時間不宜過長。",
+      "tags": ["強酸泉", "千人風呂", "八甲田", "雪國"],
+      "sources": ["https://ja.wikipedia.org/wiki/酸ヶ湯温泉"],
+      "confidence": "high",
+      "prompt_en": "Old wooden hot spring lodge on a mountain slope buried in deep snow, steam rising from the bathhouse roof, quiet winter dusk with warm lit windows, foreground snowbank edge, midground wooden building, background snowy mountain slope, no text, no signs, no recognizable people"
+    },
+    {
+      "title_zh": "三內丸山遺跡",
+      "title_ja": "三内丸山遺跡",
+      "category": "城郭史蹟",
+      "area_zh": "青森市",
+      "summary_zh": "約5,900年前起的繩文大型聚落，世界遺產",
+      "body_zh": "三內丸山遺跡位於青森市，是繩文時代約5,900至4,200年前的大型聚落，面積約40公頃，已確認的建築遺跡超過780處。2021年作為「北海道・北東北的繩文遺跡群」的一部分登錄世界遺產。園區重建有不同屋頂的豎穴住居、高床倉庫，以及柱間距一致、顯示當時已具測量技術的六柱建築，另有環狀石陣墓地。出土品包含土偶與玉器，顯示與糸魚川等遠方存在交易。2019年起改為收費入場。",
+      "facts": [
+        {"label": "所在地", "value": "青森縣青森市"},
+        {"label": "開創／成因", "value": "繩文時代約5,900至4,200年前的聚落，2021年登錄世界遺產"},
+        {"label": "看點", "value": "六柱建築、重建豎穴住居、高床倉庫、繩文時遊館"}
+      ],
+      "best_season_zh": "春夏秋季",
+      "tips_zh": "園區內設有「繩文時遊館」展示出土品，可先看展覽再走園區。入場需付費，開放時間與票價請以官方資訊為準。",
+      "tags": ["繩文", "世界遺產", "聚落遺跡", "豎穴住居"],
+      "sources": ["https://ja.wikipedia.org/wiki/三内丸山遺跡"],
+      "confidence": "high",
+      "prompt_en": "Reconstructed Jomon-period settlement with large wooden pillar structure and thatched pit dwellings on a grassy plain, clear summer afternoon, warm side light, foreground short grass, midground thatched huts, background tall timber pillars and blue sky, no text, no signs, no recognizable people"
+    },
+    {
+      "title_zh": "恐山",
+      "title_ja": "恐山",
+      "category": "神社寺院",
+      "area_zh": "むつ市（下北半島）",
+      "summary_zh": "日本三大靈場之一，宇曾利山湖畔的火山靈地",
+      "body_zh": "恐山位於下北半島的むつ市，是一座活火山，名稱由舊稱「宇曾利山」逐漸轉為「恐」。山中的恐山菩提寺位於火口湖宇曾利山湖畔，本尊為地藏菩薩，與高野山、比叡山並稱日本三大靈場，吸引不少為亡者祈福的信眾。火山氣體仍在噴出，硫磺氣使地面荒蕪，被視為地獄的意象。境內有四處免費溫泉，7月與秋季大祭期間有口寄（イタコ）降靈。開放期間為5月1日至10月31日，可從下北站搭巴士前往。",
+      "facts": [
+        {"label": "所在地", "value": "青森縣むつ市（下北半島）"},
+        {"label": "開創／成因", "value": "活火山地形，硫磺氣體形成荒蕪地面，宇曾利山湖畔建有菩提寺"},
+        {"label": "看點", "value": "宇曾利山湖、地獄意象的火山地形、境內溫泉、大祭"}
+      ],
+      "best_season_zh": "5月至10月開山期，7月與秋季大祭",
+      "tips_zh": "只在5月1日至10月31日開山，從下北站有巴士前往。境內為宗教靈場，請保持肅靜並尊重祈禱者。",
+      "tags": ["靈場", "火山", "宇曾利山湖", "地藏"],
+      "sources": ["https://ja.wikipedia.org/wiki/恐山"],
+      "confidence": "medium",
+      "prompt_en": "Barren sulfur-stained volcanic ground with pale grey stones beside a still pale-blue caldera lake, quiet overcast summer morning, thin mist and faint steam, foreground gray gravel and small pinwheels in the wind, midground lakeshore, background low mountain ridge, no text, no signs, no recognizable people"
+    },
+    {
+      "title_zh": "龍飛崎",
+      "title_ja": "龍飛崎",
+      "category": "海島海岸",
+      "area_zh": "外濱町（津輕半島北端）",
+      "summary_zh": "津輕半島最北端，隔津輕海峽遙望北海道",
+      "body_zh": "龍飛崎位於津輕半島北端的外濱町，伸入津輕海峽，與北海道白神岬相距約19.5公里。岬角地質為中新世的英安岩與安山岩火山碎屑岩。岬上有龍飛燈塔，是觀察候鳥遷徙的地點，青函隧道從海峽地底穿過，附近設有青函隧道紀念館。獨特的「階梯國道」國道339號也在此。太宰治曾在遊記中描寫這座偏遠漁村，石川小百合的名曲也唱到這片海岬。",
+      "facts": [
+        {"label": "所在地", "value": "青森縣外濱町（津輕半島北端）"},
+        {"label": "開創／成因", "value": "中新世火山碎屑岩構成的岬角，面向津輕海峽"},
+        {"label": "看點", "value": "龍飛燈塔、階梯國道、青函隧道紀念館"}
+      ],
+      "best_season_zh": "春秋季（候鳥）、晴天",
+      "tips_zh": "海岬風大，天氣不佳時浪頭與風勢都強，穿著需防風。可從三廄站搭外濱町巡迴巴士前往，約40分鐘。",
+      "tags": ["岬角", "津輕海峽", "燈塔", "階梯國道"],
+      "sources": ["https://ja.wikipedia.org/wiki/龍飛崎"],
+      "confidence": "high",
+      "prompt_en": "Windswept cape with a small white lighthouse on a grassy rocky headland above a deep blue strait, clear autumn afternoon, strong side light with scattered clouds, foreground grass bending in wind, midground rocky cliff and lighthouse, background open sea and distant faint coastline, no text, no signs, no recognizable people"
+    },
+    {
+      "title_zh": "睡魔之家 Wa Rasse",
+      "title_ja": "ねぶたの家 ワ・ラッセ",
+      "category": "主題設施",
+      "area_zh": "青森市（青森站前）",
+      "summary_zh": "展示青森睡魔祭大型花燈的市營博物館",
+      "body_zh": "ねぶたの家 ワ・ラッセ位於青森市安方，緊鄰青森站所在的海濱區，2011年1月5日開館，是青森市首間由市政營運、與睡魔祭相關的博物館。館內以展示與保存青森睡魔祭傳統為主，睡魔大廳陳列大型睡魔花燈，另有歷史展示、學習資料，以及可體驗的「睡魔檢定」等互動活動，並設有表演與活動空間。無論祭典季節與否，都能近距離了解這項地方祭典。",
+      "facts": [
+        {"label": "所在地", "value": "青森縣青森市安方，青森站前海濱區"},
+        {"label": "開創／成因", "value": "2011年1月5日開館，市營睡魔祭博物館"},
+        {"label": "看點", "value": "睡魔大廳的大型花燈、歷史展示、互動體驗"}
+      ],
+      "best_season_zh": "全年（祭典期間另有活動）",
+      "tips_zh": "位置緊鄰青森站，適合作為抵達或離開青森的順路行程。票價與開館時間請以官方網站為準。",
+      "tags": ["睡魔祭", "博物館", "青森站前", "花燈"],
+      "sources": ["https://ja.wikipedia.org/wiki/ねぶたの家_ワ・ラッセ"],
+      "confidence": "medium",
+      "prompt_en": "Interior of a modern festival museum hall displaying giant illuminated paper lantern floats of warriors in vivid red, blue and gold, dramatic warm spotlighting, foreground polished floor with soft reflections, midground huge lantern float, background dark hall ceiling, no text, no signs, no recognizable people"
+    }
+  ]
+}

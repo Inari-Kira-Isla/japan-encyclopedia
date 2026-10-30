@@ -1,0 +1,157 @@
+{
+  "id": "yamaguchi",
+  "spots": [
+    {
+      "title_zh": "錦帶橋",
+      "title_ja": "錦帯橋",
+      "category": "庭園公園",
+      "area_zh": "岩國市",
+      "summary_zh": "錦川上的五連木造拱橋",
+      "body_zh": "錦帶橋橫跨岩國市的錦川，是由五個拱形連成的木造橋，全長約193.3公尺、寬約5公尺，被稱為日本三名橋、日本三大奇橋。橋身以榫接組合木材，再用鐵帶固定，是世界罕見的木造拱橋。據載創建於1673年，靈感來自杭州西湖的連拱橋。橋畔吉香公園與橋同為賞櫻名所，已被指定為名勝。看點是弧線優美的橋影倒映在錦川水面，四季各有風情。",
+      "facts": [
+        {"label": "所在地", "value": "山口縣岩國市錦川，吉香公園旁"},
+        {"label": "開創／成因", "value": "1673年創建，據說受杭州西湖連拱橋啟發"},
+        {"label": "看點", "value": "五連木造拱橋、賞櫻、名勝指定"}
+      ],
+      "best_season_zh": "春（櫻）",
+      "tips_zh": "過橋需付通行費，詳細金額與開放時間出發前請查官方網站；橋周邊可同遊吉香公園與岩國城。",
+      "tags": ["木橋", "日本三名橋", "賞櫻", "名勝"],
+      "sources": ["https://ja.wikipedia.org/wiki/錦帯橋"],
+      "confidence": "high",
+      "prompt_en": "Five-arch wooden bridge crossing a wide clear river, reflection of the arches in the calm water, cherry blossoms along the bank, green hill with a castle keep on top in the far background, soft spring morning light, no text, no signs, no recognizable people"
+    },
+    {
+      "title_zh": "秋吉台",
+      "title_ja": "秋吉台",
+      "category": "山岳高原",
+      "area_zh": "美祢市",
+      "summary_zh": "日本最大喀斯特台地草原",
+      "body_zh": "秋吉台位於美祢市，是日本最大的喀斯特台地，南北向約16公里、寬約6公里，台地標高180至420公尺，與平尾台、四國喀斯特並稱日本三大喀斯特。地表散布無數石灰岩柱與稱為「擂缽穴」的凹地，地下則有秋芳洞等四百多處鍾乳洞。東側部分為特別天然記念物與國定公園，大片草原上石灰岩如羊群般散落，四季草色不同，適合沿道路或步道眺望。",
+      "facts": [
+        {"label": "所在地", "value": "山口縣美祢市中東部"},
+        {"label": "開創／成因", "value": "石灰岩台地受雨水溶蝕形成喀斯特地形，地下有鍾乳洞群"},
+        {"label": "看點", "value": "草原上的石灰岩柱群、擂缽穴凹地、特別天然記念物"}
+      ],
+      "best_season_zh": "春季新綠與夏季草原；秋季草色轉金",
+      "tips_zh": "台地範圍廣，自駕或搭觀光巴士較方便；可與秋芳洞同一天安排。風大日曬強，請做好防曬並帶外套。",
+      "tags": ["喀斯特", "草原", "特別天然記念物", "國定公園"],
+      "sources": ["https://ja.wikipedia.org/wiki/秋吉台"],
+      "confidence": "high",
+      "prompt_en": "Vast rolling karst plateau grassland dotted with weathered white limestone rocks like scattered sheep, a winding country road crossing the slope, wide sky with soft clouds, late afternoon golden light, no text, no signs, no recognizable people"
+    },
+    {
+      "title_zh": "秋芳洞",
+      "title_ja": "秋芳洞",
+      "category": "自然絕景",
+      "area_zh": "美祢市",
+      "summary_zh": "日本最大規模的鍾乳洞",
+      "body_zh": "秋芳洞位於秋吉台地下100至200公尺，是日本最大規模的鍾乳洞之一，開放的觀光路線約1公里，洞中有地下河流過。洞窟總延長在2016年的測量中達10,300公尺，居日本第3位。1922年被指定為國家天然記念物，1952年升格為特別天然記念物。洞內有層層疊疊的石灰華梯田、巨大石柱和各式鍾乳石，光線打在岩壁上別有氣氛。洞溫涼爽，夏季尤其舒適。",
+      "facts": [
+        {"label": "所在地", "value": "山口縣美祢市東部，秋吉台地下"},
+        {"label": "開創／成因", "value": "石灰岩溶蝕形成；1952年指定特別天然記念物"},
+        {"label": "看點", "value": "約1公里觀光路線、地下河、鍾乳石與石灰華"}
+      ],
+      "best_season_zh": "全年；夏季洞內涼爽",
+      "tips_zh": "洞內濕滑，請穿防滑好走的鞋並帶薄外套保暖。入洞費、開放時間與營運狀況，出發前請至官方網站確認。",
+      "tags": ["鍾乳洞", "特別天然記念物", "地下河", "喀斯特"],
+      "sources": ["https://ja.wikipedia.org/wiki/秋芳洞"],
+      "confidence": "high",
+      "prompt_en": "Inside a vast limestone cave, tiered stone terraces filled with shallow turquoise water, towering stalagmite pillars lit by warm indirect lights, dark rock ceiling with hanging stalactites, long exposure smooth water, no text, no signs, no recognizable people"
+    },
+    {
+      "title_zh": "元乃隅神社",
+      "title_ja": "元乃隅神社",
+      "category": "神社寺院",
+      "area_zh": "長門市",
+      "summary_zh": "海岸崖邊的朱紅鳥居隧道",
+      "body_zh": "元乃隅神社位於長門市油谷津黃的日本海沿岸，原稱元乃隅稻成神社。1955年當地網元岡村齊夢見白狐託夢，要求在此祭祀而創建，供奉的是稻荷神。1987年起歷時10年陸續奉納了123座朱紅鳥居，沿著山坡一路連向海邊，如同隧道。神社下方海蝕洞受浪衝擊時，海水會隨空氣噴出，稱為「龍宮之潮吹」。鳥居列與海岸景色相連，景色獨特。",
+      "facts": [
+        {"label": "所在地", "value": "山口縣長門市油谷津黃，日本海沿岸"},
+        {"label": "開創／成因", "value": "1955年網元岡村齊聲稱白狐託夢而建；1987年起奉納123座鳥居"},
+        {"label": "看點", "value": "朱紅鳥居隧道、龍宮之潮吹、海岸斷崖景觀"}
+      ],
+      "best_season_zh": "晴天傍晚；海面湛藍的春夏",
+      "tips_zh": "屬私人神社，請遵守參拜禮儀與現場告示。停車位有限，假日易擁擠；風浪大時請遠離崖邊。",
+      "tags": ["鳥居", "稻荷", "日本海", "斷崖"],
+      "sources": ["https://ja.wikipedia.org/wiki/元乃隅神社"],
+      "confidence": "medium",
+      "prompt_en": "Long tunnel of vermilion torii gates descending a green hillside toward the sea, a rugged coastal cliff and deep blue Sea of Japan beyond, bright afternoon sun with long shadows, no text, no signs, no recognizable people"
+    },
+    {
+      "title_zh": "角島大橋",
+      "title_ja": "角島大橋",
+      "category": "海島海岸",
+      "area_zh": "下關市",
+      "summary_zh": "橫越翡翠藍海面的跨海大橋",
+      "body_zh": "角島大橋連接下關市豐北町的本土與角島，跨越海士瀨戶，全長1,780公尺，1993年動工，2000年11月3日通車。橋梁避開鳩島並配合北長門海岸國定公園的景觀設計，2003年獲土木學會設計賞優秀賞。橋兩側的海水常呈翡翠綠與鈷藍色，成為山口縣新的觀光名所，也常被汽車廣告選為拍攝地。時速限制40公里，強風時一般車輛禁止通行，建議挑天氣晴朗時前往。",
+      "facts": [
+        {"label": "所在地", "value": "山口縣下關市豐北町神田至角島，海士瀨戶"},
+        {"label": "開創／成因", "value": "1993年動工、2000年11月3日通車，全長1,780公尺"},
+        {"label": "看點", "value": "翡翠綠與鈷藍的海面、長橋弧線、周邊海岸"}
+      ],
+      "best_season_zh": "晴天的夏季；海色最藍的時段",
+      "tips_zh": "強風時一般車輛封橋，出發前確認天氣與通行情況；橋上限速40公里，停車請利用橋邊指定停車場。",
+      "tags": ["跨海大橋", "翡翠海", "北長門海岸", "角島"],
+      "sources": ["https://ja.wikipedia.org/wiki/角島大橋"],
+      "confidence": "high",
+      "prompt_en": "Long gently curving sea bridge crossing emerald and cobalt blue shallow water toward a green island, white sandy shallows along the edges, clear summer sky, aerial angle from a nearby hill, no text, no signs, no recognizable people, no vehicles in focus"
+    },
+    {
+      "title_zh": "萩城下町",
+      "title_ja": "萩城下町",
+      "category": "街區古鎮",
+      "area_zh": "萩市",
+      "summary_zh": "長州藩城下町，世界遺產之一",
+      "body_zh": "萩城下町是長州藩的城下町。1604年關原之戰後被削減為周防、長門兩國的毛利輝元，在指月山築萩城，並同步規劃城下町。如今萩城跡與城下町為國家史蹟，堀內地區為重要傳統建築物群保存地區，並與「明治日本的產業革命遺產」一同列入世界文化遺產。漫步在武家屋敷與白壁街道之間，能感受江戶時代的城下町佈局，也是了解幕末維新歷史的起點。",
+      "facts": [
+        {"label": "所在地", "value": "山口縣萩市，指月山周邊"},
+        {"label": "開創／成因", "value": "1604年毛利輝元築萩城並建設城下町"},
+        {"label": "看點", "value": "堀內地區武家屋敷、萩城跡、世界遺產構成資產"}
+      ],
+      "best_season_zh": "春秋；夏季遊客較少",
+      "tips_zh": "街區可步行或租自行車遊覽，建議安排半天以上。部分設施的休館日與費用出發前請確認。",
+      "tags": ["城下町", "武家屋敷", "世界遺產", "幕末"],
+      "sources": ["https://ja.wikipedia.org/wiki/萩城下町"],
+      "confidence": "medium",
+      "prompt_en": "Quiet old castle-town street between white plaster walls with gray tiled caps, overhanging citrus tree branches, stone-paved lane stretching into the distance, soft overcast morning light, no text, no signs, no recognizable people"
+    },
+    {
+      "title_zh": "長門湯本溫泉",
+      "title_ja": "長門湯本温泉",
+      "category": "溫泉",
+      "area_zh": "長門市",
+      "summary_zh": "防長四湯之一，河畔溫泉街",
+      "body_zh": "長門湯本溫泉位於山口縣北部長門市，是山口縣代表性的「防長四湯」之一，泉質為鹼性單純泉。據傳開湯於室町時代的1427年，由大寧寺住持受住吉大明神神諭而發現，江戶時代長州藩主也曾來此湯治。近年進行觀光街區重整，2020年共同浴場「恩湯」改裝重新開幕，並獲純溫泉認定。河畔有步道與新建設施，傍晚點燈時的溫泉街格外有氛圍。",
+      "facts": [
+        {"label": "所在地", "value": "山口縣長門市，音信川沿岸"},
+        {"label": "開創／成因", "value": "1427年由大寧寺住持依神諭發現；泉質為鹼性單純泉"},
+        {"label": "看點", "value": "共同浴場恩湯、河畔溫泉街、防長四湯之一"}
+      ],
+      "best_season_zh": "秋冬；傍晚點燈時",
+      "tips_zh": "可與元乃隅神社安排同一趟長門行程。共同浴場的營業時間與費用請出發前查詢官方資訊。",
+      "tags": ["溫泉", "防長四湯", "溫泉街", "長州藩"],
+      "sources": ["https://ja.wikipedia.org/wiki/長門湯本温泉"],
+      "confidence": "medium",
+      "prompt_en": "Riverside hot spring town at dusk, warm lantern light glowing along a quiet river path, traditional wooden bathhouse buildings and a small bridge, steam rising gently, forested hills behind, no text, no signs, no recognizable people"
+    },
+    {
+      "title_zh": "瑠璃光寺五重塔",
+      "title_ja": "瑠璃光寺五重塔",
+      "category": "神社寺院",
+      "area_zh": "山口市",
+      "summary_zh": "大內文化代表，國寶五重塔",
+      "body_zh": "瑠璃光寺五重塔位於山口市香山町香山公園內，是大內文化的代表作，被列為國寶。高31.2公尺，屋頂為檜皮葺，建於嘉吉2年（1442年）前後，原是大內盛見為悼念戰死的兄長大內義弘而興建。僅二層設有迴廊，整體為和樣並融入禪宗樣式，與醍醐寺、法隆寺的五重塔並稱日本三名塔。塔與池塘、櫻花與紅葉相映成趣，夜間日沒至22時有點燈。",
+      "facts": [
+        {"label": "所在地", "value": "山口縣山口市香山町，香山公園內"},
+        {"label": "開創／成因", "value": "大內盛見為悼念兄長義弘而興建，約1442年完成"},
+        {"label": "看點", "value": "高31.2公尺檜皮葺五重塔、夜間點燈、櫻與紅葉"}
+      ],
+      "best_season_zh": "春季櫻花與秋季紅葉",
+      "tips_zh": "塔身周邊可環池拍攝倒影；寺院正進行大修，部分區域與開放狀況請出發前確認官方公告。",
+      "tags": ["國寶", "五重塔", "大內氏", "夜間點燈"],
+      "sources": ["https://ja.wikipedia.org/wiki/瑠璃光寺"],
+      "confidence": "high",
+      "prompt_en": "Elegant five-story wooden pagoda with cypress-bark roofs standing beside a still pond, reflection in the water, cherry blossoms or red maples framing the tower, soft twilight sky, gentle lantern glow, no text, no signs, no recognizable people"
+    }
+  ]
+}

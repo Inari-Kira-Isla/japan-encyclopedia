@@ -1,0 +1,149 @@
+{
+ "id": "gifu",
+ "foods": [
+  {
+   "title_zh": "朴葉味噌",
+   "title_ja": "朴葉味噌",
+   "category": "鄉土料理",
+   "summary_zh": "把味噌放在朴樹葉上烤香，飛驒的早餐配飯名物。",
+   "body_zh": "朴葉味噌是岐阜縣北部飛驒地區的鄉土料理，確切起源不明，相傳冬季人們在爐邊把味噌放在朴樹葉上加熱。以自家味噌混合蔥與山菜、香菇等，放在朴葉上用桌上爐火烤香，作為配飯小菜。現今也有加蔬菜或肉做成主菜的版本，飛驒的許多旅館在早餐供應，並獲2019年米其林指南特別版推薦。",
+   "facts": [
+    {"label": "起源", "value": "確切不明，傳說冬季在爐邊烤味噌"},
+    {"label": "主要食材", "value": "味噌、朴葉、蔥、香菇、山菜"},
+    {"label": "吃法", "value": "在桌上爐火烤香，配白飯"}
+   ],
+   "season_zh": "全年，冬季尤佳",
+   "where_zh": "高山、飛驒地區的旅館早餐與鄉土料理店",
+   "tags": ["鄉土料理", "味噌", "朴葉", "飛驒"],
+   "sources": ["https://ja.wikipedia.org/wiki/朴葉味噌"],
+   "confidence": "medium",
+   "prompt_en": "A large dried magnolia hoba leaf on a small tabletop charcoal burner, topped with bubbling miso mixed with scallion and shiitake slices, a bowl of white rice beside, dark wooden table, warm glowing light, no text"
+  },
+  {
+   "title_zh": "飛驒牛",
+   "title_ja": "飛騨牛",
+   "category": "肉類",
+   "summary_zh": "岐阜縣內飼養14個月以上的黑毛和牛，已登錄GI。",
+   "body_zh": "飛驒牛須為黑毛和種，在岐阜縣內飼育14個月以上，並符合肉質等級3以上、產肉等級A或B的條件。飛驒地區自古小規模養牛，1977年以「岐阜牛」推動品牌化，1984年註冊「飛驒牛」商標，1988年正式定為全國性品牌。1981年引進的種公牛「安福號」貢獻很大，2023年登錄為地理標示（GI）保護制度。肉質細緻、油花均勻。",
+   "facts": [
+    {"label": "起源", "value": "1977年岐阜牛，1984年註冊飛驒牛商標"},
+    {"label": "主要食材", "value": "黑毛和種，岐阜縣內飼育14個月以上"},
+    {"label": "吃法", "value": "壽喜燒、燒肉、握壽司、朴葉味噌燒"}
+   ],
+   "season_zh": "全年",
+   "where_zh": "高山、飛驒古川的燒肉店與牛肉料理店",
+   "tags": ["和牛", "黑毛和種", "GI", "飛驒"],
+   "sources": ["https://ja.wikipedia.org/wiki/飛騨牛"],
+   "confidence": "medium",
+   "prompt_en": "A small plate of marbled Hida beef slices lightly seared, fine white fat marbling visible, with a tiny mound of salt and wasabi, on a dark ceramic plate, dark wooden table, warm moody side light, single dish, no text"
+  },
+  {
+   "title_zh": "雞ちゃん",
+   "title_ja": "鶏ちゃん",
+   "category": "B級美食",
+   "summary_zh": "醬油或味噌醃漬後煎烤的一口大雞肉，岐阜庶民名物。",
+   "body_zh": "鶏ちゃん是岐阜縣的雞肉料理，戰後農家要處理退役的蛋雞而產生，1960年代起經由肉店與居酒屋商品化。將雞肉切成一口大小，以醬油或味噌醬加蒜、薑醃漬後煎烤，部分版本會加入雞內臟。主要流行於郡上市、下呂市與中津川市北部，2007年成立飛驒美濃鶏ちゃん協同組合推廣，原本是家庭的節日菜，現已成為地方品牌。",
+   "facts": [
+    {"label": "起源", "value": "戰後農家處理退役蛋雞，1960年代商品化"},
+    {"label": "主要食材", "value": "雞肉、醬油或味噌醃醬、蒜、薑、高麗菜"},
+    {"label": "吃法", "value": "鐵板煎烤，配高麗菜與啤酒"}
+   ],
+   "season_zh": "全年",
+   "where_zh": "郡上、下呂、中津川北部的食堂與居酒屋",
+   "tags": ["B級美食", "雞肉", "郡上", "下呂"],
+   "sources": ["https://ja.wikipedia.org/wiki/鶏ちゃん"],
+   "confidence": "medium",
+   "prompt_en": "A sizzling iron skillet of keichan, bite-sized chicken pieces glazed in soy-miso sauce with cabbage, glistening and lightly charred, steam rising, on a rustic wooden table, warm light, single dish, no text"
+  },
+  {
+   "title_zh": "栗金團",
+   "title_ja": "栗きんとん",
+   "category": "甜點和菓子",
+   "summary_zh": "中津川、惠那名物，把煮栗加糖用茶巾擰成的秋季和菓子。",
+   "body_zh": "栗きんとん是岐阜縣東濃地方的名物，據說江戶中期中津川宿曾用來招待旅人，另有說法是八百津町的綠屋老舖大正時代商品化。作法是把煮過的栗子加砂糖，用茶巾擰成形，材料只有栗與糖，鬆軟細緻。過去用惠那栗，現在常需外縣產栗子。保存期限約3天，多數店家只在9月1日到隔年1月前後販售。",
+   "facts": [
+    {"label": "起源", "value": "江戶中期中津川宿，另有大正時代商品化之說"},
+    {"label": "主要食材", "value": "栗子與砂糖"},
+    {"label": "吃法", "value": "搭配日本茶，賞味期限約3天"}
+   ],
+   "season_zh": "9月至隔年1月",
+   "where_zh": "中津川、惠那的老舖和菓子店",
+   "tags": ["和菓子", "栗子", "中津川", "秋季"],
+   "sources": ["https://ja.wikipedia.org/wiki/栗きんとん"],
+   "confidence": "medium",
+   "prompt_en": "Two chestnut kinton sweets shaped by cloth squeezing, pale golden swirled surface with a pointed top, on a small ceramic plate, a cup of green tea blurred beside, light wooden table, soft natural light, no text"
+  },
+  {
+   "title_zh": "長良川香魚",
+   "title_ja": "長良川の鮎",
+   "category": "海鮮",
+   "summary_zh": "長良川鵜飼聞名的香魚，以鹽燒配蓼醋最經典。",
+   "body_zh": "岐阜縣的長良川以利用鸕鷀捕魚的鵜飼聞名，香魚是夏季的代表食材。垂釣解禁期約為6月到10月。初夏的香魚帶有獨特香氣，最常見的做法是鹽燒，以蓼醋蘸食；晚夏則是享用魚卵的時節，夏夜看鵜飼再配上鹽燒香魚，是岐阜最具代表的夏日風情。此條只核實了鵜飼、解禁期與吃法，長良川香魚的品牌歷史未能確認。",
+   "facts": [
+    {"label": "起源", "value": "長良川鵜飼漁法與香魚漁（品牌歷史未核實）"},
+    {"label": "主要食材", "value": "香魚，鹽、蓼醋"},
+    {"label": "吃法", "value": "鹽燒配蓼醋"}
+   ],
+   "season_zh": "6-10月，初夏重香氣，晚夏有魚卵",
+   "where_zh": "岐阜市長良川沿岸的旅館與料亭",
+   "tags": ["香魚", "鵜飼", "長良川", "夏季"],
+   "sources": ["https://ja.wikipedia.org/wiki/アユ"],
+   "confidence": "low",
+   "prompt_en": "A single salt-grilled ayu sweetfish on a long rectangular plate, skewered in a curved swimming pose with salt crust and charred fins, a small dish of tade vinegar beside, dark slate tray, soft light, no text"
+  },
+  {
+   "title_zh": "高山拉麵",
+   "title_ja": "高山ラーメン",
+   "category": "麵飯",
+   "summary_zh": "雞骨醬油湯底配極細捲麵的飛驒高山「中華そば」。",
+   "body_zh": "高山ラーメン起源於昭和初期的岐阜縣高山市，當地稱為「中華そば」。特徵是以雞骨為基底的清爽醬油湯，搭配極細的捲曲麵條。與一般拉麵湯和醬汁分開製作不同，這裡會在煮的時候把兩者合在一起。湯頭清澈、麵條纖細，口味清爽，常見配料有叉燒、筍乾與蔥花。各店的味道和配料各異，2015年市內約有30家拉麵店。",
+   "facts": [
+    {"label": "起源", "value": "昭和初期（1920-30年代）高山市"},
+    {"label": "主要食材", "value": "雞骨醬油湯、極細捲麵"},
+    {"label": "吃法", "value": "熱湯麵，配蔥與叉燒"}
+   ],
+   "season_zh": "全年",
+   "where_zh": "高山市老街與車站周邊的拉麵店",
+   "tags": ["拉麵", "中華そば", "高山", "醬油"],
+   "sources": ["https://ja.wikipedia.org/wiki/高山ラーメン"],
+   "confidence": "medium",
+   "prompt_en": "A bowl of Takayama ramen, clear brown soy broth with thin curly noodles, sliced pork, menma and chopped scallion, in a simple white ceramic bowl, rustic wooden counter, soft window light, steam, no text"
+  },
+  {
+   "title_zh": "堂上蜂屋柿",
+   "title_ja": "堂上蜂屋柿",
+   "category": "特產食材",
+   "summary_zh": "美濃加茂產的大顆乾柿，歷史上曾進獻貴族。",
+   "body_zh": "堂上蜂屋柿產於岐阜縣美濃加茂市，是果實大、種子少的澀柿，製成柿乾以提高甜度與保存性。相傳瑞林寺二代住持曾把它獻給將軍足利義輝並獲賜寺領，後來又獻給豐臣秀吉。1904年聖路易斯萬國博覽會上受到國際肯定，但《蜂屋柿由來略書》的史料可信度缺乏學術佐證。",
+   "facts": [
+    {"label": "起源", "value": "傳說進獻足利義輝、豐臣秀吉；史料可信度存疑"},
+    {"label": "主要食材", "value": "蜂屋柿（大型澀柿）曬成柿乾"},
+    {"label": "吃法", "value": "直接當點心或搭配日本茶"}
+   ],
+   "season_zh": "晚秋採收曬製，冬季販售",
+   "where_zh": "美濃加茂市的農家與直賣所",
+   "tags": ["柿乾", "美濃加茂", "冬季", "進獻品"],
+   "sources": ["https://ja.wikipedia.org/wiki/堂上蜂屋柿"],
+   "confidence": "medium",
+   "prompt_en": "A string of large sun-dried Hachiya persimmons hanging from a rope under traditional wooden eaves, amber-orange wrinkled skin with a pale sugar bloom, soft winter daylight, shallow depth, no text"
+  },
+  {
+   "title_zh": "白川鄉濁酒",
+   "title_ja": "白川郷のどぶろく",
+   "category": "酒與飲品",
+   "summary_zh": "白川村神社每年10月祭典中供應的傳統濁酒。",
+   "body_zh": "白川郷のどぶろく祭り每年10月在岐阜縣白川村的多座神社舉行，包括飯島八幡神社、白川八幡神社與鳩谷八幡神社，在祭典中請參拜者飲用どぶろく。どぶろく是日本傳統的濁酒，是神聖儀式的一部分。此條僅核實祭典時間與場所，其起源由來、酒的製法與味道未能在已開啟的頁面找到，故信心度為低。",
+   "facts": [
+    {"label": "起源", "value": "祭典由來未能核實"},
+    {"label": "主要食材", "value": "米、麴（一般濁酒，村內細節未核實）"},
+    {"label": "吃法", "value": "祭典中供參拜者飲用"}
+   ],
+   "season_zh": "10月祭典期間",
+   "where_zh": "白川村各八幡神社祭典",
+   "tags": ["濁酒", "白川鄉", "祭典", "神社"],
+   "sources": ["https://ja.wikipedia.org/wiki/どぶろく祭り"],
+   "confidence": "low",
+   "prompt_en": "A white ceramic sake cup filled with cloudy milky-white doburoku, beside a small wooden ladle and a ceramic jug on a dark wooden tray, a thatched gassho-style roof softly blurred in the background, autumn light, no text"
+  }
+ ]
+}

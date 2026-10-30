@@ -1,0 +1,277 @@
+{
+ "id": "toyama",
+ "foods": [
+  {
+   "title_zh": "鱒壽司",
+   "title_ja": "ますのすし",
+   "category": "鄉土料理",
+   "summary_zh": "竹葉包裹、木框壓製的富山代表駅弁壽司。",
+   "body_zh": "鱒壽司是以醋飯與鹽漬鱒魚壓製而成的早壽司，放進圓形木框、以竹葉輻射狀鋪底，是以神通川流域為中心的富山名物。起源有江戶時代獻給將軍的說法，也有神社春祭供奉初獲鱒魚的說法，並無定論。1912年起作為車站便當販售而聞名全國。吃的時候揭開木蓋，連竹葉一起放射狀切開，現今多用外國或北海道產鮭鱒。",
+   "facts": [
+    {
+     "label": "起源",
+     "value": "江戶時代，確切由來有多說"
+    },
+    {
+     "label": "主要食材",
+     "value": "醋飯、鱒魚（現多為鮭鱒類）、竹葉"
+    },
+    {
+     "label": "吃法",
+     "value": "連竹葉放射狀切開"
+    }
+   ],
+   "season_zh": "全年",
+   "where_zh": "富山市神通川流域的壽司老店與車站便當",
+   "tags": [
+    "鄉土",
+    "壽司",
+    "駅弁",
+    "竹葉"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/鱒寿司"
+   ],
+   "confidence": "medium",
+   "prompt_en": "A round wooden bentwood box of masuzushi pressed trout sushi, pink vinegared trout slices over rice, lined with radial green bamboo leaves, one slice cut out, on a plain wooden table, soft daylight, no text"
+  },
+  {
+   "title_zh": "富山灣白蝦",
+   "title_ja": "白えび（シラエビ）",
+   "category": "海鮮",
+   "summary_zh": "僅在富山灣商業捕撈的透明小蝦，號稱灣之寶石。",
+   "body_zh": "白蝦學名雖與標準和名「シロエビ」不同，但在富山一般稱為白えび。牠棲息於神通川、庄川入海處的深海谷「藍瓶」一帶，商業捕撈只在富山灣進行，1996年與鰤魚、螢烏賊一同被指定為「富山縣之魚」，有「富山灣的寶石」之稱。常做成壽司料、天婦羅、昆布締，也有白蝦天丼和生魚片等新名物。",
+   "facts": [
+    {
+     "label": "產地",
+     "value": "富山灣（藍瓶海底谷一帶）"
+    },
+    {
+     "label": "主要食材",
+     "value": "白蝦"
+    },
+    {
+     "label": "吃法",
+     "value": "壽司、天婦羅、昆布締、刺身"
+    }
+   ],
+   "season_zh": "約4月下旬至9月底（漁期）",
+   "where_zh": "富山灣沿岸漁港（如新湊）與壽司店",
+   "tags": [
+    "海鮮",
+    "白蝦",
+    "富山灣",
+    "縣之魚"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/シラエビ"
+   ],
+   "confidence": "high",
+   "prompt_en": "A shallow black lacquer plate of translucent raw white shrimp from Toyama Bay arranged in a small neat mound, pearly pink-white, with a lemon wedge and a small dab of wasabi, dark slate table, soft side light, no text"
+  },
+  {
+   "title_zh": "富山黑拉麵",
+   "title_ja": "富山ブラック",
+   "category": "麵飯",
+   "summary_zh": "醬油極濃、粗黑胡椒的戰後勞工拉麵。",
+   "body_zh": "富山黑拉麵約在1955年於富山市中心誕生，據說是為戰後重建的年輕勞工提供的午餐，湯頭以濃縮醬油製成，也兼顧流汗後補充鹽分。特色是鹹味重、撒上大量粗黑胡椒，配粗麵、大量蔥與偏鹹的筍乾，份量較小，原本是配自帶白飯的配菜。雖作為地方美食推廣，也有不少人覺得過鹹。",
+   "facts": [
+    {
+     "label": "起源",
+     "value": "約1955年，富山市中心"
+    },
+    {
+     "label": "主要食材",
+     "value": "濃醬油湯、粗麵、蔥、筍乾、黑胡椒"
+    },
+    {
+     "label": "特色",
+     "value": "味道極鹹，配白飯吃"
+    }
+   ],
+   "season_zh": "全年",
+   "where_zh": "富山市內的拉麵店",
+   "tags": [
+    "拉麵",
+    "醬油",
+    "黑胡椒",
+    "B級"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/富山ブラック"
+   ],
+   "confidence": "high",
+   "prompt_en": "A bowl of Toyama Black ramen, very dark soy broth with thick noodles, bamboo shoots, a mound of chopped green onion and generous coarse black pepper, in a plain ceramic bowl on a dark counter, rising steam, warm light, no text"
+  },
+  {
+   "title_zh": "氷見寒鰤",
+   "title_ja": "氷見の寒ぶり",
+   "category": "海鮮",
+   "summary_zh": "冬季脂肥的鰤魚，是富山年末年初的象徵魚。",
+   "body_zh": "鰤魚是富山縣的象徵魚之一，旬在產卵前脂肪豐厚的冬季，此時的鰤魚特稱「寒鰤」。在以新湊、氷見為中心的富山縣西部，有年末年初吃鰤魚的習慣，女兒出嫁後第一個年底，還有向婆家贈送寒鰤作歲暮的風俗。可做刺身、照燒、鰤蘿蔔等，氷見品牌的具體漁期與認證，此處未核實。",
+   "facts": [
+    {
+     "label": "產地",
+     "value": "富山縣西部（新湊、氷見一帶）"
+    },
+    {
+     "label": "主要食材",
+     "value": "鰤魚（寒鰤）"
+    },
+    {
+     "label": "習俗",
+     "value": "年底贈寒鰤作歲暮"
+    }
+   ],
+   "season_zh": "冬季",
+   "where_zh": "氷見市、射水市新湊的漁港與鮮魚店",
+   "tags": [
+    "鰤魚",
+    "寒鰤",
+    "冬季",
+    "氷見"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/ブリ"
+   ],
+   "confidence": "medium",
+   "prompt_en": "Thick glossy slices of raw winter yellowtail sashimi, rich fatty pink flesh, fanned on a pale ceramic plate with shredded daikon and a shiso leaf, wooden table, soft natural window light, no text"
+  },
+  {
+   "title_zh": "螢烏賊",
+   "title_ja": "ホタルイカ（沖漬け）",
+   "category": "特產食材",
+   "summary_zh": "滑川一帶的發光小烏賊，春季限定。",
+   "body_zh": "螢烏賊主要用定置網在富山灣捕獲，每到春天成千上萬隻游近岸邊，被認為是富山灣獨特的現象，其產卵場於1952年被指定為特別天然紀念物，同時允許食用。富山傳統吃法有炒、煮、醋味噌涼拌與「沖漬」（調味液醃漬），也做刺身與天婦羅。生食有寄生蟲風險，須冷凍至零下30度4天以上或去除內臟。",
+   "facts": [
+    {
+     "label": "產地",
+     "value": "富山灣"
+    },
+    {
+     "label": "主要食材",
+     "value": "螢烏賊"
+    },
+    {
+     "label": "吃法",
+     "value": "沖漬、醋味噌、天婦羅、刺身（需先處理）"
+    }
+   ],
+   "season_zh": "2月至5月",
+   "where_zh": "滑川市、富山灣沿岸漁港",
+   "tags": [
+    "螢烏賊",
+    "春季",
+    "富山灣",
+    "沖漬"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/ホタルイカ"
+   ],
+   "confidence": "high",
+   "prompt_en": "A small white ceramic dish of okizuke marinated firefly squid, tiny dark glossy bodies with faint blue tint in soy-based marinade, a pinch of grated ginger, on a dark wooden table, soft side light, no text"
+  },
+  {
+   "title_zh": "昆布締め",
+   "title_ja": "昆布〆",
+   "category": "鄉土料理",
+   "summary_zh": "以昆布夾住刺身，吸水並轉移鮮味。",
+   "body_zh": "昆布締是富山、石川一帶的鄉土料理。江戶時代富山靠北前船大量消費北海道運來的昆布，這種保存法便是其應用之一。作法是將刺身輕鹽後擦乾，用醋紙擦過的昆布夾住，冷藏一兩天，魚的水分被昆布吸收，昆布的谷氨酸等鮮味轉移到魚肉。鯛魚、比目魚、鱸魚等白身魚最適合。",
+   "facts": [
+    {
+     "label": "起源",
+     "value": "北前船昆布貿易下的富山、石川"
+    },
+    {
+     "label": "主要食材",
+     "value": "昆布、白身魚刺身"
+    },
+    {
+     "label": "做法",
+     "value": "夾昆布冷藏1至2天"
+    }
+   ],
+   "season_zh": "全年",
+   "where_zh": "富山縣各地的料亭與鮮魚店",
+   "tags": [
+    "昆布",
+    "白身魚",
+    "保存",
+    "北前船"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/昆布締め"
+   ],
+   "confidence": "medium",
+   "prompt_en": "Translucent slices of kombu-cured white fish sashimi layered with a sheet of dark kelp, on a pale grey ceramic plate, a few chives and sudachi slice, soft diffused light, minimal table, no text"
+  },
+  {
+   "title_zh": "昆布卷魚板",
+   "title_ja": "昆布巻きかまぼこ",
+   "category": "特產食材",
+   "summary_zh": "把昆布捲成漩渦狀的富山魚板。",
+   "body_zh": "昆布卷魚板是富山縣的鄉土食品，把昆布以漩渦狀捲進魚板裡。富山是北前船昆布貿易的中繼地，昆布消費量全國最多；加上舊加賀藩支配下的越中地區魚類不易入手，魚板於是普及，兩者結合而誕生。在富山，昆布卷是基本的魚板形態，紅色外皮的「赤巻」很常見，全國常見的木板魚板在當地反而少做。",
+   "facts": [
+    {
+     "label": "起源",
+     "value": "北前船昆布貿易與魚板普及相結合"
+    },
+    {
+     "label": "主要食材",
+     "value": "魚漿、昆布"
+    },
+    {
+     "label": "特色",
+     "value": "漩渦狀斷面，常見赤巻"
+    }
+   ],
+   "season_zh": "全年",
+   "where_zh": "富山縣各地魚板店與超市",
+   "tags": [
+    "魚板",
+    "昆布",
+    "漩渦",
+    "富山"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/昆布巻きかまぼこ"
+   ],
+   "confidence": "medium",
+   "prompt_en": "Thick slices of Toyama kombu-roll kamaboko showing a spiral of dark kelp inside white fish paste, fanned on a small white plate with a touch of wasabi, light wooden table, soft daylight, no text"
+  },
+  {
+   "title_zh": "月世界",
+   "title_ja": "月世界",
+   "category": "甜點和菓子",
+   "summary_zh": "入口即化的蛋白和三盆糖乾菓子。",
+   "body_zh": "月世界是富山縣的銘菓，由月世界本舖於1897年創業後，1907年起販售。它是把新鮮蛋白加上和三盆糖與砂糖蜜打發後直接定型乾燥的干菓子，在當時和菓子業界是創新做法，特色是在口中靜靜慢慢溶化。名稱據說來自創辦人吉田榮吉看見立山破曉時浮現的淡淡月影。",
+   "facts": [
+    {
+     "label": "起源",
+     "value": "月世界本舖，1897年創業，1907年起販售"
+    },
+    {
+     "label": "主要食材",
+     "value": "雞蛋、和三盆、白雙糖糖蜜"
+    },
+    {
+     "label": "口感",
+     "value": "口中慢慢溶化"
+    }
+   ],
+   "season_zh": "全年",
+   "where_zh": "富山市月世界本舖及縣內伴手禮店",
+   "tags": [
+    "和菓子",
+    "干菓子",
+    "蛋白",
+    "銘菓"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/月世界本舗"
+   ],
+   "confidence": "high",
+   "prompt_en": "A few pale white meringue-likedry sweets, pillowy white and delicate, on a small lacquer tray with a cup of green tea beside, minimal tatami-toned table, soft light, no text"
+  }
+ ]
+}

@@ -1,0 +1,157 @@
+{
+  "id": "osaka",
+  "spots": [
+    {
+      "title_zh": "大仙陵古墳（仁德天皇陵）",
+      "title_ja": "大仙陵古墳",
+      "category": "城郭史蹟",
+      "area_zh": "堺市堺區",
+      "summary_zh": "日本最大的前方後圓墳，百舌鳥古墳群代表",
+      "body_zh": "大仙陵古墳位於堺市堺區，是百舌鳥古墳群的一座前方後圓墳，周圍環繞護城壕。墳丘基底面積達10萬3410平方公尺，是日本最大的古墳，也是世界級大型墓葬。學界依出土的圓筒埴輪與須惠器推定築造於5世紀前半至中葉，宮內廳將其指定為仁德天皇陵，但實際被葬者並不明確。2019年7月6日，與古市古墳群一同登錄世界文化遺產「百舌鳥・古市古墳群」。",
+      "facts": [
+        {"label": "所在地", "value": "大阪府堺市堺區大仙町"},
+        {"label": "開創／成因", "value": "5世紀前半至中葉築造的前方後圓墳，被葬者不明（宮內廳治定為仁德天皇陵）"},
+        {"label": "看點", "value": "墳丘基底面積約10.3萬平方公尺、周濠、2019年登錄世界遺產"}
+      ],
+      "best_season_zh": "秋冬空氣清晰時；春季周邊公園櫻花",
+      "tips_zh": "古墳本體不可進入，只能在周濠外的拜所與步道參觀，全貌需靠空拍或周邊展望設施想像。附近的堺市博物館與大仙公園可一併參觀，建議步行繞行約半天。",
+      "tags": ["前方後圓墳", "世界遺產", "百舌鳥古墳群", "古代史"],
+      "sources": ["https://ja.wikipedia.org/wiki/大仙古墳", "https://ja.wikipedia.org/wiki/百舌鳥・古市古墳群"],
+      "confidence": "high",
+      "prompt_en": "Aerial-style view over a huge keyhole-shaped tomb mound covered in dense green trees and surrounded by a wide moat, clear late autumn afternoon, soft warm light, foreground water surface reflections, midground the forested mound and moat, background suburban rooftops and distant hills; no text, no signs, no recognizable people"
+    },
+    {
+      "title_zh": "箕面大瀑布",
+      "title_ja": "箕面滝",
+      "category": "自然絕景",
+      "area_zh": "箕面市（明治之森箕面國定公園）",
+      "summary_zh": "落差33公尺的名瀑，日本瀑布百選之一",
+      "body_zh": "箕面瀑布位於箕面市的明治之森箕面國定公園內，落差33公尺，是日本瀑布百選之一。瀑布在府營都市公園「箕面公園」（面積83.8公頃）範圍內，沿著步道可由箕面站步行約2.8公里抵達，路程較平緩。此處古時為修驗道的道場，「箕面」之名相傳是因水自林間落下，形似蓑衣而得名。新綠與紅葉季遊客特別多，沿途也常見野生日本獼猴。",
+      "facts": [
+        {"label": "所在地", "value": "大阪府箕面市，明治之森箕面國定公園內"},
+        {"label": "開創／成因", "value": "古代修驗道道場；名稱傳說源於形似蓑衣"},
+        {"label": "看點", "value": "落差33公尺的瀑布、瀑道步道、新綠與紅葉、野生獼猴"}
+      ],
+      "best_season_zh": "新綠（初夏）與紅葉（秋）",
+      "tips_zh": "沿途有野生獼猴出沒，請勿餵食、不要讓食物外露。從阪急箕面站沿溪步行約2.8公里，穿好走的鞋；週末與紅葉季人多，建議早起前往。",
+      "tags": ["瀑布", "國定公園", "紅葉", "修驗道"],
+      "sources": ["https://ja.wikipedia.org/wiki/箕面大滝"],
+      "confidence": "high",
+      "prompt_en": "Tall slender waterfall dropping through a narrow cleft in a steep wooded gorge, vivid autumn foliage in red and gold, soft diffused light, foreground wet mossy boulders and a stream, midground the waterfall column with mist, background maple-covered cliffs; no text, no signs, no recognizable people"
+    },
+    {
+      "title_zh": "住吉大社",
+      "title_ja": "住吉大社",
+      "category": "神社寺院",
+      "area_zh": "大阪市住吉區",
+      "summary_zh": "全國住吉神社總本社，國寶本殿的住吉造",
+      "body_zh": "住吉大社位於大阪市住吉區，面向大阪灣，是全國住吉神社的總本社，也是攝津國一宮。祭神為筒男三神與神功皇后，古時因鄰近外交要港住吉津、難波津，被奉為航海與港口的守護神，遣唐使船也曾供奉。本殿4棟採古代建築樣式「住吉造」，指定為國寶，幣殿、石舞台等也是重要文化財。社內的《住吉大社神代記》被列為重要文化財，也是研究古代史的文獻。",
+      "facts": [
+        {"label": "所在地", "value": "大阪府大阪市住吉區住吉"},
+        {"label": "開創／成因", "value": "祭祀筒男三神與神功皇后，古代為航海、港口守護的國家級神社"},
+        {"label": "看點", "value": "國寶本殿4棟（住吉造）、石舞台、神代記"}
+      ],
+      "best_season_zh": "新年初詣；春秋氣候舒適",
+      "tips_zh": "新年參拜人潮極多，平日清晨較清靜。社內多處建築為重要文化財，拍照請留意告示。出發前請查最新交通資訊。",
+      "tags": ["住吉造", "國寶", "航海守護", "攝津國一宮"],
+      "sources": ["https://ja.wikipedia.org/wiki/住吉大社"],
+      "confidence": "high",
+      "prompt_en": "Simple straight-roofed Shinto shrine buildings in vermilion and white, with gravel courtyard and a gentle arched bridge, bright winter morning, crisp light, foreground a wooden railing, midground the shrine halls with thatch-like ridged roofs, background large camphor trees; no text, no signs, no recognizable people"
+    },
+    {
+      "title_zh": "萬博紀念公園",
+      "title_ja": "万博記念公園",
+      "category": "庭園公園",
+      "area_zh": "吹田市",
+      "summary_zh": "1970年大阪萬博跡地，園內有太陽之塔與日本庭園",
+      "body_zh": "萬博紀念公園位於吹田市，是1970年日本萬國博覽會的跡地，1972年3月15日開園。全區約264公頃，分為自然文化園130公頃、運動休閒地區91公頃與管理服務地區43公頃，設計目標是在原展館跡地約100公頃上重建森林。園內有岡本太郎的太陽之塔、廣大草坪、櫻花與繡球花，另有約26公頃、依上代至現代四個時代構成的池泉迴遊式日本庭園。",
+      "facts": [
+        {"label": "所在地", "value": "大阪府吹田市"},
+        {"label": "開創／成因", "value": "1970年萬博跡地，1972年開園；以約100公頃跡地再生森林為概念"},
+        {"label": "看點", "value": "太陽之塔、自然文化園、約26公頃日本庭園、季節花卉"}
+      ],
+      "best_season_zh": "春（櫻花）與秋",
+      "tips_zh": "園區很大，步行參觀需預留半天以上。可先在自然文化園看太陽之塔，再轉往日本庭園；地鐵／單軌電車到萬博紀念公園站最近，週末花季人多。",
+      "tags": ["大阪萬博", "太陽之塔", "日本庭園", "櫻花"],
+      "sources": ["https://ja.wikipedia.org/wiki/万博記念公園"],
+      "confidence": "high",
+      "prompt_en": "Broad lawn park with a tall abstract sculpture tower with a golden face rising above rows of cherry trees in full bloom, bright spring afternoon, soft warm light, foreground drifting pink petals and grass, midground blossoming trees and open lawn, background blue sky with light clouds; no text, no signs, no recognizable people"
+    },
+    {
+      "title_zh": "富田林寺內町",
+      "title_ja": "富田林寺内町",
+      "category": "街區古鎮",
+      "area_zh": "富田林市",
+      "summary_zh": "戰國末年成立的宗教自治都市，府內唯一重傳建",
+      "body_zh": "富田林寺內町位於富田林市，是戰國末期永祿3年（1560年）由本願寺一家眾興正寺第16世證秀買下荒地、以興正寺別院為中心開發的宗教自治都市。江戶時代成為南河內的商業中心，酒造業興盛。町內以土居圍繞、設四方門、街區呈棋盤狀，街路在轉角處刻意錯開（當曲）以阻擋視線。1997年10月31日選定為重要傳統建造物群保存地區，是大阪府唯一。",
+      "facts": [
+        {"label": "所在地", "value": "大阪府富田林市"},
+        {"label": "開創／成因", "value": "1560年興正寺證秀以別院為核心開發的寺內町，江戶期為在鄉町"},
+        {"label": "看點", "value": "町屋街景、棋盤狀街區與錯開街角、1997年選定重傳建（府內唯一）"}
+      ],
+      "best_season_zh": "春秋",
+      "tips_zh": "町屋仍有居民生活，拍照時請保持安靜。步行逛完全區約1至2小時，開放設施的時間與休館日，出發前請查市觀光資訊。",
+      "tags": ["寺內町", "重傳建", "町屋", "酒造"],
+      "sources": ["https://ja.wikipedia.org/wiki/富田林寺内町"],
+      "confidence": "high",
+      "prompt_en": "Narrow quiet street lined with traditional wooden merchant houses with latticed windows and tiled roofs, soft late afternoon sun, long gentle shadows, foreground paved lane, midground the row of houses with earthen walls, background a slightly offset street corner and sky; no text, no signs, no recognizable people"
+    },
+    {
+      "title_zh": "海遊館",
+      "title_ja": "海遊館",
+      "category": "主題設施",
+      "area_zh": "大阪市（天保山港灣區）",
+      "summary_zh": "以環太平洋為主題的大型水族館，1990年開館",
+      "body_zh": "海遊館位於大阪港的天保山，是港灣再開發計畫「天保山Harbor Village」的核心設施，1990年7月20日開館。以「環太平洋火山帶」與「環太平洋生命帶」為主題，以大型水槽重現環太平洋各海域。中央的「太平洋」水槽最大長34公尺、深9公尺、水量5,400立方公尺，飼養鯨鯊與魟魚；為建造14座大水槽，當時用掉年產量約1.5倍的壓克力玻璃。",
+      "facts": [
+        {"label": "所在地", "value": "大阪府大阪市（天保山，大阪港濱海區）"},
+        {"label": "開創／成因", "value": "1990年7月20日開館，港灣再開發計畫的中心設施"},
+        {"label": "看點", "value": "太平洋水槽（34公尺×9公尺×5,400立方公尺）、鯨鯊、隧道水槽、北極圈展示"}
+      ],
+      "best_season_zh": "全年（室內設施）",
+      "tips_zh": "館內以室內參觀為主，雨天也適合。假日與長假人潮多，建議早到並先確認營業時間與票價；鄰近有摩天輪與商場，可同日安排。",
+      "tags": ["水族館", "鯨鯊", "環太平洋", "天保山"],
+      "sources": ["https://ja.wikipedia.org/wiki/海遊館"],
+      "confidence": "medium",
+      "prompt_en": "Dim blue interior of a vast aquarium tank seen through thick acrylic glass, a large whale shark gliding past schools of small silver fish, soft rippling light from above, foreground dark silhouette edge of the viewing window, midground the giant shark, background deep blue water gradient; no text, no signs, no recognizable people"
+    },
+    {
+      "title_zh": "岸和田城",
+      "title_ja": "岸和田城",
+      "category": "城郭史蹟",
+      "area_zh": "岸和田市",
+      "summary_zh": "別名千龜利城，擁有重森三玲設計的八陣之庭",
+      "body_zh": "岸和田城位於岸和田市，別名千龜利城，江戶時代是岸和田藩的藩廳。羽柴秀吉紀州征伐後，由小出秀政築起五重天守，據說1597年完成；松平康重與岡部宣勝時又整備外濠與城下。1827年天守遭雷擊燒毀，現天守為昭和29年（1954年）以市民捐款重建的三層連結式。本丸庭園「八陣之庭」由重森三玲設計，1953年建成，為砂庭式枯山水，以諸葛孔明的八陣法為主題，列為國家名勝。",
+      "facts": [
+        {"label": "所在地", "value": "大阪府岸和田市岸城町"},
+        {"label": "開創／成因", "value": "秀吉紀州征伐後再築，小出秀政建五重天守；1827年毀於雷擊，1954年重建"},
+        {"label": "看點", "value": "重森三玲設計的八陣之庭（國家名勝）、重建天守、千龜利公園賞櫻"}
+      ],
+      "best_season_zh": "春季賞櫻",
+      "tips_zh": "城下的千龜利公園櫻花盛開時最熱鬧。八陣之庭與天守的開放時間請事先確認；岸和田另以地車祭聞名，若在祭典期間造訪，人潮與交通管制會較多。",
+      "tags": ["千龜利城", "八陣之庭", "賞櫻", "重森三玲"],
+      "sources": ["https://ja.wikipedia.org/wiki/岸和田城"],
+      "confidence": "high",
+      "prompt_en": "Small three-story white-walled castle keep on a stone-walled hill reflected in a moat, spring afternoon with cherry blossoms framing the scene, soft pink light, foreground blossom branches, midground the castle keep and stone base, background pale blue sky; no text, no signs, no recognizable people"
+    },
+    {
+      "title_zh": "犬鳴山",
+      "title_ja": "犬鳴山",
+      "category": "山岳高原",
+      "area_zh": "泉佐野市（和泉山脈）",
+      "summary_zh": "葛城修驗道根本道場，七寶瀧寺與48處瀑布",
+      "body_zh": "犬鳴山是泉佐野市犬鳴川溪谷與燈明岳（標高558公尺）等山域的總稱，並無單一山名。這裡是葛城修驗道的靈場，真言宗犬鳴派本山七寶瀧寺傳為役小角於661年開山。山中有七飛瀑等大小48處瀑布，其中行者瀑布是修驗場；因義犬傳說而得名，也因關西機場開港而有「犬鳴山溫泉」之稱。溪谷景觀獲選大阪府綠之百選，並屬金剛生駒紀泉國定公園。",
+      "facts": [
+        {"label": "所在地", "value": "大阪府泉佐野市大木犬鳴，犬鳴川溪谷"},
+        {"label": "開創／成因", "value": "七寶瀧寺傳為役小角661年開山，葛城二十八宿修驗道的根本道場"},
+        {"label": "看點", "value": "七飛瀑與48處瀑布、行者瀑布、溪谷參道、犬鳴山溫泉"}
+      ],
+      "best_season_zh": "新綠與紅葉",
+      "tips_zh": "沿溪的參道有一段上坡，需穿好走的鞋。行者瀑布的修行體驗需付費並預約；溪谷入口的溫泉鄉可作為下山後休息之處，營業與參拜資訊請另行確認。",
+      "tags": ["修驗道", "瀑布", "溪谷", "溫泉"],
+      "sources": ["https://ja.wikipedia.org/wiki/犬鳴山_(大阪府)"],
+      "confidence": "medium",
+      "prompt_en": "Forested mountain gorge with a clear stream tumbling over mossy rocks beside an old stone path leading to a hillside temple gate, hazy early morning, soft green light, foreground wet boulders and ferns, midground the winding path and small waterfalls, background steep wooded slopes in mist; no text, no signs, no recognizable people"
+    }
+  ]
+}

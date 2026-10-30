@@ -1,0 +1,149 @@
+{
+ "id": "nara",
+ "foods": [
+  {
+   "title_zh": "柿葉壽司",
+   "title_ja": "柿の葉寿司",
+   "category": "鄉土料理",
+   "summary_zh": "以柿葉包裹醋飯與鹽漬魚片壓製而成的奈良名物。",
+   "body_zh": "柿葉壽司是把醋飯與鯖魚、鮭魚等鹽漬魚片以柿葉包裹壓製而成，柿葉用於增添香氣與保存，不食用。奈良、和歌山一帶也用鯛魚、海鰻與香菇。一說江戶時代紀州藩漁夫把近海鯖魚鹽漬，運往內陸而發展出來。在奈良是名產，車站店與列車餐車都有販售，谷崎潤一郎也曾稱讚其風味。",
+   "facts": [
+    {"label": "起源", "value": "江戶時代沿紀之川發展，一說紀州漁夫鹽漬鯖魚運往內陸"},
+    {"label": "主要食材", "value": "醋飯、鯖魚或鮭魚、柿葉"},
+    {"label": "吃法", "value": "剝開柿葉，直接以手取食，葉不食用"}
+   ],
+   "season_zh": "全年",
+   "where_zh": "奈良市區與吉野、五條一帶的壽司店及車站伴手禮店",
+   "tags": ["壽司", "柿葉", "鯖魚", "奈良"],
+   "sources": ["https://ja.wikipedia.org/wiki/柿の葉寿司"],
+   "confidence": "high",
+   "prompt_en": "Several square pressed sushi pieces wrapped in green persimmon leaves, one leaf opened to reveal pickled mackerel slice on vinegared rice, arranged in a shallow cedar box on a dark wooden table, soft natural light, no text, no signage"
+  },
+  {
+   "title_zh": "三輪素麵",
+   "title_ja": "三輪素麺",
+   "category": "麵飯",
+   "summary_zh": "櫻井市三輪的手延細麵，被視為素麵發祥地。",
+   "body_zh": "三輪素麵出自奈良縣櫻井市三輪，被視為素麵的發祥地，傳說由三輪神的後裔在饑荒與疫病時受神啟而創。製作在最寒冷的季節以手延方式進行，存放一年以上稱「古物」，兩年以上稱「大古物」。2016年獲地理標示（GI）保護，正品有鳥居標記。夏季多以冷麵沾汁，冬季則做溫麵。",
+   "facts": [
+    {"label": "起源", "value": "傳說由三輪神後裔所創，三輪被視為素麵發祥地"},
+    {"label": "主要食材", "value": "小麥粉、鹽、手延製法"},
+    {"label": "地位", "value": "2016年獲地理標示（GI）保護，正品附鳥居標記"}
+   ],
+   "season_zh": "寒冬製作，夏季冷麵最盛",
+   "where_zh": "櫻井市三輪神社周邊的素麵店與工坊",
+   "tags": ["素麵", "三輪", "手延", "GI"],
+   "sources": ["https://ja.wikipedia.org/wiki/三輪そうめん"],
+   "confidence": "high",
+   "prompt_en": "A shallow glass bowl of chilled thin white somen noodles gathered into a neat swirl with ice cubes and a sprig of green shiso, next to a small cup of dipping sauce and chopped ginger, on a dark wood table, cool soft daylight, no text, no signage"
+  },
+  {
+   "title_zh": "奈良漬",
+   "title_ja": "奈良漬",
+   "category": "特產食材",
+   "summary_zh": "將鹽漬白瓜等反覆浸入酒粕醃製的傳統醬菜。",
+   "body_zh": "奈良漬是將白瓜、小黃瓜、西瓜或薑先鹽漬，再反覆換入新酒粕中醃製，最後在最終的酒粕中完成。奈良時代以來的說法難以逐一確認，但「奈良漬」一詞最早見於1492年的記載。江戶時代，醫師糸屋宗仙把白瓜奈良漬商品化，成為伴手禮並傳遍全國。切薄片配白飯或茶泡飯食用，酒香濃郁。",
+   "facts": [
+    {"label": "起源", "value": "「奈良漬」一詞最早見於1492年；江戶時代糸屋宗仙商品化"},
+    {"label": "主要食材", "value": "白瓜、小黃瓜等蔬菜、酒粕"},
+    {"label": "吃法", "value": "切薄片佐白飯、茶泡飯或下酒"}
+   ],
+   "season_zh": "全年",
+   "where_zh": "奈良市舊市街與奈良町的奈良漬專門店",
+   "tags": ["醬菜", "酒粕", "白瓜", "伴手禮"],
+   "sources": ["https://ja.wikipedia.org/wiki/奈良漬"],
+   "confidence": "high",
+   "prompt_en": "Thin slices of dark amber narazuke pickled white melon fanned out on a small rectangular ceramic dish, a few sake lees clinging to the edges, beside a bowl of plain white rice, on a wooden table, soft warm light, no text, no signage"
+  },
+  {
+   "title_zh": "大和肉雞",
+   "title_ja": "大和肉鶏",
+   "category": "肉類",
+   "summary_zh": "奈良縣畜產試驗場以三品種雜交開發的地雞。",
+   "body_zh": "大和肉雞由奈良縣畜產試驗場自1974年起歷時五年研究，以大型軍雞、名古屋種與新罕布夏種三品種雜交而成，1982年開始商業流通。肉色偏紅，需飼養120天以上，約為一般肉雞的兩倍，且低密度飼養。戰前前身「大和柏」在京阪神一帶已有名氣，1998年成為奈良縣特產品牌，2007年註冊地域團體商標。多用於雞肉鍋與烤雞。",
+   "facts": [
+    {"label": "起源", "value": "1974年起研究，三品種雜交，1982年開始流通"},
+    {"label": "主要食材", "value": "大型軍雞×名古屋種×新罕布夏種"},
+    {"label": "地位", "value": "2007年註冊地域團體商標"}
+   ],
+   "season_zh": "全年，冬季雞肉鍋最受歡迎",
+   "where_zh": "奈良縣內的雞肉料理店與居酒屋",
+   "tags": ["地雞", "雞肉鍋", "奈良", "地域商標"],
+   "sources": ["https://ja.wikipedia.org/wiki/大和肉鶏"],
+   "confidence": "high",
+   "prompt_en": "A small earthenware donabe pot of simmering chicken hot pot with red-toned chicken pieces, napa cabbage, leek and tofu, steam rising, set on a dark wooden table, soft warm lamp light, no text, no signage"
+  },
+  {
+   "title_zh": "葛餅",
+   "title_ja": "葛餅（本葛）",
+   "category": "甜點和菓子",
+   "summary_zh": "以葛粉製成的透明涼菓子，吉野產本葛為代表素材。",
+   "body_zh": "關西的葛餅是把葛粉與砂糖邊加熱邊攪拌，倒入模具凝固製成的菓子，凝固後呈透明至半透明，外觀清涼，是夏季人氣和菓子。葛粉取自葛的根部澱粉，也用於葛切與勾芡。吉野產「吉野本葛」被視為重要的素材來源，但本次未能直接核實其歷史與製法，細節僅供參考。常淋黑糖蜜與黃豆粉食用。",
+   "facts": [
+    {"label": "起源", "value": "未能核實，吉野本葛歷史需另行查證"},
+    {"label": "主要食材", "value": "葛粉（葛根澱粉）、砂糖、黑糖蜜、黃豆粉"},
+    {"label": "吃法", "value": "冰涼後淋黑糖蜜與黃豆粉"}
+   ],
+   "season_zh": "夏季",
+   "where_zh": "吉野山與奈良市區的和菓子店、茶屋",
+   "tags": ["葛餅", "吉野", "和菓子", "夏季"],
+   "sources": ["https://ja.wikipedia.org/wiki/葛餅", "https://ja.wikipedia.org/wiki/葛"],
+   "confidence": "low",
+   "prompt_en": "Translucent kuzu mochi cubes glistening on a dark ceramic plate, a small spoon of kuromitsu syrup being drizzled, dusted with kinako, on a dark stone surface, cool soft light, no text, no signage"
+  },
+  {
+   "title_zh": "菩提泉（奈良清酒）",
+   "title_ja": "菩提泉・南都諸白",
+   "category": "酒與飲品",
+   "summary_zh": "室町時代正曆寺釀造，被視為清酒釀造技術的源流。",
+   "body_zh": "菩提泉是室町時代奈良菩提山正曆寺釀造的僧坊酒，被視為當時最高級。1485年的文獻記載第九代足利將軍極為稱讚。僧侶們完善了清酒（諸白）、乳酸發酵、多段釀造與火入殺菌等技術，成為現代日本酒釀造的基礎。桃山時代後轉由商業酒藏承繼為「南都諸白」。1986年成功復原古法，1999年於正曆寺恢復釀造。",
+   "facts": [
+    {"label": "起源", "value": "室町時代正曆寺僧坊酒，1485年文獻記載"},
+    {"label": "主要食材", "value": "米、水，菩提酛（乳酸發酵）"},
+    {"label": "地位", "value": "1986年復原古法，1999年於正曆寺恢復釀造"}
+   ],
+   "season_zh": "冬季釀造",
+   "where_zh": "奈良市菩提山町正曆寺及奈良市內酒藏",
+   "tags": ["日本酒", "正曆寺", "菩提酛", "南都諸白"],
+   "sources": ["https://ja.wikipedia.org/wiki/菩提泉"],
+   "confidence": "medium",
+   "prompt_en": "A small ceramic sake flask and a shallow sake cup on a worn wooden tray, set in a quiet old temple hall with sliding paper doors, soft diffused daylight, a few autumn maple leaves nearby, no text, no signage"
+  },
+  {
+   "title_zh": "天理拉麵",
+   "title_ja": "天理ラーメン",
+   "category": "B級美食",
+   "summary_zh": "白菜、韭菜與大蒜辛味的天理市當地拉麵。",
+   "body_zh": "天理拉麵發源於奈良縣天理市，「彩華」被視為先驅店，有彩華拉麵與天理體力拉麵（天理スタミナラーメン）兩種代表。特徵是以白菜為主的蔬菜配料，並帶有大蒜與辣味，常見配料有白菜、韭菜與紅蘿蔔。彩華拉麵為醬油、胡椒味重的豬油炒菜風格；體力拉麵為燉煮24小時的豚骨湯。2009年推出泡麵版本。",
+   "facts": [
+    {"label": "起源", "value": "發源於天理市，彩華為先驅店（開業年份未能核實）"},
+    {"label": "主要食材", "value": "白菜、韭菜、豬肉、大蒜、辣味"},
+    {"label": "地位", "value": "2009年推出泡麵版本，成為地方拉麵代表"}
+   ],
+   "season_zh": "全年",
+   "where_zh": "天理市天理教本部周邊的拉麵店",
+   "tags": ["拉麵", "天理", "白菜", "大蒜"],
+   "sources": ["https://ja.wikipedia.org/wiki/天理ラーメン"],
+   "confidence": "medium",
+   "prompt_en": "A bowl of spicy-looking ramen topped generously with stir-fried napa cabbage, chives and sliced pork in a reddish chili-tinged broth, on a dark wooden counter in a casual ramen shop, rising steam, warm overhead light, no text, no signage"
+  },
+  {
+   "title_zh": "茶粥",
+   "title_ja": "茶粥",
+   "category": "鄉土料理",
+   "summary_zh": "奈良最著名的家常粥，以焙茶煮飯，俗稱「おかいさん」。",
+   "body_zh": "茶粥是用茶水煮飯而成的粥，奈良以此最為有名，當地俗稱「おかいさん」。文獻記載大和人一天吃四五次茶粥，相傳在八世紀興建東大寺大佛時普及，寺院記錄已有超過1200年。做法是把焙茶粉放入布袋煮水，再加入前晚的剩飯，輕輕攪拌避免黏糊，最後以鹽調味。清爽順口，配醃菜或奈良漬。",
+   "facts": [
+    {"label": "起源", "value": "據記載與八世紀東大寺大佛興建時期的普及有關"},
+    {"label": "主要食材", "value": "焙茶、剩飯、鹽"},
+    {"label": "吃法", "value": "配醃菜或奈良漬，清淡食用"}
+   ],
+   "season_zh": "全年",
+   "where_zh": "奈良市區的鄉土料理店與寺院周邊食堂",
+   "tags": ["粥", "焙茶", "家常", "東大寺"],
+   "sources": ["https://ja.wikipedia.org/wiki/茶粥"],
+   "confidence": "medium",
+   "prompt_en": "A rustic ceramic bowl of pale tan tea-colored rice porridge with soft grains, a few slices of pickles on a small side dish, wooden spoon, on an old wooden table in a traditional farmhouse, soft morning light, gentle steam, no text, no signage"
+  }
+]
+}

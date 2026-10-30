@@ -1,0 +1,853 @@
+{
+ "id": "aomori",
+ "name_zh": "青森",
+ "name_ja": "青森",
+ "region": "東北",
+ "overview": {
+  "intro_zh": "青森縣位於本州最北端，三面環海，北有津輕海峽、西臨日本海、東接太平洋，並與北海道隔海相望。縣內以奧羽山脈區分津輕與南部兩大地區，風土與方言各異。這裡是日本最大的蘋果產地，也有屬於世界遺產的三內丸山遺跡與白神山地。夏季的睡魔祭與弘前櫻花吸引大量遊客，冬季積雪深厚。海產如大間鮪魚與扇貝、鄉土料理與津輕刺子等工藝都很有特色，民風質樸、自然寬廣。",
+  "capital_zh": "青森市",
+  "area_km2": 9645,
+  "population_approx": "約118萬（2024年）",
+  "flower_zh": "蘋果花",
+  "bird_zh": "天鵝（白鳥）",
+  "tree_zh": "羅漢柏（ヒバ）",
+  "climate_zh": "日本海側多雪，太平洋側夏涼多霧（山背風），冬季嚴寒。",
+  "access_zh": "東北新幹線至新青森站，北海道新幹線過津輕海峽；另有青森機場、八戶、弘前等地。",
+  "specialties_zh": [
+   "蘋果",
+   "大間鮪魚",
+   "扇貝",
+   "大蒜與長山藥",
+   "津輕刺子",
+   "烏賊"
+  ],
+  "best_season_zh": "4–5月賞櫻、8月睡魔祭、10月紅葉"
+ },
+ "items": {
+  "architecture": {
+   "title_zh": "舊弘前市立圖書館",
+   "title_ja": "旧弘前市立図書館",
+   "summary_zh": "明治時代木造洋風建築，兩側有八角塔樓。",
+   "body_zh": "舊弘前市立圖書館建於1906年（明治39年），由弘前出身的棟樑堀江佐吉設計，是一棟木造三層的洋風建築，最醒目的是正面兩側帶圓頂的八角形雙塔。堀江佐吉年輕時曾在北海道參與開拓使洋風建築，學得西式工法，再結合津輕地方木匠技術。此建築曾作為市立圖書館使用至1931年，之後移築並轉作他用，如今保存為青森縣重寶，內部可入內參觀，也是弘前市區的人氣景點之一。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "弘前市下白銀町"
+    },
+    {
+     "label": "建成",
+     "value": "1906年（明治39年）"
+    },
+    {
+     "label": "設計",
+     "value": "堀江佐吉"
+    },
+    {
+     "label": "特色",
+     "value": "木造三層、八角雙塔"
+    }
+   ],
+   "best_season_zh": "春季至秋季",
+   "tips_zh": "建築位於弘前公園附近，可與弘前城一起安排半日行程；內部有時依季節調整開放，出發前先查詢。",
+   "tags": [
+    "明治建築",
+    "洋風建築",
+    "弘前",
+    "八角塔"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/%E6%97%A7%E5%BC%98%E5%89%8D%E5%B8%82%E7%AB%8B%E5%9B%B3%E6%9B%B8%E9%A4%A8",
+    "https://www.hirosaki-kanko.or.jp/"
+   ],
+   "confidence": "medium",
+   "prompt_en": "Meiji-era wooden Western-style library building in Hirosaki with two octagonal towers, cream walls and green roof, surrounded by trees, soft daylight"
+  },
+  "food": {
+   "title_zh": "大間鮪魚",
+   "title_ja": "大間のマグロ",
+   "summary_zh": "津輕海峽出產的頂級黑鮪魚。",
+   "body_zh": "大間町位於下北半島北端，隔津輕海峽與北海道函館相望。當地以延繩釣、一本釣方式捕獲的本鮪（黑鮪魚）聞名全日本，因海流湍急、魚體肥美，被視為鮪魚中的頂級品牌。每年新年初市拍賣的大間鮪魚，常以天價成交而成為新聞焦點。在大間町可品嚐生魚片、握壽司與丼飯，品質與新鮮度都很高，也是青森縣最具代表性的海產之一。每年新年的初市，大間鮪魚常以高價拍賣成為新聞，但在產地用餐的價格相對親民，許多漁協與食堂也提供定食。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "下北郡大間町"
+    },
+    {
+     "label": "魚種",
+     "value": "本鮪（黑鮪魚）"
+    },
+    {
+     "label": "捕撈",
+     "value": "延繩釣、一本釣"
+    },
+    {
+     "label": "特色",
+     "value": "脂肪豐厚、新年初市天價"
+    }
+   ],
+   "best_season_zh": "秋季至冬季為盛產期",
+   "tips_zh": "大間町位置偏遠，交通較不便，建議事先查詢巴士班次；當地店舖也有冷凍鮪魚禮盒可購買，適合當伴手禮。",
+   "tags": [
+    "鮪魚",
+    "大間",
+    "海鮮",
+    "津輕海峽"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/%E5%A4%A7%E9%96%93%E7%94%BA",
+    "https://www.aomori-tourism.com/"
+   ],
+   "confidence": "medium",
+   "prompt_en": "Fresh premium bluefin tuna sashimi and nigiri on a dark plate, glistening red fatty cuts, wasabi, subtle sea-salt garnish, soft restaurant lighting, close-up"
+  },
+  "culture": {
+   "title_zh": "青森睡魔祭",
+   "title_ja": "青森ねぶた祭",
+   "summary_zh": "巨大燈籠花車遊行的夏日祭典。",
+   "body_zh": "青森睡魔祭於每年8月2日至7日在青森市舉行，是東北三大祭之一，也是國家重要無形民俗文化財。祭典主角是以和紙與鐵絲製成的巨大燈籠花車「睡魔（ねぶた）」，繪有武將、神話與歌舞伎題材，夜間點燈遊行時光彩奪目。跳人（ハネト）穿著花朵裝飾的傳統服裝，邊喊「拉塞拉」邊隨花車跳舞。最後一晚的海上運行與煙火大會，為祭典畫下句點。祭典期間，青森市中心會封路，街道兩旁擠滿觀眾，夏夜的鼓聲與笛聲響徹整座城市。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "青森市中心街"
+    },
+    {
+     "label": "時節",
+     "value": "每年8月2日至7日"
+    },
+    {
+     "label": "特色",
+     "value": "大型燈籠花車、跳人（ハネト）"
+    },
+    {
+     "label": "指定",
+     "value": "國家重要無形民俗文化財"
+    }
+   ],
+   "best_season_zh": "8月上旬",
+   "tips_zh": "想參與跳舞的人需租借跳人服裝並登記；觀賞席位建議提早購票，熱門日期如最後一晚特別擁擠，請預留充足時間。",
+   "tags": [
+    "祭典",
+    "燈籠",
+    "夏季",
+    "睡魔"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/%E9%9D%92%E6%A3%AE%E3%81%AD%E3%81%B6%E3%81%9F%E7%A5%AD",
+    "https://www.aomori-tourism.com/"
+   ],
+   "confidence": "medium",
+   "prompt_en": "Giant illuminated Nebuta float depicting a fierce warrior painted in vivid colors parading at night in Aomori summer festival, haneto dancers in flower hats, dynamic night scene"
+  },
+  "history": {
+   "title_zh": "三內丸山遺跡",
+   "title_ja": "三内丸山遺跡",
+   "summary_zh": "繩文時代大型聚落遺跡，復原大型掘立柱建物。",
+   "body_zh": "三內丸山遺跡位於青森市，是繩文時代前期至中期（約5,900至4,200年前）的大型聚落遺跡，1992年因興建縣營棒球場而進行發掘後才被發現。遺跡中出土大量陶器、土偶、翡翠等來自遠方的物資，並發現以栗子為主的管理性栽培痕跡，顛覆了人們對繩文人漂泊採集的印象。遺跡內復原了直徑約2公尺的六根柱大型建物與豎穴住居。2021年，遺跡作為「北海道・北東北的繩文遺跡群」的一部分登錄世界遺產。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "青森市三內"
+    },
+    {
+     "label": "年代",
+     "value": "繩文前期至中期（約5,900–4,200年前）"
+    },
+    {
+     "label": "發現",
+     "value": "1992年，因棒球場工程發掘"
+    },
+    {
+     "label": "世界遺產",
+     "value": "2021年登錄"
+    }
+   ],
+   "best_season_zh": "春季至秋季",
+   "tips_zh": "遺跡內有導覽員解說，建議預留兩小時；夏季日照強，需防曬與補水，並可先到旁邊的展示館了解背景再入場。",
+   "tags": [
+    "繩文",
+    "世界遺產",
+    "遺跡",
+    "聚落"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/%E4%B8%89%E5%86%85%E4%B8%B8%E5%B1%B1%E9%81%BA%E8%B7%A1"
+   ],
+   "confidence": "high",
+   "prompt_en": "Reconstructed Jomon-period large pillar building and pit dwellings at Sannai-Maruyama site under blue sky, grassy ground, wide view"
+  },
+  "mascot": {
+   "title_zh": "青森吉祥物與蘋果小精靈",
+   "title_ja": "りんごの精（原創）",
+   "summary_zh": "介紹弘前吉祥物，並以津輕蘋果構想原創角色。",
+   "body_zh": "青森縣是日本最大的蘋果產地，蘋果在縣民心中幾乎等同於故鄉的象徵。弘前市的吉祥物「Takamaru-kun（たか丸くん）」是當地代表性角色，常出現在觀光與活動場合。此處的插畫則另外構想一隻原創的「蘋果小精靈」，頭上長著小小葉子、臉頰泛紅，坐在裝滿蘋果的木箱上，用來呈現津輕蘋果園的秋日氣氛，並非複製任何現有商標吉祥物。在青森縣各地的市集與車站，也常見以蘋果為主題的周邊商品，從文具到零食都有，成為伴手禮的選擇之一。",
+   "facts": [
+    {
+     "label": "代表吉祥物",
+     "value": "弘前市「Takamaru-kun」"
+    },
+    {
+     "label": "插畫角色",
+     "value": "原創「蘋果小精靈」"
+    },
+    {
+     "label": "靈感",
+     "value": "津輕蘋果、果園"
+    },
+    {
+     "label": "縣花",
+     "value": "蘋果花"
+    }
+   ],
+   "best_season_zh": "秋季",
+   "tips_zh": "弘前市區的伴手禮店與蘋果相關商品店常販售角色周邊；購買時請留意官方授權標示。",
+   "tags": [
+    "吉祥物",
+    "蘋果",
+    "原創角色",
+    "弘前"
+   ],
+   "sources": [
+    "https://www.pref.aomori.lg.jp/kids/01_symbol.html",
+    "https://ja.wikipedia.org/wiki/%E3%81%9F%E3%81%8B%E4%B8%B8%E3%81%8F%E3%82%93"
+   ],
+   "confidence": "medium",
+   "prompt_en": "Cute original apple-shaped creature with a small leaf on its head, rosy cheeks, sitting on a wooden crate of apples in an orchard, soft watercolor look. Original cute character, not replicating any existing trademarked mascot."
+  },
+  "scenery": {
+   "title_zh": "奧入瀨溪流",
+   "title_ja": "奥入瀬渓流",
+   "summary_zh": "新綠與苔蘚岩石間的清澈溪流。",
+   "body_zh": "奧入瀨溪流是十和田湖流出的唯一河川，從子之口到燒山，約14公里的溪流兩岸佈滿山毛櫸、水楢與苔蘚岩石。沿途有銚子大瀑布、阿修羅之流、雲井瀑布等知名景點，步道平緩，適合沿著溪邊慢慢散步。新綠與紅葉季節最受歡迎，冬季則成為冰瀑與雪景。此處屬於十和田八幡平國立公園，並被指定為國家特別名勝及天然紀念物。溪流周邊另有溫泉旅館與咖啡館，行走累了可休息，並可欣賞溪流季節性的色彩變化，也是攝影者鍾愛的取景地。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "十和田市（子之口至燒山）"
+    },
+    {
+     "label": "長度",
+     "value": "約14公里"
+    },
+    {
+     "label": "景點",
+     "value": "銚子大瀑布、阿修羅之流"
+    },
+    {
+     "label": "指定",
+     "value": "國家特別名勝、天然紀念物"
+    }
+   ],
+   "best_season_zh": "5月新綠、10月紅葉",
+   "tips_zh": "步道平緩，可分段步行搭配巴士；秋季紅葉旺季道路擁擠，請避開假日，並注意熊出沒資訊。",
+   "tags": [
+    "溪流",
+    "新綠",
+    "瀑布",
+    "國立公園"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/%E5%A5%A5%E5%85%A5%E7%80%AC%E6%B8%93%E6%B5%81",
+    "https://www.towadako.or.jp/"
+   ],
+   "confidence": "medium",
+   "prompt_en": "Oirase mountain stream flowing over moss-covered rocks beneath fresh green beech trees, silky long exposure water, dappled sunlight"
+  },
+  "spot": {
+   "title_zh": "弘前城與櫻花",
+   "title_ja": "弘前城",
+   "summary_zh": "天守與護城河兩岸盛開的櫻花隧道。",
+   "body_zh": "弘前城是津輕藩主的居城，1611年完成，現存的三層天守為1810年重建，是東北地方唯一現存的江戶時代天守。為了修補石垣，天守曾於2015年整體移動位置進行工程，之後再回到原位。弘前公園內栽種約2,600株櫻花，每年四月下旬至五月上旬舉行櫻花祭，護城河上飄滿落花的「花筏」是著名景色。夜間點燈的夜櫻更添魅力。城內也設有展示館與茶屋，參觀者可在櫻花季之外欣賞到新綠、紅葉與雪中的弘前城，四季皆有景可賞。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "弘前市下白銀町（弘前公園）"
+    },
+    {
+     "label": "天守",
+     "value": "1810年重建"
+    },
+    {
+     "label": "櫻花",
+     "value": "約2,600株"
+    },
+    {
+     "label": "櫻花祭",
+     "value": "4月下旬至5月上旬"
+    }
+   ],
+   "best_season_zh": "4月下旬至5月上旬",
+   "tips_zh": "櫻花祭期間人潮眾多，早晨入園較舒適；花筏最佳時機約在盛開之後，夜櫻點燈時段需另行查詢。",
+   "tags": [
+    "弘前城",
+    "櫻花",
+    "天守",
+    "春季"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/%E5%BC%98%E5%89%8D%E5%9F%8E",
+    "https://www.hirosaki-kanko.or.jp/"
+   ],
+   "confidence": "medium",
+   "prompt_en": "Hirosaki Castle small keep behind the moat covered in pink cherry blossom petals, cherry trees in full bloom, clear spring morning"
+  },
+  "experience": {
+   "title_zh": "蘋果採摘",
+   "title_ja": "りんご狩り",
+   "summary_zh": "秋季在果園親手採摘紅蘋果。",
+   "body_zh": "青森縣的蘋果產量約占全日本六成，主要產區在弘前、黑石一帶。每年9月中旬到11月，多家觀光果園開放遊客入園採摘，可依品種體驗，如津輕、富士、王林等，現摘現吃口感清脆多汁。果園有的提供不限量吃到飽，也有販賣果汁、果醬與蘋果派。這是青森秋季最受歡迎的親子體驗。採摘後可在園內品嚐剛榨的蘋果汁，或選購加工品帶回家，部分果園並有導覽解說蘋果栽培的知識。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "弘前市、黑石市等"
+    },
+    {
+     "label": "時節",
+     "value": "9月中旬至11月"
+    },
+    {
+     "label": "品種",
+     "value": "津輕、王林、富士等"
+    },
+    {
+     "label": "特色",
+     "value": "現摘品嚐"
+    }
+   ],
+   "best_season_zh": "9月至11月",
+   "tips_zh": "採收時請依園方指示，不要攀折樹枝；入場前確認當日開放品種，團體行程建議預先預約。",
+   "tags": [
+    "蘋果",
+    "採摘",
+    "果園",
+    "秋季"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/%E3%82%8A%E3%82%93%E3%81%94",
+    "https://www.aomori-tourism.com/"
+   ],
+   "confidence": "medium",
+   "prompt_en": "Hands picking a ripe red apple from a branch in an orchard in autumn, baskets full of apples on grass, warm sunlight, close-up lifestyle shot"
+  },
+  "costume": {
+   "title_zh": "津輕刺子工作服",
+   "title_ja": "津軽こぎん刺し",
+   "summary_zh": "藍染布上以白線刺繡幾何圖案的傳統衣物。",
+   "body_zh": "津輕刺子（こぎん刺し）是青森縣津輕地方的傳統刺繡，起源於江戶時代，當時農民受限於禁用棉布的規定，只能穿麻布，為了保暖與補強，便用白色棉線在藍染麻布上以織目計算刺繡。常見圖案為菱形、花卉等幾何紋樣，有如白色雪花散布在藍布之上。現在除了衣物，也被運用於包包、小物與裝飾，並由當地工房傳承技法。近年也有設計師將刺子紋樣運用於時尚服飾與生活小物，讓傳統工藝重新受到注目，在弘前的工房與商店都能買到。",
+   "facts": [
+    {
+     "label": "地區",
+     "value": "津輕地方（弘前一帶）"
+    },
+    {
+     "label": "起源",
+     "value": "江戶時代農民衣物"
+    },
+    {
+     "label": "技法",
+     "value": "在藍染布上以白線數織目刺繡"
+    },
+    {
+     "label": "紋樣",
+     "value": "菱形、幾何圖案"
+    }
+   ],
+   "best_season_zh": "冬季（傳統為農閒時節製作）",
+   "tips_zh": "弘前的工藝館與商店可購買小物，也提供刺繡體驗，部分需要預約；購買時請留意是否為手工製作。",
+   "tags": [
+    "刺子",
+    "津輕",
+    "傳統工藝",
+    "藍染"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/%E3%81%93%E3%81%8E%E3%82%93%E5%88%BA%E3%81%97"
+   ],
+   "confidence": "medium",
+   "prompt_en": "Anonymous model wearing a traditional indigo Tsugaru kogin-zashi jacket with white geometric diamond stitching, standing in front of a snowy farmhouse, soft light, half body"
+  }
+ },
+ "areas": [
+  {
+   "id": "aomori_hirosaki",
+   "name_zh": "弘前",
+   "name_ja": "弘前",
+   "intro_zh": "津輕地方的城下町，保有江戶時代天守與大量明治大正洋風建築。春季櫻花、夏季睡魔祭（弘前ねぷた）與秋季蘋果，使這裡四季皆有看頭，並以蘋果派聞名。",
+   "items": {
+    "spot": {
+     "title_zh": "弘前城",
+     "title_ja": "弘前城",
+     "summary_zh": "保存江戶時代天守的津輕藩居城。",
+     "body_zh": "弘前城位於弘前公園內，是東北地方唯一仍保有江戶時代天守的城池。城內由護城河、石垣與土壘構成多重防禦，現存的三層天守為1810年重建，是縣內最具代表性的歷史建築。城跡一帶栽種大量櫻花與松樹，春夏秋冬皆有不同景色，也是市民休憩的場所。登上天守可遠望岩木山。登上天守可遠望岩木山，春季也可看到護城河岸盛開的櫻花，景色宜人。入園時可先到服務處索取導覽地圖，了解各門與石垣的歷史。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "弘前市下白銀町"
+      },
+      {
+       "label": "天守",
+       "value": "1810年重建"
+      },
+      {
+       "label": "現存",
+       "value": "東北唯一江戶天守"
+      },
+      {
+       "label": "遠景",
+       "value": "岩木山"
+      }
+     ],
+     "best_season_zh": "4月下旬至5月上旬櫻花、秋季紅葉",
+     "tips_zh": "入園分為多個出入口，建議從追手門進入，沿護城河慢慢走；春季人多，早晨前往較舒適。",
+     "tags": [
+      "城池",
+      "天守",
+      "櫻花",
+      "弘前"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/%E5%BC%98%E5%89%8D%E5%9F%8E",
+      "https://www.hirosaki-kanko.or.jp/"
+     ],
+     "confidence": "medium",
+     "prompt_en": "Hirosaki Castle small keep behind the stone-walled moat in spring with pink cherry blossoms, Mount Iwaki faintly visible, clear sky"
+    },
+    "food": {
+     "title_zh": "弘前蘋果派",
+     "title_ja": "弘前アップルパイ",
+     "summary_zh": "市內多家咖啡館推出各具特色的蘋果派。",
+     "body_zh": "弘前市發行「蘋果派導覽地圖」，介紹市內數十家咖啡館與糕點店的招牌蘋果派。每家使用的蘋果品種、派皮與內餡都各不相同，有的酸甜清爽，有的加入肉桂與奶油。蘋果產量居日本之冠的青森縣，用本地新鮮蘋果製作的派皮酥脆、果肉柔軟，是午茶時光的熱門選擇。也可買回家當伴手禮。市區有許多老字號洋菓子店與咖啡館，各自以不同蘋果品種與烘焙手法打造招牌，值得多家比較。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "弘前市區"
+      },
+      {
+       "label": "食材",
+       "value": "津輕蘋果"
+      },
+      {
+       "label": "特色",
+       "value": "各店風味不同"
+      },
+      {
+       "label": "相關",
+       "value": "蘋果派導覽地圖"
+      }
+     ],
+     "best_season_zh": "全年；秋季蘋果最新鮮",
+     "tips_zh": "可在觀光案內所索取地圖，依喜好挑選咖啡館；熱門店下午常售罄，建議早些前往，並預留午茶時間。",
+     "tags": [
+      "蘋果派",
+      "甜點",
+      "咖啡館",
+      "弘前"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%83%E3%83%97%E3%83%AB%E3%83%91%E3%82%A4",
+      "https://www.hirosaki-kanko.or.jp/"
+     ],
+     "confidence": "medium",
+     "prompt_en": "Slice of golden Hirosaki apple pie with caramelized apple slices on a ceramic plate at a cozy cafe, warm window light, close-up"
+    },
+    "scenery": {
+     "title_zh": "弘前公園夜櫻",
+     "title_ja": "弘前公園の夜桜",
+     "summary_zh": "夜間點燈的櫻花與護城河倒影。",
+     "body_zh": "弘前公園的櫻花祭每年四月下旬至五月上旬舉行，約2,600株櫻花（染井吉野等）盛開，是日本賞櫻名所之一。夜間公園點燈，櫻花在黑暗中浮現粉色光影，護城河映出花影，落花鋪滿水面形成「花筏」。園內也有攤販與小吃，氣氛熱鬧。弘前的櫻花管理以細心修剪著稱，花朵密度高，開花狀態極佳。園內也有日本庭園與歷史建築，櫻花季之外，初夏新綠與秋季紅葉也很值得造訪，是弘前市民的休憩場所。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "弘前市下白銀町（弘前公園）"
+      },
+      {
+       "label": "樹數",
+       "value": "約2,600株"
+      },
+      {
+       "label": "時節",
+       "value": "4月下旬至5月上旬"
+      },
+      {
+       "label": "看點",
+       "value": "夜櫻、花筏"
+      }
+     ],
+     "best_season_zh": "4月下旬至5月上旬",
+     "tips_zh": "夜晚氣溫低，需外套；週末晚上人潮大，可選平日或提早入園佔位，並注意園內夜間開放時間。",
+     "tags": [
+      "夜櫻",
+      "櫻花",
+      "護城河",
+      "春季"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/%E5%BC%98%E5%89%8D%E5%85%AC%E5%9C%92",
+      "https://www.hirosaki-kanko.or.jp/"
+     ],
+     "confidence": "medium",
+     "prompt_en": "Night view of Hirosaki Park cherry blossoms illuminated by lights, reflections on the moat, floating petals on water, deep blue night sky"
+    }
+   }
+  },
+  {
+   "id": "aomori_aomori_city",
+   "name_zh": "青森市",
+   "name_ja": "青森市",
+   "intro_zh": "縣廳所在地，面向陸奧灣的港灣都市，也是青森睡魔祭的舉辦地。市內有三內丸山遺跡、睡魔之家與新鮮海產，同時是前往下北與津輕的交通樞紐。",
+   "items": {
+    "spot": {
+     "title_zh": "睡魔之家 Wa Rasse",
+     "title_ja": "ねぶたの家 ワ・ラッセ",
+     "summary_zh": "展示睡魔祭大型花車的體驗館。",
+     "body_zh": "睡魔之家「Wa Rasse」位於青森站旁，2011年開幕，館內常年展示歷年祭典的大型睡魔花車，從近處可看到手繪的武將與神話人物，紙面細節與燈光效果震撼。館內也介紹祭典歷史、製作流程，並提供跳人服裝體驗與敲鼓等活動。無法在八月前往的旅客，在此可預先感受祭典氛圍。每到八月，這裡也會舉辦與祭典相關的活動，吸引更多遊客，是了解青森文化的最佳入口。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "青森市安方"
+      },
+      {
+       "label": "開幕",
+       "value": "2011年"
+      },
+      {
+       "label": "展示",
+       "value": "歷年大型睡魔花車"
+      },
+      {
+       "label": "體驗",
+       "value": "跳人、太鼓"
+      }
+     ],
+     "best_season_zh": "全年",
+     "tips_zh": "館內可拍照，部分活動需預約；位於青森站旁，行李可寄放，與附近海鮮市場可併排行程。",
+     "tags": [
+      "睡魔",
+      "博物館",
+      "青森站",
+      "祭典"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/%E3%81%AD%E3%81%B6%E3%81%9F%E3%81%AE%E5%AE%B6_%E3%83%AF%E3%83%BB%E3%83%A9%E3%83%83%E3%82%BB",
+      "https://www.aomori-tourism.com/"
+     ],
+     "confidence": "medium",
+     "prompt_en": "Interior of Nebuta Museum with huge illuminated Nebuta float of a samurai warrior, vivid colors, dramatic lighting, visitors silhouette"
+    },
+    "food": {
+     "title_zh": "扇貝燒與帆立丼",
+     "title_ja": "ほたて焼き・ほたて丼",
+     "summary_zh": "陸奧灣產扇貝的燒烤與海鮮丼。",
+     "body_zh": "青森縣的陸奧灣是日本主要的扇貝養殖地之一。市內的魚菜市場可自行選購海鮮鋪在白飯上，製作屬於自己的「のっけ丼」，扇貝與鮮蝦、鮭魚卵尤其受歡迎。另有傳統鄉土料理「貝燒味噌」，將扇貝殼當鍋，加入味噌與蛋煮製，香氣濃郁。扇貝肉質鮮甜，是青森冬季的味覺代表。扇貝在冬季最為肥美，市內居酒屋與壽司店也常提供烤扇貝、刺身與味噌鍋，一年四季都能嘗到不同吃法。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "青森市"
+      },
+      {
+       "label": "食材",
+       "value": "陸奧灣扇貝"
+      },
+      {
+       "label": "吃法",
+       "value": "扇貝燒、帆立丼、貝燒味噌"
+      },
+      {
+       "label": "體驗",
+       "value": "魚菜市場のっけ丼"
+      }
+     ],
+     "best_season_zh": "秋冬",
+     "tips_zh": "魚菜市場營業時間偏早，建議上午前往；購買時留意季節與價格，並可請店家協助挑選食材。",
+     "tags": [
+      "扇貝",
+      "海鮮丼",
+      "鄉土料理",
+      "陸奧灣"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/%E3%83%9B%E3%82%BF%E3%83%86%E3%82%AC%E3%82%A4",
+      "https://www.aomori-tourism.com/"
+     ],
+     "confidence": "low",
+     "prompt_en": "Grilled scallops in their shells and a seafood rice bowl topped with scallop and salmon roe in a harbor market restaurant, warm steam, close-up"
+    },
+    "scenery": {
+     "title_zh": "青森灣與跨海大橋",
+     "title_ja": "青森ベイブリッジ",
+     "summary_zh": "白色斜張橋橫跨青森灣港口。",
+     "body_zh": "青森灣大橋（青森ベイブリッジ）是橫跨青森港的斜張橋，1992年開通，白色橋塔在海面與山景之間形成醒目地標。從港邊公園遠望，橋身與夕陽和海面相映。青森站附近的海濱一帶有觀光設施與散步道，天氣好時可望見下北半島與津輕半島。夜晚橋身點燈，也是拍照熱門地點。橋下的港邊有觀光設施與步道，可看見船隻進出港灣，夜間點燈後更顯浪漫，是散步與看夕陽的好去處。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "青森市港町一帶"
+      },
+      {
+       "label": "開通",
+       "value": "1992年"
+      },
+      {
+       "label": "形式",
+       "value": "斜張橋"
+      },
+      {
+       "label": "景觀",
+       "value": "夕陽、夜間點燈"
+      }
+     ],
+     "best_season_zh": "夏季黃昏",
+     "tips_zh": "海邊風大，夜間氣溫低，請穿外套；周邊有觀光設施，可順道散步並選擇日落前後前往。",
+     "tags": [
+      "港灣",
+      "大橋",
+      "夕陽",
+      "青森灣"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/%E9%9D%92%E6%A3%AE%E3%83%99%E3%82%A4%E3%83%96%E3%83%AA%E3%83%83%E3%82%B8"
+     ],
+     "confidence": "medium",
+     "prompt_en": "Aomori Bay Bridge white cable-stayed bridge across the harbor at sunset, calm sea, orange sky, wide shot"
+    }
+   }
+  },
+  {
+   "id": "aomori_oirase",
+   "name_zh": "奧入瀨",
+   "name_ja": "奥入瀬",
+   "intro_zh": "位於十和田八幡平國立公園內，奧入瀨溪流與十和田湖是青森最具代表性的自然景勝。新綠、紅葉與冬季冰瀑各有魅力，周邊也盛產十和田牛。",
+   "items": {
+    "spot": {
+     "title_zh": "奧入瀨溪流步道",
+     "title_ja": "奥入瀬渓流の遊歩道",
+     "summary_zh": "沿溪而行約14公里的森林步道。",
+     "body_zh": "奧入瀨溪流步道沿十和田湖流出的奧入瀨川而行，從子之口的湖畔到燒山約14公里，全程幾乎平緩，非常適合步行。沿途能欣賞銚子大瀑布、阿修羅之流、雲井瀑布等景點，水聲、苔蘚與林間光影構成療癒的森林浴體驗。部分路段可搭乘巴士，方便分段行走。沿途有休憩設施與觀景點，可在石頭上稍作休息，聆聽流水聲，感受森林療癒，也有解說牌介紹植物與歷史。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "十和田市"
+      },
+      {
+       "label": "長度",
+       "value": "約14公里"
+      },
+      {
+       "label": "起迄",
+       "value": "子之口至燒山"
+      },
+      {
+       "label": "交通",
+       "value": "可分段搭巴士"
+      }
+     ],
+     "best_season_zh": "5月新綠、10月紅葉",
+     "tips_zh": "最好穿防滑鞋；夏季氣溫涼爽，仍需帶雨具，並注意熊出沒資訊，出發前確認巴士班次。",
+     "tags": [
+      "步道",
+      "森林",
+      "瀑布",
+      "奧入瀨"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/%E5%A5%A5%E5%85%A5%E7%80%AC%E6%B8%93%E6%B5%81",
+      "https://www.towadako.or.jp/"
+     ],
+     "confidence": "medium",
+     "prompt_en": "Walking path along Oirase stream with mossy rocks and small waterfalls, fresh green beech forest, soft dappled light"
+    },
+    "food": {
+     "title_zh": "十和田醬燒牛五花",
+     "title_ja": "十和田バラ焼き",
+     "summary_zh": "以洋蔥與牛五花醬燒的十和田鄉土料理。",
+     "body_zh": "十和田バラ焼き是十和田市的鄉土料理，用牛五花肉與大量洋蔥，以甜辣的醬汁在鐵板上拌炒而成，風味濃厚、帶有甜鹹，經常配白飯食用。這道料理據說源自市內的食堂，後來成為當地B級美食，並參與各地美食活動宣傳。可在市內餐廳品嚐，也有調味包可帶回家。餐廳多使用青森縣產的牛肉與蔬菜，甜辣醬汁與洋蔥的組合搭配白飯很下飯，也是十和田市的鄉土名物。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "十和田市"
+      },
+      {
+       "label": "食材",
+       "value": "牛五花、洋蔥"
+      },
+      {
+       "label": "味道",
+       "value": "甜辣醬汁"
+      },
+      {
+       "label": "類型",
+       "value": "B級美食"
+      }
+     ],
+     "best_season_zh": "全年",
+     "tips_zh": "店家各有不同醬汁風味，可多嘗試；常搭配白飯與味噌湯，部分店舖有午餐限定的套餐。",
+     "tags": [
+      "B級美食",
+      "牛肉",
+      "十和田",
+      "鄉土料理"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/%E5%8D%81%E5%92%8C%E7%94%B0%E3%83%90%E3%83%A9%E7%84%BC%E3%81%8D"
+     ],
+     "confidence": "low",
+     "prompt_en": "Sizzling Towada barayaki beef short rib and onions in sweet soy sauce on an iron plate with rice, steam rising, warm restaurant lighting"
+    },
+    "scenery": {
+     "title_zh": "十和田湖",
+     "title_ja": "十和田湖",
+     "summary_zh": "火山口湖，湖水湛藍清澈。",
+     "body_zh": "十和田湖是青森縣與秋田縣交界的火山口湖，湖面海拔約400公尺，水深最深約327公尺，是日本第三深的湖泊（僅次於田澤湖、支笏湖）。湖周被山林環抱，秋季紅葉與湖水倒影相映；夏季可搭乘遊覽船或乘獨木舟，湖畔的「乙女之像」是著名景點。冬季雖然寒冷，但湖面安靜，景色另有風味。湖畔另有露營場與散步道，環湖公路則提供多處觀景台，可從不同角度欣賞湖面與周圍山林景色。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "青森縣十和田市、秋田縣小坂町"
+      },
+      {
+       "label": "類型",
+       "value": "火山口湖"
+      },
+      {
+       "label": "最大水深",
+       "value": "約327公尺"
+      },
+      {
+       "label": "景點",
+       "value": "乙女之像、遊覽船"
+      }
+     ],
+     "best_season_zh": "10月紅葉",
+     "tips_zh": "遊覽船班次依季節變動；湖畔氣溫低，夏季也需帶外套，冬季部分設施休息，需先確認。",
+     "tags": [
+      "湖泊",
+      "火山口湖",
+      "紅葉",
+      "十和田"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/%E5%8D%81%E5%92%8C%E7%94%B0%E6%B9%96",
+      "https://www.towadako.or.jp/"
+     ],
+     "confidence": "medium",
+     "prompt_en": "Lake Towada caldera lake with deep blue water surrounded by autumn foliage mountains, small tour boat on the water, clear sky"
+    }
+   }
+  },
+  {
+   "id": "aomori_shimokita",
+   "name_zh": "下北半島",
+   "name_ja": "下北半島",
+   "intro_zh": "形狀如斧頭的半島，位於本州最北端，自然景觀嚴峻，擁有恐山靈場、佛之浦奇岩與大間鮪魚。交通不便但魅力獨特，適合想探索邊陲的旅人。",
+   "items": {
+    "spot": {
+     "title_zh": "恐山",
+     "title_ja": "恐山",
+     "summary_zh": "日本三大靈場之一，火山地形與靈場信仰並存。",
+     "body_zh": "恐山位於下北半島，由宇曾利山湖與周圍火山地形構成，據傳為862年（貞觀4年）慈覺大師圓仁開山，是日本三大靈場之一。境內硫磺氣味瀰漫，山地呈現灰白岩地與地獄、極樂的景觀，宇曾利山湖水呈乳白色。每年7月中旬舉行大祭，「巫女（イタコ）」進行口寄儀式。恐山菩提寺是此地信仰核心。境內設有溫泉小屋，參拜者可在此泡湯，寺院則供奉地藏菩薩，整體景觀帶有獨特的肅穆氣氛。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "むつ市田名部"
+      },
+      {
+       "label": "開山",
+       "value": "傳為862年，圓仁"
+      },
+      {
+       "label": "特色",
+       "value": "硫磺火山地形、靈場信仰"
+      },
+      {
+       "label": "大祭",
+       "value": "7月中旬"
+      }
+     ],
+     "best_season_zh": "5月至10月",
+     "tips_zh": "山區氣溫低，硫磺氣味強，敏感者請留意身體狀況；入山時間與季節有限制，冬季封山。",
+     "tags": [
+      "靈場",
+      "火山",
+      "下北",
+      "宗教"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/%E6%81%90%E5%B1%B1"
+     ],
+     "confidence": "medium",
+     "prompt_en": "Osorezan volcanic landscape with pale gray rocky ground, small wooden shrine and colorful pinwheels, misty lake in the background, solemn atmosphere"
+    },
+    "food": {
+     "title_zh": "大間鮪魚",
+     "title_ja": "大間のマグロ",
+     "summary_zh": "津輕海峽的頂級黑鮪魚。",
+     "body_zh": "大間鮪魚指在大間町附近海域捕獲的本鮪，特別是以一本釣方式捕獲者，被視為鮪魚中的頂級。津輕海峽水流湍急，鮪魚為了洄游而體內脂肪發達，肉質鮮美。每年年初築地（現豐洲）初市中，大間鮪魚常拍出高價，成為媒體焦點。在大間町可品嚐新鮮鮪魚丼與握壽司，並見到港口的鮪魚雕像。為了保護資源，漁民對捕撈量與方式有嚴格規定，也使大間鮪魚成為品牌，在東京豐洲等市場享有高評價。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "下北郡大間町"
+      },
+      {
+       "label": "魚種",
+       "value": "本鮪"
+      },
+      {
+       "label": "捕撈",
+       "value": "一本釣、延繩釣"
+      },
+      {
+       "label": "特色",
+       "value": "脂肪豐厚、高價拍賣"
+      }
+     ],
+     "best_season_zh": "10月至1月",
+     "tips_zh": "漁獲價格依日而異，用餐前先確認價位；店舖假日常需排隊，建議提早到達。",
+     "tags": [
+      "鮪魚",
+      "大間",
+      "海鮮",
+      "下北"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/%E5%A4%A7%E9%96%93%E7%94%BA"
+     ],
+     "confidence": "medium",
+     "prompt_en": "Fresh bluefin tuna sashimi platter with otoro and akami on a black plate, tuna fishing harbor blurred in background, close-up"
+    },
+    "scenery": {
+     "title_zh": "佛之浦奇岩",
+     "title_ja": "仏ヶ浦",
+     "summary_zh": "海蝕形成的綠色凝灰岩奇岩群。",
+     "body_zh": "佛之浦位於下北半島西南的佐井村，沿著海岸約2公里的綠色凝灰岩，被海浪與風長年侵蝕成如佛像、五百羅漢般的奇岩。岩石上松樹與海水對比強烈，是國家名勝與天然紀念物。通常需要搭乘觀光船或徒步下降到海邊才能近距離欣賞。船行時從海面看，景觀尤其壯麗。景區附近設有觀景台與步道，可從不同高度欣賞，沿岸也有許多海蝕洞與奇岩，景色變化豐富。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "下北郡佐井村"
+      },
+      {
+       "label": "長度",
+       "value": "海岸約2公里"
+      },
+      {
+       "label": "岩質",
+       "value": "綠色凝灰岩"
+      },
+      {
+       "label": "指定",
+       "value": "國家名勝、天然紀念物"
+      }
+     ],
+     "best_season_zh": "夏季至秋季",
+     "tips_zh": "觀光船僅夏季運航，需預先確認；徒步下行階梯多，須穿防滑鞋，天氣不佳時請勿勉強前往。",
+     "tags": [
+      "奇岩",
+      "海岸",
+      "凝灰岩",
+      "佐井"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/%E4%BB%8F%E3%83%B6%E6%B5%A6"
+     ],
+     "confidence": "medium",
+     "prompt_en": "Hotokegaura green tuff rock formations rising from the sea like Buddhist statues, turquoise water, small boat, clear blue sky"
+    }
+   }
+  }
+ ]
+}

@@ -1,0 +1,819 @@
+{
+ "id": "mie",
+ "name_zh": "三重縣",
+ "name_ja": "三重県",
+ "region": "近畿",
+ "overview": {
+  "intro_zh": "三重縣位於紀伊半島東部，面積約5,774平方公里，人口約168萬，縣廳所在地為津市。縣內由伊勢、伊賀、志摩與部分紀伊四個舊國組成，是日本信仰中心伊勢神宮的所在地，東南面向熊野灘，擁有綿長的海岸線與珍珠養殖。縣的北部屬中京工業地帶，四日市有石化工業；南部則有熊野古道（世界遺產）、松阪牛、伊勢海老等名產，是兼具信仰、美食與自然的旅遊縣。",
+  "capital_zh": "津市",
+  "area_km2": 5774,
+  "population_approx": "約168萬人",
+  "flower_zh": "花菖蒲",
+  "bird_zh": "小環頸鴴（白千鳥）",
+  "tree_zh": "神宮杉",
+  "climate_zh": "沿海氣候溫暖，夏季多雨，山區較涼；南部海岸降雨量大。",
+  "access_zh": "近鐵特急連接名古屋、大阪與伊勢志摩；伊勢灣渡輪連接愛知伊良湖。",
+  "specialties_zh": [
+   "伊勢海老",
+   "松阪牛",
+   "赤福餅",
+   "伊勢烏龍麵",
+   "養殖珍珠"
+  ],
+  "best_season_zh": "春秋兩季氣候舒適；新年與連假參拜人潮較多"
+ },
+ "items": {
+  "architecture": {
+   "title_zh": "伊勢神宮內宮",
+   "title_ja": "伊勢神宮内宮",
+   "summary_zh": "供奉天照大御神的日本最高神社。",
+   "body_zh": "伊勢神宮正式名稱為「神宮」，由內宮（皇大神宮，供奉天照大御神）與外宮（豐受大神宮，供奉豐受大御神）等多座神社組成，被視為日本全體神道的總本宗。社殿採神明造，以檜木為構造、屋頂為萱葺，不使用瓦或漆，保持古代建築樣式。每二十年舉行一次式年遷宮，把社殿全部重建，第62次在2013年舉行，下一次預定為2033年。每年參拜者超過800萬人，2013年更達到約1,400萬人。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "伊勢市宇治館町"
+    },
+    {
+     "label": "祭神",
+     "value": "天照大御神（內宮）"
+    },
+    {
+     "label": "式年遷宮",
+     "value": "每20年一次；第62次為2013年"
+    },
+    {
+     "label": "建築樣式",
+     "value": "神明造"
+    },
+    {
+     "label": "參拜人數",
+     "value": "年約800萬人以上"
+    }
+   ],
+   "best_season_zh": "全年；清晨最靜謐",
+   "tips_zh": "參拜順序傳統上先外宮後內宮；內宮境內以宇治橋與五十鈴川最具代表，清晨參拜人少，空氣清新。",
+   "tags": [
+    "神宮",
+    "神明造",
+    "式年遷宮",
+    "朝聖"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/伊勢神宮"
+   ],
+   "confidence": "high",
+   "prompt_en": "Ise Grand Shrine Naiku wooden thatched shrine hall surrounded by giant cedars, morning sunlight beams, stone steps"
+  },
+  "food": {
+   "title_zh": "伊勢海老與松阪牛",
+   "title_ja": "伊勢海老と松阪牛",
+   "summary_zh": "三重海山代表名物，一海一陸。",
+   "body_zh": "伊勢海老（日本龍蝦）是三重縣的縣魚，志摩一帶漁獲豐富，多以刺身、鬼殼燒或味噌湯方式享用。松阪牛是以黑毛和種未經產雌牛在松阪市周邊飼養而成的高級和牛，霜降分布細緻，被稱為「肉的藝術品」，並名列日本三大和牛之一。江戶時代農家向但馬國購入小牛飼養三至四年，1935年在全國肉用畜產博覽會獲最高賞而確立聲譽，2002年起有個體識別管理系統。在伊勢志摩的旅館或鬧區的專門店，常能看到兩者組合的套餐，一次品嘗海與陸的精華。",
+   "facts": [
+    {
+     "label": "伊勢海老",
+     "value": "三重縣縣魚，志摩一帶為名產"
+    },
+    {
+     "label": "松阪牛",
+     "value": "黑毛和種未經產雌牛"
+    },
+    {
+     "label": "品牌確立",
+     "value": "1935年全國博覽會最高賞"
+    },
+    {
+     "label": "管理",
+     "value": "2002年起個體識別系統"
+    }
+   ],
+   "best_season_zh": "伊勢海老約秋至春；松阪牛全年",
+   "tips_zh": "松阪牛以壽喜燒或鐵板燒最能嘗出油脂風味；伊勢海老價位不低，建議先確認價格和份量，並選擇熱門店預約。",
+   "tags": [
+    "伊勢海老",
+    "松阪牛",
+    "高級食材",
+    "三重"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/松阪牛"
+   ],
+   "confidence": "medium",
+   "prompt_en": "Grilled spiny lobster beside a slice of marbled Matsusaka beef on a ceramic plate, warm light, table setting"
+  },
+  "culture": {
+   "title_zh": "海女文化",
+   "title_ja": "海女",
+   "summary_zh": "鳥羽志摩的海女潛水採鮑魚傳統。",
+   "body_zh": "海女是不使用氧氣瓶、只靠憋氣潛入海中採捕鮑魚、海螺、海藻等的女性漁師，三重縣鳥羽與志摩一帶是日本海女人數最多的地區。海女身穿白色磯着、頭裹手拭巾，傳統上潛水時以口哨般的「磯笛」呼氣。在「海女小屋」裡，她們會在潛水間隙取暖休息，遊客也可在此品嘗現烤海產。近年海女人數持續減少、年齡偏高，保存這門文化成為地方課題。想了解海女的生活，可在鳥羽的海女文化相關設施參觀，那裡也介紹她們的歷史與工具。",
+   "facts": [
+    {
+     "label": "分布",
+     "value": "鳥羽、志摩一帶（日本海女最多地區）"
+    },
+    {
+     "label": "裝備",
+     "value": "白色磯着、手拭巾、潛水鏡"
+    },
+    {
+     "label": "漁獲",
+     "value": "鮑魚、海螺、海藻"
+    },
+    {
+     "label": "現況",
+     "value": "人數減少、高齡化"
+    }
+   ],
+   "best_season_zh": "全年；潛水作業多在春至秋",
+   "tips_zh": "到海女小屋用餐多需預約；請尊重海女作息，拍照前先徵得同意，並勿干擾作業。，並請勿餵食或觸碰漁具。",
+   "tags": [
+    "海女",
+    "傳統漁法",
+    "鳥羽",
+    "海女小屋"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/海女"
+   ],
+   "confidence": "medium",
+   "prompt_en": "Ama female divers in white outfits on a rocky shore at Toba, a small fishing hut with smoke, soft morning light"
+  },
+  "history": {
+   "title_zh": "御蔭橫丁",
+   "title_ja": "おかげ横丁",
+   "summary_zh": "重現江戶至明治街景的伊勢參拜商店街。",
+   "body_zh": "御蔭橫丁位於伊勢神宮內宮前，1993年7月在式年遷宮之年開幕，由赤福集團旗下公司營運，占地約8,926平方公尺。街區重現江戶時代到明治時代的商家町並，共有28座建築與約49間店鋪，使用栂木等材料打造。名稱來自江戶時代「御蔭參」的集體參拜風潮，主設施「おかげ座」展示御蔭參歷史。2013年遷宮之年，來客達約655萬人。街區內可品嘗赤福、伊勢烏龍麵與手信，邊逛邊吃十分過癮，是參拜之後的最佳休憩場所。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "伊勢市宇治中之切町"
+    },
+    {
+     "label": "開幕",
+     "value": "1993年7月"
+    },
+    {
+     "label": "營運",
+     "value": "伊勢福（赤福集團）"
+    },
+    {
+     "label": "規模",
+     "value": "約49間店、28座建築"
+    },
+    {
+     "label": "入場",
+     "value": "免費（おかげ座另收費）"
+    }
+   ],
+   "best_season_zh": "全年；新年及連假最熱鬧",
+   "tips_zh": "街上店家多在傍晚較早打烊，請把用餐與購物時間排在下午前；週末人多，內宮周邊停車位緊張，建議搭乘公共交通。",
+   "tags": [
+    "參拜",
+    "老街",
+    "江戶風情",
+    "赤福"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/おかげ横丁"
+   ],
+   "confidence": "high",
+   "prompt_en": "Okage Yokocho old street lined with Edo-style wooden shops and noren curtains, afternoon light, lanterns, no signs readable"
+  },
+  "mascot": {
+   "title_zh": "珍珠貝與伊勢蝦的角色",
+   "title_ja": "真珠のキャラ",
+   "summary_zh": "以珍珠與龍蝦為靈感的原創吉祥物。",
+   "body_zh": "三重縣的縣魚為伊勢海老，縣內志摩、鳥羽一帶以珍珠養殖聞名，兩者皆是三重縣的象徵。本頁以這些元素為靈感設計一個原創角色：一隻小小的珍珠貝，頭上戴著龍蝦造型的帽子，雙手捧著一顆閃亮的珍珠。圖像不複製任何現有商標吉祥物，也不介紹特定官方角色，僅表達三重海產與珍珠的意象。三重縣各市町另有自己的官方吉祥物，詳情請查詢各地觀光網站。熊野古道與伊勢神宮周邊的紀念品店常販售與珍珠和海產相關的小物，可挑選作為紀念。",
+   "facts": [
+    {
+     "label": "靈感來源",
+     "value": "伊勢海老（縣魚）、珍珠"
+    },
+    {
+     "label": "設計",
+     "value": "珍珠貝加龍蝦帽"
+    },
+    {
+     "label": "本頁性質",
+     "value": "原創設計，非官方角色"
+    }
+   ],
+   "best_season_zh": "全年",
+   "tips_zh": "想看真正的官方吉祥物，可到各市町觀光案內所或活動現場，行前查詢最新官網資訊較為可靠。",
+   "tags": [
+    "吉祥物",
+    "珍珠",
+    "伊勢海老",
+    "原創"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/三重県"
+   ],
+   "confidence": "low",
+   "prompt_en": "A cute original pearl oyster character with a little lobster hat holding a shining pearl, pastel illustration. Original cute character inspired by local symbols, not replicating any existing trademarked mascot."
+  },
+  "scenery": {
+   "title_zh": "夫婦岩",
+   "title_ja": "二見興玉神社の夫婦岩",
+   "summary_zh": "以注連繩相連的兩塊海上岩石。",
+   "body_zh": "夫婦岩位於伊勢市的二見興玉神社前海面，兩塊大小不同的岩石以粗大的注連繩相連，象徵夫妻和睦、家庭平安與海上安全。注連繩每年於5月、9月與12月更換三次，信眾也會取回繩片當作護身符。據說兩岩之間遠方海中沉有興玉神石，信眾可透過岩石之間遙拜日出。夏至前後的日出可從兩岩之間升起，是知名景象。周邊還有海岸步道與海水浴場，遊客可於早晨參拜後順道漫步海濱，感受海風與日出。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "伊勢市二見町"
+    },
+    {
+     "label": "象徵",
+     "value": "夫妻圓滿、海上安全"
+    },
+    {
+     "label": "注連繩更換",
+     "value": "每年5月、9月、12月"
+    },
+    {
+     "label": "日出",
+     "value": "夏至前後從兩岩之間升起"
+    }
+   ],
+   "best_season_zh": "夏至前後日出；全年可訪",
+   "tips_zh": "日出前後的光線最美，夏季清晨前往請提早；旁邊的二見興玉神社可順道參拜，求姻緣與平安。",
+   "tags": [
+    "夫婦岩",
+    "日出",
+    "注連繩",
+    "神社"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/夫婦岩"
+   ],
+   "confidence": "high",
+   "prompt_en": "Meoto Iwa wedded rocks joined by a thick sacred shimenawa rope at sunrise with waves, golden light"
+  },
+  "spot": {
+   "title_zh": "鳥羽灣",
+   "title_ja": "鳥羽湾",
+   "summary_zh": "珍珠島、水族館與灣景的海上樂園。",
+   "body_zh": "鳥羽灣位於鳥羽港周邊，灣內散布大小島嶼，鳥羽水族館、御木本珍珠島與Dolphin Island等觀光設施集中於此。鳥羽是珍珠養殖的重要據點，傳統上由御木本幸吉於1893年成功養成半圓形珍珠，並在珍珠島展示海女潛水表演。鳥羽港有市營渡輪連往答志島、菅島等離島，也有伊勢灣渡輪連接愛知縣。若自佩吉道（Pearl Road）展望台俯瞰，島嶼與珍珠筏盡收眼底。建議搭配二見浦的夫婦岩與伊勢神宮一同安排，前往伊勢志摩的行程會更完整，也更能感受半島的風土。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "三重縣鳥羽市"
+    },
+    {
+     "label": "代表設施",
+     "value": "鳥羽水族館、御木本珍珠島"
+    },
+    {
+     "label": "交通",
+     "value": "近鐵鳥羽站；市營與伊勢灣渡輪"
+    },
+    {
+     "label": "珍珠",
+     "value": "御木本幸吉1893年的半圓珍珠"
+    }
+   ],
+   "best_season_zh": "全年；夕陽時分",
+   "tips_zh": "可搭渡輪前往答志島等離島體驗漁村生活；水族館人氣高，建議預留半日以上，旺季提早到。",
+   "tags": [
+    "鳥羽",
+    "珍珠",
+    "水族館",
+    "海灣"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/鳥羽港"
+   ],
+   "confidence": "medium",
+   "prompt_en": "Toba Bay islands and pearl rafts viewed from a hill at sunset, calm sea, ferries in distance"
+  },
+  "experience": {
+   "title_zh": "伊賀忍者體驗",
+   "title_ja": "伊賀流忍者体験",
+   "summary_zh": "忍者屋敷參觀與手裏劍體驗。",
+   "body_zh": "伊賀（今伊賀市）是日本忍者的發源地之一，與甲賀並稱兩大忍者集團，本能寺之變後被納入德川幕府。伊賀上野城附近的伊賀流忍者博物館保存有忍者屋敷，內有機關暗門、隱蔽房間等設施，由忍者裝扮的導覽員示範解說，並可體驗投擲手裏劍。忍者的實際形象與漫畫電影有不少落差，博物館也展出古文書與道具，讓遊客認識真實的情報活動。伊賀上野城與周邊城下町也值得一遊，可與忍者博物館安排成半日行程，順道品嘗當地名產。",
+   "facts": [
+    {
+     "label": "地區",
+     "value": "三重縣伊賀市"
+    },
+    {
+     "label": "內容",
+     "value": "忍者屋敷、手裏劍、表演"
+    },
+    {
+     "label": "背景",
+     "value": "伊賀與甲賀為兩大忍者集團"
+    },
+    {
+     "label": "設施",
+     "value": "伊賀流忍者博物館"
+    }
+   ],
+   "best_season_zh": "全年；春季賞櫻時尤佳",
+   "tips_zh": "忍者屋敷導覽有固定場次，旺季建議提早到並預留時間；手裏劍投擲可購票體驗，請聽從工作人員指示。",
+   "tags": [
+    "忍者",
+    "伊賀",
+    "體驗",
+    "博物館"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/忍者"
+   ],
+   "confidence": "medium",
+   "prompt_en": "Anonymous model in a black ninja outfit throwing a shuriken at a wooden target in an Iga ninja house courtyard, afternoon light"
+  },
+  "costume": {
+   "title_zh": "海女磯着",
+   "title_ja": "海女の磯着",
+   "summary_zh": "海女的白色潛水服與頭巾。",
+   "body_zh": "海女傳統的作業服稱為「磯着」，多為白色棉布，白色在海中不易被海中生物誤認，也被視為可避邪。她們頭上包著手拭巾，面部戴潛水鏡，腰間綁著繩索與採集袋。手拭巾與衣服上常見繪有符號，據說是祈求平安的護身符。隨著潛水技術進步，現代海女作業時多穿潛水衣，白色磯着則多見於觀光表演與祭典。本頁以無名模特兒表現傳統服飾風格。若想親身體驗，可留意當地提供的海女服裝拍照體驗，這類服務多為季節限定，須事先預約。",
+   "facts": [
+    {
+     "label": "衣服",
+     "value": "白色棉質磯着"
+    },
+    {
+     "label": "頭部",
+     "value": "手拭巾、潛水鏡"
+    },
+    {
+     "label": "符號",
+     "value": "部分地區有避邪符號"
+    },
+    {
+     "label": "現況",
+     "value": "作業多穿潛水衣；磯着用於表演"
+    }
+   ],
+   "best_season_zh": "全年",
+   "tips_zh": "在鳥羽海女小屋可近距離見到海女與裝束，拍攝前請先徵得同意；不要穿著與傳統無關的海邊服裝擅自模仿。",
+   "tags": [
+    "海女",
+    "磯着",
+    "傳統服飾",
+    "鳥羽"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/海女"
+   ],
+   "confidence": "low",
+   "prompt_en": "Anonymous model in a white traditional ama diving outfit with head scarf and goggles standing by the shore, soft light"
+  }
+ },
+ "areas": [
+  {
+   "id": "mie_ise",
+   "name_zh": "伊勢",
+   "name_ja": "伊勢",
+   "intro_zh": "伊勢位於縣東部，以伊勢神宮為中心，是日本最重要的參拜地。內宮前有御蔭橫丁，美食以赤福與伊勢烏龍麵最具代表；二見浦的夫婦岩則是知名日出景點。近鐵與JR皆可前往。周邊交通便利。",
+   "items": {
+    "spot": {
+     "title_zh": "伊勢神宮內宮",
+     "title_ja": "伊勢神宮内宮",
+     "summary_zh": "日本最神聖的神社，祭祀天照大御神。",
+     "body_zh": "內宮正式名稱為皇大神宮，供奉皇室祖神天照大御神，位於五十鈴川畔的神域林中。參拜者先走過宇治橋，再沿砂利參道前行，最後登上石階到達正宮。屋頂覆以萱草、構造以檜木建成的神明造，每20年更新一次，第62次式年遷宮於2013年完成，下一次預定為2033年。神域內的參道兩旁參天古杉林立，氣氛莊嚴靜謐。內宮前的御蔭橫丁與商店街，可在參拜後順道逛逛，品嘗赤福與伊勢烏龍麵等名物。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "伊勢市宇治館町"
+      },
+      {
+       "label": "祭神",
+       "value": "天照大御神"
+      },
+      {
+       "label": "遷宮",
+       "value": "第62次為2013年；下次2033年"
+      }
+     ],
+     "best_season_zh": "全年；清晨最清幽",
+     "tips_zh": "進入神域後請保持安靜，正宮前不拍照；建議先到五十鈴川御手洗場洗手，再步行參拜，出發前建議先查詢最新營業與開放資訊。",
+     "tags": [
+      "神宮",
+      "天照大御神",
+      "古杉",
+      "參拜"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/伊勢神宮"
+     ],
+     "confidence": "high",
+     "prompt_en": "Ise Jingu Naiku stone steps and thatched shrine surrounded by tall cedar trees, soft light"
+    },
+    "food": {
+     "title_zh": "伊勢烏龍麵與赤福",
+     "title_ja": "伊勢うどんと赤福",
+     "summary_zh": "軟烏龍麵與紅豆麻糬。",
+     "body_zh": "伊勢烏龍麵的麵條粗達6公厘以上，需煮25分鐘以上，口感柔軟，淋上以溜醬油與柴魚高湯調成的濃色醬汁，配料通常只有蔥花。它源自江戶時代農家與參拜者的簡單飲食。赤福餅則是以紅豆泥包裹麻糬的和菓子，表面的三道波紋據說象徵五十鈴川的流水，創業可追溯至約1707年，是伊勢參拜必買的名產。麵條軟糯、醬汁濃郁，是從參拜者的簡單飲食演變而來，兩樣食物搭配起來甜鹹交錯，很有伊勢風味。",
+     "facts": [
+      {
+       "label": "伊勢烏龍麵",
+       "value": "麵粗6mm以上、煮25分鐘以上"
+      },
+      {
+       "label": "醬汁",
+       "value": "溜醬油與柴魚高湯"
+      },
+      {
+       "label": "赤福",
+       "value": "約1707年創業，三道波紋"
+      }
+     ],
+     "best_season_zh": "全年；赤福冰夏季限定",
+     "tips_zh": "兩者都可在內宮前的商店街吃到；赤福餅保存期短，宜當天吃完，朔日餅每月一日限定，出發前建議先查詢最新營業與開放資訊。",
+     "tags": [
+      "烏龍麵",
+      "赤福",
+      "和菓子",
+      "伊勢"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/伊勢うどん",
+      "https://ja.wikipedia.org/wiki/赤福"
+     ],
+     "confidence": "high",
+     "prompt_en": "Soft thick Ise udon in dark sauce with chopped green onion and Akafuku mochi on a wooden tray"
+    },
+    "scenery": {
+     "title_zh": "夫婦岩",
+     "title_ja": "二見興玉神社の夫婦岩",
+     "summary_zh": "海上兩塊岩石以注連繩相連。",
+     "body_zh": "夫婦岩位於二見浦海面，兩塊岩石以巨大注連繩相連，象徵夫妻和睦。每年更換三次注連繩，分別在5月、9月與12月。夏至前後，太陽會從兩岩之間升起，景象神聖壯觀。旁邊的二見興玉神社供奉猿田彥大神，是前往伊勢神宮參拜前的傳統「潔淨」場所，信眾到此以海水或祈願淨身，再前往正宮參拜。夫婦岩旁的二見浦海岸整備了步道，晴天可坐在海邊欣賞日出，是伊勢旅行中不可錯過的景點，遊客也能在附近品嘗海鮮。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "伊勢市二見町"
+      },
+      {
+       "label": "注連繩更換",
+       "value": "5月、9月、12月"
+      },
+      {
+       "label": "日出",
+       "value": "夏至前後最著名"
+      }
+     ],
+     "best_season_zh": "夏至前後日出",
+     "tips_zh": "日出前一小時就位較佳；海風大，請多帶一件外套；岩礁濕滑，勿靠近海邊，出發前建議先查詢最新營業與開放資訊。",
+     "tags": [
+      "夫婦岩",
+      "注連繩",
+      "日出",
+      "二見浦"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/夫婦岩"
+     ],
+     "confidence": "high",
+     "prompt_en": "Meoto Iwa wedded rocks tied with shimenawa rope at sunrise over sea"
+    }
+   }
+  },
+  {
+   "id": "mie_toba_shima",
+   "name_zh": "鳥羽・志摩",
+   "name_ja": "鳥羽・志摩",
+   "intro_zh": "鳥羽、志摩位於縣東南部，是伊勢志摩國立公園的核心。這裡有海女文化、珍珠養殖、里亞式海灣與新鮮海產，伊勢海老與牡蠣都是名物，風景以英虞灣最為壯麗。近鐵志摩線可深入半島。",
+   "items": {
+    "spot": {
+     "title_zh": "鳥羽海女小屋",
+     "title_ja": "海女小屋",
+     "summary_zh": "海女文化與珍珠。",
+     "body_zh": "鳥羽、志摩一帶是日本海女最多的地區，沿海散布著供海女休息取暖的「海女小屋」。部分小屋對遊客開放，可以在炭火旁吃剛捕撈的鮑魚、海螺與蝦，並聽海女講述潛水生活。鳥羽灣內則有鳥羽水族館與御木本珍珠島，可了解珍珠養殖與海女表演。實際營業時間與預約方式依各小屋而異，請事先確認。部分小屋同時提供海女的潛水示範，觀賞時可聽到海女吐氣的「磯笛」聲，是難得的體驗，建議安排在上午前往。",
+     "facts": [
+      {
+       "label": "地區",
+       "value": "鳥羽、志摩"
+      },
+      {
+       "label": "內容",
+       "value": "海女小屋用餐、珍珠島表演"
+      },
+      {
+       "label": "鄰近設施",
+       "value": "鳥羽水族館"
+      }
+     ],
+     "best_season_zh": "全年；夏季較熱鬧",
+     "tips_zh": "海女小屋多需預約，用餐時也請尊重現場作息，勿隨意拍攝海女，出發前建議先查詢最新營業與開放資訊。",
+     "tags": [
+      "海女",
+      "小屋",
+      "珍珠",
+      "鳥羽"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/海女"
+     ],
+     "confidence": "low",
+     "prompt_en": "Pearl divers ama in white clothing at a seaside fishing hut in Toba, soft morning light"
+    },
+    "food": {
+     "title_zh": "伊勢龍蝦與牡蠣",
+     "title_ja": "伊勢海老と牡蠣",
+     "summary_zh": "志摩海味。",
+     "body_zh": "志摩是伊勢海老的重要產地，常見做法有生魚片、鬼殼燒與味噌湯。牡蠣則以的矢灣、英虞灣一帶養殖，冬季是最佳享用季節，可吃炭烤牡蠣或牡蠣小屋的蒸燒套餐。三重縣縣魚即伊勢海老，是縣內名產，價位不低，但滋味鮮甜，肉質彈牙。許多旅館與海鮮食堂都提供套餐，旅客可預約海邊餐廳享用。這裡的海鮮鮮度出眾，不少民宿會把當日漁獲做成整套海鮮料理，連早餐也有新鮮的魚貝類，價格以時價為主。",
+     "facts": [
+      {
+       "label": "伊勢海老",
+       "value": "三重縣縣魚"
+      },
+      {
+       "label": "牡蠣",
+       "value": "冬季盛產"
+      },
+      {
+       "label": "吃法",
+       "value": "刺身、鬼殼燒、炭烤"
+      }
+     ],
+     "best_season_zh": "伊勢海老秋至春；牡蠣冬季",
+     "tips_zh": "牡蠣小屋多為自助炭烤，請注意燙傷；海鮮餐廳價格不一，宜先確認菜單，出發前建議先查詢最新營業與開放資訊。",
+     "tags": [
+      "伊勢海老",
+      "牡蠣",
+      "海鮮",
+      "志摩"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/三重県"
+     ],
+     "confidence": "low",
+     "prompt_en": "Grilled spiny lobster and oysters on a platter at a seaside restaurant, close-up"
+    },
+    "scenery": {
+     "title_zh": "英虞灣",
+     "title_ja": "英虞湾",
+     "summary_zh": "里亞式海灣與珍珠養殖筏。",
+     "body_zh": "英虞灣位於志摩半島，是典型里亞式海岸，因冰河期後海平面上升淹沒河谷而成。灣內約有60座島嶼，其中賢島、間崎島與横山島有人居住，賢島有橋與鐵道相連。明治時代以來，這裡以養殖珍珠聞名，發展出培育圓形阿古屋珍珠的技術；灣內的主要特產還有青海苔。灣區屬伊勢志摩國立公園，傍晚的夕陽與珍珠筏景色十分迷人。英虞灣周邊的賢島一帶設有旅館與餐廳，住宿選擇多，適合安排兩天一夜的度假行程。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "志摩市"
+      },
+      {
+       "label": "島嶼",
+       "value": "約60座"
+      },
+      {
+       "label": "特產",
+       "value": "珍珠、青海苔"
+      },
+      {
+       "label": "保護",
+       "value": "伊勢志摩國立公園"
+      }
+     ],
+     "best_season_zh": "傍晚夕陽；晴天",
+     "tips_zh": "搭遊覽船遊灣約一小時；展望台請事先查路況，傍晚光線最佳，出發前建議先查詢最新營業與開放資訊。",
+     "tags": [
+      "里亞式海岸",
+      "珍珠",
+      "海灣",
+      "夕陽"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/英虞湾"
+     ],
+     "confidence": "high",
+     "prompt_en": "Ago Bay islands with pearl farming rafts at sunset, calm water"
+    }
+   }
+  },
+  {
+   "id": "mie_matsusaka",
+   "name_zh": "松阪",
+   "name_ja": "松阪",
+   "intro_zh": "松阪位於縣中部，是松阪牛的產地，也是江戶時代以來的商人之町。松坂城址的石垣被評為名城，附近還有國學者本居宣長的故居，是結合美食與歷史的小旅行目的地。近鐵與JR都在此停靠。",
+   "items": {
+    "spot": {
+     "title_zh": "松阪城跡",
+     "title_ja": "松坂城跡",
+     "summary_zh": "石牆城跡與櫻花。",
+     "body_zh": "松阪城由蒲生氏鄉於1588年所建，位於丘陵上，原本有三重五層的天守，1877年因火災燒毀，現存石垣與城址公園。它的石垣以野面積與精緻的隅角技法聞名，被評為日本百名城之一，並於2011年成為國指定史跡。春天櫻花盛開，城址公園內有本居宣長舊宅等文化設施，山腳下就是松阪商人的舊街區。城下町裡保留著松阪商人的舊宅與商家，市區內的魚町與愛宕町散步起來別有風味，整體行程輕鬆愜意。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "松阪市"
+      },
+      {
+       "label": "築城",
+       "value": "1588年（蒲生氏鄉）"
+      },
+      {
+       "label": "天守",
+       "value": "1877年燒毀"
+      },
+      {
+       "label": "指定",
+       "value": "百名城、國史跡（2011年）"
+      }
+     ],
+     "best_season_zh": "春季櫻花",
+     "tips_zh": "石垣高處風大，登上城址務必穿好走的鞋子；公園與舊宅可一起參觀，約一至兩小時，出發前建議先查詢最新營業與開放資訊。",
+     "tags": [
+      "城跡",
+      "石垣",
+      "櫻花",
+      "松阪"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/松阪城"
+     ],
+     "confidence": "high",
+     "prompt_en": "Matsusaka Castle ruins stone walls with cherry blossoms in spring"
+    },
+    "food": {
+     "title_zh": "松阪牛",
+     "title_ja": "松阪牛",
+     "summary_zh": "頂級和牛，壽喜燒最有名。",
+     "body_zh": "松阪牛是以黑毛和種未經產雌牛在松阪市周邊飼養而成，肉質霜降細緻，入口即化。江戶時代的農家向但馬國購入小牛，花三至四年育肥；明治時代開始販往東京，老牌肉舖「和田金」亦在此時創業。1935年於全國肉用畜產博覽會獲最高賞，奠定品牌地位。最經典的吃法是壽喜燒，也有牛排與燒肉，各店有不同的做法。老店各有自己的割烹方式，午餐時段常提供比晚餐更平價的套餐，是品嘗和牛入門的好時機。",
+     "facts": [
+      {
+       "label": "產地",
+       "value": "松阪市周邊"
+      },
+      {
+       "label": "牛隻",
+       "value": "黑毛和種未經產雌牛"
+      },
+      {
+       "label": "育肥",
+       "value": "江戶時代約3–4年"
+      },
+      {
+       "label": "品牌確立",
+       "value": "1935年博覽會"
+      }
+     ],
+     "best_season_zh": "全年",
+     "tips_zh": "高級店家宜事先預約並確認份量與價格；想平價嘗試可選午餐套餐，出發前建議先查詢最新營業與開放資訊。",
+     "tags": [
+      "和牛",
+      "壽喜燒",
+      "松阪",
+      "高級食材"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/松阪牛"
+     ],
+     "confidence": "high",
+     "prompt_en": "Marbled Matsusaka beef sukiyaki in iron pan with raw egg dip, close-up"
+    },
+    "scenery": {
+     "title_zh": "櫛田川",
+     "title_ja": "櫛田川",
+     "summary_zh": "流過平原的河川與茶園。",
+     "body_zh": "櫛田川全長約87公里，流域面積約436平方公里，源於三重奈良縣界的高見山，沿中央構造線向東流入伊勢灣，是一級河川。河名相傳來自倭姬命在尋找神社之地時掉落的梳子。此後歷代齋王也沿襲將梳子投入河中的做法。1823年建成的立梅用水，引櫛田川支流水灌溉，2014年被登錄為世界灌溉設施遺產。這一帶也是松阪茶與農業的產地，河畔田野綠意盎然，騎單車慢遊最為合適，風光寧靜怡人。",
+     "facts": [
+      {
+       "label": "全長",
+       "value": "約87公里"
+      },
+      {
+       "label": "流域面積",
+       "value": "約436平方公里"
+      },
+      {
+       "label": "源頭",
+       "value": "高見山"
+      },
+      {
+       "label": "文化",
+       "value": "立梅用水（世界灌溉設施遺產，2014年）"
+      }
+     ],
+     "best_season_zh": "春秋兩季",
+     "tips_zh": "河畔多為田園景觀，適合騎單車慢遊；夏季水位變化大，勿在陌生河段下水，出發前建議先查詢最新營業與開放資訊。",
+     "tags": [
+      "河川",
+      "田園",
+      "灌溉",
+      "松阪"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/櫛田川"
+     ],
+     "confidence": "high",
+     "prompt_en": "Kushida River flowing through rural plains with distant hills, soft light"
+    }
+   }
+  },
+  {
+   "id": "mie_kumano_kodo",
+   "name_zh": "熊野古道",
+   "name_ja": "熊野古道",
+   "intro_zh": "三重縣南部的熊野古道伊勢路，從伊勢神宮通往熊野三山，2004年列入世界遺產。這裡有石階古道、杉木森林與海蝕洞崖的鬼之城，是適合健行與體驗朝聖文化的地方。適合以半日至兩日行程體驗。",
+   "items": {
+    "spot": {
+     "title_zh": "鬼之城",
+     "title_ja": "鬼ヶ城",
+     "summary_zh": "海蝕洞崖與熊野古道伊勢路。",
+     "body_zh": "鬼之城位於熊野市，是長約1.2公里的海蝕洞窟與岩壁，海浪侵蝕加上地殼隆起，形成層層階梯狀的洞窟。傳說坂上田村麻呂在此討伐海盜多賀丸，故稱鬼之城。這裡於1935年被指定為國家天然紀念物，1958年又被指定為名勝，並與獅子岩一起成為紀伊山地靈場與參詣道世界遺產的一部分，是熊野灘上最有名的海岸景觀。鬼之城旁邊的獅子岩與海濱步道可一併參觀，沿岸步道景色壯闊，非常適合攝影與地質觀察愛好者。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "熊野市"
+      },
+      {
+       "label": "全長",
+       "value": "約1.2公里"
+      },
+      {
+       "label": "指定",
+       "value": "天然紀念物（1935）、名勝（1958）"
+      },
+      {
+       "label": "傳說",
+       "value": "坂上田村麻呂討伐多賀丸"
+      }
+     ],
+     "best_season_zh": "全年；晴天海景最佳",
+     "tips_zh": "海浪大時岩面濕滑，請勿靠近邊緣；搭JR到熊野市站再轉巴士約5分鐘可到，出發前建議先查詢最新營業與開放資訊。",
+     "tags": [
+      "海蝕洞",
+      "世界遺產",
+      "傳說",
+      "熊野灘"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/鬼ヶ城"
+     ],
+     "confidence": "high",
+     "prompt_en": "Onigajo sea cliffs with eroded caves and waves, rugged coast"
+    },
+    "food": {
+     "title_zh": "秋刀魚壽司",
+     "title_ja": "さんま寿司",
+     "summary_zh": "紀州特色。",
+     "body_zh": "秋刀魚壽司是紀伊半島沿海的鄉土料理，將鹽漬或醋漬的秋刀魚剖開，放在醋飯上壓製成條狀，再切片食用。熊野一帶秋季有新鮮秋刀魚上岸，是當地人熟悉的家常與伴手禮味道。除此之外，南紀一帶以柑橘聞名，各種蜜柑與果汁、果醬也是常見的伴手禮。這些簡單而地道的料理，反映了半島沿海人民的飲食智慧。在熊野市或尾鷲的食堂可找到這道料理，不少店家也供應其他地方海鮮，可一次嘗試多種口味。",
+     "facts": [
+      {
+       "label": "料理",
+       "value": "醋飯上壓製秋刀魚"
+      },
+      {
+       "label": "食材",
+       "value": "秋刀魚、醋飯"
+      },
+      {
+       "label": "伴手禮",
+       "value": "南紀柑橘類製品"
+      }
+     ],
+     "best_season_zh": "秋季",
+     "tips_zh": "可在熊野、尾鷲一帶的食堂和道之驛買到；醋味較重，初次嘗試者可先買小份，出發前建議先查詢最新營業與開放資訊。",
+     "tags": [
+      "壽司",
+      "鄉土料理",
+      "秋刀魚",
+      "紀州"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/熊野古道"
+     ],
+     "confidence": "low",
+     "prompt_en": "Sanma pressed sushi and mikan oranges on a wooden board"
+    },
+    "scenery": {
+     "title_zh": "馬越峠古道",
+     "title_ja": "馬越峠",
+     "summary_zh": "石階覆苔的古道森林。",
+     "body_zh": "馬越峠是熊野古道伊勢路上最具代表性的一段，位於尾鷲市，沿線有被苔蘚覆蓋的石階與杉木林，氣氛靜謐。熊野古道自11至12世紀起，隨著朝聖者絡繹不絕而有「蟻之熊野詣」之稱，2004年成為日本首個以道路登錄的世界遺產。伊勢路從伊勢神宮通往熊野，全長約160公里，馬越峠則可半日往返，是初學者也能輕鬆健行的路段。沿途的茶屋與資料館可補充水分、了解古道歷史，建議早上出發以避開午後的山區雨霧。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "尾鷲市"
+      },
+      {
+       "label": "所屬",
+       "value": "熊野古道伊勢路"
+      },
+      {
+       "label": "世界遺產",
+       "value": "2004年"
+      },
+      {
+       "label": "特色",
+       "value": "石階、苔蘚、杉林"
+      }
+     ],
+     "best_season_zh": "春秋；梅雨季石階濕滑",
+     "tips_zh": "石階遇雨極滑，請穿登山鞋並帶雨具；入山前記得查看路況與日落時間，出發前建議先查詢最新營業與開放資訊。",
+     "tags": [
+      "古道",
+      "世界遺產",
+      "健行",
+      "杉林"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/熊野古道"
+     ],
+     "confidence": "medium",
+     "prompt_en": "Moss-covered stone steps along Kumano Kodo through ancient cedar forest, misty light"
+    }
+   }
+  }
+ ]
+}

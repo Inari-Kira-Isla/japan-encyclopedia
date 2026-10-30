@@ -1,0 +1,157 @@
+{
+ "id": "kochi",
+ "spots": [
+  {
+   "title_zh": "高知城",
+   "title_ja": "高知城",
+   "category": "城郭史蹟",
+   "area_zh": "高知市",
+   "summary_zh": "天守與本丸御殿並存的現存十二天守",
+   "body_zh": "高知城建於高知平野中央的大高坂山，是山內一豐入主土佐後於1601年起興建，1603年本丸、二之丸完成，全城至1611年才竣工。1727年大火燒毀多數建築，1753年前重建，現存天守是1747年建造。這裡是本丸建築完整保留的唯一城堡，也是天守與本丸御殿並存的唯一城堡；天守、本丸御殿、追手門等15棟均為重要文化財，城域作為高知公園開放。",
+   "facts": [
+    {"label": "所在地", "value": "高知縣高知市丸之內（大高坂山）"},
+    {"label": "開創／成因", "value": "山內一豐築城，現存天守為1747年建造"},
+    {"label": "看點", "value": "現存天守、本丸御殿、追手門，重要文化財15棟"}
+   ],
+   "best_season_zh": "春季櫻花與秋季晴天",
+   "tips_zh": "城域作為公園可免費進入，天守與本丸御殿需另購入館；建議配合週日市集或市區行程順遊，步行爬坡留意體力。",
+   "tags": ["現存天守", "本丸御殿", "山內一豐", "日本100名城"],
+   "sources": ["https://ja.wikipedia.org/wiki/高知城"],
+   "confidence": "high",
+   "prompt_en": "A compact wooden castle keep with dark timber walls and white plaster accents on a small hill, stone steps and a gate in the foreground, spring cherry blossoms framing the view, clear morning sky, low angle from the approach path, no text, no signs, no recognizable people"
+  },
+  {
+   "title_zh": "桂濱",
+   "title_ja": "桂浜",
+   "category": "海島海岸",
+   "area_zh": "高知市浦戶",
+   "summary_zh": "面向太平洋的月見名所與龍馬像所在地",
+   "body_zh": "桂濱位於高知市浦戶，面向太平洋，介於龍頭岬與龍王岬之間，是高知的代表名所，名列日本之渚百選與四國八十八景第26番，也出現在土佐民謠《與佐古節》之中。海濱高處矗立1928年完成的坂本龍馬像，龍王岬設有龍王宮。戰國時代長宗我部元親曾在濱後山上築浦戶城為據點，附近還有坂本龍馬紀念館與桂濱水族館。海浪變化劇烈，海岸禁止游泳。",
+   "facts": [
+    {"label": "所在地", "value": "高知縣高知市浦戶"},
+    {"label": "開創／成因", "value": "龍頭岬與龍王岬之間的弧形砂濱，後方有浦戶城遺址"},
+    {"label": "看點", "value": "坂本龍馬像、龍王宮、月見名所、桂濱水族館"}
+   ],
+   "best_season_zh": "中秋前後的月夜與晴天日出",
+   "tips_zh": "海浪急，請勿下水游泳並遠離濱邊岩壁；想看月景可挑中秋時節，傍晚到訪回程交通須先確認末班時間。",
+   "tags": ["太平洋", "坂本龍馬", "渚百選", "月見"],
+   "sources": ["https://ja.wikipedia.org/wiki/桂浜"],
+   "confidence": "high",
+   "prompt_en": "A curved pebble and sand beach facing open Pacific waves, two small rocky headlands with pine trees on each side, a distant statue silhouette on a green rise, a bright full moon rising over the dark blue sea at dusk, long-lens low angle, no text, no signs, no recognizable people"
+  },
+  {
+   "title_zh": "四萬十川",
+   "title_ja": "四万十川",
+   "category": "自然絕景",
+   "area_zh": "高知縣西部（四萬十市等）",
+   "summary_zh": "日本最後清流與沉下橋",
+   "body_zh": "四萬十川是高知縣西部的一級河川，全長196公里，為四國最長的河川。源自津野町的不入山，呈逆S形蜿蜒，最後在四萬十市注入太平洋。主流沒有興建大型水壩，因此被稱為「日本最後的清流」，與柿田川、長良川並稱日本三大清流。流域共有47座沉下橋，其中主流22座，高知縣自1993年起將其列為生活文化遺產保存；江川崎以下常見獨木舟與露營場。",
+   "facts": [
+    {"label": "所在地", "value": "高知縣西部，源自津野町不入山，在四萬十市入海"},
+    {"label": "開創／成因", "value": "主流無大型水壩，保留自然河貌；1994年正式改名四萬十川"},
+    {"label": "看點", "value": "沉下橋47座、獨木舟、蜿蜒河灣"}
+   ],
+   "best_season_zh": "初夏至秋季",
+   "tips_zh": "沉下橋在河水上漲時會沒入水中，並無護欄，請小心通行；若想划獨木舟，先查詢水位與營運店家資訊。",
+   "tags": ["清流", "沉下橋", "獨木舟", "四國最長"],
+   "sources": ["https://ja.wikipedia.org/wiki/四万十川"],
+   "confidence": "high",
+   "prompt_en": "A wide clear river meandering through green forested mountains, a low concrete bridge without railings close to the water surface, calm shimmering water reflecting hills, soft early summer haze, elevated riverside viewpoint, no text, no signs, no recognizable people"
+  },
+  {
+   "title_zh": "足摺岬",
+   "title_ja": "足摺岬",
+   "category": "海島海岸",
+   "area_zh": "土佐清水市",
+   "summary_zh": "突出太平洋的四國南端斷崖岬角",
+   "body_zh": "足摺岬位於高知縣土佐清水市，是足摺半島突出太平洋的尖端，屬足摺宇和海國立公園，一般被視為四國最南端，但嚴格來說並非最南。花崗岩台地經隆起、沉降與海浪侵蝕而成，兩公里自然步道的盡頭設有足摺岬展望台。周邊生長山茶、烏岡櫟與蒲葵等亞熱帶植物，松尾神社境內的雀榕自生地是國家天然紀念物，岬上還有空海創建的金剛福寺。",
+   "facts": [
+    {"label": "所在地", "value": "高知縣土佐清水市足摺半島南端"},
+    {"label": "開創／成因", "value": "花崗岩台地經隆起沉降與海蝕形成"},
+    {"label": "看點", "value": "足摺岬展望台、山茶自然步道、金剛福寺、松尾的雀榕"}
+   ],
+   "best_season_zh": "冬末至春季山茶花期",
+   "tips_zh": "岬角常有強風，颱風季更不宜靠近崖邊；自然步道約兩公里，建議穿好走的鞋，並預留往返市區的車程時間。",
+   "tags": ["岬角", "花崗岩", "山茶", "金剛福寺"],
+   "sources": ["https://ja.wikipedia.org/wiki/足摺岬"],
+   "confidence": "high",
+   "prompt_en": "A rugged granite cape jutting into the open ocean, a white lighthouse on the headland, dense dark green camellia and subtropical trees along the cliff edge, big rolling waves, warm sunrise light, aerial angle from slightly above, no text, no signs, no recognizable people"
+  },
+  {
+   "title_zh": "龍河洞",
+   "title_ja": "龍河洞",
+   "category": "自然絕景",
+   "area_zh": "香美市",
+   "summary_zh": "日本三大鐘乳洞與彌生遺跡",
+   "body_zh": "龍河洞位於高知縣香美市土佐山田町，是日本三大鐘乳洞之一，總延長約4公里，一般參觀路線約1公里，另設需提前預約的探險路線。洞內曾出土數十件彌生陶器與爐跡、木炭和獸骨，顯示彌生時代有人居住，因此1934年同時被指定為國家天然紀念物與史跡，2007年入選日本地質百選。最具象徵性的是與鐘乳石融為一體的彌生陶壺「神之壺」。",
+   "facts": [
+    {"label": "所在地", "value": "高知縣香美市土佐山田町"},
+    {"label": "開創／成因", "value": "石灰岩鐘乳洞，洞內有彌生時代居住遺跡"},
+    {"label": "看點", "value": "神之壺、探險路線、龍河洞博物館"}
+   ],
+   "best_season_zh": "全年皆宜（洞內溫度穩定）",
+   "tips_zh": "洞內濕滑且有階梯，請穿防滑鞋並帶薄外套；探險路線需前一日預約，直達公車班次有限，行前先查時刻。",
+   "tags": ["鐘乳洞", "彌生遺跡", "神之壺", "天然紀念物"],
+   "sources": ["https://ja.wikipedia.org/wiki/龍河洞"],
+   "confidence": "high",
+   "prompt_en": "Inside a limestone cave, glowing stalactites and stalagmites in warm amber spotlighting, a smooth wet stone path winding forward, dripping water and mineral flowstone shining, deep shadows, wide angle low viewpoint, no text, no signs, no recognizable people"
+  },
+  {
+   "title_zh": "室戶岬",
+   "title_ja": "室戸岬",
+   "category": "海島海岸",
+   "area_zh": "室戶市",
+   "summary_zh": "階梯狀海岸段丘與空海悟道傳說",
+   "body_zh": "室戶岬位於高知縣室戶市，是室戶半島突入太平洋的尖端，隔開紀伊水道與土佐灣，為國家名勝，名列四國八十八景第22番。安芸山地在此沒入海中，形成海岸段丘、岩礁與奇岩，加上每千年約隆起2公尺，造就階梯狀地形。此處為颱風必經之地，室戶颱風因而得名，岬邊的御厨人窟相傳是空海修行並悟道之處。",
+   "facts": [
+    {"label": "所在地", "value": "高知縣室戶市，室戶半島南端"},
+    {"label": "開創／成因", "value": "地盤隆起與海蝕形成海岸段丘與奇岩"},
+    {"label": "看點", "value": "海岸段丘、岩礁奇岩、御厨人窟"}
+   ],
+   "best_season_zh": "春秋的晴天，日出時段",
+   "tips_zh": "此處風大浪高，岩礁濕滑，攝影請勿靠近海邊岩緣；颱風季前後需留意天氣與道路狀況，並先確認洞窟開放情形。",
+   "tags": ["海岸段丘", "岩礁", "空海", "國家名勝"],
+   "sources": ["https://ja.wikipedia.org/wiki/室戸岬"],
+   "confidence": "high",
+   "prompt_en": "A windswept cape with stepped coastal terraces and jagged dark rocks, powerful waves crashing with white spray, subtropical shrubs on the headland, pre-dawn pink and orange sky over the Pacific, wide-angle coastal view, no text, no signs, no recognizable people"
+  },
+  {
+   "title_zh": "竹林寺",
+   "title_ja": "竹林寺",
+   "category": "神社寺院",
+   "area_zh": "高知市五台山",
+   "summary_zh": "四國八十八所唯一以文殊為本尊的古剎",
+   "body_zh": "竹林寺位於高知市五台山，屬真言宗智山派，是四國八十八所第31番札所。寺傳神龜元年（724年）聖武天皇夢見在唐朝五台山參拜文殊菩薩，命行基尋找相似山地建寺，後來空海也曾駐錫修法。本尊文殊菩薩是每五十年開帳一次的祕佛，與切戶、安倍並稱日本三文殊，也是四國八十八所中唯一以文殊為本尊的寺院。江戶時代受土佐藩主山內氏皈依。",
+   "facts": [
+    {"label": "所在地", "value": "高知縣高知市五台山"},
+    {"label": "開創／成因", "value": "寺傳724年聖武天皇命行基創建，實際創建年代不詳"},
+    {"label": "看點", "value": "文殊菩薩本尊、四國八十八所第31番、日本三文殊"}
+   ],
+   "best_season_zh": "新綠與秋季",
+   "tips_zh": "寺院在五台山上，從市區搭車前往較省力；參拜時保持安靜，遇上遍路修行者時請讓出參拜動線。",
+   "tags": ["遍路札所", "文殊菩薩", "五台山", "真言宗"],
+   "sources": ["https://ja.wikipedia.org/wiki/竹林寺_(高知市)"],
+   "confidence": "high",
+   "prompt_en": "A mountain temple compound with a tiered wooden pagoda and tiled temple hall among tall cedar trees, stone steps and lanterns in the foreground, soft morning mist, fresh green leaves, quiet atmosphere, eye-level view from the approach path, no text, no signs, no recognizable people"
+  },
+  {
+   "title_zh": "牧野植物園",
+   "title_ja": "高知県立牧野植物園",
+   "category": "庭園公園",
+   "area_zh": "高知市五台山",
+   "summary_zh": "紀念植物學者牧野富太郎的植物園",
+   "body_zh": "高知縣立牧野植物園位於高知市五台山，1958年為紀念出身高知的植物學者牧野富太郎而開園，園域約17.8公頃，栽培近3,000種植物。1999年園內開設由內藤廣設計的牧野富太郎紀念館本館，收藏牧野的藏書與遺物約5.8萬件，標本庫則有約30萬件標本。另有2008年落成的50週年紀念庭園、2010年開放的新溫室，以及保護土佐寒蘭的相關設施。",
+   "facts": [
+    {"label": "所在地", "value": "高知縣高知市五台山4200番地6"},
+    {"label": "開創／成因", "value": "1958年為紀念牧野富太郎開園，1999年開設紀念館"},
+    {"label": "看點", "value": "紀念館本館、溫室、50週年紀念庭園、土佐寒蘭中心"}
+   ],
+   "best_season_zh": "春季花期最盛",
+   "tips_zh": "園區面積大且有坡度，建議預留半天；溫室適合雨天或炎夏避暑，開園時間與休園日請以官方公告為準。",
+   "tags": ["植物園", "牧野富太郎", "溫室", "標本"],
+   "sources": ["https://ja.wikipedia.org/wiki/高知県立牧野植物園"],
+   "confidence": "high",
+   "prompt_en": "A botanical garden in spring with winding paths among flowering shrubs and wildflower beds, a modern low timber-and-glass museum building with a gently sloped roof in the background, soft sunlight, rich greens and pastel blossoms, wide eye-level view, no text, no signs, no recognizable people"
+  }
+ ]
+}

@@ -1,0 +1,277 @@
+{
+ "id": "tochigi",
+ "foods": [
+  {
+   "title_zh": "宇都宮餃子",
+   "title_ja": "宇都宮餃子",
+   "category": "B級美食",
+   "summary_zh": "餃子消費量名列前茅的宇都宮，清爽多汁的煎餃。",
+   "body_zh": "宇都宮市以餃子聞名，市內有大量餃子專門店，並常在家庭消費額統計中名列前茅。宇都宮餃子的特色是餡料以高麗菜與白菜為主，口味清爽，可以一次吃很多個。主要做法有煎餃與水餃，通常以醋與辣油沾食，也有店家提供湯餃。餃子店多半只賣餃子、飯與湯，點菜簡單，是宇都宮獨特的用餐風景，吃完一份常會再追加一份。",
+   "facts": [
+    {
+     "label": "起源",
+     "value": "一般認為與戰後從中國東北返鄉者帶回的餃子有關，說法不一"
+    },
+    {
+     "label": "主要食材",
+     "value": "豬肉、高麗菜、白菜、餃子皮"
+    },
+    {
+     "label": "吃法",
+     "value": "煎餃沾醋與辣油"
+    }
+   ],
+   "season_zh": "全年",
+   "where_zh": "宇都宮市內的餃子專門店與餃子街",
+   "tags": [
+    "餃子",
+    "宇都宮",
+    "B級美食",
+    "煎餃"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/宇都宮餃子"
+   ],
+   "confidence": "medium",
+   "prompt_en": "A single white plate of pan-fried Utsunomiya gyoza with crisp golden bottoms, a small dish of vinegar and chili oil beside it, wooden table, warm side light, no text, no signage"
+  },
+  {
+   "title_zh": "佐野拉麵",
+   "title_ja": "佐野ラーメン",
+   "category": "麵飯",
+   "summary_zh": "佐野市的青竹手打拉麵，湯頭清澈麵條彈牙。",
+   "body_zh": "佐野拉麵是栃木縣佐野市的在地拉麵，以青竹打法製作麵條而聞名。麵條以竹棍反覆敲打麵團，使麵質扁平略粗、彈性十足。湯頭以雞骨與豬骨熬製，搭配醬油調味，清澈順口。碗中配叉燒、筍乾與蔥花，是佐野的食堂文化代表。麵體帶有手打的不規則感，吸附湯汁後風味更佳，當地人習慣在平日中午排隊享用，是旅人尋訪的目標。",
+   "facts": [
+    {
+     "label": "起源",
+     "value": "佐野市的在地拉麵，具體創始年份說法不一"
+    },
+    {
+     "label": "主要食材",
+     "value": "青竹手打麵、雞豬骨醬油湯、叉燒"
+    },
+    {
+     "label": "吃法",
+     "value": "趁熱先喝湯再吃麵"
+    }
+   ],
+   "season_zh": "全年",
+   "where_zh": "佐野市內的拉麵店",
+   "tags": [
+    "拉麵",
+    "佐野",
+    "青竹打",
+    "醬油"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/佐野ラーメン"
+   ],
+   "confidence": "medium",
+   "prompt_en": "A single ceramic bowl of Sano ramen with clear soy broth, slightly wavy flat hand-made noodles, chashu slices, menma and green onion, dark wooden counter, steam, soft warm light, no text"
+  },
+  {
+   "title_zh": "鮭魚蘿蔔泥雜燉",
+   "title_ja": "しもつかれ",
+   "category": "鄉土料理",
+   "summary_zh": "以鮭魚頭、蘿蔔泥與大豆燉成的栃木傳統料理。",
+   "body_zh": "しもつかれ是栃木縣與北關東地區的鄉土料理，在初午（二月初午日）時供奉稻荷神並食用。主要材料為鮭魚頭、粗磨蘿蔔泥、炒大豆、紅蘿蔔與酒粕，一起燉煮。味道偏酸，外觀樸素，被視為需要習慣的味道。據傳是為了不浪費食材而產生的惜物料理，也被稱為「有味道的鄉土料理」。",
+   "facts": [
+    {
+     "label": "起源",
+     "value": "與初午供奉稻荷神的習俗有關"
+    },
+    {
+     "label": "主要食材",
+     "value": "鮭魚頭、蘿蔔泥、大豆、酒粕"
+    },
+    {
+     "label": "吃法",
+     "value": "置涼後食用，也可配白飯"
+    }
+   ],
+   "season_zh": "2月初午前後",
+   "where_zh": "栃木縣內家庭及鄉土料理店",
+   "tags": [
+    "鄉土料理",
+    "鮭魚",
+    "蘿蔔泥",
+    "初午"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/しもつかれ"
+   ],
+   "confidence": "medium",
+   "prompt_en": "A single small ceramic bowl of Shimotsukare, coarse grated daikon with salmon bits, soybeans and carrot in a pale beige simmered mixture, wooden table, soft diffused light, rustic home-style presentation, no text"
+  },
+  {
+   "title_zh": "日光湯波",
+   "title_ja": "日光ゆば",
+   "category": "特產食材",
+   "summary_zh": "日光寺社精進料理傳承的豆乳薄皮，口感細滑。",
+   "body_zh": "日光湯波是日光市的名產，源自寺社的精進料理文化。將豆漿加熱，取表面凝結的薄膜，稱為湯波。口感細滑、大豆風味濃郁，營養價值高。日光的湯波常見生食蘸醬油、做成捲物、加入湯中或與蔬菜一起燉煮。在日光的料理店與伴手禮店可以看到。口味溫和，適合搭配日本酒，是日光觀光時的定番美食，也常以真空包裝販售，方便帶回家。",
+   "facts": [
+    {
+     "label": "起源",
+     "value": "日光山寺社的精進料理傳統"
+    },
+    {
+     "label": "主要食材",
+     "value": "大豆、豆漿"
+    },
+    {
+     "label": "吃法",
+     "value": "生食沾醬油，或做成煮物、湯品"
+    }
+   ],
+   "season_zh": "全年",
+   "where_zh": "日光市的料理店與寺社周邊",
+   "tags": [
+    "湯波",
+    "日光",
+    "精進料理",
+    "大豆"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/ゆば"
+   ],
+   "confidence": "medium",
+   "prompt_en": "A single small ceramic plate of fresh Nikko yuba, delicate folded soy skin with a small dish of soy sauce and a dab of wasabi, dark wooden table, soft natural side light, minimalist, no text"
+  },
+  {
+   "title_zh": "那珂川香魚",
+   "title_ja": "那珂川の鮎",
+   "category": "海鮮",
+   "summary_zh": "那珂川清流所產香魚，鹽烤後香氣清爽。",
+   "body_zh": "那珂川是流經栃木縣的清流，這裡的香魚以味道清爽、有獨特瓜果香氣而知名。夏季是香魚季，最常見的吃法是將活魚串燒，抹鹽以炭火慢烤，皮脆肉嫩。也有甘露煮與炸物等做法。在栃木縣北部的河畔料理店可以品嚐。一般建議趁熱吃，連頭到尾都能入口，能嘗到香魚內臟的微苦與河水般的清香，是夏日限定的享受。",
+   "facts": [
+    {
+     "label": "產地",
+     "value": "那珂川流域，如那須烏山市、大田原市"
+    },
+    {
+     "label": "主要食材",
+     "value": "香魚（鮎）、鹽"
+    },
+    {
+     "label": "吃法",
+     "value": "鹽烤，從魚身中段開始吃"
+    }
+   ],
+   "season_zh": "6月至10月",
+   "where_zh": "縣北那珂川沿岸的河畔料理店",
+   "tags": [
+    "香魚",
+    "那珂川",
+    "鹽烤",
+    "夏季"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/アユ"
+   ],
+   "confidence": "low",
+   "prompt_en": "A single salt-grilled ayu sweetfish on a bamboo skewer, curved as if swimming, with crisp charred salt crust, on a rectangular dark ceramic plate with a lime wedge, wooden table, warm side light, no text"
+  },
+  {
+   "title_zh": "栃木和牛",
+   "title_ja": "とちぎ和牛",
+   "category": "肉類",
+   "summary_zh": "栃木縣內飼養的黑毛和牛，肉質細緻柔嫩。",
+   "body_zh": "とちぎ和牛是栃木縣內飼育的黑毛和牛品牌，另有「那須和牛」等地方品牌。肉質柔軟、脂肪甜味清爽，常以牛排、壽喜燒、燒肉方式享用。縣內那須高原、日光、宇都宮等地的餐廳與農場直營店都能品嚐。部分農場與道之驛設有直營餐廳，可用較親民的價格嘗到高品質牛肉，並感受牧場周邊的悠閒風景。",
+   "facts": [
+    {
+     "label": "種類",
+     "value": "黑毛和牛品牌"
+    },
+    {
+     "label": "主要食材",
+     "value": "栃木縣內飼養的和牛"
+    },
+    {
+     "label": "吃法",
+     "value": "牛排、壽喜燒、燒肉"
+    }
+   ],
+   "season_zh": "全年",
+   "where_zh": "那須高原、宇都宮的牛排店與燒肉店",
+   "tags": [
+    "和牛",
+    "牛排",
+    "那須",
+    "品牌牛"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/栃木県"
+   ],
+   "confidence": "low",
+   "prompt_en": "A single thick seared slice of Tochigi wagyu beef steak, pink center with soft marbling, on a dark ceramic plate with flaky salt and a sprig of herb, dark wooden table, warm side light, no text"
+  },
+  {
+   "title_zh": "日光天然冰刨冰",
+   "title_ja": "日光天然氷のかき氷",
+   "category": "甜點和菓子",
+   "summary_zh": "以日光冬季天然冰製成，口感蓬鬆細綿的刨冰。",
+   "body_zh": "日光有數家冰室，利用冬季日光山區的寒冷氣候，將山泉水在池中自然結冰，經過數週熟成後成為天然冰。用天然冰刨成的刨冰口感綿密、入口即化，不易引起頭痛。夏季時日光周邊的茶屋與咖啡店推出各式糖漿，如草莓、抹茶、黑糖蜜與日光產水果。天然冰製作耗時、產量有限，因此夏季熱門店家常需排隊，建議避開週末正午，享用時務必趁冰還沒融化。",
+   "facts": [
+    {
+     "label": "起源",
+     "value": "日光山區的天然冰製冰傳統"
+    },
+    {
+     "label": "主要食材",
+     "value": "天然冰、糖漿"
+    },
+    {
+     "label": "吃法",
+     "value": "淋糖漿，從上方慢慢享用"
+    }
+   ],
+   "season_zh": "約5月至10月",
+   "where_zh": "日光市區與周邊的冰品店與茶屋",
+   "tags": [
+    "刨冰",
+    "天然冰",
+    "日光",
+    "夏季甜點"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/かき氷"
+   ],
+   "confidence": "low",
+   "prompt_en": "A single glass dish of fluffy Nikko natural-ice shaved ice topped with strawberry syrup, tall airy mound with fine texture, on a wooden table with a small spoon, bright soft natural window light, no text"
+  },
+  {
+   "title_zh": "栃木地酒",
+   "title_ja": "栃木の地酒",
+   "category": "酒與飲品",
+   "summary_zh": "栃木縣酒藏釀造，酒質清爽的純米與吟釀酒。",
+   "body_zh": "栃木縣有眾多酒藏，利用日光連山與那須的伏流水與縣產米釀造清酒。栃木酒多以純米與吟釀為主，口味清爽乾淨，也有受年輕世代歡迎的新銳酒款。許多酒藏提供參觀與試飲，在宇都宮的居酒屋也能找到縣產酒。建議選購時請店員推薦符合口味的酒款，也可以選擇小瓶裝試飲，旅途中輕鬆體驗不同酒藏的風格差異。",
+   "facts": [
+    {
+     "label": "產地",
+     "value": "栃木縣內各地酒藏"
+    },
+    {
+     "label": "主要食材",
+     "value": "米、水、麴"
+    },
+    {
+     "label": "吃法",
+     "value": "冷酒或常溫，搭配鄉土料理"
+    }
+   ],
+   "season_zh": "新酒約冬季至春季",
+   "where_zh": "縣內酒藏與宇都宮的居酒屋",
+   "tags": [
+    "日本酒",
+    "地酒",
+    "酒藏",
+    "純米"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/栃木県"
+   ],
+   "confidence": "low",
+   "prompt_en": "A single glass sake bottle with plain blank label and one small ochoko cup on a dark wooden tray, a small dish of salted snacks beside, soft warm light, quiet Japanese interior, no text, no label writing"
+  }
+ ]
+}

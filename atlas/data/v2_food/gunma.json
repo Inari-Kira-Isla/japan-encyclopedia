@@ -1,0 +1,277 @@
+{
+ "id": "gunma",
+ "foods": [
+  {
+   "title_zh": "煮込麵糊",
+   "title_ja": "おっきりこみ",
+   "category": "鄉土料理",
+   "summary_zh": "把寬麵直接下鍋與根莖蔬菜同煮的上州家常鍋。",
+   "body_zh": "おっきりこみ是群馬縣的代表鄉土料理，以未經醒麵的寬麵條直接切入鍋中，與牛蒡、芋頭、南瓜、蔥和白菜等當季蔬菜一起以味噌或醬油湯底燉煮。上州地區自古小麥栽培興盛，農家在寒冷的冬季以此暖身，麵粉的澱粉讓湯汁濃稠，保溫效果佳。做法簡單，常用鑄鐵鍋煮好直接上桌，趁熱連湯帶麵一起吃最能感受到樸實風味。",
+   "facts": [
+    {
+     "label": "起源",
+     "value": "上州農家的小麥文化，詳細年代不明"
+    },
+    {
+     "label": "主要食材",
+     "value": "寬麵、根莖蔬菜、味噌或醬油湯底"
+    },
+    {
+     "label": "吃法",
+     "value": "整鍋煮好後趁熱盛碗"
+    }
+   ],
+   "season_zh": "秋冬",
+   "where_zh": "縣內各地農家料理店、鄉土料理餐廳",
+   "tags": [
+    "鄉土料理",
+    "麵食",
+    "鍋物",
+    "冬季"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/おっきりこみ"
+   ],
+   "confidence": "medium",
+   "prompt_en": "A rustic cast-iron pot of okkirikomi, wide flat udon noodles simmered with burdock, taro, pumpkin and green onion in miso broth, steam rising, on a dark wooden table with a ceramic ladle, soft window light, no text"
+  },
+  {
+   "title_zh": "水澤烏龍麵",
+   "title_ja": "水沢うどん",
+   "category": "麵飯",
+   "summary_zh": "伊香保水澤地區的粗直、Q彈烏龍麵，沾醬冷食。",
+   "body_zh": "水沢うどん位於榛名山麓的伊香保一帶，與讚岐、稻庭並稱日本三大烏龍麵之一的說法流傳甚廣。麵條粗直、色澤微透明，咬勁十足，帶有滑順喉韻。夏季多以冷水洗過後盛在竹篩上，搭配芝麻醬汁或醬油沾汁食用，也可熱食。當地許多麵店沿著參道林立，是伊香保溫泉旅遊途中的必吃料理。",
+   "facts": [
+    {
+     "label": "起源",
+     "value": "傳說與水澤觀音參拜客有關，細節說法不一"
+    },
+    {
+     "label": "主要食材",
+     "value": "小麥粉、鹽、水"
+    },
+    {
+     "label": "吃法",
+     "value": "冷麵配竹篩，沾芝麻醬汁"
+    }
+   ],
+   "season_zh": "全年，夏季尤佳",
+   "where_zh": "榛名山麓、伊香保溫泉周邊麵店",
+   "tags": [
+    "烏龍麵",
+    "冷麵",
+    "伊香保",
+    "麵飯"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/水沢うどん"
+   ],
+   "confidence": "medium",
+   "prompt_en": "A bamboo zaru tray of thick translucent Mizusawa udon noodles, a small dipping bowl of sesame sauce with sliced scallion beside it, wooden table, soft natural daylight, single dish, no text"
+  },
+  {
+   "title_zh": "醬烤饅頭",
+   "title_ja": "焼きまんじゅう",
+   "category": "甜點和菓子",
+   "summary_zh": "竹籤串起的麵包饅頭，刷上甜味噌醬烤至焦香。",
+   "body_zh": "焼きまんじゅう是群馬縣的靈魂點心，把酒種發酵的饅頭（內無餡）串在竹籤上，刷上以味噌為底的甜醬汁，再以炭火烤至表面焦香。外皮微脆、內裡鬆軟，味噌甜醬帶出獨特香氣。多見於前橋、高崎、伊勢崎一帶的老店和祭典攤位，也是上州人懷舊的街頭小吃。店家多在店門口現烤，竹籤串起兩到四個，邊烤邊刷醬，香氣會隨炭煙飄散。上州人常說這是從小吃到大的味道，也是旅人在前橋、高崎街頭值得一試的在地點心。",
+   "facts": [
+    {
+     "label": "起源",
+     "value": "傳說起於江戶末期，詳細年代有多種說法"
+    },
+    {
+     "label": "主要食材",
+     "value": "酒種饅頭、味噌甜醬"
+    },
+    {
+     "label": "吃法",
+     "value": "現烤趁熱食用"
+    }
+   ],
+   "season_zh": "全年",
+   "where_zh": "前橋、高崎、伊勢崎等地的老字號饅頭店",
+   "tags": [
+    "小吃",
+    "味噌",
+    "炭烤",
+    "點心"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/焼きまんじゅう"
+   ],
+   "confidence": "medium",
+   "prompt_en": "Two bamboo skewers of yakimanju, grilled steamed buns glazed with glossy sweet miso sauce and lightly charred, resting on a simple ceramic plate on a wooden counter, warm soft light, single dish, no text"
+  },
+  {
+   "title_zh": "下仁田蔥",
+   "title_ja": "下仁田ねぎ",
+   "category": "特產食材",
+   "summary_zh": "粗短肥白，加熱後甘甜軟糯的群馬名產蔥。",
+   "body_zh": "下仁田ねぎ產自群馬縣下仁田町，外形短而粗，白色部分肥厚，生吃辛辣，但煮熟後會變得極為甘甜軟糯。被廣泛用於壽喜燒、鍋物和燒烤，冬季是最好的時節。當地享有地域品牌認定，昼夜溫差大的山間氣候使蔥的糖分更高，是群馬冬季餐桌上不可缺少的食材。挑選時以白色部分結實、蔥身粗短者為佳。烤製時外皮焦黑，剝去後露出多汁蔥肉，單用鹽或味噌就很好吃。",
+   "facts": [
+    {
+     "label": "產地",
+     "value": "群馬縣甘楽郡下仁田町"
+    },
+    {
+     "label": "主要食材",
+     "value": "下仁田蔥白部分"
+    },
+    {
+     "label": "吃法",
+     "value": "烤蔥、壽喜燒、鍋物"
+    }
+   ],
+   "season_zh": "11月至2月",
+   "where_zh": "下仁田町及縣內直銷所、冬季鍋物店",
+   "tags": [
+    "蔥",
+    "冬季",
+    "特產",
+    "蔬菜"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/下仁田ねぎ"
+   ],
+   "confidence": "medium",
+   "prompt_en": "Three thick short Shimonita leeks, partly grilled with charred skin and glistening white flesh, on a rustic ceramic plate with a pinch of salt, dark wooden table, soft side light, single subject, no text"
+  },
+  {
+   "title_zh": "刺身蒟蒻",
+   "title_ja": "こんにゃく",
+   "category": "特產食材",
+   "summary_zh": "群馬為蒟蒻產量第一縣，以刺身、田樂等吃法聞名。",
+   "body_zh": "群馬縣是日本蒟蒻芋的最大產地，以下仁田町、昭和村一帶為主。蒟蒻以蒟蒻芋磨粉加水與凝固劑製成，低熱量、口感彈牙。當地常見做法包括切片沾芥末醬油的刺身蒟蒻、味噌田樂和煮物。新鮮製品無強烈氣味，嚼勁佳，是縣內鄉土料理和伴手禮的代表。也可以做成味噌田樂、關東煮或炒煮的蒟蒻絲，口味多變。物產店與道之驛常販售新鮮手工蒟蒻，作為伴手禮也很受歡迎。",
+   "facts": [
+    {
+     "label": "產地",
+     "value": "群馬縣，占全國多數產量"
+    },
+    {
+     "label": "主要食材",
+     "value": "蒟蒻芋"
+    },
+    {
+     "label": "吃法",
+     "value": "刺身蒟蒻沾醬油芥末或味噌田樂"
+    }
+   ],
+   "season_zh": "全年",
+   "where_zh": "下仁田町、縣內物產店與居酒屋",
+   "tags": [
+    "蒟蒻",
+    "低卡",
+    "田樂",
+    "伴手禮"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/こんにゃく"
+   ],
+   "confidence": "medium",
+   "prompt_en": "Thin slices of fresh sashimi-style konjac fanned on a small blue-white plate with a dab of wasabi and a tiny dish of soy sauce, wooden table, soft daylight, single dish, no text"
+  },
+  {
+   "title_zh": "上州牛",
+   "title_ja": "上州牛",
+   "category": "肉類",
+   "summary_zh": "群馬縣產的黑毛和牛品牌，肉質柔嫩油花均勻。",
+   "body_zh": "上州牛是群馬縣內飼養的黑毛和種牛肉品牌，強調在縣內肥育並達到一定肉質等級。肉質柔嫩，油花分布細緻，風味清爽不膩。常見吃法包括壽喜燒、燒肉和牛排，在榛名山、赤城山一帶的餐廳都能品嘗到，是群馬畜產業的代表。餐廳多以壽喜燒或燒肉形式提供，搭配縣產蔬菜如下仁田蔥一起享用，風味更加和諧。購買時可留意店家是否標示產地證明。",
+   "facts": [
+    {
+     "label": "品牌",
+     "value": "群馬縣產黑毛和種等品牌牛"
+    },
+    {
+     "label": "主要食材",
+     "value": "黑毛和牛"
+    },
+    {
+     "label": "吃法",
+     "value": "壽喜燒、燒肉、牛排"
+    }
+   ],
+   "season_zh": "全年",
+   "where_zh": "前橋、高崎、赤城山周邊的燒肉與牛排店",
+   "tags": [
+    "和牛",
+    "品牌牛",
+    "壽喜燒",
+    "肉類"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/上州牛"
+   ],
+   "confidence": "low",
+   "prompt_en": "A seared slice of marbled Jojo wagyu beef steak, medium rare, sliced on a black ceramic plate with coarse salt and a lemon wedge, dark table, soft dramatic light, single dish, no text"
+  },
+  {
+   "title_zh": "太田炒麵",
+   "title_ja": "太田焼きそば",
+   "category": "B級美食",
+   "summary_zh": "太田市以蒸麵與高麗菜炒成的B級代表。",
+   "body_zh": "太田焼きそば是群馬縣太田市的B級美食，使用蒸過的粗麵，與高麗菜、豬肉等炒製，再淋上濃郁的醬汁，常配上荷包蛋。當地稱之為「太田焼きそば」並推動地方活化，在街頭小吃店和祭典中都能見到。口味重而樸實，是工廠地帶勞動者的庶民美食。這道料理在地方上有獨特的吃法，例如搭配炸物或蛋一起享用，價格親民，一份就能吃飽。到訪太田市時，可在老店或活動攤位品嘗。",
+   "facts": [
+    {
+     "label": "起源",
+     "value": "太田市庶民飲食，細節未詳"
+    },
+    {
+     "label": "主要食材",
+     "value": "蒸麵、高麗菜、豬肉、醬汁"
+    },
+    {
+     "label": "吃法",
+     "value": "鐵板或平底鍋現炒"
+    }
+   ],
+   "season_zh": "全年",
+   "where_zh": "太田市的老麵店與B級美食活動",
+   "tags": [
+    "炒麵",
+    "B級美食",
+    "庶民",
+    "醬汁"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/焼きそば"
+   ],
+   "confidence": "low",
+   "prompt_en": "A plate of Ota yakisoba, thick steamed noodles stir-fried with cabbage and pork in dark sauce, topped with a fried egg and red pickled ginger, on a simple white plate, wooden counter, warm light, no text"
+  },
+  {
+   "title_zh": "桐生醬汁豬排丼",
+   "title_ja": "ソースカツ丼",
+   "category": "麵飯",
+   "summary_zh": "白飯上鋪沾醬炸豬排，群馬風格的豬排丼。",
+   "body_zh": "ソースカツ丼在群馬桐生等地很常見，做法是在白飯上鋪上高麗菜絲，再放上沾過甜鹹醬汁的炸豬排，與使用蛋汁的豬排丼不同。炸衣酥脆、醬汁香甜，米飯吸收少量醬汁而更美味。桐生市內多家老店各有獨家醬汁配方，是當地人的日常豪邁午餐。醬汁多以醬油、砂糖和蔬菜熬製，各家比例略有不同。吃時連同高麗菜絲一起扒入口中，酸甜醬香與酥脆炸衣相互呼應，份量也很足。",
+   "facts": [
+    {
+     "label": "特色",
+     "value": "不用蛋汁，改沾醬汁"
+    },
+    {
+     "label": "主要食材",
+     "value": "炸豬排、白飯、高麗菜、醬汁"
+    },
+    {
+     "label": "吃法",
+     "value": "整塊豬排蓋飯"
+    }
+   ],
+   "season_zh": "全年",
+   "where_zh": "桐生市及縣內西式食堂、老店",
+   "tags": [
+    "豬排丼",
+    "醬汁",
+    "桐生",
+    "午餐"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/カツ丼"
+   ],
+   "confidence": "medium",
+   "prompt_en": "A bowl of sauce katsudon, crisp breaded pork cutlet glazed with brown sauce over rice and shredded cabbage, ceramic bowl on a wooden table, soft light, single dish, no text"
+  }
+ ]
+}

@@ -1,0 +1,277 @@
+{
+ "id": "miyagi",
+ "foods": [
+  {
+   "title_zh": "仙台牛舌",
+   "title_ja": "牛タン焼き",
+   "category": "肉類",
+   "summary_zh": "厚切牛舌炭火烤製，彈脆有嚼勁，仙台代表名物。",
+   "body_zh": "牛舌燒是仙台最具代表性的美食，一般認為戰後由仙台燒烤店太助首創，後來發展成定食：厚切牛舌經鹽漬熟成後炭火慢烤，外焦內脆，咬下去帶彈性與濃濃肉香。定食通常配麥飯、牛尾湯和醃菜，南蠻味噌醃漬也很受歡迎。在仙台車站周邊與國分町有大量專門店。店家多把牛舌切成約一公分厚，烤得外表微焦，擠上檸檬或沾辣味噌更對味，是來仙台必吃的一餐。",
+   "facts": [
+    {
+     "label": "起源",
+     "value": "戰後仙台，一般說法為太助首創"
+    },
+    {
+     "label": "主要食材",
+     "value": "牛舌、鹽、麥飯、牛尾湯"
+    },
+    {
+     "label": "吃法",
+     "value": "定食形式，配麥飯與牛尾湯"
+    }
+   ],
+   "season_zh": "全年",
+   "where_zh": "仙台市中心及仙台車站牛舌專門店",
+   "tags": [
+    "牛舌",
+    "燒肉",
+    "定食",
+    "仙台"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/牛タン焼き"
+   ],
+   "confidence": "medium",
+   "prompt_en": "Thick-sliced charcoal-grilled beef tongue with char marks on a dark ceramic plate, side of wheat rice and pickles, wooden counter, warm soft light, single dish photo, no text"
+  },
+  {
+   "title_zh": "鮭魚子親子飯",
+   "title_ja": "はらこ飯",
+   "category": "鄉土料理",
+   "summary_zh": "鮭魚煮汁煮飯，鋪滿鮭魚與鮭魚卵的秋季鄉土味。",
+   "body_zh": "はらこ飯是宮城縣南部亘理町一帶的鄉土料理，「はらこ」意指鮭魚卵。以醬油與酒煮鮭魚的煮汁炊飯，飯上鋪鮭魚塊，再堆滿醬油漬的晶亮鮭魚卵，鮮甜濃郁。每年秋季鮭魚溯河時節最為盛行，亘理町也是名產地，當地多以此款待客人。名稱的「親子」指鮭魚與魚卵，是一年一度能嘗到的季節限定風味，旅客可在仙台車站買到便當版本。",
+   "facts": [
+    {
+     "label": "起源",
+     "value": "亘理町，鮭魚溯河漁業的鄉土料理"
+    },
+    {
+     "label": "主要食材",
+     "value": "鮭魚、鮭魚卵、米、醬油"
+    },
+    {
+     "label": "吃法",
+     "value": "以煮汁炊飯，鋪鮭與鮭卵"
+    }
+   ],
+   "season_zh": "秋季（9至11月）",
+   "where_zh": "亘理町及仙台市內鄉土料理店",
+   "tags": [
+    "鮭魚",
+    "鮭魚卵",
+    "鄉土",
+    "秋季"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/はらこ飯"
+   ],
+   "confidence": "medium",
+   "prompt_en": "Bowl of rice topped with simmered salmon chunks and glistening ikura salmon roe heaped on top, in a ceramic donburi bowl, wooden table, soft natural light, single dish, no text"
+  },
+  {
+   "title_zh": "毛豆泥麻糬",
+   "title_ja": "ずんだ餅",
+   "category": "甜點和菓子",
+   "summary_zh": "翠綠毛豆泥裹軟糯年糕，東北代表甜點。",
+   "body_zh": "ずんだ餅是宮城縣、尤其仙台的名物。把煮熟的毛豆搗成泥，拌入砂糖和少許鹽，包裹在剛搗好的軟糯年糕外，色澤翠綠、豆香清甜。傳說與伊達政宗有關，但說法不一。現在除了年糕，也衍生出毛豆泥奶昔與冰淇淋，在仙台車站販售的店家很多。毛豆泥的顆粒感與年糕的軟黏形成對比，常與茶一起享用，也是東北各地農家的待客點心。",
+   "facts": [
+    {
+     "label": "起源",
+     "value": "仙台地區，傳說與伊達政宗有關（說法不一）"
+    },
+    {
+     "label": "主要食材",
+     "value": "毛豆、砂糖、年糕"
+    },
+    {
+     "label": "吃法",
+     "value": "毛豆泥包裹年糕直接食用"
+    }
+   ],
+   "season_zh": "夏季毛豆季最佳，全年可食",
+   "where_zh": "仙台車站及市內和菓子店",
+   "tags": [
+    "毛豆",
+    "年糕",
+    "和菓子",
+    "仙台"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/ずんだ餅"
+   ],
+   "confidence": "medium",
+   "prompt_en": "Mochi rice cakes coated thickly with bright green mashed edamame paste on a small ceramic plate, bamboo pick, soft diffused light, wooden table, single dish, no text"
+  },
+  {
+   "title_zh": "萩之月",
+   "title_ja": "萩の月",
+   "category": "甜點和菓子",
+   "summary_zh": "柔軟蛋糕包裹卡士達奶餡，仙台伴手禮第一名。",
+   "body_zh": "萩の月是仙台菓匠三全推出的銘菓，外形如滿月，以輕盈蛋糕體包住滑順的卡士達奶油餡。名稱取自宮城縣花「宮城野萩」與秋夜月亮。柔軟綿密、甜而不膩，是仙台車站最暢銷的伴手禮之一，也有冷凍後食用的吃法。一個一個單獨包裝，保存方便，口味還有巧克力與抹茶等變化，不少遊客一次買整盒帶回家送人。",
+   "facts": [
+    {
+     "label": "起源",
+     "value": "仙台菓匠三全開發的銘菓"
+    },
+    {
+     "label": "主要食材",
+     "value": "蛋糕、卡士達奶餡"
+    },
+    {
+     "label": "吃法",
+     "value": "常溫或稍冰後食用"
+    }
+   ],
+   "season_zh": "全年",
+   "where_zh": "仙台車站及三全直營店",
+   "tags": [
+    "伴手禮",
+    "蛋糕",
+    "卡士達",
+    "仙台"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/萩の月"
+   ],
+   "confidence": "medium",
+   "prompt_en": "A single round yellow custard-filled sponge cake cut in half showing cream filling, on a white plate, soft window light, minimal table, no text"
+  },
+  {
+   "title_zh": "笹蒲鉾",
+   "title_ja": "笹かまぼこ",
+   "category": "特產食材",
+   "summary_zh": "竹葉形烤魚板，仙台與鹽竈的魚漿名產。",
+   "body_zh": "笹かまぼこ因形似竹葉而得名，以白身魚漿塑形後炭火或烤箱烤製，帶淡淡焦香與彈牙口感。宮城縣沿岸魚獲豐富，鹽竈、石卷一帶魚板產業發達。現烤熱食最美味，可直接吃或沾薑醬油，也有夾起司等變化口味。在仙台車站和鹽竈周邊還有現場體驗烤製的工房，可看師傅手工塑形，也能直接品嘗剛烤好的熱騰騰魚板。",
+   "facts": [
+    {
+     "label": "起源",
+     "value": "宮城沿岸魚漿製品，傳統由來說法不一"
+    },
+    {
+     "label": "主要食材",
+     "value": "白身魚漿、鹽"
+    },
+    {
+     "label": "吃法",
+     "value": "現烤直接吃或沾薑醬油"
+    }
+   ],
+   "season_zh": "全年",
+   "where_zh": "仙台市及鹽竈、石卷一帶魚板店",
+   "tags": [
+    "魚板",
+    "烤物",
+    "伴手禮",
+    "仙台"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/笹かまぼこ"
+   ],
+   "confidence": "medium",
+   "prompt_en": "Freshly grilled bamboo-leaf shaped kamaboko fish cakes with golden grill marks arranged on a small ceramic plate, grated ginger beside, soft light, no text"
+  },
+  {
+   "title_zh": "松島牡蠣",
+   "title_ja": "松島の牡蠣",
+   "category": "海鮮",
+   "summary_zh": "松島灣肥美牡蠣，冬季蒸燒生食皆宜。",
+   "body_zh": "宮城縣是日本牡蠣主要產地之一，松島灣與石卷、女川一帶的養殖牡蠣尤其出名。牡蠣肉厚飽滿、帶海水鹹鮮與乳白濃郁口感。冬季為產季，可生食、碳烤、蒸、炸或煮鍋。松島周邊有牡蠣小屋，能現烤現吃。除了單吃，也常做成牡蠣飯、牡蠣鍋與炸牡蠣，在松島遊覽船碼頭附近用餐，最能感受海灣風情。",
+   "facts": [
+    {
+     "label": "主要食材",
+     "value": "牡蠣（養殖）"
+    },
+    {
+     "label": "時節",
+     "value": "冬季為盛產期"
+    },
+    {
+     "label": "吃法",
+     "value": "生食、碳烤、蒸、炸"
+    }
+   ],
+   "season_zh": "冬季（11月至3月）",
+   "where_zh": "松島灣周邊牡蠣小屋及海鮮食堂",
+   "tags": [
+    "牡蠣",
+    "海鮮",
+    "冬季",
+    "松島"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/松島"
+   ],
+   "confidence": "low",
+   "prompt_en": "Plump fresh oysters on half shell on crushed ice with lemon wedge, on a rustic wooden board, cool natural light, single dish, no text"
+  },
+  {
+   "title_zh": "登米油麩丼",
+   "title_ja": "油麩丼",
+   "category": "B級美食",
+   "summary_zh": "油炸麩輪蛋汁蓋飯，登米地區的在地家常味。",
+   "body_zh": "油麩是宮城縣登米市一帶的特色食材，把麵筋捲在棒子上油炸成長條麵麩。油麩丼將油麩切片，與洋蔥一起以甜鹹醬汁煮過，淋蛋液蓋在白飯上，口感像吸飽湯汁的軟嫩肉片，是素食也能吃得過癮的在地味。油麩質地紮實卻柔軟，吸飽湯汁後帶有淡淡麵粉香，價格親民，在登米當地食堂與家庭裡都很常見。",
+   "facts": [
+    {
+     "label": "起源",
+     "value": "登米市一帶的油麩文化，細節說法不一"
+    },
+    {
+     "label": "主要食材",
+     "value": "油麩、蛋、洋蔥、白飯"
+    },
+    {
+     "label": "吃法",
+     "value": "蓋飯形式"
+    }
+   ],
+   "season_zh": "全年",
+   "where_zh": "登米市內食堂及餐廳",
+   "tags": [
+    "油麩",
+    "蓋飯",
+    "登米",
+    "B級"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/油麩"
+   ],
+   "confidence": "low",
+   "prompt_en": "Donburi bowl of rice topped with sliced fried wheat gluten simmered in sweet soy broth with egg and onion, ceramic bowl, wooden table, soft light, no text"
+  },
+  {
+   "title_zh": "宮城日本酒",
+   "title_ja": "宮城の日本酒",
+   "category": "酒與飲品",
+   "summary_zh": "宮城米與清冽水質釀成的銘酒，浦霞等名牌出自縣內。",
+   "body_zh": "宮城縣是日本酒名產地，縣內有浦霞、一ノ蔵、伯楽星等酒造，使用縣產米「ササニシキ」與「ひとめぼれ」釀造。宮城酒風格偏向乾淨、清爽，與當地海鮮相配。鹽竈市的浦霞酒造是知名代表之一。每年冬季各酒造推出新酒，縣內也有酒藏開放參觀與試飲，是想深入了解東北酒文化的好去處。",
+   "facts": [
+    {
+     "label": "主要食材",
+     "value": "米、米麴、水"
+    },
+    {
+     "label": "特色",
+     "value": "宮城縣產米釀造，清爽風格"
+    },
+    {
+     "label": "吃法",
+     "value": "搭配海鮮"
+    }
+   ],
+   "season_zh": "全年，新酒冬季",
+   "where_zh": "鹽竈市及縣內各酒造",
+   "tags": [
+    "日本酒",
+    "浦霞",
+    "酒造",
+    "宮城"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/浦霞"
+   ],
+   "confidence": "low",
+   "prompt_en": "Glass sake bottle and small white ochoko cup of clear sake on a dark wooden table beside a small plate of sashimi, soft moody light, no text"
+  }
+ ]
+}

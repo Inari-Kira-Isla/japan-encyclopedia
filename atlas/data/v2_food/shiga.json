@@ -1,0 +1,149 @@
+{
+ "id": "shiga",
+ "foods": [
+  {
+   "title_zh": "鮒壽司",
+   "title_ja": "ふなずし",
+   "category": "鄉土料理",
+   "summary_zh": "琵琶湖鯽魚鹽漬後以飯發酵的熟成壽司。",
+   "body_zh": "鮒壽司是滋賀代表性特產，屬「熟壽司（なれずし）」，據說保留了日本現存熟壽司中最古老的形態。主角是琵琶湖固有的煮頃鮒（ニゴロブナ），春季捕獲後先鹽漬，再洗淨填入鹽飯，放入木桶以乳酸發酵數月至兩三年。氣味濃烈、酸味鮮明，常切薄片直接配茶或日本酒享用。",
+   "facts": [
+    {"label": "起源", "value": "屬古老的熟壽司，史料可追溯到奈良時代，滋賀特產"},
+    {"label": "主要食材", "value": "煮頃鮒（ニゴロブナ）、鹽、白飯"},
+    {"label": "時節", "value": "春捕魚、夏醃漬發酵，約晚秋後可食"}
+   ],
+   "season_zh": "晚秋起（發酵品全年供應）",
+   "where_zh": "琵琶湖周邊的湖魚專門店與老鋪料亭",
+   "tags": ["琵琶湖", "熟壽司", "發酵", "鯽魚"],
+   "sources": ["https://ja.wikipedia.org/wiki/ふなずし"],
+   "confidence": "high",
+   "prompt_en": "Thinly sliced funazushi, fermented crucian carp sushi with rice, arranged on a small ceramic plate, a cup of green tea beside, dark wooden table, soft side light, no text"
+  },
+  {
+   "title_zh": "近江牛",
+   "title_ja": "近江牛",
+   "category": "肉類",
+   "summary_zh": "滋賀全縣產的黑毛和牛，名列三大和牛之一。",
+   "body_zh": "近江牛飼育史約有四百年，傳說江戶時代彥根藩曾養牛製鼓皮，明治以後以產量與品質聞名。特色是油花細密、香氣豐厚、脂肪入口即化，油酸含量高；餵養時使用近江產稻草與米糠。2017年登錄地理標示（GI）。常見吃法是牛排、壽喜燒與涮涮鍋。",
+   "facts": [
+    {"label": "起源", "value": "約400年歷史，明治期後以產量與品味確立名聲"},
+    {"label": "主要食材", "value": "黑毛和牛，油花豐富、油酸含量高"},
+    {"label": "吃法", "value": "牛排、壽喜燒、涮涮鍋"}
+   ],
+   "season_zh": "全年",
+   "where_zh": "滋賀全縣，近江八幡、彥根一帶的牛肉專門店",
+   "tags": ["和牛", "三大和牛", "壽喜燒", "GI"],
+   "sources": ["https://ja.wikipedia.org/wiki/近江牛"],
+   "confidence": "high",
+   "prompt_en": "A single plate of premium marbled Omi beef slices raw, beautifully fanned out on a white ceramic dish, a few green onions at the side, dark slate table, soft warm light, no text"
+  },
+  {
+   "title_zh": "烤鯖魚素麵",
+   "title_ja": "焼鯖そうめん",
+   "category": "麵飯",
+   "summary_zh": "烤鯖魚與素麵同煮於甜鹹高湯的湖北鄉土味。",
+   "body_zh": "焼鯖そうめん是滋賀湖北、長濱一帶的鄉土料理。相傳源自「五月贈禮」習俗：農忙時節，娘家為嫁入農家的女兒送去烤鯖魚。作法是把烤鯖魚以甜鹹高湯燉軟，再用同一鍋湯煮素麵並鋪上鯖魚。味道濃郁，多當作配飯的菜餚，而非主食。",
+   "facts": [
+    {"label": "起源", "value": "湖北長濱一帶，源自五月贈烤鯖魚給出嫁女兒的習俗"},
+    {"label": "主要食材", "value": "烤鯖魚、素麵、甜鹹高湯"},
+    {"label": "吃法", "value": "多作配飯小菜，味濃"}
+   ],
+   "season_zh": "全年",
+   "where_zh": "長濱市等湖北地區的家庭與食堂",
+   "tags": ["鯖魚", "素麵", "湖北", "長濱"],
+   "sources": ["https://ja.wikipedia.org/wiki/焼鯖そうめん"],
+   "confidence": "medium",
+   "prompt_en": "A deep ceramic bowl of simmered grilled mackerel on soft somen noodles in dark sweet-savory broth, rustic wooden table, steam, warm natural light, no text"
+  },
+  {
+   "title_zh": "琵琶鱒",
+   "title_ja": "ビワマス",
+   "category": "海鮮",
+   "summary_zh": "只棲息於琵琶湖的固有種鮭鱒，脂肪豐腴。",
+   "body_zh": "琵琶鱒（ビワマス）是僅自然分布於琵琶湖的固有種，有「琵琶湖的寶石」之稱。以六至七月的成魚脂肪最豐，最美味。可做生魚片與壽司，據稱寄生蟲感染率低；也有炸、煎、煮、鹽烤、燻製等做法，當地鄉土吃法還有整尾放入炊飯。",
+   "facts": [
+    {"label": "起源", "value": "琵琶湖固有種，只分布於琵琶湖（滋賀）"},
+    {"label": "主要食材", "value": "琵琶鱒（鮭鱒類），肉色橙紅"},
+    {"label": "時節", "value": "6至7月成魚最肥美"}
+   ],
+   "season_zh": "初夏最佳（6至7月）",
+   "where_zh": "琵琶湖沿岸的湖魚料理店與漁協直營店",
+   "tags": ["琵琶湖", "固有種", "刺身", "湖魚"],
+   "sources": ["https://ja.wikipedia.org/wiki/ビワマス"],
+   "confidence": "high",
+   "prompt_en": "Slices of fresh orange-pink biwa trout sashimi arranged on a dark ceramic plate with shiso leaf and wasabi, wet slate surface, soft cool light, no text"
+  },
+  {
+   "title_zh": "日野菜漬",
+   "title_ja": "日野菜漬",
+   "category": "特產食材",
+   "summary_zh": "日野町發祥的紅紫蕪菁醃成粉紅櫻花漬。",
+   "body_zh": "日野菜是發祥於滋賀日野町鎌掛一帶的蕪菁品種，地上部分受日照後呈深紫紅色，地下部分為白色，秋季遇冷顏色更鮮明。質地偏硬，多半做成醃菜；切碎鹽漬後因色素變成粉紅，別名「櫻漬」。滋賀視它為特別的地方蔬菜，十一月市場會賣成束乾燥日野菜供家庭醃漬。",
+   "facts": [
+    {"label": "起源", "value": "日野町鎌掛地區"},
+    {"label": "主要食材", "value": "日野菜（蕪菁類）、鹽"},
+    {"label": "時節", "value": "11月前後的秋冬醃漬季"}
+   ],
+   "season_zh": "秋冬",
+   "where_zh": "日野町及縣內各地市場、漬物店",
+   "tags": ["蕪菁", "醃菜", "櫻漬", "日野町"],
+   "sources": ["https://ja.wikipedia.org/wiki/日野菜"],
+   "confidence": "high",
+   "prompt_en": "Pink-purple pickled hinona turnip slices in a small white ceramic dish, a few fresh hinona roots with leaves beside, light wooden table, soft daylight, no text"
+  },
+  {
+   "title_zh": "紅蒟蒻",
+   "title_ja": "赤こんにゃく",
+   "category": "特產食材",
+   "summary_zh": "近江八幡特有的紅色蒟蒻，鮮豔如楓葉。",
+   "body_zh": "赤こんにゃく是在製作時混入三氧化二鐵（氧化鐵）上色而成的紅色蒟蒻，據說氣味較一般蒟蒻淡，更易入口。一般認為產於近江八幡一帶，當地歷史上只製造紅色蒟蒻，後來成為地方名產，並推廣到全國。外觀鮮紅是最大特色，也是各地蒟蒻中少見的品種。",
+   "facts": [
+    {"label": "起源", "value": "近江八幡地方名產，傳統上只做紅色蒟蒻"},
+    {"label": "主要食材", "value": "蒟蒻芋、氧化鐵（上色）"},
+    {"label": "特色", "value": "外觀鮮紅、氣味較一般蒟蒻淡"}
+   ],
+   "season_zh": "全年",
+   "where_zh": "近江八幡市的蒟蒻店與伴手禮店",
+   "tags": ["蒟蒻", "近江八幡", "紅色", "名產"],
+   "sources": ["https://ja.wikipedia.org/wiki/赤こんにゃく", "https://ja.wikipedia.org/wiki/近江八幡市"],
+   "confidence": "medium",
+   "prompt_en": "Slices of vivid red konnyaku arranged on a plain white plate with a small dab of miso paste, dark wooden table, soft side light, no text"
+  },
+  {
+   "title_zh": "沙拉麵包",
+   "title_ja": "サラダパン",
+   "category": "B級美食",
+   "summary_zh": "長濱つるやパン的醃蘿蔔美乃滋麵包。",
+   "body_zh": "サラダパン是滋賀長濱市木之本町「つるやパン」的名物，於1957年由創業者之妻構思。起初夾高麗菜，因出水使麵包變軟，1962年起改用切碎的醃蘿蔔（たくあん）拌美乃滋，夾入小圓麵包。原只是一小區的鄉土食物，2000年代因地方美食熱潮被媒體報導而全國知名。",
+   "facts": [
+    {"label": "起源", "value": "1957年長濱つるやパン創業者之妻構思，1962年改用醃蘿蔔"},
+    {"label": "主要食材", "value": "醃蘿蔔、美乃滋、小圓麵包"},
+    {"label": "吃法", "value": "麵包店現買即食，也有網購"}
+   ],
+   "season_zh": "全年",
+   "where_zh": "長濱市木之本的つるやパン與縣內超市",
+   "tags": ["麵包", "醃蘿蔔", "長濱", "B級"],
+   "sources": ["https://ja.wikipedia.org/wiki/サラダパン"],
+   "confidence": "high",
+   "prompt_en": "A single coppe bread roll split open and filled with chopped yellow pickled radish mayonnaise filling, on a white paper-lined plate, light wooden table, bright daylight, no text"
+  },
+  {
+   "title_zh": "丁稚羊羹",
+   "title_ja": "丁稚羊羹",
+   "category": "甜點和菓子",
+   "summary_zh": "滋賀的樸素蒸羊羹，常以竹皮包裹。",
+   "body_zh": "丁稚羊羹是滋賀（近江）一帶流傳的樸素羊羹，坊間常見說法是以竹皮包裹、口味溫和，但具體作法、材料與起源年代本次未能在可靠來源查證，故信心偏低。可確認的是羊羹本身源自中國的羊肉羹，由禪僧傳入日本；蒸羊羹以豆餡、麵粉、砂糖製成，口感較煉羊羹柔軟。",
+   "facts": [
+    {"label": "起源", "value": "未能查證，一般稱為滋賀傳統和菓子"},
+    {"label": "主要食材", "value": "豆餡、麵粉、砂糖（一般蒸羊羹材料，本品細節待確認）"},
+    {"label": "吃法", "value": "切片佐茶"}
+   ],
+   "season_zh": "全年（冬季較常見）",
+   "where_zh": "近江八幡、彥根等地和菓子老鋪",
+   "tags": ["羊羹", "和菓子", "蒸羊羹", "竹皮"],
+   "sources": ["https://ja.wikipedia.org/wiki/丁稚羊羹"],
+   "confidence": "low",
+   "prompt_en": "A sliced block of dark brown steamed yokan wrapped in bamboo sheath on a small wooden board, a cup of green tea beside, warm wooden table, soft light, no text"
+  }
+ ]
+}

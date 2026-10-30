@@ -1,0 +1,759 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>日本地方文化圖鑑</title>
+<meta name="description" content="以四十七都道府縣為經、九類文化為緯的日本地方文化資料站。資料由 AI 整理，圖片為 AI 生成示意。">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@400;500;700&family=Noto+Serif+TC:wght@600;900&family=Shippori+Mincho:wght@500;700&display=swap" rel="stylesheet">
+<style>
+/* ========== Design tokens（全部集中在 :root；暗色三處同步） ========== */
+:root{
+  --bg:#F2EDE2; --bg2:#E9E2D2; --surface:#F8F4EA; --ink:#1B1A17; --ink2:#4A463E; --ink3:#6F695C;
+  --line:#D3CAB6; --red:#C8402B; --red-text:#B03520; --slate:#3E4A5C; --on-red:#FBF6EC;
+  --serif:"Shippori Mincho","Noto Serif TC","Hiragino Mincho ProN","Songti TC",serif;
+  --sans:"Noto Sans TC","PingFang TC","Hiragino Sans","Microsoft JhengHei",sans-serif;
+  --gutter:clamp(16px,4vw,48px); --maxw:1240px; --nav-h:52px;
+  color-scheme:light;
+}
+@media (prefers-color-scheme:dark){
+  :root:not([data-theme="light"]){
+    --bg:#14130F; --bg2:#1D1C16; --surface:#1A1914; --ink:#ECE6D8; --ink2:#BDB6A5; --ink3:#948E7C;
+    --line:#35322A; --red:#E0583F; --red-text:#EE7660; --slate:#93A1B8; --on-red:#14130F; color-scheme:dark;
+  }
+}
+:root[data-theme="dark"]{
+  --bg:#14130F; --bg2:#1D1C16; --surface:#1A1914; --ink:#ECE6D8; --ink2:#BDB6A5; --ink3:#948E7C;
+  --line:#35322A; --red:#E0583F; --red-text:#EE7660; --slate:#93A1B8; --on-red:#14130F; color-scheme:dark;
+}
+*{box-sizing:border-box}
+html{scroll-behavior:auto;-webkit-text-size-adjust:100%}
+body{margin:0;background:var(--bg);color:var(--ink);font-family:var(--sans);font-size:16px;line-height:1.75;
+  padding-bottom:calc(60px + env(safe-area-inset-bottom));overflow-x:hidden}
+@media(min-width:760px){body{padding-bottom:0}}
+img{display:block;max-width:100%}
+button,input,select{font:inherit;color:inherit}
+button{cursor:pointer;background:none;border:0;padding:0}
+a{color:inherit}
+h1,h2,h3{font-family:var(--serif);font-weight:700;line-height:1.3;margin:0}
+:focus-visible{outline:2px solid var(--red);outline-offset:2px}
+.skip{position:absolute;left:-999px;top:8px;background:var(--ink);color:var(--bg);padding:6px 12px;z-index:100}
+.skip:focus{left:8px}
+.num{font-variant-numeric:tabular-nums;letter-spacing:.04em}
+.wrap{max-width:var(--maxw);margin:0 auto;padding-inline:var(--gutter)}
+.measure{max-width:38em}
+.vsr{writing-mode:vertical-rl;text-orientation:upright}
+#app:focus{outline:none}
+
+/* ========== 頂欄 / 底部導航 ========== */
+.top{border-bottom:1px solid var(--line)}
+.top .wrap{display:flex;align-items:center;gap:20px;height:56px}
+.brand{display:flex;align-items:center;gap:10px;text-decoration:none;font-family:var(--serif);font-weight:700;font-size:1.05rem}
+.brand svg{width:26px;height:26px}
+.top nav{margin-left:auto;display:flex;gap:6px;align-items:center}
+.top nav a,.top nav button{padding:6px 12px;text-decoration:none;font-size:.9rem;color:var(--ink2);border-bottom:1px solid transparent}
+.top nav a:hover,.top nav button:hover{color:var(--ink);border-bottom-color:var(--red)}
+.bnav{position:fixed;left:0;right:0;bottom:0;z-index:30;display:grid;grid-template-columns:repeat(3,1fr);
+  background:var(--bg);border-top:1px solid var(--line);padding-bottom:env(safe-area-inset-bottom)}
+.bnav a,.bnav button{display:flex;flex-direction:column;align-items:center;gap:0;padding:8px 0 7px;font-size:.78rem;text-decoration:none;color:var(--ink2);min-height:52px}
+.bnav .g{font-family:var(--serif);font-size:1.15rem;line-height:1.3;color:var(--ink)}
+.bnav [aria-current="page"] .g{color:var(--red-text)}
+@media(min-width:760px){.bnav{display:none}}
+@media(max-width:759px){.top nav{display:none}}
+
+/* ========== 首頁 hero ========== */
+.hero{display:grid;grid-template-columns:auto 1fr;gap:clamp(20px,5vw,72px);padding-block:clamp(28px,6vw,72px) clamp(24px,4vw,48px);align-items:start}
+.hero-title{display:flex;gap:14px;align-items:flex-start}
+.hero-title h1{font-size:clamp(64px,10.5vw,136px);line-height:1.02;letter-spacing:.06em;font-weight:700}
+.stamp{width:clamp(44px,7vw,84px);height:auto;flex:none;margin-top:.4em;transform:rotate(-3deg)}
+.hero-copy{padding-top:clamp(4px,2vw,28px)}
+.eyebrow{font-size:.82rem;color:var(--ink2);letter-spacing:.14em;margin:0 0 10px}
+.hero-copy p.lead{font-size:clamp(1.02rem,1.5vw,1.2rem);color:var(--ink2);margin:0 0 22px}
+.searchbox{display:flex;align-items:center;border:1px solid var(--ink);background:var(--surface);max-width:560px}
+.searchbox input{flex:1;min-width:0;border:0;background:transparent;padding:13px 14px;outline:none}
+.searchbox:focus-within{outline:2px solid var(--red);outline-offset:2px}
+.searchbox button{padding:0 18px;align-self:stretch;background:var(--ink);color:var(--bg);font-size:.9rem}
+.searchbox button:hover{background:var(--red);color:var(--on-red)}
+.hint{font-size:.82rem;color:var(--ink3);margin:10px 0 0}
+@media(max-width:620px){.hero{grid-template-columns:1fr}.hero-title h1{writing-mode:vertical-rl;font-size:84px}.hero-title{align-items:flex-start}}
+/* 蓋章：載入時唯一的主導動態 */
+@keyframes stamp{from{opacity:0;transform:rotate(-9deg) scale(1.18)}to{opacity:1;transform:rotate(-3deg) scale(1)}}
+@keyframes fadein{from{opacity:0}to{opacity:1}}
+html.boot .stamp{animation:stamp 420ms cubic-bezier(.2,.7,.2,1) both}
+html.boot .hero-copy,html.boot .tabs-wrap,html.boot .grid47{animation:fadein 360ms ease-out 380ms both}
+
+/* ========== 地方分頁 ========== */
+.sec-h{display:flex;align-items:baseline;gap:14px;margin:0 0 14px}
+.sec-h h2{font-size:clamp(1.3rem,2.4vw,1.8rem)}
+.sec-h .sub{color:var(--ink3);font-size:.85rem}
+.tabs-wrap{margin-top:8px;border-bottom:1px solid var(--line);overflow-x:auto;scrollbar-width:none}
+.tabs-wrap::-webkit-scrollbar{display:none}
+.tabs{position:relative;display:flex;gap:2px;width:max-content;min-width:100%}
+.tabs button{padding:12px 14px;white-space:nowrap;color:var(--ink2);font-size:.95rem}
+.tabs button[aria-selected="true"]{color:var(--ink);font-weight:700}
+.tabs .ind{position:absolute;left:0;bottom:0;height:2px;width:100px;background:var(--red);transform-origin:0 50%;transition:transform .28s ease}
+
+/* ========== 縣卡片 ========== */
+.grid47{display:grid;grid-template-columns:repeat(auto-fill,minmax(210px,1fr));gap:clamp(14px,2vw,26px) clamp(12px,2vw,22px);margin:26px 0 0;padding:0;list-style:none}
+.card{position:relative;display:block;text-decoration:none}
+.card .media{aspect-ratio:3/2;overflow:hidden;background:var(--bg2);position:relative}
+.card img{width:100%;height:100%;object-fit:cover;transition:transform .6s ease}
+@media(hover:hover){.card:hover img{transform:scale(1.03)}}
+.card .meta{display:flex;justify-content:space-between;gap:8px;padding-top:9px}
+.card .code{font-size:.78rem;color:var(--red-text);font-weight:700}
+.card .zh{font-family:var(--serif);font-size:1.18rem;font-weight:700;line-height:1.25}
+.card .ja{font-size:.8rem;color:var(--ink3);margin-top:2px}
+.card .cnt{font-size:.74rem;color:var(--ink3);margin-top:3px}
+.card .vja{font-family:var(--serif);font-size:1.02rem;color:var(--ink2);letter-spacing:.1em;line-height:1.15;max-height:5.2em}
+.grid47 li[hidden]{display:none}
+
+/* ========== 圖片 / 佔位 / 標示 ========== */
+.fig{position:relative;overflow:hidden;background:var(--bg2);margin:0}
+.fig>.m,.fig>img{width:100%;height:100%;object-fit:cover}
+.fig .tag{position:absolute;right:6px;bottom:5px;font-size:10.5px;line-height:1.2;color:#fff;background:rgba(20,19,15,.62);padding:2px 6px;letter-spacing:.04em;pointer-events:none}
+.fig .tag+.tag{bottom:25px}
+.ph{width:100%;height:100%;display:flex;align-items:center;justify-content:center;text-align:center;padding:8%;
+  container-type:inline-size;color:var(--ink3);font-family:var(--serif);font-weight:700;line-height:1.15;
+  background-color:var(--bg2);
+  background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='160' height='160'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.9' numOctaves='2' stitchTiles='stitch'/%3E%3CfeColorMatrix values='0 0 0 0 .45 0 0 0 0 .4 0 0 0 0 .3 0 0 0 .22 0'/%3E%3C/filter%3E%3Crect width='160' height='160' filter='url(%23n)'/%3E%3C/svg%3E")}
+.ph span{display:block;text-wrap:balance;opacity:.62}
+.ph small{display:block;font-family:var(--sans);font-weight:400;font-size:10.5px;letter-spacing:.08em;margin-top:6px;opacity:.8}
+/* clip-path 揭開（進入視窗一次） */
+.reveal .m,.reveal>img{clip-path:inset(0 0 100% 0);transition:clip-path .48s cubic-bezier(.3,.6,.2,1)}
+.reveal.in .m,.reveal.in>img{clip-path:inset(0 0 0 0)}
+
+/* ========== 分類瀏覽 ========== */
+.cats{display:flex;gap:12px;overflow-x:auto;padding:4px 0 14px;scroll-snap-type:x proximity;margin-top:6px}
+.cats a{flex:none;scroll-snap-align:start;width:128px;border:1px solid var(--line);padding:12px 12px 10px;text-decoration:none;background:var(--surface)}
+.cats a:hover{border-color:var(--red)}
+.cats .gl{font-family:var(--serif);font-size:2rem;line-height:1.1;color:var(--red-text);display:block}
+.cats .nm{font-weight:700;font-size:.92rem;display:block;margin-top:4px}
+.cats .ct{font-size:.74rem;color:var(--ink3)}
+.block{margin-top:clamp(36px,6vw,72px)}
+
+/* ========== 縣頁 ========== */
+.phero{display:grid;grid-template-columns:auto minmax(0,1fr);gap:clamp(16px,3vw,44px);padding-block:clamp(18px,3vw,36px) 12px;align-items:stretch}
+.pname{display:flex;gap:10px}
+.pname .ja{font-family:var(--serif);font-weight:700;font-size:clamp(44px,8vw,112px);line-height:1.05;letter-spacing:.08em}
+.pname .side{display:flex;flex-direction:column;gap:6px;padding-top:.4em;max-width:7em}
+.pname .code{font-size:1.5rem;color:var(--red-text);font-weight:700;line-height:1}
+.pname .zh{font-family:var(--serif);font-size:1rem;color:var(--ink2)}
+.pname .rg{font-size:.8rem;color:var(--ink3)}
+.phero .fig{aspect-ratio:3/2;min-height:200px;max-height:68vh;width:100%}
+.back{display:inline-block;margin-top:14px;font-size:.88rem;color:var(--ink2);text-decoration:none}
+.back:hover{color:var(--red-text)}
+.snav{position:sticky;top:0;z-index:20;background:var(--bg);border-block:1px solid var(--line);margin-top:20px}
+.snav .wrap{display:flex;gap:4px;overflow-x:auto;scrollbar-width:none}
+.snav .wrap::-webkit-scrollbar{display:none}
+.snav button{padding:13px 14px;white-space:nowrap;color:var(--ink2);font-size:.92rem;border-bottom:2px solid transparent;margin-bottom:-1px}
+.snav button[aria-current="true"]{color:var(--ink);font-weight:700;border-bottom-color:var(--red)}
+section.s{padding-top:clamp(36px,5vw,64px);scroll-margin-top:var(--nav-h)}
+.ov{display:grid;grid-template-columns:minmax(0,1.15fr) minmax(0,1fr);gap:clamp(24px,5vw,72px);align-items:start}
+.ov p{margin:0 0 1em}
+.facts-ov{margin:0;display:grid;grid-template-columns:auto 1fr;gap:0 18px;border-top:1px solid var(--ink)}
+.facts-ov dt,.facts-ov dd{padding:9px 0;border-bottom:1px solid var(--line);margin:0;font-size:.92rem}
+.facts-ov dt{color:var(--ink3);white-space:nowrap}
+.chips{display:flex;flex-wrap:wrap;gap:6px;margin:0;padding:0;list-style:none}
+.chips li{border:1px solid var(--line);padding:1px 9px;font-size:.82rem;color:var(--ink2)}
+@media(max-width:820px){.ov{grid-template-columns:1fr}.phero{grid-template-columns:1fr}
+  .phero{grid-template-columns:auto minmax(0,1fr)}.pname .side{display:none}
+  .phero .fig{aspect-ratio:4/5;max-height:none}.pname .ja{font-size:clamp(40px,12vw,64px)}}
+
+/* 九類：大小不一編排 */
+.core{display:grid;grid-template-columns:repeat(12,1fr);gap:clamp(18px,2.4vw,34px) clamp(14px,2vw,28px);align-items:start}
+.item{display:block;width:100%;text-align:left;position:relative}
+.item .fig{width:100%}
+.item .cap{padding-top:9px}
+.item .kind{font-size:.74rem;color:var(--red-text);font-weight:700;letter-spacing:.1em}
+.item .t{font-family:var(--serif);font-size:1.12rem;font-weight:700;line-height:1.3;display:block}
+.item .tj{font-size:.78rem;color:var(--ink3)}
+.item .sm{font-size:.86rem;color:var(--ink2);margin-top:3px;display:block;line-height:1.55}
+@media(hover:hover){.item:hover .fig>.m,.item:hover .fig>img{transform:scale(1.03)}}
+.fig>.m,.fig>img{transition:transform .6s ease,clip-path .48s cubic-bezier(.3,.6,.2,1)}
+.core .c-architecture{grid-column:span 7}.core .c-architecture .fig{aspect-ratio:3/2}
+.core .c-food{grid-column:span 5;padding-top:clamp(0px,4vw,56px)}.core .c-food .fig{aspect-ratio:4/5}
+.core .c-culture{grid-column:span 4}.core .c-culture .fig{aspect-ratio:1/1}
+.core .c-history{grid-column:span 4;padding-top:clamp(0px,3vw,40px)}.core .c-history .fig{aspect-ratio:4/5}
+.core .c-mascot{grid-column:span 4}.core .c-mascot .fig{aspect-ratio:1/1}
+.core .c-scenery{grid-column:span 8}.core .c-scenery .fig{aspect-ratio:16/9}
+.core .c-spot{grid-column:span 4}.core .c-spot .fig{aspect-ratio:3/4}
+.core .c-experience{grid-column:span 5}.core .c-experience .fig{aspect-ratio:3/2}
+.core .c-costume{grid-column:span 7}.core .c-costume .fig{aspect-ratio:2/1}
+@media(max-width:759px){
+  .core{grid-template-columns:1fr 1fr}
+  .core .item{grid-column:span 1!important;padding-top:0!important}
+  .core .c-architecture,.core .c-scenery,.core .c-costume{grid-column:span 2!important}
+  .core .item .fig{aspect-ratio:4/5!important}
+  .core .c-architecture .fig,.core .c-scenery .fig,.core .c-costume .fig{aspect-ratio:3/2!important}
+  .core .item .sm{display:none}
+}
+/* 美食：方格＋類別 */
+.foods{display:grid;grid-template-columns:repeat(4,1fr);gap:20px 16px;margin:0;padding:0;list-style:none}
+.foods .fig{aspect-ratio:1/1}
+@media(max-width:900px){.foods{grid-template-columns:repeat(2,1fr)}}
+/* 景點：編號列表 */
+.spots{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:0 clamp(20px,4vw,56px);margin:0;padding:0;list-style:none;border-top:1px solid var(--ink)}
+.spots li{border-bottom:1px solid var(--line)}
+.spots .item{display:grid;grid-template-columns:28px 128px minmax(0,1fr);gap:12px;align-items:start;padding:14px 0}
+.spots .n{font-size:.85rem;color:var(--red-text);font-weight:700;padding-top:2px}
+.spots .fig{aspect-ratio:4/3}
+.spots .cap{padding:0}
+@media(max-width:820px){.spots{grid-template-columns:1fr}.spots .item{grid-template-columns:24px 104px minmax(0,1fr)}}
+/* 地區 */
+.area{padding:clamp(22px,3vw,36px) 0;border-top:1px solid var(--line)}
+.area:first-of-type{border-top:1px solid var(--ink)}
+.area-h{display:flex;align-items:baseline;gap:12px;flex-wrap:wrap}
+.area-h h3{font-size:1.4rem}.area-h .j{color:var(--ink3);font-size:.9rem}
+.area p{margin:6px 0 16px}
+.area .three{display:grid;grid-template-columns:repeat(3,1fr);gap:16px}
+.area .three .fig{aspect-ratio:3/2}
+@media(max-width:700px){.area .three{grid-template-columns:1fr 1fr}.area .three .item:first-child{grid-column:span 2}}
+
+/* ========== 搜尋 ========== */
+.sv{padding-block:clamp(22px,4vw,44px)}
+.sv h1{font-size:clamp(1.6rem,3vw,2.3rem);margin-bottom:16px}
+.filters{display:flex;flex-wrap:wrap;gap:10px 16px;margin:16px 0 8px;align-items:center}
+.filters label{font-size:.82rem;color:var(--ink3);display:flex;gap:8px;align-items:center}
+.filters select{border:1px solid var(--line);background:var(--surface);padding:5px 8px;max-width:100%}
+.chipbar{display:flex;gap:6px;overflow-x:auto;padding:6px 0;scrollbar-width:none}
+.chipbar::-webkit-scrollbar{display:none}
+.chipbar button{flex:none;border:1px solid var(--line);padding:3px 12px;font-size:.86rem;color:var(--ink2);background:transparent}
+.chipbar button[aria-pressed="true"]{background:var(--ink);color:var(--bg);border-color:var(--ink)}
+.res-n{font-size:.85rem;color:var(--ink3);margin:10px 0 14px}
+.results{display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:0 28px;margin:0;padding:0;list-style:none;border-top:1px solid var(--ink)}
+.results li{border-bottom:1px solid var(--line)}
+.results .item{display:grid;grid-template-columns:104px minmax(0,1fr);gap:12px;padding:12px 0}
+.results .fig{aspect-ratio:4/3}
+.results .cap{padding:0}
+.more{display:block;margin:24px auto 0;border:1px solid var(--ink);padding:8px 26px}
+.more:hover{background:var(--ink);color:var(--bg)}
+.empty{padding:40px 0;color:var(--ink2)}
+
+/* ========== 可信度徽章 ========== */
+.cf{display:inline-flex;align-items:center;gap:5px;font-size:.72rem;color:var(--ink2);margin-left:6px;white-space:nowrap}
+.cf .dots{display:inline-flex;gap:2px}
+.cf i{width:6px;height:6px;border:1px solid currentColor;display:inline-block}
+.cf i.on{background:currentColor}
+.cf.low{color:var(--red-text)}.cf.high{color:var(--slate)}
+
+/* ========== 詳情側欄 ========== */
+.scrim{position:fixed;inset:0;background:rgba(20,19,15,.5);opacity:0;visibility:hidden;transition:opacity .22s ease,visibility 0s .26s;z-index:40}
+.scrim.open{opacity:1;visibility:visible;transition:opacity .22s ease}
+.drawer{position:fixed;z-index:50;background:var(--bg);color:var(--ink);overflow-y:auto;overscroll-behavior:contain;
+  visibility:hidden;transition:transform .26s cubic-bezier(.25,.7,.25,1),visibility 0s .26s;
+  top:0;right:0;bottom:0;width:min(540px,100%);transform:translateX(100%);border-left:1px solid var(--ink)}
+.drawer.open{visibility:visible;transform:none;transition:transform .26s cubic-bezier(.25,.7,.25,1)}
+@media(max-width:759px){.drawer{top:auto;left:0;width:100%;max-height:90vh;transform:translateY(100%);border-left:0;border-top:1px solid var(--ink)}}
+.dclose{position:sticky;top:0;float:right;z-index:3;margin:10px 10px 0 0;background:var(--bg);border:1px solid var(--ink);width:38px;height:38px;font-size:1.2rem;line-height:1}
+.dclose:hover{background:var(--red);color:var(--on-red);border-color:var(--red)}
+.drawer .fig{aspect-ratio:3/2;width:100%}
+.dbody{padding:18px clamp(16px,4vw,28px) 40px}
+.dkind{font-size:.78rem;color:var(--red-text);font-weight:700;letter-spacing:.1em}
+.dbody h2{font-size:1.7rem;margin:4px 0 0}
+.dbody .dj{color:var(--ink3);font-size:.95rem;margin:0 0 14px}
+.dbody p.bd{margin:0 0 1.2em;max-width:38em}
+.dfacts{margin:0 0 16px;display:grid;grid-template-columns:auto 1fr;border-top:1px solid var(--ink)}
+.dfacts dt,.dfacts dd{margin:0;padding:8px 0;border-bottom:1px solid var(--line);font-size:.9rem}
+.dfacts dt{color:var(--ink3);padding-right:16px;white-space:nowrap}
+.dsec{margin:0 0 14px}.dsec b{display:block;font-size:.78rem;color:var(--ink3);font-weight:500;letter-spacing:.08em}
+.dsec span{font-size:.92rem}
+.src{margin:0;padding:0;list-style:none;font-size:.84rem;word-break:break-all}
+.src a{color:var(--slate)}
+.cfbox{border:1px solid var(--line);padding:10px 12px;margin:18px 0 0;font-size:.85rem;color:var(--ink2)}
+.cfbox .cf{margin:0 6px 0 0;font-size:.85rem;font-weight:700}
+
+/* ========== 頁尾 ========== */
+.foot{margin-top:clamp(48px,8vw,96px);border-top:1px solid var(--ink);padding-block:22px 36px;font-size:.82rem;color:var(--ink2)}
+.foot p{margin:0;max-width:60em}
+.loading{padding:80px 0;color:var(--ink3);text-align:center}
+
+/* ========== 動畫總關閉 ========== */
+@media(prefers-reduced-motion:reduce){
+  *,*::before,*::after{animation:none!important;transition:none!important;scroll-behavior:auto!important}
+  .reveal .m,.reveal>img{clip-path:none!important}
+}
+::view-transition-group(pref-cover){animation-duration:.4s}
+</style>
+<script src="config.js"></script>
+<script src="data/index.js"></script>
+</head>
+<body>
+<a class="skip" href="#app">跳到主要內容</a>
+<header class="top" id="top"><div class="wrap">
+  <a class="brand" href="#/" aria-label="日本地方文化圖鑑 首頁">
+    <svg viewBox="0 0 32 32" aria-hidden="true"><rect x="1.5" y="1.5" width="29" height="29" fill="var(--red)"/><text x="16" y="14.2" text-anchor="middle" font-size="11.5" font-family="Shippori Mincho,serif" font-weight="700" fill="var(--on-red)">圖</text><text x="16" y="26.4" text-anchor="middle" font-size="11.5" font-family="Shippori Mincho,serif" font-weight="700" fill="var(--on-red)">鑑</text></svg>
+    日本地方文化圖鑑</a>
+  <nav aria-label="主選單"><a href="#/">首頁</a><a href="#/s">分類搜尋</a><button type="button" data-theme-toggle aria-label="切換明暗主題">明／暗</button></nav>
+</div></header>
+<main id="app" tabindex="-1"></main>
+<footer class="foot"><div class="wrap"><p>資料由 AI 整理，並以維基等公開來源核實，部分項目可信度為低；圖片為 AI 生成示意，非實景。吉祥物圖為原創角色，非官方吉祥物。</p></div></footer>
+<nav class="bnav" aria-label="底部導航">
+  <a href="#/" data-bn="home"><span class="g">家</span>首頁</a>
+  <a href="#/s" data-bn="search"><span class="g">探</span>搜尋</a>
+  <button type="button" data-theme-toggle aria-label="切換明暗主題"><span class="g">明</span>主題</button>
+</nav>
+<div class="scrim" id="scrim"></div>
+<aside class="drawer" id="drawer" role="dialog" aria-modal="true" aria-labelledby="d-title" aria-hidden="true" tabindex="-1"></aside>
+
+<script>
+"use strict";
+/* ========================================================================
+   日本地方文化圖鑑 — 前端（hash 路由：#/、#/p/<id>、#/s?q=…）
+   資料來源：window.JP_INDEX（index.js）與 window.JP_P[id]（p_<id>.js，動態載入）
+   ======================================================================== */
+const IDX = window.JP_INDEX || {regions:[],prefs:[],search:[]};
+const PREF = Object.fromEntries(IDX.prefs.map(p => [p.id, p]));
+const REDUCED = matchMedia("(prefers-reduced-motion: reduce)").matches;
+const CAT_ZH = {architecture:"建築",food:"飲食文化",culture:"傳統文化",history:"歷史",mascot:"吉祥物",
+  scenery:"風景",spot:"名所",experience:"體驗",costume:"服飾"};
+const CORE_ORDER = ["architecture","food","culture","history","mascot","scenery","spot","experience","costume"];
+const CAT_GLYPH = {architecture:"建",food:"食",culture:"文",history:"史",mascot:"吉",scenery:"景",spot:"所",experience:"體",costume:"裝",foodk:"味",spotk:"勝"};
+const AREA_CAT_ZH = {spot:"景點",food:"美食",scenery:"風景"};
+const CONF = {
+  high:{n:3,zh:"高",txt:"內容可由維基或官方等公開來源核實。"},
+  medium:{n:2,zh:"中",txt:"部分資訊僅有單一或間接來源，出行前建議再確認。"},
+  low:{n:1,zh:"低",txt:"可核實來源有限，內容為保守整理，請自行查證。"}
+};
+
+/* ---------- 小工具 ---------- */
+/** HTML 跳脫，避免資料內容破壞版面。 */
+const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+/** 安全讀寫 localStorage（失敗時靜默）。 */
+const store = {
+  get(k){ try{ return localStorage.getItem(k); }catch(e){ return null; } },
+  set(k,v){ try{ localStorage.setItem(k,v); }catch(e){} }
+};
+/** 縮圖路徑轉大圖路徑。 */
+/** 圖片網址 helper：資料內存相對路徑 img/…，前面接可設定的基底網址（config.js 的 JP_IMG_BASE）。 */
+const imgUrl = p => p ? (window.JP_IMG_BASE || "") + p : p;
+const fullOf = t => t ? t.replace("img/t/","img/") : null;
+const $ = (s, r=document) => r.querySelector(s);
+const $$ = (s, r=document) => [...r.querySelectorAll(s)];
+
+/** 圖片區塊：有圖用 <img>，無圖畫和紙佔位（大字漢字名）。
+ *  opts: {full:bool 用大圖, w,h: 圖片固有比例, mascot:bool, label:佔位文字, cls:額外 class, reveal:bool} */
+function fig(img, label, opts={}){
+  const src = imgUrl(opts.full ? fullOf(img) : img);
+  const w = opts.w || 3, h = opts.h || 2;
+  let inner;
+  if(src){
+    const tags = (opts.mascot ? '<span class="tag">原創角色，非官方吉祥物</span>' : '') + '<span class="tag">AI 生成示意</span>';
+    inner = `<img class="m" src="${esc(src)}" alt="${esc(label)}（AI 生成示意圖）" width="${w*100}" height="${h*100}" loading="${opts.eager?'eager':'lazy'}" decoding="async">${tags}`;
+  } else {
+    const t = String(label || "").trim();
+    const fs = Math.max(7, Math.min(22, 84 / Math.max(1, [...t].length)));
+    inner = `<div class="m ph" role="img" aria-label="${esc(t)}（圖片尚未生成）"><span style="font-size:${fs.toFixed(1)}cqw">${esc(t)}<small>圖片待生成</small></span></div>`;
+  }
+  return `<div class="fig ${opts.reveal===false?'':'reveal'} ${opts.cls||''}">${inner}</div>`;
+}
+/** 可信度小徽章。 */
+function cfBadge(c){
+  const m = CONF[c]; if(!m) return "";
+  return `<span class="cf ${c}" title="可信度${m.zh}"><span class="dots" aria-hidden="true">${[1,2,3].map(i=>`<i class="${i<=m.n?'on':''}"></i>`).join("")}</span>可信度${m.zh}</span>`;
+}
+/** 載入縣資料腳本（動態 <script>，支援 file://）。 */
+const loading = {};
+function loadPref(id){
+  if(window.JP_P && window.JP_P[id]) return Promise.resolve(window.JP_P[id]);
+  if(loading[id]) return loading[id];
+  return loading[id] = new Promise((res, rej) => {
+    const s = document.createElement("script");
+    s.src = `data/p_${id}.js`;
+    s.onload = () => window.JP_P && window.JP_P[id] ? res(window.JP_P[id]) : rej(new Error("資料格式錯誤"));
+    s.onerror = () => { delete loading[id]; rej(new Error("載入失敗")); };
+    document.head.appendChild(s);
+  });
+}
+
+/* ---------- 主題 ---------- */
+function applyTheme(t){
+  if(t) document.documentElement.dataset.theme = t; else delete document.documentElement.dataset.theme;
+}
+applyTheme(store.get("jp-theme"));
+function toggleTheme(){
+  const cur = document.documentElement.dataset.theme ||
+    (matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light");
+  const next = cur === "dark" ? "light" : "dark";
+  applyTheme(next); store.set("jp-theme", next);
+}
+document.addEventListener("click", e => { if(e.target.closest("[data-theme-toggle]")) toggleTheme(); });
+
+/* ---------- 朱印 SVG ---------- */
+const STAMP = `<svg class="stamp" viewBox="0 0 64 64" role="img" aria-label="圖鑑 朱印"><rect x="2" y="2" width="60" height="60" fill="var(--red)"/><rect x="6" y="6" width="52" height="52" fill="none" stroke="var(--on-red)" stroke-width="1.6"/><text x="32" y="30" text-anchor="middle" font-size="22" font-family="Shippori Mincho,serif" font-weight="700" fill="var(--on-red)">圖</text><text x="32" y="53" text-anchor="middle" font-size="22" font-family="Shippori Mincho,serif" font-weight="700" fill="var(--on-red)">鑑</text></svg>`;
+
+/* ---------- 搜尋索引（惰性建立） ---------- */
+let HAY = null;
+function buildHay(){
+  if(HAY) return;
+  HAY = IDX.search.map(r => {
+    const p = PREF[r.p] || {};
+    return {r, title:(r.t+" "+r.tj).toLowerCase(),
+      all:[r.t,r.tj,r.s,(r.tags||[]).join(" "),p.name_zh,p.name_ja,r.a||"",r.c].join(" ").toLowerCase()};
+  });
+}
+/** 依條件篩選：q 關鍵字、k 種類、c 類別、rg 地方、f 可信度。 */
+function runSearch(o){
+  buildHay();
+  const terms = (o.q||"").toLowerCase().split(/\s+/).filter(Boolean);
+  const reg = o.rg ? new Set((IDX.regions.find(x=>x.id===o.rg)||{prefs:[]}).prefs) : null;
+  const out = [];
+  for(const h of HAY){
+    const r = h.r;
+    if(o.k && r.k !== o.k) continue;
+    if(o.c && r.c !== o.c) continue;
+    if(reg && !reg.has(r.p)) continue;
+    if(o.f && r.f !== o.f) continue;
+    if(terms.length && !terms.every(t => h.all.includes(t))) continue;
+    const score = terms.length && terms.every(t => h.title.includes(t)) ? 0 : 1;
+    out.push([score, r]);
+  }
+  out.sort((a,b) => a[0]-b[0]);
+  return out.map(x => x[1]);
+}
+/** 一筆索引紀錄在畫面上的標籤。 */
+function kindLabel(r){
+  if(r.k === "core") return CAT_ZH[r.c] || r.c;
+  if(r.k === "food") return "美食・" + (r.c || "");
+  if(r.k === "spot") return "景點・" + (r.c || "");
+  return (r.a || "地區") + "・" + (AREA_CAT_ZH[r.c] || r.c);
+}
+
+/* ---------- 路由 ---------- */
+let firstRender = true;
+/** 解析 hash → {name, id, params}。 */
+function parseRoute(){
+  const h = location.hash.replace(/^#/, "") || "/";
+  const [path, qs] = h.split("?");
+  const params = new URLSearchParams(qs || "");
+  let m;
+  if((m = path.match(/^\/p\/([a-z]+)$/))) return {name:"pref", id:m[1], params};
+  if(path === "/s") return {name:"search", params};
+  return {name:"home", params};
+}
+let currentRoute = null;
+/** 渲染目前路由（可能含非同步載入）。 */
+async function render(){
+  const route = parseRoute();
+  closeDrawer(true);
+  const app = $("#app");
+  $$("[data-bn]").forEach(a => a.removeAttribute("aria-current"));
+  const bn = route.name === "search" ? "search" : route.name === "home" ? "home" : null;
+  if(bn) $(`[data-bn="${bn}"]`).setAttribute("aria-current","page");
+  if(route.name === "pref"){
+    if(!PREF[route.id]){ app.innerHTML = `<div class="wrap empty">找不到這個縣。<a href="#/">回首頁</a></div>`; return; }
+    try{ const data = await loadPref(route.id); app.innerHTML = prefView(PREF[route.id], data); document.title = `${PREF[route.id].name_zh}｜日本地方文化圖鑑`; initPref(route.id, data); }
+    catch(err){ app.innerHTML = `<div class="wrap empty">資料載入失敗：${esc(err.message)}。<a href="#/">回首頁</a></div>`; }
+  } else if(route.name === "search"){
+    app.innerHTML = searchView(route.params); document.title = "分類搜尋｜日本地方文化圖鑑"; initSearch(route.params);
+  } else {
+    app.innerHTML = homeView(); document.title = "日本地方文化圖鑑"; initHome();
+  }
+  currentRoute = route;
+  window.scrollTo(0, 0);
+  initReveal();
+  if(!firstRender) app.focus({preventScroll:true});
+  firstRender = false;
+}
+/** 路由切換入口：支援 View Transitions（封面圖共享元素）。 */
+let navToken = 0;
+function onRoute(){
+  const token = ++navToken;
+  const go = () => token === navToken ? render() : Promise.resolve();
+  if(document.startViewTransition && !REDUCED && !firstRender){
+    document.startViewTransition(go);
+  } else go();
+}
+window.addEventListener("hashchange", onRoute);
+
+/* ---------- 首頁 ---------- */
+let homeRegion = "all";
+function homeView(){
+  const cnt = {};
+  IDX.search.forEach(r => { const key = r.k === "core" ? r.c : r.k; cnt[key] = (cnt[key]||0)+1; });
+  const cats = CORE_ORDER.map(c => ({href:`#/s?k=core&c=${c}`, g:CAT_GLYPH[c], n:CAT_ZH[c], c:cnt[c]||0}))
+    .concat([{href:"#/s?k=food", g:CAT_GLYPH.foodk, n:"各縣美食", c:cnt.food||0},
+             {href:"#/s?k=spot", g:CAT_GLYPH.spotk, n:"各縣景點", c:cnt.spot||0},
+             {href:"#/s?k=area", g:"區", n:"重點地區", c:cnt.area||0}]);
+  return `<div class="wrap">
+  <section class="hero" aria-labelledby="h1">
+    <div class="hero-title"><h1 id="h1" class="vsr" style="writing-mode:vertical-rl">日本</h1>${STAMP}</div>
+    <div class="hero-copy">
+      <p class="eyebrow">JAPAN CULTURAL ATLAS ・ 47 PREFECTURES</p>
+      <p class="lead measure">以四十七都道府縣為經，建築、飲食、傳統、歷史、吉祥物、風景、名所、體驗、服飾九類為緯，另有各縣八道美食、八處景點與重點地區，逐一整理成圖鑑。</p>
+      <form class="searchbox" role="search" id="homeSearch"><input type="search" name="q" placeholder="搜尋：清水寺、拉麵、祭典、北海道…" aria-label="全站搜尋"><button type="submit">搜尋</button></form>
+      <p class="hint">可搜尋標題、摘要與標籤；也可由下方分類進入。</p>
+    </div>
+  </section>
+  <div class="tabs-wrap"><div class="tabs" role="tablist" aria-label="八大地方" id="tabs">
+    ${[{id:"all",name_zh:"全部"}].concat(IDX.regions).map(r => `<button role="tab" type="button" data-r="${r.id}" aria-selected="${r.id===homeRegion}">${esc(r.name_zh)}</button>`).join("")}
+    <span class="ind" id="ind" aria-hidden="true"></span></div></div>
+  <ul class="grid47" id="grid47">${IDX.prefs.map(prefCard).join("")}</ul>
+  <section class="block" aria-labelledby="catH"><div class="sec-h"><h2 id="catH">分類瀏覽</h2><span class="sub">進入後可再按地方、可信度篩選</span></div>
+    <div class="cats">${cats.map(c => `<a href="${c.href}"><span class="gl" aria-hidden="true">${c.g}</span><span class="nm">${esc(c.n)}</span><span class="ct num">${c.c} 項</span></a>`).join("")}</div></section>
+  </div>`;
+}
+/** 單一縣卡片。 */
+function prefCard(p){
+  const have = Object.values(p.counts).reduce((a,c)=>a+c.have,0), total = Object.values(p.counts).reduce((a,c)=>a+c.total,0);
+  const reg = IDX.regions.find(r => r.prefs.includes(p.id));
+  return `<li data-region="${reg?reg.id:''}"><a class="card" href="#/p/${p.id}" data-pref="${p.id}">
+    <div class="media">${fig(p.cover, p.name_ja, {reveal:false})}</div>
+    <div class="meta"><div><span class="code num">${esc(p.code)}</span>
+      <div class="zh">${esc(p.name_zh)}</div><div class="ja">${esc(p.capital_zh)}</div>
+      <div class="cnt num">已有圖 ${have}／${total}</div></div>
+      <div class="vja vsr" aria-hidden="true">${esc(p.name_ja)}</div></div></a></li>`;
+}
+function initHome(){
+  const form = $("#homeSearch");
+  form.addEventListener("submit", e => { e.preventDefault(); const q = form.q.value.trim(); location.hash = "#/s" + (q ? "?q=" + encodeURIComponent(q) : ""); });
+  const tabs = $("#tabs"), ind = $("#ind");
+  const place = () => {
+    const sel = $('[aria-selected="true"]', tabs); if(!sel) return;
+    ind.style.transform = `translateX(${sel.offsetLeft}px) scaleX(${sel.offsetWidth/100})`;
+  };
+  const apply = () => {
+    $$("#tabs [role=tab]").forEach(b => b.setAttribute("aria-selected", String(b.dataset.r === homeRegion)));
+    $$("#grid47 li").forEach(li => li.hidden = homeRegion !== "all" && li.dataset.region !== homeRegion);
+    place();
+  };
+  tabs.addEventListener("click", e => { const b = e.target.closest("[role=tab]"); if(!b) return; homeRegion = b.dataset.r; apply(); });
+  tabs.addEventListener("keydown", e => {
+    if(e.key !== "ArrowRight" && e.key !== "ArrowLeft") return;
+    const list = $$("#tabs [role=tab]"), i = list.findIndex(b => b.dataset.r === homeRegion);
+    const n = list[(i + (e.key === "ArrowRight" ? 1 : -1) + list.length) % list.length];
+    homeRegion = n.dataset.r; apply(); n.focus();
+  });
+  apply();
+  if(document.fonts && document.fonts.ready) document.fonts.ready.then(place);
+  // 共享元素轉場：點擊時才替被點的封面命名
+  $("#grid47").addEventListener("click", e => {
+    const a = e.target.closest("a.card"); if(!a) return;
+    const f = $(".fig", a); if(f && !REDUCED) f.style.viewTransitionName = "pref-cover";
+  });
+  if(firstRender && !REDUCED){
+    document.documentElement.classList.add("boot");
+    setTimeout(() => document.documentElement.classList.remove("boot"), 1200);
+  }
+}
+
+/* ---------- 縣頁 ---------- */
+function prefView(p, d){
+  const ov = d.overview || {};
+  const cover = (d.items.scenery && d.items.scenery.img) || (d.spots[0] && d.spots[0].img) || (d.items.spot && d.items.spot.img) || fullOf(p.cover);
+  const rows = [["縣廳所在地",ov.capital_zh],["面積",ov.area_km2 ? "約 "+Number(ov.area_km2).toLocaleString()+" 平方公里" : ""],
+    ["人口",ov.population_approx],["縣花",ov.flower_zh],["縣鳥",ov.bird_zh],["縣木",ov.tree_zh],
+    ["氣候",ov.climate_zh],["交通",ov.access_zh],["最佳季節",ov.best_season_zh]].filter(r => r[1]);
+  const spec = (ov.specialties_zh || []);
+  const coreOrder = CORE_ORDER.filter(c => d.items[c]);
+  return `<div class="wrap">
+  <div class="phero">
+    <div class="pname"><h1 class="ja vsr" style="writing-mode:vertical-rl;margin:0" lang="ja">${esc(p.name_ja)}</h1>
+      <div class="side"><span class="code num">${esc(p.code)}</span><span class="zh">${esc(p.name_zh)}</span><span class="rg">${esc(p.region)}地方</span></div></div>
+    <div class="fig" id="heroFig" style="view-transition-name:pref-cover">${(function(){
+      const inner = fig(cover, p.name_ja, {eager:true, reveal:false, w:3, h:2});
+      return inner.replace(/^<div class="fig [^"]*">/, "").replace(/<\/div>$/, "");
+    })()}</div>
+  </div>
+  <a class="back" href="#/">← 回到四十七都道府縣</a>
+  </div>
+  <div class="snav" id="snav"><div class="wrap" role="tablist">
+    ${[["ov","總覽"],["core","九類"],["food","美食"],["spot","景點"],["area","重點地區"]].map(([id,n],i) => `<button type="button" data-go="${id}" aria-current="${i===0}">${n}</button>`).join("")}</div></div>
+  <div class="wrap">
+  <section class="s" id="sec-ov" data-sec="ov" aria-labelledby="t-ov"><div class="sec-h"><h2 id="t-ov">總覽</h2></div>
+    <div class="ov"><div><p class="measure">${esc(ov.intro_zh)}</p>
+      ${spec.length ? `<p style="font-size:.82rem;color:var(--ink3);margin:0 0 6px">特產</p><ul class="chips">${spec.map(s=>`<li>${esc(s)}</li>`).join("")}</ul>` : ""}</div>
+      <dl class="facts-ov">${rows.map(r => `<dt>${esc(r[0])}</dt><dd>${esc(r[1])}</dd>`).join("")}</dl></div></section>
+  <section class="s" id="sec-core" data-sec="core" aria-labelledby="t-core"><div class="sec-h"><h2 id="t-core">九類文化</h2><span class="sub">建築・飲食・傳統・歷史・吉祥物・風景・名所・體驗・服飾</span></div>
+    <div class="core">${coreOrder.map(c => itemBtn({p:p.id,k:"core",c,i:c}, d.items[c], "c-"+c, {kind:CAT_ZH[c], mascot:c==="mascot"})).join("")}</div></section>
+  <section class="s" id="sec-food" data-sec="food" aria-labelledby="t-food"><div class="sec-h"><h2 id="t-food">在地美食</h2><span class="sub">八道</span></div>
+    <ul class="foods">${d.foods.map((f,i) => `<li>${itemBtn({p:p.id,k:"food",c:f.category,i}, f, "", {kind:f.category, sq:true})}</li>`).join("")}</ul></section>
+  <section class="s" id="sec-spot" data-sec="spot" aria-labelledby="t-spot"><div class="sec-h"><h2 id="t-spot">必訪景點</h2><span class="sub">八處</span></div>
+    <ol class="spots">${d.spots.map((s,i) => `<li>${itemBtn({p:p.id,k:"spot",c:s.category,i}, s, "", {kind:s.category+(s.area_zh?"・"+s.area_zh:""), n:i+1})}</li>`).join("")}</ol></section>
+  <section class="s" id="sec-area" data-sec="area" aria-labelledby="t-area"><div class="sec-h"><h2 id="t-area">重點地區</h2><span class="sub">${d.areas.length} 區，各取景點・美食・風景</span></div>
+    ${d.areas.map(a => `<article class="area"><div class="area-h"><h3>${esc(a.name_zh)}</h3><span class="j" lang="ja">${esc(a.name_ja)}</span></div>
+      <p class="measure">${esc(a.intro_zh)}</p>
+      <div class="three">${AREA_CATS.filter(c => a.items[c]).map(c => itemBtn({p:p.id,k:"area",c,i:a.id+"/"+c}, a.items[c], "", {kind:AREA_CAT_ZH[c]})).join("")}</div></article>`).join("")}</section>
+  </div>`;
+}
+const AREA_CATS = ["spot","food","scenery"];
+/** 可點擊的項目卡（開啟詳情）。ref 記錄 pref/種類/類別/索引。 */
+function itemBtn(ref, it, cls, o={}){
+  const sqRatio = o.sq ? {w:1,h:1} : {w:3,h:2};
+  return `<button type="button" class="item ${cls}" data-open data-p="${esc(ref.p)}" data-k="${esc(ref.k)}" data-c="${esc(ref.c)}" data-i="${esc(ref.i)}">
+    ${o.n ? `<span class="n num">${String(o.n).padStart(2,"0")}</span>` : ""}
+    ${fig(it.thumb, it.title_ja || it.title_zh, {mascot:o.mascot, ...sqRatio})}
+    <span class="cap"><span class="kind">${esc(o.kind||"")}</span>${cfBadge(it.confidence)}
+      <span class="t">${esc(it.title_zh)}</span><span class="tj" lang="ja">${esc(it.title_ja)}</span>
+      <span class="sm">${esc(it.summary_zh)}</span></span></button>`;
+}
+let secObserver = null;
+function initPref(id){
+  // 小節導航
+  const btns = $$("#snav [data-go]");
+  const sticky = $("#snav");
+  btns.forEach(b => b.addEventListener("click", () => {
+    const el = $("#sec-" + b.dataset.go); if(el) el.scrollIntoView({behavior: REDUCED ? "auto" : "smooth", block:"start"});
+  }));
+  if(secObserver) secObserver.disconnect();
+  secObserver = new IntersectionObserver(es => {
+    es.forEach(en => { if(en.isIntersecting){
+      const key = en.target.dataset.sec;
+      btns.forEach(b => b.setAttribute("aria-current", String(b.dataset.go === key)));
+      const cur = btns.find(b => b.dataset.go === key);
+      if(cur && sticky.firstElementChild.scrollWidth > sticky.firstElementChild.clientWidth)
+        sticky.firstElementChild.scrollTo({left: cur.offsetLeft - 16});
+    }});
+  }, {rootMargin:"-45% 0px -50% 0px"});
+  $$("[data-sec]").forEach(s => secObserver.observe(s));
+  // 捲回頁首（總覽之上）時，IO 不會觸發，另以捲動位置補標第一項
+  const ovEl = $("#sec-ov");
+  window.onscroll = () => { if(currentRoute && currentRoute.name === "pref" && ovEl.getBoundingClientRect().top > innerHeight * 0.5)
+    btns.forEach((b,i) => b.setAttribute("aria-current", String(i === 0))); };
+  // 轉場名稱只在轉場期間需要，之後移除避免殘留
+  setTimeout(() => { const f = $("#heroFig"); if(f) f.style.viewTransitionName = ""; }, 700);
+}
+
+/* ---------- 搜尋視圖 ---------- */
+const PAGE = 60;
+function searchView(params){
+  const q = params.get("q") || "";
+  return `<div class="wrap sv"><h1>分類搜尋</h1>
+  <form class="searchbox" role="search" id="sForm"><input type="search" id="sq" value="${esc(q)}" placeholder="搜尋標題、摘要、標籤、縣名" aria-label="搜尋"><button type="submit">搜尋</button></form>
+  <div class="chipbar" id="chips" role="group" aria-label="類別"></div>
+  <div class="filters">
+    <label>地方 <select id="fRg"><option value="">全部</option>${IDX.regions.map(r => `<option value="${r.id}">${esc(r.name_zh)}</option>`).join("")}</select></label>
+    <label>可信度 <select id="fCf"><option value="">全部</option><option value="high">高</option><option value="medium">中</option><option value="low">低</option></select></label>
+  </div>
+  <p class="res-n" id="resN" aria-live="polite"></p>
+  <ul class="results" id="results"></ul><div id="moreBox"></div></div>`;
+}
+function initSearch(params){
+  const st = {q:params.get("q")||"", k:params.get("k")||"", c:params.get("c")||"", rg:params.get("rg")||"", f:params.get("f")||"", n:PAGE};
+  const chips = [{k:"",c:"",n:"全部"}]
+    .concat(CORE_ORDER.map(c => ({k:"core",c,n:CAT_ZH[c]})))
+    .concat([{k:"food",c:"",n:"美食"},{k:"spot",c:"",n:"景點"},{k:"area",c:"",n:"地區"}]);
+  $("#fRg").value = st.rg; $("#fCf").value = st.f;
+  const sync = () => { // 把條件寫回網址（不觸發重繪）
+    const p = new URLSearchParams();
+    for(const key of ["q","k","c","rg","f"]) if(st[key]) p.set(key, st[key]);
+    history.replaceState(history.state, "", "#/s" + (p.toString() ? "?" + p : ""));
+  };
+  const paintChips = () => {
+    $("#chips").innerHTML = chips.map((c,i) => `<button type="button" data-i="${i}" aria-pressed="${c.k===st.k && c.c===st.c}">${c.n}</button>`).join("");
+  };
+  const paint = () => {
+    const list = runSearch(st);
+    $("#resN").textContent = list.length ? `共 ${list.length} 項結果` : "";
+    const shown = list.slice(0, st.n);
+    $("#results").innerHTML = shown.map(r => {
+      const p = PREF[r.p] || {};
+      return `<li><button type="button" class="item" data-open data-p="${esc(r.p)}" data-k="${esc(r.k)}" data-c="${esc(r.c)}" data-i="${esc(r.i)}">
+        ${fig(r.th, r.tj || r.t, {reveal:false})}
+        <span class="cap"><span class="kind">${esc(p.name_zh)}・${esc(kindLabel(r))}</span>${cfBadge(r.f)}
+        <span class="t">${esc(r.t)}</span><span class="tj" lang="ja">${esc(r.tj)}</span><span class="sm">${esc(r.s)}</span></span></button></li>`;
+    }).join("");
+    $("#moreBox").innerHTML = list.length > st.n ? `<button type="button" class="more" id="more">顯示更多（還有 ${list.length - st.n} 項）</button>` : (list.length ? "" : `<p class="empty">沒有符合的項目，換個關鍵字或放寬篩選看看。</p>`);
+    const m = $("#more"); if(m) m.onclick = () => { st.n += PAGE; paint(); };
+  };
+  $("#chips").addEventListener("click", e => { const b = e.target.closest("button"); if(!b) return;
+    const c = chips[+b.dataset.i]; st.k = c.k; st.c = c.c; st.n = PAGE; paintChips(); sync(); paint(); });
+  $("#fRg").onchange = e => { st.rg = e.target.value; st.n = PAGE; sync(); paint(); };
+  $("#fCf").onchange = e => { st.f = e.target.value; st.n = PAGE; sync(); paint(); };
+  $("#sForm").addEventListener("submit", e => { e.preventDefault(); st.q = $("#sq").value.trim(); st.n = PAGE; sync(); paint(); });
+  let timer = 0;
+  $("#sq").addEventListener("input", e => { clearTimeout(timer); timer = setTimeout(() => { st.q = e.target.value.trim(); st.n = PAGE; sync(); paint(); }, 160); });
+  paintChips(); paint();
+}
+
+/* ---------- 詳情側欄 ---------- */
+let lastFocus = null, drawerOpen = false;
+/** 由 ref 取得資料項與顯示用資訊。 */
+function resolveItem(P, ref){
+  const pref = PREF[ref.p];
+  if(ref.k === "core") return {it:P.items[ref.i], kind:CAT_ZH[ref.i], mascot:ref.i==="mascot"};
+  if(ref.k === "food") return {it:P.foods[+ref.i], kind:"美食・"+(P.foods[+ref.i]||{}).category};
+  if(ref.k === "spot") return {it:P.spots[+ref.i], kind:"景點・"+(P.spots[+ref.i]||{}).category};
+  const [aid, cat] = String(ref.i).split("/");
+  const a = P.areas.find(x => x.id === aid) || {items:{}};
+  return {it:a.items[cat], kind:`${a.name_zh||""}・${AREA_CAT_ZH[cat]||cat}`};
+}
+function safeUrl(u){ return /^https?:\/\//i.test(u) ? u : null; }
+async function openDrawer(ref, opener){
+  let P; try{ P = await loadPref(ref.p); }catch(e){ return; }
+  const {it, kind, mascot} = resolveItem(P, ref); if(!it) return;
+  const pref = PREF[ref.p], cf = CONF[it.confidence];
+  const facts = (it.facts || []).slice();
+  if(it.area_zh) facts.unshift({label:"所屬地區", value:it.area_zh});
+  if(it.where_zh) facts.push({label:"代表地區／店家", value:it.where_zh});
+  const season = it.best_season_zh || it.season_zh;
+  const src = (it.sources || []).map(safeUrl).filter(Boolean);
+  const d = $("#drawer");
+  d.innerHTML = `<button type="button" class="dclose" id="dclose" aria-label="關閉詳情">✕</button>
+    ${fig(it.img, it.title_ja || it.title_zh, {full:true, mascot, reveal:false})}
+    <div class="dbody"><div class="dkind">${esc(pref.name_zh)}・${esc(kind)}</div>
+      <h2 id="d-title">${esc(it.title_zh)}</h2><p class="dj" lang="ja">${esc(it.title_ja)}</p>
+      <p class="bd">${esc(it.body_zh || it.summary_zh)}</p>
+      ${facts.length ? `<dl class="dfacts">${facts.map(f => `<dt>${esc(f.label)}</dt><dd>${esc(f.value)}</dd>`).join("")}</dl>` : ""}
+      ${season ? `<div class="dsec"><b>最佳季節</b><span>${esc(season)}</span></div>` : ""}
+      ${it.tips_zh ? `<div class="dsec"><b>小貼士</b><span>${esc(it.tips_zh)}</span></div>` : ""}
+      ${(it.tags||[]).length ? `<ul class="chips" aria-label="標籤">${it.tags.map(t => `<li>${esc(t)}</li>`).join("")}</ul>` : ""}
+      ${src.length ? `<div class="dsec" style="margin-top:16px"><b>來源</b><ul class="src">${src.map(u => `<li><a href="${esc(u)}" target="_blank" rel="noopener noreferrer">${esc(decodeURI(u))}</a></li>`).join("")}</ul></div>` : ""}
+      ${cf ? `<div class="cfbox">${cfBadge(it.confidence)}${esc(cf.txt)}</div>` : ""}
+    </div>`;
+  lastFocus = opener || document.activeElement;
+  d.scrollTop = 0;
+  $("#scrim").classList.add("open"); d.classList.add("open"); d.setAttribute("aria-hidden","false");
+  ["#app",".top",".foot",".bnav"].forEach(s => { const el = $(s); if(el) el.inert = true; });
+  document.documentElement.style.overflow = "hidden";
+  if(!drawerOpen){ history.pushState({drawer:1}, ""); }
+  drawerOpen = true;
+  $("#dclose").focus({preventScroll:true});
+}
+/** 關閉側欄。silent=true 時不動歷史紀錄（路由切換／popstate 已處理）。 */
+function closeDrawer(silent){
+  if(!drawerOpen) return;
+  drawerOpen = false;
+  $("#scrim").classList.remove("open"); const d = $("#drawer"); d.classList.remove("open"); d.setAttribute("aria-hidden","true");
+  ["#app",".top",".foot",".bnav"].forEach(s => { const el = $(s); if(el) el.inert = false; });
+  document.documentElement.style.overflow = "";
+  if(!silent && history.state && history.state.drawer) history.back();
+  if(lastFocus && document.contains(lastFocus) && !silent) lastFocus.focus({preventScroll:true});
+}
+document.addEventListener("click", e => {
+  const b = e.target.closest("[data-open]");
+  if(b){ openDrawer({p:b.dataset.p, k:b.dataset.k, c:b.dataset.c, i:b.dataset.i}, b); return; }
+  if(e.target.closest("#dclose") || e.target.id === "scrim") closeDrawer();
+});
+document.addEventListener("keydown", e => {
+  if(!drawerOpen) return;
+  if(e.key === "Escape"){ e.preventDefault(); closeDrawer(); }
+  if(e.key === "Tab"){ // 焦點圈住
+    const f = $$("#drawer button, #drawer a[href]").filter(x => x.offsetParent !== null);
+    if(!f.length) return;
+    const first = f[0], last = f[f.length-1];
+    if(e.shiftKey && document.activeElement === first){ e.preventDefault(); last.focus(); }
+    else if(!e.shiftKey && document.activeElement === last){ e.preventDefault(); first.focus(); }
+    else if(!$("#drawer").contains(document.activeElement)){ e.preventDefault(); first.focus(); }
+  }
+});
+window.addEventListener("popstate", () => { if(drawerOpen){ closeDrawer(true); if(lastFocus && document.contains(lastFocus)) lastFocus.focus({preventScroll:true}); } });
+
+/* ---------- 圖片首次進入視窗：clip-path 揭開 ---------- */
+let revObs = null;
+function initReveal(){
+  const els = $$(".reveal");
+  if(REDUCED || !("IntersectionObserver" in window)){ els.forEach(el => el.classList.add("in")); return; }
+  if(revObs) revObs.disconnect();
+  revObs = new IntersectionObserver(es => es.forEach(en => {
+    if(en.isIntersecting){ en.target.classList.add("in"); revObs.unobserve(en.target); }
+  }), {rootMargin:"0px 0px -6% 0px", threshold:0.05});
+  els.forEach(el => revObs.observe(el));
+}
+
+/* ---------- 啟動 ---------- */
+onRoute();
+</script>
+</body>
+</html>

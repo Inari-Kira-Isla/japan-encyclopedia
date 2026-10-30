@@ -1,0 +1,149 @@
+{
+ "id": "kyoto",
+ "foods": [
+  {
+   "title_zh": "京都鯖壽司",
+   "title_ja": "鯖寿司",
+   "category": "鄉土料理",
+   "summary_zh": "經鯖街道運來的鹽漬鯖魚，製成節慶壽司。",
+   "body_zh": "京都的鯖壽司原是祭典與節日在家庭製作的鄉土料理。福井若狹捕獲的真鯖以鹽醃漬，沿「鯖街道」徒步運到京都，抵達時鹽味剛好、鮮味因酵素而增加。以醋調味的壽司飯搭配鯖魚，並用竹皮包裹保濕，是無冷藏年代的智慧。今日有「いづう」「いづ重」等專門老鋪。",
+   "facts": [
+    {"label": "起源", "value": "若狹鹽鯖經鯖街道運入京都，成為節慶家庭料理"},
+    {"label": "主要食材", "value": "若狹真鯖、醋飯、竹皮包裹"},
+    {"label": "吃法", "value": "切片冷食，多為棒壽司形態"}
+   ],
+   "season_zh": "全年（節慶時更常見）",
+   "where_zh": "京都市區的鯖壽司專門老鋪與家庭節慶餐桌",
+   "tags": ["鯖魚", "鯖街道", "棒壽司", "節慶"],
+   "sources": ["https://ja.wikipedia.org/wiki/鯖寿司", "https://ja.wikipedia.org/wiki/鯖街道"],
+   "confidence": "high",
+   "prompt_en": "A bamboo-leaf wrapped saba sushi bar, one cut into thick slices showing vinegared mackerel over rice, on a dark ceramic plate, pickled ginger beside, wooden table, soft window light, no text"
+  },
+  {
+   "title_zh": "鯡魚蕎麥麵",
+   "title_ja": "にしんそば",
+   "category": "麵飯",
+   "summary_zh": "甜煮乾鯡魚配關西清淡湯底的京都名物。",
+   "body_zh": "京都的にしんそば是在蕎麥麵上放甜煮的身欠きニシン（鯡魚乾）。一說是1882年南座旁「松葉」的第二代松野與三七所創。鯡魚乾原由北海道經北前船運來，成為京都保存食材的活用。湯底為關西風，用柴魚高湯與淡口醬油，色淡；配京蔥，冷熱皆可，也是年末常見的一碗。",
+   "facts": [
+    {"label": "起源", "value": "一般說法為1882年南座旁松葉所創"},
+    {"label": "主要食材", "value": "蕎麥麵、甜煮身欠鯡魚、京蔥"},
+    {"label": "吃法", "value": "關西風淡色柴魚湯，熱食為主"}
+   ],
+   "season_zh": "全年（冬季與歲末尤其）",
+   "where_zh": "京都市區蕎麥麵店，南座附近的老舖",
+   "tags": ["蕎麥麵", "鯡魚", "北前船", "南座"],
+   "sources": ["https://ja.wikipedia.org/wiki/にしんそば"],
+   "confidence": "high",
+   "prompt_en": "A ceramic bowl of kyoto herring soba with a whole sweet-simmered dried herring on top, thin green onion slices, light amber broth, dark lacquer table, steam, warm light, no text"
+  },
+  {
+   "title_zh": "鱧魚料理",
+   "title_ja": "鱧料理（鱧落とし）",
+   "category": "海鮮",
+   "summary_zh": "切骨處理的夏季鱧魚，祇園祭時節的主角。",
+   "body_zh": "鱧（ハモ）是京都夏季代表食材，祇園祭前後正當季，甚至被稱為「鱧祭」。因小骨多而硬，發展出「骨切り」刀法：不切斷魚皮，只細切小骨，傳說一寸要切二十六刀。鱧生命力強，能從大阪灣、明石海峽活運到京都。常見做法有燙鱧（鱧落とし）配梅肉，或炸物、湯物。",
+   "facts": [
+    {"label": "起源", "value": "鱧耐運輸，可活運至京都，形成夏季食文化"},
+    {"label": "主要食材", "value": "鱧魚（骨切處理），常配梅肉醬"},
+    {"label": "時節", "value": "夏季，祇園祭前後"}
+   ],
+   "season_zh": "夏季（6至7月）",
+   "where_zh": "京都市區料亭、割烹與鴨川沿岸店家",
+   "tags": ["鱧", "祇園祭", "骨切り", "夏季"],
+   "sources": ["https://ja.wikipedia.org/wiki/ハモ"],
+   "confidence": "medium",
+   "prompt_en": "Blanched hamo conger eel pieces curled like white flowers on crushed ice in a glass bowl, a small dish of pink plum paste beside, dark stone table, cool soft light, no text"
+  },
+  {
+   "title_zh": "湯豆腐",
+   "title_ja": "湯豆腐",
+   "category": "鄉土料理",
+   "summary_zh": "南禪寺一帶發祥的昆布水煮豆腐。",
+   "body_zh": "湯豆腐據說發祥於京都南禪寺一帶，如今全日本都有。作法簡單：鍋中鋪昆布，加水與豆腐，小火慢慢加熱，待豆腐溫熱後撈起蘸醬享用。蘸料常用醬油，或醬油混清酒、味醂、高湯；佐料有蔥花、柚子、白蘿蔔泥、柴魚。是京都冬季的代表料理。",
+   "facts": [
+    {"label": "起源", "value": "發祥於京都南禪寺周邊"},
+    {"label": "主要食材", "value": "豆腐、昆布、水"},
+    {"label": "吃法", "value": "溫熱後蘸醬，配蔥、柚子、蘿蔔泥"}
+   ],
+   "season_zh": "冬季",
+   "where_zh": "南禪寺周邊的湯豆腐老鋪",
+   "tags": ["豆腐", "昆布", "南禪寺", "冬季"],
+   "sources": ["https://ja.wikipedia.org/wiki/湯豆腐"],
+   "confidence": "medium",
+   "prompt_en": "A small earthenware donabe pot of simmering yudofu, soft tofu cubes in clear water with a kombu strip, side dishes of soy dipping sauce and green onions, wooden table, winter soft light, no text"
+  },
+  {
+   "title_zh": "千枚漬",
+   "title_ja": "千枚漬",
+   "category": "特產食材",
+   "summary_zh": "聖護院蕪菁切薄片醃成的京都冬季名漬。",
+   "body_zh": "千枚漬是京都三大漬物之一（與酸莖漬、柴漬並稱）。1865年，由宮中料理人大黑屋藤三郎創製。主材是聖護院蕪菁，切成薄如「千枚」的片，與昆布、辣椒層疊入桶。傳統以鹽漬乳酸發酵，現代多改醋漬，呈白色。產季限於蕪菁收成期的11月至3月。",
+   "facts": [
+    {"label": "起源", "value": "1865年由宮中料理人大黑屋藤三郎創製"},
+    {"label": "主要食材", "value": "聖護院蕪菁、昆布、辣椒"},
+    {"label": "時節", "value": "11月至3月"}
+   ],
+   "season_zh": "冬季",
+   "where_zh": "京都錦市場與各漬物老鋪",
+   "tags": ["漬物", "聖護院蕪菁", "京漬物", "冬季"],
+   "sources": ["https://ja.wikipedia.org/wiki/千枚漬"],
+   "confidence": "high",
+   "prompt_en": "Paper-thin white senmaizuke turnip slices layered and fanned out on a small blue-white ceramic plate with a strip of kombu, dark wooden table, soft daylight, no text"
+  },
+  {
+   "title_zh": "八橋",
+   "title_ja": "八ツ橋",
+   "category": "甜點和菓子",
+   "summary_zh": "米粉肉桂烤製的京都代表伴手禮。",
+   "body_zh": "八ツ橋是以米粉、砂糖與肉桂（ニッキ）蒸、壓平後烤成的瓦片狀煎餅。起源有兩說：紀念箏曲名家八橋檢校，或取自《伊勢物語》八橋典故，兩說都指向約1689年。1960年代出現不烘烤的「生八ツ橋」，包紅豆、抹茶等餡。2006年市調顯示其約占京都伴手禮點心的45.6%。",
+   "facts": [
+    {"label": "起源", "value": "有紀念八橋檢校與《伊勢物語》兩說，約1689年"},
+    {"label": "主要食材", "value": "米粉、砂糖、肉桂"},
+    {"label": "吃法", "value": "烤製煎餅或包餡的生八ツ橋"}
+   ],
+   "season_zh": "全年",
+   "where_zh": "京都車站、祇園、清水寺一帶的和菓子店",
+   "tags": ["肉桂", "米粉", "伴手禮", "生八ツ橋"],
+   "sources": ["https://ja.wikipedia.org/wiki/八つ橋"],
+   "confidence": "high",
+   "prompt_en": "Baked curved yatsuhashi cinnamon rice crackers and a few triangular nama yatsuhashi folded around red bean paste on a small ceramic plate, green tea beside, wooden table, soft light, no text"
+  },
+  {
+   "title_zh": "伏見清酒",
+   "title_ja": "伏見の日本酒",
+   "category": "酒與飲品",
+   "summary_zh": "伏見酒藏群釀造的京都代表清酒。",
+   "body_zh": "伏見是日本酒的重要產地，產量規模僅次於兵庫灘。區內有月桂冠、キザクラ等大型酒造，仰賴豐富的伏流水釀酒，其「伏見的酒藏」入選環境省「香味風景100選」。江戶時代起酒造就是伏見的商業核心。口感常被描述為柔和，但水質等細節本次未能完整查證。",
+   "facts": [
+    {"label": "起源", "value": "江戶時代起酒造為伏見商業核心"},
+    {"label": "主要食材", "value": "米、伏流水（酒米與水質細節待確認）"},
+    {"label": "吃法", "value": "冷酒、常溫或溫酒，配京料理"}
+   ],
+   "season_zh": "全年（新酒冬季）",
+   "where_zh": "京都市伏見區的酒藏街與月桂冠大倉紀念館周邊",
+   "tags": ["日本酒", "伏見", "酒藏", "伏流水"],
+   "sources": ["https://ja.wikipedia.org/wiki/伏見区", "https://ja.wikipedia.org/wiki/日本酒"],
+   "confidence": "medium",
+   "prompt_en": "A small sake bottle and a ceramic ochoko cup of clear sake on a dark wooden tray, wooden sake barrel blurred in the background, soft warm light, no text, no label"
+  },
+  {
+   "title_zh": "京都拉麵",
+   "title_ja": "京都ラーメン",
+   "category": "B級美食",
+   "summary_zh": "濃厚醬油與背脂湯底的京都拉麵。",
+   "body_zh": "京都拉麵大致分三系：以豚骨與叉燒滷汁熬成的濃醬油、雞骨湯加豬背脂的背脂系、以及煮到白濁的雞白湯，共通點是濃厚。其中背脂系被認為發祥自「ますたに」，老鋪「新福菜館」創業於1938年，「第一旭」創業於1947年。沒有統一的固定形式，是它和喜多方、博多拉麵的不同。",
+   "facts": [
+    {"label": "起源", "value": "背脂系傳為ますたに發祥；新福菜館1938年、第一旭1947年創業"},
+    {"label": "主要食材", "value": "雞骨或豚骨湯、醬油、背脂、叉燒"},
+    {"label": "吃法", "value": "湯濃味重，常配白飯"}
+   ],
+   "season_zh": "全年",
+   "where_zh": "京都車站周邊的拉麵老鋪",
+   "tags": ["拉麵", "背脂", "醬油", "濃厚"],
+   "sources": ["https://ja.wikipedia.org/wiki/京都ラーメン"],
+   "confidence": "high",
+   "prompt_en": "A bowl of Kyoto-style ramen with dark rich soy broth, thin noodles, slices of chashu pork and green onions, glossy back-fat droplets, dark wooden counter, steam, warm light, no text"
+  }
+ ]
+}

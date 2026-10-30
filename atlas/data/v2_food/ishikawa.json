@@ -1,0 +1,277 @@
+{
+ "id": "ishikawa",
+ "foods": [
+  {
+   "title_zh": "治部煮",
+   "title_ja": "治部煮",
+   "category": "鄉土料理",
+   "summary_zh": "金澤代表的鴨肉裹粉燉煮料理。",
+   "body_zh": "治部煮是金澤具代表性的鄉土料理，將薄切的鴨肉或雞肉裹上麵粉，與麵筋、香菇、菠菜等一起以醬油、砂糖、味醂、酒煮成，附山葵。麵粉封住肉汁並讓湯汁變稠。名稱由來有多種說法：說是中文「熟鳧」、說1588年高山右近傳入加賀、也說來自豐臣秀吉的糧官岡部治部右衛門，並無定論。",
+   "facts": [
+    {
+     "label": "起源",
+     "value": "由來有多說（熟鳧、高山右近、岡部治部）"
+    },
+    {
+     "label": "主要食材",
+     "value": "鴨肉或雞肉、麵筋、香菇、青菜"
+    },
+    {
+     "label": "吃法",
+     "value": "加山葵"
+    }
+   ],
+   "season_zh": "冬季",
+   "where_zh": "金澤市料亭與加賀料理店",
+   "tags": [
+    "加賀料理",
+    "鴨肉",
+    "燉煮",
+    "金澤"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/治部煮"
+   ],
+   "confidence": "medium",
+   "prompt_en": "A lacquer bowl of jibuni, thin floured duck slices simmered in glossy dark soy broth with shiitake, wheat gluten and green spinach, a dab of wasabi on the side, dark wooden table, warm light, no text"
+  },
+  {
+   "title_zh": "蕪菁壽司",
+   "title_ja": "かぶら寿司",
+   "category": "鄉土料理",
+   "summary_zh": "蕪菁夾鰤魚，以米麴發酵的加賀冬季壽司。",
+   "body_zh": "蕪菁壽司起源於江戶初期的加賀地區，確切由來不明；傳說金澤宮腰的漁夫把鰤魚夾在蕪菁之間，以麴醃漬來慶祝新年漁期。主要材料是蕪菁片與鰤魚片，另加胡蘿蔔、昆布，用米麴發酵。主要在11月至1月製作，是北陸冬季代表料理，也是新年御節的一員，1972年復興熱潮後成為全國伴手禮。",
+   "facts": [
+    {
+     "label": "起源",
+     "value": "江戶初期加賀地區，確切不明"
+    },
+    {
+     "label": "主要食材",
+     "value": "蕪菁、鰤魚、米麴、胡蘿蔔、昆布"
+    },
+    {
+     "label": "時節",
+     "value": "11月至1月"
+    }
+   ],
+   "season_zh": "11月至1月",
+   "where_zh": "金澤市及舊加賀藩地區",
+   "tags": [
+    "發酵",
+    "蕪菁",
+    "鰤魚",
+    "新年"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/かぶらずし"
+   ],
+   "confidence": "medium",
+   "prompt_en": "Round slices of white turnip sandwiching pink yellowtail, fermented with rice koji, with thin carrot and kombu, on a small pale ceramic plate, wooden table, soft cold daylight, no text"
+  },
+  {
+   "title_zh": "加能蟹",
+   "title_ja": "加能ガニ",
+   "category": "海鮮",
+   "summary_zh": "石川縣品牌的雄性松葉蟹，藍色標籤。",
+   "body_zh": "加能蟹是石川縣雄性楚蟹（松葉蟹）的品牌，2006年正式命名，腳上掛藍色標籤；雌蟹稱「香箱蟹」，長年深受石川人喜愛，漁期自11月6日開始。這與福井的越前蟹（黃色標籤）同為北陸的蟹品牌。可水煮、蒸或燒烤，也能做成蟹鍋，品嚐蟹肉的甘甜。冬季是石川最受矚目的海味之一。",
+   "facts": [
+    {
+     "label": "產地",
+     "value": "石川縣近海"
+    },
+    {
+     "label": "主要食材",
+     "value": "雄楚蟹（藍色標籤）"
+    },
+    {
+     "label": "相關",
+     "value": "雌蟹稱香箱蟹，漁期11月6日起"
+    }
+   ],
+   "season_zh": "冬季（11月起）",
+   "where_zh": "金澤、能登的漁港與料亭",
+   "tags": [
+    "螃蟹",
+    "松葉蟹",
+    "冬季",
+    "品牌"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/ズワイガニ"
+   ],
+   "confidence": "medium",
+   "prompt_en": "A whole boiled snow crab with a blue tag on its leg, bright red-orange shell, on a dark ceramic platter with a lemon wedge, wooden table, soft light, no text"
+  },
+  {
+   "title_zh": "能登牛",
+   "title_ja": "能登牛",
+   "category": "肉類",
+   "summary_zh": "石川縣內流通為主的黑毛和牛品牌。",
+   "body_zh": "能登牛是石川縣的品牌牛，1995年由能登牛銘柄推進協議會認定。條件為血統明確的黑毛和種，在石川縣內肥育期最長，肉質等級須A3或B3以上；更高級的「能登牛Premium」要求A5並設油酸含量標準。產量有限，幾乎只在石川縣內流通，2007年於全國和牛能力共進會獲特別獎並取得地域團體商標。",
+   "facts": [
+    {
+     "label": "產地",
+     "value": "石川縣"
+    },
+    {
+     "label": "主要食材",
+     "value": "黑毛和種牛肉"
+    },
+    {
+     "label": "等級",
+     "value": "A3、B3以上；Premium為A5"
+    }
+   ],
+   "season_zh": "全年",
+   "where_zh": "石川縣內的燒肉、鐵板燒與牛排店",
+   "tags": [
+    "和牛",
+    "品牌牛",
+    "石川",
+    "霜降"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/能登牛"
+   ],
+   "confidence": "high",
+   "prompt_en": "Two thick slices of seared Noto wagyu steak, finely marbled pink interior, on a dark stone plate with sea salt and a small wasabi mound, charcoal tones, soft side light, no text"
+  },
+  {
+   "title_zh": "長生殿",
+   "title_ja": "長生殿",
+   "category": "甜點和菓子",
+   "summary_zh": "金澤森八的紅白落雁，名列日本三大銘菓。",
+   "body_zh": "長生殿是金澤老鋪森八製作的落雁。傳說三代森八受加賀藩三代藩主前田利常之命，製作七夕用的落雁。以四國產和三盆糖與北陸產糯米製成紅白兩色，成品刻有茶人書寫的文字。它被稱為日本三大銘菓之一，與長岡「越乃雪」、松江「山川」並列，也被視為落雁的最高級品。",
+   "facts": [
+    {
+     "label": "起源",
+     "value": "加賀藩三代藩主前田利常命製七夕落雁"
+    },
+    {
+     "label": "主要食材",
+     "value": "和三盆糖、北陸產糯米"
+    },
+    {
+     "label": "地位",
+     "value": "日本三大銘菓之一"
+    }
+   ],
+   "season_zh": "全年",
+   "where_zh": "金澤市森八本店",
+   "tags": [
+    "落雁",
+    "加賀",
+    "和三盆",
+    "銘菓"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/長生殿_(菓子)"
+   ],
+   "confidence": "high",
+   "prompt_en": "Red and white pressed rakugan sweets with carved wooden-mold patterns on a lacquer tray, pale and powdery, with a small cup of matcha, tatami tones, soft light, no text"
+  },
+  {
+   "title_zh": "能登魚醬",
+   "title_ja": "いしり／いしる",
+   "category": "特產食材",
+   "summary_zh": "能登半島北部以魚內臟發酵的魚露。",
+   "body_zh": "いしり（いしる）是能登半島北部的魚醬，以沙丁魚或烏賊的內臟、頭與骨鹽漬發酵而成。多數地區稱「いしる」，小木、宇出津一帶稱「いしり」。常見用法是做成「貝燒」（用烏賊、蝦等的鄉土料理）的調味，或作為火鍋的隱藏提味，味道鮮鹹濃郁。在地人視它為能登飲食的味道根基。",
+   "facts": [
+    {
+     "label": "產地",
+     "value": "能登半島北部"
+    },
+    {
+     "label": "主要食材",
+     "value": "沙丁魚、烏賊的內臟與骨、鹽"
+    },
+    {
+     "label": "用法",
+     "value": "貝燒、火鍋提味"
+    }
+   ],
+   "season_zh": "全年",
+   "where_zh": "能登半島（小木、宇出津等地）",
+   "tags": [
+    "魚醬",
+    "發酵",
+    "能登",
+    "調味"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/魚醤"
+   ],
+   "confidence": "medium",
+   "prompt_en": "A small glass bottle of amber fish sauce ishiri beside a shallow dish of the dark golden liquid and a pair of grilled squid pieces, rustic wooden table, soft side light, no text"
+  },
+  {
+   "title_zh": "金澤咖哩",
+   "title_ja": "金沢カレー",
+   "category": "B級美食",
+   "summary_zh": "黑色濃稠咖哩配豬排與高麗菜絲。",
+   "body_zh": "金澤咖哩由西餐廚師田中吉和創立的「咖哩冠軍」前身洋食田中（1961年開業），最遲1963年已確立現在的風格。特色是顏色深、很濃稠的咖哩醬，盛在不鏽鋼船形盤，用叉子或有開槽的湯匙吃，上面鋪豬排並淋醬，配高麗菜絲。「金澤咖哩」一詞在2000年代中期才出現，透過電視與連鎖店走向全國。",
+   "facts": [
+    {
+     "label": "起源",
+     "value": "洋食田中，1961年開業，最遲1963年定型"
+    },
+    {
+     "label": "主要食材",
+     "value": "深色濃咖哩、豬排、高麗菜絲、米飯"
+    },
+    {
+     "label": "特色",
+     "value": "不鏽鋼船形盤"
+    }
+   ],
+   "season_zh": "全年",
+   "where_zh": "金澤市內的咖哩專門店",
+   "tags": [
+    "咖哩",
+    "豬排",
+    "不鏽鋼盤",
+    "B級"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/金沢カレー"
+   ],
+   "confidence": "high",
+   "prompt_en": "A stainless steel boat-shaped plate of Kanazawa curry, thick dark curry over rice, breaded pork cutlet on top drizzled with sauce, shredded cabbage on the side, a fork, light counter, soft light, no text"
+  },
+  {
+   "title_zh": "炸魚蛋包飯",
+   "title_ja": "ハントンライス",
+   "category": "麵飯",
+   "summary_zh": "番茄醬炒飯包蛋皮，鋪白身魚炸物。",
+   "body_zh": "ハントンライス是石川縣的在地洋食，據說誕生於百貨公司員工餐，讓員工在短暫休息中一盤吃到飯與配菜。做法是番茄醬調味的奶油飯，用薄蛋皮包成蛋包飯狀，上面放白身魚排，再淋番茄醬與塔塔醬，常盛在亮面銀盤，與金澤咖哩的呈現相似。2015年北陸新幹線通車後更受關注。名字結合「Hun」與法語「thon」，其實只是創造的詞。",
+   "facts": [
+    {
+     "label": "起源",
+     "value": "石川縣，百貨公司員工餐（細節未核實）"
+    },
+    {
+     "label": "主要食材",
+     "value": "奶油飯、蛋皮、白身魚排、番茄醬、塔塔醬"
+    },
+    {
+     "label": "特色",
+     "value": "亮面銀盤盛裝"
+    }
+   ],
+   "season_zh": "全年",
+   "where_zh": "金澤市內的洋食店與咖啡店",
+   "tags": [
+    "蛋包飯",
+    "洋食",
+    "白身魚",
+    "B級"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/ハントンライス"
+   ],
+   "confidence": "medium",
+   "prompt_en": "A glossy silver oval plate of hanton rice, ketchup rice wrapped in a thin yellow omelet, topped with a fried white fish fillet, drizzled with ketchup and tartar sauce, light diner table, soft light, no text"
+  }
+ ]
+}

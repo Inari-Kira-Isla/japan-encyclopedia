@@ -1,0 +1,159 @@
+{
+  "id": "tokushima",
+  "spots": [
+    {
+      "title_zh": "鳴門漩渦",
+      "title_ja": "鳴門の渦潮",
+      "category": "海島海岸",
+      "area_zh": "鳴門市",
+      "summary_zh": "鳴門海峽的巨大潮流漩渦",
+      "body_zh": "鳴門海峽位於四國東北端的鳴門市與淡路島之間，連接瀬戶內海的播磨灘與太平洋的紀伊水道，最窄處約1,340公尺。兩側海域漲退潮的時間差使潮位差最大達約1.5公尺，流速可到時速約20公里，再加上海底地形，形成著名的鳴門漩渦，多出現於最窄處下游一側。海峽被指定為國家名勝，並有大鳴門橋跨越。可於橋下步道或乘船近距離觀看。",
+      "facts": [
+        {"label": "所在地", "value": "德島縣鳴門市與兵庫縣淡路島之間的鳴門海峽"},
+        {"label": "開創／成因", "value": "兩側海域潮位差與海底地形造成強烈潮流，形成漩渦"},
+        {"label": "看點", "value": "漩渦潮景、大鳴門橋、瀬戶內海國立公園"}
+      ],
+      "best_season_zh": "春秋大潮時段",
+      "tips_zh": "漩渦大小隨潮汐而變，出發前請查詢當日潮汐表與漩渦預報，再決定搭船或步道觀賞時段。",
+      "tags": ["漩渦", "鳴門海峽", "大鳴門橋", "國家名勝"],
+      "sources": ["https://ja.wikipedia.org/wiki/鳴門海峡"],
+      "confidence": "high",
+      "prompt_en": "Strong tidal whirlpools swirling in a narrow sea strait, white foam spirals on deep blue water, a long suspension bridge across the strait in the background, bright midday sun, aerial angle, no text, no signs, no recognizable people"
+    },
+    {
+      "title_zh": "大塚國際美術館",
+      "title_ja": "大塚国際美術館",
+      "category": "主題設施",
+      "area_zh": "鳴門市",
+      "summary_zh": "陶板複製世界名畫的巨型美術館",
+      "body_zh": "大塚國際美術館位於鳴門公園內，是大塚製藥集團為創業75週年於1998年開設的美術館，特色是用陶板把西洋名畫以原寸複製展示。從古代到現代按時序陳列，參觀路線約4公里。因位處瀬戶內海國立公園，建築高度限制在13公尺內，施工時一度削山後再回填，地下共有數層。總工費約400億日圓，年訪客約42萬人（2018年度）。陶板不褪色，可近距離欣賞名作細節。",
+      "facts": [
+        {"label": "所在地", "value": "德島縣鳴門市，鳴門公園內"},
+        {"label": "開創／成因", "value": "1998年開館，大塚集團創業75週年事業；陶板複製技術"},
+        {"label": "看點", "value": "原寸陶板名畫、約4公里鑑賞路線、巨型建築"}
+      ],
+      "best_season_zh": "全年；雨天亦適合",
+      "tips_zh": "展品多、路線長，建議預留半天以上並穿舒適鞋子，中途可在館內休息。門票價格與休館日出發前請查官方網站。",
+      "tags": ["美術館", "陶板", "名畫複製", "鳴門公園"],
+      "sources": ["https://ja.wikipedia.org/wiki/大塚国際美術館"],
+      "confidence": "medium",
+      "prompt_en": "Grand underground-style museum hall with a tall ceramic-tile reproduction of a classic fresco wall, long marble-like floor reflecting soft skylight, symmetric one-point perspective view down a corridor, no readable text, no signs, no recognizable people"
+    },
+    {
+      "title_zh": "祖谷蔓橋",
+      "title_ja": "祖谷のかずら橋",
+      "category": "自然絕景",
+      "area_zh": "三好市",
+      "summary_zh": "以葛藤編成的原始吊橋",
+      "body_zh": "祖谷蔓橋位於三好市西祖谷山村善德，是以山葡萄蔓類植物（葛藤）編織的原始吊橋，長約45公尺、寬約2公尺、離谷底高約14公尺，是日本三奇橋之一，也是重要有形民俗文化財。相傳起源與空海或平家落人有關，但並無定論。現在的橋為安全起見內部加了鋼索，葛藤作為包覆，且約每三年重新架設一次。踩在縫隙間可見下方溪流，頗刺激。",
+      "facts": [
+        {"label": "所在地", "value": "德島縣三好市西祖谷山村善德，祖谷溪"},
+        {"label": "開創／成因", "value": "古來以葛藤架橋，傳說與空海或平家落人有關；昭和3年（1928年）復原"},
+        {"label": "看點", "value": "葛藤吊橋、祖谷溪景觀、約每三年更換一次"},
+        {"label": "門票", "value": "大人550日圓（資料為2022年10月時點，現況請確認）"}
+      ],
+      "best_season_zh": "秋季紅葉；新綠",
+      "tips_zh": "橋面縫隙大且會搖晃，怕高者請謹慎；單向通行、請勿多人同時奔跑或停留，並注意腳步與隨身物品。",
+      "tags": ["吊橋", "祖谷溪", "日本三奇橋", "民俗文化財"],
+      "sources": ["https://ja.wikipedia.org/wiki/かずら橋"],
+      "confidence": "high",
+      "prompt_en": "Primitive vine suspension bridge with gaps in wooden planks hanging over a clear emerald river in a deep V-shaped valley, steep forested slopes, autumn foliage, soft mist and diffused light, no text, no signs, no recognizable people"
+    },
+    {
+      "title_zh": "大步危峽",
+      "title_ja": "大歩危",
+      "category": "自然絕景",
+      "area_zh": "三好市",
+      "summary_zh": "吉野川的V字峽谷與激流",
+      "body_zh": "大步危位於三好市吉野川中游，與小步危同為V字形峽谷，由三波川變成岩構成，德島稱為「阿波之青石」。大步危的含礫片岩2014年被指定為國家天然記念物，2015年又指定為國家名勝，後來加入小步危改稱「大步危小步危」。據說1891至1892年左右開始有遊覽船，現在可乘船遊覽，也有激流泛舟與獨木舟。看點是溪谷兩側奇岩與清澈的吉野川。",
+      "facts": [
+        {"label": "所在地", "value": "德島縣三好市，吉野川中游，近高知縣境"},
+        {"label": "開創／成因", "value": "三波川變成岩被河水侵蝕成V字谷；2014年國天然記念物、2015年國名勝"},
+        {"label": "看點", "value": "奇岩峽谷、遊覽船、激流泛舟"}
+      ],
+      "best_season_zh": "新綠與秋季紅葉",
+      "tips_zh": "遊覽船與泛舟的營運日和河川水量有關，出發前請先確認營運狀況；也可與祖谷蔓橋、祖谷溫泉安排在同一天。",
+      "tags": ["峽谷", "吉野川", "國天然記念物", "泛舟"],
+      "sources": ["https://ja.wikipedia.org/wiki/大歩危"],
+      "confidence": "high",
+      "prompt_en": "Deep river gorge with layered gray-green schist rock walls on both sides, clear blue-green river flowing through, a small wooden sightseeing boat at the bank, lush forest on the cliff edges, soft morning light, no text, no signs, no recognizable people"
+    },
+    {
+      "title_zh": "靈山寺（四國八十八所第一番）",
+      "title_ja": "霊山寺",
+      "category": "神社寺院",
+      "area_zh": "鳴門市",
+      "summary_zh": "四國遍路的起點第一番札所",
+      "body_zh": "靈山寺位於鳴門市，是高野山真言宗寺院，也是四國八十八所靈場的第一番札所，許多遍路旅人從這裡出發。寺傳奈良時代天平年間（729至749年）由聖武天皇敕願、行基開創，弘仁6年（815年）空海來此修行21天，將其命名為竺和山靈山寺。1582年遭長宗我部元親兵火焚毀，後由蜂須賀氏重建。多寶塔建於應永年間（1394至1428年），與山門、本堂、大師堂構成境內。",
+      "facts": [
+        {"label": "所在地", "value": "德島縣鳴門市，四國八十八所第一番"},
+        {"label": "開創／成因", "value": "寺傳天平年間由行基開創；815年空海來訪修行"},
+        {"label": "看點", "value": "山門、本堂、多寶塔、遍路起點氣氛"}
+      ],
+      "best_season_zh": "春秋；遍路旺季",
+      "tips_zh": "初次遍路者可在寺院周邊備齊遍路用品。境內安靜，請遵守參拜禮節；開放時間請出發前確認。",
+      "tags": ["四國遍路", "第一番", "真言宗", "多寶塔"],
+      "sources": ["https://ja.wikipedia.org/wiki/霊山寺_(鳴門市)"],
+      "confidence": "high",
+      "prompt_en": "Quiet Buddhist temple precinct with a two-story gate and a small pagoda among tall cedar trees, stone-paved path with lanterns, gentle morning sunbeams through the leaves, no text, no signs, no recognizable people"
+    },
+    {
+      "title_zh": "劍山",
+      "title_ja": "剣山",
+      "category": "山岳高原",
+      "area_zh": "三好市・美馬市・那賀町",
+      "summary_zh": "四國第二高峰，修驗道靈山",
+      "body_zh": "劍山海拔1,955公尺，是德島縣最高峰，位於三好市、美馬市與那賀町之間，也是日本百名山，在西日本僅次於愛媛縣的石鎚山，為第二高峰。山頂為平緩的草地，眺望壯闊，一帶被劃為劍山國定公園。自古是修驗道的靈山，山腰與山頂有多座神社，傳說安德天皇的寶劍埋藏於此，故名劍山。江戶時代以後登拜者增加，如今是登山與眺望景色的熱門去處。",
+      "facts": [
+        {"label": "所在地", "value": "德島縣三好市、美馬市、那賀町交界，海拔1,955公尺"},
+        {"label": "開創／成因", "value": "傳說安德天皇之劍埋於山頂；古來為修驗道靈山"},
+        {"label": "看點", "value": "山頂草原與大展望、神社與行場、日本百名山"}
+      ],
+      "best_season_zh": "夏季新綠；秋季紅葉",
+      "tips_zh": "山區天氣多變且山頂風大，請備防寒雨具與登山鞋；纜車（吊椅）及登山口的運行狀況，出發前請先確認。",
+      "tags": ["日本百名山", "修驗道", "最高峰", "國定公園"],
+      "sources": ["https://ja.wikipedia.org/wiki/剣山"],
+      "confidence": "medium",
+      "prompt_en": "Gentle grassy mountain summit with sasa grass slopes and rocky outcrops, layered blue ridgelines receding in the distance, sea of clouds below, clear dawn light, no text, no signs, no recognizable people"
+    },
+    {
+      "title_zh": "德島城跡與表御殿庭園",
+      "title_ja": "徳島城",
+      "category": "城郭史蹟",
+      "area_zh": "德島市",
+      "summary_zh": "蜂須賀氏居城，青石石垣聞名",
+      "body_zh": "德島城位於JR德島站北側，建於吉野川河口三角洲上標高約61公尺的城山，屬於山城與平城結合的連郭式平山城。1585年蜂須賀家政入阿波後築城，翌年完成，此後約280年為德島藩主蜂須賀家的居城。1875年城郭建築被拆除，但石垣、護城河與表御殿庭園仍存，石垣以「阿波青石」砌成，景觀獨特。2006年成為國家史蹟，庭園為國家名勝，鷲之門已復原。",
+      "facts": [
+        {"label": "所在地", "value": "德島縣德島市德島町城內，JR德島站步行約10分鐘"},
+        {"label": "開創／成因", "value": "1585年蜂須賀家政入國，1586年築城完成"},
+        {"label": "看點", "value": "阿波青石石垣、表御殿庭園、復原的鷲之門"}
+      ],
+      "best_season_zh": "春（櫻）與秋季",
+      "tips_zh": "城跡已成公園，從德島站步行即可輕鬆散步，適合半天行程。庭園與博物館的開放時間和費用，出發前請確認官方資訊。",
+      "tags": ["城跡", "蜂須賀氏", "青石石垣", "國家史蹟"],
+      "sources": ["https://ja.wikipedia.org/wiki/徳島城"],
+      "confidence": "medium",
+      "prompt_en": "Moss-covered blue-green stone castle wall rising on a hill, traditional castle gate at its foot, stone-lined moat with calm water, large pine trees and spring cherry branches, soft morning light, no text, no signs, no recognizable people"
+    },
+    {
+      "title_zh": "祖谷溫泉",
+      "title_ja": "祖谷温泉",
+      "category": "溫泉",
+      "area_zh": "三好市",
+      "summary_zh": "纜車下谷底的溪畔秘湯",
+      "body_zh": "祖谷溫泉位於三好市祖谷溪沿岸，與北海道的ニセコ藥師溫泉、青森縣的谷地溫泉並稱日本三大秘湯。泉質為鹼性單純硫黃泉，源泉溫度約39.3度。唯一的旅館「祖谷溫泉飯店」，露天浴池設在谷底，要搭約5分鐘的纜車下降，溪流就在眼前。溫泉於1965年鑿井，旅館於1972年完成，纜車1984年設置，之後逐步擴大。從JR大步危站搭巴士約40分鐘。",
+      "facts": [
+        {"label": "所在地", "value": "德島縣三好市祖谷溪沿岸，縣道32號沿線"},
+        {"label": "開創／成因", "value": "1965年鑿井出泉，旅館1972年完成；泉質為鹼性單純硫黃泉"},
+        {"label": "看點", "value": "谷底露天浴池、纜車下行、日本三大秘湯之一"},
+        {"label": "交通", "value": "JR土讚線大步危站搭四國交通巴士約40分鐘"}
+      ],
+      "best_season_zh": "秋季紅葉；冬季靜謐",
+      "tips_zh": "山路蜿蜒，巴士班次少，建議提前查詢時刻或請旅館接送。日歸入浴的條件與費用需事先確認。",
+      "tags": ["秘湯", "祖谷溪", "纜車", "露天浴池"],
+      "sources": ["https://ja.wikipedia.org/wiki/祖谷温泉"],
+      "confidence": "medium",
+      "prompt_en": "Steaming outdoor hot spring bath beside a clear mountain stream at the bottom of a deep forested gorge, wet rocks and wooden edges, autumn leaves, a small cable car line rising up the cliff in the distance, soft misty light, no text, no signs, no recognizable people"
+    }
+  ]
+}

@@ -1,0 +1,813 @@
+{
+ "id": "chiba",
+ "name_zh": "千葉",
+ "name_ja": "千葉県",
+ "region": "關東",
+ "overview": {
+  "intro_zh": "千葉縣位於關東地區東南部，三面環海的房總半島，面積約5156平方公里，人口約628萬，緊鄰東京。縣廳在千葉市。成田國際機場是日本重要空運門戶，鄰近東京灣的城市化發達，南部的房總半島則有海岸、梯田與漁村。落花生、醬油、房總太卷壽司與鮮魚是代表特產，成田山新勝寺、鋸山、犬吠埼燈塔等景點受歡迎。",
+  "capital_zh": "千葉市",
+  "area_km2": 5156,
+  "population_approx": "約628萬",
+  "flower_zh": "油菜花（菜の花）",
+  "bird_zh": "白頰鵐（ホオジロ）",
+  "tree_zh": "槙（マキ）",
+  "climate_zh": "受黑潮影響，氣候溫暖，冬季少雪，夏季悶熱。",
+  "access_zh": "成田國際機場；東京站搭JR總武線快速至千葉約40分鐘。",
+  "specialties_zh": [
+   "落花生",
+   "房總太卷壽司",
+   "醬油",
+   "鮮魚海產",
+   "成田鰻魚",
+   "枇杷"
+  ],
+  "best_season_zh": "春季賞花與潮干狩；冬季看花田與日出"
+ },
+ "items": {
+  "architecture": {
+   "title_zh": "成田山新勝寺大本堂",
+   "title_ja": "成田山新勝寺 大本堂",
+   "summary_zh": "千年古剎，成田表參道通往大本堂。",
+   "body_zh": "成田山新勝寺位於千葉縣成田市，相傳開山於平安時代中期的天慶3年（940年），緣起是為了祈願平將門之亂平定而供奉不動明王。寺內有多座國家重要文化財，如仁王門、三重塔，現今的大本堂於1968年完成，屋頂莊嚴，香煙裊裊。新勝寺初詣參拜者眾多，2020年約305萬人，是日本寺院中排名第一。從成田站到寺院約有800公尺的表參道，兩側是鰻魚店、和菓子店與伴手禮店，充滿江戶風情。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "千葉縣成田市"
+    },
+    {
+     "label": "開山",
+     "value": "傳說940年（天慶3年）"
+    },
+    {
+     "label": "本尊",
+     "value": "不動明王"
+    },
+    {
+     "label": "初詣人數",
+     "value": "2020年約305萬人"
+    }
+   ],
+   "best_season_zh": "全年；元旦前後人潮最多",
+   "tips_zh": "成田機場轉機等待時，可搭京成或JR到成田站，步行約10分鐘到表參道；初詣期間建議避開高峰。",
+   "tags": [
+    "古剎",
+    "不動明王",
+    "參道",
+    "初詣"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/%E6%88%90%E7%94%B0%E5%B1%B1%E6%96%B0%E5%8B%9D%E5%AF%BA",
+    "https://en.wikipedia.org/wiki/Narita,_Chiba"
+   ],
+   "confidence": "high",
+   "prompt_en": "Great Main Hall of Naritasan Shinshoji temple with grand curved roof and incense smoke drifting, cloudy blue sky, front view"
+  },
+  "food": {
+   "title_zh": "房總太卷壽司",
+   "title_ja": "房総の太巻き祭り寿司",
+   "summary_zh": "切面浮現花紋與圖案的彩色壽司卷。",
+   "body_zh": "房總太卷壽司，又稱「太巻き祭り寿司」，是千葉縣的鄉土料理，切開後切面會出現花、鳥、文字等圖案，像金太郎糖一樣色彩豐富。據千葉縣編的《房總的故鄉料理》記載，1800年前後開始以煮甜的芋莖作為捲心，成為卷壽司的起源，常在婚喪喜慶等場合製作。名稱「太巻き祭り寿司」是研究者龍崎英子在1950年代命名。如今製作者老化，各地開辦教室傳承技術，一條卷的直徑可達約10公分。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "千葉縣（房總地區）"
+    },
+    {
+     "label": "特色",
+     "value": "切面有花與文字圖案"
+    },
+    {
+     "label": "用途",
+     "value": "婚喪喜慶、祭典"
+    },
+    {
+     "label": "傳承",
+     "value": "各地教室與家庭"
+    }
+   ],
+   "best_season_zh": "全年",
+   "tips_zh": "許多地方體驗教室提供製作課程，需預約；成品可當場品嚐。",
+   "tags": [
+    "鄉土料理",
+    "壽司",
+    "切面藝術",
+    "祭典"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/%E5%A4%AA%E5%B7%BB%E3%81%8D%E7%A5%AD%E3%82%8A%E5%AF%BF%E5%8F%B8"
+   ],
+   "confidence": "high",
+   "prompt_en": "Cross-section of colorful Boso futomaki sushi rolls revealing flower and pattern motifs made of rice and fillings, platter, top-down view"
+  },
+  "culture": {
+   "title_zh": "佐原大祭",
+   "title_ja": "佐原の大祭",
+   "summary_zh": "江戶風格山車巡遊的水鄉祭典。",
+   "body_zh": "佐原大祭是千葉縣香取市佐原的祭典總稱，包括7月的「本宿祇園祭」與10月的「新宿秋祭」，與川越氷川祭、石岡之祭並稱「關東三大山車祭」。山車為兩層構造，上層擺放歷史人物或以稻草製的大型裝飾，下層乘坐演奏「佐原囃子」的樂隊，由町內居民拉著遊行。2016年與其他地區祭典一同被列為聯合國無形文化遺產「山、鉾、屋台行事」。祭典期間，小野川畔的江戶風情街區特別熱鬧。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "千葉縣香取市佐原"
+    },
+    {
+     "label": "時間",
+     "value": "7月與10月"
+    },
+    {
+     "label": "特色",
+     "value": "山車與佐原囃子"
+    },
+    {
+     "label": "文化遺產",
+     "value": "2016年列入無形文化遺產"
+    }
+   ],
+   "best_season_zh": "7月與10月祭典期間",
+   "tips_zh": "祭典期間人潮多，住宿宜提早預約；平常可在小野川沿岸漫步，搭乘遊船。",
+   "tags": [
+    "祭典",
+    "山車",
+    "水鄉",
+    "無形文化遺產"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/%E4%BD%90%E5%8E%9F%E3%81%AE%E5%A4%A7%E7%A5%AD",
+    "https://en.wikipedia.org/wiki/Sawara,_Chiba"
+   ],
+   "confidence": "high",
+   "prompt_en": "Sawara Grand Festival huge two-tier float with large figure decoration and musicians on a canal-side old town street, bright autumn day, crowd"
+  },
+  "history": {
+   "title_zh": "加曾利貝塚",
+   "title_ja": "加曽利貝塚",
+   "summary_zh": "日本最大級的縄文貝塚，特別史跡。",
+   "body_zh": "加曾利貝塚位於千葉市若葉區，是縄文時代的環狀聚落遺址，由北貝塚與南貝塚組成，如8字形相連，是日本最大級的貝塚。北貝塚於1971年、南貝塚於1977年被指定為國家史跡，2017年升格為特別史跡，是貝塚遺址中首例。遺址出土的土器成為編年標準：北貝塚的「加曾利E式」與南貝塚的「加曾利B式」。園內有復原的竪穴住居與博物館，展示當時人類的生活與飲食。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "千葉縣千葉市若葉區"
+    },
+    {
+     "label": "時代",
+     "value": "縄文時代"
+    },
+    {
+     "label": "身分",
+     "value": "2017年特別史跡"
+    },
+    {
+     "label": "特色",
+     "value": "北貝塚與南貝塚相連"
+    }
+   ],
+   "best_season_zh": "春至秋季",
+   "tips_zh": "博物館展示出土品與貝層剖面；園內可免費參觀，建議穿好走的鞋。",
+   "tags": [
+    "貝塚",
+    "縄文",
+    "遺址",
+    "特別史跡"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/%E5%8A%A0%E6%9B%BD%E5%88%A9%E8%B2%9D%E5%A1%9A"
+   ],
+   "confidence": "high",
+   "prompt_en": "Kasori shell mound with grassy slopes and a reconstructed thatched pit dwelling, blue sky, wide view"
+  },
+  "mascot": {
+   "title_zh": "花生寶寶（原創）",
+   "title_ja": "チーバくん（原創替代）",
+   "summary_zh": "官方吉祥物是以縣形為輪廓的紅狗；此處畫原創花生角色。",
+   "body_zh": "千葉縣的官方吉祥物「チーバくん」，姿態是紅色的小狗，從側面看輪廓與千葉縣的地形相同，由繪本作家坂崎千春設計（她也設計了Suica的企鵝）。設計初期，她曾考慮以縣花油菜花與名產落花生為主題，但後來從地圖得到靈感。本項不複製任何官方商標吉祥物，而是畫一隻原創角色，取材於千葉最有名的特產「落花生」：圓潤的花生殼身形、圍著小圍巾，站在花生田間。",
+   "facts": [
+    {
+     "label": "官方吉祥物",
+     "value": "チーバくん（紅色小狗）"
+    },
+    {
+     "label": "設計者",
+     "value": "坂崎千春"
+    },
+    {
+     "label": "特徵",
+     "value": "側面輪廓似千葉縣地形"
+    },
+    {
+     "label": "本項",
+     "value": "原創花生角色"
+    }
+   ],
+   "best_season_zh": "全年",
+   "tips_zh": "縣內車站與機場常見吉祥物商品；千葉也是日本落花生的主要產地。",
+   "tags": [
+    "吉祥物",
+    "落花生",
+    "千葉縣",
+    "原創角色"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/%E3%83%81%E3%83%BC%E3%83%90%E3%81%8F%E3%82%93",
+    "https://ja.wikipedia.org/wiki/%E5%8D%83%E8%91%89%E7%9C%8C"
+   ],
+   "confidence": "high",
+   "prompt_en": "Cute original peanut-shaped character with big eyes and a tiny scarf standing in a field of peanut plants, soft storybook colors. Original cute character, not replicating any existing trademarked mascot."
+  },
+  "scenery": {
+   "title_zh": "鋸山",
+   "title_ja": "鋸山",
+   "summary_zh": "石切場遺跡與斷崖「地獄展望台」。",
+   "body_zh": "鋸山位於千葉縣南部的房總半島，標高約330公尺，因山稜呈鋸齒狀而得名。山腹有江戶時代至昭和時期開採「房州石」的巨大石切場遺跡，留下垂直的人工岩壁。山上的日本寺有大佛與「地獄展望台」（地獄のぞき），可從突出的岩石眺望東京灣。可搭乘鋸山纜車，也可健行登頂。晴天時，遠方可見富士山與橫濱方向。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "千葉縣富津市、鋸南町"
+    },
+    {
+     "label": "標高",
+     "value": "約330公尺"
+    },
+    {
+     "label": "特色",
+     "value": "石切場遺跡、地獄展望台"
+    },
+    {
+     "label": "寺院",
+     "value": "日本寺大佛"
+    }
+   ],
+   "best_season_zh": "秋冬晴天（視野佳）",
+   "tips_zh": "石階陡峭、地面易滑，建議穿登山鞋；地獄展望台限制入場人數，假日需排隊。",
+   "tags": [
+    "石切場",
+    "眺望",
+    "健行",
+    "日本寺"
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Mount_Nokogiri"
+   ],
+   "confidence": "medium",
+   "prompt_en": "Mount Nokogiri carved stone quarry cliffs with the Jigoku Nozoki lookout rock overhanging a drop, view of Tokyo Bay below, clear day"
+  },
+  "spot": {
+   "title_zh": "犬吠埼燈塔",
+   "title_ja": "犬吠埼灯台",
+   "summary_zh": "關東最東的白色燈塔，眺望日出。",
+   "body_zh": "犬吠埼燈塔位於千葉縣銚子市的犬吠埼岬角，是明治7年（1874年）11月首次點燈的白色磚造燈塔，高約31公尺。它是日本少數可登頂的燈塔之一，被指定為國家重要文化財（2020年）。燈塔所在地在關東地區是較早迎接日出的位置之一，因此元旦初日出的人潮很多。周邊有海岸岩礁與太平洋景色，也有燈塔資料館。",
+   "facts": [
+    {
+     "label": "所在地",
+     "value": "千葉縣銚子市"
+    },
+    {
+     "label": "初點燈",
+     "value": "1874年（明治7年）"
+    },
+    {
+     "label": "高度",
+     "value": "約31公尺"
+    },
+    {
+     "label": "文化財",
+     "value": "2020年重要文化財"
+    }
+   ],
+   "best_season_zh": "全年；元旦看日出",
+   "tips_zh": "登塔需付費並爬上螺旋階梯；強風日可能關閉，請先查營業時間。",
+   "tags": [
+    "燈塔",
+    "日出",
+    "太平洋",
+    "重要文化財"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/%E7%8A%AC%E5%90%A0%E5%9F%BC%E7%81%AF%E5%8F%B0",
+    "https://en.wikipedia.org/wiki/Inubosaki_Lighthouse"
+   ],
+   "confidence": "high",
+   "prompt_en": "Inubosaki Lighthouse white tower on coastal cliffs at sunrise with waves crashing on rocks below, warm orange sky"
+  },
+  "experience": {
+   "title_zh": "挖蛤蜊（潮干狩）",
+   "title_ja": "潮干狩り",
+   "summary_zh": "春季退潮時在灘塗挖蛤蜊的親子活動。",
+   "body_zh": "潮干狩是日本春季的傳統活動：趁大潮退潮時，到海灘或灘塗用小耙子挖蛤蜊、淺蜊等貝類，千葉縣東京灣沿岸的多處海灘，如木更津、富津與船橋一帶，是關東人氣的潮干狩場所。一般需先購買入場券，並可帶走一定重量的貝類。最佳時間為3至6月的大潮日，避開風雨天。收穫後可請店家代為處理，或帶回家做味噌湯與酒蒸。",
+   "facts": [
+    {
+     "label": "地點",
+     "value": "千葉縣東京灣沿岸（木更津、富津等）"
+    },
+    {
+     "label": "季節",
+     "value": "約3至6月"
+    },
+    {
+     "label": "道具",
+     "value": "小耙子、桶子"
+    },
+    {
+     "label": "費用",
+     "value": "按場地收費"
+    }
+   ],
+   "best_season_zh": "4至5月的大潮日",
+   "tips_zh": "出發前確認潮汐表；穿著可濕的衣物，帶毛巾；挖到的貝類需吐沙一晚。",
+   "tags": [
+    "春季",
+    "親子",
+    "海灘",
+    "貝類"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/%E6%BD%AE%E5%B9%B2%E7%8B%A9%E3%82%8A"
+   ],
+   "confidence": "medium",
+   "prompt_en": "Children and families clam digging on a tidal flat in spring with buckets and small rakes, bright sunny day, wide shot"
+  },
+  "costume": {
+   "title_zh": "房總海女服裝",
+   "title_ja": "房総の海女",
+   "summary_zh": "傳統白色潛水衣與潛水眼鏡。",
+   "body_zh": "海女是不依靠氧氣瓶，以屏息潛水採集鮑魚、龍蝦與海藻的女性潛水者。日本的海女主要分布在三重縣與千葉縣等地，千葉房總半島南端到外房一帶（如千倉、御宿）就有傳統的海女文化。傳統裝束為白色棉質潛水衣、頭巾與潛水眼鏡，現在也有穿橡膠潛水衣的海女。以下畫面僅畫匿名海女背影的服裝，不涉及特定人物，也不涉及肖像。",
+   "facts": [
+    {
+     "label": "地區",
+     "value": "千葉縣南房總至外房"
+    },
+    {
+     "label": "採集",
+     "value": "鮑魚、龍蝦、海藻"
+    },
+    {
+     "label": "傳統服裝",
+     "value": "白色潛水衣與頭巾"
+    },
+    {
+     "label": "特色",
+     "value": "屏息潛水"
+    }
+   ],
+   "best_season_zh": "夏季（解禁期因地而異）",
+   "tips_zh": "部分漁港有海女小屋，可吃現烤海鮮；潛水開放期由漁業協會規定。",
+   "tags": [
+    "海女",
+    "傳統職業",
+    "房總",
+    "漁村"
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Ama_(diver)",
+    "https://ja.wikipedia.org/wiki/%E6%B5%B7%E5%A5%B3"
+   ],
+   "confidence": "low",
+   "prompt_en": "Anonymous ama diver in traditional white diving suit and headscarf holding a net bucket on a rocky Boso coast at sunrise, back view"
+  }
+ },
+ "areas": [
+  {
+   "id": "chiba_narita",
+   "name_zh": "成田",
+   "name_ja": "成田",
+   "intro_zh": "成田是千葉縣北部的門戶，擁有成田國際機場與千年古剎成田山新勝寺。表參道上的鰻魚店歷史悠久，是遊客必訪。境內的成田山公園則是四季庭園，適合半日遊。",
+   "items": {
+    "spot": {
+     "title_zh": "成田山表參道",
+     "title_ja": "成田山表参道",
+     "summary_zh": "通往新勝寺的古老商店街。",
+     "body_zh": "成田山表參道是從成田站到新勝寺約800公尺的坡道，兩旁排列著鰻魚店、和菓子店、傳統雜貨與民藝品店。以鰻魚料理最為有名，很多店在櫥窗前現烤，香氣飄滿街道。參道保留江戶時期的街景氛圍，也常有祭典與表演。遊客常在參拜前後在此用餐、購買伴手禮。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "千葉縣成田市"
+      },
+      {
+       "label": "長度",
+       "value": "約800公尺"
+      },
+      {
+       "label": "特色",
+       "value": "鰻魚店、和菓子店"
+      }
+     ],
+     "best_season_zh": "全年",
+     "tips_zh": "午餐時段鰻魚店常排隊，可先抽號碼牌。",
+     "tags": [
+      "參道",
+      "鰻魚",
+      "商店街",
+      "古街"
+     ],
+     "sources": [
+      "https://en.wikipedia.org/wiki/Narita,_Chiba"
+     ],
+     "confidence": "medium",
+     "prompt_en": "Narita Omotesando old shopping street with wooden shopfronts and hanging lanterns leading uphill to a temple gate, soft afternoon light"
+    },
+    "food": {
+     "title_zh": "成田鰻魚飯",
+     "title_ja": "成田の鰻",
+     "summary_zh": "參道名物，炭烤蒲燒。",
+     "body_zh": "成田是知名的鰻魚料理之鄉，據說因當地多河川與沼澤、鰻魚易得，加上參拜客多而發展出來。烹調方式採關東風：先蒸後烤，以醬汁反覆刷烤，口感柔軟。常見吃法有蒲燒飯（鰻重）與白燒。許多老店在櫥窗前現場處理與炭烤，從店面就能聞到香氣。",
+     "facts": [
+      {
+       "label": "做法",
+       "value": "關東風，先蒸後烤"
+      },
+      {
+       "label": "吃法",
+       "value": "鰻重、白燒"
+      },
+      {
+       "label": "地點",
+       "value": "表參道與周邊老店"
+      }
+     ],
+     "best_season_zh": "全年",
+     "tips_zh": "午餐時段較忙，可選平日前往；鰻魚價格因產量浮動。",
+     "tags": [
+      "鰻魚",
+      "蒲燒",
+      "老店",
+      "炭烤"
+     ],
+     "sources": [
+      "https://en.wikipedia.org/wiki/Narita,_Chiba"
+     ],
+     "confidence": "low",
+     "prompt_en": "Narita grilled eel on rice in a lacquer box, glossy sauce, steam rising, wooden table"
+    },
+    "scenery": {
+     "title_zh": "成田山公園",
+     "title_ja": "成田山公園",
+     "summary_zh": "新勝寺後方的日式庭園與池塘。",
+     "body_zh": "成田山公園位於新勝寺後方，園內有池塘、拱橋、瀑布與茶室，面積廣大。春天賞櫻與杜鵑，秋季賞楓，是新勝寺後方的悠閒景點。園內有書道美術館與文化設施，適合慢慢散步。與擁擠的參道相比，這裡較為寧靜。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "千葉縣成田市"
+      },
+      {
+       "label": "特色",
+       "value": "池塘、日式庭園"
+      },
+      {
+       "label": "季節",
+       "value": "春櫻、秋楓"
+      }
+     ],
+     "best_season_zh": "4月（櫻）與11月（楓）",
+     "tips_zh": "參拜後再逛公園，入園免費。",
+     "tags": [
+      "庭園",
+      "櫻花",
+      "紅葉",
+      "散步"
+     ],
+     "sources": [
+      "https://en.wikipedia.org/wiki/Narita,_Chiba"
+     ],
+     "confidence": "low",
+     "prompt_en": "Naritasan Park pond with an arched bridge and autumn foliage, calm reflection, quiet morning"
+    }
+   }
+  },
+  {
+   "id": "chiba_boso_tateyama",
+   "name_zh": "房總・館山",
+   "name_ja": "房総・館山",
+   "intro_zh": "館山位於房總半島南端，面向東京灣與太平洋，氣候溫暖，是冬季也能看花的地方。這裡有里見氏的館山城，以及沿海花卉大道。海產豐富，是關東人度假、海水浴與潛水的熱門地。",
+   "items": {
+    "spot": {
+     "title_zh": "館山城",
+     "title_ja": "館山城",
+     "summary_zh": "安房名城，模擬天守展示八犬傳。",
+     "body_zh": "館山城是戰國時代安房國大名里見氏的居城，1580年由里見義賴築城，其後里見氏於1614年被幕府改易。現存的模擬天守是1982年建造，內部展示《南總里見八犬傳》的文物，旁邊有市立博物館介紹里見氏歷史。山上可遠眺館山灣與房總半島。周邊為城山公園，春季櫻花盛開。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "千葉縣館山市"
+      },
+      {
+       "label": "築城",
+       "value": "1580年（里見義賴）"
+      },
+      {
+       "label": "天守",
+       "value": "1982年建造的模擬天守"
+      },
+      {
+       "label": "展示",
+       "value": "南總里見八犬傳"
+      }
+     ],
+     "best_season_zh": "春季（櫻花）",
+     "tips_zh": "登山步行約10分鐘；模擬天守內有電梯以外的階梯，請留意體力。",
+     "tags": [
+      "山城",
+      "里見氏",
+      "八犬傳",
+      "眺望"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/%E9%A4%A8%E5%B1%B1%E5%9F%8E"
+     ],
+     "confidence": "high",
+     "prompt_en": "Tateyama Castle small replica keep atop a green hill with a view of the bay, blue sky, spring cherry blossoms"
+    },
+    "food": {
+     "title_zh": "房總海鮮丼",
+     "title_ja": "房総の海鮮",
+     "summary_zh": "安房海岸的新鮮魚貨。",
+     "body_zh": "房總半島南端的漁港如館山、富津與鋸南，以新鮮的海產著稱。當地的海鮮丼常見的有金目鯛、鯵魚、鮑魚與海螺等。漁港附近的食堂多半提供當日現撈的生魚片定食，價格親切。有些店家會把魚塊做成「漁師飯」，簡單鹽烤也很下飯。",
+     "facts": [
+      {
+       "label": "食材",
+       "value": "魚類、鮑魚、海螺"
+      },
+      {
+       "label": "形式",
+       "value": "海鮮丼、定食"
+      },
+      {
+       "label": "地點",
+       "value": "館山、富津、鋸南的漁港食堂"
+      }
+     ],
+     "best_season_zh": "全年；依魚種而異",
+     "tips_zh": "漁港食堂午餐時段早收，建議11點前到。",
+     "tags": [
+      "海鮮",
+      "丼飯",
+      "漁港",
+      "新鮮"
+     ],
+     "sources": [
+      "https://en.wikipedia.org/wiki/Tateyama,_Chiba"
+     ],
+     "confidence": "low",
+     "prompt_en": "Boso seafood bowl with fresh local fish, abalone and turban shells on rice, wooden counter, bright light"
+    },
+    "scenery": {
+     "title_zh": "房總花卉大道",
+     "title_ja": "房総フラワーライン",
+     "summary_zh": "沿海花田與海岸公路。",
+     "body_zh": "房總花卉大道（房總フラワーライン）是沿著千葉南房總海岸的道路，由於氣候溫暖，冬季到春季可見油菜花、金盞花與虞美人等花卉。花田與藍色海面相映，是自駕遊的熱門路線。部分花田開放採花體驗，適合家庭同遊。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "千葉縣南房總沿海"
+      },
+      {
+       "label": "花卉",
+       "value": "油菜花、金盞花、虞美人"
+      },
+      {
+       "label": "季節",
+       "value": "冬至春季"
+      }
+     ],
+     "best_season_zh": "1月至3月",
+     "tips_zh": "自駕或租單車皆可；花田採花常為付費體驗。",
+     "tags": [
+      "花海",
+      "沿海公路",
+      "自駕",
+      "冬季"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/%E6%88%BF%E7%B7%8F%E3%83%95%E3%83%A9%E3%83%AF%E3%83%BC%E3%83%A9%E3%82%A4%E3%83%B3"
+     ],
+     "confidence": "medium",
+     "prompt_en": "Boso flower line coastal road with fields of poppies and rapeseed blossoms beside a blue sea, sunny day"
+    }
+   }
+  },
+  {
+   "id": "chiba_kamogawa",
+   "name_zh": "鴨川",
+   "name_ja": "鴨川",
+   "intro_zh": "鴨川位於房總半島外房，海岸線長，氣候溫暖，是衝浪與度假的勝地。鴨川海洋世界吸引家庭客，內陸有梯田景觀。海鮮與鄉土料理豐富。",
+   "items": {
+    "spot": {
+     "title_zh": "鴨川海洋世界",
+     "title_ja": "鴨川シーワールド",
+     "summary_zh": "以虎鯨表演聞名的海洋公園。",
+     "body_zh": "鴨川海洋世界在1970年10月開業，是日本代表性的海洋公園，以虎鯨（シャチ）、海豚與海獅表演著名。開業後帶動鴨川成為度假地，周邊興建了飯店與旅館。園區面向太平洋，可近距離觀察海洋哺乳類。園區設有直營飯店，適合家族旅行。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "千葉縣鴨川市"
+      },
+      {
+       "label": "開業",
+       "value": "1970年10月"
+      },
+      {
+       "label": "特色",
+       "value": "虎鯨表演"
+      },
+      {
+       "label": "適合",
+       "value": "家庭、親子"
+      }
+     ],
+     "best_season_zh": "全年",
+     "tips_zh": "表演時間固定，建議進園後先查時程；假日人多，宜提早抵達。",
+     "tags": [
+      "水族館",
+      "虎鯨",
+      "親子",
+      "海洋"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/%E9%B4%A8%E5%B7%9D%E3%82%B7%E3%83%BC%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89",
+      "https://en.wikipedia.org/wiki/Kamogawa_Sea_World"
+     ],
+     "confidence": "high",
+     "prompt_en": "Large pool with an orca leaping over water and spectators in stands, bright day, ocean behind"
+    },
+    "food": {
+     "title_zh": "鴨川海鮮",
+     "title_ja": "鴨川の海鮮",
+     "summary_zh": "外房新鮮魚貨與鄉土料理。",
+     "body_zh": "鴨川臨太平洋，漁獲豐富，有鮑魚、龍蝦、沙丁魚與當季魚種。當地的食堂多提供新鮮生魚片定食與海鮮丼，也有漁師料理。市場在早上最熱鬧。",
+     "facts": [
+      {
+       "label": "食材",
+       "value": "鮑魚、龍蝦、當季魚"
+      },
+      {
+       "label": "形式",
+       "value": "生魚片定食、漁師料理"
+      },
+      {
+       "label": "地點",
+       "value": "鴨川市內食堂與市場"
+      }
+     ],
+     "best_season_zh": "全年",
+     "tips_zh": "可先看當日漁獲再點餐；沿海餐廳假日常客滿。",
+     "tags": [
+      "海鮮",
+      "外房",
+      "漁獲",
+      "生魚片"
+     ],
+     "sources": [
+      "https://en.wikipedia.org/wiki/Kamogawa,_Chiba"
+     ],
+     "confidence": "low",
+     "prompt_en": "Sashimi platter at a Kamogawa seafood restaurant, bright colors of local fish, wooden table"
+    },
+    "scenery": {
+     "title_zh": "大山千枚田",
+     "title_ja": "大山千枚田",
+     "summary_zh": "關東少見的階梯式稻田。",
+     "body_zh": "大山千枚田位於鴨川市大山，雖名為「千枚」，實際約有375塊稻田。這是關東地區少見的大規模梯田，1999年被農林水產省選為「日本梯田百選」。由於山地多、耕地整理較晚，梯田得以保存。春季插秧、夏季翠綠、秋季金黃。冬季偶有點燈活動（以官方公告為準），也有認養稻田制度。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "千葉縣鴨川市大山"
+      },
+      {
+       "label": "規模",
+       "value": "約375塊稻田"
+      },
+      {
+       "label": "榮譽",
+       "value": "1999年日本梯田百選"
+      },
+      {
+       "label": "活動",
+       "value": "認養稻田制度"
+      }
+     ],
+     "best_season_zh": "5至6月（水田倒影）、9月（稻穗金黃）",
+     "tips_zh": "農道狹窄，停車位有限；請勿踏入稻田。",
+     "tags": [
+      "梯田",
+      "稻田",
+      "農村",
+      "日本梯田百選"
+     ],
+     "sources": [
+      "https://ja.wikipedia.org/wiki/%E5%A4%A7%E5%B1%B1%E5%8D%83%E6%9E%9A%E7%94%B0"
+     ],
+     "confidence": "high",
+     "prompt_en": "Oyama Senmaida terraced rice fields on a hillside, bright green terraces with reflections, rural landscape"
+    }
+   }
+  },
+  {
+   "id": "chiba_urayasu_makuhari",
+   "name_zh": "浦安・幕張",
+   "name_ja": "浦安・幕張",
+   "intro_zh": "浦安與幕張分別是東京灣沿岸的新市鎮。浦安原為漁村，1980年代起因大型主題樂園而成為觀光地，同時保有傳統漁村的歷史。幕張新都心則以會展中心與海濱公園為代表，是現代化的水岸都市。",
+   "items": {
+    "spot": {
+     "title_zh": "浦安",
+     "title_ja": "浦安",
+     "summary_zh": "東京灣畔從漁村發展為度假城市的地方。",
+     "body_zh": "浦安市位於東京灣北岸，原是以捕撈淺蜊與海苔養殖為生的漁村，作家山本周五郎曾在《青べか物語》中描寫。1960年代以後灣岸大規模填海造陸，形成新市區，並於1983年開設大型主題樂園，成為國際知名的度假地。市內另保留「郷土博物館」與舊漁師町街景，讓人認識當地的過去。本項以城市為主題，不依賴任何商標畫面。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "千葉縣浦安市"
+      },
+      {
+       "label": "歷史",
+       "value": "漁村，填海造陸"
+      },
+      {
+       "label": "轉變",
+       "value": "1983年主題樂園開幕"
+      },
+      {
+       "label": "文化",
+       "value": "《青べか物語》"
+      }
+     ],
+     "best_season_zh": "全年",
+     "tips_zh": "可搭JR京葉線；若想看舊漁村，可參觀浦安市郷土博物館。",
+     "tags": [
+      "漁村",
+      "填海",
+      "度假",
+      "現代都市"
+     ],
+     "sources": [
+      "https://en.wikipedia.org/wiki/Urayasu,_Chiba"
+     ],
+     "confidence": "medium",
+     "prompt_en": "Fairy-tale whimsical European-style castle with fireworks over a bay, evening, generic original design with no logos"
+    },
+    "food": {
+     "title_zh": "浦安海苔與淺蜊",
+     "title_ja": "浦安の海苔・あさり",
+     "summary_zh": "漁村傳統的海產。",
+     "body_zh": "浦安在填海前是淺海地帶，居民以採淺蜊與養海苔維生，這些海產曾是東京的重要食材。炸淺蜊、淺蜊味噌湯與海苔是代表性的家常料理。如今漁業已大幅減少，但仍能在鄉土料理店與博物館了解其歷史。",
+     "facts": [
+      {
+       "label": "食材",
+       "value": "淺蜊、海苔"
+      },
+      {
+       "label": "料理",
+       "value": "炸淺蜊、味噌湯"
+      },
+      {
+       "label": "背景",
+       "value": "填海前的漁村文化"
+      }
+     ],
+     "best_season_zh": "春季（淺蜊）",
+     "tips_zh": "博物館可看復原的漁村生活；餐廳的淺蜊多半不是當地產。",
+     "tags": [
+      "淺蜊",
+      "海苔",
+      "漁村",
+      "鄉土"
+     ],
+     "sources": [
+      "https://en.wikipedia.org/wiki/Urayasu,_Chiba"
+     ],
+     "confidence": "low",
+     "prompt_en": "Fried clams asari and nori seaweed on a ceramic plate, traditional fishing-town dish, rustic table"
+    },
+    "scenery": {
+     "title_zh": "幕張海濱公園",
+     "title_ja": "幕張海浜公園",
+     "summary_zh": "東京灣畔的都會海濱公園。",
+     "body_zh": "幕張海濱公園位於千葉市美濱區，園內有人工海灘、草地與水景，背景是幕張新都心的高樓與會展中心。公園在夏季舉辦音樂活動與煙火，平常則是市民運動、野餐與看夕陽的地方。與傳統海灘相比，更像整備良好的都會水岸。",
+     "facts": [
+      {
+       "label": "所在地",
+       "value": "千葉縣千葉市美濱區"
+      },
+      {
+       "label": "特色",
+       "value": "人工海灘、草地"
+      },
+      {
+       "label": "周邊",
+       "value": "幕張新都心"
+      }
+     ],
+     "best_season_zh": "春秋與夕陽時分",
+     "tips_zh": "可搭JR海濱幕張站或京葉線，步行前往；風大時注意防風。",
+     "tags": [
+      "海濱公園",
+      "都會",
+      "夕陽",
+      "會展"
+     ],
+     "sources": [
+      "https://en.wikipedia.org/wiki/Makuhari"
+     ],
+     "confidence": "medium",
+     "prompt_en": "Makuhari Seaside Park with a sandy beach, green lawn and city skyline across a calm bay at sunset"
+    }
+   }
+  }
+ ]
+}
