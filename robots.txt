@@ -3,43 +3,43 @@ Allow: /
 
 # === International AI Crawlers ===
 User-agent: GPTBot
-Allow: /
+Disallow: /
 User-agent: ChatGPT-User
 Allow: /
 User-agent: ClaudeBot
-Allow: /
+Disallow: /
 User-agent: anthropic-ai
-Allow: /
+Disallow: /
 User-agent: PerplexityBot
 Allow: /
 User-agent: Google-Extended
-Allow: /
+Disallow: /
 User-agent: Googlebot
 Allow: /
 User-agent: Bingbot
 Allow: /
 User-agent: meta-externalagent
-Allow: /
+Disallow: /
 User-agent: FacebookBot
-Allow: /
+Disallow: /
 User-agent: Applebot-Extended
-Allow: /
+Disallow: /
 User-agent: CCBot
-Allow: /
+Disallow: /
 User-agent: YouBot
 Allow: /
 User-agent: cohere-ai
-Allow: /
+Disallow: /
 User-agent: Amazonbot
-Allow: /
+Disallow: /
 
 # === Chinese AI Crawlers ===
 User-agent: Baiduspider
 Allow: /
 User-agent: Bytespider
-Allow: /
+Disallow: /
 User-agent: TikTokSpider
-Allow: /
+Disallow: /
 User-agent: ChatGLM-Spider
 Allow: /
 User-agent: 360Spider
@@ -57,7 +57,7 @@ Allow: /
 User-agent: Kimi-Bot
 Allow: /
 User-agent: Doubao
-Allow: /
+Disallow: /
 User-agent: SparkBot
 Allow: /
 User-agent: SenseChat
@@ -66,3 +66,17 @@ User-agent: XiaoIce
 Allow: /
 
 Sitemap: https://japan-encyclopedia.vercel.app/sitemap.xml
+
+# === AI TRAINING crawlers: blocked (Phase 0, 2026-11-01, owner decision) ===
+# Training opt-out tokens. Search / answer / user-initiated bots stay allowed below.
+# Refs: developers.openai.com/api/docs/bots (GPTBot=training, OAI-SearchBot=search);
+#       support.claude.com/en/articles/8896518 (ClaudeBot=training; Claude-User, Claude-SearchBot separate).
+# facebookexternalhit / Facebot (link previews) are intentionally NOT blocked.
+User-agent: Diffbot
+Disallow: /
+User-agent: OAI-SearchBot
+Allow: /
+User-agent: Claude-SearchBot
+Allow: /
+User-agent: Claude-User
+Allow: /
